@@ -1,25 +1,55 @@
-## 29 July 2024 - Low Impact Forex News
+## 30 July 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | IDR | Foreign Direct Investment (YoY) | 16.60% |  | 15.50% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Jun) | 4.19% |  | 4.72% |
-| 07:00 | ZAR | Private Sector Credit (Jun) | 4.27% |  | 3.89% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Jun) | 6.04B |  | 5.91B |
-| 09:30 | GBP | BoE Consumer Credit (Jun) | 1.162B |  | 1.494B |
-| 09:30 | GBP | M3 Money Supply (Jun) | 3,056.2B |  | 3,040.8B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Jun) | 0.5% | 0.2% | -0.1% |
-| 09:30 | GBP | Mortgage Approvals (Jun) | 59.98K | 60.00K | 60.13K |
-| 09:30 | GBP | Mortgage Lending (Jun) | 2.65B |  | 1.26B |
-| 09:30 | GBP | Net Lending to Individuals | 3.816B | 2.200B | 2.800B |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jul) | -43 | -20 | -24 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Jun) | 62.2% |  | 62.2% |
-| 12:30 | BRL | Budget Balance (Jun) | -135.724B | -102.300B | -138.256B |
-| 12:30 | BRL | Budget Surplus (Jun) | -40.873B |  | -63.895B |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.252% |  | 3.341% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.610% |  | 3.576% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.456% |  | 3.540% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jul) | -17.5 |  | -15.1 |
-| 16:30 | USD | 3-Month Bill Auction | 5.145% |  | 5.190% |
-| 16:30 | USD | 6-Month Bill Auction | 4.930% |  | 4.990% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.2% |  | 0.2% |
+| 25 min | JPY | Jobs/applications ratio (Jun) |  | 1.24 | 1.24 |
+| 25 min | JPY | Unemployment Rate (Jun) |  | 2.6% | 2.6% |
+| 02:30 | AUD | Building Approvals (YoY) (Jun) |  |  | 15.00% |
+| 02:30 | AUD | Private House Approvals (Jun) |  |  | 2.1% |
+| 02:30 | AUD | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
+| 04:00 | IDR | Foreign Direct Investment (YoY) (Q2) |  |  | 15.50% |
+| 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 3.0% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) |  |  | 0.4% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q2) |  |  | 2.5% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.3% | 0.4% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.8% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 1.9% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 2.7% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | 0.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.1% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.6% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 2.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | 0.1% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.8% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | 0.1% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.371% |
+| 10:00 | EUR | Business and Consumer Survey (Jul) |  | 95.4 | 95.9 |
+| 10:00 | EUR | Business Climate (Jul) |  |  | -0.46 |
+| 10:00 | EUR | Consumer Confidence (Jul) |  | -13.0 | -14.0 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jul) |  |  | 13.1 |
+| 10:00 | EUR | Selling Price Expectations (Jul) |  |  | 6.1 |
+| 10:00 | EUR | Services Sentiment (Jul) |  | 6.4 | 6.5 |
+| 10:00 | EUR | Industrial Sentiment (Jul) |  | -10.5 | -10.1 |
+| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
+| 12:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
+| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -5.7 |
+| 12:30 | BRL | Federal Tax Revenue |  |  | 202.90B |
+| 12:30 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | 0.47% | 0.81% |
+| 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.2% | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jul) |  | 2.4% | 2.5% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Jun) |  |  | 0.45% |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
+| 14:00 | USD | House Price Index (MoM) (May) |  | 0.2% | 0.2% |
+| 14:00 | USD | House Price Index (YoY) (May) |  |  | 6.3% |
+| 14:00 | USD | House Price Index (May) |  |  | 424.3 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | 0.4% |
+| 15:30 | USD | Dallas Fed Services Revenues (Jul) |  |  | 1.9 |
+| 15:30 | USD | Texas Services Sector Outlook (Jul) |  |  | -4.1 |
+| 15:57 | ZAR | Budget Balance (MoM) (Jun) |  |  | -12.78B |
+| 18:00 | BRL | CAGED Net Payroll Jobs (Jun) |  | 155.00K | 131.81K |
+| 23:45 | NZD | Building Consents (MoM) (Jun) |  |  | -1.7% |
