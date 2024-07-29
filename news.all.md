@@ -21,8 +21,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.252% |  | 3.341% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.610% |  | 3.576% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.456% |  | 3.540% |
-| 24 min | USD | Low | Dallas Fed Mfg Business Index (Jul) |  |  | -15.1 |
-| 24 min | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.190% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.990% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) | -17.5 |  | -15.1 |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.145% |  | 5.190% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.930% |  | 4.990% |
 | 19:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
