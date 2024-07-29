@@ -6,14 +6,14 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (Jun) | 4.19% |  | 4.72% |
 | 07:00 | ZAR | Private Sector Credit (Jun) | 4.27% |  | 3.89% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jun) | 6.04B |  | 5.91B |
-| 22 min | GBP | BoE Consumer Credit (Jun) |  |  | 1.513B |
-| 22 min | GBP | M3 Money Supply (Jun) |  |  | 3,040.6B |
-| 22 min | GBP | M4 Money Supply (MoM) (Jun) |  | 0.2% | -0.1% |
-| 22 min | GBP | Mortgage Approvals (Jun) |  | 60.00K | 59.99K |
-| 22 min | GBP | Mortgage Lending (Jun) |  |  | 1.21B |
-| 22 min | GBP | Net Lending to Individuals |  | 2.200B | 2.700B |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jul) |  | -20 | -24 |
-| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
+| 09:30 | GBP | BoE Consumer Credit (Jun) | 1.162B |  | 1.494B |
+| 09:30 | GBP | M3 Money Supply (Jun) | 3,056.2B |  | 3,040.8B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Jun) | 0.5% | 0.2% | -0.1% |
+| 09:30 | GBP | Mortgage Approvals (Jun) | 59.98K | 60.00K | 60.13K |
+| 09:30 | GBP | Mortgage Lending (Jun) | 2.65B |  | 1.26B |
+| 09:30 | GBP | Net Lending to Individuals | 3.816B | 2.200B | 2.800B |
+| 54 min | GBP | CBI Distributive Trades Survey (Jul) |  | -20 | -24 |
+| 54 min | CNY | FDI (Jun) |  |  | -28.20% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.2% |
 | 12:30 | BRL | IGP-M Inflation Index (MoM) (Jul) |  |  | 0.81% |
