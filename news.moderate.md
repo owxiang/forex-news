@@ -13,8 +13,8 @@
 | 09:00 | EUR | German GDP (YoY) (Q2) | -0.1% | 0.0% | -0.2% |
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
-| 13:00 | MXN | GDP (YoY) (Q2) | 2.2% | 2.0% | 1.6% |
 | 13:00 | MXN | GDP (QoQ) (Q2) | 0.2% | 0.4% | 0.3% |
+| 13:00 | MXN | GDP (YoY) (Q2) | 2.2% | 2.0% | 1.6% |
 | 13:00 | EUR | German CPI (YoY) (Jul) | 2.3% | 2.2% | 2.2% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 1.0% |  | 1.4% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 6.8% | 6.5% | 7.3% |
