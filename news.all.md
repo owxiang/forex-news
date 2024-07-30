@@ -16,16 +16,16 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.8% |  | 3.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.8% | 3.0% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.5% |  | 0.4% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.9% |  | 2.6% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.5% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.9% |  | 2.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.7% | -0.3% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 3.3% | 3.6% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 2.5% |  | 2.7% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.1% | 0.0% | -0.2% |
@@ -43,21 +43,21 @@
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Jul) | 11.2 |  | 13.1 |
 | 10:00 | EUR | Low | Selling Price Expectations (Jul) | 6.8 |  | 6.2 |
 | 10:00 | EUR | Low | Services Sentiment (Jul) | 4.8 | 6.4 | 6.2 |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Low | Industrial Sentiment (Jul) | -10.5 | -10.5 | -10.2 |
-| 11:03 | ZAR | Low | Budget Balance (MoM) (Jun) | 38.55B |  | -12.78B |
-| 53 min | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
-| 53 min | EUR | Low | Spanish Business Confidence (Jul) |  |  | -5.7 |
-| 12:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
-| 12:30 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  | 0.47% | 0.81% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.4% | 0.3% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 2.0% | 1.6% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.2% | 2.2% |
-| 13:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (Jul) |  | 2.4% | 2.5% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.2% | 0.2% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | 0.45% |
+| 11:00 | ZAR | Low | Budget Balance (MoM) (Jun) | 38.55B |  | -12.78B |
+| 12:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
+| 12:00 | EUR | Low | Spanish Business Confidence (Jul) |  |  | -5.7 |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) | 0.61% | 0.47% | 0.81% |
+| 24 min | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
+| 54 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.4% | 0.3% |
+| 54 min | MXN | Moderate | GDP (YoY) (Q2) |  | 2.0% | 1.6% |
+| 54 min | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.2% | 2.2% |
+| 54 min | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 54 min | EUR | Low | German HICP (YoY) (Jul) |  | 2.4% | 2.5% |
+| 54 min | EUR | Low | German HICP (MoM) (Jul) |  | 0.2% | 0.2% |
+| 54 min | BRL | Low | Brazilian PPI (MoM) (Jun) |  |  | 0.45% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 6.3% |
 | 14:00 | USD | Low | House Price Index (MoM) (May) |  | 0.2% | 0.2% |
