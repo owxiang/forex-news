@@ -24,8 +24,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.082% |  | 4.371% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 95.4 | 95.9 |
 | 10:00 | EUR | Business Climate (Jul) | -0.61 |  | -0.47 |
@@ -35,18 +35,16 @@
 | 10:00 | EUR | Services Sentiment (Jul) | 4.8 | 6.4 | 6.2 |
 | 10:00 | EUR | Industrial Sentiment (Jul) | -10.5 | -10.5 | -10.2 |
 | 11:00 | ZAR | Budget Balance (MoM) (Jun) | 38.55B |  | -12.78B |
-| 12:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
-| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -5.7 |
+| 12:00 | EUR | Spanish Business Confidence (Jul) | -4.2 |  | -5.7 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) | 0.61% | 0.47% | 0.81% |
-| 24 min | BRL | Federal Tax Revenue |  |  | 202.90B |
-| 54 min | EUR | German HICP (YoY) (Jul) |  | 2.4% | 2.5% |
-| 54 min | EUR | German HICP (MoM) (Jul) |  | 0.2% | 0.2% |
-| 54 min | BRL | Brazilian PPI (MoM) (Jun) |  |  | 0.45% |
-| 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
-| 14:00 | USD | House Price Index (YoY) (May) |  |  | 6.3% |
-| 14:00 | USD | House Price Index (MoM) (May) |  | 0.2% | 0.2% |
-| 14:00 | USD | House Price Index (May) |  |  | 424.3 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | 0.4% |
+| 13:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.2% | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jul) | 2.6% | 2.4% | 2.5% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Jun) | 1.28% |  | 0.36% |
+| 46 min | USD | Redbook (YoY) |  |  | 4.9% |
+| 51 min | USD | House Price Index (YoY) (May) |  |  | 6.3% |
+| 51 min | USD | House Price Index (MoM) (May) |  | 0.2% | 0.2% |
+| 51 min | USD | House Price Index (May) |  |  | 424.3 |
+| 51 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | 0.4% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jul) |  |  | 1.9 |
 | 15:30 | USD | Texas Services Sector Outlook (Jul) |  |  | -4.1 |
 | 18:00 | BRL | CAGED Net Payroll Jobs (Jun) |  | 155.00K | 131.81K |
