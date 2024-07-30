@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Building Approvals (MoM) (Jun) | -6.5% | -2.1% | 5.7% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Jun) | -0.5% | -0.2% | 0.8% |
-| 06:30 | EUR | French GDP (YoY) (Q2) | 1.1% |  | 1.5% |
 | 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
+| 06:30 | EUR | French GDP (YoY) (Q2) | 1.1% |  | 1.5% |
 | 08:00 | CHF | KOF Leading Indicators (Jul) | 101.0 | 102.6 | 102.7 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.8% | 3.0% | 3.4% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.8% | 0.5% | 0.8% |

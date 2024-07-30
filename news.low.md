@@ -14,19 +14,19 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.7% | -0.3% | 0.4% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 2.5% |  | 2.7% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.6% |  | 2.6% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.371% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.082% |  | 4.371% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 95.4 | 95.9 |
 | 10:00 | EUR | Business Climate (Jul) | -0.61 |  | -0.47 |
 | 10:00 | EUR | Consumer Confidence (Jul) | -13.0 | -13.0 | -14.0 |
@@ -34,8 +34,9 @@
 | 10:00 | EUR | Selling Price Expectations (Jul) | 6.8 |  | 6.2 |
 | 10:00 | EUR | Services Sentiment (Jul) | 4.8 | 6.4 | 6.2 |
 | 10:00 | EUR | Industrial Sentiment (Jul) | -10.5 | -10.5 | -10.2 |
-| 12:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
-| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -5.7 |
+| 11:03 | ZAR | Budget Balance (MoM) (Jun) | 38.55B |  | -12.78B |
+| 53 min | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
+| 53 min | EUR | Spanish Business Confidence (Jul) |  |  | -5.7 |
 | 12:30 | BRL | Federal Tax Revenue |  |  | 202.90B |
 | 12:30 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | 0.47% | 0.81% |
 | 13:00 | EUR | German HICP (YoY) (Jul) |  | 2.4% | 2.5% |
@@ -48,6 +49,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | 0.4% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jul) |  |  | 1.9 |
 | 15:30 | USD | Texas Services Sector Outlook (Jul) |  |  | -4.1 |
-| 15:57 | ZAR | Budget Balance (MoM) (Jun) |  |  | -12.78B |
 | 18:00 | BRL | CAGED Net Payroll Jobs (Jun) |  | 155.00K | 131.81K |
 | 23:45 | NZD | Building Consents (MoM) (Jun) |  |  | -1.7% |

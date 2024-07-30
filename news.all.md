@@ -10,33 +10,33 @@
 | 02:30 | AUD | Low | Private House Approvals (Jun) | -0.5% |  | 1.9% |
 | 04:15 | CNY | Low | FDI (Jun) | -29.10% |  | -28.20% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | -0.5% | -0.2% | 0.8% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 1.1% |  | 1.5% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 1.1% |  | 1.5% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 101.0 | 102.6 | 102.7 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.8% |  | 3.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.5% |  | 0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.8% | 3.0% | 3.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.5% |  | 0.4% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.9% |  | 2.6% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.5% | 0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 3.3% | 3.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.7% | -0.3% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 3.3% | 3.6% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 2.5% |  | 2.7% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.6% |  | 2.6% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.1% | 0.0% | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
-| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.371% |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.082% |  | 4.371% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jul) | 95.8 | 95.4 | 95.9 |
 | 10:00 | EUR | Low | Business Climate (Jul) | -0.61 |  | -0.47 |
 | 10:00 | EUR | Low | Consumer Confidence (Jul) | -13.0 | -13.0 | -14.0 |
@@ -46,8 +46,9 @@
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Industrial Sentiment (Jul) | -10.5 | -10.5 | -10.2 |
-| 12:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
-| 12:00 | EUR | Low | Spanish Business Confidence (Jul) |  |  | -5.7 |
+| 11:03 | ZAR | Low | Budget Balance (MoM) (Jun) | 38.55B |  | -12.78B |
+| 53 min | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
+| 53 min | EUR | Low | Spanish Business Confidence (Jul) |  |  | -5.7 |
 | 12:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
 | 12:30 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  | 0.47% | 0.81% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.4% | 0.3% |
@@ -68,7 +69,6 @@
 | 15:00 | USD | High | JOLTs Job Openings (Jun) |  | 8.020M | 8.140M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | 1.9 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jul) |  |  | -4.1 |
-| 15:57 | ZAR | Low | Budget Balance (MoM) (Jun) |  |  | -12.78B |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs (Jun) |  | 155.00K | 131.81K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.900M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Jun) |  |  | -1.7% |
