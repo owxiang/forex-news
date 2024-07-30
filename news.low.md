@@ -20,12 +20,12 @@
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 2.5% |  | 2.7% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.082% |  | 4.371% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 95.4 | 95.9 |
 | 10:00 | EUR | Business Climate (Jul) | -0.61 |  | -0.47 |
@@ -45,7 +45,7 @@
 | 14:00 | USD | House Price Index (MoM) (May) | 0.0% | 0.2% | 0.3% |
 | 14:00 | USD | House Price Index (May) | 424.6 |  | 424.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | 0.3% | 0.3% | 0.4% |
-| 24 min | USD | Dallas Fed Services Revenues (Jul) |  |  | 1.9 |
-| 24 min | USD | Texas Services Sector Outlook (Jul) |  |  | -4.1 |
+| 15:30 | USD | Dallas Fed Services Revenues (Jul) | 7.7 |  | 1.9 |
+| 15:30 | USD | Texas Services Sector Outlook (Jul) | -0.1 |  | -4.1 |
 | 18:00 | BRL | CAGED Net Payroll Jobs (Jun) |  | 155.00K | 131.81K |
 | 23:45 | NZD | Building Consents (MoM) (Jun) |  |  | -1.7% |

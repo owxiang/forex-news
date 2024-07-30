@@ -10,8 +10,8 @@
 | 02:30 | AUD | Low | Private House Approvals (Jun) | -0.5% |  | 1.9% |
 | 04:15 | CNY | Low | FDI (Jun) | -29.10% |  | -28.20% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | -0.5% | -0.2% | 0.8% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 1.1% |  | 1.5% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 101.0 | 102.6 | 102.7 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.8% |  | 3.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.8% | 3.0% | 3.4% |
@@ -30,12 +30,12 @@
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.1% | 0.0% | -0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.2% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.082% |  | 4.371% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jul) | 95.8 | 95.4 | 95.9 |
 | 10:00 | EUR | Low | Business Climate (Jul) | -0.61 |  | -0.47 |
@@ -51,8 +51,8 @@
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) | 0.61% | 0.47% | 0.81% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.4% | 0.3% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.2% | 2.0% | 1.6% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.2% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.2% | 2.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.4% | 2.5% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.2% | 0.2% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | 1.28% |  | 0.36% |
@@ -61,12 +61,12 @@
 | 14:00 | USD | Low | House Price Index (MoM) (May) | 0.0% | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (May) | 424.6 |  | 424.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | 0.3% | 0.3% | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 6.8% | 6.5% | 7.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 1.0% |  | 1.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 6.8% | 6.5% | 7.3% |
 | 15:00 | USD | High | CB Consumer Confidence (Jul) | 100.3 | 99.7 | 97.8 |
 | 15:00 | USD | High | JOLTs Job Openings (Jun) | 8.184M | 8.020M | 8.230M |
-| 24 min | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | 1.9 |
-| 24 min | USD | Low | Texas Services Sector Outlook (Jul) |  |  | -4.1 |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) | 7.7 |  | 1.9 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Jul) | -0.1 |  | -4.1 |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs (Jun) |  | 155.00K | 131.81K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.900M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Jun) |  |  | -1.7% |
