@@ -1,8 +1,13 @@
-## 30 July 2024 - High Impact Forex News
+## 31 July 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.2% |
-| 13:00 | EUR | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
-| 15:00 | USD | CB Consumer Confidence (Jul) | 100.3 | 99.7 | 97.8 |
-| 15:00 | USD | JOLTs Job Openings (Jun) | 8.184M | 8.020M | 8.230M |
+| 02:30 | CNY | Manufacturing PMI (Jul) |  | 49.4 | 49.5 |
+| 04:00 | JPY | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
+| 10:00 | EUR | CPI (YoY) (Jul) |  | 2.5% | 2.5% |
+| 13:15 | USD | ADP Nonfarm Employment Change (Jul) |  | 147K | 150K |
+| 14:45 | USD | Chicago PMI (Jul) |  | 44.8 | 47.4 |
+| 15:30 | USD | Crude Oil Inventories |  |  | -3.741M |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 19:30 | USD | FOMC Press Conference |  |  |  |
