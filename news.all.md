@@ -6,8 +6,8 @@
 | 00:30 | JPY | Low | Jobs/applications ratio (Jun) | 1.23 | 1.24 | 1.24 |
 | 00:30 | JPY | Low | Unemployment Rate (Jun) | 2.5% | 2.6% | 2.6% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Jun) |  |  | 15.00% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | -2.3% | 5.5% |
-| 02:30 | AUD | Low | Private House Approvals (Jun) |  |  | 2.1% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) | -6.5% | -2.3% | 5.5% |
+| 02:30 | AUD | Low | Private House Approvals (Jun) | -0.5% |  | 2.1% |
 | 02:30 | AUD | Low | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.4% | 1.5% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.2% | 0.2% |
@@ -24,8 +24,8 @@
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 1.9% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  |  | 2.7% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  |  | 2.6% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  |  | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.0% | -0.2% |
@@ -63,8 +63,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (May) |  | 0.2% | 0.2% |
 | 14:00 | USD | Low | House Price Index (May) |  |  | 424.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 1.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 7.4% | 7.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 1.4% |
 | 15:00 | USD | High | CB Consumer Confidence (Jul) |  | 99.8 | 100.4 |
 | 15:00 | USD | High | JOLTs Job Openings (Jun) |  | 8.030M | 8.140M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | 1.9 |

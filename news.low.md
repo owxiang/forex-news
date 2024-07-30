@@ -6,7 +6,7 @@
 | 00:30 | JPY | Jobs/applications ratio (Jun) | 1.23 | 1.24 | 1.24 |
 | 00:30 | JPY | Unemployment Rate (Jun) | 2.5% | 2.6% | 2.6% |
 | 02:30 | AUD | Building Approvals (YoY) (Jun) |  |  | 15.00% |
-| 02:30 | AUD | Private House Approvals (Jun) |  |  | 2.1% |
+| 02:30 | AUD | Private House Approvals (Jun) | -0.5% |  | 2.1% |
 | 02:30 | AUD | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) |  |  | 0.4% |
@@ -16,8 +16,8 @@
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 1.9% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 2.7% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) |  |  | 0.1% |

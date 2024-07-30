@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Jun) |  | -2.3% | 5.5% |
+| 02:30 | AUD | Building Approvals (MoM) (Jun) | -6.5% | -2.3% | 5.5% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Jun) |  | -0.4% | 1.5% |
 | 06:30 | EUR | French GDP (QoQ) (Q2) |  | 0.2% | 0.2% |
 | 06:30 | EUR | French GDP (YoY) (Q2) |  |  | 1.1% |
@@ -16,6 +16,6 @@
 | 13:00 | MXN | GDP (QoQ) (Q2) |  | 0.4% | 0.3% |
 | 13:00 | MXN | GDP (YoY) (Q2) |  | 2.0% | 1.6% |
 | 13:00 | EUR | German CPI (YoY) (Jul) |  | 2.2% | 2.2% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 1.4% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 7.4% | 7.2% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 1.4% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.900M |
