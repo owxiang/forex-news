@@ -10,28 +10,28 @@
 | 02:30 | AUD | Low | Private House Approvals (Jun) | -0.5% |  | 1.9% |
 | 04:15 | CNY | Low | FDI (Jun) | -29.10% |  | -28.20% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | -0.5% | -0.2% | 0.8% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 1.1% |  | 1.5% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 1.1% |  | 1.5% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 101.0 | 102.6 | 102.7 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.8% |  | 3.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.8% | 3.0% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.5% |  | 0.4% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.9% |  | 2.6% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.5% | 0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 3.3% | 3.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.7% | -0.3% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 3.3% | 3.6% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 2.5% |  | 2.7% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.1% | 0.0% | -0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
@@ -51,8 +51,8 @@
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) | 0.61% | 0.47% | 0.81% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.4% | 0.3% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.2% | 2.0% | 1.6% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.2% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.2% | 2.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.4% | 2.5% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.2% | 0.2% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | 1.28% |  | 0.36% |
@@ -61,13 +61,13 @@
 | 14:00 | USD | Low | House Price Index (MoM) (May) | 0.0% | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (May) | 424.6 |  | 424.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | 0.3% | 0.3% | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 1.0% |  | 1.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 6.8% | 6.5% | 7.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 1.0% |  | 1.4% |
 | 15:00 | USD | High | CB Consumer Confidence (Jul) | 100.3 | 99.7 | 97.8 |
 | 15:00 | USD | High | JOLTs Job Openings (Jun) | 8.184M | 8.020M | 8.230M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) | 7.7 |  | 1.9 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jul) | -0.1 |  | -4.1 |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) | 201.71K | 155.00K | 240.03K |
 | 20:00 | MXN | Low | Fiscal Balance (Jun) | -166.74B |  | -174.07B |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.900M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.495M |  | -3.900M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Jun) |  |  | -1.7% |

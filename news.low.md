@@ -14,14 +14,14 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.7% | -0.3% | 0.4% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 2.5% |  | 2.7% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.6% |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
