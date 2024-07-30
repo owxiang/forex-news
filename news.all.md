@@ -20,7 +20,7 @@
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.5% | 0.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 3.3% | 3.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.7% | -0.3% | 0.4% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.7% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.9% | 0.8% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.1% |  | 1.9% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) | 0.3% |  | 0.1% |
@@ -36,16 +36,16 @@
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 3.1% |  | 2.8% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) | 0.6% |  | 0.1% |
-| 51 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.371% |
-| 51 min | EUR | Low | Business and Consumer Survey (Jul) |  | 95.4 | 95.9 |
-| 51 min | EUR | Low | Business Climate (Jul) |  |  | -0.46 |
-| 51 min | EUR | Low | Consumer Confidence (Jul) |  | -13.0 | -14.0 |
-| 51 min | EUR | Low | Consumer Inflation Expectation (Jul) |  |  | 13.1 |
-| 51 min | EUR | Low | Selling Price Expectations (Jul) |  |  | 6.1 |
-| 51 min | EUR | Low | Services Sentiment (Jul) |  | 6.4 | 6.5 |
-| 51 min | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
-| 51 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 51 min | EUR | Low | Industrial Sentiment (Jul) |  | -10.5 | -10.1 |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.371% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jul) | 95.8 | 95.4 | 95.9 |
+| 10:00 | EUR | Low | Business Climate (Jul) | -0.61 |  | -0.47 |
+| 10:00 | EUR | Low | Consumer Confidence (Jul) | -13.0 | -13.0 | -14.0 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Jul) | 11.2 |  | 13.1 |
+| 10:00 | EUR | Low | Selling Price Expectations (Jul) | 6.8 |  | 6.2 |
+| 10:00 | EUR | Low | Services Sentiment (Jul) | 4.8 | 6.4 | 6.2 |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
+| 10:00 | EUR | Low | Industrial Sentiment (Jul) | -10.5 | -10.5 | -10.2 |
 | 12:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
 | 12:00 | EUR | Low | Spanish Business Confidence (Jul) |  |  | -5.7 |
 | 12:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |

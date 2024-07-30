@@ -11,8 +11,8 @@
 | 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.8% | 0.5% | 0.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jul) | 2.9% | 3.3% | 3.6% |
 | 09:00 | EUR | German GDP (YoY) (Q2) | -0.1% | 0.0% | -0.2% |
-| 51 min | EUR | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
-| 51 min | EUR | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 10:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.3% |
 | 13:00 | MXN | GDP (QoQ) (Q2) |  | 0.4% | 0.3% |
 | 13:00 | MXN | GDP (YoY) (Q2) |  | 2.0% | 1.6% |
 | 13:00 | EUR | German CPI (YoY) (Jul) |  | 2.2% | 2.2% |
