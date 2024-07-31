@@ -107,4 +107,4 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.50% |
+| 54 min | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.50% |
