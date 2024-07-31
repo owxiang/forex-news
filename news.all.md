@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Jun) |  | 2.3% | 3.5% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
-| 00:00 | KRW | Low | Retail Sales (MoM) (Jun) |  |  | -0.2% |
-| 00:00 | KRW | Low | Service Sector Output (MoM) (Jun) |  |  | -0.5% |
-| 44 min | JPY | Moderate | Industrial Production (MoM) (Jun) |  | -4.2% | 3.6% |
-| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | -4.8% |
-| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | 3.6% |
-| 44 min | JPY | Low | Large Retailers' Sales (MoM) (Jun) |  |  | 1.7% |
-| 44 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 44 min | JPY | Low | Retail Sales (YoY) (Jun) |  | 3.3% | 3.0% |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
-| 02:00 | NZD | Low | ANZ Business Confidence (Jul) |  |  | 6.1 |
-| 02:00 | NZD | Low | NBNZ Own Activity (Jul) |  |  | 12.2% |
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
+| 00:00 | KRW | Low | Retail Sales (MoM) (Jun) | 1.0% |  | -0.2% |
+| 00:00 | KRW | Low | Service Sector Output (MoM) (Jun) | 0.2% |  | -0.8% |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Jun) | -3.6% | -4.2% | 3.6% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) | 6.5% |  | -4.8% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) | 0.7% |  | 3.6% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Jun) | 0.6% |  | 1.7% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) | 7.0% |  | 4.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Jun) | 3.7% | 3.3% | 2.8% |
+| 40 min | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
+| 40 min | NZD | Low | ANZ Business Confidence (Jul) |  |  | 6.1 |
+| 40 min | NZD | Low | NBNZ Own Activity (Jul) |  |  | 12.2% |
 | 02:30 | AUD | Moderate | CPI (YoY) (Q2) |  | 3.8% | 3.6% |
+| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) |  |  | 137.40 |
 | 02:30 | AUD | Low | Housing Credit (Jun) |  | 0.4% | 0.4% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (Jun) |  | 0.4% | 0.4% |
@@ -43,10 +43,10 @@
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | -6.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -1.4% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 801.4B |
@@ -59,13 +59,13 @@
 | 09:00 | CHF | Low | ZEW Expectations (Jul) |  |  | 17.5 |
 | 09:00 | EUR | Low | Spanish Current account (May) |  |  | 2.83B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
-| 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
+| 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
 | 09:30 | HKD | Low | M3 Money Supply (Jun) |  |  | 1.5% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 2.9% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.5% | 2.5% |

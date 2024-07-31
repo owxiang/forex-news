@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jun) |  | 2.3% | 3.5% |
+| 00:00 | KRW | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
 | 00:00 | KRW | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
-| 00:00 | KRW | Retail Sales (MoM) (Jun) |  |  | -0.2% |
-| 00:00 | KRW | Service Sector Output (MoM) (Jun) |  |  | -0.5% |
-| 44 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | -4.8% |
-| 44 min | JPY | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | 3.6% |
-| 44 min | JPY | Large Retailers' Sales (MoM) (Jun) |  |  | 1.7% |
-| 44 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 44 min | JPY | Retail Sales (YoY) (Jun) |  | 3.3% | 3.0% |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
-| 02:00 | NZD | ANZ Business Confidence (Jul) |  |  | 6.1 |
-| 02:00 | NZD | NBNZ Own Activity (Jul) |  |  | 12.2% |
+| 00:00 | KRW | Retail Sales (MoM) (Jun) | 1.0% |  | -0.2% |
+| 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.2% |  | -0.8% |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) | 6.5% |  | -4.8% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Aug) | 0.7% |  | 3.6% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) (Jun) | 0.6% |  | 1.7% |
+| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) | 7.0% |  | 4.0% |
+| 00:50 | JPY | Retail Sales (YoY) (Jun) | 3.7% | 3.3% | 2.8% |
+| 40 min | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
+| 40 min | NZD | ANZ Business Confidence (Jul) |  |  | 6.1 |
+| 40 min | NZD | NBNZ Own Activity (Jul) |  |  | 12.2% |
 | 02:30 | AUD | CPI Index Number (Q2) |  |  | 137.40 |
 | 02:30 | AUD | Housing Credit (Jun) |  | 0.4% | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Jun) |  | 0.4% | 0.4% |
@@ -43,13 +43,13 @@
 | 09:00 | CHF | ZEW Expectations (Jul) |  |  | 17.5 |
 | 09:00 | EUR | Spanish Current account (May) |  |  | 2.83B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
-| 09:30 | HKD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
 | 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
+| 09:30 | HKD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
 | 09:30 | HKD | M3 Money Supply (Jun) |  |  | 1.5% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) |  |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |

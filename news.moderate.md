@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Industrial Production (MoM) (Jun) |  | -4.2% | 3.6% |
-| 02:30 | AUD | CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
+| 00:50 | JPY | Industrial Production (MoM) (Jun) | -3.6% | -4.2% | 3.6% |
 | 02:30 | AUD | CPI (YoY) (Q2) |  | 3.8% | 3.6% |
+| 02:30 | AUD | CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
 | 02:30 | AUD | Retail Sales (MoM) (Jun) |  | 0.2% | 0.6% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
 | 02:30 | CNY | Chinese Composite PMI (Jul) |  |  | 50.5 |
