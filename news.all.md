@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jun) | 1.0% |  | -0.2% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jun) | 0.2% |  | -0.8% |
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (Jun) | -3.6% | -4.2% | 3.6% |
@@ -42,8 +42,8 @@
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) | 0.4% | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.3% | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.1% | 0.3% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.3% | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.1% | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.6% | 2.7% | 2.5% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) | -6.00% |  | -6.70% |
@@ -72,8 +72,8 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.8% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.4% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) | -2.5% |  | -3.5% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Jun) | 0.7% |  | 0.3% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) | -2.5% |  | -3.5% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jun) | 1,357.12B |  | 506.15B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.82% |  | 6.82% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -3.9% |  | -2.2% |
@@ -106,5 +106,5 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.771B |  | 0.395B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 23 min | USD | High | FOMC Press Conference |  |  |  |
+| 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.50% |
