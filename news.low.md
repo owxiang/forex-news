@@ -42,8 +42,8 @@
 | 09:00 | CHF | ZEW Expectations (Jul) | 9.4 |  | 17.5 |
 | 09:00 | EUR | Spanish Current account (May) | 5.56B |  | 2.83B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | 400.0M |  | 400.0M |
-| 09:30 | HKD | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.7% |
 | 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 2.3% |
+| 09:30 | HKD | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.7% |
 | 09:30 | HKD | M3 Money Supply (Jun) | 1.5% |  | 1.5% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.2% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.5% | 0.3% | 0.1% |
@@ -75,5 +75,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.158M |  | -0.489M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -2.1% |
 | 15:30 | USD | Gasoline Inventories | -3.665M |  | -5.572M |
-| 54 min | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.395B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | 0.395B |
