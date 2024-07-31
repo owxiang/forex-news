@@ -32,27 +32,27 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 2.3% | 2.4% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 2.6% | 2.7% | 2.5% |
-| 07:45 | EUR | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 07:45 | EUR | PPI (YoY) (Jun) | -6.00% |  | -6.70% |
+| 07:45 | EUR | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 08:00 | CHF | Official Reserves Assets (Jun) | 794.3B |  | 801.4B |
-| 50 min | EUR | German Unemployment (Jul) |  |  | 2.781M |
-| 50 min | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
-| 55 min | EUR | Italian Industrial Sales (YoY) (May) |  |  | -2.00% |
-| 55 min | EUR | Italian Industrial Sales (MoM) (May) |  |  | 0.80% |
-| 55 min | CHF | ZEW Expectations (Jul) |  |  | 17.5 |
-| 55 min | EUR | Spanish Current account (May) |  |  | 2.83B |
-| 55 min | NOK | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
-| 09:30 | HKD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
-| 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
-| 09:30 | HKD | M3 Money Supply (Jun) |  |  | 1.5% |
-| 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
-| 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
-| 10:00 | EUR | Core CPI (MoM) (Jul) |  |  | 0.4% |
-| 10:00 | EUR | CPI, n.s.a (Jul) |  |  | 126.58 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.4% |
+| 08:55 | EUR | German Unemployment (Jul) | 2.802M |  | 2.781M |
+| 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.809M |  | 2.727M |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (May) | -4.80% |  | -2.20% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (May) | -0.90% |  | 0.70% |
+| 09:00 | CHF | ZEW Expectations (Jul) | 9.4 |  | 17.5 |
+| 09:00 | EUR | Spanish Current account (May) | 5.56B |  | 2.83B |
+| 09:00 | NOK | Central Bank Currency Purchase (Aug) | 400.0M |  | 400.0M |
+| 21 min | HKD | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
+| 21 min | HKD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
+| 21 min | HKD | M3 Money Supply (Jun) |  |  | 1.5% |
+| 51 min | EUR | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
+| 51 min | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 51 min | EUR | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
+| 51 min | EUR | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
+| 51 min | EUR | Core CPI (MoM) (Jul) |  |  | 0.4% |
+| 51 min | EUR | CPI, n.s.a (Jul) |  |  | 126.58 |
+| 51 min | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |
+| 51 min | EUR | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.4% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | -3.5% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | 0.3% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 506.15B |
