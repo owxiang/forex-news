@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
 | 00:00 | KRW | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
+| 00:00 | KRW | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
 | 00:00 | KRW | Retail Sales (MoM) (Jun) | 1.0% |  | -0.2% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.2% |  | -0.8% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) | 6.5% |  | -4.8% |
@@ -53,19 +53,19 @@
 | 10:00 | EUR | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.8% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.4% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) | -2.5% |  | -3.5% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 0.7% |  | 0.3% |
-| 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 506.15B |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.82% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.2% |
-| 54 min | USD | MBA Purchase Index |  |  | 134.8 |
-| 54 min | USD | Mortgage Market Index |  |  | 209.3 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 614.9 |
-| 54 min | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
-| 13:00 | INR | Infrastructure Output (YoY) (Jun) |  |  | 6.3% |
-| 13:00 | ZAR | Trade Balance (Jun) |  |  | 20.09B |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) | -2.5% |  | -3.5% |
+| 11:00 | INR | Federal Fiscal Deficit (Jun) | 1,357.12B |  | 506.15B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.82% |  | 6.82% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -3.9% |  | -2.2% |
+| 12:00 | USD | MBA Purchase Index | 132.8 |  | 134.8 |
+| 12:00 | USD | Mortgage Market Index | 201.2 |  | 209.3 |
+| 12:00 | USD | Mortgage Refinance Index | 570.7 |  | 614.9 |
+| 12:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
+| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 24 min | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 54 min | INR | Infrastructure Output (YoY) (Jun) |  |  | 6.3% |
+| 54 min | ZAR | Trade Balance (Jun) |  |  | 20.09B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.10% |
 | 13:30 | USD | Employment Wages (QoQ) (Q2) |  |  | 1.10% |
 | 15:00 | USD | Pending Home Sales Index (Jun) |  |  | 70.8 |

@@ -18,7 +18,7 @@
 | 08:55 | EUR | German Unemployment Rate (Jul) | 6.0% | 6.0% | 6.0% |
 | 10:00 | EUR | Core CPI (YoY) (Jul) | 2.9% | 2.8% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Jul) | 0.0% |  | 0.2% |
-| 13:00 | BRL | Unemployment Rate (Jun) |  | 6.9% | 7.1% |
+| 54 min | BRL | Unemployment Rate (Jun) |  | 6.9% | 7.1% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q2) |  | 1.0% | 1.2% |
 | 13:30 | CAD | GDP (MoM) (May) |  | 0.1% | 0.3% |
 | 13:35 | CAD | GDP (MoM) (Jun) |  |  |  |
