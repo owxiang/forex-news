@@ -24,28 +24,28 @@
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.0% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 3.9% | 4.0% | 4.0% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 3.80% | 4.00% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 4.1% | 4.3% | 4.4% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Jul) | 50.2 |  | 50.5 |
 | 02:30 | CNY | High | Manufacturing PMI (Jul) | 49.4 | 49.4 | 49.5 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) | 50.2 | 50.2 | 50.5 |
 | 03:00 | SGD | Low | Bank Lending (Jun) | 803.6B |  | 796.7B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% |  | 2.1% |
-| 04:00 | NZD | Low | M3 Money Supply (Jun) | 412,948.0B |  | 410.2B |
-| 54 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 54 min | JPY | High | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
-| 06:00 | JPY | Low | Construction Orders (YoY) (Jun) |  |  | 2.1% |
-| 06:00 | JPY | Low | Household Confidence (Jul) |  | 36.5 | 36.4 |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Jun) |  | -2.3% | -5.3% |
-| 06:00 | SGD | Low | Business Expectations (Q2) |  |  | 22.00 |
+| 04:00 | NZD | Low | M3 Money Supply (Jun) | 412.9B |  | 410.2B |
+| 05:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 05:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.10% | 0.10% |
+| 54 min | JPY | Low | Construction Orders (YoY) (Jun) |  |  | 2.1% |
+| 54 min | JPY | Low | Household Confidence (Jul) |  | 36.5 | 36.4 |
+| 54 min | JPY | Low | Housing Starts (YoY) (Jun) |  | -2.3% | -5.3% |
+| 54 min | SGD | Low | Business Expectations (Q2) |  |  | 22.00 |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -1.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | -6.70% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 801.4B |
@@ -53,8 +53,8 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.0% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Jul) |  |  | 2.781M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  |  | 0.80% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  |  | -2.00% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  |  | 0.80% |
 | 09:00 | CHF | Low | ZEW Expectations (Jul) |  |  | 17.5 |
 | 09:00 | EUR | Low | Spanish Current account (May) |  |  | 2.83B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
@@ -67,8 +67,8 @@
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 2.9% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.5% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.2% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.5% | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 126.58 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.4% |

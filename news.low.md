@@ -19,15 +19,15 @@
 | 02:30 | AUD | Retail Sales (QoQ) (Q2) | -0.3% |  | -0.4% |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 3.9% | 4.0% | 4.0% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 3.80% | 4.00% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 4.1% | 4.3% | 4.4% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
 | 03:00 | SGD | Bank Lending (Jun) | 803.6B |  | 796.7B |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% |  | 2.1% |
-| 04:00 | NZD | M3 Money Supply (Jun) | 412,948.0B |  | 410.2B |
-| 06:00 | JPY | Construction Orders (YoY) (Jun) |  |  | 2.1% |
-| 06:00 | JPY | Household Confidence (Jul) |  | 36.5 | 36.4 |
-| 06:00 | JPY | Housing Starts (YoY) (Jun) |  | -2.3% | -5.3% |
-| 06:00 | SGD | Business Expectations (Q2) |  |  | 22.00 |
+| 04:00 | NZD | M3 Money Supply (Jun) | 412.9B |  | 410.2B |
+| 54 min | JPY | Construction Orders (YoY) (Jun) |  |  | 2.1% |
+| 54 min | JPY | Household Confidence (Jul) |  | 36.5 | 36.4 |
+| 54 min | JPY | Housing Starts (YoY) (Jun) |  | -2.3% | -5.3% |
+| 54 min | SGD | Business Expectations (Q2) |  |  | 22.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
@@ -37,8 +37,8 @@
 | 08:00 | CHF | Official Reserves Assets (Jun) |  |  | 801.4B |
 | 08:55 | EUR | German Unemployment (Jul) |  |  | 2.781M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (May) |  |  | 0.80% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (May) |  |  | -2.00% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (May) |  |  | 0.80% |
 | 09:00 | CHF | ZEW Expectations (Jul) |  |  | 17.5 |
 | 09:00 | EUR | Spanish Current account (May) |  |  | 2.83B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
