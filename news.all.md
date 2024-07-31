@@ -37,18 +37,18 @@
 | 05:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.10% | 0.10% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jun) | -19.7% |  | 2.1% |
 | 06:00 | JPY | Low | Household Confidence (Jul) | 36.7 | 36.5 | 36.4 |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Jun) | 0.0% | -2.3% | -5.2% |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Jun) | -6.7% | -2.3% | -5.2% |
 | 06:00 | SGD | Low | Business Expectations (Q2) | 23.00 |  | 22.00 |
-| 54 min | EUR | Low | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
-| 54 min | EUR | Low | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
-| 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | -6.70% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -1.4% |
-| 08:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 801.4B |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) | 0.4% | 0.1% | 0.0% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
+| 24 min | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 39 min | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
+| 39 min | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 39 min | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
+| 39 min | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
+| 39 min | EUR | Low | PPI (YoY) (Jun) |  |  | -6.70% |
+| 39 min | EUR | Low | French PPI (MoM) (Jun) |  |  | -1.4% |
+| 54 min | CHF | Low | Official Reserves Assets (Jun) |  |  | 801.4B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jul) |  | 16K | 19K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.0% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Jul) |  |  | 2.781M |
@@ -65,8 +65,8 @@
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 2.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.5% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 126.58 |

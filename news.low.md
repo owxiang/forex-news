@@ -26,15 +26,15 @@
 | 04:00 | NZD | M3 Money Supply (Jun) | 412.9B |  | 410.2B |
 | 06:00 | JPY | Construction Orders (YoY) (Jun) | -19.7% |  | 2.1% |
 | 06:00 | JPY | Household Confidence (Jul) | 36.7 | 36.5 | 36.4 |
-| 06:00 | JPY | Housing Starts (YoY) (Jun) | 0.0% | -2.3% | -5.2% |
+| 06:00 | JPY | Housing Starts (YoY) (Jun) | -6.7% | -2.3% | -5.2% |
 | 06:00 | SGD | Business Expectations (Q2) | 23.00 |  | 22.00 |
-| 54 min | EUR | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
-| 54 min | EUR | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
-| 07:45 | EUR | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
-| 07:45 | EUR | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
-| 07:45 | EUR | PPI (YoY) (Jun) |  |  | -6.70% |
-| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -1.4% |
-| 08:00 | CHF | Official Reserves Assets (Jun) |  |  | 801.4B |
+| 07:00 | EUR | German Import Price Index (MoM) (Jun) | 0.4% | 0.1% | 0.0% |
+| 07:00 | EUR | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
+| 39 min | EUR | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
+| 39 min | EUR | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
+| 39 min | EUR | PPI (YoY) (Jun) |  |  | -6.70% |
+| 39 min | EUR | French PPI (MoM) (Jun) |  |  | -1.4% |
+| 54 min | CHF | Official Reserves Assets (Jun) |  |  | 801.4B |
 | 08:55 | EUR | German Unemployment (Jul) |  |  | 2.781M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (May) |  |  | -2.00% |
