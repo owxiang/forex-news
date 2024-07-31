@@ -1,13 +1,9 @@
-## 31 July 2024 - High Impact Forex News
+## 01 August 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Jul) | 49.4 | 49.4 | 49.5 |
-| 05:00 | JPY | BoJ Interest Rate Decision | 0.25% | 0.10% | 0.10% |
-| 10:00 | EUR | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.5% |
-| 13:15 | USD | ADP Nonfarm Employment Change (Jul) | 122K | 147K | 155K |
-| 14:45 | USD | Chicago PMI (Jul) | 45.3 | 44.8 | 47.4 |
-| 15:30 | USD | Crude Oil Inventories | -3.436M | -1.600M | -3.741M |
-| 19:00 | USD | FOMC Statement |  |  |  |
-| 19:00 | USD | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 19:30 | USD | FOMC Press Conference |  |  |  |
+| 12:00 | GBP | BoE Interest Rate Decision (Aug) |  | 5.00% | 5.25% |
+| 13:30 | USD | Initial Jobless Claims |  | 236K | 235K |
+| 14:45 | USD | S&P Global US Manufacturing PMI (Jul) |  | 49.5 | 51.6 |
+| 15:00 | USD | ISM Manufacturing PMI (Jul) |  | 48.8 | 48.5 |
+| 15:00 | USD | ISM Manufacturing Prices (Jul) |  | 51.9 | 52.1 |
