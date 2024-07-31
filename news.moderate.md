@@ -9,8 +9,8 @@
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.0% |
 | 02:30 | CNY | Chinese Composite PMI (Jul) | 50.2 |  | 50.5 |
 | 02:30 | CNY | Non-Manufacturing PMI (Jul) | 50.2 | 50.2 | 50.5 |
-| 22 min | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 05:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 54 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
