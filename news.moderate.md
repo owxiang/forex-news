@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Industrial Production (MoM) (Jun) | -3.6% | -4.2% | 3.6% |
-| 6 min | AUD | CPI (YoY) (Q2) |  | 3.8% | 3.6% |
-| 6 min | AUD | CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
-| 6 min | AUD | Retail Sales (MoM) (Jun) |  | 0.2% | 0.6% |
-| 6 min | AUD | Trimmed Mean CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
-| 6 min | CNY | Chinese Composite PMI (Jul) |  |  | 50.5 |
-| 6 min | CNY | Non-Manufacturing PMI (Jul) |  | 50.2 | 50.5 |
-| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | AUD | CPI (QoQ) (Q2) | 1.0% | 1.0% | 1.0% |
+| 02:30 | AUD | CPI (YoY) (Q2) | 3.8% | 3.8% | 3.6% |
+| 02:30 | AUD | Retail Sales (MoM) (Jun) | 0.5% | 0.2% | 0.6% |
+| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.0% |
+| 02:30 | CNY | Chinese Composite PMI (Jul) | 50.2 |  | 50.5 |
+| 02:30 | CNY | Non-Manufacturing PMI (Jul) | 50.2 | 50.2 | 50.5 |
+| 22 min | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 05:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |

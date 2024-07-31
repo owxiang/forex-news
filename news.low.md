@@ -13,18 +13,17 @@
 | 00:50 | JPY | Retail Sales (YoY) (Jun) | 3.7% | 3.3% | 2.8% |
 | 02:00 | NZD | ANZ Business Confidence (Jul) | 27.1 |  | 6.1 |
 | 02:00 | NZD | NBNZ Own Activity (Jul) | 16.3% |  | 12.2% |
-| 6 min | AUD | CPI Index Number (Q2) |  |  | 137.40 |
-| 6 min | AUD | Housing Credit (Jun) |  | 0.4% | 0.4% |
-| 6 min | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
-| 6 min | AUD | Private Sector Credit (MoM) (Jun) |  | 0.4% | 0.4% |
-| 6 min | AUD | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
-| 6 min | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 4.0% | 4.0% |
-| 6 min | AUD | Monthly CPI Indicator (YoY) (Jun) |  | 3.80% | 4.00% |
-| 6 min | AUD | Weighted mean CPI (YoY) (Q2) |  | 4.3% | 4.4% |
-| 6 min | AUD | Weighted mean CPI (QoQ) (Q2) |  | 1.0% | 1.1% |
-| 36 min | SGD | Bank Lending (Jun) |  |  | 796.7B |
-| 03:30 | SGD | Unemployment Rate (Q2) |  |  |  |
-| 04:00 | NZD | M3 Money Supply (Jun) |  |  | 410.2B |
+| 02:30 | AUD | CPI Index Number (Q2) | 138.80 |  | 137.40 |
+| 02:30 | AUD | Housing Credit (Jun) | 0.4% | 0.4% | 0.4% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Jun) | 0.6% | 0.4% | 0.4% |
+| 02:30 | AUD | Retail Sales (QoQ) (Q2) | -0.3% |  | -0.4% |
+| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 3.9% | 4.0% | 4.0% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 3.80% | 4.00% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 4.1% | 4.3% | 4.4% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
+| 03:00 | SGD | Bank Lending (Jun) | 803.6B |  | 796.7B |
+| 22 min | SGD | Unemployment Rate (Q2) |  |  |  |
+| 52 min | NZD | M3 Money Supply (Jun) |  |  | 410.2B |
 | 06:00 | JPY | Construction Orders (YoY) (Jun) |  |  | 2.1% |
 | 06:00 | JPY | Household Confidence (Jul) |  | 36.5 | 36.4 |
 | 06:00 | JPY | Housing Starts (YoY) (Jun) |  | -2.3% | -5.3% |
@@ -33,8 +32,8 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
-| 07:45 | EUR | PPI (YoY) (Jun) |  |  | -6.70% |
 | 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -1.4% |
+| 07:45 | EUR | PPI (YoY) (Jun) |  |  | -6.70% |
 | 08:00 | CHF | Official Reserves Assets (Jun) |  |  | 801.4B |
 | 08:55 | EUR | German Unemployment (Jul) |  |  | 2.781M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
@@ -43,19 +42,19 @@
 | 09:00 | CHF | ZEW Expectations (Jul) |  |  | 17.5 |
 | 09:00 | EUR | Spanish Current account (May) |  |  | 2.83B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
-| 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
 | 09:30 | HKD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
+| 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
 | 09:30 | HKD | M3 Money Supply (Jun) |  |  | 1.5% |
-| 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
+| 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) |  |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.4% |
-| 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | 0.3% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | -3.5% |
+| 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | 0.3% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 506.15B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.82% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.2% |
