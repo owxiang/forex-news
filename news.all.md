@@ -46,8 +46,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.1% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.6% | 2.7% | 2.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.1% | 0.3% | 0.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) | -6.00% |  | -6.70% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) | 794.3B |  | 801.4B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jul) | 18K | 16K | 20K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jul) | 6.0% | 6.0% | 6.0% |
@@ -65,8 +65,8 @@
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.5% | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.2% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.8% | -1.1% | 0.2% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.9% | 2.8% | 2.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% |  | 0.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
@@ -107,4 +107,4 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.50% |
+| 22:00 | BRL | Moderate | Interest Rate Decision | 10.50% | 10.50% | 10.50% |

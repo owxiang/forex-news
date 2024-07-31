@@ -32,8 +32,8 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 2.3% | 2.4% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 2.6% | 2.7% | 2.5% |
-| 07:45 | EUR | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 07:45 | EUR | PPI (YoY) (Jun) | -6.00% |  | -6.70% |
+| 07:45 | EUR | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 08:00 | CHF | Official Reserves Assets (Jun) | 794.3B |  | 801.4B |
 | 08:55 | EUR | German Unemployment (Jul) | 2.802M |  | 2.781M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.809M |  | 2.727M |
