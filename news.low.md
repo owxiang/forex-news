@@ -19,8 +19,8 @@
 | 02:30 | AUD | Retail Sales (QoQ) (Q2) | -0.3% |  | -0.4% |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 3.9% | 4.0% | 4.0% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 3.80% | 3.80% | 4.00% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 4.1% | 4.3% | 4.4% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
 | 03:00 | SGD | Bank Lending (Jun) | 803.6B |  | 796.7B |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% |  | 2.1% |
 | 04:00 | NZD | M3 Money Supply (Jun) | 412.9B |  | 410.2B |
@@ -32,13 +32,13 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 2.3% | 2.4% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 2.6% | 2.7% | 2.5% |
-| 07:45 | EUR | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 07:45 | EUR | PPI (YoY) (Jun) | -6.00% |  | -6.70% |
+| 07:45 | EUR | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 08:00 | CHF | Official Reserves Assets (Jun) | 794.3B |  | 801.4B |
 | 08:55 | EUR | German Unemployment (Jul) | 2.802M |  | 2.781M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.809M |  | 2.727M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (May) | -0.90% |  | 0.70% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (May) | -4.80% |  | -2.20% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (May) | -0.90% |  | 0.70% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 9.4 |  | 17.5 |
 | 09:00 | EUR | Spanish Current account (May) | 5.56B |  | 2.83B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | 400.0M |  | 400.0M |
@@ -53,8 +53,8 @@
 | 10:00 | EUR | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.8% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.4% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) | -2.5% |  | -3.5% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 0.7% |  | 0.3% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) | -2.5% |  | -3.5% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) | 1,357.12B |  | 506.15B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.82% |  | 6.82% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -3.9% |  | -2.2% |
@@ -67,14 +67,14 @@
 | 13:30 | USD | Employment Benefits (QoQ) (Q2) | 1.00% |  | 1.10% |
 | 13:30 | USD | Employment Wages (QoQ) (Q2) | 0.90% |  | 1.10% |
 | 15:00 | USD | Pending Home Sales Index (Jun) | 74.3 |  | 70.9 |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.521M |
-| 23 min | USD | Crude Oil Imports |  |  | -0.388M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.292M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  |  | -2.753M |
-| 23 min | USD | Gasoline Production |  |  | 0.664M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | -0.489M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.1% |
-| 23 min | USD | Gasoline Inventories |  |  | -5.572M |
-| 16:30 | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.257M |  | -0.521M |
+| 15:30 | USD | Crude Oil Imports | -0.651M |  | -0.388M |
+| 15:30 | USD | Distillate Fuel Production | 0.043M |  | -0.292M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.534M |  | -2.753M |
+| 15:30 | USD | Gasoline Production | -0.205M |  | 0.664M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.158M |  | -0.489M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -2.1% |
+| 15:30 | USD | Gasoline Inventories | -3.665M |  | -5.572M |
+| 24 min | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
 | 18:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.395B |
