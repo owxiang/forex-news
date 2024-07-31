@@ -41,39 +41,39 @@
 | 06:00 | SGD | Low | Business Expectations (Q2) | 23.00 |  | 22.00 |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) | 0.4% | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
-| 24 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 39 min | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
-| 39 min | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 39 min | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
-| 39 min | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
-| 39 min | EUR | Low | PPI (YoY) (Jun) |  |  | -6.70% |
-| 39 min | EUR | Low | French PPI (MoM) (Jun) |  |  | -1.4% |
-| 54 min | CHF | Low | Official Reserves Assets (Jun) |  |  | 801.4B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jul) |  | 16K | 19K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.0% | 6.0% |
-| 08:55 | EUR | Low | German Unemployment (Jul) |  |  | 2.781M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  |  | -2.00% |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  |  | 0.80% |
-| 09:00 | CHF | Low | ZEW Expectations (Jul) |  |  | 17.5 |
-| 09:00 | EUR | Low | Spanish Current account (May) |  |  | 2.83B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
+| 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.3% | 2.4% | 2.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.1% | 0.3% | 0.1% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.1% | 0.3% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.6% | 2.7% | 2.5% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
+| 07:45 | EUR | Low | PPI (YoY) (Jun) | -6.00% |  | -6.70% |
+| 08:00 | CHF | Low | Official Reserves Assets (Jun) | 794.3B |  | 801.4B |
+| 50 min | EUR | Moderate | German Unemployment Change (Jul) |  | 16K | 19K |
+| 50 min | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.0% | 6.0% |
+| 50 min | EUR | Low | German Unemployment (Jul) |  |  | 2.781M |
+| 50 min | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
+| 55 min | EUR | Low | Italian Industrial Sales (YoY) (May) |  |  | -2.00% |
+| 55 min | EUR | Low | Italian Industrial Sales (MoM) (May) |  |  | 0.80% |
+| 55 min | CHF | Low | ZEW Expectations (Jul) |  |  | 17.5 |
+| 55 min | EUR | Low | Spanish Current account (May) |  |  | 2.83B |
+| 55 min | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | 400.0M |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
 | 09:30 | HKD | Low | M3 Money Supply (Jun) |  |  | 1.5% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 2.9% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.5% | 2.5% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 2.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.2% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.5% | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 126.58 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.4% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Jun) |  |  | 0.3% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Jun) |  |  | -3.5% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Jun) |  |  | 0.3% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 506.15B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.82% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.2% |
@@ -82,7 +82,7 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 614.9 |
 | 12:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
+| 12:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
 | 13:00 | INR | Low | Infrastructure Output (YoY) (Jun) |  |  | 6.3% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jun) |  | 6.9% | 7.1% |
 | 13:00 | ZAR | Low | Trade Balance (Jun) |  |  | 20.09B |

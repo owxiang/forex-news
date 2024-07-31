@@ -11,11 +11,11 @@
 | 02:30 | CNY | Non-Manufacturing PMI (Jul) | 50.2 | 50.3 | 50.5 |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 05:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 24 min | JPY | BoJ Press Conference |  |  |  |
-| 39 min | EUR | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 39 min | EUR | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
-| 08:55 | EUR | German Unemployment Change (Jul) |  | 16K | 19K |
-| 08:55 | EUR | German Unemployment Rate (Jul) |  | 6.0% | 6.0% |
+| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:45 | EUR | French CPI (MoM) (Jul) | 0.1% | 0.3% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Jul) | 0.1% | 0.3% | 0.2% |
+| 50 min | EUR | German Unemployment Change (Jul) |  | 16K | 19K |
+| 50 min | EUR | German Unemployment Rate (Jul) |  | 6.0% | 6.0% |
 | 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.8% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Jul) |  |  | 0.2% |
 | 13:00 | BRL | Unemployment Rate (Jun) |  | 6.9% | 7.1% |
