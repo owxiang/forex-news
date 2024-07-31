@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
 | 00:00 | KRW | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
+| 00:00 | KRW | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Jun) | 1.0% |  | -0.2% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.2% |  | -0.8% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) | 6.5% |  | -4.8% |
@@ -47,14 +47,14 @@
 | 09:30 | HKD | M3 Money Supply (Jun) | 1.5% |  | 1.5% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.2% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.5% | 0.3% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.2% | 0.9% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -0.8% | -1.1% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.2% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.8% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.4% |
-| 11:00 | EUR | Italian PPI (MoM) (Jun) | 0.7% |  | 0.3% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) | -2.5% |  | -3.5% |
+| 11:00 | EUR | Italian PPI (MoM) (Jun) | 0.7% |  | 0.3% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) | 1,357.12B |  | 506.15B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.82% |  | 6.82% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -3.9% |  | -2.2% |
@@ -75,4 +75,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.158M |  | -0.489M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -2.1% |
 | 15:30 | USD | Gasoline Inventories | -3.665M |  | -5.572M |
-| 24 min | BRL | Foreign Exchange Flows |  |  | 0.395B |
+| 18:30 | BRL | Foreign Exchange Flows | 1.771B |  | 0.395B |
