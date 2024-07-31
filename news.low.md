@@ -11,18 +11,18 @@
 | 00:50 | JPY | Large Retailers' Sales (MoM) (Jun) | 0.6% |  | 1.7% |
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) | 7.0% |  | 4.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Jun) | 3.7% | 3.3% | 2.8% |
-| 40 min | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
-| 40 min | NZD | ANZ Business Confidence (Jul) |  |  | 6.1 |
-| 40 min | NZD | NBNZ Own Activity (Jul) |  |  | 12.2% |
-| 02:30 | AUD | CPI Index Number (Q2) |  |  | 137.40 |
-| 02:30 | AUD | Housing Credit (Jun) |  | 0.4% | 0.4% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Jun) |  | 0.4% | 0.4% |
-| 02:30 | AUD | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 4.0% | 4.0% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) |  | 3.80% | 4.00% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) |  | 4.3% | 4.4% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) |  | 1.0% | 1.1% |
-| 03:00 | SGD | Bank Lending (Jun) |  |  | 796.7B |
+| 02:00 | NZD | ANZ Business Confidence (Jul) | 27.1 |  | 6.1 |
+| 02:00 | NZD | NBNZ Own Activity (Jul) | 16.3% |  | 12.2% |
+| 6 min | AUD | CPI Index Number (Q2) |  |  | 137.40 |
+| 6 min | AUD | Housing Credit (Jun) |  | 0.4% | 0.4% |
+| 6 min | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
+| 6 min | AUD | Private Sector Credit (MoM) (Jun) |  | 0.4% | 0.4% |
+| 6 min | AUD | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
+| 6 min | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 4.0% | 4.0% |
+| 6 min | AUD | Monthly CPI Indicator (YoY) (Jun) |  | 3.80% | 4.00% |
+| 6 min | AUD | Weighted mean CPI (YoY) (Q2) |  | 4.3% | 4.4% |
+| 6 min | AUD | Weighted mean CPI (QoQ) (Q2) |  | 1.0% | 1.1% |
+| 36 min | SGD | Bank Lending (Jun) |  |  | 796.7B |
 | 03:30 | SGD | Unemployment Rate (Q2) |  |  |  |
 | 04:00 | NZD | M3 Money Supply (Jun) |  |  | 410.2B |
 | 06:00 | JPY | Construction Orders (YoY) (Jun) |  |  | 2.1% |
@@ -46,8 +46,8 @@
 | 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
 | 09:30 | HKD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
 | 09:30 | HKD | M3 Money Supply (Jun) |  |  | 1.5% |
-| 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) |  |  | 0.4% |

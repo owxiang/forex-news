@@ -12,25 +12,25 @@
 | 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Jun) | 0.6% |  | 1.7% |
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) | 7.0% |  | 4.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (Jun) | 3.7% | 3.3% | 2.8% |
-| 40 min | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
-| 40 min | NZD | Low | ANZ Business Confidence (Jul) |  |  | 6.1 |
-| 40 min | NZD | Low | NBNZ Own Activity (Jul) |  |  | 12.2% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q2) |  | 3.8% | 3.6% |
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
-| 02:30 | AUD | Low | CPI Index Number (Q2) |  |  | 137.40 |
-| 02:30 | AUD | Low | Housing Credit (Jun) |  | 0.4% | 0.4% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Jun) |  | 0.4% | 0.4% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.6% |
-| 02:30 | AUD | Low | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) |  | 4.0% | 4.0% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) |  | 3.80% | 4.00% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) |  | 4.3% | 4.4% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) |  | 1.0% | 1.1% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 50.5 |
-| 02:30 | CNY | High | Manufacturing PMI (Jul) |  | 49.4 | 49.5 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) |  | 50.2 | 50.5 |
-| 03:00 | SGD | Low | Bank Lending (Jun) |  |  | 796.7B |
+| 02:00 | NZD | Low | ANZ Business Confidence (Jul) | 27.1 |  | 6.1 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Jul) | 16.3% |  | 12.2% |
+| 6 min | AUD | Moderate | CPI (YoY) (Q2) |  | 3.8% | 3.6% |
+| 6 min | AUD | Moderate | CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
+| 6 min | AUD | Low | CPI Index Number (Q2) |  |  | 137.40 |
+| 6 min | AUD | Low | Housing Credit (Jun) |  | 0.4% | 0.4% |
+| 6 min | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
+| 6 min | AUD | Low | Private Sector Credit (MoM) (Jun) |  | 0.4% | 0.4% |
+| 6 min | AUD | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.6% |
+| 6 min | AUD | Low | Retail Sales (QoQ) (Q2) |  |  | -0.4% |
+| 6 min | AUD | Low | Trimmed Mean CPI (YoY) (Q2) |  | 4.0% | 4.0% |
+| 6 min | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) |  | 1.0% | 1.0% |
+| 6 min | AUD | Low | Monthly CPI Indicator (YoY) (Jun) |  | 3.80% | 4.00% |
+| 6 min | AUD | Low | Weighted mean CPI (YoY) (Q2) |  | 4.3% | 4.4% |
+| 6 min | AUD | Low | Weighted mean CPI (QoQ) (Q2) |  | 1.0% | 1.1% |
+| 6 min | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 50.5 |
+| 6 min | CNY | High | Manufacturing PMI (Jul) |  | 49.4 | 49.5 |
+| 6 min | CNY | Moderate | Non-Manufacturing PMI (Jul) |  | 50.2 | 50.5 |
+| 36 min | SGD | Low | Bank Lending (Jun) |  |  | 796.7B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
@@ -43,8 +43,8 @@
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | -6.70% |
@@ -62,8 +62,8 @@
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.3% | 2.3% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
 | 09:30 | HKD | Low | M3 Money Supply (Jun) |  |  | 1.5% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.2% | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.2% | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
