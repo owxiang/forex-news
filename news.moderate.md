@@ -19,9 +19,9 @@
 | 10:00 | EUR | Core CPI (YoY) (Jul) | 2.9% | 2.8% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Jul) | 0.0% |  | 0.2% |
 | 13:00 | BRL | Unemployment Rate (Jun) | 6.9% | 6.9% | 7.1% |
-| 21 min | USD | Employment Cost Index (QoQ) (Q2) |  | 1.0% | 1.2% |
-| 21 min | CAD | GDP (MoM) (May) |  | 0.1% | 0.3% |
-| 22 min | CAD | GDP (MoM) (Jun) |  |  |  |
-| 15:00 | USD | Pending Home Sales (MoM) (Jun) |  | 1.4% | -2.1% |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q2) | 0.9% | 1.0% | 1.2% |
+| 13:30 | CAD | GDP (MoM) (May) | 0.2% | 0.1% | 0.3% |
+| 13:31 | CAD | GDP (MoM) (Jun) | 0.1% |  | 0.2% |
+| 52 min | USD | Pending Home Sales (MoM) (Jun) |  | 1.4% | -2.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.708M |
 | 22:00 | BRL | Interest Rate Decision |  | 10.50% | 10.50% |

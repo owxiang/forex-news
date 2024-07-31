@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
 | 00:00 | KRW | Industrial Production (MoM) (Jun) | 0.5% | -0.7% | -0.6% |
+| 00:00 | KRW | Industrial Production (YoY) (Jun) | 3.8% | 2.3% | 4.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Jun) | 1.0% |  | -0.2% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.2% |  | -0.8% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) | 6.5% |  | -4.8% |
@@ -42,13 +42,13 @@
 | 09:00 | CHF | ZEW Expectations (Jul) | 9.4 |  | 17.5 |
 | 09:00 | EUR | Spanish Current account (May) | 5.56B |  | 2.83B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | 400.0M |  | 400.0M |
-| 09:30 | HKD | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.7% |
 | 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 2.3% |
+| 09:30 | HKD | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.7% |
 | 09:30 | HKD | M3 Money Supply (Jun) | 1.5% |  | 1.5% |
-| 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.2% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.5% | 0.3% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.2% | 0.9% |
+| 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.2% | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -0.8% | -1.1% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.2% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.8% |  | 2.8% |
@@ -64,9 +64,9 @@
 | 12:30 | INR | Infrastructure Output (YoY) (Jun) | 4.0% |  | 6.4% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 13:00 | ZAR | Trade Balance (Jun) | 24.23B |  | 19.96B |
-| 21 min | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.10% |
-| 21 min | USD | Employment Wages (QoQ) (Q2) |  |  | 1.10% |
-| 15:00 | USD | Pending Home Sales Index (Jun) |  |  | 70.8 |
+| 13:30 | USD | Employment Benefits (QoQ) (Q2) | 1.00% |  | 1.10% |
+| 13:30 | USD | Employment Wages (QoQ) (Q2) | 0.90% |  | 1.10% |
+| 52 min | USD | Pending Home Sales Index (Jun) |  |  | 70.8 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.521M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.388M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.292M |
