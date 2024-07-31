@@ -24,4 +24,4 @@
 | 13:31 | CAD | GDP (MoM) (Jun) | 0.1% |  | 0.2% |
 | 15:00 | USD | Pending Home Sales (MoM) (Jun) | 4.8% | 1.4% | -1.9% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.106M |  | -1.708M |
-| 54 min | BRL | Interest Rate Decision |  | 10.50% | 10.50% |
+| 22:00 | BRL | Interest Rate Decision |  | 10.50% | 10.50% |
