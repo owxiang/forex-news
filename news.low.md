@@ -24,16 +24,16 @@
 | 03:00 | SGD | Bank Lending (Jun) | 803.6B |  | 796.7B |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% |  | 2.1% |
 | 04:00 | NZD | M3 Money Supply (Jun) | 412.9B |  | 410.2B |
-| 54 min | JPY | Construction Orders (YoY) (Jun) |  |  | 2.1% |
-| 54 min | JPY | Household Confidence (Jul) |  | 36.5 | 36.4 |
-| 54 min | JPY | Housing Starts (YoY) (Jun) |  | -2.3% | -5.3% |
-| 54 min | SGD | Business Expectations (Q2) |  |  | 22.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
+| 06:00 | JPY | Construction Orders (YoY) (Jun) | -19.7% |  | 2.1% |
+| 06:00 | JPY | Household Confidence (Jul) | 36.7 | 36.5 | 36.4 |
+| 06:00 | JPY | Housing Starts (YoY) (Jun) | 0.0% | -2.3% | -5.2% |
+| 06:00 | SGD | Business Expectations (Q2) | 23.00 |  | 22.00 |
+| 54 min | EUR | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
+| 54 min | EUR | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
 | 07:45 | EUR | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
-| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -1.4% |
 | 07:45 | EUR | PPI (YoY) (Jun) |  |  | -6.70% |
+| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -1.4% |
 | 08:00 | CHF | Official Reserves Assets (Jun) |  |  | 801.4B |
 | 08:55 | EUR | German Unemployment (Jul) |  |  | 2.781M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.727M |
@@ -53,8 +53,8 @@
 | 10:00 | EUR | CPI, n.s.a (Jul) |  |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.4% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | -3.5% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | 0.3% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | -3.5% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 506.15B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.82% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.2% |

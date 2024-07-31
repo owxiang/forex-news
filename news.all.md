@@ -28,26 +28,26 @@
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.1% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Jul) | 50.2 |  | 50.5 |
 | 02:30 | CNY | High | Manufacturing PMI (Jul) | 49.4 | 49.4 | 49.5 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) | 50.2 | 50.2 | 50.5 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) | 50.2 | 50.3 | 50.5 |
 | 03:00 | SGD | Low | Bank Lending (Jun) | 803.6B |  | 796.7B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% |  | 2.1% |
 | 04:00 | NZD | Low | M3 Money Supply (Jun) | 412.9B |  | 410.2B |
 | 05:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 05:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.10% | 0.10% |
-| 54 min | JPY | Low | Construction Orders (YoY) (Jun) |  |  | 2.1% |
-| 54 min | JPY | Low | Household Confidence (Jul) |  | 36.5 | 36.4 |
-| 54 min | JPY | Low | Housing Starts (YoY) (Jun) |  | -2.3% | -5.3% |
-| 54 min | SGD | Low | Business Expectations (Q2) |  |  | 22.00 |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Jun) | -19.7% |  | 2.1% |
+| 06:00 | JPY | Low | Household Confidence (Jul) | 36.7 | 36.5 | 36.4 |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Jun) | 0.0% | -2.3% | -5.2% |
+| 06:00 | SGD | Low | Business Expectations (Q2) | 23.00 |  | 22.00 |
+| 54 min | EUR | Low | German Import Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
+| 54 min | EUR | Low | German Import Price Index (YoY) (Jun) |  | 0.5% | -0.4% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 2.7% | 2.5% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -1.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.3% | 0.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | -6.70% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -1.4% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 801.4B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jul) |  | 16K | 19K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.0% | 6.0% |
@@ -67,13 +67,13 @@
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.1% | 0.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 2.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.5% | 2.5% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 126.58 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.4% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) |  |  | -3.5% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Jun) |  |  | 0.3% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) |  |  | -3.5% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 506.15B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.82% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.2% |
@@ -90,12 +90,12 @@
 | 13:30 | USD | Low | Employment Benefits (QoQ) (Q2) |  |  | 1.10% |
 | 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q2) |  | 1.0% | 1.2% |
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 1.10% |
-| 13:30 | CAD | Moderate | GDP (MoM) (May) |  | 0.2% | 0.3% |
-| 13:35 | CAD | Moderate | GDP (MoM) |  |  |  |
+| 13:30 | CAD | Moderate | GDP (MoM) (May) |  | 0.1% | 0.3% |
+| 13:35 | CAD | Moderate | GDP (MoM) (Jun) |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Jul) |  | 44.8 | 47.4 |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jun) |  | 1.4% | -2.1% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jun) |  |  | 70.8 |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -3.741M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.600M | -3.741M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.521M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.388M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.708M |
