@@ -42,10 +42,10 @@
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) | 0.4% | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) | 0.7% | 0.5% | -0.4% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.1% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.3% | 2.4% | 2.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.1% | 0.3% | 0.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.1% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.6% | 2.7% | 2.5% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.1% | 0.3% | 0.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) | -6.00% |  | -6.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.3% |  | -1.6% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) | 794.3B |  | 801.4B |
@@ -58,15 +58,15 @@
 | 09:00 | CHF | Low | ZEW Expectations (Jul) | 9.4 |  | 17.5 |
 | 09:00 | EUR | Low | Spanish Current account (May) | 5.56B |  | 2.83B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) | 400.0M |  | 400.0M |
-| 09:30 | HKD | Low | GDP (QoQ) (Q2) | -0.4% | 0.3% | 2.3% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.7% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q2) | 0.4% | 0.3% | 2.3% |
 | 09:30 | HKD | Low | M3 Money Supply (Jun) | 1.5% |  | 1.5% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.2% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.5% | 0.3% | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.8% | -1.1% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.2% | 0.9% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.8% | -1.1% | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.9% | 2.8% | 2.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% |  | 0.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
@@ -80,18 +80,16 @@
 | 12:00 | USD | Low | MBA Purchase Index | 132.8 |  | 134.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 201.2 |  | 209.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 570.7 |  | 614.9 |
-| 12:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
-| 24 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 24 min | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
-| 54 min | INR | Low | Infrastructure Output (YoY) (Jun) |  |  | 6.3% |
-| 54 min | BRL | Moderate | Unemployment Rate (Jun) |  | 6.9% | 7.1% |
-| 54 min | ZAR | Low | Trade Balance (Jun) |  |  | 20.09B |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) |  | 147K | 150K |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q2) |  |  | 1.10% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q2) |  | 1.0% | 1.2% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 1.10% |
-| 13:30 | CAD | Moderate | GDP (MoM) (May) |  | 0.1% | 0.3% |
-| 13:35 | CAD | Moderate | GDP (MoM) (Jun) |  |  |  |
+| 12:30 | INR | Low | Infrastructure Output (YoY) (Jun) | 4.0% |  | 6.4% |
+| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 13:00 | BRL | Moderate | Unemployment Rate (Jun) | 6.9% | 6.9% | 7.1% |
+| 13:00 | ZAR | Low | Trade Balance (Jun) | 24.23B |  | 19.96B |
+| 6 min | USD | High | ADP Nonfarm Employment Change (Jul) |  | 147K | 150K |
+| 21 min | USD | Low | Employment Benefits (QoQ) (Q2) |  |  | 1.10% |
+| 21 min | USD | Moderate | Employment Cost Index (QoQ) (Q2) |  | 1.0% | 1.2% |
+| 21 min | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 1.10% |
+| 21 min | CAD | Moderate | GDP (MoM) (May) |  | 0.1% | 0.3% |
+| 22 min | CAD | Moderate | GDP (MoM) (Jun) |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Jul) |  | 44.8 | 47.4 |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jun) |  | 1.4% | -2.1% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jun) |  |  | 70.8 |
@@ -105,6 +103,8 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.489M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.1% |
 | 15:30 | USD | Low | Gasoline Inventories |  |  | -5.572M |
+| 16:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 18:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.395B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |

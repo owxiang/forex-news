@@ -42,13 +42,13 @@
 | 09:00 | CHF | ZEW Expectations (Jul) | 9.4 |  | 17.5 |
 | 09:00 | EUR | Spanish Current account (May) | 5.56B |  | 2.83B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | 400.0M |  | 400.0M |
-| 09:30 | HKD | GDP (QoQ) (Q2) | -0.4% | 0.3% | 2.3% |
 | 09:30 | HKD | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.7% |
+| 09:30 | HKD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 2.3% |
 | 09:30 | HKD | M3 Money Supply (Jun) | 1.5% |  | 1.5% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.2% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.5% | 0.3% | 0.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Jul) | -0.8% | -1.1% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.2% | 0.9% |
+| 10:00 | EUR | Italian HICP (MoM) (Jul) | -0.8% | -1.1% | 0.2% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) | 126.56 |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.8% |  | 2.8% |
@@ -61,13 +61,11 @@
 | 12:00 | USD | MBA Purchase Index | 132.8 |  | 134.8 |
 | 12:00 | USD | Mortgage Market Index | 201.2 |  | 209.3 |
 | 12:00 | USD | Mortgage Refinance Index | 570.7 |  | 614.9 |
-| 12:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
-| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 24 min | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
-| 54 min | INR | Infrastructure Output (YoY) (Jun) |  |  | 6.3% |
-| 54 min | ZAR | Trade Balance (Jun) |  |  | 20.09B |
-| 13:30 | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.10% |
-| 13:30 | USD | Employment Wages (QoQ) (Q2) |  |  | 1.10% |
+| 12:30 | INR | Infrastructure Output (YoY) (Jun) | 4.0% |  | 6.4% |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 13:00 | ZAR | Trade Balance (Jun) | 24.23B |  | 19.96B |
+| 21 min | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.10% |
+| 21 min | USD | Employment Wages (QoQ) (Q2) |  |  | 1.10% |
 | 15:00 | USD | Pending Home Sales Index (Jun) |  |  | 70.8 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.521M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.388M |
@@ -77,4 +75,6 @@
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.489M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.1% |
 | 15:30 | USD | Gasoline Inventories |  |  | -5.572M |
+| 16:30 | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 18:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.395B |
