@@ -103,8 +103,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.158M |  | -0.489M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -2.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -3.665M |  | -5.572M |
-| 24 min | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
-| 18:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
+| 54 min | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.395B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |

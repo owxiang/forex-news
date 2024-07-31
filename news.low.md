@@ -75,6 +75,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.158M |  | -0.489M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -2.1% |
 | 15:30 | USD | Gasoline Inventories | -3.665M |  | -5.572M |
-| 24 min | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
-| 18:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
+| 54 min | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.395B |
