@@ -8,12 +8,12 @@
 | 01:00 | KRW | Exports (YoY) (Jul) | 13.9% | 18.4% | 5.1% |
 | 01:00 | KRW | Imports (YoY) (Jul) | 10.5% | 13.4% | -7.5% |
 | 01:00 | KRW | Trade Balance (Jul) | 3.62B | 5.00B | 7.99B |
-| 4 min | KRW | S&P Global South Korea Manufacturing PMI (Jul) |  |  | 52.0 |
-| 4 min | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.2 | 50.0 |
-| 4 min | IDR | Nikkei Manufacturing PMI (Jul) |  |  | 50.7 |
-| 02:30 | AUD | Export Price Index (QoQ) (Q2) |  |  | -2.1% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jul) | 51.4 |  | 52.0 |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.1 | 49.2 | 50.0 |
+| 01:30 | IDR | Nikkei Manufacturing PMI (Jul) | 49.3 |  | 50.7 |
+| 02:30 | AUD | Export Price Index (QoQ) (Q2) | -5.9% |  | -2.1% |
 | 02:30 | AUD | Exports (MoM) (Jun) |  |  | 2.8% |
-| 02:30 | AUD | Import Price Index (QoQ) (Q2) |  | -0.9% | -1.8% |
+| 02:30 | AUD | Import Price Index (QoQ) (Q2) | 1.0% | -0.9% | -1.8% |
 | 02:30 | AUD | Imports (MoM) (Jun) |  |  | 3.9% |
 | 02:30 | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
 | 05:00 | IDR | Core Inflation (YoY) (Jul) |  | 1.90% | 1.90% |
@@ -34,8 +34,8 @@
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
-| 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
+| 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) |  |  | 49.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jul) |  |  | 49.3 |
