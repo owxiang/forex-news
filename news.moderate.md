@@ -6,12 +6,12 @@
 | 02:45 | CNY | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 52.5 | 52.3 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) |  | 46.0 | 45.7 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Jul) |  | 44.1 | 45.4 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Jul) |  | 42.6 | 43.5 |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 45.6 | 45.8 |
+| 9 min | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 52.5 | 52.3 |
+| 39 min | EUR | HCOB Italy Manufacturing PMI (Jul) |  | 46.0 | 45.7 |
+| 44 min | EUR | HCOB France Manufacturing PMI (Jul) |  | 44.1 | 45.4 |
+| 49 min | EUR | HCOB Germany Manufacturing PMI (Jul) |  | 42.6 | 43.5 |
+| 54 min | EUR | ECB Economic Bulletin |  |  |  |
+| 54 min | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 45.6 | 45.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jul) |  | 51.8 | 50.9 |
 | 10:00 | EUR | Unemployment Rate (Jun) |  | 6.4% | 6.4% |
 | 12:00 | GBP | BoE MPC vote cut (Aug) |  | 6 | 2 |
