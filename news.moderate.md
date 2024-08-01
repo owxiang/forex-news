@@ -26,5 +26,5 @@
 | 15:00 | USD | Construction Spending (MoM) (Jun) | -0.3% | 0.2% | -0.4% |
 | 15:00 | USD | ISM Manufacturing Employment (Jul) | 43.4 | 49.0 | 49.3 |
 | 17:30 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.8% | 2.8% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,205B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,205B |
 | 22:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
