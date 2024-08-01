@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Trade Balance (Jun) | 5.589B | 5.080B | 5.052B |
 | 02:45 | CNY | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 51.0 | 52.5 | 52.3 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 47.4 | 46.0 | 45.7 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 44.0 | 44.1 | 45.4 |
@@ -19,9 +19,9 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21 min | USD | Continuing Jobless Claims |  | 1,860K | 1,851K |
-| 21 min | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
-| 21 min | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |
+| 13:30 | USD | Continuing Jobless Claims | 1,877K | 1,860K | 1,844K |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.3% | 1.7% | 0.4% |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 0.9% | 1.8% | 3.8% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Jun) |  | 0.2% | -0.1% |
 | 15:00 | USD | ISM Manufacturing Employment (Jul) |  | 49.0 | 49.3 |
