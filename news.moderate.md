@@ -1,4 +1,4 @@
-## 01 August 2024 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -14,10 +14,10 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 45.8 | 45.6 | 45.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jul) | 52.1 | 51.8 | 50.9 |
 | 10:00 | EUR | Unemployment Rate (Jun) | 6.5% | 6.4% | 6.4% |
-| 12:00 | GBP | BoE MPC vote cut (Aug) |  | 6 | 2 |
-| 12:00 | GBP | BoE MPC vote hike (Aug) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Aug) |  | 3 | 7 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 53 min | GBP | BoE MPC vote cut (Aug) |  | 6 | 2 |
+| 53 min | GBP | BoE MPC vote hike (Aug) |  | 0 | 0 |
+| 53 min | GBP | BoE MPC vote unchanged (Aug) |  | 3 | 7 |
+| 53 min | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | GBP | BOE Inflation Letter |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,851K |

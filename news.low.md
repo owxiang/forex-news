@@ -1,4 +1,4 @@
-## 01 August 2024 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -25,16 +25,16 @@
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 7.0% | 6.8% | 6.9% |
 | 09:00 | NOK | Manufacturing PMI (Jul) | 56.9 |  | 48.1 |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) | -9.7% |  | -11.5% |
+| 10:00 | EUR | French 10-Year OAT Auction | 3.01% |  | 3.23% |
+| 10:00 | EUR | French 15-Year OAT Auction | 3.21% |  | 3.21% |
+| 10:00 | EUR | French 30-Year OAT Auction | 3.49% |  | 3.61% |
 | 10:00 | ZAR | Manufacturing PMI | 52.4 |  | 45.7 |
-| 10:30 | EUR | French 10-Year OAT Auction |  |  | 3.23% |
-| 10:30 | EUR | French 15-Year OAT Auction |  |  | 3.21% |
-| 10:30 | EUR | French 30-Year OAT Auction |  |  | 3.61% |
-| 10:30 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.192% |
-| 10:30 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.067% |
-| 11:00 | EUR | Car Registration (MoM) (Jul) |  |  | 8.60% |
-| 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 2.20% |
-| 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 10:30 | EUR | Spanish 10-Year Obligacion Auction | 3.107% |  | 3.192% |
+| 10:30 | EUR | Spanish 3-Year Bonos Auction | 2.701% |  | 3.067% |
+| 53 min | EUR | Car Registration (YoY) (Jul) |  |  | 2.20% |
+| 53 min | EUR | Car Registration (MoM) (Jul) |  |  | 8.60% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
+| 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |

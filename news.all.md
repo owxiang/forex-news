@@ -1,4 +1,4 @@
-## 01 August 2024 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -36,23 +36,23 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 45.8 | 45.6 | 45.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jul) | 52.1 | 51.8 | 50.9 |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) | -9.7% |  | -11.5% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.01% |  | 3.23% |
+| 10:00 | EUR | Low | French 15-Year OAT Auction | 3.21% |  | 3.21% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 3.49% |  | 3.61% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.5% | 6.4% | 6.4% |
 | 10:00 | ZAR | Low | Manufacturing PMI | 52.4 |  | 45.7 |
-| 10:30 | EUR | Low | French 10-Year OAT Auction |  |  | 3.23% |
-| 10:30 | EUR | Low | French 15-Year OAT Auction |  |  | 3.21% |
-| 10:30 | EUR | Low | French 30-Year OAT Auction |  |  | 3.61% |
-| 10:30 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.192% |
-| 10:30 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.067% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 8.60% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 2.20% |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) |  | 6 | 2 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Aug) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 3 | 7 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.00% | 5.25% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 10:30 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.107% |  | 3.192% |
+| 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 2.701% |  | 3.067% |
+| 53 min | GBP | Moderate | BoE MPC vote cut (Aug) |  | 6 | 2 |
+| 53 min | GBP | Moderate | BoE MPC vote hike (Aug) |  | 0 | 0 |
+| 53 min | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 3 | 7 |
+| 53 min | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.00% | 5.25% |
+| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 53 min | EUR | Low | Car Registration (YoY) (Jul) |  |  | 2.20% |
+| 53 min | EUR | Low | Car Registration (MoM) (Jul) |  |  | 8.60% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,851K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 235K |
