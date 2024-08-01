@@ -27,4 +27,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Jul) | 43.4 | 49.0 | 49.3 |
 | 17:30 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.8% | 2.8% |
 | 21:30 | USD | Fed's Balance Sheet | 7,178B |  | 7,205B |
-| 10 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 22:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
