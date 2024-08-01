@@ -16,25 +16,25 @@
 | 02:30 | AUD | Import Price Index (QoQ) (Q2) | 1.0% | -0.9% | -1.8% |
 | 02:30 | AUD | Imports (MoM) (Jun) | 0.5% |  | 3.3% |
 | 05:00 | IDR | Core Inflation (YoY) (Jul) | 1.95% | 1.90% | 1.90% |
-| 05:00 | IDR | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 05:00 | IDR | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
+| 05:00 | IDR | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
 | 07:00 | NOK | M3 Money Supply (Jun) | 3,234.8B |  | 3,194.3B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jun) | 3.6% |  | 3.1% |
-| 07:30 | AUD | Commodity Prices (YoY) (Jul) | -3.0% |  | -4.1% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) |  | 6.8% | 6.8% |
-| 09:00 | NOK | Manufacturing PMI (Jul) |  |  | 47.7 |
-| 23 min | HKD | Retail Sales (YoY) (Jun) |  |  | -11.5% |
-| 33 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.192% |
-| 33 min | EUR | Spanish 3-Year Bonos Auction |  |  | 3.067% |
-| 53 min | EUR | French 10-Year OAT Auction |  |  | 3.23% |
-| 53 min | EUR | French 15-Year OAT Auction |  |  | 3.21% |
-| 53 min | EUR | French 30-Year OAT Auction |  |  | 3.61% |
-| 53 min | ZAR | Manufacturing PMI |  |  | 54.0 |
+| 07:30 | AUD | Commodity Prices (YoY) (Jul) | -3.0% |  | -3.5% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 7.0% | 6.8% | 6.9% |
+| 09:00 | NOK | Manufacturing PMI (Jul) | 56.9 |  | 48.1 |
+| 09:30 | HKD | Retail Sales (YoY) (Jun) | -9.7% |  | -11.5% |
+| 10:00 | ZAR | Manufacturing PMI | 52.4 |  | 45.7 |
+| 10:30 | EUR | French 10-Year OAT Auction |  |  | 3.23% |
+| 10:30 | EUR | French 15-Year OAT Auction |  |  | 3.21% |
+| 10:30 | EUR | French 30-Year OAT Auction |  |  | 3.61% |
+| 10:30 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.192% |
+| 10:30 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.067% |
 | 11:00 | EUR | Car Registration (MoM) (Jul) |  |  | 8.60% |
 | 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 2.20% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |

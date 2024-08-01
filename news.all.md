@@ -18,31 +18,31 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jun) | 5.589B | 5.080B | 5.052B |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jul) | 1.95% | 1.90% | 1.90% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,234.8B |  | 3,194.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 3.6% |  | 3.1% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) | -3.0% |  | -4.1% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) | -3.0% |  | -3.5% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) | 51.0 | 52.5 | 52.3 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) | 47.4 | 46.0 | 45.7 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) | 44.0 | 44.1 | 45.4 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 42.6 | 43.5 |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) |  | 6.8% | 6.8% |
-| 09:00 | NOK | Low | Manufacturing PMI (Jul) |  |  | 47.7 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) | 43.2 | 42.6 | 43.5 |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) | 7.0% | 6.8% | 6.9% |
+| 09:00 | NOK | Low | Manufacturing PMI (Jul) | 56.9 |  | 48.1 |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 45.6 | 45.8 |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jul) |  | 51.8 | 50.9 |
-| 23 min | HKD | Low | Retail Sales (YoY) (Jun) |  |  | -11.5% |
-| 33 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.192% |
-| 33 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.067% |
-| 53 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.23% |
-| 53 min | EUR | Low | French 15-Year OAT Auction |  |  | 3.21% |
-| 53 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.61% |
-| 53 min | EUR | Moderate | Unemployment Rate (Jun) |  | 6.4% | 6.4% |
-| 53 min | ZAR | Low | Manufacturing PMI |  |  | 54.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 45.8 | 45.6 | 45.8 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jul) | 52.1 | 51.8 | 50.9 |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Jun) | -9.7% |  | -11.5% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.5% | 6.4% | 6.4% |
+| 10:00 | ZAR | Low | Manufacturing PMI | 52.4 |  | 45.7 |
+| 10:30 | EUR | Low | French 10-Year OAT Auction |  |  | 3.23% |
+| 10:30 | EUR | Low | French 15-Year OAT Auction |  |  | 3.21% |
+| 10:30 | EUR | Low | French 30-Year OAT Auction |  |  | 3.61% |
+| 10:30 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.192% |
+| 10:30 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.067% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 8.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 2.20% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) |  | 6 | 2 |
@@ -51,8 +51,8 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.00% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,851K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 235K |
