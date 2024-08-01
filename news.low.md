@@ -12,10 +12,9 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.1 | 49.2 | 50.0 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Jul) | 49.3 |  | 50.7 |
 | 02:30 | AUD | Export Price Index (QoQ) (Q2) | -5.9% |  | -2.1% |
-| 02:30 | AUD | Exports (MoM) (Jun) |  |  | 2.8% |
+| 02:30 | AUD | Exports (MoM) (Jun) | 1.7% |  | 2.8% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q2) | 1.0% | -0.9% | -1.8% |
-| 02:30 | AUD | Imports (MoM) (Jun) |  |  | 3.9% |
-| 02:30 | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
+| 02:30 | AUD | Imports (MoM) (Jun) | 0.5% |  | 3.3% |
 | 05:00 | IDR | Core Inflation (YoY) (Jul) |  | 1.90% | 1.90% |
 | 05:00 | IDR | Inflation (YoY) (Jul) |  | 2.40% | 2.51% |
 | 05:00 | IDR | Inflation (MoM) (Jul) |  | 0.10% | -0.08% |
@@ -31,8 +30,8 @@
 | 10:00 | ZAR | Manufacturing PMI |  |  | 54.0 |
 | 11:00 | EUR | Car Registration (MoM) (Jul) |  |  | 8.60% |
 | 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 2.20% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |

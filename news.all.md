@@ -12,12 +12,11 @@
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.1 | 49.2 | 50.0 |
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Jul) | 49.3 |  | 50.7 |
 | 02:30 | AUD | Low | Export Price Index (QoQ) (Q2) | -5.9% |  | -2.1% |
-| 02:30 | AUD | Low | Exports (MoM) (Jun) |  |  | 2.8% |
+| 02:30 | AUD | Low | Exports (MoM) (Jun) | 1.7% |  | 2.8% |
 | 02:30 | AUD | Low | Import Price Index (QoQ) (Q2) | 1.0% | -0.9% | -1.8% |
-| 02:30 | AUD | Low | Imports (MoM) (Jun) |  |  | 3.9% |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
-| 02:30 | AUD | Moderate | Trade Balance (Jun) |  | 5.080B | 5.773B |
-| 12 min | CNY | Moderate | Caixin Manufacturing PMI (Jul) |  | 51.4 | 51.8 |
+| 02:30 | AUD | Low | Imports (MoM) (Jun) | 0.5% |  | 3.3% |
+| 02:30 | AUD | Moderate | Trade Balance (Jun) | 5.589B | 5.080B | 5.052B |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jul) |  | 1.90% | 1.90% |
 | 05:00 | IDR | Low | Inflation (YoY) (Jul) |  | 2.40% | 2.51% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jul) |  | 0.10% | -0.08% |
@@ -49,8 +48,8 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.00% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,851K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 235K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
