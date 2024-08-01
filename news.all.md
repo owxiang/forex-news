@@ -21,8 +21,8 @@
 | 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,234.8B |  | 3,194.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 3.6% |  | 3.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) | -3.0% |  | -3.5% |
@@ -43,18 +43,18 @@
 | 10:00 | ZAR | Low | Manufacturing PMI | 52.4 |  | 45.7 |
 | 10:30 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.107% |  | 3.192% |
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 2.701% |  | 3.067% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jul) | -18.70% |  | 8.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jul) | 3.40% |  | 2.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jul) | -18.70% |  | 8.60% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) | 5 | 6 | 2 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Aug) | 5.00% | 5.00% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Jul) | 44.23K |  | 40.07K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 1.50% |  | -14.00% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Jul) | 44.23K |  | 39.87K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,877K | 1,860K | 1,844K |
 | 13:30 | USD | High | Initial Jobless Claims | 249K | 236K | 235K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 238.00K |  | 235.50K |
@@ -69,12 +69,12 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jul) | 47.4 | 49.0 | 49.3 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Jul) | 46.8 | 48.8 | 48.5 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Jul) | 52.9 | 51.9 | 52.1 |
-| 24 min | USD | Low | Natural Gas Storage |  | 31B | 22B |
-| 54 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Jul) |  |  | 51.10 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
-| 16:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 15.1% |
+| 15:30 | USD | Low | Natural Gas Storage | 18B | 31B | 22B |
+| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jul) | 49.60 |  | 51.10 |
+| 25 min | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
+| 25 min | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
+| 25 min | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 55 min | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 15.1% |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.8% | 2.8% |
 | 18:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,205B |
