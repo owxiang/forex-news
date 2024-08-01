@@ -21,8 +21,8 @@
 | 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,234.8B |  | 3,194.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 3.6% |  | 3.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) | -3.0% |  | -3.5% |
@@ -53,8 +53,8 @@
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Jul) | 44.23K |  | 39.87K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 1.50% |  | -14.00% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Jul) | 44.23K |  | 39.87K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,877K | 1,860K | 1,844K |
 | 13:30 | USD | High | Initial Jobless Claims | 249K | 236K | 235K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 238.00K |  | 235.50K |
@@ -74,8 +74,8 @@
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jul) | 49.60 |  | 51.10 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.230% |  | 5.260% |
-| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.8% | 2.8% |
-| 54 min | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
+| 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 2.8% | 2.8% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,205B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.276T |
 | 22:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |

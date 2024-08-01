@@ -35,8 +35,8 @@
 | 11:00 | EUR | Car Registration (MoM) (Jul) | -18.70% |  | 8.60% |
 | 12:30 | USD | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
-| 13:00 | ZAR | Total Vehicle Sales (Jul) | 44.23K |  | 39.87K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 1.50% |  | -14.00% |
+| 13:00 | ZAR | Total Vehicle Sales (Jul) | 44.23K |  | 39.87K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 238.00K |  | 235.50K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jul) | 54.0 |  | 52.5 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) | 47.8 |  | 49.3 |
@@ -46,5 +46,5 @@
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Jul) | 49.60 |  | 51.10 |
 | 16:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction | 5.230% |  | 5.260% |
-| 54 min | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
+| 17:00 | EUR | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.276T |
