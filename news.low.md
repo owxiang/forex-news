@@ -15,9 +15,9 @@
 | 02:30 | AUD | Exports (MoM) (Jun) | 1.7% |  | 2.8% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q2) | 1.0% | -0.9% | -1.8% |
 | 02:30 | AUD | Imports (MoM) (Jun) | 0.5% |  | 3.3% |
-| 54 min | IDR | Core Inflation (YoY) (Jul) |  | 1.90% | 1.90% |
-| 54 min | IDR | Inflation (MoM) (Jul) |  | 0.10% | -0.08% |
-| 54 min | IDR | Inflation (YoY) (Jul) |  | 2.40% | 2.51% |
+| 05:00 | IDR | Core Inflation (YoY) (Jul) |  | 1.90% | 1.90% |
+| 05:00 | IDR | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
+| 05:00 | IDR | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jul) |  | 58.5 | 58.3 |
 | 07:00 | NOK | M3 Money Supply (Jun) |  |  | 3,194.3B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jun) |  |  | 3.1% |
@@ -28,10 +28,10 @@
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.23% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.61% |
 | 10:00 | ZAR | Manufacturing PMI |  |  | 54.0 |
-| 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 2.20% |
 | 11:00 | EUR | Car Registration (MoM) (Jul) |  |  | 8.60% |
-| 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 2.20% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
+| 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |
