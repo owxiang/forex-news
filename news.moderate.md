@@ -1,30 +1,29 @@
-## 01 August 2024 - Moderate Impact Forex News
+## 02 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance (Jun) | 5.589B | 5.080B | 5.052B |
-| 02:45 | CNY | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 51.0 | 52.5 | 52.3 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 47.4 | 46.0 | 45.7 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 44.0 | 44.1 | 45.4 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Jul) | 43.2 | 42.6 | 43.5 |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 45.8 | 45.6 | 45.8 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jul) | 52.1 | 51.8 | 50.9 |
-| 10:00 | EUR | Unemployment Rate (Jun) | 6.5% | 6.4% | 6.4% |
-| 12:00 | GBP | BoE MPC vote cut (Aug) | 5 | 6 | 2 |
-| 12:00 | GBP | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,877K | 1,860K | 1,844K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.3% | 1.7% | 0.4% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 0.9% | 1.8% | 3.8% |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Jun) | -0.3% | 0.2% | -0.4% |
-| 15:00 | USD | ISM Manufacturing Employment (Jul) | 43.4 | 49.0 | 49.3 |
-| 17:30 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.8% | 2.8% |
-| 21:30 | USD | Fed's Balance Sheet | 7,178B |  | 7,205B |
-| 22:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 02:30 | AUD | Home Loans (MoM) (Jun) |  | -1.0% | -2.0% |
+| 02:30 | AUD | PPI (YoY) (Q2) |  |  | 4.3% |
+| 02:30 | AUD | PPI (QoQ) (Q2) |  | 1.0% | 0.9% |
+| 07:30 | CHF | CPI (MoM) (Jul) |  | -0.2% | 0.0% |
+| 08:00 | EUR | Spanish Unemployment Change (Jul) |  | -17.4K | -46.8K |
+| 08:30 | CHF | procure.ch PMI (Jul) |  | 44.4 | 43.9 |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | 0.26% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:00 | BRL | Industrial Production (YoY) (Jun) |  | 1.2% | -1.0% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.7% | 3.9% |
+| 13:30 | USD | Participation Rate (Jul) |  |  | 62.6% |
+| 13:30 | USD | Private Nonfarm Payrolls (Jul) |  | 148K | 136K |
+| 13:30 | USD | U6 Unemployment Rate (Jul) |  |  | 7.4% |
+| 15:00 | USD | Factory Orders (MoM) (Jun) |  | -2.7% | -0.5% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 142.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 276.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 273.1K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -0.6K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -13.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -8.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -42.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -107.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 35.9K |

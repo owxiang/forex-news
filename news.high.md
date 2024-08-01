@@ -1,9 +1,7 @@
-## 01 August 2024 - High Impact Forex News
+## 02 August 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | GBP | BoE Interest Rate Decision (Aug) | 5.00% | 5.00% | 5.25% |
-| 13:30 | USD | Initial Jobless Claims | 249K | 236K | 235K |
-| 14:45 | USD | S&P Global US Manufacturing PMI (Jul) | 49.6 | 49.5 | 51.6 |
-| 15:00 | USD | ISM Manufacturing PMI (Jul) | 46.8 | 48.8 | 48.5 |
-| 15:00 | USD | ISM Manufacturing Prices (Jul) | 52.9 | 51.9 | 52.1 |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.3% |
+| 13:30 | USD | Nonfarm Payrolls (Jul) |  | 176K | 206K |
+| 13:30 | USD | Unemployment Rate (Jul) |  | 4.1% | 4.1% |
