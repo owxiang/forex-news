@@ -18,11 +18,10 @@
 | 12:00 | GBP | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 24 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | GBP | BOE Inflation Letter |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,851K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21 min | USD | Continuing Jobless Claims |  | 1,860K | 1,851K |
+| 21 min | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
+| 21 min | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Jun) |  | 0.2% | -0.1% |
 | 15:00 | USD | ISM Manufacturing Employment (Jul) |  | 49.0 | 49.3 |

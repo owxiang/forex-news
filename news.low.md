@@ -16,8 +16,8 @@
 | 02:30 | AUD | Import Price Index (QoQ) (Q2) | 1.0% | -0.9% | -1.8% |
 | 02:30 | AUD | Imports (MoM) (Jun) | 0.5% |  | 3.3% |
 | 05:00 | IDR | Core Inflation (YoY) (Jul) | 1.95% | 1.90% | 1.90% |
-| 05:00 | IDR | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 05:00 | IDR | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
+| 05:00 | IDR | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
 | 07:00 | NOK | M3 Money Supply (Jun) | 3,234.8B |  | 3,194.3B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jun) | 3.6% |  | 3.1% |
@@ -33,12 +33,12 @@
 | 10:30 | EUR | Spanish 3-Year Bonos Auction | 2.701% |  | 3.067% |
 | 11:00 | EUR | Car Registration (YoY) (Jul) | 3.40% |  | 2.20% |
 | 11:00 | EUR | Car Registration (MoM) (Jul) | -18.70% |  | 8.60% |
-| 24 min | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
-| 24 min | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
-| 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
+| 12:30 | USD | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
+| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
+| 21 min | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
+| 21 min | ZAR | Total Vehicle Sales |  |  | 40.07K |
+| 51 min | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) |  |  | 49.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jul) |  |  | 49.3 |
 | 15:30 | USD | Natural Gas Storage |  | 31B | 22B |

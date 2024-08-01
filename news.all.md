@@ -18,8 +18,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jun) | 5.589B | 5.080B | 5.052B |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jul) | 1.95% | 1.90% | 1.90% |
-| 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
+| 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
@@ -50,18 +50,17 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Aug) | 5.00% | 5.00% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 24 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 24 min | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
-| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
-| 54 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,851K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 236K | 235K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |
-| 13:30 | ZAR | Low | Total Vehicle Sales |  |  | 40.07K |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -14.00% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
+| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,851K |
+| 21 min | USD | High | Initial Jobless Claims |  | 236K | 235K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
+| 21 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
+| 21 min | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |
+| 21 min | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -14.00% |
+| 21 min | ZAR | Low | Total Vehicle Sales |  |  | 40.07K |
+| 51 min | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jul) |  |  | 49.3 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Jul) |  | 49.5 | 51.6 |
