@@ -35,14 +35,14 @@
 | 11:00 | EUR | Car Registration (YoY) (Jul) | 3.40% |  | 2.20% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
 | 12:30 | USD | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
+| 13:00 | ZAR | Total Vehicle Sales (Jul) | 44.23K |  | 40.07K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 1.50% |  | -14.00% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 238.00K |  | 235.50K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jul) | 54.0 |  | 52.5 |
-| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) |  |  | 49.3 |
-| 14:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
-| 14:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jul) |  |  | 49.3 |
-| 15:30 | USD | Natural Gas Storage |  | 31B | 22B |
-| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Jul) |  |  | 51.10 |
+| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) | 47.8 |  | 49.3 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jul) | 47.4 | 49.0 | 49.3 |
+| 24 min | USD | Natural Gas Storage |  | 31B | 22B |
+| 54 min | MXN | S&P Global Mexico Manufacturing PMI (Jul) |  |  | 51.10 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
 | 16:30 | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |

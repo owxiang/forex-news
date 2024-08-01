@@ -23,8 +23,8 @@
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.3% | 1.7% | 0.4% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 0.9% | 1.8% | 3.8% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Jun) |  | 0.2% | -0.1% |
-| 15:00 | USD | ISM Manufacturing Employment (Jul) |  | 49.0 | 49.3 |
+| 15:00 | USD | Construction Spending (MoM) (Jun) | -0.3% | 0.2% | -0.4% |
+| 15:00 | USD | ISM Manufacturing Employment (Jul) | 43.4 | 49.0 | 49.3 |
 | 17:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.8% | 2.8% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,205B |
 | 22:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
