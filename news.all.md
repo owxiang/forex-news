@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Jul) |  | 47.4 | 47.2 |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -730.4B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -49.0B |
-| 54 min | KRW | Low | Exports (YoY) (Jul) |  | 18.4% | 5.1% |
-| 54 min | KRW | Low | Imports (YoY) (Jul) |  | 13.4% | -7.5% |
-| 54 min | KRW | Low | Trade Balance (Jul) |  | 5.00B | 7.99B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) |  |  | 52.0 |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.2 | 50.0 |
-| 01:30 | IDR | Low | Nikkei Manufacturing PMI (Jul) |  |  | 50.7 |
+| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Jul) | 47.5 | 47.4 | 47.2 |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -700.5B |  | -730.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -670.5B |  | -56.9B |
+| 01:00 | KRW | Low | Exports (YoY) (Jul) | 13.9% | 18.4% | 5.1% |
+| 01:00 | KRW | Low | Imports (YoY) (Jul) | 10.5% | 13.4% | -7.5% |
+| 01:00 | KRW | Low | Trade Balance (Jul) | 3.62B | 5.00B | 7.99B |
+| 4 min | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) |  |  | 52.0 |
+| 4 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.2 | 50.0 |
+| 4 min | IDR | Low | Nikkei Manufacturing PMI (Jul) |  |  | 50.7 |
 | 02:30 | AUD | Low | Export Price Index (QoQ) (Q2) |  |  | -2.1% |
 | 02:30 | AUD | Low | Exports (MoM) (Jun) |  |  | 2.8% |
 | 02:30 | AUD | Low | Import Price Index (QoQ) (Q2) |  | -0.9% | -1.8% |
@@ -19,11 +19,11 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jun) |  | 5.080B | 5.773B |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jul) |  | 51.4 | 51.8 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jul) |  | 1.90% | 1.90% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jul) |  | 0.10% | -0.08% |
 | 05:00 | IDR | Low | Inflation (YoY) (Jul) |  | 2.40% | 2.51% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jul) |  | 0.10% | -0.08% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) |  | 58.5 | 58.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | 1.8% | 1.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.2% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,194.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  |  | 3.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) |  |  | -4.1% |
@@ -41,23 +41,23 @@
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.61% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) |  | 6.4% | 6.4% |
 | 10:00 | ZAR | Low | Manufacturing PMI |  |  | 54.0 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 2.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 8.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 2.20% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) |  | 6 | 2 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Aug) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 3 | 7 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.00% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,851K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 235K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 13:30 | ZAR | Low | Total Vehicle Sales |  |  | 40.07K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jul) |  |  | 49.3 |

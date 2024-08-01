@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Trade Balance (Jun) |  | 5.080B | 5.773B |
 | 02:45 | CNY | Caixin Manufacturing PMI (Jul) |  | 51.4 | 51.8 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jul) |  | 1.8% | 1.5% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jul) |  | 0.1% | 0.2% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 52.5 | 52.3 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) |  | 46.0 | 45.7 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jul) |  | 44.1 | 45.4 |
