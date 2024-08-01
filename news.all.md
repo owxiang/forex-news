@@ -18,8 +18,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jun) | 5.589B | 5.080B | 5.052B |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jul) | 1.95% | 1.90% | 1.90% |
-| 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
+| 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
@@ -43,16 +43,16 @@
 | 10:00 | ZAR | Low | Manufacturing PMI | 52.4 |  | 45.7 |
 | 10:30 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.107% |  | 3.192% |
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 2.701% |  | 3.067% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jul) | 3.40% |  | 2.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jul) | -18.70% |  | 8.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jul) | 3.40% |  | 2.20% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) | 5 | 6 | 2 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Aug) | 5.00% | 5.00% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 9.2% |  | 19.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jul) | 25.885K |  | 48.786K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 1.50% |  | -14.00% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Jul) | 44.23K |  | 39.87K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,877K | 1,860K | 1,844K |
