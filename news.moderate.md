@@ -1,11 +1,11 @@
-## None - Moderate Impact Forex News
+## 01 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Trade Balance (Jun) | 5.589B | 5.080B | 5.052B |
 | 02:45 | CNY | Caixin Manufacturing PMI (Jul) | 49.8 | 51.4 | 51.8 |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 51.0 | 52.5 | 52.3 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 47.4 | 46.0 | 45.7 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 44.0 | 44.1 | 45.4 |
@@ -14,12 +14,12 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 45.8 | 45.6 | 45.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jul) | 52.1 | 51.8 | 50.9 |
 | 10:00 | EUR | Unemployment Rate (Jun) | 6.5% | 6.4% | 6.4% |
-| 53 min | GBP | BoE MPC vote cut (Aug) |  | 6 | 2 |
-| 53 min | GBP | BoE MPC vote hike (Aug) |  | 0 | 0 |
-| 53 min | GBP | BoE MPC vote unchanged (Aug) |  | 3 | 7 |
-| 53 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:00 | GBP | BOE Inflation Letter |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Aug) | 5 | 6 | 2 |
+| 12:00 | GBP | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 24 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 54 min | GBP | BOE Inflation Letter |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,851K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |

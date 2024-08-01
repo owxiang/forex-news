@@ -1,4 +1,4 @@
-## None - All Forex News
+## 01 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -21,8 +21,8 @@
 | 05:00 | IDR | Low | Inflation (YoY) (Jul) | 2.13% | 2.40% | 2.51% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jul) | -0.18% | 0.10% | -0.08% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Jul) | 58.1 | 59.0 | 58.3 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.3% | 0.1% | 0.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.1% | 1.8% | 1.5% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,234.8B |  | 3,194.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 3.6% |  | 3.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) | -3.0% |  | -3.5% |
@@ -43,24 +43,24 @@
 | 10:00 | ZAR | Low | Manufacturing PMI | 52.4 |  | 45.7 |
 | 10:30 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.107% |  | 3.192% |
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 2.701% |  | 3.067% |
-| 53 min | GBP | Moderate | BoE MPC vote cut (Aug) |  | 6 | 2 |
-| 53 min | GBP | Moderate | BoE MPC vote hike (Aug) |  | 0 | 0 |
-| 53 min | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 3 | 7 |
-| 53 min | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.00% | 5.25% |
-| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 53 min | EUR | Low | Car Registration (YoY) (Jul) |  |  | 2.20% |
-| 53 min | EUR | Low | Car Registration (MoM) (Jul) |  |  | 8.60% |
-| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
-| 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jul) | 3.40% |  | 2.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jul) | -18.70% |  | 8.60% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Aug) | 5 | 6 | 2 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Aug) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 4 | 3 | 7 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Aug) | 5.00% | 5.00% | 5.25% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 24 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 24 min | USD | Low | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 19.8% |
+| 54 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,851K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 235K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 1.7% | 0.2% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 1.8% | 4.0% |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 13:30 | ZAR | Low | Total Vehicle Sales |  |  | 40.07K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jul) |  |  | 49.3 |

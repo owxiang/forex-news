@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 01 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -31,13 +31,13 @@
 | 10:00 | ZAR | Manufacturing PMI | 52.4 |  | 45.7 |
 | 10:30 | EUR | Spanish 10-Year Obligacion Auction | 3.107% |  | 3.192% |
 | 10:30 | EUR | Spanish 3-Year Bonos Auction | 2.701% |  | 3.067% |
-| 53 min | EUR | Car Registration (YoY) (Jul) |  |  | 2.20% |
-| 53 min | EUR | Car Registration (MoM) (Jul) |  |  | 8.60% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
-| 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 11:00 | EUR | Car Registration (YoY) (Jul) | 3.40% |  | 2.20% |
+| 11:00 | EUR | Car Registration (MoM) (Jul) | -18.70% |  | 8.60% |
+| 24 min | USD | Challenger Job Cuts (Jul) |  |  | 48.786K |
+| 24 min | USD | Challenger Job Cuts (YoY) |  |  | 19.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 40.07K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) |  |  | -14.00% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 52.5 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) |  |  | 49.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jul) |  |  | 49.3 |
