@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:00 | KRW | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.4% |
+| 00:00 | KRW | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:50 | JPY | Monetary Base (YoY) (Jul) | 1.2% | 0.9% | 0.6% |
-| 02:30 | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
 | 07:30 | CHF | CPI (YoY) (Jul) |  | 1.3% | 1.3% |
 | 07:45 | EUR | French Government Budget Balance (Jun) |  |  | -113.5B |
 | 07:45 | EUR | French Industrial Production (MoM) (Jun) |  | 1.0% | -2.1% |
@@ -13,8 +12,8 @@
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jun) |  |  | -3.3% |
 | 09:00 | NOK | Unemployment Change (Jul) |  |  | 75.00K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 1.90% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 0.4% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.2% | 0.4% |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 0.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 670.86B |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | 0.90% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  | 8.40% | 18.10% |

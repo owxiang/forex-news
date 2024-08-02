@@ -2,11 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.4% |
+| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | 1.2% | 0.9% | 0.6% |
-| 02:30 | AUD | Moderate | Home Loans (MoM) (Jun) |  | -1.0% | -2.0% |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
+| 02:30 | AUD | Moderate | Home Loans (MoM) (Jun) | 0.5% | -1.0% | -1.9% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
 | 07:30 | CHF | Low | CPI (YoY) (Jul) |  | 1.3% | 1.3% |
@@ -20,8 +19,8 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | 0.26% |
 | 09:00 | NOK | Low | Unemployment Change (Jul) |  |  | 75.00K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 1.90% |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 0.4% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.2% | 0.4% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 0.4% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 670.86B |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  |  | 0.90% |
@@ -30,8 +29,8 @@
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) |  |  | 2.60% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | 2.4% | -0.9% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 1.2% | -1.0% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.7% | 3.9% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Jul) |  |  | 70.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jul) |  | -1K | -8K |

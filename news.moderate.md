@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Home Loans (MoM) (Jun) |  | -1.0% | -2.0% |
+| 02:30 | AUD | Home Loans (MoM) (Jun) | 0.5% | -1.0% | -1.9% |
 | 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 02:30 | AUD | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
 | 07:30 | CHF | CPI (MoM) (Jul) |  | -0.2% | 0.0% |
