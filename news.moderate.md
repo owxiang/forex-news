@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) (Jun) | 0.5% | -1.0% | -1.9% |
-| 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 02:30 | AUD | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
+| 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 07:30 | CHF | CPI (MoM) (Jul) |  | -0.2% | 0.0% |
 | 08:00 | EUR | Spanish Unemployment Change (Jul) |  | -17.4K | -46.8K |
 | 08:30 | CHF | procure.ch PMI (Jul) |  | 44.4 | 43.9 |
