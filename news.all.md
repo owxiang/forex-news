@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Jul) |  | 2.5% | 2.4% |
-| 00:00 | KRW | Low | CPI (MoM) (Jul) |  | 0.3% | -0.2% |
-| 44 min | JPY | Low | Monetary Base (YoY) (Jul) |  | 0.9% | 0.6% |
+| 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.4% |
+| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | 1.2% | 0.9% | 0.6% |
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Jun) |  | -1.0% | -2.0% |
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q2) |  |  | 4.3% |

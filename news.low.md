@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Jul) |  | 2.5% | 2.4% |
-| 00:00 | KRW | CPI (MoM) (Jul) |  | 0.3% | -0.2% |
-| 44 min | JPY | Monetary Base (YoY) (Jul) |  | 0.9% | 0.6% |
+| 00:00 | KRW | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.4% |
+| 00:00 | KRW | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
+| 00:50 | JPY | Monetary Base (YoY) (Jul) | 1.2% | 0.9% | 0.6% |
 | 02:30 | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
 | 07:30 | CHF | CPI (YoY) (Jul) |  | 1.3% | 1.3% |
 | 07:45 | EUR | French Government Budget Balance (Jun) |  |  | -113.5B |
