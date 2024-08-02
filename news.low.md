@@ -43,7 +43,6 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jun) | -7.2% |  | -7.0% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jun) | 0.4% |  | 0.5% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jun) | 0.1% |  | -0.7% |
-| 54 min | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 42.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -222.0K |

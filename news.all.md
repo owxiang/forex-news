@@ -60,9 +60,8 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jun) | 0.4% |  | 0.5% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Jun) | -3.3% | -2.7% | -0.5% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jun) | 0.1% |  | -0.7% |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
-| 54 min | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 482 |  | 482 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 586 |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 142.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 42.2K |
