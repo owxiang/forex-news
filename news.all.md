@@ -20,14 +20,14 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) | 0.06% |  | 0.26% |
 | 09:00 | NOK | Low | Unemployment Change (Jul) | 76.57K |  | 75.00K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 2.10% |  | 1.90% |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | -1.0% |  | 0.5% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.2% | 0.4% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | -1.0% |  | 0.5% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD | 667.39B |  | 670.86B |
 | 13:00 | USD | Low | All Car Sales (Jul) | 3.00M |  | 2.75M |
 | 13:00 | USD | Low | All Truck Sales (Jul) | 12.82M |  | 12.43M |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 0.70% |  | 0.80% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | 6.00% | 8.40% | 18.30% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 0.70% |  | 0.80% |
 | 13:00 | MXN | Low | Unemployment Rate (Jun) | 2.70% | 2.60% | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) | 2.80% |  | 2.60% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | 3.2% | 1.2% | -1.1% |
