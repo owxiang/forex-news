@@ -18,8 +18,8 @@
 | 12:30 | INR | FX Reserves, USD | 667.39B |  | 670.86B |
 | 13:00 | USD | All Car Sales (Jul) | 3.00M |  | 2.75M |
 | 13:00 | USD | All Truck Sales (Jul) | 12.82M |  | 12.43M |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (May) | 6.00% | 8.40% | 18.30% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) | 0.70% |  | 0.80% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (May) | 6.00% | 8.40% | 18.30% |
 | 13:00 | MXN | Unemployment Rate (Jun) | 2.70% | 2.60% | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Jun) | 2.80% |  | 2.60% |
 | 13:00 | BRL | Industrial Production (MoM) (Jun) | 4.1% | 2.4% | -1.5% |
@@ -42,7 +42,7 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jun) | -7.2% |  | -7.0% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jun) | 0.4% |  | 0.5% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jun) | 0.1% |  | -0.7% |
-| 16:30 | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 24 min | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
 | 18:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 42.2K |
