@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) (Jun) | 0.5% | -1.0% | -1.9% |
-| 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 02:30 | AUD | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
+| 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 07:30 | CHF | CPI (MoM) (Jul) | -0.2% | -0.2% | 0.0% |
 | 08:00 | EUR | Spanish Unemployment Change (Jul) | -10.8K | -17.4K | -46.8K |
 | 08:30 | CHF | procure.ch PMI (Jul) | 43.5 | 44.4 | 43.9 |
@@ -18,12 +18,12 @@
 | 15:00 | USD | Factory Orders (MoM) (Jun) | -3.3% | -2.7% | -0.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 482 |  | 482 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 586 |  | 589 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 142.2K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 276.0K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 273.1K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -0.6K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -13.2K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -8.8K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -42.0K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -107.1K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 35.9K |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | 142.2K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 276.0K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 273.1K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | -0.6K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -13.2K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -8.8K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | -42.0K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | -107.1K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | 35.9K |
