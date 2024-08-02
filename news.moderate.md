@@ -9,8 +9,8 @@
 | 08:00 | EUR | Spanish Unemployment Change (Jul) | -10.8K | -17.4K | -46.8K |
 | 08:30 | CHF | procure.ch PMI (Jul) | 43.5 | 44.4 | 43.9 |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jul) | 0.06% |  | 0.26% |
-| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:00 | BRL | Industrial Production (YoY) (Jun) |  | 1.2% | -1.0% |
+| 10 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 55 min | BRL | Industrial Production (YoY) (Jun) |  | 1.2% | -1.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.7% | 3.9% |
 | 13:30 | USD | Participation Rate (Jul) |  |  | 62.6% |
 | 13:30 | USD | Private Nonfarm Payrolls (Jul) |  | 148K | 136K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:00 | KRW | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.4% |
+| 00:00 | KRW | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:50 | JPY | Monetary Base (YoY) (Jul) | 1.2% | 0.9% | 0.6% |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 2.7% |  | -1.3% |
 | 07:30 | CHF | CPI (YoY) (Jul) | 1.3% | 1.3% | 1.3% |
@@ -15,12 +15,12 @@
 | 09:00 | NOK | Unemployment Rate n.s.a. (Jul) | 2.10% |  | 1.90% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.2% | 0.4% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Jun) | -1.0% |  | 0.5% |
-| 12:30 | INR | FX Reserves, USD |  |  | 670.86B |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | 0.90% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  | 8.40% | 18.10% |
-| 13:00 | MXN | Unemployment Rate (Jun) |  | 2.60% | 2.60% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Jun) |  |  | 2.60% |
-| 13:00 | BRL | Industrial Production (MoM) (Jun) |  | 2.4% | -0.9% |
+| 25 min | INR | FX Reserves, USD |  |  | 670.86B |
+| 55 min | MXN | Gross Fixed Investments (YoY) (May) |  | 8.40% | 18.10% |
+| 55 min | MXN | Gross Fixed Investments (MoM) (May) |  |  | 0.90% |
+| 55 min | MXN | Unemployment Rate (Jun) |  | 2.60% | 2.60% |
+| 55 min | MXN | Unemployment Rate n.s.a. (Jun) |  |  | 2.60% |
+| 55 min | BRL | Industrial Production (MoM) (Jun) |  | 2.4% | -0.9% |
 | 13:30 | USD | Average Weekly Hours (Jul) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jul) |  |  | 70.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jul) |  | -1K | -8K |
