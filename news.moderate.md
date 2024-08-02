@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) (Jun) | 0.5% | -1.0% | -1.9% |
-| 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 02:30 | AUD | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
+| 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 07:30 | CHF | CPI (MoM) (Jul) | -0.2% | -0.2% | 0.0% |
 | 08:00 | EUR | Spanish Unemployment Change (Jul) | -10.8K | -17.4K | -46.8K |
 | 08:30 | CHF | procure.ch PMI (Jul) | 43.5 | 44.4 | 43.9 |
@@ -16,8 +16,8 @@
 | 13:30 | USD | Private Nonfarm Payrolls (Jul) | 97K | 148K | 136K |
 | 13:30 | USD | U6 Unemployment Rate (Jul) | 7.8% |  | 7.4% |
 | 15:00 | USD | Factory Orders (MoM) (Jun) | -3.3% | -2.7% | -0.5% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 142.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 276.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 273.1K |

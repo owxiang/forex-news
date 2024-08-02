@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:00 | KRW | Low | CPI (YoY) (Jul) | 2.6% | 2.5% | 2.4% |
+| 00:00 | KRW | Low | CPI (MoM) (Jul) | 0.3% | 0.3% | -0.2% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jul) | 1.2% | 0.9% | 0.6% |
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Jun) | 0.5% | -1.0% | -1.9% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 2.7% |  | -1.3% |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
-| 07:30 | CHF | Low | CPI (YoY) (Jul) | 1.3% | 1.3% | 1.3% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jul) | -0.2% | -0.2% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Jul) | 1.3% | 1.3% | 1.3% |
 | 07:45 | EUR | Low | French Government Budget Balance (Jun) | -103.5B |  | -113.5B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jun) | 0.8% | 1.0% | -2.2% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jul) | -10.8K | -17.4K | -46.8K |
@@ -20,14 +20,14 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) | 0.06% |  | 0.26% |
 | 09:00 | NOK | Low | Unemployment Change (Jul) | 76.57K |  | 75.00K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 2.10% |  | 1.90% |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | -1.0% |  | 0.5% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.2% | 0.4% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | -1.0% |  | 0.5% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD | 667.39B |  | 670.86B |
 | 13:00 | USD | Low | All Car Sales (Jul) | 3.00M |  | 2.75M |
 | 13:00 | USD | Low | All Truck Sales (Jul) | 12.82M |  | 12.43M |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 0.70% |  | 0.80% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | 6.00% | 8.40% | 18.30% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 0.70% |  | 0.80% |
 | 13:00 | MXN | Low | Unemployment Rate (Jun) | 2.70% | 2.60% | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) | 2.80% |  | 2.60% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | 3.2% | 1.2% | -1.1% |
@@ -42,6 +42,7 @@
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jul) | 97K | 148K | 136K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jul) | 7.8% |  | 7.4% |
 | 13:30 | USD | High | Unemployment Rate (Jul) | 4.3% | 4.1% | 4.1% |
+| 14:00 | USD | Low | Total Vehicle Sales (Jul) | 15.80M |  | 15.30M |
 | 14:00 | SGD | Low | S&P Global Singapore PMI (Jul) | 50.7 |  | 50.4 |
 | 14:30 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.91M | 0.91M | 0.91M |
 | 14:30 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
@@ -59,10 +60,9 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jun) | 0.4% |  | 0.5% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Jun) | -3.3% | -2.7% | -0.5% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jun) | 0.1% |  | -0.7% |
-| 24 min | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
-| 18:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 54 min | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 142.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 42.2K |
