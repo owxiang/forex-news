@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) (Jun) | 0.5% | -1.0% | -1.9% |
-| 02:30 | AUD | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
 | 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
+| 02:30 | AUD | PPI (QoQ) (Q2) | 1.0% | 1.0% | 0.9% |
 | 07:30 | CHF | CPI (MoM) (Jul) | -0.2% | -0.2% | 0.0% |
 | 08:00 | EUR | Spanish Unemployment Change (Jul) | -10.8K | -17.4K | -46.8K |
 | 08:30 | CHF | procure.ch PMI (Jul) | 43.5 | 44.4 | 43.9 |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jul) | 0.06% |  | 0.26% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Jun) | 3.2% | 1.2% | -1.1% |
-| 21 min | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.7% | 3.9% |
-| 21 min | USD | Participation Rate (Jul) |  |  | 62.6% |
-| 21 min | USD | Private Nonfarm Payrolls (Jul) |  | 148K | 136K |
-| 21 min | USD | U6 Unemployment Rate (Jul) |  |  | 7.4% |
-| 15:00 | USD | Factory Orders (MoM) (Jun) |  | -2.7% | -0.5% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) | 3.6% | 3.7% | 3.8% |
+| 13:30 | USD | Participation Rate (Jul) | 62.7% | 62.6% | 62.6% |
+| 13:30 | USD | Private Nonfarm Payrolls (Jul) | 97K | 148K | 136K |
+| 13:30 | USD | U6 Unemployment Rate (Jul) | 7.8% |  | 7.4% |
+| 51 min | USD | Factory Orders (MoM) (Jun) |  | -2.7% | -0.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 142.2K |
