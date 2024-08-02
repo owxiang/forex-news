@@ -9,12 +9,12 @@
 | 07:30 | CHF | CPI (YoY) (Jul) | 1.3% | 1.3% | 1.3% |
 | 07:45 | EUR | French Government Budget Balance (Jun) | -103.5B |  | -113.5B |
 | 07:45 | EUR | French Industrial Production (MoM) (Jun) | 0.8% | 1.0% | -2.2% |
-| 53 min | EUR | Italian Industrial Production (MoM) (Jun) |  | 0.0% | 0.5% |
-| 53 min | EUR | Italian Industrial Production (YoY) (Jun) |  |  | -3.3% |
-| 53 min | NOK | Unemployment Change (Jul) |  |  | 75.00K |
-| 53 min | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 1.90% |
-| 10:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.2% | 0.4% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 0.4% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.5% | 0.0% | 0.5% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jun) | -2.6% |  | -3.3% |
+| 09:00 | NOK | Unemployment Change (Jul) | 76.57K |  | 75.00K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Jul) | 2.10% |  | 1.90% |
+| 53 min | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.2% | 0.4% |
+| 53 min | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 0.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 670.86B |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (May) |  | 8.40% | 18.10% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (May) |  |  | 0.90% |

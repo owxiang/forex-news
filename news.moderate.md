@@ -7,8 +7,8 @@
 | 02:30 | AUD | PPI (YoY) (Q2) | 4.8% |  | 4.3% |
 | 07:30 | CHF | CPI (MoM) (Jul) | -0.2% | -0.2% | 0.0% |
 | 08:00 | EUR | Spanish Unemployment Change (Jul) | -10.8K | -17.4K | -46.8K |
-| 23 min | CHF | procure.ch PMI (Jul) |  | 44.4 | 43.9 |
-| 53 min | BRL | IPC-Fipe Inflation Index (MoM) (Jul) |  |  | 0.26% |
+| 08:30 | CHF | procure.ch PMI (Jul) | 43.5 | 44.4 | 43.9 |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jul) | 0.06% |  | 0.26% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Jun) |  | 1.2% | -1.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.7% | 3.9% |
