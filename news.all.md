@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 22:00 | KRW | Low | FX Reserves - USD (Jul) |  |  | 412.21B |
+| 54 min | KRW | Low | FX Reserves - USD (Jul) |  |  | 412.21B |
