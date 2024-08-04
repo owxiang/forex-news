@@ -1,3 +1,7 @@
-## 04 August 2024 - High Impact Forex News
+## 05 August 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 14:45 | USD | S&P Global Services PMI (Jul) |  | 56.0 | 55.3 |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Jul) |  |  | 56.3 |
