@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 04 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
