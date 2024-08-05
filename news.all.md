@@ -14,7 +14,7 @@
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  |  | 0.4% |
+| 51 min | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  |  | 0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 56.2 | 56.8 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Jul) |  |  | 49.2 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jul) |  |  | 51.3 |
