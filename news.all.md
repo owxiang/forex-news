@@ -9,11 +9,11 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) | 0.6% |  | 0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) | 53.9 | 56.2 | 56.8 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Jul) | 49.3 |  | 49.2 |
@@ -31,7 +31,7 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
-| 12:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
+| 54 min | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.252% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.610% |
