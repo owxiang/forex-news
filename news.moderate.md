@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Jul) |  | 53.9 | 49.4 |
+| 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 6 min | JPY | au Jibun Bank Japan Services PMI (Jul) |  | 53.9 | 49.4 |
 | 02:45 | CNY | Caixin Services PMI (Jul) |  | 51.4 | 51.2 |
 | 08:15 | EUR | HCOB Spain Services PMI (Jul) |  |  | 56.8 |
 | 08:45 | EUR | HCOB Italy Services PMI (Jul) |  |  | 53.7 |
