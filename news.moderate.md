@@ -13,6 +13,6 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.9 | 51.9 | 52.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Jul) | 52.8 | 52.7 | 52.3 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
-| 14:45 | USD | S&P Global Composite PMI (Jul) |  | 55.0 | 54.8 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Jul) |  |  | 46.1 |
+| 37 min | USD | S&P Global Composite PMI (Jul) |  | 55.0 | 54.8 |
+| 52 min | USD | ISM Non-Manufacturing Employment (Jul) |  |  | 46.1 |
 | 22:00 | USD | FOMC Member Daly Speaks |  |  |  |

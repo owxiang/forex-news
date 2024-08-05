@@ -9,8 +9,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -29,22 +29,22 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
+| 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.252% |
-| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.610% |
-| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.456% |
-| 51 min | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 54.1 |
-| 51 min | BRL | Low | S&P Global Services PMI (Jul) |  |  | 54.8 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 55.0 | 54.8 |
-| 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 56.0 | 55.3 |
-| 15:00 | USD | Low | CB Employment Trends Index (Jul) |  |  | 110.27 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 46.1 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 47.3 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 56.3 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.924% |  | 3.252% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.485% |  | 3.610% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.245% |  | 3.456% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Jul) | 56.0 |  | 54.1 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 56.4 |  | 54.8 |
+| 37 min | USD | Moderate | S&P Global Composite PMI (Jul) |  | 55.0 | 54.8 |
+| 37 min | USD | High | S&P Global Services PMI (Jul) |  | 56.0 | 55.3 |
+| 52 min | USD | Low | CB Employment Trends Index (Jul) |  |  | 110.27 |
+| 52 min | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
+| 52 min | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 46.1 |
+| 52 min | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 47.3 |
+| 52 min | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
+| 52 min | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 56.3 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.145% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.930% |
 | 16:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
