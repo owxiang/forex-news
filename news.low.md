@@ -1,34 +1,40 @@
-## 05 August 2024 - Low Impact Forex News
+## 06 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Services PMI | 50.4 | 50.8 | 51.2 |
-| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
-| 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
-| 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
-| 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
-| 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
-| 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 0.6% |  | 0.4% |
-| 08:15 | ZAR | S&P Global South Africa PMI (Jul) | 49.3 |  | 49.2 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Jul) | 50.3 |  | 51.3 |
-| 08:50 | EUR | HCOB France Composite PMI (Jul) | 49.1 | 49.5 | 48.8 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jul) | 49.1 | 48.7 | 50.4 |
-| 09:30 | EUR | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
-| 10:00 | NOK | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
-| 10:00 | EUR | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.924% |  | 3.252% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.485% |  | 3.610% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.245% |  | 3.456% |
-| 14:00 | BRL | S&P Global Composite PMI (Jul) | 56.0 |  | 54.1 |
-| 14:00 | BRL | S&P Global Services PMI (Jul) | 56.4 |  | 54.8 |
-| 15:00 | USD | CB Employment Trends Index (Jul) | 109.61 |  | 110.58 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 54.5 |  | 49.6 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) | 52.4 | 49.8 | 47.3 |
-| 16:30 | USD | 3-Month Bill Auction | 5.075% |  | 5.145% |
-| 16:30 | USD | 6-Month Bill Auction | 4.700% |  | 4.930% |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
+| 23 min | JPY | Overall wage income of employees (Jun) |  | 2.3% | 2.0% |
+| 23 min | JPY | Overtime Pay (YoY) (Jun) |  |  | 0.90% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) |  |  | -2.2% |
+| 02:30 | AUD | Private House Approvals (Jun) |  | -0.5% | 2.1% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Jul) |  |  | 2.3% |
+| 06:45 | CHF | Unemployment Rate s.a. (Jul) |  | 2.5% | 2.4% |
+| 07:30 | CHF | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
+| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.519% |
+| 10:00 | EUR | Italian Trade Balance |  | 5.550B | 6.430B |
+| 10:00 | EUR | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
+| 10:00 | EUR | Retail Sales (MoM) (Jun) |  | -0.2% | 0.1% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.390% |
+| 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.372% |
+| 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.411% |
+| 12:00 | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.4% |
+| 13:00 | USD | Milk Auctions |  |  | 3,837.0 |
+| 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 122.9B |
+| 13:30 | CAD | Exports (Jun) |  |  | 62.45B |
+| 13:30 | CAD | Imports (Jun) |  |  | 64.37B |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.5% |
+| 14:00 | BRL | Auto Production (MoM) (Jul) |  |  | 26.6% |
+| 14:00 | BRL | Auto Sales (MoM) (Jul) |  |  | 10.3% |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Aug) |  | 45.0 | 44.2 |
+| 19:00 | BRL | Trade Balance (Jul) |  |  | 6.71B |
+| 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.3% | -0.2% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 23:45 | NZD | Participation Rate (Q2) |  | 71.30% | 71.50% |
+| 23:45 | NZD | Unemployment Rate (Q2) |  | 4.7% | 4.3% |

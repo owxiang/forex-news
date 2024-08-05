@@ -1,51 +1,58 @@
-## 05 August 2024 - All Forex News
+## 06 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.4 | 50.8 | 51.2 |
-| 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) | 53.7 | 53.9 | 49.4 |
-| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
-| 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
-| 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) | 0.6% |  | 0.4% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) | 53.9 | 56.2 | 56.8 |
-| 08:15 | ZAR | Low | S&P Global South Africa PMI (Jul) | 49.3 |  | 49.2 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jul) | 50.3 |  | 51.3 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jul) | 51.7 | 53.0 | 53.7 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Jul) | 49.1 | 49.5 | 48.8 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Jul) | 50.1 | 50.7 | 49.6 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jul) | 49.1 | 48.7 | 50.4 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jul) | 52.5 | 52.0 | 53.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) | 50.2 | 50.1 | 50.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.9 | 51.9 | 52.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jul) | 52.8 | 52.7 | 52.3 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
-| 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.924% |  | 3.252% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.485% |  | 3.610% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.245% |  | 3.456% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Jul) | 56.0 |  | 54.1 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 56.4 |  | 54.8 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 54.3 | 55.0 | 54.8 |
-| 14:45 | USD | High | S&P Global Services PMI (Jul) | 55.0 | 56.0 | 55.3 |
-| 15:00 | USD | Low | CB Employment Trends Index (Jul) | 109.61 |  | 110.58 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) | 54.5 |  | 49.6 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) | 51.1 | 46.4 | 46.1 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) | 52.4 | 49.8 | 47.3 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) | 51.4 | 51.4 | 48.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) | 57.0 | 56.0 | 56.3 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 5.075% |  | 5.145% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.700% |  | 4.930% |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
+| 23 min | JPY | Moderate | Household Spending (YoY) (Jun) |  | -0.9% | -1.8% |
+| 23 min | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.2% | -0.3% |
+| 23 min | JPY | Low | Overall wage income of employees (Jun) |  | 2.3% | 2.0% |
+| 23 min | JPY | Low | Overtime Pay (YoY) (Jun) |  |  | 0.90% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) |  |  | -2.2% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | -6.5% | 5.5% |
+| 02:30 | AUD | Low | Private House Approvals (Jun) |  | -0.5% | 2.1% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.091% |
+| 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.35% |
+| 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.3% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Jul) |  | 2.5% | 2.4% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) |  | 0.7% | -1.6% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 51.0 | 52.2 |
+| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.519% |
+| 10:00 | EUR | Low | Italian Trade Balance |  | 5.550B | 6.430B |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) |  | -0.2% | 0.1% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.390% |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.372% |
+| 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.411% |
+| 12:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.4% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 3,837.0 |
+| 13:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 122.9B |
+| 13:30 | USD | Moderate | Exports (Jun) |  |  | 261.70B |
+| 13:30 | USD | Moderate | Imports (Jun) |  |  | 336.70B |
+| 13:30 | USD | Moderate | Trade Balance (Jun) |  | -72.50B | -75.10B |
+| 13:30 | CAD | Low | Exports (Jun) |  |  | 62.45B |
+| 13:30 | CAD | Low | Imports (Jun) |  |  | 64.37B |
+| 13:30 | CAD | Moderate | Trade Balance (Jun) |  | -1.84B | -1.93B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.5% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Jul) |  |  | 26.6% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Jul) |  |  | 10.3% |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 45.0 | 44.2 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.399% |
+| 19:00 | BRL | Low | Trade Balance (Jul) |  |  | 6.71B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.495M |
+| 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.3% | -0.2% |
+| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
+| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 23:45 | NZD | Low | Participation Rate (Q2) |  | 71.30% | 71.50% |
+| 23:45 | NZD | Low | Unemployment Rate (Q2) |  | 4.7% | 4.3% |
