@@ -6,8 +6,8 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
-| 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |

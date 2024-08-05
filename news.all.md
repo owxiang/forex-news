@@ -9,8 +9,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -48,4 +48,4 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.075% |  | 5.145% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.700% |  | 4.930% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

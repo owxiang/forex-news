@@ -15,4 +15,4 @@
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
 | 14:45 | USD | S&P Global Composite PMI (Jul) | 54.3 | 55.0 | 54.8 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jul) | 51.1 | 46.4 | 46.1 |
-| 22:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 54 min | USD | FOMC Member Daly Speaks |  |  |  |
