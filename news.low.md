@@ -26,10 +26,9 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 3.245% |  | 3.456% |
 | 14:00 | BRL | S&P Global Composite PMI (Jul) | 56.0 |  | 54.1 |
 | 14:00 | BRL | S&P Global Services PMI (Jul) | 56.4 |  | 54.8 |
-| 15:00 | USD | CB Employment Trends Index (Jul) |  |  | 110.27 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) |  | 49.8 | 47.3 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.145% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.930% |
-| 16:30 | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 15:00 | USD | CB Employment Trends Index (Jul) | 109.61 |  | 110.58 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 54.5 |  | 49.6 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) | 52.4 | 49.8 | 47.3 |
+| 23 min | USD | 3-Month Bill Auction |  |  | 5.145% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.930% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |

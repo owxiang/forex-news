@@ -39,14 +39,13 @@
 | 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 56.4 |  | 54.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 54.3 | 55.0 | 54.8 |
 | 14:45 | USD | High | S&P Global Services PMI (Jul) | 55.0 | 56.0 | 55.3 |
-| 15:00 | USD | Low | CB Employment Trends Index (Jul) |  |  | 110.27 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  | 46.4 | 46.1 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  | 49.8 | 47.3 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  | 56.0 | 56.3 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.145% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.930% |
-| 16:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
+| 15:00 | USD | Low | CB Employment Trends Index (Jul) | 109.61 |  | 110.58 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) | 54.5 |  | 49.6 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) | 51.1 | 46.4 | 46.1 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) | 52.4 | 49.8 | 47.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) | 51.4 | 51.4 | 48.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) | 57.0 | 56.0 | 56.3 |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 5.145% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.930% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
