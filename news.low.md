@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Services PMI | 50.4 | 50.8 | 51.2 |
-| 6 min | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) |  |  | 48.2 |
-| 36 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 1.5% |
-| 02:30 | AUD | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
+| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
+| 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 06:00 | INR | HSBC India Services PMI (Jul) |  | 61.6 | 60.5 |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) |  |  | 2.2% |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) |  |  | 2.4% |

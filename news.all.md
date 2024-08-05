@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.4 | 50.8 | 51.2 |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 6 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) |  | 53.9 | 49.4 |
-| 6 min | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jul) |  |  | 48.2 |
-| 36 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 1.5% |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Jul) |  |  | 0.3% |
-| 02:45 | CNY | Moderate | Caixin Services PMI (Jul) |  | 51.4 | 51.2 |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) | 53.7 | 53.9 | 49.4 |
+| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
+| 12 min | CNY | Moderate | Caixin Services PMI (Jul) |  | 51.4 | 51.2 |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) |  | 61.6 | 60.5 |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) |  |  | 2.2% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) |  |  | 2.4% |
