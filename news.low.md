@@ -18,17 +18,17 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Jul) | 49.1 | 48.7 | 50.4 |
 | 09:30 | EUR | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 10:00 | EUR | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
+| 10:00 | EUR | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.924% |  | 3.252% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.485% |  | 3.610% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.245% |  | 3.456% |
 | 14:00 | BRL | S&P Global Composite PMI (Jul) | 56.0 |  | 54.1 |
 | 14:00 | BRL | S&P Global Services PMI (Jul) | 56.4 |  | 54.8 |
-| 52 min | USD | CB Employment Trends Index (Jul) |  |  | 110.27 |
-| 52 min | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
-| 52 min | USD | ISM Non-Manufacturing New Orders (Jul) |  |  | 47.3 |
+| 15:00 | USD | CB Employment Trends Index (Jul) |  |  | 110.27 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) |  | 49.8 | 47.3 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.145% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.930% |
 | 16:30 | BRL | Federal Tax Revenue (Jun) |  |  | 202.90B |

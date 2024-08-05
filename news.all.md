@@ -29,22 +29,22 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.924% |  | 3.252% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.485% |  | 3.610% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.245% |  | 3.456% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Jul) | 56.0 |  | 54.1 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Jul) | 56.4 |  | 54.8 |
-| 37 min | USD | Moderate | S&P Global Composite PMI (Jul) |  | 55.0 | 54.8 |
-| 37 min | USD | High | S&P Global Services PMI (Jul) |  | 56.0 | 55.3 |
-| 52 min | USD | Low | CB Employment Trends Index (Jul) |  |  | 110.27 |
-| 52 min | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
-| 52 min | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  |  | 46.1 |
-| 52 min | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 47.3 |
-| 52 min | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
-| 52 min | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 56.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 54.3 | 55.0 | 54.8 |
+| 14:45 | USD | High | S&P Global Services PMI (Jul) | 55.0 | 56.0 | 55.3 |
+| 15:00 | USD | Low | CB Employment Trends Index (Jul) |  |  | 110.27 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  |  | 49.6 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  | 46.4 | 46.1 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  | 49.8 | 47.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  | 56.0 | 56.3 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.145% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.930% |
 | 16:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
