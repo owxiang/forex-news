@@ -27,8 +27,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) |  | 52.4 | 52.1 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) |  | -5.5 | -7.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) |  |  | 2.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) |  | -3.3% | -4.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) |  | 0.1% | -0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) |  | -3.3% | -4.2% |
 | 12:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.252% |
@@ -44,8 +44,8 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 47.3 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 56.3 |
-| 16:06 | IDR | Low | GDP (QoQ) (Q2) |  | 3.71% | -0.83% |
 | 16:06 | IDR | Low | GDP (YoY) (Q2) |  | 5.00% | 5.11% |
+| 16:06 | IDR | Low | GDP (QoQ) (Q2) |  | 3.71% | -0.83% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.145% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.930% |
 | 16:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
