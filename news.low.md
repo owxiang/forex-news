@@ -11,11 +11,11 @@
 | 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
-| 51 min | EUR | Spanish Industrial Production (YoY) (Jun) |  |  | 0.4% |
-| 08:15 | ZAR | S&P Global South Africa PMI (Jul) |  |  | 49.2 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Jul) |  |  | 51.3 |
-| 08:50 | EUR | HCOB France Composite PMI (Jul) |  | 49.5 | 48.8 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 48.7 | 50.4 |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 0.6% |  | 0.4% |
+| 9 min | ZAR | S&P Global South Africa PMI (Jul) |  |  | 49.2 |
+| 39 min | EUR | HCOB Italy Composite PMI (Jul) |  |  | 51.3 |
+| 44 min | EUR | HCOB France Composite PMI (Jul) |  | 49.5 | 48.8 |
+| 49 min | EUR | HCOB Germany Composite PMI (Jul) |  | 48.7 | 50.4 |
 | 09:30 | EUR | Sentix Investor Confidence (Aug) |  | -5.5 | -7.3 |
 | 10:00 | NOK | House Price Index (YoY) (Jul) |  |  | 2.20% |
 | 10:00 | EUR | PPI (MoM) (Jun) |  | 0.1% | -0.2% |
