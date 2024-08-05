@@ -1,4 +1,4 @@
-## 05 August 2024 - All Forex News
+## None - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -45,7 +45,7 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) | 52.4 | 49.8 | 47.3 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) | 51.4 | 51.4 | 48.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) | 57.0 | 56.0 | 56.3 |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 5.145% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.930% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.075% |  | 5.145% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.700% |  | 4.930% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
