@@ -9,9 +9,11 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 06:00 | INR | Low | HSBC India Services PMI (Jul) |  | 61.6 | 60.5 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Jun) |  |  | 2.4% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) |  |  | 2.2% |
+| 05:07 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:07 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
+| 53 min | INR | Low | HSBC India Services PMI (Jul) |  | 61.6 | 60.5 |
+| 53 min | SGD | Low | Retail Sales (MoM) (Jun) |  |  | 2.4% |
+| 53 min | SGD | Low | Retail Sales (YoY) (Jun) |  |  | 2.2% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  |  | 0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  |  | 56.8 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Jul) |  |  | 49.2 |
@@ -44,8 +46,6 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  |  | 47.3 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 51.4 | 48.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jul) |  |  | 56.3 |
-| 16:06 | IDR | Low | GDP (YoY) (Q2) |  | 5.00% | 5.11% |
-| 16:06 | IDR | Low | GDP (QoQ) (Q2) |  | 3.71% | -0.83% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.145% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.930% |
 | 16:30 | BRL | Low | Federal Tax Revenue (Jun) |  |  | 202.90B |
