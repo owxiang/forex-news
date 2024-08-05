@@ -6,11 +6,11 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
-| 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
-| 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
+| 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 0.6% |  | 0.4% |
 | 08:15 | ZAR | S&P Global South Africa PMI (Jul) | 49.3 |  | 49.2 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jul) | 50.3 |  | 51.3 |
@@ -31,4 +31,4 @@
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jul) | 52.4 | 49.8 | 47.3 |
 | 16:30 | USD | 3-Month Bill Auction | 5.075% |  | 5.145% |
 | 16:30 | USD | 6-Month Bill Auction | 4.700% |  | 4.930% |
-| 55 min | USD | Loan Officer Survey |  |  |  |
+| 19:00 | USD | Loan Officer Survey |  |  |  |
