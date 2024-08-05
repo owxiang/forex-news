@@ -29,14 +29,14 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.252% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.610% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.456% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 54.1 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Jul) |  |  | 54.8 |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.252% |
+| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.610% |
+| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.456% |
+| 51 min | BRL | Low | S&P Global Composite PMI (Jul) |  |  | 54.1 |
+| 51 min | BRL | Low | S&P Global Services PMI (Jul) |  |  | 54.8 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 55.0 | 54.8 |
 | 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 56.0 | 55.3 |
 | 15:00 | USD | Low | CB Employment Trends Index (Jul) |  |  | 110.27 |
