@@ -1,4 +1,4 @@
-## None - Moderate Impact Forex News
+## 05 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
