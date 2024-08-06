@@ -7,9 +7,9 @@
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) |  |  | -2.2% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | -6.5% | 5.5% |
-| 02:30 | AUD | Low | Private House Approvals (Jun) |  | -0.5% | 2.1% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.2% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
+| 02:30 | AUD | Low | Private House Approvals (Jun) | -0.5% | -0.5% | 1.9% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.091% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
@@ -26,8 +26,8 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 51.0 | 52.2 |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.519% |
 | 10:00 | EUR | Low | Italian Trade Balance |  | 5.550B | 6.430B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jun) |  | -0.2% | 0.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.390% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.372% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.411% |
