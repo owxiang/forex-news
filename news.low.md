@@ -30,7 +30,7 @@
 | 13:55 | USD | Redbook (YoY) | 5.1% |  | 4.5% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Aug) | 44.5 | 45.0 | 44.2 |
 | 16:36 | USD | 52-Week Bill Auction | 4.255% |  | 4.775% |
-| 54 min | BRL | Trade Balance (Jul) |  | 7.75B | 6.71B |
+| 19:00 | BRL | Trade Balance (Jul) | 7.64B | 7.75B | 6.71B |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
