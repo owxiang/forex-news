@@ -21,8 +21,8 @@
 | 10:40 | EUR | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.252% |  | 3.411% |
-| 54 min | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 55 min | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 122.9B |
 | 13:30 | CAD | Exports (Jun) |  |  | 62.45B |
 | 13:30 | CAD | Imports (Jun) |  |  | 64.37B |

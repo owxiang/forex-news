@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 02:30 | AUD | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
 | 04:35 | JPY | 10-Year JGB Auction | 0.926% |  | 1.091% |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
@@ -18,4 +18,4 @@
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 4.399% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.495M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.850M | -4.495M |

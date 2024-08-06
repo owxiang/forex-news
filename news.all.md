@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
@@ -31,8 +31,8 @@
 | 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.252% |  | 3.411% |
-| 54 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 55 min | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 122.9B |
 | 13:30 | USD | Moderate | Exports (Jun) |  |  | 261.70B |
 | 13:30 | USD | Moderate | Imports (Jun) |  |  | 336.70B |
@@ -50,7 +50,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.399% |
 | 19:00 | BRL | Low | Trade Balance (Jul) |  | 7.75B | 6.71B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.495M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.850M | -4.495M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
