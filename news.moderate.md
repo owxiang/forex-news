@@ -17,5 +17,5 @@
 | 13:30 | CAD | Trade Balance (Jun) | 0.64B | -2.00B | -1.61B |
 | 16:00 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 2.5% | 2.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | 3-Year Note Auction |  |  | 4.399% |
+| 18:00 | USD | 3-Year Note Auction | 3.810% |  | 4.399% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.850M | -4.495M |

@@ -46,8 +46,8 @@
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.9% | 2.5% | 2.5% |
 | 16:36 | USD | Low | 52-Week Bill Auction | 4.255% |  | 4.775% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | Moderate | 3-Year Note Auction |  |  | 4.399% |
-| 19:00 | BRL | Low | Trade Balance (Jul) |  | 7.75B | 6.71B |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.810% |  | 4.399% |
+| 54 min | BRL | Low | Trade Balance (Jul) |  | 7.75B | 6.71B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.850M | -4.495M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
