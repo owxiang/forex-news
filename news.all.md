@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
@@ -25,13 +25,13 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.519% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
-| 24 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.390% |
-| 34 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.372% |
-| 34 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.411% |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
+| 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
+| 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.252% |  | 3.411% |
+| 54 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 122.9B |
 | 13:30 | USD | Moderate | Exports (Jun) |  |  | 261.70B |
