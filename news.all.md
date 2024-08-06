@@ -25,23 +25,23 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
 | 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.252% |  | 3.411% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 6 min | CAD | Low | Reserve Assets Total (Jul) |  |  | 122.9B |
-| 21 min | USD | Moderate | Exports (Jun) |  |  | 261.70B |
-| 21 min | USD | Moderate | Imports (Jun) |  |  | 336.70B |
-| 21 min | USD | Moderate | Trade Balance (Jun) |  | -72.50B | -75.10B |
-| 21 min | CAD | Low | Exports (Jun) |  |  | 62.45B |
-| 21 min | CAD | Low | Imports (Jun) |  |  | 64.37B |
-| 21 min | CAD | Moderate | Trade Balance (Jun) |  | -2.00B | -1.93B |
-| 46 min | USD | Low | Redbook (YoY) |  |  | 4.5% |
-| 51 min | BRL | Low | Auto Production (MoM) (Jul) |  |  | 26.6% |
-| 51 min | BRL | Low | Auto Sales (MoM) (Jul) |  |  | 10.3% |
+| 13:15 | CAD | Low | Reserve Assets Total (Jul) | 124.2B |  | 122.9B |
+| 13:30 | USD | Moderate | Exports (Jun) | 265.90B |  | 262.00B |
+| 13:30 | USD | Moderate | Imports (Jun) | 339.00B |  | 337.00B |
+| 13:30 | USD | Moderate | Trade Balance (Jun) | -73.10B | -72.50B | -75.00B |
+| 13:30 | CAD | Low | Exports (Jun) | 66.65B |  | 63.19B |
+| 13:30 | CAD | Low | Imports (Jun) | 66.01B |  | 64.80B |
+| 13:30 | CAD | Moderate | Trade Balance (Jun) | 0.64B | -2.00B | -1.61B |
+| 47 min | USD | Low | Redbook (YoY) |  |  | 4.5% |
+| 52 min | BRL | Low | Auto Production (MoM) (Jul) |  |  | 26.6% |
+| 52 min | BRL | Low | Auto Sales (MoM) (Jul) |  |  | 10.3% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) |  | 45.0 | 44.2 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.4% |
@@ -51,7 +51,7 @@
 | 19:00 | BRL | Low | Trade Balance (Jul) |  | 7.75B | 6.71B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.850M | -4.495M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
-| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
 | 23:45 | NZD | Low | Participation Rate (Q2) |  | 71.30% | 71.50% |
 | 23:45 | NZD | Low | Unemployment Rate (Q2) |  | 4.7% | 4.3% |

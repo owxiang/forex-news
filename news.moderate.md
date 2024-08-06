@@ -11,10 +11,10 @@
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
-| 21 min | USD | Exports (Jun) |  |  | 261.70B |
-| 21 min | USD | Imports (Jun) |  |  | 336.70B |
-| 21 min | USD | Trade Balance (Jun) |  | -72.50B | -75.10B |
-| 21 min | CAD | Trade Balance (Jun) |  | -2.00B | -1.93B |
+| 13:30 | USD | Exports (Jun) | 265.90B |  | 262.00B |
+| 13:30 | USD | Imports (Jun) | 339.00B |  | 337.00B |
+| 13:30 | USD | Trade Balance (Jun) | -73.10B | -72.50B | -75.00B |
+| 13:30 | CAD | Trade Balance (Jun) | 0.64B | -2.00B | -1.61B |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 4.399% |
