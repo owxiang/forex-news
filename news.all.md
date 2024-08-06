@@ -10,7 +10,7 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.2% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
 | 02:30 | AUD | Low | Private House Approvals (Jun) | -0.5% | -0.5% | 1.9% |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.091% |
+| 29 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.091% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |

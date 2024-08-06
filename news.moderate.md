@@ -6,7 +6,7 @@
 | 00:30 | JPY | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
 | 00:30 | JPY | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 02:30 | AUD | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
-| 04:35 | JPY | 10-Year JGB Auction |  |  | 1.091% |
+| 29 min | JPY | 10-Year JGB Auction |  |  | 1.091% |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German Factory Orders (MoM) (Jun) |  | 0.7% | -1.6% |
