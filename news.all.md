@@ -19,15 +19,16 @@
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jun) | -2.2% | 0.5% | -0.2% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.2% | 0.3% |
-| 24 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
-| 24 min | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
-| 24 min | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
-| 24 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 52.5 | 52.2 |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.519% |
-| 10:00 | EUR | Low | Italian Trade Balance |  | 5.550B | 6.430B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 0.1% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) | 45.0 |  | 46.0 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jul) | 40.0 |  | 39.7 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.0 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
+| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
+| 23 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 52.5 | 52.2 |
+| 53 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.519% |
+| 53 min | EUR | Low | Italian Trade Balance |  | 5.550B | 6.430B |
+| 53 min | EUR | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 0.1% |
+| 53 min | EUR | Low | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.390% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.372% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.411% |

@@ -10,7 +10,7 @@
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) |  | 52.5 | 52.2 |
+| 23 min | GBP | S&P Global / CIPS UK Construction PMI (Jul) |  | 52.5 | 52.2 |
 | 13:30 | USD | Exports (Jun) |  |  | 261.70B |
 | 13:30 | USD | Imports (Jun) |  |  | 336.70B |
 | 13:30 | USD | Trade Balance (Jun) |  | -72.50B | -75.10B |
