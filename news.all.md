@@ -48,7 +48,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.810% |  | 4.399% |
 | 19:00 | BRL | Low | Trade Balance (Jul) | 7.64B | 7.75B | 6.71B |
-| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.850M | -4.495M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.180M | 0.850M | -4.495M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
