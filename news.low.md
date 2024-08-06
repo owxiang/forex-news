@@ -6,10 +6,10 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
 | 02:30 | AUD | Private House Approvals (Jun) | -0.5% | -0.5% | 1.9% |
-| 39 min | CHF | Unemployment Rate n.s.a. (Jul) |  |  | 2.3% |
-| 39 min | CHF | Unemployment Rate s.a. (Jul) |  | 2.5% | 2.4% |
-| 07:30 | CHF | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Jul) | 2.3% |  | 2.3% |
+| 06:45 | CHF | Unemployment Rate s.a. (Jul) | 2.5% | 2.5% | 2.4% |
+| 22 min | CHF | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
+| 37 min | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
@@ -34,7 +34,7 @@
 | 16:00 | USD | Milk Auctions |  |  | 3,837.0 |
 | 19:00 | BRL | Trade Balance (Jul) |  | 7.75B | 6.71B |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 23:45 | NZD | Participation Rate (Q2) |  | 71.30% | 71.50% |
 | 23:45 | NZD | Unemployment Rate (Q2) |  | 4.7% | 4.3% |

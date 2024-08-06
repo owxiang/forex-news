@@ -14,11 +14,11 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 39 min | CHF | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.3% |
-| 39 min | CHF | Low | Unemployment Rate s.a. (Jul) |  | 2.5% | 2.4% |
-| 54 min | EUR | Moderate | German Factory Orders (MoM) (Jun) |  | 0.4% | -1.6% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jul) | 2.3% |  | 2.3% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Jul) | 2.5% | 2.5% | 2.4% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
+| 22 min | CHF | Low | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
+| 37 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
@@ -52,7 +52,7 @@
 | 19:00 | BRL | Low | Trade Balance (Jul) |  | 7.75B | 6.71B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.495M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
-| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
+| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 23:45 | NZD | Low | Participation Rate (Q2) |  | 71.30% | 71.50% |
 | 23:45 | NZD | Low | Unemployment Rate (Q2) |  | 4.7% | 4.3% |

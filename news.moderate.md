@@ -9,7 +9,7 @@
 | 04:35 | JPY | 10-Year JGB Auction | 0.926% |  | 1.091% |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 54 min | EUR | German Factory Orders (MoM) (Jun) |  | 0.4% | -1.6% |
+| 07:00 | EUR | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) |  | 52.5 | 52.2 |
 | 13:30 | USD | Exports (Jun) |  |  | 261.70B |
 | 13:30 | USD | Imports (Jun) |  |  | 336.70B |
