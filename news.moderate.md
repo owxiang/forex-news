@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 02:30 | AUD | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
 | 04:35 | JPY | 10-Year JGB Auction | 0.926% |  | 1.091% |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
-| 23 min | GBP | S&P Global / CIPS UK Construction PMI (Jul) |  | 52.5 | 52.2 |
+| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
 | 13:30 | USD | Exports (Jun) |  |  | 261.70B |
 | 13:30 | USD | Imports (Jun) |  |  | 336.70B |
 | 13:30 | USD | Trade Balance (Jun) |  | -72.50B | -75.10B |
