@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
@@ -25,8 +25,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
 | 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
@@ -47,10 +47,10 @@
 | 16:36 | USD | Low | 52-Week Bill Auction | 4.255% |  | 4.775% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.810% |  | 4.399% |
-| 19:00 | BRL | Low | Trade Balance (Jul) | 7.64B | 7.75B | 6.71B |
+| 19:00 | BRL | Low | Trade Balance (Jul) | 7.64B | 7.75B | 6.38B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.180M | 0.850M | -4.495M |
-| 23:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
-| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
-| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
-| 23:45 | NZD | Low | Participation Rate (Q2) |  | 71.30% | 71.50% |
-| 23:45 | NZD | Low | Unemployment Rate (Q2) |  | 4.7% | 4.3% |
+| 40 min | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
+| 40 min | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
+| 40 min | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 40 min | NZD | Low | Participation Rate (Q2) |  | 71.30% | 71.50% |
+| 40 min | NZD | Low | Unemployment Rate (Q2) |  | 4.7% | 4.3% |

@@ -15,8 +15,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.0 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
-| 10:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
 | 10:40 | EUR | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
@@ -30,9 +30,9 @@
 | 13:55 | USD | Redbook (YoY) | 5.1% |  | 4.5% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Aug) | 44.5 | 45.0 | 44.2 |
 | 16:36 | USD | 52-Week Bill Auction | 4.255% |  | 4.775% |
-| 19:00 | BRL | Trade Balance (Jul) | 7.64B | 7.75B | 6.71B |
-| 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
-| 23:45 | NZD | Participation Rate (Q2) |  | 71.30% | 71.50% |
-| 23:45 | NZD | Unemployment Rate (Q2) |  | 4.7% | 4.3% |
+| 19:00 | BRL | Trade Balance (Jul) | 7.64B | 7.75B | 6.38B |
+| 40 min | NZD | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
+| 40 min | NZD | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
+| 40 min | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 40 min | NZD | Participation Rate (Q2) |  | 71.30% | 71.50% |
+| 40 min | NZD | Unemployment Rate (Q2) |  | 4.7% | 4.3% |
