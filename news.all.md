@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 23 min | JPY | Moderate | Household Spending (YoY) (Jun) |  | -0.9% | -1.8% |
-| 23 min | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.2% | -0.3% |
-| 23 min | JPY | Low | Overall wage income of employees (Jun) |  | 2.3% | 2.0% |
-| 23 min | JPY | Low | Overtime Pay (YoY) (Jun) |  |  | 0.90% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
+| 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) |  |  | -2.2% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | -6.5% | 5.5% |
 | 02:30 | AUD | Low | Private House Approvals (Jun) |  | -0.5% | 2.1% |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | JPY | Overall wage income of employees (Jun) |  | 2.3% | 2.0% |
-| 23 min | JPY | Overtime Pay (YoY) (Jun) |  |  | 0.90% |
+| 00:30 | JPY | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
+| 00:30 | JPY | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jul) |  |  | -2.2% |
 | 02:30 | AUD | Private House Approvals (Jun) |  | -0.5% | 2.1% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Jul) |  |  | 2.3% |
