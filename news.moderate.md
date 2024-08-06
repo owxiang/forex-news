@@ -1,21 +1,15 @@
-## 06 August 2024 - Moderate Impact Forex News
+## 07 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
-| 00:30 | JPY | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
-| 02:30 | AUD | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
-| 04:35 | JPY | 10-Year JGB Auction | 0.926% |  | 1.091% |
-| 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:00 | EUR | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
-| 13:30 | USD | Exports (Jun) | 265.90B |  | 262.00B |
-| 13:30 | USD | Imports (Jun) | 339.00B |  | 337.00B |
-| 13:30 | USD | Trade Balance (Jun) | -73.10B | -72.50B | -75.00B |
-| 13:30 | CAD | Trade Balance (Jun) | 0.64B | -2.00B | -1.61B |
-| 16:00 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 2.5% | 2.5% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 3.810% |  | 4.399% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 0.180M | 0.850M | -4.495M |
+| 04:00 | CNY | Exports (YoY) (Jul) |  | 9.7% | 8.6% |
+| 04:00 | CNY | Imports (YoY) (Jul) |  | 3.5% | -2.3% |
+| 04:00 | CNY | Trade Balance (USD) (Jul) |  | 97.50B | 99.05B |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Jul) |  |  | 1.6% |
+| 07:00 | EUR | German Industrial Production (MoM) (Jun) |  | 1.0% | -2.5% |
+| 07:00 | EUR | German Trade Balance (Jun) |  | 21.7B | 24.9B |
+| 15:00 | CAD | Ivey PMI (Jul) |  | 60.0 | 62.5 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.106M |
+| 20:00 | USD | Consumer Credit (Jun) |  | 10.20B | 11.35B |
+| 20:30 | EUR | ECB McCaul Speaks |  |  |  |

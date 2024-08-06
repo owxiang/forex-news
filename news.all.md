@@ -1,56 +1,67 @@
-## 06 August 2024 - All Forex News
+## 07 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
-| 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
-| 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
-| 02:30 | AUD | Low | Private House Approvals (Jun) | -0.5% | -0.5% | 1.9% |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.926% |  | 1.091% |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.35% | 4.35% | 4.35% |
-| 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jul) | 2.3% |  | 2.3% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Jul) | 2.5% | 2.5% | 2.4% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Jun) | -2.2% | 0.5% | -0.2% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.2% | 0.3% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) | 45.0 |  | 46.0 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jul) | 40.0 |  | 39.7 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.0 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
-| 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
-| 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
-| 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
-| 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
-| 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.252% |  | 3.411% |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 0.5% |  | 0.4% |
-| 13:00 | USD | Low | Milk Auctions | 3,680.0 |  | 3,837.0 |
-| 13:15 | CAD | Low | Reserve Assets Total (Jul) | 124.2B |  | 122.9B |
-| 13:30 | USD | Moderate | Exports (Jun) | 265.90B |  | 262.00B |
-| 13:30 | USD | Moderate | Imports (Jun) | 339.00B |  | 337.00B |
-| 13:30 | USD | Moderate | Trade Balance (Jun) | -73.10B | -72.50B | -75.00B |
-| 13:30 | CAD | Low | Exports (Jun) | 66.65B |  | 63.19B |
-| 13:30 | CAD | Low | Imports (Jun) | 66.01B |  | 64.80B |
-| 13:30 | CAD | Moderate | Trade Balance (Jun) | 0.64B | -2.00B | -1.61B |
-| 13:55 | USD | Low | Redbook (YoY) | 5.1% |  | 4.5% |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Aug) | 44.5 | 45.0 | 44.2 |
-| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.9% | 2.5% | 2.5% |
-| 16:36 | USD | Low | 52-Week Bill Auction | 4.255% |  | 4.775% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 3.810% |  | 4.399% |
-| 19:00 | BRL | Low | Trade Balance (Jul) | 7.64B | 7.75B | 6.38B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.180M | 0.850M | -4.495M |
-| 40 min | NZD | Low | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
-| 40 min | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
-| 40 min | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
-| 40 min | NZD | Low | Participation Rate (Q2) |  | 71.30% | 71.50% |
-| 40 min | NZD | Low | Unemployment Rate (Q2) |  | 4.7% | 4.3% |
+| 00:00 | KRW | Low | Current Account (Jun) | 12.26B |  | 8.92B |
+| 00:00 | AUD | Low | AIG Construction Index (Jul) |  |  | -23.2 |
+| 00:00 | AUD | Low | AIG Manufacturing Index (Jul) |  |  | -26.5 |
+| 43 min | JPY | Low | Foreign Reserves (USD) (Jul) |  |  | 1,231.5B |
+| 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 04:00 | CNY | Low | Exports (Jul) |  |  | 10.70M |
+| 04:00 | CNY | Low | Imports (Jul) |  |  | -0.60M |
+| 04:00 | CNY | Low | Trade Balance (Jul) |  | 693.00B | 703.73B |
+| 04:00 | CNY | Moderate | Exports (YoY) (Jul) |  | 9.7% | 8.6% |
+| 04:00 | CNY | Moderate | Imports (YoY) (Jul) |  | 3.5% | -2.3% |
+| 04:00 | CNY | Moderate | Trade Balance (USD) (Jul) |  | 97.50B | 99.05B |
+| 05:00 | IDR | Low | FX Reserves (USD) (Jul) |  |  | 140.20B |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  |  | 1.9% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  |  | 0.3% |
+| 06:00 | JPY | Low | Leading Index |  | 109.0 | 111.2 |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | 1.6% |
+| 07:00 | EUR | Low | German Exports (MoM) (Jun) |  | -1.5% | -3.6% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jun) |  | 2.8% | -6.6% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) |  | 1.0% | -2.5% |
+| 07:00 | EUR | Moderate | German Trade Balance (Jun) |  | 21.7B | 24.9B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jun) |  |  | -6.67% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jun) |  | -4.5% | 1.3% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Jul) |  |  | 62.10B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Jul) |  |  | 58.437B |
+| 07:45 | EUR | Low | French Current Account (Jun) |  |  | -3.10B |
+| 07:45 | EUR | Low | French Exports (Jun) |  |  | 50.2B |
+| 07:45 | EUR | Low | French Imports (Jun) |  |  | 58.2B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Jul) |  |  | 248,106.0M |
+| 07:45 | EUR | Low | French Trade Balance (Jun) |  | -7.5B | -8.0B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Jul) |  |  | 711.5B |
+| 09:00 | CNY | Low | FX Reserves (USD) (Jul) |  | 3.240T | 3.222T |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 416.30B |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.023% |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  |  | 371.7B |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.82% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.9% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 132.8 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 201.2 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 570.7 |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  |  | 0.50% |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
+| 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
+| 13:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 122.9B |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 62.4 |
+| 15:00 | CAD | Moderate | Ivey PMI (Jul) |  | 60.0 | 62.5 |
+| 15:00 | BRL | Low | Auto Production (MoM) (Jul) |  |  | 26.6% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Jul) |  |  | 10.3% |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.850M | -3.436M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.257M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.651M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.106M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.043M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.534M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.205M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.158M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.900M | -3.665M |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.276% |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.771B |
+| 20:00 | USD | Moderate | Consumer Credit (Jun) |  | 10.20B | 11.35B |
+| 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
