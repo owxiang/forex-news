@@ -17,12 +17,12 @@
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jul) | 2.3% |  | 2.3% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Jul) | 2.5% | 2.5% | 2.4% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | 3.9% | 0.4% | -1.7% |
-| 22 min | CHF | Low | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
-| 37 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Jun) | -2.2% | 0.5% | -0.2% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.2% | 0.3% |
+| 24 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
+| 24 min | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
+| 24 min | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
+| 24 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 52.5 | 52.2 |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.519% |
 | 10:00 | EUR | Low | Italian Trade Balance |  | 5.550B | 6.430B |

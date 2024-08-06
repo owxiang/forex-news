@@ -8,12 +8,12 @@
 | 02:30 | AUD | Private House Approvals (Jun) | -0.5% | -0.5% | 1.9% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Jul) | 2.3% |  | 2.3% |
 | 06:45 | CHF | Unemployment Rate s.a. (Jul) | 2.5% | 2.5% | 2.4% |
-| 22 min | CHF | Retail Sales (YoY) (Jun) |  | 0.5% | 0.4% |
-| 37 min | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
+| 07:30 | CHF | Retail Sales (YoY) (Jun) | -2.2% | 0.5% | -0.2% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.2% | 0.3% |
+| 24 min | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 46.0 |
+| 24 min | EUR | HCOB Germany Construction PMI (Jul) |  |  | 39.7 |
+| 24 min | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 41.0 |
+| 24 min | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.519% |
 | 10:00 | EUR | Italian Trade Balance |  | 5.550B | 6.430B |
 | 10:00 | EUR | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
