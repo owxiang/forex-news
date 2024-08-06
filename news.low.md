@@ -16,8 +16,8 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 41.8 |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.519% |
 | 10:00 | EUR | Italian Trade Balance |  | 5.550B | 6.430B |
-| 10:00 | EUR | Retail Sales (MoM) (Jun) |  | -0.2% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Jun) |  | 0.1% | 0.3% |
+| 10:00 | EUR | Retail Sales (MoM) (Jun) |  | -0.2% | 0.1% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.390% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.372% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.411% |

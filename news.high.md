@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | AUD | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.35% |
+| 22 min | AUD | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.35% |
