@@ -15,8 +15,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.0 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
-| 10:00 | EUR | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
 | 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
 | 10:40 | EUR | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
@@ -25,15 +25,13 @@
 | 13:15 | CAD | Reserve Assets Total (Jul) | 124.2B |  | 122.9B |
 | 13:30 | CAD | Exports (Jun) | 66.65B |  | 63.19B |
 | 13:30 | CAD | Imports (Jun) | 66.01B |  | 64.80B |
-| 47 min | USD | Redbook (YoY) |  |  | 4.5% |
-| 52 min | BRL | Auto Production (MoM) (Jul) |  |  | 26.6% |
-| 52 min | BRL | Auto Sales (MoM) (Jul) |  |  | 10.3% |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Aug) |  | 45.0 | 44.2 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.4% |
-| 16:00 | USD | Milk Auctions |  |  | 3,837.0 |
+| 13:55 | USD | Redbook (YoY) | 5.1% |  | 4.5% |
+| 5 min | USD | IBD/TIPP Economic Optimism (Aug) |  | 45.0 | 44.2 |
+| 55 min | NZD | GlobalDairyTrade Price Index |  |  | 0.4% |
+| 55 min | USD | Milk Auctions |  |  | 3,837.0 |
 | 19:00 | BRL | Trade Balance (Jul) |  | 7.75B | 6.71B |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) |  | -0.2% | -0.2% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 3.5% | 3.8% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 23:45 | NZD | Participation Rate (Q2) |  | 71.30% | 71.50% |
 | 23:45 | NZD | Unemployment Rate (Q2) |  | 4.7% | 4.3% |
