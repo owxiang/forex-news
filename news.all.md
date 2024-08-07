@@ -15,8 +15,8 @@
 | 04:16 | CNY | Moderate | Imports (YoY) (Jul) | 7.2% | 3.5% | -2.3% |
 | 04:16 | CNY | Moderate | Trade Balance (USD) (Jul) | 84.65B | 97.50B | 99.05B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index | 108.6 | 109.0 | 111.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
@@ -63,4 +63,4 @@
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.341B |  | 1.771B |
 | 20:00 | USD | Moderate | Consumer Credit (Jun) | 8.93B | 9.80B | 13.95B |
-| 24 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
