@@ -7,13 +7,13 @@
 | 00:00 | AUD | AIG Manufacturing Index (Jul) | -19.5 |  | -26.5 |
 | 00:50 | JPY | Foreign Reserves (USD) (Jul) | 1,219.1B |  | 1,231.5B |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 04:00 | CNY | Exports (Jul) |  |  | 10.70M |
-| 04:00 | CNY | Imports (Jul) |  |  | -0.60M |
-| 04:00 | CNY | Trade Balance (Jul) |  | 693.00B | 703.73B |
-| 53 min | IDR | FX Reserves (USD) (Jul) | 145.40B |  | 140.20B |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 1.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) |  |  | 0.3% |
-| 06:00 | JPY | Leading Index |  | 109.0 | 111.2 |
+| 04:16 | CNY | Exports (Jul) | 6.50M |  | 10.70M |
+| 04:16 | CNY | Imports (Jul) | 6.60M |  | -0.60M |
+| 04:16 | CNY | Trade Balance (Jul) | 601.90B | 693.00B | 703.73B |
+| 05:00 | IDR | FX Reserves (USD) (Jul) | 145.40B |  | 140.20B |
+| 52 min | JPY | Coincident Indicator (MoM) (Jun) |  |  | 1.9% |
+| 52 min | JPY | Leading Index (MoM) (Jun) |  |  | 0.3% |
+| 52 min | JPY | Leading Index |  | 109.0 | 111.2 |
 | 07:00 | EUR | German Exports (MoM) (Jun) |  | -1.5% | -3.6% |
 | 07:00 | EUR | German Imports (MoM) (Jun) |  | 2.8% | -6.6% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) |  |  | -6.67% |

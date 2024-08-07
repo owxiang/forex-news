@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | CNY | Exports (YoY) (Jul) |  | 9.7% | 8.6% |
-| 04:00 | CNY | Imports (YoY) (Jul) |  | 3.5% | -2.3% |
-| 04:00 | CNY | Trade Balance (USD) (Jul) |  | 97.50B | 99.05B |
+| 04:16 | CNY | Exports (YoY) (Jul) | 7.0% | 9.7% | 8.6% |
+| 04:16 | CNY | Imports (YoY) (Jul) | 7.2% | 3.5% | -2.3% |
+| 04:16 | CNY | Trade Balance (USD) (Jul) | 84.65B | 97.50B | 99.05B |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jul) |  |  | 1.6% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jun) |  | 1.0% | -2.5% |
