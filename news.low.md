@@ -48,5 +48,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.410M |  | 0.158M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -1.5% |
 | 15:30 | USD | Gasoline Inventories | 1.340M | -1.900M | -3.665M |
-| 25 min | CAD | BOC Summary of Deliberations |  |  |  |
-| 25 min | BRL | Foreign Exchange Flows |  |  | 1.771B |
+| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows | 1.341B |  | 1.771B |

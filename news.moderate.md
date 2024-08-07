@@ -12,5 +12,5 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 7.98% |  | 7.98% |
 | 15:00 | CAD | Ivey PMI (Jul) | 57.6 | 60.0 | 62.5 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.579M |  | -1.106M |
-| 20:00 | USD | Consumer Credit (Jun) |  | 9.80B | 11.35B |
+| 54 min | USD | Consumer Credit (Jun) |  | 9.80B | 11.35B |
 | 20:30 | EUR | ECB McCaul Speaks |  |  |  |
