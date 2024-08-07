@@ -36,12 +36,11 @@
 | 12:00 | USD | Mortgage Market Index | 215.1 |  | 201.2 |
 | 12:00 | USD | Mortgage Refinance Index | 661.4 |  | 570.7 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) | 0.83% |  | 0.50% |
-| 25 min | INR | M3 Money Supply |  |  | 10.7% |
-| 55 min | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
-| 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 122.9B |
+| 12:30 | INR | M3 Money Supply | 10.0% |  | 10.7% |
+| 5 min | CAD | Reserve Assets Total (Jul) |  |  | 122.9B |
+| 50 min | BRL | Auto Production (MoM) (Jul) |  |  | 26.6% |
+| 50 min | BRL | Auto Sales (MoM) (Jul) |  |  | 10.3% |
 | 15:00 | CAD | Ivey PMI n.s.a (Jul) |  |  | 62.4 |
-| 15:00 | BRL | Auto Production (MoM) (Jul) |  |  | 26.6% |
-| 15:00 | BRL | Auto Sales (MoM) (Jul) |  |  | 10.3% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.257M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.651M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.043M |

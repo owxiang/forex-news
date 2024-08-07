@@ -17,8 +17,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index | 108.6 | 109.0 | 111.2 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jun) | 0.3% | 2.8% | -5.5% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) | 1.4% | 1.0% | -3.1% |
@@ -44,13 +44,12 @@
 | 12:00 | USD | Low | Mortgage Market Index | 215.1 |  | 201.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 661.4 |  | 570.7 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) | 0.83% |  | 0.50% |
-| 25 min | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 55 min | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
-| 13:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 122.9B |
+| 12:30 | INR | Low | M3 Money Supply | 10.0% |  | 10.7% |
+| 5 min | CAD | Low | Reserve Assets Total (Jul) |  |  | 122.9B |
+| 50 min | BRL | Low | Auto Production (MoM) (Jul) |  |  | 26.6% |
+| 50 min | BRL | Low | Auto Sales (MoM) (Jul) |  |  | 10.3% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 62.4 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jul) |  | 60.0 | 62.5 |
-| 15:00 | BRL | Low | Auto Production (MoM) (Jul) |  |  | 26.6% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (Jul) |  |  | 10.3% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.600M | -3.436M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.257M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.651M |
