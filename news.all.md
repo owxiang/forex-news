@@ -33,10 +33,10 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Jul) | 252,082.0M |  | 248,106.0M |
 | 07:45 | EUR | Low | French Trade Balance (Jun) | -6.1B | -7.5B | -7.7B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 703.5B |  | 711.8B |
-| 54 min | CNY | Low | FX Reserves (USD) (Jul) |  | 3.250T | 3.222T |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 416.30B |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.023% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  |  | 371.7B |
+| 09:00 | CNY | Low | FX Reserves (USD) (Jul) | 3.256T | 3.250T | 3.222T |
+| 23 min | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 416.30B |
+| 53 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.023% |
+| 53 min | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  |  | 371.7B |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.82% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.9% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 132.8 |
