@@ -1,16 +1,17 @@
-## 07 August 2024 - Moderate Impact Forex News
+## 08 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:16 | CNY | Exports (YoY) (Jul) | 7.0% | 9.7% | 8.6% |
-| 04:16 | CNY | Imports (YoY) (Jul) | 7.2% | 3.5% | -2.3% |
-| 04:16 | CNY | Trade Balance (USD) (Jul) | 84.65B | 97.50B | 99.05B |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
-| 07:00 | EUR | German Industrial Production (MoM) (Jun) | 1.4% | 1.0% | -3.1% |
-| 07:00 | EUR | German Trade Balance (Jun) | 20.4B | 21.7B | 25.3B |
-| 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 7.98% |  | 7.98% |
-| 15:00 | CAD | Ivey PMI (Jul) | 57.6 | 60.0 | 62.5 |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.579M |  | -1.106M |
-| 20:00 | USD | Consumer Credit (Jun) | 8.93B | 9.80B | 13.95B |
-| 20:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 00:01 | GBP | RICS House Price Balance (Jul) | -19% |  | -17% |
+| 44 min | JPY | Adjusted Current Account (Jun) |  | 2.34T | 2.41T |
+| 44 min | JPY | Current Account n.s.a. (Jun) |  | 1.790T | 2.850T |
+| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | 4 |
+| 04:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.3% |
+| 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
+| 13:00 | MXN | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
+| 13:00 | MXN | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,877K |
+| 13:30 | CAD | Trade Balance (Jun) |  |  | -1.93B |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
+| 20:00 | MXN | Interest Rate Decision (Aug) |  | 11.00% | 11.00% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,178B |
