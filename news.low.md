@@ -30,14 +30,14 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Jul) | 419.30B |  | 416.30B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) | 378.6B |  | 371.7B |
 | 10:10 | GBP | 5-Year Treasury Gilt Auction | 3.854% |  | 4.023% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.82% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -3.9% |
-| 54 min | USD | MBA Purchase Index |  |  | 132.8 |
-| 54 min | USD | Mortgage Market Index |  |  | 201.2 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 570.7 |
-| 54 min | BRL | IGP-DI Inflation Index (MoM) (Jul) |  |  | 0.50% |
-| 12:30 | INR | M3 Money Supply |  |  | 10.7% |
-| 13:00 | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.55% |  | 6.82% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 6.9% |  | -3.9% |
+| 12:00 | USD | MBA Purchase Index | 133.9 |  | 132.8 |
+| 12:00 | USD | Mortgage Market Index | 215.1 |  | 201.2 |
+| 12:00 | USD | Mortgage Refinance Index | 661.4 |  | 570.7 |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) | 0.83% |  | 0.50% |
+| 25 min | INR | M3 Money Supply |  |  | 10.7% |
+| 55 min | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:15 | CAD | Reserve Assets Total (Jul) |  |  | 122.9B |
 | 15:00 | CAD | Ivey PMI n.s.a (Jul) |  |  | 62.4 |
 | 15:00 | BRL | Auto Production (MoM) (Jul) |  |  | 26.6% |
