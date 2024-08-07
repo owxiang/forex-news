@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Jun) | 12.26B |  | 8.92B |
-| 00:00 | AUD | AIG Construction Index (Jul) |  |  | -23.2 |
-| 00:00 | AUD | AIG Manufacturing Index (Jul) |  |  | -26.5 |
-| 43 min | JPY | Foreign Reserves (USD) (Jul) |  |  | 1,231.5B |
+| 00:00 | AUD | AIG Construction Index (Jul) | -20.7 |  | -23.2 |
+| 00:00 | AUD | AIG Manufacturing Index (Jul) | -19.5 |  | -26.5 |
+| 00:50 | JPY | Foreign Reserves (USD) (Jul) | 1,219.1B |  | 1,231.5B |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | CNY | Exports (Jul) |  |  | 10.70M |
 | 04:00 | CNY | Imports (Jul) |  |  | -0.60M |

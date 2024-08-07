@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Jun) | 12.26B |  | 8.92B |
-| 00:00 | AUD | Low | AIG Construction Index (Jul) |  |  | -23.2 |
-| 00:00 | AUD | Low | AIG Manufacturing Index (Jul) |  |  | -26.5 |
-| 43 min | JPY | Low | Foreign Reserves (USD) (Jul) |  |  | 1,231.5B |
+| 00:00 | AUD | Low | AIG Construction Index (Jul) | -20.7 |  | -23.2 |
+| 00:00 | AUD | Low | AIG Manufacturing Index (Jul) | -19.5 |  | -26.5 |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,219.1B |  | 1,231.5B |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:00 | CNY | Low | Exports (Jul) |  |  | 10.70M |
 | 04:00 | CNY | Low | Imports (Jul) |  |  | -0.60M |
@@ -17,8 +17,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  |  | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index |  | 109.0 | 111.2 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | 1.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) |  | -1.5% | -3.6% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jun) |  | 2.8% | -6.6% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) |  | 1.0% | -2.5% |
