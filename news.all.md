@@ -17,22 +17,22 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index | 108.6 | 109.0 | 111.2 |
-| 54 min | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | 1.6% |
-| 54 min | GBP | Moderate | Halifax House Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
-| 54 min | EUR | Low | German Exports (MoM) (Jun) |  | -1.5% | -3.6% |
-| 54 min | EUR | Low | German Imports (MoM) (Jun) |  | 2.8% | -6.6% |
-| 54 min | EUR | Moderate | German Industrial Production (MoM) (Jun) |  | 1.0% | -2.5% |
-| 54 min | EUR | Moderate | German Trade Balance (Jun) |  | 21.7B | 24.9B |
-| 54 min | EUR | Low | German Industrial Production (YoY) (Jun) |  |  | -6.67% |
-| 54 min | NOK | Low | Manufacturing Production (MoM) (Jun) |  | -4.5% | 1.3% |
-| 54 min | ZAR | Low | Foreign Reserves (USD) (Jul) |  |  | 62.10B |
-| 54 min | ZAR | Low | Net FX Reserves (USD) (Jul) |  |  | 58.437B |
-| 07:45 | EUR | Low | French Current Account (Jun) |  |  | -3.10B |
-| 07:45 | EUR | Low | French Exports (Jun) |  |  | 50.2B |
-| 07:45 | EUR | Low | French Imports (Jun) |  |  | 58.2B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Jul) |  |  | 248,106.0M |
-| 07:45 | EUR | Low | French Trade Balance (Jun) |  | -7.5B | -8.0B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Jul) |  |  | 711.5B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | -0.2% |
+| 07:00 | EUR | Low | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jun) | 0.3% | 2.8% | -5.5% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) | 1.4% | 1.0% | -3.1% |
+| 07:00 | EUR | Moderate | German Trade Balance (Jun) | 20.4B | 21.7B | 25.3B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jun) | -3.92% |  | -7.17% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jun) | 1.4% | -4.5% | 1.3% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Jul) | 62.27B |  | 62.10B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Jul) | 59.165B |  | 58.437B |
+| 36 min | EUR | Low | French Current Account (Jun) |  |  | -3.10B |
+| 36 min | EUR | Low | French Exports (Jun) |  |  | 50.2B |
+| 36 min | EUR | Low | French Imports (Jun) |  |  | 58.2B |
+| 36 min | EUR | Low | French Reserve Assets Total (Jul) |  |  | 248,106.0M |
+| 36 min | EUR | Low | French Trade Balance (Jun) |  | -7.5B | -8.0B |
+| 51 min | CHF | Low | Foreign Reserves (USD) (Jul) |  |  | 711.5B |
 | 09:00 | CNY | Low | FX Reserves (USD) (Jul) |  | 3.250T | 3.222T |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  |  | 416.30B |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.023% |
