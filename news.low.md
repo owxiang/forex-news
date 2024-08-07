@@ -17,16 +17,16 @@
 | 07:00 | EUR | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
 | 07:00 | EUR | German Imports (MoM) (Jun) | 0.3% | 2.8% | -5.5% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) | -3.92% |  | -7.17% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Jun) | 1.4% | -4.5% | 1.3% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jun) | 1.4% | -4.5% | 1.8% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Jul) | 62.27B |  | 62.10B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Jul) | 59.165B |  | 58.437B |
-| 36 min | EUR | French Current Account (Jun) |  |  | -3.10B |
-| 36 min | EUR | French Exports (Jun) |  |  | 50.2B |
-| 36 min | EUR | French Imports (Jun) |  |  | 58.2B |
-| 36 min | EUR | French Reserve Assets Total (Jul) |  |  | 248,106.0M |
-| 36 min | EUR | French Trade Balance (Jun) |  | -7.5B | -8.0B |
-| 51 min | CHF | Foreign Reserves (USD) (Jul) |  |  | 711.5B |
-| 09:00 | CNY | FX Reserves (USD) (Jul) |  | 3.250T | 3.222T |
+| 07:45 | EUR | French Current Account (Jun) | -2.60B |  | -2.50B |
+| 07:45 | EUR | French Exports (Jun) | 51.7B |  | 50.0B |
+| 07:45 | EUR | French Imports (Jun) | 57.7B |  | 57.8B |
+| 07:45 | EUR | French Reserve Assets Total (Jul) | 252,082.0M |  | 248,106.0M |
+| 07:45 | EUR | French Trade Balance (Jun) | -6.1B | -7.5B | -7.7B |
+| 08:00 | CHF | Foreign Reserves (USD) (Jul) | 703.5B |  | 711.8B |
+| 54 min | CNY | FX Reserves (USD) (Jul) |  | 3.250T | 3.222T |
 | 09:30 | HKD | Foreign Reserves (USD) (Jul) |  |  | 416.30B |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.023% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jul) |  |  | 371.7B |
