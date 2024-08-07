@@ -7,18 +7,18 @@
 | 00:00 | AUD | Low | AIG Manufacturing Index (Jul) | -19.5 |  | -26.5 |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,219.1B |  | 1,231.5B |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 04:00 | CNY | Low | Exports (Jul) |  |  | 10.70M |
-| 04:00 | CNY | Low | Imports (Jul) |  |  | -0.60M |
-| 04:00 | CNY | Low | Trade Balance (Jul) |  | 693.00B | 703.73B |
-| 04:00 | CNY | Moderate | Exports (YoY) (Jul) |  | 9.7% | 8.6% |
-| 04:00 | CNY | Moderate | Imports (YoY) (Jul) |  | 3.5% | -2.3% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) (Jul) |  | 97.50B | 99.05B |
+| 40 min | CNY | Low | Exports (Jul) |  |  | 10.70M |
+| 40 min | CNY | Low | Imports (Jul) |  |  | -0.60M |
+| 40 min | CNY | Low | Trade Balance (Jul) |  | 693.00B | 703.73B |
+| 40 min | CNY | Moderate | Exports (YoY) (Jul) |  | 9.7% | 8.6% |
+| 40 min | CNY | Moderate | Imports (YoY) (Jul) |  | 3.5% | -2.3% |
+| 40 min | CNY | Moderate | Trade Balance (USD) (Jul) |  | 97.50B | 99.05B |
 | 05:00 | IDR | Low | FX Reserves (USD) (Jul) |  |  | 140.20B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  |  | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index |  | 109.0 | 111.2 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | 1.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | 1.6% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) |  | -1.5% | -3.6% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jun) |  | 2.8% | -6.6% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) |  | 1.0% | -2.5% |

@@ -7,9 +7,9 @@
 | 00:00 | AUD | AIG Manufacturing Index (Jul) | -19.5 |  | -26.5 |
 | 00:50 | JPY | Foreign Reserves (USD) (Jul) | 1,219.1B |  | 1,231.5B |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 04:00 | CNY | Exports (Jul) |  |  | 10.70M |
-| 04:00 | CNY | Imports (Jul) |  |  | -0.60M |
-| 04:00 | CNY | Trade Balance (Jul) |  | 693.00B | 703.73B |
+| 40 min | CNY | Exports (Jul) |  |  | 10.70M |
+| 40 min | CNY | Imports (Jul) |  |  | -0.60M |
+| 40 min | CNY | Trade Balance (Jul) |  | 693.00B | 703.73B |
 | 05:00 | IDR | FX Reserves (USD) (Jul) |  |  | 140.20B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 1.9% |
 | 06:00 | JPY | Leading Index (MoM) (Jun) |  |  | 0.3% |
