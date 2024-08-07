@@ -59,8 +59,8 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.410M |  | 0.158M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -1.5% |
 | 15:30 | USD | Low | Gasoline Inventories | 1.340M | -1.900M | -3.665M |
-| 53 min | USD | High | 10-Year Note Auction |  |  | 4.276% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.771B |
+| 18:00 | USD | High | 10-Year Note Auction | 3.960% |  | 4.276% |
+| 25 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 25 min | BRL | Low | Foreign Exchange Flows |  |  | 1.771B |
 | 20:00 | USD | Moderate | Consumer Credit (Jun) |  | 9.80B | 11.35B |
 | 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |

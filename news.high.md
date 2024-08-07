@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 15:30 | USD | Crude Oil Inventories | -3.728M | -1.600M | -3.436M |
-| 53 min | USD | 10-Year Note Auction |  |  | 4.276% |
+| 18:00 | USD | 10-Year Note Auction | 3.960% |  | 4.276% |
