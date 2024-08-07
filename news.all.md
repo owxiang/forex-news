@@ -62,5 +62,5 @@
 | 18:00 | USD | High | 10-Year Note Auction | 3.960% |  | 4.276% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.341B |  | 1.771B |
-| 54 min | USD | Moderate | Consumer Credit (Jun) |  | 9.80B | 11.35B |
-| 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 20:00 | USD | Moderate | Consumer Credit (Jun) | 8.93B | 9.80B | 13.95B |
+| 24 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
