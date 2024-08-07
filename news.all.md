@@ -15,8 +15,8 @@
 | 04:16 | CNY | Moderate | Imports (YoY) (Jul) | 7.2% | 3.5% | -2.3% |
 | 04:16 | CNY | Moderate | Trade Balance (USD) (Jul) | 84.65B | 97.50B | 99.05B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index | 108.6 | 109.0 | 111.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
@@ -47,18 +47,18 @@
 | 12:30 | INR | Low | M3 Money Supply | 10.0% |  | 10.7% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Jul) | 16.9% |  | 26.6% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Jul) | 12.6% |  | 10.3% |
-| 52 min | CAD | Low | Ivey PMI n.s.a (Jul) |  |  | 62.4 |
-| 52 min | CAD | Moderate | Ivey PMI (Jul) |  | 60.0 | 62.5 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.600M | -3.436M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.257M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.651M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.106M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.043M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.300M | 1.534M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.205M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.158M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.900M | -3.665M |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Jul) | 55.3 |  | 62.4 |
+| 15:00 | CAD | Moderate | Ivey PMI (Jul) | 57.6 | 60.0 | 62.5 |
+| 24 min | USD | High | Crude Oil Inventories |  | -1.600M | -3.436M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.257M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | -0.651M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.106M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | 0.043M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.300M | 1.534M |
+| 24 min | USD | Low | Gasoline Production |  |  | -0.205M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | 0.158M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
+| 24 min | USD | Low | Gasoline Inventories |  | -1.900M | -3.665M |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.276% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.771B |

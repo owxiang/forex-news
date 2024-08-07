@@ -12,8 +12,8 @@
 | 04:16 | CNY | Imports (Jul) | 6.60M |  | -0.60M |
 | 04:16 | CNY | Trade Balance (Jul) | 601.90B | 693.00B | 703.73B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Leading Index | 108.6 | 109.0 | 111.2 |
+| 06:00 | JPY | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 07:00 | EUR | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
 | 07:00 | EUR | German Imports (MoM) (Jun) | 0.3% | 2.8% | -5.5% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) | -3.92% |  | -7.17% |
@@ -39,14 +39,14 @@
 | 12:30 | INR | M3 Money Supply | 10.0% |  | 10.7% |
 | 14:00 | BRL | Auto Production (MoM) (Jul) | 16.9% |  | 26.6% |
 | 14:00 | BRL | Auto Sales (MoM) (Jul) | 12.6% |  | 10.3% |
-| 52 min | CAD | Ivey PMI n.s.a (Jul) |  |  | 62.4 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.257M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.651M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.043M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.300M | 1.534M |
-| 15:30 | USD | Gasoline Production |  |  | -0.205M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.158M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
-| 15:30 | USD | Gasoline Inventories |  | -1.900M | -3.665M |
+| 15:00 | CAD | Ivey PMI n.s.a (Jul) | 55.3 |  | 62.4 |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.257M |
+| 24 min | USD | Crude Oil Imports |  |  | -0.651M |
+| 24 min | USD | Distillate Fuel Production |  |  | 0.043M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  | 0.300M | 1.534M |
+| 24 min | USD | Gasoline Production |  |  | -0.205M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | 0.158M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
+| 24 min | USD | Gasoline Inventories |  | -1.900M | -3.665M |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.771B |
