@@ -12,8 +12,8 @@
 | 04:16 | CNY | Imports (Jul) | 6.60M |  | -0.60M |
 | 04:16 | CNY | Trade Balance (Jul) | 601.90B | 693.00B | 703.73B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Leading Index | 108.6 | 109.0 | 111.2 |
 | 06:00 | JPY | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
+| 06:00 | JPY | Leading Index | 108.6 | 109.0 | 111.2 |
 | 07:00 | EUR | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
 | 07:00 | EUR | German Imports (MoM) (Jun) | 0.3% | 2.8% | -5.5% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) | -3.92% |  | -7.17% |
