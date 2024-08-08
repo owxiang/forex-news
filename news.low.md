@@ -7,23 +7,23 @@
 | 00:50 | JPY | Foreign Bonds Buying | 669.7B |  | -694.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -641.7B |  | -612.9B |
 | 03:40 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 29 min | JPY | 30-Year JGB Auction |  |  | 2.190% |
-| 54 min | IDR | Consumer Confidence (Jul) | 123.4 |  | 123.3 |
-| 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | JPY | Economy Watchers Current Index (Jul) |  | 47.4 | 47.0 |
+| 04:35 | JPY | 30-Year JGB Auction | 2.230% |  | 2.190% |
+| 05:00 | IDR | Consumer Confidence (Jul) | 123.4 |  | 123.3 |
+| 21 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 21 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 51 min | JPY | Economy Watchers Current Index (Jul) |  | 47.4 | 47.0 |
 | 07:45 | EUR | French Current Account (Jun) |  |  | -3.10B |
 | 07:45 | EUR | French Exports (Jun) |  |  | 50.2B |
 | 07:45 | EUR | French Imports (Jun) |  |  | 58.2B |
 | 07:45 | EUR | French Trade Balance (Jun) |  | -7.5B | -8.0B |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
-| 13:00 | MXN | PPI (YoY) (Jul) |  |  | 5.10% |
 | 13:00 | MXN | PPI (MoM) (Jul) |  |  | 1.40% |
+| 13:00 | MXN | PPI (YoY) (Jul) |  |  | 5.10% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 238.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | 0.4% |
