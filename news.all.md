@@ -36,7 +36,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.190% |  | 5.230% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.9% | 2.9% | 2.9% |
-| 18:01 | USD | High | 30-Year Bond Auction |  |  | 4.405% |
+| 18:01 | USD | High | 30-Year Bond Auction | 4.314% |  | 4.405% |
 | 20:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Aug) |  | 11.00% | 11.00% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
