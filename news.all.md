@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Jul) | -19% |  | -17% |
-| 44 min | JPY | Moderate | Adjusted Current Account (Jun) |  | 2.34T | 2.41T |
-| 44 min | JPY | Low | Bank Lending (YoY) (Jul) |  | 3.2% | 3.2% |
-| 44 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 44 min | JPY | Moderate | Current Account n.s.a. (Jun) |  | 1.790T | 2.850T |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -700.5B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -670.5B |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Jun) | 1.78T | 2.34T | 2.41T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Jul) | 3.2% | 3.2% | 3.2% |
+| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.534T | 1.790T | 2.850T |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 669.7B |  | -694.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -641.7B |  | -612.9B |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
 | 03:40 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
@@ -22,16 +22,16 @@
 | 07:45 | EUR | Low | French Exports (Jun) |  |  | 50.2B |
 | 07:45 | EUR | Low | French Imports (Jun) |  |  | 58.2B |
 | 07:45 | EUR | Low | French Trade Balance (Jun) |  | -7.5B | -8.0B |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 5.10% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | 1.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 5.10% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,877K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 241K | 249K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 238.00K |
