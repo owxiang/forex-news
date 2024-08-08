@@ -39,5 +39,5 @@
 | 18:01 | USD | High | 30-Year Bond Auction | 4.314% |  | 4.405% |
 | 20:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Aug) | 10.75% | 11.00% | 11.00% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.179T |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.179T |
