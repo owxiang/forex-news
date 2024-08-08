@@ -17,6 +17,7 @@
 | 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
+| 08:10 | IDR | Low | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |

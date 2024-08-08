@@ -12,6 +12,7 @@
 | 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
+| 08:10 | IDR | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
