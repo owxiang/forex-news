@@ -1,15 +1,24 @@
-## 08 August 2024 - Moderate Impact Forex News
+## 09 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Jul) | -19% |  | -17% |
-| 00:50 | JPY | Adjusted Current Account (Jun) | 1.78T | 2.34T | 2.41T |
-| 00:50 | JPY | Current Account n.s.a. (Jun) | 1.534T | 1.790T | 2.850T |
-| 04:00 | NZD | Inflation Expectations (QoQ) | 2.0% |  | 2.3% |
-| 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 13:00 | MXN | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
-| 13:00 | MXN | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
-| 13:30 | USD | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
-| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 2.9% | 2.9% |
-| 20:00 | MXN | Interest Rate Decision (Aug) | 10.75% | 11.00% | 11.00% |
-| 21:30 | USD | Fed's Balance Sheet | 7,175B |  | 7,178B |
+| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | 4 |
+| 02:30 | CNY | CPI (MoM) (Jul) |  | 0.3% | -0.2% |
+| 02:30 | CNY | CPI (YoY) (Jul) |  | 0.3% | 0.2% |
+| 02:30 | CNY | PPI (YoY) (Jul) |  | -0.9% | -0.8% |
+| 07:00 | EUR | German CPI (YoY) (Jul) |  | 2.3% | 2.2% |
+| 08:00 | CHF | SECO Consumer Climate (Q3) |  | -36 | -24 |
+| 13:00 | BRL | CPI (YoY) (Jul) |  | 4.47% | 4.23% |
+| 13:30 | CAD | Employment Change (Jul) |  | 26.9K | -1.4K |
+| 13:30 | CAD | Unemployment Rate (Jul) |  | 6.5% | 6.4% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 111.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 245.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 246.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | 12.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -31.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -41.2K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -73.5K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 17.8K |
