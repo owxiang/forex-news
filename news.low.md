@@ -12,18 +12,14 @@
 | 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
-| 36 min | EUR | French Current Account (Jun) |  |  | -3.10B |
-| 36 min | EUR | French Exports (Jun) |  |  | 50.2B |
-| 36 min | EUR | French Imports (Jun) |  |  | 58.2B |
-| 36 min | EUR | French Trade Balance (Jun) |  | -7.5B | -8.0B |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
-| 13:00 | MXN | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:00 | MXN | PPI (YoY) (Jul) |  |  | 5.10% |
+| 13:00 | MXN | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 238.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | 0.4% |

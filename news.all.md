@@ -17,20 +17,16 @@
 | 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
-| 36 min | EUR | Low | French Current Account (Jun) |  |  | -3.10B |
-| 36 min | EUR | Low | French Exports (Jun) |  |  | 50.2B |
-| 36 min | EUR | Low | French Imports (Jun) |  |  | 58.2B |
-| 36 min | EUR | Low | French Trade Balance (Jun) |  | -7.5B | -8.0B |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 5.10% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,877K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 241K | 249K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 238.00K |
