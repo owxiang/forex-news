@@ -18,15 +18,15 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Low | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims | 233K | 241K | 250K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
@@ -39,5 +39,5 @@
 | 18:01 | USD | High | 30-Year Bond Auction | 4.314% |  | 4.405% |
 | 20:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Aug) | 10.75% | 11.00% | 11.00% |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.179T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,175B |  | 7,178B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.373T |  | 3.179T |
