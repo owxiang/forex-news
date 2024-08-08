@@ -13,10 +13,10 @@
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.0% |  | 2.3% |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.230% |  | 2.190% |
 | 05:00 | IDR | Low | Consumer Confidence (Jul) | 123.4 |  | 123.3 |
-| 21 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 21 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 21 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 51 min | JPY | Low | Economy Watchers Current Index (Jul) |  | 47.4 | 47.0 |
+| 05:30 | INR | Low | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
+| 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 07:45 | EUR | Low | French Current Account (Jun) |  |  | -3.10B |
 | 07:45 | EUR | Low | French Exports (Jun) |  |  | 50.2B |
 | 07:45 | EUR | Low | French Imports (Jun) |  |  | 58.2B |
@@ -26,8 +26,8 @@
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 5.10% |
@@ -37,7 +37,7 @@
 | 13:30 | CAD | Moderate | Trade Balance (Jun) |  |  | -1.93B |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  |  | 0.4% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 18B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 22B | 18B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.230% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |

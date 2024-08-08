@@ -9,9 +9,9 @@
 | 03:40 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | 30-Year JGB Auction | 2.230% |  | 2.190% |
 | 05:00 | IDR | Consumer Confidence (Jul) | 123.4 |  | 123.3 |
-| 21 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 21 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 51 min | JPY | Economy Watchers Current Index (Jul) |  | 47.4 | 47.0 |
+| 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
+| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 07:45 | EUR | French Current Account (Jun) |  |  | -3.10B |
 | 07:45 | EUR | French Exports (Jun) |  |  | 50.2B |
 | 07:45 | EUR | French Imports (Jun) |  |  | 58.2B |
@@ -27,7 +27,7 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 238.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | 0.4% |
-| 15:30 | USD | Natural Gas Storage |  |  | 18B |
+| 15:30 | USD | Natural Gas Storage |  | 22B | 18B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.230% |
 | 20:00 | USD | FOMC Member Barkin Speaks |  |  |  |
