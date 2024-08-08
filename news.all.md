@@ -32,10 +32,10 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) | -0.6% |  | 0.3% |
-| 24 min | USD | Low | Natural Gas Storage |  | 22B | 18B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.230% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
+| 15:30 | USD | Low | Natural Gas Storage | 21B | 22B | 18B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.285% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.190% |  | 5.230% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.9% | 2.9% | 2.9% |
 | 18:01 | USD | High | 30-Year Bond Auction |  |  | 4.405% |
 | 20:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Aug) |  | 11.00% | 11.00% |

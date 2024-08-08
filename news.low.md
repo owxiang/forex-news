@@ -23,8 +23,8 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) | -0.6% |  | 0.3% |
-| 24 min | USD | Natural Gas Storage |  | 22B | 18B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 5.230% |
+| 15:30 | USD | Natural Gas Storage | 21B | 22B | 18B |
+| 16:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.285% |
+| 16:30 | USD | 8-Week Bill Auction | 5.190% |  | 5.230% |
 | 20:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.179T |
