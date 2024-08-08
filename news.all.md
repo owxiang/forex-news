@@ -9,11 +9,10 @@
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.534T | 1.790T | 2.850T |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 669.7B |  | -694.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -641.7B |  | -612.9B |
-| 10 min | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
-| 20 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 40 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.190% |
-| 05:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 123.3 |
+| 03:40 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 04:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.0% |  | 2.3% |
+| 29 min | JPY | Low | 30-Year JGB Auction |  |  | 2.190% |
+| 54 min | IDR | Low | Consumer Confidence (Jul) | 123.4 |  | 123.3 |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |

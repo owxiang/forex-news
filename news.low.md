@@ -6,9 +6,9 @@
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Foreign Bonds Buying | 669.7B |  | -694.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -641.7B |  | -612.9B |
-| 20 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.190% |
-| 05:00 | IDR | Consumer Confidence (Jul) |  |  | 123.3 |
+| 03:40 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 29 min | JPY | 30-Year JGB Auction |  |  | 2.190% |
+| 54 min | IDR | Consumer Confidence (Jul) | 123.4 |  | 123.3 |
 | 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) |  | 47.4 | 47.0 |
