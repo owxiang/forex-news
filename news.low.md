@@ -12,10 +12,10 @@
 | 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
-| 07:45 | EUR | French Current Account (Jun) |  |  | -3.10B |
-| 07:45 | EUR | French Exports (Jun) |  |  | 50.2B |
-| 07:45 | EUR | French Imports (Jun) |  |  | 58.2B |
-| 07:45 | EUR | French Trade Balance (Jun) |  | -7.5B | -8.0B |
+| 36 min | EUR | French Current Account (Jun) |  |  | -3.10B |
+| 36 min | EUR | French Exports (Jun) |  |  | 50.2B |
+| 36 min | EUR | French Imports (Jun) |  |  | 58.2B |
+| 36 min | EUR | French Trade Balance (Jun) |  | -7.5B | -8.0B |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
