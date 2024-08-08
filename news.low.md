@@ -20,9 +20,9 @@
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
 | 13:00 | MXN | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
-| 22 min | USD | Jobless Claims 4-Week Avg. |  |  | 238.00K |
-| 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | 0.4% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
+| 52 min | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.2% |
+| 52 min | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | 0.4% |
 | 15:30 | USD | Natural Gas Storage |  | 22B | 18B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.230% |

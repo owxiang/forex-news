@@ -9,8 +9,7 @@
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 13:00 | MXN | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
-| 22 min | USD | Continuing Jobless Claims |  | 1,870K | 1,877K |
-| 22 min | CAD | Trade Balance (Jun) |  |  | -1.93B |
+| 13:30 | USD | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
 | 20:00 | MXN | Interest Rate Decision (Aug) |  | 11.00% | 11.00% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,178B |

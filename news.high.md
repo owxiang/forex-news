@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | USD | Initial Jobless Claims |  | 241K | 249K |
+| 13:30 | USD | Initial Jobless Claims | 233K | 241K | 250K |
 | 18:01 | USD | 30-Year Bond Auction |  |  | 4.405% |
