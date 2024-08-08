@@ -26,5 +26,5 @@
 | 15:30 | USD | Natural Gas Storage | 21B | 22B | 18B |
 | 16:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction | 5.190% |  | 5.230% |
-| 52 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 20:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.179T |
