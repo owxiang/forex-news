@@ -16,8 +16,8 @@
 | 07:45 | EUR | French Exports (Jun) |  |  | 50.2B |
 | 07:45 | EUR | French Imports (Jun) |  |  | 58.2B |
 | 07:45 | EUR | French Trade Balance (Jun) |  | -7.5B | -8.0B |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
