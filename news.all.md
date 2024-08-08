@@ -18,13 +18,13 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Low | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
+| 54 min | ZAR | Low | Manufacturing Production (YoY) (Jun) |  |  | -0.6% |
+| 54 min | ZAR | Low | Manufacturing Production (MoM) (Jun) |  |  | -3.2% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 5.10% |
