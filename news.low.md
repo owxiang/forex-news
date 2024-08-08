@@ -13,13 +13,13 @@
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:00 | MXN | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
+| 13:00 | MXN | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) | -0.6% |  | 0.3% |
