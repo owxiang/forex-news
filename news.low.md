@@ -6,7 +6,7 @@
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Foreign Bonds Buying | 669.7B |  | -694.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -641.7B |  | -612.9B |
-| 03:40 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 20 min | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.190% |
 | 05:00 | IDR | Consumer Confidence (Jul) |  |  | 123.3 |
 | 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
@@ -22,8 +22,8 @@
 | 13:00 | CAD | Leading Index (MoM) (Jul) |  |  | 0.15% |
 | 13:00 | MXN | Core CPI (MoM) (Jul) |  | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
-| 13:00 | MXN | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:00 | MXN | PPI (YoY) (Jul) |  |  | 5.10% |
+| 13:00 | MXN | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 238.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) |  | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  |  | 0.4% |

@@ -5,8 +5,8 @@
 | 00:01 | GBP | RICS House Price Balance (Jul) | -19% |  | -17% |
 | 00:50 | JPY | Adjusted Current Account (Jun) | 1.78T | 2.34T | 2.41T |
 | 00:50 | JPY | Current Account n.s.a. (Jun) | 1.534T | 1.790T | 2.850T |
-| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | 4 |
-| 04:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.3% |
+| 10 min | AUD | NAB Business Confidence (Jul) |  |  | 4 |
+| 40 min | NZD | Inflation Expectations (QoQ) |  |  | 2.3% |
 | 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 13:00 | MXN | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
 | 13:00 | MXN | CPI (MoM) (Jul) |  | 1.02% | 0.38% |

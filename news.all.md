@@ -9,9 +9,9 @@
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.534T | 1.790T | 2.850T |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 669.7B |  | -694.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -641.7B |  | -612.9B |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
-| 03:40 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 04:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
+| 10 min | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
+| 20 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 40 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.3% |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.190% |
 | 05:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 123.3 |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
@@ -30,8 +30,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 5.57% | 4.98% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 1.02% | 0.38% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) |  |  | 5.10% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) |  |  | 1.40% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,877K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 241K | 249K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 238.00K |
