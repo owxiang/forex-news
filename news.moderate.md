@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
 | 02:30 | CNY | CPI (YoY) (Jul) | 0.5% | 0.3% | 0.2% |
+| 02:30 | CNY | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
 | 02:30 | CNY | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
-| 07:00 | EUR | German CPI (YoY) (Jul) |  | 2.3% | 2.2% |
+| 54 min | EUR | German CPI (YoY) (Jul) |  | 2.3% | 2.2% |
 | 08:00 | CHF | SECO Consumer Climate (Q3) |  | -36 | -24 |
 | 13:00 | BRL | CPI (YoY) (Jul) |  | 4.47% | 4.23% |
 | 13:30 | CAD | Employment Change (Jul) |  | 26.9K | -1.4K |
