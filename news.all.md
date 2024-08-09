@@ -9,39 +9,38 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.3% | 7.5% | 7.5% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
+| 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance (Jun) | 5.065B | 5.550B | 6.377B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jun) | -1.05B |  | 0.47B |
 | 10:50 | EUR | Low | Italian 12-Month BOT Auction | 3.112% |  | 3.483% |
-| 25 min | INR | Low | Bank Loan Growth |  |  | 14.0% |
-| 25 min | INR | Low | Deposit Growth |  |  | 11.3% |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 667.39B |
-| 55 min | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
-| 55 min | MXN | Low | Industrial Production (YoY) (Jun) |  | -0.1% | 1.0% |
-| 55 min | MXN | Low | Industrial Production (MoM) (Jun) |  | 0.3% | 0.7% |
-| 55 min | BRL | Low | CPI (MoM) (Jul) |  | 0.35% | 0.21% |
-| 55 min | BRL | Moderate | CPI (YoY) (Jul) |  | 4.47% | 4.23% |
-| 55 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.28% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 5.6% |
-| 13:30 | CAD | Moderate | Employment Change (Jul) |  | 26.9K | -1.4K |
-| 13:30 | CAD | Low | Full Employment Change (Jul) |  |  | -3.4K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jul) |  |  | 1.9K |
-| 13:30 | CAD | Low | Participation Rate (Jul) |  |  | 65.3% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jul) |  | 6.5% | 6.4% |
+| 12:30 | INR | Low | Bank Loan Growth | 13.7% |  | 14.0% |
+| 12:30 | INR | Low | Deposit Growth | 10.6% |  | 11.3% |
+| 12:30 | INR | Low | FX Reserves, USD | 674.92B |  | 667.39B |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.50% | 4.47% | 4.23% |
+| 13:00 | BRL | Low | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
+| 21 min | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 5.6% |
+| 21 min | CAD | Moderate | Employment Change (Jul) |  | 26.9K | -1.4K |
+| 21 min | CAD | Low | Full Employment Change (Jul) |  |  | -3.4K |
+| 21 min | CAD | Low | Part Time Employment Change (Jul) |  |  | 1.9K |
+| 21 min | CAD | Low | Participation Rate (Jul) |  |  | 65.3% |
+| 21 min | CAD | Moderate | Unemployment Rate (Jul) |  | 6.5% | 6.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 111.5K |
