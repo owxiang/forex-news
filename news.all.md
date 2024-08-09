@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | M2 Money Stock (YoY) |  | 1.6% | 1.5% |
-| 44 min | JPY | Low | M3 Money Supply (Jul) |  |  | 2,168.1B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.4% | 1.6% | 1.5% |
+| 00:50 | JPY | Low | M3 Money Supply (Jul) | 2,168.3B |  | 2,167.7B |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
 | 02:30 | CNY | Moderate | CPI (MoM) (Jul) |  | 0.3% | -0.2% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Jul) |  | 0.3% | 0.2% |

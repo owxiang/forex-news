@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | M2 Money Stock (YoY) |  | 1.6% | 1.5% |
-| 44 min | JPY | M3 Money Supply (Jul) |  |  | 2,168.1B |
+| 00:50 | JPY | M2 Money Stock (YoY) | 1.4% | 1.6% | 1.5% |
+| 00:50 | JPY | M3 Money Supply (Jul) | 2,168.3B |  | 2,167.7B |
 | 05:00 | IDR | Retail Sales (YoY) (Jun) |  |  | 2.1% |
 | 06:30 | EUR | French Unemployment Rate (Q2) |  | 7.5% | 7.5% |
 | 07:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.2% |
