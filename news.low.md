@@ -6,21 +6,21 @@
 | 00:50 | JPY | M3 Money Supply (Jul) | 2,168.3B |  | 2,167.7B |
 | 05:00 | IDR | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | French Unemployment Rate (Q2) | 7.3% | 7.5% | 7.5% |
-| 07:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
+| 07:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | NOK | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
 | 07:00 | NOK | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
-| 09:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
+| 09:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
 | 09:00 | EUR | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
-| 52 min | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
-| 52 min | EUR | Italian Trade Balance (Jun) |  | 5.550B | 6.430B |
-| 52 min | EUR | Italian Trade Balance EU (Jun) |  |  | 0.52B |
-| 10:40 | EUR | Italian 12-Month BOT Auction |  |  | 3.483% |
+| 10:00 | EUR | Italian Trade Balance (Jun) | 5.065B | 5.550B | 6.377B |
+| 10:00 | EUR | Italian Trade Balance EU (Jun) | -1.05B |  | 0.47B |
+| 34 min | EUR | Italian 12-Month BOT Auction |  |  | 3.483% |
 | 12:30 | INR | Bank Loan Growth |  |  | 14.0% |
 | 12:30 | INR | Deposit Growth |  |  | 11.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 667.39B |
