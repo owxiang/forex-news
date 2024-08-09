@@ -41,8 +41,8 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Jul) | -64.4K |  | 1.9K |
 | 13:30 | CAD | Low | Participation Rate (Jul) | 65.0% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.4% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 111.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 24.5K |

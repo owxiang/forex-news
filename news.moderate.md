@@ -10,8 +10,8 @@
 | 13:00 | BRL | CPI (YoY) (Jul) | 4.50% | 4.47% | 4.23% |
 | 13:30 | CAD | Employment Change (Jul) | -2.8K | 26.9K | -1.4K |
 | 13:30 | CAD | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.4% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 111.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 245.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 246.6K |
