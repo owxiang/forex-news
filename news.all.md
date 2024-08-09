@@ -18,13 +18,13 @@
 | 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
-| 52 min | CHF | Moderate | SECO Consumer Climate (Q3) |  | -36 | -24 |
-| 08:30 | IDR | Low | Motorbike Sales (YoY) (Jul) |  |  | 3.50% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.5% | 0.1% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.3% | 0.8% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.8% | 0.2% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.7% | 0.9% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
+| 24 min | IDR | Low | Motorbike Sales (YoY) (Jul) |  |  | 3.50% |
+| 54 min | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.5% | 0.1% |
+| 54 min | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.3% | 0.8% |
+| 54 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
+| 54 min | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.8% | 0.2% |
+| 54 min | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.7% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance (Jun) |  | 5.550B | 6.430B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jun) |  |  | 0.52B |
 | 10:40 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.483% |

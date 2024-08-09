@@ -6,7 +6,7 @@
 | 02:30 | CNY | CPI (YoY) (Jul) | 0.5% | 0.3% | 0.2% |
 | 02:30 | CNY | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
 | 07:00 | EUR | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
-| 52 min | CHF | SECO Consumer Climate (Q3) |  | -36 | -24 |
+| 08:00 | CHF | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
 | 13:00 | BRL | CPI (YoY) (Jul) |  | 4.47% | 4.23% |
 | 13:30 | CAD | Employment Change (Jul) |  | 26.9K | -1.4K |
 | 13:30 | CAD | Unemployment Rate (Jul) |  | 6.5% | 6.4% |
