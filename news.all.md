@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.4% | 1.6% | 1.5% |
 | 00:50 | JPY | Low | M3 Money Supply (Jul) | 2,168.3B |  | 2,167.7B |
-| 02:30 | CNY | Moderate | CPI (YoY) (Jul) | 0.5% | 0.3% | 0.2% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jul) | 0.5% | 0.3% | 0.2% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
-| 05:00 | IDR | Low | Retail Sales (YoY) (Jun) |  |  | 2.1% |
+| 53 min | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) |  | 7.5% | 7.5% |
-| 07:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.3% | 2.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) |  | 2.6% | 2.5% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) |  | 3.3% | 3.4% |
@@ -23,8 +23,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.7% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.8% | 0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.7% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance (Jun) |  | 5.550B | 6.430B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jun) |  |  | 0.52B |
 | 10:40 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.483% |
