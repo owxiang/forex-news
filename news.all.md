@@ -15,8 +15,8 @@
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
+| 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
@@ -35,12 +35,12 @@
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.50% | 4.47% | 4.23% |
 | 13:00 | BRL | Low | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
-| 21 min | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 5.6% |
-| 21 min | CAD | Moderate | Employment Change (Jul) |  | 26.9K | -1.4K |
-| 21 min | CAD | Low | Full Employment Change (Jul) |  |  | -3.4K |
-| 21 min | CAD | Low | Part Time Employment Change (Jul) |  |  | 1.9K |
-| 21 min | CAD | Low | Participation Rate (Jul) |  |  | 65.3% |
-| 21 min | CAD | Moderate | Unemployment Rate (Jul) |  | 6.5% | 6.4% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) | 5.2% |  | 5.6% |
+| 13:30 | CAD | Moderate | Employment Change (Jul) | -2.8K | 26.9K | -1.4K |
+| 13:30 | CAD | Low | Full Employment Change (Jul) | 61.6K |  | -3.4K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jul) | -64.4K |  | 1.9K |
+| 13:30 | CAD | Low | Participation Rate (Jul) | 65.0% |  | 65.3% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 111.5K |
