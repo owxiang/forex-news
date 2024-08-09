@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.4% | 1.6% | 1.5% |
 | 00:50 | JPY | Low | M3 Money Supply (Jul) | 2,168.3B |  | 2,167.7B |
-| 02:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Jul) | 0.5% | 0.3% | 0.2% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.3% | 7.5% | 7.5% |
@@ -15,12 +15,12 @@
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
+| 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
@@ -41,8 +41,8 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Jul) | -64.4K |  | 1.9K |
 | 13:30 | CAD | Low | Participation Rate (Jul) | 65.0% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.4% |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 485 |  | 482 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 588 |  | 586 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 111.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 24.5K |
