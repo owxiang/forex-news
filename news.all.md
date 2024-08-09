@@ -7,12 +7,12 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Jul) | 0.5% | 0.3% | 0.2% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
-| 53 min | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
+| 05:00 | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) |  | 7.5% | 7.5% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 2.3% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 07:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) |  | 2.6% | 2.5% |
+| 07:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.2% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) |  | 3.3% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) |  | 0.8% | 0.2% |
 | 07:00 | NOK | Low | CPI (MoM) (Jul) |  | 0.6% | 0.2% |
@@ -32,10 +32,10 @@
 | 12:30 | INR | Low | Deposit Growth |  |  | 11.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 667.39B |
 | 13:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | 0.15% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Jun) |  | -0.1% | 1.0% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jun) |  | 0.3% | 0.7% |
-| 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.35% | 0.21% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Jun) |  | -0.1% | 1.0% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) |  | 4.47% | 4.23% |
+| 13:00 | BRL | Low | CPI (MoM) (Jul) |  | 0.35% | 0.21% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  |  | 0.28% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 5.6% |
 | 13:30 | CAD | Moderate | Employment Change (Jul) |  | 26.9K | -1.4K |
