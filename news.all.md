@@ -30,8 +30,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
+| 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.924% |  | 3.252% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.485% |  | 3.610% |
@@ -184,8 +184,8 @@
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
@@ -210,8 +210,8 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.3% | 7.5% | 7.5% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
@@ -220,19 +220,19 @@
 | 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance (Jun) | 5.065B | 5.550B | 6.377B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jun) | -1.05B |  | 0.47B |
 | 10:50 | EUR | Low | Italian 12-Month BOT Auction | 3.112% |  | 3.483% |
 | 12:30 | INR | Low | Bank Loan Growth | 13.7% |  | 14.0% |
 | 12:30 | INR | Low | Deposit Growth | 10.6% |  | 11.3% |
 | 12:30 | INR | Low | FX Reserves, USD | 674.92B |  | 667.39B |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.50% | 4.47% | 4.23% |
 | 13:00 | BRL | Low | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
