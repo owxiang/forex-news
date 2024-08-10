@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
+| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -51,8 +51,8 @@
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
@@ -73,8 +73,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
 | 09:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 55.3 | 52.5 | 52.2 |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
 | 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
@@ -180,15 +180,15 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Low | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims | 233K | 241K | 250K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
@@ -210,10 +210,10 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.3% | 7.5% | 7.5% |
-| 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
+| 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
 | 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
@@ -231,10 +231,10 @@
 | 12:30 | INR | Low | Bank Loan Growth | 13.7% |  | 14.0% |
 | 12:30 | INR | Low | Deposit Growth | 10.6% |  | 11.3% |
 | 12:30 | INR | Low | FX Reserves, USD | 674.92B |  | 667.39B |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.50% | 4.47% | 4.23% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | BRL | Low | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.50% | 4.47% | 4.23% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) | 5.2% |  | 5.6% |
 | 13:30 | CAD | Moderate | Employment Change (Jul) | -2.8K | 26.9K | -1.4K |

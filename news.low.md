@@ -7,8 +7,8 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
-| 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
+| 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -46,8 +46,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 39.7 |  | 41.0 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 41.4 |  | 41.8 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 147,517.0 |  | 179,263.0 |
-| 10:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Jun) | -0.3% | 0.1% | 0.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.0% | 0.1% |
 | 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.372% |  | 4.519% |
 | 10:40 | EUR | German 5-Year Bobl Auction | 2.090% |  | 2.390% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 2.954% |  | 3.372% |
@@ -126,13 +126,13 @@
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
+| 13:00 | MXN | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) | -0.6% |  | 0.3% |
@@ -145,8 +145,8 @@
 | 00:50 | JPY | M3 Money Supply (Jul) | 2,168.3B |  | 2,167.7B |
 | 05:00 | IDR | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | French Unemployment Rate (Q2) | 7.3% | 7.5% | 7.5% |
-| 07:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
+| 07:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | NOK | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
 | 07:00 | NOK | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
@@ -163,8 +163,8 @@
 | 12:30 | INR | Bank Loan Growth | 13.7% |  | 14.0% |
 | 12:30 | INR | Deposit Growth | 10.6% |  | 11.3% |
 | 12:30 | INR | FX Reserves, USD | 674.92B |  | 667.39B |
-| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | MXN | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
+| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | BRL | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jul) | 5.2% |  | 5.6% |
