@@ -51,8 +51,8 @@
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
