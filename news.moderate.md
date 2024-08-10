@@ -36,8 +36,8 @@
 | 04:16 | CNY | Exports (YoY) (Jul) | 7.0% | 9.7% | 8.6% |
 | 04:16 | CNY | Imports (YoY) (Jul) | 7.2% | 3.5% | -2.3% |
 | 04:16 | CNY | Trade Balance (USD) (Jul) | 84.65B | 97.50B | 99.05B |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jun) | 1.4% | 1.0% | -3.1% |
 | 07:00 | EUR | German Trade Balance (Jun) | 20.4B | 21.7B | 25.3B |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jul) | 7.98% |  | 7.98% |
@@ -50,8 +50,8 @@
 | 00:50 | JPY | Current Account n.s.a. (Jun) | 1.534T | 1.790T | 2.850T |
 | 04:00 | NZD | Inflation Expectations (QoQ) | 2.0% |  | 2.3% |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 13:00 | MXN | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
+| 13:00 | MXN | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:30 | USD | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 2.9% | 2.9% |
 | 20:00 | MXN | Interest Rate Decision (Aug) | 10.75% | 11.00% | 11.00% |

@@ -10,8 +10,8 @@
 | 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
-| 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
+| 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jun) | 0.6% |  | 0.4% |
 | 08:15 | ZAR | S&P Global South Africa PMI (Jul) | 49.3 |  | 49.2 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jul) | 50.3 |  | 51.3 |
@@ -19,8 +19,8 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Jul) | 49.1 | 48.7 | 50.4 |
 | 09:30 | EUR | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 10:00 | EUR | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
+| 10:00 | EUR | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.924% |  | 3.252% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.485% |  | 3.610% |
@@ -149,14 +149,14 @@
 | 07:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | NOK | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
+| 07:00 | NOK | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 10:00 | EUR | Italian Trade Balance (Jun) | 5.065B | 5.550B | 6.377B |
 | 10:00 | EUR | Italian Trade Balance EU (Jun) | -1.05B |  | 0.47B |
 | 10:50 | EUR | Italian 12-Month BOT Auction | 3.112% |  | 3.483% |
