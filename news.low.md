@@ -19,8 +19,8 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Jul) | 49.1 | 48.7 | 50.4 |
 | 09:30 | EUR | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 10:00 | EUR | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
+| 10:00 | EUR | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.924% |  | 3.252% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.485% |  | 3.610% |
@@ -63,8 +63,8 @@
 | 16:36 | USD | 52-Week Bill Auction | 4.255% |  | 4.775% |
 | 19:00 | BRL | Trade Balance (Jul) | 7.64B | 7.75B | 6.38B |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) | 0.4% | -0.2% | -0.2% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.8% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q2) | 3.6% | 3.5% | 3.8% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.8% |
 | 23:45 | NZD | Participation Rate (Q2) | 71.70% | 71.30% | 71.60% |
 | 23:45 | NZD | Unemployment Rate (Q2) | 4.6% | 4.7% | 4.4% |
 | 00:00 | KRW | Current Account (Jun) | 12.26B |  | 8.92B |
@@ -77,8 +77,8 @@
 | 04:16 | CNY | Imports (Jul) | 6.60M |  | -0.60M |
 | 04:16 | CNY | Trade Balance (Jul) | 601.90B | 693.00B | 703.73B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Leading Index | 108.6 | 109.0 | 111.2 |
 | 06:00 | JPY | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
+| 06:00 | JPY | Leading Index | 108.6 | 109.0 | 111.2 |
 | 07:00 | EUR | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
 | 07:00 | EUR | German Imports (MoM) (Jun) | 0.3% | 2.8% | -5.5% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) | -3.92% |  | -7.17% |
@@ -126,8 +126,8 @@
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
@@ -149,22 +149,22 @@
 | 07:00 | EUR | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
+| 07:00 | NOK | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
-| 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
+| 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 10:00 | EUR | Italian Trade Balance (Jun) | 5.065B | 5.550B | 6.377B |
 | 10:00 | EUR | Italian Trade Balance EU (Jun) | -1.05B |  | 0.47B |
 | 10:50 | EUR | Italian 12-Month BOT Auction | 3.112% |  | 3.483% |
 | 12:30 | INR | Bank Loan Growth | 13.7% |  | 14.0% |
 | 12:30 | INR | Deposit Growth | 10.6% |  | 11.3% |
 | 12:30 | INR | FX Reserves, USD | 674.92B |  | 667.39B |
-| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | MXN | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
+| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | BRL | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jul) | 5.2% |  | 5.6% |

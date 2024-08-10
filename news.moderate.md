@@ -17,8 +17,8 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jul) | 51.1 | 46.4 | 46.1 |
 | 22:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
 | 00:30 | JPY | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
+| 00:30 | JPY | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
 | 02:30 | AUD | Building Approvals (MoM) (Jun) | -6.5% | -6.5% | 5.5% |
 | 04:35 | JPY | 10-Year JGB Auction | 0.926% |  | 1.091% |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
@@ -50,8 +50,8 @@
 | 00:50 | JPY | Current Account n.s.a. (Jun) | 1.534T | 1.790T | 2.850T |
 | 04:00 | NZD | Inflation Expectations (QoQ) | 2.0% |  | 2.3% |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 13:00 | MXN | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
+| 13:00 | MXN | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:30 | USD | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 2.9% | 2.9% |
 | 20:00 | MXN | Interest Rate Decision (Aug) | 10.75% | 11.00% | 11.00% |

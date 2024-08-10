@@ -30,8 +30,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) | 52.5 | 52.4 | 52.1 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Aug) | -13.9 | -5.5 | -7.3 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jul) | 2.40% |  | 2.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 10:00 | EUR | Low | PPI (MoM) (Jun) | 0.5% | 0.1% | -0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Jun) | -3.2% | -3.3% | -4.1% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.924% |  | 3.252% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.485% |  | 3.610% |
@@ -51,8 +51,8 @@
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
@@ -98,8 +98,8 @@
 | 19:00 | BRL | Low | Trade Balance (Jul) | 7.64B | 7.75B | 6.38B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.180M | 0.850M | -4.495M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) | 0.4% | -0.2% | -0.2% |
-| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.8% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) | 3.6% | 3.5% | 3.8% |
+| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.8% |
 | 23:45 | NZD | Low | Participation Rate (Q2) | 71.70% | 71.30% | 71.60% |
 | 23:45 | NZD | Low | Unemployment Rate (Q2) | 4.6% | 4.7% | 4.4% |
 | 00:00 | KRW | Low | Current Account (Jun) | 12.26B |  | 8.92B |
@@ -115,8 +115,8 @@
 | 04:16 | CNY | Moderate | Imports (YoY) (Jul) | 7.2% | 3.5% | -2.3% |
 | 04:16 | CNY | Moderate | Trade Balance (USD) (Jul) | 84.65B | 97.50B | 99.05B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Low | Leading Index | 108.6 | 109.0 | 111.2 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
+| 06:00 | JPY | Low | Leading Index | 108.6 | 109.0 | 111.2 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
@@ -180,12 +180,12 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Low | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
@@ -210,29 +210,29 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Jun) | 2.7% |  | 2.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q2) | 7.3% | 7.5% | 7.5% |
-| 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
+| 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 10:00 | EUR | Low | Italian Trade Balance (Jun) | 5.065B | 5.550B | 6.377B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jun) | -1.05B |  | 0.47B |
 | 10:50 | EUR | Low | Italian 12-Month BOT Auction | 3.112% |  | 3.483% |
 | 12:30 | INR | Low | Bank Loan Growth | 13.7% |  | 14.0% |
 | 12:30 | INR | Low | Deposit Growth | 10.6% |  | 11.3% |
 | 12:30 | INR | Low | FX Reserves, USD | 674.92B |  | 667.39B |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jul) | 4.50% | 4.47% | 4.23% |
 | 13:00 | BRL | Low | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
