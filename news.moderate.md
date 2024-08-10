@@ -56,8 +56,8 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 2.9% | 2.9% |
 | 20:00 | MXN | Interest Rate Decision (Aug) | 10.75% | 11.00% | 11.00% |
 | 21:30 | USD | Fed's Balance Sheet | 7,175B |  | 7,178B |
-| 02:30 | CNY | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
 | 02:30 | CNY | CPI (YoY) (Jul) | 0.5% | 0.3% | 0.2% |
+| 02:30 | CNY | CPI (MoM) (Jul) | 0.5% | 0.3% | -0.2% |
 | 02:30 | CNY | PPI (YoY) (Jul) | -0.8% | -0.9% | -0.8% |
 | 07:00 | EUR | German CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 08:00 | CHF | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
