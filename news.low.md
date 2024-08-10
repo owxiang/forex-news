@@ -7,8 +7,8 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
-| 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
+| 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -63,8 +63,8 @@
 | 16:36 | USD | 52-Week Bill Auction | 4.255% |  | 4.775% |
 | 19:00 | BRL | Trade Balance (Jul) | 7.64B | 7.75B | 6.38B |
 | 23:45 | NZD | Employment Change (QoQ) (Q2) | 0.4% | -0.2% | -0.2% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q2) | 3.6% | 3.5% | 3.8% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.8% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q2) | 3.6% | 3.5% | 3.8% |
 | 23:45 | NZD | Participation Rate (Q2) | 71.70% | 71.30% | 71.60% |
 | 23:45 | NZD | Unemployment Rate (Q2) | 4.6% | 4.7% | 4.4% |
 | 00:00 | KRW | Current Account (Jun) | 12.26B |  | 8.92B |
@@ -77,8 +77,8 @@
 | 04:16 | CNY | Imports (Jul) | 6.60M |  | -0.60M |
 | 04:16 | CNY | Trade Balance (Jul) | 601.90B | 693.00B | 703.73B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Leading Index | 108.6 | 109.0 | 111.2 |
+| 06:00 | JPY | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 07:00 | EUR | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
 | 07:00 | EUR | German Imports (MoM) (Jun) | 0.3% | 2.8% | -5.5% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jun) | -3.92% |  | -7.17% |
@@ -126,13 +126,13 @@
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
+| 13:00 | MXN | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) | -0.6% |  | 0.3% |
@@ -149,8 +149,8 @@
 | 07:00 | EUR | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
+| 07:00 | NOK | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |

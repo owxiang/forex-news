@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
+| 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -51,8 +51,8 @@
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 0.3% | 0.3% | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -1.4% | -0.9% | -1.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.1% | 0.2% | -0.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jun) | 4.5% | 2.3% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 1.30% |  | 0.90% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jul) | -3.0% |  | -2.7% |
@@ -98,8 +98,8 @@
 | 19:00 | BRL | Low | Trade Balance (Jul) | 7.64B | 7.75B | 6.38B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.180M | 0.850M | -4.495M |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q2) | 0.4% | -0.2% | -0.2% |
-| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) | 3.6% | 3.5% | 3.8% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.8% |
+| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q2) | 3.6% | 3.5% | 3.8% |
 | 23:45 | NZD | Low | Participation Rate (Q2) | 71.70% | 71.30% | 71.60% |
 | 23:45 | NZD | Low | Unemployment Rate (Q2) | 4.6% | 4.7% | 4.4% |
 | 00:00 | KRW | Low | Current Account (Jun) | 12.26B |  | 8.92B |
@@ -115,8 +115,8 @@
 | 04:16 | CNY | Moderate | Imports (YoY) (Jul) | 7.2% | 3.5% | -2.3% |
 | 04:16 | CNY | Moderate | Trade Balance (USD) (Jul) | 84.65B | 97.50B | 99.05B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.4% |  | 1.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 06:00 | JPY | Low | Leading Index | 108.6 | 109.0 | 111.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.6% |  | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | 2.3% |  | 1.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | 0.8% | 0.2% | 0.0% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jun) | -3.4% | -1.5% | -3.1% |
@@ -180,15 +180,15 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Low | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
+| 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims | 233K | 241K | 250K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
@@ -216,8 +216,8 @@
 | 07:00 | EUR | Low | German HICP (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
 | 07:00 | NOK | Low | Core CPI YTD (Jul) | 3.3% | 3.3% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jul) | 0.8% | 0.8% | 0.2% |
-| 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
+| 07:00 | NOK | Low | CPI (MoM) (Jul) | 0.5% | 0.6% | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
