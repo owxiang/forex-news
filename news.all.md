@@ -13,8 +13,8 @@
 | 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) | 0.6% |  | 0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) | 53.9 | 56.2 | 56.8 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Jul) | 49.3 |  | 49.2 |
@@ -180,15 +180,15 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jul) | 47.5 | 47.4 | 47.0 |
 | 08:10 | IDR | Low | Car Sales (YoY) (Jul) | -7.90% |  | -11.80% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) | -0.5% |  | -3.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) | -5.2% |  | -1.2% |
 | 13:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims | 233K | 241K | 250K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
@@ -220,8 +220,8 @@
 | 07:00 | NOK | Low | CPI (YoY) (Jul) | 2.8% | 2.8% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Jul) | 6.5% |  | 3.4% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -19 | -36 | -24 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
