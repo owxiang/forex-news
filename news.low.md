@@ -155,16 +155,16 @@
 | 09:00 | EUR | Italian CPI (YoY) (Jul) | 1.3% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 1.1% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) | 1.6% | 1.7% | 0.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Jul) | -0.9% | -0.8% | 0.2% |
 | 10:00 | EUR | Italian Trade Balance (Jun) | 5.065B | 5.550B | 6.377B |
 | 10:00 | EUR | Italian Trade Balance EU (Jun) | -1.05B |  | 0.47B |
 | 10:50 | EUR | Italian 12-Month BOT Auction | 3.112% |  | 3.483% |
 | 12:30 | INR | Bank Loan Growth | 13.7% |  | 14.0% |
 | 12:30 | INR | Deposit Growth | 10.6% |  | 11.3% |
 | 12:30 | INR | FX Reserves, USD | 674.92B |  | 667.39B |
-| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | MXN | Industrial Production (YoY) (Jun) | -0.7% | -0.1% | 1.1% |
+| 13:00 | MXN | Industrial Production (MoM) (Jun) | 0.4% | 0.3% | 0.7% |
 | 13:00 | BRL | CPI (MoM) (Jul) | 0.38% | 0.35% | 0.21% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.50% |  | 0.28% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jul) | 5.2% |  | 5.6% |
