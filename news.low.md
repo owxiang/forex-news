@@ -7,8 +7,8 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.5 |  | 48.2 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
-| 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:00 | IDR | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 06:00 | INR | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -131,8 +131,8 @@
 | 13:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (Jul) | 0.32% | 0.29% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:00 | MXN | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
+| 13:00 | MXN | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jun) | -0.6% |  | 0.3% |

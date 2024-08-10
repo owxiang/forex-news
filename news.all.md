@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jul) | 0.4% |  | 0.3% |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.7% |  | 1.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jul) | 52.1 | 51.4 | 51.2 |
-| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q2) | 3.79% | 3.71% | -0.83% |
+| 05:00 | IDR | Low | GDP (YoY) (Q2) | 5.05% | 5.00% | 5.11% |
 | 06:00 | INR | Low | HSBC India Services PMI (Jul) | 60.3 | 61.6 | 60.5 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jun) | -3.7% |  | 2.4% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jun) | -0.6% |  | 2.2% |
@@ -187,8 +187,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Jul) | 1.05% | 1.02% | 0.38% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jul) | 5.57% | 5.57% | 4.98% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 4.05% | 4.02% | 4.13% |
-| 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:00 | MXN | Low | PPI (MoM) (Jul) | 0.70% |  | 1.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Jul) | 5.50% |  | 5.10% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,875K | 1,870K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims | 233K | 241K | 250K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.75K |  | 238.25K |
