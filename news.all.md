@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
 | 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) |  | 0.2% | -0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
 | 10:00 | CNY | Moderate | New Loans (Jul) |  | 1,280.0B | 2,130.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 8.8% | 8.1% |
