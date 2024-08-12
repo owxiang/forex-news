@@ -5,7 +5,7 @@
 | 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 54 min | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Jul) |  |  | 47.5 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jul) |  |  | 48.1 |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 54 min | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | INR | CPI (YoY) (Jul) |  | 3.65% | 5.08% |
 | 13:30 | CAD | Building Permits (MoM) (Jun) |  | 5.6% | -12.2% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
