@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | Low | German Current Account Balance n.s.a (Jun) | 23.2B |  | 18.4B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -22,7 +22,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.070% |  | 5.075% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.795% |  | 4.700% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 55 min | USD | Moderate | Federal Budget Balance (Jul) |  | -254.3B | -66.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jul) | -244.0B | -254.3B | -66.0B |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jul) |  |  | 12.2% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jul) |  |  | 9.7% |
 | 23:45 | NZD | Low | External Migration & Visitors (Jun) |  |  | 12.10% |

@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | GBP | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 07:00 | EUR | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
+| 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Jun) | 23.2B |  | 18.4B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Jul) | 46.9 |  | 47.4 |
