@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | GBP | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 07:00 | EUR | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
+| 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Jun) | 23.2B |  | 18.4B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Jul) | 46.9 |  | 47.4 |
@@ -17,8 +17,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 3.380% |  | 3.245% |
 | 16:30 | USD | 3-Month Bill Auction | 5.070% |  | 5.075% |
 | 16:30 | USD | 6-Month Bill Auction | 4.795% |  | 4.700% |
-| 54 min | KRW | Export Price Index (YoY) (Jul) |  |  | 12.2% |
-| 54 min | KRW | Import Price Index (YoY) (Jul) |  |  | 9.7% |
+| 22:00 | KRW | Export Price Index (YoY) (Jul) | 12.9% |  | 12.1% |
+| 22:00 | KRW | Import Price Index (YoY) (Jul) | 9.8% |  | 9.6% |
 | 23:45 | NZD | External Migration & Visitors (Jun) |  |  | 12.10% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Jun) |  |  | 1,410 |
 | 23:45 | NZD | Visitor Arrivals (MoM) (Jun) |  |  | 4.0% |
