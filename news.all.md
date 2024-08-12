@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
-| 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
+| 27 min | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) |  | 0.2% | -0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
