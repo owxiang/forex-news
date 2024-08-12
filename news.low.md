@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | GBP | BoE Hauser Speaks |  |  |  |
+| 03:00 | GBP | BoE Hauser Speaks |  |  |  |
 | 07:00 | EUR | German WPI (MoM) (Jul) |  | 0.2% | -0.3% |
 | 07:00 | EUR | German WPI (YoY) (Jul) |  |  | -0.6% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
