@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
+| 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | Low | German Current Account Balance n.s.a (Jun) | 23.2B |  | 18.4B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
