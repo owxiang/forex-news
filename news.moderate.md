@@ -7,4 +7,4 @@
 | 13:30 | CAD | Building Permits (MoM) (Jun) | -13.9% | 5.6% | -12.7% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.0% |  | 3.0% |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jul) |  | -254.3B | -66.0B |
+| 55 min | USD | Federal Budget Balance (Jul) |  | -254.3B | -66.0B |
