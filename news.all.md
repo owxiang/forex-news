@@ -1,30 +1,54 @@
-## 12 August 2024 - All Forex News
+## 13 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
-| 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | EUR | Low | German Current Account Balance n.s.a (Jun) | 23.2B |  | 18.4B |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Jul) | 46.9 |  | 47.4 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jul) | 47.0 |  | 48.1 |
-| 13:00 | INR | Moderate | CPI (YoY) (Jul) | 3.54% | 3.65% | 5.08% |
-| 13:00 | INR | Low | Cumulative Industrial Production (Jun) | 5.20% |  | 5.40% |
-| 13:00 | INR | Low | Industrial Production (YoY) (Jun) | 4.2% | 5.5% | 6.2% |
-| 13:00 | INR | Low | Manufacturing Output (MoM) (Jun) | 2.6% |  | 5.0% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Jun) | -13.9% | 5.6% | -12.7% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.053% |  | 2.924% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.553% |  | 3.485% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.380% |  | 3.245% |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.0% |  | 3.0% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 5.070% |  | 5.075% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.795% |  | 4.700% |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Jul) | -244.0B | -254.3B | -66.0B |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Jul) | 12.9% |  | 12.1% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Jul) | 9.8% |  | 9.6% |
-| 38 min | NZD | Low | External Migration & Visitors (Jun) |  |  | 12.10% |
-| 38 min | NZD | Low | Permanent/Long-Term Migration (Jun) |  |  | 1,410 |
-| 38 min | NZD | Low | Visitor Arrivals (MoM) (Jun) |  |  | 4.0% |
+| 44 min | JPY | Low | PPI (MoM) (Jul) |  |  | 0.2% |
+| 44 min | JPY | Low | PPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 54 min | SGD | Low | GDP (QoQ) (Q2) |  | 0.4% | 0.1% |
+| 54 min | SGD | Low | GDP (YoY) (Q3) |  | 2.9% | 3.0% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Aug) |  | 0.5% | -1.1% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Jul) |  |  | 4 |
+| 02:30 | AUD | Low | NAB Business Survey (Jul) |  |  | 4 |
+| 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  |  | 4.1% |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 0.9% | 0.8% |
+| 04:00 | KRW | Low | M3 Money Supply (Jun) |  |  | 5,471.2B |
+| 04:00 | KRW | Low | M2 Money supply (Jun) |  |  | 5.20% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 4.6% | 5.7% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  |  | 5.7% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jul) |  | 14.5K | 32.3K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  |  | 19K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.5% | 4.4% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) |  |  | 9.7% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  | 2.8% | 3.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.5% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.7% | 0.4% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.293% |
+| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.314% |
+| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  |  | -68.9 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | 30.6 | 41.8 |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
+| 10:00 | CNY | Moderate | New Loans (Jul) |  | 1,280.0B | 2,130.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 8.8% | 8.1% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Jul) |  | 1,100.0B | 3,300.0B |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | 35.4 | 43.7 |
+| 10:00 | ZAR | Low | Gold Production (YoY) (Jun) |  |  | -9.0% |
+| 10:00 | ZAR | Low | Mining Production (Jun) |  |  | 0.0% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.730% |
+| 10:30 | ZAR | Low | Unemployment Rate (Q2) |  |  | 32.90% |
+| 10:30 | ZAR | Low | Unemployment (Q2) |  |  | 8.226M |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 91.5 | 91.5 |
+| 11:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.8% |
+| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  |  | 0.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 3.1% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jul) |  | 2.7% | 3.0% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jul) |  | 0.2% | 0.4% |
+| 13:30 | USD | High | PPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 13:30 | USD | Low | PPI (YoY) (Jul) |  | 2.3% | 2.6% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
+| 18:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.180M |

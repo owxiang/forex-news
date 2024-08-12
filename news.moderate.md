@@ -1,10 +1,21 @@
-## 12 August 2024 - Moderate Impact Forex News
+## 13 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | INR | CPI (YoY) (Jul) | 3.54% | 3.65% | 5.08% |
-| 13:30 | CAD | Building Permits (MoM) (Jun) | -13.9% | 5.6% | -12.7% |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.0% |  | 3.0% |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jul) | -244.0B | -254.3B | -66.0B |
+| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | 4 |
+| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | 4 |
+| 02:30 | AUD | Wage Price Index (QoQ) (Q2) |  | 0.9% | 0.8% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Jun) |  |  | 5.7% |
+| 07:00 | GBP | Claimant Count Change (Jul) |  | 14.5K | 32.3K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jun) |  |  | 19K |
+| 07:00 | GBP | Unemployment Rate (Jun) |  | 4.5% | 4.4% |
+| 08:00 | EUR | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 10:00 | EUR | German ZEW Current Conditions (Aug) |  |  | -68.9 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Aug) |  | 30.6 | 41.8 |
+| 10:00 | CNY | New Loans (Jul) |  | 1,280.0B | 2,130.0B |
+| 10:00 | EUR | ZEW Economic Sentiment (Aug) |  | 35.4 | 43.7 |
+| 13:30 | USD | Core PPI (MoM) (Jul) |  | 0.2% | 0.4% |
+| 18:15 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 0.180M |

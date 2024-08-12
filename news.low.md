@@ -1,24 +1,36 @@
-## 12 August 2024 - Low Impact Forex News
+## 13 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | GBP | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
-| 07:00 | EUR | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
-| 12:00 | EUR | German Current Account Balance n.s.a (Jun) | 23.2B |  | 18.4B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Consumer Confidence (Jul) | 46.9 |  | 47.4 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Jul) | 47.0 |  | 48.1 |
-| 13:00 | INR | Cumulative Industrial Production (Jun) | 5.20% |  | 5.40% |
-| 13:00 | INR | Industrial Production (YoY) (Jun) | 4.2% | 5.5% | 6.2% |
-| 13:00 | INR | Manufacturing Output (MoM) (Jun) | 2.6% |  | 5.0% |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.053% |  | 2.924% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.553% |  | 3.485% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.380% |  | 3.245% |
-| 16:30 | USD | 3-Month Bill Auction | 5.070% |  | 5.075% |
-| 16:30 | USD | 6-Month Bill Auction | 4.795% |  | 4.700% |
-| 22:00 | KRW | Export Price Index (YoY) (Jul) | 12.9% |  | 12.1% |
-| 22:00 | KRW | Import Price Index (YoY) (Jul) | 9.8% |  | 9.6% |
-| 38 min | NZD | External Migration & Visitors (Jun) |  |  | 12.10% |
-| 38 min | NZD | Permanent/Long-Term Migration (Jun) |  |  | 1,410 |
-| 38 min | NZD | Visitor Arrivals (MoM) (Jun) |  |  | 4.0% |
+| 44 min | JPY | PPI (MoM) (Jul) |  |  | 0.2% |
+| 44 min | JPY | PPI (YoY) (Jul) |  | 3.0% | 2.9% |
+| 54 min | SGD | GDP (QoQ) (Q2) |  | 0.4% | 0.1% |
+| 54 min | SGD | GDP (YoY) (Q3) |  | 2.9% | 3.0% |
+| 01:30 | AUD | Westpac Consumer Sentiment (Aug) |  | 0.5% | -1.1% |
+| 02:30 | AUD | NAB Business Survey (Jul) |  |  | 4 |
+| 02:30 | AUD | Wage Price Index (YoY) (Q2) |  |  | 4.1% |
+| 04:00 | KRW | M3 Money Supply (Jun) |  |  | 5,471.2B |
+| 04:00 | KRW | M2 Money supply (Jun) |  |  | 5.20% |
+| 07:00 | GBP | Average Earnings ex Bonus (Jun) |  | 4.6% | 5.7% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Jul) |  |  | 9.7% |
+| 08:00 | EUR | Core CPI (YoY) (Jul) |  | 2.8% | 3.0% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) |  | -0.5% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.7% | 0.4% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.293% |
+| 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.314% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jul) |  | 8.8% | 8.1% |
+| 10:00 | CNY | Chinese Total Social Financing (Jul) |  | 1,100.0B | 3,300.0B |
+| 10:00 | ZAR | Gold Production (YoY) (Jun) |  |  | -9.0% |
+| 10:00 | ZAR | Mining Production (Jun) |  |  | 0.0% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.730% |
+| 10:30 | ZAR | Unemployment Rate (Q2) |  |  | 32.90% |
+| 10:30 | ZAR | Unemployment (Q2) |  |  | 8.226M |
+| 11:00 | USD | NFIB Small Business Optimism (Jul) |  | 91.5 | 91.5 |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.8% |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | 0.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 3.1% |
+| 13:30 | USD | Core PPI (YoY) (Jul) |  | 2.7% | 3.0% |
+| 13:30 | USD | PPI (YoY) (Jul) |  | 2.3% | 2.6% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.1% |
