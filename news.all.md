@@ -3,12 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
-| 52 min | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
-| 52 min | CNY | Moderate | New Loans (Jul) |  | 1,280.0B | 2,130.0B |
-| 52 min | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 8.8% | 8.1% |
-| 52 min | CNY | Low | Chinese Total Social Financing (Jul) |  | 1,100.0B | 3,300.0B |
+| 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Jul) |  |  | 47.5 |
