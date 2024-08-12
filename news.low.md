@@ -5,9 +5,9 @@
 | 03:00 | GBP | BoE Hauser Speaks |  |  |  |
 | 07:00 | EUR | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
 | 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jul) |  | 8.8% | 8.1% |
-| 10:00 | CNY | Chinese Total Social Financing (Jul) |  | 1,100.0B | 3,300.0B |
+| 52 min | CNY | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
+| 52 min | CNY | Outstanding Loan Growth (YoY) (Jul) |  | 8.8% | 8.1% |
+| 52 min | CNY | Chinese Total Social Financing (Jul) |  | 1,100.0B | 3,300.0B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Jul) |  |  | 47.5 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jul) |  |  | 48.1 |
