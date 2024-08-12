@@ -15,8 +15,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.053% |  | 2.924% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.553% |  | 3.485% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.380% |  | 3.245% |
-| 23 min | USD | 3-Month Bill Auction |  |  | 5.075% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.700% |
+| 16:30 | USD | 3-Month Bill Auction | 5.070% |  | 5.075% |
+| 16:30 | USD | 6-Month Bill Auction | 4.795% |  | 4.700% |
 | 22:00 | KRW | Export Price Index (YoY) (Jul) |  |  | 12.2% |
 | 22:00 | KRW | Import Price Index (YoY) (Jul) |  |  | 9.7% |
 | 23:45 | NZD | External Migration & Visitors (Jun) |  |  | 12.10% |

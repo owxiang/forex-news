@@ -19,9 +19,9 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.553% |  | 3.485% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.380% |  | 3.245% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.0% |  | 3.0% |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 5.075% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.700% |
-| 53 min | USD | Moderate | WASDE Report |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.070% |  | 5.075% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.795% |  | 4.700% |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) |  | -254.3B | -66.0B |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jul) |  |  | 12.2% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jul) |  |  | 9.7% |
