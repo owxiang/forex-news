@@ -23,8 +23,8 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.795% |  | 4.700% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jul) | -244.0B | -254.3B | -66.0B |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Jul) |  |  | 12.2% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Jul) |  |  | 9.7% |
+| 54 min | KRW | Low | Export Price Index (YoY) (Jul) |  |  | 12.2% |
+| 54 min | KRW | Low | Import Price Index (YoY) (Jul) |  |  | 9.7% |
 | 23:45 | NZD | Low | External Migration & Visitors (Jun) |  |  | 12.10% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Jun) |  |  | 1,410 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) (Jun) |  |  | 4.0% |
