@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
-| 54 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Jul) |  |  | 47.5 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jul) |  |  | 48.1 |
-| 13:00 | INR | Moderate | CPI (YoY) (Jul) |  | 3.65% | 5.08% |
-| 13:00 | INR | Low | Cumulative Industrial Production (Jun) |  |  | 5.40% |
-| 13:00 | INR | Low | Industrial Production (YoY) (Jun) |  | 5.5% | 5.9% |
-| 13:00 | INR | Low | Manufacturing Output (MoM) (Jun) |  |  | 4.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | MXN | Low | Consumer Confidence (Jul) |  |  | 47.5 |
+| 54 min | MXN | Low | Consumer Confidence n.s.a. (Jul) |  |  | 48.1 |
+| 54 min | INR | Moderate | CPI (YoY) (Jul) |  | 3.65% | 5.08% |
+| 54 min | INR | Low | Cumulative Industrial Production (Jun) |  |  | 5.40% |
+| 54 min | INR | Low | Industrial Production (YoY) (Jun) |  | 5.5% | 5.9% |
+| 54 min | INR | Low | Manufacturing Output (MoM) (Jun) |  |  | 4.6% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | 5.6% | -12.2% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 18.5B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.924% |

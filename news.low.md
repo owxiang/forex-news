@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | GBP | BoE Hauser Speaks |  |  |  |
-| 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
 | 07:00 | EUR | German WPI (MoM) (Jul) | 0.3% | 0.2% | -0.3% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Consumer Confidence (Jul) |  |  | 47.5 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Jul) |  |  | 48.1 |
-| 13:00 | INR | Cumulative Industrial Production (Jun) |  |  | 5.40% |
-| 13:00 | INR | Industrial Production (YoY) (Jun) |  | 5.5% | 5.9% |
-| 13:00 | INR | Manufacturing Output (MoM) (Jun) |  |  | 4.6% |
+| 07:00 | EUR | German WPI (YoY) (Jul) | -0.1% |  | -0.6% |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 54 min | MXN | Consumer Confidence (Jul) |  |  | 47.5 |
+| 54 min | MXN | Consumer Confidence n.s.a. (Jul) |  |  | 48.1 |
+| 54 min | INR | Cumulative Industrial Production (Jun) |  |  | 5.40% |
+| 54 min | INR | Industrial Production (YoY) (Jun) |  | 5.5% | 5.9% |
+| 54 min | INR | Manufacturing Output (MoM) (Jun) |  |  | 4.6% |
 | 13:45 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 18.5B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.924% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.485% |
