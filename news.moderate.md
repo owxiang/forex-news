@@ -5,6 +5,6 @@
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | INR | CPI (YoY) (Jul) | 3.54% | 3.65% | 5.08% |
 | 13:30 | CAD | Building Permits (MoM) (Jun) | -13.9% | 5.6% | -12.7% |
-| 53 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) |  |  | 3.0% |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jul) | 3.0% |  | 3.0% |
+| 53 min | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jul) |  | -254.3B | -66.0B |
