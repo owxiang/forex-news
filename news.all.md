@@ -3,9 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 05:00 | IDR | Low | Motorbike Sales (YoY) (Jul) | 26.00% |  | 3.50% |
-| 07:00 | EUR | Low | German WPI (MoM) (Jul) |  | 0.2% | -0.3% |
-| 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
+| 54 min | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
+| 54 min | EUR | Low | German WPI (MoM) (Jul) |  | 0.2% | -0.3% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |
 | 10:00 | CNY | Moderate | New Loans (Jul) |  | 1,280.0B | 2,130.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) |  | 8.8% | 8.1% |
