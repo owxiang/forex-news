@@ -13,17 +13,17 @@
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.9% |
 | 04:00 | KRW | Low | M3 Money Supply (Jun) | 5,492.8B |  | 5,471.2B |
 | 04:00 | KRW | Low | M2 Money supply (Jun) | 5.50% |  | 5.20% |
-| 54 min | GBP | Low | Average Earnings ex Bonus (Jun) |  | 4.6% | 5.7% |
-| 54 min | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  |  | 5.7% |
-| 54 min | GBP | Moderate | Claimant Count Change (Jul) |  | 14.5K | 32.3K |
-| 54 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  |  | 19K |
-| 54 min | GBP | Moderate | Unemployment Rate (Jun) |  | 4.5% | 4.4% |
-| 54 min | JPY | Low | Machine Tool Orders (YoY) (Jul) |  |  | 9.7% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  | 2.8% | 3.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.5% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.7% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) | 5.4% | 4.6% | 5.8% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) | 4.5% |  | 5.7% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jul) | 135.0K | 14.5K | 36.2K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) | 97K |  | 19K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.2% | 4.5% | 4.4% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) | 8.4% |  | 9.7% |
+| 52 min | EUR | Low | Core CPI (YoY) (Jul) |  | 2.8% | 3.0% |
+| 52 min | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.5% | 0.4% |
+| 52 min | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
+| 52 min | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.7% | 0.4% |
+| 52 min | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.293% |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.314% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |

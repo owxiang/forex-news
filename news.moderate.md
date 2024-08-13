@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | NAB Business Confidence (Jul) | 1 |  | 3 |
 | 02:30 | AUD | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.9% |
-| 54 min | GBP | Average Earnings Index +Bonus (Jun) |  |  | 5.7% |
-| 54 min | GBP | Claimant Count Change (Jul) |  | 14.5K | 32.3K |
-| 54 min | GBP | Employment Change 3M/3M (MoM) (Jun) |  |  | 19K |
-| 54 min | GBP | Unemployment Rate (Jun) |  | 4.5% | 4.4% |
-| 08:00 | EUR | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Jun) | 4.5% |  | 5.7% |
+| 07:00 | GBP | Claimant Count Change (Jul) | 135.0K | 14.5K | 36.2K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jun) | 97K |  | 19K |
+| 07:00 | GBP | Unemployment Rate (Jun) | 4.2% | 4.5% | 4.4% |
+| 52 min | EUR | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
+| 52 min | EUR | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Aug) |  |  | -68.9 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Aug) |  | 32.6 | 41.8 |
