@@ -27,8 +27,8 @@
 | 10:30 | ZAR | Unemployment (Q2) | 8.384M |  | 8.226M |
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.380% |  | 2.730% |
 | 11:00 | USD | NFIB Small Business Optimism (Jul) | 93.7 | 91.5 | 91.5 |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 1.3% |  | -0.1% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 1.7% |  | -0.4% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 1.3% |  | -0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.3% |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) | 3.3% |  | 3.2% |
 | 13:30 | USD | Core PPI (YoY) (Jul) | 2.4% | 2.7% | 3.0% |

@@ -40,8 +40,8 @@
 | 10:30 | ZAR | Low | Unemployment (Q2) | 8.384M |  | 8.226M |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.380% |  | 2.730% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 93.7 | 91.5 | 91.5 |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) | 1.3% |  | -0.1% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) | 1.7% |  | -0.4% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) | 1.3% |  | -0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.3% |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 3.3% |  | 3.2% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jul) | 0.0% | 0.2% | 0.3% |
@@ -49,5 +49,5 @@
 | 13:30 | USD | Low | PPI (YoY) (Jul) | 2.2% | 2.3% | 2.7% |
 | 13:30 | USD | High | PPI (MoM) (Jul) | 0.1% | 0.2% | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.7% |  | 5.1% |
-| 18:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 10 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.180M |
