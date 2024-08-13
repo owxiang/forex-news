@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
 | 00:50 | JPY | PPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 01:00 | SGD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.4% |
+| 00:50 | JPY | PPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
 | 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.9% | 3.0% |
-| 6 min | AUD | Westpac Consumer Sentiment (Aug) |  | 0.5% | -1.1% |
-| 02:30 | AUD | NAB Business Survey (Jul) |  |  | 4 |
-| 02:30 | AUD | Wage Price Index (YoY) (Q2) |  |  | 4.1% |
+| 01:00 | SGD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.4% |
+| 01:30 | AUD | Westpac Consumer Sentiment (Aug) | 2.8% | 0.5% | -1.1% |
+| 02:30 | AUD | NAB Business Survey (Jul) | 6 |  | 4 |
+| 02:30 | AUD | Wage Price Index (YoY) (Q2) | 4.1% |  | 4.1% |
 | 04:00 | KRW | M3 Money Supply (Jun) |  |  | 5,471.2B |
 | 04:00 | KRW | M2 Money supply (Jun) |  |  | 5.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jun) |  | 4.6% | 5.7% |

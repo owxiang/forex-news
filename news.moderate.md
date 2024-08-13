@@ -2,9 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | 4 |
-| 02:30 | AUD | NAB Business Confidence (Jul) |  |  | 4 |
-| 02:30 | AUD | Wage Price Index (QoQ) (Q2) |  | 0.9% | 0.8% |
+| 02:30 | AUD | NAB Business Confidence (Jul) | 1 |  | 4 |
+| 02:30 | AUD | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.8% |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jun) |  |  | 5.7% |
 | 07:00 | GBP | Claimant Count Change (Jul) |  | 14.5K | 32.3K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jun) |  |  | 19K |
