@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | PPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
 | 00:50 | JPY | PPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.9% | 3.0% |
 | 01:00 | SGD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.4% |
+| 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.9% | 3.0% |
 | 01:30 | AUD | Westpac Consumer Sentiment (Aug) | 2.8% | 0.5% | -1.1% |
 | 02:30 | AUD | NAB Business Survey (Jul) | 6 |  | 4 |
 | 02:30 | AUD | Wage Price Index (YoY) (Q2) | 4.1% |  | 4.1% |
@@ -27,8 +27,8 @@
 | 10:30 | ZAR | Unemployment (Q2) | 8.384M |  | 8.226M |
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.380% |  | 2.730% |
 | 11:00 | USD | NFIB Small Business Optimism (Jul) | 93.7 | 91.5 | 91.5 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 1.7% |  | -0.4% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 1.3% |  | -0.1% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 1.7% |  | -0.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.3% |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) | 3.3% |  | 3.2% |
 | 13:30 | USD | Core PPI (YoY) (Jul) | 2.4% | 2.7% | 3.0% |
