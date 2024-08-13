@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 00:50 | JPY | PPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
+| 00:50 | JPY | PPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.9% | 3.0% |
 | 01:00 | SGD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.4% |
 | 01:30 | AUD | Westpac Consumer Sentiment (Aug) | 2.8% | 0.5% | -1.1% |
 | 02:30 | AUD | NAB Business Survey (Jul) | 6 |  | 4 |
 | 02:30 | AUD | Wage Price Index (YoY) (Q2) | 4.1% |  | 4.1% |
-| 04:00 | KRW | M3 Money Supply (Jun) |  |  | 5,471.2B |
-| 04:00 | KRW | M2 Money supply (Jun) |  |  | 5.20% |
+| 39 min | KRW | M3 Money Supply (Jun) |  |  | 5,471.2B |
+| 39 min | KRW | M2 Money supply (Jun) |  |  | 5.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jun) |  | 4.6% | 5.7% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jul) |  |  | 9.7% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) |  | 2.8% | 3.0% |
@@ -27,8 +27,8 @@
 | 10:30 | ZAR | Unemployment Rate (Q2) |  |  | 32.90% |
 | 10:30 | ZAR | Unemployment (Q2) |  |  | 8.226M |
 | 11:00 | USD | NFIB Small Business Optimism (Jul) |  | 91.5 | 91.5 |
-| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | 0.0% |
 | 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  |  | 0.8% |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  |  | 0.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  |  | 0.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 3.1% |
 | 13:30 | USD | Core PPI (YoY) (Jul) |  | 2.7% | 3.0% |
