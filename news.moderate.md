@@ -11,10 +11,10 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jul) | 2.9% | 2.9% | 3.6% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Aug) |  |  | -68.9 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Aug) |  | 32.6 | 41.8 |
-| 10:00 | CNY | New Loans (Jul) |  | 1,280.0B | 2,130.0B |
-| 10:00 | EUR | ZEW Economic Sentiment (Aug) |  | 35.4 | 43.7 |
+| 10:00 | EUR | German ZEW Current Conditions (Aug) | -77.3 |  | -68.9 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Aug) | 19.2 | 32.6 | 41.8 |
+| 10:00 | EUR | ZEW Economic Sentiment (Aug) | 17.9 | 35.4 | 43.7 |
+| 10:05 | CNY | New Loans (Jul) | 260.0B |  | 2,130.0B |
 | 13:30 | USD | Core PPI (MoM) (Jul) |  | 0.2% | 0.4% |
 | 18:15 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 0.180M |
