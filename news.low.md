@@ -1,36 +1,68 @@
-## 13 August 2024 - Low Impact Forex News
+## 14 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
-| 00:50 | JPY | PPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 01:00 | SGD | GDP (YoY) (Q3) | 2.9% | 2.9% | 3.0% |
-| 01:00 | SGD | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.4% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Aug) | 2.8% | 0.5% | -1.1% |
-| 02:30 | AUD | NAB Business Survey (Jul) | 6 |  | 4 |
-| 02:30 | AUD | Wage Price Index (YoY) (Q2) | 4.1% |  | 4.1% |
-| 04:00 | KRW | M3 Money Supply (Jun) | 5,492.8B |  | 5,471.2B |
-| 04:00 | KRW | M2 Money supply (Jun) | 5.50% |  | 5.20% |
-| 07:00 | GBP | Average Earnings ex Bonus (Jun) | 5.4% | 4.6% | 5.8% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Jul) | 8.4% |  | 9.7% |
-| 08:00 | EUR | Core CPI (YoY) (Jul) | 2.8% | 2.8% | 3.0% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.5% | -0.5% | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.7% | -0.7% | 0.4% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 3.190% |  | 3.293% |
-| 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.131% |  | 4.314% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Jul) | 6.3% | 6.0% | 6.2% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jul) | 8.7% | 8.8% | 8.8% |
-| 10:00 | CNY | Chinese Total Social Financing (Jul) | 770.0B | 1,100.0B | 3,300.0B |
-| 10:00 | ZAR | Gold Production (YoY) (Jun) | -12.6% |  | -9.0% |
-| 10:00 | ZAR | Mining Production (Jun) | -3.5% |  | 1.3% |
-| 10:30 | ZAR | Unemployment Rate (Q2) | 33.50% |  | 32.90% |
-| 10:30 | ZAR | Unemployment (Q2) | 8.384M |  | 8.226M |
-| 10:50 | EUR | German 2-Year Schatz Auction | 2.380% |  | 2.730% |
-| 11:00 | USD | NFIB Small Business Optimism (Jul) | 93.7 | 91.5 | 91.5 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 1.7% |  | -0.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 1.3% |  | -0.1% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.3% |  | 0.1% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) | 3.3% |  | 3.2% |
-| 13:30 | USD | Core PPI (YoY) (Jul) | 2.4% | 2.7% | 3.0% |
-| 13:30 | USD | PPI (YoY) (Jul) | 2.2% | 2.3% | 2.7% |
-| 13:55 | USD | Redbook (YoY) | 4.7% |  | 5.1% |
+| 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.8% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.56 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 64.52 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.19 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 37.63 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 66.82 |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.612% |
+| 05:30 | NOK | Consumer Confidence (Q3) |  |  | -16.30 |
+| 07:00 | GBP | Core CPI (MoM) (Jul) |  |  | 0.2% |
+| 07:00 | GBP | Core CPI (YoY) (Jul) |  | 3.4% | 3.5% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jul) |  |  | 0.1% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.1% | 1.1% |
+| 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 1.9% |
+| 07:00 | GBP | Core RPI (MoM) (Jul) |  |  | 0.2% |
+| 07:00 | GBP | CPI, n.s.a (Jul) |  |  | 134.10 |
+| 07:00 | GBP | PPI Input (YoY) (Jul) |  |  | -0.4% |
+| 07:00 | GBP | PPI Output (MoM) (Jul) |  | 0.1% | -0.3% |
+| 07:00 | GBP | PPI Output (YoY) (Jul) |  | 1.2% | 1.4% |
+| 07:00 | GBP | RPI (MoM) (Jul) |  |  | 0.2% |
+| 07:00 | GBP | RPI (YoY) (Jul) |  | 3.4% | 2.9% |
+| 07:30 | INR | WPI Food (YoY) (Jul) |  |  | 10.87% |
+| 07:30 | INR | WPI Fuel (YoY) (Jul) |  |  | 1.03% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) |  |  | 1.43% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jul) |  |  | 0.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jul) |  |  | 2.20% |
+| 07:45 | EUR | French CPI (YoY) (Jul) |  | 2.3% | 2.2% |
+| 07:45 | EUR | French HICP (YoY) (Jul) |  | 2.6% | 2.5% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 2.00% |
+| 09:30 | GBP | House Price Index (YoY) |  | 2.6% | 2.2% |
+| 10:00 | EUR | French 6-Year OAT Auction |  |  | 3.01% |
+| 10:00 | EUR | French 7-Year OAT Auction |  |  | 0.23% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) (Q2) |  |  | 1.0% |
+| 10:00 | EUR | Employment Overall (Q2) |  |  | 168,082.0K |
+| 10:00 | EUR | Industrial Production (YoY) (Jun) |  | -2.9% | -2.9% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.590% |
+| 10:30 | ZAR | Business Confidence (Jul) |  |  | 107.8 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.55% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 6.9% |
+| 12:00 | USD | MBA Purchase Index |  |  | 133.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 215.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 661.4 |
+| 12:00 | ZAR | Retail Sales (YoY) (Jun) |  |  | 0.8% |
+| 13:30 | USD | Core CPI Index (Jul) |  |  | 318.35 |
+| 13:30 | USD | CPI Index, n.s.a. (Jul) |  |  | 314.18 |
+| 13:30 | USD | CPI Index, s.a (Jul) |  |  | 313.05 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.03% |
+| 13:30 | USD | Real Earnings (MoM) (Jul) |  |  | 0.3% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.252M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.552M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.056M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.800M | 0.949M |
+| 15:30 | USD | Gasoline Production |  |  | 0.032M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.410M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 15:30 | USD | Gasoline Inventories |  | -1.100M | 1.340M |
+| 16:00 | USD | Cleveland CPI (MoM) (Jul) |  |  | 0.2% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 55.99 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.97 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 59.25 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.55 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.341B |
+| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) |  |  | -4.9% |
+| 23:45 | NZD | FPI (MoM) (Jul) |  |  | 1.0% |
