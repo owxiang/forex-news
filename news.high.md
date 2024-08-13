@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | PPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 21 min | USD | PPI (MoM) (Jul) |  | 0.2% | 0.2% |
