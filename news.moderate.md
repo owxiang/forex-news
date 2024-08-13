@@ -16,5 +16,5 @@
 | 10:00 | CNY | New Loans (Jul) | 260.0B | 1,280.0B | 2,130.0B |
 | 10:00 | EUR | ZEW Economic Sentiment (Aug) | 17.9 | 35.4 | 43.7 |
 | 13:30 | USD | Core PPI (MoM) (Jul) | 0.0% | 0.2% | 0.3% |
-| 10 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:15 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 0.180M |

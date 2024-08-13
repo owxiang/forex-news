@@ -49,5 +49,5 @@
 | 13:30 | USD | Low | PPI (YoY) (Jul) | 2.2% | 2.3% | 2.7% |
 | 13:30 | USD | High | PPI (MoM) (Jul) | 0.1% | 0.2% | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.7% |  | 5.1% |
-| 10 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 18:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.180M |
