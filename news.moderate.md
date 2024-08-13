@@ -17,4 +17,4 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Aug) | 17.9 | 35.4 | 43.7 |
 | 13:30 | USD | Core PPI (MoM) (Jul) | 0.0% | 0.2% | 0.3% |
 | 18:15 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 24 min | USD | API Weekly Crude Oil Stock |  | -2.000M | 0.180M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -5.205M | -2.000M | 0.180M |
