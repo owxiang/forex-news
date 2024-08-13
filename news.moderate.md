@@ -8,8 +8,8 @@
 | 07:00 | GBP | Claimant Count Change (Jul) | 135.0K | 14.5K | 36.2K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jun) | 97K |  | 19K |
 | 07:00 | GBP | Unemployment Rate (Jun) | 4.2% | 4.5% | 4.4% |
-| 52 min | EUR | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
-| 52 min | EUR | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
+| 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.8% | 2.8% | 3.4% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jul) | 2.9% | 2.9% | 3.6% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Aug) |  |  | -68.9 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Aug) |  | 32.6 | 41.8 |

@@ -13,9 +13,9 @@
 | 04:00 | KRW | M2 Money supply (Jun) | 5.50% |  | 5.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jun) | 5.4% | 4.6% | 5.8% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jul) | 8.4% |  | 9.7% |
-| 52 min | EUR | Core CPI (YoY) (Jul) |  | 2.8% | 3.0% |
-| 52 min | EUR | Spanish CPI (MoM) (Jul) |  | -0.5% | 0.4% |
-| 52 min | EUR | Spanish HICP (MoM) (Jul) |  | -0.7% | 0.4% |
+| 08:00 | EUR | Core CPI (YoY) (Jul) | 2.8% | 2.8% | 3.0% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.5% | -0.5% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.7% | -0.7% | 0.4% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.293% |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.314% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Jul) |  | 6.0% | 6.2% |

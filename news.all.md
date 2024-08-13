@@ -19,11 +19,11 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) | 97K |  | 19K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.2% | 4.5% | 4.4% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) | 8.4% |  | 9.7% |
-| 52 min | EUR | Low | Core CPI (YoY) (Jul) |  | 2.8% | 3.0% |
-| 52 min | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.5% | 0.4% |
-| 52 min | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.8% | 3.4% |
-| 52 min | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.7% | 0.4% |
-| 52 min | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.9% | 3.6% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.8% | 2.8% | 3.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.5% | -0.5% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.8% | 2.8% | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.7% | -0.7% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 2.9% | 3.6% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.293% |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.314% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
