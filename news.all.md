@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | PPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
 | 00:50 | JPY | Low | PPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.9% | 3.0% |
+| 00:50 | JPY | Low | PPI (YoY) (Jul) | 3.0% | 3.0% | 2.9% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.4% |
+| 01:00 | SGD | Low | GDP (YoY) (Q3) | 2.9% | 2.9% | 3.0% |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Aug) | 2.8% | 0.5% | -1.1% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jul) | 1 |  | 3 |
 | 02:30 | AUD | Low | NAB Business Survey (Jul) | 6 |  | 4 |
-| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.9% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 4.1% |  | 4.1% |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.9% |
 | 04:00 | KRW | Low | M3 Money Supply (Jun) | 5,492.8B |  | 5,471.2B |
 | 04:00 | KRW | Low | M2 Money supply (Jun) | 5.50% |  | 5.20% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jun) | 5.4% | 4.6% | 5.8% |
@@ -20,10 +20,10 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.2% | 4.5% | 4.4% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jul) | 8.4% |  | 9.7% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.8% | 2.8% | 3.0% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.5% | -0.5% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 2.9% | 3.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.7% | -0.7% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.9% | 2.9% | 3.6% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.190% |  | 3.293% |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.131% |  | 4.314% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -40,14 +40,14 @@
 | 10:30 | ZAR | Low | Unemployment (Q2) | 8.384M |  | 8.226M |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.380% |  | 2.730% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jul) | 93.7 | 91.5 | 91.5 |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) | 1.7% |  | -0.4% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) | 1.3% |  | -0.1% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) | 1.7% |  | -0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.3% |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 3.3% |  | 3.2% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jul) | 2.4% | 2.7% | 3.0% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jul) | 0.0% | 0.2% | 0.3% |
-| 13:30 | USD | High | PPI (MoM) (Jul) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jul) | 2.4% | 2.7% | 3.0% |
 | 13:30 | USD | Low | PPI (YoY) (Jul) | 2.2% | 2.3% | 2.7% |
+| 13:30 | USD | High | PPI (MoM) (Jul) | 0.1% | 0.2% | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.7% |  | 5.1% |
 | 18:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.180M |
