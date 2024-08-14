@@ -22,8 +22,8 @@
 | 07:00 | GBP | Low | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
-| 07:00 | GBP | Low | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
 | 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
+| 07:00 | GBP | Low | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
 | 07:00 | INR | Low | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
 | 07:00 | INR | Moderate | WPI Inflation (YoY) (Jul) | 2.04% | 2.39% | 3.36% |
 | 07:00 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
@@ -31,8 +31,8 @@
 | 07:30 | NOK | Low | Consumer Confidence (Q3) | -16.30 |  | -18.30 |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.30% |  | 2.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.2% | 0.1% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.7% | 2.6% | 2.5% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 2.20% |  | 2.00% |
@@ -47,8 +47,8 @@
 | 10:00 | EUR | Low | Employment Overall (Q2) | 168,403.5K |  | 168,029.8K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jun) | -3.9% | -2.9% | -3.3% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jun) | -0.1% | 0.4% | -0.9% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jun) | -3.9% | -2.9% | -3.3% |
 | 10:30 | ZAR | Low | Business Confidence (Jun) | 109.0 |  | 107.8 |
 | 10:31 | ZAR | Low | Business Confidence (Jul) | 109.1 |  | 109.0 |
 | 10:50 | EUR | Low | German 30-Year Bund Auction | 2.450% |  | 2.590% |
@@ -63,8 +63,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Jul) | 0.2% | 0.2% | 0.1% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jul) | 3.2% | 3.2% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Jul) | 318.87 |  | 318.35 |
-| 13:30 | USD | High | CPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
 | 13:30 | USD | High | CPI (YoY) (Jul) | 2.9% | 3.0% | 3.0% |
+| 13:30 | USD | High | CPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jul) | 314.54 |  | 314.18 |
 | 13:30 | USD | Low | CPI Index, s.a (Jul) | 313.53 |  | 313.05 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jul) | 0.12% |  | 0.03% |
@@ -80,13 +80,12 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 0.4% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.894M | -1.100M | 1.340M |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 55.99 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.06 |  | 46.97 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 51.99 |  | 59.25 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.09 |  | 51.55 |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.341B |
 | 19:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 20:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -4.9% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | -0.6% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -4.9% |
 | 23:45 | NZD | Low | FPI (MoM) (Jul) |  |  | 1.0% |

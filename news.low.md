@@ -15,8 +15,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
 | 07:00 | GBP | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
-| 07:00 | GBP | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
 | 07:00 | GBP | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
+| 07:00 | GBP | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
 | 07:00 | INR | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
 | 07:00 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
 | 07:30 | INR | WPI Food (YoY) (Jul) | 3.45% |  | 10.87% |
@@ -59,7 +59,6 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 0.4% |
 | 15:30 | USD | Gasoline Inventories | -2.894M | -1.100M | 1.340M |
 | 16:00 | USD | Cleveland CPI (MoM) (Jul) | 0.3% |  | 0.2% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 55.99 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.06 |  | 46.97 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 51.99 |  | 59.25 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.09 |  | 51.55 |
