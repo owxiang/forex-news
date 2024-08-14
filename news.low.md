@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.8% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 10 |  | 11 |
-| 23 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.56 |
-| 23 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 64.52 |
-| 23 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.19 |
-| 23 min | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 37.63 |
-| 23 min | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 66.82 |
-| 28 min | JPY | 5-Year JGB Auction |  |  | 0.612% |
-| 05:30 | NOK | Consumer Confidence (Q3) |  |  | -16.30 |
+| 04:35 | JPY | 5-Year JGB Auction | 0.452% |  | 0.612% |
+| 05:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.56 |
+| 05:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 64.52 |
+| 05:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.19 |
+| 05:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 37.63 |
+| 05:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 66.82 |
+| 21 min | NOK | Consumer Confidence (Q3) |  |  | -16.30 |
 | 07:00 | GBP | Core CPI (YoY) (Jul) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Jul) |  |  | 0.2% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jul) |  |  | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.1% | 1.1% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jul) |  |  | 0.1% |
 | 07:00 | GBP | Core RPI (MoM) (Jul) |  |  | 0.2% |
 | 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 1.9% |
 | 07:00 | GBP | CPI, n.s.a (Jul) |  |  | 134.10 |
@@ -26,8 +26,8 @@
 | 07:30 | INR | WPI Food (YoY) (Jul) |  |  | 10.87% |
 | 07:30 | INR | WPI Fuel (YoY) (Jul) |  |  | 1.03% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) |  |  | 1.43% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) |  |  | 0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jul) |  |  | 2.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jul) |  |  | 0.10% |
 | 07:45 | EUR | French CPI (YoY) (Jul) |  | 2.3% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) |  | 2.6% | 2.5% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 2.00% |
