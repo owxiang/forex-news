@@ -13,10 +13,10 @@
 | 10:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Industrial Production (MoM) (Jun) | -0.1% | 0.4% | -0.9% |
-| 13:00 | BRL | Retail Sales (YoY) (Jun) | 4.0% |  | 7.8% |
 | 13:00 | BRL | Retail Sales (MoM) (Jun) | -1.0% |  | 0.9% |
+| 13:00 | BRL | Retail Sales (YoY) (Jun) | 4.0% |  | 7.8% |
 | 13:30 | USD | Core CPI (YoY) (Jul) | 3.2% | 3.2% | 3.3% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.579M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -1.665M |  | 0.579M |
 | 19:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 20:30 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  |  | -0.6% |
