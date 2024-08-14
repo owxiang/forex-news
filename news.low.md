@@ -5,28 +5,31 @@
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.8% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 10 |  | 11 |
 | 04:35 | JPY | 5-Year JGB Auction | 0.452% |  | 0.612% |
-| 07:00 | GBP | Core CPI (YoY) (Jul) | 3.3% | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Jul) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jul) | 0.0% |  | 0.1% |
+| 07:00 | GBP | Core CPI (YoY) (Jul) | 3.3% | 3.4% | 3.5% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jul) | 1.0% | 1.1% | 1.1% |
-| 07:00 | GBP | Core RPI (YoY) (Jul) | 2.7% |  | 1.9% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jul) | 0.0% |  | 0.1% |
 | 07:00 | GBP | Core RPI (MoM) (Jul) | 0.0% |  | 0.2% |
+| 07:00 | GBP | Core RPI (YoY) (Jul) | 2.7% |  | 1.9% |
 | 07:00 | GBP | CPI, n.s.a (Jul) | 133.80 |  | 134.10 |
 | 07:00 | GBP | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
-| 07:00 | GBP | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
 | 07:00 | GBP | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
+| 07:00 | GBP | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
 | 07:00 | GBP | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
 | 07:00 | GBP | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | INR | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
 | 07:00 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
 | 07:30 | INR | WPI Food (YoY) (Jul) | 3.45% |  | 10.87% |
 | 07:30 | NOK | Consumer Confidence (Q3) | -16.30 |  | -18.30 |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jul) | 2.30% |  | 2.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.10% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 2.7% | 2.6% | 2.5% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 2.20% |  | 2.00% |
 | 09:30 | GBP | House Price Index (YoY) | 2.7% | 2.6% | 2.2% |
+| 10:00 | INR | Exports (USD) (Jul) | 33.98B |  | 35.20B |
+| 10:00 | INR | Imports (USD) (Jul) | 57.48B |  | 56.18B |
+| 10:00 | INR | Trade Balance (Jul) | -23.50B |  | -20.98B |
 | 10:00 | EUR | French 6-Year OAT Auction | 2.65% |  | 3.01% |
 | 10:00 | EUR | French 7-Year OAT Auction | 2.70% |  | 2.65% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
@@ -36,20 +39,17 @@
 | 10:30 | ZAR | Business Confidence (Jun) | 109.0 |  | 107.8 |
 | 10:31 | ZAR | Business Confidence (Jul) | 109.1 |  | 109.0 |
 | 10:50 | EUR | German 30-Year Bund Auction | 2.450% |  | 2.590% |
-| 11:33 | INR | Imports (USD) (Jul) | 57.48B |  | 56.18B |
-| 11:33 | INR | Trade Balance (Jul) | -23.50B |  | -20.98B |
-| 11:57 | INR | Exports (USD) (Jul) | 33.98B |  | 35.20B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.54% |  | 6.55% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 16.8% |  | 6.9% |
 | 12:00 | USD | MBA Purchase Index | 137.7 |  | 133.9 |
 | 12:00 | USD | Mortgage Market Index | 251.3 |  | 215.1 |
 | 12:00 | USD | Mortgage Refinance Index | 889.3 |  | 661.4 |
 | 12:00 | ZAR | Retail Sales (YoY) (Jun) | 4.1% |  | 1.1% |
-| 13:30 | USD | Core CPI Index (Jul) |  |  | 318.35 |
-| 13:30 | USD | CPI Index, n.s.a. (Jul) |  |  | 314.18 |
-| 13:30 | USD | CPI Index, s.a (Jul) |  |  | 313.05 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.03% |
-| 13:30 | USD | Real Earnings (MoM) (Jul) |  |  | 0.3% |
+| 21 min | USD | Core CPI Index (Jul) |  |  | 318.35 |
+| 21 min | USD | CPI Index, n.s.a. (Jul) |  |  | 314.18 |
+| 21 min | USD | CPI Index, s.a (Jul) |  |  | 313.05 |
+| 21 min | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.03% |
+| 21 min | USD | Real Earnings (MoM) (Jul) |  |  | 0.3% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.252M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.552M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.056M |
