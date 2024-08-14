@@ -5,10 +5,10 @@
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.8% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 10 |  | 11 |
 | 04:35 | JPY | 5-Year JGB Auction | 0.452% |  | 0.612% |
-| 07:00 | GBP | Core CPI (YoY) (Jul) | 3.3% | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Jul) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jul) | 0.0% |  | 0.1% |
+| 07:00 | GBP | Core CPI (YoY) (Jul) | 3.3% | 3.4% | 3.5% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jul) | 1.0% | 1.1% | 1.1% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jul) | 0.0% |  | 0.1% |
 | 07:00 | GBP | Core RPI (MoM) (Jul) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Core RPI (YoY) (Jul) | 2.7% |  | 1.9% |
 | 07:00 | GBP | CPI, n.s.a (Jul) | 133.80 |  | 134.10 |
@@ -21,8 +21,8 @@
 | 07:00 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
 | 07:30 | INR | WPI Food (YoY) (Jul) | 3.45% |  | 10.87% |
 | 07:30 | NOK | Consumer Confidence (Q3) | -16.30 |  | -18.30 |
-| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jul) | 2.30% |  | 2.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.10% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 2.7% | 2.6% | 2.5% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 2.20% |  | 2.00% |
@@ -32,8 +32,8 @@
 | 10:00 | INR | Trade Balance (Jul) | -23.50B |  | -20.98B |
 | 10:00 | EUR | French 6-Year OAT Auction | 2.65% |  | 3.01% |
 | 10:00 | EUR | French 7-Year OAT Auction | 2.70% |  | 2.65% |
-| 10:00 | EUR | Employment Change (YoY) (Q2) | 0.8% |  | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) (Q2) | 0.8% |  | 1.0% |
 | 10:00 | EUR | Employment Overall (Q2) | 168,403.5K |  | 168,029.8K |
 | 10:00 | EUR | Industrial Production (YoY) (Jun) | -3.9% | -2.9% | -3.3% |
 | 10:30 | ZAR | Business Confidence (Jun) | 109.0 |  | 107.8 |
@@ -59,9 +59,10 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 0.4% |
 | 15:30 | USD | Gasoline Inventories | -2.894M | -1.100M | 1.340M |
 | 16:00 | USD | Cleveland CPI (MoM) (Jul) | 0.3% |  | 0.2% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) | 55.27 |  | 55.99 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.06 |  | 46.97 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 51.99 |  | 59.25 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 53.09 |  | 51.55 |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.341B |
+| 18:30 | BRL | Foreign Exchange Flows | -0.836B |  | 1.341B |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) |  |  | -4.9% |
 | 23:45 | NZD | FPI (MoM) (Jul) |  |  | 1.0% |
