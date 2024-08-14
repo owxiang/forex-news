@@ -9,19 +9,19 @@
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.452% |  | 0.612% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jul) | 3.3% | 3.4% | 3.5% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) | 1.0% | 1.1% | 1.1% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jul) | 0.0% |  | 0.1% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Jul) | 0.0% |  | 0.2% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) | 1.0% | 1.1% | 1.1% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 2.7% |  | 1.9% |
-| 07:00 | GBP | High | CPI (YoY) (Jul) | 2.2% | 2.3% | 2.0% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Jul) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jul) | -0.2% |  | 0.1% |
+| 07:00 | GBP | High | CPI (YoY) (Jul) | 2.2% | 2.3% | 2.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jul) | 133.80 |  | 134.10 |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Jul) | -0.1% | -0.3% | -0.4% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
 | 07:00 | GBP | Low | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
 | 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | INR | Low | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
@@ -29,25 +29,28 @@
 | 07:00 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
 | 07:30 | INR | Low | WPI Food (YoY) (Jul) | 3.45% |  | 10.87% |
 | 07:30 | NOK | Low | Consumer Confidence (Q3) | -16.30 |  | -18.30 |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.30% |  | 2.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.10% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.30% |  | 2.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.7% | 2.6% | 2.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.2% | 0.1% | 0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 2.20% |  | 2.00% |
-| 23 min | GBP | Low | House Price Index (YoY) |  | 2.6% | 2.2% |
-| 53 min | EUR | Low | French 6-Year OAT Auction |  |  | 3.01% |
-| 53 min | EUR | Low | French 7-Year OAT Auction |  |  | 2.65% |
-| 53 min | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 53 min | EUR | Low | Employment Change (YoY) (Q2) |  |  | 1.0% |
-| 53 min | EUR | Low | Employment Overall (Q2) |  |  | 168,082.0K |
-| 53 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 53 min | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
-| 53 min | EUR | Low | Industrial Production (YoY) (Jun) |  | -2.9% | -2.9% |
-| 53 min | EUR | Moderate | Industrial Production (MoM) (Jun) |  | 0.4% | -0.6% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.590% |
-| 10:30 | ZAR | Low | Business Confidence (Jul) |  |  | 107.8 |
+| 09:30 | GBP | Low | House Price Index (YoY) | 2.7% | 2.6% | 2.2% |
+| 09:41 | INR | Low | Imports (USD) (Jul) | 57.48B |  | 56.18B |
+| 09:41 | INR | Low | Trade Balance (Jul) | -23.50B |  | -20.98B |
+| 09:44 | INR | Low | Exports (USD) (Jul) | 33.98B |  | 35.20B |
+| 10:00 | EUR | Low | French 6-Year OAT Auction | 2.65% |  | 3.01% |
+| 10:00 | EUR | Low | French 7-Year OAT Auction | 2.70% |  | 2.65% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% |  | 1.0% |
+| 10:00 | EUR | Low | Employment Overall (Q2) |  |  | 168,082.0K |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jun) | -3.9% | -2.9% | -3.3% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jun) | -0.1% | 0.4% | -0.9% |
+| 24 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.590% |
+| 24 min | ZAR | Low | Business Confidence (Jul) |  |  | 107.8 |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.55% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 6.9% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 133.9 |

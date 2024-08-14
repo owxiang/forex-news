@@ -10,9 +10,9 @@
 | 07:00 | INR | WPI Inflation (YoY) (Jul) | 2.04% | 2.39% | 3.36% |
 | 07:45 | EUR | French CPI (MoM) (Jul) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jul) | 0.2% | 0.1% | 0.2% |
-| 53 min | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 53 min | EUR | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
-| 53 min | EUR | Industrial Production (MoM) (Jun) |  | 0.4% | -0.6% |
+| 10:00 | EUR | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
+| 10:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | Industrial Production (MoM) (Jun) | -0.1% | 0.4% | -0.9% |
 | 13:00 | BRL | Retail Sales (YoY) (Jun) |  |  | 8.1% |
 | 13:00 | BRL | Retail Sales (MoM) (Jun) |  |  | 1.2% |
 | 13:30 | USD | Core CPI (YoY) (Jul) |  | 3.2% | 3.3% |
