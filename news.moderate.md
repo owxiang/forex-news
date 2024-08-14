@@ -5,11 +5,11 @@
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 54 min | GBP | CPI (MoM) (Jul) |  |  | 0.1% |
-| 54 min | GBP | PPI Input (MoM) (Jul) |  | -0.3% | -0.8% |
-| 07:30 | INR | WPI Inflation (YoY) (Jul) |  | 2.39% | 3.36% |
-| 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.1% | 0.1% |
-| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.1% | 0.2% |
+| 07:00 | GBP | CPI (MoM) (Jul) | -0.2% |  | 0.1% |
+| 07:00 | GBP | PPI Input (MoM) (Jul) | -0.1% | -0.3% | -0.4% |
+| 07:00 | INR | WPI Inflation (YoY) (Jul) | 2.04% | 2.39% | 3.36% |
+| 38 min | EUR | French CPI (MoM) (Jul) |  | 0.1% | 0.1% |
+| 38 min | EUR | French HICP (MoM) (Jul) |  | 0.1% | 0.2% |
 | 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
 | 10:00 | EUR | Industrial Production (MoM) (Jun) |  | 0.4% | -0.6% |
