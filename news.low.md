@@ -15,8 +15,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
 | 07:00 | GBP | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
-| 07:00 | GBP | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | GBP | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
+| 07:00 | GBP | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | INR | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
 | 07:00 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
 | 07:30 | INR | WPI Food (YoY) (Jul) | 3.45% |  | 10.87% |

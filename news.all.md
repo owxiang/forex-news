@@ -22,8 +22,8 @@
 | 07:00 | GBP | Low | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
-| 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Low | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
+| 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | INR | Low | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
 | 07:00 | INR | Moderate | WPI Inflation (YoY) (Jul) | 2.04% | 2.39% | 3.36% |
 | 07:00 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
