@@ -13,15 +13,15 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jul) | 0.0% |  | 0.1% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Jul) | 1.0% | 1.1% | 1.1% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 2.7% |  | 1.9% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jul) | 0.0% |  | 0.2% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Jul) | -0.2% |  | 0.1% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jul) | 2.7% |  | 1.9% |
 | 07:00 | GBP | High | CPI (YoY) (Jul) | 2.2% | 2.3% | 2.0% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jul) | -0.2% |  | 0.1% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jul) | 133.80 |  | 134.10 |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Jul) | -0.1% | -0.3% | -0.4% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
 | 07:00 | GBP | Low | RPI (YoY) (Jul) | 3.6% | 3.4% | 2.9% |
 | 07:00 | GBP | Low | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | INR | Low | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
@@ -33,8 +33,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jul) | 2.30% |  | 2.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.7% | 2.6% | 2.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.2% | 0.1% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 2.7% | 2.6% | 2.5% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 2.20% |  | 2.00% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.7% | 2.6% | 2.2% |
 | 10:00 | INR | Low | Exports (USD) (Jul) | 33.98B |  | 35.20B |
@@ -45,8 +45,8 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% |  | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q2) | 168,403.5K |  | 168,029.8K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jun) | -3.9% | -2.9% | -3.3% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jun) | -0.1% | 0.4% | -0.9% |
 | 10:30 | ZAR | Low | Business Confidence (Jun) | 109.0 |  | 107.8 |
@@ -60,8 +60,8 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jun) | 4.1% |  | 1.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | -1.0% |  | 0.9% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 4.0% |  | 7.8% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) | 3.2% | 3.2% | 3.3% |
 | 13:30 | USD | High | Core CPI (MoM) (Jul) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jul) | 3.2% | 3.2% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Jul) | 318.87 |  | 318.35 |
 | 13:30 | USD | High | CPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
 | 13:30 | USD | High | CPI (YoY) (Jul) | 2.9% | 3.0% | 3.0% |
@@ -87,6 +87,6 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.836B |  | 1.341B |
 | 19:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 20:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | -0.6% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  |  | -4.9% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  |  | -0.6% |
 | 23:45 | NZD | Low | FPI (MoM) (Jul) |  |  | 1.0% |
