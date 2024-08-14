@@ -5,12 +5,14 @@
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.8% |
 | 00:00 | JPY | Reuters Tankan Index (Aug) | 10 |  | 11 |
 | 04:35 | JPY | 5-Year JGB Auction | 0.452% |  | 0.612% |
-| 07:00 | GBP | Core CPI (MoM) (Jul) | 0.1% |  | 0.2% |
+| 06:30 | NOK | Consumer Confidence (Q3) | -16.30 |  | -18.30 |
 | 07:00 | GBP | Core CPI (YoY) (Jul) | 3.3% | 3.4% | 3.5% |
-| 07:00 | GBP | Core PPI Output (YoY) (Jul) | 1.0% | 1.1% | 1.1% |
+| 07:00 | GBP | Core CPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Core PPI Output (MoM) (Jul) | 0.0% |  | 0.1% |
-| 07:00 | GBP | Core RPI (MoM) (Jul) | 0.0% |  | 0.2% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jul) | 1.0% | 1.1% | 1.1% |
 | 07:00 | GBP | Core RPI (YoY) (Jul) | 2.7% |  | 1.9% |
+| 07:00 | GBP | Core RPI (MoM) (Jul) | 0.0% |  | 0.2% |
+| 07:00 | GBP | CPI, n.s.a (Jul) | 133.80 |  | 134.10 |
 | 07:00 | GBP | PPI Input (YoY) (Jul) | 0.4% |  | 0.0% |
 | 07:00 | GBP | PPI Output (MoM) (Jul) | 0.0% | 0.1% | -0.7% |
 | 07:00 | GBP | PPI Output (YoY) (Jul) | 0.8% | 1.2% | 1.0% |
@@ -18,13 +20,12 @@
 | 07:00 | GBP | RPI (MoM) (Jul) | 0.1% |  | 0.2% |
 | 07:00 | INR | WPI Fuel (YoY) (Jul) | 1.72% |  | 1.03% |
 | 07:00 | INR | WPI Manufacturing Inflation (YoY) (Jul) | 1.58% |  | 1.43% |
-| 23 min | GBP | CPI, n.s.a (Jul) |  |  | 134.10 |
-| 23 min | INR | WPI Food (YoY) (Jul) |  |  | 10.87% |
-| 38 min | EUR | French CPI NSA (MoM) (Jul) |  |  | 0.10% |
-| 38 min | EUR | French CPI NSA (YoY) (Jul) |  |  | 2.20% |
-| 38 min | EUR | French CPI (YoY) (Jul) |  | 2.3% | 2.2% |
-| 38 min | EUR | French HICP (YoY) (Jul) |  | 2.6% | 2.5% |
-| 38 min | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 2.00% |
+| 07:30 | INR | WPI Food (YoY) (Jul) | 3.45% |  | 10.87% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jul) | 2.30% |  | 2.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jul) | 0.20% |  | 0.10% |
+| 07:45 | EUR | French CPI (YoY) (Jul) | 2.3% | 2.3% | 2.2% |
+| 07:45 | EUR | French HICP (YoY) (Jul) | 2.7% | 2.6% | 2.5% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 2.20% |  | 2.00% |
 | 09:30 | GBP | House Price Index (YoY) |  | 2.6% | 2.2% |
 | 10:00 | EUR | French 6-Year OAT Auction |  |  | 3.01% |
 | 10:00 | EUR | French 7-Year OAT Auction |  |  | 0.23% |
