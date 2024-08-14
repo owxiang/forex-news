@@ -3,25 +3,26 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jul) | 2.5% |  | 2.8% |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.56 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 64.52 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.19 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 37.63 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 66.82 |
+| 00:00 | JPY | Reuters Tankan Index (Aug) | 10 |  | 11 |
+| 28 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.56 |
+| 28 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 64.52 |
+| 28 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.19 |
+| 28 min | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 37.63 |
+| 28 min | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 66.82 |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.612% |
 | 05:30 | NOK | Consumer Confidence (Q3) |  |  | -16.30 |
 | 07:00 | GBP | Core CPI (YoY) (Jul) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Jul) |  |  | 0.2% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.1% | 1.1% |
 | 07:00 | GBP | Core PPI Output (MoM) (Jul) |  |  | 0.1% |
-| 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 1.9% |
 | 07:00 | GBP | Core RPI (MoM) (Jul) |  |  | 0.2% |
+| 07:00 | GBP | Core RPI (YoY) (Jul) |  |  | 1.9% |
 | 07:00 | GBP | CPI, n.s.a (Jul) |  |  | 134.10 |
 | 07:00 | GBP | PPI Input (YoY) (Jul) |  |  | -0.4% |
 | 07:00 | GBP | PPI Output (YoY) (Jul) |  | 1.2% | 1.4% |
 | 07:00 | GBP | PPI Output (MoM) (Jul) |  | 0.1% | -0.3% |
-| 07:00 | GBP | RPI (MoM) (Jul) |  |  | 0.2% |
 | 07:00 | GBP | RPI (YoY) (Jul) |  | 3.4% | 2.9% |
+| 07:00 | GBP | RPI (MoM) (Jul) |  |  | 0.2% |
 | 07:30 | INR | WPI Food (YoY) (Jul) |  |  | 10.87% |
 | 07:30 | INR | WPI Fuel (YoY) (Jul) |  |  | 1.03% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) |  |  | 1.43% |
@@ -33,8 +34,8 @@
 | 09:30 | GBP | House Price Index (YoY) |  | 2.6% | 2.2% |
 | 10:00 | EUR | French 6-Year OAT Auction |  |  | 3.01% |
 | 10:00 | EUR | French 7-Year OAT Auction |  |  | 0.23% |
-| 10:00 | EUR | Employment Change (YoY) (Q2) |  |  | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) (Q2) |  |  | 1.0% |
 | 10:00 | EUR | Employment Overall (Q2) |  |  | 168,082.0K |
 | 10:00 | EUR | Industrial Production (YoY) (Jun) |  | -2.9% | -2.9% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.590% |
