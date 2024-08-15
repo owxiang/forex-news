@@ -30,8 +30,8 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | -4.2% | -3.6% | 3.6% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
