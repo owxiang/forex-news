@@ -30,15 +30,15 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | -4.2% | -3.6% | 3.6% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.9% | 1.1% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | 1.1% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | -1.5% | -2.4% | 0.4% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.6% | 0.7% | 0.8% |
@@ -59,10 +59,10 @@
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) | 0.5% |  | 0.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,864K | 1,880K | 1,871K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) | 0.4% | 0.1% | 0.5% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jul) | 1.4% |  | 1.0% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) | 0.7% | 0.0% | -0.3% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | 0.1% | -0.1% | 0.0% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jul) | 1.4% |  | 1.0% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) | 1.6% |  | 1.5% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | 0.1% | -0.1% | 0.0% |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 236K | 234K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.50K |  | 241.00K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) | -4.70 | -5.90 | -6.60 |
@@ -90,10 +90,10 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.175% |  | 5.190% |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.4% | 2.9% | 2.9% |
 | 18:10 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Jun) |  |  | 45.90B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Jun) |  |  | 15.80B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) |  | 56.3B | -54.6B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) |  |  | -54.60B |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Jun) | 9.80B |  | 44.70B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Jun) | 107.50B |  | 16.10B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) | 96.1B | 56.3B | -54.1B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) | 96.10B |  | -54.10B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,175B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.373T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jul) |  |  | 41.1 |

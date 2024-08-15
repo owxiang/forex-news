@@ -16,8 +16,8 @@
 | 05:00 | IDR | Trade Balance (Jul) | 0.47B | 2.45B | 2.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) | -3.1% |  | 4.1% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
-| 07:00 | GBP | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
+| 07:00 | GBP | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 07:00 | GBP | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
 | 07:00 | GBP | Index of Services | 0.8% | 0.9% | 1.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
@@ -46,8 +46,8 @@
 | 15:30 | USD | Natural Gas Storage | -6B | 43B | 21B |
 | 16:30 | USD | 4-Week Bill Auction | 5.260% |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction | 5.175% |  | 5.190% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Jun) |  |  | 45.90B |
-| 21:00 | USD | Overall Net Capital Flow (Jun) |  |  | 15.80B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jun) |  |  | -54.60B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Jun) | 9.80B |  | 44.70B |
+| 21:00 | USD | Overall Net Capital Flow (Jun) | 107.50B |  | 16.10B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jun) | 96.10B |  | -54.10B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.373T |
 | 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.6% | 0.9% |
