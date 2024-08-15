@@ -11,13 +11,13 @@
 | 02:30 | CNY | House Prices (YoY) (Jul) | -4.9% |  | -4.5% |
 | 03:00 | CNY | Retail Sales (YoY) (Jul) | 2.7% | 2.6% | 2.0% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 3.55% |  | 3.68% |
-| 05:00 | IDR | Export Growth (YoY) (Jul) |  | 3.85% | 1.17% |
+| 05:00 | IDR | Export Growth (YoY) (Jul) | 6.46% | 3.85% | 1.17% |
 | 05:00 | IDR | Import Growth (YoY) (Jul) |  | 0.04% | 7.58% |
 | 05:00 | IDR | Trade Balance (Jul) |  | 2.45B | 2.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) |  |  | 4.1% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) |  |  | -1.0% |
-| 07:00 | GBP | Construction Output (MoM) (Jun) |  | -0.3% | 1.9% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jun) |  | -1.9% | 0.8% |
+| 07:00 | GBP | Construction Output (MoM) (Jun) |  | -0.3% | 1.9% |
 | 07:00 | GBP | GDP (YoY) (Jun) |  | 0.8% | 1.4% |
 | 07:00 | GBP | Index of Services |  | 0.9% | 1.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Jun) |  | -2.1% | 0.4% |

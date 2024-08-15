@@ -21,7 +21,7 @@
 | 07:00 | GBP | Trade Balance (Jun) |  | -16.00B | -17.92B |
 | 07:00 | GBP | Trade Balance Non-EU (Jun) |  |  | -6.86B |
 | 07:30 | CHF | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 09:00 | NOK | Interest Rate Decision |  |  | 4.50% |
+| 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | GBP | Labour Productivity (Q2) |  | -0.3% | -0.3% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.6% |
@@ -32,8 +32,8 @@
 | 13:30 | USD | Philly Fed Employment (Aug) |  |  | 15.2 |
 | 13:30 | USD | Retail Control (MoM) (Jul) |  |  | 0.9% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | -0.6% | -0.8% |
-| 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 1.58% |
 | 14:15 | USD | Industrial Production (MoM) (Jul) |  | -0.3% | 0.6% |
+| 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 1.58% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.3% | 0.5% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jun) |  | 0.2% | 0.0% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |

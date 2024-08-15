@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 3.1% | 2.1% | -2.3% |
 | 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.8% | 0.6% | -0.6% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 3.1% | 2.1% | -2.3% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.9% | 0.9% | -0.4% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.5% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.0% | 2.6% | 3.4% |
@@ -23,18 +23,18 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) | 3.55% |  | 3.68% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 05:00 | IDR | Low | Export Growth (YoY) (Jul) |  | 3.85% | 1.17% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Jul) | 6.46% | 3.85% | 1.17% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Jul) |  | 0.04% | 7.58% |
 | 05:00 | IDR | Low | Trade Balance (Jul) |  | 2.45B | 2.39B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) |  |  | 4.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) |  | -3.6% | 3.6% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  |  | -1.0% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | 0.4% | 0.5% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jun) |  | -0.3% | 1.9% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  |  | -1.0% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) |  | -1.9% | 0.8% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jun) |  | -0.3% | 1.9% |
+| 07:00 | GBP | High | GDP (YoY) (Q2) |  | 0.9% | 0.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.6% | 0.7% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) |  | 0.0% | 0.4% |
-| 07:00 | GBP | High | GDP (YoY) (Q2) |  | 0.9% | 0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) |  | 0.8% | 1.4% |
 | 07:00 | GBP | Low | Index of Services |  | 0.9% | 1.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) |  | 0.1% | 0.2% |
@@ -48,7 +48,7 @@
 | 07:00 | NOK | Low | Trade Balance (Jul) |  | 54.2B | 61.7B |
 | 07:30 | CHF | Low | PPI (YoY) (Jul) |  | -1.7% | -1.9% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.50% |
+| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) |  | -0.3% | -0.3% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.72 |
@@ -77,14 +77,14 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Aug) |  |  | 20.7 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 19.80 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  |  | 0.9% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jul) |  |  | 2.28% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.0% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jul) |  |  | 2.28% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.8% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) |  |  | 184.7K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | -0.6% | -0.8% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 78.5% | 78.8% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  |  | 1.58% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | -0.3% | 0.6% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  |  | 1.58% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jul) |  | -0.2% | 0.4% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jun) |  | 0.3% | 0.5% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Aug) |  | 43 | 42 |
