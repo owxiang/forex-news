@@ -32,9 +32,9 @@
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.9% | 1.1% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
@@ -45,9 +45,9 @@
 | 07:00 | GBP | Moderate | Trade Balance (Jun) | -18.89B | -16.00B | -18.59B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) | -7.46B |  | -7.65B |
 | 07:00 | NOK | Low | Trade Balance (Jul) | 59.3B | 54.2B | 60.9B |
-| 07:30 | CHF | Low | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 07:30 | CHF | Low | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) |  | -0.3% | -0.3% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.72 |
@@ -64,8 +64,8 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.1% | 0.4% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.0% | -0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 0.7% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 1.6% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | -0.1% | 0.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 1.6% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 233K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 240.75K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -5.90 | -6.60 |
