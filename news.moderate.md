@@ -32,8 +32,8 @@
 | 13:30 | USD | Philly Fed Employment (Aug) |  |  | 15.2 |
 | 13:30 | USD | Retail Control (MoM) (Jul) |  |  | 0.9% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | -0.6% | -0.8% |
-| 14:15 | USD | Industrial Production (MoM) (Jul) |  | -0.3% | 0.6% |
 | 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 1.58% |
+| 14:15 | USD | Industrial Production (MoM) (Jul) |  | -0.3% | 0.6% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.3% | 0.5% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jun) |  | 0.2% | 0.0% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
