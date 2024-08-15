@@ -1,10 +1,12 @@
-## 14 August 2024 - High Impact Forex News
+## 15 August 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | NZD | RBNZ Interest Rate Decision | 5.25% | 5.50% | 5.50% |
-| 07:00 | GBP | CPI (YoY) (Jul) | 2.2% | 2.3% | 2.0% |
-| 13:30 | USD | Core CPI (MoM) (Jul) | 0.2% | 0.2% | 0.1% |
-| 13:30 | USD | CPI (MoM) (Jul) | 0.2% | 0.2% | -0.1% |
-| 13:30 | USD | CPI (YoY) (Jul) | 2.9% | 3.0% | 3.0% |
-| 15:30 | USD | Crude Oil Inventories | 1.357M | -1.900M | -3.728M |
+| 00:50 | JPY | GDP (QoQ) (Q2) | 0.8% | 0.6% | -0.6% |
+| 07:00 | GBP | GDP (YoY) (Q2) |  | 0.9% | 0.3% |
+| 07:00 | GBP | GDP (QoQ) (Q2) |  | 0.6% | 0.7% |
+| 07:00 | GBP | GDP (MoM) (Jun) |  | 0.0% | 0.4% |
+| 13:30 | USD | Core Retail Sales (MoM) (Jul) |  | 0.1% | 0.4% |
+| 13:30 | USD | Initial Jobless Claims |  | 236K | 233K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (Aug) |  | 5.4 | 13.9 |
+| 13:30 | USD | Retail Sales (MoM) (Jul) |  | 0.4% | 0.0% |
