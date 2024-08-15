@@ -56,7 +56,7 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.20 |  | 50.80 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.05 |  | 48.18 |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.6% |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) | 0.5% |  | 0.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,875K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.1% | 0.4% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 0.7% |

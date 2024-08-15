@@ -24,7 +24,7 @@
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:30 | GBP | Labour Productivity (Q2) | 0.1% | -0.3% | -0.2% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Jul) |  |  | 0.6% |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Jul) | 0.5% |  | 0.6% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,875K |
 | 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.0% | -0.5% |
 | 13:30 | USD | Import Price Index (MoM) (Jul) |  | -0.1% | 0.0% |
