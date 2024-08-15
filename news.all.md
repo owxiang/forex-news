@@ -30,11 +30,11 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | -4.2% | -3.6% | 3.6% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
+| 07:00 | GBP | High | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
-| 07:00 | GBP | High | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.9% | 1.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
@@ -45,8 +45,8 @@
 | 07:00 | GBP | Moderate | Trade Balance (Jun) | -18.89B | -16.00B | -18.59B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) | -7.46B |  | -7.65B |
 | 07:00 | NOK | Low | Trade Balance (Jul) | 59.3B | 54.2B | 60.9B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
 | 07:30 | CHF | Low | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) | 0.1% | -0.3% | -0.2% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) | 53.8 |  | 51.3 |
@@ -59,8 +59,8 @@
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) | 0.5% |  | 0.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,864K | 1,880K | 1,871K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) | 0.4% | 0.1% | 0.5% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) | 0.7% | 0.0% | -0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) | 1.4% |  | 1.0% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) | 0.7% | 0.0% | -0.3% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | 0.1% | -0.1% | 0.0% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) | 1.6% |  | 1.5% |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 236K | 234K |
@@ -85,8 +85,7 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jun) | 0.3% | 0.3% | 0.5% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Aug) | 39 | 43 | 41 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.2% | 0.2% | 0.0% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 43B | 21B |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 55.99 |
+| 15:30 | USD | Low | Natural Gas Storage | -6B | 43B | 21B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.190% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
