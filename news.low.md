@@ -30,16 +30,16 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) | 44.38 |  | 46.20 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.20 |  | 50.80 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.05 |  | 48.18 |
-| 13:30 | USD | Export Price Index (YoY) (Jul) |  |  | 0.7% |
-| 13:30 | USD | Import Price Index (YoY) (Jul) |  |  | 1.6% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 240.75K |
-| 13:30 | USD | Philly Fed Business Conditions (Aug) |  |  | 38.7 |
-| 13:30 | USD | Philly Fed CAPEX Index (Aug) |  |  | 7.40 |
-| 13:30 | USD | Philly Fed New Orders (Aug) |  |  | 20.7 |
-| 13:30 | USD | Philly Fed Prices Paid (Aug) |  |  | 19.80 |
-| 13:30 | USD | Retail Sales (YoY) (Jul) |  |  | 2.28% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.8% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jun) |  |  | 184.7K |
+| 13:30 | USD | Export Price Index (YoY) (Jul) | 1.4% |  | 1.0% |
+| 13:30 | USD | Import Price Index (YoY) (Jul) | 1.6% |  | 1.5% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 236.50K |  | 241.00K |
+| 13:30 | USD | Philly Fed Business Conditions (Aug) | 15.4 |  | 38.7 |
+| 13:30 | USD | Philly Fed CAPEX Index (Aug) | 12.00 |  | 7.40 |
+| 13:30 | USD | Philly Fed New Orders (Aug) | 14.6 |  | 20.7 |
+| 13:30 | USD | Philly Fed Prices Paid (Aug) | 24.00 |  | 19.80 |
+| 13:30 | USD | Retail Sales (YoY) (Jul) | 2.66% |  | 2.04% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) | 0.4% |  | 0.8% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jun) | 168.0K |  | 184.7K |
 | 14:15 | USD | Capacity Utilization Rate (Jul) |  | 78.5% | 78.8% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jul) |  | -0.2% | 0.4% |
 | 15:00 | USD | NAHB Housing Market Index (Aug) |  | 43 | 42 |

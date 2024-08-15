@@ -25,13 +25,13 @@
 | 09:30 | GBP | Labour Productivity (Q2) | 0.1% | -0.3% | -0.2% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Jul) | 0.5% |  | 0.6% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,875K |
-| 13:30 | USD | Export Price Index (MoM) (Jul) |  | 0.0% | -0.5% |
-| 13:30 | USD | Import Price Index (MoM) (Jul) |  | -0.1% | 0.0% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Aug) |  | -5.90 | -6.60 |
-| 13:30 | USD | Philly Fed Employment (Aug) |  |  | 15.2 |
-| 13:30 | USD | Retail Control (MoM) (Jul) |  |  | 0.9% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jun) |  | -0.6% | -0.8% |
+| 13:30 | USD | Continuing Jobless Claims | 1,864K | 1,880K | 1,871K |
+| 13:30 | USD | Export Price Index (MoM) (Jul) | 0.7% | 0.0% | -0.3% |
+| 13:30 | USD | Import Price Index (MoM) (Jul) | 0.1% | -0.1% | 0.0% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Aug) | -4.70 | -5.90 | -6.60 |
+| 13:30 | USD | Philly Fed Employment (Aug) | -5.7 |  | 15.2 |
+| 13:30 | USD | Retail Control (MoM) (Jul) | 0.3% |  | 0.9% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jun) | -0.6% | -0.6% | -1.2% |
 | 14:15 | USD | Industrial Production (YoY) (Jul) |  |  | 1.58% |
 | 14:15 | USD | Industrial Production (MoM) (Jul) |  | -0.3% | 0.6% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) |  | 0.3% | 0.5% |

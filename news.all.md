@@ -28,8 +28,8 @@
 | 05:00 | IDR | Low | Trade Balance (Jul) | 0.47B | 2.45B | 2.39B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | -3.1% |  | 4.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jun) | -4.2% | -3.6% | 3.6% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.3% |
@@ -39,8 +39,8 @@
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.9% | 1.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | 1.1% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | -1.5% | -2.4% | 0.4% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | 1.1% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.6% | 0.7% | 0.8% |
 | 07:00 | GBP | Moderate | Trade Balance (Jun) | -18.89B | -16.00B | -18.59B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) | -7.46B |  | -7.65B |
@@ -57,27 +57,27 @@
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.05 |  | 48.18 |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) | 0.5% |  | 0.6% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,875K |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.1% | 0.4% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 0.7% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.0% | -0.5% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | -0.1% | 0.0% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 1.6% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 236K | 233K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 240.75K |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -5.90 | -6.60 |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Aug) |  | 5.4 | 13.9 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Aug) |  |  | 38.7 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Aug) |  |  | 7.40 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Aug) |  |  | 15.2 |
-| 13:30 | USD | Low | Philly Fed New Orders (Aug) |  |  | 20.7 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Aug) |  |  | 19.80 |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Jul) |  |  | 0.9% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jul) |  |  | 2.28% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.0% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.8% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) |  |  | 184.7K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | -0.6% | -0.8% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,864K | 1,880K | 1,871K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Jul) | 0.4% | 0.1% | 0.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jul) | 1.4% |  | 1.0% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) | 0.7% | 0.0% | -0.3% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) | 0.1% | -0.1% | 0.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jul) | 1.6% |  | 1.5% |
+| 13:30 | USD | High | Initial Jobless Claims | 227K | 236K | 234K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.50K |  | 241.00K |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) | -4.70 | -5.90 | -6.60 |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Aug) | -7.0 | 5.4 | 13.9 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Aug) | 15.4 |  | 38.7 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Aug) | 12.00 |  | 7.40 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Aug) | -5.7 |  | 15.2 |
+| 13:30 | USD | Low | Philly Fed New Orders (Aug) | 14.6 |  | 20.7 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Aug) | 24.00 |  | 19.80 |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Jul) | 0.3% |  | 0.9% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jul) | 2.66% |  | 2.04% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jul) | 1.0% | 0.4% | -0.2% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) | 0.4% |  | 0.8% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) | 168.0K |  | 184.7K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) | -0.6% | -0.6% | -1.2% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 78.5% | 78.8% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  |  | 1.58% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | -0.3% | 0.6% |
