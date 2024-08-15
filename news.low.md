@@ -15,15 +15,14 @@
 | 05:00 | IDR | Import Growth (YoY) (Jul) | 11.07% | 0.04% | 7.58% |
 | 05:00 | IDR | Trade Balance (Jul) | 0.47B | 2.45B | 2.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) | -3.1% |  | 4.1% |
-| 07:00 | GBP | Business Investment (YoY) (Q2) |  |  | -1.0% |
-| 07:00 | GBP | Construction Output (MoM) (Jun) |  | -0.3% | 1.9% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jun) |  | -1.9% | 0.8% |
-| 07:00 | GBP | GDP (YoY) (Jun) |  | 0.8% | 1.4% |
-| 07:00 | GBP | Index of Services |  | 0.9% | 1.1% |
-| 07:00 | GBP | Industrial Production (YoY) (Jun) |  | -2.1% | 0.4% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Jun) |  | -2.4% | 0.6% |
-| 07:00 | NOK | Consumer Confidence (Q3) |  |  | -16.30 |
-| 07:00 | NOK | Trade Balance (Jul) |  | 54.2B | 61.7B |
+| 07:00 | GBP | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
+| 07:00 | GBP | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
+| 07:00 | GBP | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
+| 07:00 | GBP | Index of Services | 0.8% | 0.9% | 1.1% |
+| 07:00 | GBP | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Jun) | -1.5% | -2.4% | 0.4% |
+| 07:00 | NOK | Trade Balance (Jul) | 59.3B | 54.2B | 60.9B |
 | 07:30 | CHF | PPI (YoY) (Jul) |  | -1.7% | -1.9% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.72 |

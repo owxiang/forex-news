@@ -14,12 +14,12 @@
 | 03:00 | CNY | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Jun) | -4.2% | -3.6% | 3.6% |
-| 07:00 | GBP | Business Investment (QoQ) (Q2) |  | 0.4% | 0.5% |
-| 07:00 | GBP | Industrial Production (MoM) (Jun) |  | 0.1% | 0.2% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Jun) |  | 0.2% | 0.4% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) |  | 0.7% | 0.9% |
-| 07:00 | GBP | Trade Balance (Jun) |  | -16.00B | -17.92B |
-| 07:00 | GBP | Trade Balance Non-EU (Jun) |  |  | -6.86B |
+| 07:00 | GBP | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
+| 07:00 | GBP | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Jun) | 1.1% | 0.2% | 0.3% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.6% | 0.7% | 0.8% |
+| 07:00 | GBP | Trade Balance (Jun) | -18.89B | -16.00B | -18.59B |
+| 07:00 | GBP | Trade Balance Non-EU (Jun) | -7.46B |  | -7.65B |
 | 07:30 | CHF | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | GBP | Labour Productivity (Q2) |  | -0.3% | -0.3% |
