@@ -48,19 +48,19 @@
 | 07:30 | CHF | Low | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:30 | GBP | Moderate | Labour Productivity (Q2) | 0.3% | -0.3% | -0.2% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.72 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.10 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.20 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 50.80 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.18 |
+| 09:30 | GBP | Moderate | Labour Productivity (Q2) | 0.1% | -0.3% | -0.2% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) | 53.8 |  | 51.3 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) | 46.39 |  | 46.72 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Aug) | 49.06 |  | 51.10 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) | 44.38 |  | 46.20 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.20 |  | 50.80 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.05 |  | 48.18 |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,875K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.1% | 0.4% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.0% | -0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 0.7% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.0% | -0.5% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | -0.1% | 0.0% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 1.6% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 233K |

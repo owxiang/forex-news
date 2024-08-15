@@ -24,12 +24,12 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Jun) | -1.5% | -2.4% | 0.4% |
 | 07:00 | NOK | Trade Balance (Jul) | 59.3B | 54.2B | 60.9B |
 | 07:30 | CHF | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.72 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.10 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.20 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 50.80 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.18 |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) | 53.8 |  | 51.3 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) | 46.39 |  | 46.72 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) | 49.06 |  | 51.10 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) | 44.38 |  | 46.20 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.20 |  | 50.80 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 50.05 |  | 48.18 |
 | 13:30 | USD | Export Price Index (YoY) (Jul) |  |  | 0.7% |
 | 13:30 | USD | Import Price Index (YoY) (Jul) |  |  | 1.6% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 240.75K |
