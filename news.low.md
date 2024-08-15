@@ -40,9 +40,9 @@
 | 13:30 | USD | Retail Sales (YoY) (Jul) | 2.66% |  | 2.04% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) | 0.4% |  | 0.8% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jun) | 168.0K |  | 184.7K |
-| 14:15 | USD | Capacity Utilization Rate (Jul) |  | 78.5% | 78.8% |
-| 14:15 | USD | Manufacturing Production (MoM) (Jul) |  | -0.2% | 0.4% |
-| 15:00 | USD | NAHB Housing Market Index (Aug) |  | 43 | 42 |
+| 14:15 | USD | Capacity Utilization Rate (Jul) | 77.8% | 78.5% | 78.4% |
+| 14:15 | USD | Manufacturing Production (MoM) (Jul) | -0.3% | -0.2% | 0.4% |
+| 15:00 | USD | NAHB Housing Market Index (Aug) | 39 | 43 | 41 |
 | 15:30 | USD | Natural Gas Storage |  | 43B | 21B |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Aug) |  |  | 55.99 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
