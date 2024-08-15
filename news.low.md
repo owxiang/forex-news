@@ -16,8 +16,8 @@
 | 05:00 | IDR | Trade Balance (Jul) | 0.47B | 2.45B | 2.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) | -3.1% |  | 4.1% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) | -1.1% |  | -1.0% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
 | 07:00 | GBP | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
 | 07:00 | GBP | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
 | 07:00 | GBP | Index of Services | 0.8% | 0.9% | 1.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
