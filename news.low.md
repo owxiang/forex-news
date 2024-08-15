@@ -26,9 +26,6 @@
 | 07:30 | CHF | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.72 |
-| 11:00 | INR | Exports (USD) (Jul) |  |  | 35.20B |
-| 11:00 | INR | Imports (USD) (Jul) |  |  | 56.18B |
-| 11:00 | INR | Trade Balance (Jul) |  |  | -20.98B |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.10 |
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.20 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 50.80 |
