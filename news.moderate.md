@@ -1,44 +1,32 @@
-## 15 August 2024 - Moderate Impact Forex News
+## 16 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 00:50 | JPY | GDP (YoY) (Q2) | 3.1% | 2.1% | -2.3% |
-| 00:50 | JPY | GDP Price Index (YoY) (Q2) | 3.0% | 2.6% | 3.4% |
-| 02:30 | AUD | Employment Change (Jul) | 58.2K | 20.2K | 52.3K |
-| 02:30 | AUD | Full Employment Change (Jul) | 60.5K |  | 45.2K |
-| 02:30 | AUD | Unemployment Rate (Jul) | 4.2% | 4.1% | 4.1% |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Jul) | 3.6% | 3.9% | 3.9% |
-| 03:00 | CNY | Industrial Production (YoY) (Jul) | 5.1% | 5.2% | 5.3% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) | 5.9% |  | 6.0% |
-| 03:00 | CNY | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 05:30 | JPY | Industrial Production (MoM) (Jun) | -4.2% | -3.6% | 3.6% |
-| 07:00 | GBP | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
-| 07:00 | GBP | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Jun) | 1.1% | 0.2% | 0.3% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.6% | 0.7% | 0.8% |
-| 07:00 | GBP | Trade Balance (Jun) | -18.89B | -16.00B | -18.59B |
-| 07:00 | GBP | Trade Balance Non-EU (Jun) | -7.46B |  | -7.65B |
-| 07:30 | CHF | PPI (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
-| 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:30 | GBP | Labour Productivity (Q2) | 0.1% | -0.3% | -0.2% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Jul) | 0.5% |  | 0.6% |
-| 13:30 | USD | Continuing Jobless Claims | 1,864K | 1,880K | 1,871K |
-| 13:30 | USD | Export Price Index (MoM) (Jul) | 0.7% | 0.0% | -0.3% |
-| 13:30 | USD | Import Price Index (MoM) (Jul) | 0.1% | -0.1% | 0.0% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Aug) | -4.70 | -5.90 | -6.60 |
-| 13:30 | USD | Philly Fed Employment (Aug) | -5.7 |  | 15.2 |
-| 13:30 | USD | Retail Control (MoM) (Jul) | 0.3% |  | 0.9% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jun) | -0.6% | -0.6% | -1.2% |
-| 14:15 | USD | Industrial Production (YoY) (Jul) | -0.18% |  | 1.14% |
-| 14:15 | USD | Industrial Production (MoM) (Jul) | -0.6% | -0.3% | 0.3% |
-| 15:00 | USD | Business Inventories (MoM) (Jun) | 0.3% | 0.3% | 0.5% |
-| 15:00 | USD | Retail Inventories Ex Auto (Jun) | 0.2% | 0.2% | 0.0% |
-| 17:30 | USD | Atlanta Fed GDPNow (Q3) | 2.4% | 2.9% | 2.9% |
-| 18:10 | USD | FOMC Member Harker Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Jun) | 96.1B | 56.3B | -54.1B |
-| 21:30 | USD | Fed's Balance Sheet | 7,178B |  | 7,175B |
-| 23:30 | NZD | Business NZ PMI (Jul) |  |  | 41.1 |
-| 23:45 | NZD | PPI Input (QoQ) (Q2) |  | 0.5% | 0.7% |
+| 03:30 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 05:30 | JPY | Tertiary Industry Activity Index (MoM) |  | 0.3% | -0.4% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  | 0.8% | -1.5% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
+| 07:00 | GBP | Retail Sales (MoM) (Jul) |  | 0.6% | -1.2% |
+| 07:00 | GBP | Retail Sales (YoY) (Jul) |  | 1.4% | -0.2% |
+| 10:00 | EUR | Trade Balance (Jun) |  | 13.3B | 13.9B |
+| 13:15 | CAD | Housing Starts (Jul) |  | 246.0K | 241.7K |
+| 13:30 | USD | Building Permits (Jul) |  | 1.430M | 1.454M |
+| 13:30 | USD | Housing Starts (Jul) |  | 1.340M | 1.353M |
+| 13:30 | USD | Housing Starts (MoM) (Jul) |  |  | 3.0% |
+| 13:30 | CAD | Foreign Securities Purchases (Jun) |  | 15.90B | 20.89B |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  |  | 2.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  |  | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Aug) |  |  | 68.8 |
+| 15:00 | USD | Michigan Consumer Sentiment (Aug) |  | 66.7 | 66.4 |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.4% | 2.4% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 74.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 222.3K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 238.7K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 12.6K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | 34.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -40.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -54.9K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -11.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 33.6K |
