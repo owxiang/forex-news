@@ -36,7 +36,7 @@
 | 14:15 | USD | Industrial Production (MoM) (Jul) | -0.6% | -0.3% | 0.3% |
 | 15:00 | USD | Business Inventories (MoM) (Jun) | 0.3% | 0.3% | 0.5% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jun) | 0.2% | 0.2% | 0.0% |
-| 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
+| 17:30 | USD | Atlanta Fed GDPNow (Q3) | 2.4% | 2.9% | 2.9% |
 | 18:10 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jun) |  | 56.3B | -54.6B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,175B |
