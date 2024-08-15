@@ -37,8 +37,8 @@
 | 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.9% | 1.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | 1.1% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | -1.5% | -2.4% | 0.4% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.6% | 0.7% | 0.8% |
@@ -73,8 +73,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Aug) | 14.6 |  | 20.7 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Aug) | 24.00 |  | 19.80 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jul) | 0.3% |  | 0.9% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jul) | 1.0% | 0.4% | -0.2% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jul) | 2.66% |  | 2.04% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jul) | 1.0% | 0.4% | -0.2% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) | 0.4% |  | 0.8% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jun) | 168.0K |  | 184.7K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) | -0.6% | -0.6% | -1.2% |
@@ -94,8 +94,8 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Jun) | 107.50B |  | 16.10B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) | 96.1B | 56.3B | -54.1B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) | 96.10B |  | -54.10B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,175B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.373T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,178B |  | 7,175B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.339T |  | 3.373T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jul) |  |  | 41.1 |
 | 23:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 0.5% | 0.7% |
 | 23:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.6% | 0.9% |

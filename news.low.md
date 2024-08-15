@@ -49,5 +49,5 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Jun) | 9.80B |  | 44.70B |
 | 21:00 | USD | Overall Net Capital Flow (Jun) | 107.50B |  | 16.10B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Jun) | 96.10B |  | -54.10B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.373T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.339T |  | 3.373T |
 | 23:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.6% | 0.9% |

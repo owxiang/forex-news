@@ -39,6 +39,6 @@
 | 17:30 | USD | Atlanta Fed GDPNow (Q3) | 2.4% | 2.9% | 2.9% |
 | 18:10 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jun) | 96.1B | 56.3B | -54.1B |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,175B |
+| 21:30 | USD | Fed's Balance Sheet | 7,178B |  | 7,175B |
 | 23:30 | NZD | Business NZ PMI (Jul) |  |  | 41.1 |
 | 23:45 | NZD | PPI Input (QoQ) (Q2) |  | 0.5% | 0.7% |
