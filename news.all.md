@@ -23,7 +23,7 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) | 3.55% |  | 3.68% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) | 5.2% | 5.1% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 05:00 | IDR | Low | Export Growth (YoY) (Jul) | 6.46% | 3.85% | 1.17% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Jul) | 6.46% | 3.85% | 1.19% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Jul) | 11.07% | 0.04% | 7.58% |
 | 05:00 | IDR | Low | Trade Balance (Jul) | 0.47B | 2.45B | 2.39B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | -3.1% |  | 4.1% |
@@ -32,21 +32,21 @@
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | -0.1% | 0.4% | 0.5% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | -1.7% | -1.9% | 0.6% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Jun) | 0.0% | 0.0% | 0.4% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Low | GDP (YoY) (Jun) | 0.7% | 0.8% | 1.4% |
 | 07:00 | GBP | Low | Index of Services | 0.8% | 0.9% | 1.1% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jun) | 0.8% | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jun) | 1.1% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jun) | -1.5% | -2.4% | 0.4% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jun) | 0.6% | 0.7% | 0.8% |
 | 07:00 | GBP | Moderate | Trade Balance (Jun) | -18.89B | -16.00B | -18.59B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jun) | -7.46B |  | -7.65B |
 | 07:00 | NOK | Low | Trade Balance (Jul) | 59.3B | 54.2B | 60.9B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 07:30 | CHF | Low | PPI (YoY) (Jul) |  | -1.7% | -1.9% |
+| 07:30 | CHF | Low | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) |  | -0.3% | -0.3% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
@@ -62,10 +62,10 @@
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jul) |  |  | 0.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,875K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | 0.1% | 0.4% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 0.7% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.0% | -0.5% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | -0.1% | 0.0% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jul) |  |  | 0.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jul) |  |  | 1.6% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | -0.1% | 0.0% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 236K | 233K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 240.75K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -5.90 | -6.60 |

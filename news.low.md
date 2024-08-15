@@ -11,7 +11,7 @@
 | 02:30 | CNY | House Prices (YoY) (Jul) | -4.9% |  | -4.5% |
 | 03:00 | CNY | Retail Sales (YoY) (Jul) | 2.7% | 2.6% | 2.0% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 3.55% |  | 3.68% |
-| 05:00 | IDR | Export Growth (YoY) (Jul) | 6.46% | 3.85% | 1.17% |
+| 05:00 | IDR | Export Growth (YoY) (Jul) | 6.46% | 3.85% | 1.19% |
 | 05:00 | IDR | Import Growth (YoY) (Jul) | 11.07% | 0.04% | 7.58% |
 | 05:00 | IDR | Trade Balance (Jul) | 0.47B | 2.45B | 2.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jun) | -3.1% |  | 4.1% |
@@ -23,7 +23,7 @@
 | 07:00 | GBP | Industrial Production (YoY) (Jun) | -1.4% | -2.1% | 0.4% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jun) | -1.5% | -2.4% | 0.4% |
 | 07:00 | NOK | Trade Balance (Jul) | 59.3B | 54.2B | 60.9B |
-| 07:30 | CHF | PPI (YoY) (Jul) |  | -1.7% | -1.9% |
+| 07:30 | CHF | PPI (YoY) (Jul) | -1.7% | -1.7% | -1.9% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 51.3 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.72 |
 | 11:00 | INR | Exports (USD) (Jul) |  |  | 35.20B |

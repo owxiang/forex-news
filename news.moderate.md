@@ -20,7 +20,7 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.6% | 0.7% | 0.8% |
 | 07:00 | GBP | Trade Balance (Jun) | -18.89B | -16.00B | -18.59B |
 | 07:00 | GBP | Trade Balance Non-EU (Jun) | -7.46B |  | -7.65B |
-| 07:30 | CHF | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 07:30 | CHF | PPI (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | GBP | Labour Productivity (Q2) |  | -0.3% | -0.3% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
