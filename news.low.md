@@ -8,9 +8,9 @@
 | 00:55 | KRW | Exports (YoY) (Jul) | 13.9% |  | 13.9% |
 | 00:55 | KRW | Imports (YoY) (Jul) | 10.5% |  | 10.5% |
 | 00:55 | KRW | Trade Balance (Jul) | 3.60B |  | 3.62B |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) |  | 1.90% | -0.40% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) |  | 1.50% | -8.70% |
-| 02:30 | SGD | Trade Balance (Jul) |  |  | 3.078B |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | 12.20% | 1.90% | -0.40% |
+| 02:30 | SGD | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) |  |  | -1.50 |
 | 07:00 | EUR | German WPI (MoM) (Jul) |  |  | -0.3% |
 | 07:00 | EUR | German WPI (YoY) (Jul) |  |  | -0.6% |
@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian CPI (YoY) (Jul) |  |  | 1.3% |
 | 09:00 | EUR | Italian CPI (MoM) (Jul) |  |  | 0.5% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) |  |  | -0.8% |
 | 09:00 | EUR | Italian HICP (YoY) (Jul) |  |  | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Jul) |  |  | -0.8% |
 | 09:30 | HKD | GDP (YoY) (Q2) |  |  | 3.3% |
 | 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.4% | 2.3% |
 | 09:30 | HKD | Unemployment Rate (Jul) |  |  | 3.0% |
