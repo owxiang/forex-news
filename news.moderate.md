@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 03:30 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 05:30 | JPY | Tertiary Industry Activity Index (MoM) |  | 0.3% | -0.4% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  | 0.8% | -1.5% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Jul) |  | 0.8% | -1.5% |
 | 07:00 | GBP | Retail Sales (YoY) (Jul) |  | 1.4% | -0.2% |
 | 07:00 | GBP | Retail Sales (MoM) (Jul) |  | 0.6% | -1.2% |
 | 10:00 | EUR | Trade Balance (Jun) |  | 13.3B | 13.9B |
