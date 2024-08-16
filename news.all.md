@@ -3,8 +3,11 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 00:50 | JPY | Low | Foreign Bonds Buying |  |  | 669.7B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -641.7B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,539.2B |  | 677.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 521.9B |  | -643.7B |
+| 00:55 | KRW | Low | Exports (YoY) (Jul) | 13.9% |  | 13.9% |
+| 00:55 | KRW | Low | Imports (YoY) (Jul) | 10.5% |  | 10.5% |
+| 00:55 | KRW | Low | Trade Balance (Jul) | 3.60B |  | 3.62B |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) |  | 1.90% | -0.40% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) |  | 1.50% | -8.70% |
 | 02:30 | SGD | Low | Trade Balance (Jul) |  |  | 3.078B |
@@ -15,12 +18,12 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.6% | -1.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | 1.4% | -0.2% |
-| 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) |  |  | -0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
 | 07:00 | NOK | Low | Consumer Confidence (Q3) |  |  | -16.30 |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q2) |  |  | -3.10% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) |  |  | 0.5% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) |  |  | 1.3% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jul) |  |  | 0.5% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) |  |  | -0.8% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jul) |  |  | 1.7% |
