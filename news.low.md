@@ -8,8 +8,8 @@
 | 00:55 | KRW | Exports (YoY) (Jul) | 13.9% |  | 13.9% |
 | 00:55 | KRW | Imports (YoY) (Jul) | 10.5% |  | 10.5% |
 | 00:55 | KRW | Trade Balance (Jul) | 3.60B |  | 3.62B |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | 12.20% | 1.90% | -0.40% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 02:30 | SGD | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 1.40 |  | -0.40 |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) | 7.30% | -2.90% | -2.00% |
@@ -20,9 +20,9 @@
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) | 0.7% |  | 0.5% |
 | 12:30 | INR | FX Reserves, USD | 670.12B |  | 674.92B |
 | 13:00 | BRL | IBC-Br Economic Activity (Jun) | 1.40% | 0.50% | 0.25% |
-| 13:30 | USD | Building Permits (MoM) (Jul) |  |  | 3.9% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) |  |  | 3.860B |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) |  | -2.3% | 0.4% |
+| 13:30 | USD | Building Permits (MoM) (Jul) | -4.0% |  | 3.9% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Jun) | 16.350B |  | 3.760B |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) | -2.1% | -2.3% | 0.2% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  |  | 62.7 |
 | 18:25 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
