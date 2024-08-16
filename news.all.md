@@ -8,8 +8,8 @@
 | 00:55 | KRW | Low | Exports (YoY) (Jul) | 13.9% |  | 13.9% |
 | 00:55 | KRW | Low | Imports (YoY) (Jul) | 10.5% |  | 10.5% |
 | 00:55 | KRW | Low | Trade Balance (Jul) | 3.60B |  | 3.62B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | 12.20% | 1.90% | -0.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 02:30 | SGD | Low | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 03:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -1.3% | 0.3% | 0.6% |
@@ -35,12 +35,12 @@
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) | 5.17B | 15.90B | 21.07B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 16.350B |  | 3.760B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) | -2.1% | -2.3% | 0.2% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) | 2.9% |  | 2.9% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) | 3.0% |  | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) | 72.1 |  | 68.8 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) | 2.9% | 2.8% | 2.9% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) | 3.0% | 2.9% | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Aug) | 72.1 | 68.5 | 68.8 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 67.8 | 66.7 | 66.4 |
-| 15:00 | USD | Low | Michigan Current Conditions (Aug) | 60.9 |  | 62.7 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.4% | 2.4% |
+| 15:00 | USD | Low | Michigan Current Conditions (Aug) | 60.9 | 63.1 | 62.7 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.0% | 2.4% | 2.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 18:25 | USD | Low | Fed Goolsbee Speaks |  |  |  |

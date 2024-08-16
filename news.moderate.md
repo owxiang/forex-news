@@ -14,11 +14,11 @@
 | 13:30 | USD | Housing Starts (Jul) | 1.238M | 1.340M | 1.329M |
 | 13:30 | USD | Housing Starts (MoM) (Jul) | -6.8% |  | 1.1% |
 | 13:30 | CAD | Foreign Securities Purchases (Jun) | 5.17B | 15.90B | 21.07B |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) | 2.9% |  | 2.9% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 3.0% |  | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Aug) | 72.1 |  | 68.8 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) | 2.9% | 2.8% | 2.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 3.0% | 2.9% | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Aug) | 72.1 | 68.5 | 68.8 |
 | 15:00 | USD | Michigan Consumer Sentiment (Aug) | 67.8 | 66.7 | 66.4 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.4% | 2.4% |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 2.0% | 2.4% | 2.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 74.4K |
