@@ -13,13 +13,8 @@
 | 02:30 | SGD | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 1.40 |  | -0.40 |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) | 7.30% | -2.90% | -2.00% |
-| 09:00 | EUR | Italian CPI (YoY) (Jul) |  |  | 1.3% |
-| 09:00 | EUR | Italian CPI (MoM) (Jul) |  |  | 0.5% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
-| 09:00 | EUR | Italian HICP (YoY) (Jul) |  |  | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (Jul) |  |  | -0.8% |
-| 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.4% | 2.3% |
 | 09:30 | HKD | GDP (YoY) (Q2) |  |  | 3.3% |
+| 09:30 | HKD | GDP (QoQ) (Q2) |  | 0.4% | 2.3% |
 | 09:30 | HKD | Unemployment Rate (Jul) |  |  | 3.0% |
 | 11:00 | EUR | Reserve Assets Total (Jul) |  |  | 1,267.63B |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) |  |  | 0.5% |
