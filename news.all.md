@@ -12,8 +12,8 @@
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 02:30 | SGD | Low | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 03:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.50 |
-| 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  | 0.3% | -0.4% |
+| 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -1.3% | 0.3% | 0.6% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 1.40 |  | -0.40 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.8% | -1.5% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.6% | -1.2% |
@@ -21,7 +21,7 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) |  |  | -0.3% |
 | 07:00 | NOK | Low | Consumer Confidence (Q3) |  |  | -16.30 |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q2) |  |  | -3.10% |
+| 07:30 | CHF | Low | Industrial Production (YoY) (Q2) |  | -2.90% | -3.10% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) |  |  | 0.5% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jul) |  |  | 1.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
