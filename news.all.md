@@ -8,25 +8,25 @@
 | 00:55 | KRW | Low | Exports (YoY) (Jul) | 13.9% |  | 13.9% |
 | 00:55 | KRW | Low | Imports (YoY) (Jul) | 10.5% |  | 10.5% |
 | 00:55 | KRW | Low | Trade Balance (Jul) | 3.60B |  | 3.62B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | 12.20% | 1.90% | -0.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 02:30 | SGD | Low | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 03:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.50 |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  | 0.3% | -0.4% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.8% | -1.5% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | 1.4% | -0.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.6% | -1.2% |
-| 07:00 | EUR | Low | German WPI (MoM) (Jul) |  |  | -0.3% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | 1.4% | -0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jul) |  |  | -0.6% |
+| 07:00 | EUR | Low | German WPI (MoM) (Jul) |  |  | -0.3% |
 | 07:00 | NOK | Low | Consumer Confidence (Q3) |  |  | -16.30 |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q2) |  |  | -3.10% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) |  |  | 1.3% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jul) |  |  | 0.5% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Jul) |  |  | 1.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) |  |  | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jul) |  |  | -0.8% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jul) |  |  | 1.7% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  |  | 3.3% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.4% | 2.3% |
 | 09:30 | HKD | Low | Unemployment Rate (Jul) |  |  | 3.0% |
@@ -36,10 +36,10 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 674.92B |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) |  | 0.50% | 0.25% |
 | 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 246.0K | 241.7K |
-| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.430M | 1.454M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | 3.9% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 3.0% |
+| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.430M | 1.454M |
 | 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.340M | 1.353M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 3.0% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) |  | 15.90B | 20.89B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) |  |  | 3.860B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) |  | -2.3% | 0.4% |
