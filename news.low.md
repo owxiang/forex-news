@@ -12,9 +12,6 @@
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
 | 02:30 | SGD | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 1.40 |  | -0.40 |
-| 07:00 | EUR | German WPI (YoY) (Jul) |  |  | -0.6% |
-| 07:00 | EUR | German WPI (MoM) (Jul) |  |  | -0.3% |
-| 07:00 | NOK | Consumer Confidence (Q3) |  |  | -16.30 |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) |  | -2.90% | -3.10% |
 | 09:00 | EUR | Italian CPI (MoM) (Jul) |  |  | 0.5% |
 | 09:00 | EUR | Italian CPI (YoY) (Jul) |  |  | 1.3% |
