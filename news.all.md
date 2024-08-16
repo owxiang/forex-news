@@ -12,10 +12,10 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | 12.20% | 1.90% | -0.40% |
 | 02:30 | SGD | Low | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 03:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.50 |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  | 0.3% | -0.4% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -1.50 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.8% | -1.5% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | 1.4% | -0.8% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | 1.4% | -0.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | 0.6% | -1.2% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jul) |  |  | -0.3% |
@@ -36,8 +36,8 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 674.92B |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jun) |  | 0.50% | 0.25% |
 | 13:15 | CAD | Moderate | Housing Starts (Jul) |  | 246.0K | 241.7K |
-| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.430M | 1.454M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | 3.9% |
+| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.430M | 1.454M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  |  | 3.0% |
 | 13:30 | USD | Moderate | Housing Starts (Jul) |  | 1.340M | 1.353M |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) |  | 15.90B | 20.89B |
