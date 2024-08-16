@@ -16,8 +16,8 @@
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 1.40 |  | -0.40 |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) | 1.4% | 1.4% | -0.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) | 0.7% | 0.8% | -1.3% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) | 0.5% | 0.6% | -0.9% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jul) | 1.4% | 1.4% | -0.3% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jul) | 0.5% | 0.6% | -0.9% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q2) | 7.30% | -2.90% | -2.00% |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) | 3.3% |  | 3.3% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) | 0.4% | 0.4% | 2.3% |
@@ -30,8 +30,8 @@
 | 13:15 | CAD | Moderate | Housing Starts (Jul) | 279.5K | 246.0K | 241.6K |
 | 13:30 | USD | Moderate | Building Permits (Jul) | 1.396M | 1.430M | 1.454M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) | -4.0% |  | 3.9% |
-| 13:30 | USD | Moderate | Housing Starts (Jul) | 1.238M | 1.340M | 1.329M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jul) | -6.8% |  | 1.1% |
+| 13:30 | USD | Moderate | Housing Starts (Jul) | 1.238M | 1.340M | 1.329M |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jun) | 5.17B | 15.90B | 21.07B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 16.350B |  | 3.760B |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) | -2.1% | -2.3% | 0.2% |
