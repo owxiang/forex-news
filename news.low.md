@@ -8,8 +8,8 @@
 | 00:55 | KRW | Exports (YoY) (Jul) | 13.9% |  | 13.9% |
 | 00:55 | KRW | Imports (YoY) (Jul) | 10.5% |  | 10.5% |
 | 00:55 | KRW | Trade Balance (Jul) | 3.60B |  | 3.62B |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | 12.20% | 1.90% | -0.40% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jul) | 15.70% | 1.50% | -8.80% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Jul) | 12.20% | 1.90% | -0.40% |
 | 02:30 | SGD | Trade Balance (Jul) | 6.486B |  | 3.060B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jun) | 1.40 |  | -0.40 |
 | 07:30 | CHF | Industrial Production (YoY) (Q2) | 7.30% | -2.90% | -2.00% |
