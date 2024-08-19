@@ -14,7 +14,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.029% |  | 3.053% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.502% |  | 3.553% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.358% |  | 3.380% |
-| 15:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 2.6 |
+| 15:53 | CAD | BoC Senior Loan Officer Survey (Q2) | 0.0 |  | 2.6 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.070% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.795% |
 | 22:00 | KRW | Consumer Confidence (Aug) |  |  | 103.6 |
