@@ -24,5 +24,5 @@
 | 22:00 | KRW | Low | Consumer Confidence (Aug) |  |  | 103.6 |
 | 23:45 | NZD | Low | Exports (Jul) |  |  | 6.17B |
 | 23:45 | NZD | Low | Imports (Jul) |  |  | 5.47B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | 331M | 699M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -9,400M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | 331M | 699M |
