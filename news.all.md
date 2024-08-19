@@ -7,8 +7,8 @@
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 2.1% | 0.9% | -3.2% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -1.7% | 1.8% | 10.8% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) | 56.30% |  | 57.20% |
+| 09:25 | EUR | Low | Spanish Trade Balance (Jun) | -0.70B |  | -2.30B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.192% |
-| 10:30 | EUR | Low | Spanish Trade Balance (Jun) |  |  | -2.30B |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
