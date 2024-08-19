@@ -15,8 +15,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 3.502% |  | 3.553% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.358% |  | 3.380% |
 | 15:53 | CAD | BoC Senior Loan Officer Survey (Q2) | 0.0 |  | 2.6 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.070% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.795% |
+| 16:30 | USD | 3-Month Bill Auction | 5.055% |  | 5.070% |
+| 16:30 | USD | 6-Month Bill Auction | 4.770% |  | 4.795% |
 | 22:00 | KRW | Consumer Confidence (Aug) |  |  | 103.6 |
 | 23:45 | NZD | Exports (Jul) |  |  | 6.17B |
 | 23:45 | NZD | Imports (Jul) |  |  | 5.47B |

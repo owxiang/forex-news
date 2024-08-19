@@ -17,8 +17,8 @@
 | 14:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jul) | -0.6% | -0.4% | -0.2% |
 | 15:53 | CAD | Low | BoC Senior Loan Officer Survey (Q2) | 0.0 |  | 2.6 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.070% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.795% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.055% |  | 5.070% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.770% |  | 4.795% |
 | 22:00 | KRW | Low | Consumer Confidence (Aug) |  |  | 103.6 |
 | 23:45 | NZD | Low | Exports (Jul) |  |  | 6.17B |
 | 23:45 | NZD | Low | Imports (Jul) |  |  | 5.47B |
