@@ -5,7 +5,7 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.5% |  | -0.4% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jun) | 2.1% | 0.9% | -3.2% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Jun) | -1.7% | 1.8% | 10.8% |
-| 04:00 | NZD | RBNZ Offshore Holdings (Jul) |  |  | 57.20% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Jul) | 56.30% |  | 57.20% |
 | 09:00 | EUR | Spanish Trade Balance (Jun) |  |  | -2.30B |
 | 10:00 | CNY | FDI (Jul) |  |  | -29.10% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.192% |
