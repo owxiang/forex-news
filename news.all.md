@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.5% |  | -0.4% |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) |  | 0.9% | -3.2% |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) |  | 1.8% | 10.8% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -1.7% | 1.8% | 10.8% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 2.1% | 0.9% | -3.2% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jul) |  |  | 57.20% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jun) |  |  | -2.30B |
 | 10:00 | CNY | Low | FDI (Jul) |  |  | -29.10% |
@@ -24,5 +24,5 @@
 | 22:00 | KRW | Low | Consumer Confidence (Aug) |  |  | 103.6 |
 | 23:45 | NZD | Low | Exports (Jul) |  |  | 6.17B |
 | 23:45 | NZD | Low | Imports (Jul) |  |  | 5.47B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -9,400M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Jul) |  | 331M | 699M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -9,400M |
