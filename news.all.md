@@ -6,27 +6,27 @@
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Jul) |  | 5.440B | 6.180B |
-| 07:00 | EUR | Low | German PPI (YoY) (Jul) |  | -0.8% | -1.6% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 07:00 | EUR | Low | German PPI (YoY) (Jul) |  | -0.8% | -1.6% |
 | 08:00 | ZAR | Low | Leading Indicators (Jun) |  |  | 111.90% |
 | 09:00 | EUR | Low | Current Account (Jun) |  | 37.0B | 36.7B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Jun) |  |  | 9.6B |
 | 09:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.50% |
 | 09:30 | HKD | Low | CPI (YoY) (Jul) |  |  | 1.50% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Jun) |  |  | -0.90% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.9% | 2.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  | -0.2% | 0.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  | 0.0% | 0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.9% | 2.9% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.6% | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  |  | 2.4% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  | 0.0% | 0.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  |  | 0.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  | 126.60 | 126.58 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 2.8% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  | -0.1% | 0.4% |
 | 10:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | -1.8% | 0.3% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  |  | 0.1% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | -1.8% | 0.3% |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.5% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 3,680.0 |
