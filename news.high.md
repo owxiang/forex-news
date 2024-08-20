@@ -1,5 +1,6 @@
-## 20 August 2024 - High Impact Forex News
+## 21 August 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
+| 15:30 | USD | Crude Oil Inventories |  | -2.800M | 1.357M |
+| 19:00 | USD | FOMC Meeting Minutes |  |  |  |

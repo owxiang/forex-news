@@ -1,45 +1,48 @@
-## 20 August 2024 - All Forex News
+## 21 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Aug) | 3.85% | 3.85% | 3.85% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
-| 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 07:00 | CHF | Low | Trade Balance (Jul) | 4.889B | 5.440B | 6.117B |
-| 07:00 | EUR | Low | German PPI (YoY) (Jul) | -0.8% | -0.8% | -1.6% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
-| 08:00 | ZAR | Low | Leading Indicators (Jun) | 111.40% |  | 111.90% |
-| 09:00 | EUR | Low | Current Account (Jun) | 50.5B | 37.0B | 37.6B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Jun) | 52.4B |  | 10.3B |
-| 09:30 | HKD | Low | CPI (MoM) (Jul) | 1.00% |  | 0.50% |
-| 09:30 | HKD | Low | CPI (YoY) (Jul) | 2.50% | 1.60% | 1.50% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jun) | 1.75% |  | -0.90% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.9% | 2.9% | 2.9% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.2% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.5% |  | 2.4% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jul) | 126.54 | 126.56 | 126.58 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.8% | 2.8% | 2.8% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% | -0.1% | 0.4% |
-| 10:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jun) | -0.5% |  | 0.0% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jun) | -3.9% | -1.8% | 0.3% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 5.5% |  | 0.5% |
-| 13:00 | USD | Low | Milk Auctions | 3,920.0 |  | 3,680.0 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Jul) | 2.2% | 2.2% | 2.3% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) | 1.7% |  | 1.9% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.3% |  | -0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (Jul) | 2.5% | 2.5% | 2.7% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.4% | 0.4% | -0.1% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Jul) | 2.4% | 2.5% | 2.6% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) | 0.2% | 0.0% | -0.2% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jul) | 2.7% | 2.8% | 2.8% |
-| 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 4.7% |
-| 18:35 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 19:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.347M | -2.800M | -5.205M |
-| 22:00 | KRW | Low | PPI (YoY) (Jul) | 2.6% |  | 2.5% |
-| 22:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% |  | -0.1% |
+| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.72T | -0.82T |
+| 44 min | JPY | Moderate | Exports (YoY) (Jul) |  | 11.4% | 5.4% |
+| 44 min | JPY | Low | Imports (YoY) (Jul) |  | 14.9% | 3.2% |
+| 44 min | JPY | Moderate | Trade Balance (Jul) |  | -330.7B | 224.0B |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) |  |  | 0.0% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) |  |  | -3.1% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Jul) |  | 0.50B | 13.59B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | 6.622B |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,138.1B |
+| 08:00 | IDR | Low | Loans (YoY) (Jul) |  |  | 12.36% |
+| 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Aug) |  | 5.50% | 5.50% |
+| 08:30 | IDR | Low | Lending Facility Rate (Aug) |  | 7.00% | 7.00% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jul) |  |  | 4.5% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jul) |  |  | 5.1% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jul) |  |  | 0.1% |
+| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.441% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.430% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.54% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 16.8% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 137.7 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 251.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 889.3 |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 2.8% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 7.5% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.7% | -1.4% |
+| 15:00 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.800M | 1.357M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.057M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.665M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.267M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | -1.673M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.318M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.268M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.790M | -2.894M |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.466% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.836B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
