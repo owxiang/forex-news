@@ -11,8 +11,8 @@
 | 09:30 | HKD | CPI (YoY) (Jul) |  |  | 1.50% |
 | 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -0.90% |
 | 10:00 | EUR | Core CPI (MoM) (Jul) |  | -0.2% | 0.4% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) |  |  | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) |  | 126.60 | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  | 2.8% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  | -0.1% | 0.4% |
@@ -27,5 +27,5 @@
 | 13:30 | CAD | Median CPI (YoY) (Jul) |  | 2.5% | 2.6% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jul) |  | 2.8% | 2.9% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.7% |
-| 22:00 | KRW | PPI (YoY) (Jul) |  |  | 2.5% |
 | 22:00 | KRW | PPI (MoM) (Jul) |  |  | -0.1% |
+| 22:00 | KRW | PPI (YoY) (Jul) |  |  | 2.5% |
