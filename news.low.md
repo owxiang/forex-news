@@ -7,15 +7,15 @@
 | 08:00 | ZAR | Leading Indicators (Jun) | 111.40% |  | 111.90% |
 | 09:00 | EUR | Current Account (Jun) | 50.5B | 37.0B | 37.6B |
 | 09:00 | EUR | Current Account n.s.a. (Jun) | 52.4B |  | 9.6B |
-| 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.50% |
-| 09:30 | HKD | CPI (YoY) (Jul) |  | 1.60% | 1.50% |
-| 10:00 | EUR | Construction Output (MoM) (Jun) |  |  | -0.90% |
-| 10:00 | EUR | Core CPI (MoM) (Jul) |  | -0.2% | 0.4% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) |  |  | 2.4% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) |  |  | 0.2% |
-| 10:00 | EUR | CPI, n.s.a (Jul) |  | 126.56 | 126.58 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  | 2.8% | 2.8% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  | -0.1% | 0.4% |
+| 09:30 | HKD | CPI (MoM) (Jul) | 1.00% |  | 0.50% |
+| 09:30 | HKD | CPI (YoY) (Jul) | 2.50% | 1.60% | 1.50% |
+| 10:00 | EUR | Construction Output (MoM) (Jun) | 1.70% |  | -0.90% |
+| 10:00 | EUR | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 2.5% |  | 2.4% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.2% |
+| 10:00 | EUR | CPI, n.s.a (Jul) | 126.54 | 126.56 | 126.58 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.8% | 2.8% | 2.8% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% | -0.1% | 0.4% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:00 | MXN | Retail Sales (MoM) (Jun) |  |  | 0.1% |
 | 13:00 | MXN | Retail Sales (YoY) (Jun) |  | -1.8% | 0.3% |

@@ -6,8 +6,8 @@
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 07:00 | EUR | German PPI (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
-| 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.9% | 2.9% |
-| 10:00 | EUR | CPI (MoM) (Jul) |  | 0.0% | 0.2% |
+| 10:00 | EUR | Core CPI (YoY) (Jul) | 2.9% | 2.9% | 2.9% |
+| 10:00 | EUR | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
 | 10:30 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 13:30 | CAD | Core CPI (YoY) (Jul) |  |  | 1.9% |
 | 13:30 | CAD | Core CPI (MoM) (Jul) |  |  | -0.1% |

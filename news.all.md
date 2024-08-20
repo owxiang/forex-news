@@ -11,18 +11,18 @@
 | 08:00 | ZAR | Low | Leading Indicators (Jun) | 111.40% |  | 111.90% |
 | 09:00 | EUR | Low | Current Account (Jun) | 50.5B | 37.0B | 37.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Jun) | 52.4B |  | 9.6B |
-| 09:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.50% |
-| 09:30 | HKD | Low | CPI (YoY) (Jul) |  | 1.60% | 1.50% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jun) |  |  | -0.90% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.9% | 2.9% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  | -0.2% | 0.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  | 0.0% | 0.2% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 2.6% | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  |  | 2.4% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  |  | 0.2% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jul) |  | 126.56 | 126.58 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 2.8% | 2.8% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  | -0.1% | 0.4% |
+| 09:30 | HKD | Low | CPI (MoM) (Jul) | 1.00% |  | 0.50% |
+| 09:30 | HKD | Low | CPI (YoY) (Jul) | 2.50% | 1.60% | 1.50% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jun) | 1.70% |  | -0.90% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.9% | 2.9% | 2.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% | -0.2% | 0.4% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.6% | 2.6% | 2.5% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) | 2.5% |  | 2.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) | 0.0% |  | 0.2% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jul) | 126.54 | 126.56 | 126.58 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.8% | 2.8% | 2.8% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% | -0.1% | 0.4% |
 | 10:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jun) |  |  | 0.1% |
@@ -31,8 +31,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 2.2% | 2.3% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  |  | 1.9% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  |  | -0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (Jul) |  | 2.5% | 2.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jul) |  | 0.4% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Jul) |  | 2.5% | 2.7% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jul) |  | 2.5% | 2.6% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Jul) |  | 2.8% | 2.9% |
