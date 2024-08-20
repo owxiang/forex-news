@@ -9,8 +9,8 @@
 | 10:00 | EUR | Core CPI (YoY) (Jul) | 2.9% | 2.9% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
 | 10:30 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 13:30 | CAD | Core CPI (YoY) (Jul) | 1.7% |  | 1.9% |
+| 13:30 | CAD | Core CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 13:30 | CAD | CPI (MoM) (Jul) | 0.4% | 0.4% | -0.1% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jul) | 0.2% | 0.0% | -0.2% |
 | 18:35 | USD | FOMC Member Bostic Speaks |  |  |  |
