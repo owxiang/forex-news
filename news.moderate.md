@@ -15,4 +15,4 @@
 | 13:30 | CAD | New Housing Price Index (MoM) (Jul) | 0.2% | 0.0% | -0.2% |
 | 18:35 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 19:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 24 min | USD | API Weekly Crude Oil Stock |  | -2.800M | -5.205M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 0.347M | -2.800M | -5.205M |
