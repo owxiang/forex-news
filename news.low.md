@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | CHF | Trade Balance (Jul) | 4.889B | 5.440B | 6.117B |
 | 07:00 | EUR | German PPI (YoY) (Jul) | -0.8% | -0.8% | -1.6% |
-| 08:00 | ZAR | Leading Indicators (Jun) |  |  | 111.90% |
+| 08:00 | ZAR | Leading Indicators (Jun) | 111.40% |  | 111.90% |
 | 09:00 | EUR | Current Account (Jun) |  | 37.0B | 36.7B |
 | 09:00 | EUR | Current Account n.s.a. (Jun) |  |  | 9.6B |
 | 09:30 | HKD | CPI (MoM) (Jul) |  |  | 0.50% |

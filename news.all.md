@@ -8,7 +8,7 @@
 | 07:00 | CHF | Low | Trade Balance (Jul) | 4.889B | 5.440B | 6.117B |
 | 07:00 | EUR | Low | German PPI (YoY) (Jul) | -0.8% | -0.8% | -1.6% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
-| 08:00 | ZAR | Low | Leading Indicators (Jun) |  |  | 111.90% |
+| 08:00 | ZAR | Low | Leading Indicators (Jun) | 111.40% |  | 111.90% |
 | 09:00 | EUR | Low | Current Account (Jun) |  | 37.0B | 36.7B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Jun) |  |  | 9.6B |
 | 09:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.50% |
@@ -29,8 +29,8 @@
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | -1.8% | 0.3% |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 2.2% | 2.3% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  |  | 1.9% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  |  | -0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  |  | 1.9% |
 | 13:30 | CAD | Low | CPI (YoY) (Jul) |  | 2.5% | 2.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jul) |  | 0.4% | -0.1% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jul) |  | 2.5% | 2.6% |
