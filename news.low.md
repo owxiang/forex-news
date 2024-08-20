@@ -17,15 +17,14 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.8% | 2.8% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% | -0.1% | 0.4% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 13:00 | MXN | Retail Sales (MoM) (Jun) | -0.5% |  | 0.0% |
 | 13:00 | MXN | Retail Sales (YoY) (Jun) | -3.9% | -1.8% | 0.3% |
+| 13:00 | MXN | Retail Sales (MoM) (Jun) | -0.5% |  | 0.0% |
 | 13:30 | CAD | Common CPI (YoY) (Jul) | 2.2% | 2.2% | 2.3% |
 | 13:30 | CAD | CPI (YoY) (Jul) | 2.5% | 2.5% | 2.7% |
 | 13:30 | CAD | Median CPI (YoY) (Jul) | 2.4% | 2.5% | 2.6% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jul) | 2.7% | 2.8% | 2.8% |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 4.7% |
-| 14:00 | CAD | BoC Senior Loan Officer Survey (Q2) | 6.9 |  | 2.6 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.5% |
-| 16:00 | USD | Milk Auctions |  |  | 3,680.0 |
+| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 0.5% |
+| 54 min | USD | Milk Auctions |  |  | 3,680.0 |
 | 22:00 | KRW | PPI (MoM) (Jul) |  |  | -0.1% |
 | 22:00 | KRW | PPI (YoY) (Jul) |  |  | 2.5% |
