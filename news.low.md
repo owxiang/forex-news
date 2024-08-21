@@ -11,20 +11,20 @@
 | 08:20 | IDR | Loans (YoY) (Jul) | 12.40% |  | 12.36% |
 | 08:30 | IDR | Deposit Facility Rate (Aug) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
-| 09:00 | ZAR | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
 | 09:00 | ZAR | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
-| 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
+| 09:00 | ZAR | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
 | 09:00 | ZAR | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.068% |  | 4.441% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.50% |  | 6.54% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -10.1% |  | 16.8% |
 | 12:00 | USD | MBA Purchase Index | 130.6 |  | 137.7 |
 | 12:00 | USD | Mortgage Market Index | 225.8 |  | 251.3 |
 | 12:00 | USD | Mortgage Refinance Index | 754.4 |  | 889.3 |
-| 25 min | INR | M3 Money Supply |  |  | 10.0% |
-| 13:30 | CAD | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
-| 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 2.8% |
-| 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 7.5% |
+| 21 min | CAD | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
+| 21 min | CAD | IPPI (YoY) (Jul) |  |  | 2.8% |
+| 21 min | CAD | RMPI (YoY) (Jul) |  |  | 7.5% |
+| 21 min | INR | M3 Money Supply |  |  | 10.0% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.057M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.267M |

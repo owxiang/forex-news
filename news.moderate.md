@@ -7,8 +7,8 @@
 | 00:50 | JPY | Trade Balance (Jul) | -621.8B | -330.7B | 224.0B |
 | 08:30 | IDR | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
 | 10:50 | EUR | German 10-Year Bund Auction | 2.220% |  | 2.430% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
-| 13:30 | CAD | RMPI (MoM) (Jul) |  | -0.7% | -1.4% |
+| 21 min | CAD | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
+| 21 min | CAD | RMPI (MoM) (Jul) |  | -0.7% | -1.4% |
 | 15:00 | USD | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.665M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.466% |
