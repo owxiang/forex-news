@@ -15,23 +15,23 @@
 | 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Aug) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.068% |  | 4.441% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.220% |  | 2.430% |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.54% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 16.8% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 137.7 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 251.3 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 889.3 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
-| 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 2.8% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.50% |  | 6.54% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.1% |  | 16.8% |
+| 12:00 | USD | Low | MBA Purchase Index | 130.6 |  | 137.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 225.8 |  | 251.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 754.4 |  | 889.3 |
+| 25 min | INR | Low | M3 Money Supply |  |  | 10.0% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 2.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 7.5% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.7% | -1.4% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 7.5% |
 | 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | 1.357M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
