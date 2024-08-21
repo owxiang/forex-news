@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:30 | USD | Crude Oil Inventories |  | -2.000M | 1.357M |
+| 24 min | USD | Crude Oil Inventories |  | -2.000M | 1.357M |
 | 19:00 | USD | FOMC Meeting Minutes |  |  |  |

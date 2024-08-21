@@ -30,18 +30,17 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) | 0.0% | -0.3% | -0.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) | 4.1% |  | 7.2% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) | 0.7% | -0.7% | -1.7% |
-| 23 min | INR | Low | M3 Money Supply |  |  | 10.0% |
-| 53 min | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | 1.357M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.057M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.665M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.267M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.040M | -1.673M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.318M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.268M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.100M | -2.894M |
+| 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
+| 24 min | USD | High | Crude Oil Inventories |  | -2.000M | 1.357M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | -0.057M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.665M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | -0.267M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.040M | -1.673M |
+| 24 min | USD | Low | Gasoline Production |  |  | -0.318M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.268M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 24 min | USD | Low | Gasoline Inventories |  | -0.100M | -2.894M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.466% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.836B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |

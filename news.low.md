@@ -24,13 +24,12 @@
 | 13:30 | CAD | IPPI (YoY) (Jul) | 2.9% |  | 2.9% |
 | 13:30 | CAD | IPPI (MoM) (Jul) | 0.0% | -0.3% | -0.1% |
 | 13:30 | CAD | RMPI (YoY) (Jul) | 4.1% |  | 7.2% |
-| 23 min | INR | M3 Money Supply |  |  | 10.0% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.057M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.267M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.040M | -1.673M |
-| 15:30 | USD | Gasoline Production |  |  | -0.318M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.268M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 15:30 | USD | Gasoline Inventories |  | -0.100M | -2.894M |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
+| 24 min | USD | Crude Oil Imports |  |  | -0.057M |
+| 24 min | USD | Distillate Fuel Production |  |  | -0.267M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  | 0.040M | -1.673M |
+| 24 min | USD | Gasoline Production |  |  | -0.318M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | -0.268M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 24 min | USD | Gasoline Inventories |  | -0.100M | -2.894M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.836B |
