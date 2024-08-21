@@ -10,16 +10,16 @@
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) | -3.8% |  | -3.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jul) | 2.18B | 0.50B | 12.55B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) | 19.232B |  | 6.490B |
-| 08:00 | CHF | Low | M3 Money Supply (Jul) | 1,139,714.0B |  | 1,135,837.0B |
-| 15 min | IDR | Low | Loans (YoY) (Jul) |  |  | 12.36% |
-| 25 min | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
-| 25 min | IDR | Low | Deposit Facility Rate (Aug) |  | 5.50% | 5.50% |
-| 25 min | IDR | Low | Lending Facility Rate (Aug) |  | 7.00% | 7.00% |
-| 55 min | ZAR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
-| 55 min | ZAR | Low | Core CPI (YoY) (Jul) |  |  | 4.5% |
-| 55 min | ZAR | Low | CPI (MoM) (Jul) |  |  | 0.1% |
-| 55 min | ZAR | Low | CPI (YoY) (Jul) |  |  | 5.1% |
-| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.441% |
+| 08:00 | CHF | Low | M3 Money Supply (Jul) | 1,139.7B |  | 1,135.8B |
+| 08:20 | IDR | Low | Loans (YoY) (Jul) | 12.40% |  | 12.36% |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Aug) | 5.50% | 5.50% | 5.50% |
+| 08:30 | IDR | Low | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
+| 52 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.441% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.430% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.54% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 16.8% |

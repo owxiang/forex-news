@@ -7,15 +7,15 @@
 | 04:00 | NZD | Credit Card Spending (YoY) (Jul) | -3.8% |  | -3.1% |
 | 07:00 | GBP | Public Sector Net Borrowing (Jul) | 2.18B | 0.50B | 12.55B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jul) | 19.232B |  | 6.490B |
-| 08:00 | CHF | M3 Money Supply (Jul) | 1,139,714.0B |  | 1,135,837.0B |
-| 15 min | IDR | Loans (YoY) (Jul) |  |  | 12.36% |
-| 25 min | IDR | Deposit Facility Rate (Aug) |  | 5.50% | 5.50% |
-| 25 min | IDR | Lending Facility Rate (Aug) |  | 7.00% | 7.00% |
-| 55 min | ZAR | Core CPI (MoM) (Jul) |  |  | 0.4% |
-| 55 min | ZAR | Core CPI (YoY) (Jul) |  |  | 4.5% |
-| 55 min | ZAR | CPI (MoM) (Jul) |  |  | 0.1% |
-| 55 min | ZAR | CPI (YoY) (Jul) |  |  | 5.1% |
-| 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.441% |
+| 08:00 | CHF | M3 Money Supply (Jul) | 1,139.7B |  | 1,135.8B |
+| 08:20 | IDR | Loans (YoY) (Jul) | 12.40% |  | 12.36% |
+| 08:30 | IDR | Deposit Facility Rate (Aug) | 5.50% | 5.50% | 5.50% |
+| 08:30 | IDR | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
+| 09:00 | ZAR | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
+| 09:00 | ZAR | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
+| 09:00 | ZAR | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
+| 52 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.441% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.54% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 16.8% |
 | 12:00 | USD | MBA Purchase Index |  |  | 137.7 |
