@@ -5,10 +5,10 @@
 | 00:50 | JPY | Imports (YoY) (Jul) | 16.6% | 14.9% | 3.2% |
 | 02:00 | AUD | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.0% |
 | 04:00 | NZD | Credit Card Spending (YoY) (Jul) | -3.8% |  | -3.1% |
-| 53 min | GBP | Public Sector Net Borrowing (Jul) |  | 0.50B | 13.59B |
-| 53 min | GBP | Public Sector Net Cash Requirement (Jul) |  |  | 6.622B |
-| 08:00 | CHF | M3 Money Supply (Jul) |  |  | 1,138.1B |
-| 08:00 | IDR | Loans (YoY) (Jul) |  |  | 12.36% |
+| 07:00 | GBP | Public Sector Net Borrowing (Jul) | 2.18B | 0.50B | 12.55B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Jul) | 19.232B |  | 6.490B |
+| 52 min | CHF | M3 Money Supply (Jul) |  |  | 1,138.1B |
+| 52 min | IDR | Loans (YoY) (Jul) |  |  | 12.36% |
 | 08:30 | IDR | Deposit Facility Rate (Aug) |  | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Aug) |  | 7.00% | 7.00% |
 | 09:00 | ZAR | Core CPI (MoM) (Jul) |  |  | 0.4% |
@@ -22,8 +22,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 251.3 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 889.3 |
 | 12:30 | INR | M3 Money Supply |  |  | 10.0% |
-| 13:30 | CAD | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
 | 13:30 | CAD | IPPI (YoY) (Jul) |  |  | 2.8% |
+| 13:30 | CAD | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
 | 13:30 | CAD | RMPI (YoY) (Jul) |  |  | 7.5% |
 | 15:00 | USD | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |

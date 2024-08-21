@@ -8,10 +8,10 @@
 | 00:50 | JPY | Moderate | Trade Balance (Jul) | -621.8B | -330.7B | 224.0B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.0% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) | -3.8% |  | -3.1% |
-| 53 min | GBP | Low | Public Sector Net Borrowing (Jul) |  | 0.50B | 13.59B |
-| 53 min | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | 6.622B |
-| 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,138.1B |
-| 08:00 | IDR | Low | Loans (YoY) (Jul) |  |  | 12.36% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Jul) | 2.18B | 0.50B | 12.55B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) | 19.232B |  | 6.490B |
+| 52 min | CHF | Low | M3 Money Supply (Jul) |  |  | 1,138.1B |
+| 52 min | IDR | Low | Loans (YoY) (Jul) |  |  | 12.36% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Aug) |  | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Aug) |  | 7.00% | 7.00% |
@@ -27,8 +27,8 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 251.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 889.3 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
-| 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jul) |  |  | 2.8% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jul) |  | -0.3% | 0.0% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jul) |  | 0.0% | -0.2% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 7.5% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.7% | -1.4% |
