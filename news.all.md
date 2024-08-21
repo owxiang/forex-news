@@ -7,7 +7,7 @@
 | 00:50 | JPY | Low | Imports (YoY) (Jul) | 16.6% | 14.9% | 3.2% |
 | 00:50 | JPY | Moderate | Trade Balance (Jul) | -621.8B | -330.7B | 224.0B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.0% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) |  |  | -3.1% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) | -3.8% |  | -3.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jul) |  | 0.50B | 13.59B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | 6.622B |
 | 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,138.1B |

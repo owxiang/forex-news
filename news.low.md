@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Imports (YoY) (Jul) | 16.6% | 14.9% | 3.2% |
 | 02:00 | AUD | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.0% |
-| 04:00 | NZD | Credit Card Spending (YoY) (Jul) |  |  | -3.1% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Jul) | -3.8% |  | -3.1% |
 | 07:00 | GBP | Public Sector Net Borrowing (Jul) |  | 0.50B | 13.59B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jul) |  |  | 6.622B |
 | 08:00 | CHF | M3 Money Supply (Jul) |  |  | 1,138.1B |
