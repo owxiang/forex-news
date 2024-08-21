@@ -15,10 +15,10 @@
 | 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Aug) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.068% |  | 4.441% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.220% |  | 2.430% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.50% |  | 6.54% |
