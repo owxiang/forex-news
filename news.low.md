@@ -11,11 +11,11 @@
 | 08:20 | IDR | Loans (YoY) (Jul) | 12.40% |  | 12.36% |
 | 08:30 | IDR | Deposit Facility Rate (Aug) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
-| 09:00 | ZAR | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
-| 09:00 | ZAR | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
-| 52 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.441% |
+| 09:00 | ZAR | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.441% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.54% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 16.8% |
 | 12:00 | USD | MBA Purchase Index |  |  | 137.7 |
