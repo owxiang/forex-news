@@ -8,6 +8,6 @@
 | 08:30 | IDR | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
 | 10:50 | EUR | German 10-Year Bund Auction | 2.220% |  | 2.430% |
 | 13:30 | CAD | RMPI (MoM) (Jul) | 0.7% | -0.7% | -1.7% |
-| 15:00 | USD | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | -1.665M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.560M |  | -1.665M |
+| 15:32 | USD | Payrolls Benchmark, n.s.a. | -818.00K |  | -187.00K |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.466% |

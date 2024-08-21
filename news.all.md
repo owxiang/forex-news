@@ -17,8 +17,8 @@
 | 08:30 | IDR | Low | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.068% |  | 4.441% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.220% |  | 2.430% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.50% |  | 6.54% |
@@ -30,17 +30,17 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Jul) | 0.0% | -0.3% | -0.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) | 4.1% |  | 7.2% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) | 0.7% | -0.7% | -1.7% |
-| 15:00 | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
-| 24 min | USD | High | Crude Oil Inventories |  | -2.000M | 1.357M |
-| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
-| 24 min | USD | Low | Crude Oil Imports |  |  | -0.057M |
-| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.665M |
-| 24 min | USD | Low | Distillate Fuel Production |  |  | -0.267M |
-| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.040M | -1.673M |
-| 24 min | USD | Low | Gasoline Production |  |  | -0.318M |
-| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.268M |
-| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 24 min | USD | Low | Gasoline Inventories |  | -0.100M | -2.894M |
+| 15:30 | USD | High | Crude Oil Inventories | -4.649M | -2.000M | 1.357M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.222M |  | 0.065M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.078M |  | -0.057M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.560M |  | -1.665M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.123M |  | -0.267M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -3.312M | 0.040M | -1.673M |
+| 15:30 | USD | Low | Gasoline Production | 0.046M |  | -0.318M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.265M |  | -0.268M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.8% |  | 1.0% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.606M | -0.100M | -2.894M |
+| 15:32 | USD | Moderate | Payrolls Benchmark, n.s.a. | -818.00K |  | -187.00K |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.466% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.836B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
