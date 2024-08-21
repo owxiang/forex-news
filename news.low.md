@@ -13,8 +13,8 @@
 | 08:30 | IDR | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
 | 09:00 | ZAR | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
-| 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 09:00 | ZAR | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.068% |  | 4.441% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.50% |  | 6.54% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -10.1% |  | 16.8% |
