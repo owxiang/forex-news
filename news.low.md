@@ -13,8 +13,8 @@
 | 08:30 | IDR | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
 | 09:00 | ZAR | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
 | 09:00 | ZAR | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
-| 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 09:00 | ZAR | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.068% |  | 4.441% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.50% |  | 6.54% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -10.1% |  | 16.8% |
@@ -32,3 +32,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.265M |  | -0.268M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.8% |  | 1.0% |
 | 15:30 | USD | Gasoline Inventories | -1.606M | -0.100M | -2.894M |
+| 18:30 | BRL | Foreign Exchange Flows | -0.573B |  | -0.836B |

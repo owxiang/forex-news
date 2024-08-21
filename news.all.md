@@ -17,8 +17,8 @@
 | 08:30 | IDR | Low | Lending Facility Rate (Aug) | 7.00% | 7.00% | 7.00% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.3% |  | 4.5% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.3% |  | 0.4% |
-| 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jul) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jul) | 4.6% |  | 5.1% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.068% |  | 4.441% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.220% |  | 2.430% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.50% |  | 6.54% |
@@ -42,4 +42,5 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.8% |  | 1.0% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.606M | -0.100M | -2.894M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.160% |  | 4.466% |
-| 54 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -0.573B |  | -0.836B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
