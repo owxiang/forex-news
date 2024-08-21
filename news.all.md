@@ -8,8 +8,8 @@
 | 00:50 | JPY | Moderate | Trade Balance (Jul) | -621.8B | -330.7B | 224.0B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.0% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jul) | -3.8% |  | -3.1% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Jul) |  | 0.50B | 13.59B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | 6.622B |
+| 53 min | GBP | Low | Public Sector Net Borrowing (Jul) |  | 0.50B | 13.59B |
+| 53 min | GBP | Low | Public Sector Net Cash Requirement (Jul) |  |  | 6.622B |
 | 08:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,138.1B |
 | 08:00 | IDR | Low | Loans (YoY) (Jul) |  |  | 12.36% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
@@ -33,7 +33,7 @@
 | 13:30 | CAD | Low | RMPI (YoY) (Jul) |  |  | 7.5% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jul) |  | -0.7% | -1.4% |
 | 15:00 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | -187.00K |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.800M | 1.357M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | 1.357M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.065M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.057M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.665M |
