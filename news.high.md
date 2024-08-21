@@ -1,6 +1,8 @@
-## 21 August 2024 - High Impact Forex News
+## 22 August 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:30 | USD | Crude Oil Inventories | -4.649M | -2.000M | 1.357M |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Initial Jobless Claims |  | 232K | 227K |
+| 14:45 | USD | S&P Global US Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
+| 14:45 | USD | S&P Global Services PMI (Aug) |  | 54.0 | 55.0 |
+| 15:00 | USD | Existing Home Sales (Jul) |  | 3.93M | 3.89M |
