@@ -10,4 +10,4 @@
 | 13:30 | CAD | RMPI (MoM) (Jul) | 0.7% | -0.7% | -1.7% |
 | 15:00 | USD | Payrolls Benchmark, n.s.a. | -818.00K |  | 506.00K |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.560M |  | -1.665M |
-| 53 min | USD | 20-Year Bond Auction |  |  | 4.466% |
+| 18:00 | USD | 20-Year Bond Auction | 4.160% |  | 4.466% |
