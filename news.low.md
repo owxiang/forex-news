@@ -25,11 +25,10 @@
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Jul) | -0.34 | 0.03 | -0.09 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 236.00K |  | 236.75K |
-| 21 min | BRL | Federal Tax Revenue (Jul) |  |  | 208.80B |
-| 51 min | EUR | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
-| 15:30 | USD | Natural Gas Storage |  | 26B | -6B |
-| 16:00 | USD | KC Fed Composite Index (Aug) |  | -9 | -13 |
-| 16:00 | USD | KC Fed Manufacturing Index (Aug) |  |  | -12 |
+| 15:00 | EUR | Consumer Confidence (Aug) | -13.4 | -13.0 | -13.0 |
+| 25 min | USD | Natural Gas Storage |  | 26B | -6B |
+| 55 min | USD | KC Fed Composite Index (Aug) |  | -9 | -13 |
+| 55 min | USD | KC Fed Manufacturing Index (Aug) |  |  | -12 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.260% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.175% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.836B |

@@ -43,17 +43,16 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,863K | 1,870K | 1,859K |
 | 13:30 | USD | High | Initial Jobless Claims | 232K | 232K | 228K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.00K |  | 236.75K |
-| 21 min | BRL | Low | Federal Tax Revenue (Jul) |  |  | 208.80B |
-| 36 min | USD | High | S&P Global US Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
-| 36 min | USD | Moderate | S&P Global Composite PMI (Aug) |  | 53.2 | 54.3 |
-| 36 min | USD | High | S&P Global Services PMI (Aug) |  | 54.0 | 55.0 |
-| 51 min | USD | Moderate | Existing Home Sales (MoM) (Jul) |  | 1.3% | -5.4% |
-| 51 min | USD | High | Existing Home Sales (Jul) |  | 3.94M | 3.89M |
-| 51 min | EUR | Low | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 26B | -6B |
-| 16:00 | USD | Low | KC Fed Composite Index (Aug) |  | -9 | -13 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -12 |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) | 48.0 | 49.5 | 49.6 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.1 | 53.2 | 54.3 |
+| 14:45 | USD | High | S&P Global Services PMI (Aug) | 55.2 | 54.0 | 55.0 |
+| 15:00 | USD | High | Existing Home Sales (Jul) | 3.95M | 3.94M | 3.90M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | 1.3% | 1.3% | -5.1% |
+| 15:00 | EUR | Low | Consumer Confidence (Aug) | -13.4 | -13.0 | -13.0 |
+| 25 min | USD | Low | Natural Gas Storage |  | 26B | -6B |
+| 55 min | USD | Low | KC Fed Composite Index (Aug) |  | -9 | -13 |
+| 55 min | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -12 |
+| 55 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.260% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.175% |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.200% |
