@@ -23,10 +23,10 @@
 | 13:00 | MXN | Economic Activity (MoM) (Jun) | 0.00% | 0.30% | 0.70% |
 | 13:00 | MXN | Economic Activity (YoY) (Jun) | -0.60% | 0.90% | 1.60% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 21 min | USD | Chicago Fed National Activity (Jul) |  | 0.03 | 0.05 |
-| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
-| 14:30 | BRL | Federal Tax Revenue (Jul) |  |  | 208.80B |
-| 15:00 | EUR | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
+| 13:30 | USD | Chicago Fed National Activity (Jul) | -0.34 | 0.03 | -0.09 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 236.00K |  | 236.75K |
+| 21 min | BRL | Federal Tax Revenue (Jul) |  |  | 208.80B |
+| 51 min | EUR | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
 | 15:30 | USD | Natural Gas Storage |  | 26B | -6B |
 | 16:00 | USD | KC Fed Composite Index (Aug) |  | -9 | -13 |
 | 16:00 | USD | KC Fed Manufacturing Index (Aug) |  |  | -12 |

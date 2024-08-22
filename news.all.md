@@ -36,20 +36,20 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (Aug) | -0.03% | 0.12% | 0.71% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jun) | 0.00% | 0.30% | 0.70% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jun) | -0.60% | 0.90% | 1.60% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.1% | 2.2% | 1.6% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.1% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.1% | 2.2% | 1.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 21 min | USD | Low | Chicago Fed National Activity (Jul) |  | 0.03 | 0.05 |
-| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,864K |
-| 21 min | USD | High | Initial Jobless Claims |  | 232K | 227K |
-| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.50K |
-| 14:30 | BRL | Low | Federal Tax Revenue (Jul) |  |  | 208.80B |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 53.2 | 54.3 |
-| 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 54.0 | 55.0 |
-| 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.94M | 3.89M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  | 1.3% | -5.4% |
-| 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
+| 13:30 | USD | Low | Chicago Fed National Activity (Jul) | -0.34 | 0.03 | -0.09 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,863K | 1,870K | 1,859K |
+| 13:30 | USD | High | Initial Jobless Claims | 232K | 232K | 228K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.00K |  | 236.75K |
+| 21 min | BRL | Low | Federal Tax Revenue (Jul) |  |  | 208.80B |
+| 36 min | USD | High | S&P Global US Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
+| 36 min | USD | Moderate | S&P Global Composite PMI (Aug) |  | 53.2 | 54.3 |
+| 36 min | USD | High | S&P Global Services PMI (Aug) |  | 54.0 | 55.0 |
+| 51 min | USD | Moderate | Existing Home Sales (MoM) (Jul) |  | 1.3% | -5.4% |
+| 51 min | USD | High | Existing Home Sales (Jul) |  | 3.94M | 3.89M |
+| 51 min | EUR | Low | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 26B | -6B |
 | 16:00 | USD | Low | KC Fed Composite Index (Aug) |  | -9 | -13 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -12 |
