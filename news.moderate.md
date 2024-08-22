@@ -22,7 +22,7 @@
 | 14:45 | USD | S&P Global Composite PMI (Aug) | 54.1 | 53.2 | 54.3 |
 | 15:00 | USD | Existing Home Sales (MoM) (Jul) | 1.3% | 1.3% | -5.1% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 54 min | USD | 30-Year TIPS Auction |  |  | 2.200% |
+| 18:00 | USD | 30-Year TIPS Auction | 2.055% |  | 2.200% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,178B |
 | 23:45 | NZD | Core Retail Sales (QoQ) |  | -0.8% | 0.4% |
 | 23:45 | NZD | Retail Sales (QoQ) (Q2) |  | -1.0% | 0.5% |

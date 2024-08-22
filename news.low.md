@@ -31,6 +31,5 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Aug) | 6 |  | -12 |
 | 16:30 | USD | 4-Week Bill Auction | 5.240% |  | 5.260% |
 | 16:30 | USD | 8-Week Bill Auction | 5.125% |  | 5.175% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.836B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.339T |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | -2.4% |
