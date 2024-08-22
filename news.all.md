@@ -46,8 +46,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) | 48.0 | 49.5 | 49.6 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.1 | 53.2 | 54.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) | 55.2 | 54.0 | 55.0 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | 1.3% | 1.3% | -5.1% |
 | 15:00 | USD | High | Existing Home Sales (Jul) | 3.95M | 3.94M | 3.90M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | 1.3% | 1.3% | -5.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) | -13.4 | -13.0 | -13.0 |
 | 15:30 | USD | Low | Natural Gas Storage | 35B | 26B | -6B |
 | 16:00 | USD | Low | KC Fed Composite Index (Aug) | -3 | -9 | -13 |
@@ -56,8 +56,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.240% |  | 5.260% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.125% |  | 5.175% |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.055% |  | 2.200% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.339T |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.339T |
 | 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | -0.8% | 0.4% |
 | 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q2) |  | -1.0% | 0.5% |
 | 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | -2.4% |
