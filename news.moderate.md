@@ -13,14 +13,14 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) | 53.4 | 52.9 | 52.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.1 | 52.1 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) | 53.3 | 52.8 | 52.5 |
-| 24 min | INR | RBI MPC Meeting Minutes |  |  |  |
-| 24 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 54 min | USD | Jackson Hole Symposium |  |  |  |
-| 54 min | MXN | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 54 min | MXN | GDP (YoY) (Q2) |  | 2.2% | 1.6% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,864K |
-| 14:45 | USD | S&P Global Composite PMI (Aug) |  | 53.5 | 54.3 |
-| 15:00 | USD | Existing Home Sales (MoM) (Jul) |  |  | -5.4% |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | USD | Jackson Hole Symposium |  |  |  |
+| 13:00 | MXN | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 13:00 | MXN | GDP (YoY) (Q2) | 2.1% | 2.2% | 1.6% |
+| 21 min | USD | Continuing Jobless Claims |  | 1,870K | 1,864K |
+| 14:45 | USD | S&P Global Composite PMI (Aug) |  | 53.2 | 54.3 |
+| 15:00 | USD | Existing Home Sales (MoM) (Jul) |  | 1.3% | -5.4% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 30-Year TIPS Auction |  |  | 2.200% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,178B |

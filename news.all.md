@@ -28,30 +28,30 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.1 | 52.1 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) | 53.3 | 52.8 | 52.5 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -22 | -26 | -32 |
-| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 54 min | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 54 min | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.19% | 0.18% |
-| 54 min | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.71% |
-| 54 min | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |
-| 54 min | MXN | Low | Economic Activity (YoY) (Jun) |  | 0.90% | 1.60% |
-| 54 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 54 min | MXN | Moderate | GDP (YoY) (Q2) |  | 2.2% | 1.6% |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jul) |  |  | 0.05 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,864K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 232K | 227K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.50K |
-| 14:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
+| 12:30 | INR | Low | M3 Money Supply | 10.3% |  | 10.0% |
+| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) | 0.10% | 0.19% | 0.18% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Aug) | -0.03% | 0.12% | 0.71% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) | 0.00% | 0.30% | 0.70% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jun) | -0.60% | 0.90% | 1.60% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.1% | 2.2% | 1.6% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 21 min | USD | Low | Chicago Fed National Activity (Jul) |  | 0.03 | 0.05 |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,864K |
+| 21 min | USD | High | Initial Jobless Claims |  | 232K | 227K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.50K |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jul) |  |  | 208.80B |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 53.5 | 54.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 53.2 | 54.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 54.0 | 55.0 |
 | 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.94M | 3.89M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -5.4% |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  | 1.3% | -5.4% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 26B | -6B |
-| 16:00 | USD | Low | KC Fed Composite Index (Aug) |  |  | -13 |
+| 16:00 | USD | Low | KC Fed Composite Index (Aug) |  | -9 | -13 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -12 |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.260% |
