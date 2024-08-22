@@ -46,15 +46,15 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) | 48.0 | 49.5 | 49.6 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.1 | 53.2 | 54.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) | 55.2 | 54.0 | 55.0 |
-| 15:00 | USD | High | Existing Home Sales (Jul) | 3.95M | 3.94M | 3.90M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | 1.3% | 1.3% | -5.1% |
+| 15:00 | USD | High | Existing Home Sales (Jul) | 3.95M | 3.94M | 3.90M |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) | -13.4 | -13.0 | -13.0 |
-| 25 min | USD | Low | Natural Gas Storage |  | 26B | -6B |
-| 55 min | USD | Low | KC Fed Composite Index (Aug) |  | -9 | -13 |
-| 55 min | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -12 |
-| 55 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.260% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.175% |
+| 15:30 | USD | Low | Natural Gas Storage | 35B | 26B | -6B |
+| 16:00 | USD | Low | KC Fed Composite Index (Aug) | -3 | -9 | -13 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) | 6 |  | -12 |
+| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 5.260% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 5.175% |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.200% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.836B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
