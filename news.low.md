@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 22 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -16,7 +16,7 @@
 | 07:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.1% | 0.2% | 0.1% |
 | 08:15 | EUR | HCOB France Composite PMI (Aug) | 52.7 | 49.1 | 49.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Aug) | 48.5 | 49.2 | 49.1 |
-| 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -26 | -32 |
+| 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -22 | -26 | -32 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.19% | 0.18% |
 | 13:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.71% |
 | 13:00 | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |

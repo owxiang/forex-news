@@ -1,4 +1,4 @@
-## None - All Forex News
+## 22 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -27,7 +27,7 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) | 53.4 | 52.9 | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.1 | 52.1 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) | 53.3 | 52.8 | 52.5 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) |  | -26 | -32 |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -22 | -26 | -32 |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
