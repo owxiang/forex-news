@@ -28,16 +28,16 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.1 | 52.1 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) | 53.3 | 52.8 | 52.5 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -22 | -26 | -32 |
-| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.19% | 0.18% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.71% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 0.90% | 1.60% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 2.2% | 1.6% |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 54 min | USD | Moderate | Jackson Hole Symposium |  |  |  |
+| 54 min | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.19% | 0.18% |
+| 54 min | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.71% |
+| 54 min | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |
+| 54 min | MXN | Low | Economic Activity (YoY) (Jun) |  | 0.90% | 1.60% |
+| 54 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 54 min | MXN | Moderate | GDP (YoY) (Q2) |  | 2.2% | 1.6% |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jul) |  |  | 0.05 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,864K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 232K | 227K |

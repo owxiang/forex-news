@@ -17,11 +17,11 @@
 | 08:15 | EUR | HCOB France Composite PMI (Aug) | 52.7 | 49.1 | 49.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Aug) | 48.5 | 49.2 | 49.1 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -22 | -26 | -32 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.19% | 0.18% |
-| 13:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.71% |
-| 13:00 | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |
-| 13:00 | MXN | Economic Activity (YoY) (Jun) |  | 0.90% | 1.60% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 54 min | MXN | 1st Half-Month Core CPI (Aug) |  | 0.19% | 0.18% |
+| 54 min | MXN | 1st Half-Month CPI (Aug) |  | 0.12% | 0.71% |
+| 54 min | MXN | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |
+| 54 min | MXN | Economic Activity (YoY) (Jun) |  | 0.90% | 1.60% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Jul) |  |  | 0.05 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
 | 14:30 | INR | M3 Money Supply |  |  | 10.0% |
