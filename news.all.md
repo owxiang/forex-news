@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Aug) | 48.7 |  | 47.5 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Aug) | 52.2 |  | 50.4 |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 1,539.2B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 521.9B |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.8 | 49.1 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) |  |  | 53.7 |
-| 02:00 | KRW | Low | Interest Rate Decision (Aug) |  | 3.50% | 3.50% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,854.0B |  | 1,539.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -47.9B |  | 521.7B |
+| 7 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.8 | 49.1 |
+| 7 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) |  |  | 53.7 |
+| 37 min | KRW | Low | Interest Rate Decision (Aug) |  | 3.50% | 3.50% |
 | 05:00 | IDR | Low | Balance of Payments (EUR) (Q2) |  |  | -6.0B |
 | 05:00 | IDR | Low | Current Account % of GDP (Q2) |  |  | -0.60% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) |  |  | 58.1 |
@@ -33,8 +33,8 @@
 | 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.19% | 0.18% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.12% | 0.71% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 0.90% | 1.60% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.30% | 0.70% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 2.2% | 1.6% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
@@ -47,8 +47,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 53.5 | 54.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 54.0 | 55.0 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -5.4% |
 | 15:00 | USD | High | Existing Home Sales (Jul) |  | 3.93M | 3.89M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -5.4% |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 22B | -6B |
 | 16:00 | USD | Low | KC Fed Composite Index (Aug) |  |  | -13 |
