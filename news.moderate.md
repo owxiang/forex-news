@@ -16,8 +16,8 @@
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | USD | Jackson Hole Symposium |  |  |  |
-| 13:00 | MXN | GDP (YoY) (Q2) |  | 2.2% | 1.6% |
 | 13:00 | MXN | GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 13:00 | MXN | GDP (YoY) (Q2) |  | 2.2% | 1.6% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,864K |
 | 14:45 | USD | S&P Global Composite PMI (Aug) |  | 53.5 | 54.3 |
 | 15:00 | USD | Existing Home Sales (MoM) (Jul) |  |  | -5.4% |

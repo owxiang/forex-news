@@ -12,8 +12,8 @@
 | 05:00 | IDR | Current Account % of GDP (Q2) | -0.90% |  | -0.60% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 57.9 |  | 58.1 |
 | 06:00 | INR | HSBC India Services PMI (Aug) | 60.4 |  | 60.3 |
-| 54 min | NOK | GDP (QoQ) (Q2) |  |  | 0.2% |
-| 54 min | NOK | GDP Mainland (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 07:00 | NOK | GDP (QoQ) (Q2) | 1.4% |  | 0.3% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.1% | 0.2% | 0.1% |
 | 08:15 | EUR | HCOB France Composite PMI (Aug) |  | 49.1 | 49.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 49.2 | 49.1 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -26 | -32 |
@@ -26,7 +26,6 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
 | 14:30 | INR | M3 Money Supply |  |  | 10.0% |
 | 14:30 | BRL | Federal Tax Revenue (Jul) |  |  | 208.80B |
-| 15:00 | EUR | Consumer Confidence (Aug) |  | -13.0 | -13.0 |
 | 15:30 | USD | Natural Gas Storage |  | 26B | -6B |
 | 16:00 | USD | KC Fed Composite Index (Aug) |  |  | -13 |
 | 16:00 | USD | KC Fed Manufacturing Index (Aug) |  |  | -12 |
