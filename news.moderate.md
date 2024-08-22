@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 7 min | JPY | au Jibun Bank Japan Services PMI (Aug) |  |  | 53.7 |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 54.0 |  | 53.7 |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Aug) |  | 44.4 | 44.0 |
 | 08:15 | EUR | HCOB France Services PMI (Aug) |  | 50.2 | 50.1 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 43.4 | 43.2 |
