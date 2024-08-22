@@ -24,5 +24,5 @@
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 30-Year TIPS Auction | 2.055% |  | 2.200% |
 | 21:30 | USD | Fed's Balance Sheet | 7,194B |  | 7,178B |
-| 23:45 | NZD | Core Retail Sales (QoQ) |  | -0.8% | 0.4% |
-| 23:45 | NZD | Retail Sales (QoQ) (Q2) |  | -1.0% | 0.5% |
+| 39 min | NZD | Core Retail Sales (QoQ) |  | -0.8% | 0.4% |
+| 39 min | NZD | Retail Sales (QoQ) (Q2) |  | -1.0% | 0.5% |
