@@ -1,28 +1,26 @@
-## 22 August 2024 - Moderate Impact Forex News
+## 23 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 54.0 |  | 53.7 |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Aug) | 42.1 | 44.4 | 44.0 |
-| 08:15 | EUR | HCOB France Services PMI (Aug) | 55.0 | 50.2 | 50.1 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Aug) | 42.1 | 43.4 | 43.2 |
-| 08:30 | EUR | HCOB Germany Services PMI (Aug) | 51.4 | 52.3 | 52.5 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 45.6 | 45.7 | 45.8 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 51.2 | 50.1 | 50.2 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Aug) | 53.3 | 51.7 | 51.9 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) | 53.4 | 52.9 | 52.8 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.1 | 52.1 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) | 53.3 | 52.8 | 52.5 |
-| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 25 min | JPY | National Core CPI (YoY) (Jul) |  | 2.7% | 2.6% |
+| 25 min | JPY | National CPI (MoM) (Jul) |  |  | 0.3% |
+| 06:00 | SGD | Core CPI (YoY) (Jul) |  | 2.90% | 2.90% |
+| 06:00 | SGD | CPI (YoY) (Jul) |  | 2.5% | 2.4% |
 | 13:00 | USD | Jackson Hole Symposium |  |  |  |
-| 13:00 | MXN | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.1% |
-| 13:00 | MXN | GDP (YoY) (Q2) | 2.1% | 2.2% | 1.5% |
-| 13:30 | USD | Continuing Jobless Claims | 1,863K | 1,870K | 1,859K |
-| 14:45 | USD | S&P Global Composite PMI (Aug) | 54.1 | 53.2 | 54.3 |
-| 15:00 | USD | Existing Home Sales (MoM) (Jul) | 1.3% | 1.3% | -5.1% |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 18:00 | USD | 30-Year TIPS Auction | 2.055% |  | 2.200% |
-| 21:30 | USD | Fed's Balance Sheet | 7,194B |  | 7,178B |
-| 39 min | NZD | Core Retail Sales (QoQ) |  | -0.8% | 0.4% |
-| 39 min | NZD | Retail Sales (QoQ) (Q2) |  | -1.0% | 0.5% |
+| 13:30 | USD | Building Permits (Jul) |  | 1.396M | 1.454M |
+| 13:30 | CAD | Core Retail Sales (MoM) (Jun) |  | -0.2% | -1.3% |
+| 13:30 | CAD | Retail Sales (MoM) (Jun) |  | -0.3% | -0.8% |
+| 15:00 | USD | New Home Sales (MoM) (Jul) |  |  | -0.6% |
+| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 47.8K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 231.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 267.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 8.5K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -23.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -42.6K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -53.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 23.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 27.0K |

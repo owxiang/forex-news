@@ -1,35 +1,32 @@
-## 22 August 2024 - Low Impact Forex News
+## 23 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Aug) | 48.7 |  | 47.5 |
-| 00:00 | AUD | Judo Bank Australia Services PMI (Aug) | 52.2 |  | 50.4 |
-| 00:50 | JPY | Foreign Bonds Buying | 1,854.0B |  | 1,539.7B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -47.9B |  | 521.7B |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.5 | 49.8 | 49.1 |
-| 02:00 | KRW | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
-| 05:00 | IDR | Balance of Payments (EUR) (Q2) | -0.6B |  | -6.0B |
-| 05:00 | IDR | Current Account % of GDP (Q2) | -0.90% |  | -0.60% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 57.9 |  | 58.1 |
-| 06:00 | INR | HSBC India Services PMI (Aug) | 60.4 |  | 60.3 |
-| 07:00 | NOK | GDP (QoQ) (Q2) | 1.4% |  | 0.3% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.1% | 0.2% | 0.1% |
-| 08:15 | EUR | HCOB France Composite PMI (Aug) | 52.7 | 49.1 | 49.1 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Aug) | 48.5 | 49.2 | 49.1 |
-| 11:00 | GBP | CBI Industrial Trends Orders (Aug) | -22 | -26 | -32 |
-| 12:30 | INR | M3 Money Supply | 10.3% |  | 10.0% |
-| 13:00 | MXN | 1st Half-Month Core CPI (Aug) | 0.10% | 0.19% | 0.18% |
-| 13:00 | MXN | 1st Half-Month CPI (Aug) | -0.03% | 0.12% | 0.71% |
-| 13:00 | MXN | Economic Activity (MoM) (Jun) | 0.00% | 0.30% | 0.70% |
-| 13:00 | MXN | Economic Activity (YoY) (Jun) | -0.60% | 0.90% | 1.60% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Chicago Fed National Activity (Jul) | -0.34 | 0.03 | -0.09 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 236.00K |  | 236.75K |
-| 15:00 | EUR | Consumer Confidence (Aug) | -13.4 | -13.0 | -13.0 |
-| 15:30 | USD | Natural Gas Storage | 35B | 26B | -6B |
-| 16:00 | USD | KC Fed Composite Index (Aug) | -3 | -9 | -13 |
-| 16:00 | USD | KC Fed Manufacturing Index (Aug) | 6 |  | -12 |
-| 16:30 | USD | 4-Week Bill Auction | 5.240% |  | 5.260% |
-| 16:30 | USD | 8-Week Bill Auction | 5.125% |  | 5.175% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.359T |  | 3.339T |
-| 39 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | -2.4% |
+| 00:01 | GBP | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
+| 25 min | JPY | CPI, n.s.a (MoM) (Jul) |  |  | 0.1% |
+| 25 min | JPY | National CPI (YoY) (Jul) |  |  | 2.8% |
+| 05:00 | IDR | M2 Money Supply (YoY) (Jul) |  |  | 7.80% |
+| 06:00 | SGD | CPI (MoM) (Jul) |  |  | -0.20% |
+| 07:00 | NOK | M3 Money Supply (Jul) |  |  | 3,234.8B |
+| 07:00 | NOK | Credit Indicator (YoY) (Jul) |  |  | 3.6% |
+| 07:45 | EUR | French Business Survey (Aug) |  | 96 | 95 |
+| 12:30 | INR | Bank Loan Growth |  |  | 13.7% |
+| 12:30 | INR | Deposit Growth |  |  | 10.6% |
+| 12:30 | INR | FX Reserves, USD |  |  | 670.12B |
+| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 13:30 | USD | Building Permits (MoM) (Jul) |  |  | 3.9% |
+| 13:30 | CAD | Corporate Profits (QoQ) |  |  | 0.6% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | -2.1% |
+| 15:00 | MXN | Current Account (USD) (Q2) |  |  | -12,582M |
+| 15:00 | MXN | Current Account % of GDP (Q2) |  |  | -2.70% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -154.0K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -80.8K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 45.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -165.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -38.9K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -179.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 50.1K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -21.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -15.6K |

@@ -1,63 +1,56 @@
-## 22 August 2024 - All Forex News
+## 23 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Aug) | 48.7 |  | 47.5 |
-| 00:00 | AUD | Low | Judo Bank Australia Services PMI (Aug) | 52.2 |  | 50.4 |
-| 00:50 | JPY | Low | Foreign Bonds Buying | 1,854.0B |  | 1,539.7B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -47.9B |  | 521.7B |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.5 | 49.8 | 49.1 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 54.0 |  | 53.7 |
-| 02:00 | KRW | Low | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
-| 05:00 | IDR | Low | Balance of Payments (EUR) (Q2) | -0.6B |  | -6.0B |
-| 05:00 | IDR | Low | Current Account % of GDP (Q2) | -0.90% |  | -0.60% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) | 57.9 |  | 58.1 |
-| 06:00 | INR | Low | HSBC India Services PMI (Aug) | 60.4 |  | 60.3 |
-| 07:00 | NOK | Low | GDP (QoQ) (Q2) | 1.4% |  | 0.3% |
-| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) | 0.1% | 0.2% | 0.1% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 42.1 | 44.4 | 44.0 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Aug) | 52.7 | 49.1 | 49.1 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Aug) | 55.0 | 50.2 | 50.1 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Aug) | 48.5 | 49.2 | 49.1 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 42.1 | 43.4 | 43.2 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 51.4 | 52.3 | 52.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 45.6 | 45.7 | 45.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 51.2 | 50.1 | 50.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 53.3 | 51.7 | 51.9 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) | 53.4 | 52.9 | 52.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.1 | 52.1 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) | 53.3 | 52.8 | 52.5 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -22 | -26 | -32 |
-| 12:30 | INR | Low | M3 Money Supply | 10.3% |  | 10.0% |
-| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
+| 25 min | JPY | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.1% |
+| 25 min | JPY | Moderate | National Core CPI (YoY) (Jul) |  | 2.7% | 2.6% |
+| 25 min | JPY | Moderate | National CPI (MoM) (Jul) |  |  | 0.3% |
+| 25 min | JPY | Low | National CPI (YoY) (Jul) |  |  | 2.8% |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 7.80% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) |  | 2.90% | 2.90% |
+| 06:00 | SGD | Low | CPI (MoM) (Jul) |  |  | -0.20% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Jul) |  | 2.5% | 2.4% |
+| 07:00 | NOK | Low | M3 Money Supply (Jul) |  |  | 3,234.8B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Jul) |  |  | 3.6% |
+| 07:45 | EUR | Low | French Business Survey (Aug) |  | 96 | 95 |
+| 12:30 | INR | Low | Bank Loan Growth |  |  | 13.7% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 10.6% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 670.12B |
 | 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Aug) | 0.10% | 0.19% | 0.18% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Aug) | -0.03% | 0.12% | 0.71% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jun) | 0.00% | 0.30% | 0.70% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jun) | -0.60% | 0.90% | 1.60% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.1% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 2.1% | 2.2% | 1.5% |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jul) | -0.34 | 0.03 | -0.09 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,863K | 1,870K | 1,859K |
-| 13:30 | USD | High | Initial Jobless Claims | 232K | 232K | 228K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.00K |  | 236.75K |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) | 48.0 | 49.5 | 49.6 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.1 | 53.2 | 54.3 |
-| 14:45 | USD | High | S&P Global Services PMI (Aug) | 55.2 | 54.0 | 55.0 |
-| 15:00 | USD | High | Existing Home Sales (Jul) | 3.95M | 3.94M | 3.90M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | 1.3% | 1.3% | -5.1% |
-| 15:00 | EUR | Low | Consumer Confidence (Aug) | -13.4 | -13.0 | -13.0 |
-| 15:30 | USD | Low | Natural Gas Storage | 35B | 26B | -6B |
-| 16:00 | USD | Low | KC Fed Composite Index (Aug) | -3 | -9 | -13 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) | 6 |  | -12 |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction | 5.240% |  | 5.260% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 5.125% |  | 5.175% |
-| 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.055% |  | 2.200% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,194B |  | 7,178B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.359T |  | 3.339T |
-| 39 min | NZD | Moderate | Core Retail Sales (QoQ) |  | -0.8% | 0.4% |
-| 39 min | NZD | Moderate | Retail Sales (QoQ) (Q2) |  | -1.0% | 0.5% |
-| 39 min | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) |  |  | -2.4% |
+| 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.396M | 1.454M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | 3.9% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.2% | -1.3% |
+| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 0.6% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | -2.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | -0.3% | -0.8% |
+| 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -0.6% |
+| 15:00 | USD | High | New Home Sales (Jul) |  | 624K | 617K |
+| 15:00 | MXN | Low | Current Account (USD) (Q2) |  |  | -12,582M |
+| 15:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -2.70% |
+| 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 20:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 47.8K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.2K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 15.8K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -154.0K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 231.5K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 267.3K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 8.5K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -80.8K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -23.5K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 45.3K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -165.7K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -38.9K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -179.6K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 50.1K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -21.7K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -42.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -53.8K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 23.1K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -15.6K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 27.0K |
