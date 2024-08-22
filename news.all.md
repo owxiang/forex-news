@@ -53,9 +53,9 @@
 | 16:00 | USD | Low | KC Fed Composite Index (Aug) | -3 | -9 | -13 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Aug) | 6 |  | -12 |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 5.260% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 5.175% |
-| 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.200% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.240% |  | 5.260% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.125% |  | 5.175% |
+| 54 min | USD | Moderate | 30-Year TIPS Auction |  |  | 2.200% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.836B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,178B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.339T |
