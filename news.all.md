@@ -9,10 +9,10 @@
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.5 | 49.8 | 49.1 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 54.0 |  | 53.7 |
 | 02:00 | KRW | Low | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
-| 53 min | IDR | Low | Balance of Payments (EUR) (Q2) | -0.6B |  | -6.0B |
-| 53 min | IDR | Low | Current Account % of GDP (Q2) | -0.90% |  | -0.60% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) |  |  | 58.1 |
-| 06:00 | INR | Low | HSBC India Services PMI (Aug) |  |  | 60.3 |
+| 05:00 | IDR | Low | Balance of Payments (EUR) (Q2) | -0.6B |  | -6.0B |
+| 05:00 | IDR | Low | Current Account % of GDP (Q2) | -0.90% |  | -0.60% |
+| 54 min | INR | Low | HSBC India Manufacturing PMI (Aug) |  |  | 58.1 |
+| 54 min | INR | Low | HSBC India Services PMI (Aug) |  |  | 60.3 |
 | 07:00 | NOK | Low | GDP (QoQ) (Q2) |  |  | 0.2% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  | 0.2% | 0.2% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 44.4 | 44.0 |

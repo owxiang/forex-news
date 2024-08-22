@@ -8,10 +8,10 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -47.9B |  | 521.7B |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.5 | 49.8 | 49.1 |
 | 02:00 | KRW | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
-| 53 min | IDR | Balance of Payments (EUR) (Q2) | -0.6B |  | -6.0B |
-| 53 min | IDR | Current Account % of GDP (Q2) | -0.90% |  | -0.60% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Aug) |  |  | 58.1 |
-| 06:00 | INR | HSBC India Services PMI (Aug) |  |  | 60.3 |
+| 05:00 | IDR | Balance of Payments (EUR) (Q2) | -0.6B |  | -6.0B |
+| 05:00 | IDR | Current Account % of GDP (Q2) | -0.90% |  | -0.60% |
+| 54 min | INR | HSBC India Manufacturing PMI (Aug) |  |  | 58.1 |
+| 54 min | INR | HSBC India Services PMI (Aug) |  |  | 60.3 |
 | 07:00 | NOK | GDP (QoQ) (Q2) |  |  | 0.2% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q2) |  | 0.2% | 0.2% |
 | 08:15 | EUR | HCOB France Composite PMI (Aug) |  | 49.1 | 49.1 |
