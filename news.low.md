@@ -12,10 +12,10 @@
 | 07:00 | NOK | M3 Money Supply (Jul) | 3,233.1B |  | 3,234.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jul) | 3.7% |  | 3.6% |
 | 07:45 | EUR | French Business Survey (Aug) | 99 | 96 | 95 |
-| 12:30 | INR | Bank Loan Growth |  |  | 13.7% |
-| 12:30 | INR | Deposit Growth |  |  | 10.6% |
-| 12:30 | INR | FX Reserves, USD |  |  | 670.12B |
-| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 25 min | INR | Bank Loan Growth |  |  | 13.7% |
+| 25 min | INR | Deposit Growth |  |  | 10.6% |
+| 25 min | INR | FX Reserves, USD |  |  | 670.12B |
+| 55 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:30 | USD | Building Permits (MoM) (Jul) |  |  | 3.9% |
 | 13:30 | CAD | Corporate Profits (QoQ) |  |  | 0.6% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  |  | -2.1% |
