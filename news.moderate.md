@@ -13,8 +13,8 @@
 | 13:30 | CAD | Retail Sales (MoM) (Jun) | -0.3% | -0.3% | -0.8% |
 | 15:00 | USD | New Home Sales (MoM) (Jul) | 10.6% | 1.0% | 0.3% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 483 |  | 483 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 586 |
 | 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 47.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 231.5K |
