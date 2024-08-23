@@ -15,7 +15,7 @@
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 483 |  | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 586 |
-| 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 53 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 47.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 231.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 267.3K |

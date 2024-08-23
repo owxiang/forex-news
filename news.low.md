@@ -21,8 +21,8 @@
 | 15:00 | MXN | Current Account (USD) (Q2) | 3,639M |  | -21,374M |
 | 15:00 | MXN | Current Account % of GDP (Q2) | 0.70% |  | -4.50% |
 | 17:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 39 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 19:15 | USD | Fed Goolsbee Speaks |  |  |  |
+| 18:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 8 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -154.0K |
