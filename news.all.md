@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 2.7% | 2.7% | 2.6% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.2% |  | 0.3% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% |  | 2.8% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.2% |  | 0.3% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 7.80% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) |  | 2.90% | 2.90% |
 | 06:00 | SGD | Low | CPI (MoM) (Jul) |  |  | -0.20% |
@@ -19,15 +19,15 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 670.12B |
 | 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.396M | 1.454M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | 3.9% |
+| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.396M | 1.454M |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.2% | -1.3% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 0.6% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | -2.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | -0.3% | -0.8% |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -0.6% |
 | 15:00 | USD | High | New Home Sales (Jul) |  | 624K | 617K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -0.6% |
 | 15:00 | MXN | Low | Current Account (USD) (Q2) |  |  | -12,582M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -2.70% |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
