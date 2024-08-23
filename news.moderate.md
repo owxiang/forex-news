@@ -4,8 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Jul) | 2.7% | 2.7% | 2.6% |
 | 00:30 | JPY | National CPI (MoM) (Jul) | 0.2% |  | 0.3% |
-| 53 min | SGD | Core CPI (YoY) (Jul) |  | 2.90% | 2.90% |
-| 53 min | SGD | CPI (YoY) (Jul) |  | 2.5% | 2.4% |
+| 06:00 | SGD | Core CPI (YoY) (Jul) | 2.50% | 2.90% | 2.90% |
+| 06:00 | SGD | CPI (YoY) (Jul) | 2.4% | 2.5% | 2.4% |
+| 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | USD | Jackson Hole Symposium |  |  |  |
 | 13:30 | USD | Building Permits (Jul) |  | 1.396M | 1.454M |
 | 13:30 | CAD | Core Retail Sales (MoM) (Jun) |  | -0.2% | -1.3% |
