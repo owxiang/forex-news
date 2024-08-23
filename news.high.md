@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | Fed Chair Powell Speaks |  |  |  |
-| 15:00 | USD | New Home Sales (Jul) |  | 624K | 617K |
+| 53 min | USD | Fed Chair Powell Speaks |  |  |  |
+| 53 min | USD | New Home Sales (Jul) |  | 624K | 617K |

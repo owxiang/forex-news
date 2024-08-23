@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 2.7% | 2.7% | 2.6% |
-| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% | 2.7% | 2.8% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.2% |  | 0.3% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% | 2.7% | 2.8% |
 | 01:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 7.40% |  | 7.70% |
 | 05:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -23,15 +23,15 @@
 | 12:30 | INR | Low | FX Reserves, USD | 674.66B |  | 670.12B |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 22 min | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.2% | -1.3% |
-| 22 min | CAD | Low | Corporate Profits (QoQ) |  |  | 0.6% |
-| 22 min | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | -2.1% |
-| 22 min | CAD | Moderate | Retail Sales (MoM) (Jun) |  | -0.3% | -0.8% |
-| 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 15:00 | USD | High | New Home Sales (Jul) |  | 624K | 617K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -0.6% |
-| 15:00 | MXN | Low | Current Account (USD) (Q2) |  |  | -12,582M |
-| 15:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -2.70% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | 0.3% | -0.2% | -1.2% |
+| 13:30 | CAD | Low | Corporate Profits (QoQ) | 1.5% |  | 1.0% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) | 1.1% |  | -2.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | -0.3% | -0.3% | -0.8% |
+| 53 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 53 min | USD | High | New Home Sales (Jul) |  | 624K | 617K |
+| 53 min | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -0.6% |
+| 53 min | MXN | Low | Current Account (USD) (Q2) |  |  | -12,582M |
+| 53 min | MXN | Low | Current Account % of GDP (Q2) |  |  | -2.70% |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |

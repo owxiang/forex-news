@@ -9,9 +9,9 @@
 | 12:30 | USD | Building Permits (Jul) | 1.406M | 1.396M | 1.454M |
 | 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | USD | Jackson Hole Symposium |  |  |  |
-| 22 min | CAD | Core Retail Sales (MoM) (Jun) |  | -0.2% | -1.3% |
-| 22 min | CAD | Retail Sales (MoM) (Jun) |  | -0.3% | -0.8% |
-| 15:00 | USD | New Home Sales (MoM) (Jul) |  |  | -0.6% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Jun) | 0.3% | -0.2% | -1.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Jun) | -0.3% | -0.3% | -0.8% |
+| 53 min | USD | New Home Sales (MoM) (Jul) |  |  | -0.6% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
