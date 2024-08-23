@@ -5,7 +5,7 @@
 | 00:01 | GBP | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.4% |  | 0.3% |
 | 00:30 | JPY | National CPI (YoY) (Jul) | 2.8% |  | 2.8% |
-| 05:00 | IDR | M2 Money Supply (YoY) (Jul) |  |  | 7.80% |
+| 54 min | IDR | M2 Money Supply (YoY) (Jul) | 7.40% |  | 7.80% |
 | 06:00 | SGD | CPI (MoM) (Jul) |  |  | -0.20% |
 | 07:00 | NOK | M3 Money Supply (Jul) |  |  | 3,234.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jul) |  |  | 3.6% |
