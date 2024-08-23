@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 2.7% | 2.7% | 2.6% |
-| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% |  | 2.8% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.2% |  | 0.3% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% |  | 2.8% |
 | 01:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 7.40% |  | 7.70% |
 | 05:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -15,7 +15,7 @@
 | 06:00 | SGD | Moderate | CPI (YoY) (Jul) | 2.4% | 2.5% | 2.4% |
 | 07:00 | NOK | Low | M3 Money Supply (Jul) | 3,233.1B |  | 3,234.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jul) | 3.7% |  | 3.6% |
-| 38 min | EUR | Low | French Business Survey (Aug) |  | 96 | 95 |
+| 07:45 | EUR | Low | French Business Survey (Aug) | 99 | 96 | 95 |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.7% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.6% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 670.12B |
