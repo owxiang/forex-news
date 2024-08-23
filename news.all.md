@@ -22,8 +22,8 @@
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.396M | 1.454M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jul) |  |  | 3.9% |
+| 13:30 | USD | Moderate | Building Permits (Jul) |  | 1.396M | 1.454M |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.2% | -1.3% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 0.6% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  |  | -2.1% |
