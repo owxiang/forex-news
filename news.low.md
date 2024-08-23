@@ -23,14 +23,14 @@
 | 17:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:15 | USD | Fed Goolsbee Speaks |  |  |  |
-| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
-| 25 min | USD | CFTC Copper speculative net positions |  |  | 15.8K |
-| 25 min | USD | CFTC Corn speculative net positions |  |  | -154.0K |
-| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -80.8K |
-| 25 min | USD | CFTC Silver speculative net positions |  |  | 45.3K |
-| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -165.7K |
-| 25 min | USD | CFTC Wheat speculative net positions |  |  | -38.9K |
-| 25 min | CAD | CFTC CAD speculative net positions |  |  | -179.6K |
-| 25 min | MXN | CFTC MXN speculative net positions |  |  | 50.1K |
-| 25 min | CHF | CFTC CHF speculative net positions |  |  | -21.7K |
-| 25 min | NZD | CFTC NZD speculative net positions |  |  | -15.6K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 2.3K |  | 2.2K |
+| 20:30 | USD | CFTC Copper speculative net positions | 20.3K |  | 15.8K |
+| 20:30 | USD | CFTC Corn speculative net positions | -165.3K |  | -154.0K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -81.3K |  | -80.8K |
+| 20:30 | USD | CFTC Silver speculative net positions | 49.3K |  | 45.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -178.9K |  | -165.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -25.7K |  | -38.9K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -164.4K |  | -179.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 34.6K |  | 50.1K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -25.7K |  | -21.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -13.8K |  | -15.6K |

@@ -16,8 +16,8 @@
 | 07:00 | NOK | Low | M3 Money Supply (Jul) | 3,233.1B |  | 3,234.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jul) | 3.7% |  | 3.6% |
 | 07:45 | EUR | Low | French Business Survey (Aug) | 99 | 96 | 95 |
-| 12:30 | USD | Moderate | Building Permits (Jul) | 1.406M | 1.396M | 1.454M |
 | 12:30 | USD | Low | Building Permits (MoM) (Jul) | -3.3% |  | 3.9% |
+| 12:30 | USD | Moderate | Building Permits (Jul) | 1.406M | 1.396M | 1.454M |
 | 12:30 | INR | Low | Bank Loan Growth | 13.6% |  | 13.7% |
 | 12:30 | INR | Low | Deposit Growth | 10.9% |  | 10.6% |
 | 12:30 | INR | Low | FX Reserves, USD | 674.66B |  | 670.12B |
@@ -39,23 +39,23 @@
 | 18:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 19:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 25 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 47.8K |
-| 25 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.2K |
-| 25 min | USD | Low | CFTC Copper speculative net positions |  |  | 15.8K |
-| 25 min | USD | Low | CFTC Corn speculative net positions |  |  | -154.0K |
-| 25 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 231.5K |
-| 25 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 267.3K |
-| 25 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 8.5K |
-| 25 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -80.8K |
-| 25 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -23.5K |
-| 25 min | USD | Low | CFTC Silver speculative net positions |  |  | 45.3K |
-| 25 min | USD | Low | CFTC Soybeans speculative net positions |  |  | -165.7K |
-| 25 min | USD | Low | CFTC Wheat speculative net positions |  |  | -38.9K |
-| 25 min | CAD | Low | CFTC CAD speculative net positions |  |  | -179.6K |
-| 25 min | MXN | Low | CFTC MXN speculative net positions |  |  | 50.1K |
-| 25 min | CHF | Low | CFTC CHF speculative net positions |  |  | -21.7K |
-| 25 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -42.6K |
-| 25 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | -53.8K |
-| 25 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 23.1K |
-| 25 min | NZD | Low | CFTC NZD speculative net positions |  |  | -15.6K |
-| 25 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 27.0K |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 67.5K |  | 47.8K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 2.3K |  | 2.2K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 20.3K |  | 15.8K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | -165.3K |  | -154.0K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 222.3K |  | 231.5K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 291.3K |  | 267.3K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 11.4K |  | 8.5K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -81.3K |  | -80.8K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -84.8K |  | -23.5K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 49.3K |  | 45.3K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -178.9K |  | -165.7K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -25.7K |  | -38.9K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -164.4K |  | -179.6K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 34.6K |  | 50.1K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -25.7K |  | -21.7K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -38.9K |  | -42.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -51.0K |  | -53.8K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 23.6K |  | 23.1K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -13.8K |  | -15.6K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 56.0K |  | 27.0K |
