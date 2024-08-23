@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 2.7% | 2.7% | 2.6% |
-| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% | 2.7% | 2.8% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.2% |  | 0.3% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% | 2.7% | 2.8% |
 | 01:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 7.40% |  | 7.70% |
 | 05:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -30,11 +30,12 @@
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 15:00 | USD | High | New Home Sales (Jul) | 739K | 624K | 668K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) | 10.6% | 1.0% | 0.3% |
+| 15:00 | MXN | Low | Current Account (USD) (Q2) | 3,639M |  | -21,374M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q2) | 0.70% |  | -4.50% |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 17:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 24 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 18:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 19:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
