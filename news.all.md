@@ -16,8 +16,8 @@
 | 07:00 | NOK | Low | M3 Money Supply (Jul) | 3,233.1B |  | 3,234.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jul) | 3.7% |  | 3.6% |
 | 07:45 | EUR | Low | French Business Survey (Aug) | 99 | 96 | 95 |
-| 12:30 | USD | Low | Building Permits (MoM) (Jul) | -3.3% |  | 3.9% |
 | 12:30 | USD | Moderate | Building Permits (Jul) | 1.406M | 1.396M | 1.454M |
+| 12:30 | USD | Low | Building Permits (MoM) (Jul) | -3.3% |  | 3.9% |
 | 12:30 | INR | Low | Bank Loan Growth | 13.6% |  | 13.7% |
 | 12:30 | INR | Low | Deposit Growth | 10.9% |  | 10.6% |
 | 12:30 | INR | Low | FX Reserves, USD | 674.66B |  | 670.12B |
@@ -30,9 +30,8 @@
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 15:00 | USD | High | New Home Sales (Jul) | 739K | 624K | 668K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jul) | 10.6% | 1.0% | 0.3% |
-| 15:00 | MXN | Low | Current Account (USD) (Q2) |  |  | -12,582M |
-| 15:00 | MXN | Low | Current Account % of GDP (Q2) |  |  | -2.70% |
-| 54 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 15:00 | MXN | Low | Current Account % of GDP (Q2) | 0.70% |  | -4.50% |
+| 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |

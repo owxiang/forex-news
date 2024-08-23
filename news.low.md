@@ -18,8 +18,7 @@
 | 12:30 | INR | FX Reserves, USD | 674.66B |  | 670.12B |
 | 13:30 | CAD | Corporate Profits (QoQ) | 1.5% |  | 1.0% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) | 1.1% |  | -2.1% |
-| 15:00 | MXN | Current Account (USD) (Q2) |  |  | -12,582M |
-| 15:00 | MXN | Current Account % of GDP (Q2) |  |  | -2.70% |
+| 15:00 | MXN | Current Account % of GDP (Q2) | 0.70% |  | -4.50% |
 | 17:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:15 | USD | Fed Goolsbee Speaks |  |  |  |

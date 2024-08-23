@@ -12,7 +12,7 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (Jun) | 0.3% | -0.2% | -1.2% |
 | 13:30 | CAD | Retail Sales (MoM) (Jun) | -0.3% | -0.3% | -0.8% |
 | 15:00 | USD | New Home Sales (MoM) (Jul) | 10.6% | 1.0% | 0.3% |
-| 54 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
