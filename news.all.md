@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Aug) | -13 | -12 | -13 |
-| 25 min | JPY | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.1% |
-| 25 min | JPY | Moderate | National Core CPI (YoY) (Jul) |  | 2.7% | 2.6% |
-| 25 min | JPY | Moderate | National CPI (MoM) (Jul) |  |  | 0.3% |
-| 25 min | JPY | Low | National CPI (YoY) (Jul) |  |  | 2.8% |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.4% |  | 0.3% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 2.7% | 2.7% | 2.6% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jul) | 0.2% |  | 0.3% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jul) | 2.8% |  | 2.8% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jul) |  |  | 7.80% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jul) |  | 2.90% | 2.90% |
 | 06:00 | SGD | Low | CPI (MoM) (Jul) |  |  | -0.20% |
