@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | USD | Jackson Hole Symposium |  |  |  |
+| 55 min | USD | Jackson Hole Symposium |  |  |  |
 | 17:25 | EUR | ECB's Lane Speaks |  |  |  |
