@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) |  | -1.1% | -3.9% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) |  |  | -3.8% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) |  | -1.1% | -3.9% |
 | 07:00 | NOK | Low | Unemployment Rate (Jul) |  |  | 4.1% |
 | 07:30 | CHF | Moderate | Employment Level (Q2) |  |  | 5.484M |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) |  |  | -3.5% |
