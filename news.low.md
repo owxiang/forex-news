@@ -1,20 +1,28 @@
-## 26 August 2024 - Low Impact Forex News
+## 27 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (MoM) (Jul) | 10.1% | 5.3% | -4.3% |
-| 06:00 | SGD | Industrial Production (YoY) (Jul) | 1.8% | -1.1% | -4.3% |
-| 07:00 | NOK | Unemployment Rate (Jul) | 3.9% |  | 4.1% |
-| 08:00 | EUR | Spanish PPI (YoY) (Jul) | -1.4% |  | -3.2% |
-| 12:00 | BRL | FGV Consumer confidence (Aug) | 93.2 |  | 92.9 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Current Account (USD) (Jul) | -5.20B | -4.00B | -4.40B |
-| 12:30 | BRL | Foreign direct investment (USD) (Jul) | 7.30B | 6.00B | 6.30B |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) | 10.4% |  | -7.5% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) | -0.1% | 0.0% | 0.5% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.999% |  | 3.029% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.372% |  | 3.502% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.285% |  | 3.358% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Aug) | -9.7 |  | -17.5 |
-| 16:30 | USD | 3-Month Bill Auction | 4.980% |  | 5.055% |
-| 16:30 | USD | 6-Month Bill Auction | 4.685% |  | 4.770% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | -0.3% |  | 0.2% |
+| 43 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 3.0% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Jul) |  |  | 3.5% |
+| 09:30 | HKD | Exports (MoM) (Jul) |  |  | 10.7% |
+| 09:30 | HKD | Imports (MoM) (Jul) |  |  | 9.0% |
+| 09:30 | HKD | Trade Balance (Jul) |  |  | -55.7B |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.090% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Aug) |  | -11 | -43 |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
+| 13:00 | MXN | Trade Balance (Jul) |  | -1.470B | -1.037B |
+| 13:00 | MXN | Trade Balance (USD) (Jul) |  |  | -1.944B |
+| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
+| 14:00 | USD | House Price Index (YoY) (Jun) |  |  | 5.7% |
+| 14:00 | USD | House Price Index (MoM) (Jun) |  | 0.2% | 0.0% |
+| 14:00 | USD | House Price Index (Jun) |  |  | 424.6 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | 0.3% |
+| 15:00 | USD | Richmond Manufacturing Index (Aug) |  | -14 | -17 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | -21 |
+| 15:00 | USD | Richmond Services Index (Aug) |  |  | 5 |
+| 15:30 | USD | Dallas Fed Services Revenues (Aug) |  |  | 7.7 |
+| 15:30 | USD | Texas Services Sector Outlook (Aug) |  |  | -0.1 |
+| 18:00 | USD | M2 Money Supply (MoM) (Jul) |  |  | 21.03T |

@@ -1,27 +1,40 @@
-## 26 August 2024 - All Forex News
+## 27 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 10.1% | 5.3% | -4.3% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 1.8% | -1.1% | -4.3% |
-| 07:00 | NOK | Low | Unemployment Rate (Jul) | 3.9% |  | 4.1% |
-| 07:30 | CHF | Moderate | Employment Level (Q2) | 5.499M |  | 5.481M |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) | -1.4% |  | -3.2% |
-| 09:00 | EUR | Moderate | German Business Expectations (Aug) | 86.8 | 86.5 | 87.0 |
-| 09:00 | EUR | Moderate | German Current Assessment (Aug) | 86.5 | 86.5 | 87.1 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 86.6 | 86.0 | 87.0 |
-| 12:00 | BRL | Low | FGV Consumer confidence (Aug) | 93.2 |  | 92.9 |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Low | Current Account (USD) (Jul) | -5.20B | -4.00B | -4.40B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) | 7.30B | 6.00B | 6.30B |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) | -0.2% | 0.0% | 0.1% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) | 9.9% | 4.0% | -6.9% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) | 10.4% |  | -7.5% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jul) | -0.1% | 0.0% | 0.5% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.999% |  | 3.029% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.372% |  | 3.502% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.285% |  | 3.358% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.0% | 2.0% | 2.0% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) | -9.7 |  | -17.5 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.980% |  | 5.055% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.685% |  | 4.770% |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.3% |  | 0.2% |
+| 43 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 3.0% |
+| 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) |  |  | 3.5% |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.1% | 2.1% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.2% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  |  | -18.4 |
+| 09:30 | HKD | Low | Exports (MoM) (Jul) |  |  | 10.7% |
+| 09:30 | HKD | Low | Imports (MoM) (Jul) |  |  | 9.0% |
+| 09:30 | HKD | Low | Trade Balance (Jul) |  |  | -55.7B |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.090% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -11 | -43 |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
+| 13:00 | MXN | Low | Trade Balance (Jul) |  | -1.470B | -1.037B |
+| 13:00 | MXN | Low | Trade Balance (USD) (Jul) |  |  | -1.944B |
+| 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | -0.6% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jun) |  |  | 5.7% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.0% |
+| 14:00 | USD | Low | House Price Index (Jun) |  |  | 424.6 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | 0.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 1.0% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 6.9% | 6.8% |
+| 15:00 | USD | High | CB Consumer Confidence (Aug) |  | 100.2 | 100.3 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Aug) |  | -14 | -17 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -21 |
+| 15:00 | USD | Low | Richmond Services Index (Aug) |  |  | 5 |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) |  |  | 7.7 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Aug) |  |  | -0.1 |
+| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.434% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) |  |  | 21.03T |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.347M |
+| 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |

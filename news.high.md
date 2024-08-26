@@ -1,5 +1,6 @@
-## 26 August 2024 - High Impact Forex News
+## 27 August 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Durable Goods Orders (MoM) (Jul) | 9.9% | 4.0% | -6.9% |
+| 07:00 | EUR | German GDP (QoQ) (Q2) |  | -0.1% | 0.2% |
+| 15:00 | USD | CB Consumer Confidence (Aug) |  | 100.2 | 100.3 |
