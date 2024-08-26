@@ -8,14 +8,13 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Jul) | -1.4% |  | -3.2% |
 | 12:00 | BRL | FGV Consumer confidence (Aug) | 93.2 |  | 92.9 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Current Account (USD) (Jul) | -5.20B | -4.00B | -4.00B |
+| 12:30 | BRL | Current Account (USD) (Jul) | -5.20B | -4.00B | -4.40B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jul) | 7.30B | 6.00B | 6.30B |
-| 21 min | USD | Durables Excluding Defense (MoM) (Jul) |  |  | -7.2% |
-| 21 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) |  | 0.0% | 1.0% |
-| 51 min | EUR | French 12-Month BTF Auction |  |  | 3.029% |
-| 51 min | EUR | French 3-Month BTF Auction |  |  | 3.502% |
-| 51 min | EUR | French 6-Month BTF Auction |  |  | 3.358% |
-| 15:00 | MXN | Current Account (USD) (Q2) |  |  | -12,582M |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jul) | 10.4% |  | -7.5% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jul) | -0.1% | 0.0% | 0.5% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.999% |  | 3.029% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.372% |  | 3.502% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.285% |  | 3.358% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Aug) |  |  | -17.5 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.055% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.770% |
