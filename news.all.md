@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 1.8% | -1.1% | -4.3% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jul) | 10.1% |  | -4.3% |
-| 54 min | NOK | Low | Unemployment Rate (Jul) |  |  | 4.1% |
-| 07:30 | CHF | Moderate | Employment Level (Q2) |  |  | 5.484M |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Jul) |  |  | -3.5% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jul) | 1.8% | -1.1% | -4.3% |
+| 07:00 | NOK | Low | Unemployment Rate (Jul) | 4.0% |  | 4.1% |
+| 22 min | CHF | Moderate | Employment Level (Q2) |  |  | 5.484M |
+| 52 min | EUR | Low | Spanish PPI (YoY) (Jul) |  |  | -3.5% |
 | 09:00 | EUR | Moderate | German Business Expectations (Aug) |  | 86.5 | 86.9 |
 | 09:00 | EUR | Moderate | German Current Assessment (Aug) |  | 86.5 | 87.1 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) |  | 86.0 | 87.0 |
