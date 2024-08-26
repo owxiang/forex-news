@@ -10,10 +10,10 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Aug) | 86.8 | 86.5 | 87.0 |
 | 09:00 | EUR | Moderate | German Current Assessment (Aug) | 86.5 | 86.5 | 87.1 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 86.6 | 86.0 | 87.0 |
-| 54 min | BRL | Low | FGV Consumer confidence (Aug) |  |  | 92.9 |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Low | Current Account (USD) (Jul) |  | -4.00B | -4.00B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Jul) |  | 6.00B | 6.30B |
+| 12:00 | BRL | Low | FGV Consumer confidence (Aug) | 93.2 |  | 92.9 |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 24 min | BRL | Low | Current Account (USD) (Jul) |  | -4.00B | -4.00B |
+| 24 min | BRL | Low | Foreign direct investment (USD) (Jul) |  | 6.00B | 6.30B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jul) |  | 0.0% | 0.5% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jul) |  | 4.0% | -6.6% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  |  | -7.2% |
