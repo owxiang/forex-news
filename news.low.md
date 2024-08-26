@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (MoM) (Jul) | 10.1% |  | -4.3% |
 | 06:00 | SGD | Industrial Production (YoY) (Jul) | 1.8% | -1.1% | -4.3% |
-| 07:00 | NOK | Unemployment Rate (Jul) | 4.0% |  | 4.1% |
-| 52 min | EUR | Spanish PPI (YoY) (Jul) |  |  | -3.5% |
+| 06:00 | SGD | Industrial Production (MoM) (Jul) | 10.1% |  | -4.3% |
+| 07:00 | NOK | Unemployment Rate (Jul) | 3.9% |  | 4.1% |
+| 08:00 | EUR | Spanish PPI (YoY) (Jul) | -1.4% |  | -3.5% |
 | 12:00 | BRL | FGV Consumer confidence (Aug) |  |  | 92.9 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Current Account (USD) (Jul) |  |  | -4.00B |
