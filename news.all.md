@@ -19,20 +19,19 @@
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | 0.19% | 0.20% | 0.30% |
 | 13:00 | MXN | Low | Trade Balance (Jul) | -0.072B | -1.470B | -1.037B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 1.168B |  | -1.509B |
-| 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 21 min | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | -0.6% |
-| 46 min | USD | Low | Redbook (YoY) |  |  | 4.9% |
-| 51 min | USD | Low | House Price Index (YoY) (Jun) |  |  | 5.7% |
-| 51 min | USD | Low | House Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
-| 51 min | USD | Low | House Price Index (Jun) |  |  | 424.6 |
-| 51 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  | 0.3% | 0.3% |
-| 51 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 1.0% |
-| 51 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 6.2% | 6.8% |
-| 15:00 | USD | High | CB Consumer Confidence (Aug) |  | 100.9 | 100.3 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Aug) |  | -14 | -17 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -21 |
-| 15:00 | USD | Low | Richmond Services Index (Aug) |  |  | 5 |
-| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | -1.1% |  | -0.6% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.0% |  | 4.9% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jun) | 5.1% |  | 5.9% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jun) | -0.1% | 0.1% | 0.0% |
+| 14:00 | USD | Low | House Price Index (Jun) | 424.5 |  | 424.8 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.4% | 0.3% | 0.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.6% |  | 1.0% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 6.5% | 6.2% | 6.9% |
+| 52 min | USD | High | CB Consumer Confidence (Aug) |  | 100.9 | 100.3 |
+| 52 min | USD | Low | Richmond Manufacturing Index (Aug) |  | -14 | -17 |
+| 52 min | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -21 |
+| 52 min | USD | Low | Richmond Services Index (Aug) |  |  | 5 |
+| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) |  |  | 7.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Aug) |  |  | -0.1 |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.434% |

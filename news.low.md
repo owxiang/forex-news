@@ -15,15 +15,14 @@
 | 12:00 | BRL | Mid-Month CPI (MoM) (Aug) | 0.19% | 0.20% | 0.30% |
 | 13:00 | MXN | Trade Balance (Jul) | -0.072B | -1.470B | -1.037B |
 | 13:00 | MXN | Trade Balance (USD) (Jul) | 1.168B |  | -1.509B |
-| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 46 min | USD | Redbook (YoY) |  |  | 4.9% |
-| 51 min | USD | House Price Index (YoY) (Jun) |  |  | 5.7% |
-| 51 min | USD | House Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
-| 51 min | USD | House Price Index (Jun) |  |  | 424.6 |
-| 51 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  | 0.3% | 0.3% |
-| 15:00 | USD | Richmond Manufacturing Index (Aug) |  | -14 | -17 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | -21 |
-| 15:00 | USD | Richmond Services Index (Aug) |  |  | 5 |
+| 13:55 | USD | Redbook (YoY) | 5.0% |  | 4.9% |
+| 14:00 | USD | House Price Index (YoY) (Jun) | 5.1% |  | 5.9% |
+| 14:00 | USD | House Price Index (MoM) (Jun) | -0.1% | 0.1% | 0.0% |
+| 14:00 | USD | House Price Index (Jun) | 424.5 |  | 424.8 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.4% | 0.3% | 0.4% |
+| 52 min | USD | Richmond Manufacturing Index (Aug) |  | -14 | -17 |
+| 52 min | USD | Richmond Manufacturing Shipments (Aug) |  |  | -21 |
+| 52 min | USD | Richmond Services Index (Aug) |  |  | 5 |
 | 15:30 | USD | Dallas Fed Services Revenues (Aug) |  |  | 7.7 |
 | 15:30 | USD | Texas Services Sector Outlook (Aug) |  |  | -0.1 |
 | 18:00 | USD | M2 Money Supply (MoM) (Jul) |  |  | 21.03T |
