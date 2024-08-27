@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.1% | 2.1% |
+| 52 min | JPY | BoJ Core CPI (YoY) |  | 2.1% | 2.1% |
 | 07:00 | EUR | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |
 | 07:00 | EUR | GfK German Consumer Climate (Sep) |  |  | -18.4 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  |  | -0.6% |
