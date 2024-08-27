@@ -1,39 +1,41 @@
-## 27 August 2024 - All Forex News
+## 28 August 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.3% |  | 0.2% |
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.9% | 3.1% |
-| 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) | 3.6% |  | 3.5% |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.8% | 2.1% | 2.1% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.0% | -0.1% | -0.2% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.2% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) | -22.0 |  | -18.6 |
-| 09:30 | HKD | Low | Exports (MoM) (Jul) | 13.1% |  | 10.7% |
-| 09:30 | HKD | Low | Imports (MoM) (Jul) | 9.9% |  | 9.0% |
-| 09:30 | HKD | Low | Trade Balance (Jul) | -21.8B |  | -55.7B |
-| 10:40 | EUR | Low | Italian 2-Year CTZ Auction | 3.890% |  | 3.100% |
-| 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.170% |  | 2.090% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -27 | -11 | -43 |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | 0.19% | 0.20% | 0.30% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) | 4.35% | 4.38% | 4.45% |
-| 13:00 | MXN | Low | Trade Balance (Jul) | -0.072B | -1.470B | -1.037B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 1.168B |  | -1.509B |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | -1.1% |  | -0.6% |
-| 13:55 | USD | Low | Redbook (YoY) | 5.0% |  | 4.9% |
-| 14:00 | USD | Low | House Price Index (YoY) (Jun) | 5.1% |  | 5.9% |
-| 14:00 | USD | Low | House Price Index (MoM) (Jun) | -0.1% | 0.1% | 0.0% |
-| 14:00 | USD | Low | House Price Index (Jun) | 424.5 |  | 424.8 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.4% | 0.3% | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.6% |  | 1.0% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | 6.5% | 6.2% | 6.9% |
-| 15:00 | USD | High | CB Consumer Confidence (Aug) | 103.3 | 100.9 | 101.9 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Aug) | -19 | -14 | -17 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) | -15 |  | -21 |
-| 15:00 | USD | Low | Richmond Services Index (Aug) | -11 |  | 5 |
-| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Aug) | 8.7 |  | 7.7 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Aug) | -7.7 |  | -0.1 |
-| 18:00 | USD | Moderate | 2-Year Note Auction | 3.874% |  | 4.434% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 21.05T |  | 21.03T |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -3.400M | -3.000M | 0.347M |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) |  | 0.8% | -2.9% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) |  | 3.40% | 3.80% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  | -3.4% | 1.9% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  | -2.6% | 0.3% |
+| 06:00 | JPY | Low | Leading Index (Jun) |  | 108.6 | 111.2 |
+| 06:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -18.1 | -18.4 |
+| 07:45 | EUR | Low | French Consumer Confidence (Aug) |  | 92 | 91 |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
+| 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 9.4 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 2.7% | 2.2% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 0.7% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.724% |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,834.5K |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.50% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.1% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 130.6 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 225.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 754.4 |
+| 13:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | -4.649M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.222M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.078M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.560M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.123M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -3.312M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.046M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.265M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.8% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -1.606M |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.121% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.573B |
+| 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |
