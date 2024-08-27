@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.3% |  | 0.2% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.9% | 3.1% |
-| 02:30 | CNY | Chinese Industrial profit YTD (Jul) |  |  | 3.5% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Jul) | 3.6% |  | 3.5% |
 | 09:30 | HKD | Exports (MoM) (Jul) |  |  | 10.7% |
 | 09:30 | HKD | Imports (MoM) (Jul) |  |  | 9.0% |
 | 09:30 | HKD | Trade Balance (Jul) |  |  | -55.7B |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.090% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Aug) |  | -11 | -43 |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
 | 13:00 | MXN | Trade Balance (Jul) |  | -1.470B | -1.037B |
 | 13:00 | MXN | Trade Balance (USD) (Jul) |  |  | -1.944B |
 | 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
