@@ -15,8 +15,8 @@
 | 10:40 | EUR | Low | Italian 2-Year CTZ Auction | 3.890% |  | 3.100% |
 | 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.170% |  | 2.090% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -27 | -11 | -43 |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | 0.19% | 0.20% | 0.30% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) | 4.35% | 4.38% | 4.45% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | 0.19% | 0.20% | 0.30% |
 | 13:00 | MXN | Low | Trade Balance (Jul) | -0.072B | -1.470B | -1.037B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jul) | 1.168B |  | -1.509B |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | -1.1% |  | -0.6% |
@@ -36,5 +36,5 @@
 | 15:30 | USD | Low | Texas Services Sector Outlook (Aug) | -7.7 |  | -0.1 |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.874% |  | 4.434% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 21.05T |  | 21.03T |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | 0.347M |
-| 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -3.400M | -3.000M | 0.347M |
+| 55 min | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |
