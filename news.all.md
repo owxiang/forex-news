@@ -15,11 +15,11 @@
 | 10:40 | EUR | Low | Italian 2-Year CTZ Auction | 3.890% |  | 3.100% |
 | 10:40 | EUR | Low | German 5-Year Bobl Auction | 2.170% |  | 2.090% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) | -27 | -11 | -43 |
-| 55 min | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
-| 55 min | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
-| 13:00 | MXN | Low | Trade Balance (Jul) |  | -1.470B | -1.037B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jul) |  |  | -1.944B |
-| 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
+| 54 min | MXN | Low | Trade Balance (Jul) |  | -1.470B | -1.037B |
+| 54 min | MXN | Low | Trade Balance (USD) (Jul) |  |  | -1.944B |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  |  | -0.6% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:00 | USD | Low | House Price Index (YoY) (Jun) |  |  | 5.7% |

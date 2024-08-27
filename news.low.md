@@ -11,11 +11,11 @@
 | 10:40 | EUR | Italian 2-Year CTZ Auction | 3.890% |  | 3.100% |
 | 10:40 | EUR | German 5-Year Bobl Auction | 2.170% |  | 2.090% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Aug) | -27 | -11 | -43 |
-| 55 min | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
-| 55 min | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
-| 13:00 | MXN | Trade Balance (Jul) |  | -1.470B | -1.037B |
-| 13:00 | MXN | Trade Balance (USD) (Jul) |  |  | -1.944B |
-| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
+| 54 min | MXN | Trade Balance (Jul) |  | -1.470B | -1.037B |
+| 54 min | MXN | Trade Balance (USD) (Jul) |  |  | -1.944B |
+| 54 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
 | 14:00 | USD | House Price Index (YoY) (Jun) |  |  | 5.7% |
 | 14:00 | USD | House Price Index (MoM) (Jun) |  | 0.1% | 0.0% |
