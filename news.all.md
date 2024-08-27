@@ -36,5 +36,5 @@
 | 15:30 | USD | Low | Texas Services Sector Outlook (Aug) | -7.7 |  | -0.1 |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.874% |  | 4.434% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jul) | 21.05T |  | 21.03T |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | 0.347M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | 0.347M |
 | 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |
