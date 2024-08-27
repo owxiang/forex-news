@@ -6,8 +6,8 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.9% | 3.1% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) | 3.6% |  | 3.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.1% | 2.1% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.2% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  |  | -18.4 |
 | 09:30 | HKD | Low | Exports (MoM) (Jul) |  |  | 10.7% |
 | 09:30 | HKD | Low | Imports (MoM) (Jul) |  |  | 9.0% |
@@ -25,8 +25,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.0% |
 | 14:00 | USD | Low | House Price Index (Jun) |  |  | 424.6 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  |  | 0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 1.0% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 6.9% | 6.8% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 1.0% |
 | 15:00 | USD | High | CB Consumer Confidence (Aug) |  | 100.2 | 100.3 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Aug) |  | -14 | -17 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -21 |
