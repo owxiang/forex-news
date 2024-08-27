@@ -6,17 +6,17 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.9% | 3.1% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) | 3.6% |  | 3.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.8% | 2.1% | 2.1% |
-| 54 min | EUR | Moderate | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |
-| 54 min | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.2% |
-| 54 min | EUR | Moderate | GfK German Consumer Climate (Sep) |  |  | -18.4 |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.0% | -0.1% | -0.2% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.2% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) | -22.0 |  | -18.6 |
 | 09:30 | HKD | Low | Exports (MoM) (Jul) |  |  | 10.7% |
 | 09:30 | HKD | Low | Imports (MoM) (Jul) |  |  | 9.0% |
 | 09:30 | HKD | Low | Trade Balance (Jul) |  |  | -55.7B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.090% |
 | 10:40 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.100% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Aug) |  | -11 | -43 |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.20% | 0.30% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.38% | 4.45% |
 | 13:00 | MXN | Low | Trade Balance (Jul) |  | -1.470B | -1.037B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jul) |  |  | -1.944B |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
