@@ -11,4 +11,3 @@
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 3.874% |  | 4.434% |
 | 21:30 | USD | API Weekly Crude Oil Stock | -3.400M | -3.000M | 0.347M |
-| 55 min | EUR | France Jobseekers Total |  |  | 2,834.5K |

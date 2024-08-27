@@ -11,8 +11,8 @@
 | 10:40 | EUR | Italian 2-Year CTZ Auction | 3.890% |  | 3.100% |
 | 10:40 | EUR | German 5-Year Bobl Auction | 2.170% |  | 2.090% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Aug) | -27 | -11 | -43 |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.35% | 4.38% | 4.45% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Aug) | 0.19% | 0.20% | 0.30% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.35% | 4.38% | 4.45% |
 | 13:00 | MXN | Trade Balance (Jul) | -0.072B | -1.470B | -1.037B |
 | 13:00 | MXN | Trade Balance (USD) (Jul) | 1.168B |  | -1.509B |
 | 13:55 | USD | Redbook (YoY) | 5.0% |  | 4.9% |
