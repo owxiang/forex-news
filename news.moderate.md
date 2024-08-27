@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | JPY | BoJ Core CPI (YoY) |  | 2.1% | 2.1% |
-| 07:00 | EUR | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |
-| 07:00 | EUR | GfK German Consumer Climate (Sep) |  |  | -18.4 |
+| 06:00 | JPY | BoJ Core CPI (YoY) | 1.8% | 2.1% | 2.1% |
+| 54 min | EUR | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |
+| 54 min | EUR | GfK German Consumer Climate (Sep) |  |  | -18.4 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  |  | -0.6% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  |  | 1.0% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 6.9% | 6.8% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 6.2% | 6.8% |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.434% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 0.347M |
