@@ -10,5 +10,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | 6.2% | 6.8% |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.434% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 0.347M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -3.000M | 0.347M |
 | 23:00 | EUR | France Jobseekers Total |  |  | 2,834.5K |
