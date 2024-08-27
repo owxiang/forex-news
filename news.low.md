@@ -25,4 +25,4 @@
 | 15:00 | USD | Richmond Services Index (Aug) | -11 |  | 5 |
 | 15:30 | USD | Dallas Fed Services Revenues (Aug) | 8.7 |  | 7.7 |
 | 15:30 | USD | Texas Services Sector Outlook (Aug) | -7.7 |  | -0.1 |
-| 54 min | USD | M2 Money Supply (MoM) (Jul) |  |  | 21.03T |
+| 18:00 | USD | M2 Money Supply (MoM) (Jul) | 21.05T |  | 21.03T |
