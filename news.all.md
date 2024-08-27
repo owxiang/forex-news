@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.3% |  | 0.2% |
-| 43 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 3.0% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.9% | 3.1% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Jul) |  |  | 3.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.1% | 2.1% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | -0.1% | -0.2% |

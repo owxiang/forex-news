@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.3% |  | 0.2% |
-| 43 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 3.0% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.9% | 3.1% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Jul) |  |  | 3.5% |
 | 09:30 | HKD | Exports (MoM) (Jul) |  |  | 10.7% |
 | 09:30 | HKD | Imports (MoM) (Jul) |  |  | 9.0% |
