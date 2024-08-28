@@ -8,13 +8,13 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.1% | -2.6% | 0.3% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 109.0 | 108.6 | 111.2 |
 | 06:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 37 min | EUR | Low | French Consumer Confidence (Aug) |  | 92 | 91 |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
-| 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 9.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 2.7% | 2.2% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 0.7% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
+| 07:45 | EUR | Low | French Consumer Confidence (Aug) | 92 | 92 | 91 |
+| 55 min | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
+| 55 min | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
+| 55 min | CHF | Low | ZEW Expectations (Aug) |  |  | 9.4 |
+| 55 min | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 2.7% | 2.2% |
+| 55 min | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 0.7% |
+| 55 min | EUR | Low | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.724% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,834.5K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
