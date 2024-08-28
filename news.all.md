@@ -5,15 +5,15 @@
 | 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | 0.1% | 0.8% | -2.0% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.40% | 3.80% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.9% | -3.4% | 1.9% |
-| 06:00 | JPY | Low | Leading Index (Jun) | 109.0 | 108.6 | 111.2 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.1% | -2.6% | 0.3% |
+| 06:00 | JPY | Low | Leading Index (Jun) | 109.0 | 108.6 | 111.2 |
 | 06:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) | 92 | 92 | 91 |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) | -3.70% |  | -4.80% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) | 0.10% |  | -1.00% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) | -3.4 |  | 9.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 2.3% | 2.7% | 2.2% |
 | 09:00 | EUR | Low | M3 Money Supply (Jul) | 16,340.1B |  | 16,376.6B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 2.3% | 2.7% | 2.2% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) | 0.6% |  | 0.7% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.5% | 0.3% |
 | 11:00 | EUR | Low | Italian 6-Month BOT Auction | 3.247% |  | 3.518% |
@@ -35,7 +35,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -1.189M |  | 0.265M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 0.8% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.203M | -1.600M | -1.606M |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.121% |
+| 53 min | USD | Moderate | 5-Year Note Auction |  |  | 4.121% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 201.71K |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.573B |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
