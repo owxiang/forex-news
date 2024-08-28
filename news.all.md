@@ -7,9 +7,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | -3.9% | -3.4% | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) | -2.1% | -2.6% | 0.3% |
 | 06:00 | JPY | Low | Leading Index (Jun) | 109.0 | 108.6 | 111.2 |
-| 10 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 55 min | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -18.1 | -18.4 |
-| 07:45 | EUR | Low | French Consumer Confidence (Aug) |  | 92 | 91 |
+| 06:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 37 min | EUR | Low | French Consumer Confidence (Aug) |  | 92 | 91 |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 9.4 |

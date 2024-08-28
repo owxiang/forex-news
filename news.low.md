@@ -6,7 +6,7 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) | -3.9% | -3.4% | 1.9% |
 | 06:00 | JPY | Leading Index (MoM) (Jun) | -2.1% | -2.6% | 0.3% |
 | 06:00 | JPY | Leading Index (Jun) | 109.0 | 108.6 | 111.2 |
-| 07:45 | EUR | French Consumer Confidence (Aug) |  | 92 | 91 |
+| 37 min | EUR | French Consumer Confidence (Aug) |  | 92 | 91 |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
 | 09:00 | CHF | ZEW Expectations (Aug) |  |  | 9.4 |

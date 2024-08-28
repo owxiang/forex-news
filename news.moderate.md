@@ -3,8 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Construction Work Done (QoQ) (Q2) | 0.1% | 0.8% | -2.0% |
-| 10 min | USD | Fed Waller Speaks |  |  |  |
-| 55 min | EUR | GfK German Consumer Climate (Sep) |  | -18.1 | -18.4 |
+| 06:15 | USD | Fed Waller Speaks |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Jul) |  |  | 2,834.5K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
