@@ -35,8 +35,8 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -1.189M |  | 0.265M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 0.8% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.203M | -1.600M | -1.606M |
-| 53 min | USD | Moderate | 5-Year Note Auction |  |  | 4.121% |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 201.71K |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.573B |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.121% |
+| 24 min | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 201.71K |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -0.573B |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |

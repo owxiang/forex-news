@@ -28,5 +28,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -1.189M |  | 0.265M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 0.8% |
 | 15:30 | USD | Gasoline Inventories | -2.203M | -1.600M | -1.606M |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Jul) |  |  | 201.71K |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.573B |
+| 24 min | BRL | CAGED Net Payroll Jobs (Jul) |  |  | 201.71K |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -0.573B |
