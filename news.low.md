@@ -7,8 +7,8 @@
 | 06:00 | JPY | Leading Index (MoM) (Jun) |  | -2.6% | 0.3% |
 | 06:00 | JPY | Leading Index (Jun) |  | 108.6 | 111.2 |
 | 07:45 | EUR | French Consumer Confidence (Aug) |  | 92 | 91 |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | CHF | ZEW Expectations (Aug) |  |  | 9.4 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jul) |  | 2.7% | 2.2% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jul) |  |  | 0.7% |

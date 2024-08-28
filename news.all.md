@@ -10,8 +10,8 @@
 | 06:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -18.1 | -18.4 |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) |  | 92 | 91 |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 9.4 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 2.7% | 2.2% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 0.7% |
