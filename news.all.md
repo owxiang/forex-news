@@ -16,14 +16,14 @@
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 2.3% | 2.7% | 2.2% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) | 0.6% |  | 0.7% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.5% | 0.3% |
-| 4 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.724% |
-| 54 min | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,834.5K |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.50% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.1% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 130.6 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 225.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 754.4 |
+| 11:00 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.724% |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Jul) | 2,808.4K |  | 2,834.5K |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.50% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.1% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 130.6 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 225.8 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 754.4 |
 | 13:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.700M | -4.649M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.222M |

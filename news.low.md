@@ -14,12 +14,12 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Jul) | 2.3% | 2.7% | 2.2% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jul) | 0.6% |  | 0.7% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.5% | 0.5% | 0.3% |
-| 4 min | EUR | Italian 6-Month BOT Auction |  |  | 3.724% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.50% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.1% |
-| 12:00 | USD | MBA Purchase Index |  |  | 130.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 225.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 754.4 |
+| 11:00 | EUR | Italian 6-Month BOT Auction |  |  | 3.724% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.50% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -10.1% |
+| 54 min | USD | MBA Purchase Index |  |  | 130.6 |
+| 54 min | USD | Mortgage Market Index |  |  | 225.8 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 754.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.222M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.078M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.123M |
