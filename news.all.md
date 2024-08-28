@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | 0.1% | 0.8% | -2.9% |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | 0.1% | 0.8% | -2.0% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.40% | 3.80% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  | -3.4% | 1.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  | -2.6% | 0.3% |
-| 06:00 | JPY | Low | Leading Index (Jun) |  | 108.6 | 111.2 |
+| 53 min | JPY | Low | Coincident Indicator (MoM) (Jun) |  | -3.4% | 1.9% |
+| 53 min | JPY | Low | Leading Index (MoM) (Jun) |  | -2.6% | 0.3% |
+| 53 min | JPY | Low | Leading Index (Jun) |  | 108.6 | 111.2 |
 | 06:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -18.1 | -18.4 |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) |  | 92 | 91 |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  |  | -4.80% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  |  | -0.90% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) |  |  | 9.4 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 2.7% | 2.2% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  |  | 0.7% |
