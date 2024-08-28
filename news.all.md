@@ -12,12 +12,13 @@
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) | -3.70% |  | -4.80% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) | 0.10% |  | -1.00% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) | -3.4 |  | 9.4 |
+| 09:00 | EUR | Low | M3 Money Supply (Jul) | 16,340.1B |  | 16,376.6B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 2.3% | 2.7% | 2.2% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jul) | 0.6% |  | 0.7% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.5% | 0.3% |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.724% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,834.5K |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 4 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.724% |
+| 54 min | EUR | Moderate | France Jobseekers Total (Jul) |  |  | 2,834.5K |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.50% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.1% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 130.6 |
@@ -35,6 +36,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.8% |
 | 15:30 | USD | Low | Gasoline Inventories |  | -1.600M | -1.606M |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.121% |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  |  | 201.71K |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.573B |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |
