@@ -24,7 +24,7 @@
 | 12:00 | USD | Low | MBA Purchase Index | 131.8 |  | 130.6 |
 | 12:00 | USD | Low | Mortgage Market Index | 226.9 |  | 225.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 753.8 |  | 754.4 |
-| 13:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 6 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.700M | -4.649M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.222M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.078M |
