@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Construction Work Done (QoQ) (Q2) |  | 0.8% | -2.9% |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q2) | 0.1% | 0.8% | -2.9% |
 | 06:15 | USD | Fed Waller Speaks |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Sep) |  | -18.1 | -18.4 |
 | 11:00 | EUR | France Jobseekers Total (Jul) |  |  | 2,834.5K |

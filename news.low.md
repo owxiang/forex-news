@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) |  | 3.40% | 3.80% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.40% | 3.80% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jun) |  | -3.4% | 1.9% |
 | 06:00 | JPY | Leading Index (MoM) (Jun) |  | -2.6% | 0.3% |
 | 06:00 | JPY | Leading Index (Jun) |  | 108.6 | 111.2 |

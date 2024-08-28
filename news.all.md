@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) |  | 0.8% | -2.9% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) |  | 3.40% | 3.80% |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) | 0.1% | 0.8% | -2.9% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.40% | 3.80% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  | -3.4% | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jun) |  | -2.6% | 0.3% |
 | 06:00 | JPY | Low | Leading Index (Jun) |  | 108.6 | 111.2 |
