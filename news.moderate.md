@@ -1,12 +1,23 @@
-## 28 August 2024 - Moderate Impact Forex News
+## 29 August 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Construction Work Done (QoQ) (Q2) | 0.1% | 0.8% | -2.0% |
-| 06:15 | USD | Fed Waller Speaks |  |  |  |
-| 11:00 | EUR | France Jobseekers Total (Jul) | 2,808.4K |  | 2,834.5K |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) |  | 0.9% | 1.0% |
+| 08:00 | EUR | Spanish CPI (YoY) (Aug) |  | 2.4% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Aug) |  | 2.5% | 2.9% |
+| 08:15 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 10:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.668M |  | -0.560M |
-| 18:00 | USD | 5-Year Note Auction | 3.645% |  | 4.121% |
-| 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 13:00 | EUR | German CPI (YoY) (Aug) |  | 2.1% | 2.3% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,863K |
+| 13:30 | USD | Core PCE Prices (Q2) |  | 2.90% | 3.70% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.3% | 3.1% |
+| 13:30 | USD | Goods Trade Balance (Jul) |  | -97.70B | -96.56B |
+| 13:30 | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.2% |
+| 13:30 | CAD | Current Account (Q2) |  | -6.0B | -5.4B |
+| 15:00 | USD | Pending Home Sales (MoM) (Jul) |  | 0.2% | 4.8% |
+| 17:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 4.162% |
+| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,194B |

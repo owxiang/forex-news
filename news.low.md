@@ -1,32 +1,65 @@
-## 28 August 2024 - Low Impact Forex News
+## 29 August 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jul) | 3.50% | 3.40% | 3.80% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jun) | -3.9% | -3.4% | 1.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jun) | -2.1% | -2.6% | 0.3% |
-| 06:00 | JPY | Leading Index (Jun) | 109.0 | 108.6 | 111.2 |
-| 07:45 | EUR | French Consumer Confidence (Aug) | 92 | 92 | 91 |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Jun) | -3.70% |  | -4.80% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jun) | 0.10% |  | -1.00% |
-| 09:00 | CHF | ZEW Expectations (Aug) | -3.4 |  | 9.4 |
-| 09:00 | EUR | M3 Money Supply (Jul) | 16,340.1B |  | 16,376.6B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jul) | 2.3% | 2.7% | 2.2% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jul) | 0.6% |  | 0.7% |
-| 09:00 | EUR | Private Sector Loans (YoY) | 0.5% | 0.5% | 0.3% |
-| 11:00 | EUR | Italian 6-Month BOT Auction | 3.247% |  | 3.518% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.44% |  | 6.50% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.5% |  | -10.1% |
-| 12:00 | USD | MBA Purchase Index | 131.8 |  | 130.6 |
-| 12:00 | USD | Mortgage Market Index | 226.9 |  | 225.8 |
-| 12:00 | USD | Mortgage Refinance Index | 753.8 |  | 754.4 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.175M |  | 0.222M |
-| 15:30 | USD | Crude Oil Imports | 0.282M |  | 0.078M |
-| 15:30 | USD | Distillate Fuel Production | 0.110M |  | 0.123M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.275M | -1.100M | -3.312M |
-| 15:30 | USD | Gasoline Production | -0.156M |  | 0.046M |
-| 15:30 | USD | Heating Oil Stockpiles | -1.189M |  | 0.265M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 0.8% |
-| 15:30 | USD | Gasoline Inventories | -2.203M | -1.600M | -1.606M |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Jul) | 188.02K |  | 201.71K |
-| 18:30 | BRL | Foreign Exchange Flows | -2.660B |  | -0.573B |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 1,854.0B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -47.9B |
+| 02:00 | NZD | ANZ Business Confidence (Aug) |  |  | 27.1 |
+| 02:00 | NZD | NBNZ Own Activity (Aug) |  |  | 16.3% |
+| 02:30 | AUD | Building Capital Expenditure (MoM) (Q2) |  |  | -0.9% |
+| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) |  |  | 3.3% |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.409% |
+| 06:00 | JPY | Household Confidence (Aug) |  | 36.9 | 36.7 |
+| 07:00 | GBP | Car Registration (YoY) (Jul) |  |  | 1.1% |
+| 07:00 | GBP | Car Registration (MoM) (Jul) |  |  | 21.4% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Jul) |  |  | 14.7% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Jul) |  |  | 15.1% |
+| 07:00 | EUR | German Car Registration (MoM) (Jul) |  |  | 25.8% |
+| 07:00 | EUR | German Car Registration (YoY) (Jul) |  |  | 6.1% |
+| 07:00 | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
+| 07:00 | EUR | French Car Registration (MoM) (Jul) |  |  | 28.6% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jul) |  | 0.9% | -5.1% |
+| 08:00 | EUR | Core CPI (YoY) (Aug) |  |  | 2.8% |
+| 08:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.1% | -0.5% |
+| 08:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.2% | -0.7% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Aug) |  |  | 2.5% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 2.6% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (YoY) (Aug) |  |  | 1.8% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Aug) |  |  | 0.6% |
+| 09:00 | EUR | Saxony CPI (YoY) (Aug) |  |  | 3.1% |
+| 10:00 | EUR | Business and Consumer Survey (Aug) |  | 95.9 | 95.8 |
+| 10:00 | EUR | Business Climate (Aug) |  |  | -0.61 |
+| 10:00 | EUR | Consumer Confidence (Aug) |  | -13.4 | -13.0 |
+| 10:00 | EUR | Consumer Inflation Expectation (Aug) |  |  | 11.2 |
+| 10:00 | EUR | Selling Price Expectations (Aug) |  |  | 6.8 |
+| 10:00 | EUR | Services Sentiment (Aug) |  | 5.2 | 4.8 |
+| 10:00 | EUR | Industrial Sentiment (Aug) |  | -10.6 | -10.5 |
+| 10:30 | ZAR | PPI (MoM) (Jul) |  |  | -0.3% |
+| 10:30 | ZAR | PPI (YoY) (Jul) |  |  | 4.6% |
+| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -4.2 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Aug) |  | 0.46% | 0.61% |
+| 12:30 | BRL | Bank lending (MoM) (Jul) |  |  | 1.2% |
+| 13:00 | EUR | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
+| 13:00 | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.5% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Jul) |  |  | 1.28% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | -2.7% |
+| 13:30 | USD | GDP Sales (Q2) |  | 2.0% | 1.8% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.00K |
+| 13:30 | USD | PCE Prices (Q2) |  | 2.6% | 3.4% |
+| 13:30 | USD | Real Consumer Spending (Q2) |  | 2.3% | 1.5% |
+| 13:30 | USD | Wholesale Inventories (MoM) |  | 0.3% | 0.2% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Jun) |  |  | 4.23% |
+| 15:00 | USD | Pending Home Sales Index (Jul) |  |  | 74.3 |
+| 15:30 | USD | Natural Gas Storage |  | 33B | 35B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.240% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.125% |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Jul) |  | 190.00K | 201.71K |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.359T |
+| 23:45 | NZD | Building Consents (MoM) (Jul) |  |  | -13.8% |
