@@ -38,4 +38,4 @@
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.645% |  | 4.121% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) | 188.02K |  | 201.71K |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -2.660B |  | -0.573B |
-| 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
