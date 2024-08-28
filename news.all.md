@@ -9,8 +9,8 @@
 | 06:00 | JPY | Low | Leading Index (Jun) | 109.0 | 108.6 | 111.2 |
 | 06:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 07:45 | EUR | Low | French Consumer Confidence (Aug) | 92 | 92 | 91 |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) | -3.70% |  | -4.80% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) | 0.10% |  | -1.00% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) | -3.70% |  | -4.80% |
 | 09:00 | CHF | Low | ZEW Expectations (Aug) | -3.4 |  | 9.4 |
 | 09:00 | EUR | Low | M3 Money Supply (Jul) | 16,340.1B |  | 16,376.6B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 2.3% | 2.7% | 2.2% |
@@ -39,4 +39,3 @@
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) | 188.02K |  | 201.71K |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -2.660B |  | -0.573B |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,834.5K |

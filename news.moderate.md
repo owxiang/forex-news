@@ -10,4 +10,3 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.668M |  | -0.560M |
 | 18:00 | USD | 5-Year Note Auction | 3.645% |  | 4.121% |
 | 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 23:00 | EUR | France Jobseekers Total |  |  | 2,834.5K |
