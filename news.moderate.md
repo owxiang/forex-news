@@ -9,7 +9,7 @@
 | 10:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.68% |  | 3.76% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | EUR | German CPI (YoY) (Aug) |  | 2.1% | 2.3% |
+| 54 min | EUR | German CPI (YoY) (Aug) |  | 2.1% | 2.3% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,863K |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 2.90% | 3.70% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.3% | 3.1% |

@@ -12,8 +12,8 @@
 | 06:00 | JPY | Household Confidence (Aug) | 36.7 | 36.9 | 36.7 |
 | 07:00 | GBP | Car Registration (YoY) (Jul) | 2.5% |  | 1.1% |
 | 07:00 | GBP | Car Registration (MoM) (Jul) | -17.7% |  | 21.4% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Jul) | -21.9% |  | 14.7% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Jul) | -21.9% |  | 14.7% |
 | 07:00 | EUR | German Car Registration (MoM) (Jul) | -19.9% |  | 25.8% |
 | 07:00 | EUR | German Car Registration (YoY) (Jul) | -2.1% |  | 6.1% |
 | 07:00 | EUR | French Car Registration (YoY) (Jul) | -2.3% |  | -4.8% |
@@ -24,8 +24,8 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.2% | -0.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 1.5% |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Aug) | -0.1% |  | 0.3% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 2.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) | 1.7% |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Aug) | -0.1% |  | 0.3% |
@@ -44,12 +44,12 @@
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.08% |  | 3.14% |
 | 10:30 | ZAR | PPI (YoY) (Jul) | 4.2% |  | 4.6% |
 | 10:30 | ZAR | PPI (MoM) (Jul) | -0.2% |  | -0.3% |
-| 54 min | EUR | Spanish Business Confidence (Jul) |  |  | -4.2 |
-| 54 min | BRL | IGP-M Inflation Index (MoM) (Aug) |  | 0.46% | 0.61% |
-| 12:30 | BRL | Bank lending (MoM) (Jul) |  |  | 1.2% |
-| 13:00 | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.5% |
-| 13:00 | EUR | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Jul) |  |  | 1.28% |
+| 12:00 | EUR | Spanish Business Confidence (Jul) | -3.6 |  | -4.2 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Aug) | 0.29% | 0.46% | 0.61% |
+| 24 min | BRL | Bank lending (MoM) (Jul) |  |  | 1.2% |
+| 54 min | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.5% |
+| 54 min | EUR | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
+| 54 min | BRL | Brazilian PPI (MoM) (Jul) |  |  | 1.28% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | -2.7% |
 | 13:30 | USD | GDP Sales (Q2) |  | 2.0% | 1.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.00K |
