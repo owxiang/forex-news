@@ -16,7 +16,7 @@
 | 13:30 | USD | Goods Trade Balance (Jul) | -102.66B | -97.70B | -96.56B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jul) | 0.5% |  | 0.3% |
 | 13:30 | CAD | Current Account (Q2) | -8.5B | -6.0B | -5.4B |
-| 51 min | USD | Pending Home Sales (MoM) (Jul) |  | 0.2% | 4.8% |
+| 15:00 | USD | Pending Home Sales (MoM) (Jul) | -5.5% | 0.2% | 4.8% |
 | 17:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.162% |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
