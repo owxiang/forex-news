@@ -5,7 +5,7 @@
 | 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) | -2.2% | 0.9% | 1.9% |
 | 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.2% | 2.4% | 2.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.9% |
-| 9 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 08:15 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 10:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:50 | EUR | Italian 10-Year BTP Auction |  |  | 3.76% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
