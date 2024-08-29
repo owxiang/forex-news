@@ -9,13 +9,13 @@
 | 10:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.68% |  | 3.76% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 54 min | EUR | German CPI (YoY) (Aug) |  | 2.1% | 2.3% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,863K |
-| 13:30 | USD | Core PCE Prices (Q2) |  | 2.90% | 3.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.3% | 3.1% |
-| 13:30 | USD | Goods Trade Balance (Jul) |  | -97.70B | -96.56B |
-| 13:30 | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.2% |
-| 13:30 | CAD | Current Account (Q2) |  | -6.0B | -5.4B |
+| 13:00 | EUR | German CPI (YoY) (Aug) | 1.9% | 2.1% | 2.3% |
+| 21 min | USD | Continuing Jobless Claims |  | 1,870K | 1,863K |
+| 21 min | USD | Core PCE Prices (Q2) |  | 2.90% | 3.70% |
+| 21 min | USD | GDP Price Index (QoQ) (Q2) |  | 2.3% | 3.1% |
+| 21 min | USD | Goods Trade Balance (Jul) |  | -97.70B | -96.56B |
+| 21 min | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.2% |
+| 21 min | CAD | Current Account (Q2) |  | -6.0B | -5.4B |
 | 15:00 | USD | Pending Home Sales (MoM) (Jul) |  | 0.2% | 4.8% |
 | 17:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.162% |
