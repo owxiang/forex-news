@@ -1,7 +1,8 @@
-## 29 August 2024 - High Impact Forex News
+## 30 August 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German CPI (MoM) (Aug) | -0.1% | 0.0% | 0.3% |
-| 13:30 | USD | GDP (QoQ) (Q2) | 3.0% | 2.8% | 1.4% |
-| 13:30 | USD | Initial Jobless Claims | 231K | 232K | 233K |
+| 10:00 | EUR | CPI (YoY) (Aug) |  | 2.2% | 2.6% |
+| 13:30 | USD | Core PCE Price Index (YoY) (Jul) |  | 2.7% | 2.6% |
+| 13:30 | USD | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
+| 14:45 | USD | Chicago PMI (Aug) |  | 45.0 | 45.3 |
