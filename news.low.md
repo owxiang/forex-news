@@ -10,28 +10,28 @@
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) | -0.5% |  | 3.7% |
 | 04:35 | JPY | 2-Year JGB Auction | 0.385% |  | 0.057% |
 | 06:00 | JPY | Household Confidence (Aug) | 36.7 | 36.9 | 36.7 |
-| 54 min | NOK | Core Retail Sales (MoM) (Jul) |  | 0.9% | -5.1% |
-| 07:30 | GBP | Car Registration (MoM) (Jul) |  |  | 21.4% |
-| 07:30 | GBP | Car Registration (YoY) (Jul) |  |  | 1.1% |
-| 07:30 | EUR | Italian Car Registration (MoM) (Jul) |  |  | 14.7% |
-| 07:30 | EUR | Italian Car Registration (YoY) (Jul) |  |  | 15.1% |
-| 07:30 | EUR | German Car Registration (MoM) (Jul) |  |  | 25.8% |
-| 07:30 | EUR | German Car Registration (YoY) (Jul) |  |  | 6.1% |
-| 07:30 | EUR | French Car Registration (MoM) (Jul) |  |  | 28.6% |
-| 07:30 | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
-| 08:00 | EUR | Core CPI (YoY) (Aug) |  |  | 2.8% |
-| 08:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.1% | -0.5% |
-| 08:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.2% | -0.7% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jul) | 1.2% | 0.9% | -5.1% |
+| 23 min | GBP | Car Registration (YoY) (Jul) |  |  | 1.1% |
+| 23 min | GBP | Car Registration (MoM) (Jul) |  |  | 21.4% |
+| 23 min | EUR | Italian Car Registration (MoM) (Jul) |  |  | 14.7% |
+| 23 min | EUR | Italian Car Registration (YoY) (Jul) |  |  | 15.1% |
+| 23 min | EUR | German Car Registration (MoM) (Jul) |  |  | 25.8% |
+| 23 min | EUR | German Car Registration (YoY) (Jul) |  |  | 6.1% |
+| 23 min | EUR | French Car Registration (MoM) (Jul) |  |  | 28.6% |
+| 23 min | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
+| 53 min | EUR | Core CPI (YoY) (Aug) |  |  | 2.8% |
+| 53 min | EUR | Spanish CPI (MoM) (Aug) |  | 0.1% | -0.5% |
+| 53 min | EUR | Spanish HICP (MoM) (Aug) |  | 0.2% | -0.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) |  |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Aug) |  |  | 0.3% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 2.6% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) |  |  | 1.8% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Aug) |  |  | 3.1% |
 | 09:00 | EUR | Saxony CPI (MoM) (Aug) |  |  | 0.6% |
 | 10:00 | EUR | Business and Consumer Survey (Aug) |  | 95.8 | 95.8 |
@@ -47,8 +47,8 @@
 | 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -4.2 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Aug) |  | 0.46% | 0.61% |
 | 12:30 | BRL | Bank lending (MoM) (Jul) |  |  | 1.2% |
-| 13:00 | EUR | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
 | 13:00 | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.5% |
+| 13:00 | EUR | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jul) |  |  | 1.28% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | -2.7% |
 | 13:30 | USD | GDP Sales (Q2) |  | 2.0% | 1.8% |
