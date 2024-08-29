@@ -6,9 +6,9 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.2% | 2.4% | 2.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.9% |
 | 08:15 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 9 min | EUR | ECB's Lane Speaks |  |  |  |
-| 44 min | EUR | Italian 10-Year BTP Auction |  |  | 3.76% |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 10:30 | EUR | Italian 10-Year BTP Auction | 3.68% |  | 3.76% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Aug) |  | 2.1% | 2.3% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,863K |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 2.90% | 3.70% |

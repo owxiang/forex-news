@@ -16,8 +16,8 @@
 | 07:00 | EUR | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
 | 07:00 | EUR | German Car Registration (MoM) (Jul) | -19.9% |  | 25.8% |
 | 07:00 | EUR | German Car Registration (YoY) (Jul) | -2.1% |  | 6.1% |
-| 07:00 | EUR | French Car Registration (MoM) (Jul) | -30.6% |  | 28.6% |
 | 07:00 | EUR | French Car Registration (YoY) (Jul) | -2.3% |  | -4.8% |
+| 07:00 | EUR | French Car Registration (MoM) (Jul) | -30.6% |  | 28.6% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jul) | 1.2% | 0.9% | -5.1% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) | 2.7% |  | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.1% | -0.5% |
@@ -32,23 +32,23 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) | 1.5% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 1.7% |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.6% |  | 3.1% |
 | 09:00 | EUR | Saxony CPI (MoM) (Aug) | -0.2% |  | 0.6% |
+| 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.6% |  | 3.1% |
 | 10:00 | EUR | Business and Consumer Survey (Aug) | 96.6 | 95.8 | 96.0 |
+| 10:00 | EUR | Business Climate (Aug) | -0.62 |  | -0.61 |
 | 10:00 | EUR | Consumer Confidence (Aug) | -13.5 | -13.4 | -13.0 |
 | 10:00 | EUR | Consumer Inflation Expectation (Aug) | 11.3 |  | 11.3 |
 | 10:00 | EUR | Selling Price Expectations (Aug) | 6.1 |  | 6.7 |
 | 10:00 | EUR | Services Sentiment (Aug) | 6.3 | 5.2 | 5.0 |
 | 10:00 | EUR | Industrial Sentiment (Aug) | -9.7 | -10.6 | -10.4 |
-| 24 min | EUR | Business Climate (Aug) |  |  | -0.61 |
-| 24 min | ZAR | PPI (YoY) (Jul) |  |  | 4.6% |
-| 24 min | ZAR | PPI (MoM) (Jul) |  |  | -0.3% |
-| 44 min | EUR | Italian 5-Year BTP Auction |  |  | 3.14% |
-| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -4.2 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Aug) |  | 0.46% | 0.61% |
+| 10:30 | EUR | Italian 5-Year BTP Auction | 3.08% |  | 3.14% |
+| 10:30 | ZAR | PPI (YoY) (Jul) | 4.2% |  | 4.6% |
+| 10:30 | ZAR | PPI (MoM) (Jul) | -0.2% |  | -0.3% |
+| 54 min | EUR | Spanish Business Confidence (Jul) |  |  | -4.2 |
+| 54 min | BRL | IGP-M Inflation Index (MoM) (Aug) |  | 0.46% | 0.61% |
 | 12:30 | BRL | Bank lending (MoM) (Jul) |  |  | 1.2% |
-| 13:00 | EUR | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
 | 13:00 | EUR | German HICP (MoM) (Aug) |  | 0.0% | 0.5% |
+| 13:00 | EUR | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Jul) |  |  | 1.28% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q2) |  |  | -2.7% |
 | 13:30 | USD | GDP Sales (Q2) |  | 2.0% | 1.8% |
