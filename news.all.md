@@ -10,35 +10,35 @@
 | 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q2) | -0.5% |  | 3.7% |
 | 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) | -2.2% | 0.9% | 1.9% |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.385% |  | 0.057% |
-| 53 min | JPY | Low | Household Confidence (Aug) |  | 36.9 | 36.7 |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jul) |  | 0.9% | -5.1% |
+| 06:00 | JPY | Low | Household Confidence (Aug) | 36.7 | 36.9 | 36.7 |
+| 54 min | NOK | Low | Core Retail Sales (MoM) (Jul) |  | 0.9% | -5.1% |
 | 07:30 | GBP | Low | Car Registration (MoM) (Jul) |  |  | 21.4% |
 | 07:30 | GBP | Low | Car Registration (YoY) (Jul) |  |  | 1.1% |
-| 07:30 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 15.1% |
 | 07:30 | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | 14.7% |
-| 07:30 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 6.1% |
+| 07:30 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 15.1% |
 | 07:30 | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 25.8% |
+| 07:30 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 6.1% |
 | 07:30 | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 28.6% |
 | 07:30 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -4.8% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) |  |  | 2.8% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.1% | -0.5% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.4% | 2.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.2% | -0.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.1% | -0.5% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.5% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.2% | -0.7% |
 | 08:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 2.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Aug) |  |  | 0.3% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Aug) |  |  | 2.5% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Aug) |  |  | 2.6% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Aug) |  |  | 1.8% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Aug) |  |  | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Aug) |  |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Aug) |  |  | 3.1% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Aug) |  |  | 0.6% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Aug) |  | 95.9 | 95.8 |
+| 10:00 | EUR | Low | Business and Consumer Survey (Aug) |  | 95.8 | 95.8 |
 | 10:00 | EUR | Low | Business Climate (Aug) |  |  | -0.61 |
 | 10:00 | EUR | Low | Consumer Confidence (Aug) |  | -13.4 | -13.0 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Aug) |  |  | 11.2 |
@@ -46,16 +46,18 @@
 | 10:00 | EUR | Low | Services Sentiment (Aug) |  | 5.2 | 4.8 |
 | 10:00 | EUR | Low | Industrial Sentiment (Aug) |  | -10.6 | -10.5 |
 | 10:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (YoY) (Jul) |  |  | 4.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jul) |  |  | -0.3% |
+| 10:30 | ZAR | Low | PPI (YoY) (Jul) |  |  | 4.6% |
+| 10:50 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.76% |
+| 10:50 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.14% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Low | Spanish Business Confidence (Jul) |  |  | -4.2 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Aug) |  | 0.46% | 0.61% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jul) |  |  | 1.2% |
-| 13:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.0% | 0.3% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 2.1% | 2.3% |
-| 13:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.0% | 0.5% |
+| 13:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.0% | 0.3% |
 | 13:00 | EUR | Low | German HICP (YoY) (Aug) |  | 2.3% | 2.6% |
+| 13:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.0% | 0.5% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jul) |  |  | 1.28% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,863K |
 | 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.90% | 3.70% |
