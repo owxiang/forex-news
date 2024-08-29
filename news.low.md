@@ -10,28 +10,28 @@
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) | -0.5% |  | 3.7% |
 | 04:35 | JPY | 2-Year JGB Auction | 0.385% |  | 0.057% |
 | 06:00 | JPY | Household Confidence (Aug) | 36.7 | 36.9 | 36.7 |
-| 07:00 | GBP | Car Registration (MoM) (Jul) | -17.7% |  | 21.4% |
 | 07:00 | GBP | Car Registration (YoY) (Jul) | 2.5% |  | 1.1% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
+| 07:00 | GBP | Car Registration (MoM) (Jul) | -17.7% |  | 21.4% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Jul) | -21.9% |  | 14.7% |
-| 07:00 | EUR | German Car Registration (YoY) (Jul) | -2.1% |  | 6.1% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
 | 07:00 | EUR | German Car Registration (MoM) (Jul) | -19.9% |  | 25.8% |
-| 07:00 | EUR | French Car Registration (YoY) (Jul) | -2.3% |  | -4.8% |
+| 07:00 | EUR | German Car Registration (YoY) (Jul) | -2.1% |  | 6.1% |
 | 07:00 | EUR | French Car Registration (MoM) (Jul) | -30.6% |  | 28.6% |
+| 07:00 | EUR | French Car Registration (YoY) (Jul) | -2.3% |  | -4.8% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jul) | 1.2% | 0.9% | -5.1% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) | 2.7% |  | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.1% | -0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.2% | -0.7% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 1.5% |  | 2.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.3% |  | 0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Aug) | -0.1% |  | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 1.5% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 2.5% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) | 1.7% |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) | -0.2% |  | 0.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Aug) | 1.5% |  | 1.8% |
 | 09:00 | EUR | Hesse CPI (MoM) (Aug) | -0.1% |  | 0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 1.7% |  | 2.3% |
+| 09:00 | EUR | Hesse CPI (YoY) (Aug) | 1.5% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | -0.3% |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 1.7% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.6% |  | 3.1% |
 | 09:00 | EUR | Saxony CPI (MoM) (Aug) | -0.2% |  | 0.6% |
 | 10:00 | EUR | Business and Consumer Survey (Aug) | 96.6 | 95.8 | 96.0 |
