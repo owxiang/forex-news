@@ -17,8 +17,8 @@
 | 13:30 | USD | Retail Inventories Ex Auto (Jul) | 0.5% |  | 0.3% |
 | 13:30 | CAD | Current Account (Q2) | -8.5B | -6.0B | -5.4B |
 | 15:00 | USD | Pending Home Sales (MoM) (Jul) | -5.5% | 0.2% | 4.8% |
-| 54 min | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 18:00 | USD | 7-Year Note Auction |  |  | 4.162% |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 54 min | USD | 7-Year Note Auction |  |  | 4.162% |
+| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,194B |

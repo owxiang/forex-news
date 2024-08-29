@@ -15,25 +15,25 @@
 | 07:00 | GBP | Low | Car Registration (YoY) (Jul) | 2.5% |  | 1.1% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Jul) | -21.9% |  | 14.7% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Jul) | -19.9% |  | 25.8% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Jul) | -2.1% |  | 6.1% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Jul) | -19.9% |  | 25.8% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Jul) | -30.6% |  | 28.6% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Jul) | -2.3% |  | -4.8% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jul) | 1.2% | 0.9% | -5.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.7% |  | 2.8% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.2% | 2.4% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.1% | -0.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.2% | 2.4% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.2% | -0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.9% |
 | 08:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) | 1.5% |  | 2.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Aug) | 2.1% |  | 2.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Aug) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Aug) | 1.7% |  | 2.6% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Aug) | 1.5% |  | 1.8% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) | 1.7% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Aug) | 2.6% |  | 3.1% |
@@ -54,8 +54,8 @@
 | 12:00 | EUR | Low | Spanish Business Confidence (Jul) | -3.6 |  | -4.2 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Aug) | 0.29% | 0.46% | 0.61% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jul) | 0.2% |  | 1.4% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Aug) | 1.9% | 2.1% | 2.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Aug) | -0.1% | 0.0% | 0.3% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Aug) | 1.9% | 2.1% | 2.3% |
 | 13:00 | EUR | Low | German HICP (YoY) (Aug) | 2.0% | 2.3% | 2.6% |
 | 13:00 | EUR | Low | German HICP (MoM) (Aug) | -0.2% | 0.0% | 0.5% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Jul) | 1.58% |  | 1.26% |
@@ -77,11 +77,11 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jul) | -5.5% | 0.2% | 4.8% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jul) | 70.2 |  | 74.3 |
 | 15:30 | USD | Low | Natural Gas Storage | 35B | 33B | 35B |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.240% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.125% |
-| 54 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.162% |
-| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.170% |  | 5.240% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.100% |  | 5.125% |
+| 17:00 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 54 min | USD | Moderate | 7-Year Note Auction |  |  | 4.162% |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  | 190.00K | 201.71K |
 | 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,194B |

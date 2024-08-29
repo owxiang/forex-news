@@ -14,22 +14,22 @@
 | 07:00 | GBP | Car Registration (YoY) (Jul) | 2.5% |  | 1.1% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Jul) | -21.9% |  | 14.7% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Jul) | 4.7% |  | 15.1% |
-| 07:00 | EUR | German Car Registration (MoM) (Jul) | -19.9% |  | 25.8% |
 | 07:00 | EUR | German Car Registration (YoY) (Jul) | -2.1% |  | 6.1% |
+| 07:00 | EUR | German Car Registration (MoM) (Jul) | -19.9% |  | 25.8% |
 | 07:00 | EUR | French Car Registration (MoM) (Jul) | -30.6% |  | 28.6% |
 | 07:00 | EUR | French Car Registration (YoY) (Jul) | -2.3% |  | -4.8% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jul) | 1.2% | 0.9% | -5.1% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) | 2.7% |  | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.1% | -0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.2% | -0.7% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) | 1.5% |  | 2.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Aug) | 2.1% |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Aug) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Aug) | 1.7% |  | 2.6% |
-| 09:00 | EUR | Hesse CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Aug) | 1.5% |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 1.7% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | -0.3% |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Aug) | 2.6% |  | 3.1% |
@@ -59,8 +59,8 @@
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Jun) | 3.99% |  | 4.11% |
 | 15:00 | USD | Pending Home Sales Index (Jul) | 70.2 |  | 74.3 |
 | 15:30 | USD | Natural Gas Storage | 35B | 33B | 35B |
-| 24 min | USD | 4-Week Bill Auction |  |  | 5.240% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 5.125% |
+| 16:30 | USD | 4-Week Bill Auction | 5.170% |  | 5.240% |
+| 16:30 | USD | 8-Week Bill Auction | 5.100% |  | 5.125% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jul) |  | 190.00K | 201.71K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.359T |
 | 23:45 | NZD | Building Consents (MoM) (Jul) |  |  | -13.8% |
