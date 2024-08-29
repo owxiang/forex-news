@@ -21,4 +21,4 @@
 | 18:00 | USD | 7-Year Note Auction | 3.770% |  | 4.162% |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 7,194B |
+| 21:30 | USD | Fed's Balance Sheet | 7,123B |  | 7,194B |
