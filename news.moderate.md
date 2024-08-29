@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) |  | 0.9% | 1.0% |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) | -2.2% | 0.9% | 1.0% |
 | 08:00 | EUR | Spanish CPI (YoY) (Aug) |  | 2.4% | 2.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Aug) |  | 2.5% | 2.9% |
 | 08:15 | EUR | ECB's Schnabel Speaks |  |  |  |
