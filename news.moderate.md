@@ -20,5 +20,5 @@
 | 17:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction | 3.770% |  | 4.162% |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 24 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,194B |
+| 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,194B |
