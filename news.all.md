@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
@@ -26,8 +26,8 @@
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jul) | 62.8% |  | -19.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Jul) | -0.2% | -1.1% | -6.7% |
 | 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.0% | 0.0% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jul) | -0.4% | 0.1% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jul) | 0.9% | 1.5% | 0.7% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) | 5.88% |  | 4.19% |
@@ -35,10 +35,10 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Aug) | 101.6 | 100.6 | 100.6 |
@@ -64,8 +64,8 @@
 | 09:30 | HKD | Low | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Low | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
@@ -98,9 +98,9 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) | 0.4% |  | 0.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q2) | 1.10% |  | -0.30% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q2) | 0.91% |  | 0.56% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q2) | 0.5% |  | 0.4% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q2) | 0.91% |  | 0.56% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q2) | 2.1% | 1.6% | 1.8% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jul) | 0.0% |  | 0.0% |
 | 14:45 | USD | High | Chicago PMI (Aug) | 46.1 | 45.0 | 45.3 |
@@ -110,9 +110,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 67.9 | 67.8 | 66.4 |
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 61.3 | 60.9 | 62.7 |
 | 15:00 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 25 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.0% | 2.0% |
-| 55 min | CAD | Low | Budget Balance (YoY) (Jun) |  |  | -3.89B |
-| 55 min | CAD | Low | Budget Balance (Jun) |  |  | 1.10B |
+| 16:00 | CAD | Low | Budget Balance (Jun) | 0.94B |  | 1.10B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) | -2.88B |  | -3.89B |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.0% | 2.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Low | Dallas Fed PCE (Jul) |  |  | 1.70% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
