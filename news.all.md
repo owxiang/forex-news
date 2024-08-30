@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.3% |  | 1.1% |
@@ -21,24 +21,24 @@
 | 02:30 | AUD | Low | Housing Credit (Jul) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (Jul) | 0.5% | 0.5% | 0.6% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Jul) | 0.0% | 0.5% | 0.1% |
-| 27 min | SGD | Low | Bank Lending (Jul) |  |  | 803.6B |
-| 04:00 | NZD | Low | M3 Money Supply (Jul) |  |  | 412.9B |
+| 03:00 | SGD | Low | Bank Lending (Jul) | 801.2B |  | 803.6B |
+| 37 min | NZD | Low | M3 Money Supply (Jul) |  |  | 412.9B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jul) |  |  | -19.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Jul) |  | -1.1% | -6.7% |
 | 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.1% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jul) |  |  | 0.7% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) |  |  | 4.19% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jul) |  |  | 4.27% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) |  | 0.4% | -0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) |  | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q2) |  | 1.1% | 1.1% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 0.5% | 0.2% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) |  | 2.1% | 2.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jul) |  |  | -0.3% |
 | 07:45 | EUR | Low | PPI (YoY) (Jul) |  |  | -6.00% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Aug) |  | 100.6 | 101.0 |
@@ -98,9 +98,9 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) |  |  | 0.2% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q2) |  |  | 0.53% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Jun) |  | 0.1% | 0.2% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q2) |  |  | 0.4% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q2) |  |  | 0.53% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q2) |  | 1.6% | 1.7% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jul) |  |  |  |
 | 14:00 | USD | Low | Dallas Fed PCE (Jul) |  |  | 1.70% |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
+| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.3% |  | 1.1% |
@@ -18,8 +18,8 @@
 | 00:50 | JPY | Retail Sales (YoY) (Jul) | 2.6% | 2.8% | 3.8% |
 | 02:30 | AUD | Housing Credit (Jul) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.5% | 0.5% | 0.6% |
-| 27 min | SGD | Bank Lending (Jul) |  |  | 803.6B |
-| 04:00 | NZD | M3 Money Supply (Jul) |  |  | 412.9B |
+| 03:00 | SGD | Bank Lending (Jul) | 801.2B |  | 803.6B |
+| 37 min | NZD | M3 Money Supply (Jul) |  |  | 412.9B |
 | 06:00 | JPY | Construction Orders (YoY) (Jul) |  |  | -19.7% |
 | 06:00 | JPY | Housing Starts (YoY) (Jul) |  | -1.1% | -6.7% |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | 0.0% |
