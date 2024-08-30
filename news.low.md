@@ -59,22 +59,21 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
 | 11:00 | EUR | Italian Business Confidence (Aug) | 87.1 | 87.5 | 87.6 |
 | 11:00 | EUR | Italian Consumer Confidence (Aug) | 96.1 | 99.2 | 98.9 |
-| 24 min | INR | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
-| 24 min | INR | FX Reserves, USD |  |  | 674.66B |
-| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 24 min | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 62.2% |
-| 24 min | BRL | Budget Balance (Jul) |  | -78.600B | -135.724B |
-| 24 min | BRL | Budget Surplus (Jul) |  |  | -40.873B |
-| 54 min | INR | Infrastructure Output (YoY) (Jul) |  |  | 4.0% |
-| 54 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 54 min | ZAR | Trade Balance (Jul) |  |  | 24.23B |
-| 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.2% |
-| 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
-| 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
+| 12:30 | INR | FX Reserves, USD | 681.69B |  | 674.66B |
+| 12:30 | INR | Infrastructure Output (YoY) (Jul) | 6.1% |  | 5.1% |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Jul) | 61.9% |  | 62.2% |
+| 12:30 | BRL | Budget Balance (Jul) | -101.472B | -78.600B | -135.724B |
+| 12:30 | BRL | Budget Surplus (Jul) | -21.348B |  | -40.873B |
+| 13:00 | ZAR | Trade Balance (Jul) | 17.61B |  | 24.19B |
+| 21 min | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
+| 21 min | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.2% |
+| 21 min | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
+| 21 min | INR | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
+| 51 min | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
+| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -165.3K |
