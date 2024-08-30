@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
+| 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
-| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.3% |  | 1.1% |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
 | 00:30 | JPY | Jobs/applications ratio (Jul) | 1.24 | 1.23 | 1.23 |
 | 00:30 | JPY | Tokyo CPI (YoY) (Aug) | 2.6% |  | 2.2% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Aug) | 0.5% |  | 0.2% |
@@ -24,23 +24,22 @@
 | 06:00 | JPY | Housing Starts (YoY) (Jul) | -0.2% | -1.1% | -6.7% |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.0% | 0.0% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jul) | -0.4% | 0.1% | 0.4% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jul) | 0.9% |  | 0.7% |
-| 07:00 | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 07:00 | EUR | German Import Price Index (YoY) (Jul) | 0.9% | 1.5% | 0.7% |
 | 07:00 | ZAR | M3 Money Supply (YoY) (Jul) | 5.88% |  | 4.19% |
 | 07:00 | ZAR | Private Sector Credit (Jul) | 3.50% |  | 4.27% |
-| 38 min | EUR | French CPI (YoY) (Aug) |  | 1.8% | 2.3% |
-| 38 min | EUR | French HICP (YoY) (Aug) |  | 2.1% | 2.7% |
-| 38 min | EUR | French PPI (MoM) (Jul) |  |  | -0.3% |
-| 38 min | EUR | PPI (YoY) (Jul) |  |  | -6.00% |
-| 53 min | CHF | Official Reserves Assets (Jul) |  |  | 794.3B |
-| 53 min | EUR | Spanish Retail Sales (YoY) (Jul) |  |  | 0.3% |
-| 08:55 | EUR | German Unemployment (Aug) |  |  | 2.802M |
-| 08:55 | EUR | German Unemployment n.s.a. (Aug) |  |  | 2.809M |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Jul) |  | 7.0% | 7.0% |
-| 09:00 | EUR | Spanish Current account (Jun) |  |  | 5.56B |
-| 09:00 | NOK | Central Bank Currency Purchase (Sep) |  |  | 400.0M |
-| 09:00 | NOK | Unemployment Change (Aug) |  |  | 76.57K |
-| 09:00 | NOK | Unemployment Rate n.s.a. (Aug) |  |  | 2.10% |
+| 07:45 | EUR | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
+| 07:45 | EUR | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
+| 07:45 | EUR | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
+| 07:45 | EUR | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
+| 08:00 | CHF | Official Reserves Assets (Jul) | 787.6B |  | 794.3B |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 1.0% |  | 0.3% |
+| 49 min | EUR | German Unemployment (Aug) |  |  | 2.802M |
+| 49 min | EUR | German Unemployment n.s.a. (Aug) |  |  | 2.809M |
+| 54 min | EUR | Italian Monthly Unemployment Rate (Jul) |  | 7.0% | 7.0% |
+| 54 min | EUR | Spanish Current account (Jun) |  |  | 5.56B |
+| 54 min | NOK | Central Bank Currency Purchase (Sep) |  |  | 400.0M |
+| 54 min | NOK | Unemployment Change (Aug) |  |  | 76.57K |
+| 54 min | NOK | Unemployment Rate n.s.a. (Aug) |  |  | 2.10% |
 | 09:30 | GBP | BoE Consumer Credit (Jul) |  | 1.300B | 1.162B |
 | 09:30 | GBP | M3 Money Supply (Jul) |  |  | 3,056.2B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Jul) |  | 0.5% | 0.5% |
@@ -49,8 +48,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Jul) |  | 3.400B | 3.816B |
 | 09:30 | HKD | M3 Money Supply (Jul) |  |  | 1.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) |  |  | -9.7% |
-| 10:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.2% | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.3% | 0.4% |
+| 10:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.2% | 1.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.0% | -0.9% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) |  |  | -0.2% |
@@ -73,8 +72,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
 | 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
+| 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 17:20 | ZAR | Budget Balance (MoM) (Jul) |  |  | 38.55B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
