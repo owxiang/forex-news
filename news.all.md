@@ -33,48 +33,48 @@
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) | 5.88% |  | 4.19% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jul) | 3.50% |  | 4.27% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
-| 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
-| 07:45 | EUR | Low | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
+| 07:45 | EUR | Low | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Aug) | 101.6 | 100.6 | 100.6 |
 | 08:00 | CHF | Low | Official Reserves Assets (Jul) | 787.6B |  | 794.3B |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) | 1.0% |  | 0.3% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) | 1.0% | 0.3% | 0.4% |
 | 08:05 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 29 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 49 min | EUR | Moderate | German Unemployment Change (Aug) |  | 17K | 18K |
-| 49 min | EUR | Moderate | German Unemployment Rate (Aug) |  | 6.0% | 6.0% |
-| 49 min | EUR | Low | German Unemployment (Aug) |  |  | 2.802M |
-| 49 min | EUR | Low | German Unemployment n.s.a. (Aug) |  |  | 2.809M |
-| 54 min | EUR | Low | Italian Monthly Unemployment Rate (Jul) |  | 7.0% | 7.0% |
-| 54 min | EUR | Low | Spanish Current account (Jun) |  |  | 5.56B |
-| 54 min | NOK | Low | Central Bank Currency Purchase (Sep) |  |  | 400.0M |
-| 54 min | NOK | Low | Unemployment Change (Aug) |  |  | 76.57K |
-| 54 min | NOK | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.10% |
-| 09:30 | GBP | Low | BoE Consumer Credit (Jul) |  | 1.300B | 1.162B |
-| 09:30 | GBP | Low | M3 Money Supply (Jul) |  |  | 3,056.2B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Jul) |  | 0.5% | 0.5% |
-| 09:30 | GBP | Low | Mortgage Approvals (Jul) |  | 61.00K | 59.98K |
-| 09:30 | GBP | Low | Mortgage Lending (Jul) |  | 2.45B | 2.65B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Jul) |  | 3.400B | 3.816B |
-| 09:30 | HKD | Low | M3 Money Supply (Jul) |  |  | 1.5% |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Jul) |  |  | -9.7% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.3% | 0.4% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.2% | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | 0.0% | -0.9% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Aug) |  |  | -0.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.8% | 2.9% |
-| 10:00 | EUR | High | CPI (YoY) (Aug) |  | 2.2% | 2.6% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Aug) |  |  | 0.0% |
-| 10:00 | EUR | Low | CPI, n.s.a (Aug) |  |  | 126.54 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) |  |  | 2.8% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) |  |  | -0.1% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
+| 08:35 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 08:55 | EUR | Moderate | German Unemployment Change (Aug) | 2K | 17K | 17K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Aug) | 6.0% | 6.0% | 6.0% |
+| 08:55 | EUR | Low | German Unemployment (Aug) | 2.801M |  | 2.802M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Aug) | 2.872M |  | 2.809M |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jul) | 6.5% | 7.0% | 6.9% |
+| 09:00 | EUR | Low | Spanish Current account (Jun) | 5.02B |  | 5.56B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Sep) | 400.0M |  | 400.0M |
+| 09:00 | NOK | Low | Unemployment Change (Aug) | 75.85K |  | 76.57K |
+| 09:00 | NOK | Low | Unemployment Rate n.s.a. (Aug) | 2.00% |  | 2.10% |
+| 23 min | GBP | Low | BoE Consumer Credit (Jul) |  | 1.300B | 1.162B |
+| 23 min | GBP | Low | M3 Money Supply (Jul) |  |  | 3,056.2B |
+| 23 min | GBP | Low | M4 Money Supply (MoM) (Jul) |  | 0.5% | 0.5% |
+| 23 min | GBP | Low | Mortgage Approvals (Jul) |  | 61.00K | 59.98K |
+| 23 min | GBP | Low | Mortgage Lending (Jul) |  | 2.45B | 2.65B |
+| 23 min | GBP | Low | Net Lending to Individuals (Jul) |  | 3.400B | 3.816B |
+| 23 min | HKD | Low | M3 Money Supply (Jul) |  |  | 1.5% |
+| 23 min | HKD | Low | Retail Sales (YoY) (Jul) |  |  | -9.7% |
+| 53 min | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.2% | 1.3% |
+| 53 min | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.3% | 0.4% |
+| 53 min | EUR | Low | Italian HICP (MoM) (Aug) |  | 0.0% | -0.9% |
+| 53 min | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
+| 53 min | EUR | Low | Core CPI (MoM) (Aug) |  |  | -0.2% |
+| 53 min | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.8% | 2.9% |
+| 53 min | EUR | High | CPI (YoY) (Aug) |  | 2.2% | 2.6% |
+| 53 min | EUR | Moderate | CPI (MoM) (Aug) |  |  | 0.0% |
+| 53 min | EUR | Low | CPI, n.s.a (Aug) |  |  | 126.54 |
+| 53 min | EUR | Low | HICP ex Energy & Food (YoY) (Aug) |  |  | 2.8% |
+| 53 min | EUR | Low | HICP ex Energy and Food (MoM) (Aug) |  |  | -0.1% |
+| 53 min | EUR | Moderate | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
 | 11:00 | EUR | Low | Italian Business Confidence (Aug) |  | 87.5 | 87.6 |
 | 11:00 | EUR | Low | Italian Consumer Confidence (Aug) |  | 99.2 | 98.9 |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
@@ -90,10 +90,10 @@
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jul) |  | 6.8% | 6.9% |
 | 13:00 | ZAR | Low | Trade Balance (Jul) |  |  | 24.23B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 2.7% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 2.7% | 2.6% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) |  |  | 0.2% |
@@ -112,8 +112,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
 | 15:00 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.0% | 2.0% |
-| 16:00 | CAD | Low | Budget Balance (Jun) |  |  | 1.10B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | -3.89B |
+| 16:00 | CAD | Low | Budget Balance (Jun) |  |  | 1.10B |
 | 17:20 | ZAR | Low | Budget Balance (MoM) (Jul) |  |  | 38.55B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |

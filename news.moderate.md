@@ -14,18 +14,18 @@
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Aug) | 101.6 | 100.6 | 100.6 |
 | 08:05 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 29 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 49 min | EUR | German Unemployment Change (Aug) |  | 17K | 18K |
-| 49 min | EUR | German Unemployment Rate (Aug) |  | 6.0% | 6.0% |
-| 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.8% | 2.9% |
-| 10:00 | EUR | CPI (MoM) (Aug) |  |  | 0.0% |
-| 10:00 | EUR | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
+| 08:35 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 08:55 | EUR | German Unemployment Change (Aug) | 2K | 17K | 17K |
+| 08:55 | EUR | German Unemployment Rate (Aug) | 6.0% | 6.0% | 6.0% |
+| 53 min | EUR | Core CPI (YoY) (Aug) |  | 2.8% | 2.9% |
+| 53 min | EUR | CPI (MoM) (Aug) |  |  | 0.0% |
+| 53 min | EUR | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  |  | 77.8% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q1) |  | 6.9% | 7.8% |
 | 13:00 | BRL | Unemployment Rate (Jul) |  | 6.8% | 6.9% |
-| 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
 | 13:30 | CAD | GDP (MoM) (Jun) |  | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q2) |  |  | 0.4% |

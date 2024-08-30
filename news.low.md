@@ -29,33 +29,33 @@
 | 07:00 | ZAR | Private Sector Credit (Jul) | 3.50% |  | 4.27% |
 | 07:45 | EUR | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
-| 07:45 | EUR | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
 | 07:45 | EUR | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
+| 07:45 | EUR | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
 | 08:00 | CHF | Official Reserves Assets (Jul) | 787.6B |  | 794.3B |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 1.0% |  | 0.3% |
-| 49 min | EUR | German Unemployment (Aug) |  |  | 2.802M |
-| 49 min | EUR | German Unemployment n.s.a. (Aug) |  |  | 2.809M |
-| 54 min | EUR | Italian Monthly Unemployment Rate (Jul) |  | 7.0% | 7.0% |
-| 54 min | EUR | Spanish Current account (Jun) |  |  | 5.56B |
-| 54 min | NOK | Central Bank Currency Purchase (Sep) |  |  | 400.0M |
-| 54 min | NOK | Unemployment Change (Aug) |  |  | 76.57K |
-| 54 min | NOK | Unemployment Rate n.s.a. (Aug) |  |  | 2.10% |
-| 09:30 | GBP | BoE Consumer Credit (Jul) |  | 1.300B | 1.162B |
-| 09:30 | GBP | M3 Money Supply (Jul) |  |  | 3,056.2B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Jul) |  | 0.5% | 0.5% |
-| 09:30 | GBP | Mortgage Approvals (Jul) |  | 61.00K | 59.98K |
-| 09:30 | GBP | Mortgage Lending (Jul) |  | 2.45B | 2.65B |
-| 09:30 | GBP | Net Lending to Individuals (Jul) |  | 3.400B | 3.816B |
-| 09:30 | HKD | M3 Money Supply (Jul) |  |  | 1.5% |
-| 09:30 | HKD | Retail Sales (YoY) (Jul) |  |  | -9.7% |
-| 10:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.3% | 0.4% |
-| 10:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.2% | 1.3% |
-| 10:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.0% | -0.9% |
-| 10:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
-| 10:00 | EUR | Core CPI (MoM) (Aug) |  |  | -0.2% |
-| 10:00 | EUR | CPI, n.s.a (Aug) |  |  | 126.54 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  |  | 2.8% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) |  |  | -0.1% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 1.0% | 0.3% | 0.4% |
+| 08:55 | EUR | German Unemployment (Aug) | 2.801M |  | 2.802M |
+| 08:55 | EUR | German Unemployment n.s.a. (Aug) | 2.872M |  | 2.809M |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Jul) | 6.5% | 7.0% | 6.9% |
+| 09:00 | EUR | Spanish Current account (Jun) | 5.02B |  | 5.56B |
+| 09:00 | NOK | Central Bank Currency Purchase (Sep) | 400.0M |  | 400.0M |
+| 09:00 | NOK | Unemployment Change (Aug) | 75.85K |  | 76.57K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Aug) | 2.00% |  | 2.10% |
+| 23 min | GBP | BoE Consumer Credit (Jul) |  | 1.300B | 1.162B |
+| 23 min | GBP | M3 Money Supply (Jul) |  |  | 3,056.2B |
+| 23 min | GBP | M4 Money Supply (MoM) (Jul) |  | 0.5% | 0.5% |
+| 23 min | GBP | Mortgage Approvals (Jul) |  | 61.00K | 59.98K |
+| 23 min | GBP | Mortgage Lending (Jul) |  | 2.45B | 2.65B |
+| 23 min | GBP | Net Lending to Individuals (Jul) |  | 3.400B | 3.816B |
+| 23 min | HKD | M3 Money Supply (Jul) |  |  | 1.5% |
+| 23 min | HKD | Retail Sales (YoY) (Jul) |  |  | -9.7% |
+| 53 min | EUR | Italian CPI (YoY) (Aug) |  | 1.2% | 1.3% |
+| 53 min | EUR | Italian CPI (MoM) (Aug) |  | 0.3% | 0.4% |
+| 53 min | EUR | Italian HICP (MoM) (Aug) |  | 0.0% | -0.9% |
+| 53 min | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
+| 53 min | EUR | Core CPI (MoM) (Aug) |  |  | -0.2% |
+| 53 min | EUR | CPI, n.s.a (Aug) |  |  | 126.54 |
+| 53 min | EUR | HICP ex Energy & Food (YoY) (Aug) |  |  | 2.8% |
+| 53 min | EUR | HICP ex Energy and Food (MoM) (Aug) |  |  | -0.1% |
 | 11:00 | EUR | Italian Business Confidence (Aug) |  | 87.5 | 87.6 |
 | 11:00 | EUR | Italian Consumer Confidence (Aug) |  | 99.2 | 98.9 |
 | 11:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
@@ -72,8 +72,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
 | 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
+| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 17:20 | ZAR | Budget Balance (MoM) (Jul) |  |  | 38.55B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
