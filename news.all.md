@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
@@ -35,8 +35,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
@@ -98,11 +98,12 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) | 0.4% |  | 0.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q2) | 1.10% |  | -0.30% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q2) | 0.5% |  | 0.4% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q2) | 0.91% |  | 0.56% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q2) | 0.5% |  | 0.4% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q2) | 2.1% | 1.6% | 1.8% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jul) | 0.0% |  | 0.0% |
+| 14:00 | USD | Low | Dallas Fed PCE (Jul) | 1.70% |  | 1.80% |
 | 14:45 | USD | High | Chicago PMI (Aug) | 46.1 | 45.0 | 45.3 |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Aug) | 2.8% | 2.9% | 2.9% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) | 3.0% | 3.0% | 3.0% |
@@ -111,11 +112,10 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 61.3 | 60.9 | 62.7 |
 | 15:00 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 2.0% | 2.0% |
-| 16:00 | CAD | Low | Budget Balance (Jun) | 0.94B |  | 1.10B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Jun) | -2.88B |  | -3.89B |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
-| 54 min | USD | Low | Dallas Fed PCE (Jul) |  |  | 1.70% |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 16:00 | CAD | Low | Budget Balance (Jun) | 0.94B |  | 1.10B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 483 |  | 483 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 583 |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 67.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 20.3K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
+| 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
@@ -70,10 +70,10 @@
 | 13:30 | USD | Personal Income (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.4% |  | 0.3% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) | 1.10% |  | -0.30% |
+| 14:00 | USD | Dallas Fed PCE (Jul) | 1.70% |  | 1.80% |
 | 15:00 | USD | Michigan Current Conditions (Aug) | 61.3 | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (Jun) | 0.94B |  | 1.10B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) | -2.88B |  | -3.89B |
-| 54 min | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
+| 16:00 | CAD | Budget Balance (Jun) | 0.94B |  | 1.10B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -165.3K |
