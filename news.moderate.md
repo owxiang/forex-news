@@ -5,8 +5,8 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.4% | 2.2% | 2.2% |
 | 00:50 | JPY | Industrial Production (MoM) (Jul) | 2.8% | 3.6% | -4.2% |
 | 02:30 | AUD | Retail Sales (MoM) (Jul) | 0.0% | 0.3% | 0.5% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 07:45 | EUR | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
@@ -24,8 +24,8 @@
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) | 78.5% |  | 77.8% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q1) | 6.7% | 6.9% | 7.8% |
 | 13:00 | BRL | Unemployment Rate (Jul) | 6.8% | 6.8% | 6.9% |
-| 13:30 | USD | PCE Price index (YoY) (Jul) | 2.5% | 2.6% | 2.5% |
 | 13:30 | USD | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | PCE Price index (YoY) (Jul) | 2.5% | 2.6% | 2.5% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.3% |
 | 13:30 | CAD | GDP (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
 | 13:30 | CAD | GDP (QoQ) (Q2) | 0.5% |  | 0.4% |

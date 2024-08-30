@@ -26,15 +26,15 @@
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jul) | 62.8% |  | -19.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Jul) | -0.2% | -1.1% | -6.7% |
 | 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.0% | 0.0% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jul) | -0.4% | 0.1% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jul) | 0.9% | 1.5% | 0.7% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) | 5.88% |  | 4.19% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jul) | 3.50% |  | 4.27% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
@@ -64,12 +64,12 @@
 | 09:30 | HKD | Low | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Low | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
@@ -90,10 +90,10 @@
 | 13:00 | INR | Moderate | GDP Quarterly (YoY) (Q1) | 6.7% | 6.9% | 7.8% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jul) | 6.8% | 6.8% | 6.9% |
 | 13:00 | ZAR | Low | Trade Balance (Jul) | 17.61B |  | 24.19B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) | 2.6% | 2.7% | 2.6% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 2.5% | 2.6% | 2.5% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 2.5% | 2.6% | 2.5% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) | 0.4% |  | 0.3% |

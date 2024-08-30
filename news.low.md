@@ -49,10 +49,10 @@
 | 09:30 | HKD | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
-| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
+| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.8% |  | 2.8% |
