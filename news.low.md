@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
+| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
@@ -49,8 +49,8 @@
 | 09:30 | HKD | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
+| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
@@ -73,7 +73,7 @@
 | 15:00 | USD | Michigan Current Conditions (Aug) | 61.3 | 60.9 | 62.7 |
 | 16:00 | CAD | Budget Balance (Jun) | 0.94B |  | 1.10B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) | -2.88B |  | -3.89B |
-| 18:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
+| 54 min | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -165.3K |
