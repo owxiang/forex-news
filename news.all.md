@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
@@ -26,17 +26,17 @@
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jul) | 62.8% |  | -19.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Jul) | -0.2% | -1.1% | -6.7% |
 | 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.0% | 0.0% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jul) | -0.4% | 0.1% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jul) | 0.9% | 1.5% | 0.7% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) | 5.88% |  | 4.19% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jul) | 3.50% |  | 4.27% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
-| 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
@@ -66,20 +66,20 @@
 | 09:35 | ZAR | Low | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
-| 10:00 | EUR | High | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
+| 10:00 | EUR | High | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 2.8% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.5% |
-| 11:00 | EUR | Low | Italian Business Confidence (Aug) |  | 87.5 | 87.6 |
-| 11:00 | EUR | Low | Italian Consumer Confidence (Aug) |  | 99.2 | 98.9 |
-| 11:00 | INR | Low | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
+| 11:00 | EUR | Low | Italian Business Confidence (Aug) | 87.1 | 87.5 | 87.6 |
+| 11:00 | EUR | Low | Italian Consumer Confidence (Aug) | 96.1 | 99.2 | 98.9 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 24 min | INR | Low | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 674.66B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jul) |  |  | 62.2% |
@@ -91,8 +91,8 @@
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jul) |  | 6.8% | 6.9% |
 | 13:00 | ZAR | Low | Trade Balance (Jul) |  |  | 24.23B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 2.7% | 2.6% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
@@ -113,8 +113,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
 | 15:00 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.0% | 2.0% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 16:00 | CAD | Low | Budget Balance (Jun) |  |  | 1.10B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 67.5K |
