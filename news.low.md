@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
+| 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
@@ -29,8 +29,8 @@
 | 07:00 | ZAR | Private Sector Credit (Jul) | 3.50% |  | 4.27% |
 | 07:45 | EUR | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
-| 07:45 | EUR | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
 | 07:45 | EUR | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
+| 07:45 | EUR | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
 | 08:00 | CHF | Official Reserves Assets (Jul) | 787.6B |  | 794.3B |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 1.0% | 0.3% | 0.4% |
 | 08:55 | EUR | German Unemployment (Aug) | 2.801M |  | 2.802M |
@@ -49,10 +49,10 @@
 | 09:30 | HKD | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
-| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
+| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.8% |  | 2.8% |
@@ -72,17 +72,17 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) | 1.10% |  | -0.30% |
 | 14:00 | USD | Dallas Fed PCE (Jul) | 1.70% |  | 1.80% |
 | 15:00 | USD | Michigan Current Conditions (Aug) | 61.3 | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (Jun) | 0.94B |  | 1.10B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) | -2.88B |  | -3.89B |
-| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
-| 25 min | USD | CFTC Copper speculative net positions |  |  | 20.3K |
-| 25 min | USD | CFTC Corn speculative net positions |  |  | -165.3K |
-| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -81.3K |
-| 25 min | USD | CFTC Silver speculative net positions |  |  | 49.3K |
-| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -178.9K |
-| 25 min | USD | CFTC Wheat speculative net positions |  |  | -25.7K |
-| 25 min | CAD | CFTC CAD speculative net positions |  |  | -164.4K |
-| 25 min | MXN | CFTC MXN speculative net positions |  |  | 34.6K |
-| 25 min | CHF | CFTC CHF speculative net positions |  |  | -25.7K |
-| 25 min | NZD | CFTC NZD speculative net positions |  |  | -13.8K |
-| 22:00 | MXN | Fiscal Balance (Jul) |  |  | -166.74B |
+| 16:00 | CAD | Budget Balance (Jun) | 0.94B |  | 1.10B |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 2.2K |  | 2.3K |
+| 20:30 | USD | CFTC Copper speculative net positions | 17.1K |  | 20.3K |
+| 20:30 | USD | CFTC Corn speculative net positions | -148.5K |  | -165.3K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -92.2K |  | -81.3K |
+| 20:30 | USD | CFTC Silver speculative net positions | 52.2K |  | 49.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -184.3K |  | -178.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -32.7K |  | -25.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -110.0K |  | -164.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 30.7K |  | 34.6K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -24.6K |  | -25.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -8.3K |  | -13.8K |
+| 53 min | MXN | Fiscal Balance (Jul) |  |  | -166.74B |
