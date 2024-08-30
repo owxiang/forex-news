@@ -9,17 +9,17 @@
 | 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 07:45 | EUR | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
+| 07:45 | EUR | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Aug) | 101.6 | 100.6 | 100.6 |
 | 08:05 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:35 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:55 | EUR | German Unemployment Change (Aug) | 2K | 17K | 17K |
 | 08:55 | EUR | German Unemployment Rate (Aug) | 6.0% | 6.0% | 6.0% |
-| 53 min | EUR | Core CPI (YoY) (Aug) |  | 2.8% | 2.9% |
-| 53 min | EUR | CPI (MoM) (Aug) |  |  | 0.0% |
-| 53 min | EUR | Unemployment Rate (Jul) |  | 6.5% | 6.5% |
+| 10:00 | EUR | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
+| 10:00 | EUR | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
+| 10:00 | EUR | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.5% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  |  | 77.8% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q1) |  | 6.9% | 7.8% |

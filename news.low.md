@@ -40,22 +40,23 @@
 | 09:00 | NOK | Central Bank Currency Purchase (Sep) | 400.0M |  | 400.0M |
 | 09:00 | NOK | Unemployment Change (Aug) | 75.85K |  | 76.57K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Aug) | 2.00% |  | 2.10% |
-| 23 min | GBP | BoE Consumer Credit (Jul) |  | 1.300B | 1.162B |
-| 23 min | GBP | M3 Money Supply (Jul) |  |  | 3,056.2B |
-| 23 min | GBP | M4 Money Supply (MoM) (Jul) |  | 0.5% | 0.5% |
-| 23 min | GBP | Mortgage Approvals (Jul) |  | 61.00K | 59.98K |
-| 23 min | GBP | Mortgage Lending (Jul) |  | 2.45B | 2.65B |
-| 23 min | GBP | Net Lending to Individuals (Jul) |  | 3.400B | 3.816B |
-| 23 min | HKD | M3 Money Supply (Jul) |  |  | 1.5% |
-| 23 min | HKD | Retail Sales (YoY) (Jul) |  |  | -9.7% |
-| 53 min | EUR | Italian CPI (YoY) (Aug) |  | 1.2% | 1.3% |
-| 53 min | EUR | Italian CPI (MoM) (Aug) |  | 0.3% | 0.4% |
-| 53 min | EUR | Italian HICP (MoM) (Aug) |  | 0.0% | -0.9% |
-| 53 min | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
-| 53 min | EUR | Core CPI (MoM) (Aug) |  |  | -0.2% |
-| 53 min | EUR | CPI, n.s.a (Aug) |  |  | 126.54 |
-| 53 min | EUR | HICP ex Energy & Food (YoY) (Aug) |  |  | 2.8% |
-| 53 min | EUR | HICP ex Energy and Food (MoM) (Aug) |  |  | -0.1% |
+| 09:30 | GBP | BoE Consumer Credit (Jul) | 1.215B | 1.300B | 0.869B |
+| 09:30 | GBP | M3 Money Supply (Jul) | 3,067.2B |  | 3,057.1B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Jul) | 0.3% | 0.5% | 0.5% |
+| 09:30 | GBP | Mortgage Approvals (Jul) | 61.99K | 61.00K | 60.61K |
+| 09:30 | GBP | Mortgage Lending (Jul) | 2.79B | 2.45B | 2.63B |
+| 09:30 | GBP | Net Lending to Individuals (Jul) | 4.001B | 3.400B | 3.494B |
+| 09:30 | HKD | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
+| 09:30 | HKD | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
+| 09:35 | ZAR | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
+| 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
+| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
+| 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
+| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
+| 10:00 | EUR | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.8% |  | 2.8% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
 | 11:00 | EUR | Italian Business Confidence (Aug) |  | 87.5 | 87.6 |
 | 11:00 | EUR | Italian Consumer Confidence (Aug) |  | 99.2 | 98.9 |
 | 11:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
@@ -74,7 +75,6 @@
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
-| 17:20 | ZAR | Budget Balance (MoM) (Jul) |  |  | 38.55B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -165.3K |
