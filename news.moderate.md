@@ -5,14 +5,16 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.4% | 2.2% | 2.2% |
 | 00:50 | JPY | Industrial Production (MoM) (Jul) | 2.8% | 3.6% | -4.2% |
 | 02:30 | AUD | Retail Sales (MoM) (Jul) | 0.0% | 0.3% | 0.5% |
-| 54 min | EUR | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
-| 07:45 | EUR | French Consumer Spending (MoM) (Jul) |  | 0.4% | -0.5% |
-| 07:45 | EUR | French CPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q2) |  | 1.1% | 1.1% |
-| 07:45 | EUR | French GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
-| 07:45 | EUR | French HICP (MoM) (Aug) |  | 0.5% | 0.2% |
-| 08:00 | CHF | KOF Leading Indicators (Aug) |  | 100.6 | 101.0 |
-| 08:05 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
+| 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
+| 38 min | EUR | French Consumer Spending (MoM) (Jul) |  | 0.4% | -0.5% |
+| 38 min | EUR | French CPI (MoM) (Aug) |  | 0.5% | 0.2% |
+| 38 min | EUR | French GDP (YoY) (Q2) |  | 1.1% | 1.1% |
+| 38 min | EUR | French GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
+| 38 min | EUR | French HICP (MoM) (Aug) |  | 0.5% | 0.2% |
+| 53 min | CHF | KOF Leading Indicators (Aug) |  | 100.6 | 101.0 |
+| 58 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:35 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:55 | EUR | German Unemployment Change (Aug) |  | 17K | 18K |
 | 08:55 | EUR | German Unemployment Rate (Aug) |  | 6.0% | 6.0% |
@@ -26,9 +28,9 @@
 | 13:30 | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
 | 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
+| 13:30 | CAD | GDP (YoY) (Q2) |  |  | 0.53% |
 | 13:30 | CAD | GDP (MoM) (Jun) |  | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q2) |  |  | 0.4% |
-| 13:30 | CAD | GDP (YoY) (Q2) |  |  | 0.53% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q2) |  | 1.6% | 1.7% |
 | 13:31 | CAD | GDP (MoM) (Jul) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  | 2.9% | 2.9% |
