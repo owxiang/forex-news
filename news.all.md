@@ -26,8 +26,8 @@
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jul) | 62.8% |  | -19.7% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Jul) | -0.2% | -1.1% | -6.7% |
 | 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.0% | 0.0% | 0.0% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jul) | -0.4% | 0.1% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jul) | 0.9% | 1.5% | 0.7% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) | 5.88% |  | 4.19% |
@@ -98,9 +98,9 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) | 0.4% |  | 0.3% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q2) | 1.10% |  | -0.30% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q2) | 0.5% |  | 0.4% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q2) | 0.91% |  | 0.56% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q2) | 2.1% | 1.6% | 1.8% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jul) | 0.0% |  | 0.0% |
 | 14:00 | USD | Low | Dallas Fed PCE (Jul) | 1.70% |  | 1.80% |
