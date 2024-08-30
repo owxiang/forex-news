@@ -20,14 +20,14 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.5% | 0.5% | 0.6% |
 | 03:00 | SGD | Bank Lending (Jul) | 801.2B |  | 803.6B |
 | 04:00 | NZD | M3 Money Supply (Jul) | 416.1B |  | 412.9B |
-| 53 min | JPY | Construction Orders (YoY) (Jul) |  |  | -19.7% |
-| 53 min | JPY | Housing Starts (YoY) (Jul) |  | -1.1% | -6.7% |
-| 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | 0.0% |
-| 07:00 | EUR | German Import Price Index (MoM) (Jul) |  | 0.1% | 0.4% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jul) |  |  | 0.7% |
-| 07:00 | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Jul) |  |  | 4.19% |
-| 07:00 | ZAR | Private Sector Credit (Jul) |  |  | 4.27% |
+| 06:00 | JPY | Construction Orders (YoY) (Jul) | 62.8% |  | -19.7% |
+| 06:00 | JPY | Housing Starts (YoY) (Jul) | -0.2% | -1.1% | -6.7% |
+| 24 min | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | 0.0% |
+| 54 min | EUR | German Import Price Index (MoM) (Jul) |  | 0.1% | 0.4% |
+| 54 min | EUR | German Import Price Index (YoY) (Jul) |  |  | 0.7% |
+| 54 min | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 54 min | ZAR | M3 Money Supply (YoY) (Jul) |  |  | 4.19% |
+| 54 min | ZAR | Private Sector Credit (Jul) |  |  | 4.27% |
 | 07:45 | EUR | French CPI (YoY) (Aug) |  | 1.8% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Aug) |  | 2.1% | 2.7% |
 | 07:45 | EUR | PPI (YoY) (Jul) |  |  | -6.00% |
@@ -76,7 +76,6 @@
 | 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
 | 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 17:20 | ZAR | Budget Balance (MoM) (Jul) |  |  | 38.55B |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Jul) |  | 190.00K | 201.71K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -165.3K |

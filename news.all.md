@@ -20,18 +20,18 @@
 | 00:50 | JPY | Low | Retail Sales (YoY) (Jul) | 2.6% | 2.8% | 3.8% |
 | 02:30 | AUD | Low | Housing Credit (Jul) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (Jul) | 0.5% | 0.5% | 0.6% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (Jul) | 0.0% | 0.5% | 0.1% |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) (Jul) | 0.0% | 0.3% | 0.5% |
 | 03:00 | SGD | Low | Bank Lending (Jul) | 801.2B |  | 803.6B |
 | 04:00 | NZD | Low | M3 Money Supply (Jul) | 416.1B |  | 412.9B |
-| 53 min | JPY | Low | Construction Orders (YoY) (Jul) |  |  | -19.7% |
-| 53 min | JPY | Low | Housing Starts (YoY) (Jul) |  | -1.1% | -6.7% |
-| 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | 0.0% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.1% | 0.4% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Jul) |  |  | 0.7% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
-| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) |  |  | 4.19% |
-| 07:00 | ZAR | Low | Private Sector Credit (Jul) |  |  | 4.27% |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Jul) | 62.8% |  | -19.7% |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Jul) | -0.2% | -1.1% | -6.7% |
+| 24 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | 0.0% |
+| 54 min | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.1% | 0.4% |
+| 54 min | EUR | Low | German Import Price Index (YoY) (Jul) |  |  | 0.7% |
+| 54 min | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
+| 54 min | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 54 min | ZAR | Low | M3 Money Supply (YoY) (Jul) |  |  | 4.19% |
+| 54 min | ZAR | Low | Private Sector Credit (Jul) |  |  | 4.27% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) |  | 0.4% | -0.5% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) |  | 1.8% | 2.3% |
@@ -90,8 +90,8 @@
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jul) |  | 6.8% | 6.9% |
 | 13:00 | ZAR | Low | Trade Balance (Jul) |  |  | 24.23B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 2.7% | 2.6% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
@@ -117,7 +117,6 @@
 | 17:20 | ZAR | Low | Budget Balance (MoM) (Jul) |  |  | 38.55B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Jul) |  | 190.00K | 201.71K |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 67.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 20.3K |

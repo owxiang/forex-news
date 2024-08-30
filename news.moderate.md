@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.4% | 2.2% | 2.2% |
 | 00:50 | JPY | Industrial Production (MoM) (Jul) | 2.8% | 3.6% | -4.2% |
-| 02:30 | AUD | Retail Sales (MoM) (Jul) | 0.0% | 0.5% | 0.1% |
-| 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
+| 02:30 | AUD | Retail Sales (MoM) (Jul) | 0.0% | 0.3% | 0.5% |
+| 54 min | EUR | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jul) |  | 0.4% | -0.5% |
 | 07:45 | EUR | French CPI (MoM) (Aug) |  | 0.5% | 0.2% |
 | 07:45 | EUR | French GDP (YoY) (Q2) |  | 1.1% | 1.1% |
