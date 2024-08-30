@@ -5,8 +5,8 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.4% | 2.2% | 2.2% |
 | 00:50 | JPY | Industrial Production (MoM) (Jul) | 2.8% | 3.6% | -4.2% |
 | 02:30 | AUD | Retail Sales (MoM) (Jul) | 0.0% | 0.3% | 0.5% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 07:45 | EUR | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
@@ -24,19 +24,19 @@
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) | 78.5% |  | 77.8% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q1) | 6.7% | 6.9% | 7.8% |
 | 13:00 | BRL | Unemployment Rate (Jul) | 6.8% | 6.8% | 6.9% |
-| 21 min | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
-| 21 min | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
-| 21 min | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
-| 21 min | CAD | GDP (YoY) (Q2) |  |  | 0.53% |
-| 21 min | CAD | GDP (MoM) (Jun) |  | 0.1% | 0.2% |
-| 21 min | CAD | GDP (QoQ) (Q2) |  |  | 0.4% |
-| 21 min | CAD | GDP Annualized (QoQ) (Q2) |  | 1.6% | 1.7% |
-| 22 min | CAD | GDP (MoM) (Jul) |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Aug) |  | 2.9% | 2.9% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 3.0% | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Aug) |  | 72.1 | 68.8 |
-| 15:00 | USD | Michigan Consumer Sentiment (Aug) |  | 67.8 | 66.4 |
-| 15:00 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 13:30 | USD | PCE Price index (YoY) (Jul) | 2.5% | 2.6% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.3% |
+| 13:30 | CAD | GDP (MoM) (Jun) | 0.0% | 0.1% | 0.1% |
+| 13:30 | CAD | GDP (QoQ) (Q2) | 0.5% |  | 0.4% |
+| 13:30 | CAD | GDP (YoY) (Q2) | 0.91% |  | 0.56% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q2) | 2.1% | 1.6% | 1.8% |
+| 13:31 | CAD | GDP (MoM) (Jul) | 0.0% |  |  |
+| 52 min | USD | Michigan 1-Year Inflation Expectations (Aug) |  | 2.9% | 2.9% |
+| 52 min | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 3.0% | 3.0% |
+| 52 min | USD | Michigan Consumer Expectations (Aug) |  | 72.1 | 68.8 |
+| 52 min | USD | Michigan Consumer Sentiment (Aug) |  | 67.8 | 66.4 |
+| 52 min | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.0% | 2.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |

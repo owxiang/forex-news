@@ -49,16 +49,17 @@
 | 09:30 | HKD | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
-| 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
+| 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.8% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
 | 11:00 | EUR | Italian Business Confidence (Aug) | 87.1 | 87.5 | 87.6 |
 | 11:00 | EUR | Italian Consumer Confidence (Aug) | 96.1 | 99.2 | 98.9 |
+| 11:00 | INR | Federal Fiscal Deficit (Jul) | 2,769.45B |  | 1,357.12B |
 | 12:30 | INR | FX Reserves, USD | 681.69B |  | 674.66B |
 | 12:30 | INR | Infrastructure Output (YoY) (Jul) | 6.1% |  | 5.1% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
@@ -66,14 +67,13 @@
 | 12:30 | BRL | Budget Balance (Jul) | -101.472B | -78.600B | -135.724B |
 | 12:30 | BRL | Budget Surplus (Jul) | -21.348B |  | -40.873B |
 | 13:00 | ZAR | Trade Balance (Jul) | 17.61B |  | 24.19B |
-| 21 min | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
-| 21 min | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.2% |
-| 21 min | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
-| 21 min | INR | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
-| 51 min | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
-| 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
+| 13:30 | USD | Personal Income (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.4% |  | 0.3% |
+| 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) | 1.10% |  | -0.30% |
+| 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
+| 52 min | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
+| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -165.3K |
