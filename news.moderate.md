@@ -5,12 +5,12 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.4% | 2.2% | 2.2% |
 | 00:50 | JPY | Industrial Production (MoM) (Jul) | 2.8% | 3.6% | -4.2% |
 | 02:30 | AUD | Retail Sales (MoM) (Jul) | 0.0% | 0.3% | 0.5% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Aug) | -0.2% | 0.2% | 0.3% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Aug) | 2.4% | 2.9% | 2.1% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 07:45 | EUR | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
+| 07:45 | EUR | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Aug) | 101.6 | 100.6 | 100.6 |
 | 08:05 | EUR | ECB's Schnabel Speaks |  |  |  |
@@ -21,9 +21,9 @@
 | 10:00 | EUR | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
 | 10:00 | EUR | Unemployment Rate (Jul) | 6.4% | 6.5% | 6.5% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  |  | 77.8% |
-| 13:00 | INR | GDP Quarterly (YoY) (Q1) |  | 6.9% | 7.8% |
-| 13:00 | BRL | Unemployment Rate (Jul) |  | 6.8% | 6.9% |
+| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  |  | 77.8% |
+| 54 min | INR | GDP Quarterly (YoY) (Q1) |  | 6.9% | 7.8% |
+| 54 min | BRL | Unemployment Rate (Jul) |  | 6.8% | 6.9% |
 | 13:30 | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
 | 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |

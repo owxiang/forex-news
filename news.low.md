@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Industrial Production (YoY) (Jul) | 5.5% | 7.0% | 3.8% |
+| 00:00 | KRW | Industrial Production (MoM) (Jul) | -3.6% | -0.4% | 0.7% |
 | 00:00 | KRW | Retail Sales (MoM) (Jul) | -1.9% |  | 1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jul) | 0.7% |  | 0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Aug) | 1.6% |  | 1.1% |
@@ -49,10 +49,10 @@
 | 09:30 | HKD | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
-| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
+| 10:00 | EUR | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.8% |  | 2.8% |
@@ -60,21 +60,21 @@
 | 11:00 | EUR | Italian Business Confidence (Aug) | 87.1 | 87.5 | 87.6 |
 | 11:00 | EUR | Italian Consumer Confidence (Aug) | 96.1 | 99.2 | 98.9 |
 | 24 min | INR | Federal Fiscal Deficit (Jul) |  |  | 1,357.12B |
-| 12:30 | INR | FX Reserves, USD |  |  | 674.66B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 62.2% |
-| 12:30 | BRL | Budget Balance (Jul) |  | -78.600B | -135.724B |
-| 12:30 | BRL | Budget Surplus (Jul) |  |  | -40.873B |
-| 13:00 | INR | Infrastructure Output (YoY) (Jul) |  |  | 4.0% |
-| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:00 | ZAR | Trade Balance (Jul) |  |  | 24.23B |
+| 24 min | INR | FX Reserves, USD |  |  | 674.66B |
+| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 24 min | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 62.2% |
+| 24 min | BRL | Budget Balance (Jul) |  | -78.600B | -135.724B |
+| 24 min | BRL | Budget Surplus (Jul) |  |  | -40.873B |
+| 54 min | INR | Infrastructure Output (YoY) (Jul) |  |  | 4.0% |
+| 54 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 54 min | ZAR | Trade Balance (Jul) |  |  | 24.23B |
 | 13:30 | USD | Personal Income (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jul) |  |  | 0.2% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
 | 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
+| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -165.3K |
