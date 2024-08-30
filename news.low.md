@@ -19,9 +19,9 @@
 | 02:30 | AUD | Housing Credit (Jul) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.5% | 0.5% | 0.6% |
 | 03:00 | SGD | Bank Lending (Jul) | 801.2B |  | 803.6B |
-| 04:00 | NZD | M3 Money Supply (Jul) | 416,089.0B |  | 412,948.0B |
-| 06:00 | JPY | Construction Orders (YoY) (Jul) |  |  | -19.7% |
-| 06:00 | JPY | Housing Starts (YoY) (Jul) |  | -1.1% | -6.7% |
+| 04:00 | NZD | M3 Money Supply (Jul) | 416.1B |  | 412.9B |
+| 53 min | JPY | Construction Orders (YoY) (Jul) |  |  | -19.7% |
+| 53 min | JPY | Housing Starts (YoY) (Jul) |  | -1.1% | -6.7% |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  | 0.0% | 0.0% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jul) |  | 0.1% | 0.4% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jul) |  |  | 0.7% |
@@ -73,8 +73,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q2) |  |  | -0.30% |
 | 14:00 | USD | Dallas Fed PCE (Jul) |  |  | 1.70% |
 | 15:00 | USD | Michigan Current Conditions (Aug) |  | 60.9 | 62.7 |
-| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 16:00 | CAD | Budget Balance (YoY) (Jun) |  |  | -3.89B |
+| 16:00 | CAD | Budget Balance (Jun) |  |  | 1.10B |
 | 17:20 | ZAR | Budget Balance (MoM) (Jul) |  |  | 38.55B |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jul) |  | 190.00K | 201.71K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |

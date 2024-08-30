@@ -23,8 +23,8 @@
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  |  | 77.8% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q1) |  | 6.9% | 7.8% |
 | 13:00 | BRL | Unemployment Rate (Jul) |  | 6.8% | 6.9% |
-| 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | PCE Price index (YoY) (Jul) |  | 2.6% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (Jul) |  | 0.5% | 0.3% |
 | 13:30 | CAD | GDP (MoM) (Jun) |  | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q2) |  |  | 0.4% |
