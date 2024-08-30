@@ -35,12 +35,12 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.4% | -0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.9% | 1.8% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q2) | 1.0% | 1.1% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.1% | 2.7% |
 | 07:45 | EUR | Low | PPI (YoY) (Jul) | -5.40% |  | -5.90% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jul) | 0.2% |  | -0.2% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Aug) | 101.6 | 100.6 | 100.6 |
 | 08:00 | CHF | Low | Official Reserves Assets (Jul) | 787.6B |  | 794.3B |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) | 1.0% | 0.3% | 0.4% |
@@ -64,14 +64,14 @@
 | 09:30 | HKD | Low | M3 Money Supply (Jul) | 2.0% |  | 1.5% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jul) | -11.8% |  | -9.7% |
 | 09:35 | ZAR | Low | Budget Balance (MoM) (Jul) | -79.95B |  | 38.55B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.3% | 1.3% | 1.6% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.1% | 0.0% | -0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% |  | -0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
-| 10:00 | EUR | High | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.2% |  | 0.0% |
+| 10:00 | EUR | High | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) | 126.74 |  | 126.54 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 2.8% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% |  | -0.1% |
@@ -92,8 +92,8 @@
 | 13:00 | ZAR | Low | Trade Balance (Jul) | 17.61B |  | 24.19B |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jul) | 2.6% | 2.7% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 2.5% | 2.6% | 2.5% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 2.5% | 2.6% | 2.5% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jul) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jul) | 0.4% |  | 0.3% |
@@ -112,28 +112,28 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Aug) | 61.3 | 60.9 | 62.7 |
 | 15:00 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 2.0% | 2.0% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) | -2.88B |  | -3.89B |
 | 16:00 | CAD | Low | Budget Balance (Jun) | 0.94B |  | 1.10B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jun) | -2.88B |  | -3.89B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 483 |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 583 |  | 585 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 67.5K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 20.3K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -165.3K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 222.3K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 291.3K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 11.4K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -81.3K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -84.8K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 49.3K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -178.9K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -25.7K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -164.4K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 34.6K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -25.7K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -38.9K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -51.0K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 23.6K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -13.8K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 56.0K |
+| 25 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 67.5K |
+| 25 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
+| 25 min | USD | Low | CFTC Copper speculative net positions |  |  | 20.3K |
+| 25 min | USD | Low | CFTC Corn speculative net positions |  |  | -165.3K |
+| 25 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 222.3K |
+| 25 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 291.3K |
+| 25 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 11.4K |
+| 25 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -81.3K |
+| 25 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -84.8K |
+| 25 min | USD | Low | CFTC Silver speculative net positions |  |  | 49.3K |
+| 25 min | USD | Low | CFTC Soybeans speculative net positions |  |  | -178.9K |
+| 25 min | USD | Low | CFTC Wheat speculative net positions |  |  | -25.7K |
+| 25 min | CAD | Low | CFTC CAD speculative net positions |  |  | -164.4K |
+| 25 min | MXN | Low | CFTC MXN speculative net positions |  |  | 34.6K |
+| 25 min | CHF | Low | CFTC CHF speculative net positions |  |  | -25.7K |
+| 25 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -38.9K |
+| 25 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | -51.0K |
+| 25 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 23.6K |
+| 25 min | NZD | Low | CFTC NZD speculative net positions |  |  | -13.8K |
+| 25 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 56.0K |
 | 22:00 | MXN | Low | Fiscal Balance (Jul) |  |  | -166.74B |
