@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Aug) |  | 49.5 | 49.4 |
+| 02:30 | CNY | Manufacturing PMI (Aug) | 49.1 | 49.5 | 49.4 |
