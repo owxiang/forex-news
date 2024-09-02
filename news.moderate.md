@@ -13,4 +13,4 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Aug) | 42.4 | 42.1 | 42.1 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 45.8 | 45.6 | 45.6 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.5 | 52.5 |
-| 50 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
