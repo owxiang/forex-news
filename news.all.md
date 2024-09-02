@@ -35,16 +35,16 @@
 | 10:00 | EUR | Low | Italian PPI (YoY) (Jul) | -1.1% |  | -2.5% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Jul) | 1.3% |  | 0.7% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Aug) | 43.6 |  | 52.4 |
+| 11:00 | EUR | Low | Car Registration (YoY) (Aug) | -6.50% |  | 3.40% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Aug) | -37.70% |  | -18.70% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -18.70% |
-| 13:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 3.40% |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 44.23K |
-| 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.999% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.372% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.285% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) |  |  | 54.0 |
-| 14:00 | SGD | Low | S&P Global Singapore PMI (Aug) |  |  | 50.7 |
+| 20 min | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 44.23K |
+| 50 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.999% |
+| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.372% |
+| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.285% |
+| 50 min | BRL | Low | S&P Global Manufacturing PMI (Aug) |  |  | 54.0 |
+| 50 min | SGD | Low | S&P Global Singapore PMI (Aug) |  |  | 50.7 |
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Aug) |  |  | 49.60 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q2) |  | 2.8% | -0.3% |

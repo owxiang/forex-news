@@ -24,15 +24,15 @@
 | 10:00 | EUR | Italian PPI (YoY) (Jul) | -1.1% |  | -2.5% |
 | 10:00 | EUR | Italian PPI (MoM) (Jul) | 1.3% |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) | 43.6 |  | 52.4 |
+| 11:00 | EUR | Car Registration (YoY) (Aug) | -6.50% |  | 3.40% |
+| 11:00 | EUR | Car Registration (MoM) (Aug) | -37.70% |  | -18.70% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Car Registration (MoM) (Aug) |  |  | -18.70% |
-| 13:00 | EUR | Car Registration (YoY) (Aug) |  |  | 3.40% |
-| 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 44.23K |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.999% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.372% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.285% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Aug) |  |  | 54.0 |
-| 14:00 | SGD | S&P Global Singapore PMI (Aug) |  |  | 50.7 |
+| 20 min | ZAR | Total Vehicle Sales (Aug) |  |  | 44.23K |
+| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.999% |
+| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.372% |
+| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.285% |
+| 50 min | BRL | S&P Global Manufacturing PMI (Aug) |  |  | 54.0 |
+| 50 min | SGD | S&P Global Singapore PMI (Aug) |  |  | 50.7 |
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Aug) |  |  | 49.60 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q2) |  | 2.8% | -0.3% |
