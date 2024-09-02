@@ -27,16 +27,16 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Aug) | 49.4 | 48.0 | 47.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 43.9 | 42.1 | 42.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 42.4 | 42.1 | 42.1 |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.9% | 0.9% | 0.7% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Aug) | 52.1 | 55.5 | 59.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 45.8 | 45.6 | 45.6 |
-| 22 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) |  | 52.5 | 52.5 |
-| 52 min | EUR | Low | Italian PPI (YoY) (Jul) |  |  | -2.5% |
-| 52 min | EUR | Low | Italian PPI (MoM) (Jul) |  |  | 0.7% |
-| 52 min | ZAR | Low | Manufacturing PMI (Aug) |  |  | 52.4 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 3.40% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -18.70% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.5 | 52.5 |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Jul) | -1.1% |  | -2.5% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Jul) | 1.3% |  | 0.7% |
+| 10:00 | ZAR | Low | Manufacturing PMI (Aug) | 43.6 |  | 52.4 |
+| 54 min | EUR | Low | Car Registration (MoM) (Aug) |  |  | -18.70% |
+| 54 min | EUR | Low | Car Registration (YoY) (Aug) |  |  | 3.40% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 44.23K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.999% |

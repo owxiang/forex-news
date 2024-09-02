@@ -12,4 +12,4 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Aug) | 43.9 | 42.1 | 42.1 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Aug) | 42.4 | 42.1 | 42.1 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 45.8 | 45.6 | 45.6 |
-| 22 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Aug) |  | 52.5 | 52.5 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Aug) | 52.5 | 52.5 | 52.5 |
