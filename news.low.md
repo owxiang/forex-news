@@ -35,7 +35,7 @@
 | 14:00 | BRL | S&P Global Manufacturing PMI (Aug) | 50.4 |  | 54.0 |
 | 14:00 | SGD | S&P Global Singapore PMI (Aug) | 50.9 |  | 50.7 |
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Aug) | 48.50 |  | 49.60 |
-| 23:45 | NZD | Terms of Trade - Exports Prices (Q2) |  | 2.8% | -0.3% |
-| 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 6.3% |
-| 23:45 | NZD | Terms of Trade - Imports Prices (Q2) |  | 0.5% | -5.1% |
-| 23:45 | NZD | Terms of Trade Index (QoQ) (Q2) |  | 2.6% | 5.1% |
+| 39 min | NZD | Terms of Trade - Exports Prices (Q2) |  | 2.8% | -0.3% |
+| 39 min | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 6.3% |
+| 39 min | NZD | Terms of Trade - Imports Prices (Q2) |  | 0.5% | -5.1% |
+| 39 min | NZD | Terms of Trade Index (QoQ) (Q2) |  | 2.6% | 5.1% |
