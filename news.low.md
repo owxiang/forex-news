@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Aug) | 48.5 | 48.7 | 47.5 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Aug) |  |  | 51.4 |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.5 |
-| 01:30 | IDR | Nikkei Manufacturing PMI (Aug) |  |  | 49.3 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.4% |
+| 6 min | KRW | S&P Global South Korea Manufacturing PMI (Aug) |  |  | 51.4 |
+| 6 min | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.5 |
+| 6 min | IDR | Nikkei Manufacturing PMI (Aug) |  |  | 49.3 |
+| 36 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.4% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Aug) |  |  | -3.0% |
 | 02:30 | AUD | Building Approvals (YoY) (Jul) |  | 9.80% | 9.80% |
 | 02:30 | AUD | Business inventories (MoM) (Q2) |  | -0.5% | 1.3% |
@@ -19,14 +19,14 @@
 | 07:00 | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:30 | CHF | Retail Sales (YoY) (Jul) |  | -0.2% | -2.2% |
 | 07:30 | AUD | Commodity Prices (YoY) (Aug) |  |  | -3.0% |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 09:00 | NOK | Manufacturing PMI (Aug) |  | 55.5 | 56.9 |
 | 10:00 | EUR | Italian PPI (YoY) (Jul) |  |  | -2.5% |
 | 10:00 | EUR | Italian PPI (MoM) (Jul) |  |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) |  |  | 52.4 |
-| 11:00 | EUR | Car Registration (MoM) (Aug) |  |  | -18.70% |
 | 11:00 | EUR | Car Registration (YoY) (Aug) |  |  | 3.40% |
+| 11:00 | EUR | Car Registration (MoM) (Aug) |  |  | -18.70% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 44.23K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.999% |

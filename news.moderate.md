@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Capital Spending (YoY) (Q2) |  | 9.6% | 6.8% |
+| 00:50 | JPY | Capital Spending (YoY) (Q2) | 7.4% | 9.6% | 6.8% |
 | 02:30 | AUD | Building Approvals (MoM) (Jul) |  | 2.4% | -6.5% |
 | 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q2) |  | -0.6% | -2.5% |
 | 02:45 | CNY | Caixin Manufacturing PMI (Aug) |  | 50.0 | 49.8 |
