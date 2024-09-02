@@ -17,8 +17,8 @@
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Aug) | 50.4 | 50.0 | 49.8 |
 | 03:30 | AUD | Low | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Aug) | 2.02% | 1.98% | 1.95% |
-| 05:00 | IDR | Low | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
 | 05:00 | IDR | Low | Inflation (YoY) (Aug) | 2.12% | 2.12% | 2.13% |
+| 05:00 | IDR | Low | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) | 57.5 | 57.9 | 57.9 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jul) | 2.7% | -0.2% | -2.6% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Aug) | -5.2% |  | -4.1% |
@@ -38,8 +38,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (Aug) | -6.50% |  | 3.40% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) | -37.70% |  | -18.70% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | -4.90% |  | 1.50% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Aug) | 43.59K |  | 44.33K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | -4.90% |  | 1.50% |
 | 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.997% |  | 2.999% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.462% |  | 3.372% |
