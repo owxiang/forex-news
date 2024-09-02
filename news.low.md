@@ -1,41 +1,30 @@
-## 02 September 2024 - Low Impact Forex News
+## 03 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Aug) | 48.5 | 48.7 | 47.5 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Aug) | 51.9 |  | 51.4 |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.8 | 49.5 | 49.5 |
-| 01:30 | IDR | Nikkei Manufacturing PMI (Aug) | 48.9 |  | 49.3 |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Aug) | -2.1% |  | -2.7% |
-| 02:30 | AUD | Building Approvals (YoY) (Jul) | 24.90% | 9.80% | 11.40% |
-| 02:30 | AUD | Business inventories (MoM) (Q2) | 0.1% | -0.5% | 1.5% |
-| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q2) | -1.7% |  | -8.4% |
-| 02:30 | AUD | Private House Approvals (Jul) | 0.6% |  | -0.5% |
-| 03:30 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
-| 05:00 | IDR | Core Inflation (YoY) (Aug) | 2.02% | 1.98% | 1.95% |
-| 05:00 | IDR | Inflation (YoY) (Aug) | 2.12% | 2.12% | 2.13% |
-| 05:00 | IDR | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 57.5 | 57.9 | 57.9 |
-| 07:30 | CHF | Retail Sales (YoY) (Jul) | 2.7% | -0.2% | -2.6% |
-| 07:30 | AUD | Commodity Prices (YoY) (Aug) | -5.2% |  | -4.1% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.9% | 0.9% | 0.7% |
-| 09:00 | NOK | Manufacturing PMI (Aug) | 52.1 | 55.5 | 59.8 |
-| 10:00 | EUR | Italian PPI (YoY) (Jul) | -1.1% |  | -2.5% |
-| 10:00 | EUR | Italian PPI (MoM) (Jul) | 1.3% |  | 0.7% |
-| 10:00 | ZAR | Manufacturing PMI (Aug) | 43.6 |  | 52.4 |
-| 11:00 | EUR | Car Registration (YoY) (Aug) | -6.50% |  | 3.40% |
-| 11:00 | EUR | Car Registration (MoM) (Aug) | -37.70% |  | -18.70% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Total Vehicle Sales (Aug) | 43.59K |  | 44.33K |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Aug) | -4.90% |  | 1.50% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.997% |  | 2.999% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.462% |  | 3.372% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.308% |  | 3.285% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Aug) | 50.4 |  | 54.0 |
-| 14:00 | SGD | S&P Global Singapore PMI (Aug) | 50.9 |  | 50.7 |
-| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Aug) | 48.50 |  | 49.60 |
-| 39 min | NZD | Terms of Trade - Exports Prices (Q2) |  | 2.8% | -0.3% |
-| 39 min | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 6.3% |
-| 39 min | NZD | Terms of Trade - Imports Prices (Q2) |  | 0.5% | -5.1% |
-| 39 min | NZD | Terms of Trade Index (QoQ) (Q2) |  | 2.6% | 5.1% |
+| 00:00 | KRW | CPI (YoY) (Aug) |  | 2.0% | 2.6% |
+| 00:00 | KRW | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
+| 45 min | JPY | Monetary Base (YoY) (Aug) |  | 0.6% | 1.2% |
+| 02:30 | AUD | Net Exports Contribution (Q2) |  | 0.6% | -0.9% |
+| 07:30 | CHF | CPI (YoY) (Aug) |  | 1.2% | 1.3% |
+| 07:45 | EUR | French Government Budget Balance (Jul) |  |  | -103.5B |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.380% |
+| 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.5% |
+| 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.954% |
+| 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.252% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  |  | 0.70% |
+| 13:00 | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.90% | 2.80% |
+| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.0% |
+| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Aug) |  |  | 47.8 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Aug) |  |  | 47.4 |
+| 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 5.5% |
+| 15:00 | USD | Milk Auctions |  |  | 3,920.0 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Sep) |  | 46.2 | 44.5 |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 4.980% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 4.685% |
+| 17:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
+| 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 413.51B |
