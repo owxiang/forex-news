@@ -27,15 +27,27 @@
 | 11:00 | EUR | Car Registration (YoY) (Aug) | -6.50% |  | 3.40% |
 | 11:00 | EUR | Car Registration (MoM) (Aug) | -37.70% |  | -18.70% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Total Vehicle Sales (Aug) | 43.59K |  | 44.33K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Aug) | -4.90% |  | 1.50% |
+| 13:00 | ZAR | Total Vehicle Sales (Aug) | 43.59K |  | 44.33K |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.997% |  | 2.999% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.462% |  | 3.372% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.308% |  | 3.285% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Aug) | 50.4 |  | 54.0 |
 | 14:00 | SGD | S&P Global Singapore PMI (Aug) | 50.9 |  | 50.7 |
-| 55 min | MXN | S&P Global Mexico Manufacturing PMI (Aug) |  |  | 49.60 |
-| 17:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
+| 15:45 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.91M | 0.91M | 0.91M |
+| 15:45 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
+| 15:45 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
+| 15:45 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 15:45 | USD | OPEC Crude oil Production Iran (Barrel) | 3.18M | 3.18M | 3.18M |
+| 15:45 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.12M | 4.12M | 4.12M |
+| 15:45 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 15:45 | USD | OPEC Crude Oil Production Libya (Barrel) | 0.90M | 0.90M | 0.90M |
+| 15:45 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.54M | 1.54M | 1.54M |
+| 15:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
+| 15:45 | USD | OPEC Crude oil Production UAE (Barrel) | 2.94M | 2.94M | 2.94M |
+| 15:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.82M | 0.82M | 0.82M |
+| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Aug) | 48.50 |  | 49.60 |
+| 54 min | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q2) |  | 2.8% | -0.3% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 6.3% |
 | 23:45 | NZD | Terms of Trade - Imports Prices (Q2) |  | 0.5% | -5.1% |
