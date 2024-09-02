@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Aug) | 48.5 | 48.7 | 47.5 |
 | 00:50 | JPY | Moderate | Capital Spending (YoY) (Q2) | 7.4% | 9.6% | 6.8% |
-| 6 min | KRW | Low | S&P Global South Korea Manufacturing PMI (Aug) |  |  | 51.4 |
-| 6 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.5 |
-| 6 min | IDR | Low | Nikkei Manufacturing PMI (Aug) |  |  | 49.3 |
-| 36 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.4% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) |  |  | -3.0% |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Aug) | 51.9 |  | 51.4 |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.8 | 49.5 | 49.5 |
+| 01:30 | IDR | Low | Nikkei Manufacturing PMI (Aug) | 48.9 |  | 49.3 |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) | -2.1% |  | -2.7% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Jul) |  | 9.80% | 9.80% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | 2.4% | -6.5% |
-| 02:30 | AUD | Low | Business inventories (MoM) (Q2) |  | -0.5% | 1.3% |
-| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) |  | -0.6% | -2.5% |
-| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) |  |  | -8.4% |
-| 02:30 | AUD | Low | Private House Approvals (Jul) |  |  | -0.5% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Aug) |  | 50.0 | 49.8 |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | 10.4% | 2.4% | -6.5% |
+| 02:30 | AUD | Low | Business inventories (MoM) (Q2) | 0.1% | -0.5% | 1.3% |
+| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) | -5.3% | -0.6% | -2.5% |
+| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) | -1.7% |  | -8.4% |
+| 02:30 | AUD | Low | Private House Approvals (Jul) | 0.6% |  | -0.5% |
+| 12 min | CNY | Moderate | Caixin Manufacturing PMI (Aug) |  | 50.0 | 49.8 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Aug) |  | 1.98% | 1.95% |
 | 05:00 | IDR | Low | Inflation (YoY) (Aug) |  | 2.12% | 2.13% |
 | 05:00 | IDR | Low | Inflation (MoM) (Aug) |  | 0.00% | -0.18% |

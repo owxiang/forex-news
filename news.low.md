@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Aug) | 48.5 | 48.7 | 47.5 |
-| 6 min | KRW | S&P Global South Korea Manufacturing PMI (Aug) |  |  | 51.4 |
-| 6 min | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.5 |
-| 6 min | IDR | Nikkei Manufacturing PMI (Aug) |  |  | 49.3 |
-| 36 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.4% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Aug) |  |  | -3.0% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Aug) | 51.9 |  | 51.4 |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.8 | 49.5 | 49.5 |
+| 01:30 | IDR | Nikkei Manufacturing PMI (Aug) | 48.9 |  | 49.3 |
+| 02:00 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (Aug) | -2.1% |  | -2.7% |
 | 02:30 | AUD | Building Approvals (YoY) (Jul) |  | 9.80% | 9.80% |
-| 02:30 | AUD | Business inventories (MoM) (Q2) |  | -0.5% | 1.3% |
-| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q2) |  |  | -8.4% |
-| 02:30 | AUD | Private House Approvals (Jul) |  |  | -0.5% |
+| 02:30 | AUD | Business inventories (MoM) (Q2) | 0.1% | -0.5% | 1.3% |
+| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q2) | -1.7% |  | -8.4% |
+| 02:30 | AUD | Private House Approvals (Jul) | 0.6% |  | -0.5% |
 | 05:00 | IDR | Core Inflation (YoY) (Aug) |  | 1.98% | 1.95% |
 | 05:00 | IDR | Inflation (YoY) (Aug) |  | 2.12% | 2.13% |
 | 05:00 | IDR | Inflation (MoM) (Aug) |  | 0.00% | -0.18% |
