@@ -13,8 +13,8 @@
 | 02:30 | AUD | Private House Approvals (Jul) | 0.6% |  | -0.5% |
 | 03:30 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
 | 05:00 | IDR | Core Inflation (YoY) (Aug) | 2.02% | 1.98% | 1.95% |
-| 05:00 | IDR | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
 | 05:00 | IDR | Inflation (YoY) (Aug) | 2.12% | 2.12% | 2.13% |
+| 05:00 | IDR | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 57.5 | 57.9 | 57.9 |
 | 07:30 | CHF | Retail Sales (YoY) (Jul) | 2.7% | -0.2% | -2.6% |
 | 07:30 | AUD | Commodity Prices (YoY) (Aug) | -5.2% |  | -4.1% |
@@ -24,9 +24,9 @@
 | 10:00 | EUR | Italian PPI (YoY) (Jul) | -1.1% |  | -2.5% |
 | 10:00 | EUR | Italian PPI (MoM) (Jul) | 1.3% |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) | 43.6 |  | 52.4 |
-| 11:00 | EUR | Car Registration (MoM) (Aug) |  |  | -18.70% |
-| 11:00 | EUR | Car Registration (YoY) (Aug) |  |  | 3.40% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | EUR | Car Registration (MoM) (Aug) |  |  | -18.70% |
+| 13:00 | EUR | Car Registration (YoY) (Aug) |  |  | 3.40% |
 | 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 44.23K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.999% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.372% |
