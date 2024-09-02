@@ -16,12 +16,12 @@
 | 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) | -1.7% |  | -8.4% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 0.6% |  | -0.5% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Aug) | 50.4 | 50.0 | 49.8 |
-| 53 min | IDR | Low | Core Inflation (YoY) (Aug) |  | 1.98% | 1.95% |
-| 53 min | IDR | Low | Inflation (MoM) (Aug) |  | 0.00% | -0.18% |
-| 53 min | IDR | Low | Inflation (YoY) (Aug) |  | 2.12% | 2.13% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) |  | 57.9 | 57.9 |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Aug) |  | 1.98% | 1.95% |
+| 05:00 | IDR | Low | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
+| 05:00 | IDR | Low | Inflation (YoY) (Aug) | 2.12% | 2.12% | 2.13% |
+| 53 min | INR | Low | HSBC India Manufacturing PMI (Aug) |  | 57.9 | 57.9 |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jul) |  | -0.2% | -2.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Aug) |  |  | -3.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) |  | 51.4 | 51.0 |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Italian PPI (YoY) (Jul) |  |  | -2.5% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Jul) |  |  | 0.7% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Aug) |  |  | 52.4 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 3.40% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -18.70% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 3.40% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 44.23K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.999% |
