@@ -47,7 +47,7 @@
 | 15:45 | USD | OPEC Crude oil Production UAE (Barrel) | 2.94M | 2.94M | 2.94M |
 | 15:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.82M | 0.82M | 0.82M |
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Aug) | 48.50 |  | 49.60 |
-| 54 min | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
+| 17:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q2) |  | 2.8% | -0.3% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 6.3% |
 | 23:45 | NZD | Terms of Trade - Imports Prices (Q2) |  | 0.5% | -5.1% |
