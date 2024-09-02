@@ -6,21 +6,21 @@
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Aug) | 51.9 |  | 51.4 |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.8 | 49.5 | 49.5 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Aug) | 48.9 |  | 49.3 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Aug) | -2.1% |  | -2.7% |
 | 02:30 | AUD | Building Approvals (YoY) (Jul) | 24.90% | 9.80% | 11.40% |
 | 02:30 | AUD | Business inventories (MoM) (Q2) | 0.1% | -0.5% | 1.5% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q2) | -1.7% |  | -8.4% |
 | 02:30 | AUD | Private House Approvals (Jul) | 0.6% |  | -0.5% |
-| 05:00 | IDR | Core Inflation (YoY) (Aug) |  | 1.98% | 1.95% |
-| 05:00 | IDR | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
+| 03:30 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
+| 05:00 | IDR | Core Inflation (YoY) (Aug) | 2.02% | 1.98% | 1.95% |
 | 05:00 | IDR | Inflation (YoY) (Aug) | 2.12% | 2.12% | 2.13% |
-| 53 min | INR | HSBC India Manufacturing PMI (Aug) |  | 57.9 | 57.9 |
-| 07:00 | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 05:00 | IDR | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
+| 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 57.5 | 57.9 | 57.9 |
+| 54 min | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:30 | CHF | Retail Sales (YoY) (Jul) |  | -0.2% | -2.2% |
 | 07:30 | AUD | Commodity Prices (YoY) (Aug) |  |  | -3.0% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.2% |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 0.9% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 09:00 | NOK | Manufacturing PMI (Aug) |  | 55.5 | 56.9 |
 | 10:00 | EUR | Italian PPI (YoY) (Jul) |  |  | -2.5% |
 | 10:00 | EUR | Italian PPI (MoM) (Jul) |  |  | 0.7% |

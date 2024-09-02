@@ -7,7 +7,6 @@
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Aug) | 51.9 |  | 51.4 |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.8 | 49.5 | 49.5 |
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Aug) | 48.9 |  | 49.3 |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Aug) | -2.1% |  | -2.7% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Jul) | 24.90% | 9.80% | 11.40% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | 10.4% | 2.4% | -6.4% |
@@ -16,12 +15,13 @@
 | 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) | -1.7% |  | -8.4% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 0.6% |  | -0.5% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Aug) | 50.4 | 50.0 | 49.8 |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Aug) |  | 1.98% | 1.95% |
-| 05:00 | IDR | Low | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
+| 03:30 | AUD | Low | MI Inflation Gauge (MoM) | -0.1% |  | 0.4% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Aug) | 2.02% | 1.98% | 1.95% |
 | 05:00 | IDR | Low | Inflation (YoY) (Aug) | 2.12% | 2.12% | 2.13% |
-| 53 min | INR | Low | HSBC India Manufacturing PMI (Aug) |  | 57.9 | 57.9 |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
+| 05:00 | IDR | Low | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Aug) | 57.5 | 57.9 | 57.9 |
+| 54 min | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.1% | -1.2% |
+| 54 min | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jul) |  | -0.2% | -2.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Aug) |  |  | -3.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) |  | 51.4 | 51.0 |
@@ -29,8 +29,8 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Aug) |  | 48.0 | 47.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 42.1 | 42.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 42.1 | 42.1 |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.2% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.9% | 0.9% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.9% | 0.7% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Aug) |  | 55.5 | 56.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 45.6 | 45.6 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) |  | 52.5 | 52.5 |
