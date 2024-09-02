@@ -16,17 +16,16 @@
 | 05:00 | IDR | Inflation (YoY) (Aug) | 2.12% | 2.12% | 2.13% |
 | 05:00 | IDR | Inflation (MoM) (Aug) | -0.03% | 0.00% | -0.18% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Aug) | 57.5 | 57.9 | 57.9 |
-| 54 min | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
-| 07:30 | CHF | Retail Sales (YoY) (Jul) |  | -0.2% | -2.2% |
-| 07:30 | AUD | Commodity Prices (YoY) (Aug) |  |  | -3.0% |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 0.7% |
+| 22 min | CHF | Retail Sales (YoY) (Jul) |  | -0.2% | -2.2% |
+| 22 min | AUD | Commodity Prices (YoY) (Aug) |  |  | -3.0% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 0.7% |
 | 09:00 | NOK | Manufacturing PMI (Aug) |  | 55.5 | 56.9 |
 | 10:00 | EUR | Italian PPI (YoY) (Jul) |  |  | -2.5% |
 | 10:00 | EUR | Italian PPI (MoM) (Jul) |  |  | 0.7% |
 | 10:00 | ZAR | Manufacturing PMI (Aug) |  |  | 52.4 |
-| 11:00 | EUR | Car Registration (MoM) (Aug) |  |  | -18.70% |
 | 11:00 | EUR | Car Registration (YoY) (Aug) |  |  | 3.40% |
+| 11:00 | EUR | Car Registration (MoM) (Aug) |  |  | -18.70% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | ZAR | Total Vehicle Sales (Aug) |  |  | 44.23K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.999% |
