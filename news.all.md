@@ -38,8 +38,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (Aug) | -6.50% |  | 3.40% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Aug) | -37.70% |  | -18.70% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | -4.90% |  | 1.50% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Aug) | 43.59K |  | 44.33K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | -4.90% |  | 1.50% |
 | 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.997% |  | 2.999% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.462% |  | 3.372% |
