@@ -2,27 +2,27 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 00:00 | KRW | Low | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
+| 00:00 | KRW | Low | CPI (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 0.8% |  | 0.3% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Aug) | 0.6% | 0.6% | 1.2% |
 | 02:30 | AUD | Moderate | Current Account (Q2) | -10.7B | -5.0B | -4.9B |
 | 02:30 | AUD | Low | Net Exports Contribution (Q2) | 0.2% | 0.6% | -0.9% |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.926% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.1% | -0.2% |
+| 29 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.926% |
 | 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 1.2% | 1.3% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.1% | -0.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (Jul) |  |  | -103.5B |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 0.6% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.5% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Aug) |  | -6.3K | -10.8K |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | 0.06% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.380% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.5% |
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | -0.1% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.5% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.954% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.252% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  |  | 0.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
 | 13:00 | MXN | Low | Unemployment Rate (Jul) |  |  | 2.70% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jul) |  | 2.90% | 2.80% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |

@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Aug) | 0.8% |  | 0.3% |
 | 02:30 | AUD | Current Account (Q2) | -10.7B | -5.0B | -4.9B |
-| 04:35 | JPY | 10-Year JGB Auction |  |  | 0.926% |
+| 29 min | JPY | 10-Year JGB Auction |  |  | 0.926% |
 | 07:30 | CHF | CPI (MoM) (Aug) |  | 0.1% | -0.2% |
 | 08:00 | CHF | GDP (YoY) (Q2) |  |  | 0.6% |
 | 08:00 | CHF | GDP (QoQ) (Q2) |  | 0.5% | 0.5% |
