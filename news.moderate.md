@@ -14,8 +14,8 @@
 | 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | BRL | GDP (QoQ) (Q2) | 1.4% | 0.9% | 1.0% |
 | 13:00 | BRL | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.5% |
-| 51 min | USD | Construction Spending (MoM) (Jul) |  | 0.1% | -0.3% |
-| 51 min | USD | ISM Manufacturing Employment (Aug) |  |  | 43.4 |
-| 51 min | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 16:00 | USD | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
+| 15:00 | USD | Construction Spending (MoM) (Jul) | -0.3% | 0.1% | -0.3% |
+| 15:00 | USD | ISM Manufacturing Employment (Aug) | 46.0 |  | 43.4 |
+| 15:00 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 54 min | USD | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
 | 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
