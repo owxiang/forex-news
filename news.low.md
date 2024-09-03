@@ -6,8 +6,8 @@
 | 00:00 | KRW | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
 | 00:50 | JPY | Monetary Base (YoY) (Aug) | 0.6% | 0.6% | 1.2% |
 | 02:30 | AUD | Net Exports Contribution (Q2) | 0.2% | 0.6% | -0.9% |
-| 07:30 | CHF | CPI (YoY) (Aug) |  | 1.2% | 1.3% |
-| 07:45 | EUR | French Government Budget Balance (Jul) |  |  | -103.5B |
+| 22 min | CHF | CPI (YoY) (Aug) |  | 1.2% | 1.3% |
+| 37 min | EUR | French Government Budget Balance (Jul) |  |  | -103.5B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.380% |
 | 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.5% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.954% |

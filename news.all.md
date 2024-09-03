@@ -9,16 +9,16 @@
 | 02:30 | AUD | Moderate | Current Account (Q2) | -10.7B | -4.5B | -6.3B |
 | 02:30 | AUD | Low | Net Exports Contribution (Q2) | 0.2% | 0.6% | -0.9% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.915% |  | 0.926% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.1% | -0.2% |
-| 07:30 | CHF | Low | CPI (YoY) (Aug) |  | 1.2% | 1.3% |
-| 07:45 | EUR | Low | French Government Budget Balance (Jul) |  |  | -103.5B |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q2) |  |  | 0.6% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.5% | 0.5% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Aug) |  | 34.3K | -10.8K |
+| 22 min | CHF | Moderate | CPI (MoM) (Aug) |  | 0.1% | -0.2% |
+| 22 min | CHF | Low | CPI (YoY) (Aug) |  | 1.2% | 1.3% |
+| 37 min | EUR | Low | French Government Budget Balance (Jul) |  |  | -103.5B |
+| 52 min | CHF | Moderate | GDP (YoY) (Q2) |  |  | 0.6% |
+| 52 min | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.5% | 0.5% |
+| 52 min | EUR | Moderate | Spanish Unemployment Change (Aug) |  | 34.3K | -10.8K |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | 0.06% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.380% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.5% |
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | -0.1% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.5% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.954% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.252% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
