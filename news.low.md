@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 00:00 | KRW | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
+| 00:00 | KRW | CPI (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 00:50 | JPY | Monetary Base (YoY) (Aug) | 0.6% | 0.6% | 1.2% |
-| 02:30 | AUD | Net Exports Contribution (Q2) |  | 0.6% | -0.9% |
+| 02:30 | AUD | Net Exports Contribution (Q2) | 0.2% | 0.6% | -0.9% |
 | 07:30 | CHF | CPI (YoY) (Aug) |  | 1.2% | 1.3% |
 | 07:45 | EUR | French Government Budget Balance (Jul) |  |  | -103.5B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.380% |
