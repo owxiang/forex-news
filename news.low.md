@@ -16,9 +16,11 @@
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | -1.30% |  | 6.00% |
 | 13:00 | MXN | Unemployment Rate (Jul) | 2.70% |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Jul) | 2.90% | 2.90% | 2.80% |
+| 13:00 | NZD | GlobalDairyTrade Price Index | -0.4% |  | 5.5% |
+| 13:00 | USD | Milk Auctions | 3,833.0 |  | 3,920.0 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Aug) | 49.5 |  | 47.8 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Aug) | 44.6 |  | 47.4 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Sep) | 46.1 | 46.2 | 44.5 |
-| 24 min | USD | 3-Month Bill Auction |  |  | 4.980% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 4.685% |
+| 16:30 | USD | 3-Month Bill Auction | 4.970% |  | 4.980% |
+| 16:30 | USD | 6-Month Bill Auction | 4.645% |  | 4.685% |
 | 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 413.51B |

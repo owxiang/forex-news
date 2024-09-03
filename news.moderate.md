@@ -17,5 +17,5 @@
 | 15:00 | USD | Construction Spending (MoM) (Jul) | -0.3% | 0.1% | -0.3% |
 | 15:00 | USD | ISM Manufacturing Employment (Aug) | 46.0 |  | 43.4 |
 | 15:00 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 24 min | USD | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
-| 17:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 38 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 53 min | USD | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
