@@ -26,5 +26,4 @@
 | 15:10 | USD | IBD/TIPP Economic Optimism (Sep) |  | 46.2 | 44.5 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.980% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.685% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
 | 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 413.51B |
