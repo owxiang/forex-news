@@ -23,4 +23,5 @@
 | 15:10 | USD | IBD/TIPP Economic Optimism (Sep) | 46.1 | 46.2 | 44.5 |
 | 16:30 | USD | 3-Month Bill Auction | 4.970% |  | 4.980% |
 | 16:30 | USD | 6-Month Bill Auction | 4.645% |  | 4.685% |
+| 18:07 | USD | 52-Week Bill Auction | 4.150% |  |  |
 | 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 413.51B |

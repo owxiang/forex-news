@@ -12,8 +12,8 @@
 | 07:30 | CHF | Low | CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Aug) | 0.0% | 0.1% | -0.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (Jul) | -156.9B |  | -103.5B |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 1.8% |  | 0.6% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.7% | 0.5% | 0.5% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q2) | 1.8% |  | 0.6% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Aug) | 21.9K | 34.3K | -10.8K |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) | 0.18% |  | 0.06% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 2.954% |
@@ -43,4 +43,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.645% |  | 4.685% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow | 2.0% | 2.5% | 2.5% |
 | 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 18:07 | USD | Low | 52-Week Bill Auction | 4.150% |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 413.51B |

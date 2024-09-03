@@ -6,8 +6,8 @@
 | 02:30 | AUD | Current Account (Q2) | -10.7B | -4.5B | -6.3B |
 | 04:35 | JPY | 10-Year JGB Auction | 0.915% |  | 0.926% |
 | 07:30 | CHF | CPI (MoM) (Aug) | 0.0% | 0.1% | -0.2% |
-| 08:00 | CHF | GDP (YoY) (Q2) | 1.8% |  | 0.6% |
 | 08:00 | CHF | GDP (QoQ) (Q2) | 0.7% | 0.5% | 0.5% |
+| 08:00 | CHF | GDP (YoY) (Q2) | 1.8% |  | 0.6% |
 | 08:00 | EUR | Spanish Unemployment Change (Aug) | 21.9K | 34.3K | -10.8K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Aug) | 0.18% |  | 0.06% |
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q2) | 0.4% |  | 0.0% |
