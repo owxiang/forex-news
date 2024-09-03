@@ -19,8 +19,8 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 2.954% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.238% |  | 3.252% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.410% |  | 2.380% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) | 0.4% |  | 0.0% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q2) | 0.3% |  | 0.5% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) | 0.4% |  | 0.0% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | -1.00% |  | 0.70% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | -1.30% |  | 6.00% |
 | 13:00 | MXN | Low | Unemployment Rate (Jul) | 2.70% |  | 2.70% |
@@ -36,9 +36,9 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Aug) | 47.2 | 47.5 | 46.8 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Aug) | 54.0 | 52.1 | 52.9 |
 | 15:00 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 4 min | USD | Low | IBD/TIPP Economic Optimism (Sep) |  | 46.2 | 44.5 |
-| 54 min | USD | Moderate | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.980% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.685% |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Sep) | 46.1 | 46.2 | 44.5 |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.980% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.685% |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
 | 17:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 413.51B |

@@ -18,7 +18,7 @@
 | 13:00 | MXN | Unemployment Rate n.s.a. (Jul) | 2.90% | 2.90% | 2.80% |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Aug) | 49.5 |  | 47.8 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Aug) | 44.6 |  | 47.4 |
-| 4 min | USD | IBD/TIPP Economic Optimism (Sep) |  | 46.2 | 44.5 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.980% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.685% |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Sep) | 46.1 | 46.2 | 44.5 |
+| 24 min | USD | 3-Month Bill Auction |  |  | 4.980% |
+| 24 min | USD | 6-Month Bill Auction |  |  | 4.685% |
 | 22:00 | KRW | FX Reserves - USD (Aug) |  |  | 413.51B |
