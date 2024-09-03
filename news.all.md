@@ -26,8 +26,8 @@
 | 13:00 | MXN | Low | Unemployment Rate (Jul) | 2.70% |  | 2.70% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jul) | 2.90% | 2.90% | 2.80% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) | 1.4% | 0.9% | 1.0% |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.5% |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q2) | 1.4% | 0.9% | 1.0% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | -0.4% |  | 5.5% |
 | 13:00 | USD | Low | Milk Auctions | 3,833.0 |  | 3,920.0 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Aug) | 49.5 |  | 47.8 |
