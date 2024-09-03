@@ -9,7 +9,7 @@
 | 08:00 | CHF | GDP (YoY) (Q2) | 1.8% |  | 0.6% |
 | 08:00 | CHF | GDP (QoQ) (Q2) | 0.7% | 0.5% | 0.5% |
 | 08:00 | EUR | Spanish Unemployment Change (Aug) | 21.9K | 34.3K | -10.8K |
-| 54 min | BRL | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | 0.06% |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Aug) | 0.18% |  | 0.06% |
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q2) |  |  | -0.1% |
 | 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | BRL | GDP (YoY) (Q2) |  | 2.7% | 2.5% |
