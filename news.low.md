@@ -12,12 +12,11 @@
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 3.238% |  | 3.252% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.410% |  | 2.380% |
 | 10:30 | ZAR | GDP (YoY) (Q2) | 0.3% |  | 0.5% |
-| 55 min | MXN | Gross Fixed Investments (MoM) (Jun) |  |  | 0.70% |
-| 55 min | MXN | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
-| 55 min | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
-| 55 min | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.90% | 2.80% |
-| 55 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.0% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) | -1.00% |  | 0.70% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) | -1.30% |  | 6.00% |
+| 13:00 | MXN | Unemployment Rate (Jul) | 2.70% |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Jul) | 2.90% | 2.90% | 2.80% |
+| 46 min | USD | Redbook (YoY) |  |  | 5.0% |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Aug) |  |  | 47.8 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Aug) |  |  | 47.4 |
 | 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |

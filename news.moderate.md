@@ -10,10 +10,10 @@
 | 08:00 | CHF | GDP (QoQ) (Q2) | 0.7% | 0.5% | 0.5% |
 | 08:00 | EUR | Spanish Unemployment Change (Aug) | 21.9K | 34.3K | -10.8K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Aug) | 0.18% |  | 0.06% |
-| 10:30 | ZAR | GDP Annualized (QoQ) (Q2) | 0.4% |  | -0.1% |
-| 55 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 55 min | BRL | GDP (QoQ) (Q2) |  | 0.9% | 0.8% |
-| 55 min | BRL | GDP (YoY) (Q2) |  | 2.7% | 2.5% |
+| 10:30 | ZAR | GDP Annualized (QoQ) (Q2) | 0.4% |  | 0.0% |
+| 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | BRL | GDP (QoQ) (Q2) | 1.4% | 0.9% | 0.8% |
+| 13:00 | BRL | GDP (YoY) (Q2) | 3.3% | 2.7% | 2.5% |
 | 15:00 | USD | Construction Spending (MoM) (Jul) |  | 0.1% | -0.3% |
 | 15:00 | USD | ISM Manufacturing Employment (Aug) |  |  | 43.4 |
 | 15:00 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
