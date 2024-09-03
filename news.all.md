@@ -18,17 +18,17 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) | 0.18% |  | 0.06% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.954% |  | 2.954% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.238% |  | 3.252% |
-| 24 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.380% |
-| 24 min | ZAR | Moderate | GDP Annualized (QoQ) (Q2) |  |  | -0.1% |
-| 24 min | ZAR | Low | GDP (YoY) (Q2) |  |  | 0.5% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.410% |  | 2.380% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q2) | 0.4% |  | -0.1% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q2) | 0.3% |  | 0.5% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  |  | 0.70% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
 | 13:00 | MXN | Low | Unemployment Rate (Jul) |  |  | 2.70% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jul) |  | 2.90% | 2.80% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 2.5% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 0.8% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 2.5% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.0% |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Aug) |  |  | 47.8 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Aug) |  | 48.0 | 49.6 |

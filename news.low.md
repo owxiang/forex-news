@@ -10,8 +10,8 @@
 | 07:45 | EUR | French Government Budget Balance (Jul) | -156.9B |  | -103.5B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.954% |  | 2.954% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 3.238% |  | 3.252% |
-| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.380% |
-| 24 min | ZAR | GDP (YoY) (Q2) |  |  | 0.5% |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.410% |  | 2.380% |
+| 10:30 | ZAR | GDP (YoY) (Q2) | 0.3% |  | 0.5% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  |  | 0.70% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
 | 13:00 | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
