@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 00:00 | KRW | CPI (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
+| 00:00 | KRW | CPI (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 00:50 | JPY | Monetary Base (YoY) (Aug) | 0.6% | 0.6% | 1.2% |
 | 02:30 | AUD | Net Exports Contribution (Q2) | 0.2% | 0.6% | -0.9% |
 | 07:30 | CHF | CPI (YoY) (Aug) | 1.1% | 1.2% | 1.3% |
 | 07:45 | EUR | French Government Budget Balance (Jul) | -156.9B |  | -103.5B |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.380% |
-| 10:30 | ZAR | GDP (YoY) (Q2) |  |  | 0.5% |
-| 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.954% |
-| 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.252% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.954% |  | 2.954% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction | 3.238% |  | 3.252% |
+| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.380% |
+| 24 min | ZAR | GDP (YoY) (Q2) |  |  | 0.5% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jun) |  |  | 0.70% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  |  | 6.00% |
 | 13:00 | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
