@@ -27,4 +27,4 @@
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow | 2.1% | 2.0% | 2.0% |
 | 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.900M | -3.400M |
+| 24 min | USD | API Weekly Crude Oil Stock |  | -0.900M | -3.400M |
