@@ -19,14 +19,14 @@
 | 10:00 | NOK | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
 | 10:00 | EUR | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
 | 10:00 | EUR | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.44% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 54 min | USD | MBA Purchase Index |  |  | 131.8 |
-| 54 min | USD | Mortgage Market Index |  |  | 226.9 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 753.8 |
-| 12:30 | INR | M3 Money Supply |  |  | 10.3% |
-| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:00 | BRL | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.43% |  | 6.44% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 1.6% |  | 0.5% |
+| 12:00 | USD | MBA Purchase Index | 136.1 |  | 131.8 |
+| 12:00 | USD | Mortgage Market Index | 230.5 |  | 226.9 |
+| 12:00 | USD | Mortgage Refinance Index | 751.4 |  | 753.8 |
+| 24 min | INR | M3 Money Supply |  |  | 10.3% |
+| 54 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 54 min | BRL | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
 | 13:30 | CAD | Exports (Jul) |  |  | 66.65B |
 | 13:30 | CAD | Imports (Jul) |  |  | 66.01B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.0% |

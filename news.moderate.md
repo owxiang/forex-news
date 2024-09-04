@@ -17,7 +17,7 @@
 | 09:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) | 53.8 | 53.4 | 52.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) | 53.7 | 53.3 | 52.5 |
-| 13:00 | BRL | Industrial Production (YoY) (Jul) |  | 6.3% | 3.2% |
+| 54 min | BRL | Industrial Production (YoY) (Jul) |  | 6.3% | 3.2% |
 | 13:30 | USD | Exports (Jul) |  |  | 265.90B |
 | 13:30 | USD | Imports (Jul) |  |  | 339.00B |
 | 13:30 | USD | Trade Balance (Jul) |  | -78.80B | -73.10B |

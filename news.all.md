@@ -34,15 +34,15 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
 | 10:00 | EUR | Low | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
 | 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.44% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 131.8 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 226.9 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 753.8 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 10.3% |
-| 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 6.3% | 3.2% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.43% |  | 6.44% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.6% |  | 0.5% |
+| 12:00 | USD | Low | MBA Purchase Index | 136.1 |  | 131.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 230.5 |  | 226.9 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 751.4 |  | 753.8 |
+| 24 min | INR | Low | M3 Money Supply |  |  | 10.3% |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 54 min | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 6.3% | 3.2% |
 | 13:30 | USD | Moderate | Exports (Jul) |  |  | 265.90B |
 | 13:30 | USD | Moderate | Imports (Jul) |  |  | 339.00B |
 | 13:30 | USD | Moderate | Trade Balance (Jul) |  | -78.80B | -73.10B |
