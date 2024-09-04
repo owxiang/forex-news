@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | AIG Construction Index (Aug) |  |  | -23.2 |
-| 00:00 | AUD | Low | AIG Manufacturing Index (Aug) |  |  | -19.5 |
-| 00:00 | AUD | Low | Judo Bank Australia Services PMI |  | 52.2 | 50.4 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) |  | 54.0 | 53.7 |
-| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) |  |  | 49.5 |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -1.7% |
+| 00:00 | AUD | Low | AIG Construction Index (Aug) | -38.1 |  | -23.2 |
+| 00:00 | AUD | Low | AIG Manufacturing Index (Aug) | -30.8 |  | -19.5 |
+| 00:00 | AUD | Low | Judo Bank Australia Services PMI | 52.5 | 52.2 | 50.4 |
+| 6 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) |  | 54.0 | 53.7 |
+| 6 min | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) |  |  | 49.5 |
+| 36 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -1.7% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q2) |  | 1.0% | 1.1% |
 | 02:30 | AUD | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.1% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q2) |  |  | -0.9% |
@@ -32,8 +32,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) |  | 53.4 | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) |  | 53.3 | 52.5 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | 2.40% |
-| 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
 | 10:00 | EUR | Low | PPI (YoY) (Jul) |  | -2.5% | -3.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.44% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 131.8 |
