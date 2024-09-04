@@ -1,6 +1,10 @@
-## 04 September 2024 - High Impact Forex News
+## 05 September 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | CAD | BoC Interest Rate Decision | 4.25% | 4.25% | 4.50% |
-| 15:00 | USD | JOLTs Job Openings (Jul) | 7.673M | 8.090M | 7.910M |
+| 13:15 | USD | ADP Nonfarm Employment Change (Aug) |  | 143K | 122K |
+| 13:30 | USD | Initial Jobless Claims |  | 231K | 231K |
+| 14:45 | USD | S&P Global Services PMI (Aug) |  | 55.2 | 55.0 |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Aug) |  | 51.2 | 51.4 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Aug) |  |  | 57.0 |
+| 16:00 | USD | Crude Oil Inventories |  |  | -0.846M |

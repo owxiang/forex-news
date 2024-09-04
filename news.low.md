@@ -1,37 +1,54 @@
-## 04 September 2024 - Low Impact Forex News
+## 05 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | AIG Construction Index (Aug) | -38.1 |  | -23.2 |
-| 00:00 | AUD | AIG Manufacturing Index (Aug) | -30.8 |  | -19.5 |
-| 00:00 | AUD | Judo Bank Australia Services PMI | 52.5 | 52.2 | 50.4 |
-| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.4 |  | 49.5 |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 2.1% |  | -1.7% |
-| 02:30 | AUD | GDP Capital Expenditure (Q2) | -0.1% |  | -0.6% |
-| 02:30 | AUD | GDP Chain Price Index (Q2) | -0.9% |  | 1.0% |
-| 02:30 | AUD | GDP Final Consumption (Q2) | 0.3% |  | 0.6% |
-| 06:00 | INR | HSBC India Services PMI (Aug) | 60.9 | 60.4 | 60.3 |
-| 07:00 | NOK | Current Account (Q2) | 231.8B |  | 238.3B |
-| 08:15 | ZAR | S&P Global South Africa PMI (Aug) | 50.5 |  | 49.3 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Aug) | 50.8 |  | 50.3 |
-| 08:50 | EUR | HCOB France Composite PMI (Aug) | 53.1 | 52.7 | 49.1 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 48.4 | 48.5 | 49.1 |
-| 10:00 | NOK | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
-| 10:00 | EUR | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
-| 10:00 | EUR | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.43% |  | 6.44% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 1.6% |  | 0.5% |
-| 12:00 | USD | MBA Purchase Index | 136.1 |  | 131.8 |
-| 12:00 | USD | Mortgage Market Index | 230.5 |  | 226.9 |
-| 12:00 | USD | Mortgage Refinance Index | 751.4 |  | 753.8 |
-| 12:30 | INR | M3 Money Supply | 10.2% |  | 10.3% |
-| 13:00 | BRL | Industrial Production (MoM) (Jul) | -1.4% | -0.9% | 4.3% |
-| 13:30 | CAD | Exports (Jul) | 65.66B |  | 65.92B |
-| 13:30 | CAD | Imports (Jul) | 64.97B |  | 66.10B |
-| 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.0% |
-| 14:00 | BRL | S&P Global Composite PMI (Aug) | 52.9 |  | 56.0 |
-| 14:00 | BRL | S&P Global Services PMI (Aug) | 54.2 |  | 56.4 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Jul) | 10.3% |  | 10.4% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Jul) | -0.2% | -0.2% | -0.2% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Jul) | 0.4% | -0.2% | 0.1% |
-| 18:30 | BRL | Foreign Exchange Flows | 0.839B |  | -2.660B |
+| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
+| 00:00 | KRW | GDP (YoY) (Q2) |  | 2.3% | 3.3% |
+| 24 min | JPY | Overall wage income of employees (Jul) |  | 3.0% | 4.5% |
+| 24 min | JPY | Overtime Pay (YoY) (Jul) |  |  | 0.90% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 1,542.9B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -438.3B |
+| 02:30 | AUD | Exports (MoM) (Jul) |  |  | 1.7% |
+| 02:30 | AUD | Imports (MoM) (Jul) |  |  | 0.5% |
+| 03:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.230% |
+| 06:00 | SGD | Retail Sales (MoM) (Jul) |  |  | -3.7% |
+| 06:00 | SGD | Retail Sales (YoY) (Jul) |  |  | -0.6% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Aug) |  |  | 2.3% |
+| 06:45 | CHF | Unemployment Rate s.a. (Aug) |  | 2.5% | 2.5% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 41.4 |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.854% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.01% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.49% |
+| 10:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) |  | 0.1% | -0.3% |
+| 10:00 | EUR | Retail Sales (MoM) (Jul) |  | 0.1% | -0.3% |
+| 10:00 | ZAR | Current Account (Q2) |  |  | -84.6B |
+| 10:00 | ZAR | Current Account % of GDP (Q2) |  |  | -1.20% |
+| 10:15 | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
+| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
+| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  | 229.00K | 231.50K |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 52.4 |
+| 15:00 | USD | Redbook (YoY) |  |  | 5.0% |
+| 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
+| 15:30 | USD | Natural Gas Storage |  |  | 35B |
+| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.175M |
+| 16:00 | USD | Crude Oil Imports |  |  | 0.282M |
+| 16:00 | USD | Distillate Fuel Production |  |  | 0.110M |
+| 16:00 | USD | EIA Weekly Distillates Stocks |  |  | 0.275M |
+| 16:00 | USD | Gasoline Production |  |  | -0.156M |
+| 16:00 | USD | Heating Oil Stockpiles |  |  | -1.189M |
+| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 16:00 | USD | Gasoline Inventories |  |  | -2.203M |
+| 16:25 | USD | 8-Week Bill Auction |  |  | 5.100% |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.170% |
+| 18:00 | BRL | Auto Production (MoM) (Aug) |  |  | 16.9% |
+| 18:00 | BRL | Auto Sales (MoM) (Aug) |  |  | 12.6% |
+| 19:00 | BRL | Trade Balance (Aug) |  | 6.10B | 7.64B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
