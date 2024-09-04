@@ -58,9 +58,7 @@
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) | 5.0% | 4.7% | -3.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) | 0.4% | -0.2% | 0.1% |
 | 15:00 | USD | High | JOLTs Job Openings (Jul) | 7.673M | 8.090M | 7.910M |
-| 15:00 | USD | Low | Redbook (YoY) |  |  | 5.0% |
-| 15:00 | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
-| 25 min | CAD | Moderate | BOC Press Conference |  |  |  |
+| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow |  | 2.0% | 2.0% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.660B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |

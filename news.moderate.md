@@ -24,7 +24,7 @@
 | 13:30 | CAD | Trade Balance (Jul) | 0.68B | 0.70B | -0.18B |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Jul) | 5.0% | 4.7% | -3.3% |
-| 25 min | CAD | BOC Press Conference |  |  |  |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow |  | 2.0% | 2.0% |
 | 19:00 | USD | Beige Book |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.900M | -3.400M |
