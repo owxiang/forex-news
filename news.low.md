@@ -17,8 +17,8 @@
 | 08:50 | EUR | HCOB France Composite PMI (Aug) | 53.1 | 52.7 | 49.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 48.4 | 48.5 | 49.1 |
 | 10:00 | NOK | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
-| 10:00 | EUR | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
 | 10:00 | EUR | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
+| 10:00 | EUR | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.43% |  | 6.44% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 1.6% |  | 0.5% |
 | 12:00 | USD | MBA Purchase Index | 136.1 |  | 131.8 |
@@ -28,12 +28,12 @@
 | 13:00 | BRL | Industrial Production (MoM) (Jul) | -1.4% | -0.9% | 4.3% |
 | 13:30 | CAD | Exports (Jul) | 65.66B |  | 65.92B |
 | 13:30 | CAD | Imports (Jul) | 64.97B |  | 66.10B |
+| 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.0% |
 | 14:00 | BRL | S&P Global Composite PMI (Aug) | 52.9 |  | 56.0 |
 | 14:00 | BRL | S&P Global Services PMI (Aug) | 54.2 |  | 56.4 |
-| 21 min | USD | Redbook (YoY) |  |  | 5.0% |
-| 51 min | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 10.4% |
-| 51 min | USD | Durables Excluding Transport (MoM) (Jul) |  |  | -0.2% |
-| 51 min | USD | Factory orders ex transportation (MoM) (Jul) |  | -0.2% | 0.1% |
-| 51 min | USD | Redbook (YoY) |  |  | 5.0% |
-| 51 min | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Jul) | 10.3% |  | 10.4% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Jul) | -0.2% | -0.2% | -0.2% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Jul) | 0.4% | -0.2% | 0.1% |
+| 15:00 | USD | Redbook (YoY) |  |  | 5.0% |
+| 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -2.660B |

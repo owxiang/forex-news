@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 53.7 | 54.0 | 53.7 |
-| 02:30 | AUD | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:30 | AUD | GDP (YoY) (Q2) | 1.0% | 1.0% | 1.3% |
+| 02:30 | AUD | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:45 | CNY | Caixin Services PMI (Aug) | 51.6 | 51.9 | 52.1 |
 | 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 08:15 | EUR | HCOB Spain Services PMI (Aug) | 54.6 | 54.8 | 53.9 |
@@ -22,9 +22,9 @@
 | 13:30 | USD | Imports (Jul) | 345.40B |  | 338.00B |
 | 13:30 | USD | Trade Balance (Jul) | -78.80B | -78.80B | -73.00B |
 | 13:30 | CAD | Trade Balance (Jul) | 0.68B | 0.70B | -0.18B |
-| 36 min | CAD | BoC Rate Statement |  |  |  |
-| 51 min | USD | Factory Orders (MoM) (Jul) |  | 4.7% | -3.3% |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:00 | USD | Factory Orders (MoM) (Jul) | 5.0% | 4.7% | -3.3% |
+| 25 min | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow |  | 2.0% | 2.0% |
 | 19:00 | USD | Beige Book |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.900M | -3.400M |
