@@ -32,8 +32,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) | 53.8 | 53.4 | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) | 53.7 | 53.3 | 52.5 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
-| 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
+| 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.43% |  | 6.44% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.6% |  | 0.5% |
 | 12:00 | USD | Low | MBA Purchase Index | 136.1 |  | 131.8 |
