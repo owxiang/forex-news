@@ -11,14 +11,14 @@
 | 02:30 | AUD | GDP Chain Price Index (Q2) | -0.9% |  | 1.0% |
 | 02:30 | AUD | GDP Final Consumption (Q2) | 0.3% |  | 0.6% |
 | 06:00 | INR | HSBC India Services PMI (Aug) | 60.9 | 60.4 | 60.3 |
-| 52 min | NOK | Current Account (Q2) |  |  | 249.0B |
+| 07:00 | NOK | Current Account (Q2) | 231.8B |  | 238.3B |
 | 08:15 | ZAR | S&P Global South Africa PMI (Aug) |  |  | 49.3 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Aug) |  |  | 50.3 |
 | 08:50 | EUR | HCOB France Composite PMI (Aug) |  | 52.7 | 49.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Aug) |  | 48.5 | 49.1 |
 | 10:00 | NOK | House Price Index (YoY) (Aug) |  |  | 2.40% |
-| 10:00 | EUR | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
 | 10:00 | EUR | PPI (YoY) (Jul) |  | -2.5% | -3.2% |
+| 10:00 | EUR | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.44% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
 | 12:00 | USD | MBA Purchase Index |  |  | 131.8 |
