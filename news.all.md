@@ -8,8 +8,8 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 53.7 | 54.0 | 53.7 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.4 |  | 49.5 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.1% |  | -1.7% |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q2) | 1.0% | 1.0% | 1.3% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q2) | -0.1% |  | -0.6% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.9% |  | 1.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q2) | 0.3% |  | 0.6% |
@@ -17,23 +17,23 @@
 | 06:00 | INR | Low | HSBC India Services PMI (Aug) | 60.9 | 60.4 | 60.3 |
 | 07:00 | NOK | Low | Current Account (Q2) | 231.8B |  | 238.3B |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 9 min | EUR | Moderate | HCOB Spain Services PMI (Aug) |  | 54.8 | 53.9 |
-| 9 min | ZAR | Low | S&P Global South Africa PMI (Aug) |  |  | 49.3 |
-| 24 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 39 min | EUR | Low | HCOB Italy Composite PMI (Aug) |  |  | 50.3 |
-| 39 min | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 52.5 | 51.7 |
-| 44 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 52.7 | 49.1 |
-| 44 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 55.0 | 50.1 |
-| 49 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 48.5 | 49.1 |
-| 49 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 51.4 | 52.5 |
-| 54 min | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 51.2 | 50.2 |
-| 54 min | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 53.3 | 51.9 |
-| 09:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) |  | 53.4 | 52.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) |  | 53.3 | 52.5 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | 2.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jul) |  | -2.5% | -3.2% |
-| 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Aug) | 54.6 | 54.8 | 53.9 |
+| 08:15 | ZAR | Low | S&P Global South Africa PMI (Aug) | 50.5 |  | 49.3 |
+| 08:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Aug) | 50.8 |  | 50.3 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) | 51.4 | 52.5 | 51.7 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Aug) | 53.1 | 52.7 | 49.1 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Aug) | 55.0 | 55.0 | 50.1 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Aug) | 48.4 | 48.5 | 49.1 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 51.2 | 51.4 | 52.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 51.0 | 51.2 | 50.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 52.9 | 53.3 | 51.9 |
+| 8 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 23 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) |  | 53.4 | 52.8 |
+| 23 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) |  | 53.3 | 52.5 |
+| 53 min | NOK | Low | House Price Index (YoY) (Aug) |  |  | 2.40% |
+| 53 min | EUR | Low | PPI (YoY) (Jul) |  | -2.5% | -3.2% |
+| 53 min | EUR | Low | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.44% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 131.8 |
