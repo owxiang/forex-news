@@ -62,4 +62,4 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow | 2.1% | 2.0% | 2.0% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.839B |  | -2.660B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -3.400M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -7.400M | -0.900M | -3.400M |
