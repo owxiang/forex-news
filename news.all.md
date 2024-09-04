@@ -8,8 +8,8 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 53.7 | 54.0 | 53.7 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.4 |  | 49.5 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.1% |  | -1.7% |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q2) | 1.0% | 1.0% | 1.3% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q2) | -0.1% |  | -0.6% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.9% |  | 1.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q2) | 0.3% |  | 0.6% |
@@ -32,13 +32,13 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) | 53.8 | 53.4 | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) | 53.7 | 53.3 | 52.5 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
-| 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.44% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 131.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 226.9 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 753.8 |
+| 10:00 | EUR | Low | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.44% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 131.8 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 226.9 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 753.8 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.3% |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |

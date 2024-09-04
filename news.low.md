@@ -17,13 +17,13 @@
 | 08:50 | EUR | HCOB France Composite PMI (Aug) | 53.1 | 52.7 | 49.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 48.4 | 48.5 | 49.1 |
 | 10:00 | NOK | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
-| 10:00 | EUR | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
 | 10:00 | EUR | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.44% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 131.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 226.9 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 753.8 |
+| 10:00 | EUR | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.44% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
+| 54 min | USD | MBA Purchase Index |  |  | 131.8 |
+| 54 min | USD | Mortgage Market Index |  |  | 226.9 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 753.8 |
 | 12:30 | INR | M3 Money Supply |  |  | 10.3% |
 | 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:00 | BRL | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |

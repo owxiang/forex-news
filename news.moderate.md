@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 53.7 | 54.0 | 53.7 |
-| 02:30 | AUD | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:30 | AUD | GDP (YoY) (Q2) | 1.0% | 1.0% | 1.3% |
+| 02:30 | AUD | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:45 | CNY | Caixin Services PMI (Aug) | 51.6 | 51.9 | 52.1 |
 | 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 08:15 | EUR | HCOB Spain Services PMI (Aug) | 54.6 | 54.8 | 53.9 |
