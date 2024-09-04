@@ -16,9 +16,9 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Aug) | 50.8 |  | 50.3 |
 | 08:50 | EUR | HCOB France Composite PMI (Aug) | 53.1 | 52.7 | 49.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Aug) | 48.4 | 48.5 | 49.1 |
-| 53 min | NOK | House Price Index (YoY) (Aug) |  |  | 2.40% |
-| 53 min | EUR | PPI (YoY) (Jul) |  | -2.5% | -3.2% |
-| 53 min | EUR | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
+| 10:00 | NOK | House Price Index (YoY) (Aug) | 3.30% |  | 2.40% |
+| 10:00 | EUR | PPI (MoM) (Jul) | 0.8% | 0.3% | 0.6% |
+| 10:00 | EUR | PPI (YoY) (Jul) | -2.1% | -2.5% | -3.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.44% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
 | 12:00 | USD | MBA Purchase Index |  |  | 131.8 |
