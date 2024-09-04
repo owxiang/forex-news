@@ -8,13 +8,12 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 53.7 | 54.0 | 53.7 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.4 |  | 49.5 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.1% |  | -1.7% |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q2) | 1.0% | 1.0% | 1.3% |
 | 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.1% |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q2) | 1.0% | 1.0% | 1.1% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q2) | -0.1% |  | -0.9% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.9% |  | 0.8% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q2) | 0.3% |  | 0.6% |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Aug) |  |  | 0.4% |
-| 12 min | CNY | Moderate | Caixin Services PMI (Aug) |  | 51.9 | 52.1 |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Aug) | 51.6 | 51.9 | 52.1 |
 | 06:00 | INR | Low | HSBC India Services PMI (Aug) |  | 60.4 | 60.3 |
 | 07:00 | NOK | Low | Current Account (Q2) |  |  | 249.0B |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
@@ -41,8 +40,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 753.8 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.3% |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 6.2% | 3.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 6.2% | 3.2% |
 | 13:30 | USD | Moderate | Exports (Jul) |  |  | 265.90B |
 | 13:30 | USD | Moderate | Imports (Jul) |  |  | 339.00B |
 | 13:30 | USD | Moderate | Trade Balance (Jul) |  | -78.80B | -73.10B |

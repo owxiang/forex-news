@@ -10,7 +10,6 @@
 | 02:30 | AUD | GDP Capital Expenditure (Q2) | -0.1% |  | -0.9% |
 | 02:30 | AUD | GDP Chain Price Index (Q2) | -0.9% |  | 0.8% |
 | 02:30 | AUD | GDP Final Consumption (Q2) | 0.3% |  | 0.6% |
-| 02:30 | AUD | MI Inflation Gauge (MoM) (Aug) |  |  | 0.4% |
 | 06:00 | INR | HSBC India Services PMI (Aug) |  | 60.4 | 60.3 |
 | 07:00 | NOK | Current Account (Q2) |  |  | 249.0B |
 | 08:15 | ZAR | S&P Global South Africa PMI (Aug) |  |  | 49.3 |
