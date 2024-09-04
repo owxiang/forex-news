@@ -60,6 +60,6 @@
 | 15:00 | USD | High | JOLTs Job Openings (Jul) | 7.673M | 8.090M | 7.910M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow | 2.1% | 2.0% | 2.0% |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -2.660B |
-| 54 min | USD | Moderate | Beige Book |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 0.839B |  | -2.660B |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -3.400M |

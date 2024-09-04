@@ -26,5 +26,5 @@
 | 15:00 | USD | Factory Orders (MoM) (Jul) | 5.0% | 4.7% | -3.3% |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow | 2.1% | 2.0% | 2.0% |
-| 54 min | USD | Beige Book |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.900M | -3.400M |

@@ -34,4 +34,4 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jul) | 10.3% |  | 10.4% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jul) | -0.2% | -0.2% | -0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jul) | 0.4% | -0.2% | 0.1% |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -2.660B |
+| 18:30 | BRL | Foreign Exchange Flows | 0.839B |  | -2.660B |
