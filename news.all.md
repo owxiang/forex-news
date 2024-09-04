@@ -8,31 +8,32 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 53.7 | 54.0 | 53.7 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.4 |  | 49.5 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.1% |  | -1.7% |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.1% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.2% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q2) | 1.0% | 1.0% | 1.3% |
-| 02:30 | AUD | Low | GDP Capital Expenditure (Q2) | -0.1% |  | -0.9% |
-| 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.9% |  | 0.8% |
+| 02:30 | AUD | Low | GDP Capital Expenditure (Q2) | -0.1% |  | -0.6% |
+| 02:30 | AUD | Low | GDP Chain Price Index (Q2) | -0.9% |  | 1.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q2) | 0.3% |  | 0.6% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Aug) | 51.6 | 51.9 | 52.1 |
-| 53 min | INR | Low | HSBC India Services PMI (Aug) |  | 60.4 | 60.3 |
-| 07:00 | NOK | Low | Current Account (Q2) |  |  | 249.0B |
+| 06:00 | INR | Low | HSBC India Services PMI (Aug) | 60.9 | 60.4 | 60.3 |
+| 52 min | NOK | Low | Current Account (Q2) |  |  | 249.0B |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Aug) |  | 54.8 | 53.9 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Aug) |  |  | 49.3 |
 | 08:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Aug) |  |  | 50.3 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 52.4 | 51.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 52.5 | 51.7 |
 | 08:50 | EUR | Low | HCOB France Composite PMI (Aug) |  | 52.7 | 49.1 |
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 55.0 | 50.1 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 48.5 | 49.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 51.4 | 52.5 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 51.2 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 53.3 | 51.9 |
+| 09:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) |  | 53.4 | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) |  | 53.3 | 52.5 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | 2.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jul) |  | -2.5% | -3.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Jul) |  | 0.3% | 0.5% |
+| 10:00 | EUR | Low | PPI (YoY) (Jul) |  | -2.5% | -3.2% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.44% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 131.8 |
@@ -40,8 +41,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 753.8 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.3% |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 6.3% | 3.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 6.2% | 3.2% |
 | 13:30 | USD | Moderate | Exports (Jul) |  |  | 265.90B |
 | 13:30 | USD | Moderate | Imports (Jul) |  |  | 339.00B |
 | 13:30 | USD | Moderate | Trade Balance (Jul) |  | -78.80B | -73.10B |
@@ -56,7 +57,7 @@
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.25% | 4.50% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  |  | 10.4% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) |  |  | -0.2% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | 4.6% | -3.3% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | 4.7% | -3.3% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) |  | -0.2% | 0.1% |
 | 15:00 | USD | High | JOLTs Job Openings (Jul) |  | 8.090M | 8.184M |
 | 15:00 | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
