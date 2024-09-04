@@ -39,19 +39,18 @@
 | 12:00 | USD | Low | MBA Purchase Index | 136.1 |  | 131.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 230.5 |  | 226.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 751.4 |  | 753.8 |
-| 24 min | INR | Low | M3 Money Supply |  |  | 10.3% |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 54 min | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Jul) |  | 6.3% | 3.2% |
-| 13:30 | USD | Moderate | Exports (Jul) |  |  | 265.90B |
-| 13:30 | USD | Moderate | Imports (Jul) |  |  | 339.00B |
-| 13:30 | USD | Moderate | Trade Balance (Jul) |  | -78.80B | -73.10B |
-| 13:30 | CAD | Low | Exports (Jul) |  |  | 66.65B |
-| 13:30 | CAD | Low | Imports (Jul) |  |  | 66.01B |
-| 13:30 | CAD | Moderate | Trade Balance (Jul) |  | 0.70B | 0.64B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.0% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 56.0 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Aug) |  |  | 56.4 |
+| 12:30 | INR | Low | M3 Money Supply | 10.2% |  | 10.3% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Jul) | -1.4% | -0.9% | 4.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jul) | 6.1% | 6.3% | 3.2% |
+| 20 min | USD | Moderate | Exports (Jul) |  |  | 265.90B |
+| 20 min | USD | Moderate | Imports (Jul) |  |  | 339.00B |
+| 20 min | USD | Moderate | Trade Balance (Jul) |  | -78.80B | -73.10B |
+| 20 min | CAD | Low | Exports (Jul) |  |  | 66.65B |
+| 20 min | CAD | Low | Imports (Jul) |  |  | 66.01B |
+| 20 min | CAD | Moderate | Trade Balance (Jul) |  | 0.70B | 0.64B |
+| 45 min | USD | Low | Redbook (YoY) |  |  | 5.0% |
+| 50 min | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 56.0 |
+| 50 min | BRL | Low | S&P Global Services PMI (Aug) |  |  | 56.4 |
 | 14:30 | USD | Low | Redbook (YoY) |  |  | 5.0% |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.25% | 4.50% |

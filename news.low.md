@@ -24,14 +24,13 @@
 | 12:00 | USD | MBA Purchase Index | 136.1 |  | 131.8 |
 | 12:00 | USD | Mortgage Market Index | 230.5 |  | 226.9 |
 | 12:00 | USD | Mortgage Refinance Index | 751.4 |  | 753.8 |
-| 24 min | INR | M3 Money Supply |  |  | 10.3% |
-| 54 min | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 54 min | BRL | Industrial Production (MoM) (Jul) |  | -0.9% | 4.1% |
-| 13:30 | CAD | Exports (Jul) |  |  | 66.65B |
-| 13:30 | CAD | Imports (Jul) |  |  | 66.01B |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.0% |
-| 14:00 | BRL | S&P Global Composite PMI (Aug) |  |  | 56.0 |
-| 14:00 | BRL | S&P Global Services PMI (Aug) |  |  | 56.4 |
+| 12:30 | INR | M3 Money Supply | 10.2% |  | 10.3% |
+| 13:00 | BRL | Industrial Production (MoM) (Jul) | -1.4% | -0.9% | 4.1% |
+| 20 min | CAD | Exports (Jul) |  |  | 66.65B |
+| 20 min | CAD | Imports (Jul) |  |  | 66.01B |
+| 45 min | USD | Redbook (YoY) |  |  | 5.0% |
+| 50 min | BRL | S&P Global Composite PMI (Aug) |  |  | 56.0 |
+| 50 min | BRL | S&P Global Services PMI (Aug) |  |  | 56.4 |
 | 14:30 | USD | Redbook (YoY) |  |  | 5.0% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 10.4% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jul) |  |  | -0.2% |

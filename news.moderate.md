@@ -17,11 +17,11 @@
 | 09:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) | 53.8 | 53.4 | 52.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) | 53.7 | 53.3 | 52.5 |
-| 54 min | BRL | Industrial Production (YoY) (Jul) |  | 6.3% | 3.2% |
-| 13:30 | USD | Exports (Jul) |  |  | 265.90B |
-| 13:30 | USD | Imports (Jul) |  |  | 339.00B |
-| 13:30 | USD | Trade Balance (Jul) |  | -78.80B | -73.10B |
-| 13:30 | CAD | Trade Balance (Jul) |  | 0.70B | 0.64B |
+| 13:00 | BRL | Industrial Production (YoY) (Jul) | 6.1% | 6.3% | 3.2% |
+| 20 min | USD | Exports (Jul) |  |  | 265.90B |
+| 20 min | USD | Imports (Jul) |  |  | 339.00B |
+| 20 min | USD | Trade Balance (Jul) |  | -78.80B | -73.10B |
+| 20 min | CAD | Trade Balance (Jul) |  | 0.70B | 0.64B |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Jul) |  | 4.7% | -3.3% |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
