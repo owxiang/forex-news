@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -18,10 +18,10 @@
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.4% |  | 2.3% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.5% | 2.5% | 2.5% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) | 2.9% | -1.6% | 4.6% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 41.4 |
+| 24 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
+| 24 min | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
+| 24 min | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
+| 24 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 41.4 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 54.6 | 55.3 |
 | 09:35 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.107% |

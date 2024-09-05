@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
+| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:30 | JPY | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -16,10 +16,10 @@
 | 06:00 | SGD | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Aug) | 2.4% |  | 2.3% |
 | 06:45 | CHF | Unemployment Rate s.a. (Aug) | 2.5% | 2.5% | 2.5% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 41.4 |
+| 24 min | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
+| 24 min | EUR | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
+| 24 min | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
+| 24 min | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 41.4 |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.107% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.701% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.974% |
