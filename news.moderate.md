@@ -1,16 +1,37 @@
-## 05 September 2024 - Moderate Impact Forex News
+## 06 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance (Jul) | 6.009B | 5.050B | 5.425B |
-| 07:00 | EUR | German Factory Orders (MoM) (Jul) | 2.9% | -1.6% | 4.6% |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Aug) | 53.6 | 54.6 | 55.3 |
-| 09:35 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,838K | 1,870K | 1,860K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.5% | 2.3% | 0.2% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 0.4% | 0.9% | 4.0% |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q2) | -0.2% | -0.1% | -0.3% |
-| 14:45 | USD | S&P Global Composite PMI (Aug) | 54.6 | 54.1 | 54.3 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) | 50.2 | 50.5 | 51.1 |
-| 16:00 | USD | Cushing Crude Oil Inventories | -1.142M |  | -0.668M |
-| 21:30 | USD | Fed's Balance Sheet | 7,113B |  | 7,123B |
+| 24 min | JPY | Household Spending (YoY) (Jul) |  | 1.2% | -1.4% |
+| 24 min | JPY | Household Spending (MoM) (Jul) |  | -0.2% | 0.1% |
+| 02:30 | AUD | Home Loans (MoM) (Jul) |  | 1.0% | 0.5% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
+| 07:00 | EUR | German Industrial Production (MoM) (Jul) |  | -0.4% | 1.4% |
+| 07:00 | EUR | German Trade Balance (Jul) |  | 21.0B | 20.4B |
+| 08:00 | CHF | SECO Consumer Climate |  | -33 | -19 |
+| 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:00 | GBP | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
+| 10:00 | EUR | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
+| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
+| 13:30 | USD | Participation Rate (Aug) |  |  | 62.7% |
+| 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |
+| 13:30 | USD | U6 Unemployment Rate (Aug) |  |  | 7.8% |
+| 13:30 | CAD | Employment Change (Aug) |  | 25.6K | -2.8K |
+| 13:30 | CAD | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
+| 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Aug) |  | 55.3 | 57.6 |
+| 16:00 | USD | Fed Waller Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 583 |
+| 18:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 89.9K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 226.7K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 294.4K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 21.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -81.9K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -19.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -53.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 25.9K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 92.8K |
