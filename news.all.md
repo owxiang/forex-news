@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -13,8 +13,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jul) | 6.009B | 5.050B | 5.425B |
 | 03:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.043% |  | 2.230% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Jul) | 1.0% |  | -0.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Jul) | 1.0% |  | -0.6% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.4% |  | 2.3% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.5% | 2.5% | 2.5% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) | 2.9% | -1.6% | 4.6% |
@@ -38,8 +38,8 @@
 | 10:15 | EUR | Low | Spanish 3-Year Bonos Auction | 2.531% |  | 2.701% |
 | 10:15 | EUR | Low | Spanish 5-Year Bonos Auction | 2.580% |  | 2.974% |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 1.0% |  | 9.2% |
 | 12:30 | USD | Low | Challenger Job Cuts (Aug) | 75.891K |  | 25.885K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 1.0% |  | 9.2% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 99K | 144K | 111K |
 | 13:15 | CAD | Low | Reserve Assets Total (Aug) | 125.8B |  | 124.2B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,838K | 1,870K | 1,860K |
@@ -72,6 +72,6 @@
 | 16:00 | USD | Low | Gasoline Inventories | 0.848M | -0.800M | -2.203M |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.080% |  | 5.170% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.040% |  | 5.100% |
-| 54 min | BRL | Low | Trade Balance (Aug) |  | 6.10B | 7.64B |
+| 19:00 | BRL | Low | Trade Balance (Aug) | 4.83B | 6.10B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,123B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
