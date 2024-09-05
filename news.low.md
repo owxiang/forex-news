@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
-| 00:00 | KRW | GDP (YoY) (Q2) |  | 2.3% | 3.3% |
-| 24 min | JPY | Overall wage income of employees (Jul) |  | 3.0% | 4.5% |
-| 24 min | JPY | Overtime Pay (YoY) (Jul) |  |  | 0.90% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 1,542.9B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -438.3B |
+| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
+| 00:30 | JPY | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
+| 00:30 | JPY | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
+| 00:50 | JPY | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -824.4B |  | -442.6B |
 | 02:30 | AUD | Exports (MoM) (Jul) |  |  | 1.7% |
 | 02:30 | AUD | Imports (MoM) (Jul) |  |  | 0.5% |
 | 03:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
