@@ -13,4 +13,4 @@
 | 14:45 | USD | S&P Global Composite PMI (Aug) | 54.6 | 54.1 | 54.3 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Aug) | 50.2 | 50.5 | 51.1 |
 | 16:00 | USD | Cushing Crude Oil Inventories | -1.142M |  | -0.668M |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,123B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,123B |
