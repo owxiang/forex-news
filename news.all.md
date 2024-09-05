@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -38,9 +38,8 @@
 | 10:15 | EUR | Low | Spanish 3-Year Bonos Auction | 2.531% |  | 2.701% |
 | 10:15 | EUR | Low | Spanish 5-Year Bonos Auction | 2.580% |  | 2.974% |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 9.2% |
-| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 25.885K |
-| 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 9.2% |
+| 24 min | USD | Low | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 144K | 122K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,868K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 231K | 231K |

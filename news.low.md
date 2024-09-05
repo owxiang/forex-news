@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
+| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:30 | JPY | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -34,9 +34,8 @@
 | 10:15 | EUR | Spanish 3-Year Bonos Auction | 2.531% |  | 2.701% |
 | 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.580% |  | 2.974% |
 | 10:30 | EUR | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
-| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
-| 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
+| 24 min | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
+| 24 min | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  | 229.00K | 231.50K |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 52.4 |
