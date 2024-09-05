@@ -12,8 +12,8 @@
 | 02:30 | AUD | Imports (MoM) (Jul) | -0.8% |  | 0.4% |
 | 03:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | 30-Year JGB Auction | 2.043% |  | 2.230% |
-| 06:00 | SGD | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
 | 06:00 | SGD | Retail Sales (YoY) (Jul) | 1.0% |  | -0.6% |
+| 06:00 | SGD | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Aug) | 2.4% |  | 2.3% |
 | 06:45 | CHF | Unemployment Rate s.a. (Aug) | 2.5% | 2.5% | 2.5% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) | 46.6 |  | 45.0 |
@@ -34,8 +34,8 @@
 | 10:15 | EUR | Spanish 3-Year Bonos Auction | 2.531% |  | 2.701% |
 | 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.580% |  | 2.974% |
 | 10:30 | EUR | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
-| 12:30 | USD | Challenger Job Cuts (Aug) | 75.891K |  | 25.885K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 1.0% |  | 9.2% |
+| 12:30 | USD | Challenger Job Cuts (Aug) | 75.891K |  | 25.885K |
 | 13:15 | CAD | Reserve Assets Total (Aug) | 125.8B |  | 124.2B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 230.00K | 229.00K | 231.75K |
 | 14:00 | BRL | Auto Production (MoM) (Jul) | 5.2% |  | 26.6% |
