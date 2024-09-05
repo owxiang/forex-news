@@ -56,4 +56,4 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.080% |  | 5.170% |
 | 16:30 | USD | 8-Week Bill Auction | 5.040% |  | 5.100% |
 | 19:00 | BRL | Trade Balance (Aug) | 4.83B | 6.10B | 7.61B |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.265T |  | 3.245T |

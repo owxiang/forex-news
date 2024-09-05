@@ -73,5 +73,5 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.080% |  | 5.170% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.040% |  | 5.100% |
 | 19:00 | BRL | Low | Trade Balance (Aug) | 4.83B | 6.10B | 7.61B |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,123B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,113B |  | 7,123B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.265T |  | 3.245T |
