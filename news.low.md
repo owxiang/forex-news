@@ -36,7 +36,10 @@
 | 10:30 | EUR | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 1.0% |  | 9.2% |
 | 12:30 | USD | Challenger Job Cuts (Aug) | 75.891K |  | 25.885K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  | 229.00K | 231.50K |
+| 13:15 | CAD | Reserve Assets Total (Aug) | 125.8B |  | 124.2B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 230.00K | 229.00K | 231.75K |
+| 14:00 | BRL | Auto Production (MoM) (Jul) | 5.2% |  | 26.6% |
+| 14:00 | BRL | Auto Sales (MoM) (Jul) | -1.6% |  | 10.3% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  | 51.9 | 52.4 |
 | 15:00 | USD | Redbook (YoY) |  |  | 5.0% |
@@ -52,7 +55,5 @@
 | 16:00 | USD | Gasoline Inventories |  | -0.800M | -2.203M |
 | 16:25 | USD | 8-Week Bill Auction |  |  | 5.100% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.170% |
-| 18:00 | BRL | Auto Production (MoM) (Aug) |  |  | 16.9% |
-| 18:00 | BRL | Auto Sales (MoM) (Aug) |  |  | 12.6% |
 | 19:00 | BRL | Trade Balance (Aug) |  | 6.10B | 7.64B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |

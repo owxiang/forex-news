@@ -40,13 +40,16 @@
 | 10:30 | EUR | Low | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 1.0% |  | 9.2% |
 | 12:30 | USD | Low | Challenger Job Cuts (Aug) | 75.891K |  | 25.885K |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 144K | 122K |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,868K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 231K | 231K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 229.00K | 231.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) |  | 2.3% | 0.2% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) |  | 0.9% | 4.0% |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | -0.1% | -0.3% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 99K | 144K | 111K |
+| 13:15 | CAD | Low | Reserve Assets Total (Aug) | 125.8B |  | 124.2B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,838K | 1,870K | 1,860K |
+| 13:30 | USD | High | Initial Jobless Claims | 227K | 231K | 232K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 230.00K | 229.00K | 231.75K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 2.5% | 2.3% | 0.2% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 0.4% | 0.9% | 4.0% |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) | -0.2% | -0.1% | -0.3% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Jul) | 5.2% |  | 26.6% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Jul) | -1.6% |  | 10.3% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 54.1 | 54.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 55.2 | 55.0 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
@@ -69,8 +72,6 @@
 | 16:00 | USD | Low | Gasoline Inventories |  | -0.800M | -2.203M |
 | 16:25 | USD | Low | 8-Week Bill Auction |  |  | 5.100% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.170% |
-| 18:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 16.9% |
-| 18:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | 12.6% |
 | 19:00 | BRL | Low | Trade Balance (Aug) |  | 6.10B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,123B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
