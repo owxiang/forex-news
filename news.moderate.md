@@ -10,7 +10,7 @@
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 2.5% | 2.3% | 0.2% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q2) | 0.4% | 0.9% | 4.0% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q2) | -0.2% | -0.1% | -0.3% |
-| 14:45 | USD | S&P Global Composite PMI (Aug) |  | 54.1 | 54.3 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) |  | 50.5 | 51.1 |
-| 16:00 | USD | Cushing Crude Oil Inventories |  |  | -0.668M |
+| 14:45 | USD | S&P Global Composite PMI (Aug) | 54.6 | 54.1 | 54.3 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Aug) | 50.2 | 50.5 | 51.1 |
+| 55 min | USD | Cushing Crude Oil Inventories |  |  | -0.668M |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,123B |
