@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -52,6 +52,8 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (Jul) | -1.6% |  | 10.3% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 54.6 | 54.1 | 54.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) | 55.7 | 55.2 | 55.0 |
+| 15:00 | USD | Low | All Car Sales (Jul) | 2.87M |  | 2.99M |
+| 15:00 | USD | Low | All Truck Sales (Aug) | 12.26M |  | 12.85M |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) | 53.3 |  | 54.5 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) | 50.2 | 50.5 | 51.1 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) | 53.0 | 51.9 | 52.4 |
@@ -68,8 +70,8 @@
 | 16:00 | USD | Low | Heating Oil Stockpiles | 0.939M |  | -1.189M |
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | 1.0% |
 | 16:00 | USD | Low | Gasoline Inventories | 0.848M | -0.800M | -2.203M |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.170% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.100% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.080% |  | 5.170% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.040% |  | 5.100% |
 | 19:00 | BRL | Low | Trade Balance (Aug) |  | 6.10B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,123B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
+| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:30 | JPY | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -40,6 +40,8 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 230.00K | 229.00K | 231.75K |
 | 14:00 | BRL | Auto Production (MoM) (Jul) | 5.2% |  | 26.6% |
 | 14:00 | BRL | Auto Sales (MoM) (Jul) | -1.6% |  | 10.3% |
+| 15:00 | USD | All Car Sales (Jul) | 2.87M |  | 2.99M |
+| 15:00 | USD | All Truck Sales (Aug) | 12.26M |  | 12.85M |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) | 53.3 |  | 54.5 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) | 53.0 | 51.9 | 52.4 |
 | 15:30 | USD | Natural Gas Storage | 13B | 26B | 35B |
@@ -51,7 +53,7 @@
 | 16:00 | USD | Heating Oil Stockpiles | 0.939M |  | -1.189M |
 | 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | 1.0% |
 | 16:00 | USD | Gasoline Inventories | 0.848M | -0.800M | -2.203M |
-| 24 min | USD | 4-Week Bill Auction |  |  | 5.170% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 5.100% |
+| 16:30 | USD | 4-Week Bill Auction | 5.080% |  | 5.170% |
+| 16:30 | USD | 8-Week Bill Auction | 5.040% |  | 5.100% |
 | 19:00 | BRL | Trade Balance (Aug) |  | 6.10B | 7.64B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
