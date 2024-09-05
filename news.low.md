@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
+| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:30 | JPY | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -21,18 +21,18 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) | 40.1 |  | 39.7 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 41.4 |  | 41.4 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 84,575.0 |  | 147,517.0 |
-| 33 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.107% |
-| 33 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.701% |
-| 33 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.974% |
-| 53 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.854% |
-| 53 min | EUR | French 10-Year OAT Auction |  |  | 3.01% |
-| 53 min | EUR | French 30-Year OAT Auction |  |  | 3.49% |
-| 53 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 53 min | EUR | Retail Sales (MoM) (Jul) |  | 0.1% | -0.3% |
-| 53 min | EUR | Retail Sales (YoY) (Jul) |  | 0.1% | -0.3% |
-| 53 min | ZAR | Current Account (Q2) |  |  | -84.6B |
-| 53 min | ZAR | Current Account % of GDP (Q2) |  |  | -1.20% |
-| 10:15 | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.811% |  | 3.854% |
+| 10:00 | EUR | French 10-Year OAT Auction | 2.95% |  | 3.01% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.49% |
+| 10:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.040% |  | 3.107% |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.701% |
+| 10:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.974% |
+| 10:00 | EUR | Retail Sales (MoM) (Jul) | 0.1% | 0.1% | -0.4% |
+| 10:00 | EUR | Retail Sales (YoY) (Jul) | -0.1% | 0.1% | -0.4% |
+| 10:00 | ZAR | Current Account (Q2) | -64.6B |  | -106.9B |
+| 10:00 | ZAR | Current Account % of GDP (Q2) | -0.90% |  | -1.50% |
+| 9 min | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
 | 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
 | 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
