@@ -72,6 +72,6 @@
 | 16:00 | USD | Low | Gasoline Inventories | 0.848M | -0.800M | -2.203M |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.080% |  | 5.170% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.040% |  | 5.100% |
-| 19:00 | BRL | Low | Trade Balance (Aug) |  | 6.10B | 7.64B |
+| 54 min | BRL | Low | Trade Balance (Aug) |  | 6.10B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,123B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
