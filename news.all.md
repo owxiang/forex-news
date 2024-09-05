@@ -13,11 +13,11 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jul) | 6.009B | 5.050B | 5.425B |
 | 03:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.043% |  | 2.230% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Jul) | 1.0% |  | -0.6% |
-| 39 min | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.3% |
-| 39 min | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.5% | 2.5% |
-| 54 min | EUR | Moderate | German Factory Orders (MoM) (Jul) |  | -1.6% | 3.9% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.4% |  | 2.3% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.5% | 2.5% | 2.5% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) | 2.9% | -1.6% | 4.6% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
@@ -36,8 +36,8 @@
 | 10:00 | ZAR | Low | Current Account (Q2) |  |  | -84.6B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | -1.20% |
 | 10:15 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -4.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 9.2% |
+| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 144K | 122K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,868K |

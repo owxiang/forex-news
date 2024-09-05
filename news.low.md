@@ -12,10 +12,10 @@
 | 02:30 | AUD | Imports (MoM) (Jul) | -0.8% |  | 0.4% |
 | 03:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | 30-Year JGB Auction | 2.043% |  | 2.230% |
-| 06:00 | SGD | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
 | 06:00 | SGD | Retail Sales (YoY) (Jul) | 1.0% |  | -0.6% |
-| 39 min | CHF | Unemployment Rate n.s.a. (Aug) |  |  | 2.3% |
-| 39 min | CHF | Unemployment Rate s.a. (Aug) |  | 2.5% | 2.5% |
+| 06:00 | SGD | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Aug) | 2.4% |  | 2.3% |
+| 06:45 | CHF | Unemployment Rate s.a. (Aug) | 2.5% | 2.5% | 2.5% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
@@ -32,8 +32,8 @@
 | 10:00 | ZAR | Current Account (Q2) |  |  | -84.6B |
 | 10:00 | ZAR | Current Account % of GDP (Q2) |  |  | -1.20% |
 | 10:15 | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
-| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
+| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  | 229.00K | 231.50K |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
