@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -38,8 +38,8 @@
 | 10:15 | EUR | Low | Spanish 3-Year Bonos Auction | 2.531% |  | 2.701% |
 | 10:15 | EUR | Low | Spanish 5-Year Bonos Auction | 2.580% |  | 2.974% |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
-| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 9.2% |
-| 24 min | USD | Low | Challenger Job Cuts (Aug) |  |  | 25.885K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 1.0% |  | 9.2% |
+| 12:30 | USD | Low | Challenger Job Cuts (Aug) | 75.891K |  | 25.885K |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 144K | 122K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,868K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 231K | 231K |
@@ -50,10 +50,10 @@
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 54.1 | 54.3 |
 | 14:45 | USD | High | S&P Global Services PMI (Aug) |  | 55.2 | 55.0 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) |  |  | 51.1 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) |  |  | 52.4 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) |  | 50.5 | 51.1 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) |  | 51.9 | 52.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) |  | 51.3 | 51.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) |  |  | 57.0 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) |  | 56.0 | 57.0 |
 | 15:00 | USD | Low | Redbook (YoY) |  |  | 5.0% |
 | 15:00 | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
 | 15:30 | USD | Low | Natural Gas Storage |  | 26B | 35B |
