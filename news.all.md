@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
 | 00:30 | JPY | Low | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
@@ -13,23 +13,26 @@
 | 02:30 | AUD | Moderate | Trade Balance (Jul) | 6.009B | 5.050B | 5.425B |
 | 03:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.043% |  | 2.230% |
-| 53 min | SGD | Low | Retail Sales (YoY) (Jul) |  |  | -0.6% |
-| 53 min | SGD | Low | Retail Sales (MoM) (Jul) |  |  | -3.7% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.3% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.5% | 2.5% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) |  | -1.6% | 3.9% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Jul) | 3.1% |  | -3.7% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Jul) | 1.0% |  | -0.6% |
+| 39 min | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.3% |
+| 39 min | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.5% | 2.5% |
+| 54 min | EUR | Moderate | German Factory Orders (MoM) (Jul) |  | -1.6% | 3.9% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 45.0 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 40.0 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 39.7 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 41.4 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 54.6 | 55.3 |
 | 09:35 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.107% |
+| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.701% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.974% |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.854% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.01% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.49% |
 | 10:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | 0.1% | -0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | 0.1% | -0.3% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | 0.1% | -0.3% |
 | 10:00 | ZAR | Low | Current Account (Q2) |  |  | -84.6B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | -1.20% |
 | 10:15 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -4.8% |
