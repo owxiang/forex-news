@@ -57,19 +57,19 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) | 53.0 | 51.9 | 52.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Aug) | 51.5 | 51.3 | 51.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Aug) | 57.3 | 56.0 | 57.0 |
-| 25 min | USD | Low | Natural Gas Storage |  | 26B | 35B |
-| 55 min | USD | High | Crude Oil Inventories |  | -0.600M | -0.846M |
-| 55 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.175M |
-| 55 min | USD | Low | Crude Oil Imports |  |  | 0.282M |
-| 55 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.668M |
-| 55 min | USD | Low | Distillate Fuel Production |  |  | 0.110M |
-| 55 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.710M | 0.275M |
-| 54 min | USD | Low | Gasoline Production |  |  | -0.156M |
-| 54 min | USD | Low | Heating Oil Stockpiles |  |  | -1.189M |
-| 54 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 54 min | USD | Low | Gasoline Inventories |  | -0.800M | -2.203M |
-| 16:25 | USD | Low | 8-Week Bill Auction |  |  | 5.100% |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.170% |
+| 15:30 | USD | Low | Natural Gas Storage | 13B | 26B | 35B |
+| 16:00 | USD | High | Crude Oil Inventories | -6.873M | -0.600M | -0.846M |
+| 16:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.036M |  | 0.175M |
+| 16:00 | USD | Low | Crude Oil Imports | -0.853M |  | 0.282M |
+| 16:00 | USD | Moderate | Cushing Crude Oil Inventories | -1.142M |  | -0.668M |
+| 16:00 | USD | Low | Distillate Fuel Production | 0.167M |  | 0.110M |
+| 16:00 | USD | Low | EIA Weekly Distillates Stocks | -0.371M | 0.710M | 0.275M |
+| 16:00 | USD | Low | Gasoline Production | 0.136M |  | -0.156M |
+| 16:00 | USD | Low | Heating Oil Stockpiles | 0.939M |  | -1.189M |
+| 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | 1.0% |
+| 16:00 | USD | Low | Gasoline Inventories | 0.848M | -0.800M | -2.203M |
+| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.170% |
+| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.100% |
 | 19:00 | BRL | Low | Trade Balance (Aug) |  | 6.10B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,123B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |

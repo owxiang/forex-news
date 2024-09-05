@@ -42,16 +42,16 @@
 | 14:00 | BRL | Auto Sales (MoM) (Jul) | -1.6% |  | 10.3% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) | 53.3 |  | 54.5 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Aug) | 53.0 | 51.9 | 52.4 |
-| 25 min | USD | Natural Gas Storage |  | 26B | 35B |
-| 55 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.175M |
-| 55 min | USD | Crude Oil Imports |  |  | 0.282M |
-| 55 min | USD | Distillate Fuel Production |  |  | 0.110M |
-| 55 min | USD | EIA Weekly Distillates Stocks |  | 0.710M | 0.275M |
-| 54 min | USD | Gasoline Production |  |  | -0.156M |
-| 54 min | USD | Heating Oil Stockpiles |  |  | -1.189M |
-| 54 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 54 min | USD | Gasoline Inventories |  | -0.800M | -2.203M |
-| 16:25 | USD | 8-Week Bill Auction |  |  | 5.100% |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 5.170% |
+| 15:30 | USD | Natural Gas Storage | 13B | 26B | 35B |
+| 16:00 | USD | EIA Refinery Crude Runs (WoW) | 0.036M |  | 0.175M |
+| 16:00 | USD | Crude Oil Imports | -0.853M |  | 0.282M |
+| 16:00 | USD | Distillate Fuel Production | 0.167M |  | 0.110M |
+| 16:00 | USD | EIA Weekly Distillates Stocks | -0.371M | 0.710M | 0.275M |
+| 16:00 | USD | Gasoline Production | 0.136M |  | -0.156M |
+| 16:00 | USD | Heating Oil Stockpiles | 0.939M |  | -1.189M |
+| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | 1.0% |
+| 16:00 | USD | Gasoline Inventories | 0.848M | -0.800M | -2.203M |
+| 24 min | USD | 4-Week Bill Auction |  |  | 5.170% |
+| 24 min | USD | 8-Week Bill Auction |  |  | 5.100% |
 | 19:00 | BRL | Trade Balance (Aug) |  | 6.10B | 7.64B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.245T |
