@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance (Jul) |  | 5.050B | 5.589B |
+| 02:30 | AUD | Trade Balance (Jul) | 6.009B | 5.050B | 5.425B |
 | 07:00 | EUR | German Factory Orders (MoM) (Jul) |  | -1.6% | 3.9% |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Aug) |  | 54.6 | 55.3 |
 | 09:35 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |

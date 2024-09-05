@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | -0.2% | 1.3% |
+| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.3% | 3.3% |
 | 00:30 | JPY | Overall wage income of employees (Jul) | 3.6% | 3.0% | 4.5% |
 | 00:30 | JPY | Overtime Pay (YoY) (Jul) | -0.10% |  | 0.90% |
 | 00:50 | JPY | Foreign Bonds Buying | 1,640.5B |  | 1,555.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -824.4B |  | -442.6B |
-| 02:30 | AUD | Exports (MoM) (Jul) |  |  | 1.7% |
-| 02:30 | AUD | Imports (MoM) (Jul) |  |  | 0.5% |
-| 27 min | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 02:30 | AUD | Exports (MoM) (Jul) | 0.7% |  | 1.4% |
+| 02:30 | AUD | Imports (MoM) (Jul) | -0.8% |  | 0.4% |
+| 03:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.230% |
 | 06:00 | SGD | Retail Sales (MoM) (Jul) |  |  | -3.7% |
 | 06:00 | SGD | Retail Sales (YoY) (Jul) |  |  | -0.6% |
@@ -29,8 +29,8 @@
 | 10:00 | ZAR | Current Account (Q2) |  |  | -84.6B |
 | 10:00 | ZAR | Current Account % of GDP (Q2) |  |  | -1.20% |
 | 10:15 | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
 | 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
 | 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  | 229.00K | 231.50K |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
