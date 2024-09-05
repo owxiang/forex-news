@@ -26,19 +26,20 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) | 53.6 | 54.6 | 55.3 |
 | 09:35 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.811% |  | 3.854% |
+| 10:00 | EUR | Low | German Car Registration (YoY) | -27.8% |  | -2.1% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 2.95% |  | 3.01% |
-| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.49% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 3.49% |  | 3.49% |
 | 10:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.040% |  | 3.107% |
-| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.701% |
-| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.974% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jul) | 0.1% | 0.1% | -0.4% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jul) | -0.1% | 0.1% | -0.4% |
 | 10:00 | ZAR | Low | Current Account (Q2) | -64.6B |  | -106.9B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q2) | -0.90% |  | -1.50% |
-| 9 min | EUR | Low | French Car Registration (YoY) (Jul) |  |  | -4.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 25.885K |
+| 10:15 | EUR | Low | Spanish 3-Year Bonos Auction | 2.531% |  | 2.701% |
+| 10:15 | EUR | Low | Spanish 5-Year Bonos Auction | 2.580% |  | 2.974% |
+| 10:30 | EUR | Low | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 9.2% |
+| 12:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 144K | 122K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,868K |

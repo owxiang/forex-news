@@ -22,19 +22,20 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 41.4 |  | 41.4 |
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 84,575.0 |  | 147,517.0 |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.811% |  | 3.854% |
+| 10:00 | EUR | German Car Registration (YoY) | -27.8% |  | -2.1% |
 | 10:00 | EUR | French 10-Year OAT Auction | 2.95% |  | 3.01% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.49% |
+| 10:00 | EUR | French 30-Year OAT Auction | 3.49% |  | 3.49% |
 | 10:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.040% |  | 3.107% |
-| 10:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.701% |
-| 10:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.974% |
 | 10:00 | EUR | Retail Sales (MoM) (Jul) | 0.1% | 0.1% | -0.4% |
 | 10:00 | EUR | Retail Sales (YoY) (Jul) | -0.1% | 0.1% | -0.4% |
 | 10:00 | ZAR | Current Account (Q2) | -64.6B |  | -106.9B |
 | 10:00 | ZAR | Current Account % of GDP (Q2) | -0.90% |  | -1.50% |
-| 9 min | EUR | French Car Registration (YoY) (Jul) |  |  | -4.8% |
-| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
+| 10:15 | EUR | Spanish 3-Year Bonos Auction | 2.531% |  | 2.701% |
+| 10:15 | EUR | Spanish 5-Year Bonos Auction | 2.580% |  | 2.974% |
+| 10:30 | EUR | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 9.2% |
+| 12:30 | USD | Challenger Job Cuts (Aug) |  |  | 25.885K |
 | 13:00 | EUR | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  | 229.00K | 231.50K |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 54.5 |
