@@ -11,9 +11,9 @@
 | 07:00 | EUR | German Trade Balance (Jul) | 16.8B | 21.0B | 20.4B |
 | 08:00 | CHF | SECO Consumer Climate | -35 | -33 | -19 |
 | 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 53 min | GBP | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
-| 53 min | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 53 min | EUR | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
+| 09:30 | GBP | Mortgage Rate (GBP) (Aug) | 7.83% |  | 8.03% |
+| 10:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
 | 13:30 | USD | Participation Rate (Aug) |  |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |

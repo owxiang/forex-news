@@ -31,16 +31,15 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -33 | -19 |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
 | 08:30 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
-| 23 min | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
-| 53 min | GBP | Moderate | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
-| 53 min | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
-| 53 min | EUR | Low | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
-| 53 min | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 53 min | EUR | Low | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
-| 53 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
-| 53 min | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
+| 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.83% |  | 8.03% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 423.40B |  | 419.10B |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 10:00 | EUR | Low | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | 0.83% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.9% |
