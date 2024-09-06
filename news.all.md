@@ -62,10 +62,9 @@
 | 13:30 | CAD | Low | Participation Rate (Aug) | 65.1% |  | 65.0% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Aug) | 6.6% | 6.5% | 6.4% |
 | 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 52 min | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
-| 52 min | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
-| 52 min | CAD | Moderate | Ivey PMI (Aug) |  | 55.3 | 57.6 |
-| 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) | 50.3 |  | 55.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (Aug) | 48.2 | 55.3 | 57.6 |
+| 55 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |

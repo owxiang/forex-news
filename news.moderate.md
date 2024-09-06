@@ -21,8 +21,8 @@
 | 13:30 | CAD | Employment Change (Aug) | 22.1K | 23.7K | -2.8K |
 | 13:30 | CAD | Unemployment Rate (Aug) | 6.6% | 6.5% | 6.4% |
 | 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
-| 52 min | CAD | Ivey PMI (Aug) |  | 55.3 | 57.6 |
-| 16:00 | USD | Fed Waller Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Aug) | 48.2 | 55.3 | 57.6 |
+| 55 min | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 583 |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |

@@ -40,8 +40,7 @@
 | 13:30 | CAD | Full Employment Change (Aug) | -43.6K |  | 61.6K |
 | 13:30 | CAD | Part Time Employment Change (Aug) | 65.7K |  | -64.4K |
 | 13:30 | CAD | Participation Rate (Aug) | 65.1% |  | 65.0% |
-| 52 min | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
-| 52 min | CAD | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
+| 15:00 | CAD | Ivey PMI n.s.a (Aug) | 50.3 |  | 55.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 17.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -148.5K |
