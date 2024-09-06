@@ -7,8 +7,8 @@
 | 02:30 | AUD | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
 | 04:35 | IDR | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
 | 06:00 | JPY | Leading Index (Jul) | 109.5 | 109.4 | 109.1 |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
 | 07:00 | EUR | German Exports (MoM) (Jul) | 1.7% | 1.2% | -3.4% |
 | 07:00 | EUR | German Imports (MoM) (Jul) | 5.4% | 0.3% | 0.3% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jul) | -5.29% |  | -3.61% |

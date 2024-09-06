@@ -10,8 +10,8 @@
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
 | 04:35 | IDR | Low | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
 | 06:00 | JPY | Low | Leading Index (Jul) | 109.5 | 109.4 | 109.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) | 4.3% | 4.2% | 2.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.9% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) | 1.7% | 1.2% | -3.4% |
@@ -64,7 +64,7 @@
 | 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) | 50.3 |  | 55.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Aug) | 48.2 | 55.3 | 57.6 |
-| 55 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
