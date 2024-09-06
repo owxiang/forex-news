@@ -15,14 +15,15 @@
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) | 2.0% |  | 2.0% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Aug) | 63.21B |  | 62.27B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Aug) | 60.141B |  | 59.165B |
-| 37 min | EUR | French Current Account (Jul) |  |  | -2.60B |
-| 37 min | EUR | French Exports (Jul) |  |  | 51.7B |
-| 37 min | EUR | French Imports (Jul) |  |  | 57.7B |
-| 37 min | EUR | French Industrial Production (MoM) (Jul) |  | -0.3% | 0.8% |
-| 37 min | EUR | French Trade Balance (Jul) |  | -6.5B | -6.1B |
-| 52 min | CHF | Foreign Reserves (USD) (Aug) |  |  | 703.5B |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
+| 07:45 | EUR | French Current Account (Jul) | -1.20B |  | -2.50B |
+| 07:45 | EUR | French Exports (Jul) | 49.8B |  | 51.5B |
+| 07:45 | EUR | French Imports (Jul) | 55.7B |  | 57.5B |
+| 07:45 | EUR | French Industrial Production (MoM) (Jul) | -0.5% | -0.3% | 0.8% |
+| 07:45 | EUR | French Reserve Assets Total (Aug) | 254,092.0M |  | 252,082.0M |
+| 07:45 | EUR | French Trade Balance (Jul) | -5.9B | -6.5B | -6.0B |
+| 08:00 | CHF | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
+| 54 min | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
+| 54 min | EUR | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |

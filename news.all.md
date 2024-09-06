@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Jul) | 9.13B |  | 12.26B |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Aug) | 1,235.7B |  | 1,219.1B |
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 1.0% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
@@ -12,8 +12,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
 | 06:00 | JPY | Low | Leading Index (Jul) | 109.5 | 109.4 | 109.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) | 4.3% | 4.2% | 2.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) | 4.3% | 4.2% | 2.4% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) | 1.7% | 1.2% | -3.4% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jul) | 5.4% | 0.3% | 0.3% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) | -2.4% | -0.4% | 1.7% |
@@ -22,16 +22,17 @@
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jul) | 2.0% |  | 2.0% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Aug) | 63.21B |  | 62.27B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Aug) | 60.141B |  | 59.165B |
-| 37 min | EUR | Low | French Current Account (Jul) |  |  | -2.60B |
-| 37 min | EUR | Low | French Exports (Jul) |  |  | 51.7B |
-| 37 min | EUR | Low | French Imports (Jul) |  |  | 57.7B |
-| 37 min | EUR | Low | French Industrial Production (MoM) (Jul) |  | -0.3% | 0.8% |
-| 37 min | EUR | Low | French Trade Balance (Jul) |  | -6.5B | -6.1B |
-| 52 min | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 703.5B |
-| 52 min | CHF | Moderate | SECO Consumer Climate |  | -33 | -19 |
-| 52 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
+| 07:45 | EUR | Low | French Current Account (Jul) | -1.20B |  | -2.50B |
+| 07:45 | EUR | Low | French Exports (Jul) | 49.8B |  | 51.5B |
+| 07:45 | EUR | Low | French Imports (Jul) | 55.7B |  | 57.5B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) | -0.5% | -0.3% | 0.8% |
+| 07:45 | EUR | Low | French Reserve Assets Total (Aug) | 254,092.0M |  | 252,082.0M |
+| 07:45 | EUR | Low | French Trade Balance (Jul) | -5.9B | -6.5B | -6.0B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
+| 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -33 | -19 |
+| 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 54 min | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
+| 54 min | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
