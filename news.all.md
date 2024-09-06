@@ -45,26 +45,26 @@
 | 12:30 | INR | Low | Bank Loan Growth | 13.6% |  | 13.6% |
 | 12:30 | INR | Low | Deposit Growth | 10.8% |  | 10.9% |
 | 12:30 | INR | Low | FX Reserves, USD | 683.99B |  | 681.69B |
-| 21 min | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.2% |
-| 21 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
-| 21 min | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.2 |
-| 21 min | USD | Low | Government Payrolls (Aug) |  |  | 17.0K |
-| 21 min | USD | Low | Manufacturing Payrolls (Aug) |  | 0K | 1K |
-| 21 min | USD | High | Nonfarm Payrolls (Aug) |  | 164K | 114K |
-| 21 min | USD | Moderate | Participation Rate (Aug) |  |  | 62.7% |
-| 21 min | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |
-| 21 min | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.8% |
-| 21 min | USD | High | Unemployment Rate (Aug) |  | 4.2% | 4.3% |
-| 21 min | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 5.2% |
-| 21 min | CAD | Moderate | Employment Change (Aug) |  | 23.7K | -2.8K |
-| 21 min | CAD | Low | Full Employment Change (Aug) |  |  | 61.6K |
-| 21 min | CAD | Low | Part Time Employment Change (Aug) |  |  | -64.4K |
-| 21 min | CAD | Low | Participation Rate (Aug) |  |  | 65.0% |
-| 21 min | CAD | Moderate | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
-| 36 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
-| 15:00 | CAD | Moderate | Ivey PMI (Aug) |  | 55.3 | 57.6 |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) | 0.4% | 0.3% | -0.1% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) | 3.8% | 3.7% | 3.6% |
+| 13:30 | USD | Low | Average Weekly Hours (Aug) | 34.3 | 34.3 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Aug) | 24.0K |  | 15.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Aug) | -24K | 0K | 6K |
+| 13:30 | USD | High | Nonfarm Payrolls (Aug) | 142K | 164K | 89K |
+| 13:30 | USD | Moderate | Participation Rate (Aug) | 62.7% |  | 62.7% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) | 118K | 139K | 74K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Aug) | 7.9% |  | 7.8% |
+| 13:30 | USD | High | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.3% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) | 4.9% |  | 5.2% |
+| 13:30 | CAD | Moderate | Employment Change (Aug) | 22.1K | 23.7K | -2.8K |
+| 13:30 | CAD | Low | Full Employment Change (Aug) | -43.6K |  | 61.6K |
+| 13:30 | CAD | Low | Part Time Employment Change (Aug) | 65.7K |  | -64.4K |
+| 13:30 | CAD | Low | Participation Rate (Aug) | 65.1% |  | 65.0% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Aug) | 6.6% | 6.5% | 6.4% |
+| 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 52 min | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
+| 52 min | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
+| 52 min | CAD | Moderate | Ivey PMI (Aug) |  | 55.3 | 57.6 |
 | 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |

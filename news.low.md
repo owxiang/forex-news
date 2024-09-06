@@ -33,15 +33,15 @@
 | 12:30 | INR | Bank Loan Growth | 13.6% |  | 13.6% |
 | 12:30 | INR | Deposit Growth | 10.8% |  | 10.9% |
 | 12:30 | INR | FX Reserves, USD | 683.99B |  | 681.69B |
-| 21 min | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.2 |
-| 21 min | USD | Government Payrolls (Aug) |  |  | 17.0K |
-| 21 min | USD | Manufacturing Payrolls (Aug) |  | 0K | 1K |
-| 21 min | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 5.2% |
-| 21 min | CAD | Full Employment Change (Aug) |  |  | 61.6K |
-| 21 min | CAD | Part Time Employment Change (Aug) |  |  | -64.4K |
-| 21 min | CAD | Participation Rate (Aug) |  |  | 65.0% |
-| 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
-| 15:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
+| 13:30 | USD | Average Weekly Hours (Aug) | 34.3 | 34.3 | 34.2 |
+| 13:30 | USD | Government Payrolls (Aug) | 24.0K |  | 15.0K |
+| 13:30 | USD | Manufacturing Payrolls (Aug) | -24K | 0K | 6K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Aug) | 4.9% |  | 5.2% |
+| 13:30 | CAD | Full Employment Change (Aug) | -43.6K |  | 61.6K |
+| 13:30 | CAD | Part Time Employment Change (Aug) | 65.7K |  | -64.4K |
+| 13:30 | CAD | Participation Rate (Aug) | 65.1% |  | 65.0% |
+| 52 min | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
+| 52 min | CAD | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 17.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -148.5K |
