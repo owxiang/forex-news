@@ -45,8 +45,8 @@
 | 12:30 | INR | Low | Bank Loan Growth | 13.6% |  | 13.6% |
 | 12:30 | INR | Low | Deposit Growth | 10.8% |  | 10.9% |
 | 12:30 | INR | Low | FX Reserves, USD | 683.99B |  | 681.69B |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) | 3.8% | 3.7% | 3.6% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) | 0.4% | 0.3% | -0.1% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) | 3.8% | 3.7% | 3.6% |
 | 13:30 | USD | Low | Average Weekly Hours (Aug) | 34.3 | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Aug) | 24.0K |  | 15.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Aug) | -24K | 0K | 6K |
