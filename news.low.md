@@ -22,13 +22,13 @@
 | 07:45 | EUR | French Reserve Assets Total (Aug) | 254,092.0M |  | 252,082.0M |
 | 07:45 | EUR | French Trade Balance (Jul) | -5.9B | -6.5B | -6.0B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
-| 54 min | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
-| 54 min | EUR | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
-| 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
-| 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 10:00 | EUR | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
+| 08:30 | EUR | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
+| 08:30 | EUR | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
+| 23 min | HKD | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
+| 53 min | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
+| 53 min | EUR | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
+| 53 min | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 53 min | EUR | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | 0.83% |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 12:30 | INR | Deposit Growth |  |  | 10.9% |

@@ -12,8 +12,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
 | 06:00 | JPY | Low | Leading Index (Jul) | 109.5 | 109.4 | 109.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) | 4.3% | 4.2% | 2.4% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.9% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) | 1.7% | 1.2% | -3.4% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jul) | 5.4% | 0.3% | 0.3% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) | -2.4% | -0.4% | 1.7% |
@@ -31,16 +31,16 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -33 | -19 |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 54 min | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
-| 54 min | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
-| 10:00 | EUR | Low | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
+| 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
+| 08:30 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
+| 23 min | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
+| 53 min | GBP | Moderate | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
+| 53 min | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
+| 53 min | EUR | Low | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
+| 53 min | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
+| 53 min | EUR | Low | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
+| 53 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
+| 53 min | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | 0.83% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.9% |
