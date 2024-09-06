@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Jul) | 9.13B |  | 12.26B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Aug) | 1,235.7B |  | 1,219.1B |
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 1.0% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
 | 04:35 | IDR | Low | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
-| 06:00 | JPY | Low | Leading Index (Jul) | 109.5 | 109.4 | 109.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
+| 06:00 | JPY | Low | Leading Index (Jul) | 109.5 | 109.4 | 109.1 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) | 4.3% | 4.2% | 2.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.9% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) | 1.7% | 1.2% | -3.4% |
@@ -38,15 +38,15 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q2) | 168,332.9K | 168,403.5K | 168,403.5K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) | 89.4 |  | 88.4 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.12% |  | 0.83% |
 | 12:30 | INR | Low | Bank Loan Growth | 13.6% |  | 13.6% |
 | 12:30 | INR | Low | Deposit Growth | 10.8% |  | 10.9% |
 | 12:30 | INR | Low | FX Reserves, USD | 683.99B |  | 681.69B |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) | 0.4% | 0.3% | -0.1% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) | 3.8% | 3.7% | 3.6% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) | 0.4% | 0.3% | -0.1% |
 | 13:30 | USD | Low | Average Weekly Hours (Aug) | 34.3 | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Aug) | 24.0K |  | 15.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Aug) | -24K | 0K | 6K |
@@ -65,8 +65,8 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) | 50.3 |  | 55.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Aug) | 48.2 | 55.3 | 57.6 |
 | 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 89.9K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.2K |
