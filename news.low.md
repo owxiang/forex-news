@@ -27,8 +27,8 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) | 423.40B |  | 419.10B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
-| 10:00 | EUR | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | 0.83% |
+| 10:00 | EUR | Employment Overall (Q2) | 168,332.9K | 168,403.5K | 168,403.5K |
+| 54 min | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | 0.83% |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 12:30 | INR | Deposit Growth |  |  | 10.9% |
 | 12:30 | INR | FX Reserves, USD |  |  | 681.69B |
