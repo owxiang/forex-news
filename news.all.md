@@ -31,37 +31,37 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -33 | -19 |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
 | 08:30 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
+| 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.83% |  | 8.03% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 423.40B |  | 419.10B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q2) | 168,332.9K | 168,403.5K | 168,403.5K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) | 89.4 |  | 88.4 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.12% |  | 0.83% |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.9% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 681.69B |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.2% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
-| 13:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.2 |
-| 13:30 | USD | Low | Government Payrolls (Aug) |  |  | 17.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Aug) |  | 0K | 1K |
-| 13:30 | USD | High | Nonfarm Payrolls (Aug) |  | 164K | 114K |
-| 13:30 | USD | Moderate | Participation Rate (Aug) |  |  | 62.7% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.8% |
-| 13:30 | USD | High | Unemployment Rate (Aug) |  | 4.2% | 4.3% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 5.2% |
-| 13:30 | CAD | Moderate | Employment Change (Aug) |  | 23.7K | -2.8K |
-| 13:30 | CAD | Low | Full Employment Change (Aug) |  |  | 61.6K |
-| 13:30 | CAD | Low | Part Time Employment Change (Aug) |  |  | -64.4K |
-| 13:30 | CAD | Low | Participation Rate (Aug) |  |  | 65.0% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
-| 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 12:30 | INR | Low | Bank Loan Growth | 13.6% |  | 13.6% |
+| 12:30 | INR | Low | Deposit Growth | 10.8% |  | 10.9% |
+| 12:30 | INR | Low | FX Reserves, USD | 683.99B |  | 681.69B |
+| 21 min | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.2% |
+| 21 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
+| 21 min | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.2 |
+| 21 min | USD | Low | Government Payrolls (Aug) |  |  | 17.0K |
+| 21 min | USD | Low | Manufacturing Payrolls (Aug) |  | 0K | 1K |
+| 21 min | USD | High | Nonfarm Payrolls (Aug) |  | 164K | 114K |
+| 21 min | USD | Moderate | Participation Rate (Aug) |  |  | 62.7% |
+| 21 min | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |
+| 21 min | USD | Moderate | U6 Unemployment Rate (Aug) |  |  | 7.8% |
+| 21 min | USD | High | Unemployment Rate (Aug) |  | 4.2% | 4.3% |
+| 21 min | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 5.2% |
+| 21 min | CAD | Moderate | Employment Change (Aug) |  | 23.7K | -2.8K |
+| 21 min | CAD | Low | Full Employment Change (Aug) |  |  | 61.6K |
+| 21 min | CAD | Low | Part Time Employment Change (Aug) |  |  | -64.4K |
+| 21 min | CAD | Low | Participation Rate (Aug) |  |  | 65.0% |
+| 21 min | CAD | Moderate | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
+| 36 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Aug) |  | 55.3 | 57.6 |

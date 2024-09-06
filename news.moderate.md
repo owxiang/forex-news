@@ -14,13 +14,13 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Aug) | 7.83% |  | 8.03% |
 | 10:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
-| 13:30 | USD | Participation Rate (Aug) |  |  | 62.7% |
-| 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |
-| 13:30 | USD | U6 Unemployment Rate (Aug) |  |  | 7.8% |
-| 13:30 | CAD | Employment Change (Aug) |  | 23.7K | -2.8K |
-| 13:30 | CAD | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
-| 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 21 min | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
+| 21 min | USD | Participation Rate (Aug) |  |  | 62.7% |
+| 21 min | USD | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |
+| 21 min | USD | U6 Unemployment Rate (Aug) |  |  | 7.8% |
+| 21 min | CAD | Employment Change (Aug) |  | 23.7K | -2.8K |
+| 21 min | CAD | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
+| 36 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Aug) |  | 55.3 | 57.6 |
 | 16:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |

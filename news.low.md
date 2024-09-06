@@ -22,24 +22,24 @@
 | 07:45 | EUR | French Reserve Assets Total (Aug) | 254,092.0M |  | 252,082.0M |
 | 07:45 | EUR | French Trade Balance (Jul) | -5.9B | -6.5B | -6.0B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
-| 08:30 | EUR | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
 | 08:30 | EUR | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
+| 08:30 | EUR | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) | 423.40B |  | 419.10B |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Employment Overall (Q2) | 168,332.9K | 168,403.5K | 168,403.5K |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) | 89.4 |  | 88.4 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.12% |  | 0.83% |
-| 24 min | INR | Bank Loan Growth |  |  | 13.6% |
-| 24 min | INR | Deposit Growth |  |  | 10.9% |
-| 24 min | INR | FX Reserves, USD |  |  | 681.69B |
-| 13:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.2 |
-| 13:30 | USD | Government Payrolls (Aug) |  |  | 17.0K |
-| 13:30 | USD | Manufacturing Payrolls (Aug) |  | 0K | 1K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 5.2% |
-| 13:30 | CAD | Full Employment Change (Aug) |  |  | 61.6K |
-| 13:30 | CAD | Part Time Employment Change (Aug) |  |  | -64.4K |
-| 13:30 | CAD | Participation Rate (Aug) |  |  | 65.0% |
+| 12:30 | INR | Bank Loan Growth | 13.6% |  | 13.6% |
+| 12:30 | INR | Deposit Growth | 10.8% |  | 10.9% |
+| 12:30 | INR | FX Reserves, USD | 683.99B |  | 681.69B |
+| 21 min | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.2 |
+| 21 min | USD | Government Payrolls (Aug) |  |  | 17.0K |
+| 21 min | USD | Manufacturing Payrolls (Aug) |  | 0K | 1K |
+| 21 min | CAD | Avg hourly wages Permanent employee (Aug) |  |  | 5.2% |
+| 21 min | CAD | Full Employment Change (Aug) |  |  | 61.6K |
+| 21 min | CAD | Part Time Employment Change (Aug) |  |  | -64.4K |
+| 21 min | CAD | Participation Rate (Aug) |  |  | 65.0% |
 | 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
 | 15:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
