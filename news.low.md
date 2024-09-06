@@ -22,11 +22,11 @@
 | 07:45 | EUR | French Reserve Assets Total (Aug) | 254,092.0M |  | 252,082.0M |
 | 07:45 | EUR | French Trade Balance (Jul) | -5.9B | -6.5B | -6.0B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
-| 08:30 | EUR | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
 | 08:30 | EUR | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
+| 08:30 | EUR | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) | 423.40B |  | 419.10B |
-| 10:00 | EUR | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Overall (Q2) | 168,332.9K | 168,403.5K | 168,403.5K |
 | 12:00 | EUR | Spanish Consumer Confidence (Jul) | 89.4 |  | 88.4 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.12% |  | 0.83% |
