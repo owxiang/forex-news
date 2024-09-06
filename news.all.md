@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Jul) | 9.13B |  | 12.26B |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Aug) | 1,235.7B |  | 1,219.1B |
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 1.0% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
@@ -31,22 +31,22 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -33 | -19 |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:30 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
 | 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
+| 08:30 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.83% |  | 8.03% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 423.40B |  | 419.10B |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
 | 10:00 | EUR | Low | Employment Overall (Q2) | 168,332.9K | 168,403.5K | 168,403.5K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
-| 54 min | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | 0.83% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.9% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 681.69B |
-| 13:00 | EUR | Low | Spanish Consumer Confidence (Jul) |  |  | 88.4 |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
+| 12:00 | EUR | Low | Spanish Consumer Confidence (Jul) | 89.4 |  | 88.4 |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.12% |  | 0.83% |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
+| 24 min | INR | Low | Deposit Growth |  |  | 10.9% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 681.69B |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
 | 13:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Aug) |  |  | 17.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Aug) |  | 0K | 1K |
