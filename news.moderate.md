@@ -25,7 +25,7 @@
 | 16:00 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 483 |  | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 582 |  | 583 |
-| 25 min | EUR | German Buba Balz Speaks |  |  |  |
+| 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 89.9K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 226.7K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 294.4K |

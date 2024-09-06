@@ -31,12 +31,12 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 693.8B |  | 703.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -33 | -19 |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
 | 08:30 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 1.0% |  | -1.0% |
+| 08:30 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.5% | 0.1% | -0.2% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.83% |  | 8.03% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 423.40B |  | 419.10B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q2) | 0.8% | 0.8% | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q2) | 168,332.9K | 168,403.5K | 168,403.5K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.2% | 0.3% | 0.3% |
@@ -67,7 +67,7 @@
 | 16:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 483 |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 582 |  | 583 |
-| 25 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 89.9K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 17.1K |
