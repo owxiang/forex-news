@@ -9,26 +9,26 @@
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 1.0% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
 | 04:35 | IDR | Low | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) |  |  | -3.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) |  |  | -2.1% |
-| 06:00 | JPY | Low | Leading Index (Jul) |  | 109.4 | 109.0 |
-| 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
-| 07:00 | EUR | Low | German Exports (MoM) (Jul) |  | 1.2% | -3.4% |
-| 07:00 | EUR | Low | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | -0.4% | 1.4% |
-| 07:00 | EUR | Moderate | German Trade Balance (Jul) |  | 21.0B | 20.4B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jul) |  |  | -3.92% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jul) |  |  | 1.4% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Aug) |  |  | 62.27B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Aug) |  |  | 59.165B |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
+| 06:00 | JPY | Low | Leading Index (Jul) | 109.5 | 109.4 | 109.0 |
+| 24 min | EUR | Low | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
+| 54 min | GBP | Moderate | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
+| 54 min | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
+| 54 min | EUR | Low | German Exports (MoM) (Jul) |  | 1.2% | -3.4% |
+| 54 min | EUR | Low | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
+| 54 min | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | -0.4% | 1.4% |
+| 54 min | EUR | Moderate | German Trade Balance (Jul) |  | 21.0B | 20.4B |
+| 54 min | EUR | Low | German Industrial Production (YoY) (Jul) |  |  | -3.92% |
+| 54 min | NOK | Low | Manufacturing Production (MoM) (Jul) |  |  | 1.4% |
+| 54 min | ZAR | Low | Foreign Reserves (USD) (Aug) |  |  | 62.27B |
+| 54 min | ZAR | Low | Net FX Reserves (USD) (Aug) |  |  | 59.165B |
 | 07:45 | EUR | Low | French Current Account (Jul) |  |  | -2.60B |
 | 07:45 | EUR | Low | French Exports (Jul) |  |  | 51.7B |
 | 07:45 | EUR | Low | French Imports (Jul) |  |  | 57.7B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jul) |  | -0.3% | 0.8% |
 | 07:45 | EUR | Low | French Trade Balance (Jul) |  | -6.5B | -6.1B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 703,510.0B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 703.5B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -33 | -19 |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
@@ -63,7 +63,6 @@
 | 13:30 | CAD | Low | Participation Rate (Aug) |  |  | 65.0% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
 | 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Low | Redbook (YoY) |  |  | 5.0% |
 | 15:00 | USD | Low | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Aug) |  | 55.3 | 57.6 |

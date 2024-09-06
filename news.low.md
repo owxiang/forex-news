@@ -6,22 +6,22 @@
 | 00:50 | JPY | Foreign Reserves (USD) (Aug) | 1,235.7B |  | 1,219.1B |
 | 02:30 | AUD | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
 | 04:35 | IDR | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | -3.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) |  |  | -2.1% |
-| 06:00 | JPY | Leading Index (Jul) |  | 109.4 | 109.0 |
-| 06:30 | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
-| 07:00 | EUR | German Exports (MoM) (Jul) |  | 1.2% | -3.4% |
-| 07:00 | EUR | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jul) |  |  | -3.92% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Jul) |  |  | 1.4% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Aug) |  |  | 62.27B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Aug) |  |  | 59.165B |
+| 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
+| 06:00 | JPY | Leading Index (Jul) | 109.5 | 109.4 | 109.0 |
+| 24 min | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
+| 54 min | EUR | German Exports (MoM) (Jul) |  | 1.2% | -3.4% |
+| 54 min | EUR | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
+| 54 min | EUR | German Industrial Production (YoY) (Jul) |  |  | -3.92% |
+| 54 min | NOK | Manufacturing Production (MoM) (Jul) |  |  | 1.4% |
+| 54 min | ZAR | Foreign Reserves (USD) (Aug) |  |  | 62.27B |
+| 54 min | ZAR | Net FX Reserves (USD) (Aug) |  |  | 59.165B |
 | 07:45 | EUR | French Current Account (Jul) |  |  | -2.60B |
 | 07:45 | EUR | French Exports (Jul) |  |  | 51.7B |
 | 07:45 | EUR | French Imports (Jul) |  |  | 57.7B |
 | 07:45 | EUR | French Industrial Production (MoM) (Jul) |  | -0.3% | 0.8% |
 | 07:45 | EUR | French Trade Balance (Jul) |  | -6.5B | -6.1B |
-| 08:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 703,510.0B |
+| 08:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 703.5B |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
@@ -41,7 +41,6 @@
 | 13:30 | CAD | Full Employment Change (Aug) |  |  | 61.6K |
 | 13:30 | CAD | Part Time Employment Change (Aug) |  |  | -64.4K |
 | 13:30 | CAD | Participation Rate (Aug) |  |  | 65.0% |
-| 15:00 | USD | Redbook (YoY) |  |  | 5.0% |
 | 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
 | 15:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 55.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
