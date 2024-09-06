@@ -5,12 +5,12 @@
 | 00:30 | JPY | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
 | 00:30 | JPY | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
 | 02:30 | AUD | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 1.0% |
-| 54 min | GBP | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
-| 54 min | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
-| 54 min | EUR | German Industrial Production (MoM) (Jul) |  | -0.4% | 1.4% |
-| 54 min | EUR | German Trade Balance (Jul) |  | 21.0B | 20.4B |
-| 08:00 | CHF | SECO Consumer Climate |  | -33 | -19 |
-| 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Aug) | 4.3% | 4.2% | 2.4% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Aug) | 0.3% | 0.2% | 0.9% |
+| 07:00 | EUR | German Industrial Production (MoM) (Jul) | -2.4% | -0.4% | 1.7% |
+| 07:00 | EUR | German Trade Balance (Jul) | 16.8B | 21.0B | 20.4B |
+| 52 min | CHF | SECO Consumer Climate |  | -33 | -19 |
+| 52 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
 | 10:00 | EUR | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
 | 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |

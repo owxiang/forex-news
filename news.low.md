@@ -8,22 +8,21 @@
 | 04:35 | IDR | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.0% |  | -3.4% |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.4% |  | -2.1% |
-| 06:00 | JPY | Leading Index (Jul) | 109.5 | 109.4 | 109.0 |
-| 24 min | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
-| 54 min | EUR | German Exports (MoM) (Jul) |  | 1.2% | -3.4% |
-| 54 min | EUR | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
-| 54 min | EUR | German Industrial Production (YoY) (Jul) |  |  | -3.92% |
-| 54 min | NOK | Manufacturing Production (MoM) (Jul) |  |  | 1.4% |
-| 54 min | ZAR | Foreign Reserves (USD) (Aug) |  |  | 62.27B |
-| 54 min | ZAR | Net FX Reserves (USD) (Aug) |  |  | 59.165B |
-| 07:45 | EUR | French Current Account (Jul) |  |  | -2.60B |
-| 07:45 | EUR | French Exports (Jul) |  |  | 51.7B |
-| 07:45 | EUR | French Imports (Jul) |  |  | 57.7B |
-| 07:45 | EUR | French Industrial Production (MoM) (Jul) |  | -0.3% | 0.8% |
-| 07:45 | EUR | French Trade Balance (Jul) |  | -6.5B | -6.1B |
-| 08:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 703.5B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
+| 06:00 | JPY | Leading Index (Jul) | 109.5 | 109.4 | 109.1 |
+| 07:00 | EUR | German Exports (MoM) (Jul) | 1.7% | 1.2% | -3.4% |
+| 07:00 | EUR | German Imports (MoM) (Jul) | 5.4% | 0.3% | 0.3% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jul) | -5.29% |  | -3.61% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jul) | 2.0% |  | 2.0% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Aug) | 63.21B |  | 62.27B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Aug) | 60.141B |  | 59.165B |
+| 37 min | EUR | French Current Account (Jul) |  |  | -2.60B |
+| 37 min | EUR | French Exports (Jul) |  |  | 51.7B |
+| 37 min | EUR | French Imports (Jul) |  |  | 57.7B |
+| 37 min | EUR | French Industrial Production (MoM) (Jul) |  | -0.3% | 0.8% |
+| 37 min | EUR | French Trade Balance (Jul) |  | -6.5B | -6.1B |
+| 52 min | CHF | Foreign Reserves (USD) (Aug) |  |  | 703.5B |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
