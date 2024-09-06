@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
 | 00:30 | JPY | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
-| 02:30 | AUD | Home Loans (MoM) (Jul) |  | 1.0% | 0.5% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
+| 02:30 | AUD | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 0.5% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jul) |  | -0.4% | 1.4% |
 | 07:00 | EUR | German Trade Balance (Jul) |  | 21.0B | 20.4B |
 | 08:00 | CHF | SECO Consumer Climate |  | -33 | -19 |
