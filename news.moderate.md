@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Household Spending (YoY) (Jul) |  | 1.2% | -1.4% |
-| 24 min | JPY | Household Spending (MoM) (Jul) |  | -0.2% | 0.1% |
+| 00:30 | JPY | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
+| 00:30 | JPY | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
 | 02:30 | AUD | Home Loans (MoM) (Jul) |  | 1.0% | 0.5% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |

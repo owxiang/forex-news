@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Jul) | 9.13B |  | 12.26B |
-| 44 min | JPY | Foreign Reserves (USD) (Aug) |  |  | 1,219.1B |
+| 00:50 | JPY | Foreign Reserves (USD) (Aug) | 1,235.7B |  | 1,219.1B |
 | 02:30 | AUD | Invest Housing Finance (MoM) (Jul) |  |  | 2.7% |
 | 05:00 | IDR | FX Reserves (USD) (Aug) |  |  | 145.40B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | -3.4% |
-| 06:00 | JPY | Leading Index (Jul) |  | 109.4 | 109.0 |
 | 06:00 | JPY | Leading Index (MoM) (Jul) |  |  | -2.1% |
+| 06:00 | JPY | Leading Index (Jul) |  | 109.4 | 109.0 |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
 | 07:00 | EUR | German Exports (MoM) (Jul) |  | 1.0% | -3.4% |
 | 07:00 | EUR | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
@@ -26,8 +26,8 @@
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
-| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
+| 10:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.3% |
 | 10:00 | EUR | Employment Overall (Q2) |  | 168,403.5K | 168,082.0K |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | 0.83% |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.6% |
