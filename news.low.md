@@ -5,12 +5,12 @@
 | 00:00 | KRW | Current Account (Jul) | 9.13B |  | 12.26B |
 | 00:50 | JPY | Foreign Reserves (USD) (Aug) | 1,235.7B |  | 1,219.1B |
 | 02:30 | AUD | Invest Housing Finance (MoM) (Jul) | 5.4% |  | 2.7% |
-| 53 min | IDR | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | -3.4% |
+| 04:35 | IDR | FX Reserves (USD) (Aug) | 150.20B |  | 145.40B |
+| 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | -3.9% |
 | 06:00 | JPY | Leading Index (MoM) (Jul) |  |  | -2.1% |
 | 06:00 | JPY | Leading Index (Jul) |  | 109.4 | 109.0 |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
-| 07:00 | EUR | German Exports (MoM) (Jul) |  | 1.0% | -3.4% |
+| 07:00 | EUR | German Exports (MoM) (Jul) |  | 1.2% | -3.4% |
 | 07:00 | EUR | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jul) |  |  | -3.92% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jul) |  |  | 1.4% |

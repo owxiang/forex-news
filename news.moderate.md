@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
 | 00:30 | JPY | Household Spending (MoM) (Jul) | -1.7% | -0.2% | 0.1% |
-| 02:30 | AUD | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 0.5% |
+| 00:30 | JPY | Household Spending (YoY) (Jul) | 0.1% | 1.2% | -1.4% |
+| 02:30 | AUD | Home Loans (MoM) (Jul) | 2.9% | 1.0% | 1.0% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
 | 07:00 | EUR | German Industrial Production (MoM) (Jul) |  | -0.4% | 1.4% |
@@ -12,13 +12,13 @@
 | 08:00 | CHF | SECO Consumer Climate |  | -33 | -19 |
 | 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
-| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
 | 10:00 | EUR | GDP (YoY) (Q2) |  | 0.6% | 0.4% |
+| 10:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.3% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 3.7% | 3.6% |
 | 13:30 | USD | Participation Rate (Aug) |  |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (Aug) |  | 139K | 97K |
 | 13:30 | USD | U6 Unemployment Rate (Aug) |  |  | 7.8% |
-| 13:30 | CAD | Employment Change (Aug) |  | 25.6K | -2.8K |
+| 13:30 | CAD | Employment Change (Aug) |  | 23.7K | -2.8K |
 | 13:30 | CAD | Unemployment Rate (Aug) |  | 6.5% | 6.4% |
 | 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Aug) |  | 55.3 | 57.6 |
