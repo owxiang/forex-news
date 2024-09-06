@@ -13,8 +13,8 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) |  |  | -2.1% |
 | 06:00 | JPY | Low | Leading Index (Jul) |  | 109.4 | 109.0 |
 | 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) |  |  | 0.0% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) |  | 4.2% | 2.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | 0.2% | 0.8% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jul) |  | 1.0% | -3.4% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jul) |  | 0.3% | 0.3% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | -0.4% | 1.4% |
@@ -31,8 +31,8 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 703,510.0B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -33 | -19 |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) |  |  | 7.98% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |

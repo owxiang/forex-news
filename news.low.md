@@ -22,8 +22,8 @@
 | 07:45 | EUR | French Industrial Production (MoM) (Jul) |  | -0.3% | 0.8% |
 | 07:45 | EUR | French Trade Balance (Jul) |  | -6.5B | -6.1B |
 | 08:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 703,510.0B |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | -1.0% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.1% | -0.2% |
 | 09:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 419.30B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
 | 10:00 | EUR | Employment Change (YoY) (Q2) |  | 0.8% | 1.0% |
