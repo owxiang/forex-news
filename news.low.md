@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | CNY | FX Reserves (USD) (Aug) |  |  | 3.256T |
+| 54 min | CNY | FX Reserves (USD) (Aug) |  |  | 3.256T |
