@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | USD | Fed Waller Speaks |  |  |  |
+| 38 min | USD | Fed Waller Speaks |  |  |  |
