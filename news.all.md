@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 38 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 04:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 09:00 | CNY | Low | FX Reserves (USD) (Aug) |  |  | 3.256T |
