@@ -1,3 +1,5 @@
-## 07 September 2024 - High Impact Forex News
+## 09 September 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 00:50 | JPY | GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
