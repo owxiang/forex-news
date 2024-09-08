@@ -28,8 +28,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.70% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.308% |
