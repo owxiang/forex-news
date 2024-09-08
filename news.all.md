@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jul) |  | 1.93T | 177.63T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) |  |  | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) |  |  | 1.534T |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 3.1% |
 | 00:50 | JPY | High | GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 3.1% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.9% | 0.9% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) |  | 3.0% | 3.0% |
@@ -28,8 +28,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.70% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.308% |
