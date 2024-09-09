@@ -6,8 +6,8 @@
 | 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) | 0.8% | 0.9% | 0.9% |
 | 00:50 | JPY | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.1% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.9% | 1.0% | 1.0% |
-| 52 min | IDR | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
-| 06:00 | JPY | Economy Watchers Current Index (Aug) |  |  | 47.5 |
+| 05:00 | IDR | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
+| 53 min | JPY | Economy Watchers Current Index (Aug) |  |  | 47.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Sep) |  |  | -13.9 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |

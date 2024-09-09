@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 280.29T | 1.93T | 177.63T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.0% |  | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 3.193T |  | 1.534T |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 2.9% | 3.1% | 3.1% |
 | 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.7% | 0.8% | 0.8% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 2.9% | 3.1% | 3.1% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.8% | 0.9% | 0.9% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.1% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.1% | 3.0% | 3.0% |
@@ -15,8 +15,8 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (Aug) | 0.4% | 0.5% | 0.5% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Aug) | 0.6% | 0.7% | 0.5% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Aug) | -1.8% | -1.4% | -0.8% |
-| 52 min | IDR | Low | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Aug) |  |  | 47.5 |
+| 05:00 | IDR | Low | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
+| 53 min | JPY | Low | Economy Watchers Current Index (Aug) |  |  | 47.5 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Sep) |  |  | -13.9 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
