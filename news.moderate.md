@@ -9,8 +9,8 @@
 | 02:30 | CNY | CPI (MoM) (Aug) | 0.4% | 0.5% | 0.5% |
 | 02:30 | CNY | CPI (YoY) (Aug) | 0.6% | 0.7% | 0.5% |
 | 02:30 | CNY | PPI (YoY) (Aug) | -1.8% | -1.5% | -0.8% |
-| 13:00 | MXN | CPI (YoY) (Aug) |  |  | 5.57% |
-| 13:00 | MXN | CPI (MoM) (Aug) |  |  | 1.05% |
+| 54 min | MXN | CPI (MoM) (Aug) |  |  | 1.05% |
+| 54 min | MXN | CPI (YoY) (Aug) |  |  | 5.57% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Aug) |  |  | 3.0% |
 | 17:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.1% | 2.1% |
