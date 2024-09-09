@@ -27,18 +27,19 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.01% |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) | 4.99% |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 4.00% |  | 4.05% |
-| 13:00 | MXN | Low | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.859% |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.396% |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.258% |  | 3.308% |
 | 15:00 | USD | Low | CB Employment Trends Index (Aug) | 109.04 |  | 108.71 |
+| 15:00 | USD | Low | Total Vehicle Sales (Aug) | 15.10M | 15.40M | 15.80M |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jul) | 0.2% | 0.3% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) | 1.1% |  | -0.3% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Aug) | 3.0% |  | 3.0% |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.970% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.645% |
-| 54 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.1% | 2.1% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.895% |  | 4.970% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.530% |  | 4.645% |
+| 17:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.1% | 2.1% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 12.30B | 8.93B |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |

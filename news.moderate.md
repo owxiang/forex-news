@@ -12,6 +12,6 @@
 | 13:00 | MXN | CPI (MoM) (Aug) | 0.01% |  | 1.05% |
 | 13:00 | MXN | CPI (YoY) (Aug) | 4.99% |  | 5.57% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Aug) | 3.0% |  | 3.0% |
-| 54 min | EUR | ECB McCaul Speaks |  |  |  |
-| 17:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.1% | 2.1% |
+| 17:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 24 min | USD | Atlanta Fed GDPNow (Q3) |  | 2.1% | 2.1% |
 | 20:00 | USD | Consumer Credit (Jul) |  | 12.30B | 8.93B |
