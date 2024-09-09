@@ -10,7 +10,6 @@
 | 02:30 | CNY | CPI (MoM) (Aug) | 0.4% | 0.5% | 0.5% |
 | 02:30 | CNY | CPI (YoY) (Aug) | 0.6% | 0.7% | 0.5% |
 | 02:30 | CNY | PPI (YoY) (Aug) | -1.8% | -1.4% | -0.8% |
-| 04:00 | CNY | Imports (YoY) (Aug) |  |  | 7.2% |
 | 13:00 | MXN | CPI (MoM) (Aug) |  |  | 1.05% |
 | 13:00 | MXN | CPI (YoY) (Aug) |  |  | 5.57% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Aug) |  |  | 3.0% |
