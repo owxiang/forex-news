@@ -17,14 +17,14 @@
 | 13:00 | MXN | Consumer Confidence n.s.a. (Aug) | 47.0 |  | 47.0 |
 | 13:00 | MXN | Core CPI (MoM) (Aug) | 0.22% |  | 0.32% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Aug) | 4.00% |  | 4.05% |
-| 13:00 | MXN | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
 | 13:00 | MXN | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
+| 13:00 | MXN | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.859% |  | 2.997% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.396% |  | 3.462% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.258% |  | 3.308% |
 | 15:00 | USD | CB Employment Trends Index (Aug) | 109.04 |  | 108.71 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jul) | 0.2% | 0.3% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) | 1.1% |  | -0.3% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.970% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.645% |
-| 23:45 | NZD | Manufacturing Sales Volume (QoQ) |  |  | -0.4% |
+| 24 min | USD | 3-Month Bill Auction |  |  | 4.970% |
+| 24 min | USD | 6-Month Bill Auction |  |  | 4.645% |
+| 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
