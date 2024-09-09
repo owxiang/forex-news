@@ -13,19 +13,19 @@
 | 09:30 | EUR | Sentix Investor Confidence (Sep) | -15.4 | -12.4 | -13.9 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) | 384.6B |  | 378.6B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Consumer Confidence (Aug) | 47.6 |  | 46.9 |
+| 13:00 | MXN | Consumer Confidence (Aug) | 47.6 |  | 47.1 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Aug) | 47.0 |  | 47.0 |
 | 13:00 | MXN | Core CPI (MoM) (Aug) | 0.22% |  | 0.32% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Aug) | 4.00% |  | 4.05% |
 | 13:00 | MXN | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
 | 13:00 | MXN | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
-| 20 min | MXN | Consumer Confidence n.s.a. (Aug) |  |  | 47.0 |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.997% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.462% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.308% |
-| 15:00 | USD | CB Employment Trends Index (Aug) |  |  | 109.61 |
-| 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
-| 15:00 | USD | Wholesale Inventories (MoM) (Jul) |  | 0.3% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) |  |  | -0.6% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.859% |  | 2.997% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.396% |  | 3.462% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.258% |  | 3.308% |
+| 51 min | USD | CB Employment Trends Index (Aug) |  |  | 109.61 |
+| 51 min | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
+| 51 min | USD | Wholesale Inventories (MoM) (Jul) |  | 0.3% | 0.2% |
+| 51 min | USD | Wholesale Trade Sales (MoM) (Jul) |  |  | -0.6% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.970% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.645% |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) |  |  | -0.4% |
