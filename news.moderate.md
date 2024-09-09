@@ -14,4 +14,4 @@
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Aug) | 3.0% |  | 3.0% |
 | 17:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 2.1% | 2.1% |
-| 20:00 | USD | Consumer Credit (Jul) |  | 12.30B | 8.93B |
+| 20:00 | USD | Consumer Credit (Jul) | 25.45B | 12.30B | 5.23B |

@@ -27,8 +27,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.01% |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) | 4.99% |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 4.00% |  | 4.05% |
-| 13:00 | MXN | Low | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
+| 13:00 | MXN | Low | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.859% |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.396% |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.258% |  | 3.308% |
@@ -41,5 +41,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.530% |  | 4.645% |
 | 17:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 2.1% | 2.1% |
-| 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 12.30B | 8.93B |
+| 20:00 | USD | Moderate | Consumer Credit (Jul) | 25.45B | 12.30B | 5.23B |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
