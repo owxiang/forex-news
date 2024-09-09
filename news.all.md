@@ -11,8 +11,8 @@
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.5% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.1% | 3.0% | 3.4% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.9% | 1.0% | -0.6% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Aug) | 0.4% | 0.5% | 0.5% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Aug) | 0.6% | 0.7% | 0.5% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Aug) | 0.4% | 0.5% | 0.5% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Aug) | -1.8% | -1.5% | -0.8% |
 | 03:45 | IDR | Low | Motorbike Sales (YoY) (Aug) | 7.40% |  | 26.00% |
 | 04:20 | IDR | Low | Car Sales (YoY) (Aug) | -14.20% |  | -7.90% |
