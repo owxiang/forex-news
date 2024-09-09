@@ -12,16 +12,16 @@
 | 06:00 | JPY | Economy Watchers Current Index (Aug) | 49.0 | 47.6 | 47.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Sep) | -15.4 | -12.4 | -13.9 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) | 384.6B |  | 378.6B |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 54 min | MXN | Consumer Confidence (Aug) |  |  | 46.9 |
-| 54 min | MXN | Consumer Confidence n.s.a. (Aug) |  |  | 47.0 |
-| 54 min | MXN | Core CPI (MoM) (Aug) |  |  | 0.32% |
-| 54 min | MXN | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
-| 54 min | MXN | PPI (YoY) (Aug) |  |  | 5.50% |
-| 54 min | MXN | PPI (MoM) (Aug) |  |  | 0.70% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.997% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.462% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.308% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | MXN | Consumer Confidence (Aug) | 47.6 |  | 46.9 |
+| 13:00 | MXN | Core CPI (MoM) (Aug) | 0.22% |  | 0.32% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Aug) | 4.00% |  | 4.05% |
+| 13:00 | MXN | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
+| 13:00 | MXN | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
+| 20 min | MXN | Consumer Confidence n.s.a. (Aug) |  |  | 47.0 |
+| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.997% |
+| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.462% |
+| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.308% |
 | 15:00 | USD | CB Employment Trends Index (Aug) |  |  | 109.61 |
 | 15:00 | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jul) |  | 0.3% | 0.2% |
