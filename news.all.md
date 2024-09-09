@@ -18,8 +18,8 @@
 | 04:20 | IDR | Low | Car Sales (YoY) (Aug) | -14.20% |  | -7.90% |
 | 05:00 | IDR | Low | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Aug) | 49.0 | 47.6 | 47.5 |
-| 22 min | EUR | Low | Sentix Investor Confidence (Sep) |  | -12.4 | -13.9 |
-| 52 min | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Sep) | -15.4 | -12.4 | -13.9 |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 384.6B |  | 378.6B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Aug) |  |  | 46.9 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Aug) |  |  | 47.0 |
@@ -27,8 +27,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.70% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.308% |
