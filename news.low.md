@@ -22,10 +22,9 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.859% |  | 2.997% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.396% |  | 3.462% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.258% |  | 3.308% |
-| 51 min | USD | CB Employment Trends Index (Aug) |  |  | 109.61 |
-| 51 min | USD | Total Vehicle Sales (Aug) |  | 15.40M | 15.80M |
-| 51 min | USD | Wholesale Inventories (MoM) (Jul) |  | 0.3% | 0.2% |
-| 51 min | USD | Wholesale Trade Sales (MoM) (Jul) |  |  | -0.6% |
+| 15:00 | USD | CB Employment Trends Index (Aug) | 109.04 |  | 108.71 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Jul) | 0.2% | 0.3% | 0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Jul) | 1.1% |  | -0.3% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.970% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.645% |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) |  |  | -0.4% |
