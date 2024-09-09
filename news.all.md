@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 2.80T | 1.93T | 1.78T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.0% | 3.2% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 3.193T | 2.589T | 1.534T |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.7% | 0.8% | -0.6% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 2.9% | 3.1% | -2.4% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.7% | 0.8% | -0.6% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.8% | 0.9% | -0.5% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.5% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.1% | 3.0% | 3.4% |
@@ -27,8 +27,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.01% |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) | 4.99% |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 4.00% |  | 4.05% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) | 0.00% |  | 0.70% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) | 4.90% |  | 5.40% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.859% |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.396% |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.258% |  | 3.308% |
@@ -42,4 +42,4 @@
 | 17:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 2.1% | 2.1% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) | 25.45B | 12.30B | 5.23B |
-| 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
+| 40 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
