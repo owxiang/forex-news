@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 2.80T | 1.93T | 1.78T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.0% | 3.2% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 3.193T | 2.589T | 1.534T |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 2.9% | 3.1% | -2.4% |
 | 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.7% | 0.8% | -0.6% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 2.9% | 3.1% | -2.4% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.8% | 0.9% | -0.5% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.5% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.1% | 3.0% | 3.4% |
@@ -40,6 +40,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.895% |  | 4.970% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.530% |  | 4.645% |
 | 17:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.1% | 2.1% |
+| 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 2.1% | 2.1% |
 | 20:00 | USD | Moderate | Consumer Credit (Jul) |  | 12.30B | 8.93B |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
