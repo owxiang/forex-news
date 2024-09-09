@@ -15,7 +15,7 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (Aug) | 0.4% | 0.5% | 0.5% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Aug) | 0.6% | 0.7% | 0.5% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Aug) | -1.8% | -1.4% | -0.8% |
-| 05:00 | IDR | Low | Consumer Confidence (Aug) |  |  | 123.4 |
+| 52 min | IDR | Low | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Aug) |  |  | 47.5 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Sep) |  |  | -13.9 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
@@ -26,8 +26,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.70% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.308% |

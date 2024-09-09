@@ -6,7 +6,7 @@
 | 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) | 0.8% | 0.9% | 0.9% |
 | 00:50 | JPY | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.1% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q2) | 0.9% | 1.0% | 1.0% |
-| 05:00 | IDR | Consumer Confidence (Aug) |  |  | 123.4 |
+| 52 min | IDR | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
 | 06:00 | JPY | Economy Watchers Current Index (Aug) |  |  | 47.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Sep) |  |  | -13.9 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
@@ -15,8 +15,8 @@
 | 13:00 | MXN | Consumer Confidence n.s.a. (Aug) |  |  | 47.0 |
 | 13:00 | MXN | Core CPI (MoM) (Aug) |  |  | 0.32% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
-| 13:00 | MXN | PPI (YoY) (Aug) |  |  | 5.50% |
 | 13:00 | MXN | PPI (MoM) (Aug) |  |  | 0.70% |
+| 13:00 | MXN | PPI (YoY) (Aug) |  |  | 5.50% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.997% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.462% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.308% |
