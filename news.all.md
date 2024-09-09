@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 2.80T | 1.93T | 1.78T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.0% | 3.2% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 3.193T | 2.589T | 1.534T |
-| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.7% | 0.8% | -0.6% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 2.9% | 3.1% | -2.4% |
+| 00:50 | JPY | High | GDP (QoQ) (Q2) | 0.7% | 0.8% | -0.6% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.8% | 0.9% | -0.5% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.5% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.1% | 3.0% | 3.4% |
@@ -18,14 +18,14 @@
 | 04:20 | IDR | Low | Car Sales (YoY) (Aug) | -14.20% |  | -7.90% |
 | 05:00 | IDR | Low | Consumer Confidence (Aug) | 124.4 |  | 123.4 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Aug) | 49.0 | 47.6 | 47.5 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Sep) |  | -12.4 | -13.9 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
+| 22 min | EUR | Low | Sentix Investor Confidence (Sep) |  | -12.4 | -13.9 |
+| 52 min | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 378.6B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Aug) |  |  | 46.9 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Aug) |  |  | 47.0 |
 | 13:00 | MXN | Low | Core CPI (MoM) (Aug) |  |  | 0.32% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  |  | 5.57% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  |  | 1.05% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
 | 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.70% |
