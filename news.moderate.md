@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Adjusted Current Account (Jul) |  | 1.93T | 177.63T |
-| 44 min | JPY | Current Account n.s.a. (Jul) |  |  | 1.534T |
-| 44 min | JPY | GDP (YoY) (Q2) |  | 3.1% | 3.1% |
-| 44 min | JPY | GDP Price Index (YoY) (Q2) |  | 3.0% | 3.0% |
+| 00:50 | JPY | Adjusted Current Account (Jul) | 280.90T | 1.93T | 177.63T |
+| 00:50 | JPY | Current Account n.s.a. (Jul) | 3.193T |  | 1.534T |
+| 00:50 | JPY | GDP (YoY) (Q2) | 2.9% | 3.1% | 3.1% |
+| 00:50 | JPY | GDP Price Index (YoY) (Q2) | 3.1% | 3.0% | 3.0% |
 | 02:30 | AUD | Building Approvals (MoM) (Jul) |  | 10.4% | -6.4% |
 | 02:30 | CNY | CPI (MoM) (Aug) |  | 0.5% | 0.5% |
 | 02:30 | CNY | CPI (YoY) (Aug) |  | 0.7% | 0.5% |
