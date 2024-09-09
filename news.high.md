@@ -1,5 +1,5 @@
-## 09 September 2024 - High Impact Forex News
+## 10 September 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | GDP (QoQ) (Q2) | 0.7% | 0.8% | -0.6% |
+| 07:00 | EUR | German CPI (MoM) (Aug) |  | -0.1% | 0.3% |
