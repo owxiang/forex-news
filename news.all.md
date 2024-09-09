@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 280.90T | 1.93T | 177.63T |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Jul) | 280.29T | 1.93T | 177.63T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.0% |  | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 3.193T |  | 1.534T |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q2) | 2.9% | 3.1% | 3.1% |
@@ -11,11 +11,11 @@
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | -0.1% | -0.1% | -0.1% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q2) | 3.1% | 3.0% | 3.0% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | 0.9% | 1.0% | 1.0% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | 10.4% | -6.4% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | 10.4% | 10.4% | -6.4% |
 | 02:30 | AUD | Low | Private House Approvals (Jul) |  | 0.6% | -0.5% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Aug) |  | 0.5% | 0.5% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Aug) |  | 0.7% | 0.5% |
-| 02:30 | CNY | Moderate | PPI (YoY) (Aug) |  | -1.4% | -0.8% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Aug) | 0.4% | 0.5% | 0.5% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Aug) | 0.6% | 0.7% | 0.5% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Aug) | -1.8% | -1.4% | -0.8% |
 | 04:00 | CNY | Moderate | Imports (YoY) (Aug) |  |  | 7.2% |
 | 05:00 | IDR | Low | Consumer Confidence (Aug) |  |  | 123.4 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Aug) |  |  | 47.5 |
@@ -28,8 +28,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Aug) |  |  | 1.05% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Aug) |  |  | 5.57% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 4.05% |
-| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 13:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.70% |
+| 13:00 | MXN | Low | PPI (YoY) (Aug) |  |  | 5.50% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.997% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.462% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.308% |
