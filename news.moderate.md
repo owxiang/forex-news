@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Jul) |  | 10.4% | -6.4% |
+| 02:30 | AUD | Building Approvals (MoM) (Jul) | 10.4% | 10.4% | -6.4% |
 | 02:30 | AUD | NAB Business Confidence (Aug) | -4 |  | 1 |
-| 04:00 | CNY | Exports (YoY) (Aug) |  | 6.5% | 7.0% |
-| 04:00 | CNY | Imports (YoY) (Aug) |  | 2.0% | 7.2% |
-| 04:00 | CNY | Trade Balance (USD) (Aug) |  | 82.10B | 84.65B |
+| 35 min | CNY | Exports (YoY) (Aug) |  | 6.5% | 7.0% |
+| 35 min | CNY | Imports (YoY) (Aug) |  | 2.0% | 7.2% |
+| 35 min | CNY | Trade Balance (USD) (Aug) |  | 82.10B | 84.65B |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jul) |  | 4.1% | 4.5% |
 | 07:00 | GBP | Claimant Count Change (Aug) |  | 95.5K | 135.0K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) |  | 115K | 97K |

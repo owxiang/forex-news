@@ -5,16 +5,17 @@
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.5% |
 | 00:50 | JPY | Low | M3 Money Supply (Aug) | 2,172.5B |  | 2,173.0B |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Sep) | -0.5% |  | 2.8% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | 10.4% | -6.4% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) | 10.4% | 10.4% | -6.4% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Aug) | -4 |  | 1 |
 | 02:30 | AUD | Low | NAB Business Survey (Aug) | 3 |  | 6 |
-| 02:30 | AUD | Low | Private House Approvals (Jul) |  | 0.6% | -0.5% |
-| 04:00 | CNY | Low | Exports (Aug) |  |  | 6.50M |
-| 04:00 | CNY | Low | Imports (Aug) |  |  | 6.60M |
-| 04:00 | CNY | Low | Trade Balance (Aug) |  | 582.00B | 601.90B |
-| 04:00 | CNY | Moderate | Exports (YoY) (Aug) |  | 6.5% | 7.0% |
-| 04:00 | CNY | Moderate | Imports (YoY) (Aug) |  | 2.0% | 7.2% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) (Aug) |  | 82.10B | 84.65B |
+| 02:30 | AUD | Low | Private House Approvals (Jul) | 0.6% | 0.6% | -0.5% |
+| 35 min | CNY | Low | Exports (Aug) |  |  | 6.50M |
+| 35 min | CNY | Low | Imports (Aug) |  |  | 6.60M |
+| 35 min | CNY | Low | Trade Balance (Aug) |  | 582.00B | 601.90B |
+| 35 min | CNY | Moderate | Exports (YoY) (Aug) |  | 6.5% | 7.0% |
+| 35 min | CNY | Moderate | Imports (YoY) (Aug) |  | 2.0% | 7.2% |
+| 35 min | CNY | Moderate | Trade Balance (USD) (Aug) |  | 82.10B | 84.65B |
+| 05:00 | IDR | Low | Motorbike Sales (YoY) (Aug) | 7.40% |  | 26.00% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Jul) |  |  | 2.7% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jul) |  |  | 5.4% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 4.1% | 4.5% |
@@ -28,12 +29,12 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) |  |  | 8.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) |  |  | 3.3% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) |  |  | 0.8% |
-| 07:00 | NOK | Low | CPI (MoM) (Aug) |  |  | 0.5% |
 | 07:00 | NOK | Low | CPI (YoY) (Aug) |  |  | 2.8% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) |  |  | 0.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Aug) |  |  | 6.5% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | -0.2% | 0.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  |  | -2.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | -0.2% | 0.5% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.190% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Aug) |  | 93.6 | 93.7 |
