@@ -1,23 +1,20 @@
-## 10 September 2024 - Moderate Impact Forex News
+## 11 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Jul) | 10.4% | 10.4% | -6.4% |
-| 02:30 | AUD | NAB Business Confidence (Aug) | -4 |  | 1 |
-| 04:00 | CNY | Exports (YoY) (Aug) | 8.7% | 6.5% | 7.0% |
-| 04:00 | CNY | Imports (YoY) (Aug) | 0.5% | 2.0% | 7.2% |
-| 04:00 | CNY | Trade Balance (USD) (Aug) | 91.02B | 81.40B | 84.65B |
-| 07:00 | GBP | Average Earnings Index +Bonus (Jul) | 4.0% | 4.1% | 4.6% |
-| 07:00 | GBP | Claimant Count Change (Aug) | 23.7K | 95.5K | 102.3K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | 265K | 115K | 97K |
-| 07:00 | GBP | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
-| 07:00 | EUR | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
-| 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Aug) | 4.24% | 4.30% | 4.50% |
-| 13:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 3.440% |  | 3.810% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -2.790M | 0.700M | -7.400M |
+| 02:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 07:00 | GBP | Industrial Production (MoM) (Jul) |  | 0.3% | 0.8% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Jul) |  | 0.2% | 1.1% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.6% | 0.6% |
+| 07:00 | GBP | Trade Balance (Jul) |  | -18.00B | -18.89B |
+| 07:00 | GBP | Trade Balance Non-EU (Jul) |  |  | -7.46B |
+| 09:00 | CNY | New Loans (Aug) |  | 810.0B | 260.0B |
+| 10:25 | EUR | ECB McCaul Speaks |  |  |  |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.220% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Aug) |  |  | 0.5% |
+| 13:30 | USD | Core CPI (YoY) (Aug) |  | 3.2% | 3.2% |
+| 15:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.142M |
+| 15:45 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |

@@ -1,38 +1,48 @@
-## 10 September 2024 - Low Impact Forex News
+## 11 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.5% |
-| 00:50 | JPY | M3 Money Supply (Aug) | 2,172.5B |  | 2,173.0B |
-| 01:30 | AUD | Westpac Consumer Sentiment (Sep) | -0.5% |  | 2.8% |
-| 02:30 | AUD | NAB Business Survey (Aug) | 3 |  | 6 |
-| 02:30 | AUD | Private House Approvals (Jul) | 0.6% | 0.6% | -0.5% |
-| 04:00 | CNY | Exports (Aug) | 8.40M |  | 6.50M |
-| 04:00 | CNY | Imports (Aug) | 0.00M |  | 6.60M |
-| 04:00 | CNY | Trade Balance (Aug) | 649.34B | 579.00B | 601.90B |
-| 04:00 | IDR | Retail Sales (YoY) (Jul) | 4.5% |  | 2.7% |
-| 05:00 | JPY | 5-Year JGB Auction | 0.521% |  | 0.452% |
-| 07:00 | GBP | Average Earnings ex Bonus (Jul) | 5.1% | 5.1% | 5.4% |
-| 07:00 | EUR | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
-| 07:00 | EUR | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Aug) | -3.5% |  | 8.4% |
-| 07:00 | NOK | Core CPI YTD (Aug) | 3.2% | 3.3% | 3.3% |
-| 07:00 | NOK | Core Inflation (MoM) (Aug) | -0.7% |  | 0.8% |
-| 07:00 | NOK | CPI (YoY) (Aug) | 2.6% | 3.5% | 2.8% |
-| 07:00 | NOK | CPI (MoM) (Aug) | -0.9% |  | 0.5% |
-| 07:00 | NOK | PPI (YoY) (Aug) | 3.6% | 8.3% | 6.5% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) | -0.4% |  | 0.2% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jul) | -3.3% |  | -2.6% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jul) | -0.9% | -0.2% | 0.5% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.822% |  | 3.190% |
-| 11:00 | USD | NFIB Small Business Optimism (Aug) | 91.2 | 93.6 | 93.7 |
-| 12:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Jul) | 2.1% |  | -0.4% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Jul) | 1.7% | 0.7% | -5.5% |
-| 13:00 | BRL | CPI (MoM) (Aug) | -0.02% | 0.01% | 0.38% |
-| 13:55 | USD | Redbook (YoY) | 6.5% |  | 6.3% |
-| 16:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) | 0.08% |  | 0.50% |
-| 39 min | NZD | External Migration & Visitors (Jul) |  |  | 3.80% |
-| 39 min | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
-| 39 min | NZD | Permanent/Long-Term Migration (Jul) |  |  | 2,710 |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | -0.2% |
+| 00:00 | KRW | Unemployment Rate (Aug) | 1.9% |  | 2.5% |
+| 02:00 | AUD | MI Inflation Expectations (Sep) |  |  | 4.5% |
+| 07:00 | GBP | Construction Output (MoM) (Jul) |  | 0.4% | 0.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | -1.0% | -1.7% |
+| 07:00 | GBP | GDP (YoY) (Jul) |  | 1.4% | 0.7% |
+| 07:00 | GBP | Index of Services |  | 0.6% | 0.8% |
+| 07:00 | GBP | Industrial Production (YoY) (Jul) |  | -0.2% | -1.4% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Jul) |  | -0.1% | -1.5% |
+| 09:00 | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
+| 09:00 | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.082% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.112% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.43% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.6% |
+| 12:00 | USD | MBA Purchase Index |  |  | 136.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 230.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 751.4 |
+| 13:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.4% |
+| 13:00 | MXN | Industrial Production (YoY) (Jul) |  | 1.1% | -0.7% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 1.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
+| 13:30 | USD | Core CPI Index (Aug) |  |  | 318.87 |
+| 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
+| 13:30 | USD | CPI Index, s.a (Aug) |  |  | 313.53 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Aug) |  |  | 0.12% |
+| 13:30 | USD | Real Earnings (MoM) (Aug) |  |  | -0.2% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.036M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.853M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.167M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.371M |
+| 15:30 | USD | Gasoline Production |  |  | 0.136M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.939M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 15:30 | USD | Gasoline Inventories |  |  | 0.848M |
+| 16:00 | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 55.27 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.06 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 51.99 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.09 |
+| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
+| 23:45 | NZD | FPI (MoM) (Aug) |  |  | 0.4% |
+| 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
+| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -0.2% |

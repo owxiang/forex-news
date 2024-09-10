@@ -1,5 +1,10 @@
-## 10 September 2024 - High Impact Forex News
+## 11 September 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German CPI (MoM) (Aug) | -0.1% | -0.1% | 0.3% |
+| 07:00 | GBP | GDP (MoM) (Jul) |  | 0.2% | 0.0% |
+| 13:30 | USD | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:30 | USD | CPI (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:30 | USD | CPI (YoY) (Aug) |  | 2.6% | 2.9% |
+| 15:30 | USD | Crude Oil Inventories |  |  | -6.873M |
+| 18:00 | USD | 10-Year Note Auction |  |  | 3.960% |
