@@ -22,30 +22,30 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Aug) | 23.7K | 95.5K | 102.3K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) | 265K | 115K | 97K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
-| 07:00 | EUR | High | German CPI (MoM) (Aug) | -0.1% | -0.1% | 0.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
-| 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
+| 07:00 | EUR | High | German CPI (MoM) (Aug) | -0.1% | -0.1% | 0.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
+| 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | -3.5% |  | 8.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) | 3.2% | 3.3% | 3.3% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.7% |  | 0.8% |
-| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.9% |  | 0.5% |
 | 07:00 | NOK | Low | CPI (YoY) (Aug) | 2.6% | 3.5% | 2.8% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.9% |  | 0.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Aug) | 3.6% | 8.3% | 6.5% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | -0.4% |  | 0.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | -0.9% | -0.2% | 0.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | -3.3% |  | -2.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | -0.9% | -0.2% | 0.5% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.822% |  | 3.190% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Aug) | 91.2 | 93.6 | 93.7 |
 | 12:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) | 1.7% |  | -5.5% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) | 2.1% |  | -0.4% |
-| 54 min | BRL | Moderate | CPI (YoY) (Aug) |  | 4.30% | 4.50% |
-| 54 min | BRL | Low | CPI (MoM) (Aug) |  | 0.01% | 0.38% |
-| 13:25 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) | 1.7% |  | -5.5% |
+| 13:00 | BRL | Low | CPI (MoM) (Aug) | -0.02% | 0.01% | 0.38% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Aug) | 4.24% | 4.30% | 4.50% |
+| 15 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 45 min | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

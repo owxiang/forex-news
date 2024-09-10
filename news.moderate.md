@@ -14,8 +14,8 @@
 | 07:00 | EUR | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 54 min | BRL | CPI (YoY) (Aug) |  | 4.30% | 4.50% |
-| 13:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 13:00 | BRL | CPI (YoY) (Aug) | 4.24% | 4.30% | 4.50% |
+| 15 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
