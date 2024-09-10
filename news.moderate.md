@@ -12,7 +12,7 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | 265K | 115K | 97K |
 | 07:00 | GBP | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
 | 07:00 | EUR | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
-| 10:00 | EUR | EU Economic Forecasts |  |  |  |
+| 52 min | EUR | EU Economic Forecasts |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Aug) |  | 4.30% | 4.50% |
 | 13:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
