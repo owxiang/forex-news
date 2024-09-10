@@ -22,8 +22,8 @@
 | 07:00 | NOK | CPI (YoY) (Aug) | 2.6% | 3.5% | 2.8% |
 | 07:00 | NOK | PPI (YoY) (Aug) | 3.6% | 8.3% | 6.5% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) | -0.4% |  | 0.2% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jul) | -3.3% |  | -2.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jul) | -0.9% | -0.2% | 0.5% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jul) | -3.3% |  | -2.6% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 2.822% |  | 3.190% |
 | 11:00 | USD | NFIB Small Business Optimism (Aug) | 91.2 | 93.6 | 93.7 |
 | 12:00 | GBP | BoE Breeden Speaks |  |  |  |
