@@ -22,8 +22,8 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Aug) | 23.7K | 95.5K | 102.3K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) | 265K | 115K | 97K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
-| 07:00 | EUR | High | German CPI (MoM) (Aug) | -0.1% | -0.1% | 0.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Aug) | -0.1% | -0.1% | 0.3% |
 | 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
 | 07:00 | EUR | Low | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | -3.5% |  | 8.4% |
@@ -48,9 +48,9 @@
 | 13:55 | USD | Low | Redbook (YoY) | 6.5% |  | 6.3% |
 | 15:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) | 0.08% |  | 0.50% |
-| 55 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.810% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | Moderate | 3-Year Note Auction |  |  | 3.810% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -7.400M |
 | 23:45 | NZD | Low | External Migration & Visitors (Jul) |  |  | 3.80% |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
