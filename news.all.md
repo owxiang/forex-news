@@ -9,46 +9,47 @@
 | 02:30 | AUD | Moderate | NAB Business Confidence (Aug) | -4 |  | 1 |
 | 02:30 | AUD | Low | NAB Business Survey (Aug) | 3 |  | 6 |
 | 02:30 | AUD | Low | Private House Approvals (Jul) | 0.6% | 0.6% | -0.5% |
-| 04:17 | CNY | Low | Imports (Aug) | 0.00M |  | 6.60M |
-| 04:23 | CNY | Low | Exports (Aug) | 8.40M |  | 6.50M |
-| 04:23 | CNY | Low | Trade Balance (Aug) | 649.34B | 582.00B | 601.90B |
-| 04:24 | CNY | Moderate | Exports (YoY) (Aug) | 8.7% | 6.5% | 7.0% |
-| 04:24 | CNY | Moderate | Imports (YoY) (Aug) | 0.5% | 2.0% | 7.2% |
-| 04:24 | CNY | Moderate | Trade Balance (USD) (Aug) | 91.02B | 82.10B | 84.65B |
-| 05:00 | IDR | Low | Car Sales (YoY) (Aug) | -14.20% |  | -7.90% |
-| 05:00 | IDR | Low | Motorbike Sales (YoY) (Aug) | 7.40% |  | 26.00% |
-| 05:00 | IDR | Low | Retail Sales (YoY) (Jul) | 4.5% |  | 2.7% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Jul) |  |  | 5.4% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 4.1% | 4.5% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Aug) |  | 95.5K | 135.0K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) |  | 115K | 97K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Jul) |  | 4.1% | 4.2% |
-| 07:00 | EUR | High | German CPI (MoM) (Aug) |  | -0.1% | 0.3% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 1.9% | 2.3% |
-| 07:00 | EUR | Low | German HICP (YoY) (Aug) |  | 2.0% | 2.6% |
-| 07:00 | EUR | Low | German HICP (MoM) (Aug) |  | -0.2% | 0.5% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) |  |  | 8.4% |
-| 07:00 | NOK | Low | Core CPI YTD (Aug) |  |  | 3.3% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Aug) |  |  | 0.8% |
-| 07:00 | NOK | Low | CPI (MoM) (Aug) |  |  | 0.5% |
-| 07:00 | NOK | Low | CPI (YoY) (Aug) |  |  | 2.8% |
-| 07:00 | NOK | Low | PPI (YoY) (Aug) |  |  | 6.5% |
+| 04:00 | CNY | Low | Exports (Aug) | 8.40M |  | 6.50M |
+| 04:00 | CNY | Low | Imports (Aug) | 0.00M |  | 6.60M |
+| 04:00 | CNY | Low | Trade Balance (Aug) | 649.34B | 579.00B | 601.90B |
+| 04:00 | CNY | Moderate | Exports (YoY) (Aug) | 8.7% | 6.5% | 7.0% |
+| 04:00 | CNY | Moderate | Imports (YoY) (Aug) | 0.5% | 2.0% | 7.2% |
+| 04:00 | CNY | Moderate | Trade Balance (USD) (Aug) | 91.02B | 81.40B | 84.65B |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Jul) | 4.5% |  | 2.7% |
+| 05:00 | JPY | Low | 5-Year JGB Auction | 0.521% |  | 0.452% |
+| 54 min | GBP | Low | Average Earnings ex Bonus (Jul) |  | 5.1% | 5.4% |
+| 54 min | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 4.1% | 4.5% |
+| 54 min | GBP | Moderate | Claimant Count Change (Aug) |  | 95.5K | 135.0K |
+| 54 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) |  | 115K | 97K |
+| 54 min | GBP | Moderate | Unemployment Rate (Jul) |  | 4.1% | 4.2% |
+| 54 min | EUR | High | German CPI (MoM) (Aug) |  | -0.1% | 0.3% |
+| 54 min | EUR | Moderate | German CPI (YoY) (Aug) |  | 1.9% | 2.3% |
+| 54 min | EUR | Low | German HICP (MoM) (Aug) |  | -0.2% | 0.5% |
+| 54 min | EUR | Low | German HICP (YoY) (Aug) |  | 2.0% | 2.6% |
+| 54 min | JPY | Low | Machine Tool Orders (YoY) (Aug) |  |  | 8.4% |
+| 54 min | NOK | Low | Core CPI YTD (Aug) |  | 3.3% | 3.3% |
+| 54 min | NOK | Low | Core Inflation (MoM) (Aug) |  |  | 0.8% |
+| 54 min | NOK | Low | CPI (YoY) (Aug) |  | 3.5% | 2.8% |
+| 54 min | NOK | Low | CPI (MoM) (Aug) |  |  | 0.5% |
+| 54 min | NOK | Low | PPI (YoY) (Aug) |  | 8.3% | 6.5% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | -0.2% | 0.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  |  | -2.6% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.190% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Aug) |  | 93.6 | 93.7 |
+| 12:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | -5.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | -0.5% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.30% | 4.50% |
+| 13:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.01% | 0.38% |
 | 13:25 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.810% |
-| 18:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.01% | 0.38% |
-| 18:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.30% | 4.50% |
 | 18:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.50% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -7.400M |
 | 23:45 | NZD | Low | External Migration & Visitors (Jul) |  |  | 3.80% |
