@@ -24,13 +24,13 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Aug) | -0.1% | -0.1% | 0.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
-| 07:00 | EUR | Low | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
+| 07:00 | EUR | Low | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | -3.5% |  | 8.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) | 3.2% | 3.3% | 3.3% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.7% |  | 0.8% |
-| 07:00 | NOK | Low | CPI (YoY) (Aug) | 2.6% | 3.5% | 2.8% |
 | 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.9% |  | 0.5% |
+| 07:00 | NOK | Low | CPI (YoY) (Aug) | 2.6% | 3.5% | 2.8% |
 | 07:00 | NOK | Low | PPI (YoY) (Aug) | 3.6% | 8.3% | 6.5% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | -0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | -0.9% | -0.2% | 0.5% |
@@ -51,7 +51,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.440% |  | 3.810% |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -7.400M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.790M | 0.700M | -7.400M |
 | 23:45 | NZD | Low | External Migration & Visitors (Jul) |  |  | 3.80% |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -0.4% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Jul) |  |  | 2,710 |
