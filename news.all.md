@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 14 min | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.4% |
-| 44 min | JPY | Low | M3 Money Supply (Aug) |  |  | 2,168.3B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Sep) |  |  | 2.8% |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.5% |
+| 00:50 | JPY | Low | M3 Money Supply (Aug) | 2,172.5B |  | 2,173.0B |
+| 6 min | AUD | Low | Westpac Consumer Sentiment (Sep) |  |  | 2.8% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | 10.4% | -6.4% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Aug) |  |  | 1 |
 | 02:30 | AUD | Low | NAB Business Survey (Aug) |  |  | 6 |
