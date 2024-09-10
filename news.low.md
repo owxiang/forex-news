@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.5% |
 | 00:50 | JPY | M3 Money Supply (Aug) | 2,172.5B |  | 2,173.0B |
-| 6 min | AUD | Westpac Consumer Sentiment (Sep) |  |  | 2.8% |
-| 02:30 | AUD | NAB Business Survey (Aug) |  |  | 6 |
+| 01:30 | AUD | Westpac Consumer Sentiment (Sep) | -0.5% |  | 2.8% |
+| 02:30 | AUD | NAB Business Survey (Aug) | 3 |  | 6 |
 | 02:30 | AUD | Private House Approvals (Jul) |  | 0.6% | -0.5% |
 | 04:00 | CNY | Exports (Aug) |  |  | 6.50M |
 | 04:00 | CNY | Imports (Aug) |  |  | 6.60M |
@@ -17,8 +17,8 @@
 | 07:00 | JPY | Machine Tool Orders (YoY) (Aug) |  |  | 8.4% |
 | 07:00 | NOK | Core CPI YTD (Aug) |  |  | 3.3% |
 | 07:00 | NOK | Core Inflation (MoM) (Aug) |  |  | 0.8% |
-| 07:00 | NOK | CPI (YoY) (Aug) |  |  | 2.8% |
 | 07:00 | NOK | CPI (MoM) (Aug) |  |  | 0.5% |
+| 07:00 | NOK | CPI (YoY) (Aug) |  |  | 2.8% |
 | 07:00 | NOK | PPI (YoY) (Aug) |  |  | 6.5% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jul) |  | -0.2% | 0.5% |

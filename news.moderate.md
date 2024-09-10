@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Building Approvals (MoM) (Jul) |  | 10.4% | -6.4% |
-| 02:30 | AUD | NAB Business Confidence (Aug) |  |  | 1 |
+| 02:30 | AUD | NAB Business Confidence (Aug) | -4 |  | 1 |
 | 04:00 | CNY | Exports (YoY) (Aug) |  | 6.5% | 7.0% |
 | 04:00 | CNY | Imports (YoY) (Aug) |  | 2.0% | 7.2% |
 | 04:00 | CNY | Trade Balance (USD) (Aug) |  | 82.10B | 84.65B |

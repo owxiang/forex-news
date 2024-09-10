@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.5% |
 | 00:50 | JPY | Low | M3 Money Supply (Aug) | 2,172.5B |  | 2,173.0B |
-| 6 min | AUD | Low | Westpac Consumer Sentiment (Sep) |  |  | 2.8% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Sep) | -0.5% |  | 2.8% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | 10.4% | -6.4% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Aug) |  |  | 1 |
-| 02:30 | AUD | Low | NAB Business Survey (Aug) |  |  | 6 |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Aug) | -4 |  | 1 |
+| 02:30 | AUD | Low | NAB Business Survey (Aug) | 3 |  | 6 |
 | 02:30 | AUD | Low | Private House Approvals (Jul) |  | 0.6% | -0.5% |
 | 04:00 | CNY | Low | Exports (Aug) |  |  | 6.50M |
 | 04:00 | CNY | Low | Imports (Aug) |  |  | 6.60M |
@@ -21,15 +21,15 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Aug) |  | 95.5K | 135.0K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) |  | 115K | 97K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jul) |  | 4.1% | 4.2% |
-| 07:00 | EUR | High | German CPI (MoM) (Aug) |  | -0.1% | 0.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 1.9% | 2.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Aug) |  | -0.1% | 0.3% |
 | 07:00 | EUR | Low | German HICP (YoY) (Aug) |  | 2.0% | 2.6% |
 | 07:00 | EUR | Low | German HICP (MoM) (Aug) |  | -0.2% | 0.5% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) |  |  | 8.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Aug) |  |  | 3.3% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Aug) |  |  | 0.8% |
-| 07:00 | NOK | Low | CPI (YoY) (Aug) |  |  | 2.8% |
 | 07:00 | NOK | Low | CPI (MoM) (Aug) |  |  | 0.5% |
+| 07:00 | NOK | Low | CPI (YoY) (Aug) |  |  | 2.8% |
 | 07:00 | NOK | Low | PPI (YoY) (Aug) |  |  | 6.5% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | -0.2% | 0.5% |
