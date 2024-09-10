@@ -18,6 +18,6 @@
 | 13:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 9 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | USD | 3-Year Note Auction |  |  | 3.810% |
+| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | 3-Year Note Auction | 3.440% |  | 3.810% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.700M | -7.400M |
