@@ -13,8 +13,8 @@
 | 07:00 | GBP | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
 | 07:00 | EUR | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 55 min | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Aug) |  | 4.30% | 4.50% |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 54 min | BRL | CPI (YoY) (Aug) |  | 4.30% | 4.50% |
 | 13:25 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
