@@ -13,8 +13,8 @@
 | 04:00 | IDR | Retail Sales (YoY) (Jul) | 4.5% |  | 2.7% |
 | 05:00 | JPY | 5-Year JGB Auction | 0.521% |  | 0.452% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jul) | 5.1% | 5.1% | 5.4% |
-| 07:00 | EUR | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
 | 07:00 | EUR | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
+| 07:00 | EUR | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Aug) | -3.5% |  | 8.4% |
 | 07:00 | NOK | Core CPI YTD (Aug) | 3.2% | 3.3% | 3.3% |
 | 07:00 | NOK | Core Inflation (MoM) (Aug) | -0.7% |  | 0.8% |
@@ -22,10 +22,10 @@
 | 07:00 | NOK | CPI (MoM) (Aug) | -0.9% |  | 0.5% |
 | 07:00 | NOK | PPI (YoY) (Aug) | 3.6% | 8.3% | 6.5% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) | -0.4% |  | 0.2% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jul) | -0.9% | -0.2% | 0.5% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jul) | -3.3% |  | -2.6% |
-| 32 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.190% |
-| 11:00 | USD | NFIB Small Business Optimism (Aug) |  | 93.6 | 93.7 |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jul) | -0.9% | -0.2% | 0.5% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.822% |  | 3.190% |
+| 53 min | USD | NFIB Small Business Optimism (Aug) |  | 93.6 | 93.7 |
 | 12:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | -5.2% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | -0.5% |
