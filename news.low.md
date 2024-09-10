@@ -12,16 +12,16 @@
 | 04:00 | CNY | Trade Balance (Aug) | 649.34B | 579.00B | 601.90B |
 | 04:00 | IDR | Retail Sales (YoY) (Jul) | 4.5% |  | 2.7% |
 | 05:00 | JPY | 5-Year JGB Auction | 0.521% |  | 0.452% |
-| 54 min | GBP | Average Earnings ex Bonus (Jul) |  | 5.1% | 5.4% |
-| 54 min | EUR | German HICP (MoM) (Aug) |  | -0.2% | 0.5% |
-| 54 min | EUR | German HICP (YoY) (Aug) |  | 2.0% | 2.6% |
-| 54 min | JPY | Machine Tool Orders (YoY) (Aug) |  |  | 8.4% |
-| 54 min | NOK | Core CPI YTD (Aug) |  | 3.3% | 3.3% |
-| 54 min | NOK | Core Inflation (MoM) (Aug) |  |  | 0.8% |
-| 54 min | NOK | CPI (YoY) (Aug) |  | 3.5% | 2.8% |
-| 54 min | NOK | CPI (MoM) (Aug) |  |  | 0.5% |
-| 54 min | NOK | PPI (YoY) (Aug) |  | 8.3% | 6.5% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
+| 07:00 | GBP | Average Earnings ex Bonus (Jul) | 5.1% | 5.1% | 5.4% |
+| 07:00 | EUR | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
+| 07:00 | EUR | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Aug) | -3.5% |  | 8.4% |
+| 07:00 | NOK | Core CPI YTD (Aug) | 3.2% | 3.3% | 3.3% |
+| 07:00 | NOK | Core Inflation (MoM) (Aug) | -0.7% |  | 0.8% |
+| 07:00 | NOK | CPI (YoY) (Aug) | 2.6% | 3.5% | 2.8% |
+| 07:00 | NOK | CPI (MoM) (Aug) | -0.9% |  | 0.5% |
+| 07:00 | NOK | PPI (YoY) (Aug) | 3.6% | 8.3% | 6.5% |
+| 52 min | EUR | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jul) |  | -0.2% | 0.5% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jul) |  |  | -2.6% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.190% |

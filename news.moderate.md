@@ -7,11 +7,11 @@
 | 04:00 | CNY | Exports (YoY) (Aug) | 8.7% | 6.5% | 7.0% |
 | 04:00 | CNY | Imports (YoY) (Aug) | 0.5% | 2.0% | 7.2% |
 | 04:00 | CNY | Trade Balance (USD) (Aug) | 91.02B | 81.40B | 84.65B |
-| 54 min | GBP | Average Earnings Index +Bonus (Jul) |  | 4.1% | 4.5% |
-| 54 min | GBP | Claimant Count Change (Aug) |  | 95.5K | 135.0K |
-| 54 min | GBP | Employment Change 3M/3M (MoM) (Jul) |  | 115K | 97K |
-| 54 min | GBP | Unemployment Rate (Jul) |  | 4.1% | 4.2% |
-| 54 min | EUR | German CPI (YoY) (Aug) |  | 1.9% | 2.3% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Jul) | 4.0% | 4.1% | 4.6% |
+| 07:00 | GBP | Claimant Count Change (Aug) | 23.7K | 95.5K | 102.3K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | 265K | 115K | 97K |
+| 07:00 | GBP | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
+| 07:00 | EUR | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Aug) |  | 4.30% | 4.50% |

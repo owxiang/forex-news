@@ -17,22 +17,22 @@
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Aug) | 91.02B | 81.40B | 84.65B |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Jul) | 4.5% |  | 2.7% |
 | 05:00 | JPY | Low | 5-Year JGB Auction | 0.521% |  | 0.452% |
-| 54 min | GBP | Low | Average Earnings ex Bonus (Jul) |  | 5.1% | 5.4% |
-| 54 min | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 4.1% | 4.5% |
-| 54 min | GBP | Moderate | Claimant Count Change (Aug) |  | 95.5K | 135.0K |
-| 54 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) |  | 115K | 97K |
-| 54 min | GBP | Moderate | Unemployment Rate (Jul) |  | 4.1% | 4.2% |
-| 54 min | EUR | High | German CPI (MoM) (Aug) |  | -0.1% | 0.3% |
-| 54 min | EUR | Moderate | German CPI (YoY) (Aug) |  | 1.9% | 2.3% |
-| 54 min | EUR | Low | German HICP (MoM) (Aug) |  | -0.2% | 0.5% |
-| 54 min | EUR | Low | German HICP (YoY) (Aug) |  | 2.0% | 2.6% |
-| 54 min | JPY | Low | Machine Tool Orders (YoY) (Aug) |  |  | 8.4% |
-| 54 min | NOK | Low | Core CPI YTD (Aug) |  | 3.3% | 3.3% |
-| 54 min | NOK | Low | Core Inflation (MoM) (Aug) |  |  | 0.8% |
-| 54 min | NOK | Low | CPI (YoY) (Aug) |  | 3.5% | 2.8% |
-| 54 min | NOK | Low | CPI (MoM) (Aug) |  |  | 0.5% |
-| 54 min | NOK | Low | PPI (YoY) (Aug) |  | 8.3% | 6.5% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jul) | 5.1% | 5.1% | 5.4% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) | 4.0% | 4.1% | 4.6% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Aug) | 23.7K | 95.5K | 102.3K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) | 265K | 115K | 97K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jul) | 4.1% | 4.1% | 4.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Aug) | -0.1% | -0.1% | 0.3% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Aug) | 1.9% | 1.9% | 2.3% |
+| 07:00 | EUR | Low | German HICP (MoM) (Aug) | -0.2% | -0.2% | 0.5% |
+| 07:00 | EUR | Low | German HICP (YoY) (Aug) | 2.0% | 2.0% | 2.6% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Aug) | -3.5% |  | 8.4% |
+| 07:00 | NOK | Low | Core CPI YTD (Aug) | 3.2% | 3.3% | 3.3% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Aug) | -0.7% |  | 0.8% |
+| 07:00 | NOK | Low | CPI (YoY) (Aug) | 2.6% | 3.5% | 2.8% |
+| 07:00 | NOK | Low | CPI (MoM) (Aug) | -0.9% |  | 0.5% |
+| 07:00 | NOK | Low | PPI (YoY) (Aug) | 3.6% | 8.3% | 6.5% |
+| 52 min | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  |  | 0.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | -0.2% | 0.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  |  | -2.6% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.190% |
