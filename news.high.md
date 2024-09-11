@@ -1,10 +1,10 @@
-## 11 September 2024 - High Impact Forex News
+## 12 September 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | GDP (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
-| 13:30 | USD | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
-| 13:30 | USD | CPI (YoY) (Aug) | 2.5% | 2.5% | 2.9% |
-| 13:30 | USD | CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
-| 15:30 | USD | Crude Oil Inventories | 0.833M | 0.900M | -6.873M |
-| 18:00 | USD | 10-Year Note Auction | 3.648% |  | 3.960% |
+| 13:15 | EUR | Deposit Facility Rate (Sep) |  | 3.50% | 3.75% |
+| 13:15 | EUR | ECB Interest Rate Decision (Sep) |  | 3.65% | 4.25% |
+| 13:30 | USD | Initial Jobless Claims |  | 227K | 227K |
+| 13:30 | USD | PPI (MoM) (Aug) |  | 0.1% | 0.1% |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.314% |

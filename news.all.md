@@ -1,65 +1,81 @@
-## 11 September 2024 - All Forex News
+## 12 September 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Unemployment Rate (Aug) | 1.9% |  | 2.5% |
-| 00:00 | JPY | Low | Reuters Tankan Index | 4 |  | 10 |
-| 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) | -1.6% | -1.0% | -1.7% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jul) | -0.4% | 0.4% | 0.5% |
-| 07:00 | GBP | High | GDP (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
-| 07:00 | GBP | Low | GDP (YoY) (Jul) | 1.2% | 1.4% | 0.7% |
-| 07:00 | GBP | Low | Index of Services | 0.6% | 0.6% | 0.8% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.8% | 0.3% | 0.8% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Jul) | -1.2% | -0.2% | -1.4% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -1.0% | 0.2% | 1.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | -1.3% | -0.1% | -1.5% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.5% | 0.6% | 0.6% |
-| 07:00 | GBP | Moderate | Trade Balance (Jul) | -20.00B | -18.00B | -18.89B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -7.50B |  | -7.46B |
-| 10:10 | GBP | Low | 10-Year Treasury Gilt Auction | 3.757% |  | 4.082% |
-| 10:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:40 | EUR | Low | Italian 12-Month BOT Auction | 2.892% |  | 3.112% |
-| 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.110% |  | 2.220% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) | 0.3% |  | 0.5% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.29% |  | 6.43% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.4% |  | 1.6% |
-| 12:00 | USD | Low | MBA Purchase Index | 138.6 |  | 136.1 |
-| 12:00 | USD | Low | Mortgage Market Index | 233.7 |  | 230.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 757.8 |  | 751.4 |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | 0.2% |  | 0.4% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | 2.1% | 1.1% | -0.7% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 0.8% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
-| 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) | 3.2% | 3.2% | 3.2% |
-| 13:30 | USD | Low | Core CPI Index (Aug) | 319.77 |  | 318.87 |
-| 13:30 | USD | High | CPI (YoY) (Aug) | 2.5% | 2.5% | 2.9% |
-| 13:30 | USD | High | CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Aug) | 314.80 | 314.98 | 314.54 |
-| 13:30 | USD | Low | CPI Index, s.a (Aug) | 314.12 |  | 313.53 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.08% |  | 0.12% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Aug) | 0.5% |  | -0.2% |
-| 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories | 0.833M | 0.900M | -6.873M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.141M |  | 0.036M |
-| 15:30 | USD | Low | Crude Oil Imports | 1.526M |  | -0.853M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.704M |  | -1.142M |
-| 15:30 | USD | Low | Distillate Fuel Production | 0.040M |  | 0.167M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 2.308M | 0.300M | -0.371M |
-| 15:30 | USD | Low | Gasoline Production | -0.371M |  | 0.136M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | -0.695M |  | 0.939M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 1.0% |
-| 15:30 | USD | Low | Gasoline Inventories | 2.310M | -0.400M | 0.848M |
-| 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) | 0.3% |  | 0.3% |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) | 55.02 |  | 55.27 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 49.48 |  | 50.06 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 55.91 |  | 51.99 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) | 51.34 |  | 53.09 |
-| 18:00 | USD | High | 10-Year Note Auction | 3.648% |  | 3.960% |
-| 18:30 | BRL | Low | Foreign Exchange Flows | -1.010B |  | 0.839B |
-| 39 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
-| 39 min | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
-| 39 min | NZD | Low | FPI (MoM) (Aug) |  |  | 0.4% |
+| 00:01 | GBP | Moderate | RICS House Price Balance (Aug) | 1% |  | -18% |
+| 44 min | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) |  | -2.5 | -1.0 |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 1,640.5B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -824.4B |
+| 44 min | JPY | Low | PPI (MoM) (Aug) |  | 0.0% | 0.3% |
+| 44 min | JPY | Low | PPI (YoY) (Aug) |  | 2.8% | 3.0% |
+| 02:00 | AUD | Low | MI Inflation Expectations (Sep) |  |  | 4.5% |
+| 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
+| 02:30 | AUD | Moderate | NAB Business Confidence |  |  | 1 |
+| 07:00 | EUR | Low | German WPI (MoM) |  | 0.1% | 0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) |  |  | -0.1% |
+| 07:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 08:00 | EUR | Low | Core CPI (YoY) (Aug) |  | 2.7% | 2.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.0% | -0.5% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.2% | 2.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.0% | -0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.9% |
+| 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.1% | 7.2% |
+| 09:30 | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 1.80% |
+| 09:30 | HKD | Low | PPI (YoY) (Q2) |  |  | 1.20% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.42% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.24% |
+| 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.57% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Jul) |  |  | -12.6% |
+| 10:30 | ZAR | Low | Mining Production (Jul) |  |  | -3.5% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.8 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 46.39 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 49.06 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 44.38 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.20 |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.05 |
+| 12:00 | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
+| 12:00 | CNY | Moderate | New Loans (Aug) |  | 810.0B | 260.0B |
+| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
+| 12:00 | CNY | Low | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
+| 13:00 | INR | Moderate | CPI (YoY) (Aug) |  | 3.55% | 3.54% |
+| 13:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 5.20% |
+| 13:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.7% | 4.2% |
+| 13:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 2.6% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.5% | -1.0% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 4.2% | 4.0% |
+| 13:15 | EUR | High | Deposit Facility Rate (Sep) |  | 3.50% | 3.75% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Sep) |  | 3.65% | 4.25% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.3% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 3.3% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,838K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.5% | 2.4% |
+| 13:30 | USD | High | Initial Jobless Claims |  | 227K | 227K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 230.00K |
+| 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.1% | 0.1% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) |  | 1.8% | 2.2% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) |  | 6.5% | -13.9% |
+| 13:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 23.2B |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:25 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage |  | 48B | 13B |
+| 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 55.27 |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.080% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.040% |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.314% |
+| 19:00 | USD | Moderate | Federal Budget Balance (Aug) |  | -285.7B | -244.0B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,113B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.265T |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Aug) |  |  | 12.9% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Aug) |  |  | 9.8% |
+| 23:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 44.0 |
