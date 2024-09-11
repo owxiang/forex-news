@@ -16,4 +16,4 @@
 | 15:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.704M |  | -1.142M |
 | 15:45 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
+| 39 min | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |

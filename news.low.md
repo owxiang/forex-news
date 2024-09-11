@@ -40,5 +40,5 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 55.91 |  | 51.99 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) | 51.34 |  | 53.09 |
 | 18:30 | BRL | Foreign Exchange Flows | -1.010B |  | 0.839B |
-| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
-| 23:45 | NZD | FPI (MoM) (Aug) |  |  | 0.4% |
+| 39 min | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
+| 39 min | NZD | FPI (MoM) (Aug) |  |  | 0.4% |

@@ -60,6 +60,6 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) | 51.34 |  | 53.09 |
 | 18:00 | USD | High | 10-Year Note Auction | 3.648% |  | 3.960% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.010B |  | 0.839B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
-| 23:45 | NZD | Low | FPI (MoM) (Aug) |  |  | 0.4% |
+| 39 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
+| 39 min | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
+| 39 min | NZD | Low | FPI (MoM) (Aug) |  |  | 0.4% |
