@@ -8,7 +8,7 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Jul) | 0.5% | 0.6% | 0.6% |
 | 07:00 | GBP | Trade Balance (Jul) | -20.00B | -18.00B | -18.89B |
 | 07:00 | GBP | Trade Balance Non-EU (Jul) | -7.50B |  | -7.46B |
-| 54 min | CNY | New Loans (Aug) |  | 810.0B | 260.0B |
+| 53 min | CNY | New Loans (Aug) |  | 810.0B | 260.0B |
 | 10:25 | EUR | ECB McCaul Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.220% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |

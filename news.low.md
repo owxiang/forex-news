@@ -10,20 +10,20 @@
 | 07:00 | GBP | Index of Services | 0.6% | 0.6% | 0.8% |
 | 07:00 | GBP | Industrial Production (YoY) (Jul) | -1.2% | -0.2% | -1.4% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jul) | -1.3% | -0.1% | -1.5% |
-| 54 min | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
-| 54 min | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
-| 54 min | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.082% |
+| 53 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.082% |
+| 53 min | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
+| 53 min | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
+| 53 min | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.112% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.43% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 136.1 |
 | 12:00 | USD | Mortgage Market Index |  |  | 230.5 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 751.4 |
-| 13:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.4% |
 | 13:00 | MXN | Industrial Production (YoY) (Jul) |  | 1.1% | -0.7% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
+| 13:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.4% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 1.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
 | 13:30 | USD | Core CPI Index (Aug) |  |  | 318.87 |
 | 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
 | 13:30 | USD | CPI Index, s.a (Aug) |  |  | 313.53 |
