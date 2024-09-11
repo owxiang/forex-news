@@ -30,8 +30,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 757.8 |  | 751.4 |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | 2.1% | 1.1% | -0.7% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | 0.2% |  | 0.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 0.8% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 0.8% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Aug) | 3.2% | 3.2% | 3.2% |
 | 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (Aug) | 319.77 |  | 318.87 |
@@ -58,8 +58,8 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 49.48 |  | 50.06 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 55.91 |  | 51.99 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) | 51.34 |  | 53.09 |
-| 53 min | USD | High | 10-Year Note Auction |  |  | 3.960% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.839B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 3.960% |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 0.839B |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
 | 23:45 | NZD | Low | FPI (MoM) (Aug) |  |  | 0.4% |
