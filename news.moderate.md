@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 54 min | GBP | Industrial Production (MoM) (Jul) |  | 0.3% | 0.8% |
-| 54 min | GBP | Manufacturing Production (MoM) (Jul) |  | 0.2% | 1.1% |
-| 54 min | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.6% | 0.6% |
-| 54 min | GBP | Trade Balance (Jul) |  | -18.00B | -18.89B |
-| 54 min | GBP | Trade Balance Non-EU (Jul) |  |  | -7.46B |
+| 07:00 | GBP | Industrial Production (MoM) (Jul) | -0.8% | 0.3% | 0.8% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Jul) | -1.0% | 0.2% | 1.1% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Jul) | 0.5% | 0.6% | 0.6% |
+| 07:00 | GBP | Trade Balance (Jul) | -20.00B | -18.00B | -18.89B |
+| 07:00 | GBP | Trade Balance Non-EU (Jul) | -7.50B |  | -7.46B |
 | 09:00 | CNY | New Loans (Aug) |  | 810.0B | 260.0B |
 | 10:25 | EUR | ECB McCaul Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.220% |
