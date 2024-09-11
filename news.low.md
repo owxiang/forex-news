@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Aug) | 1.9% |  | 2.5% |
-| 05:00 | AUD | MI Inflation Expectations (Sep) |  |  | 4.5% |
+| 54 min | AUD | MI Inflation Expectations (Sep) |  |  | 4.5% |
 | 07:00 | GBP | Construction Output (MoM) (Jul) |  | 0.4% | 0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | -1.0% | -1.7% |
 | 07:00 | GBP | GDP (YoY) (Jul) |  | 1.4% | 0.7% |
