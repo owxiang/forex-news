@@ -5,8 +5,8 @@
 | 00:00 | KRW | Low | Unemployment Rate (Aug) | 1.9% |  | 2.5% |
 | 00:00 | JPY | Low | Reuters Tankan Index | 4 |  | 10 |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jul) | -0.4% | 0.4% | 0.5% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) | -1.6% | -1.0% | -1.7% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jul) | -0.4% | 0.4% | 0.5% |
 | 07:00 | GBP | High | GDP (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Jul) | 1.2% | 1.4% | 0.7% |
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.6% | 0.8% |
@@ -17,15 +17,15 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.5% | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Jul) | -20.00B | -18.00B | -18.89B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -7.50B |  | -7.46B |
-| 53 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.082% |
-| 53 min | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
-| 53 min | CNY | Moderate | New Loans (Aug) |  | 810.0B | 260.0B |
-| 53 min | CNY | Low | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
-| 53 min | CNY | Low | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.112% |
-| 10:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.220% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 4 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.082% |
+| 4 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.112% |
+| 19 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 24 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.220% |
+| 54 min | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
+| 54 min | CNY | Moderate | New Loans (Aug) |  | 810.0B | 260.0B |
+| 54 min | CNY | Low | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
+| 54 min | CNY | Low | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.43% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 136.1 |
@@ -34,13 +34,13 @@
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.5% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | 1.1% | -0.7% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jul) |  |  | 0.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 1.3% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.2% | 3.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 1.3% |
 | 13:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.2% | 3.2% |
 | 13:30 | USD | Low | Core CPI Index (Aug) |  |  | 318.87 |
-| 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.5% | 2.9% |
+| 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
 | 13:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 313.53 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.12% |
@@ -64,6 +64,6 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.09 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 3.960% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.839B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
 | 23:45 | NZD | Low | FPI (MoM) (Aug) |  |  | 0.4% |
