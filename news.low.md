@@ -19,8 +19,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 757.8 |  | 751.4 |
 | 13:00 | MXN | Industrial Production (YoY) (Jul) | 2.1% | 1.1% | -0.7% |
 | 13:00 | MXN | Industrial Production (MoM) (Jul) | 0.2% |  | 0.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 0.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
 | 13:30 | USD | Core CPI Index (Aug) | 319.77 |  | 318.87 |
 | 13:30 | USD | CPI Index, n.s.a. (Aug) | 314.80 | 314.98 | 314.54 |
 | 13:30 | USD | CPI Index, s.a (Aug) | 314.12 |  | 313.53 |
@@ -35,6 +35,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 1.0% |
 | 15:30 | USD | Gasoline Inventories | 2.310M | -0.400M | 0.848M |
 | 16:00 | USD | Cleveland CPI (MoM) (Aug) | 0.3% |  | 0.3% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) | 55.02 |  | 55.27 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 49.48 |  | 50.06 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 55.91 |  | 51.99 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) | 51.34 |  | 53.09 |

@@ -10,10 +10,10 @@
 | 07:00 | GBP | High | GDP (MoM) (Jul) | 0.0% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Jul) | 1.2% | 1.4% | 0.7% |
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.6% | 0.8% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Jul) | -1.2% | -0.2% | -1.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.8% | 0.3% | 0.8% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -1.0% | 0.2% | 1.1% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Jul) | -1.2% | -0.2% | -1.4% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | -1.3% | -0.1% | -1.5% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -1.0% | 0.2% | 1.1% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.5% | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Jul) | -20.00B | -18.00B | -18.89B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -7.50B |  | -7.46B |
@@ -30,13 +30,13 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 757.8 |  | 751.4 |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | 2.1% | 1.1% | -0.7% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | 0.2% |  | 0.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 0.8% |
-| 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Aug) | 3.2% | 3.2% | 3.2% |
+| 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (Aug) | 319.77 |  | 318.87 |
-| 13:30 | USD | High | CPI (YoY) (Aug) | 2.5% | 2.5% | 2.9% |
 | 13:30 | USD | High | CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Aug) | 2.5% | 2.5% | 2.9% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Aug) | 314.80 | 314.98 | 314.54 |
 | 13:30 | USD | Low | CPI Index, s.a (Aug) | 314.12 |  | 313.53 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.08% |  | 0.12% |
@@ -54,10 +54,11 @@
 | 15:30 | USD | Low | Gasoline Inventories | 2.310M | -0.400M | 0.848M |
 | 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) | 0.3% |  | 0.3% |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) | 55.02 |  | 55.27 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 49.48 |  | 50.06 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 55.91 |  | 51.99 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) | 51.34 |  | 53.09 |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 3.960% |
+| 53 min | USD | High | 10-Year Note Auction |  |  | 3.960% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.839B |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
