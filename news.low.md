@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Aug) | 1.9% |  | 2.5% |
-| 05:00 | AUD | MI Inflation Expectations (Sep) |  |  | 4.5% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | -1.0% | -1.7% |
-| 07:00 | GBP | Construction Output (MoM) (Jul) |  | 0.4% | 0.5% |
-| 07:00 | GBP | GDP (YoY) (Jul) |  | 1.4% | 0.7% |
-| 07:00 | GBP | Index of Services |  | 0.6% | 0.8% |
-| 07:00 | GBP | Industrial Production (YoY) (Jul) |  | -0.2% | -1.4% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Jul) |  | -0.1% | -1.5% |
+| 00:00 | JPY | Reuters Tankan Index | 4 |  | 10 |
+| 54 min | GBP | Construction Output (MoM) (Jul) |  | 0.4% | 0.5% |
+| 54 min | GBP | U.K. Construction Output (YoY) (Jul) |  | -1.0% | -1.7% |
+| 54 min | GBP | GDP (YoY) (Jul) |  | 1.4% | 0.7% |
+| 54 min | GBP | Index of Services |  | 0.6% | 0.8% |
+| 54 min | GBP | Industrial Production (YoY) (Jul) |  | -0.2% | -1.4% |
+| 54 min | GBP | Manufacturing Production (YoY) (Jul) |  | -0.1% | -1.5% |
 | 09:00 | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
 | 09:00 | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
@@ -20,10 +20,10 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 136.1 |
 | 12:00 | USD | Mortgage Market Index |  |  | 230.5 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 751.4 |
-| 13:00 | MXN | Industrial Production (YoY) (Jul) |  | 1.1% | -0.7% |
 | 13:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
+| 13:00 | MXN | Industrial Production (YoY) (Jul) |  | 1.1% | -0.7% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 1.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
 | 13:30 | USD | Core CPI Index (Aug) |  |  | 318.87 |
 | 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
 | 13:30 | USD | CPI Index, s.a (Aug) |  |  | 313.53 |
@@ -42,5 +42,6 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.06 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 51.99 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.09 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.839B |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | -4.9% |
 | 23:45 | NZD | FPI (MoM) (Aug) |  |  | 0.4% |
