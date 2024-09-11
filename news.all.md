@@ -12,8 +12,8 @@
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.6% | 0.8% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.8% | 0.3% | 0.8% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jul) | -1.2% | -0.2% | -1.4% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | -1.3% | -0.1% | -1.5% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -1.0% | 0.2% | 1.1% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | -1.3% | -0.1% | -1.5% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.5% | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Jul) | -20.00B | -18.00B | -18.89B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -7.50B |  | -7.46B |
@@ -22,25 +22,25 @@
 | 10:40 | EUR | Low | Italian 12-Month BOT Auction | 2.892% |  | 3.112% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.110% |  | 2.220% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) | 0.3% |  | 0.5% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.29% |  | 6.43% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.4% |  | 1.6% |
 | 12:00 | USD | Low | MBA Purchase Index | 138.6 |  | 136.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 233.7 |  | 230.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 757.8 |  | 751.4 |
-| 54 min | GBP | Moderate | NIESR Monthly GDP Tracker (Aug) |  |  | 0.5% |
-| 54 min | MXN | Low | Industrial Production (MoM) (Jul) |  |  | 0.4% |
-| 54 min | MXN | Low | Industrial Production (YoY) (Jul) |  | 1.1% | -0.7% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 1.3% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.2% | 3.2% |
-| 13:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 13:30 | USD | Low | Core CPI Index (Aug) |  |  | 318.87 |
-| 13:30 | USD | High | CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 13:30 | USD | High | CPI (YoY) (Aug) |  | 2.5% | 2.9% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
-| 13:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 313.53 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.12% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Aug) |  |  | -0.2% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | 2.1% | 1.1% | -0.7% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | 0.2% |  | 0.4% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 1.3% |
+| 21 min | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
+| 21 min | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.2% | 3.2% |
+| 21 min | USD | Low | Core CPI Index (Aug) |  |  | 318.87 |
+| 21 min | USD | High | CPI (MoM) (Aug) |  | 0.2% | 0.2% |
+| 21 min | USD | High | CPI (YoY) (Aug) |  | 2.5% | 2.9% |
+| 21 min | USD | Low | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
+| 21 min | USD | Low | CPI Index, s.a (Aug) |  |  | 313.53 |
+| 21 min | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.12% |
+| 21 min | USD | Low | Real Earnings (MoM) (Aug) |  |  | -0.2% |
 | 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.900M | -6.873M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.036M |

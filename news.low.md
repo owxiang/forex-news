@@ -17,15 +17,15 @@
 | 12:00 | USD | MBA Purchase Index | 138.6 |  | 136.1 |
 | 12:00 | USD | Mortgage Market Index | 233.7 |  | 230.5 |
 | 12:00 | USD | Mortgage Refinance Index | 757.8 |  | 751.4 |
-| 54 min | MXN | Industrial Production (MoM) (Jul) |  |  | 0.4% |
-| 54 min | MXN | Industrial Production (YoY) (Jul) |  | 1.1% | -0.7% |
-| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 1.7% |
-| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 1.3% |
-| 13:30 | USD | Core CPI Index (Aug) |  |  | 318.87 |
-| 13:30 | USD | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
-| 13:30 | USD | CPI Index, s.a (Aug) |  |  | 313.53 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Aug) |  |  | 0.12% |
-| 13:30 | USD | Real Earnings (MoM) (Aug) |  |  | -0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Jul) | 2.1% | 1.1% | -0.7% |
+| 13:00 | MXN | Industrial Production (MoM) (Jul) | 0.2% |  | 0.4% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 1.3% |
+| 21 min | USD | Core CPI Index (Aug) |  |  | 318.87 |
+| 21 min | USD | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
+| 21 min | USD | CPI Index, s.a (Aug) |  |  | 313.53 |
+| 21 min | USD | CPI, n.s.a (MoM) (Aug) |  |  | 0.12% |
+| 21 min | USD | Real Earnings (MoM) (Aug) |  |  | -0.2% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.036M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.853M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.167M |
