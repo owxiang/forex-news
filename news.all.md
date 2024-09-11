@@ -31,27 +31,27 @@
 | 13:00 | MXN | Low | Industrial Production (YoY) (Jul) | 2.1% | 1.1% | -0.7% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Jul) | 0.2% |  | 0.4% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 1.2% |  | 1.7% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 1.3% |
-| 21 min | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 21 min | USD | Moderate | Core CPI (YoY) (Aug) |  | 3.2% | 3.2% |
-| 21 min | USD | Low | Core CPI Index (Aug) |  |  | 318.87 |
-| 21 min | USD | High | CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 21 min | USD | High | CPI (YoY) (Aug) |  | 2.5% | 2.9% |
-| 21 min | USD | Low | CPI Index, n.s.a. (Aug) |  | 314.98 | 314.54 |
-| 21 min | USD | Low | CPI Index, s.a (Aug) |  |  | 313.53 |
-| 21 min | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.12% |
-| 21 min | USD | Low | Real Earnings (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 4.3% |  | 0.8% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Aug) | 3.2% | 3.2% | 3.2% |
+| 13:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
+| 13:30 | USD | Low | Core CPI Index (Aug) | 319.77 |  | 318.87 |
+| 13:30 | USD | High | CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Aug) | 2.5% | 2.5% | 2.9% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Aug) | 314.80 | 314.98 | 314.54 |
+| 13:30 | USD | Low | CPI Index, s.a (Aug) | 314.12 |  | 313.53 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.08% |  | 0.12% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Aug) | 0.5% |  | -0.2% |
+| 51 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.900M | -6.873M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.036M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.853M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.142M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.167M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.371M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.300M | -0.371M |
 | 15:30 | USD | Low | Gasoline Production |  |  | 0.136M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.939M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.848M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.400M | 0.848M |
 | 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Aug) |  |  | 0.3% |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 55.27 |

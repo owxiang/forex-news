@@ -12,8 +12,8 @@
 | 10:50 | EUR | German 10-Year Bund Auction | 2.110% |  | 2.220% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Aug) | 0.3% |  | 0.5% |
-| 21 min | USD | Core CPI (YoY) (Aug) |  | 3.2% | 3.2% |
-| 15:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:30 | USD | Core CPI (YoY) (Aug) | 3.2% | 3.2% | 3.2% |
+| 51 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.142M |
 | 15:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | -0.1% |
