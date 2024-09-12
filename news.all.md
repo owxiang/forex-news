@@ -9,8 +9,8 @@
 | 00:50 | JPY | Low | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) | -1.1% |  | -0.1% |
+| 07:00 | EUR | Low | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 07:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.7% | 2.7% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.5% |
@@ -34,16 +34,12 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.28 |  | 50.20 |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.50 |  | 50.05 |
-| 54 min | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
-| 54 min | CNY | Moderate | New Loans (Aug) |  | 810.0B | 260.0B |
-| 54 min | CNY | Low | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
-| 54 min | CNY | Low | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
-| 13:00 | INR | Moderate | CPI (YoY) (Aug) |  | 3.55% | 3.54% |
-| 13:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 5.20% |
-| 13:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.7% | 4.2% |
-| 13:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 2.6% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.5% | -1.0% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 4.2% | 4.0% |
+| 54 min | INR | Moderate | CPI (YoY) (Aug) |  | 3.55% | 3.54% |
+| 54 min | INR | Low | Cumulative Industrial Production (Jul) |  |  | 5.20% |
+| 54 min | INR | Low | Industrial Production (YoY) (Jul) |  | 4.7% | 4.2% |
+| 54 min | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 2.6% |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.5% | -1.0% |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 4.2% | 4.0% |
 | 13:15 | EUR | High | Deposit Facility Rate (Sep) |  | 3.50% | 3.75% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |

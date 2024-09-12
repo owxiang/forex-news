@@ -8,8 +8,8 @@
 | 00:50 | JPY | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 07:00 | EUR | German WPI (YoY) | -1.1% |  | -0.1% |
+| 07:00 | EUR | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) | 2.7% | 2.7% | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.7% |
@@ -28,12 +28,9 @@
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.28 |  | 50.20 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.50 |  | 50.05 |
-| 54 min | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
-| 54 min | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
-| 54 min | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
-| 13:00 | INR | Cumulative Industrial Production (Jul) |  |  | 5.20% |
-| 13:00 | INR | Industrial Production (YoY) (Jul) |  | 4.7% | 4.2% |
-| 13:00 | INR | Manufacturing Output (MoM) (Jul) |  |  | 2.6% |
+| 54 min | INR | Cumulative Industrial Production (Jul) |  |  | 5.20% |
+| 54 min | INR | Industrial Production (YoY) (Jul) |  | 4.7% | 4.2% |
+| 54 min | INR | Manufacturing Output (MoM) (Jul) |  |  | 2.6% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 3.3% |
 | 13:30 | USD | Core PPI (YoY) (Aug) |  | 2.5% | 2.4% |
