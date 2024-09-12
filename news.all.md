@@ -10,15 +10,15 @@
 | 00:50 | JPY | Low | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 05:30 | AUD | Moderate | NAB Business Confidence |  |  | 1 |
-| 07:00 | EUR | Low | German WPI (MoM) |  | 0.1% | 0.3% |
+| 23 min | AUD | Moderate | NAB Business Confidence |  |  | 1 |
 | 07:00 | EUR | Low | German WPI (YoY) |  |  | -0.1% |
+| 07:00 | EUR | Low | German WPI (MoM) |  | 0.1% | 0.3% |
 | 07:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) |  | 2.7% | 2.8% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.2% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.0% | -0.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.2% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.0% | -0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.9% |
 | 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -46,8 +46,8 @@
 | 13:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 5.20% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.7% | 4.2% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 2.6% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.5% | -1.0% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 4.2% | 4.0% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.5% | -1.0% |
 | 13:15 | EUR | High | Deposit Facility Rate (Sep) |  | 3.50% | 3.75% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -59,8 +59,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.5% | 2.4% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 227K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 230.00K |
-| 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.1% | 0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Aug) |  | 1.8% | 2.2% |
+| 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) |  | 6.5% | -13.9% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 23.2B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
