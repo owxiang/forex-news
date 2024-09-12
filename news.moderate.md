@@ -9,8 +9,8 @@
 | 08:25 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 13:00 | INR | CPI (YoY) (Aug) | 3.65% | 3.55% | 3.60% |
-| 13:00 | BRL | Retail Sales (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 13:00 | BRL | Retail Sales (YoY) (Jul) | 4.4% | 4.2% | 4.1% |
+| 13:00 | BRL | Retail Sales (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 13:15 | EUR | ECB Marginal Lending Facility | 3.90% |  | 4.50% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,850K | 1,850K | 1,845K |
