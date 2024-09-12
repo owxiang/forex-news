@@ -21,5 +21,5 @@
 | 15:25 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,113B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,113B |
 | 23:30 | NZD | Business NZ PMI (Aug) |  |  | 44.0 |

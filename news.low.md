@@ -8,8 +8,8 @@
 | 00:50 | JPY | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 07:00 | EUR | German WPI (YoY) | -1.1% |  | -0.1% |
+| 07:00 | EUR | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) | 2.7% | 2.7% | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.7% |
@@ -40,6 +40,6 @@
 | 15:30 | USD | Natural Gas Storage | 40B | 49B | 13B |
 | 16:30 | USD | 4-Week Bill Auction | 4.965% |  | 5.080% |
 | 16:30 | USD | 8-Week Bill Auction | 4.990% |  | 5.040% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.265T |
-| 22:00 | KRW | Export Price Index (YoY) (Aug) |  |  | 12.9% |
-| 22:00 | KRW | Import Price Index (YoY) (Aug) |  |  | 9.8% |
+| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.265T |
+| 54 min | KRW | Export Price Index (YoY) (Aug) |  |  | 12.9% |
+| 54 min | KRW | Import Price Index (YoY) (Aug) |  |  | 9.8% |
