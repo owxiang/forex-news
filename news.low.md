@@ -8,8 +8,8 @@
 | 00:50 | JPY | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | German WPI (YoY) |  |  | -0.1% |
 | 07:00 | EUR | German WPI (MoM) |  | 0.1% | 0.3% |
+| 07:00 | EUR | German WPI (YoY) |  |  | -0.1% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) |  | 2.7% | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.0% | -0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.0% | -0.7% |
