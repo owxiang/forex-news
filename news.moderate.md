@@ -1,25 +1,28 @@
-## 12 September 2024 - Moderate Impact Forex News
+## 13 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | BSI Large Manufacturing Conditions (Q3) | 4.5 | -2.5 | -1.0 |
-| 07:25 | EUR | ECB McCaul Speaks |  |  |  |
-| 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.3% | 2.2% | 2.8% |
-| 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.9% |
-| 08:25 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 13:00 | INR | CPI (YoY) (Aug) | 3.65% | 3.55% | 3.60% |
-| 13:00 | BRL | Retail Sales (YoY) (Jul) | 4.4% | 4.2% | 4.1% |
-| 13:00 | BRL | Retail Sales (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
-| 13:15 | EUR | ECB Marginal Lending Facility | 3.90% |  | 4.50% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,850K | 1,850K | 1,845K |
-| 13:30 | USD | Core PPI (MoM) (Aug) | 0.3% | 0.2% | -0.2% |
-| 13:30 | CAD | Building Permits (MoM) (Jul) | 22.1% | 6.5% | -13.0% |
-| 15:00 | USD | Federal Budget Balance (Aug) | -380.0B | -285.7B | -244.0B |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:25 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,115B |  | 7,113B |
-| 23 min | NZD | Business NZ PMI (Aug) |  |  | 44.0 |
+| 05:30 | JPY | Industrial Production (MoM) (Jul) |  | 2.8% | -4.2% |
+| 07:45 | EUR | French CPI (MoM) (Aug) |  | 0.6% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Aug) |  | 0.6% | 0.2% |
+| 10:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.6% | -0.1% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 12:00 | CNY | New Loans (Aug) |  | 810.0B | 260.0B |
+| 13:30 | USD | Export Price Index (MoM) (Aug) |  | -0.1% | 0.7% |
+| 13:30 | USD | Import Price Index (MoM) (Aug) |  | -0.2% | 0.1% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  | -1.1% | -0.6% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  |  | 2.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 71.0 | 72.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Sep) |  | 68.3 | 67.9 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 108.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 177.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 287.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 26.0K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -48.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -7.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -50.8K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 41.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 100.0K |
