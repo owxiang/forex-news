@@ -13,10 +13,10 @@
 | 07:00 | EUR | Low | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 07:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.7% | 2.7% | 2.8% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.3% | 2.2% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.3% | 2.2% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.9% |
 | 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -38,8 +38,8 @@
 | 13:00 | INR | Low | Cumulative Industrial Production (Jul) | 5.20% |  | 5.20% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Jul) | 4.8% | 4.7% | 4.7% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Jul) | 4.6% |  | 3.2% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) | 4.4% | 4.2% | 4.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Jul) | 4.4% | 4.2% | 4.1% |
 | 13:15 | EUR | High | Deposit Facility Rate (Sep) | 3.50% | 3.50% | 3.75% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 3.90% |  | 4.50% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -51,8 +51,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Aug) | 2.4% | 2.5% | 2.3% |
 | 13:30 | USD | High | Initial Jobless Claims | 230K | 227K | 228K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 230.75K |  | 230.25K |
-| 13:30 | USD | Low | PPI (YoY) (Aug) | 1.7% | 1.8% | 2.1% |
 | 13:30 | USD | High | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) | 1.7% | 1.8% | 2.1% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) | 22.1% | 6.5% | -13.0% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a | 16.0B |  | 20.6B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
@@ -65,8 +65,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.990% |  | 5.040% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.015% |  | 4.314% |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,113B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.265T |
-| 54 min | KRW | Low | Export Price Index (YoY) (Aug) |  |  | 12.9% |
-| 54 min | KRW | Low | Import Price Index (YoY) (Aug) |  |  | 9.8% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,115B |  | 7,113B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.360T |  | 3.265T |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Aug) | 5.7% |  | 13.0% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Aug) | 1.8% |  | 9.9% |
 | 23:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 44.0 |

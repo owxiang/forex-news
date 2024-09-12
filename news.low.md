@@ -40,6 +40,6 @@
 | 15:30 | USD | Natural Gas Storage | 40B | 49B | 13B |
 | 16:30 | USD | 4-Week Bill Auction | 4.965% |  | 5.080% |
 | 16:30 | USD | 8-Week Bill Auction | 4.990% |  | 5.040% |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.265T |
-| 54 min | KRW | Export Price Index (YoY) (Aug) |  |  | 12.9% |
-| 54 min | KRW | Import Price Index (YoY) (Aug) |  |  | 9.8% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.360T |  | 3.265T |
+| 22:00 | KRW | Export Price Index (YoY) (Aug) | 5.7% |  | 13.0% |
+| 22:00 | KRW | Import Price Index (YoY) (Aug) | 1.8% |  | 9.9% |
