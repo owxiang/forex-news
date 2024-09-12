@@ -5,22 +5,22 @@
 | 00:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 4.5 | -2.5 | -1.0 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -222.6B |  | 1,640.5B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -902.3B |  | -824.4B |
-| 00:50 | JPY | Low | PPI (MoM) (Aug) | -0.2% | 0.0% | 0.5% |
 | 00:50 | JPY | Low | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
+| 00:50 | JPY | Low | PPI (MoM) (Aug) | -0.2% | 0.0% | 0.5% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | Low | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) | -1.1% |  | -0.1% |
-| 17 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 52 min | EUR | Low | Core CPI (YoY) (Aug) |  | 2.7% | 2.8% |
-| 52 min | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.2% | 2.8% |
-| 52 min | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.0% | -0.5% |
-| 52 min | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.9% |
-| 52 min | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.0% | -0.7% |
-| 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.1% | 7.2% |
+| 07:00 | EUR | Low | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
+| 07:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 08:00 | EUR | Low | Core CPI (YoY) (Aug) | 2.7% | 2.7% | 2.8% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.3% | 2.2% | 2.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.5% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.7% |
+| 19 min | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 54 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 54 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 54 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.1% | 7.2% |
 | 09:30 | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 1.80% |
 | 09:30 | HKD | Low | PPI (YoY) (Q2) |  |  | 1.20% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.42% |
@@ -53,8 +53,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 3.3% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,850K | 1,838K |
-| 13:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.5% | 2.4% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.5% | 2.4% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 227K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 230.00K |
 | 13:30 | USD | High | PPI (MoM) (Aug) |  | 0.1% | 0.1% |

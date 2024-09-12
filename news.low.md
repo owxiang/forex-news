@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | -222.6B |  | 1,640.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -902.3B |  | -824.4B |
-| 00:50 | JPY | PPI (MoM) (Aug) | -0.2% | 0.0% | 0.5% |
 | 00:50 | JPY | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
+| 00:50 | JPY | PPI (MoM) (Aug) | -0.2% | 0.0% | 0.5% |
 | 02:00 | AUD | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
 | 07:00 | EUR | German WPI (YoY) | -1.1% |  | -0.1% |
-| 52 min | EUR | Core CPI (YoY) (Aug) |  | 2.7% | 2.8% |
-| 52 min | EUR | Spanish CPI (MoM) (Aug) |  | 0.0% | -0.5% |
-| 52 min | EUR | Spanish HICP (MoM) (Aug) |  | 0.0% | -0.7% |
-| 09:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.1% | 7.2% |
+| 07:00 | EUR | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
+| 08:00 | EUR | Core CPI (YoY) (Aug) | 2.7% | 2.7% | 2.8% |
+| 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.5% |
+| 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.7% |
+| 54 min | GBP | BoE Breeden Speaks |  |  |  |
+| 54 min | EUR | Italian Quarterly Unemployment Rate |  | 7.1% | 7.2% |
 | 09:30 | HKD | Industrial Production (YoY) (Q2) |  |  | 1.80% |
 | 09:30 | HKD | PPI (YoY) (Q2) |  |  | 1.20% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.42% |

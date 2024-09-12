@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BSI Large Manufacturing Conditions (Q3) | 4.5 | -2.5 | -1.0 |
-| 17 min | EUR | ECB McCaul Speaks |  |  |  |
-| 52 min | EUR | Spanish CPI (YoY) (Aug) |  | 2.2% | 2.8% |
-| 52 min | EUR | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.9% |
-| 08:25 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 07:25 | EUR | ECB McCaul Speaks |  |  |  |
+| 08:00 | EUR | Spanish CPI (YoY) (Aug) | 2.3% | 2.2% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.9% |
+| 19 min | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 54 min | USD | IEA Monthly Report |  |  |  |
 | 12:00 | CNY | New Loans (Aug) |  | 810.0B | 260.0B |
 | 13:00 | INR | CPI (YoY) (Aug) |  | 3.55% | 3.54% |
 | 13:00 | BRL | Retail Sales (YoY) (Jul) |  | 4.2% | 4.0% |
