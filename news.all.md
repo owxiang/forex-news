@@ -34,7 +34,6 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.28 |  | 50.20 |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.50 |  | 50.05 |
-| 13:00 | USD | Moderate | Federal Budget Balance (Aug) | -380.1B | -285.7B | -244.0B |
 | 13:00 | INR | Moderate | CPI (YoY) (Aug) | 3.65% | 3.55% | 3.60% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Jul) | 5.20% |  | 5.20% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Jul) | 4.8% | 4.7% | 4.7% |
@@ -48,23 +47,24 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) | 3.3% |  | 3.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,850K | 1,850K | 1,845K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Aug) | 0.3% | 0.2% | -0.2% |
 | 13:30 | USD | Low | Core PPI (YoY) (Aug) | 2.4% | 2.5% | 2.3% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Aug) | 0.3% | 0.2% | -0.2% |
 | 13:30 | USD | High | Initial Jobless Claims | 230K | 227K | 228K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 230.75K |  | 230.25K |
-| 13:30 | USD | Low | PPI (YoY) (Aug) | 1.7% | 1.8% | 2.1% |
 | 13:30 | USD | High | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
+| 13:30 | USD | Low | PPI (YoY) (Aug) | 1.7% | 1.8% | 2.1% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Jul) | 22.1% | 6.5% | -13.0% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a | 16.0B |  | 20.6B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 15:00 | USD | Moderate | Federal Budget Balance (Aug) | -380.0B | -285.7B | -244.0B |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:25 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 40B | 49B | 13B |
 | 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.080% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.040% |
-| 54 min | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.314% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.965% |  | 5.080% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.990% |  | 5.040% |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 54 min | USD | High | 30-Year Bond Auction |  |  | 4.314% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,113B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.265T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Aug) |  |  | 12.9% |

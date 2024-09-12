@@ -38,8 +38,8 @@
 | 13:30 | USD | PPI (YoY) (Aug) | 1.7% | 1.8% | 2.1% |
 | 13:45 | EUR | German Current Account Balance n.s.a | 16.0B |  | 20.6B |
 | 15:30 | USD | Natural Gas Storage | 40B | 49B | 13B |
-| 24 min | USD | 4-Week Bill Auction |  |  | 5.080% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 5.040% |
+| 16:30 | USD | 4-Week Bill Auction | 4.965% |  | 5.080% |
+| 16:30 | USD | 8-Week Bill Auction | 4.990% |  | 5.040% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.265T |
 | 22:00 | KRW | Export Price Index (YoY) (Aug) |  |  | 12.9% |
 | 22:00 | KRW | Import Price Index (YoY) (Aug) |  |  | 9.8% |
