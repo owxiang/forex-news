@@ -8,8 +8,8 @@
 | 00:50 | JPY | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | German WPI (YoY) | -1.1% |  | -0.1% |
 | 07:00 | EUR | German WPI (MoM) | -0.8% | 0.1% | 0.3% |
+| 07:00 | EUR | German WPI (YoY) | -1.1% |  | -0.1% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) | 2.7% | 2.7% | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) | 0.0% | 0.0% | -0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) | 0.0% | 0.0% | -0.7% |
@@ -17,22 +17,20 @@
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.8% | 7.1% | 7.2% |
 | 09:30 | HKD | Industrial Production (YoY) (Q2) | 0.70% |  | 1.80% |
 | 09:30 | HKD | PPI (YoY) (Q2) | 3.00% |  | 1.20% |
-| 4 min | EUR | Italian 15-Year BTP Auction |  |  | 4.42% |
-| 4 min | EUR | Italian 3-Year BTP Auction |  |  | 3.24% |
-| 4 min | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 4 min | EUR | Italian 7-Year BTP Auction |  |  | 3.57% |
-| 24 min | ZAR | Gold Production (YoY) (Jul) |  |  | -12.6% |
-| 24 min | ZAR | Mining Production (Jul) |  |  | -3.5% |
-| 54 min | GBP | Thomson Reuters IPSOS PCSI (Sep) |  |  | 53.8 |
-| 54 min | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 46.39 |
-| 54 min | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 49.06 |
-| 54 min | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 44.38 |
-| 54 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.20 |
-| 54 min | EUR | ECOFIN Meetings |  |  |  |
-| 54 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 50.05 |
-| 12:00 | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
-| 12:00 | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
-| 12:00 | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
+| 10:10 | EUR | Italian 3-Year BTP Auction | 2.62% |  | 3.24% |
+| 10:10 | EUR | Italian 7-Year BTP Auction | 3.15% |  | 3.57% |
+| 10:30 | ZAR | Gold Production (YoY) (Jul) | -3.5% |  | -12.6% |
+| 10:30 | ZAR | Mining Production (Jul) | -1.4% |  | -3.6% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) | 54.1 |  | 53.8 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) | 46.43 |  | 46.39 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) | 53.72 |  | 49.06 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) | 47.60 |  | 44.38 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 48.28 |  | 50.20 |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.50 |  | 50.05 |
+| 54 min | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
+| 54 min | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
+| 54 min | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
 | 13:00 | INR | Cumulative Industrial Production (Jul) |  |  | 5.20% |
 | 13:00 | INR | Industrial Production (YoY) (Jul) |  | 4.7% | 4.2% |
 | 13:00 | INR | Manufacturing Output (MoM) (Jul) |  |  | 2.6% |
