@@ -17,9 +17,9 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,850K | 1,850K | 1,845K |
 | 13:30 | USD | Core PPI (MoM) (Aug) | 0.3% | 0.2% | -0.2% |
 | 13:30 | CAD | Building Permits (MoM) (Jul) | 22.1% | 6.5% | -13.0% |
-| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18 min | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 23 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:25 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 54 min | USD | WASDE Report |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,113B |
 | 23:30 | NZD | Business NZ PMI (Aug) |  |  | 44.0 |
