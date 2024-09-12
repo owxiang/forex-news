@@ -8,8 +8,8 @@
 | 00:50 | JPY | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
-| 07:00 | EUR | German WPI (YoY) |  |  | -0.1% |
-| 07:00 | EUR | German WPI (MoM) |  | 0.1% | 0.3% |
+| 54 min | EUR | German WPI (MoM) |  | 0.1% | 0.3% |
+| 54 min | EUR | German WPI (YoY) |  |  | -0.1% |
 | 08:00 | EUR | Core CPI (YoY) (Aug) |  | 2.7% | 2.8% |
 | 08:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.0% | -0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.0% | -0.7% |
@@ -42,7 +42,7 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 230.00K |
 | 13:30 | USD | PPI (YoY) (Aug) |  | 1.8% | 2.2% |
 | 13:45 | EUR | German Current Account Balance n.s.a |  |  | 23.2B |
-| 15:30 | USD | Natural Gas Storage |  | 48B | 13B |
+| 15:30 | USD | Natural Gas Storage |  | 49B | 13B |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 55.27 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.080% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.040% |
