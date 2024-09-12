@@ -29,14 +29,14 @@
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.50 |  | 50.05 |
 | 13:00 | INR | Cumulative Industrial Production (Jul) | 5.20% |  | 5.20% |
-| 13:00 | INR | Industrial Production (YoY) (Jul) | 4.8% | 4.7% | 4.2% |
-| 13:00 | INR | Manufacturing Output (MoM) (Jul) | 4.6% |  | 2.6% |
-| 21 min | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.3% |
-| 21 min | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 3.3% |
-| 21 min | USD | Core PPI (YoY) (Aug) |  | 2.5% | 2.4% |
-| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 230.00K |
-| 21 min | USD | PPI (YoY) (Aug) |  | 1.8% | 2.2% |
-| 36 min | EUR | German Current Account Balance n.s.a |  |  | 23.2B |
+| 13:00 | INR | Industrial Production (YoY) (Jul) | 4.8% | 4.7% | 4.7% |
+| 13:00 | INR | Manufacturing Output (MoM) (Jul) | 4.6% |  | 3.2% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% | 0.2% | 0.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) | 3.3% |  | 3.2% |
+| 13:30 | USD | Core PPI (YoY) (Aug) | 2.4% | 2.5% | 2.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 230.75K |  | 230.25K |
+| 13:30 | USD | PPI (YoY) (Aug) | 1.7% | 1.8% | 2.1% |
+| 13:45 | EUR | German Current Account Balance n.s.a | 16.0B |  | 20.6B |
 | 15:30 | USD | Natural Gas Storage |  | 49B | 13B |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 55.27 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.080% |
