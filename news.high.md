@@ -7,4 +7,4 @@
 | 13:30 | USD | Initial Jobless Claims | 230K | 227K | 228K |
 | 13:30 | USD | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
 | 13:45 | EUR | ECB Press Conference |  |  |  |
-| 54 min | USD | 30-Year Bond Auction |  |  | 4.314% |
+| 18:00 | USD | 30-Year Bond Auction | 4.015% |  | 4.314% |
