@@ -10,9 +10,9 @@
 | 00:50 | JPY | Low | PPI (YoY) (Aug) | 2.5% | 2.8% | 3.0% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Sep) | 4.4% |  | 4.5% |
 | 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 02:30 | AUD | Moderate | NAB Business Confidence |  |  | 1 |
-| 07:00 | EUR | Low | German WPI (MoM) |  | 0.1% | 0.3% |
+| 05:30 | AUD | Moderate | NAB Business Confidence |  |  | 1 |
 | 07:00 | EUR | Low | German WPI (YoY) |  |  | -0.1% |
+| 07:00 | EUR | Low | German WPI (MoM) |  | 0.1% | 0.3% |
 | 07:25 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Aug) |  | 2.7% | 2.8% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.2% | 2.8% |
