@@ -10,14 +10,14 @@
 | 04:00 | KRW | M3 Money Supply (Jul) | 5,519.9B |  | 5,493.8B |
 | 04:00 | KRW | M2 Money supply (Jul) | 5.20% |  | 5.50% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jul) | 2.5% |  | -3.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (Aug) | 1.80% |  | 1.90% |
 | 07:45 | EUR | French CPI NSA (MoM) (Aug) | 0.50% |  | 0.60% |
+| 07:45 | EUR | French CPI NSA (YoY) (Aug) | 1.80% |  | 1.90% |
 | 07:45 | EUR | French CPI (YoY) (Aug) | 1.8% | 1.9% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Aug) | 2.2% | 2.2% | 2.7% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) | 1.70% |  | 2.20% |
-| 09:30 | GBP | Inflation Expectations |  |  | 2.8% |
-| 10:00 | EUR | Industrial Production (YoY) (Jul) |  | -2.7% | -3.9% |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 09:30 | GBP | Inflation Expectations | 2.7% |  | 2.8% |
+| 10:00 | EUR | Industrial Production (YoY) (Jul) | -2.2% | -2.7% | -4.1% |
+| 54 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | CNY | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
 | 12:00 | CNY | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
 | 12:00 | CNY | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
