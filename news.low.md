@@ -9,7 +9,7 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) | 69.81 |  | 66.94 |
 | 04:00 | KRW | M3 Money Supply (Jul) | 5,519.9B |  | 5,493.8B |
 | 04:00 | KRW | M2 Money supply (Jul) | 5.20% |  | 5.50% |
-| 23 min | JPY | Capacity Utilization (MoM) (Jul) |  |  | -3.1% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Jul) | 2.5% |  | -3.1% |
 | 07:45 | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
 | 07:45 | EUR | French CPI NSA (YoY) (Aug) |  |  | 1.90% |
 | 07:45 | EUR | French CPI (YoY) (Aug) |  | 1.9% | 2.3% |

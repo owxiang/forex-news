@@ -9,12 +9,12 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Sep) | 69.81 |  | 66.94 |
 | 04:00 | KRW | Low | M3 Money Supply (Jul) | 5,519.9B |  | 5,493.8B |
 | 04:00 | KRW | Low | M2 Money supply (Jul) | 5.20% |  | 5.50% |
-| 23 min | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | -3.1% |
-| 23 min | JPY | Moderate | Industrial Production (MoM) (Jul) |  | 2.8% | -4.2% |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | 2.5% |  | -3.1% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | 3.1% | 2.8% | -4.2% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Aug) |  |  | 1.90% |
-| 07:45 | EUR | Low | French CPI (YoY) (Aug) |  | 1.9% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 0.6% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Aug) |  | 1.9% | 2.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) |  | 2.2% | 2.7% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 2.20% |
@@ -29,8 +29,8 @@
 | 12:00 | CNY | Low | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 683.99B |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | -0.80% | 1.40% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | -0.1% | 0.7% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 1.4% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | -0.1% | 0.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | 1.6% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.1% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q2) |  | 78.8% | 78.5% |
