@@ -7,9 +7,10 @@
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Jul) | -0.3% | -0.6% | -0.1% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Export Price Index (MoM) (Aug) |  | -0.1% | 0.7% |
-| 13:30 | USD | Import Price Index (MoM) (Aug) |  | -0.2% | 0.1% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  | -1.1% | -0.6% |
+| 12:30 | CNY | New Loans (Aug) | 900.0B | 810.0B | 260.0B |
+| 21 min | USD | Export Price Index (MoM) (Aug) |  | -0.1% | 0.7% |
+| 21 min | USD | Import Price Index (MoM) (Aug) |  | -0.2% | 0.1% |
+| 21 min | CAD | Wholesale Sales (MoM) (Jul) |  | -1.1% | -0.6% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  |  | 2.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 71.0 | 72.1 |

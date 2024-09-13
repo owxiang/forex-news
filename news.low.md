@@ -18,11 +18,14 @@
 | 09:30 | GBP | Inflation Expectations | 2.7% |  | 2.8% |
 | 10:00 | EUR | Industrial Production (YoY) (Jul) | -2.2% | -2.7% | -4.1% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 24 min | INR | FX Reserves, USD |  |  | 683.99B |
-| 54 min | BRL | IBC-Br Economic Activity (Jul) |  | -0.80% | 1.40% |
-| 13:30 | USD | Export Price Index (YoY) (Aug) |  |  | 1.4% |
-| 13:30 | USD | Import Price Index (YoY) (Aug) |  |  | 1.6% |
-| 13:30 | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 78.5% |
+| 12:30 | INR | FX Reserves, USD | 689.24B |  | 683.99B |
+| 12:30 | CNY | M2 Money Stock (YoY) (Aug) | 6.3% | 6.2% | 6.3% |
+| 12:30 | CNY | Outstanding Loan Growth (YoY) (Aug) | 8.5% | 8.6% | 8.7% |
+| 12:30 | CNY | Chinese Total Social Financing (Aug) | 3,030.0B | 2,950.0B | 770.0B |
+| 13:00 | BRL | IBC-Br Economic Activity (Jul) | -0.40% | -0.80% | 1.40% |
+| 21 min | USD | Export Price Index (YoY) (Aug) |  |  | 1.4% |
+| 21 min | USD | Import Price Index (YoY) (Aug) |  |  | 1.6% |
+| 21 min | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 78.5% |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 61.5 | 61.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
