@@ -21,18 +21,14 @@
 | 09:30 | GBP | Low | Inflation Expectations | 2.7% |  | 2.8% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jul) | -2.2% | -2.7% | -4.1% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) | -0.3% | -0.6% | -0.1% |
-| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
-| 12:00 | CNY | Moderate | New Loans (Aug) |  | 810.0B | 260.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Aug) |  | 8.6% | 8.7% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (Aug) |  | 2,950.0B | 770.0B |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 683.99B |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | -0.80% | 1.40% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) |  |  | 1.4% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | -0.1% | 0.7% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Aug) |  |  | 1.6% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | -0.2% | 0.1% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q2) |  | 78.8% | 78.5% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  | -1.1% | -0.6% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  |  | 2.8% |

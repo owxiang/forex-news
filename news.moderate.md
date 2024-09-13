@@ -6,8 +6,7 @@
 | 07:45 | EUR | French CPI (MoM) (Aug) | 0.5% | 0.6% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Jul) | -0.3% | -0.6% | -0.1% |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | CNY | New Loans (Aug) |  | 810.0B | 260.0B |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Export Price Index (MoM) (Aug) |  | -0.1% | 0.7% |
 | 13:30 | USD | Import Price Index (MoM) (Aug) |  | -0.2% | 0.1% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jul) |  | -1.1% | -0.6% |
