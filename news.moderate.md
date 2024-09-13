@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Industrial Production (MoM) (Jul) |  | 2.8% | -4.2% |
+| 23 min | JPY | Industrial Production (MoM) (Jul) |  | 2.8% | -4.2% |
 | 07:45 | EUR | French CPI (MoM) (Aug) |  | 0.6% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Aug) |  | 0.6% | 0.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.6% | -0.1% |
