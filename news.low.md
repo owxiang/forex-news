@@ -10,11 +10,11 @@
 | 04:00 | KRW | M3 Money Supply (Jul) | 5,519.9B |  | 5,493.8B |
 | 04:00 | KRW | M2 Money supply (Jul) | 5.20% |  | 5.50% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jul) | 2.5% |  | -3.1% |
-| 07:45 | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
-| 07:45 | EUR | French CPI NSA (YoY) (Aug) |  |  | 1.90% |
-| 07:45 | EUR | French CPI (YoY) (Aug) |  | 1.9% | 2.3% |
-| 07:45 | EUR | French HICP (YoY) (Aug) |  | 2.2% | 2.7% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 2.20% |
+| 37 min | EUR | French CPI NSA (YoY) (Aug) |  |  | 1.90% |
+| 37 min | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
+| 37 min | EUR | French CPI (YoY) (Aug) |  | 1.9% | 2.3% |
+| 37 min | EUR | French HICP (YoY) (Aug) |  | 2.2% | 2.7% |
+| 37 min | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 2.20% |
 | 09:30 | GBP | Inflation Expectations |  |  | 2.8% |
 | 10:00 | EUR | Industrial Production (YoY) (Jul) |  | -2.7% | -3.9% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
