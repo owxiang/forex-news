@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.30 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 61.63 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.27 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.03 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 66.94 |
-| 03:30 | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
+| 27 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.30 |
+| 27 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 61.63 |
+| 27 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.27 |
+| 27 min | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.03 |
+| 27 min | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 66.94 |
+| 57 min | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
 | 04:00 | KRW | M3 Money Supply (Jul) |  |  | 5,492.8B |
 | 04:00 | KRW | M2 Money supply (Jul) |  |  | 5.50% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jul) |  |  | -3.1% |
