@@ -23,10 +23,10 @@
 | 12:30 | CNY | Outstanding Loan Growth (YoY) (Aug) | 8.5% | 8.6% | 8.7% |
 | 12:30 | CNY | Chinese Total Social Financing (Aug) | 3,030.0B | 2,950.0B | 770.0B |
 | 13:00 | BRL | IBC-Br Economic Activity (Jul) | -0.40% | -0.80% | 1.40% |
-| 21 min | USD | Export Price Index (YoY) (Aug) |  |  | 1.4% |
-| 21 min | USD | Import Price Index (YoY) (Aug) |  |  | 1.6% |
-| 21 min | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 78.5% |
-| 15:00 | USD | Michigan Current Conditions (Sep) |  | 61.5 | 61.3 |
+| 13:30 | USD | Export Price Index (YoY) (Aug) | -0.7% |  | 1.2% |
+| 13:30 | USD | Import Price Index (YoY) (Aug) | 0.8% |  | 1.7% |
+| 13:30 | CAD | Capacity Utilization Rate (Q2) | 79.1% | 78.8% | 78.6% |
+| 51 min | USD | Michigan Current Conditions (Sep) |  | 61.5 | 61.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -90.5K |
