@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.30 |
-| 27 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 61.63 |
-| 27 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.27 |
-| 27 min | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.03 |
-| 27 min | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 66.94 |
-| 57 min | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
-| 04:00 | KRW | M3 Money Supply (Jul) |  |  | 5,492.8B |
-| 04:00 | KRW | M2 Money supply (Jul) |  |  | 5.50% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 39.74 |  | 40.30 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 67.22 |  | 61.63 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.17 |  | 49.27 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) | 39.42 |  | 38.03 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) | 69.81 |  | 66.94 |
+| 5 min | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
+| 35 min | KRW | M3 Money Supply (Jul) |  |  | 5,492.8B |
+| 35 min | KRW | M2 Money supply (Jul) |  |  | 5.50% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jul) |  |  | -3.1% |
 | 07:45 | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
 | 07:45 | EUR | French CPI NSA (YoY) (Aug) |  |  | 1.90% |
