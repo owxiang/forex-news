@@ -11,16 +11,16 @@
 | 04:00 | KRW | Low | M2 Money supply (Jul) | 5.20% |  | 5.50% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | 2.5% |  | -3.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | 3.1% | 2.8% | -4.2% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) | 0.50% |  | 0.60% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Aug) | 1.80% |  | 1.90% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) | 0.50% |  | 0.60% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.5% | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.8% | 1.9% | 2.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.2% | 2.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.2% | 2.7% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) | 1.70% |  | 2.20% |
 | 09:30 | GBP | Low | Inflation Expectations | 2.7% |  | 2.8% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jul) | -2.2% | -2.7% | -4.1% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) | -0.3% | -0.6% | -0.1% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jul) | -2.2% | -2.7% | -4.1% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD | 689.24B |  | 683.99B |
@@ -31,8 +31,8 @@
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) | -0.40% | -0.80% | 1.40% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) | -0.7% |  | 1.2% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) | -0.7% | -0.1% | 0.5% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) | -0.3% | -0.2% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Aug) | 0.8% |  | 1.7% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) | -0.3% | -0.2% | 0.1% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q2) | 79.1% | 78.8% | 78.6% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | 0.4% | -1.1% | -0.6% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 2.7% | 2.8% | 2.8% |
