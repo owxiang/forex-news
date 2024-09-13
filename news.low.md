@@ -7,12 +7,11 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.17 |  | 49.27 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) | 39.42 |  | 38.03 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) | 69.81 |  | 66.94 |
-| 5 min | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
-| 35 min | KRW | M3 Money Supply (Jul) |  |  | 5,492.8B |
-| 35 min | KRW | M2 Money supply (Jul) |  |  | 5.50% |
+| 04:00 | KRW | M3 Money Supply (Jul) | 5,519.9B |  | 5,493.8B |
+| 04:00 | KRW | M2 Money supply (Jul) | 5.20% |  | 5.50% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Jul) |  |  | -3.1% |
-| 07:45 | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
 | 07:45 | EUR | French CPI NSA (YoY) (Aug) |  |  | 1.90% |
+| 07:45 | EUR | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
 | 07:45 | EUR | French CPI (YoY) (Aug) |  | 1.9% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Aug) |  | 2.2% | 2.7% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 2.20% |

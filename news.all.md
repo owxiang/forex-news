@@ -7,21 +7,20 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 50.17 |  | 49.27 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Sep) | 39.42 |  | 38.03 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Sep) | 69.81 |  | 66.94 |
-| 5 min | SGD | Low | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
-| 35 min | KRW | Low | M3 Money Supply (Jul) |  |  | 5,492.8B |
-| 35 min | KRW | Low | M2 Money supply (Jul) |  |  | 5.50% |
+| 04:00 | KRW | Low | M3 Money Supply (Jul) | 5,519.9B |  | 5,493.8B |
+| 04:00 | KRW | Low | M2 Money supply (Jul) | 5.20% |  | 5.50% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | -3.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | 2.8% | -4.2% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Aug) |  |  | 1.90% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Aug) |  |  | 0.60% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) |  | 1.9% | 2.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) |  | 2.2% | 2.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 0.6% | 0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 2.20% |
 | 09:30 | GBP | Low | Inflation Expectations |  |  | 2.8% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | -0.6% | -0.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jul) |  | -2.7% | -3.9% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | -0.6% | -0.1% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | CNY | Low | M2 Money Stock (YoY) (Aug) |  | 6.2% | 6.3% |
