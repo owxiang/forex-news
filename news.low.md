@@ -26,7 +26,7 @@
 | 13:30 | USD | Export Price Index (YoY) (Aug) | -0.7% |  | 1.2% |
 | 13:30 | USD | Import Price Index (YoY) (Aug) | 0.8% |  | 1.7% |
 | 13:30 | CAD | Capacity Utilization Rate (Q2) | 79.1% | 78.8% | 78.6% |
-| 51 min | USD | Michigan Current Conditions (Sep) |  | 61.5 | 61.3 |
+| 15:00 | USD | Michigan Current Conditions (Sep) | 62.9 | 61.5 | 61.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -90.5K |

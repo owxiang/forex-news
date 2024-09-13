@@ -15,12 +15,12 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Aug) | 1.80% |  | 1.90% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Aug) | 0.5% | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Aug) | 1.8% | 1.9% | 2.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Aug) | 2.2% | 2.2% | 2.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) | 1.70% |  | 2.20% |
 | 09:30 | GBP | Low | Inflation Expectations | 2.7% |  | 2.8% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) | -0.3% | -0.6% | -0.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jul) | -2.2% | -2.7% | -4.1% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jul) | -0.3% | -0.6% | -0.1% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD | 689.24B |  | 683.99B |
@@ -31,15 +31,15 @@
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Jul) | -0.40% | -0.80% | 1.40% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Aug) | -0.7% |  | 1.2% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Aug) | -0.7% | -0.1% | 0.5% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Aug) | 0.8% |  | 1.7% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Aug) | -0.3% | -0.2% | 0.1% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Aug) | 0.8% |  | 1.7% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q2) | 79.1% | 78.8% | 78.6% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | 0.4% | -1.1% | -0.6% |
-| 51 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  |  | 2.8% |
-| 51 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
-| 51 min | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 71.0 | 72.1 |
-| 51 min | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 68.3 | 67.9 |
-| 51 min | USD | Low | Michigan Current Conditions (Sep) |  | 61.5 | 61.3 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 2.7% | 2.8% | 2.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) | 3.1% | 3.0% | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) | 73.0 | 71.0 | 72.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 69.0 | 68.3 | 67.9 |
+| 15:00 | USD | Low | Michigan Current Conditions (Sep) | 62.9 | 61.5 | 61.3 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 108.1K |
