@@ -18,8 +18,8 @@
 | 09:30 | GBP | Inflation Expectations | 2.7% |  | 2.8% |
 | 10:00 | EUR | Industrial Production (YoY) (Jul) | -2.2% | -2.7% | -4.1% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 12:30 | INR | FX Reserves, USD |  |  | 683.99B |
-| 13:00 | BRL | IBC-Br Economic Activity (Jul) |  | -0.80% | 1.40% |
+| 24 min | INR | FX Reserves, USD |  |  | 683.99B |
+| 54 min | BRL | IBC-Br Economic Activity (Jul) |  | -0.80% | 1.40% |
 | 13:30 | USD | Export Price Index (YoY) (Aug) |  |  | 1.4% |
 | 13:30 | USD | Import Price Index (YoY) (Aug) |  |  | 1.6% |
 | 13:30 | CAD | Capacity Utilization Rate (Q2) |  | 78.8% | 78.5% |
