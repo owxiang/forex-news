@@ -7,4 +7,4 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Aug) | 5.8% |  | 5.9% |
 | 03:00 | CNY | Chinese Unemployment Rate (Aug) | 5.3% | 5.2% | 5.2% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
