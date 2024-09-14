@@ -10,5 +10,5 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Aug) | 3.36% |  | 3.55% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Aug) | 5.3% | 5.2% | 5.2% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
