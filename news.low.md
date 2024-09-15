@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | CNY | FDI (Aug) |  |  | -29.60% |
+| 23:30 | NZD | Performance of Services Index |  |  | 44.6 |
