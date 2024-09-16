@@ -2,16 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Exports (YoY) (Aug) |  |  | 13.9% |
-| 05:00 | KRW | Imports (YoY) (Aug) |  |  | 10.5% |
-| 05:00 | KRW | Trade Balance (Aug) |  |  | 3.62B |
-| 07:00 | NOK | Trade Balance (Aug) |  |  | 59.3B |
+| 53 min | NOK | Trade Balance (Aug) |  |  | 59.3B |
 | 07:30 | CHF | PPI (YoY) (Aug) |  |  | -1.7% |
-| 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 09:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.1% | 1.1% |
+| 09:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.1% | 1.3% |
+| 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.3% |
-| 09:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.1% | -0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
+| 09:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.1% | -0.9% |
 | 10:00 | EUR | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
 | 10:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.05B |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.10% |
@@ -29,4 +26,4 @@
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.258% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.895% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.530% |
-| 17:16 | GBP | Rightmove House Price Index (YoY) (Sep) |  |  | 0.8% |
+| 17:00 | GBP | Rightmove House Price Index (YoY) (Sep) |  |  | 0.8% |
