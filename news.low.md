@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) | 0.8% |  | -1.5% |
-| 07:00 | EUR | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | EUR | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
+| 07:00 | EUR | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | NOK | Trade Balance (Aug) | 66.0B |  | 58.7B |
 | 07:30 | CHF | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
-| 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
 | 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 0.9% |  | 1.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -0.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.2% | 1.3% | 1.3% |
