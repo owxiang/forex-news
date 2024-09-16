@@ -7,8 +7,8 @@
 | 07:00 | EUR | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
 | 07:00 | NOK | Trade Balance (Aug) | 66.0B |  | 58.7B |
 | 07:30 | CHF | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
-| 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
+| 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 0.9% |  | 1.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.2% | 1.3% | 1.3% |
 | 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -0.1% |
@@ -25,5 +25,5 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.823% |  | 2.859% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.397% |  | 3.396% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.227% |  | 3.258% |
-| 24 min | USD | 3-Month Bill Auction |  |  | 4.895% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 4.530% |
+| 16:30 | USD | 3-Month Bill Auction | 4.750% |  | 4.895% |
+| 16:30 | USD | 6-Month Bill Auction | 4.410% |  | 4.530% |
