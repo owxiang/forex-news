@@ -1,35 +1,67 @@
-## 16 September 2024 - All Forex News
+## 17 September 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Sep) | 0.8% |  | -1.5% |
-| 07:00 | EUR | Low | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
-| 07:00 | EUR | Low | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
-| 07:00 | NOK | Low | Trade Balance (Aug) | 66.0B |  | 58.7B |
-| 07:30 | CHF | Low | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 0.9% |  | 1.1% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.2% | 1.3% | 1.3% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -0.1% |
-| 09:10 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian Trade Balance (Jul) | 6.743B | 4.450B | 5.150B |
-| 10:00 | EUR | Low | Italian Trade Balance EU (Jul) | 0.64B |  | -0.96B |
-| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q2) | 4.50% |  | 5.20% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q2) | 4.70% |  | 5.00% |
-| 10:00 | EUR | Moderate | Trade Balance (Jul) | 21.2B | 14.9B | 21.7B |
-| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.668% |  | 2.831% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) |  | 15.00% | 15.70% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) |  | -3.30% | 12.20% |
+| 02:30 | SGD | Low | Trade Balance (Aug) |  | 3.830B | 6.486B |
+| 03:30 | SGD | Low | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) |  |  | 56.30% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Aug) |  | 3.83% | 6.46% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Aug) |  | 8.15% | 11.07% |
+| 05:00 | IDR | Low | Trade Balance (Aug) |  | 1.96B | 0.47B |
+| 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) (Jul) |  | 0.8% | -1.3% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Jul) |  |  | 1.40 |
+| 07:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 3.45% |
+| 07:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 3.45% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  |  | 2.04% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
+| 08:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.636% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  |  | -77.3 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | 17.2 | 19.2 |
+| 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | 16.4 | 17.9 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Aug) | 1,288.39B |  | 1,282.84B |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:37 | GBP | Low | Rightmove House Price Index (YoY) (Sep) | 1.2% |  | 0.8% |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) | 11.50 | -4.10 | -4.70 |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) | 1.4% | 0.7% | -2.1% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jul) | 169.0K |  | 166.0K |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.823% |  | 2.859% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.397% |  | 3.396% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.227% |  | 3.258% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.750% |  | 4.895% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.410% |  | 4.530% |
+| 12:00 | INR | Low | Exports (USD) (Aug) |  |  | 33.98B |
+| 12:00 | INR | Low | Imports (USD) (Aug) |  |  | 57.48B |
+| 12:00 | INR | Low | Trade Balance (Aug) |  |  | -23.50B |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) |  |  | 0.7% |
+| 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 247.0K | 279.5K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.2% | 0.4% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 0.3% |
+| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | -0.2% | 1.0% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 2.66% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.3% | 0.4% |
+| 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.2% | 2.2% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 1.7% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.3% |
+| 13:30 | CAD | Low | CPI (YoY) (Aug) |  |  | 2.5% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Aug) |  | 0.1% | 0.4% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 2.3% | 2.4% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 2.6% | 2.7% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.5% |
+| 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 14:15 | USD | Low | Capacity Utilization Rate (Aug) |  | 77.9% | 77.8% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | -0.18% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | -0.6% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Aug) |  |  | -0.3% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.4% | 0.3% |
+| 15:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 15:00 | USD | Low | NAHB Housing Market Index (Sep) |  | 41 | 39 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) |  | 0.5% | 0.5% |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.4% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,833.0 |
+| 15:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.160% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.790M |
+| 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) |  |  | 82.2 |
+| 23:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -3.95B | -4.36B |
+| 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -27.64B |
+| 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -6.80% |

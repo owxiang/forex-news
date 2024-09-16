@@ -1,29 +1,40 @@
-## 16 September 2024 - Low Impact Forex News
+## 17 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) | 0.8% |  | -1.5% |
-| 07:00 | EUR | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
-| 07:00 | EUR | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
-| 07:00 | NOK | Trade Balance (Aug) | 66.0B |  | 58.7B |
-| 07:30 | CHF | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
-| 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
-| 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 0.9% |  | 1.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.2% | 1.3% | 1.3% |
-| 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -0.1% |
-| 10:00 | EUR | Italian Trade Balance (Jul) | 6.743B | 4.450B | 5.150B |
-| 10:00 | EUR | Italian Trade Balance EU (Jul) | 0.64B |  | -0.96B |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q2) | 4.70% |  | 5.00% |
-| 10:50 | EUR | German 12-Month Bubill Auction | 2.668% |  | 2.831% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) |  | 15.00% | 15.70% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Aug) |  | -3.30% | 12.20% |
+| 02:30 | SGD | Trade Balance (Aug) |  | 3.830B | 6.486B |
+| 03:30 | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Aug) |  |  | 56.30% |
+| 05:00 | IDR | Export Growth (YoY) (Aug) |  | 3.83% | 6.46% |
+| 05:00 | IDR | Import Growth (YoY) (Aug) |  | 8.15% | 11.07% |
+| 05:00 | IDR | Trade Balance (Aug) |  | 1.96B | 0.47B |
+| 05:30 | JPY | Tertiary Industry Activity Index (Jul) |  |  | 1.40 |
+| 07:30 | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
+| 07:30 | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
+| 07:30 | INR | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
+| 07:30 | INR | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.636% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Aug) | 1,288.39B |  | 1,282.84B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:37 | GBP | Rightmove House Price Index (YoY) (Sep) | 1.2% |  | 0.8% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jul) | 1.4% | 0.7% | -2.1% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jul) | 169.0K |  | 166.0K |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.823% |  | 2.859% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.397% |  | 3.396% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.227% |  | 3.258% |
-| 16:30 | USD | 3-Month Bill Auction | 4.750% |  | 4.895% |
-| 16:30 | USD | 6-Month Bill Auction | 4.410% |  | 4.530% |
+| 12:00 | INR | Exports (USD) (Aug) |  |  | 33.98B |
+| 12:00 | INR | Imports (USD) (Aug) |  |  | 57.48B |
+| 12:00 | INR | Trade Balance (Aug) |  |  | -23.50B |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) |  |  | 0.7% |
+| 13:30 | USD | Retail Sales (YoY) (Aug) |  |  | 2.66% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.3% | 0.4% |
+| 13:30 | CAD | Common CPI (YoY) (Aug) |  | 2.2% | 2.2% |
+| 13:30 | CAD | CPI (YoY) (Aug) |  |  | 2.5% |
+| 13:30 | CAD | Median CPI (YoY) (Aug) |  | 2.3% | 2.4% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Aug) |  | 2.6% | 2.7% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.5% |
+| 14:15 | USD | Capacity Utilization Rate (Aug) |  | 77.9% | 77.8% |
+| 14:15 | USD | Manufacturing Production (MoM) (Aug) |  |  | -0.3% |
+| 15:00 | USD | Fed Logan Speaks |  |  |  |
+| 15:00 | USD | NAHB Housing Market Index (Sep) |  | 41 | 39 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.4% |
+| 15:00 | USD | Milk Auctions |  |  | 3,833.0 |
+| 15:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
+| 23:45 | NZD | Current Account % of GDP (Q2) |  |  | -6.80% |
