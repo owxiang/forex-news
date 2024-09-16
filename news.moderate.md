@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21 min | CHF | PPI (MoM) (Aug) |  | 0.1% | 0.0% |
+| 07:30 | CHF | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
 | 09:10 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q2) |  |  | 5.30% |
 | 10:00 | EUR | Trade Balance (Jul) |  | 14.9B | 22.3B |

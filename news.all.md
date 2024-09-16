@@ -4,14 +4,16 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Sep) | 0.8% |  | -1.5% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Sep) | 1.2% |  | 0.8% |
+| 07:00 | EUR | Low | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | NOK | Low | Trade Balance (Aug) | 66.0B |  | 58.7B |
-| 21 min | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | 0.0% |
-| 21 min | CHF | Low | PPI (YoY) (Aug) |  |  | -1.7% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.1% | 1.3% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.1% | -0.9% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
+| 07:30 | CHF | Low | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
+| 54 min | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
+| 54 min | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.1% | 1.3% |
+| 54 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
+| 54 min | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.1% | -0.9% |
+| 54 min | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
 | 09:10 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Jul) |  |  | -1.05B |

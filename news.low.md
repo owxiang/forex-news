@@ -4,13 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) | 0.8% |  | -1.5% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Sep) | 1.2% |  | 0.8% |
+| 07:00 | EUR | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
+| 07:00 | EUR | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | NOK | Trade Balance (Aug) | 66.0B |  | 58.7B |
-| 21 min | CHF | PPI (YoY) (Aug) |  |  | -1.7% |
-| 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
-| 09:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.1% | 1.3% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.1% | -0.9% |
-| 09:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
+| 07:30 | CHF | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
+| 54 min | EUR | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
+| 54 min | EUR | Italian CPI (YoY) (Aug) |  | 1.1% | 1.3% |
+| 54 min | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
+| 54 min | EUR | Italian HICP (MoM) (Aug) |  | -0.1% | -0.9% |
+| 54 min | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
 | 10:00 | EUR | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
 | 10:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.05B |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.10% |
