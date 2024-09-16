@@ -6,10 +6,10 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
 | 07:00 | NOK | Low | Trade Balance (Aug) | 66.0B |  | 58.7B |
-| 07:30 | CHF | Low | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
+| 07:30 | CHF | Low | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 0.9% |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.2% | 1.3% | 1.3% |
