@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 48 min | KRW | Low | Exports (YoY) (Aug) |  |  | 13.9% |
-| 48 min | KRW | Low | Imports (YoY) (Aug) |  |  | 10.5% |
-| 48 min | KRW | Low | Trade Balance (Aug) |  |  | 3.62B |
+| 05:00 | KRW | Low | Exports (YoY) (Aug) |  |  | 13.9% |
+| 05:00 | KRW | Low | Imports (YoY) (Aug) |  |  | 10.5% |
+| 05:00 | KRW | Low | Trade Balance (Aug) |  |  | 3.62B |
 | 07:00 | NOK | Low | Trade Balance (Aug) |  |  | 59.3B |
 | 07:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | 0.0% |
 | 07:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -1.7% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.1% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.1% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.3% | 1.3% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.1% | -0.1% |
