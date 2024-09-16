@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:55 | KRW | Exports (YoY) (Aug) |  |  | 13.9% |
-| 00:55 | KRW | Imports (YoY) (Aug) |  |  | 10.5% |
-| 00:55 | KRW | Trade Balance (Aug) |  |  | 3.62B |
+| 34 min | KRW | Exports (YoY) (Aug) |  |  | 13.9% |
+| 34 min | KRW | Imports (YoY) (Aug) |  |  | 10.5% |
+| 34 min | KRW | Trade Balance (Aug) |  |  | 3.62B |
 | 07:00 | NOK | Trade Balance (Aug) |  |  | 59.3B |
 | 07:30 | CHF | PPI (YoY) (Aug) |  |  | -1.7% |
 | 09:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Aug) |  | 1.1% | 1.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.3% |
 | 09:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.1% | -0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
 | 10:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.05B |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.10% |
