@@ -8,14 +8,14 @@
 | 07:00 | EUR | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | NOK | Trade Balance (Aug) | 66.0B |  | 58.7B |
 | 07:30 | CHF | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
-| 54 min | EUR | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
-| 54 min | EUR | Italian CPI (YoY) (Aug) |  | 1.1% | 1.3% |
-| 54 min | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
-| 54 min | EUR | Italian HICP (MoM) (Aug) |  | -0.1% | -0.9% |
-| 54 min | EUR | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
-| 10:00 | EUR | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
-| 10:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.05B |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.10% |
+| 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 0.8% |  | 1.1% |
+| 09:00 | EUR | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Aug) | 1.2% | 1.3% | 1.3% |
+| 52 min | EUR | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
+| 52 min | EUR | Italian Trade Balance EU (Jul) |  |  | -1.05B |
+| 52 min | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.10% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.831% |
 | 11:00 | INR | Exports (USD) (Aug) |  |  | 33.98B |
 | 11:00 | INR | Imports (USD) (Aug) |  |  | 57.48B |

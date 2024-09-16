@@ -9,17 +9,17 @@
 | 07:00 | NOK | Low | Trade Balance (Aug) | 66.0B |  | 58.7B |
 | 07:30 | CHF | Moderate | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
 | 07:30 | CHF | Low | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
-| 54 min | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.2% | 0.4% |
-| 54 min | EUR | Low | Italian CPI (YoY) (Aug) |  | 1.1% | 1.3% |
-| 54 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 1.1% |
-| 54 min | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.1% | -0.9% |
-| 54 min | EUR | Low | Italian HICP (YoY) (Aug) |  | 1.3% | 1.6% |
-| 09:10 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
-| 10:00 | EUR | Low | Italian Trade Balance EU (Jul) |  |  | -1.05B |
-| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q2) |  |  | 5.30% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q2) |  |  | 5.10% |
-| 10:00 | EUR | Moderate | Trade Balance (Jul) |  | 14.9B | 22.3B |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 0.8% |  | 1.1% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Aug) | -0.2% | -0.1% | -0.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Aug) | 1.2% | 1.3% | 1.3% |
+| 2 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 52 min | EUR | Low | Italian Trade Balance (Jul) |  | 4.450B | 5.065B |
+| 52 min | EUR | Low | Italian Trade Balance EU (Jul) |  |  | -1.05B |
+| 52 min | EUR | Moderate | Wages in euro zone (YoY) (Q2) |  |  | 5.30% |
+| 52 min | EUR | Low | Labor Cost Index (YoY) (Q2) |  |  | 5.10% |
+| 52 min | EUR | Moderate | Trade Balance (Jul) |  | 14.9B | 22.3B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.831% |
 | 11:00 | INR | Low | Exports (USD) (Aug) |  |  | 33.98B |
 | 11:00 | INR | Low | Imports (USD) (Aug) |  |  | 57.48B |
