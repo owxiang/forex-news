@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Sep) | 0.8% |  | -1.5% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Sep) | 1.2% |  | 0.8% |
-| 07:00 | EUR | Low | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | NOK | Low | Trade Balance (Aug) | 66.0B |  | 58.7B |
-| 07:30 | CHF | Low | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Aug) | 0.2% | 0.1% | 0.0% |
+| 07:30 | CHF | Low | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Aug) | 1.1% | 1.1% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 0.9% |  | 1.1% |
@@ -22,12 +22,12 @@
 | 10:00 | EUR | Moderate | Trade Balance (Jul) | 21.2B | 14.9B | 21.7B |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.668% |  | 2.831% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Aug) | 1,288.39B |  | 1,282.79B |
-| 53 min | INR | Low | Exports (USD) (Aug) |  |  | 33.98B |
-| 53 min | INR | Low | Imports (USD) (Aug) |  |  | 57.48B |
-| 53 min | INR | Low | Trade Balance (Aug) |  |  | -23.50B |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11:00 | EUR | Low | Reserve Assets Total (Aug) | 1,288.39B |  | 1,282.84B |
+| 12:00 | INR | Low | Exports (USD) (Aug) |  |  | 33.98B |
+| 12:00 | INR | Low | Imports (USD) (Aug) |  |  | 57.48B |
+| 12:00 | INR | Low | Trade Balance (Aug) |  |  | -23.50B |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) |  | -4.10 | -4.70 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  | 0.7% | -2.1% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jul) |  |  | 168.0K |

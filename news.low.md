@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Sep) | 0.8% |  | -1.5% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Sep) | 1.2% |  | 0.8% |
-| 07:00 | EUR | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | EUR | German WPI (MoM) (Aug) | -0.8% |  | 0.3% |
+| 07:00 | EUR | German WPI (YoY) (Aug) | -1.1% |  | -0.1% |
 | 07:00 | NOK | Trade Balance (Aug) | 66.0B |  | 58.7B |
 | 07:30 | CHF | PPI (YoY) (Aug) | -1.2% |  | -1.7% |
 | 09:00 | EUR | Italian CPI (MoM) (Aug) | 0.2% | 0.2% | 0.2% |
@@ -18,11 +18,11 @@
 | 10:00 | EUR | Labor Cost Index (YoY) (Q2) | 4.70% |  | 5.00% |
 | 10:50 | EUR | German 12-Month Bubill Auction | 2.668% |  | 2.831% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Aug) | 1,288.39B |  | 1,282.79B |
-| 53 min | INR | Exports (USD) (Aug) |  |  | 33.98B |
-| 53 min | INR | Imports (USD) (Aug) |  |  | 57.48B |
-| 53 min | INR | Trade Balance (Aug) |  |  | -23.50B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:00 | EUR | Reserve Assets Total (Aug) | 1,288.39B |  | 1,282.84B |
+| 12:00 | INR | Exports (USD) (Aug) |  |  | 33.98B |
+| 12:00 | INR | Imports (USD) (Aug) |  |  | 57.48B |
+| 12:00 | INR | Trade Balance (Aug) |  |  | -23.50B |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jul) |  | 0.7% | -2.1% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Jul) |  |  | 168.0K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.859% |
