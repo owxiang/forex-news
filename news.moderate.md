@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | JPY | Tertiary Industry Activity Index (MoM) (Jul) |  | 0.8% | -1.3% |
-| 07:30 | INR | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
+| 05:30 | JPY | Tertiary Industry Activity Index (MoM) (Jul) | 1.4% | 0.8% | -1.3% |
 | 07:30 | INR | WPI Inflation (YoY) (Aug) |  |  | 2.04% |
+| 07:30 | INR | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
 | 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Sep) |  |  | -77.3 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Sep) |  | 17.1 | 19.2 |
@@ -19,7 +19,7 @@
 | 14:15 | USD | Industrial Production (YoY) (Aug) |  |  | -0.18% |
 | 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.2% | -0.6% |
 | 15:00 | USD | Business Inventories (MoM) (Jul) |  | 0.3% | 0.3% |
-| 15:00 | USD | Retail Inventories Ex Auto (Jul) |  | 0.5% | 0.5% |
+| 15:00 | USD | Retail Inventories Ex Auto (Jul) |  | 0.5% | 0.2% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.160% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.790M |
