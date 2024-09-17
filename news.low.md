@@ -17,7 +17,6 @@
 | 10:15 | GBP | 30-Year Treasury Gilt Auction | 4.329% |  | 4.636% |
 | 11:00 | INR | Exports (USD) (Aug) | 34.71B |  | 33.98B |
 | 11:00 | INR | Imports (USD) (Aug) | 64.36B |  | 57.48B |
-| 11:00 | INR | Trade Balance (Aug) | 29.65B |  | -23.50B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | 0.7% |
 | 13:30 | USD | Retail Sales (YoY) (Aug) | 2.13% |  | 2.86% |
@@ -27,11 +26,10 @@
 | 13:30 | CAD | Median CPI (YoY) (Aug) | 2.3% | 2.2% | 2.4% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Aug) | 2.4% | 2.5% | 2.7% |
 | 13:55 | USD | Redbook (YoY) | 4.6% |  | 6.5% |
-| 6 min | USD | Capacity Utilization Rate (Aug) |  | 77.9% | 77.8% |
-| 6 min | USD | Manufacturing Production (MoM) (Aug) |  |  | -0.3% |
-| 51 min | USD | Fed Logan Speaks |  |  |  |
-| 51 min | USD | NAHB Housing Market Index (Sep) |  | 41 | 39 |
-| 51 min | NZD | GlobalDairyTrade Price Index |  |  | -0.4% |
-| 51 min | USD | Milk Auctions |  |  | 3,833.0 |
-| 15:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
+| 14:15 | USD | Capacity Utilization Rate (Aug) | 78.0% | 77.9% | 77.4% |
+| 14:15 | USD | Manufacturing Production (MoM) (Aug) | 0.9% |  | -0.7% |
+| 14:49 | INR | Trade Balance (Aug) | -29.65B |  | -23.50B |
+| 15:00 | USD | Fed Logan Speaks |  |  |  |
+| 15:00 | USD | NAHB Housing Market Index (Sep) | 41 | 41 | 39 |
+| 24 min | AUD | MI Leading Index (MoM) |  |  | 0.0% |
 | 23:45 | NZD | Current Account % of GDP (Q2) |  |  | -6.80% |

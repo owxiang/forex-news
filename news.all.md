@@ -24,7 +24,6 @@
 | 10:15 | GBP | Low | 30-Year Treasury Gilt Auction | 4.329% |  | 4.636% |
 | 11:00 | INR | Low | Exports (USD) (Aug) | 34.71B |  | 33.98B |
 | 11:00 | INR | Low | Imports (USD) (Aug) | 64.36B |  | 57.48B |
-| 11:00 | INR | Low | Trade Balance (Aug) | 29.65B |  | -23.50B |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | 0.7% |
 | 13:15 | CAD | Moderate | Housing Starts (Aug) | 217.4K | 252.0K | 279.8K |
@@ -36,23 +35,22 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) | 2.0% | 2.2% | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) | 1.5% |  | 1.7% |
-| 13:30 | CAD | Low | CPI (YoY) (Aug) | 2.0% |  | 2.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Aug) | -0.2% | 0.0% | 0.4% |
+| 13:30 | CAD | Low | CPI (YoY) (Aug) | 2.0% |  | 2.5% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Aug) | 2.3% | 2.2% | 2.4% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) | 2.4% | 2.5% | 2.7% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.6% |  | 6.5% |
 | 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 6 min | USD | Low | Capacity Utilization Rate (Aug) |  | 77.9% | 77.8% |
-| 6 min | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | -0.18% |
-| 6 min | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.2% | -0.6% |
-| 6 min | USD | Low | Manufacturing Production (MoM) (Aug) |  |  | -0.3% |
-| 51 min | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.3% | 0.3% |
-| 51 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 51 min | USD | Low | NAHB Housing Market Index (Sep) |  | 41 | 39 |
-| 51 min | USD | Moderate | Retail Inventories Ex Auto (Jul) |  | 0.5% | 0.3% |
-| 51 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.4% |
-| 51 min | USD | Low | Milk Auctions |  |  | 3,833.0 |
-| 15:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Aug) | 78.0% | 77.9% | 77.4% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) | 0.04% |  | -0.74% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) | 0.8% | 0.2% | -0.9% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Aug) | 0.9% |  | -0.7% |
+| 14:49 | INR | Low | Trade Balance (Aug) | -29.65B |  | -23.50B |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) | 0.4% | 0.3% | 0.3% |
+| 15:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 15:00 | USD | Low | NAHB Housing Market Index (Sep) | 41 | 41 | 39 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.5% | 0.5% | 0.3% |
+| 24 min | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.160% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.100M | -2.790M |

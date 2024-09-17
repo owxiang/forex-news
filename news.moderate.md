@@ -15,10 +15,10 @@
 | 13:30 | CAD | Core CPI (YoY) (Aug) | 1.5% |  | 1.7% |
 | 13:30 | CAD | CPI (MoM) (Aug) | -0.2% | 0.0% | 0.4% |
 | 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 6 min | USD | Industrial Production (YoY) (Aug) |  |  | -0.18% |
-| 6 min | USD | Industrial Production (MoM) (Aug) |  | 0.2% | -0.6% |
-| 51 min | USD | Business Inventories (MoM) (Jul) |  | 0.3% | 0.3% |
-| 51 min | USD | Retail Inventories Ex Auto (Jul) |  | 0.5% | 0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Aug) | 0.04% |  | -0.74% |
+| 14:15 | USD | Industrial Production (MoM) (Aug) | 0.8% | 0.2% | -0.9% |
+| 15:00 | USD | Business Inventories (MoM) (Jul) | 0.4% | 0.3% | 0.3% |
+| 15:00 | USD | Retail Inventories Ex Auto (Jul) | 0.5% | 0.5% | 0.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.160% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.100M | -2.790M |
