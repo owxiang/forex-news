@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Tertiary Industry Activity Index (MoM) (Jul) |  | 0.8% | -1.3% |
+| 23 min | JPY | Tertiary Industry Activity Index (MoM) (Jul) |  | 0.8% | -1.3% |
 | 07:30 | INR | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
 | 07:30 | INR | WPI Inflation (YoY) (Aug) |  |  | 2.04% |
 | 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Sep) |  |  | -77.3 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Sep) |  | 17.2 | 19.2 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Sep) |  | 17.1 | 19.2 |
 | 10:00 | EUR | ECB McCaul Speaks |  |  |  |
-| 10:00 | EUR | ZEW Economic Sentiment (Sep) |  | 16.4 | 17.9 |
-| 13:15 | CAD | Housing Starts (Aug) |  | 247.0K | 279.5K |
+| 10:00 | EUR | ZEW Economic Sentiment (Sep) |  | 16.3 | 17.9 |
+| 13:15 | CAD | Housing Starts (Aug) |  | 252.0K | 279.5K |
 | 13:30 | USD | Retail Control (MoM) (Aug) |  |  | 0.3% |
 | 13:30 | CAD | Core CPI (MoM) (Aug) |  |  | 0.3% |
 | 13:30 | CAD | Core CPI (YoY) (Aug) |  |  | 1.7% |
-| 13:30 | CAD | CPI (MoM) (Aug) |  | 0.1% | 0.4% |
+| 13:30 | CAD | CPI (MoM) (Aug) |  | 0.0% | 0.4% |
 | 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 14:15 | USD | Industrial Production (YoY) (Aug) |  |  | -0.18% |
-| 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.1% | -0.6% |
-| 15:00 | USD | Business Inventories (MoM) (Jul) |  | 0.4% | 0.3% |
+| 14:15 | USD | Industrial Production (MoM) (Aug) |  | 0.2% | -0.6% |
+| 15:00 | USD | Business Inventories (MoM) (Jul) |  | 0.3% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jul) |  | 0.5% | 0.5% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.160% |
