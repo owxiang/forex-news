@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Aug) | -4.70% | -3.30% | 12.20% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
 | 02:00 | SGD | Trade Balance (Aug) | 5.900B | 3.830B | 6.544B |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.0% | 2.0% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 56.90% |  | 56.30% |
@@ -17,21 +17,21 @@
 | 10:15 | GBP | 30-Year Treasury Gilt Auction | 4.329% |  | 4.636% |
 | 11:00 | INR | Exports (USD) (Aug) | 34.71B |  | 33.98B |
 | 11:00 | INR | Imports (USD) (Aug) | 64.36B |  | 57.48B |
-| 11:00 | INR | Trade Balance (Aug) | -29.65B |  | -23.50B |
+| 11:00 | INR | Trade Balance (Aug) | 29.65B |  | -23.50B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | 0.7% |
-| 21 min | USD | Retail Sales (YoY) (Aug) |  |  | 2.66% |
-| 21 min | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.3% | 0.4% |
-| 21 min | CAD | Common CPI (YoY) (Aug) |  | 2.2% | 2.2% |
-| 21 min | CAD | CPI (YoY) (Aug) |  |  | 2.5% |
-| 21 min | CAD | Median CPI (YoY) (Aug) |  | 2.2% | 2.4% |
-| 21 min | CAD | Trimmed CPI (YoY) (Aug) |  | 2.5% | 2.7% |
-| 46 min | USD | Redbook (YoY) |  |  | 6.5% |
-| 14:15 | USD | Capacity Utilization Rate (Aug) |  | 77.9% | 77.8% |
-| 14:15 | USD | Manufacturing Production (MoM) (Aug) |  |  | -0.3% |
-| 15:00 | USD | Fed Logan Speaks |  |  |  |
-| 15:00 | USD | NAHB Housing Market Index (Sep) |  | 41 | 39 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.4% |
-| 15:00 | USD | Milk Auctions |  |  | 3,833.0 |
+| 13:30 | USD | Retail Sales (YoY) (Aug) | 2.13% |  | 2.86% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
+| 13:30 | CAD | Common CPI (YoY) (Aug) | 2.0% | 2.2% | 2.2% |
+| 13:30 | CAD | CPI (YoY) (Aug) | 2.0% |  | 2.5% |
+| 13:30 | CAD | Median CPI (YoY) (Aug) | 2.3% | 2.2% | 2.4% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Aug) | 2.4% | 2.5% | 2.7% |
+| 13:55 | USD | Redbook (YoY) | 4.6% |  | 6.5% |
+| 6 min | USD | Capacity Utilization Rate (Aug) |  | 77.9% | 77.8% |
+| 6 min | USD | Manufacturing Production (MoM) (Aug) |  |  | -0.3% |
+| 51 min | USD | Fed Logan Speaks |  |  |  |
+| 51 min | USD | NAHB Housing Market Index (Sep) |  | 41 | 39 |
+| 51 min | NZD | GlobalDairyTrade Price Index |  |  | -0.4% |
+| 51 min | USD | Milk Auctions |  |  | 3,833.0 |
 | 15:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
 | 23:45 | NZD | Current Account % of GDP (Q2) |  |  | -6.80% |
