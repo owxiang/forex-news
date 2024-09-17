@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (MoM) (Aug) | -4.70% | -3.30% | 12.20% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Aug) | -4.70% | -3.30% | 12.20% |
 | 02:00 | SGD | Trade Balance (Aug) | 5.900B | 3.830B | 6.544B |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.0% | 2.0% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 56.90% |  | 56.30% |
@@ -14,8 +14,8 @@
 | 07:30 | INR | WPI Food (YoY) (Aug) | 3.11% |  | 3.45% |
 | 07:30 | INR | WPI Fuel (YoY) (Aug) | -0.67% |  | 1.72% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) | 1.22% |  | 1.58% |
-| 53 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.636% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.636% |
+| 54 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | INR | Exports (USD) (Aug) |  |  | 33.98B |
 | 12:00 | INR | Imports (USD) (Aug) |  |  | 57.48B |
 | 12:00 | INR | Trade Balance (Aug) |  |  | -23.50B |
