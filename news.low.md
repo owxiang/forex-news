@@ -15,11 +15,11 @@
 | 07:30 | INR | WPI Fuel (YoY) (Aug) | -0.67% |  | 1.72% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) | 1.22% |  | 1.58% |
 | 10:15 | GBP | 30-Year Treasury Gilt Auction | 4.329% |  | 4.636% |
-| 10:57 | INR | Exports (USD) (Aug) | 34.71B |  | 33.98B |
-| 10:57 | INR | Imports (USD) (Aug) | 64.36B |  | 57.48B |
+| 11:00 | INR | Exports (USD) (Aug) | 34.71B |  | 33.98B |
+| 11:00 | INR | Imports (USD) (Aug) | 64.36B |  | 57.48B |
 | 11:00 | INR | Trade Balance (Aug) | -29.65B |  | -23.50B |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 54 min | BRL | IGP-10 Inflation Index (MoM) (Sep) |  |  | 0.7% |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | 0.7% |
 | 13:30 | USD | Retail Sales (YoY) (Aug) |  |  | 2.66% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Common CPI (YoY) (Aug) |  | 2.2% | 2.2% |

@@ -22,16 +22,16 @@
 | 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) | 9.3 | 16.3 | 17.9 |
 | 10:15 | GBP | Low | 30-Year Treasury Gilt Auction | 4.329% |  | 4.636% |
-| 10:57 | INR | Low | Exports (USD) (Aug) | 34.71B |  | 33.98B |
-| 10:57 | INR | Low | Imports (USD) (Aug) | 64.36B |  | 57.48B |
+| 11:00 | INR | Low | Exports (USD) (Aug) | 34.71B |  | 33.98B |
+| 11:00 | INR | Low | Imports (USD) (Aug) | 64.36B |  | 57.48B |
 | 11:00 | INR | Low | Trade Balance (Aug) | -29.65B |  | -23.50B |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 54 min | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) |  |  | 0.7% |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | 0.7% |
 | 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 252.0K | 279.5K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.2% | 0.4% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 0.3% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 2.66% |
 | 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | -0.2% | 1.0% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 2.66% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.2% | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.3% |
