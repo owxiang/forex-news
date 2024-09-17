@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Aug) | -4.70% | -3.30% | 12.20% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
 | 02:00 | SGD | Trade Balance (Aug) | 5.900B | 3.830B | 6.544B |
-| 17 min | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
-| 47 min | NZD | RBNZ Offshore Holdings (Aug) |  |  | 56.30% |
-| 05:00 | IDR | Export Growth (YoY) (Aug) |  | 3.83% | 6.46% |
-| 05:00 | IDR | Import Growth (YoY) (Aug) |  | 8.15% | 11.07% |
-| 05:00 | IDR | Trade Balance (Aug) |  | 1.96B | 0.47B |
+| 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.0% | 2.0% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 56.90% |  | 56.30% |
+| 53 min | IDR | Export Growth (YoY) (Aug) |  | 3.83% | 6.46% |
+| 53 min | IDR | Import Growth (YoY) (Aug) |  | 8.15% | 11.07% |
+| 53 min | IDR | Trade Balance (Aug) |  | 1.96B | 0.47B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jul) |  |  | 1.40 |
 | 07:30 | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
 | 07:30 | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
