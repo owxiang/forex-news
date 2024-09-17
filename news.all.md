@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) | -4.70% | -3.30% | 12.20% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
 | 02:00 | SGD | Low | Trade Balance (Aug) | 5.900B | 3.830B | 6.544B |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.0% | 2.0% | 2.0% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) | 56.90% |  | 56.30% |
@@ -44,8 +44,8 @@
 | 13:55 | USD | Low | Redbook (YoY) | 4.6% |  | 6.5% |
 | 14:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Aug) | 78.0% | 77.9% | 77.4% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) | 0.8% | 0.2% | -0.9% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Aug) | 0.04% |  | -0.74% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Aug) | 0.8% | 0.2% | -0.9% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Aug) | 0.9% |  | -0.7% |
 | 14:49 | INR | Low | Trade Balance (Aug) | -29.65B |  | -23.50B |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Jul) | 0.4% | 0.3% | 0.3% |
@@ -56,7 +56,7 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.039% |  | 4.160% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.960M | -0.100M | -2.790M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) | 90.8 |  | 82.2 |
-| 55 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -27.64B |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -3.95B | -4.36B |
-| 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -6.80% |
+| 23:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 39 min | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -27.64B |
+| 39 min | NZD | Moderate | Current Account (QoQ) (Q2) |  | -3.95B | -4.36B |
+| 39 min | NZD | Low | Current Account % of GDP (Q2) |  |  | -6.80% |
