@@ -52,8 +52,8 @@
 | 15:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Low | NAHB Housing Market Index (Sep) | 41 | 41 | 39 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.5% | 0.5% | 0.3% |
-| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.160% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.0% | 2.5% | 2.5% |
+| 54 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.160% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.100M | -2.790M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) |  |  | 82.2 |
 | 23:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |

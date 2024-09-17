@@ -19,8 +19,8 @@
 | 14:15 | USD | Industrial Production (MoM) (Aug) | 0.8% | 0.2% | -0.9% |
 | 15:00 | USD | Business Inventories (MoM) (Jul) | 0.4% | 0.3% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jul) | 0.5% | 0.5% | 0.3% |
-| 54 min | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.160% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.0% | 2.5% | 2.5% |
+| 54 min | USD | 20-Year Bond Auction |  |  | 4.160% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.100M | -2.790M |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q3) |  |  | 82.2 |
 | 23:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
