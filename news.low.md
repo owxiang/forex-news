@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | SGD | Non-Oil Exports (YoY) (Aug) | 10.70% | 15.00% | 15.70% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Aug) | -4.70% | -3.30% | 12.20% |
-| 2 min | SGD | Trade Balance (Aug) |  | 3.830B | 6.486B |
-| 03:30 | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
-| 04:00 | NZD | RBNZ Offshore Holdings (Aug) |  |  | 56.30% |
+| 02:00 | SGD | Trade Balance (Aug) | 5.900B | 3.830B | 6.544B |
+| 17 min | SGD | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
+| 47 min | NZD | RBNZ Offshore Holdings (Aug) |  |  | 56.30% |
 | 05:00 | IDR | Export Growth (YoY) (Aug) |  | 3.83% | 6.46% |
 | 05:00 | IDR | Import Growth (YoY) (Aug) |  | 8.15% | 11.07% |
 | 05:00 | IDR | Trade Balance (Aug) |  | 1.96B | 0.47B |
