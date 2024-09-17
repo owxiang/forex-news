@@ -15,8 +15,8 @@
 | 13:30 | CAD | Core CPI (YoY) (Aug) | 1.5% |  | 1.7% |
 | 13:30 | CAD | CPI (MoM) (Aug) | -0.2% | 0.0% | 0.4% |
 | 14:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 14:15 | USD | Industrial Production (MoM) (Aug) | 0.8% | 0.2% | -0.9% |
 | 14:15 | USD | Industrial Production (YoY) (Aug) | 0.04% |  | -0.74% |
+| 14:15 | USD | Industrial Production (MoM) (Aug) | 0.8% | 0.2% | -0.9% |
 | 15:00 | USD | Business Inventories (MoM) (Jul) | 0.4% | 0.3% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Jul) | 0.5% | 0.5% | 0.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.0% | 2.5% | 2.5% |
@@ -24,5 +24,5 @@
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.100M | -2.790M |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q3) |  |  | 82.2 |
 | 23:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -27.64B |
 | 23:45 | NZD | Current Account (QoQ) (Q2) |  | -3.95B | -4.36B |
+| 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -27.64B |
