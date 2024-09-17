@@ -14,7 +14,7 @@
 | 07:30 | INR | WPI Food (YoY) (Aug) | 3.11% |  | 3.45% |
 | 07:30 | INR | WPI Fuel (YoY) (Aug) | -0.67% |  | 1.72% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) | 1.22% |  | 1.58% |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.636% |
+| 53 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.636% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | INR | Exports (USD) (Aug) |  |  | 33.98B |
 | 12:00 | INR | Imports (USD) (Aug) |  |  | 57.48B |

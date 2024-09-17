@@ -16,12 +16,12 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Aug) | -0.67% |  | 1.72% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) | 1.31% | 1.80% | 2.04% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) | 1.22% |  | 1.58% |
-| 24 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.636% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  |  | -77.3 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | 17.1 | 19.2 |
-| 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | 16.3 | 17.9 |
+| 08:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 53 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.636% |
+| 53 min | EUR | Moderate | German ZEW Current Conditions (Sep) |  |  | -77.3 |
+| 53 min | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | 17.1 | 19.2 |
+| 53 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 53 min | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | 16.3 | 17.9 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | INR | Low | Exports (USD) (Aug) |  |  | 33.98B |
 | 12:00 | INR | Low | Imports (USD) (Aug) |  |  | 57.48B |
@@ -30,12 +30,12 @@
 | 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 252.0K | 279.5K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.2% | 0.4% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 0.3% |
-| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | -0.2% | 1.0% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 2.66% |
+| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | -0.2% | 1.0% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.2% | 2.2% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 1.7% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.3% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 1.7% |
 | 13:30 | CAD | Low | CPI (YoY) (Aug) |  |  | 2.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Aug) |  | 0.0% | 0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 2.2% | 2.4% |
