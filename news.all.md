@@ -37,8 +37,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) | 2.0% | 2.2% | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) | 1.5% |  | 1.7% |
-| 13:30 | CAD | Low | CPI (YoY) (Aug) | 2.0% |  | 2.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Aug) | -0.2% | 0.0% | 0.4% |
+| 13:30 | CAD | Low | CPI (YoY) (Aug) | 2.0% |  | 2.5% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Aug) | 2.3% | 2.2% | 2.4% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Aug) | 2.4% | 2.5% | 2.7% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.6% |  | 6.5% |
