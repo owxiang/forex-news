@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) |  | 15.00% | 15.70% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) |  | -3.30% | 12.20% |
+| 9 min | SGD | Low | Non-Oil Exports (MoM) (Aug) |  | -3.30% | 12.20% |
+| 9 min | SGD | Low | Non-Oil Exports (YoY) (Aug) |  | 15.00% | 15.70% |
 | 02:30 | SGD | Low | Trade Balance (Aug) |  | 3.830B | 6.486B |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) |  | 2.0% | 2.1% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Aug) |  |  | 56.30% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Aug) |  | 3.83% | 6.46% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Aug) |  | 8.15% | 11.07% |
 | 05:00 | IDR | Low | Trade Balance (Aug) |  | 1.96B | 0.47B |
-| 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) (Jul) |  | 0.8% | -1.3% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Jul) |  |  | 1.40 |
+| 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) (Jul) |  | 0.8% | -1.3% |
 | 07:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 3.45% |
 | 07:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 3.45% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  |  | 2.04% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
 | 08:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -34,12 +34,12 @@
 | 13:15 | CAD | Moderate | Housing Starts (Aug) |  | 247.0K | 279.5K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.2% | 0.4% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 0.3% |
-| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | -0.2% | 1.0% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 2.66% |
+| 13:30 | USD | High | Retail Sales (MoM) (Aug) |  | -0.2% | 1.0% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 2.2% | 2.2% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 1.7% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.3% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 1.7% |
 | 13:30 | CAD | Low | CPI (YoY) (Aug) |  |  | 2.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Aug) |  | 0.1% | 0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 2.3% | 2.4% |
@@ -62,6 +62,6 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.790M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) |  |  | 82.2 |
 | 23:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -3.95B | -4.36B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -27.64B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q2) |  | -3.95B | -4.36B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -6.80% |
