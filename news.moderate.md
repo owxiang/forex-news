@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Tertiary Industry Activity Index (MoM) (Jul) | 1.4% | 0.8% | -1.3% |
-| 07:30 | INR | WPI Inflation (YoY) (Aug) |  |  | 2.04% |
-| 07:30 | INR | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
+| 05:30 | JPY | Tertiary Industry Activity Index (MoM) (Jul) | 1.4% | 0.8% | -1.2% |
+| 23 min | INR | WPI Inflation (YoY) (Aug) |  | 1.80% | 2.04% |
+| 23 min | INR | WPI Inflation (YoY) (Aug) |  |  | 2.04% |
 | 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Sep) |  |  | -77.3 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Sep) |  | 17.1 | 19.2 |

@@ -7,16 +7,16 @@
 | 02:00 | SGD | Trade Balance (Aug) | 5.900B | 3.830B | 6.544B |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.0% | 2.0% | 2.0% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Aug) | 56.90% |  | 56.30% |
-| 05:00 | IDR | Export Growth (YoY) (Aug) | 7.13% | 3.83% | 6.46% |
+| 05:00 | IDR | Export Growth (YoY) (Aug) | 7.13% | 3.83% | 6.60% |
 | 05:00 | IDR | Import Growth (YoY) (Aug) | 9.46% | 8.15% | 11.07% |
-| 05:00 | IDR | Trade Balance (Aug) | 2.89B | 1.96B | 0.47B |
+| 05:00 | IDR | Trade Balance (Aug) | 2.89B | 1.96B | 0.50B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Jul) | 2.50 |  | 1.50 |
-| 07:30 | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
-| 07:30 | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
-| 07:30 | INR | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
-| 07:30 | INR | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
+| 23 min | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
+| 23 min | INR | WPI Food (YoY) (Aug) |  |  | 3.45% |
+| 23 min | INR | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
+| 23 min | INR | WPI Fuel (YoY) (Aug) |  |  | 1.72% |
+| 23 min | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
+| 23 min | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | 1.58% |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.636% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | INR | Exports (USD) (Aug) |  |  | 33.98B |
