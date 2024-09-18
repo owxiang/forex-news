@@ -10,22 +10,22 @@
 | 00:50 | JPY | Low | Imports (YoY) (Aug) | 2.3% | 13.4% | 16.6% |
 | 00:50 | JPY | Moderate | Trade Balance (Aug) | -695.3B | -1,380.0B | -628.7B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.0% |  | -0.0% |
-| 54 min | GBP | Low | Core CPI (MoM) (Aug) |  | 0.4% | 0.1% |
-| 54 min | GBP | Low | Core CPI (YoY) (Aug) |  | 3.6% | 3.3% |
-| 54 min | GBP | Low | Core PPI Output (YoY) (Aug) |  |  | 1.0% |
-| 54 min | GBP | Low | Core PPI Output (MoM) (Aug) |  |  | 0.0% |
-| 54 min | GBP | Low | Core RPI (MoM) (Aug) |  |  | 0.0% |
-| 54 min | GBP | Low | Core RPI (YoY) (Aug) |  |  | 2.7% |
-| 54 min | GBP | Moderate | CPI (MoM) (Aug) |  | 0.3% | -0.2% |
-| 54 min | GBP | High | CPI (YoY) (Aug) |  | 2.2% | 2.2% |
-| 54 min | GBP | Low | CPI, n.s.a (Aug) |  |  | 133.80 |
-| 54 min | GBP | Moderate | CPIH (YoY) |  |  | 2.8% |
-| 54 min | GBP | Low | PPI Input (YoY) (Aug) |  | -0.9% | 0.4% |
-| 54 min | GBP | Moderate | PPI Input (MoM) (Aug) |  | -0.3% | -0.1% |
-| 54 min | GBP | Low | PPI Output (YoY) (Aug) |  | 0.5% | 0.8% |
-| 54 min | GBP | Low | PPI Output (MoM) (Aug) |  | 0.0% | 0.0% |
-| 54 min | GBP | Low | RPI (YoY) (Aug) |  | 3.4% | 3.6% |
-| 54 min | GBP | Low | RPI (MoM) (Aug) |  | 0.5% | 0.1% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Aug) | 0.4% | 0.4% | 0.1% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Aug) | 3.6% | 3.6% | 3.3% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Aug) | 1.3% |  | 1.0% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Aug) | 0.1% |  | 0.1% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Aug) | 0.6% |  | 0.0% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Aug) | 2.8% |  | 2.7% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
+| 07:00 | GBP | High | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.2% |
+| 07:00 | GBP | Low | CPI, n.s.a (Aug) |  |  | 133.80 |
+| 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 2.8% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Aug) | -1.2% | -0.9% | 0.2% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Aug) | -0.5% | -0.3% | -0.3% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Aug) | 0.2% | 0.5% | 0.8% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Aug) | -0.3% | 0.0% | 0.0% |
+| 07:00 | GBP | Low | RPI (YoY) (Aug) | 3.5% | 3.4% | 3.6% |
+| 07:00 | GBP | Low | RPI (MoM) (Aug) | 0.6% | 0.5% | 0.1% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Sep) |  | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Sep) |  | 7.00% | 7.00% |
