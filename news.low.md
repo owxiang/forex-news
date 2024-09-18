@@ -11,29 +11,29 @@
 | 07:00 | GBP | Core CPI (MoM) (Aug) | 0.4% | 0.4% | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Aug) | 1.3% |  | 1.0% |
 | 07:00 | GBP | Core PPI Output (MoM) (Aug) | 0.1% |  | 0.1% |
-| 07:00 | GBP | Core RPI (MoM) (Aug) | 0.6% |  | 0.0% |
 | 07:00 | GBP | Core RPI (YoY) (Aug) | 2.8% |  | 2.7% |
+| 07:00 | GBP | Core RPI (MoM) (Aug) | 0.6% |  | 0.0% |
 | 07:00 | GBP | CPI, n.s.a (Aug) | 134.30 |  | 133.80 |
 | 07:00 | GBP | PPI Input (YoY) (Aug) | -1.2% | -0.9% | 0.2% |
 | 07:00 | GBP | PPI Output (YoY) (Aug) | 0.2% | 0.5% | 0.8% |
 | 07:00 | GBP | PPI Output (MoM) (Aug) | -0.3% | 0.0% | 0.0% |
-| 07:00 | GBP | RPI (YoY) (Aug) | 3.5% | 3.4% | 3.6% |
 | 07:00 | GBP | RPI (MoM) (Aug) | 0.6% | 0.5% | 0.1% |
+| 07:00 | GBP | RPI (YoY) (Aug) | 3.5% | 3.4% | 3.6% |
 | 08:30 | IDR | Deposit Facility Rate (Sep) | 5.25% | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Sep) | 6.75% | 7.00% | 7.00% |
 | 08:30 | IDR | Loans (YoY) (Aug) | 11.40% |  | 12.40% |
 | 09:00 | ZAR | Core CPI (YoY) (Aug) | 4.1% |  | 4.3% |
 | 09:00 | ZAR | Core CPI (MoM) (Aug) | 0.0% |  | 0.3% |
-| 09:00 | ZAR | CPI (MoM) (Aug) | 0.1% |  | 0.4% |
 | 09:00 | ZAR | CPI (YoY) (Aug) | 4.4% |  | 4.6% |
-| 22 min | GBP | House Price Index (YoY) |  | 2.8% | 2.7% |
-| 52 min | EUR | Construction Output (MoM) (Jul) |  |  | 1.75% |
-| 52 min | EUR | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
-| 52 min | EUR | CPI ex Tobacco (YoY) (Aug) |  |  | 2.5% |
-| 52 min | EUR | CPI ex Tobacco (MoM) (Aug) |  |  | 0.0% |
-| 52 min | EUR | CPI, n.s.a (Aug) |  | 126.74 | 126.54 |
-| 52 min | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 2.8% | 2.8% |
-| 52 min | EUR | HICP ex Energy and Food (MoM) (Aug) |  | 0.3% | -0.1% |
+| 09:00 | ZAR | CPI (MoM) (Aug) | 0.1% |  | 0.4% |
+| 09:30 | GBP | House Price Index (YoY) |  | 2.8% | 2.7% |
+| 10:00 | EUR | Construction Output (MoM) (Jul) |  |  | 1.75% |
+| 10:00 | EUR | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Aug) | 2.0% |  | 2.5% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Aug) | 0.1% |  | 0.0% |
+| 10:00 | EUR | CPI, n.s.a (Aug) |  | 126.74 | 126.54 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 2.8% | 2.8% | 2.8% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | -0.1% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.450% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.29% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.4% |
