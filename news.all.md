@@ -4,44 +4,44 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:20 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.60T | -0.96T | -0.68T |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -0.1% | 0.4% | 2.1% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | 8.7% |  | -1.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -0.1% | 0.4% | 2.1% |
 | 00:50 | JPY | Moderate | Exports (YoY) (Aug) | 5.6% | 10.0% | 10.2% |
 | 00:50 | JPY | Low | Imports (YoY) (Aug) | 2.3% | 13.4% | 16.6% |
 | 00:50 | JPY | Moderate | Trade Balance (Aug) | -695.3B | -1,380.0B | -628.7B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.0% |  | -0.0% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Aug) |  | 3.6% | 3.3% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Aug) |  | 0.4% | 0.1% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Aug) |  |  | 1.0% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Aug) |  | 3.6% | 3.3% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Aug) |  |  | 0.0% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Aug) |  |  | 1.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Aug) |  |  | 0.0% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 2.7% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Aug) |  | 0.3% | -0.2% |
 | 07:00 | GBP | High | CPI (YoY) (Aug) |  | 2.2% | 2.2% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Aug) |  | 0.3% | -0.2% |
 | 07:00 | GBP | Low | CPI, n.s.a (Aug) |  |  | 133.80 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 2.8% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Aug) |  | -0.3% | -0.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Aug) |  | -0.9% | 0.4% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Aug) |  | 0.5% | 0.8% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Aug) |  | -0.3% | -0.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Aug) |  | 0.0% | 0.0% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Aug) |  | 0.5% | 0.8% |
 | 07:00 | GBP | Low | RPI (MoM) (Aug) |  | 0.5% | 0.1% |
 | 07:00 | GBP | Low | RPI (YoY) (Aug) |  | 3.4% | 3.6% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Sep) |  | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Sep) |  | 7.00% | 7.00% |
 | 08:30 | IDR | Low | Loans (YoY) (Aug) |  |  | 12.40% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Aug) |  |  | 4.3% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Aug) |  |  | 0.3% |
-| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  |  | 4.6% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Aug) |  |  | 4.3% |
 | 09:00 | ZAR | Low | CPI (MoM) (Aug) |  |  | 0.4% |
+| 09:00 | ZAR | Low | CPI (YoY) (Aug) |  |  | 4.6% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 2.8% | 2.7% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Jul) |  |  | 1.75% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 2.8% | 2.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Aug) |  | 2.2% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Aug) |  | 0.2% | 0.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) |  |  | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Aug) |  |  | 0.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) |  |  | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a (Aug) |  | 126.74 | 126.54 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) |  | 2.8% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) |  | 0.3% | -0.1% |
@@ -54,15 +54,15 @@
 | 12:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Jul) |  |  | 4.1% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.2% |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.50% |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 2.60% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 1.50% |
+| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.50% |
 | 13:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 3.60% |
+| 13:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 1.50% |
 | 13:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.410M | 1.406M |
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  |  | -3.3% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Aug) |  |  | -6.8% |
 | 13:30 | USD | Moderate | Housing Starts (Aug) |  | 1.310M | 1.238M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Aug) |  |  | -6.8% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jul) |  |  | 5.17B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jul) |  |  | 16.350B |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.4% |
