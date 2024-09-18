@@ -9,23 +9,23 @@
 | 02:00 | AUD | MI Leading Index (MoM) (Aug) | -0.0% |  | -0.0% |
 | 07:00 | GBP | Core CPI (MoM) (Aug) | 0.4% | 0.4% | 0.1% |
 | 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.6% | 3.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Aug) | 1.3% |  | 1.0% |
 | 07:00 | GBP | Core PPI Output (MoM) (Aug) | 0.1% |  | 0.1% |
+| 07:00 | GBP | Core PPI Output (YoY) (Aug) | 1.3% |  | 1.0% |
 | 07:00 | GBP | Core RPI (MoM) (Aug) | 0.6% |  | 0.0% |
 | 07:00 | GBP | Core RPI (YoY) (Aug) | 2.8% |  | 2.7% |
-| 07:00 | GBP | CPI, n.s.a (Aug) |  |  | 133.80 |
+| 07:00 | GBP | CPI, n.s.a (Aug) | 134.30 |  | 133.80 |
 | 07:00 | GBP | PPI Input (YoY) (Aug) | -1.2% | -0.9% | 0.2% |
 | 07:00 | GBP | PPI Output (YoY) (Aug) | 0.2% | 0.5% | 0.8% |
 | 07:00 | GBP | PPI Output (MoM) (Aug) | -0.3% | 0.0% | 0.0% |
 | 07:00 | GBP | RPI (YoY) (Aug) | 3.5% | 3.4% | 3.6% |
 | 07:00 | GBP | RPI (MoM) (Aug) | 0.6% | 0.5% | 0.1% |
-| 08:30 | IDR | Deposit Facility Rate (Sep) |  | 5.50% | 5.50% |
-| 08:30 | IDR | Lending Facility Rate (Sep) |  | 7.00% | 7.00% |
-| 08:30 | IDR | Loans (YoY) (Aug) |  |  | 12.40% |
-| 09:00 | ZAR | Core CPI (MoM) (Aug) |  |  | 0.3% |
-| 09:00 | ZAR | Core CPI (YoY) (Aug) |  |  | 4.3% |
-| 09:00 | ZAR | CPI (MoM) (Aug) |  |  | 0.4% |
-| 09:00 | ZAR | CPI (YoY) (Aug) |  |  | 4.6% |
+| 24 min | IDR | Deposit Facility Rate (Sep) |  | 5.50% | 5.50% |
+| 24 min | IDR | Lending Facility Rate (Sep) |  | 7.00% | 7.00% |
+| 24 min | IDR | Loans (YoY) (Aug) |  |  | 12.40% |
+| 54 min | ZAR | Core CPI (MoM) (Aug) |  |  | 0.3% |
+| 54 min | ZAR | Core CPI (YoY) (Aug) |  |  | 4.3% |
+| 54 min | ZAR | CPI (MoM) (Aug) |  |  | 0.4% |
+| 54 min | ZAR | CPI (YoY) (Aug) |  |  | 4.6% |
 | 09:30 | GBP | House Price Index (YoY) |  | 2.8% | 2.7% |
 | 10:00 | EUR | Construction Output (MoM) (Jul) |  |  | 1.75% |
 | 10:00 | EUR | Core CPI (MoM) (Aug) |  | 0.3% | -0.2% |

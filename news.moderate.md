@@ -8,7 +8,7 @@
 | 07:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 2.8% |
 | 07:00 | GBP | PPI Input (MoM) (Aug) | -0.5% | -0.3% | -0.3% |
-| 08:30 | IDR | Interest Rate Decision |  | 6.25% | 6.25% |
+| 24 min | IDR | Interest Rate Decision |  | 6.25% | 6.25% |
 | 10:00 | EUR | Core CPI (YoY) (Aug) |  | 2.8% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Aug) |  | 0.2% | 0.0% |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
