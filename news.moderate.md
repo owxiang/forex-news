@@ -1,30 +1,25 @@
-## 18 September 2024 - Moderate Impact Forex News
+## 19 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.60T | -0.96T | -0.68T |
-| 00:50 | JPY | Exports (YoY) (Aug) | 5.6% | 10.0% | 10.2% |
-| 00:50 | JPY | Trade Balance (Aug) | -695.3B | -1,380.0B | -628.7B |
-| 07:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
-| 07:00 | GBP | CPIH (YoY) | 3.1% |  | 3.1% |
-| 07:00 | GBP | PPI Input (MoM) (Aug) | -0.5% | -0.3% | -0.3% |
-| 08:30 | IDR | Interest Rate Decision | 6.00% | 6.25% | 6.25% |
-| 10:00 | EUR | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
-| 10:00 | EUR | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
-| 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | EUR | ECB McCaul Speaks |  |  |  |
-| 13:30 | USD | Building Permits (Aug) | 1.475M | 1.410M | 1.406M |
-| 13:30 | USD | Housing Starts (MoM) (Aug) | 9.6% |  | -6.9% |
-| 13:30 | USD | Housing Starts (Aug) | 1.356M | 1.310M | 1.237M |
-| 13:30 | CAD | Foreign Securities Purchases (Jul) | 10.98B |  | 5.20B |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 3.0% | 3.0% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.979M |  | -1.704M |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) | 3.4% |  | 4.1% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) | 2.9% |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q1) | 2.9% |  | 2.9% |
-| 19:00 | USD | Interest Rate Projection - Current (Q3) | 4.4% |  | 5.1% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q3) | 2.9% |  | 2.8% |
-| 21:00 | USD | TIC Net Long-Term Transactions (Jul) | 135.4B |  | 80.5B |
-| 22:30 | BRL | Interest Rate Decision | 10.75% | 10.75% | 10.50% |
-| 39 min | NZD | Current Account (YoY) (Q2) |  |  | -27.64B |
-| 39 min | NZD | GDP (QoQ) (Q2) |  | -0.4% | 0.2% |
+| 02:30 | AUD | Employment Change (Aug) |  | 26.4K | 58.2K |
+| 02:30 | AUD | Full Employment Change (Aug) |  |  | 60.5K |
+| 02:30 | AUD | Unemployment Rate (Aug) |  | 4.2% | 4.2% |
+| 08:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
+| 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Sep) |  | 2 | 5 |
+| 12:00 | GBP | BoE MPC vote hike (Sep) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Sep) |  | 7 | 4 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:30 | GBP | BOE Inflation Letter |  |  |  |
+| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |
+| 13:30 | USD | Current Account (Q2) |  | -259.0B | -237.6B |
+| 13:30 | USD | Philly Fed Employment (Sep) |  |  | -5.7 |
+| 14:00 | ZAR | Interest Rate Decision (Sep) |  | 8.00% | 8.25% |
+| 15:00 | USD | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
+| 15:00 | USD | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
+| 15:40 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 1.883% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,115B |
