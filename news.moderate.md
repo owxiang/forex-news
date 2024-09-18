@@ -14,8 +14,8 @@
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Aug) |  | 1.410M | 1.406M |
-| 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | -6.8% |
 | 13:30 | USD | Housing Starts (Aug) |  | 1.310M | 1.238M |
+| 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | -6.8% |
 | 13:30 | CAD | Foreign Securities Purchases (Jul) |  |  | 5.17B |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.704M |
