@@ -11,7 +11,7 @@
 | 08:30 | IDR | Interest Rate Decision |  | 6.25% | 6.25% |
 | 10:00 | EUR | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
-| 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Aug) |  | 1.410M | 1.406M |
 | 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | -6.8% |
