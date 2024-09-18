@@ -6,13 +6,13 @@
 | 00:50 | JPY | Exports (YoY) (Aug) | 5.6% | 10.0% | 10.2% |
 | 00:50 | JPY | Trade Balance (Aug) | -695.3B | -1,380.0B | -628.7B |
 | 07:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.3% | -0.2% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 2.8% |
+| 07:00 | GBP | CPIH (YoY) | 3.1% |  | 3.1% |
 | 07:00 | GBP | PPI Input (MoM) (Aug) | -0.5% | -0.3% | -0.3% |
-| 08:30 | IDR | Interest Rate Decision |  | 6.25% | 6.25% |
+| 08:30 | IDR | Interest Rate Decision | 6.00% | 6.25% | 6.25% |
 | 10:00 | EUR | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
-| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 55 min | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Aug) |  | 1.410M | 1.406M |
 | 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | -6.8% |
 | 13:30 | USD | Housing Starts (Aug) |  | 1.310M | 1.238M |
