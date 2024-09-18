@@ -25,6 +25,6 @@
 | 19:00 | USD | Interest Rate Projection - Current (Q3) | 4.4% |  | 5.1% |
 | 19:00 | USD | Interest Rate Projection - Longer (Q3) | 2.9% |  | 2.8% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jul) | 135.4B |  | 80.5B |
-| 22:30 | BRL | Interest Rate Decision |  | 10.75% | 10.50% |
+| 25 min | BRL | Interest Rate Decision |  | 10.75% | 10.50% |
 | 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -27.64B |
 | 23:45 | NZD | GDP (QoQ) (Q2) |  | -0.4% | 0.2% |

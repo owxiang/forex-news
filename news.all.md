@@ -22,16 +22,16 @@
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.1% |  | 3.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Aug) | -1.2% | -0.9% | 0.2% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Aug) | -0.5% | -0.3% | -0.3% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Aug) | 0.2% | 0.5% | 0.8% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Aug) | -0.3% | 0.0% | 0.0% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Aug) | 0.2% | 0.5% | 0.8% |
 | 07:00 | GBP | Low | RPI (MoM) (Aug) | 0.6% | 0.5% | 0.1% |
 | 07:00 | GBP | Low | RPI (YoY) (Aug) | 3.5% | 3.4% | 3.6% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.25% | 6.25% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Sep) | 5.25% | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Sep) | 6.75% | 7.00% | 7.00% |
 | 08:30 | IDR | Low | Loans (YoY) (Aug) | 11.40% |  | 12.40% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Aug) | 4.1% |  | 4.3% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Aug) | 0.0% |  | 0.3% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Aug) | 4.1% |  | 4.3% |
 | 09:00 | ZAR | Low | CPI (YoY) (Aug) | 4.4% |  | 4.6% |
 | 09:00 | ZAR | Low | CPI (MoM) (Aug) | 0.1% |  | 0.4% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.2% | 2.8% | 2.7% |
@@ -90,7 +90,7 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Jul) | 156.50B |  | 92.00B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Jul) | 135.4B |  | 80.5B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jul) | 135.40B | 54.90B | 80.50B |
-| 22:30 | BRL | Moderate | Interest Rate Decision |  | 10.75% | 10.50% |
+| 25 min | BRL | Moderate | Interest Rate Decision |  | 10.75% | 10.50% |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q2) |  |  | -27.64B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q2) |  |  | -6.80% |
 | 23:45 | NZD | Moderate | GDP (QoQ) (Q2) |  | -0.4% | 0.2% |
