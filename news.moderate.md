@@ -19,11 +19,11 @@
 | 13:30 | CAD | Foreign Securities Purchases (Jul) | 10.98B |  | 5.20B |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 3.0% | 3.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.979M |  | -1.704M |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.1% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q1) |  |  | 2.9% |
-| 19:00 | USD | Interest Rate Projection - Current (Q3) |  |  | 5.1% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q3) |  |  | 2.8% |
+| 54 min | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.1% |
+| 54 min | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.1% |
+| 54 min | USD | Interest Rate Projection - 3rd Yr (Q1) |  |  | 2.9% |
+| 54 min | USD | Interest Rate Projection - Current (Q3) |  |  | 5.1% |
+| 54 min | USD | Interest Rate Projection - Longer (Q3) |  |  | 2.8% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Jul) |  |  | 96.1B |
 | 22:30 | BRL | Interest Rate Decision |  | 10.75% | 10.50% |
 | 23:45 | NZD | Current Account (YoY) (Q2) |  |  | -27.64B |

@@ -75,16 +75,16 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.352M |  | -0.695M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | -0.5% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.069M | 0.610M | 2.310M |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.010B |
-| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q1) |  |  | 2.9% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q3) |  |  | 5.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q3) |  |  | 2.8% |
-| 19:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 19:00 | USD | High | FOMC Statement |  |  |  |
-| 19:00 | USD | High | Fed Interest Rate Decision |  | 5.25% | 5.50% |
+| 24 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -1.010B |
+| 54 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.1% |
+| 54 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.1% |
+| 54 min | USD | Moderate | Interest Rate Projection - 3rd Yr (Q1) |  |  | 2.9% |
+| 54 min | USD | Moderate | Interest Rate Projection - Current (Q3) |  |  | 5.1% |
+| 54 min | USD | Moderate | Interest Rate Projection - Longer (Q3) |  |  | 2.8% |
+| 54 min | USD | High | FOMC Economic Projections |  |  |  |
+| 54 min | USD | High | FOMC Statement |  |  |  |
+| 54 min | USD | High | Fed Interest Rate Decision |  | 5.25% | 5.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Jul) |  |  | 9.80B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Jul) |  |  | 107.50B |
