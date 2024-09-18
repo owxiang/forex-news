@@ -10,8 +10,8 @@
 | 00:50 | JPY | Low | Imports (YoY) (Aug) | 2.3% | 13.4% | 16.6% |
 | 00:50 | JPY | Moderate | Trade Balance (Aug) | -695.3B | -1,380.0B | -628.7B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.1% |  | 0.0% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Aug) | 3.6% | 3.6% | 3.3% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Aug) | 0.4% | 0.4% | 0.1% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Aug) | 3.6% | 3.6% | 3.3% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Aug) | 0.1% |  | 0.1% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Aug) | 1.3% |  | 1.0% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Aug) | 2.8% |  | 2.7% |
@@ -58,8 +58,8 @@
 | 13:00 | MXN | Low | Private Spending (YoY) (Q2) | 2.70% |  | 3.60% |
 | 13:00 | MXN | Low | Private Spending (QoQ) (Q2) | -0.60% |  | 1.50% |
 | 13:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 13:30 | USD | Moderate | Building Permits (Aug) | 1.475M | 1.410M | 1.406M |
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) | 4.9% |  | -3.3% |
+| 13:30 | USD | Moderate | Building Permits (Aug) | 1.475M | 1.410M | 1.406M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Aug) | 9.6% |  | -6.9% |
 | 13:30 | USD | Moderate | Housing Starts (Aug) | 1.356M | 1.310M | 1.237M |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Jul) | 10.98B |  | 5.20B |

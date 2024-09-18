@@ -7,8 +7,8 @@
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -0.1% | 0.4% | 2.1% |
 | 00:50 | JPY | Imports (YoY) (Aug) | 2.3% | 13.4% | 16.6% |
 | 02:00 | AUD | MI Leading Index (MoM) (Aug) | -0.1% |  | 0.0% |
-| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.6% | 3.3% |
 | 07:00 | GBP | Core CPI (MoM) (Aug) | 0.4% | 0.4% | 0.1% |
+| 07:00 | GBP | Core CPI (YoY) (Aug) | 3.6% | 3.6% | 3.3% |
 | 07:00 | GBP | Core PPI Output (MoM) (Aug) | 0.1% |  | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Aug) | 1.3% |  | 1.0% |
 | 07:00 | GBP | Core RPI (YoY) (Aug) | 2.8% |  | 2.7% |
