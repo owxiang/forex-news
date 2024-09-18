@@ -17,8 +17,8 @@
 | 13:30 | USD | Housing Starts (MoM) (Aug) | 9.6% |  | -6.9% |
 | 13:30 | USD | Housing Starts (Aug) | 1.356M | 1.310M | 1.237M |
 | 13:30 | CAD | Foreign Securities Purchases (Jul) | 10.98B |  | 5.20B |
-| 24 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | -1.704M |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 2.9% | 3.0% | 3.0% |
+| 15:30 | USD | Cushing Crude Oil Inventories | -1.979M |  | -1.704M |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.1% |
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.1% |
 | 19:00 | USD | Interest Rate Projection - 3rd Yr (Q1) |  |  | 2.9% |
