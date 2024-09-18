@@ -12,11 +12,11 @@
 | 10:00 | EUR | Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Aug) | 0.1% | 0.2% | 0.0% |
 | 12:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 55 min | EUR | ECB McCaul Speaks |  |  |  |
-| 13:30 | USD | Building Permits (Aug) |  | 1.410M | 1.406M |
-| 13:30 | USD | Housing Starts (MoM) (Aug) |  |  | -6.8% |
-| 13:30 | USD | Housing Starts (Aug) |  | 1.310M | 1.238M |
-| 13:30 | CAD | Foreign Securities Purchases (Jul) |  |  | 5.17B |
+| 13:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 21 min | USD | Building Permits (Aug) |  | 1.410M | 1.406M |
+| 21 min | USD | Housing Starts (MoM) (Aug) |  |  | -6.8% |
+| 21 min | USD | Housing Starts (Aug) |  | 1.310M | 1.238M |
+| 21 min | CAD | Foreign Securities Purchases (Jul) |  |  | 5.17B |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.0% | 3.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.704M |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.1% |
