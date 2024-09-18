@@ -7,18 +7,18 @@
 | 00:50 | JPY | Core Machinery Orders (MoM) (Jul) | -0.1% | 0.4% | 2.1% |
 | 00:50 | JPY | Imports (YoY) (Aug) | 2.3% | 13.4% | 16.6% |
 | 02:00 | AUD | MI Leading Index (MoM) (Aug) | -0.0% |  | -0.0% |
-| 07:00 | GBP | Core CPI (MoM) (Aug) |  | 0.4% | 0.1% |
-| 07:00 | GBP | Core CPI (YoY) (Aug) |  | 3.6% | 3.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Aug) |  |  | 0.0% |
-| 07:00 | GBP | Core PPI Output (YoY) (Aug) |  |  | 1.0% |
-| 07:00 | GBP | Core RPI (MoM) (Aug) |  |  | 0.0% |
-| 07:00 | GBP | Core RPI (YoY) (Aug) |  |  | 2.7% |
-| 07:00 | GBP | CPI, n.s.a (Aug) |  |  | 133.80 |
-| 07:00 | GBP | PPI Input (YoY) (Aug) |  | -0.9% | 0.4% |
-| 07:00 | GBP | PPI Output (MoM) (Aug) |  | 0.0% | 0.0% |
-| 07:00 | GBP | PPI Output (YoY) (Aug) |  | 0.5% | 0.8% |
-| 07:00 | GBP | RPI (MoM) (Aug) |  | 0.5% | 0.1% |
-| 07:00 | GBP | RPI (YoY) (Aug) |  | 3.4% | 3.6% |
+| 54 min | GBP | Core CPI (MoM) (Aug) |  | 0.4% | 0.1% |
+| 54 min | GBP | Core CPI (YoY) (Aug) |  | 3.6% | 3.3% |
+| 54 min | GBP | Core PPI Output (YoY) (Aug) |  |  | 1.0% |
+| 54 min | GBP | Core PPI Output (MoM) (Aug) |  |  | 0.0% |
+| 54 min | GBP | Core RPI (MoM) (Aug) |  |  | 0.0% |
+| 54 min | GBP | Core RPI (YoY) (Aug) |  |  | 2.7% |
+| 54 min | GBP | CPI, n.s.a (Aug) |  |  | 133.80 |
+| 54 min | GBP | PPI Input (YoY) (Aug) |  | -0.9% | 0.4% |
+| 54 min | GBP | PPI Output (YoY) (Aug) |  | 0.5% | 0.8% |
+| 54 min | GBP | PPI Output (MoM) (Aug) |  | 0.0% | 0.0% |
+| 54 min | GBP | RPI (YoY) (Aug) |  | 3.4% | 3.6% |
+| 54 min | GBP | RPI (MoM) (Aug) |  | 0.5% | 0.1% |
 | 08:30 | IDR | Deposit Facility Rate (Sep) |  | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Sep) |  | 7.00% | 7.00% |
 | 08:30 | IDR | Loans (YoY) (Aug) |  |  | 12.40% |
