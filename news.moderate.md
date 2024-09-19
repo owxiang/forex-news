@@ -14,12 +14,12 @@
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21 min | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |
-| 21 min | USD | Current Account (Q2) |  | -259.0B | -237.6B |
-| 21 min | USD | Philly Fed Employment (Sep) |  |  | -5.7 |
-| 51 min | ZAR | Interest Rate Decision (Sep) |  | 8.00% | 8.25% |
-| 15:00 | USD | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
-| 15:00 | USD | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
+| 13:30 | USD | Continuing Jobless Claims | 1,829K | 1,850K | 1,843K |
+| 13:30 | USD | Current Account (Q2) | -266.8B | -259.0B | -241.0B |
+| 13:30 | USD | Philly Fed Employment (Sep) | 10.7 |  | -5.7 |
+| 14:00 | ZAR | Interest Rate Decision (Sep) | 8.00% | 8.00% | 8.25% |
+| 51 min | USD | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
+| 50 min | USD | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
 | 15:40 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 1.883% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,115B |
