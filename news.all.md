@@ -57,6 +57,6 @@
 | 15:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.700% |  | 4.965% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.690% |  | 4.990% |
-| 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.883% |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.592% |  | 1.883% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,115B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.360T |
