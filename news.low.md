@@ -12,8 +12,8 @@
 | 07:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
 | 07:00 | CHF | Trade Balance (Aug) |  | 5.050B | 4.889B |
-| 07:00 | EUR | German Car Registration (MoM) (Aug) |  |  | -19.9% |
 | 07:00 | EUR | German Car Registration (YoY) (Aug) |  |  | -2.1% |
+| 07:00 | EUR | German Car Registration (MoM) (Aug) |  |  | -19.9% |
 | 07:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -30.6% |
 | 07:00 | EUR | French Car Registration (YoY) (Aug) |  |  | -2.3% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
