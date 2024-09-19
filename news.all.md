@@ -12,8 +12,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Aug) | -1.3% |  | 2.5% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Aug) | -42.7% |  | -17.7% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -13.4% |  | 4.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
 | 07:00 | CHF | Low | Trade Balance (Aug) | 4.578B | 5.050B | 4.877B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Aug) | -17.2% |  | -19.9% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Aug) | -27.8% |  | -2.1% |
@@ -49,12 +49,12 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Sep) | -1.5 |  | 14.6 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Sep) | 34.00 |  | 24.00 |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) | 8.00% | 8.00% | 8.25% |
-| 21 min | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
-| 51 min | USD | High | Existing Home Sales (Aug) |  | 3.92M | 3.95M |
-| 51 min | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
-| 50 min | USD | Moderate | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 53B | 40B |
-| 15:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 14:00 | ZAR | Low | Prime Rate (Sep) | 11.50% |  | 11.75% |
+| 15:00 | USD | High | Existing Home Sales (Aug) | 3.86M | 3.92M | 3.96M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -2.5% |  | 1.5% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) | -0.2% | -0.3% | -0.6% |
+| 24 min | USD | Low | Natural Gas Storage |  | 53B | 40B |
+| 34 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.965% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.990% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.883% |

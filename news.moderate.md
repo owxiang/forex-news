@@ -18,8 +18,8 @@
 | 13:30 | USD | Current Account (Q2) | -266.8B | -259.0B | -241.0B |
 | 13:30 | USD | Philly Fed Employment (Sep) | 10.7 |  | -5.7 |
 | 14:00 | ZAR | Interest Rate Decision (Sep) | 8.00% | 8.00% | 8.25% |
-| 51 min | USD | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
-| 50 min | USD | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
-| 15:40 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (MoM) (Aug) | -2.5% |  | 1.5% |
+| 15:00 | USD | US Leading Index (MoM) (Aug) | -0.2% | -0.3% | -0.6% |
+| 34 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 1.883% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,115B |
