@@ -7,13 +7,13 @@
 | 00:55 | KRW | Trade Balance (Aug) | 3.77B |  | 3.83B |
 | 02:30 | AUD | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
 | 02:30 | AUD | Reserve Assets Total (Aug) | 93.1B |  | 96.2B |
-| 07:00 | GBP | Car Registration (YoY) (Aug) | -1.3% |  | 2.5% |
 | 07:00 | GBP | Car Registration (MoM) (Aug) | -42.7% |  | -17.7% |
+| 07:00 | GBP | Car Registration (YoY) (Aug) | -1.3% |  | 2.5% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Aug) | -13.4% |  | 4.7% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
 | 07:00 | CHF | Trade Balance (Aug) | 4.578B | 5.050B | 4.877B |
-| 07:00 | EUR | German Car Registration (MoM) (Aug) | -17.2% |  | -19.9% |
 | 07:00 | EUR | German Car Registration (YoY) (Aug) | -27.8% |  | -2.1% |
+| 07:00 | EUR | German Car Registration (MoM) (Aug) | -17.2% |  | -19.9% |
 | 07:00 | EUR | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
 | 07:00 | EUR | French Car Registration (MoM) (Aug) | -31.8% |  | -30.6% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
@@ -31,7 +31,7 @@
 | 13:30 | USD | Philly Fed New Orders (Sep) | -1.5 |  | 14.6 |
 | 13:30 | USD | Philly Fed Prices Paid (Sep) | 34.00 |  | 24.00 |
 | 14:00 | ZAR | Prime Rate (Sep) | 11.50% |  | 11.75% |
-| 24 min | USD | Natural Gas Storage |  | 53B | 40B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.965% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.990% |
+| 15:30 | USD | Natural Gas Storage | 58B | 53B | 40B |
+| 24 min | USD | 4-Week Bill Auction |  |  | 4.965% |
+| 24 min | USD | 8-Week Bill Auction |  |  | 4.990% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.360T |

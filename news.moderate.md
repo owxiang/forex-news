@@ -20,6 +20,6 @@
 | 14:00 | ZAR | Interest Rate Decision (Sep) | 8.00% | 8.00% | 8.25% |
 | 15:00 | USD | Existing Home Sales (MoM) (Aug) | -2.5% |  | 1.5% |
 | 15:00 | USD | US Leading Index (MoM) (Aug) | -0.2% | -0.3% | -0.6% |
-| 34 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 15:40 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 1.883% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,115B |
