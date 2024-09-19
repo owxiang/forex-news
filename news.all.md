@@ -2,25 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -222.6B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -902.3B |
-| 49 min | KRW | Low | Exports (YoY) (Aug) |  |  | 11.4% |
-| 49 min | KRW | Low | Imports (YoY) (Aug) |  |  | 6.0% |
-| 49 min | KRW | Low | Trade Balance (Aug) |  |  | 3.83B |
 | 02:30 | AUD | Moderate | Employment Change (Aug) |  | 26.4K | 58.2K |
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) |  |  | 60.5K |
 | 02:30 | AUD | Low | Participation Rate (Aug) |  | 67.1% | 67.1% |
 | 02:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 96.2B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) |  | 4.2% | 4.2% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -17.7% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 2.5% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -17.7% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
 | 07:00 | CHF | Low | Trade Balance (Aug) |  | 5.050B | 4.889B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | -2.1% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Aug) |  |  | -19.9% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -30.6% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | -2.1% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | -2.3% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -30.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
@@ -52,8 +47,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Sep) |  |  | 24.00 |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.00% | 8.25% |
 | 14:00 | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
 | 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.90M | 3.95M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 53B | 40B |
 | 15:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
