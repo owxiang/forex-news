@@ -10,16 +10,16 @@
 | 02:30 | AUD | Low | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
 | 02:30 | AUD | Low | Reserve Assets Total (Aug) | 93.1B |  | 96.2B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -17.7% |
-| 07:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 2.5% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
-| 07:00 | CHF | Low | Trade Balance (Aug) |  | 5.050B | 4.889B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | -2.1% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Aug) |  |  | -19.9% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -30.6% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | -2.3% |
+| 54 min | CHF | Low | Trade Balance (Aug) |  | 5.050B | 4.889B |
+| 08:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -17.7% |
+| 08:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 2.5% |
+| 08:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
+| 08:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 08:00 | EUR | Low | German Car Registration (MoM) (Aug) |  |  | -19.9% |
+| 08:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | -2.1% |
+| 08:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -30.6% |
+| 08:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | -2.3% |
 | 08:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:00 | EUR | Low | Current Account (Jul) |  | 40.3B | 51.0B |
@@ -50,8 +50,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Sep) |  |  | 24.00 |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.00% | 8.25% |
 | 14:00 | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
+| 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.92M | 3.95M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
-| 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.90M | 3.95M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 53B | 40B |
 | 15:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
