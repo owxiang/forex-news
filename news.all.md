@@ -10,20 +10,20 @@
 | 02:30 | AUD | Low | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
 | 02:30 | AUD | Low | Reserve Assets Total (Aug) | 93.1B |  | 96.2B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Aug) | -42.7% |  | -17.7% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Aug) | -1.3% |  | 2.5% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -13.4% |  | 4.7% |
 | 07:00 | CHF | Low | Trade Balance (Aug) | 4.578B | 5.050B | 4.877B |
-| 52 min | GBP | Low | Car Registration (YoY) (Aug) |  |  | 2.5% |
-| 52 min | GBP | Low | Car Registration (MoM) (Aug) |  |  | -17.7% |
-| 52 min | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
-| 52 min | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
-| 52 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 52 min | EUR | Low | German Car Registration (MoM) (Aug) |  |  | -19.9% |
-| 52 min | EUR | Low | German Car Registration (YoY) (Aug) |  |  | -2.1% |
-| 52 min | EUR | Low | French Car Registration (YoY) (Aug) |  |  | -2.3% |
-| 52 min | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -30.6% |
-| 08:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 09:00 | EUR | Low | Current Account (Jul) |  | 40.3B | 51.0B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Jul) |  |  | 52.4B |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Aug) | -27.8% |  | -2.1% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Aug) | -17.2% |  | -19.9% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Aug) | -31.8% |  | -30.6% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
+| 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 24 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 54 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 54 min | EUR | Low | Current Account (Jul) |  | 40.3B | 51.0B |
+| 54 min | EUR | Low | Current Account n.s.a. (Jul) |  |  | 52.4B |
 | 09:30 | HKD | Low | Unemployment Rate (Aug) |  |  | 3.0% |
 | 10:00 | EUR | Low | French 6-Year OAT Auction |  |  | 2.65% |
 | 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 2.96% |

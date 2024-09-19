@@ -7,18 +7,18 @@
 | 00:55 | KRW | Trade Balance (Aug) | 3.77B |  | 3.83B |
 | 02:30 | AUD | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
 | 02:30 | AUD | Reserve Assets Total (Aug) | 93.1B |  | 96.2B |
+| 07:00 | GBP | Car Registration (MoM) (Aug) | -42.7% |  | -17.7% |
+| 07:00 | GBP | Car Registration (YoY) (Aug) | -1.3% |  | 2.5% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Aug) | -13.4% |  | 4.7% |
 | 07:00 | CHF | Trade Balance (Aug) | 4.578B | 5.050B | 4.877B |
-| 52 min | GBP | Car Registration (YoY) (Aug) |  |  | 2.5% |
-| 52 min | GBP | Car Registration (MoM) (Aug) |  |  | -17.7% |
-| 52 min | EUR | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
-| 52 min | EUR | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
-| 52 min | CHF | SECO Economic Forecasts |  |  |  |
-| 52 min | EUR | German Car Registration (MoM) (Aug) |  |  | -19.9% |
-| 52 min | EUR | German Car Registration (YoY) (Aug) |  |  | -2.1% |
-| 52 min | EUR | French Car Registration (YoY) (Aug) |  |  | -2.3% |
-| 52 min | EUR | French Car Registration (MoM) (Aug) |  |  | -30.6% |
-| 09:00 | EUR | Current Account (Jul) |  | 40.3B | 51.0B |
-| 09:00 | EUR | Current Account n.s.a. (Jul) |  |  | 52.4B |
+| 07:00 | EUR | German Car Registration (YoY) (Aug) | -27.8% |  | -2.1% |
+| 07:00 | EUR | German Car Registration (MoM) (Aug) | -17.2% |  | -19.9% |
+| 07:00 | EUR | French Car Registration (MoM) (Aug) | -31.8% |  | -30.6% |
+| 07:00 | EUR | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 54 min | EUR | Current Account (Jul) |  | 40.3B | 51.0B |
+| 54 min | EUR | Current Account n.s.a. (Jul) |  |  | 52.4B |
 | 09:30 | HKD | Unemployment Rate (Aug) |  |  | 3.0% |
 | 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.65% |
 | 10:00 | EUR | French 8-Year OAT Auction |  |  | 2.96% |
