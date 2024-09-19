@@ -12,13 +12,13 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Aug) | -42.7% |  | -17.7% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Aug) | -1.3% |  | 2.5% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | -13.4% |  | 4.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
 | 07:00 | CHF | Low | Trade Balance (Aug) | 4.578B | 5.050B | 4.877B |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Aug) | -27.8% |  | -2.1% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Aug) | -17.2% |  | -19.9% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Aug) | -31.8% |  | -30.6% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Aug) | -31.8% |  | -30.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
@@ -58,5 +58,5 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.700% |  | 4.965% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.690% |  | 4.990% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.592% |  | 1.883% |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,115B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.360T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,109B |  | 7,115B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.360T |
