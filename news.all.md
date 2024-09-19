@@ -26,14 +26,14 @@
 | 09:00 | EUR | Low | Current Account n.s.a. (Jul) | 48.0B |  | 52.4B |
 | 09:30 | HKD | Low | Unemployment Rate (Aug) | 3.0% |  | 3.0% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.692% |  | 3.132% |
-| 10:00 | EUR | Low | French 6-Year OAT Auction |  |  | 2.65% |
-| 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 2.96% |
+| 10:00 | EUR | Low | French 6-Year OAT Auction | 2.62% |  | 2.65% |
+| 10:00 | EUR | Low | French 8-Year OAT Auction | 2.77% |  | 2.96% |
 | 10:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 2 | 5 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 7 | 4 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Sep) |  | 5.00% | 5.00% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 54 min | GBP | Moderate | BoE MPC vote cut (Sep) |  | 2 | 5 |
+| 54 min | GBP | Moderate | BoE MPC vote hike (Sep) |  | 0 | 0 |
+| 54 min | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 7 | 4 |
+| 54 min | GBP | High | BoE Interest Rate Decision (Sep) |  | 5.00% | 5.00% |
+| 54 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 12:30 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.2% |

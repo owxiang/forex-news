@@ -8,10 +8,10 @@
 | 08:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Sep) |  | 2 | 5 |
-| 12:00 | GBP | BoE MPC vote hike (Sep) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Sep) |  | 7 | 4 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 54 min | GBP | BoE MPC vote cut (Sep) |  | 2 | 5 |
+| 54 min | GBP | BoE MPC vote hike (Sep) |  | 0 | 0 |
+| 54 min | GBP | BoE MPC vote unchanged (Sep) |  | 7 | 4 |
+| 54 min | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BOE Inflation Letter |  |  |  |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |

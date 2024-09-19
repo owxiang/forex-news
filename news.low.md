@@ -21,8 +21,8 @@
 | 09:00 | EUR | Current Account n.s.a. (Jul) | 48.0B |  | 52.4B |
 | 09:30 | HKD | Unemployment Rate (Aug) | 3.0% |  | 3.0% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 2.692% |  | 3.132% |
-| 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.65% |
-| 10:00 | EUR | French 8-Year OAT Auction |  |  | 2.96% |
+| 10:00 | EUR | French 6-Year OAT Auction | 2.62% |  | 2.65% |
+| 10:00 | EUR | French 8-Year OAT Auction | 2.77% |  | 2.96% |
 | 12:30 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 12:30 | INR | M3 Money Supply |  |  | 10.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 230.75K |
