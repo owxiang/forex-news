@@ -8,12 +8,12 @@
 | 02:30 | AUD | Moderate | Employment Change (Aug) | 47.5K | 26.4K | 48.9K |
 | 02:30 | AUD | Moderate | Full Employment Change (Aug) | -3.1K |  | 64.7K |
 | 02:30 | AUD | Low | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
-| 02:30 | AUD | Low | Reserve Assets Total (Aug) | 93,137.0B |  | 96,175.0B |
+| 02:30 | AUD | Low | Reserve Assets Total (Aug) | 93.1B |  | 96.2B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -17.7% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 2.5% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 4.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |
 | 07:00 | CHF | Low | Trade Balance (Aug) |  | 5.050B | 4.889B |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | -2.1% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Aug) |  |  | -19.9% |
