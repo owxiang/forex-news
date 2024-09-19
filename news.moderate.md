@@ -7,7 +7,7 @@
 | 02:30 | AUD | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 08:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 52 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Sep) |  | 2 | 5 |
 | 12:00 | GBP | BoE MPC vote hike (Sep) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Sep) |  | 7 | 4 |

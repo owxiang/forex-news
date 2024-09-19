@@ -24,10 +24,11 @@
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:00 | EUR | Low | Current Account (Jul) | 39.6B | 40.3B | 51.0B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Jul) | 48.0B |  | 52.4B |
-| 22 min | HKD | Low | Unemployment Rate (Aug) |  |  | 3.0% |
-| 52 min | EUR | Low | French 6-Year OAT Auction |  |  | 2.65% |
-| 52 min | EUR | Low | French 8-Year OAT Auction |  |  | 2.96% |
-| 52 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 09:30 | HKD | Low | Unemployment Rate (Aug) | 3.0% |  | 3.0% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.692% |  | 3.132% |
+| 10:00 | EUR | Low | French 6-Year OAT Auction |  |  | 2.65% |
+| 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 2.96% |
+| 10:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 2 | 5 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 7 | 4 |
@@ -49,8 +50,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Sep) |  |  | 24.00 |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.00% | 8.25% |
 | 14:00 | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
 | 15:00 | USD | High | Existing Home Sales (Aug) |  | 3.92M | 3.95M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 53B | 40B |
 | 15:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
