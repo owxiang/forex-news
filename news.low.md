@@ -6,7 +6,7 @@
 | 00:55 | KRW | Imports (YoY) (Aug) | 6.0% |  | 6.0% |
 | 00:55 | KRW | Trade Balance (Aug) | 3.77B |  | 3.83B |
 | 02:30 | AUD | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
-| 02:30 | AUD | Reserve Assets Total (Aug) |  |  | 96.2B |
+| 02:30 | AUD | Reserve Assets Total (Aug) | 93,137.0B |  | 96,175.0B |
 | 07:00 | GBP | Car Registration (MoM) (Aug) |  |  | -17.7% |
 | 07:00 | GBP | Car Registration (YoY) (Aug) |  |  | 2.5% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -21.9% |

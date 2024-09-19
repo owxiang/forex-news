@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (Aug) | 47.5K | 26.4K | 58.2K |
-| 02:30 | AUD | Full Employment Change (Aug) | -3.1K |  | 60.5K |
+| 02:30 | AUD | Employment Change (Aug) | 47.5K | 26.4K | 48.9K |
+| 02:30 | AUD | Full Employment Change (Aug) | -3.1K |  | 64.7K |
 | 02:30 | AUD | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 08:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |

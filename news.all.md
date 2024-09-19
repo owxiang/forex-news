@@ -5,10 +5,10 @@
 | 00:55 | KRW | Low | Exports (YoY) (Aug) | 11.2% |  | 11.4% |
 | 00:55 | KRW | Low | Imports (YoY) (Aug) | 6.0% |  | 6.0% |
 | 00:55 | KRW | Low | Trade Balance (Aug) | 3.77B |  | 3.83B |
-| 02:30 | AUD | Moderate | Employment Change (Aug) | 47.5K | 26.4K | 58.2K |
-| 02:30 | AUD | Moderate | Full Employment Change (Aug) | -3.1K |  | 60.5K |
+| 02:30 | AUD | Moderate | Employment Change (Aug) | 47.5K | 26.4K | 48.9K |
+| 02:30 | AUD | Moderate | Full Employment Change (Aug) | -3.1K |  | 64.7K |
 | 02:30 | AUD | Low | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
-| 02:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 96.2B |
+| 02:30 | AUD | Low | Reserve Assets Total (Aug) | 93,137.0B |  | 96,175.0B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Aug) | 4.2% | 4.2% | 4.2% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -17.7% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 2.5% |
