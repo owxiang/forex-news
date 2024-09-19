@@ -1,37 +1,36 @@
-## 19 September 2024 - Low Impact Forex News
+## 20 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:55 | KRW | Exports (YoY) (Aug) | 11.2% |  | 11.4% |
-| 00:55 | KRW | Imports (YoY) (Aug) | 6.0% |  | 6.0% |
-| 00:55 | KRW | Trade Balance (Aug) | 3.77B |  | 3.83B |
-| 02:30 | AUD | Participation Rate (Aug) | 67.1% | 67.1% | 67.1% |
-| 02:30 | AUD | Reserve Assets Total (Aug) | 93.1B |  | 96.2B |
-| 07:00 | GBP | Car Registration (MoM) (Aug) | -42.7% |  | -17.7% |
-| 07:00 | GBP | Car Registration (YoY) (Aug) | -1.3% |  | 2.5% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Aug) | -13.4% |  | 4.7% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Aug) | -44.6% |  | -21.9% |
-| 07:00 | CHF | Trade Balance (Aug) | 4.578B | 5.050B | 4.877B |
-| 07:00 | EUR | German Car Registration (YoY) (Aug) | -27.8% |  | -2.1% |
-| 07:00 | EUR | German Car Registration (MoM) (Aug) | -17.2% |  | -19.9% |
-| 07:00 | EUR | French Car Registration (YoY) (Aug) | -24.3% |  | -2.3% |
-| 07:00 | EUR | French Car Registration (MoM) (Aug) | -31.8% |  | -30.6% |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Current Account (Jul) | 39.6B | 40.3B | 51.0B |
-| 09:00 | EUR | Current Account n.s.a. (Jul) | 48.0B |  | 52.4B |
-| 09:30 | HKD | Unemployment Rate (Aug) | 3.0% |  | 3.0% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction | 2.692% |  | 3.132% |
-| 10:00 | EUR | French 6-Year OAT Auction | 2.62% |  | 2.65% |
-| 10:00 | EUR | French 8-Year OAT Auction | 2.77% |  | 2.96% |
-| 12:30 | GBP | BoE Quarterly Bulletin |  |  |  |
-| 12:30 | INR | M3 Money Supply | 10.4% |  | 10.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 227.50K |  | 231.00K |
-| 13:30 | USD | Philly Fed Business Conditions (Sep) | 15.8 |  | 15.4 |
-| 13:30 | USD | Philly Fed CAPEX Index (Sep) | 25.00 |  | 12.00 |
-| 13:30 | USD | Philly Fed New Orders (Sep) | -1.5 |  | 14.6 |
-| 13:30 | USD | Philly Fed Prices Paid (Sep) | 34.00 |  | 24.00 |
-| 14:00 | ZAR | Prime Rate (Sep) | 11.50% |  | 11.75% |
-| 15:30 | USD | Natural Gas Storage | 58B | 53B | 40B |
-| 16:30 | USD | 4-Week Bill Auction | 4.700% |  | 4.965% |
-| 16:30 | USD | 8-Week Bill Auction | 4.690% |  | 4.990% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.360T |
+| 00:01 | GBP | GfK Consumer Confidence (Sep) | -20 | -13 | -13 |
+| 24 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.4% |
+| 24 min | JPY | National CPI (YoY) (Aug) |  |  | 2.8% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | -222.6B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -902.3B |
+| 04:00 | NZD | Credit Card Spending (YoY) (Aug) |  |  | -3.8% |
+| 07:00 | GBP | Public Sector Net Borrowing (Aug) |  | 12.10B | 2.18B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Aug) |  |  | 19.232B |
+| 07:00 | EUR | German PPI (YoY) (Aug) |  | -1.0% | -0.8% |
+| 07:45 | EUR | French Business Survey (Sep) |  | 99 | 99 |
+| 09:00 | EUR | Spanish Trade Balance (Jul) |  |  | -0.71B |
+| 09:30 | HKD | CPI (MoM) (Aug) |  |  | 1.00% |
+| 09:30 | HKD | CPI (YoY) (Aug) |  | 2.60% | 2.50% |
+| 12:30 | INR | Bank Loan Growth |  |  | 13.6% |
+| 12:30 | INR | Deposit Growth |  |  | 10.8% |
+| 12:30 | INR | FX Reserves, USD |  |  | 689.24B |
+| 13:30 | CAD | IPPI (YoY) (Aug) |  |  | 2.9% |
+| 13:30 | CAD | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
+| 13:30 | CAD | RMPI (YoY) (Aug) |  |  | 4.1% |
+| 14:30 | BRL | Federal Tax Revenue (Aug) |  |  | 231.04B |
+| 15:00 | EUR | Consumer Confidence (Sep) |  | -13.0 | -13.5 |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 12.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -47.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -87.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 44.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -144.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -16.3K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -69.0K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 27.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -21.3K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -3.3K |
