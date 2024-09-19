@@ -12,12 +12,12 @@
 | 12:00 | GBP | BoE MPC vote hike (Sep) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Sep) | 8 | 7 | 4 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 25 min | GBP | BOE Inflation Letter |  |  |  |
-| 25 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |
-| 13:30 | USD | Current Account (Q2) |  | -259.0B | -237.6B |
-| 13:30 | USD | Philly Fed Employment (Sep) |  |  | -5.7 |
-| 14:00 | ZAR | Interest Rate Decision (Sep) |  | 8.00% | 8.25% |
+| 12:30 | GBP | BOE Inflation Letter |  |  |  |
+| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 21 min | USD | Continuing Jobless Claims |  | 1,850K | 1,850K |
+| 21 min | USD | Current Account (Q2) |  | -259.0B | -237.6B |
+| 21 min | USD | Philly Fed Employment (Sep) |  |  | -5.7 |
+| 51 min | ZAR | Interest Rate Decision (Sep) |  | 8.00% | 8.25% |
 | 15:00 | USD | Existing Home Sales (MoM) (Aug) |  |  | 1.3% |
 | 15:00 | USD | US Leading Index (MoM) (Aug) |  | -0.3% | -0.6% |
 | 15:40 | EUR | ECB's Schnabel Speaks |  |  |  |
