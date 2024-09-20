@@ -22,7 +22,7 @@
 | 13:30 | CAD | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
 | 13:30 | CAD | IPPI (YoY) (Aug) | 0.2% |  | 2.8% |
 | 13:30 | CAD | RMPI (YoY) (Aug) | -2.5% |  | 4.1% |
-| 51 min | EUR | Consumer Confidence (Sep) |  | -13.0 | -13.5 |
+| 15:00 | EUR | Consumer Confidence (Sep) | -12.9 | -13.0 | -13.4 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 12.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -47.8K |
