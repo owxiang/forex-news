@@ -4,24 +4,24 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Sep) | -20 | -13 | -13 |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.7% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.5% |  | 0.2% |
 | 00:30 | JPY | Low | National CPI (YoY) (Aug) | 3.0% |  | 2.8% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.5% |  | 0.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,100.1B |  | -216.5B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -3,005.8B |  | -902.3B |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Sep) | 3.85% | 3.85% | 3.85% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
-| 57 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Aug) |  |  | -3.8% |
+| 4 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 34 min | JPY | High | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
+| 34 min | NZD | Low | Credit Card Spending (YoY) (Aug) |  |  | -3.8% |
 | 05:00 | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.4% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.5% | 0.7% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | 1.1% | 1.4% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.5% | 0.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Aug) |  | 12.10B | 2.18B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | 19.232B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.3% | 0.5% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | 1.4% | 1.4% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Aug) |  | 0.0% | 0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Aug) |  | -1.0% | -0.8% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Aug) |  | 0.0% | 0.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Business Survey (Sep) |  | 99 | 99 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jul) |  |  | -0.71B |
