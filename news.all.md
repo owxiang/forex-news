@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Sep) | -20 | -13 | -13 |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.7% |
-| 00:30 | JPY | Low | National CPI (YoY) (Aug) | 3.0% |  | 2.8% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.5% |  | 0.2% |
+| 00:30 | JPY | Low | National CPI (YoY) (Aug) | 3.0% |  | 2.8% |
 | 00:50 | JPY | Low | CPI, n.s.a (MoM) (Aug) | 0.5% |  | 0.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,100.1B |  | -216.5B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -3,005.8B |  | -902.3B |
@@ -36,8 +36,8 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
 | 13:30 | CAD | Low | IPPI (YoY) (Aug) | 0.2% |  | 2.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) | 0.9% | 0.5% | -0.2% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -3.1% | -2.0% | 0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Aug) | -2.5% |  | 4.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -3.1% | -2.0% | 0.7% |
 | 15:00 | EUR | Low | Consumer Confidence (Sep) | -12.9 | -13.0 | -13.4 |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 488 |  | 488 |
