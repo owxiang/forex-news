@@ -18,16 +18,16 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) | 2.3% | 1.1% | 1.4% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Aug) | 13.73B | 12.10B | 3.10B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 4.875B |  | 16.905B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 2.5% | 1.4% | 1.5% |
-| 07:00 | EUR | Low | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | 0.2% | 0.0% | 0.2% |
+| 07:00 | EUR | Low | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Business Survey (Sep) | 99 | 99 | 99 |
-| 53 min | EUR | Low | Spanish Trade Balance (Jul) |  |  | -0.71B |
-| 09:30 | HKD | Low | CPI (MoM) (Aug) |  |  | 1.00% |
-| 09:30 | HKD | Low | CPI (YoY) (Aug) |  | 2.60% | 2.50% |
-| 10:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 09:00 | EUR | Low | Spanish Trade Balance (Jul) | -3.20B |  | -0.71B |
+| 22 min | HKD | Low | CPI (MoM) (Aug) |  |  | 1.00% |
+| 22 min | HKD | Low | CPI (YoY) (Aug) |  | 2.60% | 2.50% |
+| 52 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 689.24B |
