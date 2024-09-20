@@ -7,12 +7,12 @@
 | 02:00 | CNY | China Loan Prime Rate 5Y (Sep) | 3.85% | 3.85% | 3.85% |
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 54 min | GBP | Core Retail Sales (MoM) (Aug) |  | 0.5% | 0.7% |
-| 54 min | GBP | Core Retail Sales (YoY) (Aug) |  | 1.1% | 1.4% |
-| 54 min | GBP | Retail Sales (YoY) (Aug) |  | 1.4% | 1.4% |
-| 54 min | GBP | Retail Sales (MoM) (Aug) |  | 0.3% | 0.5% |
-| 54 min | EUR | German PPI (MoM) (Aug) |  | 0.0% | 0.2% |
-| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:00 | GBP | Core Retail Sales (YoY) (Aug) | 2.3% | 1.1% | 1.4% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Aug) | 1.1% | 0.5% | 1.0% |
+| 07:00 | GBP | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Aug) | 2.5% | 1.4% | 1.5% |
+| 07:00 | EUR | German PPI (MoM) (Aug) | 0.2% | 0.0% | 0.2% |
+| 22 min | JPY | BoJ Press Conference |  |  |  |
 | 10:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 13:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 13:30 | CAD | Core Retail Sales (MoM) (Jul) |  | 0.2% | 0.3% |

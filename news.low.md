@@ -8,20 +8,19 @@
 | 00:50 | JPY | Foreign Bonds Buying | 2,100.1B |  | -216.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -3,005.8B |  | -902.3B |
 | 04:00 | NZD | Credit Card Spending (YoY) (Aug) | -3.1% |  | -3.7% |
-| 54 min | GBP | Public Sector Net Borrowing (Aug) |  | 12.10B | 2.18B |
-| 54 min | GBP | Public Sector Net Cash Requirement (Aug) |  |  | 19.232B |
-| 54 min | EUR | German PPI (YoY) (Aug) |  | -1.0% | -0.8% |
-| 07:45 | EUR | French Business Survey (Sep) |  | 99 | 99 |
+| 07:00 | GBP | Public Sector Net Borrowing (Aug) | 13.73B | 12.10B | 3.10B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Aug) | 4.875B |  | 16.905B |
+| 07:00 | EUR | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
+| 37 min | EUR | French Business Survey (Sep) |  | 99 | 99 |
 | 09:00 | EUR | Spanish Trade Balance (Jul) |  |  | -0.71B |
 | 09:30 | HKD | CPI (MoM) (Aug) |  |  | 1.00% |
 | 09:30 | HKD | CPI (YoY) (Aug) |  | 2.60% | 2.50% |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 12:30 | INR | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 689.24B |
-| 13:30 | CAD | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
 | 13:30 | CAD | IPPI (YoY) (Aug) |  |  | 2.9% |
+| 13:30 | CAD | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
 | 13:30 | CAD | RMPI (YoY) (Aug) |  |  | 4.1% |
-| 14:30 | BRL | Federal Tax Revenue (Aug) |  |  | 231.04B |
 | 15:00 | EUR | Consumer Confidence (Sep) |  | -13.0 | -13.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 12.8K |
