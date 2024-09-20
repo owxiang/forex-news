@@ -15,14 +15,14 @@
 | 09:00 | EUR | Spanish Trade Balance (Jul) | -3.20B |  | -0.71B |
 | 09:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 1.00% |
 | 09:30 | HKD | CPI (YoY) (Aug) | 2.50% | 2.60% | 2.50% |
-| 10:49 | CNY | FDI (Aug) | -31.50% |  | -29.60% |
+| 10:50 | CNY | FDI (Aug) | -31.50% |  | -29.60% |
 | 12:30 | INR | Bank Loan Growth | 13.3% |  | 13.6% |
 | 12:30 | INR | Deposit Growth | 11.1% |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD | 689.46B |  | 689.24B |
-| 21 min | CAD | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
-| 21 min | CAD | IPPI (YoY) (Aug) |  |  | 2.9% |
-| 21 min | CAD | RMPI (YoY) (Aug) |  |  | 4.1% |
-| 15:00 | EUR | Consumer Confidence (Sep) |  | -13.0 | -13.5 |
+| 13:30 | CAD | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
+| 13:30 | CAD | IPPI (YoY) (Aug) | 0.2% |  | 2.8% |
+| 13:30 | CAD | RMPI (YoY) (Aug) | -2.5% |  | 4.1% |
+| 51 min | EUR | Consumer Confidence (Sep) |  | -13.0 | -13.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 12.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -47.8K |
