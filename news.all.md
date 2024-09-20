@@ -20,8 +20,8 @@
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 4.875B |  | 16.905B |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 2.5% | 1.4% | 1.5% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
-| 07:00 | EUR | Low | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | 0.2% | 0.0% | 0.2% |
+| 07:00 | EUR | Low | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Business Survey (Sep) | 99 | 99 | 99 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jul) | -3.20B |  | -0.71B |
@@ -29,17 +29,17 @@
 | 09:30 | HKD | Low | CPI (YoY) (Aug) | 2.50% | 2.60% | 2.50% |
 | 10:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 10:49 | CNY | Low | FDI (Aug) | -31.50% |  | -29.60% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 13.6% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.8% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 689.24B |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 13.6% |
+| 24 min | INR | Low | Deposit Growth |  |  | 10.8% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 689.24B |
 | 13:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.2% | 0.3% |
 | 13:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | 2.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | 0.5% | -0.3% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | -2.0% | 0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Aug) |  |  | 4.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | -2.0% | 0.7% |
 | 15:00 | EUR | Low | Consumer Confidence (Sep) |  | -13.0 | -13.5 |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |

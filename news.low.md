@@ -16,9 +16,9 @@
 | 09:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 1.00% |
 | 09:30 | HKD | CPI (YoY) (Aug) | 2.50% | 2.60% | 2.50% |
 | 10:49 | CNY | FDI (Aug) | -31.50% |  | -29.60% |
-| 12:30 | INR | Bank Loan Growth |  |  | 13.6% |
-| 12:30 | INR | Deposit Growth |  |  | 10.8% |
-| 12:30 | INR | FX Reserves, USD |  |  | 689.24B |
+| 24 min | INR | Bank Loan Growth |  |  | 13.6% |
+| 24 min | INR | Deposit Growth |  |  | 10.8% |
+| 24 min | INR | FX Reserves, USD |  |  | 689.24B |
 | 13:30 | CAD | IPPI (YoY) (Aug) |  |  | 2.9% |
 | 13:30 | CAD | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
 | 13:30 | CAD | RMPI (YoY) (Aug) |  |  | 4.1% |
