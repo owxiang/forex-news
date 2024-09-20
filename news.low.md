@@ -15,7 +15,6 @@
 | 09:00 | EUR | Spanish Trade Balance (Jul) | -3.20B |  | -0.71B |
 | 09:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 1.00% |
 | 09:30 | HKD | CPI (YoY) (Aug) | 2.50% | 2.60% | 2.50% |
-| 10:50 | CNY | FDI (Aug) | -31.50% |  | -29.60% |
 | 12:30 | INR | Bank Loan Growth | 13.3% |  | 13.6% |
 | 12:30 | INR | Deposit Growth | 11.1% |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD | 689.46B |  | 689.24B |
