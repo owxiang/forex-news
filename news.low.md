@@ -18,18 +18,18 @@
 | 12:30 | INR | Bank Loan Growth | 13.3% |  | 13.6% |
 | 12:30 | INR | Deposit Growth | 11.1% |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD | 689.46B |  | 689.24B |
-| 13:30 | CAD | IPPI (YoY) (Aug) | 0.2% |  | 2.8% |
 | 13:30 | CAD | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
+| 13:30 | CAD | IPPI (YoY) (Aug) | 0.2% |  | 2.8% |
 | 13:30 | CAD | RMPI (YoY) (Aug) | -2.5% |  | 4.1% |
 | 15:00 | EUR | Consumer Confidence (Sep) | -12.9 | -13.0 | -13.4 |
-| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
-| 25 min | USD | CFTC Copper speculative net positions |  |  | 12.8K |
-| 25 min | USD | CFTC Corn speculative net positions |  |  | -47.8K |
-| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -87.6K |
-| 25 min | USD | CFTC Silver speculative net positions |  |  | 44.7K |
-| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -144.2K |
-| 25 min | USD | CFTC Wheat speculative net positions |  |  | -16.3K |
-| 25 min | CAD | CFTC CAD speculative net positions |  |  | -69.0K |
-| 25 min | MXN | CFTC MXN speculative net positions |  |  | 27.0K |
-| 25 min | CHF | CFTC CHF speculative net positions |  |  | -21.3K |
-| 25 min | NZD | CFTC NZD speculative net positions |  |  | -3.3K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 3.2K |  | 2.4K |
+| 20:30 | USD | CFTC Copper speculative net positions | 19.7K |  | 12.8K |
+| 20:30 | USD | CFTC Corn speculative net positions | -66.3K |  | -47.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -89.6K |  | -87.6K |
+| 20:30 | USD | CFTC Silver speculative net positions | 58.3K |  | 44.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -134.6K |  | -144.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -14.2K |  | -16.3K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -73.2K |  | -69.0K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 7.7K |  | 27.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -17.1K |  | -21.3K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -1.9K |  | -3.3K |
