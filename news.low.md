@@ -16,12 +16,12 @@
 | 09:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 1.00% |
 | 09:30 | HKD | CPI (YoY) (Aug) | 2.50% | 2.60% | 2.50% |
 | 10:49 | CNY | FDI (Aug) | -31.50% |  | -29.60% |
-| 24 min | INR | Bank Loan Growth |  |  | 13.6% |
-| 24 min | INR | Deposit Growth |  |  | 10.8% |
-| 24 min | INR | FX Reserves, USD |  |  | 689.24B |
-| 13:30 | CAD | IPPI (YoY) (Aug) |  |  | 2.9% |
-| 13:30 | CAD | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
-| 13:30 | CAD | RMPI (YoY) (Aug) |  |  | 4.1% |
+| 12:30 | INR | Bank Loan Growth | 13.3% |  | 13.6% |
+| 12:30 | INR | Deposit Growth | 11.1% |  | 10.8% |
+| 12:30 | INR | FX Reserves, USD | 689.46B |  | 689.24B |
+| 21 min | CAD | IPPI (MoM) (Aug) |  | -0.3% | 0.0% |
+| 21 min | CAD | IPPI (YoY) (Aug) |  |  | 2.9% |
+| 21 min | CAD | RMPI (YoY) (Aug) |  |  | 4.1% |
 | 15:00 | EUR | Consumer Confidence (Sep) |  | -13.0 | -13.5 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 12.8K |
