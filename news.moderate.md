@@ -7,8 +7,8 @@
 | 02:00 | CNY | China Loan Prime Rate 5Y (Sep) | 3.85% | 3.85% | 3.85% |
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Aug) | 2.3% | 1.1% | 1.4% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Aug) | 1.1% | 0.5% | 1.0% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Aug) | 2.3% | 1.1% | 1.4% |
 | 07:00 | GBP | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
 | 07:00 | GBP | Retail Sales (YoY) (Aug) | 2.5% | 1.4% | 1.5% |
 | 07:00 | EUR | German PPI (MoM) (Aug) | 0.2% | 0.0% | 0.2% |
@@ -21,7 +21,7 @@
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 488 |  | 488 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 588 |  | 590 |
-| 55 min | USD | FOMC Member Harker Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 90.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 140.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 282.5K |
