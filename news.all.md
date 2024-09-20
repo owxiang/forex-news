@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Sep) | -20 | -13 | -13 |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Aug) | 2.8% | 2.8% | 2.7% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.5% |  | 0.2% |
 | 00:30 | JPY | Low | National CPI (YoY) (Aug) | 3.0% |  | 2.8% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Aug) | 0.5% |  | 0.2% |
 | 00:50 | JPY | Low | CPI, n.s.a (MoM) (Aug) | 0.5% |  | 0.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,100.1B |  | -216.5B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -3,005.8B |  | -902.3B |
@@ -14,12 +14,12 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Aug) | -3.1% |  | -3.7% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) | 1.1% | 0.5% | 1.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) | 2.3% | 1.1% | 1.4% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) | 1.1% | 0.5% | 1.0% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Aug) | 13.73B | 12.10B | 3.10B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 4.875B |  | 16.905B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 2.5% | 1.4% | 1.5% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
 | 07:00 | EUR | Low | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | 0.2% | 0.0% | 0.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
@@ -40,8 +40,8 @@
 | 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -3.1% | -2.0% | 0.7% |
 | 15:00 | EUR | Low | Consumer Confidence (Sep) | -12.9 | -13.0 | -13.4 |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
 | 19:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 90.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.4K |
