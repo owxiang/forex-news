@@ -6,7 +6,7 @@
 | 00:30 | JPY | National CPI (MoM) (Aug) | 0.5% |  | 0.2% |
 | 02:00 | CNY | China Loan Prime Rate 5Y (Sep) | 3.85% | 3.85% | 3.85% |
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
-| 4 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 07:00 | GBP | Core Retail Sales (YoY) (Aug) |  | 1.1% | 1.4% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Aug) |  | 0.5% | 0.7% |
 | 07:00 | GBP | Retail Sales (MoM) (Aug) |  | 0.3% | 0.5% |

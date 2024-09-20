@@ -10,10 +10,10 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -3,005.8B |  | -902.3B |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Sep) | 3.85% | 3.85% | 3.85% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.35% | 3.35% | 3.35% |
-| 4 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 34 min | JPY | High | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
-| 34 min | NZD | Low | Credit Card Spending (YoY) (Aug) |  |  | -3.8% |
-| 05:00 | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.4% |
+| 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 04:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Aug) | -3.1% |  | -3.7% |
+| 52 min | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | 1.1% | 1.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.5% | 0.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Aug) |  | 12.10B | 2.18B |

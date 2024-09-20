@@ -6,8 +6,8 @@
 | 00:30 | JPY | National CPI (YoY) (Aug) | 3.0% |  | 2.8% |
 | 00:50 | JPY | Foreign Bonds Buying | 2,100.1B |  | -216.5B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -3,005.8B |  | -902.3B |
-| 34 min | NZD | Credit Card Spending (YoY) (Aug) |  |  | -3.8% |
-| 05:00 | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.4% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Aug) | -3.1% |  | -3.7% |
+| 52 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.4% |
 | 07:00 | GBP | Public Sector Net Borrowing (Aug) |  | 12.10B | 2.18B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Aug) |  |  | 19.232B |
 | 07:00 | EUR | German PPI (YoY) (Aug) |  | -1.0% | -0.8% |
