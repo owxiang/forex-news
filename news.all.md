@@ -18,8 +18,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) | 1.1% | 0.5% | 1.0% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Aug) | 13.73B | 12.10B | 3.10B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 4.875B |  | 16.905B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 2.5% | 1.4% | 1.5% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 1.0% | 0.3% | 0.7% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | 2.5% | 1.4% | 1.5% |
 | 07:00 | EUR | Low | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Aug) | 0.2% | 0.0% | 0.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
@@ -33,16 +33,16 @@
 | 12:30 | INR | Low | FX Reserves, USD | 689.46B |  | 689.24B |
 | 13:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) | 0.4% | 0.2% | 0.3% |
-| 13:30 | CAD | Low | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
 | 13:30 | CAD | Low | IPPI (YoY) (Aug) | 0.2% |  | 2.8% |
+| 13:30 | CAD | Low | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Jul) | 0.9% | 0.5% | -0.2% |
 | 13:30 | CAD | Low | RMPI (YoY) (Aug) | -2.5% |  | 4.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Aug) | -3.1% | -2.0% | 0.7% |
 | 15:00 | EUR | Low | Consumer Confidence (Sep) | -12.9 | -13.0 | -13.4 |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
-| 19:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 488 |  | 488 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 588 |  | 590 |
+| 55 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 90.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 12.8K |
@@ -63,4 +63,3 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 55.8K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -3.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 81.4K |
-| 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) |  |  | 82.2 |

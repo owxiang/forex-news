@@ -18,8 +18,8 @@
 | 12:30 | INR | Bank Loan Growth | 13.3% |  | 13.6% |
 | 12:30 | INR | Deposit Growth | 11.1% |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD | 689.46B |  | 689.24B |
-| 13:30 | CAD | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
 | 13:30 | CAD | IPPI (YoY) (Aug) | 0.2% |  | 2.8% |
+| 13:30 | CAD | IPPI (MoM) (Aug) | -0.8% | -0.3% | -0.1% |
 | 13:30 | CAD | RMPI (YoY) (Aug) | -2.5% |  | 4.1% |
 | 15:00 | EUR | Consumer Confidence (Sep) | -12.9 | -13.0 | -13.4 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
