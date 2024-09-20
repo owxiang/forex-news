@@ -13,8 +13,8 @@
 | 07:00 | EUR | German PPI (YoY) (Aug) | -0.8% | -1.0% | -0.8% |
 | 07:45 | EUR | French Business Survey (Sep) | 99 | 99 | 99 |
 | 09:00 | EUR | Spanish Trade Balance (Jul) | -3.20B |  | -0.71B |
-| 22 min | HKD | CPI (MoM) (Aug) |  |  | 1.00% |
-| 22 min | HKD | CPI (YoY) (Aug) |  | 2.60% | 2.50% |
+| 09:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 1.00% |
+| 09:30 | HKD | CPI (YoY) (Aug) | 2.50% | 2.60% | 2.50% |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.6% |
 | 12:30 | INR | Deposit Growth |  |  | 10.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 689.24B |
