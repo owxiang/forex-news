@@ -1,3 +1,6 @@
-## 22 September 2024 - High Impact Forex News
+## 23 September 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 14:45 | USD | S&P Global US Manufacturing PMI (Sep) |  | 48.6 | 47.9 |
+| 14:45 | USD | S&P Global Services PMI (Sep) |  | 55.3 | 55.7 |
