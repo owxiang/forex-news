@@ -28,8 +28,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) | 0.12 | -0.20 | -0.42 |
@@ -37,10 +37,10 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.789% |  | 2.823% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.367% |  | 3.397% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.116% |  | 3.227% |
-| 35 min | USD | High | S&P Global US Manufacturing PMI (Sep) |  | 48.6 | 47.9 |
-| 35 min | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.3 | 54.6 |
-| 35 min | USD | High | S&P Global Services PMI (Sep) |  | 55.3 | 55.7 |
-| 15:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Sep) | 47.0 | 48.6 | 47.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) | 54.4 | 54.3 | 54.6 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) | 55.4 | 55.3 | 55.7 |
+| 9 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.750% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.410% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
