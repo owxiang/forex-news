@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Sep) |  |  | 48.5 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Sep) |  |  | 52.5 |
-| 50 min | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.30% |  | 7.40% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) |  |  | 57.5 |
-| 06:00 | INR | Low | HSBC India Services PMI (Sep) |  |  | 60.9 |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.30% |  | 7.40% |
+| 53 min | INR | Low | HSBC India Manufacturing PMI (Sep) |  |  | 57.5 |
+| 53 min | INR | Low | HSBC India Services PMI (Sep) |  |  | 60.9 |
 | 08:00 | CHF | Low | M3 Money Supply (Aug) |  |  | 1,139.7B |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.3 | 43.9 |
@@ -25,8 +25,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.34 |
