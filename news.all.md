@@ -13,7 +13,7 @@
 | 08:00 | CHF | Low | M3 Money Supply (Aug) | 1,144.7B |  | 1,140.4B |
 | 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) | 44.0 | 44.3 | 43.9 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) | 47.4 |  | 53.1 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) | 47.4 | 50.6 | 53.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) | 48.3 | 53.0 | 55.0 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Sep) | 47.2 | 48.2 | 48.4 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) | 40.3 | 42.4 | 42.4 |
@@ -26,24 +26,24 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) | 52.8 | 53.5 | 53.7 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) | -35 | -23 | -22 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 54 min | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
-| 54 min | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
-| 54 min | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
-| 54 min | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.34 |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) |  | 0.1% | 0.2% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.823% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.397% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.227% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
+| 21 min | USD | Low | Chicago Fed National Activity (Aug) |  | -0.20 | -0.34 |
+| 21 min | CAD | Moderate | New Housing Price Index (MoM) |  | 0.1% | 0.2% |
+| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.823% |
+| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.397% |
+| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.227% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Sep) |  | 48.6 | 47.9 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  |  | 54.6 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.3 | 54.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 55.3 | 55.7 |
 | 15:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.750% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.410% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 2.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.3% |
+| 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 2.6% |
