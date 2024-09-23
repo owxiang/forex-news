@@ -8,9 +8,10 @@
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) | 56.7 |  | 57.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (Sep) | 58.9 |  | 60.9 |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) | 2.70% | 2.50% | 2.50% |
+| 06:00 | SGD | Low | CPI (MoM) (Aug) | 0.70% |  | -0.30% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.4% |
-| 08:00 | CHF | Low | M3 Money Supply (Aug) |  |  | 1,139.7B |
-| 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 52 min | CHF | Low | M3 Money Supply (Aug) |  |  | 1,139.7B |
+| 52 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.3 | 43.9 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  |  | 53.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 53.0 | 55.0 |
@@ -27,8 +28,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.34 |

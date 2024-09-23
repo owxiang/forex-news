@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | Core CPI (YoY) (Aug) | 2.70% | 2.50% | 2.50% |
 | 06:00 | SGD | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.4% |
-| 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 52 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Sep) |  | 44.3 | 43.9 |
 | 08:15 | EUR | HCOB France Services PMI (Sep) |  | 53.0 | 55.0 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Sep) |  | 42.4 | 42.4 |
