@@ -45,5 +45,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.270% |  | 4.410% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 54 min | KRW | Low | PPI (YoY) (Aug) |  |  | 2.6% |
-| 54 min | KRW | Low | PPI (MoM) (Aug) |  |  | 0.3% |
+| 22:00 | KRW | Low | PPI (YoY) (Aug) | 1.6% |  | 2.6% |
+| 22:00 | KRW | Low | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
