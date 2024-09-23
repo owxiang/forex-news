@@ -27,8 +27,8 @@
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.34 |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) |  | 0.1% | 0.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.823% |
@@ -42,5 +42,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.410% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 2.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.3% |
+| 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 2.6% |
