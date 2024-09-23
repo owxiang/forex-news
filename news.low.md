@@ -11,13 +11,13 @@
 | 08:00 | CHF | M3 Money Supply (Aug) | 1,144.7B |  | 1,140.4B |
 | 08:15 | EUR | HCOB France Composite PMI (Sep) | 47.4 |  | 53.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Sep) | 47.2 | 48.2 | 48.4 |
-| 11:00 | GBP | CBI Industrial Trends Orders (Sep) |  | -23 | -22 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 53 min | GBP | CBI Industrial Trends Orders (Sep) |  | -23 | -22 |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Economic Activity (YoY) (Jul) |  |  | -0.60% |
-| 13:00 | MXN | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:00 | MXN | Retail Sales (MoM) (Jul) |  |  | -0.5% |
+| 13:00 | MXN | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:30 | USD | Chicago Fed National Activity (Aug) |  |  | -0.34 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.823% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.397% |

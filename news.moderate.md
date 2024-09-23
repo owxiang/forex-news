@@ -12,9 +12,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) | 44.8 | 45.7 | 45.8 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 48.9 | 50.6 | 51.0 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 50.5 | 52.3 | 52.9 |
-| 22 min | GBP | S&P Global/CIPS UK Composite PMI (Sep) |  |  | 53.8 |
-| 22 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 52.3 | 52.5 |
-| 22 min | GBP | S&P Global/CIPS UK Services PMI (Sep) |  | 53.5 | 53.7 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) | 52.9 |  | 53.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 52.3 | 52.5 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) | 52.8 | 53.5 | 53.7 |
 | 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) |  | 0.1% | 0.2% |
 | 14:45 | USD | S&P Global Composite PMI (Sep) |  |  | 54.6 |

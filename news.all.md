@@ -21,17 +21,17 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 44.8 | 45.7 | 45.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 48.9 | 50.6 | 51.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 50.5 | 52.3 | 52.9 |
-| 22 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) |  |  | 53.8 |
-| 22 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 52.3 | 52.5 |
-| 22 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 53.5 | 53.7 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -23 | -22 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) | 52.9 |  | 53.8 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 52.3 | 52.5 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) | 52.8 | 53.5 | 53.7 |
+| 53 min | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -23 | -22 |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.34 |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) |  | 0.1% | 0.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.823% |
