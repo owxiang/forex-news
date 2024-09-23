@@ -24,8 +24,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) | 52.9 |  | 53.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 52.3 | 52.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) | 52.8 | 53.5 | 53.7 |
-| 53 min | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -23 | -22 |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) | -35 | -23 | -22 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
