@@ -25,5 +25,5 @@
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 4.540% |  | 4.750% |
 | 16:30 | USD | 6-Month Bill Auction | 4.270% |  | 4.410% |
-| 22:00 | KRW | PPI (YoY) (Aug) |  |  | 2.6% |
 | 22:00 | KRW | PPI (MoM) (Aug) |  |  | 0.3% |
+| 22:00 | KRW | PPI (YoY) (Aug) |  |  | 2.6% |
