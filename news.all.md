@@ -26,12 +26,12 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) | 52.8 | 53.5 | 53.7 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Sep) | -35 | -23 | -22 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 54 min | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
+| 54 min | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
+| 54 min | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
+| 54 min | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.34 |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) |  | 0.1% | 0.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.823% |
