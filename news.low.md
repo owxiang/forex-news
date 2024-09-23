@@ -14,14 +14,14 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) | -35 | -23 | -22 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
 | 13:00 | MXN | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
+| 13:00 | MXN | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
 | 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
-| 21 min | USD | Chicago Fed National Activity (Aug) |  | -0.20 | -0.34 |
-| 51 min | EUR | French 12-Month BTF Auction |  |  | 2.823% |
-| 51 min | EUR | French 3-Month BTF Auction |  |  | 3.397% |
-| 51 min | EUR | French 6-Month BTF Auction |  |  | 3.227% |
+| 13:30 | USD | Chicago Fed National Activity (Aug) | 0.12 | -0.20 | -0.42 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.789% |  | 2.823% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.367% |  | 3.397% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.116% |  | 3.227% |
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.750% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.410% |

@@ -16,7 +16,7 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 52.3 | 52.5 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) | 52.8 | 53.5 | 53.7 |
 | 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 21 min | CAD | New Housing Price Index (MoM) |  | 0.1% | 0.2% |
-| 14:45 | USD | S&P Global Composite PMI (Sep) |  | 54.3 | 54.6 |
+| 13:30 | CAD | New Housing Price Index (MoM) (Aug) | 0.0% | 0.1% | 0.2% |
+| 35 min | USD | S&P Global Composite PMI (Sep) |  | 54.3 | 54.6 |
 | 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | German Buba Mauderer Speaks |  |  |  |
