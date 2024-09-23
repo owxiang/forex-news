@@ -10,17 +10,17 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Aug) | 2.70% | 2.50% | 2.50% |
 | 06:00 | SGD | Low | CPI (MoM) (Aug) | 0.70% |  | -0.30% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.4% |
-| 52 min | CHF | Low | M3 Money Supply (Aug) |  |  | 1,139.7B |
-| 52 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.3 | 43.9 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Sep) |  |  | 53.1 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 53.0 | 55.0 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 48.2 | 48.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 42.4 | 42.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 51.1 | 51.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 45.7 | 45.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 50.6 | 51.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 52.3 | 52.9 |
+| 08:00 | CHF | Low | M3 Money Supply (Aug) | 1,144.7B |  | 1,140.4B |
+| 08:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 9 min | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.3 | 43.9 |
+| 9 min | EUR | Low | HCOB France Composite PMI (Sep) |  |  | 53.1 |
+| 9 min | EUR | Moderate | HCOB France Services PMI (Sep) |  | 53.0 | 55.0 |
+| 24 min | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 48.2 | 48.4 |
+| 24 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 42.4 | 42.4 |
+| 24 min | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 51.1 | 51.2 |
+| 54 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 45.7 | 45.8 |
+| 54 min | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 50.6 | 51.0 |
+| 54 min | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 52.3 | 52.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) |  |  | 53.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 52.3 | 52.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 53.5 | 53.7 |
@@ -28,8 +28,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) |  |  | 0.00% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) |  |  | -0.60% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) |  |  | -0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) |  |  | -3.9% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | -0.34 |
@@ -45,5 +45,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.410% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.3% |
 | 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 2.6% |
+| 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.3% |
