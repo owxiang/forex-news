@@ -43,7 +43,7 @@
 | 15:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.540% |  | 4.750% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.270% |  | 4.410% |
-| 54 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.3% |
 | 22:00 | KRW | Low | PPI (YoY) (Aug) |  |  | 2.6% |
