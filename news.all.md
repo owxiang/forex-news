@@ -40,9 +40,9 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Sep) | 47.0 | 48.6 | 47.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) | 54.4 | 54.3 | 54.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Sep) | 55.4 | 55.3 | 55.7 |
-| 9 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.750% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.410% |
+| 15:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.750% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.410% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (Aug) |  |  | 0.3% |
