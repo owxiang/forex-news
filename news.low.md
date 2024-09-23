@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Sep) |  |  | 48.5 |
 | 00:00 | AUD | Judo Bank Australia Services PMI (Sep) |  |  | 52.5 |
-| 05:00 | IDR | M2 Money Supply (YoY) (Aug) |  |  | 7.40% |
+| 50 min | IDR | M2 Money Supply (YoY) (Aug) | 7.30% |  | 7.40% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Sep) |  |  | 57.5 |
 | 06:00 | INR | HSBC India Services PMI (Sep) |  |  | 60.9 |
 | 08:00 | CHF | M3 Money Supply (Aug) |  |  | 1,139.7B |
