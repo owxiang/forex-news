@@ -18,5 +18,5 @@
 | 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) (Aug) | 0.0% | 0.1% | 0.2% |
 | 14:45 | USD | S&P Global Composite PMI (Sep) | 54.4 | 54.3 | 54.6 |
-| 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 54 min | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | German Buba Mauderer Speaks |  |  |  |
