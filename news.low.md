@@ -15,8 +15,8 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Economic Activity (MoM) (Jul) |  |  | 0.00% |
 | 13:00 | MXN | Economic Activity (YoY) (Jul) |  |  | -0.60% |
-| 13:00 | MXN | Retail Sales (MoM) (Jul) |  |  | -0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (Jul) |  |  | -3.9% |
+| 13:00 | MXN | Retail Sales (MoM) (Jul) |  |  | -0.5% |
 | 13:30 | USD | Chicago Fed National Activity (Aug) |  |  | -0.34 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.823% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.397% |
