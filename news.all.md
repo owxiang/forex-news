@@ -32,6 +32,6 @@
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:55 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.520% |  | 3.874% |
-| 19:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
+| 18:30 | USD | Low | M2 Money Supply (MoM) (Aug) | 21.18T |  | 21.05T |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.100M | 1.960M |
 | 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 100.8 |
