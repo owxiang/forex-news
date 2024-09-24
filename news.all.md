@@ -23,8 +23,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
 | 14:00 | USD | Low | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
 | 15:00 | USD | High | CB Consumer Confidence (Sep) | 98.7 | 103.9 | 105.6 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
@@ -33,5 +33,5 @@
 | 17:55 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.520% |  | 3.874% |
 | 18:30 | USD | Low | M2 Money Supply (MoM) (Aug) | 21.18T |  | 21.05T |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.100M | 1.960M |
-| 53 min | KRW | Low | Consumer Confidence (Sep) |  |  | 100.8 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.339M | -1.100M | 1.960M |
+| 22:00 | KRW | Low | Consumer Confidence (Sep) | 100.0 |  | 100.8 |

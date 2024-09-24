@@ -18,4 +18,4 @@
 | 15:00 | USD | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
 | 15:00 | USD | Richmond Services Index (Sep) | -1 |  | -11 |
 | 18:30 | USD | M2 Money Supply (MoM) (Aug) | 21.18T |  | 21.05T |
-| 53 min | KRW | Consumer Confidence (Sep) |  |  | 100.8 |
+| 22:00 | KRW | Consumer Confidence (Sep) | 100.0 |  | 100.8 |
