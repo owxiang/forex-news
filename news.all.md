@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.8 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  |  | 53.7 |
+| 5 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.8 |
+| 5 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  |  | 53.7 |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |

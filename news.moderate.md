@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Sep) |  |  | 53.7 |
+| 5 min | JPY | au Jibun Bank Japan Services PMI (Sep) |  |  | 53.7 |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 08:10 | EUR | ECB McCaul Speaks |  |  |  |
 | 09:00 | EUR | German Business Expectations (Sep) |  | 86.3 | 86.8 |
