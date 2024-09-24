@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
 | 06:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.410% |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | FGV Consumer confidence (Sep) |  |  | 93.2 |
+| 10:40 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.410% |
+| 54 min | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 54 min | BRL | FGV Consumer confidence (Sep) |  |  | 93.2 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.23% | 0.10% |
 | 13:00 | MXN | 1st Half-Month CPI (Sep) |  | 0.15% | -0.03% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.6% |
