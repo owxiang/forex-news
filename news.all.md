@@ -29,7 +29,7 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
 | 15:00 | USD | Low | Richmond Services Index (Sep) | -1 |  | -11 |
-| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:55 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.874% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
