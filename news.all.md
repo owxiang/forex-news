@@ -19,8 +19,8 @@
 | 13:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.6% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 5.1% |
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 5.1% |
 | 14:00 | USD | Low | House Price Index (Jul) |  |  | 424.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.6% |
