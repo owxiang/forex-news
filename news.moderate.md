@@ -1,4 +1,4 @@
-## None - Moderate Impact Forex News
+## 24 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -14,5 +14,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:55 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction |  |  | 3.874% |
+| 18:00 | USD | 2-Year Note Auction | 3.520% |  | 3.874% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.100M | 1.960M |

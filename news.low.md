@@ -1,4 +1,4 @@
-## None - Low Impact Forex News
+## 24 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -17,5 +17,5 @@
 | 15:00 | USD | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
 | 15:00 | USD | Richmond Services Index (Sep) | -1 |  | -11 |
-| 18:00 | USD | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
+| 19:00 | USD | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
 | 22:00 | KRW | Consumer Confidence (Sep) |  |  | 100.8 |

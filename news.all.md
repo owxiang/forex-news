@@ -1,4 +1,4 @@
-## None - All Forex News
+## 24 September 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -31,7 +31,7 @@
 | 15:00 | USD | Low | Richmond Services Index (Sep) | -1 |  | -11 |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:55 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.874% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 3.520% |  | 3.874% |
+| 19:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.100M | 1.960M |
 | 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 100.8 |
