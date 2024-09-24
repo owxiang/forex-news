@@ -1,6 +1,6 @@
-## 24 September 2024 - High Impact Forex News
+## 25 September 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | AUD | RBA Interest Rate Decision (Sep) | 4.35% | 4.35% | 4.35% |
-| 15:00 | USD | CB Consumer Confidence (Sep) | 98.7 | 103.9 | 105.6 |
+| 15:00 | USD | New Home Sales (Aug) |  | 699K | 739K |
+| 15:30 | USD | Crude Oil Inventories |  | -1.200M | -1.630M |

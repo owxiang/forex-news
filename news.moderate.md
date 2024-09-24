@@ -1,18 +1,13 @@
-## 24 September 2024 - Moderate Impact Forex News
+## 25 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Sep) | 53.9 |  | 53.7 |
-| 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 08:10 | EUR | ECB McCaul Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Sep) | 86.3 | 86.3 | 86.8 |
-| 09:00 | EUR | German Current Assessment (Sep) | 84.4 | 86.1 | 86.4 |
-| 09:00 | EUR | German Ifo Business Climate Index (Sep) | 85.4 | 86.1 | 86.6 |
-| 13:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
-| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:55 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction | 3.520% |  | 3.874% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -4.339M | -1.100M | 1.960M |
+| 06:00 | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.8% |
+| 08:00 | CHF | KOF Leading Indicators (Sep) |  | 102.0 | 101.6 |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 11:00 | EUR | France Jobseekers Total (Aug) |  |  | 2,808.4K |
+| 13:30 | USD | Building Permits (Aug) |  | 1.475M | 1.406M |
+| 13:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 15:00 | USD | New Home Sales (MoM) (Aug) |  |  | 10.6% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.979M |
+| 18:00 | USD | 5-Year Note Auction |  |  | 3.645% |
