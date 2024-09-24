@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.8 |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
 | 06:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.410% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 5 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.8 |
-| 5 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  |  | 53.7 |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) | 53.9 |  | 53.7 |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -23,8 +23,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
 | 14:00 | USD | Low | House Price Index (Jul) |  |  | 424.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 5.9% | 6.5% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.6% |
 | 15:00 | USD | High | CB Consumer Confidence (Sep) |  | 103.5 | 103.3 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Sep) |  | -17 | -19 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
