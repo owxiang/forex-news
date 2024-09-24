@@ -7,10 +7,10 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (Sep) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Business Expectations (Sep) |  | 86.3 | 86.8 |
-| 09:00 | EUR | Moderate | German Current Assessment (Sep) |  | 86.1 | 86.5 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 86.1 | 86.6 |
+| 4 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 54 min | EUR | Moderate | German Business Expectations (Sep) |  | 86.3 | 86.8 |
+| 54 min | EUR | Moderate | German Current Assessment (Sep) |  | 86.1 | 86.5 |
+| 54 min | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 86.1 | 86.6 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.410% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 93.2 |
@@ -19,8 +19,8 @@
 | 13:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.6% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
 | 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 5.1% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
 | 14:00 | USD | Low | House Price Index (Jul) |  |  | 424.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.6% |
