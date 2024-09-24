@@ -11,7 +11,7 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Sep) | 86.3 | 86.3 | 86.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Sep) | 84.4 | 86.1 | 86.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 85.4 | 86.1 | 86.6 |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.410% |
+| 24 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.410% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 93.2 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.23% | 0.10% |
