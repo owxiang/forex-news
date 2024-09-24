@@ -7,10 +7,10 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (Sep) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 4 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 54 min | EUR | Moderate | German Business Expectations (Sep) |  | 86.3 | 86.8 |
-| 54 min | EUR | Moderate | German Current Assessment (Sep) |  | 86.1 | 86.5 |
-| 54 min | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 86.1 | 86.6 |
+| 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 09:00 | EUR | Moderate | German Business Expectations (Sep) | 86.3 | 86.3 | 86.8 |
+| 09:00 | EUR | Moderate | German Current Assessment (Sep) | 84.4 | 86.1 | 86.4 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 85.4 | 86.1 | 86.6 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.410% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 93.2 |
@@ -33,5 +33,5 @@
 | 17:55 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.874% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.960M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.100M | 1.960M |
 | 22:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 100.8 |
