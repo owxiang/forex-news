@@ -12,11 +12,11 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Sep) | 84.4 | 86.1 | 86.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 85.4 | 86.1 | 86.6 |
 | 10:40 | EUR | Low | German 2-Year Schatz Auction | 2.140% |  | 2.410% |
-| 54 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 54 min | BRL | Low | FGV Consumer confidence (Sep) |  |  | 93.2 |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.23% | 0.10% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.15% | -0.03% |
-| 13:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | BRL | Low | FGV Consumer confidence (Sep) | 93.7 |  | 93.2 |
+| 55 min | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.23% | 0.10% |
+| 55 min | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.15% | -0.03% |
+| 55 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.6% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 5.1% |
