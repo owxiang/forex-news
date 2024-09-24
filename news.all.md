@@ -23,8 +23,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
 | 14:00 | USD | Low | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
 | 15:00 | USD | High | CB Consumer Confidence (Sep) | 98.7 | 103.9 | 105.6 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
