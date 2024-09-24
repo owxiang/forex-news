@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) | 53.9 |  | 53.7 |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.35% | 4.35% |
-| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 06:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 23 min | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.35% | 4.35% |
+| 23 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 58 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Business Expectations (Sep) |  | 86.3 | 86.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Sep) |  | 86.1 | 86.5 |
@@ -19,8 +19,8 @@
 | 13:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.6% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 5.1% |
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 5.1% |
 | 14:00 | USD | Low | House Price Index (Jul) |  |  | 424.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.6% |
