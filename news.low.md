@@ -9,13 +9,13 @@
 | 12:00 | BRL | FGV Consumer confidence (Sep) | 93.7 |  | 93.2 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Sep) | 0.21% | 0.23% | 0.10% |
 | 13:00 | MXN | 1st Half-Month CPI (Sep) | 0.09% | 0.15% | -0.03% |
-| 46 min | USD | Redbook (YoY) |  |  | 4.6% |
-| 51 min | USD | House Price Index (YoY) (Jul) |  |  | 5.1% |
-| 51 min | USD | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
-| 51 min | USD | House Price Index (Jul) |  |  | 424.5 |
-| 51 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
-| 15:00 | USD | Richmond Manufacturing Index (Sep) |  | -13 | -19 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
-| 15:00 | USD | Richmond Services Index (Sep) |  |  | -11 |
+| 13:55 | USD | Redbook (YoY) | 4.4% |  | 4.6% |
+| 14:00 | USD | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
+| 14:00 | USD | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 14:00 | USD | House Price Index (Jul) | 425.2 |  | 424.7 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
+| 50 min | USD | Richmond Manufacturing Index (Sep) |  | -13 | -19 |
+| 50 min | USD | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
+| 50 min | USD | Richmond Services Index (Sep) |  |  | -11 |
 | 18:00 | USD | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
 | 22:00 | KRW | Consumer Confidence (Sep) |  |  | 100.8 |

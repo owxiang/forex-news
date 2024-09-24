@@ -17,18 +17,18 @@
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Sep) | 0.21% | 0.23% | 0.10% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.09% | 0.15% | -0.03% |
 | 13:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 46 min | USD | Low | Redbook (YoY) |  |  | 4.6% |
-| 51 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 51 min | USD | Low | House Price Index (YoY) (Jul) |  |  | 5.1% |
-| 51 min | USD | Low | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
-| 51 min | USD | Low | House Price Index (Jul) |  |  | 424.5 |
-| 51 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
-| 51 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.6% |
-| 51 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 5.9% | 6.5% |
-| 15:00 | USD | High | CB Consumer Confidence (Sep) |  | 103.9 | 103.3 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) |  | -13 | -19 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
-| 15:00 | USD | Low | Richmond Services Index (Sep) |  |  | -11 |
+| 13:55 | USD | Low | Redbook (YoY) | 4.4% |  | 4.6% |
+| 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
+| 14:00 | USD | Low | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 14:00 | USD | Low | House Price Index (Jul) | 425.2 |  | 424.7 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
+| 50 min | USD | High | CB Consumer Confidence (Sep) |  | 103.9 | 103.3 |
+| 50 min | USD | Low | Richmond Manufacturing Index (Sep) |  | -13 | -19 |
+| 50 min | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
+| 50 min | USD | Low | Richmond Services Index (Sep) |  |  | -11 |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:55 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.874% |
