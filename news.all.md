@@ -25,10 +25,10 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
-| 50 min | USD | High | CB Consumer Confidence (Sep) |  | 103.9 | 103.3 |
-| 50 min | USD | Low | Richmond Manufacturing Index (Sep) |  | -13 | -19 |
-| 50 min | USD | Low | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
-| 50 min | USD | Low | Richmond Services Index (Sep) |  |  | -11 |
+| 15:00 | USD | High | CB Consumer Confidence (Sep) | 98.7 | 103.9 | 105.6 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
+| 15:00 | USD | Low | Richmond Services Index (Sep) | -1 |  | -11 |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:55 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.874% |

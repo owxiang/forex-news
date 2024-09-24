@@ -14,8 +14,8 @@
 | 14:00 | USD | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
 | 14:00 | USD | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
-| 50 min | USD | Richmond Manufacturing Index (Sep) |  | -13 | -19 |
-| 50 min | USD | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
-| 50 min | USD | Richmond Services Index (Sep) |  |  | -11 |
+| 15:00 | USD | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
+| 15:00 | USD | Richmond Services Index (Sep) | -1 |  | -11 |
 | 18:00 | USD | M2 Money Supply (MoM) (Aug) |  |  | 21.05T |
 | 22:00 | KRW | Consumer Confidence (Sep) |  |  | 100.8 |
