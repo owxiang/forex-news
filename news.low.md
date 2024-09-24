@@ -7,13 +7,13 @@
 | 10:40 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.410% |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | FGV Consumer confidence (Sep) | 93.7 |  | 93.2 |
-| 55 min | MXN | 1st Half-Month Core CPI (Sep) |  | 0.23% | 0.10% |
-| 55 min | MXN | 1st Half-Month CPI (Sep) |  | 0.15% | -0.03% |
-| 13:55 | USD | Redbook (YoY) |  |  | 4.6% |
-| 14:00 | USD | House Price Index (YoY) (Jul) |  |  | 5.1% |
-| 14:00 | USD | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
-| 14:00 | USD | House Price Index (Jul) |  |  | 424.5 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Sep) | 0.21% | 0.23% | 0.10% |
+| 13:00 | MXN | 1st Half-Month CPI (Sep) | 0.09% | 0.15% | -0.03% |
+| 46 min | USD | Redbook (YoY) |  |  | 4.6% |
+| 51 min | USD | House Price Index (YoY) (Jul) |  |  | 5.1% |
+| 51 min | USD | House Price Index (MoM) (Jul) |  | 0.2% | -0.1% |
+| 51 min | USD | House Price Index (Jul) |  |  | 424.5 |
+| 51 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.4% |
 | 15:00 | USD | Richmond Manufacturing Index (Sep) |  | -13 | -19 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Sep) |  |  | -15 |
 | 15:00 | USD | Richmond Services Index (Sep) |  |  | -11 |
