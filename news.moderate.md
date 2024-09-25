@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.8% |
+| 06:00 | JPY | BoJ Core CPI (YoY) | 1.8% | 1.8% | 1.8% |
 | 08:00 | CHF | KOF Leading Indicators (Sep) |  | 102.0 | 101.6 |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Aug) |  |  | 2,808.4K |
