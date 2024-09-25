@@ -20,13 +20,13 @@
 | 12:00 | USD | Low | MBA Purchase Index | 148.2 |  | 146.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 296.1 |  | 266.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,132.9 |  | 941.4 |
-| 24 min | BRL | Low | Current Account (USD) (Aug) |  | -5.10B | -5.20B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Aug) |  | 7.00B | 7.30B |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.29% | 0.19% |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 4.29% | 4.35% |
-| 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | 4.9% | -3.3% |
-| 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.475M | 1.406M |
-| 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
+| 12:30 | USD | Moderate | Building Permits (Aug) | 1.470M | 1.475M | 1.406M |
+| 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
+| 12:30 | BRL | Low | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
+| 21 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 15:00 | USD | High | New Home Sales (Aug) |  | 699K | 739K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | 10.6% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | -1.630M |
