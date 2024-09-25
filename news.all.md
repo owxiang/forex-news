@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.6% | 2.7% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) |  | 2.70% | 3.50% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) | 2.70% | 2.70% | 3.50% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.8% | 1.8% |
 | 07:00 | NOK | Low | M3 Money Supply (Aug) |  |  | 3,233.1B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 3.7% |
@@ -28,8 +28,8 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | 4.9% | -3.3% |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.475M | 1.406M |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | USD | High | New Home Sales (Aug) |  | 699K | 739K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | 10.6% |
+| 15:00 | USD | High | New Home Sales (Aug) |  | 699K | 739K |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | -1.630M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.829M |
