@@ -15,15 +15,15 @@
 | 09:00 | CHF | Low | ZEW Expectations (Sep) | -8.8 |  | -3.4 |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction | 3.814% |  | 4.074% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Aug) | 2,951.5K |  | 2,808.4K |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.15% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 14.2% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 146.1 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 266.8 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 941.4 |
-| 12:30 | BRL | Low | Current Account (USD) (Aug) |  | -5.10B | -5.20B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  | 7.00B | 7.30B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.29% | 0.19% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 4.29% | 4.35% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.13% |  | 6.15% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 11.0% |  | 14.2% |
+| 12:00 | USD | Low | MBA Purchase Index | 148.2 |  | 146.1 |
+| 12:00 | USD | Low | Mortgage Market Index | 296.1 |  | 266.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 1,132.9 |  | 941.4 |
+| 24 min | BRL | Low | Current Account (USD) (Aug) |  | -5.10B | -5.20B |
+| 24 min | BRL | Low | Foreign direct investment (USD) (Aug) |  | 7.00B | 7.30B |
+| 54 min | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.29% | 0.19% |
+| 54 min | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 4.29% | 4.35% |
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | 4.9% | -3.3% |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.475M | 1.406M |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
