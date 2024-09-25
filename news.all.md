@@ -24,11 +24,11 @@
 | 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | BRL | Low | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
 | 15:00 | USD | High | New Home Sales (Aug) | 716K | 699K | 751K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
 | 15:30 | USD | High | Crude Oil Inventories | -4.471M | -1.300M | -1.630M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.826M |  | -1.829M |
