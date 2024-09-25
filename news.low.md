@@ -11,12 +11,12 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Aug) | -1.3% |  | -1.6% |
 | 08:00 | ZAR | Leading Indicators (Jul) | 113.60% |  | 112.80% |
 | 09:00 | CHF | ZEW Expectations (Sep) | -8.8 |  | -3.4 |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.074% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.15% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 14.2% |
-| 12:00 | USD | MBA Purchase Index |  |  | 146.1 |
-| 12:00 | USD | Mortgage Market Index |  |  | 266.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 941.4 |
+| 10:00 | GBP | 7-Year Treasury Gilt Auction | 3.814% |  | 4.074% |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.15% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 14.2% |
+| 53 min | USD | MBA Purchase Index |  |  | 146.1 |
+| 53 min | USD | Mortgage Market Index |  |  | 266.8 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 941.4 |
 | 12:30 | BRL | Current Account (USD) (Aug) |  | -5.10B | -5.20B |
 | 12:30 | BRL | Foreign direct investment (USD) (Aug) |  | 7.00B | 7.30B |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) |  | 0.29% | 0.19% |
