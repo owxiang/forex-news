@@ -20,8 +20,8 @@
 | 12:30 | USD | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | BRL | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
 | 12:30 | BRL | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
 | 15:30 | USD | Crude Oil Imports | 0.826M |  | -1.829M |
 | 15:30 | USD | Distillate Fuel Production | -0.158M |  | -0.153M |
