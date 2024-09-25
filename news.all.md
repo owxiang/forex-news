@@ -13,8 +13,8 @@
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:00 | ZAR | Low | Leading Indicators (Jul) | 113.60% |  | 112.80% |
 | 09:00 | CHF | Low | ZEW Expectations (Sep) | -8.8 |  | -3.4 |
-| 52 min | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.074% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Aug) |  |  | 2,808.4K |
+| 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.074% |
+| 54 min | EUR | Moderate | France Jobseekers Total (Aug) |  |  | 2,808.4K |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.15% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 14.2% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 146.1 |

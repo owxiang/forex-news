@@ -11,7 +11,7 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Aug) | -1.3% |  | -1.6% |
 | 08:00 | ZAR | Leading Indicators (Jul) | 113.60% |  | 112.80% |
 | 09:00 | CHF | ZEW Expectations (Sep) | -8.8 |  | -3.4 |
-| 52 min | GBP | 7-Year Treasury Gilt Auction |  |  | 4.074% |
+| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.074% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.15% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 14.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 146.1 |
