@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.8% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.6% | 2.7% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Aug) |  | 2.70% | 3.50% |
 | 07:00 | NOK | M3 Money Supply (Aug) |  |  | 3,233.1B |

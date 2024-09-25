@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 45 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.8% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.6% | 2.7% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) |  | 2.70% | 3.50% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.8% | 1.8% |
