@@ -9,4 +9,4 @@
 | 13:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 15:00 | USD | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.116M |  | -1.979M |
-| 53 min | USD | 5-Year Note Auction |  |  | 3.645% |
+| 18:00 | USD | 5-Year Note Auction | 3.519% |  | 3.645% |
