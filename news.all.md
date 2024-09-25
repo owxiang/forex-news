@@ -28,8 +28,8 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Aug) |  | 4.9% | -3.3% |
 | 13:30 | USD | Moderate | Building Permits (Aug) |  | 1.475M | 1.406M |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | 10.6% |
 | 15:00 | USD | High | New Home Sales (Aug) |  | 699K | 739K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | 10.6% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | -1.630M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.829M |
