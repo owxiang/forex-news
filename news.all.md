@@ -40,4 +40,4 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.7% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.538M | 0.200M | 0.069M |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.519% |  | 3.645% |
-| 25 min | BRL | Low | Foreign Exchange Flows |  |  | -0.331B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -3.058B |  | -0.331B |
