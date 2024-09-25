@@ -22,12 +22,12 @@
 | 12:30 | BRL | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
-| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.282M |
-| 24 min | USD | Crude Oil Imports |  |  | -1.829M |
-| 24 min | USD | Distillate Fuel Production |  |  | -0.153M |
-| 24 min | USD | EIA Weekly Distillates Stocks |  | -2.200M | 0.125M |
-| 24 min | USD | Gasoline Production |  |  | 0.284M |
-| 24 min | USD | Heating Oil Stockpiles |  |  | -0.352M |
-| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
-| 24 min | USD | Gasoline Inventories |  | 0.200M | 0.069M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
+| 15:30 | USD | Crude Oil Imports | 0.826M |  | -1.829M |
+| 15:30 | USD | Distillate Fuel Production | -0.158M |  | -0.153M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -2.227M | -2.200M | 0.125M |
+| 15:30 | USD | Gasoline Production | 0.176M |  | 0.284M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.191M |  | -0.352M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.7% |
+| 15:30 | USD | Gasoline Inventories | -1.538M | 0.200M | 0.069M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.331B |
