@@ -1,43 +1,77 @@
-## 25 September 2024 - All Forex News
+## 26 September 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.6% | 2.7% |
-| 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Aug) | 2.70% | 2.70% | 3.50% |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.8% | 1.8% | 1.8% |
-| 07:00 | NOK | Low | M3 Money Supply (Aug) | 3,217.3B |  | 3,233.1B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Aug) | 3.8% |  | 3.7% |
-| 07:45 | EUR | Low | French Consumer Confidence (Sep) | 95 | 92 | 93 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Aug) | -1.3% |  | -1.6% |
-| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:00 | ZAR | Low | Leading Indicators (Jul) | 113.60% |  | 112.80% |
-| 09:00 | CHF | Low | ZEW Expectations (Sep) | -8.8 |  | -3.4 |
-| 10:00 | GBP | Low | 7-Year Treasury Gilt Auction | 3.814% |  | 4.074% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Aug) | 2,951.5K |  | 2,808.4K |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.13% |  | 6.15% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 11.0% |  | 14.2% |
-| 12:00 | USD | Low | MBA Purchase Index | 148.2 |  | 146.1 |
-| 12:00 | USD | Low | Mortgage Market Index | 296.1 |  | 266.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 1,132.9 |  | 941.4 |
-| 12:30 | USD | Moderate | Building Permits (Aug) | 1.470M | 1.475M | 1.406M |
-| 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
-| 12:30 | BRL | Low | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
-| 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | USD | High | New Home Sales (Aug) | 716K | 699K | 751K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
-| 15:30 | USD | High | Crude Oil Inventories | -4.471M | -1.300M | -1.630M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
-| 15:30 | USD | Low | Crude Oil Imports | 0.826M |  | -1.829M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.116M |  | -1.979M |
-| 15:30 | USD | Low | Distillate Fuel Production | -0.158M |  | -0.153M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -2.227M | -2.200M | 0.125M |
-| 15:30 | USD | Low | Gasoline Production | 0.176M |  | 0.284M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | 0.191M |  | -0.352M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.7% |
-| 15:30 | USD | Low | Gasoline Inventories | -1.538M | 0.200M | 0.069M |
-| 18:00 | USD | Moderate | 5-Year Note Auction | 3.519% |  | 3.645% |
-| 18:30 | BRL | Low | Foreign Exchange Flows | -3.058B |  | -0.331B |
+| 45 min | JPY | Low | Foreign Bonds Buying |  |  | 2,100.1B |
+| 45 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -3,005.8B |
+| 45 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) |  | 9.6% | 1.8% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -22.4 | -22.0 |
+| 07:00 | NOK | Low | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
+| 08:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 1.00% | 1.25% |
+| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | EUR | Low | Italian Business Confidence (Sep) |  | 87.1 | 87.1 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Sep) |  |  | 96.1 |
+| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Aug) |  | 2.5% | 2.3% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 0.6% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Aug) |  | 0.6% | 0.5% |
+| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 09:30 | HKD | Low | Exports (MoM) (Aug) |  |  | 13.1% |
+| 09:30 | HKD | Low | Imports (MoM) (Aug) |  |  | 9.9% |
+| 09:30 | HKD | Low | Trade Balance (Aug) |  |  | -21.8B |
+| 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.247% |
+| 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | -0.2% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 4.2% |
+| 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,829K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  | 1.7% | -2.7% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Aug) |  | -2.8% | 9.9% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 10.3% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 3.0% | 1.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.5% | 3.1% |
+| 13:30 | USD | Low | GDP Sales (Q2) |  | 2.2% | 1.8% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | -0.1% |
+| 13:30 | USD | High | Initial Jobless Claims |  | 224K | 219K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.50K |
+| 13:30 | USD | Low | PCE Prices (Q2) |  | 2.5% | 3.4% |
+| 13:30 | USD | Low | Real Consumer Spending (Q2) |  | 2.9% | 1.5% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) |  |  | 3.99% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.4% |
+| 14:10 | USD | Low | Fed Collins Speaks |  |  |  |
+| 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:20 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 14:25 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) |  | 0.9% | -5.5% |
+| 15:00 | USD | Low | Pending Home Sales Index (Aug) |  |  | 70.2 |
+| 15:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 15:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage |  | 52B | 58B |
+| 16:00 | USD | Low | KC Fed Composite Index (Sep) |  |  | -3 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) |  |  | 6 |
+| 16:15 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.690% |
+| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.770% |
+| 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  |  | 188.02K |
+| 20:00 | MXN | Moderate | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,109B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 71 |
+| 23:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |

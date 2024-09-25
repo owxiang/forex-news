@@ -1,6 +1,9 @@
-## 25 September 2024 - High Impact Forex News
+## 26 September 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | New Home Sales (Aug) | 716K | 699K | 751K |
-| 15:30 | USD | Crude Oil Inventories | -4.471M | -1.300M | -1.630M |
+| 08:30 | CHF | SNB Interest Rate Decision (Q3) |  | 1.00% | 1.25% |
+| 13:30 | USD | Durable Goods Orders (MoM) (Aug) |  | -2.8% | 9.9% |
+| 13:30 | USD | GDP (QoQ) (Q2) |  | 3.0% | 1.4% |
+| 13:30 | USD | Initial Jobless Claims |  | 224K | 219K |
+| 14:20 | USD | Fed Chair Powell Speaks |  |  |  |

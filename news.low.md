@@ -1,33 +1,46 @@
-## 25 September 2024 - Low Impact Forex News
+## 26 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.7% | 2.6% | 2.7% |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Aug) | 2.70% | 2.70% | 3.50% |
-| 07:00 | NOK | M3 Money Supply (Aug) | 3,217.3B |  | 3,233.1B |
-| 07:00 | NOK | Credit Indicator (YoY) (Aug) | 3.8% |  | 3.7% |
-| 07:45 | EUR | French Consumer Confidence (Sep) | 95 | 92 | 93 |
-| 08:00 | EUR | Spanish PPI (YoY) (Aug) | -1.3% |  | -1.6% |
-| 08:00 | ZAR | Leading Indicators (Jul) | 113.60% |  | 112.80% |
-| 09:00 | CHF | ZEW Expectations (Sep) | -8.8 |  | -3.4 |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction | 3.814% |  | 4.074% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.13% |  | 6.15% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 11.0% |  | 14.2% |
-| 12:00 | USD | MBA Purchase Index | 148.2 |  | 146.1 |
-| 12:00 | USD | Mortgage Market Index | 296.1 |  | 266.8 |
-| 12:00 | USD | Mortgage Refinance Index | 1,132.9 |  | 941.4 |
-| 12:30 | USD | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
-| 12:30 | BRL | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
-| 12:30 | BRL | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
-| 15:30 | USD | Crude Oil Imports | 0.826M |  | -1.829M |
-| 15:30 | USD | Distillate Fuel Production | -0.158M |  | -0.153M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -2.227M | -2.200M | 0.125M |
-| 15:30 | USD | Gasoline Production | 0.176M |  | 0.284M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.191M |  | -0.352M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.7% |
-| 15:30 | USD | Gasoline Inventories | -1.538M | 0.200M | 0.069M |
-| 18:30 | BRL | Foreign Exchange Flows | -3.058B |  | -0.331B |
+| 45 min | JPY | Foreign Bonds Buying |  |  | 2,100.1B |
+| 45 min | JPY | Foreign Investments in Japanese Stocks |  |  | -3,005.8B |
+| 06:00 | SGD | Industrial Production (YoY) (Aug) |  | 9.6% | 1.8% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
+| 07:00 | NOK | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
+| 09:00 | EUR | Italian Business Confidence (Sep) |  | 87.1 | 87.1 |
+| 09:00 | EUR | Italian Consumer Confidence (Sep) |  |  | 96.1 |
+| 09:00 | EUR | M3 Money Supply (YoY) (Aug) |  | 2.5% | 2.3% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Aug) |  |  | 0.6% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Aug) |  | 0.6% | 0.5% |
+| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 09:30 | HKD | Exports (MoM) (Aug) |  |  | 13.1% |
+| 09:30 | HKD | Imports (MoM) (Aug) |  |  | 9.9% |
+| 09:30 | HKD | Trade Balance (Aug) |  |  | -21.8B |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.247% |
+| 10:30 | ZAR | PPI (MoM) (Aug) |  |  | -0.2% |
+| 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 4.2% |
+| 12:00 | BRL | BCB Inflation Report |  |  |  |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | BRL | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q2) |  | 1.7% | -2.7% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 10.3% |
+| 13:30 | USD | GDP Sales (Q2) |  | 2.2% | 1.8% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | -0.1% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.50K |
+| 13:30 | USD | PCE Prices (Q2) |  | 2.5% | 3.4% |
+| 13:30 | USD | Real Consumer Spending (Q2) |  | 2.9% | 1.5% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) |  |  | 3.99% |
+| 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.4% |
+| 14:10 | USD | Fed Collins Speaks |  |  |  |
+| 15:00 | USD | Pending Home Sales Index (Aug) |  |  | 70.2 |
+| 15:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  | 52B | 58B |
+| 16:00 | USD | KC Fed Composite Index (Sep) |  |  | -3 |
+| 16:00 | USD | KC Fed Manufacturing Index (Sep) |  |  | 6 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.700% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.690% |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Aug) |  |  | 188.02K |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 22:00 | KRW | Manufacturing BSI Index |  |  | 71 |
+| 23:00 | USD | Fed Governor Cook Speaks |  |  |  |

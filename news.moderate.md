@@ -1,12 +1,30 @@
-## 25 September 2024 - Moderate Impact Forex News
+## 26 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | BoJ Core CPI (YoY) | 1.8% | 1.8% | 1.8% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 11:00 | EUR | France Jobseekers Total (Aug) | 2,951.5K |  | 2,808.4K |
-| 12:30 | USD | Building Permits (Aug) | 1.470M | 1.475M | 1.406M |
-| 13:30 | EUR | ECB McCaul Speaks |  |  |  |
-| 15:00 | USD | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.116M |  | -1.979M |
-| 18:00 | USD | 5-Year Note Auction | 3.519% |  | 3.645% |
+| 45 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 03:30 | AUD | RBA Financial Stability Review |  |  |  |
+| 07:00 | EUR | GfK German Consumer Climate (Oct) |  | -22.4 | -22.0 |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,829K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
+| 13:30 | USD | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.5% | 3.1% |
+| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:25 | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | USD | Pending Home Sales (MoM) (Aug) |  | 0.9% | -5.5% |
+| 15:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 16:15 | USD | Treasury Secretary Yellen Speaks |  |  |  |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 3.770% |
+| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 20:00 | MXN | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,109B |
