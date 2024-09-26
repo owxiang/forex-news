@@ -25,8 +25,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
@@ -66,7 +66,7 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction | 3.668% |  | 3.770% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 53 min | MXN | Moderate | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
+| 20:00 | MXN | Moderate | Interest Rate Decision (Sep) | 10.50% | 10.50% | 10.75% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,109B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 71 |
