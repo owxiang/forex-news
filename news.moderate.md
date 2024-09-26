@@ -10,15 +10,15 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 20 min | USD | Continuing Jobless Claims |  |  | 1,829K |
-| 20 min | USD | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
-| 20 min | USD | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
-| 20 min | USD | GDP Price Index (QoQ) (Q2) |  | 2.5% | 3.1% |
-| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:25 | USD | FOMC Member Williams Speaks |  |  |  |
-| 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 15:00 | USD | Pending Home Sales (MoM) (Aug) |  | 0.9% | -5.5% |
+| 13:30 | USD | Continuing Jobless Claims | 1,834K | 1,828K | 1,821K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) | 0.5% | 0.1% | -0.1% |
+| 13:30 | USD | Core PCE Prices (Q2) | 2.80% | 2.80% | 2.80% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.5% | 2.5% | 3.0% |
+| 4 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 19 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 34 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 49 min | USD | Pending Home Sales (MoM) (Aug) |  | 0.9% | -5.5% |
 | 15:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:15 | USD | Treasury Secretary Yellen Speaks |  |  |  |
