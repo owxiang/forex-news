@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
+| 57 min | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) |  | 9.6% | 1.8% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -22.4 | -22.0 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
