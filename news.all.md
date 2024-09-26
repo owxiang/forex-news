@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
@@ -25,8 +25,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
@@ -67,7 +67,7 @@
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Sep) | 10.50% | 10.50% | 10.75% |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,109B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
-| 54 min | KRW | Low | Manufacturing BSI Index |  |  | 71 |
-| 23:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,080B |  | 7,109B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.142T |  | 3.217T |
+| 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 71 |
+| 54 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
