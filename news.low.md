@@ -16,8 +16,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) | 7.9% |  | 9.9% |
 | 09:30 | HKD | Trade Balance (Aug) | -33.1B |  | -21.8B |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
-| 10:30 | ZAR | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
 | 10:30 | ZAR | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
+| 10:30 | ZAR | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
@@ -35,8 +35,8 @@
 | 15:30 | USD | Natural Gas Storage | 47B | 52B | 58B |
 | 16:00 | USD | KC Fed Composite Index (Sep) | -8 |  | -3 |
 | 16:00 | USD | KC Fed Manufacturing Index (Sep) | -18 | 9 | 6 |
-| 24 min | USD | 4-Week Bill Auction |  |  | 4.700% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 4.690% |
+| 16:30 | USD | 4-Week Bill Auction | 4.700% |  | 4.700% |
+| 16:30 | USD | 8-Week Bill Auction | 4.650% |  | 4.690% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
 | 22:00 | KRW | Manufacturing BSI Index |  |  | 71 |
