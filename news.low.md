@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | SGD | Industrial Production (YoY) (Aug) |  | 9.6% | 1.8% |
-| 53 min | SGD | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
-| 07:00 | NOK | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
+| 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
+| 54 min | NOK | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
 | 09:00 | EUR | Italian Business Confidence (Sep) |  | 87.1 | 87.1 |
 | 09:00 | EUR | Italian Consumer Confidence (Sep) |  |  | 96.1 |
@@ -16,8 +16,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) |  |  | 9.9% |
 | 09:30 | HKD | Trade Balance (Aug) |  |  | -21.8B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.247% |
-| 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 4.2% |
 | 10:30 | ZAR | PPI (MoM) (Aug) |  |  | -0.2% |
+| 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 4.2% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
@@ -35,10 +35,10 @@
 | 15:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 52B | 58B |
 | 16:00 | USD | KC Fed Composite Index (Sep) |  |  | -3 |
-| 16:00 | USD | KC Fed Manufacturing Index (Sep) |  |  | 6 |
+| 16:00 | USD | KC Fed Manufacturing Index (Sep) |  | 9 | 6 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.700% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.690% |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Aug) |  |  | 188.02K |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
 | 22:00 | KRW | Manufacturing BSI Index |  |  | 71 |
 | 23:00 | USD | Fed Governor Cook Speaks |  |  |  |

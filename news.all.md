@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 53 min | SGD | Low | Industrial Production (YoY) (Aug) |  | 9.6% | 1.8% |
-| 53 min | SGD | Low | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -22.4 | -22.0 |
-| 07:00 | NOK | Low | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
+| 54 min | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -22.4 | -22.0 |
+| 54 min | NOK | Low | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 1.00% | 1.25% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -25,8 +25,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 4.2% |
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | -0.2% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 4.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
@@ -59,7 +59,7 @@
 | 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 52B | 58B |
 | 16:00 | USD | Low | KC Fed Composite Index (Sep) |  |  | -3 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) |  |  | 6 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) |  | 9 | 6 |
 | 16:15 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.690% |
@@ -67,7 +67,7 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.770% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  |  | 188.02K |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,109B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
