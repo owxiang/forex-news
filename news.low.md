@@ -16,8 +16,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) |  |  | 9.9% |
 | 09:30 | HKD | Trade Balance (Aug) |  |  | -21.8B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.247% |
-| 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 4.2% |
 | 10:30 | ZAR | PPI (MoM) (Aug) |  |  | -0.2% |
+| 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 4.2% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |

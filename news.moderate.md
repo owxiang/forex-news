@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 57 min | AUD | RBA Financial Stability Review |  |  |  |
+| 2 min | AUD | RBA Financial Stability Review |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Oct) |  | -22.4 | -22.0 |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
