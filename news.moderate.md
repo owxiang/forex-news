@@ -26,5 +26,5 @@
 | 18:00 | USD | 7-Year Note Auction | 3.668% |  | 3.770% |
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 20:00 | MXN | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
+| 53 min | MXN | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,109B |

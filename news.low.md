@@ -37,7 +37,6 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Sep) | -18 | 9 | 6 |
 | 16:30 | USD | 4-Week Bill Auction | 4.700% |  | 4.700% |
 | 16:30 | USD | 8-Week Bill Auction | 4.650% |  | 4.690% |
-| 24 min | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
 | 22:00 | KRW | Manufacturing BSI Index |  |  | 71 |
 | 23:00 | USD | Fed Governor Cook Speaks |  |  |  |

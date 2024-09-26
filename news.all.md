@@ -66,8 +66,7 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction | 3.668% |  | 3.770% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 24 min | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
-| 20:00 | MXN | Moderate | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
+| 53 min | MXN | Moderate | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,109B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 71 |
