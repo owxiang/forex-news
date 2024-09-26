@@ -8,7 +8,7 @@
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 52 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,829K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |

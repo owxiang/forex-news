@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
@@ -19,10 +19,10 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Aug) | 0.8% |  | 0.6% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Aug) | 0.6% | 0.6% | 0.5% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 22 min | HKD | Low | Exports (MoM) (Aug) |  |  | 13.1% |
-| 22 min | HKD | Low | Imports (MoM) (Aug) |  |  | 9.9% |
-| 22 min | HKD | Low | Trade Balance (Aug) |  |  | -21.8B |
-| 52 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 09:30 | HKD | Low | Exports (MoM) (Aug) | 6.4% |  | 13.1% |
+| 09:30 | HKD | Low | Imports (MoM) (Aug) | 7.9% |  | 9.9% |
+| 09:30 | HKD | Low | Trade Balance (Aug) | -33.1B |  | -21.8B |
+| 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | -0.2% |

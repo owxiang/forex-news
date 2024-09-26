@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 86.7 | 87.1 | 87.0 |
@@ -12,9 +12,9 @@
 | 09:00 | EUR | Loans to Non Financial Corporations (Aug) | 0.8% |  | 0.6% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Aug) | 0.6% | 0.6% | 0.5% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 22 min | HKD | Exports (MoM) (Aug) |  |  | 13.1% |
-| 22 min | HKD | Imports (MoM) (Aug) |  |  | 9.9% |
-| 22 min | HKD | Trade Balance (Aug) |  |  | -21.8B |
+| 09:30 | HKD | Exports (MoM) (Aug) | 6.4% |  | 13.1% |
+| 09:30 | HKD | Imports (MoM) (Aug) | 7.9% |  | 9.9% |
+| 09:30 | HKD | Trade Balance (Aug) | -33.1B |  | -21.8B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.247% |
 | 10:30 | ZAR | PPI (MoM) (Aug) |  |  | -0.2% |
 | 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 4.2% |
