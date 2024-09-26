@@ -14,13 +14,13 @@
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) | 0.5% | 0.1% | -0.1% |
 | 13:30 | USD | Core PCE Prices (Q2) | 2.80% | 2.80% | 2.80% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.5% | 2.5% | 3.0% |
-| 4 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 19 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 34 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 49 min | USD | Pending Home Sales (MoM) (Aug) |  | 0.9% | -5.5% |
-| 15:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:25 | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | USD | Pending Home Sales (MoM) (Aug) | 0.6% | 0.9% | -5.5% |
+| 9 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 24 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:15 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 3.770% |

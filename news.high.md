@@ -6,4 +6,4 @@
 | 13:30 | USD | Durable Goods Orders (MoM) (Aug) | 0.0% | -2.8% | 9.9% |
 | 13:30 | USD | GDP (QoQ) (Q2) | 3.0% | 3.0% | 1.6% |
 | 13:30 | USD | Initial Jobless Claims | 218K | 224K | 222K |
-| 9 min | USD | Fed Chair Powell Speaks |  |  |  |
+| 14:20 | USD | Fed Chair Powell Speaks |  |  |  |

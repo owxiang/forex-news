@@ -30,11 +30,11 @@
 | 13:30 | USD | Real Consumer Spending (Q2) | 2.8% | 2.9% | 1.9% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) | 4.48% |  | 4.16% |
 | 14:10 | USD | Fed Collins Speaks |  |  |  |
-| 49 min | USD | Pending Home Sales Index (Aug) |  |  | 70.2 |
-| 15:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  | 52B | 58B |
-| 16:00 | USD | KC Fed Composite Index (Sep) |  |  | -3 |
-| 16:00 | USD | KC Fed Manufacturing Index (Sep) |  | 9 | 6 |
+| 15:00 | USD | Pending Home Sales Index (Aug) | 70.6 |  | 70.2 |
+| 24 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 24 min | USD | Natural Gas Storage |  | 52B | 58B |
+| 54 min | USD | KC Fed Composite Index (Sep) |  |  | -3 |
+| 54 min | USD | KC Fed Manufacturing Index (Sep) |  | 9 | 6 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.700% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.690% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |

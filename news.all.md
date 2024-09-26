@@ -46,19 +46,19 @@
 | 13:30 | USD | Low | Real Consumer Spending (Q2) | 2.8% | 2.9% | 1.9% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) | 4.48% |  | 4.16% |
 | 14:10 | USD | Low | Fed Collins Speaks |  |  |  |
-| 4 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 9 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 14 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 19 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 34 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 49 min | USD | Moderate | Pending Home Sales (MoM) (Aug) |  | 0.9% | -5.5% |
-| 49 min | USD | Low | Pending Home Sales Index (Aug) |  |  | 70.2 |
-| 15:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 15:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 52B | 58B |
-| 16:00 | USD | Low | KC Fed Composite Index (Sep) |  |  | -3 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) |  | 9 | 6 |
+| 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:20 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 14:25 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) | 0.6% | 0.9% | -5.5% |
+| 15:00 | USD | Low | Pending Home Sales Index (Aug) | 70.6 |  | 70.2 |
+| 9 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 24 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 24 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 24 min | USD | Low | Natural Gas Storage |  | 52B | 58B |
+| 54 min | USD | Low | KC Fed Composite Index (Sep) |  |  | -3 |
+| 54 min | USD | Low | KC Fed Manufacturing Index (Sep) |  | 9 | 6 |
 | 16:15 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.690% |
