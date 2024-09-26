@@ -27,4 +27,4 @@
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Sep) | 10.50% | 10.50% | 10.75% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,109B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,109B |
