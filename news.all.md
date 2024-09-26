@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
@@ -69,5 +69,5 @@
 | 20:00 | MXN | Moderate | Interest Rate Decision (Sep) | 10.50% | 10.50% | 10.75% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 7,080B |  | 7,109B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.142T |  | 3.217T |
-| 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 71 |
-| 54 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 22:00 | KRW | Low | Manufacturing BSI Index | 69 |  | 71 |
+| 23:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |

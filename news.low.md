@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 86.7 | 87.1 | 87.0 |
@@ -38,5 +38,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.700% |  | 4.700% |
 | 16:30 | USD | 8-Week Bill Auction | 4.650% |  | 4.690% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.142T |  | 3.217T |
-| 22:00 | KRW | Manufacturing BSI Index |  |  | 71 |
-| 54 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 22:00 | KRW | Manufacturing BSI Index | 69 |  | 71 |
+| 23:00 | USD | Fed Governor Cook Speaks |  |  |  |
