@@ -27,9 +27,9 @@
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
-| 54 min | BRL | Low | BCB Inflation Report |  |  |  |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
+| 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 54 min | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,829K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
