@@ -5,9 +5,9 @@
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | RBA Financial Stability Review |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | CHF | SNB Press Conference |  |  |  |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 24 min | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 54 min | CHF | SNB Press Conference |  |  |  |
+| 54 min | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,829K |
