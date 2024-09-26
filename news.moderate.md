@@ -19,10 +19,10 @@
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (Aug) | 0.6% | 0.9% | -5.5% |
-| 9 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 24 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:15 | USD | Treasury Secretary Yellen Speaks |  |  |  |
-| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 15:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 9 min | USD | Treasury Secretary Yellen Speaks |  |  |  |
+| 54 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 3.770% |
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |

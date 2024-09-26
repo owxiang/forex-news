@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
@@ -25,8 +25,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
@@ -53,16 +53,16 @@
 | 14:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Aug) | 0.6% | 0.9% | -5.5% |
 | 15:00 | USD | Low | Pending Home Sales Index (Aug) | 70.6 |  | 70.2 |
-| 9 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 24 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 24 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 24 min | USD | Low | Natural Gas Storage |  | 52B | 58B |
-| 54 min | USD | Low | KC Fed Composite Index (Sep) |  |  | -3 |
-| 54 min | USD | Low | KC Fed Manufacturing Index (Sep) |  | 9 | 6 |
-| 16:15 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.690% |
-| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 15:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 15:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 15:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 47B | 52B | 58B |
+| 16:00 | USD | Low | KC Fed Composite Index (Sep) | -8 |  | -3 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Sep) | -18 | 9 | 6 |
+| 9 min | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
+| 24 min | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
+| 24 min | USD | Low | 8-Week Bill Auction |  |  | 4.690% |
+| 54 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.770% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
