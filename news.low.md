@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
-| 06:00 | SGD | Industrial Production (YoY) (Aug) |  | 9.6% | 1.8% |
+| 53 min | SGD | Industrial Production (YoY) (Aug) |  | 9.6% | 1.8% |
+| 53 min | SGD | Industrial Production (MoM) (Aug) |  | -4.0% | 10.1% |
 | 07:00 | NOK | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
 | 09:00 | EUR | Italian Business Confidence (Sep) |  | 87.1 | 87.1 |
