@@ -23,11 +23,11 @@
 | 09:30 | HKD | Low | Imports (MoM) (Aug) | 7.9% |  | 9.9% |
 | 09:30 | HKD | Low | Trade Balance (Aug) | -33.1B |  | -21.8B |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.247% |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | -0.2% |
-| 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 4.2% |
-| 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
+| 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
+| 54 min | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,829K |
