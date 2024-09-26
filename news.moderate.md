@@ -23,8 +23,8 @@
 | 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:15 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 53 min | USD | 7-Year Note Auction |  |  | 3.770% |
-| 53 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 53 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction | 3.668% |  | 3.770% |
+| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Sep) |  | 10.50% | 10.75% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,109B |
