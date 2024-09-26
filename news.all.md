@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
-| 54 min | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -22.4 | -22.0 |
-| 54 min | NOK | Low | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
+| 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.9% |
+| 52 min | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 1.00% | 1.25% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Sep) |  | 87.1 | 87.1 |
@@ -25,8 +25,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | -0.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) |  |  | 4.2% |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) |  |  | -0.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |

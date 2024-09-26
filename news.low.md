@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
-| 54 min | NOK | Unemployment Rate (Aug) |  | 3.9% | 3.9% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
+| 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.9% |
+| 52 min | EUR | Spanish Retail Sales (YoY) (Aug) |  | 1.9% | 1.0% |
 | 09:00 | EUR | Italian Business Confidence (Sep) |  | 87.1 | 87.1 |
 | 09:00 | EUR | Italian Consumer Confidence (Sep) |  |  | 96.1 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Aug) |  | 2.5% | 2.3% |
@@ -16,8 +16,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) |  |  | 9.9% |
 | 09:30 | HKD | Trade Balance (Aug) |  |  | -21.8B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.247% |
-| 10:30 | ZAR | PPI (MoM) (Aug) |  |  | -0.2% |
 | 10:30 | ZAR | PPI (YoY) (Aug) |  |  | 4.2% |
+| 10:30 | ZAR | PPI (MoM) (Aug) |  |  | -0.2% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
