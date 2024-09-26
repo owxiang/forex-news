@@ -1,42 +1,64 @@
-## 26 September 2024 - Low Impact Forex News
+## 27 September 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
-| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
-| 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
-| 09:00 | EUR | Italian Business Confidence (Sep) | 86.7 | 87.1 | 87.0 |
-| 09:00 | EUR | Italian Consumer Confidence (Sep) | 98.3 |  | 96.1 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Aug) | 2.9% | 2.5% | 2.3% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Aug) | 0.8% |  | 0.6% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Aug) | 0.6% | 0.6% | 0.5% |
-| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 09:30 | HKD | Exports (MoM) (Aug) | 6.4% |  | 13.1% |
-| 09:30 | HKD | Imports (MoM) (Aug) | 7.9% |  | 9.9% |
-| 09:30 | HKD | Trade Balance (Aug) | -33.1B |  | -21.8B |
-| 10:10 | EUR | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
-| 10:30 | ZAR | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
-| 10:30 | ZAR | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
-| 12:00 | BRL | BCB Inflation Report |  |  |  |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
-| 13:30 | USD | Corporate Profits (QoQ) (Q2) | 3.5% | 1.7% | -2.1% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Aug) | -0.2% |  | 10.3% |
-| 13:30 | USD | GDP Sales (Q2) | 1.9% | 2.2% | 2.0% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.2% | 0.0% | -0.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 224.75K |  | 228.25K |
-| 13:30 | USD | PCE Prices (Q2) | 2.5% | 2.5% | 3.4% |
-| 13:30 | USD | Real Consumer Spending (Q2) | 2.8% | 2.9% | 1.9% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) | 4.48% |  | 4.16% |
-| 14:10 | USD | Fed Collins Speaks |  |  |  |
-| 15:00 | USD | Pending Home Sales Index (Aug) | 70.6 |  | 70.2 |
-| 15:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage | 47B | 52B | 58B |
-| 16:00 | USD | KC Fed Composite Index (Sep) | -8 |  | -3 |
-| 16:00 | USD | KC Fed Manufacturing Index (Sep) | -18 | 9 | 6 |
-| 16:30 | USD | 4-Week Bill Auction | 4.700% |  | 4.700% |
-| 16:30 | USD | 8-Week Bill Auction | 4.650% |  | 4.690% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.142T |  | 3.217T |
-| 22:00 | KRW | Manufacturing BSI Index | 69 |  | 71 |
-| 23:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 1.6% |
+| 24 min | JPY | Tokyo CPI (YoY) (Sep) |  |  | 2.6% |
+| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.5% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 2,100.1B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -3,005.8B |
+| 02:30 | CNY | Chinese Industrial profit YTD (Aug) |  |  | 3.6% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  | 3.0% | -3.9% |
+| 06:00 | JPY | Leading Index (MoM) (Jul) |  | 0.4% | -2.1% |
+| 06:00 | JPY | Leading Index (Jul) |  | 109.5 | 109.0 |
+| 07:00 | NOK | Core Retail Sales (MoM) (Aug) |  | 0.6% | 1.2% |
+| 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
+| 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
+| 07:45 | EUR | French PPI (MoM) (Aug) |  |  | 0.2% |
+| 07:45 | EUR | PPI (YoY) (Aug) |  |  | -5.40% |
+| 08:00 | EUR | Core CPI (YoY) |  |  | 2.7% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | -0.1% | 0.0% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.9% | 2.5% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | 0.0% | 0.0% |
+| 08:55 | EUR | German Unemployment (Sep) |  |  | 2.801M |
+| 08:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
+| 09:00 | NOK | Unemployment Change (Sep) |  |  | 75.85K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
+| 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
+| 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
+| 10:00 | EUR | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
+| 10:00 | EUR | Business Climate (Sep) |  |  | -0.62 |
+| 10:00 | EUR | Consumer Confidence (Sep) |  | -12.9 | -12.9 |
+| 10:00 | EUR | Consumer Inflation Expectation (Sep) |  |  | 11.3 |
+| 10:00 | EUR | Selling Price Expectations (Sep) |  |  | 6.1 |
+| 10:00 | EUR | Services Sentiment (Sep) |  | 5.6 | 6.3 |
+| 10:00 | EUR | Industrial Sentiment (Sep) |  | -9.8 | -9.7 |
+| 10:40 | EUR | Italian 5-Year BTP Auction |  |  | 3.08% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -17 | -27 |
+| 12:00 | EUR | Spanish Business Confidence (Sep) |  |  | -3.6 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Sep) |  | 0.47% | 0.29% |
+| 12:30 | INR | FX Reserves, USD |  |  | 689.46B |
+| 12:30 | BRL | Bank lending (MoM) (Aug) |  |  | 0.2% |
+| 13:00 | MXN | Trade Balance (Aug) |  | -0.500B | -0.072B |
+| 13:00 | MXN | Trade Balance (USD) (Aug) |  |  | 1.168B |
+| 13:30 | USD | Personal Income (MoM) (Aug) |  | 0.4% | 0.3% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Aug) |  |  | 0.4% |
+| 13:30 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
+| 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
+| 14:00 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
+| 15:00 | USD | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
+| 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
+| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.7K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -66.3K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -89.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 58.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -134.6K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -14.2K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -73.2K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 7.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -17.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -1.9K |
