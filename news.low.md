@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
+| 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 86.7 | 87.1 | 87.0 |
@@ -16,20 +16,20 @@
 | 09:30 | HKD | Imports (MoM) (Aug) | 7.9% |  | 9.9% |
 | 09:30 | HKD | Trade Balance (Aug) | -33.1B |  | -21.8B |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
-| 10:30 | ZAR | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 10:30 | ZAR | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
+| 10:30 | ZAR | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
-| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 54 min | BRL | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
-| 13:30 | USD | Corporate Profits (QoQ) (Q2) |  | 1.7% | -2.7% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 10.3% |
-| 13:30 | USD | GDP Sales (Q2) |  | 2.2% | 1.8% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | -0.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.50K |
-| 13:30 | USD | PCE Prices (Q2) |  | 2.5% | 3.4% |
-| 13:30 | USD | Real Consumer Spending (Q2) |  | 2.9% | 1.5% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Jul) |  |  | 3.99% |
-| 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.4% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | BRL | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.58% |
+| 20 min | USD | Corporate Profits (QoQ) (Q2) |  | 1.7% | -2.7% |
+| 20 min | USD | Durables Excluding Defense (MoM) (Aug) |  |  | 10.3% |
+| 20 min | USD | GDP Sales (Q2) |  | 2.2% | 1.8% |
+| 20 min | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | -0.1% |
+| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 227.50K |
+| 20 min | USD | PCE Prices (Q2) |  | 2.5% | 3.4% |
+| 20 min | USD | Real Consumer Spending (Q2) |  | 2.9% | 1.5% |
+| 20 min | CAD | Average Weekly Earnings (YoY) (Jul) |  |  | 3.99% |
+| 20 min | CAD | Manufacturing Sales (MoM) |  |  | 1.4% |
 | 14:10 | USD | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales Index (Aug) |  |  | 70.2 |
 | 15:30 | USD | Fed Governor Cook Speaks |  |  |  |

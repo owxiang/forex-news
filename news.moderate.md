@@ -10,10 +10,10 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,829K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
-| 13:30 | USD | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.5% | 3.1% |
+| 20 min | USD | Continuing Jobless Claims |  |  | 1,829K |
+| 20 min | USD | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
+| 20 min | USD | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
+| 20 min | USD | GDP Price Index (QoQ) (Q2) |  | 2.5% | 3.1% |
 | 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:25 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |

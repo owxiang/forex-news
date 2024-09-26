@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
@@ -25,27 +25,27 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 54 min | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | 1.58% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,829K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  | 1.7% | -2.7% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Aug) |  | -2.8% | 9.9% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 10.3% |
-| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 3.0% | 1.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.5% | 3.1% |
-| 13:30 | USD | Low | GDP Sales (Q2) |  | 2.2% | 1.8% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | -0.1% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 224K | 219K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.50K |
-| 13:30 | USD | Low | PCE Prices (Q2) |  | 2.5% | 3.4% |
-| 13:30 | USD | Low | Real Consumer Spending (Q2) |  | 2.9% | 1.5% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) |  |  | 3.99% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.4% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.58% |
+| 20 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,829K |
+| 20 min | USD | Moderate | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | -0.2% |
+| 20 min | USD | Moderate | Core PCE Prices (Q2) |  | 2.80% | 3.70% |
+| 20 min | USD | Low | Corporate Profits (QoQ) (Q2) |  | 1.7% | -2.7% |
+| 20 min | USD | High | Durable Goods Orders (MoM) (Aug) |  | -2.8% | 9.9% |
+| 20 min | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | 10.3% |
+| 20 min | USD | High | GDP (QoQ) (Q2) |  | 3.0% | 1.4% |
+| 20 min | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.5% | 3.1% |
+| 20 min | USD | Low | GDP Sales (Q2) |  | 2.2% | 1.8% |
+| 20 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | -0.1% |
+| 20 min | USD | High | Initial Jobless Claims |  | 224K | 219K |
+| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.50K |
+| 20 min | USD | Low | PCE Prices (Q2) |  | 2.5% | 3.4% |
+| 20 min | USD | Low | Real Consumer Spending (Q2) |  | 2.9% | 1.5% |
+| 20 min | CAD | Low | Average Weekly Earnings (YoY) (Jul) |  |  | 3.99% |
+| 20 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.4% |
 | 14:10 | USD | Low | Fed Collins Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:20 | USD | High | Fed Chair Powell Speaks |  |  |  |
