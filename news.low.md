@@ -12,20 +12,20 @@
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
-| 36 min | EUR | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
-| 36 min | EUR | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
-| 36 min | EUR | PPI (YoY) (Aug) |  |  | -5.40% |
-| 36 min | EUR | French PPI (MoM) (Aug) |  |  | 0.2% |
-| 51 min | EUR | Core CPI (YoY) |  |  | 2.7% |
-| 51 min | EUR | Spanish CPI (MoM) (Sep) |  | -0.1% | 0.0% |
-| 51 min | EUR | Spanish GDP (YoY) (Q2) |  | 2.9% | 2.5% |
-| 51 min | EUR | Spanish HICP (MoM) (Sep) |  | 0.0% | 0.0% |
-| 08:55 | EUR | German Unemployment (Sep) |  |  | 2.801M |
-| 08:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
-| 09:00 | NOK | Unemployment Change (Sep) |  |  | 75.85K |
-| 09:00 | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
+| 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
+| 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
+| 07:45 | EUR | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 07:45 | EUR | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
+| 08:00 | EUR | Core CPI (YoY) | 2.4% |  | 2.7% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.9% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
+| 49 min | EUR | German Unemployment (Sep) |  |  | 2.801M |
+| 49 min | EUR | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
+| 54 min | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
+| 54 min | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
+| 54 min | NOK | Unemployment Change (Sep) |  |  | 75.85K |
+| 54 min | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
 | 10:00 | EUR | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
@@ -49,8 +49,8 @@
 | 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 14:00 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
-| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
 | 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
+| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -66.3K |

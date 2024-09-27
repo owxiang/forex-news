@@ -14,28 +14,28 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 06:00 | JPY | Low | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
-| 36 min | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  | -0.1% | 0.3% |
-| 36 min | EUR | Low | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
-| 36 min | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.7% | 0.5% |
-| 36 min | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.8% | 0.6% |
-| 36 min | EUR | Low | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
-| 36 min | EUR | Low | PPI (YoY) (Aug) |  |  | -5.40% |
-| 36 min | EUR | Low | French PPI (MoM) (Aug) |  |  | 0.2% |
-| 51 min | EUR | Low | Core CPI (YoY) |  |  | 2.7% |
-| 51 min | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 1.9% | 2.3% |
-| 51 min | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.1% | 0.0% |
-| 51 min | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.9% | 2.5% |
-| 51 min | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
-| 51 min | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 1.9% | 2.4% |
-| 51 min | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.0% | 0.0% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Sep) |  | 13K | 2K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Sep) |  | 6.0% | 6.0% |
-| 08:55 | EUR | Low | German Unemployment (Sep) |  |  | 2.801M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
-| 09:00 | NOK | Low | Unemployment Change (Sep) |  |  | 75.85K |
-| 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.2% | -0.1% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
+| 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
+| 07:45 | EUR | Low | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
+| 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
+| 49 min | EUR | Moderate | German Unemployment Change (Sep) |  | 13K | 2K |
+| 49 min | EUR | Moderate | German Unemployment Rate (Sep) |  | 6.0% | 6.0% |
+| 49 min | EUR | Low | German Unemployment (Sep) |  |  | 2.801M |
+| 49 min | EUR | Low | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
+| 54 min | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
+| 54 min | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
+| 54 min | NOK | Low | Unemployment Change (Sep) |  |  | 75.85K |
+| 54 min | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 1.3% |
@@ -57,11 +57,11 @@
 | 13:00 | MXN | Low | Trade Balance (Aug) |  | -0.500B | -0.072B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 1.168B |
 | 13:00 | BRL | Moderate | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
 | 13:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.4% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.4% |
@@ -77,8 +77,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 69.0 | 67.9 |
 | 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
-| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 0.94B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -2.88B |
+| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 0.94B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
