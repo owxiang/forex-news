@@ -9,8 +9,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,926.4B |  | -3,006.8B |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
@@ -22,8 +22,8 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
 | 08:55 | EUR | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | NOK | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |
@@ -42,15 +42,14 @@
 | 12:30 | INR | FX Reserves, USD | 692.30B |  | 689.46B |
 | 12:30 | BRL | Bank lending (MoM) (Aug) | 0.9% |  | 0.2% |
 | 13:00 | MXN | Trade Balance (Aug) | -4.868B | -0.500B | -0.072B |
-| 13:00 | MXN | Trade Balance (USD) (Aug) | -2.565B |  | 1.168B |
-| 21 min | USD | Personal Income (MoM) (Aug) |  | 0.4% | 0.3% |
-| 21 min | USD | Real Personal Consumption (MoM) (Aug) |  |  | 0.4% |
-| 21 min | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
-| 51 min | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
-| 51 min | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
-| 15:00 | USD | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
-| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
+| 13:00 | MXN | Trade Balance (USD) (Aug) | -2.565B |  | 0.668B |
+| 13:30 | USD | Personal Income (MoM) (Aug) | 0.2% | 0.4% | 0.3% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Aug) | 0.1% |  | 0.4% |
+| 13:30 | USD | Wholesale Inventories (MoM) (Aug) | 0.2% | 0.2% | 0.3% |
+| 14:00 | BRL | CAGED Net Payroll Jobs (Aug) | 232.51K | 230.00K | 188.02K |
+| 49 min | USD | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
 | 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
+| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -66.3K |

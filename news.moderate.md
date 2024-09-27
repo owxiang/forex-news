@@ -16,17 +16,17 @@
 | 10:50 | EUR | Italian 10-Year BTP Auction | 3.43% |  | 3.68% |
 | 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Aug) | 6.6% | 6.7% | 6.8% |
-| 21 min | USD | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
-| 21 min | USD | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
-| 21 min | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
-| 21 min | USD | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
-| 21 min | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.5% |
-| 21 min | CAD | GDP (MoM) (Jul) |  | 0.0% | 0.0% |
-| 22 min | CAD | GDP (MoM) (Aug) |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 2.7% | 2.8% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.1% | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 73.0 | 72.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (Sep) |  | 69.0 | 67.9 |
+| 13:30 | USD | Goods Trade Balance (Aug) | -94.26B | -100.60B | -102.84B |
+| 13:30 | USD | PCE Price index (YoY) (Aug) | 2.2% | 2.3% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | Personal Spending (MoM) (Aug) | 0.2% | 0.3% | 0.5% |
+| 13:30 | USD | Retail Inventories Ex Auto (Aug) | 0.4% |  | 0.5% |
+| 13:30 | CAD | GDP (MoM) (Jul) | 0.2% | 0.0% | 0.0% |
+| 13:31 | CAD | GDP (MoM) (Aug) | 0.0% |  | 0.2% |
+| 49 min | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 2.7% | 2.8% |
+| 49 min | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.1% | 3.0% |
+| 49 min | USD | Michigan Consumer Expectations (Sep) |  | 73.0 | 72.1 |
+| 49 min | USD | Michigan Consumer Sentiment (Sep) |  | 69.0 | 67.9 |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
