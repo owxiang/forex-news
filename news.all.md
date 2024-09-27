@@ -11,35 +11,35 @@
 | 01:00 | CNY | Moderate | PBoC Reserve Requirement Ratio | 9.50% |  | 10.00% |
 | 02:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) |  | 3.0% | -3.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) |  | 0.4% | -2.1% |
-| 06:00 | JPY | Low | Leading Index (Jul) |  | 109.5 | 109.0 |
+| 53 min | JPY | Low | Coincident Indicator (MoM) (Jul) |  | 3.0% | -3.9% |
+| 53 min | JPY | Low | Leading Index (MoM) (Jul) |  | 0.4% | -2.1% |
+| 53 min | JPY | Low | Leading Index (Jul) |  | 109.5 | 109.0 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) |  | 0.6% | 1.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  | -0.1% | 0.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.7% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
-| 07:45 | EUR | Low | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.8% | 0.6% |
+| 07:45 | EUR | Low | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Aug) |  |  | -5.40% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) |  |  | 0.2% |
 | 08:00 | EUR | Low | Core CPI (YoY) |  |  | 2.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.1% | 0.0% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.9% | 2.5% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.0% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 1.9% | 2.4% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Sep) |  | 13K | 2K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Sep) |  | 6.0% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Sep) |  |  | 2.801M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
 | 09:00 | NOK | Low | Unemployment Change (Sep) |  |  | 75.85K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 1.3% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -1.1% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 1.3% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
 | 10:00 | EUR | Low | Business Climate (Sep) |  |  | -0.62 |
 | 10:00 | EUR | Low | Consumer Confidence (Sep) |  | -12.9 | -12.9 |
@@ -58,8 +58,8 @@
 | 13:00 | MXN | Low | Trade Balance (Aug) |  | -0.500B | -0.072B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 1.168B |
 | 13:00 | BRL | Moderate | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  |  | 2.6% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Aug) |  | -100.20B | -102.84B |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |

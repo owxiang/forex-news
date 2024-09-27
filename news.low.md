@@ -8,9 +8,9 @@
 | 00:50 | JPY | Foreign Bonds Buying | 774.0B |  | 2,103.4B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,926.4B |  | -3,006.8B |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  | 3.0% | -3.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) |  | 0.4% | -2.1% |
-| 06:00 | JPY | Leading Index (Jul) |  | 109.5 | 109.0 |
+| 53 min | JPY | Coincident Indicator (MoM) (Jul) |  | 3.0% | -3.9% |
+| 53 min | JPY | Leading Index (MoM) (Jul) |  | 0.4% | -2.1% |
+| 53 min | JPY | Leading Index (Jul) |  | 109.5 | 109.0 |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) |  | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
@@ -22,12 +22,12 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | 0.0% | 0.0% |
 | 08:55 | EUR | German Unemployment (Sep) |  |  | 2.801M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
 | 09:00 | NOK | Unemployment Change (Sep) |  |  | 75.85K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
-| 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
+| 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
 | 10:00 | EUR | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
 | 10:00 | EUR | Business Climate (Sep) |  |  | -0.62 |
 | 10:00 | EUR | Consumer Confidence (Sep) |  | -12.9 | -12.9 |
