@@ -22,8 +22,8 @@
 | 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.5% |
-| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (Jul) |  |  | 0.0% |
+| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 2.7% | 2.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 73.0 | 72.1 |

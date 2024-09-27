@@ -22,8 +22,8 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | 0.0% | 0.0% |
 | 08:55 | EUR | German Unemployment (Sep) |  |  | 2.801M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.10% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
 | 09:00 | NOK | Unemployment Change (Sep) |  |  | 75.85K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
@@ -49,8 +49,8 @@
 | 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 14:00 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
-| 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
 | 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
+| 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -66.3K |
