@@ -14,16 +14,16 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
-| 07:45 | EUR | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 07:45 | EUR | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 07:45 | EUR | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 08:00 | EUR | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
 | 08:55 | EUR | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
 | 09:00 | NOK | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |
