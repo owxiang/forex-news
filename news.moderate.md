@@ -1,7 +1,73 @@
-## 27 September 2024 - Moderate Impact Forex News
+## 22 September 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 06:00 | SGD | Core CPI (YoY) (Aug) | 2.70% | 2.50% | 2.50% |
+| 06:00 | SGD | CPI (YoY) (Aug) | 2.2% | 2.2% | 2.4% |
+| 08:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Sep) | 44.0 | 44.3 | 43.9 |
+| 08:15 | EUR | HCOB France Services PMI (Sep) | 48.3 | 53.0 | 55.0 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Sep) | 40.3 | 42.4 | 42.4 |
+| 08:30 | EUR | HCOB Germany Services PMI (Sep) | 50.6 | 51.1 | 51.2 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) | 44.8 | 45.7 | 45.8 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 48.9 | 50.6 | 51.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 50.5 | 52.3 | 52.9 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) | 52.9 |  | 53.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 52.3 | 52.5 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) | 52.8 | 53.5 | 53.7 |
+| 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 13:30 | CAD | New Housing Price Index (MoM) (Aug) | 0.0% | 0.1% | 0.2% |
+| 14:45 | USD | S&P Global Composite PMI (Sep) | 54.4 | 54.3 | 54.6 |
+| 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 21:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (Sep) | 53.9 |  | 53.7 |
+| 05:30 | AUD | RBA Rate Statement |  |  |  |
+| 08:10 | EUR | ECB McCaul Speaks |  |  |  |
+| 09:00 | EUR | German Business Expectations (Sep) | 86.3 | 86.3 | 86.8 |
+| 09:00 | EUR | German Current Assessment (Sep) | 84.4 | 86.1 | 86.4 |
+| 09:00 | EUR | German Ifo Business Climate Index (Sep) | 85.4 | 86.1 | 86.6 |
+| 13:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:55 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 18:00 | USD | 2-Year Note Auction | 3.520% |  | 3.874% |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.339M | -1.100M | 1.960M |
+| 06:00 | JPY | BoJ Core CPI (YoY) | 1.8% | 1.8% | 1.8% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 11:00 | EUR | France Jobseekers Total (Aug) | 2,951.5K |  | 2,808.4K |
+| 12:30 | USD | Building Permits (Aug) | 1.470M | 1.475M | 1.406M |
+| 13:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 15:00 | USD | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.116M |  | -1.979M |
+| 18:00 | USD | 5-Year Note Auction | 3.519% |  | 3.645% |
+| 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 03:30 | AUD | RBA Financial Stability Review |  |  |  |
+| 07:00 | EUR | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,834K | 1,828K | 1,821K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Aug) | 0.5% | 0.1% | -0.1% |
+| 13:30 | USD | Core PCE Prices (Q2) | 2.80% | 2.80% | 2.80% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.5% | 2.5% | 3.0% |
+| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:25 | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | USD | Pending Home Sales (MoM) (Aug) | 0.6% | 0.9% | -5.5% |
+| 15:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 15:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 16:15 | USD | Treasury Secretary Yellen Speaks |  |  |  |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction | 3.668% |  | 3.770% |
+| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 20:00 | MXN | Interest Rate Decision (Sep) | 10.50% | 10.50% | 10.75% |
+| 21:30 | USD | Fed's Balance Sheet | 7,080B |  | 7,109B |
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.0% | 2.0% | 2.4% |
 | 01:00 | CNY | PBoC Reserve Requirement Ratio | 9.50% |  | 10.00% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Aug) | 0.2% | -0.1% | 0.2% |
@@ -17,8 +83,8 @@
 | 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Aug) | 6.6% | 6.7% | 6.8% |
 | 13:30 | USD | Goods Trade Balance (Aug) | -94.26B | -100.60B | -102.84B |
-| 13:30 | USD | PCE price index (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Aug) | 2.2% | 2.3% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) | 0.2% | 0.3% | 0.5% |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) | 0.4% |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jul) | 0.2% | 0.0% | 0.0% |
