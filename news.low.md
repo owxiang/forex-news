@@ -9,8 +9,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,926.4B |  | -3,006.8B |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
@@ -26,17 +26,17 @@
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | NOK | Unemployment Change (Sep) | 77.26K |  | 75.85K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
-| 52 min | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
-| 52 min | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
-| 52 min | EUR | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
-| 52 min | EUR | Business Climate (Sep) |  |  | -0.62 |
-| 52 min | EUR | Consumer Confidence (Sep) |  | -12.9 | -13.5 |
-| 52 min | EUR | Consumer Inflation Expectation (Sep) |  |  | 11.3 |
-| 52 min | EUR | Selling Price Expectations (Sep) |  |  | 6.1 |
-| 52 min | EUR | Services Sentiment (Sep) |  | 5.6 | 6.3 |
-| 52 min | EUR | Industrial Sentiment (Sep) |  | -9.8 | -9.7 |
-| 10:40 | EUR | Italian 5-Year BTP Auction |  |  | 3.08% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -17 | -27 |
+| 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
+| 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
+| 10:00 | EUR | Business and Consumer Survey (Sep) | 96.2 | 96.5 | 96.5 |
+| 10:00 | EUR | Business Climate (Sep) |  |  | -0.62 |
+| 10:00 | EUR | Consumer Confidence (Sep) | -12.9 | -12.9 | -12.9 |
+| 10:00 | EUR | Consumer Inflation Expectation (Sep) | 10.9 |  | 11.3 |
+| 10:00 | EUR | Selling Price Expectations (Sep) | 6.2 |  | 6.2 |
+| 10:00 | EUR | Services Sentiment (Sep) | 6.7 | 5.6 | 6.4 |
+| 10:00 | EUR | Industrial Sentiment (Sep) | -10.9 | -9.8 | -9.9 |
+| 34 min | EUR | Italian 5-Year BTP Auction |  |  | 3.08% |
+| 54 min | GBP | CBI Distributive Trades Survey (Sep) |  | -17 | -27 |
 | 12:00 | EUR | Spanish Business Confidence (Sep) |  |  | -3.6 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Sep) |  | 0.47% | 0.29% |
 | 12:30 | INR | FX Reserves, USD |  |  | 689.46B |

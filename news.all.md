@@ -11,8 +11,8 @@
 | 01:00 | CNY | Moderate | PBoC Reserve Requirement Ratio | 9.50% |  | 10.00% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 06:00 | JPY | Low | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.2% | -0.1% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
@@ -36,19 +36,19 @@
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | NOK | Low | Unemployment Change (Sep) | 77.26K |  | 75.85K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
-| 7 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 52 min | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -1.1% |
-| 52 min | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 1.3% |
-| 52 min | EUR | Low | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
-| 52 min | EUR | Low | Business Climate (Sep) |  |  | -0.62 |
-| 52 min | EUR | Low | Consumer Confidence (Sep) |  | -12.9 | -13.5 |
-| 52 min | EUR | Low | Consumer Inflation Expectation (Sep) |  |  | 11.3 |
-| 52 min | EUR | Low | Selling Price Expectations (Sep) |  |  | 6.1 |
-| 52 min | EUR | Low | Services Sentiment (Sep) |  | 5.6 | 6.3 |
-| 52 min | EUR | Low | Industrial Sentiment (Sep) |  | -9.8 | -9.7 |
-| 10:40 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.68% |
-| 10:40 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.08% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -17 | -27 |
+| 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -1.1% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 1.3% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Sep) | 96.2 | 96.5 | 96.5 |
+| 10:00 | EUR | Low | Business Climate (Sep) |  |  | -0.62 |
+| 10:00 | EUR | Low | Consumer Confidence (Sep) | -12.9 | -12.9 | -12.9 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Sep) | 10.9 |  | 11.3 |
+| 10:00 | EUR | Low | Selling Price Expectations (Sep) | 6.2 |  | 6.2 |
+| 10:00 | EUR | Low | Services Sentiment (Sep) | 6.7 | 5.6 | 6.4 |
+| 10:00 | EUR | Low | Industrial Sentiment (Sep) | -10.9 | -9.8 | -9.9 |
+| 34 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.68% |
+| 34 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.08% |
+| 54 min | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -17 | -27 |
 | 12:00 | EUR | Low | Spanish Business Confidence (Sep) |  |  | -3.6 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.47% | 0.29% |
 | 12:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

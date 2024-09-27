@@ -12,8 +12,8 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
 | 08:55 | EUR | German Unemployment Change (Sep) | 17K | 13K | 4K |
 | 08:55 | EUR | German Unemployment Rate (Sep) | 6.0% | 6.0% | 6.0% |
-| 7 min | EUR | ECB's Lane Speaks |  |  |  |
-| 10:40 | EUR | Italian 10-Year BTP Auction |  |  | 3.68% |
+| 09:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 34 min | EUR | Italian 10-Year BTP Auction |  |  | 3.68% |
 | 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
 | 13:30 | USD | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
