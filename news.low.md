@@ -9,8 +9,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,926.4B |  | -3,006.8B |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
+| 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
@@ -48,8 +48,8 @@
 | 13:30 | USD | Wholesale Inventories (MoM) (Aug) | 0.2% | 0.2% | 0.3% |
 | 14:00 | BRL | CAGED Net Payroll Jobs (Aug) | 232.51K | 230.00K | 188.02K |
 | 15:00 | USD | Michigan Current Conditions (Sep) | 63.3 | 62.9 | 62.9 |
-| 16:00 | CAD | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 16:00 | CAD | Budget Balance (Jul) | -4.40B |  | 0.94B |
+| 16:00 | CAD | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -66.3K |

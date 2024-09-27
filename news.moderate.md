@@ -28,8 +28,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Sep) | 74.4 | 73.0 | 73.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (Sep) | 70.1 | 69.0 | 69.0 |
 | 15:15 | USD | Atlanta Fed GDPNow (Q3) | 3.1% | 2.9% | 2.9% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 18:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 63.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 145.3K |
