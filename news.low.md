@@ -26,8 +26,8 @@
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
 | 09:00 | NOK | Unemployment Change (Sep) |  |  | 75.85K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
-| 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
+| 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
 | 10:00 | EUR | Business Climate (Sep) |  |  | -0.62 |
 | 10:00 | EUR | Consumer Confidence (Sep) |  | -12.9 | -12.9 |

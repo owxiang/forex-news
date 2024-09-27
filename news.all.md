@@ -16,8 +16,8 @@
 | 06:00 | JPY | Low | Leading Index (Jul) |  | 109.5 | 109.0 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) |  | 0.6% | 1.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  | -0.1% | 0.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.7% | 0.5% |
+| 07:45 | EUR | Low | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.8% | 0.6% |
 | 07:45 | EUR | Low | PPI (YoY) (Aug) |  |  | -5.40% |
@@ -25,8 +25,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) |  |  | 2.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  | -0.1% | 0.0% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.9% | 2.5% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.9% | 2.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.0% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 1.9% | 2.4% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Sep) |  | 13K | 2K |
@@ -38,8 +38,8 @@
 | 09:00 | NOK | Low | Unemployment Change (Sep) |  |  | 75.85K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | 1.3% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
 | 10:00 | EUR | Low | Business Climate (Sep) |  |  | -0.62 |
 | 10:00 | EUR | Low | Consumer Confidence (Sep) |  | -12.9 | -12.9 |
