@@ -49,14 +49,14 @@
 | 10:50 | EUR | Moderate | Italian 10-Year BTP Auction | 3.43% |  | 3.68% |
 | 10:50 | EUR | Low | Italian 5-Year BTP Auction | 2.76% |  | 3.08% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Sep) | 4 | -17 | -27 |
-| 54 min | EUR | Low | Spanish Business Confidence (Sep) |  |  | -3.6 |
-| 54 min | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.47% | 0.29% |
-| 12:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 689.46B |
-| 12:30 | BRL | Low | Bank lending (MoM) (Aug) |  |  | 0.2% |
-| 13:00 | MXN | Low | Trade Balance (Aug) |  | -0.500B | -0.072B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 1.168B |
-| 13:00 | BRL | Moderate | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
+| 12:00 | EUR | Low | Spanish Business Confidence (Sep) | -0.7 |  | -3.6 |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) | 0.62% | 0.47% | 0.29% |
+| 9 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 689.46B |
+| 24 min | BRL | Low | Bank lending (MoM) (Aug) |  |  | 0.2% |
+| 54 min | MXN | Low | Trade Balance (Aug) |  | -0.500B | -0.072B |
+| 54 min | MXN | Low | Trade Balance (USD) (Aug) |  |  | 1.168B |
+| 54 min | BRL | Moderate | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 2.7% | 2.6% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
@@ -77,8 +77,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 69.0 | 67.9 |
 | 15:00 | USD | Low | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
-| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 0.94B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -2.88B |
+| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 0.94B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

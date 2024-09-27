@@ -37,20 +37,20 @@
 | 10:00 | EUR | Industrial Sentiment (Sep) | -10.9 | -9.8 | -9.9 |
 | 10:50 | EUR | Italian 5-Year BTP Auction | 2.76% |  | 3.08% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Sep) | 4 | -17 | -27 |
-| 54 min | EUR | Spanish Business Confidence (Sep) |  |  | -3.6 |
-| 54 min | BRL | IGP-M Inflation Index (MoM) (Sep) |  | 0.47% | 0.29% |
-| 12:30 | INR | FX Reserves, USD |  |  | 689.46B |
-| 12:30 | BRL | Bank lending (MoM) (Aug) |  |  | 0.2% |
-| 13:00 | MXN | Trade Balance (Aug) |  | -0.500B | -0.072B |
-| 13:00 | MXN | Trade Balance (USD) (Aug) |  |  | 1.168B |
+| 12:00 | EUR | Spanish Business Confidence (Sep) | -0.7 |  | -3.6 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Sep) | 0.62% | 0.47% | 0.29% |
+| 24 min | INR | FX Reserves, USD |  |  | 689.46B |
+| 24 min | BRL | Bank lending (MoM) (Aug) |  |  | 0.2% |
+| 54 min | MXN | Trade Balance (Aug) |  | -0.500B | -0.072B |
+| 54 min | MXN | Trade Balance (USD) (Aug) |  |  | 1.168B |
 | 13:30 | USD | Personal Income (MoM) (Aug) |  | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Aug) |  |  | 0.4% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
 | 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 14:00 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
-| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
 | 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
+| 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -66.3K |

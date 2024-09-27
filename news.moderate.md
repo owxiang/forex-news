@@ -14,8 +14,8 @@
 | 08:55 | EUR | German Unemployment Rate (Sep) | 6.0% | 6.0% | 6.0% |
 | 09:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:50 | EUR | Italian 10-Year BTP Auction | 3.43% |  | 3.68% |
-| 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | BRL | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
+| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 54 min | BRL | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
 | 13:30 | USD | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
 | 13:30 | USD | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
 | 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
