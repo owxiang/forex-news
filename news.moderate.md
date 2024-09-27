@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.0% | 2.0% | 2.4% |
 | 01:00 | CNY | PBoC Reserve Requirement Ratio | 9.50% |  | 10.00% |
-| 07:45 | EUR | French Consumer Spending (MoM) (Aug) |  | -0.1% | 0.3% |
-| 07:45 | EUR | French CPI (MoM) (Sep) |  | -0.7% | 0.5% |
-| 07:45 | EUR | French HICP (MoM) (Sep) |  | -0.8% | 0.6% |
-| 08:00 | EUR | Spanish CPI (YoY) (Sep) |  | 1.9% | 2.3% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
-| 08:00 | EUR | Spanish HICP (YoY) (Sep) |  | 1.9% | 2.4% |
+| 36 min | EUR | French Consumer Spending (MoM) (Aug) |  | -0.1% | 0.3% |
+| 36 min | EUR | French CPI (MoM) (Sep) |  | -0.7% | 0.5% |
+| 36 min | EUR | French HICP (MoM) (Sep) |  | -0.8% | 0.6% |
+| 51 min | EUR | Spanish CPI (YoY) (Sep) |  | 1.9% | 2.3% |
+| 51 min | EUR | Spanish GDP (QoQ) (Q2) |  | 0.8% | 0.8% |
+| 51 min | EUR | Spanish HICP (YoY) (Sep) |  | 1.9% | 2.4% |
 | 08:55 | EUR | German Unemployment Change (Sep) |  | 13K | 2K |
 | 08:55 | EUR | German Unemployment Rate (Sep) |  | 6.0% | 6.0% |
 | 09:15 | EUR | ECB's Lane Speaks |  |  |  |
@@ -17,8 +17,8 @@
 | 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
 | 13:30 | USD | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
-| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
