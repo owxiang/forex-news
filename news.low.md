@@ -14,8 +14,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
-| 07:45 | EUR | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 07:45 | EUR | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
+| 07:45 | EUR | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 08:00 | EUR | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
@@ -26,8 +26,8 @@
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
 | 09:00 | NOK | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
-| 10:00 | EUR | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |
 | 10:00 | EUR | Italian PPI (MoM) (Aug) | 0.7% |  | 1.3% |
+| 10:00 | EUR | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |
 | 10:00 | EUR | Business and Consumer Survey (Sep) | 96.2 | 96.5 | 96.5 |
 | 10:00 | EUR | Business Climate (Sep) | -0.76 |  | -0.62 |
 | 10:00 | EUR | Consumer Confidence (Sep) | -12.9 | -12.9 | -12.9 |
@@ -48,8 +48,8 @@
 | 13:30 | USD | Wholesale Inventories (MoM) (Aug) | 0.2% | 0.2% | 0.3% |
 | 14:00 | BRL | CAGED Net Payroll Jobs (Aug) | 232.51K | 230.00K | 188.02K |
 | 15:00 | USD | Michigan Current Conditions (Sep) | 63.3 | 62.9 | 62.9 |
-| 16:00 | CAD | Budget Balance (Jul) | -4.40B |  | 0.94B |
 | 16:00 | CAD | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
+| 16:00 | CAD | Budget Balance (Jul) | -4.40B |  | 0.94B |
 | 20:30 | USD | CFTC Aluminium speculative net positions | 3.9K |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions | 33.1K |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions | -64.2K |  | -66.3K |
