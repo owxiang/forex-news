@@ -8,21 +8,21 @@
 | 07:45 | EUR | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
 | 07:45 | EUR | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
 | 08:00 | EUR | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.8% |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 08:00 | EUR | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
 | 08:55 | EUR | German Unemployment Change (Sep) | 17K | 13K | 4K |
 | 08:55 | EUR | German Unemployment Rate (Sep) | 6.0% | 6.0% | 6.0% |
 | 09:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:50 | EUR | Italian 10-Year BTP Auction | 3.43% |  | 3.68% |
-| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 54 min | BRL | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
-| 13:30 | USD | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
-| 13:30 | USD | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
-| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
-| 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
-| 13:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.5% |
-| 13:30 | CAD | GDP (MoM) (Jul) |  |  | 0.0% |
-| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
+| 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | BRL | Unemployment Rate (Aug) | 6.6% | 6.7% | 6.8% |
+| 21 min | USD | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
+| 21 min | USD | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
+| 21 min | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
+| 21 min | USD | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
+| 21 min | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.5% |
+| 21 min | CAD | GDP (MoM) (Jul) |  | 0.0% | 0.0% |
+| 22 min | CAD | GDP (MoM) (Aug) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 2.7% | 2.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 73.0 | 72.1 |
