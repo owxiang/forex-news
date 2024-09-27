@@ -13,7 +13,7 @@
 | 08:55 | EUR | German Unemployment Change (Sep) | 17K | 13K | 4K |
 | 08:55 | EUR | German Unemployment Rate (Sep) | 6.0% | 6.0% | 6.0% |
 | 09:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 34 min | EUR | Italian 10-Year BTP Auction |  |  | 3.68% |
+| 10:50 | EUR | Italian 10-Year BTP Auction | 3.43% |  | 3.68% |
 | 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
 | 13:30 | USD | Goods Trade Balance (Aug) |  | -100.60B | -102.84B |
@@ -21,8 +21,8 @@
 | 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.5% |
-| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (Jul) |  |  | 0.0% |
+| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 2.7% | 2.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 73.0 | 72.1 |
