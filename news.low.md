@@ -14,8 +14,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
-| 07:45 | EUR | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 07:45 | EUR | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 07:45 | EUR | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 08:00 | EUR | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
@@ -61,3 +61,4 @@
 | 20:30 | MXN | CFTC MXN speculative net positions | 12.4K |  | 7.7K |
 | 20:30 | CHF | CFTC CHF speculative net positions | -19.3K |  | -17.1K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -1.5K |  | -1.9K |
+| 22:00 | MXN | Fiscal Balance (Aug) | -4.39B |  | -137.21B |
