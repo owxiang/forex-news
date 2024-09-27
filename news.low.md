@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 1.6% |
-| 24 min | JPY | Tokyo CPI (YoY) (Sep) |  |  | 2.6% |
-| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.5% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 2,100.1B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -3,005.8B |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Sep) | 1.2% |  | 1.2% |
+| 00:30 | JPY | Tokyo CPI (YoY) (Sep) | 2.2% |  | 2.6% |
+| 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.2% |  | 0.5% |
+| 00:50 | JPY | Foreign Bonds Buying | 774.0B |  | 2,103.4B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,926.4B |  | -3,006.8B |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) |  |  | 3.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) |  | 3.0% | -3.9% |
 | 06:00 | JPY | Leading Index (MoM) (Jul) |  | 0.4% | -2.1% |
@@ -14,8 +14,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) |  | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) |  | 1.9% | 2.2% |
-| 07:45 | EUR | French PPI (MoM) (Aug) |  |  | 0.2% |
 | 07:45 | EUR | PPI (YoY) (Aug) |  |  | -5.40% |
+| 07:45 | EUR | French PPI (MoM) (Aug) |  |  | 0.2% |
 | 08:00 | EUR | Core CPI (YoY) |  |  | 2.7% |
 | 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | -0.1% | 0.0% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.9% | 2.5% |
@@ -26,8 +26,8 @@
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | -3.70% |
 | 09:00 | NOK | Unemployment Change (Sep) |  |  | 75.85K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) |  | 2.00% | 2.00% |
-| 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Italian PPI (MoM) (Aug) |  |  | 1.3% |
+| 10:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -1.1% |
 | 10:00 | EUR | Business and Consumer Survey (Sep) |  | 96.5 | 96.6 |
 | 10:00 | EUR | Business Climate (Sep) |  |  | -0.62 |
 | 10:00 | EUR | Consumer Confidence (Sep) |  | -12.9 | -12.9 |
@@ -49,8 +49,8 @@
 | 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 14:00 | BRL | CAGED Net Payroll Jobs (Aug) |  | 230.00K | 188.02K |
 | 15:00 | USD | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
-| 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
 | 16:00 | CAD | Budget Balance (Jul) |  |  | 0.94B |
+| 16:00 | CAD | Budget Balance (YoY) (Jul) |  |  | -2.88B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -66.3K |

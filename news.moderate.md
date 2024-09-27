@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Tokyo Core CPI (YoY) (Sep) |  | 2.0% | 2.4% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.0% | 2.0% | 2.4% |
 | 02:30 | AUD | RBA Financial Stability Review |  |  |  |
 | 07:45 | EUR | French Consumer Spending (MoM) (Aug) |  | -0.1% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Sep) |  | -0.7% | 0.5% |
@@ -17,12 +17,12 @@
 | 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Aug) |  | 6.7% | 6.8% |
 | 13:30 | USD | Goods Trade Balance (Aug) |  | -100.20B | -102.84B |
-| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Aug) |  | 2.3% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) |  | 0.3% | 0.5% |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.5% |
-| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (Jul) |  |  | 0.0% |
+| 13:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 2.7% | 2.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Sep) |  | 73.0 | 72.1 |
