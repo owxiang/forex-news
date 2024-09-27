@@ -11,29 +11,29 @@
 | 01:00 | CNY | Moderate | PBoC Reserve Requirement Ratio | 9.50% |  | 10.00% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Low | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
+| 06:00 | JPY | Low | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.2% | -0.1% | 0.2% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Sep) | 17K | 13K | 4K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Sep) | 6.0% | 6.0% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
 | 09:00 | NOK | Low | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -70,14 +70,14 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Jul) | 0.2% | 0.0% | 0.0% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Aug) | 0.0% |  | 0.2% |
 | 14:00 | BRL | Low | CAGED Net Payroll Jobs (Aug) | 232.51K | 230.00K | 188.02K |
-| 49 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  | 2.7% | 2.8% |
-| 49 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  | 3.1% | 3.0% |
-| 49 min | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 73.0 | 72.1 |
-| 49 min | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 69.0 | 67.9 |
-| 49 min | USD | Low | Michigan Current Conditions (Sep) |  | 62.9 | 61.3 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -2.88B |
-| 16:00 | CAD | Low | Budget Balance (Jul) |  |  | 0.94B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 2.7% | 2.7% | 2.7% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) | 3.1% | 3.1% | 3.1% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Sep) | 74.4 | 73.0 | 73.0 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 70.1 | 69.0 | 69.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Sep) | 63.3 | 62.9 | 62.9 |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
+| 54 min | CAD | Low | Budget Balance (Jul) |  |  | 0.94B |
+| 54 min | CAD | Low | Budget Balance (YoY) (Jul) |  |  | -2.88B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
