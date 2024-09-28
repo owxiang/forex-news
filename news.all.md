@@ -69,8 +69,8 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) | -1.5% |  | 1.4% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.4% |  | 4.6% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | Low | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
@@ -213,8 +213,8 @@
 | 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |

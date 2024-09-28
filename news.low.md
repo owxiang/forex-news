@@ -40,8 +40,8 @@
 | 13:00 | MXN | 1st Half-Month CPI (Sep) | 0.09% | 0.15% | -0.03% |
 | 13:30 | CAD | Manufacturing Sales (MoM) | -1.5% |  | 1.4% |
 | 13:55 | USD | Redbook (YoY) | 4.4% |  | 4.6% |
-| 14:00 | USD | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 14:00 | USD | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
 | 15:00 | USD | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
