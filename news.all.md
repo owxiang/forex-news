@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 23:45 | NZD | Low | Exports (Aug) | 4.97B |  | 6.09B |
 | 23:45 | NZD | Low | Imports (Aug) | 7.17B |  | 7.10B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Aug) | -2,203M | -155M | -1,016M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Sep) | 46.7 |  | 48.5 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Sep) | 50.6 |  | 52.5 |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.30% |  | 7.60% |
@@ -103,12 +103,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 148.2 |  | 146.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 296.1 |  | 266.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,132.9 |  | 941.4 |
-| 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | USD | Moderate | Building Permits (Aug) | 1.470M | 1.475M | 1.406M |
+| 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | BRL | Low | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
 | 15:00 | USD | High | New Home Sales (Aug) | 716K | 699K | 751K |
@@ -147,8 +147,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
@@ -210,8 +210,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
-| 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
@@ -267,8 +267,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 70.1 | 69.0 | 69.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Sep) | 63.3 | 62.9 | 62.9 |
 | 15:15 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.1% | 2.9% | 2.9% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 16:00 | CAD | Low | Budget Balance (Jul) | -4.40B |  | 0.94B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 484 |  | 488 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 587 |  | 588 |
 | 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
