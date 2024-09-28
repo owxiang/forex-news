@@ -18,8 +18,8 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) | -35 | -23 | -22 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
 | 13:00 | MXN | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
+| 13:00 | MXN | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
 | 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
 | 13:30 | USD | Chicago Fed National Activity (Aug) | 0.12 | -0.20 | -0.42 |
@@ -78,8 +78,8 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.7% |
 | 15:30 | USD | Gasoline Inventories | -1.538M | 0.200M | 0.069M |
 | 18:30 | BRL | Foreign Exchange Flows | -3.058B |  | -0.331B |
-| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 86.7 | 87.1 | 87.0 |
@@ -136,8 +136,8 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
 | 08:55 | EUR | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | NOK | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |

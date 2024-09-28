@@ -32,8 +32,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) | 0.12 | -0.20 | -0.42 |
@@ -103,15 +103,15 @@
 | 12:00 | USD | Low | MBA Purchase Index | 148.2 |  | 146.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 296.1 |  | 266.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,132.9 |  | 941.4 |
-| 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | USD | Moderate | Building Permits (Aug) | 1.470M | 1.475M | 1.406M |
+| 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | BRL | Low | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
 | 15:00 | USD | High | New Home Sales (Aug) | 716K | 699K | 751K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
 | 15:30 | USD | High | Crude Oil Inventories | -4.471M | -1.300M | -1.630M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.826M |  | -1.829M |
@@ -126,8 +126,8 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -3.058B |  | -0.331B |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
@@ -206,10 +206,10 @@
 | 06:00 | JPY | Low | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.2% | -0.1% | 0.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
-| 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
+| 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
@@ -223,8 +223,8 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Sep) | 6.0% | 6.0% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | NOK | Low | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
