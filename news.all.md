@@ -73,8 +73,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
 | 14:00 | USD | Low | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
 | 15:00 | USD | High | CB Consumer Confidence (Sep) | 98.7 | 103.9 | 105.6 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | -18 |  | -15 |
@@ -215,8 +215,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Sep) | 17K | 13K | 4K |
@@ -228,8 +228,8 @@
 | 09:00 | NOK | Low | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian PPI (MoM) (Aug) | 0.7% |  | 1.3% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Aug) | 0.7% |  | 1.3% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Sep) | 96.2 | 96.5 | 96.5 |
 | 10:00 | EUR | Low | Business Climate (Sep) | -0.76 |  | -0.62 |
 | 10:00 | EUR | Low | Consumer Confidence (Sep) | -12.9 | -12.9 | -12.9 |
