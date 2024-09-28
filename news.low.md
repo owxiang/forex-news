@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 23:45 | NZD | Exports (Aug) | 4.97B |  | 6.09B |
 | 23:45 | NZD | Imports (Aug) | 7.17B |  | 7.10B |
-| 23:45 | NZD | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 23:45 | NZD | Trade Balance (MoM) (Aug) | -2,203M | -155M | -1,016M |
+| 23:45 | NZD | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Sep) | 46.7 |  | 48.5 |
 | 00:00 | AUD | Judo Bank Australia Services PMI (Sep) | 50.6 |  | 52.5 |
 | 05:00 | IDR | M2 Money Supply (YoY) (Aug) | 7.30% |  | 7.60% |
@@ -18,8 +18,8 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Sep) | -35 | -23 | -22 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
 | 13:00 | MXN | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
+| 13:00 | MXN | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
 | 13:00 | MXN | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
 | 13:30 | USD | Chicago Fed National Activity (Aug) | 0.12 | -0.20 | -0.42 |
@@ -29,8 +29,8 @@
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 4.540% |  | 4.750% |
 | 16:30 | USD | 6-Month Bill Auction | 4.270% |  | 4.410% |
-| 22:00 | KRW | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 22:00 | KRW | PPI (YoY) (Aug) | 1.6% |  | 2.6% |
+| 22:00 | KRW | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
 | 06:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:40 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.410% |
@@ -40,8 +40,8 @@
 | 13:00 | MXN | 1st Half-Month CPI (Sep) | 0.09% | 0.15% | -0.03% |
 | 13:30 | CAD | Manufacturing Sales (MoM) | -1.5% |  | 1.4% |
 | 13:55 | USD | Redbook (YoY) | 4.4% |  | 4.6% |
-| 14:00 | USD | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 14:00 | USD | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
 | 15:00 | USD | Richmond Manufacturing Index (Sep) | -21 | -13 | -19 |
@@ -67,8 +67,8 @@
 | 12:30 | USD | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | BRL | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
 | 12:30 | BRL | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
 | 15:30 | USD | Crude Oil Imports | 0.826M |  | -1.829M |
 | 15:30 | USD | Distillate Fuel Production | -0.158M |  | -0.153M |
@@ -92,8 +92,8 @@
 | 09:30 | HKD | Imports (MoM) (Aug) | 7.9% |  | 9.9% |
 | 09:30 | HKD | Trade Balance (Aug) | -33.1B |  | -21.8B |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
-| 10:30 | ZAR | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 10:30 | ZAR | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
+| 10:30 | ZAR | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
@@ -123,8 +123,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,926.4B |  | -3,006.8B |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
+| 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
@@ -162,8 +162,8 @@
 | 13:30 | USD | Wholesale Inventories (MoM) (Aug) | 0.2% | 0.2% | 0.3% |
 | 14:00 | BRL | CAGED Net Payroll Jobs (Aug) | 232.51K | 230.00K | 188.02K |
 | 15:00 | USD | Michigan Current Conditions (Sep) | 63.3 | 62.9 | 62.9 |
-| 16:00 | CAD | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 16:00 | CAD | Budget Balance (Jul) | -4.40B |  | 0.94B |
+| 16:00 | CAD | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 20:30 | USD | CFTC Aluminium speculative net positions | 3.9K |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions | 33.1K |  | 19.7K |
 | 20:30 | USD | CFTC Corn speculative net positions | -64.2K |  | -66.3K |

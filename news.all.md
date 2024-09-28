@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 23:45 | NZD | Low | Exports (Aug) | 4.97B |  | 6.09B |
 | 23:45 | NZD | Low | Imports (Aug) | 7.17B |  | 7.10B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Aug) | -2,203M | -155M | -1,016M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Sep) | 46.7 |  | 48.5 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Sep) | 50.6 |  | 52.5 |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 7.30% |  | 7.60% |
@@ -32,8 +32,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) | 0.12 | -0.20 | -0.42 |
@@ -49,8 +49,8 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.270% |  | 4.410% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 22:00 | KRW | Low | PPI (YoY) (Aug) | 1.6% |  | 2.6% |
+| 22:00 | KRW | Low | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) | 53.9 |  | 53.7 |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Sep) | 4.35% | 4.35% | 4.35% |
@@ -69,8 +69,8 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) | -1.5% |  | 1.4% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.4% |  | 4.6% |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | Low | House Price Index (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 14:00 | USD | Low | House Price Index (YoY) (Jul) | 4.5% |  | 5.3% |
 | 14:00 | USD | Low | House Price Index (Jul) | 425.2 |  | 424.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.3% |  | 0.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
@@ -107,8 +107,8 @@
 | 12:30 | USD | Low | Building Permits (MoM) (Aug) | 4.6% | 4.9% | -3.3% |
 | 12:30 | BRL | Low | Current Account (USD) (Aug) | -6.60B | -5.10B | -5.20B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Aug) | 6.10B | 7.00B | 7.30B |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 15:00 | USD | High | New Home Sales (Aug) | 716K | 699K | 751K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
@@ -147,8 +147,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.112% |  | 3.247% |
 | 10:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Aug) | 2.8% |  | 4.2% |
+| 10:30 | ZAR | Low | PPI (MoM) (Aug) | -0.3% |  | -0.2% |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Aug) | 0.61% |  | 1.53% |
@@ -202,19 +202,19 @@
 | 01:00 | CNY | Moderate | PBoC Reserve Requirement Ratio | 9.50% |  | 10.00% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Low | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
+| 06:00 | JPY | Low | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | 0.2% | -0.1% | 0.2% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
@@ -267,8 +267,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 70.1 | 69.0 | 69.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Sep) | 63.3 | 62.9 | 62.9 |
 | 15:15 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.1% | 2.9% | 2.9% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 16:00 | CAD | Low | Budget Balance (Jul) | -4.40B |  | 0.94B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Jul) | -7.30B |  | -2.88B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 484 |  | 488 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 587 |  | 588 |
 | 18:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
