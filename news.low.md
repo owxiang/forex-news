@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 23:45 | NZD | Exports (Aug) | 4.97B |  | 6.09B |
 | 23:45 | NZD | Imports (Aug) | 7.17B |  | 7.10B |
-| 23:45 | NZD | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 23:45 | NZD | Trade Balance (MoM) (Aug) | -2,203M | -155M | -1,016M |
+| 23:45 | NZD | Trade Balance (YoY) (Aug) | -9,290M |  | -9,350M |
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Sep) | 46.7 |  | 48.5 |
 | 00:00 | AUD | Judo Bank Australia Services PMI (Sep) | 50.6 |  | 52.5 |
 | 05:00 | IDR | M2 Money Supply (YoY) (Aug) | 7.30% |  | 7.60% |
@@ -29,8 +29,8 @@
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 4.540% |  | 4.750% |
 | 16:30 | USD | 6-Month Bill Auction | 4.270% |  | 4.410% |
-| 22:00 | KRW | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 22:00 | KRW | PPI (YoY) (Aug) | 1.6% |  | 2.6% |
+| 22:00 | KRW | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
 | 06:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:40 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.410% |
@@ -78,8 +78,8 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.7% |
 | 15:30 | USD | Gasoline Inventories | -1.538M | 0.200M | 0.069M |
 | 18:30 | BRL | Foreign Exchange Flows | -3.058B |  | -0.331B |
-| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 86.7 | 87.1 | 87.0 |
@@ -123,8 +123,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -1,926.4B |  | -3,006.8B |
 | 02:30 | CNY | Chinese Industrial profit YTD (Aug) | 0.5% |  | 3.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Jul) | 3.1% | 3.0% | -3.9% |
-| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 06:00 | JPY | Leading Index (Jul) | 109.3 | 109.5 | 109.1 |
+| 06:00 | JPY | Leading Index (MoM) (Jul) | 0.2% | 0.4% | -2.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
@@ -136,12 +136,12 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
 | 08:55 | EUR | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | NOK | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
-| 10:00 | EUR | Italian PPI (MoM) (Aug) | 0.7% |  | 1.3% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |
+| 10:00 | EUR | Italian PPI (MoM) (Aug) | 0.7% |  | 1.3% |
 | 10:00 | EUR | Business and Consumer Survey (Sep) | 96.2 | 96.5 | 96.5 |
 | 10:00 | EUR | Business Climate (Sep) | -0.76 |  | -0.62 |
 | 10:00 | EUR | Consumer Confidence (Sep) | -12.9 | -12.9 | -12.9 |
