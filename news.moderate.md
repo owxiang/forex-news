@@ -28,8 +28,8 @@
 | 09:00 | EUR | German Ifo Business Climate Index (Sep) | 85.4 | 86.1 | 86.6 |
 | 13:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.0% |  | 0.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 5.9% | 5.9% | 6.5% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:55 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 3.520% |  | 3.874% |
