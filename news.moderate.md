@@ -83,8 +83,8 @@
 | 12:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (Aug) | 6.6% | 6.7% | 6.8% |
 | 13:30 | USD | Goods Trade Balance (Aug) | -94.26B | -100.60B | -102.84B |
-| 13:30 | USD | PCE Price index (YoY) (Aug) | 2.2% | 2.3% | 2.5% |
 | 13:30 | USD | PCE price index (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | PCE Price index (YoY) (Aug) | 2.2% | 2.3% | 2.5% |
 | 13:30 | USD | Personal Spending (MoM) (Aug) | 0.2% | 0.3% | 0.5% |
 | 13:30 | USD | Retail Inventories Ex Auto (Aug) | 0.4% |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Jul) | 0.2% | 0.0% | 0.0% |
