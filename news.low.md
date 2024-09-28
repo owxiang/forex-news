@@ -29,8 +29,8 @@
 | 15:15 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 4.540% |  | 4.750% |
 | 16:30 | USD | 6-Month Bill Auction | 4.270% |  | 4.410% |
-| 22:00 | KRW | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 22:00 | KRW | PPI (YoY) (Aug) | 1.6% |  | 2.6% |
+| 22:00 | KRW | PPI (MoM) (Aug) | -0.1% |  | 0.3% |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.6 | 49.9 | 49.8 |
 | 06:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:40 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.410% |
@@ -78,8 +78,8 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.7% |
 | 15:30 | USD | Gasoline Inventories | -1.538M | 0.200M | 0.069M |
 | 18:30 | BRL | Foreign Exchange Flows | -3.058B |  | -0.331B |
-| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 06:00 | SGD | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
 | 07:00 | NOK | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
 | 09:00 | EUR | Italian Business Confidence (Sep) | 86.7 | 87.1 | 87.0 |
@@ -128,16 +128,16 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Aug) | 0.1% | 0.6% | 1.2% |
 | 07:45 | EUR | French CPI (YoY) (Sep) | 1.2% | 1.6% | 1.8% |
 | 07:45 | EUR | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
-| 07:45 | EUR | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 07:45 | EUR | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
+| 07:45 | EUR | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
 | 08:00 | EUR | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
 | 08:55 | EUR | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
 | 09:00 | NOK | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 10:00 | EUR | Italian PPI (YoY) (Aug) | -0.8% |  | -1.1% |
