@@ -34,8 +34,8 @@
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.60% |  | 0.20% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.80% | 1.80% | -0.40% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Jul) | -0.6% | -0.5% | -3.1% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.7% |  | -0.5% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Aug) | 0.12 | -0.20 | -0.42 |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | 0.0% | 0.1% | 0.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.789% |  | 2.823% |
@@ -110,8 +110,8 @@
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.13% | 0.29% | 0.19% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 4.12% | 4.29% | 4.35% |
 | 13:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | USD | High | New Home Sales (Aug) | 716K | 699K | 751K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Aug) | -4.7% |  | 10.3% |
+| 15:00 | USD | High | New Home Sales (Aug) | 716K | 699K | 751K |
 | 15:30 | USD | High | Crude Oil Inventories | -4.471M | -1.300M | -1.630M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.124M |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.826M |  | -1.829M |
@@ -126,8 +126,8 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -3.058B |  | -0.331B |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 03:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Aug) | 6.7% | -4.0% | 10.2% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Aug) | 21.0% | 9.6% | 2.0% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -21.2 | -22.4 | -21.9 |
 | 07:00 | NOK | Low | Unemployment Rate (Aug) | 4.0% | 3.9% | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 2.3% | 1.9% | 1.1% |
@@ -210,21 +210,21 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.2% | -0.7% | 0.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.2% | -0.8% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.5% | 1.9% | 2.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 07:45 | EUR | Low | PPI (YoY) (Aug) | -6.30% |  | -5.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 2.4% |  | 2.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.9% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.1% | 0.0% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 3.1% | 2.9% | 2.5% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.8% | 0.8% | 0.9% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | -0.1% | 0.0% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.9% | 2.4% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Sep) | 17K | 13K | 4K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Sep) | 6.0% | 6.0% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Sep) | 2.823M |  | 2.801M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Sep) | 2.806M |  | 2.872M |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | -0.40% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | -4.70% |  | -4.40% |
 | 09:00 | NOK | Low | Unemployment Change (Sep) | 77.26K |  | 75.90K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) | 2.00% | 2.00% | 2.00% |
 | 09:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
