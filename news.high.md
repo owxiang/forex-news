@@ -13,5 +13,5 @@
 | 13:30 | USD | GDP (QoQ) (Q2) | 3.0% | 3.0% | 1.6% |
 | 13:30 | USD | Initial Jobless Claims | 218K | 224K | 222K |
 | 14:20 | USD | Fed Chair Powell Speaks |  |  |  |
-| 13:30 | USD | Core PCE Price Index (YoY) (Aug) | 2.7% | 2.7% | 2.6% |
 | 13:30 | USD | Core PCE Price Index (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | Core PCE Price Index (YoY) (Aug) | 2.7% | 2.7% | 2.6% |
