@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Aug) |  |  | -3.6% |
 | 00:00 | KRW | Industrial Production (YoY) (Aug) |  |  | 5.5% |
+| 00:00 | KRW | Industrial Production (MoM) (Aug) |  |  | -3.6% |
 | 00:00 | KRW | Retail Sales (MoM) (Aug) |  |  | -1.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.7% |
 | 00:30 | JPY | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
@@ -29,18 +29,18 @@
 | 08:00 | CHF | Official Reserves Assets (Aug) |  |  | 787.6B |
 | 08:00 | HKD | M3 Money Supply (Aug) |  |  | 2.0% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Spanish Current account (Jul) |  |  | 5.02B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Aug) |  |  | 1.215B |
