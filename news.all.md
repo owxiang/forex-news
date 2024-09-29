@@ -26,11 +26,11 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.385% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Aug) |  |  | 62.8% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Aug) |  | -3.3% | -0.2% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  | -1.1% | -1.1% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 07:00 | GBP | Moderate | Current Account (Q2) |  | -32.5B | -21.0B |
-| 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
 | 07:00 | GBP | High | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
+| 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.3% | -0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  |  | 2.4% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | -0.4% | -0.4% |
@@ -53,8 +53,8 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) |  |  | 5.02B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Oct) |  |  | 400.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) |  |  | 1.215B |
@@ -78,8 +78,8 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 78.5% |
 | 13:00 | INR | Low | Current Account (USD) (Q2) |  |  | 5.70B |
 | 13:00 | INR | Low | Infrastructure Output (YoY) (Aug) |  |  | 6.1% |
-| 13:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.1% | -0.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Sep) |  |  | 1.9% |
+| 13:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.1% | -0.1% |
 | 13:00 | EUR | Low | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Sep) |  |  | 2.0% |
 | 13:00 | ZAR | Low | Trade Balance (Aug) |  |  | 17.61B |

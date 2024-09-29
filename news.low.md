@@ -39,8 +39,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
-| 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Spanish Current account (Jul) |  |  | 5.02B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Aug) |  |  | 1.215B |
