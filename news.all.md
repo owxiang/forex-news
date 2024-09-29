@@ -47,8 +47,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
