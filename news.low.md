@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Aug) |  |  | -3.6% |
 | 00:00 | KRW | Industrial Production (YoY) (Aug) |  |  | 5.5% |
+| 00:00 | KRW | Industrial Production (MoM) (Aug) |  |  | -3.6% |
 | 00:00 | KRW | Retail Sales (MoM) (Aug) |  |  | -1.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.7% |
 | 00:30 | JPY | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
@@ -31,16 +31,16 @@
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Spanish Current account (Jul) |  |  | 5.02B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Aug) |  |  | 1.215B |
@@ -51,8 +51,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 1.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) |  |  | 1.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 11:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
 | 12:00 | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
 | 12:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.3% |
@@ -63,8 +63,8 @@
 | 12:30 | BRL | Budget Surplus (Aug) |  |  | -21.348B |
 | 13:00 | INR | Current Account (USD) (Q2) |  |  | 5.70B |
 | 13:00 | INR | Infrastructure Output (YoY) (Aug) |  |  | 6.1% |
-| 13:00 | EUR | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Sep) |  |  | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | ZAR | Trade Balance (Aug) |  |  | 17.61B |
 | 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.789% |
