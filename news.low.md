@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Aug) |  |  | 5.5% |
-| 00:00 | KRW | Industrial Production (MoM) (Aug) |  |  | -3.6% |
-| 00:00 | KRW | Retail Sales (MoM) (Aug) |  |  | -1.9% |
-| 00:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.7% |
-| 00:30 | JPY | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
-| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.2% |
-| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | -3.3% |
-| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
-| 00:50 | JPY | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
-| 01:00 | NZD | ANZ Business Confidence (Sep) |  |  | 50.6 |
-| 01:00 | NZD | NBNZ Own Activity (Sep) |  |  | 37.1% |
+| 00:00 | KRW | Industrial Production (YoY) (Aug) | 3.8% |  | 5.2% |
+| 00:00 | KRW | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
+| 00:00 | KRW | Retail Sales (MoM) (Aug) | 1.7% |  | -2.0% |
+| 00:00 | KRW | Service Sector Output (MoM) (Aug) | 0.2% |  | 0.3% |
+| 25 min | JPY | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
+| 45 min | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.2% |
+| 45 min | JPY | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | -3.3% |
+| 45 min | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
+| 45 min | JPY | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
+| 55 min | NZD | ANZ Business Confidence (Sep) |  |  | 50.6 |
+| 55 min | NZD | NBNZ Own Activity (Sep) |  |  | 37.1% |
 | 02:30 | AUD | Housing Credit (Aug) |  |  | 0.5% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Aug) |  | 0.5% | 0.5% |
 | 03:00 | SGD | Bank Lending (Aug) |  |  | 801.2B |
@@ -29,16 +29,16 @@
 | 08:00 | CHF | Official Reserves Assets (Aug) |  |  | 787.6B |
 | 08:00 | HKD | M3 Money Supply (Aug) |  |  | 2.0% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Spanish Current account (Jul) |  |  | 5.02B |

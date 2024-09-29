@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Aug) |  |  | 5.5% |
-| 00:00 | KRW | Low | Industrial Production (MoM) (Aug) |  |  | -3.6% |
-| 00:00 | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -1.9% |
-| 00:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.7% |
-| 00:30 | JPY | Low | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
-| 00:50 | JPY | Moderate | Industrial Production (MoM) (Aug) |  | -0.5% | 3.1% |
-| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.2% |
-| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | -3.3% |
-| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
-| 00:50 | JPY | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
-| 01:00 | NZD | Low | ANZ Business Confidence (Sep) |  |  | 50.6 |
-| 01:00 | NZD | Low | NBNZ Own Activity (Sep) |  |  | 37.1% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Aug) | 3.8% |  | 5.2% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
+| 00:00 | KRW | Low | Retail Sales (MoM) (Aug) | 1.7% |  | -2.0% |
+| 00:00 | KRW | Low | Service Sector Output (MoM) (Aug) | 0.2% |  | 0.3% |
+| 25 min | JPY | Low | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
+| 45 min | JPY | Moderate | Industrial Production (MoM) (Aug) |  | -0.5% | 3.1% |
+| 45 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.2% |
+| 45 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | -3.3% |
+| 45 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
+| 45 min | JPY | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
+| 55 min | NZD | Low | ANZ Business Confidence (Sep) |  |  | 50.6 |
+| 55 min | NZD | Low | NBNZ Own Activity (Sep) |  |  | 37.1% |
 | 02:30 | AUD | Low | Housing Credit (Aug) |  |  | 0.5% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (Aug) |  | 0.5% | 0.5% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Sep) |  |  | 50.1 |
@@ -43,16 +43,16 @@
 | 08:00 | CHF | Low | Official Reserves Assets (Aug) |  |  | 787.6B |
 | 08:00 | HKD | Low | M3 Money Supply (Aug) |  |  | 2.0% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) |  |  | 5.02B |

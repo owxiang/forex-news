@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Industrial Production (MoM) (Aug) |  | -0.5% | 3.1% |
+| 45 min | JPY | Industrial Production (MoM) (Aug) |  | -0.5% | 3.1% |
 | 02:30 | CNY | Chinese Composite PMI (Sep) |  |  | 50.1 |
 | 02:30 | CNY | Non-Manufacturing PMI (Sep) |  | 50.4 | 50.3 |
 | 02:45 | CNY | Caixin Manufacturing PMI (Sep) |  | 50.5 | 50.4 |
