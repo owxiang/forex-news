@@ -31,8 +31,8 @@
 | 07:00 | GBP | Moderate | Current Account (Q2) |  | -32.5B | -21.0B |
 | 07:00 | GBP | High | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  |  | 2.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.3% | -0.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  |  | 2.4% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | -0.4% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Aug) |  |  | 0.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  |  | -1.2% |
@@ -43,18 +43,18 @@
 | 08:00 | CHF | Low | Official Reserves Assets (Aug) |  |  | 787.6B |
 | 08:00 | HKD | Low | M3 Money Supply (Aug) |  |  | 2.0% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) |  |  | 5.02B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Oct) |  |  | 400.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) |  |  | 1.215B |
@@ -63,8 +63,8 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Aug) |  | 64.00K | 61.99K |
 | 09:30 | GBP | Low | Mortgage Lending (Aug) |  |  | 2.79B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Sep) |  |  | 1.1% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Sep) |  |  | 1.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Sep) |  |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
