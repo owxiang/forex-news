@@ -9,6 +9,8 @@
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (Aug) | -3.3% | -0.5% | 3.1% |
 | 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Sep) | 2.0% |  | 2.2% |
 | 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Oct) | 6.1% |  | -3.3% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Aug) | 0.8% |  | 0.2% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) | 5.0% |  | 1.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (Aug) | 2.8% | 2.6% | 2.7% |
 | 01:00 | NZD | Low | ANZ Business Confidence (Sep) | 60.9 |  | 50.6 |
 | 01:00 | NZD | Low | NBNZ Own Activity (Sep) | 45.3% |  | 37.1% |
@@ -20,19 +22,17 @@
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Sep) | 49.3 | 50.5 | 50.4 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Sep) | 50.3 | 51.6 | 51.6 |
 | 03:00 | SGD | Low | Bank Lending (Aug) | 800.0B |  | 801.2B |
-| 03:00 | NZD | Low | M3 Money Supply (Aug) | 415,026.0B |  | 416,089.0B |
-| 21 min | JPY | Low | 2-Year JGB Auction |  |  | 0.385% |
-| 46 min | JPY | Low | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
-| 46 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
-| 06:00 | JPY | Low | Construction Orders (YoY) (Aug) |  |  | 62.8% |
-| 06:00 | JPY | Low | Housing Starts (YoY) (Aug) |  | -3.3% | -0.2% |
+| 03:00 | NZD | Low | M3 Money Supply (Aug) | 415.0B |  | 416.1B |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.392% |  | 0.385% |
+| 52 min | JPY | Low | Construction Orders (YoY) (Aug) |  |  | 62.8% |
+| 52 min | JPY | Low | Housing Starts (YoY) (Aug) |  | -3.3% | -0.2% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  | -1.1% | -1.1% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 07:00 | GBP | Moderate | Current Account (Q2) |  | -32.5B | -21.0B |
 | 07:00 | GBP | High | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.3% | -0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  |  | 2.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Sep) |  | 0.3% | -0.2% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | -0.4% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Aug) |  |  | 0.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  |  | -1.2% |
@@ -48,8 +48,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
@@ -63,8 +63,8 @@
 | 09:30 | GBP | Low | Mortgage Lending (Aug) |  |  | 2.79B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
 | 09:30 | HKD | Low | M3 Money Supply (Aug) |  |  | 2.0% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Sep) |  |  | 1.1% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Sep) |  |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |

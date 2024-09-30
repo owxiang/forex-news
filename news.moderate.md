@@ -9,8 +9,8 @@
 | 02:45 | CNY | Caixin Services PMI (Sep) | 50.3 | 51.6 | 51.6 |
 | 07:00 | GBP | Business Investment (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 07:00 | GBP | Current Account (Q2) |  | -32.5B | -21.0B |
-| 07:00 | GBP | Nationwide HPI (MoM) (Sep) |  | 0.3% | -0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Sep) |  |  | 2.4% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Sep) |  | 0.3% | -0.2% |
 | 07:00 | EUR | German Retail Sales (MoM) (May) |  |  | -1.2% |
 | 08:00 | CHF | KOF Leading Indicators (Sep) |  | 101.0 | 101.6 |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 78.5% |
