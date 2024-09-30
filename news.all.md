@@ -14,13 +14,13 @@
 | 01:00 | NZD | Low | NBNZ Own Activity (Sep) | 45.3% |  | 37.1% |
 | 02:30 | AUD | Low | Housing Credit (Aug) |  |  | 0.5% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (Aug) |  | 0.5% | 0.5% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Sep) |  |  | 50.1 |
-| 02:30 | CNY | High | Manufacturing PMI (Sep) |  | 49.4 | 49.1 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Sep) |  | 50.4 | 50.3 |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Sep) |  | 50.5 | 50.4 |
-| 02:45 | CNY | Moderate | Caixin Services PMI (Sep) |  | 51.6 | 51.6 |
-| 03:00 | SGD | Low | Bank Lending (Aug) |  |  | 801.2B |
-| 03:00 | NZD | Low | M3 Money Supply (Aug) |  |  | 416,089.0B |
+| 02:30 | CNY | Moderate | Chinese Composite PMI (Sep) | 50.4 |  | 50.1 |
+| 02:30 | CNY | High | Manufacturing PMI (Sep) | 49.8 | 49.4 | 49.1 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Sep) | 50.0 | 50.4 | 50.3 |
+| 11 min | CNY | Moderate | Caixin Manufacturing PMI (Sep) |  | 50.5 | 50.4 |
+| 11 min | CNY | Moderate | Caixin Services PMI (Sep) |  | 51.6 | 51.6 |
+| 26 min | SGD | Low | Bank Lending (Aug) |  |  | 801.2B |
+| 26 min | NZD | Low | M3 Money Supply (Aug) |  |  | 416,089.0B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.385% |
 | 05:00 | JPY | Low | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
 | 05:00 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
@@ -53,8 +53,8 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) |  |  | 5.02B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Oct) |  |  | 400.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) |  |  | 1.215B |
