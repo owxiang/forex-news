@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
 | 00:00 | KRW | Industrial Production (YoY) (Aug) | 3.8% |  | 5.2% |
+| 00:00 | KRW | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
 | 00:00 | KRW | Retail Sales (MoM) (Aug) | 1.7% |  | -2.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Aug) | 0.2% |  | 0.3% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) | 2.0% |  | 2.2% |
@@ -37,8 +37,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
-| 09:00 | EUR | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) | 2.4% |  | 2.6% |
+| 09:00 | EUR | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
 | 09:00 | EUR | Spanish Current account (Jul) | 5.79B |  | 5.02B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) | 400.0M |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Aug) | 1.295B |  | 1.231B |
@@ -73,8 +73,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 3.250% |  | 3.367% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.028% |  | 3.116% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Sep) | -9.0 | -4.5 | -9.7 |
-| 24 min | USD | 3-Month Bill Auction |  |  | 4.540% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 4.270% |
+| 16:30 | USD | 3-Month Bill Auction | 4.500% |  | 4.540% |
+| 16:30 | USD | 6-Month Bill Auction | 4.215% |  | 4.270% |
 | 22:00 | MXN | Fiscal Balance (Aug) |  |  | -137.21B |
 | 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 88.7% |
 | 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | 26.2% |

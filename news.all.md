@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Aug) | 3.8% |  | 5.2% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Aug) | 1.7% |  | -2.0% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Aug) | 0.2% |  | 0.3% |
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (Aug) | -3.3% | -0.5% | 3.1% |
@@ -50,8 +50,8 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 2.4% |  | 2.6% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
 | 09:00 | EUR | Low | Spanish Current account (Jul) | 5.79B |  | 5.02B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Oct) | 400.0M |  | 400.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Aug) | 1.295B |  | 1.231B |
@@ -92,8 +92,8 @@
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | High | Chicago PMI (Sep) | 46.6 | 46.1 | 46.1 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) | -9.0 | -4.5 | -9.7 |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.540% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.270% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.500% |  | 4.540% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.215% |  | 4.270% |
 | 18:55 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 22:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -137.21B |
 | 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -44% |
