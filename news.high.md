@@ -7,4 +7,4 @@
 | 07:00 | GBP | GDP (YoY) (Q2) | 0.7% | 0.9% | 0.3% |
 | 13:00 | EUR | German CPI (MoM) (Sep) | 0.0% | 0.1% | -0.1% |
 | 14:45 | USD | Chicago PMI (Sep) | 46.6 | 46.1 | 46.1 |
-| 18:55 | USD | Fed Chair Powell Speaks |  |  |  |
+| 49 min | USD | Fed Chair Powell Speaks |  |  |  |
