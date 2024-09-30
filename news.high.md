@@ -1,10 +1,9 @@
-## 30 September 2024 - High Impact Forex News
+## 01 October 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Sep) | 49.8 | 49.4 | 49.1 |
-| 07:00 | GBP | GDP (QoQ) (Q2) | 0.5% | 0.6% | 0.7% |
-| 07:00 | GBP | GDP (YoY) (Q2) | 0.7% | 0.9% | 0.3% |
-| 13:00 | EUR | German CPI (MoM) (Sep) | 0.0% | 0.1% | -0.1% |
-| 14:45 | USD | Chicago PMI (Sep) | 46.6 | 46.1 | 46.1 |
-| 18:55 | USD | Fed Chair Powell Speaks |  |  |  |
+| 10:00 | EUR | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 14:45 | USD | S&P Global US Manufacturing PMI (Sep) |  | 47.0 | 47.9 |
+| 15:00 | USD | ISM Manufacturing PMI (Sep) |  | 47.6 | 47.2 |
+| 15:00 | USD | ISM Manufacturing Prices (Sep) |  | 53.7 | 54.0 |
+| 15:00 | USD | JOLTs Job Openings (Aug) |  | 7.640M | 7.673M |

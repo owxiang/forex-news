@@ -1,19 +1,25 @@
-## 30 September 2024 - Moderate Impact Forex News
+## 01 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Industrial Production (MoM) (Aug) | -3.3% | -0.5% | 3.1% |
-| 02:30 | CNY | Chinese Composite PMI (Sep) | 50.4 |  | 50.1 |
-| 02:30 | CNY | Non-Manufacturing PMI (Sep) | 50.0 | 50.4 | 50.3 |
-| 02:45 | CNY | Caixin Manufacturing PMI (Sep) | 49.3 | 50.5 | 50.4 |
-| 02:45 | CNY | Caixin Services PMI (Sep) | 50.3 | 51.6 | 51.6 |
-| 07:00 | GBP | Business Investment (QoQ) (Q2) | 1.4% | -0.1% | 0.6% |
-| 07:00 | GBP | Current Account (Q2) | -28.4B | -32.5B | -13.8B |
-| 07:00 | GBP | Nationwide HPI (YoY) (Sep) | 3.2% |  | 2.4% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Sep) | 0.7% | 0.3% | -0.2% |
-| 08:00 | CHF | KOF Leading Indicators (Sep) | 105.5 | 101.0 | 105.0 |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) | 78.5% |  | 78.5% |
-| 13:00 | EUR | German CPI (YoY) (Sep) | 1.6% | 1.7% | 1.9% |
-| 13:50 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:00 | NZD | NZIER Business Confidence (Q3) | -1% |  | -44% |
+| 02:30 | AUD | Building Approvals (MoM) (Aug) |  | -4.3% | 10.4% |
+| 02:30 | AUD | Retail Sales (MoM) (Aug) |  | 0.4% | 0.0% |
+| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |
+| 08:30 | CHF | procure.ch PMI (Sep) |  | 47.7 | 49.0 |
+| 08:45 | EUR | HCOB Italy Manufacturing PMI (Sep) |  | 49.0 | 49.4 |
+| 08:50 | EUR | HCOB France Manufacturing PMI (Sep) |  | 44.0 | 43.9 |
+| 08:55 | EUR | HCOB Germany Manufacturing PMI (Sep) |  | 40.3 | 42.4 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) |  | 44.8 | 45.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 51.5 | 52.5 |
+| 10:00 | EUR | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
+| 10:00 | EUR | CPI (MoM) (Sep) |  |  | 0.1% |
+| 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 15:00 | USD | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
+| 15:00 | USD | ISM Manufacturing Employment (Sep) |  |  | 46.0 |
+| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.339M |
+| 23:15 | USD | FOMC Member Bostic Speaks |  |  |  |
