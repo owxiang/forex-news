@@ -18,24 +18,24 @@
 | 03:00 | SGD | Bank Lending (Aug) | 800.0B |  | 801.2B |
 | 03:00 | NZD | M3 Money Supply (Aug) | 415.0B |  | 416.1B |
 | 04:35 | JPY | 2-Year JGB Auction | 0.392% |  | 0.385% |
-| 52 min | JPY | Construction Orders (YoY) (Aug) |  |  | 62.8% |
-| 52 min | JPY | Housing Starts (YoY) (Aug) |  | -3.3% | -0.2% |
-| 07:00 | GBP | Business Investment (YoY) (Q2) |  | -1.1% | -1.1% |
-| 07:00 | EUR | German Import Price Index (MoM) (Aug) |  | -0.4% | -0.4% |
-| 07:00 | EUR | German Import Price Index (YoY) (Aug) |  |  | 0.9% |
-| 07:00 | EUR | German Retail Sales (YoY) (Jul) |  |  | -1.7% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Aug) |  |  | 5.88% |
-| 07:00 | ZAR | Private Sector Credit (Aug) |  |  | 3.50% |
+| 06:00 | JPY | Construction Orders (YoY) (Aug) | 8.7% |  | 62.8% |
+| 06:00 | JPY | Housing Starts (YoY) (Aug) | -5.1% | -3.3% | -0.2% |
+| 54 min | GBP | Business Investment (YoY) (Q2) |  | -1.1% | -1.0% |
+| 54 min | EUR | German Import Price Index (MoM) (Aug) |  | -0.4% | -0.4% |
+| 54 min | EUR | German Import Price Index (YoY) (Aug) |  |  | 0.9% |
+| 54 min | EUR | German Retail Sales (YoY) (Jul) |  |  | -0.6% |
+| 54 min | ZAR | M3 Money Supply (YoY) (Aug) |  |  | 5.88% |
+| 54 min | ZAR | Private Sector Credit (Aug) |  |  | 3.50% |
 | 08:00 | CHF | Official Reserves Assets (Aug) |  |  | 787.6B |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
-| 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
+| 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
@@ -49,13 +49,12 @@
 | 09:30 | GBP | Mortgage Lending (Aug) |  |  | 2.79B |
 | 09:30 | GBP | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
 | 09:30 | HKD | M3 Money Supply (Aug) |  |  | 2.0% |
-| 10:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 1.1% |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Sep) |  |  | 1.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Sep) |  | 0.8% | 1.1% |
 | 10:00 | EUR | Italian HICP (MoM) (Sep) |  |  | -0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Sep) |  |  | 1.2% |
 | 11:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
 | 12:00 | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
-| 12:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.3% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Aug) |  |  | 61.9% |
@@ -63,14 +62,14 @@
 | 12:30 | BRL | Budget Surplus (Aug) |  |  | -21.348B |
 | 13:00 | INR | Current Account (USD) (Q2) |  |  | 5.70B |
 | 13:00 | INR | Infrastructure Output (YoY) (Aug) |  |  | 6.1% |
-| 13:00 | EUR | German HICP (YoY) (Sep) |  |  | 2.0% |
+| 13:00 | EUR | German HICP (YoY) (Sep) |  | 1.9% | 2.0% |
 | 13:00 | EUR | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | ZAR | Trade Balance (Aug) |  |  | 17.61B |
 | 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.789% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.367% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.116% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Sep) |  |  | -9.7 |
+| 15:30 | USD | Dallas Fed Mfg Business Index (Sep) |  | -4.5 | -9.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.540% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.270% |
 | 16:30 | ZAR | Budget Balance (MoM) (Aug) |  |  | -79.95B |

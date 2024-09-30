@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CNY | Manufacturing PMI (Sep) | 49.8 | 49.4 | 49.1 |
-| 07:00 | GBP | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
-| 07:00 | GBP | GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
+| 54 min | GBP | GDP (YoY) (Q2) |  | 0.9% | 0.3% |
+| 54 min | GBP | GDP (QoQ) (Q2) |  | 0.6% | 0.7% |
 | 13:00 | EUR | German CPI (MoM) (Sep) |  | 0.1% | -0.1% |
 | 14:45 | USD | Chicago PMI (Sep) |  | 46.1 | 46.1 |
 | 18:55 | USD | Fed Chair Powell Speaks |  |  |  |
