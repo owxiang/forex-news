@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Aug) | 3.8% |  | 5.2% |
 | 00:00 | KRW | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
+| 00:00 | KRW | Industrial Production (YoY) (Aug) | 3.8% |  | 5.2% |
 | 00:00 | KRW | Retail Sales (MoM) (Aug) | 1.7% |  | -2.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Aug) | 0.2% |  | 0.3% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) | 2.0% |  | 2.2% |
@@ -27,16 +27,16 @@
 | 07:00 | ZAR | Private Sector Credit (Aug) | 4.95% |  | 3.50% |
 | 08:00 | CHF | Official Reserves Assets (Aug) | 777.8B |  | 787.6B |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) | 2.69B |  | 6.04B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 1.4% |  | 1.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.1% |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 1.4% |  | 1.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 1.9% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.1% |  | -0.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.0% |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 1.4% |  | 1.7% |
-| 09:00 | EUR | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.0% |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) | 0.0% |  | -0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
+| 09:00 | EUR | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) | 2.4% |  | 2.6% |
 | 09:00 | EUR | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
 | 09:00 | EUR | Spanish Current account (Jul) | 5.79B |  | 5.02B |
@@ -48,8 +48,8 @@
 | 09:30 | GBP | Mortgage Lending (Aug) | 2.86B |  | 2.80B |
 | 09:30 | GBP | Net Lending to Individuals (Aug) | 4.156B | 4.100B | 4.027B |
 | 09:30 | HKD | M3 Money Supply (Aug) | 1.9% |  | 2.0% |
-| 10:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.8% | 1.1% |
+| 10:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) | 0.8% |  | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% |  | -0.2% |
 | 11:00 | INR | Federal Fiscal Deficit (Aug) | 4,351.76B |  | 2,769.45B |
@@ -66,8 +66,8 @@
 | 12:30 | BRL | Budget Balance (Aug) | -90.381B |  | -101.472B |
 | 12:30 | BRL | Budget Surplus (Aug) | -21.425B |  | -21.348B |
 | 13:00 | INR | Foreign Debt (USD) (Q2) | 682.3B |  | 663.8B |
-| 13:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.9% | 2.0% |
 | 13:00 | EUR | German HICP (MoM) (Sep) | -0.1% |  | -0.2% |
+| 13:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.9% | 2.0% |
 | 13:00 | ZAR | Trade Balance (Aug) | 5.63B |  | 17.07B |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.714% |  | 2.789% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.250% |  | 3.367% |
