@@ -27,16 +27,16 @@
 | 07:00 | ZAR | Private Sector Credit (Aug) | 4.95% |  | 3.50% |
 | 08:00 | CHF | Official Reserves Assets (Aug) | 777.8B |  | 787.6B |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) | 2.69B |  | 6.04B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.1% |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 1.4% |  | 1.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.1% |  | -0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.1% |  | -0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 1.9% |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 1.4% |  | 1.7% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.1% |  | -0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.0% |  | -0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 1.4% |  | 1.7% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) | 0.0% |  | -0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) | 2.4% |  | 2.6% |
 | 09:00 | EUR | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
 | 09:00 | EUR | Spanish Current account (Jul) | 5.79B |  | 5.02B |
@@ -50,8 +50,8 @@
 | 09:30 | HKD | M3 Money Supply (Aug) | 1.9% |  | 2.0% |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.8% | 1.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% |  | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) | 0.8% |  | 1.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% |  | -0.2% |
 | 11:00 | INR | Federal Fiscal Deficit (Aug) | 4,351.76B |  | 2,769.45B |
 | 12:00 | BRL | Long Term Interest Rate TJLP (Q4) | 7.43% |  | 6.91% |
 | 12:15 | ZAR | Budget Balance (MoM) (Aug) | -19.40B |  | -79.95B |
@@ -66,8 +66,8 @@
 | 12:30 | BRL | Budget Balance (Aug) | -90.381B |  | -101.472B |
 | 12:30 | BRL | Budget Surplus (Aug) | -21.425B |  | -21.348B |
 | 13:00 | INR | Foreign Debt (USD) (Q2) | 682.3B |  | 663.8B |
-| 13:00 | EUR | German HICP (MoM) (Sep) | -0.1% |  | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.9% | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Sep) | -0.1% |  | -0.2% |
 | 13:00 | ZAR | Trade Balance (Aug) | 5.63B |  | 17.07B |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.714% |  | 2.789% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.250% |  | 3.367% |
@@ -77,4 +77,4 @@
 | 16:30 | USD | 6-Month Bill Auction | 4.215% |  | 4.270% |
 | 22:00 | MXN | Fiscal Balance (Aug) | -4.39B |  | -136.69B |
 | 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) | 89.1% |  | 88.7% |
-| 39 min | NZD | Building Consents (MoM) (Aug) |  |  | 26.2% |
+| 22:45 | NZD | Building Consents (MoM) (Aug) | -5.3% |  | 26.4% |
