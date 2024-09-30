@@ -95,7 +95,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.500% |  | 4.540% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.215% |  | 4.270% |
 | 18:55 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 22:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -137.21B |
-| 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -44% |
-| 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 88.7% |
+| 53 min | MXN | Low | Fiscal Balance (Aug) |  |  | -137.21B |
+| 53 min | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -44% |
+| 53 min | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 88.7% |
 | 22:45 | NZD | Low | Building Consents (MoM) (Aug) |  |  | 26.2% |

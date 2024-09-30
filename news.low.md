@@ -75,6 +75,6 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Sep) | -9.0 | -4.5 | -9.7 |
 | 16:30 | USD | 3-Month Bill Auction | 4.500% |  | 4.540% |
 | 16:30 | USD | 6-Month Bill Auction | 4.215% |  | 4.270% |
-| 22:00 | MXN | Fiscal Balance (Aug) |  |  | -137.21B |
-| 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 88.7% |
+| 53 min | MXN | Fiscal Balance (Aug) |  |  | -137.21B |
+| 53 min | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 88.7% |
 | 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | 26.2% |
