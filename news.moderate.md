@@ -16,4 +16,4 @@
 | 13:00 | EUR | German CPI (YoY) (Sep) | 1.6% | 1.7% | 1.9% |
 | 13:50 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 53 min | NZD | NZIER Business Confidence (Q3) |  |  | -44% |
+| 22:00 | NZD | NZIER Business Confidence (Q3) | -1% |  | -44% |
