@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
 | 00:00 | KRW | Industrial Production (YoY) (Aug) | 3.8% |  | 5.2% |
+| 00:00 | KRW | Industrial Production (MoM) (Aug) | 4.1% |  | -3.9% |
 | 00:00 | KRW | Retail Sales (MoM) (Aug) | 1.7% |  | -2.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Aug) | 0.2% |  | 0.3% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) | 2.0% |  | 2.2% |
@@ -29,12 +29,12 @@
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) | 2.69B |  | 6.04B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.1% |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 1.4% |  | 1.5% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 1.9% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.1% |  | -0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 1.9% |  | 2.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) | 1.4% |  | 1.7% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.0% |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Sep) | 0.0% |  | -0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
+| 09:00 | EUR | Hesse CPI (MoM) (Sep) | 0.0% |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) | 2.4% |  | 2.6% |
@@ -48,31 +48,34 @@
 | 09:30 | GBP | Mortgage Lending (Aug) | 2.86B |  | 2.80B |
 | 09:30 | GBP | Net Lending to Individuals (Aug) | 4.156B | 4.100B | 4.027B |
 | 09:30 | HKD | M3 Money Supply (Aug) | 1.9% |  | 2.0% |
-| 10:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.8% | 1.1% |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Sep) | 0.8% |  | 1.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.8% | 1.1% |
 | 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% |  | -0.2% |
-| 23 min | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
-| 53 min | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
+| 10:00 | EUR | Italian HICP (YoY) (Sep) | 0.8% |  | 1.2% |
+| 11:00 | INR | Federal Fiscal Deficit (Aug) | 4,351.76B |  | 2,769.45B |
+| 12:00 | INR | Balance of Payments (USD) (Q2) | 5.200B |  | 30.800B |
+| 12:00 | INR | Current Account % of GDP (QoQ) (Q2) | -1.10% |  | 0.60% |
+| 12:00 | INR | Trade Balance (USD) (Q2) | -65.100B |  | -50.900B |
+| 12:15 | ZAR | Budget Balance (MoM) (Aug) | -19.40B |  | -79.95B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:30 | INR | Current Account (USD) (Q2) | -9.70B |  | 4.60B |
+| 12:30 | INR | Infrastructure Output (YoY) (Aug) | -1.8% |  | 6.1% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Aug) |  |  | 61.9% |
-| 12:30 | BRL | Budget Balance (Aug) |  |  | -101.472B |
-| 12:30 | BRL | Budget Surplus (Aug) |  |  | -21.348B |
-| 13:00 | INR | Current Account (USD) (Q2) |  |  | 5.70B |
-| 13:00 | INR | Infrastructure Output (YoY) (Aug) |  |  | 6.1% |
-| 13:00 | EUR | German HICP (MoM) (Sep) |  |  | -0.2% |
-| 13:00 | EUR | German HICP (YoY) (Sep) |  | 1.9% | 2.0% |
-| 13:00 | ZAR | Trade Balance (Aug) |  |  | 17.61B |
-| 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.789% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.367% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.116% |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Aug) | 62.0% |  | 61.9% |
+| 12:30 | BRL | Budget Balance (Aug) | -90.381B |  | -101.472B |
+| 12:30 | BRL | Budget Surplus (Aug) | -21.425B |  | -21.348B |
+| 13:00 | INR | Foreign Debt (USD) (Q2) | 682.3B |  | 668.9B |
+| 13:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.9% | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Sep) | -0.1% |  | -0.2% |
+| 13:00 | ZAR | Trade Balance (Aug) | 5.63B |  | 17.07B |
+| 50 min | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
+| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.789% |
+| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.367% |
+| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.116% |
+| 50 min | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Sep) |  | -4.5 | -9.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.540% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.270% |
-| 16:30 | ZAR | Budget Balance (MoM) (Aug) |  |  | -79.95B |
-| 16:31 | INR | Foreign Debt (USD) (Q2) |  |  | 663.8B |
 | 22:00 | MXN | Fiscal Balance (Aug) |  |  | -137.21B |
 | 22:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 88.7% |
 | 22:45 | NZD | Building Consents (MoM) (Aug) |  |  | 26.2% |

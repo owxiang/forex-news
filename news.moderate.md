@@ -12,8 +12,8 @@
 | 07:00 | GBP | Nationwide HPI (YoY) (Sep) | 3.2% |  | 2.4% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Sep) | 0.7% | 0.3% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Sep) | 105.5 | 101.0 | 105.0 |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 78.5% |
-| 13:00 | EUR | German CPI (YoY) (Sep) |  | 1.7% | 1.9% |
-| 13:50 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) | 78.5% |  | 78.5% |
+| 13:00 | EUR | German CPI (YoY) (Sep) | 1.6% | 1.7% | 1.9% |
+| 40 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 50 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 22:00 | NZD | NZIER Business Confidence (Q3) |  |  | -44% |
