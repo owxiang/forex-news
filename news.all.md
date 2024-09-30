@@ -46,8 +46,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.1% |  | -0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.0% |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 1.4% |  | 1.7% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) | 0.0% |  | -0.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) | 0.0% |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 2.4% |  | 2.6% |
@@ -61,8 +61,8 @@
 | 09:30 | GBP | Low | Mortgage Lending (Aug) | 2.86B |  | 2.80B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Aug) | 4.156B | 4.100B | 4.027B |
 | 09:30 | HKD | Low | M3 Money Supply (Aug) | 1.9% |  | 2.0% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Sep) | 0.7% | 0.8% | 1.1% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Sep) | 0.7% | 0.8% | 1.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Sep) | 0.8% |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.2% |  | -0.2% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Aug) | 4,351.76B |  | 2,769.45B |
@@ -94,7 +94,7 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) | -9.0 | -4.5 | -9.7 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.500% |  | 4.540% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.215% |  | 4.270% |
-| 49 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 18:55 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 22:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -137.21B |
 | 22:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -44% |
 | 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 88.7% |
