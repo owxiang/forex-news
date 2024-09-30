@@ -11,10 +11,10 @@
 | 00:50 | JPY | Retail Sales (YoY) (Aug) | 2.8% | 2.6% | 2.7% |
 | 01:00 | NZD | ANZ Business Confidence (Sep) | 60.9 |  | 50.6 |
 | 01:00 | NZD | NBNZ Own Activity (Sep) | 45.3% |  | 37.1% |
-| 02:30 | AUD | Housing Credit (Aug) |  |  | 0.5% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Aug) |  | 0.5% | 0.5% |
-| 26 min | SGD | Bank Lending (Aug) |  |  | 801.2B |
-| 26 min | NZD | M3 Money Supply (Aug) |  |  | 416,089.0B |
+| 02:30 | AUD | Housing Credit (Aug) | 0.4% |  | 0.5% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Aug) | 0.5% | 0.5% | 0.5% |
+| 03:00 | SGD | Bank Lending (Aug) | 800.0B |  | 801.2B |
+| 03:00 | NZD | M3 Money Supply (Aug) | 415,026.0B |  | 416,089.0B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.385% |
 | 05:00 | JPY | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
 | 05:00 | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
@@ -31,8 +31,8 @@
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
@@ -51,8 +51,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 1.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) |  |  | 1.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 11:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
 | 12:00 | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
 | 12:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.3% |
@@ -63,8 +63,8 @@
 | 12:30 | BRL | Budget Surplus (Aug) |  |  | -21.348B |
 | 13:00 | INR | Current Account (USD) (Q2) |  |  | 5.70B |
 | 13:00 | INR | Infrastructure Output (YoY) (Aug) |  |  | 6.1% |
-| 13:00 | EUR | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Sep) |  |  | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | ZAR | Trade Balance (Aug) |  |  | 17.61B |
 | 14:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.789% |

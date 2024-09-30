@@ -5,8 +5,8 @@
 | 00:50 | JPY | Industrial Production (MoM) (Aug) | -3.3% | -0.5% | 3.1% |
 | 02:30 | CNY | Chinese Composite PMI (Sep) | 50.4 |  | 50.1 |
 | 02:30 | CNY | Non-Manufacturing PMI (Sep) | 50.0 | 50.4 | 50.3 |
-| 11 min | CNY | Caixin Manufacturing PMI (Sep) |  | 50.5 | 50.4 |
-| 11 min | CNY | Caixin Services PMI (Sep) |  | 51.6 | 51.6 |
+| 02:45 | CNY | Caixin Manufacturing PMI (Sep) | 49.3 | 50.5 | 50.4 |
+| 02:45 | CNY | Caixin Services PMI (Sep) | 50.3 | 51.6 | 51.6 |
 | 07:00 | GBP | Business Investment (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 07:00 | GBP | Current Account (Q2) |  | -32.5B | -21.0B |
 | 07:00 | GBP | Nationwide HPI (MoM) (Sep) |  | 0.3% | -0.2% |

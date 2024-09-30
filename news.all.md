@@ -12,22 +12,22 @@
 | 00:50 | JPY | Low | Retail Sales (YoY) (Aug) | 2.8% | 2.6% | 2.7% |
 | 01:00 | NZD | Low | ANZ Business Confidence (Sep) | 60.9 |  | 50.6 |
 | 01:00 | NZD | Low | NBNZ Own Activity (Sep) | 45.3% |  | 37.1% |
-| 02:30 | AUD | Low | Housing Credit (Aug) |  |  | 0.5% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Aug) |  | 0.5% | 0.5% |
+| 02:30 | AUD | Low | Housing Credit (Aug) | 0.4% |  | 0.5% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Aug) | 0.5% | 0.5% | 0.5% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Sep) | 50.4 |  | 50.1 |
 | 02:30 | CNY | High | Manufacturing PMI (Sep) | 49.8 | 49.4 | 49.1 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Sep) | 50.0 | 50.4 | 50.3 |
-| 11 min | CNY | Moderate | Caixin Manufacturing PMI (Sep) |  | 50.5 | 50.4 |
-| 11 min | CNY | Moderate | Caixin Services PMI (Sep) |  | 51.6 | 51.6 |
-| 26 min | SGD | Low | Bank Lending (Aug) |  |  | 801.2B |
-| 26 min | NZD | Low | M3 Money Supply (Aug) |  |  | 416,089.0B |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Sep) | 49.3 | 50.5 | 50.4 |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Sep) | 50.3 | 51.6 | 51.6 |
+| 03:00 | SGD | Low | Bank Lending (Aug) | 800.0B |  | 801.2B |
+| 03:00 | NZD | Low | M3 Money Supply (Aug) | 415,026.0B |  | 416,089.0B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.385% |
 | 05:00 | JPY | Low | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
 | 05:00 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Aug) |  |  | 62.8% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Aug) |  | -3.3% | -0.2% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q2) |  | -1.1% | -1.1% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | -0.1% | -0.1% |
 | 07:00 | GBP | Moderate | Current Account (Q2) |  | -32.5B | -21.0B |
 | 07:00 | GBP | High | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 07:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
@@ -35,8 +35,8 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Sep) |  |  | 2.4% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | -0.4% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Aug) |  |  | 0.9% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Jul) |  |  | -1.7% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  |  | -1.2% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Jul) |  |  | -1.7% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) |  |  | 5.88% |
 | 07:00 | ZAR | Low | Private Sector Credit (Aug) |  |  | 3.50% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Sep) |  | 101.0 | 101.6 |
@@ -45,8 +45,8 @@
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
@@ -65,8 +65,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Sep) |  |  | 1.1% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Sep) |  |  | 1.2% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Sep) |  |  | -0.2% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
 | 12:00 | BRL | Low | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
 | 12:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.3% |
@@ -80,8 +80,8 @@
 | 13:00 | INR | Low | Infrastructure Output (YoY) (Aug) |  |  | 6.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Sep) |  |  | 1.9% |
 | 13:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.1% | -0.1% |
-| 13:00 | EUR | Low | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Sep) |  |  | 2.0% |
+| 13:00 | EUR | Low | German HICP (MoM) (Sep) |  |  | -0.2% |
 | 13:00 | ZAR | Low | Trade Balance (Aug) |  |  | 17.61B |
 | 13:50 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
