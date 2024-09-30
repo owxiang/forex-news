@@ -52,8 +52,8 @@
 | 10:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) | 0.8% |  | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% |  | -0.2% |
-| 53 min | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
-| 12:00 | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
+| 23 min | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
+| 53 min | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Aug) |  |  | 61.9% |
