@@ -26,7 +26,7 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (Aug) | 6.11% |  | 5.88% |
 | 07:00 | ZAR | Private Sector Credit (Aug) | 4.95% |  | 3.50% |
 | 08:00 | CHF | Official Reserves Assets (Aug) | 777.8B |  | 787.6B |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Aug) | 2.69B |  | 6.04B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) | 0.1% |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 1.4% |  | 1.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) | 1.9% |  | 2.1% |
@@ -37,22 +37,22 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) | 1.2% |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.0% |  | -0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 1.5% |  | 1.7% |
-| 09:00 | EUR | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) | 2.4% |  | 2.6% |
-| 09:00 | EUR | Spanish Current account (Jul) |  |  | 5.02B |
+| 09:00 | EUR | Saxony CPI (MoM) (Sep) | 0.2% |  | -0.2% |
+| 09:00 | EUR | Spanish Current account (Jul) | 5.79B |  | 5.02B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) | 400.0M |  | 400.0M |
-| 21 min | GBP | BoE Consumer Credit (Aug) |  |  | 1.215B |
-| 21 min | GBP | M3 Money Supply (Aug) |  |  | 3,067.2B |
-| 21 min | GBP | M4 Money Supply (MoM) (Aug) |  | 0.2% | 0.3% |
-| 21 min | GBP | Mortgage Approvals (Aug) |  | 64.00K | 61.99K |
-| 21 min | GBP | Mortgage Lending (Aug) |  |  | 2.79B |
-| 21 min | GBP | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
-| 21 min | HKD | M3 Money Supply (Aug) |  |  | 2.0% |
-| 51 min | EUR | Italian CPI (YoY) (Sep) |  | 0.8% | 1.1% |
-| 51 min | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
-| 51 min | EUR | Italian HICP (MoM) (Sep) |  |  | -0.2% |
-| 51 min | EUR | Italian HICP (YoY) (Sep) |  |  | 1.2% |
-| 11:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
+| 09:30 | GBP | BoE Consumer Credit (Aug) | 1.295B |  | 1.231B |
+| 09:30 | GBP | M3 Money Supply (Aug) | 3,062.8B |  | 3,066.1B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Aug) | -0.1% | 0.2% | 0.3% |
+| 09:30 | GBP | Mortgage Approvals (Aug) | 64.86K | 64.00K | 62.50K |
+| 09:30 | GBP | Mortgage Lending (Aug) | 2.86B |  | 2.80B |
+| 09:30 | GBP | Net Lending to Individuals (Aug) | 4.156B | 4.100B | 4.027B |
+| 09:30 | HKD | M3 Money Supply (Aug) | 1.9% |  | 2.0% |
+| 10:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.8% | 1.1% |
+| 10:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Sep) | 0.8% |  | 1.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% |  | -0.2% |
+| 53 min | INR | Federal Fiscal Deficit (Aug) |  |  | 2,769.45B |
 | 12:00 | BRL | Long Term Interest Rate TJLP (Q4) |  |  | 6.91% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
