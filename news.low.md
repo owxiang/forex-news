@@ -15,9 +15,9 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Aug) | 0.5% | 0.5% | 0.5% |
 | 03:00 | SGD | Bank Lending (Aug) | 800.0B |  | 801.2B |
 | 03:00 | NZD | M3 Money Supply (Aug) | 415,026.0B |  | 416,089.0B |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.385% |
-| 05:00 | JPY | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
-| 05:00 | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
+| 21 min | JPY | 2-Year JGB Auction |  |  | 0.385% |
+| 46 min | JPY | Large Retailers' Sales (MoM) (Aug) |  |  | 0.2% |
+| 46 min | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 1.0% |
 | 06:00 | JPY | Construction Orders (YoY) (Aug) |  |  | 62.8% |
 | 06:00 | JPY | Housing Starts (YoY) (Aug) |  | -3.3% | -0.2% |
 | 07:00 | GBP | Business Investment (YoY) (Q2) |  | -1.1% | -1.1% |
@@ -27,20 +27,19 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (Aug) |  |  | 5.88% |
 | 07:00 | ZAR | Private Sector Credit (Aug) |  |  | 3.50% |
 | 08:00 | CHF | Official Reserves Assets (Aug) |  |  | 787.6B |
-| 08:00 | HKD | M3 Money Supply (Aug) |  |  | 2.0% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 6.04B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  |  | 1.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Sep) |  |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Sep) |  |  | -0.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Sep) |  |  | 1.7% |
 | 09:00 | EUR | Hesse CPI (YoY) (Sep) |  |  | 1.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Sep) |  |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  |  | 1.7% |
-| 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  |  | -0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Sep) |  |  | 2.6% |
+| 09:00 | EUR | Saxony CPI (MoM) (Sep) |  |  | -0.2% |
 | 09:00 | EUR | Spanish Current account (Jul) |  |  | 5.02B |
 | 09:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Aug) |  |  | 1.215B |
@@ -49,6 +48,7 @@
 | 09:30 | GBP | Mortgage Approvals (Aug) |  | 64.00K | 61.99K |
 | 09:30 | GBP | Mortgage Lending (Aug) |  |  | 2.79B |
 | 09:30 | GBP | Net Lending to Individuals (Aug) |  | 4.100B | 4.001B |
+| 09:30 | HKD | M3 Money Supply (Aug) |  |  | 2.0% |
 | 10:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 1.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Sep) |  |  | 1.2% |
