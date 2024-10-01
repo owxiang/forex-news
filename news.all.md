@@ -31,17 +31,17 @@
 | 05:00 | IDR | Low | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 05:00 | IDR | Low | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
-| 22 min | CHF | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
-| 22 min | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
-| 52 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |
-| 08:30 | CHF | Moderate | procure.ch PMI (Sep) |  | 47.9 | 49.0 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) |  | 49.0 | 49.4 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.0 | 43.9 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 40.3 | 42.4 |
-| 09:00 | NOK | Low | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 44.8 | 45.8 |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | 3.2% | 2.6% | 2.9% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -10.1% |  | -6.0% |
+| 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 8 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 8 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |
+| 23 min | CHF | Moderate | procure.ch PMI (Sep) |  | 47.9 | 49.0 |
+| 38 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) |  | 49.0 | 49.4 |
+| 43 min | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.0 | 43.9 |
+| 48 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 40.3 | 42.4 |
+| 53 min | NOK | Low | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
+| 53 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 44.8 | 45.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 51.5 | 52.5 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |

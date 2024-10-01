@@ -25,9 +25,9 @@
 | 05:00 | IDR | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 05:00 | IDR | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
-| 22 min | CHF | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
-| 22 min | AUD | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
-| 09:00 | NOK | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
+| 07:30 | CHF | Retail Sales (YoY) (Aug) | 3.2% | 2.6% | 2.9% |
+| 07:30 | AUD | Commodity Prices (YoY) (Sep) | -10.1% |  | -6.0% |
+| 53 min | NOK | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | CPI, n.s.a (Sep) |  |  | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.8% |
