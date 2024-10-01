@@ -61,21 +61,21 @@
 | 13:00 | ZAR | Low | Total Vehicle Sales (Sep) | 44.08K |  | 43.68K |
 | 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 4.4% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 53.2 |  | 50.4 |
-| 19 min | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
-| 34 min | USD | High | S&P Global US Manufacturing PMI (Sep) |  | 47.0 | 47.9 |
-| 49 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 49 min | USD | Moderate | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
-| 49 min | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
-| 49 min | USD | Moderate | ISM Manufacturing Employment (Sep) |  | 47.0 | 46.0 |
-| 49 min | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 44.6 |
-| 49 min | USD | High | ISM Manufacturing PMI (Sep) |  | 47.6 | 47.2 |
-| 49 min | USD | High | ISM Manufacturing Prices (Sep) |  | 53.5 | 54.0 |
-| 49 min | USD | High | JOLTs Job Openings (Aug) |  | 7.640M | 7.673M |
-| 49 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
-| 49 min | USD | Low | Milk Auctions |  |  | 3,883.0 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 8.7 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Sep) |  |  | -7.7 |
-| 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) | 50.4 |  | 49.5 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Sep) | 47.3 | 47.0 | 47.9 |
+| 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) | -0.1% | 0.2% | -0.5% |
+| 15:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) | 43.9 | 47.0 | 46.0 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) | 46.1 | 45.0 | 44.6 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Sep) | 47.2 | 47.6 | 47.2 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Sep) | 48.3 | 53.5 | 54.0 |
+| 15:00 | USD | High | JOLTs Job Openings (Aug) | 8.040M | 7.640M | 7.711M |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,883.0 |
+| 24 min | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 8.7 |
+| 24 min | USD | Low | Texas Services Sector Outlook (Sep) |  |  | -7.7 |
+| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 16:15 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
