@@ -23,13 +23,13 @@
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.7 | 49.6 | 49.8 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | -1.10% |  | 0.90% |
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Sep) | 49.2 |  | 48.9 |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Aug) |  |  | 24.90% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -4.3% | 10.4% |
-| 02:30 | AUD | Low | Private House Approvals (Aug) | 0.5% |  | 0.6% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Aug) | 7.90% |  | 25.20% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -4.3% | 11.0% |
+| 02:30 | AUD | Low | Private House Approvals (Aug) | 0.5% |  | 0.9% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.1% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Sep) |  |  | 2.02% |
-| 05:00 | IDR | Low | Inflation (YoY) (Sep) |  |  | 2.12% |
 | 05:00 | IDR | Low | Inflation (MoM) (Sep) |  |  | -0.03% |
+| 05:00 | IDR | Low | Inflation (YoY) (Sep) |  |  | 2.12% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) |  |  | 56.7 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -5.2% |

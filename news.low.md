@@ -19,11 +19,11 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.7 | 49.6 | 49.8 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q3) | -1.10% |  | 0.90% |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Sep) | 49.2 |  | 48.9 |
-| 02:30 | AUD | Building Approvals (YoY) (Aug) |  |  | 24.90% |
-| 02:30 | AUD | Private House Approvals (Aug) | 0.5% |  | 0.6% |
+| 02:30 | AUD | Building Approvals (YoY) (Aug) | 7.90% |  | 25.20% |
+| 02:30 | AUD | Private House Approvals (Aug) | 0.5% |  | 0.9% |
 | 05:00 | IDR | Core Inflation (YoY) (Sep) |  |  | 2.02% |
-| 05:00 | IDR | Inflation (YoY) (Sep) |  |  | 2.12% |
 | 05:00 | IDR | Inflation (MoM) (Sep) |  |  | -0.03% |
+| 05:00 | IDR | Inflation (YoY) (Sep) |  |  | 2.12% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Sep) |  |  | 56.7 |
 | 07:30 | CHF | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
