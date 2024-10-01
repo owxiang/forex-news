@@ -65,21 +65,18 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Sep) | 47.3 | 47.0 | 47.9 |
 | 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) | -0.1% | 0.2% | -0.5% |
-| 15:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) | 43.9 | 47.0 | 46.0 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) | 46.1 | 45.0 | 44.6 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Sep) | 47.2 | 47.6 | 47.2 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Sep) | 48.3 | 53.5 | 54.0 |
 | 15:00 | USD | High | JOLTs Job Openings (Aug) | 8.040M | 7.640M | 7.711M |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,883.0 |
-| 24 min | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 8.7 |
-| 24 min | USD | Low | Texas Services Sector Outlook (Sep) |  |  | -7.7 |
-| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 16:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 16:15 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Sep) | 10.1 |  | 8.7 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Sep) | -2.6 |  | -7.7 |
+| 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 4 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 9 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 24 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.100M | -4.339M |
 | 23:15 | USD | Low | Fed Collins Speaks |  |  |  |
 | 23:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
