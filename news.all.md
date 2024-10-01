@@ -43,20 +43,20 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Sep) | 51.8 | 52.4 | 52.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 45.0 | 44.8 | 45.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 51.5 | 52.5 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 1.8% | 1.8% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 126.63 |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.7% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Sep) | 52.8 |  | 43.6 |
-| 4 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.372% |
-| 24 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.170% |
-| 34 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.954% |
-| 34 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.238% |
-| 54 min | EUR | Low | Car Registration (YoY) (Sep) |  |  | -6.50% |
+| 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.421% |  | 4.372% |
+| 10:20 | EUR | Low | Spanish 12-Month Letras Auction | 2.579% |  | 2.954% |
+| 10:20 | EUR | Low | Spanish 6-Month Letras Auction | 2.869% |  | 3.238% |
+| 10:50 | EUR | Low | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
 | 54 min | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.70% |
+| 54 min | EUR | Low | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.4% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |

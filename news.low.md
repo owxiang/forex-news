@@ -33,12 +33,12 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.7% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Sep) | 52.8 |  | 43.6 |
-| 4 min | GBP | 20-Year Treasury Gilt Auction |  |  | 4.372% |
-| 24 min | EUR | German 5-Year Bobl Auction |  |  | 2.170% |
-| 34 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.954% |
-| 34 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.238% |
-| 54 min | EUR | Car Registration (YoY) (Sep) |  |  | -6.50% |
+| 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.421% |  | 4.372% |
+| 10:20 | EUR | Spanish 12-Month Letras Auction | 2.579% |  | 2.954% |
+| 10:20 | EUR | Spanish 6-Month Letras Auction | 2.869% |  | 3.238% |
+| 10:50 | EUR | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
 | 54 min | EUR | Car Registration (MoM) (Sep) |  |  | -37.70% |
+| 54 min | EUR | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.4% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
