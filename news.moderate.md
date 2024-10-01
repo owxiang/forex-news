@@ -6,8 +6,8 @@
 | 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q3) | 14 |  | 14 |
 | 00:50 | JPY | Tankan Large Manufacturers Index (Q3) | 13 |  | 13 |
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q3) | 34 |  | 33 |
-| 02:30 | AUD | Building Approvals (MoM) (Aug) |  | -4.3% | 10.4% |
-| 02:30 | AUD | Retail Sales (MoM) (Aug) |  | 0.4% | 0.0% |
+| 02:30 | AUD | Building Approvals (MoM) (Aug) | -6.1% | -4.3% | 10.4% |
+| 02:30 | AUD | Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.1% |
 | 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |

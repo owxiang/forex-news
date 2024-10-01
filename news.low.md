@@ -16,11 +16,11 @@
 | 01:00 | KRW | Exports (YoY) (Sep) | 7.5% |  | 11.2% |
 | 01:00 | KRW | Imports (YoY) (Sep) | 2.2% |  | 6.0% |
 | 01:00 | KRW | Trade Balance (Sep) | 6.66B |  | 3.77B |
-| 2 min | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
-| 2 min | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.6 | 49.8 |
-| 2 min | IDR | Nikkei Manufacturing PMI (Sep) |  |  | 48.9 |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 49.7 | 49.6 | 49.8 |
+| 01:30 | SGD | URA Property Index (QoQ) (Q3) | -1.10% |  | 0.90% |
+| 01:30 | IDR | Nikkei Manufacturing PMI (Sep) | 49.2 |  | 48.9 |
 | 02:30 | AUD | Building Approvals (YoY) (Aug) |  |  | 24.90% |
-| 02:30 | AUD | Private House Approvals (Aug) |  |  | 0.6% |
+| 02:30 | AUD | Private House Approvals (Aug) | 0.5% |  | 0.6% |
 | 05:00 | IDR | Core Inflation (YoY) (Sep) |  |  | 2.02% |
 | 05:00 | IDR | Inflation (YoY) (Sep) |  |  | 2.12% |
 | 05:00 | IDR | Inflation (MoM) (Sep) |  |  | -0.03% |
