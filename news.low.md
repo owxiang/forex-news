@@ -22,8 +22,8 @@
 | 02:30 | AUD | Building Approvals (YoY) (Aug) | 7.90% |  | 25.20% |
 | 02:30 | AUD | Private House Approvals (Aug) | 0.5% |  | 0.9% |
 | 05:00 | IDR | Core Inflation (YoY) (Sep) | 2.09% |  | 2.02% |
-| 05:00 | IDR | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 05:00 | IDR | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
+| 05:00 | IDR | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
 | 07:30 | CHF | Retail Sales (YoY) (Aug) | 3.2% | 2.6% | 2.9% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) | -10.1% |  | -6.0% |
@@ -37,10 +37,10 @@
 | 10:20 | EUR | Spanish 12-Month Letras Auction | 2.579% |  | 2.954% |
 | 10:20 | EUR | Spanish 6-Month Letras Auction | 2.869% |  | 3.238% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
-| 11:00 | EUR | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
 | 11:00 | EUR | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
-| 13:00 | ZAR | Total Vehicle Sales (Sep) | 44.08K |  | 43.68K |
+| 11:00 | EUR | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -4.90% |
+| 13:00 | ZAR | Total Vehicle Sales (Sep) | 44.08K |  | 43.68K |
 | 13:55 | USD | Redbook (YoY) | 5.3% |  | 4.4% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) | 53.2 |  | 50.4 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Sep) | 50.4 |  | 49.5 |
