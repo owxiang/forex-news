@@ -16,9 +16,9 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Sep) | 44.6 | 44.0 | 43.9 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Sep) | 40.6 | 40.3 | 42.4 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Sep) | 45.0 | 44.8 | 45.8 |
-| 22 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 51.5 | 52.5 |
-| 52 min | EUR | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
-| 52 min | EUR | CPI (MoM) (Sep) |  |  | 0.1% |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 51.5 | 52.5 |
+| 10:00 | EUR | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
+| 10:00 | EUR | CPI (MoM) (Sep) | -0.1% |  | 0.1% |
 | 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
 | 15:00 | USD | ISM Manufacturing Employment (Sep) |  | 47.0 | 46.0 |
