@@ -27,17 +27,17 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
 | 07:30 | CHF | Retail Sales (YoY) (Aug) | 3.2% | 2.6% | 2.9% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) | -10.1% |  | -6.0% |
-| 53 min | NOK | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
-| 10:00 | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | EUR | CPI, n.s.a (Sep) |  |  | 126.72 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.8% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | ZAR | Manufacturing PMI (Sep) |  |  | 43.6 |
+| 09:00 | NOK | Manufacturing PMI (Sep) | 51.8 | 52.4 | 52.0 |
+| 52 min | EUR | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 52 min | EUR | CPI, n.s.a (Sep) |  |  | 126.72 |
+| 52 min | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.8% |
+| 52 min | EUR | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
+| 52 min | ZAR | Manufacturing PMI (Sep) |  |  | 43.6 |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.170% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.954% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.238% |
-| 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.70% |
+| 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.4% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |

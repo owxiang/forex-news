@@ -34,28 +34,28 @@
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | 3.2% | 2.6% | 2.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -10.1% |  | -6.0% |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 8 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 8 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |
-| 23 min | CHF | Moderate | procure.ch PMI (Sep) |  | 47.9 | 49.0 |
-| 38 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) |  | 49.0 | 49.4 |
-| 43 min | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.0 | 43.9 |
-| 48 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 40.3 | 42.4 |
-| 53 min | NOK | Low | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
-| 53 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 44.8 | 45.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 51.5 | 52.5 |
-| 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
-| 10:00 | EUR | High | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
-| 10:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 126.72 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.8% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
-| 10:00 | ZAR | Low | Manufacturing PMI (Sep) |  |  | 43.6 |
+| 08:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 53.0 | 50.2 | 50.5 |
+| 08:30 | CHF | Moderate | procure.ch PMI (Sep) | 49.9 | 47.9 | 49.0 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) | 48.3 | 49.0 | 49.4 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) | 44.6 | 44.0 | 43.9 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) | 40.6 | 40.3 | 42.4 |
+| 09:00 | NOK | Low | Manufacturing PMI (Sep) | 51.8 | 52.4 | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 45.0 | 44.8 | 45.8 |
+| 22 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 51.5 | 52.5 |
+| 52 min | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 52 min | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
+| 52 min | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
+| 52 min | EUR | High | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
+| 52 min | EUR | Low | CPI, n.s.a (Sep) |  |  | 126.72 |
+| 52 min | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.8% |
+| 52 min | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
+| 52 min | ZAR | Low | Manufacturing PMI (Sep) |  |  | 43.6 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.170% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.954% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.238% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.70% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.4% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
