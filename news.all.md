@@ -45,8 +45,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 51.5 | 52.5 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
-| 10:00 | EUR | High | CPI (YoY) (Sep) | 1.8% | 1.8% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% |  | 0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Sep) | 1.8% | 1.8% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 126.63 |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.7% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
@@ -55,8 +55,8 @@
 | 10:20 | EUR | Low | Spanish 12-Month Letras Auction | 2.579% |  | 2.954% |
 | 10:20 | EUR | Low | Spanish 6-Month Letras Auction | 2.869% |  | 3.238% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -4.90% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Sep) | 44.08K |  | 43.68K |
 | 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 4.4% |
