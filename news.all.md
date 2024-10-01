@@ -7,12 +7,12 @@
 | 00:30 | JPY | Low | Jobs/applications ratio (Aug) | 1.23 | 1.24 | 1.24 |
 | 00:30 | JPY | Low | Unemployment Rate (Aug) | 2.5% | 2.6% | 2.7% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q3) | 10.6% |  | 11.1% |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q3) | 10.6% | 11.9% | 11.1% |
 | 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q3) | 2.6% |  | -0.8% |
 | 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q3) | 14 |  | 14 |
-| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q3) | 13 |  | 13 |
-| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q3) | 28 |  | 27 |
-| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q3) | 34 |  | 33 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q3) | 13 | 12 | 13 |
+| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q3) | 28 | 30 | 27 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q3) | 34 | 32 | 33 |
 | 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q3) | 0 |  | 0 |
 | 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q3) | 0 |  | -1 |
 | 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q3) | 11 |  | 8 |
@@ -27,16 +27,16 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -4.3% | 11.0% |
 | 02:30 | AUD | Low | Private House Approvals (Aug) | 0.5% |  | 0.9% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.1% |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Sep) |  |  | 2.02% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.09% |  | 2.02% |
 | 05:00 | IDR | Low | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 05:00 | IDR | Low | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
-| 53 min | INR | Low | HSBC India Manufacturing PMI (Sep) |  |  | 56.7 |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |
-| 08:30 | CHF | Moderate | procure.ch PMI (Sep) |  | 47.7 | 49.0 |
+| 08:30 | CHF | Moderate | procure.ch PMI (Sep) |  | 47.9 | 49.0 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) |  | 49.0 | 49.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 44.0 | 43.9 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 40.3 | 42.4 |
@@ -46,7 +46,7 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
-| 10:00 | EUR | High | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 10:00 | EUR | High | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
@@ -56,8 +56,6 @@
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.238% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.70% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | -6.50% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 3,883.0 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.4% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
@@ -65,11 +63,13 @@
 | 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
 | 15:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) |  |  | 46.0 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) |  | 47.0 | 46.0 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 44.6 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Sep) |  | 47.6 | 47.2 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 53.7 | 54.0 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 53.5 | 54.0 |
 | 15:00 | USD | High | JOLTs Job Openings (Aug) |  | 7.640M | 7.673M |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,883.0 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 8.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Sep) |  |  | -7.7 |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
