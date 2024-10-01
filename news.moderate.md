@@ -23,7 +23,7 @@
 | 15:00 | USD | Construction Spending (MoM) (Aug) | -0.1% | 0.2% | -0.5% |
 | 15:00 | USD | ISM Manufacturing Employment (Sep) | 43.9 | 47.0 | 46.0 |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 24 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 54 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
+| 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 3.1% | 3.1% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.100M | -4.339M |
 | 23:15 | USD | FOMC Member Bostic Speaks |  |  |  |
