@@ -19,11 +19,11 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 51.5 | 52.5 |
 | 10:00 | EUR | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | CPI (MoM) (Sep) | -0.1% |  | 0.1% |
-| 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
-| 15:00 | USD | ISM Manufacturing Employment (Sep) |  | 47.0 | 46.0 |
+| 49 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 49 min | USD | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
+| 49 min | USD | ISM Manufacturing Employment (Sep) |  | 47.0 | 46.0 |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.339M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.100M | -4.339M |
 | 23:15 | USD | FOMC Member Bostic Speaks |  |  |  |

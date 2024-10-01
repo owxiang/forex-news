@@ -39,13 +39,15 @@
 | 10:50 | EUR | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
 | 11:00 | EUR | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
 | 11:00 | EUR | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
-| 45 min | USD | Redbook (YoY) |  |  | 4.4% |
-| 50 min | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
-| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
-| 15:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Sep) |  |  | 44.6 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.8% |
-| 15:00 | USD | Milk Auctions |  |  | 3,883.0 |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -4.90% |
+| 13:00 | ZAR | Total Vehicle Sales (Sep) | 44.08K |  | 43.68K |
+| 13:55 | USD | Redbook (YoY) | 5.3% |  | 4.4% |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Sep) | 53.2 |  | 50.4 |
+| 19 min | CAD | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
+| 49 min | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
+| 49 min | USD | ISM Manufacturing New Orders Index (Sep) |  |  | 44.6 |
+| 49 min | NZD | GlobalDairyTrade Price Index |  |  | 0.8% |
+| 49 min | USD | Milk Auctions |  |  | 3,883.0 |
 | 15:30 | USD | Dallas Fed Services Revenues (Sep) |  |  | 8.7 |
 | 15:30 | USD | Texas Services Sector Outlook (Sep) |  |  | -7.7 |
 | 16:10 | USD | Fed Governor Cook Speaks |  |  |  |

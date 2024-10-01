@@ -45,8 +45,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) | 51.5 | 51.5 | 52.5 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 1.8% | 1.8% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 126.63 |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.7% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.1% |  | 0.3% |
@@ -57,20 +57,22 @@
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
-| 45 min | USD | Low | Redbook (YoY) |  |  | 4.4% |
-| 50 min | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
-| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Sep) |  | 47.0 | 47.9 |
-| 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
-| 15:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Sep) |  | 47.0 | 46.0 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 44.6 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Sep) |  | 47.6 | 47.2 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 53.5 | 54.0 |
-| 15:00 | USD | High | JOLTs Job Openings (Aug) |  | 7.640M | 7.673M |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,883.0 |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -4.90% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Sep) | 44.08K |  | 43.68K |
+| 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 4.4% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 53.2 |  | 50.4 |
+| 19 min | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
+| 34 min | USD | High | S&P Global US Manufacturing PMI (Sep) |  | 47.0 | 47.9 |
+| 49 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 49 min | USD | Moderate | Construction Spending (MoM) (Aug) |  | 0.2% | -0.3% |
+| 49 min | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
+| 49 min | USD | Moderate | ISM Manufacturing Employment (Sep) |  | 47.0 | 46.0 |
+| 49 min | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 44.6 |
+| 49 min | USD | High | ISM Manufacturing PMI (Sep) |  | 47.6 | 47.2 |
+| 49 min | USD | High | ISM Manufacturing Prices (Sep) |  | 53.5 | 54.0 |
+| 49 min | USD | High | JOLTs Job Openings (Aug) |  | 7.640M | 7.673M |
+| 49 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
+| 49 min | USD | Low | Milk Auctions |  |  | 3,883.0 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 8.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Sep) |  |  | -7.7 |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
@@ -78,7 +80,7 @@
 | 16:15 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.1% | 3.1% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.339M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.100M | -4.339M |
 | 23:15 | USD | Low | Fed Collins Speaks |  |  |  |
 | 23:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 23:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
