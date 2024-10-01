@@ -37,8 +37,8 @@
 | 10:20 | EUR | Spanish 12-Month Letras Auction | 2.579% |  | 2.954% |
 | 10:20 | EUR | Spanish 6-Month Letras Auction | 2.869% |  | 3.238% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
-| 54 min | EUR | Car Registration (MoM) (Sep) |  |  | -37.70% |
-| 54 min | EUR | Car Registration (YoY) (Sep) |  |  | -6.50% |
+| 11:00 | EUR | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
+| 11:00 | EUR | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.4% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
