@@ -28,8 +28,8 @@
 | 02:30 | AUD | Low | Private House Approvals (Aug) | 0.5% |  | 0.9% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.1% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.09% |  | 2.02% |
-| 05:00 | IDR | Low | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 05:00 | IDR | Low | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
+| 05:00 | IDR | Low | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | 3.2% | 2.6% | 2.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -10.1% |  | -6.0% |
@@ -55,10 +55,10 @@
 | 10:20 | EUR | Low | Spanish 12-Month Letras Auction | 2.579% |  | 2.954% |
 | 10:20 | EUR | Low | Spanish 6-Month Letras Auction | 2.869% |  | 3.238% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.4% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
+| 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
+| 45 min | USD | Low | Redbook (YoY) |  |  | 4.4% |
+| 50 min | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Sep) |  | 47.0 | 47.9 |
 | 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
