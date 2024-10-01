@@ -28,8 +28,8 @@
 | 02:30 | AUD | Low | Private House Approvals (Aug) | 0.5% |  | 0.9% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.1% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.09% |  | 2.02% |
-| 05:00 | IDR | Low | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
 | 05:00 | IDR | Low | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
+| 05:00 | IDR | Low | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) | 3.2% | 2.6% | 2.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) | -10.1% |  | -6.0% |
@@ -55,10 +55,10 @@
 | 10:20 | EUR | Low | Spanish 12-Month Letras Auction | 2.579% |  | 2.954% |
 | 10:20 | EUR | Low | Spanish 6-Month Letras Auction | 2.869% |  | 3.238% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 1.900% |  | 2.170% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Sep) | 39.80% |  | -37.70% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -4.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Sep) | 6.30% |  | -6.50% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Sep) | 44.08K |  | 43.68K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -4.90% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 4.4% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 53.2 |  | 50.4 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) | 50.4 |  | 49.5 |
@@ -78,7 +78,7 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.780% |  | 4.150% |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.5% | 3.1% | 3.1% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.100M | -4.339M |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.100M | -4.339M |
 | 23:15 | USD | Low | Fed Collins Speaks |  |  |  |
 | 23:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 23:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
