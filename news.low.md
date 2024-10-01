@@ -2,17 +2,23 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 46.7 | 48.5 |
+| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 46.7 | 46.7 | 48.5 |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.6% | -0.3% | -0.3% |
-| 24 min | JPY | Jobs/applications ratio (Aug) |  | 1.24 | 1.24 |
-| 24 min | JPY | Unemployment Rate (Aug) |  | 2.6% | 2.7% |
-| 44 min | JPY | BoJ Summary of Opinions |  |  |  |
-| 54 min | KRW | Exports (YoY) (Sep) |  |  | 11.2% |
-| 54 min | KRW | Imports (YoY) (Sep) |  |  | 6.0% |
-| 54 min | KRW | Trade Balance (Sep) |  |  | 3.77B |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.6 | 49.8 |
-| 01:30 | IDR | Nikkei Manufacturing PMI (Sep) |  |  | 48.9 |
+| 00:30 | JPY | Jobs/applications ratio (Aug) | 1.23 | 1.24 | 1.24 |
+| 00:30 | JPY | Unemployment Rate (Aug) | 2.5% | 2.6% | 2.7% |
+| 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Tankan All Small Industry CAPEX (Q3) | 2.6% |  | -0.8% |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q3) | 28 |  | 27 |
+| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q3) | 0 |  | 0 |
+| 00:50 | JPY | Tankan Small Manufacturing Index (Q3) | 0 |  | -1 |
+| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q3) | 11 |  | 8 |
+| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q3) | 14 |  | 12 |
+| 01:00 | KRW | Exports (YoY) (Sep) | 7.5% |  | 11.2% |
+| 01:00 | KRW | Imports (YoY) (Sep) | 2.2% |  | 6.0% |
+| 01:00 | KRW | Trade Balance (Sep) | 6.66B |  | 3.77B |
+| 2 min | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
+| 2 min | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.6 | 49.8 |
+| 2 min | IDR | Nikkei Manufacturing PMI (Sep) |  |  | 48.9 |
 | 02:30 | AUD | Building Approvals (YoY) (Aug) |  |  | 24.90% |
 | 02:30 | AUD | Private House Approvals (Aug) |  |  | 0.6% |
 | 05:00 | IDR | Core Inflation (YoY) (Sep) |  |  | 2.02% |

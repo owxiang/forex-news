@@ -2,17 +2,27 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 46.7 | 48.5 |
+| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 46.7 | 46.7 | 48.5 |
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.6% | -0.3% | -0.3% |
-| 24 min | JPY | Low | Jobs/applications ratio (Aug) |  | 1.24 | 1.24 |
-| 24 min | JPY | Low | Unemployment Rate (Aug) |  | 2.6% | 2.7% |
-| 44 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 54 min | KRW | Low | Exports (YoY) (Sep) |  |  | 11.2% |
-| 54 min | KRW | Low | Imports (YoY) (Sep) |  |  | 6.0% |
-| 54 min | KRW | Low | Trade Balance (Sep) |  |  | 3.77B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.6 | 49.8 |
-| 01:30 | IDR | Low | Nikkei Manufacturing PMI (Sep) |  |  | 48.9 |
+| 00:30 | JPY | Low | Jobs/applications ratio (Aug) | 1.23 | 1.24 | 1.24 |
+| 00:30 | JPY | Low | Unemployment Rate (Aug) | 2.5% | 2.6% | 2.7% |
+| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q3) | 10.6% |  | 11.1% |
+| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q3) | 2.6% |  | -0.8% |
+| 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q3) | 14 |  | 14 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q3) | 13 |  | 13 |
+| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q3) | 28 |  | 27 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q3) | 34 |  | 33 |
+| 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q3) | 0 |  | 0 |
+| 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q3) | 0 |  | -1 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q3) | 11 |  | 8 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q3) | 14 |  | 12 |
+| 01:00 | KRW | Low | Exports (YoY) (Sep) | 7.5% |  | 11.2% |
+| 01:00 | KRW | Low | Imports (YoY) (Sep) | 2.2% |  | 6.0% |
+| 01:00 | KRW | Low | Trade Balance (Sep) | 6.66B |  | 3.77B |
+| 2 min | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
+| 2 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.6 | 49.8 |
+| 2 min | IDR | Low | Nikkei Manufacturing PMI (Sep) |  |  | 48.9 |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Aug) |  |  | 24.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Aug) |  | -4.3% | 10.4% |
 | 02:30 | AUD | Low | Private House Approvals (Aug) |  |  | 0.6% |
@@ -35,8 +45,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 51.5 | 52.5 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  |  | 0.3% |
