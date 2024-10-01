@@ -21,10 +21,10 @@
 | 01:30 | IDR | Nikkei Manufacturing PMI (Sep) | 49.2 |  | 48.9 |
 | 02:30 | AUD | Building Approvals (YoY) (Aug) | 7.90% |  | 25.20% |
 | 02:30 | AUD | Private House Approvals (Aug) | 0.5% |  | 0.9% |
-| 43 min | IDR | Core Inflation (YoY) (Sep) |  |  | 2.02% |
-| 43 min | IDR | Inflation (MoM) (Sep) |  |  | -0.03% |
-| 43 min | IDR | Inflation (YoY) (Sep) |  |  | 2.12% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Sep) |  |  | 56.7 |
+| 05:00 | IDR | Core Inflation (YoY) (Sep) |  |  | 2.02% |
+| 05:00 | IDR | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
+| 05:00 | IDR | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
+| 53 min | INR | HSBC India Manufacturing PMI (Sep) |  |  | 56.7 |
 | 07:30 | CHF | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
 | 07:30 | AUD | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
 | 09:00 | NOK | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
@@ -36,8 +36,8 @@
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.170% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.954% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.238% |
-| 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 11:00 | EUR | Car Registration (MoM) (Sep) |  |  | -37.70% |
+| 11:00 | EUR | Car Registration (YoY) (Sep) |  |  | -6.50% |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.8% |
 | 13:00 | USD | Milk Auctions |  |  | 3,883.0 |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.4% |
