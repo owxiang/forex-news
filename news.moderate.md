@@ -8,7 +8,7 @@
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q3) | 34 | 32 | 33 |
 | 02:30 | AUD | Building Approvals (MoM) (Aug) | -6.1% | -4.3% | 11.0% |
 | 02:30 | AUD | Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.1% |
-| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 52 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |
 | 08:30 | CHF | procure.ch PMI (Sep) |  | 47.9 | 49.0 |

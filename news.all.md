@@ -31,9 +31,9 @@
 | 05:00 | IDR | Low | Inflation (MoM) (Sep) | -0.12% |  | -0.03% |
 | 05:00 | IDR | Low | Inflation (YoY) (Sep) | 1.84% |  | 2.12% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) | 56.5 | 56.7 | 57.5 |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
-| 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 22 min | CHF | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
+| 22 min | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
+| 52 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 50.2 | 50.5 |
 | 08:30 | CHF | Moderate | procure.ch PMI (Sep) |  | 47.9 | 49.0 |
@@ -43,8 +43,8 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Sep) |  | 52.4 | 52.1 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 44.8 | 45.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 51.5 | 52.5 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 126.72 |
@@ -54,8 +54,8 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.170% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.954% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.238% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.70% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | -6.50% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.70% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.4% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.4 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 49.5 |
