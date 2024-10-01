@@ -27,9 +27,9 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -4.3% | 11.0% |
 | 02:30 | AUD | Low | Private House Approvals (Aug) | 0.5% |  | 0.9% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.7% | 0.4% | 0.1% |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Sep) |  |  | 2.02% |
-| 05:00 | IDR | Low | Inflation (MoM) (Sep) |  |  | -0.03% |
-| 05:00 | IDR | Low | Inflation (YoY) (Sep) |  |  | 2.12% |
+| 43 min | IDR | Low | Core Inflation (YoY) (Sep) |  |  | 2.02% |
+| 43 min | IDR | Low | Inflation (MoM) (Sep) |  |  | -0.03% |
+| 43 min | IDR | Low | Inflation (YoY) (Sep) |  |  | 2.12% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Sep) |  |  | 56.7 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Aug) |  | 2.6% | 2.7% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Sep) |  |  | -5.2% |
@@ -54,8 +54,8 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.170% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.954% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.238% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.70% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | -6.50% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -37.70% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.8% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 3,883.0 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.4% |
