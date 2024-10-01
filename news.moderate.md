@@ -26,4 +26,4 @@
 | 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 2.5% | 3.1% | 3.1% |
 | 21:30 | USD | API Weekly Crude Oil Stock | -1.458M | -2.100M | -4.339M |
-| 23:15 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 9 min | USD | FOMC Member Bostic Speaks |  |  |  |
