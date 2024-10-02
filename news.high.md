@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 13:15 | USD | ADP Nonfarm Employment Change (Sep) |  | 124K | 99K |
-| 15:30 | USD | Crude Oil Inventories |  | -2.100M | -4.471M |
+| 15:30 | USD | Crude Oil Inventories |  | -1.500M | -4.471M |

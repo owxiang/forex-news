@@ -8,7 +8,7 @@
 | 00:00 | AUD | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) | 48.3 |  | 51.9 |
-| 53 min | JPY | Household Confidence (Sep) |  | 37.1 | 36.7 |
+| 06:00 | JPY | Household Confidence (Sep) | 36.9 | 37.1 | 36.7 |
 | 08:45 | EUR | French Government Budget Balance (Aug) |  |  | -156.9B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  | 6.5% | 6.5% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
@@ -18,11 +18,9 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 148.2 |
 | 12:00 | USD | Mortgage Market Index |  |  | 296.1 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,132.9 |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.8% |
-| 12:00 | USD | Milk Auctions |  |  | 3,883.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 10.4% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) |  |  | -1.4% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 43.59K |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
