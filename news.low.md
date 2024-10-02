@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | KRW | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
+| 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | AUD | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
@@ -19,8 +19,8 @@
 | 12:00 | USD | MBA Purchase Index | 149.3 |  | 148.2 |
 | 12:00 | USD | Mortgage Market Index | 292.3 |  | 296.1 |
 | 12:00 | USD | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | SGD | S&P Global Singapore PMI (Sep) | 51.0 |  | 50.9 |
@@ -36,4 +36,4 @@
 | 15:30 | USD | Gasoline Inventories | 1.119M | -0.500M | -1.538M |
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Sep) | 47.30 |  | 48.50 |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -3.058B |
+| 18:30 | BRL | Foreign Exchange Flows | -0.164B |  | -3.058B |
