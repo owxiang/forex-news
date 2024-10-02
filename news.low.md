@@ -19,8 +19,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 296.1 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,132.9 |
 | 12:30 | INR | M3 Money Supply |  |  | 10.4% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) |  |  | -1.4% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 43.59K |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |

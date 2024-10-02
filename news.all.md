@@ -9,8 +9,8 @@
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) | 48.3 |  | 51.9 |
 | 06:00 | JPY | Low | Household Confidence (Sep) | 36.9 | 37.1 | 36.7 |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) |  | 12.1K | 21.9K |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.18% |
+| 52 min | EUR | Moderate | Spanish Unemployment Change (Sep) |  | 12.1K | 21.9K |
+| 52 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.18% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:45 | EUR | Low | French Government Budget Balance (Aug) |  |  | -156.9B |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 6.5% | 6.5% |
@@ -29,10 +29,10 @@
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.4% |
 | 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  |  | 6.1% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  |  | -1.4% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  |  | 6.1% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 124K | 99K |
 | 13:30 | ZAR | Low | Total Vehicle Sales |  |  | 43.59K |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |

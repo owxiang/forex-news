@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | EUR | Spanish Unemployment Change (Sep) |  | 12.1K | 21.9K |
-| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.18% |
+| 52 min | EUR | Spanish Unemployment Change (Sep) |  | 12.1K | 21.9K |
+| 52 min | BRL | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.18% |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.110% |
