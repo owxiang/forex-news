@@ -16,4 +16,4 @@
 | 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.840M |  | 0.116M |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 17:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 38 min | EUR | ECB's Schnabel Speaks |  |  |  |
