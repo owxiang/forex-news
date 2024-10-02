@@ -13,7 +13,7 @@
 | 12:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:45 | EUR | German Buba Balz Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Aug) | 2.2% |  | 6.1% |
-| 50 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.116M |
-| 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 24 min | USD | Cushing Crude Oil Inventories |  |  | 0.116M |
+| 54 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:45 | EUR | ECB's Schnabel Speaks |  |  |  |

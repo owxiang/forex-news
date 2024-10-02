@@ -29,30 +29,28 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 2.2% |  | 6.1% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) | 143K | 124K | 103K |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:00 | SGD | Low | S&P Global Singapore PMI (Sep) | 51.0 |  | 50.9 |
-| 20 min | INR | Low | M3 Money Supply |  |  | 10.4% |
-| 50 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 50 min | USD | Low | All Car Sales (Sep) | 3.01M |  | 2.88M |
-| 50 min | USD | Low | All Truck Sales (Sep) | 12.77M |  | 12.38M |
-| 50 min | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.500M | -4.471M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.124M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.826M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.116M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.158M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.900M | -2.227M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.176M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.191M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.500M | -1.538M |
-| 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Sep) |  |  | 48.50 |
+| 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 15:00 | USD | Low | All Car Sales (Sep) | 3.01M |  | 2.88M |
+| 15:00 | USD | Low | All Truck Sales (Sep) | 12.77M |  | 12.38M |
+| 24 min | USD | High | Crude Oil Inventories |  | -1.500M | -4.471M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.124M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | 0.826M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.116M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | -0.158M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.900M | -2.227M |
+| 24 min | USD | Low | Gasoline Production |  |  | 0.176M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | 0.191M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
+| 24 min | USD | Low | Gasoline Inventories |  | -0.500M | -1.538M |
+| 54 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Sep) |  |  | 48.50 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
