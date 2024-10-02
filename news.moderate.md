@@ -10,9 +10,9 @@
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 11:00 | USD | OPEC Meeting |  |  |  |
-| 54 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 12:45 | EUR | German Buba Balz Speaks |  |  |  |
-| 13:00 | BRL | Industrial Production (YoY) (Aug) |  |  | 6.1% |
+| 12:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 39 min | EUR | German Buba Balz Speaks |  |  |  |
+| 54 min | BRL | Industrial Production (YoY) (Aug) |  |  | 6.1% |
 | 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.116M |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
