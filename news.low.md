@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | KRW | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
+| 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | AUD | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
