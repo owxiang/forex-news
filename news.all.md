@@ -1,56 +1,63 @@
-## 02 October 2024 - All Forex News
+## 03 October 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
-| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
-| 00:00 | AUD | Low | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
-| 00:00 | AUD | Low | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
-| 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) | 48.3 |  | 51.9 |
-| 06:00 | JPY | Low | Household Confidence (Sep) | 36.9 | 37.1 | 36.7 |
-| 07:30 | USD | Low | Total Vehicle Sales (Sep) | 15.80M | 15.60M | 15.10M |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) | 3.2K | 12.1K | 21.9K |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) | 0.18% |  | 0.18% |
-| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:45 | EUR | Low | French Government Budget Balance (Aug) | -171.9B |  | -156.9B |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 6.2% | 6.5% | 6.4% |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.880% |  | 3.811% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.4% |
-| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.080% |  | 2.110% |
-| 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.14% |  | 6.13% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.3% |  | 11.0% |
-| 12:00 | USD | Low | MBA Purchase Index | 149.3 |  | 148.2 |
-| 12:00 | USD | Low | Mortgage Market Index | 292.3 |  | 296.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
-| 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 2.2% |  | 6.1% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) | 143K | 124K | 103K |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:00 | SGD | Low | S&P Global Singapore PMI (Sep) | 51.0 |  | 50.9 |
-| 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | Low | All Car Sales (Sep) | 3.01M |  | 2.88M |
-| 15:00 | USD | Low | All Truck Sales (Sep) | 12.77M |  | 12.38M |
-| 15:30 | USD | High | Crude Oil Inventories | 3.889M | -1.500M | -4.471M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.662M |  | -0.124M |
-| 15:30 | USD | Low | Crude Oil Imports | 0.191M |  | 0.826M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.840M |  | 0.116M |
-| 15:30 | USD | Low | Distillate Fuel Production | -0.104M |  | -0.158M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -1.284M | -1.900M | -2.227M |
-| 15:30 | USD | Low | Gasoline Production | -0.235M |  | 0.176M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | -0.277M |  | 0.191M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -3.3% |  | -1.2% |
-| 15:30 | USD | Low | Gasoline Inventories | 1.119M | -0.500M | -1.538M |
-| 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Sep) | 47.30 |  | 48.50 |
-| 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 17:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows | -0.164B |  | -3.058B |
+| 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.5 | 50.6 | 52.5 |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 774.0B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,926.4B |
+| 54 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 2.1% |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  | 53.9 | 53.7 |
+| 02:30 | AUD | Low | Exports (MoM) (Aug) |  |  | 0.7% |
+| 02:30 | AUD | Low | Imports (MoM) (Aug) |  |  | -0.8% |
+| 02:30 | AUD | Moderate | Trade Balance (Aug) |  | 5.510B | 6.009B |
+| 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.915% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Sep) |  | -0.1% | 0.0% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 54.0 | 54.6 |
+| 08:15 | ZAR | Low | S&P Global South Africa PMI (Sep) |  |  | 50.5 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 50.8 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Sep) |  | 51.2 | 51.4 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Sep) |  | 47.4 | 53.1 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.3 | 55.0 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 47.2 | 48.4 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 50.6 | 51.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 48.9 | 51.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 50.5 | 52.9 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) |  | 52.9 | 53.8 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 52.8 | 53.7 |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | -11.8% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.95% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.49% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 3.30% |
+| 10:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
+| 10:00 | EUR | Low | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
+| 12:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
+| 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |
+| 13:30 | USD | High | Initial Jobless Claims |  | 221K | 218K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.75K |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 52.9 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 54.2 |
+| 14:30 | INR | Low | M3 Money Supply |  |  | 10.4% |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.4 | 54.6 |
+| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 55.4 | 55.7 |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -0.2% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.5% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Aug) |  | 0.1% | 5.0% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.4% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Sep) |  |  | 53.3 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Sep) |  |  | 50.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Sep) |  |  | 53.0 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Sep) |  | 51.6 | 51.5 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) |  |  | 57.3 |
+| 15:30 | USD | Low | Natural Gas Storage |  |  | 47B |
+| 15:40 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.650% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,080B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
+| 22:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 415.92B |

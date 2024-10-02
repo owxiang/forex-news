@@ -1,39 +1,39 @@
-## 02 October 2024 - Low Impact Forex News
+## 03 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
-| 00:00 | KRW | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
-| 00:00 | AUD | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
-| 00:00 | AUD | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
-| 00:50 | JPY | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) | 48.3 |  | 51.9 |
-| 06:00 | JPY | Household Confidence (Sep) | 36.9 | 37.1 | 36.7 |
-| 07:30 | USD | Total Vehicle Sales (Sep) | 15.80M | 15.60M | 15.10M |
-| 08:45 | EUR | French Government Budget Balance (Aug) | -171.9B |  | -156.9B |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 6.2% | 6.5% | 6.4% |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.880% |  | 3.811% |
-| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.14% |  | 6.13% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.3% |  | 11.0% |
-| 12:00 | USD | MBA Purchase Index | 149.3 |  | 148.2 |
-| 12:00 | USD | Mortgage Market Index | 292.3 |  | 296.1 |
-| 12:00 | USD | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
-| 13:00 | BRL | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
-| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 14:00 | SGD | S&P Global Singapore PMI (Sep) | 51.0 |  | 50.9 |
-| 15:00 | USD | All Car Sales (Sep) | 3.01M |  | 2.88M |
-| 15:00 | USD | All Truck Sales (Sep) | 12.77M |  | 12.38M |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.662M |  | -0.124M |
-| 15:30 | USD | Crude Oil Imports | 0.191M |  | 0.826M |
-| 15:30 | USD | Distillate Fuel Production | -0.104M |  | -0.158M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -1.284M | -1.900M | -2.227M |
-| 15:30 | USD | Gasoline Production | -0.235M |  | 0.176M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.277M |  | 0.191M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -3.3% |  | -1.2% |
-| 15:30 | USD | Gasoline Inventories | 1.119M | -0.500M | -1.538M |
-| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Sep) | 47.30 |  | 48.50 |
-| 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | -0.164B |  | -3.058B |
+| 00:00 | AUD | Judo Bank Australia Services PMI | 50.5 | 50.6 | 52.5 |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 774.0B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,926.4B |
+| 54 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.1% |
+| 02:30 | AUD | Exports (MoM) (Aug) |  |  | 0.7% |
+| 02:30 | AUD | Imports (MoM) (Aug) |  |  | -0.8% |
+| 07:30 | CHF | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
+| 08:15 | ZAR | S&P Global South Africa PMI (Sep) |  |  | 50.5 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Sep) |  |  | 50.8 |
+| 08:50 | EUR | HCOB France Composite PMI (Sep) |  | 47.4 | 53.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Sep) |  | 47.2 | 48.4 |
+| 09:30 | HKD | Retail Sales (YoY) (Aug) |  |  | -11.8% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.95% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.49% |
+| 10:00 | NOK | House Price Index (YoY) (Sep) |  |  | 3.30% |
+| 10:00 | EUR | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
+| 10:00 | EUR | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
+| 12:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 1.0% |
+| 12:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.891K |
+| 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 125.8B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.75K |
+| 14:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 52.9 |
+| 14:00 | BRL | S&P Global Services PMI (Sep) |  |  | 54.2 |
+| 14:30 | INR | M3 Money Supply |  |  | 10.4% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.2% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.5% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.4% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Sep) |  |  | 53.3 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) |  |  | 53.0 |
+| 15:30 | USD | Natural Gas Storage |  |  | 47B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.700% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.650% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
+| 22:00 | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |

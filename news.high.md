@@ -1,6 +1,8 @@
-## 02 October 2024 - High Impact Forex News
+## 03 October 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (Sep) | 143K | 124K | 103K |
-| 15:30 | USD | Crude Oil Inventories | 3.889M | -1.500M | -4.471M |
+| 13:30 | USD | Initial Jobless Claims |  | 221K | 218K |
+| 14:45 | USD | S&P Global Services PMI (Sep) |  | 55.4 | 55.7 |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Sep) |  | 51.6 | 51.5 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Sep) |  |  | 57.3 |
