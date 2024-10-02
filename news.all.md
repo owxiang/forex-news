@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | KRW | Low | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
+| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | AUD | Low | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) | 48.3 |  | 51.9 |
-| 06:00 | JPY | Low | Household Confidence (Sep) |  | 37.1 | 36.7 |
+| 53 min | JPY | Low | Household Confidence (Sep) |  | 37.1 | 36.7 |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) |  | 12.1K | 21.9K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.18% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -31,8 +31,8 @@
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.4% |
 | 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  |  | 6.1% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  |  | -1.4% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 124K | 99K |
