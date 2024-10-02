@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | KRW | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
+| 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | AUD | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
@@ -12,7 +12,7 @@
 | 07:30 | USD | Total Vehicle Sales (Sep) | 15.80M | 15.60M | 15.10M |
 | 08:45 | EUR | French Government Budget Balance (Aug) | -171.9B |  | -156.9B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 6.2% | 6.5% | 6.4% |
-| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 24 min | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.13% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
@@ -20,8 +20,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 296.1 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,132.9 |
 | 12:30 | INR | M3 Money Supply |  |  | 10.4% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) |  |  | -1.4% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 43.59K |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |

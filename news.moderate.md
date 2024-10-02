@@ -5,11 +5,11 @@
 | 08:00 | EUR | Spanish Unemployment Change (Sep) | 3.2K | 12.1K | 21.9K |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) | 0.18% |  | 0.18% |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 52 min | EUR | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.110% |
-| 10:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 11:00 | USD | OPEC Meeting |  |  |  |
+| 10:00 | EUR | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.4% |
+| 24 min | EUR | German 10-Year Bund Auction |  |  | 2.110% |
+| 24 min | EUR | ECB's Lane Speaks |  |  |  |
+| 39 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 54 min | USD | OPEC Meeting |  |  |  |
 | 12:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:45 | EUR | German Buba Balz Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Aug) |  |  | 6.1% |
