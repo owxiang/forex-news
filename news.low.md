@@ -19,14 +19,15 @@
 | 12:00 | USD | MBA Purchase Index | 149.3 |  | 148.2 |
 | 12:00 | USD | Mortgage Market Index | 292.3 |  | 296.1 |
 | 12:00 | USD | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 14:00 | SGD | S&P Global Singapore PMI (Sep) | 51.0 |  | 50.9 |
 | 20 min | INR | M3 Money Supply |  |  | 10.4% |
-| 20 min | ZAR | Total Vehicle Sales |  |  | 43.59K |
-| 50 min | CHF | SNB Quarterly Bulletin |  |  |  |
-| 50 min | SGD | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
-| 15:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
+| 50 min | USD | All Car Sales (Sep) | 3.01M |  | 2.88M |
+| 50 min | USD | All Truck Sales (Sep) | 12.77M |  | 12.38M |
+| 50 min | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.124M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.826M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.158M |

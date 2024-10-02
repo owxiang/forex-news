@@ -29,17 +29,18 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 2.2% |  | 6.1% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
-| 5 min | USD | High | ADP Nonfarm Employment Change (Sep) |  | 124K | 99K |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) | 143K | 124K | 103K |
+| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 14:00 | SGD | Low | S&P Global Singapore PMI (Sep) | 51.0 |  | 50.9 |
 | 20 min | INR | Low | M3 Money Supply |  |  | 10.4% |
-| 20 min | ZAR | Low | Total Vehicle Sales |  |  | 43.59K |
-| 50 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 50 min | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
-| 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
+| 50 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 50 min | USD | Low | All Car Sales (Sep) | 3.01M |  | 2.88M |
+| 50 min | USD | Low | All Truck Sales (Sep) | 12.77M |  | 12.38M |
+| 50 min | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.500M | -4.471M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.124M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.826M |
