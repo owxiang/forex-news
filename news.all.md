@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | KRW | Low | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
+| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | AUD | Low | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
@@ -11,11 +11,11 @@
 | 06:00 | JPY | Low | Household Confidence (Sep) | 36.9 | 37.1 | 36.7 |
 | 07:30 | USD | Low | Total Vehicle Sales (Sep) | 15.80M | 15.60M | 15.10M |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) | 3.2K | 12.1K | 21.9K |
-| 25 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 40 min | EUR | Low | French Government Budget Balance (Aug) |  |  | -156.9B |
-| 55 min | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 6.5% | 6.5% |
-| 55 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.18% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
+| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) | 0.18% |  | 0.18% |
+| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:45 | EUR | Low | French Government Budget Balance (Aug) | -171.9B |  | -156.9B |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 6.2% | 6.5% | 6.4% |
+| 52 min | EUR | Moderate | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.110% |
 | 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -30,8 +30,8 @@
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.4% |
 | 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  |  | 6.1% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) |  |  | -1.4% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 124K | 99K |
