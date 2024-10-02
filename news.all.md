@@ -29,8 +29,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 2.2% |  | 6.1% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) | 143K | 124K | 103K |
@@ -51,6 +51,6 @@
 | 15:30 | USD | Low | Gasoline Inventories | 1.119M | -0.500M | -1.538M |
 | 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Sep) | 47.30 |  | 48.50 |
-| 8 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 38 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.058B |
+| 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 17:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -3.058B |
