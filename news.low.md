@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | KRW | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
+| 00:00 | KRW | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | AUD | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
@@ -19,13 +19,13 @@
 | 12:00 | USD | MBA Purchase Index | 149.3 |  | 148.2 |
 | 12:00 | USD | Mortgage Market Index | 292.3 |  | 296.1 |
 | 12:00 | USD | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
-| 24 min | INR | M3 Money Supply |  |  | 10.4% |
-| 54 min | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
-| 54 min | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
-| 54 min | BRL | Industrial Production (MoM) (Aug) |  |  | -1.4% |
-| 13:30 | ZAR | Total Vehicle Sales |  |  | 43.59K |
-| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 14:00 | SGD | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
+| 13:00 | BRL | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
+| 20 min | INR | M3 Money Supply |  |  | 10.4% |
+| 20 min | ZAR | Total Vehicle Sales |  |  | 43.59K |
+| 50 min | CHF | SNB Quarterly Bulletin |  |  |  |
+| 50 min | SGD | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
 | 15:00 | USD | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.124M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.826M |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | KRW | Low | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
+| 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | AUD | Low | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
@@ -28,16 +28,16 @@
 | 12:00 | USD | Low | Mortgage Market Index | 292.3 |  | 296.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 1,099.5 |  | 1,132.9 |
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 24 min | INR | Low | M3 Money Supply |  |  | 10.4% |
-| 39 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Aug) |  |  | 6.1% |
-| 54 min | BRL | Low | Industrial Production (MoM) (Aug) |  |  | -1.4% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 124K | 99K |
-| 13:30 | ZAR | Low | Total Vehicle Sales |  |  | 43.59K |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:00 | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
+| 12:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 6.40% |  | -1.30% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 1.80% |  | -1.00% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 2.2% |  | 6.1% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.1% |  | -1.4% |
+| 5 min | USD | High | ADP Nonfarm Employment Change (Sep) |  | 124K | 99K |
+| 20 min | INR | Low | M3 Money Supply |  |  | 10.4% |
+| 20 min | ZAR | Low | Total Vehicle Sales |  |  | 43.59K |
+| 50 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 50 min | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
 | 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | Low | Dallas Fed PCE (Aug) |  |  | 1.70% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.500M | -4.471M |
