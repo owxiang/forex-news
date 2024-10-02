@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | KRW | Low | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
+| 00:00 | KRW | Low | CPI (YoY) (Sep) | 1.6% |  | 2.0% |
 | 00:00 | AUD | Low | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
-| 5 min | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) | 48.3 |  | 51.9 |
 | 06:00 | JPY | Low | Household Confidence (Sep) |  | 37.1 | 36.7 |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Sep) |  | 12.1K | 21.9K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | 0.18% |
