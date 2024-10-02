@@ -6,10 +6,8 @@
 | 00:00 | KRW | CPI (MoM) (Sep) | 0.1% |  | 0.4% |
 | 00:00 | AUD | AIG Construction Index (Sep) | -19.8 |  | -38.1 |
 | 00:00 | AUD | AIG Manufacturing Index (Sep) | -33.6 |  | -30.8 |
-| 44 min | JPY | Monetary Base (YoY) (Sep) |  | 0.8% | 0.6% |
-| 54 min | SGD | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
+| 00:50 | JPY | Monetary Base (YoY) (Sep) | -0.1% | 0.8% | 0.6% |
+| 5 min | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 51.9 |
 | 06:00 | JPY | Household Confidence (Sep) |  | 37.1 | 36.7 |
 | 08:45 | EUR | French Government Budget Balance (Aug) |  |  | -156.9B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  | 6.5% | 6.5% |
@@ -23,11 +21,12 @@
 | 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.8% |
 | 12:00 | USD | Milk Auctions |  |  | 3,883.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 10.4% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | -1.30% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | -1.00% |
 | 13:00 | BRL | Industrial Production (MoM) (Aug) |  |  | -1.4% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 43.59K |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 14:00 | SGD | S&P Global Singapore PMI (Sep) |  |  | 50.9 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.124M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.826M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.158M |
