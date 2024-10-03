@@ -36,23 +36,23 @@
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 53.4% |  | 1.0% |
 | 12:30 | INR | Low | M3 Money Supply | 10.8% |  | 10.4% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 6 min | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
-| 21 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |
-| 21 min | USD | High | Initial Jobless Claims |  | 222K | 218K |
-| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.75K |
-| 51 min | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 52.9 |
-| 51 min | BRL | Low | S&P Global Services PMI (Sep) |  |  | 54.2 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.4 | 54.6 |
-| 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 55.4 | 55.7 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -0.2% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.5% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Aug) |  | 0.1% | 5.0% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.4% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Sep) |  |  | 53.3 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Sep) |  |  | 50.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Sep) |  |  | 53.0 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Sep) |  | 51.7 | 51.5 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) |  | 56.3 | 57.3 |
+| 13:15 | CAD | Low | Reserve Assets Total (Sep) | 128.1B |  | 125.8B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,826K |  | 1,827K |
+| 13:30 | USD | High | Initial Jobless Claims | 225K | 222K | 219K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 225.00K |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Sep) | 55.2 |  | 52.9 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Sep) | 55.8 |  | 54.2 |
+| 35 min | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.4 | 54.6 |
+| 35 min | USD | High | S&P Global Services PMI (Sep) |  | 55.4 | 55.7 |
+| 50 min | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -0.2% |
+| 50 min | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.5% |
+| 50 min | USD | Moderate | Factory Orders (MoM) (Aug) |  | 0.1% | 5.0% |
+| 50 min | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.4% |
+| 50 min | USD | Low | ISM Non-Manufacturing Business Activity (Sep) |  |  | 53.3 |
+| 50 min | USD | Moderate | ISM Non-Manufacturing Employment (Sep) |  |  | 50.2 |
+| 50 min | USD | Low | ISM Non-Manufacturing New Orders (Sep) |  |  | 53.0 |
+| 50 min | USD | High | ISM Non-Manufacturing PMI (Sep) |  | 51.7 | 51.5 |
+| 50 min | USD | High | ISM Non-Manufacturing Prices (Sep) |  | 56.3 | 57.3 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 59B | 47B |
 | 15:40 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
