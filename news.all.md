@@ -57,6 +57,5 @@
 | 15:40 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.755% |  | 4.700% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.655% |  | 4.650% |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,080B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
-| 54 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 415.92B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,047B |  | 7,080B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.097T |  | 3.142T |

@@ -21,4 +21,4 @@
 | 15:00 | USD | Factory Orders (MoM) (Aug) | -0.2% | 0.1% | 4.9% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 48.1 |  | 50.2 |
 | 15:40 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 7,080B |
+| 21:30 | USD | Fed's Balance Sheet | 7,047B |  | 7,080B |

@@ -34,5 +34,4 @@
 | 15:30 | USD | Natural Gas Storage | 55B | 59B | 47B |
 | 16:30 | USD | 4-Week Bill Auction | 4.755% |  | 4.700% |
 | 16:30 | USD | 8-Week Bill Auction | 4.655% |  | 4.650% |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
-| 54 min | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.097T |  | 3.142T |
