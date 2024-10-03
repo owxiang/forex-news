@@ -12,8 +12,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 5.644B | 5.510B | 5.636B |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.871% |  | 0.915% |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.8% | 1.1% | 1.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.3% | -0.1% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.8% | 1.1% | 1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) | 57.0 | 54.0 | 54.6 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Sep) | 51.0 |  | 50.5 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) | 49.7 |  | 50.8 |
@@ -30,10 +30,10 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 2.92% |  | 2.95% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.55% |  | 3.49% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 4.10% |  | 3.30% |
-| 10:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
-| 12:30 | USD | Low | Challenger Job Cuts (Sep) | 72.821K |  | 75.891K |
+| 10:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 53.4% |  | 1.0% |
+| 12:30 | USD | Low | Challenger Job Cuts (Sep) | 72.821K |  | 75.891K |
 | 12:30 | INR | Low | M3 Money Supply | 10.8% |  | 10.4% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) | 128.1B |  | 125.8B |
@@ -55,20 +55,8 @@
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Sep) | 59.4 | 56.3 | 57.3 |
 | 15:30 | USD | Low | Natural Gas Storage | 55B | 59B | 47B |
 | 15:40 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 16:15 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.91M |
-| 16:15 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.27M |
-| 16:15 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
-| 16:15 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
-| 16:15 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.28M |
-| 16:15 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.10M |  | 4.23M |
-| 16:15 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.41M |
-| 16:15 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 0.65M |  | 0.96M |
-| 16:15 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.50M |  | 1.45M |
-| 16:15 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.98M |  | 8.98M |
-| 16:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.93M |  | 2.96M |
-| 16:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.82M |  | 0.87M |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.755% |  | 4.700% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.655% |  | 4.650% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,080B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
-| 22:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 415.92B |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,080B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
+| 54 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 415.92B |
