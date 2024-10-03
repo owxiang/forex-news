@@ -12,8 +12,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 5.644B | 5.510B | 5.636B |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.871% |  | 0.915% |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Sep) |  | -0.1% | 0.0% |
+| 22 min | CHF | Moderate | CPI (MoM) (Sep) |  | -0.1% | 0.0% |
+| 22 min | CHF | Low | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 54.0 | 54.6 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Sep) |  |  | 50.5 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 50.8 |
@@ -30,11 +30,11 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.95% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.49% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 3.30% |
-| 10:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 10:00 | EUR | Low | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
+| 10:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 12:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
-| 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
+| 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |
