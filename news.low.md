@@ -8,7 +8,7 @@
 | 01:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 2.1% |
 | 02:30 | AUD | Exports (MoM) (Aug) | -0.2% |  | 0.3% |
 | 02:30 | AUD | Imports (MoM) (Aug) | -0.2% |  | -0.6% |
-| 22 min | CHF | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
+| 07:30 | CHF | CPI (YoY) (Sep) | 0.8% | 1.1% | 1.1% |
 | 08:15 | ZAR | S&P Global South Africa PMI (Sep) |  |  | 50.5 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Sep) |  |  | 50.8 |
 | 08:50 | EUR | HCOB France Composite PMI (Sep) |  | 47.4 | 53.1 |
@@ -17,8 +17,8 @@
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.95% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.49% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) |  |  | 3.30% |
-| 10:00 | EUR | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
 | 10:00 | EUR | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
+| 10:00 | EUR | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
 | 12:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 12:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.891K |
