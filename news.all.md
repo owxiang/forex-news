@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.5 | 50.6 | 52.5 |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 774.0B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,926.4B |
-| 54 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 2.1% |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  | 53.9 | 53.7 |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -58.0B |  | 774.9B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 757.9B |  | -1,927.7B |
+| 01:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.8% |  | 2.1% |
+| 5 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  | 53.9 | 53.7 |
 | 02:30 | AUD | Low | Exports (MoM) (Aug) |  |  | 0.7% |
 | 02:30 | AUD | Low | Imports (MoM) (Aug) |  |  | -0.8% |
 | 02:30 | AUD | Moderate | Trade Balance (Aug) |  | 5.510B | 6.009B |
@@ -33,8 +33,8 @@
 | 10:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 10:00 | EUR | Low | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
 | 12:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |

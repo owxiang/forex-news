@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Services PMI | 50.5 | 50.6 | 52.5 |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 774.0B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,926.4B |
-| 54 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.1% |
+| 00:50 | JPY | Foreign Bonds Buying | -58.0B |  | 774.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 757.9B |  | -1,927.7B |
+| 01:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 2.1% |
 | 02:30 | AUD | Exports (MoM) (Aug) |  |  | 0.7% |
 | 02:30 | AUD | Imports (MoM) (Aug) |  |  | -0.8% |
 | 07:30 | CHF | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
@@ -20,8 +20,8 @@
 | 10:00 | EUR | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 10:00 | EUR | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
 | 12:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 12:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.891K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 125.8B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.75K |
 | 14:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 52.9 |

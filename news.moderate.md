@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Sep) |  | 53.9 | 53.7 |
+| 5 min | JPY | au Jibun Bank Japan Services PMI (Sep) |  | 53.9 | 53.7 |
 | 02:30 | AUD | Trade Balance (Aug) |  | 5.510B | 6.009B |
 | 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 04:35 | JPY | 10-Year JGB Auction |  |  | 0.915% |
