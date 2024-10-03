@@ -17,15 +17,15 @@
 | 10:00 | EUR | French 10-Year OAT Auction | 2.92% |  | 2.95% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.55% |  | 3.49% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) | 4.10% |  | 3.30% |
-| 10:00 | EUR | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
 | 10:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
-| 24 min | USD | Challenger Job Cuts (YoY) |  |  | 1.0% |
-| 24 min | USD | Challenger Job Cuts (Sep) |  |  | 75.891K |
-| 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 125.8B |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.75K |
-| 14:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 52.9 |
-| 14:00 | BRL | S&P Global Services PMI (Sep) |  |  | 54.2 |
-| 14:30 | INR | M3 Money Supply |  |  | 10.4% |
+| 10:00 | EUR | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
+| 12:30 | USD | Challenger Job Cuts (Sep) | 72.821K |  | 75.891K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 53.4% |  | 1.0% |
+| 12:30 | INR | M3 Money Supply | 10.8% |  | 10.4% |
+| 6 min | CAD | Reserve Assets Total (Sep) |  |  | 125.8B |
+| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.75K |
+| 51 min | BRL | S&P Global Composite PMI (Sep) |  |  | 52.9 |
+| 51 min | BRL | S&P Global Services PMI (Sep) |  |  | 54.2 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.2% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.5% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.4% |

@@ -30,18 +30,18 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 2.92% |  | 2.95% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.55% |  | 3.49% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 4.10% |  | 3.30% |
-| 10:00 | EUR | Low | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
-| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
-| 24 min | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
-| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 222K | 218K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.75K |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 52.9 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 54.2 |
-| 14:30 | INR | Low | M3 Money Supply |  |  | 10.4% |
+| 10:00 | EUR | Low | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
+| 12:30 | USD | Low | Challenger Job Cuts (Sep) | 72.821K |  | 75.891K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 53.4% |  | 1.0% |
+| 12:30 | INR | Low | M3 Money Supply | 10.8% |  | 10.4% |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 6 min | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |
+| 21 min | USD | High | Initial Jobless Claims |  | 222K | 218K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.75K |
+| 51 min | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 52.9 |
+| 51 min | BRL | Low | S&P Global Services PMI (Sep) |  |  | 54.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 54.4 | 54.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Sep) |  | 55.4 | 55.7 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -0.2% |

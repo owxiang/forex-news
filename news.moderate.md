@@ -15,8 +15,8 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 51.4 | 50.5 | 52.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) | 52.6 | 52.9 | 53.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) | 52.4 | 52.8 | 53.7 |
-| 24 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,834K |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 21 min | USD | Continuing Jobless Claims |  |  | 1,834K |
 | 14:45 | USD | S&P Global Composite PMI (Sep) |  | 54.4 | 54.6 |
 | 15:00 | USD | Factory Orders (MoM) (Aug) |  | 0.1% | 5.0% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Sep) |  |  | 50.2 |
