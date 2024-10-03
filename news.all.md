@@ -32,9 +32,9 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) | 4.10% |  | 3.30% |
 | 10:00 | EUR | Low | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
-| 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
+| 24 min | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
+| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 222K | 218K |
