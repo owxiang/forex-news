@@ -32,7 +32,19 @@
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Sep) | 59.9 |  | 53.3 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 59.4 |  | 53.0 |
 | 15:30 | USD | Natural Gas Storage | 55B | 59B | 47B |
-| 24 min | USD | 4-Week Bill Auction |  |  | 4.700% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 4.650% |
+| 16:15 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.91M |
+| 16:15 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.27M |
+| 16:15 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 16:15 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
+| 16:15 | USD | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.28M |
+| 16:15 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.10M |  | 4.23M |
+| 16:15 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.41M |
+| 16:15 | USD | OPEC Crude Oil Production Libya (Barrel) | 0.65M |  | 0.96M |
+| 16:15 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.50M |  | 1.45M |
+| 16:15 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.98M |  | 8.98M |
+| 16:15 | USD | OPEC Crude oil Production UAE (Barrel) | 2.93M |  | 2.96M |
+| 16:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.82M |  | 0.87M |
+| 16:30 | USD | 4-Week Bill Auction | 4.755% |  | 4.700% |
+| 16:30 | USD | 8-Week Bill Auction | 4.655% |  | 4.650% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
 | 22:00 | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |
