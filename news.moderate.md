@@ -1,24 +1,27 @@
-## 03 October 2024 - Moderate Impact Forex News
+## 04 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Sep) | 53.1 | 53.9 | 53.7 |
-| 02:30 | AUD | Trade Balance (Aug) | 5.644B | 5.510B | 5.636B |
-| 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
-| 04:35 | JPY | 10-Year JGB Auction | 0.871% |  | 0.915% |
-| 07:30 | CHF | CPI (MoM) (Sep) | -0.3% | -0.1% | 0.0% |
-| 08:15 | EUR | HCOB Spain Services PMI (Sep) | 57.0 | 54.0 | 54.6 |
-| 08:45 | EUR | HCOB Italy Services PMI (Sep) | 50.5 | 51.2 | 51.4 |
-| 08:50 | EUR | HCOB France Services PMI (Sep) | 49.6 | 48.3 | 55.0 |
-| 08:55 | EUR | HCOB Germany Services PMI (Sep) | 50.6 | 50.6 | 51.2 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 49.6 | 48.9 | 51.0 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 51.4 | 50.5 | 52.9 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) | 52.6 | 52.9 | 53.8 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) | 52.4 | 52.8 | 53.7 |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,826K |  | 1,827K |
-| 14:45 | USD | S&P Global Composite PMI (Sep) | 54.0 | 54.4 | 54.6 |
-| 15:00 | USD | Factory Orders (MoM) (Aug) | -0.2% | 0.1% | 4.9% |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 48.1 |  | 50.2 |
-| 15:40 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,047B |  | 7,080B |
+| 02:30 | AUD | Home Loans (MoM) (Aug) |  |  | 2.9% |
+| 08:55 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
+| 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.3% | 3.8% |
+| 13:30 | USD | Participation Rate (Sep) |  |  | 62.7% |
+| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 125K | 118K |
+| 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 7.9% |
+| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:10 | EUR | ECB's Elderson Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (Sep) |  | 50.3 | 48.2 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 587 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 87.0K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 158.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 315.4K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 16.0K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -35.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -11.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -37.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 66.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 71.7K |
