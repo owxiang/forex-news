@@ -14,12 +14,11 @@
 | 08:50 | EUR | HCOB France Composite PMI (Sep) | 48.6 | 47.4 | 53.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Sep) | 47.5 | 47.2 | 48.4 |
 | 09:30 | HKD | Retail Sales (YoY) (Aug) | -10.1% |  | -11.8% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.95% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.49% |
+| 10:00 | EUR | French 10-Year OAT Auction | 2.92% |  | 2.95% |
+| 10:00 | EUR | French 30-Year OAT Auction | 3.55% |  | 3.49% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) | 4.10% |  | 3.30% |
-| 10:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
 | 10:00 | EUR | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
-| 12:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
+| 10:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 12:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.891K |
 | 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 125.8B |
