@@ -12,29 +12,29 @@
 | 02:30 | AUD | Moderate | Trade Balance (Aug) | 5.644B | 5.510B | 5.636B |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.871% |  | 0.915% |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.8% | 1.1% | 1.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.3% | -0.1% | 0.0% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 54.0 | 54.6 |
-| 08:15 | ZAR | Low | S&P Global South Africa PMI (Sep) |  |  | 50.5 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 50.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Sep) |  | 51.2 | 51.4 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Sep) |  | 47.4 | 53.1 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 48.3 | 55.0 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 47.2 | 48.4 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 50.6 | 51.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 48.9 | 51.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 50.5 | 52.9 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) |  | 52.9 | 53.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 52.8 | 53.7 |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | -11.8% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.95% |
-| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.49% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 3.30% |
-| 10:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
-| 10:00 | EUR | Low | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) | 0.8% | 1.1% | 1.1% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) | 57.0 | 54.0 | 54.6 |
+| 08:15 | ZAR | Low | S&P Global South Africa PMI (Sep) | 51.0 |  | 50.5 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) | 49.7 |  | 50.8 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Sep) | 50.5 | 51.2 | 51.4 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Sep) | 48.6 | 47.4 | 53.1 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Sep) | 49.6 | 48.3 | 55.0 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Sep) | 47.5 | 47.2 | 48.4 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 50.6 | 50.6 | 51.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 49.6 | 48.9 | 51.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 51.4 | 50.5 | 52.9 |
+| 22 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) |  | 52.9 | 53.8 |
+| 22 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 52.8 | 53.7 |
+| 22 min | HKD | Low | Retail Sales (YoY) (Aug) |  |  | -11.8% |
+| 52 min | EUR | Low | French 10-Year OAT Auction |  |  | 2.95% |
+| 52 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.49% |
+| 52 min | NOK | Low | House Price Index (YoY) (Sep) |  |  | 3.30% |
+| 52 min | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
+| 52 min | EUR | Low | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
 | 12:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 125.8B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,834K |

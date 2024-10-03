@@ -7,14 +7,14 @@
 | 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 04:35 | JPY | 10-Year JGB Auction | 0.871% |  | 0.915% |
 | 07:30 | CHF | CPI (MoM) (Sep) | -0.3% | -0.1% | 0.0% |
-| 08:15 | EUR | HCOB Spain Services PMI (Sep) |  | 54.0 | 54.6 |
-| 08:45 | EUR | HCOB Italy Services PMI (Sep) |  | 51.2 | 51.4 |
-| 08:50 | EUR | HCOB France Services PMI (Sep) |  | 48.3 | 55.0 |
-| 08:55 | EUR | HCOB Germany Services PMI (Sep) |  | 50.6 | 51.2 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) |  | 48.9 | 51.0 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) |  | 50.5 | 52.9 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) |  | 52.9 | 53.8 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) |  | 52.8 | 53.7 |
+| 08:15 | EUR | HCOB Spain Services PMI (Sep) | 57.0 | 54.0 | 54.6 |
+| 08:45 | EUR | HCOB Italy Services PMI (Sep) | 50.5 | 51.2 | 51.4 |
+| 08:50 | EUR | HCOB France Services PMI (Sep) | 49.6 | 48.3 | 55.0 |
+| 08:55 | EUR | HCOB Germany Services PMI (Sep) | 50.6 | 50.6 | 51.2 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 49.6 | 48.9 | 51.0 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Sep) | 51.4 | 50.5 | 52.9 |
+| 22 min | GBP | S&P Global/CIPS UK Composite PMI (Sep) |  | 52.9 | 53.8 |
+| 22 min | GBP | S&P Global/CIPS UK Services PMI (Sep) |  | 52.8 | 53.7 |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,834K |
 | 14:45 | USD | S&P Global Composite PMI (Sep) |  | 54.4 | 54.6 |
