@@ -17,11 +17,11 @@
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.95% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.49% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) |  |  | 3.30% |
-| 10:00 | EUR | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 10:00 | EUR | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
+| 10:00 | EUR | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 12:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
-| 12:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.891K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 1.0% |
+| 12:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.891K |
 | 13:15 | CAD | Reserve Assets Total (Sep) |  |  | 125.8B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.75K |
 | 14:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 52.9 |
