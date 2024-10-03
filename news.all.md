@@ -6,14 +6,14 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -58.0B |  | 774.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 757.9B |  | -1,927.7B |
 | 01:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.8% |  | 2.1% |
-| 5 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  | 53.9 | 53.7 |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) | 53.1 | 53.9 | 53.7 |
 | 02:30 | AUD | Low | Exports (MoM) (Aug) |  |  | 0.7% |
 | 02:30 | AUD | Low | Imports (MoM) (Aug) |  |  | -0.8% |
 | 02:30 | AUD | Moderate | Trade Balance (Aug) |  | 5.510B | 6.009B |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.915% |
-| 07:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Sep) |  | -0.1% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.1% | 1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 54.0 | 54.6 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Sep) |  |  | 50.5 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 50.8 |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.95% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.49% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | 3.30% |
-| 10:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 10:00 | EUR | Low | PPI (YoY) (Aug) |  | -2.4% | -2.1% |
+| 10:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.4% | 0.8% |
 | 12:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
 | 12:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.891K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 1.0% |
