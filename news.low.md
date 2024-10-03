@@ -17,8 +17,8 @@
 | 10:00 | EUR | French 10-Year OAT Auction | 2.92% |  | 2.95% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.55% |  | 3.49% |
 | 10:00 | NOK | House Price Index (YoY) (Sep) | 4.10% |  | 3.30% |
-| 10:00 | EUR | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
 | 10:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
+| 10:00 | EUR | PPI (YoY) (Aug) | -2.3% | -2.4% | -2.2% |
 | 12:30 | USD | Challenger Job Cuts (Sep) | 72.821K |  | 75.891K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 53.4% |  | 1.0% |
 | 12:30 | INR | M3 Money Supply | 10.8% |  | 10.4% |
@@ -31,8 +31,8 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Aug) | -0.1% |  | 0.3% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Sep) | 59.9 |  | 53.3 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 59.4 |  | 53.0 |
-| 24 min | USD | Natural Gas Storage |  | 59B | 47B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.700% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.650% |
+| 15:30 | USD | Natural Gas Storage | 55B | 59B | 47B |
+| 24 min | USD | 4-Week Bill Auction |  |  | 4.700% |
+| 24 min | USD | 8-Week Bill Auction |  |  | 4.650% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.142T |
 | 22:00 | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |

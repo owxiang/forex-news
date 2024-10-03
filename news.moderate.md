@@ -20,5 +20,5 @@
 | 14:45 | USD | S&P Global Composite PMI (Sep) | 54.0 | 54.4 | 54.6 |
 | 15:00 | USD | Factory Orders (MoM) (Aug) | -0.2% | 0.1% | 4.9% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Sep) | 48.1 |  | 50.2 |
-| 34 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 15:40 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,080B |
