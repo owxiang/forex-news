@@ -24,8 +24,8 @@
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
 | 09:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | -7.0% |  | -27.8% |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
+| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | CAD | Low | Leading Index (MoM) (Sep) | 0.22% |  | 0.21% |
 | 12:30 | INR | Low | Bank Loan Growth | 13.0% |  | 13.0% |

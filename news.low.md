@@ -20,8 +20,8 @@
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
 | 09:30 | GBP | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
 | 10:00 | EUR | German Car Registration (YoY) | -7.0% |  | -27.8% |
-| 11:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
+| 11:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 12:00 | CAD | Leading Index (MoM) (Sep) | 0.22% |  | 0.21% |
 | 12:30 | INR | Bank Loan Growth | 13.0% |  | 13.0% |
 | 12:30 | INR | Deposit Growth | 11.5% |  | 11.5% |
