@@ -4,23 +4,23 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 50.0 |  | 49.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
-| 53 min | INR | HSBC India Services PMI (Sep) |  | 58.9 | 60.9 |
-| 53 min | SGD | Retail Sales (MoM) (Aug) |  |  | 3.1% |
-| 53 min | SGD | Retail Sales (YoY) (Aug) |  |  | 1.0% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Sep) |  | 2.4% | 2.4% |
-| 06:45 | CHF | Unemployment Rate s.a. (Sep) |  | 2.6% | 2.5% |
+| 06:00 | INR | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
+| 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
+| 06:00 | SGD | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
+| 39 min | CHF | Unemployment Rate n.s.a. (Sep) |  | 2.4% | 2.4% |
+| 39 min | CHF | Unemployment Rate s.a. (Sep) |  | 2.6% | 2.5% |
+| 07:45 | EUR | French Industrial Production (MoM) (Aug) |  | 0.3% | -0.5% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Aug) |  | 0.1% | -0.4% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 46.6 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Sep) |  |  | 38.9 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Sep) |  |  | 40.1 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 41.4 |
-| 08:45 | EUR | French Industrial Production (MoM) (Aug) |  | 0.3% | -0.5% |
 | 09:00 | GBP | Car Registration (YoY) (Sep) |  |  | -1.3% |
 | 09:00 | EUR | Italian Public Deficit (Q2) |  |  | 8.8% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | -27.8% |
-| 11:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
+| 11:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
 | 12:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.15% |
 | 12:00 | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.3% |

@@ -7,7 +7,7 @@
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
 | 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.3% | 3.8% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.8% | 3.8% |
 | 13:30 | USD | Participation Rate (Sep) |  |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 125K | 118K |
 | 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 7.9% |
