@@ -5,9 +5,9 @@
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Sep) | 50.0 |  | 49.4 |
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Aug) | 0.7% |  | 2.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
-| 06:00 | INR | Low | HSBC India Services PMI (Sep) |  | 58.9 | 60.9 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 3.1% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 53 min | INR | Low | HSBC India Services PMI (Sep) |  | 58.9 | 60.9 |
+| 53 min | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 3.1% |
+| 53 min | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 1.0% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) |  | 2.4% | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.6% | 2.5% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  | 0.1% | -0.4% |
