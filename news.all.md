@@ -20,12 +20,13 @@
 | 09:00 | GBP | Low | Car Registration (YoY) (Sep) | 1.0% |  | -1.3% |
 | 09:00 | EUR | Low | Italian Public Deficit (Q2) | 3.4% |  | 8.4% |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 22 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
-| 22 min | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
-| 52 min | EUR | Low | German Car Registration (YoY) |  |  | -27.8% |
-| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
-| 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) | 57.2 | 53.1 | 53.6 |
+| 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
+| 09:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
+| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | -27.8% |
+| 53 min | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
+| 53 min | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.15% |
 | 12:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 415.92B |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.3% |

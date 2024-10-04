@@ -17,10 +17,11 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) | 42.1 |  | 41.4 |
 | 09:00 | GBP | Car Registration (YoY) (Sep) | 1.0% |  | -1.3% |
 | 09:00 | EUR | Italian Public Deficit (Q2) | 3.4% |  | 8.4% |
-| 22 min | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
-| 52 min | EUR | German Car Registration (YoY) |  |  | -27.8% |
-| 11:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
-| 11:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
+| 09:30 | GBP | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
+| 10:00 | EUR | German Car Registration (YoY) |  |  | -27.8% |
+| 53 min | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
+| 53 min | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
 | 12:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.15% |
 | 12:00 | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.3% |
