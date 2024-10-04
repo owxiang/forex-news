@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Sep) |  |  | 49.4 |
+| 5 min | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Sep) |  |  | 49.4 |
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Aug) |  |  | 2.9% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Aug) |  |  | 5.4% |
 | 06:00 | INR | Low | HSBC India Services PMI (Sep) |  | 58.9 | 60.9 |
@@ -23,8 +23,8 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | -27.8% |
-| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
 | 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.15% |
 | 12:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 415.92B |
