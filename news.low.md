@@ -20,18 +20,18 @@
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
 | 09:30 | GBP | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
 | 10:00 | EUR | German Car Registration (YoY) | -7.0% |  | -27.8% |
-| 11:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
+| 11:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
 | 12:00 | CAD | Leading Index (MoM) (Sep) | 0.22% |  | 0.21% |
 | 12:30 | INR | Bank Loan Growth | 13.0% |  | 13.0% |
 | 12:30 | INR | Deposit Growth | 11.5% |  | 11.5% |
 | 12:30 | INR | FX Reserves, USD | 704.89B |  | 692.30B |
 | 13:00 | MXN | Unemployment Rate (Aug) | 2.80% |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Aug) | 3.00% |  | 2.90% |
-| 20 min | USD | Average Weekly Hours (Sep) |  | 34.3 | 34.3 |
-| 20 min | USD | Government Payrolls (Sep) |  |  | 24.0K |
-| 20 min | USD | Manufacturing Payrolls (Sep) |  | -5K | -24K |
-| 15:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.3 |
+| 13:30 | USD | Average Weekly Hours (Sep) | 34.2 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Sep) | 31.0K |  | 45.0K |
+| 13:30 | USD | Manufacturing Payrolls (Sep) | -7K | -5K | -27K |
+| 50 min | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.3 |
 | 19:00 | BRL | Trade Balance (Sep) |  |  | 4.83B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 33.1K |

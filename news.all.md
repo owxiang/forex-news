@@ -24,8 +24,8 @@
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
 | 09:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | -7.0% |  | -27.8% |
-| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
 | 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
+| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | CAD | Low | Leading Index (MoM) (Sep) | 0.22% |  | 0.21% |
 | 12:30 | INR | Low | Bank Loan Growth | 13.0% |  | 13.0% |
@@ -33,20 +33,20 @@
 | 12:30 | INR | Low | FX Reserves, USD | 704.89B |  | 692.30B |
 | 13:00 | MXN | Low | Unemployment Rate (Aug) | 2.80% |  | 2.70% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) | 3.00% |  | 2.90% |
-| 20 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.8% | 3.8% |
-| 20 min | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.4% |
-| 20 min | USD | Low | Average Weekly Hours (Sep) |  | 34.3 | 34.3 |
-| 20 min | USD | Low | Government Payrolls (Sep) |  |  | 24.0K |
-| 20 min | USD | Low | Manufacturing Payrolls (Sep) |  | -5K | -24K |
-| 20 min | USD | High | Nonfarm Payrolls (Sep) |  | 147K | 142K |
-| 20 min | USD | Moderate | Participation Rate (Sep) |  |  | 62.7% |
-| 20 min | USD | Moderate | Private Nonfarm Payrolls (Sep) |  | 125K | 118K |
-| 20 min | USD | Moderate | U6 Unemployment Rate (Sep) |  |  | 7.9% |
-| 20 min | USD | High | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
-| 50 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) | 4.0% | 3.8% | 3.9% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) | 0.4% | 0.3% | 0.5% |
+| 13:30 | USD | Low | Average Weekly Hours (Sep) | 34.2 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (Sep) | 31.0K |  | 45.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Sep) | -7K | -5K | -27K |
+| 13:30 | USD | High | Nonfarm Payrolls (Sep) | 254K | 147K | 159K |
+| 13:30 | USD | Moderate | Participation Rate (Sep) | 62.7% | 62.7% | 62.7% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Sep) | 223K | 125K | 114K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Sep) | 7.7% |  | 7.9% |
+| 13:30 | USD | High | Unemployment Rate (Sep) | 4.1% | 4.2% | 4.2% |
+| 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 50.3 |
-| 15:00 | CAD | Moderate | Ivey PMI (Sep) |  | 50.3 | 48.2 |
+| 50 min | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 50.3 |
+| 50 min | CAD | Moderate | Ivey PMI (Sep) |  | 50.3 | 48.2 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 19:00 | BRL | Low | Trade Balance (Sep) |  |  | 4.83B |
