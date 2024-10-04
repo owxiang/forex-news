@@ -8,10 +8,10 @@
 | 06:00 | INR | Low | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
-| 39 min | CHF | Low | Unemployment Rate n.s.a. (Sep) |  | 2.4% | 2.4% |
-| 39 min | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.6% | 2.5% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) |  | 0.3% | -0.5% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  | 0.1% | -0.4% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
+| 37 min | EUR | Low | French Industrial Production (MoM) (Aug) |  | 0.3% | -0.5% |
+| 52 min | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  | 0.1% | -0.4% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 46.6 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 38.9 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) |  |  | 40.1 |
