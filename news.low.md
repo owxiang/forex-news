@@ -11,14 +11,14 @@
 | 06:45 | CHF | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
 | 07:45 | EUR | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Aug) | -0.1% | 0.1% | -0.4% |
-| 24 min | EUR | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 46.6 |
-| 24 min | EUR | HCOB Germany Construction PMI (Sep) |  |  | 38.9 |
-| 24 min | EUR | HCOB France Construction PMI (MoM) (Sep) |  |  | 40.1 |
-| 24 min | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 41.4 |
-| 54 min | GBP | Car Registration (YoY) (Sep) |  |  | -1.3% |
-| 54 min | EUR | Italian Public Deficit (Q2) |  |  | 8.8% |
-| 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
-| 10:00 | EUR | German Car Registration (YoY) |  |  | -27.8% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) | 47.8 |  | 46.6 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Sep) | 41.7 |  | 38.9 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Sep) | 37.9 |  | 40.1 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) | 42.1 |  | 41.4 |
+| 09:00 | GBP | Car Registration (YoY) (Sep) | 1.0% |  | -1.3% |
+| 09:00 | EUR | Italian Public Deficit (Q2) | 3.4% |  | 8.4% |
+| 22 min | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
+| 52 min | EUR | German Car Registration (YoY) |  |  | -27.8% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
 | 12:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.15% |

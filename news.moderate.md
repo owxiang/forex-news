@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) (Aug) | 0.7% |  | 2.5% |
-| 49 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 54 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
+| 08:55 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 22 min | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
 | 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.8% | 3.8% |
 | 13:30 | USD | Participation Rate (Sep) |  |  | 62.7% |
