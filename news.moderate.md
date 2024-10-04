@@ -13,7 +13,7 @@
 | 13:30 | USD | U6 Unemployment Rate (Sep) | 7.7% |  | 7.9% |
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | EUR | ECB's Elderson Speaks |  |  |  |
-| 50 min | CAD | Ivey PMI (Sep) |  | 50.3 | 48.2 |
+| 15:00 | CAD | Ivey PMI (Sep) | 53.1 | 50.3 | 48.2 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 87.0K |

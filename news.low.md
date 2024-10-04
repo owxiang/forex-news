@@ -5,8 +5,8 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 50.0 |  | 49.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
 | 06:00 | INR | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
-| 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
 | 06:00 | SGD | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
+| 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
 | 06:45 | CHF | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
 | 07:45 | EUR | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
@@ -20,8 +20,8 @@
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
 | 09:30 | GBP | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
 | 10:00 | EUR | German Car Registration (YoY) | -7.0% |  | -27.8% |
-| 11:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
+| 11:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 12:00 | CAD | Leading Index (MoM) (Sep) | 0.22% |  | 0.21% |
 | 12:30 | INR | Bank Loan Growth | 13.0% |  | 13.0% |
 | 12:30 | INR | Deposit Growth | 11.5% |  | 11.5% |
@@ -31,7 +31,7 @@
 | 13:30 | USD | Average Weekly Hours (Sep) | 34.2 | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Sep) | 31.0K |  | 45.0K |
 | 13:30 | USD | Manufacturing Payrolls (Sep) | -7K | -5K | -27K |
-| 50 min | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.3 |
+| 15:00 | CAD | Ivey PMI n.s.a (Sep) | 54.5 |  | 50.3 |
 | 19:00 | BRL | Trade Balance (Sep) |  |  | 4.83B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 33.1K |

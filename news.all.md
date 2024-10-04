@@ -6,8 +6,8 @@
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Aug) | 0.7% |  | 2.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
 | 06:00 | INR | Low | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
@@ -24,8 +24,8 @@
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
 | 09:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | -7.0% |  | -27.8% |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
+| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | CAD | Low | Leading Index (MoM) (Sep) | 0.22% |  | 0.21% |
 | 12:30 | INR | Low | Bank Loan Growth | 13.0% |  | 13.0% |
@@ -45,8 +45,8 @@
 | 13:30 | USD | High | Unemployment Rate (Sep) | 4.1% | 4.2% | 4.2% |
 | 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 50 min | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 50.3 |
-| 50 min | CAD | Moderate | Ivey PMI (Sep) |  | 50.3 | 48.2 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 54.5 |  | 50.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (Sep) | 53.1 | 50.3 | 48.2 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 19:00 | BRL | Low | Trade Balance (Sep) |  |  | 4.83B |
