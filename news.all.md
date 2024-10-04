@@ -47,9 +47,9 @@
 | 14:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 54.5 |  | 50.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Sep) | 53.1 | 50.3 | 48.2 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
-| 19:00 | BRL | Low | Trade Balance (Sep) |  |  | 4.83B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 |  | 484 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 587 |
+| 54 min | BRL | Low | Trade Balance (Sep) |  |  | 4.83B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 87.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.9K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 33.1K |
