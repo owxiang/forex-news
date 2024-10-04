@@ -10,16 +10,16 @@
 | 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
-| 37 min | EUR | Low | French Industrial Production (MoM) (Aug) |  | 0.3% | -0.5% |
-| 52 min | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  | 0.1% | -0.4% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 46.6 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 38.9 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) |  |  | 40.1 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 41.4 |
-| 08:55 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 09:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | -1.3% |
-| 09:00 | EUR | Low | Italian Public Deficit (Q2) |  |  | 8.8% |
-| 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) | -0.1% | 0.1% | -0.4% |
+| 24 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 46.6 |
+| 24 min | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 38.9 |
+| 24 min | EUR | Low | HCOB France Construction PMI (MoM) (Sep) |  |  | 40.1 |
+| 24 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 41.4 |
+| 49 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 54 min | GBP | Low | Car Registration (YoY) (Sep) |  |  | -1.3% |
+| 54 min | EUR | Low | Italian Public Deficit (Q2) |  |  | 8.8% |
+| 54 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | -27.8% |
