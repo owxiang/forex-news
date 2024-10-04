@@ -6,8 +6,8 @@
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Aug) | 0.7% |  | 2.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
 | 06:00 | INR | Low | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
@@ -47,8 +47,8 @@
 | 14:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 54.5 |  | 50.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Sep) | 53.1 | 50.3 | 48.2 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 19:00 | BRL | Low | Trade Balance (Sep) |  |  | 4.83B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 87.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.9K |

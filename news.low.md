@@ -5,8 +5,8 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 50.0 |  | 49.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
 | 06:00 | INR | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
-| 06:00 | SGD | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
+| 06:00 | SGD | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
 | 06:45 | CHF | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
 | 07:45 | EUR | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
