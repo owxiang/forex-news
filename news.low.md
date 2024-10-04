@@ -5,8 +5,8 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 50.0 |  | 49.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
 | 06:00 | INR | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
-| 06:00 | SGD | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
+| 06:00 | SGD | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
 | 06:45 | CHF | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
 | 07:45 | EUR | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
@@ -22,14 +22,15 @@
 | 10:00 | EUR | German Car Registration (YoY) | -7.0% |  | -27.8% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
-| 24 min | INR | Bank Loan Growth |  |  | 13.3% |
-| 24 min | INR | Deposit Growth |  |  | 11.1% |
-| 24 min | INR | FX Reserves, USD |  |  | 692.30B |
-| 54 min | MXN | Unemployment Rate (Aug) |  |  | 2.70% |
-| 54 min | MXN | Unemployment Rate n.s.a. (Aug) |  |  | 2.90% |
-| 13:30 | USD | Average Weekly Hours (Sep) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (Sep) |  |  | 24.0K |
-| 13:30 | USD | Manufacturing Payrolls (Sep) |  | -5K | -24K |
+| 12:00 | CAD | Leading Index (MoM) (Sep) | 0.22% |  | 0.21% |
+| 12:30 | INR | Bank Loan Growth | 13.0% |  | 13.0% |
+| 12:30 | INR | Deposit Growth | 11.5% |  | 11.5% |
+| 12:30 | INR | FX Reserves, USD | 704.89B |  | 692.30B |
+| 13:00 | MXN | Unemployment Rate (Aug) | 2.80% |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Aug) | 3.00% |  | 2.90% |
+| 20 min | USD | Average Weekly Hours (Sep) |  | 34.3 | 34.3 |
+| 20 min | USD | Government Payrolls (Sep) |  |  | 24.0K |
+| 20 min | USD | Manufacturing Payrolls (Sep) |  | -5K | -24K |
 | 15:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 50.3 |
 | 19:00 | BRL | Trade Balance (Sep) |  |  | 4.83B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.9K |

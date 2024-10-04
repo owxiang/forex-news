@@ -7,11 +7,11 @@
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) | 57.2 | 53.1 | 53.6 |
 | 11:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.8% | 3.8% |
-| 13:30 | USD | Participation Rate (Sep) |  |  | 62.7% |
-| 13:30 | USD | Private Nonfarm Payrolls (Sep) |  | 125K | 118K |
-| 13:30 | USD | U6 Unemployment Rate (Sep) |  |  | 7.9% |
-| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 20 min | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.8% | 3.8% |
+| 20 min | USD | Participation Rate (Sep) |  |  | 62.7% |
+| 20 min | USD | Private Nonfarm Payrolls (Sep) |  | 125K | 118K |
+| 20 min | USD | U6 Unemployment Rate (Sep) |  |  | 7.9% |
+| 50 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | EUR | ECB's Elderson Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Sep) |  | 50.3 | 48.2 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
