@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Public Deficit (Q2) |  |  | 8.8% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -23.9B |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | -27.8% |
-| 11:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 1.0% |
+| 11:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.2% | 0.5% |
 | 12:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.15% |
 | 12:00 | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.3% |
