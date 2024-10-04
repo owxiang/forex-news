@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) |  |  | 49.4 |
-| 02:30 | AUD | Invest Housing Finance (MoM) (Aug) |  |  | 5.4% |
+| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 50.0 |  | 49.4 |
+| 02:30 | AUD | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.4% |
 | 06:00 | INR | HSBC India Services PMI (Sep) |  | 58.9 | 60.9 |
 | 06:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 3.1% |
 | 06:00 | SGD | Retail Sales (YoY) (Aug) |  |  | 1.0% |
