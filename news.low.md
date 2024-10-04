@@ -32,7 +32,7 @@
 | 13:30 | USD | Government Payrolls (Sep) | 31.0K |  | 45.0K |
 | 13:30 | USD | Manufacturing Payrolls (Sep) | -7K | -5K | -27K |
 | 15:00 | CAD | Ivey PMI n.s.a (Sep) | 54.5 |  | 50.3 |
-| 54 min | BRL | Trade Balance (Sep) |  |  | 4.83B |
+| 19:00 | BRL | Trade Balance (Sep) | 5.36B |  | 4.83B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 33.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -64.2K |

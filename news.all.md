@@ -49,7 +49,7 @@
 | 15:00 | CAD | Moderate | Ivey PMI (Sep) | 53.1 | 50.3 | 48.2 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 |  | 484 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 587 |
-| 54 min | BRL | Low | Trade Balance (Sep) |  |  | 4.83B |
+| 19:00 | BRL | Low | Trade Balance (Sep) | 5.36B |  | 4.83B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 87.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.9K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 33.1K |
