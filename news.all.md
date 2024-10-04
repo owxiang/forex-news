@@ -6,8 +6,8 @@
 | 02:30 | AUD | Moderate | Home Loans (MoM) (Aug) | 0.7% |  | 2.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) (Aug) | 1.4% |  | 5.1% |
 | 06:00 | INR | Low | HSBC India Services PMI (Sep) | 57.7 | 58.9 | 60.9 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Aug) | 0.6% |  | 1.0% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Aug) | 0.7% |  | 3.1% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.5% | 2.4% | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Sep) | 2.6% | 2.6% | 2.5% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Aug) | 1.4% | 0.3% | 0.2% |
@@ -24,16 +24,14 @@
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -14.7B | -20.3B | -23.0B |
 | 09:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Sep) | 275,239.0 |  | 84,575.0 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | -7.0% |  | -27.8% |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.5% | 0.2% | 0.5% |
+| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 0.8% |  | 0.9% |
 | 11:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 54 min | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.15% |
-| 54 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 415.92B |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 13.3% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 11.1% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 692.30B |
-| 13:00 | MXN | Low | Unemployment Rate (Aug) |  |  | 2.70% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.90% |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 13.3% |
+| 24 min | INR | Low | Deposit Growth |  |  | 11.1% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 692.30B |
+| 54 min | MXN | Low | Unemployment Rate (Aug) |  |  | 2.70% |
+| 54 min | MXN | Low | Unemployment Rate n.s.a. (Aug) |  |  | 2.90% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 3.8% | 3.8% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.3 | 34.3 |
