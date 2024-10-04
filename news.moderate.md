@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Home Loans (MoM) (Aug) | 0.7% |  | 2.9% |
+| 02:30 | AUD | Home Loans (MoM) (Aug) | 0.7% |  | 2.5% |
 | 08:55 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 53.1 | 53.6 |
