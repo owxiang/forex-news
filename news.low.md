@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |
+| 54 min | KRW | FX Reserves - USD (Sep) |  |  | 415.92B |
