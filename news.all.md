@@ -23,8 +23,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) | 422.80B |  | 423.50B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Oct) | -13.8 | -14.6 | -15.4 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 389.8B |  | 384.6B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | -0.1% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 1.03% |  | 0.12% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -37,7 +37,7 @@
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.550% |  | 4.500% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.305% |  | 4.215% |
-| 53 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:50 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 45 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 11.80B | 25.45B |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
