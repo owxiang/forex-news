@@ -27,5 +27,5 @@
 | 14:00 | BRL | Auto Production (MoM) (Aug) | -11.4% |  | 5.2% |
 | 14:00 | BRL | Auto Sales (MoM) (Aug) | -0.4% |  | -1.6% |
 | 15:00 | USD | CB Employment Trends Index (Sep) | 108.48 |  | 109.54 |
-| 24 min | USD | 3-Month Bill Auction |  |  | 4.500% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 4.215% |
+| 16:30 | USD | 3-Month Bill Auction | 4.550% |  | 4.500% |
+| 16:30 | USD | 6-Month Bill Auction | 4.305% |  | 4.215% |

@@ -10,7 +10,7 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Sep) | 7.69% |  | 7.83% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 53 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:50 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Aug) |  | 11.80B | 25.45B |
 | 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |

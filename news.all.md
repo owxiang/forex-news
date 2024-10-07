@@ -35,9 +35,9 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (Aug) | -0.4% |  | -1.6% |
 | 15:00 | USD | Low | CB Employment Trends Index (Sep) | 108.48 |  | 109.54 |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.500% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.215% |
-| 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.550% |  | 4.500% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.305% |  | 4.215% |
+| 53 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:50 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 11.80B | 25.45B |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
