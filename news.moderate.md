@@ -13,4 +13,4 @@
 | 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:50 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Aug) | 8.93B | 11.80B | 26.63B |
-| 23:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 54 min | USD | FOMC Member Bostic Speaks |  |  |  |
