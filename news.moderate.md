@@ -8,7 +8,7 @@
 | 08:25 | EUR | German Buba Balz Speaks |  |  |  |
 | 08:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Sep) | 7.69% |  | 7.83% |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:50 | USD | FOMC Member Kashkari Speaks |  |  |  |

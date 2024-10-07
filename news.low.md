@@ -18,8 +18,8 @@
 | 09:30 | EUR | Sentix Investor Confidence (Oct) | -13.8 | -14.6 | -15.4 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) | 389.8B |  | 384.6B |
 | 10:00 | EUR | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
-| 10:00 | EUR | Retail Sales (YoY) (Aug) | 0.8% |  | -0.1% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
+| 10:00 | EUR | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | -0.1% |
+| 53 min | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.714% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.250% |

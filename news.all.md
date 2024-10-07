@@ -24,9 +24,9 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Oct) | -13.8 | -14.6 | -15.4 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 389.8B |  | 384.6B |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) | 0.8% |  | -0.1% |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | -0.1% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 53 min | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.714% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.250% |
