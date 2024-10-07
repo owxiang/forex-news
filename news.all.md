@@ -28,10 +28,10 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 1.03% |  | 0.12% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.714% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.250% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.028% |
-| 15:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 109.04 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.746% |  | 2.714% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.167% |  | 3.250% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.016% |  | 3.028% |
+| 49 min | USD | Low | CB Employment Trends Index (Sep) |  |  | 109.04 |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.500% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.215% |

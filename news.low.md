@@ -21,9 +21,9 @@
 | 10:00 | EUR | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | -0.1% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 1.03% |  | 0.12% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.714% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.250% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.028% |
-| 15:00 | USD | CB Employment Trends Index (Sep) |  |  | 109.04 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.746% |  | 2.714% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.167% |  | 3.250% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.016% |  | 3.028% |
+| 49 min | USD | CB Employment Trends Index (Sep) |  |  | 109.04 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.500% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.215% |
