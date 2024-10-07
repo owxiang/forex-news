@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,254.9B |  | 1,235.7B |
 | 02:30 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
-| 04:00 | IDR | FX Reserves (USD) (Sep) | 149.90B |  | 150.20B |
+| 05:00 | IDR | FX Reserves (USD) (Sep) | 149.90B |  | 150.20B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -3.7% |  | 3.1% |
 | 06:00 | JPY | Leading Index (MoM) (Aug) | -2.6% |  | 0.2% |
 | 06:00 | JPY | Leading Index (Aug) | 106.7 | 107.2 | 109.3 |
-| 07:00 | NOK | Manufacturing Production (MoM) (Aug) | -1.1% |  | 2.0% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Aug) | -1.1% |  | 2.1% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Sep) | 63.63B |  | 63.21B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Sep) | 61.029B |  | 60.141B |
-| 52 min | CHF | Foreign Reserves (USD) (Sep) |  |  | 693.8B |
-| 08:45 | EUR | French Reserve Assets Total (Sep) |  |  | 254,092.0M |
-| 09:00 | CNY | FX Reserves (USD) (Sep) |  | 3.300T | 3.288T |
+| 07:45 | EUR | French Reserve Assets Total (Sep) | 260,783.0M |  | 254,092.0M |
+| 07:50 | CNY | FX Reserves (USD) (Sep) | 3.316T | 3.300T | 3.288T |
+| 08:00 | CHF | Foreign Reserves (USD) (Sep) | 715.6B |  | 693.9B |
 | 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 423.40B |
 | 09:30 | EUR | Sentix Investor Confidence (Oct) |  | -14.6 | -15.4 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 384.6B |
