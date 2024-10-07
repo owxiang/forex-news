@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,254.9B |  | 1,235.7B |
 | 02:30 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
-| 05:00 | IDR | FX Reserves (USD) (Sep) |  |  | 150.20B |
+| 47 min | IDR | FX Reserves (USD) (Sep) | 149.90B |  | 150.20B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) |  |  | 3.1% |
 | 06:00 | JPY | Leading Index (MoM) (Aug) |  |  | 0.2% |
 | 06:00 | JPY | Leading Index (Aug) |  | 107.2 | 109.3 |
