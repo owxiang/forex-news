@@ -6,8 +6,8 @@
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
 | 05:00 | IDR | Low | FX Reserves (USD) (Sep) | 149.90B |  | 150.20B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -3.7% |  | 3.1% |
-| 06:00 | JPY | Low | Leading Index (Aug) | 106.7 | 107.2 | 109.3 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | -2.6% |  | 0.2% |
+| 06:00 | JPY | Low | Leading Index (Aug) | 106.7 | 107.2 | 109.3 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 4.7% |  | 4.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | -5.8% | -1.9% | 3.9% |
@@ -23,11 +23,11 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) | 422.80B |  | 423.50B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Oct) | -13.8 | -14.6 | -15.4 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 389.8B |  | 384.6B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | -0.1% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 53 min | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 1.03% |  | 0.12% |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.714% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.250% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.028% |
