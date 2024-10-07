@@ -1,43 +1,51 @@
-## 07 October 2024 - All Forex News
+## 08 October 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,254.9B |  | 1,235.7B |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
-| 05:00 | IDR | Low | FX Reserves (USD) (Sep) | 149.90B |  | 150.20B |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -3.7% |  | 3.1% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Aug) | -2.6% |  | 0.2% |
-| 06:00 | JPY | Low | Leading Index (Aug) | 106.7 | 107.2 | 109.3 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 4.7% |  | 4.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | -5.8% | -1.9% | 3.9% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | -1.1% |  | 2.1% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 63.63B |  | 63.21B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Sep) | 61.029B |  | 60.141B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Sep) | 260,783.0M |  | 254,092.0M |
-| 07:50 | CNY | Low | FX Reserves (USD) (Sep) | 3.316T | 3.300T | 3.288T |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 715.6B |  | 693.9B |
-| 08:25 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 08:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Sep) | 7.69% |  | 7.83% |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) | 422.80B |  | 423.50B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Oct) | -13.8 | -14.6 | -15.4 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 389.8B |  | 384.6B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | -0.1% |
+| 00:00 | KRW | Low | Current Account (Aug) | 6.60B |  | 8.97B |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 1.7% | 0.8% | 0.8% |
+| 25 min | AUD | Low | Westpac Consumer Sentiment |  |  | -0.5% |
+| 25 min | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.5% | -1.7% |
+| 25 min | JPY | Moderate | Household Spending (YoY) (Aug) |  | -2.6% | 0.1% |
+| 25 min | JPY | Low | Overall wage income of employees (Aug) |  | 3.0% | 3.4% |
+| 25 min | JPY | Low | Overtime Pay (YoY) (Aug) |  | -2.50% | -0.20% |
+| 45 min | JPY | Moderate | Adjusted Current Account (Aug) |  | 2.43T | 280.29T |
+| 45 min | JPY | Moderate | Current Account n.s.a. (Aug) |  | 2.921T | 3.193T |
+| 01:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -2.1% |
+| 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 01:30 | AUD | Moderate | NAB Business Confidence (Sep) |  |  | -4 |
+| 01:30 | AUD | Low | NAB Business Survey (Sep) |  |  | 3 |
+| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.043% |
+| 05:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 124.4 |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 49.3 | 49.0 |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | -5.29% |
+| 07:45 | EUR | Low | French Current Account (Aug) |  |  | -1.20B |
+| 07:45 | EUR | Low | French Exports (Aug) |  |  | 49.8B |
+| 07:45 | EUR | Low | French Imports (Aug) |  |  | 55.7B |
+| 07:45 | EUR | Low | French Trade Balance (Aug) |  | -5.5B | -5.9B |
+| 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.822% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 1.03% |  | 0.12% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.746% |  | 2.714% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.167% |  | 3.250% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.016% |  | 3.028% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Aug) | -11.4% |  | 5.2% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Aug) | -0.4% |  | -1.6% |
-| 15:00 | USD | Low | CB Employment Trends Index (Sep) | 108.48 |  | 109.54 |
-| 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.550% |  | 4.500% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.305% |  | 4.215% |
-| 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:50 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 20:00 | USD | Moderate | Consumer Credit (Aug) | 8.93B | 11.80B | 26.63B |
-| 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 11:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 13:30 | USD | Moderate | Exports (Aug) |  |  | 266.60B |
+| 13:30 | USD | Moderate | Imports (Aug) |  |  | 345.40B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -70.60B | -78.80B |
+| 13:30 | CAD | Low | Exports (Aug) |  |  | 65.66B |
+| 13:30 | CAD | Low | Imports (Aug) |  |  | 64.97B |
+| 13:30 | CAD | Moderate | Trade Balance (Aug) |  | 0.40B | 0.68B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 5.2% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | -1.6% |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.440% |
+| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 18:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.458M |

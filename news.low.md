@@ -1,31 +1,28 @@
-## 07 October 2024 - Low Impact Forex News
+## 08 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,254.9B |  | 1,235.7B |
-| 02:30 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
-| 05:00 | IDR | FX Reserves (USD) (Sep) | 149.90B |  | 150.20B |
-| 06:00 | JPY | Coincident Indicator (MoM) (Aug) | -3.7% |  | 3.1% |
-| 06:00 | JPY | Leading Index (MoM) (Aug) | -2.6% |  | 0.2% |
-| 06:00 | JPY | Leading Index (Aug) | 106.7 | 107.2 | 109.3 |
-| 07:00 | NOK | Manufacturing Production (MoM) (Aug) | -1.1% |  | 2.1% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Sep) | 63.63B |  | 63.21B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Sep) | 61.029B |  | 60.141B |
-| 07:45 | EUR | French Reserve Assets Total (Sep) | 260,783.0M |  | 254,092.0M |
-| 07:50 | CNY | FX Reserves (USD) (Sep) | 3.316T | 3.300T | 3.288T |
-| 08:00 | CHF | Foreign Reserves (USD) (Sep) | 715.6B |  | 693.9B |
-| 09:30 | HKD | Foreign Reserves (USD) (Sep) | 422.80B |  | 423.50B |
-| 09:30 | EUR | Sentix Investor Confidence (Oct) | -13.8 | -14.6 | -15.4 |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) | 389.8B |  | 384.6B |
-| 10:00 | EUR | Retail Sales (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
-| 10:00 | EUR | Retail Sales (YoY) (Aug) | 0.8% | 1.0% | -0.1% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 1.03% |  | 0.12% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.746% |  | 2.714% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.167% |  | 3.250% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.016% |  | 3.028% |
-| 14:00 | BRL | Auto Production (MoM) (Aug) | -11.4% |  | 5.2% |
-| 14:00 | BRL | Auto Sales (MoM) (Aug) | -0.4% |  | -1.6% |
-| 15:00 | USD | CB Employment Trends Index (Sep) | 108.48 |  | 109.54 |
-| 16:30 | USD | 3-Month Bill Auction | 4.550% |  | 4.500% |
-| 16:30 | USD | 6-Month Bill Auction | 4.305% |  | 4.215% |
+| 00:00 | KRW | Current Account (Aug) | 6.60B |  | 8.97B |
+| 25 min | AUD | Westpac Consumer Sentiment |  |  | -0.5% |
+| 25 min | JPY | Overall wage income of employees (Aug) |  | 3.0% | 3.4% |
+| 25 min | JPY | Overtime Pay (YoY) (Aug) |  | -2.50% | -0.20% |
+| 01:30 | AUD | ANZ Job Advertisements (MoM) |  |  | -2.1% |
+| 01:30 | AUD | NAB Business Survey (Sep) |  |  | 3 |
+| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.043% |
+| 05:00 | IDR | Consumer Confidence (Sep) |  |  | 124.4 |
+| 06:00 | JPY | Economy Watchers Current Index (Sep) |  | 49.3 | 49.0 |
+| 07:00 | EUR | German Industrial Production (YoY) (Aug) |  |  | -5.29% |
+| 07:45 | EUR | French Current Account (Aug) |  |  | -1.20B |
+| 07:45 | EUR | French Exports (Aug) |  |  | 49.8B |
+| 07:45 | EUR | French Imports (Aug) |  |  | 55.7B |
+| 07:45 | EUR | French Trade Balance (Aug) |  | -5.5B | -5.9B |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.822% |
+| 11:00 | USD | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 13:30 | CAD | Exports (Aug) |  |  | 65.66B |
+| 13:30 | CAD | Imports (Aug) |  |  | 64.97B |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.3% |
+| 14:00 | BRL | Auto Production (MoM) (Aug) |  |  | 5.2% |
+| 14:00 | BRL | Auto Sales (MoM) (Aug) |  |  | -1.6% |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
+| 21:00 | USD | Fed Collins Speaks |  |  |  |
