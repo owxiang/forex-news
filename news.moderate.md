@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | GBP | Halifax House Price Index (YoY) (Sep) |  |  | 4.3% |
-| 54 min | GBP | Halifax House Price Index (MoM) (Sep) |  | 0.2% | 0.3% |
-| 54 min | EUR | German Factory Orders (MoM) (Aug) |  | -1.9% | 2.9% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Sep) | 4.7% |  | 4.3% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
+| 07:00 | EUR | German Factory Orders (MoM) (Aug) | -5.8% | -1.9% | 3.9% |
 | 08:25 | EUR | German Buba Balz Speaks |  |  |  |
 | 08:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
