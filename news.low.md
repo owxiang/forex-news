@@ -24,6 +24,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.746% |  | 2.714% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.167% |  | 3.250% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.016% |  | 3.028% |
-| 49 min | USD | CB Employment Trends Index (Sep) |  |  | 109.04 |
+| 14:00 | BRL | Auto Production (MoM) (Aug) | -11.4% |  | 5.2% |
+| 14:00 | BRL | Auto Sales (MoM) (Aug) | -0.4% |  | -1.6% |
+| 15:00 | USD | CB Employment Trends Index (Sep) | 108.48 |  | 109.54 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.500% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.215% |
