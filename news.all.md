@@ -40,4 +40,4 @@
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:50 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Aug) | 8.93B | 11.80B | 26.63B |
-| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
