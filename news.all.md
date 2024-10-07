@@ -17,13 +17,13 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Sep) | 260,783.0M |  | 254,092.0M |
 | 07:50 | CNY | Low | FX Reserves (USD) (Sep) | 3.316T | 3.300T | 3.288T |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 715.6B |  | 693.9B |
-| 19 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 39 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 423.40B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Oct) |  | -14.6 | -15.4 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 384.6B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | -0.1% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 08:25 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 08:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 22 min | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 423.40B |
+| 22 min | EUR | Low | Sentix Investor Confidence (Oct) |  | -14.6 | -15.4 |
+| 52 min | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 384.6B |
+| 52 min | EUR | Low | Retail Sales (YoY) (Aug) |  |  | -0.1% |
+| 52 min | EUR | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

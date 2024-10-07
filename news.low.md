@@ -14,11 +14,11 @@
 | 07:45 | EUR | French Reserve Assets Total (Sep) | 260,783.0M |  | 254,092.0M |
 | 07:50 | CNY | FX Reserves (USD) (Sep) | 3.316T | 3.300T | 3.288T |
 | 08:00 | CHF | Foreign Reserves (USD) (Sep) | 715.6B |  | 693.9B |
-| 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 423.40B |
-| 09:30 | EUR | Sentix Investor Confidence (Oct) |  | -14.6 | -15.4 |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 384.6B |
-| 10:00 | EUR | Retail Sales (YoY) (Aug) |  |  | -0.1% |
-| 10:00 | EUR | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 22 min | HKD | Foreign Reserves (USD) (Sep) |  |  | 423.40B |
+| 22 min | EUR | Sentix Investor Confidence (Oct) |  | -14.6 | -15.4 |
+| 52 min | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 384.6B |
+| 52 min | EUR | Retail Sales (YoY) (Aug) |  |  | -0.1% |
+| 52 min | EUR | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.714% |
