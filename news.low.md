@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Reserves (USD) (Sep) | 1,254.9B |  | 1,235.7B |
-| 02:30 | AUD | MI Inflation Gauge (MoM) |  |  | -0.1% |
+| 02:30 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
 | 05:00 | IDR | FX Reserves (USD) (Sep) |  |  | 150.20B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) |  |  | 3.1% |
-| 06:00 | JPY | Leading Index (Aug) |  | 107.2 | 109.3 |
 | 06:00 | JPY | Leading Index (MoM) (Aug) |  |  | 0.2% |
+| 06:00 | JPY | Leading Index (Aug) |  | 107.2 | 109.3 |
 | 07:00 | NOK | Manufacturing Production (MoM) (Aug) |  |  | 2.0% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Sep) |  |  | 63.21B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Sep) |  |  | 60.141B |
@@ -17,8 +17,8 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 423.40B |
 | 09:30 | EUR | Sentix Investor Confidence (Oct) |  | -14.6 | -15.4 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 384.6B |
-| 10:00 | EUR | Retail Sales (YoY) (Aug) |  |  | -0.1% |
 | 10:00 | EUR | Retail Sales (MoM) (Aug) |  | 0.2% | 0.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Aug) |  |  | -0.1% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.12% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.714% |
