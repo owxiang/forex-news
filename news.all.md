@@ -8,8 +8,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -3.7% |  | 3.1% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | -2.6% |  | 0.2% |
 | 06:00 | JPY | Low | Leading Index (Aug) | 106.7 | 107.2 | 109.3 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 4.7% |  | 4.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | 4.7% |  | 4.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | -5.8% | -1.9% | 3.9% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | -1.1% |  | 2.1% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 63.63B |  | 63.21B |
@@ -38,6 +38,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.550% |  | 4.500% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.305% |  | 4.215% |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 45 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 20:00 | USD | Moderate | Consumer Credit (Aug) |  | 11.80B | 25.45B |
+| 18:50 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 53 min | USD | Moderate | Consumer Credit (Aug) |  | 11.80B | 25.45B |
 | 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
