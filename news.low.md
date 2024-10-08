@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Aug) | 6.60B |  | 8.97B |
-| 25 min | AUD | Westpac Consumer Sentiment |  |  | -0.5% |
-| 25 min | JPY | Overall wage income of employees (Aug) |  | 3.0% | 3.4% |
-| 25 min | JPY | Overtime Pay (YoY) (Aug) |  | -2.50% | -0.20% |
-| 01:30 | AUD | ANZ Job Advertisements (MoM) |  |  | -2.1% |
-| 01:30 | AUD | NAB Business Survey (Sep) |  |  | 3 |
+| 00:30 | AUD | Westpac Consumer Sentiment (Oct) | 6.2% |  | -0.5% |
+| 00:30 | JPY | Overall wage income of employees (Aug) | 3.0% | 3.0% | 3.4% |
+| 00:30 | JPY | Overtime Pay (YoY) (Aug) | 2.60% | -2.50% | -0.20% |
+| 5 min | AUD | ANZ Job Advertisements (MoM) |  |  | -2.1% |
+| 5 min | AUD | NAB Business Survey (Sep) |  |  | 3 |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.043% |
 | 05:00 | IDR | Consumer Confidence (Sep) |  |  | 124.4 |
 | 06:00 | JPY | Economy Watchers Current Index (Sep) |  | 49.3 | 49.0 |

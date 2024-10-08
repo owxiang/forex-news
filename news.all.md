@@ -4,17 +4,17 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Aug) | 6.60B |  | 8.97B |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 1.7% | 0.8% | 0.8% |
-| 25 min | AUD | Low | Westpac Consumer Sentiment |  |  | -0.5% |
-| 25 min | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.5% | -1.7% |
-| 25 min | JPY | Moderate | Household Spending (YoY) (Aug) |  | -2.6% | 0.1% |
-| 25 min | JPY | Low | Overall wage income of employees (Aug) |  | 3.0% | 3.4% |
-| 25 min | JPY | Low | Overtime Pay (YoY) (Aug) |  | -2.50% | -0.20% |
-| 45 min | JPY | Moderate | Adjusted Current Account (Aug) |  | 2.43T | 280.29T |
-| 45 min | JPY | Moderate | Current Account n.s.a. (Aug) |  | 2.921T | 3.193T |
-| 01:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -2.1% |
-| 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | Moderate | NAB Business Confidence (Sep) |  |  | -4 |
-| 01:30 | AUD | Low | NAB Business Survey (Sep) |  |  | 3 |
+| 00:30 | AUD | Low | Westpac Consumer Sentiment (Oct) | 6.2% |  | -0.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Aug) | -1.9% | -2.6% | 0.1% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 2.0% | 0.5% | -1.7% |
+| 00:30 | JPY | Low | Overall wage income of employees (Aug) | 3.0% | 3.0% | 3.4% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Aug) | 2.60% | -2.50% | -0.20% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Aug) | 301.65T | 2.43T | 280.29T |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Aug) | 3.804T | 2.921T | 3.193T |
+| 5 min | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -2.1% |
+| 5 min | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 5 min | AUD | Moderate | NAB Business Confidence (Sep) |  |  | -4 |
+| 5 min | AUD | Low | NAB Business Survey (Sep) |  |  | 3 |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.043% |
 | 05:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 124.4 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 49.3 | 49.0 |
