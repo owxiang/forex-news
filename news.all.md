@@ -39,12 +39,12 @@
 | 13:30 | CAD | Moderate | Trade Balance (Aug) | -1.10B | -0.40B | -0.29B |
 | 13:55 | USD | Low | Redbook (YoY) | 5.4% |  | 5.3% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) | 46.9 | 47.2 | 46.1 |
-| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
-| 54 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.440% |
-| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 18:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.2% | 2.5% | 2.5% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 38 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | USD | Moderate | 3-Year Note Auction |  |  | 3.440% |
+| 53 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 53 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.950M | -1.458M |

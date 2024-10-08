@@ -17,11 +17,11 @@
 | 13:30 | USD | Imports (Aug) | 342.20B |  | 345.40B |
 | 13:30 | USD | Trade Balance (Aug) | -70.40B | -70.10B | -78.90B |
 | 13:30 | CAD | Trade Balance (Aug) | -1.10B | -0.40B | -0.29B |
-| 24 min | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
-| 54 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 3.440% |
-| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 18:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) | 3.2% | 2.5% | 2.5% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 38 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | USD | 3-Year Note Auction |  |  | 3.440% |
+| 53 min | EUR | German Buba Balz Speaks |  |  |  |
+| 53 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 53 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.950M | -1.458M |
