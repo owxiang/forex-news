@@ -17,13 +17,11 @@
 | 07:45 | EUR | French Exports (Aug) | 49.7B |  | 49.5B |
 | 07:45 | EUR | French Imports (Aug) | 57.0B |  | 55.5B |
 | 07:45 | EUR | French Trade Balance (Aug) | -7.4B | -5.5B | -6.0B |
-| 32 min | EUR | Spanish 3-Month Letras Auction |  |  | 2.822% |
-| 11:00 | USD | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 09:50 | EUR | Spanish 3-Month Letras Auction | 3.054% |  | 2.822% |
+| 54 min | USD | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
+| 54 min | EUR | ECOFIN Meetings |  |  |  |
 | 13:30 | CAD | Exports (Aug) |  |  | 65.66B |
 | 13:30 | CAD | Imports (Aug) |  |  | 64.97B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.3% |
-| 14:00 | BRL | Auto Production (MoM) (Aug) |  |  | 5.2% |
-| 14:00 | BRL | Auto Sales (MoM) (Aug) |  |  | -1.6% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |

@@ -26,10 +26,10 @@
 | 07:45 | EUR | Low | French Imports (Aug) | 57.0B |  | 55.5B |
 | 07:45 | EUR | Low | French Trade Balance (Aug) | -7.4B | -5.5B | -6.0B |
 | 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 32 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.822% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:50 | EUR | Low | Spanish 3-Month Letras Auction | 3.054% |  | 2.822% |
+| 54 min | USD | Low | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
+| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 266.60B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 345.40B |
@@ -38,8 +38,6 @@
 | 13:30 | CAD | Low | Imports (Aug) |  |  | 64.97B |
 | 13:30 | CAD | Moderate | Trade Balance (Aug) |  | -0.40B | 0.68B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 5.2% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | -1.6% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
