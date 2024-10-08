@@ -17,7 +17,7 @@
 | 13:30 | USD | Imports (Aug) | 342.20B |  | 345.40B |
 | 13:30 | USD | Trade Balance (Aug) | -70.40B | -70.10B | -78.90B |
 | 13:30 | CAD | Trade Balance (Aug) | -1.10B | -0.40B | -0.29B |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
+| 24 min | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.440% |

@@ -38,8 +38,8 @@
 | 13:30 | CAD | Low | Imports (Aug) | 65.41B |  | 65.22B |
 | 13:30 | CAD | Moderate | Trade Balance (Aug) | -1.10B | -0.40B | -0.29B |
 | 13:55 | USD | Low | Redbook (YoY) | 5.4% |  | 5.3% |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
+| 4 min | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.440% |
