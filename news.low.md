@@ -20,8 +20,8 @@
 | 09:50 | EUR | Spanish 3-Month Letras Auction | 3.054% |  | 2.822% |
 | 11:00 | USD | NFIB Small Business Optimism (Sep) | 91.5 | 92.0 | 91.2 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 20 min | CAD | Exports (Aug) |  |  | 65.66B |
-| 20 min | CAD | Imports (Aug) |  |  | 64.97B |
-| 45 min | USD | Redbook (YoY) |  |  | 5.3% |
+| 13:30 | CAD | Exports (Aug) | 64.31B |  | 64.94B |
+| 13:30 | CAD | Imports (Aug) | 65.41B |  | 65.22B |
+| 13:55 | USD | Redbook (YoY) | 5.4% |  | 5.3% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |

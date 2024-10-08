@@ -31,13 +31,13 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 20 min | USD | Moderate | Exports (Aug) |  |  | 266.60B |
-| 20 min | USD | Moderate | Imports (Aug) |  |  | 345.40B |
-| 20 min | USD | Moderate | Trade Balance (Aug) |  | -70.10B | -78.80B |
-| 20 min | CAD | Low | Exports (Aug) |  |  | 65.66B |
-| 20 min | CAD | Low | Imports (Aug) |  |  | 64.97B |
-| 20 min | CAD | Moderate | Trade Balance (Aug) |  | -0.40B | 0.68B |
-| 45 min | USD | Low | Redbook (YoY) |  |  | 5.3% |
+| 13:30 | USD | Moderate | Exports (Aug) | 271.80B |  | 266.60B |
+| 13:30 | USD | Moderate | Imports (Aug) | 342.20B |  | 345.40B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) | -70.40B | -70.10B | -78.90B |
+| 13:30 | CAD | Low | Exports (Aug) | 64.31B |  | 64.94B |
+| 13:30 | CAD | Low | Imports (Aug) | 65.41B |  | 65.22B |
+| 13:30 | CAD | Moderate | Trade Balance (Aug) | -1.10B | -0.40B | -0.29B |
+| 13:55 | USD | Low | Redbook (YoY) | 5.4% |  | 5.3% |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
