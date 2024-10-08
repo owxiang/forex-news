@@ -10,7 +10,7 @@
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | NAB Business Confidence (Sep) | -2 |  | -5 |
 | 07:00 | EUR | German Industrial Production (MoM) (Aug) | 2.9% | 0.8% | -2.9% |
-| 51 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Exports (Aug) |  |  | 266.60B |
