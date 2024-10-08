@@ -30,7 +30,7 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (Sep) | 91.5 | 92.0 | 91.2 |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 9 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 11:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 266.60B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 345.40B |
 | 13:30 | USD | Moderate | Trade Balance (Aug) |  | -70.10B | -78.80B |
