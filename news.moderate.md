@@ -13,10 +13,10 @@
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 13:30 | USD | Exports (Aug) |  |  | 266.60B |
-| 13:30 | USD | Imports (Aug) |  |  | 345.40B |
-| 13:30 | USD | Trade Balance (Aug) |  | -70.10B | -78.80B |
-| 13:30 | CAD | Trade Balance (Aug) |  | -0.40B | 0.68B |
+| 20 min | USD | Exports (Aug) |  |  | 266.60B |
+| 20 min | USD | Imports (Aug) |  |  | 345.40B |
+| 20 min | USD | Trade Balance (Aug) |  | -70.10B | -78.80B |
+| 20 min | CAD | Trade Balance (Aug) |  | -0.40B | 0.68B |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
