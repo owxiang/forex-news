@@ -27,10 +27,10 @@
 | 07:45 | EUR | Low | French Trade Balance (Aug) | -7.4B | -5.5B | -6.0B |
 | 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 09:50 | EUR | Low | Spanish 3-Month Letras Auction | 3.054% |  | 2.822% |
-| 54 min | USD | Low | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
-| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Sep) | 91.5 | 92.0 | 91.2 |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 9 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 266.60B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 345.40B |
 | 13:30 | USD | Moderate | Trade Balance (Aug) |  | -70.10B | -78.80B |
@@ -47,4 +47,4 @@
 | 18:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.458M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.950M | -1.458M |

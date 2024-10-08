@@ -11,8 +11,8 @@
 | 01:30 | AUD | NAB Business Confidence (Sep) | -2 |  | -5 |
 | 07:00 | EUR | German Industrial Production (MoM) (Aug) | 2.9% | 0.8% | -2.9% |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
-| 11:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 9 min | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Exports (Aug) |  |  | 266.60B |
 | 13:30 | USD | Imports (Aug) |  |  | 345.40B |
 | 13:30 | USD | Trade Balance (Aug) |  | -70.10B | -78.80B |
@@ -24,4 +24,4 @@
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.458M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.950M | -1.458M |
