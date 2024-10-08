@@ -1,27 +1,49 @@
-## 08 October 2024 - Low Impact Forex News
+## 09 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (Aug) | 6.60B |  | 8.97B |
-| 00:30 | AUD | Westpac Consumer Sentiment (Oct) | 6.2% |  | -0.5% |
-| 00:30 | JPY | Overall wage income of employees (Aug) | 3.0% | 3.0% | 3.4% |
-| 00:30 | JPY | Overtime Pay (YoY) (Aug) | 2.60% | -2.50% | -0.20% |
-| 01:30 | AUD | ANZ Job Advertisements (MoM) | 1.6% |  | -1.8% |
-| 01:30 | AUD | NAB Business Survey (Sep) | 7 |  | 3 |
-| 03:40 | IDR | Motorbike Sales (YoY) (Sep) | 3.70% |  | 7.40% |
-| 04:00 | IDR | Consumer Confidence (Sep) | 123.5 |  | 124.4 |
-| 04:35 | JPY | 30-Year JGB Auction | 2.152% |  | 2.043% |
-| 06:00 | JPY | Economy Watchers Current Index (Sep) | 47.8 | 49.3 | 49.0 |
-| 07:00 | EUR | German Industrial Production (YoY) (Aug) | -2.51% |  | -5.81% |
-| 07:45 | EUR | French Current Account (Aug) | -0.60B |  | 0.00B |
-| 07:45 | EUR | French Exports (Aug) | 49.7B |  | 49.5B |
-| 07:45 | EUR | French Imports (Aug) | 57.0B |  | 55.5B |
-| 07:45 | EUR | French Trade Balance (Aug) | -7.4B | -5.5B | -6.0B |
-| 09:50 | EUR | Spanish 3-Month Letras Auction | 3.054% |  | 2.822% |
-| 11:00 | USD | NFIB Small Business Optimism (Sep) | 91.5 | 92.0 | 91.2 |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 13:30 | CAD | Exports (Aug) | 64.31B |  | 64.94B |
-| 13:30 | CAD | Imports (Aug) | 65.41B |  | 65.22B |
-| 13:55 | USD | Redbook (YoY) | 5.4% |  | 5.3% |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Oct) | 46.9 | 47.2 | 46.1 |
-| 21:00 | USD | Fed Collins Speaks |  |  |  |
+| 00:00 | JPY | Reuters Tankan Index (Oct) | 7 |  | 4 |
+| 24 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 24 min | AUD | Westpac Consumer Sentiment (Oct) |  |  | -0.5% |
+| 05:00 | IDR | Retail Sales (YoY) (Aug) |  |  | 4.5% |
+| 05:30 | INR | Cash Reserve Ratio |  |  | 4.50% |
+| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 05:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 07:00 | EUR | German Exports (MoM) (Aug) |  | -1.0% | 1.7% |
+| 07:00 | EUR | German Imports (MoM) (Aug) |  | -2.5% | 5.4% |
+| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -3.5% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.757% |
+| 11:00 | EUR | French Car Registration (YoY) (Sep) |  |  | -24.3% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.14% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
+| 12:00 | USD | MBA Purchase Index |  |  | 149.3 |
+| 12:00 | USD | Mortgage Market Index |  |  | 292.3 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 1,099.5 |
+| 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
+| 13:00 | MXN | PPI (YoY) (Sep) |  |  | 4.90% |
+| 13:00 | MXN | PPI (MoM) (Sep) |  |  | 0.00% |
+| 13:00 | BRL | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
+| 14:15 | USD | Fed Logan Speaks |  |  |  |
+| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.662M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.191M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.104M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.300M | -1.284M |
+| 15:30 | USD | Gasoline Production |  |  | -0.235M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.277M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -3.3% |
+| 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Gasoline Inventories |  | -1.500M | 1.119M |
+| 15:45 | USD | Fed Logan Speaks |  |  |  |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 55.02 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 49.48 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.91 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 51.34 |
+| 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 18:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.08% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.164B |
+| 22:00 | USD | Fed Collins Speaks |  |  |  |

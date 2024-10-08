@@ -1,27 +1,17 @@
-## 08 October 2024 - Moderate Impact Forex News
+## 09 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 1.7% | 0.8% | 0.8% |
-| 00:30 | JPY | Household Spending (MoM) (Aug) | 2.0% | 0.5% | -1.7% |
-| 00:30 | JPY | Household Spending (YoY) (Aug) | -1.9% | -2.6% | 0.1% |
-| 00:50 | JPY | Adjusted Current Account (Aug) | 3.02T | 2.43T | 2.80T |
-| 00:50 | JPY | Current Account n.s.a. (Aug) | 3.804T | 2.921T | 3.193T |
-| 01:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | NAB Business Confidence (Sep) | -2 |  | -5 |
-| 07:00 | EUR | German Industrial Production (MoM) (Aug) | 2.9% | 0.8% | -2.9% |
-| 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 11:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 13:30 | USD | Exports (Aug) | 271.80B |  | 266.60B |
-| 13:30 | USD | Imports (Aug) | 342.20B |  | 345.40B |
-| 13:30 | USD | Trade Balance (Aug) | -70.40B | -70.10B | -78.90B |
-| 13:30 | CAD | Trade Balance (Aug) | -1.10B | -0.40B | -0.29B |
-| 16:30 | USD | Atlanta Fed GDPNow (Q3) | 3.2% | 2.5% | 2.5% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 3.878% |  | 3.440% |
-| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 18:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 10.900M | 1.950M | -1.458M |
+| 54 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 02:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
+| 07:00 | EUR | German Trade Balance (Aug) |  | 18.9B | 16.8B |
+| 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 13:00 | MXN | CPI (MoM) (Sep) |  | 0.10% | 0.01% |
+| 13:00 | MXN | CPI (YoY) (Sep) |  | 4.62% | 4.99% |
+| 13:00 | BRL | CPI (YoY) (Sep) |  | 4.43% | 4.24% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.840M |
+| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.2% | 3.2% |
+| 23:00 | USD | FOMC Member Daly Speaks |  |  |  |
