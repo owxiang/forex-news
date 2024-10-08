@@ -15,11 +15,12 @@
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | -2 |  | -5 |
 | 01:30 | AUD | Low | NAB Business Survey (Sep) | 7 |  | 3 |
+| 03:40 | IDR | Low | Motorbike Sales (YoY) (Sep) | 3.70% |  | 7.40% |
 | 04:00 | IDR | Low | Consumer Confidence (Sep) | 123.5 |  | 124.4 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.152% |  | 2.043% |
-| 52 min | JPY | Low | Economy Watchers Current Index (Sep) |  | 49.3 | 49.0 |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | -5.29% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.8 | 49.3 | 49.0 |
+| 54 min | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
+| 54 min | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | -5.29% |
 | 07:45 | EUR | Low | French Current Account (Aug) |  |  | -1.20B |
 | 07:45 | EUR | Low | French Exports (Aug) |  |  | 49.8B |
 | 07:45 | EUR | Low | French Imports (Aug) |  |  | 55.7B |
@@ -32,10 +33,10 @@
 | 11:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Moderate | Exports (Aug) |  |  | 266.60B |
 | 13:30 | USD | Moderate | Imports (Aug) |  |  | 345.40B |
-| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -70.60B | -78.80B |
+| 13:30 | USD | Moderate | Trade Balance (Aug) |  | -70.10B | -78.80B |
 | 13:30 | CAD | Low | Exports (Aug) |  |  | 65.66B |
 | 13:30 | CAD | Low | Imports (Aug) |  |  | 64.97B |
-| 13:30 | CAD | Moderate | Trade Balance (Aug) |  | 0.40B | 0.68B |
+| 13:30 | CAD | Moderate | Trade Balance (Aug) |  | -0.40B | 0.68B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Aug) |  |  | 5.2% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Aug) |  |  | -1.6% |

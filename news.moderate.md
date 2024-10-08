@@ -9,14 +9,14 @@
 | 00:50 | JPY | Current Account n.s.a. (Aug) | 3.804T | 2.921T | 3.193T |
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | NAB Business Confidence (Sep) | -2 |  | -5 |
-| 07:00 | EUR | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
+| 54 min | EUR | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | Exports (Aug) |  |  | 266.60B |
 | 13:30 | USD | Imports (Aug) |  |  | 345.40B |
-| 13:30 | USD | Trade Balance (Aug) |  | -70.60B | -78.80B |
-| 13:30 | CAD | Trade Balance (Aug) |  | 0.40B | 0.68B |
+| 13:30 | USD | Trade Balance (Aug) |  | -70.10B | -78.80B |
+| 13:30 | CAD | Trade Balance (Aug) |  | -0.40B | 0.68B |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.5% | 2.5% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
