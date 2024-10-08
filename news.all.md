@@ -46,5 +46,5 @@
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 55 min | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.950M | -1.458M |
