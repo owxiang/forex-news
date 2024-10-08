@@ -8,8 +8,8 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Aug) | 2.60% | -2.50% | -0.20% |
 | 01:30 | AUD | ANZ Job Advertisements (MoM) | 1.6% |  | -1.8% |
 | 01:30 | AUD | NAB Business Survey (Sep) | 7 |  | 3 |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.043% |
-| 05:00 | IDR | Consumer Confidence (Sep) |  |  | 124.4 |
+| 23 min | JPY | 30-Year JGB Auction |  |  | 2.043% |
+| 48 min | IDR | Consumer Confidence (Sep) | 123.5 |  | 124.4 |
 | 06:00 | JPY | Economy Watchers Current Index (Sep) |  | 49.3 | 49.0 |
 | 07:00 | EUR | German Industrial Production (YoY) (Aug) |  |  | -5.29% |
 | 07:45 | EUR | French Current Account (Aug) |  |  | -1.20B |

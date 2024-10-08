@@ -5,8 +5,8 @@
 | 00:00 | KRW | Low | Current Account (Aug) | 6.60B |  | 8.97B |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 1.7% | 0.8% | 0.8% |
 | 00:30 | AUD | Low | Westpac Consumer Sentiment (Oct) | 6.2% |  | -0.5% |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 2.0% | 0.5% | -1.7% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Aug) | -1.9% | -2.6% | 0.1% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 2.0% | 0.5% | -1.7% |
 | 00:30 | JPY | Low | Overall wage income of employees (Aug) | 3.0% | 3.0% | 3.4% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Aug) | 2.60% | -2.50% | -0.20% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Aug) | 3.02T | 2.43T | 2.80T |
@@ -15,8 +15,8 @@
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 01:30 | AUD | Moderate | NAB Business Confidence (Sep) | -2 |  | -4 |
 | 01:30 | AUD | Low | NAB Business Survey (Sep) | 7 |  | 3 |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.043% |
-| 05:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 124.4 |
+| 23 min | JPY | Low | 30-Year JGB Auction |  |  | 2.043% |
+| 48 min | IDR | Low | Consumer Confidence (Sep) | 123.5 |  | 124.4 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 49.3 | 49.0 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | -5.29% |
