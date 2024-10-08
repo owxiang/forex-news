@@ -19,13 +19,13 @@
 | 04:00 | IDR | Low | Consumer Confidence (Sep) | 123.5 |  | 124.4 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.152% |  | 2.043% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.8 | 49.3 | 49.0 |
-| 54 min | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
-| 54 min | EUR | Low | German Industrial Production (YoY) (Aug) |  |  | -5.29% |
-| 07:45 | EUR | Low | French Current Account (Aug) |  |  | -1.20B |
-| 07:45 | EUR | Low | French Exports (Aug) |  |  | 49.8B |
-| 07:45 | EUR | Low | French Imports (Aug) |  |  | 55.7B |
-| 07:45 | EUR | Low | French Trade Balance (Aug) |  | -5.5B | -5.9B |
-| 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) | 2.9% | 0.8% | -2.9% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Aug) | -2.51% |  | -5.81% |
+| 36 min | EUR | Low | French Current Account (Aug) |  |  | -1.20B |
+| 36 min | EUR | Low | French Exports (Aug) |  |  | 49.8B |
+| 36 min | EUR | Low | French Imports (Aug) |  |  | 55.7B |
+| 36 min | EUR | Low | French Trade Balance (Aug) |  | -5.5B | -5.9B |
+| 51 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.822% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 92.0 | 91.2 |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
