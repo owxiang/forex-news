@@ -24,4 +24,4 @@
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.950M | -1.458M |
+| 25 min | USD | API Weekly Crude Oil Stock |  | 1.950M | -1.458M |
