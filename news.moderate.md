@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 1.7% | 0.8% | 0.8% |
-| 00:30 | JPY | Household Spending (YoY) (Aug) | -1.9% | -2.6% | 0.1% |
 | 00:30 | JPY | Household Spending (MoM) (Aug) | 2.0% | 0.5% | -1.7% |
+| 00:30 | JPY | Household Spending (YoY) (Aug) | -1.9% | -2.6% | 0.1% |
 | 00:50 | JPY | Adjusted Current Account (Aug) | 3.02T | 2.43T | 2.80T |
 | 00:50 | JPY | Current Account n.s.a. (Aug) | 3.804T | 2.921T | 3.193T |
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 01:30 | AUD | NAB Business Confidence (Sep) | -2 |  | -4 |
+| 01:30 | AUD | NAB Business Confidence (Sep) | -2 |  | -5 |
 | 07:00 | EUR | German Industrial Production (MoM) (Aug) |  | 0.8% | -2.4% |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
