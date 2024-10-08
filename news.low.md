@@ -23,5 +23,5 @@
 | 13:30 | CAD | Exports (Aug) | 64.31B |  | 64.94B |
 | 13:30 | CAD | Imports (Aug) | 65.41B |  | 65.22B |
 | 13:55 | USD | Redbook (YoY) | 5.4% |  | 5.3% |
-| 4 min | USD | IBD/TIPP Economic Optimism (Oct) |  | 47.2 | 46.1 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Oct) | 46.9 | 47.2 | 46.1 |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |
