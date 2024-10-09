@@ -53,14 +53,14 @@
 | 15:30 | USD | Low | Gasoline Inventories | -6.304M | -1.500M | 1.119M |
 | 15:45 | USD | Low | Fed Logan Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 55.02 |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) | 55.63 |  | 55.02 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 48.41 |  | 49.48 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 53.83 |  | 55.91 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.41 |  | 51.34 |
-| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.2% | 3.2% |
-| 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 17:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 3.648% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.2% | 3.2% | 3.2% |
+| 8 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 23 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 53 min | USD | High | 10-Year Note Auction |  |  | 3.648% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.164B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 22:00 | USD | Low | Fed Collins Speaks |  |  |  |

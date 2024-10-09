@@ -13,5 +13,5 @@
 | 13:00 | BRL | CPI (YoY) (Sep) | 4.42% | 4.43% | 4.24% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.247M |  | 0.840M |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 54 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.2% | 3.2% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.2% | 3.2% | 3.2% |
 | 23:00 | USD | FOMC Member Daly Speaks |  |  |  |
