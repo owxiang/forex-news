@@ -31,8 +31,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.05% | 0.10% | 0.01% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) | 4.58% | 4.62% | 4.99% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 3.91% | 3.95% | 4.00% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.44% | 0.46% | -0.02% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 4.42% | 4.43% | 4.24% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.50% |  | 0.08% |
@@ -63,5 +63,5 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.066% |  | 3.648% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.277B |  | -0.164B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 22:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 53 min | USD | Low | Fed Collins Speaks |  |  |  |
 | 23:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
