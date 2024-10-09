@@ -13,7 +13,7 @@
 | 07:00 | EUR | German Imports (MoM) (Aug) | -3.4% | -2.5% | 5.3% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Sep) | -6.5% |  | -3.5% |
 | 07:00 | NOK | PPI (YoY) (Sep) | -2.9% |  | 3.6% |
-| 52 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.757% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.757% |
 | 11:00 | EUR | French Car Registration (YoY) (Sep) |  |  | -24.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.14% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
