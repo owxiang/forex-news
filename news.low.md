@@ -3,8 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Oct) | 7 |  | 4 |
-| 24 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 24 min | AUD | Westpac Consumer Sentiment (Oct) |  |  | -0.5% |
+| 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 05:00 | IDR | Retail Sales (YoY) (Aug) |  |  | 4.5% |
 | 05:30 | INR | Cash Reserve Ratio |  |  | 4.50% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
@@ -21,8 +20,8 @@
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,099.5 |
 | 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 13:00 | MXN | PPI (YoY) (Sep) |  |  | 4.90% |
 | 13:00 | MXN | PPI (MoM) (Sep) |  |  | 0.00% |
+| 13:00 | MXN | PPI (YoY) (Sep) |  |  | 4.90% |
 | 13:00 | BRL | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
 | 14:15 | USD | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
