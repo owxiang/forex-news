@@ -33,8 +33,8 @@
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 3.91% | 3.95% | 4.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 4.42% | 4.43% | 4.24% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.44% | 0.46% | -0.02% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 4.42% | 4.43% | 4.24% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.50% |  | 0.08% |
 | 14:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
