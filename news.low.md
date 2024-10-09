@@ -22,13 +22,13 @@
 | 12:00 | USD | Mortgage Refinance Index | 997.3 |  | 1,099.5 |
 | 13:00 | MXN | Core CPI (MoM) (Sep) | 0.28% | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) | 3.91% | 3.95% | 4.00% |
-| 13:00 | MXN | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | MXN | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
+| 13:00 | MXN | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | BRL | CPI (MoM) (Sep) | 0.44% | 0.46% | -0.02% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.50% |  | 0.08% |
-| 14:15 | USD | Fed Logan Speaks |  |  |  |
-| 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
+| 5 min | USD | Fed Logan Speaks |  |  |  |
+| 50 min | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
+| 50 min | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.662M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.191M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.104M |

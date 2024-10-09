@@ -28,17 +28,17 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 997.3 |  | 1,099.5 |
 | 13:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Sep) | 0.28% | 0.32% | 0.22% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.05% | 0.10% | 0.01% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) | 4.58% | 4.62% | 4.99% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.05% | 0.10% | 0.01% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 3.91% | 3.95% | 4.00% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) | 0.44% | 0.46% | -0.02% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) | 4.42% | 4.43% | 4.24% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.50% |  | 0.08% |
-| 14:15 | USD | Low | Fed Logan Speaks |  |  |  |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
+| 5 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 50 min | USD | Low | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
+| 50 min | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.000M | 3.889M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.662M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.191M |
