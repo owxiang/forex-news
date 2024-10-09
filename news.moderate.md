@@ -5,7 +5,7 @@
 | 01:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 02:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 53 min | EUR | German Trade Balance (Aug) |  | 18.9B | 16.8B |
+| 07:00 | EUR | German Trade Balance (Aug) | 22.5B | 18.9B | 16.9B |
 | 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | CPI (MoM) (Sep) |  | 0.10% | 0.01% |

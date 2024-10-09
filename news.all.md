@@ -13,10 +13,11 @@
 | 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 53 min | EUR | Low | German Exports (MoM) (Aug) |  | -1.0% | 1.7% |
-| 53 min | EUR | Low | German Imports (MoM) (Aug) |  | -2.5% | 5.4% |
-| 53 min | EUR | Moderate | German Trade Balance (Aug) |  | 18.9B | 16.8B |
-| 53 min | JPY | Low | Machine Tool Orders (YoY) (Sep) |  |  | -3.5% |
+| 07:00 | EUR | Low | German Exports (MoM) (Aug) | 1.3% | -1.0% | 1.7% |
+| 07:00 | EUR | Low | German Imports (MoM) (Aug) | -3.4% | -2.5% | 5.3% |
+| 07:00 | EUR | Moderate | German Trade Balance (Aug) | 22.5B | 18.9B | 16.9B |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Sep) | -6.5% |  | -3.5% |
+| 07:00 | NOK | Low | PPI (YoY) (Sep) | -2.9% |  | 3.6% |
 | 09:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.757% |
 | 11:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | -24.3% |
@@ -30,8 +31,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.10% | 0.01% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.62% | 4.99% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 4.90% |
+| 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.00% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 4.43% | 4.24% |
 | 14:15 | USD | Low | Fed Logan Speaks |  |  |  |
