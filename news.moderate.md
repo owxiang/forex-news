@@ -14,4 +14,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.247M |  | 0.840M |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.2% | 3.2% | 3.2% |
-| 54 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 23:00 | USD | FOMC Member Daly Speaks |  |  |  |

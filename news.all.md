@@ -64,4 +64,4 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.277B |  | -0.164B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 22:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 54 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 23:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
