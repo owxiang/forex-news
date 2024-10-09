@@ -6,7 +6,7 @@
 | 02:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 07:00 | EUR | German Trade Balance (Aug) | 22.5B | 18.9B | 16.9B |
-| 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 22 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | CPI (MoM) (Sep) |  | 0.10% | 0.01% |
 | 13:00 | MXN | CPI (YoY) (Sep) |  | 4.62% | 4.99% |

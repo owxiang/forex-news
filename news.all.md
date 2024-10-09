@@ -18,8 +18,8 @@
 | 07:00 | EUR | Moderate | German Trade Balance (Aug) | 22.5B | 18.9B | 16.9B |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Sep) | -6.5% |  | -3.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Sep) | -2.9% |  | 3.6% |
-| 09:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.757% |
+| 22 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 52 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.757% |
 | 11:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | -24.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.14% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
@@ -31,10 +31,10 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.10% | 0.01% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.62% | 4.99% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 4.90% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.00% |
-| 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
+| 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 4.90% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 4.43% | 4.24% |
+| 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
 | 14:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
