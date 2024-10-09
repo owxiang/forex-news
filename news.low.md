@@ -22,8 +22,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 997.3 |  | 1,099.5 |
 | 13:00 | MXN | Core CPI (MoM) (Sep) | 0.28% | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) | 3.91% | 3.95% | 4.00% |
-| 13:00 | MXN | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
 | 13:00 | MXN | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
+| 13:00 | MXN | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
 | 13:00 | BRL | CPI (MoM) (Sep) | 0.44% | 0.46% | -0.02% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.50% |  | 0.08% |
 | 14:15 | USD | Fed Logan Speaks |  |  |  |
@@ -46,5 +46,5 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.41 |  | 51.34 |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -0.164B |
+| 18:30 | BRL | Foreign Exchange Flows | -0.277B |  | -0.164B |
 | 22:00 | USD | Fed Collins Speaks |  |  |  |
