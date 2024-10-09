@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 02:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
+| 23 min | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 07:00 | EUR | German Trade Balance (Aug) |  | 18.9B | 16.8B |
 | 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |

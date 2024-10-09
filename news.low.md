@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Oct) | 7 |  | 4 |
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 50 min | IDR | Retail Sales (YoY) (Aug) |  |  | 4.5% |
-| 05:30 | INR | Cash Reserve Ratio |  |  | 4.50% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 05:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 05:00 | IDR | Retail Sales (YoY) (Aug) | 5.8% |  | 4.5% |
+| 23 min | INR | Cash Reserve Ratio |  |  | 4.50% |
+| 23 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 23 min | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 07:00 | EUR | German Exports (MoM) (Aug) |  | -1.0% | 1.7% |
 | 07:00 | EUR | German Imports (MoM) (Aug) |  | -2.5% | 5.4% |
 | 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -3.5% |
@@ -20,8 +20,8 @@
 | 12:00 | USD | Mortgage Refinance Index |  |  | 1,099.5 |
 | 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 13:00 | MXN | PPI (MoM) (Sep) |  |  | 0.00% |
 | 13:00 | MXN | PPI (YoY) (Sep) |  |  | 4.90% |
+| 13:00 | MXN | PPI (MoM) (Sep) |  |  | 0.00% |
 | 13:00 | BRL | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
 | 14:15 | USD | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |

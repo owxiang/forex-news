@@ -7,11 +7,11 @@
 | 01:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 02:00 | NZD | High | RBNZ Interest Rate Decision | 4.75% | 4.75% | 5.25% |
 | 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 50 min | IDR | Low | Retail Sales (YoY) (Aug) |  |  | 4.5% |
-| 05:30 | INR | Low | Cash Reserve Ratio |  |  | 4.50% |
-| 05:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 05:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 05:00 | IDR | Low | Retail Sales (YoY) (Aug) | 5.8% |  | 4.5% |
+| 23 min | INR | Low | Cash Reserve Ratio |  |  | 4.50% |
+| 23 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 23 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 23 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 07:00 | EUR | Low | German Exports (MoM) (Aug) |  | -1.0% | 1.7% |
 | 07:00 | EUR | Low | German Imports (MoM) (Aug) |  | -2.5% | 5.4% |
 | 07:00 | EUR | Moderate | German Trade Balance (Aug) |  | 18.9B | 16.8B |
@@ -29,8 +29,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.10% | 0.01% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.62% | 4.99% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 4.90% |
+| 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.00% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 4.43% | 4.24% |
 | 14:15 | USD | Low | Fed Logan Speaks |  |  |  |
