@@ -1,8 +1,9 @@
-## 09 October 2024 - High Impact Forex News
+## 10 October 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | RBNZ Interest Rate Decision | 4.75% | 4.75% | 5.25% |
-| 15:30 | USD | Crude Oil Inventories | 5.810M | 2.000M | 3.889M |
-| 18:00 | USD | 10-Year Note Auction | 4.066% |  | 3.648% |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 13:30 | USD | CPI (MoM) (Sep) |  | 0.1% | 0.2% |
+| 13:30 | USD | CPI (YoY) (Sep) |  | 2.3% | 2.5% |
+| 13:30 | USD | Initial Jobless Claims |  | 231K | 225K |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.015% |

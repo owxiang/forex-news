@@ -1,17 +1,19 @@
-## 09 October 2024 - Moderate Impact Forex News
+## 10 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 02:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | EUR | German Trade Balance (Aug) | 22.5B | 18.9B | 16.9B |
-| 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | CPI (MoM) (Sep) | 0.05% | 0.10% | 0.01% |
-| 13:00 | MXN | CPI (YoY) (Sep) | 4.58% | 4.62% | 4.99% |
-| 13:00 | BRL | CPI (YoY) (Sep) | 4.42% | 4.43% | 4.24% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 1.247M |  | 0.840M |
+| 00:01 | GBP | RICS House Price Balance (Sep) | 11% |  | 0% |
+| 01:30 | AUD | Building Approvals (MoM) (Aug) |  | -6.1% | 11.0% |
+| 08:00 | EUR | German Retail Sales (MoM) (May) |  |  | -1.2% |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | BRL | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
+| 13:00 | BRL | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,830K | 1,826K |
+| 13:30 | USD | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.2% | 3.2% | 3.2% |
-| 23:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Sep) |  |  | -380.0B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,047B |
+| 22:30 | NZD | Business NZ PMI (Sep) |  |  | 45.8 |
