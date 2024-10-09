@@ -11,7 +11,7 @@
 | 13:00 | MXN | CPI (MoM) (Sep) | 0.05% | 0.10% | 0.01% |
 | 13:00 | MXN | CPI (YoY) (Sep) | 4.58% | 4.62% | 4.99% |
 | 13:00 | BRL | CPI (YoY) (Sep) | 4.42% | 4.43% | 4.24% |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | 0.840M |
-| 54 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q3) |  | 3.2% | 3.2% |
+| 15:30 | USD | Cushing Crude Oil Inventories | 1.247M |  | 0.840M |
+| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 54 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.2% | 3.2% |
 | 23:00 | USD | FOMC Member Daly Speaks |  |  |  |

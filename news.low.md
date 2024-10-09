@@ -22,28 +22,28 @@
 | 12:00 | USD | Mortgage Refinance Index | 997.3 |  | 1,099.5 |
 | 13:00 | MXN | Core CPI (MoM) (Sep) | 0.28% | 0.32% | 0.22% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Sep) | 3.91% | 3.95% | 4.00% |
-| 13:00 | MXN | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | MXN | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
+| 13:00 | MXN | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
 | 13:00 | BRL | CPI (MoM) (Sep) | 0.44% | 0.46% | -0.02% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.50% |  | 0.08% |
 | 14:15 | USD | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Wholesale Inventories (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) | -0.1% |  | 1.1% |
-| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.662M |
-| 24 min | USD | Crude Oil Imports |  |  | 0.191M |
-| 24 min | USD | Distillate Fuel Production |  |  | -0.104M |
-| 24 min | USD | EIA Weekly Distillates Stocks |  | -2.300M | -1.284M |
-| 24 min | USD | Gasoline Production |  |  | -0.235M |
-| 24 min | USD | Heating Oil Stockpiles |  |  | -0.277M |
-| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -3.3% |
-| 24 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 24 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 24 min | USD | Gasoline Inventories |  | -1.500M | 1.119M |
-| 39 min | USD | Fed Logan Speaks |  |  |  |
-| 54 min | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 55.02 |
-| 54 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 49.48 |
-| 54 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.91 |
-| 54 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 51.34 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.101M |  | -0.662M |
+| 15:30 | USD | Crude Oil Imports | -0.305M |  | 0.191M |
+| 15:30 | USD | Distillate Fuel Production | 0.194M |  | -0.104M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -3.124M | -2.300M | -1.284M |
+| 15:30 | USD | Gasoline Production | 0.627M |  | -0.235M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.497M |  | -0.277M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.9% |  | -3.3% |
+| 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Gasoline Inventories | -6.304M | -1.500M | 1.119M |
+| 15:45 | USD | Fed Logan Speaks |  |  |  |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 55.02 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 48.41 |  | 49.48 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 53.83 |  | 55.91 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.41 |  | 51.34 |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.164B |
