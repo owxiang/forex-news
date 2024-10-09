@@ -15,15 +15,17 @@
 | 07:00 | NOK | PPI (YoY) (Sep) | -2.9% |  | 3.6% |
 | 10:20 | GBP | 10-Year Treasury Gilt Auction | 4.170% |  | 3.757% |
 | 11:00 | EUR | French Car Registration (YoY) (Sep) | -11.1% |  | -24.3% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.14% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
-| 54 min | USD | MBA Purchase Index |  |  | 149.3 |
-| 54 min | USD | Mortgage Market Index |  |  | 292.3 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 1,099.5 |
-| 13:00 | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 13:00 | MXN | PPI (YoY) (Sep) |  |  | 4.90% |
-| 13:00 | MXN | PPI (MoM) (Sep) |  |  | 0.00% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.36% |  | 6.14% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -5.1% |  | -1.3% |
+| 12:00 | USD | MBA Purchase Index | 149.2 |  | 149.3 |
+| 12:00 | USD | Mortgage Market Index | 277.5 |  | 292.3 |
+| 12:00 | USD | Mortgage Refinance Index | 997.3 |  | 1,099.5 |
+| 53 min | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
+| 53 min | MXN | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
+| 53 min | MXN | PPI (MoM) (Sep) |  |  | 0.00% |
+| 53 min | MXN | PPI (YoY) (Sep) |  |  | 4.90% |
+| 53 min | BRL | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
+| 53 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.08% |
 | 14:15 | USD | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
@@ -44,7 +46,5 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 51.34 |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 18:00 | BRL | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
-| 18:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.08% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.164B |
 | 22:00 | USD | Fed Collins Speaks |  |  |  |
