@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 34 min | NZD | RBNZ Rate Statement |  |  |  |
+| 02:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 07:00 | EUR | German Trade Balance (Aug) |  | 18.9B | 16.8B |
 | 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
