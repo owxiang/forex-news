@@ -7,15 +7,16 @@
 | 01:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 02:00 | NZD | High | RBNZ Interest Rate Decision | 4.75% | 4.75% | 5.25% |
 | 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 05:00 | IDR | Low | Retail Sales (YoY) (Aug) | 5.8% |  | 4.5% |
-| 23 min | INR | Low | Cash Reserve Ratio |  |  | 4.50% |
-| 23 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 23 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 23 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 07:00 | EUR | Low | German Exports (MoM) (Aug) |  | -1.0% | 1.7% |
-| 07:00 | EUR | Low | German Imports (MoM) (Aug) |  | -2.5% | 5.4% |
-| 07:00 | EUR | Moderate | German Trade Balance (Aug) |  | 18.9B | 16.8B |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -3.5% |
+| 03:15 | IDR | Low | Car Sales (YoY) (Sep) | -9.10% |  | -14.20% |
+| 04:45 | IDR | Low | Retail Sales (YoY) (Aug) | 5.8% |  | 4.5% |
+| 05:30 | INR | Low | Cash Reserve Ratio | 4.50% |  | 4.50% |
+| 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 05:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 53 min | EUR | Low | German Exports (MoM) (Aug) |  | -1.0% | 1.7% |
+| 53 min | EUR | Low | German Imports (MoM) (Aug) |  | -2.5% | 5.4% |
+| 53 min | EUR | Moderate | German Trade Balance (Aug) |  | 18.9B | 16.8B |
+| 53 min | JPY | Low | Machine Tool Orders (YoY) (Sep) |  |  | -3.5% |
 | 09:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.757% |
 | 11:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | -24.3% |
@@ -29,14 +30,14 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.10% | 0.01% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.62% | 4.99% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 4.90% |
 | 13:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 4.90% |
 | 13:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 4.43% | 4.24% |
 | 14:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
-| 15:30 | USD | High | Crude Oil Inventories |  | 1.900M | 3.889M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 2.000M | 3.889M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.662M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.191M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.840M |
