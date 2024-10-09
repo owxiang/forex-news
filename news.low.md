@@ -20,12 +20,12 @@
 | 12:00 | USD | MBA Purchase Index | 149.2 |  | 149.3 |
 | 12:00 | USD | Mortgage Market Index | 277.5 |  | 292.3 |
 | 12:00 | USD | Mortgage Refinance Index | 997.3 |  | 1,099.5 |
-| 53 min | MXN | Core CPI (MoM) (Sep) |  | 0.32% | 0.22% |
-| 53 min | MXN | Month Core Inflation (MoM) (Sep) |  | 3.95% | 4.00% |
-| 53 min | MXN | PPI (MoM) (Sep) |  |  | 0.00% |
-| 53 min | MXN | PPI (YoY) (Sep) |  |  | 4.90% |
-| 53 min | BRL | CPI (MoM) (Sep) |  | 0.46% | -0.02% |
-| 53 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.08% |
+| 13:00 | MXN | Core CPI (MoM) (Sep) | 0.28% | 0.32% | 0.22% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Sep) | 3.91% | 3.95% | 4.00% |
+| 13:00 | MXN | PPI (YoY) (Sep) | 5.10% |  | 5.00% |
+| 13:00 | MXN | PPI (MoM) (Sep) | 0.40% |  | 0.00% |
+| 13:00 | BRL | CPI (MoM) (Sep) | 0.44% | 0.46% | -0.02% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.50% |  | 0.08% |
 | 14:15 | USD | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Wholesale Inventories (MoM) (Aug) |  | 0.2% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 1.1% |
