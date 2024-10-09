@@ -7,7 +7,7 @@
 | 01:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 02:00 | NZD | High | RBNZ Interest Rate Decision | 4.75% | 4.75% | 5.25% |
 | 02:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 05:00 | IDR | Low | Retail Sales (YoY) (Aug) |  |  | 4.5% |
+| 50 min | IDR | Low | Retail Sales (YoY) (Aug) |  |  | 4.5% |
 | 05:30 | INR | Low | Cash Reserve Ratio |  |  | 4.50% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |

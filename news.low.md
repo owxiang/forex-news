@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Oct) | 7 |  | 4 |
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 05:00 | IDR | Retail Sales (YoY) (Aug) |  |  | 4.5% |
+| 50 min | IDR | Retail Sales (YoY) (Aug) |  |  | 4.5% |
 | 05:30 | INR | Cash Reserve Ratio |  |  | 4.50% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
