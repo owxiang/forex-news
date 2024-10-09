@@ -58,10 +58,10 @@
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 53.83 |  | 55.91 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) | 53.41 |  | 51.34 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.2% | 3.2% | 3.2% |
-| 8 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 23 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 53 min | USD | High | 10-Year Note Auction |  |  | 3.648% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.164B |
-| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 17:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction | 4.066% |  | 3.648% |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -0.164B |
+| 54 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 22:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 23:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

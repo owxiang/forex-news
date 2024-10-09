@@ -4,5 +4,5 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | RBNZ Interest Rate Decision | 4.75% | 4.75% | 5.25% |
 | 15:30 | USD | Crude Oil Inventories | 5.810M | 2.000M | 3.889M |
-| 53 min | USD | 10-Year Note Auction |  |  | 3.648% |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 18:00 | USD | 10-Year Note Auction | 4.066% |  | 3.648% |
+| 54 min | USD | FOMC Meeting Minutes |  |  |  |
