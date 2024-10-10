@@ -18,8 +18,8 @@
 | 07:01 | EUR | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
 | 07:02 | EUR | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
 | 07:03 | EUR | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 10:30 | EUR | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
 | 10:30 | ZAR | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
 | 10:30 | ZAR | Mining Production (Aug) | 0.3% |  | -1.0% |
