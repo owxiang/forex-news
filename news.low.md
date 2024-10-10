@@ -29,15 +29,15 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
-| 20 min | USD | Core CPI Index (Sep) |  |  | 319.77 |
-| 20 min | USD | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
-| 20 min | USD | CPI Index, s.a (Sep) |  |  | 314.12 |
-| 20 min | USD | CPI, n.s.a (MoM) (Sep) |  |  | 0.08% |
-| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 20 min | USD | Real Earnings (MoM) (Sep) |  |  | 0.5% |
-| 14:15 | USD | Fed Governor Cook Speaks |  |  |  |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
+| 13:30 | USD | Core CPI Index (Sep) | 320.77 | 320.59 | 319.77 |
+| 13:30 | USD | CPI Index, n.s.a. (Sep) | 315.30 | 314.86 | 314.80 |
+| 13:30 | USD | CPI Index, s.a (Sep) | 314.69 |  | 314.12 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.16% |  | 0.08% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 231.00K |  | 224.25K |
+| 13:30 | USD | Real Earnings (MoM) (Sep) | -0.1% |  | 0.6% |
+| 4 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 73B | 55B |
 | 16:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |

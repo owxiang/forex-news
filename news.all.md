@@ -19,8 +19,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
 | 07:01 | EUR | Moderate | German Retail Sales (MoM) (Jun) | -1.1% |  | -1.4% |
 | 07:01 | EUR | Low | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
-| 07:02 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
 | 07:02 | EUR | Low | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
+| 07:02 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
 | 07:03 | EUR | Low | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
 | 07:03 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
@@ -35,25 +35,25 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 5.1% | 3.6% | 4.4% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 5.1% | 3.6% | 4.6% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | -0.3% | -0.5% | 0.6% |
-| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,830K | 1,826K |
-| 20 min | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 20 min | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
-| 20 min | USD | Low | Core CPI Index (Sep) |  |  | 319.77 |
-| 20 min | USD | High | CPI (YoY) (Sep) |  | 2.3% | 2.5% |
-| 20 min | USD | High | CPI (MoM) (Sep) |  | 0.1% | 0.2% |
-| 20 min | USD | Low | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
-| 20 min | USD | Low | CPI Index, s.a (Sep) |  |  | 314.12 |
-| 20 min | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.08% |
-| 20 min | USD | High | Initial Jobless Claims |  | 231K | 225K |
-| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 20 min | USD | Low | Real Earnings (MoM) (Sep) |  |  | 0.5% |
-| 14:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,861K | 1,830K | 1,819K |
+| 13:30 | USD | High | Core CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) | 3.3% | 3.2% | 3.2% |
+| 13:30 | USD | Low | Core CPI Index (Sep) | 320.77 | 320.59 | 319.77 |
+| 13:30 | USD | High | CPI (MoM) (Sep) | 0.2% | 0.1% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Sep) | 2.4% | 2.3% | 2.5% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Sep) | 315.30 | 314.86 | 314.80 |
+| 13:30 | USD | Low | CPI Index, s.a (Sep) | 314.69 |  | 314.12 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Sep) | 0.16% |  | 0.08% |
+| 13:30 | USD | High | Initial Jobless Claims | 258K | 231K | 225K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 231.00K |  | 224.25K |
+| 13:30 | USD | Low | Real Earnings (MoM) (Sep) | -0.1% |  | 0.6% |
+| 4 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 49 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 73B | 55B |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
