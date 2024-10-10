@@ -3,9 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
-| 07:00 | EUR | German Retail Sales (MoM) (Jun) | 1.6% |  | -1.2% |
-| 07:01 | EUR | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
-| 07:02 | EUR | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
+| 07:00 | EUR | German Retail Sales (MoM) (May) | -1.4% |  | -1.2% |
+| 07:01 | EUR | German Retail Sales (MoM) (Jun) | -1.1% |  | -1.4% |
+| 07:02 | EUR | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
+| 07:03 | EUR | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |

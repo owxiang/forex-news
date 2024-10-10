@@ -5,22 +5,23 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 696.7B |  | -55.8B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
-| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
 | 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
 | 01:00 | AUD | Low | MI Inflation Expectations | 4.0% |  | 4.4% |
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
 | 01:30 | AUD | Low | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.562% |  | 0.521% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | 1.6% |  | -1.2% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) | -1.4% |  | -1.2% |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) | 3.1% | 3.3% | 3.2% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) | 0.3% | 0.4% | -0.7% |
-| 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
 | 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
-| 07:01 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
-| 07:02 | EUR | Low | German Retail Sales (YoY) (Aug) | 1.9% |  | -4.4% |
-| 07:02 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
-| 54 min | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
-| 54 min | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.3% | -0.9% |
+| 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
+| 07:01 | EUR | Moderate | German Retail Sales (MoM) (Jun) | -1.1% |  | -1.4% |
+| 07:02 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
+| 07:03 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
+| 08:00 | EUR | Low | German Retail Sales (YoY) (Jul) | 1.9% |  | -4.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.892% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -3.5% |
@@ -31,8 +32,8 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.60 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.28 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
