@@ -9,11 +9,11 @@
 | 00:50 | JPY | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
 | 01:00 | AUD | MI Inflation Expectations | 4.0% |  | 4.4% |
 | 01:30 | AUD | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
-| 25 min | JPY | 5-Year JGB Auction |  |  | 0.521% |
+| 04:35 | JPY | 5-Year JGB Auction | 0.562% |  | 0.521% |
 | 07:00 | NOK | Core CPI YTD (Sep) |  | 3.3% | 3.2% |
 | 07:00 | NOK | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
-| 07:00 | NOK | CPI (YoY) (Sep) |  | 3.2% | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Sep) |  | 0.4% | -0.9% |
+| 07:00 | NOK | CPI (YoY) (Sep) |  | 3.2% | 2.6% |
 | 08:00 | EUR | German Retail Sales (YoY) (Jun) |  |  | -1.7% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
@@ -26,8 +26,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.60 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.28 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.50 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
 | 13:30 | USD | Core CPI Index (Sep) |  |  | 319.77 |
 | 13:30 | USD | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
 | 13:30 | USD | CPI Index, s.a (Sep) |  |  | 314.12 |
