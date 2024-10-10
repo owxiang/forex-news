@@ -16,5 +16,5 @@
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,047B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,047B |
 | 22:30 | NZD | Business NZ PMI (Sep) |  |  | 45.8 |
