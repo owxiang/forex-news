@@ -6,20 +6,20 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 696.7B |  | -55.8B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
-| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
 | 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
 | 01:00 | AUD | Low | MI Inflation Expectations | 4.0% |  | 4.4% |
-| 5 min | AUD | Moderate | Building Approvals (MoM) (Aug) |  | -6.1% | 11.0% |
-| 5 min | AUD | Low | Private House Approvals (Aug) |  | 0.5% | 0.9% |
+| 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
+| 01:30 | AUD | Low | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.521% |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) |  | 3.3% | 3.2% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
 | 07:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.4% | -0.9% |
 | 07:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.2% | 2.6% |
-| 08:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  |  | -1.7% |
 | 08:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  |  | -1.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
+| 08:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  |  | -1.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.892% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -3.5% |
@@ -30,11 +30,11 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.60 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.28 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,830K | 1,826K |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
