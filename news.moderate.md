@@ -8,9 +8,9 @@
 | 07:02 | EUR | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
 | 07:03 | EUR | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
-| 13:00 | BRL | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
+| 24 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 54 min | BRL | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
+| 54 min | BRL | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,830K | 1,826K |
 | 13:30 | USD | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |

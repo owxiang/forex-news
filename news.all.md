@@ -32,11 +32,11 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
-| 54 min | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
-| 54 min | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
+| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,830K | 1,826K |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |

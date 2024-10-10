@@ -26,8 +26,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
-| 54 min | ZAR | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
-| 54 min | ZAR | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
 | 13:30 | USD | Core CPI Index (Sep) |  |  | 319.77 |
 | 13:30 | USD | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
 | 13:30 | USD | CPI Index, s.a (Sep) |  |  | 314.12 |
