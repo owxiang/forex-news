@@ -5,8 +5,8 @@
 | 00:50 | JPY | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
 | 00:50 | JPY | Foreign Bonds Buying | 696.7B |  | -55.8B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
-| 00:50 | JPY | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
 | 00:50 | JPY | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
+| 00:50 | JPY | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
 | 01:00 | AUD | MI Inflation Expectations | 4.0% |  | 4.4% |
 | 01:30 | AUD | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.562% |  | 0.521% |

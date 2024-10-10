@@ -5,14 +5,14 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 696.7B |  | -55.8B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
-| 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
 | 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
+| 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
 | 01:00 | AUD | Low | MI Inflation Expectations | 4.0% |  | 4.4% |
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
 | 01:30 | AUD | Low | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.562% |  | 0.521% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) | -1.8% |  | 1.0% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) | -1.4% |  | 0.4% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (May) | -1.8% |  | 1.0% |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) | 3.1% | 3.3% | 3.2% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) | 0.3% | 0.4% | -0.7% |
 | 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
@@ -21,8 +21,8 @@
 | 07:01 | EUR | Low | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
 | 07:02 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
 | 07:02 | EUR | Low | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
-| 07:03 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
 | 07:03 | EUR | Low | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
+| 07:03 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
@@ -60,9 +60,9 @@
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.750% |  | 4.755% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.640% |  | 4.655% |
-| 53 min | USD | High | 30-Year Bond Auction |  |  | 4.015% |
-| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
+| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.015% |
+| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 54 min | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,047B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.097T |
 | 22:30 | NZD | Moderate | Business NZ PMI (Sep) |  |  | 45.8 |
