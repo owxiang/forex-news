@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Bank Lending (YoY) (Sep) |  | 2.9% | 3.0% |
-| 43 min | JPY | Foreign Bonds Buying |  |  | -58.0B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 757.9B |
-| 43 min | JPY | PPI (YoY) (Sep) |  | 2.3% | 2.5% |
-| 43 min | JPY | PPI (MoM) (Sep) |  | -0.3% | -0.2% |
-| 53 min | AUD | MI Inflation Expectations |  |  | 4.4% |
-| 01:30 | AUD | Private House Approvals (Aug) |  | 0.5% | 0.9% |
+| 00:50 | JPY | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
+| 00:50 | JPY | Foreign Bonds Buying | 696.7B |  | -55.8B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
+| 00:50 | JPY | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
+| 00:50 | JPY | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
+| 01:00 | AUD | MI Inflation Expectations | 4.0% |  | 4.4% |
+| 5 min | AUD | Private House Approvals (Aug) |  | 0.5% | 0.9% |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.521% |
 | 07:00 | NOK | Core CPI YTD (Sep) |  | 3.3% | 3.2% |
 | 07:00 | NOK | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |

@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Sep) | 11% |  | 0% |
-| 01:30 | AUD | Building Approvals (MoM) (Aug) |  | -6.1% | 11.0% |
+| 5 min | AUD | Building Approvals (MoM) (Aug) |  | -6.1% | 11.0% |
 | 08:00 | EUR | German Retail Sales (MoM) (May) |  |  | -1.2% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |

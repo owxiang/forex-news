@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Sep) | 11% |  | 0% |
-| 43 min | JPY | Low | Bank Lending (YoY) (Sep) |  | 2.9% | 3.0% |
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | -58.0B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 757.9B |
-| 43 min | JPY | Low | PPI (YoY) (Sep) |  | 2.3% | 2.5% |
-| 43 min | JPY | Low | PPI (MoM) (Sep) |  | -0.3% | -0.2% |
-| 53 min | AUD | Low | MI Inflation Expectations |  |  | 4.4% |
-| 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) |  | -6.1% | 11.0% |
-| 01:30 | AUD | Low | Private House Approvals (Aug) |  | 0.5% | 0.9% |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 696.7B |  | -55.8B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
+| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
+| 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
+| 01:00 | AUD | Low | MI Inflation Expectations | 4.0% |  | 4.4% |
+| 5 min | AUD | Moderate | Building Approvals (MoM) (Aug) |  | -6.1% | 11.0% |
+| 5 min | AUD | Low | Private House Approvals (Aug) |  | 0.5% | 0.9% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.521% |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) |  | 3.3% | 3.2% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
