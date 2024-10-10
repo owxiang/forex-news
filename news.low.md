@@ -44,7 +44,7 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.750% |  | 4.755% |
 | 16:30 | USD | 8-Week Bill Auction | 4.640% |  | 4.655% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.197T |  | 3.097T |
-| 39 min | NZD | External Migration & Visitors (Aug) |  |  | 3.80% |
-| 39 min | NZD | FPI (MoM) (Sep) |  |  | 0.2% |
-| 39 min | NZD | Permanent/Long-Term Migration (Aug) |  |  | 3,030 |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | 2.2% |
+| 22:45 | NZD | External Migration & Visitors (Aug) | 3.60% |  | 3.80% |
+| 22:45 | NZD | FPI (MoM) (Sep) | 0.5% |  | 0.2% |
+| 22:45 | NZD | Permanent/Long-Term Migration (Aug) | 1,840 |  | 3,000 |
+| 22:45 | NZD | Visitor Arrivals (MoM) | -4.3% |  | 2.2% |
