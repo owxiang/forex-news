@@ -1,20 +1,35 @@
-## 10 October 2024 - Moderate Impact Forex News
+## 11 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
-| 07:00 | EUR | German Retail Sales (MoM) (May) | -1.4% |  | 0.4% |
-| 07:01 | EUR | German Retail Sales (MoM) (Jun) | -1.1% |  | -1.4% |
-| 07:02 | EUR | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
-| 07:03 | EUR | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Aug) | -0.3% | -0.5% | 0.6% |
-| 13:00 | BRL | Retail Sales (YoY) (Aug) | 5.1% | 3.6% | 4.6% |
-| 13:30 | USD | Continuing Jobless Claims | 1,861K | 1,830K | 1,819K |
-| 13:30 | USD | Core CPI (YoY) (Sep) | 3.3% | 3.2% | 3.2% |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,047B |  | 7,047B |
-| 22:30 | NZD | Business NZ PMI (Sep) | 46.9 |  | 45.8 |
+| 07:00 | GBP | Industrial Production (MoM) (Aug) |  | 0.2% | -0.8% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | 0.3% | -1.0% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.5% |
+| 07:00 | GBP | Trade Balance (Aug) |  | -18.80B | -20.00B |
+| 07:00 | GBP | Trade Balance Non-EU (Aug) |  |  | -7.50B |
+| 07:00 | EUR | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
+| 08:00 | CHF | SECO Consumer Climate |  | -33 | -35 |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
+| 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 13:30 | CAD | Building Permits (MoM) (Aug) |  | -7.1% | 22.1% |
+| 13:30 | CAD | Employment Change (Sep) |  | 29.8K | 22.1K |
+| 13:30 | CAD | Unemployment Rate (Sep) |  | 6.7% | 6.6% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 2.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.1% |
+| 15:00 | USD | Michigan Consumer Expectations (Oct) |  | 75.0 | 74.4 |
+| 15:00 | USD | Michigan Consumer Sentiment (Oct) |  | 70.9 | 70.1 |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 18:10 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 93.8K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 159.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 299.9K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 16.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | 7.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 14.5K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -38.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 56.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 55.3K |

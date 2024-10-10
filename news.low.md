@@ -1,50 +1,56 @@
-## 10 October 2024 - Low Impact Forex News
+## 11 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
-| 00:50 | JPY | Foreign Bonds Buying | 696.7B |  | -55.8B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
-| 00:50 | JPY | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
-| 00:50 | JPY | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
-| 01:00 | AUD | MI Inflation Expectations | 4.0% |  | 4.4% |
-| 01:30 | AUD | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
-| 04:35 | JPY | 5-Year JGB Auction | 0.562% |  | 0.521% |
-| 07:00 | EUR | German Retail Sales (YoY) (May) | -1.8% |  | 1.0% |
-| 07:00 | NOK | Core CPI YTD (Sep) | 3.1% | 3.3% | 3.2% |
-| 07:00 | NOK | Core Inflation (MoM) (Sep) | 0.3% | 0.4% | -0.7% |
-| 07:00 | NOK | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
-| 07:00 | NOK | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
-| 07:01 | EUR | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
-| 07:02 | EUR | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
-| 07:03 | EUR | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
-| 10:30 | EUR | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
-| 10:30 | ZAR | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
-| 10:30 | ZAR | Mining Production (Aug) | 0.3% |  | -1.0% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Oct) | 50.7 |  | 54.1 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Oct) | 46.45 |  | 46.43 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Oct) | 49.09 |  | 53.72 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
-| 13:30 | USD | Core CPI Index (Sep) | 320.77 | 320.59 | 319.77 |
-| 13:30 | USD | CPI Index, n.s.a. (Sep) | 315.30 | 314.86 | 314.80 |
-| 13:30 | USD | CPI Index, s.a (Sep) | 314.69 |  | 314.12 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.16% |  | 0.08% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 231.00K |  | 224.25K |
-| 13:30 | USD | Real Earnings (MoM) (Sep) | -0.1% |  | 0.6% |
-| 14:15 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage | 82B | 73B | 55B |
-| 16:00 | USD | Cleveland CPI (MoM) (Sep) | 0.3% |  | 0.3% |
-| 16:30 | USD | 4-Week Bill Auction | 4.750% |  | 4.755% |
-| 16:30 | USD | 8-Week Bill Auction | 4.640% |  | 4.655% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.197T |  | 3.097T |
-| 22:45 | NZD | External Migration & Visitors (Aug) | 3.60% |  | 3.80% |
-| 22:45 | NZD | FPI (MoM) (Sep) | 0.5% |  | 0.2% |
-| 22:45 | NZD | Permanent/Long-Term Migration (Aug) | 1,840 |  | 3,000 |
-| 22:45 | NZD | Visitor Arrivals (MoM) | -4.3% |  | 2.2% |
+| 44 min | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
+| 44 min | JPY | M3 Money Supply (Sep) |  |  | 2,172.5B |
+| 02:00 | KRW | Interest Rate Decision (Oct) |  | 3.25% | 3.50% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 39.74 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 62.04 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.17 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.42 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 69.81 |
+| 07:00 | GBP | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
+| 07:00 | GBP | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
+| 07:00 | GBP | Index of Services |  | 0.3% | 0.6% |
+| 07:00 | GBP | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
+| 07:00 | EUR | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.62% |
+| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.15% |
+| 10:30 | ZAR | Business Confidence (Aug) |  |  | 109.1 |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
+| 12:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
+| 12:30 | INR | FX Reserves, USD |  |  | 704.89B |
+| 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
+| 13:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:00 | INR | Cumulative Industrial Production (Aug) |  |  | 5.20% |
+| 13:00 | INR | Industrial Production (YoY) (Aug) |  |  | 4.8% |
+| 13:00 | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.3% |
+| 13:30 | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.4% |
+| 13:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.7% |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Sep) |  |  | 4.9% |
+| 13:30 | CAD | Full Employment Change (Sep) |  |  | -43.6K |
+| 13:30 | CAD | Part Time Employment Change (Sep) |  |  | 65.7K |
+| 13:30 | CAD | Participation Rate (Sep) |  |  | 65.1% |
+| 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Michigan Current Conditions (Oct) |  | 64.3 | 63.3 |
+| 15:45 | USD | Fed Logan Speaks |  |  |  |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.8K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 43.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -7.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -109.0K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 56.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -73.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -6.1K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -70.0K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 26.3K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -22.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 2.0K |

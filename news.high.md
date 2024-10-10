@@ -1,9 +1,7 @@
-## 10 October 2024 - High Impact Forex News
+## 11 October 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
-| 13:30 | USD | CPI (MoM) (Sep) | 0.2% | 0.1% | 0.2% |
-| 13:30 | USD | CPI (YoY) (Sep) | 2.4% | 2.3% | 2.5% |
-| 13:30 | USD | Initial Jobless Claims | 258K | 231K | 225K |
-| 18:00 | USD | 30-Year Bond Auction | 4.389% |  | 4.015% |
+| 07:00 | GBP | GDP (MoM) (Aug) |  | 0.2% | 0.0% |
+| 07:00 | EUR | German CPI (MoM) (Sep) |  | 0.0% | -0.1% |
+| 13:30 | USD | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
