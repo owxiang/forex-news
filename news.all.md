@@ -2,24 +2,23 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Sep) | 11% |  | 0% |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Sep) | 2.7% | 2.9% | 3.0% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 696.7B |  | -55.8B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 919.3B |  | 767.6B |
-| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
 | 00:50 | JPY | Low | PPI (MoM) (Sep) | 0.0% | -0.3% | -0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Sep) | 2.8% | 2.3% | 2.6% |
 | 01:00 | AUD | Low | MI Inflation Expectations | 4.0% |  | 4.4% |
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
 | 01:30 | AUD | Low | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.562% |  | 0.521% |
-| 07:00 | NOK | Low | Core CPI YTD (Sep) |  | 3.3% | 3.2% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
-| 07:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.4% | -0.9% |
-| 07:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.2% | 2.6% |
-| 08:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  |  | -1.7% |
-| 08:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  |  | -1.2% |
+| 54 min | EUR | Low | German Retail Sales (YoY) (Jun) |  |  | -1.7% |
+| 54 min | EUR | Moderate | German Retail Sales (MoM) (May) |  |  | -1.2% |
+| 54 min | NOK | Low | Core CPI YTD (Sep) |  | 3.3% | 3.2% |
+| 54 min | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.4% | -0.7% |
+| 54 min | NOK | Low | CPI (YoY) (Sep) |  | 3.2% | 2.6% |
+| 54 min | NOK | Low | CPI (MoM) (Sep) |  | 0.4% | -0.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.3% | -0.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.2% | -0.9% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.892% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -3.5% |
@@ -36,8 +35,8 @@
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,830K | 1,826K |
-| 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
+| 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Low | Core CPI Index (Sep) |  |  | 319.77 |
 | 13:30 | USD | High | CPI (MoM) (Sep) |  | 0.1% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Sep) |  | 2.3% | 2.5% |
@@ -49,14 +48,15 @@
 | 13:30 | USD | Low | Real Earnings (MoM) (Sep) |  |  | 0.5% |
 | 14:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 55B |
+| 15:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage |  | 73B | 55B |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.755% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.655% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.015% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  |  | -380.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,047B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.097T |
 | 22:30 | NZD | Moderate | Business NZ PMI (Sep) |  |  | 45.8 |
