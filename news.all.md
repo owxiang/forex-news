@@ -11,17 +11,20 @@
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
 | 01:30 | AUD | Low | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.562% |  | 0.521% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) | -1.4% |  | -1.2% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) | -1.4% |  | 0.4% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (May) | -1.8% |  | 1.0% |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) | 3.1% | 3.3% | 3.2% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) | 0.3% | 0.4% | -0.7% |
-| 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
 | 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
+| 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
 | 07:01 | EUR | Moderate | German Retail Sales (MoM) (Jun) | -1.1% |  | -1.4% |
+| 07:01 | EUR | Low | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
 | 07:02 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
+| 07:02 | EUR | Low | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
+| 07:03 | EUR | Low | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
 | 07:03 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
-| 08:00 | EUR | Low | German Retail Sales (YoY) (Jul) | 1.9% |  | -4.4% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:30 | EUR | Low | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
@@ -34,21 +37,21 @@
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
-| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 54 min | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
-| 54 min | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,830K | 1,826K |
-| 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
-| 13:30 | USD | Low | Core CPI Index (Sep) |  |  | 319.77 |
-| 13:30 | USD | High | CPI (MoM) (Sep) |  | 0.1% | 0.2% |
-| 13:30 | USD | High | CPI (YoY) (Sep) |  | 2.3% | 2.5% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
-| 13:30 | USD | Low | CPI Index, s.a (Sep) |  |  | 314.12 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.08% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 231K | 225K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 13:30 | USD | Low | Real Earnings (MoM) (Sep) |  |  | 0.5% |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 5.1% | 3.6% | 4.4% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | -0.3% | -0.5% | 0.6% |
+| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,830K | 1,826K |
+| 20 min | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 20 min | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
+| 20 min | USD | Low | Core CPI Index (Sep) |  |  | 319.77 |
+| 20 min | USD | High | CPI (YoY) (Sep) |  | 2.3% | 2.5% |
+| 20 min | USD | High | CPI (MoM) (Sep) |  | 0.1% | 0.2% |
+| 20 min | USD | Low | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
+| 20 min | USD | Low | CPI Index, s.a (Sep) |  |  | 314.12 |
+| 20 min | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.08% |
+| 20 min | USD | High | Initial Jobless Claims |  | 231K | 225K |
+| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
+| 20 min | USD | Low | Real Earnings (MoM) (Sep) |  |  | 0.5% |
 | 14:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

@@ -10,13 +10,16 @@
 | 01:00 | AUD | MI Inflation Expectations | 4.0% |  | 4.4% |
 | 01:30 | AUD | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.562% |  | 0.521% |
+| 07:00 | EUR | German Retail Sales (YoY) (May) | -1.8% |  | 1.0% |
 | 07:00 | NOK | Core CPI YTD (Sep) | 3.1% | 3.3% | 3.2% |
 | 07:00 | NOK | Core Inflation (MoM) (Sep) | 0.3% | 0.4% | -0.7% |
-| 07:00 | NOK | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
 | 07:00 | NOK | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
-| 08:00 | EUR | German Retail Sales (YoY) (Jul) | 1.9% |  | -4.4% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
+| 07:00 | NOK | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
+| 07:01 | EUR | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
+| 07:02 | EUR | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
+| 07:03 | EUR | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 10:30 | EUR | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
 | 10:30 | ZAR | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
 | 10:30 | ZAR | Mining Production (Aug) | 0.3% |  | -1.0% |
@@ -28,12 +31,12 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
-| 13:30 | USD | Core CPI Index (Sep) |  |  | 319.77 |
-| 13:30 | USD | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
-| 13:30 | USD | CPI Index, s.a (Sep) |  |  | 314.12 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Sep) |  |  | 0.08% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 13:30 | USD | Real Earnings (MoM) (Sep) |  |  | 0.5% |
+| 20 min | USD | Core CPI Index (Sep) |  |  | 319.77 |
+| 20 min | USD | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
+| 20 min | USD | CPI Index, s.a (Sep) |  |  | 314.12 |
+| 20 min | USD | CPI, n.s.a (MoM) (Sep) |  |  | 0.08% |
+| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
+| 20 min | USD | Real Earnings (MoM) (Sep) |  |  | 0.5% |
 | 14:15 | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 73B | 55B |
