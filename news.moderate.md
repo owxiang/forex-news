@@ -13,8 +13,8 @@
 | 13:00 | BRL | Retail Sales (MoM) (Aug) | -0.3% | -0.5% | 0.6% |
 | 13:30 | USD | Continuing Jobless Claims | 1,861K | 1,830K | 1,819K |
 | 13:30 | USD | Core CPI (YoY) (Sep) | 3.3% | 3.2% | 3.2% |
-| 49 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 54 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,047B |

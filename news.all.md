@@ -52,12 +52,12 @@
 | 13:30 | USD | High | Initial Jobless Claims | 258K | 231K | 225K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 231.00K |  | 224.25K |
 | 13:30 | USD | Low | Real Earnings (MoM) (Sep) | -0.1% |  | 0.6% |
-| 4 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 49 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 15:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 73B | 55B |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
-| 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 14:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 24 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 24 min | USD | Low | Natural Gas Storage |  | 73B | 55B |
+| 54 min | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
+| 54 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.755% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.655% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.015% |

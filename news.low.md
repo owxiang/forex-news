@@ -37,10 +37,10 @@
 | 13:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.16% |  | 0.08% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 231.00K |  | 224.25K |
 | 13:30 | USD | Real Earnings (MoM) (Sep) | -0.1% |  | 0.6% |
-| 4 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  | 73B | 55B |
-| 16:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
+| 14:15 | USD | Fed Governor Cook Speaks |  |  |  |
+| 24 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 24 min | USD | Natural Gas Storage |  | 73B | 55B |
+| 54 min | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.755% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.655% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.097T |
