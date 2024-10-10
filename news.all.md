@@ -19,12 +19,12 @@
 | 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
 | 07:01 | EUR | Low | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
 | 07:01 | EUR | Moderate | German Retail Sales (MoM) (Jun) | -1.1% |  | -1.4% |
-| 07:02 | EUR | Low | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
 | 07:02 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
-| 07:03 | EUR | Low | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
+| 07:02 | EUR | Low | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
 | 07:03 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
+| 07:03 | EUR | Low | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:30 | EUR | Low | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
@@ -35,11 +35,11 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | -0.6% |  | 1.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | -1.2% |  | 1.6% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 5.1% | 3.6% | 4.6% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) | -0.3% | -0.5% | 0.6% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) | 5.1% | 3.6% | 4.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,861K | 1,830K | 1,819K |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) | 3.3% | 3.2% | 3.2% |
@@ -62,10 +62,10 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.640% |  | 4.655% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.389% |  | 4.015% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,047B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.097T |
-| 22:30 | NZD | Moderate | Business NZ PMI (Sep) |  |  | 45.8 |
-| 22:45 | NZD | Low | External Migration & Visitors (Aug) |  |  | 3.80% |
-| 22:45 | NZD | Low | FPI (MoM) (Sep) |  |  | 0.2% |
-| 22:45 | NZD | Low | Permanent/Long-Term Migration (Aug) |  |  | 3,030 |
-| 22:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.2% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,047B |  | 7,047B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.197T |  | 3.097T |
+| 24 min | NZD | Moderate | Business NZ PMI (Sep) |  |  | 45.8 |
+| 39 min | NZD | Low | External Migration & Visitors (Aug) |  |  | 3.80% |
+| 39 min | NZD | Low | FPI (MoM) (Sep) |  |  | 0.2% |
+| 39 min | NZD | Low | Permanent/Long-Term Migration (Aug) |  |  | 3,030 |
+| 39 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.2% |
