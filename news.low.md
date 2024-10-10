@@ -12,11 +12,11 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.562% |  | 0.521% |
 | 07:00 | NOK | Core CPI YTD (Sep) | 3.1% | 3.3% | 3.2% |
 | 07:00 | NOK | Core Inflation (MoM) (Sep) | 0.3% | 0.4% | -0.7% |
-| 07:00 | NOK | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
-| 52 min | EUR | German Retail Sales (YoY) (Jun) | 2.1% |  | -1.6% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Aug) |  | 0.3% | -0.9% |
+| 07:00 | NOK | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
+| 07:02 | EUR | German Retail Sales (YoY) (Aug) | 1.9% |  | -4.4% |
+| 54 min | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
+| 54 min | EUR | Italian Industrial Production (MoM) (Aug) |  | 0.3% | -0.9% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.892% |
 | 10:30 | ZAR | Gold Production (YoY) (Aug) |  |  | -3.5% |
 | 10:30 | ZAR | Mining Production (Aug) |  |  | -1.4% |

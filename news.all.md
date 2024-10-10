@@ -11,14 +11,16 @@
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | -6.1% | -6.1% | 11.0% |
 | 01:30 | AUD | Low | Private House Approvals (Aug) | 0.5% | 0.5% | 0.9% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.562% |  | 0.521% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | 1.6% |  | -1.2% |
 | 07:00 | NOK | Low | Core CPI YTD (Sep) | 3.1% | 3.3% | 3.2% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Sep) | 0.3% | 0.4% | -0.7% |
-| 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Sep) | 0.3% | 0.4% | -0.9% |
-| 52 min | EUR | Low | German Retail Sales (YoY) (Jun) | 2.1% |  | -1.6% |
-| 52 min | EUR | Moderate | German Retail Sales (MoM) (May) | 1.6% |  | -1.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.3% | -0.9% |
+| 07:00 | NOK | Low | CPI (YoY) (Sep) | 3.0% | 3.2% | 2.6% |
+| 07:01 | EUR | Moderate | German Retail Sales (MoM) (Jul) | 1.5% |  | -1.1% |
+| 07:02 | EUR | Low | German Retail Sales (YoY) (Aug) | 1.9% |  | -4.4% |
+| 07:02 | EUR | Moderate | German Retail Sales (MoM) (Aug) | 1.6% |  | 1.5% |
+| 54 min | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -3.3% |
+| 54 min | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.3% | -0.9% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.892% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -3.5% |
@@ -38,8 +40,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
 | 13:30 | USD | Low | Core CPI Index (Sep) |  |  | 319.77 |
-| 13:30 | USD | High | CPI (YoY) (Sep) |  | 2.3% | 2.5% |
 | 13:30 | USD | High | CPI (MoM) (Sep) |  | 0.1% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Sep) |  | 2.3% | 2.5% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
 | 13:30 | USD | Low | CPI Index, s.a (Sep) |  |  | 314.12 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.08% |
