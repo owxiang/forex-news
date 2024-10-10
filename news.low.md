@@ -18,8 +18,8 @@
 | 07:01 | EUR | German Retail Sales (YoY) (Jun) | -2.1% |  | -1.8% |
 | 07:02 | EUR | German Retail Sales (YoY) (Jul) | -0.8% |  | -2.1% |
 | 07:03 | EUR | German Retail Sales (YoY) (Aug) | 2.1% |  | -0.8% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
 | 10:30 | EUR | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
 | 10:30 | ZAR | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
 | 10:30 | ZAR | Mining Production (Aug) | 0.3% |  | -1.0% |
@@ -38,11 +38,11 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 231.00K |  | 224.25K |
 | 13:30 | USD | Real Earnings (MoM) (Sep) | -0.1% |  | 0.6% |
 | 14:15 | USD | Fed Governor Cook Speaks |  |  |  |
-| 24 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 24 min | USD | Natural Gas Storage |  | 73B | 55B |
-| 54 min | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.755% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.655% |
+| 15:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage | 82B | 73B | 55B |
+| 16:00 | USD | Cleveland CPI (MoM) (Sep) | 0.3% |  | 0.3% |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.755% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.655% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.097T |
 | 22:45 | NZD | External Migration & Visitors (Aug) |  |  | 3.80% |
 | 22:45 | NZD | FPI (MoM) (Sep) |  |  | 0.2% |
