@@ -23,23 +23,23 @@
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 3 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.892% |
-| 23 min | ZAR | Low | Gold Production (YoY) (Aug) |  |  | -3.5% |
-| 23 min | ZAR | Low | Mining Production (Aug) |  |  | -1.4% |
-| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 54.1 |
-| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Oct) |  |  | 46.43 |
-| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Oct) |  |  | 53.72 |
-| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.60 |
-| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.28 |
-| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
+| 10:30 | EUR | Low | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
+| 10:30 | ZAR | Low | Mining Production (Aug) | 0.3% |  | -1.0% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Oct) | 50.7 |  | 54.1 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Oct) | 46.45 |  | 46.43 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Oct) | 49.09 |  | 53.72 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
+| 54 min | ZAR | Low | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
+| 54 min | ZAR | Low | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.5% | 0.6% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 3.6% | 4.4% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,830K | 1,826K |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
 | 13:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 3.2% | 3.2% |
 | 13:30 | USD | Low | Core CPI Index (Sep) |  |  | 319.77 |
 | 13:30 | USD | High | CPI (MoM) (Sep) |  | 0.1% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Sep) |  | 2.3% | 2.5% |

@@ -17,17 +17,17 @@
 | 08:00 | EUR | German Retail Sales (YoY) (Jul) | 1.9% |  | -4.4% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.1% | 0.3% | -1.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Aug) | -3.2% |  | -3.3% |
-| 3 min | EUR | Italian 12-Month BOT Auction |  |  | 2.892% |
-| 23 min | ZAR | Gold Production (YoY) (Aug) |  |  | -3.5% |
-| 23 min | ZAR | Mining Production (Aug) |  |  | -1.4% |
-| 53 min | GBP | Thomson Reuters IPSOS PCSI (Oct) |  |  | 54.1 |
-| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Oct) |  |  | 46.43 |
-| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Oct) |  |  | 53.72 |
-| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 47.60 |
-| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 48.28 |
-| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.50 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
+| 10:30 | EUR | Italian 12-Month BOT Auction | 2.859% |  | 2.892% |
+| 10:30 | ZAR | Gold Production (YoY) (Aug) | -4.6% |  | -3.5% |
+| 10:30 | ZAR | Mining Production (Aug) | 0.3% |  | -1.0% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Oct) | 50.7 |  | 54.1 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Oct) | 46.45 |  | 46.43 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Oct) | 49.09 |  | 53.72 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 43.69 |  | 47.60 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.53 |  | 48.28 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 51.45 |  | 50.50 |
+| 54 min | ZAR | Manufacturing Production (MoM) (Aug) |  |  | 2.1% |
+| 54 min | ZAR | Manufacturing Production (YoY) (Aug) |  |  | 1.7% |
 | 13:30 | USD | Core CPI Index (Sep) |  |  | 319.77 |
 | 13:30 | USD | CPI Index, n.s.a. (Sep) |  | 314.86 | 314.80 |
 | 13:30 | USD | CPI Index, s.a (Sep) |  |  | 314.12 |
