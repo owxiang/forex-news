@@ -10,8 +10,8 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
 | 07:00 | GBP | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
 | 07:00 | GBP | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
 | 07:00 | GBP | Index of Services |  | 0.3% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
@@ -23,12 +23,12 @@
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.15% |
 | 10:30 | ZAR | Business Confidence (Aug) |  |  | 109.1 |
-| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
 | 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
 | 12:30 | INR | FX Reserves, USD |  |  | 704.89B |
-| 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
 | 13:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
 | 13:00 | INR | Cumulative Industrial Production (Aug) |  |  | 5.20% |
 | 13:00 | INR | Industrial Production (YoY) (Aug) |  |  | 4.8% |
 | 13:00 | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
