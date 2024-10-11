@@ -15,17 +15,17 @@
 | 07:00 | GBP | High | GDP (MoM) (Aug) |  | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
 | 07:00 | GBP | Low | Index of Services |  | 0.3% | 0.6% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) |  | 0.2% | -0.8% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | 0.3% | -1.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.5% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) |  | -18.80B | -20.00B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) |  |  | -7.50B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
 | 07:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.0% | -0.1% |
-| 07:00 | EUR | Low | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
 | 07:00 | EUR | Low | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -33 | -35 |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.62% |

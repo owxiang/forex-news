@@ -16,8 +16,8 @@
 | 07:00 | GBP | Index of Services |  | 0.3% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
-| 07:00 | EUR | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
 | 07:00 | EUR | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
+| 07:00 | EUR | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.62% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
