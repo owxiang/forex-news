@@ -5,11 +5,11 @@
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.3% |
 | 00:50 | JPY | M3 Money Supply (Sep) | 2,181.3B |  | 2,178.0B |
 | 02:00 | KRW | Interest Rate Decision (Oct) | 3.25% | 3.25% | 3.50% |
-| 27 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 39.74 |
-| 27 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 62.04 |
-| 27 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.17 |
-| 27 min | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 39.42 |
-| 27 min | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 69.81 |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 40.76 |  | 39.74 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 66.34 |  | 62.04 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
 | 07:00 | GBP | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
@@ -23,8 +23,8 @@
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.15% |
 | 10:30 | ZAR | Business Confidence (Aug) |  |  | 109.1 |
-| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
 | 12:30 | INR | FX Reserves, USD |  |  | 704.89B |
 | 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
