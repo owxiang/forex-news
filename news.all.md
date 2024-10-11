@@ -10,23 +10,23 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 54 min | GBP | Low | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
-| 54 min | GBP | Low | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
-| 54 min | GBP | High | GDP (MoM) (Aug) |  | 0.2% | 0.0% |
-| 54 min | GBP | Low | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
-| 54 min | GBP | Low | Index of Services |  | 0.3% | 0.6% |
-| 54 min | GBP | Moderate | Industrial Production (MoM) (Aug) |  | 0.2% | -0.8% |
-| 54 min | GBP | Low | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
-| 54 min | GBP | Low | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
-| 54 min | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | 0.3% | -1.0% |
-| 54 min | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.5% |
-| 54 min | GBP | Moderate | Trade Balance (Aug) |  | -18.80B | -20.00B |
-| 54 min | GBP | Moderate | Trade Balance Non-EU (Aug) |  |  | -7.50B |
-| 54 min | EUR | High | German CPI (MoM) (Sep) |  | 0.0% | -0.1% |
-| 54 min | EUR | Moderate | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
-| 54 min | EUR | Low | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
-| 54 min | EUR | Low | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -33 | -35 |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 0.3% | -0.3% | -1.4% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
+| 07:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
+| 07:00 | GBP | Low | GDP (YoY) (Aug) | 1.0% | 1.4% | 0.9% |
+| 07:00 | GBP | Low | Index of Services | 0.1% | 0.3% | 0.4% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.5% | 0.2% | -0.7% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -1.6% | -0.5% | -2.2% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 1.1% | 0.3% | -1.2% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.2% | 0.3% | 0.3% |
+| 07:00 | GBP | Moderate | Trade Balance (Aug) | -15.06B | -18.80B | -18.87B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -4.95B |  | -6.85B |
+| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.0% | 0.0% | 0.0% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.6% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 1.8% | 1.8% | 1.8% |
+| 52 min | CHF | Moderate | SECO Consumer Climate |  | -33 | -35 |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.62% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |

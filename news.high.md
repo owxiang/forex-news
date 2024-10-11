@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | GBP | GDP (MoM) (Aug) |  | 0.2% | 0.0% |
-| 54 min | EUR | German CPI (MoM) (Sep) |  | 0.0% | -0.1% |
+| 07:00 | GBP | GDP (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
+| 07:00 | EUR | German CPI (MoM) (Sep) | 0.0% | 0.0% | 0.0% |
 | 13:30 | USD | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
