@@ -10,28 +10,28 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Aug) | 0.3% | -0.3% | -1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Aug) | 1.0% | 1.4% | 0.9% |
 | 07:00 | GBP | Index of Services | 0.1% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) | -1.6% | -0.5% | -2.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
-| 07:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
 | 07:00 | EUR | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
+| 07:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
+| 10:50 | EUR | Italian 15-Year BTP Auction | 3.88% |  | 4.27% |
 | 10:50 | EUR | Italian 3-Year BTP Auction | 2.68% |  | 2.62% |
 | 10:50 | EUR | Italian 7-Year BTP Auction | 3.19% |  | 3.15% |
-| 54 min | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
-| 54 min | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 54 min | EUR | Italian 5-Year BTP Auction |  |  | 2.76% |
-| 12:30 | INR | FX Reserves, USD |  |  | 704.89B |
-| 13:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
-| 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
-| 13:00 | INR | Cumulative Industrial Production (Aug) |  |  | 5.20% |
-| 13:00 | INR | Industrial Production (YoY) (Aug) |  |  | 4.8% |
-| 13:00 | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
+| 24 min | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
+| 24 min | EUR | Italian 5-Year BTP Auction |  |  | 2.76% |
+| 24 min | INR | FX Reserves, USD |  |  | 704.89B |
+| 54 min | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
+| 54 min | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
+| 54 min | INR | Cumulative Industrial Production (Aug) |  |  | 5.20% |
+| 54 min | INR | Industrial Production (YoY) (Aug) |  |  | 4.8% |
+| 54 min | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
+| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
+| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.3% |
 | 13:30 | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.4% |
 | 13:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.7% |

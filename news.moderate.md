@@ -9,7 +9,7 @@
 | 07:00 | GBP | Trade Balance Non-EU (Aug) | -4.95B |  | -6.85B |
 | 07:00 | EUR | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.9% |
 | 08:00 | CHF | SECO Consumer Climate | -34 | -33 | -35 |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
+| 54 min | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
 | 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | CAD | Building Permits (MoM) (Aug) |  | -7.5% | 22.1% |
 | 13:30 | CAD | Employment Change (Sep) |  | 29.8K | 22.1K |
