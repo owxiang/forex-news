@@ -1,89 +1,21 @@
-## 11 October 2024 - All Forex News
+## 13 October 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.3% |
-| 00:50 | JPY | Low | M3 Money Supply (Sep) | 2,181.3B |  | 2,178.0B |
-| 02:00 | KRW | Low | Interest Rate Decision (Oct) | 3.25% | 3.25% | 3.50% |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 40.76 |  | 39.74 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 66.34 |  | 62.04 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 0.3% | -0.3% | -1.4% |
-| 07:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
-| 07:00 | GBP | Low | GDP (YoY) (Aug) | 1.0% | 1.4% | 0.9% |
-| 07:00 | GBP | Low | Index of Services | 0.1% | 0.3% | 0.4% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.5% | 0.2% | -0.7% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -1.6% | -0.5% | -2.2% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 1.1% | 0.3% | -1.2% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.2% | 0.3% | 0.3% |
-| 07:00 | GBP | Moderate | Trade Balance (Aug) | -15.06B | -18.80B | -18.87B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -4.95B |  | -6.85B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.9% |
-| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.0% | 0.0% | -0.1% |
-| 07:00 | EUR | Low | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate | -34 | -33 | -35 |
-| 10:50 | EUR | Low | Italian 15-Year BTP Auction | 3.88% |  | 4.27% |
-| 10:50 | EUR | Low | Italian 3-Year BTP Auction | 2.68% |  | 2.62% |
-| 10:50 | EUR | Low | Italian 30-Year BTP Auction | 4.040% |  | 4.390% |
-| 10:50 | EUR | Low | Italian 5-Year BTP Auction | 2.67% |  | 2.76% |
-| 10:50 | EUR | Low | Italian 7-Year BTP Auction | 3.19% |  | 3.15% |
-| 12:30 | INR | Low | FX Reserves, USD | 701.18B |  | 704.89B |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Aug) | -0.5% | 0.2% | 0.2% |
-| 13:00 | INR | Low | Cumulative Industrial Production (Aug) | 4.20% |  | 5.20% |
-| 13:00 | INR | Low | Industrial Production (YoY) (Aug) | -0.1% |  | 4.7% |
-| 13:00 | INR | Low | Manufacturing Output (MoM) (Aug) | 1.0% |  | 4.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) | 1.7% |  | 4.0% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) | -0.4% |  | 0.2% |
-| 13:20 | GBP | Moderate | NIESR Monthly GDP Tracker (Sep) | 0.2% |  | 0.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.1% | 0.2% | 0.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) | 3.2% |  | 3.3% |
-| 13:30 | USD | Low | Core PPI (YoY) (Sep) | 2.8% | 2.7% | 2.6% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
-| 13:30 | USD | High | PPI (MoM) (Sep) | 0.0% | 0.1% | 0.2% |
-| 13:30 | USD | Low | PPI (YoY) (Sep) | 1.8% | 1.6% | 1.9% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) | 4.5% |  | 4.9% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) | -7.0% | -7.5% | 20.8% |
-| 13:30 | CAD | Moderate | Employment Change (Sep) | 46.7K | 29.8K | 22.1K |
-| 13:30 | CAD | Low | Full Employment Change (Sep) | 112.0K |  | -43.6K |
-| 13:30 | CAD | Low | Part Time Employment Change (Sep) | -65.3K |  | 65.7K |
-| 13:30 | CAD | Low | Participation Rate (Sep) | 64.9% |  | 65.1% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Sep) | 6.5% | 6.7% | 6.6% |
-| 13:30 | EUR | Low | German Current Account Balance n.s.a (Aug) | 14.4B |  | 17.7B |
-| 14:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 2.9% | 2.7% | 2.7% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 3.0% | 3.1% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 72.9 | 75.0 | 74.4 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 68.9 | 70.9 | 70.1 |
-| 15:00 | USD | Low | Michigan Current Conditions (Oct) | 62.7 | 64.3 | 63.3 |
-| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 15:45 | USD | Low | Fed Logan Speaks |  |  |  |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 481 |  | 479 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 586 |  | 585 |
-| 18:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 93.1K |  | 93.8K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 2.9K |  | 3.8K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions | 43.1K |  | 43.2K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions | 36.1K |  | -7.2K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 190.6K |  | 159.6K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 278.2K |  | 299.9K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 13.3K |  | 16.1K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -123.6K |  | -109.0K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -5.6K |  | 7.5K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions | 54.7K |  | 56.9K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -51.2K |  | -73.7K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions | -13.5K |  | -6.1K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions | -89.2K |  | -70.0K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions | 29.2K |  | 26.3K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions | -22.5K |  | -22.9K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | 33.4K |  | 14.5K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -10.0K |  | -38.3K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 36.5K |  | 56.8K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions | 1.3K |  | 2.0K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 39.1K |  | 55.3K |
+| 02:30 | CNY | Moderate | CPI (MoM) (Sep) |  | 0.4% | 0.4% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Sep) |  | 0.7% | 0.6% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Sep) |  | -2.6% | -1.8% |
+| 04:00 | CNY | Low | Exports (Sep) |  |  | 8.40M |
+| 04:00 | CNY | Low | Imports (Sep) |  |  | 0.00M |
+| 04:00 | CNY | Low | Trade Balance (Sep) |  |  | 649.34B |
+| 04:00 | CNY | Moderate | Exports (YoY) (Sep) |  | 6.0% | 8.7% |
+| 04:00 | CNY | Moderate | Imports (YoY) (Sep) |  | 0.9% | 0.5% |
+| 04:00 | CNY | Moderate | Trade Balance (USD) (Sep) |  | 89.80B | 91.02B |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 6.4% | 6.3% |
+| 09:00 | CNY | Moderate | New Loans (Sep) |  | 1,090.0B | 900.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 8.3% | 8.5% |
+| 09:00 | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,730.0B | 3,030.0B |
+| 21:15 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 22:30 | NZD | Low | Performance of Services Index |  |  | 45.5 |
+| 22:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.2% |
+| 22:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Sep) |  |  | -2.9% |
