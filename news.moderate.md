@@ -19,9 +19,9 @@
 | 15:00 | USD | Michigan Consumer Expectations (Oct) | 72.9 | 75.0 | 74.4 |
 | 15:00 | USD | Michigan Consumer Sentiment (Oct) | 68.9 | 70.9 | 70.1 |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
-| 54 min | USD | WASDE Report |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 18:10 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 93.8K |

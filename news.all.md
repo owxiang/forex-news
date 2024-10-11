@@ -10,8 +10,8 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 0.3% | -0.3% | -1.4% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Aug) | 1.0% | 1.4% | 0.9% |
 | 07:00 | GBP | Low | Index of Services | 0.1% | 0.3% | 0.4% |
@@ -38,8 +38,8 @@
 | 13:00 | INR | Low | Cumulative Industrial Production (Aug) | 4.20% |  | 5.20% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Aug) | -0.1% |  | 4.7% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Aug) | 1.0% |  | 4.4% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) | 1.7% |  | 4.0% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) | -0.4% |  | 0.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) | 1.7% |  | 4.0% |
 | 13:20 | GBP | Moderate | NIESR Monthly GDP Tracker (Sep) | 0.2% |  | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) | 3.2% |  | 3.3% |
@@ -63,9 +63,9 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) | 62.7 | 64.3 | 63.3 |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 15:45 | USD | Low | Fed Logan Speaks |  |  |  |
-| 54 min | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 18:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 93.8K |
