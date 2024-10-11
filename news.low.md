@@ -10,27 +10,27 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Aug) | 0.3% | -0.3% | -1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Aug) | 1.0% | 1.4% | 0.9% |
 | 07:00 | GBP | Index of Services | 0.1% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) | -1.6% | -0.5% | -2.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
-| 07:00 | EUR | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 10:50 | EUR | Italian 15-Year BTP Auction | 3.88% |  | 4.27% |
 | 10:50 | EUR | Italian 3-Year BTP Auction | 2.68% |  | 2.62% |
 | 10:50 | EUR | Italian 30-Year BTP Auction | 4.040% |  | 4.390% |
 | 10:50 | EUR | Italian 5-Year BTP Auction | 2.67% |  | 2.76% |
 | 10:50 | EUR | Italian 7-Year BTP Auction | 3.19% |  | 3.15% |
 | 12:30 | INR | FX Reserves, USD | 701.18B |  | 704.89B |
-| 13:00 | MXN | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
 | 13:00 | MXN | Industrial Production (MoM) (Aug) | -0.5% | 0.2% | 0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
 | 13:00 | INR | Cumulative Industrial Production (Aug) | 4.20% |  | 5.20% |
 | 13:00 | INR | Industrial Production (YoY) (Aug) | -0.1% |  | 4.7% |
 | 13:00 | INR | Manufacturing Output (MoM) (Aug) | 1.0% |  | 4.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 1.7% |  | 4.0% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | -0.4% |  | 0.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 1.7% |  | 4.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) | 3.2% |  | 3.3% |
 | 13:30 | USD | Core PPI (YoY) (Sep) | 2.8% | 2.7% | 2.6% |
@@ -40,9 +40,9 @@
 | 13:30 | CAD | Part Time Employment Change (Sep) | -65.3K |  | 65.7K |
 | 13:30 | CAD | Participation Rate (Sep) | 64.9% |  | 65.1% |
 | 13:30 | EUR | German Current Account Balance n.s.a (Aug) | 14.4B |  | 17.7B |
-| 36 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 51 min | USD | Michigan Current Conditions (Oct) |  | 64.3 | 63.3 |
-| 15:45 | USD | Fed Logan Speaks |  |  |  |
+| 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Michigan Current Conditions (Oct) | 62.7 | 64.3 | 63.3 |
+| 39 min | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 43.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -7.2K |
