@@ -16,29 +16,29 @@
 | 07:00 | GBP | Index of Services | 0.1% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) | -1.6% | -0.5% | -2.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
-| 07:00 | EUR | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 10:50 | EUR | Italian 15-Year BTP Auction | 3.88% |  | 4.27% |
 | 10:50 | EUR | Italian 3-Year BTP Auction | 2.68% |  | 2.62% |
+| 10:50 | EUR | Italian 30-Year BTP Auction | 4.040% |  | 4.390% |
+| 10:50 | EUR | Italian 5-Year BTP Auction | 2.67% |  | 2.76% |
 | 10:50 | EUR | Italian 7-Year BTP Auction | 3.19% |  | 3.15% |
-| 24 min | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 24 min | EUR | Italian 5-Year BTP Auction |  |  | 2.76% |
-| 24 min | INR | FX Reserves, USD |  |  | 704.89B |
-| 54 min | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
-| 54 min | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
-| 54 min | INR | Cumulative Industrial Production (Aug) |  |  | 5.20% |
-| 54 min | INR | Industrial Production (YoY) (Aug) |  |  | 4.8% |
-| 54 min | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
-| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
-| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.3% |
-| 13:30 | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.4% |
-| 13:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.7% |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Sep) |  |  | 4.9% |
-| 13:30 | CAD | Full Employment Change (Sep) |  |  | -43.6K |
-| 13:30 | CAD | Part Time Employment Change (Sep) |  |  | 65.7K |
-| 13:30 | CAD | Participation Rate (Sep) |  |  | 65.1% |
+| 12:30 | INR | FX Reserves, USD | 701.18B |  | 704.89B |
+| 13:00 | MXN | Industrial Production (MoM) (Aug) | -0.5% | 0.2% | 0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
+| 13:00 | INR | Cumulative Industrial Production (Aug) | 4.20% |  | 5.20% |
+| 13:00 | INR | Industrial Production (YoY) (Aug) | -0.1% |  | 4.8% |
+| 13:00 | INR | Manufacturing Output (MoM) (Aug) | 1.0% |  | 4.6% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | -0.4% |  | 0.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 1.7% |  | 4.0% |
+| 21 min | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  | 0.2% | 0.3% |
+| 21 min | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.3% |
+| 21 min | USD | Core PPI (YoY) (Sep) |  | 2.7% | 2.4% |
+| 21 min | USD | PPI (YoY) (Sep) |  | 1.6% | 1.7% |
+| 21 min | CAD | Avg hourly wages Permanent employee (Sep) |  |  | 4.9% |
+| 21 min | CAD | Full Employment Change (Sep) |  |  | -43.6K |
+| 21 min | CAD | Part Time Employment Change (Sep) |  |  | 65.7K |
+| 21 min | CAD | Participation Rate (Sep) |  |  | 65.1% |
 | 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 14:45 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
 | 15:00 | USD | Michigan Current Conditions (Oct) |  | 64.3 | 63.3 |

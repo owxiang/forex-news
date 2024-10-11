@@ -9,11 +9,11 @@
 | 07:00 | GBP | Trade Balance Non-EU (Aug) | -4.95B |  | -6.85B |
 | 07:00 | EUR | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.9% |
 | 08:00 | CHF | SECO Consumer Climate | -34 | -33 | -35 |
-| 54 min | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
-| 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 13:30 | CAD | Building Permits (MoM) (Aug) |  | -7.5% | 22.1% |
-| 13:30 | CAD | Employment Change (Sep) |  | 29.8K | 22.1K |
-| 13:30 | CAD | Unemployment Rate (Sep) |  | 6.7% | 6.6% |
+| 21 min | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 21 min | CAD | Building Permits (MoM) (Aug) |  | -7.5% | 22.1% |
+| 21 min | CAD | Employment Change (Sep) |  | 29.8K | 22.1K |
+| 21 min | CAD | Unemployment Rate (Sep) |  | 6.7% | 6.6% |
+| 51 min | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 2.7% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.1% |
 | 15:00 | USD | Michigan Consumer Expectations (Oct) |  | 75.0 | 74.4 |
