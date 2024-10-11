@@ -9,15 +9,15 @@
 | 07:00 | GBP | Trade Balance Non-EU (Aug) | -4.95B |  | -6.85B |
 | 07:00 | EUR | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.9% |
 | 08:00 | CHF | SECO Consumer Climate | -34 | -33 | -35 |
-| 21 min | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 21 min | CAD | Building Permits (MoM) (Aug) |  | -7.5% | 22.1% |
-| 21 min | CAD | Employment Change (Sep) |  | 29.8K | 22.1K |
-| 21 min | CAD | Unemployment Rate (Sep) |  | 6.7% | 6.6% |
-| 51 min | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 2.7% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.1% |
-| 15:00 | USD | Michigan Consumer Expectations (Oct) |  | 75.0 | 74.4 |
-| 15:00 | USD | Michigan Consumer Sentiment (Oct) |  | 70.9 | 70.1 |
+| 13:20 | GBP | NIESR Monthly GDP Tracker (Sep) | 0.2% |  | 0.2% |
+| 13:30 | USD | Core PPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
+| 13:30 | CAD | Building Permits (MoM) (Aug) | -7.0% | -7.5% | 20.8% |
+| 13:30 | CAD | Employment Change (Sep) | 46.7K | 29.8K | 22.1K |
+| 13:30 | CAD | Unemployment Rate (Sep) | 6.5% | 6.7% | 6.6% |
+| 51 min | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 2.7% |
+| 51 min | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.1% |
+| 51 min | USD | Michigan Consumer Expectations (Oct) |  | 75.0 | 74.4 |
+| 51 min | USD | Michigan Consumer Sentiment (Oct) |  | 70.9 | 70.1 |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
