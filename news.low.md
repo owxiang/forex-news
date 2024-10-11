@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
-| 44 min | JPY | M3 Money Supply (Sep) |  |  | 2,172.5B |
-| 02:00 | KRW | Interest Rate Decision (Oct) |  | 3.25% | 3.50% |
+| 00:50 | JPY | M2 Money Stock (YoY) | 1.3% | 1.5% | 1.3% |
+| 00:50 | JPY | M3 Money Supply (Sep) | 2,181.3B |  | 2,178.0B |
+| 35 min | KRW | Interest Rate Decision (Oct) |  | 3.25% | 3.50% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 39.74 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 62.04 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 50.17 |
@@ -16,19 +16,19 @@
 | 07:00 | GBP | Index of Services |  | 0.3% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
-| 07:00 | EUR | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
 | 07:00 | EUR | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
+| 07:00 | EUR | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.62% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.15% |
 | 10:30 | ZAR | Business Confidence (Aug) |  |  | 109.1 |
-| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
 | 12:30 | INR | FX Reserves, USD |  |  | 704.89B |
-| 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
 | 13:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
 | 13:00 | INR | Cumulative Industrial Production (Aug) |  |  | 5.20% |
 | 13:00 | INR | Industrial Production (YoY) (Aug) |  |  | 4.8% |
 | 13:00 | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
