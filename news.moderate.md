@@ -18,8 +18,8 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 3.0% | 3.1% |
 | 15:00 | USD | Michigan Consumer Expectations (Oct) | 72.9 | 75.0 | 74.4 |
 | 15:00 | USD | Michigan Consumer Sentiment (Oct) | 68.9 | 70.9 | 70.1 |
-| 24 min | CAD | BoC Business Outlook Survey |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 54 min | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 18:10 | USD | FOMC Member Bowman Speaks |  |  |  |
