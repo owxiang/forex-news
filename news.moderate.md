@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (Aug) |  | 0.2% | -0.8% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Aug) |  | 0.3% | -1.0% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.5% |
-| 07:00 | GBP | Trade Balance (Aug) |  | -18.80B | -20.00B |
-| 07:00 | GBP | Trade Balance Non-EU (Aug) |  |  | -7.50B |
-| 07:00 | EUR | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
+| 54 min | GBP | Industrial Production (MoM) (Aug) |  | 0.2% | -0.8% |
+| 54 min | GBP | Manufacturing Production (MoM) (Aug) |  | 0.3% | -1.0% |
+| 54 min | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.5% |
+| 54 min | GBP | Trade Balance (Aug) |  | -18.80B | -20.00B |
+| 54 min | GBP | Trade Balance Non-EU (Aug) |  |  | -7.50B |
+| 54 min | EUR | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
 | 08:00 | CHF | SECO Consumer Climate |  | -33 | -35 |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
 | 13:30 | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 13:30 | CAD | Building Permits (MoM) (Aug) |  | -7.1% | 22.1% |
+| 13:30 | CAD | Building Permits (MoM) (Aug) |  | -7.5% | 22.1% |
 | 13:30 | CAD | Employment Change (Sep) |  | 29.8K | 22.1K |
 | 13:30 | CAD | Unemployment Rate (Sep) |  | 6.7% | 6.6% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 2.7% |

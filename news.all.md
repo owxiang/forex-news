@@ -10,35 +10,34 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
-| 07:00 | GBP | High | GDP (MoM) (Aug) |  | 0.2% | 0.0% |
-| 07:00 | GBP | Low | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
-| 07:00 | GBP | Low | Index of Services |  | 0.3% | 0.6% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) |  | 0.2% | -0.8% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | 0.3% | -1.0% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.5% |
-| 07:00 | GBP | Moderate | Trade Balance (Aug) |  | -18.80B | -20.00B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) |  |  | -7.50B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
-| 07:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.0% | -0.1% |
-| 07:00 | EUR | Low | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
+| 54 min | GBP | Low | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
+| 54 min | GBP | Low | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
+| 54 min | GBP | High | GDP (MoM) (Aug) |  | 0.2% | 0.0% |
+| 54 min | GBP | Low | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
+| 54 min | GBP | Low | Index of Services |  | 0.3% | 0.6% |
+| 54 min | GBP | Moderate | Industrial Production (MoM) (Aug) |  | 0.2% | -0.8% |
+| 54 min | GBP | Low | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
+| 54 min | GBP | Low | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
+| 54 min | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | 0.3% | -1.0% |
+| 54 min | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.5% |
+| 54 min | GBP | Moderate | Trade Balance (Aug) |  | -18.80B | -20.00B |
+| 54 min | GBP | Moderate | Trade Balance Non-EU (Aug) |  |  | -7.50B |
+| 54 min | EUR | High | German CPI (MoM) (Sep) |  | 0.0% | -0.1% |
+| 54 min | EUR | Moderate | German CPI (YoY) (Sep) |  | 1.6% | 1.9% |
+| 54 min | EUR | Low | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
+| 54 min | EUR | Low | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -33 | -35 |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.62% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.15% |
 | 10:30 | ZAR | Low | Business Confidence (Aug) |  |  | 109.1 |
-| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 11:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
-| 12:00 | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
+| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 704.89B |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Aug) |  |  | 5.20% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Aug) |  |  | 4.8% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
@@ -46,16 +45,17 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.3% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 13:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.7% | 2.4% |
-| 13:30 | USD | Low | PPI (YoY) (Sep) |  | 1.6% | 1.7% |
 | 13:30 | USD | High | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
+| 13:30 | USD | Low | PPI (YoY) (Sep) |  | 1.6% | 1.7% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) |  |  | 4.9% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | -7.1% | 22.1% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | -7.5% | 22.1% |
 | 13:30 | CAD | Moderate | Employment Change (Sep) |  | 29.8K | 22.1K |
 | 13:30 | CAD | Low | Full Employment Change (Sep) |  |  | -43.6K |
 | 13:30 | CAD | Low | Part Time Employment Change (Sep) |  |  | 65.7K |
 | 13:30 | CAD | Low | Participation Rate (Sep) |  |  | 65.1% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Sep) |  | 6.7% | 6.6% |
 | 14:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 14:45 | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  |  | 2.7% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  |  | 3.1% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 75.0 | 74.4 |

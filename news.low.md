@@ -10,25 +10,24 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
-| 07:00 | GBP | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
-| 07:00 | GBP | Index of Services |  | 0.3% | 0.6% |
-| 07:00 | GBP | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
-| 07:00 | EUR | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
-| 07:00 | EUR | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
+| 54 min | GBP | Construction Output (MoM) (Aug) |  | 0.5% | -0.4% |
+| 54 min | GBP | U.K. Construction Output (YoY) (Aug) |  | -0.3% | -1.6% |
+| 54 min | GBP | GDP (YoY) (Aug) |  | 1.4% | 1.2% |
+| 54 min | GBP | Index of Services |  | 0.3% | 0.6% |
+| 54 min | GBP | Industrial Production (YoY) (Aug) |  | -0.5% | -1.2% |
+| 54 min | GBP | Manufacturing Production (YoY) (Aug) |  | -0.4% | -1.3% |
+| 54 min | EUR | German HICP (MoM) (Sep) |  | -0.1% | -0.2% |
+| 54 min | EUR | German HICP (YoY) (Sep) |  | 1.8% | 2.0% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.62% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.15% |
 | 10:30 | ZAR | Business Confidence (Aug) |  |  | 109.1 |
-| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
-| 12:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 704.89B |
-| 13:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:00 | MXN | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
+| 13:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.2% | 0.2% |
 | 13:00 | INR | Cumulative Industrial Production (Aug) |  |  | 5.20% |
 | 13:00 | INR | Industrial Production (YoY) (Aug) |  |  | 4.8% |
 | 13:00 | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
@@ -41,6 +40,7 @@
 | 13:30 | CAD | Part Time Employment Change (Sep) |  |  | 65.7K |
 | 13:30 | CAD | Participation Rate (Sep) |  |  | 65.1% |
 | 14:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 14:45 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 16.0B |
 | 15:00 | USD | Michigan Current Conditions (Oct) |  | 64.3 | 63.3 |
 | 15:45 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.8K |
