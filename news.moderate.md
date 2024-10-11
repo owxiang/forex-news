@@ -23,12 +23,12 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 481 |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 586 |  | 585 |
 | 18:10 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 25 min | GBP | CFTC GBP speculative net positions |  |  | 93.8K |
-| 25 min | USD | CFTC Crude Oil speculative net positions |  |  | 159.6K |
-| 25 min | USD | CFTC Gold speculative net positions |  |  | 299.9K |
-| 25 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 16.1K |
-| 25 min | USD | CFTC S&P 500 speculative net positions |  |  | 7.5K |
-| 25 min | AUD | CFTC AUD speculative net positions |  |  | 14.5K |
-| 25 min | BRL | CFTC BRL speculative net positions |  |  | -38.3K |
-| 25 min | JPY | CFTC JPY speculative net positions |  |  | 56.8K |
-| 25 min | EUR | CFTC EUR speculative net positions |  |  | 55.3K |
+| 20:30 | GBP | CFTC GBP speculative net positions | 93.1K |  | 93.8K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 190.6K |  | 159.6K |
+| 20:30 | USD | CFTC Gold speculative net positions | 278.2K |  | 299.9K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 13.3K |  | 16.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -5.6K |  | 7.5K |
+| 20:30 | AUD | CFTC AUD speculative net positions | 33.4K |  | 14.5K |
+| 20:30 | BRL | CFTC BRL speculative net positions | -10.0K |  | -38.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions | 36.5K |  | 56.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions | 39.1K |  | 55.3K |
