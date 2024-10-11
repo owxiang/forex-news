@@ -16,16 +16,16 @@
 | 07:00 | GBP | Index of Services | 0.1% | 0.3% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Aug) | -1.6% | -0.5% | -2.2% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
-| 07:00 | EUR | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
+| 07:00 | EUR | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 10:50 | EUR | Italian 15-Year BTP Auction | 3.88% |  | 4.27% |
 | 10:50 | EUR | Italian 3-Year BTP Auction | 2.68% |  | 2.62% |
 | 10:50 | EUR | Italian 30-Year BTP Auction | 4.040% |  | 4.390% |
 | 10:50 | EUR | Italian 5-Year BTP Auction | 2.67% |  | 2.76% |
 | 10:50 | EUR | Italian 7-Year BTP Auction | 3.19% |  | 3.15% |
 | 12:30 | INR | FX Reserves, USD | 701.18B |  | 704.89B |
-| 13:00 | MXN | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
 | 13:00 | MXN | Industrial Production (MoM) (Aug) | -0.5% | 0.2% | 0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
 | 13:00 | INR | Cumulative Industrial Production (Aug) | 4.20% |  | 5.20% |
 | 13:00 | INR | Industrial Production (YoY) (Aug) | -0.1% |  | 4.7% |
 | 13:00 | INR | Manufacturing Output (MoM) (Aug) | 1.0% |  | 4.4% |

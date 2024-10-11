@@ -15,17 +15,17 @@
 | 07:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Aug) | 1.0% | 1.4% | 0.9% |
 | 07:00 | GBP | Low | Index of Services | 0.1% | 0.3% | 0.4% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.5% | 0.2% | -0.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Aug) | -1.6% | -0.5% | -2.2% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | 0.5% | 0.2% | -0.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | 1.1% | 0.3% | -1.2% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | -0.3% | -0.4% | -2.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.2% | 0.3% | 0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -15.06B | -18.80B | -18.87B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -4.95B |  | -6.85B |
-| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.0% | 0.0% | -0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.9% |
-| 07:00 | EUR | Low | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.0% | 0.0% | -0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
+| 07:00 | EUR | Low | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -34 | -33 | -35 |
 | 10:50 | EUR | Low | Italian 15-Year BTP Auction | 3.88% |  | 4.27% |
 | 10:50 | EUR | Low | Italian 3-Year BTP Auction | 2.68% |  | 2.62% |
@@ -33,8 +33,8 @@
 | 10:50 | EUR | Low | Italian 5-Year BTP Auction | 2.67% |  | 2.76% |
 | 10:50 | EUR | Low | Italian 7-Year BTP Auction | 3.19% |  | 3.15% |
 | 12:30 | INR | Low | FX Reserves, USD | 701.18B |  | 704.89B |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Aug) | -0.5% | 0.2% | 0.2% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Aug) | -0.9% | 0.5% | 2.2% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Aug) | 4.20% |  | 5.20% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Aug) | -0.1% |  | 4.7% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Aug) | 1.0% |  | 4.4% |
@@ -43,10 +43,10 @@
 | 13:20 | GBP | Moderate | NIESR Monthly GDP Tracker (Sep) | 0.2% |  | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) | 3.2% |  | 3.3% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | Low | Core PPI (YoY) (Sep) | 2.8% | 2.7% | 2.6% |
-| 13:30 | USD | High | PPI (MoM) (Sep) | 0.0% | 0.1% | 0.2% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI (YoY) (Sep) | 1.8% | 1.6% | 1.9% |
+| 13:30 | USD | High | PPI (MoM) (Sep) | 0.0% | 0.1% | 0.2% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) | 4.5% |  | 4.9% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Aug) | -7.0% | -7.5% | 20.8% |
 | 13:30 | CAD | Moderate | Employment Change (Sep) | 46.7K | 29.8K | 22.1K |
@@ -64,10 +64,10 @@
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 15:45 | USD | Low | Fed Logan Speaks |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
-| 18:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 481 |  | 479 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 586 |  | 585 |
+| 4 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 93.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 43.2K |
