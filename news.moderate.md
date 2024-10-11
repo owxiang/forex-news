@@ -22,8 +22,8 @@
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 481 |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 586 |  | 585 |
-| 4 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
+| 18:10 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 93.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 159.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 299.9K |
