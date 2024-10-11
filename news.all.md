@@ -10,8 +10,8 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.55 |  | 50.17 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Oct) | 39.27 |  | 39.42 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Oct) | 69.36 |  | 69.81 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 0.3% | -0.3% | -1.4% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Aug) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Aug) | 1.0% | 1.4% | 0.9% |
 | 07:00 | GBP | Low | Index of Services | 0.1% | 0.3% | 0.4% |
@@ -22,18 +22,17 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.2% | 0.3% | 0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Aug) | -15.06B | -18.80B | -18.87B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -4.95B |  | -6.85B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.9% |
 | 07:00 | EUR | High | German CPI (MoM) (Sep) | 0.0% | 0.0% | -0.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Sep) | 1.6% | 1.6% | 1.9% |
 | 07:00 | EUR | Low | German HICP (MoM) (Sep) | -0.1% | -0.1% | -0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Sep) | 1.8% | 1.8% | 2.0% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -34 | -33 | -35 |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.62% |
-| 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.15% |
-| 10:30 | ZAR | Low | Business Confidence (Aug) |  |  | 109.1 |
-| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
-| 11:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
+| 4 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
+| 4 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.62% |
+| 4 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
+| 4 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.76% |
+| 4 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.15% |
+| 24 min | ZAR | Low | Business Confidence (Aug) |  |  | 109.1 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 704.89B |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Sep) |  |  | 0.3% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | 0.5% | 2.1% |
@@ -41,6 +40,8 @@
 | 13:00 | INR | Low | Cumulative Industrial Production (Aug) |  |  | 5.20% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Aug) |  |  | 4.8% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 1.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 4.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.3% |
 | 13:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.7% | 2.4% |
