@@ -2,9 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | CNY | Exports (Sep) |  |  | 8.40M |
-| 04:00 | CNY | Imports (Sep) |  |  | 0.00M |
-| 04:00 | CNY | Trade Balance (Sep) |  |  | 649.34B |
 | 09:00 | CNY | M2 Money Stock (YoY) (Sep) |  | 6.4% | 6.3% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Sep) |  | 8.3% | 8.5% |
 | 09:00 | CNY | Chinese Total Social Financing (Sep) |  | 3,730.0B | 3,030.0B |
