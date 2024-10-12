@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | CNY | Moderate | CPI (YoY) (Sep) |  | 0.7% | 0.6% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Sep) |  | 0.4% | 0.4% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Sep) |  | 0.7% | 0.6% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Sep) |  | -2.6% | -1.8% |
 | 04:00 | CNY | Low | Exports (Sep) |  |  | 8.40M |
 | 04:00 | CNY | Low | Imports (Sep) |  |  | 0.00M |
