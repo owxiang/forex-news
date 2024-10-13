@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | CNY | Moderate | CPI (YoY) (Sep) | 0.4% | 0.7% | 0.6% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Sep) | 0.0% | 0.4% | 0.4% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Sep) | 0.4% | 0.7% | 0.6% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Sep) | -2.8% | -2.6% | -1.8% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 6.4% | 6.3% |
 | 09:00 | CNY | Moderate | New Loans (Sep) |  | 1,090.0B | 900.0B |
