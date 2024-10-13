@@ -11,5 +11,5 @@
 | 09:00 | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,730.0B | 3,030.0B |
 | 21:15 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 22:30 | NZD | Low | Performance of Services Index |  |  | 45.5 |
-| 22:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Sep) |  |  | -2.9% |
 | 22:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.2% |
+| 22:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Sep) |  |  | -2.9% |
