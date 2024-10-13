@@ -1,9 +1,17 @@
-## 13 October 2024 - Moderate Impact Forex News
+## 14 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (MoM) (Sep) | 0.0% | 0.4% | 0.4% |
-| 02:30 | CNY | CPI (YoY) (Sep) | 0.4% | 0.6% | 0.6% |
-| 02:30 | CNY | PPI (YoY) (Sep) | -2.8% | -2.5% | -1.8% |
-| 21:15 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 22:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) | 0.0% |  | 0.2% |
+| 04:00 | CNY | Exports (YoY) (Sep) |  | 6.0% | 8.7% |
+| 04:00 | CNY | Imports (YoY) (Sep) |  | 0.9% | 0.5% |
+| 04:00 | CNY | Trade Balance (USD) (Sep) |  | 91.50B | 91.02B |
+| 07:30 | CHF | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
+| 07:30 | INR | WPI Inflation (YoY) (Sep) |  | 1.90% | 1.31% |
+| 09:00 | CNY | New Loans (Sep) |  | 1,090.0B | 900.0B |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:00 | INR | CPI (YoY) (Sep) |  | 5.00% | 3.65% |
+| 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
+| 20:00 | USD | Fed Waller Speaks |  |  |  |
+| 22:00 | USD | FOMC Member Kashkari Speaks |  |  |  |

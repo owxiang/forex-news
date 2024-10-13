@@ -1,3 +1,3 @@
-## 13 October 2024 - High Impact Forex News
+## 14 October 2024 - High Impact Forex News
 
 There is no high impact news today.
