@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 07:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -1.2% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
-| 07:30 | INR | Low | WPI Food (YoY) (Sep) |  |  | 3.11% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -0.67% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 1.90% | 1.31% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | 1.22% |
-| 09:00 | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 6.4% | 6.3% |
-| 09:00 | CNY | Moderate | New Loans (Sep) |  | 1,090.0B | 900.0B |
-| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 8.3% | 8.5% |
-| 09:00 | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,730.0B | 3,030.0B |
+| 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.1% | 0.1% | 0.2% |
+| 07:30 | INR | Low | WPI Food (YoY) (Sep) | 11.53% |  | 3.11% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (Sep) | -4.05% |  | -0.67% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) | 1.84% | 1.90% | 1.31% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) | 1.00% |  | 1.22% |
+| 54 min | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 6.4% | 6.3% |
+| 54 min | CNY | Moderate | New Loans (Sep) |  | 1,090.0B | 900.0B |
+| 54 min | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 8.3% | 8.5% |
+| 54 min | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,730.0B | 3,030.0B |
 | 09:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.668% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
@@ -22,7 +22,7 @@
 | 13:00 | MXN | Low | Consumer Confidence (Sep) |  |  | 47.6 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) |  |  | 47.0 |
 | 13:00 | INR | Moderate | CPI (YoY) (Sep) |  | 5.00% | 3.65% |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Aug) |  |  | -0.40% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Aug) |  | 0.00% | -0.40% |
 | 14:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.746% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.167% |
