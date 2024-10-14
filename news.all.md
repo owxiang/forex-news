@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
+| 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -1.2% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
