@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
+| 01:00 | SGD | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 07:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
 | 07:30 | INR | WPI Food (YoY) (Sep) | 11.53% |  | 3.11% |
