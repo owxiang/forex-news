@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 0.8% |
-| 53 min | SGD | Low | GDP (YoY) (Q3) |  |  | 2.9% |
-| 53 min | SGD | Low | GDP (QoQ) (Q3) |  |  | 1.6% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 8.7% |  | 1.6% |
+| 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 04:00 | CNY | Low | Exports (Sep) |  |  | 8.40M |
 | 04:00 | CNY | Low | Imports (Sep) |  |  | 0.00M |
 | 04:00 | CNY | Low | Trade Balance (Sep) |  | 651.00B | 649.34B |
 | 04:00 | CNY | Moderate | Exports (YoY) (Sep) |  | 6.0% | 8.7% |
 | 04:00 | CNY | Moderate | Imports (YoY) (Sep) |  | 0.9% | 0.5% |
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Sep) |  | 91.50B | 91.02B |
+| 05:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 0.8% |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -1.2% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
