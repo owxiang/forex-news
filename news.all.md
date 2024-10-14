@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 8.7% |  | 1.6% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
-| 04:00 | CNY | Low | Exports (Sep) |  |  | 8.40M |
-| 04:00 | CNY | Low | Imports (Sep) |  |  | 0.00M |
-| 04:00 | CNY | Low | Trade Balance (Sep) |  | 651.00B | 649.34B |
-| 04:00 | CNY | Moderate | Exports (YoY) (Sep) |  | 6.0% | 8.7% |
-| 04:00 | CNY | Moderate | Imports (YoY) (Sep) |  | 0.9% | 0.5% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) (Sep) |  | 91.50B | 91.02B |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 8.7% |  | 1.6% |
+| 30 min | CNY | Low | Exports (Sep) |  |  | 8.40M |
+| 30 min | CNY | Low | Imports (Sep) |  |  | 0.00M |
+| 30 min | CNY | Low | Trade Balance (Sep) |  | 651.00B | 649.34B |
+| 30 min | CNY | Moderate | Exports (YoY) (Sep) |  | 6.0% | 8.7% |
+| 30 min | CNY | Moderate | Imports (YoY) (Sep) |  | 0.9% | 0.5% |
+| 30 min | CNY | Moderate | Trade Balance (USD) (Sep) |  | 91.50B | 91.02B |
 | 05:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 0.8% |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 07:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -1.2% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
+| 07:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -1.2% |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) |  |  | 3.11% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -0.67% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 1.90% | 1.31% |
