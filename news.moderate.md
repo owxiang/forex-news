@@ -12,6 +12,6 @@
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | INR | CPI (YoY) (Sep) | 5.49% | 5.00% | 3.65% |
 | 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
+| 54 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
 | 20:00 | USD | Fed Waller Speaks |  |  |  |
 | 22:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
