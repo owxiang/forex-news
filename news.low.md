@@ -1,28 +1,41 @@
-## 14 October 2024 - Low Impact Forex News
+## 15 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
-| 01:00 | SGD | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
-| 07:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 07:30 | CHF | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
-| 07:30 | INR | WPI Food (YoY) (Sep) | 11.53% |  | 3.11% |
-| 07:30 | INR | WPI Fuel (YoY) (Sep) | -4.05% |  | -0.67% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) | 1.00% |  | 1.22% |
-| 09:20 | CNY | Exports (Sep) | 1.60M |  | 8.40M |
-| 09:20 | CNY | Imports (Sep) | -0.50M |  | 0.00M |
-| 09:20 | CNY | Trade Balance (Sep) | 582.62B |  | 649.34B |
-| 09:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 10:00 | CNY | M2 Money Stock (YoY) (Sep) | 6.8% | 6.4% | 6.3% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Sep) | 8.1% | 8.3% | 8.5% |
-| 10:00 | CNY | Chinese Total Social Financing (Sep) | 3,760.0B | 3,730.0B | 3,030.0B |
-| 10:50 | EUR | German 12-Month Bubill Auction | 2.574% |  | 2.668% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Consumer Confidence (Sep) | 47.1 |  | 47.6 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Sep) | 46.6 |  | 47.0 |
-| 13:00 | BRL | IBC-Br Economic Activity (Aug) | 0.20% | 0.00% | -0.40% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.730% |  | 2.746% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.138% |  | 3.167% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.897% |  | 3.016% |
-| 22:00 | KRW | Export Price Index (YoY) (Sep) | 1.2% |  | 5.7% |
-| 22:00 | KRW | Import Price Index (YoY) (Sep) | -3.3% |  | 1.8% |
+| 50 min | KRW | Exports (YoY) (Sep) |  |  | 7.5% |
+| 50 min | KRW | Imports (YoY) (Sep) |  |  | 2.2% |
+| 50 min | KRW | Trade Balance (Sep) |  |  | 6.66B |
+| 05:00 | IDR | Export Growth (YoY) (Sep) |  | 8.00% | 7.13% |
+| 05:00 | IDR | Import Growth (YoY) (Sep) |  | 11.80% | 9.46% |
+| 05:00 | IDR | Trade Balance (Sep) |  | 2.83B | 2.89B |
+| 05:30 | JPY | Capacity Utilization (MoM) (Aug) |  |  | 2.5% |
+| 07:00 | GBP | Average Earnings ex Bonus (Aug) |  | 4.9% | 5.1% |
+| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | -1.1% |
+| 07:00 | EUR | German WPI (MoM) (Sep) |  | 0.2% | -0.8% |
+| 07:00 | NOK | Trade Balance (Sep) |  |  | 66.0B |
+| 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.2% | 1.8% |
+| 08:00 | EUR | Core CPI (YoY) (Sep) |  | 2.4% | 2.7% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | -0.6% | -0.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | -0.1% | -0.1% |
+| 08:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.20% |
+| 08:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
+| 08:45 | EUR | French HICP (YoY) (Sep) |  | 1.5% | 1.5% |
+| 08:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 1.70% |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.329% |
+| 10:00 | EUR | Industrial Production (YoY) (Aug) |  | -1.2% | -2.2% |
+| 10:30 | ZAR | Business Confidence (Sep) |  |  | 109.1 |
+| 11:00 | INR | Exports (USD) (Sep) |  |  | 34.71B |
+| 11:00 | INR | Imports (USD) (Sep) |  |  | 64.36B |
+| 11:00 | INR | Trade Balance (Sep) |  |  | -29.65B |
+| 11:00 | EUR | Reserve Assets Total (Sep) |  |  | 1,288.39B |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 13:00 | USD | Milk Auctions |  |  | 3,851.0 |
+| 13:30 | CAD | Common CPI (YoY) (Sep) |  | 2.1% | 2.0% |
+| 13:30 | CAD | CPI (YoY) (Sep) |  | 1.8% | 2.0% |
+| 13:30 | CAD | Median CPI (YoY) (Sep) |  | 2.3% | 2.3% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Sep) |  | 2.4% | 2.4% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.4% |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 4.550% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 4.305% |
+| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
