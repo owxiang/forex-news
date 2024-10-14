@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 07:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.1% | 0.1% | 0.2% |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.1% | 0.1% | 0.2% |
 | 07:30 | INR | Low | WPI Food (YoY) (Sep) | 11.53% |  | 3.11% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Sep) | -4.05% |  | -0.67% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) | 1.84% | 1.90% | 1.31% |
@@ -34,7 +34,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.730% |  | 2.746% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.138% |  | 3.167% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.897% |  | 3.016% |
-| 53 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 20:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Sep) |  |  | 5.7% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Sep) |  |  | 1.8% |
