@@ -2,12 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
-| 05:00 | CNY | Moderate | Exports (YoY) (Sep) |  | 6.0% | 8.7% |
-| 05:00 | CNY | Moderate | Imports (YoY) (Sep) |  | 0.9% | 0.5% |
-| 05:00 | CNY | Moderate | Trade Balance (USD) (Sep) |  | 91.50B | 91.02B |
-| 05:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 0.8% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -1.2% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Sep) |  | 0.1% | 0.2% |
@@ -32,7 +28,6 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.167% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.016% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 20:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Sep) |  |  | 5.7% |
