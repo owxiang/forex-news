@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 01:00 | SGD | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
+| 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 07:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
 | 07:30 | INR | WPI Food (YoY) (Sep) | 11.53% |  | 3.11% |
@@ -24,5 +24,5 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.730% |  | 2.746% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.138% |  | 3.167% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.897% |  | 3.016% |
-| 53 min | KRW | Export Price Index (YoY) (Sep) |  |  | 5.7% |
-| 53 min | KRW | Import Price Index (YoY) (Sep) |  |  | 1.8% |
+| 22:00 | KRW | Export Price Index (YoY) (Sep) | 1.2% |  | 5.7% |
+| 22:00 | KRW | Import Price Index (YoY) (Sep) | -3.3% |  | 1.8% |

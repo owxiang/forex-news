@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
+| 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 07:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
@@ -35,6 +35,6 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.138% |  | 3.167% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.897% |  | 3.016% |
 | 20:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 53 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 53 min | KRW | Low | Export Price Index (YoY) (Sep) |  |  | 5.7% |
-| 53 min | KRW | Low | Import Price Index (YoY) (Sep) |  |  | 1.8% |
+| 22:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Sep) | 1.2% |  | 5.7% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Sep) | -3.3% |  | 1.8% |
