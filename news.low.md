@@ -24,5 +24,5 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.730% |  | 2.746% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.138% |  | 3.167% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.897% |  | 3.016% |
-| 22:00 | KRW | Export Price Index (YoY) (Sep) |  |  | 5.7% |
-| 22:00 | KRW | Import Price Index (YoY) (Sep) |  |  | 1.8% |
+| 53 min | KRW | Export Price Index (YoY) (Sep) |  |  | 5.7% |
+| 53 min | KRW | Import Price Index (YoY) (Sep) |  |  | 1.8% |

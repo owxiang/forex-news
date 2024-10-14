@@ -13,4 +13,4 @@
 | 13:00 | INR | CPI (YoY) (Sep) | 5.49% | 5.00% | 3.65% |
 | 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | USD | Fed Waller Speaks |  |  |  |
-| 22:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 53 min | USD | FOMC Member Kashkari Speaks |  |  |  |
