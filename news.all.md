@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
+| 01:00 | SGD | Low | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 07:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | Low | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
@@ -27,13 +27,13 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Sep) | 47.1 |  | 47.6 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) |  |  | 47.0 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) | 46.6 |  | 47.0 |
 | 13:00 | INR | Moderate | CPI (YoY) (Sep) | 5.49% | 5.00% | 3.65% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Aug) | 0.20% | 0.00% | -0.40% |
-| 50 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.746% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.167% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.016% |
+| 14:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.730% |  | 2.746% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.138% |  | 3.167% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.897% |  | 3.016% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
 | 20:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |

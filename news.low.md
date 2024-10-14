@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 01:00 | SGD | GDP (QoQ) (Q3) | 2.1% |  | 0.4% |
+| 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 07:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | PPI (YoY) (Sep) | -1.3% |  | -1.2% |
 | 07:30 | INR | WPI Food (YoY) (Sep) | 11.53% |  | 3.11% |
@@ -19,10 +19,10 @@
 | 10:50 | EUR | German 12-Month Bubill Auction | 2.574% |  | 2.668% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Sep) | 47.1 |  | 47.6 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Sep) |  |  | 47.0 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Sep) | 46.6 |  | 47.0 |
 | 13:00 | BRL | IBC-Br Economic Activity (Aug) | 0.20% | 0.00% | -0.40% |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.746% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.167% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.016% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.730% |  | 2.746% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.138% |  | 3.167% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.897% |  | 3.016% |
 | 22:00 | KRW | Export Price Index (YoY) (Sep) |  |  | 5.7% |
 | 22:00 | KRW | Import Price Index (YoY) (Sep) |  |  | 1.8% |
