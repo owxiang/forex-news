@@ -11,20 +11,24 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Sep) | -4.05% |  | -0.67% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Sep) | 1.84% | 1.90% | 1.31% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) | 1.00% |  | 1.22% |
-| 08:20 | CNY | Low | Exports (Sep) | 1.60M |  | 8.40M |
-| 08:20 | CNY | Low | Imports (Sep) | 0.70M |  | 0.00M |
-| 21 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.668% |
+| 09:20 | CNY | Low | Exports (Sep) | 1.60M |  | 8.40M |
+| 09:20 | CNY | Low | Imports (Sep) | -0.50M |  | 0.00M |
+| 09:20 | CNY | Low | Trade Balance (Sep) | 582.62B |  | 649.34B |
+| 09:20 | CNY | Moderate | Exports (YoY) (Sep) | 2.4% | 6.0% | 8.7% |
+| 09:20 | CNY | Moderate | Imports (YoY) (Sep) | 0.3% | 0.9% | 0.5% |
+| 09:20 | CNY | Moderate | Trade Balance (USD) (Sep) | 81.71B | 89.80B | 91.02B |
+| 09:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (Sep) | 6.8% | 6.4% | 6.3% |
+| 10:00 | CNY | Moderate | New Loans (Sep) | 1,590.0B | 1,090.0B | 900.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) | 8.1% | 8.3% | 8.5% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Sep) | 3,760.0B | 3,730.0B | 3,030.0B |
+| 23 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.668% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Sep) |  |  | 47.6 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Sep) |  |  | 47.0 |
 | 13:00 | INR | Moderate | CPI (YoY) (Sep) |  | 5.00% | 3.65% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Aug) |  | 0.00% | -0.40% |
-| 13:00 | CNY | Low | M2 Money Stock (YoY) (Sep) |  | 6.4% | 6.3% |
-| 13:00 | CNY | Moderate | New Loans (Sep) |  | 1,090.0B | 900.0B |
-| 13:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) |  | 8.3% | 8.5% |
-| 13:00 | CNY | Low | Chinese Total Social Financing (Sep) |  | 3,730.0B | 3,030.0B |
 | 14:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.746% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.167% |
