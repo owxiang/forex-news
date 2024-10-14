@@ -2,12 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
 | 01:00 | SGD | GDP (QoQ) (Q3) | 8.7% |  | 1.6% |
-| 30 min | CNY | Exports (Sep) |  |  | 8.40M |
-| 30 min | CNY | Imports (Sep) |  |  | 0.00M |
-| 30 min | CNY | Trade Balance (Sep) |  | 651.00B | 649.34B |
-| 05:01 | GBP | Rightmove House Price Index (MoM) |  |  | 0.8% |
+| 01:00 | SGD | GDP (YoY) (Q3) | 4.1% |  | 2.9% |
+| 48 min | GBP | Rightmove House Price Index (MoM) |  |  | 0.8% |
 | 07:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 07:30 | CHF | PPI (YoY) (Sep) |  |  | -1.2% |
 | 07:30 | INR | WPI Food (YoY) (Sep) |  |  | 3.11% |
