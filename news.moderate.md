@@ -17,13 +17,13 @@
 | 10:05 | EUR | German ZEW Current Conditions (Oct) | -86.9 | -84.5 | -84.5 |
 | 10:05 | EUR | German ZEW Economic Sentiment (Oct) | 13.1 | 10.2 | 3.6 |
 | 10:05 | EUR | ZEW Economic Sentiment (Oct) | 20.1 | 16.9 | 9.3 |
-| 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | 3.40 | 11.50 |
-| 13:30 | CAD | Core CPI (MoM) (Sep) |  |  | -0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Sep) |  |  | 1.5% |
-| 13:30 | CAD | CPI (MoM) (Sep) |  | -0.2% | -0.2% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Aug) |  | -1.1% | 0.4% |
+| 20 min | USD | NY Empire State Manufacturing Index (Oct) |  | 3.40 | 11.50 |
+| 20 min | CAD | Core CPI (YoY) (Sep) |  |  | 1.5% |
+| 20 min | CAD | Core CPI (MoM) (Sep) |  |  | -0.1% |
+| 20 min | CAD | CPI (MoM) (Sep) |  | -0.2% | -0.2% |
+| 20 min | CAD | Wholesale Sales (MoM) (Aug) |  | -1.1% | 0.4% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
 | 16:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
-| 22:45 | NZD | CPI (YoY) (Q3) |  | 2.2% | 3.3% |
 | 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
+| 22:45 | NZD | CPI (YoY) (Q3) |  | 2.2% | 3.3% |
