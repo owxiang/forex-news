@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Industrial Production (MoM) (Aug) |  | -3.3% | -3.3% |
+| 23 min | JPY | Industrial Production (MoM) (Aug) |  | -3.3% | -3.3% |
 | 07:00 | GBP | Average Earnings Index +Bonus (Aug) |  | 3.8% | 4.0% |
 | 07:00 | GBP | Claimant Count Change (Sep) |  | 20.2K | 23.7K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Aug) |  | 250K | 265K |

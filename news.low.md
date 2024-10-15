@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 49 min | IDR | Export Growth (YoY) (Sep) |  | 8.00% | 7.13% |
-| 49 min | IDR | Import Growth (YoY) (Sep) |  | 11.80% | 9.46% |
-| 49 min | IDR | Trade Balance (Sep) |  | 2.83B | 2.89B |
-| 05:30 | JPY | Capacity Utilization (MoM) (Aug) |  |  | 2.5% |
+| 05:00 | IDR | Export Growth (YoY) (Sep) | 6.44% | 8.00% | 7.13% |
+| 05:00 | IDR | Import Growth (YoY) (Sep) |  | 11.80% | 9.46% |
+| 05:00 | IDR | Trade Balance (Sep) |  | 2.83B | 2.89B |
+| 23 min | JPY | Capacity Utilization (MoM) (Aug) |  |  | 2.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) |  | 4.9% | 5.1% |
-| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | -1.1% |
 | 07:00 | EUR | German WPI (MoM) (Sep) |  | 0.2% | -0.8% |
+| 07:00 | EUR | German WPI (YoY) (Sep) |  |  | -1.1% |
 | 07:00 | NOK | Trade Balance (Sep) |  |  | 66.0B |
 | 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.2% | 1.8% |
 | 08:00 | EUR | Core CPI (YoY) (Sep) |  | 2.4% | 2.7% |
