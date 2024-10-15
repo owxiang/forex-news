@@ -17,35 +17,35 @@
 | 07:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | 18.60% |  | 16.60% |
 | 07:00 | NOK | Low | Trade Balance (Sep) | 42.8B |  | 63.4B |
 | 07:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.10% |  | 1.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.20% |  | -1.20% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.10% |  | 1.20% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.1% | 1.2% | 1.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.3% | -1.2% | 0.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.3% | -1.2% | 1.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.4% | 1.5% | 1.5% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) | 1.00% |  | 1.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.4% | 2.4% | 2.7% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.5% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.6% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.5% | 2.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.7% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | -0.1% | -0.1% | 0.0% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | 1.8% | 1.8% | -0.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Aug) | 0.1% | -1.0% | -2.1% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | 1.8% | 1.8% | -0.5% |
 | 10:05 | EUR | Moderate | German ZEW Current Conditions (Oct) | -86.9 | -84.5 | -84.5 |
 | 10:05 | EUR | Moderate | German ZEW Economic Sentiment (Oct) | 13.1 | 10.2 | 3.6 |
 | 10:05 | EUR | Moderate | ZEW Economic Sentiment (Oct) | 20.1 | 16.9 | 9.3 |
 | 10:20 | GBP | Low | 30-Year Treasury Gilt Auction | 4.735% |  | 4.329% |
-| 10:30 | ZAR | Low | Business Confidence (Sep) | 110.2 |  | 111.5 |
 | 10:30 | ZAR | Low | Business Confidence (Aug) | 111.5 |  | 109.1 |
+| 10:30 | ZAR | Low | Business Confidence (Sep) | 110.2 |  | 111.5 |
 | 11:00 | EUR | Low | Reserve Assets Total (Sep) | 1,318.88B |  | 1,288.39B |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | -0.3% |  | 1.2% |
 | 13:00 | USD | Low | Milk Auctions | 3,852.0 |  | 3,851.0 |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) | -11.90 | 3.40 | 11.50 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) | 2.1% | 2.1% | 1.9% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) | 0.0% |  | -0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) | 1.6% |  | 1.5% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) | 0.0% |  | -0.1% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Sep) | -0.4% | -0.2% | -0.2% |
 | 13:30 | CAD | Low | CPI (YoY) (Sep) | 1.6% | 1.8% | 2.0% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
@@ -57,6 +57,6 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.270% |  | 4.305% |
 | 16:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
+| 55 min | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
 | 22:45 | NZD | Moderate | CPI (YoY) (Q3) |  | 2.2% | 3.3% |
 | 22:45 | NZD | Moderate | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
