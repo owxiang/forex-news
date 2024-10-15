@@ -30,8 +30,8 @@
 | 13:30 | CAD | Median CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Sep) | 2.4% | 2.4% | 2.4% |
 | 13:55 | USD | Redbook (YoY) | 5.6% |  | 5.4% |
-| 49 min | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
-| 49 min | USD | Milk Auctions |  |  | 3,851.0 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 15:00 | USD | Milk Auctions |  |  | 3,851.0 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.550% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.305% |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
