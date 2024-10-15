@@ -17,26 +17,26 @@
 | 07:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | 18.60% |  | 16.60% |
 | 07:00 | NOK | Low | Trade Balance (Sep) | 42.8B |  | 63.4B |
 | 07:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.20% |  | -1.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Sep) | 1.10% |  | 1.20% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Sep) | -1.30% |  | -1.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.3% | -1.2% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Sep) | 1.1% | 1.2% | 1.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Sep) | -1.3% | -1.2% | 0.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Sep) | -1.3% | -1.2% | 1.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Sep) | 1.4% | 1.5% | 1.5% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) | 1.00% |  | 1.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Sep) | 2.4% | 2.4% | 2.7% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.5% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Sep) | -0.6% | -0.6% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 1.5% | 1.5% | 2.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 1.7% | 1.7% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Sep) | -0.1% | -0.1% | 0.0% |
-| 38 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) | 1.00% |  | 1.70% |
-| 53 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.329% |
-| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -84.5 | -84.5 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Oct) |  | 10.2 | 3.6 |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Aug) |  | 1.8% | -0.3% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Aug) |  | -1.0% | -2.2% |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) |  | 16.9 | 9.3 |
+| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 52 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.329% |
+| 52 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 52 min | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -84.5 | -84.5 |
+| 52 min | EUR | Moderate | German ZEW Economic Sentiment (Oct) |  | 10.2 | 3.6 |
+| 52 min | EUR | Moderate | Industrial Production (MoM) (Aug) |  | 1.8% | -0.3% |
+| 52 min | EUR | Low | Industrial Production (YoY) (Aug) |  | -1.0% | -2.2% |
+| 52 min | EUR | Moderate | ZEW Economic Sentiment (Oct) |  | 16.9 | 9.3 |
 | 10:30 | ZAR | Low | Business Confidence (Sep) |  |  | 109.1 |
 | 11:00 | INR | Low | Exports (USD) (Sep) |  |  | 34.71B |
 | 11:00 | INR | Low | Imports (USD) (Sep) |  |  | 64.36B |
@@ -44,8 +44,8 @@
 | 11:00 | EUR | Low | Reserve Assets Total (Sep) |  |  | 1,288.39B |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | 3.40 | 11.50 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 2.1% | 2.0% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 1.5% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Sep) |  | -0.2% | -0.2% |
 | 13:30 | CAD | Low | CPI (YoY) (Sep) |  | 1.8% | 2.0% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 2.3% | 2.3% |
