@@ -25,5 +25,5 @@
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
 | 16:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
-| 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
 | 22:45 | NZD | CPI (YoY) (Q3) |  | 2.2% | 3.3% |
+| 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
