@@ -1,37 +1,54 @@
-## 15 October 2024 - Low Impact Forex News
+## 16 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | IDR | Export Growth (YoY) (Sep) | 6.44% | 8.00% | 6.56% |
-| 05:00 | IDR | Import Growth (YoY) (Sep) | 8.55% | 11.80% | 9.46% |
-| 05:00 | IDR | Trade Balance (Sep) | 3.26B | 2.83B | 2.78B |
-| 05:30 | JPY | Capacity Utilization (MoM) (Aug) | -5.3% |  | 2.5% |
-| 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.9% | 4.9% | 5.1% |
-| 07:00 | EUR | German WPI (MoM) (Sep) | -0.3% | 0.2% | -0.8% |
-| 07:00 | EUR | German WPI (YoY) (Sep) | -1.6% |  | -1.1% |
-| 07:00 | IDR | Foreign Direct Investment (YoY) (Q3) | 18.60% |  | 16.60% |
-| 07:00 | NOK | Trade Balance (Sep) | 42.8B |  | 63.4B |
-| 07:45 | EUR | French CPI NSA (MoM) (Sep) | -1.20% |  | -1.20% |
-| 07:45 | EUR | French CPI NSA (YoY) (Sep) | 1.10% |  | 1.20% |
-| 07:45 | EUR | French CPI (YoY) (Sep) | 1.1% | 1.2% | 1.8% |
-| 07:45 | EUR | French HICP (YoY) (Sep) | 1.4% | 1.5% | 1.5% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) | 1.00% |  | 1.70% |
-| 08:00 | EUR | Core CPI (YoY) (Sep) | 2.4% | 2.4% | 2.7% |
-| 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.6% | -0.6% | 0.0% |
-| 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | -0.1% | 0.0% |
-| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 10:00 | EUR | Industrial Production (YoY) (Aug) | 0.1% | -1.0% | -2.1% |
-| 10:20 | GBP | 30-Year Treasury Gilt Auction | 4.735% |  | 4.329% |
-| 10:30 | ZAR | Business Confidence (Aug) | 111.5 |  | 109.1 |
-| 10:30 | ZAR | Business Confidence (Sep) | 110.2 |  | 111.5 |
-| 11:00 | EUR | Reserve Assets Total (Sep) | 1,318.88B |  | 1,288.39B |
-| 13:00 | NZD | GlobalDairyTrade Price Index | -0.3% |  | 1.2% |
-| 13:00 | USD | Milk Auctions | 3,852.0 |  | 3,851.0 |
-| 13:30 | CAD | Common CPI (YoY) (Sep) | 2.1% | 2.1% | 1.9% |
-| 13:30 | CAD | CPI (YoY) (Sep) | 1.6% | 1.8% | 2.0% |
-| 13:30 | CAD | Median CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Sep) | 2.4% | 2.4% | 2.4% |
-| 13:55 | USD | Redbook (YoY) | 5.6% |  | 5.4% |
-| 16:30 | USD | 3-Month Bill Auction | 4.515% |  | 4.550% |
-| 16:30 | USD | 6-Month Bill Auction | 4.270% |  | 4.305% |
-| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 00:00 | KRW | Unemployment Rate (Sep) | 2.5% |  | 2.4% |
+| 24 min | AUD | MI Leading Index (MoM) |  |  | -0.1% |
+| 44 min | JPY | Core Machinery Orders (MoM) (Aug) |  | -0.1% | -0.1% |
+| 44 min | JPY | Core Machinery Orders (YoY) (Aug) |  | 3.6% | 8.7% |
+| 49 min | KRW | Exports (YoY) (Sep) |  |  | 7.5% |
+| 49 min | KRW | Imports (YoY) (Sep) |  |  | 2.2% |
+| 49 min | KRW | Trade Balance (Sep) |  |  | 6.66B |
+| 54 min | AUD | MI Leading Index (MoM) (Sep) |  |  | -0.0% |
+| 03:00 | NZD | RBNZ Offshore Holdings (Sep) |  |  | 56.90% |
+| 04:00 | KRW | M3 Money Supply (Aug) |  |  | 5,519.9B |
+| 04:00 | KRW | M2 Money supply (Aug) |  |  | 5.20% |
+| 07:00 | GBP | Core CPI (YoY) (Sep) |  | 3.4% | 3.6% |
+| 07:00 | GBP | Core CPI (MoM) (Sep) |  | 0.3% | 0.4% |
+| 07:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
+| 07:00 | GBP | Core PPI Output (MoM) (Sep) |  |  | 0.1% |
+| 07:00 | GBP | Core RPI (MoM) (Sep) |  |  | 0.6% |
+| 07:00 | GBP | Core RPI (YoY) (Sep) |  |  | 2.8% |
+| 07:00 | GBP | CPI, n.s.a (Sep) |  |  | 134.30 |
+| 07:00 | GBP | PPI Input (YoY) (Sep) |  |  | -1.2% |
+| 07:00 | GBP | PPI Output (YoY) (Sep) |  | -0.6% | 0.2% |
+| 07:00 | GBP | PPI Output (MoM) (Sep) |  | -0.3% | -0.3% |
+| 07:00 | GBP | RPI (YoY) (Sep) |  | 3.1% | 3.5% |
+| 07:00 | GBP | RPI (MoM) (Sep) |  | 0.1% | 0.6% |
+| 08:20 | IDR | Loans (YoY) (Oct) |  |  | 11.40% |
+| 08:30 | IDR | Deposit Facility Rate (Oct) |  | 5.25% | 5.25% |
+| 08:30 | IDR | Lending Facility Rate (Oct) |  | 6.75% | 6.75% |
+| 09:00 | EUR | Italian CPI (YoY) (Sep) |  | 0.7% | 1.1% |
+| 09:00 | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 0.9% |
+| 09:00 | EUR | Italian HICP (YoY) (Sep) |  | 0.8% | 1.2% |
+| 09:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.2% | -0.2% |
+| 09:30 | GBP | House Price Index (YoY) |  | 2.5% | 2.2% |
+| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 3.814% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.440% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.36% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.1% |
+| 12:00 | USD | MBA Purchase Index |  |  | 149.2 |
+| 12:00 | USD | Mortgage Market Index |  |  | 277.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 997.3 |
+| 12:00 | ZAR | Retail Sales (YoY) (Aug) |  |  | 2.0% |
+| 12:30 | INR | M3 Money Supply |  |  | 10.8% |
+| 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | -0.7% |
+| 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.8% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 1.4% |
+| 14:00 | INR | Exports (USD) (Sep) |  |  | 34.71B |
+| 14:00 | INR | Imports (USD) (Sep) |  |  | 64.36B |
+| 14:00 | INR | Trade Balance (Sep) |  |  | -29.65B |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 15:00 | USD | Milk Auctions |  |  | 3,851.0 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.277B |
