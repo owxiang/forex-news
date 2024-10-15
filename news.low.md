@@ -2,9 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 50 min | KRW | Exports (YoY) (Sep) |  |  | 7.5% |
-| 50 min | KRW | Imports (YoY) (Sep) |  |  | 2.2% |
-| 50 min | KRW | Trade Balance (Sep) |  |  | 6.66B |
 | 05:00 | IDR | Export Growth (YoY) (Sep) |  | 8.00% | 7.13% |
 | 05:00 | IDR | Import Growth (YoY) (Sep) |  | 11.80% | 9.46% |
 | 05:00 | IDR | Trade Balance (Sep) |  | 2.83B | 2.89B |
@@ -17,8 +14,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Sep) |  | 2.4% | 2.7% |
 | 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | -0.6% | -0.6% |
 | 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | -0.1% | -0.1% |
-| 08:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.20% |
 | 08:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
+| 08:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.20% |
 | 08:45 | EUR | French HICP (YoY) (Sep) |  | 1.5% | 1.5% |
 | 08:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 1.70% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
