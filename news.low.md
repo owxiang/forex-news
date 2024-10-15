@@ -25,13 +25,13 @@
 | 10:30 | ZAR | Business Confidence (Aug) | 111.5 |  | 109.1 |
 | 10:30 | ZAR | Business Confidence (Sep) | 110.2 |  | 111.5 |
 | 11:00 | EUR | Reserve Assets Total (Sep) | 1,318.88B |  | 1,288.39B |
+| 13:00 | NZD | GlobalDairyTrade Price Index | -0.3% |  | 1.2% |
+| 13:00 | USD | Milk Auctions | 3,852.0 |  | 3,851.0 |
 | 13:30 | CAD | Common CPI (YoY) (Sep) | 2.1% | 2.1% | 1.9% |
 | 13:30 | CAD | CPI (YoY) (Sep) | 1.6% | 1.8% | 2.0% |
 | 13:30 | CAD | Median CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Sep) | 2.4% | 2.4% | 2.4% |
 | 13:55 | USD | Redbook (YoY) | 5.6% |  | 5.4% |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
-| 15:00 | USD | Milk Auctions |  |  | 3,851.0 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.550% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.305% |
-| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 24 min | USD | 3-Month Bill Auction |  |  | 4.550% |
+| 24 min | USD | 6-Month Bill Auction |  |  | 4.305% |
+| 54 min | ZAR | SARB Monetary Policy Review |  |  |  |
