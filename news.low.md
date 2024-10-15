@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | IDR | Export Growth (YoY) (Sep) | 6.44% | 8.00% | 7.13% |
+| 05:00 | IDR | Export Growth (YoY) (Sep) | 6.44% | 8.00% | 6.56% |
 | 05:00 | IDR | Import Growth (YoY) (Sep) | 8.55% | 11.80% | 9.46% |
-| 05:00 | IDR | Trade Balance (Sep) | 3.26B | 2.83B | 2.89B |
+| 05:00 | IDR | Trade Balance (Sep) | 3.26B | 2.83B | 2.78B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Aug) | -5.3% |  | 2.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.9% | 4.9% | 5.1% |
 | 07:00 | EUR | German WPI (MoM) (Sep) | -0.3% | 0.2% | -0.8% |
@@ -25,16 +25,13 @@
 | 10:30 | ZAR | Business Confidence (Aug) | 111.5 |  | 109.1 |
 | 10:30 | ZAR | Business Confidence (Sep) | 110.2 |  | 111.5 |
 | 11:00 | EUR | Reserve Assets Total (Sep) | 1,318.88B |  | 1,288.39B |
-| 20 min | CAD | Common CPI (YoY) (Sep) |  | 2.1% | 2.0% |
-| 20 min | CAD | CPI (YoY) (Sep) |  | 1.8% | 2.0% |
-| 20 min | CAD | Median CPI (YoY) (Sep) |  | 2.3% | 2.3% |
-| 20 min | CAD | Trimmed CPI (YoY) (Sep) |  | 2.4% | 2.4% |
-| 45 min | USD | Redbook (YoY) |  |  | 5.4% |
-| 50 min | INR | Exports (USD) (Sep) |  |  | 34.71B |
-| 50 min | INR | Imports (USD) (Sep) |  |  | 64.36B |
-| 50 min | INR | Trade Balance (Sep) |  |  | -29.65B |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
-| 15:00 | USD | Milk Auctions |  |  | 3,851.0 |
+| 13:30 | CAD | Common CPI (YoY) (Sep) | 2.1% | 2.1% | 1.9% |
+| 13:30 | CAD | CPI (YoY) (Sep) | 1.6% | 1.8% | 2.0% |
+| 13:30 | CAD | Median CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Sep) | 2.4% | 2.4% | 2.4% |
+| 13:55 | USD | Redbook (YoY) | 5.6% |  | 5.4% |
+| 49 min | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 49 min | USD | Milk Auctions |  |  | 3,851.0 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.550% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.305% |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |

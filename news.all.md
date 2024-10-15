@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | IDR | Low | Export Growth (YoY) (Sep) | 6.44% | 8.00% | 7.13% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Sep) | 6.44% | 8.00% | 6.56% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Sep) | 8.55% | 11.80% | 9.46% |
-| 05:00 | IDR | Low | Trade Balance (Sep) | 3.26B | 2.83B | 2.89B |
+| 05:00 | IDR | Low | Trade Balance (Sep) | 3.26B | 2.83B | 2.78B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Aug) | -5.3% |  | 2.5% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Aug) | -3.3% | -3.3% | -3.3% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Aug) | 4.9% | 4.9% | 5.1% |
@@ -40,26 +40,23 @@
 | 10:30 | ZAR | Low | Business Confidence (Aug) | 111.5 |  | 109.1 |
 | 10:30 | ZAR | Low | Business Confidence (Sep) | 110.2 |  | 111.5 |
 | 11:00 | EUR | Low | Reserve Assets Total (Sep) | 1,318.88B |  | 1,288.39B |
-| 20 min | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | 3.40 | 11.50 |
-| 20 min | CAD | Low | Common CPI (YoY) (Sep) |  | 2.1% | 2.0% |
-| 20 min | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 1.5% |
-| 20 min | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | -0.1% |
-| 20 min | CAD | Moderate | CPI (MoM) (Sep) |  | -0.2% | -0.2% |
-| 20 min | CAD | Low | CPI (YoY) (Sep) |  | 1.8% | 2.0% |
-| 20 min | CAD | Low | Median CPI (YoY) (Sep) |  | 2.3% | 2.3% |
-| 20 min | CAD | Low | Trimmed CPI (YoY) (Sep) |  | 2.4% | 2.4% |
-| 20 min | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  | -1.1% | 0.4% |
-| 45 min | USD | Low | Redbook (YoY) |  |  | 5.4% |
-| 50 min | INR | Low | Exports (USD) (Sep) |  |  | 34.71B |
-| 50 min | INR | Low | Imports (USD) (Sep) |  |  | 64.36B |
-| 50 min | INR | Low | Trade Balance (Sep) |  |  | -29.65B |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.2% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,851.0 |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) | -11.90 | 3.40 | 11.50 |
+| 13:30 | CAD | Low | Common CPI (YoY) (Sep) | 2.1% | 2.1% | 1.9% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Sep) | 1.6% |  | 1.5% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Sep) | 0.0% |  | -0.1% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Sep) | -0.4% | -0.2% | -0.2% |
+| 13:30 | CAD | Low | CPI (YoY) (Sep) | 1.6% | 1.8% | 2.0% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Sep) | 2.3% | 2.3% | 2.3% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Sep) | 2.4% | 2.4% | 2.4% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | -0.6% | -1.1% | 0.3% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.6% |  | 5.4% |
+| 49 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 49 min | USD | Low | Milk Auctions |  |  | 3,851.0 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Sep) |  |  | 3.0% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.550% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.305% |
 | 16:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
-| 22:45 | NZD | Moderate | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
 | 22:45 | NZD | Moderate | CPI (YoY) (Q3) |  | 2.2% | 3.3% |
+| 22:45 | NZD | Moderate | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
