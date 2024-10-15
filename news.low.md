@@ -9,17 +9,17 @@
 | 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.9% | 4.9% | 5.1% |
 | 07:00 | EUR | German WPI (MoM) (Sep) | -0.3% | 0.2% | -0.8% |
 | 07:00 | EUR | German WPI (YoY) (Sep) | -1.6% |  | -1.1% |
-| 07:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 16.60% |
+| 07:00 | IDR | Foreign Direct Investment (YoY) (Q3) | 18.60% |  | 16.60% |
 | 07:00 | NOK | Trade Balance (Sep) | 42.8B |  | 63.4B |
-| 37 min | EUR | French CPI (YoY) (Sep) |  | 1.2% | 1.8% |
-| 52 min | EUR | Core CPI (YoY) (Sep) |  | 2.4% | 2.7% |
-| 52 min | EUR | Spanish CPI (MoM) (Sep) |  | -0.6% | 0.0% |
-| 52 min | EUR | Spanish HICP (MoM) (Sep) |  | -0.1% | 0.0% |
-| 08:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
-| 08:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.20% |
-| 08:45 | EUR | French HICP (YoY) (Sep) |  | 1.5% | 2.2% |
-| 08:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 1.70% |
-| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 07:45 | EUR | French CPI NSA (YoY) (Sep) | 1.10% |  | 1.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Sep) | -1.30% |  | -1.20% |
+| 07:45 | EUR | French CPI (YoY) (Sep) | 1.1% | 1.2% | 1.8% |
+| 07:45 | EUR | French HICP (YoY) (Sep) | 1.4% | 1.5% | 1.5% |
+| 08:00 | EUR | Core CPI (YoY) (Sep) | 2.4% | 2.4% | 2.7% |
+| 08:00 | EUR | Spanish CPI (MoM) (Sep) | -0.6% | -0.6% | 0.0% |
+| 08:00 | EUR | Spanish HICP (MoM) (Sep) | -0.1% | -0.1% | 0.0% |
+| 38 min | EUR | France Inflation Ex-Tobacco (YoY) (Sep) | 1.00% |  | 1.70% |
+| 53 min | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.329% |
 | 10:00 | EUR | Industrial Production (YoY) (Aug) |  | -1.0% | -2.2% |
 | 10:30 | ZAR | Business Confidence (Sep) |  |  | 109.1 |
