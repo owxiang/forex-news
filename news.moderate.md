@@ -14,8 +14,8 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Sep) | 1.7% | 1.7% | 2.4% |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Aug) | 1.8% | 1.8% | -0.5% |
-| 10:00 | EUR | German ZEW Economic Sentiment (Oct) | 13.1 | 10.2 | 3.6 |
 | 10:05 | EUR | German ZEW Current Conditions (Oct) | -86.9 | -84.5 | -84.5 |
+| 10:05 | EUR | German ZEW Economic Sentiment (Oct) | 13.1 | 10.2 | 3.6 |
 | 10:05 | EUR | ZEW Economic Sentiment (Oct) | 20.1 | 16.9 | 9.3 |
 | 13:30 | USD | NY Empire State Manufacturing Index (Oct) |  | 3.40 | 11.50 |
 | 13:30 | CAD | Core CPI (MoM) (Sep) |  |  | -0.1% |
