@@ -22,8 +22,8 @@
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:00 | EUR | Industrial Production (YoY) (Aug) | 0.1% | -1.0% | -2.1% |
 | 10:20 | GBP | 30-Year Treasury Gilt Auction | 4.735% |  | 4.329% |
-| 10:30 | ZAR | Business Confidence (Aug) | 111.5 |  | 109.1 |
 | 10:30 | ZAR | Business Confidence (Sep) | 110.2 |  | 111.5 |
+| 10:30 | ZAR | Business Confidence (Aug) | 111.5 |  | 109.1 |
 | 11:00 | EUR | Reserve Assets Total (Sep) | 1,318.88B |  | 1,288.39B |
 | 13:00 | NZD | GlobalDairyTrade Price Index | -0.3% |  | 1.2% |
 | 13:00 | USD | Milk Auctions | 3,852.0 |  | 3,851.0 |
