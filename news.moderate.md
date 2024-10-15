@@ -24,5 +24,5 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Aug) | -0.6% | -1.1% | 0.3% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Sep) | 3.0% |  | 3.0% |
 | 16:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 22:45 | NZD | CPI (YoY) (Q3) |  | 2.2% | 3.3% |
-| 22:45 | NZD | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
+| 39 min | NZD | CPI (QoQ) (Q3) |  | 0.7% | 0.4% |
+| 39 min | NZD | CPI (YoY) (Q3) |  | 2.2% | 3.3% |
