@@ -6,17 +6,17 @@
 | 05:00 | IDR | Import Growth (YoY) (Sep) | 8.55% | 11.80% | 9.46% |
 | 05:00 | IDR | Trade Balance (Sep) | 3.26B | 2.83B | 2.89B |
 | 05:30 | JPY | Capacity Utilization (MoM) (Aug) | -5.3% |  | 2.5% |
-| 53 min | GBP | Average Earnings ex Bonus (Aug) |  | 4.9% | 5.1% |
-| 53 min | EUR | German WPI (MoM) (Sep) |  | 0.2% | -0.8% |
-| 53 min | EUR | German WPI (YoY) (Sep) |  |  | -1.1% |
-| 53 min | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 16.60% |
-| 53 min | NOK | Trade Balance (Sep) |  |  | 66.0B |
-| 07:45 | EUR | French CPI (YoY) (Sep) |  | 1.2% | 1.8% |
-| 08:00 | EUR | Core CPI (YoY) (Sep) |  | 2.4% | 2.7% |
-| 08:00 | EUR | Spanish CPI (MoM) (Sep) |  | -0.6% | 0.0% |
-| 08:00 | EUR | Spanish HICP (MoM) (Sep) |  | -0.1% | 0.0% |
-| 08:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.20% |
+| 07:00 | GBP | Average Earnings ex Bonus (Aug) | 4.9% | 4.9% | 5.1% |
+| 07:00 | EUR | German WPI (MoM) (Sep) | -0.3% | 0.2% | -0.8% |
+| 07:00 | EUR | German WPI (YoY) (Sep) | -1.6% |  | -1.1% |
+| 07:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 16.60% |
+| 07:00 | NOK | Trade Balance (Sep) | 42.8B |  | 63.4B |
+| 37 min | EUR | French CPI (YoY) (Sep) |  | 1.2% | 1.8% |
+| 52 min | EUR | Core CPI (YoY) (Sep) |  | 2.4% | 2.7% |
+| 52 min | EUR | Spanish CPI (MoM) (Sep) |  | -0.6% | 0.0% |
+| 52 min | EUR | Spanish HICP (MoM) (Sep) |  | -0.1% | 0.0% |
 | 08:45 | EUR | French CPI NSA (YoY) (Sep) |  |  | 1.20% |
+| 08:45 | EUR | French CPI NSA (MoM) (Sep) |  |  | -1.20% |
 | 08:45 | EUR | French HICP (YoY) (Sep) |  | 1.5% | 2.2% |
 | 08:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 1.70% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
