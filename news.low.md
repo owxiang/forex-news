@@ -3,28 +3,24 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Sep) | 2.5% |  | 2.4% |
-| 24 min | AUD | MI Leading Index (MoM) |  |  | -0.1% |
-| 44 min | JPY | Core Machinery Orders (MoM) (Aug) |  | -0.1% | -0.1% |
-| 44 min | JPY | Core Machinery Orders (YoY) (Aug) |  | 3.6% | 8.7% |
-| 49 min | KRW | Exports (YoY) (Sep) |  |  | 7.5% |
-| 49 min | KRW | Imports (YoY) (Sep) |  |  | 2.2% |
-| 49 min | KRW | Trade Balance (Sep) |  |  | 6.66B |
-| 54 min | AUD | MI Leading Index (MoM) (Sep) |  |  | -0.0% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Aug) | -3.4% | 3.6% | 8.7% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Aug) | -1.9% | -0.1% | -0.1% |
+| 01:00 | AUD | MI Leading Index (MoM) (Sep) | 0.0% |  | -0.0% |
 | 03:00 | NZD | RBNZ Offshore Holdings (Sep) |  |  | 56.90% |
 | 04:00 | KRW | M3 Money Supply (Aug) |  |  | 5,519.9B |
 | 04:00 | KRW | M2 Money supply (Aug) |  |  | 5.20% |
 | 07:00 | GBP | Core CPI (YoY) (Sep) |  | 3.4% | 3.6% |
 | 07:00 | GBP | Core CPI (MoM) (Sep) |  | 0.3% | 0.4% |
-| 07:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) |  |  | 0.1% |
+| 07:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
 | 07:00 | GBP | Core RPI (MoM) (Sep) |  |  | 0.6% |
 | 07:00 | GBP | Core RPI (YoY) (Sep) |  |  | 2.8% |
 | 07:00 | GBP | CPI, n.s.a (Sep) |  |  | 134.30 |
 | 07:00 | GBP | PPI Input (YoY) (Sep) |  |  | -1.2% |
 | 07:00 | GBP | PPI Output (YoY) (Sep) |  | -0.6% | 0.2% |
 | 07:00 | GBP | PPI Output (MoM) (Sep) |  | -0.3% | -0.3% |
-| 07:00 | GBP | RPI (YoY) (Sep) |  | 3.1% | 3.5% |
 | 07:00 | GBP | RPI (MoM) (Sep) |  | 0.1% | 0.6% |
+| 07:00 | GBP | RPI (YoY) (Sep) |  | 3.1% | 3.5% |
 | 08:20 | IDR | Loans (YoY) (Oct) |  |  | 11.40% |
 | 08:30 | IDR | Deposit Facility Rate (Oct) |  | 5.25% | 5.25% |
 | 08:30 | IDR | Lending Facility Rate (Oct) |  | 6.75% | 6.75% |

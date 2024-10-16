@@ -4,32 +4,28 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 00:00 | KRW | Low | Unemployment Rate (Sep) | 2.5% |  | 2.4% |
-| 24 min | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
-| 44 min | JPY | Low | Core Machinery Orders (MoM) (Aug) |  | -0.1% | -0.1% |
-| 44 min | JPY | Low | Core Machinery Orders (YoY) (Aug) |  | 3.6% | 8.7% |
-| 49 min | KRW | Low | Exports (YoY) (Sep) |  |  | 7.5% |
-| 49 min | KRW | Low | Imports (YoY) (Sep) |  |  | 2.2% |
-| 49 min | KRW | Low | Trade Balance (Sep) |  |  | 6.66B |
-| 54 min | AUD | Low | MI Leading Index (MoM) (Sep) |  |  | -0.0% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Aug) | -3.4% | 3.6% | 8.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | -1.9% | -0.1% | -0.1% |
+| 01:00 | AUD | Low | MI Leading Index (MoM) (Sep) | 0.0% |  | -0.0% |
 | 02:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
 | 03:00 | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 56.90% |
 | 04:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 5,519.9B |
 | 04:00 | KRW | Low | M2 Money supply (Aug) |  |  | 5.20% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Sep) |  | 3.4% | 3.6% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) |  | 0.3% | 0.4% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | 0.1% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.6% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Sep) |  |  | 2.8% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) |  |  | 134.30 |
 | 07:00 | GBP | Low | PPI Input (YoY) (Sep) |  |  | -1.2% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) |  | -0.5% | -0.5% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Sep) |  | -0.6% | 0.2% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Sep) |  | -0.3% | -0.3% |
-| 07:00 | GBP | Low | RPI (YoY) (Sep) |  | 3.1% | 3.5% |
 | 07:00 | GBP | Low | RPI (MoM) (Sep) |  | 0.1% | 0.6% |
+| 07:00 | GBP | Low | RPI (YoY) (Sep) |  | 3.1% | 3.5% |
 | 08:20 | IDR | Low | Loans (YoY) (Oct) |  |  | 11.40% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Oct) |  | 5.25% | 5.25% |
@@ -51,8 +47,8 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Aug) |  |  | 2.0% |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
 | 13:15 | CAD | Moderate | Housing Starts (Sep) |  | 235.0K | 217.4K |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | -0.4% | -0.7% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Sep) |  |  | -0.7% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | -0.4% | -0.7% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | -0.3% | -0.3% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Sep) |  |  | 0.8% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 1.4% |
