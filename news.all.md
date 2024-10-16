@@ -13,12 +13,12 @@
 | 04:00 | KRW | Low | M2 Money supply (Aug) | 5.30% |  | 5.20% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) | 0.1% | 0.3% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Sep) | 3.2% | 3.4% | 3.6% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.0% |  | 0.0% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 1.4% |  | 1.3% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.0% |  | 0.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Sep) | -0.4% |  | 0.6% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Sep) | 2.0% |  | 2.8% |
-| 07:00 | GBP | High | CPI (YoY) (Sep) | 1.7% | 1.9% | 2.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.0% | 0.1% | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Sep) | 1.7% | 1.9% | 2.2% |
 | 07:00 | GBP | Low | CPI, n.s.a (Sep) | 134.20 |  | 134.30 |
 | 07:00 | GBP | Moderate | CPIH (YoY) (Sep) | 2.6% |  | 3.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Sep) | -2.3% | -2.2% | -1.0% |
@@ -56,7 +56,6 @@
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Sep) | -0.4% | -0.3% | -0.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | -1.3% | -1.5% | 1.4% |
 | 13:30 | ZAR | Low | Retail Sales (YoY) (Aug) | 3.2% |  | 1.7% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.695B |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 61.0B | -380.0B |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -0.695B |
 | 19:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 3.200M | 10.900M |
