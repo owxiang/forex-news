@@ -21,16 +21,16 @@
 | 07:00 | GBP | PPI Output (MoM) (Sep) | -0.5% | -0.3% | -0.3% |
 | 07:00 | GBP | RPI (MoM) (Sep) | -0.3% | 0.1% | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Sep) | 2.7% | 3.1% | 3.5% |
-| 14 min | IDR | Loans (YoY) (Oct) |  |  | 11.40% |
-| 24 min | IDR | Deposit Facility Rate (Oct) |  | 5.25% | 5.25% |
-| 24 min | IDR | Lending Facility Rate (Oct) |  | 6.75% | 6.75% |
-| 54 min | EUR | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
-| 54 min | EUR | Italian CPI (YoY) (Sep) |  | 0.7% | 1.1% |
-| 54 min | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 0.9% |
-| 54 min | EUR | Italian HICP (MoM) (Sep) |  | 1.2% | -0.2% |
-| 54 min | EUR | Italian HICP (YoY) (Sep) |  | 0.8% | 1.2% |
-| 09:30 | GBP | House Price Index (YoY) |  | 2.5% | 2.2% |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 3.814% |
+| 08:30 | IDR | Deposit Facility Rate (Oct) | 5.25% | 5.25% | 5.25% |
+| 08:30 | IDR | Lending Facility Rate (Oct) | 6.75% | 6.75% | 6.75% |
+| 08:30 | IDR | Loans (YoY) (Sep) | 10.85% |  | 11.40% |
+| 09:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.7% | 1.1% |
+| 09:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 0.6% |  | 0.9% |
+| 09:00 | EUR | Italian HICP (YoY) (Sep) | 0.7% | 0.8% | 0.8% |
+| 09:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% | 1.2% | 1.2% |
+| 22 min | GBP | House Price Index (YoY) |  | 2.5% | 2.2% |
+| 52 min | GBP | 7-Year Treasury Gilt Auction |  |  | 3.814% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.440% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.36% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.1% |
