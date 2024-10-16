@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | GBP | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 07:00 | GBP | CPI (YoY) (Sep) | 1.7% | 1.9% | 2.2% |
