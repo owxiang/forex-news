@@ -13,8 +13,8 @@
 | 07:00 | GBP | Core CPI (MoM) (Sep) | 0.1% | 0.3% | 0.4% |
 | 07:00 | GBP | Core PPI Output (YoY) (Sep) | 1.4% |  | 1.3% |
 | 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.0% |  | 0.0% |
-| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.6% |
 | 07:00 | GBP | Core RPI (YoY) (Sep) | 2.0% |  | 2.8% |
+| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.6% |
 | 07:00 | GBP | CPI, n.s.a (Sep) | 134.20 |  | 134.30 |
 | 07:00 | GBP | PPI Input (YoY) (Sep) | -2.3% | -2.2% | -1.0% |
 | 07:00 | GBP | PPI Output (YoY) (Sep) | -0.7% | -0.6% | 0.3% |
@@ -41,8 +41,8 @@
 | 12:00 | USD | Mortgage Market Index | 230.2 |  | 277.5 |
 | 12:00 | USD | Mortgage Refinance Index | 734.6 |  | 997.3 |
 | 12:30 | INR | M3 Money Supply | 11.0% |  | 10.8% |
-| 20 min | USD | Export Price Index (YoY) (Sep) |  |  | -0.7% |
-| 20 min | USD | Import Price Index (YoY) (Sep) |  |  | 0.8% |
-| 20 min | CAD | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 1.4% |
-| 20 min | ZAR | Retail Sales (YoY) (Aug) |  |  | 2.0% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.277B |
+| 13:30 | USD | Export Price Index (YoY) (Sep) | -2.1% |  | -0.7% |
+| 13:30 | USD | Import Price Index (YoY) (Sep) | -0.1% |  | 0.8% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Aug) | -1.3% | -1.5% | 1.4% |
+| 13:30 | ZAR | Retail Sales (YoY) (Aug) | 3.2% |  | 1.7% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.695B |
