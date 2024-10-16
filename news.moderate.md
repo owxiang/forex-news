@@ -8,7 +8,7 @@
 | 07:00 | GBP | CPIH (YoY) (Sep) | 2.6% |  | 3.1% |
 | 07:00 | GBP | PPI Input (MoM) (Sep) | -1.0% | -0.5% | -0.3% |
 | 08:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
-| 11:20 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 14 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (Sep) |  | 235.0K | 217.4K |
 | 13:30 | USD | Export Price Index (MoM) (Sep) |  | -0.4% | -0.7% |
 | 13:30 | USD | Import Price Index (MoM) (Sep) |  | -0.3% | -0.3% |
