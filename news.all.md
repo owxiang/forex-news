@@ -58,4 +58,4 @@
 | 13:30 | ZAR | Low | Retail Sales (YoY) (Aug) | 3.2% |  | 1.7% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 3.246B |  | -0.277B |
 | 19:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 3.200M | 10.900M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | 3.200M | 10.900M |
