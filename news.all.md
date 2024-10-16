@@ -4,34 +4,34 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 00:00 | KRW | Low | Unemployment Rate (Sep) | 2.5% |  | 2.4% |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | -1.9% | -0.1% | -0.1% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Aug) | -3.4% | 3.6% | 8.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | -1.9% | -0.1% | -0.1% |
 | 01:00 | AUD | Low | MI Leading Index (MoM) (Sep) | 0.0% |  | -0.0% |
 | 02:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
 | 03:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 58.30% |  | 56.90% |
 | 04:00 | KRW | Low | M3 Money Supply (Aug) | 5,515.1B |  | 5,519.7B |
 | 04:00 | KRW | Low | M2 Money supply (Aug) | 5.30% |  | 5.20% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Sep) |  | 3.4% | 3.6% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Sep) |  | 0.3% | 0.4% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | 0.1% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.6% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Sep) |  |  | 2.8% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 07:00 | GBP | High | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
-| 07:00 | GBP | Low | CPI, n.s.a (Sep) |  |  | 134.30 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Sep) |  | -0.5% | -0.5% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Sep) |  | -2.2% | -1.2% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Sep) |  | -0.6% | 0.2% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Sep) |  | -0.3% | -0.3% |
-| 07:00 | GBP | Low | RPI (YoY) (Sep) |  | 3.1% | 3.5% |
-| 07:00 | GBP | Low | RPI (MoM) (Sep) |  | 0.1% | 0.6% |
+| 54 min | GBP | Low | Core CPI (YoY) (Sep) |  | 3.4% | 3.6% |
+| 54 min | GBP | Low | Core CPI (MoM) (Sep) |  | 0.3% | 0.4% |
+| 54 min | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | 0.1% |
+| 54 min | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
+| 54 min | GBP | Low | Core RPI (YoY) (Sep) |  |  | 2.8% |
+| 54 min | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.6% |
+| 54 min | GBP | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.3% |
+| 54 min | GBP | High | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 54 min | GBP | Low | CPI, n.s.a (Sep) |  |  | 134.30 |
+| 54 min | GBP | Low | PPI Input (YoY) (Sep) |  | -2.2% | -1.2% |
+| 54 min | GBP | Moderate | PPI Input (MoM) (Sep) |  | -0.5% | -0.5% |
+| 54 min | GBP | Low | PPI Output (MoM) (Sep) |  | -0.3% | -0.3% |
+| 54 min | GBP | Low | PPI Output (YoY) (Sep) |  | -0.6% | 0.2% |
+| 54 min | GBP | Low | RPI (MoM) (Sep) |  | 0.1% | 0.6% |
+| 54 min | GBP | Low | RPI (YoY) (Sep) |  | 3.1% | 3.5% |
 | 08:20 | IDR | Low | Loans (YoY) (Oct) |  |  | 11.40% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Oct) |  | 5.25% | 5.25% |
 | 08:30 | IDR | Low | Lending Facility Rate (Oct) |  | 6.75% | 6.75% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 0.7% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | -0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 0.7% | 1.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.2% | -0.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 0.8% | 1.2% |
