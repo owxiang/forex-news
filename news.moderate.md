@@ -13,4 +13,4 @@
 | 13:30 | USD | Export Price Index (MoM) (Sep) | -0.7% | -0.4% | -0.9% |
 | 13:30 | USD | Import Price Index (MoM) (Sep) | -0.4% | -0.3% | -0.2% |
 | 19:40 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | API Weekly Crude Oil Stock |  | 3.200M | 10.900M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -1.580M | 3.200M | 10.900M |
