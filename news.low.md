@@ -1,48 +1,52 @@
-## 16 October 2024 - Low Impact Forex News
+## 17 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Unemployment Rate (Sep) | 2.5% |  | 2.4% |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Aug) | -1.9% | -0.1% | -0.1% |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Aug) | -3.4% | 3.6% | 8.7% |
-| 01:00 | AUD | MI Leading Index (MoM) (Sep) | 0.0% |  | -0.0% |
-| 03:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.30% |  | 56.90% |
-| 04:00 | KRW | M3 Money Supply (Aug) | 5,515.1B |  | 5,519.7B |
-| 04:00 | KRW | M2 Money supply (Aug) | 5.30% |  | 5.20% |
-| 07:00 | GBP | Core CPI (YoY) (Sep) | 3.2% | 3.4% | 3.6% |
-| 07:00 | GBP | Core CPI (MoM) (Sep) | 0.1% | 0.3% | 0.4% |
-| 07:00 | GBP | Core PPI Output (YoY) (Sep) | 1.4% |  | 1.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Sep) | 0.0% |  | 0.0% |
-| 07:00 | GBP | Core RPI (MoM) (Sep) | -0.4% |  | 0.6% |
-| 07:00 | GBP | Core RPI (YoY) (Sep) | 2.0% |  | 2.8% |
-| 07:00 | GBP | CPI, n.s.a (Sep) | 134.20 |  | 134.30 |
-| 07:00 | GBP | PPI Input (YoY) (Sep) | -2.3% | -2.2% | -1.0% |
-| 07:00 | GBP | PPI Output (YoY) (Sep) | -0.7% | -0.6% | 0.3% |
-| 07:00 | GBP | PPI Output (MoM) (Sep) | -0.5% | -0.3% | -0.3% |
-| 07:00 | GBP | RPI (YoY) (Sep) | 2.7% | 3.1% | 3.5% |
-| 07:00 | GBP | RPI (MoM) (Sep) | -0.3% | 0.1% | 0.6% |
-| 08:30 | IDR | Deposit Facility Rate (Oct) | 5.25% | 5.25% | 5.25% |
-| 08:30 | IDR | Lending Facility Rate (Oct) | 6.75% | 6.75% | 6.75% |
-| 08:30 | IDR | Loans (YoY) (Sep) | 10.85% |  | 11.40% |
-| 09:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
-| 09:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.7% | 1.1% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 0.6% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (YoY) (Sep) | 0.7% | 0.8% | 1.2% |
-| 09:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% | 1.2% | -0.2% |
-| 09:30 | GBP | House Price Index (YoY) | 2.8% | 2.5% | 2.2% |
-| 09:35 | INR | Exports (USD) (Sep) | 34.58B |  | 34.71B |
-| 09:35 | INR | Imports (USD) (Sep) | 55.36B |  | 64.36B |
-| 09:35 | INR | Trade Balance (Sep) | -20.78B |  | -29.65B |
-| 10:10 | GBP | 7-Year Treasury Gilt Auction | 3.988% |  | 3.814% |
-| 10:40 | EUR | German 30-Year Bund Auction | 2.490% |  | 2.440% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.52% |  | 6.36% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -17.0% |  | -5.1% |
-| 12:00 | USD | MBA Purchase Index | 138.4 |  | 149.2 |
-| 12:00 | USD | Mortgage Market Index | 230.2 |  | 277.5 |
-| 12:00 | USD | Mortgage Refinance Index | 734.6 |  | 997.3 |
-| 12:30 | INR | M3 Money Supply | 11.0% |  | 10.8% |
-| 13:30 | USD | Export Price Index (YoY) (Sep) | -2.1% |  | -0.7% |
-| 13:30 | USD | Import Price Index (YoY) (Sep) | -0.1% |  | 0.8% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Aug) | -1.3% | -1.5% | 1.4% |
-| 13:30 | ZAR | Retail Sales (YoY) (Aug) | 3.2% |  | 1.7% |
-| 18:30 | BRL | Foreign Exchange Flows | 3.246B |  | -0.277B |
+| 45 min | JPY | Imports (YoY) (Sep) |  | 3.2% | 2.3% |
+| 01:30 | AUD | NAB Quarterly Business Confidence |  |  | -1 |
+| 01:30 | AUD | Participation Rate (Sep) |  | 67.1% | 67.1% |
+| 01:30 | AUD | RBA Bulletin |  |  |  |
+| 01:30 | AUD | Reserve Assets Total (Sep) |  |  | 93.1B |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) |  |  | -4.70% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Sep) |  | 9.50% | 10.70% |
+| 02:30 | SGD | Trade Balance (Sep) |  |  | 5.900B |
+| 05:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
+| 07:00 | CHF | Trade Balance (Sep) |  | 4.850B | 4.578B |
+| 07:00 | NOK | Industrial Confidence (Q3) |  |  | 3.9 |
+| 10:00 | EUR | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
+| 10:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 0.64B |
+| 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
+| 10:00 | EUR | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 231.00K |
+| 13:30 | USD | Philly Fed Business Conditions (Oct) |  |  | 15.8 |
+| 13:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 25.00 |
+| 13:30 | USD | Philly Fed New Orders (Oct) |  |  | -1.5 |
+| 13:30 | USD | Philly Fed Prices Paid (Oct) |  |  | 34.00 |
+| 13:30 | USD | Retail Sales (YoY) (Sep) |  |  | 2.13% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Aug) |  |  | 4.450B |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 169.0K |
+| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.9% | 78.0% |
+| 14:15 | USD | Manufacturing Production (MoM) (Sep) |  | -0.1% | 0.9% |
+| 15:00 | USD | NAHB Housing Market Index (Oct) |  | 43 | 41 |
+| 15:30 | USD | Natural Gas Storage |  | 80B | 82B |
+| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.101M |
+| 16:00 | USD | Crude Oil Imports |  |  | -0.305M |
+| 16:00 | USD | Distillate Fuel Production |  |  | 0.194M |
+| 16:00 | USD | EIA Weekly Distillates Stocks |  | -2.500M | -3.124M |
+| 16:00 | USD | Gasoline Production |  |  | 0.627M |
+| 16:00 | USD | Heating Oil Stockpiles |  |  | 0.497M |
+| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
+| 16:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 16:00 | USD | Gasoline Inventories |  | -1.400M | -6.304M |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.750% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.640% |
+| 21:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 55.90B |
+| 21:00 | USD | Overall Net Capital Flow (Aug) |  |  | 156.50B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 135.40B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.197T |
