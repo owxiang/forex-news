@@ -26,12 +26,15 @@
 | 08:30 | IDR | Loans (YoY) (Sep) | 10.85% |  | 11.40% |
 | 09:00 | EUR | Italian CPI (YoY) (Sep) | 0.7% | 0.7% | 1.1% |
 | 09:00 | EUR | Italian CPI (MoM) (Sep) | -0.2% | -0.2% | 0.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 0.6% |  | 0.9% |
-| 09:00 | EUR | Italian HICP (YoY) (Sep) | 0.7% | 0.8% | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% | 1.2% | 1.2% |
-| 22 min | GBP | House Price Index (YoY) |  | 2.5% | 2.2% |
-| 52 min | GBP | 7-Year Treasury Gilt Auction |  |  | 3.814% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.440% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 0.6% |  | 0.8% |
+| 09:00 | EUR | Italian HICP (YoY) (Sep) | 0.7% | 0.8% | 1.2% |
+| 09:00 | EUR | Italian HICP (MoM) (Sep) | 1.2% | 1.2% | -0.2% |
+| 09:30 | GBP | House Price Index (YoY) | 2.8% | 2.5% | 2.2% |
+| 09:35 | INR | Exports (USD) (Sep) | 34.58B |  | 34.71B |
+| 09:35 | INR | Imports (USD) (Sep) | 55.36B |  | 64.36B |
+| 09:35 | INR | Trade Balance (Sep) | -20.78B |  | -29.65B |
+| 14 min | GBP | 7-Year Treasury Gilt Auction |  |  | 3.814% |
+| 24 min | EUR | German 30-Year Bund Auction |  |  | 2.440% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.36% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.1% |
 | 12:00 | USD | MBA Purchase Index |  |  | 149.2 |
@@ -42,7 +45,4 @@
 | 13:30 | USD | Export Price Index (YoY) (Sep) |  |  | -0.7% |
 | 13:30 | USD | Import Price Index (YoY) (Sep) |  |  | 0.8% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Aug) |  | -1.5% | 1.4% |
-| 14:00 | INR | Exports (USD) (Sep) |  |  | 34.71B |
-| 14:00 | INR | Imports (USD) (Sep) |  |  | 64.36B |
-| 14:00 | INR | Trade Balance (Sep) |  |  | -29.65B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.277B |
