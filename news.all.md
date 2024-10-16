@@ -4,17 +4,17 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 00:00 | KRW | Low | Unemployment Rate (Sep) | 2.5% |  | 2.4% |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | -1.9% | -0.1% | -0.1% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Aug) | -3.4% | 3.6% | 8.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | -1.9% | -0.1% | -0.1% |
 | 01:00 | AUD | Low | MI Leading Index (MoM) (Sep) | 0.0% |  | -0.0% |
 | 02:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
 | 03:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 58.30% |  | 56.90% |
-| 31 min | KRW | Low | M3 Money Supply (Aug) |  |  | 5,519.9B |
-| 31 min | KRW | Low | M2 Money supply (Aug) |  |  | 5.20% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Sep) |  | 3.4% | 3.6% |
+| 04:00 | KRW | Low | M3 Money Supply (Aug) | 5,515.1B |  | 5,519.7B |
+| 04:00 | KRW | Low | M2 Money supply (Aug) | 5.30% |  | 5.20% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Sep) |  | 0.3% | 0.4% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Sep) |  | 3.4% | 3.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | 0.1% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.3% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Sep) |  |  | 2.8% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.6% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Sep) |  | 0.2% | 0.3% |
