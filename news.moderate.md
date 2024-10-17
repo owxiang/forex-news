@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | JPY | Adjusted Trade Balance |  | -0.49T | -0.60T |
-| 45 min | JPY | Exports (YoY) (Sep) |  | 0.5% | 5.6% |
-| 45 min | JPY | Trade Balance (Sep) |  | -237.6B | -695.3B |
-| 01:30 | AUD | Employment Change (Sep) |  | 25.2K | 47.5K |
-| 01:30 | AUD | Full Employment Change (Sep) |  |  | -3.1K |
-| 01:30 | AUD | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
+| 00:50 | JPY | Adjusted Trade Balance | -0.19T | -0.49T | -0.47T |
+| 00:50 | JPY | Exports (YoY) (Sep) | -1.7% | 0.5% | 5.5% |
+| 00:50 | JPY | Trade Balance (Sep) | -294.3B | -237.6B | -703.2B |
+| 5 min | AUD | Employment Change (Sep) |  | 25.2K | 47.5K |
+| 5 min | AUD | Full Employment Change (Sep) |  |  | -3.1K |
+| 5 min | AUD | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
 | 09:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | CPI (MoM) (Sep) |  | -0.1% | 0.1% |
@@ -20,8 +20,8 @@
 | 13:30 | USD | Philly Fed Employment (Oct) |  |  | 10.7 |
 | 13:30 | USD | Retail Control (MoM) (Sep) |  |  | 0.3% |
 | 13:30 | CAD | Foreign Securities Purchases (Aug) |  | 9.50B | 10.98B |
-| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.04% |
 | 14:15 | USD | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.04% |
 | 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.3% | 0.4% |
 | 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.4% | 0.5% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
