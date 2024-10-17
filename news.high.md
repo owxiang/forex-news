@@ -10,4 +10,4 @@
 | 13:30 | USD | Philadelphia Fed Manufacturing Index (Oct) | 10.3 | 4.2 | 1.7 |
 | 13:30 | USD | Retail Sales (MoM) (Sep) | 0.4% | 0.3% | 0.1% |
 | 13:45 | EUR | ECB Press Conference |  |  |  |
-| 16:00 | USD | Crude Oil Inventories |  | 1.800M | 5.810M |
+| 54 min | USD | Crude Oil Inventories |  | 1.800M | 5.810M |
