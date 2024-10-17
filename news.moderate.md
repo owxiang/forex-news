@@ -27,7 +27,7 @@
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | USD | Cushing Crude Oil Inventories | 0.108M |  | 1.247M |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.2% | 3.2% |
-| 19:00 | USD | Federal Budget Balance (Sep) |  | 4.5B | -380.0B |
+| 55 min | USD | Federal Budget Balance (Sep) |  | 4.5B | -380.0B |
 | 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Aug) |  |  | 135.4B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,047B |
