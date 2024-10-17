@@ -1,32 +1,38 @@
-## 17 October 2024 - Moderate Impact Forex News
+## 18 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.19T | -0.49T | -0.47T |
-| 00:50 | JPY | Exports (YoY) (Sep) | -1.7% | 0.5% | 5.5% |
-| 00:50 | JPY | Trade Balance (Sep) | -294.3B | -237.6B | -703.2B |
-| 01:30 | AUD | Employment Change (Sep) | 64.1K | 25.2K | 42.6K |
-| 01:30 | AUD | Full Employment Change (Sep) | 51.6K |  | -5.9K |
-| 01:30 | AUD | Unemployment Rate (Sep) | 4.1% | 4.2% | 4.1% |
-| 09:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
-| 10:00 | EUR | CPI (MoM) (Sep) | -0.1% | -0.1% | 0.1% |
-| 10:00 | EUR | Trade Balance (Aug) | 4.6B | 17.8B | 19.7B |
-| 10:45 | EUR | ECB McCaul Speaks |  |  |  |
+| 24 min | JPY | National Core CPI (YoY) (Sep) |  | 2.3% | 2.8% |
+| 24 min | JPY | National CPI (MoM) |  |  | 0.5% |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Sep) |  | 3.3% | 3.4% |
+| 03:00 | CNY | GDP (QoQ) (Q3) |  | 1.0% | 0.7% |
+| 03:00 | CNY | Chinese GDP YTD (YoY) (Q3) |  |  | 5.0% |
+| 03:00 | CNY | Industrial Production (YoY) (Sep) |  | 4.6% | 4.5% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 5.8% |
+| 03:00 | CNY | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 07:00 | GBP | Core Retail Sales (MoM) (Sep) |  | -0.3% | 1.1% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Sep) |  | 3.2% | 2.3% |
+| 07:00 | GBP | Retail Sales (MoM) (Sep) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Retail Sales (YoY) (Sep) |  | 3.2% | 2.5% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
-| 13:15 | EUR | ECB Marginal Lending Facility | 3.65% |  | 3.90% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,867K | 1,870K | 1,858K |
-| 13:30 | USD | Philly Fed Employment (Oct) | -2.2 |  | 10.7 |
-| 13:30 | USD | Retail Control (MoM) (Sep) | 0.7% |  | 0.3% |
-| 13:30 | CAD | Foreign Securities Purchases (Aug) | 9.97B | 9.50B | 10.97B |
-| 14:15 | USD | Industrial Production (MoM) (Sep) | -0.3% | -0.1% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Sep) | -0.64% |  | -0.16% |
-| 15:00 | USD | Business Inventories (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
-| 15:00 | USD | Retail Inventories Ex Auto (Aug) | 0.5% | 0.4% | 0.4% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | USD | Cushing Crude Oil Inventories | 0.108M |  | 1.247M |
-| 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.2% | 3.2% |
-| 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Aug) | 111.4B |  | 137.9B |
-| 21:30 | USD | Fed's Balance Sheet | 7,039B |  | 7,047B |
+| 13:30 | USD | Building Permits (Sep) |  | 1.450M | 1.470M |
+| 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | 9.6% |
+| 13:30 | USD | Housing Starts (Sep) |  | 1.350M | 1.356M |
+| 14:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
+| 17:10 | USD | Fed Waller Speaks |  |  |  |
+| 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | 4.5B | -380.0B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 93.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 190.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 278.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 13.3K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -5.6K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 33.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -10.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 36.5K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 39.1K |
