@@ -16,8 +16,8 @@
 | 10:00 | EUR | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
 | 10:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 0.64B |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |

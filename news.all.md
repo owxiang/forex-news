@@ -26,8 +26,8 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  | -0.1% | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
@@ -50,8 +50,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | -1.5 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 34.00 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.13% |
 | 13:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 0.1% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.13% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 9.50B | 10.98B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 4.450B |
