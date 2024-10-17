@@ -11,8 +11,8 @@
 | 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
 | 02:30 | SGD | Trade Balance (Sep) | 5.250B |  | 6.020B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Aug) | -2.90 |  | 3.40 |
-| 54 min | CHF | Trade Balance (Sep) |  | 4.850B | 4.578B |
-| 54 min | NOK | Industrial Confidence (Q3) |  |  | 3.9 |
+| 07:00 | CHF | Trade Balance (Sep) | 4.946B | 4.850B | 4.744B |
+| 07:00 | NOK | Industrial Confidence (Q3) | 1.5 |  | 3.5 |
 | 09:50 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.040% |
 | 09:50 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.692% |
 | 10:00 | EUR | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
