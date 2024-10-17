@@ -51,4 +51,4 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Aug) | 19.20B |  | 55.90B |
 | 21:00 | USD | Overall Net Capital Flow (Aug) | 79.20B |  | 159.10B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) | 111.40B |  | 137.90B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.197T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.197T |

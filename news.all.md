@@ -22,8 +22,8 @@
 | 09:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Aug) | 1.431B | 5.550B | 6.817B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Aug) | -1.36B |  | 0.72B |
-| 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 1.7% | 1.8% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% | -0.1% | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
@@ -87,5 +87,5 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Aug) | 79.20B |  | 159.10B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) | 111.4B |  | 137.9B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) | 111.40B |  | 137.90B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,047B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.197T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,039B |  | 7,047B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.197T |

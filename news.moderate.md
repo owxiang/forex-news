@@ -29,4 +29,4 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.2% | 3.2% |
 | 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Aug) | 111.4B |  | 137.9B |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,047B |
+| 21:30 | USD | Fed's Balance Sheet | 7,039B |  | 7,047B |
