@@ -8,10 +8,10 @@
 | 01:30 | AUD | Employment Change (Sep) | 64.1K | 25.2K | 42.6K |
 | 01:30 | AUD | Full Employment Change (Sep) | 51.6K |  | -5.9K |
 | 01:30 | AUD | Unemployment Rate (Sep) | 4.1% | 4.2% | 4.1% |
-| 09:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
-| 10:00 | EUR | CPI (MoM) (Sep) |  | -0.1% | 0.1% |
-| 10:00 | EUR | Trade Balance (Aug) |  | 17.8B | 21.2B |
+| 7 min | EUR | ECB McCaul Speaks |  |  |  |
+| 52 min | EUR | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
+| 52 min | EUR | CPI (MoM) (Sep) |  | -0.1% | 0.1% |
+| 52 min | EUR | Trade Balance (Aug) |  | 17.8B | 21.2B |
 | 10:45 | EUR | ECB McCaul Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.90% |

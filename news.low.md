@@ -13,16 +13,16 @@
 | 05:30 | JPY | Tertiary Industry Activity Index (Aug) | -2.90 |  | 3.40 |
 | 07:00 | CHF | Trade Balance (Sep) | 4.946B | 4.850B | 4.744B |
 | 07:00 | NOK | Industrial Confidence (Q3) | 1.5 |  | 3.5 |
-| 09:50 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.040% |
-| 09:50 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.692% |
-| 10:00 | EUR | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
-| 10:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 0.64B |
-| 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
-| 10:00 | EUR | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
+| 42 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.040% |
+| 42 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.692% |
+| 52 min | EUR | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
+| 52 min | EUR | Italian Trade Balance EU (Aug) |  |  | 0.64B |
+| 52 min | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
+| 52 min | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
+| 52 min | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
+| 52 min | EUR | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
+| 52 min | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
+| 52 min | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
 | 11:00 | EUR | French 6-Year OAT Auction |  |  | 2.62% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 231.00K |

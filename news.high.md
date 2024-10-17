@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
+| 52 min | EUR | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
 | 13:15 | EUR | Deposit Facility Rate (Oct) |  | 3.25% | 3.50% |
 | 13:15 | EUR | ECB Interest Rate Decision (Oct) |  | 3.40% | 3.65% |
 | 13:30 | USD | Core Retail Sales (MoM) (Sep) |  | 0.1% | 0.1% |
