@@ -24,7 +24,7 @@
 | 10:05 | EUR | Spanish 10-Year Obligacion Auction | 2.920% |  | 3.040% |
 | 10:30 | EUR | Spanish 7-Year Obligacion Auction | 2.646% |  | 2.692% |
 | 11:00 | EUR | French 6-Year OAT Auction | 2.61% |  | 2.62% |
-| 54 min | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) | 1.3% |  | 0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 231.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Oct) |  |  | 15.8 |
 | 13:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 25.00 |
