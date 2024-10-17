@@ -14,12 +14,12 @@
 | 10:00 | EUR | Trade Balance (Aug) | 4.6B | 17.8B | 19.7B |
 | 10:45 | EUR | ECB McCaul Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
-| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.90% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,861K |
-| 13:30 | USD | Philly Fed Employment (Oct) |  |  | 10.7 |
-| 13:30 | USD | Retail Control (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | CAD | Foreign Securities Purchases (Aug) |  | 9.50B | 10.98B |
+| 5 min | EUR | ECB Marginal Lending Facility |  |  | 3.90% |
+| 5 min | EUR | ECB Monetary Policy Statement |  |  |  |
+| 20 min | USD | Continuing Jobless Claims |  | 1,870K | 1,861K |
+| 20 min | USD | Philly Fed Employment (Oct) |  |  | 10.7 |
+| 20 min | USD | Retail Control (MoM) (Sep) |  |  | 0.3% |
+| 20 min | CAD | Foreign Securities Purchases (Aug) |  | 9.50B | 10.98B |
 | 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.04% |
 | 14:15 | USD | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
 | 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.3% | 0.4% |
