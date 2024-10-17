@@ -7,8 +7,8 @@
 | 01:30 | AUD | Participation Rate (Sep) | 67.2% | 67.1% | 67.1% |
 | 01:30 | AUD | RBA Bulletin |  |  |  |
 | 01:30 | AUD | Reserve Assets Total (Sep) | 93.0B |  | 93.1B |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 02:30 | SGD | Trade Balance (Sep) | 5.250B |  | 6.020B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Aug) | -2.90 |  | 3.40 |
 | 07:00 | CHF | Trade Balance (Sep) | 4.946B | 4.850B | 4.744B |
@@ -16,8 +16,8 @@
 | 10:00 | EUR | Italian Trade Balance (Aug) | 1.431B | 5.550B | 6.817B |
 | 10:00 | EUR | Italian Trade Balance EU (Aug) | -1.36B |  | 0.72B |
 | 10:00 | EUR | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
 | 10:00 | EUR | CPI, n.s.a (Sep) | 126.60 | 126.63 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.0% | 0.1% | 0.3% |
@@ -46,8 +46,8 @@
 | 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -0.9% |
 | 16:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:00 | USD | Gasoline Inventories | -2.201M | -1.400M | -6.304M |
-| 25 min | USD | 4-Week Bill Auction |  |  | 4.750% |
-| 25 min | USD | 8-Week Bill Auction |  |  | 4.640% |
+| 16:30 | USD | 4-Week Bill Auction | 4.700% |  | 4.750% |
+| 16:30 | USD | 8-Week Bill Auction | 4.630% |  | 4.640% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Aug) |  |  | 55.90B |
 | 21:00 | USD | Overall Net Capital Flow (Aug) |  |  | 156.50B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 135.40B |
