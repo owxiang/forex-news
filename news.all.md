@@ -82,7 +82,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.700% |  | 4.750% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.630% |  | 4.640% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.4% | 3.2% | 3.2% |
-| 55 min | USD | Moderate | Federal Budget Balance (Sep) |  | 4.5B | -380.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 4.5B | -380.0B |
 | 21:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 55.90B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 156.50B |
