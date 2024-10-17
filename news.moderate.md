@@ -11,9 +11,9 @@
 | 09:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | CPI (MoM) (Sep) | -0.1% | -0.1% | 0.1% |
-| 10:00 | EUR | Trade Balance (Aug) | 4.6B | 17.8B | 21.2B |
-| 39 min | EUR | ECB McCaul Speaks |  |  |  |
-| 54 min | EUR | EU Leaders Summit |  |  |  |
+| 10:00 | EUR | Trade Balance (Aug) | 4.6B | 17.8B | 19.7B |
+| 10:45 | EUR | ECB McCaul Speaks |  |  |  |
+| 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.90% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,861K |

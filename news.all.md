@@ -26,18 +26,18 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 1.7% | 1.8% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% | -0.1% | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 126.60 | 126.63 | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.0% | 0.1% | 0.3% |
-| 10:00 | EUR | Moderate | Trade Balance (Aug) | 4.6B | 17.8B | 21.2B |
+| 10:00 | EUR | Moderate | Trade Balance (Aug) | 4.6B | 17.8B | 19.7B |
 | 10:05 | EUR | Low | Spanish 10-Year Obligacion Auction | 2.920% |  | 3.040% |
-| 14 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.692% |
-| 39 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 54 min | EUR | Low | French 6-Year OAT Auction |  |  | 2.62% |
-| 54 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
+| 10:30 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.646% |  | 2.692% |
+| 10:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 11:00 | EUR | Low | French 6-Year OAT Auction | 2.61% |  | 2.62% |
+| 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 54 min | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 13:15 | EUR | High | Deposit Facility Rate (Oct) |  | 3.25% | 3.50% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.90% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |

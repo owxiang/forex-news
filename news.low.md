@@ -16,15 +16,15 @@
 | 10:00 | EUR | Italian Trade Balance (Aug) | 1.431B | 5.550B | 6.817B |
 | 10:00 | EUR | Italian Trade Balance EU (Aug) | -1.36B |  | 0.72B |
 | 10:00 | EUR | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | CPI, n.s.a (Sep) | 126.60 | 126.63 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.0% | 0.1% | 0.3% |
 | 10:05 | EUR | Spanish 10-Year Obligacion Auction | 2.920% |  | 3.040% |
-| 14 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.692% |
-| 54 min | EUR | French 6-Year OAT Auction |  |  | 2.62% |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
+| 10:30 | EUR | Spanish 7-Year Obligacion Auction | 2.646% |  | 2.692% |
+| 11:00 | EUR | French 6-Year OAT Auction | 2.61% |  | 2.62% |
+| 54 min | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 231.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Oct) |  |  | 15.8 |
 | 13:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 25.00 |
