@@ -82,10 +82,10 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.700% |  | 4.750% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.630% |  | 4.640% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.4% | 3.2% | 3.2% |
-| 54 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 54 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 55.90B |
-| 54 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 156.50B |
-| 54 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 135.4B |
-| 54 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 135.40B |
+| 21:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) | 19.20B |  | 55.90B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Aug) | 79.20B |  | 159.10B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) | 111.4B |  | 137.9B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) | 111.40B |  | 137.90B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,047B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.197T |

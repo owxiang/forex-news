@@ -27,6 +27,6 @@
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | USD | Cushing Crude Oil Inventories | 0.108M |  | 1.247M |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.2% | 3.2% |
-| 54 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 54 min | USD | TIC Net Long-Term Transactions (Aug) |  |  | 135.4B |
+| 21:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 21:00 | USD | TIC Net Long-Term Transactions (Aug) | 111.4B |  | 137.9B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,047B |

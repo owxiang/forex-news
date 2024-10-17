@@ -48,7 +48,7 @@
 | 16:00 | USD | Gasoline Inventories | -2.201M | -1.400M | -6.304M |
 | 16:30 | USD | 4-Week Bill Auction | 4.700% |  | 4.750% |
 | 16:30 | USD | 8-Week Bill Auction | 4.630% |  | 4.640% |
-| 54 min | USD | US Foreign Buying, T-bonds (Aug) |  |  | 55.90B |
-| 54 min | USD | Overall Net Capital Flow (Aug) |  |  | 156.50B |
-| 54 min | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 135.40B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Aug) | 19.20B |  | 55.90B |
+| 21:00 | USD | Overall Net Capital Flow (Aug) | 79.20B |  | 159.10B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) | 111.40B |  | 137.90B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.197T |
