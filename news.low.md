@@ -7,12 +7,14 @@
 | 01:30 | AUD | Participation Rate (Sep) | 67.2% | 67.1% | 67.1% |
 | 01:30 | AUD | RBA Bulletin |  |  |  |
 | 01:30 | AUD | Reserve Assets Total (Sep) | 93.0B |  | 93.1B |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
 | 02:30 | SGD | Trade Balance (Sep) | 5.250B |  | 6.020B |
-| 23 min | JPY | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
-| 07:00 | CHF | Trade Balance (Sep) |  | 4.850B | 4.578B |
-| 07:00 | NOK | Industrial Confidence (Q3) |  |  | 3.9 |
+| 05:30 | JPY | Tertiary Industry Activity Index (Aug) | -2.90 |  | 3.40 |
+| 54 min | CHF | Trade Balance (Sep) |  | 4.850B | 4.578B |
+| 54 min | NOK | Industrial Confidence (Q3) |  |  | 3.9 |
+| 09:50 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.040% |
+| 09:50 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.692% |
 | 10:00 | EUR | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
 | 10:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 0.64B |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
@@ -21,6 +23,7 @@
 | 10:00 | EUR | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
+| 11:00 | EUR | French 6-Year OAT Auction |  |  | 2.62% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 231.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Oct) |  |  | 15.8 |
