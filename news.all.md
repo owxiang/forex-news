@@ -13,8 +13,8 @@
 | 01:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 01:30 | AUD | Low | Reserve Assets Total (Sep) | 93.0B |  | 93.1B |
 | 01:30 | AUD | Moderate | Unemployment Rate (Sep) | 4.1% | 4.2% | 4.1% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 02:30 | SGD | Low | Trade Balance (Sep) | 5.250B |  | 6.020B |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) | -2.90 |  | 3.40 |
 | 07:00 | CHF | Low | Trade Balance (Sep) | 4.946B | 4.850B | 4.744B |
@@ -22,12 +22,12 @@
 | 09:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Aug) | 1.431B | 5.550B | 6.817B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Aug) | -1.36B |  | 0.72B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 1.7% | 1.8% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% | -0.1% | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 126.60 | 126.63 | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.0% | 0.1% | 0.3% |
@@ -82,11 +82,10 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.700% |  | 4.750% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.630% |  | 4.640% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.4% | 3.2% | 3.2% |
-| 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 4.5B | -380.0B |
-| 21:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 55.90B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 156.50B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 135.4B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 135.40B |
+| 54 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 54 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 55.90B |
+| 54 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 156.50B |
+| 54 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  |  | 135.4B |
+| 54 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 135.40B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,047B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.197T |
