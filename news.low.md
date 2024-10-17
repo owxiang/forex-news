@@ -9,7 +9,7 @@
 | 01:30 | AUD | Reserve Assets Total (Sep) | 92,954.0B |  | 93,137.0B |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
-| 02:30 | SGD | Trade Balance (Sep) |  |  | 5.900B |
+| 02:30 | SGD | Trade Balance (Sep) | 5.250B |  | 6.020B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
 | 07:00 | CHF | Trade Balance (Sep) |  | 4.850B | 4.578B |
 | 07:00 | NOK | Industrial Confidence (Q3) |  |  | 3.9 |
