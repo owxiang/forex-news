@@ -6,15 +6,15 @@
 | 00:50 | JPY | Moderate | Exports (YoY) (Sep) | -1.7% | 0.5% | 5.5% |
 | 00:50 | JPY | Low | Imports (YoY) (Sep) | 2.1% | 3.2% | 2.3% |
 | 00:50 | JPY | Moderate | Trade Balance (Sep) | -294.3B | -237.6B | -703.2B |
-| 5 min | AUD | Moderate | Employment Change (Sep) |  | 25.2K | 47.5K |
-| 5 min | AUD | Moderate | Full Employment Change (Sep) |  |  | -3.1K |
-| 5 min | AUD | Low | NAB Quarterly Business Confidence |  |  | -1 |
-| 5 min | AUD | Low | Participation Rate (Sep) |  | 67.1% | 67.1% |
-| 5 min | AUD | Low | RBA Bulletin |  |  |  |
-| 5 min | AUD | Low | Reserve Assets Total (Sep) |  |  | 93.1B |
-| 5 min | AUD | Moderate | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
-| 5 min | SGD | Low | Non-Oil Exports (YoY) (Sep) |  | 9.50% | 10.70% |
-| 5 min | SGD | Low | Non-Oil Exports (MoM) (Sep) |  |  | -4.70% |
+| 01:30 | AUD | Moderate | Employment Change (Sep) | 64.1K | 25.2K | 42.6K |
+| 01:30 | AUD | Moderate | Full Employment Change (Sep) | 51.6K |  | -5.9K |
+| 01:30 | AUD | Low | NAB Quarterly Business Confidence | -6 |  | -1 |
+| 01:30 | AUD | Low | Participation Rate (Sep) | 67.2% | 67.1% | 67.1% |
+| 01:30 | AUD | Low | RBA Bulletin |  |  |  |
+| 01:30 | AUD | Low | Reserve Assets Total (Sep) | 92,954.0B |  | 93,137.0B |
+| 01:30 | AUD | Moderate | Unemployment Rate (Sep) | 4.1% | 4.2% | 4.2% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
 | 02:30 | SGD | Low | Trade Balance (Sep) |  |  | 5.900B |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
 | 07:00 | CHF | Low | Trade Balance (Sep) |  | 4.850B | 4.578B |
@@ -58,8 +58,8 @@
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 169.0K |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.9% | 78.0% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.04% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  | -0.1% | 0.9% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.3% | 0.4% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Oct) |  | 43 | 41 |
