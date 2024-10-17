@@ -26,8 +26,8 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) | 1.7% | 1.8% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) | -0.1% | -0.1% | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) | 126.60 | 126.63 | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.0% | 0.1% | 0.3% |
@@ -38,35 +38,34 @@
 | 11:00 | EUR | Low | French 6-Year OAT Auction | 2.61% |  | 2.62% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) | 1.3% |  | 0.2% |
-| 5 min | EUR | High | Deposit Facility Rate (Oct) |  | 3.25% | 3.50% |
-| 5 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.90% |
-| 5 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 5 min | EUR | High | ECB Interest Rate Decision (Oct) |  | 3.40% | 3.65% |
-| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,861K |
-| 20 min | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.1% | 0.1% |
-| 20 min | USD | High | Initial Jobless Claims |  | 241K | 258K |
-| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 231.00K |
-| 20 min | USD | High | Philadelphia Fed Manufacturing Index (Oct) |  | 4.2 | 1.7 |
-| 20 min | USD | Low | Philly Fed Business Conditions (Oct) |  |  | 15.8 |
-| 20 min | USD | Low | Philly Fed CAPEX Index (Oct) |  |  | 25.00 |
-| 20 min | USD | Moderate | Philly Fed Employment (Oct) |  |  | 10.7 |
-| 20 min | USD | Low | Philly Fed New Orders (Oct) |  |  | -1.5 |
-| 20 min | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 34.00 |
-| 20 min | USD | Moderate | Retail Control (MoM) (Sep) |  |  | 0.3% |
-| 20 min | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 0.1% |
-| 20 min | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.13% |
-| 20 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
-| 20 min | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 9.50B | 10.98B |
-| 20 min | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 4.450B |
-| 20 min | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 169.0K |
-| 35 min | EUR | High | ECB Press Conference |  |  |  |
-| 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.9% | 78.0% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.04% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  | -0.1% | 0.9% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.3% | 0.4% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Oct) |  | 43 | 41 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.4% | 0.5% |
+| 13:15 | EUR | High | Deposit Facility Rate (Oct) | 3.25% | 3.25% | 3.50% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 3.65% |  | 3.90% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Oct) | 3.40% | 3.40% | 3.65% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,867K | 1,870K | 1,858K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Sep) | 0.5% | 0.1% | 0.2% |
+| 13:30 | USD | High | Initial Jobless Claims | 241K | 241K | 260K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.25K |  | 231.50K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Oct) | 10.3 | 4.2 | 1.7 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Oct) | 36.7 |  | 15.8 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Oct) | 23.50 |  | 25.00 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Oct) | -2.2 |  | 10.7 |
+| 13:30 | USD | Low | Philly Fed New Orders (Oct) | 14.2 |  | -1.5 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Oct) | 29.70 |  | 34.00 |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Sep) | 0.7% |  | 0.3% |
+| 13:30 | USD | High | Retail Sales (MoM) (Sep) | 0.4% | 0.3% | 0.1% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Sep) | 1.74% |  | 2.16% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) | 0.7% |  | 0.3% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Aug) | 9.97B | 9.50B | 10.97B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) | 12.340B |  | 4.600B |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 5 min | USD | Low | Capacity Utilization Rate (Sep) |  | 77.9% | 78.0% |
+| 5 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.04% |
+| 5 min | USD | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
+| 5 min | USD | Low | Manufacturing Production (MoM) (Sep) |  | -0.1% | 0.9% |
+| 50 min | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.3% | 0.4% |
+| 50 min | USD | Low | NAHB Housing Market Index (Oct) |  | 43 | 41 |
+| 50 min | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.4% | 0.5% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 80B | 82B |
 | 16:00 | USD | High | Crude Oil Inventories |  | 1.800M | 5.810M |

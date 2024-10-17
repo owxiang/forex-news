@@ -16,8 +16,8 @@
 | 10:00 | EUR | Italian Trade Balance (Aug) | 1.431B | 5.550B | 6.817B |
 | 10:00 | EUR | Italian Trade Balance EU (Aug) | -1.36B |  | 0.72B |
 | 10:00 | EUR | Core CPI (MoM) (Sep) | 0.1% | 0.1% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) | -0.1% |  | 0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) | 1.6% |  | 2.0% |
 | 10:00 | EUR | CPI, n.s.a (Sep) | 126.60 | 126.63 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 2.7% | 2.7% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) | 0.0% | 0.1% | 0.3% |
@@ -25,18 +25,17 @@
 | 10:30 | EUR | Spanish 7-Year Obligacion Auction | 2.646% |  | 2.692% |
 | 11:00 | EUR | French 6-Year OAT Auction | 2.61% |  | 2.62% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) | 1.3% |  | 0.2% |
-| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 231.00K |
-| 20 min | USD | Philly Fed Business Conditions (Oct) |  |  | 15.8 |
-| 20 min | USD | Philly Fed CAPEX Index (Oct) |  |  | 25.00 |
-| 20 min | USD | Philly Fed New Orders (Oct) |  |  | -1.5 |
-| 20 min | USD | Philly Fed Prices Paid (Oct) |  |  | 34.00 |
-| 20 min | USD | Retail Sales (YoY) (Sep) |  |  | 2.13% |
-| 20 min | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
-| 20 min | CAD | Foreign Securities Purchases by Canadians (Aug) |  |  | 4.450B |
-| 20 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 169.0K |
-| 14:15 | USD | Capacity Utilization Rate (Sep) |  | 77.9% | 78.0% |
-| 14:15 | USD | Manufacturing Production (MoM) (Sep) |  | -0.1% | 0.9% |
-| 15:00 | USD | NAHB Housing Market Index (Oct) |  | 43 | 41 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 236.25K |  | 231.50K |
+| 13:30 | USD | Philly Fed Business Conditions (Oct) | 36.7 |  | 15.8 |
+| 13:30 | USD | Philly Fed CAPEX Index (Oct) | 23.50 |  | 25.00 |
+| 13:30 | USD | Philly Fed New Orders (Oct) | 14.2 |  | -1.5 |
+| 13:30 | USD | Philly Fed Prices Paid (Oct) | 29.70 |  | 34.00 |
+| 13:30 | USD | Retail Sales (YoY) (Sep) | 1.74% |  | 2.16% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) | 0.7% |  | 0.3% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Aug) | 12.340B |  | 4.600B |
+| 5 min | USD | Capacity Utilization Rate (Sep) |  | 77.9% | 78.0% |
+| 5 min | USD | Manufacturing Production (MoM) (Sep) |  | -0.1% | 0.9% |
+| 50 min | USD | NAHB Housing Market Index (Oct) |  | 43 | 41 |
 | 15:30 | USD | Natural Gas Storage |  | 80B | 82B |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.101M |
 | 16:00 | USD | Crude Oil Imports |  |  | -0.305M |
