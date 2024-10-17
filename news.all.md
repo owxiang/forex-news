@@ -11,23 +11,23 @@
 | 01:30 | AUD | Low | NAB Quarterly Business Confidence | -6 |  | -1 |
 | 01:30 | AUD | Low | Participation Rate (Sep) | 67.2% | 67.1% | 67.1% |
 | 01:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 01:30 | AUD | Low | Reserve Assets Total (Sep) | 92,954.0B |  | 93,137.0B |
+| 01:30 | AUD | Low | Reserve Assets Total (Sep) | 93.0B |  | 93.1B |
 | 01:30 | AUD | Moderate | Unemployment Rate (Sep) | 4.1% | 4.2% | 4.2% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 02:30 | SGD | Low | Trade Balance (Sep) | 5.250B |  | 6.020B |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
+| 23 min | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
 | 07:00 | CHF | Low | Trade Balance (Sep) |  | 4.850B | 4.578B |
 | 07:00 | NOK | Low | Industrial Confidence (Q3) |  |  | 3.9 |
 | 09:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Aug) |  |  | 0.64B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | High | CPI (YoY) (Sep) |  | 1.8% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Sep) |  | -0.1% | 0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
@@ -58,8 +58,8 @@
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 169.0K |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 77.9% | 78.0% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.04% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.04% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  | -0.1% | 0.9% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.3% | 0.4% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Oct) |  | 43 | 41 |

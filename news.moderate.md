@@ -20,8 +20,8 @@
 | 13:30 | USD | Philly Fed Employment (Oct) |  |  | 10.7 |
 | 13:30 | USD | Retail Control (MoM) (Sep) |  |  | 0.3% |
 | 13:30 | CAD | Foreign Securities Purchases (Aug) |  | 9.50B | 10.98B |
-| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.04% |
 | 14:15 | USD | Industrial Production (MoM) (Sep) |  | -0.1% | 0.8% |
+| 14:15 | USD | Industrial Production (YoY) (Sep) |  |  | 0.04% |
 | 15:00 | USD | Business Inventories (MoM) (Aug) |  | 0.3% | 0.4% |
 | 15:00 | USD | Retail Inventories Ex Auto (Aug) |  | 0.4% | 0.5% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |

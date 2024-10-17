@@ -6,18 +6,18 @@
 | 01:30 | AUD | NAB Quarterly Business Confidence | -6 |  | -1 |
 | 01:30 | AUD | Participation Rate (Sep) | 67.2% | 67.1% | 67.1% |
 | 01:30 | AUD | RBA Bulletin |  |  |  |
-| 01:30 | AUD | Reserve Assets Total (Sep) | 92,954.0B |  | 93,137.0B |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
+| 01:30 | AUD | Reserve Assets Total (Sep) | 93.0B |  | 93.1B |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Sep) | 2.70% | 9.50% | 10.70% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Sep) | 1.10% |  | -4.70% |
 | 02:30 | SGD | Trade Balance (Sep) | 5.250B |  | 6.020B |
-| 05:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
+| 23 min | JPY | Tertiary Industry Activity Index (Aug) |  |  | 2.50 |
 | 07:00 | CHF | Trade Balance (Sep) |  | 4.850B | 4.578B |
 | 07:00 | NOK | Industrial Confidence (Q3) |  |  | 3.9 |
 | 10:00 | EUR | Italian Trade Balance (Aug) |  | 5.550B | 6.743B |
 | 10:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 0.64B |
 | 10:00 | EUR | Core CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 2.0% |
 | 10:00 | EUR | CPI, n.s.a (Sep) |  | 126.63 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 2.7% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.1% | 0.3% |
