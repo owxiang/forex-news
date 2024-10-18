@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) | -0.3% |  | 0.5% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.8% |
-| 00:30 | JPY | Moderate | National CPI (MoM) | -0.3% |  | 0.5% |
 | 00:30 | JPY | Low | National CPI (YoY) (Sep) | 2.5% |  | 3.0% |
+| 00:30 | JPY | Moderate | National CPI (MoM) | -0.3% |  | 0.5% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -363.1B |  | 669.2B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 968.4B |  | 910.1B |
 | 02:30 | CNY | Low | House Prices (YoY) (Sep) | -5.8% |  | -5.3% |
@@ -21,8 +21,8 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 4.0% | 3.2% | 2.2% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.0% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Aug) | -4.80B |  | -3.20B |
 | 09:00 | EUR | Low | Current Account (Aug) | 31.5B | 42.2B | 39.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 35.2B |  | 48.0B |
@@ -43,23 +43,23 @@
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 482 |  | 481 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 586 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 93.1K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 43.1K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 36.1K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 190.6K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 278.2K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 13.3K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -123.6K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -5.6K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 54.7K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -51.2K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -13.5K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -89.2K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 29.2K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -22.5K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 33.4K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -10.0K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 36.5K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | 1.3K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 39.1K |
+| 24 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 93.1K |
+| 24 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
+| 24 min | USD | Low | CFTC Copper speculative net positions |  |  | 43.1K |
+| 24 min | USD | Low | CFTC Corn speculative net positions |  |  | 36.1K |
+| 24 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 190.6K |
+| 24 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 278.2K |
+| 24 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 13.3K |
+| 24 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -123.6K |
+| 24 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -5.6K |
+| 24 min | USD | Low | CFTC Silver speculative net positions |  |  | 54.7K |
+| 24 min | USD | Low | CFTC Soybeans speculative net positions |  |  | -51.2K |
+| 24 min | USD | Low | CFTC Wheat speculative net positions |  |  | -13.5K |
+| 24 min | CAD | Low | CFTC CAD speculative net positions |  |  | -89.2K |
+| 24 min | MXN | Low | CFTC MXN speculative net positions |  |  | 29.2K |
+| 24 min | CHF | Low | CFTC CHF speculative net positions |  |  | -22.5K |
+| 24 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | 33.4K |
+| 24 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | -10.0K |
+| 24 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 36.5K |
+| 24 min | NZD | Low | CFTC NZD speculative net positions |  |  | 1.3K |
+| 24 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 39.1K |
