@@ -10,8 +10,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 968.4B |  | 910.1B |
 | 02:30 | CNY | Low | House Prices (YoY) (Sep) | -5.8% |  | -5.3% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) | 3.4% | 3.3% | 3.4% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) | 0.9% | 1.0% | 0.7% |
 | 03:00 | CNY | High | GDP (YoY) (Q3) | 4.6% | 4.6% | 4.7% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q3) | 0.9% | 1.0% | 0.7% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) | 4.8% |  | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) | 5.4% | 4.6% | 4.5% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) | 5.8% |  | 5.8% |
@@ -29,12 +29,12 @@
 | 09:30 | HKD | Low | Unemployment Rate (Sep) | 3.0% |  | 3.0% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Aug) | 0.10% |  | -0.49% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 13.0% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 11.5% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 701.18B |
-| 12:30 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | 4.6% |
+| 25 min | INR | Low | Bank Loan Growth |  |  | 13.0% |
+| 25 min | INR | Low | Deposit Growth |  |  | 11.5% |
+| 25 min | INR | Low | FX Reserves, USD |  |  | 701.18B |
+| 25 min | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.450M | 1.470M |
+| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | 4.6% |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | 9.6% |
 | 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.350M | 1.356M |
 | 14:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
