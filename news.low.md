@@ -9,9 +9,9 @@
 | 02:30 | CNY | House Prices (YoY) (Sep) | -5.8% |  | -5.3% |
 | 03:00 | CNY | Retail Sales (YoY) (Sep) | 3.2% | 2.5% | 2.1% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 3.30% |  | 3.36% |
-| 09:00 | EUR | Spanish Trade Balance (Aug) |  |  | -3.20B |
-| 09:00 | EUR | Current Account (Aug) |  | 42.2B | 39.6B |
-| 09:00 | EUR | Current Account n.s.a. (Aug) |  |  | 48.0B |
+| 54 min | EUR | Spanish Trade Balance (Aug) |  |  | -3.20B |
+| 54 min | EUR | Current Account (Aug) |  | 42.2B | 39.6B |
+| 54 min | EUR | Current Account n.s.a. (Aug) |  |  | 48.0B |
 | 09:30 | HKD | Unemployment Rate (Sep) |  |  | 3.0% |
 | 10:00 | EUR | Construction Output (MoM) (Aug) |  |  | 0.00% |
 | 11:00 | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
