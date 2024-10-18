@@ -11,10 +11,10 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) | 5.8% |  | 5.8% |
 | 03:00 | CNY | Chinese Unemployment Rate (Sep) | 5.1% | 5.3% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (MoM) (Sep) |  | -0.3% | 1.1% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Sep) |  | 3.2% | 2.3% |
-| 07:00 | GBP | Retail Sales (MoM) (Sep) |  | -0.3% | 1.0% |
-| 07:00 | GBP | Retail Sales (YoY) (Sep) |  | 3.2% | 2.5% |
+| 54 min | GBP | Core Retail Sales (YoY) (Sep) |  | 3.2% | 2.3% |
+| 54 min | GBP | Core Retail Sales (MoM) (Sep) |  | -0.3% | 1.1% |
+| 54 min | GBP | Retail Sales (YoY) (Sep) |  | 3.2% | 2.5% |
+| 54 min | GBP | Retail Sales (MoM) (Sep) |  | -0.3% | 1.0% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 13:30 | USD | Building Permits (Sep) |  | 1.450M | 1.470M |
 | 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | 9.6% |
@@ -26,7 +26,7 @@
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
-| 19:00 | USD | Federal Budget Balance (Sep) |  | 4.5B | -380.0B |
+| 19:00 | USD | Federal Budget Balance (Sep) |  | 34.5B | -380.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 93.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 190.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 278.2K |
