@@ -26,17 +26,17 @@
 | 09:00 | EUR | Low | Spanish Trade Balance (Aug) | -4.80B |  | -3.20B |
 | 09:00 | EUR | Low | Current Account (Aug) | 31.5B | 42.2B | 39.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 35.2B |  | 48.0B |
-| 22 min | HKD | Low | Unemployment Rate (Sep) |  |  | 3.0% |
-| 52 min | EUR | Low | Construction Output (MoM) (Aug) |  |  | 0.00% |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
-| 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 09:30 | HKD | Low | Unemployment Rate (Sep) | 3.0% |  | 3.0% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Aug) | 0.10% |  | -0.50% |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 54 min | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.0% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 11.5% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 701.18B |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  |  | 4.6% |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.450M | 1.470M |
-| 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.350M | 1.356M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Sep) |  |  | 9.6% |
+| 13:30 | USD | Moderate | Housing Starts (Sep) |  | 1.350M | 1.356M |
 | 14:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |

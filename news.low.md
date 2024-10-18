@@ -12,9 +12,9 @@
 | 09:00 | EUR | Spanish Trade Balance (Aug) | -4.80B |  | -3.20B |
 | 09:00 | EUR | Current Account (Aug) | 31.5B | 42.2B | 39.6B |
 | 09:00 | EUR | Current Account n.s.a. (Aug) | 35.2B |  | 48.0B |
-| 22 min | HKD | Unemployment Rate (Sep) |  |  | 3.0% |
-| 52 min | EUR | Construction Output (MoM) (Aug) |  |  | 0.00% |
-| 11:00 | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 09:30 | HKD | Unemployment Rate (Sep) | 3.0% |  | 3.0% |
+| 10:00 | EUR | Construction Output (MoM) (Aug) | 0.10% |  | -0.50% |
+| 54 min | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
 | 12:30 | INR | Bank Loan Growth |  |  | 13.0% |
 | 12:30 | INR | Deposit Growth |  |  | 11.5% |
 | 12:30 | INR | FX Reserves, USD |  |  | 701.18B |

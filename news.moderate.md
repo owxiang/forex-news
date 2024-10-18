@@ -15,10 +15,10 @@
 | 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 4.0% | 3.2% | 2.2% |
 | 07:00 | GBP | Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.0% |
 | 07:00 | GBP | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
-| 11:00 | EUR | EU Leaders Summit |  |  |  |
+| 54 min | EUR | EU Leaders Summit |  |  |  |
 | 13:30 | USD | Building Permits (Sep) |  | 1.450M | 1.470M |
-| 13:30 | USD | Housing Starts (Sep) |  | 1.350M | 1.356M |
 | 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | 9.6% |
+| 13:30 | USD | Housing Starts (Sep) |  | 1.350M | 1.356M |
 | 14:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
