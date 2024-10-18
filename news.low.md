@@ -17,7 +17,7 @@
 | 12:30 | INR | Bank Loan Growth | 12.8% |  | 13.0% |
 | 12:30 | INR | Deposit Growth | 11.8% |  | 11.5% |
 | 12:30 | INR | FX Reserves, USD | 690.43B |  | 701.18B |
-| 20 min | USD | Building Permits (MoM) (Sep) |  |  | 4.6% |
+| 13:30 | USD | Building Permits (MoM) (Sep) | -2.9% |  | 4.6% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 43.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 36.1K |
