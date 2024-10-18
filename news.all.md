@@ -23,11 +23,11 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 4.0% | 3.2% | 2.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.0% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
-| 54 min | EUR | Low | Spanish Trade Balance (Aug) |  |  | -3.20B |
-| 54 min | EUR | Low | Current Account (Aug) |  | 42.2B | 39.6B |
-| 54 min | EUR | Low | Current Account n.s.a. (Aug) |  |  | 48.0B |
-| 09:30 | HKD | Low | Unemployment Rate (Sep) |  |  | 3.0% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Aug) |  |  | 0.00% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Aug) | -4.80B |  | -3.20B |
+| 09:00 | EUR | Low | Current Account (Aug) | 31.5B | 42.2B | 39.6B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Aug) | 35.2B |  | 48.0B |
+| 22 min | HKD | Low | Unemployment Rate (Sep) |  |  | 3.0% |
+| 52 min | EUR | Low | Construction Output (MoM) (Aug) |  |  | 0.00% |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 13.0% |
