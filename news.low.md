@@ -18,14 +18,14 @@
 | 12:30 | INR | Deposit Growth | 11.8% |  | 11.5% |
 | 12:30 | INR | FX Reserves, USD | 690.43B |  | 701.18B |
 | 13:30 | USD | Building Permits (MoM) (Sep) | -2.9% | -0.7% | 4.6% |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 43.1K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | 36.1K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -123.6K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 54.7K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -51.2K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -13.5K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -89.2K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 29.2K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -22.5K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | 1.3K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 2.9K |  | 2.9K |
+| 20:30 | USD | CFTC Copper speculative net positions | 35.5K |  | 43.1K |
+| 20:30 | USD | CFTC Corn speculative net positions | -5.2K |  | 36.1K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -139.4K |  | -123.6K |
+| 20:30 | USD | CFTC Silver speculative net positions | 54.0K |  | 54.7K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -65.4K |  | -51.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -13.7K |  | -13.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -122.4K |  | -89.2K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 25.2K |  | 29.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -26.2K |  | -22.5K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -0.3K |  | 1.3K |
