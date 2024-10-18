@@ -13,8 +13,8 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 4.0% | 3.2% | 2.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.1% |
-| 07:00 | GBP | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.0% |
+| 07:00 | GBP | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 13:30 | USD | Building Permits (Sep) | 1.428M | 1.450M | 1.470M |
 | 13:30 | USD | Housing Starts (MoM) (Sep) | -0.5% | -0.4% | 7.8% |
