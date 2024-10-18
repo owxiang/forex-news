@@ -14,11 +14,10 @@
 | 09:00 | EUR | Current Account n.s.a. (Aug) | 35.2B |  | 48.0B |
 | 09:30 | HKD | Unemployment Rate (Sep) | 3.0% |  | 3.0% |
 | 10:00 | EUR | Construction Output (MoM) (Aug) | 0.10% |  | -0.49% |
-| 25 min | INR | Bank Loan Growth |  |  | 13.0% |
-| 25 min | INR | Deposit Growth |  |  | 11.5% |
-| 25 min | INR | FX Reserves, USD |  |  | 701.18B |
-| 25 min | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
-| 13:30 | USD | Building Permits (MoM) (Sep) |  |  | 4.6% |
+| 12:30 | INR | Bank Loan Growth | 12.8% |  | 13.0% |
+| 12:30 | INR | Deposit Growth | 11.8% |  | 11.5% |
+| 12:30 | INR | FX Reserves, USD | 690.43B |  | 701.18B |
+| 20 min | USD | Building Permits (MoM) (Sep) |  |  | 4.6% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 43.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 36.1K |
