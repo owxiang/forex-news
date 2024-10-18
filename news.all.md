@@ -19,8 +19,8 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) | 3.30% |  | 3.36% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) | 5.1% | 5.3% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | 4.0% | 3.2% | 2.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.1% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.0% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Aug) | -4.80B |  | -3.20B |
@@ -39,10 +39,10 @@
 | 14:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 15:05 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.4% | 3.4% | 3.4% |
-| 17:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 3 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 23 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 19:00 | USD | Moderate | Federal Budget Balance (Sep) |  | 34.5B | -380.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 93.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
