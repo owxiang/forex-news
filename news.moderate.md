@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.8% |
 | 00:30 | JPY | National CPI (MoM) | -0.3% |  | 0.5% |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Sep) |  | 3.3% | 3.4% |
-| 03:00 | CNY | GDP (QoQ) (Q3) |  | 1.0% | 0.7% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q3) |  |  | 5.0% |
-| 03:00 | CNY | Industrial Production (YoY) (Sep) |  | 4.6% | 4.5% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 5.8% |
-| 03:00 | CNY | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Sep) |  | 3.2% | 2.3% |
+| 27 min | CNY | Fixed Asset Investment (YoY) (Sep) |  | 3.3% | 3.4% |
+| 27 min | CNY | GDP (QoQ) (Q3) |  | 1.0% | 0.7% |
+| 27 min | CNY | Chinese GDP YTD (YoY) (Q3) |  |  | 5.0% |
+| 27 min | CNY | Industrial Production (YoY) (Sep) |  | 4.6% | 4.5% |
+| 27 min | CNY | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 5.8% |
+| 27 min | CNY | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
+| 27 min | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (MoM) (Sep) |  | -0.3% | 1.1% |
-| 07:00 | GBP | Retail Sales (YoY) (Sep) |  | 3.2% | 2.5% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Sep) |  | 3.2% | 2.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Sep) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Retail Sales (YoY) (Sep) |  | 3.2% | 2.5% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 13:30 | USD | Building Permits (Sep) |  | 1.450M | 1.470M |
 | 13:30 | USD | Housing Starts (MoM) (Sep) |  |  | 9.6% |

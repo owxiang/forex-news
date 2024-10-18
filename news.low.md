@@ -6,9 +6,9 @@
 | 00:30 | JPY | National CPI (YoY) (Sep) | 2.5% |  | 3.0% |
 | 00:50 | JPY | Foreign Bonds Buying | -363.1B |  | 669.2B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 968.4B |  | 910.1B |
-| 02:30 | CNY | House Prices (YoY) (Sep) |  |  | -5.3% |
-| 03:00 | CNY | Retail Sales (YoY) (Sep) |  | 2.5% | 2.1% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.36% |
+| 02:30 | CNY | House Prices (YoY) (Sep) | -5.8% |  | -5.3% |
+| 27 min | CNY | Retail Sales (YoY) (Sep) |  | 2.5% | 2.1% |
+| 27 min | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.36% |
 | 09:00 | EUR | Spanish Trade Balance (Aug) |  |  | -3.20B |
 | 09:00 | EUR | Current Account (Aug) |  | 42.2B | 39.6B |
 | 09:00 | EUR | Current Account n.s.a. (Aug) |  |  | 48.0B |
