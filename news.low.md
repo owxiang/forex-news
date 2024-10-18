@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | CPI, n.s.a (MoM) (Sep) |  |  | 0.5% |
-| 24 min | JPY | National CPI (YoY) (Sep) |  |  | 3.0% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 696.7B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 919.3B |
+| 00:30 | JPY | CPI, n.s.a (MoM) (Sep) | -0.3% |  | 0.5% |
+| 00:30 | JPY | National CPI (YoY) (Sep) | 2.5% |  | 3.0% |
+| 00:50 | JPY | Foreign Bonds Buying | -363.1B |  | 669.2B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 968.4B |  | 910.1B |
 | 02:30 | CNY | House Prices (YoY) (Sep) |  |  | -5.3% |
 | 03:00 | CNY | Retail Sales (YoY) (Sep) |  | 2.5% | 2.1% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.36% |

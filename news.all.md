@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | JPY | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.5% |
-| 24 min | JPY | Moderate | National Core CPI (YoY) (Sep) |  | 2.3% | 2.8% |
-| 24 min | JPY | Low | National CPI (YoY) (Sep) |  |  | 3.0% |
-| 24 min | JPY | Moderate | National CPI (MoM) |  |  | 0.5% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 696.7B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 919.3B |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) | -0.3% |  | 0.5% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.4% | 2.3% | 2.8% |
+| 00:30 | JPY | Moderate | National CPI (MoM) | -0.3% |  | 0.5% |
+| 00:30 | JPY | Low | National CPI (YoY) (Sep) | 2.5% |  | 3.0% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -363.1B |  | 669.2B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 968.4B |  | 910.1B |
 | 02:30 | CNY | Low | House Prices (YoY) (Sep) |  |  | -5.3% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) |  | 3.3% | 3.4% |
-| 03:00 | CNY | High | GDP (YoY) (Q3) |  | 4.6% | 4.7% |
 | 03:00 | CNY | Moderate | GDP (QoQ) (Q3) |  | 1.0% | 0.7% |
+| 03:00 | CNY | High | GDP (YoY) (Q3) |  | 4.6% | 4.7% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) |  |  | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Sep) |  | 4.6% | 4.5% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 5.8% |
@@ -19,10 +19,10 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 3.36% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Sep) |  | 5.3% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.3% | 1.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 3.2% | 2.3% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.3% | 1.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Sep) |  | 3.2% | 2.5% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.3% | 1.0% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Aug) |  |  | -3.20B |
 | 09:00 | EUR | Low | Current Account (Aug) |  | 42.2B | 39.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Aug) |  |  | 48.0B |
