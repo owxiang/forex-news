@@ -13,8 +13,8 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.1% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Sep) | 4.0% | 3.2% | 2.2% |
-| 07:00 | GBP | Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.0% |
 | 07:00 | GBP | Retail Sales (YoY) (Sep) | 3.9% | 3.2% | 2.3% |
+| 07:00 | GBP | Retail Sales (MoM) (Sep) | 0.3% | -0.3% | 1.0% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 13:30 | USD | Building Permits (Sep) | 1.428M | 1.450M | 1.470M |
 | 13:30 | USD | Housing Starts (MoM) (Sep) | -0.5% | -0.4% | 7.8% |
@@ -24,9 +24,8 @@
 | 15:05 | USD | Atlanta Fed GDPNow (Q3) | 3.4% | 3.4% | 3.4% |
 | 17:10 | USD | Fed Waller Speaks |  |  |  |
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 482 |  | 481 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 586 |
-| 54 min | USD | Federal Budget Balance (Sep) |  | 34.5B | -380.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 93.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 190.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 278.2K |
