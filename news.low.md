@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) |  |  | 0.8% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) | 0.3% |  | 0.8% |
 | 03:00 | NZD | Credit Card Spending (YoY) (Sep) |  |  | -3.1% |
 | 07:00 | EUR | German PPI (YoY) (Sep) |  |  | -0.8% |
 | 08:00 | CHF | M3 Money Supply (Sep) |  |  | 1,144.7B |
@@ -18,9 +18,9 @@
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.515% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.270% |
 | 17:56 | GBP | Rightmove House Price Index (YoY) (Oct) |  |  | 1.2% |
-| 22:00 | KRW | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
+| 22:00 | KRW | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:45 | NZD | Exports (Sep) |  |  | 4.97B |
 | 22:45 | NZD | Imports (Sep) |  |  | 7.17B |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -9,290M |
 | 22:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -2,203M |
+| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -9,290M |
