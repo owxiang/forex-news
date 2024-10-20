@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 32 min | CNY | FDI (Sep) |  |  | -31.50% |
+| 09:40 | CNY | FDI (Sep) |  |  | -31.50% |
