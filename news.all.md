@@ -10,7 +10,7 @@
 | 07:00 | EUR | Low | German PPI (YoY) (Sep) | -1.4% |  | -0.8% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.5% | -0.2% | 0.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Sep) | 1,150.3B |  | 1,145.3B |
-| 09:40 | CNY | Low | FDI (Sep) |  |  | -31.50% |
+| 32 min | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -27,6 +27,6 @@
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:45 | NZD | Low | Exports (Sep) |  |  | 4.97B |
 | 22:45 | NZD | Low | Imports (Sep) |  |  | 7.17B |
-| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -9,290M |
 | 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -2,203M |
+| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -9,290M |
 | 23:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
