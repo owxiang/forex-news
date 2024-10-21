@@ -21,10 +21,10 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.510% |  | 4.515% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.270% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 54 min | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
-| 54 min | KRW | Low | PPI (YoY) (Sep) |  |  | 1.6% |
-| 22:45 | NZD | Low | Exports (Sep) |  |  | 4.97B |
-| 22:45 | NZD | Low | Imports (Sep) |  |  | 7.17B |
-| 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -2,203M |
-| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -9,290M |
+| 22:00 | KRW | Low | PPI (MoM) (Sep) | -0.2% |  | -0.2% |
+| 22:00 | KRW | Low | PPI (YoY) (Sep) | 1.0% |  | 1.6% |
+| 40 min | NZD | Low | Exports (Sep) |  |  | 4.97B |
+| 40 min | NZD | Low | Imports (Sep) |  |  | 7.17B |
+| 40 min | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -2,203M |
+| 40 min | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -9,290M |
 | 23:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
