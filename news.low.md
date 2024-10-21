@@ -10,15 +10,14 @@
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 45 min | USD | Fed Logan Speaks |  |  |  |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.730% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.138% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.897% |
-| 50 min | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 13:55 | USD | Fed Logan Speaks |  |  |  |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.593% |  | 2.730% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.071% |  | 3.138% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.824% |  | 2.897% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.515% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.270% |
-| 22:00 | KRW | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
+| 22:00 | KRW | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:45 | NZD | Exports (Sep) |  |  | 4.97B |
 | 22:45 | NZD | Imports (Sep) |  |  | 7.17B |
 | 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -9,290M |
