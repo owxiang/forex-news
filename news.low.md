@@ -16,9 +16,9 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.824% |  | 2.897% |
 | 16:30 | USD | 3-Month Bill Auction | 4.510% |  | 4.515% |
 | 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.270% |
-| 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:00 | KRW | PPI (YoY) (Sep) |  |  | 1.6% |
+| 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:45 | NZD | Exports (Sep) |  |  | 4.97B |
 | 22:45 | NZD | Imports (Sep) |  |  | 7.17B |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -9,290M |
 | 22:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -2,203M |
+| 22:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -9,290M |
