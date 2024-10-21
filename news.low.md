@@ -14,8 +14,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.593% |  | 2.730% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.071% |  | 3.138% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.824% |  | 2.897% |
-| 24 min | USD | 3-Month Bill Auction |  |  | 4.515% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 4.270% |
+| 16:30 | USD | 3-Month Bill Auction | 4.510% |  | 4.515% |
+| 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.270% |
 | 22:00 | KRW | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:00 | KRW | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:45 | NZD | Exports (Sep) |  |  | 4.97B |

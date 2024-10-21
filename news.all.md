@@ -18,9 +18,9 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.071% |  | 3.138% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.824% |  | 2.897% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) | -0.5% | -0.3% | -0.3% |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.515% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.270% |
-| 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.510% |  | 4.515% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.270% |
+| 53 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:45 | NZD | Low | Exports (Sep) |  |  | 4.97B |
