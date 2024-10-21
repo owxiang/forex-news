@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 0.3% |  | 0.8% |
-| 26 min | NZD | Credit Card Spending (YoY) (Sep) |  |  | -3.1% |
+| 03:00 | NZD | Credit Card Spending (YoY) (Sep) | -3.2% |  | -3.1% |
 | 07:00 | EUR | German PPI (YoY) (Sep) |  |  | -0.8% |
 | 08:00 | CHF | M3 Money Supply (Sep) |  |  | 1,144.7B |
 | 09:40 | CNY | FDI (Sep) |  |  | -31.50% |
