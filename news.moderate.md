@@ -7,4 +7,4 @@
 | 07:00 | EUR | German PPI (MoM) (Sep) | -0.5% | -0.2% | 0.2% |
 | 15:00 | USD | US Leading Index (MoM) (Sep) | -0.5% | -0.3% | -0.3% |
 | 18:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 23:40 | USD | FOMC Member Daly Speaks |  |  |  |
+| 35 min | USD | FOMC Member Daly Speaks |  |  |  |
