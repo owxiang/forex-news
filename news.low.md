@@ -1,24 +1,35 @@
-## 21 October 2024 - Low Impact Forex News
+## 22 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Oct) | 0.3% |  | 0.8% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Oct) | 1.0% |  | 1.2% |
-| 03:00 | NZD | Credit Card Spending (YoY) (Sep) | -3.2% |  | -3.1% |
-| 07:00 | EUR | German PPI (YoY) (Sep) | -1.4% |  | -0.8% |
-| 08:00 | CHF | M3 Money Supply (Sep) | 1,150.3B |  | 1,145.3B |
+| 05:00 | IDR | M2 Money Supply (YoY) (Sep) |  |  | 7.30% |
+| 07:00 | GBP | Car Registration (YoY) (Sep) |  |  | -1.3% |
+| 07:00 | GBP | Car Registration (MoM) (Sep) |  |  | -42.7% |
+| 07:00 | GBP | Public Sector Net Borrowing (Sep) |  | 17.40B | 13.73B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 4.875B |
+| 07:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -44.6% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
+| 07:00 | EUR | German Car Registration (MoM) (Sep) |  |  | -17.2% |
+| 07:00 | EUR | German Car Registration (YoY) (Sep) |  |  | -27.8% |
+| 07:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -31.8% |
+| 07:00 | EUR | French Car Registration (YoY) (Sep) |  |  | -24.3% |
+| 08:00 | ZAR | Leading Indicators (Aug) |  |  | 113.60% |
+| 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
+| 09:30 | HKD | CPI (YoY) (Sep) |  | 2.40% | 2.50% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.140% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:55 | USD | Fed Logan Speaks |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.593% |  | 2.730% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.071% |  | 3.138% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.824% |  | 2.897% |
-| 16:30 | USD | 3-Month Bill Auction | 4.510% |  | 4.515% |
-| 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.270% |
-| 22:00 | KRW | PPI (YoY) (Sep) | 1.0% |  | 1.6% |
-| 22:00 | KRW | PPI (MoM) (Sep) | -0.2% |  | -0.2% |
-| 22:45 | NZD | Exports (Sep) | 5.01B |  | 4.85B |
-| 22:45 | NZD | Imports (Sep) | 7.12B |  | 7.15B |
-| 22:45 | NZD | Trade Balance (YoY) (Sep) | -9,090M |  | -9,400M |
-| 22:45 | NZD | Trade Balance (MoM) (Sep) | -2,108M |  | -2,306M |
+| 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
+| 13:00 | MXN | Economic Activity (MoM) (Aug) |  |  | 0.60% |
+| 13:00 | MXN | Economic Activity (YoY) (Aug) |  | 0.90% | 3.80% |
+| 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 0.2% |
+| 13:30 | CAD | IPPI (MoM) (Sep) |  | -0.4% | -0.8% |
+| 13:30 | CAD | RMPI (YoY) (Sep) |  |  | -2.5% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
+| 14:00 | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 15:00 | USD | Richmond Manufacturing Index (Oct) |  | -19 | -21 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Oct) |  |  | -18 |
+| 15:00 | USD | Richmond Services Index (Oct) |  |  | -1 |
+| 18:00 | USD | M2 Money Supply (MoM) (Sep) |  |  | 21.18T |
+| 20:15 | GBP | BoE Breeden Speaks |  |  |  |
+| 22:00 | KRW | Consumer Confidence (Oct) |  |  | 100.0 |

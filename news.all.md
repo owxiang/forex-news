@@ -1,30 +1,49 @@
-## 21 October 2024 - All Forex News
+## 22 October 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Oct) | 0.3% |  | 0.8% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Oct) | 1.0% |  | 1.2% |
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) | 3.60% | 3.65% | 3.85% |
-| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.15% | 3.35% |
-| 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) | -3.2% |  | -3.1% |
-| 07:00 | EUR | Low | German PPI (YoY) (Sep) | -1.4% |  | -0.8% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.5% | -0.2% | 0.2% |
-| 08:00 | CHF | Low | M3 Money Supply (Sep) | 1,150.3B |  | 1,145.3B |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Sep) |  |  | 7.30% |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 1.8% |
+| 06:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 07:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | -1.3% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Sep) |  |  | -42.7% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Sep) |  | 17.40B | 13.73B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 4.875B |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Sep) |  |  | -44.6% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Sep) |  |  | -17.2% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | -27.8% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Sep) |  |  | -31.8% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | -24.3% |
+| 08:00 | ZAR | Low | Leading Indicators (Aug) |  |  | 113.60% |
+| 09:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.00% |
+| 09:30 | HKD | Low | CPI (YoY) (Sep) |  | 2.40% | 2.50% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.140% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:55 | USD | Low | Fed Logan Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.593% |  | 2.730% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.071% |  | 3.138% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.824% |  | 2.897% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Sep) | -0.5% | -0.3% | -0.3% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.510% |  | 4.515% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.270% |
-| 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (Sep) | 1.0% |  | 1.6% |
-| 22:00 | KRW | Low | PPI (MoM) (Sep) | -0.2% |  | -0.2% |
-| 22:45 | NZD | Low | Exports (Sep) | 5.01B |  | 4.85B |
-| 22:45 | NZD | Low | Imports (Sep) | 7.12B |  | 7.15B |
-| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) | -9,090M |  | -9,400M |
-| 22:45 | NZD | Low | Trade Balance (MoM) (Sep) | -2,108M |  | -2,306M |
-| 35 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
+| 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
+| 12:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Aug) |  |  | 0.60% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Aug) |  | 0.90% | 3.80% |
+| 13:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | 0.2% |
+| 13:30 | CAD | Low | IPPI (MoM) (Sep) |  | -0.4% | -0.8% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | -1.7% | -3.1% |
+| 13:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -2.5% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
+| 14:00 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 14:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14:25 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 15:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Oct) |  | -19 | -21 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Oct) |  |  | -18 |
+| 15:00 | USD | Low | Richmond Services Index (Oct) |  |  | -1 |
+| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 21.18T |
+| 20:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 20:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 21:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.580M |
+| 22:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 100.0 |
