@@ -6,8 +6,8 @@
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) | 3.60% | 3.65% | 3.85% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.15% | 3.35% |
 | 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) | -3.2% |  | -3.1% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Sep) |  |  | -0.8% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Sep) |  |  | 1,144.7B |
 | 09:40 | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
@@ -23,8 +23,8 @@
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.270% |
 | 17:56 | GBP | Low | Rightmove House Price Index (YoY) (Oct) |  |  | 1.2% |
 | 18:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (Sep) |  |  | 1.6% |
 | 22:45 | NZD | Low | Exports (Sep) |  |  | 4.97B |
 | 22:45 | NZD | Low | Imports (Sep) |  |  | 7.17B |
 | 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -2,203M |
