@@ -10,9 +10,9 @@
 | 07:00 | EUR | Low | German PPI (YoY) (Sep) | -1.4% |  | -0.8% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.5% | -0.2% | 0.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Sep) | 1,150.3B |  | 1,145.3B |
-| 32 min | CNY | Low | FDI (Sep) |  |  | -31.50% |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | USD | Low | IMF Meetings |  |  |  |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
 | 13:55 | USD | Low | Fed Logan Speaks |  |  |  |

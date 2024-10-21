@@ -7,9 +7,9 @@
 | 03:00 | NZD | Credit Card Spending (YoY) (Sep) | -3.2% |  | -3.1% |
 | 07:00 | EUR | German PPI (YoY) (Sep) | -1.4% |  | -0.8% |
 | 08:00 | CHF | M3 Money Supply (Sep) | 1,150.3B |  | 1,145.3B |
-| 32 min | CNY | FDI (Sep) |  |  | -31.50% |
-| 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 53 min | USD | IMF Meetings |  |  |  |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
 | 13:55 | USD | Fed Logan Speaks |  |  |  |
