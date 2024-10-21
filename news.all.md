@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.3% |  | 0.8% |
-| 33 min | CNY | Moderate | China Loan Prime Rate 5Y (Oct) |  | 3.65% | 3.85% |
-| 48 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.15% | 3.35% |
-| 03:00 | NZD | Low | Credit Card Spending (YoY) (Sep) |  |  | -3.1% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Oct) | 3.60% | 3.65% | 3.85% |
+| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.15% | 3.35% |
+| 26 min | NZD | Low | Credit Card Spending (YoY) (Sep) |  |  | -3.1% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | -0.2% | 0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Sep) |  |  | -0.8% |
 | 08:00 | CHF | Low | M3 Money Supply (Sep) |  |  | 1,144.7B |
