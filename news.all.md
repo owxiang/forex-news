@@ -27,6 +27,6 @@
 | 22:00 | KRW | Low | PPI (MoM) (Sep) |  |  | -0.1% |
 | 22:45 | NZD | Low | Exports (Sep) |  |  | 4.97B |
 | 22:45 | NZD | Low | Imports (Sep) |  |  | 7.17B |
-| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -9,290M |
 | 22:45 | NZD | Low | Trade Balance (MoM) (Sep) |  |  | -2,203M |
+| 22:45 | NZD | Low | Trade Balance (YoY) (Sep) |  |  | -9,290M |
 | 23:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
