@@ -15,7 +15,7 @@
 | 06:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Sep) | 16.61B | 17.40B | 13.02B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) | -20.484B |  | 4.985B |
-| 52 min | ZAR | Low | Leading Indicators (Aug) |  |  | 113.60% |
+| 08:00 | ZAR | Low | Leading Indicators (Aug) | 112.80% |  | 113.60% |
 | 09:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.00% |
 | 09:30 | HKD | Low | CPI (YoY) (Sep) |  | 2.40% | 2.50% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.140% |
