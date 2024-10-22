@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 7.20% |  | 7.30% |
-| 07:00 | GBP | Car Registration (YoY) (Sep) |  |  | -1.3% |
-| 07:00 | GBP | Car Registration (MoM) (Sep) |  |  | -42.7% |
-| 07:00 | GBP | Public Sector Net Borrowing (Sep) |  | 17.40B | 13.73B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 4.875B |
-| 07:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -44.6% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
-| 07:00 | EUR | German Car Registration (MoM) (Sep) |  |  | -17.2% |
-| 07:00 | EUR | German Car Registration (YoY) (Sep) |  |  | -27.8% |
-| 07:00 | EUR | French Car Registration (YoY) (Sep) |  |  | -24.3% |
-| 07:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -31.8% |
+| 54 min | GBP | Car Registration (MoM) (Sep) | 225.4% |  | -42.7% |
+| 54 min | GBP | Car Registration (YoY) (Sep) | 1.0% |  | -1.3% |
+| 54 min | GBP | Public Sector Net Borrowing (Sep) |  | 17.40B | 13.73B |
+| 54 min | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 4.875B |
+| 54 min | EUR | Italian Car Registration (MoM) (Sep) | 76.0% |  | -44.6% |
+| 54 min | EUR | Italian Car Registration (YoY) (Sep) | -10.7% |  | -13.4% |
+| 54 min | EUR | German Car Registration (YoY) (Sep) | -7.0% |  | -27.8% |
+| 54 min | EUR | German Car Registration (MoM) (Sep) | 5.8% |  | -17.2% |
+| 54 min | EUR | French Car Registration (MoM) (Sep) | 61.7% |  | -31.8% |
+| 54 min | EUR | French Car Registration (YoY) (Sep) | -11.1% |  | -24.3% |
 | 08:00 | ZAR | Leading Indicators (Aug) |  |  | 113.60% |
 | 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Sep) |  | 2.40% | 2.50% |
@@ -20,8 +20,8 @@
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
-| 13:00 | MXN | Economic Activity (MoM) (Aug) |  |  | 0.60% |
 | 13:00 | MXN | Economic Activity (YoY) (Aug) |  | 0.90% | 3.80% |
+| 13:00 | MXN | Economic Activity (MoM) (Aug) |  |  | 0.60% |
 | 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 0.2% |
 | 13:30 | CAD | IPPI (MoM) (Sep) |  | -0.4% | -0.8% |
 | 13:30 | CAD | RMPI (YoY) (Sep) |  |  | -2.5% |
