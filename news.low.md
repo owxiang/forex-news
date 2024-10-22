@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 7.20% |  | 7.30% |
-| 54 min | GBP | Car Registration (MoM) (Sep) | 225.4% |  | -42.7% |
-| 54 min | GBP | Car Registration (YoY) (Sep) | 1.0% |  | -1.3% |
-| 54 min | GBP | Public Sector Net Borrowing (Sep) |  | 17.40B | 13.73B |
-| 54 min | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 4.875B |
-| 54 min | EUR | Italian Car Registration (MoM) (Sep) | 76.0% |  | -44.6% |
-| 54 min | EUR | Italian Car Registration (YoY) (Sep) | -10.7% |  | -13.4% |
-| 54 min | EUR | German Car Registration (YoY) (Sep) | -7.0% |  | -27.8% |
-| 54 min | EUR | German Car Registration (MoM) (Sep) | 5.8% |  | -17.2% |
-| 54 min | EUR | French Car Registration (MoM) (Sep) | 61.7% |  | -31.8% |
-| 54 min | EUR | French Car Registration (YoY) (Sep) | -11.1% |  | -24.3% |
-| 08:00 | ZAR | Leading Indicators (Aug) |  |  | 113.60% |
+| 06:20 | GBP | Car Registration (MoM) (Sep) | 225.4% |  | -42.7% |
+| 06:20 | GBP | Car Registration (YoY) (Sep) | 1.0% |  | -1.3% |
+| 06:20 | EUR | Italian Car Registration (YoY) (Sep) | -10.7% |  | -13.4% |
+| 06:20 | EUR | Italian Car Registration (MoM) (Sep) | 76.0% |  | -44.6% |
+| 06:20 | EUR | German Car Registration (YoY) (Sep) | -7.0% |  | -27.8% |
+| 06:20 | EUR | German Car Registration (MoM) (Sep) | 5.8% |  | -17.2% |
+| 06:20 | EUR | French Car Registration (MoM) (Sep) | 61.7% |  | -31.8% |
+| 06:20 | EUR | French Car Registration (YoY) (Sep) | -11.1% |  | -24.3% |
+| 07:00 | GBP | Public Sector Net Borrowing (Sep) | 16.61B | 17.40B | 13.02B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Sep) | -20.484B |  | 4.985B |
+| 52 min | ZAR | Leading Indicators (Aug) |  |  | 113.60% |
 | 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Sep) |  | 2.40% | 2.50% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.140% |
