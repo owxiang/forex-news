@@ -6,10 +6,10 @@
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.7% |  | 1.8% |
 | 06:20 | GBP | Low | Car Registration (YoY) (Sep) | 1.0% |  | -1.3% |
 | 06:20 | GBP | Low | Car Registration (MoM) (Sep) | 225.4% |  | -42.7% |
-| 06:20 | EUR | Low | Italian Car Registration (YoY) (Sep) | -10.7% |  | -13.4% |
 | 06:20 | EUR | Low | Italian Car Registration (MoM) (Sep) | 76.0% |  | -44.6% |
-| 06:20 | EUR | Low | German Car Registration (YoY) (Sep) | -7.0% |  | -27.8% |
+| 06:20 | EUR | Low | Italian Car Registration (YoY) (Sep) | -10.7% |  | -13.4% |
 | 06:20 | EUR | Low | German Car Registration (MoM) (Sep) | 5.8% |  | -17.2% |
+| 06:20 | EUR | Low | German Car Registration (YoY) (Sep) | -7.0% |  | -27.8% |
 | 06:20 | EUR | Low | French Car Registration (YoY) (Sep) | -11.1% |  | -24.3% |
 | 06:20 | EUR | Low | French Car Registration (MoM) (Sep) | 61.7% |  | -31.8% |
 | 06:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -38,7 +38,7 @@
 | 15:00 | USD | Low | Richmond Services Index (Oct) | 3 |  | -1 |
 | 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 21.18T |
+| 53 min | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 21.18T |
 | 20:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
