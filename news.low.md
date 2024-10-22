@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | IDR | M2 Money Supply (YoY) (Sep) |  |  | 7.30% |
-| 07:00 | GBP | Car Registration (YoY) (Sep) |  |  | -1.3% |
 | 07:00 | GBP | Car Registration (MoM) (Sep) |  |  | -42.7% |
+| 07:00 | GBP | Car Registration (YoY) (Sep) |  |  | -1.3% |
 | 07:00 | GBP | Public Sector Net Borrowing (Sep) |  | 17.40B | 13.73B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 4.875B |
-| 07:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -44.6% |
-| 07:00 | EUR | German Car Registration (MoM) (Sep) |  |  | -17.2% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
 | 07:00 | EUR | German Car Registration (YoY) (Sep) |  |  | -27.8% |
-| 07:00 | EUR | French Car Registration (YoY) (Sep) |  |  | -24.3% |
+| 07:00 | EUR | German Car Registration (MoM) (Sep) |  |  | -17.2% |
 | 07:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -31.8% |
+| 07:00 | EUR | French Car Registration (YoY) (Sep) |  |  | -24.3% |
 | 08:00 | ZAR | Leading Indicators (Aug) |  |  | 113.60% |
 | 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Sep) |  | 2.40% | 2.50% |
