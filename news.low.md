@@ -25,9 +25,9 @@
 | 13:30 | CAD | IPPI (MoM) (Sep) | -0.6% | -0.4% | -0.8% |
 | 13:30 | CAD | RMPI (YoY) (Sep) | -8.8% |  | -2.5% |
 | 13:55 | USD | Redbook (YoY) | 4.6% |  | 5.6% |
-| 50 min | USD | Richmond Manufacturing Index (Oct) |  | -19 | -21 |
-| 50 min | USD | Richmond Manufacturing Shipments (Oct) |  |  | -18 |
-| 50 min | USD | Richmond Services Index (Oct) |  |  | -1 |
+| 15:00 | USD | Richmond Manufacturing Index (Oct) | -14 | -19 | -21 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Oct) | -8 |  | -18 |
+| 15:00 | USD | Richmond Services Index (Oct) | 3 |  | -1 |
 | 18:00 | USD | M2 Money Supply (MoM) (Sep) |  |  | 21.18T |
 | 20:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Oct) |  |  | 100.0 |

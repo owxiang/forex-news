@@ -30,14 +30,14 @@
 | 13:30 | CAD | Low | RMPI (YoY) (Sep) | -8.8% |  | -2.5% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Sep) | -3.1% | -1.7% | -3.1% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.6% |  | 5.6% |
-| 5 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 50 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 50 min | USD | Low | Richmond Manufacturing Index (Oct) |  | -19 | -21 |
-| 50 min | USD | Low | Richmond Manufacturing Shipments (Oct) |  |  | -18 |
-| 50 min | USD | Low | Richmond Services Index (Oct) |  |  | -1 |
-| 50 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14:25 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 15:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Oct) | -14 | -19 | -21 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Oct) | -8 |  | -18 |
+| 15:00 | USD | Low | Richmond Services Index (Oct) | 3 |  | -1 |
+| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Sep) |  |  | 21.18T |
 | 20:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
