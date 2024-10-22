@@ -7,8 +7,8 @@
 | 06:20 | GBP | Car Registration (MoM) (Sep) | 225.4% |  | -42.7% |
 | 06:20 | EUR | Italian Car Registration (YoY) (Sep) | -10.7% |  | -13.4% |
 | 06:20 | EUR | Italian Car Registration (MoM) (Sep) | 76.0% |  | -44.6% |
-| 06:20 | EUR | German Car Registration (MoM) (Sep) | 5.8% |  | -17.2% |
 | 06:20 | EUR | German Car Registration (YoY) (Sep) | -7.0% |  | -27.8% |
+| 06:20 | EUR | German Car Registration (MoM) (Sep) | 5.8% |  | -17.2% |
 | 06:20 | EUR | French Car Registration (YoY) (Sep) | -11.1% |  | -24.3% |
 | 06:20 | EUR | French Car Registration (MoM) (Sep) | 61.7% |  | -31.8% |
 | 07:00 | GBP | Public Sector Net Borrowing (Sep) | 16.61B | 17.40B | 13.02B |

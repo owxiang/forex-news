@@ -11,7 +11,7 @@
 | 14:25 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 54 min | EUR | ECB's Lane Speaks |  |  |  |
+| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:15 | EUR | ECB McCaul Speaks |  |  |  |
