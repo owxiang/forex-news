@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | BoJ Core CPI (YoY) |  |  | 1.8% |
+| 53 min | JPY | BoJ Core CPI (YoY) |  |  | 1.8% |
 | 06:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 11:00 | BRL | BRICS Summit |  |  |  |
 | 12:30 | EUR | ECB McCaul Speaks |  |  |  |

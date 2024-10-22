@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 49 min | IDR | M2 Money Supply (YoY) (Sep) | 7.20% |  | 7.30% |
-| 07:00 | GBP | Car Registration (MoM) (Sep) |  |  | -42.7% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Sep) | 7.20% |  | 7.30% |
 | 07:00 | GBP | Car Registration (YoY) (Sep) |  |  | -1.3% |
+| 07:00 | GBP | Car Registration (MoM) (Sep) |  |  | -42.7% |
 | 07:00 | GBP | Public Sector Net Borrowing (Sep) |  | 17.40B | 13.73B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 4.875B |
-| 07:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -44.6% |
-| 07:00 | EUR | German Car Registration (YoY) (Sep) |  |  | -27.8% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | -13.4% |
 | 07:00 | EUR | German Car Registration (MoM) (Sep) |  |  | -17.2% |
-| 07:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -31.8% |
+| 07:00 | EUR | German Car Registration (YoY) (Sep) |  |  | -27.8% |
 | 07:00 | EUR | French Car Registration (YoY) (Sep) |  |  | -24.3% |
+| 07:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -31.8% |
 | 08:00 | ZAR | Leading Indicators (Aug) |  |  | 113.60% |
 | 09:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Sep) |  | 2.40% | 2.50% |
@@ -20,10 +20,10 @@
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
-| 13:00 | MXN | Economic Activity (YoY) (Aug) |  | 0.90% | 3.80% |
 | 13:00 | MXN | Economic Activity (MoM) (Aug) |  |  | 0.60% |
-| 13:30 | CAD | IPPI (MoM) (Sep) |  | -0.4% | -0.8% |
+| 13:00 | MXN | Economic Activity (YoY) (Aug) |  | 0.90% | 3.80% |
 | 13:30 | CAD | IPPI (YoY) (Sep) |  |  | 0.2% |
+| 13:30 | CAD | IPPI (MoM) (Sep) |  | -0.4% | -0.8% |
 | 13:30 | CAD | RMPI (YoY) (Sep) |  |  | -2.5% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
