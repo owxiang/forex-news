@@ -12,7 +12,7 @@
 | 15:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 9 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 54 min | EUR | ECB's Lane Speaks |  |  |  |
-| 21:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.700M | -1.580M |
+| 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 9 min | EUR | ECB McCaul Speaks |  |  |  |
+| 24 min | USD | API Weekly Crude Oil Stock |  | 0.700M | -1.580M |
