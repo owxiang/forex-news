@@ -14,5 +14,5 @@
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 9 min | EUR | ECB McCaul Speaks |  |  |  |
-| 24 min | USD | API Weekly Crude Oil Stock |  | 0.700M | -1.580M |
+| 21:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock | 1.643M | 0.700M | -1.580M |

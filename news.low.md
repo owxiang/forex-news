@@ -30,4 +30,4 @@
 | 15:00 | USD | Richmond Services Index (Oct) | 3 |  | -1 |
 | 18:00 | USD | M2 Money Supply (MoM) (Sep) | 21.22T |  | 21.18T |
 | 20:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 54 min | KRW | Consumer Confidence (Oct) |  |  | 100.0 |
+| 22:00 | KRW | Consumer Confidence (Oct) | 101.7 |  | 100.0 |

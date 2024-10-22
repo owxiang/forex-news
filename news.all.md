@@ -42,6 +42,6 @@
 | 20:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 9 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -1.580M |
-| 54 min | KRW | Low | Consumer Confidence (Oct) |  |  | 100.0 |
+| 21:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.643M | 0.700M | -1.580M |
+| 22:00 | KRW | Low | Consumer Confidence (Oct) | 101.7 |  | 100.0 |
