@@ -6,10 +6,10 @@
 | 06:00 | SGD | Low | CPI (MoM) (Sep) | 0.30% |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) | 2.0% | 1.9% | 2.2% |
 | 09:00 | BRL | Low | Federal Tax Revenue (Sep) | 203.17B |  | 201.62B |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Low | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
+| 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.082% |  | 4.068% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.310% |  | 2.080% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
@@ -20,18 +20,18 @@
 | 12:00 | USD | Low | Mortgage Market Index | 214.8 |  | 230.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 672.6 |  | 734.6 |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) | 0.1% | 0.2% | 0.7% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Aug) | -0.8% | -0.4% | -0.6% |
-| 50 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 50 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 3.75% | 4.25% |
-| 15:00 | USD | High | Existing Home Sales (Sep) |  | 3.88M | 3.86M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -2.5% |
-| 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
-| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) | 0.1% | 0.2% | 0.7% |
+| 14:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 35 min | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 35 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 35 min | CAD | High | BoC Interest Rate Decision |  | 3.75% | 4.25% |
+| 50 min | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -2.5% |
+| 50 min | USD | High | Existing Home Sales (Sep) |  | 3.88M | 3.86M |
+| 50 min | EUR | Low | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
+| 50 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 50 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.800M | -2.191M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.165M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.039M |

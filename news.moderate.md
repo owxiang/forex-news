@@ -7,12 +7,12 @@
 | 10:50 | EUR | German 10-Year Bund Auction | 2.310% |  | 2.080% |
 | 11:00 | BRL | BRICS Summit |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 50 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | Existing Home Sales (MoM) (Sep) |  |  | -2.5% |
-| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 35 min | CAD | BoC Monetary Policy Report |  |  |  |
+| 35 min | CAD | BoC Rate Statement |  |  |  |
+| 50 min | USD | Existing Home Sales (MoM) (Sep) |  |  | -2.5% |
+| 50 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 50 min | EUR | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.108M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.039% |
