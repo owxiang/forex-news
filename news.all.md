@@ -48,6 +48,6 @@
 | 18:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.634B |  | 3.246B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 23 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 23:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Oct) |  |  | 46.7 |
-| 23:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  |  | 50.5 |
+| 21:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 54 min | AUD | Low | Judo Bank Australia Manufacturing PMI (Oct) |  |  | 46.7 |
+| 54 min | AUD | Low | Judo Bank Australia Services PMI (Oct) |  |  | 50.5 |
