@@ -19,11 +19,11 @@
 | 12:00 | USD | Low | MBA Purchase Index | 131.3 |  | 138.4 |
 | 12:00 | USD | Low | Mortgage Market Index | 214.8 |  | 230.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 672.6 |  | 734.6 |
-| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 54 min | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
-| 54 min | MXN | Low | Retail Sales (YoY) (Aug) |  | -0.4% | -0.6% |
-| 14:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) | 0.1% | 0.2% | 0.7% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Aug) | -0.8% | -0.4% | -0.6% |
+| 50 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 50 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 3.75% | 4.25% |

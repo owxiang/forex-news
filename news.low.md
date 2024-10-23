@@ -15,9 +15,9 @@
 | 12:00 | USD | MBA Purchase Index | 131.3 |  | 138.4 |
 | 12:00 | USD | Mortgage Market Index | 214.8 |  | 230.2 |
 | 12:00 | USD | Mortgage Refinance Index | 672.6 |  | 734.6 |
-| 54 min | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
-| 54 min | MXN | Retail Sales (YoY) (Aug) |  | -0.4% | -0.6% |
-| 14:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 13:00 | MXN | Retail Sales (MoM) (Aug) | 0.1% | 0.2% | 0.7% |
+| 13:00 | MXN | Retail Sales (YoY) (Aug) | -0.8% | -0.4% | -0.6% |
+| 50 min | GBP | BoE Breeden Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.165M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.039M |
