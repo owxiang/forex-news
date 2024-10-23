@@ -18,4 +18,4 @@
 | 18:00 | USD | 20-Year Bond Auction | 4.590% |  | 4.039% |
 | 18:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 23 min | GBP | BoE Gov Bailey Speaks |  |  |  |
