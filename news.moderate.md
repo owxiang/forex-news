@@ -6,7 +6,7 @@
 | 06:00 | SGD | CPI (YoY) (Sep) | 2.0% | 1.9% | 2.2% |
 | 10:50 | EUR | German 10-Year Bund Auction | 2.310% |  | 2.080% |
 | 11:00 | BRL | BRICS Summit |  |  |  |
-| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 24 min | INR | RBI MPC Meeting Minutes |  |  |  |
 | 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
