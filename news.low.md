@@ -8,8 +8,8 @@
 | 09:00 | ZAR | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
 | 09:00 | ZAR | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 09:00 | ZAR | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
-| 52 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.068% |
-| 11:00 | USD | IMF Meetings |  |  |  |
+| 10:00 | GBP | 3-Year Treasury Gilt Auction | 4.082% |  | 4.068% |
+| 54 min | USD | IMF Meetings |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.52% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -17.0% |
 | 12:00 | USD | MBA Purchase Index |  |  | 138.4 |

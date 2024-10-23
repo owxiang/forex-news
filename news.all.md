@@ -10,10 +10,10 @@
 | 09:00 | ZAR | Low | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
 | 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
-| 52 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.068% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.080% |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
+| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.082% |  | 4.068% |
+| 24 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.080% |
+| 54 min | USD | Low | IMF Meetings |  |  |  |
+| 54 min | BRL | Moderate | BRICS Summit |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.52% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -17.0% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 138.4 |
