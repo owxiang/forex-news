@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | SGD | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
 | 06:00 | SGD | CPI (MoM) (Sep) |  |  | 0.70% |
-| 09:00 | ZAR | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | ZAR | Core CPI (YoY) (Sep) |  |  | 4.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | ZAR | CPI (MoM) (Sep) |  |  | 0.1% |
 | 09:00 | ZAR | CPI (YoY) (Sep) |  |  | 4.4% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.068% |

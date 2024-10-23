@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | Core CPI (YoY) (Sep) |  | 2.70% | 2.70% |
-| 06:00 | SGD | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.080% |
 | 11:00 | BRL | BRICS Summit |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
