@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | CPI (MoM) (Sep) | 0.30% |  | 0.70% |
 | 09:00 | BRL | Federal Tax Revenue (Sep) | 203.17B |  | 201.62B |
-| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
-| 09:00 | ZAR | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
+| 09:00 | ZAR | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction | 4.082% |  | 4.068% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.52% |  | 6.52% |
