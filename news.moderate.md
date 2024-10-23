@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | Core CPI (YoY) (Sep) | 2.80% | 2.70% | 2.70% |
 | 06:00 | SGD | CPI (YoY) (Sep) | 2.0% | 1.9% | 2.2% |
-| 24 min | EUR | German 10-Year Bund Auction |  |  | 2.080% |
-| 54 min | BRL | BRICS Summit |  |  |  |
+| 10:50 | EUR | German 10-Year Bund Auction | 2.310% |  | 2.080% |
+| 11:00 | BRL | BRICS Summit |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
