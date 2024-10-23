@@ -15,7 +15,7 @@
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.346M |  | 0.108M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.039% |
+| 18:00 | USD | 20-Year Bond Auction | 4.590% |  | 4.039% |
 | 18:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 54 min | USD | Beige Book |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
 | 21:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
