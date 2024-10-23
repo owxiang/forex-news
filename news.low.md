@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | CPI (MoM) (Sep) | 0.30% |  | 0.70% |
 | 09:00 | BRL | Federal Tax Revenue (Sep) | 203.17B |  | 201.62B |
-| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
-| 09:00 | ZAR | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
+| 09:00 | ZAR | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction | 4.082% |  | 4.068% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.52% |  | 6.52% |
@@ -28,6 +28,6 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | 1.0% |
 | 15:30 | USD | Gasoline Inventories | 0.878M | -1.600M | -2.201M |
 | 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 3.246B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | 3.246B |
 | 23:00 | AUD | Judo Bank Australia Manufacturing PMI (Oct) |  |  | 46.7 |
 | 23:00 | AUD | Judo Bank Australia Services PMI (Oct) |  |  | 50.5 |

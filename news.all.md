@@ -6,10 +6,10 @@
 | 06:00 | SGD | Low | CPI (MoM) (Sep) | 0.30% |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) | 2.0% | 1.9% | 2.2% |
 | 09:00 | BRL | Low | Federal Tax Revenue (Sep) | 203.17B |  | 201.62B |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Low | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
+| 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.082% |  | 4.068% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.310% |  | 2.080% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
@@ -44,10 +44,10 @@
 | 15:30 | USD | Low | Gasoline Inventories | 0.878M | -1.600M | -2.201M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 53 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.039% |
-| 53 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.246B |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.039% |
+| 18:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 3.246B |
+| 54 min | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 23:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Oct) |  |  | 46.7 |
 | 23:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  |  | 50.5 |
