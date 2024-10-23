@@ -1,7 +1,8 @@
-## 23 October 2024 - High Impact Forex News
+## 24 October 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | CAD | BoC Interest Rate Decision | 3.75% | 3.75% | 4.25% |
-| 15:00 | USD | Existing Home Sales (Sep) | 3.84M | 3.88M | 3.88M |
-| 15:30 | USD | Crude Oil Inventories | 5.474M | 0.800M | -2.191M |
+| 13:30 | USD | Initial Jobless Claims |  | 243K | 241K |
+| 14:45 | USD | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
+| 14:45 | USD | S&P Global Services PMI (Oct) |  | 55.0 | 55.2 |
+| 15:00 | USD | New Home Sales (Sep) |  | 719K | 716K |
