@@ -13,7 +13,7 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Sep) | -1.0% |  | -2.0% |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.108M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.346M |  | 0.108M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.039% |
 | 18:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
