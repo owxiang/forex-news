@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
+| 5 min | SGD | Low | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Sep) |  | 2.70% | 2.70% |
 | 06:00 | SGD | Low | CPI (MoM) (Sep) |  |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 4.1% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.0% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 4.1% |
 | 09:00 | ZAR | Low | CPI (MoM) (Sep) |  |  | 0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Sep) |  |  | 4.4% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.068% |
@@ -29,8 +29,8 @@
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 3.75% | 4.25% |
-| 15:00 | USD | High | Existing Home Sales (Sep) |  | 3.88M | 3.86M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -2.5% |
+| 15:00 | USD | High | Existing Home Sales (Sep) |  | 3.88M | 3.86M |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
 | 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
