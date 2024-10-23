@@ -29,5 +29,5 @@
 | 15:30 | USD | Gasoline Inventories | 0.878M | -1.600M | -2.201M |
 | 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | -0.634B |  | 3.246B |
-| 54 min | AUD | Judo Bank Australia Manufacturing PMI (Oct) |  |  | 46.7 |
-| 54 min | AUD | Judo Bank Australia Services PMI (Oct) |  |  | 50.5 |
+| 23:00 | AUD | Judo Bank Australia Manufacturing PMI (Oct) | 46.6 |  | 46.7 |
+| 23:00 | AUD | Judo Bank Australia Services PMI (Oct) | 50.6 |  | 50.5 |
