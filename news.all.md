@@ -5,11 +5,12 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Sep) | 2.80% | 2.70% | 2.70% |
 | 06:00 | SGD | Low | CPI (MoM) (Sep) | 0.30% |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) | 2.0% | 1.9% | 2.2% |
-| 54 min | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 4.1% |
-| 54 min | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.0% |
-| 54 min | ZAR | Low | CPI (MoM) (Sep) |  |  | 0.1% |
-| 54 min | ZAR | Low | CPI (YoY) (Sep) |  | 3.9% | 4.4% |
-| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.068% |
+| 09:00 | BRL | Low | Federal Tax Revenue (Sep) | 203.17B |  | 201.62B |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
+| 09:00 | ZAR | Low | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 09:00 | ZAR | Low | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
+| 52 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.068% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.080% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
@@ -20,17 +21,16 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 734.6 |
 | 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Aug) |  | -0.4% | -0.6% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
 | 14:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:00 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
-| 14:30 | BRL | Low | Federal Tax Revenue | 203.17B |  | 201.62B |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 3.75% | 4.25% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -2.5% |
 | 15:00 | USD | High | Existing Home Sales (Sep) |  | 3.88M | 3.86M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -2.5% |
 | 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
 | 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |

@@ -3,11 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | CPI (MoM) (Sep) | 0.30% |  | 0.70% |
-| 54 min | ZAR | Core CPI (YoY) (Sep) |  |  | 4.1% |
-| 54 min | ZAR | Core CPI (MoM) (Sep) |  |  | 0.0% |
-| 54 min | ZAR | CPI (MoM) (Sep) |  |  | 0.1% |
-| 54 min | ZAR | CPI (YoY) (Sep) |  | 3.9% | 4.4% |
-| 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.068% |
+| 09:00 | BRL | Federal Tax Revenue (Sep) | 203.17B |  | 201.62B |
+| 09:00 | ZAR | Core CPI (MoM) (Sep) | 0.3% |  | 0.0% |
+| 09:00 | ZAR | Core CPI (YoY) (Sep) | 4.1% |  | 4.1% |
+| 09:00 | ZAR | CPI (MoM) (Sep) | 0.1% |  | 0.1% |
+| 09:00 | ZAR | CPI (YoY) (Sep) | 3.8% | 3.9% | 4.4% |
+| 52 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.068% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.52% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -17.0% |
@@ -15,11 +16,10 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 230.2 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 734.6 |
 | 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
-| 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
 | 13:00 | MXN | Retail Sales (YoY) (Aug) |  | -0.4% | -0.6% |
+| 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
 | 14:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 14:00 | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
-| 14:30 | BRL | Federal Tax Revenue | 203.17B |  | 201.62B |
 | 15:00 | EUR | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.165M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.039M |
