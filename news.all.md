@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 53 min | SGD | Moderate | Core CPI (YoY) (Sep) |  | 2.70% | 2.70% |
-| 53 min | SGD | Low | CPI (MoM) (Sep) |  |  | 0.70% |
-| 53 min | SGD | Moderate | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Sep) | 2.80% | 2.70% | 2.70% |
+| 06:00 | SGD | Low | CPI (MoM) (Sep) |  |  | 0.70% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Sep) | 2.0% | 1.9% | 2.2% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 4.1% |
 | 09:00 | ZAR | Low | CPI (MoM) (Sep) |  |  | 0.1% |
@@ -25,6 +25,7 @@
 | 14:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:00 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 14:30 | BRL | Low | Federal Tax Revenue | 203.17B |  | 201.62B |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 3.75% | 4.25% |
@@ -33,7 +34,7 @@
 | 15:00 | EUR | Low | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
 | 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.700M | -2.191M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.800M | -2.191M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.165M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.039M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.108M |

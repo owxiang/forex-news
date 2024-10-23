@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | SGD | CPI (MoM) (Sep) |  |  | 0.70% |
+| 06:00 | SGD | CPI (MoM) (Sep) |  |  | 0.70% |
 | 09:00 | ZAR | Core CPI (MoM) (Sep) |  |  | 0.0% |
 | 09:00 | ZAR | Core CPI (YoY) (Sep) |  |  | 4.1% |
 | 09:00 | ZAR | CPI (MoM) (Sep) |  |  | 0.1% |
@@ -19,6 +19,7 @@
 | 13:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
 | 14:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 14:00 | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 14:30 | BRL | Federal Tax Revenue | 203.17B |  | 201.62B |
 | 15:00 | EUR | Consumer Confidence (Oct) |  | -12.0 | -12.9 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.165M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.039M |
