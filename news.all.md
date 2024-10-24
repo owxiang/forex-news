@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.3 |  | 53.1 |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Oct) |  |  | 56.5 |
-| 06:00 | INR | Low | HSBC India Services PMI (Oct) |  |  | 57.7 |
+| 52 min | INR | Low | HSBC India Manufacturing PMI (Oct) |  |  | 56.5 |
+| 52 min | INR | Low | HSBC India Services PMI (Oct) |  |  | 57.7 |
 | 07:00 | NOK | Low | Unemployment Rate (Sep) |  |  | 4.0% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.9 | 44.6 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Oct) |  | 49.0 | 48.6 |
@@ -27,14 +27,15 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) |  | 52.3 | 52.4 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -35 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.428M | 1.470M |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  | -2.9% | 4.6% |
+| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.428M | 1.470M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | 0.12 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,867K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 243K | 241K |
@@ -47,8 +48,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 54.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 55.0 | 55.2 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
 | 15:00 | USD | High | New Home Sales (Sep) |  | 719K | 716K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 61B | 76B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -18 |
