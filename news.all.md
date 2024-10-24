@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
@@ -28,12 +28,12 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
 | 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
+| 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,897K | 1,880K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 243K | 242K |
@@ -44,8 +44,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) | 47.8 | 47.5 | 47.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.3 | 55.0 | 55.2 |
-| 15:00 | USD | High | New Home Sales (Sep) | 738K | 719K | 709K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
+| 15:00 | USD | High | New Home Sales (Sep) | 738K | 719K | 709K |
 | 15:30 | USD | Low | Natural Gas Storage | 80B | 61B | 76B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) | -4 |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) | 0 |  | -18 |
@@ -56,5 +56,5 @@
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.670% |  | 2.050% |
 | 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,039B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,029B |  | 7,039B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.228T |  | 3.229T |
