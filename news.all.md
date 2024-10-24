@@ -28,8 +28,8 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
 | 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
+| 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
@@ -44,8 +44,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) | 47.8 | 47.5 | 47.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.3 | 55.0 | 55.2 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
 | 15:00 | USD | High | New Home Sales (Sep) | 738K | 719K | 709K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
 | 15:30 | USD | Low | Natural Gas Storage | 80B | 61B | 76B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) | -4 |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) | 0 |  | -18 |
@@ -53,8 +53,8 @@
 | 16:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.650% |  | 4.700% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.590% |  | 4.630% |
-| 53 min | USD | Moderate | 5-Year TIPS Auction |  |  | 2.050% |
-| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.670% |  | 2.050% |
+| 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,039B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
