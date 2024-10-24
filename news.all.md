@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
@@ -32,8 +32,8 @@
 | 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,897K | 1,880K | 1,869K |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 243K | 242K |
