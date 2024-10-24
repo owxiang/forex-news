@@ -26,6 +26,6 @@
 | 15:30 | USD | Natural Gas Storage | 80B | 61B | 76B |
 | 16:00 | USD | KC Fed Composite Index (Oct) | -4 |  | -8 |
 | 16:00 | USD | KC Fed Manufacturing Index (Oct) | 0 |  | -18 |
-| 24 min | USD | 4-Week Bill Auction |  |  | 4.700% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 4.630% |
+| 16:30 | USD | 4-Week Bill Auction | 4.650% |  | 4.700% |
+| 16:30 | USD | 8-Week Bill Auction | 4.590% |  | 4.630% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |

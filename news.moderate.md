@@ -22,8 +22,8 @@
 | 14:45 | USD | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
 | 15:00 | USD | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
 | 16:00 | EUR | ECB McCaul Speaks |  |  |  |
-| 14 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | USD | 5-Year TIPS Auction |  |  | 2.050% |
-| 18:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 16:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 53 min | USD | 5-Year TIPS Auction |  |  | 2.050% |
+| 53 min | EUR | ECB's Lane Speaks |  |  |  |
 | 20:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,039B |
