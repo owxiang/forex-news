@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:00 | KRW | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -363.1B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 968.4B |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 49.9 | 49.7 |
+| 00:00 | KRW | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
+| 00:50 | JPY | Foreign Bonds Buying | -613.0B |  | -358.6B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
+| 4 min | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 49.9 | 49.7 |
 | 06:00 | INR | HSBC India Manufacturing PMI (Oct) |  |  | 56.5 |
 | 06:00 | INR | HSBC India Services PMI (Oct) |  |  | 57.7 |
 | 07:00 | NOK | Unemployment Rate (Sep) |  |  | 4.0% |
