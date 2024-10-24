@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
@@ -28,8 +28,8 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -35 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
 | 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
@@ -47,8 +47,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 54.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 55.0 | 55.2 |
-| 15:00 | USD | High | New Home Sales (Sep) |  | 719K | 716K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
+| 15:00 | USD | High | New Home Sales (Sep) |  | 719K | 716K |
 | 15:30 | USD | Low | Natural Gas Storage |  | 61B | 76B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -18 |
