@@ -55,6 +55,6 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.590% |  | 4.630% |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.670% |  | 2.050% |
 | 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 39 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,039B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
+| 20:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,039B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |

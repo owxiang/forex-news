@@ -25,5 +25,5 @@
 | 16:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | 5-Year TIPS Auction | 1.670% |  | 2.050% |
 | 18:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 39 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,039B |
+| 20:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 23 min | USD | Fed's Balance Sheet |  |  | 7,039B |
