@@ -1,60 +1,75 @@
-## 24 October 2024 - All Forex News
+## 25 October 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
-| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
-| 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.3 |  | 53.1 |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Oct) | 57.4 |  | 56.5 |
-| 06:00 | INR | Low | HSBC India Services PMI (Oct) | 57.9 |  | 57.7 |
-| 07:00 | NOK | Low | Unemployment Rate (Sep) | 4.0% |  | 4.0% |
-| 07:45 | EUR | Low | French Business Survey (Oct) | 92 | 98 | 99 |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 44.5 | 44.9 | 44.6 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Oct) | 47.3 | 49.0 | 48.6 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Oct) | 48.3 | 49.8 | 49.6 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Oct) | 48.4 | 47.6 | 47.5 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 42.6 | 40.7 | 40.6 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Oct) | 51.4 | 50.6 | 50.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 45.9 | 45.1 | 45.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) | 49.7 | 49.8 | 49.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) | 51.2 | 51.5 | 51.4 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) | 51.7 | 52.6 | 52.6 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) | 50.3 | 51.5 | 51.5 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) | 51.8 | 52.3 | 52.4 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) | -27 | -28 | -35 |
+| 00:01 | GBP | Low | GfK Consumer Confidence (Oct) | -21 | -20 | -20 |
+| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 1.2% |
+| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) |  | 1.7% | 2.0% |
+| 24 min | JPY | Low | Tokyo CPI (YoY) (Oct) |  |  | 2.2% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) |  |  | -0.2% |
+| 44 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  | -3.7% | 3.1% |
+| 06:00 | JPY | Low | Leading Index (Aug) |  | 106.7 | 109.3 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  | -2.6% | 0.2% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) |  | -3.1% | 6.7% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Sep) |  | 3.4% | 21.0% |
+| 07:45 | EUR | Low | French Consumer Confidence (Oct) |  | 94 | 95 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
+| 08:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
+| 09:00 | EUR | Moderate | German Business Expectations (Oct) |  | 86.8 | 86.3 |
+| 09:00 | EUR | Moderate | German Current Assessment (Oct) |  | 84.1 | 84.4 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 85.6 | 85.4 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
+| 09:00 | EUR | Low | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 0.8% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) |  | 0.8% | 0.6% |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
-| 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,897K | 1,880K | 1,869K |
-| 13:30 | USD | High | Initial Jobless Claims | 227K | 243K | 242K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 238.50K |  | 236.50K |
-| 14:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) | 47.8 | 47.5 | 47.3 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.3 | 55.0 | 55.2 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
-| 15:00 | USD | High | New Home Sales (Sep) | 738K | 719K | 709K |
-| 15:30 | USD | Low | Natural Gas Storage | 80B | 61B | 76B |
-| 16:00 | USD | Low | KC Fed Composite Index (Oct) | -4 |  | -8 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) | 0 |  | -18 |
-| 16:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 16:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.650% |  | 4.700% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 4.590% |  | 4.630% |
-| 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.670% |  | 2.050% |
-| 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 20:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,029B |  | 7,039B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.228T |  | 3.229T |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Sep) |  |  | 2,951.5K |
+| 12:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 93.7 |
+| 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 690.43B |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Sep) |  | -1.1% | 0.0% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | -0.2% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.3% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) |  |  | -1.3% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  | 0.2% | 0.0% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | 0.9% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  | 2.9% | 2.7% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 3.1% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 72.9 | 72.9 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 68.9 | 70.1 |
+| 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
+| 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 85.8K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 35.5K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -5.2K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 184.4K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 286.4K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 1.4K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -139.4K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | 28.1K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 54.0K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -65.4K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -13.7K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -122.4K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 25.2K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -26.2K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 19.3K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -5.1K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 34.1K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -0.3K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 17.1K |

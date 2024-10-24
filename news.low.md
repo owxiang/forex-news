@@ -1,31 +1,47 @@
-## 24 October 2024 - Low Impact Forex News
+## 25 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
-| 00:00 | KRW | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
-| 00:50 | JPY | Foreign Bonds Buying | -613.0B |  | -358.6B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
-| 06:00 | INR | HSBC India Manufacturing PMI (Oct) | 57.4 |  | 56.5 |
-| 06:00 | INR | HSBC India Services PMI (Oct) | 57.9 |  | 57.7 |
-| 07:00 | NOK | Unemployment Rate (Sep) | 4.0% |  | 4.0% |
-| 07:45 | EUR | French Business Survey (Oct) | 92 | 98 | 99 |
-| 08:15 | EUR | HCOB France Composite PMI (Oct) | 47.3 | 49.0 | 48.6 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Oct) | 48.4 | 47.6 | 47.5 |
-| 11:00 | GBP | CBI Industrial Trends Orders (Oct) | -27 | -28 | -35 |
+| 00:01 | GBP | GfK Consumer Confidence (Oct) | -21 | -20 | -20 |
+| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 1.2% |
+| 24 min | JPY | Tokyo CPI (YoY) (Oct) |  |  | 2.2% |
+| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Oct) |  |  | -0.2% |
+| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Aug) |  | -3.7% | 3.1% |
+| 06:00 | JPY | Leading Index (Aug) |  | 106.7 | 109.3 |
+| 06:00 | JPY | Leading Index (MoM) (Aug) |  | -2.6% | 0.2% |
+| 06:00 | SGD | Industrial Production (MoM) (Sep) |  | -3.1% | 6.7% |
+| 06:00 | SGD | Industrial Production (YoY) (Sep) |  | 3.4% | 21.0% |
+| 07:45 | EUR | French Consumer Confidence (Oct) |  | 94 | 95 |
+| 08:00 | EUR | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
+| 09:00 | EUR | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
+| 09:00 | EUR | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
+| 09:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
+| 09:00 | EUR | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 09:00 | EUR | Loans to Non Financial Corporations (Sep) |  |  | 0.8% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Sep) |  | 0.8% | 0.6% |
+| 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.579% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:30 | USD | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
-| 13:00 | MXN | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
-| 13:00 | MXN | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
-| 13:30 | USD | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 238.50K |  | 236.50K |
-| 15:30 | USD | Natural Gas Storage | 80B | 61B | 76B |
-| 16:00 | USD | KC Fed Composite Index (Oct) | -4 |  | -8 |
-| 16:00 | USD | KC Fed Manufacturing Index (Oct) | 0 |  | -18 |
-| 16:30 | USD | 4-Week Bill Auction | 4.650% |  | 4.700% |
-| 16:30 | USD | 8-Week Bill Auction | 4.590% |  | 4.630% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.228T |  | 3.229T |
+| 12:00 | BRL | FGV Consumer confidence (Oct) |  |  | 93.7 |
+| 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
+| 12:30 | INR | FX Reserves, USD |  |  | 690.43B |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | -0.2% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.3% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  |  | -1.3% |
+| 15:00 | USD | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
+| 16:00 | USD | Fed Collins Speaks |  |  |  |
+| 16:00 | CAD | Budget Balance (Aug) |  |  | -4.40B |
+| 16:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -7.30B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 35.5K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -5.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -139.4K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 54.0K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -65.4K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -13.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -122.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 25.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -26.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -0.3K |

@@ -1,29 +1,31 @@
-## 24 October 2024 - Moderate Impact Forex News
+## 25 October 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Oct) | 49.3 |  | 53.1 |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Oct) | 44.5 | 44.9 | 44.6 |
-| 08:15 | EUR | HCOB France Services PMI (Oct) | 48.3 | 49.8 | 49.6 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Oct) | 42.6 | 40.7 | 40.6 |
-| 08:30 | EUR | HCOB Germany Services PMI (Oct) | 51.4 | 50.6 | 50.6 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 45.9 | 45.1 | 45.0 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 49.7 | 49.8 | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Oct) | 51.2 | 51.5 | 51.4 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) | 51.7 | 52.6 | 52.6 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 50.3 | 51.5 | 51.5 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) | 51.8 | 52.3 | 52.4 |
-| 11:00 | BRL | BRICS Summit |  |  |  |
-| 12:30 | USD | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
-| 13:30 | USD | Continuing Jobless Claims | 1,897K | 1,880K | 1,869K |
-| 14:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 14:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
-| 15:00 | USD | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
-| 16:00 | EUR | ECB McCaul Speaks |  |  |  |
-| 16:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | USD | 5-Year TIPS Auction | 1.670% |  | 2.050% |
-| 18:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,029B |  | 7,039B |
+| 24 min | JPY | Tokyo Core CPI (YoY) (Oct) |  | 1.7% | 2.0% |
+| 06:00 | SGD | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
+| 08:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 09:00 | EUR | German Business Expectations (Oct) |  | 86.8 | 86.3 |
+| 09:00 | EUR | German Current Assessment (Oct) |  | 84.1 | 84.4 |
+| 09:00 | EUR | German Ifo Business Climate Index (Oct) |  | 85.6 | 85.4 |
+| 11:00 | EUR | France Jobseekers Total (Sep) |  |  | 2,951.5K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Sep) |  | 0.2% | 0.0% |
+| 13:30 | CAD | Retail Sales (MoM) (Aug) |  | 0.5% | 0.9% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  | 2.9% | 2.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 3.1% |
+| 15:00 | USD | Michigan Consumer Expectations (Oct) |  | 72.9 | 72.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Oct) |  | 68.9 | 70.1 |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 85.8K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 184.4K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 286.4K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 1.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | 28.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 19.3K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -5.1K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 34.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 17.1K |
