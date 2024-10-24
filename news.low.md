@@ -15,8 +15,8 @@
 | 08:45 | EUR | French Business Survey (Oct) |  | 98 | 99 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -35 |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
