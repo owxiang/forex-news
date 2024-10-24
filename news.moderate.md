@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | JPY | au Jibun Bank Japan Services PMI (Oct) |  |  | 53.1 |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (Oct) | 49.3 |  | 53.1 |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Oct) |  | 44.9 | 44.6 |
 | 08:15 | EUR | HCOB France Services PMI (Oct) |  | 49.8 | 49.6 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 40.6 |
