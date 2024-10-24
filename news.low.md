@@ -16,11 +16,10 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) | -27 | -28 | -35 |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 54 min | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
-| 54 min | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
-| 54 min | CNY | FDI (Sep) |  |  | -31.50% |
-| 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
-| 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
+| 55 min | MXN | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
+| 55 min | MXN | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
+| 55 min | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
+| 55 min | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 13:30 | USD | Building Permits (MoM) (Sep) |  | -2.9% | 4.6% |
 | 13:30 | USD | Chicago Fed National Activity (Sep) |  |  | 0.12 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.25K |

@@ -28,13 +28,12 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
-| 54 min | CNY | Low | FDI (Sep) |  |  | -31.50% |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.428M | 1.470M |
+| 55 min | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
+| 55 min | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
+| 55 min | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
+| 55 min | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 13:30 | USD | Low | Building Permits (MoM) (Sep) |  | -2.9% | 4.6% |
+| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.428M | 1.470M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | 0.12 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,867K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 243K | 241K |
