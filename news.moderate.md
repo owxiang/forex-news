@@ -10,11 +10,10 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 45.9 | 45.1 | 45.0 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 49.7 | 49.8 | 49.6 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Oct) | 51.2 | 51.5 | 51.4 |
-| 22 min | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 52.6 | 52.6 |
-| 22 min | GBP | Labour Productivity |  |  | 0.1% |
-| 22 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 51.5 | 51.5 |
-| 22 min | GBP | S&P Global/CIPS UK Services PMI (Oct) |  | 52.3 | 52.4 |
-| 11:00 | BRL | BRICS Summit |  |  |  |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) | 51.7 | 52.6 | 52.6 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 50.3 | 51.5 | 51.5 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) | 51.8 | 52.3 | 52.4 |
+| 54 min | BRL | BRICS Summit |  |  |  |
 | 13:30 | USD | Building Permits (Sep) |  | 1.428M | 1.470M |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,867K |
 | 13:30 | CAD | New Housing Price Index (MoM) (Sep) |  |  | 0.0% |
