@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
@@ -28,8 +28,8 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
 | 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
+| 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
@@ -44,15 +44,15 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) | 47.8 | 47.5 | 47.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.3 | 55.0 | 55.2 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
 | 15:00 | USD | High | New Home Sales (Sep) | 738K | 719K | 709K |
-| 24 min | USD | Low | Natural Gas Storage |  | 61B | 76B |
-| 54 min | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
-| 54 min | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -18 |
-| 54 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 16:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.630% |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
+| 15:30 | USD | Low | Natural Gas Storage | 80B | 61B | 76B |
+| 16:00 | USD | Low | KC Fed Composite Index (Oct) | -4 |  | -8 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) | 0 |  | -18 |
+| 16:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 14 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 24 min | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
+| 24 min | USD | Low | 8-Week Bill Auction |  |  | 4.630% |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 2.050% |
 | 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |

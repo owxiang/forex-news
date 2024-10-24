@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:00 | KRW | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
+| 00:00 | KRW | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:50 | JPY | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
@@ -23,9 +23,9 @@
 | 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
 | 13:30 | USD | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 238.50K |  | 236.50K |
-| 24 min | USD | Natural Gas Storage |  | 61B | 76B |
-| 54 min | USD | KC Fed Composite Index (Oct) |  |  | -8 |
-| 54 min | USD | KC Fed Manufacturing Index (Oct) |  |  | -18 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.700% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.630% |
+| 15:30 | USD | Natural Gas Storage | 80B | 61B | 76B |
+| 16:00 | USD | KC Fed Composite Index (Oct) | -4 |  | -8 |
+| 16:00 | USD | KC Fed Manufacturing Index (Oct) | 0 |  | -18 |
+| 24 min | USD | 4-Week Bill Auction |  |  | 4.700% |
+| 24 min | USD | 8-Week Bill Auction |  |  | 4.630% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |

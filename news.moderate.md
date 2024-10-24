@@ -21,8 +21,8 @@
 | 14:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
 | 15:00 | USD | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
-| 54 min | EUR | ECB McCaul Speaks |  |  |  |
-| 16:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 14 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 2.050% |
 | 18:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
