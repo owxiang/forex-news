@@ -19,11 +19,10 @@
 | 12:30 | USD | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
-| 20 min | USD | Chicago Fed National Activity (Sep) |  |  | 0.12 |
-| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 236.25K |
-| 50 min | EUR | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
+| 13:30 | USD | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 238.50K |  | 236.50K |
 | 15:30 | USD | Natural Gas Storage |  | 61B | 76B |
 | 16:00 | USD | KC Fed Composite Index (Oct) |  |  | -8 |
 | 16:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | -18 |

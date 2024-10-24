@@ -28,26 +28,24 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
 | 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
+| 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
-| 20 min | USD | Low | Chicago Fed National Activity (Sep) |  |  | 0.12 |
-| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,867K |
-| 20 min | USD | High | Initial Jobless Claims |  | 243K | 241K |
-| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.25K |
-| 20 min | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  |  | 0.0% |
-| 50 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 50 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 50 min | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
-| 14:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 54.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 55.0 | 55.2 |
-| 15:00 | USD | High | New Home Sales (Sep) |  | 719K | 716K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
+| 13:30 | USD | Low | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,897K | 1,880K | 1,869K |
+| 13:30 | USD | High | Initial Jobless Claims | 227K | 243K | 242K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 238.50K |  | 236.50K |
+| 14:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 19 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 34 min | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
+| 34 min | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 54.0 |
+| 34 min | USD | High | S&P Global Services PMI (Oct) |  | 55.0 | 55.2 |
+| 49 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
+| 49 min | USD | High | New Home Sales (Sep) |  | 719K | 716K |
 | 15:30 | USD | Low | Natural Gas Storage |  | 61B | 76B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -18 |
