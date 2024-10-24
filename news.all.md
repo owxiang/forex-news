@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.3 |  | 53.1 |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Oct) | 57.4 |  | 56.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (Oct) | 57.9 |  | 57.7 |
-| 54 min | NOK | Low | Unemployment Rate (Sep) |  |  | 4.0% |
-| 07:45 | EUR | Low | French Business Survey (Oct) |  | 98 | 99 |
+| 07:00 | NOK | Low | Unemployment Rate (Sep) | 4.0% |  | 4.0% |
+| 37 min | EUR | Low | French Business Survey (Oct) |  | 98 | 99 |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.9 | 44.6 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Oct) |  | 49.0 | 48.6 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Oct) |  | 49.8 | 49.6 |
@@ -48,8 +48,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 54.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 55.0 | 55.2 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
 | 15:00 | USD | High | New Home Sales (Sep) |  | 719K | 716K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 61B | 76B |
 | 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -18 |
