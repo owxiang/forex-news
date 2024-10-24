@@ -23,9 +23,9 @@
 | 13:00 | BRL | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
 | 13:30 | USD | Chicago Fed National Activity (Sep) | -0.28 |  | -0.01 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 238.50K |  | 236.50K |
-| 15:30 | USD | Natural Gas Storage |  | 61B | 76B |
-| 16:00 | USD | KC Fed Composite Index (Oct) |  |  | -8 |
-| 16:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | -18 |
+| 24 min | USD | Natural Gas Storage |  | 61B | 76B |
+| 54 min | USD | KC Fed Composite Index (Oct) |  |  | -8 |
+| 54 min | USD | KC Fed Manufacturing Index (Oct) |  |  | -18 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.700% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.630% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |

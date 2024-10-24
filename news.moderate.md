@@ -18,10 +18,10 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,897K | 1,880K | 1,869K |
 | 14:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 19 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 34 min | USD | S&P Global Composite PMI (Oct) |  |  | 54.0 |
-| 49 min | USD | New Home Sales (MoM) (Sep) |  |  | -4.7% |
-| 16:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 14:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
+| 15:00 | USD | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
+| 54 min | EUR | ECB McCaul Speaks |  |  |  |
 | 16:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 2.050% |
 | 18:00 | EUR | ECB's Lane Speaks |  |  |  |

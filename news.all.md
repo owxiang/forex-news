@@ -40,16 +40,16 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 238.50K |  | 236.50K |
 | 14:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 19 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 34 min | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
-| 34 min | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 54.0 |
-| 34 min | USD | High | S&P Global Services PMI (Oct) |  | 55.0 | 55.2 |
-| 49 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -4.7% |
-| 49 min | USD | High | New Home Sales (Sep) |  | 719K | 716K |
-| 15:30 | USD | Low | Natural Gas Storage |  | 61B | 76B |
-| 16:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -18 |
-| 16:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 14:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) | 47.8 | 47.5 | 47.3 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.3 |  | 54.0 |
+| 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.3 | 55.0 | 55.2 |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 4.1% |  | -2.3% |
+| 15:00 | USD | High | New Home Sales (Sep) | 738K | 719K | 709K |
+| 24 min | USD | Low | Natural Gas Storage |  | 61B | 76B |
+| 54 min | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
+| 54 min | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -18 |
+| 54 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 16:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.700% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.630% |
