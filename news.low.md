@@ -7,17 +7,17 @@
 | 00:50 | JPY | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
-| 52 min | INR | HSBC India Manufacturing PMI (Oct) |  |  | 56.5 |
-| 52 min | INR | HSBC India Services PMI (Oct) |  |  | 57.7 |
-| 07:00 | NOK | Unemployment Rate (Sep) |  |  | 4.0% |
+| 06:00 | INR | HSBC India Manufacturing PMI (Oct) | 57.4 |  | 56.5 |
+| 06:00 | INR | HSBC India Services PMI (Oct) | 57.9 |  | 57.7 |
+| 54 min | NOK | Unemployment Rate (Sep) |  |  | 4.0% |
+| 07:45 | EUR | French Business Survey (Oct) |  | 98 | 99 |
 | 08:15 | EUR | HCOB France Composite PMI (Oct) |  | 49.0 | 48.6 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Oct) |  | 47.6 | 47.5 |
-| 08:45 | EUR | French Business Survey (Oct) |  | 98 | 99 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -28 | -35 |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
 | 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
 | 13:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
 | 13:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
