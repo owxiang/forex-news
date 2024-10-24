@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
@@ -28,20 +28,20 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 55 min | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
-| 55 min | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
-| 55 min | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
-| 55 min | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
-| 13:30 | USD | Low | Building Permits (MoM) (Sep) |  | -2.9% | 4.6% |
-| 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.428M | 1.470M |
-| 13:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | 0.12 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,867K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 243K | 241K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.25K |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  |  | 0.0% |
-| 14:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:00 | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
+| 12:30 | USD | Moderate | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
+| 12:30 | USD | Low | Building Permits (MoM) (Sep) | -3.1% | -2.9% | 4.6% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) | 0.23% | 0.20% | 0.21% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Oct) | 0.43% | 0.40% | 0.09% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) | 0.54% | 0.50% | 0.13% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) | 4.47% | 4.43% | 4.12% |
+| 20 min | USD | Low | Chicago Fed National Activity (Sep) |  |  | 0.12 |
+| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,867K |
+| 20 min | USD | High | Initial Jobless Claims |  | 243K | 241K |
+| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.25K |
+| 20 min | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  |  | 0.0% |
+| 50 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 50 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 50 min | EUR | Low | Spanish Consumer Confidence (Sep) |  |  | 89.4 |
 | 14:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.5 | 47.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 54.0 |

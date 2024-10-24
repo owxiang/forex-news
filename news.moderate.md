@@ -14,11 +14,11 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 50.3 | 51.5 | 51.5 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) | 51.8 | 52.3 | 52.4 |
 | 11:00 | BRL | BRICS Summit |  |  |  |
-| 13:30 | USD | Building Permits (Sep) |  | 1.428M | 1.470M |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,867K |
-| 13:30 | CAD | New Housing Price Index (MoM) (Sep) |  |  | 0.0% |
-| 14:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 12:30 | USD | Building Permits (Sep) | 1.425M | 1.428M | 1.470M |
+| 20 min | USD | Continuing Jobless Claims |  | 1,880K | 1,867K |
+| 20 min | CAD | New Housing Price Index (MoM) (Sep) |  |  | 0.0% |
+| 50 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 50 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 14:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Oct) |  |  | 54.0 |
 | 15:00 | USD | New Home Sales (MoM) (Sep) |  |  | -4.7% |
