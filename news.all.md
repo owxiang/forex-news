@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 2.0% | 2.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | -0.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -613.0B |  | -358.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 580.4B |  | 972.6B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.0 | 49.9 | 49.7 |
@@ -24,13 +24,13 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) | 51.7 | 52.6 | 52.6 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) | 50.3 | 51.5 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) | 51.8 | 52.3 | 52.4 |
-| 54 min | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -28 | -35 |
-| 54 min | USD | Low | IMF Meetings |  |  |  |
-| 54 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 54 min | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
-| 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Oct) | -27 | -28 | -35 |
+| 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
+| 54 min | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
+| 54 min | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
+| 54 min | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |
 | 13:30 | USD | Moderate | Building Permits (Sep) |  | 1.428M | 1.470M |
