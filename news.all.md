@@ -11,16 +11,16 @@
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Oct) | 57.4 |  | 56.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (Oct) | 57.9 |  | 57.7 |
 | 07:00 | NOK | Low | Unemployment Rate (Sep) | 4.0% |  | 4.0% |
-| 37 min | EUR | Low | French Business Survey (Oct) |  | 98 | 99 |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.9 | 44.6 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Oct) |  | 49.0 | 48.6 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Oct) |  | 49.8 | 49.6 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 47.6 | 47.5 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 40.6 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 50.6 | 50.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 45.1 | 45.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 49.8 | 49.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.5 | 51.4 |
+| 9 min | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.9 | 44.6 |
+| 9 min | EUR | Low | HCOB France Composite PMI (Oct) |  | 49.0 | 48.6 |
+| 9 min | EUR | Moderate | HCOB France Services PMI (Oct) |  | 49.8 | 49.6 |
+| 24 min | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 47.6 | 47.5 |
+| 24 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 40.6 |
+| 24 min | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 50.6 | 50.6 |
+| 39 min | EUR | Low | French Business Survey (Oct) | 92 | 98 | 99 |
+| 54 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 45.1 | 45.0 |
+| 54 min | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 49.8 | 49.6 |
+| 54 min | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.5 | 51.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) |  | 52.6 | 52.6 |
 | 09:30 | GBP | Moderate | Labour Productivity |  |  | 0.1% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 51.5 | 51.5 |
@@ -29,8 +29,8 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.50% | 0.13% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 4.43% | 4.12% |
 | 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.21% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.40% | 0.09% |

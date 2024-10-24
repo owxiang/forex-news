@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (Oct) | 49.3 |  | 53.1 |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Oct) |  | 44.9 | 44.6 |
-| 08:15 | EUR | HCOB France Services PMI (Oct) |  | 49.8 | 49.6 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 40.6 |
-| 08:30 | EUR | HCOB Germany Services PMI (Oct) |  | 50.6 | 50.6 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) |  | 45.1 | 45.0 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) |  | 49.8 | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Oct) |  | 51.5 | 51.4 |
+| 9 min | EUR | HCOB France Manufacturing PMI (Oct) |  | 44.9 | 44.6 |
+| 9 min | EUR | HCOB France Services PMI (Oct) |  | 49.8 | 49.6 |
+| 24 min | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 40.6 |
+| 24 min | EUR | HCOB Germany Services PMI (Oct) |  | 50.6 | 50.6 |
+| 54 min | EUR | HCOB Eurozone Manufacturing PMI (Oct) |  | 45.1 | 45.0 |
+| 54 min | EUR | HCOB Eurozone Composite PMI (Oct) |  | 49.8 | 49.6 |
+| 54 min | EUR | HCOB Eurozone Services PMI (Oct) |  | 51.5 | 51.4 |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 52.6 | 52.6 |
 | 09:30 | GBP | Labour Productivity |  |  | 0.1% |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 51.5 | 51.5 |
