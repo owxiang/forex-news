@@ -49,8 +49,8 @@
 | 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 16:00 | CAD | Low | Budget Balance (Aug) | -2.55B |  | -4.40B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Aug) | -9.84B |  | -7.30B |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 85.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 35.5K |
