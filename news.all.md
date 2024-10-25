@@ -10,11 +10,11 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.6% | 2.7% | 2.7% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | -0.70% | -1.10% | -1.10% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  | -3.7% | 3.1% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  | -2.6% | 0.2% |
 | 06:00 | JPY | Low | Leading Index (Aug) |  | 106.7 | 109.3 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  | -2.6% | 0.2% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Sep) |  | 3.4% | 21.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Sep) |  | -3.1% | 6.7% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Sep) |  | 3.4% | 21.0% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) |  | 94 | 95 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
