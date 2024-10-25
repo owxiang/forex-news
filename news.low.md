@@ -31,16 +31,16 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | -0.8% |  | -1.3% |
 | 15:00 | USD | Michigan Current Conditions (Oct) | 64.9 | 62.7 | 62.7 |
 | 16:00 | USD | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Budget Balance (YoY) (Aug) | -9.84B |  | -7.30B |
 | 16:00 | CAD | Budget Balance (Aug) | -2.55B |  | -4.40B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 35.5K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -5.2K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -139.4K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 54.0K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -65.4K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -13.7K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -122.4K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 25.2K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -26.2K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -0.3K |
+| 16:00 | CAD | Budget Balance (YoY) (Aug) | -9.84B |  | -7.30B |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 35.5K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | -5.2K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -139.4K |
+| 25 min | USD | CFTC Silver speculative net positions |  |  | 54.0K |
+| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -65.4K |
+| 25 min | USD | CFTC Wheat speculative net positions |  |  | -13.7K |
+| 25 min | CAD | CFTC CAD speculative net positions |  |  | -122.4K |
+| 25 min | MXN | CFTC MXN speculative net positions |  |  | 25.2K |
+| 25 min | CHF | CFTC CHF speculative net positions |  |  | -26.2K |
+| 25 min | NZD | CFTC NZD speculative net positions |  |  | -0.3K |
