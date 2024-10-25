@@ -12,8 +12,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -3.2% | -3.7% | 3.1% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | -2.4% | -2.6% | 0.2% |
 | 06:00 | JPY | Low | Leading Index (Aug) | 106.9 | 106.7 | 109.3 |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 0.0% | -2.8% | 6.9% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 9.8% | 3.5% | 22.0% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 0.0% | -2.8% | 6.9% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) | 94 | 94 | 95 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | -5.2% |  | -1.3% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) | 11.21% | 11.40% | 11.27% |
@@ -31,15 +31,15 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Sep) | 2,837.9K |  | 2,951.5K |
 | 12:00 | BRL | Low | FGV Consumer confidence (Oct) | 93.0 |  | 93.7 |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 690.43B |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Sep) |  | -1.1% | 0.0% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | -0.2% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.3% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) |  |  | -1.3% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  | 0.2% | 0.0% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | 0.9% |
+| 12:30 | INR | Low | FX Reserves, USD | 688.27B |  | 690.43B |
+| 20 min | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
+| 20 min | USD | High | Durable Goods Orders (MoM) (Sep) |  | -1.1% | 0.0% |
+| 20 min | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | -0.2% |
+| 20 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.3% |
+| 20 min | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
+| 20 min | CAD | Low | Manufacturing Sales (MoM) (Sep) |  |  | -1.3% |
+| 20 min | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  | 0.2% | 0.0% |
+| 20 min | CAD | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | 0.9% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  | 2.9% | 2.7% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 3.1% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 72.9 | 72.9 |

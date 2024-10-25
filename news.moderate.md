@@ -8,10 +8,10 @@
 | 09:00 | EUR | German Current Assessment (Oct) | 85.7 | 84.4 | 84.4 |
 | 09:00 | EUR | German Ifo Business Climate Index (Oct) | 86.5 | 85.6 | 85.4 |
 | 11:00 | EUR | France Jobseekers Total (Sep) | 2,837.9K |  | 2,951.5K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
-| 13:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Sep) |  | 0.2% | 0.0% |
-| 13:30 | CAD | Retail Sales (MoM) (Aug) |  | 0.5% | 0.9% |
+| 20 min | USD | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
+| 20 min | CAD | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
+| 20 min | CAD | New Housing Price Index (MoM) (Sep) |  | 0.2% | 0.0% |
+| 20 min | CAD | Retail Sales (MoM) (Aug) |  | 0.5% | 0.9% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  | 2.9% | 2.7% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 3.1% |
 | 15:00 | USD | Michigan Consumer Expectations (Oct) |  | 72.9 | 72.9 |
