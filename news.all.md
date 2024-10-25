@@ -18,15 +18,15 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | -5.2% |  | -1.3% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) | 11.21% | 11.40% | 11.27% |
 | 08:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 54 min | EUR | Low | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
-| 54 min | EUR | Low | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
-| 54 min | EUR | Moderate | German Business Expectations (Oct) |  | 86.8 | 86.3 |
-| 54 min | EUR | Moderate | German Current Assessment (Oct) |  | 84.4 | 84.4 |
-| 54 min | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 85.6 | 85.4 |
-| 54 min | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
-| 54 min | EUR | Low | M3 Money Supply (Sep) |  |  | 16,435.2B |
-| 54 min | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 0.8% |
-| 54 min | EUR | Low | Private Sector Loans (YoY) (Sep) |  | 0.8% | 0.6% |
+| 09:00 | EUR | Low | Italian Business Confidence (Oct) | 85.8 | 87.0 | 86.6 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Oct) | 97.4 | 98.5 | 98.3 |
+| 09:00 | EUR | Moderate | German Business Expectations (Oct) | 87.3 | 86.8 | 86.4 |
+| 09:00 | EUR | Moderate | German Current Assessment (Oct) | 85.7 | 84.4 | 84.4 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 86.5 | 85.6 | 85.4 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | 3.2% | 2.9% | 2.9% |
+| 09:00 | EUR | Low | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 1.1% |  | 0.8% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) | 0.7% | 0.8% | 0.6% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Sep) |  |  | 2,951.5K |
@@ -48,8 +48,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
 | 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
 | 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 85.8K |

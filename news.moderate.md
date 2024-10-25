@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Oct) | 1.8% | 1.7% | 2.0% |
 | 08:00 | EUR | ECB McCaul Speaks |  |  |  |
-| 54 min | EUR | German Business Expectations (Oct) |  | 86.8 | 86.3 |
-| 54 min | EUR | German Current Assessment (Oct) |  | 84.4 | 84.4 |
-| 54 min | EUR | German Ifo Business Climate Index (Oct) |  | 85.6 | 85.4 |
+| 09:00 | EUR | German Business Expectations (Oct) | 87.3 | 86.8 | 86.4 |
+| 09:00 | EUR | German Current Assessment (Oct) | 85.7 | 84.4 | 84.4 |
+| 09:00 | EUR | German Ifo Business Climate Index (Oct) | 86.5 | 85.6 | 85.4 |
 | 11:00 | EUR | France Jobseekers Total (Sep) |  |  | 2,951.5K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
