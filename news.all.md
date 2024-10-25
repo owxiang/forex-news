@@ -12,21 +12,21 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -3.2% | -3.7% | 3.1% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | -2.4% | -2.6% | 0.2% |
 | 06:00 | JPY | Low | Leading Index (Aug) | 106.9 | 106.7 | 109.3 |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 9.8% | 3.5% | 22.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 0.0% | -2.8% | 6.9% |
-| 36 min | EUR | Low | French Consumer Confidence (Oct) |  | 94 | 95 |
-| 51 min | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
-| 51 min | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
-| 51 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
-| 09:00 | EUR | Moderate | German Business Expectations (Oct) |  | 86.8 | 86.3 |
-| 09:00 | EUR | Moderate | German Current Assessment (Oct) |  | 84.4 | 84.4 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 85.6 | 85.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
-| 09:00 | EUR | Low | M3 Money Supply (Sep) |  |  | 16,435.2B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 0.8% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) |  | 0.8% | 0.6% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 9.8% | 3.5% | 22.0% |
+| 07:45 | EUR | Low | French Consumer Confidence (Oct) | 94 | 94 | 95 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | -5.2% |  | -1.3% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) | 11.21% | 11.40% | 11.27% |
+| 08:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 54 min | EUR | Low | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
+| 54 min | EUR | Low | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
+| 54 min | EUR | Moderate | German Business Expectations (Oct) |  | 86.8 | 86.3 |
+| 54 min | EUR | Moderate | German Current Assessment (Oct) |  | 84.4 | 84.4 |
+| 54 min | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 85.6 | 85.4 |
+| 54 min | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
+| 54 min | EUR | Low | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 54 min | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 0.8% |
+| 54 min | EUR | Low | Private Sector Loans (YoY) (Sep) |  | 0.8% | 0.6% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Sep) |  |  | 2,951.5K |
@@ -48,8 +48,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
 | 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
+| 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 85.8K |
