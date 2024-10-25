@@ -27,11 +27,10 @@
 | 09:00 | EUR | Low | M3 Money Supply (Sep) | 16,548.7B |  | 16,435.2B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) | 0.7% | 0.8% | 0.6% |
-| 33 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
-| 53 min | USD | Low | IMF Meetings |  |  |  |
-| 53 min | EUR | Moderate | France Jobseekers Total (Sep) |  |  | 2,951.5K |
-| 12:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 93.7 |
-| 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
+| 10:15 | CNY | Low | FDI (Sep) | -30.40% |  | -31.50% |
+| 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Sep) | 2,837.9K |  | 2,951.5K |
+| 53 min | BRL | Low | FGV Consumer confidence (Oct) |  |  | 93.7 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 690.43B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Sep) |  | -1.1% | 0.0% |
@@ -48,8 +47,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
 | 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
+| 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 85.8K |

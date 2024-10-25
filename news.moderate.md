@@ -7,7 +7,7 @@
 | 09:00 | EUR | German Business Expectations (Oct) | 87.3 | 86.8 | 86.4 |
 | 09:00 | EUR | German Current Assessment (Oct) | 85.7 | 84.4 | 84.4 |
 | 09:00 | EUR | German Ifo Business Climate Index (Oct) | 86.5 | 85.6 | 85.4 |
-| 53 min | EUR | France Jobseekers Total (Sep) |  |  | 2,951.5K |
+| 11:00 | EUR | France Jobseekers Total (Sep) | 2,837.9K |  | 2,951.5K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 0.3% | 0.4% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Sep) |  | 0.2% | 0.0% |
