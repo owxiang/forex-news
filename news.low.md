@@ -19,11 +19,11 @@
 | 09:00 | EUR | Italian Business Confidence (Oct) | 85.8 | 87.0 | 86.6 |
 | 09:00 | EUR | Italian Consumer Confidence (Oct) | 97.4 | 98.5 | 98.3 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Sep) | 3.2% | 2.9% | 2.9% |
-| 09:00 | EUR | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 09:00 | EUR | M3 Money Supply (Sep) | 16,548.7B |  | 16,435.2B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Sep) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Sep) | 0.7% | 0.8% | 0.6% |
-| 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.579% |
-| 11:00 | USD | IMF Meetings |  |  |  |
+| 33 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.579% |
+| 53 min | USD | IMF Meetings |  |  |  |
 | 12:00 | BRL | FGV Consumer confidence (Oct) |  |  | 93.7 |
 | 12:00 | CNY | FDI (Sep) |  |  | -31.50% |
 | 12:30 | INR | FX Reserves, USD |  |  | 690.43B |

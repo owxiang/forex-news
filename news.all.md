@@ -24,12 +24,12 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Oct) | 85.7 | 84.4 | 84.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 86.5 | 85.6 | 85.4 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | 3.2% | 2.9% | 2.9% |
-| 09:00 | EUR | Low | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 09:00 | EUR | Low | M3 Money Supply (Sep) | 16,548.7B |  | 16,435.2B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 1.1% |  | 0.8% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) | 0.7% | 0.8% | 0.6% |
-| 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Sep) |  |  | 2,951.5K |
+| 33 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
+| 53 min | USD | Low | IMF Meetings |  |  |  |
+| 53 min | EUR | Moderate | France Jobseekers Total (Sep) |  |  | 2,951.5K |
 | 12:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 93.7 |
 | 12:00 | CNY | Low | FDI (Sep) |  |  | -31.50% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 690.43B |
