@@ -24,8 +24,8 @@
 | 09:00 | EUR | Private Sector Loans (YoY) (Sep) | 0.7% | 0.8% | 0.6% |
 | 10:15 | CNY | FDI (Sep) | -30.40% |  | -31.50% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 53 min | BRL | FGV Consumer confidence (Oct) |  |  | 93.7 |
-| 12:30 | INR | FX Reserves, USD |  |  | 690.43B |
+| 12:00 | BRL | FGV Consumer confidence (Oct) | 93.0 |  | 93.7 |
+| 25 min | INR | FX Reserves, USD |  |  | 690.43B |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | -0.2% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Sep) |  |  | 0.3% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  |  | -1.3% |

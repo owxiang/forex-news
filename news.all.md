@@ -30,8 +30,8 @@
 | 10:15 | CNY | Low | FDI (Sep) | -30.40% |  | -31.50% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Sep) | 2,837.9K |  | 2,951.5K |
-| 53 min | BRL | Low | FGV Consumer confidence (Oct) |  |  | 93.7 |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 690.43B |
+| 12:00 | BRL | Low | FGV Consumer confidence (Oct) | 93.0 |  | 93.7 |
+| 25 min | INR | Low | FX Reserves, USD |  |  | 690.43B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Sep) |  | -0.1% | 0.5% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Sep) |  | -1.1% | 0.0% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | -0.2% |
