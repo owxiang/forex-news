@@ -12,11 +12,11 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (Aug) | -0.7% | 0.3% | 0.3% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Sep) | 0.0% | 0.2% | 0.0% |
 | 13:30 | CAD | Retail Sales (MoM) (Aug) | 0.4% | 0.5% | 0.9% |
-| 49 min | USD | Michigan 1-Year Inflation Expectations (Oct) |  | 2.9% | 2.7% |
-| 49 min | USD | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 3.1% |
-| 49 min | USD | Michigan Consumer Expectations (Oct) |  | 72.9 | 72.9 |
-| 49 min | USD | Michigan Consumer Sentiment (Oct) |  | 68.9 | 70.1 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Oct) | 2.7% | 2.9% | 2.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 3.0% | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Oct) | 74.1 | 72.9 | 72.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Oct) | 70.5 | 68.9 | 68.9 |
+| 24 min | USD | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 85.8K |

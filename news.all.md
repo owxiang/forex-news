@@ -10,10 +10,10 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.6% | 2.7% | 2.7% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | -0.70% | -1.10% | -1.10% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) | -3.2% | -3.7% | 3.1% |
-| 06:00 | JPY | Low | Leading Index (Aug) | 106.9 | 106.7 | 109.3 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) | -2.4% | -2.6% | 0.2% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 0.0% | -2.8% | 6.9% |
+| 06:00 | JPY | Low | Leading Index (Aug) | 106.9 | 106.7 | 109.3 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 9.8% | 3.5% | 22.0% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 0.0% | -2.8% | 6.9% |
 | 07:45 | EUR | Low | French Consumer Confidence (Oct) | 94 | 94 | 95 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) | -5.2% |  | -1.3% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) | 11.21% | 11.40% | 11.27% |
@@ -40,15 +40,15 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) | -0.8% |  | -1.3% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) | 0.0% | 0.2% | 0.0% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Aug) | 0.4% | 0.5% | 0.9% |
-| 49 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  | 2.9% | 2.7% |
-| 49 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 3.1% |
-| 49 min | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 72.9 | 72.9 |
-| 49 min | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 68.9 | 70.1 |
-| 49 min | USD | Low | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
-| 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 2.7% | 2.9% | 2.9% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 3.0% | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 74.1 | 72.9 | 72.9 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 70.5 | 68.9 | 68.9 |
+| 15:00 | USD | Low | Michigan Current Conditions (Oct) | 64.9 | 62.7 | 62.7 |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
+| 54 min | USD | Low | Fed Collins Speaks |  |  |  |
+| 54 min | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
+| 54 min | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 85.8K |
