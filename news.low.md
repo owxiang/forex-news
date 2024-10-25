@@ -32,8 +32,8 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  |  | -1.3% |
 | 15:00 | USD | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
 | 16:00 | USD | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Budget Balance (Aug) |  |  | -4.40B |
 | 16:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -7.30B |
+| 16:00 | CAD | Budget Balance (Aug) |  |  | -4.40B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 35.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -5.2K |
