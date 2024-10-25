@@ -47,8 +47,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) | 64.9 | 62.7 | 62.7 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 3.3% | 3.4% | 3.4% |
 | 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) | -9.84B |  | -7.30B |
 | 16:00 | CAD | Low | Budget Balance (Aug) | -2.55B |  | -4.40B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) | -9.84B |  | -7.30B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 480 | 482 | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 74.6K |  | 85.8K |
