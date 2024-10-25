@@ -14,10 +14,10 @@
 | 06:00 | JPY | Low | Leading Index (Aug) | 106.9 | 106.7 | 109.3 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Sep) | 9.8% | 3.5% | 22.0% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Sep) | 0.0% | -2.8% | 6.9% |
-| 07:45 | EUR | Low | French Consumer Confidence (Oct) |  | 94 | 95 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
-| 08:00 | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
-| 08:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 36 min | EUR | Low | French Consumer Confidence (Oct) |  | 94 | 95 |
+| 51 min | EUR | Low | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
+| 51 min | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
+| 51 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
 | 09:00 | EUR | Moderate | German Business Expectations (Oct) |  | 86.8 | 86.3 |

@@ -13,9 +13,9 @@
 | 06:00 | JPY | Leading Index (Aug) | 106.9 | 106.7 | 109.3 |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) | 9.8% | 3.5% | 22.0% |
 | 06:00 | SGD | Industrial Production (MoM) (Sep) | 0.0% | -2.8% | 6.9% |
-| 07:45 | EUR | French Consumer Confidence (Oct) |  | 94 | 95 |
-| 08:00 | EUR | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
-| 08:00 | EUR | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
+| 36 min | EUR | French Consumer Confidence (Oct) |  | 94 | 95 |
+| 51 min | EUR | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
+| 51 min | EUR | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
 | 09:00 | EUR | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
 | 09:00 | EUR | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
