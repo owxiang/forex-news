@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Tokyo Core CPI (YoY) (Oct) |  | 1.7% | 2.0% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Oct) | 1.8% | 1.7% | 2.0% |
 | 06:00 | SGD | CPI (YoY) (Sep) |  | 1.9% | 2.2% |
 | 08:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 09:00 | EUR | German Business Expectations (Oct) |  | 86.8 | 86.3 |

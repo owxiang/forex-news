@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Oct) | -21 | -20 | -20 |
-| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 1.2% |
-| 24 min | JPY | Tokyo CPI (YoY) (Oct) |  |  | 2.2% |
-| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Oct) |  |  | -0.2% |
-| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.7% | 2.7% |
-| 01:30 | SGD | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) | 1.1% |  | 1.2% |
+| 00:30 | JPY | Tokyo CPI (YoY) (Oct) | 1.8% |  | 2.2% |
+| 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Oct) | 0.4% |  | -0.2% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.6% | 2.7% | 2.7% |
+| 4 min | SGD | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Aug) |  | -3.7% | 3.1% |
-| 06:00 | JPY | Leading Index (Aug) |  | 106.7 | 109.3 |
 | 06:00 | JPY | Leading Index (MoM) (Aug) |  | -2.6% | 0.2% |
-| 06:00 | SGD | Industrial Production (MoM) (Sep) |  | -3.1% | 6.7% |
+| 06:00 | JPY | Leading Index (Aug) |  | 106.7 | 109.3 |
 | 06:00 | SGD | Industrial Production (YoY) (Sep) |  | 3.4% | 21.0% |
+| 06:00 | SGD | Industrial Production (MoM) (Sep) |  | -3.1% | 6.7% |
 | 07:45 | EUR | French Consumer Confidence (Oct) |  | 94 | 95 |
 | 08:00 | EUR | Spanish PPI (YoY) (Sep) |  |  | -1.3% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
