@@ -24,8 +24,8 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Oct) |  | 86.8 | 86.3 |
 | 09:00 | EUR | Moderate | German Current Assessment (Oct) |  | 84.1 | 84.4 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 85.6 | 85.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
 | 09:00 | EUR | Low | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 0.8% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Sep) |  | 0.8% | 0.6% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
@@ -49,8 +49,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 3.4% | 3.4% |
 | 16:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
 | 16:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.40B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -7.30B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 482 | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 85.8K |

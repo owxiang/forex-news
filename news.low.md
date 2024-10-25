@@ -18,8 +18,8 @@
 | 08:00 | EUR | Spanish Unemployment Rate (Q3) |  | 11.40% | 11.27% |
 | 09:00 | EUR | Italian Business Confidence (Oct) |  | 87.0 | 86.7 |
 | 09:00 | EUR | Italian Consumer Confidence (Oct) |  | 98.5 | 98.3 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
 | 09:00 | EUR | M3 Money Supply (Sep) |  |  | 16,435.2B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Sep) |  | 2.9% | 2.9% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Sep) |  |  | 0.8% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Sep) |  | 0.8% | 0.6% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.579% |
@@ -32,8 +32,8 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) |  |  | -1.3% |
 | 15:00 | USD | Michigan Current Conditions (Oct) |  | 62.7 | 63.3 |
 | 16:00 | USD | Fed Collins Speaks |  |  |  |
-| 16:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -7.30B |
 | 16:00 | CAD | Budget Balance (Aug) |  |  | -4.40B |
+| 16:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -7.30B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 35.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -5.2K |
