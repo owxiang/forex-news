@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20 min | USD | Durable Goods Orders (MoM) (Sep) |  | -1.1% | 0.0% |
+| 13:30 | USD | Durable Goods Orders (MoM) (Sep) | -0.8% | -1.1% | -0.8% |
