@@ -5,10 +5,10 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Oct) | -21 | -20 | -20 |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Oct) | 1.1% |  | 1.2% |
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) | 1.8% | 1.7% | 2.0% |
-| 00:30 | JPY | Low | Tokyo CPI (YoY) (Oct) | 1.8% |  | 2.2% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Oct) | 1.8% |  | 2.1% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) | 0.4% |  | -0.2% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.6% | 2.7% | 2.7% |
-| 4 min | SGD | Low | URA Property Index (QoQ) (Q3) |  | -1.10% | -1.10% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q3) | -0.70% | -1.10% | -1.10% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  | -3.7% | 3.1% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Aug) |  | -2.6% | 0.2% |
 | 06:00 | JPY | Low | Leading Index (Aug) |  | 106.7 | 109.3 |
