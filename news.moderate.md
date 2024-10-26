@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:20 | GBP | BoE Gov Bailey Speaks |  |  |  |
