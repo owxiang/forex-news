@@ -1,6 +1,5 @@
-## 26 October 2024 - All Forex News
+## 27 October 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 16:20 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 02:30 | CNY | Low | Chinese Industrial profit YTD (Sep) |  |  | 0.5% |

@@ -1,5 +1,5 @@
-## 26 October 2024 - Low Impact Forex News
+## 27 October 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | USD | IMF Meetings |  |  |  |
+| 02:30 | CNY | Chinese Industrial profit YTD (Sep) |  |  | 0.5% |
