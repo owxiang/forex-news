@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Chinese Industrial profit YTD (Sep) |  |  | 0.5% |
+| 01:30 | CNY | Chinese Industrial profit YTD (Sep) | -3.5% |  | 0.5% |
