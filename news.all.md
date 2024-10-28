@@ -8,10 +8,10 @@
 | 08:30 | HKD | Low | Trade Balance (Sep) | -53.2B |  | -33.1B |
 | 09:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Oct) | -6 | -9 | 4 |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | MXN | Low | Trade Balance (Sep) |  |  | -4.868B |
-| 54 min | MXN | Low | Trade Balance (USD) (Sep) |  |  | -2.565B |
-| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Trade Balance (Sep) | -0.579B |  | -4.868B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Sep) | -0.168B |  | -2.565B |
+| 20 min | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.593% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.071% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.824% |

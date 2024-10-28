@@ -7,9 +7,9 @@
 | 08:30 | HKD | Imports (MoM) (Sep) | 1.4% |  | 7.9% |
 | 08:30 | HKD | Trade Balance (Sep) | -53.2B |  | -33.1B |
 | 11:00 | GBP | CBI Distributive Trades Survey (Oct) | -6 | -9 | 4 |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 54 min | MXN | Trade Balance (Sep) |  |  | -4.868B |
-| 54 min | MXN | Trade Balance (USD) (Sep) |  |  | -2.565B |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Trade Balance (Sep) | -0.579B |  | -4.868B |
+| 12:00 | MXN | Trade Balance (USD) (Sep) | -0.168B |  | -2.565B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.593% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.071% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.824% |
