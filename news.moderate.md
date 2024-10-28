@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 09:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 12:30 | CAD | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |
 | 15:30 | USD | 2-Year Note Auction |  |  | 3.520% |
 | 17:00 | USD | 5-Year Note Auction |  |  | 3.519% |

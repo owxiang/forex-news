@@ -6,7 +6,7 @@
 | 08:30 | HKD | Exports (MoM) (Sep) | 4.7% |  | 6.4% |
 | 08:30 | HKD | Imports (MoM) (Sep) | 1.4% |  | 7.9% |
 | 08:30 | HKD | Trade Balance (Sep) | -53.2B |  | -33.1B |
-| 11:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -9 | 4 |
+| 53 min | GBP | CBI Distributive Trades Survey (Oct) |  | -9 | 4 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Trade Balance (Sep) |  |  | -4.868B |
 | 12:00 | MXN | Trade Balance (USD) (Sep) |  |  | -2.565B |
