@@ -13,7 +13,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.531% |  | 2.593% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.055% |  | 3.071% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.778% |  | 2.824% |
-| 24 min | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -9.0 |
+| 14:30 | USD | Dallas Fed Mfg Business Index (Oct) | -3.0 |  | -9.0 |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 4.510% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 4.310% |
 | 23:30 | JPY | Jobs/applications ratio (Sep) |  | 1.23 | 1.23 |
