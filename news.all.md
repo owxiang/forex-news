@@ -22,5 +22,5 @@
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.519% |
 | 17:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 19:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 23:30 | JPY | Low | Jobs/applications ratio (Sep) |  |  | 1.23 |
+| 23:30 | JPY | Low | Jobs/applications ratio (Sep) |  | 1.23 | 1.23 |
 | 23:30 | JPY | Low | Unemployment Rate (Sep) |  | 2.5% | 2.5% |

@@ -16,5 +16,5 @@
 | 14:30 | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -9.0 |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 4.310% |
 | 17:00 | USD | 3-Month Bill Auction |  |  | 4.510% |
-| 23:30 | JPY | Jobs/applications ratio (Sep) |  |  | 1.23 |
+| 23:30 | JPY | Jobs/applications ratio (Sep) |  | 1.23 | 1.23 |
 | 23:30 | JPY | Unemployment Rate (Sep) |  | 2.5% | 2.5% |
