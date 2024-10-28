@@ -11,10 +11,10 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Trade Balance (Sep) | -0.579B |  | -4.868B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Sep) | -0.168B |  | -2.758B |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.593% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.071% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.824% |
-| 14:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -9.0 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.531% |  | 2.593% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.055% |  | 3.071% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.778% |  | 2.824% |
+| 24 min | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -9.0 |
 | 15:30 | USD | Moderate | 2-Year Note Auction |  |  | 3.520% |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.510% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.310% |
