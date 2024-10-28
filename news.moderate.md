@@ -4,6 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 09:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:30 | USD | 2-Year Note Auction | 4.130% |  | 3.520% |
-| 53 min | USD | 5-Year Note Auction |  |  | 3.519% |
-| 17:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 17:00 | USD | 5-Year Note Auction | 4.138% |  | 3.519% |
+| 24 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 19:45 | EUR | ECB's De Guindos Speaks |  |  |  |
