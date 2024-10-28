@@ -15,10 +15,10 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.055% |  | 3.071% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.778% |  | 2.824% |
 | 14:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) | -3.0 |  | -9.0 |
-| 15:30 | USD | Moderate | 2-Year Note Auction |  |  | 3.520% |
-| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.510% |
-| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.310% |
-| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.519% |
+| 15:30 | USD | Moderate | 2-Year Note Auction | 4.130% |  | 3.520% |
+| 15:30 | USD | Low | 6-Month Bill Auction | 4.325% |  | 4.310% |
+| 53 min | USD | Low | 3-Month Bill Auction |  |  | 4.510% |
+| 53 min | USD | Moderate | 5-Year Note Auction |  |  | 3.519% |
 | 17:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 19:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 23:30 | JPY | Low | Jobs/applications ratio (Sep) |  | 1.23 | 1.23 |
