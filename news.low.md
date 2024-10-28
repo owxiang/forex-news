@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | EUR | Spanish Retail Sales (YoY) (Sep) |  |  | 2.3% |
-| 08:30 | HKD | Exports (MoM) (Sep) |  |  | 6.4% |
-| 08:30 | HKD | Imports (MoM) (Sep) |  |  | 7.9% |
-| 08:30 | HKD | Trade Balance (Sep) |  |  | -33.1B |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Sep) | 4.1% |  | 2.4% |
+| 21 min | HKD | Exports (MoM) (Sep) |  |  | 6.4% |
+| 21 min | HKD | Imports (MoM) (Sep) |  |  | 7.9% |
+| 21 min | HKD | Trade Balance (Sep) |  |  | -33.1B |
 | 11:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -9 | 4 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Trade Balance (Sep) |  |  | -4.868B |
