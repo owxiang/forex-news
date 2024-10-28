@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) | 4.1% |  | 2.4% |
-| 21 min | HKD | Low | Exports (MoM) (Sep) |  |  | 6.4% |
-| 21 min | HKD | Low | Imports (MoM) (Sep) |  |  | 7.9% |
-| 21 min | HKD | Low | Trade Balance (Sep) |  |  | -33.1B |
-| 09:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 08:30 | HKD | Low | Exports (MoM) (Sep) | 4.7% |  | 6.4% |
+| 08:30 | HKD | Low | Imports (MoM) (Sep) | 1.4% |  | 7.9% |
+| 08:30 | HKD | Low | Trade Balance (Sep) | -53.2B |  | -33.1B |
+| 23 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -9 | 4 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Trade Balance (Sep) |  |  | -4.868B |
