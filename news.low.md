@@ -5,8 +5,8 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.8% | -0.5% | -0.6% |
 | 02:30 | SGD | Unemployment Rate (Q3) | 1.8% |  | 2.0% |
 | 03:35 | JPY | 2-Year JGB Auction | 0.454% |  | 0.392% |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Sep) |  |  | 6.11% |
-| 06:00 | ZAR | Private Sector Credit (Sep) |  |  | 4.95% |
+| 54 min | ZAR | M3 Money Supply (YoY) (Sep) |  |  | 6.11% |
+| 54 min | ZAR | Private Sector Credit (Sep) |  |  | 4.95% |
 | 09:30 | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.295B |
 | 09:30 | GBP | M3 Money Supply (Sep) |  |  | 3,062.8B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | -0.1% |

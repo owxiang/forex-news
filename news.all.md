@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.8% | -0.5% | -0.6% |
 | 02:30 | SGD | Low | Unemployment Rate (Q3) | 1.8% |  | 2.0% |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 0.454% |  | 0.392% |
-| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Sep) |  |  | 6.11% |
-| 06:00 | ZAR | Low | Private Sector Credit (Sep) |  |  | 4.95% |
+| 54 min | ZAR | Low | M3 Money Supply (YoY) (Sep) |  |  | 6.11% |
+| 54 min | ZAR | Low | Private Sector Credit (Sep) |  |  | 4.95% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Nov) |  | -20.4 | -21.2 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Sep) |  | 1.400B | 1.295B |
 | 09:30 | GBP | Low | M3 Money Supply (Sep) |  |  | 3,062.8B |
@@ -21,7 +21,7 @@
 | 11:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 11:30 | BRL | Low | Current Account (USD) (Sep) |  | -5.00B | -6.60B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Sep) |  | 5.60B | 6.10B |
-| 12:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -96.10B | -94.22B |
+| 12:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -95.90B | -94.22B |
 | 12:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
 | 12:30 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | 0.2% | 0.1% |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |
@@ -30,10 +30,10 @@
 | 13:00 | USD | Low | House Price Index (MoM) (Aug) |  | 0.1% | 0.1% |
 | 13:00 | USD | Low | House Price Index (Aug) |  |  | 425.2 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
-| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.0% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 4.9% | 5.9% |
-| 14:00 | USD | High | CB Consumer Confidence (Oct) |  | 99.2 | 98.7 |
-| 14:00 | USD | High | JOLTS Job Openings (Sep) |  | 7.920M | 8.040M |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.0% |
+| 14:00 | USD | High | CB Consumer Confidence (Oct) |  | 99.5 | 98.7 |
+| 14:00 | USD | High | JOLTS Job Openings (Sep) |  | 7.980M | 8.040M |
 | 14:30 | USD | Moderate | Atlanta Fed GDPNow |  | 3.3% | 3.3% |
 | 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | 10.1 |
 | 14:30 | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -2.6 |
