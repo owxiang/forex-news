@@ -7,14 +7,14 @@
 | 03:35 | JPY | 2-Year JGB Auction | 0.454% |  | 0.392% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Sep) | 7.25% |  | 6.11% |
 | 06:00 | ZAR | Private Sector Credit (Sep) | 4.63% |  | 4.95% |
-| 09:30 | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.295B |
-| 09:30 | GBP | M3 Money Supply (Sep) |  |  | 3,062.8B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | -0.1% |
-| 09:30 | GBP | Mortgage Approvals (Sep) |  | 65.00K | 64.86K |
-| 09:30 | GBP | Mortgage Lending (Sep) |  |  | 2.86B |
-| 09:30 | GBP | Net Lending to Individuals (Sep) |  | 4.100B | 4.156B |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.880% |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 2.69B |
+| 24 min | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.295B |
+| 24 min | GBP | M3 Money Supply (Sep) |  |  | 3,062.8B |
+| 24 min | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | -0.1% |
+| 24 min | GBP | Mortgage Approvals (Sep) |  | 65.00K | 64.86K |
+| 24 min | GBP | Mortgage Lending (Sep) |  |  | 2.86B |
+| 24 min | GBP | Net Lending to Individuals (Sep) |  | 4.100B | 4.156B |
+| 54 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.880% |
+| 54 min | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 2.69B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.112% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 1.900% |
 | 11:30 | BRL | Current Account (USD) (Sep) |  | -5.00B | -6.60B |
