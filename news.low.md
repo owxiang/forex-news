@@ -25,7 +25,7 @@
 | 13:00 | USD | House Price Index (MoM) (Aug) | 0.3% | 0.1% | 0.2% |
 | 13:00 | USD | House Price Index (Aug) | 427.0 |  | 425.8 |
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.4% |  | 0.3% |
-| 14:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | 10.1 |
-| 14:30 | USD | Texas Services Sector Outlook (Oct) |  |  | -2.6 |
+| 24 min | USD | Dallas Fed Services Revenues (Oct) |  |  | 10.1 |
+| 24 min | USD | Texas Services Sector Outlook (Oct) |  |  | -2.6 |
 | 15:30 | USD | 52-Week Bill Auction |  |  | 3.780% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |

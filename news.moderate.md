@@ -9,7 +9,7 @@
 | 12:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.9% |  | -0.6% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.3% |  | 0.0% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 5.2% | 4.9% | 5.9% |
-| 14:30 | USD | Atlanta Fed GDPNow |  | 3.3% | 3.3% |
+| 24 min | USD | Atlanta Fed GDPNow |  | 3.3% | 3.3% |
 | 17:00 | USD | 7-Year Note Auction |  |  | 3.668% |
 | 19:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
