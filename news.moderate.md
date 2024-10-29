@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | GfK German Consumer Climate (Nov) | -18.3 | -20.4 | -21.0 |
-| 11:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 25 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 12:30 | USD | Goods Trade Balance (Sep) |  | -95.90B | -94.22B |
 | 12:30 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |

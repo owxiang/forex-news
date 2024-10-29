@@ -13,12 +13,12 @@
 | 09:30 | GBP | Mortgage Approvals (Sep) | 65.65K | 65.00K | 64.96K |
 | 09:30 | GBP | Mortgage Lending (Sep) | 2.54B |  | 2.85B |
 | 09:30 | GBP | Net Lending to Individuals (Sep) | 3.800B | 4.100B | 4.156B |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.880% |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Sep) |  |  | 2.69B |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.112% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 1.900% |
-| 11:30 | BRL | Current Account (USD) (Sep) |  | -5.00B | -6.60B |
-| 11:30 | BRL | Foreign direct investment (USD) (Sep) |  | 5.60B | 6.10B |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.148% |  | 3.880% |
+| 10:10 | EUR | Italian 6-Month BOT Auction | 3.003% |  | 3.112% |
+| 10:30 | EUR | Italian Trade Balance Non-EU (Sep) | 3.66B |  | 2.79B |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.130% |  | 1.900% |
+| 25 min | BRL | Current Account (USD) (Sep) |  | -5.00B | -6.60B |
+| 25 min | BRL | Foreign direct investment (USD) (Sep) |  | 5.60B | 6.10B |
 | 12:30 | USD | Wholesale Inventories (MoM) (Sep) |  | 0.2% | 0.1% |
 | 12:55 | USD | Redbook (YoY) |  |  | 4.6% |
 | 13:00 | USD | House Price Index (YoY) (Aug) |  |  | 4.5% |
