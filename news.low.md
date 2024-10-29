@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.8% | -0.5% | -0.6% |
-| 56 min | SGD | Unemployment Rate (Q3) |  |  | 2.0% |
+| 02:30 | SGD | Unemployment Rate (Q3) |  |  | 2.0% |
 | 03:35 | JPY | 2-Year JGB Auction |  |  | 0.392% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Sep) |  |  | 6.11% |
 | 06:00 | ZAR | Private Sector Credit (Sep) |  |  | 4.95% |
