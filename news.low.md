@@ -21,11 +21,11 @@
 | 11:30 | BRL | Foreign direct investment (USD) (Sep) | 5.20B | 5.60B | 6.10B |
 | 12:30 | USD | Wholesale Inventories (MoM) (Sep) | -0.1% | 0.2% | 0.1% |
 | 12:55 | USD | Redbook (YoY) | 5.6% |  | 4.6% |
-| 13:00 | USD | House Price Index (YoY) (Aug) | 4.2% |  | 4.7% |
 | 13:00 | USD | House Price Index (MoM) (Aug) | 0.3% | 0.1% | 0.2% |
+| 13:00 | USD | House Price Index (YoY) (Aug) | 4.2% |  | 4.7% |
 | 13:00 | USD | House Price Index (Aug) | 427.0 |  | 425.8 |
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.4% |  | 0.3% |
 | 14:30 | USD | Dallas Fed Services Revenues (Oct) | 9.2 |  | 10.1 |
 | 14:30 | USD | Texas Services Sector Outlook (Oct) | 2.0 |  | -2.6 |
 | 15:30 | USD | 52-Week Bill Auction | 4.100% |  | 3.780% |
-| 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 54 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |

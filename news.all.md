@@ -26,8 +26,8 @@
 | 12:30 | USD | Low | Wholesale Inventories (MoM) (Sep) | -0.1% | 0.2% | 0.1% |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) | 0.9% |  | -0.6% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.6% |  | 4.6% |
-| 13:00 | USD | Low | House Price Index (YoY) (Aug) | 4.2% |  | 4.7% |
 | 13:00 | USD | Low | House Price Index (MoM) (Aug) | 0.3% | 0.1% | 0.2% |
+| 13:00 | USD | Low | House Price Index (YoY) (Aug) | 4.2% |  | 4.7% |
 | 13:00 | USD | Low | House Price Index (Aug) | 427.0 |  | 425.8 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.4% |  | 0.3% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.3% |  | 0.0% |
@@ -38,8 +38,8 @@
 | 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) | 9.2 |  | 10.1 |
 | 14:30 | USD | Low | Texas Services Sector Outlook (Oct) | 2.0 |  | -2.6 |
 | 15:30 | USD | Low | 52-Week Bill Auction | 4.100% |  | 3.780% |
-| 53 min | USD | Moderate | 7-Year Note Auction |  |  | 3.668% |
-| 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 17:00 | USD | Moderate | 7-Year Note Auction | 4.215% |  | 3.668% |
+| 54 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.300M | 1.643M |
