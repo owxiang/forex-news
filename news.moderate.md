@@ -13,4 +13,4 @@
 | 17:00 | USD | 7-Year Note Auction |  |  | 3.668% |
 | 19:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 20:30 | USD | API Weekly Crude Oil Stock |  |  | 1.643M |
+| 20:30 | USD | API Weekly Crude Oil Stock |  | 2.300M | 1.643M |

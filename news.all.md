@@ -8,14 +8,14 @@
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Sep) | 7.25% |  | 6.11% |
 | 06:00 | ZAR | Low | Private Sector Credit (Sep) | 4.63% |  | 4.95% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Nov) | -18.3 | -20.4 | -21.0 |
-| 24 min | GBP | Low | BoE Consumer Credit (Sep) |  | 1.400B | 1.295B |
-| 24 min | GBP | Low | M3 Money Supply (Sep) |  |  | 3,062.8B |
-| 24 min | GBP | Low | M4 Money Supply (MoM) (Sep) |  | 0.1% | -0.1% |
-| 24 min | GBP | Low | Mortgage Approvals (Sep) |  | 65.00K | 64.86K |
-| 24 min | GBP | Low | Mortgage Lending (Sep) |  |  | 2.86B |
-| 24 min | GBP | Low | Net Lending to Individuals (Sep) |  | 4.100B | 4.156B |
-| 54 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.880% |
-| 54 min | EUR | Low | Italian Trade Balance Non-EU (Sep) |  |  | 2.69B |
+| 09:30 | GBP | Low | BoE Consumer Credit (Sep) | 1.231B | 1.400B | 1.352B |
+| 09:30 | GBP | Low | M3 Money Supply (Sep) | 3,082.4B |  | 3,064.3B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Sep) | 0.6% | 0.1% | -0.1% |
+| 09:30 | GBP | Low | Mortgage Approvals (Sep) | 65.65K | 65.00K | 64.96K |
+| 09:30 | GBP | Low | Mortgage Lending (Sep) | 2.54B |  | 2.85B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Sep) | 3.800B | 4.100B | 4.156B |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.880% |
+| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Sep) |  |  | 2.69B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.112% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 1.900% |
 | 11:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
@@ -42,4 +42,4 @@
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.643M |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.300M | 1.643M |
