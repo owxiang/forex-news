@@ -18,20 +18,20 @@
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.003% |  | 3.112% |
 | 10:30 | EUR | Low | Italian Trade Balance Non-EU (Sep) | 3.66B |  | 2.79B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.130% |  | 1.900% |
-| 25 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 25 min | BRL | Low | Current Account (USD) (Sep) |  | -5.00B | -6.60B |
-| 25 min | BRL | Low | Foreign direct investment (USD) (Sep) |  | 5.60B | 6.10B |
-| 12:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -95.90B | -94.22B |
-| 12:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
-| 12:30 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | 0.2% | 0.1% |
-| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |
-| 12:55 | USD | Low | Redbook (YoY) |  |  | 4.6% |
-| 13:00 | USD | Low | House Price Index (YoY) (Aug) |  |  | 4.5% |
-| 13:00 | USD | Low | House Price Index (MoM) (Aug) |  | 0.1% | 0.1% |
-| 13:00 | USD | Low | House Price Index (Aug) |  |  | 425.2 |
-| 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
-| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.0% |
-| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 4.9% | 5.9% |
+| 11:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 11:30 | BRL | Low | Current Account (USD) (Sep) | -6.50B | -5.00B | -6.60B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Sep) | 5.20B | 5.60B | 6.10B |
+| 20 min | USD | Moderate | Goods Trade Balance (Sep) |  | -95.90B | -94.22B |
+| 20 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
+| 20 min | USD | Low | Wholesale Inventories (MoM) (Sep) |  | 0.2% | 0.1% |
+| 20 min | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |
+| 45 min | USD | Low | Redbook (YoY) |  |  | 4.6% |
+| 50 min | USD | Low | House Price Index (YoY) (Aug) |  |  | 4.5% |
+| 50 min | USD | Low | House Price Index (MoM) (Aug) |  | 0.1% | 0.1% |
+| 50 min | USD | Low | House Price Index (Aug) |  |  | 425.2 |
+| 50 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
+| 50 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.0% |
+| 50 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 4.9% | 5.9% |
 | 14:00 | USD | High | CB Consumer Confidence (Oct) |  | 99.5 | 98.7 |
 | 14:00 | USD | High | JOLTS Job Openings (Sep) |  | 7.980M | 8.040M |
 | 14:30 | USD | Moderate | Atlanta Fed GDPNow |  | 3.3% | 3.3% |
