@@ -42,4 +42,4 @@
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.300M | 1.643M |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.573M | 2.300M | 1.643M |
