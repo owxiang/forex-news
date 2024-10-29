@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.8% | -0.5% | -0.6% |
 | 02:30 | SGD | Unemployment Rate (Q3) | 1.8% |  | 2.0% |
-| 23 min | JPY | 2-Year JGB Auction |  |  | 0.392% |
+| 03:35 | JPY | 2-Year JGB Auction | 0.454% |  | 0.392% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Sep) |  |  | 6.11% |
 | 06:00 | ZAR | Private Sector Credit (Sep) |  |  | 4.95% |
 | 09:30 | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.295B |
@@ -22,7 +22,7 @@
 | 12:30 | USD | Wholesale Inventories (MoM) (Sep) |  | 0.2% | 0.1% |
 | 12:55 | USD | Redbook (YoY) |  |  | 4.6% |
 | 13:00 | USD | House Price Index (YoY) (Aug) |  |  | 4.5% |
-| 13:00 | USD | House Price Index (MoM) (Aug) |  | 0.2% | 0.1% |
+| 13:00 | USD | House Price Index (MoM) (Aug) |  | 0.1% | 0.1% |
 | 13:00 | USD | House Price Index (Aug) |  |  | 425.2 |
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
 | 14:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | 10.1 |

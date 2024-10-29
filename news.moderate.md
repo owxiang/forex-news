@@ -7,8 +7,8 @@
 | 12:30 | USD | Goods Trade Balance (Sep) |  | -96.10B | -94.22B |
 | 12:30 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Sep) |  |  | -0.6% |
-| 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 4.6% | 5.9% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.0% |
+| 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 4.9% | 5.9% |
 | 14:30 | USD | Atlanta Fed GDPNow |  | 3.3% | 3.3% |
 | 17:00 | USD | 7-Year Note Auction |  |  | 3.668% |
 | 19:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
