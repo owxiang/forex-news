@@ -30,8 +30,8 @@
 | 13:00 | USD | Low | House Price Index (MoM) (Aug) |  | 0.1% | 0.1% |
 | 13:00 | USD | Low | House Price Index (Aug) |  |  | 425.2 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
-| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 4.9% | 5.9% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.0% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 4.9% | 5.9% |
 | 14:00 | USD | High | CB Consumer Confidence (Oct) |  | 99.5 | 98.7 |
 | 14:00 | USD | High | JOLTS Job Openings (Sep) |  | 7.980M | 8.040M |
 | 14:30 | USD | Moderate | Atlanta Fed GDPNow |  | 3.3% | 3.3% |
