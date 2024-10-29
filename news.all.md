@@ -40,6 +40,6 @@
 | 15:30 | USD | Low | 52-Week Bill Auction | 4.100% |  | 3.780% |
 | 17:00 | USD | Moderate | 7-Year Note Auction | 4.215% |  | 3.668% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 24 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 24 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.300M | 1.643M |
+| 19:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.300M | 1.643M |
