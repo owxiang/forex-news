@@ -10,7 +10,7 @@
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | -0.3% |  | 0.0% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 5.2% | 4.9% | 5.9% |
 | 14:30 | USD | Atlanta Fed GDPNow | 2.8% | 3.3% | 3.3% |
-| 17:00 | USD | 7-Year Note Auction |  |  | 3.668% |
+| 53 min | USD | 7-Year Note Auction |  |  | 3.668% |
 | 19:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 2.300M | 1.643M |

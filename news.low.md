@@ -27,5 +27,5 @@
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.4% |  | 0.3% |
 | 14:30 | USD | Dallas Fed Services Revenues (Oct) | 9.2 |  | 10.1 |
 | 14:30 | USD | Texas Services Sector Outlook (Oct) | 2.0 |  | -2.6 |
-| 24 min | USD | 52-Week Bill Auction |  |  | 3.780% |
+| 15:30 | USD | 52-Week Bill Auction | 4.100% |  | 3.780% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |

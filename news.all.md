@@ -37,8 +37,8 @@
 | 14:30 | USD | Moderate | Atlanta Fed GDPNow | 2.8% | 3.3% | 3.3% |
 | 14:30 | USD | Low | Dallas Fed Services Revenues (Oct) | 9.2 |  | 10.1 |
 | 14:30 | USD | Low | Texas Services Sector Outlook (Oct) | 2.0 |  | -2.6 |
-| 24 min | USD | Low | 52-Week Bill Auction |  |  | 3.780% |
-| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 3.668% |
+| 15:30 | USD | Low | 52-Week Bill Auction | 4.100% |  | 3.780% |
+| 53 min | USD | Moderate | 7-Year Note Auction |  |  | 3.668% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
