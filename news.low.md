@@ -19,12 +19,12 @@
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.130% |  | 1.900% |
 | 11:30 | BRL | Current Account (USD) (Sep) | -6.50B | -5.00B | -6.60B |
 | 11:30 | BRL | Foreign direct investment (USD) (Sep) | 5.20B | 5.60B | 6.10B |
-| 20 min | USD | Wholesale Inventories (MoM) (Sep) |  | 0.2% | 0.1% |
-| 45 min | USD | Redbook (YoY) |  |  | 4.6% |
-| 50 min | USD | House Price Index (YoY) (Aug) |  |  | 4.5% |
-| 50 min | USD | House Price Index (MoM) (Aug) |  | 0.1% | 0.1% |
-| 50 min | USD | House Price Index (Aug) |  |  | 425.2 |
-| 50 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.3% |
+| 12:30 | USD | Wholesale Inventories (MoM) (Sep) | -0.1% | 0.2% | 0.1% |
+| 12:55 | USD | Redbook (YoY) | 5.6% |  | 4.6% |
+| 13:00 | USD | House Price Index (YoY) (Aug) | 4.2% |  | 4.7% |
+| 13:00 | USD | House Price Index (MoM) (Aug) | 0.3% | 0.1% | 0.2% |
+| 13:00 | USD | House Price Index (Aug) | 427.0 |  | 425.8 |
+| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 0.4% |  | 0.3% |
 | 14:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | 10.1 |
 | 14:30 | USD | Texas Services Sector Outlook (Oct) |  |  | -2.6 |
 | 15:30 | USD | 52-Week Bill Auction |  |  | 3.780% |
