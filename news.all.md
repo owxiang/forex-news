@@ -8,10 +8,10 @@
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.5% | 3.5% | 3.9% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 0.8% | 0.7% | 0.8% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 2.10% | 2.30% | 2.70% |
-| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 3.8% | 3.6% | 4.2% |
-| 05:00 | JPY | Low | Household Confidence (Oct) |  | 36.7 | 36.9 |
-| 05:00 | SGD | Low | Business Expectations (Q3) |  |  | 23.00 |
+| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
+| 53 min | JPY | Low | Household Confidence (Oct) |  | 36.7 | 36.9 |
+| 53 min | SGD | Low | Business Expectations (Q3) |  |  | 23.00 |
 | 06:28 | ZAR | Low | Budget Balance (MoM) (Sep) |  |  | -19.40B |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Sep) |  | 0.1% | 0.2% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q3) |  |  | 1.0% |
@@ -29,14 +29,14 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Oct) |  | 6.1% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Oct) |  |  | 2.823M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Oct) |  |  | 2.806M |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.7% | 0.9% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 09:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Oct) |  |  | -8.8 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 1.4% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.1% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.1% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 1.9% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) |  |  | 1.4% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.1% | -0.1% |
@@ -72,8 +72,8 @@
 | 11:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 0.9% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  |  | 2.1% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  |  | 0.2% |
-| 12:00 | ZAR | Low | Budget Balance |  |  | -247.000B |
 | 12:00 | ZAR | Low | Budget Balance |  |  | -3.70% |
+| 12:00 | ZAR | Low | Budget Balance |  |  | -247.000B |
 | 12:15 | USD | High | ADP Nonfarm Employment Change (Oct) |  | 101K | 143K |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
 | 12:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.10% | 2.80% |

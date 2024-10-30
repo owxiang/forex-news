@@ -5,10 +5,10 @@
 | 00:30 | AUD | CPI Index Number (Q3) | 139.10 |  | 138.80 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 3.5% | 3.5% | 3.9% |
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 2.10% | 2.30% | 2.70% |
-| 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 3.8% | 3.6% | 4.2% |
-| 05:00 | JPY | Household Confidence (Oct) |  | 36.7 | 36.9 |
-| 05:00 | SGD | Business Expectations (Q3) |  |  | 23.00 |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
+| 53 min | JPY | Household Confidence (Oct) |  | 36.7 | 36.9 |
+| 53 min | SGD | Business Expectations (Q3) |  |  | 23.00 |
 | 06:28 | ZAR | Budget Balance (MoM) (Sep) |  |  | -19.40B |
 | 07:00 | NOK | Core Retail Sales (MoM) (Sep) |  |  | 0.1% |
 | 08:00 | EUR | Core CPI (YoY) (Oct) |  |  | 2.4% |
@@ -17,14 +17,14 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Oct) |  | 0.3% | -0.1% |
 | 08:55 | EUR | German Unemployment (Oct) |  |  | 2.823M |
 | 08:55 | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.806M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.7% | 0.9% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 09:00 | CHF | ZEW Expectations (Oct) |  |  | -8.8 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 1.4% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 1.9% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 1.2% |
@@ -52,8 +52,8 @@
 | 11:30 | INR | Infrastructure Output (YoY) |  |  | -1.8% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 11:30 | BRL | Bank lending (MoM) (Sep) |  |  | 0.9% |
-| 12:00 | ZAR | Budget Balance |  |  | -247.000B |
 | 12:00 | ZAR | Budget Balance |  |  | -3.70% |
+| 12:00 | ZAR | Budget Balance |  |  | -247.000B |
 | 12:30 | USD | GDP Sales (Q3) |  |  | 1.9% |
 | 12:30 | USD | PCE Prices (Q3) |  | 2.7% | 2.5% |
 | 12:30 | USD | Real Consumer Spending (Q3) |  |  | 2.8% |
