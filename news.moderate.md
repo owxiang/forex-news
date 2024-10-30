@@ -6,8 +6,8 @@
 | 00:30 | AUD | CPI (YoY) (Q3) | 2.8% | 2.3% | 3.8% |
 | 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Sep) | 0.1% | 0.1% | 0.4% |
-| 06:30 | EUR | French GDP (QoQ) (Q3) | 0.4% | 0.3% | 0.2% |
 | 06:30 | EUR | French GDP (YoY) (Q3) | 1.3% |  | 1.0% |
+| 06:30 | EUR | French GDP (QoQ) (Q3) | 0.4% | 0.3% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Oct) | 99.5 | 105.1 | 104.5 |
 | 08:00 | EUR | Spanish CPI (YoY) (Oct) | 1.8% | 1.7% | 1.5% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.8% | 0.6% | 0.8% |
