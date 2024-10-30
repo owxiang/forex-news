@@ -21,16 +21,16 @@
 | 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 09:00 | CHF | ZEW Expectations (Oct) |  |  | -8.8 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 1.4% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 1.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 1.9% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 1.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 1.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) |  |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
 | 10:00 | EUR | Italian PPI (YoY) (Sep) |  |  | -0.8% |
@@ -72,8 +72,8 @@
 | 17:30 | BRL | CAGED Net Payroll Jobs (Sep) |  |  | 232.51K |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.634B |
 | 21:00 | MXN | Fiscal Balance (Sep) |  |  | -4.39B |
-| 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
 | 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 0.4% | 3.8% |
+| 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
 | 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 23:00 | KRW | Service Sector Output (MoM) (Sep) |  |  | 0.2% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -613.0B |
