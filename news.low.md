@@ -27,13 +27,13 @@
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) | 2.8% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 09:30 | EUR | Italian 5-Year BTP Auction | 2.96% |  | 2.67% |
-| 10:00 | EUR | Italian PPI (YoY) (Sep) | -2.0% |  | -0.8% |
 | 10:00 | EUR | Italian PPI (MoM) (Sep) | -0.6% |  | 0.7% |
+| 10:00 | EUR | Italian PPI (YoY) (Sep) | -2.0% |  | -0.8% |
 | 10:00 | INR | Federal Fiscal Deficit (Sep) | 4,745.20B |  | 4,351.76B |
 | 10:00 | EUR | Business and Consumer Survey (Oct) | 95.6 | 96.3 | 96.3 |
 | 10:00 | EUR | Business Climate (Oct) | -0.96 |  | -0.76 |

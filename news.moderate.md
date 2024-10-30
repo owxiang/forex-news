@@ -30,6 +30,6 @@
 | 14:30 | USD | Cushing Crude Oil Inventories | 0.681M |  | -0.346M |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 8 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 8 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 20:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 20:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 23:50 | JPY | Industrial Production (MoM) (Sep) |  | 0.9% | -3.3% |
