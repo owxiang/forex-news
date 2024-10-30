@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q3) |  | -0.1% | -0.1% |
+| 52 min | EUR | German GDP (QoQ) (Q3) |  | -0.1% | -0.1% |
 | 10:00 | GBP | Autumn Forecast Statement |  |  |  |
 | 12:15 | USD | ADP Nonfarm Employment Change (Oct) |  | 110K | 143K |
 | 12:30 | USD | GDP (QoQ) (Q3) |  | 3.0% | 3.0% |

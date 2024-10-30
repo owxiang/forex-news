@@ -11,28 +11,28 @@
 | 05:00 | JPY | Household Confidence (Oct) | 36.2 | 36.7 | 36.9 |
 | 05:00 | SGD | Business Expectations (Q3) | 10.00 |  | 23.00 |
 | 07:00 | NOK | Core Retail Sales (MoM) (Sep) | -0.3% |  | 0.1% |
-| 54 min | EUR | Core CPI (YoY) (Oct) |  |  | 2.4% |
-| 54 min | EUR | Spanish CPI (MoM) (Oct) |  | 0.5% | -0.6% |
-| 54 min | EUR | Spanish GDP (YoY) (Q3) |  | 3.0% | 3.1% |
-| 54 min | EUR | Spanish HICP (MoM) (Oct) |  | 0.4% | -0.1% |
-| 08:55 | EUR | German Unemployment (Oct) |  |  | 2.823M |
-| 08:55 | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.806M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
-| 09:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.7% | 0.9% |
-| 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 09:00 | CHF | ZEW Expectations (Oct) |  |  | -8.8 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 1.4% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 1.9% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.4% |
-| 09:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 1.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 1.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.0% |
-| 09:00 | EUR | Saxony CPI (YoY) (Oct) |  |  | 2.4% |
-| 09:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
+| 08:00 | EUR | Core CPI (YoY) (Oct) | 2.5% |  | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Oct) | 0.6% | 0.5% | -0.6% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q3) | 3.4% | 3.0% | 3.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 47 min | EUR | German Unemployment (Oct) |  |  | 2.823M |
+| 47 min | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.806M |
+| 52 min | EUR | Italian GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
+| 52 min | EUR | Italian GDP (YoY) (Q3) |  | 0.7% | 0.9% |
+| 52 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 52 min | CHF | ZEW Expectations (Oct) |  |  | -8.8 |
+| 52 min | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 1.4% |
+| 52 min | EUR | Baden Wuerttemberg CPI (MoM) (Oct) |  |  | 0.1% |
+| 52 min | EUR | Bavaria CPI (YoY) (Oct) |  |  | 1.9% |
+| 52 min | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.1% |
+| 52 min | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
+| 52 min | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.4% |
+| 52 min | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.0% |
+| 52 min | EUR | Hesse CPI (YoY) (Oct) |  |  | 1.2% |
+| 52 min | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 1.5% |
+| 52 min | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.0% |
+| 52 min | EUR | Saxony CPI (YoY) (Oct) |  |  | 2.4% |
+| 52 min | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.2% |
 | 10:00 | EUR | Italian PPI (YoY) (Sep) |  |  | -0.8% |
 | 10:00 | EUR | Italian PPI (MoM) (Sep) |  |  | 0.7% |
 | 10:00 | EUR | Business and Consumer Survey (Oct) |  | 96.3 | 96.2 |
@@ -53,13 +53,13 @@
 | 11:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 11:30 | BRL | Bank lending (MoM) (Sep) |  |  | 0.9% |
 | 12:00 | ZAR | Budget Balance (MoM) (Sep) |  |  | -19.40B |
-| 12:00 | ZAR | Budget Balance |  |  | -3.70% |
 | 12:00 | ZAR | Budget Balance |  |  | -247.000B |
+| 12:00 | ZAR | Budget Balance |  |  | -3.70% |
 | 12:30 | USD | GDP Sales (Q3) |  |  | 1.9% |
 | 12:30 | USD | PCE Prices (Q3) |  | 2.7% | 2.5% |
 | 12:30 | USD | Real Consumer Spending (Q3) |  |  | 2.8% |
-| 13:00 | EUR | German HICP (MoM) (Oct) |  | 0.2% | -0.1% |
 | 13:00 | EUR | German HICP (YoY) (Oct) |  | 2.1% | 1.8% |
+| 13:00 | EUR | German HICP (MoM) (Oct) |  | 0.2% | -0.1% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Sep) |  |  | 0.61% |
 | 14:00 | USD | Pending Home Sales Index (Sep) |  |  | 70.6 |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.329M |
@@ -73,8 +73,8 @@
 | 17:30 | BRL | CAGED Net Payroll Jobs (Sep) |  |  | 232.51K |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.634B |
 | 21:00 | MXN | Fiscal Balance (Sep) |  |  | -4.39B |
-| 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
 | 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
+| 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
 | 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 23:00 | KRW | Service Sector Output (MoM) (Sep) |  |  | 0.2% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -613.0B |
