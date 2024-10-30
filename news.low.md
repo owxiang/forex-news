@@ -17,12 +17,12 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 08:55 | EUR | German Unemployment (Oct) | 2.856M |  | 2.823M |
 | 08:55 | EUR | German Unemployment n.s.a. (Oct) | 2.791M |  | 2.806M |
-| 09:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.7% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.2% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.7% | 0.6% |
 | 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 09:00 | CHF | ZEW Expectations (Oct) | -7.7 |  | -8.8 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.1% |  | 1.4% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
@@ -54,8 +54,8 @@
 | 11:30 | ZAR | Budget Balance (MoM) (Sep) | -4.38B |  | -19.40B |
 | 12:00 | EUR | Spanish Business Confidence (Oct) | -8.1 |  | -1.3 |
 | 12:00 | BRL | Brazilian PPI (MoM) (Sep) | 0.66% |  | 0.66% |
-| 12:00 | ZAR | Budget Balance | -4.50% |  | -3.70% |
 | 12:00 | ZAR | Budget Balance | -317.500B |  | -247.000B |
+| 12:00 | ZAR | Budget Balance | -4.50% |  | -3.70% |
 | 12:30 | USD | GDP Sales (Q3) | 3.0% |  | 1.9% |
 | 12:30 | USD | PCE Prices (Q3) | 1.5% | 2.7% | 2.5% |
 | 12:30 | USD | Real Consumer Spending (Q3) | 3.7% |  | 2.8% |
@@ -72,7 +72,7 @@
 | 14:30 | USD | Gasoline Inventories | -2.707M | 0.600M | 0.878M |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Sep) | 247.82K |  | 232.51K |
 | 17:30 | BRL | Foreign Exchange Flows | -1.672B |  | -0.634B |
-| 21:00 | MXN | Fiscal Balance (Sep) |  |  | -4.39B |
+| 19:00 | MXN | Fiscal Balance (Sep) | -161.09B |  | -4.39B |
 | 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
 | 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
 | 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | 1.7% |

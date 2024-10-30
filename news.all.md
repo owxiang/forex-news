@@ -29,12 +29,12 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Oct) | 6.1% | 6.1% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Oct) | 2.856M |  | 2.823M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Oct) | 2.791M |  | 2.806M |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.7% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.7% | 0.6% |
 | 09:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Oct) | -7.7 |  | -8.8 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) | 2.1% |  | 1.4% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.3% |
@@ -58,8 +58,8 @@
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Oct) | 13.3 |  | 11.0 |
 | 10:00 | EUR | Low | Selling Price Expectations (Oct) | 6.5 |  | 6.3 |
 | 10:00 | EUR | Low | Services Sentiment (Oct) | 7.1 | 6.6 | 7.1 |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.2% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.8% | 0.6% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Industrial Sentiment (Oct) | -13.0 | -10.5 | -11.0 |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.73% |  | 6.52% |
 | 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.1% |  | -6.7% |
@@ -75,8 +75,8 @@
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 1.5% | 1.2% | 2.1% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Oct) | -8.1 |  | -1.3 |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) | 0.66% |  | 0.66% |
-| 12:00 | ZAR | Low | Budget Balance | -4.50% |  | -3.70% |
 | 12:00 | ZAR | Low | Budget Balance | -317.500B |  | -247.000B |
+| 12:00 | ZAR | Low | Budget Balance | -4.50% |  | -3.70% |
 | 12:15 | USD | High | ADP Nonfarm Employment Change (Oct) | 233K | 110K | 159K |
 | 12:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
@@ -106,9 +106,9 @@
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 247.82K |  | 232.51K |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -1.672B |  | -0.634B |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 19:00 | MXN | Low | Fiscal Balance (Sep) | -161.09B |  | -4.39B |
 | 20:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 20:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 21:00 | MXN | Low | Fiscal Balance (Sep) |  |  | -4.39B |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |

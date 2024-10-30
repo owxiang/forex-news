@@ -17,8 +17,8 @@
 | 09:00 | EUR | German GDP (YoY) (Q3) | -0.2% | -0.3% | -0.3% |
 | 09:30 | EUR | Italian 10-Year BTP Auction | 3.57% |  | 3.43% |
 | 09:30 | CHF | SNB Press Conference |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.2% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.8% | 0.6% |
+| 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.2% | 0.2% |
 | 12:00 | MXN | GDP (QoQ) (Q3) | 1.0% | 0.8% | 0.2% |
 | 12:00 | MXN | GDP (YoY) (Q3) | 1.5% | 1.2% | 2.1% |
 | 12:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
