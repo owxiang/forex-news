@@ -17,22 +17,23 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 08:55 | EUR | German Unemployment (Oct) | 2.856M |  | 2.823M |
 | 08:55 | EUR | German Unemployment n.s.a. (Oct) | 2.791M |  | 2.806M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.2% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.7% | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.2% | 0.2% |
 | 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 09:00 | CHF | ZEW Expectations (Oct) | -7.7 |  | -8.8 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.1% |  | 1.4% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
 | 09:00 | EUR | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) | 2.8% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 10:00 | EUR | Italian PPI (YoY) (Sep) | -2.0% |  | -0.8% |
 | 10:00 | EUR | Italian PPI (MoM) (Sep) | -0.6% |  | 0.7% |
+| 10:00 | INR | Federal Fiscal Deficit (Sep) | 4,745.20B |  | 4,351.76B |
 | 10:00 | EUR | Business and Consumer Survey (Oct) | 95.6 | 96.3 | 96.3 |
 | 10:00 | EUR | Business Climate (Oct) | -0.96 |  | -0.76 |
 | 10:00 | EUR | Consumer Confidence (Oct) | -12.5 | -12.5 | -12.5 |
@@ -40,21 +41,21 @@
 | 10:00 | EUR | Selling Price Expectations (Oct) | 6.5 |  | 6.3 |
 | 10:00 | EUR | Services Sentiment (Oct) | 7.1 | 6.6 | 7.1 |
 | 10:00 | EUR | Industrial Sentiment (Oct) | -13.0 | -10.5 | -11.0 |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.52% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -6.7% |
-| 53 min | USD | MBA Purchase Index |  |  | 131.3 |
-| 53 min | USD | Mortgage Market Index |  |  | 214.8 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 672.6 |
-| 53 min | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
-| 53 min | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.4% |
-| 53 min | EUR | Spanish Business Confidence (Oct) |  |  | -0.7 |
-| 53 min | BRL | IGP-M Inflation Index (MoM) (Oct) |  | 1.48% | 0.62% |
-| 11:30 | INR | Infrastructure Output (YoY) |  |  | -1.8% |
-| 11:30 | INR | M3 Money Supply |  |  | 11.0% |
-| 11:30 | BRL | Bank lending (MoM) (Sep) |  |  | 0.9% |
-| 12:00 | ZAR | Budget Balance (MoM) (Sep) |  |  | -19.40B |
-| 12:00 | ZAR | Budget Balance |  |  | -247.000B |
-| 12:00 | ZAR | Budget Balance |  |  | -3.70% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.73% |  | 6.52% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) | -0.1% |  | -6.7% |
+| 11:00 | USD | MBA Purchase Index | 137.8 |  | 131.3 |
+| 11:00 | USD | Mortgage Market Index | 214.5 |  | 214.8 |
+| 11:00 | USD | Mortgage Refinance Index | 630.0 |  | 672.6 |
+| 11:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.4% |
+| 11:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
+| 11:00 | EUR | Spanish Business Confidence (Oct) |  |  | -0.7 |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Oct) | 1.52% | 1.48% | 0.62% |
+| 25 min | INR | Infrastructure Output (YoY) |  |  | -1.8% |
+| 25 min | INR | M3 Money Supply |  |  | 11.0% |
+| 25 min | BRL | Bank lending (MoM) (Sep) |  |  | 0.9% |
+| 55 min | ZAR | Budget Balance (MoM) (Sep) |  |  | -19.40B |
+| 55 min | ZAR | Budget Balance |  |  | -3.70% |
+| 55 min | ZAR | Budget Balance |  |  | -247.000B |
 | 12:30 | USD | GDP Sales (Q3) |  |  | 1.9% |
 | 12:30 | USD | PCE Prices (Q3) |  | 2.7% | 2.5% |
 | 12:30 | USD | Real Consumer Spending (Q3) |  |  | 2.8% |
