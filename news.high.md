@@ -1,6 +1,10 @@
-## 29 October 2024 - High Impact Forex News
+## 30 October 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | USD | CB Consumer Confidence (Oct) | 108.7 | 99.5 | 99.2 |
-| 14:00 | USD | JOLTS Job Openings (Sep) | 7.443M | 7.980M | 7.861M |
+| 09:00 | EUR | German GDP (QoQ) (Q3) |  | -0.1% | -0.1% |
+| 10:00 | GBP | Autumn Forecast Statement |  |  |  |
+| 12:15 | USD | ADP Nonfarm Employment Change (Oct) |  | 101K | 143K |
+| 12:30 | USD | GDP (QoQ) (Q3) |  | 3.0% | 3.0% |
+| 13:00 | EUR | German CPI (MoM) (Oct) |  | 0.2% | 0.0% |
+| 14:30 | USD | Crude Oil Inventories |  |  | 5.474M |
