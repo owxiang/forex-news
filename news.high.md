@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.1% |
+| 09:00 | EUR | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.3% |
 | 10:00 | GBP | Autumn Forecast Statement |  |  |  |
-| 12:15 | USD | ADP Nonfarm Employment Change (Oct) |  | 110K | 143K |
-| 12:30 | USD | GDP (QoQ) (Q3) |  | 3.0% | 3.0% |
-| 13:00 | EUR | German CPI (MoM) (Oct) |  | 0.2% | 0.0% |
+| 5 min | USD | ADP Nonfarm Employment Change (Oct) |  | 110K | 143K |
+| 20 min | USD | GDP (QoQ) (Q3) |  | 3.0% | 3.0% |
+| 50 min | EUR | German CPI (MoM) (Oct) |  | 0.2% | 0.0% |
 | 14:30 | USD | Crude Oil Inventories |  | 1.500M | 5.474M |

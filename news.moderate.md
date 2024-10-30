@@ -14,17 +14,18 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
 | 08:55 | EUR | German Unemployment Change (Oct) | 27K | 15K | 17K |
 | 08:55 | EUR | German Unemployment Rate (Oct) | 6.1% | 6.1% | 6.0% |
-| 09:00 | EUR | German GDP (YoY) (Q3) | -0.2% | -0.3% | 0.0% |
+| 09:00 | EUR | German GDP (YoY) (Q3) | -0.2% | -0.3% | -0.3% |
+| 09:30 | EUR | Italian 10-Year BTP Auction | 3.57% |  | 3.43% |
 | 09:30 | CHF | SNB Press Conference |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.2% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.8% | 0.6% |
-| 55 min | MXN | GDP (QoQ) (Q3) |  | 0.8% | 0.2% |
-| 55 min | MXN | GDP (YoY) (Q3) |  | 1.2% | 2.1% |
-| 12:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 12:30 | GBP | Spring Statement |  |  |  |
-| 12:30 | USD | Core PCE Prices (Q3) |  | 2.10% | 2.80% |
-| 12:30 | USD | GDP Price Index (QoQ) (Q3) |  | 1.9% | 2.5% |
-| 13:00 | EUR | German CPI (YoY) (Oct) |  | 1.8% | 1.6% |
+| 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.2% | 0.2% |
+| 12:00 | MXN | GDP (QoQ) (Q3) | 1.0% | 0.8% | 0.2% |
+| 12:00 | MXN | GDP (YoY) (Q3) | 1.5% | 1.2% | 2.1% |
+| 5 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 20 min | GBP | Spring Statement |  |  |  |
+| 20 min | USD | Core PCE Prices (Q3) |  | 2.10% | 2.80% |
+| 20 min | USD | GDP Price Index (QoQ) (Q3) |  | 1.9% | 2.5% |
+| 50 min | EUR | German CPI (YoY) (Oct) |  | 1.8% | 1.6% |
 | 14:00 | USD | Pending Home Sales (MoM) (Sep) |  | 1.9% | 0.6% |
 | 14:30 | USD | Cushing Crude Oil Inventories |  |  | -0.346M |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
