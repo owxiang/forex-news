@@ -25,8 +25,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) | 2.1% |  | 1.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
-| 09:00 | EUR | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Saxony CPI (MoM) (Oct) | 0.4% |  | 0.2% |
@@ -73,14 +73,14 @@
 | 17:30 | BRL | CAGED Net Payroll Jobs (Sep) | 247.82K |  | 232.51K |
 | 17:30 | BRL | Foreign Exchange Flows | -1.672B |  | -0.634B |
 | 19:00 | MXN | Fiscal Balance (Sep) | -161.09B |  | -4.39B |
-| 54 min | KRW | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
-| 54 min | KRW | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
-| 54 min | KRW | Retail Sales (MoM) (Sep) |  |  | 1.7% |
-| 54 min | KRW | Service Sector Output (MoM) (Sep) |  |  | 0.2% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -613.0B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 580.4B |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Oct) |  |  | 2.0% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Nov) |  |  | 6.1% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Sep) |  |  | 5.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Sep) |  | 2.1% | 2.8% |
+| 23:00 | KRW | Industrial Production (YoY) (Sep) | -1.3% | 0.2% | 3.8% |
+| 23:00 | KRW | Industrial Production (MoM) (Sep) | -0.2% | 1.2% | 4.4% |
+| 23:00 | KRW | Retail Sales (MoM) (Sep) | -0.4% |  | 1.7% |
+| 23:00 | KRW | Service Sector Output (MoM) (Sep) | -0.7% |  | 0.3% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | -613.0B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 580.4B |
+| 44 min | JPY | Industrial Production forecast 1m ahead (MoM) (Oct) |  |  | 2.0% |
+| 44 min | JPY | Industrial Production forecast 2m ahead (MoM) (Nov) |  |  | 6.1% |
+| 44 min | JPY | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
+| 44 min | JPY | Large Scale Retail Sales YoY (YoY) (Sep) |  |  | 5.0% |
+| 44 min | JPY | Retail Sales (YoY) (Sep) |  | 2.1% | 2.8% |

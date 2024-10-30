@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 0.2% | 0.3% | 1.0% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 2.8% | 2.3% | 3.8% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 0.2% | 0.3% | 1.0% |
 | 00:30 | AUD | Low | CPI Index Number (Q3) | 139.10 |  | 138.80 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.5% | 3.5% | 3.9% |
@@ -21,8 +21,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 1.8% | 1.7% | 1.5% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.5% | -0.6% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.8% | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 3.4% | 3.0% | 3.2% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.8% | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Oct) | 27K | 15K | 17K |
@@ -39,8 +39,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.3% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.2% | -0.3% | -0.3% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) | 0.4% |  | 0.2% |
@@ -109,15 +109,15 @@
 | 19:00 | MXN | Low | Fiscal Balance (Sep) | -161.09B |  | -4.39B |
 | 20:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 20:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 54 min | KRW | Low | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
-| 54 min | KRW | Low | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
-| 54 min | KRW | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
-| 54 min | KRW | Low | Service Sector Output (MoM) (Sep) |  |  | 0.2% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -613.0B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 580.4B |
-| 23:50 | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 0.9% | -3.3% |
-| 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Oct) |  |  | 2.0% |
-| 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Nov) |  |  | 6.1% |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
-| 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Sep) |  |  | 5.0% |
-| 23:50 | JPY | Low | Retail Sales (YoY) (Sep) |  | 2.1% | 2.8% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Sep) | -1.3% | 0.2% | 3.8% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Sep) | -0.2% | 1.2% | 4.4% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Sep) | -0.4% |  | 1.7% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Sep) | -0.7% |  | 0.3% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -613.0B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 580.4B |
+| 44 min | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 0.9% | -3.3% |
+| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Oct) |  |  | 2.0% |
+| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Nov) |  |  | 6.1% |
+| 44 min | JPY | Low | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
+| 44 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Sep) |  |  | 5.0% |
+| 44 min | JPY | Low | Retail Sales (YoY) (Sep) |  | 2.1% | 2.8% |
