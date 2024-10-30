@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | CPI (YoY) (Q3) | 2.8% | 2.3% | 3.8% |
 | 00:30 | AUD | CPI (QoQ) (Q3) | 0.2% | 0.3% | 1.0% |
+| 00:30 | AUD | CPI (YoY) (Q3) | 2.8% | 2.3% | 3.8% |
 | 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
 | 06:30 | EUR | French Consumer Spending (MoM) (Sep) | 0.1% | 0.1% | 0.4% |
 | 06:30 | EUR | French GDP (YoY) (Q3) | 1.3% |  | 1.0% |

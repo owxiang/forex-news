@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 2.8% | 2.3% | 3.8% |
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q3) | 0.2% | 0.3% | 1.0% |
+| 00:30 | AUD | Moderate | CPI (YoY) (Q3) | 2.8% | 2.3% | 3.8% |
 | 00:30 | AUD | Low | CPI Index Number (Q3) | 139.10 |  | 138.80 |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.5% | 3.5% | 3.9% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 2.10% | 2.40% | 2.70% |
-| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 3.8% | 3.6% | 4.2% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 3.8% | 3.6% | 4.2% |
 | 02:00 | SGD | Low | Bank Lending (Sep) | 808.8B |  | 800.0B |
 | 05:00 | JPY | Low | Household Confidence (Oct) | 36.2 | 36.7 | 36.9 |
 | 05:00 | SGD | Low | Business Expectations (Q3) | 10.00 |  | 23.00 |
@@ -29,22 +29,22 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Oct) | 6.1% | 6.1% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Oct) | 2.856M |  | 2.823M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Oct) | 2.791M |  | 2.806M |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.7% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.7% | 0.6% |
 | 09:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Oct) | -7.7 |  | -8.8 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) | 2.1% |  | 1.4% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.3% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.2% | -0.3% | -0.3% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) | 0.4% |  | 0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) | 2.8% |  | 2.4% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Oct) | 0.4% |  | 0.2% |
 | 09:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.57% |  | 3.43% |
 | 09:30 | EUR | Low | Italian 5-Year BTP Auction | 2.96% |  | 2.67% |
 | 09:30 | CHF | Moderate | SNB Press Conference |  |  |  |
@@ -75,8 +75,8 @@
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 1.5% | 1.2% | 2.1% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Oct) | -8.1 |  | -1.3 |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Sep) | 0.66% |  | 0.66% |
-| 12:00 | ZAR | Low | Budget Balance | -4.50% |  | -3.70% |
 | 12:00 | ZAR | Low | Budget Balance | -317.500B |  | -247.000B |
+| 12:00 | ZAR | Low | Budget Balance | -4.50% |  | -3.70% |
 | 12:15 | USD | High | ADP Nonfarm Employment Change (Oct) | 233K | 110K | 159K |
 | 12:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 12:30 | GBP | Moderate | Spring Statement |  |  |  |
@@ -88,8 +88,8 @@
 | 12:30 | USD | Low | Real Consumer Spending (Q3) | 3.7% |  | 2.8% |
 | 13:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.2% | 0.0% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 1.8% | 1.6% |
-| 13:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.2% | -0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.1% | 1.8% |
+| 13:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.2% | -0.1% |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) | 7.4% | 1.9% | 0.6% |
 | 14:00 | USD | Low | Pending Home Sales Index (Sep) | 75.8 |  | 70.6 |
 | 14:30 | USD | High | Crude Oil Inventories | -0.515M | 1.500M | 5.474M |
