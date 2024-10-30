@@ -8,14 +8,14 @@
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 3.5% | 3.5% | 3.9% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 0.8% | 0.8% | 0.9% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 2.10% | 2.40% | 2.70% |
-| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 3.8% | 3.6% | 4.2% |
+| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
 | 02:00 | SGD | Low | Bank Lending (Sep) | 808.8B |  | 800.0B |
 | 05:00 | JPY | Low | Household Confidence (Oct) | 36.2 | 36.7 | 36.9 |
 | 05:00 | SGD | Low | Business Expectations (Q3) | 10.00 |  | 23.00 |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Sep) | 0.1% | 0.1% | 0.4% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q3) | 1.3% |  | 1.0% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q3) | 0.4% | 0.3% | 0.2% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q3) | 1.3% |  | 1.0% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Sep) | -0.3% |  | 0.1% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Oct) | 99.5 | 105.1 | 104.5 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% |  | 2.4% |
@@ -23,8 +23,8 @@
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.5% | -0.6% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 3.4% | 3.0% | 3.2% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.8% | 0.6% | 0.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Oct) | 27K | 15K | 17K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Oct) | 6.1% | 6.1% | 6.0% |
 | 08:55 | EUR | Low | German Unemployment (Oct) | 2.856M |  | 2.823M |
@@ -37,10 +37,10 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.3% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.2% | -0.3% | -0.3% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Oct) | 2.8% |  | 2.4% |
@@ -86,8 +86,8 @@
 | 12:30 | USD | Low | GDP Sales (Q3) | 3.0% |  | 1.9% |
 | 12:30 | USD | Low | PCE Prices (Q3) | 1.5% | 2.7% | 2.5% |
 | 12:30 | USD | Low | Real Consumer Spending (Q3) | 3.7% |  | 2.8% |
-| 13:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.2% | 0.0% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 1.8% | 1.6% |
+| 13:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.2% | 0.0% |
 | 13:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.1% | 1.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.2% | -0.1% |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Sep) | 7.4% | 1.9% | 0.6% |
@@ -103,14 +103,14 @@
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 1.8% |
 | 14:30 | USD | Low | Gasoline Inventories | -2.707M | 0.600M | 0.878M |
 | 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Sep) |  |  | 232.51K |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.634B |
-| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 24 min | BRL | Low | CAGED Net Payroll Jobs (Sep) |  |  | 232.51K |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -0.634B |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 20:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 20:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | MXN | Low | Fiscal Balance (Sep) |  |  | -4.39B |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Sep) |  |  | 0.2% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -613.0B |

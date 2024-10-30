@@ -5,8 +5,8 @@
 | 00:30 | AUD | CPI Index Number (Q3) | 139.10 |  | 138.80 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 3.5% | 3.5% | 3.9% |
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 2.10% | 2.40% | 2.70% |
-| 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
 | 00:30 | AUD | Weighted mean CPI (YoY) (Q3) | 3.8% | 3.6% | 4.2% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
 | 02:00 | SGD | Bank Lending (Sep) | 808.8B |  | 800.0B |
 | 05:00 | JPY | Household Confidence (Oct) | 36.2 | 36.7 | 36.9 |
 | 05:00 | SGD | Business Expectations (Q3) | 10.00 |  | 23.00 |
@@ -25,8 +25,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Oct) | 0.7% |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Oct) | 2.4% |  | 1.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Oct) | 0.5% |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Oct) | 0.5% |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Oct) | 1.8% |  | 1.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 2.0% |  | 1.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Oct) | 0.3% |  | 0.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Oct) | 2.8% |  | 2.4% |
@@ -70,11 +70,11 @@
 | 14:30 | USD | Heating Oil Stockpiles | 0.571M |  | -0.280M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 1.8% |
 | 14:30 | USD | Gasoline Inventories | -2.707M | 0.600M | 0.878M |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Sep) |  |  | 232.51K |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.634B |
+| 24 min | BRL | CAGED Net Payroll Jobs (Sep) |  |  | 232.51K |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -0.634B |
 | 21:00 | MXN | Fiscal Balance (Sep) |  |  | -4.39B |
-| 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
 | 23:00 | KRW | Industrial Production (MoM) (Sep) |  | 1.2% | 4.1% |
+| 23:00 | KRW | Industrial Production (YoY) (Sep) |  | 0.2% | 3.8% |
 | 23:00 | KRW | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 23:00 | KRW | Service Sector Output (MoM) (Sep) |  |  | 0.2% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -613.0B |
