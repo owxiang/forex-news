@@ -21,20 +21,19 @@
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
-| 47 min | JPY | Low | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
-| 05:00 | JPY | Low | Construction Orders (YoY) (Sep) |  |  | 8.7% |
-| 05:00 | JPY | Low | Housing Starts (YoY) (Sep) |  | -4.1% | -5.1% |
+| 52 min | JPY | Low | Construction Orders (YoY) (Sep) |  |  | 8.7% |
+| 52 min | JPY | Low | Housing Starts (YoY) (Sep) |  | -4.1% | -5.1% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) |  |  | -0.4% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) |  |  | 0.2% |
-| 07:00 | EUR | Low | German Imports (MoM) (Sep) |  | -0.4% | -3.4% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) |  | -0.8% | 1.6% |
+| 07:00 | EUR | Low | German Imports (MoM) (Sep) |  |  | -3.4% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) |  | -0.7% | 1.6% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) |  | 1.6% | 2.1% |
 | 07:00 | NOK | Low | M3 Money Supply (Sep) |  |  | 3,217.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) |  |  | 3.8% |
 | 07:30 | CHF | Low | Retail Sales (YoY) |  | 2.5% | 3.2% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.0% | 1.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.9% | 1.1% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.2% | -1.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Sep) |  |  | -6.30% |
@@ -50,8 +49,8 @@
 | 09:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | -0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.8% |
 | 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.0% | 0.7% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.2% | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 0.8% | 0.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 4,351.76B |
