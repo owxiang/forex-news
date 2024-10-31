@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Business Confidence (Oct) | 65.7 |  | 60.9 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Oct) | 45.9% |  | 45.3% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Sep) | 18.10% |  | 8.30% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 4.4% |  | -3.9% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Sep) | 18.10% | 7.90% | 24.90% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 4.4% | 2.2% | -3.9% |
 | 00:30 | AUD | Low | Export Price Index (QoQ) (Q3) | -4.3% |  | -5.9% |
 | 00:30 | AUD | Low | Housing Credit (Sep) | 0.5% |  | 0.4% |
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q3) | -1.4% | -0.2% | 1.0% |
@@ -14,15 +14,15 @@
 | 00:30 | AUD | Moderate | Retail Sales (MoM) (Sep) | 0.1% | 0.3% | 0.7% |
 | 00:30 | AUD | Low | Retail Sales (QoQ) (Q3) | 0.5% |  | -0.4% |
 | 01:30 | CNY | Moderate | Chinese Composite PMI (Oct) | 50.8 |  | 50.4 |
-| 01:30 | CNY | High | Manufacturing PMI (Oct) | 50.1 | 50.0 | 49.8 |
+| 01:30 | CNY | High | Manufacturing PMI (Oct) | 50.1 | 49.8 | 49.8 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Oct) | 50.2 | 50.4 | 50.0 |
 | 01:35 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 02:00 | NZD | Low | M3 Money Supply (Sep) | 417.1B |  | 415.0B |
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
-| 52 min | JPY | Low | Construction Orders (YoY) (Sep) |  |  | 8.7% |
-| 52 min | JPY | Low | Housing Starts (YoY) (Sep) |  | -4.1% | -5.1% |
+| 05:00 | JPY | Low | Construction Orders (YoY) (Sep) | -21.3% |  | 8.7% |
+| 05:00 | JPY | Low | Housing Starts (YoY) (Sep) | -0.6% | -4.2% | -5.1% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) |  |  | 0.2% |
@@ -50,7 +50,7 @@
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.8% |
 | 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.0% | 0.7% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.1% | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.2% | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 0.8% | 0.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 4,351.76B |
@@ -67,12 +67,14 @@
 | 11:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 53.4% |
 | 11:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 72.821K |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 11:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
+| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 78.9% | 78.5% |
 | 12:00 | INR | Low | Infrastructure Output (YoY) (Sep) |  |  | -1.8% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | BRL | Moderate | Unemployment Rate (Sep) |  | 6.5% | 6.6% |
 | 12:00 | ZAR | Low | Trade Balance (Sep) |  |  | 5.63B |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,897K |
-| 12:30 | USD | High | Core PCE Price Index (YoY) (Sep) |  |  | 2.7% |
+| 12:30 | USD | High | Core PCE Price Index (YoY) (Sep) |  | 2.6% | 2.7% |
 | 12:30 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
 | 12:30 | USD | Low | Employment Benefits (QoQ) (Q3) |  |  | 1.00% |
 | 12:30 | USD | Moderate | Employment Cost Index (QoQ) (Q3) |  | 0.9% | 0.9% |
@@ -85,14 +87,12 @@
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.4% | 0.2% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 4.48% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Aug) |  |  | 0.2% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Aug) |  | 0.1% | 0.2% |
+| 12:30 | CAD | Moderate | GDP (MoM) (Sep) |  |  |  |
+| 12:30 | CAD | Moderate | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
-| 12:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 12:30 | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 78.5% |
 | 13:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.50% |
-| 13:45 | USD | High | Chicago PMI (Oct) |  | 47.1 | 46.6 |
+| 13:45 | USD | High | Chicago PMI (Oct) |  | 46.9 | 46.6 |
 | 14:30 | USD | Low | Natural Gas Storage |  | 79B | 80B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.650% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.590% |

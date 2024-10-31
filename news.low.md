@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Business Confidence (Oct) | 65.7 |  | 60.9 |
 | 00:00 | NZD | NBNZ Own Activity (Oct) | 45.9% |  | 45.3% |
-| 00:30 | AUD | Building Approvals (YoY) (Sep) | 18.10% |  | 8.30% |
+| 00:30 | AUD | Building Approvals (YoY) (Sep) | 18.10% | 7.90% | 24.90% |
 | 00:30 | AUD | Export Price Index (QoQ) (Q3) | -4.3% |  | -5.9% |
 | 00:30 | AUD | Housing Credit (Sep) | 0.5% |  | 0.4% |
 | 00:30 | AUD | Import Price Index (QoQ) (Q3) | -1.4% | -0.2% | 1.0% |
@@ -13,8 +13,8 @@
 | 00:30 | AUD | Retail Sales (QoQ) (Q3) | 0.5% |  | -0.4% |
 | 01:35 | GBP | BoE Breeden Speaks |  |  |  |
 | 02:00 | NZD | M3 Money Supply (Sep) | 417.1B |  | 415.0B |
-| 52 min | JPY | Construction Orders (YoY) (Sep) |  |  | 8.7% |
-| 52 min | JPY | Housing Starts (YoY) (Sep) |  | -4.1% | -5.1% |
+| 05:00 | JPY | Construction Orders (YoY) (Sep) | -21.3% |  | 8.7% |
+| 05:00 | JPY | Housing Starts (YoY) (Sep) | -0.6% | -4.2% | -5.1% |
 | 07:00 | EUR | German Import Price Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 07:00 | EUR | German Import Price Index (YoY) (Sep) |  |  | 0.2% |
 | 07:00 | EUR | German Imports (MoM) (Sep) |  |  | -3.4% |
@@ -37,7 +37,7 @@
 | 09:30 | ZAR | PPI (YoY) (Sep) |  |  | 2.8% |
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | EUR | Italian CPI (YoY) (Oct) |  | 1.0% | 0.7% |
-| 10:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
+| 10:00 | EUR | Italian CPI (MoM) (Oct) |  | -0.1% | -0.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.2% | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Oct) |  | 0.8% | 0.7% |
 | 10:00 | INR | Federal Fiscal Deficit (Sep) |  |  | 4,351.76B |
@@ -50,6 +50,7 @@
 | 11:30 | USD | Challenger Job Cuts (YoY) |  |  | 53.4% |
 | 11:30 | USD | Challenger Job Cuts (Oct) |  |  | 72.821K |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 11:30 | BRL | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 12:00 | INR | Infrastructure Output (YoY) (Sep) |  |  | -1.8% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | ZAR | Trade Balance (Sep) |  |  | 5.63B |
@@ -60,7 +61,6 @@
 | 12:30 | USD | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) |  |  | 4.48% |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
-| 12:30 | BRL | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 12:30 | BRL | Budget Surplus (Sep) |  |  | -21.425B |
 | 13:00 | USD | Dallas Fed PCE (Sep) |  |  | 1.50% |
 | 14:30 | USD | Natural Gas Storage |  | 79B | 80B |
