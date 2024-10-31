@@ -1,10 +1,11 @@
-## 30 October 2024 - High Impact Forex News
+## 31 October 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q3) | 0.2% | -0.1% | -0.3% |
-| 10:00 | GBP | Autumn Forecast Statement |  |  |  |
-| 12:15 | USD | ADP Nonfarm Employment Change (Oct) | 233K | 110K | 159K |
-| 12:30 | USD | GDP (QoQ) (Q3) | 2.8% | 3.0% | 3.0% |
-| 13:00 | EUR | German CPI (MoM) (Oct) | 0.4% | 0.2% | 0.0% |
-| 14:30 | USD | Crude Oil Inventories | -0.515M | 1.500M | 5.474M |
+| 01:30 | CNY | Manufacturing PMI (Oct) |  | 50.0 | 49.8 |
+| 03:00 | JPY | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
+| 10:00 | EUR | CPI (YoY) (Oct) |  | 1.9% | 1.7% |
+| 12:30 | USD | Core PCE Price Index (YoY) (Sep) |  |  | 2.7% |
+| 12:30 | USD | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
+| 12:30 | USD | Initial Jobless Claims |  | 229K | 227K |
+| 13:45 | USD | Chicago PMI (Oct) |  | 47.1 | 46.6 |
