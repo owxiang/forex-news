@@ -26,44 +26,44 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) | -0.4% | -0.4% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -1.3% |  | 0.2% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.2% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.5% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.2% |
 | 07:00 | NOK | Low | M3 Money Supply (Sep) | 3,188.3B |  | 3,217.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) | 3.7% |  | 3.7% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.9% | 1.1% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.2% | 0.2% | -1.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
+| 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.1% | 1.1% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.2% | 0.2% | -1.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.5% | 1.5% | 1.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
 | 07:45 | EUR | Low | PPI (YoY) (Sep) | -7.00% |  | -6.30% |
 | 07:45 | EUR | Low | French PPI (MoM) (Sep) | -0.1% |  | 0.3% |
 | 08:00 | CHF | Low | Official Reserves Assets (Sep) | 802.3B |  | 777.8B |
-| 22 min | HKD | Low | GDP (QoQ) (Q3) |  | 0.0% | 0.4% |
-| 22 min | HKD | Low | GDP (YoY) (Q3) |  | 3.1% | 3.3% |
-| 22 min | HKD | Low | M3 Money Supply (Sep) |  |  | 1.9% |
-| 52 min | EUR | Low | Italian Monthly Unemployment Rate (Sep) |  | 6.2% | 6.2% |
-| 52 min | EUR | Low | Spanish Current account (Aug) |  |  | 5.79B |
-| 52 min | NOK | Low | Central Bank Currency Purchase (Nov) |  |  | 400.0M |
-| 52 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | -0.3% |
-| 09:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.8% |
-| 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.0% | 0.7% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.1% | -0.2% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.2% | 1.2% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 0.8% | 0.7% |
-| 10:00 | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 4,351.76B |
-| 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  |  | 0.1% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.6% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (Oct) |  | 1.9% | 1.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Oct) |  |  | -0.1% |
-| 10:00 | EUR | Low | CPI, n.s.a (Oct) |  |  | 126.60 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  |  | 2.7% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.0% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
+| 08:30 | HKD | Low | GDP (YoY) (Q3) | 1.8% | 3.1% | 3.2% |
+| 08:30 | HKD | Low | GDP (QoQ) (Q3) | -1.1% | 0.0% | 0.3% |
+| 08:30 | HKD | Low | M3 Money Supply (Sep) | 3.0% |  | 1.9% |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.2% | 6.1% |
+| 09:00 | EUR | Low | Spanish Current account (Aug) |  |  | 5.79B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Nov) | 150.0M |  | 400.0M |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 24 min | ZAR | Low | PPI (MoM) (Sep) |  |  | -0.3% |
+| 24 min | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.8% |
+| 54 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 54 min | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.1% | -0.2% |
+| 54 min | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.0% | 0.7% |
+| 54 min | EUR | Low | Italian HICP (YoY) (Oct) |  | 0.8% | 0.7% |
+| 54 min | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.2% | 1.2% |
+| 54 min | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 4,351.76B |
+| 54 min | EUR | Low | Core CPI (MoM) (Oct) |  |  | 0.1% |
+| 54 min | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.6% | 2.7% |
+| 54 min | EUR | Moderate | CPI (MoM) (Oct) |  |  | -0.1% |
+| 54 min | EUR | High | CPI (YoY) (Oct) |  | 1.9% | 1.7% |
+| 54 min | EUR | Low | CPI, n.s.a (Oct) |  |  | 126.60 |
+| 54 min | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  |  | 2.7% |
+| 54 min | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.0% |
+| 54 min | EUR | Moderate | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -4.70% |
-| 11:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 53.4% |
 | 11:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 72.821K |
+| 11:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 53.4% |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 11:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 78.9% | 78.5% |
@@ -85,8 +85,8 @@
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.4% | 0.2% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 4.48% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Sep) |  |  |  |
 | 12:30 | CAD | Moderate | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
+| 12:30 | CAD | Moderate | GDP (MoM) (Sep) |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 12:30 | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |
 | 13:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.50% |
