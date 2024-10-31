@@ -25,4 +25,4 @@
 | 12:30 | CAD | GDP (MoM) (Aug) | 0.0% | 0.0% | 0.1% |
 | 12:31 | CAD | GDP (MoM) (Sep) | 0.3% |  | 0.0% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) | 2.7% |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 7,029B |
+| 20:30 | USD | Fed's Balance Sheet | 7,013B |  | 7,029B |

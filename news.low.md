@@ -58,6 +58,6 @@
 | 14:30 | USD | Natural Gas Storage | 78B | 79B | 80B |
 | 15:30 | USD | 4-Week Bill Auction | 4.580% |  | 4.650% |
 | 15:30 | USD | 8-Week Bill Auction | 4.555% |  | 4.590% |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.228T |
-| 21:45 | NZD | Building Consents (MoM) (Sep) |  |  | -5.3% |
-| 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Oct) |  | 46.6 | 46.7 |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.228T |
+| 39 min | NZD | Building Consents (MoM) (Sep) |  |  | -5.3% |
+| 54 min | AUD | Judo Bank Australia Manufacturing PMI (Oct) |  | 46.6 | 46.7 |

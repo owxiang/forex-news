@@ -26,14 +26,14 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) | -0.4% | -0.4% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -1.3% |  | 0.2% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.5% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.2% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.5% |
 | 07:00 | NOK | Low | M3 Money Supply (Sep) | 3,188.3B |  | 3,217.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) | 3.7% |  | 3.7% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.2% | 0.2% | -1.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.5% | 1.5% | 1.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.5% | 1.5% | 1.4% |
 | 07:45 | EUR | Low | French PPI (MoM) (Sep) | -0.1% |  | 0.3% |
 | 07:45 | EUR | Low | PPI (YoY) (Sep) | -7.00% |  | -6.30% |
 | 08:00 | CHF | Low | Official Reserves Assets (Sep) | 802.3B |  | 777.8B |
@@ -51,8 +51,8 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.0% | 0.8% | 0.7% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.2% | 1.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.7% | 2.6% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.2% |  | 0.1% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.7% | 2.6% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.3% |  | -0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Oct) | 2.0% | 1.9% | 1.7% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) | 127.03 |  | 126.60 |
@@ -88,7 +88,7 @@
 | 15:30 | USD | Low | 4-Week Bill Auction | 4.580% |  | 4.650% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 4.555% |  | 4.590% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,029B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.228T |
-| 21:45 | NZD | Low | Building Consents (MoM) (Sep) |  |  | -5.3% |
-| 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Oct) |  | 46.6 | 46.7 |
+| 20:30 | USD | Moderate | Fed's Balance Sheet | 7,013B |  | 7,029B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.228T |
+| 39 min | NZD | Low | Building Consents (MoM) (Sep) |  |  | -5.3% |
+| 54 min | AUD | Low | Judo Bank Australia Manufacturing PMI (Oct) |  | 46.6 | 46.7 |
