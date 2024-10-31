@@ -59,5 +59,5 @@
 | 15:30 | USD | 4-Week Bill Auction | 4.580% |  | 4.650% |
 | 15:30 | USD | 8-Week Bill Auction | 4.555% |  | 4.590% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.228T |
-| 39 min | NZD | Building Consents (MoM) (Sep) |  |  | -5.3% |
-| 54 min | AUD | Judo Bank Australia Manufacturing PMI (Oct) |  | 46.6 | 46.7 |
+| 21:45 | NZD | Building Consents (MoM) (Sep) | 2.6% |  | -5.2% |
+| 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Oct) | 47.3 | 46.6 | 46.7 |
