@@ -7,7 +7,7 @@
 | 01:30 | CNY | Chinese Composite PMI (Oct) | 50.8 |  | 50.4 |
 | 01:30 | CNY | Non-Manufacturing PMI (Oct) | 50.2 | 50.4 | 50.0 |
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 31 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | EUR | German Retail Sales (MoM) (Sep) |  | -0.8% | 1.6% |
 | 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.2% | -1.2% |

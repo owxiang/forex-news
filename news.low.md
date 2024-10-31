@@ -13,7 +13,7 @@
 | 00:30 | AUD | Retail Sales (QoQ) (Q3) | 0.5% |  | -0.4% |
 | 01:35 | GBP | BoE Breeden Speaks |  |  |  |
 | 02:00 | NZD | M3 Money Supply (Sep) | 417.1B |  | 415.0B |
-| 04:00 | JPY | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
+| 47 min | JPY | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
 | 05:00 | JPY | Construction Orders (YoY) (Sep) |  |  | 8.7% |
 | 05:00 | JPY | Housing Starts (YoY) (Sep) |  | -4.1% | -5.1% |
 | 07:00 | EUR | German Import Price Index (MoM) (Sep) |  |  | -0.4% |

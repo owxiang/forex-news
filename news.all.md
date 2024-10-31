@@ -19,9 +19,9 @@
 | 01:35 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 02:00 | NZD | Low | M3 Money Supply (Sep) | 417.1B |  | 415.0B |
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 31 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 31 min | JPY | High | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
-| 04:00 | JPY | Low | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
+| 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 03:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
+| 47 min | JPY | Low | Large Retailers' Sales (MoM) (Sep) |  |  | 0.8% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Sep) |  |  | 8.7% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Sep) |  | -4.1% | -5.1% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
@@ -35,8 +35,8 @@
 | 07:30 | CHF | Low | Retail Sales (YoY) |  | 2.5% | 3.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.0% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.2% | -1.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Sep) |  |  | -6.30% |
 | 07:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | 0.2% |
 | 08:00 | CHF | Low | Official Reserves Assets (Sep) |  |  | 777.8B |
@@ -73,8 +73,8 @@
 | 12:00 | BRL | Moderate | Unemployment Rate (Sep) |  | 6.5% | 6.6% |
 | 12:00 | ZAR | Low | Trade Balance (Sep) |  |  | 5.63B |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,897K |
-| 12:30 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
 | 12:30 | USD | High | Core PCE Price Index (YoY) (Sep) |  |  | 2.7% |
+| 12:30 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
 | 12:30 | USD | Low | Employment Benefits (QoQ) (Q3) |  |  | 1.00% |
 | 12:30 | USD | Moderate | Employment Cost Index (QoQ) (Q3) |  | 0.9% | 0.9% |
 | 12:30 | USD | Low | Employment Wages (QoQ) (Q3) |  |  | 0.90% |
