@@ -24,5 +24,5 @@
 | 12:30 | USD | Personal Spending (MoM) (Sep) | 0.5% | 0.4% | 0.3% |
 | 12:30 | CAD | GDP (MoM) (Aug) | 0.0% | 0.0% | 0.1% |
 | 12:31 | CAD | GDP (MoM) (Sep) | 0.3% |  | 0.0% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
+| 24 min | USD | Atlanta Fed GDPNow (Q4) |  |  |  |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 7,029B |

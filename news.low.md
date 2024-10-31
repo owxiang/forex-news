@@ -34,8 +34,8 @@
 | 09:30 | ZAR | PPI (MoM) (Sep) | -0.3% |  | -0.3% |
 | 09:30 | ZAR | PPI (YoY) (Sep) | 1.0% |  | 2.8% |
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | -0.1% | -0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.2% | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 0.8% | 0.7% |
 | 10:00 | EUR | Core CPI (MoM) (Oct) | 0.2% |  | 0.1% |
@@ -44,8 +44,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.2% |  | 0.0% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Aug) | -4.60% |  | -4.70% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Aug) | -0.10% |  | -0.50% |
-| 11:30 | USD | Challenger Job Cuts (Oct) | 55.597K |  | 72.821K |
 | 11:30 | USD | Challenger Job Cuts (YoY) | 50.9% |  | 53.4% |
+| 11:30 | USD | Challenger Job Cuts (Oct) | 55.597K |  | 72.821K |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | ZAR | Trade Balance (Sep) | 12.84B |  | 5.11B |
@@ -55,9 +55,9 @@
 | 12:30 | USD | Personal Income (MoM) (Sep) | 0.3% | 0.3% | 0.2% |
 | 12:30 | USD | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.2% |
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 4.62% |  | 4.32% |
-| 24 min | USD | Natural Gas Storage |  | 79B | 80B |
-| 15:30 | USD | 4-Week Bill Auction |  |  | 4.650% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 4.590% |
+| 14:30 | USD | Natural Gas Storage | 78B | 79B | 80B |
+| 24 min | USD | 4-Week Bill Auction |  |  | 4.650% |
+| 24 min | USD | 8-Week Bill Auction |  |  | 4.590% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.228T |
 | 21:45 | NZD | Building Consents (MoM) (Sep) |  |  | -5.3% |
 | 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Oct) |  | 46.6 | 46.7 |
