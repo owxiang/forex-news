@@ -25,26 +25,25 @@
 | 07:45 | EUR | PPI (YoY) (Sep) | -7.00% |  | -6.30% |
 | 07:45 | EUR | French PPI (MoM) (Sep) | -0.1% |  | 0.3% |
 | 08:00 | CHF | Official Reserves Assets (Sep) | 802.3B |  | 777.8B |
-| 08:30 | HKD | GDP (YoY) (Q3) | 1.8% | 3.1% | 3.2% |
 | 08:30 | HKD | GDP (QoQ) (Q3) | -1.1% | 0.0% | 0.3% |
+| 08:30 | HKD | GDP (YoY) (Q3) | 1.8% | 3.1% | 3.2% |
 | 08:30 | HKD | M3 Money Supply (Sep) | 3.0% |  | 1.9% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.2% | 6.1% |
-| 09:00 | EUR | Spanish Current account (Aug) |  |  | 5.79B |
+| 09:00 | EUR | Spanish Current account (Aug) | 5.63B |  | 5.79B |
 | 09:00 | NOK | Central Bank Currency Purchase (Nov) | 150.0M |  | 400.0M |
-| 24 min | ZAR | PPI (MoM) (Sep) |  |  | -0.3% |
-| 24 min | ZAR | PPI (YoY) (Sep) |  |  | 2.8% |
-| 54 min | GBP | BoE Breeden Speaks |  |  |  |
-| 54 min | EUR | Italian CPI (MoM) (Oct) |  | -0.1% | -0.2% |
-| 54 min | EUR | Italian CPI (YoY) (Oct) |  | 1.0% | 0.7% |
-| 54 min | EUR | Italian HICP (YoY) (Oct) |  | 0.8% | 0.7% |
-| 54 min | EUR | Italian HICP (MoM) (Oct) |  | 0.2% | 1.2% |
-| 54 min | INR | Federal Fiscal Deficit (Sep) |  |  | 4,351.76B |
-| 54 min | EUR | Core CPI (MoM) (Oct) |  |  | 0.1% |
-| 54 min | EUR | CPI, n.s.a (Oct) |  |  | 126.60 |
-| 54 min | EUR | HICP ex Energy & Food (YoY) (Oct) |  |  | 2.7% |
-| 54 min | EUR | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.0% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -4.70% |
+| 09:30 | ZAR | PPI (MoM) (Sep) | -0.3% |  | -0.3% |
+| 09:30 | ZAR | PPI (YoY) (Sep) | 1.0% |  | 2.8% |
+| 10:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 10:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | -0.1% | -0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.2% | 1.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 0.8% | 0.7% |
+| 10:00 | EUR | Core CPI (MoM) (Oct) | 0.2% |  | 0.1% |
+| 10:00 | EUR | CPI, n.s.a (Oct) | 127.03 |  | 126.60 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.7% |  | 2.7% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.2% |  | 0.0% |
+| 53 min | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -4.70% |
+| 53 min | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 11:30 | USD | Challenger Job Cuts (Oct) |  |  | 72.821K |
 | 11:30 | USD | Challenger Job Cuts (YoY) |  |  | 53.4% |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
