@@ -8,4 +8,4 @@
 | 12:30 | USD | Core PCE Price Index (YoY) (Sep) | 2.7% | 2.6% | 2.7% |
 | 12:30 | USD | Core PCE Price Index (MoM) (Sep) | 0.3% | 0.3% | 0.2% |
 | 12:30 | USD | Initial Jobless Claims | 216K | 229K | 228K |
-| 35 min | USD | Chicago PMI (Oct) |  | 46.9 | 46.6 |
+| 13:45 | USD | Chicago PMI (Oct) | 41.6 | 46.9 | 46.6 |
