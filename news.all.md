@@ -30,8 +30,8 @@
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.5% |
 | 07:00 | NOK | Low | M3 Money Supply (Sep) | 3,188.3B |  | 3,217.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) | 3.7% |  | 3.7% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.2% | 0.2% | -1.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.1% | 1.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.5% | 1.5% | 1.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Sep) | -7.00% |  | -6.30% |
@@ -47,20 +47,20 @@
 | 09:30 | ZAR | Low | PPI (MoM) (Sep) | -0.3% |  | -0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) | 1.0% |  | 2.8% |
 | 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Oct) | 0.0% | -0.1% | -0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.2% | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.0% | 0.8% | 0.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.2% |  | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.7% | 2.6% | 2.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.3% |  | -0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Oct) | 2.0% | 1.9% | 1.7% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.3% |  | -0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) | 127.03 |  | 126.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 2.7% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) | 0.2% |  | 0.0% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Sep) | 6.3% | 6.4% | 6.3% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.10% |  | -0.50% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -4.60% |  | -4.70% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.10% |  | -0.50% |
 | 11:30 | USD | Low | Challenger Job Cuts (Oct) | 55.597K |  | 72.821K |
 | 11:30 | USD | Low | Challenger Job Cuts (YoY) | 50.9% |  | 53.4% |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
@@ -75,8 +75,8 @@
 | 12:30 | USD | Low | Employment Wages (QoQ) (Q3) | 0.80% |  | 0.90% |
 | 12:30 | USD | High | Initial Jobless Claims | 216K | 229K | 228K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.50K |  | 238.75K |
-| 12:30 | USD | Moderate | PCE price index (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 12:30 | USD | Moderate | PCE Price index (YoY) (Sep) | 2.1% | 2.1% | 2.3% |
+| 12:30 | USD | Moderate | PCE price index (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
 | 12:30 | USD | Low | Personal Income (MoM) (Sep) | 0.3% | 0.3% | 0.2% |
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.5% | 0.4% | 0.3% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.2% |
