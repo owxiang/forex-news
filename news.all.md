@@ -23,22 +23,21 @@
 | 03:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Sep) | -21.3% |  | 8.7% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Sep) | -0.6% | -4.2% | -5.1% |
-| 21 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 51 min | EUR | Low | German Import Price Index (MoM) (Sep) |  | -0.4% | -0.4% |
-| 51 min | EUR | Low | German Import Price Index (YoY) (Sep) |  |  | 0.2% |
-| 51 min | EUR | Low | German Imports (MoM) (Sep) |  |  | -3.4% |
-| 51 min | EUR | Low | German Retail Sales (YoY) (Sep) |  | 1.6% | 2.1% |
-| 51 min | EUR | Moderate | German Retail Sales (MoM) (Sep) |  | -0.7% | 1.6% |
-| 51 min | NOK | Low | M3 Money Supply (Sep) |  |  | 3,217.3B |
-| 51 min | NOK | Low | Credit Indicator (YoY) (Sep) |  |  | 3.8% |
-| 07:30 | CHF | Low | Retail Sales (YoY) |  | 2.5% | 3.2% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.9% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.2% | -1.3% |
-| 07:45 | EUR | Low | PPI (YoY) (Sep) |  |  | -6.30% |
-| 07:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | 0.2% |
-| 08:00 | CHF | Low | Official Reserves Assets (Sep) |  |  | 777.8B |
+| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) | -0.4% | -0.4% | -0.4% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -1.3% |  | 0.2% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.1% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.6% |
+| 07:00 | NOK | Low | M3 Money Supply (Sep) | 3,188.3B |  | 3,217.3B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) | 3.7% |  | 3.7% |
+| 24 min | CHF | Low | Retail Sales (YoY) |  | 2.5% | 3.2% |
+| 39 min | EUR | Low | French CPI (YoY) (Oct) |  | 1.9% | 1.1% |
+| 39 min | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
+| 39 min | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.2% | -1.3% |
+| 39 min | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
+| 39 min | EUR | Low | PPI (YoY) (Sep) |  |  | -6.30% |
+| 39 min | EUR | Low | French PPI (MoM) (Sep) |  |  | 0.2% |
+| 54 min | CHF | Low | Official Reserves Assets (Sep) |  |  | 777.8B |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.0% | 0.4% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) |  | 3.1% | 3.3% |
 | 08:30 | HKD | Low | M3 Money Supply (Sep) |  |  | 1.9% |
@@ -49,15 +48,15 @@
 | 09:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | -0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 2.8% |
 | 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.1% | -0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.0% | 0.7% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.1% | -0.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.2% | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 0.8% | 0.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 4,351.76B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  |  | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.6% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (Oct) |  | 1.9% | 1.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Oct) |  |  | -0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Oct) |  | 1.9% | 1.7% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) |  |  | 126.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.0% |
@@ -87,8 +86,8 @@
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.4% | 0.2% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
 | 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 4.48% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
 | 12:30 | CAD | Moderate | GDP (MoM) (Sep) |  |  |  |
+| 12:30 | CAD | Moderate | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 12:30 | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |
 | 13:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.50% |
