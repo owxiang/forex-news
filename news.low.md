@@ -17,21 +17,20 @@
 | 05:00 | JPY | Housing Starts (YoY) (Sep) | -0.6% | -4.2% | -5.1% |
 | 07:00 | EUR | German Import Price Index (MoM) (Sep) | -0.4% | -0.4% | -0.4% |
 | 07:00 | EUR | German Import Price Index (YoY) (Sep) | -1.3% |  | 0.2% |
-| 07:00 | EUR | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.1% |
+| 07:00 | EUR | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.5% |
 | 07:00 | NOK | M3 Money Supply (Sep) | 3,188.3B |  | 3,217.3B |
 | 07:00 | NOK | Credit Indicator (YoY) (Sep) | 3.7% |  | 3.7% |
-| 24 min | CHF | Retail Sales (YoY) |  | 2.5% | 3.2% |
-| 39 min | EUR | French CPI (YoY) (Oct) |  | 1.9% | 1.1% |
-| 39 min | EUR | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
-| 39 min | EUR | PPI (YoY) (Sep) |  |  | -6.30% |
-| 39 min | EUR | French PPI (MoM) (Sep) |  |  | 0.2% |
-| 54 min | CHF | Official Reserves Assets (Sep) |  |  | 777.8B |
-| 08:30 | HKD | GDP (QoQ) (Q3) |  | 0.0% | 0.4% |
-| 08:30 | HKD | GDP (YoY) (Q3) |  | 3.1% | 3.3% |
-| 08:30 | HKD | M3 Money Supply (Sep) |  |  | 1.9% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Sep) |  | 6.2% | 6.2% |
-| 09:00 | EUR | Spanish Current account (Aug) |  |  | 5.79B |
-| 09:00 | NOK | Central Bank Currency Purchase (Nov) |  |  | 400.0M |
+| 07:45 | EUR | French CPI (YoY) (Oct) | 1.2% | 1.9% | 1.1% |
+| 07:45 | EUR | French HICP (YoY) (Oct) | 1.5% | 1.5% | 1.4% |
+| 07:45 | EUR | PPI (YoY) (Sep) | -7.00% |  | -6.30% |
+| 07:45 | EUR | French PPI (MoM) (Sep) | -0.1% |  | 0.3% |
+| 08:00 | CHF | Official Reserves Assets (Sep) | 802.3B |  | 777.8B |
+| 22 min | HKD | GDP (QoQ) (Q3) |  | 0.0% | 0.4% |
+| 22 min | HKD | GDP (YoY) (Q3) |  | 3.1% | 3.3% |
+| 22 min | HKD | M3 Money Supply (Sep) |  |  | 1.9% |
+| 52 min | EUR | Italian Monthly Unemployment Rate (Sep) |  | 6.2% | 6.2% |
+| 52 min | EUR | Spanish Current account (Aug) |  |  | 5.79B |
+| 52 min | NOK | Central Bank Currency Purchase (Nov) |  |  | 400.0M |
 | 09:30 | ZAR | PPI (MoM) (Sep) |  |  | -0.3% |
 | 09:30 | ZAR | PPI (YoY) (Sep) |  |  | 2.8% |
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |

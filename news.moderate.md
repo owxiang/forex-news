@@ -9,10 +9,10 @@
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:00 | EUR | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.6% |
-| 39 min | EUR | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
-| 39 min | EUR | French HICP (MoM) (Oct) |  | 0.2% | -1.3% |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 07:00 | EUR | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.2% |
+| 07:45 | EUR | French CPI (MoM) (Oct) | 0.2% | 0.2% | -1.3% |
+| 07:45 | EUR | French HICP (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
+| 52 min | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Oct) |  | 2.6% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Oct) |  |  | -0.1% |
 | 10:00 | EUR | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
