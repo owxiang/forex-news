@@ -8,8 +8,8 @@
 | 01:30 | CNY | Non-Manufacturing PMI (Oct) | 50.2 | 50.4 | 50.0 |
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:00 | EUR | German Retail Sales (MoM) (Sep) |  | -0.7% | 1.6% |
+| 21 min | JPY | BoJ Press Conference |  |  |  |
+| 51 min | EUR | German Retail Sales (MoM) (Sep) |  | -0.7% | 1.6% |
 | 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
 | 07:45 | EUR | French HICP (MoM) (Oct) |  | 0.2% | -1.3% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
@@ -23,7 +23,7 @@
 | 12:30 | USD | PCE Price index (YoY) (Sep) |  | 2.1% | 2.2% |
 | 12:30 | USD | PCE price index (MoM) (Sep) |  | 0.2% | 0.1% |
 | 12:30 | USD | Personal Spending (MoM) (Sep) |  | 0.4% | 0.2% |
-| 12:30 | CAD | GDP (MoM) (Sep) |  |  |  |
 | 12:30 | CAD | GDP (MoM) (Aug) |  | 0.0% | 0.2% |
+| 12:30 | CAD | GDP (MoM) (Sep) |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow |  | 2.8% | 2.8% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 7,029B |
