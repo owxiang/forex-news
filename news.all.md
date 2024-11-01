@@ -58,10 +58,9 @@
 | 14:00 | USD | High | ISM Manufacturing PMI (Oct) | 46.5 | 47.6 | 47.2 |
 | 14:00 | USD | High | ISM Manufacturing Prices (Oct) | 54.8 | 49.9 | 48.3 |
 | 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) | 48.40 |  | 47.30 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
-| 54 min | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.3% | 2.7% | 2.7% |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 | 479 | 480 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 585 |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 74.6K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.6K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 32.5K |

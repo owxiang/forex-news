@@ -36,7 +36,6 @@
 | 13:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) | 51.1 |  | 50.4 |
 | 14:00 | USD | ISM Manufacturing New Orders Index (Oct) | 47.1 | 47.0 | 46.1 |
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Oct) | 48.40 |  | 47.30 |
-| 54 min | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.6K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 32.5K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 17.8K |

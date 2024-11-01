@@ -18,9 +18,9 @@
 | 12:30 | USD | U6 Unemployment Rate (Oct) | 7.7% |  | 7.7% |
 | 14:00 | USD | Construction Spending (MoM) (Sep) | 0.1% | 0.0% | 0.1% |
 | 14:00 | USD | ISM Manufacturing Employment (Oct) | 44.4 | 45.0 | 43.9 |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
-| 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 2.3% | 2.7% | 2.7% |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 479 | 479 | 480 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 585 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 74.6K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 173.7K |
 | 19:30 | USD | CFTC Gold speculative net positions |  |  | 296.2K |
