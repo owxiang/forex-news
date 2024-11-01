@@ -17,15 +17,15 @@
 | 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) | -0.1% | 0.0% | -0.3% |
 | 08:30 | CHF | Moderate | procure.ch PMI (Oct) | 49.9 | 49.5 | 49.9 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | NOK | Low | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Low | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |

@@ -16,8 +16,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | NOK | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
