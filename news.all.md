@@ -1,94 +1,87 @@
-## 31 October 2024 - All Forex News
+## 01 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | NZD | Low | ANZ Business Confidence (Oct) | 65.7 |  | 60.9 |
-| 00:00 | NZD | Low | NBNZ Own Activity (Oct) | 45.9% |  | 45.3% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Sep) | 18.10% | 7.90% | 24.90% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 4.4% | 2.2% | -3.9% |
-| 00:30 | AUD | Low | Export Price Index (QoQ) (Q3) | -4.3% |  | -5.9% |
-| 00:30 | AUD | Low | Housing Credit (Sep) | 0.5% |  | 0.4% |
-| 00:30 | AUD | Low | Import Price Index (QoQ) (Q3) | -1.4% | -0.2% | 1.0% |
-| 00:30 | AUD | Low | Private House Approvals (Sep) | 2.2% |  | 0.5% |
-| 00:30 | AUD | Low | Private Sector Credit (MoM) (Sep) | 0.5% | 0.5% | 0.5% |
-| 00:30 | AUD | Moderate | Retail Sales (MoM) (Sep) | 0.1% | 0.3% | 0.7% |
-| 00:30 | AUD | Low | Retail Sales (QoQ) (Q3) | 0.5% |  | -0.4% |
-| 01:30 | CNY | Moderate | Chinese Composite PMI (Oct) | 50.8 |  | 50.4 |
-| 01:30 | CNY | High | Manufacturing PMI (Oct) | 50.1 | 49.8 | 49.8 |
-| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Oct) | 50.2 | 50.4 | 50.0 |
-| 01:35 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 02:00 | NZD | Low | M3 Money Supply (Sep) | 417.1B |  | 415.0B |
-| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 03:00 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
-| 05:00 | JPY | Low | Construction Orders (YoY) (Sep) | -21.3% |  | 8.7% |
-| 05:00 | JPY | Low | Housing Starts (YoY) (Sep) | -0.6% | -4.2% | -5.1% |
-| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Sep) | -0.4% | -0.4% | -0.4% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -1.3% |  | 0.2% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.5% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.2% |
-| 07:00 | NOK | Low | M3 Money Supply (Sep) | 3,188.3B |  | 3,217.3B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Sep) | 3.7% |  | 3.7% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.1% | 1.1% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.2% | 0.2% | -1.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.5% | 1.5% | 1.4% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
-| 07:45 | EUR | Low | French PPI (MoM) (Sep) | -0.1% |  | 0.3% |
-| 07:45 | EUR | Low | PPI (YoY) (Sep) | -7.00% |  | -6.30% |
-| 08:00 | CHF | Low | Official Reserves Assets (Sep) | 802.3B |  | 777.8B |
-| 08:30 | HKD | Low | GDP (YoY) (Q3) | 1.8% | 3.1% | 3.2% |
-| 08:30 | HKD | Low | GDP (QoQ) (Q3) | -1.1% | 0.0% | 0.3% |
-| 08:30 | HKD | Low | M3 Money Supply (Sep) | 3.0% |  | 1.9% |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.2% | 6.1% |
-| 09:00 | EUR | Low | Spanish Current account (Aug) | 5.63B |  | 5.79B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Nov) | 150.0M |  | 400.0M |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:30 | ZAR | Low | PPI (YoY) (Sep) | 1.0% |  | 2.8% |
-| 09:30 | ZAR | Low | PPI (MoM) (Sep) | -0.3% |  | -0.3% |
-| 10:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Oct) | 0.0% | -0.1% | -0.2% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.0% | 0.8% | 0.7% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.2% | 1.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.7% | 2.6% | 2.7% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.2% |  | 0.1% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.3% |  | -0.1% |
-| 10:00 | EUR | High | CPI (YoY) (Oct) | 2.0% | 1.9% | 1.7% |
-| 10:00 | EUR | Low | CPI, n.s.a (Oct) | 127.03 |  | 126.60 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 2.7% |  | 2.7% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) | 0.2% |  | 0.0% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Sep) | 6.3% | 6.4% | 6.3% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.10% |  | -0.50% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -4.60% |  | -4.70% |
-| 11:30 | USD | Low | Challenger Job Cuts (YoY) | 50.9% |  | 53.4% |
-| 11:30 | USD | Low | Challenger Job Cuts (Oct) | 55.597K |  | 72.821K |
-| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Moderate | Unemployment Rate (Sep) | 6.4% | 6.5% | 6.6% |
-| 12:00 | ZAR | Low | Trade Balance (Sep) | 12.84B |  | 5.11B |
-| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,862K | 1,890K | 1,888K |
-| 12:30 | USD | High | Core PCE Price Index (YoY) (Sep) | 2.7% | 2.6% | 2.7% |
-| 12:30 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.3% | 0.3% | 0.2% |
-| 12:30 | USD | Low | Employment Benefits (QoQ) (Q3) | 0.80% |  | 1.00% |
-| 12:30 | USD | Moderate | Employment Cost Index (QoQ) (Q3) | 0.8% | 0.9% | 0.9% |
-| 12:30 | USD | Low | Employment Wages (QoQ) (Q3) | 0.80% |  | 0.90% |
-| 12:30 | USD | High | Initial Jobless Claims | 216K | 229K | 228K |
-| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.50K |  | 238.75K |
-| 12:30 | USD | Moderate | PCE Price index (YoY) (Sep) | 2.1% | 2.1% | 2.3% |
-| 12:30 | USD | Moderate | PCE price index (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 12:30 | USD | Low | Personal Income (MoM) (Sep) | 0.3% | 0.3% | 0.2% |
-| 12:30 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.5% | 0.4% | 0.3% |
-| 12:30 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.2% |
-| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) | 4.62% |  | 4.32% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Aug) | 0.0% | 0.0% | 0.1% |
-| 12:31 | CAD | Moderate | GDP (MoM) (Sep) | 0.3% |  | 0.0% |
-| 13:45 | USD | High | Chicago PMI (Oct) | 41.6 | 46.9 | 46.6 |
-| 14:30 | USD | Low | Natural Gas Storage | 78B | 79B | 80B |
-| 15:30 | USD | Low | 4-Week Bill Auction | 4.580% |  | 4.650% |
-| 15:30 | USD | Low | 8-Week Bill Auction | 4.555% |  | 4.590% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% |  |  |
-| 20:30 | USD | Moderate | Fed's Balance Sheet | 7,013B |  | 7,029B |
-| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.228T |
-| 21:45 | NZD | Low | Building Consents (MoM) (Sep) | 2.6% |  | -5.2% |
-| 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Oct) | 47.3 | 46.6 | 46.7 |
+| 00:00 | KRW | Low | Exports (YoY) (Oct) | 4.6% | 6.9% | 7.5% |
+| 00:00 | KRW | Low | Imports (YoY) (Oct) | 1.7% | 2.0% | 2.2% |
+| 00:00 | KRW | Low | Trade Balance (Oct) | 3.17B | 4.23B | 6.66B |
+| 1 min | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) |  |  | 48.3 |
+| 1 min | AUD | Moderate | Building Approvals (MoM) (Sep) |  | 1.9% | -6.1% |
+| 1 min | AUD | Moderate | Home Loans (MoM) (Sep) |  |  | 0.7% |
+| 1 min | AUD | Low | Invest Housing Finance (MoM) |  |  | 1.4% |
+| 1 min | AUD | Moderate | PPI (QoQ) (Q3) |  | 0.7% | 1.0% |
+| 1 min | AUD | Moderate | PPI (YoY) (Q3) |  |  | 4.8% |
+| 1 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 49.0 | 49.7 |
+| 1 min | IDR | Low | Nikkei Manufacturing PMI (Oct) |  |  | 49.2 |
+| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) |  | 49.7 | 49.3 |
+| 04:00 | IDR | Low | Core Inflation (YoY) (Oct) |  | 2.10% | 2.09% |
+| 04:00 | IDR | Low | Inflation (MoM) (Oct) |  | 0.00% | -0.12% |
+| 04:00 | IDR | Low | Inflation (YoY) (Oct) |  | 1.70% | 1.84% |
+| 05:00 | INR | Low | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
+| 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  | 2.8% | 3.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | 0.3% | 0.7% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
+| 07:30 | CHF | Low | Retail Sales (YoY) |  | 2.5% | 3.2% |
+| 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.0% | -0.3% |
+| 08:30 | CHF | Moderate | procure.ch PMI (Oct) |  | 49.5 | 49.9 |
+| 08:30 | HKD | Low | Retail Sales (YoY) (Sep) |  |  | -10.1% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) |  |  | 1.7% |
+| 09:00 | NOK | Low | Manufacturing PMI (Oct) |  |  | 51.8 |
+| 09:00 | NOK | Low | Unemployment Change (Oct) |  |  | 77.26K |
+| 09:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) |  | 2.10% | 2.00% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 50.3 | 51.5 |
+| 11:30 | INR | Low | Bank Loan Growth |  |  | 12.8% |
+| 11:30 | INR | Low | Deposit Growth |  |  | 11.8% |
+| 11:30 | INR | Low | FX Reserves, USD |  |  | 688.27B |
+| 12:00 | MXN | Low | Unemployment Rate (Sep) |  |  | 2.80% |
+| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 2.8% | 2.2% |
+| 12:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
+| 12:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
+| 12:30 | USD | Low | Government Payrolls (Oct) |  |  | 31.0K |
+| 12:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -3K | -7K |
+| 12:30 | USD | High | Nonfarm Payrolls (Oct) |  | 108K | 254K |
+| 12:30 | USD | Moderate | Participation Rate (Oct) |  |  | 62.7% |
+| 12:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 115K | 223K |
+| 12:30 | USD | Moderate | U6 Unemployment Rate (Oct) |  |  | 7.7% |
+| 12:30 | USD | High | Unemployment Rate (Oct) |  | 4.1% | 4.1% |
+| 12:30 | ZAR | Low | Total Vehicle Sales (Oct) |  |  | 44.08K |
+| 13:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.50% |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 53.2 |
+| 13:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) |  |  | 50.4 |
+| 13:45 | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.8 | 47.8 |
+| 14:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |
+| 14:00 | USD | Moderate | ISM Manufacturing Employment (Oct) |  |  | 43.9 |
+| 14:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) |  |  | 46.1 |
+| 14:00 | USD | High | ISM Manufacturing PMI (Oct) |  | 47.6 | 47.2 |
+| 14:00 | USD | High | ISM Manufacturing Prices (Oct) |  | 48.9 | 48.3 |
+| 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 74.6K |
+| 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.6K |
+| 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 32.5K |
+| 19:30 | USD | Low | CFTC Corn speculative net positions |  |  | 17.8K |
+| 19:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 173.7K |
+| 19:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 296.2K |
+| 19:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 2.7K |
+| 19:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -166.2K |
+| 19:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | 23.0K |
+| 19:30 | USD | Low | CFTC Silver speculative net positions |  |  | 66.4K |
+| 19:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -78.3K |
+| 19:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -17.1K |
+| 19:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -140.6K |
+| 19:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 23.9K |
+| 19:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -32.7K |
+| 19:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 27.7K |
+| 19:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -2.8K |
+| 19:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 12.8K |
+| 19:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -0.3K |
+| 19:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -28.5K |

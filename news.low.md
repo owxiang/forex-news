@@ -1,63 +1,52 @@
-## 31 October 2024 - Low Impact Forex News
+## 01 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Business Confidence (Oct) | 65.7 |  | 60.9 |
-| 00:00 | NZD | NBNZ Own Activity (Oct) | 45.9% |  | 45.3% |
-| 00:30 | AUD | Building Approvals (YoY) (Sep) | 18.10% | 7.90% | 24.90% |
-| 00:30 | AUD | Export Price Index (QoQ) (Q3) | -4.3% |  | -5.9% |
-| 00:30 | AUD | Housing Credit (Sep) | 0.5% |  | 0.4% |
-| 00:30 | AUD | Import Price Index (QoQ) (Q3) | -1.4% | -0.2% | 1.0% |
-| 00:30 | AUD | Private House Approvals (Sep) | 2.2% |  | 0.5% |
-| 00:30 | AUD | Private Sector Credit (MoM) (Sep) | 0.5% | 0.5% | 0.5% |
-| 00:30 | AUD | Retail Sales (QoQ) (Q3) | 0.5% |  | -0.4% |
-| 01:35 | GBP | BoE Breeden Speaks |  |  |  |
-| 02:00 | NZD | M3 Money Supply (Sep) | 417.1B |  | 415.0B |
-| 05:00 | JPY | Construction Orders (YoY) (Sep) | -21.3% |  | 8.7% |
-| 05:00 | JPY | Housing Starts (YoY) (Sep) | -0.6% | -4.2% | -5.1% |
-| 07:00 | EUR | German Import Price Index (MoM) (Sep) | -0.4% | -0.4% | -0.4% |
-| 07:00 | EUR | German Import Price Index (YoY) (Sep) | -1.3% |  | 0.2% |
-| 07:00 | EUR | German Retail Sales (YoY) (Sep) | 3.8% | 1.6% | 2.5% |
-| 07:00 | NOK | M3 Money Supply (Sep) | 3,188.3B |  | 3,217.3B |
-| 07:00 | NOK | Credit Indicator (YoY) (Sep) | 3.7% |  | 3.7% |
-| 07:45 | EUR | French CPI (YoY) (Oct) | 1.2% | 1.1% | 1.1% |
-| 07:45 | EUR | French HICP (YoY) (Oct) | 1.5% | 1.5% | 1.4% |
-| 07:45 | EUR | French PPI (MoM) (Sep) | -0.1% |  | 0.3% |
-| 07:45 | EUR | PPI (YoY) (Sep) | -7.00% |  | -6.30% |
-| 08:00 | CHF | Official Reserves Assets (Sep) | 802.3B |  | 777.8B |
-| 08:30 | HKD | GDP (YoY) (Q3) | 1.8% | 3.1% | 3.2% |
-| 08:30 | HKD | GDP (QoQ) (Q3) | -1.1% | 0.0% | 0.3% |
-| 08:30 | HKD | M3 Money Supply (Sep) | 3.0% |  | 1.9% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Sep) | 6.1% | 6.2% | 6.1% |
-| 09:00 | EUR | Spanish Current account (Aug) | 5.63B |  | 5.79B |
-| 09:00 | NOK | Central Bank Currency Purchase (Nov) | 150.0M |  | 400.0M |
-| 09:30 | ZAR | PPI (YoY) (Sep) | 1.0% |  | 2.8% |
-| 09:30 | ZAR | PPI (MoM) (Sep) | -0.3% |  | -0.3% |
-| 10:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 10:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | -0.1% | -0.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 1.0% | 0.7% |
-| 10:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 0.8% | 0.7% |
-| 10:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.2% | 1.2% |
-| 10:00 | EUR | Core CPI (MoM) (Oct) | 0.2% |  | 0.1% |
-| 10:00 | EUR | CPI, n.s.a (Oct) | 127.03 |  | 126.60 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.7% |  | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.2% |  | 0.0% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Aug) | -0.10% |  | -0.50% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Aug) | -4.60% |  | -4.70% |
-| 11:30 | USD | Challenger Job Cuts (YoY) | 50.9% |  | 53.4% |
-| 11:30 | USD | Challenger Job Cuts (Oct) | 55.597K |  | 72.821K |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | ZAR | Trade Balance (Sep) | 12.84B |  | 5.11B |
-| 12:30 | USD | Employment Benefits (QoQ) (Q3) | 0.80% |  | 1.00% |
-| 12:30 | USD | Employment Wages (QoQ) (Q3) | 0.80% |  | 0.90% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. | 236.50K |  | 238.75K |
-| 12:30 | USD | Personal Income (MoM) (Sep) | 0.3% | 0.3% | 0.2% |
-| 12:30 | USD | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.2% |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 4.62% |  | 4.32% |
-| 14:30 | USD | Natural Gas Storage | 78B | 79B | 80B |
-| 15:30 | USD | 4-Week Bill Auction | 4.580% |  | 4.650% |
-| 15:30 | USD | 8-Week Bill Auction | 4.555% |  | 4.590% |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.228T |
-| 21:45 | NZD | Building Consents (MoM) (Sep) | 2.6% |  | -5.2% |
-| 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Oct) | 47.3 | 46.6 | 46.7 |
+| 00:00 | KRW | Exports (YoY) (Oct) | 4.6% | 6.9% | 7.5% |
+| 00:00 | KRW | Imports (YoY) (Oct) | 1.7% | 2.0% | 2.2% |
+| 00:00 | KRW | Trade Balance (Oct) | 3.17B | 4.23B | 6.66B |
+| 1 min | KRW | S&P Global South Korea Manufacturing PMI (Oct) |  |  | 48.3 |
+| 1 min | AUD | Invest Housing Finance (MoM) |  |  | 1.4% |
+| 1 min | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 49.0 | 49.7 |
+| 1 min | IDR | Nikkei Manufacturing PMI (Oct) |  |  | 49.2 |
+| 04:00 | IDR | Core Inflation (YoY) (Oct) |  | 2.10% | 2.09% |
+| 04:00 | IDR | Inflation (MoM) (Oct) |  | 0.00% | -0.12% |
+| 04:00 | IDR | Inflation (YoY) (Oct) |  | 1.70% | 1.84% |
+| 05:00 | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
+| 05:30 | AUD | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
+| 07:30 | CHF | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
+| 07:30 | CHF | Retail Sales (YoY) |  | 2.5% | 3.2% |
+| 07:30 | CHF | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
+| 08:30 | HKD | Retail Sales (YoY) (Sep) |  |  | -10.1% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.7% |
+| 09:00 | NOK | Manufacturing PMI (Oct) |  |  | 51.8 |
+| 09:00 | NOK | Unemployment Change (Oct) |  |  | 77.26K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Oct) |  | 2.10% | 2.00% |
+| 11:30 | INR | Bank Loan Growth |  |  | 12.8% |
+| 11:30 | INR | Deposit Growth |  |  | 11.8% |
+| 11:30 | INR | FX Reserves, USD |  |  | 688.27B |
+| 12:00 | MXN | Unemployment Rate (Sep) |  |  | 2.80% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
+| 12:00 | BRL | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
+| 12:30 | USD | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
+| 12:30 | USD | Government Payrolls (Oct) |  |  | 31.0K |
+| 12:30 | USD | Manufacturing Payrolls (Oct) |  | -3K | -7K |
+| 12:30 | ZAR | Total Vehicle Sales (Oct) |  |  | 44.08K |
+| 13:00 | USD | Dallas Fed PCE (Sep) |  |  | 1.50% |
+| 13:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 53.2 |
+| 13:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) |  |  | 50.4 |
+| 14:00 | USD | ISM Manufacturing New Orders Index (Oct) |  |  | 46.1 |
+| 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
+| 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.6K |
+| 19:30 | USD | CFTC Copper speculative net positions |  |  | 32.5K |
+| 19:30 | USD | CFTC Corn speculative net positions |  |  | 17.8K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -166.2K |
+| 19:30 | USD | CFTC Silver speculative net positions |  |  | 66.4K |
+| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | -78.3K |
+| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -17.1K |
+| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -140.6K |
+| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 23.9K |
+| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -32.7K |
+| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -0.3K |

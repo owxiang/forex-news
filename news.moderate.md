@@ -1,28 +1,33 @@
-## 31 October 2024 - Moderate Impact Forex News
+## 01 November 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Sep) | 4.4% | 2.2% | -3.9% |
-| 00:30 | AUD | Retail Sales (MoM) (Sep) | 0.1% | 0.3% | 0.7% |
-| 01:30 | CNY | Chinese Composite PMI (Oct) | 50.8 |  | 50.4 |
-| 01:30 | CNY | Non-Manufacturing PMI (Oct) | 50.2 | 50.4 | 50.0 |
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:00 | EUR | German Retail Sales (MoM) (Sep) | 1.2% | -0.7% | 1.2% |
-| 07:45 | EUR | French CPI (MoM) (Oct) | 0.2% | 0.2% | -1.2% |
-| 07:45 | EUR | French HICP (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Oct) | 2.7% | 2.6% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (Oct) | 0.3% |  | -0.1% |
-| 10:00 | EUR | Unemployment Rate (Sep) | 6.3% | 6.4% | 6.3% |
-| 12:00 | BRL | Unemployment Rate (Sep) | 6.4% | 6.5% | 6.6% |
-| 12:30 | USD | Continuing Jobless Claims | 1,862K | 1,890K | 1,888K |
-| 12:30 | USD | Employment Cost Index (QoQ) (Q3) | 0.8% | 0.9% | 0.9% |
-| 12:30 | USD | PCE Price index (YoY) (Sep) | 2.1% | 2.1% | 2.3% |
-| 12:30 | USD | PCE price index (MoM) (Sep) | 0.2% | 0.2% | 0.1% |
-| 12:30 | USD | Personal Spending (MoM) (Sep) | 0.5% | 0.4% | 0.3% |
-| 12:30 | CAD | GDP (MoM) (Aug) | 0.0% | 0.0% | 0.1% |
-| 12:31 | CAD | GDP (MoM) (Sep) | 0.3% |  | 0.0% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) | 2.7% |  |  |
-| 20:30 | USD | Fed's Balance Sheet | 7,013B |  | 7,029B |
+| 1 min | AUD | Building Approvals (MoM) (Sep) |  | 1.9% | -6.1% |
+| 1 min | AUD | Home Loans (MoM) (Sep) |  |  | 0.7% |
+| 1 min | AUD | PPI (QoQ) (Q3) |  | 0.7% | 1.0% |
+| 1 min | AUD | PPI (YoY) (Q3) |  |  | 4.8% |
+| 01:45 | CNY | Caixin Manufacturing PMI (Oct) |  | 49.7 | 49.3 |
+| 07:00 | GBP | Nationwide HPI (YoY) (Oct) |  | 2.8% | 3.2% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Oct) |  | 0.3% | 0.7% |
+| 07:30 | CHF | CPI (MoM) (Oct) |  | 0.0% | -0.3% |
+| 08:30 | CHF | procure.ch PMI (Oct) |  | 49.5 | 49.9 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 50.3 | 51.5 |
+| 12:00 | BRL | Industrial Production (YoY) (Sep) |  | 2.8% | 2.2% |
+| 12:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
+| 12:30 | USD | Participation Rate (Oct) |  |  | 62.7% |
+| 12:30 | USD | Private Nonfarm Payrolls (Oct) |  | 115K | 223K |
+| 12:30 | USD | U6 Unemployment Rate (Oct) |  |  | 7.7% |
+| 14:00 | USD | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |
+| 14:00 | USD | ISM Manufacturing Employment (Oct) |  |  | 43.9 |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 19:30 | GBP | CFTC GBP speculative net positions |  |  | 74.6K |
+| 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 173.7K |
+| 19:30 | USD | CFTC Gold speculative net positions |  |  | 296.2K |
+| 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.7K |
+| 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | 23.0K |
+| 19:30 | AUD | CFTC AUD speculative net positions |  |  | 27.7K |
+| 19:30 | BRL | CFTC BRL speculative net positions |  |  | -2.8K |
+| 19:30 | JPY | CFTC JPY speculative net positions |  |  | 12.8K |
+| 19:30 | EUR | CFTC EUR speculative net positions |  |  | -28.5K |
