@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
-| 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
 | 00:30 | AUD | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
+| 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
 | 01:45 | CNY | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
@@ -18,8 +18,8 @@
 | 12:30 | USD | U6 Unemployment Rate (Oct) | 7.7% |  | 7.7% |
 | 14:00 | USD | Construction Spending (MoM) (Sep) | 0.1% | 0.0% | 0.1% |
 | 14:00 | USD | ISM Manufacturing Employment (Oct) | 44.4 | 45.0 | 43.9 |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 74.6K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 173.7K |
