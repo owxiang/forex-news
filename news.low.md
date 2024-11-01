@@ -12,7 +12,7 @@
 | 02:00 | IDR | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
 | 02:00 | IDR | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
-| 23 min | AUD | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
+| 05:30 | AUD | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
 | 07:30 | CHF | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
 | 07:30 | CHF | Retail Sales (YoY) |  | 2.5% | 3.2% |
 | 07:30 | CHF | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
