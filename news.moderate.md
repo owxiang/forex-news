@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
-| 00:30 | AUD | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
+| 00:30 | AUD | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 01:45 | CNY | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |

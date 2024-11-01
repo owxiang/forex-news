@@ -8,14 +8,14 @@
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) | 48.3 |  | 48.3 |
 | 00:30 | AUD | Moderate | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -1.0% |  | 1.8% |
-| 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
+| 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
 | 02:00 | IDR | Low | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
-| 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
+| 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
@@ -57,7 +57,7 @@
 | 14:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) | 47.1 | 47.0 | 46.1 |
 | 14:00 | USD | High | ISM Manufacturing PMI (Oct) | 46.5 | 47.6 | 47.2 |
 | 14:00 | USD | High | ISM Manufacturing Prices (Oct) | 54.8 | 49.9 | 48.3 |
-| 54 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
+| 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) | 48.40 |  | 47.30 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |

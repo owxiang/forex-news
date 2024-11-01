@@ -10,8 +10,8 @@
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 02:00 | IDR | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
-| 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 02:00 | IDR | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
+| 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
@@ -35,7 +35,7 @@
 | 13:00 | BRL | S&P Global Manufacturing PMI (Oct) | 52.9 |  | 53.2 |
 | 13:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) | 51.1 |  | 50.4 |
 | 14:00 | USD | ISM Manufacturing New Orders Index (Oct) | 47.1 | 47.0 | 46.1 |
-| 54 min | MXN | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
+| 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Oct) | 48.40 |  | 47.30 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.6K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 32.5K |
