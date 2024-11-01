@@ -5,13 +5,13 @@
 | 00:00 | KRW | Exports (YoY) (Oct) | 4.6% | 6.9% | 7.5% |
 | 00:00 | KRW | Imports (YoY) (Oct) | 1.7% | 2.0% | 2.2% |
 | 00:00 | KRW | Trade Balance (Oct) | 3.17B | 4.23B | 6.66B |
-| 1 min | KRW | S&P Global South Korea Manufacturing PMI (Oct) |  |  | 48.3 |
-| 1 min | AUD | Invest Housing Finance (MoM) |  |  | 1.4% |
-| 1 min | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 49.0 | 49.7 |
-| 1 min | IDR | Nikkei Manufacturing PMI (Oct) |  |  | 49.2 |
-| 04:00 | IDR | Core Inflation (YoY) (Oct) |  | 2.10% | 2.09% |
-| 04:00 | IDR | Inflation (MoM) (Oct) |  | 0.00% | -0.12% |
-| 04:00 | IDR | Inflation (YoY) (Oct) |  | 1.70% | 1.84% |
+| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Oct) | 48.3 |  | 48.3 |
+| 00:30 | AUD | Invest Housing Finance (MoM) | -1.0% |  | 1.8% |
+| 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
+| 00:30 | IDR | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
+| 26 min | IDR | Core Inflation (YoY) (Oct) |  | 2.10% | 2.09% |
+| 26 min | IDR | Inflation (MoM) (Oct) |  | 0.00% | -0.12% |
+| 26 min | IDR | Inflation (YoY) (Oct) |  | 1.70% | 1.84% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
 | 07:30 | CHF | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
