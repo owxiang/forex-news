@@ -14,8 +14,8 @@
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
 | 02:00 | IDR | Low | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
-| 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
+| 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
@@ -24,8 +24,8 @@
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) | -0.1% | 0.0% | -0.3% |
 | 08:30 | CHF | Moderate | procure.ch PMI (Oct) | 49.9 | 49.5 | 49.9 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
 | 09:00 | NOK | Low | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Low | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
@@ -35,10 +35,10 @@
 | 11:30 | INR | Low | FX Reserves, USD | 684.81B |  | 688.27B |
 | 12:00 | MXN | Low | Unemployment Rate (Sep) | 2.70% |  | 2.80% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) | 2.90% | 3.00% | 3.00% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 3.4% | 2.8% | 2.3% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Sep) | 1.1% | 0.9% | 0.2% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 47.92K |  | 44.00K |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 3.4% | 2.8% | 2.3% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | 5.50% |  | -4.10% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 47.92K |  | 44.00K |
 | 12:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) | 4.0% | 4.0% | 3.9% |
 | 12:30 | USD | High | Average Hourly Earnings (MoM) (Oct) | 0.4% | 0.3% | 0.3% |
 | 12:30 | USD | Low | Average Weekly Hours (Oct) | 34.3 | 34.2 | 34.3 |
