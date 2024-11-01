@@ -10,14 +10,14 @@
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 02:00 | IDR | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
-| 02:00 | IDR | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
+| 02:00 | IDR | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | NOK | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
@@ -36,14 +36,14 @@
 | 13:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) | 51.1 |  | 50.4 |
 | 14:00 | USD | ISM Manufacturing New Orders Index (Oct) | 47.1 | 47.0 | 46.1 |
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Oct) | 48.40 |  | 47.30 |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 2.6K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 32.5K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | 17.8K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -166.2K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 66.4K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -78.3K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -17.1K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -140.6K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 23.9K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -32.7K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -0.3K |
+| 19:30 | USD | CFTC Aluminium speculative net positions | 3.2K |  | 2.6K |
+| 19:30 | USD | CFTC Copper speculative net positions | 23.7K |  | 32.5K |
+| 19:30 | USD | CFTC Corn speculative net positions | 83.3K |  | 17.8K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions | -166.2K |  | -166.2K |
+| 19:30 | USD | CFTC Silver speculative net positions | 60.4K |  | 66.4K |
+| 19:30 | USD | CFTC Soybeans speculative net positions | -92.1K |  | -78.3K |
+| 19:30 | USD | CFTC Wheat speculative net positions | -22.9K |  | -17.1K |
+| 19:30 | CAD | CFTC CAD speculative net positions | -167.5K |  | -140.6K |
+| 19:30 | MXN | CFTC MXN speculative net positions | 35.0K |  | 23.9K |
+| 19:30 | CHF | CFTC CHF speculative net positions | -34.0K |  | -32.7K |
+| 19:30 | NZD | CFTC NZD speculative net positions | -2.2K |  | -0.3K |

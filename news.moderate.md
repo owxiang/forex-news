@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
-| 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
 | 00:30 | AUD | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
+| 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
 | 01:45 | CNY | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:30 | CHF | CPI (MoM) (Oct) | -0.1% | 0.0% | -0.3% |
 | 08:30 | CHF | procure.ch PMI (Oct) | 49.9 | 49.5 | 49.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 49.9 | 50.3 | 51.5 |
@@ -21,12 +21,12 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 2.3% | 2.7% | 2.7% |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 479 | 479 | 480 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 585 |
-| 24 min | GBP | CFTC GBP speculative net positions |  |  | 74.6K |
-| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 173.7K |
-| 24 min | USD | CFTC Gold speculative net positions |  |  | 296.2K |
-| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.7K |
-| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | 23.0K |
-| 24 min | AUD | CFTC AUD speculative net positions |  |  | 27.7K |
-| 24 min | BRL | CFTC BRL speculative net positions |  |  | -2.8K |
-| 24 min | JPY | CFTC JPY speculative net positions |  |  | 12.8K |
-| 24 min | EUR | CFTC EUR speculative net positions |  |  | -28.5K |
+| 19:30 | GBP | CFTC GBP speculative net positions | 66.4K |  | 74.6K |
+| 19:30 | USD | CFTC Crude Oil speculative net positions | 151.9K |  | 173.7K |
+| 19:30 | USD | CFTC Gold speculative net positions | 278.7K |  | 296.2K |
+| 19:30 | USD | CFTC Nasdaq 100 speculative net positions | 5.1K |  | 2.7K |
+| 19:30 | USD | CFTC S&P 500 speculative net positions | 62.7K |  | 23.0K |
+| 19:30 | AUD | CFTC AUD speculative net positions | 27.5K |  | 27.7K |
+| 19:30 | BRL | CFTC BRL speculative net positions | -4.3K |  | -2.8K |
+| 19:30 | JPY | CFTC JPY speculative net positions | -24.8K |  | 12.8K |
+| 19:30 | EUR | CFTC EUR speculative net positions | -50.3K |  | -28.5K |
