@@ -13,9 +13,9 @@
 | 02:00 | IDR | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
-| 07:30 | CHF | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
-| 07:30 | CHF | Retail Sales (YoY) |  | 2.5% | 3.2% |
-| 07:30 | CHF | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
+| 24 min | CHF | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
+| 24 min | CHF | Retail Sales (YoY) |  | 2.5% | 3.2% |
+| 24 min | CHF | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Sep) |  |  | -10.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) |  |  | 1.7% |
