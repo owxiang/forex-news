@@ -17,15 +17,15 @@
 | 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) | -0.1% | 0.0% | -0.3% |
 | 08:30 | CHF | Moderate | procure.ch PMI (Oct) | 49.9 | 49.5 | 49.9 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
 | 09:00 | NOK | Low | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Low | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
@@ -50,14 +50,14 @@
 | 12:30 | USD | Moderate | U6 Unemployment Rate (Oct) | 7.7% |  | 7.7% |
 | 12:30 | USD | High | Unemployment Rate (Oct) | 4.1% | 4.1% | 4.1% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) | 52.9 |  | 53.2 |
-| 21 min | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) |  |  | 50.4 |
-| 36 min | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.8 | 47.8 |
-| 51 min | USD | Moderate | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |
-| 51 min | USD | Moderate | ISM Manufacturing Employment (Oct) |  | 45.0 | 43.9 |
-| 50 min | USD | Low | ISM Manufacturing New Orders Index (Oct) |  | 47.0 | 46.1 |
-| 50 min | USD | High | ISM Manufacturing PMI (Oct) |  | 47.6 | 47.2 |
-| 50 min | USD | High | ISM Manufacturing Prices (Oct) |  | 49.9 | 48.3 |
-| 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
+| 13:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) | 51.1 |  | 50.4 |
+| 13:45 | USD | High | S&P Global US Manufacturing PMI (Oct) | 48.5 | 47.8 | 47.8 |
+| 14:00 | USD | Moderate | Construction Spending (MoM) (Sep) | 0.1% | 0.0% | 0.1% |
+| 14:00 | USD | Moderate | ISM Manufacturing Employment (Oct) | 44.4 | 45.0 | 43.9 |
+| 14:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) | 47.1 | 47.0 | 46.1 |
+| 14:00 | USD | High | ISM Manufacturing PMI (Oct) | 46.5 | 47.6 | 47.2 |
+| 14:00 | USD | High | ISM Manufacturing Prices (Oct) | 54.8 | 49.9 | 48.3 |
+| 54 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |

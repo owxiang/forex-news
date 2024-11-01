@@ -16,8 +16,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
 | 09:00 | NOK | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
@@ -33,9 +33,9 @@
 | 12:30 | USD | Government Payrolls (Oct) | 40.0K |  | 31.0K |
 | 12:30 | USD | Manufacturing Payrolls (Oct) | -46K | -28K | -6K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Oct) | 52.9 |  | 53.2 |
-| 21 min | CAD | S&P Global Canada Manufacturing PMI (Oct) |  |  | 50.4 |
-| 50 min | USD | ISM Manufacturing New Orders Index (Oct) |  | 47.0 | 46.1 |
-| 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
+| 13:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) | 51.1 |  | 50.4 |
+| 14:00 | USD | ISM Manufacturing New Orders Index (Oct) | 47.1 | 47.0 | 46.1 |
+| 54 min | MXN | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.6K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 32.5K |
