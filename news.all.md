@@ -8,8 +8,8 @@
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) | 48.3 |  | 48.3 |
 | 00:30 | AUD | Moderate | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -1.0% |  | 1.8% |
-| 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
+| 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
@@ -22,12 +22,14 @@
 | 07:30 | CHF | Low | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) | -0.1% | 0.0% | -0.3% |
-| 22 min | CHF | Moderate | procure.ch PMI (Oct) |  | 49.5 | 49.9 |
-| 22 min | HKD | Low | Retail Sales (YoY) (Sep) |  |  | -10.1% |
-| 52 min | NOK | Low | Manufacturing PMI (Oct) |  |  | 51.8 |
-| 52 min | NOK | Low | Unemployment Change (Oct) |  |  | 77.26K |
-| 52 min | NOK | Low | Unemployment Rate n.s.a. (Oct) |  | 2.10% | 2.00% |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 50.3 | 51.5 |
+| 08:30 | CHF | Moderate | procure.ch PMI (Oct) | 49.9 | 49.5 | 49.9 |
+| 08:30 | HKD | Low | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
+| 09:00 | NOK | Low | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
+| 09:00 | NOK | Low | Unemployment Change (Oct) | 77.25K |  | 77.26K |
+| 09:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
+| 23 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 50.3 | 51.5 |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 12.8% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 11.8% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 688.27B |
@@ -35,8 +37,8 @@
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 2.8% | 2.2% |
-| 12:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
 | 12:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
 | 12:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
 | 12:30 | USD | Low | Government Payrolls (Oct) |  |  | 31.0K |
 | 12:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -28K | -7K |
