@@ -3,21 +3,21 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
-| 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
 | 00:30 | AUD | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
+| 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
 | 01:45 | CNY | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Oct) | 2.4% | 2.8% | 3.2% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.1% | 0.3% | 0.6% |
 | 07:30 | CHF | CPI (MoM) (Oct) | -0.1% | 0.0% | -0.3% |
 | 08:30 | CHF | procure.ch PMI (Oct) | 49.9 | 49.5 | 49.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 49.9 | 50.3 | 51.5 |
-| 12:00 | BRL | Industrial Production (YoY) (Sep) | 3.4% | 2.8% | 2.2% |
-| 20 min | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
-| 20 min | USD | Participation Rate (Oct) |  |  | 62.7% |
-| 20 min | USD | Private Nonfarm Payrolls (Oct) |  | 90K | 223K |
-| 20 min | USD | U6 Unemployment Rate (Oct) |  |  | 7.7% |
-| 14:00 | USD | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |
-| 14:00 | USD | ISM Manufacturing Employment (Oct) |  |  | 43.9 |
+| 12:00 | BRL | Industrial Production (YoY) (Sep) | 3.4% | 2.8% | 2.3% |
+| 12:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) | 4.0% | 4.0% | 3.9% |
+| 12:30 | USD | Participation Rate (Oct) | 62.6% | 62.7% | 62.7% |
+| 12:30 | USD | Private Nonfarm Payrolls (Oct) | -28K | 90K | 192K |
+| 12:30 | USD | U6 Unemployment Rate (Oct) | 7.7% |  | 7.7% |
+| 51 min | USD | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |
+| 51 min | USD | ISM Manufacturing Employment (Oct) |  | 45.0 | 43.9 |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
