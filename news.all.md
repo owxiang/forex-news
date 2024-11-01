@@ -30,26 +30,27 @@
 | 09:00 | NOK | Low | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) | 49.9 | 50.3 | 51.5 |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 12.8% |
-| 24 min | INR | Low | Deposit Growth |  |  | 11.8% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 688.27B |
-| 54 min | MXN | Low | Unemployment Rate (Sep) |  |  | 2.80% |
-| 54 min | MXN | Low | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
-| 54 min | BRL | Low | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 2.8% | 2.2% |
-| 12:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
-| 12:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.4% |
-| 12:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
-| 12:30 | USD | Low | Government Payrolls (Oct) |  |  | 31.0K |
-| 12:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -28K | -7K |
-| 12:30 | USD | High | Nonfarm Payrolls (Oct) |  | 106K | 254K |
-| 12:30 | USD | Moderate | Participation Rate (Oct) |  |  | 62.7% |
-| 12:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 90K | 223K |
-| 12:30 | USD | Moderate | U6 Unemployment Rate (Oct) |  |  | 7.7% |
-| 12:30 | USD | High | Unemployment Rate (Oct) |  | 4.1% | 4.1% |
-| 12:30 | ZAR | Low | Total Vehicle Sales (Oct) |  |  | 44.08K |
-| 13:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.50% |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 53.2 |
+| 11:30 | INR | Low | Bank Loan Growth | 11.5% |  | 12.8% |
+| 11:30 | INR | Low | Deposit Growth | 11.7% |  | 11.8% |
+| 11:30 | INR | Low | FX Reserves, USD | 684.81B |  | 688.27B |
+| 12:00 | MXN | Low | Unemployment Rate (Sep) | 2.70% |  | 2.80% |
+| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) | 2.90% | 3.00% | 3.00% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Sep) | 1.1% | 0.9% | 0.1% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 3.4% | 2.8% | 2.2% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Oct) | 47.94K |  | 44.08K |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | 5.50% |  | -4.10% |
+| 20 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
+| 20 min | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.4% |
+| 20 min | USD | Low | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
+| 20 min | USD | Low | Government Payrolls (Oct) |  |  | 31.0K |
+| 20 min | USD | Low | Manufacturing Payrolls (Oct) |  | -28K | -7K |
+| 20 min | USD | High | Nonfarm Payrolls (Oct) |  | 106K | 254K |
+| 20 min | USD | Moderate | Participation Rate (Oct) |  |  | 62.7% |
+| 20 min | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 90K | 223K |
+| 20 min | USD | Moderate | U6 Unemployment Rate (Oct) |  |  | 7.7% |
+| 20 min | USD | High | Unemployment Rate (Oct) |  | 4.1% | 4.1% |
+| 50 min | USD | Low | Dallas Fed PCE (Sep) |  |  | 1.50% |
+| 50 min | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 53.2 |
 | 13:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) |  |  | 50.4 |
 | 13:45 | USD | High | S&P Global US Manufacturing PMI (Oct) |  | 47.8 | 47.8 |
 | 14:00 | USD | Moderate | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |

@@ -21,18 +21,19 @@
 | 09:00 | NOK | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
-| 24 min | INR | Bank Loan Growth |  |  | 12.8% |
-| 24 min | INR | Deposit Growth |  |  | 11.8% |
-| 24 min | INR | FX Reserves, USD |  |  | 688.27B |
-| 54 min | MXN | Unemployment Rate (Sep) |  |  | 2.80% |
-| 54 min | MXN | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
-| 54 min | BRL | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
-| 12:30 | USD | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
-| 12:30 | USD | Government Payrolls (Oct) |  |  | 31.0K |
-| 12:30 | USD | Manufacturing Payrolls (Oct) |  | -28K | -7K |
-| 12:30 | ZAR | Total Vehicle Sales (Oct) |  |  | 44.08K |
-| 13:00 | USD | Dallas Fed PCE (Sep) |  |  | 1.50% |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 53.2 |
+| 11:30 | INR | Bank Loan Growth | 11.5% |  | 12.8% |
+| 11:30 | INR | Deposit Growth | 11.7% |  | 11.8% |
+| 11:30 | INR | FX Reserves, USD | 684.81B |  | 688.27B |
+| 12:00 | MXN | Unemployment Rate (Sep) | 2.70% |  | 2.80% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Sep) | 2.90% | 3.00% | 3.00% |
+| 12:00 | BRL | Industrial Production (MoM) (Sep) | 1.1% | 0.9% | 0.1% |
+| 12:00 | ZAR | Total Vehicle Sales (Oct) | 47.94K |  | 44.08K |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Oct) | 5.50% |  | -4.10% |
+| 20 min | USD | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
+| 20 min | USD | Government Payrolls (Oct) |  |  | 31.0K |
+| 20 min | USD | Manufacturing Payrolls (Oct) |  | -28K | -7K |
+| 50 min | USD | Dallas Fed PCE (Sep) |  |  | 1.50% |
+| 50 min | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 53.2 |
 | 13:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) |  |  | 50.4 |
 | 14:00 | USD | ISM Manufacturing New Orders Index (Oct) |  |  | 46.1 |
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |

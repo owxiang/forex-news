@@ -11,11 +11,11 @@
 | 07:30 | CHF | CPI (MoM) (Oct) | -0.1% | 0.0% | -0.3% |
 | 08:30 | CHF | procure.ch PMI (Oct) | 49.9 | 49.5 | 49.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 49.9 | 50.3 | 51.5 |
-| 54 min | BRL | Industrial Production (YoY) (Sep) |  | 2.8% | 2.2% |
-| 12:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
-| 12:30 | USD | Participation Rate (Oct) |  |  | 62.7% |
-| 12:30 | USD | Private Nonfarm Payrolls (Oct) |  | 90K | 223K |
-| 12:30 | USD | U6 Unemployment Rate (Oct) |  |  | 7.7% |
+| 12:00 | BRL | Industrial Production (YoY) (Sep) | 3.4% | 2.8% | 2.2% |
+| 20 min | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
+| 20 min | USD | Participation Rate (Oct) |  |  | 62.7% |
+| 20 min | USD | Private Nonfarm Payrolls (Oct) |  | 90K | 223K |
+| 20 min | USD | U6 Unemployment Rate (Oct) |  |  | 7.7% |
 | 14:00 | USD | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |
 | 14:00 | USD | ISM Manufacturing Employment (Oct) |  |  | 43.9 |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
