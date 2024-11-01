@@ -9,26 +9,26 @@
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 4.4% | 1.9% | -3.9% |
 | 00:30 | AUD | Moderate | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -1.0% |  | 1.8% |
-| 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
+| 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
-| 11 min | CNY | Moderate | Caixin Manufacturing PMI (Oct) |  | 49.7 | 49.3 |
-| 26 min | IDR | Low | Core Inflation (YoY) (Oct) |  | 2.10% | 2.09% |
-| 26 min | IDR | Low | Inflation (MoM) (Oct) |  | 0.00% | -0.12% |
-| 26 min | IDR | Low | Inflation (YoY) (Oct) |  | 1.70% | 1.84% |
+| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
+| 02:00 | IDR | Low | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
+| 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
+| 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | 0.3% | 0.7% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  | 2.8% | 3.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | 0.3% | 0.7% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) |  | 2.5% | 3.2% |
-| 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.0% | -0.3% |
+| 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
 | 08:30 | CHF | Moderate | procure.ch PMI (Oct) |  | 49.5 | 49.9 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Sep) |  |  | -10.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) |  |  | 1.7% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
 | 09:00 | NOK | Low | Manufacturing PMI (Oct) |  |  | 51.8 |
 | 09:00 | NOK | Low | Unemployment Change (Oct) |  |  | 77.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) |  | 2.10% | 2.00% |
@@ -40,8 +40,8 @@
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 2.8% | 2.2% |
-| 12:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
+| 12:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.4% |
 | 12:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
 | 12:30 | USD | Low | Government Payrolls (Oct) |  |  | 31.0K |
 | 12:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -3K | -7K |
