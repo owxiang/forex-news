@@ -10,23 +10,23 @@
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 02:00 | IDR | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
-| 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 02:00 | IDR | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
+| 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 05:30 | AUD | Commodity Prices (YoY) (Oct) | -7.8% |  | -10.8% |
 | 07:30 | CHF | Retail Sales (YoY) (Sep) | 2.2% | 2.5% | 2.7% |
 | 07:30 | CHF | CPI (YoY) (Oct) | 0.6% | 0.8% | 0.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Sep) | -6.9% |  | -10.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Oct) | 1.8% |  | 1.7% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | -0.2% |
 | 09:00 | NOK | Manufacturing PMI (Oct) | 52.4 |  | 51.7 |
 | 09:00 | NOK | Unemployment Change (Oct) | 77.25K |  | 77.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Oct) | 1.90% | 2.10% | 2.00% |
-| 11:30 | INR | Bank Loan Growth |  |  | 12.8% |
-| 11:30 | INR | Deposit Growth |  |  | 11.8% |
-| 11:30 | INR | FX Reserves, USD |  |  | 688.27B |
-| 12:00 | MXN | Unemployment Rate (Sep) |  |  | 2.80% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
-| 12:00 | BRL | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
+| 24 min | INR | Bank Loan Growth |  |  | 12.8% |
+| 24 min | INR | Deposit Growth |  |  | 11.8% |
+| 24 min | INR | FX Reserves, USD |  |  | 688.27B |
+| 54 min | MXN | Unemployment Rate (Sep) |  |  | 2.80% |
+| 54 min | MXN | Unemployment Rate n.s.a. (Sep) |  | 3.00% | 3.00% |
+| 54 min | BRL | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
 | 12:30 | USD | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
 | 12:30 | USD | Government Payrolls (Oct) |  |  | 31.0K |
 | 12:30 | USD | Manufacturing Payrolls (Oct) |  | -28K | -7K |
