@@ -6,7 +6,6 @@
 | 00:00 | KRW | Low | Imports (YoY) (Oct) | 1.7% | 2.0% | 2.2% |
 | 00:00 | KRW | Low | Trade Balance (Oct) | 3.17B | 4.23B | 6.66B |
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) | 48.3 |  | 48.3 |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | 4.4% | 1.9% | -3.9% |
 | 00:30 | AUD | Moderate | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -1.0% |  | 1.8% |
 | 00:30 | AUD | Moderate | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
@@ -15,16 +14,15 @@
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 50.3 | 49.7 | 49.3 |
 | 02:00 | IDR | Low | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
-| 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
-| 52 min | INR | Low | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
-| 05:30 | AUD | Low | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
+| 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
+| 23 min | AUD | Low | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | 0.3% | 0.7% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  | 2.8% | 3.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) |  | 2.5% | 3.2% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.0% | -0.3% |
 | 07:30 | CHF | Low | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.0% | -0.3% |
 | 08:30 | CHF | Moderate | procure.ch PMI (Oct) |  | 49.5 | 49.9 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Sep) |  |  | -10.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) |  |  | 0.0% |
@@ -44,10 +42,10 @@
 | 12:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
 | 12:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
 | 12:30 | USD | Low | Government Payrolls (Oct) |  |  | 31.0K |
-| 12:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -3K | -7K |
-| 12:30 | USD | High | Nonfarm Payrolls (Oct) |  | 108K | 254K |
+| 12:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -28K | -7K |
+| 12:30 | USD | High | Nonfarm Payrolls (Oct) |  | 106K | 254K |
 | 12:30 | USD | Moderate | Participation Rate (Oct) |  |  | 62.7% |
-| 12:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 115K | 223K |
+| 12:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 90K | 223K |
 | 12:30 | USD | Moderate | U6 Unemployment Rate (Oct) |  |  | 7.7% |
 | 12:30 | USD | High | Unemployment Rate (Oct) |  | 4.1% | 4.1% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Oct) |  |  | 44.08K |
@@ -59,9 +57,9 @@
 | 14:00 | USD | Moderate | ISM Manufacturing Employment (Oct) |  |  | 43.9 |
 | 14:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) |  |  | 46.1 |
 | 14:00 | USD | High | ISM Manufacturing PMI (Oct) |  | 47.6 | 47.2 |
-| 14:00 | USD | High | ISM Manufacturing Prices (Oct) |  | 48.9 | 48.3 |
+| 14:00 | USD | High | ISM Manufacturing Prices (Oct) |  | 49.9 | 48.3 |
 | 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 47.30 |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |

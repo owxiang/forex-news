@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Sep) | 4.4% | 1.9% | -3.9% |
 | 00:30 | AUD | Home Loans (MoM) (Sep) | 0.1% |  | 2.4% |
 | 00:30 | AUD | PPI (QoQ) (Q3) | 0.9% | 0.7% | 1.0% |
 | 00:30 | AUD | PPI (YoY) (Q3) | 3.9% |  | 4.8% |
@@ -15,11 +14,11 @@
 | 12:00 | BRL | Industrial Production (YoY) (Sep) |  | 2.8% | 2.2% |
 | 12:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.0% |
 | 12:30 | USD | Participation Rate (Oct) |  |  | 62.7% |
-| 12:30 | USD | Private Nonfarm Payrolls (Oct) |  | 115K | 223K |
+| 12:30 | USD | Private Nonfarm Payrolls (Oct) |  | 90K | 223K |
 | 12:30 | USD | U6 Unemployment Rate (Oct) |  |  | 7.7% |
 | 14:00 | USD | Construction Spending (MoM) (Sep) |  | 0.0% | -0.1% |
 | 14:00 | USD | ISM Manufacturing Employment (Oct) |  |  | 43.9 |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 479 | 480 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 74.6K |

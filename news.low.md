@@ -10,10 +10,9 @@
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 49.2 | 49.0 | 49.7 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Oct) | 49.2 |  | 49.2 |
 | 02:00 | IDR | Core Inflation (YoY) (Oct) | 2.21% | 2.10% | 2.09% |
-| 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
 | 02:00 | IDR | Inflation (YoY) (Oct) | 1.71% | 1.70% | 1.84% |
-| 52 min | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
-| 05:30 | AUD | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
+| 02:00 | IDR | Inflation (MoM) (Oct) | 0.08% | 0.00% | -0.12% |
+| 23 min | AUD | Commodity Prices (YoY) (Oct) |  |  | -10.1% |
 | 07:30 | CHF | Retail Sales (YoY) (Sep) |  | 2.5% | 3.2% |
 | 07:30 | CHF | Retail Sales (YoY) |  | 2.5% | 3.2% |
 | 07:30 | CHF | CPI (YoY) (Oct) |  | 0.8% | 0.8% |
@@ -31,7 +30,7 @@
 | 12:00 | BRL | Industrial Production (MoM) (Sep) |  | 0.9% | 0.1% |
 | 12:30 | USD | Average Weekly Hours (Oct) |  | 34.2 | 34.2 |
 | 12:30 | USD | Government Payrolls (Oct) |  |  | 31.0K |
-| 12:30 | USD | Manufacturing Payrolls (Oct) |  | -3K | -7K |
+| 12:30 | USD | Manufacturing Payrolls (Oct) |  | -28K | -7K |
 | 12:30 | ZAR | Total Vehicle Sales (Oct) |  |  | 44.08K |
 | 13:00 | USD | Dallas Fed PCE (Sep) |  |  | 1.50% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 53.2 |
