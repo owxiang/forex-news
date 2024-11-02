@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 51 min | SGD | S&P Global Singapore PMI (Oct) |  |  | 51.0 |
+| 13:00 | SGD | S&P Global Singapore PMI (Oct) | 50.8 |  | 51.0 |
