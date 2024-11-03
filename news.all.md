@@ -18,8 +18,8 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 12:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 12:30 | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |
