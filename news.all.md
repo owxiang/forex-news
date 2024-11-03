@@ -45,6 +45,6 @@
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
-| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
+| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | 0.1% |

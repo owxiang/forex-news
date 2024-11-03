@@ -29,6 +29,6 @@
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
-| 23:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:00 | KRW | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
-| 23:50 | JPY | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
+| 23:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 23:50 | JPY | Monetary Base (YoY) (Oct) |  | 0.3% | 0.1% |
