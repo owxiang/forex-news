@@ -18,8 +18,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 12:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 12:30 | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |
@@ -45,6 +45,6 @@
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
 | 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
