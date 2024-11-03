@@ -7,8 +7,8 @@
 | 05:00 | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
 | 10:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 39.80% |
+| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
