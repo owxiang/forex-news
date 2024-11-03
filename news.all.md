@@ -15,8 +15,8 @@
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 39.80% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
