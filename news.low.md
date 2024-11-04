@@ -9,14 +9,13 @@
 | 11:00 | EUR | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:00 | EUR | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
-| 20 min | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
-| 20 min | BRL | Budget Balance (Sep) |  | -66.800B | -90.381B |
-| 20 min | BRL | Budget Surplus (Sep) |  |  | -21.425B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.531% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.055% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.778% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
+| 49 min | USD | All Car Sales (Oct) | 3.05M |  | 3.01M |
+| 49 min | USD | All Truck Sales (Oct) | 12.99M |  | 12.77M |
+| 49 min | EUR | French 12-Month BTF Auction |  |  | 2.531% |
+| 49 min | EUR | French 3-Month BTF Auction |  |  | 3.055% |
+| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.778% |
 | 15:00 | USD | CB Employment Trends Index (Oct) |  |  | 108.48 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  | -1.1% | -1.1% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
