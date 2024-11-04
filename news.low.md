@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) | 0.3% |  | 2.3% |
-| 52 min | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
+| 05:00 | INR | HSBC India Manufacturing PMI (Oct) | 57.5 | 57.4 | 56.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
 | 10:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 39.80% |
+| 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
@@ -29,6 +29,6 @@
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
-| 23:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:00 | KRW | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
+| 23:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:50 | JPY | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
