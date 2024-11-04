@@ -6,11 +6,11 @@
 | 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) | 0.3% |  | 2.3% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Oct) | 57.5 | 57.4 | 56.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Nov) | -12.8 | -12.7 | -13.8 |
-| 11:00 | EUR | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
 | 11:00 | EUR | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
+| 11:00 | EUR | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 14:00 | USD | All Car Sales (Oct) | 3.05M |  | 2.98M |
 | 14:00 | USD | All Truck Sales (Oct) | 12.99M |  | 12.78M |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.647% |  | 2.531% |
@@ -24,7 +24,7 @@
 | 16:30 | USD | 3-Month Bill Auction | 4.440% |  | 4.490% |
 | 16:30 | USD | 6-Month Bill Auction | 4.260% |  | 4.325% |
 | 21:00 | KRW | FX Reserves - USD (Oct) | 415.70B |  | 419.97B |
-| 54 min | AUD | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
-| 23:00 | KRW | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
-| 23:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 22:00 | AUD | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
+| 55 min | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 55 min | KRW | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
 | 23:50 | JPY | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |

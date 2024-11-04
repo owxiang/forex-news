@@ -16,4 +16,4 @@
 | 16:45 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.152% |  | 3.878% |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
-| 54 min | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 22:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
