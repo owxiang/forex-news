@@ -14,6 +14,6 @@
 | 15:00 | USD | Factory Orders (MoM) (Sep) | -0.5% | -0.4% | -0.8% |
 | 15:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 16:45 | EUR | German Buba Balz Speaks |  |  |  |
-| 55 min | USD | 3-Year Note Auction |  |  | 3.878% |
+| 18:00 | USD | 3-Year Note Auction | 4.152% |  | 3.878% |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 22:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
