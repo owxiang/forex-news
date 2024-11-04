@@ -14,11 +14,11 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Nov) | -12.8 | -12.7 | -13.8 |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:00 | USD | Low | All Car Sales (Oct) | 3.05M |  | 2.98M |
 | 14:00 | USD | Low | All Truck Sales (Oct) | 12.99M |  | 12.78M |
@@ -30,17 +30,17 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) | 0.5% |  | 0.4% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) | -0.5% | -0.4% | -0.8% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) | 0.1% |  | -0.2% |
-| 8 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 38 min | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.490% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.325% |
-| 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 15:00 | USD | Low | Total Vehicle Sales (Oct) | 16.20M | 15.60M | 15.80M |
+| 15:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.490% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.325% |
+| 38 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 53 min | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.878% |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
+| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
