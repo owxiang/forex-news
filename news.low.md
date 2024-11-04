@@ -11,16 +11,16 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
-| 49 min | USD | All Car Sales (Oct) | 3.05M |  | 3.01M |
-| 49 min | USD | All Truck Sales (Oct) | 12.99M |  | 12.77M |
-| 49 min | EUR | French 12-Month BTF Auction |  |  | 2.531% |
-| 49 min | EUR | French 3-Month BTF Auction |  |  | 3.055% |
-| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.778% |
-| 15:00 | USD | CB Employment Trends Index (Oct) |  |  | 108.48 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Sep) |  | -1.1% | -1.1% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | -0.1% |
-| 15:00 | USD | Total Vehicle Sales (Oct) |  | 15.60M | 15.80M |
+| 14:00 | USD | All Car Sales (Oct) | 3.05M |  | 2.98M |
+| 14:00 | USD | All Truck Sales (Oct) | 12.99M |  | 12.78M |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.531% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.055% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.778% |
+| 54 min | USD | CB Employment Trends Index (Oct) |  |  | 108.48 |
+| 54 min | USD | Durables Excluding Defense (MoM) (Sep) |  | -1.1% | -1.1% |
+| 54 min | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
+| 54 min | USD | Factory orders ex transportation (MoM) (Sep) |  |  | -0.1% |
+| 54 min | USD | Total Vehicle Sales (Oct) |  | 15.60M | 15.80M |
 | 15:45 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.490% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.325% |

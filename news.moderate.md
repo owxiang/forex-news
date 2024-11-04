@@ -10,8 +10,8 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 46.0 | 45.9 | 45.0 |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 19 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 15:00 | USD | Factory Orders (MoM) (Sep) |  | -0.4% | -0.2% |
+| 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 54 min | USD | Factory Orders (MoM) (Sep) |  | -0.4% | -0.2% |
 | 15:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 16:45 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.878% |
