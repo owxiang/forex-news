@@ -17,8 +17,8 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:00 | USD | Low | All Car Sales (Oct) | 3.05M |  | 2.98M |
 | 14:00 | USD | Low | All Truck Sales (Oct) | 12.99M |  | 12.78M |
@@ -48,10 +48,10 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.260% |  | 4.325% |
 | 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.152% |  | 3.878% |
-| 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 54 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
+| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
