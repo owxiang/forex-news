@@ -8,8 +8,8 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Oct) | 44.5 | 44.5 | 44.6 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Oct) | 43.0 | 42.6 | 40.6 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 46.0 | 45.9 | 45.0 |
-| 53 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 78.9% | 78.5% |
 | 13:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Sep) |  | -0.4% | -0.2% |
