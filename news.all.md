@@ -14,8 +14,8 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Nov) | -12.8 | -12.7 | -13.8 |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
@@ -38,8 +38,8 @@
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.152% |  | 3.878% |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) | 415.70B |  | 419.97B |
-| 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
+| 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) | 51.0 | 50.6 | 50.5 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 55 min | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
-| 55 min | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
-| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
+| 23:00 | KRW | Low | CPI (MoM) (Oct) | 0.0% | 0.2% | 0.1% |
+| 23:00 | KRW | Low | CPI (YoY) (Oct) | 1.3% | 1.4% | 1.6% |
+| 44 min | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
