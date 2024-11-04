@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) |  |  | 1.6% |
+| 00:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
+| 3 min | AUD | ANZ Job Advertisements (MoM) (Oct) |  |  | 1.6% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
 | 10:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 6.30% |
+| 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |

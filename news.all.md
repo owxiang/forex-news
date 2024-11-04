@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
-| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Oct) |  |  | 1.6% |
+| 00:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
+| 3 min | AUD | Low | ANZ Job Advertisements (MoM) (Oct) |  |  | 1.6% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.18% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 53.1 | 53.0 |
@@ -15,8 +15,8 @@
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 6.30% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
