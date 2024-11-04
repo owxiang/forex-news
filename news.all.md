@@ -14,16 +14,15 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Nov) | -12.8 | -12.7 | -13.8 |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 39.80% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 6.30% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
-| 12:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
-| 12:30 | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 78.9% | 78.5% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
+| 20 min | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
+| 20 min | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
+| 20 min | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |
+| 20 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 78.9% | 78.5% |
 | 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.531% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.055% |
