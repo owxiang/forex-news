@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Oct) | 0.3% |  | 2.3% |
-| 05:00 | INR | Low | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
+| 52 min | INR | Low | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.18% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 53.1 | 53.0 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 48.8 | 48.3 |
@@ -35,9 +35,9 @@
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | -0.1% |
 | 15:00 | USD | Low | Total Vehicle Sales (Oct) |  | 15.60M | 15.80M |
 | 15:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.490% |
-| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.325% |
 | 15:45 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.490% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.325% |
 | 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.878% |
@@ -47,4 +47,4 @@
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
-| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | 0.1% |
+| 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |

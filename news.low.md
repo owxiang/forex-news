@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) | 0.3% |  | 2.3% |
-| 05:00 | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
+| 52 min | INR | HSBC India Manufacturing PMI (Oct) |  | 57.4 | 56.5 |
 | 09:30 | EUR | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
 | 10:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 6.30% |
@@ -23,12 +23,12 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | -0.1% |
 | 15:00 | USD | Total Vehicle Sales (Oct) |  | 15.60M | 15.80M |
-| 15:30 | USD | 3-Month Bill Auction |  |  | 4.490% |
-| 15:30 | USD | 6-Month Bill Auction |  |  | 4.325% |
 | 15:45 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 4.490% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 4.325% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 21:00 | KRW | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
 | 23:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:00 | KRW | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
-| 23:50 | JPY | Monetary Base (YoY) (Oct) |  | 0.3% | 0.1% |
+| 23:50 | JPY | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
