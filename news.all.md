@@ -6,20 +6,20 @@
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Oct) | 0.3% |  | 2.3% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Oct) | 57.5 | 57.4 | 56.5 |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) | 0.80% |  | 0.18% |
-| 6 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 53.1 | 53.0 |
-| 36 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 48.8 | 48.3 |
-| 41 min | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.5 | 44.6 |
-| 46 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 42.6 | 40.6 |
-| 51 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 45.9 | 45.0 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
-| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) | 54.5 | 53.1 | 53.0 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) | 46.9 | 48.8 | 48.3 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 44.5 | 44.5 | 44.6 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 43.0 | 42.6 | 40.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 46.0 | 45.9 | 45.0 |
+| 23 min | EUR | Low | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
+| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 53 min | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
+| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 12:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 12:30 | BRL | Low | Budget Surplus (Sep) |  |  | -21.425B |

@@ -5,13 +5,13 @@
 | 00:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) | 0.3% |  | 2.3% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Oct) | 57.5 | 57.4 | 56.5 |
-| 09:30 | EUR | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
-| 10:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
+| 23 min | EUR | Sentix Investor Confidence (Nov) |  | -12.7 | -13.8 |
+| 53 min | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 11:00 | EUR | Car Registration (YoY) (Oct) |  |  | 6.30% |
 | 11:00 | EUR | Car Registration (MoM) (Oct) |  |  | 39.80% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 1.80% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 6.40% |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 12:30 | BRL | Budget Balance (Sep) |  | -66.800B | -90.381B |
 | 12:30 | BRL | Budget Surplus (Sep) |  |  | -21.425B |
