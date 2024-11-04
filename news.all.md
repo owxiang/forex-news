@@ -22,17 +22,16 @@
 | 13:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 14:00 | USD | Low | All Car Sales (Oct) | 3.05M |  | 2.98M |
 | 14:00 | USD | Low | All Truck Sales (Oct) | 12.99M |  | 12.78M |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.531% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.055% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.778% |
-| 54 min | USD | Low | CB Employment Trends Index (Oct) |  |  | 108.48 |
-| 54 min | USD | Low | Durables Excluding Defense (MoM) (Sep) |  | -1.1% | -1.1% |
-| 54 min | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
-| 54 min | USD | Moderate | Factory Orders (MoM) (Sep) |  | -0.4% | -0.2% |
-| 54 min | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | -0.1% |
-| 54 min | USD | Low | Total Vehicle Sales (Oct) |  | 15.60M | 15.80M |
-| 15:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:45 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.647% |  | 2.531% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.085% |  | 3.055% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.892% |  | 2.778% |
+| 15:00 | USD | Low | CB Employment Trends Index (Oct) | 107.66 |  | 107.58 |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) | 0.5% |  | 0.4% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Sep) | -0.5% | -0.4% | -0.8% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) | 0.1% |  | -0.2% |
+| 8 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 38 min | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.490% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.325% |
 | 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -42,6 +41,6 @@
 | 21:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 419.97B |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
 | 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
 | 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
