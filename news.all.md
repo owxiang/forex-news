@@ -14,8 +14,8 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Nov) | -12.8 | -12.7 | -13.8 |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
@@ -32,26 +32,14 @@
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) | 0.1% |  | -0.2% |
 | 15:00 | USD | Low | Total Vehicle Sales (Oct) | 16.20M | 15.60M | 15.80M |
 | 15:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 16:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.90M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
-| 16:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.20M |  | 3.30M |
-| 16:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.98M |  | 4.10M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.40M |  | 2.41M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.05M |  | 0.65M |
-| 16:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.48M |  | 1.50M |
-| 16:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M |  | 8.98M |
-| 16:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M |  | 2.93M |
-| 16:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.82M |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.440% |  | 4.490% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.260% |  | 4.325% |
 | 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.152% |  | 3.878% |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 54 min | KRW | Low | FX Reserves - USD (Oct) |  |  | 419.97B |
-| 22:00 | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
-| 22:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
+| 21:00 | KRW | Low | FX Reserves - USD (Oct) | 415.70B |  | 419.97B |
+| 54 min | AUD | Low | Judo Bank Australia Services PMI (Oct) |  | 50.6 | 50.5 |
+| 54 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 23:00 | KRW | Low | CPI (YoY) (Oct) |  | 1.4% | 1.6% |
+| 23:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.1% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
