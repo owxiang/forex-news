@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.18% |
+| 54 min | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.18% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Oct) |  | 53.1 | 53.0 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Oct) |  | 48.8 | 48.3 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Oct) |  | 44.5 | 44.6 |
