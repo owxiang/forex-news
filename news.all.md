@@ -61,4 +61,5 @@
 | 21:45 | NZD | Low | Unemployment Rate (Q3) | 4.8% | 5.0% | 4.6% |
 | 22:00 | AUD | Low | AIG Construction Index (Oct) | -40.9 |  | -19.8 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Oct) | -19.7 |  | -33.6 |
-| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 23:00 | JPY | Low | Reuters Tankan Index (Nov) | 5 |  | 7 |
+| 44 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

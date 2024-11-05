@@ -36,3 +36,4 @@
 | 21:45 | NZD | Unemployment Rate (Q3) | 4.8% | 5.0% | 4.6% |
 | 22:00 | AUD | AIG Construction Index (Oct) | -40.9 |  | -19.8 |
 | 22:00 | AUD | AIG Manufacturing Index (Oct) | -19.7 |  | -33.6 |
+| 23:00 | JPY | Reuters Tankan Index (Nov) | 5 |  | 7 |

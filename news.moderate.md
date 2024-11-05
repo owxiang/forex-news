@@ -21,4 +21,4 @@
 | 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock | 3.132M | 1.800M | -0.573M |
-| 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 44 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
