@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.4% |  | 1.8% |
 | 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
-| 52 min | SGD | Retail Sales (MoM) (Sep) |  |  | 0.7% |
-| 52 min | SGD | Retail Sales (YoY) (Sep) |  |  | 0.6% |
-| 52 min | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
-| 52 min | IDR | GDP (YoY) (Q3) |  | 5.00% | 5.05% |
+| 04:00 | IDR | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
+| 04:00 | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
+| 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
+| 05:00 | SGD | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
 | 07:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
@@ -29,7 +29,6 @@
 | 14:00 | USD | Milk Auctions |  |  | 3,852.0 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
-| 15:45 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |

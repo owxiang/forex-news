@@ -9,10 +9,10 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.35% |
 | 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 52 min | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 0.7% |
-| 52 min | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 0.6% |
-| 52 min | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
-| 52 min | IDR | Low | GDP (YoY) (Q3) |  | 5.00% | 5.05% |
+| 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
+| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
@@ -50,7 +50,6 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 53.8 | 54.9 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) |  |  | 59.4 |
-| 15:45 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.066% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
