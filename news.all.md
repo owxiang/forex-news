@@ -6,11 +6,11 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 0.3% | 1.4% | 1.7% |
 | 00:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Oct) | 52.0 | 50.5 | 50.3 |
-| 03:30 | AUD | High | RBA Interest Rate Decision (Nov) |  | 4.35% | 4.35% |
-| 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 04:00 | IDR | Low | GDP (YoY) (Q3) |  | 5.00% | 5.05% |
-| 04:00 | IDR | Low | GDP (QoQ) (Q3) |  | 1.60% | 3.79% |
+| 21 min | AUD | High | RBA Interest Rate Decision (Nov) |  | 4.35% | 4.35% |
+| 21 min | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 21 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 51 min | IDR | Low | GDP (QoQ) (Q3) |  | 1.60% | 3.79% |
+| 51 min | IDR | Low | GDP (YoY) (Q3) |  | 5.00% | 5.05% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 0.7% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 0.6% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |

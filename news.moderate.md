@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Oct) | 0.3% | 1.4% | 1.7% |
 | 01:45 | CNY | Caixin Services PMI (Oct) | 52.0 | 50.5 | 50.3 |
-| 03:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 03:30 | AUD | RBA Rate Statement |  |  |  |
+| 21 min | AUD | RBA Monetary Policy Statement |  |  |  |
+| 21 min | AUD | RBA Rate Statement |  |  |  |
 | 08:00 | EUR | Spanish Unemployment Change (Oct) |  | 27.2K | 3.2K |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 51.7 | 52.6 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) |  | 51.8 | 52.4 |
