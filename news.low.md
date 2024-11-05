@@ -26,8 +26,8 @@
 | 13:30 | CAD | Exports (Sep) | 63.88B |  | 63.96B |
 | 13:30 | CAD | Imports (Sep) | 65.15B |  | 65.43B |
 | 13:55 | USD | Redbook (YoY) | 6.0% |  | 5.6% |
-| 54 min | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
-| 54 min | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) | 57.2 |  | 59.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |

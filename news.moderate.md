@@ -14,9 +14,9 @@
 | 13:30 | USD | Imports (Sep) | 352.30B |  | 342.20B |
 | 13:30 | USD | Trade Balance (Sep) | -84.40B | -83.80B | -70.80B |
 | 13:30 | CAD | Trade Balance (Sep) | -1.26B | -0.90B | -1.47B |
-| 24 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 39 min | USD | S&P Global Composite PMI (Oct) |  | 54.3 | 54.0 |
-| 54 min | USD | ISM Non-Manufacturing Employment (Oct) |  |  | 48.1 |
+| 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Oct) | 54.1 | 54.3 | 54.0 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Oct) | 53.0 | 48.0 | 48.1 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
 | 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |

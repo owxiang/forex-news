@@ -40,14 +40,14 @@
 | 13:30 | CAD | Low | Imports (Sep) | 65.15B |  | 65.43B |
 | 13:30 | CAD | Moderate | Trade Balance (Sep) | -1.26B | -0.90B | -1.47B |
 | 13:55 | USD | Low | Redbook (YoY) | 6.0% |  | 5.6% |
-| 24 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 39 min | USD | Moderate | S&P Global Composite PMI (Oct) |  | 54.3 | 54.0 |
-| 39 min | USD | High | S&P Global Services PMI (Oct) |  | 55.3 | 55.2 |
-| 54 min | USD | Low | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
-| 54 min | USD | Moderate | ISM Non-Manufacturing Employment (Oct) |  |  | 48.1 |
-| 54 min | USD | Low | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
-| 54 min | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 53.8 | 54.9 |
-| 54 min | USD | High | ISM Non-Manufacturing Prices (Oct) |  |  | 59.4 |
+| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.1 | 54.3 | 54.0 |
+| 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.0 | 55.3 | 55.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Oct) | 57.2 |  | 59.9 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Oct) | 53.0 | 48.0 | 48.1 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) | 56.0 | 53.8 | 54.9 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) | 58.1 | 58.0 | 59.4 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.066% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
