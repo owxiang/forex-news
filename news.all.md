@@ -11,8 +11,8 @@
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
@@ -29,18 +29,18 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 50 min | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 55.2 |
-| 50 min | BRL | Low | S&P Global Services PMI (Oct) |  |  | 55.8 |
-| 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 13:30 | USD | Moderate | Exports (Sep) |  |  | 271.80B |
-| 13:30 | USD | Moderate | Imports (Sep) |  |  | 342.20B |
-| 13:30 | USD | Moderate | Trade Balance (Sep) |  | -83.80B | -70.40B |
-| 13:30 | CAD | Low | Exports (Sep) |  |  | 64.31B |
-| 13:30 | CAD | Low | Imports (Sep) |  |  | 65.41B |
-| 13:30 | CAD | Moderate | Trade Balance (Sep) |  | -0.90B | -1.10B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
-| 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.3% |
-| 14:00 | USD | Low | Milk Auctions |  |  | 3,852.0 |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Oct) | 55.9 |  | 55.2 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Oct) | 56.2 |  | 55.8 |
+| 5 min | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 20 min | USD | Moderate | Exports (Sep) |  |  | 271.80B |
+| 20 min | USD | Moderate | Imports (Sep) |  |  | 342.20B |
+| 20 min | USD | Moderate | Trade Balance (Sep) |  | -83.80B | -70.40B |
+| 20 min | CAD | Low | Exports (Sep) |  |  | 64.31B |
+| 20 min | CAD | Low | Imports (Sep) |  |  | 65.41B |
+| 20 min | CAD | Moderate | Trade Balance (Sep) |  | -0.90B | -1.10B |
+| 45 min | USD | Low | Redbook (YoY) |  |  | 5.6% |
+| 50 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.3% |
+| 50 min | USD | Low | Milk Auctions |  |  | 3,852.0 |
 | 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  | 54.3 | 54.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 55.3 | 55.2 |
@@ -55,7 +55,7 @@
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -0.573M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.800M | -0.573M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
 | 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |
