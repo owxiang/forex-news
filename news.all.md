@@ -9,8 +9,8 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.35% |
 | 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
+| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
@@ -19,17 +19,17 @@
 | 07:45 | EUR | Low | French Government Budget Balance (Sep) | -173.8B |  | -171.9B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) | -0.9% | -0.5% | 1.1% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Oct) | 26.8K | 26.5K | 3.2K |
-| 09:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 24 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) |  | 51.7 | 52.6 |
-| 24 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) |  | 51.8 | 52.4 |
-| 34 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |
-| 34 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.869% |
-| 54 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.170% |
-| 54 min | USD | High | U.S. Presidential Election |  |  |  |
-| 54 min | NOK | Low | House Price Index (YoY) (Oct) |  |  | 4.10% |
-| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
+| 09:00 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) | 51.8 | 51.7 | 52.6 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) | 52.0 | 51.8 | 52.4 |
+| 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 2.610% |  | 2.579% |
+| 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 2.840% |  | 2.869% |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.170% |
+| 10:00 | USD | High | U.S. Presidential Election |  |  |  |
+| 10:00 | NOK | Low | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 55.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Oct) |  |  | 55.8 |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
@@ -58,8 +58,8 @@
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -0.573M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
-| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |
 | 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |
 | 21:45 | NZD | Low | Participation Rate (Q3) |  | 71.50% | 71.70% |
 | 21:45 | NZD | Low | Unemployment Rate (Q3) |  | 5.0% | 4.6% |
 | 22:00 | AUD | Low | AIG Construction Index (Oct) |  |  | -19.8 |

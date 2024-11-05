@@ -7,10 +7,10 @@
 | 03:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | RBA Rate Statement |  |  |  |
 | 08:00 | EUR | Spanish Unemployment Change (Oct) | 26.8K | 26.5K | 3.2K |
-| 24 min | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 51.7 | 52.6 |
-| 24 min | GBP | S&P Global/CIPS UK Services PMI (Oct) |  | 51.8 | 52.4 |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.310% |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) | 51.8 | 51.7 | 52.6 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) | 52.0 | 51.8 | 52.4 |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 23 min | EUR | German 10-Year Bund Auction |  |  | 2.310% |
 | 13:30 | USD | Exports (Sep) |  |  | 271.80B |
 | 13:30 | USD | Imports (Sep) |  |  | 342.20B |
 | 13:30 | USD | Trade Balance (Sep) |  | -83.80B | -70.40B |
