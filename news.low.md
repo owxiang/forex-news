@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.4% |  | 1.8% |
-| 5 min | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 50.0 |
-| 04:00 | IDR | GDP (YoY) (Q3) |  | 5.00% | 5.05% |
+| 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
 | 04:00 | IDR | GDP (QoQ) (Q3) |  | 1.60% | 3.79% |
-| 05:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 0.6% |
+| 04:00 | IDR | GDP (YoY) (Q3) |  | 5.00% | 5.05% |
 | 05:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 0.7% |
+| 05:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 0.6% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
 | 07:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
