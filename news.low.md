@@ -1,30 +1,42 @@
-## 04 November 2024 - Low Impact Forex News
+## 05 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) (Oct) | 0.3% |  | 2.3% |
-| 05:00 | INR | HSBC India Manufacturing PMI (Oct) | 57.5 | 57.4 | 56.5 |
-| 09:30 | EUR | Sentix Investor Confidence (Nov) | -12.8 | -12.7 | -13.8 |
-| 11:00 | EUR | Car Registration (YoY) (Oct) | 7.20% |  | 6.30% |
-| 11:00 | EUR | Car Registration (MoM) (Oct) | 14.10% |  | 39.80% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Aug) | -1.90% |  | 6.40% |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Aug) | -1.90% |  | 1.80% |
-| 14:00 | USD | All Car Sales (Oct) | 3.05M |  | 2.98M |
-| 14:00 | USD | All Truck Sales (Oct) | 12.99M |  | 12.78M |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.647% |  | 2.531% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.085% |  | 3.055% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.892% |  | 2.778% |
-| 15:00 | USD | CB Employment Trends Index (Oct) | 107.66 |  | 107.58 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Sep) | -1.1% | -1.1% | -1.1% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Sep) | 0.5% |  | 0.4% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Sep) | 0.1% |  | -0.2% |
-| 15:00 | USD | Total Vehicle Sales (Oct) | 16.20M | 15.60M | 15.80M |
-| 16:30 | USD | 3-Month Bill Auction | 4.440% |  | 4.490% |
-| 16:30 | USD | 6-Month Bill Auction | 4.260% |  | 4.325% |
-| 21:00 | KRW | FX Reserves - USD (Oct) | 415.70B |  | 419.97B |
-| 22:00 | AUD | Judo Bank Australia Services PMI (Oct) | 51.0 | 50.6 | 50.5 |
-| 23:00 | KRW | CPI (MoM) (Oct) | 0.0% | 0.2% | 0.1% |
-| 23:00 | KRW | CPI (YoY) (Oct) | 1.3% | 1.4% | 1.6% |
-| 44 min | JPY | Monetary Base (YoY) (Oct) |  | 0.3% | -0.1% |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.4% |  | 1.8% |
+| 5 min | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 50.0 |
+| 04:00 | IDR | GDP (YoY) (Q3) |  | 5.00% | 5.05% |
+| 04:00 | IDR | GDP (QoQ) (Q3) |  | 1.60% | 3.79% |
+| 05:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 0.6% |
+| 05:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 0.7% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
+| 06:45 | CHF | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
+| 07:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
+| 07:45 | EUR | French Government Budget Balance (Sep) |  |  | -171.9B |
+| 07:45 | EUR | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
+| 09:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.579% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.869% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.170% |
+| 10:00 | NOK | House Price Index (YoY) (Oct) |  |  | 4.10% |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 13:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 55.2 |
+| 13:00 | BRL | S&P Global Services PMI (Oct) |  |  | 55.8 |
+| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 13:30 | CAD | Exports (Sep) |  |  | 64.31B |
+| 13:30 | CAD | Imports (Sep) |  |  | 65.41B |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
+| 14:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.3% |
+| 14:00 | USD | Milk Auctions |  |  | 3,852.0 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
+| 15:45 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 21:45 | NZD | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
+| 21:45 | NZD | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
+| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |
+| 21:45 | NZD | Participation Rate (Q3) |  | 71.50% | 71.70% |
+| 21:45 | NZD | Unemployment Rate (Q3) |  | 5.0% | 4.6% |
+| 22:00 | AUD | AIG Construction Index (Oct) |  |  | -19.8 |
+| 22:00 | AUD | AIG Manufacturing Index (Oct) |  |  | -33.6 |
+| 23:00 | JPY | Reuters Tankan Index (Nov) |  |  | 7 |
