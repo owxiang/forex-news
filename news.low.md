@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.4% |  | 1.8% |
 | 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
-| 04:00 | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 04:00 | IDR | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
-| 05:00 | SGD | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
+| 04:00 | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
+| 05:00 | SGD | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
 | 07:15 | ZAR | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
@@ -21,14 +21,13 @@
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 13:00 | BRL | S&P Global Composite PMI (Oct) | 55.9 |  | 55.2 |
 | 13:00 | BRL | S&P Global Services PMI (Oct) | 56.2 |  | 55.8 |
-| 5 min | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 20 min | CAD | Exports (Sep) |  |  | 64.31B |
-| 20 min | CAD | Imports (Sep) |  |  | 65.41B |
-| 45 min | USD | Redbook (YoY) |  |  | 5.6% |
-| 50 min | NZD | GlobalDairyTrade Price Index |  |  | -0.3% |
-| 50 min | USD | Milk Auctions |  |  | 3,852.0 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
+| 13:15 | CAD | Reserve Assets Total (Oct) | 123.1B |  | 128.1B |
+| 13:15 | EUR | Spanish Consumer Confidence (Sep) | 84.8 |  | 89.4 |
+| 13:30 | CAD | Exports (Sep) | 63.88B |  | 63.96B |
+| 13:30 | CAD | Imports (Sep) | 65.15B |  | 65.43B |
+| 13:55 | USD | Redbook (YoY) | 6.0% |  | 5.6% |
+| 54 min | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
+| 54 min | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
@@ -38,4 +37,3 @@
 | 21:45 | NZD | Unemployment Rate (Q3) |  | 5.0% | 4.6% |
 | 22:00 | AUD | AIG Construction Index (Oct) |  |  | -19.8 |
 | 22:00 | AUD | AIG Manufacturing Index (Oct) |  |  | -33.6 |
-| 23:00 | JPY | Reuters Tankan Index (Nov) |  |  | 7 |

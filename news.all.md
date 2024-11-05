@@ -9,10 +9,10 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.35% |
 | 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
+| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
@@ -31,24 +31,23 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Oct) | 55.9 |  | 55.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Oct) | 56.2 |  | 55.8 |
-| 5 min | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 20 min | USD | Moderate | Exports (Sep) |  |  | 271.80B |
-| 20 min | USD | Moderate | Imports (Sep) |  |  | 342.20B |
-| 20 min | USD | Moderate | Trade Balance (Sep) |  | -83.80B | -70.40B |
-| 20 min | CAD | Low | Exports (Sep) |  |  | 64.31B |
-| 20 min | CAD | Low | Imports (Sep) |  |  | 65.41B |
-| 20 min | CAD | Moderate | Trade Balance (Sep) |  | -0.90B | -1.10B |
-| 45 min | USD | Low | Redbook (YoY) |  |  | 5.6% |
-| 50 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.3% |
-| 50 min | USD | Low | Milk Auctions |  |  | 3,852.0 |
-| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  | 54.3 | 54.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Oct) |  | 55.3 | 55.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Oct) |  |  | 48.1 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 53.8 | 54.9 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) |  |  | 59.4 |
+| 13:15 | CAD | Low | Reserve Assets Total (Oct) | 123.1B |  | 128.1B |
+| 13:15 | EUR | Low | Spanish Consumer Confidence (Sep) | 84.8 |  | 89.4 |
+| 13:30 | USD | Moderate | Exports (Sep) | 267.90B |  | 271.80B |
+| 13:30 | USD | Moderate | Imports (Sep) | 352.30B |  | 342.20B |
+| 13:30 | USD | Moderate | Trade Balance (Sep) | -84.40B | -83.80B | -70.80B |
+| 13:30 | CAD | Low | Exports (Sep) | 63.88B |  | 63.96B |
+| 13:30 | CAD | Low | Imports (Sep) | 65.15B |  | 65.43B |
+| 13:30 | CAD | Moderate | Trade Balance (Sep) | -1.26B | -0.90B | -1.47B |
+| 13:55 | USD | Low | Redbook (YoY) | 6.0% |  | 5.6% |
+| 24 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 39 min | USD | Moderate | S&P Global Composite PMI (Oct) |  | 54.3 | 54.0 |
+| 39 min | USD | High | S&P Global Services PMI (Oct) |  | 55.3 | 55.2 |
+| 54 min | USD | Low | ISM Non-Manufacturing Business Activity (Oct) |  |  | 59.9 |
+| 54 min | USD | Moderate | ISM Non-Manufacturing Employment (Oct) |  |  | 48.1 |
+| 54 min | USD | Low | ISM Non-Manufacturing New Orders (Oct) |  |  | 59.4 |
+| 54 min | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 53.8 | 54.9 |
+| 54 min | USD | High | ISM Non-Manufacturing Prices (Oct) |  |  | 59.4 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.066% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
@@ -63,5 +62,4 @@
 | 21:45 | NZD | Low | Unemployment Rate (Q3) |  | 5.0% | 4.6% |
 | 22:00 | AUD | Low | AIG Construction Index (Oct) |  |  | -19.8 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Oct) |  |  | -33.6 |
-| 23:00 | JPY | Low | Reuters Tankan Index (Nov) |  |  | 7 |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
