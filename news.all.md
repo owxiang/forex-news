@@ -9,8 +9,8 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.35% |
 | 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
 | 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
+| 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
@@ -29,9 +29,8 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 55.2 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Oct) |  |  | 55.8 |
+| 50 min | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 55.2 |
+| 50 min | BRL | Low | S&P Global Services PMI (Oct) |  |  | 55.8 |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | USD | Moderate | Exports (Sep) |  |  | 271.80B |
 | 13:30 | USD | Moderate | Imports (Sep) |  |  | 342.20B |

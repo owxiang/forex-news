@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.4% |  | 1.8% |
 | 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
-| 04:00 | IDR | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
 | 04:00 | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
+| 04:00 | IDR | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
 | 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 05:00 | SGD | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
@@ -19,8 +19,8 @@
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.475% |  | 4.170% |
 | 10:00 | NOK | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
-| 13:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 55.2 |
-| 13:00 | BRL | S&P Global Services PMI (Oct) |  |  | 55.8 |
+| 50 min | BRL | S&P Global Composite PMI (Oct) |  |  | 55.2 |
+| 50 min | BRL | S&P Global Services PMI (Oct) |  |  | 55.8 |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | CAD | Exports (Sep) |  |  | 64.31B |
 | 13:30 | CAD | Imports (Sep) |  |  | 65.41B |
