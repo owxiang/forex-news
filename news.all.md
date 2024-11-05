@@ -53,12 +53,12 @@
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.800M | -0.573M |
-| 39 min | NZD | Low | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
-| 39 min | NZD | Low | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
-| 39 min | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |
-| 39 min | NZD | Low | Participation Rate (Q3) |  | 71.50% | 71.70% |
-| 39 min | NZD | Low | Unemployment Rate (Q3) |  | 5.0% | 4.6% |
-| 54 min | AUD | Low | AIG Construction Index (Oct) |  |  | -19.8 |
-| 54 min | AUD | Low | AIG Manufacturing Index (Oct) |  |  | -33.6 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 3.132M | 1.800M | -0.573M |
+| 21:45 | NZD | Low | Employment Change (QoQ) (Q3) | -0.5% | -0.4% | 0.4% |
+| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) | 3.4% | 3.4% | 3.6% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) | 0.6% | 0.7% | 0.9% |
+| 21:45 | NZD | Low | Participation Rate (Q3) | 71.20% | 71.50% | 71.70% |
+| 21:45 | NZD | Low | Unemployment Rate (Q3) | 4.8% | 5.0% | 4.6% |
+| 22:00 | AUD | Low | AIG Construction Index (Oct) | -40.9 |  | -19.8 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Oct) | -19.7 |  | -33.6 |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
