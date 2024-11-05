@@ -16,7 +16,7 @@
 | 09:00 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 09:50 | EUR | Spanish 12-Month Letras Auction | 2.610% |  | 2.579% |
 | 09:50 | EUR | Spanish 6-Month Letras Auction | 2.840% |  | 2.869% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.170% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.475% |  | 4.170% |
 | 10:00 | NOK | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 13:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 55.2 |

@@ -10,7 +10,7 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) | 51.8 | 51.7 | 52.6 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) | 52.0 | 51.8 | 52.4 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 23 min | EUR | German 10-Year Bund Auction |  |  | 2.310% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.310% |
 | 13:30 | USD | Exports (Sep) |  |  | 271.80B |
 | 13:30 | USD | Imports (Sep) |  |  | 342.20B |
 | 13:30 | USD | Trade Balance (Sep) |  | -83.80B | -70.40B |

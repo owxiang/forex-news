@@ -24,12 +24,12 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) | 52.0 | 51.8 | 52.4 |
 | 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 2.610% |  | 2.579% |
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 2.840% |  | 2.869% |
-| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.170% |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.475% |  | 4.170% |
 | 10:00 | USD | High | U.S. Presidential Election |  |  |  |
 | 10:00 | NOK | Low | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 55.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Oct) |  |  | 55.8 |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
