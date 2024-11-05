@@ -28,8 +28,7 @@
 | 13:55 | USD | Redbook (YoY) | 6.0% |  | 5.6% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) | 57.2 |  | 59.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
-| 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 22 min | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
 | 21:45 | NZD | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
 | 21:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |

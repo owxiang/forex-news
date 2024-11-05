@@ -17,8 +17,8 @@
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Oct) | 54.1 | 54.3 | 54.0 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Oct) | 53.0 | 48.0 | 48.1 |
-| 54 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
-| 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q4) | 2.4% | 2.3% | 2.3% |
+| 22 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.800M | -0.573M |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

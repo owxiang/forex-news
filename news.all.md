@@ -48,11 +48,10 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) | 56.0 | 53.8 | 54.9 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) | 58.1 | 58.0 | 59.4 |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
-| 54 min | USD | High | 10-Year Note Auction |  |  | 4.066% |
-| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction | 4.347% |  | 4.066% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.3% | 2.3% |
+| 22 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 22 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.800M | -0.573M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
