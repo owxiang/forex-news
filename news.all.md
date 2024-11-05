@@ -48,7 +48,7 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) | 56.0 | 53.8 | 54.9 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) | 58.1 | 58.0 | 59.4 |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 53 min | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.066% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
