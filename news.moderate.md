@@ -19,6 +19,6 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Oct) | 53.0 | 48.0 | 48.1 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) | 2.4% | 2.3% | 2.3% |
 | 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 55 min | NZD | RBNZ Financial Stability Report |  |  |  |
+| 20:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.800M | -0.573M |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

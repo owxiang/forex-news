@@ -11,8 +11,8 @@
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
 | 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
@@ -52,7 +52,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.3% | 2.3% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 55 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.800M | -0.573M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
 | 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
