@@ -29,10 +29,10 @@
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) | 57.2 |  | 59.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 21:45 | NZD | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |
-| 21:45 | NZD | Participation Rate (Q3) |  | 71.50% | 71.70% |
-| 21:45 | NZD | Unemployment Rate (Q3) |  | 5.0% | 4.6% |
-| 22:00 | AUD | AIG Construction Index (Oct) |  |  | -19.8 |
-| 22:00 | AUD | AIG Manufacturing Index (Oct) |  |  | -33.6 |
+| 39 min | NZD | Employment Change (QoQ) (Q3) |  | -0.4% | 0.4% |
+| 39 min | NZD | Labor Cost Index (YoY) (Q3) |  | 3.4% | 3.6% |
+| 39 min | NZD | Labor Cost Index (QoQ) (Q3) |  | 0.7% | 0.9% |
+| 39 min | NZD | Participation Rate (Q3) |  | 71.50% | 71.70% |
+| 39 min | NZD | Unemployment Rate (Q3) |  | 5.0% | 4.6% |
+| 54 min | AUD | AIG Construction Index (Oct) |  |  | -19.8 |
+| 54 min | AUD | AIG Manufacturing Index (Oct) |  |  | -33.6 |
