@@ -15,11 +15,11 @@
 | 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
-| 9 min | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
-| 39 min | EUR | Low | French Government Budget Balance (Sep) |  |  | -171.9B |
-| 39 min | EUR | Low | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
-| 54 min | EUR | Moderate | Spanish Unemployment Change (Oct) |  | 26.5K | 3.2K |
-| 09:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 07:15 | ZAR | Low | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
+| 07:45 | EUR | Low | French Government Budget Balance (Sep) | -173.8B |  | -171.9B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) | -0.9% | -0.5% | 1.1% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Oct) | 26.8K | 26.5K | 3.2K |
+| 52 min | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) |  | 51.7 | 52.6 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) |  | 51.8 | 52.4 |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.579% |

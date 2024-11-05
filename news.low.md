@@ -10,10 +10,10 @@
 | 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
-| 9 min | ZAR | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
-| 39 min | EUR | French Government Budget Balance (Sep) |  |  | -171.9B |
-| 39 min | EUR | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
-| 09:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 07:15 | ZAR | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
+| 07:45 | EUR | French Government Budget Balance (Sep) | -173.8B |  | -171.9B |
+| 07:45 | EUR | French Industrial Production (MoM) (Sep) | -0.9% | -0.5% | 1.1% |
+| 52 min | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.579% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.869% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.170% |
