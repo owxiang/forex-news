@@ -8,8 +8,8 @@
 | 04:00 | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
 | 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 05:00 | SGD | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
-| 06:45 | CHF | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
+| 37 min | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
+| 37 min | CHF | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
 | 07:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
 | 07:45 | EUR | French Government Budget Balance (Sep) |  |  | -171.9B |
 | 07:45 | EUR | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
