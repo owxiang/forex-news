@@ -11,14 +11,14 @@
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
 | 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
-| 37 min | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
-| 37 min | CHF | Low | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
-| 07:15 | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
-| 07:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -171.9B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Oct) |  | 26.5K | 3.2K |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
+| 9 min | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
+| 39 min | EUR | Low | French Government Budget Balance (Sep) |  |  | -171.9B |
+| 39 min | EUR | Low | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
+| 54 min | EUR | Moderate | Spanish Unemployment Change (Oct) |  | 26.5K | 3.2K |
 | 09:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) |  | 51.7 | 52.6 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) |  | 51.8 | 52.4 |

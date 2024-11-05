@@ -6,7 +6,7 @@
 | 01:45 | CNY | Caixin Services PMI (Oct) | 52.0 | 50.5 | 50.3 |
 | 03:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | RBA Rate Statement |  |  |  |
-| 08:00 | EUR | Spanish Unemployment Change (Oct) |  | 26.5K | 3.2K |
+| 54 min | EUR | Spanish Unemployment Change (Oct) |  | 26.5K | 3.2K |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 51.7 | 52.6 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) |  | 51.8 | 52.4 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |

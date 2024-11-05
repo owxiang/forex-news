@@ -6,13 +6,13 @@
 | 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
 | 04:00 | IDR | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
 | 04:00 | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
-| 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
 | 05:00 | SGD | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
-| 37 min | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.5% |
-| 37 min | CHF | Unemployment Rate s.a. (Oct) |  | 2.6% | 2.6% |
-| 07:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
-| 07:45 | EUR | French Government Budget Balance (Sep) |  |  | -171.9B |
-| 07:45 | EUR | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
+| 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
+| 06:45 | CHF | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
+| 9 min | ZAR | S&P Global South Africa PMI (Oct) |  |  | 51.0 |
+| 39 min | EUR | French Government Budget Balance (Sep) |  |  | -171.9B |
+| 39 min | EUR | French Industrial Production (MoM) (Sep) |  | -0.5% | 1.4% |
 | 09:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.579% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.869% |
