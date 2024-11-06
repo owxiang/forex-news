@@ -30,8 +30,8 @@
 | 17:30 | BRL | Foreign Exchange Flows | 3.743B |  | -1.672B |
 | 18:00 | BRL | Trade Balance (Oct) | 4.34B | 4.98B | 5.02B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 54 min | KRW | Current Account (Sep) |  |  | 6.60B |
-| 23:30 | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
-| 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -889.6B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
+| 23:00 | KRW | Current Account (Sep) | 11.12B |  | 6.60B |
+| 24 min | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
+| 24 min | JPY | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | -889.6B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
