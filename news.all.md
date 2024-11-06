@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.7 | 49.3 | 53.1 |
-| 52 min | INR | Low | HSBC India Services PMI (Oct) |  | 58.3 | 57.7 |
+| 05:00 | INR | Low | HSBC India Services PMI (Oct) | 58.5 | 58.3 | 57.7 |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 1.6% | -5.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 56.6 | 57.0 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
@@ -26,8 +26,6 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 630.0 |
 | 12:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.3% |
-| 14:00 | USD | Low | Milk Auctions |  |  | 3,852.0 |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -55,3 +53,4 @@
 | 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |

@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 52 min | INR | HSBC India Services PMI (Oct) |  | 58.3 | 57.7 |
+| 05:00 | INR | HSBC India Services PMI (Oct) | 58.5 | 58.3 | 57.7 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Oct) |  | 47.3 | 48.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 48.4 | 47.5 |
@@ -17,8 +17,6 @@
 | 12:00 | USD | Mortgage Refinance Index |  |  | 630.0 |
 | 12:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 14:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.3% |
-| 14:00 | USD | Milk Auctions |  |  | 3,852.0 |
 | 15:00 | CAD | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.605M |
@@ -35,3 +33,4 @@
 | 23:30 | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
 | 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -889.6B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
