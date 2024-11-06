@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.7 | 49.3 | 53.1 |
-| 05:00 | INR | Low | HSBC India Services PMI (Oct) |  | 58.3 | 57.7 |
+| 52 min | INR | Low | HSBC India Services PMI (Oct) |  | 58.3 | 57.7 |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 1.6% | -5.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 56.6 | 57.0 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
@@ -16,8 +16,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 49.7 | 49.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.2 | 51.4 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
-| 10:00 | EUR | Low | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
+| 10:00 | EUR | Low | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.73% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.1% |
@@ -34,7 +34,7 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
 | 15:00 | CAD | Moderate | Ivey PMI (Oct) |  | 54.2 | 53.1 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | 1.800M | -0.515M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.300M | -0.515M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.605M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.681M |
@@ -54,3 +54,4 @@
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 6.60B |
 | 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
