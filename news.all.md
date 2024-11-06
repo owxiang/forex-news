@@ -1,65 +1,57 @@
-## 05 November 2024 - All Forex News
+## 06 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.4% |  | 1.8% |
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 0.3% | 1.4% | 1.7% |
-| 00:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Oct) | 52.0 | 50.5 | 50.3 |
-| 03:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.35% |
-| 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 04:00 | IDR | Low | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
-| 04:00 | IDR | Low | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
-| 07:15 | ZAR | Low | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
-| 07:45 | EUR | Low | French Government Budget Balance (Sep) | -173.8B |  | -171.9B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Sep) | -0.9% | -0.5% | 1.1% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Oct) | 26.8K | 26.5K | 3.2K |
-| 09:00 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) | 51.8 | 51.7 | 52.6 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) | 52.0 | 51.8 | 52.4 |
-| 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 2.610% |  | 2.579% |
-| 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 2.840% |  | 2.869% |
-| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.475% |  | 4.170% |
-| 10:00 | USD | High | U.S. Presidential Election |  |  |  |
-| 10:00 | NOK | Low | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
-| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Oct) | 55.9 |  | 55.2 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Oct) | 56.2 |  | 55.8 |
-| 13:15 | CAD | Low | Reserve Assets Total (Oct) | 123.1B |  | 128.1B |
-| 13:15 | EUR | Low | Spanish Consumer Confidence (Sep) | 84.8 |  | 89.4 |
-| 13:30 | USD | Moderate | Exports (Sep) | 267.90B |  | 271.80B |
-| 13:30 | USD | Moderate | Imports (Sep) | 352.30B |  | 342.20B |
-| 13:30 | USD | Moderate | Trade Balance (Sep) | -84.40B | -83.80B | -70.80B |
-| 13:30 | CAD | Low | Exports (Sep) | 63.88B |  | 63.96B |
-| 13:30 | CAD | Low | Imports (Sep) | 65.15B |  | 65.43B |
-| 13:30 | CAD | Moderate | Trade Balance (Sep) | -1.26B | -0.90B | -1.47B |
-| 13:55 | USD | Low | Redbook (YoY) | 6.0% |  | 5.6% |
-| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 54.1 | 54.3 | 54.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Oct) | 55.0 | 55.3 | 55.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Oct) | 57.2 |  | 59.9 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Oct) | 53.0 | 48.0 | 48.1 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Oct) | 56.0 | 53.8 | 54.9 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Oct) | 58.1 | 58.0 | 59.4 |
-| 18:00 | USD | High | 10-Year Note Auction | 4.347% |  | 4.066% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.3% | 2.3% |
+| 5 min | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 5 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) |  | 49.3 | 53.1 |
+| 35 min | AUD | Low | MI Inflation Gauge (MoM) (Oct) |  |  | 0.1% |
+| 05:00 | INR | Low | HSBC India Services PMI (Oct) |  | 58.3 | 57.7 |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 1.6% | -5.8% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 56.6 | 57.0 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Oct) |  | 50.3 | 50.5 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Oct) |  | 47.3 | 48.6 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Oct) |  | 48.3 | 49.6 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 48.4 | 47.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 51.4 | 50.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 49.7 | 49.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.2 | 51.4 |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
+| 10:00 | EUR | Low | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.73% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.1% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 137.8 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 214.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 630.0 |
+| 12:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.3% |
+| 14:00 | USD | Low | Milk Auctions |  |  | 3,852.0 |
+| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 14:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
+| 15:00 | CAD | Moderate | Ivey PMI (Oct) |  | 54.2 | 53.1 |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  | 1.800M | -0.515M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.605M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.681M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.148M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -0.977M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.259M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.571M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.650M | -2.707M |
+| 17:25 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.672B |
+| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.389% |
+| 18:00 | BRL | Low | Trade Balance (Oct) |  | 4.98B | 5.36B |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 20:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 3.132M | 1.800M | -0.573M |
-| 21:45 | NZD | Low | Employment Change (QoQ) (Q3) | -0.5% | -0.4% | 0.4% |
-| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q3) | 3.4% | 3.4% | 3.6% |
-| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) | 0.6% | 0.7% | 0.9% |
-| 21:45 | NZD | Low | Participation Rate (Q3) | 71.20% | 71.50% | 71.70% |
-| 21:45 | NZD | Low | Unemployment Rate (Q3) | 4.8% | 5.0% | 4.6% |
-| 22:00 | AUD | Low | AIG Construction Index (Oct) | -40.9 |  | -19.8 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Oct) | -19.7 |  | -33.6 |
-| 23:00 | JPY | Low | Reuters Tankan Index (Nov) | 5 |  | 7 |
-| 44 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 21:30 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 10.75% |
+| 23:00 | KRW | Low | Current Account (Sep) |  |  | 6.60B |
+| 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
+| 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 1.70% |

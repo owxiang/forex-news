@@ -1,39 +1,37 @@
-## 05 November 2024 - Low Impact Forex News
+## 06 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.4% |  | 1.8% |
-| 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 52.2 |  | 50.0 |
-| 04:00 | IDR | GDP (YoY) (Q3) | 4.95% | 5.00% | 5.05% |
-| 04:00 | IDR | GDP (QoQ) (Q3) | 1.50% | 1.60% | 3.79% |
-| 05:00 | SGD | Retail Sales (YoY) (Sep) | 2.0% |  | 0.7% |
-| 05:00 | SGD | Retail Sales (MoM) (Sep) | 0.4% |  | 0.8% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Oct) | 2.5% |  | 2.5% |
-| 06:45 | CHF | Unemployment Rate s.a. (Oct) | 2.6% | 2.6% | 2.6% |
-| 07:15 | ZAR | S&P Global South Africa PMI (Oct) | 50.6 |  | 51.0 |
-| 07:45 | EUR | French Government Budget Balance (Sep) | -173.8B |  | -171.9B |
-| 07:45 | EUR | French Industrial Production (MoM) (Sep) | -0.9% | -0.5% | 1.1% |
-| 09:00 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
-| 09:50 | EUR | Spanish 12-Month Letras Auction | 2.610% |  | 2.579% |
-| 09:50 | EUR | Spanish 6-Month Letras Auction | 2.840% |  | 2.869% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.475% |  | 4.170% |
-| 10:00 | NOK | House Price Index (YoY) (Oct) | 4.90% |  | 4.10% |
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
-| 13:00 | BRL | S&P Global Composite PMI (Oct) | 55.9 |  | 55.2 |
-| 13:00 | BRL | S&P Global Services PMI (Oct) | 56.2 |  | 55.8 |
-| 13:15 | CAD | Reserve Assets Total (Oct) | 123.1B |  | 128.1B |
-| 13:15 | EUR | Spanish Consumer Confidence (Sep) | 84.8 |  | 89.4 |
-| 13:30 | CAD | Exports (Sep) | 63.88B |  | 63.96B |
-| 13:30 | CAD | Imports (Sep) | 65.15B |  | 65.43B |
-| 13:55 | USD | Redbook (YoY) | 6.0% |  | 5.6% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Oct) | 57.2 |  | 59.9 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Oct) | 57.4 | 58.0 | 59.4 |
+| 5 min | AUD | RBA Chart Pack Release |  |  |  |
+| 35 min | AUD | MI Inflation Gauge (MoM) (Oct) |  |  | 0.1% |
+| 05:00 | INR | HSBC India Services PMI (Oct) |  | 58.3 | 57.7 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
+| 08:50 | EUR | HCOB France Composite PMI (Oct) |  | 47.3 | 48.6 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 48.4 | 47.5 |
+| 10:00 | EUR | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
+| 10:00 | EUR | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.73% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.1% |
+| 12:00 | USD | MBA Purchase Index |  |  | 137.8 |
+| 12:00 | USD | Mortgage Market Index |  |  | 214.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 630.0 |
+| 12:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 14:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.3% |
+| 14:00 | USD | Milk Auctions |  |  | 3,852.0 |
+| 15:00 | CAD | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.605M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.148M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.500M | -0.977M |
+| 15:30 | USD | Gasoline Production |  |  | -0.259M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.571M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
+| 15:30 | USD | Gasoline Inventories |  | -1.650M | -2.707M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -1.672B |
+| 18:00 | BRL | Trade Balance (Oct) |  | 4.98B | 5.36B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 21:45 | NZD | Employment Change (QoQ) (Q3) | -0.5% | -0.4% | 0.4% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q3) | 3.4% | 3.4% | 3.6% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.6% | 0.7% | 0.9% |
-| 21:45 | NZD | Participation Rate (Q3) | 71.20% | 71.50% | 71.70% |
-| 21:45 | NZD | Unemployment Rate (Q3) | 4.8% | 5.0% | 4.6% |
-| 22:00 | AUD | AIG Construction Index (Oct) | -40.9 |  | -19.8 |
-| 22:00 | AUD | AIG Manufacturing Index (Oct) | -19.7 |  | -33.6 |
-| 23:00 | JPY | Reuters Tankan Index (Nov) | 5 |  | 7 |
+| 23:00 | KRW | Current Account (Sep) |  |  | 6.60B |
+| 23:30 | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
+| 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
