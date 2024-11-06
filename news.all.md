@@ -5,7 +5,7 @@
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.7 | 49.3 | 53.1 |
 | 05:00 | INR | Low | HSBC India Services PMI (Oct) | 58.5 | 58.3 | 57.7 |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 1.6% | -5.8% |
+| 52 min | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 1.6% | -5.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 56.6 | 57.0 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Oct) |  | 50.3 | 50.5 |
