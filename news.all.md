@@ -18,21 +18,20 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) | 54.3 | 55.3 | 57.2 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | 6.0% |  | -7.0% |
-| 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
+| 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) | 1.54% |  | 1.03% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.81% |  | 6.73% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.8% |  | -0.1% |
 | 12:00 | USD | Low | MBA Purchase Index | 130.8 |  | 137.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 191.4 |  | 214.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 513.5 |  | 630.0 |
-| 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
-| 15:00 | CAD | Moderate | Ivey PMI (Oct) |  | 54.2 | 53.1 |
-| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 4 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 24 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 54 min | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
+| 54 min | CAD | Moderate | Ivey PMI (Oct) |  | 54.2 | 53.1 |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.300M | -0.515M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.605M |
