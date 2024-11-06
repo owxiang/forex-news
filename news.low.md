@@ -9,8 +9,8 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Oct) | 48.6 | 48.4 | 47.5 |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
 | 10:00 | EUR | German Car Registration (YoY) | 6.0% |  | -7.0% |
-| 10:00 | EUR | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 10:00 | EUR | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
+| 10:00 | EUR | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) | 1.54% |  | 1.03% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.81% |  | 6.73% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -10.8% |  | -0.1% |
@@ -29,7 +29,7 @@
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
 | 17:30 | BRL | Foreign Exchange Flows | 3.743B |  | -1.672B |
 | 18:00 | BRL | Trade Balance (Oct) | 4.34B | 4.98B | 5.36B |
-| 23 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 23:00 | KRW | Current Account (Sep) |  |  | 6.60B |
 | 23:30 | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
 | 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 1.70% |

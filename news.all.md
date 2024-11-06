@@ -18,8 +18,8 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) | 54.3 | 55.3 | 57.2 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | 6.0% |  | -7.0% |
-| 10:00 | EUR | Low | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) | 1.54% |  | 1.03% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.81% |  | 6.73% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.8% |  | -0.1% |
@@ -47,8 +47,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 3.743B |  | -1.672B |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.608% |  | 4.389% |
 | 18:00 | BRL | Low | Trade Balance (Oct) | 4.34B | 4.98B | 5.36B |
-| 23 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 5 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 10.75% |
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 6.60B |
 | 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
