@@ -27,21 +27,21 @@
 | 12:00 | USD | Low | Mortgage Market Index | 191.4 |  | 214.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 513.5 |  | 630.0 |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 4 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 24 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 54 min | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
-| 54 min | CAD | Moderate | Ivey PMI (Oct) |  | 54.2 | 53.1 |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.300M | -0.515M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.605M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.681M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.148M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -0.977M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.259M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.571M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.650M | -2.707M |
+| 14:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 14:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Oct) | 52.2 |  | 54.5 |
+| 15:00 | CAD | Moderate | Ivey PMI (Oct) | 52.0 | 54.2 | 53.1 |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 24 min | USD | High | Crude Oil Inventories |  | 0.300M | -0.515M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | -0.605M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.681M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | -0.148M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -0.977M |
+| 24 min | USD | Low | Gasoline Production |  |  | -0.259M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | 0.571M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
+| 24 min | USD | Low | Gasoline Inventories |  | -1.650M | -2.707M |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 17:25 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.672B |

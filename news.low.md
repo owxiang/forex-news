@@ -17,15 +17,15 @@
 | 12:00 | USD | MBA Purchase Index | 130.8 |  | 137.8 |
 | 12:00 | USD | Mortgage Market Index | 191.4 |  | 214.5 |
 | 12:00 | USD | Mortgage Refinance Index | 513.5 |  | 630.0 |
-| 54 min | CAD | Ivey PMI n.s.a (Oct) |  |  | 54.5 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.605M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.148M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.500M | -0.977M |
-| 15:30 | USD | Gasoline Production |  |  | -0.259M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.571M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
-| 15:30 | USD | Gasoline Inventories |  | -1.650M | -2.707M |
+| 15:00 | CAD | Ivey PMI n.s.a (Oct) | 52.2 |  | 54.5 |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
+| 24 min | USD | Crude Oil Imports |  |  | -0.605M |
+| 24 min | USD | Distillate Fuel Production |  |  | -0.148M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  | -1.500M | -0.977M |
+| 24 min | USD | Gasoline Production |  |  | -0.259M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | 0.571M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
+| 24 min | USD | Gasoline Inventories |  | -1.650M | -2.707M |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.672B |
 | 18:00 | BRL | Trade Balance (Oct) |  | 4.98B | 5.36B |
