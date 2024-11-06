@@ -46,9 +46,9 @@
 | 17:25 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | 3.743B |  | -1.672B |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.608% |  | 4.389% |
-| 18:00 | BRL | Low | Trade Balance (Oct) | 4.34B | 4.98B | 5.36B |
+| 18:00 | BRL | Low | Trade Balance (Oct) | 4.34B | 4.98B | 5.02B |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 5 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 10.75% |
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 6.60B |
 | 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |

@@ -18,5 +18,5 @@
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.522M |  | 0.681M |
 | 17:25 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 5 min | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | BRL | Interest Rate Decision |  | 11.25% | 10.75% |

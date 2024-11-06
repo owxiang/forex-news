@@ -28,7 +28,7 @@
 | 15:30 | USD | Gasoline Inventories | 0.412M | -1.650M | -2.707M |
 | 17:00 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
 | 17:30 | BRL | Foreign Exchange Flows | 3.743B |  | -1.672B |
-| 18:00 | BRL | Trade Balance (Oct) | 4.34B | 4.98B | 5.36B |
+| 18:00 | BRL | Trade Balance (Oct) | 4.34B | 4.98B | 5.02B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 23:00 | KRW | Current Account (Sep) |  |  | 6.60B |
 | 23:30 | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
