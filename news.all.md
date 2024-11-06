@@ -18,8 +18,8 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) | 54.3 | 55.3 | 57.2 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | 6.0% |  | -7.0% |
-| 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
+| 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) | 1.54% |  | 1.03% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.81% |  | 6.73% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.8% |  | -0.1% |
@@ -42,11 +42,10 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.335M |  | 0.571M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | -0.4% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.412M | -1.650M | -2.707M |
-| 53 min | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
-| 17:25 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.672B |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.389% |
-| 18:00 | BRL | Low | Trade Balance (Oct) |  | 4.98B | 5.36B |
+| 20 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 25 min | BRL | Low | Foreign Exchange Flows |  |  | -1.672B |
+| 55 min | USD | High | 30-Year Bond Auction |  |  | 4.389% |
+| 55 min | BRL | Low | Trade Balance (Oct) |  | 4.98B | 5.36B |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 10.75% |

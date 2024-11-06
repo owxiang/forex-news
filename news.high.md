@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 15:30 | USD | Crude Oil Inventories | 2.149M | 0.300M | -0.515M |
-| 18:00 | USD | 30-Year Bond Auction |  |  | 4.389% |
+| 55 min | USD | 30-Year Bond Auction |  |  | 4.389% |
