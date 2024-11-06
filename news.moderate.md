@@ -10,7 +10,7 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Oct) | 51.6 | 51.4 | 50.6 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 50.0 | 49.7 | 49.6 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Oct) | 51.6 | 51.2 | 51.4 |
-| 23 min | GBP | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
+| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Oct) | 54.3 | 55.3 | 57.2 |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:10 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |

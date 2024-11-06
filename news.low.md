@@ -7,8 +7,9 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Oct) | 51.0 |  | 49.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Oct) | 48.1 | 47.3 | 48.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Oct) | 48.6 | 48.4 | 47.5 |
-| 53 min | EUR | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
-| 53 min | EUR | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
+| 10:00 | EUR | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
+| 10:00 | EUR | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.73% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.1% |

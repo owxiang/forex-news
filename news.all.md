@@ -15,9 +15,10 @@
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Oct) | 51.6 | 51.4 | 50.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) | 50.0 | 49.7 | 49.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) | 51.6 | 51.2 | 51.4 |
-| 23 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
-| 53 min | EUR | Low | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
-| 53 min | EUR | Low | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) | 54.3 | 55.3 | 57.2 |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
+| 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.73% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.1% |
