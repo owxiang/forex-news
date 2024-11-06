@@ -21,12 +21,11 @@
 | 10:00 | EUR | Low | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) | 1.54% |  | 1.03% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.73% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.1% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 137.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 214.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 630.0 |
-| 12:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.81% |  | 6.73% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.8% |  | -0.1% |
+| 12:00 | USD | Low | MBA Purchase Index | 130.8 |  | 137.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 191.4 |  | 214.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 513.5 |  | 630.0 |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:10 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -44,6 +43,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.571M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
 | 15:30 | USD | Low | Gasoline Inventories |  | -1.650M | -2.707M |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 17:25 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.672B |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.389% |
