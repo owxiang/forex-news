@@ -42,11 +42,12 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.335M |  | 0.571M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | -0.4% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.412M | -1.650M | -2.707M |
-| 20 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 25 min | BRL | Low | Foreign Exchange Flows |  |  | -1.672B |
-| 55 min | USD | High | 30-Year Bond Auction |  |  | 4.389% |
-| 55 min | BRL | Low | Trade Balance (Oct) |  | 4.98B | 5.36B |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
+| 17:25 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 3.743B |  | -1.672B |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.608% |  | 4.389% |
+| 18:00 | BRL | Low | Trade Balance (Oct) | 4.34B | 4.98B | 5.36B |
+| 23 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 10.75% |
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 6.60B |

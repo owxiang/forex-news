@@ -26,9 +26,10 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.335M |  | 0.571M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | -0.4% |
 | 15:30 | USD | Gasoline Inventories | 0.412M | -1.650M | -2.707M |
-| 25 min | BRL | Foreign Exchange Flows |  |  | -1.672B |
-| 55 min | BRL | Trade Balance (Oct) |  | 4.98B | 5.36B |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 17:00 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
+| 17:30 | BRL | Foreign Exchange Flows | 3.743B |  | -1.672B |
+| 18:00 | BRL | Trade Balance (Oct) | 4.34B | 4.98B | 5.36B |
+| 23 min | CAD | BOC Summary of Deliberations |  |  |  |
 | 23:00 | KRW | Current Account (Sep) |  |  | 6.60B |
 | 23:30 | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
 | 23:30 | JPY | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
