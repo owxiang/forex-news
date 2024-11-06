@@ -5,7 +5,7 @@
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.7 | 49.3 | 53.1 |
 | 05:00 | INR | Low | HSBC India Services PMI (Oct) | 58.5 | 58.3 | 57.7 |
-| 52 min | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | 1.6% | -5.8% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) | 4.2% | 1.6% | -5.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 56.6 | 57.0 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Oct) |  | 50.3 | 50.5 |
@@ -16,8 +16,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 49.7 | 49.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.2 | 51.4 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
-| 10:00 | EUR | Low | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
 | 10:00 | EUR | Low | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.73% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.1% |
