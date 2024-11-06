@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 05:00 | INR | HSBC India Services PMI (Oct) | 58.5 | 58.3 | 57.7 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
-| 08:50 | EUR | HCOB France Composite PMI (Oct) |  | 47.3 | 48.6 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 48.4 | 47.5 |
+| 36 min | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
+| 41 min | EUR | HCOB France Composite PMI (Oct) |  | 47.3 | 48.6 |
+| 46 min | EUR | HCOB Germany Composite PMI (Oct) |  | 48.4 | 47.5 |
 | 10:00 | EUR | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
 | 10:00 | EUR | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
