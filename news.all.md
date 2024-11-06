@@ -49,7 +49,7 @@
 | 18:00 | BRL | Low | Trade Balance (Oct) | 4.34B | 4.98B | 5.02B |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 21:30 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 10.75% |
+| 25 min | BRL | Moderate | Interest Rate Decision |  | 11.25% | 10.75% |
 | 23:00 | KRW | Low | Current Account (Sep) |  |  | 6.60B |
 | 23:30 | JPY | Low | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 1.70% |

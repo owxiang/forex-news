@@ -19,4 +19,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.522M |  | 0.681M |
 | 17:25 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 21:30 | BRL | Interest Rate Decision |  | 11.25% | 10.75% |
+| 25 min | BRL | Interest Rate Decision |  | 11.25% | 10.75% |
