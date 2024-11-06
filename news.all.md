@@ -6,18 +6,18 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 49.7 | 49.3 | 53.1 |
 | 05:00 | INR | Low | HSBC India Services PMI (Oct) | 58.5 | 58.3 | 57.7 |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) | 4.2% | 1.6% | -5.4% |
-| 6 min | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 56.6 | 57.0 |
-| 36 min | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.7 |
-| 36 min | EUR | Moderate | HCOB Italy Services PMI (Oct) |  | 50.3 | 50.5 |
-| 41 min | EUR | Low | HCOB France Composite PMI (Oct) |  | 47.3 | 48.6 |
-| 41 min | EUR | Moderate | HCOB France Services PMI (Oct) |  | 48.3 | 49.6 |
-| 46 min | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 48.4 | 47.5 |
-| 46 min | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 51.4 | 50.6 |
-| 51 min | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 49.7 | 49.6 |
-| 51 min | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 51.2 | 51.4 |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
-| 10:00 | EUR | Low | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
-| 10:00 | EUR | Low | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) | 54.9 | 56.6 | 57.0 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Oct) | 51.0 |  | 49.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Oct) | 52.4 | 50.3 | 50.5 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Oct) | 48.1 | 47.3 | 48.6 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Oct) | 49.2 | 48.3 | 49.6 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Oct) | 48.6 | 48.4 | 47.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Oct) | 51.6 | 51.4 | 50.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) | 50.0 | 49.7 | 49.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) | 51.6 | 51.2 | 51.4 |
+| 23 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
+| 53 min | EUR | Low | PPI (MoM) (Sep) |  | -0.5% | 0.6% |
+| 53 min | EUR | Low | PPI (YoY) (Sep) |  | -3.5% | -2.3% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Oct) |  |  | 1.03% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.73% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.1% |

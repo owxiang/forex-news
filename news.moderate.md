@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Oct) | 49.7 | 49.3 | 53.1 |
 | 07:00 | EUR | German Factory Orders (MoM) (Sep) | 4.2% | 1.6% | -5.4% |
-| 6 min | EUR | HCOB Spain Services PMI (Oct) |  | 56.6 | 57.0 |
-| 36 min | EUR | HCOB Italy Services PMI (Oct) |  | 50.3 | 50.5 |
-| 41 min | EUR | HCOB France Services PMI (Oct) |  | 48.3 | 49.6 |
-| 46 min | EUR | HCOB Germany Services PMI (Oct) |  | 51.4 | 50.6 |
-| 51 min | EUR | HCOB Eurozone Composite PMI (Oct) |  | 49.7 | 49.6 |
-| 51 min | EUR | HCOB Eurozone Services PMI (Oct) |  | 51.2 | 51.4 |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
+| 08:15 | EUR | HCOB Spain Services PMI (Oct) | 54.9 | 56.6 | 57.0 |
+| 08:45 | EUR | HCOB Italy Services PMI (Oct) | 52.4 | 50.3 | 50.5 |
+| 08:50 | EUR | HCOB France Services PMI (Oct) | 49.2 | 48.3 | 49.6 |
+| 08:55 | EUR | HCOB Germany Services PMI (Oct) | 51.6 | 51.4 | 50.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 50.0 | 49.7 | 49.6 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Oct) | 51.6 | 51.2 | 51.4 |
+| 23 min | GBP | S&P Global / CIPS UK Construction PMI (Oct) |  | 55.3 | 57.2 |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:10 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |
