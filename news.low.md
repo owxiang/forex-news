@@ -9,8 +9,8 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Oct) | 48.6 | 48.4 | 47.5 |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
 | 10:00 | EUR | German Car Registration (YoY) | 6.0% |  | -7.0% |
-| 10:00 | EUR | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 10:00 | EUR | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
+| 10:00 | EUR | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) | 1.54% |  | 1.03% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.81% |  | 6.73% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -10.8% |  | -0.1% |
@@ -18,15 +18,15 @@
 | 12:00 | USD | Mortgage Market Index | 191.4 |  | 214.5 |
 | 12:00 | USD | Mortgage Refinance Index | 513.5 |  | 630.0 |
 | 15:00 | CAD | Ivey PMI n.s.a (Oct) | 52.2 |  | 54.5 |
-| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.031M |
-| 24 min | USD | Crude Oil Imports |  |  | -0.605M |
-| 24 min | USD | Distillate Fuel Production |  |  | -0.148M |
-| 24 min | USD | EIA Weekly Distillates Stocks |  | -1.500M | -0.977M |
-| 24 min | USD | Gasoline Production |  |  | -0.259M |
-| 24 min | USD | Heating Oil Stockpiles |  |  | 0.571M |
-| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
-| 24 min | USD | Gasoline Inventories |  | -1.650M | -2.707M |
-| 17:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.281M |  | -0.031M |
+| 15:30 | USD | Crude Oil Imports | 1.676M |  | -0.605M |
+| 15:30 | USD | Distillate Fuel Production | 0.233M |  | -0.148M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 2.947M | -1.500M | -0.977M |
+| 15:30 | USD | Gasoline Production | 0.013M |  | -0.259M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.335M |  | 0.571M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | -0.4% |
+| 15:30 | USD | Gasoline Inventories | 0.412M | -1.650M | -2.707M |
+| 53 min | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.672B |
 | 18:00 | BRL | Trade Balance (Oct) |  | 4.98B | 5.36B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |

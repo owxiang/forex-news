@@ -16,7 +16,7 @@
 | 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Oct) | 52.0 | 54.2 | 53.1 |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | 0.681M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.522M |  | 0.681M |
 | 17:25 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | BRL | Interest Rate Decision |  | 11.25% | 10.75% |
