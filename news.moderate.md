@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) | 4.4% | 4.4% | -3.9% |
 | 00:30 | AUD | Trade Balance (Sep) | 4.609B | 5.240B | 5.284B |
-| 03:00 | CNY | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
-| 03:00 | CNY | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
-| 03:00 | CNY | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
+| 33 min | CNY | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
+| 33 min | CNY | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
+| 33 min | CNY | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
 | 03:35 | JPY | 10-Year JGB Auction |  |  | 0.871% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Oct) |  | 4.2% | 4.7% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.2% | 0.3% |

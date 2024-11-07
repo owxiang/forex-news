@@ -7,12 +7,12 @@
 | 00:30 | AUD | Low | Imports (MoM) (Sep) | -3.1% |  | -0.2% |
 | 00:30 | AUD | Low | Private House Approvals | 2.2% |  | 2.3% |
 | 00:30 | AUD | Moderate | Trade Balance (Sep) | 4.609B | 5.240B | 5.284B |
-| 03:00 | CNY | Low | Exports (Oct) |  |  | 1.60M |
-| 03:00 | CNY | Low | Imports (Oct) |  |  | -0.50M |
-| 03:00 | CNY | Low | Trade Balance (Oct) |  |  | 582.62B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
+| 33 min | CNY | Low | Exports (Oct) |  |  | 1.60M |
+| 33 min | CNY | Low | Imports (Oct) |  |  | -0.50M |
+| 33 min | CNY | Low | Trade Balance (Oct) |  |  | 582.62B |
+| 33 min | CNY | Moderate | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
+| 33 min | CNY | Moderate | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
+| 33 min | CNY | Moderate | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.871% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Oct) |  |  | 149.90B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 63.63B |
@@ -37,8 +37,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.22% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 8 | 1 |
