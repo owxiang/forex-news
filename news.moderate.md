@@ -14,8 +14,8 @@
 | 07:00 | EUR | German Trade Balance (Sep) | 17.0B | 20.8B | 21.4B |
 | 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 54 min | GBP | Mortgage Rate (GBP) |  |  | 7.69% |
-| 10:45 | EUR | ECB's Elderson Speaks |  |  |  |
+| 09:30 | GBP | Mortgage Rate (GBP) (Oct) | 7.69% |  | 7.69% |
+| 39 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Nov) |  | 8 | 1 |
 | 12:00 | GBP | BoE MPC vote hike (Nov) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Nov) |  | 1 | 8 |
