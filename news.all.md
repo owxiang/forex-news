@@ -56,13 +56,13 @@
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
 | 12:00 | MXN | Low | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
-| 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 216K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.6% | 2.5% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.1% | 0.4% |
-| 13:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 6 min | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
+| 21 min | USD | High | Initial Jobless Claims |  | 223K | 216K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.50K |
+| 21 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.6% | 2.5% |
+| 21 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.1% | 0.4% |
+| 21 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |

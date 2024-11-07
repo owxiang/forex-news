@@ -35,8 +35,8 @@
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
 | 12:00 | MXN | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
 | 12:00 | MXN | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
-| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
+| 6 min | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Sep) |  |  | -0.1% |
 | 15:30 | USD | Natural Gas Storage |  | 67B | 78B |
