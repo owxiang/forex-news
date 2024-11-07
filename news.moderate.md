@@ -27,7 +27,6 @@
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | 1.9% | 1.1% | 2.4% |
 | 13:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
 | 15:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |

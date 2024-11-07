@@ -41,8 +41,8 @@
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
@@ -63,14 +63,13 @@
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | 1.9% | 1.1% | 2.4% |
 | 13:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) | -0.2% | -0.1% | -0.1% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) | 0.3% |  | 0.2% |
 | 15:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 67B | 78B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.580% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.555% |
+| 15:30 | USD | Low | Natural Gas Storage | 69B | 67B | 78B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.580% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.555% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 4.75% | 5.00% |
