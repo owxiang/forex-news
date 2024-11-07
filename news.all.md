@@ -44,19 +44,18 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 11:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.22% |
-| 55 min | GBP | Moderate | BoE MPC vote cut (Nov) |  | 8 | 1 |
-| 55 min | GBP | Moderate | BoE MPC vote hike (Nov) |  | 0 | 0 |
-| 55 min | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 1 | 8 |
-| 55 min | GBP | High | BoE Interest Rate Decision (Nov) |  | 4.75% | 5.00% |
-| 55 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 55 min | MXN | Low | Core CPI (MoM) (Oct) |  | 0.33% | 0.28% |
-| 55 min | MXN | Moderate | CPI (MoM) (Oct) |  | 0.51% | 0.05% |
-| 55 min | MXN | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.58% |
-| 55 min | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
-| 55 min | MXN | Low | PPI (MoM) (Oct) |  |  | 0.40% |
-| 55 min | MXN | Low | PPI (YoY) (Oct) |  |  | 5.10% |
-| 55 min | EUR | Low | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
+| 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Nov) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) | 1 | 1 | 8 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Nov) | 4.75% | 4.75% | 5.00% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | MXN | Low | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
+| 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
+| 12:00 | MXN | Low | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 216K |
@@ -82,6 +81,6 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
 | 23:30 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
 | 23:30 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |

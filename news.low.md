@@ -30,12 +30,11 @@
 | 10:00 | EUR | French 30-Year OAT Auction | 3.78% |  | 3.55% |
 | 10:00 | EUR | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
-| 11:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.22% |
-| 55 min | MXN | Core CPI (MoM) (Oct) |  | 0.33% | 0.28% |
-| 55 min | MXN | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
-| 55 min | MXN | PPI (MoM) (Oct) |  |  | 0.40% |
-| 55 min | MXN | PPI (YoY) (Oct) |  |  | 5.10% |
-| 55 min | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
+| 11:00 | CAD | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
+| 12:00 | MXN | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
+| 12:00 | MXN | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
+| 12:00 | MXN | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |
