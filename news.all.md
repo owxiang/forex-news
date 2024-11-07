@@ -17,8 +17,8 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.000% |  | 0.871% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) | 63.03B |  | 63.63B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 61.197B |  | 61.029B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) | 3.9% | 4.2% | 4.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) | 3.9% | 4.2% | 4.6% |
 | 07:00 | EUR | Low | German Exports (MoM) (Sep) | -1.7% | -1.4% | 1.2% |
 | 07:00 | EUR | Low | German Imports (MoM) (Sep) | 2.1% | 0.5% | -2.6% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | -2.5% | -1.1% | 2.6% |
@@ -41,8 +41,8 @@
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
@@ -54,15 +54,14 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
-| 12:00 | MXN | Low | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
-| 6 min | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
-| 21 min | USD | High | Initial Jobless Claims |  | 223K | 216K |
-| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 236.50K |
-| 21 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.6% | 2.5% |
-| 21 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.1% | 0.4% |
-| 21 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 12:00 | MXN | Low | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,892K | 1,880K | 1,853K |
+| 13:30 | USD | High | Initial Jobless Claims | 221K | 223K | 218K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.25K |  | 237.00K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.6% | 2.1% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | 1.9% | 1.1% | 2.4% |
+| 13:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |
@@ -71,7 +70,7 @@
 | 15:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 67B | 78B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.580% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 455.000% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.555% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 4.75% | 5.00% |

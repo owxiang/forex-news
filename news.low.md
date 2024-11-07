@@ -28,20 +28,19 @@
 | 09:50 | EUR | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
+| 10:00 | EUR | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 11:00 | CAD | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | MXN | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
-| 12:00 | MXN | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
 | 12:00 | MXN | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
-| 6 min | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
+| 12:00 | MXN | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 227.25K |  | 237.00K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Sep) |  |  | -0.1% |
 | 15:30 | USD | Natural Gas Storage |  | 67B | 78B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.580% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 455.000% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.555% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
 | 23:30 | JPY | Foreign Bonds Buying |  |  | -889.6B |
 | 23:30 | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
