@@ -15,16 +15,16 @@
 | 03:31 | CNY | Low | Imports (Oct) | -3.70M |  | -0.50M |
 | 03:31 | CNY | Low | Trade Balance (Oct) | 679.10B | 560.00B | 582.62B |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.000% |  | 0.871% |
-| 53 min | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 63.63B |
-| 53 min | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 61.029B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 4.2% | 4.7% |
-| 07:00 | EUR | Low | German Exports (MoM) (Sep) |  | -1.4% | 1.3% |
-| 07:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -3.4% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | -1.1% | 2.9% |
-| 07:00 | EUR | Moderate | German Trade Balance (Sep) |  | 20.8B | 22.5B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) |  |  | -2.51% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | -1.1% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) | 63.03B |  | 63.63B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 61.197B |  | 61.029B |
+| 52 min | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 4.2% | 4.7% |
+| 52 min | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
+| 52 min | EUR | Low | German Exports (MoM) (Sep) |  | -1.4% | 1.3% |
+| 52 min | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -3.4% |
+| 52 min | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | -1.1% | 2.9% |
+| 52 min | EUR | Moderate | German Trade Balance (Sep) |  | 20.8B | 22.5B |
+| 52 min | EUR | Low | German Industrial Production (YoY) (Sep) |  |  | -2.51% |
+| 52 min | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | -1.1% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 715.6B |
@@ -42,8 +42,8 @@
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.69% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.22% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 8 | 1 |
@@ -55,8 +55,8 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.51% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.58% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
-| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 5.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.40% |
+| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 5.10% |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 216K |
@@ -84,6 +84,4 @@
 | 23:30 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |
