@@ -8,12 +8,12 @@
 | 03:31 | CNY | Imports (YoY) (Oct) | -2.3% | -1.5% | 0.3% |
 | 03:31 | CNY | Trade Balance (USD) (Oct) | 95.72B | 73.50B | 81.71B |
 | 03:35 | JPY | 10-Year JGB Auction | 1.000% |  | 0.871% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Oct) | 3.9% | 4.2% | 4.6% |
-| 07:00 | EUR | German Industrial Production (MoM) (Sep) | -2.5% | -1.1% | 2.9% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
+| 07:00 | EUR | German Industrial Production (MoM) (Sep) | -2.5% | -1.1% | 2.6% |
 | 07:00 | EUR | German Trade Balance (Sep) | 17.0B | 20.8B | 22.5B |
-| 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
+| 2 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 52 min | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.69% |
 | 10:45 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Nov) |  | 8 | 1 |

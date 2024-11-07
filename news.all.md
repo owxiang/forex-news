@@ -17,33 +17,33 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.000% |  | 0.871% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) | 63.03B |  | 63.63B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 61.197B |  | 61.029B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) | 3.9% | 4.2% | 4.6% |
-| 07:00 | EUR | Low | German Exports (MoM) (Sep) | -1.7% | -1.4% | 1.3% |
-| 07:00 | EUR | Low | German Imports (MoM) (Sep) | 2.1% | 0.5% | -3.4% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | -2.5% | -1.1% | 2.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
+| 07:00 | EUR | Low | German Exports (MoM) (Sep) | -1.7% | -1.4% | 1.2% |
+| 07:00 | EUR | Low | German Imports (MoM) (Sep) | 2.1% | 0.5% | -2.6% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | -2.5% | -1.1% | 2.6% |
 | 07:00 | EUR | Moderate | German Trade Balance (Sep) | 17.0B | 20.8B | 22.5B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) |  |  | -2.51% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) | -4.62% |  | -2.82% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Sep) | -0.8% |  | -1.3% |
-| 39 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.0% | 0.0% |
-| 39 min | EUR | Low | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
-| 54 min | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 715.6B |
-| 54 min | EUR | Low | Spanish Industrial Production (YoY) (Sep) |  | 0.2% | -0.1% |
-| 54 min | CNY | Low | FX Reserves (USD) (Oct) |  | 3.290T | 3.316T |
-| 08:10 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 47.8 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 41.7 |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 422.80B |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | -0.1% | 0.0% | 0.0% |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Oct) | 718,829.0B |  | 715,699.0B |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) | 0.6% | 0.2% | -0.1% |
+| 08:00 | CNY | Low | FX Reserves (USD) (Oct) | 3.261T | 3.290T | 3.316T |
+| 2 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 22 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 47.8 |
+| 22 min | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 41.7 |
+| 22 min | EUR | Low | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
+| 22 min | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 422.80B |
+| 22 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
+| 52 min | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
+| 52 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.853% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.580% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.69% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.22% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 8 | 1 |
@@ -55,8 +55,8 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.51% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.58% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
-| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 5.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.40% |
+| 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 5.10% |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 216K |

@@ -11,31 +11,31 @@
 | 03:31 | CNY | Trade Balance (Oct) | 679.10B | 560.00B | 582.62B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Oct) | 63.03B |  | 63.63B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Oct) | 61.197B |  | 61.029B |
-| 07:00 | EUR | German Exports (MoM) (Sep) | -1.7% | -1.4% | 1.3% |
-| 07:00 | EUR | German Imports (MoM) (Sep) | 2.1% | 0.5% | -3.4% |
-| 07:00 | EUR | German Industrial Production (YoY) (Sep) |  |  | -2.51% |
+| 07:00 | EUR | German Exports (MoM) (Sep) | -1.7% | -1.4% | 1.2% |
+| 07:00 | EUR | German Imports (MoM) (Sep) | 2.1% | 0.5% | -2.6% |
+| 07:00 | EUR | German Industrial Production (YoY) (Sep) | -4.62% |  | -2.82% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Sep) | -0.8% |  | -1.3% |
-| 39 min | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.0% | 0.0% |
-| 39 min | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
-| 54 min | CHF | Foreign Reserves (USD) (Oct) |  |  | 715.6B |
-| 54 min | EUR | Spanish Industrial Production (YoY) (Sep) |  | 0.2% | -0.1% |
-| 54 min | CNY | FX Reserves (USD) (Oct) |  | 3.290T | 3.316T |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 47.8 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Oct) |  |  | 41.7 |
-| 08:30 | HKD | Foreign Reserves (USD) (Oct) |  |  | 422.80B |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | -0.1% | 0.0% | 0.0% |
+| 08:00 | CHF | Foreign Reserves (USD) (Oct) | 718,829.0B |  | 715,699.0B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Sep) | 0.6% | 0.2% | -0.1% |
+| 08:00 | CNY | FX Reserves (USD) (Oct) | 3.261T | 3.290T | 3.316T |
+| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 47.8 |
+| 22 min | EUR | HCOB Germany Construction PMI (Oct) |  |  | 41.7 |
+| 22 min | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
+| 22 min | HKD | Foreign Reserves (USD) (Oct) |  |  | 422.80B |
+| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
+| 52 min | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
 | 09:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.853% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.580% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.92% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.55% |
-| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 10:00 | EUR | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 11:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.22% |
 | 12:00 | MXN | Core CPI (MoM) (Oct) |  | 0.33% | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
-| 12:00 | MXN | PPI (YoY) (Oct) |  |  | 5.10% |
 | 12:00 | MXN | PPI (MoM) (Oct) |  |  | 0.40% |
+| 12:00 | MXN | PPI (YoY) (Oct) |  |  | 5.10% |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |
