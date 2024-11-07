@@ -17,8 +17,8 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.000% |  | 0.871% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) | 63.03B |  | 63.63B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 61.197B |  | 61.029B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) | 3.9% | 4.2% | 4.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
 | 07:00 | EUR | Low | German Exports (MoM) (Sep) | -1.7% | -1.4% | 1.2% |
 | 07:00 | EUR | Low | German Imports (MoM) (Sep) | 2.1% | 0.5% | -2.6% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | -2.5% | -1.1% | 2.6% |
@@ -41,8 +41,8 @@
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
@@ -51,8 +51,8 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Nov) | 4.75% | 4.75% | 5.00% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
 | 12:00 | MXN | Low | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
@@ -64,8 +64,8 @@
 | 13:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) |  |  | -0.1% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Sep) | -0.2% | -0.1% | -0.1% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) | 0.3% |  | 0.2% |
 | 15:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 67B | 78B |
