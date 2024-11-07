@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) | 4.4% | 4.4% | -3.9% |
 | 00:30 | AUD | Trade Balance (Sep) | 4.609B | 5.240B | 5.284B |
-| 33 min | CNY | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
-| 33 min | CNY | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
-| 33 min | CNY | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
-| 03:35 | JPY | 10-Year JGB Auction |  |  | 0.871% |
+| 03:00 | CNY | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
+| 03:00 | CNY | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
+| 03:00 | CNY | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
+| 24 min | JPY | 10-Year JGB Auction |  |  | 0.871% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Oct) |  | 4.2% | 4.7% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
 | 07:00 | EUR | German Industrial Production (MoM) (Sep) |  | -1.1% | 2.9% |
@@ -19,8 +19,8 @@
 | 12:00 | GBP | BoE MPC vote hike (Nov) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Nov) |  | 1 | 8 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | CPI (YoY) (Oct) |  | 4.72% | 4.58% |
 | 12:00 | MXN | CPI (MoM) (Oct) |  | 0.51% | 0.05% |
+| 12:00 | MXN | CPI (YoY) (Oct) |  | 4.72% | 4.58% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,862K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 2.6% | 2.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 1.1% | 0.4% |

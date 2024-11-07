@@ -5,10 +5,10 @@
 | 00:30 | AUD | Exports (MoM) (Sep) | -4.3% |  | -0.2% |
 | 00:30 | AUD | Imports (MoM) (Sep) | -3.1% |  | -0.2% |
 | 00:30 | AUD | Private House Approvals | 2.2% |  | 2.3% |
-| 33 min | CNY | Exports (Oct) |  |  | 1.60M |
-| 33 min | CNY | Imports (Oct) |  |  | -0.50M |
-| 33 min | CNY | Trade Balance (Oct) |  |  | 582.62B |
-| 04:00 | IDR | FX Reserves (USD) (Oct) |  |  | 149.90B |
+| 03:00 | CNY | Exports (Oct) |  |  | 1.60M |
+| 03:00 | CNY | Imports (Oct) |  |  | -0.50M |
+| 03:00 | CNY | Trade Balance (Oct) |  |  | 582.62B |
+| 49 min | IDR | FX Reserves (USD) (Oct) | 151.20B |  | 149.90B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Oct) |  |  | 63.63B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Oct) |  |  | 61.029B |
 | 07:00 | EUR | German Exports (MoM) (Sep) |  | -1.4% | 1.3% |
@@ -25,8 +25,8 @@
 | 08:30 | HKD | Foreign Reserves (USD) (Oct) |  |  | 422.80B |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
-| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 10:00 | EUR | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 11:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.22% |
 | 12:00 | MXN | Core CPI (MoM) (Oct) |  | 0.30% | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
