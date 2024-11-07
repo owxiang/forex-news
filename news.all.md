@@ -75,8 +75,8 @@
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.75% | 4.75% | 5.00% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Sep) | 6.00B | 12.20B | 7.64B |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,013B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,994B |  | 7,013B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.256T |  | 3.216T |
 | 23:30 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
 | 23:30 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
