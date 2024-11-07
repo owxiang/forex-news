@@ -4,6 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 12:00 | GBP | BoE Interest Rate Decision (Nov) | 4.75% | 4.75% | 5.00% |
 | 13:30 | USD | Initial Jobless Claims | 221K | 223K | 218K |
-| 53 min | USD | FOMC Statement |  |  |  |
-| 53 min | USD | Fed Interest Rate Decision |  | 4.75% | 5.00% |
-| 19:30 | USD | FOMC Press Conference |  |  |  |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision | 4.75% | 4.75% | 5.00% |
+| 25 min | USD | FOMC Press Conference |  |  |  |

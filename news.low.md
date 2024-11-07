@@ -28,8 +28,8 @@
 | 09:50 | EUR | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
+| 10:00 | EUR | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 11:00 | CAD | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | MXN | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |

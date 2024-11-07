@@ -41,8 +41,8 @@
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
@@ -71,14 +71,14 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.515% |  | 4.580% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.490% |  | 4.555% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.5% | 2.4% | 2.4% |
-| 53 min | USD | High | FOMC Statement |  |  |  |
-| 53 min | USD | High | Fed Interest Rate Decision |  | 4.75% | 5.00% |
-| 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 20:00 | USD | Moderate | Consumer Credit (Sep) |  | 12.20B | 8.93B |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 4.75% | 4.75% | 5.00% |
+| 25 min | USD | High | FOMC Press Conference |  |  |  |
+| 55 min | USD | Moderate | Consumer Credit (Sep) |  | 12.20B | 8.93B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,013B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
 | 23:30 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
 | 23:30 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |

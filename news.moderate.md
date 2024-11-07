@@ -30,7 +30,7 @@
 | 15:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q4) | 2.5% | 2.4% | 2.4% |
-| 20:00 | USD | Consumer Credit (Sep) |  | 12.20B | 8.93B |
+| 55 min | USD | Consumer Credit (Sep) |  | 12.20B | 8.93B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,013B |
-| 23:30 | JPY | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
 | 23:30 | JPY | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
+| 23:30 | JPY | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
