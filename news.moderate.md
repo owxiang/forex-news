@@ -20,8 +20,8 @@
 | 12:00 | GBP | BoE MPC vote hike (Nov) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Nov) | 1 | 1 | 8 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
 | 12:00 | MXN | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
+| 12:00 | MXN | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
 | 13:30 | USD | Continuing Jobless Claims | 1,892K | 1,880K | 1,853K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.6% | 2.1% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | 1.9% | 1.1% | 2.4% |
@@ -29,7 +29,7 @@
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
+| 55 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
 | 20:00 | USD | Consumer Credit (Sep) |  | 12.20B | 8.93B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,013B |
 | 23:30 | JPY | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
