@@ -41,8 +41,8 @@
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
@@ -54,8 +54,8 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
-| 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
 | 12:00 | MXN | Low | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,892K | 1,880K | 1,853K |
 | 13:30 | USD | High | Initial Jobless Claims | 221K | 223K | 218K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.25K |  | 237.00K |
@@ -73,8 +73,8 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.5% | 2.4% | 2.4% |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.75% | 4.75% | 5.00% |
-| 25 min | USD | High | FOMC Press Conference |  |  |  |
-| 55 min | USD | Moderate | Consumer Credit (Sep) |  | 12.20B | 8.93B |
+| 19:30 | USD | High | FOMC Press Conference |  |  |  |
+| 20:00 | USD | Moderate | Consumer Credit (Sep) | 6.00B | 12.20B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,013B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
 | 23:30 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
