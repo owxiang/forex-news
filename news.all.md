@@ -41,8 +41,8 @@
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | CAD | Low | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
@@ -51,8 +51,8 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Nov) | 4.75% | 4.75% | 5.00% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
 | 12:00 | MXN | Low | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
 | 12:00 | MXN | Low | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
@@ -77,8 +77,8 @@
 | 20:00 | USD | Moderate | Consumer Credit (Sep) | 6.00B | 12.20B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,994B |  | 7,013B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.256T |  | 3.216T |
-| 23:30 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
-| 23:30 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |
+| 24 min | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
+| 24 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
+| 24 min | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
+| 24 min | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
+| 44 min | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |

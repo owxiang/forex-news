@@ -28,8 +28,8 @@
 | 09:50 | EUR | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.24% |  | 2.92% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 10:00 | EUR | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
 | 11:00 | CAD | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
 | 12:00 | MXN | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
@@ -42,6 +42,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.515% |  | 4.580% |
 | 16:30 | USD | 8-Week Bill Auction | 4.490% |  | 4.555% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.256T |  | 3.216T |
-| 23:30 | JPY | Foreign Bonds Buying |  |  | -889.6B |
-| 23:30 | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
-| 23:50 | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |
+| 24 min | JPY | Foreign Bonds Buying |  |  | -889.6B |
+| 24 min | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
+| 44 min | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |
