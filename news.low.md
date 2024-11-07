@@ -19,18 +19,18 @@
 | 08:00 | CHF | Foreign Reserves (USD) (Oct) | 718,829.0B |  | 715,699.0B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Sep) | 0.6% | 0.2% | -0.1% |
 | 08:00 | CNY | FX Reserves (USD) (Oct) | 3.261T | 3.290T | 3.316T |
-| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 47.8 |
-| 22 min | EUR | HCOB Germany Construction PMI (Oct) |  |  | 41.7 |
-| 22 min | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
-| 22 min | HKD | Foreign Reserves (USD) (Oct) |  |  | 422.80B |
-| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
-| 52 min | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
-| 09:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.853% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.580% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.92% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.55% |
-| 10:00 | EUR | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
-| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) | 48.2 |  | 47.8 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Oct) | 40.2 |  | 41.7 |
+| 08:30 | HKD | Foreign Reserves (USD) (Oct) | 421.40B |  | 422.80B |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) | 43.0 |  | 42.1 |
+| 34 min | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.853% |
+| 34 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.580% |
+| 54 min | EUR | French 10-Year OAT Auction |  |  | 2.92% |
+| 54 min | EUR | French 30-Year OAT Auction |  |  | 3.55% |
+| 54 min | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
+| 54 min | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
+| 54 min | EUR | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
+| 54 min | EUR | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
 | 11:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.22% |
 | 12:00 | MXN | Core CPI (MoM) (Oct) |  | 0.33% | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
