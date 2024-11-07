@@ -7,20 +7,20 @@
 | 00:30 | AUD | Low | Imports (MoM) (Sep) | -3.1% |  | -0.2% |
 | 00:30 | AUD | Low | Private House Approvals | 2.2% |  | 2.3% |
 | 00:30 | AUD | Moderate | Trade Balance (Sep) | 4.609B | 5.240B | 5.284B |
-| 03:00 | CNY | Low | Exports (Oct) |  |  | 1.60M |
-| 03:00 | CNY | Low | Imports (Oct) |  |  | -0.50M |
-| 03:00 | CNY | Low | Trade Balance (Oct) |  |  | 582.62B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
-| 24 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.871% |
-| 49 min | IDR | Low | FX Reserves (USD) (Oct) | 151.20B |  | 149.90B |
+| 03:00 | IDR | Low | FX Reserves (USD) (Oct) | 151.20B |  | 149.90B |
+| 03:31 | CNY | Moderate | Exports (YoY) (Oct) | 12.7% | 5.0% | 2.4% |
+| 03:31 | CNY | Moderate | Imports (YoY) (Oct) | -2.3% | -1.5% | 0.3% |
+| 03:31 | CNY | Moderate | Trade Balance (USD) (Oct) | 95.72B | 73.50B | 81.71B |
+| 03:31 | CNY | Low | Exports (Oct) | 11.20M |  | 1.60M |
+| 03:31 | CNY | Low | Imports (Oct) | -3.70M |  | -0.50M |
+| 03:31 | CNY | Low | Trade Balance (Oct) | 679.10B |  | 582.62B |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.000% |  | 0.871% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 63.63B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 61.029B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  | 4.2% | 4.7% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
 | 07:00 | EUR | Low | German Exports (MoM) (Sep) |  | -1.4% | 1.3% |
-| 07:00 | EUR | Low | German Imports (MoM) (Sep) |  | -0.4% | -3.4% |
+| 07:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -3.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | -1.1% | 2.9% |
 | 07:00 | EUR | Moderate | German Trade Balance (Sep) |  | 20.8B | 22.5B |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Sep) |  |  | -2.51% |
@@ -46,12 +46,12 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 1 | 8 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Nov) |  | 4.75% | 5.00% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.30% | 0.28% |
+| 12:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.33% | 0.28% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.51% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.58% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
-| 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 5.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.40% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Oct) |  |  | -11.4% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Oct) |  |  | -0.4% |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
