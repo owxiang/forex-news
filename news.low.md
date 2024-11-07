@@ -1,37 +1,50 @@
-## 06 November 2024 - Low Impact Forex News
+## 07 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 05:00 | INR | HSBC India Services PMI (Oct) | 58.5 | 58.3 | 57.7 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Oct) | 51.0 |  | 49.7 |
-| 08:50 | EUR | HCOB France Composite PMI (Oct) | 48.1 | 47.3 | 48.6 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Oct) | 48.6 | 48.4 | 47.5 |
-| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Oct) | 144,288.0 |  | 275,239.0 |
-| 10:00 | EUR | German Car Registration (YoY) | 6.0% |  | -7.0% |
-| 10:00 | EUR | PPI (YoY) (Sep) | -3.4% | -3.5% | -2.3% |
-| 10:00 | EUR | PPI (MoM) (Sep) | -0.6% | -0.5% | 0.6% |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Oct) | 1.54% |  | 1.03% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.81% |  | 6.73% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -10.8% |  | -0.1% |
-| 12:00 | USD | MBA Purchase Index | 130.8 |  | 137.8 |
-| 12:00 | USD | Mortgage Market Index | 191.4 |  | 214.5 |
-| 12:00 | USD | Mortgage Refinance Index | 513.5 |  | 630.0 |
-| 15:00 | CAD | Ivey PMI n.s.a (Oct) | 52.2 |  | 54.5 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.281M |  | -0.031M |
-| 15:30 | USD | Crude Oil Imports | 1.676M |  | -0.605M |
-| 15:30 | USD | Distillate Fuel Production | 0.233M |  | -0.148M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 2.947M | -1.500M | -0.977M |
-| 15:30 | USD | Gasoline Production | 0.013M |  | -0.259M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.335M |  | 0.571M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.4% |  | -0.4% |
-| 15:30 | USD | Gasoline Inventories | 0.412M | -1.650M | -2.707M |
-| 17:00 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
-| 17:30 | BRL | Foreign Exchange Flows | 3.743B |  | -1.672B |
-| 18:00 | BRL | Trade Balance (Oct) | 4.34B | 4.98B | 5.02B |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 23:00 | KRW | Current Account (Sep) | 11.12B |  | 6.60B |
-| 24 min | JPY | Overall wage income of employees (Sep) |  | 3.0% | 2.8% |
-| 24 min | JPY | Overtime Pay (YoY) (Sep) |  |  | 1.70% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -889.6B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
+| 5 min | AUD | Exports (MoM) (Sep) |  |  | -0.2% |
+| 5 min | AUD | Imports (MoM) (Sep) |  |  | -0.2% |
+| 5 min | AUD | Private House Approvals |  |  | 2.2% |
+| 5 min | JPY | Foreign Bonds Buying |  |  | -889.6B |
+| 5 min | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
+| 03:00 | CNY | Exports (Oct) |  |  | 1.60M |
+| 03:00 | CNY | Imports (Oct) |  |  | -0.50M |
+| 03:00 | CNY | Trade Balance (Oct) |  |  | 582.62B |
+| 04:00 | IDR | FX Reserves (USD) (Oct) |  |  | 149.90B |
+| 06:00 | ZAR | Foreign Reserves (USD) (Oct) |  |  | 63.63B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Oct) |  |  | 61.029B |
+| 07:00 | EUR | German Exports (MoM) (Sep) |  | -1.4% | 1.3% |
+| 07:00 | EUR | German Imports (MoM) (Sep) |  | -0.4% | -3.4% |
+| 07:00 | EUR | German Industrial Production (YoY) (Sep) |  |  | -2.51% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Sep) |  |  | -1.1% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.0% | 0.0% |
+| 07:45 | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
+| 08:00 | CHF | Foreign Reserves (USD) (Oct) |  |  | 715.6B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Sep) |  | 0.2% | -0.1% |
+| 08:00 | CNY | FX Reserves (USD) (Oct) |  | 3.290T | 3.316T |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 47.8 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Oct) |  |  | 41.7 |
+| 08:30 | HKD | Foreign Reserves (USD) (Oct) |  |  | 422.80B |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 42.1 |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) |  |  | 389.8B |
+| 10:00 | EUR | Retail Sales (MoM) (Sep) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (Sep) |  | 1.3% | 0.8% |
+| 11:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.22% |
+| 12:00 | MXN | Core CPI (MoM) (Oct) |  | 0.30% | 0.28% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 3.85% | 3.91% |
+| 12:00 | MXN | PPI (MoM) (Oct) |  |  | 0.40% |
+| 12:00 | MXN | PPI (YoY) (Oct) |  |  | 5.10% |
+| 13:00 | BRL | Auto Production (MoM) (Oct) |  |  | -11.4% |
+| 13:00 | BRL | Auto Sales (MoM) (Oct) |  |  | -0.4% |
+| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.50K |
+| 15:00 | USD | Wholesale Inventories (MoM) (Sep) |  | -0.1% | -0.1% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Sep) |  |  | -0.1% |
+| 15:30 | USD | Natural Gas Storage |  | 67B | 78B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.580% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 455.000% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
+| 23:00 | JPY | Reuters Tankan Index (Nov) |  |  | 7 |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -889.6B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
+| 23:50 | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |

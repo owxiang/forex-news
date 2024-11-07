@@ -1,6 +1,9 @@
-## 06 November 2024 - High Impact Forex News
+## 07 November 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:30 | USD | Crude Oil Inventories | 2.149M | 0.300M | -0.515M |
-| 18:00 | USD | 30-Year Bond Auction | 4.608% |  | 4.389% |
+| 12:00 | GBP | BoE Interest Rate Decision (Nov) |  | 4.75% | 5.00% |
+| 13:30 | USD | Initial Jobless Claims |  | 223K | 216K |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision |  | 4.75% | 5.00% |
+| 19:30 | USD | FOMC Press Conference |  |  |  |

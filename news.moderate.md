@@ -1,22 +1,36 @@
-## 06 November 2024 - Moderate Impact Forex News
+## 07 November 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | au Jibun Bank Japan Services PMI (Oct) | 49.7 | 49.3 | 53.1 |
-| 07:00 | EUR | German Factory Orders (MoM) (Sep) | 4.2% | 1.6% | -5.4% |
-| 08:15 | EUR | HCOB Spain Services PMI (Oct) | 54.9 | 56.6 | 57.0 |
-| 08:45 | EUR | HCOB Italy Services PMI (Oct) | 52.4 | 50.3 | 50.5 |
-| 08:50 | EUR | HCOB France Services PMI (Oct) | 49.2 | 48.3 | 49.6 |
-| 08:55 | EUR | HCOB Germany Services PMI (Oct) | 51.6 | 51.4 | 50.6 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 50.0 | 49.7 | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Oct) | 51.6 | 51.2 | 51.4 |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Oct) | 54.3 | 55.3 | 57.2 |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:10 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Oct) | 52.0 | 54.2 | 53.1 |
-| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.522M |  | 0.681M |
-| 17:25 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 21:30 | BRL | Interest Rate Decision | 11.25% | 11.25% | 10.75% |
+| 5 min | AUD | Trade Balance (Sep) |  | 5.240B | 5.644B |
+| 01:30 | AUD | Building Approvals (MoM) |  | 4.4% | -3.9% |
+| 03:00 | CNY | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
+| 03:00 | CNY | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
+| 03:00 | CNY | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
+| 03:35 | JPY | 10-Year JGB Auction |  |  | 0.871% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Oct) |  | 4.2% | 4.7% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
+| 07:00 | EUR | German Industrial Production (MoM) (Sep) |  | -1.1% | 2.9% |
+| 07:00 | EUR | German Trade Balance (Sep) |  | 20.8B | 22.5B |
+| 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
+| 10:45 | EUR | ECB's Elderson Speaks |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Nov) |  | 8 | 1 |
+| 12:00 | GBP | BoE MPC vote hike (Nov) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Nov) |  | 1 | 8 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | MXN | CPI (YoY) (Oct) |  | 4.72% | 4.58% |
+| 12:00 | MXN | CPI (MoM) (Oct) |  | 0.51% | 0.05% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,862K |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 2.6% | 2.5% |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 1.1% | 0.4% |
+| 13:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
+| 15:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 15:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
+| 20:00 | USD | Consumer Credit (Sep) |  | 12.20B | 8.93B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,013B |
+| 23:30 | JPY | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
+| 23:30 | JPY | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
