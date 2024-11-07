@@ -2,13 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 5 min | AUD | Low | Exports (MoM) (Sep) |  |  | -0.2% |
-| 5 min | AUD | Low | Imports (MoM) (Sep) |  |  | -0.2% |
-| 5 min | AUD | Low | Private House Approvals |  |  | 2.2% |
-| 5 min | AUD | Moderate | Trade Balance (Sep) |  | 5.240B | 5.644B |
-| 5 min | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
-| 5 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
-| 01:30 | AUD | Moderate | Building Approvals (MoM) |  | 4.4% | -3.9% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) | 4.4% | 4.4% | -3.9% |
+| 00:30 | AUD | Low | Exports (MoM) (Sep) | -4.3% |  | -0.2% |
+| 00:30 | AUD | Low | Imports (MoM) (Sep) | -3.1% |  | -0.2% |
+| 00:30 | AUD | Low | Private House Approvals | 2.2% |  | 2.3% |
+| 00:30 | AUD | Moderate | Trade Balance (Sep) | 4.609B | 5.240B | 5.284B |
 | 03:00 | CNY | Low | Exports (Oct) |  |  | 1.60M |
 | 03:00 | CNY | Low | Imports (Oct) |  |  | -0.50M |
 | 03:00 | CNY | Low | Trade Balance (Oct) |  |  | 582.62B |
@@ -80,8 +78,10 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,013B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
 | 23:00 | JPY | Low | Reuters Tankan Index (Nov) |  |  | 7 |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
+| 23:30 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
+| 23:30 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -889.6B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 8.0B |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |

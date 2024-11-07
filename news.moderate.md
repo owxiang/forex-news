@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | AUD | Trade Balance (Sep) |  | 5.240B | 5.644B |
-| 01:30 | AUD | Building Approvals (MoM) |  | 4.4% | -3.9% |
+| 00:30 | AUD | Building Approvals (MoM) | 4.4% | 4.4% | -3.9% |
+| 00:30 | AUD | Trade Balance (Sep) | 4.609B | 5.240B | 5.284B |
 | 03:00 | CNY | Exports (YoY) (Oct) |  | 5.0% | 2.4% |
 | 03:00 | CNY | Imports (YoY) (Oct) |  | -1.5% | 0.3% |
 | 03:00 | CNY | Trade Balance (USD) (Oct) |  | 73.50B | 81.71B |
@@ -32,5 +32,5 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
 | 20:00 | USD | Consumer Credit (Sep) |  | 12.20B | 8.93B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,013B |
-| 23:30 | JPY | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
 | 23:30 | JPY | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
+| 23:30 | JPY | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
