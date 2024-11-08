@@ -10,13 +10,13 @@
 | 07:45 | EUR | French Current Account (Sep) | -2.10B |  | -1.20B |
 | 07:45 | EUR | French Exports (Sep) | 48.6B |  | 49.3B |
 | 07:45 | EUR | French Imports (Sep) | 56.9B |  | 57.0B |
+| 07:45 | EUR | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
-| 52 min | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
-| 52 min | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
-| 52 min | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
-| 09:45 | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
-| 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
+| 39 min | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
+| 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
 | 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 684.81B |
 | 12:00 | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |

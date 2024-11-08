@@ -10,20 +10,20 @@
 | 07:45 | EUR | Low | French Current Account (Sep) | -2.10B |  | -1.20B |
 | 07:45 | EUR | Low | French Exports (Sep) | 48.6B |  | 49.3B |
 | 07:45 | EUR | Low | French Imports (Sep) | 56.9B |  | 57.0B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | Low | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
-| 52 min | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
-| 52 min | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
-| 52 min | CHF | Moderate | SECO Consumer Climate (Q4) |  | -33 | -19 |
-| 52 min | EUR | Low | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
-| 09:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 09:45 | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
-| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -27 | -33 | -19 |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
+| 24 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 39 min | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
+| 54 min | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
+| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
 | 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 684.81B |
-| 12:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
+| 12:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
