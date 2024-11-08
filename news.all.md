@@ -3,27 +3,27 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | -3.2% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Sep) |  |  | -2.4% |
-| 05:00 | JPY | Low | Leading Index (Sep) |  | 108.9 | 106.9 |
+| 53 min | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | -3.2% |
+| 53 min | JPY | Low | Leading Index (MoM) (Sep) |  |  | -2.4% |
+| 53 min | JPY | Low | Leading Index (Sep) |  | 108.9 | 106.9 |
 | 06:45 | EUR | Low | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
 | 07:45 | EUR | Low | French Current Account (Sep) |  |  | -0.60B |
 | 07:45 | EUR | Low | French Exports (Sep) |  |  | 49.7B |
 | 07:45 | EUR | Low | French Imports (Sep) |  |  | 57.0B |
 | 07:45 | EUR | Low | French Trade Balance (Sep) |  | -7.0B | -7.4B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) |  | -33 | -19 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
 | 09:00 | IDR | Low | Motorbike Sales (YoY) (Oct) |  |  | 3.70% |
 | 09:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 09:45 | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
 | 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
+| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
 | 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 684.81B |
-| 12:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
+| 12:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |

@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | -3.2% |
-| 05:00 | JPY | Leading Index (MoM) (Sep) |  |  | -2.4% |
-| 05:00 | JPY | Leading Index (Sep) |  | 108.9 | 106.9 |
+| 53 min | JPY | Coincident Indicator (MoM) (Sep) |  |  | -3.2% |
+| 53 min | JPY | Leading Index (MoM) (Sep) |  |  | -2.4% |
+| 53 min | JPY | Leading Index (Sep) |  | 108.9 | 106.9 |
 | 06:45 | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
 | 07:45 | EUR | French Current Account (Sep) |  |  | -0.60B |
 | 07:45 | EUR | French Exports (Sep) |  |  | 49.7B |
 | 07:45 | EUR | French Imports (Sep) |  |  | 57.0B |
 | 07:45 | EUR | French Trade Balance (Sep) |  | -7.0B | -7.4B |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
 | 09:00 | IDR | Motorbike Sales (YoY) (Oct) |  |  | 3.70% |
 | 09:45 | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
-| 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
+| 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
 | 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 684.81B |
 | 12:00 | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
