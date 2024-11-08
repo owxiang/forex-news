@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 1.7% |  | -3.2% |
-| 05:00 | JPY | Low | Leading Index (Sep) | 109.4 | 108.9 | 106.9 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.5% |  | -2.4% |
+| 05:00 | JPY | Low | Leading Index (Sep) | 109.4 | 108.9 | 106.9 |
 | 07:40 | IDR | Low | Motorbike Sales (YoY) (Oct) | 5.40% |  | 3.70% |
 | 07:45 | EUR | Low | French Current Account (Sep) | -2.10B |  | -1.20B |
 | 07:45 | EUR | Low | French Exports (Sep) | 48.6B |  | 49.3B |
