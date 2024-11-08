@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 02:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 05:00 | JPY | Coincident Indicator (MoM) (Sep) | 1.7% |  | -3.2% |
-| 05:00 | JPY | Leading Index (MoM) (Sep) | 2.5% |  | -2.4% |
 | 05:00 | JPY | Leading Index (Sep) | 109.4 | 108.9 | 106.9 |
+| 05:00 | JPY | Leading Index (MoM) (Sep) | 2.5% |  | -2.4% |
 | 07:40 | IDR | Motorbike Sales (YoY) (Oct) | 5.40% |  | 3.70% |
 | 07:45 | EUR | French Current Account (Sep) | -2.10B |  | -1.20B |
 | 07:45 | EUR | French Exports (Sep) | 48.6B |  | 49.3B |
 | 07:45 | EUR | French Imports (Sep) | 56.9B |  | 57.0B |
 | 07:45 | EUR | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
 | 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
@@ -24,7 +24,7 @@
 | 13:30 | CAD | Full Employment Change (Oct) | 25.6K |  | 112.0K |
 | 13:30 | CAD | Part Time Employment Change (Oct) | -11.2K |  | -65.3K |
 | 13:30 | CAD | Participation Rate (Oct) | 64.8% |  | 64.9% |
-| 54 min | USD | Michigan Current Conditions (Nov) |  |  | 64.9 |
+| 15:00 | USD | Michigan Current Conditions (Nov) | 64.4 |  | 64.9 |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 23.7K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 83.3K |

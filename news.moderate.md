@@ -9,10 +9,10 @@
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Oct) | 14.5K | 27.9K | 46.7K |
 | 13:30 | CAD | Unemployment Rate (Oct) | 6.5% | 6.6% | 6.5% |
-| 54 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
-| 54 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
-| 54 min | USD | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
-| 54 min | USD | Michigan Consumer Sentiment (Nov) |  | 71.0 | 70.5 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 2.6% | 2.7% | 2.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.1% | 3.0% | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Nov) | 78.5 |  | 74.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Nov) | 73.0 | 71.0 | 70.5 |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
