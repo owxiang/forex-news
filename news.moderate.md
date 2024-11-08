@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | CHF | SECO Consumer Climate (Q4) |  | -33 | -19 |
+| 55 min | CHF | SECO Consumer Climate (Q4) |  | -33 | -19 |
 | 09:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
