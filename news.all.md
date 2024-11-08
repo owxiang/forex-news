@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 1.7% |  | -3.2% |
-| 05:00 | JPY | Low | Leading Index (Sep) | 109.4 | 108.9 | 106.9 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.5% |  | -2.4% |
+| 05:00 | JPY | Low | Leading Index (Sep) | 109.4 | 108.9 | 106.9 |
 | 07:40 | IDR | Low | Motorbike Sales (YoY) (Oct) | 5.40% |  | 3.70% |
 | 07:45 | EUR | Low | French Current Account (Sep) | -2.10B |  | -1.20B |
 | 07:45 | EUR | Low | French Exports (Sep) | 48.6B |  | 49.3B |
@@ -17,8 +17,8 @@
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
 | 09:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
 | 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
+| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
 | 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD | 682.13B |  | 684.81B |
 | 12:00 | BRL | Low | CPI (MoM) (Oct) | 0.56% | 0.53% | 0.44% |
@@ -37,7 +37,7 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 73.0 | 71.0 | 70.5 |
 | 15:00 | USD | Low | Michigan Current Conditions (Nov) | 64.4 |  | 64.9 |
 | 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 54 min | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 66.4K |

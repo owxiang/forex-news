@@ -14,7 +14,7 @@
 | 15:00 | USD | Michigan Consumer Expectations (Nov) | 78.5 |  | 74.1 |
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) | 73.0 | 71.0 | 70.5 |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 54 min | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 66.4K |
