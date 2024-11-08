@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 1.7% |  | -3.2% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.5% |  | -2.4% |
 | 05:00 | JPY | Low | Leading Index (Sep) | 109.4 | 108.9 | 106.9 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.5% |  | -2.4% |
 | 07:40 | IDR | Low | Motorbike Sales (YoY) (Oct) | 5.40% |  | 3.70% |
 | 07:45 | EUR | Low | French Current Account (Sep) | -2.10B |  | -1.20B |
 | 07:45 | EUR | Low | French Exports (Sep) | 48.6B |  | 49.3B |
@@ -19,12 +19,12 @@
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
 | 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
-| 5 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 684.81B |
-| 55 min | BRL | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
-| 55 min | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
-| 55 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
-| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 11:30 | INR | Low | FX Reserves, USD | 682.13B |  | 684.81B |
+| 12:00 | BRL | Low | CPI (MoM) (Oct) | 0.56% | 0.53% | 0.44% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.42% |
+| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.54% |  | 0.50% |
+| 5 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 4.5% |
 | 13:30 | CAD | Moderate | Employment Change (Oct) |  | 27.9K | 46.7K |
