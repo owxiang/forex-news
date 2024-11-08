@@ -12,8 +12,8 @@
 | 07:45 | EUR | French Imports (Sep) | 56.9B |  | 57.0B |
 | 07:45 | EUR | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
 | 11:00 | EUR | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
 | 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
