@@ -13,7 +13,6 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 71.0 | 70.5 |
-| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
