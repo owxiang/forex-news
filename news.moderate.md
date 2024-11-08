@@ -1,36 +1,29 @@
-## 07 November 2024 - Moderate Impact Forex News
+## None - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) | 4.4% | 4.4% | -3.9% |
-| 00:30 | AUD | Trade Balance (Sep) | 4.609B | 5.240B | 5.284B |
-| 03:31 | CNY | Exports (YoY) (Oct) | 12.7% | 5.0% | 2.4% |
-| 03:31 | CNY | Imports (YoY) (Oct) | -2.3% | -1.5% | 0.3% |
-| 03:31 | CNY | Trade Balance (USD) (Oct) | 95.72B | 73.50B | 81.71B |
-| 03:35 | JPY | 10-Year JGB Auction | 1.000% |  | 0.871% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Oct) | 3.9% | 4.2% | 4.6% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Oct) | 0.2% | 0.2% | 0.3% |
-| 07:00 | EUR | German Industrial Production (MoM) (Sep) | -2.5% | -1.1% | 2.6% |
-| 07:00 | EUR | German Trade Balance (Sep) | 17.0B | 20.8B | 21.4B |
-| 08:10 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:30 | GBP | Mortgage Rate (GBP) (Oct) | 7.69% |  | 7.69% |
-| 10:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Nov) | 8 | 8 | 1 |
-| 12:00 | GBP | BoE MPC vote hike (Nov) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Nov) | 1 | 1 | 8 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.58% |
-| 12:00 | MXN | CPI (MoM) (Oct) | 0.55% | 0.51% | 0.05% |
-| 13:30 | USD | Continuing Jobless Claims | 1,892K | 1,880K | 1,853K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.6% | 2.1% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | 1.9% | 1.1% | 2.4% |
-| 13:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 2.5% | 2.4% | 2.4% |
-| 20:00 | USD | Consumer Credit (Sep) | 6.00B | 12.20B | 7.64B |
-| 21:30 | USD | Fed's Balance Sheet | 6,994B |  | 7,013B |
-| 24 min | JPY | Household Spending (MoM) (Sep) |  | -0.7% | 2.0% |
-| 24 min | JPY | Household Spending (YoY) (Sep) |  | -1.8% | -1.9% |
+| 08:00 | CHF | SECO Consumer Climate (Q4) |  | -33 | -19 |
+| 09:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
+| 12:00 | BRL | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | CAD | Employment Change (Oct) |  | 27.9K | 46.7K |
+| 13:30 | CAD | Unemployment Rate (Oct) |  | 6.6% | 6.5% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 71.0 | 70.5 |
+| 15:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.1% | 0.5% |
+| 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 19:30 | GBP | CFTC GBP speculative net positions |  |  | 66.4K |
+| 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 151.9K |
+| 19:30 | USD | CFTC Gold speculative net positions |  |  | 278.7K |
+| 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 5.1K |
+| 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | 62.7K |
+| 19:30 | AUD | CFTC AUD speculative net positions |  |  | 27.5K |
+| 19:30 | BRL | CFTC BRL speculative net positions |  |  | -4.3K |
+| 19:30 | JPY | CFTC JPY speculative net positions |  |  | -24.8K |
+| 19:30 | EUR | CFTC EUR speculative net positions |  |  | -50.3K |

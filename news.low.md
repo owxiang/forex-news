@@ -1,47 +1,40 @@
-## 07 November 2024 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) (Sep) | -4.3% |  | -0.6% |
-| 00:30 | AUD | Imports (MoM) (Sep) | -3.1% |  | -0.2% |
-| 00:30 | AUD | Private House Approvals | 2.2% |  | 2.3% |
-| 03:00 | IDR | FX Reserves (USD) (Oct) | 151.20B |  | 149.90B |
-| 03:31 | CNY | Exports (Oct) | 11.20M |  | 1.60M |
-| 03:31 | CNY | Imports (Oct) | -3.70M |  | -0.50M |
-| 03:31 | CNY | Trade Balance (Oct) | 679.10B | 560.00B | 582.62B |
-| 06:00 | ZAR | Foreign Reserves (USD) (Oct) | 63.03B |  | 63.63B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Oct) | 61.197B |  | 61.029B |
-| 07:00 | EUR | German Exports (MoM) (Sep) | -1.7% | -1.4% | 1.2% |
-| 07:00 | EUR | German Imports (MoM) (Sep) | 2.1% | 0.5% | -2.6% |
-| 07:00 | EUR | German Industrial Production (YoY) (Sep) | -4.62% |  | -2.82% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Sep) | -0.8% |  | -1.3% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | -0.1% | 0.0% | 0.0% |
-| 08:00 | CHF | Foreign Reserves (USD) (Oct) | 718.8B |  | 715.7B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Sep) | 0.6% | 0.2% | -0.1% |
-| 08:00 | CNY | FX Reserves (USD) (Oct) | 3.261T | 3.290T | 3.316T |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) | 48.2 |  | 47.8 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Oct) | 40.2 |  | 41.7 |
-| 08:30 | HKD | Foreign Reserves (USD) (Oct) | 421.40B |  | 422.80B |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) | 43.0 |  | 42.1 |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Oct) | 383.7B |  | 389.8B |
-| 09:40 | EUR | Spanish 30-Year Obligacion Auction | 3.877% |  | 3.853% |
-| 09:50 | EUR | Spanish 5-Year Bonos Auction | 2.755% |  | 2.580% |
-| 10:00 | EUR | French 10-Year OAT Auction | 3.24% |  | 2.92% |
-| 10:00 | EUR | French 30-Year OAT Auction | 3.78% |  | 3.55% |
-| 10:00 | EUR | Retail Sales (MoM) (Sep) | 0.5% | 0.4% | 1.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Sep) | 2.9% | 1.3% | 2.4% |
-| 11:00 | CAD | Leading Index (MoM) (Oct) | 0.25% |  | 0.24% |
-| 12:00 | MXN | Core CPI (MoM) (Oct) | 0.28% | 0.33% | 0.28% |
-| 12:00 | MXN | Month Core Inflation (MoM) (Oct) | 3.80% | 3.85% | 3.91% |
-| 12:00 | MXN | PPI (MoM) (Oct) | 0.40% |  | 0.50% |
-| 12:00 | MXN | PPI (YoY) (Oct) | 5.10% |  | 5.10% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 227.25K |  | 237.00K |
-| 15:00 | USD | Wholesale Inventories (MoM) (Sep) | -0.2% | -0.1% | -0.1% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Sep) | 0.3% |  | 0.2% |
-| 15:30 | USD | Natural Gas Storage | 69B | 67B | 78B |
-| 16:30 | USD | 4-Week Bill Auction | 4.515% |  | 4.580% |
-| 16:30 | USD | 8-Week Bill Auction | 4.490% |  | 4.555% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.256T |  | 3.216T |
-| 24 min | JPY | Foreign Bonds Buying |  |  | -889.6B |
-| 24 min | JPY | Foreign Investments in Japanese Stocks |  |  | 8.0B |
-| 44 min | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,254.9B |
+| 02:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | -3.2% |
+| 05:00 | JPY | Leading Index (Sep) |  | 108.9 | 106.9 |
+| 05:00 | JPY | Leading Index (MoM) (Sep) |  |  | -2.4% |
+| 06:45 | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
+| 07:45 | EUR | French Current Account (Sep) |  |  | -0.60B |
+| 07:45 | EUR | French Exports (Sep) |  |  | 49.7B |
+| 07:45 | EUR | French Imports (Sep) |  |  | 57.0B |
+| 07:45 | EUR | French Trade Balance (Sep) |  | -7.0B | -7.4B |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
+| 09:00 | IDR | Motorbike Sales (YoY) (Oct) |  |  | 3.70% |
+| 09:45 | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
+| 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
+| 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 11:30 | INR | FX Reserves, USD |  |  | 684.81B |
+| 12:00 | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
+| 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 4.5% |
+| 13:30 | CAD | Full Employment Change (Oct) |  |  | 112.0K |
+| 13:30 | CAD | Part Time Employment Change (Oct) |  |  | -65.3K |
+| 13:30 | CAD | Participation Rate (Oct) |  |  | 64.9% |
+| 15:00 | USD | Michigan Current Conditions (Nov) |  |  | 64.9 |
+| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
+| 19:30 | USD | CFTC Copper speculative net positions |  |  | 23.7K |
+| 19:30 | USD | CFTC Corn speculative net positions |  |  | 83.3K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -166.2K |
+| 19:30 | USD | CFTC Silver speculative net positions |  |  | 60.4K |
+| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | -92.1K |
+| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -22.9K |
+| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -167.5K |
+| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 35.0K |
+| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -34.0K |
+| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -2.2K |
