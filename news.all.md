@@ -37,9 +37,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 73.0 | 71.0 | 70.5 |
 | 15:00 | USD | Low | Michigan Current Conditions (Nov) | 64.4 |  | 64.9 |
 | 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 66.4K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 23.7K |
