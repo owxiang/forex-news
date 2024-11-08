@@ -13,17 +13,17 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | Low | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -27 | -33 | -19 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
 | 09:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 54 min | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
-| 54 min | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
-| 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 684.81B |
-| 12:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
-| 12:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
+| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
+| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
+| 5 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 25 min | INR | Low | FX Reserves, USD |  |  | 684.81B |
+| 55 min | BRL | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
+| 55 min | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
+| 55 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 4.5% |

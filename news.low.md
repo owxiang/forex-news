@@ -12,14 +12,14 @@
 | 07:45 | EUR | French Imports (Sep) | 56.9B |  | 57.0B |
 | 07:45 | EUR | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
-| 54 min | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
-| 54 min | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
-| 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 11:30 | INR | FX Reserves, USD |  |  | 684.81B |
-| 12:00 | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
-| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
+| 11:00 | EUR | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
+| 11:00 | EUR | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
+| 5 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 25 min | INR | FX Reserves, USD |  |  | 684.81B |
+| 55 min | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
+| 55 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.50% |
 | 13:15 | CAD | Reserve Assets Total (Oct) |  |  | 128.1B |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 4.5% |
 | 13:30 | CAD | Full Employment Change (Oct) |  |  | 112.0K |
