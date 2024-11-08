@@ -6,9 +6,9 @@
 | 09:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.42% |
-| 5 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | CAD | Employment Change (Oct) |  | 27.9K | 46.7K |
-| 13:30 | CAD | Unemployment Rate (Oct) |  | 6.6% | 6.5% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 21 min | CAD | Employment Change (Oct) |  | 27.9K | 46.7K |
+| 21 min | CAD | Unemployment Rate (Oct) |  | 6.6% | 6.5% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
