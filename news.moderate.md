@@ -7,12 +7,12 @@
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.42% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 21 min | CAD | Employment Change (Oct) |  | 27.9K | 46.7K |
-| 21 min | CAD | Unemployment Rate (Oct) |  | 6.6% | 6.5% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 71.0 | 70.5 |
+| 13:30 | CAD | Employment Change (Oct) | 14.5K | 27.9K | 46.7K |
+| 13:30 | CAD | Unemployment Rate (Oct) | 6.5% | 6.6% | 6.5% |
+| 54 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
+| 54 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
+| 54 min | USD | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
+| 54 min | USD | Michigan Consumer Sentiment (Nov) |  | 71.0 | 70.5 |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |

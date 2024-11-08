@@ -13,30 +13,29 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | Low | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -27 | -33 | -19 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
 | 09:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
 | 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | 1.2% | 0.2% | -0.3% |
+| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 0.7% |  | 0.9% |
 | 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD | 682.13B |  | 684.81B |
 | 12:00 | BRL | Moderate | CPI (YoY) (Oct) | 4.76% | 4.72% | 4.42% |
 | 12:00 | BRL | Low | CPI (MoM) (Oct) | 0.56% | 0.53% | 0.44% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.54% |  | 0.50% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 6 min | CAD | Low | Reserve Assets Total (Oct) |  |  | 128.1B |
-| 21 min | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 4.5% |
-| 21 min | CAD | Moderate | Employment Change (Oct) |  | 27.9K | 46.7K |
-| 21 min | CAD | Low | Full Employment Change (Oct) |  |  | 112.0K |
-| 21 min | CAD | Low | Part Time Employment Change (Oct) |  |  | -65.3K |
-| 21 min | CAD | Low | Participation Rate (Oct) |  |  | 64.9% |
-| 21 min | CAD | Moderate | Unemployment Rate (Oct) |  | 6.6% | 6.5% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 71.0 | 70.5 |
-| 15:00 | USD | Low | Michigan Current Conditions (Nov) |  |  | 64.9 |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) | 4.9% |  | 4.5% |
+| 13:30 | CAD | Moderate | Employment Change (Oct) | 14.5K | 27.9K | 46.7K |
+| 13:30 | CAD | Low | Full Employment Change (Oct) | 25.6K |  | 112.0K |
+| 13:30 | CAD | Low | Part Time Employment Change (Oct) | -11.2K |  | -65.3K |
+| 13:30 | CAD | Low | Participation Rate (Oct) | 64.8% |  | 64.9% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Oct) | 6.5% | 6.6% | 6.5% |
+| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
+| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
+| 54 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  |  | 74.1 |
+| 54 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 71.0 | 70.5 |
+| 54 min | USD | Low | Michigan Current Conditions (Nov) |  |  | 64.9 |
 | 16:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
