@@ -13,13 +13,12 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | Low | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -27 | -33 | -19 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
-| 24 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 39 min | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
-| 54 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
-| 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
+| 09:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 54 min | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 54 min | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 684.81B |
 | 12:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
@@ -33,6 +32,7 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Oct) |  |  | -65.3K |
 | 13:30 | CAD | Low | Participation Rate (Oct) |  |  | 64.9% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Oct) |  | 6.6% | 6.5% |
+| 14:00 | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 2.7% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  |  | 74.1 |

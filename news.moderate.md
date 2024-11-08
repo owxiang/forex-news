@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 08:00 | CHF | SECO Consumer Climate (Q4) | -27 | -33 | -19 |
-| 24 min | EUR | ECB McCaul Speaks |  |  |  |
-| 54 min | EUR | EU Leaders Summit |  |  |  |
+| 09:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Oct) |  | 4.72% | 4.42% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | CAD | Employment Change (Oct) |  | 27.9K | 46.7K |

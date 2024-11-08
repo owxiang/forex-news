@@ -12,11 +12,10 @@
 | 07:45 | EUR | French Imports (Sep) | 56.9B |  | 57.0B |
 | 07:45 | EUR | French Reserve Assets Total (Oct) | 276,255.0M |  | 260,783.0M |
 | 07:45 | EUR | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Sep) | -4.0% |  | -3.2% |
-| 39 min | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
-| 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
-| 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) | -0.4% | -0.4% | 0.0% |
+| 54 min | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 54 min | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 684.81B |
 | 12:00 | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
@@ -26,6 +25,7 @@
 | 13:30 | CAD | Full Employment Change (Oct) |  |  | 112.0K |
 | 13:30 | CAD | Part Time Employment Change (Oct) |  |  | -65.3K |
 | 13:30 | CAD | Participation Rate (Oct) |  |  | 64.9% |
+| 14:00 | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
 | 15:00 | USD | Michigan Current Conditions (Nov) |  |  | 64.9 |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 23.7K |
