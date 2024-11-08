@@ -15,14 +15,14 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) | 73.0 | 71.0 | 70.5 |
 | 16:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
-| 19:30 | GBP | CFTC GBP speculative net positions |  |  | 66.4K |
-| 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 151.9K |
-| 19:30 | USD | CFTC Gold speculative net positions |  |  | 278.7K |
-| 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 5.1K |
-| 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | 62.7K |
-| 19:30 | AUD | CFTC AUD speculative net positions |  |  | 27.5K |
-| 19:30 | BRL | CFTC BRL speculative net positions |  |  | -4.3K |
-| 19:30 | JPY | CFTC JPY speculative net positions |  |  | -24.8K |
-| 19:30 | EUR | CFTC EUR speculative net positions |  |  | -50.3K |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 479 |  | 479 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 585 |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | 66.4K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 151.9K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 278.7K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 5.1K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | 62.7K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | 27.5K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | -4.3K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | -24.8K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | -50.3K |
