@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 18 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | -3.2% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Sep) |  |  | -2.4% |
 | 05:00 | JPY | Low | Leading Index (Sep) |  | 108.9 | 106.9 |
@@ -18,8 +18,8 @@
 | 09:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 09:45 | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 11:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:10 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 684.81B |
 | 12:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.53% | 0.44% |

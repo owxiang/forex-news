@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 02:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 05:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | -3.2% |
 | 05:00 | JPY | Leading Index (MoM) (Sep) |  |  | -2.4% |
 | 05:00 | JPY | Leading Index (Sep) |  | 108.9 | 106.9 |
@@ -15,8 +15,8 @@
 | 09:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
 | 09:00 | IDR | Motorbike Sales (YoY) (Oct) |  |  | 3.70% |
 | 09:45 | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
-| 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 684.81B |
 | 12:00 | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
