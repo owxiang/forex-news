@@ -6,17 +6,17 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Sep) | 1.7% |  | -3.2% |
 | 05:00 | JPY | Leading Index (MoM) (Sep) | 2.5% |  | -2.4% |
 | 05:00 | JPY | Leading Index (Sep) | 109.4 | 108.9 | 106.9 |
-| 40 min | EUR | French Current Account (Sep) |  |  | -0.60B |
-| 40 min | EUR | French Exports (Sep) |  |  | 49.7B |
-| 40 min | EUR | French Imports (Sep) |  |  | 57.0B |
-| 40 min | EUR | French Trade Balance (Sep) |  | -7.0B | -7.4B |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
-| 09:00 | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
-| 09:00 | IDR | Motorbike Sales (YoY) (Oct) |  |  | 3.70% |
+| 07:40 | IDR | Motorbike Sales (YoY) (Oct) | 5.40% |  | 3.70% |
+| 07:45 | EUR | French Current Account (Sep) | -2.10B |  | -1.20B |
+| 07:45 | EUR | French Exports (Sep) | 48.6B |  | 49.3B |
+| 07:45 | EUR | French Imports (Sep) | 56.9B |  | 57.0B |
+| 07:45 | EUR | French Trade Balance (Sep) | -8.3B | -7.0B | -7.7B |
+| 52 min | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -3.2% |
+| 52 min | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.4% | 0.1% |
+| 52 min | EUR | French Reserve Assets Total (Oct) |  |  | 260,783.0M |
 | 09:45 | IDR | Car Sales (YoY) (Oct) |  |  | -9.10% |
-| 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 0.8% |
+| 11:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | 0.2% | -0.5% |
 | 11:10 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 11:30 | INR | FX Reserves, USD |  |  | 684.81B |
 | 12:00 | BRL | CPI (MoM) (Oct) |  | 0.53% | 0.44% |
