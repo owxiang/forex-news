@@ -1,9 +1,8 @@
-## 09 November 2024 - All Forex News
+## 10 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CNY | Moderate | CPI (MoM) (Oct) | -0.3% |  | 0.0% |
-| 01:30 | CNY | Moderate | CPI (YoY) (Oct) | 0.3% | 0.3% | 0.4% |
-| 01:30 | CNY | Moderate | PPI (YoY) (Oct) | -2.9% | -2.5% | -2.8% |
-| 09:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 15:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:50 | JPY | Moderate | Adjusted Current Account (Sep) |  | 2.80T | 301.65T |
+| 23:50 | JPY | Low | Bank Lending (YoY) (Oct) |  | 2.7% | 2.7% |
+| 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 23:50 | JPY | Moderate | Current Account n.s.a. (Sep) |  |  | 3.804T |
