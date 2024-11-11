@@ -10,6 +10,9 @@
 | 07:00 | NOK | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Oct) | 0.6% |  | 0.3% |
 | 07:00 | NOK | PPI (YoY) (Oct) | -3.5% |  | -2.9% |
+| 08:32 | CNY | M2 Money Stock (YoY) (Oct) | 7.5% |  | 6.8% |
+| 08:38 | CNY | Outstanding Loan Growth (YoY) (Oct) | 8.0% |  | 8.1% |
+| 08:40 | CNY | Chinese Total Social Financing (Oct) | 1,400.0B |  | 3,760.0B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 11:30 | BRL | Budget Balance (Sep) |  | -66.800B | -90.381B |

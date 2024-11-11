@@ -11,7 +11,11 @@
 | 07:00 | NOK | Low | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
 | 07:00 | NOK | Low | CPI (MoM) (Oct) | 0.6% |  | 0.3% |
 | 07:00 | NOK | Low | PPI (YoY) (Oct) | -3.5% |  | -2.9% |
-| 1 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 08:32 | CNY | Low | M2 Money Stock (YoY) (Oct) | 7.5% |  | 6.8% |
+| 08:38 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) | 8.0% |  | 8.1% |
+| 08:38 | CNY | Moderate | New Loans (Oct) | 500.0B |  | 1,590.0B |
+| 08:40 | CNY | Low | Chinese Total Social Financing (Oct) | 1,400.0B |  | 3,760.0B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 11:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
@@ -25,8 +29,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
 | 23:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |
