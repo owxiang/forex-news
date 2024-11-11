@@ -6,11 +6,11 @@
 | 04:00 | IDR | Low | Car Sales (YoY) (Oct) | -3.90% |  | -9.10% |
 | 04:00 | IDR | Low | Consumer Confidence (Oct) | 121.1 |  | 123.5 |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.5 | 47.2 | 49.0 |
-| 51 min | NOK | Low | Core CPI YTD (Oct) |  |  | 3.1% |
-| 51 min | NOK | Low | Core Inflation (MoM) (Oct) |  |  | 0.3% |
-| 51 min | NOK | Low | CPI (MoM) (Oct) |  |  | 0.3% |
-| 51 min | NOK | Low | CPI (YoY) (Oct) |  |  | 3.0% |
-| 51 min | NOK | Low | PPI (YoY) (Oct) |  |  | -2.9% |
+| 07:00 | NOK | Low | Core CPI YTD (Oct) | 2.7% |  | 3.1% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Oct) | 0.2% |  | 0.3% |
+| 07:00 | NOK | Low | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Oct) | 0.6% |  | 0.3% |
+| 07:00 | NOK | Low | PPI (YoY) (Oct) | -3.5% |  | -2.9% |
 | 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
