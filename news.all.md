@@ -8,8 +8,8 @@
 | 05:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.5 | 47.2 | 49.0 |
 | 07:00 | NOK | Low | Core CPI YTD (Oct) | 2.7% |  | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Oct) | 0.2% |  | 0.3% |
-| 07:00 | NOK | Low | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
 | 07:00 | NOK | Low | CPI (MoM) (Oct) | 0.6% |  | 0.3% |
+| 07:00 | NOK | Low | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
 | 07:00 | NOK | Low | PPI (YoY) (Oct) | -3.5% |  | -2.9% |
 | 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) | 7.5% | 7.0% | 6.8% |
@@ -28,6 +28,6 @@
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) | 0.6% |  | 0.1% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) | -1.1% |  | -5.6% |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
-| 23:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |
+| 24 min | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
+| 44 min | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
+| 44 min | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |

@@ -7,8 +7,8 @@
 | 05:00 | JPY | Economy Watchers Current Index (Sep) | 47.5 | 47.2 | 49.0 |
 | 07:00 | NOK | Core CPI YTD (Oct) | 2.7% |  | 3.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Oct) | 0.2% |  | 0.3% |
-| 07:00 | NOK | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Oct) | 0.6% |  | 0.3% |
+| 07:00 | NOK | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
 | 07:00 | NOK | PPI (YoY) (Oct) | -3.5% |  | -2.9% |
 | 08:30 | CNY | M2 Money Stock (YoY) (Oct) | 7.5% | 7.0% | 6.8% |
 | 08:30 | CNY | Outstanding Loan Growth (YoY) (Oct) | 8.0% | 8.0% | 8.1% |
@@ -22,6 +22,6 @@
 | 12:00 | MXN | Industrial Production (MoM) (Sep) | 0.6% |  | -0.4% |
 | 12:00 | MXN | Industrial Production (YoY) (Sep) | -0.4% |  | -0.4% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Oct) | -1.1% |  | -5.6% |
-| 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
-| 23:50 | JPY | M3 Money Supply (Oct) |  |  | 2,181.3B |
+| 24 min | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
+| 44 min | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
+| 44 min | JPY | M3 Money Supply (Oct) |  |  | 2,181.3B |
