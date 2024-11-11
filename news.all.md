@@ -11,7 +11,7 @@
 | 07:00 | NOK | Low | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
 | 07:00 | NOK | Low | CPI (MoM) (Oct) | 0.6% |  | 0.3% |
 | 07:00 | NOK | Low | PPI (YoY) (Oct) | -3.5% |  | -2.9% |
-| 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 1 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
 | 11:30 | BRL | Low | Budget Balance (Sep) |  | -66.800B | -90.381B |
