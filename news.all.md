@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.0% |
+| 02:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.1% |  | 2.0% |
 | 04:00 | IDR | Low | Consumer Confidence (Oct) |  |  | 123.5 |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Oct) |  | 47.2 | 47.8 |
 | 07:00 | NOK | Low | Core CPI YTD (Oct) |  |  | 3.1% |
