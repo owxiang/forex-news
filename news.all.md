@@ -25,12 +25,12 @@
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) | 48.9 |  | 46.6 |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Sep) | 0.6% |  | -0.4% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Sep) | -0.4% |  | -0.4% |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
+| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
 | 23:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |
