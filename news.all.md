@@ -3,13 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.1% |  | 2.0% |
+| 04:00 | IDR | Low | Car Sales (YoY) (Oct) | -3.90% |  | -9.10% |
 | 04:00 | IDR | Low | Consumer Confidence (Oct) | 121.1 |  | 123.5 |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.5 | 47.2 | 49.0 |
-| 07:00 | NOK | Low | Core CPI YTD (Oct) |  |  | 3.1% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Oct) |  |  | 0.3% |
-| 07:00 | NOK | Low | CPI (YoY) (Oct) |  |  | 3.0% |
-| 07:00 | NOK | Low | CPI (MoM) (Oct) |  |  | 0.3% |
-| 07:00 | NOK | Low | PPI (YoY) (Oct) |  |  | -2.9% |
+| 51 min | NOK | Low | Core CPI YTD (Oct) |  |  | 3.1% |
+| 51 min | NOK | Low | Core Inflation (MoM) (Oct) |  |  | 0.3% |
+| 51 min | NOK | Low | CPI (MoM) (Oct) |  |  | 0.3% |
+| 51 min | NOK | Low | CPI (YoY) (Oct) |  |  | 3.0% |
+| 51 min | NOK | Low | PPI (YoY) (Oct) |  |  | -2.9% |
 | 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 62.0% |
@@ -23,7 +24,6 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
-| 14:00 | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
