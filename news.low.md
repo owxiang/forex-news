@@ -21,7 +21,7 @@
 | 12:00 | MXN | Consumer Confidence n.s.a. (Oct) | 48.9 |  | 46.6 |
 | 12:00 | MXN | Industrial Production (MoM) (Sep) | 0.6% |  | -0.4% |
 | 12:00 | MXN | Industrial Production (YoY) (Sep) | -0.4% |  | -0.4% |
-| 39 min | NZD | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
+| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Oct) | -1.1% |  | -5.6% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
 | 23:50 | JPY | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
 | 23:50 | JPY | M3 Money Supply (Oct) |  |  | 2,181.3B |
