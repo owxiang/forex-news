@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | IDR | Consumer Confidence (Oct) | 121.1 |  | 123.5 |
-| 52 min | JPY | Economy Watchers Current Index (Oct) |  | 47.2 | 47.8 |
+| 05:00 | JPY | Economy Watchers Current Index (Sep) | 47.5 | 47.2 | 49.0 |
 | 07:00 | NOK | Core CPI YTD (Oct) |  |  | 3.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Oct) |  |  | 0.3% |
 | 07:00 | NOK | CPI (YoY) (Oct) |  |  | 3.0% |

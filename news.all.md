@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.1% |  | 2.0% |
 | 04:00 | IDR | Low | Consumer Confidence (Oct) | 121.1 |  | 123.5 |
-| 52 min | JPY | Low | Economy Watchers Current Index (Oct) |  | 47.2 | 47.8 |
+| 05:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.5 | 47.2 | 49.0 |
 | 07:00 | NOK | Low | Core CPI YTD (Oct) |  |  | 3.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Oct) |  |  | 0.3% |
 | 07:00 | NOK | Low | CPI (YoY) (Oct) |  |  | 3.0% |
@@ -25,8 +25,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
 | 14:00 | IDR | Low | Car Sales (YoY) (Oct) |  |  | -9.10% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
+| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
 | 23:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |
