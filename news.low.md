@@ -2,7 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | IDR | Consumer Confidence (Oct) |  |  | 123.5 |
+| 50 min | IDR | Consumer Confidence (Oct) | 121.1 |  | 123.5 |
+| 50 min | IDR | Motorbike Sales (YoY) (Sep) | 5.40% |  | 7.40% |
 | 05:00 | JPY | Economy Watchers Current Index (Oct) |  | 47.2 | 47.8 |
 | 07:00 | NOK | Core CPI YTD (Oct) |  |  | 3.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Oct) |  |  | 0.3% |
@@ -15,8 +16,8 @@
 | 11:30 | BRL | Budget Surplus (Sep) |  |  | -21.425B |
 | 12:00 | MXN | Consumer Confidence (Oct) |  |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Oct) |  |  | 46.6 |
-| 12:00 | MXN | Industrial Production (MoM) (Sep) |  |  | -0.5% |
 | 12:00 | MXN | Industrial Production (YoY) (Sep) |  |  | -0.9% |
+| 12:00 | MXN | Industrial Production (MoM) (Sep) |  |  | -0.5% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.647% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.085% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.892% |
