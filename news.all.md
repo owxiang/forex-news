@@ -29,8 +29,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
+| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
 | 23:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |
