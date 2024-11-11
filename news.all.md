@@ -26,8 +26,8 @@
 | 12:00 | MXN | Low | Industrial Production (MoM) (Sep) | 0.6% |  | -0.4% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Sep) | -0.4% |  | -0.4% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
+| 39 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | 0.0% |
+| 39 min | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | -5.6% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
 | 23:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |
