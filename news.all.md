@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Oct) | 26.7K | 30.5K | 10.1K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | 219K |  | 373K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 4.3% | 4.1% | 4.0% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 2.0% | 1.6% |
 | 07:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 2.0% | 1.6% |
 | 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
@@ -34,14 +34,14 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) | -0.8% |  | -0.8% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) | 0.0% |  | -0.7% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 2.1% | 3.6% | 5.1% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | 0.5% | 1.1% | -0.3% |
-| 50 min | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.0% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 2.1% | 3.6% | 5.3% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | 0.5% | 1.1% | -0.2% |
+| 20 min | CAD | Moderate | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
+| 35 min | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
+| 45 min | USD | Low | Redbook (YoY) |  |  | 6.0% |
+| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
+| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
+| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
 | 15:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
 | 15:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

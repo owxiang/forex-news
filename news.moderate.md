@@ -14,9 +14,9 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Nov) | 12.5 | 20.5 | 20.1 |
 | 10:30 | INR | CPI (YoY) (Oct) | 6.21% | 5.81% | 5.49% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Retail Sales (YoY) (Sep) | 2.1% | 3.6% | 5.1% |
-| 12:00 | BRL | Retail Sales (MoM) (Sep) | 0.5% | 1.1% | -0.3% |
-| 13:30 | CAD | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
+| 12:00 | BRL | Retail Sales (YoY) (Sep) | 2.1% | 3.6% | 5.3% |
+| 12:00 | BRL | Retail Sales (MoM) (Sep) | 0.5% | 1.1% | -0.2% |
+| 20 min | CAD | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.0% |
 | 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
