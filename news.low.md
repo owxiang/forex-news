@@ -6,8 +6,8 @@
 | 04:00 | IDR | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
 | 06:00 | JPY | Machine Tool Orders (YoY) | 9.3% |  | -6.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.8% | 4.7% | 4.9% |
-| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
+| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 09:30 | ZAR | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
 | 09:30 | ZAR | Unemployment (Q3) | 8.011M |  | 8.384M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 2.716% |  | 3.054% |
@@ -21,7 +21,7 @@
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Sep) | -0.8% |  | -0.8% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Sep) | 0.0% |  | -0.7% |
-| 13:00 | EUR | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
+| 50 min | EUR | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.0% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.647% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.085% |

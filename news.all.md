@@ -13,8 +13,8 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 4.3% | 4.1% | 4.0% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 2.0% | 1.6% |
 | 07:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
-| 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 09:30 | ZAR | Low | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
 | 09:30 | ZAR | Low | Unemployment (Q3) | 8.011M |  | 8.384M |
@@ -33,10 +33,10 @@
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) | -0.8% |  | -0.8% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) | 0.0% |  | -0.7% |
-| 54 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 54 min | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 1.1% | -0.3% |
-| 54 min | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
-| 13:00 | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 2.1% | 3.6% | 5.1% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | 0.5% | 1.1% | -0.3% |
+| 50 min | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.0% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
