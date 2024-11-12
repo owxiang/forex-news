@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | AUD | NAB Business Confidence (Oct) |  |  | -2 |
+| 00:30 | AUD | NAB Business Confidence (Oct) | 5 |  | -2 |
 | 07:00 | GBP | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
 | 07:00 | GBP | Claimant Count Change (Oct) |  | 30.5K | 27.9K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Sep) |  |  | 373K |
@@ -14,8 +14,8 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Nov) |  | 20.5 | 20.1 |
 | 10:30 | INR | CPI (YoY) (Oct) |  | 5.81% | 5.49% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
 | 12:00 | BRL | Retail Sales (MoM) (Sep) |  | 1.1% | -0.3% |
+| 12:00 | BRL | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
 | 13:30 | CAD | Building Permits (MoM) (Sep) |  | -1.1% | -7.0% |
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.0% |
