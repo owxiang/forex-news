@@ -11,10 +11,10 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Oct) | 26.7K | 30.5K | 10.1K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | 219K |  | 373K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 4.3% | 4.1% | 4.0% |
-| 07:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 2.0% | 1.6% |
-| 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
+| 07:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
 | 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 09:30 | ZAR | Low | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
 | 09:30 | ZAR | Low | Unemployment (Q3) | 8.011M |  | 8.384M |
@@ -48,8 +48,8 @@
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) | 2.9% |  | 3.0% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.420% |  | 4.440% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.260% |
-| 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 53 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 53 min | USD | Low | Loan Officer Survey |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Oct) |  |  | 1.2% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Oct) |  |  | -3.3% |
 | 21:45 | NZD | Low | External Migration & Visitors (Sep) |  |  | 3.60% |
@@ -59,5 +59,5 @@
 | 22:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
 | 23:50 | JPY | Low | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
+| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |

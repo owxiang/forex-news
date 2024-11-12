@@ -19,5 +19,5 @@
 | 13:30 | CAD | Building Permits (MoM) (Sep) | 11.5% | 2.9% | -6.3% |
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) | 2.9% |  | 3.0% |
-| 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 53 min | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 22:00 | USD | FOMC Member Harker Speaks |  |  |  |
