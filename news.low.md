@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Survey (Oct) | 7 |  | 7 |
-| 04:00 | IDR | Retail Sales (YoY) (Sep) |  |  | 5.8% |
+| 03:00 | IDR | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
 | 06:00 | JPY | Machine Tool Orders (YoY) |  |  | -6.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
 | 07:00 | EUR | German HICP (MoM) (Oct) |  | 0.4% | -0.1% |

@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | NAB Business Confidence (Oct) | 5 |  | -2 |
 | 00:30 | AUD | Low | NAB Business Survey (Oct) | 7 |  | 7 |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Sep) |  |  | 5.8% |
+| 03:00 | IDR | Low | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -6.5% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
