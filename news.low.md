@@ -6,21 +6,21 @@
 | 04:00 | IDR | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
 | 06:00 | JPY | Machine Tool Orders (YoY) | 9.3% |  | -6.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.8% | 4.7% | 4.9% |
-| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
-| 24 min | ZAR | Unemployment Rate (Q3) |  |  | 33.50% |
-| 24 min | ZAR | Unemployment (Q3) |  |  | 8.384M |
-| 34 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.054% |
-| 54 min | GBP | 20-Year Treasury Gilt Auction |  |  | 4.421% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.859% |
-| 10:30 | INR | Cumulative Industrial Production (Sep) |  |  | 4.20% |
-| 10:30 | INR | Industrial Production (YoY) (Sep) |  | 2.5% | -0.1% |
-| 10:30 | INR | Manufacturing Output (MoM) (Sep) |  |  | 1.0% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.160% |
-| 11:00 | USD | NFIB Small Business Optimism (Oct) |  | 91.9 | 91.5 |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Sep) |  |  | -0.6% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Sep) |  |  | -1.2% |
+| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 09:30 | ZAR | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
+| 09:30 | ZAR | Unemployment (Q3) | 8.011M |  | 8.384M |
+| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.716% |  | 3.054% |
+| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.421% |
+| 4 min | EUR | Italian 12-Month BOT Auction |  |  | 2.859% |
+| 24 min | INR | Cumulative Industrial Production (Sep) |  |  | 4.20% |
+| 24 min | INR | Industrial Production (YoY) (Sep) |  | 2.5% | -0.1% |
+| 24 min | INR | Manufacturing Output (MoM) (Sep) |  |  | 1.0% |
+| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.160% |
+| 54 min | USD | NFIB Small Business Optimism (Oct) |  | 91.9 | 91.5 |
+| 54 min | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 54 min | ZAR | Manufacturing Production (YoY) (Sep) |  |  | -1.2% |
+| 54 min | ZAR | Manufacturing Production (MoM) (Sep) |  |  | -0.6% |
 | 13:00 | EUR | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.0% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.647% |
@@ -39,5 +39,5 @@
 | 22:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
 | 23:50 | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
+| 23:50 | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |

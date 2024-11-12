@@ -13,29 +13,29 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 4.3% | 4.1% | 4.0% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 2.0% | 1.6% |
 | 07:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
-| 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 24 min | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.50% |
-| 24 min | ZAR | Low | Unemployment (Q3) |  |  | 8.384M |
-| 34 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.054% |
-| 54 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.421% |
-| 54 min | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -86.0 | -86.9 |
-| 54 min | EUR | Moderate | German ZEW Economic Sentiment (Nov) |  | 13.2 | 13.1 |
-| 54 min | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 20.5 | 20.1 |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.859% |
-| 10:30 | INR | Moderate | CPI (YoY) (Oct) |  | 5.81% | 5.49% |
-| 10:30 | INR | Low | Cumulative Industrial Production (Sep) |  |  | 4.20% |
-| 10:30 | INR | Low | Industrial Production (YoY) (Sep) |  | 2.5% | -0.1% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Sep) |  |  | 1.0% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.160% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Oct) |  | 91.9 | 91.5 |
-| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | -0.6% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.2% |
+| 09:30 | ZAR | Low | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
+| 09:30 | ZAR | Low | Unemployment (Q3) | 8.011M |  | 8.384M |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 2.716% |  | 3.054% |
+| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.421% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Nov) | -91.4 | -86.0 | -86.9 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) | 7.4 | 13.2 | 13.1 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) | 12.5 | 20.5 | 20.1 |
+| 4 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.859% |
+| 24 min | INR | Moderate | CPI (YoY) (Oct) |  | 5.81% | 5.49% |
+| 24 min | INR | Low | Cumulative Industrial Production (Sep) |  |  | 4.20% |
+| 24 min | INR | Low | Industrial Production (YoY) (Sep) |  | 2.5% | -0.1% |
+| 24 min | INR | Low | Manufacturing Output (MoM) (Sep) |  |  | 1.0% |
+| 24 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.160% |
+| 54 min | USD | Low | NFIB Small Business Optimism (Oct) |  | 91.9 | 91.5 |
+| 54 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 54 min | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.2% |
+| 54 min | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | -0.6% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 1.1% | -0.3% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.0% |
@@ -59,5 +59,5 @@
 | 22:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | Low | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
 | 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
+| 23:50 | JPY | Low | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
