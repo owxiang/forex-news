@@ -5,16 +5,16 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Oct) | 5 |  | -2 |
 | 00:30 | AUD | Low | NAB Business Survey (Oct) | 7 |  | 7 |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -6.5% |
+| 54 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -6.5% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 30.5K | 27.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | 373K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.1% | 4.0% |
-| 07:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.4% | 0.0% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.0% | 1.6% |
-| 07:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
+| 07:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.4% | 0.0% |
 | 07:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.4% | -0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 09:30 | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.50% |
 | 09:30 | ZAR | Low | Unemployment (Q3) |  |  | 8.384M |
@@ -37,7 +37,7 @@
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 1.1% | -0.3% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -1.1% | -7.0% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.0% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |

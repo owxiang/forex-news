@@ -16,7 +16,7 @@
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Retail Sales (MoM) (Sep) |  | 1.1% | -0.3% |
 | 12:00 | BRL | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
-| 13:30 | CAD | Building Permits (MoM) (Sep) |  | -1.1% | -7.0% |
+| 13:30 | CAD | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.0% |
 | 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
