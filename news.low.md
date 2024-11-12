@@ -33,11 +33,11 @@
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:00 | KRW | Export Price Index (YoY) (Oct) | 2.0% |  | 1.0% |
 | 21:00 | KRW | Import Price Index (YoY) (Oct) | -2.5% |  | -3.7% |
-| 39 min | NZD | External Migration & Visitors (Sep) |  |  | 3.60% |
-| 39 min | NZD | Permanent/Long-Term Migration (Sep) |  |  | 1,840 |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | -4.3% |
-| 22:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 23:00 | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
+| 21:45 | NZD | External Migration & Visitors (Sep) | 0.90% |  | 3.60% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Sep) | 2,310 |  | 2,010 |
+| 21:45 | NZD | Visitor Arrivals (MoM) |  |  | -4.3% |
+| 25 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 55 min | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
 | 23:50 | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
 | 23:50 | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |

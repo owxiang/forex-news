@@ -20,4 +20,4 @@
 | 15:00 | USD | Fed Waller Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Oct) | 2.9% |  | 3.0% |
 | 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 54 min | USD | FOMC Member Harker Speaks |  |  |  |
+| 22:00 | USD | FOMC Member Harker Speaks |  |  |  |
