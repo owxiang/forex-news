@@ -6,8 +6,8 @@
 | 04:00 | IDR | Retail Sales (YoY) (Sep) |  |  | 5.8% |
 | 06:00 | JPY | Machine Tool Orders (YoY) |  |  | -6.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
-| 07:00 | EUR | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
 | 07:00 | EUR | German HICP (MoM) (Oct) |  | 0.4% | -0.1% |
+| 07:00 | EUR | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
 | 09:30 | ZAR | Unemployment Rate (Q3) |  |  | 33.50% |
 | 09:30 | ZAR | Unemployment (Q3) |  |  | 8.384M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.054% |
@@ -39,5 +39,5 @@
 | 22:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
 | 23:50 | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
+| 23:50 | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
