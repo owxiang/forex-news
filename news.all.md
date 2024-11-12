@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Oct) | 26.7K | 30.5K | 10.1K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | 219K |  | 373K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Sep) | 4.3% | 4.1% | 4.0% |
-| 07:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Oct) | 2.0% | 2.0% | 1.6% |
+| 07:00 | EUR | High | German CPI (MoM) (Oct) | 0.4% | 0.4% | 0.0% |
 | 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
@@ -54,10 +54,10 @@
 | 21:00 | KRW | Low | Import Price Index (YoY) (Oct) | -2.5% |  | -3.7% |
 | 21:45 | NZD | Low | External Migration & Visitors (Sep) | 0.90% |  | 3.60% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Sep) | 2,310 |  | 2,010 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -4.3% |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) | 1.1% |  | -2.1% |
 | 22:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 25 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 55 min | KRW | Low | Unemployment Rate (Oct) |  |  | 2.5% |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
-| 23:50 | JPY | Low | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
+| 22:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 23:00 | KRW | Low | Unemployment Rate (Oct) | 2.7% |  | 2.5% |
+| 24 min | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
+| 44 min | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
+| 44 min | JPY | Low | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
