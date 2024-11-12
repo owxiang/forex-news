@@ -6,8 +6,8 @@
 | 04:00 | IDR | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
 | 06:00 | JPY | Machine Tool Orders (YoY) | 9.3% |  | -6.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.8% | 4.7% | 4.9% |
-| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
+| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 09:30 | ZAR | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
 | 09:30 | ZAR | Unemployment (Q3) | 8.011M |  | 8.384M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 2.716% |  | 3.054% |
@@ -31,13 +31,13 @@
 | 16:30 | USD | 3-Month Bill Auction | 4.420% |  | 4.440% |
 | 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.260% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
-| 54 min | KRW | Export Price Index (YoY) (Oct) |  |  | 1.2% |
-| 54 min | KRW | Import Price Index (YoY) (Oct) |  |  | -3.3% |
-| 21:45 | NZD | External Migration & Visitors (Sep) |  |  | 3.60% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Sep) |  |  | 1,840 |
-| 21:45 | NZD | Visitor Arrivals (MoM) |  |  | -4.3% |
+| 21:00 | KRW | Export Price Index (YoY) (Oct) | 2.0% |  | 1.0% |
+| 21:00 | KRW | Import Price Index (YoY) (Oct) | -2.5% |  | -3.7% |
+| 39 min | NZD | External Migration & Visitors (Sep) |  |  | 3.60% |
+| 39 min | NZD | Permanent/Long-Term Migration (Sep) |  |  | 1,840 |
+| 39 min | NZD | Visitor Arrivals (MoM) |  |  | -4.3% |
 | 22:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
 | 23:50 | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
+| 23:50 | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
