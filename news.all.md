@@ -1,33 +1,63 @@
-## 11 November 2024 - All Forex News
+## 12 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.1% |  | 2.0% |
-| 04:00 | IDR | Low | Car Sales (YoY) (Oct) | -3.90% |  | -9.10% |
-| 04:00 | IDR | Low | Consumer Confidence (Oct) | 121.1 |  | 123.5 |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Sep) | 47.5 | 47.2 | 49.0 |
-| 07:00 | NOK | Low | Core CPI YTD (Oct) | 2.7% |  | 3.1% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Oct) | 0.2% |  | 0.3% |
-| 07:00 | NOK | Low | CPI (MoM) (Oct) | 0.6% |  | 0.3% |
-| 07:00 | NOK | Low | CPI (YoY) (Oct) | 2.6% |  | 3.0% |
-| 07:00 | NOK | Low | PPI (YoY) (Oct) | -3.5% |  | -2.9% |
-| 08:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 08:30 | CNY | Low | M2 Money Stock (YoY) (Oct) | 7.5% | 7.0% | 6.8% |
-| 08:30 | CNY | Moderate | New Loans (Oct) | 500.0B | 770.0B | 1,590.0B |
-| 08:30 | CNY | Low | Outstanding Loan Growth (YoY) (Oct) | 8.0% | 8.0% | 8.1% |
-| 08:30 | CNY | Low | Chinese Total Social Financing (Oct) | 1,400.0B | 1,545.0B | 3,760.0B |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) | 62.4% |  | 62.0% |
-| 11:30 | BRL | Low | Budget Balance (Sep) | -53.767B | -66.800B | -90.381B |
-| 11:30 | BRL | Low | Budget Surplus (Sep) | -7.340B |  | -21.425B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) | 78.3% | 78.9% | 78.5% |
-| 12:00 | MXN | Low | Consumer Confidence (Oct) | 49.4 |  | 47.4 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Oct) | 48.9 |  | 46.6 |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Sep) | 0.6% |  | -0.4% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Sep) | -0.4% |  | -0.4% |
-| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) | 0.6% |  | 0.1% |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) | -1.1% |  | -5.6% |
-| 24 min | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 44 min | JPY | Low | M2 Money Stock (YoY) |  | 1.5% | 1.3% |
-| 44 min | JPY | Low | M3 Money Supply (Oct) |  |  | 2,181.3B |
+| 5 min | AUD | Moderate | NAB Business Confidence (Oct) |  |  | -2 |
+| 5 min | AUD | Low | NAB Business Survey (Oct) |  |  | 7 |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Sep) |  |  | 5.8% |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -6.5% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 30.5K | 27.9K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | 373K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.1% | 4.0% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.0% | 1.6% |
+| 07:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.4% | 0.0% |
+| 07:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.4% | -0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
+| 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 09:30 | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.50% |
+| 09:30 | ZAR | Low | Unemployment (Q3) |  |  | 8.384M |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.054% |
+| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.421% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -86.0 | -86.9 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) |  | 13.2 | 13.1 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 20.5 | 20.1 |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.859% |
+| 10:30 | INR | Moderate | CPI (YoY) (Oct) |  | 5.81% | 5.49% |
+| 10:30 | INR | Low | Cumulative Industrial Production (Sep) |  |  | 4.20% |
+| 10:30 | INR | Low | Industrial Production (YoY) (Sep) |  | 2.5% | -0.1% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Sep) |  |  | 1.0% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.160% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Oct) |  | 91.9 | 91.5 |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.2% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | -0.6% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 1.1% | -0.3% |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -1.1% | -7.0% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.0% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
+| 15:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
+| 15:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.0% |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.440% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.260% |
+| 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Oct) |  |  | 1.2% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Oct) |  |  | -3.3% |
+| 21:45 | NZD | Low | External Migration & Visitors (Sep) |  |  | 3.60% |
+| 21:45 | NZD | Low | Permanent/Long-Term Migration (Sep) |  |  | 1,840 |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -4.3% |
+| 22:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 22:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 23:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.5% |
+| 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
+| 23:50 | JPY | Low | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
+| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
