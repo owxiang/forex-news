@@ -21,11 +21,11 @@
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Sep) | -0.8% |  | -0.8% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Sep) | 0.0% |  | -0.7% |
-| 35 min | EUR | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
-| 45 min | USD | Redbook (YoY) |  |  | 6.0% |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.647% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.085% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.892% |
+| 13:45 | EUR | German Current Account Balance n.s.a (Sep) | 22.6B |  | 17.1B |
+| 13:55 | USD | Redbook (YoY) | 4.8% |  | 6.0% |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.647% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.085% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.892% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
 | 15:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.440% |

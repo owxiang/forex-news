@@ -34,15 +34,15 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) | -0.8% |  | -0.8% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) | 0.0% |  | -0.7% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 2.1% | 3.6% | 5.3% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | 0.5% | 1.1% | -0.2% |
-| 20 min | CAD | Moderate | Building Permits (MoM) (Sep) |  | 2.9% | -7.0% |
-| 35 min | EUR | Low | German Current Account Balance n.s.a (Sep) |  |  | 14.4B |
-| 45 min | USD | Low | Redbook (YoY) |  |  | 6.0% |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
-| 15:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 2.1% | 3.6% | 5.3% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Sep) | 11.5% | 2.9% | -6.3% |
+| 13:45 | EUR | Low | German Current Account Balance n.s.a (Sep) | 22.6B |  | 17.1B |
+| 13:55 | USD | Low | Redbook (YoY) | 4.8% |  | 6.0% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.647% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.085% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.892% |
+| 54 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
 | 15:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.0% |
