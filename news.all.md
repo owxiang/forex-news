@@ -5,16 +5,16 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Oct) | 5 |  | -2 |
 | 00:30 | AUD | Low | NAB Business Survey (Oct) | 7 |  | 7 |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
-| 54 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -6.5% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 30.5K | 27.9K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | 373K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.1% | 4.0% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.0% | 1.6% |
-| 07:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.4% | 0.0% |
-| 07:00 | EUR | Low | German HICP (MoM) (Oct) |  | 0.4% | -0.1% |
-| 07:00 | EUR | Low | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) | 9.3% |  | -6.5% |
+| 51 min | GBP | Low | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
+| 51 min | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
+| 51 min | GBP | Moderate | Claimant Count Change (Oct) |  | 30.5K | 27.9K |
+| 51 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | 373K |
+| 51 min | GBP | Moderate | Unemployment Rate (Sep) |  | 4.1% | 4.0% |
+| 51 min | EUR | Moderate | German CPI (YoY) (Oct) |  | 2.0% | 1.6% |
+| 51 min | EUR | High | German CPI (MoM) (Oct) |  | 0.4% | 0.0% |
+| 51 min | EUR | Low | German HICP (MoM) (Oct) |  | 0.4% | -0.1% |
+| 51 min | EUR | Low | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 09:30 | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.50% |
 | 09:30 | ZAR | Low | Unemployment (Q3) |  |  | 8.384M |
@@ -59,5 +59,5 @@
 | 22:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
 | 23:50 | JPY | Low | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
+| 23:50 | JPY | Low | PPI (YoY) (Oct) |  | 2.9% | 2.8% |

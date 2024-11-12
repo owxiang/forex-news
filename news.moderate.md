@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Confidence (Oct) | 5 |  | -2 |
-| 07:00 | GBP | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
-| 07:00 | GBP | Claimant Count Change (Oct) |  | 30.5K | 27.9K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Sep) |  |  | 373K |
-| 07:00 | GBP | Unemployment Rate (Sep) |  | 4.1% | 4.0% |
-| 07:00 | EUR | German CPI (YoY) (Oct) |  | 2.0% | 1.6% |
+| 51 min | GBP | Average Earnings Index +Bonus (Sep) |  | 3.9% | 3.8% |
+| 51 min | GBP | Claimant Count Change (Oct) |  | 30.5K | 27.9K |
+| 51 min | GBP | Employment Change 3M/3M (MoM) (Sep) |  |  | 373K |
+| 51 min | GBP | Unemployment Rate (Sep) |  | 4.1% | 4.0% |
+| 51 min | EUR | German CPI (YoY) (Oct) |  | 2.0% | 1.6% |
 | 09:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Nov) |  | -86.0 | -86.9 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Nov) |  | 13.2 | 13.1 |

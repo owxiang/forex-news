@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German CPI (MoM) (Oct) |  | 0.4% | 0.0% |
+| 51 min | EUR | German CPI (MoM) (Oct) |  | 0.4% | 0.0% |
