@@ -16,13 +16,13 @@
 | 07:00 | EUR | Low | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 07:00 | EUR | Low | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 09:30 | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.50% |
-| 09:30 | ZAR | Low | Unemployment (Q3) |  |  | 8.384M |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.054% |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.421% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -86.0 | -86.9 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) |  | 13.2 | 13.1 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 20.5 | 20.1 |
+| 24 min | ZAR | Low | Unemployment Rate (Q3) |  |  | 33.50% |
+| 24 min | ZAR | Low | Unemployment (Q3) |  |  | 8.384M |
+| 34 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.054% |
+| 54 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.421% |
+| 54 min | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -86.0 | -86.9 |
+| 54 min | EUR | Moderate | German ZEW Economic Sentiment (Nov) |  | 13.2 | 13.1 |
+| 54 min | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 20.5 | 20.1 |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.859% |
 | 10:30 | INR | Moderate | CPI (YoY) (Oct) |  | 5.81% | 5.49% |
 | 10:30 | INR | Low | Cumulative Industrial Production (Sep) |  |  | 4.20% |
@@ -31,8 +31,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.160% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Oct) |  | 91.9 | 91.5 |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.2% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | -0.6% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  |  | -1.2% |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 1.1% | -0.3% |

@@ -9,9 +9,9 @@
 | 07:00 | GBP | Unemployment Rate (Sep) | 4.3% | 4.1% | 4.0% |
 | 07:00 | EUR | German CPI (YoY) (Oct) | 2.0% | 2.0% | 1.6% |
 | 09:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Nov) |  | -86.0 | -86.9 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Nov) |  | 13.2 | 13.1 |
-| 10:00 | EUR | ZEW Economic Sentiment (Nov) |  | 20.5 | 20.1 |
+| 54 min | EUR | German ZEW Current Conditions (Nov) |  | -86.0 | -86.9 |
+| 54 min | EUR | German ZEW Economic Sentiment (Nov) |  | 13.2 | 13.1 |
+| 54 min | EUR | ZEW Economic Sentiment (Nov) |  | 20.5 | 20.1 |
 | 10:30 | INR | CPI (YoY) (Oct) |  | 5.81% | 5.49% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Retail Sales (YoY) (Sep) |  | 3.6% | 5.1% |
