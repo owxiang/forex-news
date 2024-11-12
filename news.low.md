@@ -6,8 +6,8 @@
 | 04:00 | IDR | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
 | 06:00 | JPY | Machine Tool Orders (YoY) | 9.3% |  | -6.5% |
 | 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.8% | 4.7% | 4.9% |
-| 07:00 | EUR | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
 | 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 07:00 | EUR | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
 | 09:30 | ZAR | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
 | 09:30 | ZAR | Unemployment (Q3) | 8.011M |  | 8.384M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 2.716% |  | 3.054% |
@@ -21,13 +21,13 @@
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Sep) | -0.8% |  | -0.8% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Sep) | 0.0% |  | -0.7% |
-| 13:45 | EUR | German Current Account Balance n.s.a (Sep) | 22.6B |  | 17.1B |
+| 13:00 | EUR | German Current Account Balance n.s.a (Sep) | 22.6B |  | 17.1B |
 | 13:55 | USD | Redbook (YoY) | 4.8% |  | 6.0% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.647% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.085% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.892% |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
-| 15:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.515% |  | 2.647% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.989% |  | 3.085% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.806% |  | 2.892% |
+| 4 min | USD | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
+| 9 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.440% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.260% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
@@ -39,5 +39,5 @@
 | 22:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | KRW | Unemployment Rate (Oct) |  |  | 2.5% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 23:50 | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
 | 23:50 | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
+| 23:50 | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
