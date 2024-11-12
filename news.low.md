@@ -5,9 +5,9 @@
 | 00:30 | AUD | NAB Business Survey (Oct) | 7 |  | 7 |
 | 04:00 | IDR | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
 | 06:00 | JPY | Machine Tool Orders (YoY) | 9.3% |  | -6.5% |
-| 51 min | GBP | Average Earnings ex Bonus (Sep) |  | 4.7% | 4.9% |
-| 51 min | EUR | German HICP (MoM) (Oct) |  | 0.4% | -0.1% |
-| 51 min | EUR | German HICP (YoY) (Oct) |  | 2.4% | 1.8% |
+| 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.8% | 4.7% | 4.9% |
+| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 07:00 | EUR | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
 | 09:30 | ZAR | Unemployment Rate (Q3) |  |  | 33.50% |
 | 09:30 | ZAR | Unemployment (Q3) |  |  | 8.384M |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.054% |
