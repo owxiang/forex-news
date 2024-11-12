@@ -43,11 +43,11 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.989% |  | 3.085% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.806% |  | 2.892% |
 | 15:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 4 min | USD | Low | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
-| 9 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) |  |  | 3.0% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.440% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.260% |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Nov) | 53.2 | 47.3 | 46.9 |
+| 15:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Oct) | 2.9% |  | 3.0% |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.440% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.260% |
 | 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Oct) |  |  | 1.2% |

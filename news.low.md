@@ -26,10 +26,10 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.515% |  | 2.647% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.989% |  | 3.085% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.806% |  | 2.892% |
-| 4 min | USD | IBD/TIPP Economic Optimism (Nov) |  | 47.3 | 46.9 |
-| 9 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.440% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.260% |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Nov) | 53.2 | 47.3 | 46.9 |
+| 15:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.440% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.260% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:00 | KRW | Export Price Index (YoY) (Oct) |  |  | 1.2% |
 | 21:00 | KRW | Import Price Index (YoY) (Oct) |  |  | -3.3% |
