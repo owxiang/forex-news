@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
 | 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.9% | 0.8% |
+| 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 2.271% |  | 2.152% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
-| 54 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  |  |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.88% |
@@ -21,8 +21,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 130.8 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 191.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 513.5 |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.4% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.4% |
 | 13:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Oct) |  |  | 320.77 |
