@@ -5,7 +5,7 @@
 | 00:30 | AUD | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
 | 03:35 | JPY | 30-Year JGB Auction | 2.271% |  | 2.152% |
 | 06:30 | EUR | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
-| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  |  |
+| 54 min | GBP | 4-Year Treasury Gilt Auction |  |  |  |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.88% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.68% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |

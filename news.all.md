@@ -7,8 +7,8 @@
 | 03:35 | JPY | Low | 30-Year JGB Auction | 2.271% |  | 2.152% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 09:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  |  |
+| 39 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 54 min | GBP | Low | 4-Year Treasury Gilt Auction |  |  |  |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.88% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.68% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.040% |
