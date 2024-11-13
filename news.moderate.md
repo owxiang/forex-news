@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Wage Price Index (QoQ) (Q3) | 0.8% | 0.9% | 0.8% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 54 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.310% |
 | 13:30 | USD | Core CPI (YoY) (Oct) |  | 3.3% | 3.3% |
