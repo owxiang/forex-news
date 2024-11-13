@@ -14,8 +14,8 @@
 | 12:00 | USD | MBA Purchase Index | 133.3 |  | 130.8 |
 | 12:00 | USD | Mortgage Market Index | 192.4 |  | 191.4 |
 | 12:00 | USD | Mortgage Refinance Index | 506.0 |  | 513.5 |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 13:30 | USD | Core CPI Index (Oct) | 321.67 | 321.65 | 320.77 |
 | 13:30 | USD | CPI Index, n.s.a. (Oct) | 315.66 | 315.59 | 315.30 |
 | 13:30 | USD | CPI Index, s.a (Oct) | 315.45 |  | 314.69 |
@@ -28,7 +28,7 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 59.46 |  | 53.83 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) | 51.87 |  | 53.41 |
 | 17:30 | BRL | Foreign Exchange Flows | -0.326B |  | 3.743B |
-| 39 min | NZD | FPI (MoM) (Oct) |  |  | 0.5% |
-| 23:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 21:45 | NZD | FPI (MoM) (Oct) | -0.9% |  | 0.5% |
+| 54 min | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -4,457.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 139.4B |

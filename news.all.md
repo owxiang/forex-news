@@ -19,13 +19,13 @@
 | 12:00 | USD | Low | MBA Purchase Index | 133.3 |  | 130.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 192.4 |  | 191.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 506.0 |  | 513.5 |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 13:30 | USD | High | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Oct) | 3.3% | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Oct) | 321.67 | 321.65 | 320.77 |
-| 13:30 | USD | High | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Oct) | 2.6% | 2.6% | 2.4% |
+| 13:30 | USD | High | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Oct) | 315.66 | 315.59 | 315.30 |
 | 13:30 | USD | Low | CPI Index, s.a (Oct) | 315.45 |  | 314.69 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Oct) | 0.12% |  | 0.16% |
@@ -41,8 +41,8 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.326B |  | 3.743B |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) | -257.0B | -226.4B | 64.0B |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |
-| 39 min | NZD | Low | FPI (MoM) (Oct) |  |  | 0.5% |
-| 23:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.777M | 1.000M | 3.132M |
+| 21:45 | NZD | Low | FPI (MoM) (Oct) | -0.9% |  | 0.5% |
+| 54 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -4,457.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 139.4B |
