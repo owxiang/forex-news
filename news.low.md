@@ -14,8 +14,8 @@
 | 12:00 | USD | MBA Purchase Index | 133.3 |  | 130.8 |
 | 12:00 | USD | Mortgage Market Index | 192.4 |  | 191.4 |
 | 12:00 | USD | Mortgage Refinance Index | 506.0 |  | 513.5 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
 | 13:30 | USD | Core CPI Index (Oct) | 321.67 | 321.65 | 320.77 |
 | 13:30 | USD | CPI Index, n.s.a. (Oct) | 315.66 | 315.59 | 315.30 |
 | 13:30 | USD | CPI Index, s.a (Oct) | 315.45 |  | 314.69 |
