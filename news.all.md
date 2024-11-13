@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.9% | 0.8% |
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
+| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.9% | 0.8% |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 2.271% |  | 2.152% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
@@ -38,8 +38,8 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 49.72 |  | 48.41 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 59.46 |  | 53.83 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) | 51.87 |  | 53.41 |
-| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.743B |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 25 min | BRL | Low | Foreign Exchange Flows |  |  | 3.743B |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -226.4B | 64.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |
 | 21:45 | NZD | Low | FPI (MoM) (Oct) |  |  | 0.5% |
