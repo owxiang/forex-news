@@ -28,7 +28,7 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 59.46 |  | 53.83 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) | 51.87 |  | 53.41 |
 | 17:30 | BRL | Foreign Exchange Flows | -0.326B |  | 3.743B |
-| 21:45 | NZD | FPI (MoM) (Oct) |  |  | 0.5% |
+| 39 min | NZD | FPI (MoM) (Oct) |  |  | 0.5% |
 | 23:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -4,457.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 139.4B |

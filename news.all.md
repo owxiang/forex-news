@@ -41,8 +41,8 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.326B |  | 3.743B |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) | -257.0B | -226.4B | 64.0B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |
-| 21:45 | NZD | Low | FPI (MoM) (Oct) |  |  | 0.5% |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |
+| 39 min | NZD | Low | FPI (MoM) (Oct) |  |  | 0.5% |
 | 23:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -4,457.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 139.4B |
