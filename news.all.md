@@ -19,13 +19,13 @@
 | 12:00 | USD | Low | MBA Purchase Index | 133.3 |  | 130.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 192.4 |  | 191.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 506.0 |  | 513.5 |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) | 3.3% | 3.3% | 3.3% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 13:30 | USD | High | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) | 3.3% | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Oct) | 321.67 | 321.65 | 320.77 |
-| 13:30 | USD | High | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Oct) | 2.6% | 2.6% | 2.4% |
+| 13:30 | USD | High | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Oct) | 315.66 | 315.59 | 315.30 |
 | 13:30 | USD | Low | CPI Index, s.a (Oct) | 315.45 |  | 314.69 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Oct) | 0.12% |  | 0.16% |
@@ -33,12 +33,12 @@
 | 13:30 | USD | Low | Real Earnings (MoM) (Oct) | 0.1% |  | 0.1% |
 | 14:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:35 | USD | Low | Fed Logan Speaks |  |  |  |
-| 54 min | USD | Low | Cleveland CPI (MoM) (Oct) |  |  | 0.3% |
-| 54 min | USD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 55.63 |
-| 54 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.41 |
-| 54 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 53.83 |
-| 54 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 53.41 |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Oct) | 0.3% |  | 0.3% |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) | 55.71 |  | 55.63 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 49.72 |  | 48.41 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 59.46 |  | 53.83 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) | 51.87 |  | 53.41 |
+| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.743B |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -226.4B | 64.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |
