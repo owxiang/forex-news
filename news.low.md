@@ -12,8 +12,8 @@
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.19% |
 | Tentative | GBP | 5-Year Treasury Gilt Auction |  |  | 4.148% |
-| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
 | 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.4% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.8% |
