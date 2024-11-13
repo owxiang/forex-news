@@ -1,43 +1,39 @@
-## 12 November 2024 - Low Impact Forex News
+## 13 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | NAB Business Survey (Oct) | 7 |  | 7 |
-| 04:00 | IDR | Retail Sales (YoY) (Sep) | 4.8% |  | 5.8% |
-| 06:00 | JPY | Machine Tool Orders (YoY) | 9.3% |  | -6.5% |
-| 07:00 | GBP | Average Earnings ex Bonus (Sep) | 4.8% | 4.7% | 4.9% |
-| 07:00 | EUR | German HICP (YoY) (Oct) | 2.4% | 2.4% | 1.8% |
-| 07:00 | EUR | German HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
-| 09:30 | ZAR | Unemployment Rate (Q3) | 32.10% |  | 33.50% |
-| 09:30 | ZAR | Unemployment (Q3) | 8.011M |  | 8.384M |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 2.716% |  | 3.054% |
-| 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.836% |  | 4.421% |
-| 10:20 | EUR | Italian 12-Month BOT Auction | 2.695% |  | 2.859% |
-| 10:30 | INR | Cumulative Industrial Production (Sep) | 4.00% |  | 4.20% |
-| 10:30 | INR | Industrial Production (YoY) (Sep) | 3.1% | 2.5% | -0.1% |
-| 10:30 | INR | Manufacturing Output (MoM) (Sep) | 3.9% |  | 1.0% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.110% |  | 2.160% |
-| 11:00 | USD | NFIB Small Business Optimism (Oct) | 93.7 | 91.9 | 91.5 |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Sep) | -0.8% |  | -0.8% |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Sep) | 0.0% |  | -0.7% |
-| 13:00 | EUR | German Current Account Balance n.s.a (Sep) | 22.6B |  | 17.1B |
-| 13:55 | USD | Redbook (YoY) | 4.8% |  | 6.0% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.515% |  | 2.647% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.989% |  | 3.085% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.806% |  | 2.892% |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Nov) | 53.2 | 47.3 | 46.9 |
-| 15:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction | 4.420% |  | 4.440% |
-| 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.260% |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
-| 21:00 | KRW | Export Price Index (YoY) (Oct) | 2.0% |  | 1.0% |
-| 21:00 | KRW | Import Price Index (YoY) (Oct) | -2.5% |  | -3.7% |
-| 21:45 | NZD | External Migration & Visitors (Sep) | 0.90% |  | 3.60% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Sep) | 2,310 |  | 2,010 |
-| 21:45 | NZD | Visitor Arrivals (MoM) | 1.1% |  | -2.1% |
-| 22:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 23:00 | KRW | Unemployment Rate (Oct) | 2.7% |  | 2.5% |
-| 24 min | AUD | Westpac Consumer Sentiment (Nov) |  |  | 6.2% |
-| 44 min | JPY | PPI (YoY) (Oct) |  | 2.9% | 2.8% |
-| 44 min | JPY | PPI (MoM) (Oct) |  | 0.0% | 0.0% |
+| 5 min | AUD | Wage Price Index (YoY) (Q3) |  | 3.6% | 4.1% |
+| 03:35 | JPY | 30-Year JGB Auction |  |  | 2.152% |
+| 06:00 | JPY | Machine Tool Orders (YoY) (Oct) |  |  | -6.5% |
+| 06:30 | EUR | French Unemployment Rate (Q3) |  | 7.4% | 7.3% |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  |  |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.88% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.68% |
+| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.19% |
+| Tentative | GBP | 5-Year Treasury Gilt Auction |  |  | 4.148% |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.4% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
+| 11:30 | INR | M3 Money Supply |  |  | 11.1% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 130.8 |
+| 12:00 | USD | Mortgage Market Index |  |  | 191.4 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 513.5 |
+| 13:30 | USD | Core CPI Index (Oct) |  |  | 320.77 |
+| 13:30 | USD | CPI Index, n.s.a. (Oct) |  | 315.59 | 315.30 |
+| 13:30 | USD | CPI Index, s.a (Oct) |  |  | 314.69 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Oct) |  |  | 0.16% |
+| 13:30 | USD | Real Earnings (MoM) (Oct) |  |  | -0.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.0% |
+| 14:35 | USD | Fed Logan Speaks |  |  |  |
+| 16:00 | USD | Cleveland CPI (MoM) (Oct) |  |  | 0.3% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 55.63 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.41 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 53.83 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 53.41 |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 3.743B |
+| 21:45 | NZD | FPI (MoM) (Oct) |  |  | 0.5% |
+| 23:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -4,457.9B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 139.4B |
