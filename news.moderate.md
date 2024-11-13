@@ -7,9 +7,9 @@
 | 09:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.37% |  | 3.57% |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.380% |  | 2.310% |
-| 20 min | USD | Core CPI (YoY) (Oct) |  | 3.3% | 3.3% |
-| 20 min | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 14:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | USD | Core CPI (YoY) (Oct) | 3.3% | 3.3% | 3.3% |
+| 13:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 24 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Oct) |  | -226.4B | 64.0B |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.132M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |

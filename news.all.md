@@ -21,20 +21,18 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 506.0 |  | 513.5 |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
-| 20 min | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
-| 20 min | USD | Moderate | Core CPI (YoY) (Oct) |  | 3.3% | 3.3% |
-| 20 min | USD | Low | Core CPI Index (Oct) |  |  | 320.77 |
-| 20 min | USD | High | CPI (YoY) (Oct) |  | 2.6% | 2.4% |
-| 20 min | USD | High | CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 20 min | USD | Low | CPI Index, n.s.a. (Oct) |  | 315.59 | 315.30 |
-| 20 min | USD | Low | CPI Index, s.a (Oct) |  |  | 314.69 |
-| 20 min | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.16% |
-| 20 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 20 min | USD | Low | Real Earnings (MoM) (Oct) |  |  | -0.1% |
-| 20 min | INR | Low | M3 Money Supply |  |  | 11.1% |
-| 45 min | USD | Low | Redbook (YoY) |  |  | 6.0% |
-| 14:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:35 | USD | Low | Fed Logan Speaks |  |  |  |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) | 3.3% | 3.3% | 3.3% |
+| 13:30 | USD | High | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Low | Core CPI Index (Oct) | 321.67 | 321.65 | 320.77 |
+| 13:30 | USD | High | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Oct) | 2.6% | 2.6% | 2.4% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Oct) | 315.66 | 315.59 | 315.30 |
+| 13:30 | USD | Low | CPI Index, s.a (Oct) | 315.45 |  | 314.69 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Oct) | 0.12% |  | 0.16% |
+| 13:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 13:30 | USD | Low | Real Earnings (MoM) (Oct) | 0.1% |  | 0.1% |
+| 24 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 29 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Oct) |  |  | 0.3% |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 55.63 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 48.41 |
@@ -43,7 +41,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.743B |
 | 19:00 | USD | Moderate | Federal Budget Balance (Oct) |  | -226.4B | 64.0B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.132M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |
 | 21:45 | NZD | Low | FPI (MoM) (Oct) |  |  | 0.5% |
 | 23:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -4,457.9B |
