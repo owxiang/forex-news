@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
-| 13:30 | USD | CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 13:30 | USD | CPI (YoY) (Oct) |  | 2.6% | 2.4% |
+| 20 min | USD | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
+| 20 min | USD | CPI (YoY) (Oct) |  | 2.6% | 2.4% |
+| 20 min | USD | CPI (MoM) (Oct) |  | 0.2% | 0.2% |

@@ -14,15 +14,15 @@
 | 12:00 | USD | MBA Purchase Index | 133.3 |  | 130.8 |
 | 12:00 | USD | Mortgage Market Index | 192.4 |  | 191.4 |
 | 12:00 | USD | Mortgage Refinance Index | 506.0 |  | 513.5 |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.7% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.4% |
-| 13:30 | USD | Core CPI Index (Oct) |  |  | 320.77 |
-| 13:30 | USD | CPI Index, n.s.a. (Oct) |  | 315.59 | 315.30 |
-| 13:30 | USD | CPI Index, s.a (Oct) |  |  | 314.69 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Oct) |  |  | 0.16% |
-| 13:30 | USD | Real Earnings (MoM) (Oct) |  |  | -0.1% |
-| 13:30 | INR | M3 Money Supply |  |  | 11.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.0% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
+| 20 min | USD | Core CPI Index (Oct) |  |  | 320.77 |
+| 20 min | USD | CPI Index, n.s.a. (Oct) |  | 315.59 | 315.30 |
+| 20 min | USD | CPI Index, s.a (Oct) |  |  | 314.69 |
+| 20 min | USD | CPI, n.s.a (MoM) (Oct) |  |  | 0.16% |
+| 20 min | USD | Real Earnings (MoM) (Oct) |  |  | -0.1% |
+| 20 min | INR | M3 Money Supply |  |  | 11.1% |
+| 45 min | USD | Redbook (YoY) |  |  | 6.0% |
 | 14:35 | USD | Fed Logan Speaks |  |  |  |
 | 16:00 | USD | Cleveland CPI (MoM) (Oct) |  |  | 0.3% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 55.63 |
