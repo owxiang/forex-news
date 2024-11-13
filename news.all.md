@@ -8,26 +8,25 @@
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  |  |
-| 3 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.88% |
-| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.68% |
-| 3 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.040% |
-| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.19% |
-| Tentative | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.148% |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.81% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.8% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 130.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 191.4 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 513.5 |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.4% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 3.3% | 3.3% |
+| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction | 4.499% |  |  |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.37% |  | 3.57% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction | 3.93% |  | 3.88% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.73% |  | 2.68% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.23% |  | 3.19% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.380% |  | 2.310% |
+| 25 min | INR | Low | M3 Money Supply |  |  | 11.1% |
+| 55 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.81% |
+| 55 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.8% |
+| 55 min | USD | Low | MBA Purchase Index |  |  | 130.8 |
+| 55 min | USD | Low | Mortgage Market Index |  |  | 191.4 |
+| 55 min | USD | Low | Mortgage Refinance Index |  |  | 513.5 |
+| 55 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
+| 55 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.4% |
 | 13:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Oct) |  |  | 320.77 |
-| 13:30 | USD | High | CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Oct) |  | 2.6% | 2.4% |
+| 13:30 | USD | High | CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Oct) |  | 315.59 | 315.30 |
 | 13:30 | USD | Low | CPI Index, s.a (Oct) |  |  | 314.69 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.16% |
