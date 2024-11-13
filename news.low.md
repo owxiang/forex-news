@@ -5,11 +5,11 @@
 | 00:30 | AUD | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
 | 03:35 | JPY | 30-Year JGB Auction | 2.271% |  | 2.152% |
 | 06:30 | EUR | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
-| 54 min | GBP | 4-Year Treasury Gilt Auction |  |  |  |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.88% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.68% |
-| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.19% |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  |  |
+| 3 min | EUR | Italian 15-Year BTP Auction |  |  | 3.88% |
+| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.68% |
+| 3 min | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
+| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 3.19% |
 | Tentative | GBP | 5-Year Treasury Gilt Auction |  |  | 4.148% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
@@ -17,8 +17,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 130.8 |
 | 12:00 | USD | Mortgage Market Index |  |  | 191.4 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 513.5 |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.4% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 1.7% |
 | 13:30 | USD | Core CPI Index (Oct) |  |  | 320.77 |
 | 13:30 | USD | CPI Index, n.s.a. (Oct) |  | 315.59 | 315.30 |
 | 13:30 | USD | CPI Index, s.a (Oct) |  |  | 314.69 |
