@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
-| 03:35 | JPY | 30-Year JGB Auction |  |  | 2.152% |
+| 26 min | JPY | 30-Year JGB Auction |  |  | 2.152% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Oct) |  |  | -6.5% |
 | 06:30 | EUR | French Unemployment Rate (Q3) |  | 7.4% | 7.3% |
 | 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  |  |

@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.9% | 0.8% |
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
-| 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.152% |
+| 26 min | JPY | Low | 30-Year JGB Auction |  |  | 2.152% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Oct) |  |  | -6.5% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) |  | 7.4% | 7.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
@@ -24,8 +24,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 130.8 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 191.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 513.5 |
-| 13:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 3.3% | 3.3% |
+| 13:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Core CPI Index (Oct) |  |  | 320.77 |
 | 13:30 | USD | High | CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Oct) |  | 2.6% | 2.4% |
