@@ -11,5 +11,5 @@
 | 13:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 14:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | Federal Budget Balance (Oct) |  | -226.4B | 64.0B |
+| 19:00 | USD | Federal Budget Balance (Oct) | -257.0B | -226.4B | 64.0B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |

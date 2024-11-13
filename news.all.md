@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.9% | 0.8% |
 | 00:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
+| 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 0.8% | 0.9% | 0.8% |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 2.271% |  | 2.152% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
@@ -19,10 +19,10 @@
 | 12:00 | USD | Low | MBA Purchase Index | 133.3 |  | 130.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 192.4 |  | 191.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 506.0 |  | 513.5 |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) | 3.3% | 3.3% | 3.3% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
 | 13:30 | USD | High | Core CPI (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Oct) | 3.3% | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Oct) | 321.67 | 321.65 | 320.77 |
 | 13:30 | USD | High | CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Oct) | 2.6% | 2.6% | 2.4% |
@@ -40,7 +40,7 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) | 51.87 |  | 53.41 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.326B |  | 3.743B |
-| 53 min | USD | Moderate | Federal Budget Balance (Oct) |  | -226.4B | 64.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Oct) | -257.0B | -226.4B | 64.0B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 3.132M |
 | 21:45 | NZD | Low | FPI (MoM) (Oct) |  |  | 0.5% |
 | 23:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
