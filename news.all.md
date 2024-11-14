@@ -28,11 +28,11 @@
 | 09:30 | ZAR | Low | Gold Production (YoY) (Sep) | -3.7% |  | -4.6% |
 | 09:30 | ZAR | Low | Mining Production (Sep) | 4.7% |  | 0.3% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 0.8% | 0.9% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 0.8% | 0.9% |
 | 10:00 | EUR | Low | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
@@ -56,19 +56,19 @@
 | 13:30 | USD | High | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Oct) | 2.4% | 2.3% | 1.9% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 24 min | USD | Low | Natural Gas Storage |  | 34B | 69B |
-| 54 min | USD | High | Crude Oil Inventories |  | 0.400M | 2.149M |
-| 54 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |
-| 54 min | USD | Low | Crude Oil Imports |  |  | 1.676M |
-| 54 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.522M |
-| 54 min | USD | Low | Distillate Fuel Production |  |  | 0.233M |
-| 54 min | USD | Low | EIA Weekly Distillates Stocks |  | 1.000M | 2.947M |
-| 54 min | USD | Low | Gasoline Production |  |  | 0.013M |
-| 54 min | USD | Low | Heating Oil Stockpiles |  |  | 0.335M |
-| 54 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
-| 54 min | USD | Low | Gasoline Inventories |  | 1.000M | 0.412M |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.515% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.490% |
+| 15:30 | USD | Low | Natural Gas Storage | 42B | 34B | 69B |
+| 16:00 | USD | High | Crude Oil Inventories | 2.089M | 0.400M | 2.149M |
+| 16:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.175M |  | 0.281M |
+| 16:00 | USD | Low | Crude Oil Imports | -0.321M |  | 1.676M |
+| 16:00 | USD | Moderate | Cushing Crude Oil Inventories | -0.688M |  | 0.522M |
+| 16:00 | USD | Low | Distillate Fuel Production | -0.127M |  | 0.233M |
+| 16:00 | USD | Low | EIA Weekly Distillates Stocks | -1.394M | 1.000M | 2.947M |
+| 16:00 | USD | Low | Gasoline Production | 0.559M |  | 0.013M |
+| 16:00 | USD | Low | Heating Oil Stockpiles | -1.060M |  | 0.335M |
+| 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.4% |
+| 16:00 | USD | Low | Gasoline Inventories | -4.407M | 1.000M | 0.412M |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.515% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.490% |
 | 17:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
