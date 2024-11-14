@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations (Nov) | 3.8% |  | 4.0% |
-| 2 min | AUD | Participation Rate (Oct) |  | 67.2% | 67.2% |
-| 2 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 00:30 | AUD | Participation Rate (Oct) | 67.1% | 67.2% | 67.2% |
+| 00:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 03:00 | KRW | M3 Money Supply (Sep) |  |  | 5,515.1B |
 | 03:00 | KRW | M2 Money supply (Sep) |  |  | 5.30% |
 | 06:30 | INR | WPI Food (YoY) (Oct) |  |  | 11.53% |

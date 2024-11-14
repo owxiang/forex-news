@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Oct) | 16% |  | 11% |
-| 2 min | AUD | Employment Change (Oct) |  | 25.2K | 64.1K |
-| 2 min | AUD | Full Employment Change (Oct) |  |  | 51.6K |
-| 2 min | AUD | Unemployment Rate (Oct) |  | 4.1% | 4.1% |
+| 00:30 | AUD | Employment Change (Oct) | 15.9K | 25.2K | 64.1K |
+| 00:30 | AUD | Full Employment Change (Oct) | 9.7K |  | 51.6K |
+| 00:30 | AUD | Unemployment Rate (Oct) | 4.1% | 4.1% | 4.1% |
 | 06:30 | INR | WPI Inflation (YoY) (Oct) |  | 2.20% | 1.84% |
 | 07:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Oct) |  | 1.8% | 1.5% |
@@ -13,8 +13,8 @@
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Sep) |  | -1.3% | 1.8% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
