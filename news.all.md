@@ -16,8 +16,8 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) | 1.50% |  | 1.00% |
 | 07:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 1.8% | 1.8% | 1.5% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -31,8 +31,8 @@
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 0.8% | 0.9% |
 | 10:00 | EUR | Low | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
@@ -53,8 +53,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Oct) | 3.1% | 3.0% | 2.9% |
 | 13:30 | USD | High | Initial Jobless Claims | 217K | 224K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 221.00K |  | 227.25K |
-| 13:30 | USD | High | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Oct) | 2.4% | 2.3% | 1.9% |
+| 13:30 | USD | High | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 42B | 34B | 69B |
 | 16:00 | USD | High | Crude Oil Inventories | 2.089M | 0.400M | 2.149M |
@@ -75,11 +75,11 @@
 | 19:00 | MXN | Moderate | Interest Rate Decision (Nov) | 10.25% | 10.25% | 10.50% |
 | 19:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 53 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,994B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.256T |
-| 21:30 | NZD | Moderate | Business NZ PMI (Oct) |  |  | 46.9 |
+| 21:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 9 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,994B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.256T |
+| 24 min | NZD | Moderate | Business NZ PMI (Oct) |  |  | 46.9 |
 | 23:50 | JPY | Moderate | GDP (YoY) (Q3) |  |  | 2.9% |
 | 23:50 | JPY | High | GDP (QoQ) (Q3) |  | 0.2% | 0.7% |
 | 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
