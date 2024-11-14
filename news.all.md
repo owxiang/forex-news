@@ -30,19 +30,19 @@
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% |  | 0.8% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
-| 10:00 | EUR | Low | Employment Overall (Q3) |  |  | 168,332.9K |
+| 10:00 | EUR | Low | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
-| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
-| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 46.45 |
-| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.09 |
-| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.69 |
-| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
-| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.3% |
-| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.45 |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) | 43.91 |  | 46.45 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) | 46.43 |  | 49.09 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) | 42.17 |  | 43.69 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 48.44 |  | 49.53 |
+| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) | 1.5% |  | 1.3% |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 49.37 |  | 51.45 |
+| 55 min | BRL | Low | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
