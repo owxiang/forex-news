@@ -9,16 +9,16 @@
 | 00:30 | AUD | Low | Participation Rate (Oct) | 67.1% | 67.2% | 67.2% |
 | 00:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 00:30 | AUD | Moderate | Unemployment Rate (Oct) | 4.1% | 4.1% | 4.1% |
-| 32 min | KRW | Low | M3 Money Supply (Sep) |  |  | 5,515.1B |
-| 32 min | KRW | Low | M2 Money supply (Sep) |  |  | 5.30% |
+| 03:00 | KRW | Low | M3 Money Supply (Sep) | 5,557.5B |  | 5,515.1B |
+| 03:00 | KRW | Low | M2 Money supply (Sep) | 5.60% |  | 5.30% |
 | 06:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | 11.53% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -4.05% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Oct) |  | 2.20% | 1.84% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 1.00% |
 | 07:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 1.8% | 1.5% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.6% | -0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 1.8% | 1.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 1.8% | 1.7% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | Low | Employment Overall (Q3) |  |  | 168,332.9K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | -1.3% | 1.8% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 46.45 |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.09 |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Oct) |  | 2.9% | 2.8% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 224K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.25K |
-| 13:30 | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
+| 13:30 | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
 | 13:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -81,8 +81,8 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,994B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.256T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Oct) |  |  | 46.9 |
-| 23:50 | JPY | High | GDP (QoQ) (Q3) |  | 0.2% | 0.7% |
 | 23:50 | JPY | Moderate | GDP (YoY) (Q3) |  |  | 2.9% |
+| 23:50 | JPY | High | GDP (QoQ) (Q3) |  | 0.2% | 0.7% |
 | 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
 | 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
 | 23:50 | JPY | Moderate | GDP Price Index (YoY) (Q3) |  | 2.8% | 3.1% |
