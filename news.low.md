@@ -48,7 +48,7 @@
 | 16:00 | USD | Gasoline Inventories | -4.407M | 1.000M | 0.412M |
 | 16:30 | USD | 4-Week Bill Auction | 4.510% |  | 4.515% |
 | 16:30 | USD | 8-Week Bill Auction | 4.460% |  | 4.490% |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.256T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.192T |  | 3.256T |
 | 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
 | 23:50 | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | 0.9% |
