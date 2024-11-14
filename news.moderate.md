@@ -20,11 +20,11 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,873K | 1,880K | 1,884K |
 | 13:30 | USD | Core PPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
 | 16:00 | USD | Cushing Crude Oil Inventories | -0.688M |  | 0.522M |
-| 24 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 54 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 19:00 | MXN | Interest Rate Decision (Nov) |  | 10.25% | 10.50% |
-| 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 22 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 52 min | MXN | Interest Rate Decision (Nov) |  | 10.25% | 10.50% |
+| 52 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,994B |
