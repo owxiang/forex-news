@@ -15,9 +15,9 @@
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
+| 20 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 50 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 50 min | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,892K |
 | 13:30 | USD | Core PPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 16:00 | USD | Cushing Crude Oil Inventories |  |  | 0.522M |

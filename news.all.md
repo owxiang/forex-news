@@ -16,8 +16,8 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) | 1.50% |  | 1.00% |
 | 07:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 1.8% | 1.8% | 1.5% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -33,30 +33,30 @@
 | 10:00 | EUR | Low | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) | 43.91 |  | 46.45 |
+| 11:00 | INR | Low | M3 Money Supply | 11.2% |  | 11.1% |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) | 46.43 |  | 49.09 |
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) | 42.17 |  | 43.69 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 48.44 |  | 49.53 |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) | 1.5% |  | 1.3% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 49.37 |  | 51.45 |
-| 55 min | BRL | Low | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) | 0.80% | 0.50% | 0.20% |
+| 20 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 50 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 50 min | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,892K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 224K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.25K |
-| 13:30 | USD | Low | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
 | 13:30 | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
+| 13:30 | USD | Low | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 34B | 69B |
 | 16:00 | USD | High | Crude Oil Inventories |  | 0.400M | 2.149M |

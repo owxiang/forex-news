@@ -24,19 +24,19 @@
 | 10:00 | EUR | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) | 43.91 |  | 46.45 |
+| 11:00 | INR | M3 Money Supply | 11.2% |  | 11.1% |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) | 46.43 |  | 49.09 |
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) | 42.17 |  | 43.69 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 48.44 |  | 49.53 |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) | 1.5% |  | 1.3% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 49.37 |  | 51.45 |
-| 55 min | BRL | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
+| 12:00 | BRL | IBC-Br Economic Activity (Sep) | 0.80% | 0.50% | 0.20% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
 | 13:30 | USD | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.25K |
 | 13:30 | USD | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
-| 13:30 | INR | M3 Money Supply |  |  | 11.1% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 34B | 69B |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |
