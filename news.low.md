@@ -16,19 +16,19 @@
 | 08:41 | INR | Exports (USD) (Oct) | 39.20B |  | 34.58B |
 | 08:41 | INR | Imports (USD) (Oct) | 66.34B |  | 55.36B |
 | 08:46 | INR | Trade Balance (Oct) | -27.14B |  | -20.78B |
-| 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -4.6% |
-| 09:30 | ZAR | Mining Production (Sep) |  |  | 0.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.8% |
+| 09:30 | ZAR | Gold Production (YoY) (Sep) | -3.7% |  | -4.6% |
+| 09:30 | ZAR | Mining Production (Sep) | 4.7% |  | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) (Q3) | 1.0% |  | 0.8% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q3) |  |  | 168,332.9K |
-| 10:00 | EUR | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 46.45 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.09 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.69 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.3% |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.45 |
+| 10:00 | EUR | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
+| 53 min | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
+| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 46.45 |
+| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.09 |
+| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.69 |
+| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
+| 53 min | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.3% |
+| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.45 |
 | 12:00 | BRL | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |

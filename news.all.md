@@ -25,23 +25,23 @@
 | 08:41 | INR | Low | Imports (USD) (Oct) | 66.34B |  | 55.36B |
 | 08:46 | INR | Low | Trade Balance (Oct) | -27.14B |  | -20.78B |
 | 09:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 09:30 | ZAR | Low | Gold Production (YoY) (Sep) |  |  | -4.6% |
-| 09:30 | ZAR | Low | Mining Production (Sep) |  |  | 0.3% |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Sep) | -3.7% |  | -4.6% |
+| 09:30 | ZAR | Low | Mining Production (Sep) | 4.7% |  | 0.3% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  |  | 0.8% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% |  | 0.8% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q3) |  |  | 168,332.9K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | -1.3% | 1.8% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 46.45 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.09 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.69 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
-| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.3% |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.45 |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
+| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
+| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 46.45 |
+| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.09 |
+| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.69 |
+| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
+| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.3% |
+| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.45 |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
@@ -49,12 +49,12 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,892K |
-| 13:30 | USD | Low | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Oct) |  | 0.3% | 0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 224K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.25K |
-| 13:30 | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
+| 13:30 | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
 | 13:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
