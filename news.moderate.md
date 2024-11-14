@@ -9,11 +9,11 @@
 | 07:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Oct) | 1.8% | 1.8% | 1.5% |
 | 08:00 | EUR | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
-| 21 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Sep) |  | -1.3% | 1.8% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |

@@ -13,6 +13,9 @@
 | 08:00 | EUR | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 08:41 | INR | Exports (USD) (Oct) | 39.20B |  | 34.58B |
+| 08:41 | INR | Imports (USD) (Oct) | 66.34B |  | 55.36B |
+| 08:46 | INR | Trade Balance (Oct) | -27.14B |  | -20.78B |
 | 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -4.6% |
 | 09:30 | ZAR | Mining Production (Sep) |  |  | 0.3% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
