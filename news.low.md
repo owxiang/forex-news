@@ -18,8 +18,8 @@
 | 08:40 | INR | Trade Balance (Oct) | -27.14B |  | -20.78B |
 | 09:30 | ZAR | Gold Production (YoY) (Sep) | -3.7% |  | -4.6% |
 | 09:30 | ZAR | Mining Production (Sep) | 4.7% |  | 0.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) | 1.0% | 0.8% | 0.9% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
 | 10:00 | EUR | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
@@ -37,15 +37,15 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 221.00K |  | 227.25K |
 | 13:30 | USD | PPI (YoY) (Oct) | 2.4% | 2.3% | 1.9% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  | 34B | 69B |
-| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |
-| 16:00 | USD | Crude Oil Imports |  |  | 1.676M |
-| 16:00 | USD | Distillate Fuel Production |  |  | 0.233M |
-| 16:00 | USD | EIA Weekly Distillates Stocks |  | 1.000M | 2.947M |
-| 16:00 | USD | Gasoline Production |  |  | 0.013M |
-| 16:00 | USD | Heating Oil Stockpiles |  |  | 0.335M |
-| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
-| 16:00 | USD | Gasoline Inventories |  | 1.000M | 0.412M |
+| 24 min | USD | Natural Gas Storage |  | 34B | 69B |
+| 54 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |
+| 54 min | USD | Crude Oil Imports |  |  | 1.676M |
+| 54 min | USD | Distillate Fuel Production |  |  | 0.233M |
+| 54 min | USD | EIA Weekly Distillates Stocks |  | 1.000M | 2.947M |
+| 54 min | USD | Gasoline Production |  |  | 0.013M |
+| 54 min | USD | Heating Oil Stockpiles |  |  | 0.335M |
+| 54 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
+| 54 min | USD | Gasoline Inventories |  | 1.000M | 0.412M |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.515% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.490% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.256T |
