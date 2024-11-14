@@ -16,21 +16,21 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 1.00% |
 | 07:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 1.8% | 1.5% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.6% | -0.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 1.8% | 1.7% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 1.8% | 1.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 1.8% | 1.7% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | Tentative | CNY | Low | FDI (Oct) |  |  | -30.40% |
 | 09:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Sep) |  |  | -4.6% |
 | 09:30 | ZAR | Low | Mining Production (Sep) |  |  | 0.3% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  |  | 0.8% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q3) |  |  | 168,332.9K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | -1.3% | 1.8% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
@@ -47,12 +47,12 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,892K |
-| 13:30 | USD | Low | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Oct) |  | 0.3% | 0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 224K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.25K |
-| 13:30 | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
+| 13:30 | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
 | 13:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
