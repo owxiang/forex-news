@@ -46,8 +46,8 @@
 | 16:00 | USD | Heating Oil Stockpiles | -1.060M |  | 0.335M |
 | 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.4% |
 | 16:00 | USD | Gasoline Inventories | -4.407M | 1.000M | 0.412M |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.515% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.490% |
+| 16:30 | USD | 4-Week Bill Auction | 4.510% |  | 4.515% |
+| 16:30 | USD | 8-Week Bill Auction | 4.460% |  | 4.490% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.256T |
 | 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |

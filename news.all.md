@@ -31,8 +31,8 @@
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 0.8% | 0.9% |
 | 10:00 | EUR | Low | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
@@ -49,8 +49,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.3% |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) | 3.5% |  | 3.3% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,873K | 1,880K | 1,884K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core PPI (YoY) (Oct) | 3.1% | 3.0% | 2.9% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | High | Initial Jobless Claims | 217K | 224K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 221.00K |  | 227.25K |
 | 13:30 | USD | High | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
@@ -67,10 +67,10 @@
 | 16:00 | USD | Low | Heating Oil Stockpiles | -1.060M |  | 0.335M |
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.4% |
 | 16:00 | USD | Low | Gasoline Inventories | -4.407M | 1.000M | 0.412M |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.515% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.490% |
-| 17:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.510% |  | 4.515% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.460% |  | 4.490% |
+| 24 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 54 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Nov) |  | 10.25% | 10.50% |
 | 19:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
