@@ -17,9 +17,8 @@
 | 10:00 | EUR | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 19 min | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
-| 19 min | USD | Continuing Jobless Claims |  | 1,880K | 1,892K |
-| 19 min | USD | Core PPI (MoM) (Oct) |  | 0.3% | 0.2% |
+| 13:30 | USD | Continuing Jobless Claims | 1,873K | 1,880K | 1,884K |
+| 13:30 | USD | Core PPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
 | 16:00 | USD | Cushing Crude Oil Inventories |  |  | 0.522M |
 | 17:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |

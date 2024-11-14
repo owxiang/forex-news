@@ -18,8 +18,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 1.8% | 1.8% | 1.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:40 | INR | Low | Exports (USD) (Oct) | 39.20B |  | 34.58B |
 | 08:40 | INR | Low | Imports (USD) (Oct) | 66.34B |  | 55.36B |
@@ -46,18 +46,16 @@
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Sep) | 0.80% | 0.50% | 0.20% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 19 min | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
-| 19 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
-| 19 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,892K |
-| 19 min | USD | Low | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
-| 19 min | USD | Moderate | Core PPI (MoM) (Oct) |  | 0.3% | 0.2% |
-| 19 min | USD | High | Initial Jobless Claims |  | 224K | 221K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.25K |
-| 19 min | USD | High | PPI (MoM) (Oct) |  | 0.2% | 0.0% |
-| 19 min | USD | Low | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
-| 19 min | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
-| 49 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.3% |  | 0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) | 3.5% |  | 3.3% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,873K | 1,880K | 1,884K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (Oct) | 3.1% | 3.0% | 2.9% |
+| 13:30 | USD | High | Initial Jobless Claims | 217K | 224K | 221K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 221.00K |  | 227.25K |
+| 13:30 | USD | High | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | Low | PPI (YoY) (Oct) | 2.4% | 2.3% | 1.9% |
+| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 34B | 69B |
 | 16:00 | USD | High | Crude Oil Inventories |  | 0.400M | 2.149M |
 | 16:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |

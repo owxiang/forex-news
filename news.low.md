@@ -31,13 +31,12 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 49.37 |  | 51.45 |
 | 11:30 | INR | M3 Money Supply | 11.2% |  | 11.1% |
 | 12:00 | BRL | IBC-Br Economic Activity (Sep) | 0.80% | 0.50% | 0.20% |
-| 19 min | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
-| 19 min | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
-| 19 min | USD | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 227.25K |
-| 19 min | USD | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
-| 19 min | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
-| 49 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.3% |  | 0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) | 3.5% |  | 3.3% |
+| 13:30 | USD | Core PPI (YoY) (Oct) | 3.1% | 3.0% | 2.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 221.00K |  | 227.25K |
+| 13:30 | USD | PPI (YoY) (Oct) | 2.4% | 2.3% | 1.9% |
+| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 34B | 69B |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |
 | 16:00 | USD | Crude Oil Imports |  |  | 1.676M |
