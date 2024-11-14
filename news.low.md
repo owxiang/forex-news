@@ -1,34 +1,56 @@
-## 13 November 2024 - Low Impact Forex News
+## 14 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Wage Price Index (YoY) (Q3) | 3.5% | 3.6% | 4.1% |
-| 03:35 | JPY | 30-Year JGB Auction | 2.271% |  | 2.152% |
-| 06:30 | EUR | French Unemployment Rate (Q3) | 7.4% | 7.4% | 7.3% |
-| 10:00 | GBP | 4-Year Treasury Gilt Auction | 4.499% |  |  |
-| 10:10 | EUR | Italian 15-Year BTP Auction | 3.93% |  | 3.88% |
-| 10:10 | EUR | Italian 3-Year BTP Auction | 2.73% |  | 2.68% |
-| 10:10 | EUR | Italian 7-Year BTP Auction | 3.23% |  | 3.19% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.86% |  | 6.81% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.5% |  | -10.8% |
-| 12:00 | USD | MBA Purchase Index | 133.3 |  | 130.8 |
-| 12:00 | USD | Mortgage Market Index | 192.4 |  | 191.4 |
-| 12:00 | USD | Mortgage Refinance Index | 506.0 |  | 513.5 |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | 4.0% |  | 1.9% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | 1.0% |  | -0.3% |
-| 13:30 | USD | Core CPI Index (Oct) | 321.67 | 321.65 | 320.77 |
-| 13:30 | USD | CPI Index, n.s.a. (Oct) | 315.66 | 315.59 | 315.30 |
-| 13:30 | USD | CPI Index, s.a (Oct) | 315.45 |  | 314.69 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Oct) | 0.12% |  | 0.16% |
-| 13:30 | USD | Real Earnings (MoM) (Oct) | 0.1% |  | 0.1% |
-| 14:35 | USD | Fed Logan Speaks |  |  |  |
-| 16:00 | USD | Cleveland CPI (MoM) (Oct) | 0.3% |  | 0.3% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Nov) | 55.71 |  | 55.63 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 49.72 |  | 48.41 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 59.46 |  | 53.83 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) | 51.87 |  | 53.41 |
-| 17:30 | BRL | Foreign Exchange Flows | -0.326B |  | 3.743B |
-| 21:45 | NZD | FPI (MoM) (Oct) | -0.9% |  | 0.5% |
-| 23:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -4,457.9B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 139.4B |
+| 00:00 | AUD | MI Inflation Expectations (Nov) | 3.8% |  | 4.0% |
+| 2 min | AUD | Participation Rate (Oct) |  | 67.2% | 67.2% |
+| 2 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 03:00 | KRW | M3 Money Supply (Sep) |  |  | 5,515.1B |
+| 03:00 | KRW | M2 Money supply (Sep) |  |  | 5.30% |
+| 06:30 | INR | WPI Food (YoY) (Oct) |  |  | 11.53% |
+| 06:30 | INR | WPI Fuel (YoY) (Oct) |  |  | -4.05% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 1.00% |
+| 08:00 | EUR | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Oct) |  | 0.6% | -0.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (Oct) |  | 0.4% | -0.1% |
+| Tentative | CNY | FDI (Oct) |  |  | -30.40% |
+| 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -4.6% |
+| 09:30 | ZAR | Mining Production (Sep) |  |  | 0.3% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.8% |
+| 10:00 | EUR | Employment Overall (Q3) |  |  | 168,332.9K |
+| 10:00 | EUR | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 46.45 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.09 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.69 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.53 |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 1.3% |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 51.45 |
+| 12:00 | BRL | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
+| 13:30 | USD | Core PPI (YoY) (Oct) |  | 2.9% | 2.8% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.25K |
+| 13:30 | USD | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
+| 13:30 | INR | M3 Money Supply |  |  | 11.1% |
+| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  |  | 69B |
+| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |
+| 16:00 | USD | Crude Oil Imports |  |  | 1.676M |
+| 16:00 | USD | Distillate Fuel Production |  |  | 0.233M |
+| 16:00 | USD | EIA Weekly Distillates Stocks |  | 1.000M | 2.947M |
+| 16:00 | USD | Gasoline Production |  |  | 0.013M |
+| 16:00 | USD | Heating Oil Stockpiles |  |  | 0.335M |
+| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.4% |
+| 16:00 | USD | Gasoline Inventories |  | 1.000M | 0.412M |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.515% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.490% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.256T |
+| 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
+| 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
+| 23:50 | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | 0.9% |
+| 23:55 | KRW | Exports (YoY) (Oct) |  |  | 4.6% |
+| 23:55 | KRW | Imports (YoY) (Oct) |  |  | 1.7% |
+| 23:55 | KRW | Trade Balance (Oct) |  |  | 3.17B |
