@@ -10,10 +10,9 @@
 | 06:30 | INR | WPI Food (YoY) (Oct) | 13.54% |  | 11.53% |
 | 06:30 | INR | WPI Fuel (YoY) (Oct) | -5.79% |  | -4.05% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) | 1.50% |  | 1.00% |
-| 54 min | EUR | Core CPI (YoY) (Oct) |  | 2.5% | 2.4% |
-| 54 min | EUR | Spanish CPI (MoM) (Oct) |  | 0.6% | -0.6% |
-| 54 min | EUR | Spanish HICP (MoM) (Oct) |  | 0.4% | -0.1% |
-| Tentative | CNY | FDI (Oct) |  |  | -30.40% |
+| 08:00 | EUR | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
 | 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -4.6% |
 | 09:30 | ZAR | Mining Production (Sep) |  |  | 0.3% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
