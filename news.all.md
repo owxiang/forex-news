@@ -16,10 +16,10 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Oct) | 1.50% |  | 1.00% |
 | 07:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Oct) | 2.5% | 2.5% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 1.8% | 1.8% | 1.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.6% | 0.6% | -0.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.4% | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 1.8% | 1.8% | 1.7% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:40 | INR | Low | Exports (USD) (Oct) | 39.20B |  | 34.58B |
 | 08:40 | INR | Low | Imports (USD) (Oct) | 66.34B |  | 55.36B |
@@ -28,13 +28,13 @@
 | 09:30 | ZAR | Low | Gold Production (YoY) (Sep) | -3.7% |  | -4.6% |
 | 09:30 | ZAR | Low | Mining Production (Sep) | 4.7% |  | 0.3% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 0.8% | 0.9% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Low | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) | 43.91 |  | 46.45 |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) | 46.43 |  | 49.09 |
@@ -80,9 +80,9 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,967B |  | 6,994B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.192T |  | 3.256T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Oct) | 45.8 |  | 46.9 |
-| 23:50 | JPY | Moderate | GDP (YoY) (Q3) |  |  | 2.9% |
-| 23:50 | JPY | High | GDP (QoQ) (Q3) |  | 0.2% | 0.7% |
-| 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
-| 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
-| 23:50 | JPY | Moderate | GDP Price Index (YoY) (Q3) |  | 2.8% | 3.1% |
-| 23:50 | JPY | Low | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | 0.9% |
+| 44 min | JPY | High | GDP (QoQ) (Q3) |  | 0.2% | 0.7% |
+| 44 min | JPY | Moderate | GDP (YoY) (Q3) |  |  | 2.9% |
+| 44 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
+| 44 min | JPY | Low | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
+| 44 min | JPY | Moderate | GDP Price Index (YoY) (Q3) |  | 2.8% | 3.1% |
+| 44 min | JPY | Low | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | 0.9% |

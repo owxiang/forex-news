@@ -12,8 +12,8 @@
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
+| 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Industrial Production (MoM) (Sep) | -2.0% | -1.3% | 1.5% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
@@ -29,5 +29,5 @@
 | 21:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,967B |  | 6,994B |
 | 21:30 | NZD | Business NZ PMI (Oct) | 45.8 |  | 46.9 |
-| 23:50 | JPY | GDP (YoY) (Q3) |  |  | 2.9% |
-| 23:50 | JPY | GDP Price Index (YoY) (Q3) |  | 2.8% | 3.1% |
+| 44 min | JPY | GDP (YoY) (Q3) |  |  | 2.9% |
+| 44 min | JPY | GDP Price Index (YoY) (Q3) |  | 2.8% | 3.1% |

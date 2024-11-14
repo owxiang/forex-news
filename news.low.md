@@ -18,8 +18,8 @@
 | 08:40 | INR | Trade Balance (Oct) | -27.14B |  | -20.78B |
 | 09:30 | ZAR | Gold Production (YoY) (Sep) | -3.7% |  | -4.6% |
 | 09:30 | ZAR | Mining Production (Sep) | 4.7% |  | 0.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) | 1.0% | 0.8% | 0.9% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.1% |
 | 10:00 | EUR | Employment Overall (Q3) | 169,064.1K |  | 168,783.1K |
 | 10:00 | EUR | Industrial Production (YoY) (Sep) | -2.8% | -2.0% | -0.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) | 49.9 |  | 50.7 |
@@ -49,6 +49,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.510% |  | 4.515% |
 | 16:30 | USD | 8-Week Bill Auction | 4.460% |  | 4.490% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.192T |  | 3.256T |
-| 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
-| 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
-| 23:50 | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | 0.9% |
+| 44 min | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
+| 44 min | JPY | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
+| 44 min | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | 0.9% |

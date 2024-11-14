@@ -6,4 +6,4 @@
 | 13:30 | USD | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.1% |
 | 16:00 | USD | Crude Oil Inventories | 2.089M | 0.400M | 2.149M |
 | 20:00 | USD | Fed Chair Powell Speaks |  |  |  |
-| 23:50 | JPY | GDP (QoQ) (Q3) |  | 0.2% | 0.7% |
+| 44 min | JPY | GDP (QoQ) (Q3) |  | 0.2% | 0.7% |
