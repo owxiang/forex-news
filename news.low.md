@@ -5,8 +5,8 @@
 | 00:00 | AUD | MI Inflation Expectations (Nov) | 3.8% |  | 4.0% |
 | 00:30 | AUD | Participation Rate (Oct) | 67.1% | 67.2% | 67.2% |
 | 00:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 03:00 | KRW | M3 Money Supply (Sep) |  |  | 5,515.1B |
-| 03:00 | KRW | M2 Money supply (Sep) |  |  | 5.30% |
+| 32 min | KRW | M3 Money Supply (Sep) |  |  | 5,515.1B |
+| 32 min | KRW | M2 Money supply (Sep) |  |  | 5.30% |
 | 06:30 | INR | WPI Food (YoY) (Oct) |  |  | 11.53% |
 | 06:30 | INR | WPI Fuel (YoY) (Oct) |  |  | -4.05% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) |  |  | 1.00% |
@@ -16,8 +16,8 @@
 | Tentative | CNY | FDI (Oct) |  |  | -30.40% |
 | 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -4.6% |
 | 09:30 | ZAR | Mining Production (Sep) |  |  | 0.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.8% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q3) |  |  | 168,332.9K |
 | 10:00 | EUR | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
