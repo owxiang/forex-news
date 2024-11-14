@@ -16,8 +16,8 @@
 | Tentative | CNY | FDI (Oct) |  |  | -30.40% |
 | 09:30 | ZAR | Gold Production (YoY) (Sep) |  |  | -4.6% |
 | 09:30 | ZAR | Mining Production (Sep) |  |  | 0.3% |
-| 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.8% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q3) |  |  | 0.8% |
 | 10:00 | EUR | Employment Overall (Q3) |  |  | 168,332.9K |
 | 10:00 | EUR | Industrial Production (YoY) (Sep) |  | -2.0% | 0.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Nov) |  |  | 50.7 |
@@ -30,13 +30,13 @@
 | 12:00 | BRL | IBC-Br Economic Activity (Sep) |  | 0.50% | 0.20% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 3.2% |
-| 13:30 | USD | Core PPI (YoY) (Oct) |  | 2.9% | 2.8% |
+| 13:30 | USD | Core PPI (YoY) (Oct) |  | 3.0% | 2.8% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.25K |
 | 13:30 | USD | PPI (YoY) (Oct) |  | 2.3% | 1.8% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
 | 13:30 | INR | M3 Money Supply |  |  | 11.1% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  |  | 69B |
+| 15:30 | USD | Natural Gas Storage |  | 34B | 69B |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.281M |
 | 16:00 | USD | Crude Oil Imports |  |  | 1.676M |
 | 16:00 | USD | Distillate Fuel Production |  |  | 0.233M |
@@ -51,6 +51,3 @@
 | 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.2% | 0.8% |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | 0.1% | -0.1% |
 | 23:50 | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | 0.9% |
-| 23:55 | KRW | Exports (YoY) (Oct) |  |  | 4.6% |
-| 23:55 | KRW | Imports (YoY) (Oct) |  |  | 1.7% |
-| 23:55 | KRW | Trade Balance (Oct) |  |  | 3.17B |
