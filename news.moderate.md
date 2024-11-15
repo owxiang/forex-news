@@ -22,12 +22,12 @@
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | EUR | ECB McCaul Speaks |  |  |  |
-| 13:30 | USD | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
-| 13:30 | USD | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |
-| 13:30 | USD | NY Empire State Manufacturing Index (Nov) |  | -0.30 | -11.90 |
-| 13:30 | USD | Retail Control (MoM) (Oct) |  |  | 0.7% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Sep) |  | 1.0% | -0.6% |
-| 14:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
+| 19 min | USD | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
+| 19 min | USD | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |
+| 19 min | USD | NY Empire State Manufacturing Index (Nov) |  | -0.30 | -11.90 |
+| 19 min | USD | Retail Control (MoM) (Oct) |  |  | 0.7% |
+| 19 min | CAD | Wholesale Sales (MoM) (Sep) |  | 1.0% | -0.6% |
+| 49 min | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 14:15 | USD | Industrial Production (YoY) (Oct) |  |  | -0.64% |
 | 14:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | -0.3% |
 | 15:00 | USD | Business Inventories (MoM) (Sep) |  | 0.2% | 0.3% |
