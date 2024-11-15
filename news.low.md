@@ -27,8 +27,8 @@
 | 07:00 | GBP | Index of Services | 0.1% | 0.2% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Sep) | -0.7% | 0.1% | -0.3% |
-| 07:00 | EUR | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
 | 07:00 | EUR | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
+| 07:00 | EUR | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
 | 07:00 | NOK | Trade Balance (Oct) | 63.7B |  | 41.7B |
 | 07:30 | CHF | PPI (YoY) (Oct) | -1.8% |  | -1.3% |
 | 07:45 | EUR | French CPI NSA (MoM) (Oct) | 0.20% |  | -1.20% |
@@ -41,21 +41,21 @@
 | 09:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
-| 09:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 10:00 | EUR | Italian Trade Balance (Sep) | 2.580B | 2.550B | 1.335B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) | -1.18B |  | -1.46B |
 | 10:45 | CNY | FDI (Oct) | -29.80% |  | -30.40% |
 | 11:00 | EUR | Reserve Assets Total (Oct) | 1,386.88B |  | 1,318.88B |
-| 24 min | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
-| 24 min | INR | Bank Loan Growth |  |  | 11.5% |
-| 24 min | INR | Deposit Growth |  |  | 11.7% |
-| 24 min | INR | FX Reserves, USD |  |  | 682.13B |
+| 11:30 | INR | Bank Loan Growth | 11.9% |  | 11.5% |
+| 11:30 | INR | Deposit Growth | 11.8% |  | 11.7% |
+| 11:30 | INR | FX Reserves, USD | 675.65B |  | 682.13B |
 | 13:30 | USD | Export Price Index (YoY) (Oct) |  |  | -2.1% |
 | 13:30 | USD | Import Price Index (YoY) (Oct) |  |  | -0.1% |
 | 13:30 | USD | Retail Sales (YoY) (Oct) |  |  | 1.74% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.7% | -1.3% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 14:15 | USD | Capacity Utilization Rate (Oct) |  | 77.1% | 77.5% |
 | 14:15 | USD | Manufacturing Production (MoM) (Oct) |  | -0.5% | -0.4% |

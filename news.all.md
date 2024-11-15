@@ -26,24 +26,24 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 4.4% |  | -5.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 1.6% | 1.4% | 1.4% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 1.90 | 0.20 | -2.90 |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 4.5% |  | 0.2% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
-| 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.5% |
 | 07:00 | GBP | High | GDP (YoY) (Q3) | 1.0% | 0.1% | 0.7% |
+| 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Sep) | 1.0% | 1.1% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | -0.5% | 0.1% | 0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) | -1.0% | 0.0% | 1.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | -0.7% | 0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Sep) | -16.32B | -15.70B | -15.21B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -5.31B |  | -4.85B |
-| 07:00 | EUR | Low | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
+| 07:00 | EUR | Low | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
 | 07:00 | NOK | Low | Trade Balance (Oct) | 63.7B |  | 41.7B |
 | 07:30 | CHF | Moderate | PPI (MoM) (Oct) | -0.3% | 0.1% | -0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Oct) | -1.8% |  | -1.3% |
@@ -51,16 +51,16 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) | 1.20% |  | 1.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.2% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.6% | 1.5% | 1.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.3% | 0.3% | -1.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.6% | 1.5% | 1.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) | 1.10% |  | 1.00% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) | -1.1% | -1.1% | 0.4% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) | 1.8% | 1.8% | 3.3% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) | 0.2% |  | 0.1% |
 | 09:31 | GBP | Moderate | Labour Productivity (Q3) | -0.8% |  | 0.2% |
 | 10:00 | EUR | Low | Italian Trade Balance (Sep) | 2.580B | 2.550B | 1.335B |
@@ -69,24 +69,24 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:45 | CNY | Low | FDI (Oct) | -29.80% |  | -30.40% |
 | 11:00 | EUR | Low | Reserve Assets Total (Oct) | 1,386.88B |  | 1,318.88B |
-| 24 min | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 11.5% |
-| 24 min | INR | Low | Deposit Growth |  |  | 11.7% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 682.13B |
-| 24 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
+| 11:30 | INR | Low | Bank Loan Growth | 11.9% |  | 11.5% |
+| 11:30 | INR | Low | Deposit Growth | 11.8% |  | 11.7% |
+| 11:30 | INR | Low | FX Reserves, USD | 675.65B |  | 682.13B |
+| 11:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.3% | 0.5% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Oct) |  |  | -2.1% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Oct) |  |  | -0.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | -0.30 | -11.90 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Oct) |  |  | 0.7% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Oct) |  |  | 1.74% |
 | 13:30 | USD | High | Retail Sales (MoM) (Oct) |  | 0.3% | 0.4% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Oct) |  |  | 1.74% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -0.7% | -1.3% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) |  | 1.0% | -0.6% |
+| 14:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Oct) |  | 77.1% | 77.5% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | -0.64% |
