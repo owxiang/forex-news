@@ -18,28 +18,28 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Sep) | 4.4% |  | -5.3% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Sep) | 1.90 | 0.20 | -2.90 |
 | 07:00 | GBP | Business Investment (YoY) (Q3) | 4.5% |  | 0.2% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
 | 07:00 | GBP | Construction Output (MoM) (Sep) | 0.1% | 0.3% | 0.6% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
 | 07:00 | GBP | GDP (YoY) (Sep) | 1.0% | 1.1% | 1.1% |
 | 07:00 | GBP | Index of Services | 0.1% | 0.2% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Sep) | -0.7% | 0.1% | -0.3% |
-| 07:00 | EUR | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
 | 07:00 | EUR | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
+| 07:00 | EUR | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
 | 07:00 | NOK | Trade Balance (Oct) | 63.7B |  | 41.7B |
 | 07:30 | CHF | PPI (YoY) (Oct) | -1.8% |  | -1.3% |
-| 07:45 | EUR | French CPI NSA (YoY) (Oct) | 1.20% |  | 1.10% |
 | 07:45 | EUR | French CPI NSA (MoM) (Oct) | 0.20% |  | -1.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Oct) | 1.20% |  | 1.10% |
 | 07:45 | EUR | French CPI (YoY) (Oct) | 1.2% | 1.2% | 1.1% |
 | 07:45 | EUR | French HICP (YoY) (Oct) | 1.6% | 1.5% | 1.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) | 1.10% |  | 1.00% |
-| 08:30 | HKD | GDP (YoY) (Q3) | 1.8% | 1.8% | 3.3% |
 | 08:30 | HKD | GDP (QoQ) (Q3) | -1.1% | -1.1% | 0.4% |
-| 09:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
+| 08:30 | HKD | GDP (YoY) (Q3) | 1.8% | 1.8% | 3.3% |
 | 09:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
-| 09:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 10:00 | EUR | Italian Trade Balance (Sep) | 2.580B | 2.550B | 1.335B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) | -1.18B |  | -1.46B |
 | 11:00 | EUR | Reserve Assets Total (Oct) | 1,386.88B |  | 1,318.88B |
@@ -66,8 +66,8 @@
 | 20:30 | USD | CFTC Wheat speculative net positions | -22.5K |  | -22.5K |
 | 20:30 | CAD | CFTC CAD speculative net positions | -175.2K |  | -175.2K |
 | 20:30 | MXN | CFTC MXN speculative net positions | 31.1K |  | 31.1K |
+| 20:30 | KRW | Exports (YoY) (Oct) | 4.6% |  | 4.6% |
+| 20:30 | KRW | Imports (YoY) (Oct) | 1.7% |  | 1.7% |
+| 20:30 | KRW | Trade Balance (Oct) | 3.15B |  | 3.17B |
 | 20:30 | CHF | CFTC CHF speculative net positions | -30.0K |  | -30.0K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -8.2K |  | -8.2K |
-| 23:55 | KRW | Exports (YoY) (Oct) |  |  | 4.6% |
-| 23:55 | KRW | Imports (YoY) (Oct) |  |  | 1.7% |
-| 23:55 | KRW | Trade Balance (Oct) |  |  | 3.17B |
