@@ -8,15 +8,15 @@
 | 02:00 | CNY | Chinese Unemployment Rate (Oct) | 5.0% | 5.1% | 5.1% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Sep) | 1.6% | 1.4% | 1.4% |
-| 50 min | GBP | Business Investment (QoQ) (Q3) |  | 0.6% | 1.4% |
-| 50 min | GBP | Industrial Production (MoM) (Sep) |  | 0.1% | 0.5% |
-| 50 min | GBP | Manufacturing Production (MoM) (Sep) |  | 0.0% | 1.1% |
-| 50 min | GBP | Monthly GDP 3M/3M Change (Sep) |  | 0.2% | 0.2% |
-| 50 min | GBP | Trade Balance (Sep) |  | -15.70B | -15.06B |
-| 50 min | GBP | Trade Balance Non-EU (Sep) |  |  | -4.95B |
-| 07:30 | CHF | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 07:45 | EUR | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
-| 07:45 | EUR | French HICP (MoM) (Oct) |  | 0.3% | -1.3% |
+| 07:00 | GBP | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
+| 07:00 | GBP | Industrial Production (MoM) (Sep) | -0.5% | 0.1% | 0.5% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Sep) | -1.0% | 0.0% | 1.3% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
+| 07:00 | GBP | Trade Balance (Sep) | -16.32B | -15.70B | -15.21B |
+| 07:00 | GBP | Trade Balance Non-EU (Sep) | -5.31B |  | -4.85B |
+| 23 min | CHF | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 38 min | EUR | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
+| 38 min | EUR | French HICP (MoM) (Oct) |  | 0.3% | -1.3% |
 | 09:30 | GBP | Labour Productivity (Q2) |  |  | 0.1% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |

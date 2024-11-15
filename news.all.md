@@ -26,38 +26,38 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 4.4% |  | -5.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 1.6% | 1.4% | 1.4% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 1.90 | 0.20 | -2.90 |
-| 50 min | GBP | Low | Business Investment (YoY) (Q3) |  |  | 0.2% |
-| 50 min | GBP | Moderate | Business Investment (QoQ) (Q3) |  | 0.6% | 1.4% |
-| 50 min | GBP | Low | Construction Output (MoM) (Sep) |  | 0.3% | 0.4% |
-| 50 min | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | -0.5% | 0.3% |
-| 50 min | GBP | High | GDP (QoQ) (Q3) |  | 0.2% | 0.5% |
-| 50 min | GBP | High | GDP (YoY) (Q3) |  | 0.1% | 0.7% |
-| 50 min | GBP | High | GDP (MoM) (Sep) |  | 0.2% | 0.2% |
-| 50 min | GBP | Low | GDP (YoY) (Sep) |  | 1.1% | 1.0% |
-| 50 min | GBP | Low | Index of Services |  | 0.2% | 0.1% |
-| 50 min | GBP | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.5% |
-| 50 min | GBP | Low | Industrial Production (YoY) (Sep) |  | -1.2% | -1.6% |
-| 50 min | GBP | Moderate | Manufacturing Production (MoM) (Sep) |  | 0.0% | 1.1% |
-| 50 min | GBP | Low | Manufacturing Production (YoY) (Sep) |  | 0.1% | -0.3% |
-| 50 min | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) |  | 0.2% | 0.2% |
-| 50 min | GBP | Moderate | Trade Balance (Sep) |  | -15.70B | -15.06B |
-| 50 min | GBP | Moderate | Trade Balance Non-EU (Sep) |  |  | -4.95B |
-| 50 min | EUR | Low | German WPI (YoY) (Oct) |  |  | -1.6% |
-| 50 min | EUR | Low | German WPI (MoM) (Oct) |  | 0.1% | -0.3% |
-| 50 min | NOK | Low | Trade Balance (Oct) |  |  | 42.8B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.3% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.3% | -1.3% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.00% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 4.5% |  | 0.2% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.1% | 0.3% | 0.6% |
+| 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.5% |
+| 07:00 | GBP | High | GDP (YoY) (Q3) | 1.0% | 0.1% | 0.7% |
+| 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.2% | 0.2% |
+| 07:00 | GBP | Low | GDP (YoY) (Sep) | 1.0% | 1.1% | 1.1% |
+| 07:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | -0.5% | 0.1% | 0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | -0.7% | 0.1% | -0.3% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) | -1.0% | 0.0% | 1.3% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
+| 07:00 | GBP | Moderate | Trade Balance (Sep) | -16.32B | -15.70B | -15.21B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -5.31B |  | -4.85B |
+| 07:00 | EUR | Low | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
+| 07:00 | EUR | Low | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
+| 07:00 | NOK | Low | Trade Balance (Oct) | 63.7B |  | 41.7B |
+| 23 min | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 23 min | CHF | Low | PPI (YoY) (Oct) |  |  | -1.3% |
+| 38 min | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
+| 38 min | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
+| 38 min | EUR | Low | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
+| 38 min | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
+| 38 min | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.3% | -1.3% |
+| 38 min | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
+| 38 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.00% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) |  | -1.1% | -1.1% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 0.6% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
@@ -74,8 +74,8 @@
 | 11:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.3% | 0.5% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Oct) |  |  | -2.1% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Oct) |  |  | -0.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | -0.30 | -11.90 |
