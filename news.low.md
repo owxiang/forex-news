@@ -38,8 +38,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
-| 09:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
 | 10:00 | EUR | Italian Trade Balance (Sep) | 2.580B | 2.550B | 1.335B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) | -1.18B |  | -1.46B |
 | 11:00 | EUR | Reserve Assets Total (Oct) | 1,386.88B |  | 1,318.88B |
@@ -57,17 +57,17 @@
 | 14:15 | USD | Capacity Utilization Rate (Oct) | 77.1% | 77.1% | 77.4% |
 | 14:15 | USD | Manufacturing Production (MoM) (Oct) | -0.5% | -0.5% | -0.3% |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) | 1.7 |  | 6.9 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 23.7K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 102.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -156.4K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 53.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -89.0K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -22.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -175.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 31.1K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -30.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -8.2K |
+| 23 min | USD | CFTC Aluminium speculative net positions | 3.1K |  | 3.1K |
+| 23 min | USD | CFTC Copper speculative net positions | 23.7K |  | 23.7K |
+| 23 min | USD | CFTC Corn speculative net positions | 102.6K |  | 102.6K |
+| 23 min | USD | CFTC Natural Gas speculative net positions | -156.4K |  | -156.4K |
+| 23 min | USD | CFTC Silver speculative net positions | 53.3K |  | 53.3K |
+| 23 min | USD | CFTC Soybeans speculative net positions | -89.0K |  | -89.0K |
+| 23 min | USD | CFTC Wheat speculative net positions | -22.5K |  | -22.5K |
+| 23 min | CAD | CFTC CAD speculative net positions | -175.2K |  | -175.2K |
+| 23 min | MXN | CFTC MXN speculative net positions | 31.1K |  | 31.1K |
+| 23 min | CHF | CFTC CHF speculative net positions | -30.0K |  | -30.0K |
+| 23 min | NZD | CFTC NZD speculative net positions | -8.2K |  | -8.2K |
 | 23:55 | KRW | Exports (YoY) (Oct) |  |  | 4.6% |
 | 23:55 | KRW | Imports (YoY) (Oct) |  |  | 1.7% |
 | 23:55 | KRW | Trade Balance (Oct) |  |  | 3.17B |
