@@ -13,7 +13,7 @@
 | 02:00 | IDR | Export Growth (YoY) (Oct) | 10.25% | 3.84% | 6.44% |
 | 02:00 | IDR | Import Growth (YoY) (Oct) | 17.49% | 7.10% | 8.55% |
 | 02:00 | IDR | Trade Balance (Oct) | 2.47B | 3.05B | 3.26B |
-| 03:35 | JPY | 5-Year JGB Auction |  |  | 0.562% |
+| 20 min | JPY | 5-Year JGB Auction |  |  | 0.562% |
 | 04:30 | JPY | Capacity Utilization (MoM) (Sep) |  |  | -5.3% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Sep) |  | 0.20 | -2.90 |
 | 07:00 | GBP | Business Investment (YoY) (Q3) |  |  | 0.2% |
@@ -23,22 +23,22 @@
 | 07:00 | GBP | Index of Services |  | 0.2% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) |  | -1.2% | -1.6% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Sep) |  | 0.1% | -0.3% |
-| 07:00 | EUR | German WPI (MoM) (Oct) |  | 0.1% | -0.3% |
 | 07:00 | EUR | German WPI (YoY) (Oct) |  |  | -1.6% |
+| 07:00 | EUR | German WPI (MoM) (Oct) |  | 0.1% | -0.3% |
 | 07:00 | NOK | Trade Balance (Oct) |  |  | 42.8B |
 | 07:30 | CHF | PPI (YoY) (Oct) |  |  | -1.3% |
-| 07:45 | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
 | 07:45 | EUR | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
 | 07:45 | EUR | French HICP (YoY) (Oct) |  | 1.5% | 1.5% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.00% |
-| 08:30 | HKD | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 08:30 | HKD | GDP (QoQ) (Q3) |  | -1.1% | -1.1% |
+| 08:30 | HKD | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 0.6% |
-| 09:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
 | 10:00 | EUR | Italian Trade Balance (Sep) |  | 2.550B | 1.431B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) |  |  | -1.36B |
 | 10:00 | INR | Exports (USD) (Oct) |  |  | 34.58B |
