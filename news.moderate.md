@@ -32,10 +32,10 @@
 | 15:00 | USD | Business Inventories (MoM) (Sep) | 0.1% | 0.2% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Sep) | 0.2% | 0.3% | 0.1% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 54 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.5% | 2.5% |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
-| 18:15 | USD | FOMC Member Williams Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q4) | 2.5% | 2.5% | 2.5% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 478 |  | 479 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 584 |  | 585 |
+| 8 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 45.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 196.1K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 255.3K |
