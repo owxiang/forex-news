@@ -17,9 +17,10 @@
 | 07:30 | CHF | PPI (MoM) (Oct) | -0.3% | 0.1% | -0.1% |
 | 07:45 | EUR | French CPI (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
 | 07:45 | EUR | French HICP (MoM) (Oct) | 0.3% | 0.3% | -1.3% |
-| 23 min | GBP | Labour Productivity (Q2) |  |  | 0.1% |
-| 53 min | EUR | EU Economic Forecasts |  |  |  |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
+| 09:30 | GBP | Labour Productivity (Q2) | 0.2% |  | 0.1% |
+| 09:31 | GBP | Labour Productivity (Q3) | -0.8% |  | 0.2% |
+| 10:00 | EUR | EU Economic Forecasts |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 13:30 | USD | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
