@@ -27,8 +27,8 @@
 | 13:30 | USD | NY Empire State Manufacturing Index (Nov) | 31.20 | -0.30 | -11.90 |
 | 13:30 | USD | Retail Control (MoM) (Oct) | -0.1% | 0.3% | 1.2% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.8% | 1.0% | -0.9% |
-| 14:15 | USD | Industrial Production (MoM) (Oct) | -0.3% | -0.3% | -0.5% |
 | 14:15 | USD | Industrial Production (YoY) (Oct) | -0.29% |  | -0.73% |
+| 14:15 | USD | Industrial Production (MoM) (Oct) | -0.3% | -0.3% | -0.5% |
 | 15:00 | USD | Business Inventories (MoM) (Sep) | 0.1% | 0.2% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Sep) | 0.2% | 0.3% | 0.1% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
