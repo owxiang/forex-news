@@ -21,7 +21,7 @@
 | 09:31 | GBP | Labour Productivity (Q3) | -0.8% |  | 0.2% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 11:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 24 min | EUR | ECB McCaul Speaks |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 13:30 | USD | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |

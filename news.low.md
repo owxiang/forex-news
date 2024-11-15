@@ -31,13 +31,13 @@
 | 07:00 | EUR | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
 | 07:00 | NOK | Trade Balance (Oct) | 63.7B |  | 41.7B |
 | 07:30 | CHF | PPI (YoY) (Oct) | -1.8% |  | -1.3% |
-| 07:45 | EUR | French CPI NSA (YoY) (Oct) | 1.20% |  | 1.10% |
 | 07:45 | EUR | French CPI NSA (MoM) (Oct) | 0.20% |  | -1.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Oct) | 1.20% |  | 1.10% |
 | 07:45 | EUR | French CPI (YoY) (Oct) | 1.2% | 1.2% | 1.1% |
 | 07:45 | EUR | French HICP (YoY) (Oct) | 1.6% | 1.5% | 1.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) | 1.10% |  | 1.00% |
-| 08:30 | HKD | GDP (YoY) (Q3) | 1.8% | 1.8% | 3.3% |
 | 08:30 | HKD | GDP (QoQ) (Q3) | -1.1% | -1.1% | 0.4% |
+| 08:30 | HKD | GDP (YoY) (Q3) | 1.8% | 1.8% | 3.3% |
 | 09:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
@@ -45,11 +45,12 @@
 | 09:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
 | 10:00 | EUR | Italian Trade Balance (Sep) | 2.580B | 2.550B | 1.335B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) | -1.18B |  | -1.46B |
-| 53 min | EUR | Reserve Assets Total (Oct) |  |  | 1,318.88B |
-| 11:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
-| 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
-| 11:30 | INR | Deposit Growth |  |  | 11.7% |
-| 11:30 | INR | FX Reserves, USD |  |  | 682.13B |
+| 10:45 | CNY | FDI (Oct) | -29.80% |  | -30.40% |
+| 11:00 | EUR | Reserve Assets Total (Oct) | 1,386.88B |  | 1,318.88B |
+| 24 min | CAD | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
+| 24 min | INR | Bank Loan Growth |  |  | 11.5% |
+| 24 min | INR | Deposit Growth |  |  | 11.7% |
+| 24 min | INR | FX Reserves, USD |  |  | 682.13B |
 | 13:30 | USD | Export Price Index (YoY) (Oct) |  |  | -2.1% |
 | 13:30 | USD | Import Price Index (YoY) (Oct) |  |  | -0.1% |
 | 13:30 | USD | Retail Sales (YoY) (Oct) |  |  | 1.74% |
