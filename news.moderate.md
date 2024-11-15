@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Oct) |  | 3.5% | 3.4% |
-| 02:00 | CNY | Industrial Production (YoY) (Oct) |  | 5.5% | 5.4% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 5.8% |
-| 02:00 | CNY | Chinese Unemployment Rate (Oct) |  | 5.1% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 26 min | CNY | Fixed Asset Investment (YoY) (Oct) |  | 3.5% | 3.4% |
+| 26 min | CNY | Industrial Production (YoY) (Oct) |  | 5.5% | 5.4% |
+| 26 min | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 5.8% |
+| 26 min | CNY | Chinese Unemployment Rate (Oct) |  | 5.1% | 5.1% |
+| 26 min | CNY | NBS Press Conference |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Sep) |  | 1.4% | 1.4% |
 | 07:00 | GBP | Business Investment (QoQ) (Q3) |  | 0.5% | 1.4% |
 | 07:00 | GBP | Industrial Production (MoM) (Sep) |  | 0.2% | 0.5% |
