@@ -23,13 +23,13 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 4.4% |  | -5.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 1.6% | 1.4% | 1.4% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 1.90 | 0.20 | -2.90 |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 4.5% |  | 0.2% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
-| 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.5% |
 | 07:00 | GBP | High | GDP (YoY) (Q3) | 1.0% | 0.1% | 0.7% |
+| 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Sep) | 1.0% | 1.1% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | -0.5% | 0.1% | 0.5% |
@@ -56,8 +56,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) | 0.2% |  | 0.1% |
 | 09:31 | GBP | Moderate | Labour Productivity (Q3) | -0.8% |  | 0.2% |
 | 10:00 | EUR | Low | Italian Trade Balance (Sep) | 2.580B | 2.550B | 1.335B |
@@ -73,8 +73,8 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Oct) | 0.1% | 0.3% | 1.0% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Oct) | -0.1% | -1.7% | -1.9% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) | 0.8% | -0.1% | -0.6% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) | 0.3% | -0.1% | -0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Oct) | 0.8% | 0.3% | -0.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) | 0.3% | -0.1% | -0.4% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) | 31.20 | -0.30 | -11.90 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Oct) | -0.1% | 0.3% | 1.2% |
 | 13:30 | USD | High | Retail Sales (MoM) (Oct) | 0.4% | 0.3% | 0.8% |
@@ -84,14 +84,14 @@
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) | 168.5K |  | 166.0K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) | 0.8% | 1.0% | -0.9% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 9 min | USD | Low | Capacity Utilization Rate (Oct) |  | 77.1% | 77.5% |
-| 9 min | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | -0.64% |
-| 9 min | USD | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -0.3% |
-| 9 min | USD | Low | Manufacturing Production (MoM) (Oct) |  | -0.5% | -0.4% |
-| 54 min | USD | Moderate | Business Inventories (MoM) (Sep) |  | 0.2% | 0.3% |
-| 54 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.5% |
-| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 6.9 |
+| 14:15 | USD | Low | Capacity Utilization Rate (Oct) | 77.1% | 77.1% | 77.4% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Oct) | -0.3% | -0.3% | -0.5% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Oct) | -0.29% |  | -0.73% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Oct) | -0.5% | -0.5% | -0.3% |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Sep) | 0.1% | 0.2% | 0.3% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) | 0.2% | 0.3% | 0.1% |
+| 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 24 min | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 6.9 |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.5% | 2.5% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |

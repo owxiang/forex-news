@@ -38,8 +38,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
-| 09:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 10:00 | EUR | Italian Trade Balance (Sep) | 2.580B | 2.550B | 1.335B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) | -1.18B |  | -1.46B |
 | 11:00 | EUR | Reserve Assets Total (Oct) | 1,386.88B |  | 1,318.88B |
@@ -54,9 +54,9 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Sep) | -0.5% | -0.7% | -1.3% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Sep) | 168.5K |  | 166.0K |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 9 min | USD | Capacity Utilization Rate (Oct) |  | 77.1% | 77.5% |
-| 9 min | USD | Manufacturing Production (MoM) (Oct) |  | -0.5% | -0.4% |
-| 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 6.9 |
+| 14:15 | USD | Capacity Utilization Rate (Oct) | 77.1% | 77.1% | 77.4% |
+| 14:15 | USD | Manufacturing Production (MoM) (Oct) | -0.5% | -0.5% | -0.3% |
+| 24 min | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 6.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 23.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 102.6K |
