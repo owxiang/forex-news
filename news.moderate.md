@@ -7,7 +7,7 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) | 5.8% |  | 5.8% |
 | 02:00 | CNY | Chinese Unemployment Rate (Oct) | 5.0% | 5.1% | 5.1% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 22 min | JPY | Industrial Production (MoM) (Sep) |  | 1.4% | 1.4% |
+| 04:30 | JPY | Industrial Production (MoM) (Sep) | 1.6% | 1.4% | 1.4% |
 | 07:00 | GBP | Business Investment (QoQ) (Q3) |  | 0.6% | 1.4% |
 | 07:00 | GBP | Industrial Production (MoM) (Sep) |  | 0.1% | 0.5% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Sep) |  | 0.0% | 1.1% |
@@ -20,8 +20,8 @@
 | 09:30 | GBP | Labour Productivity (Q2) |  |  | 0.1% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 11:30 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 11:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 13:30 | USD | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Nov) |  | -0.30 | -11.90 |

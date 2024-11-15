@@ -4,6 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 01:30 | CNY | Low | House Prices (YoY) (Oct) | -5.9% |  | -5.8% |
+| 02:00 | KRW | Low | Exports (YoY) (Oct) | 4.6% |  | 4.6% |
+| 02:00 | KRW | Low | Imports (YoY) (Oct) | 1.7% |  | 1.7% |
+| 02:00 | KRW | Low | Trade Balance (Oct) | 3.15B |  | 3.17B |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 40.12 |  | 40.76 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 61.00 |  | 66.34 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 48.95 |  | 49.55 |
@@ -16,13 +19,13 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) | 3.51% |  | 3.35% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.0% | 5.1% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 02:00 | IDR | Low | Export Growth (YoY) (Oct) | 10.25% | 3.84% | 6.44% |
+| 02:00 | IDR | Low | Export Growth (YoY) (Oct) | 10.25% | 3.84% | 6.31% |
 | 02:00 | IDR | Low | Import Growth (YoY) (Oct) | 17.49% | 7.10% | 8.55% |
-| 02:00 | IDR | Low | Trade Balance (Oct) | 2.47B | 3.05B | 3.26B |
+| 02:00 | IDR | Low | Trade Balance (Oct) | 2.47B | 3.05B | 3.23B |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 0.706% |  | 0.562% |
-| 22 min | JPY | Low | Capacity Utilization (MoM) (Sep) |  |  | -5.3% |
-| 22 min | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 1.4% | 1.4% |
-| 22 min | JPY | Low | Tertiary Industry Activity Index (Sep) |  | 0.20 | -2.90 |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 4.4% |  | -5.3% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 1.6% | 1.4% | 1.4% |
+| 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 1.90 | 0.20 | -2.90 |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | 0.6% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 0.2% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Sep) |  | 0.3% | 0.4% |
@@ -44,8 +47,8 @@
 | 07:00 | NOK | Low | Trade Balance (Oct) |  |  | 42.8B |
 | 07:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.3% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
@@ -61,18 +64,15 @@
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) |  |  | 0.1% |
 | 10:00 | EUR | Low | Italian Trade Balance (Sep) |  | 2.550B | 1.431B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Sep) |  |  | -1.36B |
-| 10:00 | INR | Low | Exports (USD) (Oct) |  |  | 34.58B |
-| 10:00 | INR | Low | Imports (USD) (Oct) |  |  | 55.36B |
-| 10:00 | INR | Low | Trade Balance (Oct) |  |  | -20.78B |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Oct) |  |  | 1,318.88B |
-| 11:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 11:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) |  |  | 169.0K |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 11.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 682.13B |
 | 11:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Oct) |  |  | -2.1% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
@@ -118,6 +118,3 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -44.2K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -8.2K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -21.7K |
-| 23:55 | KRW | Low | Exports (YoY) (Oct) |  |  | 4.6% |
-| 23:55 | KRW | Low | Imports (YoY) (Oct) |  |  | 1.7% |
-| 23:55 | KRW | Low | Trade Balance (Oct) |  |  | 3.17B |
