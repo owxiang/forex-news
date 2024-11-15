@@ -3,22 +3,22 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | House Prices (YoY) (Oct) | -5.9% |  | -5.8% |
-| 26 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 40.76 |
-| 26 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 66.34 |
-| 26 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.55 |
-| 26 min | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 39.27 |
-| 26 min | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 69.36 |
-| 26 min | CNY | Retail Sales (YoY) (Oct) |  | 3.8% | 3.2% |
-| 26 min | CNY | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 3.35% |
-| 26 min | IDR | Export Growth (YoY) (Oct) |  | 3.84% | 6.44% |
-| 26 min | IDR | Import Growth (YoY) (Oct) |  | 7.10% | 8.55% |
-| 26 min | IDR | Trade Balance (Oct) |  | 3.05B | 3.26B |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 40.12 |  | 40.76 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 61.00 |  | 66.34 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 48.95 |  | 49.55 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) | 37.76 |  | 39.27 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) | 73.03 |  | 69.36 |
+| 02:00 | CNY | Retail Sales (YoY) (Oct) | 4.8% | 3.8% | 3.2% |
+| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) | 3.51% |  | 3.35% |
+| 02:00 | IDR | Export Growth (YoY) (Oct) | 10.25% | 3.84% | 6.44% |
+| 02:00 | IDR | Import Growth (YoY) (Oct) | 17.49% | 7.10% | 8.55% |
+| 02:00 | IDR | Trade Balance (Oct) | 2.47B | 3.05B | 3.26B |
 | 03:35 | JPY | 5-Year JGB Auction |  |  | 0.562% |
 | 04:30 | JPY | Capacity Utilization (MoM) (Sep) |  |  | -5.3% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Sep) |  | 0.20 | -2.90 |
 | 07:00 | GBP | Business Investment (YoY) (Q3) |  |  | 0.2% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) |  | -0.5% | 0.3% |
 | 07:00 | GBP | Construction Output (MoM) (Sep) |  | 0.3% | 0.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) |  | -0.5% | 0.3% |
 | 07:00 | GBP | GDP (YoY) (Sep) |  | 1.1% | 1.0% |
 | 07:00 | GBP | Index of Services |  | 0.2% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) |  | -1.2% | -1.6% |
@@ -34,11 +34,11 @@
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.00% |
 | 08:30 | HKD | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 08:30 | HKD | GDP (QoQ) (Q3) |  | -1.1% | -1.1% |
-| 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 0.6% |
-| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 10:00 | EUR | Italian Trade Balance (Sep) |  | 2.550B | 1.431B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) |  |  | -1.36B |
 | 10:00 | INR | Exports (USD) (Oct) |  |  | 34.58B |

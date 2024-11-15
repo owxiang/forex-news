@@ -3,32 +3,32 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | CNY | Low | House Prices (YoY) (Oct) | -5.9% |  | -5.8% |
-| 26 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 40.76 |
-| 26 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 66.34 |
-| 26 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.55 |
-| 26 min | JPY | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 39.27 |
-| 26 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 69.36 |
-| 26 min | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) |  | 3.5% | 3.4% |
-| 26 min | CNY | Moderate | Industrial Production (YoY) (Oct) |  | 5.5% | 5.4% |
-| 26 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 5.8% |
-| 26 min | CNY | Low | Retail Sales (YoY) (Oct) |  | 3.8% | 3.2% |
-| 26 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 3.35% |
-| 26 min | CNY | Moderate | Chinese Unemployment Rate (Oct) |  | 5.1% | 5.1% |
-| 26 min | CNY | Moderate | NBS Press Conference |  |  |  |
-| 26 min | IDR | Low | Export Growth (YoY) (Oct) |  | 3.84% | 6.44% |
-| 26 min | IDR | Low | Import Growth (YoY) (Oct) |  | 7.10% | 8.55% |
-| 26 min | IDR | Low | Trade Balance (Oct) |  | 3.05B | 3.26B |
+| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 40.12 |  | 40.76 |
+| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 61.00 |  | 66.34 |
+| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 48.95 |  | 49.55 |
+| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Nov) | 37.76 |  | 39.27 |
+| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) | 73.03 |  | 69.36 |
+| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) | 3.4% | 3.5% | 3.4% |
+| 02:00 | CNY | Moderate | Industrial Production (YoY) (Oct) | 5.3% | 5.5% | 5.4% |
+| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) | 5.8% |  | 5.8% |
+| 02:00 | CNY | Low | Retail Sales (YoY) (Oct) | 4.8% | 3.8% | 3.2% |
+| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) | 3.51% |  | 3.35% |
+| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.0% | 5.1% | 5.1% |
+| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:00 | IDR | Low | Export Growth (YoY) (Oct) | 10.25% | 3.84% | 6.44% |
+| 02:00 | IDR | Low | Import Growth (YoY) (Oct) | 17.49% | 7.10% | 8.55% |
+| 02:00 | IDR | Low | Trade Balance (Oct) | 2.47B | 3.05B | 3.26B |
 | 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.562% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) |  |  | -5.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 1.4% | 1.4% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) |  | 0.20 | -2.90 |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 0.2% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | 0.5% | 1.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | -0.5% | 0.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Sep) |  | 0.3% | 0.4% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | -0.5% | 0.3% |
+| 07:00 | GBP | High | GDP (MoM) (Sep) |  | 0.2% | 0.2% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) |  | 0.2% | 0.5% |
 | 07:00 | GBP | High | GDP (YoY) (Q3) |  | 0.1% | 0.7% |
-| 07:00 | GBP | High | GDP (MoM) (Sep) |  | 0.2% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Sep) |  | 1.1% | 1.0% |
 | 07:00 | GBP | Low | Index of Services |  | 0.2% | 0.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | 0.2% | 0.5% |
@@ -45,18 +45,18 @@
 | 07:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
-| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.3% | 0.3% |
+| 07:45 | EUR | Low | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Oct) |  | 1.5% | 1.5% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.3% | 0.3% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.00% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q3) |  | -1.1% | -1.1% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 0.6% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q2) |  |  | 0.1% |
 | 10:00 | EUR | Low | Italian Trade Balance (Sep) |  | 2.550B | 1.431B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Sep) |  |  | -1.36B |
@@ -73,8 +73,8 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 682.13B |
 | 11:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | 0.3% | 0.5% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Oct) |  |  | -2.1% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.1% | -0.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Oct) |  |  | -0.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.1% | -0.4% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | -0.30 | -11.90 |
