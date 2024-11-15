@@ -14,9 +14,9 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Trade Balance (Sep) | -16.32B | -15.70B | -15.21B |
 | 07:00 | GBP | Trade Balance Non-EU (Sep) | -5.31B |  | -4.85B |
-| 23 min | CHF | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 38 min | EUR | French CPI (MoM) (Oct) |  | 0.2% | -1.3% |
-| 38 min | EUR | French HICP (MoM) (Oct) |  | 0.3% | -1.3% |
+| 07:30 | CHF | PPI (MoM) (Oct) | -0.3% | 0.1% | -0.1% |
+| 07:45 | EUR | French CPI (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
+| 07:45 | EUR | French HICP (MoM) (Oct) | 0.3% | 0.3% | -1.3% |
 | 09:30 | GBP | Labour Productivity (Q2) |  |  | 0.1% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
@@ -27,8 +27,8 @@
 | 13:30 | USD | NY Empire State Manufacturing Index (Nov) |  | -0.30 | -11.90 |
 | 13:30 | USD | Retail Control (MoM) (Oct) |  |  | 0.7% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Sep) |  | 1.0% | -0.6% |
-| 14:15 | USD | Industrial Production (YoY) (Oct) |  |  | -0.64% |
 | 14:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | -0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Oct) |  |  | -0.64% |
 | 15:00 | USD | Business Inventories (MoM) (Sep) |  | 0.2% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.5% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |

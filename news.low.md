@@ -21,28 +21,28 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Sep) | 4.4% |  | -5.3% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Sep) | 1.90 | 0.20 | -2.90 |
 | 07:00 | GBP | Business Investment (YoY) (Q3) | 4.5% |  | 0.2% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
 | 07:00 | GBP | Construction Output (MoM) (Sep) | 0.1% | 0.3% | 0.6% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
 | 07:00 | GBP | GDP (YoY) (Sep) | 1.0% | 1.1% | 1.1% |
 | 07:00 | GBP | Index of Services | 0.1% | 0.2% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Sep) | -0.7% | 0.1% | -0.3% |
-| 07:00 | EUR | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
 | 07:00 | EUR | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
+| 07:00 | EUR | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
 | 07:00 | NOK | Trade Balance (Oct) | 63.7B |  | 41.7B |
-| 23 min | CHF | PPI (YoY) (Oct) |  |  | -1.3% |
-| 38 min | EUR | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
-| 38 min | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
-| 38 min | EUR | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
-| 38 min | EUR | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
-| 38 min | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.00% |
-| 08:30 | HKD | GDP (QoQ) (Q3) |  | -1.1% | -1.1% |
-| 08:30 | HKD | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
-| 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
-| 09:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 0.6% |
-| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
-| 09:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
+| 07:30 | CHF | PPI (YoY) (Oct) | -1.8% |  | -1.3% |
+| 07:45 | EUR | French CPI NSA (MoM) (Oct) | 0.20% |  | -1.20% |
+| 07:45 | EUR | French CPI (YoY) (Oct) | 1.2% | 1.2% | 1.1% |
+| 07:45 | EUR | French HICP (YoY) (Oct) | 1.6% | 1.5% | 1.4% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) | 1.10% |  | 1.00% |
+| 22 min | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.10% |
+| 22 min | HKD | GDP (QoQ) (Q3) |  | -1.1% | -1.1% |
+| 22 min | HKD | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
+| 52 min | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
+| 52 min | EUR | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
+| 52 min | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 0.6% |
+| 52 min | EUR | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
+| 52 min | EUR | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 10:00 | EUR | Italian Trade Balance (Sep) |  | 2.550B | 1.431B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) |  |  | -1.36B |
 | 11:00 | EUR | Reserve Assets Total (Oct) |  |  | 1,318.88B |
