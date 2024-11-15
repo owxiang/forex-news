@@ -2,6 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 00:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 01:30 | CNY | House Prices (YoY) (Oct) | -5.9% |  | -5.8% |
 | 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 40.12 |  | 40.76 |
 | 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 61.00 |  | 66.34 |
@@ -13,9 +14,9 @@
 | 02:00 | IDR | Export Growth (YoY) (Oct) | 10.25% | 3.84% | 6.44% |
 | 02:00 | IDR | Import Growth (YoY) (Oct) | 17.49% | 7.10% | 8.55% |
 | 02:00 | IDR | Trade Balance (Oct) | 2.47B | 3.05B | 3.26B |
-| 20 min | JPY | 5-Year JGB Auction |  |  | 0.562% |
-| 04:30 | JPY | Capacity Utilization (MoM) (Sep) |  |  | -5.3% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Sep) |  | 0.20 | -2.90 |
+| 03:35 | JPY | 5-Year JGB Auction | 0.706% |  | 0.562% |
+| 22 min | JPY | Capacity Utilization (MoM) (Sep) |  |  | -5.3% |
+| 22 min | JPY | Tertiary Industry Activity Index (Sep) |  | 0.20 | -2.90 |
 | 07:00 | GBP | Business Investment (YoY) (Q3) |  |  | 0.2% |
 | 07:00 | GBP | Construction Output (MoM) (Sep) |  | 0.3% | 0.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Sep) |  | -0.5% | 0.3% |
@@ -23,22 +24,22 @@
 | 07:00 | GBP | Index of Services |  | 0.2% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Sep) |  | -1.2% | -1.6% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Sep) |  | 0.1% | -0.3% |
-| 07:00 | EUR | German WPI (YoY) (Oct) |  |  | -1.6% |
 | 07:00 | EUR | German WPI (MoM) (Oct) |  | 0.1% | -0.3% |
+| 07:00 | EUR | German WPI (YoY) (Oct) |  |  | -1.6% |
 | 07:00 | NOK | Trade Balance (Oct) |  |  | 42.8B |
 | 07:30 | CHF | PPI (YoY) (Oct) |  |  | -1.3% |
 | 07:45 | EUR | French CPI NSA (MoM) (Oct) |  |  | 0.20% |
 | 07:45 | EUR | French CPI NSA (YoY) (Oct) |  |  | 1.20% |
 | 07:45 | EUR | French CPI (YoY) (Oct) |  | 1.2% | 1.1% |
-| 07:45 | EUR | French HICP (YoY) (Oct) |  | 1.5% | 1.5% |
+| 07:45 | EUR | French HICP (YoY) (Oct) |  | 1.5% | 1.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 1.00% |
 | 08:30 | HKD | GDP (QoQ) (Q3) |  | -1.1% | -1.1% |
 | 08:30 | HKD | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.0% | -0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Oct) |  | 0.9% | 0.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 0.6% |
-| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.3% | 1.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.0% | 0.7% |
 | 10:00 | EUR | Italian Trade Balance (Sep) |  | 2.550B | 1.431B |
 | 10:00 | EUR | Italian Trade Balance EU (Sep) |  |  | -1.36B |
 | 10:00 | INR | Exports (USD) (Oct) |  |  | 34.58B |
@@ -53,8 +54,9 @@
 | 13:30 | USD | Import Price Index (YoY) (Oct) |  |  | -0.1% |
 | 13:30 | USD | Retail Sales (YoY) (Oct) |  |  | 1.74% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  |  | 0.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
-| 14:15 | USD | Capacity Utilization Rate (Oct) |  | 77.4% | 77.5% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.7% | -1.3% |
+| 14:00 | USD | Fed Collins Speaks |  |  |  |
+| 14:15 | USD | Capacity Utilization Rate (Oct) |  | 77.1% | 77.5% |
 | 14:15 | USD | Manufacturing Production (MoM) (Oct) |  | -0.5% | -0.4% |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 6.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.1K |
