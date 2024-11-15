@@ -23,38 +23,38 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 4.4% |  | -5.3% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 1.6% | 1.4% | 1.4% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 1.90 | 0.20 | -2.90 |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 4.5% |  | 0.2% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.1% | 0.3% | 0.6% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.2% | 0.6% | 1.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | -0.4% | -0.5% | 0.5% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.1% | 0.3% | 0.6% |
 | 07:00 | GBP | High | GDP (MoM) (Sep) | -0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.5% |
 | 07:00 | GBP | High | GDP (YoY) (Q3) | 1.0% | 0.1% | 0.7% |
 | 07:00 | GBP | Low | GDP (YoY) (Sep) | 1.0% | 1.1% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | -0.5% | 0.1% | 0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Sep) | -1.8% | -1.2% | -1.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) | -1.0% | 0.0% | 1.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | -0.7% | 0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Sep) | -16.32B | -15.70B | -15.21B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -5.31B |  | -4.85B |
-| 07:00 | EUR | Low | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Oct) | 0.4% | 0.1% | -0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Oct) | -0.8% |  | -1.6% |
 | 07:00 | NOK | Low | Trade Balance (Oct) | 63.7B |  | 41.7B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Oct) | -0.3% | 0.1% | -0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Oct) | -1.8% |  | -1.3% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) | 0.20% |  | -1.20% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Oct) | -0.3% | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Oct) | 1.20% |  | 1.10% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Oct) | 0.20% |  | -1.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.3% | 0.2% | -1.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Oct) | 1.2% | 1.2% | 1.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.6% | 1.5% | 1.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.3% | 0.3% | -1.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Oct) | 1.6% | 1.5% | 1.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) | 1.10% |  | 1.00% |
-| 08:30 | HKD | Low | GDP (QoQ) (Q3) | -1.1% | -1.1% | 0.4% |
 | 08:30 | HKD | Low | GDP (YoY) (Q3) | 1.8% | 1.8% | 3.3% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
+| 08:30 | HKD | Low | GDP (QoQ) (Q3) | -1.1% | -1.1% | 0.4% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Oct) | 0.9% | 0.9% | 0.7% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) | 0.8% |  | 0.6% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.3% | 0.3% | 1.2% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.0% | 1.0% | 0.7% |
@@ -71,14 +71,14 @@
 | 11:30 | INR | Low | FX Reserves, USD | 675.65B |  | 682.13B |
 | 11:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Oct) | 0.1% | 0.3% | 1.0% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Oct) | -0.1% | -1.7% | -1.9% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Oct) | 0.8% | -0.1% | -0.6% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Oct) | -0.1% | -1.7% | -1.9% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Oct) | 0.8% | 0.3% | -0.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Oct) | 0.3% | -0.1% | -0.4% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) | 31.20 | -0.30 | -11.90 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Oct) | -0.1% | 0.3% | 1.2% |
-| 13:30 | USD | High | Retail Sales (MoM) (Oct) | 0.4% | 0.3% | 0.8% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Oct) | 2.85% |  | 1.98% |
+| 13:30 | USD | High | Retail Sales (MoM) (Oct) | 0.4% | 0.3% | 0.8% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) | 0.1% | 0.3% | 1.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) | -0.5% | -0.7% | -1.3% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Sep) | 168.5K |  | 166.0K |
@@ -96,26 +96,26 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 478 |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 584 |  | 585 |
 | 18:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 23 min | GBP | Moderate | CFTC GBP speculative net positions | 45.1K |  | 45.1K |
-| 23 min | USD | Low | CFTC Aluminium speculative net positions | 3.1K |  | 3.1K |
-| 23 min | USD | Low | CFTC Copper speculative net positions | 23.7K |  | 23.7K |
-| 23 min | USD | Low | CFTC Corn speculative net positions | 102.6K |  | 102.6K |
-| 23 min | USD | Moderate | CFTC Crude Oil speculative net positions | 196.1K |  | 196.1K |
-| 23 min | USD | Moderate | CFTC Gold speculative net positions | 255.3K |  | 255.3K |
-| 23 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 16.1K |  | 16.1K |
-| 23 min | USD | Low | CFTC Natural Gas speculative net positions | -156.4K |  | -156.4K |
-| 23 min | USD | Moderate | CFTC S&P 500 speculative net positions | 113.4K |  | 113.4K |
-| 23 min | USD | Low | CFTC Silver speculative net positions | 53.3K |  | 53.3K |
-| 23 min | USD | Low | CFTC Soybeans speculative net positions | -89.0K |  | -89.0K |
-| 23 min | USD | Low | CFTC Wheat speculative net positions | -22.5K |  | -22.5K |
-| 23 min | CAD | Low | CFTC CAD speculative net positions | -175.2K |  | -175.2K |
-| 23 min | MXN | Low | CFTC MXN speculative net positions | 31.1K |  | 31.1K |
-| 23 min | CHF | Low | CFTC CHF speculative net positions | -30.0K |  | -30.0K |
-| 23 min | AUD | Moderate | CFTC AUD speculative net positions | 31.0K |  | 31.0K |
-| 23 min | BRL | Moderate | CFTC BRL speculative net positions | -12.5K |  | -12.5K |
-| 23 min | JPY | Moderate | CFTC JPY speculative net positions | -44.2K |  | -44.2K |
-| 23 min | NZD | Low | CFTC NZD speculative net positions | -8.2K |  | -8.2K |
-| 23 min | EUR | Moderate | CFTC EUR speculative net positions | -21.7K |  | -21.7K |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 45.1K |  | 45.1K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 3.1K |  | 3.1K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 23.7K |  | 23.7K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | 102.6K |  | 102.6K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 196.1K |  | 196.1K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 255.3K |  | 255.3K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 16.1K |  | 16.1K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -156.4K |  | -156.4K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | 113.4K |  | 113.4K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 53.3K |  | 53.3K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -89.0K |  | -89.0K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -22.5K |  | -22.5K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -175.2K |  | -175.2K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 31.1K |  | 31.1K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -30.0K |  | -30.0K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | 31.0K |  | 31.0K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -12.5K |  | -12.5K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -44.2K |  | -44.2K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -8.2K |  | -8.2K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -21.7K |  | -21.7K |
 | 23:55 | KRW | Low | Exports (YoY) (Oct) |  |  | 4.6% |
 | 23:55 | KRW | Low | Imports (YoY) (Oct) |  |  | 1.7% |
 | 23:55 | KRW | Low | Trade Balance (Oct) |  |  | 3.17B |
