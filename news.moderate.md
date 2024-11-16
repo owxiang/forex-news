@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 51 min | EUR | ECB's Schnabel Speaks |  |  |  |
