@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | NZD | PPI Input (QoQ) (Q3) |  | 1.0% | 1.4% |
+| 21:45 | NZD | PPI Input (QoQ) (Q3) | 1.9% | 1.0% | 1.4% |
