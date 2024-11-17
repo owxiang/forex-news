@@ -1,6 +1,5 @@
-## 16 November 2024 - Moderate Impact Forex News
+## 17 November 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 21:45 | NZD | PPI Input (QoQ) (Q3) |  | 1.0% | 1.4% |
