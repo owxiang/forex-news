@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
@@ -23,6 +23,6 @@
 | 15:00 | USD | NAHB Housing Market Index (Nov) | 46 | 42 | 43 |
 | 16:30 | USD | 3-Month Bill Auction | 4.420% |  | 4.420% |
 | 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.310% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Sep) |  |  | 19.20B |
-| 21:00 | USD | Overall Net Capital Flow (Sep) |  |  | 79.20B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 111.40B |
+| 53 min | USD | US Foreign Buying, T-bonds (Sep) |  |  | 19.20B |
+| 53 min | USD | Overall Net Capital Flow (Sep) |  |  | 79.20B |
+| 53 min | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 111.40B |

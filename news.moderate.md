@@ -12,4 +12,4 @@
 | 13:30 | CAD | Foreign Securities Purchases (Sep) | 29.30B | 10.50B | 10.33B |
 | 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Sep) |  | 114.3B | 111.4B |
+| 53 min | USD | TIC Net Long-Term Transactions (Sep) |  | 114.3B | 111.4B |
