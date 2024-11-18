@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:30 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 21 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | EUR | German Buba Mauderer Speaks |  |  |  |
