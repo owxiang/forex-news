@@ -11,9 +11,9 @@
 | 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
 | 07:30 | CHF | Industrial Production (YoY) (Q3) | 3.50% |  | 7.00% |
 | 08:30 | HKD | Unemployment Rate (Oct) | 3.1% |  | 3.0% |
-| 09:00 | EUR | Spanish Trade Balance (Sep) |  |  | -4.80B |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.574% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:00 | EUR | Spanish Trade Balance (Sep) | -3.30B |  | -4.80B |
+| 23 min | EUR | German 12-Month Bubill Auction |  |  | 2.574% |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 12.340B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.515% |

@@ -14,11 +14,11 @@
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:30 | HKD | Low | Unemployment Rate (Oct) | 3.1% |  | 3.0% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Sep) |  |  | -4.80B |
-| 23 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 53 min | EUR | Moderate | Trade Balance (Sep) |  | 7.9B | 4.6B |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.574% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:00 | EUR | Low | Spanish Trade Balance (Sep) | -3.30B |  | -4.80B |
+| 09:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | EUR | Moderate | Trade Balance (Sep) | 12.5B | 7.9B | 4.6B |
+| 23 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.574% |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Oct) |  | 239.0K | 223.8K |
