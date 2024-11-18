@@ -3,8 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 01:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
 | 06:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
