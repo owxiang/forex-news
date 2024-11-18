@@ -15,10 +15,10 @@
 | 10:50 | EUR | German 12-Month Bubill Auction | 2.667% |  | 2.574% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 12.340B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.515% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.989% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.806% |
+| 18 min | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 12.340B |
+| 48 min | EUR | French 12-Month BTF Auction |  |  | 2.515% |
+| 48 min | EUR | French 3-Month BTF Auction |  |  | 2.989% |
+| 48 min | EUR | French 6-Month BTF Auction |  |  | 2.806% |
 | 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | NAHB Housing Market Index (Nov) |  | 42 | 43 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.420% |
