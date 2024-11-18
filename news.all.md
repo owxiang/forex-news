@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
@@ -19,12 +19,11 @@
 | 10:35 | GBP | Low | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.667% |  | 2.574% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 49 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Oct) |  | 239.0K | 223.8K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  | 10.50B | 9.97B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 12.340B |
-| 14:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
 | 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.515% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.989% |
