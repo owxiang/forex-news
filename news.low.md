@@ -21,8 +21,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.724% |  | 2.806% |
 | 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | NAHB Housing Market Index (Nov) | 46 | 42 | 43 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.420% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.310% |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.420% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.310% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Sep) |  |  | 19.20B |
 | 21:00 | USD | Overall Net Capital Flow (Sep) |  |  | 79.20B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 111.40B |
