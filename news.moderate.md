@@ -11,5 +11,6 @@
 | 13:15 | CAD | Housing Starts (Oct) |  | 239.0K | 223.8K |
 | 13:30 | CAD | Foreign Securities Purchases (Sep) |  | 10.50B | 9.97B |
 | 14:00 | GBP | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
+| 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Sep) |  | 114.3B | 111.4B |

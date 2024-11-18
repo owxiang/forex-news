@@ -2,9 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
+| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 01:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
@@ -24,10 +25,10 @@
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  | 10.50B | 9.97B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 12.340B |
 | 14:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
+| 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.515% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.989% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.806% |
-| 14:59 | GBP | Low | Rightmove House Price Index (YoY) (Nov) |  |  | 1.0% |
 | 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Low | NAHB Housing Market Index (Nov) |  | 42 | 43 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.420% |

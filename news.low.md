@@ -2,9 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 01:30 | SGD | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
@@ -18,7 +19,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.515% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.989% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.806% |
-| 14:59 | GBP | Rightmove House Price Index (YoY) (Nov) |  |  | 1.0% |
 | 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | NAHB Housing Market Index (Nov) |  | 42 | 43 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.420% |
