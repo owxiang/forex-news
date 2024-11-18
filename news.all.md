@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
@@ -28,8 +28,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.507% |  | 2.515% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.937% |  | 2.989% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.724% |  | 2.806% |
-| 54 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 54 min | USD | Low | NAHB Housing Market Index (Nov) |  | 42 | 43 |
+| 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Low | NAHB Housing Market Index (Nov) | 46 | 42 | 43 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.420% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.310% |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
