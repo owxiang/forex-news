@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 01:30 | SGD | Trade Balance (Oct) | 4.410B |  | 5.210B |
-| 02:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.30% |  | 58.30% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
 | 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | 7.30% |
 | 08:30 | HKD | Unemployment Rate (Oct) |  |  | 3.0% |
 | 09:00 | EUR | Spanish Trade Balance (Sep) |  |  | -4.80B |
