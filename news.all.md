@@ -33,7 +33,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.420% |  | 4.420% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.310% |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 53 min | USD | Low | US Foreign Buying, T-bonds (Sep) |  |  | 19.20B |
-| 53 min | USD | Low | Overall Net Capital Flow (Sep) |  |  | 79.20B |
-| 53 min | USD | Moderate | TIC Net Long-Term Transactions (Sep) |  | 114.3B | 111.4B |
-| 53 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 111.40B |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Sep) | 77.00B |  | 19.20B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Sep) | 398.40B |  | 75.90B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Sep) | 216.1B | 114.3B | 108.8B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Sep) | 216.10B |  | 108.80B |

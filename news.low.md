@@ -23,6 +23,6 @@
 | 15:00 | USD | NAHB Housing Market Index (Nov) | 46 | 42 | 43 |
 | 16:30 | USD | 3-Month Bill Auction | 4.420% |  | 4.420% |
 | 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.310% |
-| 53 min | USD | US Foreign Buying, T-bonds (Sep) |  |  | 19.20B |
-| 53 min | USD | Overall Net Capital Flow (Sep) |  |  | 79.20B |
-| 53 min | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 111.40B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Sep) | 77.00B |  | 19.20B |
+| 21:00 | USD | Overall Net Capital Flow (Sep) | 398.40B |  | 75.90B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | 216.10B |  | 108.80B |
