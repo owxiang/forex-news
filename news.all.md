@@ -1,9 +1,38 @@
-## 17 November 2024 - All Forex News
+## 18 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 21:30 | NZD | Low | Performance of Services Index | 46.0 |  | 45.7 |
-| 21:45 | NZD | Moderate | PPI Input (QoQ) (Q3) | 1.9% | 1.0% | 1.4% |
-| 21:45 | NZD | Low | PPI Output (QoQ) (Q3) | 1.5% | 0.9% | 1.1% |
-| 45 min | JPY | Low | Core Machinery Orders (YoY) (Sep) |  |  | -3.4% |
-| 45 min | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 1.4% | -1.9% |
+| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.4% |  | 0.3% |
+| 2 min | SGD | Low | Non-Oil Exports (YoY) (Oct) |  |  | 2.70% |
+| 2 min | SGD | Low | Non-Oil Exports (MoM) (Oct) |  |  | 1.10% |
+| 01:30 | SGD | Low | Trade Balance (Oct) |  |  | 5.250B |
+| 02:00 | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 58.30% |
+| 06:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 07:30 | CHF | Low | Industrial Production (YoY) (Q3) |  |  | 7.30% |
+| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 3.0% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Sep) |  |  | -4.80B |
+| 09:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | EUR | Moderate | Trade Balance (Sep) |  | 7.9B | 4.6B |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.574% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:15 | CAD | Moderate | Housing Starts (Oct) |  | 239.0K | 223.8K |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  | 10.50B | 9.97B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 12.340B |
+| 14:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Oct) |  |  | 0.2% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.515% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.989% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.806% |
+| 14:59 | GBP | Low | Rightmove House Price Index (YoY) (Nov) |  |  | 1.0% |
+| 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Low | NAHB Housing Market Index (Nov) |  | 42 | 43 |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.420% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.310% |
+| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Sep) |  |  | 19.20B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Sep) |  |  | 79.20B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Sep) |  | 114.3B | 111.4B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 111.40B |
