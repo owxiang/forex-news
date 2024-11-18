@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
 | 00:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
@@ -32,7 +32,7 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Nov) | 46 | 42 | 43 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.420% |  | 4.420% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.310% |
-| 22 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Sep) |  |  | 19.20B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Sep) |  |  | 79.20B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Sep) |  | 114.3B | 111.4B |
