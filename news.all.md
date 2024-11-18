@@ -9,9 +9,9 @@
 | 00:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
-| 21 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q3) |  |  | 7.30% |
-| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 06:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 24 min | CHF | Low | Industrial Production (YoY) (Q3) |  |  | 7.30% |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 3.0% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Sep) |  |  | -4.80B |

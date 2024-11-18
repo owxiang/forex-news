@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 06:30 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | Trade Balance (Sep) |  | 7.9B | 4.6B |

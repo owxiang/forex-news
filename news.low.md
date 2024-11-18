@@ -9,7 +9,7 @@
 | 00:30 | SGD | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
-| 07:30 | CHF | Industrial Production (YoY) (Q3) |  |  | 7.30% |
+| 24 min | CHF | Industrial Production (YoY) (Q3) |  |  | 7.30% |
 | 08:30 | HKD | Unemployment Rate (Oct) |  |  | 3.0% |
 | 09:00 | EUR | Spanish Trade Balance (Sep) |  |  | -4.80B |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.574% |
