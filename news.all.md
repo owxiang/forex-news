@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
 | 00:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
@@ -16,10 +15,11 @@
 | 08:30 | HKD | Low | Unemployment Rate (Oct) | 3.1% |  | 3.0% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Sep) | -3.30B |  | -4.80B |
 | 09:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Trade Balance (Sep) | 12.5B | 7.9B | 4.6B |
-| 23 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.574% |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 10:00 | EUR | Moderate | Trade Balance (Sep) | 12.5B | 7.9B | 4.1B |
+| 10:35 | GBP | Low | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.667% |  | 2.574% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Oct) |  | 239.0K | 223.8K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  | 10.50B | 9.97B |
