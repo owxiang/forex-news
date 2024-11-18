@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.4% |  | 0.3% |
-| 2 min | SGD | Low | Non-Oil Exports (YoY) (Oct) |  |  | 2.70% |
-| 2 min | SGD | Low | Non-Oil Exports (MoM) (Oct) |  |  | 1.10% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
 | 01:30 | SGD | Low | Trade Balance (Oct) |  |  | 5.250B |
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 58.30% |
+| 25 min | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 58.30% |
 | 06:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q3) |  |  | 7.30% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
