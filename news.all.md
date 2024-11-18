@@ -4,17 +4,17 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
 | 00:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
 | 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
 | 06:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 24 min | CHF | Low | Industrial Production (YoY) (Q3) |  |  | 7.30% |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 3.0% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Sep) |  |  | -4.80B |
+| 07:30 | CHF | Low | Industrial Production (YoY) (Q3) | 3.50% |  | 7.00% |
+| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 6 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 21 min | HKD | Low | Unemployment Rate (Oct) |  |  | 3.0% |
+| 51 min | EUR | Low | Spanish Trade Balance (Sep) |  |  | -4.80B |
 | 09:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Trade Balance (Sep) |  | 7.9B | 4.6B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.574% |
