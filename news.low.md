@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | NOK | Consumer Confidence (Q4) |  |  | -16.30 |
-| 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 07:00 | CHF | Trade Balance (Oct) |  | 4.250B | 4.946B |
-| 07:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 07:00 | EUR | German Car Registration (MoM) (Oct) |  |  | 5.8% |
+| 07:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 07:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 61.7% |
 | 07:00 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
 | 09:00 | EUR | Current Account (Sep) |  | 27.0B | 31.5B |
