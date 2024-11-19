@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 05:30 | NOK | Low | Consumer Confidence (Q4) |  |  | -16.30 |
+| 24 min | NOK | Low | Consumer Confidence (Q4) | -14.40 |  | -15.20 |
 | 07:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | NOK | Consumer Confidence (Q4) |  |  | -16.30 |
+| 24 min | NOK | Consumer Confidence (Q4) | -14.40 |  | -15.20 |
 | 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
