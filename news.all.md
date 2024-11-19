@@ -31,8 +31,8 @@
 | 13:30 | USD | Moderate | Housing Starts (Oct) | 1.311M | 1.340M | 1.353M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) | -3.1% |  | -1.9% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Oct) | 2.2% | 2.1% | 2.1% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) | 0.4% |  | 0.0% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) | 1.7% |  | 1.6% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) | 0.4% |  | 0.0% |
 | 13:30 | CAD | Low | CPI (YoY) (Oct) | 2.0% | 1.9% | 1.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Oct) | 0.4% | 0.3% | -0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Oct) | 2.5% | 2.2% | 2.3% |
@@ -42,7 +42,7 @@
 | 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Oct) | -0.1% |  | -0.2% |
 | 21:00 | KRW | Low | PPI (YoY) (Oct) | 1.0% |  | 1.0% |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.800M | -0.777M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 4.753M | 0.800M | -0.777M |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.15T | -0.19T |
 | 23:50 | JPY | Moderate | Exports (YoY) (Oct) |  | 2.2% | -1.7% |
