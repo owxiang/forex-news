@@ -1,3 +1,5 @@
-## 18 November 2024 - High Impact Forex News
+## 19 November 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 10:00 | EUR | CPI (YoY) (Oct) |  | 2.0% | 2.0% |

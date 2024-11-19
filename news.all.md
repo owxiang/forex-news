@@ -1,39 +1,58 @@
-## 18 November 2024 - All Forex News
+## 19 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
-| 00:30 | SGD | Low | Trade Balance (Oct) | 4.410B |  | 5.210B |
-| 01:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
-| 06:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q3) | 3.50% |  | 7.00% |
-| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:30 | HKD | Low | Unemployment Rate (Oct) | 3.1% |  | 3.0% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Sep) | -3.30B |  | -4.80B |
-| 09:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Trade Balance (Sep) | 12.5B | 7.9B | 4.1B |
-| 10:35 | GBP | Low | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
-| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.667% |  | 2.574% |
+| 3 min | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 05:30 | NOK | Low | Consumer Confidence (Q4) |  |  | -16.30 |
+| 07:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 225.4% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 07:00 | CHF | Low | Trade Balance (Oct) |  | 4.250B | 4.946B |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 5.8% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 61.7% |
+| 08:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 09:00 | EUR | Low | Current Account (Sep) |  | 27.0B | 31.5B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Sep) |  |  | 35.2B |
+| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.131% |
+| 10:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 10:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 10:00 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
+| 10:00 | EUR | Low | Spanish Consumer Confidence (Oct) |  |  | 84.8 |
+| 10:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 2.7% | 2.7% |
+| 10:00 | EUR | High | CPI (YoY) (Oct) |  | 2.0% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Oct) |  | 0.3% | -0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) |  |  | -0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) |  |  | 1.6% |
+| 10:00 | EUR | Low | CPI, n.s.a (Oct) |  | 127.03 | 126.60 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  | 2.7% | 2.7% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.0% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:15 | CAD | Moderate | Housing Starts (Oct) | 240.8K | 239.0K | 223.4K |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Sep) | 29.30B | 10.50B | 10.33B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) | 4.140B |  | 12.250B |
-| 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.507% |  | 2.515% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.937% |  | 2.989% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.724% |  | 2.806% |
-| 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 15:00 | USD | Low | NAHB Housing Market Index (Nov) | 46 | 42 | 43 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.420% |  | 4.420% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.310% |  | 4.310% |
-| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Sep) | 77.00B |  | 19.20B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Sep) | 398.40B |  | 75.90B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Sep) | 216.1B | 114.3B | 108.8B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Sep) | 216.10B |  | 108.80B |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
+| 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 13:30 | USD | Low | Building Permits (MoM) (Oct) |  |  | -3.1% |
+| 13:30 | USD | Moderate | Building Permits (Oct) |  | 1.440M | 1.425M |
+| 13:30 | USD | Moderate | Housing Starts (Oct) |  | 1.340M | 1.354M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | -0.5% |
+| 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.1% | 2.1% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 1.6% |
+| 13:30 | CAD | Low | CPI (YoY) (Oct) |  | 1.9% | 1.6% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.3% | -0.4% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 2.2% | 2.3% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 2.4% | 2.4% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.8% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.5% | 2.5% |
+| 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | -0.2% |
+| 21:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.0% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.777M |
+| 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
+| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.15T | -0.19T |
+| 23:50 | JPY | Moderate | Exports (YoY) (Oct) |  | 2.2% | -1.7% |
+| 23:50 | JPY | Low | Imports (YoY) (Oct) |  | -0.3% | 2.1% |
+| 23:50 | JPY | Moderate | Trade Balance (Oct) |  | -360.4B | -294.1B |

@@ -1,28 +1,37 @@
-## 18 November 2024 - Low Impact Forex News
+## 19 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Nov) | -1.4% |  | 0.3% |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Oct) | -4.60% |  | 0.90% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Oct) | -7.40% |  | -0.60% |
-| 00:30 | SGD | Trade Balance (Oct) | 4.410B |  | 5.210B |
-| 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 02:00 | NZD | RBNZ Offshore Holdings (Oct) | 59.20% |  | 58.30% |
-| 07:30 | CHF | Industrial Production (YoY) (Q3) | 3.50% |  | 7.00% |
-| 08:30 | HKD | Unemployment Rate (Oct) | 3.1% |  | 3.0% |
-| 09:00 | EUR | Spanish Trade Balance (Sep) | -3.30B |  | -4.80B |
-| 10:35 | GBP | Rightmove House Price Index (YoY) (Nov) | 1.2% |  | 1.0% |
-| 10:50 | EUR | German 12-Month Bubill Auction | 2.667% |  | 2.574% |
+| 05:30 | NOK | Consumer Confidence (Q4) |  |  | -16.30 |
+| 07:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 07:00 | CHF | Trade Balance (Oct) |  | 4.250B | 4.946B |
+| 07:00 | EUR | German Car Registration (MoM) (Oct) |  |  | 5.8% |
+| 07:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
+| 07:00 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 07:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 61.7% |
+| 09:00 | EUR | Current Account (Sep) |  | 27.0B | 31.5B |
+| 09:00 | EUR | Current Account n.s.a. (Sep) |  |  | 35.2B |
+| 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.131% |
+| 10:00 | EUR | Spanish Consumer Confidence (Oct) |  |  | 84.8 |
+| 10:00 | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | -0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 1.6% |
+| 10:00 | EUR | CPI, n.s.a (Oct) |  | 127.03 | 126.60 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 2.7% | 2.7% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.0% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Sep) | 4.140B |  | 12.250B |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.507% |  | 2.515% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.937% |  | 2.989% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.724% |  | 2.806% |
-| 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 15:00 | USD | NAHB Housing Market Index (Nov) | 46 | 42 | 43 |
-| 16:30 | USD | 3-Month Bill Auction | 4.420% |  | 4.420% |
-| 16:30 | USD | 6-Month Bill Auction | 4.310% |  | 4.310% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Sep) | 77.00B |  | 19.20B |
-| 21:00 | USD | Overall Net Capital Flow (Sep) | 398.40B |  | 75.90B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | 216.10B |  | 108.80B |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
+| 13:30 | USD | Building Permits (MoM) (Oct) |  |  | -3.1% |
+| 13:30 | CAD | Common CPI (YoY) (Oct) |  | 2.1% | 2.1% |
+| 13:30 | CAD | CPI (YoY) (Oct) |  | 1.9% | 1.6% |
+| 13:30 | CAD | Median CPI (YoY) (Oct) |  | 2.2% | 2.3% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Oct) |  | 2.4% | 2.4% |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.8% |
+| 21:00 | KRW | PPI (MoM) (Oct) |  |  | -0.2% |
+| 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.0% |
+| 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
+| 23:50 | JPY | Imports (YoY) (Oct) |  | -0.3% | 2.1% |
