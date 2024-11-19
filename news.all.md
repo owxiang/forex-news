@@ -15,27 +15,27 @@
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Oct) | 79.6 |  | 84.8 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.3% | 0.3% | -0.1% |
 | 10:00 | EUR | High | CPI (YoY) (Oct) | 2.0% | 2.0% | 2.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) | 1.9% |  | 1.6% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.3% | 0.3% | -0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) | 0.3% |  | -0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) | 1.9% |  | 1.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) | 127.03 | 127.03 | 126.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) | 0.3% | 0.2% | 0.0% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 50 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) (Oct) |  |  | -3.1% |
-| 13:30 | USD | Moderate | Building Permits (Oct) |  | 1.440M | 1.425M |
-| 13:30 | USD | Moderate | Housing Starts (Oct) |  | 1.340M | 1.354M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | -0.5% |
-| 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.1% | 2.1% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.0% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 1.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Oct) |  | 1.9% | 1.6% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.3% | -0.4% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 2.2% | 2.3% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 2.4% | 2.4% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.8% |
+| 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 18 min | USD | Moderate | Building Permits (Oct) |  | 1.440M | 1.425M |
+| 18 min | USD | Low | Building Permits (MoM) (Oct) |  |  | -3.1% |
+| 18 min | USD | Moderate | Housing Starts (Oct) |  | 1.340M | 1.354M |
+| 18 min | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | -0.5% |
+| 18 min | CAD | Low | Common CPI (YoY) (Oct) |  | 2.1% | 2.1% |
+| 18 min | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 1.6% |
+| 18 min | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.0% |
+| 18 min | CAD | Low | CPI (YoY) (Oct) |  | 1.9% | 1.6% |
+| 18 min | CAD | Moderate | CPI (MoM) (Oct) |  | 0.3% | -0.4% |
+| 18 min | CAD | Low | Median CPI (YoY) (Oct) |  | 2.2% | 2.3% |
+| 18 min | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 2.4% | 2.4% |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 4.8% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.5% | 2.5% |
 | 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | -0.2% |
