@@ -7,7 +7,7 @@
 | 07:00 | CHF | Low | Trade Balance (Oct) | 8.063B | 4.250B | 4.942B |
 | 08:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Sep) | 37.0B | 27.0B | 31.5B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Sep) | 51.5B |  | 35.2B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Sep) | 51.5B |  | 38.8B |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.558% |  | 4.131% |
 | 10:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
@@ -15,24 +15,22 @@
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Oct) | 79.6 |  | 84.8 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (Oct) | 2.0% | 2.0% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.3% | 0.3% | -0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) | 0.3% |  | -0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Oct) | 2.0% | 2.0% | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) | 1.9% |  | 1.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) | 0.3% |  | -0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Oct) | 127.03 | 127.03 | 126.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) | 0.3% | 0.2% | 0.0% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 55 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
-| 55 min | USD | Low | Milk Auctions |  |  | 3,997.0 |
-| 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 50 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 13:30 | USD | Low | Building Permits (MoM) (Oct) |  |  | -3.1% |
 | 13:30 | USD | Moderate | Building Permits (Oct) |  | 1.440M | 1.425M |
 | 13:30 | USD | Moderate | Housing Starts (Oct) |  | 1.340M | 1.354M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | -0.5% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 2.1% | 2.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 1.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 1.6% |
 | 13:30 | CAD | Low | CPI (YoY) (Oct) |  | 1.9% | 1.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.3% | -0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 2.2% | 2.3% |
