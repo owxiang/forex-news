@@ -11,10 +11,10 @@
 | 10:00 | EUR | CPI (MoM) (Oct) | 0.3% | 0.3% | -0.1% |
 | 13:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Oct) | 1.416M | 1.440M | 1.425M |
-| 13:30 | USD | Housing Starts (MoM) (Oct) | -3.1% |  | -1.9% |
 | 13:30 | USD | Housing Starts (Oct) | 1.311M | 1.340M | 1.353M |
-| 13:30 | CAD | Core CPI (MoM) (Oct) | 0.4% |  | 0.0% |
+| 13:30 | USD | Housing Starts (MoM) (Oct) | -3.1% |  | -1.9% |
 | 13:30 | CAD | Core CPI (YoY) (Oct) | 1.7% |  | 1.6% |
+| 13:30 | CAD | Core CPI (MoM) (Oct) | 0.4% |  | 0.0% |
 | 13:30 | CAD | CPI (MoM) (Oct) | 0.4% | 0.3% | -0.4% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) | 2.6% | 2.5% | 2.5% |
 | 16:45 | EUR | German Buba Balz Speaks |  |  |  |
