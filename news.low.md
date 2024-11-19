@@ -2,16 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | NOK | Consumer Confidence (Q4) | -14.40 |  | -15.20 |
-| 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
-| 07:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
-| 07:00 | CHF | Trade Balance (Oct) |  | 4.250B | 4.946B |
-| 07:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 07:00 | EUR | German Car Registration (MoM) (Oct) |  |  | 5.8% |
-| 07:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 61.7% |
-| 07:00 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 04:30 | NOK | Consumer Confidence (Q4) | -14.40 |  | -15.20 |
+| 51 min | CHF | Trade Balance (Oct) |  | 4.250B | 4.946B |
 | 09:00 | EUR | Current Account (Sep) |  | 27.0B | 31.5B |
 | 09:00 | EUR | Current Account n.s.a. (Sep) |  |  | 35.2B |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.131% |
@@ -31,7 +23,7 @@
 | 13:30 | CAD | Median CPI (YoY) (Oct) |  | 2.2% | 2.3% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Oct) |  | 2.4% | 2.4% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.8% |
-| 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.0% |
 | 21:00 | KRW | PPI (MoM) (Oct) |  |  | -0.2% |
+| 21:00 | KRW | PPI (YoY) (Oct) |  |  | 1.0% |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
 | 23:50 | JPY | Imports (YoY) (Oct) |  | -0.3% | 2.1% |

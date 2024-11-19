@@ -3,16 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 24 min | NOK | Low | Consumer Confidence (Q4) | -14.40 |  | -15.20 |
-| 07:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 225.4% |
-| 07:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
-| 07:00 | CHF | Low | Trade Balance (Oct) |  | 4.250B | 4.946B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 5.8% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 61.7% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 04:30 | NOK | Low | Consumer Confidence (Q4) | -14.40 |  | -15.20 |
+| 51 min | CHF | Low | Trade Balance (Oct) |  | 4.250B | 4.946B |
 | 08:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Sep) |  | 27.0B | 31.5B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Sep) |  |  | 35.2B |
@@ -48,8 +40,8 @@
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.8% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.5% | 2.5% |
 | 16:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.0% |
 | 21:00 | KRW | Low | PPI (MoM) (Oct) |  |  | -0.2% |
+| 21:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.0% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.777M |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.15T | -0.19T |
