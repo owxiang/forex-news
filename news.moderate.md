@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 08:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 54 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 54 min | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
-| 54 min | EUR | Core CPI (YoY) (Oct) |  | 2.7% | 2.7% |
-| 54 min | EUR | CPI (MoM) (Oct) |  | 0.3% | -0.1% |
+| 10:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 10:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 10:00 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Oct) | 2.7% | 2.7% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Oct) | 0.3% | 0.3% | -0.1% |
 | 13:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Oct) |  | 1.440M | 1.425M |
-| 13:30 | USD | Housing Starts (MoM) (Oct) |  |  | -0.5% |
 | 13:30 | USD | Housing Starts (Oct) |  | 1.340M | 1.354M |
+| 13:30 | USD | Housing Starts (MoM) (Oct) |  |  | -0.5% |
 | 13:30 | CAD | Core CPI (MoM) (Oct) |  |  | 0.0% |
 | 13:30 | CAD | Core CPI (YoY) (Oct) |  |  | 1.6% |
 | 13:30 | CAD | CPI (MoM) (Oct) |  | 0.3% | -0.4% |
