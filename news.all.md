@@ -31,8 +31,8 @@
 | 13:30 | USD | Moderate | Housing Starts (Oct) | 1.311M | 1.340M | 1.353M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Oct) | -3.1% |  | -1.9% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Oct) | 2.2% | 2.1% | 2.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) | 1.7% |  | 1.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Oct) | 0.4% |  | 0.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Oct) | 1.7% |  | 1.6% |
 | 13:30 | CAD | Low | CPI (YoY) (Oct) | 2.0% | 1.9% | 1.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Oct) | 0.4% | 0.3% | -0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Oct) | 2.5% | 2.2% | 2.3% |
