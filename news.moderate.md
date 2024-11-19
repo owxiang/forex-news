@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | RBA Meeting Minutes |  |  |  |
+| 00:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 08:45 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
@@ -13,8 +13,8 @@
 | 13:30 | USD | Building Permits (Oct) |  | 1.440M | 1.425M |
 | 13:30 | USD | Housing Starts (Oct) |  | 1.340M | 1.354M |
 | 13:30 | USD | Housing Starts (MoM) (Oct) |  |  | -0.5% |
-| 13:30 | CAD | Core CPI (MoM) (Oct) |  |  | 0.0% |
 | 13:30 | CAD | Core CPI (YoY) (Oct) |  |  | 1.6% |
+| 13:30 | CAD | Core CPI (MoM) (Oct) |  |  | 0.0% |
 | 13:30 | CAD | CPI (MoM) (Oct) |  | 0.3% | -0.4% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) |  | 2.5% | 2.5% |
 | 16:45 | EUR | German Buba Balz Speaks |  |  |  |
