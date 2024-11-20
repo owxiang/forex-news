@@ -5,8 +5,8 @@
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Oct) | 0.2% |  | 0.0% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Nov) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Oct) | 0.4% |  | 0.1% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Oct) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Oct) | 1.7% |  | 1.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Oct) | 2.8% |  | 2.0% |
