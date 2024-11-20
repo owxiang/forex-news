@@ -19,8 +19,8 @@
 | 07:20 | IDR | Loans (YoY) (Oct) |  |  | 10.85% |
 | 07:30 | IDR | Deposit Facility Rate (Nov) |  |  | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Nov) |  |  | 6.75% |
-| 08:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 4.1% |
 | 08:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.3% |
+| 08:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 4.1% |
 | 08:00 | ZAR | CPI (MoM) (Oct) |  |  | 0.1% |
 | 08:00 | ZAR | CPI (YoY) (Oct) |  |  | 3.8% |
 | 09:30 | GBP | House Price Index (YoY) |  | 2.9% | 2.8% |

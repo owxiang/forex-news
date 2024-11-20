@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | CNY | China Loan Prime Rate 5Y (Nov) |  | 3.60% | 3.60% |
-| 49 min | CNY | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Nov) | 3.60% | 3.60% | 3.60% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 07:00 | GBP | CPI (MoM) (Oct) |  |  | 0.0% |
 | 07:00 | GBP | PPI Input (MoM) (Oct) |  | 0.5% | -1.0% |
 | 07:00 | EUR | German PPI (MoM) (Oct) |  | -0.1% | -0.5% |
