@@ -7,8 +7,8 @@
 | 07:00 | GBP | CPI (MoM) (Oct) | 0.6% |  | 0.0% |
 | 07:00 | GBP | PPI Input (MoM) (Oct) | 0.1% | 0.5% | -0.5% |
 | 07:00 | EUR | German PPI (MoM) (Oct) | 0.2% | -0.1% | -0.5% |
-| 24 min | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
-| 09:00 | EUR | ECB Financial Stability Review |  |  |  |
+| 07:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
+| 51 min | EUR | ECB Financial Stability Review |  |  |  |
 | 13:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.688M |
 | 16:00 | GBP | MPC Member Ramsden Speaks |  |  |  |

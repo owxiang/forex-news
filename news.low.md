@@ -5,23 +5,24 @@
 | 00:00 | AUD | MI Leading Index (MoM) (Oct) | 0.2% |  | 0.0% |
 | 07:00 | GBP | Core CPI (MoM) (Oct) | 0.4% |  | 0.1% |
 | 07:00 | GBP | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
-| 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (Oct) | 1.7% |  | 1.4% |
+| 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Core RPI (MoM) (Oct) | 0.5% |  | -0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Oct) | 2.8% |  | 2.0% |
+| 07:00 | GBP | CPI, n.s.a (Oct) | 135.00 |  | 134.20 |
 | 07:00 | GBP | PPI Input (YoY) (Oct) | -2.3% |  | -1.9% |
-| 07:00 | GBP | PPI Output (YoY) (Oct) | -0.8% |  | -0.6% |
 | 07:00 | GBP | PPI Output (MoM) (Oct) | 0.0% | -0.1% | -0.4% |
+| 07:00 | GBP | PPI Output (YoY) (Oct) | -0.8% |  | -0.6% |
 | 07:00 | GBP | RPI (YoY) (Oct) | 3.4% | 3.3% | 2.7% |
 | 07:00 | GBP | RPI (MoM) (Oct) | 0.5% |  | -0.3% |
 | 07:00 | EUR | German PPI (YoY) (Oct) | -1.1% | -1.1% | -1.4% |
-| 14 min | IDR | Loans (YoY) (Oct) |  |  | 10.85% |
-| 24 min | IDR | Deposit Facility Rate (Nov) |  |  | 5.25% |
-| 24 min | IDR | Lending Facility Rate (Nov) |  |  | 6.75% |
-| 54 min | ZAR | Core CPI (MoM) (Oct) |  |  | 0.3% |
-| 54 min | ZAR | Core CPI (YoY) (Oct) |  |  | 4.1% |
-| 54 min | ZAR | CPI (MoM) (Oct) |  |  | 0.1% |
-| 54 min | ZAR | CPI (YoY) (Oct) |  |  | 3.8% |
+| 07:30 | IDR | Deposit Facility Rate (Nov) | 5.25% |  | 5.25% |
+| 07:30 | IDR | Lending Facility Rate (Nov) | 6.75% |  | 6.75% |
+| 07:30 | IDR | Loans (YoY) (Oct) | 10.92% |  | 10.85% |
+| 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.2% |  | 0.3% |
+| 08:00 | ZAR | Core CPI (YoY) (Oct) | 3.9% |  | 4.1% |
+| 08:00 | ZAR | CPI (YoY) (Oct) | 2.8% |  | 3.8% |
+| 08:00 | ZAR | CPI (MoM) (Oct) | -0.1% |  | 0.1% |
 | 09:30 | GBP | House Price Index (YoY) |  | 2.9% | 2.8% |
 | 10:00 | EUR | Construction Output (MoM) (Sep) |  |  | 0.10% |
 | 10:00 | ZAR | Business Confidence |  |  | 110.2 |
