@@ -7,8 +7,8 @@
 | 07:00 | GBP | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (Oct) | 1.7% |  | 1.4% |
-| 07:00 | GBP | Core RPI (YoY) (Oct) | 2.8% |  | 2.0% |
 | 07:00 | GBP | Core RPI (MoM) (Oct) | 0.5% |  | -0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Oct) | 2.8% |  | 2.0% |
 | 07:00 | GBP | CPI, n.s.a (Oct) | 135.00 |  | 134.20 |
 | 07:00 | GBP | PPI Input (YoY) (Oct) | -2.3% |  | -1.9% |
 | 07:00 | GBP | PPI Output (YoY) (Oct) | -0.8% |  | -0.6% |
@@ -19,10 +19,10 @@
 | 07:30 | IDR | Deposit Facility Rate (Nov) | 5.25% |  | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Nov) | 6.75% |  | 6.75% |
 | 07:30 | IDR | Loans (YoY) (Oct) | 10.92% |  | 10.85% |
-| 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.2% |  | 0.3% |
 | 08:00 | ZAR | Core CPI (YoY) (Oct) | 3.9% |  | 4.1% |
-| 08:00 | ZAR | CPI (MoM) (Oct) | -0.1% |  | 0.1% |
+| 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.2% |  | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Oct) | 2.8% |  | 3.8% |
+| 08:00 | ZAR | CPI (MoM) (Oct) | -0.1% |  | 0.1% |
 | 10:00 | ZAR | Business Confidence | 45.0 | 36.0 | 38.0 |
 | 10:30 | EUR | German 30-Year Bund Auction | 2.550% |  | 2.490% |
 | 11:00 | ZAR | Retail Sales (YoY) (Sep) | 0.9% |  | 3.3% |
