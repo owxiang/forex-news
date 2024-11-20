@@ -12,6 +12,6 @@
 | 13:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.140M |  | -0.688M |
 | 16:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.590% |
-| 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 9 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | 20-Year Bond Auction |  |  | 4.590% |
+| 54 min | EUR | ECB's De Guindos Speaks |  |  |  |
