@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Oct) | 0.2% |  | 0.0% |
-| 07:00 | GBP | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Core CPI (MoM) (Oct) | 0.4% |  | 0.1% |
+| 07:00 | GBP | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Core PPI Output (MoM) (Oct) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (Oct) | 1.7% |  | 1.4% |
 | 07:00 | GBP | Core RPI (MoM) (Oct) | 0.5% |  | -0.4% |
@@ -23,17 +23,16 @@
 | 08:00 | ZAR | Core CPI (MoM) (Oct) | 0.2% |  | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Oct) | 2.8% |  | 3.8% |
 | 08:00 | ZAR | CPI (MoM) (Oct) | -0.1% |  | 0.1% |
-| 10:00 | EUR | Construction Output (MoM) (Sep) |  |  | 0.10% |
-| 10:00 | ZAR | Business Confidence | 45.0 |  | 38.0 |
-| 23 min | EUR | German 30-Year Bund Auction |  |  | 2.490% |
-| 53 min | ZAR | Retail Sales (YoY) (Sep) |  |  | 3.2% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 133.3 |
-| 12:00 | USD | Mortgage Market Index |  |  | 192.4 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 506.0 |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
-| 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
+| 10:00 | ZAR | Business Confidence | 45.0 | 36.0 | 38.0 |
+| 10:30 | EUR | German 30-Year Bund Auction | 2.550% |  | 2.490% |
+| 11:00 | ZAR | Retail Sales (YoY) (Sep) | 0.9% |  | 3.3% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
+| 54 min | USD | MBA Purchase Index |  |  | 133.3 |
+| 54 min | USD | Mortgage Market Index |  |  | 192.4 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 506.0 |
+| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 54 min | USD | Milk Auctions |  |  | 3,997.0 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.175M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.321M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.127M |

@@ -5,8 +5,8 @@
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Oct) | 0.2% |  | 0.0% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Nov) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Oct) | 0.4% |  | 0.1% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Oct) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Oct) | 1.7% |  | 1.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Oct) | 0.5% |  | -0.4% |
@@ -31,17 +31,16 @@
 | 08:00 | ZAR | Low | CPI (YoY) (Oct) | 2.8% |  | 3.8% |
 | 08:00 | ZAR | Low | CPI (MoM) (Oct) | -0.1% |  | 0.1% |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 10:00 | EUR | Low | Construction Output (MoM) (Sep) |  |  | 0.10% |
-| 10:00 | ZAR | Low | Business Confidence | 45.0 |  | 38.0 |
-| 23 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.490% |
-| 53 min | ZAR | Low | Retail Sales (YoY) (Sep) |  |  | 3.2% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 133.3 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 192.4 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 506.0 |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
+| 10:00 | ZAR | Low | Business Confidence | 45.0 | 36.0 | 38.0 |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 2.550% |  | 2.490% |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Sep) | 0.9% |  | 3.3% |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 133.3 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 192.4 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 506.0 |
+| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 54 min | USD | Low | Milk Auctions |  |  | 3,997.0 |
 | 13:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | 2.089M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.175M |
