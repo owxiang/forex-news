@@ -1,29 +1,48 @@
-## 19 November 2024 - Low Impact Forex News
+## 20 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | NOK | Consumer Confidence (Q4) | -14.40 |  | -15.20 |
-| 07:00 | CHF | Trade Balance (Oct) | 8.063B | 4.250B | 4.942B |
-| 09:00 | EUR | Current Account (Sep) | 37.0B | 27.0B | 31.5B |
-| 09:00 | EUR | Current Account n.s.a. (Sep) | 51.5B |  | 38.8B |
-| 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.558% |  | 4.131% |
-| 10:00 | EUR | Spanish Consumer Confidence (Oct) | 79.6 |  | 84.8 |
-| 10:00 | EUR | Core CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Oct) | 1.9% |  | 1.6% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Oct) | 0.3% |  | -0.1% |
-| 10:00 | EUR | CPI, n.s.a (Oct) | 127.03 | 127.03 | 126.60 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.3% | 0.2% | 0.0% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | NZD | GlobalDairyTrade Price Index | 1.9% |  | 4.8% |
-| 12:00 | USD | Milk Auctions | 4,089.0 |  | 3,997.0 |
-| 13:30 | USD | Building Permits (MoM) (Oct) | -0.6% |  | -3.1% |
-| 13:30 | CAD | Common CPI (YoY) (Oct) | 2.2% | 2.1% | 2.1% |
-| 13:30 | CAD | CPI (YoY) (Oct) | 2.0% | 1.9% | 1.6% |
-| 13:30 | CAD | Median CPI (YoY) (Oct) | 2.5% | 2.2% | 2.3% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Oct) | 2.6% | 2.4% | 2.4% |
-| 13:55 | USD | Redbook (YoY) | 5.1% |  | 4.8% |
-| 21:00 | KRW | PPI (YoY) (Oct) | 1.0% |  | 1.0% |
-| 21:00 | KRW | PPI (MoM) (Oct) | -0.1% |  | -0.2% |
-| 24 min | AUD | MI Leading Index (MoM) |  |  | 0.0% |
-| 44 min | JPY | Imports (YoY) (Oct) |  | -0.3% | 2.1% |
+| 00:00 | AUD | MI Leading Index (MoM) (Oct) | 0.2% |  | 0.0% |
+| 07:00 | GBP | Core CPI (MoM) (Oct) |  |  | 0.1% |
+| 07:00 | GBP | Core CPI (YoY) (Oct) |  | 3.1% | 3.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (Oct) |  |  | 0.0% |
+| 07:00 | GBP | Core PPI Output (YoY) (Oct) |  |  | 1.4% |
+| 07:00 | GBP | Core RPI (YoY) (Oct) |  |  | 2.0% |
+| 07:00 | GBP | Core RPI (MoM) (Oct) |  |  | -0.4% |
+| 07:00 | GBP | CPI, n.s.a (Oct) |  |  | 134.20 |
+| 07:00 | GBP | PPI Input (YoY) (Oct) |  |  | -2.3% |
+| 07:00 | GBP | PPI Output (YoY) (Oct) |  |  | -0.7% |
+| 07:00 | GBP | PPI Output (MoM) (Oct) |  | -0.1% | -0.5% |
+| 07:00 | GBP | RPI (YoY) (Oct) |  | 3.3% | 2.7% |
+| 07:00 | GBP | RPI (MoM) (Oct) |  |  | -0.3% |
+| 07:00 | EUR | German PPI (YoY) (Oct) |  | -1.1% | -1.4% |
+| 07:20 | IDR | Loans (YoY) (Oct) |  |  | 10.85% |
+| 07:30 | IDR | Deposit Facility Rate (Nov) |  |  | 5.25% |
+| 07:30 | IDR | Lending Facility Rate (Nov) |  |  | 6.75% |
+| 08:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 4.1% |
+| 08:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.3% |
+| 08:00 | ZAR | CPI (MoM) (Oct) |  |  | 0.1% |
+| 08:00 | ZAR | CPI (YoY) (Oct) |  |  | 3.8% |
+| 09:30 | GBP | House Price Index (YoY) |  | 2.9% | 2.8% |
+| 10:00 | EUR | Construction Output (MoM) (Sep) |  |  | 0.10% |
+| 10:00 | ZAR | Business Confidence |  |  | 110.2 |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.490% |
+| 11:00 | ZAR | Retail Sales (YoY) (Sep) |  |  | 3.2% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
+| 12:00 | USD | MBA Purchase Index |  |  | 133.3 |
+| 12:00 | USD | Mortgage Market Index |  |  | 192.4 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 506.0 |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.175M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.321M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.127M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.394M |
+| 15:30 | USD | Gasoline Production |  |  | 0.559M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -1.060M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 15:30 | USD | Gasoline Inventories |  |  | -4.407M |
+| 16:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 1,724.6B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 513.9B |

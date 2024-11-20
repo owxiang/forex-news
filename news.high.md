@@ -1,5 +1,6 @@
-## 19 November 2024 - High Impact Forex News
+## 20 November 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Oct) | 2.0% | 2.0% | 2.0% |
+| 07:00 | GBP | CPI (YoY) (Oct) |  | 2.2% | 1.7% |
+| 15:30 | USD | Crude Oil Inventories |  |  | 2.089M |
