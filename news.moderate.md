@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | CNY | China Loan Prime Rate 5Y (Nov) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | CPI (MoM) (Oct) |  |  | 0.0% |
-| 07:00 | GBP | PPI Input (MoM) (Oct) |  | 0.5% | -1.0% |
-| 07:00 | EUR | German PPI (MoM) (Oct) |  | -0.1% | -0.5% |
+| 52 min | GBP | CPI (MoM) (Oct) |  |  | 0.0% |
+| 52 min | GBP | PPI Input (MoM) (Oct) |  | 0.5% | -1.0% |
+| 52 min | EUR | German PPI (MoM) (Oct) |  | -0.1% | -0.5% |
 | 07:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 13:00 | EUR | ECB President Lagarde Speaks |  |  |  |
