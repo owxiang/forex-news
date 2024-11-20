@@ -10,8 +10,8 @@
 | 07:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 13:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.688M |
-| 16:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 24 min | USD | Cushing Crude Oil Inventories |  |  | -0.688M |
+| 54 min | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.590% |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
