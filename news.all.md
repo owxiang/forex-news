@@ -5,12 +5,12 @@
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Oct) | 0.2% |  | 0.0% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Nov) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Oct) | 0.4% |  | 0.1% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Oct) | 3.3% | 3.1% | 3.2% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Oct) | 1.7% |  | 1.4% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Oct) | 0.3% |  | 0.0% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Oct) | 0.5% |  | -0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Oct) | 2.8% |  | 2.0% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Oct) | 0.5% |  | -0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Oct) | 2.3% | 2.2% | 1.7% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Oct) | 0.6% |  | 0.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Oct) | 135.00 |  | 134.20 |
@@ -52,8 +52,8 @@
 | 15:30 | USD | Low | Gasoline Inventories | 2.054M | 1.620M | -4.407M |
 | 16:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 16:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.590% |
-| 54 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.680% |  | 4.590% |
+| 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,724.6B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 513.9B |
