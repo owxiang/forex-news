@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Reserve Assets Total (Oct) | 98,108.0B |  | 92,954.0B |
 | 02:00 | NZD | Credit Card Spending (YoY) | 0.3% |  | -3.1% |
-| 45 min | IDR | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
-| 45 min | IDR | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
+| 03:00 | IDR | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
+| 03:00 | IDR | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
 | 07:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | GBP | Public Sector Net Borrowing (Oct) |  | 14.10B | 16.61B |
