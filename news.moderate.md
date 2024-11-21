@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
+| 54 min | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
 | 13:00 | ZAR | Interest Rate Decision (Nov) |  | 7.75% | 8.00% |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,873K |
 | 13:30 | USD | Philly Fed Employment (Nov) |  |  | -2.2 |
