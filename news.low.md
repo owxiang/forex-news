@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | Reserve Assets Total (Oct) |  |  | 92,954.0B |
-| 02:00 | NZD | Credit Card Spending (YoY) |  |  | -3.2% |
+| 00:30 | AUD | Reserve Assets Total (Oct) | 98,108.0B |  | 92,954.0B |
+| 26 min | NZD | Credit Card Spending (YoY) |  |  | -3.2% |
 | 04:00 | IDR | Balance of Payments (EUR) (Q3) |  |  | -0.6B |
 | 04:00 | IDR | Current Account % of GDP (Q3) |  |  | -0.90% |
 | 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
