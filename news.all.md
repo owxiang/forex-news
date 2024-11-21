@@ -4,16 +4,16 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Reserve Assets Total (Oct) | 98,108.0B |  | 92,954.0B |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) | 0.3% |  | -3.1% |
-| 04:00 | IDR | Low | Balance of Payments (EUR) (Q3) |  |  | -0.6B |
-| 04:00 | IDR | Low | Current Account % of GDP (Q3) |  |  | -0.90% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 225.4% |
+| 45 min | IDR | Low | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
+| 45 min | IDR | Low | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Oct) |  | 14.10B | 16.61B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -20.484B |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 5.8% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 61.7% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) |  |  | 1.4% |
@@ -25,8 +25,8 @@
 | 08:30 | HKD | Low | CPI (YoY) (Oct) |  |  | 2.20% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 2.9% | 2.8% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) |  | -25 | -27 |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Sep) |  |  | -0.8% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Sep) |  |  | 0.1% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Sep) |  |  | -0.8% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
@@ -42,13 +42,13 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Nov) |  |  | -2.2 |
 | 13:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 14.2 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 29.70 |
-| 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | -0.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
-| 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | -8.8% |
+| 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | -0.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | -1.5% | -3.1% |
+| 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | -8.8% |
 | 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Oct) |  | 3.94M | 3.84M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
+| 15:00 | USD | High | Existing Home Sales (Oct) |  | 3.94M | 3.84M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
 | 15:00 | EUR | Low | Consumer Confidence (Nov) |  | -12.0 | -12.5 |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 42B |
