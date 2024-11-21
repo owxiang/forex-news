@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Reserve Assets Total (Oct) | 98,108.0B |  | 92,954.0B |
-| 26 min | NZD | Low | Credit Card Spending (YoY) |  |  | -3.2% |
+| 02:00 | NZD | Low | Credit Card Spending (YoY) | 0.3% |  | -3.1% |
 | 04:00 | IDR | Low | Balance of Payments (EUR) (Q3) |  |  | -0.6B |
 | 04:00 | IDR | Low | Current Account % of GDP (Q3) |  |  | -0.90% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Oct) |  | 14.10B | 16.61B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -20.484B |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 5.8% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 61.7% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 61.7% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) |  |  | 1.4% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French Business Survey (Nov) |  | 95 | 92 |
@@ -42,8 +42,8 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Nov) |  |  | -2.2 |
 | 13:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 14.2 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 29.70 |
-| 13:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
 | 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | -0.9% |
+| 13:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | -8.8% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | -1.5% | -3.1% |
 | 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |

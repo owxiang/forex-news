@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Reserve Assets Total (Oct) | 98,108.0B |  | 92,954.0B |
-| 26 min | NZD | Credit Card Spending (YoY) |  |  | -3.2% |
+| 02:00 | NZD | Credit Card Spending (YoY) | 0.3% |  | -3.1% |
 | 04:00 | IDR | Balance of Payments (EUR) (Q3) |  |  | -0.6B |
 | 04:00 | IDR | Current Account % of GDP (Q3) |  |  | -0.90% |
 | 07:00 | GBP | Car Registration (MoM) (Oct) |  |  | 225.4% |
 | 07:00 | GBP | Car Registration (YoY) (Oct) |  |  | 1.0% |
 | 07:00 | GBP | Public Sector Net Borrowing (Oct) |  | 14.10B | 16.61B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -20.484B |
-| 07:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
 | 07:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -7.0% |
 | 07:00 | EUR | German Car Registration (MoM) (Oct) |  |  | 5.8% |
-| 07:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 61.7% |
 | 07:00 | EUR | French Car Registration (YoY) (Oct) |  |  | -11.1% |
+| 07:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 61.7% |
 | 07:00 | NOK | GDP (QoQ) (Q3) |  |  | 1.4% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q3) |  | 0.3% | 0.1% |
 | 07:45 | EUR | French Business Survey (Nov) |  | 95 | 92 |
@@ -36,8 +36,8 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Nov) |  |  | 23.50 |
 | 13:30 | USD | Philly Fed New Orders (Nov) |  |  | 14.2 |
 | 13:30 | USD | Philly Fed Prices Paid (Nov) |  |  | 29.70 |
-| 13:30 | CAD | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
 | 13:30 | CAD | IPPI (YoY) (Oct) |  |  | -0.9% |
+| 13:30 | CAD | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
 | 13:30 | CAD | RMPI (YoY) (Oct) |  |  | -8.8% |
 | 15:00 | EUR | Consumer Confidence (Nov) |  | -12.0 | -12.5 |
 | 15:30 | USD | Natural Gas Storage |  |  | 42B |
