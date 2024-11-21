@@ -6,16 +6,16 @@
 | 02:00 | NZD | Low | Credit Card Spending (YoY) | 0.3% |  | -3.1% |
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
-| 07:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 1.0% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 225.4% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Oct) |  | 14.10B | 16.61B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -20.484B |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 76.0% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | -10.7% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | 5.8% |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -7.0% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | -11.1% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 61.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) |  |  | 1.4% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French Business Survey (Nov) |  | 95 | 92 |
