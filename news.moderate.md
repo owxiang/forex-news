@@ -1,17 +1,18 @@
-## 20 November 2024 - Moderate Impact Forex News
+## 21 November 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | CNY | China Loan Prime Rate 5Y (Nov) | 3.60% | 3.60% | 3.60% |
-| 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | CPI (MoM) (Oct) | 0.6% |  | 0.0% |
-| 07:00 | GBP | PPI Input (MoM) (Oct) | 0.1% | 0.5% | -0.5% |
-| 07:00 | EUR | German PPI (MoM) (Oct) | 0.2% | -0.1% | -0.5% |
-| 07:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
-| 09:00 | EUR | ECB Financial Stability Review |  |  |  |
-| 13:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.140M |  | -0.688M |
-| 16:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.680% |  | 4.590% |
-| 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:00 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
+| 13:00 | ZAR | Interest Rate Decision (Nov) |  | 7.75% | 8.00% |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,873K |
+| 13:30 | USD | Philly Fed Employment (Nov) |  |  | -2.2 |
+| 13:30 | CAD | RMPI (MoM) (Oct) |  | -1.5% | -3.1% |
+| 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
+| 15:00 | USD | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
+| 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 15:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 1.592% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,967B |
+| 21:40 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:30 | JPY | National Core CPI (YoY) (Oct) |  | 2.2% | 2.4% |
