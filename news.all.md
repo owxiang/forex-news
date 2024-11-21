@@ -8,12 +8,12 @@
 | 03:00 | IDR | Low | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
 | 05:30 | GBP | Low | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
 | 05:30 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
-| 05:30 | EUR | Low | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
+| 05:30 | EUR | Low | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Low | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
 | 05:30 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
-| 05:30 | EUR | Low | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 05:30 | EUR | Low | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
+| 05:30 | EUR | Low | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) | 11.133B |  | -20.446B |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) | -1.8% |  | 2.0% |
@@ -23,13 +23,13 @@
 | 08:00 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 08:30 | HKD | Low | CPI (MoM) (Oct) | 0.20% |  | 0.10% |
 | 08:30 | HKD | Low | CPI (YoY) (Oct) | 1.40% |  | 2.20% |
-| 54 min | GBP | Low | CBI Industrial Trends Orders (Nov) |  | -25 | -27 |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Sep) |  |  | -0.8% |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Sep) |  |  | 0.1% |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
-| 12:00 | EUR | Low | Construction Output (MoM) (Sep) |  |  | 0.10% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) | -19 | -25 | -27 |
+| 54 min | MXN | Low | Retail Sales (MoM) (Sep) |  |  | 0.1% |
+| 54 min | MXN | Low | Retail Sales (YoY) (Sep) |  |  | -0.8% |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 54 min | USD | Low | Milk Auctions |  |  | 3,997.0 |
+| 54 min | EUR | Low | Construction Output (MoM) (Sep) |  |  | 0.10% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) |  | 7.75% | 8.00% |
 | 13:00 | ZAR | Low | Prime Rate (Nov) |  |  | 11.50% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,873K |
@@ -41,13 +41,13 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Nov) |  |  | -2.2 |
 | 13:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 14.2 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 29.70 |
-| 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | -0.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
-| 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | -8.8% |
+| 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | -0.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | -1.5% | -3.1% |
+| 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | -8.8% |
 | 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Oct) |  | 3.94M | 3.84M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
+| 15:00 | USD | High | Existing Home Sales (Oct) |  | 3.94M | 3.84M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
 | 15:00 | EUR | Low | Consumer Confidence (Nov) |  | -12.0 | -12.5 |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 42B |

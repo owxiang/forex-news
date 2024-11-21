@@ -8,12 +8,12 @@
 | 03:00 | IDR | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
 | 05:30 | GBP | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
 | 05:30 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
-| 05:30 | EUR | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
+| 05:30 | EUR | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
 | 05:30 | EUR | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
-| 05:30 | EUR | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 05:30 | EUR | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
+| 05:30 | EUR | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 07:00 | GBP | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Oct) | 11.133B |  | -20.446B |
 | 07:00 | NOK | GDP (QoQ) (Q3) | -1.8% |  | 2.0% |
@@ -22,21 +22,21 @@
 | 08:00 | CHF | M3 Money Supply (Oct) | 1,147,624.0B |  | 1,148,212.0B |
 | 08:30 | HKD | CPI (MoM) (Oct) | 0.20% |  | 0.10% |
 | 08:30 | HKD | CPI (YoY) (Oct) | 1.40% |  | 2.20% |
-| 54 min | GBP | CBI Industrial Trends Orders (Nov) |  | -25 | -27 |
-| 12:00 | MXN | Retail Sales (YoY) (Sep) |  |  | -0.8% |
-| 12:00 | MXN | Retail Sales (MoM) (Sep) |  |  | 0.1% |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
-| 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
-| 12:00 | EUR | Construction Output (MoM) (Sep) |  |  | 0.10% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Nov) | -19 | -25 | -27 |
+| 54 min | MXN | Retail Sales (MoM) (Sep) |  |  | 0.1% |
+| 54 min | MXN | Retail Sales (YoY) (Sep) |  |  | -0.8% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 54 min | USD | Milk Auctions |  |  | 3,997.0 |
+| 54 min | EUR | Construction Output (MoM) (Sep) |  |  | 0.10% |
 | 13:00 | ZAR | Prime Rate (Nov) |  |  | 11.50% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 221.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Nov) |  |  | 36.7 |
 | 13:30 | USD | Philly Fed CAPEX Index (Nov) |  |  | 23.50 |
 | 13:30 | USD | Philly Fed New Orders (Nov) |  |  | 14.2 |
 | 13:30 | USD | Philly Fed Prices Paid (Nov) |  |  | 29.70 |
-| 13:30 | CAD | IPPI (YoY) (Oct) |  |  | -0.9% |
 | 13:30 | CAD | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
+| 13:30 | CAD | IPPI (YoY) (Oct) |  |  | -0.9% |
 | 13:30 | CAD | RMPI (YoY) (Oct) |  |  | -8.8% |
 | 15:00 | EUR | Consumer Confidence (Nov) |  | -12.0 | -12.5 |
 | 15:30 | USD | Natural Gas Storage |  |  | 42B |
