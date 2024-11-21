@@ -47,14 +47,14 @@
 | 15:00 | USD | High | Existing Home Sales (Oct) | 3.96M | 3.95M | 3.83M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) | 3.4% |  | -1.3% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Oct) | -0.4% | -0.3% | -0.3% |
-| 15:00 | EUR | Low | Consumer Confidence (Nov) | -13.7 | -13.0 | -12.5 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 2B | 42B |
+| 15:00 | EUR | Low | Consumer Confidence (Nov) | -13.7 | -12.4 | -12.5 |
+| 15:30 | USD | Low | Natural Gas Storage | -3B | 2B | 42B |
 | 15:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:00 | USD | Low | KC Fed Composite Index (Nov) |  |  | -4 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Nov) |  |  | 0 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.510% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.460% |
+| 16:00 | USD | Low | KC Fed Composite Index (Nov) | -2 |  | -4 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Nov) | -4 |  | 0 |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.510% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.460% |
 | 17:25 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.326B |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.592% |

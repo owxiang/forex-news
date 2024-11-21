@@ -36,12 +36,12 @@
 | 13:30 | CAD | IPPI (MoM) (Oct) | 1.2% | 0.3% | -0.8% |
 | 13:30 | CAD | IPPI (YoY) (Oct) | 1.1% |  | -1.0% |
 | 13:30 | CAD | RMPI (YoY) (Oct) | -2.8% |  | -8.8% |
-| 15:00 | EUR | Consumer Confidence (Nov) | -13.7 | -13.0 | -12.5 |
-| 15:30 | USD | Natural Gas Storage |  | 2B | 42B |
-| 16:00 | USD | KC Fed Composite Index (Nov) |  |  | -4 |
-| 16:00 | USD | KC Fed Manufacturing Index (Nov) |  |  | 0 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.510% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.460% |
+| 15:00 | EUR | Consumer Confidence (Nov) | -13.7 | -12.4 | -12.5 |
+| 15:30 | USD | Natural Gas Storage | -3B | 2B | 42B |
+| 16:00 | USD | KC Fed Composite Index (Nov) | -2 |  | -4 |
+| 16:00 | USD | KC Fed Manufacturing Index (Nov) | -4 |  | 0 |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.510% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.460% |
 | 17:25 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.326B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.192T |
