@@ -10,8 +10,8 @@
 | 05:30 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | EUR | Low | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
-| 05:30 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | Low | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
+| 05:30 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | Low | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 05:30 | EUR | Low | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
@@ -23,7 +23,7 @@
 | 08:00 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 08:30 | HKD | Low | CPI (MoM) (Oct) | 0.20% |  | 0.10% |
 | 08:30 | HKD | Low | CPI (YoY) (Oct) | 1.40% |  | 2.20% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) |  | -25 | -27 |
+| 54 min | GBP | Low | CBI Industrial Trends Orders (Nov) |  | -25 | -27 |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Sep) |  |  | -0.8% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Sep) |  |  | 0.1% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
