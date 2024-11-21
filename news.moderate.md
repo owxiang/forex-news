@@ -13,6 +13,6 @@
 | 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 15:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 2.071% |  | 1.592% |
-| 24 min | USD | Fed's Balance Sheet |  |  | 6,967B |
-| 34 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet | 6,924B |  | 6,967B |
+| 21:40 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:30 | JPY | National Core CPI (YoY) (Oct) |  | 2.2% | 2.4% |
