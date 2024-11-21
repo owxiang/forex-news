@@ -6,14 +6,14 @@
 | 02:00 | NZD | Low | Credit Card Spending (YoY) | 0.3% |  | -3.1% |
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
-| 05:30 | GBP | Low | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
 | 05:30 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
+| 05:30 | GBP | Low | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
 | 05:30 | EUR | Low | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
-| 05:30 | EUR | Low | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
 | 05:30 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
-| 05:30 | EUR | Low | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
+| 05:30 | EUR | Low | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
 | 05:30 | EUR | Low | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
+| 05:30 | EUR | Low | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) | 11.133B |  | -20.446B |
 | 07:00 | NOK | Low | GDP (QoQ) (Q3) | -1.8% |  | 2.0% |
@@ -27,24 +27,24 @@
 | 12:00 | MXN | Low | Retail Sales (YoY) (Sep) | -1.5% |  | -0.8% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Sep) | 0.1% |  | 0.1% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 50 min | ZAR | Moderate | Interest Rate Decision (Nov) |  | 7.75% | 8.00% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,873K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 220K | 217K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.00K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | 6.3 | 10.3 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 36.7 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Nov) |  |  | 23.50 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Nov) |  |  | -2.2 |
-| 13:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 14.2 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 29.70 |
-| 13:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
-| 13:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | -0.9% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | -1.5% | -3.1% |
-| 13:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | -8.8% |
-| 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:00 | ZAR | Low | Prime Rate (Nov) |  |  | 11.50% |
-| 15:00 | USD | High | Existing Home Sales (Oct) |  | 3.94M | 3.84M |
+| 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) | 7.75% | 7.75% | 8.00% |
+| 18 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,873K |
+| 18 min | USD | High | Initial Jobless Claims |  | 220K | 217K |
+| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 221.00K |
+| 18 min | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | 6.3 | 10.3 |
+| 18 min | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 36.7 |
+| 18 min | USD | Low | Philly Fed CAPEX Index (Nov) |  |  | 23.50 |
+| 18 min | USD | Moderate | Philly Fed Employment (Nov) |  |  | -2.2 |
+| 18 min | USD | Low | Philly Fed New Orders (Nov) |  |  | 14.2 |
+| 18 min | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 29.70 |
+| 18 min | CAD | Low | IPPI (YoY) (Oct) |  |  | -0.9% |
+| 18 min | CAD | Low | IPPI (MoM) (Oct) |  | 0.3% | -0.6% |
+| 18 min | CAD | Low | RMPI (YoY) (Oct) |  |  | -8.8% |
+| 18 min | CAD | Moderate | RMPI (MoM) (Oct) |  | -1.5% | -3.1% |
+| 48 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 48 min | ZAR | Low | Prime Rate (Nov) |  |  | 11.50% |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
+| 15:00 | USD | High | Existing Home Sales (Oct) |  | 3.94M | 3.84M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
 | 15:00 | EUR | Low | Consumer Confidence (Nov) |  | -12.0 | -12.5 |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 42B |
