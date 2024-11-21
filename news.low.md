@@ -7,14 +7,14 @@
 | 03:00 | IDR | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
 | 03:00 | IDR | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
 | 05:10 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 05:30 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | GBP | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
+| 05:30 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | EUR | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
 | 05:30 | EUR | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
-| 05:30 | EUR | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
 | 05:30 | EUR | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
+| 05:30 | EUR | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
 | 07:00 | GBP | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Oct) | 11.133B |  | -20.446B |
 | 07:00 | NOK | GDP (QoQ) (Q3) | -1.8% |  | 2.0% |
@@ -42,8 +42,8 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Nov) | -4 |  | 0 |
 | 16:30 | USD | 4-Week Bill Auction | 4.530% |  | 4.510% |
 | 16:30 | USD | 8-Week Bill Auction | 4.480% |  | 4.460% |
-| 19 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -0.326B |
+| 17:25 | USD | Fed Goolsbee Speaks |  |  |  |
+| 17:30 | BRL | Foreign Exchange Flows | -1.989B |  | -0.326B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.192T |
 | 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Nov) |  |  | 47.3 |
 | 22:00 | AUD | Judo Bank Australia Services PMI (Nov) |  |  | 51.0 |
