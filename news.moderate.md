@@ -15,4 +15,4 @@
 | 18:00 | USD | 10-Year TIPS Auction | 2.071% |  | 1.592% |
 | 21:30 | USD | Fed's Balance Sheet | 6,924B |  | 6,967B |
 | 21:40 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23:30 | JPY | National Core CPI (YoY) (Oct) |  | 2.2% | 2.4% |
+| 24 min | JPY | National Core CPI (YoY) (Oct) |  | 2.2% | 2.4% |
