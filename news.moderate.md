@@ -8,8 +8,8 @@
 | 13:30 | USD | Philly Fed Employment (Nov) | 8.6 |  | -2.2 |
 | 13:30 | CAD | RMPI (MoM) (Oct) | 3.8% | -1.5% | -3.2% |
 | 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 54 min | USD | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
-| 54 min | USD | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
+| 15:00 | USD | Existing Home Sales (MoM) (Oct) | 3.4% |  | -1.3% |
+| 15:00 | USD | US Leading Index (MoM) (Oct) | -0.4% | -0.3% | -0.3% |
 | 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 15:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 1.592% |

@@ -7,12 +7,12 @@
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
 | 05:10 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 05:30 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | GBP | Low | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
+| 05:30 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | EUR | Low | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
-| 05:30 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | Low | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
+| 05:30 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | Low | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 05:30 | EUR | Low | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
@@ -41,13 +41,13 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Nov) | 26.60 |  | 29.70 |
 | 13:30 | CAD | Low | IPPI (MoM) (Oct) | 1.2% | 0.3% | -0.8% |
 | 13:30 | CAD | Low | IPPI (YoY) (Oct) | 1.1% |  | -1.0% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Oct) | 3.8% | -1.5% | -3.2% |
 | 13:30 | CAD | Low | RMPI (YoY) (Oct) | -2.8% |  | -8.8% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Oct) | 3.8% | -1.5% | -3.2% |
 | 14:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 54 min | USD | Moderate | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
-| 54 min | USD | High | Existing Home Sales (Oct) |  | 3.95M | 3.84M |
-| 54 min | USD | Moderate | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
-| 54 min | EUR | Low | Consumer Confidence (Nov) |  | -13.0 | -12.5 |
+| 15:00 | USD | High | Existing Home Sales (Oct) | 3.96M | 3.95M | 3.83M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) | 3.4% |  | -1.3% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Oct) | -0.4% | -0.3% | -0.3% |
+| 15:00 | EUR | Low | Consumer Confidence (Nov) | -13.7 | -13.0 | -12.5 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 2B | 42B |
 | 15:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |

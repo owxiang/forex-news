@@ -7,12 +7,12 @@
 | 03:00 | IDR | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
 | 03:00 | IDR | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
 | 05:10 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 05:30 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | GBP | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
+| 05:30 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | EUR | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
 | 05:30 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
-| 05:30 | EUR | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
+| 05:30 | EUR | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
 | 05:30 | EUR | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
 | 07:00 | GBP | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
@@ -36,7 +36,7 @@
 | 13:30 | CAD | IPPI (MoM) (Oct) | 1.2% | 0.3% | -0.8% |
 | 13:30 | CAD | IPPI (YoY) (Oct) | 1.1% |  | -1.0% |
 | 13:30 | CAD | RMPI (YoY) (Oct) | -2.8% |  | -8.8% |
-| 54 min | EUR | Consumer Confidence (Nov) |  | -13.0 | -12.5 |
+| 15:00 | EUR | Consumer Confidence (Nov) | -13.7 | -13.0 | -12.5 |
 | 15:30 | USD | Natural Gas Storage |  | 2B | 42B |
 | 16:00 | USD | KC Fed Composite Index (Nov) |  |  | -4 |
 | 16:00 | USD | KC Fed Manufacturing Index (Nov) |  |  | 0 |
