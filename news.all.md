@@ -9,8 +9,8 @@
 | 05:10 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 05:30 | GBP | Low | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | GBP | Low | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
-| 05:30 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
 | 05:30 | EUR | Low | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
+| 05:30 | EUR | Low | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
 | 05:30 | EUR | Low | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | Low | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
 | 05:30 | EUR | Low | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
@@ -25,8 +25,8 @@
 | 08:30 | HKD | Low | CPI (MoM) (Oct) | 0.20% |  | 0.10% |
 | 08:30 | HKD | Low | CPI (YoY) (Oct) | 1.40% | 1.70% | 2.20% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Nov) | -19 | -25 | -27 |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Sep) | 0.1% | 0.1% | 0.1% |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Sep) | -1.5% | -1.2% | -0.8% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Sep) | 0.1% | 0.1% | 0.1% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Nov) | 7.75% | 7.75% | 8.00% |
 | 13:00 | ZAR | Low | Prime Rate (Nov) | 11.25% |  | 11.50% |
@@ -58,11 +58,11 @@
 | 17:25 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -1.989B |  | -0.326B |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.071% |  | 1.592% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,967B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.192T |
-| 21:40 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Nov) |  |  | 47.3 |
-| 22:00 | AUD | Low | Judo Bank Australia Services PMI (Nov) |  |  | 51.0 |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,967B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.192T |
+| 34 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 54 min | AUD | Low | Judo Bank Australia Manufacturing PMI (Nov) |  |  | 47.3 |
+| 54 min | AUD | Low | Judo Bank Australia Services PMI (Nov) |  |  | 51.0 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Oct) |  |  | -0.3% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Oct) |  | 2.2% | 2.4% |
 | 23:30 | JPY | Low | National CPI (YoY) (Oct) |  |  | 2.5% |

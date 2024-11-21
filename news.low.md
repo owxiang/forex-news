@@ -9,8 +9,8 @@
 | 05:10 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 05:30 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
 | 05:30 | GBP | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
-| 05:30 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
 | 05:30 | EUR | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
+| 05:30 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
 | 05:30 | EUR | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
 | 05:30 | EUR | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
 | 05:30 | EUR | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
@@ -24,8 +24,8 @@
 | 08:30 | HKD | CPI (MoM) (Oct) | 0.20% |  | 0.10% |
 | 08:30 | HKD | CPI (YoY) (Oct) | 1.40% | 1.70% | 2.20% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Nov) | -19 | -25 | -27 |
-| 12:00 | MXN | Retail Sales (MoM) (Sep) | 0.1% | 0.1% | 0.1% |
 | 12:00 | MXN | Retail Sales (YoY) (Sep) | -1.5% | -1.2% | -0.8% |
+| 12:00 | MXN | Retail Sales (MoM) (Sep) | 0.1% | 0.1% | 0.1% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | ZAR | Prime Rate (Nov) | 11.25% |  | 11.50% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 217.75K |  | 221.50K |
@@ -44,8 +44,8 @@
 | 16:30 | USD | 8-Week Bill Auction | 4.480% |  | 4.460% |
 | 17:25 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows | -1.989B |  | -0.326B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.192T |
-| 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Nov) |  |  | 47.3 |
-| 22:00 | AUD | Judo Bank Australia Services PMI (Nov) |  |  | 51.0 |
+| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.192T |
+| 54 min | AUD | Judo Bank Australia Manufacturing PMI (Nov) |  |  | 47.3 |
+| 54 min | AUD | Judo Bank Australia Services PMI (Nov) |  |  | 51.0 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Oct) |  |  | -0.3% |
 | 23:30 | JPY | National CPI (YoY) (Oct) |  |  | 2.5% |
