@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 08:00 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
 | 13:00 | ZAR | Interest Rate Decision (Nov) | 7.75% | 7.75% | 8.00% |
-| 18 min | USD | Continuing Jobless Claims |  |  | 1,873K |
-| 18 min | USD | Philly Fed Employment (Nov) |  |  | -2.2 |
-| 18 min | CAD | RMPI (MoM) (Oct) |  | -1.5% | -3.1% |
-| 48 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 15:00 | USD | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
-| 15:00 | USD | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
+| 13:30 | USD | Continuing Jobless Claims | 1,908K | 1,870K | 1,872K |
+| 13:30 | USD | Philly Fed Employment (Nov) | 8.6 |  | -2.2 |
+| 13:30 | CAD | RMPI (MoM) (Oct) | 3.8% | -1.5% | -3.2% |
+| 14:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 54 min | USD | Existing Home Sales (MoM) (Oct) |  |  | -1.0% |
+| 54 min | USD | US Leading Index (MoM) (Oct) |  | -0.3% | -0.5% |
 | 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 15:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 1.592% |
