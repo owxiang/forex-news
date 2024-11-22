@@ -35,8 +35,8 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.37% | 0.49% | 0.43% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.20% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.70% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | 1.1% | 1.0% | 1.0% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 1.6% | 1.5% | 1.5% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | 1.1% | 1.0% | 1.0% |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) | 0.9% | 0.5% | -0.8% |
@@ -51,8 +51,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 71.8 | 73.0 | 73.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Nov) | 63.9 | 64.4 | 64.4 |
 | 15:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 |  | 478 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 583 |  | 584 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 56.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 20.8K |
