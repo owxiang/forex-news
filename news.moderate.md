@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
 | 07:00 | GBP | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | EUR | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
@@ -24,15 +24,14 @@
 | 12:00 | MXN | GDP (QoQ) (Q3) | 1.1% | 1.0% | 1.0% |
 | 12:00 | MXN | GDP (YoY) (Q3) | 1.6% | 1.5% | 1.5% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 19 min | CAD | Core Retail Sales (MoM) (Sep) |  | -0.5% | -0.7% |
-| 19 min | CAD | New Housing Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
-| 19 min | CAD | Retail Sales (MoM) (Sep) |  | 0.3% | 0.4% |
-| 19 min | CAD | Wholesale Sales (MoM) (Oct) |  | 0.9% | -0.6% |
-| 14:45 | USD | S&P Global Composite PMI (Nov) |  |  | 54.1 |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 2.6% | 2.7% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.1% | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Nov) |  | 78.5 | 74.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (Nov) |  | 73.0 | 70.5 |
+| 13:30 | CAD | Core Retail Sales (MoM) (Sep) | 0.9% | 0.5% | -0.8% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Oct) | -0.4% | 0.1% | 0.0% |
+| 13:30 | CAD | Retail Sales (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
+| 39 min | USD | S&P Global Composite PMI (Nov) |  |  | 54.1 |
+| 54 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 2.6% | 2.7% |
+| 54 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.1% | 3.0% |
+| 54 min | USD | Michigan Consumer Expectations (Nov) |  | 78.5 | 74.1 |
+| 54 min | USD | Michigan Consumer Sentiment (Nov) |  | 73.0 | 70.5 |
 | 15:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |

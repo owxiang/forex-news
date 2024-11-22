@@ -9,8 +9,8 @@
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 57.3 |  | 57.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.2% |
@@ -39,19 +39,17 @@
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 1.6% | 1.5% | 1.5% |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 19 min | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.5% | -0.7% |
-| 19 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
-| 19 min | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
-| 19 min | CAD | Moderate | Retail Sales (MoM) (Sep) |  | 0.3% | 0.4% |
-| 19 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | -0.6% |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Nov) |  | 48.8 | 48.5 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 54.1 |
-| 14:45 | USD | High | S&P Global Services PMI (Nov) |  | 55.2 | 55.0 |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 2.6% | 2.7% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.1% | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 78.5 | 74.1 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 73.0 | 70.5 |
-| 15:00 | USD | Low | Michigan Current Conditions (Nov) |  | 64.4 | 64.9 |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) | 0.9% | 0.5% | -0.8% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) | -0.4% | 0.1% | 0.0% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
+| 39 min | USD | High | S&P Global US Manufacturing PMI (Nov) |  | 48.8 | 48.5 |
+| 39 min | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 54.1 |
+| 39 min | USD | High | S&P Global Services PMI (Nov) |  | 55.2 | 55.0 |
+| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 2.6% | 2.7% |
+| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.1% | 3.0% |
+| 54 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 78.5 | 74.1 |
+| 54 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 73.0 | 70.5 |
+| 54 min | USD | Low | Michigan Current Conditions (Nov) |  | 64.4 | 64.9 |
 | 15:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |
