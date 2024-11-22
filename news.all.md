@@ -11,22 +11,21 @@
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
-| 54 min | CHF | Low | M3 Money Supply (Oct) |  |  | 1,150,348.0B |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 44.6 | 44.5 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Nov) |  |  | 48.1 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Nov) |  | 49.0 | 49.2 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Nov) |  |  | 48.6 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 43.1 | 43.0 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 51.8 | 51.6 |
-| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 46.0 | 46.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  |  | 50.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 51.6 | 51.6 |
+| 7 min | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 44.6 | 44.5 |
+| 7 min | EUR | Low | HCOB France Composite PMI (Nov) |  |  | 48.1 |
+| 7 min | EUR | Moderate | HCOB France Services PMI (Nov) |  | 49.0 | 49.2 |
+| 22 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  |  | 48.6 |
+| 22 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 43.1 | 43.0 |
+| 22 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 51.8 | 51.6 |
+| 22 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 32 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 52 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 46.0 | 46.0 |
+| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  |  | 50.0 |
+| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 51.6 | 51.6 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  |  | 51.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 52.3 | 52.0 |
@@ -36,8 +35,8 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.49% | 0.43% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.10% | -0.30% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 0.50% | 0.40% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
