@@ -9,12 +9,12 @@
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 57.3 |  | 57.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 3.3% | 4.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 3.4% | 3.9% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.2% | -0.2% |
+| 52 min | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 3.3% | 4.0% |
+| 52 min | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
+| 52 min | GBP | Moderate | Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
+| 52 min | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 3.4% | 3.9% |
+| 52 min | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.2% | -0.2% |
+| 52 min | EUR | High | German GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Oct) |  |  | 1,150,348.0B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 44.6 | 44.5 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Nov) |  |  | 48.1 |
