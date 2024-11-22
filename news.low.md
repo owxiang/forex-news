@@ -8,7 +8,7 @@
 | 03:00 | IDR | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Nov) | 57.3 |  | 57.5 |
 | 05:00 | INR | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
-| 08:00 | CHF | M3 Money Supply (Oct) |  |  | 1,150,348.0B |
+| 54 min | CHF | M3 Money Supply (Oct) |  |  | 1,150,348.0B |
 | 08:15 | EUR | HCOB France Composite PMI (Nov) |  |  | 48.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Nov) |  |  | 48.6 |
 | 11:30 | INR | FX Reserves, USD |  |  | 675.65B |

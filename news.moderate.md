@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 52 min | GBP | Core Retail Sales (YoY) (Oct) |  | 3.3% | 4.0% |
-| 52 min | GBP | Core Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
-| 52 min | GBP | Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
-| 52 min | GBP | Retail Sales (YoY) (Oct) |  | 3.4% | 3.9% |
-| 52 min | EUR | German GDP (YoY) (Q3) |  | -0.2% | -0.2% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
+| 07:00 | GBP | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
+| 07:00 | GBP | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
+| 07:00 | EUR | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Nov) |  | 44.6 | 44.5 |
 | 08:15 | EUR | HCOB France Services PMI (Nov) |  | 49.0 | 49.2 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Nov) |  | 43.1 | 43.0 |
