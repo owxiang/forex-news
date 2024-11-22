@@ -9,8 +9,8 @@
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 57.3 |  | 57.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.2% |
@@ -35,8 +35,8 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.49% | 0.43% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.10% | -0.30% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 0.50% | 0.40% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
