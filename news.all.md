@@ -11,10 +11,10 @@
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.2% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 43.2 | 44.6 | 44.5 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Nov) | 44.8 |  | 48.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Nov) | 45.7 | 49.0 | 49.2 |
@@ -33,17 +33,17 @@
 | 11:30 | INR | Low | FX Reserves, USD | 657.89B |  | 675.65B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) | 0.04% | 0.17% | 0.23% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.37% | 0.49% | 0.43% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.30% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.40% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.20% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.70% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | 1.1% | 1.0% | 1.0% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 1.6% | 1.5% | 1.5% |
-| 30 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 50 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.5% | -0.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Sep) |  | 0.3% | 0.4% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | -0.6% |
+| 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 19 min | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.5% | -0.7% |
+| 19 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
+| 19 min | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
+| 19 min | CAD | Moderate | Retail Sales (MoM) (Sep) |  | 0.3% | 0.4% |
+| 19 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | -0.6% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Nov) |  | 48.8 | 48.5 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 54.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Nov) |  | 55.2 | 55.0 |

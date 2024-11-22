@@ -13,10 +13,10 @@
 | 11:30 | INR | FX Reserves, USD | 657.89B |  | 675.65B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Nov) | 0.04% | 0.17% | 0.23% |
 | 12:00 | MXN | 1st Half-Month CPI (Nov) | 0.37% | 0.49% | 0.43% |
-| 12:00 | MXN | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.30% |
-| 12:00 | MXN | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.40% |
-| 30 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
+| 12:00 | MXN | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.20% |
+| 12:00 | MXN | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.70% |
+| 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 19 min | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
 | 15:00 | USD | Michigan Current Conditions (Nov) |  | 64.4 | 64.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.8K |
