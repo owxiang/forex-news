@@ -6,13 +6,13 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Nov) | -18 | -22 | -21 |
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.5 | 49.2 |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Oct) |  |  | 7.20% |
+| 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) |  |  | 57.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) |  |  | 58.5 |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | 3.3% | 4.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 3.4% | 3.9% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | 3.4% | 3.9% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.2% | -0.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Oct) |  |  | 1,150,348.0B |
@@ -36,8 +36,8 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.49% | 0.43% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.10% | -0.30% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 0.50% | 0.40% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
 | 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
