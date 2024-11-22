@@ -15,9 +15,9 @@
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 45.2 | 46.0 | 46.0 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 48.1 |  | 50.0 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 48.1 | 50.0 | 50.0 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Nov) | 49.2 | 51.6 | 51.6 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) | 49.9 |  | 51.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) | 49.9 | 51.8 | 51.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) | 48.6 | 50.1 | 49.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) | 50.0 | 52.3 | 52.0 |
 | 11:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
@@ -35,13 +35,13 @@
 | 15:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 479 |  | 478 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 583 |  | 584 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 56.0K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 186.9K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 236.5K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 16.4K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | 25.0K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 29.8K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -7.6K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -64.9K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -7.4K |
+| 23 min | GBP | CFTC GBP speculative net positions |  |  | 56.0K |
+| 23 min | USD | CFTC Crude Oil speculative net positions |  |  | 186.9K |
+| 23 min | USD | CFTC Gold speculative net positions |  |  | 236.5K |
+| 23 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 16.4K |
+| 23 min | USD | CFTC S&P 500 speculative net positions |  |  | 25.0K |
+| 23 min | AUD | CFTC AUD speculative net positions |  |  | 29.8K |
+| 23 min | BRL | CFTC BRL speculative net positions |  |  | -7.6K |
+| 23 min | JPY | CFTC JPY speculative net positions |  |  | -64.9K |
+| 23 min | EUR | CFTC EUR speculative net positions |  |  | -7.4K |
 | 23:15 | USD | FOMC Member Bowman Speaks |  |  |  |
