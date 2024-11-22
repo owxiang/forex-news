@@ -10,14 +10,12 @@
 | 05:00 | INR | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
 | 08:15 | EUR | HCOB France Composite PMI (Nov) | 44.8 |  | 48.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Nov) | 47.3 |  | 48.6 |
-| 11:30 | INR | FX Reserves, USD |  |  | 675.65B |
-| 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.17% | 0.23% |
-| 12:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.49% | 0.43% |
-| 12:00 | MXN | Economic Activity (MoM) (Sep) |  | 0.10% | -0.30% |
-| 12:00 | MXN | Economic Activity (YoY) (Sep) |  | 0.50% | 0.40% |
-| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
-| 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
-| 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 11:30 | INR | FX Reserves, USD | 657.89B |  | 675.65B |
+| 12:00 | MXN | 1st Half-Month Core CPI (Nov) | 0.04% | 0.17% | 0.23% |
+| 12:00 | MXN | 1st Half-Month CPI (Nov) | 0.37% | 0.49% | 0.43% |
+| 12:00 | MXN | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.30% |
+| 12:00 | MXN | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.40% |
+| 30 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
 | 15:00 | USD | Michigan Current Conditions (Nov) |  | 64.4 | 64.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
