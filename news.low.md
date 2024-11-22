@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | SGD | GDP (YoY) (Q3) | 5.4% |  | 3.0% |
 | 00:01 | GBP | GfK Consumer Confidence (Nov) | -18 | -22 | -21 |
-| 3 min | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 49.5 | 49.2 |
+| 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.5 | 49.2 |
 | 04:00 | IDR | M2 Money Supply (YoY) (Oct) |  |  | 7.20% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Nov) |  |  | 57.5 |
 | 05:00 | INR | HSBC India Services PMI (Nov) |  |  | 58.5 |
@@ -14,8 +14,8 @@
 | 11:30 | INR | FX Reserves, USD |  |  | 675.65B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.17% | 0.23% |
 | 12:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.49% | 0.43% |
-| 12:00 | MXN | Economic Activity (YoY) (Sep) |  | 0.50% | 0.40% |
 | 12:00 | MXN | Economic Activity (MoM) (Sep) |  | 0.10% | -0.30% |
+| 12:00 | MXN | Economic Activity (YoY) (Sep) |  | 0.50% | 0.40% |
 | 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
 | 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
 | 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |

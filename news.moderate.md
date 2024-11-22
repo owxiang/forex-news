@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | JPY | au Jibun Bank Japan Services PMI (Nov) |  |  | 49.7 |
+| 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
 | 07:00 | GBP | Core Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Oct) |  | 3.3% | 4.0% |
 | 07:00 | GBP | Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
