@@ -16,7 +16,7 @@
 | 12:00 | MXN | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.20% |
 | 12:00 | MXN | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.70% |
 | 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 54 min | USD | Michigan Current Conditions (Nov) |  | 64.4 | 64.9 |
+| 15:00 | USD | Michigan Current Conditions (Nov) | 63.9 | 64.4 | 64.4 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 177.6K |

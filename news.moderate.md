@@ -27,12 +27,12 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (Sep) | 0.9% | 0.5% | -0.8% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Oct) | -0.4% | 0.1% | 0.0% |
 | 13:30 | CAD | Retail Sales (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
-| 39 min | USD | S&P Global Composite PMI (Nov) |  |  | 54.1 |
-| 54 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 2.6% | 2.7% |
-| 54 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.1% | 3.0% |
-| 54 min | USD | Michigan Consumer Expectations (Nov) |  | 78.5 | 74.1 |
-| 54 min | USD | Michigan Consumer Sentiment (Nov) |  | 73.0 | 70.5 |
-| 15:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Nov) | 55.3 |  | 54.1 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 2.6% | 2.6% | 2.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.1% | 3.1% |
+| 15:00 | USD | Michigan Consumer Expectations (Nov) | 76.9 | 78.5 | 78.5 |
+| 15:00 | USD | Michigan Consumer Sentiment (Nov) | 71.8 | 73.0 | 73.0 |
+| 39 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 56.0K |

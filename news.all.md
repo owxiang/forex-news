@@ -42,15 +42,15 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) | 0.9% | 0.5% | -0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) | -0.4% | 0.1% | 0.0% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
-| 39 min | USD | High | S&P Global US Manufacturing PMI (Nov) |  | 48.8 | 48.5 |
-| 39 min | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 54.1 |
-| 39 min | USD | High | S&P Global Services PMI (Nov) |  | 55.2 | 55.0 |
-| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 2.6% | 2.7% |
-| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.1% | 3.0% |
-| 54 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 78.5 | 74.1 |
-| 54 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 73.0 | 70.5 |
-| 54 min | USD | Low | Michigan Current Conditions (Nov) |  | 64.4 | 64.9 |
-| 15:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.5 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 55.3 |  | 54.1 |
+| 14:45 | USD | High | S&P Global Services PMI (Nov) | 57.0 | 55.2 | 55.0 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 2.6% | 2.6% | 2.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.1% | 3.1% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) | 76.9 | 78.5 | 78.5 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 71.8 | 73.0 | 73.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Nov) | 63.9 | 64.4 | 64.4 |
+| 39 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 56.0K |
