@@ -8,8 +8,8 @@
 | 03:00 | IDR | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Nov) | 57.3 |  | 57.5 |
 | 05:00 | INR | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
-| 7 min | EUR | HCOB France Composite PMI (Nov) |  |  | 48.1 |
-| 22 min | EUR | HCOB Germany Composite PMI (Nov) |  |  | 48.6 |
+| 08:15 | EUR | HCOB France Composite PMI (Nov) | 44.8 |  | 48.1 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Nov) | 47.3 |  | 48.6 |
 | 11:30 | INR | FX Reserves, USD |  |  | 675.65B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.17% | 0.23% |
 | 12:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.49% | 0.43% |

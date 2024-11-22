@@ -9,26 +9,26 @@
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 57.3 |  | 57.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
-| 7 min | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 44.6 | 44.5 |
-| 7 min | EUR | Low | HCOB France Composite PMI (Nov) |  |  | 48.1 |
-| 7 min | EUR | Moderate | HCOB France Services PMI (Nov) |  | 49.0 | 49.2 |
-| 22 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  |  | 48.6 |
-| 22 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 43.1 | 43.0 |
-| 22 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 51.8 | 51.6 |
-| 22 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 32 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 52 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 46.0 | 46.0 |
-| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  |  | 50.0 |
-| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 51.6 | 51.6 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  |  | 51.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 52.3 | 52.0 |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 43.2 | 44.6 | 44.5 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Nov) | 44.8 |  | 48.1 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Nov) | 45.7 | 49.0 | 49.2 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Nov) | 47.3 |  | 48.6 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 43.2 | 43.1 | 43.0 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 49.4 | 51.8 | 51.6 |
+| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 45.2 | 46.0 | 46.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 48.1 |  | 50.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 49.2 | 51.6 | 51.6 |
+| 23 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  |  | 51.8 |
+| 23 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
+| 23 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 52.3 | 52.0 |
 | 11:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 675.65B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.17% | 0.23% |
