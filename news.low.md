@@ -1,51 +1,34 @@
-## 21 November 2024 - Low Impact Forex News
+## 22 November 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Reserve Assets Total (Oct) | 98.1B |  | 93.0B |
-| 02:00 | NZD | Credit Card Spending (YoY) | 0.3% |  | -3.1% |
-| 03:00 | IDR | Balance of Payments (EUR) (Q3) | 5.9B |  | -0.6B |
-| 03:00 | IDR | Current Account % of GDP (Q3) | -0.60% |  | -0.90% |
-| 05:10 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 05:30 | GBP | Car Registration (YoY) (Oct) | -6.0% |  | 1.0% |
-| 05:30 | GBP | Car Registration (MoM) (Oct) | -47.6% |  | 225.4% |
-| 05:30 | EUR | Italian Car Registration (MoM) (Oct) | 4.0% |  | 76.0% |
-| 05:30 | EUR | Italian Car Registration (YoY) (Oct) | -9.1% |  | -10.7% |
-| 05:30 | EUR | German Car Registration (MoM) (Oct) | 11.1% |  | 5.8% |
-| 05:30 | EUR | German Car Registration (YoY) (Oct) | 6.0% |  | -7.0% |
-| 05:30 | EUR | French Car Registration (MoM) (Oct) | -2.5% |  | 61.7% |
-| 05:30 | EUR | French Car Registration (YoY) (Oct) | -11.1% |  | -11.1% |
-| 07:00 | GBP | Public Sector Net Borrowing (Oct) | 17.35B | 14.10B | 16.14B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Oct) | 11.133B |  | -20.446B |
-| 07:00 | NOK | GDP (QoQ) (Q3) | -1.8% |  | 2.0% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q3) | 0.5% | 0.3% | 0.3% |
-| 07:45 | EUR | French Business Survey (Nov) | 97 | 95 | 93 |
-| 08:00 | CHF | M3 Money Supply (Oct) | 1,147.6B |  | 1,148.2B |
-| 08:30 | HKD | CPI (MoM) (Oct) | 0.20% |  | 0.10% |
-| 08:30 | HKD | CPI (YoY) (Oct) | 1.40% | 1.70% | 2.20% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Nov) | -19 | -25 | -27 |
-| 12:00 | MXN | Retail Sales (YoY) (Sep) | -1.5% | -1.2% | -0.8% |
-| 12:00 | MXN | Retail Sales (MoM) (Sep) | 0.1% | 0.1% | 0.1% |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | ZAR | Prime Rate (Nov) | 11.25% |  | 11.50% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 217.75K |  | 221.50K |
-| 13:30 | USD | Philly Fed Business Conditions (Nov) | 56.6 |  | 36.7 |
-| 13:30 | USD | Philly Fed CAPEX Index (Nov) | 24.90 |  | 23.50 |
-| 13:30 | USD | Philly Fed New Orders (Nov) | 8.9 |  | 14.2 |
-| 13:30 | USD | Philly Fed Prices Paid (Nov) | 26.60 |  | 29.70 |
-| 13:30 | CAD | IPPI (MoM) (Oct) | 1.2% | 0.3% | -0.8% |
-| 13:30 | CAD | IPPI (YoY) (Oct) | 1.1% |  | -1.0% |
-| 13:30 | CAD | RMPI (YoY) (Oct) | -2.8% |  | -8.8% |
-| 15:00 | EUR | Consumer Confidence (Nov) | -13.7 | -12.4 | -12.5 |
-| 15:30 | USD | Natural Gas Storage | -3B | 2B | 42B |
-| 16:00 | USD | KC Fed Composite Index (Nov) | -2 |  | -4 |
-| 16:00 | USD | KC Fed Manufacturing Index (Nov) | -4 |  | 0 |
-| 16:30 | USD | 4-Week Bill Auction | 4.530% |  | 4.510% |
-| 16:30 | USD | 8-Week Bill Auction | 4.480% |  | 4.460% |
-| 17:25 | USD | Fed Goolsbee Speaks |  |  |  |
-| 17:30 | BRL | Foreign Exchange Flows | -1.989B |  | -0.326B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.267T |  | 3.192T |
-| 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Nov) | 49.4 |  | 47.3 |
-| 22:00 | AUD | Judo Bank Australia Services PMI (Nov) | 49.6 |  | 51.0 |
-| 24 min | JPY | CPI, n.s.a (MoM) (Oct) |  |  | -0.3% |
-| 24 min | JPY | National CPI (YoY) (Oct) |  |  | 2.5% |
+| 00:00 | SGD | GDP (YoY) (Q3) | 5.4% |  | 3.0% |
+| 00:01 | GBP | GfK Consumer Confidence (Nov) | -18 | -22 | -21 |
+| 3 min | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 49.5 | 49.2 |
+| 04:00 | IDR | M2 Money Supply (YoY) (Oct) |  |  | 7.20% |
+| 05:00 | INR | HSBC India Manufacturing PMI (Nov) |  |  | 57.5 |
+| 05:00 | INR | HSBC India Services PMI (Nov) |  |  | 58.5 |
+| 08:00 | CHF | M3 Money Supply (Oct) |  |  | 1,150,348.0B |
+| 08:15 | EUR | HCOB France Composite PMI (Nov) |  |  | 48.1 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Nov) |  |  | 48.6 |
+| 11:30 | INR | FX Reserves, USD |  |  | 675.65B |
+| 12:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.17% | 0.23% |
+| 12:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.49% | 0.43% |
+| 12:00 | MXN | Economic Activity (YoY) (Sep) |  | 0.50% | 0.40% |
+| 12:00 | MXN | Economic Activity (MoM) (Sep) |  | 0.10% | -0.30% |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
+| 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
+| 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
+| 15:00 | USD | Michigan Current Conditions (Nov) |  | 64.4 | 64.9 |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 177.6K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -156.1K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 47.6K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -77.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -38.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -182.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 20.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -11.7K |
