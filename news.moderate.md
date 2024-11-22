@@ -44,4 +44,4 @@
 | 20:30 | BRL | CFTC BRL speculative net positions | -7.3K |  | -7.6K |
 | 20:30 | JPY | CFTC JPY speculative net positions | -46.9K |  | -64.9K |
 | 20:30 | EUR | CFTC EUR speculative net positions | -42.6K |  | -7.4K |
-| 23:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 9 min | USD | FOMC Member Bowman Speaks |  |  |  |

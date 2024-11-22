@@ -73,4 +73,4 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -46.9K |  | -64.9K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions | -18.4K |  | -11.7K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -42.6K |  | -7.4K |
-| 23:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
