@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Oct) |  | 3.3% | 4.0% |
-| 07:00 | GBP | Retail Sales (YoY) (Oct) |  | 3.4% | 3.9% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Oct) |  | -0.3% | 0.3% |
+| 07:00 | GBP | Retail Sales (YoY) (Oct) |  | 3.4% | 3.9% |
 | 07:00 | EUR | German GDP (YoY) (Q3) |  | -0.2% | -0.2% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Nov) |  | 44.6 | 44.5 |
 | 08:15 | EUR | HCOB France Services PMI (Nov) |  | 49.0 | 49.2 |
@@ -21,8 +21,8 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 52.3 | 52.0 |
 | 11:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 12:00 | MXN | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 12:00 | MXN | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
+| 12:00 | MXN | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Core Retail Sales (MoM) (Sep) |  | -0.5% | -0.7% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Oct) |  | 0.1% | 0.0% |
