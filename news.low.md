@@ -16,15 +16,15 @@
 | 12:00 | MXN | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.20% |
 | 12:00 | MXN | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.70% |
 | 12:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 15:00 | USD | Michigan Current Conditions (Nov) | 63.9 | 64.4 | 64.4 |
-| 23 min | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
-| 23 min | USD | CFTC Copper speculative net positions |  |  | 20.8K |
-| 23 min | USD | CFTC Corn speculative net positions |  |  | 177.6K |
-| 23 min | USD | CFTC Natural Gas speculative net positions |  |  | -156.1K |
-| 23 min | USD | CFTC Silver speculative net positions |  |  | 47.6K |
-| 23 min | USD | CFTC Soybeans speculative net positions |  |  | -77.1K |
-| 23 min | USD | CFTC Wheat speculative net positions |  |  | -38.5K |
-| 23 min | CAD | CFTC CAD speculative net positions |  |  | -182.4K |
-| 23 min | MXN | CFTC MXN speculative net positions |  |  | 20.2K |
-| 23 min | CHF | CFTC CHF speculative net positions |  |  | -32.7K |
-| 23 min | NZD | CFTC NZD speculative net positions |  |  | -11.7K |
+| 15:00 | USD | Michigan Current Conditions (Nov) | 63.9 | 64.4 | 64.9 |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 3.1K |  | 3.0K |
+| 20:30 | USD | CFTC Copper speculative net positions | 15.4K |  | 20.8K |
+| 20:30 | USD | CFTC Corn speculative net positions | 163.3K |  | 177.6K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -161.0K |  | -156.1K |
+| 20:30 | USD | CFTC Silver speculative net positions | 46.3K |  | 47.6K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -86.3K |  | -77.1K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -46.0K |  | -38.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -183.6K |  | -182.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 14.0K |  | 20.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -37.1K |  | -32.7K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -18.4K |  | -11.7K |
