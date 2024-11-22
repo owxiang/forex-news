@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
 | 07:00 | EUR | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
