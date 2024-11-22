@@ -6,8 +6,8 @@
 | 00:01 | GBP | GfK Consumer Confidence (Nov) | -18 | -22 | -21 |
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.5 | 49.2 |
 | 03:00 | IDR | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
-| 05:00 | INR | HSBC India Manufacturing PMI (Nov) |  |  | 57.5 |
-| 05:00 | INR | HSBC India Services PMI (Nov) |  |  | 58.5 |
+| 52 min | INR | HSBC India Manufacturing PMI (Nov) |  |  | 57.5 |
+| 52 min | INR | HSBC India Services PMI (Nov) |  |  | 58.5 |
 | 08:00 | CHF | M3 Money Supply (Oct) |  |  | 1,150,348.0B |
 | 08:15 | EUR | HCOB France Composite PMI (Nov) |  |  | 48.1 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Nov) |  |  | 48.6 |
