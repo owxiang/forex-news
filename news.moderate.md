@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
-| 07:00 | GBP | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
+| 07:00 | GBP | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | EUR | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Nov) | 43.2 | 44.6 | 44.5 |
 | 08:15 | EUR | HCOB France Services PMI (Nov) | 45.7 | 49.0 | 49.2 |
@@ -17,9 +17,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 45.2 | 46.0 | 46.0 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 48.1 |  | 50.0 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Nov) | 49.2 | 51.6 | 51.6 |
-| 23 min | GBP | S&P Global/CIPS UK Composite PMI (Nov) |  |  | 51.8 |
-| 23 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 50.1 | 49.9 |
-| 23 min | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 52.3 | 52.0 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) | 49.9 |  | 51.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) | 48.6 | 50.1 | 49.9 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) | 50.0 | 52.3 | 52.0 |
 | 11:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 12:00 | MXN | GDP (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 12:00 | MXN | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
