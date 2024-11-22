@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
 | 07:00 | GBP | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
 | 07:00 | GBP | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
 | 07:00 | EUR | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
@@ -33,8 +33,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Nov) | 76.9 | 78.5 | 78.5 |
 | 15:00 | USD | Michigan Consumer Sentiment (Nov) | 71.8 | 73.0 | 73.0 |
 | 15:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 56.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 186.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 236.5K |
