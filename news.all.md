@@ -1,76 +1,9 @@
-## 22 November 2024 - All Forex News
+## 24 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (YoY) (Q3) | 5.4% |  | 3.0% |
-| 00:01 | GBP | Low | GfK Consumer Confidence (Nov) | -18 | -22 | -21 |
-| 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.5 | 49.2 |
-| 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Nov) | 50.2 |  | 49.7 |
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 6.70% |  | 7.20% |
-| 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 57.3 |  | 57.5 |
-| 05:00 | INR | Low | HSBC India Services PMI (Nov) | 59.2 |  | 58.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.9% | -0.3% | 0.1% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | 2.0% | 3.3% | 3.2% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.7% | -0.3% | 0.1% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | 2.4% | 3.4% | 3.2% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q3) | 0.1% | 0.2% | 0.2% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.3% | -0.2% | -0.2% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 43.2 | 44.6 | 44.5 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Nov) | 44.8 | 48.3 | 48.1 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Nov) | 45.7 | 49.0 | 49.2 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Nov) | 47.3 | 48.6 | 48.6 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 43.2 | 43.1 | 43.0 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 49.4 | 51.8 | 51.6 |
-| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 45.2 | 46.0 | 46.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 48.1 | 50.0 | 50.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 49.2 | 51.6 | 51.6 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) | 49.9 | 51.8 | 51.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) | 48.6 | 50.1 | 49.9 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) | 50.0 | 52.3 | 52.0 |
-| 11:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 11:30 | INR | Low | FX Reserves, USD | 657.89B |  | 675.65B |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Nov) | 0.04% | 0.17% | 0.23% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.37% | 0.49% | 0.43% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Sep) | 0.20% | 0.10% | -0.20% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Sep) | 0.30% | 0.50% | 0.70% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q3) | 1.1% | 1.0% | 1.0% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q3) | 1.6% | 1.5% | 1.5% |
-| 12:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) | 0.9% | 0.5% | -0.8% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) | -0.4% | 0.1% | 0.0% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Nov) | 48.8 | 48.8 | 48.5 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 55.3 |  | 54.1 |
-| 14:45 | USD | High | S&P Global Services PMI (Nov) | 57.0 | 55.2 | 55.0 |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 2.6% | 2.6% | 2.7% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.1% | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Nov) | 76.9 | 78.5 | 74.1 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 71.8 | 73.7 | 70.5 |
-| 15:00 | USD | Low | Michigan Current Conditions (Nov) | 63.9 | 64.4 | 64.9 |
-| 15:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 |  | 478 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 583 |  | 584 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 40.3K |  | 56.0K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 3.1K |  | 3.0K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions | 15.4K |  | 20.8K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions | 163.3K |  | 177.6K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 193.9K |  | 186.9K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 234.4K |  | 236.5K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 19.8K |  | 16.4K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -161.0K |  | -156.1K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | 34.9K |  | 25.0K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions | 46.3K |  | 47.6K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -86.3K |  | -77.1K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions | -46.0K |  | -38.5K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions | -183.6K |  | -182.4K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions | 14.0K |  | 20.2K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions | -37.1K |  | -32.7K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | 31.6K |  | 29.8K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -7.3K |  | -7.6K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -46.9K |  | -64.9K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions | -18.4K |  | -11.7K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -42.6K |  | -7.4K |
-| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 21:45 | NZD | Low | Exports (Oct) |  |  | 5.01B |
+| 21:45 | NZD | Low | Imports (Oct) |  |  | 7.12B |
+| 21:45 | NZD | Moderate | Retail Sales (QoQ) |  |  | -1.2% |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Oct) |  |  | -2,108M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Oct) |  |  | -9,090M |
