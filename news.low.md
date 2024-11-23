@@ -4,5 +4,5 @@
 |------|----------|-------|--------|----------|----------|
 | 21:45 | NZD | Exports (Oct) |  |  | 5.01B |
 | 21:45 | NZD | Imports (Oct) |  |  | 7.12B |
-| 21:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -9,090M |
 | 21:45 | NZD | Trade Balance (MoM) (Oct) |  |  | -2,108M |
+| 21:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -9,090M |
