@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) (Sep) | 1.3% |  | 1.7% |
-| 05:00 | JPY | Leading Index (MoM) (Sep) | 2.2% |  | 2.5% |
 | 05:00 | JPY | Leading Index (Sep) | 109.1 | 109.4 | 106.9 |
+| 05:00 | JPY | Leading Index (MoM) (Sep) | 2.2% |  | 2.5% |
 | 05:00 | SGD | CPI (MoM) (Oct) | -0.30% |  | 0.30% |
 | 07:00 | NOK | M3 Money Supply (Oct) | 3,211.6B |  | 3,188.3B |
 | 07:00 | NOK | Credit Indicator (YoY) (Oct) | 3.8% |  | 3.7% |
