@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 1.7% |
-| 05:00 | JPY | Low | Leading Index |  | 109.4 | 106.9 |
 | 05:00 | JPY | Low | Leading Index (MoM) |  |  | 2.5% |
+| 05:00 | JPY | Low | Leading Index |  | 109.4 | 106.9 |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) |  | 2.50% | 2.80% |
 | 05:00 | SGD | Low | CPI (MoM) (Oct) |  |  | 0.30% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Oct) |  | 1.8% | 2.0% |
