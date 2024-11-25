@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 1.3% |  | 1.7% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.2% |  | 2.5% |
 | 05:00 | JPY | Low | Leading Index (Sep) | 109.1 | 109.4 | 106.9 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.2% |  | 2.5% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 2.10% | 2.50% | 2.80% |
 | 05:00 | SGD | Low | CPI (MoM) (Oct) | -0.30% |  | 0.30% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.4% | 1.8% | 2.0% |
@@ -17,9 +17,9 @@
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 85.7 | 86.1 | 86.5 |
 | 10:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 11:00 | BRL | Low | FGV Consumer confidence (Nov) | 95.6 |  | 93.0 |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 24 min | BRL | Low | Current Account (USD) (Oct) |  | -6.00B | -6.50B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Oct) |  | 4.70B | 5.20B |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:30 | BRL | Low | Current Account (USD) (Oct) | -5.88B | -6.00B | -6.50B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Oct) | 5.72B | 4.70B | 5.20B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.28 |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 1.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -0.5% |
