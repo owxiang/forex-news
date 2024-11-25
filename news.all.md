@@ -29,9 +29,9 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.613% |  | 2.724% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) | -2.7 | -2.4 | -3.0 |
 | 15:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.420% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.310% |
-| 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.130% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.415% |  | 4.420% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.340% |  | 4.310% |
+| 24 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 54 min | USD | Moderate | 2-Year Note Auction |  |  | 4.130% |
 | 21:00 | KRW | Low | Consumer Confidence (Nov) |  |  | 101.7 |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.5% | 2.6% |

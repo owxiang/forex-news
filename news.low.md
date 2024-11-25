@@ -22,7 +22,7 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.824% |  | 2.937% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.613% |  | 2.724% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Nov) | -2.7 | -2.4 | -3.0 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.420% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.310% |
+| 16:30 | USD | 3-Month Bill Auction | 4.415% |  | 4.420% |
+| 16:30 | USD | 6-Month Bill Auction | 4.340% |  | 4.310% |
 | 21:00 | KRW | Consumer Confidence (Nov) |  |  | 101.7 |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.5% | 2.6% |

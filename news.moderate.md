@@ -9,5 +9,5 @@
 | 09:00 | EUR | German Current Assessment (Nov) | 84.3 | 85.4 | 85.7 |
 | 09:00 | EUR | German Ifo Business Climate Index (Nov) | 85.7 | 86.1 | 86.5 |
 | 15:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction |  |  | 4.130% |
+| 24 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 54 min | USD | 2-Year Note Auction |  |  | 4.130% |
