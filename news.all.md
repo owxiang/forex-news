@@ -15,8 +15,8 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Nov) | 87.2 | 87.0 | 87.3 |
 | 09:00 | EUR | Moderate | German Current Assessment (Nov) | 84.3 | 85.4 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 85.7 | 86.1 | 86.5 |
-| 10:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 11:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 93.0 |
+| 23 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 53 min | BRL | Low | FGV Consumer confidence (Nov) |  |  | 93.0 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Current Account (USD) (Oct) |  | -6.00B | -6.50B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Oct) |  | 4.70B | 5.20B |

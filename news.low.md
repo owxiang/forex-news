@@ -9,8 +9,8 @@
 | 07:00 | NOK | M3 Money Supply (Oct) | 3,211.6B |  | 3,188.3B |
 | 07:00 | NOK | Credit Indicator (YoY) (Oct) | 3.8% |  | 3.7% |
 | 08:00 | EUR | Spanish PPI (YoY) (Oct) | -3.9% |  | -5.2% |
-| 10:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 11:00 | BRL | FGV Consumer confidence (Nov) |  |  | 93.0 |
+| 23 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 53 min | BRL | FGV Consumer confidence (Nov) |  |  | 93.0 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Current Account (USD) (Oct) |  | -6.00B | -6.50B |
 | 11:30 | BRL | Foreign direct investment (USD) (Oct) |  | 4.70B | 5.20B |
