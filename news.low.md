@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) |  |  | 1.7% |
-| 05:00 | JPY | Leading Index (MoM) |  |  | 2.5% |
 | 05:00 | JPY | Leading Index |  | 109.4 | 106.9 |
+| 05:00 | JPY | Leading Index (MoM) |  |  | 2.5% |
 | 05:00 | SGD | CPI (MoM) (Oct) |  |  | 0.30% |
 | 07:00 | NOK | M3 Money Supply (Oct) |  |  | 3,188.3B |
 | 07:00 | NOK | Credit Indicator (YoY) (Oct) |  |  | 3.7% |
@@ -18,8 +18,8 @@
 | 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.8% |
 | 12:00 | USD | Milk Auctions |  |  | 3,997.0 |
 | 13:30 | USD | Chicago Fed National Activity (Oct) |  |  | -0.28 |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
 | 13:30 | CAD | Manufacturing Sales (MoM) |  | -0.8% | -0.5% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
 | 14:00 | MXN | Current Account (USD) (Q3) |  |  | 3,639M |
 | 14:00 | MXN | Current Account % of GDP (Q3) |  |  | 0.70% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.507% |
