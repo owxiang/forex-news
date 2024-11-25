@@ -24,5 +24,5 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Nov) | -2.7 | -2.4 | -3.0 |
 | 16:30 | USD | 3-Month Bill Auction | 4.415% |  | 4.420% |
 | 16:30 | USD | 6-Month Bill Auction | 4.340% |  | 4.310% |
-| 53 min | KRW | Consumer Confidence (Nov) |  |  | 101.7 |
+| 21:00 | KRW | Consumer Confidence (Nov) | 100.7 |  | 101.7 |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.5% | 2.6% |
