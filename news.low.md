@@ -14,15 +14,12 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Current Account (USD) (Oct) | -5.88B | -6.00B | -6.50B |
 | 11:30 | BRL | Foreign direct investment (USD) (Oct) | 5.72B | 4.70B | 5.20B |
-| 18 min | USD | Chicago Fed National Activity (Oct) |  |  | -0.28 |
-| 18 min | CAD | Corporate Profits (QoQ) |  |  | 1.5% |
-| 18 min | CAD | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -0.5% |
-| 48 min | MXN | Current Account (USD) (Q3) |  |  | 3,639M |
-| 48 min | MXN | Current Account % of GDP (Q3) |  |  | 0.70% |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 2.507% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 2.937% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 2.724% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Nov) |  |  | -3.0 |
+| 13:30 | USD | Chicago Fed National Activity (Oct) | -0.40 | -0.20 | -0.27 |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) | 1.3% | -0.8% | -0.5% |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.382% |  | 2.507% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.824% |  | 2.937% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.613% |  | 2.724% |
+| 15:30 | USD | Dallas Fed Mfg Business Index (Nov) |  | -2.4 | -3.0 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.420% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.310% |
 | 21:00 | KRW | Consumer Confidence (Nov) |  |  | 101.7 |
