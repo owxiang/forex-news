@@ -10,11 +10,11 @@
 | 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.4% | 1.8% | 2.0% |
 | 07:00 | NOK | Low | M3 Money Supply (Oct) | 3,211.6B |  | 3,188.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) | 3.8% |  | 3.7% |
-| 23 min | CHF | Moderate | Employment Level (Q3) |  |  | 5.499M |
-| 53 min | EUR | Low | Spanish PPI (YoY) (Oct) |  |  | -5.2% |
-| 09:00 | EUR | Moderate | German Business Expectations (Nov) |  | 87.0 | 87.3 |
-| 09:00 | EUR | Moderate | German Current Assessment (Nov) |  | 85.4 | 85.7 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 86.1 | 86.5 |
+| 07:30 | CHF | Moderate | Employment Level (Q3) | 5.528M |  | 5.499M |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Oct) | -3.9% |  | -5.2% |
+| 51 min | EUR | Moderate | German Business Expectations (Nov) |  | 87.0 | 87.3 |
+| 51 min | EUR | Moderate | German Current Assessment (Nov) |  | 85.4 | 85.7 |
+| 51 min | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 86.1 | 86.5 |
 | 10:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 11:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 93.0 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
