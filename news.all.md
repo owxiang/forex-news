@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 1.7% |
-| 05:00 | JPY | Low | Leading Index |  | 109.4 | 106.9 |
-| 05:00 | JPY | Low | Leading Index (MoM) |  |  | 2.5% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) |  | 2.50% | 2.80% |
-| 05:00 | SGD | Low | CPI (MoM) (Oct) |  |  | 0.30% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Oct) |  | 1.8% | 2.0% |
+| 52 min | JPY | Low | Coincident Indicator (MoM) |  |  | 1.7% |
+| 52 min | JPY | Low | Leading Index |  | 109.4 | 106.9 |
+| 52 min | JPY | Low | Leading Index (MoM) |  |  | 2.5% |
+| 52 min | SGD | Moderate | Core CPI (YoY) (Oct) |  | 2.50% | 2.80% |
+| 52 min | SGD | Low | CPI (MoM) (Oct) |  |  | 0.30% |
+| 52 min | SGD | Moderate | CPI (YoY) (Oct) |  | 1.8% | 2.0% |
 | 07:00 | NOK | Low | M3 Money Supply (Oct) |  |  | 3,188.3B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) |  |  | 3.7% |
 | 07:30 | CHF | Moderate | Employment Level (Q3) |  |  | 5.499M |
@@ -24,8 +24,8 @@
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.8% |
 | 12:00 | USD | Low | Milk Auctions |  |  | 3,997.0 |
 | 13:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | -0.28 |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) |  | -0.8% | -0.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -0.8% | -1.3% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) |  | -0.8% | -0.5% |
 | 14:00 | MXN | Low | Current Account (USD) (Q3) |  |  | 3,639M |
 | 14:00 | MXN | Low | Current Account % of GDP (Q3) |  |  | 0.70% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.507% |

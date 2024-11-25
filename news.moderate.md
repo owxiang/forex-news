@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Core CPI (YoY) (Oct) |  | 2.50% | 2.80% |
-| 05:00 | SGD | CPI (YoY) (Oct) |  | 1.8% | 2.0% |
+| 52 min | SGD | Core CPI (YoY) (Oct) |  | 2.50% | 2.80% |
+| 52 min | SGD | CPI (YoY) (Oct) |  | 1.8% | 2.0% |
 | 07:30 | CHF | Employment Level (Q3) |  |  | 5.499M |
 | 09:00 | EUR | German Business Expectations (Nov) |  | 87.3 | 87.3 |
 | 09:00 | EUR | German Current Assessment (Nov) |  | 85.5 | 85.7 |
