@@ -6,8 +6,8 @@
 | 05:00 | JPY | Leading Index (Sep) | 109.1 | 109.4 | 106.9 |
 | 05:00 | JPY | Leading Index (MoM) (Sep) | 2.2% |  | 2.5% |
 | 05:00 | SGD | CPI (MoM) (Oct) | -0.30% |  | 0.30% |
-| 07:00 | NOK | M3 Money Supply (Oct) |  |  | 3,188.3B |
-| 07:00 | NOK | Credit Indicator (YoY) (Oct) |  |  | 3.7% |
+| 51 min | NOK | M3 Money Supply (Oct) |  |  | 3,188.3B |
+| 51 min | NOK | Credit Indicator (YoY) (Oct) |  |  | 3.7% |
 | 08:00 | EUR | Spanish PPI (YoY) (Oct) |  |  | -5.2% |
 | 10:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 11:00 | BRL | FGV Consumer confidence (Nov) |  |  | 93.0 |
