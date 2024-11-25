@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 1.3% |  | 1.7% |
-| 05:00 | JPY | Low | Leading Index (Sep) | 109.1 | 109.4 | 106.9 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.2% |  | 2.5% |
+| 05:00 | JPY | Low | Leading Index (Sep) | 109.1 | 109.4 | 106.9 |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 2.10% | 2.50% | 2.80% |
 | 05:00 | SGD | Low | CPI (MoM) (Oct) | -0.30% |  | 0.30% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.4% | 1.8% | 2.0% |
@@ -22,11 +22,13 @@
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Oct) | 5.72B | 4.70B | 5.20B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Oct) | -0.40 | -0.20 | -0.27 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | 1.3% | -0.8% | -0.5% |
+| 14:00 | MXN | Low | Current Account (USD) (Q3) | 733M |  | 2,854M |
+| 14:00 | MXN | Low | Current Account % of GDP (Q3) | 0.20% |  | 0.70% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.382% |  | 2.507% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.824% |  | 2.937% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.613% |  | 2.724% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  | -2.4 | -3.0 |
-| 15:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 24 min | USD | Low | Dallas Fed Mfg Business Index (Nov) |  | -2.4 | -3.0 |
+| 24 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.420% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.310% |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
