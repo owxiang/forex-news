@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.6% |  | -0.8% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.5% | 1.8% | 1.7% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 1.2% | 1.5% | 9.0% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 0.1% | -0.8% | -1.5% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 1.2% | 1.5% | 9.0% |
 | 07:00 | ZAR | Low | Leading Indicators (Sep) | 113.90% |  | 112.80% |
 | 08:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Oct) | 3.5% |  | 4.7% |
@@ -20,8 +20,8 @@
 | 13:00 | USD | Low | Building Permits (MoM) (Oct) | -0.4% | -0.6% | -3.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) | 0.5% | 0.9% | 0.8% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (YoY) (Sep) | 4.4% |  | 4.4% |
 | 14:00 | USD | Low | House Price Index (MoM) (Sep) | 0.7% | 0.3% | 0.4% |
+| 14:00 | USD | Low | House Price Index (YoY) (Sep) | 4.4% |  | 4.4% |
 | 14:00 | USD | Low | House Price Index (Sep) | 430.3 |  | 427.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.2% |  | 0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | -0.4% |  | -0.3% |
