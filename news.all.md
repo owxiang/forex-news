@@ -12,11 +12,11 @@
 | 08:30 | HKD | Low | Imports (MoM) (Oct) | 4.5% |  | 1.4% |
 | 08:30 | HKD | Low | Trade Balance (Oct) | -31.0B |  | -53.2B |
 | 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 23 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.130% |
-| 53 min | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -14 | -6 |
-| 11:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 1.5% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.62% | 4.47% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.48% | 0.54% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.040% |  | 2.130% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | -18 | -14 | -6 |
+| 25 min | CAD | Low | Corporate Profits (QoQ) |  |  | 1.5% |
+| 55 min | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.62% | 4.47% |
+| 55 min | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.48% | 0.54% |
 | 13:00 | USD | Moderate | Building Permits (Oct) |  | 1.416M | 1.425M |
 | 13:00 | USD | Low | Building Permits (MoM) (Oct) |  | -0.6% | -3.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
