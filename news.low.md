@@ -25,4 +25,5 @@
 | 15:00 | USD | Richmond Services Index (Nov) | 9 |  | 3 |
 | 15:30 | USD | Dallas Fed Services Revenues (Nov) | 10.9 |  | 9.2 |
 | 15:30 | USD | Texas Services Sector Outlook (Nov) | 9.8 |  | 2.0 |
+| 16:00 | USD | M2 Money Supply (MoM) | 23.31T |  | 21.22T |
 | 16:30 | USD | 52-Week Bill Auction | 4.190% |  | 4.100% |

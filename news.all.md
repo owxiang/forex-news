@@ -36,7 +36,8 @@
 | 15:00 | USD | Low | Richmond Services Index (Nov) | 9 |  | 3 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Nov) | 10.9 |  | 9.2 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Nov) | 9.8 |  | 2.0 |
+| 16:00 | USD | Low | M2 Money Supply (MoM) | 23.31T |  | 21.22T |
 | 16:30 | USD | Low | 52-Week Bill Auction | 4.190% |  | 4.100% |
-| 54 min | USD | Moderate | 5-Year Note Auction |  |  | 4.138% |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 4.197% |  | 4.138% |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |
