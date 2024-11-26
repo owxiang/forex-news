@@ -13,14 +13,14 @@
 | 11:00 | GBP | CBI Distributive Trades Survey (Nov) | -18 | -14 | -6 |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Nov) | 4.77% | 4.62% | 4.47% |
-| 49 min | USD | Building Permits (MoM) (Oct) |  | -0.6% | -3.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | House Price Index (MoM) (Sep) |  | 0.3% | 0.3% |
-| 14:00 | USD | House Price Index (YoY) (Sep) |  |  | 4.2% |
-| 14:00 | USD | House Price Index (Sep) |  |  | 427.0 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.4% |
-| 14:00 | MXN | Current Account (USD) (Q3) |  |  | 3,639M |
-| 14:00 | MXN | Current Account % of GDP (Q3) |  |  | 0.70% |
+| 13:00 | USD | Building Permits (MoM) (Oct) | -0.4% | -0.6% | -3.1% |
+| 43 min | USD | Redbook (YoY) |  |  | 5.1% |
+| 48 min | USD | House Price Index (MoM) (Sep) |  | 0.3% | 0.3% |
+| 48 min | USD | House Price Index (YoY) (Sep) |  |  | 4.2% |
+| 48 min | USD | House Price Index (Sep) |  |  | 427.0 |
+| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.4% |
+| 48 min | MXN | Current Account (USD) (Q3) |  |  | 3,639M |
+| 48 min | MXN | Current Account % of GDP (Q3) |  |  | 0.70% |
 | 15:00 | USD | Richmond Manufacturing Index (Nov) |  | -10 | -14 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Nov) |  |  | -8 |
 | 15:00 | USD | Richmond Services Index (Nov) |  |  | 3 |

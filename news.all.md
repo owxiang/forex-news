@@ -16,18 +16,18 @@
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | -18 | -14 | -6 |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) | 4.77% | 4.62% | 4.47% |
-| 49 min | USD | Moderate | Building Permits (Oct) |  | 1.416M | 1.425M |
-| 49 min | USD | Low | Building Permits (MoM) (Oct) |  | -0.6% | -3.1% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.3% | 0.3% |
-| 14:00 | USD | Low | House Price Index (YoY) (Sep) |  |  | 4.2% |
-| 14:00 | USD | Low | House Price Index (Sep) |  |  | 427.0 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.7% | 5.2% |
-| 14:00 | MXN | Low | Current Account (USD) (Q3) |  |  | 3,639M |
-| 14:00 | MXN | Low | Current Account % of GDP (Q3) |  |  | 0.70% |
+| 13:00 | USD | Moderate | Building Permits (Oct) | 1.419M | 1.416M | 1.425M |
+| 13:00 | USD | Low | Building Permits (MoM) (Oct) | -0.4% | -0.6% | -3.1% |
+| 18 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 5.1% |
+| 48 min | USD | Low | House Price Index (MoM) (Sep) |  | 0.3% | 0.3% |
+| 48 min | USD | Low | House Price Index (YoY) (Sep) |  |  | 4.2% |
+| 48 min | USD | Low | House Price Index (Sep) |  |  | 427.0 |
+| 48 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.4% |
+| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
+| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.7% | 5.2% |
+| 48 min | MXN | Low | Current Account (USD) (Q3) |  |  | 3,639M |
+| 48 min | MXN | Low | Current Account % of GDP (Q3) |  |  | 0.70% |
 | 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | High | CB Consumer Confidence (Nov) |  | 111.8 | 108.7 |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 4.1% |
@@ -41,4 +41,4 @@
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.100% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.138% |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.753M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |
