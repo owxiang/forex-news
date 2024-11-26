@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 51 min | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.7% |
+| 05:00 | JPY | BoJ Core CPI (YoY) | 1.5% | 1.8% | 1.7% |
 | 08:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 10:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:00 | USD | Building Permits (Oct) |  | 1.416M | 1.425M |
