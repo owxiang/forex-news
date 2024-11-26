@@ -14,14 +14,14 @@
 | 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.040% |  | 2.130% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | -18 | -14 | -6 |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) | 4.77% | 4.62% | 4.47% |
-| 13:00 | USD | Moderate | Building Permits (Oct) | 1.419M | 1.416M | 1.425M |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 13:00 | USD | Low | Building Permits (MoM) (Oct) | -0.4% | -0.6% | -3.1% |
+| 13:00 | USD | Moderate | Building Permits (Oct) | 1.419M | 1.416M | 1.425M |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) | 0.5% | 0.9% | 0.8% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (MoM) (Sep) | 0.7% | 0.3% | 0.4% |
 | 14:00 | USD | Low | House Price Index (YoY) (Sep) | 4.4% |  | 4.4% |
+| 14:00 | USD | Low | House Price Index (MoM) (Sep) | 0.7% | 0.3% | 0.4% |
 | 14:00 | USD | Low | House Price Index (Sep) | 430.3 |  | 427.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.2% |  | 0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | -0.4% |  | -0.3% |
@@ -36,7 +36,7 @@
 | 15:00 | USD | Low | Richmond Services Index (Nov) | 9 |  | 3 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Nov) | 10.9 |  | 9.2 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Nov) | 9.8 |  | 2.0 |
-| 22 min | USD | Low | 52-Week Bill Auction |  |  | 4.100% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.138% |
+| 16:30 | USD | Low | 52-Week Bill Auction | 4.190% |  | 4.100% |
+| 54 min | USD | Moderate | 5-Year Note Auction |  |  | 4.138% |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |

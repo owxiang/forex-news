@@ -11,12 +11,12 @@
 | 08:30 | HKD | Trade Balance (Oct) | -31.0B |  | -53.2B |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.040% |  | 2.130% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Nov) | -18 | -14 | -6 |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Nov) | 4.77% | 4.62% | 4.47% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 13:00 | USD | Building Permits (MoM) (Oct) | -0.4% | -0.6% | -3.1% |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 5.1% |
-| 14:00 | USD | House Price Index (MoM) (Sep) | 0.7% | 0.3% | 0.4% |
 | 14:00 | USD | House Price Index (YoY) (Sep) | 4.4% |  | 4.4% |
+| 14:00 | USD | House Price Index (MoM) (Sep) | 0.7% | 0.3% | 0.4% |
 | 14:00 | USD | House Price Index (Sep) | 430.3 |  | 427.4 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.2% |  | 0.3% |
 | 14:00 | MXN | Current Account (USD) (Q3) | 733M |  | 3,639M |
@@ -25,4 +25,4 @@
 | 15:00 | USD | Richmond Services Index (Nov) | 9 |  | 3 |
 | 15:30 | USD | Dallas Fed Services Revenues (Nov) | 10.9 |  | 9.2 |
 | 15:30 | USD | Texas Services Sector Outlook (Nov) | 9.8 |  | 2.0 |
-| 22 min | USD | 52-Week Bill Auction |  |  | 4.100% |
+| 16:30 | USD | 52-Week Bill Auction | 4.190% |  | 4.100% |

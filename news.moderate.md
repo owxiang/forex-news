@@ -11,5 +11,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 4.6% | 4.7% | 5.2% |
 | 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | New Home Sales (MoM) (Oct) | -17.3% |  | 7.0% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 4.138% |
+| 54 min | USD | 5-Year Note Auction |  |  | 4.138% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |
