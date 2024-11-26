@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.7% |
+| 51 min | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.7% |
 | 08:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 10:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 13:00 | USD | Building Permits (Oct) |  | 1.416M | 1.425M |
 | 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 5.1% | 5.2% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.7% | 5.2% |
 | 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | New Home Sales (MoM) (Oct) |  |  | 4.1% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.138% |

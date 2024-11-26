@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.6% |  | -0.8% |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.8% | 1.7% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Oct) |  | 1.5% | 9.8% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Oct) |  | -0.8% | 0.0% |
+| 51 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.8% | 1.7% |
+| 51 min | SGD | Low | Industrial Production (MoM) (Oct) |  | -0.8% | 0.0% |
+| 51 min | SGD | Low | Industrial Production (YoY) (Oct) |  | 1.5% | 9.8% |
 | 07:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 112.80% |
 | 08:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Oct) |  |  | 4.7% |
@@ -26,13 +26,13 @@
 | 14:00 | USD | Low | House Price Index (Sep) |  |  | 427.0 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 5.1% | 5.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.7% | 5.2% |
 | 14:00 | MXN | Low | Current Account (USD) (Q3) |  |  | 3,639M |
 | 14:00 | MXN | Low | Current Account % of GDP (Q3) |  |  | 0.70% |
 | 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | High | CB Consumer Confidence (Nov) |  | 112.0 | 108.7 |
+| 15:00 | USD | High | CB Consumer Confidence (Nov) |  | 111.8 | 108.7 |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 4.1% |
-| 15:00 | USD | High | New Home Sales (Oct) |  | 724K | 738K |
+| 15:00 | USD | High | New Home Sales (Oct) |  | 725K | 738K |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | -10 | -14 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | -8 |
 | 15:00 | USD | Low | Richmond Services Index (Nov) |  |  | 3 |
