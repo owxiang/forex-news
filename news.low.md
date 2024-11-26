@@ -5,7 +5,7 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.6% |  | -0.8% |
 | 05:00 | SGD | Industrial Production (YoY) (Oct) | 1.2% | 1.5% | 9.0% |
 | 05:00 | SGD | Industrial Production (MoM) (Oct) | 0.1% | -0.8% | -1.5% |
-| 07:00 | ZAR | Leading Indicators (Sep) |  |  | 112.80% |
+| 51 min | ZAR | Leading Indicators (Sep) |  |  | 112.80% |
 | 08:30 | HKD | Exports (MoM) (Oct) |  |  | 4.7% |
 | 08:30 | HKD | Imports (MoM) (Oct) |  |  | 1.4% |
 | 08:30 | HKD | Trade Balance (Oct) |  |  | -53.2B |

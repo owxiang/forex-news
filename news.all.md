@@ -6,7 +6,7 @@
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.5% | 1.8% | 1.7% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 1.2% | 1.5% | 9.0% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 0.1% | -0.8% | -1.5% |
-| 07:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 112.80% |
+| 51 min | ZAR | Low | Leading Indicators (Sep) |  |  | 112.80% |
 | 08:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Oct) |  |  | 4.7% |
 | 08:30 | HKD | Low | Imports (MoM) (Oct) |  |  | 1.4% |
