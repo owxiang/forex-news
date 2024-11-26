@@ -14,27 +14,26 @@
 | 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.040% |  | 2.130% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | -18 | -14 | -6 |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) | 4.77% | 4.62% | 4.47% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.62% | 0.48% | 0.54% |
 | 13:00 | USD | Moderate | Building Permits (Oct) | 1.419M | 1.416M | 1.425M |
 | 13:00 | USD | Low | Building Permits (MoM) (Oct) | -0.4% | -0.6% | -3.1% |
-| 18 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 5.1% |
-| 48 min | USD | Low | House Price Index (MoM) (Sep) |  | 0.3% | 0.3% |
-| 48 min | USD | Low | House Price Index (YoY) (Sep) |  |  | 4.2% |
-| 48 min | USD | Low | House Price Index (Sep) |  |  | 427.0 |
-| 48 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.4% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.7% | 5.2% |
-| 48 min | MXN | Low | Current Account (USD) (Q3) |  |  | 3,639M |
-| 48 min | MXN | Low | Current Account % of GDP (Q3) |  |  | 0.70% |
-| 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | High | CB Consumer Confidence (Nov) |  | 111.8 | 108.7 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 4.1% |
-| 15:00 | USD | High | New Home Sales (Oct) |  | 725K | 738K |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | -10 | -14 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | -8 |
-| 15:00 | USD | Low | Richmond Services Index (Nov) |  |  | 3 |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) | 0.5% | 0.9% | 0.8% |
+| 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 5.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Sep) | 4.4% |  | 4.4% |
+| 14:00 | USD | Low | House Price Index (MoM) (Sep) | 0.7% | 0.3% | 0.4% |
+| 14:00 | USD | Low | House Price Index (Sep) | 430.3 |  | 427.4 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.2% |  | 0.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | -0.4% |  | -0.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 4.6% | 4.7% | 5.2% |
+| 14:00 | MXN | Low | Current Account (USD) (Q3) | 733M |  | 3,639M |
+| 54 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 54 min | USD | High | CB Consumer Confidence (Nov) |  | 111.8 | 108.7 |
+| 54 min | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 4.1% |
+| 54 min | USD | High | New Home Sales (Oct) |  | 725K | 738K |
+| 54 min | USD | Low | Richmond Manufacturing Index (Nov) |  | -10 | -14 |
+| 54 min | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | -8 |
+| 54 min | USD | Low | Richmond Services Index (Nov) |  |  | 3 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | 9.2 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Nov) |  |  | 2.0 |
 | 16:00 | USD | Low | M2 Money Supply (MoM) |  |  | 21.22T |
