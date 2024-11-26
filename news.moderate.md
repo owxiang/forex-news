@@ -1,13 +1,15 @@
-## 25 November 2024 - Moderate Impact Forex News
+## 26 November 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Core CPI (YoY) (Oct) | 2.10% | 2.50% | 2.80% |
-| 05:00 | SGD | CPI (YoY) (Oct) | 1.4% | 1.8% | 2.0% |
-| 07:30 | CHF | Employment Level (Q3) | 5.528M |  | 5.499M |
-| 09:00 | EUR | German Business Expectations (Nov) | 87.2 | 87.0 | 87.3 |
-| 09:00 | EUR | German Current Assessment (Nov) | 84.3 | 85.4 | 85.7 |
-| 09:00 | EUR | German Ifo Business Climate Index (Nov) | 85.7 | 86.1 | 86.5 |
-| 15:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction | 4.274% |  | 4.130% |
+| 05:00 | JPY | BoJ Core CPI (YoY) |  | 1.8% | 1.7% |
+| 08:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 10:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 13:00 | USD | Building Permits (Oct) |  | 1.416M | 1.425M |
+| 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 5.1% | 5.2% |
+| 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 15:00 | USD | New Home Sales (MoM) (Oct) |  |  | 4.1% |
+| 18:00 | USD | 5-Year Note Auction |  |  | 4.138% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.753M |

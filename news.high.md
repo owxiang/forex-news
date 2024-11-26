@@ -1,3 +1,7 @@
-## 25 November 2024 - High Impact Forex News
+## 26 November 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | CB Consumer Confidence (Nov) |  | 112.0 | 108.7 |
+| 15:00 | USD | New Home Sales (Oct) |  | 724K | 738K |
+| 19:00 | USD | FOMC Meeting Minutes |  |  |  |

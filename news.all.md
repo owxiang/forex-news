@@ -1,37 +1,45 @@
-## 25 November 2024 - All Forex News
+## 26 November 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 1.3% |  | 1.7% |
-| 05:00 | JPY | Low | Leading Index (Sep) | 109.1 | 109.4 | 106.9 |
-| 05:00 | JPY | Low | Leading Index (MoM) (Sep) | 2.2% |  | 2.5% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 2.10% | 2.50% | 2.80% |
-| 05:00 | SGD | Low | CPI (MoM) (Oct) | -0.30% |  | 0.30% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Oct) | 1.4% | 1.8% | 2.0% |
-| 07:00 | NOK | Low | M3 Money Supply (Oct) | 3,211.6B |  | 3,188.3B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Oct) | 3.8% |  | 3.7% |
-| 07:30 | CHF | Moderate | Employment Level (Q3) | 5.528M |  | 5.499M |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Oct) | -3.9% |  | -5.2% |
-| 09:00 | EUR | Moderate | German Business Expectations (Nov) | 87.2 | 87.0 | 87.3 |
-| 09:00 | EUR | Moderate | German Current Assessment (Nov) | 84.3 | 85.4 | 85.7 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 85.7 | 86.1 | 86.5 |
-| 10:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 11:00 | BRL | Low | FGV Consumer confidence (Nov) | 95.6 |  | 93.0 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Low | Current Account (USD) (Oct) | -5.88B | -6.00B | -6.50B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Oct) | 5.72B | 4.70B | 5.20B |
-| 13:30 | USD | Low | Chicago Fed National Activity (Oct) | -0.40 | -0.20 | -0.27 |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | 1.3% | -0.8% | -0.5% |
-| 14:00 | MXN | Low | Current Account (USD) (Q3) | 733M |  | 2,854M |
-| 14:00 | MXN | Low | Current Account % of GDP (Q3) | 0.20% |  | 0.60% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.382% |  | 2.507% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.824% |  | 2.937% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.613% |  | 2.724% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) | -2.7 | -2.4 | -3.0 |
-| 15:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.415% |  | 4.420% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.340% |  | 4.310% |
-| 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction | 4.274% |  | 4.130% |
-| 21:00 | KRW | Low | Consumer Confidence (Nov) | 100.7 |  | 101.7 |
-| 44 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.5% | 2.6% |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.6% |  | -0.8% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.8% | 1.7% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Oct) |  | 1.5% | 9.8% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Oct) |  | -0.8% | 0.0% |
+| 07:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 112.80% |
+| 08:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 08:30 | HKD | Low | Exports (MoM) (Oct) |  |  | 4.7% |
+| 08:30 | HKD | Low | Imports (MoM) (Oct) |  |  | 1.4% |
+| 08:30 | HKD | Low | Trade Balance (Oct) |  |  | -53.2B |
+| 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.130% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -14 | -6 |
+| 11:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 1.5% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.48% | 0.54% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.62% | 4.47% |
+| 13:00 | USD | Moderate | Building Permits (Oct) |  | 1.416M | 1.425M |
+| 13:00 | USD | Low | Building Permits (MoM) (Oct) |  | -0.6% | -3.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Sep) |  |  | 4.2% |
+| 14:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.3% | 0.3% |
+| 14:00 | USD | Low | House Price Index (Sep) |  |  | 427.0 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 0.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 5.1% | 5.2% |
+| 14:00 | MXN | Low | Current Account (USD) (Q3) |  |  | 3,639M |
+| 14:00 | MXN | Low | Current Account % of GDP (Q3) |  |  | 0.70% |
+| 15:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 15:00 | USD | High | CB Consumer Confidence (Nov) |  | 112.0 | 108.7 |
+| 15:00 | USD | High | New Home Sales (Oct) |  | 724K | 738K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 4.1% |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | -10 | -14 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | -8 |
+| 15:00 | USD | Low | Richmond Services Index (Nov) |  |  | 3 |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | 9.2 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Nov) |  |  | 2.0 |
+| 16:00 | USD | Low | M2 Money Supply (MoM) |  |  | 21.22T |
+| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.100% |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.138% |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.753M |
