@@ -12,4 +12,4 @@
 | 15:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | New Home Sales (MoM) (Oct) | -17.3% |  | 7.0% |
 | 18:00 | USD | 5-Year Note Auction | 4.197% |  | 4.138% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |
+| 24 min | USD | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |

@@ -40,4 +40,4 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 4.190% |  | 4.100% |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 4.197% |  | 4.138% |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.250M | 4.753M |
