@@ -5,7 +5,7 @@
 | 05:00 | JPY | BoJ Core CPI (YoY) | 1.5% | 1.8% | 1.7% |
 | 08:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 10:00 | EUR | ECB McCaul Speaks |  |  |  |
-| 13:00 | USD | Building Permits (Oct) |  | 1.416M | 1.425M |
+| 49 min | USD | Building Permits (Oct) |  | 1.416M | 1.425M |
 | 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.9% | 0.8% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | -0.3% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.7% | 5.2% |
