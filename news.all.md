@@ -7,10 +7,10 @@
 | 05:00 | SGD | Low | Industrial Production (MoM) (Oct) | 0.1% | -0.8% | -1.5% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Oct) | 1.2% | 1.5% | 9.0% |
 | 07:00 | ZAR | Low | Leading Indicators (Sep) | 113.90% |  | 112.80% |
-| 53 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 08:30 | HKD | Low | Exports (MoM) (Oct) |  |  | 4.7% |
-| 08:30 | HKD | Low | Imports (MoM) (Oct) |  |  | 1.4% |
-| 08:30 | HKD | Low | Trade Balance (Oct) |  |  | -53.2B |
+| 08:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 21 min | HKD | Low | Exports (MoM) (Oct) |  |  | 4.7% |
+| 21 min | HKD | Low | Imports (MoM) (Oct) |  |  | 1.4% |
+| 21 min | HKD | Low | Trade Balance (Oct) |  |  | -53.2B |
 | 10:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.130% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -14 | -6 |
