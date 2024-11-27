@@ -7,7 +7,7 @@
 | 07:00 | NOK | Unemployment Rate (Oct) | 4.1% |  | 4.0% |
 | 07:45 | EUR | French Consumer Confidence (Nov) | 90 |  | 93 |
 | 09:00 | CHF | ZEW Expectations (Nov) | -12.4 |  | -7.7 |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.003% |
+| 3 min | EUR | Italian 6-Month BOT Auction |  |  | 3.003% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.90% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.7% |
@@ -39,6 +39,7 @@
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.530% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.480% |
 | 17:00 | USD | Natural Gas Storage |  | -4B | -3B |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Oct) |  |  | 247.82K |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.989B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -966.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 127.6B |

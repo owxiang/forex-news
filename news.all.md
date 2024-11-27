@@ -13,9 +13,9 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Nov) | 90 |  | 93 |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) | -12.4 |  | -7.7 |
-| 23 min | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -18.8 | -18.3 |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.003% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Oct) |  |  | 2,837.9K |
+| 09:30 | EUR | Moderate | GfK German Consumer Climate (Dec) | -23.3 | -18.8 | -18.4 |
+| 3 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.003% |
+| 53 min | EUR | Moderate | France Jobseekers Total (Oct) |  |  | 2,837.9K |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.90% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.7% |
@@ -66,6 +66,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.530% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.480% |
 | 17:00 | USD | Low | Natural Gas Storage |  | -4B | -3B |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Oct) |  |  | 247.82K |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.989B |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.215% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.6% | 2.6% |
