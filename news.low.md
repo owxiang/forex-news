@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 2.10% | 2.50% | 2.10% |
 | 01:30 | CNY | Chinese Industrial profit YTD (Oct) | -4.3% |  | -3.5% |
-| 07:00 | NOK | Unemployment Rate (Oct) |  |  | 4.0% |
+| 51 min | NOK | Unemployment Rate (Oct) |  |  | 4.0% |
 | 07:45 | EUR | French Consumer Confidence (Nov) |  |  | 94 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
 | 09:00 | CHF | ZEW Expectations (Nov) |  |  | -7.7 |
