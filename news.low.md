@@ -7,15 +7,15 @@
 | 07:00 | NOK | Unemployment Rate (Oct) | 4.1% |  | 4.0% |
 | 07:45 | EUR | French Consumer Confidence (Nov) | 90 |  | 93 |
 | 09:00 | CHF | ZEW Expectations (Nov) | -12.4 |  | -7.7 |
-| 3 min | EUR | Italian 6-Month BOT Auction |  |  | 3.003% |
-| 11:30 | INR | M3 Money Supply |  |  | 11.2% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.90% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.7% |
-| 12:00 | USD | MBA Purchase Index |  |  | 136.0 |
-| 12:00 | USD | Mortgage Market Index |  |  | 195.6 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 514.9 |
-| 12:00 | MXN | Trade Balance (Oct) |  |  | -0.579B |
-| 12:00 | MXN | Trade Balance (USD) (Oct) |  |  | -0.168B |
+| 10:10 | EUR | Italian 6-Month BOT Auction | 2.724% |  | 3.003% |
+| 24 min | INR | M3 Money Supply |  |  | 11.2% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.90% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 1.7% |
+| 54 min | USD | MBA Purchase Index |  |  | 136.0 |
+| 54 min | USD | Mortgage Market Index |  |  | 195.6 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 514.9 |
+| 54 min | MXN | Trade Balance (Oct) |  |  | -0.579B |
+| 54 min | MXN | Trade Balance (USD) (Oct) |  |  | -0.168B |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 3.5% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | -1.1% |
 | 13:30 | USD | GDP Sales (Q3) |  | 3.0% | 1.9% |

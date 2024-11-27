@@ -14,16 +14,16 @@
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) | -12.4 |  | -7.7 |
 | 09:30 | EUR | Moderate | GfK German Consumer Climate (Dec) | -23.3 | -18.8 | -18.4 |
-| 3 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.003% |
-| 53 min | EUR | Moderate | France Jobseekers Total (Oct) |  |  | 2,837.9K |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.90% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.7% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 136.0 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 195.6 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 514.9 |
-| 12:00 | MXN | Low | Trade Balance (Oct) |  |  | -0.579B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.168B |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.724% |  | 3.003% |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Oct) | 2,891.5K |  | 2,837.9K |
+| 24 min | INR | Low | M3 Money Supply |  |  | 11.2% |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.90% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.7% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 136.0 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 195.6 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 514.9 |
+| 54 min | MXN | Low | Trade Balance (Oct) |  |  | -0.579B |
+| 54 min | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.168B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,908K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.2% | 0.5% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  | 2.8% | 2.7% |
