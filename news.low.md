@@ -6,7 +6,7 @@
 | 01:30 | CNY | Chinese Industrial profit YTD (Oct) | -4.3% |  | -3.5% |
 | 07:00 | NOK | Unemployment Rate (Oct) | 4.1% |  | 4.0% |
 | 07:45 | EUR | French Consumer Confidence (Nov) | 90 |  | 93 |
-| 52 min | CHF | ZEW Expectations (Nov) |  |  | -7.7 |
+| 09:00 | CHF | ZEW Expectations (Nov) | -12.4 |  | -7.7 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.003% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.90% |

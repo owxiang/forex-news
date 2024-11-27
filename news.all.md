@@ -12,8 +12,8 @@
 | 07:00 | NOK | Low | Unemployment Rate (Oct) | 4.1% |  | 4.0% |
 | 07:45 | EUR | Low | French Consumer Confidence (Nov) | 90 |  | 93 |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 52 min | CHF | Low | ZEW Expectations (Nov) |  |  | -7.7 |
-| 09:30 | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -18.8 | -18.3 |
+| 09:00 | CHF | Low | ZEW Expectations (Nov) | -12.4 |  | -7.7 |
+| 23 min | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -18.8 | -18.3 |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.003% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Oct) |  |  | 2,837.9K |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 11.2% |

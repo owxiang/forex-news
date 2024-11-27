@@ -7,7 +7,7 @@
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 09:30 | EUR | GfK German Consumer Climate (Dec) |  | -18.8 | -18.3 |
+| 23 min | EUR | GfK German Consumer Climate (Dec) |  | -18.8 | -18.3 |
 | 11:00 | EUR | France Jobseekers Total (Oct) |  |  | 2,837.9K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,910K | 1,908K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.2% | 0.5% |
