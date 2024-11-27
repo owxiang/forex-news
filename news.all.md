@@ -9,10 +9,10 @@
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | -4.3% |  | -3.5% |
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 51 min | NOK | Low | Unemployment Rate (Oct) |  |  | 4.0% |
-| 07:45 | EUR | Low | French Consumer Confidence (Nov) |  |  | 94 |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
-| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 07:00 | NOK | Low | Unemployment Rate (Oct) | 4.1% |  | 4.0% |
+| 38 min | EUR | Low | French Consumer Confidence (Nov) |  |  | 94 |
+| 53 min | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
+| 53 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -7.7 |
 | 09:30 | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -18.8 | -18.3 |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.003% |
