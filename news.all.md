@@ -41,27 +41,27 @@
 | 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.5% | 3.7% | 2.8% |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Oct) | 0.1% |  | 0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Oct) | 0.2% | 0.0% | -0.2% |
-| 39 min | USD | High | Chicago PMI |  | 44.9 | 41.6 |
-| 54 min | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.3% | 0.3% |
-| 54 min | USD | High | Core PCE Price Index (YoY) (Oct) |  | 2.8% | 2.7% |
-| 54 min | USD | Moderate | PCE Price index (YoY) (Oct) |  | 2.3% | 2.1% |
-| 54 min | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
-| 54 min | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | -2.1% | 7.4% |
-| 54 min | USD | Low | Pending Home Sales Index (Oct) |  |  | 75.8 |
-| 54 min | USD | Low | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
-| 54 min | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.4% | 0.5% |
-| 54 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | 0.545M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.237M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.140M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.132M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.114M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.980M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.342M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 2.054M |
-| 16:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 14:45 | USD | High | Chicago PMI | 40.2 | 44.9 | 41.6 |
+| 15:00 | USD | High | Core PCE Price Index (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.8% | 2.8% | 2.7% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) | 2.3% | 2.3% | 2.1% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) | 2.0% | -2.1% | 7.5% |
+| 15:00 | USD | Low | Pending Home Sales Index (Oct) | 77.4 |  | 75.9 |
+| 15:00 | USD | Low | Personal Income (MoM) (Oct) | 0.6% | 0.3% | 0.3% |
+| 15:00 | USD | Moderate | Personal Spending (MoM) (Oct) | 0.4% | 0.4% | 0.6% |
+| 15:00 | USD | Low | Real Personal Consumption (MoM) (Oct) | 0.1% |  | 0.5% |
+| 24 min | USD | High | Crude Oil Inventories |  | -1.300M | 0.545M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | 0.237M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.140M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | -0.132M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.114M |
+| 24 min | USD | Low | Gasoline Production |  |  | -0.980M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | 0.342M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
+| 24 min | USD | Low | Gasoline Inventories |  |  | 2.054M |
+| 54 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.530% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.480% |
 | 17:00 | USD | Low | Natural Gas Storage |  | -4B | -3B |

@@ -24,17 +24,17 @@
 | 13:30 | USD | PCE Prices (Q3) | 1.5% | 1.5% | 2.5% |
 | 13:30 | USD | Real Consumer Spending (Q3) | 3.5% | 3.7% | 2.8% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Oct) | 0.2% | 0.0% | -0.2% |
-| 54 min | USD | Pending Home Sales Index (Oct) |  |  | 75.8 |
-| 54 min | USD | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
-| 54 min | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.237M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.132M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.114M |
-| 15:30 | USD | Gasoline Production |  |  | -0.980M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.342M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
-| 15:30 | USD | Gasoline Inventories |  |  | 2.054M |
+| 15:00 | USD | Pending Home Sales Index (Oct) | 77.4 |  | 75.9 |
+| 15:00 | USD | Personal Income (MoM) (Oct) | 0.6% | 0.3% | 0.3% |
+| 15:00 | USD | Real Personal Consumption (MoM) (Oct) | 0.1% |  | 0.5% |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
+| 24 min | USD | Crude Oil Imports |  |  | 0.237M |
+| 24 min | USD | Distillate Fuel Production |  |  | -0.132M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  |  | -0.114M |
+| 24 min | USD | Gasoline Production |  |  | -0.980M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | 0.342M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
+| 24 min | USD | Gasoline Inventories |  |  | 2.054M |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.530% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.480% |
 | 17:00 | USD | Natural Gas Storage |  | -4B | -3B |
