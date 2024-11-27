@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 3 min | AUD | Moderate | Construction Work Done (QoQ) (Q3) |  | 0.4% | 0.1% |
-| 3 min | AUD | Low | Monthly CPI Indicator (YoY) (Oct) |  | 2.50% | 2.10% |
-| 33 min | NZD | High | RBNZ Interest Rate Decision |  | 4.25% | 4.75% |
-| 33 min | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
-| 33 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) |  |  | -3.5% |
-| 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | 1.6% | 0.3% | 1.1% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 2.10% | 2.30% | 2.10% |
+| 01:00 | NZD | High | RBNZ Interest Rate Decision | 4.25% | 4.25% | 4.75% |
+| 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 01:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | -4.3% |  | -3.5% |
+| 26 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | NOK | Low | Unemployment Rate (Oct) |  |  | 4.0% |
 | 07:45 | EUR | Low | French Consumer Confidence (Nov) |  |  | 94 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
@@ -46,8 +46,8 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Oct) |  | -0.1% | -0.2% |
 | 14:00 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.70% |
 | 14:45 | USD | High | Chicago PMI |  | 44.9 | 41.6 |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.7% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.3% | 0.3% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.7% |
 | 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.1% |
 | 15:00 | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | -2.1% | 7.4% |
