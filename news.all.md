@@ -46,8 +46,8 @@
 | 15:00 | USD | Low | 8-Week Bill Auction | 4.500% |  | 4.480% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) | 2.3% | 2.3% | 2.1% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) | 2.0% | -2.1% | 7.5% |
 | 15:00 | USD | Low | Pending Home Sales Index (Oct) | 77.4 |  | 75.9 |
 | 15:00 | USD | Low | Personal Income (MoM) (Oct) | 0.6% | 0.3% | 0.3% |
