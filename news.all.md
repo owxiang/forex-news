@@ -44,10 +44,10 @@
 | 14:45 | USD | High | Chicago PMI | 40.2 | 44.9 | 41.6 |
 | 15:00 | USD | Low | 4-Week Bill Auction | 4.550% |  | 4.530% |
 | 15:00 | USD | Low | 8-Week Bill Auction | 4.500% |  | 4.480% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) | 2.3% | 2.3% | 2.1% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) | 2.0% | -2.1% | 7.5% |
 | 15:00 | USD | Low | Pending Home Sales Index (Oct) | 77.4 |  | 75.9 |
 | 15:00 | USD | Low | Personal Income (MoM) (Oct) | 0.6% | 0.3% | 0.3% |
@@ -72,5 +72,5 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 477 |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 582 |  | 583 |
 | 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -966.9B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 127.6B |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -966.9B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 127.6B |

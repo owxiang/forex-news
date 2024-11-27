@@ -15,8 +15,8 @@
 | 13:30 | USD | GDP Price Index (QoQ) (Q3) | 1.9% | 1.8% | 2.5% |
 | 13:30 | USD | Goods Trade Balance (Oct) | -99.08B | -102.20B | -108.23B |
 | 13:30 | USD | Retail Inventories Ex Auto (Oct) | 0.1% |  | 0.1% |
-| 15:00 | USD | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | PCE Price index (YoY) (Oct) | 2.3% | 2.3% | 2.1% |
+| 15:00 | USD | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Pending Home Sales (MoM) (Oct) | 2.0% | -2.1% | 7.5% |
 | 15:00 | USD | Personal Spending (MoM) (Oct) | 0.4% | 0.4% | 0.6% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.909M |  | -0.140M |
