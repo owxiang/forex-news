@@ -5,7 +5,7 @@
 | 00:30 | AUD | Construction Work Done (QoQ) (Q3) | 1.6% | 0.3% | 1.1% |
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 26 min | NZD | RBNZ Press Conference |  |  |  |
+| 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:30 | EUR | GfK German Consumer Climate (Dec) |  | -18.8 | -18.3 |
 | 11:00 | EUR | France Jobseekers Total (Oct) |  |  | 2,837.9K |
