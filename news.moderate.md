@@ -9,16 +9,16 @@
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:30 | EUR | GfK German Consumer Climate (Dec) | -23.3 | -18.8 | -18.4 |
 | 11:00 | EUR | France Jobseekers Total (Oct) | 2,891.5K |  | 2,837.9K |
-| 18 min | USD | Continuing Jobless Claims |  | 1,910K | 1,908K |
-| 18 min | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.2% | 0.5% |
-| 18 min | USD | Core PCE Prices (Q3) |  | 2.20% | 2.80% |
-| 18 min | USD | GDP Price Index (QoQ) (Q3) |  | 1.8% | 2.5% |
-| 18 min | USD | Goods Trade Balance (Oct) |  | -102.20B | -108.23B |
-| 18 min | USD | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18 min | USD | Personal Spending (MoM) (Oct) |  | 0.4% | 0.5% |
-| 18 min | USD | Retail Inventories Ex Auto (Oct) |  |  | 0.2% |
-| 15:00 | USD | PCE Price index (YoY) (Oct) |  | 2.3% | 2.1% |
-| 15:00 | USD | Pending Home Sales (MoM) (Oct) |  | -2.1% | 7.4% |
+| 13:30 | USD | Continuing Jobless Claims | 1,907K | 1,910K | 1,898K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Oct) | 0.1% | 0.2% | 0.4% |
+| 13:30 | USD | Core PCE Prices (Q3) | 2.10% | 2.20% | 2.80% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q3) | 1.9% | 1.8% | 2.5% |
+| 13:30 | USD | Goods Trade Balance (Oct) | -99.08B | -102.20B | -108.23B |
+| 13:30 | USD | Retail Inventories Ex Auto (Oct) | 0.1% |  | 0.1% |
+| 54 min | USD | PCE Price index (YoY) (Oct) |  | 2.3% | 2.1% |
+| 54 min | USD | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
+| 54 min | USD | Pending Home Sales (MoM) (Oct) |  | -2.1% | 7.4% |
+| 54 min | USD | Personal Spending (MoM) (Oct) |  | 0.4% | 0.5% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.140M |
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.215% |

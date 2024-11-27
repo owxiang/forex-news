@@ -24,34 +24,33 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 501.7 |  | 514.9 |
 | 12:00 | MXN | Low | Trade Balance (Oct) | 0.371B |  | -0.579B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Oct) | 0.463B |  | -0.043B |
-| 18 min | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,908K |
-| 18 min | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.2% | 0.5% |
-| 18 min | USD | High | Core PCE Price Index (YoY) (Oct) |  | 2.8% | 2.7% |
-| 18 min | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.3% | 0.3% |
-| 18 min | USD | Moderate | Core PCE Prices (Q3) |  | 2.20% | 2.80% |
-| 18 min | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 3.5% |
-| 18 min | USD | High | Durable Goods Orders (MoM) (Oct) |  | -0.8% | 0.0% |
-| 18 min | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | -1.1% |
-| 18 min | USD | High | GDP (QoQ) (Q3) |  | 2.8% | 3.0% |
-| 18 min | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 1.8% | 2.5% |
-| 18 min | USD | Low | GDP Sales (Q3) |  | 3.0% | 1.9% |
-| 18 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.5% | 0.2% |
-| 18 min | USD | Moderate | Goods Trade Balance (Oct) |  | -102.20B | -108.23B |
-| 18 min | USD | High | Initial Jobless Claims |  | 215K | 213K |
-| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 217.75K |
-| 18 min | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18 min | USD | Low | PCE Prices (Q3) |  | 1.5% | 2.5% |
-| 18 min | USD | Low | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
-| 18 min | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.4% | 0.5% |
-| 18 min | USD | Low | Real Consumer Spending (Q3) |  | 3.7% | 2.8% |
-| 18 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
-| 18 min | USD | Moderate | Retail Inventories Ex Auto (Oct) |  |  | 0.2% |
-| 18 min | USD | Low | Wholesale Inventories (MoM) (Oct) |  | 0.0% | -0.2% |
-| 48 min | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.70% |
-| 14:45 | USD | High | Chicago PMI |  | 44.9 | 41.6 |
-| 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) |  | 2.3% | 2.1% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | -2.1% | 7.4% |
-| 15:00 | USD | Low | Pending Home Sales Index (Oct) |  |  | 75.8 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,907K | 1,910K | 1,898K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) | 0.1% | 0.2% | 0.4% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q3) | 2.10% | 2.20% | 2.80% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) | 0.0% |  | 3.5% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Oct) | 0.2% | -0.8% | -0.4% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Oct) | 0.4% |  | -0.9% |
+| 13:30 | USD | High | GDP (QoQ) (Q3) | 2.8% | 2.8% | 3.0% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) | 1.9% | 1.8% | 2.5% |
+| 13:30 | USD | Low | GDP Sales (Q3) | 3.0% | 3.0% | 1.9% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) | -0.2% | 0.5% | 0.3% |
+| 13:30 | USD | Moderate | Goods Trade Balance (Oct) | -99.08B | -102.20B | -108.23B |
+| 13:30 | USD | High | Initial Jobless Claims | 213K | 215K | 215K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 217.00K |  | 218.25K |
+| 13:30 | USD | Low | PCE Prices (Q3) | 1.5% | 1.5% | 2.5% |
+| 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.5% | 3.7% | 2.8% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Oct) | 0.1% |  | 0.1% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Oct) | 0.2% | 0.0% | -0.2% |
+| 39 min | USD | High | Chicago PMI |  | 44.9 | 41.6 |
+| 54 min | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.3% | 0.3% |
+| 54 min | USD | High | Core PCE Price Index (YoY) (Oct) |  | 2.8% | 2.7% |
+| 54 min | USD | Moderate | PCE Price index (YoY) (Oct) |  | 2.3% | 2.1% |
+| 54 min | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
+| 54 min | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | -2.1% | 7.4% |
+| 54 min | USD | Low | Pending Home Sales Index (Oct) |  |  | 75.8 |
+| 54 min | USD | Low | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
+| 54 min | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.4% | 0.5% |
+| 54 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | 0.545M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.237M |
