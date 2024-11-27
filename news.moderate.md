@@ -22,7 +22,7 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.909M |  | -0.140M |
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 17:00 | USD | 7-Year Note Auction | 4.183% |  | 4.215% |
-| 54 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.6% | 2.6% |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 583 |
-| 54 min | EUR | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q4) | 2.7% | 2.6% | 2.6% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 477 |  | 479 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 582 |  | 583 |
+| 18:00 | EUR | ECB's Lane Speaks |  |  |  |

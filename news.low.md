@@ -38,7 +38,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.3% |  | -1.2% |
 | 15:30 | USD | Gasoline Inventories | 3.314M |  | 2.054M |
 | 17:00 | USD | Natural Gas Storage | -2B | -4B | -3B |
-| 24 min | BRL | CAGED Net Payroll Jobs (Oct) |  |  | 247.82K |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -1.989B |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Oct) | 132.71K |  | 247.82K |
+| 17:30 | BRL | Foreign Exchange Flows | -0.019B |  | -1.989B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -966.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 127.6B |
