@@ -19,8 +19,8 @@
 | 15:00 | USD | PCE Price index (YoY) (Oct) | 2.3% | 2.3% | 2.1% |
 | 15:00 | USD | Pending Home Sales (MoM) (Oct) | 2.0% | -2.1% | 7.5% |
 | 15:00 | USD | Personal Spending (MoM) (Oct) | 0.4% | 0.4% | 0.6% |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | -0.140M |
-| 54 min | NZD | RBNZ Press Conference |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.909M |  | -0.140M |
+| 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.215% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.6% | 2.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
