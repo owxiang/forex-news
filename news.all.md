@@ -44,10 +44,10 @@
 | 14:45 | USD | High | Chicago PMI | 40.2 | 44.9 | 41.6 |
 | 15:00 | USD | Low | 4-Week Bill Auction | 4.550% |  | 4.530% |
 | 15:00 | USD | Low | 8-Week Bill Auction | 4.500% |  | 4.480% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Oct) | 0.3% | 0.3% | 0.3% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
+| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) | 2.8% | 2.8% | 2.7% |
 | 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) | 2.3% | 2.3% | 2.1% |
+| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) | 2.0% | -2.1% | 7.5% |
 | 15:00 | USD | Low | Pending Home Sales Index (Oct) | 77.4 |  | 75.9 |
 | 15:00 | USD | Low | Personal Income (MoM) (Oct) | 0.6% | 0.3% | 0.3% |
@@ -64,13 +64,13 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.3% |  | -1.2% |
 | 15:30 | USD | Low | Gasoline Inventories | 3.314M |  | 2.054M |
 | 16:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 53 min | USD | Low | Natural Gas Storage |  | -4B | -3B |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Oct) |  |  | 247.82K |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.989B |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.215% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.6% | 2.6% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |
-| 18:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 17:00 | USD | Moderate | 7-Year Note Auction | 4.183% |  | 4.215% |
+| 17:00 | USD | Low | Natural Gas Storage | -2B | -4B | -3B |
+| 24 min | BRL | Low | CAGED Net Payroll Jobs (Oct) |  |  | 247.82K |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -1.989B |
+| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.6% | 2.6% |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |
+| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -966.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 127.6B |
