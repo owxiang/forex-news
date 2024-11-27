@@ -16,17 +16,17 @@
 | 12:00 | USD | Mortgage Refinance Index | 501.7 |  | 514.9 |
 | 12:00 | MXN | Trade Balance (Oct) | 0.371B |  | -0.579B |
 | 12:00 | MXN | Trade Balance (USD) (Oct) | 0.463B |  | -0.043B |
-| 13:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 3.5% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | -1.1% |
-| 13:30 | USD | GDP Sales (Q3) |  | 3.0% | 1.9% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.5% | 0.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.75K |
-| 13:30 | USD | PCE Prices (Q3) |  | 1.5% | 2.5% |
-| 13:30 | USD | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
-| 13:30 | USD | Real Consumer Spending (Q3) |  | 3.7% | 2.8% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Oct) |  | 0.0% | -0.2% |
-| 14:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.70% |
+| 18 min | USD | Corporate Profits (QoQ) (Q3) |  |  | 3.5% |
+| 18 min | USD | Durables Excluding Defense (MoM) (Oct) |  |  | -1.1% |
+| 18 min | USD | GDP Sales (Q3) |  | 3.0% | 1.9% |
+| 18 min | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.5% | 0.2% |
+| 18 min | USD | Jobless Claims 4-Week Avg. |  |  | 217.75K |
+| 18 min | USD | PCE Prices (Q3) |  | 1.5% | 2.5% |
+| 18 min | USD | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
+| 18 min | USD | Real Consumer Spending (Q3) |  | 3.7% | 2.8% |
+| 18 min | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
+| 18 min | USD | Wholesale Inventories (MoM) (Oct) |  | 0.0% | -0.2% |
+| 48 min | USD | Dallas Fed PCE (Oct) |  |  | 1.70% |
 | 15:00 | USD | Pending Home Sales Index (Oct) |  |  | 75.8 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.237M |
