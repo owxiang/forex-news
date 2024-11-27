@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 2.10% | 2.30% | 2.10% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 2.10% | 2.50% | 2.10% |
 | 01:30 | CNY | Chinese Industrial profit YTD (Oct) | -4.3% |  | -3.5% |
 | 07:00 | NOK | Unemployment Rate (Oct) |  |  | 4.0% |
 | 07:45 | EUR | French Consumer Confidence (Nov) |  |  | 94 |
@@ -25,10 +25,10 @@
 | 13:30 | USD | PCE Prices (Q3) |  | 1.5% | 2.5% |
 | 13:30 | USD | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
 | 13:30 | USD | Real Consumer Spending (Q3) |  | 3.7% | 2.8% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Oct) |  | -0.1% | -0.2% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
+| 13:30 | USD | Wholesale Inventories (MoM) (Oct) |  | 0.0% | -0.2% |
 | 14:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.70% |
 | 15:00 | USD | Pending Home Sales Index (Oct) |  |  | 75.8 |
-| 15:00 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.237M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.132M |

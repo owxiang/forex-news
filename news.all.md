@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | 1.6% | 0.3% | 1.1% |
-| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 2.10% | 2.30% | 2.10% |
+| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | 1.6% | 0.4% | 1.1% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 2.10% | 2.50% | 2.10% |
 | 01:00 | NZD | High | RBNZ Interest Rate Decision | 4.25% | 4.25% | 4.75% |
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
@@ -25,8 +25,10 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 514.9 |
 | 12:00 | MXN | Low | Trade Balance (Oct) |  |  | -0.579B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.168B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,908K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.4% | 0.5% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,908K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Oct) |  | 0.2% | 0.5% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  | 2.8% | 2.7% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.20% | 2.80% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 3.5% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Oct) |  | -0.8% | 0.0% |
@@ -35,25 +37,23 @@
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 1.8% | 2.5% |
 | 13:30 | USD | Low | GDP Sales (Q3) |  | 3.0% | 1.9% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.5% | 0.2% |
-| 13:30 | USD | Moderate | Goods Trade Balance (Oct) |  | -101.60B | -108.23B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 220K | 213K |
+| 13:30 | USD | Moderate | Goods Trade Balance (Oct) |  | -102.20B | -108.23B |
+| 13:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 217.75K |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | PCE Prices (Q3) |  | 1.5% | 2.5% |
 | 13:30 | USD | Low | Personal Income (MoM) (Oct) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.4% | 0.5% |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) |  | 3.7% | 2.8% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Oct) |  |  | 0.2% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Oct) |  | -0.1% | -0.2% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Oct) |  | 0.0% | -0.2% |
 | 14:00 | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.70% |
 | 14:45 | USD | High | Chicago PMI |  | 44.9 | 41.6 |
-| 15:00 | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.3% | 0.3% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Oct) |  |  | 2.7% |
-| 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) |  |  | 2.1% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.2% | 0.2% |
+| 15:00 | USD | Moderate | PCE Price index (YoY) (Oct) |  | 2.3% | 2.1% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Oct) |  | -2.1% | 7.4% |
 | 15:00 | USD | Low | Pending Home Sales Index (Oct) |  |  | 75.8 |
-| 15:00 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 0.545M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.300M | 0.545M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.281M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.237M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.140M |
