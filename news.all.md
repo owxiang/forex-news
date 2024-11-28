@@ -9,8 +9,8 @@
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q3) | 1.1% | 0.9% | -2.2% |
 | 01:00 | KRW | Low | Interest Rate Decision (Nov) | 3.00% | 3.25% | 3.25% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 2.5% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 2.3% | 1.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 2.3% | 1.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 2.3% | 1.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.2% | 0.4% |
 | 08:55 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
@@ -18,22 +18,22 @@
 | 09:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.2 | 97.4 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  |  | 0.5% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) |  |  | 1.8% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Nov) |  |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Nov) |  |  | 1.8% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Nov) |  |  | 0.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Nov) |  |  | 2.8% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Nov) |  |  | 0.4% |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Oct) |  | 3.4% | 3.2% |
 | 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,548.7B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Oct) |  | 3.4% | 3.2% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 1.1% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Oct) |  | 0.8% | 0.7% |
-| 09:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 1.0% |
+| 09:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.3% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -2.0% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | -0.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Nov) |  | 95.1 | 95.6 |
@@ -46,10 +46,10 @@
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 1.18% | 1.52% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 1.2% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Nov) |  |  | -8.1 |
-| 13:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.3% | 2.0% |
-| 13:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.5% | 0.4% |
+| 13:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.6% | 2.4% |
+| 13:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.5% | 0.4% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | 0.66% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 4.62% |
