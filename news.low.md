@@ -11,36 +11,36 @@
 | 08:00 | EUR | Core CPI (YoY) (Nov) | 2.4% |  | 2.5% |
 | 08:00 | EUR | Spanish CPI (MoM) (Nov) | 0.2% |  | 0.6% |
 | 08:00 | EUR | Spanish HICP (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
-| 47 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 52 min | EUR | Italian Business Confidence (Nov) |  | 85.0 | 85.8 |
-| 52 min | EUR | Italian Consumer Confidence (Nov) |  | 97.2 | 97.4 |
-| 52 min | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.1% |
-| 52 min | EUR | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
-| 52 min | EUR | Bavaria CPI (MoM) (Nov) |  |  | 0.5% |
-| 52 min | EUR | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
-| 52 min | EUR | Brandenburg CPI (YoY) (Nov) |  |  | 1.8% |
-| 52 min | EUR | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
-| 52 min | EUR | Hesse CPI (YoY) (Nov) |  |  | 1.8% |
-| 52 min | EUR | Hesse CPI (MoM) (Nov) |  |  | 0.5% |
-| 52 min | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.3% |
-| 52 min | EUR | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.0% |
-| 52 min | EUR | Saxony CPI (YoY) (Nov) |  |  | 2.8% |
-| 52 min | EUR | Saxony CPI (MoM) (Nov) |  |  | 0.4% |
-| 52 min | EUR | M3 Money Supply (Oct) |  |  | 16,548.7B |
-| 52 min | EUR | M3 Money Supply (YoY) (Oct) |  | 3.4% | 3.2% |
-| 52 min | EUR | Loans to Non Financial Corporations (Oct) |  |  | 1.1% |
-| 52 min | EUR | Private Sector Loans (YoY) (Oct) |  | 0.8% | 0.7% |
-| 09:30 | ZAR | PPI (YoY) (Oct) |  |  | 1.0% |
-| 09:30 | ZAR | PPI (MoM) (Oct) |  |  | -0.3% |
-| 10:00 | EUR | Italian PPI (MoM) (Oct) |  |  | -0.6% |
-| 10:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -2.0% |
-| 10:00 | EUR | Business and Consumer Survey (Nov) |  | 95.1 | 95.6 |
-| 10:00 | EUR | Business Climate (Nov) |  |  | -0.96 |
-| 10:00 | EUR | Consumer Confidence (Nov) |  | -13.7 | -12.5 |
-| 10:00 | EUR | Consumer Inflation Expectation (Nov) |  |  | 13.3 |
-| 10:00 | EUR | Selling Price Expectations (Nov) |  |  | 6.5 |
-| 10:00 | EUR | Services Sentiment (Nov) |  | 6.2 | 7.1 |
-| 10:00 | EUR | Industrial Sentiment (Nov) |  | -13.2 | -13.0 |
+| 08:55 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 09:00 | EUR | Italian Business Confidence (Nov) | 86.5 | 85.0 | 85.8 |
+| 09:00 | EUR | Italian Consumer Confidence (Nov) | 96.6 | 97.2 | 97.4 |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Nov) | 2.2% |  | 2.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Nov) | -0.3% |  | 0.7% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Nov) | -0.2% |  | 0.5% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Nov) | 2.6% |  | 2.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Nov) | 1.9% |  | 1.8% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Nov) | -0.2% |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (YoY) (Nov) | 2.0% |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (MoM) (Nov) | -0.3% |  | 0.5% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 1.9% |  | 2.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) | 1.9% |  | 0.3% |
+| 09:00 | EUR | Saxony CPI (YoY) (Nov) | 2.9% |  | 2.8% |
+| 09:00 | EUR | Saxony CPI (MoM) (Nov) | -0.2% |  | 0.4% |
+| 09:00 | EUR | M3 Money Supply (Oct) |  |  | 16,548.7B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Oct) | 3.4% | 3.4% | 3.2% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Oct) | 1.2% |  | 1.1% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Oct) | 0.8% | 0.8% | 0.7% |
+| 23 min | ZAR | PPI (YoY) (Oct) |  |  | 1.0% |
+| 23 min | ZAR | PPI (MoM) (Oct) |  |  | -0.3% |
+| 53 min | EUR | Italian PPI (YoY) (Oct) |  |  | -2.0% |
+| 53 min | EUR | Italian PPI (MoM) (Oct) |  |  | -0.6% |
+| 53 min | EUR | Business and Consumer Survey (Nov) |  | 95.1 | 95.6 |
+| 53 min | EUR | Business Climate (Nov) |  |  | -0.96 |
+| 53 min | EUR | Consumer Confidence (Nov) |  | -13.7 | -12.5 |
+| 53 min | EUR | Consumer Inflation Expectation (Nov) |  |  | 13.3 |
+| 53 min | EUR | Selling Price Expectations (Nov) |  |  | 6.5 |
+| 53 min | EUR | Services Sentiment (Nov) |  | 6.2 | 7.1 |
+| 53 min | EUR | Industrial Sentiment (Nov) |  | -13.2 | -13.0 |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Nov) |  | 1.18% | 1.52% |
 | 11:30 | BRL | Bank lending (MoM) (Oct) |  |  | 1.2% |
 | 12:00 | EUR | Spanish Business Confidence (Nov) |  |  | -8.1 |
