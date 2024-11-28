@@ -11,8 +11,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 2.5% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 2.3% | 1.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 2.3% | 1.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.2% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 2.3% | 1.8% |
 | 08:55 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Nov) |  | 85.0 | 85.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.2 | 97.4 |
@@ -20,12 +20,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) |  |  | 1.8% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Nov) |  |  | 1.8% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Nov) |  |  | 0.5% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Nov) |  |  | 2.8% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Nov) |  |  | 0.4% |
 | 09:00 | EUR | Low | M3 Money Supply (Oct) |  |  | 16,548.7B |
@@ -34,8 +34,8 @@
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Oct) |  | 0.8% | 0.7% |
 | 09:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 1.0% |
 | 09:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | -0.3% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -2.0% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | -0.6% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -2.0% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Nov) |  | 95.1 | 95.6 |
 | 10:00 | EUR | Low | Business Climate (Nov) |  |  | -0.96 |
 | 10:00 | EUR | Low | Consumer Confidence (Nov) |  | -13.7 | -12.5 |
@@ -58,8 +58,8 @@
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Oct) |  | 200.00K | 247.82K |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | 0.6% | -0.2% |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 2.4% | -1.3% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | 0.6% | -0.2% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | -0.4% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | -0.7% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.1% |
