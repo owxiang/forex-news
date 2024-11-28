@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q3) | 1.1% | 0.9% | -2.2% |
 | 08:00 | EUR | Spanish CPI (YoY) (Nov) |  | 2.3% | 1.8% |
-| 08:00 | EUR | Spanish HICP (YoY) (Nov) |  | 2.3% | 1.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Nov) |  | 2.4% | 1.8% |
 | 13:00 | EUR | German CPI (YoY) (Nov) |  | 2.3% | 2.0% |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | CAD | Current Account (Q3) |  | -8.6B | -8.5B |
