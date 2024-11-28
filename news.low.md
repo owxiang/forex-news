@@ -30,8 +30,8 @@
 | 09:00 | EUR | M3 Money Supply (Oct) | 16,577.4B |  | 16,548.7B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Oct) | 1.2% |  | 1.1% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Oct) | 0.8% | 0.8% | 0.7% |
-| 09:30 | ZAR | PPI (MoM) (Oct) | -0.7% |  | -0.3% |
 | 09:30 | ZAR | PPI (YoY) (Oct) | -0.7% |  | 1.0% |
+| 09:30 | ZAR | PPI (MoM) (Oct) | -0.7% |  | -0.3% |
 | 10:00 | EUR | Italian PPI (YoY) (Oct) | -2.8% |  | -2.0% |
 | 10:00 | EUR | Italian PPI (MoM) (Oct) | 0.7% |  | -0.6% |
 | 10:00 | EUR | Business and Consumer Survey (Nov) | 95.8 | 95.1 | 95.7 |

@@ -33,8 +33,8 @@
 | 09:00 | EUR | Low | M3 Money Supply (Oct) | 16,577.4B |  | 16,548.7B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Oct) | 1.2% |  | 1.1% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Oct) | 0.8% | 0.8% | 0.7% |
-| 09:30 | ZAR | Low | PPI (MoM) (Oct) | -0.7% |  | -0.3% |
 | 09:30 | ZAR | Low | PPI (YoY) (Oct) | -0.7% |  | 1.0% |
+| 09:30 | ZAR | Low | PPI (MoM) (Oct) | -0.7% |  | -0.3% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Oct) | -2.8% |  | -2.0% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Oct) | 0.7% |  | -0.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Nov) | 95.8 | 95.1 | 95.7 |
@@ -48,8 +48,8 @@
 | 11:30 | BRL | Low | Bank lending (MoM) (Oct) | 0.7% |  | 1.3% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Nov) | -4.9 |  | -7.9 |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Oct) | 0.94% |  | 0.62% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Nov) | 2.2% | 2.3% | 2.0% |
 | 13:00 | EUR | High | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.4% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Nov) | 2.2% | 2.3% | 2.0% |
 | 13:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.5% | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Nov) | 2.4% | 2.6% | 2.4% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
