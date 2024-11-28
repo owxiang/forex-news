@@ -8,32 +8,32 @@
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 1.1% |  | -1.0% |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Nov) | 3.00% | 3.25% | 3.25% |
-| 53 min | EUR | Core CPI (YoY) (Nov) |  |  | 2.5% |
-| 53 min | EUR | Spanish CPI (MoM) (Nov) |  |  | 0.6% |
-| 53 min | EUR | Spanish HICP (MoM) (Nov) |  | 0.2% | 0.4% |
-| 08:55 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 09:00 | EUR | Italian Business Confidence (Nov) |  | 85.0 | 85.8 |
-| 09:00 | EUR | Italian Consumer Confidence (Nov) |  | 97.2 | 97.4 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Nov) |  |  | 0.5% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Nov) |  |  | 1.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
-| 09:00 | EUR | Hesse CPI (MoM) (Nov) |  |  | 0.5% |
-| 09:00 | EUR | Hesse CPI (YoY) (Nov) |  |  | 1.8% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Nov) |  |  | 0.4% |
-| 09:00 | EUR | Saxony CPI (YoY) (Nov) |  |  | 2.8% |
-| 09:00 | EUR | M3 Money Supply (YoY) (Oct) |  | 3.4% | 3.2% |
-| 09:00 | EUR | M3 Money Supply (Oct) |  |  | 16,548.7B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 1.1% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Oct) |  | 0.8% | 0.7% |
+| 08:00 | EUR | Core CPI (YoY) (Nov) | 2.4% |  | 2.5% |
+| 08:00 | EUR | Spanish CPI (MoM) (Nov) | 0.2% |  | 0.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
+| 47 min | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 52 min | EUR | Italian Business Confidence (Nov) |  | 85.0 | 85.8 |
+| 52 min | EUR | Italian Consumer Confidence (Nov) |  | 97.2 | 97.4 |
+| 52 min | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.1% |
+| 52 min | EUR | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
+| 52 min | EUR | Bavaria CPI (MoM) (Nov) |  |  | 0.5% |
+| 52 min | EUR | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
+| 52 min | EUR | Brandenburg CPI (YoY) (Nov) |  |  | 1.8% |
+| 52 min | EUR | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
+| 52 min | EUR | Hesse CPI (YoY) (Nov) |  |  | 1.8% |
+| 52 min | EUR | Hesse CPI (MoM) (Nov) |  |  | 0.5% |
+| 52 min | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  |  | 0.3% |
+| 52 min | EUR | North Rhine Westphalia CPI (YoY) (Nov) |  |  | 2.0% |
+| 52 min | EUR | Saxony CPI (YoY) (Nov) |  |  | 2.8% |
+| 52 min | EUR | Saxony CPI (MoM) (Nov) |  |  | 0.4% |
+| 52 min | EUR | M3 Money Supply (Oct) |  |  | 16,548.7B |
+| 52 min | EUR | M3 Money Supply (YoY) (Oct) |  | 3.4% | 3.2% |
+| 52 min | EUR | Loans to Non Financial Corporations (Oct) |  |  | 1.1% |
+| 52 min | EUR | Private Sector Loans (YoY) (Oct) |  | 0.8% | 0.7% |
 | 09:30 | ZAR | PPI (YoY) (Oct) |  |  | 1.0% |
 | 09:30 | ZAR | PPI (MoM) (Oct) |  |  | -0.3% |
-| 10:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -2.0% |
 | 10:00 | EUR | Italian PPI (MoM) (Oct) |  |  | -0.6% |
+| 10:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -2.0% |
 | 10:00 | EUR | Business and Consumer Survey (Nov) |  | 95.1 | 95.6 |
 | 10:00 | EUR | Business Climate (Nov) |  |  | -0.96 |
 | 10:00 | EUR | Consumer Confidence (Nov) |  | -13.7 | -12.5 |
@@ -49,8 +49,8 @@
 | 13:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | 0.66% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 4.62% |
 | 14:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.70% |
-| 23:00 | KRW | Industrial Production (MoM) (Oct) |  | 0.6% | -0.2% |
 | 23:00 | KRW | Industrial Production (YoY) (Oct) |  | 2.4% | -1.3% |
+| 23:00 | KRW | Industrial Production (MoM) (Oct) |  | 0.6% | -0.2% |
 | 23:00 | KRW | Retail Sales (MoM) (Oct) |  |  | -0.4% |
 | 23:00 | KRW | Service Sector Output (MoM) (Oct) |  |  | -0.7% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.1% |
