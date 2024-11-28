@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
+| 50 min | EUR | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
