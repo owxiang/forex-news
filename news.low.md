@@ -8,16 +8,16 @@
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 1.1% |  | -1.0% |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Nov) | 3.00% | 3.25% | 3.25% |
-| 08:00 | EUR | Core CPI (YoY) (Nov) |  |  | 2.5% |
-| 08:00 | EUR | Spanish CPI (MoM) (Nov) |  |  | 0.6% |
-| 08:00 | EUR | Spanish HICP (MoM) (Nov) |  | 0.2% | 0.4% |
+| 53 min | EUR | Core CPI (YoY) (Nov) |  |  | 2.5% |
+| 53 min | EUR | Spanish CPI (MoM) (Nov) |  |  | 0.6% |
+| 53 min | EUR | Spanish HICP (MoM) (Nov) |  | 0.2% | 0.4% |
 | 08:55 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 09:00 | EUR | Italian Business Confidence (Nov) |  | 85.0 | 85.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Nov) |  | 97.2 | 97.4 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Nov) |  |  | 0.5% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Nov) |  |  | 1.8% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Nov) |  |  | 0.5% |
@@ -30,8 +30,8 @@
 | 09:00 | EUR | M3 Money Supply (Oct) |  |  | 16,548.7B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 1.1% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Oct) |  | 0.8% | 0.7% |
-| 09:30 | ZAR | PPI (MoM) (Oct) |  |  | -0.3% |
 | 09:30 | ZAR | PPI (YoY) (Oct) |  |  | 1.0% |
+| 09:30 | ZAR | PPI (MoM) (Oct) |  |  | -0.3% |
 | 10:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -2.0% |
 | 10:00 | EUR | Italian PPI (MoM) (Oct) |  |  | -0.6% |
 | 10:00 | EUR | Business and Consumer Survey (Nov) |  | 95.1 | 95.6 |
@@ -44,8 +44,8 @@
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Nov) |  | 1.18% | 1.52% |
 | 11:30 | BRL | Bank lending (MoM) (Oct) |  |  | 1.2% |
 | 12:00 | EUR | Spanish Business Confidence (Nov) |  |  | -8.1 |
-| 13:00 | EUR | German HICP (MoM) (Nov) |  | -0.5% | 0.4% |
 | 13:00 | EUR | German HICP (YoY) (Nov) |  | 2.6% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (Nov) |  | -0.5% | 0.4% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | 0.66% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 4.62% |
 | 14:00 | USD | Dallas Fed PCE (Oct) |  |  | 1.70% |
