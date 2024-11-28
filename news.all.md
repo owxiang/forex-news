@@ -23,8 +23,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Nov) | -0.2% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) | -0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) | 1.9% |  | 1.8% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Nov) | 2.0% |  | 1.8% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Nov) | -0.3% |  | 0.5% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Nov) | 2.0% |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) | 1.9% |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) | 1.9% |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Nov) | 2.9% |  | 2.8% |
@@ -38,13 +38,13 @@
 | 10:00 | EUR | Low | Italian PPI (YoY) (Oct) | -2.8% |  | -2.0% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Oct) | 0.7% |  | -0.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Nov) | 95.8 | 95.1 | 95.7 |
-| 10:00 | EUR | Low | Business Climate (Nov) |  |  | -0.96 |
+| 10:00 | EUR | Low | Business Climate (Nov) | -0.77 |  | -0.93 |
 | 10:00 | EUR | Low | Consumer Confidence (Nov) | -13.7 | -13.7 | -12.5 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Nov) | 17.7 |  | 13.5 |
 | 10:00 | EUR | Low | Selling Price Expectations (Nov) | 7.1 |  | 6.7 |
 | 10:00 | EUR | Low | Services Sentiment (Nov) | 5.3 | 6.2 | 6.8 |
 | 10:00 | EUR | Low | Industrial Sentiment (Nov) | -11.1 | -13.2 | -12.6 |
-| 53 min | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 1.18% | 1.52% |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) | 1.30% | 1.18% | 1.52% |
 | 11:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 1.2% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Nov) |  |  | -8.1 |
 | 13:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
