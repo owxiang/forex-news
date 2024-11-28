@@ -16,8 +16,8 @@
 | 08:55 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Nov) |  | 85.0 | 85.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 97.2 | 97.4 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) |  |  | 2.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Nov) |  |  | 0.7% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  |  | 2.4% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  |  | 0.3% |
@@ -58,8 +58,8 @@
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Oct) |  | 200.00K | 247.82K |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 2.4% | -1.3% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | 0.6% | -0.2% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 2.4% | -1.3% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | -0.4% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | -0.7% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 1.1% |
