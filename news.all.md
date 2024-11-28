@@ -17,8 +17,8 @@
 | 08:55 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Nov) | 86.5 | 85.0 | 85.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Nov) | 96.6 | 97.2 | 97.4 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Nov) | -0.3% |  | 0.7% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) | 2.2% |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Nov) | -0.2% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Nov) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) | 1.9% |  | 1.8% |
@@ -53,10 +53,9 @@
 | 13:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.5% | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Nov) | 2.4% | 2.6% | 2.4% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 18 min | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 4.62% |
-| 18 min | CAD | Moderate | Current Account (Q3) |  | -8.6B | -8.5B |
-| 48 min | USD | Low | Dallas Fed PCE (Oct) |  |  | 1.70% |
-| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) | 5.16% |  | 4.94% |
+| 13:30 | CAD | Moderate | Current Account (Q3) | -3.2B | -8.6B | -4.7B |
+| 54 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 2.4% | -1.3% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | 0.6% | -0.2% |
