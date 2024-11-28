@@ -9,6 +9,6 @@
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | CAD | Current Account (Q3) | -3.2B | -8.6B | -4.7B |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 17:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 53 min | EUR | ECB's Lane Speaks |  |  |  |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Nov) |  | 2.0% | 1.8% |
 | 23:50 | JPY | Industrial Production (MoM) (Oct) |  | 3.8% | 1.6% |
