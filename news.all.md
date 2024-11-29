@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) | 0.6% | 0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) | -0.8% | -1.2% | -1.3% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.6% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) | 1.0% | 3.2% | 0.9% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.6% |
 | 07:00 | NOK | Low | Unemployment Change (Nov) | 77.94K |  | 77.25K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 2.00% |  | 1.90% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.2% |  | -0.3% |
@@ -53,8 +53,8 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Oct) | 68.30K | 65.00K | 66.11K |
 | 09:30 | GBP | Low | Mortgage Lending (Oct) | 3.44B | 2.85B | 2.57B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Oct) | 4.532B | 4.100B | 3.800B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | 0.0% | -0.2% | 0.0% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.4% | 1.4% | 0.9% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | 0.0% | -0.2% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | 0.0% | -0.2% | 0.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.6% | 1.5% | 1.0% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Oct) | 7,508.24B |  | 4,745.20B |
