@@ -17,21 +17,21 @@
 | 07:00 | NOK | Unemployment Change (Nov) | 77.94K |  | 77.25K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Nov) | 2.00% |  | 1.90% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Oct) | 0.2% |  | -0.3% |
-| 07:45 | EUR | French CPI (YoY) (Nov) |  | 1.5% | 1.2% |
-| 07:45 | EUR | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.0% |
-| 07:45 | EUR | French PPI (MoM) (Oct) |  | 0.0% | -0.1% |
-| 07:45 | EUR | PPI (YoY) (Oct) |  |  | -7.00% |
-| 08:00 | CHF | Official Reserves Assets (Oct) |  |  | 802.3B |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
-| 08:30 | HKD | M3 Money Supply (Oct) |  |  | 3.0% |
-| 08:30 | HKD | Retail Sales (YoY) (Oct) |  |  | -6.9% |
-| 08:55 | EUR | German Unemployment (Nov) |  |  | 2.856M |
-| 08:55 | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.791M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -4.60% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Sep) |  |  | -0.10% |
-| 09:00 | EUR | Spanish Current account (Sep) |  |  | 5.63B |
-| 09:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 150.0M |
+| 07:45 | EUR | French CPI (YoY) (Nov) | 1.3% | 1.5% | 1.2% |
+| 07:45 | EUR | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | 0.2% | -0.1% | 0.0% |
+| 07:45 | EUR | French PPI (MoM) (Oct) | 0.9% | 0.0% | -0.1% |
+| 07:45 | EUR | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
+| 08:00 | CHF | Official Reserves Assets (Oct) | 810.3B |  | 802.3B |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Oct) | 3.5% |  | 4.2% |
+| 22 min | HKD | M3 Money Supply (Oct) |  |  | 3.0% |
+| 22 min | HKD | Retail Sales (YoY) (Oct) |  |  | -6.9% |
+| 47 min | EUR | German Unemployment (Nov) |  |  | 2.856M |
+| 47 min | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.791M |
+| 52 min | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -4.60% |
+| 52 min | EUR | Italian Industrial Sales (MoM) (Sep) |  |  | -0.10% |
+| 52 min | EUR | Spanish Current account (Sep) |  |  | 5.63B |
+| 52 min | NOK | Central Bank Currency Purchase (Dec) |  |  | 150.0M |
 | 09:30 | GBP | BoE Consumer Credit (Oct) |  | 1.300B | 1.231B |
 | 09:30 | GBP | M3 Money Supply (Oct) |  |  | 3,082.4B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Oct) |  | 0.4% | 0.6% |

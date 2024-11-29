@@ -4,18 +4,18 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 01:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 06:30 | EUR | French Consumer Spending (MoM) (Sep) | -0.4% | -0.1% | 0.1% |
 | 07:00 | GBP | BoE Financial Stability Report |  |  |  |
-| 07:00 | EUR | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.2% |
-| 07:45 | EUR | French Consumer Spending (MoM) (Oct) |  | -0.1% | 0.1% |
-| 07:45 | EUR | French CPI (MoM) (Nov) |  | 0.0% | 0.2% |
-| 07:45 | EUR | French GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q3) |  | 1.3% | 1.0% |
-| 07:45 | EUR | French HICP (MoM) (Nov) |  | 0.0% | 0.3% |
-| 08:00 | CHF | KOF Leading Indicators (Nov) |  | 100.1 | 99.5 |
-| 08:00 | CHF | GDP (QoQ) (Q3) |  | 0.4% | 0.7% |
-| 08:00 | CHF | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
-| 08:55 | EUR | German Unemployment Change (Nov) |  | 20K | 27K |
-| 08:55 | EUR | German Unemployment Rate (Nov) |  | 6.1% | 6.1% |
+| 07:00 | EUR | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.6% |
+| 07:45 | EUR | French CPI (MoM) (Nov) | -0.1% | 0.0% | 0.2% |
+| 07:45 | EUR | French GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.2% |
+| 07:45 | EUR | French GDP (YoY) (Q3) | 1.2% | 1.3% | 1.0% |
+| 07:45 | EUR | French HICP (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
+| 08:00 | CHF | KOF Leading Indicators (Nov) | 101.8 | 100.1 | 99.7 |
+| 08:00 | CHF | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.6% |
+| 08:00 | CHF | GDP (YoY) (Q3) | 2.0% | 1.8% | 1.5% |
+| 47 min | EUR | German Unemployment Change (Nov) |  | 20K | 27K |
+| 47 min | EUR | German Unemployment Rate (Nov) |  | 6.1% | 6.1% |
 | 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.8% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Nov) |  |  | 0.3% |
 | 10:30 | GBP | BoE Financial Stability Report |  |  |  |

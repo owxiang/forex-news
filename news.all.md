@@ -13,39 +13,39 @@
 | 05:00 | JPY | Low | Housing Starts (YoY) (Oct) | -2.9% | -2.0% | -0.6% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) | 7.79% |  | 7.25% |
 | 06:00 | ZAR | Low | Private Sector Credit (Oct) | 4.26% |  | 4.63% |
+| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Sep) | -0.4% | -0.1% | 0.1% |
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) | 0.6% | 0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) | -0.8% | -1.2% | -1.3% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.6% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) | 1.0% | 3.2% | 1.4% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.2% |
 | 07:00 | NOK | Low | Unemployment Change (Nov) | 77.94K |  | 77.25K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 2.00% |  | 1.90% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.2% |  | -0.3% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | -0.1% | 0.1% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.0% | 0.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.5% | 1.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q3) |  | 1.3% | 1.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | 0.0% | 0.3% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.0% |
-| 07:45 | EUR | Low | French PPI (MoM) (Oct) |  | 0.0% | -0.1% |
-| 07:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -7.00% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 100.1 | 99.5 |
-| 08:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 802.3B |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.7% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
-| 08:30 | HKD | Low | M3 Money Supply (Oct) |  |  | 3.0% |
-| 08:30 | HKD | Low | Retail Sales (YoY) (Oct) |  |  | -6.9% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Nov) |  | 20K | 27K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Nov) |  | 6.1% | 6.1% |
-| 08:55 | EUR | Low | German Unemployment (Nov) |  |  | 2.856M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Nov) |  |  | 2.791M |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -4.60% |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.10% |
-| 09:00 | EUR | Low | Spanish Current account (Sep) |  |  | 5.63B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Dec) |  |  | 150.0M |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.1% | 0.0% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Nov) | 1.3% | 1.5% | 1.2% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.2% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q3) | 1.2% | 1.3% | 1.0% |
+| 07:45 | EUR | Low | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | 0.2% | -0.1% | 0.0% |
+| 07:45 | EUR | Low | French PPI (MoM) (Oct) | 0.9% | 0.0% | -0.1% |
+| 07:45 | EUR | Low | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) | 101.8 | 100.1 | 99.7 |
+| 08:00 | CHF | Low | Official Reserves Assets (Oct) | 810.3B |  | 802.3B |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.6% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q3) | 2.0% | 1.8% | 1.5% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) | 3.5% |  | 4.2% |
+| 22 min | HKD | Low | M3 Money Supply (Oct) |  |  | 3.0% |
+| 22 min | HKD | Low | Retail Sales (YoY) (Oct) |  |  | -6.9% |
+| 47 min | EUR | Moderate | German Unemployment Change (Nov) |  | 20K | 27K |
+| 47 min | EUR | Moderate | German Unemployment Rate (Nov) |  | 6.1% | 6.1% |
+| 47 min | EUR | Low | German Unemployment (Nov) |  |  | 2.856M |
+| 47 min | EUR | Low | German Unemployment n.s.a. (Nov) |  |  | 2.791M |
+| 52 min | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -4.60% |
+| 52 min | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.10% |
+| 52 min | EUR | Low | Spanish Current account (Sep) |  |  | 5.63B |
+| 52 min | NOK | Low | Central Bank Currency Purchase (Dec) |  |  | 150.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Oct) |  | 1.300B | 1.231B |
 | 09:30 | GBP | Low | M3 Money Supply (Oct) |  |  | 3,082.4B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Oct) |  | 0.4% | 0.6% |
