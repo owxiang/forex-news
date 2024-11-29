@@ -4,12 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Housing Credit (Oct) | 0.5% |  | 0.5% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Oct) | 0.6% | 0.5% | 0.5% |
+| 02:00 | SGD | Bank Lending (Oct) | 813.1B |  | 808.8B |
 | 02:00 | NZD | M3 Money Supply (Oct) | 419.0B |  | 417.1B |
-| 52 min | JPY | Construction Orders (YoY) (Oct) |  |  | -21.3% |
-| 52 min | JPY | Household Confidence (Nov) |  | 36.4 | 36.2 |
-| 52 min | JPY | Housing Starts (YoY) (Oct) |  | -2.0% | -0.6% |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 7.25% |
-| 06:00 | ZAR | Private Sector Credit (Oct) |  |  | 4.63% |
+| 05:00 | JPY | Construction Orders (YoY) (Oct) | 44.6% |  | -21.3% |
+| 05:00 | JPY | Household Confidence (Nov) | 36.4 | 36.4 | 36.2 |
+| 05:00 | JPY | Housing Starts (YoY) (Oct) | -2.9% | -2.0% | -0.6% |
+| 54 min | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 7.25% |
+| 54 min | ZAR | Private Sector Credit (Oct) |  |  | 4.63% |
+| 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.0% |
 | 07:00 | EUR | German Import Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
 | 07:00 | EUR | German Import Price Index (YoY) (Oct) |  | -1.2% | -1.3% |
 | 07:00 | EUR | German Retail Sales (YoY) (Oct) |  | 3.2% | 3.8% |
@@ -18,7 +20,6 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Oct) |  |  | -0.3% |
 | 07:45 | EUR | French CPI (YoY) (Nov) |  | 1.5% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
 | 07:45 | EUR | French PPI (MoM) (Oct) |  | 0.0% | -0.1% |
 | 07:45 | EUR | PPI (YoY) (Oct) |  |  | -7.00% |
 | 08:00 | CHF | Official Reserves Assets (Oct) |  |  | 802.3B |
@@ -61,16 +62,5 @@
 | 14:59 | ZAR | Budget Balance (MoM) (Oct) |  |  | -4.38B |
 | 16:00 | CAD | Budget Balance (Sep) |  |  | -2.55B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -9.84B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.4K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 163.3K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -161.0K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 46.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -86.3K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -46.0K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -183.6K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 14.0K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -37.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -18.4K |
 | 21:00 | MXN | Fiscal Balance (Oct) |  |  | -161.09B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |

@@ -6,12 +6,14 @@
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Oct) | 0.6% | 0.5% | 0.5% |
 | 01:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 02:00 | SGD | Low | Bank Lending (Oct) | 813.1B |  | 808.8B |
 | 02:00 | NZD | Low | M3 Money Supply (Oct) | 419.0B |  | 417.1B |
-| 52 min | JPY | Low | Construction Orders (YoY) (Oct) |  |  | -21.3% |
-| 52 min | JPY | Low | Household Confidence (Nov) |  | 36.4 | 36.2 |
-| 52 min | JPY | Low | Housing Starts (YoY) (Oct) |  | -2.0% | -0.6% |
-| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) |  |  | 7.25% |
-| 06:00 | ZAR | Low | Private Sector Credit (Oct) |  |  | 4.63% |
+| 05:00 | JPY | Low | Construction Orders (YoY) (Oct) | 44.6% |  | -21.3% |
+| 05:00 | JPY | Low | Household Confidence (Nov) | 36.4 | 36.4 | 36.2 |
+| 05:00 | JPY | Low | Housing Starts (YoY) (Oct) | -2.9% | -2.0% | -0.6% |
+| 54 min | ZAR | Low | M3 Money Supply (YoY) (Oct) |  |  | 7.25% |
+| 54 min | ZAR | Low | Private Sector Credit (Oct) |  |  | 4.63% |
+| 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.0% |
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.2% | -1.3% |
@@ -27,13 +29,12 @@
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q3) |  | 1.3% | 1.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | 0.0% | 0.3% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
 | 07:45 | EUR | Low | French PPI (MoM) (Oct) |  | 0.0% | -0.1% |
 | 07:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -7.00% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 100.1 | 99.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 802.3B |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.7% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
 | 08:30 | HKD | Low | M3 Money Supply (Oct) |  |  | 3.0% |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Oct) |  |  | -6.9% |
@@ -82,34 +83,14 @@
 | 12:00 | ZAR | Low | Trade Balance (Oct) |  |  | 12.84B |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.5% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 14:59 | ZAR | Low | Budget Balance (MoM) (Oct) |  |  | -4.38B |
 | 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -9.84B |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 40.3K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.1K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 15.4K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 163.3K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 193.9K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 234.4K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 19.8K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -161.0K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | 34.9K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 46.3K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -86.3K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -46.0K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -183.6K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 14.0K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -37.1K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 31.6K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -7.3K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -46.9K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -18.4K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -42.6K |
 | 21:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,924B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |
