@@ -11,26 +11,26 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Oct) | 44.6% |  | -21.3% |
 | 05:00 | JPY | Low | Household Confidence (Nov) | 36.4 | 36.4 | 36.2 |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Oct) | -2.9% | -2.0% | -0.6% |
-| 54 min | ZAR | Low | M3 Money Supply (YoY) (Oct) |  |  | 7.25% |
-| 54 min | ZAR | Low | Private Sector Credit (Oct) |  |  | 4.63% |
-| 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.0% |
-| 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.2% | -1.3% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) |  | 3.2% | 3.8% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | -0.5% | 1.2% |
-| 07:00 | NOK | Low | Unemployment Change (Nov) |  |  | 77.25K |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) |  |  | 1.90% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) |  |  | -0.3% |
+| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) | 7.79% |  | 7.25% |
+| 06:00 | ZAR | Low | Private Sector Credit (Oct) | 4.26% |  | 4.63% |
+| 21 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.0% |
+| 51 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 51 min | EUR | Low | German Import Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
+| 51 min | EUR | Low | German Import Price Index (YoY) (Oct) |  | -1.2% | -1.3% |
+| 51 min | EUR | Low | German Retail Sales (YoY) (Oct) |  | 3.2% | 3.8% |
+| 51 min | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | -0.5% | 1.2% |
+| 51 min | NOK | Low | Unemployment Change (Nov) |  |  | 77.25K |
+| 51 min | NOK | Low | Unemployment Rate n.s.a. (Nov) |  |  | 1.90% |
+| 51 min | NOK | Low | Core Retail Sales (MoM) (Oct) |  |  | -0.3% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | -0.1% | 0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.5% | 1.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.0% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.5% | 1.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q3) |  | 1.3% | 1.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | 0.0% | 0.3% |
-| 07:45 | EUR | Low | French PPI (MoM) (Oct) |  | 0.0% | -0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
 | 07:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -7.00% |
+| 07:45 | EUR | Low | French PPI (MoM) (Oct) |  | 0.0% | -0.1% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 100.1 | 99.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 802.3B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.7% |
@@ -54,8 +54,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Oct) |  | 4.100B | 3.800B |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | 0.0% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.5% | 1.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.2% | 0.3% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.5% | 1.0% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 4,745.20B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) |  |  | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) |  | 2.8% | 2.7% |
@@ -83,14 +83,14 @@
 | 12:00 | ZAR | Low | Trade Balance (Oct) |  |  | 12.84B |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 14:59 | ZAR | Low | Budget Balance (MoM) (Oct) |  |  | -4.38B |
-| 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -9.84B |
+| 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
 | 21:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,924B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |
