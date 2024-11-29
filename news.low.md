@@ -43,22 +43,22 @@
 | 10:00 | EUR | Italian CPI (MoM) (Nov) | 0.0% | -0.2% | 0.0% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) | 0.0% | -0.2% | 0.3% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.6% | 1.5% | 1.0% |
+| 10:00 | INR | Federal Fiscal Deficit (Oct) | 7,508.24B |  | 4,745.20B |
 | 10:00 | EUR | Core CPI (MoM) (Nov) | -0.6% |  | 0.2% |
 | 10:00 | EUR | CPI, n.s.a (Nov) | 126.67 |  | 127.03 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 2.8% |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.4% |  | 0.3% |
-| 24 min | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 24 min | INR | Federal Fiscal Deficit (Oct) |  |  | 4,745.20B |
-| 54 min | EUR | Italian Trade Balance Non-EU (Oct) |  |  | 3.66B |
-| 11:30 | INR | Bank Loan Growth |  |  | 11.9% |
-| 11:30 | INR | Deposit Growth |  |  | 11.8% |
-| 11:30 | INR | FX Reserves, USD |  |  | 657.89B |
-| 11:30 | INR | Infrastructure Output (YoY) (Oct) |  |  | 2.0% |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 62.4% |
-| 11:30 | BRL | Budget Balance (Oct) |  | -50.750B | -53.767B |
-| 11:30 | BRL | Budget Surplus (Oct) |  |  | -7.340B |
-| 12:00 | ZAR | Trade Balance (Oct) |  |  | 12.84B |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | EUR | Italian Trade Balance Non-EU (Oct) | 5.71B |  | 3.66B |
+| 24 min | INR | Bank Loan Growth |  |  | 11.9% |
+| 24 min | INR | Deposit Growth |  |  | 11.8% |
+| 24 min | INR | FX Reserves, USD |  |  | 657.89B |
+| 24 min | INR | Infrastructure Output (YoY) (Oct) |  |  | 2.0% |
+| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 24 min | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 62.4% |
+| 24 min | BRL | Budget Balance (Oct) |  | -50.750B | -53.767B |
+| 24 min | BRL | Budget Surplus (Oct) |  |  | -7.340B |
+| 54 min | ZAR | Trade Balance (Oct) |  |  | 12.84B |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
 | 16:00 | CAD | Budget Balance (Sep) |  |  | -2.55B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -9.84B |

@@ -18,12 +18,12 @@
 | 08:55 | EUR | German Unemployment Rate (Nov) | 6.1% | 6.1% | 6.1% |
 | 10:00 | EUR | Core CPI (YoY) (Nov) | 2.7% | 2.8% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Nov) | -0.3% |  | 0.3% |
-| 24 min | GBP | BoE Financial Stability Report |  |  |  |
-| 54 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.3% |
-| 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | INR | GDP Quarterly (YoY) (Q2) |  | 6.5% | 6.7% |
-| 12:00 | BRL | Unemployment Rate (Oct) |  | 6.2% | 6.4% |
+| 10:30 | GBP | BoE Financial Stability Report |  |  |  |
+| 10:30 | INR | GDP Quarterly (YoY) (Q2) | 5.4% | 6.5% | 6.7% |
+| 11:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.3% |
+| 24 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 54 min | BRL | Unemployment Rate (Oct) |  | 6.2% | 6.4% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | GDP (YoY) (Q3) |  |  | 0.91% |
 | 13:30 | CAD | GDP (MoM) (Sep) |  | 0.3% | 0.0% |

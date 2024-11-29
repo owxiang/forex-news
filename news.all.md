@@ -57,6 +57,7 @@
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | 0.0% | -0.2% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | 0.0% | -0.2% | 0.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.6% | 1.5% | 1.0% |
+| 10:00 | INR | Low | Federal Fiscal Deficit (Oct) | 7,508.24B |  | 4,745.20B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.6% |  | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.7% | 2.8% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Nov) | 2.3% | 2.3% | 2.0% |
@@ -64,24 +65,23 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Nov) | 126.67 |  | 127.03 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) | 2.8% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) | -0.4% |  | 0.3% |
-| 24 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 24 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 24 min | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 4,745.20B |
-| 54 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 3.66B |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 11.9% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 11.8% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 657.89B |
-| 11:30 | INR | Low | Infrastructure Output (YoY) (Oct) |  |  | 2.0% |
-| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 62.4% |
-| 11:30 | BRL | Low | Budget Balance (Oct) |  | -50.750B | -53.767B |
-| 11:30 | BRL | Low | Budget Surplus (Oct) |  |  | -7.340B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.3% |
-| 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | INR | Moderate | GDP Quarterly (YoY) (Q2) |  | 6.5% | 6.7% |
-| 12:00 | BRL | Moderate | Unemployment Rate (Oct) |  | 6.2% | 6.4% |
-| 12:00 | ZAR | Low | Trade Balance (Oct) |  |  | 12.84B |
+| 10:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q2) | 5.4% | 6.5% | 6.7% |
+| 11:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 11:00 | EUR | Low | Italian Trade Balance Non-EU (Oct) | 5.71B |  | 3.66B |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 11.9% |
+| 24 min | INR | Low | Deposit Growth |  |  | 11.8% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 657.89B |
+| 24 min | INR | Low | Infrastructure Output (YoY) (Oct) |  |  | 2.0% |
+| 24 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 24 min | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 62.4% |
+| 24 min | BRL | Low | Budget Balance (Oct) |  | -50.750B | -53.767B |
+| 24 min | BRL | Low | Budget Surplus (Oct) |  |  | -7.340B |
+| 24 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 78.3% |
+| 24 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 54 min | BRL | Moderate | Unemployment Rate (Oct) |  | 6.2% | 6.4% |
+| 54 min | ZAR | Low | Trade Balance (Oct) |  |  | 12.84B |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
