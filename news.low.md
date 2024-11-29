@@ -59,7 +59,7 @@
 | 11:30 | BRL | Budget Balance (Oct) | -74.681B | -50.750B | -53.767B |
 | 11:30 | BRL | Budget Surplus (Oct) | 36.883B |  | -7.340B |
 | 12:00 | ZAR | Trade Balance (Oct) | 14.63B |  | 12.61B |
-| 18 min | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
+| 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 0.60% |  | 1.00% |
 | 16:00 | CAD | Budget Balance (Sep) |  |  | -2.55B |
 | 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -9.84B |
 | 21:00 | MXN | Fiscal Balance (Oct) |  |  | -161.09B |

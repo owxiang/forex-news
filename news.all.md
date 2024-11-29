@@ -22,8 +22,8 @@
 | 07:00 | NOK | Low | Unemployment Change (Nov) | 77.94K |  | 77.25K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 2.00% |  | 1.90% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.2% |  | -0.3% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Nov) | 0.1% | 0.0% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Nov) | 1.3% | 1.5% | 1.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Nov) | 0.1% | 0.0% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q3) | 1.2% | 1.3% | 1.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
@@ -33,8 +33,8 @@
 | 07:45 | EUR | Low | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) | 101.8 | 100.1 | 99.7 |
 | 08:00 | CHF | Low | Official Reserves Assets (Oct) | 810.3B |  | 802.3B |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.6% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q3) | 2.0% | 1.8% | 1.5% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.6% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) | 3.5% |  | 4.2% |
 | 08:30 | HKD | Low | M3 Money Supply (Oct) | 3.7% |  | 3.0% |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Oct) | -2.9% |  | -6.9% |
@@ -83,12 +83,12 @@
 | 12:00 | BRL | Moderate | Unemployment Rate (Oct) | 6.2% | 6.2% | 6.4% |
 | 12:00 | ZAR | Low | Trade Balance (Oct) | 14.63B |  | 12.61B |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18 min | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
-| 18 min | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.5% |
-| 18 min | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
-| 18 min | CAD | Moderate | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
-| 18 min | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
-| 19 min | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
+| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) | 0.60% |  | 1.00% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Sep) | 0.1% |  | 0.0% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) | 0.3% |  | 0.5% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q3) | 1.49% |  | 1.09% |
+| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) | 1.0% | 1.0% | 2.2% |
 | 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -9.84B |
 | 21:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
