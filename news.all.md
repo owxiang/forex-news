@@ -24,13 +24,13 @@
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.2% |  | -0.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) | 0.1% | 0.0% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Nov) | 1.3% | 1.5% | 1.2% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q3) | 1.2% | 1.3% | 1.0% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q3) | 1.2% | 1.3% | 1.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | 0.2% | -0.1% | 0.0% |
-| 07:45 | EUR | Low | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
 | 07:45 | EUR | Low | French PPI (MoM) (Oct) | 0.9% | 0.0% | -0.1% |
+| 07:45 | EUR | Low | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) | 101.8 | 100.1 | 99.7 |
 | 08:00 | CHF | Low | Official Reserves Assets (Oct) | 810.3B |  | 802.3B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.6% |
@@ -55,8 +55,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Oct) | 4.532B | 4.100B | 3.800B |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.4% | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | 0.0% | -0.2% | 0.0% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.6% | 1.5% | 1.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | 0.0% | -0.2% | 0.3% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.6% | 1.5% | 1.0% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Oct) | 7,508.24B |  | 4,745.20B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.6% |  | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.7% | 2.8% | 2.7% |
@@ -82,15 +82,15 @@
 | 11:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | BRL | Moderate | Unemployment Rate (Oct) | 6.2% | 6.2% | 6.4% |
 | 12:00 | ZAR | Low | Trade Balance (Oct) | 14.63B |  | 12.61B |
-| 50 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.5% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
-| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -9.84B |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 18 min | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
+| 18 min | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.5% |
+| 18 min | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
+| 18 min | CAD | Moderate | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
+| 18 min | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
+| 19 min | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -9.84B |
 | 21:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,924B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |

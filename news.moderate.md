@@ -8,8 +8,8 @@
 | 07:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 07:00 | EUR | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.6% |
 | 07:45 | EUR | French CPI (MoM) (Nov) | 0.1% | 0.0% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q3) | 1.2% | 1.3% | 1.0% |
 | 07:45 | EUR | French GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.2% |
+| 07:45 | EUR | French GDP (YoY) (Q3) | 1.2% | 1.3% | 1.0% |
 | 07:45 | EUR | French HICP (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 08:00 | CHF | KOF Leading Indicators (Nov) | 101.8 | 100.1 | 99.7 |
 | 08:00 | CHF | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.6% |
@@ -24,10 +24,10 @@
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) | 78.6% |  | 78.3% |
 | 11:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:00 | BRL | Unemployment Rate (Oct) | 6.2% | 6.2% | 6.4% |
-| 50 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | CAD | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
-| 13:30 | CAD | GDP (QoQ) (Q3) |  |  | 0.5% |
-| 13:30 | CAD | GDP (YoY) (Q3) |  |  | 0.91% |
-| 13:30 | CAD | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
-| 13:31 | CAD | GDP (MoM) (Oct) |  |  |  |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18 min | CAD | GDP (QoQ) (Q3) |  |  | 0.5% |
+| 18 min | CAD | GDP (YoY) (Q3) |  |  | 0.91% |
+| 18 min | CAD | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
+| 18 min | CAD | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
+| 19 min | CAD | GDP (MoM) (Oct) |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,924B |
