@@ -92,6 +92,6 @@
 | 14:45 | USD | High | Chicago PMI (Nov) | 40.2 | 44.9 | 41.6 |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) | -13.01B |  | -9.84B |
 | 16:00 | CAD | Low | Budget Balance (Sep) | -3.17B |  | -2.55B |
-| 21:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
+| 53 min | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,924B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |
