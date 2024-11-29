@@ -29,8 +29,8 @@
 | 07:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | 0.2% | -0.1% | 0.0% |
-| 07:45 | EUR | Low | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
 | 07:45 | EUR | Low | French PPI (MoM) (Oct) | 0.9% | 0.0% | -0.1% |
+| 07:45 | EUR | Low | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) | 101.8 | 100.1 | 99.7 |
 | 08:00 | CHF | Low | Official Reserves Assets (Oct) | 810.3B |  | 802.3B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.6% |
@@ -90,8 +90,8 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Sep) | 0.1% |  | 0.0% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) | 1.0% | 1.0% | 2.2% |
 | 14:45 | USD | High | Chicago PMI (Nov) | 40.2 | 44.9 | 41.6 |
-| 54 min | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
-| 54 min | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -9.84B |
+| 16:00 | CAD | Low | Budget Balance (Sep) | -3.17B |  | -2.55B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Sep) | -13.01B |  | -9.84B |
 | 21:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,924B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |
