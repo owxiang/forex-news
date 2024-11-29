@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 3 min | AUD | Low | Housing Credit (Oct) |  |  | 0.5% |
-| 3 min | AUD | Low | Private Sector Credit (MoM) (Oct) |  | 0.5% | 0.5% |
-| 33 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 33 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 02:00 | NZD | Low | M3 Money Supply (Oct) |  |  | 417.1B |
+| 00:30 | AUD | Low | Housing Credit (Oct) | 0.5% |  | 0.5% |
+| 00:30 | AUD | Low | Private Sector Credit (MoM) (Oct) | 0.6% | 0.5% | 0.5% |
+| 01:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 26 min | NZD | Low | M3 Money Supply (Oct) |  |  | 417.1B |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Oct) |  |  | -21.3% |
 | 05:00 | JPY | Low | Household Confidence (Nov) |  | 36.4 | 36.2 |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Oct) |  | -2.0% | -0.6% |
@@ -23,8 +23,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | -0.1% | 0.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.0% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.5% | 1.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q3) |  | 1.3% | 1.0% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.4% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | 0.0% | 0.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
@@ -32,8 +32,8 @@
 | 07:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -7.00% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 100.1 | 99.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 802.3B |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.7% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q3) |  | 1.8% | 1.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 4.1% |
 | 08:30 | HKD | Low | M3 Money Supply (Oct) |  |  | 3.0% |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Oct) |  |  | -6.9% |
@@ -51,15 +51,15 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Oct) |  | 65.00K | 65.65K |
 | 09:30 | GBP | Low | Mortgage Lending (Oct) |  | 2.85B | 2.54B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Oct) |  | 4.100B | 3.800B |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | 0.0% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.2% | 0.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.5% | 1.0% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 4,745.20B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) |  |  | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) |  | 2.8% | 2.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Nov) |  |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Nov) |  | 2.3% | 2.0% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Nov) |  |  | 0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Nov) |  |  | 127.03 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) |  |  | 0.3% |
@@ -82,14 +82,14 @@
 | 12:00 | ZAR | Low | Trade Balance (Oct) |  |  | 12.84B |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 0.91% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.3% | 0.0% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 1.0% | 2.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Oct) |  |  |  |
 | 14:59 | ZAR | Low | Budget Balance (MoM) (Oct) |  |  | -4.38B |
-| 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) |  |  | -9.84B |
+| 16:00 | CAD | Low | Budget Balance (Sep) |  |  | -2.55B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 40.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 15.4K |
