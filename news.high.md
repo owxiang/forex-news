@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | EUR | CPI (YoY) (Nov) |  | 2.3% | 2.0% |
+| 10:00 | EUR | CPI (YoY) (Nov) | 2.3% | 2.3% | 2.0% |
