@@ -5,9 +5,9 @@
 | 00:30 | AUD | Housing Credit (Oct) | 0.5% |  | 0.5% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Oct) | 0.6% | 0.5% | 0.5% |
 | 02:00 | NZD | M3 Money Supply (Oct) | 419.0B |  | 417.1B |
-| 05:00 | JPY | Construction Orders (YoY) (Oct) |  |  | -21.3% |
-| 05:00 | JPY | Household Confidence (Nov) |  | 36.4 | 36.2 |
-| 05:00 | JPY | Housing Starts (YoY) (Oct) |  | -2.0% | -0.6% |
+| 52 min | JPY | Construction Orders (YoY) (Oct) |  |  | -21.3% |
+| 52 min | JPY | Household Confidence (Nov) |  | 36.4 | 36.2 |
+| 52 min | JPY | Housing Starts (YoY) (Oct) |  | -2.0% | -0.6% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 7.25% |
 | 06:00 | ZAR | Private Sector Credit (Oct) |  |  | 4.63% |
 | 07:00 | EUR | German Import Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
@@ -39,8 +39,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Oct) |  | 4.100B | 3.800B |
 | 10:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | 0.0% |
-| 10:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.2% | 0.3% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.5% | 1.0% |
+| 10:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.2% | 0.3% |
 | 10:00 | INR | Federal Fiscal Deficit (Oct) |  |  | 4,745.20B |
 | 10:00 | EUR | Core CPI (MoM) (Nov) |  |  | 0.2% |
 | 10:00 | EUR | CPI, n.s.a (Nov) |  |  | 127.03 |
@@ -59,8 +59,8 @@
 | 12:00 | ZAR | Trade Balance (Oct) |  |  | 12.84B |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 1.10% |
 | 14:59 | ZAR | Budget Balance (MoM) (Oct) |  |  | -4.38B |
-| 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -9.84B |
 | 16:00 | CAD | Budget Balance (Sep) |  |  | -2.55B |
+| 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -9.84B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 163.3K |
