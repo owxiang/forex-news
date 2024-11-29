@@ -20,8 +20,8 @@
 | 07:45 | EUR | French CPI (YoY) (Nov) | 1.3% | 1.5% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | 0.2% | -0.1% | 0.0% |
-| 07:45 | EUR | French PPI (MoM) (Oct) | 0.9% | 0.0% | -0.1% |
 | 07:45 | EUR | PPI (YoY) (Oct) | -5.70% |  | -6.90% |
+| 07:45 | EUR | French PPI (MoM) (Oct) | 0.9% | 0.0% | -0.1% |
 | 08:00 | CHF | Official Reserves Assets (Oct) | 810.3B |  | 802.3B |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Oct) | 3.5% |  | 4.2% |
 | 08:30 | HKD | M3 Money Supply (Oct) | 3.7% |  | 3.0% |
@@ -41,8 +41,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Oct) | 4.532B | 4.100B | 3.800B |
 | 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.4% | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) | 0.0% | -0.2% | 0.0% |
-| 10:00 | EUR | Italian HICP (MoM) (Nov) | 0.0% | -0.2% | 0.3% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.6% | 1.5% | 1.0% |
+| 10:00 | EUR | Italian HICP (MoM) (Nov) | 0.0% | -0.2% | 0.3% |
 | 10:00 | INR | Federal Fiscal Deficit (Oct) | 7,508.24B |  | 4,745.20B |
 | 10:00 | EUR | Core CPI (MoM) (Nov) | -0.6% |  | 0.2% |
 | 10:00 | EUR | CPI, n.s.a (Nov) | 126.67 |  | 127.03 |
@@ -60,7 +60,7 @@
 | 11:30 | BRL | Budget Surplus (Oct) | 36.883B |  | -7.340B |
 | 12:00 | ZAR | Trade Balance (Oct) | 14.63B |  | 12.61B |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 0.60% |  | 1.00% |
-| 16:00 | CAD | Budget Balance (Sep) |  |  | -2.55B |
-| 16:00 | CAD | Budget Balance (YoY) (Sep) |  |  | -9.84B |
+| 54 min | CAD | Budget Balance (Sep) |  |  | -2.55B |
+| 54 min | CAD | Budget Balance (YoY) (Sep) |  |  | -9.84B |
 | 21:00 | MXN | Fiscal Balance (Oct) |  |  | -161.09B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |
