@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Oct) | 0.6% | 0.2% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Oct) | -0.8% | -1.2% | -1.3% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) | 1.0% | 3.2% | 0.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) | -1.5% | -0.5% | 1.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Oct) | 1.0% | 3.2% | 0.9% |
 | 07:00 | NOK | Low | Unemployment Change (Nov) | 77.94K |  | 77.25K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 2.00% |  | 1.90% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.2% |  | -0.3% |
@@ -92,6 +92,6 @@
 | 14:45 | USD | High | Chicago PMI (Nov) | 40.2 | 44.9 | 41.6 |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Sep) | -13.01B |  | -9.84B |
 | 16:00 | CAD | Low | Budget Balance (Sep) | -3.17B |  | -2.55B |
-| 53 min | MXN | Low | Fiscal Balance (Oct) |  |  | -161.09B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,924B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |
+| 21:00 | MXN | Low | Fiscal Balance (Oct) | 37.66B |  | -161.09B |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,924B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.267T |

@@ -30,4 +30,4 @@
 | 13:30 | CAD | GDP (MoM) (Sep) | 0.1% | 0.3% | 0.0% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q3) | 1.0% | 1.0% | 2.2% |
 | 13:31 | CAD | GDP (MoM) (Oct) | 0.1% | 0.1% | 0.1% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,924B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 6,924B |
