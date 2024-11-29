@@ -1,5 +1,5 @@
-## 28 November 2024 - High Impact Forex News
+## 29 November 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.4% |
+| 10:00 | EUR | CPI (YoY) (Nov) |  | 2.3% | 2.0% |
