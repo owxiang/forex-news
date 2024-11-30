@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Composite PMI (Nov) | 50.8 |  | 50.8 |
-| 01:30 | CNY | Non-Manufacturing PMI (Nov) | 50.0 | 50.2 | 50.2 |
+| 01:30 | CNY | Non-Manufacturing PMI (Nov) | 50.0 | 50.4 | 50.2 |
