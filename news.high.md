@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Manufacturing PMI (Nov) |  | 50.3 | 50.1 |
+| 01:30 | CNY | Manufacturing PMI (Nov) | 50.3 | 50.3 | 50.1 |
