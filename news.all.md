@@ -6,6 +6,6 @@
 | 00:00 | KRW | Low | Imports (YoY) (Nov) | -2.4% |  | 1.7% |
 | 00:00 | KRW | Low | Trade Balance (Nov) | 5.61B |  | 3.15B |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 21:45 | NZD | Low | Building Consents (MoM) (Oct) |  |  | 2.6% |
-| 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.4 |
+| 40 min | NZD | Low | Building Consents (MoM) (Oct) |  |  | 2.6% |
+| 55 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.4 |
 | 23:50 | JPY | Moderate | Capital Spending (YoY) (Q3) |  | 6.7% | 7.4% |
