@@ -8,4 +8,4 @@
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Oct) |  |  | 2.6% |
 | 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.4 |
-| 23:50 | JPY | Moderate | Capital Spending (YoY) (Q3) |  |  | 7.4% |
+| 23:50 | JPY | Moderate | Capital Spending (YoY) (Q3) |  | 6.7% | 7.4% |
