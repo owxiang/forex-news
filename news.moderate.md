@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | USD | OPEC Meeting |  |  |  |
+| 54 min | USD | OPEC Meeting |  |  |  |
 | 23:50 | JPY | Capital Spending (YoY) (Q3) |  |  | 7.4% |
