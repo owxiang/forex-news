@@ -19,10 +19,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Oct) | 1.4% | 2.6% | 1.8% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 5.8% | 6.1% | 6.0% |
 | 09:00 | NOK | Manufacturing PMI (Nov) | 50.7 |  | 52.0 |
-| 10:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.0% | 0.0% |
-| 52 min | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
-| 52 min | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 10:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.4% | 0.4% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |

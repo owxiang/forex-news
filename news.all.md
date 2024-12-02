@@ -32,12 +32,10 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Nov) | 50.7 |  | 52.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 45.2 | 45.2 | 46.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) | 48.0 | 48.6 | 49.9 |
-| 10:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.0% | 0.0% |
+| 10:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
-| 52 min | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
-| 52 min | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
