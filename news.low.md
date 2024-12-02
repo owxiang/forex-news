@@ -13,10 +13,10 @@
 | 00:30 | IDR | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
 | 02:00 | IDR | Inflation (MoM) (Oct) | 0.30% | 0.26% | 0.08% |
 | 02:00 | IDR | Inflation (YoY) (Oct) | 1.55% | 1.50% | 1.71% |
-| 04:00 | IDR | Core Inflation (YoY) (Nov) |  | 2.20% | 2.21% |
-| 52 min | INR | HSBC India Manufacturing PMI (Nov) |  | 57.3 | 57.5 |
-| 05:30 | AUD | Commodity Prices (YoY) (Nov) |  |  | -7.8% |
-| 05:30 | AUD | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
+| 04:00 | IDR | Core Inflation (YoY) (Nov) | 2.26% | 2.20% | 2.21% |
+| 05:00 | INR | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
+| 23 min | AUD | Commodity Prices (YoY) (Nov) |  |  | -7.8% |
+| 23 min | AUD | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
 | 07:30 | CHF | Retail Sales (YoY) (Oct) |  | 2.6% | 2.2% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
 | 09:00 | NOK | Manufacturing PMI (Nov) |  |  | 52.4 |

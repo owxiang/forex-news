@@ -17,12 +17,12 @@
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) | 51.5 | 50.6 | 50.3 |
 | 02:00 | IDR | Low | Inflation (MoM) (Oct) | 0.30% | 0.26% | 0.08% |
 | 02:00 | IDR | Low | Inflation (YoY) (Oct) | 1.55% | 1.50% | 1.71% |
-| 04:00 | IDR | Low | Core Inflation (YoY) (Nov) |  | 2.20% | 2.21% |
-| 52 min | INR | Low | HSBC India Manufacturing PMI (Nov) |  | 57.3 | 57.5 |
-| 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) |  |  | -7.8% |
-| 05:30 | AUD | Low | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.2% | 0.1% |
+| 04:00 | IDR | Low | Core Inflation (YoY) (Nov) | 2.26% | 2.20% | 2.21% |
+| 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
+| 23 min | AUD | Low | Commodity Prices (YoY) (Nov) |  |  | -7.8% |
+| 23 min | AUD | Low | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  | 2.4% | 2.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.2% | 0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Oct) |  | 2.6% | 2.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 53.9 | 54.5 |
 | 08:30 | CHF | Moderate | procure.ch PMI (Nov) |  | 49.6 | 49.9 |
