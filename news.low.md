@@ -11,12 +11,11 @@
 | 00:30 | AUD | Private House Approvals (Oct) | -5.2% |  | 2.2% |
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.0 | 49.2 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
-| 02:00 | IDR | Inflation (MoM) (Oct) | 0.30% | 0.26% | 0.08% |
-| 02:00 | IDR | Inflation (YoY) (Oct) | 1.55% | 1.50% | 1.71% |
 | 04:00 | IDR | Core Inflation (YoY) (Nov) | 2.26% | 2.20% | 2.21% |
+| 04:00 | IDR | Inflation (MoM) (Nov) | 0.30% | 0.26% | 0.08% |
+| 04:00 | IDR | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
-| 23 min | AUD | Commodity Prices (YoY) (Nov) |  |  | -7.8% |
-| 23 min | AUD | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
+| 05:30 | AUD | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
 | 07:30 | CHF | Retail Sales (YoY) (Oct) |  | 2.6% | 2.2% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
 | 09:00 | NOK | Manufacturing PMI (Nov) |  |  | 52.4 |
@@ -24,8 +23,8 @@
 | 10:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
 | 10:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 10:00 | EUR | French Car Registration (YoY) (Nov) |  |  | -11.1% |
-| 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
