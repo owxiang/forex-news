@@ -29,4 +29,4 @@
 | 20:30 | BRL | CFTC BRL speculative net positions | -7.6K |  | -7.3K |
 | 20:30 | JPY | CFTC JPY speculative net positions | -22.6K |  | -46.9K |
 | 20:30 | EUR | CFTC EUR speculative net positions | -56.0K |  | -42.6K |
-| 24 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 21:30 | USD | FOMC Member Williams Speaks |  |  |  |
