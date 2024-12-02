@@ -1,3 +1,7 @@
-## 01 December 2024 - High Impact Forex News
+## 02 December 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 14:45 | USD | S&P Global US Manufacturing PMI (Nov) |  | 48.8 | 48.5 |
+| 15:00 | USD | ISM Manufacturing PMI (Nov) |  | 47.7 | 46.5 |
+| 15:00 | USD | ISM Manufacturing Prices (Nov) |  | 55.2 | 54.8 |
