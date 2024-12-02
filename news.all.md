@@ -20,26 +20,26 @@
 | 04:00 | IDR | Low | Inflation (MoM) (Nov) | 0.30% | 0.26% | 0.08% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | 3.7% | 2.4% | 2.4% |
-| 23 min | CHF | Low | Retail Sales (YoY) (Oct) |  | 2.6% | 2.2% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 53.9 | 54.5 |
-| 08:30 | CHF | Moderate | procure.ch PMI (Nov) |  | 49.6 | 49.9 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 46.1 | 46.9 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 43.2 | 44.5 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 43.2 | 43.0 |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
-| 09:00 | NOK | Low | Manufacturing PMI (Nov) |  |  | 52.4 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 45.2 | 46.0 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Oct) | 1.4% | 2.6% | 1.8% |
+| 6 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 53.9 | 54.5 |
+| 21 min | CHF | Moderate | procure.ch PMI (Nov) |  | 49.6 | 49.9 |
+| 36 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 46.1 | 46.9 |
+| 41 min | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 43.2 | 44.5 |
+| 46 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 43.2 | 43.0 |
+| 51 min | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
+| 51 min | NOK | Low | Manufacturing PMI (Nov) |  |  | 52.4 |
+| 51 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 45.2 | 46.0 |
+| 51 min | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 48.6 | 49.9 |
-| 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
+| 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | -11.1% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
@@ -83,6 +83,6 @@
 | 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) |  | 1.4% | 5.2% |
 | 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) |  | -0.6% | 3.1% |
 | 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) |  | 1.2% | 2.0% |
-| 23:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
 | 23:00 | KRW | Low | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
+| 23:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Nov) |  |  | -0.0% |
