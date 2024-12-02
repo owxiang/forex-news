@@ -6,8 +6,8 @@
 | 00:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) | -4.6% | 0.6% | -6.8% |
 | 00:30 | AUD | Retail Sales (MoM) (Oct) | 0.6% | 0.4% | 0.1% |
 | 01:45 | CNY | Caixin Manufacturing PMI (Nov) | 51.5 | 50.6 | 50.3 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Nov) | 3.7% | 2.4% | 2.4% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Nov) | 53.1 | 53.9 | 54.5 |
 | 08:30 | CHF | procure.ch PMI (Nov) | 48.5 | 49.6 | 49.9 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Nov) | 44.5 | 46.1 | 46.9 |

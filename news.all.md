@@ -20,8 +20,8 @@
 | 04:00 | IDR | Low | Inflation (MoM) (Nov) | 0.30% | 0.26% | 0.08% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | 3.7% | 2.4% | 2.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Oct) | 1.4% | 2.6% | 1.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) | 53.1 | 53.9 | 54.5 |
 | 08:30 | CHF | Moderate | procure.ch PMI (Nov) | 48.5 | 49.6 | 49.9 |
@@ -36,8 +36,8 @@
 | 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.0% | 0.0% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |

@@ -21,8 +21,8 @@
 | 09:00 | NOK | Manufacturing PMI (Nov) | 50.7 |  | 52.0 |
 | 10:00 | EUR | Italian GDP (YoY) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.0% | 0.0% |
-| 11:00 | EUR | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:00 | EUR | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
+| 11:00 | EUR | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
