@@ -16,12 +16,12 @@
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) | 51.5 | 50.6 | 50.3 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Nov) | 2.26% | 2.20% | 2.21% |
-| 04:00 | IDR | Low | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 04:00 | IDR | Low | Inflation (MoM) (Nov) | 0.30% | 0.26% | 0.08% |
+| 04:00 | IDR | Low | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | 3.7% | 2.4% | 2.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | 3.7% | 2.4% | 2.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Oct) | 1.4% | 2.6% | 1.8% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) | 53.1 | 53.9 | 54.5 |
 | 08:30 | CHF | Moderate | procure.ch PMI (Nov) | 48.5 | 49.6 | 49.9 |
@@ -36,11 +36,11 @@
 | 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.0% | 0.0% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) | 52.3 |  | 52.9 |
 | 13:00 | SGD | Low | S&P Global Singapore PMI (Nov) | 51.0 |  | 50.8 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.342% |  | 2.382% |
@@ -58,30 +58,30 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.305% |  | 4.340% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 20:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 40.3K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.1K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 15.4K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 163.3K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 193.9K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 234.4K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 19.8K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -161.0K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | 34.9K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 46.3K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -86.3K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -46.0K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -183.6K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 14.0K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -37.1K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 31.6K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -7.3K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -46.9K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -18.4K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -42.6K |
-| 21:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 21:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) |  | 1.4% | 5.2% |
-| 21:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) |  | -0.6% | 3.1% |
-| 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) |  | 1.2% | 2.0% |
-| 23:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 21.6K |  | 40.3K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 3.2K |  | 3.1K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 9.9K |  | 15.4K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | 136.9K |  | 163.3K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 200.4K |  | 193.9K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 250.3K |  | 234.4K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 19.5K |  | 19.8K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -153.4K |  | -161.0K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -78.9K |  | 34.9K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 42.8K |  | 46.3K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -105.9K |  | -86.3K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -52.2K |  | -46.0K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -154.0K |  | -183.6K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 3.5K |  | 14.0K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -39.7K |  | -37.1K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | 31.8K |  | 31.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -7.6K |  | -7.3K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -22.6K |  | -46.9K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -24.4K |  | -18.4K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -56.0K |  | -42.6K |
+| 24 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 39 min | NZD | Low | Terms of Trade - Exports Prices (Q3) |  | 1.4% | 5.2% |
+| 39 min | NZD | Low | Terms of Trade - Imports Prices (Q3) |  | -0.6% | 3.1% |
+| 39 min | NZD | Low | Terms of Trade Index (QoQ) (Q3) |  | 1.2% | 2.0% |
 | 23:00 | KRW | Low | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
+| 23:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Nov) |  | 0.2% | 0.0% |
