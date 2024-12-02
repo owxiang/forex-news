@@ -3,22 +3,22 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Nov) | 0.2% |  | 0.3% |
-| 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Nov) |  |  | 48.3 |
-| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Nov) |  |  | 0.3% |
-| 00:30 | AUD | Low | Building Approvals (YoY) (Oct) |  |  | 18.10% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) |  | 1.2% | 4.4% |
-| 00:30 | AUD | Low | Business inventories (MoM) (Q3) |  | -0.2% | 0.1% |
-| 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) |  | 0.6% | -5.3% |
-| 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q3) |  |  | -1.7% |
-| 00:30 | AUD | Low | Private House Approvals (Oct) |  |  | 2.2% |
-| 00:30 | AUD | Low | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
-| 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 49.0 | 49.2 |
-| 00:30 | IDR | Low | Nikkei Manufacturing PMI (Nov) |  |  | 49.2 |
-| 01:30 | AUD | Moderate | Retail Sales (MoM) (Oct) |  | 0.4% | 0.1% |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) |  | 50.6 | 50.3 |
+| 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Nov) | 50.6 |  | 48.3 |
+| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Nov) | -1.3% |  | 0.7% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Oct) | 12.70% |  | 18.10% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) | 4.2% | 1.2% | 5.8% |
+| 00:30 | AUD | Low | Business inventories (MoM) (Q3) | -0.9% | -0.2% | 0.5% |
+| 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) | -4.6% | 0.6% | -6.8% |
+| 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q3) | 1.6% |  | -1.7% |
+| 00:30 | AUD | Low | Private House Approvals (Oct) | -5.2% |  | 2.2% |
+| 00:30 | AUD | Moderate | Retail Sales (MoM) (Oct) | 0.6% | 0.4% | 0.1% |
+| 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.0 | 49.2 |
+| 00:30 | IDR | Low | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
+| 10 min | CNY | Moderate | Caixin Manufacturing PMI (Nov) |  | 50.6 | 50.3 |
+| 03:30 | AUD | Low | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Nov) |  | 2.20% | 2.21% |
-| 04:00 | IDR | Low | Inflation (YoY) (Nov) |  | 1.50% | 1.71% |
 | 04:00 | IDR | Low | Inflation (MoM) (Nov) |  | 0.26% | 0.08% |
+| 04:00 | IDR | Low | Inflation (YoY) (Nov) |  | 1.50% | 1.71% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) |  | 57.3 | 57.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) |  |  | -7.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | 0.2% | 0.1% |
@@ -34,13 +34,13 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 45.2 | 46.0 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 48.6 | 49.9 |
-| 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
+| 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | -11.1% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
