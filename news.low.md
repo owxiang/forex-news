@@ -17,14 +17,13 @@
 | 05:00 | INR | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
 | 05:30 | AUD | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
 | 07:30 | CHF | Retail Sales (YoY) (Oct) | 1.4% | 2.6% | 1.8% |
-| 51 min | EUR | Italian Monthly Unemployment Rate (Oct) |  | 6.1% | 6.1% |
-| 51 min | NOK | Manufacturing PMI (Nov) |  |  | 52.4 |
-| 51 min | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
-| 10:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
-| 10:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
-| 10:00 | EUR | French Car Registration (YoY) (Nov) |  |  | -11.1% |
-| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 5.8% | 6.1% | 6.0% |
+| 09:00 | NOK | Manufacturing PMI (Nov) | 50.7 |  | 52.0 |
+| 52 min | EUR | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
+| 52 min | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
+| 52 min | EUR | French Car Registration (YoY) (Nov) |  |  | -11.1% |
 | 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
@@ -52,6 +51,6 @@
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q3) |  | 1.4% | 5.2% |
 | 21:45 | NZD | Terms of Trade - Imports Prices (Q3) |  | -0.6% | 3.1% |
 | 21:45 | NZD | Terms of Trade Index (QoQ) (Q3) |  | 1.2% | 2.0% |
-| 23:00 | KRW | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
 | 23:00 | KRW | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
+| 23:00 | KRW | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
 | 23:50 | JPY | Monetary Base (YoY) (Nov) |  |  | -0.0% |
