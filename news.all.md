@@ -39,8 +39,8 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) | 52.3 |  | 52.9 |
 | 13:00 | SGD | Low | S&P Global Singapore PMI (Nov) | 51.0 |  | 50.8 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.342% |  | 2.382% |
@@ -56,7 +56,7 @@
 | 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Nov) | 49.90 |  | 48.40 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.400% |  | 4.415% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.305% |  | 4.340% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | -9.1% |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 20:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 40.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.1K |

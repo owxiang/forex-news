@@ -24,8 +24,8 @@
 | 11:00 | EUR | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:00 | EUR | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
+| 12:00 | ZAR | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Nov) | 52.3 |  | 52.9 |
 | 13:00 | SGD | S&P Global Singapore PMI (Nov) | 51.0 |  | 50.8 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.342% |  | 2.382% |
@@ -36,7 +36,7 @@
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Nov) | 49.90 |  | 48.40 |
 | 16:30 | USD | 3-Month Bill Auction | 4.400% |  | 4.415% |
 | 16:30 | USD | 6-Month Bill Auction | 4.305% |  | 4.340% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -9.1% |
+| 17:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 163.3K |
