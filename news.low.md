@@ -24,8 +24,8 @@
 | 11:00 | EUR | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:00 | EUR | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
 | 12:00 | ZAR | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Nov) | 52.3 |  | 52.9 |
 | 13:00 | SGD | S&P Global Singapore PMI (Nov) | 51.0 |  | 50.8 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.342% |  | 2.382% |
@@ -51,6 +51,6 @@
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q3) |  | 1.4% | 5.2% |
 | 21:45 | NZD | Terms of Trade - Imports Prices (Q3) |  | -0.6% | 3.1% |
 | 21:45 | NZD | Terms of Trade Index (QoQ) (Q3) |  | 1.2% | 2.0% |
-| 23:00 | KRW | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
 | 23:00 | KRW | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
+| 23:00 | KRW | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
 | 23:50 | JPY | Monetary Base (YoY) (Nov) |  | 0.2% | 0.0% |
