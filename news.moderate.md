@@ -5,9 +5,9 @@
 | 00:30 | AUD | Building Approvals (MoM) (Oct) | 4.2% | 1.2% | 5.8% |
 | 00:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) | -4.6% | 0.6% | -6.8% |
 | 00:30 | AUD | Retail Sales (MoM) (Oct) | 0.6% | 0.4% | 0.1% |
-| 10 min | CNY | Caixin Manufacturing PMI (Nov) |  | 50.6 | 50.3 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Nov) |  | 0.2% | 0.1% |
+| 01:45 | CNY | Caixin Manufacturing PMI (Nov) | 51.5 | 50.6 | 50.3 |
 | 07:00 | GBP | Nationwide HPI (YoY) (Nov) |  | 2.4% | 2.4% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Nov) |  | 0.2% | 0.1% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Nov) |  | 53.9 | 54.5 |
 | 08:30 | CHF | procure.ch PMI (Nov) |  | 49.6 | 49.9 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Nov) |  | 46.1 | 46.9 |

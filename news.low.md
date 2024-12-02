@@ -9,9 +9,9 @@
 | 00:30 | AUD | Business inventories (MoM) (Q3) | -0.9% | -0.2% | 0.5% |
 | 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q3) | 1.6% |  | -1.7% |
 | 00:30 | AUD | Private House Approvals (Oct) | -5.2% |  | 2.2% |
+| 00:30 | AUD | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.0 | 49.2 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
-| 03:30 | AUD | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
 | 04:00 | IDR | Core Inflation (YoY) (Nov) |  | 2.20% | 2.21% |
 | 04:00 | IDR | Inflation (MoM) (Nov) |  | 0.26% | 0.08% |
 | 04:00 | IDR | Inflation (YoY) (Nov) |  | 1.50% | 1.71% |
@@ -53,6 +53,6 @@
 | 21:45 | NZD | Terms of Trade - Exports Prices (Q3) |  | 1.4% | 5.2% |
 | 21:45 | NZD | Terms of Trade - Imports Prices (Q3) |  | -0.6% | 3.1% |
 | 21:45 | NZD | Terms of Trade Index (QoQ) (Q3) |  | 1.2% | 2.0% |
-| 23:00 | KRW | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
 | 23:00 | KRW | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
+| 23:00 | KRW | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
 | 23:50 | JPY | Monetary Base (YoY) (Nov) |  |  | -0.0% |
