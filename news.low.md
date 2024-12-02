@@ -12,8 +12,8 @@
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 49.0 | 49.0 | 49.2 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
 | 04:00 | IDR | Core Inflation (YoY) (Nov) | 2.26% | 2.20% | 2.21% |
-| 04:00 | IDR | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 04:00 | IDR | Inflation (MoM) (Nov) | 0.30% | 0.26% | 0.08% |
+| 04:00 | IDR | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
 | 05:30 | AUD | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
 | 07:30 | CHF | Retail Sales (YoY) (Oct) | 1.4% | 2.6% | 1.8% |
@@ -24,11 +24,13 @@
 | 11:00 | EUR | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:00 | EUR | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 49 min | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
-| 49 min | SGD | S&P Global Singapore PMI (Nov) |  |  | 50.8 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.382% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.824% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.613% |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
+| 12:00 | ZAR | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
+| 13:00 | BRL | S&P Global Manufacturing PMI (Nov) | 52.3 |  | 52.9 |
+| 13:00 | SGD | S&P Global Singapore PMI (Nov) | 51.0 |  | 50.8 |
+| 47 min | EUR | French 12-Month BTF Auction |  |  | 2.382% |
+| 47 min | EUR | French 3-Month BTF Auction |  |  | 2.824% |
+| 47 min | EUR | French 6-Month BTF Auction |  |  | 2.613% |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Nov) |  | 50.8 | 51.1 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Nov) |  |  | 47.1 |
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Nov) |  |  | 48.40 |

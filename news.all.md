@@ -16,8 +16,8 @@
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) | 51.5 | 50.6 | 50.3 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Nov) | 2.26% | 2.20% | 2.21% |
-| 04:00 | IDR | Low | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 04:00 | IDR | Low | Inflation (MoM) (Nov) | 0.30% | 0.26% | 0.08% |
+| 04:00 | IDR | Low | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 1.2% | 0.2% | 0.1% |
@@ -39,11 +39,13 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Nov) | -0.20% |  | 14.10% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) | 6.40% |  | 7.20% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 49 min | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
-| 49 min | SGD | Low | S&P Global Singapore PMI (Nov) |  |  | 50.8 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.382% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.824% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.613% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | 8.10% |  | 5.50% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Nov) | 48.59K |  | 47.99K |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) | 52.3 |  | 52.9 |
+| 13:00 | SGD | Low | S&P Global Singapore PMI (Nov) | 51.0 |  | 50.8 |
+| 47 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.382% |
+| 47 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.824% |
+| 47 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.613% |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Nov) |  | 50.8 | 51.1 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Nov) |  | 48.8 | 48.5 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Oct) |  | 0.2% | 0.1% |
