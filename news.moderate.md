@@ -14,9 +14,9 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Nov) | 43.1 | 43.2 | 44.5 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Nov) | 43.0 | 43.2 | 43.0 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 45.2 | 45.2 | 46.0 |
-| 22 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 48.6 | 49.9 |
-| 52 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 52 min | EUR | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) | 48.0 | 48.6 | 49.9 |
+| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | EUR | Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
 | 15:00 | USD | Construction Spending (MoM) (Oct) |  | 0.2% | 0.1% |
 | 15:00 | USD | ISM Manufacturing Employment (Nov) |  |  | 44.4 |
 | 20:15 | USD | Fed Waller Speaks |  |  |  |

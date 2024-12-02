@@ -16,8 +16,8 @@
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Nov) | 49.6 |  | 49.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) | 51.5 | 50.6 | 50.3 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Nov) | 2.26% | 2.20% | 2.21% |
-| 04:00 | IDR | Low | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 04:00 | IDR | Low | Inflation (MoM) (Nov) | 0.30% | 0.26% | 0.08% |
+| 04:00 | IDR | Low | Inflation (YoY) (Nov) | 1.55% | 1.50% | 1.71% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Nov) | 56.5 | 57.3 | 57.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Nov) | -11.8% |  | -7.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | 3.7% | 2.4% | 2.4% |
@@ -31,14 +31,13 @@
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) | 5.8% | 6.1% | 6.0% |
 | 09:00 | NOK | Low | Manufacturing PMI (Nov) | 50.7 |  | 52.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 45.2 | 45.2 | 46.0 |
-| 22 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 48.6 | 49.9 |
-| 52 min | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.4% | 0.4% |
-| 52 min | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
-| 52 min | EUR | Low | French Car Registration (YoY) (Nov) |  |  | -11.1% |
-| 52 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 52 min | EUR | Moderate | Unemployment Rate (Oct) |  | 6.3% | 6.3% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) | 48.0 | 48.6 | 49.9 |
+| 10:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.4% | 0.4% | 0.4% |
+| 10:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.0% | 0.0% |
+| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | EUR | Moderate | Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
+| 52 min | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 52 min | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 52.9 |
@@ -84,4 +83,4 @@
 | 21:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) |  | 1.2% | 2.0% |
 | 23:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.1% | 0.0% |
 | 23:00 | KRW | Low | CPI (YoY) (Nov) |  | 1.7% | 1.3% |
-| 23:50 | JPY | Low | Monetary Base (YoY) (Nov) |  |  | -0.0% |
+| 23:50 | JPY | Low | Monetary Base (YoY) (Nov) |  | 0.2% | 0.0% |
