@@ -17,8 +17,8 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) | 48.0 | 48.6 | 49.9 |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Unemployment Rate (Oct) | 6.3% | 6.3% | 6.3% |
-| 53 min | USD | Construction Spending (MoM) (Oct) |  | 0.2% | 0.1% |
-| 53 min | USD | ISM Manufacturing Employment (Nov) |  |  | 44.4 |
+| 15:00 | USD | Construction Spending (MoM) (Oct) | 0.4% | 0.2% | 0.1% |
+| 15:00 | USD | ISM Manufacturing Employment (Nov) | 48.1 |  | 44.4 |
 | 20:15 | USD | Fed Waller Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 40.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 193.9K |
