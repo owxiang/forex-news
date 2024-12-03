@@ -27,8 +27,8 @@
 | 16:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.98M |  | 9.00M |
 | 16:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.94M |  | 2.92M |
 | 16:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.86M |
-| 20:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 415.70B |
+| 38 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 53 min | KRW | FX Reserves - USD (Nov) |  |  | 415.70B |
 | 22:00 | AUD | AIG Construction Index (Nov) |  |  | -40.9 |
 | 22:00 | AUD | AIG Manufacturing Index (Nov) |  |  | -19.7 |
 | 22:00 | AUD | Judo Bank Australia Services PMI (Nov) |  | 49.6 | 51.0 |
