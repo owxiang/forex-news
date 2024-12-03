@@ -14,7 +14,7 @@
 | 12:00 | NZD | GlobalDairyTrade Price Index | 1.2% |  | 1.9% |
 | 12:00 | USD | Milk Auctions | 4,193.0 |  | 4,089.0 |
 | 13:55 | USD | Redbook (YoY) | 7.4% |  | 4.9% |
-| 4 min | USD | IBD/TIPP Economic Optimism (Dec) |  | 54.1 | 53.2 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Dec) | 54.0 | 54.1 | 53.2 |
 | 20:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 415.70B |
 | 22:00 | AUD | AIG Construction Index (Nov) |  |  | -40.9 |

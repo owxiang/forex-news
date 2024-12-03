@@ -24,7 +24,7 @@
 | 12:00 | USD | Low | Milk Auctions | 4,193.0 |  | 4,089.0 |
 | 13:55 | USD | Low | Redbook (YoY) | 7.4% |  | 4.9% |
 | 15:00 | USD | High | JOLTS Job Openings (Oct) | 7.744M | 7.510M | 7.372M |
-| 4 min | USD | Low | IBD/TIPP Economic Optimism (Dec) |  | 54.1 | 53.2 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Dec) | 54.0 | 54.1 | 53.2 |
 | 20:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 415.70B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.060M | -5.935M |
