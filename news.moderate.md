@@ -9,6 +9,6 @@
 | 08:00 | EUR | Spanish Unemployment Change (Nov) | -16.0K | 29.3K | 26.8K |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) | 1.17% |  | 0.80% |
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q3) | -0.3% |  | 0.4% |
-| 12:00 | BRL | GDP (QoQ) (Q3) |  | 0.8% | 1.4% |
-| 12:00 | BRL | GDP (YoY) (Q3) |  | 4.0% | 3.3% |
+| 54 min | BRL | GDP (QoQ) (Q3) |  | 0.8% | 1.4% |
+| 54 min | BRL | GDP (YoY) (Q3) |  | 4.0% | 3.3% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -5.935M |
