@@ -7,12 +7,10 @@
 | 09:30 | ZAR | GDP (YoY) (Q3) | 0.3% |  | 0.3% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.207% |  | 2.610% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 2.552% |  | 2.840% |
-| 54 min | MXN | Gross Fixed Investments (YoY) (Sep) |  |  | -1.90% |
-| 54 min | MXN | Gross Fixed Investments (MoM) (Sep) |  |  | -1.90% |
-| 54 min | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
-| 54 min | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.90% | 2.90% |
-| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 1.9% |
-| 54 min | USD | Milk Auctions |  |  | 4,089.0 |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Sep) | -3.30% |  | -1.90% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Sep) | -0.80% |  | -1.90% |
+| 12:00 | MXN | Unemployment Rate (Oct) | 2.50% |  | 2.70% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Oct) | 2.50% | 2.90% | 2.90% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Dec) |  | 54.1 | 53.2 |
 | 20:45 | USD | Fed Goolsbee Speaks |  |  |  |
