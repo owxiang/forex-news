@@ -6,21 +6,20 @@
 | 00:30 | AUD | Moderate | Current Account (Q3) | -14.1B | -10.3B | -16.4B |
 | 00:30 | AUD | Low | Net Exports Contribution (Q3) | 0.1% | 0.4% | 0.2% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.084% |  | 1.000% |
-| 24 min | CHF | Low | CPI (YoY) (Nov) |  | 0.8% | 0.6% |
-| 24 min | CHF | Moderate | CPI (MoM) (Nov) |  | -0.1% | -0.1% |
-| 39 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 54 min | EUR | Moderate | Spanish Unemployment Change (Nov) |  | 29.3K | 26.8K |
-| 54 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.80% |
-| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) |  |  | 0.4% |
+| 07:30 | CHF | Low | CPI (YoY) (Nov) | 0.7% | 0.8% | 0.6% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.1% | -0.1% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) | -16.0K | 29.3K | 26.8K |
+| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 1.17% |  | 0.80% |
+| 52 min | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 09:30 | ZAR | Low | GDP (YoY) (Q3) |  |  | 0.3% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) |  |  | 0.4% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.610% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.840% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
 | 10:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | -11.1% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | -1.90% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | -1.90% |
 | 12:00 | MXN | Low | Unemployment Rate (Oct) |  |  | 2.70% |
