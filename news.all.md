@@ -6,8 +6,8 @@
 | 00:30 | AUD | Moderate | Current Account (Q3) | -14.1B | -10.3B | -16.4B |
 | 00:30 | AUD | Low | Net Exports Contribution (Q3) | 0.1% | 0.4% | 0.2% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.084% |  | 1.000% |
-| 07:30 | CHF | Low | CPI (YoY) (Nov) | 0.7% | 0.8% | 0.6% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.1% | -0.1% | -0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Nov) | 0.7% | 0.8% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) | -16.0K | 29.3K | 26.8K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 1.17% |  | 0.80% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q3) | 0.3% |  | 0.3% |
@@ -30,4 +30,4 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.232M | -2.060M | -5.935M |
 | 22:00 | AUD | Low | AIG Construction Index (Nov) | -19.0 |  | -40.9 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Nov) | -17.9 |  | -19.7 |
-| 22:00 | AUD | Low | Judo Bank Australia Services PMI (Nov) |  | 49.6 | 51.0 |
+| 22:00 | AUD | Low | Judo Bank Australia Services PMI (Nov) | 50.5 | 49.6 | 51.0 |

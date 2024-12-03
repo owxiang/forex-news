@@ -19,4 +19,4 @@
 | 21:00 | KRW | FX Reserves - USD (Nov) | 415.39B |  | 415.70B |
 | 22:00 | AUD | AIG Construction Index (Nov) | -19.0 |  | -40.9 |
 | 22:00 | AUD | AIG Manufacturing Index (Nov) | -17.9 |  | -19.7 |
-| 22:00 | AUD | Judo Bank Australia Services PMI (Nov) |  | 49.6 | 51.0 |
+| 22:00 | AUD | Judo Bank Australia Services PMI (Nov) | 50.5 | 49.6 | 51.0 |
