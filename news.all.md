@@ -20,8 +20,8 @@
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Oct) | 2.50% | 2.90% | 2.90% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q3) | 0.9% | 0.8% | 1.4% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q3) | 4.0% | 4.0% | 3.3% |
-| 42 min | USD | Low | Redbook (YoY) |  |  | 4.9% |
-| 15:00 | USD | High | JOLTS Job Openings (Oct) |  | 7.510M | 7.443M |
+| 13:55 | USD | Low | Redbook (YoY) | 7.4% |  | 4.9% |
+| 54 min | USD | High | JOLTS Job Openings (Oct) |  | 7.510M | 7.443M |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Dec) |  | 54.1 | 53.2 |
 | 20:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 415.70B |

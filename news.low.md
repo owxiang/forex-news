@@ -11,7 +11,7 @@
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Sep) | -3.30% |  | -1.90% |
 | 12:00 | MXN | Unemployment Rate (Oct) | 2.50% |  | 2.70% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Oct) | 2.50% | 2.90% | 2.90% |
-| 42 min | USD | Redbook (YoY) |  |  | 4.9% |
+| 13:55 | USD | Redbook (YoY) | 7.4% |  | 4.9% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Dec) |  | 54.1 | 53.2 |
 | 20:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | KRW | FX Reserves - USD (Nov) |  |  | 415.70B |
