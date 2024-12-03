@@ -5,9 +5,9 @@
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Nov) | -3.4% | 0.7% | 0.3% |
 | 00:30 | AUD | Current Account (Q3) | -14.1B | -10.3B | -16.4B |
 | 03:35 | JPY | 10-Year JGB Auction | 1.084% |  | 1.000% |
-| 07:30 | CHF | CPI (MoM) (Nov) |  | -0.1% | -0.1% |
-| 08:00 | EUR | Spanish Unemployment Change (Nov) |  | 29.3K | 26.8K |
-| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.80% |
+| 24 min | CHF | CPI (MoM) (Nov) |  | -0.1% | -0.1% |
+| 54 min | EUR | Spanish Unemployment Change (Nov) |  | 29.3K | 26.8K |
+| 54 min | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.80% |
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q3) |  |  | 0.4% |
 | 12:00 | BRL | GDP (QoQ) (Q3) |  | 0.8% | 1.4% |
 | 12:00 | BRL | GDP (YoY) (Q3) |  | 4.0% | 3.3% |
