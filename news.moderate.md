@@ -11,4 +11,4 @@
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q3) | -0.3% |  | 0.4% |
 | 12:00 | BRL | GDP (QoQ) (Q3) | 0.9% | 0.8% | 1.4% |
 | 12:00 | BRL | GDP (YoY) (Q3) | 4.0% | 4.0% | 3.3% |
-| 24 min | USD | API Weekly Crude Oil Stock |  | -2.060M | -5.935M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 1.232M | -2.060M | -5.935M |
