@@ -14,14 +14,14 @@
 | 09:30 | ZAR | Low | GDP (YoY) (Q3) | 0.3% |  | 0.3% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.207% |  | 2.610% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.552% |  | 2.840% |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) | -3.30% |  | -1.90% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) | -0.80% |  | -1.90% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) | -3.30% |  | -1.90% |
 | 12:00 | MXN | Low | Unemployment Rate (Oct) | 2.50% |  | 2.70% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Oct) | 2.50% | 2.90% | 2.90% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q3) | 0.9% | 0.8% | 1.4% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q3) | 4.0% | 4.0% | 3.3% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
-| 15:00 | USD | High | JOLTS Job Openings (Oct) |  | 7.490M | 7.443M |
+| 42 min | USD | Low | Redbook (YoY) |  |  | 4.9% |
+| 15:00 | USD | High | JOLTS Job Openings (Oct) |  | 7.510M | 7.443M |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Dec) |  | 54.1 | 53.2 |
 | 20:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 415.70B |

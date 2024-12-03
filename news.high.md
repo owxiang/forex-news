@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | JOLTS Job Openings (Oct) |  | 7.490M | 7.443M |
+| 15:00 | USD | JOLTS Job Openings (Oct) |  | 7.510M | 7.443M |
