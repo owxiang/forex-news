@@ -5,17 +5,17 @@
 | 00:30 | AUD | Net Exports Contribution (Q3) | 0.1% | 0.4% | 0.2% |
 | 07:30 | CHF | CPI (YoY) (Nov) |  | 0.8% | 0.6% |
 | 07:45 | EUR | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 09:00 | ZAR | GDP (YoY) (Q3) |  |  | 0.3% |
 | 09:00 | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 09:30 | ZAR | GDP (YoY) (Q3) |  |  | 0.3% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.610% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.840% |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
 | 10:00 | EUR | French Car Registration (YoY) (Nov) |  |  | -11.1% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Sep) |  |  | -1.90% |
+| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Sep) |  |  | -1.90% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Sep) |  |  | -1.90% |
 | 12:00 | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.90% | 2.90% |
 | 12:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.9% |

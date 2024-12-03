@@ -11,18 +11,18 @@
 | 07:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) |  | 29.3K | 26.8K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.80% |
-| 09:00 | ZAR | Low | GDP (YoY) (Q3) |  |  | 0.3% |
 | 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) |  |  | 0.4% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q3) |  |  | 0.3% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.610% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.840% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
 | 10:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | -11.1% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | -1.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | -1.90% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | -1.90% |
 | 12:00 | MXN | Low | Unemployment Rate (Oct) |  |  | 2.70% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Oct) |  | 2.90% | 2.90% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 1.4% |
