@@ -10,15 +10,12 @@
 | 07:30 | CHF | Low | CPI (YoY) (Nov) | 0.7% | 0.8% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Nov) | -16.0K | 29.3K | 26.8K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 1.17% |  | 0.80% |
-| 23 min | ZAR | Low | GDP (YoY) (Q3) |  |  | 0.3% |
-| 23 min | ZAR | Moderate | GDP Annualized (QoQ) (Q3) |  |  | 0.4% |
-| 33 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.610% |
-| 33 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.840% |
-| 53 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
-| 53 min | EUR | Low | French Car Registration (YoY) (Nov) |  |  | -11.1% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q3) | -0.3% |  | 0.4% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q3) | 0.3% |  | 0.3% |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
+| 23 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
+| 53 min | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 53 min | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | -1.90% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | -1.90% |
 | 12:00 | MXN | Low | Unemployment Rate (Oct) |  |  | 2.70% |
