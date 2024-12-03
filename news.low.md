@@ -4,12 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Net Exports Contribution (Q3) | 0.1% | 0.4% | 0.2% |
 | 07:30 | CHF | CPI (YoY) (Nov) | 0.7% | 0.8% | 0.6% |
-| 52 min | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
-| 09:30 | ZAR | GDP (YoY) (Q3) |  |  | 0.3% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.610% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.840% |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
-| 10:00 | EUR | French Car Registration (YoY) (Nov) |  |  | -11.1% |
+| 23 min | ZAR | GDP (YoY) (Q3) |  |  | 0.3% |
+| 33 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.610% |
+| 33 min | EUR | Spanish 6-Month Letras Auction |  |  | 2.840% |
+| 53 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
+| 53 min | EUR | French Car Registration (YoY) (Nov) |  |  | -11.1% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
 | 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
