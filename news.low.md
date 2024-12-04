@@ -24,14 +24,14 @@
 | 12:00 | BRL | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
 | 13:00 | BRL | S&P Global Composite PMI (Nov) | 53.5 |  | 55.9 |
 | 13:00 | BRL | S&P Global Services PMI (Nov) | 53.6 |  | 56.2 |
-| 2 min | CAD | Reserve Assets Total (Nov) |  |  | 123.1B |
-| 15:00 | USD | All Car Sales (Nov) | 2.96M |  | 3.04M |
-| 15:00 | USD | All Truck Sales (Nov) | 13.54M |  | 13.21M |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Oct) |  | 0.4% | 0.4% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.1% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.1% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 57.2 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) |  | 56.6 | 57.4 |
+| 13:15 | CAD | Reserve Assets Total (Nov) | 122.6B |  | 123.1B |
+| 53 min | USD | All Car Sales (Nov) | 2.96M |  | 3.04M |
+| 53 min | USD | All Truck Sales (Nov) | 13.54M |  | 13.21M |
+| 53 min | USD | Durables Excluding Defense (MoM) (Oct) |  | 0.4% | 0.4% |
+| 53 min | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.1% |
+| 53 min | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.1% |
+| 53 min | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 57.2 |
+| 53 min | USD | ISM Non-Manufacturing New Orders (Nov) |  | 56.6 | 57.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.067M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.886M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.259M |

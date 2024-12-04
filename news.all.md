@@ -38,23 +38,23 @@
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Nov) | 53.5 |  | 55.9 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 53.6 |  | 56.2 |
-| 2 min | USD | High | ADP Nonfarm Employment Change (Nov) |  | 166K | 233K |
-| 2 min | CAD | Low | Reserve Assets Total (Nov) |  |  | 123.1B |
-| 17 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.2% |
-| 17 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 55.3 | 54.1 |
-| 14:45 | USD | High | S&P Global Services PMI (Nov) |  | 57.0 | 55.0 |
-| 15:00 | USD | Low | All Car Sales (Nov) | 2.96M |  | 3.04M |
-| 15:00 | USD | Low | All Truck Sales (Nov) | 13.54M |  | 13.21M |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | 0.4% | 0.4% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.1% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  | 0.3% | -0.5% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.1% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Nov) |  |  | 57.2 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Nov) |  | 53.0 | 53.0 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Nov) |  | 56.6 | 57.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Nov) |  | 55.5 | 56.0 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Nov) |  | 56.4 | 58.1 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) | 146K | 166K | 184K |
+| 13:15 | CAD | Low | Reserve Assets Total (Nov) | 122.6B |  | 123.1B |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | -0.4% | 0.2% | -0.1% |
+| 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 38 min | USD | Moderate | S&P Global Composite PMI (Nov) |  | 55.3 | 54.1 |
+| 38 min | USD | High | S&P Global Services PMI (Nov) |  | 57.0 | 55.0 |
+| 53 min | USD | Low | All Car Sales (Nov) | 2.96M |  | 3.04M |
+| 53 min | USD | Low | All Truck Sales (Nov) | 13.54M |  | 13.21M |
+| 53 min | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | 0.4% | 0.4% |
+| 53 min | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.1% |
+| 53 min | USD | Moderate | Factory Orders (MoM) (Oct) |  | 0.3% | -0.5% |
+| 53 min | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.1% |
+| 53 min | USD | Low | ISM Non-Manufacturing Business Activity (Nov) |  |  | 57.2 |
+| 53 min | USD | Moderate | ISM Non-Manufacturing Employment (Nov) |  | 53.0 | 53.0 |
+| 53 min | USD | Low | ISM Non-Manufacturing New Orders (Nov) |  | 56.6 | 57.4 |
+| 53 min | USD | High | ISM Non-Manufacturing PMI (Nov) |  | 55.5 | 56.0 |
+| 53 min | USD | High | ISM Non-Manufacturing Prices (Nov) |  | 56.4 | 58.1 |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | -1.844M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.067M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.886M |

@@ -16,11 +16,11 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) | 50.5 | 49.9 | 51.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) | 50.8 | 50.0 | 52.0 |
 | 12:00 | BRL | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
-| 17 min | CAD | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.2% |
-| 17 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Nov) |  | 55.3 | 54.1 |
-| 15:00 | USD | Factory Orders (MoM) (Oct) |  | 0.3% | -0.5% |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Nov) |  | 53.0 | 53.0 |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q3) | -0.4% | 0.2% | -0.1% |
+| 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 38 min | USD | S&P Global Composite PMI (Nov) |  | 55.3 | 54.1 |
+| 53 min | USD | Factory Orders (MoM) (Oct) |  | 0.3% | -0.5% |
+| 53 min | USD | ISM Non-Manufacturing Employment (Nov) |  | 53.0 | 53.0 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.909M |
 | 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:10 | EUR | German Buba President Nagel Speaks |  |  |  |
