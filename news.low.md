@@ -22,9 +22,11 @@
 | 12:00 | USD | Mortgage Market Index | 213.9 |  | 208.0 |
 | 12:00 | USD | Mortgage Refinance Index | 498.5 |  | 501.7 |
 | 12:00 | BRL | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
-| 49 min | BRL | S&P Global Composite PMI (Nov) |  |  | 55.9 |
-| 49 min | BRL | S&P Global Services PMI (Nov) |  |  | 56.2 |
-| 13:15 | CAD | Reserve Assets Total (Nov) |  |  | 123.1B |
+| 13:00 | BRL | S&P Global Composite PMI (Nov) | 53.5 |  | 55.9 |
+| 13:00 | BRL | S&P Global Services PMI (Nov) | 53.6 |  | 56.2 |
+| 2 min | CAD | Reserve Assets Total (Nov) |  |  | 123.1B |
+| 15:00 | USD | All Car Sales (Nov) | 2.96M |  | 3.04M |
+| 15:00 | USD | All Truck Sales (Nov) | 13.54M |  | 13.21M |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Oct) |  | 0.4% | 0.4% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.1% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.1% |

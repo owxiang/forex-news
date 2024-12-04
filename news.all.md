@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
 | 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.5% |  | 0.2% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q3) | -0.2% |  | -0.9% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
@@ -36,14 +36,16 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 498.5 |  | 501.7 |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
-| 49 min | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 55.9 |
-| 49 min | BRL | Low | S&P Global Services PMI (Nov) |  |  | 56.2 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 166K | 233K |
-| 13:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 123.1B |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.2% |
-| 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Nov) | 53.5 |  | 55.9 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 53.6 |  | 56.2 |
+| 2 min | USD | High | ADP Nonfarm Employment Change (Nov) |  | 166K | 233K |
+| 2 min | CAD | Low | Reserve Assets Total (Nov) |  |  | 123.1B |
+| 17 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.2% |
+| 17 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 55.3 | 54.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Nov) |  | 57.0 | 55.0 |
+| 15:00 | USD | Low | All Car Sales (Nov) | 2.96M |  | 3.04M |
+| 15:00 | USD | Low | All Truck Sales (Nov) | 13.54M |  | 13.21M |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  | 0.4% | 0.4% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.1% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  | 0.3% | -0.5% |
