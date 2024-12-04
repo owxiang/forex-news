@@ -18,10 +18,10 @@
 | 12:00 | BRL | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q3) | -0.4% | 0.2% | -0.1% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 38 min | USD | S&P Global Composite PMI (Nov) |  | 55.3 | 54.1 |
-| 53 min | USD | Factory Orders (MoM) (Oct) |  | 0.3% | -0.5% |
-| 53 min | USD | ISM Non-Manufacturing Employment (Nov) |  | 53.0 | 53.0 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.909M |
-| 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Nov) | 54.9 | 55.3 | 54.1 |
+| 15:00 | USD | Factory Orders (MoM) (Oct) | 0.2% | 0.3% | -0.2% |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Nov) | 51.5 | 53.0 | 53.0 |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.909M |
+| 23 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:10 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
