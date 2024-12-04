@@ -24,7 +24,7 @@
 | 12:00 | BRL | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
 | 13:00 | BRL | S&P Global Composite PMI (Nov) | 53.5 |  | 55.9 |
 | 13:00 | BRL | S&P Global Services PMI (Nov) | 53.6 |  | 56.2 |
-| 13:15 | CAD | Reserve Assets Total (Dec) | 122.6B |  | 123.1B |
+| 13:15 | CAD | Reserve Assets Total (Nov) | 122.6B |  | 123.1B |
 | 15:00 | USD | All Car Sales (Nov) | 2.96M |  | 3.04M |
 | 15:00 | USD | All Truck Sales (Nov) | 13.54M |  | 13.21M |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Oct) | 0.5% | 0.4% | 0.4% |
@@ -32,18 +32,17 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Oct) | 0.1% |  | 0.1% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Nov) | 53.7 |  | 57.2 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Nov) | 53.7 | 56.6 | 57.4 |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.067M |
-| 23 min | USD | Crude Oil Imports |  |  | -1.886M |
-| 23 min | USD | Distillate Fuel Production |  |  | 0.259M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  |  | 0.416M |
-| 23 min | USD | Gasoline Production |  |  | 0.457M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | -1.134M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
-| 23 min | USD | Gasoline Inventories |  |  | 3.314M |
-| 23 min | USD | Natural Gas Storage |  |  | -2B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.615M |  | 0.067M |
+| 15:30 | USD | Crude Oil Imports | 1.635M |  | -1.886M |
+| 15:30 | USD | Distillate Fuel Production | 0.219M |  | 0.259M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 3.383M | 2.000M | 0.416M |
+| 15:30 | USD | Gasoline Production | -0.248M |  | 0.457M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.242M |  | -1.134M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.8% |  | 0.3% |
+| 15:30 | USD | Gasoline Inventories | 2.362M | 0.600M | 3.314M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.019B |
-| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
+| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -446.0B |

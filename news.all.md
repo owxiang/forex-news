@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
-| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
+| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.5% |  | 0.2% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q3) | -0.2% |  | -0.9% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
@@ -34,12 +34,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 161.5 |  | 152.9 |
 | 12:00 | USD | Low | Mortgage Market Index | 213.9 |  | 208.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 498.5 |  | 501.7 |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Nov) | 53.5 |  | 55.9 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 53.6 |  | 56.2 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) | 146K | 166K | 184K |
-| 13:15 | CAD | Low | Reserve Assets Total (Dec) | 122.6B |  | 123.1B |
+| 13:15 | CAD | Low | Reserve Assets Total (Nov) | 122.6B |  | 123.1B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | -0.4% | 0.2% | -0.1% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 54.9 | 55.3 | 54.1 |
@@ -55,24 +55,23 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Nov) | 53.7 | 56.6 | 57.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Nov) | 52.1 | 55.5 | 56.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Nov) | 58.2 | 56.4 | 58.1 |
-| 23 min | USD | High | Crude Oil Inventories |  | -1.600M | -1.844M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.067M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | -1.886M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.909M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.259M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.416M |
-| 23 min | USD | Low | Gasoline Production |  |  | 0.457M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -1.134M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.3% |
-| 23 min | USD | Low | Gasoline Inventories |  |  | 3.314M |
-| 23 min | USD | Low | Natural Gas Storage |  |  | -2B |
-| 23 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | -5.073M | -1.600M | -1.844M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.615M |  | 0.067M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.635M |  | -1.886M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.050M |  | -0.909M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.219M |  | 0.259M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 3.383M | 2.000M | 0.416M |
+| 15:30 | USD | Low | Gasoline Production | -0.248M |  | 0.457M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.242M |  | -1.134M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.8% |  | 0.3% |
+| 15:30 | USD | Low | Gasoline Inventories | 2.362M | 0.600M | 3.314M |
+| 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.019B |
 | 18:45 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -446.0B |

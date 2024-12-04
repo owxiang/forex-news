@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
+| 00:30 | AUD | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.5 | 50.2 | 49.7 |
 | 01:45 | CNY | Caixin Services PMI (Nov) | 51.5 | 52.5 | 52.0 |
 | 08:15 | EUR | HCOB Spain Services PMI (Nov) | 53.1 | 53.6 | 54.9 |
@@ -21,7 +21,7 @@
 | 14:45 | USD | S&P Global Composite PMI (Nov) | 54.9 | 55.3 | 54.1 |
 | 15:00 | USD | Factory Orders (MoM) (Oct) | 0.2% | 0.3% | -0.2% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Nov) | 51.5 | 53.0 | 53.0 |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.909M |
-| 23 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.050M |  | -0.909M |
+| 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:10 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
