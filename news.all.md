@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
 | 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.5% |  | 0.2% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q3) | -0.2% |  | -0.9% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
@@ -13,19 +13,19 @@
 | 01:45 | CNY | Moderate | Caixin Services PMI (Nov) | 51.5 | 52.5 | 52.0 |
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 58.4 | 59.2 | 58.5 |
 | 07:00 | NOK | Low | Current Account (Q3) | 225.5B |  | 232.3B |
-| 8 min | ZAR | Low | S&P Global South Africa PMI (Nov) |  |  | 50.6 |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 53.6 | 54.9 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Nov) |  |  | 51.0 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 51.1 | 52.4 |
-| 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Nov) |  | 44.8 | 48.1 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Nov) |  | 45.7 | 49.2 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 47.3 | 48.6 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 49.4 | 51.6 |
-| 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 48.1 | 50.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 49.2 | 51.6 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 07:15 | ZAR | Low | S&P Global South Africa PMI (Nov) | 50.9 |  | 50.6 |
+| 7 min | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 53.6 | 54.9 |
+| 37 min | EUR | Low | HCOB Italy Composite PMI (Nov) |  |  | 51.0 |
+| 37 min | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 51.1 | 52.4 |
+| 37 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
+| 42 min | EUR | Low | HCOB France Composite PMI (Nov) |  | 44.8 | 48.1 |
+| 42 min | EUR | Moderate | HCOB France Services PMI (Nov) |  | 45.7 | 49.2 |
+| 47 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 47.3 | 48.6 |
+| 47 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 49.4 | 51.6 |
+| 52 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 48.1 | 50.0 |
+| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 49.2 | 51.6 |
+| 52 min | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 49.9 | 51.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.0 | 52.0 |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
@@ -36,8 +36,8 @@
 | 10:00 | EUR | Low | PPI (YoY) (Oct) |  |  | -3.4% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 6.3% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 152.9 |
@@ -80,8 +80,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.019B |
 | 18:45 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -446.0B |
