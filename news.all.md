@@ -27,19 +27,17 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) | 50.5 | 49.9 | 51.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) | 50.8 | 50.0 | 52.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Nov) | 5.20% |  | 4.90% |
-| 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 6.3% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 152.9 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 208.0 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 501.7 |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Oct) |  |  | 3.4% |
-| 54 min | BRL | Low | Industrial Production (MoM) (Oct) |  |  | 1.1% |
-| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.9% |
-| 54 min | USD | Low | Milk Auctions |  |  | 4,089.0 |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 55.9 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 56.2 |
+| 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.69% |  | 6.86% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.8% |  | 6.3% |
+| 12:00 | USD | Low | MBA Purchase Index | 161.5 |  | 152.9 |
+| 12:00 | USD | Low | Mortgage Market Index | 213.9 |  | 208.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 498.5 |  | 501.7 |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
+| 49 min | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 55.9 |
+| 49 min | BRL | Low | S&P Global Services PMI (Nov) |  |  | 56.2 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 166K | 233K |
 | 13:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 123.1B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.2% |
@@ -71,8 +69,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.019B |
 | 18:45 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -446.0B |

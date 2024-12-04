@@ -14,18 +14,16 @@
 | 08:50 | EUR | HCOB France Composite PMI (Nov) | 45.9 | 44.8 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) | 47.2 | 47.3 | 48.6 |
 | 10:00 | NOK | House Price Index (YoY) (Nov) | 5.20% |  | 4.90% |
-| 10:00 | EUR | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
 | 10:00 | EUR | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 6.3% |
-| 54 min | USD | MBA Purchase Index |  |  | 152.9 |
-| 54 min | USD | Mortgage Market Index |  |  | 208.0 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 501.7 |
-| 54 min | BRL | Industrial Production (MoM) (Oct) |  |  | 1.1% |
-| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 1.9% |
-| 54 min | USD | Milk Auctions |  |  | 4,089.0 |
-| 13:00 | BRL | S&P Global Composite PMI (Nov) |  |  | 55.9 |
-| 13:00 | BRL | S&P Global Services PMI (Nov) |  |  | 56.2 |
+| 10:00 | EUR | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.69% |  | 6.86% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 2.8% |  | 6.3% |
+| 12:00 | USD | MBA Purchase Index | 161.5 |  | 152.9 |
+| 12:00 | USD | Mortgage Market Index | 213.9 |  | 208.0 |
+| 12:00 | USD | Mortgage Refinance Index | 498.5 |  | 501.7 |
+| 12:00 | BRL | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
+| 49 min | BRL | S&P Global Composite PMI (Nov) |  |  | 55.9 |
+| 49 min | BRL | S&P Global Services PMI (Nov) |  |  | 56.2 |
 | 13:15 | CAD | Reserve Assets Total (Nov) |  |  | 123.1B |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Oct) |  | 0.4% | 0.4% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.1% |
@@ -42,8 +40,8 @@
 | 15:30 | USD | Gasoline Inventories |  |  | 3.314M |
 | 15:30 | USD | Natural Gas Storage |  |  | -2B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.019B |
-| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
+| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -446.0B |
