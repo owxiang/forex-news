@@ -7,7 +7,7 @@
 | 00:30 | AUD | GDP Chain Price Index (Q3) | -0.2% |  | -0.9% |
 | 00:30 | AUD | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
 | 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Nov) | 51.2 |  | 52.2 |
-| 52 min | INR | HSBC India Services PMI (Nov) |  | 59.2 | 58.5 |
+| 05:00 | INR | HSBC India Services PMI (Nov) | 58.4 | 59.2 | 58.5 |
 | 07:00 | NOK | Current Account (Q3) |  |  | 231.8B |
 | 07:15 | ZAR | S&P Global South Africa PMI (Nov) |  |  | 50.6 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Nov) |  |  | 51.0 |
@@ -22,8 +22,8 @@
 | 10:00 | EUR | PPI (MoM) (Oct) |  | 0.4% | -0.6% |
 | 10:00 | EUR | PPI (YoY) (Oct) |  |  | -3.4% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 6.3% |
 | 12:00 | USD | MBA Purchase Index |  |  | 152.9 |
