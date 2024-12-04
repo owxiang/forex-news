@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
-| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
+| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.5% |  | 0.2% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q3) | -0.2% |  | -0.9% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
@@ -27,8 +27,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) | 50.5 | 49.9 | 51.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) | 50.8 | 50.0 | 52.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Nov) | 5.20% |  | 4.90% |
-| 10:00 | EUR | Low | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
 | 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.69% |  | 6.86% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.8% |  | 6.3% |
 | 12:00 | USD | Low | MBA Purchase Index | 161.5 |  | 152.9 |
@@ -70,7 +70,7 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 0.389B |  | -0.019B |
 | 18:45 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 54 min | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
-| 54 min | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -773.7B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -446.0B |
+| 23:00 | KRW | Low | GDP (YoY) (Q3) | 1.5% | 1.5% | 1.5% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q3) | 0.1% | 0.5% | 0.1% |
+| 43 min | JPY | Low | Foreign Bonds Buying |  |  | -773.7B |
+| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -446.0B |
