@@ -5,7 +5,7 @@
 | 00:30 | AUD | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
 | 00:30 | AUD | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.5 | 50.2 | 49.7 |
-| 11 min | CNY | Caixin Services PMI (Nov) |  | 52.5 | 52.0 |
+| 01:45 | CNY | Caixin Services PMI (Nov) | 51.5 | 52.5 | 52.0 |
 | 08:15 | EUR | HCOB Spain Services PMI (Nov) |  | 53.6 | 54.9 |
 | 08:45 | EUR | HCOB Italy Services PMI (Nov) |  | 51.1 | 52.4 |
 | 08:50 | EUR | HCOB France Services PMI (Nov) |  | 45.7 | 49.2 |

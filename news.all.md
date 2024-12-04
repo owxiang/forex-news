@@ -10,7 +10,7 @@
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Nov) | 50.5 | 50.2 | 49.7 |
 | 00:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Nov) | 51.2 |  | 52.2 |
-| 11 min | CNY | Moderate | Caixin Services PMI (Nov) |  | 52.5 | 52.0 |
+| 01:45 | CNY | Moderate | Caixin Services PMI (Nov) | 51.5 | 52.5 | 52.0 |
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) |  | 59.2 | 58.5 |
 | 07:00 | NOK | Low | Current Account (Q3) |  |  | 231.8B |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Nov) |  |  | 50.6 |
