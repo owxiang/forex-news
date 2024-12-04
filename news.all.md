@@ -24,19 +24,15 @@
 | 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 48.3 | 48.1 | 50.0 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 49.5 | 49.2 | 51.6 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 49.9 | 51.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.0 | 52.0 |
-| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
-| 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 3.988% |
-| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Nov) |  |  | 4.90% |
-| 10:00 | EUR | Low | PPI (MoM) (Oct) |  | 0.4% | -0.6% |
-| 10:00 | EUR | Low | PPI (YoY) (Oct) |  |  | -3.4% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) | 50.5 | 49.9 | 51.8 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) | 50.8 | 50.0 | 52.0 |
+| 10:00 | NOK | Low | House Price Index (YoY) (Nov) | 5.20% |  | 4.90% |
+| 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
+| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
+| 23 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
+| 53 min | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 53 min | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 6.3% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 152.9 |
@@ -79,8 +75,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.019B |
 | 18:45 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -446.0B |

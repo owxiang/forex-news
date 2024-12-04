@@ -13,16 +13,12 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Nov) | 47.7 |  | 51.0 |
 | 08:50 | EUR | HCOB France Composite PMI (Nov) | 45.9 | 44.8 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) | 47.2 | 47.3 | 48.6 |
-| 09:00 | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 3.988% |
-| 10:00 | EUR | German Car Registration (YoY) |  |  | 6.0% |
-| 10:00 | NOK | House Price Index (YoY) (Nov) |  |  | 4.90% |
-| 10:00 | EUR | PPI (MoM) (Oct) |  | 0.4% | -0.6% |
-| 10:00 | EUR | PPI (YoY) (Oct) |  |  | -3.4% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
-| 11:00 | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
+| 10:00 | NOK | House Price Index (YoY) (Nov) | 5.20% |  | 4.90% |
+| 10:00 | EUR | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
+| 10:00 | EUR | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
+| 23 min | EUR | German 2-Year Schatz Auction |  |  | 2.110% |
+| 53 min | EUR | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 53 min | EUR | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 6.3% |
 | 12:00 | USD | MBA Purchase Index |  |  | 152.9 |
@@ -49,8 +45,8 @@
 | 15:30 | USD | Gasoline Inventories |  |  | 3.314M |
 | 15:30 | USD | Natural Gas Storage |  |  | -2B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.019B |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
+| 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -446.0B |

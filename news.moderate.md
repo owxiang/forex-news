@@ -13,9 +13,9 @@
 | 09:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 48.3 | 48.1 | 50.0 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Nov) | 49.5 | 49.2 | 51.6 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) |  | 49.9 | 51.8 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 50.0 | 52.0 |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.380% |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) | 50.5 | 49.9 | 51.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) | 50.8 | 50.0 | 52.0 |
+| 23 min | EUR | German 10-Year Bund Auction |  |  | 2.380% |
 | 12:00 | BRL | Industrial Production (YoY) (Oct) |  |  | 3.4% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.2% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
