@@ -10,11 +10,10 @@
 | 05:00 | INR | HSBC India Services PMI (Nov) | 58.4 | 59.2 | 58.5 |
 | 07:00 | NOK | Current Account (Q3) | 225.5B |  | 232.3B |
 | 07:15 | ZAR | S&P Global South Africa PMI (Nov) | 50.9 |  | 50.6 |
-| 37 min | EUR | HCOB Italy Composite PMI (Nov) |  |  | 51.0 |
-| 37 min | EUR | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 42 min | EUR | HCOB France Composite PMI (Nov) |  | 44.8 | 48.1 |
-| 47 min | EUR | HCOB Germany Composite PMI (Nov) |  | 47.3 | 48.6 |
-| 52 min | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Nov) | 47.7 |  | 51.0 |
+| 08:50 | EUR | HCOB France Composite PMI (Nov) | 45.9 | 44.8 | 48.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Nov) | 47.2 | 47.3 | 48.6 |
+| 09:00 | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
 | 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 3.988% |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | 6.0% |

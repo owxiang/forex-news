@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
-| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
+| 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.5% |  | 0.2% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q3) | -0.2% |  | -0.9% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
@@ -14,18 +14,17 @@
 | 05:00 | INR | Low | HSBC India Services PMI (Nov) | 58.4 | 59.2 | 58.5 |
 | 07:00 | NOK | Low | Current Account (Q3) | 225.5B |  | 232.3B |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Nov) | 50.9 |  | 50.6 |
-| 7 min | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 53.6 | 54.9 |
-| 37 min | EUR | Low | HCOB Italy Composite PMI (Nov) |  |  | 51.0 |
-| 37 min | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 51.1 | 52.4 |
-| 37 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 42 min | EUR | Low | HCOB France Composite PMI (Nov) |  | 44.8 | 48.1 |
-| 42 min | EUR | Moderate | HCOB France Services PMI (Nov) |  | 45.7 | 49.2 |
-| 47 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 47.3 | 48.6 |
-| 47 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 49.4 | 51.6 |
-| 52 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 48.1 | 50.0 |
-| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 49.2 | 51.6 |
-| 52 min | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) | 53.1 | 53.6 | 54.9 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Nov) | 47.7 |  | 51.0 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Nov) | 49.2 | 51.1 | 52.4 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Nov) | 45.9 | 44.8 | 48.1 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Nov) | 46.9 | 45.7 | 49.2 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Nov) | 47.2 | 47.3 | 48.6 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 49.3 | 49.4 | 51.6 |
+| 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 48.3 | 48.1 | 50.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 49.5 | 49.2 | 51.6 |
+| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 49.9 | 51.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.0 | 52.0 |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
