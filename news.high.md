@@ -7,4 +7,4 @@
 | 15:00 | USD | ISM Non-Manufacturing PMI (Nov) | 52.1 | 55.5 | 56.0 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Nov) | 58.2 | 56.4 | 58.1 |
 | 15:30 | USD | Crude Oil Inventories | -5.073M | -1.600M | -1.844M |
-| 37 min | USD | Fed Chair Powell Speaks |  |  |  |
+| 18:45 | USD | Fed Chair Powell Speaks |  |  |  |
