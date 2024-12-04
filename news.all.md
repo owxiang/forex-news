@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
 | 00:30 | AUD | Moderate | GDP (YoY) (Q3) | 0.8% | 1.1% | 1.0% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.5% | 0.2% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.5% |  | 0.2% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q3) | -0.2% |  | -0.9% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.3% |
@@ -36,8 +36,8 @@
 | 10:00 | EUR | Low | PPI (YoY) (Oct) |  |  | -3.4% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 6.3% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 152.9 |
