@@ -29,19 +29,15 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Nov) | 5.20% |  | 4.90% |
 | 10:00 | EUR | Low | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
-| 23 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.110% |
-| 53 min | EUR | Low | Car Registration (MoM) (Nov) |  |  | 14.10% |
-| 53 min | EUR | Low | Car Registration (YoY) (Nov) |  |  | 7.20% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 6.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 152.9 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 208.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 501.7 |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Oct) |  |  | 1.1% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) |  |  | 3.4% |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.9% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 4,089.0 |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 6.3% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 152.9 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 208.0 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 501.7 |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Oct) |  |  | 3.4% |
+| 54 min | BRL | Low | Industrial Production (MoM) (Oct) |  |  | 1.1% |
+| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.9% |
+| 54 min | USD | Low | Milk Auctions |  |  | 4,089.0 |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 55.9 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 56.2 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 166K | 233K |
