@@ -14,8 +14,8 @@
 | 08:50 | EUR | HCOB France Composite PMI (Nov) | 45.9 | 44.8 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Nov) | 47.2 | 47.3 | 48.6 |
 | 10:00 | NOK | House Price Index (YoY) (Nov) | 5.20% |  | 4.90% |
-| 10:00 | EUR | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
 | 10:00 | EUR | PPI (YoY) (Oct) | -3.2% |  | -3.4% |
+| 10:00 | EUR | PPI (MoM) (Oct) | 0.4% | 0.4% | -0.6% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.69% |  | 6.86% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 2.8% |  | 6.3% |
 | 12:00 | USD | MBA Purchase Index | 161.5 |  | 152.9 |
@@ -41,8 +41,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.8% |  | 0.3% |
 | 15:30 | USD | Gasoline Inventories | 2.362M | 0.600M | 3.314M |
 | 17:30 | BRL | Foreign Exchange Flows | 0.389B |  | -0.019B |
-| 23:00 | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
-| 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
+| 54 min | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
+| 54 min | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -446.0B |
