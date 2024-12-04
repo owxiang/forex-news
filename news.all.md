@@ -34,8 +34,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 161.5 |  | 152.9 |
 | 12:00 | USD | Low | Mortgage Market Index | 213.9 |  | 208.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 498.5 |  | 501.7 |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Oct) | -0.2% |  | 1.0% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 5.8% |  | 3.4% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Nov) | 53.5 |  | 55.9 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Nov) | 53.6 |  | 56.2 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Nov) | 146K | 166K | 184K |
