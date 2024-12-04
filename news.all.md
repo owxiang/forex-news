@@ -66,12 +66,12 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.8% |  | 0.3% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.362M | 0.600M | 3.314M |
 | 15:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 4 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -0.019B |
-| 18:45 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
+| 17:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 0.389B |  | -0.019B |
+| 37 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 52 min | USD | Moderate | Beige Book |  |  |  |
 | 23:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -446.0B |
