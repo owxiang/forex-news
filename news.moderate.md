@@ -23,5 +23,5 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Nov) | 51.5 | 53.0 | 53.0 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.050M |  | -0.909M |
 | 15:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 17:10 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 4 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
