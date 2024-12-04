@@ -41,8 +41,8 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.8% |  | 0.3% |
 | 15:30 | USD | Gasoline Inventories | 2.362M | 0.600M | 3.314M |
 | 17:30 | BRL | Foreign Exchange Flows | 0.389B |  | -0.019B |
-| 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
 | 23:00 | KRW | GDP (YoY) (Q3) |  | 1.5% | 1.5% |
+| 23:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.1% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -773.7B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -446.0B |
