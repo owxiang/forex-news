@@ -22,12 +22,10 @@
 | 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
 | 11:00 | CAD | Leading Index (MoM) (Nov) | 0.28% |  | 0.28% |
 | 12:30 | USD | Challenger Job Cuts (Nov) | 57.727K |  | 55.597K |
-| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 17 min | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
-| 17 min | CAD | Exports (Oct) |  |  | 63.88B |
-| 17 min | CAD | Imports (Oct) |  |  | 65.15B |
-| 15:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 218.25K |  | 217.50K |
+| 13:30 | CAD | Exports (Oct) | 64.22B |  | 63.52B |
+| 13:30 | CAD | Imports (Oct) | 65.14B |  | 64.82B |
+| 54 min | CAD | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
 | 15:30 | USD | Natural Gas Storage |  |  | -2B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.550% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.500% |

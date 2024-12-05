@@ -27,19 +27,17 @@
 | 10:00 | EUR | Low | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Nov) | 0.28% |  | 0.28% |
 | 12:30 | USD | Low | Challenger Job Cuts (Nov) | 57.727K |  | 55.597K |
-| 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 17 min | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,907K |
-| 17 min | USD | Moderate | Exports (Oct) |  |  | 267.90B |
-| 17 min | USD | Moderate | Imports (Oct) |  |  | 352.30B |
-| 17 min | USD | High | Initial Jobless Claims |  | 215K | 213K |
-| 17 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 217.00K |
-| 17 min | USD | Moderate | Trade Balance (Oct) |  | -75.70B | -84.40B |
-| 17 min | CAD | Low | Exports (Oct) |  |  | 63.88B |
-| 17 min | CAD | Low | Imports (Oct) |  |  | 65.15B |
-| 17 min | CAD | Moderate | Trade Balance (Oct) |  | -0.60B | -1.26B |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
-| 15:00 | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,871K | 1,910K | 1,896K |
+| 13:30 | USD | Moderate | Exports (Oct) | 265.70B |  | 267.90B |
+| 13:30 | USD | Moderate | Imports (Oct) | 339.60B |  | 352.30B |
+| 13:30 | USD | High | Initial Jobless Claims | 224K | 215K | 215K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 218.25K |  | 217.50K |
+| 13:30 | USD | Moderate | Trade Balance (Oct) | -73.80B | -75.70B | -83.80B |
+| 13:30 | CAD | Low | Exports (Oct) | 64.22B |  | 63.52B |
+| 13:30 | CAD | Low | Imports (Oct) | 65.14B |  | 64.82B |
+| 13:30 | CAD | Moderate | Trade Balance (Oct) | -0.92B | -0.60B | -1.30B |
+| 54 min | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
+| 54 min | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | -2B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.550% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.500% |
@@ -48,8 +46,8 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,905B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.234T |
 | 23:00 | KRW | Low | Current Account (Oct) |  |  | 11.12B |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
 | 23:30 | JPY | Low | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |
