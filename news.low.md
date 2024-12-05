@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | AUD | Exports (MoM) (Oct) |  |  | -4.3% |
-| 2 min | AUD | Imports (MoM) (Oct) |  |  | -3.1% |
+| 00:30 | AUD | Exports (MoM) (Oct) | 3.6% |  | -4.7% |
+| 00:30 | AUD | Imports (MoM) (Oct) | 0.1% |  | -2.8% |
 | 03:35 | JPY | 30-Year JGB Auction |  |  | 2.271% |
 | 05:00 | SGD | Retail Sales (YoY) (Oct) |  |  | 2.0% |
 | 05:00 | SGD | Retail Sales (MoM) (Oct) |  |  | 0.4% |
@@ -28,8 +28,8 @@
 | 10:00 | EUR | Retail Sales (MoM) (Oct) |  | -0.4% | 0.5% |
 | 10:00 | EUR | Retail Sales (YoY) (Oct) |  | 1.7% | 2.9% |
 | 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.25% |
-| 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
+| 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 2 min | AUD | Low | Exports (MoM) (Oct) |  |  | -4.3% |
-| 2 min | AUD | Low | Imports (MoM) (Oct) |  |  | -3.1% |
-| 2 min | AUD | Moderate | Trade Balance (Oct) |  | 4.580B | 4.609B |
+| 00:30 | AUD | Low | Exports (MoM) (Oct) | 3.6% |  | -4.7% |
+| 00:30 | AUD | Low | Imports (MoM) (Oct) | 0.1% |  | -2.8% |
+| 00:30 | AUD | Moderate | Trade Balance (Oct) | 5.953B | 4.530B | 4.532B |
 | 01:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
 | 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.271% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Oct) |  |  | 2.0% |
@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | 1.7% | 2.9% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.25% |
-| 12:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 55.597K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 50.9% |
+| 12:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 55.597K |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,907K |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | AUD | Trade Balance (Oct) |  | 4.580B | 4.609B |
+| 00:30 | AUD | Trade Balance (Oct) | 5.953B | 4.530B | 4.532B |
 | 01:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
 | 07:00 | EUR | German Factory Orders (MoM) (Oct) |  | -2.0% | 4.2% |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Nov) |  | 53.5 | 54.3 |
