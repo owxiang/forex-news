@@ -43,9 +43,9 @@
 | 18:00 | BRL | Low | Trade Balance (Nov) | 7.03B |  | 4.20B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,896B |  | 6,905B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.234T |
-| 54 min | KRW | Low | Current Account (Oct) |  |  | 11.12B |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
-| 23:30 | JPY | Low | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |
+| 23:00 | KRW | Low | Current Account (Oct) | 9.78B |  | 11.12B |
+| 23 min | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
+| 23 min | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
+| 23 min | JPY | Low | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
+| 23 min | JPY | Low | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
+| 43 min | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |

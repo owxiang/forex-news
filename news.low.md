@@ -31,7 +31,7 @@
 | 16:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | BRL | Trade Balance (Nov) | 7.03B |  | 4.20B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.234T |
-| 54 min | KRW | Current Account (Oct) |  |  | 11.12B |
-| 23:30 | JPY | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
-| 23:30 | JPY | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
-| 23:50 | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |
+| 23:00 | KRW | Current Account (Oct) | 9.78B |  | 11.12B |
+| 23 min | JPY | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
+| 23 min | JPY | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
+| 43 min | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |
