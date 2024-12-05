@@ -25,11 +25,10 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 218.25K |  | 217.50K |
 | 13:30 | CAD | Exports (Oct) | 64.22B |  | 63.52B |
 | 13:30 | CAD | Imports (Oct) | 65.14B |  | 64.82B |
-| 15:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
-| 23 min | USD | Natural Gas Storage |  |  | -2B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.550% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.500% |
-| 16:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Natural Gas Storage | -30B |  | -2B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.550% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.500% |
+| 23 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | BRL | Trade Balance (Nov) |  |  | 4.34B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.234T |
 | 23:00 | KRW | Current Account (Oct) |  |  | 11.12B |

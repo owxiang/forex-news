@@ -36,18 +36,16 @@
 | 13:30 | CAD | Low | Exports (Oct) | 64.22B |  | 63.52B |
 | 13:30 | CAD | Low | Imports (Oct) | 65.14B |  | 64.82B |
 | 13:30 | CAD | Moderate | Trade Balance (Oct) | -0.92B | -0.60B | -1.30B |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
-| 15:00 | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
-| 23 min | USD | Low | Natural Gas Storage |  |  | -2B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.550% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.500% |
-| 16:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | -30B |  | -2B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.550% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.500% |
+| 23 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | BRL | Low | Trade Balance (Nov) |  |  | 4.34B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,905B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.234T |
 | 23:00 | KRW | Low | Current Account (Oct) |  |  | 11.12B |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
+| 23:30 | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
 | 23:30 | JPY | Low | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |
