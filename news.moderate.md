@@ -12,7 +12,7 @@
 | 13:30 | USD | Imports (Oct) | 339.60B |  | 352.30B |
 | 13:30 | USD | Trade Balance (Oct) | -73.80B | -75.70B | -83.80B |
 | 13:30 | CAD | Trade Balance (Oct) | -0.92B | -0.60B | -1.30B |
-| 54 min | CAD | Ivey PMI (Nov) |  | 53.1 | 52.0 |
+| 15:00 | CAD | Ivey PMI (Nov) |  | 53.1 | 52.0 |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,905B |
 | 23:30 | JPY | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
 | 23:30 | JPY | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |

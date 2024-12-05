@@ -36,9 +36,9 @@
 | 13:30 | CAD | Low | Exports (Oct) | 64.22B |  | 63.52B |
 | 13:30 | CAD | Low | Imports (Oct) | 65.14B |  | 64.82B |
 | 13:30 | CAD | Moderate | Trade Balance (Oct) | -0.92B | -0.60B | -1.30B |
-| 54 min | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
-| 54 min | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | -2B |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
+| 15:00 | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
+| 23 min | USD | Low | Natural Gas Storage |  |  | -2B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.550% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.500% |
 | 16:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
