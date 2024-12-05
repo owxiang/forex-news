@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Exports (MoM) (Oct) | 3.6% |  | -4.7% |
 | 00:30 | AUD | Imports (MoM) (Oct) | 0.1% |  | -2.8% |
-| 03:35 | JPY | 30-Year JGB Auction |  |  | 2.271% |
+| 15 min | JPY | 30-Year JGB Auction |  |  | 2.271% |
 | 05:00 | SGD | Retail Sales (YoY) (Oct) |  |  | 2.0% |
 | 05:00 | SGD | Retail Sales (MoM) (Oct) |  |  | 0.4% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Nov) |  |  | 2.5% |
