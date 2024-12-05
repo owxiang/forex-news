@@ -6,9 +6,9 @@
 | 00:30 | AUD | Low | Imports (MoM) (Oct) | 0.1% |  | -2.8% |
 | 00:30 | AUD | Moderate | Trade Balance (Oct) | 5.953B | 4.530B | 4.532B |
 | 01:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
-| 15 min | JPY | Low | 30-Year JGB Auction |  |  | 2.271% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Oct) |  |  | 2.0% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Oct) |  |  | 0.4% |
+| 03:35 | JPY | Low | 30-Year JGB Auction | 2.287% |  | 2.271% |
+| 52 min | SGD | Low | Retail Sales (MoM) (Oct) |  |  | 0.4% |
+| 52 min | SGD | Low | Retail Sales (YoY) (Oct) |  |  | 2.0% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Nov) |  | 2.7% | 2.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | -2.0% | 4.2% |
