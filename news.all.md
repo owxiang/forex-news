@@ -20,19 +20,16 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) | 42.7 |  | 43.0 |
 | 09:00 | ZAR | Low | Current Account (Q3) | -70.8B |  | -75.3B |
 | 09:00 | ZAR | Low | Current Account % of GDP (Q3) | -1.00% |  | -1.00% |
-| 24 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) |  | 53.5 | 54.3 |
-| 54 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.735% |
-| 54 min | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 3.988% |
-| 54 min | USD | Moderate | OPEC Meeting |  |  |  |
-| 54 min | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
-| 54 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.24% |
-| 54 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.78% |
-| 54 min | EUR | Low | Retail Sales (MoM) (Oct) |  | -0.4% | 0.5% |
-| 54 min | EUR | Low | Retail Sales (YoY) (Oct) |  | 1.7% | 2.9% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.25% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 50.9% |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) | 55.2 | 53.5 | 54.3 |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) | 153,610.0 |  | 144,288.0 |
+| 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Oct) | -0.5% | -0.4% | 0.5% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
+| 53 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.25% |
+| 53 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.24% |
+| 53 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.78% |
 | 12:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 55.597K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 50.9% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,907K |
@@ -54,8 +51,8 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,905B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.234T |
 | 23:00 | KRW | Low | Current Account (Oct) |  |  | 11.12B |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
 | 23:30 | JPY | Low | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |

@@ -17,16 +17,14 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 42.7 |  | 43.0 |
 | 09:00 | ZAR | Current Account (Q3) | -70.8B |  | -75.3B |
 | 09:00 | ZAR | Current Account % of GDP (Q3) | -1.00% |  | -1.00% |
-| 54 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
-| 54 min | GBP | 7-Year Treasury Gilt Auction |  |  | 3.988% |
-| 54 min | EUR | German Car Registration (YoY) |  |  | 6.0% |
-| 54 min | EUR | French 10-Year OAT Auction |  |  | 3.24% |
-| 54 min | EUR | French 30-Year OAT Auction |  |  | 3.78% |
-| 54 min | EUR | Retail Sales (MoM) (Oct) |  | -0.4% | 0.5% |
-| 54 min | EUR | Retail Sales (YoY) (Oct) |  | 1.7% | 2.9% |
-| 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.25% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) | 153,610.0 |  | 144,288.0 |
+| 10:00 | EUR | Retail Sales (MoM) (Oct) | -0.5% | -0.4% | 0.5% |
+| 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
+| 53 min | CAD | Leading Index (MoM) (Nov) |  |  | 0.25% |
+| 53 min | EUR | French 10-Year OAT Auction |  |  | 3.24% |
+| 53 min | EUR | French 30-Year OAT Auction |  |  | 3.78% |
 | 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
