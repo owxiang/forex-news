@@ -11,25 +11,22 @@
 | 06:45 | CHF | Unemployment Rate s.a. (Nov) | 2.6% | 2.7% | 2.6% |
 | 07:45 | EUR | French Industrial Production (MoM) (Oct) | -0.1% | 0.3% | -0.8% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) | 1.9% | 0.3% | 1.1% |
-| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 48.2 |
-| 22 min | EUR | HCOB Germany Construction PMI (Nov) |  |  | 40.2 |
-| 22 min | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 37.9 |
-| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 43.0 |
-| 37 min | EUR | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 52 min | GBP | Car Registration (YoY) (Nov) |  |  | -6.0% |
-| 52 min | ZAR | Current Account (Q3) |  |  | -64.6B |
-| 52 min | ZAR | Current Account % of GDP (Q3) |  |  | -0.90% |
-| 52 min | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 3.988% |
-| 10:00 | EUR | German Car Registration (YoY) |  |  | 6.0% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.24% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.78% |
-| 10:00 | EUR | Retail Sales (YoY) (Oct) |  | 1.7% | 2.9% |
-| 10:00 | EUR | Retail Sales (MoM) (Oct) |  | -0.4% | 0.5% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Nov) | 48.5 |  | 48.2 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Nov) | 38.0 |  | 40.2 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Nov) | 43.7 |  | 42.2 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 42.7 |  | 43.0 |
+| 09:00 | ZAR | Current Account (Q3) | -70.8B |  | -75.3B |
+| 09:00 | ZAR | Current Account % of GDP (Q3) | -1.00% |  | -1.00% |
+| 54 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
+| 54 min | GBP | 7-Year Treasury Gilt Auction |  |  | 3.988% |
+| 54 min | EUR | German Car Registration (YoY) |  |  | 6.0% |
+| 54 min | EUR | French 10-Year OAT Auction |  |  | 3.24% |
+| 54 min | EUR | French 30-Year OAT Auction |  |  | 3.78% |
+| 54 min | EUR | Retail Sales (MoM) (Oct) |  | -0.4% | 0.5% |
+| 54 min | EUR | Retail Sales (YoY) (Oct) |  | 1.7% | 2.9% |
 | 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.25% |
-| 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
+| 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
