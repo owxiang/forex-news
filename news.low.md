@@ -5,31 +5,31 @@
 | 00:30 | AUD | Exports (MoM) (Oct) | 3.6% |  | -4.7% |
 | 00:30 | AUD | Imports (MoM) (Oct) | 0.1% |  | -2.8% |
 | 03:35 | JPY | 30-Year JGB Auction | 2.287% |  | 2.271% |
-| 05:00 | SGD | Retail Sales (YoY) (Oct) | 2.2% |  | 1.9% |
 | 05:00 | SGD | Retail Sales (MoM) (Oct) | 0.1% |  | 0.4% |
+| 05:00 | SGD | Retail Sales (YoY) (Oct) | 2.2% |  | 1.9% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Nov) | 2.6% |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Nov) | 2.6% | 2.7% | 2.6% |
-| 38 min | EUR | French Industrial Production (MoM) (Oct) |  | 0.3% | -0.9% |
-| 53 min | EUR | Spanish Industrial Production (YoY) (Oct) |  | 0.3% | 0.6% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 48.2 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Nov) |  |  | 40.2 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 37.9 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 43.0 |
-| 08:45 | EUR | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 09:00 | GBP | Car Registration (YoY) (Nov) |  |  | -6.0% |
-| 09:00 | ZAR | Current Account (Q3) |  |  | -64.6B |
-| 09:00 | ZAR | Current Account % of GDP (Q3) |  |  | -0.90% |
-| 09:00 | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 07:45 | EUR | French Industrial Production (MoM) (Oct) | -0.1% | 0.3% | -0.8% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Oct) | 1.9% | 0.3% | 1.1% |
+| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 48.2 |
+| 22 min | EUR | HCOB Germany Construction PMI (Nov) |  |  | 40.2 |
+| 22 min | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 37.9 |
+| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 43.0 |
+| 37 min | EUR | French Government Budget Balance (Oct) |  |  | -173.8B |
+| 52 min | GBP | Car Registration (YoY) (Nov) |  |  | -6.0% |
+| 52 min | ZAR | Current Account (Q3) |  |  | -64.6B |
+| 52 min | ZAR | Current Account % of GDP (Q3) |  |  | -0.90% |
+| 52 min | ZAR | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.735% |
 | 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 3.988% |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | 6.0% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.24% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.78% |
-| 10:00 | EUR | Retail Sales (MoM) (Oct) |  | -0.4% | 0.5% |
 | 10:00 | EUR | Retail Sales (YoY) (Oct) |  | 1.7% | 2.9% |
+| 10:00 | EUR | Retail Sales (MoM) (Oct) |  | -0.4% | 0.5% |
 | 11:00 | CAD | Leading Index (MoM) (Nov) |  |  | 0.25% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
 | 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
