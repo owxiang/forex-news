@@ -5,8 +5,8 @@
 | 00:30 | AUD | Exports (MoM) (Oct) | 3.6% |  | -4.7% |
 | 00:30 | AUD | Imports (MoM) (Oct) | 0.1% |  | -2.8% |
 | 03:35 | JPY | 30-Year JGB Auction | 2.287% |  | 2.271% |
-| 05:00 | SGD | Retail Sales (YoY) (Oct) | 2.2% |  | 1.9% |
 | 05:00 | SGD | Retail Sales (MoM) (Oct) | 0.1% |  | 0.4% |
+| 05:00 | SGD | Retail Sales (YoY) (Oct) | 2.2% |  | 1.9% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Nov) | 2.6% |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Nov) | 2.6% | 2.7% | 2.6% |
 | 07:45 | EUR | French Industrial Production (MoM) (Oct) | -0.1% | 0.3% | -0.8% |
@@ -20,13 +20,13 @@
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) | 153,610.0 |  | 144,288.0 |
 | 10:00 | EUR | Retail Sales (MoM) (Oct) | -0.5% | -0.4% | 0.5% |
 | 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
-| 20 min | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
-| 20 min | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
-| 50 min | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 50 min | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
-| 13:30 | CAD | Exports (Oct) |  |  | 63.88B |
-| 13:30 | CAD | Imports (Oct) |  |  | 65.15B |
+| 11:00 | CAD | Leading Index (MoM) (Nov) | 0.28% |  | 0.28% |
+| 12:30 | USD | Challenger Job Cuts (Nov) | 57.727K |  | 55.597K |
+| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 17 min | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
+| 17 min | CAD | Exports (Oct) |  |  | 63.88B |
+| 17 min | CAD | Imports (Oct) |  |  | 65.15B |
 | 15:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
 | 15:30 | USD | Natural Gas Storage |  |  | -2B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.550% |
