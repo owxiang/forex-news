@@ -23,12 +23,12 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) | 55.2 | 53.5 | 54.3 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) | 153,610.0 |  | 144,288.0 |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Oct) | -0.5% | -0.4% | 0.5% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 50.9% |
-| 12:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 55.597K |
-| 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
+| 20 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 50.9% |
+| 20 min | USD | Low | Challenger Job Cuts (Nov) |  |  | 55.597K |
+| 50 min | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 50 min | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,907K |
 | 13:30 | USD | Moderate | Exports (Oct) |  |  | 267.90B |
 | 13:30 | USD | Moderate | Imports (Oct) |  |  | 352.30B |

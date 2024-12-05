@@ -18,12 +18,12 @@
 | 09:00 | ZAR | Current Account (Q3) | -70.8B |  | -75.3B |
 | 09:00 | ZAR | Current Account % of GDP (Q3) | -1.00% |  | -1.00% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) | 153,610.0 |  | 144,288.0 |
-| 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
 | 10:00 | EUR | Retail Sales (MoM) (Oct) | -0.5% | -0.4% | 0.5% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
-| 12:30 | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
-| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
+| 20 min | USD | Challenger Job Cuts (YoY) |  |  | 50.9% |
+| 20 min | USD | Challenger Job Cuts (Nov) |  |  | 55.597K |
+| 50 min | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 50 min | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
 | 13:30 | CAD | Exports (Oct) |  |  | 63.88B |
 | 13:30 | CAD | Imports (Oct) |  |  | 65.15B |
