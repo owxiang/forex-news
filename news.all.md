@@ -22,18 +22,15 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Nov) | 275,572.0M |  | 276,255.0M |
 | 07:45 | EUR | Low | French Trade Balance (Oct) | -7.7B | -8.0B | -8.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 724,555.0B |  | 718,727.0B |
-| 22 min | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 421.40B |
-| 37 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 52 min | GBP | Low | Car Registration (YoY) (Nov) |  |  | -6.0% |
-| 52 min | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.7% |
-| 52 min | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.9% | 1.2% |
-| 52 min | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
-| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 1.0% | 1.0% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Low | Employment Overall (Q3) |  | 169,064.1K | 169,064.1K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) | 425.10B |  | 421.30B |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) | -0.5% | 0.9% | 1.3% |
+| 53 min | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
+| 53 min | EUR | Low | Employment Change (YoY) (Q3) |  | 1.0% | 1.0% |
+| 53 min | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
+| 53 min | EUR | Low | Employment Overall (Q3) |  | 169,064.1K | 169,064.1K |
+| 53 min | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 53 min | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.25% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | 1.54% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 656.58B |

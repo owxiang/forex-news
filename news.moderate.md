@@ -6,8 +6,8 @@
 | 07:00 | GBP | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
 | 07:00 | EUR | German Industrial Production (MoM) (Oct) | -1.0% | 1.0% | -2.0% |
-| 10:00 | EUR | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
-| 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
+| 53 min | EUR | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 53 min | EUR | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
 | 13:30 | USD | Participation Rate (Nov) |  |  | 62.6% |
 | 13:30 | USD | Private Nonfarm Payrolls (Nov) |  | 160K | -28K |
