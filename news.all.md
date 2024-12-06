@@ -11,20 +11,17 @@
 | 05:00 | JPY | Low | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) | 65.86B |  | 63.03B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) | 60.619B |  | 61.197B |
-| 51 min | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  | 3.6% | 3.9% |
-| 51 min | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 0.2% |
-| 51 min | EUR | Low | German Exports (MoM) (Oct) |  |  | -1.7% |
-| 51 min | EUR | Low | German Imports (MoM) (Oct) |  |  | 2.1% |
-| 51 min | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 1.0% | -2.5% |
-| 51 min | EUR | Moderate | German Trade Balance (Oct) |  | 18.2B | 17.0B |
-| 51 min | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
-| 51 min | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.8% |
-| 07:45 | EUR | Low | French Current Account (Oct) |  |  | -2.10B |
-| 07:45 | EUR | Low | French Exports (Oct) |  |  | 48.6B |
-| 07:45 | EUR | Low | French Imports (Oct) |  |  | 56.9B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Nov) |  |  | 276,255.0M |
-| 07:45 | EUR | Low | French Trade Balance (Oct) |  | -8.0B | -8.3B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 718.8B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) | -1.0% | 1.0% | -2.0% |
+| 07:00 | EUR | Moderate | German Trade Balance (Oct) |  | 18.2B | 17.0B |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | -1.6% |  | -0.8% |
+| 38 min | EUR | Low | French Current Account (Oct) |  |  | -2.10B |
+| 38 min | EUR | Low | French Exports (Oct) |  |  | 48.6B |
+| 38 min | EUR | Low | French Imports (Oct) |  |  | 56.9B |
+| 38 min | EUR | Low | French Reserve Assets Total (Nov) |  |  | 276,255.0M |
+| 38 min | EUR | Low | French Trade Balance (Oct) |  | -8.0B | -8.3B |
+| 53 min | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 718.8B |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 421.40B |
 | 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 09:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | -6.0% |
@@ -35,8 +32,8 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 1.0% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q3) |  | 169,064.1K | 169,064.1K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.25% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | 1.54% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 656.58B |

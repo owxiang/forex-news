@@ -10,16 +10,13 @@
 | 05:00 | JPY | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
 | 06:00 | ZAR | Foreign Reserves (USD) (Nov) | 65.86B |  | 63.03B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Nov) | 60.619B |  | 61.197B |
-| 51 min | EUR | German Exports (MoM) (Oct) |  |  | -1.7% |
-| 51 min | EUR | German Imports (MoM) (Oct) |  |  | 2.1% |
-| 51 min | EUR | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
-| 51 min | NOK | Manufacturing Production (MoM) (Oct) |  |  | -0.8% |
-| 07:45 | EUR | French Current Account (Oct) |  |  | -2.10B |
-| 07:45 | EUR | French Exports (Oct) |  |  | 48.6B |
-| 07:45 | EUR | French Imports (Oct) |  |  | 56.9B |
-| 07:45 | EUR | French Reserve Assets Total (Nov) |  |  | 276,255.0M |
-| 07:45 | EUR | French Trade Balance (Oct) |  | -8.0B | -8.3B |
-| 08:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 718.8B |
+| 07:00 | NOK | Manufacturing Production (MoM) (Oct) | -1.6% |  | -0.8% |
+| 38 min | EUR | French Current Account (Oct) |  |  | -2.10B |
+| 38 min | EUR | French Exports (Oct) |  |  | 48.6B |
+| 38 min | EUR | French Imports (Oct) |  |  | 56.9B |
+| 38 min | EUR | French Reserve Assets Total (Nov) |  |  | 276,255.0M |
+| 38 min | EUR | French Trade Balance (Oct) |  | -8.0B | -8.3B |
+| 53 min | CHF | Foreign Reserves (USD) (Nov) |  |  | 718.8B |
 | 08:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 421.40B |
 | 08:45 | EUR | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 09:00 | GBP | Car Registration (YoY) (Nov) |  |  | -6.0% |
