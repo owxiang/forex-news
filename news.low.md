@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 04:00 | IDR | FX Reserves (USD) (Nov) |  |  | 151.20B |
 | 04:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
