@@ -7,12 +7,12 @@
 | 04:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 04:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) | 2.5% |  | 0.7% |
-| 05:00 | JPY | Low | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Oct) | -0.3% |  | 2.2% |
+| 05:00 | JPY | Low | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) | 65.86B |  | 63.03B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) | 60.619B |  | 61.197B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) | -1.0% | 1.0% | -2.0% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) | -4.75% |  | -4.20% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | -1.6% |  | -0.9% |
@@ -23,8 +23,8 @@
 | 07:45 | EUR | Low | French Trade Balance (Oct) | -7.7B | -8.0B | -8.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 724,555.0B |  | 718,727.0B |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) | 425.10B |  | 421.30B |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) | -0.5% | 0.9% | 1.3% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) | -0.5% | 0.9% | 1.3% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Nov) | 7.59% |  | 7.70% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 1.0% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
@@ -49,16 +49,16 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Nov) | -3.6K |  | -11.2K |
 | 13:30 | CAD | Low | Participation Rate (Nov) | 65.1% |  | 64.8% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Nov) | 6.8% | 6.6% | 6.5% |
-| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 2.7% | 2.6% |
-| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
-| 54 min | USD | Moderate | Michigan Consumer Expectations (Dec) |  |  | 76.9 |
-| 54 min | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 73.1 | 71.8 |
-| 54 min | USD | Low | Michigan Current Conditions (Dec) |  |  | 63.9 |
-| 54 min | USD | Low | Total Vehicle Sales (Nov) |  | 16.00M | 16.20M |
-| 54 min | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
-| 54 min | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
-| 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) | 2.9% | 2.7% | 2.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) | 3.1% | 3.1% | 3.2% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) | 71.6 |  | 76.9 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) | 74.0 | 73.1 | 71.8 |
+| 15:00 | USD | Low | Michigan Current Conditions (Dec) | 77.7 |  | 63.9 |
+| 15:00 | USD | Low | Total Vehicle Sales (Nov) |  | 16.00M | 16.20M |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) | 49.7 |  | 52.2 |
+| 15:00 | CAD | Moderate | Ivey PMI (Nov) | 52.3 | 53.1 | 52.0 |
+| 24 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
 | 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |

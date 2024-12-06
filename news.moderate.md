@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
 | 07:00 | EUR | German Industrial Production (MoM) (Oct) | -1.0% | 1.0% | -2.0% |
 | 09:30 | GBP | Mortgage Rate (GBP) (Nov) | 7.59% |  | 7.70% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.6% |
@@ -15,12 +15,12 @@
 | 13:30 | USD | U6 Unemployment Rate (Nov) | 7.8% |  | 7.7% |
 | 13:30 | CAD | Employment Change (Nov) | 50.5K | 25.0K | 14.5K |
 | 13:30 | CAD | Unemployment Rate (Nov) | 6.8% | 6.6% | 6.5% |
-| 9 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | USD | Michigan 1-Year Inflation Expectations (Dec) |  | 2.7% | 2.6% |
-| 54 min | USD | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
-| 54 min | USD | Michigan Consumer Expectations (Dec) |  |  | 76.9 |
-| 54 min | USD | Michigan Consumer Sentiment (Dec) |  | 73.1 | 71.8 |
-| 54 min | CAD | Ivey PMI (Nov) |  | 53.1 | 52.0 |
+| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) | 2.9% | 2.7% | 2.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) | 3.1% | 3.1% | 3.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Dec) | 71.6 |  | 76.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Dec) | 74.0 | 73.1 | 71.8 |
+| 15:00 | CAD | Ivey PMI (Nov) | 52.3 | 53.1 | 52.0 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
 | 18:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 582 |
