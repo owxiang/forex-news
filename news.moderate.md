@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Nov) |  | 3.6% | 3.9% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 0.2% |
-| 07:00 | EUR | German Industrial Production (MoM) (Oct) |  | 1.0% | -2.5% |
-| 07:00 | EUR | German Trade Balance (Oct) |  | 18.2B | 17.0B |
-| 10:00 | EUR | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 51 min | GBP | Halifax House Price Index (YoY) (Nov) |  | 3.6% | 3.9% |
+| 51 min | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 0.2% |
+| 51 min | EUR | German Industrial Production (MoM) (Oct) |  | 1.0% | -2.5% |
+| 51 min | EUR | German Trade Balance (Oct) |  | 18.2B | 17.0B |
 | 10:00 | EUR | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
+| 10:00 | EUR | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
 | 13:30 | USD | Participation Rate (Nov) |  |  | 62.6% |
 | 13:30 | USD | Private Nonfarm Payrolls (Nov) |  | 160K | -28K |

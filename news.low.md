@@ -8,12 +8,12 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Oct) | 2.5% |  | 0.7% |
 | 05:00 | JPY | Leading Index (MoM) (Oct) | -0.3% |  | 2.2% |
 | 05:00 | JPY | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
-| 54 min | ZAR | Foreign Reserves (USD) (Nov) |  |  | 63.03B |
-| 54 min | ZAR | Net FX Reserves (USD) (Nov) |  |  | 61.197B |
-| 07:00 | EUR | German Exports (MoM) (Oct) |  |  | -1.7% |
-| 07:00 | EUR | German Imports (MoM) (Oct) |  |  | 2.1% |
-| 07:00 | EUR | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Oct) |  |  | -0.8% |
+| 06:00 | ZAR | Foreign Reserves (USD) (Nov) | 65.86B |  | 63.03B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Nov) | 60.619B |  | 61.197B |
+| 51 min | EUR | German Exports (MoM) (Oct) |  |  | -1.7% |
+| 51 min | EUR | German Imports (MoM) (Oct) |  |  | 2.1% |
+| 51 min | EUR | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
+| 51 min | NOK | Manufacturing Production (MoM) (Oct) |  |  | -0.8% |
 | 07:45 | EUR | French Current Account (Oct) |  |  | -2.10B |
 | 07:45 | EUR | French Exports (Oct) |  |  | 48.6B |
 | 07:45 | EUR | French Imports (Oct) |  |  | 56.9B |

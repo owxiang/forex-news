@@ -9,16 +9,16 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) | 2.5% |  | 0.7% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Oct) | -0.3% |  | 2.2% |
 | 05:00 | JPY | Low | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
-| 54 min | ZAR | Low | Foreign Reserves (USD) (Nov) |  |  | 63.03B |
-| 54 min | ZAR | Low | Net FX Reserves (USD) (Nov) |  |  | 61.197B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  | 3.6% | 3.9% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 0.2% |
-| 07:00 | EUR | Low | German Exports (MoM) (Oct) |  |  | -1.7% |
-| 07:00 | EUR | Low | German Imports (MoM) (Oct) |  |  | 2.1% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 1.0% | -2.5% |
-| 07:00 | EUR | Moderate | German Trade Balance (Oct) |  | 18.2B | 17.0B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.8% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) | 65.86B |  | 63.03B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) | 60.619B |  | 61.197B |
+| 51 min | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  | 3.6% | 3.9% |
+| 51 min | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 0.2% |
+| 51 min | EUR | Low | German Exports (MoM) (Oct) |  |  | -1.7% |
+| 51 min | EUR | Low | German Imports (MoM) (Oct) |  |  | 2.1% |
+| 51 min | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 1.0% | -2.5% |
+| 51 min | EUR | Moderate | German Trade Balance (Oct) |  | 18.2B | 17.0B |
+| 51 min | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
+| 51 min | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.8% |
 | 07:45 | EUR | Low | French Current Account (Oct) |  |  | -2.10B |
 | 07:45 | EUR | Low | French Exports (Oct) |  |  | 48.6B |
 | 07:45 | EUR | Low | French Imports (Oct) |  |  | 56.9B |
@@ -35,15 +35,15 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 1.0% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q3) |  | 169,064.1K | 169,064.1K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.25% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | 1.54% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 656.58B |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
 | 13:30 | USD | Low | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Nov) |  |  | 40.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Nov) |  | 28K | -46K |
