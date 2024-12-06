@@ -14,20 +14,20 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) | -1.0% | 1.0% | -2.0% |
-| 07:00 | EUR | Moderate | German Trade Balance (Oct) |  | 18.2B | 17.0B |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | -1.6% |  | -0.8% |
-| 38 min | EUR | Low | French Current Account (Oct) |  |  | -2.10B |
-| 38 min | EUR | Low | French Exports (Oct) |  |  | 48.6B |
-| 38 min | EUR | Low | French Imports (Oct) |  |  | 56.9B |
-| 38 min | EUR | Low | French Reserve Assets Total (Nov) |  |  | 276,255.0M |
-| 38 min | EUR | Low | French Trade Balance (Oct) |  | -8.0B | -8.3B |
-| 53 min | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 718.8B |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 421.40B |
-| 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
-| 09:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | -6.0% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.7% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.9% | 1.2% |
-| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) | -4.75% |  | -4.20% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | -1.6% |  | -0.9% |
+| 07:45 | EUR | Low | French Current Account (Oct) | -2.60B |  | -2.40B |
+| 07:45 | EUR | Low | French Exports (Oct) | 48.7B |  | 48.3B |
+| 07:45 | EUR | Low | French Imports (Oct) | 56.4B |  | 56.7B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Nov) | 275,572.0M |  | 276,255.0M |
+| 07:45 | EUR | Low | French Trade Balance (Oct) | -7.7B | -8.0B | -8.4B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 724,555.0B |  | 718,727.0B |
+| 22 min | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 421.40B |
+| 37 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
+| 52 min | GBP | Low | Car Registration (YoY) (Nov) |  |  | -6.0% |
+| 52 min | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.7% |
+| 52 min | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.9% | 1.2% |
+| 52 min | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 1.0% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
