@@ -23,8 +23,8 @@
 | 07:45 | EUR | Low | French Trade Balance (Oct) | -7.7B | -8.0B | -8.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 724,555.0B |  | 718,727.0B |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) | 425.10B |  | 421.30B |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) | -0.5% | 0.9% | 1.3% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Nov) | 7.59% |  | 7.70% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 1.0% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
@@ -33,8 +33,8 @@
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) | 1.18% |  | 1.54% |
 | 11:30 | INR | Low | FX Reserves, USD | 658.09B |  | 656.58B |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) | 4.0% | 3.9% | 4.0% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) | 4.0% | 3.9% | 4.0% |
 | 13:30 | USD | Low | Average Weekly Hours (Nov) | 34.3 | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Nov) | 33.0K |  | 38.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Nov) | 22K | 28K | -48K |
