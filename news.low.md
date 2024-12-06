@@ -36,14 +36,14 @@
 | 15:00 | USD | Michigan Current Conditions (Dec) | 77.7 |  | 63.9 |
 | 15:00 | CAD | Ivey PMI n.s.a (Nov) | 49.7 |  | 52.2 |
 | 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 9.9K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 136.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -153.4K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 42.8K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -105.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -52.2K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -154.0K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 3.5K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -39.7K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -24.4K |
+| 23 min | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
+| 23 min | USD | CFTC Copper speculative net positions |  |  | 9.9K |
+| 23 min | USD | CFTC Corn speculative net positions |  |  | 136.9K |
+| 23 min | USD | CFTC Natural Gas speculative net positions |  |  | -153.4K |
+| 23 min | USD | CFTC Silver speculative net positions |  |  | 42.8K |
+| 23 min | USD | CFTC Soybeans speculative net positions |  |  | -105.9K |
+| 23 min | USD | CFTC Wheat speculative net positions |  |  | -52.2K |
+| 23 min | CAD | CFTC CAD speculative net positions |  |  | -154.0K |
+| 23 min | MXN | CFTC MXN speculative net positions |  |  | 3.5K |
+| 23 min | CHF | CFTC CHF speculative net positions |  |  | -39.7K |
+| 23 min | NZD | CFTC NZD speculative net positions |  |  | -24.4K |
