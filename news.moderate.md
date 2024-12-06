@@ -7,8 +7,8 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
 | 07:00 | EUR | German Industrial Production (MoM) (Oct) | -1.0% | 1.0% | -2.0% |
 | 09:30 | GBP | Mortgage Rate (GBP) (Nov) | 7.59% |  | 7.70% |
-| 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.6% |
+| 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) | 4.0% | 3.9% | 4.0% |
 | 13:30 | USD | Participation Rate (Nov) | 62.5% | 62.7% | 62.6% |
 | 13:30 | USD | Private Nonfarm Payrolls (Nov) | 194K | 160K | -2K |
@@ -21,9 +21,9 @@
 | 15:00 | USD | Michigan Consumer Expectations (Dec) | 71.6 |  | 76.9 |
 | 15:00 | USD | Michigan Consumer Sentiment (Dec) | 74.0 | 73.1 | 71.8 |
 | 15:00 | CAD | Ivey PMI (Nov) | 52.3 | 53.1 | 52.0 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
-| 18:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 582 |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
+| 54 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 582 |
 | 20:00 | USD | Consumer Credit (Oct) |  | 10.10B | 6.00B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 200.4K |
