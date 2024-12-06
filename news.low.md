@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | FX Reserves (USD) (Nov) | 150.20B |  | 151.20B |
-| 22 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 22 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 52 min | JPY | Coincident Indicator (MoM) (Oct) |  |  | 1.7% |
-| 52 min | JPY | Leading Index (MoM) (Oct) |  |  | 2.2% |
-| 52 min | JPY | Leading Index (Oct) |  | 108.9 | 109.1 |
-| 06:00 | ZAR | Foreign Reserves (USD) (Nov) |  |  | 63.03B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Nov) |  |  | 61.197B |
+| 04:30 | INR | Cash Reserve Ratio | 4.00% |  | 4.50% |
+| 04:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Oct) | 2.5% |  | 0.7% |
+| 05:00 | JPY | Leading Index (MoM) (Oct) | -0.3% |  | 2.2% |
+| 05:00 | JPY | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
+| 54 min | ZAR | Foreign Reserves (USD) (Nov) |  |  | 63.03B |
+| 54 min | ZAR | Net FX Reserves (USD) (Nov) |  |  | 61.197B |
 | 07:00 | EUR | German Exports (MoM) (Oct) |  |  | -1.7% |
 | 07:00 | EUR | German Imports (MoM) (Oct) |  |  | 2.1% |
 | 07:00 | EUR | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
