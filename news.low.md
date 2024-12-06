@@ -19,8 +19,8 @@
 | 07:45 | EUR | French Trade Balance (Oct) | -7.7B | -8.0B | -8.4B |
 | 08:00 | CHF | Foreign Reserves (USD) (Nov) | 724,555.0B |  | 718,727.0B |
 | 08:30 | HKD | Foreign Reserves (USD) (Nov) | 425.10B |  | 421.30B |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Oct) | -0.5% | 0.9% | 1.3% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) | 1.0% | 1.0% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q3) | 169,112.9K | 169,064.1K | 169,064.1K |
@@ -34,9 +34,8 @@
 | 13:30 | CAD | Part Time Employment Change (Nov) | -3.6K |  | -11.2K |
 | 13:30 | CAD | Participation Rate (Nov) | 65.1% |  | 64.8% |
 | 15:00 | USD | Michigan Current Conditions (Dec) | 77.7 |  | 63.9 |
-| 15:00 | USD | Total Vehicle Sales (Nov) |  | 16.00M | 16.20M |
 | 15:00 | CAD | Ivey PMI n.s.a (Nov) | 49.7 |  | 52.2 |
-| 24 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 9.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 136.9K |
