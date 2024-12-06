@@ -1,51 +1,96 @@
-## 05 December 2024 - All Forex News
+## 06 December 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Exports (MoM) (Oct) | 3.6% |  | -4.7% |
-| 00:30 | AUD | Low | Imports (MoM) (Oct) | 0.1% |  | -2.8% |
-| 00:30 | AUD | Moderate | Trade Balance (Oct) | 5.953B | 4.530B | 4.532B |
-| 01:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
-| 03:35 | JPY | Low | 30-Year JGB Auction | 2.287% |  | 2.271% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Oct) | 0.1% |  | 0.4% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Oct) | 2.2% |  | 1.9% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Nov) | 2.6% |  | 2.5% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Nov) | 2.6% | 2.7% | 2.6% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) | -1.5% | -2.0% | 4.2% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Oct) | -0.1% | 0.3% | -0.8% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) | 1.9% | 0.3% | 1.1% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) | 48.5 |  | 48.2 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Nov) | 38.0 |  | 40.2 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) | 43.7 |  | 42.2 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) | 42.7 |  | 43.0 |
-| 09:00 | ZAR | Low | Current Account (Q3) | -70.8B |  | -75.3B |
-| 09:00 | ZAR | Low | Current Account % of GDP (Q3) | -1.00% |  | -1.00% |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) | 55.2 | 53.5 | 54.3 |
-| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) | 153,610.0 |  | 144,288.0 |
-| 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Oct) | -0.5% | -0.4% | 0.5% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Oct) | 1.9% | 1.7% | 3.0% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Nov) | 0.28% |  | 0.28% |
-| 12:30 | USD | Low | Challenger Job Cuts (Nov) | 57.727K |  | 55.597K |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,871K | 1,910K | 1,896K |
-| 13:30 | USD | Moderate | Exports (Oct) | 265.70B |  | 267.90B |
-| 13:30 | USD | Moderate | Imports (Oct) | 339.60B |  | 352.30B |
-| 13:30 | USD | High | Initial Jobless Claims | 224K | 215K | 215K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 218.25K |  | 217.50K |
-| 13:30 | USD | Moderate | Trade Balance (Oct) | -73.80B | -75.70B | -83.80B |
-| 13:30 | CAD | Low | Exports (Oct) | 64.22B |  | 63.52B |
-| 13:30 | CAD | Low | Imports (Oct) | 65.14B |  | 64.82B |
-| 13:30 | CAD | Moderate | Trade Balance (Oct) | -0.92B | -0.60B | -1.30B |
-| 15:30 | USD | Low | Natural Gas Storage | -30B | -43B | -2B |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.400% |  | 4.550% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 4.350% |  | 4.500% |
-| 16:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | BRL | Low | Trade Balance (Nov) | 7.03B |  | 4.20B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,896B |  | 6,905B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.216T |  | 3.234T |
-| 23:00 | KRW | Low | Current Account (Oct) | 9.78B |  | 11.12B |
-| 23 min | JPY | Moderate | Household Spending (YoY) (Oct) |  | -2.6% | -1.1% |
-| 23 min | JPY | Moderate | Household Spending (MoM) (Oct) |  | 0.4% | -1.3% |
-| 23 min | JPY | Low | Overall wage income of employees (Oct) |  | 2.6% | 2.8% |
-| 23 min | JPY | Low | Overtime Pay (YoY) (Oct) |  |  | -0.90% |
-| 43 min | JPY | Low | Foreign Reserves (USD) (Nov) |  |  | 1,239.0B |
+| 2 min | AUD | Moderate | Home Loans (MoM) (Oct) |  |  | 0.1% |
+| 2 min | AUD | Low | Invest Housing Finance (MoM) |  |  | -1.0% |
+| 04:00 | IDR | Low | FX Reserves (USD) (Nov) |  |  | 151.20B |
+| 04:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 04:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) |  |  | 1.7% |
+| 05:00 | JPY | Low | Leading Index (MoM) (Oct) |  |  | 2.2% |
+| 05:00 | JPY | Low | Leading Index (Oct) |  | 108.9 | 109.1 |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) |  |  | 63.03B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) |  |  | 61.197B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  | 3.6% | 3.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 0.2% |
+| 07:00 | EUR | Low | German Exports (MoM) (Oct) |  |  | -1.7% |
+| 07:00 | EUR | Low | German Imports (MoM) (Oct) |  |  | 2.1% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 1.0% | -2.5% |
+| 07:00 | EUR | Moderate | German Trade Balance (Oct) |  | 18.2B | 17.0B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -4.62% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.8% |
+| 07:45 | EUR | Low | French Current Account (Oct) |  |  | -2.10B |
+| 07:45 | EUR | Low | French Exports (Oct) |  |  | 48.6B |
+| 07:45 | EUR | Low | French Imports (Oct) |  |  | 56.9B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Nov) |  |  | 276,255.0M |
+| 07:45 | EUR | Low | French Trade Balance (Oct) |  | -8.0B | -8.3B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 718.8B |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 421.40B |
+| 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
+| 09:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | -6.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 0.7% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.9% | 1.2% |
+| 09:00 | ZAR | Low | Manufacturing PMI (Nov) |  |  | 52.8 |
+| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 1.0% | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Low | Employment Overall (Q3) |  | 169,064.1K | 169,064.1K |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.9% | 0.6% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | 0.4% | 0.4% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | 0.25% |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | 1.54% |
+| 11:30 | INR | Low | FX Reserves, USD |  |  | 656.58B |
+| 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
+| 13:30 | USD | Low | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (Nov) |  |  | 40.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Nov) |  | 28K | -46K |
+| 13:30 | USD | High | Nonfarm Payrolls (Nov) |  | 202K | 12K |
+| 13:30 | USD | Moderate | Participation Rate (Nov) |  |  | 62.6% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Nov) |  | 160K | -28K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 7.7% |
+| 13:30 | USD | High | Unemployment Rate (Nov) |  | 4.2% | 4.1% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Nov) |  |  | 4.9% |
+| 13:30 | CAD | Moderate | Employment Change (Nov) |  | 25.0K | 14.5K |
+| 13:30 | CAD | Low | Full Employment Change (Nov) |  |  | 25.6K |
+| 13:30 | CAD | Low | Part Time Employment Change (Nov) |  |  | -11.2K |
+| 13:30 | CAD | Low | Participation Rate (Nov) |  |  | 64.8% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Nov) |  | 6.6% | 6.5% |
+| 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  |  | 2.6% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.2% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  |  | 76.9 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 73.1 | 71.8 |
+| 15:00 | USD | Low | Michigan Current Conditions (Dec) |  |  | 63.9 |
+| 15:00 | USD | Low | Total Vehicle Sales (Nov) |  | 16.00M | 16.20M |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
+| 15:00 | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
+| 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
+| 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
+| 20:00 | USD | Moderate | Consumer Credit (Oct) |  | 10.10B | 6.00B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.2K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 9.9K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 136.9K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 200.4K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 250.3K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 19.5K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -153.4K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -78.9K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 42.8K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -105.9K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -52.2K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -154.0K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 3.5K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -39.7K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 31.8K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -7.6K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -22.6K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -24.4K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -56.0K |
