@@ -29,8 +29,8 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 1.0% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q3) | 169,112.9K | 169,064.1K | 169,064.1K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.6% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) | 1.18% |  | 1.54% |
 | 11:30 | INR | Low | FX Reserves, USD | 658.09B |  | 656.58B |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
@@ -58,9 +58,9 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) | 49.7 |  | 52.2 |
 | 15:00 | CAD | Moderate | Ivey PMI (Nov) | 52.3 | 53.1 | 52.0 |
 | 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
-| 54 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
+| 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
 | 20:00 | USD | Moderate | Consumer Credit (Oct) |  | 10.10B | 6.00B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.2K |
