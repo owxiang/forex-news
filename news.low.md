@@ -26,15 +26,13 @@
 | 10:00 | EUR | Employment Overall (Q3) | 169,112.9K | 169,064.1K | 169,064.1K |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) | 1.18% |  | 1.54% |
 | 11:30 | INR | FX Reserves, USD | 658.09B |  | 656.58B |
-| 50 min | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 50 min | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (Nov) |  |  | 40.0K |
-| 13:30 | USD | Manufacturing Payrolls (Nov) |  | 28K | -46K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.9% |
-| 13:30 | CAD | Full Employment Change (Nov) |  |  | 25.6K |
-| 13:30 | CAD | Part Time Employment Change (Nov) |  |  | -11.2K |
-| 13:30 | CAD | Participation Rate (Nov) |  |  | 64.8% |
+| 18 min | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
+| 18 min | USD | Government Payrolls (Nov) |  |  | 40.0K |
+| 18 min | USD | Manufacturing Payrolls (Nov) |  | 28K | -46K |
+| 18 min | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 4.9% |
+| 18 min | CAD | Full Employment Change (Nov) |  |  | 25.6K |
+| 18 min | CAD | Part Time Employment Change (Nov) |  |  | -11.2K |
+| 18 min | CAD | Participation Rate (Nov) |  |  | 64.8% |
 | 15:00 | USD | Michigan Current Conditions (Dec) |  |  | 63.9 |
 | 15:00 | USD | Total Vehicle Sales (Nov) |  | 16.00M | 16.20M |
 | 15:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 52.2 |

@@ -9,12 +9,12 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Nov) | 7.59% |  | 7.70% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.6% |
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
-| 13:30 | USD | Participation Rate (Nov) |  |  | 62.6% |
-| 13:30 | USD | Private Nonfarm Payrolls (Nov) |  | 160K | -28K |
-| 13:30 | USD | U6 Unemployment Rate (Nov) |  |  | 7.7% |
-| 13:30 | CAD | Employment Change (Nov) |  | 25.0K | 14.5K |
-| 13:30 | CAD | Unemployment Rate (Nov) |  | 6.6% | 6.5% |
+| 18 min | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
+| 18 min | USD | Participation Rate (Nov) |  | 62.7% | 62.6% |
+| 18 min | USD | Private Nonfarm Payrolls (Nov) |  | 160K | -28K |
+| 18 min | USD | U6 Unemployment Rate (Nov) |  |  | 7.7% |
+| 18 min | CAD | Employment Change (Nov) |  | 25.0K | 14.5K |
+| 18 min | CAD | Unemployment Rate (Nov) |  | 6.6% | 6.5% |
 | 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  |  | 2.6% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.2% |
