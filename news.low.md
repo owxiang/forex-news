@@ -21,12 +21,11 @@
 | 08:30 | HKD | Foreign Reserves (USD) (Nov) | 425.10B |  | 421.30B |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Oct) | -0.5% | 0.9% | 1.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Change (YoY) (Q3) | 1.0% | 1.0% | 1.0% |
+| 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q3) | 169,112.9K | 169,064.1K | 169,064.1K |
-| 53 min | CAD | Leading Index (MoM) (Nov) |  |  | 0.25% |
-| 53 min | BRL | IGP-DI Inflation Index (MoM) (Nov) |  |  | 1.54% |
-| 11:30 | INR | FX Reserves, USD |  |  | 656.58B |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) | 1.18% |  | 1.54% |
+| 25 min | INR | FX Reserves, USD |  |  | 656.58B |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
