@@ -7,8 +7,8 @@
 | 04:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 04:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) | 2.5% |  | 0.7% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Oct) | -0.3% |  | 2.2% |
 | 05:00 | JPY | Low | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Oct) | -0.3% |  | 2.2% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) | 65.86B |  | 63.03B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) | 60.619B |  | 61.197B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
@@ -23,8 +23,8 @@
 | 07:45 | EUR | Low | French Trade Balance (Oct) | -7.7B | -8.0B | -8.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 724,555.0B |  | 718,727.0B |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Nov) | 425.10B |  | 421.30B |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) | -0.5% | 0.9% | 1.3% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) | 2.6% |  | 0.7% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Nov) | 7.59% |  | 7.70% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q3) | 1.0% | 1.0% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
@@ -33,31 +33,31 @@
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) | 1.18% |  | 1.54% |
 | 11:30 | INR | Low | FX Reserves, USD | 658.09B |  | 656.58B |
-| 18 min | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.4% |
-| 18 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
-| 18 min | USD | Low | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
-| 18 min | USD | Low | Government Payrolls (Nov) |  |  | 40.0K |
-| 18 min | USD | Low | Manufacturing Payrolls (Nov) |  | 28K | -46K |
-| 18 min | USD | High | Nonfarm Payrolls (Nov) |  | 202K | 12K |
-| 18 min | USD | Moderate | Participation Rate (Nov) |  | 62.7% | 62.6% |
-| 18 min | USD | Moderate | Private Nonfarm Payrolls (Nov) |  | 160K | -28K |
-| 18 min | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 7.7% |
-| 18 min | USD | High | Unemployment Rate (Nov) |  | 4.2% | 4.1% |
-| 18 min | CAD | Low | Avg hourly wages Permanent employee (Nov) |  |  | 4.9% |
-| 18 min | CAD | Moderate | Employment Change (Nov) |  | 25.0K | 14.5K |
-| 18 min | CAD | Low | Full Employment Change (Nov) |  |  | 25.6K |
-| 18 min | CAD | Low | Part Time Employment Change (Nov) |  |  | -11.2K |
-| 18 min | CAD | Low | Participation Rate (Nov) |  |  | 64.8% |
-| 18 min | CAD | Moderate | Unemployment Rate (Nov) |  | 6.6% | 6.5% |
-| 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  |  | 2.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  |  | 76.9 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 73.1 | 71.8 |
-| 15:00 | USD | Low | Michigan Current Conditions (Dec) |  |  | 63.9 |
-| 15:00 | USD | Low | Total Vehicle Sales (Nov) |  | 16.00M | 16.20M |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
-| 15:00 | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) | 4.0% | 3.9% | 4.0% |
+| 13:30 | USD | Low | Average Weekly Hours (Nov) | 34.3 | 34.3 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Nov) | 33.0K |  | 38.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Nov) | 22K | 28K | -48K |
+| 13:30 | USD | High | Nonfarm Payrolls (Nov) | 227K | 202K | 36K |
+| 13:30 | USD | Moderate | Participation Rate (Nov) | 62.5% | 62.7% | 62.6% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Nov) | 194K | 160K | -2K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Nov) | 7.8% |  | 7.7% |
+| 13:30 | USD | High | Unemployment Rate (Nov) | 4.2% | 4.2% | 4.1% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Nov) | 3.9% |  | 4.9% |
+| 13:30 | CAD | Moderate | Employment Change (Nov) | 50.5K | 25.0K | 14.5K |
+| 13:30 | CAD | Low | Full Employment Change (Nov) | 54.2K |  | 25.6K |
+| 13:30 | CAD | Low | Part Time Employment Change (Nov) | -3.6K |  | -11.2K |
+| 13:30 | CAD | Low | Participation Rate (Nov) | 65.1% |  | 64.8% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Nov) | 6.8% | 6.6% | 6.5% |
+| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 2.7% | 2.6% |
+| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
+| 54 min | USD | Moderate | Michigan Consumer Expectations (Dec) |  |  | 76.9 |
+| 54 min | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 73.1 | 71.8 |
+| 54 min | USD | Low | Michigan Current Conditions (Dec) |  |  | 63.9 |
+| 54 min | USD | Low | Total Vehicle Sales (Nov) |  | 16.00M | 16.20M |
+| 54 min | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 52.2 |
+| 54 min | CAD | Moderate | Ivey PMI (Nov) |  | 53.1 | 52.0 |
 | 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
 | 18:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

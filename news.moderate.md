@@ -9,18 +9,18 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Nov) | 7.59% |  | 7.70% |
 | 10:00 | EUR | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.6% |
 | 10:00 | EUR | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
-| 18 min | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
-| 18 min | USD | Participation Rate (Nov) |  | 62.7% | 62.6% |
-| 18 min | USD | Private Nonfarm Payrolls (Nov) |  | 160K | -28K |
-| 18 min | USD | U6 Unemployment Rate (Nov) |  |  | 7.7% |
-| 18 min | CAD | Employment Change (Nov) |  | 25.0K | 14.5K |
-| 18 min | CAD | Unemployment Rate (Nov) |  | 6.6% | 6.5% |
-| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  |  | 2.6% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.2% |
-| 15:00 | USD | Michigan Consumer Expectations (Dec) |  |  | 76.9 |
-| 15:00 | USD | Michigan Consumer Sentiment (Dec) |  | 73.1 | 71.8 |
-| 15:00 | CAD | Ivey PMI (Nov) |  | 53.1 | 52.0 |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) | 4.0% | 3.9% | 4.0% |
+| 13:30 | USD | Participation Rate (Nov) | 62.5% | 62.7% | 62.6% |
+| 13:30 | USD | Private Nonfarm Payrolls (Nov) | 194K | 160K | -2K |
+| 13:30 | USD | U6 Unemployment Rate (Nov) | 7.8% |  | 7.7% |
+| 13:30 | CAD | Employment Change (Nov) | 50.5K | 25.0K | 14.5K |
+| 13:30 | CAD | Unemployment Rate (Nov) | 6.8% | 6.6% | 6.5% |
+| 9 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | Michigan 1-Year Inflation Expectations (Dec) |  | 2.7% | 2.6% |
+| 54 min | USD | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
+| 54 min | USD | Michigan Consumer Expectations (Dec) |  |  | 76.9 |
+| 54 min | USD | Michigan Consumer Sentiment (Dec) |  | 73.1 | 71.8 |
+| 54 min | CAD | Ivey PMI (Nov) |  | 53.1 | 52.0 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 478 | 477 |
 | 18:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 582 |
