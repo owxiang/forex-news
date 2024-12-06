@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | FX Reserves (USD) (Nov) | 150.20B |  | 151.20B |
-| 04:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 04:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) |  |  | 1.7% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Oct) |  |  | 2.2% |
-| 05:00 | JPY | Low | Leading Index (Oct) |  | 108.9 | 109.1 |
+| 22 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 22 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 22 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 52 min | JPY | Low | Coincident Indicator (MoM) (Oct) |  |  | 1.7% |
+| 52 min | JPY | Low | Leading Index (MoM) (Oct) |  |  | 2.2% |
+| 52 min | JPY | Low | Leading Index (Oct) |  | 108.9 | 109.1 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) |  |  | 63.03B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) |  |  | 61.197B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  | 3.6% | 3.9% |
