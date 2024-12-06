@@ -11,8 +11,8 @@
 | 05:00 | JPY | Low | Leading Index (Oct) | 108.6 | 108.9 | 109.1 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Nov) | 65.86B |  | 63.03B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Nov) | 60.619B |  | 61.197B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | 4.8% | 3.6% | 4.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 1.3% | 0.3% | 0.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) | -1.0% | 1.0% | -2.0% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) | -4.75% |  | -4.20% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | -1.6% |  | -0.9% |
@@ -32,9 +32,9 @@
 | 10:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.9% | 0.9% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q3) | 0.4% | 0.4% | 0.4% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) | 1.18% |  | 1.54% |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 656.58B |
-| 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 11:30 | INR | Low | FX Reserves, USD | 658.09B |  | 656.58B |
+| 50 min | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 50 min | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  |  | 4.0% |
 | 13:30 | USD | Low | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |

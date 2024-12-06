@@ -25,9 +25,9 @@
 | 10:00 | EUR | Employment Change (QoQ) (Q3) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q3) | 169,112.9K | 169,064.1K | 169,064.1K |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) | 1.18% |  | 1.54% |
-| 25 min | INR | FX Reserves, USD |  |  | 656.58B |
-| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 11:30 | INR | FX Reserves, USD | 658.09B |  | 656.58B |
+| 50 min | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 50 min | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Nov) |  |  | 40.0K |
 | 13:30 | USD | Manufacturing Payrolls (Nov) |  | 28K | -46K |
