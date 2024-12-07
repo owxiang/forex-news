@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 08:00 | CNY | Low | FX Reserves (USD) (Nov) |  |  | 3.261T |
+| 54 min | CNY | Low | FX Reserves (USD) (Nov) |  |  | 3.261T |
