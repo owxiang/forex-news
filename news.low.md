@@ -2,7 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | Consumer Confidence (Nov) |  |  | 121.1 |
+| 02:30 | SGD | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
+| 26 min | IDR | Consumer Confidence (Nov) |  |  | 121.1 |
 | 04:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Economy Watchers Current Index (Nov) |  |  | 47.5 |
@@ -13,8 +14,8 @@
 | 10:00 | EUR | German Car Registration (YoY) |  |  | 6.0% |
 | 12:00 | MXN | Core CPI (MoM) (Nov) |  |  | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Nov) |  |  | 3.80% |
-| 12:00 | MXN | PPI (YoY) (Nov) |  |  | 5.10% |
 | 12:00 | MXN | PPI (MoM) (Nov) |  |  | 0.40% |
+| 12:00 | MXN | PPI (YoY) (Nov) |  |  | 5.10% |
 | 12:00 | ZAR | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
