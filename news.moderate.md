@@ -1,9 +1,10 @@
-## 08 December 2024 - Moderate Impact Forex News
+## 09 December 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Home Loans (MoM) (Oct) |  |  | 0.1% |
-| 44 min | JPY | Adjusted Current Account (Oct) |  |  | 127.17T |
-| 44 min | JPY | Current Account n.s.a. (Oct) |  |  | 1.717T |
-| 44 min | JPY | GDP Annualized (QoQ) (Q3) |  |  | 0.9% |
-| 44 min | JPY | GDP Price Index (YoY) (Q3) |  | 2.5% | 2.6% |
+| 01:30 | CNY | CPI (MoM) (Nov) |  |  | -0.3% |
+| 01:30 | CNY | CPI (YoY) (Nov) |  |  | 0.3% |
+| 01:30 | CNY | PPI (YoY) (Nov) |  |  | -2.9% |
+| 12:00 | MXN | CPI (YoY) (Nov) |  |  | 4.76% |
+| 12:00 | MXN | CPI (MoM) (Nov) |  |  | 0.55% |
+| 14:00 | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 2.9% |
