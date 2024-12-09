@@ -21,8 +21,8 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Nov) | 4.55% | 4.59% | 4.76% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Nov) | 0.44% | 0.48% | 0.55% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Nov) | 3.58% | 3.60% | 3.80% |
-| 12:00 | MXN | Low | PPI (MoM) (Nov) | 0.90% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Nov) | 6.40% |  | 5.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Nov) | 0.90% |  | 0.40% |
 | 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.641% |  | 2.342% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.817% |  | 2.866% |
