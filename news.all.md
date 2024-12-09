@@ -11,25 +11,21 @@
 | 03:00 | IDR | Low | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Nov) | 49.4 | 47.3 | 47.5 |
-| 51 min | NOK | Low | PPI (YoY) (Nov) |  |  | -3.5% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -27 |
+| 07:00 | NOK | Low | PPI (YoY) (Nov) | 0.0% |  | -3.5% |
+| 53 min | CHF | Moderate | SECO Consumer Climate (Nov) |  | -38 | -27 |
 | 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 383.7B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Dec) |  | -12.4 | -12.8 |
-| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Nov) |  |  | 0.28% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  |  | 4.76% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Nov) |  |  | 0.55% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  |  | 4.76% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Nov) |  |  | 3.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 5.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.40% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Nov) |  |  | 47.92K |
 | 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 14:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 2.9% |
+| 14:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 2.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.342% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.866% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.661% |
@@ -38,6 +34,6 @@
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | 0.3% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.400% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.305% |
-| 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.4% |
-| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
+| 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
+| 23:50 | JPY | Low | M2 Money Stock (YoY) (Nov) |  | 1.2% | 1.2% |
 | 23:50 | JPY | Low | M3 Money Supply (Nov) |  |  | 2,184.5B |
