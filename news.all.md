@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CNY | Moderate | CPI (MoM) (Nov) |  |  | -0.3% |
-| 01:30 | CNY | Moderate | CPI (YoY) (Nov) |  |  | 0.3% |
-| 01:30 | CNY | Moderate | PPI (YoY) (Nov) |  |  | -2.9% |
+| 01:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.6% | -0.4% | -0.3% |
+| 01:30 | CNY | Moderate | CPI (YoY) (Nov) | 0.2% | 0.5% | 0.3% |
+| 01:30 | CNY | Moderate | PPI (YoY) (Nov) | -2.5% | -2.8% | -2.9% |
 | 03:00 | IDR | Low | Consumer Confidence (Nov) |  |  | 121.1 |
 | 04:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
@@ -15,8 +15,8 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Dec) |  |  | -12.8 |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
 | 12:00 | MXN | Low | Core CPI (MoM) (Nov) |  |  | 0.28% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  |  | 4.76% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Nov) |  |  | 0.55% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  |  | 4.76% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Nov) |  |  | 3.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 5.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.40% |
