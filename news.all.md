@@ -2,27 +2,32 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) | 4.2% | 4.2% | 5.8% |
+| 00:30 | AUD | Low | Private House Approvals (Oct) | -5.2% | -5.2% | 4.1% |
 | 01:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.6% | -0.4% | -0.3% |
 | 01:30 | CNY | Moderate | CPI (YoY) (Nov) | 0.2% | 0.5% | 0.3% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Nov) | -2.5% | -2.8% | -2.9% |
 | 02:30 | SGD | Low | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
 | 03:00 | IDR | Low | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
-| 22 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 22 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 52 min | JPY | Low | Economy Watchers Current Index (Nov) |  |  | 47.5 |
+| 05:00 | JPY | Low | Economy Watchers Current Index (Nov) | 49.4 | 47.3 | 47.5 |
+| 52 min | JPY | Low | Machine Tool Orders (YoY) |  |  | 9.3% |
 | 07:00 | NOK | Low | PPI (YoY) (Nov) |  |  | -3.5% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -27 |
 | 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 383.7B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Dec) |  |  | -12.8 |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Dec) |  | -12.4 | -12.8 |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 6.0% |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Nov) |  |  | 0.28% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  |  | 4.76% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Nov) |  |  | 0.55% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  |  | 4.76% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Nov) |  |  | 3.80% |
-| 12:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 5.10% |
+| 12:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.40% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Nov) |  |  | 47.92K |
+| 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 14:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 2.9% |
@@ -30,9 +35,10 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.866% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.661% |
 | 15:00 | USD | Low | CB Employment Trends Index (Nov) |  |  | 107.66 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Oct) |  |  | 0.2% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Oct) |  | 0.2% | -0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | 0.3% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.400% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.305% |
 | 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.4% |
+| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
 | 23:50 | JPY | Low | M3 Money Supply (Nov) |  |  | 2,184.5B |
