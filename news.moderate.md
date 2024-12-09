@@ -11,4 +11,4 @@
 | 12:00 | MXN | CPI (YoY) (Nov) | 4.55% | 4.59% | 4.76% |
 | 12:00 | MXN | CPI (MoM) (Nov) | 0.44% | 0.48% | 0.55% |
 | 13:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 46 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 2.9% |
+| 16:30 | USD | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 2.9% |
