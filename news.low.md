@@ -8,13 +8,13 @@
 | 03:00 | IDR | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
 | 05:00 | JPY | Economy Watchers Current Index (Nov) | 49.4 | 47.3 | 47.5 |
 | 07:00 | NOK | PPI (YoY) (Nov) | 0.0% |  | -3.5% |
-| 23 min | EUR | Sentix Investor Confidence (Dec) |  | -12.4 | -12.8 |
-| 11:00 | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 383.7B |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Nov) | 377.2B |  | 383.7B |
+| 09:30 | EUR | Sentix Investor Confidence (Dec) | -17.5 | -12.4 | -12.8 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Core CPI (MoM) (Nov) |  | 0.11% | 0.28% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Nov) |  | 3.60% | 3.80% |
-| 12:00 | MXN | PPI (YoY) (Nov) |  |  | 5.10% |
 | 12:00 | MXN | PPI (MoM) (Nov) |  |  | 0.40% |
+| 12:00 | MXN | PPI (YoY) (Nov) |  |  | 5.10% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.342% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.866% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.661% |
