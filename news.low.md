@@ -15,9 +15,9 @@
 | 12:00 | MXN | Month Core Inflation (MoM) (Nov) | 3.58% | 3.60% | 3.80% |
 | 12:00 | MXN | PPI (MoM) (Nov) | 0.90% |  | 0.40% |
 | 12:00 | MXN | PPI (YoY) (Nov) | 6.40% |  | 5.10% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.342% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.866% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.661% |
+| 46 min | EUR | French 12-Month BTF Auction |  |  | 2.342% |
+| 46 min | EUR | French 3-Month BTF Auction |  |  | 2.866% |
+| 46 min | EUR | French 6-Month BTF Auction |  |  | 2.661% |
 | 15:00 | USD | CB Employment Trends Index (Nov) |  |  | 107.66 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Oct) |  | 0.2% | -0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Oct) |  |  | 0.3% |
