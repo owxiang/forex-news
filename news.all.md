@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) | 4.2% | 4.2% | 5.8% |
 | 00:30 | AUD | Low | Private House Approvals (Oct) | -5.2% | -5.2% | 4.1% |
-| 01:30 | CNY | Moderate | CPI (YoY) (Nov) | 0.2% | 0.5% | 0.3% |
 | 01:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.6% | -0.4% | -0.3% |
+| 01:30 | CNY | Moderate | CPI (YoY) (Nov) | 0.2% | 0.5% | 0.3% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Nov) | -2.5% | -2.8% | -2.9% |
 | 02:30 | SGD | Low | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
 | 03:00 | IDR | Low | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
@@ -18,8 +18,8 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Nov) | 0.05% | 0.11% | 0.28% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Nov) | 0.44% | 0.48% | 0.55% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Nov) | 4.55% | 4.59% | 4.76% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Nov) | 0.44% | 0.48% | 0.55% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Nov) | 3.58% | 3.60% | 3.80% |
 | 12:00 | MXN | Low | PPI (MoM) (Nov) | 0.90% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Nov) | 6.40% |  | 5.10% |
