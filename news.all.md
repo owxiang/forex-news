@@ -8,9 +8,9 @@
 | 02:30 | SGD | Low | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
 | 03:00 | IDR | Low | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
-| 04:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Nov) |  |  | 47.5 |
+| 22 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 22 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 52 min | JPY | Low | Economy Watchers Current Index (Nov) |  |  | 47.5 |
 | 07:00 | NOK | Low | PPI (YoY) (Nov) |  |  | -3.5% |
 | 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 383.7B |
