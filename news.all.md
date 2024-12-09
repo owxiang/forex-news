@@ -6,7 +6,8 @@
 | 01:30 | CNY | Moderate | CPI (YoY) (Nov) | 0.2% | 0.5% | 0.3% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Nov) | -2.5% | -2.8% | -2.9% |
 | 02:30 | SGD | Low | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
-| 26 min | IDR | Low | Consumer Confidence (Nov) |  |  | 121.1 |
+| 03:00 | IDR | Low | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
+| 03:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
 | 04:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Nov) |  |  | 47.5 |

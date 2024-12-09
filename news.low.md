@@ -3,7 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | SGD | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
-| 26 min | IDR | Consumer Confidence (Nov) |  |  | 121.1 |
+| 03:00 | IDR | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
+| 03:00 | IDR | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
 | 04:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Economy Watchers Current Index (Nov) |  |  | 47.5 |
