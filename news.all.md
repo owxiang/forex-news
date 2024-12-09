@@ -11,8 +11,7 @@
 | 03:00 | IDR | Low | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Nov) | 49.4 | 47.3 | 47.5 |
-| 52 min | JPY | Low | Machine Tool Orders (YoY) |  |  | 9.3% |
-| 07:00 | NOK | Low | PPI (YoY) (Nov) |  |  | -3.5% |
+| 51 min | NOK | Low | PPI (YoY) (Nov) |  |  | -3.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -27 |
 | 08:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 383.7B |
@@ -21,8 +20,8 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Core CPI (MoM) (Nov) |  |  | 0.28% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Nov) |  |  | 0.55% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Nov) |  |  | 4.76% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Nov) |  |  | 0.55% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Nov) |  |  | 3.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 5.10% |
 | 12:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.40% |

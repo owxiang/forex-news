@@ -7,8 +7,7 @@
 | 03:00 | IDR | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
 | 03:00 | IDR | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
 | 05:00 | JPY | Economy Watchers Current Index (Nov) | 49.4 | 47.3 | 47.5 |
-| 52 min | JPY | Machine Tool Orders (YoY) |  |  | 9.3% |
-| 07:00 | NOK | PPI (YoY) (Nov) |  |  | -3.5% |
+| 51 min | NOK | PPI (YoY) (Nov) |  |  | -3.5% |
 | 08:45 | EUR | French Government Budget Balance (Oct) |  |  | -173.8B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 383.7B |
 | 09:30 | EUR | Sentix Investor Confidence (Dec) |  | -12.4 | -12.8 |
