@@ -8,7 +8,7 @@
 | 01:30 | CNY | PPI (YoY) (Nov) | -2.5% | -2.8% | -2.9% |
 | 08:00 | CHF | SECO Consumer Climate (Nov) | -37 | -38 | -27 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | MXN | CPI (YoY) (Nov) |  | 4.59% | 4.76% |
-| 12:00 | MXN | CPI (MoM) (Nov) |  | 0.48% | 0.55% |
+| 54 min | MXN | CPI (YoY) (Nov) |  | 4.59% | 4.76% |
+| 54 min | MXN | CPI (MoM) (Nov) |  | 0.48% | 0.55% |
 | 13:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 14:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Nov) |  |  | 2.9% |
