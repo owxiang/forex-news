@@ -44,8 +44,8 @@
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.2% | 2.5% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | 0.8% | 1.9% | 0.4% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.2% |  | 7.4% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 53 min | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.152% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 1.232M |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 0.6% |
