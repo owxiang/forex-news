@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Survey (Nov) | 2 |  | 7 |
-| 26 min | IDR | Retail Sales (YoY) (Oct) |  |  | 4.8% |
-| 26 min | CNY | Exports (Nov) |  |  | 11.20M |
-| 26 min | CNY | Imports (Nov) |  |  | -3.70M |
-| 27 min | CNY | Trade Balance (Nov) |  | 682.00B | 679.10B |
-| 03:35 | JPY | 5-Year JGB Auction |  |  | 0.706% |
-| 04:00 | IDR | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
+| 03:00 | IDR | Retail Sales (YoY) (Oct) | 1.5% |  | 4.8% |
+| 03:10 | CNY | Exports (Nov) | 5.80M |  | 11.20M |
+| 03:10 | CNY | Imports (Nov) | -4.70M |  | -3.70M |
+| 03:10 | CNY | Trade Balance (Nov) | 692.80B | 682.00B | 679.10B |
+| 14 min | JPY | 5-Year JGB Auction |  |  | 0.706% |
+| 39 min | IDR | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
 | 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
 | 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
@@ -34,5 +34,5 @@
 | 23:00 | KRW | Unemployment Rate (Nov) |  |  | 2.7% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
 | 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
+| 23:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |

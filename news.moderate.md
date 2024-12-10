@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Confidence (Nov) | -3 |  | 5 |
-| 26 min | CNY | Trade Balance (USD) (Nov) |  | 94.00B | 95.27B |
-| 26 min | CNY | Imports (YoY) (Nov) |  | 0.3% | -2.3% |
-| 27 min | CNY | Exports (YoY) (Nov) |  | 8.5% | 12.7% |
-| 56 min | AUD | RBA Rate Statement |  |  |  |
+| 03:10 | CNY | Exports (YoY) (Nov) | 6.7% | 8.5% | 12.7% |
+| 03:10 | CNY | Imports (YoY) (Nov) | -3.9% | 0.3% | -2.3% |
+| 03:10 | CNY | Trade Balance (USD) (Nov) | 97.44B | 94.00B | 95.27B |
+| 9 min | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German CPI (YoY) (Nov) |  | 2.2% | 2.0% |
 | 10:00 | USD | OPEC Meeting |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
