@@ -14,8 +14,8 @@
 | 07:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | NOK | Core CPI YTD (Nov) | 3.0% |  | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
+| 07:00 | NOK | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Oct) | -3.6% |  | -3.9% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Oct) | 0.0% | -0.1% | -0.3% |
 | 09:30 | ZAR | Business Confidence (Nov) | 118.1 |  | 110.2 |
@@ -26,14 +26,14 @@
 | 11:00 | USD | NFIB Small Business Optimism (Nov) | 101.7 | 94.6 | 93.7 |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Oct) | 0.4% |  | -0.2% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Oct) | 0.8% |  | -1.4% |
-| 54 min | MXN | Consumer Confidence (Nov) |  |  | 49.4 |
-| 54 min | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
-| 54 min | BRL | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
-| 54 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
+| 12:00 | MXN | Consumer Confidence (Nov) | 47.7 |  | 49.4 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Nov) | 47.4 |  | 48.9 |
+| 12:00 | BRL | CPI (MoM) (Nov) | 0.39% | 0.37% | 0.56% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.33% |  | 0.54% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.4% |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 0.6% |
 | 23:00 | KRW | Unemployment Rate (Nov) |  |  | 2.7% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
 | 23:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
