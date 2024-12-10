@@ -15,7 +15,7 @@
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 0.734% |  | 0.706% |
 | 04:00 | IDR | Low | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
-| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
+| 53 min | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.2% | 2.0% |
 | 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
@@ -37,8 +37,8 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
 | 12:00 | MXN | Low | Consumer Confidence (Nov) |  |  | 49.4 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
-| 12:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
+| 12:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
