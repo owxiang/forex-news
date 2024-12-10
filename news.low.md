@@ -10,8 +10,8 @@
 | 03:35 | JPY | 5-Year JGB Auction | 0.734% |  | 0.706% |
 | 04:00 | IDR | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Nov) | 3.0% |  | 9.3% |
-| 07:00 | EUR | German HICP (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 07:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
+| 07:00 | EUR | German HICP (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
 | 07:00 | NOK | Core CPI YTD (Nov) | 3.0% |  | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
@@ -32,8 +32,8 @@
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.33% |  | 0.54% |
 | 13:55 | USD | Redbook (YoY) | 4.2% |  | 7.4% |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) | -1.2% |  | 0.6% |
-| 54 min | KRW | Unemployment Rate (Nov) |  |  | 2.7% |
-| 54 min | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
-| 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
-| 23:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:00 | KRW | Unemployment Rate (Nov) | 2.7% |  | 2.7% |
+| 23:00 | JPY | Reuters Tankan Index (Dec) | -1 |  | 5 |
+| 44 min | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
+| 44 min | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
+| 44 min | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
