@@ -24,8 +24,8 @@
 | 07:00 | NOK | Low | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) | -3.6% |  | -3.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) | 0.0% | -0.1% | -0.3% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) | -3.6% |  | -3.9% |
 | 09:30 | ZAR | Low | Business Confidence (Nov) | 118.1 |  | 110.2 |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Oct) | -3.4% |  | -3.7% |
 | 09:30 | ZAR | Low | Mining Production (Oct) | 1.4% |  | 4.9% |
