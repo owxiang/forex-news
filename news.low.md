@@ -14,18 +14,18 @@
 | 07:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | NOK | Core CPI YTD (Nov) | 3.0% |  | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | NOK | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
 | 07:00 | NOK | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
-| 51 min | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
-| 51 min | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
-| 09:30 | ZAR | Business Confidence (Nov) |  |  | 110.2 |
-| 09:30 | ZAR | Gold Production (YoY) (Oct) |  |  | -3.7% |
-| 09:30 | ZAR | Mining Production (Oct) |  |  | 4.7% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.716% |
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 07:00 | NOK | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Oct) | 0.0% | -0.1% | -0.3% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Oct) | -3.6% |  | -3.9% |
+| 23 min | ZAR | Business Confidence (Nov) |  |  | 110.2 |
+| 23 min | ZAR | Gold Production (YoY) (Oct) |  |  | -3.7% |
+| 23 min | ZAR | Mining Production (Oct) |  |  | 4.7% |
+| 33 min | EUR | Spanish 3-Month Letras Auction |  |  | 2.716% |
+| 53 min | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 94.6 | 93.7 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
 | 12:00 | MXN | Consumer Confidence (Nov) |  |  | 49.4 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
 | 12:00 | BRL | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
