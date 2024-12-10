@@ -10,14 +10,14 @@
 | 03:35 | JPY | 5-Year JGB Auction | 0.734% |  | 0.706% |
 | 04:00 | IDR | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Nov) | 3.0% |  | 9.3% |
-| 07:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | EUR | German HICP (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
+| 07:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | NOK | Core CPI YTD (Nov) | 3.0% |  | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Oct) | 0.0% | -0.1% | -0.3% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Oct) | -3.6% |  | -3.9% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Oct) | 0.0% | -0.1% | -0.3% |
 | 09:30 | ZAR | Business Confidence (Nov) | 118.1 |  | 110.2 |
 | 09:30 | ZAR | Gold Production (YoY) (Oct) | -3.4% |  | -3.7% |
 | 09:30 | ZAR | Mining Production (Oct) | 1.4% |  | 4.9% |

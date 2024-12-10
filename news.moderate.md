@@ -13,8 +13,8 @@
 | 12:00 | BRL | CPI (YoY) (Nov) | 4.87% | 4.85% | 4.76% |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.2% | 2.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | 0.8% | 1.9% | 0.4% |
-| 53 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | WASDE Report |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.152% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 54 min | USD | 3-Year Note Auction |  |  | 4.152% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.300M | 1.232M |
 | 23:50 | JPY | BSI Large Manufacturing Conditions (Q4) |  | 1.8 | 4.5 |
