@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 2 min | AUD | Moderate | NAB Business Confidence (Nov) |  |  | 5 |
-| 2 min | AUD | Low | NAB Business Survey (Nov) |  |  | 7 |
+| 00:30 | AUD | Moderate | NAB Business Confidence (Nov) | -3 |  | 5 |
+| 00:30 | AUD | Low | NAB Business Survey (Nov) | 2 |  | 7 |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Oct) |  |  | 4.8% |
 | 03:00 | CNY | Low | Exports (Nov) |  |  | 11.20M |
 | 03:00 | CNY | Low | Imports (Nov) |  |  | -3.70M |
@@ -14,11 +14,12 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.706% |
+| 04:00 | IDR | Low | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.2% | 2.0% |
-| 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
 | 07:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
+| 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Nov) |  |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Nov) |  |  | 2.6% |

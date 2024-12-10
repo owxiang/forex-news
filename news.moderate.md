@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | AUD | NAB Business Confidence (Nov) |  |  | 5 |
+| 00:30 | AUD | NAB Business Confidence (Nov) | -3 |  | 5 |
 | 03:00 | CNY | Trade Balance (USD) (Nov) |  | 94.00B | 95.27B |
 | 03:00 | CNY | Imports (YoY) (Nov) |  | 0.3% | -2.3% |
 | 03:00 | CNY | Exports (YoY) (Nov) |  | 8.5% | 12.7% |
