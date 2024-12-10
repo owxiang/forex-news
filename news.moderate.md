@@ -11,8 +11,8 @@
 | 10:00 | USD | OPEC Meeting |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Nov) | 4.87% | 4.85% | 4.76% |
-| 17 min | USD | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
-| 17 min | USD | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.2% | 2.5% |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | 0.8% | 1.9% | 0.4% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 4.152% |

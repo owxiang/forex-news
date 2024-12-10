@@ -41,9 +41,9 @@
 | 12:00 | BRL | Low | CPI (MoM) (Nov) | 0.39% | 0.37% | 0.56% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Nov) | 4.87% | 4.85% | 4.76% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.33% |  | 0.54% |
-| 17 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
-| 17 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
-| 42 min | USD | Low | Redbook (YoY) |  |  | 7.4% |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.2% | 2.5% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | 0.8% | 1.9% | 0.4% |
+| 13:55 | USD | Low | Redbook (YoY) | 4.2% |  | 7.4% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.152% |
@@ -53,5 +53,5 @@
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 1.8 | 4.5 |
 | 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
 | 23:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 3.4% | 3.4% |

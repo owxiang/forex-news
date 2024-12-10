@@ -30,10 +30,10 @@
 | 12:00 | MXN | Consumer Confidence n.s.a. (Nov) | 47.4 |  | 48.9 |
 | 12:00 | BRL | CPI (MoM) (Nov) | 0.39% | 0.37% | 0.56% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.33% |  | 0.54% |
-| 42 min | USD | Redbook (YoY) |  |  | 7.4% |
+| 13:55 | USD | Redbook (YoY) | 4.2% |  | 7.4% |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 0.6% |
 | 23:00 | KRW | Unemployment Rate (Nov) |  |  | 2.7% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
 | 23:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
