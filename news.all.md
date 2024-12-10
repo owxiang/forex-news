@@ -4,28 +4,28 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | NAB Business Confidence (Nov) | -3 |  | 5 |
 | 00:30 | AUD | Low | NAB Business Survey (Nov) | 2 |  | 7 |
-| 03:00 | IDR | Low | Retail Sales (YoY) (Oct) |  |  | 4.8% |
-| 03:00 | CNY | Low | Exports (Nov) |  |  | 11.20M |
-| 03:00 | CNY | Low | Imports (Nov) |  |  | -3.70M |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Nov) |  | 94.00B | 95.27B |
-| 03:00 | CNY | Moderate | Imports (YoY) (Nov) |  | 0.3% | -2.3% |
-| 03:00 | CNY | Low | Trade Balance (Nov) |  | 682.00B | 679.10B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Nov) |  | 8.5% | 12.7% |
-| 03:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
-| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 26 min | IDR | Low | Retail Sales (YoY) (Oct) |  |  | 4.8% |
+| 26 min | CNY | Low | Exports (Nov) |  |  | 11.20M |
+| 26 min | CNY | Low | Imports (Nov) |  |  | -3.70M |
+| 26 min | CNY | Moderate | Trade Balance (USD) (Nov) |  | 94.00B | 95.27B |
+| 26 min | CNY | Moderate | Imports (YoY) (Nov) |  | 0.3% | -2.3% |
+| 27 min | CNY | Low | Trade Balance (Nov) |  | 682.00B | 679.10B |
+| 27 min | CNY | Moderate | Exports (YoY) (Nov) |  | 8.5% | 12.7% |
+| 56 min | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
+| 56 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.706% |
 | 04:00 | IDR | Low | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.2% | 2.0% |
-| 07:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
+| 07:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Nov) |  |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Nov) |  |  | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Nov) |  |  | 0.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Oct) |  |  | -3.7% |
 | 09:30 | ZAR | Low | Mining Production (Oct) |  |  | 4.7% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.716% |
@@ -33,8 +33,8 @@
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 94.6 | 93.7 |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
 | 12:00 | MXN | Low | Consumer Confidence (Nov) |  |  | 49.4 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
 | 12:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |

@@ -3,28 +3,28 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Survey (Nov) | 2 |  | 7 |
-| 03:00 | IDR | Retail Sales (YoY) (Oct) |  |  | 4.8% |
-| 03:00 | CNY | Exports (Nov) |  |  | 11.20M |
-| 03:00 | CNY | Imports (Nov) |  |  | -3.70M |
-| 03:00 | CNY | Trade Balance (Nov) |  | 682.00B | 679.10B |
+| 26 min | IDR | Retail Sales (YoY) (Oct) |  |  | 4.8% |
+| 26 min | CNY | Exports (Nov) |  |  | 11.20M |
+| 26 min | CNY | Imports (Nov) |  |  | -3.70M |
+| 27 min | CNY | Trade Balance (Nov) |  | 682.00B | 679.10B |
 | 03:35 | JPY | 5-Year JGB Auction |  |  | 0.706% |
 | 04:00 | IDR | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
-| 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
 | 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
+| 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
 | 07:00 | NOK | Core CPI YTD (Nov) |  |  | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Nov) |  |  | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Nov) |  |  | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Nov) |  |  | 0.6% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
 | 09:30 | ZAR | Gold Production (YoY) (Oct) |  |  | -3.7% |
 | 09:30 | ZAR | Mining Production (Oct) |  |  | 4.7% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.716% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 94.6 | 93.7 |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
 | 12:00 | MXN | Consumer Confidence (Nov) |  |  | 49.4 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
 | 12:00 | BRL | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
