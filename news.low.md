@@ -14,10 +14,10 @@
 | 07:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | NOK | Core CPI YTD (Nov) | 3.0% |  | 2.7% |
 | 07:00 | NOK | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
+| 07:00 | NOK | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
+| 51 min | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
+| 51 min | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
 | 09:30 | ZAR | Business Confidence (Nov) |  |  | 110.2 |
 | 09:30 | ZAR | Gold Production (YoY) (Oct) |  |  | -3.7% |
 | 09:30 | ZAR | Mining Production (Oct) |  |  | 4.7% |
@@ -35,5 +35,5 @@
 | 23:00 | KRW | Unemployment Rate (Nov) |  |  | 2.7% |
 | 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
 | 23:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |

@@ -22,10 +22,10 @@
 | 07:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Nov) | 3.0% |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
+| 07:00 | NOK | Low | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
+| 51 min | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
+| 51 min | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
 | 09:30 | ZAR | Low | Business Confidence (Nov) |  |  | 110.2 |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Oct) |  |  | -3.7% |
 | 09:30 | ZAR | Low | Mining Production (Oct) |  |  | 4.7% |
@@ -38,8 +38,8 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
 | 12:00 | MXN | Low | Consumer Confidence (Nov) |  |  | 49.4 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
-| 12:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
 | 12:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
@@ -53,5 +53,5 @@
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 1.8 | 4.5 |
 | 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
 | 23:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
