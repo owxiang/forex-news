@@ -16,5 +16,5 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.117% |  | 4.152% |
-| 24 min | USD | API Weekly Crude Oil Stock |  | -1.300M | 1.232M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 0.499M | -1.300M | 1.232M |
 | 23:50 | JPY | BSI Large Manufacturing Conditions (Q4) |  | 1.8 | 4.5 |
