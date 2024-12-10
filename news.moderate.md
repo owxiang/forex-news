@@ -10,7 +10,7 @@
 | 07:00 | EUR | German CPI (YoY) (Nov) | 2.2% | 2.2% | 2.0% |
 | 10:00 | USD | OPEC Meeting |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
+| 54 min | BRL | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |

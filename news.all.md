@@ -18,14 +18,14 @@
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) | 3.0% |  | 9.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Nov) | -0.2% | -0.2% | 0.4% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Nov) | 2.2% | 2.2% | 2.0% |
-| 07:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | EUR | Low | German HICP (YoY) (Nov) | 2.4% | 2.4% | 2.4% |
+| 07:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.7% | 0.4% |
 | 07:00 | NOK | Low | Core CPI YTD (Nov) | 3.0% |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Nov) | 0.1% |  | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Nov) | 2.4% |  | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Nov) | 0.3% |  | 0.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) | 0.0% | -0.1% | -0.3% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) | -3.6% |  | -3.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) | 0.0% | -0.1% | -0.3% |
 | 09:30 | ZAR | Low | Business Confidence (Nov) | 118.1 |  | 110.2 |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Oct) | -3.4% |  | -3.7% |
 | 09:30 | ZAR | Low | Mining Production (Oct) | 1.4% |  | 4.9% |
@@ -33,14 +33,14 @@
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 53 min | USD | Low | NFIB Small Business Optimism (Nov) |  | 94.6 | 93.7 |
-| 53 min | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
-| 53 min | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
-| 12:00 | MXN | Low | Consumer Confidence (Nov) |  |  | 49.4 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
-| 12:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Nov) | 101.7 | 94.6 | 93.7 |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) | 0.4% |  | -0.2% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) | 0.8% |  | -1.4% |
+| 54 min | MXN | Low | Consumer Confidence (Nov) |  |  | 49.4 |
+| 54 min | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
+| 54 min | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
+| 54 min | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
+| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.4% |
