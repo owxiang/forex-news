@@ -24,8 +24,8 @@
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 2.567% |  | 2.716% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | USD | NFIB Small Business Optimism (Nov) | 101.7 | 94.6 | 93.7 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Oct) | 0.4% |  | -0.2% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Oct) | 0.8% |  | -1.4% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Oct) | 0.4% |  | -0.2% |
 | 12:00 | MXN | Consumer Confidence (Nov) | 47.7 |  | 49.5 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Nov) | 47.4 |  | 48.9 |
 | 12:00 | BRL | CPI (MoM) (Nov) | 0.39% | 0.37% | 0.56% |
