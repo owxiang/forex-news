@@ -11,10 +11,10 @@
 | 03:10 | CNY | Moderate | Exports (YoY) (Nov) | 6.7% | 8.5% | 12.7% |
 | 03:10 | CNY | Moderate | Imports (YoY) (Nov) | -3.9% | 0.3% | -2.3% |
 | 03:10 | CNY | Moderate | Trade Balance (USD) (Nov) | 97.44B | 94.00B | 95.27B |
-| 9 min | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
-| 9 min | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 14 min | JPY | Low | 5-Year JGB Auction |  |  | 0.706% |
-| 39 min | IDR | Low | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
+| 03:30 | AUD | High | RBA Interest Rate Decision (Dec) | 4.35% | 4.35% | 4.35% |
+| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 03:35 | JPY | Low | 5-Year JGB Auction | 0.734% |  | 0.706% |
+| 04:00 | IDR | Low | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.2% | 2.0% |
 | 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
@@ -37,8 +37,8 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
 | 12:00 | MXN | Low | Consumer Confidence (Nov) |  |  | 49.4 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
-| 12:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
 | 12:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |

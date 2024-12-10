@@ -7,8 +7,8 @@
 | 03:10 | CNY | Exports (Nov) | 5.80M |  | 11.20M |
 | 03:10 | CNY | Imports (Nov) | -4.70M |  | -3.70M |
 | 03:10 | CNY | Trade Balance (Nov) | 692.80B | 682.00B | 679.10B |
-| 14 min | JPY | 5-Year JGB Auction |  |  | 0.706% |
-| 39 min | IDR | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
+| 03:35 | JPY | 5-Year JGB Auction | 0.734% |  | 0.706% |
+| 04:00 | IDR | Car Sales (YoY) (Nov) | -11.90% |  | -3.90% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
 | 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
 | 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
