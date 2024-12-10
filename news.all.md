@@ -47,11 +47,11 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.117% |  | 4.152% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 1.232M |
-| 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 0.6% |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.300M | 1.232M |
+| 39 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 0.6% |
 | 23:00 | KRW | Low | Unemployment Rate (Nov) |  |  | 2.7% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 1.8 | 4.5 |
 | 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
 | 23:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
