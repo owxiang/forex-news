@@ -8,8 +8,8 @@
 | 03:10 | CNY | Trade Balance (USD) (Nov) | 97.44B | 94.00B | 95.27B |
 | 03:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German CPI (YoY) (Nov) | 2.2% | 2.2% | 2.0% |
-| 53 min | USD | OPEC Meeting |  |  |  |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | USD | OPEC Meeting |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
