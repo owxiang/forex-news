@@ -1,38 +1,55 @@
-## 09 December 2024 - All Forex News
+## 10 December 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Oct) | 4.2% | 4.2% | 5.8% |
-| 00:30 | AUD | Low | Private House Approvals (Oct) | -5.2% | -5.2% | 4.1% |
-| 01:30 | CNY | Moderate | CPI (YoY) (Nov) | 0.2% | 0.5% | 0.3% |
-| 01:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.6% | -0.4% | -0.3% |
-| 01:30 | CNY | Moderate | PPI (YoY) (Nov) | -2.5% | -2.8% | -2.9% |
-| 02:30 | SGD | Low | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
-| 03:00 | IDR | Low | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
-| 03:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Nov) | 49.4 | 47.3 | 47.5 |
-| 07:00 | NOK | Low | PPI (YoY) (Nov) | 0.0% |  | -3.5% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Nov) | -37 | -38 | -27 |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) | 377.2B |  | 383.7B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Dec) | -17.5 | -12.4 | -12.8 |
+| 2 min | AUD | Moderate | NAB Business Confidence (Nov) |  |  | 5 |
+| 2 min | AUD | Low | NAB Business Survey (Nov) |  |  | 7 |
+| 03:00 | IDR | Low | Retail Sales (YoY) (Oct) |  |  | 4.8% |
+| 03:00 | CNY | Low | Exports (Nov) |  |  | 11.20M |
+| 03:00 | CNY | Low | Imports (Nov) |  |  | -3.70M |
+| 03:00 | CNY | Moderate | Trade Balance (USD) (Nov) |  | 94.00B | 95.27B |
+| 03:00 | CNY | Moderate | Imports (YoY) (Nov) |  | 0.3% | -2.3% |
+| 03:00 | CNY | Low | Trade Balance (Nov) |  | 682.00B | 679.10B |
+| 03:00 | CNY | Moderate | Exports (YoY) (Nov) |  | 8.5% | 12.7% |
+| 03:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
+| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.706% |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.4% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 2.2% | 2.0% |
+| 07:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
+| 07:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
+| 07:00 | NOK | Low | Core CPI YTD (Nov) |  |  | 2.7% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.2% |
+| 07:00 | NOK | Low | CPI (YoY) (Nov) |  |  | 2.6% |
+| 07:00 | NOK | Low | CPI (MoM) (Nov) |  |  | 0.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Oct) |  |  | -3.7% |
+| 09:30 | ZAR | Low | Mining Production (Oct) |  |  | 4.7% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.716% |
+| 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Core CPI (MoM) (Nov) | 0.05% | 0.11% | 0.28% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Nov) | 0.44% | 0.48% | 0.55% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Nov) | 4.55% | 4.59% | 4.76% |
-| 12:00 | MXN | Low | Month Core Inflation (MoM) (Nov) | 3.58% | 3.60% | 3.80% |
-| 12:00 | MXN | Low | PPI (MoM) (Nov) | 0.90% |  | 0.40% |
-| 12:00 | MXN | Low | PPI (YoY) (Nov) | 6.40% |  | 5.10% |
-| 13:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.641% |  | 2.342% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.817% |  | 2.866% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.641% |  | 2.661% |
-| 15:00 | USD | Low | CB Employment Trends Index (Nov) | 109.55 |  | 108.25 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Oct) | 0.2% | 0.2% | -0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) | -0.1% |  | 0.5% |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Nov) | 3.0% |  | 2.9% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.300% |  | 4.400% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.200% |  | 4.305% |
-| 44 min | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 44 min | JPY | Low | M2 Money Stock (YoY) (Nov) |  | 1.2% | 1.2% |
-| 44 min | JPY | Low | M3 Money Supply (Nov) |  |  | 2,184.5B |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 94.6 | 93.7 |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
+| 12:00 | MXN | Low | Consumer Confidence (Nov) |  |  | 49.4 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
+| 12:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.85% | 4.76% |
+| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 2.2% | 2.5% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 1.9% | 0.4% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.4% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.152% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.232M |
+| 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 0.6% |
+| 23:00 | KRW | Low | Unemployment Rate (Nov) |  |  | 2.7% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 5 |
+| 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 1.8 | 4.5 |
+| 23:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
+| 23:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | Low | PPI (YoY) (Nov) |  | 3.4% | 3.4% |

@@ -1,28 +1,37 @@
-## 09 December 2024 - Low Impact Forex News
+## 10 December 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Private House Approvals (Oct) | -5.2% | -5.2% | 4.1% |
-| 02:30 | SGD | Unemployment Rate (Q3) | 1.9% |  | 2.0% |
-| 03:00 | IDR | Consumer Confidence (Nov) | 125.9 |  | 121.1 |
-| 03:00 | IDR | Motorbike Sales (YoY) (Nov) | -10.30% |  | 5.40% |
-| 05:00 | JPY | Economy Watchers Current Index (Nov) | 49.4 | 47.3 | 47.5 |
-| 07:00 | NOK | PPI (YoY) (Nov) | 0.0% |  | -3.5% |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Nov) | 377.2B |  | 383.7B |
-| 09:30 | EUR | Sentix Investor Confidence (Dec) | -17.5 | -12.4 | -12.8 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Core CPI (MoM) (Nov) | 0.05% | 0.11% | 0.28% |
-| 12:00 | MXN | Month Core Inflation (MoM) (Nov) | 3.58% | 3.60% | 3.80% |
-| 12:00 | MXN | PPI (MoM) (Nov) | 0.90% |  | 0.40% |
-| 12:00 | MXN | PPI (YoY) (Nov) | 6.40% |  | 5.10% |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.641% |  | 2.342% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.817% |  | 2.866% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.641% |  | 2.661% |
-| 15:00 | USD | CB Employment Trends Index (Nov) | 109.55 |  | 108.25 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Oct) | 0.2% | 0.2% | -0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Oct) | -0.1% |  | 0.5% |
-| 16:30 | USD | 3-Month Bill Auction | 4.300% |  | 4.400% |
-| 16:30 | USD | 6-Month Bill Auction | 4.200% |  | 4.305% |
-| 44 min | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
-| 44 min | JPY | M2 Money Stock (YoY) (Nov) |  | 1.2% | 1.2% |
-| 44 min | JPY | M3 Money Supply (Nov) |  |  | 2,184.5B |
+| 2 min | AUD | NAB Business Survey (Nov) |  |  | 7 |
+| 03:00 | IDR | Retail Sales (YoY) (Oct) |  |  | 4.8% |
+| 03:00 | CNY | Exports (Nov) |  |  | 11.20M |
+| 03:00 | CNY | Imports (Nov) |  |  | -3.70M |
+| 03:00 | CNY | Trade Balance (Nov) |  | 682.00B | 679.10B |
+| 03:35 | JPY | 5-Year JGB Auction |  |  | 0.706% |
+| 06:00 | JPY | Machine Tool Orders (YoY) (Nov) |  |  | 9.3% |
+| 07:00 | EUR | German HICP (MoM) (Nov) |  | -0.7% | 0.4% |
+| 07:00 | EUR | German HICP (YoY) (Nov) |  | 2.4% | 2.4% |
+| 07:00 | NOK | Core CPI YTD (Nov) |  |  | 2.7% |
+| 07:00 | NOK | Core Inflation (MoM) (Nov) |  |  | 0.2% |
+| 07:00 | NOK | CPI (YoY) (Nov) |  |  | 2.6% |
+| 07:00 | NOK | CPI (MoM) (Nov) |  |  | 0.6% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -4.0% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.1% | -0.4% |
+| 09:30 | ZAR | Gold Production (YoY) (Oct) |  |  | -3.7% |
+| 09:30 | ZAR | Mining Production (Oct) |  |  | 4.7% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.716% |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 11:00 | USD | NFIB Small Business Optimism (Nov) |  | 94.6 | 93.7 |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Oct) |  |  | -0.8% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Oct) |  |  | 0.0% |
+| 12:00 | MXN | Consumer Confidence (Nov) |  |  | 49.4 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Nov) |  |  | 48.9 |
+| 12:00 | BRL | CPI (MoM) (Nov) |  | 0.37% | 0.56% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.54% |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.4% |
+| 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 0.6% |
+| 23:00 | KRW | Unemployment Rate (Nov) |  |  | 2.7% |
+| 23:00 | JPY | Reuters Tankan Index (Dec) |  |  | 5 |
+| 23:50 | JPY | GDP External Demand (QoQ) (Q3) |  | -0.4% | -0.1% |
+| 23:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 23:50 | JPY | PPI (YoY) (Nov) |  | 3.4% | 3.4% |
