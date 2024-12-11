@@ -49,7 +49,7 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | -2.641B |  | 0.389B |
 | 18:00 | USD | High | 10-Year Note Auction | 4.235% |  | 4.347% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 51 min | USD | Moderate | Federal Budget Balance (Nov) |  | -349.0B | -257.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Nov) | -367.0B | -349.0B | -257.0B |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 12.00% | 11.25% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | -1.1% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.6% |
