@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 53 min | ZAR | Low | Core CPI (MoM) (Nov) |  |  | 0.2% |
-| 53 min | ZAR | Low | Core CPI (YoY) (Nov) |  |  | 3.9% |
-| 53 min | ZAR | Low | CPI (MoM) (Nov) |  |  | -0.1% |
-| 53 min | ZAR | Low | CPI (YoY) (Nov) |  |  | 2.8% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
+| 08:00 | ZAR | Low | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
+| 08:00 | ZAR | Low | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.475% |
 | 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Oct) |  |  | 0.9% |
@@ -21,8 +21,8 @@
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 3.3% | 3.3% |
+| 13:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Core CPI Index (Nov) |  |  | 321.67 |
 | 13:30 | USD | High | CPI (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Nov) |  | 2.7% | 2.6% |
@@ -53,8 +53,8 @@
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -349.0B | -257.0B |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 12.00% | 11.25% |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.6% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | -1.1% |
+| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.6% |
 | 22:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 922.4B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -607.7B |

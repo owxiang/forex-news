@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 53 min | ZAR | Core CPI (MoM) (Nov) |  |  | 0.2% |
-| 53 min | ZAR | Core CPI (YoY) (Nov) |  |  | 3.9% |
-| 53 min | ZAR | CPI (MoM) (Nov) |  |  | -0.1% |
-| 53 min | ZAR | CPI (YoY) (Nov) |  |  | 2.8% |
+| 08:00 | ZAR | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
+| 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
+| 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
+| 08:00 | ZAR | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.475% |
 | 11:00 | ZAR | Retail Sales (YoY) (Oct) |  |  | 0.9% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.4% |
