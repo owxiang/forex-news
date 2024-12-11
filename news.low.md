@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 08:00 | ZAR | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
 | 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
-| 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
+| 08:00 | ZAR | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
 | 08:00 | ZAR | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.475% |
-| 53 min | ZAR | Retail Sales (YoY) (Oct) |  |  | 0.9% |
-| 11:30 | INR | M3 Money Supply |  |  | 10.4% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
-| 12:00 | USD | MBA Purchase Index |  |  | 161.5 |
-| 12:00 | USD | Mortgage Market Index |  |  | 213.9 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 498.5 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 1.0% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.0% |
+| 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.332% |  | 4.475% |
+| 11:00 | ZAR | Retail Sales (YoY) (Oct) | 6.3% |  | 1.1% |
+| 24 min | INR | M3 Money Supply |  |  | 10.4% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
+| 54 min | USD | MBA Purchase Index |  |  | 161.5 |
+| 54 min | USD | Mortgage Market Index |  |  | 213.9 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 498.5 |
+| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.0% |
+| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 1.0% |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Core CPI Index (Nov) |  | 322.41 | 321.67 |
