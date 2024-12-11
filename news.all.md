@@ -7,8 +7,8 @@
 | 08:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
-| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.475% |
-| 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 53 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.475% |
+| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Oct) |  |  | 0.9% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.4% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.69% |

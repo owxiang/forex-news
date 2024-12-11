@@ -7,7 +7,7 @@
 | 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 08:00 | ZAR | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.475% |
+| 53 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.475% |
 | 11:00 | ZAR | Retail Sales (YoY) (Oct) |  |  | 0.9% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.4% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
