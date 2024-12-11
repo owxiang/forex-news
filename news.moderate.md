@@ -10,5 +10,5 @@
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Nov) | -367.0B | -349.0B | -257.0B |
-| 24 min | BRL | Interest Rate Decision |  | 12.00% | 11.25% |
-| 39 min | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.6% |
+| 21:30 | BRL | Interest Rate Decision | 12.25% | 12.00% | 11.25% |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) | 0.0% |  | 0.7% |
