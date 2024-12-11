@@ -7,8 +7,8 @@
 | 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 08:00 | ZAR | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
-| 53 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.475% |
-| 11:00 | ZAR | Retail Sales (YoY) (Oct) |  |  | 0.9% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.475% |
+| 53 min | ZAR | Retail Sales (YoY) (Oct) |  |  | 0.9% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.4% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.69% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
@@ -19,7 +19,7 @@
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.0% |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | Core CPI Index (Nov) |  |  | 321.67 |
+| 13:30 | USD | Core CPI Index (Nov) |  | 322.41 | 321.67 |
 | 13:30 | USD | CPI Index, n.s.a. (Nov) |  | 315.37 | 315.66 |
 | 13:30 | USD | CPI Index, s.a (Nov) |  |  | 315.45 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Nov) |  |  | 0.12% |
