@@ -21,8 +21,8 @@
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 1.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 3.3% | 3.3% |
+| 13:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Core CPI Index (Nov) |  |  | 321.67 |
 | 13:30 | USD | High | CPI (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Nov) |  | 2.7% | 2.6% |
