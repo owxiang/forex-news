@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 10:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:30 | USD | Core CPI (YoY) (Nov) |  | 3.3% | 3.3% |
+| 17 min | USD | Core CPI (YoY) (Nov) |  | 3.3% | 3.3% |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.050M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
