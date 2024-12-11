@@ -5,8 +5,8 @@
 | 01:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Nov) |  |  | 3.9% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Nov) |  |  | 0.2% |
-| 08:00 | ZAR | Low | CPI (MoM) (Nov) |  |  | -0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Nov) |  |  | 2.8% |
+| 08:00 | ZAR | Low | CPI (MoM) (Nov) |  |  | -0.1% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.475% |
 | 10:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Oct) |  |  | 0.9% |
@@ -17,12 +17,12 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 213.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 498.5 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 1.0% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | 4.0% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | 1.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 3.3% | 3.3% |
 | 13:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Nov) |  |  | 321.67 |
 | 13:30 | USD | High | CPI (MoM) (Nov) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Nov) |  | 2.7% | 2.6% |
