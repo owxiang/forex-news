@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
+| 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
 | 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.332% |  | 4.475% |
@@ -35,7 +35,7 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 48.24 |  | 49.72 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 56.16 |  | 59.46 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) | 51.86 |  | 51.87 |
-| 24 min | BRL | Foreign Exchange Flows |  |  | 0.389B |
+| 17:30 | BRL | Foreign Exchange Flows | -2.641B |  | 0.389B |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | -1.1% |
 | 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 922.4B |

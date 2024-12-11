@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
 | 08:00 | ZAR | Low | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.332% |  | 4.475% |
@@ -19,8 +19,8 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) | 6.3% |  | 3.8% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) | 1.1% |  | 1.0% |
-| 13:30 | USD | High | Core CPI (MoM) (Nov) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Nov) | 3.3% | 3.3% | 3.3% |
+| 13:30 | USD | High | Core CPI (MoM) (Nov) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Core CPI Index (Nov) | 322.66 | 322.41 | 321.67 |
 | 13:30 | USD | High | CPI (MoM) (Nov) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Nov) | 2.7% | 2.7% | 2.6% |
@@ -46,10 +46,10 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 48.24 |  | 49.72 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 56.16 |  | 59.46 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) | 51.86 |  | 51.87 |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 0.389B |
-| 54 min | USD | High | 10-Year Note Auction |  |  | 4.347% |
-| 54 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -349.0B | -257.0B |
+| 17:30 | BRL | Low | Foreign Exchange Flows | -2.641B |  | 0.389B |
+| 18:00 | USD | High | 10-Year Note Auction | 4.235% |  | 4.347% |
+| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 51 min | USD | Moderate | Federal Budget Balance (Nov) |  | -349.0B | -257.0B |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 12.00% | 11.25% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | -1.1% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.6% |
