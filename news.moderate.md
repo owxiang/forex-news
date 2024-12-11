@@ -9,6 +9,6 @@
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.050M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Nov) |  | -325.0B | -257.0B |
+| 19:00 | USD | Federal Budget Balance (Nov) |  | -349.0B | -257.0B |
 | 21:30 | BRL | Interest Rate Decision |  | 12.00% | 11.25% |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.6% |
