@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 08:00 | ZAR | Core CPI (YoY) (Nov) |  |  | 3.9% |
 | 08:00 | ZAR | Core CPI (MoM) (Nov) |  |  | 0.2% |
+| 08:00 | ZAR | Core CPI (YoY) (Nov) |  |  | 3.9% |
 | 08:00 | ZAR | CPI (MoM) (Nov) |  |  | -0.1% |
 | 08:00 | ZAR | CPI (YoY) (Nov) |  |  | 2.8% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.475% |
