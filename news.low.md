@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
+| 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 08:00 | ZAR | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.332% |  | 4.475% |
@@ -22,19 +22,19 @@
 | 13:30 | USD | CPI Index, s.a (Nov) | 316.44 |  | 315.45 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Nov) | -0.05% |  | 0.12% |
 | 13:30 | USD | Real Earnings (MoM) (Nov) | 0.3% |  | -0.1% |
-| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.615M |
-| 24 min | USD | Crude Oil Imports |  |  | 1.635M |
-| 24 min | USD | Distillate Fuel Production |  |  | 0.219M |
-| 24 min | USD | EIA Weekly Distillates Stocks |  | 0.900M | 3.383M |
-| 24 min | USD | Gasoline Production |  |  | -0.248M |
-| 24 min | USD | Heating Oil Stockpiles |  |  | 0.242M |
-| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
-| 24 min | USD | Gasoline Inventories |  | -0.200M | 2.362M |
-| 54 min | USD | Cleveland CPI (MoM) (Nov) |  |  | 0.3% |
-| 54 min | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 55.71 |
-| 54 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.72 |
-| 54 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 59.46 |
-| 54 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 51.87 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.251M |  | 0.615M |
+| 15:30 | USD | Crude Oil Imports | -0.170M |  | 1.635M |
+| 15:30 | USD | Distillate Fuel Production | -0.086M |  | 0.219M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 3.235M | 0.900M | 3.383M |
+| 15:30 | USD | Gasoline Production | 0.549M |  | -0.248M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.504M |  | 0.242M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.9% |  | 2.8% |
+| 15:30 | USD | Gasoline Inventories | 5.086M | -0.200M | 2.362M |
+| 16:00 | USD | Cleveland CPI (MoM) (Nov) | 0.2% |  | 0.3% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Dec) | 57.59 |  | 55.71 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 48.24 |  | 49.72 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 56.16 |  | 59.46 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) | 51.86 |  | 51.87 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.389B |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | -1.1% |
 | 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |

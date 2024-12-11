@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.332% |  | 4.475% |
@@ -22,30 +22,30 @@
 | 13:30 | USD | High | Core CPI (MoM) (Nov) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Nov) | 3.3% | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Nov) | 322.66 | 322.41 | 321.67 |
-| 13:30 | USD | High | CPI (YoY) (Nov) | 2.7% | 2.7% | 2.6% |
 | 13:30 | USD | High | CPI (MoM) (Nov) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Nov) | 2.7% | 2.7% | 2.6% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Nov) | 315.49 | 315.37 | 315.66 |
 | 13:30 | USD | Low | CPI Index, s.a (Nov) | 316.44 |  | 315.45 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Nov) | -0.05% |  | 0.12% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Nov) | 0.3% |  | -0.1% |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision | 3.25% | 3.25% | 3.75% |
-| 24 min | USD | High | Crude Oil Inventories |  | -1.000M | -5.073M |
-| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.615M |
-| 24 min | USD | Low | Crude Oil Imports |  |  | 1.635M |
-| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.050M |
-| 24 min | USD | Low | Distillate Fuel Production |  |  | 0.219M |
-| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.900M | 3.383M |
-| 24 min | USD | Low | Gasoline Production |  |  | -0.248M |
-| 24 min | USD | Low | Heating Oil Stockpiles |  |  | 0.242M |
-| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
-| 24 min | USD | Low | Gasoline Inventories |  | -0.200M | 2.362M |
-| 24 min | CAD | Moderate | BOC Press Conference |  |  |  |
-| 54 min | USD | Low | Cleveland CPI (MoM) (Nov) |  |  | 0.3% |
-| 54 min | USD | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 55.71 |
-| 54 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.72 |
-| 54 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 59.46 |
-| 54 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 51.87 |
+| 15:30 | USD | High | Crude Oil Inventories | -1.425M | -1.000M | -5.073M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.251M |  | 0.615M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.170M |  | 1.635M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.298M |  | 0.050M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.086M |  | 0.219M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 3.235M | 0.900M | 3.383M |
+| 15:30 | USD | Low | Gasoline Production | 0.549M |  | -0.248M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.504M |  | 0.242M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.9% |  | 2.8% |
+| 15:30 | USD | Low | Gasoline Inventories | 5.086M | -0.200M | 2.362M |
+| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Nov) | 0.2% |  | 0.3% |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Dec) | 57.59 |  | 55.71 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 48.24 |  | 49.72 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 56.16 |  | 59.46 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) | 51.86 |  | 51.87 |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.389B |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.347% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
