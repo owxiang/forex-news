@@ -1,20 +1,14 @@
-## 10 December 2024 - Moderate Impact Forex News
+## 11 December 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | NAB Business Confidence (Nov) | -3 |  | 5 |
-| 03:10 | CNY | Exports (YoY) (Nov) | 6.7% | 8.5% | 12.7% |
-| 03:10 | CNY | Imports (YoY) (Nov) | -3.9% | 0.3% | -2.3% |
-| 03:10 | CNY | Trade Balance (USD) (Nov) | 97.44B | 94.00B | 95.27B |
-| 03:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:00 | EUR | German CPI (YoY) (Nov) | 2.2% | 2.2% | 2.0% |
-| 10:00 | USD | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | CPI (YoY) (Nov) | 4.87% | 4.85% | 4.76% |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 2.2% | 2.2% | 2.5% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q3) | 0.8% | 1.9% | 0.4% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 4.117% |  | 4.152% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 0.499M | -1.300M | 1.232M |
-| 44 min | JPY | BSI Large Manufacturing Conditions (Q4) |  | 1.8 | 4.5 |
+| 10:00 | USD | OPEC Monthly Report |  |  |  |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:30 | USD | Core CPI (YoY) (Nov) |  | 3.3% | 3.3% |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.050M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Nov) |  | -325.0B | -257.0B |
+| 21:30 | BRL | Interest Rate Decision |  | 12.00% | 11.25% |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | 0.6% |
