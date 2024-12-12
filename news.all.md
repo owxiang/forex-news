@@ -44,8 +44,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Nov) | 3.4% | 3.2% | 3.4% |
 | 13:30 | USD | High | Initial Jobless Claims | 242K | 221K | 225K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 218.50K |
-| 13:30 | USD | Low | PPI (YoY) (Nov) | 3.0% | 2.6% | 2.6% |
 | 13:30 | USD | High | PPI (MoM) (Nov) | 0.4% | 0.2% | 0.3% |
+| 13:30 | USD | Low | PPI (YoY) (Nov) | 3.0% | 2.6% | 2.6% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
@@ -55,8 +55,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.400% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.260% |  | 4.350% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.535% |  | 4.608% |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | 2.0% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -2.5% |
+| 53 min | KRW | Low | Export Price Index (YoY) (Nov) |  |  | 2.0% |
+| 53 min | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -2.5% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,896B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Nov) |  |  | 45.8 |

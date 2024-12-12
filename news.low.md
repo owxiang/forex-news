@@ -33,8 +33,8 @@
 | 15:30 | USD | Natural Gas Storage | -190B | -175B | -30B |
 | 16:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.400% |
 | 16:30 | USD | 8-Week Bill Auction | 4.260% |  | 4.350% |
-| 21:00 | KRW | Export Price Index (YoY) (Nov) |  |  | 2.0% |
-| 21:00 | KRW | Import Price Index (YoY) (Nov) |  |  | -2.5% |
+| 53 min | KRW | Export Price Index (YoY) (Nov) |  |  | 2.0% |
+| 53 min | KRW | Import Price Index (YoY) (Nov) |  |  | -2.5% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
 | 21:45 | NZD | External Migration & Visitors (Oct) |  |  | 0.90% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Oct) |  |  | 2,310 |
