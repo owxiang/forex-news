@@ -15,8 +15,8 @@
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.6% | 6.8% |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 09:30 | ZAR | Low | Business Confidence (Oct) |  |  | 110.2 |
-| 09:30 | ZAR | Low | PPI (YoY) (Nov) |  |  | -0.7% |
 | 09:30 | ZAR | Low | PPI (MoM) (Nov) |  |  | -0.7% |
+| 09:30 | ZAR | Low | PPI (YoY) (Nov) |  |  | -0.7% |
 | 09:31 | ZAR | Low | Business Confidence (Nov) |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.531% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.755% |
@@ -34,8 +34,8 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | -0.2% | 0.5% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 4.8% | 2.1% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
@@ -51,8 +51,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.25K |
-| 13:30 | USD | Low | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
 | 13:30 | USD | High | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 13:30 | USD | Low | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | -4.8% | 11.5% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |

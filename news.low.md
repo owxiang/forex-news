@@ -7,8 +7,8 @@
 | 08:30 | HKD | PPI (YoY) (Q3) |  |  | 3.10% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.6% | 6.8% |
 | 09:30 | ZAR | Business Confidence (Oct) |  |  | 110.2 |
-| 09:30 | ZAR | PPI (YoY) (Nov) |  |  | -0.7% |
 | 09:30 | ZAR | PPI (MoM) (Nov) |  |  | -0.7% |
+| 09:30 | ZAR | PPI (YoY) (Nov) |  |  | -0.7% |
 | 09:31 | ZAR | Business Confidence (Nov) |  |  |  |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.531% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.755% |
@@ -25,8 +25,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
-| 12:00 | MXN | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
 | 12:00 | MXN | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
+| 12:00 | MXN | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |
