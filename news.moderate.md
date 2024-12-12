@@ -17,8 +17,8 @@
 | 13:30 | USD | Core PPI (MoM) (Nov) | 0.2% | 0.2% | 0.3% |
 | 13:30 | CAD | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 6,896B |
-| 24 min | NZD | Business NZ PMI (Nov) |  |  | 45.8 |
+| 21:30 | USD | Fed's Balance Sheet | 6,897B |  | 6,896B |
+| 21:30 | NZD | Business NZ PMI (Nov) | 45.5 |  | 45.8 |
 | 23:50 | JPY | Tankan All Big Industry CAPEX (Q4) |  | 9.6% | 10.6% |
 | 23:50 | JPY | Tankan Big Manufacturing Outlook Index (Q4) |  |  | 14 |
 | 23:50 | JPY | Tankan Large Manufacturers Index (Q4) |  | 13 | 13 |
