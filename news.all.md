@@ -15,8 +15,8 @@
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.6% | 6.8% |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 09:30 | ZAR | Low | Business Confidence (Oct) |  |  | 110.2 |
-| 09:30 | ZAR | Low | PPI (MoM) (Nov) |  |  | -0.7% |
 | 09:30 | ZAR | Low | PPI (YoY) (Nov) |  |  | -0.7% |
+| 09:30 | ZAR | Low | PPI (MoM) (Nov) |  |  | -0.7% |
 | 09:31 | ZAR | Low | Business Confidence (Nov) |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.531% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.755% |
