@@ -6,25 +6,21 @@
 | 08:30 | HKD | Industrial Production (YoY) (Q3) | -0.10% |  | 0.70% |
 | 08:30 | HKD | PPI (YoY) (Q3) | 3.20% |  | 3.10% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.6% | 6.8% |
-| 23 min | ZAR | Business Confidence (Oct) |  |  | 110.2 |
-| 23 min | ZAR | PPI (MoM) (Nov) |  |  | -0.7% |
-| 23 min | ZAR | PPI (YoY) (Nov) |  |  | -0.7% |
-| 24 min | ZAR | Business Confidence (Nov) |  |  |  |
-| 33 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.531% |
-| 33 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.755% |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.93% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.73% |
-| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.23% |
-| 10:30 | INR | Cumulative Industrial Production (Oct) |  |  | 4.00% |
-| 10:30 | INR | Industrial Production (YoY) (Oct) |  | 3.5% | 3.1% |
-| 10:30 | INR | Manufacturing Output (MoM) (Oct) |  |  | 3.9% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Dec) |  |  | 49.9 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 43.91 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.43 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
+| 09:30 | ZAR | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
+| 09:30 | ZAR | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
+| 3 min | EUR | Italian 15-Year BTP Auction |  |  | 3.93% |
+| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.73% |
+| 3 min | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
+| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 3.23% |
+| 23 min | INR | Cumulative Industrial Production (Oct) |  |  | 4.00% |
+| 23 min | INR | Industrial Production (YoY) (Oct) |  | 3.5% | 3.1% |
+| 23 min | INR | Manufacturing Output (MoM) (Oct) |  |  | 3.9% |
+| 53 min | GBP | Thomson Reuters IPSOS PCSI (Dec) |  |  | 49.9 |
+| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 43.91 |
+| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.43 |
+| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
+| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
+| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
 | 12:00 | MXN | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
 | 12:00 | MXN | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
