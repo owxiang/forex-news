@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Nov) | 25% |  | 16% |
 | 00:30 | AUD | Moderate | Employment Change (Nov) | 35.6K | 26.0K | 12.2K |
 | 00:30 | AUD | Moderate | Full Employment Change (Nov) | 52.6K |  | 8.9K |
 | 00:30 | AUD | Low | Participation Rate (Nov) | 67.0% | 67.1% | 67.1% |
@@ -34,8 +33,9 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
+| 12:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | -0.2% | 0.5% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 4.8% | 2.1% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
@@ -47,12 +47,12 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 3.5% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
-| 13:30 | USD | Low | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.3% |
+| 13:30 | USD | Low | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.25K |
-| 13:30 | USD | High | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
+| 13:30 | USD | High | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | -4.8% | 11.5% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |

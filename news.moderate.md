@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Nov) | 25% |  | 16% |
 | 00:30 | AUD | Employment Change (Nov) | 35.6K | 26.0K | 12.2K |
 | 00:30 | AUD | Full Employment Change (Nov) | 52.6K |  | 8.9K |
 | 00:30 | AUD | Unemployment Rate (Nov) | 3.9% | 4.2% | 4.1% |
@@ -10,6 +9,7 @@
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 10:30 | INR | CPI (YoY) (Nov) |  | 5.53% | 6.21% |
+| 12:00 | GBP | NIESR GDP Estimate |  |  | 0.1% |
 | 12:00 | BRL | Retail Sales (MoM) (Oct) |  | -0.2% | 0.5% |
 | 12:00 | BRL | Retail Sales (YoY) (Oct) |  | 4.8% | 2.1% |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.65% |
