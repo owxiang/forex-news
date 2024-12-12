@@ -13,8 +13,8 @@
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 6.1% | 6.6% | 6.8% |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:30 | ZAR | Low | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
 | 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
+| 09:30 | ZAR | Low | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
 | 10:30 | INR | Moderate | CPI (YoY) (Nov) | 5.48% | 5.53% | 6.21% |
 | 10:30 | INR | Low | Cumulative Industrial Production (Oct) | 4.00% |  | 4.00% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Oct) | 3.5% | 3.5% | 3.1% |
@@ -29,8 +29,8 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) | 38.51 |  | 42.17 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.46 |  | 48.44 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.3% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Oct) | -1.2% | -0.2% | 0.6% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.3% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.6% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.3% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) | -5.2% |  | 8.3% |
@@ -54,7 +54,7 @@
 | 15:30 | USD | Low | Natural Gas Storage | -190B | -175B | -30B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.400% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.260% |  | 4.350% |
-| 54 min | USD | High | 30-Year Bond Auction |  |  | 4.608% |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.535% |  | 4.608% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | 2.0% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -2.5% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,896B |

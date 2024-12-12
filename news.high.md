@@ -8,4 +8,4 @@
 | 13:30 | USD | Initial Jobless Claims | 242K | 221K | 225K |
 | 13:30 | USD | PPI (MoM) (Nov) | 0.4% | 0.2% | 0.3% |
 | 13:45 | EUR | ECB Press Conference |  |  |  |
-| 54 min | USD | 30-Year Bond Auction |  |  | 4.608% |
+| 18:00 | USD | 30-Year Bond Auction | 4.535% |  | 4.608% |
