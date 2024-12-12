@@ -7,8 +7,8 @@
 | 08:30 | HKD | PPI (YoY) (Q3) |  |  | 3.10% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.6% | 6.8% |
 | 09:30 | ZAR | Business Confidence (Oct) |  |  | 110.2 |
-| 09:30 | ZAR | PPI (YoY) (Nov) |  |  | -0.7% |
 | 09:30 | ZAR | PPI (MoM) (Nov) |  |  | -0.7% |
+| 09:30 | ZAR | PPI (YoY) (Nov) |  |  | -0.7% |
 | 09:31 | ZAR | Business Confidence (Nov) |  |  |  |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.531% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.755% |
