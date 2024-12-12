@@ -6,8 +6,8 @@
 | 08:30 | HKD | Industrial Production (YoY) (Q3) | -0.10% |  | 0.70% |
 | 08:30 | HKD | PPI (YoY) (Q3) | 3.20% |  | 3.10% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.6% | 6.8% |
-| 09:30 | ZAR | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
 | 09:30 | ZAR | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
+| 09:30 | ZAR | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
 | 10:30 | INR | Cumulative Industrial Production (Oct) | 4.00% |  | 4.00% |
 | 10:30 | INR | Industrial Production (YoY) (Oct) | 3.5% | 3.5% | 3.1% |
 | 10:30 | INR | Manufacturing Output (MoM) (Oct) | 4.1% |  | 3.9% |
@@ -23,12 +23,14 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
 | 12:00 | MXN | Industrial Production (MoM) (Oct) | -1.2% | -0.2% | 0.6% |
 | 12:00 | MXN | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.3% |
+| 13:00 | BRL | Auto Production (MoM) (Nov) | -5.2% |  | 8.3% |
+| 13:00 | BRL | Auto Sales (MoM) (Nov) | -4.5% |  | 12.1% |
 | 13:30 | USD | Core PPI (YoY) (Nov) | 3.4% | 3.2% | 3.4% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 218.50K |
 | 13:30 | USD | PPI (YoY) (Nov) | 3.0% | 2.6% | 2.6% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
-| 15:30 | USD | Natural Gas Storage |  | -175B | -30B |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.5% |
+| 23 min | USD | Natural Gas Storage |  | -175B | -30B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.400% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.350% |
 | 21:00 | KRW | Export Price Index (YoY) (Nov) |  |  | 2.0% |

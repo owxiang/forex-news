@@ -16,7 +16,7 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,886K | 1,880K | 1,871K |
 | 13:30 | USD | Core PPI (MoM) (Nov) | 0.2% | 0.2% | 0.3% |
 | 13:30 | CAD | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,896B |
 | 21:30 | NZD | Business NZ PMI (Nov) |  |  | 45.8 |
 | 23:50 | JPY | Tankan All Big Industry CAPEX (Q4) |  | 9.6% | 10.6% |
