@@ -30,28 +30,25 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.46 |  | 48.44 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Oct) | -1.2% | -0.2% | 0.6% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.4% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.1% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.5% |
-| 49 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
-| 49 min | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 49 min | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:15 | EUR | High | Deposit Facility Rate (Dec) |  | 3.00% | 3.25% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.65% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Dec) |  | 3.15% | 3.40% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 3.5% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.3% |
-| 13:30 | USD | Low | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 221K | 224K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.25K |
-| 13:30 | USD | Low | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
-| 13:30 | USD | High | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | -4.8% | 11.5% |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.3% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.6% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.3% |
+| 2 min | EUR | High | Deposit Facility Rate (Dec) |  | 3.00% | 3.25% |
+| 2 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.65% |
+| 2 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 2 min | EUR | High | ECB Interest Rate Decision (Dec) |  | 3.15% | 3.40% |
+| 17 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |
+| 17 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 3.5% |
+| 17 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
+| 17 min | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.3% |
+| 17 min | USD | Low | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
+| 17 min | USD | High | Initial Jobless Claims |  | 221K | 224K |
+| 17 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.25K |
+| 17 min | USD | Low | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
+| 17 min | USD | High | PPI (MoM) (Nov) |  | 0.2% | 0.2% |
+| 17 min | CAD | Moderate | Building Permits (MoM) (Oct) |  | -4.8% | 11.5% |
+| 32 min | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
+| 32 min | EUR | High | ECB Press Conference |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -175B | -30B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.400% |

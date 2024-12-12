@@ -9,14 +9,13 @@
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 10:30 | INR | CPI (YoY) (Nov) | 5.48% | 5.53% | 6.21% |
-| 12:00 | BRL | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.1% |
-| 12:00 | BRL | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.5% |
-| 49 min | GBP | NIESR GDP Estimate |  |  | 0.1% |
-| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.65% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,871K |
-| 13:30 | USD | Core PPI (MoM) (Nov) |  | 0.2% | 0.3% |
-| 13:30 | CAD | Building Permits (MoM) (Oct) |  | -4.8% | 11.5% |
+| 12:00 | BRL | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.6% |
+| 12:00 | BRL | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.3% |
+| 2 min | EUR | ECB Marginal Lending Facility |  |  | 3.65% |
+| 2 min | EUR | ECB Monetary Policy Statement |  |  |  |
+| 17 min | USD | Continuing Jobless Claims |  | 1,880K | 1,871K |
+| 17 min | USD | Core PPI (MoM) (Nov) |  | 0.2% | 0.3% |
+| 17 min | CAD | Building Permits (MoM) (Oct) |  | -4.8% | 11.5% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,896B |
 | 21:30 | NZD | Business NZ PMI (Nov) |  |  | 45.8 |

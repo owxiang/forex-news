@@ -22,15 +22,13 @@
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.46 |  | 48.44 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
 | 12:00 | MXN | Industrial Production (MoM) (Oct) | -1.2% | -0.2% | 0.6% |
-| 12:00 | MXN | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.4% |
-| 49 min | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
-| 49 min | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 3.5% |
-| 13:30 | USD | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.25K |
-| 13:30 | USD | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
-| 13:45 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
+| 12:00 | MXN | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.3% |
+| 17 min | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |
+| 17 min | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 3.5% |
+| 17 min | USD | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
+| 17 min | USD | Jobless Claims 4-Week Avg. |  |  | 218.25K |
+| 17 min | USD | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
+| 32 min | EUR | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
 | 15:30 | USD | Natural Gas Storage |  | -175B | -30B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.400% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.350% |
