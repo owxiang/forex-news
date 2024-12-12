@@ -9,9 +9,9 @@
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 10:30 | INR | CPI (YoY) (Nov) | 5.48% | 5.53% | 6.21% |
-| 54 min | GBP | NIESR GDP Estimate |  |  | 0.1% |
-| 54 min | BRL | Retail Sales (YoY) (Oct) |  | 4.8% | 2.1% |
-| 54 min | BRL | Retail Sales (MoM) (Oct) |  | -0.2% | 0.5% |
+| 12:00 | BRL | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.1% |
+| 12:00 | BRL | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.5% |
+| 49 min | GBP | NIESR GDP Estimate |  |  | 0.1% |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.65% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,871K |
