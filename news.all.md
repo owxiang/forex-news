@@ -50,10 +50,10 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.5% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 8 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Low | Natural Gas Storage |  | -175B | -30B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.400% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.350% |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | -190B | -175B | -30B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.400% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.350% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.608% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | 2.0% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -2.5% |
