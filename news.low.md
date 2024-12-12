@@ -8,21 +8,21 @@
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.6% | 6.8% |
 | 09:30 | ZAR | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
 | 09:30 | ZAR | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
-| 3 min | EUR | Italian 15-Year BTP Auction |  |  | 3.93% |
-| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.73% |
-| 3 min | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
-| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 3.23% |
-| 23 min | INR | Cumulative Industrial Production (Oct) |  |  | 4.00% |
-| 23 min | INR | Industrial Production (YoY) (Oct) |  | 3.5% | 3.1% |
-| 23 min | INR | Manufacturing Output (MoM) (Oct) |  |  | 3.9% |
-| 53 min | GBP | Thomson Reuters IPSOS PCSI (Dec) |  |  | 49.9 |
-| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 43.91 |
-| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.43 |
-| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
-| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
-| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
-| 12:00 | MXN | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
-| 12:00 | MXN | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
+| 10:30 | INR | Cumulative Industrial Production (Oct) | 4.00% |  | 4.00% |
+| 10:30 | INR | Industrial Production (YoY) (Oct) | 3.5% | 3.5% | 3.1% |
+| 10:30 | INR | Manufacturing Output (MoM) (Oct) | 4.1% |  | 3.9% |
+| 10:40 | EUR | Italian 15-Year BTP Auction | 3.19% |  | 3.93% |
+| 10:40 | EUR | Italian 3-Year BTP Auction | 2.35% |  | 2.73% |
+| 10:40 | EUR | Italian 30-Year BTP Auction | 3.940% |  | 4.040% |
+| 10:40 | EUR | Italian 7-Year BTP Auction | 2.92% |  | 3.23% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Dec) | 47.1 |  | 49.9 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) | 44.97 |  | 43.91 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) | 42.48 |  | 46.43 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Dec) | 38.51 |  | 42.17 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.46 |  | 48.44 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
+| 54 min | MXN | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
+| 54 min | MXN | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |

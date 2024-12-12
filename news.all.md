@@ -15,25 +15,25 @@
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 09:30 | ZAR | Low | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
 | 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
-| 3 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.93% |
-| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.73% |
-| 3 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.040% |
-| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.23% |
-| 23 min | INR | Moderate | CPI (YoY) (Nov) |  | 5.53% | 6.21% |
-| 23 min | INR | Low | Cumulative Industrial Production (Oct) |  |  | 4.00% |
-| 23 min | INR | Low | Industrial Production (YoY) (Oct) |  | 3.5% | 3.1% |
-| 23 min | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 3.9% |
-| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 49.9 |
-| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 43.91 |
-| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.43 |
-| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
-| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
-| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
-| 12:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 4.8% | 2.1% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | -0.2% | 0.5% |
+| 10:30 | INR | Moderate | CPI (YoY) (Nov) | 5.48% | 5.53% | 6.21% |
+| 10:30 | INR | Low | Cumulative Industrial Production (Oct) | 4.00% |  | 4.00% |
+| 10:30 | INR | Low | Industrial Production (YoY) (Oct) | 3.5% | 3.5% | 3.1% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) | 4.1% |  | 3.9% |
+| 10:40 | EUR | Low | Italian 15-Year BTP Auction | 3.19% |  | 3.93% |
+| 10:40 | EUR | Low | Italian 3-Year BTP Auction | 2.35% |  | 2.73% |
+| 10:40 | EUR | Low | Italian 30-Year BTP Auction | 3.940% |  | 4.040% |
+| 10:40 | EUR | Low | Italian 7-Year BTP Auction | 2.92% |  | 3.23% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) | 47.1 |  | 49.9 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) | 44.97 |  | 43.91 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) | 42.48 |  | 46.43 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) | 38.51 |  | 42.17 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.46 |  | 48.44 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
+| 54 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
+| 54 min | MXN | Low | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
+| 54 min | MXN | Low | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 4.8% | 2.1% |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (Oct) |  | -0.2% | 0.5% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:15 | EUR | High | Deposit Facility Rate (Dec) |  | 3.00% | 3.25% |
