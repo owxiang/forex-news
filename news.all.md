@@ -13,8 +13,8 @@
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 6.1% | 6.6% | 6.8% |
 | 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
 | 09:30 | ZAR | Low | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
+| 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
 | 10:30 | INR | Moderate | CPI (YoY) (Nov) | 5.48% | 5.53% | 6.21% |
 | 10:30 | INR | Low | Cumulative Industrial Production (Oct) | 4.00% |  | 4.00% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Oct) | 3.5% | 3.5% | 3.1% |
@@ -29,8 +29,8 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) | 38.51 |  | 42.17 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.46 |  | 48.44 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) | -1.2% | -0.2% | 0.6% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.3% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) | -1.2% | -0.2% | 0.6% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.6% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.3% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Nov) | -5.2% |  | 8.3% |
@@ -44,8 +44,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Nov) | 3.4% | 3.2% | 3.4% |
 | 13:30 | USD | High | Initial Jobless Claims | 242K | 221K | 225K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 218.50K |
-| 13:30 | USD | High | PPI (MoM) (Nov) | 0.4% | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI (YoY) (Nov) | 3.0% | 2.6% | 2.6% |
+| 13:30 | USD | High | PPI (MoM) (Nov) | 0.4% | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
@@ -55,14 +55,14 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.400% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.260% |  | 4.350% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.535% |  | 4.608% |
-| 53 min | KRW | Low | Export Price Index (YoY) (Nov) |  |  | 2.0% |
-| 53 min | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -2.5% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,896B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
-| 21:30 | NZD | Moderate | Business NZ PMI (Nov) |  |  | 45.8 |
-| 21:45 | NZD | Low | External Migration & Visitors (Oct) |  |  | 0.90% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) |  |  | 2,310 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) (Oct) |  |  | 1.1% |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Nov) | 7.0% |  | 2.0% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Nov) | 3.0% |  | -2.5% |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,896B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
+| 24 min | NZD | Moderate | Business NZ PMI (Nov) |  |  | 45.8 |
+| 39 min | NZD | Low | External Migration & Visitors (Oct) |  |  | 0.90% |
+| 39 min | NZD | Low | Permanent/Long-Term Migration (Oct) |  |  | 2,310 |
+| 39 min | NZD | Low | Visitor Arrivals (MoM) (Oct) |  |  | 1.1% |
 | 23:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q4) |  | 9.6% | 10.6% |
 | 23:50 | JPY | Low | Tankan All Small Industry CAPEX (Q4) |  |  | 2.6% |
 | 23:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q4) |  |  | 14 |
