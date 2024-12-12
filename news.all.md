@@ -44,8 +44,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Nov) | 3.4% | 3.2% | 3.4% |
 | 13:30 | USD | High | Initial Jobless Claims | 242K | 221K | 225K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 218.50K |
-| 13:30 | USD | High | PPI (MoM) (Nov) | 0.4% | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI (YoY) (Nov) | 3.0% | 2.6% | 2.6% |
+| 13:30 | USD | High | PPI (MoM) (Nov) | 0.4% | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
@@ -62,14 +62,14 @@
 | 21:30 | NZD | Moderate | Business NZ PMI (Nov) | 45.5 |  | 45.8 |
 | 21:45 | NZD | Low | External Migration & Visitors (Oct) | 6.30% |  | 0.90% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) | 2,790 |  | 2,190 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) (Oct) |  |  | 1.1% |
-| 23:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q4) |  | 9.6% | 10.6% |
-| 23:50 | JPY | Low | Tankan All Small Industry CAPEX (Q4) |  |  | 2.6% |
-| 23:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q4) |  |  | 14 |
-| 23:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q4) |  | 13 | 13 |
-| 23:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q4) |  | 28 | 28 |
-| 23:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q4) |  | 33 | 34 |
-| 23:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q4) |  | -2 | 0 |
-| 23:50 | JPY | Low | Tankan Small Manufacturing Index (Q4) |  | -2 | 0 |
-| 23:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 11 |
-| 23:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) |  | 11 | 14 |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) (Oct) | 0.6% |  | 1.3% |
+| 44 min | JPY | Moderate | Tankan All Big Industry CAPEX (Q4) |  | 9.6% | 10.6% |
+| 44 min | JPY | Low | Tankan All Small Industry CAPEX (Q4) |  |  | 2.6% |
+| 44 min | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q4) |  |  | 14 |
+| 44 min | JPY | Moderate | Tankan Large Manufacturers Index (Q4) |  | 13 | 13 |
+| 44 min | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q4) |  | 28 | 28 |
+| 44 min | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q4) |  | 33 | 34 |
+| 44 min | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q4) |  | -2 | 0 |
+| 44 min | JPY | Low | Tankan Small Manufacturing Index (Q4) |  | -2 | 0 |
+| 44 min | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 11 |
+| 44 min | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) |  | 11 | 14 |
