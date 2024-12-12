@@ -1,42 +1,52 @@
-## 11 December 2024 - Low Impact Forex News
+## 12 December 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 08:00 | ZAR | Core CPI (YoY) (Nov) | 3.7% |  | 3.9% |
-| 08:00 | ZAR | Core CPI (MoM) (Nov) | 0.0% |  | 0.2% |
-| 08:00 | ZAR | CPI (MoM) (Nov) | 0.0% |  | -0.1% |
-| 08:00 | ZAR | CPI (YoY) (Nov) | 2.9% |  | 2.8% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.332% |  | 4.475% |
-| 11:00 | ZAR | Retail Sales (YoY) (Oct) | 6.3% |  | 1.1% |
-| 11:30 | INR | M3 Money Supply | 10.0% |  | 10.4% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.67% |  | 6.69% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 5.4% |  | 2.8% |
-| 12:00 | USD | MBA Purchase Index | 154.9 |  | 161.5 |
-| 12:00 | USD | Mortgage Market Index | 225.5 |  | 213.9 |
-| 12:00 | USD | Mortgage Refinance Index | 634.0 |  | 498.5 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) | 1.1% |  | 1.0% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) | 6.3% |  | 3.8% |
-| 13:30 | USD | Core CPI Index (Nov) | 322.66 | 322.41 | 321.67 |
-| 13:30 | USD | CPI Index, n.s.a. (Nov) | 315.49 | 315.37 | 315.66 |
-| 13:30 | USD | CPI Index, s.a (Nov) | 316.44 |  | 315.45 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Nov) | -0.05% |  | 0.12% |
-| 13:30 | USD | Real Earnings (MoM) (Nov) | 0.3% |  | -0.1% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.251M |  | 0.615M |
-| 15:30 | USD | Crude Oil Imports | -0.170M |  | 1.635M |
-| 15:30 | USD | Distillate Fuel Production | -0.086M |  | 0.219M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 3.235M | 0.900M | 3.383M |
-| 15:30 | USD | Gasoline Production | 0.549M |  | -0.248M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.504M |  | 0.242M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.9% |  | 2.8% |
-| 15:30 | USD | Gasoline Inventories | 5.086M | -0.200M | 2.362M |
-| 16:00 | USD | Cleveland CPI (MoM) (Nov) | 0.2% |  | 0.3% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Dec) | 57.59 |  | 55.71 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 48.24 |  | 49.72 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 56.16 |  | 59.46 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) | 51.86 |  | 51.87 |
-| 17:30 | BRL | Foreign Exchange Flows | -2.641B |  | 0.389B |
-| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) | -2.3% |  | -1.1% |
-| 22:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 922.4B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -607.7B |
+| 2 min | AUD | Participation Rate (Nov) |  | 67.1% | 67.1% |
+| 08:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 0.70% |
+| 08:30 | HKD | PPI (YoY) (Q3) |  |  | 3.10% |
+| 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.6% | 6.8% |
+| 09:30 | ZAR | Business Confidence (Oct) |  |  | 110.2 |
+| 09:30 | ZAR | PPI (MoM) (Nov) |  |  | -0.7% |
+| 09:30 | ZAR | PPI (YoY) (Nov) |  |  | -0.7% |
+| 09:31 | ZAR | Business Confidence (Nov) |  |  |  |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.531% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.755% |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.93% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.73% |
+| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.040% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.23% |
+| 10:30 | INR | Cumulative Industrial Production (Oct) |  |  | 4.00% |
+| 10:30 | INR | Industrial Production (YoY) (Oct) |  | 3.5% | 3.1% |
+| 10:30 | INR | Manufacturing Output (MoM) (Oct) |  |  | 3.9% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Dec) |  |  | 49.9 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 43.91 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 46.43 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.17 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.44 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 49.37 |
+| 12:00 | MXN | Industrial Production (MoM) (Oct) |  | -0.2% | 0.6% |
+| 12:00 | MXN | Industrial Production (YoY) (Oct) |  | -0.6% | -0.4% |
+| 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 3.5% |
+| 13:30 | USD | Core PPI (YoY) (Nov) |  | 3.2% | 3.1% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.25K |
+| 13:30 | USD | PPI (YoY) (Nov) |  | 2.6% | 2.4% |
+| 13:45 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
+| 15:30 | USD | Natural Gas Storage |  | -175B | -30B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.400% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.350% |
+| 21:00 | KRW | Export Price Index (YoY) (Nov) |  |  | 2.0% |
+| 21:00 | KRW | Import Price Index (YoY) (Nov) |  |  | -2.5% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.216T |
+| 21:45 | NZD | External Migration & Visitors (Oct) |  |  | 0.90% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Oct) |  |  | 2,310 |
+| 21:45 | NZD | Visitor Arrivals (MoM) (Oct) |  |  | 1.1% |
+| 23:50 | JPY | Tankan All Small Industry CAPEX (Q4) |  |  | 2.6% |
+| 23:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q4) |  | 28 | 28 |
+| 23:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q4) |  | -2 | 0 |
+| 23:50 | JPY | Tankan Small Manufacturing Index (Q4) |  | -2 | 0 |
+| 23:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 11 |
+| 23:50 | JPY | Tankan Small Non-Manufacturing Index (Q4) |  | 11 | 14 |
