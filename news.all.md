@@ -1,75 +1,89 @@
-## 12 December 2024 - All Forex News
+## 13 December 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Employment Change (Nov) | 35.6K | 26.0K | 12.2K |
-| 00:30 | AUD | Moderate | Full Employment Change (Nov) | 52.6K |  | 8.9K |
-| 00:30 | AUD | Low | Participation Rate (Nov) | 67.0% | 67.1% | 67.1% |
-| 00:30 | AUD | Moderate | Unemployment Rate (Nov) | 3.9% | 4.2% | 4.1% |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q4) | 0.50% | 0.75% | 1.00% |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | HKD | Low | Industrial Production (YoY) (Q3) | -0.10% |  | 0.70% |
-| 08:30 | HKD | Low | PPI (YoY) (Q3) | 3.20% |  | 3.10% |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 6.1% | 6.6% | 6.8% |
-| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:30 | ZAR | Low | PPI (MoM) (Nov) | 0.0% |  | -0.7% |
-| 09:30 | ZAR | Low | PPI (YoY) (Nov) | -0.1% |  | -0.7% |
-| 10:30 | INR | Moderate | CPI (YoY) (Nov) | 5.48% | 5.53% | 6.21% |
-| 10:30 | INR | Low | Cumulative Industrial Production (Oct) | 4.00% |  | 4.00% |
-| 10:30 | INR | Low | Industrial Production (YoY) (Oct) | 3.5% | 3.5% | 3.1% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Oct) | 4.1% |  | 3.9% |
-| 10:40 | EUR | Low | Italian 15-Year BTP Auction | 3.19% |  | 3.93% |
-| 10:40 | EUR | Low | Italian 3-Year BTP Auction | 2.35% |  | 2.73% |
-| 10:40 | EUR | Low | Italian 30-Year BTP Auction | 3.940% |  | 4.040% |
-| 10:40 | EUR | Low | Italian 7-Year BTP Auction | 2.92% |  | 3.23% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) | 47.1 |  | 49.9 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) | 44.97 |  | 43.91 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) | 42.48 |  | 46.43 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) | 38.51 |  | 42.17 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.46 |  | 48.44 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.29 |  | 49.37 |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Oct) | -1.2% | -0.2% | 0.6% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Oct) | -2.2% | -0.6% | -0.3% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.6% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.3% |
-| 13:00 | BRL | Low | Auto Production (MoM) (Nov) | -5.2% |  | 8.3% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Nov) | -4.5% |  | 12.1% |
-| 13:15 | EUR | High | Deposit Facility Rate (Dec) | 3.00% | 3.00% | 3.25% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.65% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Dec) | 3.15% | 3.15% | 3.40% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,886K | 1,880K | 1,871K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Nov) | 0.2% | 0.2% | 0.3% |
-| 13:30 | USD | Low | Core PPI (YoY) (Nov) | 3.4% | 3.2% | 3.4% |
-| 13:30 | USD | High | Initial Jobless Claims | 242K | 221K | 225K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 218.50K |
-| 13:30 | USD | Low | PPI (YoY) (Nov) | 3.0% | 2.6% | 2.6% |
-| 13:30 | USD | High | PPI (MoM) (Nov) | 0.4% | 0.2% | 0.3% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 3.5% |  | 3.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage | -190B | -175B | -30B |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.400% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 4.260% |  | 4.350% |
-| 18:00 | USD | High | 30-Year Bond Auction | 4.535% |  | 4.608% |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Nov) | 7.0% |  | 2.0% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Nov) | 3.0% |  | -2.5% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,897B |  | 6,896B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.274T |  | 3.216T |
-| 21:30 | NZD | Moderate | Business NZ PMI (Nov) | 45.5 |  | 45.8 |
-| 21:45 | NZD | Low | External Migration & Visitors (Oct) | 6.30% |  | 0.90% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Oct) | 2,790 |  | 2,190 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) (Oct) | 0.6% |  | 1.3% |
-| 44 min | JPY | Moderate | Tankan All Big Industry CAPEX (Q4) |  | 9.6% | 10.6% |
-| 44 min | JPY | Low | Tankan All Small Industry CAPEX (Q4) |  |  | 2.6% |
-| 44 min | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q4) |  |  | 14 |
-| 44 min | JPY | Moderate | Tankan Large Manufacturers Index (Q4) |  | 13 | 13 |
-| 44 min | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q4) |  | 28 | 28 |
-| 44 min | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q4) |  | 33 | 34 |
-| 44 min | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q4) |  | -2 | 0 |
-| 44 min | JPY | Low | Tankan Small Manufacturing Index (Q4) |  | -2 | 0 |
-| 44 min | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 11 |
-| 44 min | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) |  | 11 | 14 |
+| 00:01 | GBP | Low | GfK Consumer Confidence (Dec) | -17 | -18 | -18 |
+| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 40.12 |
+| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.00 |
+| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.95 |
+| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 37.76 |
+| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 73.03 |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 4.4% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 3.0% | 1.6% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Oct) |  | 0.2% | 0.1% |
+| 07:00 | GBP | High | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
+| 07:00 | GBP | Low | GDP (YoY) (Oct) |  | 1.6% | 1.0% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Oct) |  | 0.3% | -0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) |  | 0.2% | -1.8% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  | 0.2% | -1.0% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  | 0.9% | -0.7% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Moderate | Trade Balance (Oct) |  | -16.10B | -16.32B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Oct) |  |  | -5.31B |
+| 07:00 | EUR | Low | German Exports (MoM) (Oct) |  | -2.0% | -1.7% |
+| 07:00 | EUR | Low | German Imports (MoM) (Oct) |  | -0.6% | 2.1% |
+| 07:00 | EUR | Moderate | German Trade Balance (Oct) |  | 15.7B | 17.0B |
+| 07:00 | EUR | Low | German WPI (MoM) (Nov) |  | 0.2% | 0.4% |
+| 07:00 | EUR | Low | German WPI (YoY) (Nov) |  |  | -0.8% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -4.75% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 1.20% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Nov) |  |  | 0.20% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.1% | 0.3% |
+| 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.3% | 1.2% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.1% | 0.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 1.10% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Nov) |  | 2.4% | 2.5% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 2.4% | 1.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.6% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 2.4% | 1.8% |
+| 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 09:30 | GBP | Low | Inflation Expectations |  |  | 2.7% |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (Nov) |  | 7.6% | 7.5% |
+| 10:00 | CNY | Moderate | New Loans (Nov) |  | 950.0B | 500.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) |  | 7.9% | 8.0% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Nov) |  | 2,800.0B | 1,400.0B |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Oct) |  | -1.9% | -2.8% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) |  | 0.0% | -2.0% |
+| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) |  |  | 1.5% |
+| 11:30 | INR | Low | Bank Loan Growth |  |  | 11.1% |
+| 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
+| 11:30 | INR | Low | FX Reserves, USD |  |  | 658.09B |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Oct) |  | -0.20% | 0.80% |
+| 13:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Nov) |  |  | 0.1% |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
+| 13:00 | BRL | Low | Auto Production (MoM) (Nov) |  |  | 8.3% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Nov) |  |  | 12.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Nov) |  |  | -0.1% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.8% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.2% | 0.3% |
+| 13:30 | CAD | Low | Capacity Utilization Rate (Q3) |  | 78.9% | 79.1% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | 1.2% | -0.5% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.5K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.8% | 0.5% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 19.3K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 10.5K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 137.2K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 201.5K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 259.7K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 29.7K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -151.6K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -108.6K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 43.3K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -98.5K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -61.5K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -159.3K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 4.2K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -41.1K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | 21.4K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -17.4K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 2.3K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -23.3K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -57.5K |

@@ -1,25 +1,33 @@
-## 12 December 2024 - Moderate Impact Forex News
+## 13 December 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Nov) | 35.6K | 26.0K | 12.2K |
-| 00:30 | AUD | Full Employment Change (Nov) | 52.6K |  | 8.9K |
-| 00:30 | AUD | Unemployment Rate (Nov) | 3.9% | 4.2% | 4.1% |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 09:00 | CHF | SNB Press Conference |  |  |  |
-| 10:30 | INR | CPI (YoY) (Nov) | 5.48% | 5.53% | 6.21% |
-| 12:00 | BRL | Retail Sales (MoM) (Oct) | 0.4% | -0.2% | 0.6% |
-| 12:00 | BRL | Retail Sales (YoY) (Oct) | 6.5% | 4.8% | 2.3% |
-| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.65% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,886K | 1,880K | 1,871K |
-| 13:30 | USD | Core PPI (MoM) (Nov) | 0.2% | 0.2% | 0.3% |
-| 13:30 | CAD | Building Permits (MoM) (Oct) | -3.1% | -4.8% | 11.5% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,897B |  | 6,896B |
-| 21:30 | NZD | Business NZ PMI (Nov) | 45.5 |  | 45.8 |
-| 44 min | JPY | Tankan All Big Industry CAPEX (Q4) |  | 9.6% | 10.6% |
-| 44 min | JPY | Tankan Big Manufacturing Outlook Index (Q4) |  |  | 14 |
-| 44 min | JPY | Tankan Large Manufacturers Index (Q4) |  | 13 | 13 |
-| 44 min | JPY | Tankan Large Non-Manufacturers Index (Q4) |  | 33 | 34 |
+| 04:30 | JPY | Industrial Production (MoM) (Oct) |  | 3.0% | 1.6% |
+| 07:00 | GBP | Industrial Production (MoM) (Oct) |  | 0.3% | -0.5% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Oct) |  | 0.2% | -1.0% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Trade Balance (Oct) |  | -16.10B | -16.32B |
+| 07:00 | GBP | Trade Balance Non-EU (Oct) |  |  | -5.31B |
+| 07:00 | EUR | German Trade Balance (Oct) |  | 15.7B | 17.0B |
+| 07:45 | EUR | French CPI (MoM) (Nov) |  | 0.1% | 0.3% |
+| 07:45 | EUR | French HICP (MoM) (Nov) |  | -0.1% | 0.3% |
+| 08:00 | EUR | Spanish CPI (YoY) (Nov) |  | 2.4% | 1.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Nov) |  | 2.4% | 1.8% |
+| 10:00 | CNY | New Loans (Nov) |  | 950.0B | 500.0B |
+| 10:00 | EUR | Industrial Production (MoM) (Oct) |  | 0.0% | -2.0% |
+| 13:00 | GBP | NIESR GDP Estimate |  |  | 0.1% |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Nov) |  |  | 0.1% |
+| 13:30 | USD | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
+| 13:30 | USD | Import Price Index (MoM) (Nov) |  | -0.2% | 0.3% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.8% | 0.5% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 19.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 201.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 259.7K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 29.7K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -108.6K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 21.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -17.4K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 2.3K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -57.5K |
