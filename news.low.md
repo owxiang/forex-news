@@ -8,7 +8,7 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.24 |  | 48.95 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 38.49 |  | 37.76 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 69.54 |  | 73.03 |
-| 04:30 | JPY | Capacity Utilization (MoM) (Oct) |  |  | 4.4% |
+| 22 min | JPY | Capacity Utilization (MoM) (Oct) |  |  | 4.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
 | 07:00 | GBP | Construction Output (MoM) (Oct) |  | 0.2% | 0.1% |
 | 07:00 | GBP | GDP (YoY) (Oct) |  | 1.6% | 1.0% |
@@ -19,8 +19,8 @@
 | 07:00 | EUR | German WPI (MoM) (Nov) |  | 0.2% | 0.4% |
 | 07:00 | EUR | German WPI (YoY) (Nov) |  |  | -0.8% |
 | 07:00 | EUR | German Industrial Production (YoY) (Oct) |  |  | -4.75% |
-| 07:45 | EUR | French CPI NSA (YoY) (Nov) |  |  | 1.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Nov) |  |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Nov) |  |  | 1.20% |
 | 07:45 | EUR | French CPI (YoY) (Nov) |  | 1.3% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 1.10% |

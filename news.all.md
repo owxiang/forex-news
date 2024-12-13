@@ -8,8 +8,8 @@
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.24 |  | 48.95 |
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) | 38.49 |  | 37.76 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) | 69.54 |  | 73.03 |
-| 04:30 | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 4.4% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 3.0% | 1.6% |
+| 22 min | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 4.4% |
+| 22 min | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 3.0% | 1.6% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Oct) |  | 0.2% | 0.1% |
 | 07:00 | GBP | High | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
@@ -27,16 +27,16 @@
 | 07:00 | EUR | Low | German WPI (MoM) (Nov) |  | 0.2% | 0.4% |
 | 07:00 | EUR | Low | German WPI (YoY) (Nov) |  |  | -0.8% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -4.75% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 1.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Nov) |  |  | 0.20% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) |  |  | 1.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.1% | 0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Nov) |  | 1.3% | 1.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.1% | 0.3% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Nov) |  | 2.4% | 2.5% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 2.4% | 1.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 2.4% | 1.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 2.4% | 1.8% |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
