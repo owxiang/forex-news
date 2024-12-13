@@ -28,15 +28,15 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Nov) | 0.0% | 0.0% | 0.4% |
 | 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | Inflation Expectations | 3.0% |  | 2.7% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Nov) |  | 7.6% | 7.5% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Nov) |  | 7.9% | 8.0% |
-| 10:00 | CNY | Chinese Total Social Financing (Nov) |  | 2,800.0B | 1,400.0B |
 | 10:00 | EUR | Industrial Production (YoY) (Oct) | -1.2% | -1.9% | -2.2% |
-| 53 min | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 1.5% |
-| 11:30 | INR | Bank Loan Growth |  |  | 11.1% |
-| 11:30 | INR | Deposit Growth |  |  | 11.2% |
-| 11:30 | INR | FX Reserves, USD |  |  | 658.09B |
-| 12:00 | BRL | IBC-Br Economic Activity (Oct) |  | -0.20% | 0.80% |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Dec) | 1.1% |  | 1.5% |
+| 11:04 | CNY | M2 Money Stock (YoY) (Nov) | 7.1% | 7.6% | 7.5% |
+| 11:05 | CNY | Outstanding Loan Growth (YoY) (Nov) | 7.7% | 7.9% | 8.0% |
+| 24 min | INR | Bank Loan Growth |  |  | 11.1% |
+| 24 min | INR | Deposit Growth |  |  | 11.2% |
+| 24 min | INR | FX Reserves, USD |  |  | 658.09B |
+| 54 min | BRL | IBC-Br Economic Activity (Oct) |  | -0.20% | 0.80% |
+| 13:00 | CNY | Chinese Total Social Financing (Nov) |  | 2,800.0B | 1,400.0B |
 | 13:30 | USD | Export Price Index (YoY) (Nov) |  |  | -0.1% |
 | 13:30 | USD | Import Price Index (YoY) (Nov) |  |  | 0.8% |
 | 13:30 | CAD | Capacity Utilization Rate (Q3) |  | 78.9% | 79.1% |

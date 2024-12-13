@@ -40,19 +40,19 @@
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) | 0.0% | 0.0% | 0.4% |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | Low | Inflation Expectations | 3.0% |  | 2.7% |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Nov) |  | 7.6% | 7.5% |
-| 10:00 | CNY | Moderate | New Loans (Nov) |  | 950.0B | 500.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) |  | 7.9% | 8.0% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Nov) |  | 2,800.0B | 1,400.0B |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Oct) | -1.2% | -1.9% | -2.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) | 0.0% | 0.0% | -1.5% |
-| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) |  |  | 1.5% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 11.1% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 11.2% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 658.09B |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Oct) |  | -0.20% | 0.80% |
+| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) | 1.1% |  | 1.5% |
+| 11:04 | CNY | Low | M2 Money Stock (YoY) (Nov) | 7.1% | 7.6% | 7.5% |
+| 11:05 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) | 7.7% | 7.9% | 8.0% |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 11.1% |
+| 24 min | INR | Low | Deposit Growth |  |  | 11.2% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 658.09B |
+| 54 min | BRL | Low | IBC-Br Economic Activity (Oct) |  | -0.20% | 0.80% |
 | 13:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Nov) |  |  | 0.1% |
+| 13:00 | CNY | Moderate | New Loans (Nov) |  | 950.0B | 500.0B |
+| 13:00 | CNY | Low | Chinese Total Social Financing (Nov) |  | 2,800.0B | 1,400.0B |
 | 13:30 | USD | Low | Export Price Index (YoY) (Nov) |  |  | -0.1% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.8% |
