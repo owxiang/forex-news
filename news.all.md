@@ -40,8 +40,8 @@
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 2.4% | 2.4% | 1.8% |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | Low | Inflation Expectations | 3.0% |  | 2.7% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Oct) | -1.2% | -1.9% | -2.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) | 0.0% | 0.0% | -1.5% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Oct) | -1.2% | -1.9% | -2.2% |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) | 1.1% |  | 1.5% |
 | 11:00 | CNY | Low | M2 Money Stock (YoY) (Nov) | 7.1% | 7.6% | 7.5% |
 | 11:00 | CNY | Moderate | New Loans (Nov) | 580.0B | 950.0B | 500.0B |
