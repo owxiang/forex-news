@@ -9,8 +9,8 @@
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 38.49 |  | 37.76 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 69.54 |  | 73.03 |
 | 04:30 | JPY | Capacity Utilization (MoM) (Oct) | 2.6% |  | 4.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) | -0.7% | 0.0% | -0.4% |
 | 07:00 | GBP | Construction Output (MoM) (Oct) | -0.4% | 0.2% | 0.1% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) | -0.7% | 0.0% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Oct) | 1.3% | 1.6% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Oct) | -0.7% | 0.2% | -1.8% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) | 0.0% | 0.9% | -0.7% |
@@ -18,8 +18,8 @@
 | 07:00 | EUR | German Imports (MoM) (Oct) | -0.1% | -0.6% | 2.1% |
 | 07:00 | EUR | German WPI (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
 | 07:00 | EUR | German WPI (YoY) (Nov) | -0.6% |  | -0.8% |
-| 07:45 | EUR | French CPI NSA (MoM) (Nov) | -0.10% |  | 0.20% |
 | 07:45 | EUR | French CPI NSA (YoY) (Nov) | 1.30% |  | 1.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Nov) | -0.10% |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Nov) | 1.3% | 1.3% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) | 1.10% |  | 1.10% |
@@ -37,11 +37,11 @@
 | 11:30 | INR | Deposit Growth | 10.7% |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD | 654.86B |  | 658.09B |
 | 12:00 | BRL | IBC-Br Economic Activity (Oct) | 0.10% | -0.20% | 0.90% |
-| 18 min | USD | Export Price Index (YoY) (Nov) |  |  | -0.1% |
-| 18 min | USD | Import Price Index (YoY) (Nov) |  |  | 0.8% |
-| 18 min | CAD | Capacity Utilization Rate (Q3) |  | 78.9% | 79.1% |
-| 18 min | CAD | Manufacturing Sales (MoM) (Oct) |  | 1.2% | -0.5% |
-| 18 min | CAD | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.5K |
+| 13:30 | USD | Export Price Index (YoY) (Nov) | 0.8% |  | -0.1% |
+| 13:30 | USD | Import Price Index (YoY) (Nov) | 1.3% |  | 0.6% |
+| 13:30 | CAD | Capacity Utilization Rate (Q3) | 79.3% | 78.9% | 79.1% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) | 2.1% | 1.2% | -0.6% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Oct) | 163.6K |  | 166.6K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 10.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 137.2K |

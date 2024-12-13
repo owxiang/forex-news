@@ -17,9 +17,9 @@
 | 11:00 | CNY | New Loans (Nov) | 580.0B | 950.0B | 500.0B |
 | 12:30 | GBP | NIESR GDP Estimate | 0.0% |  | 0.1% |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Nov) | 0.0% |  | 0.1% |
-| 18 min | USD | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
-| 18 min | USD | Import Price Index (MoM) (Nov) |  | -0.2% | 0.3% |
-| 18 min | CAD | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.8% |
+| 13:30 | USD | Export Price Index (MoM) (Nov) | 0.0% | -0.2% | 1.0% |
+| 13:30 | USD | Import Price Index (MoM) (Nov) | 0.1% | -0.2% | 0.1% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Oct) | 1.0% | 0.5% | 1.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 19.3K |
