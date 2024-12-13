@@ -10,11 +10,11 @@
 | 07:00 | GBP | Trade Balance Non-EU (Oct) | -7.28B |  | -5.31B |
 | 07:00 | EUR | German Trade Balance (Oct) | 13.4B | 15.7B | 17.0B |
 | 07:45 | EUR | French CPI (MoM) (Nov) | -0.1% | 0.1% | 0.3% |
-| 07:45 | EUR | French HICP (MoM) (Nov) | 0.3% | -0.1% | 0.3% |
+| 07:45 | EUR | French HICP (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (Nov) | 2.4% | 2.4% | 1.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Nov) | 2.4% | 2.4% | 1.8% |
-| 10:00 | CNY | New Loans (Nov) |  | 950.0B | 500.0B |
-| 10:00 | EUR | Industrial Production (MoM) (Oct) |  | 0.0% | -2.0% |
+| 53 min | CNY | New Loans (Nov) |  | 950.0B | 500.0B |
+| 53 min | EUR | Industrial Production (MoM) (Oct) |  | 0.0% | -2.0% |
 | 13:00 | GBP | NIESR GDP Estimate |  |  | 0.1% |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Nov) |  |  | 0.1% |
 | 13:30 | USD | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
