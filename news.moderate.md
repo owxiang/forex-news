@@ -20,8 +20,8 @@
 | 13:30 | USD | Export Price Index (MoM) (Nov) | 0.0% | -0.2% | 1.0% |
 | 13:30 | USD | Import Price Index (MoM) (Nov) | 0.1% | -0.2% | 0.1% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Oct) | 1.0% | 0.5% | 1.3% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 19.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 201.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 259.7K |

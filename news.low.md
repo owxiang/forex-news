@@ -9,8 +9,8 @@
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 38.49 |  | 37.76 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 69.54 |  | 73.03 |
 | 04:30 | JPY | Capacity Utilization (MoM) (Oct) | 2.6% |  | 4.4% |
-| 07:00 | GBP | Construction Output (MoM) (Oct) | -0.4% | 0.2% | 0.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Oct) | -0.7% | 0.0% | -0.4% |
+| 07:00 | GBP | Construction Output (MoM) (Oct) | -0.4% | 0.2% | 0.1% |
 | 07:00 | GBP | GDP (YoY) (Oct) | 1.3% | 1.6% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Oct) | -0.7% | 0.2% | -1.8% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) | 0.0% | 0.9% | -0.7% |
