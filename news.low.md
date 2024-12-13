@@ -16,8 +16,8 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) | 0.0% | 0.9% | -0.7% |
 | 07:00 | EUR | German Exports (MoM) (Oct) | -2.8% | -2.0% | -1.7% |
 | 07:00 | EUR | German Imports (MoM) (Oct) | -0.1% | -0.6% | 2.1% |
-| 07:00 | EUR | German WPI (YoY) (Nov) | -0.6% |  | -0.8% |
 | 07:00 | EUR | German WPI (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
+| 07:00 | EUR | German WPI (YoY) (Nov) | -0.6% |  | -0.8% |
 | 07:45 | EUR | French CPI NSA (YoY) (Nov) | 1.30% |  | 1.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Nov) | -0.10% |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Nov) | 1.3% | 1.3% | 1.2% |
@@ -27,12 +27,12 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Nov) | 0.2% | 0.2% | 0.6% |
 | 08:00 | EUR | Spanish HICP (MoM) (Nov) | 0.0% | 0.0% | 0.4% |
 | 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 23 min | GBP | Inflation Expectations |  |  | 2.7% |
-| 53 min | CNY | M2 Money Stock (YoY) (Nov) |  | 7.6% | 7.5% |
-| 53 min | CNY | Outstanding Loan Growth (YoY) (Nov) |  | 7.9% | 8.0% |
-| 53 min | CNY | Chinese Total Social Financing (Nov) |  | 2,800.0B | 1,400.0B |
-| 53 min | EUR | Industrial Production (YoY) (Oct) |  | -1.9% | -2.8% |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 1.5% |
+| 09:30 | GBP | Inflation Expectations | 3.0% |  | 2.7% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Nov) |  | 7.6% | 7.5% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Nov) |  | 7.9% | 8.0% |
+| 10:00 | CNY | Chinese Total Social Financing (Nov) |  | 2,800.0B | 1,400.0B |
+| 10:00 | EUR | Industrial Production (YoY) (Oct) | -1.2% | -1.9% | -2.2% |
+| 53 min | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 1.5% |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.1% |
 | 11:30 | INR | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 658.09B |
