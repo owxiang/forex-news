@@ -14,8 +14,8 @@
 | 07:00 | GBP | Low | Construction Output (MoM) (Oct) | -0.4% | 0.2% | 0.1% |
 | 07:00 | GBP | High | GDP (MoM) (Oct) | -0.1% | 0.1% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Oct) | 1.3% | 1.6% | 1.0% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) | -0.7% | 0.2% | -1.8% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Oct) | -0.6% | 0.3% | -0.5% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Oct) | -0.7% | 0.2% | -1.8% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) | -0.6% | 0.2% | -1.0% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Oct) | 0.0% | 0.9% | -0.7% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) | 0.1% | 0.2% | 0.1% |
@@ -28,16 +28,16 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Nov) | -0.6% |  | -0.8% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Nov) | -0.10% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Nov) | 1.30% |  | 1.20% |
-| 07:45 | EUR | Low | French CPI (YoY) (Nov) | 1.3% | 1.3% | 1.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.1% | 0.1% | 0.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
+| 07:45 | EUR | Low | French CPI (YoY) (Nov) | 1.3% | 1.3% | 1.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) | 1.10% |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.5% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 2.4% | 2.4% | 1.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Nov) | 0.2% | 0.2% | 0.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 2.4% | 2.4% | 1.8% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 2.4% | 2.4% | 1.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Nov) | 0.0% | 0.0% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 2.4% | 2.4% | 1.8% |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | Low | Inflation Expectations | 3.0% |  | 2.7% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Oct) | 0.0% | 0.0% | -1.5% |
@@ -50,17 +50,17 @@
 | 11:30 | INR | Low | Bank Loan Growth | 10.6% |  | 11.1% |
 | 11:30 | INR | Low | Deposit Growth | 10.7% |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD | 654.86B |  | 658.09B |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Oct) | 0.10% | -0.20% | 0.80% |
-| 50 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
-| 50 min | GBP | Moderate | NIESR Monthly GDP Tracker (Nov) |  |  | 0.1% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Nov) |  |  | -0.1% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.8% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.2% | 0.3% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Q3) |  | 78.9% | 79.1% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | 1.2% | -0.5% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.5K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.8% |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Oct) | 0.10% | -0.20% | 0.90% |
+| 12:30 | GBP | Moderate | NIESR GDP Estimate | 0.0% |  | 0.1% |
+| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Nov) | 0.0% |  | 0.1% |
+| 18 min | USD | Low | Export Price Index (YoY) (Nov) |  |  | -0.1% |
+| 18 min | USD | Moderate | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
+| 18 min | USD | Low | Import Price Index (YoY) (Nov) |  |  | 0.8% |
+| 18 min | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.2% | 0.3% |
+| 18 min | CAD | Low | Capacity Utilization Rate (Q3) |  | 78.9% | 79.1% |
+| 18 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | 1.2% | -0.5% |
+| 18 min | CAD | Low | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.5K |
+| 18 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.8% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 19.3K |

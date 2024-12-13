@@ -36,12 +36,12 @@
 | 11:30 | INR | Bank Loan Growth | 10.6% |  | 11.1% |
 | 11:30 | INR | Deposit Growth | 10.7% |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD | 654.86B |  | 658.09B |
-| 12:00 | BRL | IBC-Br Economic Activity (Oct) | 0.10% | -0.20% | 0.80% |
-| 13:30 | USD | Export Price Index (YoY) (Nov) |  |  | -0.1% |
-| 13:30 | USD | Import Price Index (YoY) (Nov) |  |  | 0.8% |
-| 13:30 | CAD | Capacity Utilization Rate (Q3) |  | 78.9% | 79.1% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | 1.2% | -0.5% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.5K |
+| 12:00 | BRL | IBC-Br Economic Activity (Oct) | 0.10% | -0.20% | 0.90% |
+| 18 min | USD | Export Price Index (YoY) (Nov) |  |  | -0.1% |
+| 18 min | USD | Import Price Index (YoY) (Nov) |  |  | 0.8% |
+| 18 min | CAD | Capacity Utilization Rate (Q3) |  | 78.9% | 79.1% |
+| 18 min | CAD | Manufacturing Sales (MoM) (Oct) |  | 1.2% | -0.5% |
+| 18 min | CAD | New Motor Vehicle Sales (MoM) (Oct) |  |  | 168.5K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 10.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 137.2K |
