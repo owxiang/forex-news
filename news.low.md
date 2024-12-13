@@ -18,8 +18,8 @@
 | 07:00 | EUR | German Imports (MoM) (Oct) | -0.1% | -0.6% | 2.1% |
 | 07:00 | EUR | German WPI (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
 | 07:00 | EUR | German WPI (YoY) (Nov) | -0.6% |  | -0.8% |
-| 07:45 | EUR | French CPI NSA (YoY) (Nov) | 1.30% |  | 1.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Nov) | -0.10% |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Nov) | 1.30% |  | 1.20% |
 | 07:45 | EUR | French CPI (YoY) (Nov) | 1.3% | 1.3% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Nov) | 1.7% | 1.7% | 1.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) | 1.10% |  | 1.10% |
