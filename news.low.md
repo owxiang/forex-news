@@ -8,9 +8,9 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 49.24 |  | 48.95 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 38.49 |  | 37.76 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 69.54 |  | 73.03 |
-| 22 min | JPY | Capacity Utilization (MoM) (Oct) |  |  | 4.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Oct) | 2.6% |  | 4.4% |
 | 07:00 | GBP | Construction Output (MoM) (Oct) |  | 0.2% | 0.1% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Oct) |  | 1.6% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Oct) |  | 0.2% | -1.8% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) |  | 0.9% | -0.7% |
@@ -38,7 +38,6 @@
 | 11:30 | INR | Deposit Growth |  |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 658.09B |
 | 12:00 | BRL | IBC-Br Economic Activity (Oct) |  | -0.20% | 0.80% |
-| 13:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 22.6B |
 | 13:00 | BRL | Auto Production (MoM) (Nov) |  |  | 8.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Nov) |  |  | 12.1% |
 | 13:30 | USD | Export Price Index (YoY) (Nov) |  |  | -0.1% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | JPY | Industrial Production (MoM) (Oct) |  | 3.0% | 1.6% |
+| 04:30 | JPY | Industrial Production (MoM) (Oct) | 2.8% | 3.0% | 1.6% |
 | 07:00 | GBP | Industrial Production (MoM) (Oct) |  | 0.3% | -0.5% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Oct) |  | 0.2% | -1.0% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.2% | 0.1% |
@@ -19,7 +19,7 @@
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Nov) |  |  | 0.1% |
 | 13:30 | USD | Export Price Index (MoM) (Nov) |  | -0.2% | 0.8% |
 | 13:30 | USD | Import Price Index (MoM) (Nov) |  | -0.2% | 0.3% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.8% | 0.5% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.8% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 19.3K |
