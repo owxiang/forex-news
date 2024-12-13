@@ -9,24 +9,24 @@
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 38.49 |  | 37.76 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 69.54 |  | 73.03 |
 | 04:30 | JPY | Capacity Utilization (MoM) (Oct) | 2.6% |  | 4.4% |
-| 07:00 | GBP | Construction Output (MoM) (Oct) | -0.4% | 0.2% | 0.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Oct) | -0.7% | 0.0% | -0.4% |
+| 07:00 | GBP | Construction Output (MoM) (Oct) | -0.4% | 0.2% | 0.1% |
 | 07:00 | GBP | GDP (YoY) (Oct) | 1.3% | 1.6% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Oct) | -0.7% | 0.2% | -1.8% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) | 0.0% | 0.9% | -0.7% |
 | 07:00 | EUR | German Exports (MoM) (Oct) | -2.8% | -2.0% | -1.7% |
 | 07:00 | EUR | German Imports (MoM) (Oct) | -0.1% | -0.6% | 2.1% |
-| 07:00 | EUR | German WPI (YoY) (Nov) | -0.6% |  | -0.8% |
 | 07:00 | EUR | German WPI (MoM) (Nov) | 0.0% | 0.2% | 0.4% |
-| 39 min | EUR | French CPI NSA (YoY) (Nov) |  |  | 1.20% |
-| 39 min | EUR | French CPI NSA (MoM) (Nov) |  |  | 0.20% |
-| 39 min | EUR | French CPI (YoY) (Nov) |  | 1.3% | 1.2% |
-| 39 min | EUR | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
-| 39 min | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 1.10% |
-| 54 min | EUR | Core CPI (YoY) (Nov) |  | 2.4% | 2.5% |
-| 54 min | EUR | Spanish CPI (MoM) (Nov) |  | 0.2% | 0.6% |
-| 53 min | EUR | Spanish HICP (MoM) (Nov) |  | 0.0% | 0.4% |
-| 53 min | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 07:00 | EUR | German WPI (YoY) (Nov) | -0.6% |  | -0.8% |
+| 07:45 | EUR | French CPI NSA (MoM) (Nov) | -0.10% |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Nov) | 1.30% |  | 1.20% |
+| 07:45 | EUR | French CPI (YoY) (Nov) | 1.3% | 1.3% | 1.2% |
+| 07:45 | EUR | French HICP (YoY) (Nov) | 1.6% | 1.7% | 1.6% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) | 1.10% |  | 1.10% |
+| 08:00 | EUR | Core CPI (YoY) (Nov) | 2.4% | 2.4% | 2.5% |
+| 08:00 | EUR | Spanish CPI (MoM) (Nov) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (Nov) | 0.0% | 0.0% | 0.4% |
+| 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | Inflation Expectations |  |  | 2.7% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Nov) |  | 7.6% | 7.5% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Nov) |  | 7.9% | 8.0% |
