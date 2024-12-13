@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 51 min | GBP | GDP (MoM) (Oct) |  | 0.1% | -0.1% |
+| 07:00 | GBP | GDP (MoM) (Oct) | -0.1% | 0.1% | -0.1% |
