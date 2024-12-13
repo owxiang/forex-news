@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Dec) | -17 | -18 | -18 |
-| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 40.12 |
-| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.00 |
-| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.95 |
-| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) |  |  | 37.76 |
-| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 73.03 |
+| 26 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 40.12 |
+| 26 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 61.00 |
+| 26 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 48.95 |
+| 26 min | JPY | Thomson Reuters IPSOS PCSI (Dec) |  |  | 37.76 |
+| 26 min | CNY | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 73.03 |
 | 04:30 | JPY | Capacity Utilization (MoM) (Oct) |  |  | 4.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
 | 07:00 | GBP | Construction Output (MoM) (Oct) |  | 0.2% | 0.1% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Oct) |  | 1.6% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Oct) |  | 0.2% | -1.8% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Oct) |  | 0.9% | -0.7% |
