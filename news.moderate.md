@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | JPY | Industrial Production (MoM) (Oct) | 2.8% | 3.0% | 1.6% |
-| 07:00 | GBP | Industrial Production (MoM) (Oct) |  | 0.3% | -0.5% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Oct) |  | 0.2% | -1.0% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.2% | 0.1% |
-| 07:00 | GBP | Trade Balance (Oct) |  | -16.10B | -16.32B |
-| 07:00 | GBP | Trade Balance Non-EU (Oct) |  |  | -5.31B |
-| 07:00 | EUR | German Trade Balance (Oct) |  | 15.7B | 17.0B |
+| 51 min | GBP | Industrial Production (MoM) (Oct) |  | 0.3% | -0.5% |
+| 51 min | GBP | Manufacturing Production (MoM) (Oct) |  | 0.2% | -1.0% |
+| 51 min | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.2% | 0.1% |
+| 51 min | GBP | Trade Balance (Oct) |  | -16.10B | -16.32B |
+| 51 min | GBP | Trade Balance Non-EU (Oct) |  |  | -5.31B |
+| 51 min | EUR | German Trade Balance (Oct) |  | 15.7B | 17.0B |
 | 07:45 | EUR | French CPI (MoM) (Nov) |  | 0.1% | 0.3% |
 | 07:45 | EUR | French HICP (MoM) (Nov) |  | -0.1% | 0.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (Nov) |  | 2.4% | 1.8% |

@@ -9,18 +9,18 @@
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Dec) | 38.49 |  | 37.76 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Dec) | 69.54 |  | 73.03 |
 | 04:30 | JPY | Capacity Utilization (MoM) (Oct) | 2.6% |  | 4.4% |
-| 07:00 | GBP | Construction Output (MoM) (Oct) |  | 0.2% | 0.1% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
-| 07:00 | GBP | GDP (YoY) (Oct) |  | 1.6% | 1.0% |
-| 07:00 | GBP | Industrial Production (YoY) (Oct) |  | 0.2% | -1.8% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Oct) |  | 0.9% | -0.7% |
-| 07:00 | EUR | German Exports (MoM) (Oct) |  | -2.0% | -1.7% |
-| 07:00 | EUR | German Imports (MoM) (Oct) |  | -0.6% | 2.1% |
-| 07:00 | EUR | German WPI (MoM) (Nov) |  | 0.2% | 0.4% |
-| 07:00 | EUR | German WPI (YoY) (Nov) |  |  | -0.8% |
-| 07:00 | EUR | German Industrial Production (YoY) (Oct) |  |  | -4.75% |
-| 07:45 | EUR | French CPI NSA (MoM) (Nov) |  |  | 0.20% |
+| 51 min | GBP | Construction Output (MoM) (Oct) |  | 0.2% | 0.1% |
+| 51 min | GBP | U.K. Construction Output (YoY) (Oct) |  | 0.0% | -0.4% |
+| 51 min | GBP | GDP (YoY) (Oct) |  | 1.6% | 1.0% |
+| 51 min | GBP | Industrial Production (YoY) (Oct) |  | 0.2% | -1.8% |
+| 51 min | GBP | Manufacturing Production (YoY) (Oct) |  | 0.9% | -0.7% |
+| 51 min | EUR | German Exports (MoM) (Oct) |  | -2.0% | -1.7% |
+| 51 min | EUR | German Imports (MoM) (Oct) |  | -0.6% | 2.1% |
+| 51 min | EUR | German WPI (MoM) (Nov) |  | 0.2% | 0.4% |
+| 51 min | EUR | German WPI (YoY) (Nov) |  |  | -0.8% |
+| 51 min | EUR | German Industrial Production (YoY) (Oct) |  |  | -4.75% |
 | 07:45 | EUR | French CPI NSA (YoY) (Nov) |  |  | 1.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (Nov) |  |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Nov) |  | 1.3% | 1.2% |
 | 07:45 | EUR | French HICP (YoY) (Nov) |  | 1.7% | 1.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 1.10% |
