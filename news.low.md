@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | CNY | FDI (Nov) |  |  | -29.80% |
+| 54 min | CNY | FDI (Nov) |  |  | -29.80% |
