@@ -1,3 +1,3 @@
-## 14 December 2024 - Moderate Impact Forex News
+## 15 December 2024 - Moderate Impact Forex News
 
 There is no moderate impact news today.
