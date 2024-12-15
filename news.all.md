@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Nov) |  | 1.2% | 2.1% |
 | 21:45 | NZD | Low | FPI (MoM) (Nov) |  |  | -0.9% |
 | 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Dec) |  |  | 49.4 |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI (Dec) |  |  | 50.5 |
