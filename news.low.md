@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.7% |  | -1.4% |
-| 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) |  | 49.2 | 49.0 |
-| 01:30 | CNY | House Prices (YoY) (Nov) |  |  | -5.9% |
-| 02:00 | CNY | Retail Sales (YoY) (Nov) |  | 4.6% | 4.8% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.51% |
+| 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.5 | 49.2 | 49.0 |
+| 01:30 | CNY | House Prices (YoY) (Nov) | -5.7% |  | -5.9% |
+| 26 min | CNY | Retail Sales (YoY) (Nov) |  | 4.6% | 4.8% |
+| 26 min | CNY | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.51% |
 | 03:00 | KRW | M3 Money Supply (Oct) |  |  | 5,557.5B |
 | 03:00 | KRW | M2 Money supply (Oct) |  |  | 5.60% |
 | 04:00 | IDR | Export Growth (YoY) (Nov) |  | 4.92% | 10.25% |
@@ -25,8 +25,8 @@
 | 10:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 10:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
+| 10:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | INR | Exports (USD) (Nov) |  |  | 39.20B |
 | 10:00 | INR | Imports (USD) (Nov) |  |  | 66.34B |
 | 10:00 | INR | Trade Balance (Nov) |  |  | -27.14B |

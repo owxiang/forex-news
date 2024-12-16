@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.7% |  | -1.4% |
-| 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) |  | 49.2 | 49.0 |
-| 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) |  |  | 50.5 |
-| 01:30 | CNY | Low | House Prices (YoY) (Nov) |  |  | -5.9% |
-| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Nov) |  | 3.5% | 3.4% |
-| 02:00 | CNY | Moderate | Industrial Production (YoY) (Nov) |  | 5.4% | 5.3% |
-| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 5.8% |
-| 02:00 | CNY | Low | Retail Sales (YoY) (Nov) |  | 4.6% | 4.8% |
-| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.51% |
-| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Nov) |  | 5.0% | 5.0% |
-| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.5 | 49.2 | 49.0 |
+| 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) | 51.4 |  | 50.5 |
+| 01:30 | CNY | Low | House Prices (YoY) (Nov) | -5.7% |  | -5.9% |
+| 26 min | CNY | Moderate | Fixed Asset Investment (YoY) (Nov) |  | 3.5% | 3.4% |
+| 26 min | CNY | Moderate | Industrial Production (YoY) (Nov) |  | 5.4% | 5.3% |
+| 26 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 5.8% |
+| 26 min | CNY | Low | Retail Sales (YoY) (Nov) |  | 4.6% | 4.8% |
+| 26 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.51% |
+| 26 min | CNY | Moderate | Chinese Unemployment Rate (Nov) |  | 5.0% | 5.0% |
+| 26 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 03:00 | KRW | Low | M3 Money Supply (Oct) |  |  | 5,557.5B |
 | 03:00 | KRW | Low | M2 Money supply (Oct) |  |  | 5.60% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Nov) |  | 4.92% | 10.25% |
@@ -46,8 +46,8 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | INR | Low | Exports (USD) (Nov) |  |  | 39.20B |
 | 10:00 | INR | Low | Imports (USD) (Nov) |  |  | 66.34B |
 | 10:00 | INR | Low | Trade Balance (Nov) |  |  | -27.14B |
