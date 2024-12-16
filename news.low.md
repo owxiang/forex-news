@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.7% |  | -1.4% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.5 | 49.2 | 49.0 |
 | 01:30 | CNY | House Prices (YoY) (Nov) | -5.7% |  | -5.9% |
 | 02:00 | CNY | Retail Sales (YoY) (Nov) | 3.0% | 4.6% | 4.8% |
@@ -23,17 +22,18 @@
 | 07:30 | CHF | PPI (YoY) (Nov) | -1.5% |  | -1.8% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) | 46.7 |  | 45.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) | 47.8 |  | 47.2 |
-| 52 min | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
-| 52 min | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
-| 52 min | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 52 min | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
-| 52 min | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
-| 52 min | INR | Exports (USD) (Nov) |  |  | 39.20B |
-| 52 min | INR | Imports (USD) (Nov) |  |  | 66.34B |
-| 52 min | INR | Trade Balance (Nov) |  |  | -27.14B |
-| 52 min | EUR | Labor Cost Index (YoY) (Q3) |  | 4.60% | 4.70% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Nov) |  |  | 1,386.88B |
+| 09:50 | INR | Exports (USD) (Nov) | 32.11B |  | 39.20B |
+| 09:50 | INR | Imports (USD) (Nov) | 69.95B |  | 66.34B |
+| 09:50 | INR | Trade Balance (Nov) | -37.84B |  | -27.14B |
+| 09:59 | GBP | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
+| 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
+| 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
+| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
+| 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 4.60% | 4.60% | 5.20% |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
+| 52 min | EUR | Reserve Assets Total (Nov) |  |  | 1,386.88B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.641% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.817% |
