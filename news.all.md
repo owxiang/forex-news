@@ -29,31 +29,31 @@
 | 07:00 | NOK | Low | Trade Balance (Nov) | 74.2B |  | 62.6B |
 | 07:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.6% | 0.2% | -0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Nov) | -1.5% |  | -1.8% |
-| 5 min | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
-| 5 min | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 45.9 |
-| 5 min | EUR | Moderate | HCOB France Services PMI (Dec) |  | 46.9 | 46.9 |
-| 5 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 20 min | EUR | Low | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |
-| 20 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.1 | 43.0 |
-| 20 min | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.5 | 49.3 |
-| 25 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 35 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 50 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 45.3 | 45.2 |
-| 50 min | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  |  | 48.3 |
-| 50 min | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 49.5 | 49.5 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
-| 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
-| 10:00 | INR | Low | Exports (USD) (Nov) |  |  | 39.20B |
-| 10:00 | INR | Low | Imports (USD) (Nov) |  |  | 66.34B |
-| 10:00 | INR | Low | Trade Balance (Nov) |  |  | -27.14B |
-| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q3) |  |  | 4.50% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q3) |  | 4.60% | 4.70% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 41.9 | 43.2 | 43.1 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Dec) | 46.7 |  | 45.9 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) | 48.2 | 46.9 | 46.9 |
+| 08:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Dec) | 47.8 |  | 47.2 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 42.5 | 43.1 | 43.0 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 51.0 | 49.5 | 49.3 |
+| 08:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 45.2 | 45.3 | 45.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 49.5 |  | 48.3 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 51.4 | 49.5 | 49.5 |
+| 22 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
+| 22 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
+| 22 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
+| 52 min | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
+| 52 min | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
+| 52 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
+| 52 min | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
+| 52 min | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
+| 52 min | INR | Low | Exports (USD) (Nov) |  |  | 39.20B |
+| 52 min | INR | Low | Imports (USD) (Nov) |  |  | 66.34B |
+| 52 min | INR | Low | Trade Balance (Nov) |  |  | -27.14B |
+| 52 min | EUR | Moderate | Wages in euro zone (YoY) (Q3) |  |  | 4.50% |
+| 52 min | EUR | Low | Labor Cost Index (YoY) (Q3) |  | 4.60% | 4.70% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,386.88B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

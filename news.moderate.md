@@ -10,20 +10,20 @@
 | 02:00 | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Nov) | 1.89% | 2.20% | 2.36% |
 | 07:30 | CHF | PPI (MoM) (Nov) | -0.6% | 0.2% | -0.3% |
-| 5 min | EUR | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
-| 5 min | EUR | HCOB France Services PMI (Dec) |  | 46.9 | 46.9 |
-| 5 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20 min | EUR | HCOB Germany Manufacturing PMI (Dec) |  | 43.1 | 43.0 |
-| 20 min | EUR | HCOB Germany Services PMI (Dec) |  | 49.5 | 49.3 |
-| 25 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 35 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 50 min | EUR | HCOB Eurozone Manufacturing PMI (Dec) |  | 45.3 | 45.2 |
-| 50 min | EUR | HCOB Eurozone Composite PMI (Dec) |  |  | 48.3 |
-| 50 min | EUR | HCOB Eurozone Services PMI (Dec) |  | 49.5 | 49.5 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q3) |  |  | 4.50% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Dec) | 41.9 | 43.2 | 43.1 |
+| 08:15 | EUR | HCOB France Services PMI (Dec) | 48.2 | 46.9 | 46.9 |
+| 08:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Dec) | 42.5 | 43.1 | 43.0 |
+| 08:30 | EUR | HCOB Germany Services PMI (Dec) | 51.0 | 49.5 | 49.3 |
+| 08:35 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:45 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) | 45.2 | 45.3 | 45.2 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 49.5 |  | 48.3 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Dec) | 51.4 | 49.5 | 49.5 |
+| 22 min | GBP | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
+| 22 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
+| 22 min | GBP | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
+| 52 min | EUR | Wages in euro zone (YoY) (Q3) |  |  | 4.50% |
 | 13:15 | CAD | Housing Starts (Nov) |  | 246.0K | 240.8K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Dec) |  | 6.40 | 31.20 |
 | 14:45 | USD | S&P Global Composite PMI (Dec) |  |  | 54.9 |

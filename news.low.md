@@ -21,17 +21,17 @@
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) | 2.00% |  | 1.50% |
 | 07:00 | NOK | Trade Balance (Nov) | 74.2B |  | 62.6B |
 | 07:30 | CHF | PPI (YoY) (Nov) | -1.5% |  | -1.8% |
-| 5 min | EUR | HCOB France Composite PMI (Dec) |  |  | 45.9 |
-| 20 min | EUR | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |
-| 10:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
-| 10:00 | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
-| 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 10:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
-| 10:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
-| 10:00 | INR | Exports (USD) (Nov) |  |  | 39.20B |
-| 10:00 | INR | Imports (USD) (Nov) |  |  | 66.34B |
-| 10:00 | INR | Trade Balance (Nov) |  |  | -27.14B |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q3) |  | 4.60% | 4.70% |
+| 08:15 | EUR | HCOB France Composite PMI (Dec) | 46.7 |  | 45.9 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Dec) | 47.8 |  | 47.2 |
+| 52 min | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
+| 52 min | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
+| 52 min | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
+| 52 min | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
+| 52 min | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
+| 52 min | INR | Exports (USD) (Nov) |  |  | 39.20B |
+| 52 min | INR | Imports (USD) (Nov) |  |  | 66.34B |
+| 52 min | INR | Trade Balance (Nov) |  |  | -27.14B |
+| 52 min | EUR | Labor Cost Index (YoY) (Q3) |  | 4.60% | 4.70% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Nov) |  |  | 1,386.88B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
