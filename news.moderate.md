@@ -8,8 +8,8 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) | 5.8% |  | 5.8% |
 | 02:00 | CNY | Chinese Unemployment Rate (Nov) | 5.0% | 5.0% | 5.0% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 21 min | INR | WPI Inflation (YoY) (Nov) |  | 2.20% | 2.36% |
-| 07:30 | CHF | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
+| 06:30 | INR | WPI Inflation (YoY) (Nov) | 1.89% | 2.20% | 2.36% |
+| 23 min | CHF | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
 | 08:15 | EUR | HCOB France Services PMI (Dec) |  | 46.9 | 46.9 |
 | 08:15 | EUR | ECB President Lagarde Speaks |  |  |  |

@@ -16,15 +16,15 @@
 | 04:30 | JPY | Tertiary Industry Activity Index (Oct) | 0.30 | -0.10 | 2.00 |
 | 05:00 | INR | HSBC India Manufacturing PMI (Dec) | 57.4 |  | 56.5 |
 | 05:00 | INR | HSBC India Services PMI (Dec) | 60.8 |  | 58.4 |
-| 21 min | INR | WPI Food (YoY) (Nov) |  |  | 13.54% |
-| 21 min | INR | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
-| 21 min | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
-| 51 min | NOK | Trade Balance (Nov) |  |  | 63.7B |
-| 07:30 | CHF | PPI (YoY) (Nov) |  |  | -1.8% |
+| 06:30 | INR | WPI Food (YoY) (Nov) | 8.63% |  | 13.54% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) | 2.00% |  | 1.50% |
+| 06:30 | INR | WPI Fuel (YoY) (Nov) | -5.83% |  | -5.79% |
+| 07:00 | NOK | Trade Balance (Nov) | 74.2B |  | 62.6B |
+| 23 min | CHF | PPI (YoY) (Nov) |  |  | -1.8% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) |  |  | 45.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |
-| 10:00 | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
+| 10:00 | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |

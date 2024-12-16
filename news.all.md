@@ -22,13 +22,13 @@
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) | 0.30 | -0.10 | 2.00 |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) | 57.4 |  | 56.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Dec) | 60.8 |  | 58.4 |
-| 21 min | INR | Low | WPI Food (YoY) (Nov) |  |  | 13.54% |
-| 21 min | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
-| 21 min | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 2.20% | 2.36% |
-| 21 min | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
-| 51 min | NOK | Low | Trade Balance (Nov) |  |  | 63.7B |
-| 07:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -1.8% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
+| 06:30 | INR | Low | WPI Food (YoY) (Nov) | 8.63% |  | 13.54% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) | 1.89% | 2.20% | 2.36% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) | 2.00% |  | 1.50% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Nov) | -5.83% |  | -5.79% |
+| 07:00 | NOK | Low | Trade Balance (Nov) | 74.2B |  | 62.6B |
+| 23 min | CHF | Moderate | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
+| 23 min | CHF | Low | PPI (YoY) (Nov) |  |  | -1.8% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 45.9 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 46.9 | 46.9 |
@@ -44,8 +44,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
