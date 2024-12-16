@@ -24,8 +24,8 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Dec) | 47.3 | 48.4 | 48.0 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Dec) | 51.4 | 50.9 | 50.8 |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q3) | 4.40% |  | 4.90% |
-| 2 min | CAD | Housing Starts (Nov) |  | 246.0K | 240.8K |
-| 17 min | USD | NY Empire State Manufacturing Index (Dec) |  | 6.40 | 31.20 |
-| 14:45 | USD | S&P Global Composite PMI (Dec) |  |  | 54.9 |
+| 13:15 | CAD | Housing Starts (Nov) | 262.4K | 246.0K | 242.2K |
+| 13:30 | USD | NY Empire State Manufacturing Index (Dec) | 0.20 | 6.40 | 31.20 |
+| 39 min | USD | S&P Global Composite PMI (Dec) |  |  | 54.9 |
 | 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 20:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
