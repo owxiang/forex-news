@@ -29,8 +29,8 @@
 | 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
-| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
+| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 4.60% | 4.60% | 5.20% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Nov) | 1,391.73B |  | 1,386.88B |
@@ -40,4 +40,4 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.575% |  | 2.641% |
 | 16:30 | USD | 3-Month Bill Auction | 4.250% |  | 4.300% |
 | 16:30 | USD | 6-Month Bill Auction | 4.160% |  | 4.200% |
-| 23:30 | AUD | Westpac Consumer Sentiment |  |  | 5.3% |
+| 24 min | AUD | Westpac Consumer Sentiment |  |  | 5.3% |

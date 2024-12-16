@@ -26,8 +26,8 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) | 1.89% | 2.20% | 2.36% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) | 2.00% |  | 1.50% |
 | 07:00 | NOK | Low | Trade Balance (Nov) | 74.2B |  | 62.6B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.6% | 0.2% | -0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Nov) | -1.5% |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.6% | 0.2% | -0.3% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 41.9 | 43.2 | 43.1 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Dec) | 46.7 |  | 45.9 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) | 48.2 | 46.9 | 46.9 |
@@ -50,8 +50,8 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q3) | 4.40% |  | 4.90% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q3) | 4.60% | 4.60% | 5.20% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -69,4 +69,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.160% |  | 4.200% |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 20:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment |  |  | 5.3% |
+| 24 min | AUD | Low | Westpac Consumer Sentiment |  |  | 5.3% |
