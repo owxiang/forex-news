@@ -16,39 +16,39 @@
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 03:00 | KRW | Low | M3 Money Supply (Oct) | 5,584.9B |  | 5,557.5B |
 | 03:00 | KRW | Low | M2 Money supply (Oct) | 6.10% |  | 5.60% |
-| 04:00 | IDR | Low | Export Growth (YoY) (Nov) | 9.14% | 4.92% | 10.25% |
+| 04:00 | IDR | Low | Export Growth (YoY) (Nov) | 9.14% | 4.92% | 10.28% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Nov) | 0.01% | 6.15% | 17.49% |
-| 04:00 | IDR | Low | Trade Balance (Nov) | 4.42B | 2.21B | 2.47B |
+| 04:00 | IDR | Low | Trade Balance (Nov) | 4.42B | 2.21B | 2.48B |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) | 0.30 | -0.10 | 2.00 |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) | 57.4 |  | 56.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Dec) | 60.8 |  | 58.4 |
 | 06:30 | INR | Low | WPI Food (YoY) (Nov) | 8.63% |  | 13.54% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Nov) | -5.83% |  | -5.79% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) | 1.89% | 2.20% | 2.36% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) | 2.00% |  | 1.50% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Nov) | -5.83% |  | -5.79% |
 | 07:00 | NOK | Low | Trade Balance (Nov) | 74.2B |  | 62.6B |
-| 23 min | CHF | Moderate | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
-| 23 min | CHF | Low | PPI (YoY) (Nov) |  |  | -1.8% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 45.9 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 46.9 | 46.9 |
-| 08:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.1 | 43.0 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.5 | 49.3 |
-| 08:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 45.3 | 45.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  |  | 48.3 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 49.5 | 49.5 |
+| 07:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.6% | 0.2% | -0.3% |
+| 07:30 | CHF | Low | PPI (YoY) (Nov) | -1.5% |  | -1.8% |
+| 5 min | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
+| 5 min | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 45.9 |
+| 5 min | EUR | Moderate | HCOB France Services PMI (Dec) |  | 46.9 | 46.9 |
+| 5 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20 min | EUR | Low | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |
+| 20 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.1 | 43.0 |
+| 20 min | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.5 | 49.3 |
+| 25 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 35 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 50 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 45.3 | 45.2 |
+| 50 min | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  |  | 48.3 |
+| 50 min | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 49.5 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | INR | Low | Exports (USD) (Nov) |  |  | 39.20B |
 | 10:00 | INR | Low | Imports (USD) (Nov) |  |  | 66.34B |
 | 10:00 | INR | Low | Trade Balance (Nov) |  |  | -27.14B |
