@@ -16,10 +16,10 @@
 | 04:30 | JPY | Tertiary Industry Activity Index (Oct) | 0.30 | -0.10 | 2.00 |
 | 05:00 | INR | HSBC India Manufacturing PMI (Dec) | 57.4 |  | 56.5 |
 | 05:00 | INR | HSBC India Services PMI (Dec) | 60.8 |  | 58.4 |
-| 06:30 | INR | WPI Food (YoY) (Nov) |  |  | 13.54% |
-| 06:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
-| 07:00 | NOK | Trade Balance (Nov) |  |  | 63.7B |
+| 21 min | INR | WPI Food (YoY) (Nov) |  |  | 13.54% |
+| 21 min | INR | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
+| 21 min | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
+| 51 min | NOK | Trade Balance (Nov) |  |  | 63.7B |
 | 07:30 | CHF | PPI (YoY) (Nov) |  |  | -1.8% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) |  |  | 45.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |

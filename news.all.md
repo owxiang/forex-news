@@ -22,11 +22,11 @@
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) | 0.30 | -0.10 | 2.00 |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) | 57.4 |  | 56.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Dec) | 60.8 |  | 58.4 |
-| 06:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | 13.54% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
-| 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 2.20% | 2.36% |
-| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
-| 07:00 | NOK | Low | Trade Balance (Nov) |  |  | 63.7B |
+| 21 min | INR | Low | WPI Food (YoY) (Nov) |  |  | 13.54% |
+| 21 min | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
+| 21 min | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 2.20% | 2.36% |
+| 21 min | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
+| 51 min | NOK | Low | Trade Balance (Nov) |  |  | 63.7B |
 | 07:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
