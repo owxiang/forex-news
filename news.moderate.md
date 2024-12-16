@@ -27,5 +27,5 @@
 | 13:15 | CAD | Housing Starts (Nov) | 262.4K | 246.0K | 242.2K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Dec) | 0.20 | 6.40 | 31.20 |
 | 14:45 | USD | S&P Global Composite PMI (Dec) | 56.6 | 55.1 | 54.9 |
-| 22 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 20:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
