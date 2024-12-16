@@ -9,12 +9,12 @@
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) | 3.45% |  | 3.51% |
 | 03:00 | KRW | M3 Money Supply (Oct) | 5,584.9B |  | 5,557.5B |
 | 03:00 | KRW | M2 Money supply (Oct) | 6.10% |  | 5.60% |
-| 38 min | IDR | Export Growth (YoY) (Nov) |  | 4.92% | 10.25% |
-| 38 min | IDR | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
-| 38 min | IDR | Trade Balance (Nov) |  | 2.21B | 2.47B |
-| 04:30 | JPY | Tertiary Industry Activity Index (Oct) |  |  | 1.90 |
-| 05:00 | INR | HSBC India Manufacturing PMI (Dec) |  |  | 56.5 |
-| 05:00 | INR | HSBC India Services PMI (Dec) |  |  | 58.4 |
+| 04:00 | IDR | Export Growth (YoY) (Nov) | 9.14% | 4.92% | 10.25% |
+| 04:00 | IDR | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
+| 04:00 | IDR | Trade Balance (Nov) |  | 2.21B | 2.47B |
+| 21 min | JPY | Tertiary Industry Activity Index (Oct) |  |  | 1.90 |
+| 51 min | INR | HSBC India Manufacturing PMI (Dec) |  |  | 56.5 |
+| 51 min | INR | HSBC India Services PMI (Dec) |  |  | 58.4 |
 | 06:30 | INR | WPI Food (YoY) (Nov) |  |  | 13.54% |
 | 06:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
@@ -22,11 +22,11 @@
 | 07:30 | CHF | PPI (YoY) (Nov) |  |  | -1.8% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) |  |  | 45.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |
-| 10:00 | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
+| 10:00 | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 10:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
+| 10:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
 | 10:00 | INR | Exports (USD) (Nov) |  |  | 39.20B |
 | 10:00 | INR | Imports (USD) (Nov) |  |  | 66.34B |
 | 10:00 | INR | Trade Balance (Nov) |  |  | -27.14B |

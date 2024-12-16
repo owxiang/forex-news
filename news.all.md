@@ -15,12 +15,12 @@
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 03:00 | KRW | Low | M3 Money Supply (Oct) | 5,584.9B |  | 5,557.5B |
 | 03:00 | KRW | Low | M2 Money supply (Oct) | 6.10% |  | 5.60% |
-| 38 min | IDR | Low | Export Growth (YoY) (Nov) |  | 4.92% | 10.25% |
-| 38 min | IDR | Low | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
-| 38 min | IDR | Low | Trade Balance (Nov) |  | 2.21B | 2.47B |
-| 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 1.90 |
-| 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) |  |  | 56.5 |
-| 05:00 | INR | Low | HSBC India Services PMI (Dec) |  |  | 58.4 |
+| 04:00 | IDR | Low | Export Growth (YoY) (Nov) | 9.14% | 4.92% | 10.25% |
+| 04:00 | IDR | Low | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
+| 04:00 | IDR | Low | Trade Balance (Nov) |  | 2.21B | 2.47B |
+| 21 min | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 1.90 |
+| 51 min | INR | Low | HSBC India Manufacturing PMI (Dec) |  |  | 56.5 |
+| 51 min | INR | Low | HSBC India Services PMI (Dec) |  |  | 58.4 |
 | 06:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | 13.54% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 2.20% | 2.36% |
@@ -43,11 +43,11 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
 | 10:00 | INR | Low | Exports (USD) (Nov) |  |  | 39.20B |
 | 10:00 | INR | Low | Imports (USD) (Nov) |  |  | 66.34B |
 | 10:00 | INR | Low | Trade Balance (Nov) |  |  | -27.14B |
