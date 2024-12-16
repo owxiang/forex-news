@@ -68,5 +68,5 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.250% |  | 4.300% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.160% |  | 4.200% |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 38 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 20:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment |  |  | 5.3% |

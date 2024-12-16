@@ -28,4 +28,4 @@
 | 13:30 | USD | NY Empire State Manufacturing Index (Dec) | 0.20 | 6.40 | 31.20 |
 | 14:45 | USD | S&P Global Composite PMI (Dec) | 56.6 | 55.1 | 54.9 |
 | 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 38 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 20:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
