@@ -3,6 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.7% |  | -1.4% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.5 | 49.2 | 49.0 |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) | 51.4 |  | 50.5 |
 | 01:30 | CNY | Low | House Prices (YoY) (Nov) | -5.7% |  | -5.9% |
@@ -16,18 +17,18 @@
 | 03:00 | KRW | Low | M3 Money Supply (Oct) | 5,584.9B |  | 5,557.5B |
 | 03:00 | KRW | Low | M2 Money supply (Oct) | 6.10% |  | 5.60% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Nov) | 9.14% | 4.92% | 10.25% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
-| 04:00 | IDR | Low | Trade Balance (Nov) |  | 2.21B | 2.47B |
-| 21 min | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 1.90 |
-| 51 min | INR | Low | HSBC India Manufacturing PMI (Dec) |  |  | 56.5 |
-| 51 min | INR | Low | HSBC India Services PMI (Dec) |  |  | 58.4 |
+| 04:00 | IDR | Low | Import Growth (YoY) (Nov) | 0.01% | 6.15% | 17.49% |
+| 04:00 | IDR | Low | Trade Balance (Nov) | 4.42B | 2.21B | 2.47B |
+| 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) | 0.30 | -0.10 | 2.00 |
+| 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) | 57.4 |  | 56.5 |
+| 05:00 | INR | Low | HSBC India Services PMI (Dec) | 60.8 |  | 58.4 |
 | 06:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | 13.54% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -5.79% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 2.20% | 2.36% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | 1.50% |
 | 07:00 | NOK | Low | Trade Balance (Nov) |  |  | 63.7B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Dec) |  |  | 45.9 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 46.9 | 46.9 |
@@ -43,8 +44,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Dec) |  |  | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 48.4 | 48.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Dec) |  | 50.9 | 50.8 |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
@@ -64,7 +65,6 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 49.4 | 49.7 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 54.9 |
 | 14:45 | USD | High | S&P Global Services PMI (Dec) |  | 55.7 | 56.1 |
-| 16:14 | GBP | Low | Rightmove House Price Index (YoY) (Dec) |  |  | 1.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.300% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.200% |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
