@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Dec) | 51.4 |  | 50.5 |
-| 26 min | CNY | Fixed Asset Investment (YoY) (Nov) |  | 3.5% | 3.4% |
-| 26 min | CNY | Industrial Production (YoY) (Nov) |  | 5.4% | 5.3% |
-| 26 min | CNY | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 5.8% |
-| 26 min | CNY | Chinese Unemployment Rate (Nov) |  | 5.0% | 5.0% |
-| 26 min | CNY | NBS Press Conference |  |  |  |
+| 02:00 | CNY | Fixed Asset Investment (YoY) (Nov) | 3.3% | 3.5% | 3.4% |
+| 02:00 | CNY | Industrial Production (YoY) (Nov) | 5.4% | 5.4% | 5.3% |
+| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) | 5.8% |  | 5.8% |
+| 02:00 | CNY | Chinese Unemployment Rate (Nov) | 5.0% | 5.0% | 5.0% |
+| 02:00 | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Nov) |  | 2.20% | 2.36% |
 | 07:30 | CHF | PPI (MoM) (Nov) |  | 0.2% | -0.3% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Dec) |  | 43.2 | 43.1 |

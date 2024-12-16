@@ -5,10 +5,10 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.7% |  | -1.4% |
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.5 | 49.2 | 49.0 |
 | 01:30 | CNY | House Prices (YoY) (Nov) | -5.7% |  | -5.9% |
-| 26 min | CNY | Retail Sales (YoY) (Nov) |  | 4.6% | 4.8% |
-| 26 min | CNY | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 3.51% |
-| 03:00 | KRW | M3 Money Supply (Oct) |  |  | 5,557.5B |
-| 03:00 | KRW | M2 Money supply (Oct) |  |  | 5.60% |
+| 02:00 | CNY | Retail Sales (YoY) (Nov) | 3.0% | 4.6% | 4.8% |
+| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) | 3.45% |  | 3.51% |
+| 26 min | KRW | M3 Money Supply (Oct) |  |  | 5,557.5B |
+| 26 min | KRW | M2 Money supply (Oct) |  |  | 5.60% |
 | 04:00 | IDR | Export Growth (YoY) (Nov) |  | 4.92% | 10.25% |
 | 04:00 | IDR | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
 | 04:00 | IDR | Trade Balance (Nov) |  | 2.21B | 2.47B |
@@ -22,8 +22,8 @@
 | 07:30 | CHF | PPI (YoY) (Nov) |  |  | -1.8% |
 | 08:15 | EUR | HCOB France Composite PMI (Dec) |  |  | 45.9 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Dec) |  |  | 47.2 |
-| 10:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) |  | 0.0% | 0.3% |
+| 10:00 | EUR | Italian CPI (YoY) (Nov) |  | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.0% | 0.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.6% | 1.0% |
