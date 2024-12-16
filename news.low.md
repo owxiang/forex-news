@@ -29,12 +29,12 @@
 | 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
-| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
+| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 4.60% | 4.60% | 5.20% |
-| 52 min | EUR | German Buba Monthly Report |  |  |  |
-| 52 min | EUR | Reserve Assets Total (Nov) |  |  | 1,386.88B |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Reserve Assets Total (Nov) | 1,391.73B |  | 1,386.88B |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.641% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.817% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.641% |
