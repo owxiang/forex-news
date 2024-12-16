@@ -13,11 +13,11 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) | 3.45% |  | 3.51% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Nov) | 5.0% | 5.0% | 5.0% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 26 min | KRW | Low | M3 Money Supply (Oct) |  |  | 5,557.5B |
-| 26 min | KRW | Low | M2 Money supply (Oct) |  |  | 5.60% |
-| 04:00 | IDR | Low | Export Growth (YoY) (Nov) |  | 4.92% | 10.25% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
-| 04:00 | IDR | Low | Trade Balance (Nov) |  | 2.21B | 2.47B |
+| 03:00 | KRW | Low | M3 Money Supply (Oct) | 5,584.9B |  | 5,557.5B |
+| 03:00 | KRW | Low | M2 Money supply (Oct) | 6.10% |  | 5.60% |
+| 38 min | IDR | Low | Export Growth (YoY) (Nov) |  | 4.92% | 10.25% |
+| 38 min | IDR | Low | Import Growth (YoY) (Nov) |  | 6.15% | 17.49% |
+| 38 min | IDR | Low | Trade Balance (Nov) |  | 2.21B | 2.47B |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 1.90 |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) |  |  | 56.5 |
 | 05:00 | INR | Low | HSBC India Services PMI (Dec) |  |  | 58.4 |
