@@ -13,11 +13,11 @@
 | 10:00 | EUR | German ZEW Current Conditions (Dec) | -93.1 | -92.6 | -91.4 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Dec) | 15.7 | 6.8 | 7.4 |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Trade Balance (Oct) | 6.8B | 11.7B | 12.5B |
+| 10:00 | EUR | Trade Balance (Oct) | 6.8B | 11.7B | 11.6B |
 | 10:00 | EUR | ZEW Economic Sentiment (Dec) | 17.0 | 12.2 | 12.5 |
 | 13:30 | USD | Retail Control (MoM) (Nov) |  | 0.4% | -0.1% |
-| 13:30 | CAD | Core CPI (MoM) (Nov) |  |  | 0.4% |
 | 13:30 | CAD | Core CPI (YoY) (Nov) |  |  | 1.7% |
+| 13:30 | CAD | Core CPI (MoM) (Nov) |  |  | 0.4% |
 | 13:30 | CAD | CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 13:30 | CAD | Foreign Securities Purchases (Oct) |  | 24.50B | 29.30B |
 | 13:30 | CAD | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |

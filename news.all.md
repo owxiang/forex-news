@@ -22,24 +22,24 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Dec) | 84.4 | 87.5 | 87.0 |
 | 09:00 | EUR | Moderate | German Current Assessment (Dec) | 85.1 | 84.0 | 84.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Dec) | 84.7 | 85.5 | 85.6 |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.148% |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Dec) | -93.1 | -92.6 | -91.4 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) | 15.7 | 6.8 | 7.4 |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Trade Balance (Oct) | 6.8B | 11.7B | 12.5B |
+| 10:00 | EUR | Moderate | Trade Balance (Oct) | 6.8B | 11.7B | 11.6B |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) | 17.0 | 12.2 | 12.5 |
-| 53 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Oct) |  |  | 0.1% |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Oct) |  |  | -1.5% |
+| 10:20 | GBP | Low | 5-Year Treasury Gilt Auction | 4.348% |  | 4.148% |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 54 min | MXN | Low | Retail Sales (YoY) (Oct) |  |  | -1.5% |
+| 54 min | MXN | Low | Retail Sales (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Nov) |  | 0.4% | -0.1% |
-| 13:30 | USD | High | Retail Sales (MoM) (Nov) |  | 0.6% | 0.4% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.85% |
+| 13:30 | USD | High | Retail Sales (MoM) (Nov) |  | 0.6% | 0.4% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  | 0.4% | 0.1% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Nov) |  | 2.1% | 2.2% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.4% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 1.7% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.4% |
 | 13:30 | CAD | Low | CPI (YoY) (Nov) |  | 2.0% | 2.0% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Oct) |  | 24.50B | 29.30B |
