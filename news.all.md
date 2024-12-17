@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | NZD | Low | Budget Balance (Jul) | -16.610B |  | -21.860B |
+| 00:00 | NZD | Low | Budget Balance (Jul) | -16.610B |  | -25.600B |
 | 00:00 | NZD | Low | Net Debt Forecast (Jul) | 45.10% |  | 43.10% |
-| 00:00 | NZD | Low | Economic Forecast (Jul) | -17.320B |  | -11.070B |
-| 2 min | SGD | Low | Non-Oil Exports (MoM) (Nov) |  |  | -7.40% |
-| 2 min | SGD | Low | Non-Oil Exports (YoY) (Nov) |  | -1.70% | -4.60% |
+| 00:00 | NZD | Low | Economic Forecast (Jul) | -17.320B |  | -11.074B |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) | 3.40% | -1.70% | -4.70% |
 | 01:30 | SGD | Low | Trade Balance (Nov) |  |  | 4.410B |
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Nov) |  |  | 59.20% |
+| 26 min | NZD | Low | RBNZ Offshore Holdings (Nov) |  |  | 59.20% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) |  | 5.0% | 4.8% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) |  | 4.7% | 4.3% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Nov) |  | 28.2K | 26.7K |
@@ -29,8 +29,8 @@
 | 10:00 | EUR | Moderate | Trade Balance (Oct) |  | 11.9B | 12.5B |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) |  | 11.8 | 12.5 |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Oct) |  |  | -1.5% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Oct) |  |  | 0.1% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Oct) |  |  | -1.5% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Nov) |  |  | -0.1% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.85% |
@@ -59,8 +59,8 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.680% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.3% | 3.3% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.499M |
-| 21:45 | NZD | Moderate | Current Account (QoQ) (Q3) |  | -10.45B | -4.83B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q3) |  |  | -27.76B |
+| 21:45 | NZD | Moderate | Current Account (QoQ) (Q3) |  | -10.45B | -4.83B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q3) |  |  | -6.70% |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.2% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
