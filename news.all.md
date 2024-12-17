@@ -5,8 +5,8 @@
 | 00:00 | NZD | Low | Budget Balance (Jul) | -16.610B |  | -25.600B |
 | 00:00 | NZD | Low | Net Debt Forecast (Jul) | 45.10% |  | 43.10% |
 | 00:00 | NZD | Low | Economic Forecast (Jul) | -17.320B |  | -11.074B |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) | 3.40% | -1.70% | -4.70% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 01:30 | SGD | Low | Trade Balance (Nov) | 6.520B |  | 4.290B |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
@@ -60,10 +60,10 @@
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.686% |  | 4.680% |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) | 97.5 |  | 90.8 |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.850M | 0.499M |
-| 39 min | NZD | Moderate | Current Account (QoQ) (Q3) |  | -10.45B | -4.83B |
-| 39 min | NZD | Moderate | Current Account (YoY) (Q3) |  |  | -27.76B |
-| 39 min | NZD | Low | Current Account % of GDP (Q3) |  |  | -6.70% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.700M | -1.850M | 0.499M |
+| 21:45 | NZD | Moderate | Current Account (QoQ) (Q3) | -10.58B | -10.45B | -4.83B |
+| 21:45 | NZD | Moderate | Current Account (YoY) (Q3) | -26.99B |  | -27.76B |
+| 21:45 | NZD | Low | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.2% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.45T | -0.36T |

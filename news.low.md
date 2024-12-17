@@ -5,8 +5,8 @@
 | 00:00 | NZD | Budget Balance (Jul) | -16.610B |  | -25.600B |
 | 00:00 | NZD | Net Debt Forecast (Jul) | 45.10% |  | 43.10% |
 | 00:00 | NZD | Economic Forecast (Jul) | -17.320B |  | -11.074B |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 3.40% | -1.70% | -4.70% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 01:30 | SGD | Trade Balance (Nov) | 6.520B |  | 4.290B |
 | 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
@@ -32,7 +32,7 @@
 | 14:15 | USD | Capacity Utilization Rate (Nov) | 76.8% | 77.3% | 77.0% |
 | 14:15 | USD | Manufacturing Production (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
 | 15:00 | USD | NAHB Housing Market Index (Dec) | 46 | 47 | 46 |
-| 39 min | NZD | Current Account % of GDP (Q3) |  |  | -6.70% |
+| 21:45 | NZD | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.2% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Imports (YoY) (Nov) |  | 1.0% | 0.4% |
