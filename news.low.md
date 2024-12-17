@@ -17,8 +17,8 @@
 | 09:00 | EUR | Italian Trade Balance EU (Oct) | -0.66B |  | -1.17B |
 | 10:20 | GBP | 5-Year Treasury Gilt Auction | 4.348% |  | 4.148% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | Retail Sales (YoY) (Oct) | -1.2% |  | -1.5% |
 | 12:00 | MXN | Retail Sales (MoM) (Oct) | -0.3% |  | 0.1% |
+| 12:00 | MXN | Retail Sales (YoY) (Oct) | -1.2% |  | -1.5% |
 | 12:00 | NZD | GlobalDairyTrade Price Index | -2.8% |  | 1.2% |
 | 12:00 | USD | Milk Auctions | 4,148.0 |  | 4,193.0 |
 | 13:30 | USD | Retail Sales (YoY) (Nov) | 3.80% |  | 2.90% |
@@ -32,7 +32,7 @@
 | 14:15 | USD | Capacity Utilization Rate (Nov) | 76.8% | 77.3% | 77.0% |
 | 14:15 | USD | Manufacturing Production (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
 | 15:00 | USD | NAHB Housing Market Index (Dec) | 46 | 47 | 46 |
-| 21:45 | NZD | Current Account % of GDP (Q3) |  |  | -6.70% |
+| 39 min | NZD | Current Account % of GDP (Q3) |  |  | -6.70% |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.2% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Imports (YoY) (Nov) |  | 1.0% | 0.4% |
