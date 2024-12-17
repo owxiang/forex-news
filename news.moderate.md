@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Oct) |  | 4.6% | 4.3% |
-| 07:00 | GBP | Claimant Count Change (Nov) |  | 28.2K | 26.7K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Oct) |  | -12K | 219K |
-| 07:00 | GBP | Unemployment Rate (Oct) |  | 4.3% | 4.3% |
+| 51 min | GBP | Average Earnings Index +Bonus (Oct) |  | 4.6% | 4.3% |
+| 51 min | GBP | Claimant Count Change (Nov) |  | 28.2K | 26.7K |
+| 51 min | GBP | Employment Change 3M/3M (MoM) (Oct) |  | -12K | 219K |
+| 51 min | GBP | Unemployment Rate (Oct) |  | 4.3% | 4.3% |
 | 09:00 | EUR | German Business Expectations (Dec) |  | 87.5 | 87.2 |
 | 09:00 | EUR | German Current Assessment (Dec) |  | 84.0 | 84.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Dec) |  | 85.5 | 85.7 |
