@@ -42,8 +42,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Nov) | 2.0% | 2.1% | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) | -0.1% |  | 0.4% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) | 1.6% |  | 1.7% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Low | CPI (YoY) (Nov) | 1.9% | 2.0% | 2.0% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Oct) | 21.55B | 24.50B | 29.65B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) | -2.650B |  | 4.140B |
 | 13:30 | CAD | Low | Median CPI (YoY) (Nov) | 2.6% | 2.4% | 2.6% |
