@@ -19,16 +19,16 @@
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | MXN | Retail Sales (MoM) (Oct) | -0.3% |  | 0.1% |
 | 12:00 | MXN | Retail Sales (YoY) (Oct) | -1.2% |  | -1.5% |
-| 13:30 | USD | Retail Sales (YoY) (Nov) |  |  | 2.85% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  | 0.4% | 0.1% |
-| 13:30 | CAD | Common CPI (YoY) (Nov) |  | 2.1% | 2.2% |
-| 13:30 | CAD | CPI (YoY) (Nov) |  | 2.0% | 2.0% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 4.140B |
-| 13:30 | CAD | Median CPI (YoY) (Nov) |  | 2.4% | 2.5% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Nov) |  | 2.6% | 2.6% |
-| 13:55 | USD | Redbook (YoY) |  |  | 4.2% |
-| 14:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
-| 14:00 | USD | Milk Auctions |  |  | 4,193.0 |
+| 17 min | USD | Retail Sales (YoY) (Nov) |  |  | 2.85% |
+| 17 min | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  | 0.4% | 0.1% |
+| 17 min | CAD | Common CPI (YoY) (Nov) |  | 2.1% | 2.2% |
+| 17 min | CAD | CPI (YoY) (Nov) |  | 2.0% | 2.0% |
+| 17 min | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 4.140B |
+| 17 min | CAD | Median CPI (YoY) (Nov) |  | 2.4% | 2.5% |
+| 17 min | CAD | Trimmed CPI (YoY) (Nov) |  | 2.6% | 2.6% |
+| 42 min | USD | Redbook (YoY) |  |  | 4.2% |
+| 47 min | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 47 min | USD | Milk Auctions |  |  | 4,193.0 |
 | 14:15 | USD | Capacity Utilization Rate (Nov) |  | 77.3% | 77.1% |
 | 14:15 | USD | Manufacturing Production (MoM) (Nov) |  | 0.5% | -0.5% |
 | 15:00 | USD | NAHB Housing Market Index (Dec) |  | 47 | 46 |
