@@ -16,13 +16,13 @@
 | 10:00 | EUR | Trade Balance (Oct) | 6.8B | 11.7B | 11.6B |
 | 10:00 | EUR | ZEW Economic Sentiment (Dec) | 17.0 | 12.2 | 12.5 |
 | 13:30 | USD | Retail Control (MoM) (Nov) |  | 0.4% | -0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Nov) |  |  | 1.7% |
 | 13:30 | CAD | Core CPI (MoM) (Nov) |  |  | 0.4% |
+| 13:30 | CAD | Core CPI (YoY) (Nov) |  |  | 1.7% |
 | 13:30 | CAD | CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 13:30 | CAD | Foreign Securities Purchases (Oct) |  | 24.50B | 29.30B |
 | 13:30 | CAD | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |
-| 14:15 | USD | Industrial Production (YoY) (Nov) |  | 0.10% | -0.29% |
 | 14:15 | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Nov) |  | 0.10% | -0.29% |
 | 15:00 | USD | Business Inventories (MoM) (Oct) |  | 0.2% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Oct) |  | 0.1% | 0.1% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.680% |
