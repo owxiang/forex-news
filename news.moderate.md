@@ -15,16 +15,16 @@
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Trade Balance (Oct) | 6.8B | 11.7B | 11.6B |
 | 10:00 | EUR | ZEW Economic Sentiment (Dec) | 17.0 | 12.2 | 12.5 |
-| 17 min | USD | Retail Control (MoM) (Nov) |  | 0.4% | -0.1% |
-| 17 min | CAD | Core CPI (MoM) (Nov) |  |  | 0.4% |
-| 17 min | CAD | Core CPI (YoY) (Nov) |  |  | 1.7% |
-| 17 min | CAD | CPI (MoM) (Nov) |  | 0.1% | 0.4% |
-| 17 min | CAD | Foreign Securities Purchases (Oct) |  | 24.50B | 29.30B |
-| 17 min | CAD | New Housing Price Index (MoM) (Nov) |  | 0.1% | -0.4% |
-| 14:15 | USD | Industrial Production (YoY) (Nov) |  | 0.10% | -0.29% |
-| 14:15 | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.3% |
-| 15:00 | USD | Business Inventories (MoM) (Oct) |  | 0.2% | 0.1% |
-| 15:00 | USD | Retail Inventories Ex Auto (Oct) |  | 0.1% | 0.1% |
+| 13:30 | USD | Retail Control (MoM) (Nov) | 0.4% | 0.4% | -0.1% |
+| 13:30 | CAD | Core CPI (MoM) (Nov) | -0.1% |  | 0.4% |
+| 13:30 | CAD | Core CPI (YoY) (Nov) | 1.6% |  | 1.7% |
+| 13:30 | CAD | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
+| 13:30 | CAD | Foreign Securities Purchases (Oct) | 21.55B | 24.50B | 29.65B |
+| 13:30 | CAD | New Housing Price Index (MoM) (Nov) | 0.1% | 0.1% | -0.4% |
+| 8 min | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.3% |
+| 8 min | USD | Industrial Production (YoY) (Nov) |  | 0.10% | -0.29% |
+| 53 min | USD | Business Inventories (MoM) (Oct) |  | 0.2% | 0.1% |
+| 53 min | USD | Retail Inventories Ex Auto (Oct) |  | 0.1% | 0.1% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.680% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.3% | 3.3% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 0.499M |

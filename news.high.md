@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | USD | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.1% |
-| 17 min | USD | Retail Sales (MoM) (Nov) |  | 0.6% | 0.4% |
+| 13:30 | USD | Core Retail Sales (MoM) (Nov) | 0.2% | 0.4% | 0.2% |
+| 13:30 | USD | Retail Sales (MoM) (Nov) | 0.7% | 0.6% | 0.5% |
