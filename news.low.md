@@ -11,10 +11,10 @@
 | 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
 | 07:00 | ZAR | Leading Indicators (Oct) | 114.00% |  | 113.90% |
-| 53 min | CHF | SECO Economic Forecasts |  |  |  |
-| 08:30 | HKD | Unemployment Rate (Nov) |  |  | 3.1% |
-| 09:00 | EUR | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
-| 09:00 | EUR | Italian Trade Balance EU (Oct) |  |  | -1.18B |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 21 min | HKD | Unemployment Rate (Nov) |  |  | 3.1% |
+| 51 min | EUR | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
+| 51 min | EUR | Italian Trade Balance EU (Oct) |  |  | -1.18B |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.148% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | MXN | Retail Sales (YoY) (Oct) |  |  | -1.5% |

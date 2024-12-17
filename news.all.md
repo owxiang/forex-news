@@ -15,13 +15,13 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | 173K | -12K | 253K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 4.3% | 4.3% | 4.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Oct) | 114.00% |  | 113.90% |
-| 53 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 08:30 | HKD | Low | Unemployment Rate (Nov) |  |  | 3.1% |
-| 09:00 | EUR | Low | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Oct) |  |  | -1.18B |
-| 09:00 | EUR | Moderate | German Business Expectations (Dec) |  | 87.5 | 87.2 |
-| 09:00 | EUR | Moderate | German Current Assessment (Dec) |  | 84.0 | 84.3 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Dec) |  | 85.5 | 85.7 |
+| 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 21 min | HKD | Low | Unemployment Rate (Nov) |  |  | 3.1% |
+| 51 min | EUR | Low | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
+| 51 min | EUR | Low | Italian Trade Balance EU (Oct) |  |  | -1.18B |
+| 51 min | EUR | Moderate | German Business Expectations (Dec) |  | 87.5 | 87.2 |
+| 51 min | EUR | Moderate | German Current Assessment (Dec) |  | 84.0 | 84.3 |
+| 51 min | EUR | Moderate | German Ifo Business Climate Index (Dec) |  | 85.5 | 85.7 |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.148% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Dec) |  | -92.6 | -91.4 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  | 6.8 | 7.4 |
