@@ -16,23 +16,23 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 4.3% | 4.3% | 4.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Oct) | 114.00% |  | 113.90% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 21 min | HKD | Low | Unemployment Rate (Nov) |  |  | 3.1% |
-| 51 min | EUR | Low | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
-| 51 min | EUR | Low | Italian Trade Balance EU (Oct) |  |  | -1.18B |
-| 51 min | EUR | Moderate | German Business Expectations (Dec) |  | 87.5 | 87.2 |
-| 51 min | EUR | Moderate | German Current Assessment (Dec) |  | 84.0 | 84.3 |
-| 51 min | EUR | Moderate | German Ifo Business Climate Index (Dec) |  | 85.5 | 85.7 |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.148% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Dec) |  | -92.6 | -91.4 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  | 6.8 | 7.4 |
-| 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Trade Balance (Oct) |  | 11.7B | 12.5B |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) |  | 12.2 | 12.5 |
+| 08:30 | HKD | Low | Unemployment Rate (Nov) | 3.1% |  | 3.1% |
+| 09:00 | EUR | Low | Italian Trade Balance (Oct) | 5.153B | 3.220B | 2.583B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Oct) | -0.66B |  | -1.17B |
+| 09:00 | EUR | Moderate | German Business Expectations (Dec) | 84.4 | 87.5 | 87.0 |
+| 09:00 | EUR | Moderate | German Current Assessment (Dec) | 85.1 | 84.0 | 84.3 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Dec) | 84.7 | 85.5 | 85.6 |
+| 53 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.148% |
+| 53 min | EUR | Moderate | German ZEW Current Conditions (Dec) |  | -92.6 | -91.4 |
+| 53 min | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  | 6.8 | 7.4 |
+| 53 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 53 min | EUR | Moderate | Trade Balance (Oct) |  | 11.7B | 12.5B |
+| 53 min | EUR | Moderate | ZEW Economic Sentiment (Dec) |  | 12.2 | 12.5 |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Oct) |  |  | -1.5% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | 0.4% | 0.1% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Nov) |  |  | -0.1% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Nov) |  | 0.4% | -0.1% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.85% |
 | 13:30 | USD | High | Retail Sales (MoM) (Nov) |  | 0.6% | 0.4% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  | 0.4% | 0.1% |
