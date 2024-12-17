@@ -1,43 +1,38 @@
-## 16 December 2024 - Low Impact Forex News
+## 17 December 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | -1.7% |  | -1.4% |
-| 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.5 | 49.2 | 49.0 |
-| 01:30 | CNY | House Prices (YoY) (Nov) | -5.7% |  | -5.9% |
-| 02:00 | CNY | Retail Sales (YoY) (Nov) | 3.0% | 4.6% | 4.8% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Nov) | 3.45% |  | 3.51% |
-| 03:00 | KRW | M3 Money Supply (Oct) | 5,584.9B |  | 5,557.5B |
-| 03:00 | KRW | M2 Money supply (Oct) | 6.10% |  | 5.60% |
-| 04:00 | IDR | Export Growth (YoY) (Nov) | 9.14% | 4.92% | 10.28% |
-| 04:00 | IDR | Import Growth (YoY) (Nov) | 0.01% | 6.15% | 17.49% |
-| 04:00 | IDR | Trade Balance (Nov) | 4.42B | 2.21B | 2.48B |
-| 04:30 | JPY | Tertiary Industry Activity Index (Oct) | 0.30 | -0.10 | 2.00 |
-| 05:00 | INR | HSBC India Manufacturing PMI (Dec) | 57.4 |  | 56.5 |
-| 05:00 | INR | HSBC India Services PMI (Dec) | 60.8 |  | 58.4 |
-| 06:30 | INR | WPI Food (YoY) (Nov) | 8.63% |  | 13.54% |
-| 06:30 | INR | WPI Fuel (YoY) (Nov) | -5.83% |  | -5.79% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) | 2.00% |  | 1.50% |
-| 07:00 | NOK | Trade Balance (Nov) | 74.2B |  | 62.6B |
-| 07:30 | CHF | PPI (YoY) (Nov) | -1.5% |  | -1.8% |
-| 08:15 | EUR | HCOB France Composite PMI (Dec) | 46.7 |  | 45.9 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Dec) | 47.8 |  | 47.2 |
-| 09:50 | INR | Exports (USD) (Nov) | 32.11B |  | 39.20B |
-| 09:50 | INR | Imports (USD) (Nov) | 69.95B |  | 66.34B |
-| 09:50 | INR | Trade Balance (Nov) | -37.84B |  | -27.14B |
-| 09:59 | GBP | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
-| 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
-| 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
-| 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
-| 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q3) | 4.60% | 4.60% | 5.20% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Nov) | 1,391.73B |  | 1,386.88B |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.372% |  | 2.641% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.770% |  | 2.817% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.575% |  | 2.641% |
-| 16:30 | USD | 3-Month Bill Auction | 4.250% |  | 4.300% |
-| 16:30 | USD | 6-Month Bill Auction | 4.160% |  | 4.200% |
-| 24 min | AUD | Westpac Consumer Sentiment |  |  | 5.3% |
+| 00:00 | NZD | Budget Balance (Jul) | -16.610B |  | -21.860B |
+| 00:00 | NZD | Net Debt Forecast (Jul) | 45.10% |  | 43.10% |
+| 00:00 | NZD | Economic Forecast (Jul) | -17.320B |  | -11.070B |
+| 2 min | SGD | Non-Oil Exports (MoM) (Nov) |  |  | -7.40% |
+| 2 min | SGD | Non-Oil Exports (YoY) (Nov) |  | -1.70% | -4.60% |
+| 01:30 | SGD | Trade Balance (Nov) |  |  | 4.410B |
+| 02:00 | NZD | RBNZ Offshore Holdings (Nov) |  |  | 59.20% |
+| 07:00 | GBP | Average Earnings ex Bonus (Oct) |  | 5.0% | 4.8% |
+| 07:00 | ZAR | Leading Indicators (Oct) |  |  | 113.90% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 08:30 | HKD | Unemployment Rate (Nov) |  |  | 3.1% |
+| 09:00 | EUR | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
+| 09:00 | EUR | Italian Trade Balance EU (Oct) |  |  | -1.18B |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.148% |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | MXN | Retail Sales (YoY) (Oct) |  |  | -1.5% |
+| 12:00 | MXN | Retail Sales (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | USD | Retail Sales (YoY) (Nov) |  |  | 2.85% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  | 0.4% | 0.1% |
+| 13:30 | CAD | Common CPI (YoY) (Nov) |  | 2.1% | 2.2% |
+| 13:30 | CAD | CPI (YoY) (Nov) |  | 2.0% | 2.0% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 4.140B |
+| 13:30 | CAD | Median CPI (YoY) (Nov) |  | 2.4% | 2.5% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Nov) |  | 2.5% | 2.6% |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.2% |
+| 14:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 14:00 | USD | Milk Auctions |  |  | 4,193.0 |
+| 14:15 | USD | Capacity Utilization Rate (Nov) |  | 77.3% | 77.1% |
+| 14:15 | USD | Manufacturing Production (MoM) (Nov) |  |  | -0.5% |
+| 15:00 | USD | NAHB Housing Market Index (Dec) |  | 47 | 46 |
+| 21:45 | NZD | Current Account % of GDP (Q3) |  |  | -6.70% |
+| 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.2% |
+| 23:30 | AUD | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
+| 23:50 | JPY | Imports (YoY) (Nov) |  | 1.0% | 0.4% |
