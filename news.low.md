@@ -33,6 +33,6 @@
 | 14:15 | USD | Manufacturing Production (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
 | 15:00 | USD | NAHB Housing Market Index (Dec) | 46 | 47 | 46 |
 | 21:45 | NZD | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
-| 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.2% |
-| 23:30 | AUD | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
-| 23:50 | JPY | Imports (YoY) (Nov) |  | 1.0% | 0.4% |
+| 24 min | AUD | MI Leading Index (MoM) |  |  | 0.2% |
+| 24 min | AUD | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
+| 44 min | JPY | Imports (YoY) (Nov) |  | 1.0% | 0.4% |

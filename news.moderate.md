@@ -31,6 +31,6 @@
 | 21:30 | USD | API Weekly Crude Oil Stock | -4.700M | -1.850M | 0.499M |
 | 21:45 | NZD | Current Account (QoQ) (Q3) | -10.58B | -10.45B | -4.83B |
 | 21:45 | NZD | Current Account (YoY) (Q3) | -26.99B |  | -27.76B |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.45T | -0.36T |
-| 23:50 | JPY | Exports (YoY) (Nov) |  | 2.8% | 3.1% |
-| 23:50 | JPY | Trade Balance (Nov) |  | -688.9B | -462.1B |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.45T | -0.36T |
+| 44 min | JPY | Exports (YoY) (Nov) |  | 2.8% | 3.1% |
+| 44 min | JPY | Trade Balance (Nov) |  | -688.9B | -462.1B |
