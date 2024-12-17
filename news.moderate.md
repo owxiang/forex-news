@@ -27,10 +27,10 @@
 | 15:00 | USD | Retail Inventories Ex Auto (Oct) | 0.1% | 0.1% | 0.1% |
 | 17:30 | USD | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
 | 18:00 | USD | 20-Year Bond Auction | 4.686% |  | 4.680% |
+| 53 min | NZD | Westpac Consumer Sentiment (Q4) | 97.5 |  | 90.8 |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.850M | 0.499M |
-| 21:45 | NZD | Current Account (QoQ) (Q3) |  | -10.45B | -4.83B |
 | 21:45 | NZD | Current Account (YoY) (Q3) |  |  | -27.76B |
-| 22:00 | NZD | Westpac Consumer Sentiment (Q4) |  |  | 90.8 |
+| 21:45 | NZD | Current Account (QoQ) (Q3) |  | -10.45B | -4.83B |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.45T | -0.36T |
 | 23:50 | JPY | Exports (YoY) (Nov) |  | 2.8% | 3.1% |
 | 23:50 | JPY | Trade Balance (Nov) |  | -688.9B | -462.1B |

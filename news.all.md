@@ -59,11 +59,11 @@
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Oct) | 0.1% | 0.1% | 0.1% |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.686% |  | 4.680% |
+| 53 min | NZD | Moderate | Westpac Consumer Sentiment (Q4) | 97.5 |  | 90.8 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.850M | 0.499M |
-| 21:45 | NZD | Moderate | Current Account (QoQ) (Q3) |  | -10.45B | -4.83B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q3) |  |  | -27.76B |
+| 21:45 | NZD | Moderate | Current Account (QoQ) (Q3) |  | -10.45B | -4.83B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q3) |  |  | -6.70% |
-| 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) |  |  | 90.8 |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.2% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.45T | -0.36T |
