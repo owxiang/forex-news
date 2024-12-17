@@ -9,13 +9,13 @@
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 01:30 | SGD | Low | Trade Balance (Nov) | 6.520B |  | 4.290B |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
-| 51 min | GBP | Low | Average Earnings ex Bonus (Oct) |  | 5.0% | 4.8% |
-| 51 min | GBP | Moderate | Average Earnings Index +Bonus (Oct) |  | 4.6% | 4.3% |
-| 51 min | GBP | Moderate | Claimant Count Change (Nov) |  | 28.2K | 26.7K |
-| 51 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) |  | -12K | 219K |
-| 51 min | GBP | Moderate | Unemployment Rate (Oct) |  | 4.3% | 4.3% |
-| 51 min | ZAR | Low | Leading Indicators (Oct) |  |  | 113.90% |
-| 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) | 5.2% | 4.6% | 4.4% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Nov) | 0.3K | 28.2K | -10.9K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | 173K | -12K | 253K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Oct) | 4.3% | 4.3% | 4.3% |
+| 07:00 | ZAR | Low | Leading Indicators (Oct) | 114.00% |  | 113.90% |
+| 53 min | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Low | Unemployment Rate (Nov) |  |  | 3.1% |
 | 09:00 | EUR | Low | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Oct) |  |  | -1.18B |
@@ -39,8 +39,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Nov) |  | 2.1% | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.4% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 1.7% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 13:30 | CAD | Low | CPI (YoY) (Nov) |  | 2.0% | 2.0% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Oct) |  | 24.50B | 29.30B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) |  |  | 4.140B |
 | 13:30 | CAD | Low | Median CPI (YoY) (Nov) |  | 2.4% | 2.5% |

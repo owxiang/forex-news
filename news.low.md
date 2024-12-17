@@ -9,9 +9,9 @@
 | 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 01:30 | SGD | Trade Balance (Nov) | 6.520B |  | 4.290B |
 | 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
-| 51 min | GBP | Average Earnings ex Bonus (Oct) |  | 5.0% | 4.8% |
-| 51 min | ZAR | Leading Indicators (Oct) |  |  | 113.90% |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 07:00 | GBP | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
+| 07:00 | ZAR | Leading Indicators (Oct) | 114.00% |  | 113.90% |
+| 53 min | CHF | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Unemployment Rate (Nov) |  |  | 3.1% |
 | 09:00 | EUR | Italian Trade Balance (Oct) |  | 3.220B | 2.580B |
 | 09:00 | EUR | Italian Trade Balance EU (Oct) |  |  | -1.18B |
