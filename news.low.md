@@ -5,8 +5,8 @@
 | 00:00 | NZD | Budget Balance (Jul) | -16.610B |  | -25.600B |
 | 00:00 | NZD | Net Debt Forecast (Jul) | 45.10% |  | 43.10% |
 | 00:00 | NZD | Economic Forecast (Jul) | -17.320B |  | -11.074B |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 3.40% | -1.70% | -4.70% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
 | 01:30 | SGD | Trade Balance (Nov) | 6.520B |  | 4.290B |
 | 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
@@ -17,8 +17,8 @@
 | 09:00 | EUR | Italian Trade Balance EU (Oct) | -0.66B |  | -1.17B |
 | 10:20 | GBP | 5-Year Treasury Gilt Auction | 4.348% |  | 4.148% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | Retail Sales (YoY) (Oct) | -1.2% |  | -1.5% |
 | 12:00 | MXN | Retail Sales (MoM) (Oct) | -0.3% |  | 0.1% |
+| 12:00 | MXN | Retail Sales (YoY) (Oct) | -1.2% |  | -1.5% |
 | 12:00 | NZD | GlobalDairyTrade Price Index | -2.8% |  | 1.2% |
 | 12:00 | USD | Milk Auctions | 4,148.0 |  | 4,193.0 |
 | 13:30 | USD | Retail Sales (YoY) (Nov) | 3.80% |  | 2.90% |
