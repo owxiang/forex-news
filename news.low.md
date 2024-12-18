@@ -3,26 +3,26 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
 | 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
-| 07:00 | GBP | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
+| 07:00 | GBP | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
 | 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
-| 07:00 | GBP | Core RPI (YoY) (Nov) | 3.0% |  | 2.8% |
+| 07:00 | GBP | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
 | 07:00 | GBP | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
+| 07:00 | GBP | Core RPI (YoY) (Nov) | 3.0% |  | 2.8% |
 | 07:00 | GBP | CPI, n.s.a (Nov) | 135.10 |  | 135.00 |
 | 07:00 | GBP | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
 | 07:00 | GBP | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
 | 07:00 | GBP | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
-| 07:00 | GBP | RPI (MoM) (Nov) | 0.1% |  | 0.5% |
 | 07:00 | GBP | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
-| 13 min | IDR | Loans (YoY) (Nov) |  |  | 10.92% |
-| 23 min | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
-| 23 min | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
+| 07:00 | GBP | RPI (MoM) (Nov) | 0.1% |  | 0.5% |
+| 07:20 | IDR | Loans (YoY) (Nov) | 10.79% |  | 10.92% |
+| 07:30 | IDR | Deposit Facility Rate (Dec) | 5.25% | 5.25% | 5.25% |
+| 07:30 | IDR | Lending Facility Rate (Dec) | 6.75% | 6.75% | 6.75% |
 | 09:30 | GBP | House Price Index (YoY) |  | 3.1% | 2.9% |
 | 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.10% |
 | 10:00 | EUR | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 1.9% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Nov) |  |  | 0.3% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 1.9% |
 | 10:00 | EUR | CPI, n.s.a (Nov) |  | 126.67 | 127.03 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  | 2.8% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.3% |
