@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Nov) |  | 0.1% | 0.6% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 2.6% |
-| 07:00 | GBP | PPI Input (MoM) (Nov) |  | 0.2% | 0.1% |
+| 51 min | GBP | CPI (MoM) (Nov) |  | 0.1% | 0.6% |
+| 51 min | GBP | CPIH (YoY) |  |  | 2.6% |
+| 51 min | GBP | PPI Input (MoM) (Nov) |  | 0.2% | 0.1% |
 | 07:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 09:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |

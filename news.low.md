@@ -3,18 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core CPI (YoY) (Nov) |  | 3.6% | 3.3% |
-| 07:00 | GBP | Core CPI (MoM) (Nov) |  |  | 0.4% |
-| 07:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Nov) |  |  | 1.7% |
-| 07:00 | GBP | Core RPI (YoY) (Nov) |  |  | 2.8% |
-| 07:00 | GBP | Core RPI (MoM) (Nov) |  |  | 0.5% |
-| 07:00 | GBP | CPI, n.s.a (Nov) |  |  | 135.00 |
-| 07:00 | GBP | PPI Input (YoY) (Nov) |  |  | -2.3% |
-| 07:00 | GBP | PPI Output (YoY) (Nov) |  |  | -0.8% |
-| 07:00 | GBP | PPI Output (MoM) (Nov) |  | 0.2% | 0.0% |
-| 07:00 | GBP | RPI (MoM) (Nov) |  |  | 0.5% |
-| 07:00 | GBP | RPI (YoY) (Nov) |  | 3.7% | 3.4% |
+| 51 min | GBP | Core CPI (MoM) (Nov) |  |  | 0.4% |
+| 51 min | GBP | Core CPI (YoY) (Nov) |  | 3.6% | 3.3% |
+| 51 min | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.3% |
+| 51 min | GBP | Core PPI Output (YoY) (Nov) |  |  | 1.7% |
+| 51 min | GBP | Core RPI (YoY) (Nov) |  |  | 2.8% |
+| 51 min | GBP | Core RPI (MoM) (Nov) |  |  | 0.5% |
+| 51 min | GBP | CPI, n.s.a (Nov) |  |  | 135.00 |
+| 51 min | GBP | PPI Input (YoY) (Nov) |  |  | -2.3% |
+| 51 min | GBP | PPI Output (MoM) (Nov) |  | 0.2% | 0.0% |
+| 51 min | GBP | PPI Output (YoY) (Nov) |  |  | -0.8% |
+| 51 min | GBP | RPI (MoM) (Nov) |  |  | 0.5% |
+| 51 min | GBP | RPI (YoY) (Nov) |  | 3.7% | 3.4% |
 | 07:20 | IDR | Loans (YoY) (Nov) |  |  | 10.92% |
 | 07:30 | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
