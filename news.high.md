@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | CPI (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
-| 53 min | EUR | CPI (YoY) (Nov) |  | 2.3% | 2.0% |
+| 10:00 | EUR | CPI (YoY) (Nov) | 2.2% | 2.3% | 2.0% |
 | 15:30 | USD | Crude Oil Inventories |  | -1.600M | -1.425M |
 | 19:00 | USD | FOMC Economic Projections |  |  |  |
 | 19:00 | USD | FOMC Statement |  |  |  |
