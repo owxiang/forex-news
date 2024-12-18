@@ -74,9 +74,9 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 21:45 | NZD | Moderate | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
-| 21:45 | NZD | Low | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
-| 21:45 | NZD | Low | GDP Annual Average (Q3) |  |  | -0.2% |
-| 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | 0.0% |
+| 39 min | NZD | Moderate | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
+| 39 min | NZD | Low | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
+| 39 min | NZD | Low | GDP Annual Average (Q3) |  |  | -0.2% |
+| 39 min | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | 0.0% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -640.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 482.3B |

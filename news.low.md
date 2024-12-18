@@ -48,8 +48,8 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | -0.9% |
 | 15:30 | USD | Gasoline Inventories | 2.348M | 2.000M | 5.086M |
 | 17:30 | BRL | Foreign Exchange Flows | -4.146B |  | -2.641B |
-| 21:45 | NZD | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
-| 21:45 | NZD | GDP Annual Average (Q3) |  |  | -0.2% |
-| 21:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | 0.0% |
+| 39 min | NZD | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
+| 39 min | NZD | GDP Annual Average (Q3) |  |  | -0.2% |
+| 39 min | NZD | GDP Expenditure (QoQ) (Q3) |  |  | 0.0% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -640.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 482.3B |

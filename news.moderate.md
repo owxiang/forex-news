@@ -21,4 +21,4 @@
 | 19:00 | USD | Interest Rate Projection - 3rd Yr (Q2) | 3.1% |  | 2.9% |
 | 19:00 | USD | Interest Rate Projection - Current (Q4) | 4.4% |  | 4.4% |
 | 19:00 | USD | Interest Rate Projection - Longer (Q4) | 3.0% |  | 2.9% |
-| 21:45 | NZD | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
+| 39 min | NZD | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
