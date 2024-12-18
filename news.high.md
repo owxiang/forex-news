@@ -1,6 +1,11 @@
-## 17 December 2024 - High Impact Forex News
+## 18 December 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core Retail Sales (MoM) (Nov) | 0.2% | 0.4% | 0.2% |
-| 13:30 | USD | Retail Sales (MoM) (Nov) | 0.7% | 0.6% | 0.5% |
+| 07:00 | GBP | CPI (YoY) (Nov) |  | 2.6% | 2.3% |
+| 10:00 | EUR | CPI (YoY) (Nov) |  | 2.3% | 2.0% |
+| 15:30 | USD | Crude Oil Inventories |  | -1.600M | -1.425M |
+| 19:00 | USD | FOMC Economic Projections |  |  |  |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision |  | 4.50% | 4.75% |
+| 19:30 | USD | FOMC Press Conference |  |  |  |

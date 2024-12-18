@@ -1,36 +1,24 @@
-## 17 December 2024 - Moderate Impact Forex News
+## 18 December 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Oct) | 5.2% | 4.6% | 4.4% |
-| 07:00 | GBP | Claimant Count Change (Nov) | 0.3K | 28.2K | -10.9K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Oct) | 173K | -12K | 253K |
-| 07:00 | GBP | Unemployment Rate (Oct) | 4.3% | 4.3% | 4.3% |
-| 09:00 | EUR | German Business Expectations (Dec) | 84.4 | 87.5 | 87.0 |
-| 09:00 | EUR | German Current Assessment (Dec) | 85.1 | 84.0 | 84.3 |
-| 09:00 | EUR | German Ifo Business Climate Index (Dec) | 84.7 | 85.5 | 85.6 |
-| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Dec) | -93.1 | -92.6 | -91.4 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Dec) | 15.7 | 6.8 | 7.4 |
-| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Trade Balance (Oct) | 6.8B | 11.7B | 11.6B |
-| 10:00 | EUR | ZEW Economic Sentiment (Dec) | 17.0 | 12.2 | 12.5 |
-| 13:30 | USD | Retail Control (MoM) (Nov) | 0.4% | 0.4% | -0.1% |
-| 13:30 | CAD | Core CPI (MoM) (Nov) | -0.1% |  | 0.4% |
-| 13:30 | CAD | Core CPI (YoY) (Nov) | 1.6% |  | 1.7% |
-| 13:30 | CAD | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
-| 13:30 | CAD | Foreign Securities Purchases (Oct) | 21.55B | 24.50B | 29.65B |
-| 13:30 | CAD | New Housing Price Index (MoM) (Nov) | 0.1% | 0.1% | -0.4% |
-| 14:15 | USD | Industrial Production (YoY) (Nov) | -0.90% | 0.10% | -0.45% |
-| 14:15 | USD | Industrial Production (MoM) (Nov) | -0.1% | 0.3% | -0.4% |
-| 15:00 | USD | Business Inventories (MoM) (Oct) | 0.1% | 0.2% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (Oct) | 0.1% | 0.1% | 0.1% |
-| 17:30 | USD | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
-| 18:00 | USD | 20-Year Bond Auction | 4.686% |  | 4.680% |
-| 20:00 | NZD | Westpac Consumer Sentiment (Q4) | 97.5 |  | 90.8 |
-| 21:30 | USD | API Weekly Crude Oil Stock | -4.700M | -1.850M | 0.499M |
-| 21:45 | NZD | Current Account (QoQ) (Q3) | -10.58B | -10.45B | -4.83B |
-| 21:45 | NZD | Current Account (YoY) (Q3) | -26.99B |  | -27.76B |
-| 44 min | JPY | Adjusted Trade Balance |  | -0.45T | -0.36T |
-| 44 min | JPY | Exports (YoY) (Nov) |  | 2.8% | 3.1% |
-| 44 min | JPY | Trade Balance (Nov) |  | -688.9B | -462.1B |
+| 07:00 | GBP | CPI (MoM) (Nov) |  | 0.1% | 0.6% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 2.6% |
+| 07:00 | GBP | PPI Input (MoM) (Nov) |  | 0.2% | 0.1% |
+| 07:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
+| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.7% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
+| 13:30 | USD | Building Permits (Nov) |  | 1.430M | 1.419M |
+| 13:30 | USD | Current Account (Q3) |  | -286.0B | -266.8B |
+| 13:30 | USD | Housing Starts (MoM) (Nov) |  |  | -3.1% |
+| 13:30 | USD | Housing Starts (Nov) |  | 1.350M | 1.311M |
+| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.298M |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 2.9% |
+| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q2) |  |  | 2.9% |
+| 19:00 | USD | Interest Rate Projection - Current (Q4) |  |  | 4.4% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q4) |  |  | 2.9% |
+| 21:45 | NZD | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |

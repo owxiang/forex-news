@@ -1,38 +1,55 @@
-## 17 December 2024 - Low Impact Forex News
+## 18 December 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | Budget Balance (Jul) | -16.610B |  | -25.600B |
-| 00:00 | NZD | Net Debt Forecast (Jul) | 45.10% |  | 43.10% |
-| 00:00 | NZD | Economic Forecast (Jul) | -17.320B |  | -11.074B |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 3.40% | -1.70% | -4.70% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
-| 01:30 | SGD | Trade Balance (Nov) | 6.520B |  | 4.290B |
-| 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
-| 07:00 | GBP | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
-| 07:00 | ZAR | Leading Indicators (Oct) | 114.00% |  | 113.90% |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 08:30 | HKD | Unemployment Rate (Nov) | 3.1% |  | 3.1% |
-| 09:00 | EUR | Italian Trade Balance (Oct) | 5.153B | 3.220B | 2.583B |
-| 09:00 | EUR | Italian Trade Balance EU (Oct) | -0.66B |  | -1.17B |
-| 10:20 | GBP | 5-Year Treasury Gilt Auction | 4.348% |  | 4.148% |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | MXN | Retail Sales (MoM) (Oct) | -0.3% |  | 0.1% |
-| 12:00 | MXN | Retail Sales (YoY) (Oct) | -1.2% |  | -1.5% |
-| 12:00 | NZD | GlobalDairyTrade Price Index | -2.8% |  | 1.2% |
-| 12:00 | USD | Milk Auctions | 4,148.0 |  | 4,193.0 |
-| 13:30 | USD | Retail Sales (YoY) (Nov) | 3.80% |  | 2.90% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) | 0.2% | 0.4% | 0.2% |
-| 13:30 | CAD | Common CPI (YoY) (Nov) | 2.0% | 2.1% | 2.2% |
-| 13:30 | CAD | CPI (YoY) (Nov) | 1.9% | 2.0% | 2.0% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Oct) | -2.650B |  | 4.140B |
-| 13:30 | CAD | Median CPI (YoY) (Nov) | 2.6% | 2.4% | 2.6% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Nov) | 2.7% | 2.6% | 2.7% |
-| 13:55 | USD | Redbook (YoY) | 4.8% |  | 4.2% |
-| 14:15 | USD | Capacity Utilization Rate (Nov) | 76.8% | 77.3% | 77.0% |
-| 14:15 | USD | Manufacturing Production (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
-| 15:00 | USD | NAHB Housing Market Index (Dec) | 46 | 47 | 46 |
-| 21:45 | NZD | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
-| 24 min | AUD | MI Leading Index (MoM) |  |  | 0.2% |
-| 24 min | AUD | Westpac Consumer Sentiment (Dec) |  |  | 5.3% |
-| 44 min | JPY | Imports (YoY) (Nov) |  | 1.0% | 0.4% |
+| 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
+| 07:00 | GBP | Core CPI (YoY) (Nov) |  | 3.6% | 3.3% |
+| 07:00 | GBP | Core CPI (MoM) (Nov) |  |  | 0.4% |
+| 07:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Nov) |  |  | 1.7% |
+| 07:00 | GBP | Core RPI (YoY) (Nov) |  |  | 2.8% |
+| 07:00 | GBP | Core RPI (MoM) (Nov) |  |  | 0.5% |
+| 07:00 | GBP | CPI, n.s.a (Nov) |  |  | 135.00 |
+| 07:00 | GBP | PPI Input (YoY) (Nov) |  |  | -2.3% |
+| 07:00 | GBP | PPI Output (YoY) (Nov) |  |  | -0.8% |
+| 07:00 | GBP | PPI Output (MoM) (Nov) |  | 0.2% | 0.0% |
+| 07:00 | GBP | RPI (MoM) (Nov) |  |  | 0.5% |
+| 07:00 | GBP | RPI (YoY) (Nov) |  | 3.7% | 3.4% |
+| 07:20 | IDR | Loans (YoY) (Nov) |  |  | 10.92% |
+| 07:30 | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
+| 07:30 | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
+| 09:30 | GBP | House Price Index (YoY) |  | 3.1% | 2.9% |
+| 10:00 | EUR | Construction Output (MoM) (Oct) |  |  | -0.10% |
+| 10:00 | EUR | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 1.9% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Nov) |  |  | 0.3% |
+| 10:00 | EUR | CPI, n.s.a (Nov) |  | 126.67 | 127.03 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  | 2.8% | 2.7% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.3% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Dec) |  | -22 | -19 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.67% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 5.4% |
+| 12:00 | USD | MBA Purchase Index |  |  | 154.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 225.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 634.0 |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 2.10% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | -0.40% |
+| 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | 2.70% |
+| 12:00 | MXN | Private Spending (QoQ) (Q3) |  |  | -0.60% |
+| 13:30 | USD | Building Permits (MoM) (Nov) |  |  | -0.4% |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.251M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.170M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.086M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.235M |
+| 15:30 | USD | Gasoline Production |  |  | 0.549M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.504M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
+| 15:30 | USD | Gasoline Inventories |  |  | 5.086M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -2.641B |
+| 21:45 | NZD | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
+| 21:45 | NZD | GDP Annual Average (Q3) |  |  | -0.2% |
+| 21:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | 0.0% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -640.8B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 482.3B |
