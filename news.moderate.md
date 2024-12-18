@@ -16,9 +16,9 @@
 | 13:30 | USD | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) | 3.2% | 3.1% | 3.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.108M |  | -1.298M |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 2.9% |
-| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q2) |  |  | 2.9% |
-| 19:00 | USD | Interest Rate Projection - Current (Q4) |  |  | 4.4% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q4) |  |  | 2.9% |
+| 52 min | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
+| 52 min | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 2.9% |
+| 52 min | USD | Interest Rate Projection - 3rd Yr (Q2) |  |  | 2.9% |
+| 52 min | USD | Interest Rate Projection - Current (Q4) |  |  | 4.4% |
+| 52 min | USD | Interest Rate Projection - Longer (Q4) |  |  | 2.9% |
 | 21:45 | NZD | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
