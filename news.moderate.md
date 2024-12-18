@@ -14,8 +14,8 @@
 | 13:30 | USD | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
 | 13:30 | USD | Housing Starts (MoM) (Nov) | -1.8% |  | -3.2% |
 | 13:30 | USD | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
-| 24 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | -1.298M |
+| 15:30 | USD | Atlanta Fed GDPNow (Q4) | 3.2% | 3.1% | 3.1% |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.108M |  | -1.298M |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 2.9% |
 | 19:00 | USD | Interest Rate Projection - 3rd Yr (Q2) |  |  | 2.9% |
