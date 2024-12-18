@@ -3,22 +3,22 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Nov) | 3.0% |  | 2.8% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Nov) | 0.1% | 0.1% | 0.6% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
 | 07:00 | GBP | High | CPI (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Nov) | 0.1% | 0.1% | 0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Nov) | 135.10 |  | 135.00 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.5% |  | 3.2% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
-| 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
 | 07:00 | GBP | Low | RPI (MoM) (Nov) | 0.1% |  | 0.5% |
+| 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
 | 07:20 | IDR | Low | Loans (YoY) (Nov) | 10.79% |  | 10.92% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Dec) | 5.25% | 5.25% | 5.25% |
@@ -27,12 +27,12 @@
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.4% | 3.1% | 2.9% |
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Construction Output (MoM) (Oct) | 0.97% |  | -0.29% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.6% | -0.6% | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (Nov) | 2.2% | 2.3% | 2.0% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.6% | -0.6% | 0.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Nov) | 2.2% | 2.3% | 2.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) | 2.1% |  | 1.9% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Nov) | 126.62 | 126.67 | 127.03 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) | 2.7% | 2.8% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) | -0.4% | -0.4% | 0.3% |
@@ -43,10 +43,10 @@
 | 12:00 | USD | Low | MBA Purchase Index | 157.1 |  | 154.9 |
 | 12:00 | USD | Low | Mortgage Market Index | 224.0 |  | 225.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 617.5 |  | 634.0 |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 1.20% |  | -0.40% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
-| 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | -0.60% |
+| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 1.20% |  | -0.40% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 2.90% |  | 2.70% |
+| 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | -0.60% |
 | 13:30 | USD | Moderate | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
 | 13:30 | USD | Low | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 13:30 | USD | Moderate | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
@@ -74,9 +74,9 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.75% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 39 min | NZD | Moderate | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
-| 39 min | NZD | Low | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
-| 39 min | NZD | Low | GDP Annual Average (Q3) |  |  | -0.2% |
-| 39 min | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | 0.0% |
+| 21:45 | NZD | Moderate | GDP (QoQ) (Q3) | -1.0% | -0.2% | -1.1% |
+| 21:45 | NZD | Low | GDP (YoY) (Q3) | -1.5% | -0.4% | -0.5% |
+| 21:45 | NZD | Low | GDP Annual Average (Q3) | 0.1% |  | 0.6% |
+| 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) | -0.8% |  | -0.8% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -640.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 482.3B |
