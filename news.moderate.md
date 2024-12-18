@@ -6,10 +6,10 @@
 | 07:00 | GBP | CPIH (YoY) | 3.5% |  | 3.2% |
 | 07:00 | GBP | PPI Input (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
 | 07:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
-| 52 min | EUR | ECB's Lane Speaks |  |  |  |
-| 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Nov) |  | 2.7% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
+| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 23 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 53 min | EUR | Core CPI (YoY) (Nov) |  | 2.7% | 2.7% |
+| 53 min | EUR | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
 | 13:30 | USD | Building Permits (Nov) |  | 1.430M | 1.419M |
 | 13:30 | USD | Current Account (Q3) |  | -286.0B | -266.8B |
 | 13:30 | USD | Housing Starts (MoM) (Nov) |  |  | -3.1% |
