@@ -73,7 +73,7 @@
 | 19:00 | USD | High | FOMC Economic Projections |  |  |  |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.75% |
-| 24 min | USD | High | FOMC Press Conference |  |  |  |
+| 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:45 | NZD | Moderate | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
 | 21:45 | NZD | Low | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
 | 21:45 | NZD | Low | GDP Annual Average (Q3) |  |  | -0.2% |
