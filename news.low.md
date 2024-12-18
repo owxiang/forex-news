@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
+| 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
+| 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Core RPI (YoY) (Nov) | 3.0% |  | 2.8% |
 | 07:00 | GBP | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
 | 07:00 | GBP | CPI, n.s.a (Nov) | 135.10 |  | 135.00 |
 | 07:00 | GBP | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
-| 07:00 | GBP | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
 | 07:00 | GBP | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
+| 07:00 | GBP | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
 | 07:00 | GBP | RPI (MoM) (Nov) | 0.1% |  | 0.5% |
 | 07:00 | GBP | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
 | 07:20 | IDR | Loans (YoY) (Nov) | 10.79% |  | 10.92% |
@@ -26,17 +26,17 @@
 | 10:00 | EUR | CPI, n.s.a (Nov) | 126.62 | 126.67 | 127.03 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 2.7% | 2.8% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.4% | -0.4% | 0.3% |
-| 53 min | GBP | CBI Industrial Trends Orders (Dec) |  | -22 | -19 |
-| 53 min | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.67% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 5.4% |
-| 12:00 | USD | MBA Purchase Index |  |  | 154.9 |
-| 12:00 | USD | Mortgage Market Index |  |  | 225.5 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 634.0 |
-| 12:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 2.10% |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | -0.40% |
-| 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | 2.70% |
-| 12:00 | MXN | Private Spending (QoQ) (Q3) |  |  | -0.60% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Dec) | -40 | -22 | -19 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.67% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 5.4% |
+| 54 min | USD | MBA Purchase Index |  |  | 154.9 |
+| 54 min | USD | Mortgage Market Index |  |  | 225.5 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 634.0 |
+| 54 min | MXN | Aggregate Demand (QoQ) (Q3) |  |  | -0.40% |
+| 54 min | MXN | Aggregate Demand (YoY) (Q3) |  |  | 2.10% |
+| 54 min | MXN | Private Spending (YoY) (Q3) |  |  | 2.70% |
+| 54 min | MXN | Private Spending (QoQ) (Q3) |  |  | -0.60% |
 | 13:30 | USD | Building Permits (MoM) (Nov) |  |  | -0.4% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.251M |

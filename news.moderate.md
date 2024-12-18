@@ -12,8 +12,8 @@
 | 10:00 | EUR | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.3% |
 | 13:30 | USD | Building Permits (Nov) |  | 1.430M | 1.419M |
 | 13:30 | USD | Current Account (Q3) |  | -286.0B | -266.8B |
-| 13:30 | USD | Housing Starts (Nov) |  | 1.350M | 1.311M |
 | 13:30 | USD | Housing Starts (MoM) (Nov) |  |  | -3.1% |
+| 13:30 | USD | Housing Starts (Nov) |  | 1.350M | 1.311M |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.298M |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
