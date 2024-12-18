@@ -13,8 +13,8 @@
 | 07:00 | GBP | High | CPI (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Nov) | 135.10 |  | 135.00 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.5% |  | 3.2% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
@@ -45,8 +45,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 617.5 |  | 634.0 |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 1.20% |  | -0.40% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 2.90% |  | 2.70% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | -0.60% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 2.90% |  | 2.70% |
 | 13:30 | USD | Moderate | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
 | 13:30 | USD | Low | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 13:30 | USD | Moderate | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
@@ -65,15 +65,15 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | -0.9% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.348M | 2.000M | 5.086M |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -4.146B |  | -2.641B |
-| 52 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 3.4% |
-| 52 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 2.9% |
-| 52 min | USD | Moderate | Interest Rate Projection - 3rd Yr (Q2) |  |  | 2.9% |
-| 52 min | USD | Moderate | Interest Rate Projection - Current (Q4) |  |  | 4.4% |
-| 52 min | USD | Moderate | Interest Rate Projection - Longer (Q4) |  |  | 2.9% |
-| 52 min | USD | High | FOMC Economic Projections |  |  |  |
-| 52 min | USD | High | FOMC Statement |  |  |  |
-| 52 min | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.75% |
-| 19:30 | USD | High | FOMC Press Conference |  |  |  |
+| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) | 3.9% |  | 3.4% |
+| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) | 3.4% |  | 2.9% |
+| 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q2) | 3.1% |  | 2.9% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q4) | 4.4% |  | 4.4% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q4) | 3.0% |  | 2.9% |
+| 19:00 | USD | High | FOMC Economic Projections |  |  |  |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.75% |
+| 24 min | USD | High | FOMC Press Conference |  |  |  |
 | 21:45 | NZD | Moderate | GDP (QoQ) (Q3) |  | -0.2% | -0.2% |
 | 21:45 | NZD | Low | GDP (YoY) (Q3) |  | -0.4% | -0.5% |
 | 21:45 | NZD | Low | GDP Annual Average (Q3) |  |  | -0.2% |

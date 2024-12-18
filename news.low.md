@@ -35,8 +35,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 617.5 |  | 634.0 |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q3) | 1.20% |  | -0.40% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
-| 12:00 | MXN | Private Spending (YoY) (Q3) | 2.90% |  | 2.70% |
 | 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | -0.60% |
+| 12:00 | MXN | Private Spending (YoY) (Q3) | 2.90% |  | 2.70% |
 | 13:30 | USD | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.048M |  | -0.251M |
