@@ -5,16 +5,16 @@
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Nov) |  | 3.6% | 3.3% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Nov) |  |  | 0.4% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) |  |  | 1.7% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) |  |  | 1.7% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Nov) |  |  | 2.8% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Nov) |  |  | 0.5% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Nov) |  | 0.1% | 0.6% |
 | 07:00 | GBP | High | CPI (YoY) (Nov) |  | 2.6% | 2.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Nov) |  |  | 135.00 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 2.6% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) |  | 0.2% | 0.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Nov) |  |  | -2.3% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) |  | 0.2% | 0.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Nov) |  |  | -0.8% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Nov) |  | 0.2% | 0.0% |
 | 07:00 | GBP | Low | RPI (MoM) (Nov) |  |  | 0.5% |
@@ -27,8 +27,8 @@
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.1% | 2.9% |
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Construction Output (MoM) (Oct) |  |  | -0.10% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) |  | 2.7% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Nov) |  | 2.3% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Nov) |  | -0.3% | 0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) |  |  | 1.9% |
@@ -43,8 +43,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 154.9 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 225.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 634.0 |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | -0.40% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 2.10% |
+| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | -0.40% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q3) |  |  | 2.70% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q3) |  |  | -0.60% |
 | 13:30 | USD | Moderate | Building Permits (Nov) |  | 1.430M | 1.419M |

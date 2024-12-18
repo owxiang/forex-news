@@ -5,8 +5,8 @@
 | 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Core CPI (YoY) (Nov) |  | 3.6% | 3.3% |
 | 07:00 | GBP | Core CPI (MoM) (Nov) |  |  | 0.4% |
-| 07:00 | GBP | Core PPI Output (YoY) (Nov) |  |  | 1.7% |
 | 07:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Nov) |  |  | 1.7% |
 | 07:00 | GBP | Core RPI (YoY) (Nov) |  |  | 2.8% |
 | 07:00 | GBP | Core RPI (MoM) (Nov) |  |  | 0.5% |
 | 07:00 | GBP | CPI, n.s.a (Nov) |  |  | 135.00 |
@@ -33,8 +33,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 154.9 |
 | 12:00 | USD | Mortgage Market Index |  |  | 225.5 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 634.0 |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | -0.40% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 2.10% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | -0.40% |
 | 12:00 | MXN | Private Spending (YoY) (Q3) |  |  | 2.70% |
 | 12:00 | MXN | Private Spending (QoQ) (Q3) |  |  | -0.60% |
 | 13:30 | USD | Building Permits (MoM) (Nov) |  |  | -0.4% |
