@@ -6,15 +6,15 @@
 | 00:00 | NZD | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
-| 07:00 | GBP | Car Registration (MoM) (Nov) |  |  | -47.6% |
-| 07:00 | GBP | Car Registration (YoY) (Nov) |  |  | -6.0% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Nov) |  |  | 4.0% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -9.1% |
+| 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
+| 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | CHF | Trade Balance (Nov) |  | 6.200B | 8.063B |
-| 07:00 | EUR | German Car Registration (MoM) (Nov) |  |  | 11.1% |
-| 07:00 | EUR | German Car Registration (YoY) (Nov) |  |  | 6.0% |
-| 07:00 | EUR | French Car Registration (MoM) (Nov) |  |  | -2.5% |
-| 07:00 | EUR | French Car Registration (YoY) (Nov) |  |  | -11.1% |
+| 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
+| 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
+| 07:00 | EUR | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
+| 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:45 | EUR | French Business Survey (Dec) |  | 96 | 97 |
 | 09:00 | EUR | Spanish Trade Balance (Oct) |  |  | -3.30B |
 | 09:00 | EUR | Current Account (Oct) |  | 33.5B | 37.0B |
@@ -32,7 +32,7 @@
 | 13:30 | USD | Philly Fed Prices Paid (Dec) |  |  | 26.60 |
 | 13:30 | USD | Real Consumer Spending (Q3) |  | 3.5% | 2.8% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 5.16% |
-| 15:30 | USD | Natural Gas Storage |  |  | -190B |
+| 15:30 | USD | Natural Gas Storage |  | -123B | -190B |
 | 16:00 | USD | KC Fed Composite Index (Dec) |  |  | -2 |
 | 16:00 | USD | KC Fed Manufacturing Index (Dec) |  |  | -4 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
