@@ -19,7 +19,7 @@
 | 15:00 | USD | US Leading Index (MoM) (Nov) | 0.3% | -0.1% | -0.4% |
 | 18:05 | USD | 5-Year TIPS Auction | 2.121% |  | 1.670% |
 | 19:00 | MXN | Interest Rate Decision (Dec) | 10.00% | 10.00% | 10.25% |
-| 21:00 | USD | TIC Net Long-Term Transactions (Oct) |  |  | 216.1B |
+| 53 min | USD | TIC Net Long-Term Transactions (Oct) |  |  | 216.1B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,897B |
 | 23:30 | JPY | National Core CPI (YoY) (Nov) |  | 2.6% | 2.3% |
 | 23:30 | JPY | National CPI (MoM) (Nov) |  |  | 0.4% |

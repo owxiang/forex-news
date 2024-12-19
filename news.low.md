@@ -8,8 +8,8 @@
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
 | 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
@@ -39,11 +39,11 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Dec) | -5 |  | -4 |
 | 16:30 | USD | 4-Week Bill Auction | 4.230% |  | 4.240% |
 | 16:30 | USD | 8-Week Bill Auction | 4.230% |  | 4.260% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Oct) |  |  | 77.00B |
-| 21:00 | USD | Overall Net Capital Flow (Oct) |  |  | 398.40B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 216.10B |
-| 21:00 | KRW | PPI (YoY) (Nov) |  |  | 1.0% |
-| 21:00 | KRW | PPI (MoM) (Nov) |  |  | -0.1% |
+| 53 min | USD | US Foreign Buying, T-bonds (Oct) |  |  | 77.00B |
+| 53 min | USD | Overall Net Capital Flow (Oct) |  |  | 398.40B |
+| 53 min | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 216.10B |
+| 53 min | KRW | PPI (YoY) (Nov) |  |  | 1.0% |
+| 53 min | KRW | PPI (MoM) (Nov) |  |  | -0.1% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.274T |
 | 21:45 | NZD | Exports (Nov) |  |  | 5.77B |
 | 21:45 | NZD | Imports (Nov) |  |  | 7.31B |
