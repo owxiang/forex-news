@@ -9,16 +9,16 @@
 | 02:55 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 02:55 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -21.3 | -22.6 | -23.1 |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
 | 07:45 | EUR | Low | French Business Survey (Dec) | 97 | 96 | 97 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Oct) | -3.93B |  | -3.30B |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Dec) | 31.20 |  | 26.60 |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.7% | 3.5% | 2.8% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 5.25% |  | 4.95% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 4.8% |  | 3.4% |
 | 15:00 | USD | High | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 4.8% |  | 3.4% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) | 0.3% | -0.1% | -0.4% |
 | 15:30 | USD | Low | Natural Gas Storage | -125B | -123B | -190B |
 | 16:00 | USD | Low | KC Fed Composite Index (Dec) | -4 |  | -2 |
@@ -66,15 +66,15 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Oct) | 203.60B |  | 398.90B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) | 152.3B |  | 216.1B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) | 152.30B |  | 216.10B |
-| 21:00 | KRW | Low | PPI (MoM) (Nov) | 0.1% |  | -0.1% |
 | 21:00 | KRW | Low | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,897B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.274T |
-| 39 min | NZD | Low | Exports (Nov) |  |  | 5.77B |
-| 39 min | NZD | Low | Imports (Nov) |  |  | 7.31B |
-| 39 min | NZD | Low | Trade Balance (MoM) (Nov) |  | -1,951M | -1,544M |
-| 39 min | NZD | Low | Trade Balance (YoY) (Nov) |  |  | -8,960M |
+| 21:00 | KRW | Low | PPI (MoM) (Nov) | 0.1% |  | -0.1% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,889B |  | 6,897B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.237T |  | 3.274T |
+| 21:45 | NZD | Low | Exports (Nov) | 6.48B |  | 5.61B |
+| 21:45 | NZD | Low | Imports (Nov) | 6.92B |  | 7.27B |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Nov) | -8,250M |  | -9,070M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Nov) | -437M | -1,951M | -1,658M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.6% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 2.6% | 2.3% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Nov) |  |  | 0.4% |
 | 23:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 2.3% |
+| 23:30 | JPY | Moderate | National CPI (MoM) (Nov) |  |  | 0.4% |
