@@ -6,15 +6,15 @@
 | 00:00 | NZD | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
-| 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
+| 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
-| 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:00 | EUR | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
+| 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:45 | EUR | French Business Survey (Dec) | 97 | 96 | 97 |
 | 09:00 | EUR | Spanish Trade Balance (Oct) | -3.93B |  | -3.30B |
 | 09:00 | EUR | Current Account (Oct) | 25.8B | 33.5B | 38.8B |
@@ -34,11 +34,11 @@
 | 13:30 | USD | Philly Fed Prices Paid (Dec) | 31.20 |  | 26.60 |
 | 13:30 | USD | Real Consumer Spending (Q3) | 3.7% | 3.5% | 2.8% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Oct) | 5.25% |  | 4.95% |
-| 24 min | USD | Natural Gas Storage |  | -123B | -190B |
-| 54 min | USD | KC Fed Composite Index (Dec) |  |  | -2 |
-| 54 min | USD | KC Fed Manufacturing Index (Dec) |  |  | -4 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.260% |
+| 15:30 | USD | Natural Gas Storage | -125B | -123B | -190B |
+| 16:00 | USD | KC Fed Composite Index (Dec) | -4 |  | -2 |
+| 16:00 | USD | KC Fed Manufacturing Index (Dec) | -5 |  | -4 |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.240% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.260% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Oct) |  |  | 77.00B |
 | 21:00 | USD | Overall Net Capital Flow (Oct) |  |  | 398.40B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 216.10B |
