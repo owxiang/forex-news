@@ -21,5 +21,5 @@
 | 19:00 | MXN | Interest Rate Decision (Dec) | 10.00% | 10.00% | 10.25% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Oct) | 152.3B |  | 216.1B |
 | 21:30 | USD | Fed's Balance Sheet | 6,889B |  | 6,897B |
-| 23:30 | JPY | National Core CPI (YoY) (Nov) |  | 2.6% | 2.3% |
-| 23:30 | JPY | National CPI (MoM) (Nov) |  |  | 0.4% |
+| 24 min | JPY | National Core CPI (YoY) (Nov) |  | 2.6% | 2.3% |
+| 24 min | JPY | National CPI (MoM) (Nov) |  |  | 0.4% |

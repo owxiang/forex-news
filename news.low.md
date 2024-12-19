@@ -6,13 +6,13 @@
 | 00:00 | NZD | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
-| 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
+| 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
-| 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
+| 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:00 | EUR | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
 | 07:45 | EUR | French Business Survey (Dec) | 97 | 96 | 97 |
@@ -42,12 +42,12 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Oct) | 92.10B |  | 77.00B |
 | 21:00 | USD | Overall Net Capital Flow (Oct) | 203.60B |  | 398.90B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) | 152.30B |  | 216.10B |
-| 21:00 | KRW | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:00 | KRW | PPI (MoM) (Nov) | 0.1% |  | -0.1% |
+| 21:00 | KRW | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.237T |  | 3.274T |
 | 21:45 | NZD | Exports (Nov) | 6.48B |  | 5.61B |
 | 21:45 | NZD | Imports (Nov) | 6.92B |  | 7.27B |
 | 21:45 | NZD | Trade Balance (YoY) (Nov) | -8,250M |  | -9,070M |
 | 21:45 | NZD | Trade Balance (MoM) (Nov) | -437M | -1,951M | -1,658M |
-| 23:30 | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.6% |
-| 23:30 | JPY | National CPI (YoY) (Nov) |  |  | 2.3% |
+| 24 min | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.6% |
+| 24 min | JPY | National CPI (YoY) (Nov) |  |  | 2.3% |
