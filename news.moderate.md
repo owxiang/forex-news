@@ -6,7 +6,7 @@
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Jan) | -21.3 | -22.6 | -23.1 |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 54 min | EUR | EU Leaders Summit |  |  |  |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Dec) |  | 2 | 8 |
 | 12:00 | GBP | BoE MPC vote hike (Dec) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 1 |

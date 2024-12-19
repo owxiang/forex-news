@@ -11,8 +11,8 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
@@ -22,10 +22,10 @@
 | 07:45 | EUR | Low | French Business Survey (Dec) | 97 | 96 | 97 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Oct) | -3.93B |  | -3.30B |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:00 | EUR | Low | Current Account (Oct) | 26.0B | 33.5B | 37.0B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Oct) |  |  | 51.5B |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Nov) |  |  | 79.6 |
-| 54 min | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 09:00 | EUR | Low | Current Account (Oct) | 25.8B | 33.5B | 38.8B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Oct) | 32.0B |  | 51.5B |
+| 10:00 | EUR | Low | Spanish Consumer Confidence (Nov) | 80.6 |  | 79.6 |
+| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 11:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Dec) |  | 2 | 8 |

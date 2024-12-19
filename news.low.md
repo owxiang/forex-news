@@ -8,8 +8,8 @@
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
 | 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
 | 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
@@ -17,9 +17,9 @@
 | 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:45 | EUR | French Business Survey (Dec) | 97 | 96 | 97 |
 | 09:00 | EUR | Spanish Trade Balance (Oct) | -3.93B |  | -3.30B |
-| 09:00 | EUR | Current Account (Oct) | 26.0B | 33.5B | 37.0B |
-| 09:00 | EUR | Current Account n.s.a. (Oct) |  |  | 51.5B |
-| 54 min | EUR | Spanish Consumer Confidence (Nov) |  |  | 79.6 |
+| 09:00 | EUR | Current Account (Oct) | 25.8B | 33.5B | 38.8B |
+| 09:00 | EUR | Current Account n.s.a. (Oct) | 32.0B |  | 51.5B |
+| 10:00 | EUR | Spanish Consumer Confidence (Nov) | 80.6 |  | 79.6 |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 11:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  | 0.0% | 3.5% |
