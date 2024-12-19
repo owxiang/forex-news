@@ -1,11 +1,10 @@
-## 18 December 2024 - High Impact Forex News
+## 19 December 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
-| 10:00 | EUR | CPI (YoY) (Nov) | 2.2% | 2.3% | 2.0% |
-| 15:30 | USD | Crude Oil Inventories | -0.934M | -1.600M | -1.425M |
-| 19:00 | USD | FOMC Economic Projections |  |  |  |
-| 19:00 | USD | FOMC Statement |  |  |  |
-| 19:00 | USD | Fed Interest Rate Decision | 4.50% | 4.50% | 4.75% |
-| 19:30 | USD | FOMC Press Conference |  |  |  |
+| 03:00 | JPY | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
+| 12:00 | GBP | BoE Interest Rate Decision (Dec) |  | 4.75% | 4.75% |
+| 13:30 | USD | GDP (QoQ) (Q3) |  | 2.8% | 3.0% |
+| 13:30 | USD | Initial Jobless Claims |  | 229K | 242K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (Dec) |  | 3.0 | -5.5 |
+| 15:00 | USD | Existing Home Sales (Nov) |  | 4.09M | 3.96M |

@@ -1,24 +1,24 @@
-## 18 December 2024 - Moderate Impact Forex News
+## 19 December 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Nov) | 0.1% | 0.1% | 0.6% |
-| 07:00 | GBP | CPIH (YoY) | 3.5% |  | 3.2% |
-| 07:00 | GBP | PPI Input (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
-| 07:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
-| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Nov) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.3% |
-| 13:30 | USD | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
-| 13:30 | USD | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
-| 13:30 | USD | Housing Starts (MoM) (Nov) | -1.8% |  | -3.2% |
-| 13:30 | USD | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) | 3.2% | 3.1% | 3.1% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.108M |  | -1.298M |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) | 3.9% |  | 3.4% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q4) | 3.4% |  | 2.9% |
-| 19:00 | USD | Interest Rate Projection - 3rd Yr (Q2) | 3.1% |  | 2.9% |
-| 19:00 | USD | Interest Rate Projection - Current (Q4) | 4.4% |  | 4.4% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q4) | 3.0% |  | 2.9% |
-| 21:45 | NZD | GDP (QoQ) (Q3) | -1.0% | -0.2% | -1.1% |
+| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:00 | EUR | GfK German Consumer Climate (Jan) |  | -22.6 | -23.3 |
+| 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Dec) |  | 2 | 8 |
+| 12:00 | GBP | BoE MPC vote hike (Dec) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 1 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,886K |
+| 13:30 | USD | Core PCE Prices (Q3) |  | 2.10% | 2.80% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q3) |  | 1.9% | 2.5% |
+| 13:30 | USD | Philly Fed Employment (Dec) |  |  | 8.6 |
+| 15:00 | USD | Existing Home Sales (MoM) (Nov) |  |  | 3.4% |
+| 15:00 | USD | US Leading Index (MoM) (Nov) |  | -0.1% | -0.4% |
+| 19:00 | MXN | Interest Rate Decision (Dec) |  | 10.00% | 10.25% |
+| 21:00 | USD | TIC Net Long-Term Transactions (Oct) |  |  | 216.1B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,897B |
+| 23:30 | JPY | National Core CPI (YoY) (Nov) |  | 2.6% | 2.3% |
+| 23:30 | JPY | National CPI (MoM) (Nov) |  |  | 0.4% |
