@@ -6,15 +6,15 @@
 | 00:00 | NZD | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
-| 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
 | 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
-| 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
-| 07:00 | EUR | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
+| 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
+| 07:00 | EUR | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
 | 07:45 | EUR | French Business Survey (Dec) | 97 | 96 | 97 |
 | 09:00 | EUR | Spanish Trade Balance (Oct) | -3.93B |  | -3.30B |
 | 09:00 | EUR | Current Account (Oct) | 25.8B | 33.5B | 38.8B |
@@ -45,7 +45,7 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.274T |
 | 21:45 | NZD | Exports (Nov) |  |  | 5.77B |
 | 21:45 | NZD | Imports (Nov) |  |  | 7.31B |
-| 21:45 | NZD | Trade Balance (MoM) (Nov) |  | -1,951M | -1,544M |
 | 21:45 | NZD | Trade Balance (YoY) (Nov) |  |  | -8,960M |
+| 21:45 | NZD | Trade Balance (MoM) (Nov) |  | -1,951M | -1,544M |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.6% |
 | 23:30 | JPY | National CPI (YoY) (Nov) |  |  | 2.3% |
