@@ -11,12 +11,12 @@
 | 12:00 | GBP | BoE MPC vote hike (Dec) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Dec) | 6 | 7 | 1 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 19 min | USD | Continuing Jobless Claims |  | 1,890K | 1,886K |
-| 19 min | USD | Core PCE Prices (Q3) |  | 2.10% | 2.80% |
-| 19 min | USD | GDP Price Index (QoQ) (Q3) |  | 1.9% | 2.5% |
-| 19 min | USD | Philly Fed Employment (Dec) |  |  | 8.6 |
-| 15:00 | USD | Existing Home Sales (MoM) (Nov) |  |  | 3.4% |
-| 15:00 | USD | US Leading Index (MoM) (Nov) |  | -0.1% | -0.4% |
+| 13:30 | USD | Continuing Jobless Claims | 1,874K | 1,890K | 1,879K |
+| 13:30 | USD | Core PCE Prices (Q3) | 2.20% | 2.10% | 2.80% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q3) | 1.9% | 1.9% | 2.5% |
+| 13:30 | USD | Philly Fed Employment (Dec) | 6.6 |  | 8.6 |
+| 54 min | USD | Existing Home Sales (MoM) (Nov) |  |  | 3.4% |
+| 54 min | USD | US Leading Index (MoM) (Nov) |  | -0.1% | -0.4% |
 | 19:00 | MXN | Interest Rate Decision (Dec) |  | 10.00% | 10.25% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Oct) |  |  | 216.1B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,897B |
