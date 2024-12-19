@@ -6,8 +6,8 @@
 | 00:00 | NZD | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
-| 07:00 | GBP | Car Registration (YoY) (Nov) |  |  | -6.0% |
 | 07:00 | GBP | Car Registration (MoM) (Nov) |  |  | -47.6% |
+| 07:00 | GBP | Car Registration (YoY) (Nov) |  |  | -6.0% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) |  |  | 4.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | -9.1% |
 | 07:00 | CHF | Trade Balance (Nov) |  | 6.200B | 8.063B |
