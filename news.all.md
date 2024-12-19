@@ -14,12 +14,12 @@
 | 05:30 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 05:30 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 05:30 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
-| 05:30 | EUR | Low | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 05:30 | EUR | Low | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
-| 21 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 51 min | CHF | Low | Trade Balance (Nov) |  | 6.200B | 8.063B |
-| 51 min | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -22.6 | -23.3 |
-| 07:45 | EUR | Low | French Business Survey (Dec) |  | 96 | 97 |
+| 05:30 | EUR | Low | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
+| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -21.3 | -22.6 | -23.1 |
+| 39 min | EUR | Low | French Business Survey (Dec) |  | 96 | 97 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Oct) |  |  | -3.30B |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:00 | EUR | Low | Current Account (Oct) |  | 33.5B | 37.0B |
