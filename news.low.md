@@ -22,6 +22,8 @@
 | 10:00 | EUR | Spanish Consumer Confidence (Nov) | 80.6 |  | 79.6 |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 11:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 11:00 | BRL | Auto Production (MoM) (Nov) | -5.2% |  | 8.3% |
+| 11:00 | BRL | Auto Sales (MoM) (Nov) | -4.3% |  | 12.1% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q3) |  | 0.0% | 3.5% |
 | 13:30 | USD | GDP Sales (Q3) |  | 3.0% | 1.9% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |

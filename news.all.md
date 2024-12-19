@@ -28,11 +28,13 @@
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 11:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 54 min | GBP | Moderate | BoE MPC vote cut (Dec) |  | 2 | 8 |
-| 54 min | GBP | Moderate | BoE MPC vote hike (Dec) |  | 0 | 0 |
-| 54 min | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 7 | 1 |
-| 54 min | GBP | High | BoE Interest Rate Decision (Dec) |  | 4.75% | 4.75% |
-| 54 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 11:00 | BRL | Low | Auto Production (MoM) (Nov) | -5.2% |  | 8.3% |
+| 11:00 | BRL | Low | Auto Sales (MoM) (Nov) | -4.3% |  | 12.1% |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Dec) | 3 | 2 | 8 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Dec) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) | 6 | 7 | 1 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Dec) | 4.75% | 4.75% | 4.75% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,886K |
 | 13:30 | USD | Moderate | Core PCE Prices (Q3) |  | 2.10% | 2.80% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  | 0.0% | 3.5% |

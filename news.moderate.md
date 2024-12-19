@@ -7,10 +7,10 @@
 | 07:00 | EUR | GfK German Consumer Climate (Jan) | -21.3 | -22.6 | -23.1 |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
-| 54 min | GBP | BoE MPC vote cut (Dec) |  | 2 | 8 |
-| 54 min | GBP | BoE MPC vote hike (Dec) |  | 0 | 0 |
-| 54 min | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 1 |
-| 54 min | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Dec) | 3 | 2 | 8 |
+| 12:00 | GBP | BoE MPC vote hike (Dec) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Dec) | 6 | 7 | 1 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,886K |
 | 13:30 | USD | Core PCE Prices (Q3) |  | 2.10% | 2.80% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q3) |  | 1.9% | 2.5% |
