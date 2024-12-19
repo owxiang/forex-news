@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 56 min | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Jan) |  | -22.6 | -23.3 |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |

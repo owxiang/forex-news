@@ -5,8 +5,8 @@
 | 00:00 | AUD | Low | MI Inflation Expectations (Dec) | 4.2% |  | 3.8% |
 | 00:00 | NZD | Low | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
-| 3 min | AUD | Low | Reserve Assets Total (Nov) |  |  | 98.1B |
-| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 00:30 | AUD | Low | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
+| 56 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | -6.0% |
@@ -73,5 +73,5 @@
 | 21:45 | NZD | Low | Trade Balance (MoM) (Nov) |  | -1,951M | -1,544M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.6% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 2.6% | 2.3% |
-| 23:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 2.3% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Nov) |  |  | 0.4% |
+| 23:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 2.3% |
