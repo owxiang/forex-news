@@ -11,11 +11,11 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -21.3 | -22.6 | -23.1 |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
@@ -52,12 +52,12 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Dec) | 31.20 |  | 26.60 |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.7% | 3.5% | 2.8% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 5.25% |  | 4.95% |
-| 54 min | USD | High | Existing Home Sales (Nov) |  | 4.09M | 3.96M |
-| 54 min | USD | Moderate | Existing Home Sales (MoM) (Nov) |  |  | 3.4% |
-| 54 min | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.1% | -0.4% |
-| 15:30 | USD | Low | Natural Gas Storage |  | -123B | -190B |
-| 16:00 | USD | Low | KC Fed Composite Index (Dec) |  |  | -2 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Dec) |  |  | -4 |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 4.8% |  | 3.4% |
+| 15:00 | USD | High | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) | 0.3% | -0.1% | -0.4% |
+| 24 min | USD | Low | Natural Gas Storage |  | -123B | -190B |
+| 54 min | USD | Low | KC Fed Composite Index (Dec) |  |  | -2 |
+| 54 min | USD | Low | KC Fed Manufacturing Index (Dec) |  |  | -4 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.260% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Dec) |  | 10.00% | 10.25% |
@@ -75,5 +75,5 @@
 | 21:45 | NZD | Low | Trade Balance (YoY) (Nov) |  |  | -8,960M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.6% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 2.6% | 2.3% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Nov) |  |  | 0.4% |
 | 23:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 2.3% |
+| 23:30 | JPY | Moderate | National CPI (MoM) (Nov) |  |  | 0.4% |
