@@ -8,17 +8,17 @@
 | 00:30 | AUD | Low | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
 | 02:55 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 02:55 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
-| 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
-| 07:00 | CHF | Low | Trade Balance (Nov) |  | 6.200B | 8.063B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -22.6 | -23.3 |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
+| 05:30 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
+| 05:30 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
+| 05:30 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 05:30 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
+| 05:30 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
+| 05:30 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
+| 05:30 | EUR | Low | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
+| 05:30 | EUR | Low | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
+| 21 min | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 51 min | CHF | Low | Trade Balance (Nov) |  | 6.200B | 8.063B |
+| 51 min | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -22.6 | -23.3 |
 | 07:45 | EUR | Low | French Business Survey (Dec) |  | 96 | 97 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Oct) |  |  | -3.30B |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
@@ -63,8 +63,8 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Oct) |  |  | 398.40B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  |  | 216.1B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | 216.10B |
-| 21:00 | KRW | Low | PPI (YoY) (Nov) |  |  | 1.0% |
 | 21:00 | KRW | Low | PPI (MoM) (Nov) |  |  | -0.1% |
+| 21:00 | KRW | Low | PPI (YoY) (Nov) |  |  | 1.0% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,897B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.274T |
 | 21:45 | NZD | Low | Exports (Nov) |  |  | 5.77B |
