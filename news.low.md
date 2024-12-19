@@ -8,8 +8,8 @@
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
 | 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |

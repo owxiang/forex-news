@@ -11,8 +11,8 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Dec) | 31.20 |  | 26.60 |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.7% | 3.5% | 2.8% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 5.25% |  | 4.95% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 4.8% |  | 3.4% |
 | 15:00 | USD | High | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 4.8% |  | 3.4% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) | 0.3% | -0.1% | -0.4% |
 | 15:30 | USD | Low | Natural Gas Storage | -125B | -123B | -190B |
 | 16:00 | USD | Low | KC Fed Composite Index (Dec) | -4 |  | -2 |
@@ -61,7 +61,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.230% |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.230% |  | 4.260% |
 | 18:05 | USD | Moderate | 5-Year TIPS Auction | 2.121% |  | 1.670% |
-| 52 min | MXN | Moderate | Interest Rate Decision (Dec) |  | 10.00% | 10.25% |
+| 19:00 | MXN | Moderate | Interest Rate Decision (Dec) | 10.00% | 10.00% | 10.25% |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Oct) |  |  | 77.00B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Oct) |  |  | 398.40B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  |  | 216.1B |
