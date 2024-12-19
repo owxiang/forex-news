@@ -6,8 +6,8 @@
 | 00:00 | NZD | Low | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
 | 00:30 | AUD | Low | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
-| 56 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
+| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 28 min | JPY | High | BoJ Interest Rate Decision |  | 0.25% | 0.25% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | -6.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Nov) |  |  | -47.6% |
