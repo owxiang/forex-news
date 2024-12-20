@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | CNY | China Loan Prime Rate 5Y (Dec) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Nov) | 0.1% | 0.7% | 1.6% |
-| 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.5% | 0.8% | 2.0% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
 | 07:00 | GBP | Retail Sales (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.5% | 0.8% | 2.0% |
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.5% | 0.3% | 0.2% |
-| 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 25 min | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 13:30 | USD | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
 | 13:30 | USD | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
