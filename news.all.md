@@ -7,18 +7,18 @@
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Dec) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Nov) | -3.2% |  | 0.3% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.0% | -0.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  | 0.7% | 2.0% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Nov) |  | 15.50B | 17.35B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Nov) |  |  | 11.133B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Nov) |  | 0.8% | 2.4% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.5% | -0.7% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Nov) |  | 0.3% | 0.2% |
-| 07:00 | EUR | Low | German PPI (YoY) (Nov) |  | -0.3% | -1.1% |
-| 07:00 | NOK | Low | M3 Money Supply (Nov) |  |  | 3,211.6B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.8% |
-| 07:00 | NOK | Low | Unemployment Change (Dec) |  |  | 77.94K |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) |  | 2.10% | 2.00% |
+| 52 min | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.0% | -0.9% |
+| 52 min | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  | 0.7% | 2.0% |
+| 52 min | GBP | Low | Public Sector Net Borrowing (Nov) |  | 15.50B | 17.35B |
+| 52 min | GBP | Low | Public Sector Net Cash Requirement (Nov) |  |  | 11.133B |
+| 52 min | GBP | Moderate | Retail Sales (YoY) (Nov) |  | 0.8% | 2.4% |
+| 52 min | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.5% | -0.7% |
+| 52 min | EUR | Moderate | German PPI (MoM) (Nov) |  | 0.3% | 0.2% |
+| 52 min | EUR | Low | German PPI (YoY) (Nov) |  | -0.3% | -1.1% |
+| 52 min | NOK | Low | M3 Money Supply (Nov) |  |  | 3,211.6B |
+| 52 min | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.8% |
+| 52 min | NOK | Low | Unemployment Change (Dec) |  |  | 77.94K |
+| 52 min | NOK | Low | Unemployment Rate n.s.a. (Dec) |  | 2.10% | 2.00% |
 | 07:45 | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.9% |
 | 07:45 | EUR | Low | PPI (YoY) (Nov) |  |  | -5.70% |
 | 08:30 | HKD | Low | CPI (MoM) (Nov) |  |  | 0.20% |

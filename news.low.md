@@ -5,13 +5,13 @@
 | 00:30 | AUD | Housing Credit (Nov) | 0.5% |  | 0.5% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.5% | 0.5% | 0.6% |
 | 02:00 | NZD | Credit Card Spending (YoY) (Nov) | -3.2% |  | 0.3% |
-| 07:00 | GBP | Public Sector Net Borrowing (Nov) |  | 15.50B | 17.35B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 11.133B |
-| 07:00 | EUR | German PPI (YoY) (Nov) |  | -0.3% | -1.1% |
-| 07:00 | NOK | M3 Money Supply (Nov) |  |  | 3,211.6B |
-| 07:00 | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.8% |
-| 07:00 | NOK | Unemployment Change (Dec) |  |  | 77.94K |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Dec) |  | 2.10% | 2.00% |
+| 52 min | GBP | Public Sector Net Borrowing (Nov) |  | 15.50B | 17.35B |
+| 52 min | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 11.133B |
+| 52 min | EUR | German PPI (YoY) (Nov) |  | -0.3% | -1.1% |
+| 52 min | NOK | M3 Money Supply (Nov) |  |  | 3,211.6B |
+| 52 min | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.8% |
+| 52 min | NOK | Unemployment Change (Dec) |  |  | 77.94K |
+| 52 min | NOK | Unemployment Rate n.s.a. (Dec) |  | 2.10% | 2.00% |
 | 07:45 | EUR | French PPI (MoM) (Nov) |  |  | 0.9% |
 | 07:45 | EUR | PPI (YoY) (Nov) |  |  | -5.70% |
 | 08:30 | HKD | CPI (MoM) (Nov) |  |  | 0.20% |
