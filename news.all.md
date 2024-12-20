@@ -28,24 +28,23 @@
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) | 0.50% |  | -0.30% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) | -5.30% |  | -5.70% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Dec) | -15 | -9 | -18 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Dec) |  |  | -19 |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Nov) | 1.2% |  | 0.7% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Nov) | 1.2% |  | 0.7% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Dec) | 92.0 |  | 95.6 |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 654.86B |
-| 25 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 12:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 11:30 | INR | Low | FX Reserves, USD | 652.87B |  | 654.86B |
+| 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 20 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.9% | 2.8% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.6% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.9% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Oct) |  | 0.7% | 0.4% |
-| 13:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 14:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.30% |
+| 14:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 2.9% | 2.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 71.6 | 76.9 |
@@ -53,8 +52,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Dec) |  | 77.7 | 63.9 |
 | 15:00 | EUR | Low | Consumer Confidence (Dec) |  | -14.0 | -13.7 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Oct) |  |  | -13.01B |
 | 16:00 | CAD | Low | Budget Balance (Oct) |  |  | -3.17B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Oct) |  |  | -13.01B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 27.1K |
