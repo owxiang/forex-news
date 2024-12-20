@@ -18,9 +18,9 @@
 | 08:30 | HKD | CPI (YoY) (Nov) |  | 1.50% | 1.40% |
 | 09:00 | EUR | Italian Business Confidence (Dec) |  | 86.0 | 86.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Dec) |  | 97.0 | 96.6 |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | -0.30% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | -5.70% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -10 | -18 |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | -0.30% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -9 | -18 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Dec) |  |  | -19 |
 | 11:00 | EUR | Italian PPI (YoY) (Nov) |  |  | -2.8% |
 | 11:00 | EUR | Italian PPI (MoM) (Nov) |  |  | 0.7% |

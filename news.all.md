@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  | 0.7% | 2.0% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Nov) |  | 15.50B | 17.35B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Nov) |  |  | 11.133B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.5% | -0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Nov) |  | 0.8% | 2.4% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.5% | -0.7% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Nov) |  | 0.3% | 0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Nov) |  | -0.3% | -1.1% |
 | 07:00 | NOK | Low | M3 Money Supply (Nov) |  |  | 3,211.6B |
@@ -25,9 +25,9 @@
 | 08:30 | HKD | Low | CPI (YoY) (Nov) |  | 1.50% | 1.40% |
 | 09:00 | EUR | Low | Italian Business Confidence (Dec) |  | 86.0 | 86.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Dec) |  | 97.0 | 96.6 |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | -0.30% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) |  |  | -5.70% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -10 | -18 |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | -0.30% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -9 | -18 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Dec) |  |  | -19 |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Nov) |  |  | -2.8% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Nov) |  |  | 0.7% |
@@ -37,8 +37,8 @@
 | 12:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.9% | 2.8% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.6% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
