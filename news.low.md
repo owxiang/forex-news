@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | Housing Credit (Nov) |  |  | 0.5% |
-| 4 min | AUD | Private Sector Credit (MoM) (Nov) |  | 0.5% | 0.6% |
-| 4 min | AUD | Reserve Assets Total (Nov) |  |  | 98.1B |
-| 02:00 | NZD | Credit Card Spending (YoY) (Nov) |  |  | 0.3% |
+| 00:30 | AUD | Housing Credit (Nov) | 0.5% |  | 0.5% |
+| 00:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.5% | 0.5% | 0.6% |
+| 26 min | NZD | Credit Card Spending (YoY) (Nov) |  |  | 0.3% |
 | 07:00 | GBP | Public Sector Net Borrowing (Nov) |  | 15.50B | 17.35B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 11.133B |
 | 07:00 | EUR | German PPI (YoY) (Nov) |  | -0.3% | -1.1% |
@@ -19,12 +18,12 @@
 | 08:30 | HKD | CPI (YoY) (Nov) |  | 1.50% | 1.40% |
 | 09:00 | EUR | Italian Business Confidence (Dec) |  | 86.0 | 86.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Dec) |  | 97.0 | 96.6 |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | -0.30% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | -5.70% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | -0.30% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -10 | -18 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Dec) |  |  | -19 |
-| 11:00 | EUR | Italian PPI (YoY) (Nov) |  |  | -2.8% |
 | 11:00 | EUR | Italian PPI (MoM) (Nov) |  |  | 0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Nov) |  |  | -2.8% |
 | 11:00 | BRL | FGV Consumer confidence (Dec) |  |  | 95.6 |
 | 11:30 | INR | FX Reserves, USD |  |  | 654.86B |
 | 13:30 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.6% |
@@ -33,8 +32,8 @@
 | 14:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.30% |
 | 15:00 | USD | Michigan Current Conditions (Dec) |  | 77.7 | 63.9 |
 | 15:00 | EUR | Consumer Confidence (Dec) |  | -14.0 | -13.7 |
-| 16:00 | CAD | Budget Balance (Oct) |  |  | -3.17B |
 | 16:00 | CAD | Budget Balance (YoY) (Oct) |  |  | -13.01B |
+| 16:00 | CAD | Budget Balance (Oct) |  |  | -3.17B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 11.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 224.4K |
