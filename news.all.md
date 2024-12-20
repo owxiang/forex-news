@@ -33,17 +33,17 @@
 | 11:00 | BRL | Low | FGV Consumer confidence (Dec) | 92.0 |  | 95.6 |
 | 11:30 | INR | Low | FX Reserves, USD | 652.87B |  | 654.86B |
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 20 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.9% | 2.8% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
-| 13:30 | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.6% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.9% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Oct) |  | 0.7% | 0.4% |
-| 14:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.30% |
+| 12:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 21 min | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
+| 21 min | USD | High | Core PCE Price Index (YoY) (Nov) |  | 2.9% | 2.8% |
+| 21 min | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
+| 21 min | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
+| 21 min | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.6% |
+| 21 min | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
+| 21 min | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.1% |
+| 21 min | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.9% |
+| 21 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  | 0.7% | 0.4% |
+| 51 min | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.30% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 2.9% | 2.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |

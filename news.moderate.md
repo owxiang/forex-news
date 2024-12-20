@@ -10,12 +10,12 @@
 | 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.5% | 0.8% | 2.0% |
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.5% | 0.3% | 0.2% |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 20 min | USD | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 13:30 | USD | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
-| 13:30 | USD | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
-| 13:30 | CAD | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.9% |
-| 13:30 | CAD | Retail Sales (MoM) (Oct) |  | 0.7% | 0.4% |
+| 12:30 | USD | FOMC Member Daly Speaks |  |  |  |
+| 21 min | USD | PCE Price index (YoY) (Nov) |  | 2.5% | 2.3% |
+| 21 min | USD | PCE price index (MoM) (Nov) |  | 0.2% | 0.2% |
+| 21 min | USD | Personal Spending (MoM) (Nov) |  | 0.5% | 0.4% |
+| 21 min | CAD | Core Retail Sales (MoM) (Oct) |  | 0.2% | 0.9% |
+| 21 min | CAD | Retail Sales (MoM) (Oct) |  | 0.7% | 0.4% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Dec) |  | 2.9% | 2.6% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Dec) |  | 71.6 | 76.9 |
