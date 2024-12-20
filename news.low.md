@@ -12,25 +12,25 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Nov) | 3.6% |  | 3.8% |
 | 07:00 | NOK | Unemployment Change (Dec) | 78.40K |  | 77.99K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Dec) | 2.00% | 2.10% | 2.00% |
-| 07:45 | EUR | PPI (YoY) (Nov) | -5.20% |  | -6.00% |
 | 07:45 | EUR | French PPI (MoM) (Nov) | 3.2% |  | 0.9% |
+| 07:45 | EUR | PPI (YoY) (Nov) | -5.20% |  | -6.00% |
 | 08:30 | HKD | CPI (MoM) (Nov) | 0.00% |  | 0.20% |
 | 08:30 | HKD | CPI (YoY) (Nov) | 1.40% | 1.50% | 1.40% |
 | 09:00 | EUR | Italian Business Confidence (Dec) | 85.8 | 86.0 | 86.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Dec) | 96.3 | 97.0 | 96.6 |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | 0.50% |  | -0.30% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) | -5.30% |  | -5.70% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | 0.50% |  | -0.30% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Dec) | -15 | -9 | -18 |
-| 11:00 | EUR | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
 | 11:00 | EUR | Italian PPI (MoM) (Nov) | 1.2% |  | 0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
 | 11:00 | BRL | FGV Consumer confidence (Dec) | 92.0 |  | 95.6 |
 | 11:30 | INR | FX Reserves, USD | 652.87B |  | 654.86B |
 | 13:30 | USD | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.7% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
 | 15:00 | USD | Michigan Current Conditions (Dec) | 75.1 | 77.7 | 63.9 |
 | 15:00 | EUR | Consumer Confidence (Dec) | -14.5 | -14.0 | -13.8 |
-| 16:00 | CAD | Budget Balance (YoY) (Oct) | -14.50B |  | -13.01B |
 | 16:00 | CAD | Budget Balance (Oct) | -1.49B |  | -3.17B |
+| 16:00 | CAD | Budget Balance (YoY) (Oct) | -14.50B |  | -13.01B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 11.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 224.4K |
