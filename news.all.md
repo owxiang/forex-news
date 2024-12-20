@@ -7,8 +7,8 @@
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Dec) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Nov) | -3.2% |  | 0.3% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) | 0.1% | 0.7% | 1.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) | 0.1% | 0.7% | 1.6% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Nov) | 11.25B | 15.50B | 18.22B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Nov) | 12.983B |  | 17.396B |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Nov) | 0.5% | 0.8% | 2.0% |
@@ -25,13 +25,13 @@
 | 08:30 | HKD | Low | CPI (YoY) (Nov) | 1.40% | 1.50% | 1.40% |
 | 09:00 | EUR | Low | Italian Business Confidence (Dec) | 85.8 | 86.0 | 86.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Dec) | 96.3 | 97.0 | 96.6 |
-| 54 min | EUR | Low | Italian Industrial Sales (YoY) (Oct) |  |  | -5.70% |
-| 54 min | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | -0.30% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -9 | -18 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Dec) |  |  | -19 |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Nov) |  |  | 0.7% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Nov) |  |  | -2.8% |
-| 11:00 | BRL | Low | FGV Consumer confidence (Dec) |  |  | 95.6 |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) | -5.30% |  | -5.70% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) | 0.50% |  | -0.30% |
+| 54 min | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -9 | -18 |
+| 54 min | GBP | Low | CBI Industrial Trends Orders (Dec) |  |  | -19 |
+| 54 min | EUR | Low | Italian PPI (MoM) (Nov) |  |  | 0.7% |
+| 54 min | EUR | Low | Italian PPI (YoY) (Nov) |  |  | -2.8% |
+| 54 min | BRL | Low | FGV Consumer confidence (Dec) |  |  | 95.6 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 654.86B |
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 12:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
@@ -53,8 +53,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Dec) |  | 77.7 | 63.9 |
 | 15:00 | EUR | Low | Consumer Confidence (Dec) |  | -14.0 | -13.7 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Oct) |  |  | -13.01B |
 | 16:00 | CAD | Low | Budget Balance (Oct) |  |  | -3.17B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Oct) |  |  | -13.01B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 27.1K |
