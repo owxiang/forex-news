@@ -55,8 +55,8 @@
 | 09:50 | INR | Low | Imports (USD) (Nov) | 69.95B |  | 66.34B |
 | 09:50 | INR | Low | Trade Balance (Nov) | -37.84B |  | -27.14B |
 | 09:59 | GBP | Low | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
@@ -136,8 +136,8 @@
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.686% |  | 4.680% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.700M | -1.850M | 0.499M |
-| 21:45 | NZD | Moderate | Current Account (YoY) (Q3) | -26.99B |  | -27.76B |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q3) | -10.58B | -10.45B | -4.83B |
+| 21:45 | NZD | Moderate | Current Account (YoY) (Q3) | -26.99B |  | -27.76B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) | 97.5 |  | 90.8 |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance | -0.38T | -0.45T | -0.23T |
@@ -145,10 +145,10 @@
 | 23:50 | JPY | Low | Imports (YoY) (Nov) | -3.8% | 1.0% | 0.4% |
 | 23:50 | JPY | Moderate | Trade Balance (Nov) | -117.6B | -688.9B | -462.1B |
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Nov) | 3.0% |  | 2.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Nov) | 0.1% | 0.1% | 0.6% |
@@ -169,8 +169,8 @@
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.4% | 3.1% | 2.9% |
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Construction Output (MoM) (Oct) | 0.97% |  | -0.29% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.6% | -0.6% | 0.2% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Nov) | 2.2% | 2.3% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) | -0.3% |  | 0.3% |
@@ -189,8 +189,8 @@
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 2.90% |  | 3.30% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
-| 13:30 | USD | Low | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 13:30 | USD | Moderate | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
+| 13:30 | USD | Low | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 13:30 | USD | Moderate | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Nov) | -1.8% |  | -3.2% |
 | 13:30 | USD | Moderate | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
@@ -231,8 +231,8 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
@@ -272,8 +272,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Dec) | 31.20 |  | 26.60 |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.7% | 3.5% | 2.8% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 5.25% |  | 4.95% |
-| 15:00 | USD | High | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 4.8% |  | 3.4% |
+| 15:00 | USD | High | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) | 0.3% | -0.1% | -0.4% |
 | 15:30 | USD | Low | Natural Gas Storage | -125B | -123B | -190B |
 | 16:00 | USD | Low | KC Fed Composite Index (Dec) | -4 |  | -2 |
@@ -332,8 +332,8 @@
 | 12:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Nov) | 2.8% | 2.9% | 2.8% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Nov) | 2.4% | 2.5% | 2.3% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.7% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Nov) | 0.4% | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
@@ -346,8 +346,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Dec) | 75.1 | 77.7 | 63.9 |
 | 15:00 | EUR | Low | Consumer Confidence (Dec) | -14.5 | -14.0 | -13.8 |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.1% | 3.2% | 3.2% |
-| 16:00 | CAD | Low | Budget Balance (Oct) | -1.49B |  | -3.17B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Oct) | -14.50B |  | -13.01B |
+| 16:00 | CAD | Low | Budget Balance (Oct) | -1.49B |  | -3.17B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 483 |  | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 589 |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 21.6K |  | 27.1K |

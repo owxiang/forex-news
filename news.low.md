@@ -34,8 +34,8 @@
 | 09:50 | INR | Imports (USD) (Nov) | 69.95B |  | 66.34B |
 | 09:50 | INR | Trade Balance (Nov) | -37.84B |  | -27.14B |
 | 09:59 | GBP | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
+| 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
@@ -82,10 +82,10 @@
 | 21:45 | NZD | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
 | 23:50 | JPY | Imports (YoY) (Nov) | -3.8% | 1.0% | 0.4% |
 | 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
+| 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
+| 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
 | 07:00 | GBP | Core RPI (YoY) (Nov) | 3.0% |  | 2.8% |
 | 07:00 | GBP | CPI, n.s.a (Nov) | 135.10 |  | 135.00 |
@@ -138,8 +138,8 @@
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
 | 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
 | 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
@@ -208,8 +208,8 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
 | 15:00 | USD | Michigan Current Conditions (Dec) | 75.1 | 77.7 | 63.9 |
 | 15:00 | EUR | Consumer Confidence (Dec) | -14.5 | -14.0 | -13.8 |
-| 16:00 | CAD | Budget Balance (Oct) | -1.49B |  | -3.17B |
 | 16:00 | CAD | Budget Balance (YoY) (Oct) | -14.50B |  | -13.01B |
+| 16:00 | CAD | Budget Balance (Oct) | -1.49B |  | -3.17B |
 | 20:30 | USD | CFTC Aluminium speculative net positions | 2.5K |  | 2.7K |
 | 20:30 | USD | CFTC Copper speculative net positions | 5.9K |  | 11.0K |
 | 20:30 | USD | CFTC Corn speculative net positions | 221.8K |  | 224.4K |

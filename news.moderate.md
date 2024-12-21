@@ -55,8 +55,8 @@
 | 17:30 | USD | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
 | 18:00 | USD | 20-Year Bond Auction | 4.686% |  | 4.680% |
 | 21:30 | USD | API Weekly Crude Oil Stock | -4.700M | -1.850M | 0.499M |
-| 21:45 | NZD | Current Account (YoY) (Q3) | -26.99B |  | -27.76B |
 | 21:45 | NZD | Current Account (QoQ) (Q3) | -10.58B | -10.45B | -4.83B |
+| 21:45 | NZD | Current Account (YoY) (Q3) | -26.99B |  | -27.76B |
 | 22:00 | NZD | Westpac Consumer Sentiment (Q4) | 97.5 |  | 90.8 |
 | 23:50 | JPY | Adjusted Trade Balance | -0.38T | -0.45T | -0.23T |
 | 23:50 | JPY | Exports (YoY) (Nov) | 3.8% | 2.8% | 3.1% |
@@ -111,8 +111,8 @@
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.5% | 0.3% | 0.2% |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Nov) | 2.4% | 2.5% | 2.3% |
+| 13:30 | USD | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Nov) | 0.4% | 0.5% | 0.3% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Oct) | 0.1% | 0.2% | 1.1% |
 | 13:30 | CAD | Retail Sales (MoM) (Oct) | 0.6% | 0.7% | 0.6% |
