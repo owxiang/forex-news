@@ -34,8 +34,8 @@
 | 09:50 | INR | Imports (USD) (Nov) | 69.95B |  | 66.34B |
 | 09:50 | INR | Trade Balance (Nov) | -37.84B |  | -27.14B |
 | 09:59 | GBP | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
+| 10:00 | EUR | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
 | 10:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
@@ -82,8 +82,8 @@
 | 21:45 | NZD | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
 | 23:50 | JPY | Imports (YoY) (Nov) | -3.8% | 1.0% | 0.4% |
 | 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
 | 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
+| 07:00 | GBP | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
@@ -114,8 +114,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 617.5 |  | 634.0 |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q3) | 1.20% |  | 0.40% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
-| 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
 | 12:00 | MXN | Private Spending (YoY) (Q3) | 2.90% |  | 3.30% |
+| 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
 | 13:30 | USD | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.048M |  | -0.251M |
@@ -141,8 +141,8 @@
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
-| 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
+| 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
 | 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:00 | EUR | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
 | 07:45 | EUR | French Business Survey (Dec) | 97 | 96 | 97 |
