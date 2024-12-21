@@ -55,8 +55,8 @@
 | 09:50 | INR | Low | Imports (USD) (Nov) | 69.95B |  | 66.34B |
 | 09:50 | INR | Low | Trade Balance (Nov) | -37.84B |  | -27.14B |
 | 09:59 | GBP | Low | Rightmove House Price Index (YoY) (Dec) | 1.4% |  | 1.2% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Nov) | 1.3% | 1.4% | 0.9% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.1% | 0.0% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) | 1.2% |  | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Nov) | 1.5% | 1.6% | 1.0% |
@@ -116,8 +116,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Nov) | 2.0% | 2.1% | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) | -0.1% |  | 0.4% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) | 1.6% |  | 1.7% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Low | CPI (YoY) (Nov) | 1.9% | 2.0% | 2.0% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Oct) | 21.55B | 24.50B | 29.65B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) | -2.650B |  | 4.140B |
 | 13:30 | CAD | Low | Median CPI (YoY) (Nov) | 2.6% | 2.4% | 2.6% |
@@ -145,8 +145,8 @@
 | 23:50 | JPY | Low | Imports (YoY) (Nov) | -3.8% | 1.0% | 0.4% |
 | 23:50 | JPY | Moderate | Trade Balance (Nov) | -117.6B | -688.9B | -462.1B |
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
@@ -155,8 +155,8 @@
 | 07:00 | GBP | High | CPI (YoY) (Nov) | 2.6% | 2.6% | 2.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Nov) | 135.10 |  | 135.00 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.5% |  | 3.2% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Nov) | 0.0% | 0.2% | 0.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
@@ -187,10 +187,10 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 617.5 |  | 634.0 |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 1.20% |  | 0.40% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 2.90% |  | 3.30% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
-| 13:30 | USD | Low | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 2.90% |  | 3.30% |
 | 13:30 | USD | Moderate | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
+| 13:30 | USD | Low | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 13:30 | USD | Moderate | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Nov) | -1.8% |  | -3.2% |
 | 13:30 | USD | Moderate | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
@@ -229,13 +229,13 @@
 | 02:55 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 02:55 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -21.3 | -22.6 | -23.1 |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
@@ -272,8 +272,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (Dec) | 31.20 |  | 26.60 |
 | 13:30 | USD | Low | Real Consumer Spending (Q3) | 3.7% | 3.5% | 2.8% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 5.25% |  | 4.95% |
-| 15:00 | USD | High | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 4.8% |  | 3.4% |
+| 15:00 | USD | High | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Nov) | 0.3% | -0.1% | -0.4% |
 | 15:30 | USD | Low | Natural Gas Storage | -125B | -123B | -190B |
 | 16:00 | USD | Low | KC Fed Composite Index (Dec) | -4 |  | -2 |
@@ -286,8 +286,8 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Oct) | 203.60B |  | 398.90B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) | 152.3B |  | 216.1B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) | 152.30B |  | 216.10B |
-| 21:00 | KRW | Low | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:00 | KRW | Low | PPI (MoM) (Nov) | 0.1% |  | -0.1% |
+| 21:00 | KRW | Low | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,889B |  | 6,897B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.237T |  | 3.274T |
 | 21:45 | NZD | Low | Exports (Nov) | 6.48B |  | 5.61B |
@@ -296,8 +296,8 @@
 | 21:45 | NZD | Low | Trade Balance (MoM) (Nov) | -437M | -1,951M | -1,658M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) | 0.4% |  | 0.6% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Nov) | 2.7% | 2.6% | 2.3% |
-| 23:30 | JPY | Low | National CPI (YoY) (Nov) | 2.9% |  | 2.3% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Nov) | 0.6% |  | 0.4% |
+| 23:30 | JPY | Low | National CPI (YoY) (Nov) | 2.9% |  | 2.3% |
 | 00:30 | AUD | Low | Housing Credit (Nov) | 0.5% |  | 0.5% |
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Nov) | 0.5% | 0.5% | 0.6% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Dec) | 3.60% | 3.60% | 3.60% |
@@ -332,8 +332,8 @@
 | 12:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Nov) | 2.8% | 2.9% | 2.8% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Nov) | 2.4% | 2.5% | 2.3% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.7% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Nov) | 0.4% | 0.5% | 0.3% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |

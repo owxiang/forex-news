@@ -111,8 +111,8 @@
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.5% | 0.3% | 0.2% |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | PCE Price index (YoY) (Nov) | 2.4% | 2.5% | 2.3% |
+| 13:30 | USD | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Nov) | 0.4% | 0.5% | 0.3% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Oct) | 0.1% | 0.2% | 1.1% |
 | 13:30 | CAD | Retail Sales (MoM) (Oct) | 0.6% | 0.7% | 0.6% |
