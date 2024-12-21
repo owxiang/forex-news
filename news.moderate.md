@@ -71,8 +71,8 @@
 | 10:00 | EUR | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.3% |
 | 13:30 | USD | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
 | 13:30 | USD | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
-| 13:30 | USD | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
 | 13:30 | USD | Housing Starts (MoM) (Nov) | -1.8% |  | -3.2% |
+| 13:30 | USD | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) | 3.2% | 3.1% | 3.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.108M |  | -1.298M |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) | 3.9% |  | 3.4% |
@@ -104,8 +104,8 @@
 | 23:30 | JPY | National CPI (MoM) (Nov) | 0.6% |  | 0.4% |
 | 01:00 | CNY | China Loan Prime Rate 5Y (Dec) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Nov) | 0.1% | 0.7% | 1.6% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
 | 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.5% | 0.8% | 2.0% |
 | 07:00 | GBP | Retail Sales (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.5% | 0.3% | 0.2% |
