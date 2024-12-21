@@ -19,5 +19,5 @@
 | 13:30 | USD | Initial Jobless Claims | 220K | 229K | 242K |
 | 13:30 | USD | Philadelphia Fed Manufacturing Index (Dec) | -16.4 | 2.9 | -5.5 |
 | 15:00 | USD | Existing Home Sales (Nov) | 4.15M | 4.09M | 3.96M |
-| 13:30 | USD | Core PCE Price Index (MoM) (Nov) | 0.1% | 0.2% | 0.3% |
 | 13:30 | USD | Core PCE Price Index (YoY) (Nov) | 2.8% | 2.9% | 2.8% |
+| 13:30 | USD | Core PCE Price Index (MoM) (Nov) | 0.1% | 0.2% | 0.3% |

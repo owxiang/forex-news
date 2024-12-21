@@ -5,8 +5,8 @@
 | 21:45 | NZD | FPI (MoM) (Nov) | -0.1% |  | -0.9% |
 | 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Dec) | 48.2 |  | 49.4 |
 | 22:00 | AUD | Judo Bank Australia Services PMI (Dec) | 50.4 |  | 50.5 |
-| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) | 2.1% | 1.2% | -0.7% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Oct) | 5.6% | 0.7% | -4.8% |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) | 2.1% | 1.2% | -0.7% |
 | 23:55 | KRW | Exports (YoY) (Nov) | 1.4% |  | 1.4% |
 | 23:55 | KRW | Imports (YoY) (Nov) | -2.4% |  | -2.4% |
 | 23:55 | KRW | Trade Balance (Nov) | 5.59B |  | 5.61B |
@@ -52,8 +52,8 @@
 | 00:00 | NZD | Budget Balance (Jul) | -16.610B |  | -25.600B |
 | 00:00 | NZD | Net Debt Forecast (Jul) | 45.10% |  | 43.10% |
 | 00:00 | NZD | Economic Forecast (Jul) | -17.320B |  | -11.074B |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 3.40% | -1.70% | -4.70% |
 | 00:30 | SGD | Non-Oil Exports (MoM) (Nov) | 14.70% |  | -7.50% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Nov) | 3.40% | -1.70% | -4.70% |
 | 01:30 | SGD | Trade Balance (Nov) | 6.520B |  | 4.290B |
 | 02:00 | NZD | RBNZ Offshore Holdings (Nov) | 58.60% |  | 59.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Oct) | 5.2% | 5.0% | 4.9% |
@@ -82,16 +82,16 @@
 | 21:45 | NZD | Current Account % of GDP (Q3) | -6.40% |  | -6.70% |
 | 23:50 | JPY | Imports (YoY) (Nov) | -3.8% | 1.0% | 0.4% |
 | 00:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.2% |
-| 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Nov) | 3.5% | 3.6% | 3.3% |
+| 07:00 | GBP | Core CPI (MoM) (Nov) | 0.0% |  | 0.4% |
 | 07:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.2% |
 | 07:00 | GBP | Core PPI Output (YoY) (Nov) | 1.6% |  | 1.6% |
 | 07:00 | GBP | Core RPI (YoY) (Nov) | 3.0% |  | 2.8% |
 | 07:00 | GBP | Core RPI (MoM) (Nov) | 0.0% |  | 0.5% |
 | 07:00 | GBP | CPI, n.s.a (Nov) | 135.10 |  | 135.00 |
 | 07:00 | GBP | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
-| 07:00 | GBP | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
 | 07:00 | GBP | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
+| 07:00 | GBP | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
 | 07:00 | GBP | RPI (MoM) (Nov) | 0.1% |  | 0.5% |
 | 07:00 | GBP | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
 | 07:20 | IDR | Loans (YoY) (Nov) | 10.79% |  | 10.92% |
@@ -141,8 +141,8 @@
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
-| 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | German Car Registration (YoY) (Nov) | -0.5% |  | 6.0% |
+| 07:00 | EUR | German Car Registration (MoM) (Nov) | 5.4% |  | 11.1% |
 | 07:00 | EUR | French Car Registration (MoM) (Nov) | -1.6% |  | -2.5% |
 | 07:00 | EUR | French Car Registration (YoY) (Nov) | -12.7% |  | -11.1% |
 | 07:45 | EUR | French Business Survey (Dec) | 97 | 96 | 97 |
@@ -197,8 +197,8 @@
 | 08:30 | HKD | CPI (YoY) (Nov) | 1.40% | 1.50% | 1.40% |
 | 09:00 | EUR | Italian Business Confidence (Dec) | 85.8 | 86.0 | 86.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Dec) | 96.3 | 97.0 | 96.6 |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) | -5.30% |  | -5.70% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | 0.50% |  | -0.30% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) | -5.30% |  | -5.70% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Dec) | -15 | -9 | -18 |
 | 11:00 | EUR | Italian PPI (MoM) (Nov) | 1.2% |  | 0.7% |
 | 11:00 | EUR | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
