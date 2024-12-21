@@ -48,8 +48,8 @@
 | 13:30 | CAD | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Foreign Securities Purchases (Oct) | 21.55B | 24.50B | 29.65B |
 | 13:30 | CAD | New Housing Price Index (MoM) (Nov) | 0.1% | 0.1% | -0.4% |
-| 14:15 | USD | Industrial Production (MoM) (Nov) | -0.1% | 0.3% | -0.4% |
 | 14:15 | USD | Industrial Production (YoY) (Nov) | -0.90% | 0.10% | -0.45% |
+| 14:15 | USD | Industrial Production (MoM) (Nov) | -0.1% | 0.3% | -0.4% |
 | 15:00 | USD | Business Inventories (MoM) (Oct) | 0.1% | 0.2% | 0.0% |
 | 15:00 | USD | Retail Inventories Ex Auto (Oct) | 0.1% | 0.1% | 0.1% |
 | 17:30 | USD | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
@@ -104,15 +104,15 @@
 | 23:30 | JPY | National CPI (MoM) (Nov) | 0.6% |  | 0.4% |
 | 01:00 | CNY | China Loan Prime Rate 5Y (Dec) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Nov) | 0.1% | 0.7% | 1.6% |
-| 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.5% | 0.8% | 2.0% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
 | 07:00 | GBP | Retail Sales (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Nov) | 0.5% | 0.8% | 2.0% |
 | 07:00 | EUR | German PPI (MoM) (Nov) | 0.5% | 0.3% | 0.2% |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 13:30 | USD | PCE Price index (YoY) (Nov) | 2.4% | 2.5% | 2.3% |
 | 13:30 | USD | PCE price index (MoM) (Nov) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | PCE Price index (YoY) (Nov) | 2.4% | 2.5% | 2.3% |
 | 13:30 | USD | Personal Spending (MoM) (Nov) | 0.4% | 0.5% | 0.3% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Oct) | 0.1% | 0.2% | 1.1% |
 | 13:30 | CAD | Retail Sales (MoM) (Oct) | 0.6% | 0.7% | 0.6% |
