@@ -5,8 +5,8 @@
 | 21:45 | NZD | Low | FPI (MoM) (Nov) | -0.1% |  | -0.9% |
 | 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Dec) | 48.2 |  | 49.4 |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI (Dec) | 50.4 |  | 50.5 |
-| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) | 2.1% | 1.2% | -0.7% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) | 5.6% | 0.7% | -4.8% |
+| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) | 2.1% | 1.2% | -0.7% |
 | 23:55 | KRW | Low | Exports (YoY) (Nov) | 1.4% |  | 1.4% |
 | 23:55 | KRW | Low | Imports (YoY) (Nov) | -2.4% |  | -2.4% |
 | 23:55 | KRW | Low | Trade Balance (Nov) | 5.59B |  | 5.61B |
@@ -116,8 +116,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Nov) | 2.0% | 2.1% | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Nov) | -0.1% |  | 0.4% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Nov) | 1.6% |  | 1.7% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Low | CPI (YoY) (Nov) | 1.9% | 2.0% | 2.0% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Oct) | 21.55B | 24.50B | 29.65B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) | -2.650B |  | 4.140B |
 | 13:30 | CAD | Low | Median CPI (YoY) (Nov) | 2.6% | 2.4% | 2.6% |
@@ -159,8 +159,8 @@
 | 07:00 | GBP | Low | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
-| 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
 | 07:00 | GBP | Low | RPI (MoM) (Nov) | 0.1% |  | 0.5% |
+| 07:00 | GBP | Low | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
 | 07:20 | IDR | Low | Loans (YoY) (Nov) | 10.79% |  | 10.92% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Dec) | 5.25% | 5.25% | 5.25% |
@@ -187,8 +187,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 617.5 |  | 634.0 |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 1.20% |  | 0.40% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
-| 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q3) | 2.90% |  | 3.30% |
+| 12:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
 | 13:30 | USD | Moderate | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
 | 13:30 | USD | Low | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 13:30 | USD | Moderate | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
@@ -229,8 +229,8 @@
 | 02:55 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 02:55 | JPY | High | BoJ Interest Rate Decision | 0.25% | 0.25% | 0.25% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Low | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
@@ -286,8 +286,8 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Oct) | 203.60B |  | 398.90B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) | 152.3B |  | 216.1B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) | 152.30B |  | 216.10B |
-| 21:00 | KRW | Low | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:00 | KRW | Low | PPI (MoM) (Nov) | 0.1% |  | -0.1% |
+| 21:00 | KRW | Low | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,889B |  | 6,897B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.237T |  | 3.274T |
 | 21:45 | NZD | Low | Exports (Nov) | 6.48B |  | 5.61B |
@@ -303,8 +303,8 @@
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Dec) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Nov) | -3.2% |  | 0.3% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) | 0.1% | 0.7% | 1.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) | 0.3% | 0.0% | -0.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) | 0.1% | 0.7% | 1.6% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Nov) | 11.25B | 15.50B | 18.22B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Nov) | 12.983B |  | 17.396B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Nov) | 0.2% | 0.5% | -0.7% |
@@ -324,8 +324,8 @@
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) | 0.50% |  | -0.30% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) | -5.30% |  | -5.70% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Dec) | -15 | -9 | -18 |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Nov) | 1.2% |  | 0.7% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Dec) | 92.0 |  | 95.6 |
 | 11:30 | INR | Low | FX Reserves, USD | 652.87B |  | 654.86B |
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |

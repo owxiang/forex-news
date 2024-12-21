@@ -5,8 +5,8 @@
 | 21:45 | NZD | FPI (MoM) (Nov) | -0.1% |  | -0.9% |
 | 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Dec) | 48.2 |  | 49.4 |
 | 22:00 | AUD | Judo Bank Australia Services PMI (Dec) | 50.4 |  | 50.5 |
-| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) | 2.1% | 1.2% | -0.7% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Oct) | 5.6% | 0.7% | -4.8% |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Oct) | 2.1% | 1.2% | -0.7% |
 | 23:55 | KRW | Exports (YoY) (Nov) | 1.4% |  | 1.4% |
 | 23:55 | KRW | Imports (YoY) (Nov) | -2.4% |  | -2.4% |
 | 23:55 | KRW | Trade Balance (Nov) | 5.59B |  | 5.61B |
@@ -92,8 +92,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Nov) | -1.9% |  | -2.4% |
 | 07:00 | GBP | PPI Output (YoY) (Nov) | -0.6% |  | -0.9% |
 | 07:00 | GBP | PPI Output (MoM) (Nov) | 0.3% | 0.2% | -0.1% |
-| 07:00 | GBP | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
 | 07:00 | GBP | RPI (MoM) (Nov) | 0.1% |  | 0.5% |
+| 07:00 | GBP | RPI (YoY) (Nov) | 3.6% | 3.7% | 3.4% |
 | 07:20 | IDR | Loans (YoY) (Nov) | 10.79% |  | 10.92% |
 | 07:30 | IDR | Deposit Facility Rate (Dec) | 5.25% | 5.25% | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Dec) | 6.75% | 6.75% | 6.75% |
@@ -114,8 +114,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 617.5 |  | 634.0 |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q3) | 1.20% |  | 0.40% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q3) | 2.30% |  | 2.10% |
-| 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
 | 12:00 | MXN | Private Spending (YoY) (Q3) | 2.90% |  | 3.30% |
+| 12:00 | MXN | Private Spending (QoQ) (Q3) | 1.10% |  | 0.60% |
 | 13:30 | USD | Building Permits (MoM) (Nov) | 6.1% |  | -0.4% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.048M |  | -0.251M |
@@ -136,8 +136,8 @@
 | 00:00 | NZD | ANZ Business Confidence (Dec) | 62.3 |  | 64.9 |
 | 00:00 | NZD | NBNZ Own Activity (Dec) | 50.3% |  | 48.0% |
 | 00:30 | AUD | Reserve Assets Total (Nov) | 98.3B |  | 98.1B |
-| 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | GBP | Car Registration (MoM) (Nov) | 6.5% |  | -47.6% |
+| 07:00 | GBP | Car Registration (YoY) (Nov) | -1.9% |  | -6.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Nov) | -10.8% |  | -9.1% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Nov) | -1.8% |  | 4.0% |
 | 07:00 | CHF | Trade Balance (Nov) | 5.424B | 6.200B | 8.025B |
@@ -172,8 +172,8 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Oct) | 92.10B |  | 77.00B |
 | 21:00 | USD | Overall Net Capital Flow (Oct) | 203.60B |  | 398.90B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) | 152.30B |  | 216.10B |
-| 21:00 | KRW | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:00 | KRW | PPI (MoM) (Nov) | 0.1% |  | -0.1% |
+| 21:00 | KRW | PPI (YoY) (Nov) | 1.4% |  | 1.0% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.237T |  | 3.274T |
 | 21:45 | NZD | Exports (Nov) | 6.48B |  | 5.61B |
 | 21:45 | NZD | Imports (Nov) | 6.92B |  | 7.27B |
@@ -200,8 +200,8 @@
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Oct) | 0.50% |  | -0.30% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Oct) | -5.30% |  | -5.70% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Dec) | -15 | -9 | -18 |
-| 11:00 | EUR | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
 | 11:00 | EUR | Italian PPI (MoM) (Nov) | 1.2% |  | 0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Nov) | -0.5% |  | -2.8% |
 | 11:00 | BRL | FGV Consumer confidence (Dec) | 92.0 |  | 95.6 |
 | 11:30 | INR | FX Reserves, USD | 652.87B |  | 654.86B |
 | 13:30 | USD | Personal Income (MoM) (Nov) | 0.3% | 0.4% | 0.7% |
