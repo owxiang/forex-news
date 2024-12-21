@@ -48,8 +48,8 @@
 | 13:30 | CAD | CPI (MoM) (Nov) | 0.0% | 0.1% | 0.4% |
 | 13:30 | CAD | Foreign Securities Purchases (Oct) | 21.55B | 24.50B | 29.65B |
 | 13:30 | CAD | New Housing Price Index (MoM) (Nov) | 0.1% | 0.1% | -0.4% |
-| 14:15 | USD | Industrial Production (YoY) (Nov) | -0.90% | 0.10% | -0.45% |
 | 14:15 | USD | Industrial Production (MoM) (Nov) | -0.1% | 0.3% | -0.4% |
+| 14:15 | USD | Industrial Production (YoY) (Nov) | -0.90% | 0.10% | -0.45% |
 | 15:00 | USD | Business Inventories (MoM) (Oct) | 0.1% | 0.2% | 0.0% |
 | 15:00 | USD | Retail Inventories Ex Auto (Oct) | 0.1% | 0.1% | 0.1% |
 | 17:30 | USD | Atlanta Fed GDPNow (Q4) | 3.1% | 3.3% | 3.3% |
@@ -71,8 +71,8 @@
 | 10:00 | EUR | CPI (MoM) (Nov) | -0.3% | -0.3% | 0.3% |
 | 13:30 | USD | Building Permits (Nov) | 1.505M | 1.430M | 1.419M |
 | 13:30 | USD | Current Account (Q3) | -310.9B | -286.0B | -275.0B |
-| 13:30 | USD | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
 | 13:30 | USD | Housing Starts (MoM) (Nov) | -1.8% |  | -3.2% |
+| 13:30 | USD | Housing Starts (Nov) | 1.289M | 1.350M | 1.312M |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) | 3.2% | 3.1% | 3.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.108M |  | -1.298M |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q4) | 3.9% |  | 3.4% |
