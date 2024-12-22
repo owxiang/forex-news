@@ -17,8 +17,8 @@
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.43% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.36% | 0.37% |
-| 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) |  |  | 0.30% |
+| 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Trade Balance (Nov) |  |  | 0.371B |
 | 12:00 | MXN | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.40 |
