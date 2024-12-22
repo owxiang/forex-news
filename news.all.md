@@ -27,8 +27,8 @@
 | 12:00 | MXN | Low | Trade Balance (Nov) |  |  | 0.371B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Nov) |  |  | 1.2% |
 | 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -2.8% |
