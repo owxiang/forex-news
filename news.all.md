@@ -10,8 +10,8 @@
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | 1.2% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) |  | 4.5% | 0.2% |
 | 07:00 | GBP | Moderate | Current Account (Q3) |  | -22.9B | -28.4B |
-| 07:00 | GBP | High | GDP (YoY) (Q3) |  | 1.0% | 0.7% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
+| 07:00 | GBP | High | GDP (YoY) (Q3) |  | 1.0% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.5% | 0.6% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -0.8% |
 | 07:00 | NOK | Low | Unemployment Rate (Nov) |  |  | 4.1% |
