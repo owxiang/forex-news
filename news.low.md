@@ -22,8 +22,8 @@
 | 12:00 | MXN | Trade Balance (Nov) |  |  | 0.371B |
 | 12:00 | MXN | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
+| 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | RMPI (YoY) (Nov) |  |  | -2.8% |
 | 14:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.30% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |

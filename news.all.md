@@ -31,8 +31,8 @@
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.40 |
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
-| 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
+| 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Nov) |  | 0.4% | 3.8% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -2.8% |
 | 14:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.30% |
