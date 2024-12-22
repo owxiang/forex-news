@@ -22,15 +22,15 @@
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.43% | 0.04% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.36% | 0.37% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Oct) |  |  | 0.30% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Low | Trade Balance (Nov) |  |  | 0.371B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  |  | 0.1% |
-| 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Nov) |  |  | 1.2% |
+| 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Nov) |  |  | 3.8% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -2.8% |
 | 14:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.30% |
