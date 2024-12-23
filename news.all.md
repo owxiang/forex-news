@@ -7,17 +7,17 @@
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Nov) | 1.90% | 2.10% | 2.10% |
 | 05:00 | SGD | Low | CPI (MoM) (Nov) | 0.00% |  | -0.30% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Nov) | 1.6% | 1.8% | 1.4% |
-| 52 min | GBP | Low | Business Investment (YoY) (Q3) |  | 4.5% | 0.2% |
-| 52 min | GBP | Moderate | Business Investment (QoQ) (Q3) |  | 1.2% | 1.4% |
-| 52 min | GBP | Moderate | Current Account (Q3) |  | -22.9B | -28.4B |
-| 52 min | GBP | High | GDP (YoY) (Q3) |  | 1.0% | 0.7% |
-| 52 min | GBP | High | GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
-| 52 min | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.5% | 0.6% |
-| 52 min | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -0.8% |
-| 52 min | NOK | Low | Unemployment Rate (Nov) |  |  | 4.1% |
-| 08:00 | CHF | Low | M3 Money Supply (Nov) |  |  | 1,147.6B |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 3.4% | 3.1% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 5.8% | 4.5% | 1.4% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.9% | 1.2% | 1.8% |
+| 07:00 | GBP | Moderate | Current Account (Q3) | -18.1B | -22.9B | -24.0B |
+| 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | 0.1% | 0.4% |
+| 07:00 | GBP | High | GDP (YoY) (Q3) | 0.9% | 1.0% | 0.7% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) | 0.9% | 0.5% | 0.6% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) | 0.6% |  | -0.8% |
+| 07:00 | NOK | Low | Unemployment Rate (Nov) | 3.7% |  | 4.1% |
+| 53 min | CHF | Low | M3 Money Supply (Nov) |  |  | 1,147.6B |
+| 53 min | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
+| 53 min | EUR | Low | Spanish GDP (YoY) (Q3) |  | 3.4% | 3.1% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.71B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
@@ -29,8 +29,8 @@
 | 12:00 | MXN | Low | Trade Balance (Nov) |  |  | 0.371B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Nov) |  | 0.4% | 3.8% |

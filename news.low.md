@@ -5,12 +5,12 @@
 | 02:00 | NZD | M3 Money Supply (Nov) | 424.4B |  | 419.0B |
 | 04:00 | IDR | M2 Money Supply (YoY) (Nov) | 7.00% |  | 6.70% |
 | 05:00 | SGD | CPI (MoM) (Nov) | 0.00% |  | -0.30% |
-| 52 min | GBP | Business Investment (YoY) (Q3) |  | 4.5% | 0.2% |
-| 52 min | EUR | German Import Price Index (MoM) (Nov) |  | 0.5% | 0.6% |
-| 52 min | EUR | German Import Price Index (YoY) (Nov) |  |  | -0.8% |
-| 52 min | NOK | Unemployment Rate (Nov) |  |  | 4.1% |
-| 08:00 | CHF | M3 Money Supply (Nov) |  |  | 1,147.6B |
-| 08:00 | EUR | Spanish GDP (YoY) (Q3) |  | 3.4% | 3.1% |
+| 07:00 | GBP | Business Investment (YoY) (Q3) | 5.8% | 4.5% | 1.4% |
+| 07:00 | EUR | German Import Price Index (MoM) (Nov) | 0.9% | 0.5% | 0.6% |
+| 07:00 | EUR | German Import Price Index (YoY) (Nov) | 0.6% |  | -0.8% |
+| 07:00 | NOK | Unemployment Rate (Nov) | 3.7% |  | 4.1% |
+| 53 min | CHF | M3 Money Supply (Nov) |  |  | 1,147.6B |
+| 53 min | EUR | Spanish GDP (YoY) (Q3) |  | 3.4% | 3.1% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.71B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
