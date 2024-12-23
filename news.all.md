@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | NZD | Low | M3 Money Supply (Nov) | 424,404.0B |  | 419.0B |
-| 49 min | IDR | Low | M2 Money Supply (YoY) (Nov) | 7.00% |  | 6.70% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Nov) |  | 2.10% | 2.10% |
-| 05:00 | SGD | Low | CPI (MoM) (Nov) |  |  | -0.30% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Nov) |  | 1.8% | 1.4% |
+| 02:00 | NZD | Low | M3 Money Supply (Nov) | 424.4B |  | 419.0B |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Nov) | 7.00% |  | 6.70% |
+| 52 min | SGD | Moderate | Core CPI (YoY) (Nov) |  | 2.10% | 2.10% |
+| 52 min | SGD | Low | CPI (MoM) (Nov) |  |  | -0.30% |
+| 52 min | SGD | Moderate | CPI (YoY) (Nov) |  | 1.8% | 1.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | 1.2% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) |  | 4.5% | 0.2% |
 | 07:00 | GBP | Moderate | Current Account (Q3) |  | -22.9B | -28.4B |
-| 07:00 | GBP | High | GDP (YoY) (Q3) |  | 1.0% | 0.7% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
+| 07:00 | GBP | High | GDP (YoY) (Q3) |  | 1.0% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | 0.5% | 0.6% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -0.8% |
 | 07:00 | NOK | Low | Unemployment Rate (Nov) |  |  | 4.1% |
 | 08:00 | CHF | Low | M3 Money Supply (Nov) |  |  | 1,147,624.0B |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 3.4% | 3.1% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.71B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
@@ -33,8 +33,8 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  |  | 0.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
 | 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Nov) |  | 0.4% | 3.8% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -2.8% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Nov) |  | 0.4% | 3.8% |
 | 14:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.30% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.372% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.770% |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | M3 Money Supply (Nov) | 424,404.0B |  | 419.0B |
-| 49 min | IDR | M2 Money Supply (YoY) (Nov) | 7.00% |  | 6.70% |
-| 05:00 | SGD | CPI (MoM) (Nov) |  |  | -0.30% |
+| 02:00 | NZD | M3 Money Supply (Nov) | 424.4B |  | 419.0B |
+| 04:00 | IDR | M2 Money Supply (YoY) (Nov) | 7.00% |  | 6.70% |
+| 52 min | SGD | CPI (MoM) (Nov) |  |  | -0.30% |
 | 07:00 | GBP | Business Investment (YoY) (Q3) |  | 4.5% | 0.2% |
 | 07:00 | EUR | German Import Price Index (MoM) (Nov) |  | 0.5% | 0.6% |
 | 07:00 | EUR | German Import Price Index (YoY) (Nov) |  |  | -0.8% |
