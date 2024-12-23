@@ -18,19 +18,21 @@
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) | 7.00B | 7.14B | 5.72B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) | 0.50% | 0.43% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) | 0.42% | 0.36% | 0.37% |
-| 12:00 | MXN | Economic Activity (MoM) (Oct) | -0.70% |  | 0.10% |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) | 0.70% |  | 0.30% |
+| 12:00 | MXN | Economic Activity (MoM) (Oct) | -0.70% |  | 0.10% |
 | 12:00 | MXN | Trade Balance (Nov) | -0.133B |  | 0.371B |
 | 12:00 | MXN | Trade Balance (USD) (Nov) | -0.775B |  | 0.331B |
-| 20 min | USD | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 20 min | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
-| 20 min | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
-| 20 min | CAD | RMPI (YoY) (Nov) |  |  | -2.8% |
-| 50 min | USD | Dallas Fed PCE (Nov) |  |  | 2.30% |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.372% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 2.770% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.575% |
-| 14:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 13:30 | USD | Chicago Fed National Activity (Nov) | -0.12 |  | -0.50 |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Nov) | -0.3% |  | 1.0% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) | 0.7% |  | -0.1% |
+| 13:30 | CAD | IPPI (MoM) (Nov) | 0.6% | 0.3% | 1.2% |
+| 13:30 | CAD | IPPI (YoY) (Nov) | 2.2% |  | 1.1% |
+| 13:30 | CAD | RMPI (YoY) (Nov) | 2.0% |  | -2.6% |
+| 14:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.30% |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.770% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.575% |
+| 24 min | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.160% |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
