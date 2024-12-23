@@ -8,22 +8,22 @@
 | 07:00 | GBP | Business Investment (YoY) (Q3) | 5.8% | 4.5% | 1.4% |
 | 07:00 | EUR | German Import Price Index (MoM) (Nov) | 0.9% | 0.5% | 0.6% |
 | 07:00 | EUR | German Import Price Index (YoY) (Nov) | 0.6% |  | -0.8% |
-| 07:00 | NOK | Unemployment Rate (Nov) | 3.7% |  | 4.1% |
-| 53 min | CHF | M3 Money Supply (Nov) |  |  | 1,147.6B |
-| 53 min | EUR | Spanish GDP (YoY) (Q3) |  | 3.4% | 3.1% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.71B |
+| 07:00 | NOK | Unemployment Rate (Nov) | 3.7% |  | 4.0% |
+| 08:00 | CHF | M3 Money Supply (Nov) | 1,155.9B |  | 1,148.4B |
+| 08:00 | EUR | Spanish GDP (YoY) (Q3) | 3.3% | 3.4% | 3.1% |
+| 52 min | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.71B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.43% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.36% | 0.37% |
-| 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) |  |  | 0.30% |
+| 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Trade Balance (Nov) |  |  | 0.371B |
 | 12:00 | MXN | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
+| 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | RMPI (YoY) (Nov) |  |  | -2.8% |
 | 14:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.30% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
