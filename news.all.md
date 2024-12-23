@@ -10,8 +10,8 @@
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.9% | 1.2% | 1.8% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 5.8% | 4.5% | 1.4% |
 | 07:00 | GBP | Moderate | Current Account (Q3) | -18.1B | -22.9B | -24.0B |
-| 07:00 | GBP | High | GDP (YoY) (Q3) | 0.9% | 1.0% | 0.7% |
 | 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | 0.1% | 0.4% |
+| 07:00 | GBP | High | GDP (YoY) (Q3) | 0.9% | 1.0% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) | 0.9% | 0.5% | 0.6% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) | 0.6% |  | -0.8% |
 | 07:00 | NOK | Low | Unemployment Rate (Nov) | 3.7% |  | 4.0% |
@@ -25,8 +25,8 @@
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Nov) | 7.00B | 7.14B | 5.72B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) | 0.50% | 0.43% | 0.04% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Dec) | 0.42% | 0.36% | 0.37% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Oct) | 0.70% |  | 0.30% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Oct) | -0.70% |  | 0.10% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Oct) | 0.70% |  | 0.30% |
 | 12:00 | MXN | Low | Trade Balance (Nov) | -0.133B |  | 0.371B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Nov) | -0.775B |  | 0.331B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) | -0.12 |  | -0.50 |
@@ -40,15 +40,15 @@
 | 13:30 | CAD | Moderate | RMPI (MoM) (Nov) | -0.5% | 0.4% | 4.0% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) | 2.0% |  | -2.6% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Nov) | -0.1% |  | 0.3% |
-| 14:30 | USD | Moderate | Building Permits (Nov) | 1.493M | 1.505M | 1.419M |
 | 14:30 | USD | Low | Building Permits (MoM) (Nov) | 5.2% | 6.1% | -0.4% |
+| 14:30 | USD | Moderate | Building Permits (Nov) | 1.493M | 1.505M | 1.419M |
 | 15:00 | USD | Low | 3-Month Bill Auction | 4.240% |  | 4.250% |
 | 15:00 | USD | Low | 6-Month Bill Auction | 4.170% |  | 4.160% |
 | 15:00 | USD | High | CB Consumer Confidence (Dec) | 104.7 | 112.9 | 112.8 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Nov) | 5.9% |  | -14.8% |
 | 15:00 | USD | High | New Home Sales (Nov) | 664K | 650K | 627K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Nov) | 5.9% |  | -14.8% |
 | 16:37 | USD | Low | 52-Week Bill Auction | 4.070% |  | 4.190% |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 4.335% |  | 4.274% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 21:00 | KRW | Low | Consumer Confidence (Dec) |  |  | 100.7 |
+| 54 min | KRW | Low | Consumer Confidence (Dec) |  |  | 100.7 |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
