@@ -20,18 +20,18 @@
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 3.3% | 3.4% | 3.1% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) | 5.91B |  | 5.81B |
 | 09:00 | CHF | Low | ZEW Expectations (Dec) | -20.0 |  | -12.4 |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 24 min | BRL | Low | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
-| 54 min | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.43% | 0.04% |
-| 54 min | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.36% | 0.37% |
-| 54 min | MXN | Low | Economic Activity (YoY) (Oct) |  |  | 0.30% |
-| 54 min | MXN | Low | Economic Activity (MoM) (Oct) |  |  | 0.20% |
-| 54 min | MXN | Low | Trade Balance (Nov) |  |  | 0.371B |
-| 54 min | MXN | Low | Trade Balance (USD) (Nov) |  |  | 0.463B |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:30 | BRL | Low | Current Account (USD) (Nov) | -3.10B | -3.20B | -5.88B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Nov) | 7.00B | 7.14B | 5.72B |
+| 12:00 | MXN | Low | 1st Half-Month Core CPI (Dec) | 0.50% | 0.43% | 0.04% |
+| 12:00 | MXN | Low | 1st Half-Month CPI (Dec) | 0.42% | 0.36% | 0.37% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Oct) | 0.70% |  | 0.30% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Oct) | -0.70% |  | 0.10% |
+| 12:00 | MXN | Low | Trade Balance (Nov) | -0.133B |  | 0.371B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Nov) | -0.775B |  | 0.463B |
 | 13:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  |  | 0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Oct) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
 | 13:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -2.8% |
