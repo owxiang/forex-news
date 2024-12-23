@@ -10,18 +10,18 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Nov) | 0.6% |  | -0.8% |
 | 07:00 | NOK | Unemployment Rate (Nov) | 3.7% |  | 4.0% |
 | 08:00 | CHF | M3 Money Supply (Nov) | 1,155.9B |  | 1,148.4B |
-| 08:00 | CHF | ZEW Expectations (Dec) | -20.0 |  | -12.4 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q3) | 3.3% | 3.4% | 3.1% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Nov) | 5.91B |  | 5.71B |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
-| 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
-| 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.43% | 0.04% |
-| 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.36% | 0.37% |
-| 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
-| 12:00 | MXN | Economic Activity (YoY) (Oct) |  |  | 0.30% |
-| 12:00 | MXN | Trade Balance (Nov) |  |  | 0.371B |
-| 12:00 | MXN | Trade Balance (USD) (Nov) |  |  | 0.463B |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Nov) | 5.91B |  | 5.81B |
+| 09:00 | CHF | ZEW Expectations (Dec) | -20.0 |  | -12.4 |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 24 min | BRL | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
+| 24 min | BRL | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
+| 54 min | MXN | 1st Half-Month Core CPI (Dec) |  | 0.43% | 0.04% |
+| 54 min | MXN | 1st Half-Month CPI (Dec) |  | 0.36% | 0.37% |
+| 54 min | MXN | Economic Activity (YoY) (Oct) |  |  | 0.30% |
+| 54 min | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
+| 54 min | MXN | Trade Balance (Nov) |  |  | 0.371B |
+| 54 min | MXN | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.40 |
 | 13:30 | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
 | 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
