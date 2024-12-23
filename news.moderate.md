@@ -11,5 +11,6 @@
 | 13:30 | CAD | GDP (MoM) (Oct) | 0.3% | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Oct) | 0.3% |  | 0.2% |
 | 13:30 | CAD | RMPI (MoM) (Nov) | -0.5% | 0.4% | 4.0% |
+| 15:00 | USD | New Home Sales (MoM) (Nov) | 5.9% |  | -14.8% |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.274% |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |

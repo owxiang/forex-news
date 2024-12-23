@@ -28,11 +28,6 @@
 | 13:30 | CAD | IPPI (MoM) (Nov) | 0.6% | 0.3% | 1.2% |
 | 13:30 | CAD | IPPI (YoY) (Nov) | 2.2% |  | 1.1% |
 | 13:30 | CAD | RMPI (YoY) (Nov) | 2.0% |  | -2.6% |
-| 14:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.30% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.770% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.575% |
-| 24 min | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.160% |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |

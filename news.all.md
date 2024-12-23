@@ -40,12 +40,9 @@
 | 13:30 | CAD | Low | IPPI (YoY) (Nov) | 2.2% |  | 1.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Nov) | 2.0% |  | -2.6% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Nov) | -0.5% | 0.4% | 4.0% |
-| 14:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.30% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.372% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.770% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.575% |
-| 24 min | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 54 min | USD | High | CB Consumer Confidence (Dec) |  | 112.9 | 111.7 |
+| 15:00 | USD | High | CB Consumer Confidence (Dec) | 104.7 | 112.9 | 112.8 |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Nov) | 5.9% |  | -14.8% |
+| 15:00 | USD | High | New Home Sales (Nov) | 664K |  | 627K |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.160% |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.274% |
