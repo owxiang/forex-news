@@ -10,9 +10,9 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Nov) | 0.6% |  | -0.8% |
 | 07:00 | NOK | Unemployment Rate (Nov) | 3.7% |  | 4.0% |
 | 08:00 | CHF | M3 Money Supply (Nov) | 1,155.9B |  | 1,148.4B |
+| 08:00 | CHF | ZEW Expectations (Dec) | -20.0 |  | -12.4 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q3) | 3.3% | 3.4% | 3.1% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.71B |
-| 09:00 | CHF | ZEW Expectations (Dec) | -20.0 |  | -12.4 |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Nov) | 5.91B |  | 5.71B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Current Account (USD) (Nov) |  | -3.20B | -5.88B |
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
