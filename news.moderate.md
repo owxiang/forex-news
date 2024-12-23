@@ -9,8 +9,9 @@
 | 08:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.8% | 0.8% | 0.8% |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Nov) | -0.1% |  | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Oct) | 0.3% | 0.1% | 0.2% |
-| 13:30 | CAD | GDP (MoM) (Oct) | 0.3% |  | 0.2% |
 | 13:30 | CAD | RMPI (MoM) (Nov) | -0.5% | 0.4% | 4.0% |
+| 13:31 | CAD | GDP (MoM) (Nov) | -0.1% |  | 0.3% |
+| 14:30 | USD | Building Permits (Nov) | 1.493M | 1.505M | 1.419M |
 | 15:00 | USD | New Home Sales (MoM) (Nov) | 5.9% |  | -14.8% |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.274% |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
