@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | M3 Money Supply (Nov) | 424,404.0B |  | 419.0B |
-| 04:00 | IDR | M2 Money Supply (YoY) (Nov) |  |  | 6.70% |
+| 49 min | IDR | M2 Money Supply (YoY) (Nov) | 7.00% |  | 6.70% |
 | 05:00 | SGD | CPI (MoM) (Nov) |  |  | -0.30% |
 | 07:00 | GBP | Business Investment (YoY) (Q3) |  | 4.5% | 0.2% |
 | 07:00 | EUR | German Import Price Index (MoM) (Nov) |  | 0.5% | 0.6% |
@@ -17,13 +17,13 @@
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) |  | 7.14B | 5.72B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.43% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.36% | 0.37% |
-| 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) |  |  | 0.30% |
+| 12:00 | MXN | Economic Activity (MoM) (Oct) |  |  | 0.20% |
 | 12:00 | MXN | Trade Balance (Nov) |  |  | 0.371B |
 | 12:00 | MXN | Trade Balance (USD) (Nov) |  |  | 0.463B |
 | 13:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.40 |
-| 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | IPPI (MoM) (Nov) |  | 0.3% | 1.2% |
+| 13:30 | CAD | IPPI (YoY) (Nov) |  |  | 1.1% |
 | 13:30 | CAD | RMPI (YoY) (Nov) |  |  | -2.8% |
 | 14:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.30% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
