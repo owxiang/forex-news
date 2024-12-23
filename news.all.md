@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | M3 Money Supply (Nov) | 424.4B |  | 419.0B |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Nov) | 7.00% |  | 6.70% |
-| 52 min | SGD | Moderate | Core CPI (YoY) (Nov) |  | 2.10% | 2.10% |
-| 52 min | SGD | Low | CPI (MoM) (Nov) |  |  | -0.30% |
-| 52 min | SGD | Moderate | CPI (YoY) (Nov) |  | 1.8% | 1.4% |
+| 05:00 | SGD | Moderate | Core CPI (YoY) (Nov) | 1.90% | 2.10% | 2.10% |
+| 05:00 | SGD | Low | CPI (MoM) (Nov) | 0.00% |  | -0.30% |
+| 05:00 | SGD | Moderate | CPI (YoY) (Nov) | 1.6% | 1.8% | 1.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | 1.2% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) |  | 4.5% | 0.2% |
 | 07:00 | GBP | Moderate | Current Account (Q3) |  | -22.9B | -28.4B |

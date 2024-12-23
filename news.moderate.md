@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | SGD | Core CPI (YoY) (Nov) |  | 2.10% | 2.10% |
-| 52 min | SGD | CPI (YoY) (Nov) |  | 1.8% | 1.4% |
+| 05:00 | SGD | Core CPI (YoY) (Nov) | 1.90% | 2.10% | 2.10% |
+| 05:00 | SGD | CPI (YoY) (Nov) | 1.6% | 1.8% | 1.4% |
 | 07:00 | GBP | Business Investment (QoQ) (Q3) |  | 1.2% | 1.4% |
 | 07:00 | GBP | Current Account (Q3) |  | -22.9B | -28.4B |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
