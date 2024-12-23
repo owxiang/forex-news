@@ -10,8 +10,8 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q3) | 5.8% | 4.5% | 1.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | 1.9% | 1.2% | 1.8% |
 | 07:00 | GBP | Moderate | Current Account (Q3) | -18.1B | -22.9B | -24.0B |
-| 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | 0.1% | 0.4% |
 | 07:00 | GBP | High | GDP (YoY) (Q3) | 0.9% | 1.0% | 0.7% |
+| 07:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | 0.1% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Nov) | 0.9% | 0.5% | 0.6% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Nov) | 0.6% |  | -0.8% |
 | 07:00 | NOK | Low | Unemployment Rate (Nov) | 3.7% |  | 4.0% |
@@ -48,7 +48,7 @@
 | 15:00 | USD | High | New Home Sales (Nov) | 664K | 650K | 627K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Nov) | 5.9% |  | -14.8% |
 | 16:37 | USD | Low | 52-Week Bill Auction | 4.070% |  | 4.190% |
-| 55 min | USD | Moderate | 2-Year Note Auction |  |  | 4.274% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 4.335% |  | 4.274% |
+| 23 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Dec) |  |  | 100.7 |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

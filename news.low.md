@@ -32,5 +32,5 @@
 | 15:00 | USD | 3-Month Bill Auction | 4.240% |  | 4.250% |
 | 15:00 | USD | 6-Month Bill Auction | 4.170% |  | 4.160% |
 | 16:37 | USD | 52-Week Bill Auction | 4.070% |  | 4.190% |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 23 min | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:00 | KRW | Consumer Confidence (Dec) |  |  | 100.7 |

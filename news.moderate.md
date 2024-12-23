@@ -13,5 +13,5 @@
 | 13:31 | CAD | GDP (MoM) (Nov) | -0.1% |  | 0.3% |
 | 14:30 | USD | Building Permits (Nov) | 1.493M | 1.505M | 1.419M |
 | 15:00 | USD | New Home Sales (MoM) (Nov) | 5.9% |  | -14.8% |
-| 55 min | USD | 2-Year Note Auction |  |  | 4.274% |
+| 18:00 | USD | 2-Year Note Auction | 4.335% |  | 4.274% |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
