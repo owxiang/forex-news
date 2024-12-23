@@ -18,8 +18,8 @@
 | 11:30 | BRL | Foreign direct investment (USD) (Nov) | 7.00B | 7.14B | 5.72B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Dec) | 0.50% | 0.43% | 0.04% |
 | 12:00 | MXN | 1st Half-Month CPI (Dec) | 0.42% | 0.36% | 0.37% |
-| 12:00 | MXN | Economic Activity (MoM) (Oct) | -0.70% |  | 0.10% |
 | 12:00 | MXN | Economic Activity (YoY) (Oct) | 0.70% |  | 0.30% |
+| 12:00 | MXN | Economic Activity (MoM) (Oct) | -0.70% |  | 0.10% |
 | 12:00 | MXN | Trade Balance (Nov) | -0.133B |  | 0.371B |
 | 12:00 | MXN | Trade Balance (USD) (Nov) | -0.775B |  | 0.331B |
 | 13:30 | USD | Chicago Fed National Activity (Nov) | -0.12 |  | -0.50 |
@@ -33,4 +33,4 @@
 | 15:00 | USD | 6-Month Bill Auction | 4.170% |  | 4.160% |
 | 16:37 | USD | 52-Week Bill Auction | 4.070% |  | 4.190% |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 54 min | KRW | Consumer Confidence (Dec) |  |  | 100.7 |
+| 21:00 | KRW | Consumer Confidence (Dec) | 88.4 |  | 100.7 |
