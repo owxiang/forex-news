@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.7% | 1.5% | 1.5% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.8% |
+| 46 min | USD | Low | Redbook (YoY) |  |  | 4.8% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Dec) |  | -10 | -14 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Dec) |  |  | -12 |

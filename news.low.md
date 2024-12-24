@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:55 | USD | Redbook (YoY) |  |  | 4.8% |
+| 46 min | USD | Redbook (YoY) |  |  | 4.8% |
 | 14:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:00 | USD | Richmond Manufacturing Index (Dec) |  | -10 | -14 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Dec) |  |  | -12 |
