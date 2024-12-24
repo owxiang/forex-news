@@ -11,4 +11,4 @@
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.1% | 3.1% | 3.1% |
 | 16:30 | USD | Moderate | 5-Year Note Auction | 4.478% |  | 4.197% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.700M |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.9% |
+| 44 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.9% |
