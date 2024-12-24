@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.5% | 1.5% |
+| 53 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.5% | 1.5% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Nov) |  | 0.3% | 0.1% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Nov) |  | -0.3% | 0.2% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | 0.5% |
