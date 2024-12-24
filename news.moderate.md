@@ -4,6 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 05:00 | JPY | BoJ Core CPI (YoY) | 1.7% | 1.5% | 1.5% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 4.197% |
-| 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
+| 24 min | USD | 5-Year Note Auction |  |  | 4.197% |
+| 54 min | USD | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.700M |
