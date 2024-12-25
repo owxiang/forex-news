@@ -6,6 +6,5 @@
 | 05:00 | JPY | Low | Leading Index (MoM) (Oct) | 0.2% | -0.3% | 2.2% |
 | 05:00 | JPY | Low | Leading Index (Oct) | 109.1 | 108.6 | 109.1 |
 | 05:10 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 25 min | INR | Low | M3 Money Supply |  |  | 10.0% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 706.1B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -587.6B |
