@@ -1,14 +1,10 @@
-## 24 December 2024 - All Forex News
+## 25 December 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 1.7% | 1.5% | 1.5% |
-| 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 4.8% |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Dec) | -10 | -10 | -14 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Dec) | -11 |  | -12 |
-| 15:00 | USD | Low | Richmond Services Index (Dec) | 23 |  | 9 |
-| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.1% | 3.1% | 3.1% |
-| 16:30 | USD | Moderate | 5-Year Note Auction | 4.478% |  | 4.197% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.700M |
-| 44 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.9% |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Oct) |  | 2.5% | 1.3% |
+| 05:00 | JPY | Low | Leading Index (MoM) (Oct) |  | -0.3% | 2.2% |
+| 05:00 | JPY | Low | Leading Index (Oct) |  | 108.6 | 109.1 |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 706.1B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -587.6B |
