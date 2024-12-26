@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | JPY | 2-Year JGB Auction |  |  | 0.454% |
-| 05:00 | JPY | Construction Orders (YoY) (Nov) |  |  | 44.6% |
-| 05:00 | JPY | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
-| 05:00 | SGD | Industrial Production (MoM) (Nov) |  |  | 0.1% |
-| 05:00 | SGD | Industrial Production (YoY) (Nov) |  | 10.0% | 1.2% |
+| 03:35 | JPY | 2-Year JGB Auction | 0.602% |  | 0.454% |
+| 52 min | JPY | Construction Orders (YoY) (Nov) |  |  | 44.6% |
+| 52 min | JPY | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
+| 52 min | SGD | Industrial Production (MoM) (Nov) |  |  | 0.1% |
+| 52 min | SGD | Industrial Production (YoY) (Nov) |  | 10.0% | 1.2% |
 | 08:00 | EUR | Spanish PPI (YoY) (Nov) |  |  | -3.9% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.0% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.75% |
