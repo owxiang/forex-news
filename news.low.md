@@ -7,7 +7,7 @@
 | 05:00 | SGD | Industrial Production (MoM) (Nov) | -0.4% |  | 0.1% |
 | 05:00 | SGD | Industrial Production (YoY) (Nov) | 8.5% | 10.0% | 1.2% |
 | 08:00 | EUR | Spanish PPI (YoY) (Nov) | 0.9% |  | -3.9% |
-| 25 min | INR | M3 Money Supply |  |  | 10.0% |
+| 11:30 | INR | M3 Money Supply | 10.7% |  | 10.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 225.50K |
 | 14:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 16:00 | USD | M2 Money Supply (MoM) (Nov) |  |  | 23.31T |
