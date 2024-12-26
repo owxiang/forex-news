@@ -9,9 +9,9 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) | 0.9% |  | -3.9% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Nov) | 2,935.0K |  | 2,891.5K |
 | 11:30 | INR | Low | M3 Money Supply | 10.7% |  | 10.0% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,874K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 220K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 225.50K |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,874K |
+| 21 min | USD | High | Initial Jobless Claims |  | 223K | 220K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 225.50K |
 | 14:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 16:00 | USD | Low | M2 Money Supply (MoM) (Nov) |  |  | 23.31T |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
