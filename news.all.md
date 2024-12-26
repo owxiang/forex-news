@@ -12,8 +12,7 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,910K | 1,880K | 1,864K |
 | 13:30 | USD | High | Initial Jobless Claims | 219K | 223K | 220K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.50K |  | 225.50K |
-| 25 min | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 16:00 | USD | Low | M2 Money Supply (MoM) (Nov) |  |  | 23.31T |
+| 54 min | USD | Low | M2 Money Supply (MoM) (Nov) |  |  | 23.31T |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.230% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.146B |
