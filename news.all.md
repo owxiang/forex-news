@@ -19,16 +19,16 @@
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Nov) | 21.45T |  | 23.31T |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,886B |  | 6,889B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.218T |  | 3.237T |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.2% |
-| 23:30 | JPY | Low | Jobs/applications ratio (Nov) |  | 1.25 | 1.25 |
-| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.5% | 2.2% |
-| 23:30 | JPY | Low | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.1% |
-| 23:30 | JPY | Low | Unemployment Rate (Nov) |  | 2.5% | 2.5% |
-| 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 23:50 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -3.4% | 2.8% |
-| 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -2.2% |
-| 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | -0.5% |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) |  |  | -2.3% |
-| 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | -1.0% |
-| 23:50 | JPY | Low | Retail Sales (YoY) (Nov) |  | 1.5% | 1.6% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.2% |
+| 24 min | JPY | Low | Jobs/applications ratio (Nov) |  | 1.25 | 1.25 |
+| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.5% | 2.2% |
+| 24 min | JPY | Low | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.1% |
+| 24 min | JPY | Low | Unemployment Rate (Nov) |  | 2.5% | 2.5% |
+| 44 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 44 min | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -3.4% | 2.8% |
+| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -2.2% |
+| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | -0.5% |
+| 44 min | JPY | Low | Large Retailers' Sales (MoM) |  |  | -2.3% |
+| 44 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | -1.0% |
+| 44 min | JPY | Low | Retail Sales (YoY) (Nov) |  | 1.5% | 1.6% |

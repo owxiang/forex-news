@@ -14,14 +14,14 @@
 | 17:30 | BRL | Foreign Exchange Flows | -11.640B |  | -4.146B |
 | 18:00 | USD | M2 Money Supply (MoM) (Nov) | 21.45T |  | 23.31T |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.218T |  | 3.237T |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.2% |
-| 23:30 | JPY | Jobs/applications ratio (Nov) |  | 1.25 | 1.25 |
-| 23:30 | JPY | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.1% |
-| 23:30 | JPY | Unemployment Rate (Nov) |  | 2.5% | 2.5% |
-| 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -2.2% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | -0.5% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) |  |  | -2.3% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | -1.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Nov) |  | 1.5% | 1.6% |
+| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.2% |
+| 24 min | JPY | Jobs/applications ratio (Nov) |  | 1.25 | 1.25 |
+| 24 min | JPY | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
+| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.1% |
+| 24 min | JPY | Unemployment Rate (Nov) |  | 2.5% | 2.5% |
+| 44 min | JPY | BoJ Summary of Opinions |  |  |  |
+| 44 min | JPY | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -2.2% |
+| 44 min | JPY | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | -0.5% |
+| 44 min | JPY | Large Retailers' Sales (MoM) |  |  | -2.3% |
+| 44 min | JPY | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | -1.0% |
+| 44 min | JPY | Retail Sales (YoY) (Nov) |  | 1.5% | 1.6% |
