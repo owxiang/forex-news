@@ -13,7 +13,7 @@
 | 16:30 | USD | 8-Week Bill Auction | 4.265% |  | 4.230% |
 | 17:30 | BRL | Foreign Exchange Flows | -11.640B |  | -4.146B |
 | 18:00 | USD | M2 Money Supply (MoM) (Nov) | 21.45T |  | 23.31T |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.237T |
+| 25 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.237T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.2% |
 | 23:30 | JPY | Jobs/applications ratio (Nov) |  | 1.25 | 1.25 |
 | 23:30 | JPY | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |

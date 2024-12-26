@@ -17,8 +17,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | -11.640B |  | -4.146B |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.532% |  | 4.183% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Nov) | 21.45T |  | 23.31T |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,889B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.237T |
+| 25 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,889B |
+| 25 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.237T |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.2% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Nov) |  | 1.25 | 1.25 |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.5% | 2.2% |
