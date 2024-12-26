@@ -6,7 +6,7 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Nov) | -10.2% |  | 44.6% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Nov) | -0.4% |  | 0.1% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Nov) | 8.5% | 10.0% | 1.2% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | -3.9% |
+| 54 min | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | -3.9% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Nov) |  |  | 2,891.5K |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
@@ -23,7 +23,6 @@
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.230% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.146B |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.183% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.700M |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,889B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.237T |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 1.2% |

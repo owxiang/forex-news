@@ -6,7 +6,7 @@
 | 05:00 | JPY | Construction Orders (YoY) (Nov) | -10.2% |  | 44.6% |
 | 05:00 | SGD | Industrial Production (MoM) (Nov) | -0.4% |  | 0.1% |
 | 05:00 | SGD | Industrial Production (YoY) (Nov) | 8.5% | 10.0% | 1.2% |
-| 08:00 | EUR | Spanish PPI (YoY) (Nov) |  |  | -3.9% |
+| 54 min | EUR | Spanish PPI (YoY) (Nov) |  |  | -3.9% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.0% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.75% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.7% |
