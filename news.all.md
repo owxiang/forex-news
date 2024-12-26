@@ -6,14 +6,9 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Nov) | -10.2% |  | 44.6% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Nov) | -0.4% |  | 0.1% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Nov) | 8.5% | 10.0% | 1.2% |
-| 54 min | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | -3.9% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) | 0.9% |  | -3.9% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Nov) |  |  | 2,891.5K |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.7% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 157.1 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 224.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 617.5 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,874K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 220K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 225.50K |
