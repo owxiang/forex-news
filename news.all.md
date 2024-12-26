@@ -4,7 +4,6 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 03:35 | JPY | Low | 2-Year JGB Auction | 0.602% |  | 0.454% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Nov) | -10.2% |  | 44.6% |
-| 05:00 | JPY | Low | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Nov) | -0.4% |  | 0.1% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Nov) | 8.5% | 10.0% | 1.2% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) |  |  | -3.9% |
