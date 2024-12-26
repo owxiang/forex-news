@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.454% |
+| 25 min | JPY | Low | 2-Year JGB Auction |  |  | 0.454% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Nov) |  |  | 44.6% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Nov) |  |  | 0.1% |
