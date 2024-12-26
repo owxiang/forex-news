@@ -7,8 +7,8 @@
 | 05:00 | SGD | Low | Industrial Production (MoM) (Nov) | -0.4% |  | 0.1% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Nov) | 8.5% | 10.0% | 1.2% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Nov) | 0.9% |  | -3.9% |
-| 54 min | EUR | Moderate | France Jobseekers Total (Nov) |  |  | 2,891.5K |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 10.0% |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Nov) |  |  | 2,891.5K |
+| 25 min | INR | Low | M3 Money Supply |  |  | 10.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,874K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 223K | 220K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 225.50K |
