@@ -23,18 +23,18 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) | 0.6% |  | 0.3% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Nov) | -0.2% | 0.1% | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage | -93B |  | -125B |
-| 55 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
-| 55 min | USD | High | Crude Oil Inventories |  | -0.700M | -0.934M |
-| 55 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.048M |
-| 55 min | USD | Low | Crude Oil Imports |  |  | -1.131M |
-| 55 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.108M |
-| 55 min | USD | Low | Distillate Fuel Production |  |  | -0.135M |
-| 55 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.700M | -3.180M |
-| 55 min | USD | Low | Gasoline Production |  |  | -0.173M |
-| 55 min | USD | Low | Heating Oil Stockpiles |  |  | -0.304M |
-| 55 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 55 min | USD | Low | Gasoline Inventories |  | -1.000M | 2.348M |
-| 55 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 483 |  | 483 |
+| 18:00 | USD | High | Crude Oil Inventories | -4.237M | -0.700M | -0.934M |
+| 18:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.205M |  | -0.048M |
+| 18:00 | USD | Low | Crude Oil Imports | 0.995M |  | -1.131M |
+| 18:00 | USD | Moderate | Cushing Crude Oil Inventories | -0.320M |  | 0.108M |
+| 18:00 | USD | Low | Distillate Fuel Production | 0.178M |  | -0.135M |
+| 18:00 | USD | Low | EIA Weekly Distillates Stocks | -1.694M | -0.700M | -3.180M |
+| 18:00 | USD | Low | Gasoline Production | 0.051M |  | -0.173M |
+| 18:00 | USD | Low | Heating Oil Stockpiles | -0.062M |  | -0.304M |
+| 18:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.7% |  | -0.6% |
+| 18:00 | USD | Low | Gasoline Inventories | 1.630M | -1.000M | 2.348M |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 589 |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 5.9K |

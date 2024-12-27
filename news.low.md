@@ -20,14 +20,14 @@
 | 13:00 | BRL | CAGED Net Payroll Jobs (Nov) | 106.63K | 129.50K | 132.71K |
 | 13:30 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | 0.1% | 0.2% |
 | 15:30 | USD | Natural Gas Storage | -93B |  | -125B |
-| 55 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.048M |
-| 55 min | USD | Crude Oil Imports |  |  | -1.131M |
-| 55 min | USD | Distillate Fuel Production |  |  | -0.135M |
-| 55 min | USD | EIA Weekly Distillates Stocks |  | -0.700M | -3.180M |
-| 55 min | USD | Gasoline Production |  |  | -0.173M |
-| 55 min | USD | Heating Oil Stockpiles |  |  | -0.304M |
-| 55 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 55 min | USD | Gasoline Inventories |  | -1.000M | 2.348M |
+| 18:00 | USD | EIA Refinery Crude Runs (WoW) | 0.205M |  | -0.048M |
+| 18:00 | USD | Crude Oil Imports | 0.995M |  | -1.131M |
+| 18:00 | USD | Distillate Fuel Production | 0.178M |  | -0.135M |
+| 18:00 | USD | EIA Weekly Distillates Stocks | -1.694M | -0.700M | -3.180M |
+| 18:00 | USD | Gasoline Production | 0.051M |  | -0.173M |
+| 18:00 | USD | Heating Oil Stockpiles | -0.062M |  | -0.304M |
+| 18:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.7% |  | -0.6% |
+| 18:00 | USD | Gasoline Inventories | 1.630M | -1.000M | 2.348M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 5.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 221.8K |
