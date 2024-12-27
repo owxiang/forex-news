@@ -18,8 +18,8 @@
 | 12:00 | BRL | Mid-Month CPI (MoM) (Dec) | 0.34% | 0.45% | 0.62% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 13:00 | BRL | CAGED Net Payroll Jobs (Nov) | 106.63K | 129.50K | 132.71K |
-| 21 min | USD | Wholesale Inventories (MoM) (Nov) |  | 0.1% | 0.2% |
-| 14:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 13:30 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | 0.1% | 0.2% |
+| 24 min | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:30 | USD | Natural Gas Storage |  |  | -125B |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.048M |
 | 16:00 | USD | Crude Oil Imports |  |  | -1.131M |

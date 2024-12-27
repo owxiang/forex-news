@@ -19,10 +19,10 @@
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 6.1% | 6.1% | 6.2% |
 | 13:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) | 106.63K | 129.50K | 132.71K |
-| 21 min | USD | Moderate | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
-| 21 min | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
-| 21 min | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.1% | 0.2% |
-| 14:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 13:30 | USD | Moderate | Goods Trade Balance (Nov) | -102.86B | -101.30B | -98.26B |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) | 0.6% |  | 0.3% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Nov) | -0.2% | 0.1% | 0.2% |
+| 24 min | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | -125B |
 | 16:00 | USD | High | Crude Oil Inventories |  | -0.700M | -0.934M |
 | 16:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.048M |
