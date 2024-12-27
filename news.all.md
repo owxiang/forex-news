@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Nov) | -4.7% |  | -4.3% |
 | 02:00 | JPY | Low | Large Retailers' Sales (MoM) |  |  | -2.3% |
-| 05:00 | JPY | Low | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
+| 53 min | JPY | Low | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Nov) |  |  | 0.2% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  | 2.8% | 3.5% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 1.10% | 1.30% |
