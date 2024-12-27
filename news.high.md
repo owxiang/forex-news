@@ -1,5 +1,5 @@
-## 26 December 2024 - High Impact Forex News
+## 27 December 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 219K | 223K | 220K |
+| 16:00 | USD | Crude Oil Inventories |  | -0.700M | -0.934M |

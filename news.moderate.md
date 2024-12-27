@@ -1,10 +1,21 @@
-## 26 December 2024 - Moderate Impact Forex News
+## 27 December 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | EUR | France Jobseekers Total (Nov) | 2,935.0K |  | 2,891.5K |
-| 13:30 | USD | Continuing Jobless Claims | 1,910K | 1,880K | 1,864K |
-| 18:00 | USD | 7-Year Note Auction | 4.532% |  | 4.183% |
-| 21:30 | USD | Fed's Balance Sheet | 6,886B |  | 6,889B |
-| 24 min | JPY | Tokyo Core CPI (YoY) (Dec) |  | 2.5% | 2.2% |
-| 44 min | JPY | Industrial Production (MoM) (Nov) |  | -3.4% | 2.8% |
+| 12:00 | BRL | Unemployment Rate (Nov) |  | 6.1% | 6.2% |
+| 13:30 | USD | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
+| 13:30 | USD | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
+| 13:30 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  |  | 4.6% |
+| 13:30 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
+| 16:00 | USD | Cushing Crude Oil Inventories |  |  | 0.108M |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 230.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 262.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 36.1K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -39.9K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -61.5K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -20.9K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 6.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -65.9K |
