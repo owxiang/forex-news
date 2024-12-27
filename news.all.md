@@ -14,13 +14,14 @@
 | 11:30 | INR | Low | Deposit Growth | 11.5% |  | 10.7% |
 | 11:30 | INR | Low | FX Reserves, USD | 644.39B |  | 652.87B |
 | 11:30 | INR | Low | Trade Balance (USD) (Q3) | -75.300B |  | -65.100B |
-| 11:30 | BRL | Low | Bank lending (MoM) (Nov) | 1.2% |  | 0.7% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
+| 11:30 | BRL | Low | Bank lending (MoM) (Nov) | 1.2% |  | 0.5% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) | 0.34% | 0.45% | 0.62% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 6.1% | 6.1% | 6.2% |
-| 13:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.1% | 0.2% |
+| 13:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) | 106.63K | 129.50K | 132.71K |
+| 21 min | USD | Moderate | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
+| 21 min | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
+| 21 min | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.1% | 0.2% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | -125B |
 | 16:00 | USD | High | Crude Oil Inventories |  | -0.700M | -0.934M |
@@ -33,7 +34,6 @@
 | 16:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.304M |
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
 | 16:00 | USD | Low | Gasoline Inventories |  | -1.000M | 2.348M |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Nov) |  | 129.50K | 132.71K |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |
