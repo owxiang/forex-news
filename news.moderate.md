@@ -5,8 +5,8 @@
 | 12:00 | BRL | Unemployment Rate (Nov) |  | 6.1% | 6.2% |
 | 13:30 | USD | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
 | 13:30 | USD | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
-| 13:30 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
 | 13:30 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  |  | 4.6% |
+| 13:30 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
 | 16:00 | USD | Cushing Crude Oil Inventories |  |  | 0.108M |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  |  |
