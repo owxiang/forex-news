@@ -4,22 +4,19 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Nov) | -4.7% |  | -4.3% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Nov) | -1.8% | -0.1% | -2.9% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Nov) |  |  | 0.2% |
+| 52 min | NOK | Low | Core Retail Sales (MoM) (Nov) |  |  | 0.2% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  | 2.8% | 3.5% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 1.10% | 1.30% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 10.6% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 652.87B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.7% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.45% | 0.62% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.82% | 4.77% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.45% | 0.62% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) |  | 6.1% | 6.2% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
-| 13:30 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  |  | 4.6% |
-| 13:30 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.1% | 0.2% |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.2% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | -125B |
 | 16:00 | USD | High | Crude Oil Inventories |  | -0.700M | -0.934M |
