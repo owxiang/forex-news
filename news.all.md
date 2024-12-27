@@ -11,8 +11,8 @@
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 652.87B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.7% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.45% | 0.62% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.82% | 4.77% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.45% | 0.62% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) |  | 6.1% | 6.2% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
