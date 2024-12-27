@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Industrial profit YTD (Nov) | -4.7% |  | -4.3% |
-| 26 min | JPY | Large Retailers' Sales (MoM) |  |  | -2.3% |
+| 02:00 | JPY | Large Retailers' Sales (MoM) |  |  | -2.3% |
 | 05:00 | JPY | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Nov) |  |  | 0.2% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Nov) |  | 2.8% | 3.5% |
