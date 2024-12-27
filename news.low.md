@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Industrial profit YTD (Nov) | -4.7% |  | -4.3% |
 | 05:00 | JPY | Housing Starts (YoY) (Nov) | -1.8% | -0.1% | -2.9% |
-| 52 min | NOK | Core Retail Sales (MoM) (Nov) |  |  | 0.2% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Nov) |  | 2.8% | 3.5% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Nov) | 0.3% |  | 0.3% |
+| 54 min | EUR | Spanish Retail Sales (YoY) (Nov) |  | 2.8% | 3.5% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Dec) |  | 1.10% | 1.30% |
 | 11:30 | INR | Bank Loan Growth |  |  | 10.6% |
 | 11:30 | INR | Deposit Growth |  |  | 10.7% |
 | 11:30 | INR | FX Reserves, USD |  |  | 652.87B |
 | 11:30 | BRL | Bank lending (MoM) (Nov) |  |  | 0.7% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) |  | 4.82% | 4.77% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Dec) |  | 0.45% | 0.62% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) |  | 4.82% | 4.77% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Nov) |  | 0.1% | 0.2% |
 | 14:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
 | 15:30 | USD | Natural Gas Storage |  |  | -125B |
