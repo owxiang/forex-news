@@ -6,14 +6,18 @@
 | 05:00 | JPY | Low | Housing Starts (YoY) (Nov) | -1.8% | -0.1% | -2.9% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Nov) | 0.3% |  | 0.3% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) | 1.0% | 2.8% | 3.4% |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 1.10% | 1.30% |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 10.6% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 10.7% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 652.87B |
-| 11:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.7% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.82% | 4.77% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.45% | 0.62% |
-| 12:00 | BRL | Moderate | Unemployment Rate (Nov) |  | 6.1% | 6.2% |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) | 0.94% | 1.10% | 1.30% |
+| 11:30 | INR | Low | Balance of Payments (USD) (Q3) | 18.600B |  | 5.200B |
+| 11:30 | INR | Low | Bank Loan Growth | 11.5% |  | 10.6% |
+| 11:30 | INR | Low | Current Account % of GDP (QoQ) (Q3) | -1.20% |  | -1.10% |
+| 11:30 | INR | Low | Current Account (USD) (Q3) | -11.20B |  | -9.70B |
+| 11:30 | INR | Low | Deposit Growth | 11.5% |  | 10.7% |
+| 11:30 | INR | Low | FX Reserves, USD | 644.39B |  | 652.87B |
+| 11:30 | INR | Low | Trade Balance (USD) (Q3) | -75.300B |  | -65.100B |
+| 11:30 | BRL | Low | Bank lending (MoM) (Nov) | 1.2% |  | 0.7% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) | 0.34% | 0.45% | 0.62% |
+| 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 6.1% | 6.1% | 6.2% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | 0.1% | 0.2% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | BRL | Unemployment Rate (Nov) |  | 6.1% | 6.2% |
+| 12:00 | BRL | Unemployment Rate (Nov) | 6.1% | 6.1% | 6.2% |
 | 13:30 | USD | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
 | 13:30 | USD | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
 | 16:00 | USD | Cushing Crude Oil Inventories |  |  | 0.108M |
