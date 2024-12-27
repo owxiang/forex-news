@@ -5,7 +5,7 @@
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Nov) | -4.7% |  | -4.3% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Nov) | -1.8% | -0.1% | -2.9% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Nov) | 0.3% |  | 0.3% |
-| 54 min | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  | 2.8% | 3.5% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) | 1.0% | 2.8% | 3.4% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 1.10% | 1.30% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 10.6% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.7% |
