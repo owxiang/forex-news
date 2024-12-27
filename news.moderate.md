@@ -8,8 +8,8 @@
 | 13:30 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  |  | 4.6% |
 | 13:30 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
 | 16:00 | USD | Cushing Crude Oil Inventories |  |  | 0.108M |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 230.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 262.0K |

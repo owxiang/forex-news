@@ -3,8 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Nov) | -4.7% |  | -4.3% |
-| 02:00 | JPY | Low | Large Retailers' Sales (MoM) |  |  | -2.3% |
-| 53 min | JPY | Low | Housing Starts (YoY) (Nov) |  | -0.1% | -2.9% |
+| 05:00 | JPY | Low | Housing Starts (YoY) (Nov) | -1.8% | -0.1% | -2.9% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Nov) |  |  | 0.2% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  | 2.8% | 3.5% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 1.10% | 1.30% |
@@ -12,8 +11,8 @@
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 652.87B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.7% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.82% | 4.77% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.45% | 0.62% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.82% | 4.77% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) |  | 6.1% | 6.2% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -101.30B | -98.26B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | 0.1% |
@@ -34,8 +33,8 @@
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
 | 16:00 | USD | Low | Gasoline Inventories |  | -1.000M | 2.348M |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Nov) |  | 129.50K | 132.71K |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 5.9K |
