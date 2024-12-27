@@ -15,8 +15,8 @@
 | 11:30 | INR | FX Reserves, USD | 644.39B |  | 652.87B |
 | 11:30 | INR | Trade Balance (USD) (Q3) | -75.300B |  | -65.100B |
 | 11:30 | BRL | Bank lending (MoM) (Nov) | 1.2% |  | 0.5% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Dec) | 0.34% | 0.45% | 0.62% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 13:00 | BRL | CAGED Net Payroll Jobs (Nov) | 106.63K | 129.50K | 132.71K |
 | 13:30 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | 0.1% | 0.2% |
 | 15:30 | USD | Natural Gas Storage | -93B |  | -125B |

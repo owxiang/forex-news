@@ -15,8 +15,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 644.39B |  | 652.87B |
 | 11:30 | INR | Low | Trade Balance (USD) (Q3) | -75.300B |  | -65.100B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Nov) | 1.2% |  | 0.5% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) | 0.34% | 0.45% | 0.62% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Nov) | 6.1% | 6.1% | 6.2% |
 | 13:00 | BRL | Low | CAGED Net Payroll Jobs (Nov) | 106.63K | 129.50K | 132.71K |
 | 13:30 | USD | Moderate | Goods Trade Balance (Nov) | -102.86B | -101.30B | -98.26B |
