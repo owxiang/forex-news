@@ -15,19 +15,19 @@
 | 11:30 | INR | FX Reserves, USD | 644.39B |  | 652.87B |
 | 11:30 | INR | Trade Balance (USD) (Q3) | -75.300B |  | -65.100B |
 | 11:30 | BRL | Bank lending (MoM) (Nov) | 1.2% |  | 0.5% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Dec) | 0.34% | 0.45% | 0.62% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.71% | 4.82% | 4.77% |
 | 13:00 | BRL | CAGED Net Payroll Jobs (Nov) | 106.63K | 129.50K | 132.71K |
 | 13:30 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | 0.1% | 0.2% |
-| 25 min | USD | Natural Gas Storage |  |  | -125B |
-| 55 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.048M |
-| 55 min | USD | Crude Oil Imports |  |  | -1.131M |
-| 55 min | USD | Distillate Fuel Production |  |  | -0.135M |
-| 55 min | USD | EIA Weekly Distillates Stocks |  | -0.700M | -3.180M |
-| 55 min | USD | Gasoline Production |  |  | -0.173M |
-| 55 min | USD | Heating Oil Stockpiles |  |  | -0.304M |
-| 55 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 55 min | USD | Gasoline Inventories |  | -1.000M | 2.348M |
+| 15:30 | USD | Natural Gas Storage | -93B |  | -125B |
+| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.048M |
+| 16:00 | USD | Crude Oil Imports |  |  | -1.131M |
+| 16:00 | USD | Distillate Fuel Production |  |  | -0.135M |
+| 16:00 | USD | EIA Weekly Distillates Stocks |  | -0.700M | -3.180M |
+| 16:00 | USD | Gasoline Production |  |  | -0.173M |
+| 16:00 | USD | Heating Oil Stockpiles |  |  | -0.304M |
+| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 16:00 | USD | Gasoline Inventories |  | -1.000M | 2.348M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 5.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 221.8K |
