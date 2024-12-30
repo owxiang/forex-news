@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) |  | 49.5 | 49.0 |
+| 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.6 | 49.5 | 49.0 |
 | 08:00 | EUR | Core CPI (YoY) (Dec) |  |  | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
@@ -36,5 +36,5 @@
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -21.8K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -42.5K |
 | 21:00 | MXN | Fiscal Balance (Nov) |  |  | 37.66B |
-| 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
 | 23:00 | KRW | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
+| 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
