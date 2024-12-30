@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | Chicago PMI (Dec) |  | 42.7 | 40.2 |
+| 40 min | USD | Chicago PMI (Dec) |  | 42.7 | 40.2 |
