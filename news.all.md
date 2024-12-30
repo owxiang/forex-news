@@ -3,12 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.6 | 49.5 | 49.0 |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) |  | 101.1 | 101.8 |
-| 08:00 | EUR | Low | Core CPI (YoY) (Dec) |  |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.6% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 2.6% | 2.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
+| 07:04 | INR | Low | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
+| 54 min | CHF | Moderate | KOF Leading Indicators (Dec) |  | 101.1 | 101.8 |
+| 54 min | EUR | Low | Core CPI (YoY) (Dec) |  |  | 2.4% |
+| 54 min | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 54 min | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.6% | 2.4% |
+| 54 min | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
+| 54 min | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 2.6% | 2.4% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) |  |  | 3.5% |
 | 08:30 | HKD | Low | Imports (MoM) (Nov) |  |  | 4.5% |
 | 08:30 | HKD | Low | M3 Money Supply (Nov) |  |  | 3.7% |

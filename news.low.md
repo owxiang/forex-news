@@ -3,9 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.6 | 49.5 | 49.0 |
-| 08:00 | EUR | Core CPI (YoY) (Dec) |  |  | 2.4% |
-| 08:00 | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
+| 07:04 | INR | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
+| 54 min | EUR | Core CPI (YoY) (Dec) |  |  | 2.4% |
+| 54 min | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 54 min | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
 | 08:30 | HKD | Exports (MoM) (Nov) |  |  | 3.5% |
 | 08:30 | HKD | Imports (MoM) (Nov) |  |  | 4.5% |
 | 08:30 | HKD | M3 Money Supply (Nov) |  |  | 3.7% |
