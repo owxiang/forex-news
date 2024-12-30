@@ -6,8 +6,8 @@
 | 07:00 | INR | Low | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) | 99.5 | 101.1 | 102.9 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% |  | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.4% | 0.3% | 0.0% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) | 2.1% |  | 3.5% |
