@@ -12,6 +12,7 @@
 | 08:30 | HKD | Trade Balance (Nov) |  |  | -31.0B |
 | 09:00 | EUR | Spanish Current account (Oct) |  |  | 4.10B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jan) |  |  | 150.0M |
+| 11:00 | BRL | Long Term Interest Rate TJLP |  |  | 7.43% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 62.1% |
 | 11:30 | BRL | Budget Balance (Nov) |  | -83.400B | -74.681B |
