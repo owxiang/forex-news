@@ -5,7 +5,7 @@
 | 08:00 | CHF | KOF Leading Indicators (Dec) | 99.5 | 101.1 | 102.9 |
 | 08:00 | EUR | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 78.9% | 78.6% |
+| 25 min | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 78.9% | 78.6% |
 | 15:00 | USD | Pending Home Sales (MoM) (Nov) |  | 0.9% | 2.0% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 230.0K |
