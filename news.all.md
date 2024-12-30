@@ -6,8 +6,8 @@
 | 07:00 | INR | Low | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) | 99.5 | 101.1 | 102.9 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.4% | 0.3% | 0.0% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) | 2.1% |  | 3.5% |
@@ -16,15 +16,15 @@
 | 09:00 | EUR | Low | Spanish Current account (Oct) | 4.93B |  | 4.10B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) | 250.0M |  | 150.0M |
 | 10:30 | ZAR | Low | Budget Balance (MoM) (Nov) | -4.46B |  | -46.08B |
-| 11:00 | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.43% |
-| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 25 min | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 62.1% |
-| 25 min | BRL | Low | Budget Balance (Nov) |  | -83.400B | -74.681B |
-| 25 min | BRL | Low | Budget Surplus (Nov) |  |  | 36.883B |
-| 25 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 78.9% | 78.6% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) | 61.2% |  | 62.1% |
+| 11:30 | BRL | Low | Budget Balance (Nov) | -99.100B | -83.400B | -74.681B |
+| 11:30 | BRL | Low | Budget Surplus (Nov) | -6.600B |  | 36.883B |
+| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 77.7% | 78.9% | 78.6% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.372% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.770% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.575% |
+| 14:00 | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.43% |
 | 14:45 | USD | High | Chicago PMI (Dec) |  | 42.7 | 40.2 |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 0.9% | 2.0% |
 | 15:00 | USD | Low | Pending Home Sales Index (Nov) |  |  | 77.4 |
@@ -52,5 +52,5 @@
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -42.5K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -65.9K |
 | 21:00 | MXN | Low | Fiscal Balance (Nov) |  |  | 37.66B |
-| 23:00 | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
 | 23:00 | KRW | Low | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
+| 23:00 | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.3% |

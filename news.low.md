@@ -13,14 +13,14 @@
 | 09:00 | EUR | Spanish Current account (Oct) | 4.93B |  | 4.10B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jan) | 250.0M |  | 150.0M |
 | 10:30 | ZAR | Budget Balance (MoM) (Nov) | -4.46B |  | -46.08B |
-| 11:00 | BRL | Long Term Interest Rate TJLP |  |  | 7.43% |
-| 20 min | BRL | BCB Focus Market Readout |  |  |  |
-| 25 min | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 62.1% |
-| 25 min | BRL | Budget Balance (Nov) |  | -83.400B | -74.681B |
-| 25 min | BRL | Budget Surplus (Nov) |  |  | 36.883B |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Nov) | 61.2% |  | 62.1% |
+| 11:30 | BRL | Budget Balance (Nov) | -99.100B | -83.400B | -74.681B |
+| 11:30 | BRL | Budget Surplus (Nov) | -6.600B |  | 36.883B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.770% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.575% |
+| 14:00 | BRL | Long Term Interest Rate TJLP |  |  | 7.43% |
 | 15:00 | USD | Pending Home Sales Index (Nov) |  |  | 77.4 |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -2.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.240% |
@@ -37,5 +37,5 @@
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -21.8K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -42.5K |
 | 21:00 | MXN | Fiscal Balance (Nov) |  |  | 37.66B |
-| 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
 | 23:00 | KRW | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
+| 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
