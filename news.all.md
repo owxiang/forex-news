@@ -27,26 +27,6 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) | 3.4 |  | -2.7 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.230% |  | 4.240% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.135% |  | 4.170% |
-| 24 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |
-| 24 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
-| 24 min | USD | Low | CFTC Copper speculative net positions |  |  | 5.9K |
-| 24 min | USD | Low | CFTC Corn speculative net positions |  |  | 221.8K |
-| 24 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 230.0K |
-| 24 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 262.0K |
-| 24 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 36.1K |
-| 24 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -128.2K |
-| 24 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -39.9K |
-| 24 min | USD | Low | CFTC Silver speculative net positions |  |  | 40.3K |
-| 24 min | USD | Low | CFTC Soybeans speculative net positions |  |  | -109.3K |
-| 24 min | USD | Low | CFTC Wheat speculative net positions |  |  | -79.3K |
-| 24 min | CAD | Low | CFTC CAD speculative net positions |  |  | -182.1K |
-| 24 min | MXN | Low | CFTC MXN speculative net positions |  |  | 14.6K |
-| 24 min | CHF | Low | CFTC CHF speculative net positions |  |  | -21.8K |
-| 24 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -61.5K |
-| 24 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | -20.9K |
-| 24 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 6.0K |
-| 24 min | NZD | Low | CFTC NZD speculative net positions |  |  | -42.5K |
-| 24 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | -65.9K |
-| 54 min | MXN | Low | Fiscal Balance (Nov) |  |  | 37.66B |
+| 20:30 | MXN | Low | Fiscal Balance (Nov) | -110.23B |  | 37.66B |
 | 23:00 | KRW | Low | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
 | 23:00 | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
