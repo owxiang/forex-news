@@ -21,17 +21,17 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Dec) | 3.4 |  | -2.7 |
 | 16:30 | USD | 3-Month Bill Auction | 4.230% |  | 4.240% |
 | 16:30 | USD | 6-Month Bill Auction | 4.135% |  | 4.170% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 5.9K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 221.8K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -128.2K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 40.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -109.3K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -79.3K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -182.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 14.6K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -21.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -42.5K |
-| 21:00 | MXN | Fiscal Balance (Nov) |  |  | 37.66B |
-| 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 5.9K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | 221.8K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -128.2K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 40.3K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -109.3K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -79.3K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -182.1K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 14.6K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -21.8K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -42.5K |
+| 54 min | MXN | Fiscal Balance (Nov) |  |  | 37.66B |
 | 23:00 | KRW | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
+| 23:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
