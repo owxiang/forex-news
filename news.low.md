@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.6 | 49.5 | 49.0 |
-| 07:04 | INR | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
-| 54 min | EUR | Core CPI (YoY) (Dec) |  |  | 2.4% |
-| 54 min | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 54 min | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
-| 08:30 | HKD | Exports (MoM) (Nov) |  |  | 3.5% |
-| 08:30 | HKD | Imports (MoM) (Nov) |  |  | 4.5% |
-| 08:30 | HKD | M3 Money Supply (Nov) |  |  | 3.7% |
-| 08:30 | HKD | Trade Balance (Nov) |  |  | -31.0B |
-| 09:00 | EUR | Spanish Current account (Oct) |  |  | 4.10B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jan) |  |  | 150.0M |
+| 07:00 | INR | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
+| 08:00 | EUR | Core CPI (YoY) (Dec) | 2.6% |  | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Dec) | 0.4% | 0.3% | 0.0% |
+| 22 min | HKD | Exports (MoM) (Nov) |  |  | 3.5% |
+| 22 min | HKD | Imports (MoM) (Nov) |  |  | 4.5% |
+| 22 min | HKD | M3 Money Supply (Nov) |  |  | 3.7% |
+| 22 min | HKD | Trade Balance (Nov) |  |  | -31.0B |
+| 52 min | EUR | Spanish Current account (Oct) |  |  | 4.10B |
+| 52 min | NOK | Central Bank Currency Purchase (Jan) |  |  | 150.0M |
 | 11:00 | BRL | Long Term Interest Rate TJLP |  |  | 7.43% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 62.1% |
