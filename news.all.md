@@ -28,5 +28,5 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.230% |  | 4.240% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.135% |  | 4.170% |
 | 20:30 | MXN | Low | Fiscal Balance (Nov) | -110.23B |  | 37.66B |
-| 54 min | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
-| 54 min | KRW | Low | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
+| 23:00 | KRW | Low | CPI (YoY) (Dec) | 1.9% | 1.7% | 1.5% |
+| 23:00 | KRW | Low | CPI (MoM) (Dec) | 0.4% | 0.2% | -0.3% |
