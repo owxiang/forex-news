@@ -17,9 +17,8 @@
 | 11:30 | BRL | Net Debt-to-GDP ratio (Nov) | 61.2% |  | 62.1% |
 | 11:30 | BRL | Budget Balance (Nov) | -99.100B | -83.400B | -74.681B |
 | 11:30 | BRL | Budget Surplus (Nov) | -6.600B |  | 36.883B |
-| 55 min | USD | Pending Home Sales Index (Nov) |  |  | 77.4 |
-| 55 min | BRL | Long Term Interest Rate TJLP |  |  | 7.43% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -2.7 |
+| 15:00 | USD | Pending Home Sales Index (Nov) | 79.0 |  | 77.3 |
+| 24 min | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -2.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.170% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |

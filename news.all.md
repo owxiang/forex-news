@@ -8,8 +8,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% |  | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.4% | 0.3% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) | 2.1% |  | 3.5% |
 | 08:30 | HKD | Low | Imports (MoM) (Nov) | 5.7% |  | 4.5% |
 | 08:30 | HKD | Low | Trade Balance (Nov) | -43.4B |  | -31.0B |
@@ -21,11 +21,10 @@
 | 11:30 | BRL | Low | Budget Balance (Nov) | -99.100B | -83.400B | -74.681B |
 | 11:30 | BRL | Low | Budget Surplus (Nov) | -6.600B |  | 36.883B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 77.7% | 78.9% | 78.6% |
-| 40 min | USD | High | Chicago PMI (Dec) |  | 42.7 | 40.2 |
-| 55 min | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 0.9% | 2.0% |
-| 55 min | USD | Low | Pending Home Sales Index (Nov) |  |  | 77.4 |
-| 55 min | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.43% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -2.7 |
+| 14:45 | USD | High | Chicago PMI (Dec) | 36.9 | 42.7 | 40.2 |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) | 2.2% | 0.9% | 1.8% |
+| 15:00 | USD | Low | Pending Home Sales Index (Nov) | 79.0 |  | 77.3 |
+| 24 min | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -2.7 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.170% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |

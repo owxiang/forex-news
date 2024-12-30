@@ -6,7 +6,7 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) | 77.7% | 78.9% | 78.6% |
-| 55 min | USD | Pending Home Sales (MoM) (Nov) |  | 0.9% | 2.0% |
+| 15:00 | USD | Pending Home Sales (MoM) (Nov) | 2.2% | 0.9% | 1.8% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 230.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 262.0K |
