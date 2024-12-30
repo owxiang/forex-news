@@ -6,17 +6,16 @@
 | 07:00 | INR | Low | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) | 99.5 | 101.1 | 102.9 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.4% | 0.3% | 0.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.4% | 0.3% | 0.0% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) | 2.1% |  | 3.5% |
 | 08:30 | HKD | Low | Imports (MoM) (Nov) | 5.7% |  | 4.5% |
 | 08:30 | HKD | Low | Trade Balance (Nov) | -43.4B |  | -31.0B |
 | 09:00 | EUR | Low | Spanish Current account (Oct) | 4.93B |  | 4.10B |
-| 09:00 | HKD | Low | M3 Money Supply (Nov) |  |  | 3.7% |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) | 250.0M |  | 150.0M |
-| 11:00 | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.43% |
+| 53 min | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.43% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 62.1% |
 | 11:30 | BRL | Low | Budget Balance (Nov) |  | -83.400B | -74.681B |
