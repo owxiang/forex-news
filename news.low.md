@@ -19,8 +19,8 @@
 | 11:30 | BRL | Budget Surplus (Nov) | -6.600B |  | 36.883B |
 | 15:00 | USD | Pending Home Sales Index (Nov) | 79.0 |  | 77.3 |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Dec) | 3.4 |  | -2.7 |
-| 24 min | USD | 3-Month Bill Auction |  |  | 4.240% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 4.170% |
+| 16:30 | USD | 3-Month Bill Auction | 4.230% |  | 4.240% |
+| 16:30 | USD | 6-Month Bill Auction | 4.135% |  | 4.170% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 5.9K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 221.8K |

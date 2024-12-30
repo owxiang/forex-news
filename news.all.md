@@ -6,10 +6,10 @@
 | 07:00 | INR | Low | Foreign Debt (USD) (Q3) | 711.8B |  | 682.3B |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) | 99.5 | 101.1 | 102.9 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% |  | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.4% | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.4% | 0.3% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.6% | 2.4% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) | 2.1% |  | 3.5% |
 | 08:30 | HKD | Low | Imports (MoM) (Nov) | 5.7% |  | 4.5% |
 | 08:30 | HKD | Low | Trade Balance (Nov) | -43.4B |  | -31.0B |
@@ -25,8 +25,8 @@
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) | 2.2% | 0.9% | 1.8% |
 | 15:00 | USD | Low | Pending Home Sales Index (Nov) | 79.0 |  | 77.3 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) | 3.4 |  | -2.7 |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.170% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.230% |  | 4.240% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.135% |  | 4.170% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 5.9K |
