@@ -10,17 +10,17 @@
 | 08:30 | HKD | Exports (MoM) (Nov) | 2.1% |  | 3.5% |
 | 08:30 | HKD | Imports (MoM) (Nov) | 5.7% |  | 4.5% |
 | 08:30 | HKD | Trade Balance (Nov) | -43.4B |  | -31.0B |
-| 09:00 | EUR | Spanish Current account (Oct) | 4.93B |  | 4.10B |
+| 09:00 | EUR | Spanish Current account (Oct) | 4.93B |  | 3.60B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jan) | 250.0M |  | 150.0M |
 | 10:30 | ZAR | Budget Balance (MoM) (Nov) | -4.46B |  | -46.08B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Net Debt-to-GDP ratio (Nov) | 61.2% |  | 62.1% |
 | 11:30 | BRL | Budget Balance (Nov) | -99.100B | -83.400B | -74.681B |
 | 11:30 | BRL | Budget Surplus (Nov) | -6.600B |  | 36.883B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.770% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.575% |
-| 14:00 | BRL | Long Term Interest Rate TJLP |  |  | 7.43% |
+| 51 min | EUR | French 12-Month BTF Auction |  |  | 2.372% |
+| 51 min | EUR | French 3-Month BTF Auction |  |  | 2.770% |
+| 51 min | EUR | French 6-Month BTF Auction |  |  | 2.575% |
+| 51 min | BRL | Long Term Interest Rate TJLP |  |  | 7.43% |
 | 15:00 | USD | Pending Home Sales Index (Nov) |  |  | 77.4 |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -2.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.240% |

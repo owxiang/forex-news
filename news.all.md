@@ -13,7 +13,7 @@
 | 08:30 | HKD | Low | Exports (MoM) (Nov) | 2.1% |  | 3.5% |
 | 08:30 | HKD | Low | Imports (MoM) (Nov) | 5.7% |  | 4.5% |
 | 08:30 | HKD | Low | Trade Balance (Nov) | -43.4B |  | -31.0B |
-| 09:00 | EUR | Low | Spanish Current account (Oct) | 4.93B |  | 4.10B |
+| 09:00 | EUR | Low | Spanish Current account (Oct) | 4.93B |  | 3.60B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jan) | 250.0M |  | 150.0M |
 | 10:30 | ZAR | Low | Budget Balance (MoM) (Nov) | -4.46B |  | -46.08B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -21,10 +21,10 @@
 | 11:30 | BRL | Low | Budget Balance (Nov) | -99.100B | -83.400B | -74.681B |
 | 11:30 | BRL | Low | Budget Surplus (Nov) | -6.600B |  | 36.883B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 77.7% | 78.9% | 78.6% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.372% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.770% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.575% |
-| 14:00 | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.43% |
+| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.372% |
+| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.770% |
+| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.575% |
+| 51 min | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.43% |
 | 14:45 | USD | High | Chicago PMI (Dec) |  | 42.7 | 40.2 |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 0.9% | 2.0% |
 | 15:00 | USD | Low | Pending Home Sales Index (Nov) |  |  | 77.4 |
