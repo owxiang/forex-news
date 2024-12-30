@@ -5,8 +5,8 @@
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) | 49.6 | 49.5 | 49.0 |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Dec) |  | 101.1 | 101.8 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) |  |  | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 2.6% | 2.4% |
 | 08:30 | HKD | Low | Exports (MoM) (Nov) |  |  | 3.5% |
@@ -51,5 +51,5 @@
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -42.5K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -65.9K |
 | 21:00 | MXN | Low | Fiscal Balance (Nov) |  |  | 37.66B |
-| 23:00 | KRW | Low | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
 | 23:00 | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.3% |
+| 23:00 | KRW | Low | CPI (YoY) (Dec) |  | 1.7% | 1.5% |
