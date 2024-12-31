@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | SGD | Bank Lending (Nov) |  |  | 813.1B |
+| 02:00 | SGD | Bank Lending (Nov) |  |  | 813.1B |
 | 04:30 | AUD | Housing Credit (Nov) |  |  | 0.5% |
 | 04:30 | AUD | Private Sector Credit (MoM) (Nov) |  |  | 0.5% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Nov) |  |  | 7.79% |
@@ -16,8 +16,8 @@
 | 12:00 | INR | Infrastructure Output (YoY) (Nov) |  |  | 3.1% |
 | 12:00 | ZAR | Trade Balance (Nov) |  |  | 14.63B |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | USD | House Price Index (MoM) (Oct) |  | 0.5% | 0.7% |
 | 14:00 | USD | House Price Index (YoY) (Oct) |  |  | 4.4% |
+| 14:00 | USD | House Price Index (MoM) (Oct) |  | 0.5% | 0.7% |
 | 14:00 | USD | House Price Index (Oct) |  |  | 430.3 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Dec) |  |  | 10.9 |

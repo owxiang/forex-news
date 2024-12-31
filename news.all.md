@@ -5,7 +5,7 @@
 | 01:30 | CNY | Moderate | Chinese Composite PMI (Dec) | 52.2 |  | 50.8 |
 | 01:30 | CNY | High | Manufacturing PMI (Dec) | 50.1 | 50.3 | 50.3 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Dec) | 52.2 | 50.2 | 50.0 |
-| 27 min | SGD | Low | Bank Lending (Nov) |  |  | 813.1B |
+| 02:00 | SGD | Low | Bank Lending (Nov) |  |  | 813.1B |
 | 04:30 | AUD | Low | Housing Credit (Nov) |  |  | 0.5% |
 | 04:30 | AUD | Low | Private Sector Credit (MoM) (Nov) |  |  | 0.5% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.79% |
@@ -19,8 +19,8 @@
 | 12:00 | INR | Low | Infrastructure Output (YoY) (Nov) |  |  | 3.1% |
 | 12:00 | ZAR | Low | Trade Balance (Nov) |  |  | 14.63B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.7% |
 | 14:00 | USD | Low | House Price Index (YoY) (Oct) |  |  | 4.4% |
+| 14:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.7% |
 | 14:00 | USD | Low | House Price Index (Oct) |  |  | 430.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
