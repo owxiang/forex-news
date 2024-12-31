@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Chinese Composite PMI (Dec) |  |  | 50.8 |
-| 01:30 | CNY | Non-Manufacturing PMI (Dec) |  | 50.2 | 50.0 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 4.1% | 4.6% |
+| 01:30 | CNY | Chinese Composite PMI (Dec) | 52.2 |  | 50.8 |
+| 01:30 | CNY | Non-Manufacturing PMI (Dec) | 52.2 | 50.2 | 50.0 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 4.1% | 4.6% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 230.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 262.0K |
