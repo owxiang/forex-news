@@ -15,4 +15,4 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | -20.9K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | 6.0K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | -65.9K |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.700M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.200M |

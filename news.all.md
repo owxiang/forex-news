@@ -5,9 +5,9 @@
 | 01:30 | CNY | Moderate | Chinese Composite PMI (Dec) | 52.2 |  | 50.8 |
 | 01:30 | CNY | High | Manufacturing PMI (Dec) | 50.1 | 50.3 | 50.3 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Dec) | 52.2 | 50.2 | 50.0 |
-| 54 min | SGD | Low | Bank Lending (Nov) |  |  | 813.1B |
-| 54 min | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.79% |
-| 54 min | ZAR | Low | Private Sector Credit (Nov) |  |  | 4.26% |
+| 05:00 | SGD | Low | Bank Lending (Nov) | 819.4B |  | 813.1B |
+| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) | 7.77% |  | 7.79% |
+| 06:00 | ZAR | Low | Private Sector Credit (Nov) | 4.16% |  | 4.26% |
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 810.3B |
 | 08:30 | HKD | Low | M3 Money Supply (Nov) |  |  | 3.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 7,508.24B |
@@ -45,4 +45,4 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 6.0K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -42.5K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -65.9K |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.700M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.200M |
