@@ -19,8 +19,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Oct) | 0.4% | 0.5% | 0.7% |
 | 14:00 | USD | Low | House Price Index (Oct) | 432.3 |  | 430.6 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% | 0.2% | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.2% |  | -0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 4.2% | 4.1% | 4.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | -0.2% |  | -0.3% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Dec) | 13.8 |  | 10.9 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Dec) | 9.6 |  | 9.8 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.200M |
