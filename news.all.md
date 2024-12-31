@@ -23,4 +23,4 @@
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 4.2% | 4.1% | 4.6% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Dec) | 13.8 |  | 10.9 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Dec) | 9.6 |  | 9.8 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.200M |
+| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | -3.200M |
