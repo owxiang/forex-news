@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 51 min | SGD | Bank Lending (Nov) |  |  | 813.1B |
-| 04:30 | AUD | Housing Credit (Nov) |  |  | 0.5% |
-| 04:30 | AUD | Private Sector Credit (MoM) (Nov) |  |  | 0.5% |
+| 04:00 | SGD | Bank Lending (Nov) |  |  | 813.1B |
+| 23 min | AUD | Housing Credit (Nov) |  |  | 0.5% |
+| 23 min | AUD | Private Sector Credit (MoM) (Nov) |  |  | 0.5% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Nov) |  |  | 7.79% |
 | 06:00 | ZAR | Private Sector Credit (Nov) |  |  | 4.26% |
 | 08:00 | CHF | Official Reserves Assets (Nov) |  |  | 810.3B |
