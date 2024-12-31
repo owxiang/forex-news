@@ -11,12 +11,12 @@
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) | 815.5B |  | 810.3B |
 | 08:30 | HKD | Low | M3 Money Supply (Nov) | 2.4% |  | 3.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Nov) | 8,465.94B |  | 7,508.24B |
-| 25 min | INR | Low | Infrastructure Output (YoY) (Nov) |  |  | 3.1% |
-| 25 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 55 min | ZAR | Low | Trade Balance (Nov) |  |  | 14.63B |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Nov) | 4.3% |  | 3.7% |
+| 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 12:00 | ZAR | Low | Trade Balance (Nov) | 34.70B |  | 14.13B |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.7% |
 | 14:00 | USD | Low | House Price Index (YoY) (Oct) |  |  | 4.4% |
+| 14:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.7% |
 | 14:00 | USD | Low | House Price Index (Oct) |  |  | 430.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | -0.4% |
