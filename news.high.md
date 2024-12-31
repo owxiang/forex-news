@@ -1,5 +1,5 @@
-## 30 December 2024 - High Impact Forex News
+## 31 December 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | Chicago PMI (Dec) | 36.9 | 42.7 | 40.2 |
+| 01:30 | CNY | Manufacturing PMI (Dec) |  | 50.3 | 50.3 |
