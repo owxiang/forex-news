@@ -12,9 +12,9 @@
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | ZAR | Trade Balance (Nov) | 34.70B |  | 14.13B |
 | 13:55 | USD | Redbook (YoY) | 7.1% |  | 5.9% |
-| 14:00 | USD | House Price Index (YoY) (Oct) | 4.5% |  | 4.5% |
 | 14:00 | USD | House Price Index (MoM) (Oct) | 0.4% | 0.5% | 0.7% |
+| 14:00 | USD | House Price Index (YoY) (Oct) | 4.5% |  | 4.5% |
 | 14:00 | USD | House Price Index (Oct) | 432.3 |  | 430.6 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% | 0.2% | 0.2% |
-| 15:30 | USD | Dallas Fed Services Revenues (Dec) |  |  | 10.9 |
-| 15:30 | USD | Texas Services Sector Outlook (Dec) |  |  | 9.8 |
+| 25 min | USD | Dallas Fed Services Revenues (Dec) |  |  | 10.9 |
+| 25 min | USD | Texas Services Sector Outlook (Dec) |  |  | 9.8 |
