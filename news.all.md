@@ -8,8 +8,8 @@
 | 05:00 | SGD | Low | Bank Lending (Nov) | 819.4B |  | 813.1B |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) | 7.77% |  | 7.79% |
 | 06:00 | ZAR | Low | Private Sector Credit (Nov) | 4.16% |  | 4.26% |
-| 54 min | CHF | Low | Official Reserves Assets (Nov) |  |  | 810.3B |
-| 08:30 | HKD | Low | M3 Money Supply (Nov) |  |  | 3.7% |
+| 08:00 | CHF | Low | Official Reserves Assets (Nov) | 815.5B |  | 810.3B |
+| 22 min | HKD | Low | M3 Money Supply (Nov) |  |  | 3.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 7,508.24B |
 | 11:30 | INR | Low | Current Account % of GDP (QoQ) |  |  | -1.10% |
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
