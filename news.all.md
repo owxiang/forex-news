@@ -5,11 +5,9 @@
 | 01:30 | CNY | Moderate | Chinese Composite PMI (Dec) | 52.2 |  | 50.8 |
 | 01:30 | CNY | High | Manufacturing PMI (Dec) | 50.1 | 50.3 | 50.3 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Dec) | 52.2 | 50.2 | 50.0 |
-| 04:00 | SGD | Low | Bank Lending (Nov) |  |  | 813.1B |
-| 23 min | AUD | Low | Housing Credit (Nov) |  |  | 0.5% |
-| 23 min | AUD | Low | Private Sector Credit (MoM) (Nov) |  |  | 0.5% |
-| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.79% |
-| 06:00 | ZAR | Low | Private Sector Credit (Nov) |  |  | 4.26% |
+| 54 min | SGD | Low | Bank Lending (Nov) |  |  | 813.1B |
+| 54 min | ZAR | Low | M3 Money Supply (YoY) (Nov) |  |  | 7.79% |
+| 54 min | ZAR | Low | Private Sector Credit (Nov) |  |  | 4.26% |
 | 08:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 810.3B |
 | 08:30 | HKD | Low | M3 Money Supply (Nov) |  |  | 3.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 7,508.24B |
