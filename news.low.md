@@ -1,20 +1,10 @@
-## 31 December 2024 - Low Impact Forex News
+## 01 January 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Bank Lending (Nov) | 819.4B |  | 813.1B |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Nov) | 7.77% |  | 7.79% |
-| 06:00 | ZAR | Private Sector Credit (Nov) | 4.16% |  | 4.26% |
-| 08:00 | CHF | Official Reserves Assets (Nov) | 815.5B |  | 810.3B |
-| 08:30 | HKD | M3 Money Supply (Nov) | 2.4% |  | 3.7% |
-| 10:00 | INR | Federal Fiscal Deficit (Nov) | 8,465.94B |  | 7,508.24B |
-| 11:30 | INR | Infrastructure Output (YoY) (Nov) | 4.3% |  | 3.7% |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:00 | ZAR | Trade Balance (Nov) | 34.70B |  | 14.13B |
-| 13:55 | USD | Redbook (YoY) | 7.1% |  | 5.9% |
-| 14:00 | USD | House Price Index (YoY) (Oct) | 4.5% |  | 4.5% |
-| 14:00 | USD | House Price Index (MoM) (Oct) | 0.4% | 0.5% | 0.7% |
-| 14:00 | USD | House Price Index (Oct) | 432.3 |  | 430.6 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.3% | 0.2% | 0.2% |
-| 15:30 | USD | Dallas Fed Services Revenues (Dec) | 13.8 |  | 10.9 |
-| 15:30 | USD | Texas Services Sector Outlook (Dec) | 9.6 |  | 9.8 |
+| 00:00 | KRW | Exports (YoY) (Dec) | 6.6% | 4.0% | 1.4% |
+| 00:00 | KRW | Imports (YoY) (Dec) | 3.3% | 4.6% | -2.4% |
+| 00:00 | KRW | Trade Balance (Dec) | 6.49B | 4.21B | 5.59B |
+| 21:00 | KRW | PPI (YoY) (Dec) |  |  | 1.4% |
+| 21:00 | KRW | PPI (MoM) (Dec) |  |  | 0.1% |
+| 22:00 | AUD | Judo Bank Australia Manufacturing PMI (Dec) |  | 48.2 | 49.4 |
