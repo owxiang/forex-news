@@ -23,9 +23,10 @@
 | 12:00 | USD | MBA Purchase Index | 136.7 |  | 157.1 |
 | 12:00 | USD | Mortgage Market Index | 174.9 |  | 224.0 |
 | 12:00 | USD | Mortgage Refinance Index | 395.1 |  | 617.5 |
-| 50 min | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 52.3 |
-| 50 min | SGD | S&P Global Singapore PMI (Dec) |  |  | 51.0 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 226.50K |
+| 12:00 | EUR | Car Registration (YoY) (Dec) | 28.80% |  | 6.40% |
+| 13:00 | BRL | S&P Global Manufacturing PMI (Dec) | 50.4 |  | 52.3 |
+| 13:00 | SGD | S&P Global Singapore PMI (Dec) | 51.1 |  | 51.0 |
+| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 226.50K |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Dec) |  | 51.9 | 52.0 |
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Dec) |  |  | 49.90 |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.205M |
@@ -40,7 +41,7 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.265% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -11.640B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | GDP (QoQ) (Q4) |  |  | 0.1% |
 | 23:00 | KRW | GDP (YoY) (Q4) |  |  | 1.5% |
+| 23:00 | KRW | GDP (QoQ) (Q4) |  |  | 0.1% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |

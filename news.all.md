@@ -13,8 +13,8 @@
 | 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) | 4.7% | 3.8% | 3.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) | 53.3 | 53.6 | 53.1 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Nov) | -7.3% |  | -2.9% |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) | 46.2 | 44.9 | 44.5 |
@@ -32,11 +32,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 136.7 |  | 157.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 174.9 |  | 224.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 395.1 |  | 617.5 |
-| 50 min | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 52.3 |
-| 50 min | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 51.0 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,910K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 222K | 219K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.50K |
+| 12:00 | EUR | Low | Car Registration (YoY) (Dec) | 28.80% |  | 6.40% |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) | 50.4 |  | 52.3 |
+| 13:00 | SGD | Low | S&P Global Singapore PMI (Dec) | 51.1 |  | 51.0 |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,910K |
+| 21 min | USD | High | Initial Jobless Claims |  | 222K | 219K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.50K |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Dec) |  | 51.9 | 52.0 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 48.3 | 49.7 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Nov) |  | 0.3% | 0.4% |
@@ -57,7 +58,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  |  | 0.1% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  |  | 0.1% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
