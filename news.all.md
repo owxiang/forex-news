@@ -13,16 +13,16 @@
 | 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) | 4.7% | 3.8% | 3.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) | 53.3 | 53.6 | 53.1 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Nov) | -7.3% |  | -2.9% |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) | 46.2 | 44.9 | 44.5 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 41.9 | 41.9 | 43.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 42.5 | 42.5 | 43.0 |
 | 09:00 | NOK | Low | Manufacturing PMI (Dec) | 50.3 |  | 50.5 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Nov) | 3.8% | 3.5% | 3.4% |
 | 09:00 | EUR | Low | M3 Money Supply (Nov) | 16,681.9B |  | 16,577.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Nov) | 3.8% | 3.5% | 3.4% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 45.1 | 45.2 | 45.2 |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
@@ -57,7 +57,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.265% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.6% | 3.1% | 3.1% |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -5.890B |  | -11.640B |
-| 25 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
-| 25 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |

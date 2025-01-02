@@ -14,8 +14,8 @@
 | 05:30 | AUD | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Nov) | -7.3% |  | -2.9% |
 | 09:00 | NOK | Manufacturing PMI (Dec) | 50.3 |  | 50.5 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Nov) | 3.8% | 3.5% | 3.4% |
 | 09:00 | EUR | M3 Money Supply (Nov) | 16,681.9B |  | 16,577.4B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Nov) | 3.8% | 3.5% | 3.4% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
 | 11:00 | EUR | Car Registration (MoM) (Dec) | 26.40% |  | -0.20% |
@@ -41,6 +41,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.265% |  | 4.260% |
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.265% |
 | 17:30 | BRL | Foreign Exchange Flows | -5.890B |  | -11.640B |
-| 25 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
