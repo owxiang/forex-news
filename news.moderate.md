@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:45 | CNY | Caixin Manufacturing PMI (Dec) |  | 51.6 | 51.5 |
+| 01:45 | CNY | Caixin Manufacturing PMI (Dec) | 50.5 | 51.6 | 51.5 |
 | 07:00 | GBP | Nationwide HPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Dec) |  | 0.1% | 1.2% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Dec) |  | 53.6 | 53.1 |
