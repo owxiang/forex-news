@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.1% | 2.0% | 3.2% |
 | 00:00 | SGD | Low | GDP (YoY) (Q4) | 4.3% | 3.8% | 5.4% |
+| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.1% | 2.0% | 3.2% |
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 49.0 |  | 50.6 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
@@ -27,8 +27,8 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) | 47.0 | 47.3 | 48.0 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Dec) | 28.80% |  | 6.40% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Dec) | 26.40% |  | -0.20% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Dec) | 28.80% |  | 6.40% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 6.75% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -12.6% |  | -0.7% |
 | 12:00 | USD | Low | MBA Purchase Index | 136.7 |  | 157.1 |
@@ -53,13 +53,13 @@
 | 16:00 | USD | Low | Heating Oil Stockpiles | -0.416M |  | -0.062M |
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 0.7% |
 | 16:00 | USD | Low | Gasoline Inventories | 7.717M | 0.700M | 1.630M |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.260% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.265% |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -11.640B |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.265% |  | 4.260% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.265% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.6% | 3.1% | 3.1% |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -11.640B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  |  | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
