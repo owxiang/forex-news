@@ -8,17 +8,17 @@
 | 00:30 | SGD | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
 | 04:00 | IDR | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 04:00 | IDR | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
+| 04:00 | IDR | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Commodity Prices (YoY) (Dec) | -10.7% |  | -11.8% |
-| 08:30 | HKD | Retail Sales (YoY) (Nov) |  |  | -2.9% |
-| 09:00 | NOK | Manufacturing PMI (Dec) |  |  | 50.7 |
-| 09:00 | EUR | M3 Money Supply (Nov) |  |  | 16,577.4B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Nov) |  | 3.5% | 3.4% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Nov) |  |  | 1.2% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Nov) |  | 0.9% | 0.8% |
-| 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 52.8 |
+| 22 min | HKD | Retail Sales (YoY) (Nov) |  |  | -2.9% |
+| 52 min | NOK | Manufacturing PMI (Dec) |  |  | 50.7 |
+| 52 min | EUR | M3 Money Supply (Nov) |  |  | 16,577.4B |
+| 52 min | EUR | M3 Money Supply (YoY) (Nov) |  | 3.5% | 3.4% |
+| 52 min | EUR | Loans to Non Financial Corporations (Nov) |  |  | 1.2% |
+| 52 min | EUR | Private Sector Loans (YoY) (Nov) |  | 0.9% | 0.8% |
+| 52 min | ZAR | Manufacturing PMI (Dec) |  |  | 52.8 |
 | 11:00 | EUR | Car Registration (YoY) (Dec) |  |  | 6.40% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.75% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.7% |
