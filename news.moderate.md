@@ -10,9 +10,9 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Dec) | 41.9 | 41.9 | 43.1 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Dec) | 42.5 | 42.5 | 43.0 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) | 45.1 | 45.2 | 45.2 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Dec) | 47.0 | 47.3 | 48.0 |
-| 21 min | USD | Continuing Jobless Claims |  | 1,890K | 1,910K |
-| 15:00 | USD | Construction Spending (MoM) (Nov) |  | 0.3% | 0.4% |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Dec) | 47.0 | 47.3 | 48.0 |
+| 13:30 | USD | Continuing Jobless Claims | 1,844K | 1,890K | 1,896K |
+| 54 min | USD | Construction Spending (MoM) (Nov) |  | 0.3% | 0.4% |
 | 16:00 | USD | Cushing Crude Oil Inventories |  |  | -0.320M |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,886B |
