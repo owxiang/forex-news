@@ -9,12 +9,12 @@
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) | 50.5 | 51.6 | 51.5 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
 | 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
+| 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Dec) | -10.7% |  | -11.8% |
-| 52 min | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.1% | 1.2% |
-| 52 min | GBP | Moderate | Nationwide HPI (YoY) (Dec) |  | 3.8% | 3.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) | 4.7% | 3.8% | 3.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 53.6 | 53.1 |
 | 08:30 | CHF | Moderate | procure.ch PMI |  | 48.4 | 48.5 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Nov) |  |  | -2.9% |
