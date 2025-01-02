@@ -9,8 +9,8 @@
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) | 50.5 | 51.6 | 51.5 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
+| 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
@@ -57,9 +57,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.265% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.6% | 3.1% | 3.1% |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -5.890B |  | -11.640B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  |  | 0.1% |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
+| 25 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
+| 25 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |

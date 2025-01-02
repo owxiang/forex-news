@@ -8,8 +8,8 @@
 | 00:30 | SGD | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
 | 04:00 | IDR | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 04:00 | IDR | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
+| 04:00 | IDR | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Nov) | -7.3% |  | -2.9% |
@@ -41,8 +41,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.265% |  | 4.260% |
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.265% |
 | 17:30 | BRL | Foreign Exchange Flows | -5.890B |  | -11.640B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | GDP (QoQ) (Q4) |  |  | 0.1% |
-| 23:00 | KRW | GDP (YoY) (Q4) |  |  | 1.5% |
+| 25 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
