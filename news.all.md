@@ -9,8 +9,8 @@
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) | 50.5 | 51.6 | 51.5 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
+| 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
@@ -27,12 +27,12 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) | 47.0 | 47.3 | 48.0 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 6.40% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.7% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 157.1 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 224.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 617.5 |
+| 55 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
+| 55 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.7% |
+| 55 min | USD | Low | MBA Purchase Index |  |  | 157.1 |
+| 55 min | USD | Low | Mortgage Market Index |  |  | 224.0 |
+| 55 min | USD | Low | Mortgage Refinance Index |  |  | 617.5 |
+| 55 min | EUR | Low | Car Registration (YoY) (Dec) |  |  | 6.40% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 52.3 |
 | 13:00 | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 51.0 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,910K |
@@ -47,11 +47,11 @@
 | 16:00 | USD | Low | Crude Oil Imports |  |  | 0.995M |
 | 16:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.320M |
 | 16:00 | USD | Low | Distillate Fuel Production |  |  | 0.178M |
-| 16:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.694M |
+| 16:00 | USD | Low | EIA Weekly Distillates Stocks |  | -0.100M | -1.694M |
 | 16:00 | USD | Low | Gasoline Production |  |  | 0.051M |
 | 16:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.062M |
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
-| 16:00 | USD | Low | Gasoline Inventories |  |  | 1.630M |
+| 16:00 | USD | Low | Gasoline Inventories |  | 0.700M | 1.630M |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.260% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.265% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -11.640B |
