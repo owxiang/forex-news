@@ -8,8 +8,8 @@
 | 00:30 | SGD | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
 | 04:00 | IDR | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
 | 04:00 | IDR | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
+| 04:00 | IDR | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Nov) | -7.3% |  | -2.9% |
