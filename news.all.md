@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.1% | 2.0% | 3.2% |
 | 00:00 | SGD | Low | GDP (YoY) (Q4) | 4.3% | 3.8% | 5.4% |
+| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.1% | 2.0% | 3.2% |
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 49.0 |  | 50.6 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) | 50.5 | 51.6 | 51.5 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
+| 04:00 | IDR | Low | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
@@ -27,8 +27,8 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Dec) | 47.0 | 47.3 | 48.0 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Dec) | 28.80% |  | 6.40% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Dec) | 26.40% |  | -0.20% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Dec) | 28.80% |  | 6.40% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 6.75% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -12.6% |  | -0.7% |
 | 12:00 | USD | Low | MBA Purchase Index | 136.7 |  | 157.1 |
@@ -59,7 +59,7 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | -5.890B |  | -11.640B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  |  | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
