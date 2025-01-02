@@ -27,15 +27,14 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) | 47.0 | 47.3 | 48.0 |
-| 55 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
-| 55 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.7% |
-| 55 min | USD | Low | MBA Purchase Index |  |  | 157.1 |
-| 55 min | USD | Low | Mortgage Market Index |  |  | 224.0 |
-| 55 min | USD | Low | Mortgage Refinance Index |  |  | 617.5 |
-| 55 min | EUR | Low | Car Registration (YoY) (Dec) |  |  | 6.40% |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 52.3 |
-| 13:00 | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 51.0 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,910K |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 6.75% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -12.6% |  | -0.7% |
+| 12:00 | USD | Low | MBA Purchase Index | 136.7 |  | 157.1 |
+| 12:00 | USD | Low | Mortgage Market Index | 174.9 |  | 224.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 395.1 |  | 617.5 |
+| 50 min | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 52.3 |
+| 50 min | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 51.0 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,910K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 222K | 219K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.50K |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Dec) |  | 51.9 | 52.0 |
@@ -58,7 +57,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  |  | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
