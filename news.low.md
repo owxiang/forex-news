@@ -11,7 +11,7 @@
 | 04:00 | IDR | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
 | 04:00 | IDR | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
 | 05:00 | INR | HSBC India Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
-| 24 min | AUD | Commodity Prices (YoY) (Dec) |  |  | -11.8% |
+| 05:30 | AUD | Commodity Prices (YoY) (Dec) | -10.7% |  | -11.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Nov) |  |  | -2.9% |
 | 09:00 | NOK | Manufacturing PMI (Dec) |  |  | 50.7 |
 | 09:00 | EUR | M3 Money Supply (Nov) |  |  | 16,577.4B |
