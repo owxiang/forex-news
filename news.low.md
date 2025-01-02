@@ -14,8 +14,8 @@
 | 05:30 | AUD | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Nov) | -7.3% |  | -2.9% |
 | 09:00 | NOK | Manufacturing PMI (Dec) | 50.3 |  | 50.5 |
-| 09:00 | EUR | M3 Money Supply (Nov) | 16,681.9B |  | 16,577.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Nov) | 3.8% | 3.5% | 3.4% |
+| 09:00 | EUR | M3 Money Supply (Nov) | 16,681.9B |  | 16,577.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
 | 11:00 | EUR | Car Registration (MoM) (Dec) | 26.40% |  | -0.20% |
@@ -28,16 +28,16 @@
 | 13:00 | BRL | S&P Global Manufacturing PMI (Dec) | 50.4 |  | 52.3 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Dec) | 51.1 |  | 51.0 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 223.25K |  | 226.75K |
-| 24 min | CAD | S&P Global Manufacturing PMI (Dec) |  | 51.9 | 52.0 |
-| 54 min | MXN | S&P Global Manufacturing PMI (Dec) |  |  | 49.90 |
-| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.205M |
-| 16:00 | USD | Crude Oil Imports |  |  | 0.995M |
-| 16:00 | USD | Distillate Fuel Production |  |  | 0.178M |
-| 16:00 | USD | EIA Weekly Distillates Stocks |  | -0.100M | -1.694M |
-| 16:00 | USD | Gasoline Production |  |  | 0.051M |
-| 16:00 | USD | Heating Oil Stockpiles |  |  | -0.062M |
-| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
-| 16:00 | USD | Gasoline Inventories |  | 0.700M | 1.630M |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Dec) | 52.2 | 51.9 | 52.0 |
+| 15:00 | MXN | S&P Global Manufacturing PMI (Dec) | 49.80 |  | 49.90 |
+| 54 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.205M |
+| 54 min | USD | Crude Oil Imports |  |  | 0.995M |
+| 54 min | USD | Distillate Fuel Production |  |  | 0.178M |
+| 54 min | USD | EIA Weekly Distillates Stocks |  | -0.100M | -1.694M |
+| 54 min | USD | Gasoline Production |  |  | 0.051M |
+| 54 min | USD | Heating Oil Stockpiles |  |  | -0.062M |
+| 54 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
+| 54 min | USD | Gasoline Inventories |  | 0.700M | 1.630M |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.260% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.265% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -11.640B |

@@ -21,8 +21,8 @@
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 41.9 | 41.9 | 43.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 42.5 | 42.5 | 43.0 |
 | 09:00 | NOK | Low | Manufacturing PMI (Dec) | 50.3 |  | 50.5 |
-| 09:00 | EUR | Low | M3 Money Supply (Nov) | 16,681.9B |  | 16,577.4B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Nov) | 3.8% | 3.5% | 3.4% |
+| 09:00 | EUR | Low | M3 Money Supply (Nov) | 16,681.9B |  | 16,577.4B |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 45.1 | 45.2 | 45.2 |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
@@ -39,20 +39,20 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,844K | 1,890K | 1,896K |
 | 13:30 | USD | High | Initial Jobless Claims | 211K | 222K | 220K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 223.25K |  | 226.75K |
-| 24 min | CAD | Low | S&P Global Manufacturing PMI (Dec) |  | 51.9 | 52.0 |
-| 39 min | USD | High | S&P Global Manufacturing PMI (Dec) |  | 48.3 | 49.7 |
-| 54 min | USD | Moderate | Construction Spending (MoM) (Nov) |  | 0.3% | 0.4% |
-| 54 min | MXN | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.90 |
-| 16:00 | USD | High | Crude Oil Inventories |  | -2.400M | -4.237M |
-| 16:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.205M |
-| 16:00 | USD | Low | Crude Oil Imports |  |  | 0.995M |
-| 16:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.320M |
-| 16:00 | USD | Low | Distillate Fuel Production |  |  | 0.178M |
-| 16:00 | USD | Low | EIA Weekly Distillates Stocks |  | -0.100M | -1.694M |
-| 16:00 | USD | Low | Gasoline Production |  |  | 0.051M |
-| 16:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.062M |
-| 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
-| 16:00 | USD | Low | Gasoline Inventories |  | 0.700M | 1.630M |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Dec) | 52.2 | 51.9 | 52.0 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Dec) | 49.4 | 48.3 | 49.7 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Nov) | 0.0% | 0.3% | 0.4% |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Dec) | 49.80 |  | 49.90 |
+| 54 min | USD | High | Crude Oil Inventories |  | -2.400M | -4.237M |
+| 54 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.205M |
+| 54 min | USD | Low | Crude Oil Imports |  |  | 0.995M |
+| 54 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.320M |
+| 54 min | USD | Low | Distillate Fuel Production |  |  | 0.178M |
+| 54 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.100M | -1.694M |
+| 54 min | USD | Low | Gasoline Production |  |  | 0.051M |
+| 54 min | USD | Low | Heating Oil Stockpiles |  |  | -0.062M |
+| 54 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
+| 54 min | USD | Low | Gasoline Inventories |  | 0.700M | 1.630M |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.260% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.265% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -11.640B |
