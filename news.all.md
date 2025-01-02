@@ -7,14 +7,14 @@
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) |  |  | 50.6 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
 | 00:30 | IDR | Low | Nikkei Manufacturing PMI (Dec) |  |  | 49.6 |
-| 12 min | CNY | Moderate | Caixin Manufacturing PMI (Dec) |  | 51.6 | 51.5 |
+| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) |  | 51.6 | 51.5 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Dec) |  | 2.28% | 2.26% |
-| 04:00 | IDR | Low | Inflation (YoY) (Dec) |  | 1.60% | 1.55% |
 | 04:00 | IDR | Low | Inflation (MoM) (Dec) |  | 0.44% | 0.30% |
+| 04:00 | IDR | Low | Inflation (YoY) (Dec) |  | 1.60% | 1.55% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI (Dec) |  | 57.4 | 56.5 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Dec) |  |  | -11.8% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.1% | 1.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) |  | 3.8% | 3.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.1% | 1.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 53.6 | 53.1 |
 | 08:30 | CHF | Moderate | procure.ch PMI |  | 48.4 | 48.5 |
 | 08:30 | HKD | Low | Retail Sales (YoY) (Nov) |  |  | -2.9% |
@@ -60,7 +60,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.1% | 3.1% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,886B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  |  | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  |  | 1.5% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
