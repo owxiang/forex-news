@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
 | 05:00 | SGD | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
+| 05:00 | SGD | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
 | 08:55 | EUR | German Unemployment (Dec) | 2.869M |  | 2.860M |
 | 08:55 | EUR | German Unemployment n.s.a. (Dec) | 2.807M |  | 2.774M |
 | 09:00 | EUR | Italian Public Deficit (Q3) | 2.3% |  | 3.2% |
