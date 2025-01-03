@@ -1,18 +1,13 @@
-## 02 January 2025 - Moderate Impact Forex News
+## 03 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:45 | CNY | Caixin Manufacturing PMI (Dec) | 50.5 | 51.6 | 51.5 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Dec) | 0.7% | 0.1% | 1.2% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Dec) | 4.7% | 3.8% | 3.7% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Dec) | 53.3 | 53.6 | 53.1 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Dec) | 46.2 | 44.9 | 44.5 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Dec) | 41.9 | 41.9 | 43.1 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Dec) | 42.5 | 42.5 | 43.0 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) | 45.1 | 45.2 | 45.2 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Dec) | 47.0 | 47.3 | 48.0 |
-| 13:30 | USD | Continuing Jobless Claims | 1,844K | 1,890K | 1,896K |
-| 15:00 | USD | Construction Spending (MoM) (Nov) | 0.0% | 0.3% | 0.4% |
-| 16:00 | USD | Cushing Crude Oil Inventories | -0.142M |  | -0.320M |
-| 17:00 | USD | Atlanta Fed GDPNow (Q4) | 2.6% | 3.1% | 3.1% |
-| 24 min | USD | Fed's Balance Sheet |  |  | 6,886B |
+| 08:00 | EUR | Spanish Unemployment Change (Dec) |  | -46.5K | -16.0K |
+| 08:30 | CHF | procure.ch PMI |  | 48.4 | 48.5 |
+| 08:55 | EUR | German Unemployment Change (Dec) |  | 15K | 7K |
+| 08:55 | EUR | German Unemployment Rate (Dec) |  | 6.2% | 6.1% |
+| 15:00 | USD | ISM Manufacturing Employment (Dec) |  |  | 48.1 |
+| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.6% | 2.6% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |

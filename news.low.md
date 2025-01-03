@@ -1,46 +1,27 @@
-## 02 January 2025 - Low Impact Forex News
+## 03 January 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | SGD | GDP (YoY) (Q4) | 4.3% | 3.8% | 5.4% |
-| 00:00 | SGD | GDP (QoQ) (Q4) | 0.1% | 2.0% | 3.2% |
-| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Dec) | 49.0 |  | 50.6 |
-| 00:30 | SGD | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
-| 00:30 | IDR | S&P Global Manufacturing PMI (Dec) | 51.2 |  | 49.6 |
-| 04:00 | IDR | Core Inflation (YoY) (Dec) | 2.26% | 2.28% | 2.26% |
-| 04:00 | IDR | Inflation (MoM) (Dec) | 0.44% | 0.44% | 0.30% |
-| 04:00 | IDR | Inflation (YoY) (Dec) | 1.57% | 1.60% | 1.55% |
-| 05:00 | INR | S&P Global Manufacturing PMI (Dec) | 56.4 | 57.4 | 56.5 |
-| 05:30 | AUD | Commodity Prices (YoY) (Dec) | -10.7% |  | -10.8% |
-| 08:30 | HKD | Retail Sales (YoY) (Nov) | -7.3% |  | -2.9% |
-| 09:00 | NOK | Manufacturing PMI (Dec) | 50.3 |  | 50.5 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Nov) | 3.8% | 3.5% | 3.4% |
-| 09:00 | EUR | M3 Money Supply (Nov) | 16,681.9B |  | 16,577.4B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Nov) | 1.0% |  | 1.2% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Nov) | 0.9% | 0.9% | 0.8% |
-| 11:00 | EUR | Car Registration (MoM) (Dec) | 26.40% |  | -0.20% |
-| 11:00 | EUR | Car Registration (YoY) (Dec) | 28.80% |  | 6.40% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.97% |  | 6.75% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -12.6% |  | -0.7% |
-| 12:00 | USD | MBA Purchase Index | 136.7 |  | 157.1 |
-| 12:00 | USD | Mortgage Market Index | 174.9 |  | 224.0 |
-| 12:00 | USD | Mortgage Refinance Index | 395.1 |  | 617.5 |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Dec) | 50.4 |  | 52.3 |
-| 13:00 | SGD | S&P Global Manufacturing PMI (Dec) | 51.1 |  | 51.0 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 223.25K |  | 226.75K |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Dec) | 52.2 | 51.9 | 52.0 |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Dec) | 49.80 |  | 49.90 |
-| 16:00 | USD | EIA Refinery Crude Runs (WoW) | 0.041M |  | 0.205M |
-| 16:00 | USD | Crude Oil Imports | 0.323M |  | 0.995M |
-| 16:00 | USD | Distillate Fuel Production | 0.099M |  | 0.178M |
-| 16:00 | USD | EIA Weekly Distillates Stocks | 6.406M | -0.100M | -1.694M |
-| 16:00 | USD | Gasoline Production | -0.959M |  | 0.051M |
-| 16:00 | USD | Heating Oil Stockpiles | -0.416M |  | -0.062M |
-| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 0.7% |
-| 16:00 | USD | Gasoline Inventories | 7.717M | 0.700M | 1.630M |
-| 16:30 | USD | 4-Week Bill Auction | 4.265% |  | 4.260% |
-| 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.265% |
-| 17:30 | BRL | Foreign Exchange Flows | -5.890B |  | -11.640B |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.218T |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -919.2B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
+| 02:00 | JPY | Foreign Bonds Buying |  |  | -919.2B |
+| 02:00 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
+| 05:00 | SGD | Retail Sales (YoY) (Nov) |  |  | 2.2% |
+| 05:00 | SGD | Retail Sales (MoM) (Nov) |  |  | 0.1% |
+| 08:55 | EUR | German Unemployment (Dec) |  |  | 2.860M |
+| 08:55 | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.774M |
+| 09:00 | EUR | Italian Public Deficit (Q3) |  |  | 3.4% |
+| 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 48.1 |
+| 09:30 | GBP | BoE Consumer Credit (Nov) |  | 1.200B | 1.098B |
+| 09:30 | GBP | M3 Money Supply (Nov) |  |  | 3,076.3B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Nov) |  | 0.1% | -0.1% |
+| 09:30 | GBP | Mortgage Approvals (Nov) |  | 69.00K | 68.30K |
+| 09:30 | GBP | Mortgage Lending (Nov) |  |  | 3.44B |
+| 09:30 | GBP | Net Lending to Individuals (Nov) |  | 4.400B | 4.532B |
+| 09:30 | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
+| 11:30 | INR | FX Reserves, USD |  |  | 644.39B |
+| 12:00 | MXN | Unemployment Rate (Nov) |  | 2.70% | 2.50% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Nov) |  |  | 2.50% |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 50.4 |
+| 15:00 | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
+| 15:30 | USD | Natural Gas Storage |  |  | -93B |
+| 16:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21:00 | KRW | FX Reserves - USD (Dec) |  |  | 415.39B |
