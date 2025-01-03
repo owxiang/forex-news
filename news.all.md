@@ -32,4 +32,4 @@
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 482 |  | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 589 |  | 589 |
-| 54 min | KRW | Low | FX Reserves - USD (Dec) |  |  | 415.39B |
+| 21:00 | KRW | Low | FX Reserves - USD (Dec) |  |  | 415.39B |

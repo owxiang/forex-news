@@ -21,4 +21,4 @@
 | 15:00 | USD | ISM Manufacturing New Orders Index (Dec) | 52.5 |  | 50.4 |
 | 15:30 | USD | Natural Gas Storage | -116B | -127B | -93B |
 | 16:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | KRW | FX Reserves - USD (Dec) |  |  | 415.39B |
+| 21:00 | KRW | FX Reserves - USD (Dec) |  |  | 415.39B |
