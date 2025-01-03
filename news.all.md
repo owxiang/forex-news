@@ -11,17 +11,16 @@
 | 08:55 | EUR | Low | German Unemployment (Dec) | 2.869M |  | 2.860M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Dec) | 2.807M |  | 2.774M |
 | 09:00 | EUR | Low | Italian Public Deficit (Q3) | 2.3% |  | 3.2% |
-| 09:00 | ZAR | Low | Manufacturing PMI (Dec) |  |  | 48.1 |
-| 24 min | GBP | Low | BoE Consumer Credit (Nov) |  | 1.200B | 1.098B |
-| 24 min | GBP | Low | M3 Money Supply (Nov) |  |  | 3,076.3B |
-| 24 min | GBP | Low | M4 Money Supply (MoM) (Nov) |  | 0.1% | -0.1% |
-| 24 min | GBP | Low | Mortgage Approvals (Nov) |  | 69.00K | 68.30K |
-| 24 min | GBP | Low | Mortgage Lending (Nov) |  | 3.20B | 3.44B |
-| 24 min | GBP | Low | Net Lending to Individuals (Nov) |  | 4.400B | 4.532B |
-| 24 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
+| 09:30 | GBP | Low | BoE Consumer Credit (Nov) | 0.878B | 1.200B | 0.995B |
+| 09:30 | GBP | Low | M3 Money Supply (Nov) | 3,077.1B |  | 3,078.0B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Nov) | 0.0% | 0.1% | -0.2% |
+| 09:30 | GBP | Low | Mortgage Approvals (Nov) | 65.72K | 69.00K | 68.13K |
+| 09:30 | GBP | Low | Mortgage Lending (Nov) | 2.47B | 3.20B | 3.47B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Nov) | 3.400B | 4.400B | 4.532B |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 644.39B |
 | 12:00 | MXN | Low | Unemployment Rate (Nov) |  | 2.70% | 2.50% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.50% |
+| 14:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Dec) |  | 48.0 | 48.1 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 50.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Dec) |  | 48.2 | 48.4 |
