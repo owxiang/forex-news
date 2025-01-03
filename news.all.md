@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
-| 02:00 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) |  |  | 2.2% |
+| 27 min | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
+| 27 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Nov) |  |  | 0.1% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) |  |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) |  | -46.5K | -16.0K |
 | 08:30 | CHF | Moderate | procure.ch PMI |  | 48.4 | 48.5 |
 | 08:55 | EUR | Moderate | German Unemployment Change (Dec) |  | 15K | 7K |
