@@ -2,10 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | JPY | Foreign Bonds Buying |  |  | -919.2B |
-| 27 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
-| 05:00 | SGD | Retail Sales (MoM) (Nov) |  |  | 0.1% |
 | 05:00 | SGD | Retail Sales (YoY) (Nov) |  |  | 2.2% |
+| 05:00 | SGD | Retail Sales (MoM) (Nov) |  |  | 0.1% |
 | 08:55 | EUR | German Unemployment (Dec) |  |  | 2.860M |
 | 08:55 | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.774M |
 | 09:00 | EUR | Italian Public Deficit (Q3) |  |  | 3.4% |
