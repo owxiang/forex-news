@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | EUR | Spanish Unemployment Change (Dec) |  | -46.5K | -16.0K |
+| 54 min | EUR | Spanish Unemployment Change (Dec) |  | -46.5K | -16.0K |
 | 08:30 | CHF | procure.ch PMI |  | 48.4 | 48.5 |
 | 08:55 | EUR | German Unemployment Change (Dec) |  | 15K | 7K |
 | 08:55 | EUR | German Unemployment Rate (Dec) |  | 6.2% | 6.1% |

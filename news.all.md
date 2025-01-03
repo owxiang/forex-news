@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) |  | -46.5K | -16.0K |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
+| 54 min | EUR | Moderate | Spanish Unemployment Change (Dec) |  | -46.5K | -16.0K |
 | 08:30 | CHF | Moderate | procure.ch PMI |  | 48.4 | 48.5 |
 | 08:55 | EUR | Moderate | German Unemployment Change (Dec) |  | 15K | 7K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Dec) |  | 6.2% | 6.1% |
