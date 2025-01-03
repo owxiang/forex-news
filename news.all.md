@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) | -25.3K | -46.5K | -16.0K |
 | 08:30 | CHF | Moderate | procure.ch PMI (Dec) | 48.4 | 48.4 | 48.5 |
 | 08:55 | EUR | Moderate | German Unemployment Change (Dec) | 10K | 15K | 7K |
@@ -30,6 +30,6 @@
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.6% | 2.6% |
 | 16:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 482 |  | 483 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 589 |  | 589 |
 | 21:00 | KRW | Low | FX Reserves - USD (Dec) |  |  | 415.39B |

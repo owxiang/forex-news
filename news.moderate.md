@@ -9,5 +9,5 @@
 | 15:00 | USD | ISM Manufacturing Employment (Dec) | 45.3 | 48.0 | 48.1 |
 | 16:00 | USD | Atlanta Fed GDPNow (Q4) | 2.4% | 2.6% | 2.6% |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 482 |  | 483 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 589 |  | 589 |
