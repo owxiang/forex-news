@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) | -25.3K | -46.5K | -16.0K |
-| 22 min | CHF | Moderate | procure.ch PMI |  | 48.4 | 48.5 |
-| 47 min | EUR | Moderate | German Unemployment Change (Dec) |  | 15K | 7K |
-| 47 min | EUR | Moderate | German Unemployment Rate (Dec) |  | 6.2% | 6.1% |
-| 47 min | EUR | Low | German Unemployment (Dec) |  |  | 2.860M |
-| 47 min | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.774M |
-| 52 min | EUR | Low | Italian Public Deficit (Q3) |  |  | 3.4% |
-| 52 min | ZAR | Low | Manufacturing PMI (Dec) |  |  | 48.1 |
-| 09:30 | GBP | Low | BoE Consumer Credit (Nov) |  | 1.200B | 1.098B |
-| 09:30 | GBP | Low | M3 Money Supply (Nov) |  |  | 3,076.3B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Nov) |  | 0.1% | -0.1% |
-| 09:30 | GBP | Low | Mortgage Approvals (Nov) |  | 69.00K | 68.30K |
-| 09:30 | GBP | Low | Mortgage Lending (Nov) |  | 3.20B | 3.44B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Nov) |  | 4.400B | 4.532B |
-| 09:30 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
+| 08:30 | CHF | Moderate | procure.ch PMI (Dec) | 48.4 | 48.4 | 48.5 |
+| 08:55 | EUR | Moderate | German Unemployment Change (Dec) | 10K | 15K | 7K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Dec) | 6.1% | 6.2% | 6.1% |
+| 08:55 | EUR | Low | German Unemployment (Dec) | 2.869M |  | 2.860M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Dec) | 2.807M |  | 2.774M |
+| 09:00 | EUR | Low | Italian Public Deficit (Q3) | 2.3% |  | 3.2% |
+| 09:00 | ZAR | Low | Manufacturing PMI (Dec) |  |  | 48.1 |
+| 24 min | GBP | Low | BoE Consumer Credit (Nov) |  | 1.200B | 1.098B |
+| 24 min | GBP | Low | M3 Money Supply (Nov) |  |  | 3,076.3B |
+| 24 min | GBP | Low | M4 Money Supply (MoM) (Nov) |  | 0.1% | -0.1% |
+| 24 min | GBP | Low | Mortgage Approvals (Nov) |  | 69.00K | 68.30K |
+| 24 min | GBP | Low | Mortgage Lending (Nov) |  | 3.20B | 3.44B |
+| 24 min | GBP | Low | Net Lending to Individuals (Nov) |  | 4.400B | 4.532B |
+| 24 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 644.39B |
 | 12:00 | MXN | Low | Unemployment Rate (Nov) |  | 2.70% | 2.50% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.50% |
