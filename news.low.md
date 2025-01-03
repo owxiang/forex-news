@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
 | 05:00 | SGD | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
+| 05:00 | SGD | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
 | 08:55 | EUR | German Unemployment (Dec) | 2.869M |  | 2.860M |
 | 08:55 | EUR | German Unemployment n.s.a. (Dec) | 2.807M |  | 2.774M |
 | 09:00 | EUR | Italian Public Deficit (Q3) | 2.3% |  | 3.2% |
@@ -18,9 +18,8 @@
 | 11:30 | INR | FX Reserves, USD | 640.28B |  | 644.39B |
 | 12:00 | MXN | Unemployment Rate (Nov) | 2.70% | 2.70% | 2.50% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Nov) | 2.60% |  | 2.50% |
-| 51 min | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 50.4 |
-| 15:00 | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
+| 54 min | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 50.4 |
+| 54 min | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
 | 15:30 | USD | Natural Gas Storage |  | -127B | -93B |
 | 16:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:00 | KRW | FX Reserves - USD (Dec) |  |  | 415.39B |
