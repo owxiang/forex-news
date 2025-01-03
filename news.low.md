@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
 | 05:00 | SGD | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
-| 08:55 | EUR | German Unemployment (Dec) |  |  | 2.860M |
-| 08:55 | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.774M |
-| 09:00 | EUR | Italian Public Deficit (Q3) |  |  | 3.4% |
-| 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 48.1 |
+| 05:00 | SGD | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
+| 47 min | EUR | German Unemployment (Dec) |  |  | 2.860M |
+| 47 min | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.774M |
+| 52 min | EUR | Italian Public Deficit (Q3) |  |  | 3.4% |
+| 52 min | ZAR | Manufacturing PMI (Dec) |  |  | 48.1 |
 | 09:30 | GBP | BoE Consumer Credit (Nov) |  | 1.200B | 1.098B |
 | 09:30 | GBP | M3 Money Supply (Nov) |  |  | 3,076.3B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Nov) |  | 0.1% | -0.1% |

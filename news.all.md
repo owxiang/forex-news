@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Nov) | -0.7% |  | 2.4% |
-| 54 min | EUR | Moderate | Spanish Unemployment Change (Dec) |  | -46.5K | -16.0K |
-| 08:30 | CHF | Moderate | procure.ch PMI |  | 48.4 | 48.5 |
-| 08:55 | EUR | Moderate | German Unemployment Change (Dec) |  | 15K | 7K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Dec) |  | 6.2% | 6.1% |
-| 08:55 | EUR | Low | German Unemployment (Dec) |  |  | 2.860M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.774M |
-| 09:00 | EUR | Low | Italian Public Deficit (Q3) |  |  | 3.4% |
-| 09:00 | ZAR | Low | Manufacturing PMI (Dec) |  |  | 48.1 |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Nov) | -2.8% |  | 0.3% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Dec) | -25.3K | -46.5K | -16.0K |
+| 22 min | CHF | Moderate | procure.ch PMI |  | 48.4 | 48.5 |
+| 47 min | EUR | Moderate | German Unemployment Change (Dec) |  | 15K | 7K |
+| 47 min | EUR | Moderate | German Unemployment Rate (Dec) |  | 6.2% | 6.1% |
+| 47 min | EUR | Low | German Unemployment (Dec) |  |  | 2.860M |
+| 47 min | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.774M |
+| 52 min | EUR | Low | Italian Public Deficit (Q3) |  |  | 3.4% |
+| 52 min | ZAR | Low | Manufacturing PMI (Dec) |  |  | 48.1 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Nov) |  | 1.200B | 1.098B |
 | 09:30 | GBP | Low | M3 Money Supply (Nov) |  |  | 3,076.3B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Nov) |  | 0.1% | -0.1% |
