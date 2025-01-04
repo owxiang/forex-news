@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 25 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 22:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
