@@ -1,6 +1,3 @@
-## 03 January 2025 - High Impact Forex News
+## 04 January 2025 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 15:00 | USD | ISM Manufacturing PMI (Dec) | 49.3 | 48.2 | 48.4 |
-| 15:00 | USD | ISM Manufacturing Prices (Dec) | 52.5 | 51.5 | 50.3 |
+There is no high impact news today.
