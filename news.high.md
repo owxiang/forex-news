@@ -1,3 +1,3 @@
-## 04 January 2025 - High Impact Forex News
+## 05 January 2025 - High Impact Forex News
 
 There is no high impact news today.
