@@ -15,8 +15,8 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Dec) | 49.3 | 48.2 | 46.9 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Dec) | 48.0 | 47.8 | 47.2 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 51.2 | 51.0 | 49.3 |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 49.6 | 49.5 | 48.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 51.6 | 51.4 | 49.5 |
 | 09:25 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
@@ -31,24 +31,23 @@
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) | 47.3 |  | 47.4 |
 | 12:30 | USD | Low | All Car Sales (Dec) | 2.98M |  | 2.98M |
 | 12:30 | USD | Low | All Truck Sales (Dec) | 13.82M |  | 13.67M |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.4% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (Dec) | 0.4% | 0.3% | -0.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.4% | 2.2% |
 | 13:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
+| 13:00 | EUR | Low | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Dec) | 51.5 |  | 53.5 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Dec) | 51.6 |  | 53.6 |
 | 13:15 | CAD | Low | Reserve Assets Total (Dec) | 121.6B |  | 122.6B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.435% |  | 2.372% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.704% |  | 2.770% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.592% |  | 2.575% |
-| 24 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 39 min | USD | Moderate | S&P Global Composite PMI (Dec) |  | 56.6 | 54.9 |
-| 39 min | USD | High | S&P Global Services PMI (Dec) |  | 58.5 | 56.1 |
-| 54 min | USD | Low | Durables Excluding Defense (MoM) (Nov) |  | -0.3% | 0.5% |
-| 54 min | USD | Low | Durables Excluding Transport (MoM) (Nov) |  |  | 0.2% |
-| 54 min | USD | Moderate | Factory Orders (MoM) (Nov) |  | -0.3% | 0.2% |
-| 54 min | USD | Low | Factory orders ex transportation (MoM) (Nov) |  |  | 0.1% |
-| 54 min | USD | Low | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
+| 14:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) | 55.4 | 56.6 | 54.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Dec) | 56.8 | 58.5 | 56.1 |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) | -0.2% |  | 0.2% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | 0.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.135% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.117% |
