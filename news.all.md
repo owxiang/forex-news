@@ -72,4 +72,4 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -8.4K |  | 2.3K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions | -48.3K |  | -46.0K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -69.6K |  | -68.5K |
-| 23:50 | JPY | Low | Monetary Base (YoY) (Dec) |  | -0.2% | -0.1% |
+| 44 min | JPY | Low | Monetary Base (YoY) (Dec) |  | -0.2% | -0.1% |

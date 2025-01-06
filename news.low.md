@@ -47,4 +47,4 @@
 | 20:30 | MXN | CFTC MXN speculative net positions | 20.7K |  | 18.8K |
 | 20:30 | CHF | CFTC CHF speculative net positions | -32.8K |  | -28.4K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -48.3K |  | -46.0K |
-| 23:50 | JPY | Monetary Base (YoY) (Dec) |  | -0.2% | -0.1% |
+| 44 min | JPY | Monetary Base (YoY) (Dec) |  | -0.2% | -0.1% |
