@@ -16,12 +16,12 @@
 | 14:45 | USD | S&P Global Composite PMI (Dec) | 55.4 | 56.6 | 54.9 |
 | 15:00 | USD | Factory Orders (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
 | 18:00 | USD | 3-Year Note Auction | 4.332% |  | 4.117% |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 19.3K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 247.0K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 247.6K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 27.2K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -63.8K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -68.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -20.7K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 2.3K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -68.5K |
+| 25 min | GBP | CFTC GBP speculative net positions |  |  | 19.3K |
+| 25 min | USD | CFTC Crude Oil speculative net positions |  |  | 247.0K |
+| 25 min | USD | CFTC Gold speculative net positions |  |  | 247.6K |
+| 25 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 27.2K |
+| 25 min | USD | CFTC S&P 500 speculative net positions |  |  | -63.8K |
+| 25 min | AUD | CFTC AUD speculative net positions |  |  | -68.2K |
+| 25 min | BRL | CFTC BRL speculative net positions |  |  | -20.7K |
+| 25 min | JPY | CFTC JPY speculative net positions |  |  | 2.3K |
+| 25 min | EUR | CFTC EUR speculative net positions |  |  | -68.5K |
