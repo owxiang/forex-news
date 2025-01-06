@@ -21,8 +21,8 @@
 | 12:00 | MXN | Consumer Confidence n.s.a. (Dec) | 47.3 |  | 47.4 |
 | 12:30 | USD | All Car Sales (Dec) | 2.98M |  | 2.98M |
 | 12:30 | USD | All Truck Sales (Dec) | 13.82M |  | 13.67M |
-| 13:00 | EUR | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
 | 13:00 | EUR | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
+| 13:00 | EUR | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
 | 13:00 | BRL | S&P Global Composite PMI (Dec) | 51.5 |  | 53.5 |
 | 13:00 | BRL | S&P Global Services PMI (Dec) | 51.6 |  | 53.6 |
 | 13:15 | CAD | Reserve Assets Total (Dec) | 121.6B |  | 122.6B |
