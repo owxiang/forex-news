@@ -48,8 +48,8 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) | -0.2% |  | 0.2% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | 0.2% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.230% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.135% |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.230% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.135% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.117% |
 | 18:00 | BRL | Low | Trade Balance (Dec) |  | 3.90B | 7.03B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 19.3K |

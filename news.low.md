@@ -33,8 +33,8 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Nov) | -0.2% |  | 0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | 0.2% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.230% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.135% |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.230% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.135% |
 | 18:00 | BRL | Trade Balance (Dec) |  | 3.90B | 7.03B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 1.8K |
