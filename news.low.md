@@ -9,8 +9,8 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Dec) | 49.7 |  | 47.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Dec) | 47.5 | 46.7 | 45.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Dec) | 48.0 | 47.8 | 47.2 |
-| 09:00 | EUR | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
+| 09:00 | EUR | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
 | 09:25 | GBP | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
 | 09:30 | EUR | Sentix Investor Confidence (Jan) | -17.7 | -17.7 | -17.5 |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 140,786.0 |  | 153,610.0 |
@@ -21,8 +21,8 @@
 | 12:00 | MXN | Consumer Confidence n.s.a. (Dec) | 47.3 |  | 47.4 |
 | 12:30 | USD | All Car Sales (Dec) | 2.98M |  | 2.98M |
 | 12:30 | USD | All Truck Sales (Dec) | 13.82M |  | 13.67M |
-| 13:00 | EUR | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
 | 13:00 | EUR | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
 | 13:00 | BRL | S&P Global Composite PMI (Dec) | 51.5 |  | 53.5 |
 | 13:00 | BRL | S&P Global Services PMI (Dec) | 51.6 |  | 53.6 |
 | 13:15 | CAD | Reserve Assets Total (Dec) | 121.6B |  | 122.6B |
@@ -35,7 +35,7 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | 0.2% |
 | 16:30 | USD | 3-Month Bill Auction | 4.205% |  | 4.230% |
 | 16:30 | USD | 6-Month Bill Auction | 4.110% |  | 4.135% |
-| 54 min | BRL | Trade Balance (Dec) |  | 3.90B | 7.03B |
+| 18:00 | BRL | Trade Balance (Dec) | 4.80B | 3.90B | 7.03B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 1.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 225.7K |
