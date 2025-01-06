@@ -15,7 +15,7 @@
 | 13:00 | EUR | German CPI (YoY) (Dec) | 2.6% | 2.4% | 2.2% |
 | 14:45 | USD | S&P Global Composite PMI (Dec) | 55.4 | 56.6 | 54.9 |
 | 15:00 | USD | Factory Orders (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.117% |
+| 54 min | USD | 3-Year Note Auction |  |  | 4.117% |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 19.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 247.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 247.6K |

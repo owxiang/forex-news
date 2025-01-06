@@ -31,8 +31,8 @@
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) | 47.3 |  | 47.4 |
 | 12:30 | USD | Low | All Car Sales (Dec) | 2.98M |  | 2.98M |
 | 12:30 | USD | Low | All Truck Sales (Dec) | 13.82M |  | 13.67M |
-| 13:00 | EUR | High | German CPI (MoM) (Dec) | 0.4% | 0.3% | -0.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.4% | 2.2% |
+| 13:00 | EUR | High | German CPI (MoM) (Dec) | 0.4% | 0.3% | -0.2% |
 | 13:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
 | 13:00 | EUR | Low | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Dec) | 51.5 |  | 53.5 |
@@ -48,10 +48,10 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) | -0.2% |  | 0.2% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | 0.2% |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.230% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.135% |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.117% |
-| 18:00 | BRL | Low | Trade Balance (Dec) |  | 3.90B | 7.03B |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.205% |  | 4.230% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.110% |  | 4.135% |
+| 54 min | USD | Moderate | 3-Year Note Auction |  |  | 4.117% |
+| 54 min | BRL | Low | Trade Balance (Dec) |  | 3.90B | 7.03B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 19.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 1.8K |
