@@ -4,24 +4,25 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | HKD | S&P Global Manufacturing PMI (Dec) | 51.1 |  | 51.2 |
 | 05:00 | INR | S&P Global Services PMI (Dec) | 59.3 | 60.8 | 58.4 |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 50.9 |
-| 07:30 | CHF | Retail Sales (YoY) (Nov) |  | 1.3% | 1.4% |
+| 8 min | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 50.9 |
+| 23 min | CHF | Retail Sales (YoY) (Nov) |  | 1.3% | 1.4% |
+| 08:30 | HKD | Foreign Reserves (USD) (Dec) |  |  | 425.10B |
 | 08:45 | EUR | HCOB Italy Composite PMI (Dec) |  |  | 47.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Dec) |  | 46.7 | 45.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 47.8 | 47.2 |
 | 09:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.9% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.6% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 1.9% |
-| 09:00 | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.0% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
+| 09:00 | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
 | 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 48.1 |
 | 09:30 | EUR | Sentix Investor Confidence (Jan) |  | -17.7 | -17.5 |
 | 10:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -0.5% |
@@ -29,8 +30,8 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Consumer Confidence (Dec) |  |  | 47.7 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
-| 13:00 | EUR | German HICP (MoM) (Dec) |  |  | -0.7% |
 | 13:00 | EUR | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (Dec) |  |  | -0.7% |
 | 13:00 | BRL | S&P Global Composite PMI (Dec) |  |  | 53.5 |
 | 13:00 | BRL | S&P Global Services PMI (Dec) |  |  | 53.6 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
