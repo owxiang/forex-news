@@ -15,31 +15,21 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Dec) | 49.3 | 48.2 | 46.9 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Dec) | 48.0 | 47.8 | 47.2 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 51.2 | 51.0 | 49.3 |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 49.6 | 49.5 | 48.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 51.6 | 51.4 | 49.5 |
 | 09:25 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) | 50.4 | 50.5 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Dec) | 51.1 | 51.4 | 50.8 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jan) | -17.7 | -17.7 | -17.5 |
-| 10:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -0.5% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Dec) | 6.40% |  | 5.20% |
-| 53 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
-| 53 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
-| 53 min | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.6% |
-| 53 min | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
-| 53 min | EUR | Low | Brandenburg CPI (YoY) (Dec) |  |  | 1.9% |
-| 53 min | EUR | Low | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
-| 53 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) |  |  | 1.9% |
-| 53 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
-| 53 min | EUR | Low | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
-| 53 min | EUR | Low | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Consumer Confidence (Dec) |  |  | 47.7 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -0.5% |
+| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 55 min | MXN | Low | Consumer Confidence (Dec) |  |  | 47.7 |
+| 55 min | MXN | Low | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
 | 13:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.5% | -0.7% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 53.5 |
