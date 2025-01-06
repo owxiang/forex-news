@@ -10,8 +10,8 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Dec) | 51.2 | 51.0 | 49.3 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 49.6 | 49.5 | 48.3 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Dec) | 51.6 | 51.4 | 49.5 |
-| 09:30 | GBP | S&P Global Composite PMI (Dec) |  | 50.5 | 50.5 |
-| 09:30 | GBP | S&P Global Services PMI (Dec) |  | 51.4 | 50.8 |
+| 09:30 | GBP | S&P Global Composite PMI (Dec) | 50.4 | 50.5 | 50.5 |
+| 09:30 | GBP | S&P Global Services PMI (Dec) | 51.1 | 51.4 | 50.8 |
 | 13:00 | EUR | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
 | 14:45 | USD | S&P Global Composite PMI (Dec) |  | 56.6 | 54.9 |
 | 15:00 | USD | Factory Orders (MoM) (Nov) |  | -0.3% | 0.2% |
