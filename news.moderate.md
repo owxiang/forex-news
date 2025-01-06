@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 50.9 | 51.4 | 50.5 |
 | 01:45 | CNY | Caixin Services PMI (Dec) | 52.2 | 51.7 | 51.5 |
-| 08:15 | EUR | HCOB Spain Services PMI (Dec) |  | 54.1 | 53.1 |
-| 08:45 | EUR | HCOB Italy Services PMI (Dec) |  | 50.0 | 49.2 |
-| 08:50 | EUR | HCOB France Services PMI (Dec) |  | 48.2 | 46.9 |
-| 08:55 | EUR | HCOB Germany Services PMI (Dec) |  | 51.0 | 49.3 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) |  | 49.5 | 48.3 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Dec) |  | 51.4 | 49.5 |
+| 7 min | EUR | HCOB Spain Services PMI (Dec) |  | 54.1 | 53.1 |
+| 37 min | EUR | HCOB Italy Services PMI (Dec) |  | 50.0 | 49.2 |
+| 42 min | EUR | HCOB France Services PMI (Dec) |  | 48.2 | 46.9 |
+| 47 min | EUR | HCOB Germany Services PMI (Dec) |  | 51.0 | 49.3 |
+| 52 min | EUR | HCOB Eurozone Composite PMI (Dec) |  | 49.5 | 48.3 |
+| 52 min | EUR | HCOB Eurozone Services PMI (Dec) |  | 51.4 | 49.5 |
 | 09:30 | GBP | S&P Global Composite PMI (Dec) |  | 50.5 | 50.5 |
 | 09:30 | GBP | S&P Global Services PMI (Dec) |  | 51.4 | 50.8 |
 | 13:00 | EUR | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
