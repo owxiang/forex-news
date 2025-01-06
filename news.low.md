@@ -9,25 +9,28 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Dec) | 49.7 |  | 47.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Dec) | 47.5 | 46.7 | 45.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Dec) | 48.0 | 47.8 | 47.2 |
-| 09:00 | EUR | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
+| 09:00 | EUR | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
 | 09:25 | GBP | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
 | 09:30 | EUR | Sentix Investor Confidence (Jan) | -17.7 | -17.7 | -17.5 |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 140,786.0 |  | 153,610.0 |
 | 10:00 | NOK | House Price Index (YoY) (Dec) | 6.40% |  | 5.20% |
-| 11:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -0.5% |
-| 20 min | BRL | BCB Focus Market Readout |  |  |  |
-| 55 min | MXN | Consumer Confidence (Dec) |  |  | 47.7 |
-| 55 min | MXN | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
-| 13:00 | EUR | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
-| 13:00 | EUR | German HICP (MoM) (Dec) |  | 0.5% | -0.7% |
-| 13:00 | BRL | S&P Global Composite PMI (Dec) |  |  | 53.5 |
-| 13:00 | BRL | S&P Global Services PMI (Dec) |  |  | 53.6 |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Consumer Confidence (Dec) |  |  | 47.7 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
+| 12:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -0.5% |
+| 50 min | EUR | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
+| 50 min | EUR | German HICP (MoM) (Dec) |  | 0.5% | -0.7% |
+| 50 min | BRL | S&P Global Composite PMI (Dec) |  |  | 53.5 |
+| 50 min | BRL | S&P Global Services PMI (Dec) |  |  | 53.6 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.770% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.575% |
 | 14:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
 | 14:00 | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
 | 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 15:00 | USD | All Car Sales (Dec) | 2.98M |  | 2.98M |
+| 15:00 | USD | All Truck Sales (Dec) | 13.82M |  | 13.67M |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Nov) |  | -0.3% | -0.3% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Nov) |  |  | -0.1% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Nov) |  |  | 0.1% |

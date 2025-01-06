@@ -15,25 +15,26 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Dec) | 49.3 | 48.2 | 46.9 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Dec) | 48.0 | 47.8 | 47.2 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 51.2 | 51.0 | 49.3 |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 49.6 | 49.5 | 48.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 51.6 | 51.4 | 49.5 |
 | 09:25 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) | 50.4 | 50.5 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Dec) | 51.1 | 51.4 | 50.8 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jan) | -17.7 | -17.7 | -17.5 |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) | 140,786.0 |  | 153,610.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Dec) | 6.40% |  | 5.20% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -0.5% |
-| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 55 min | MXN | Low | Consumer Confidence (Dec) |  |  | 47.7 |
-| 55 min | MXN | Low | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
-| 13:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
-| 13:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.5% | -0.7% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 53.5 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Dec) |  |  | 53.6 |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Consumer Confidence (Dec) |  |  | 47.7 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
+| 12:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -0.5% |
+| 50 min | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
+| 50 min | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
+| 50 min | EUR | Low | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
+| 50 min | EUR | Low | German HICP (MoM) (Dec) |  | 0.5% | -0.7% |
+| 50 min | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 53.5 |
+| 50 min | BRL | Low | S&P Global Services PMI (Dec) |  |  | 53.6 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.372% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.770% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.575% |
@@ -42,6 +43,8 @@
 | 14:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  | 56.6 | 54.9 |
 | 14:45 | USD | High | S&P Global Services PMI (Dec) |  | 58.5 | 56.1 |
+| 15:00 | USD | Low | All Car Sales (Dec) | 2.98M |  | 2.98M |
+| 15:00 | USD | Low | All Truck Sales (Dec) | 13.82M |  | 13.67M |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Nov) |  | -0.3% | -0.3% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) |  |  | -0.1% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Nov) |  | -0.3% | 0.2% |
