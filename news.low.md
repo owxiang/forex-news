@@ -25,14 +25,15 @@
 | 13:00 | EUR | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
 | 13:00 | BRL | S&P Global Composite PMI (Dec) | 51.5 |  | 53.5 |
 | 13:00 | BRL | S&P Global Services PMI (Dec) | 51.6 |  | 53.6 |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.372% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 2.770% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.575% |
-| 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Nov) |  | -0.3% | 0.5% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Nov) |  |  | 0.2% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Nov) |  |  | 0.1% |
-| 15:00 | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
+| 13:15 | CAD | Reserve Assets Total (Dec) | 121.6B |  | 122.6B |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.435% |  | 2.372% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.704% |  | 2.770% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.592% |  | 2.575% |
+| 24 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 54 min | USD | Durables Excluding Defense (MoM) (Nov) |  | -0.3% | 0.5% |
+| 54 min | USD | Durables Excluding Transport (MoM) (Nov) |  |  | 0.2% |
+| 54 min | USD | Factory orders ex transportation (MoM) (Nov) |  |  | 0.1% |
+| 54 min | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.230% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.135% |
 | 18:00 | BRL | Trade Balance (Dec) |  | 3.90B | 7.03B |
@@ -47,5 +48,4 @@
 | 20:30 | MXN | CFTC MXN speculative net positions |  |  | 18.8K |
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -28.4K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -46.0K |
-| 21:00 | KRW | FX Reserves - USD (Dec) |  |  | 415.39B |
 | 23:50 | JPY | Monetary Base (YoY) (Dec) |  | -0.2% | -0.3% |
