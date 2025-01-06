@@ -37,8 +37,8 @@
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
-| 13:00 | EUR | Low | German HICP (MoM) (Dec) |  |  | -0.7% |
 | 13:00 | EUR | Low | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
+| 13:00 | EUR | Low | German HICP (MoM) (Dec) |  |  | -0.7% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 53.5 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Dec) |  |  | 53.6 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.372% |

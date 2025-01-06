@@ -25,8 +25,8 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Consumer Confidence (Dec) |  |  | 47.7 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
-| 13:00 | EUR | German HICP (MoM) (Dec) |  |  | -0.7% |
 | 13:00 | EUR | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (Dec) |  |  | -0.7% |
 | 13:00 | BRL | S&P Global Composite PMI (Dec) |  |  | 53.5 |
 | 13:00 | BRL | S&P Global Services PMI (Dec) |  |  | 53.6 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
