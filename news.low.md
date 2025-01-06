@@ -16,23 +16,21 @@
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 140,786.0 |  | 153,610.0 |
 | 10:00 | NOK | House Price Index (YoY) (Dec) | 6.40% |  | 5.20% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Consumer Confidence (Dec) |  |  | 47.7 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
-| 12:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -0.5% |
-| 50 min | EUR | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
-| 50 min | EUR | German HICP (MoM) (Dec) |  | 0.5% | -0.7% |
-| 50 min | BRL | S&P Global Composite PMI (Dec) |  |  | 53.5 |
-| 50 min | BRL | S&P Global Services PMI (Dec) |  |  | 53.6 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.372% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.770% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.575% |
-| 14:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
-| 14:00 | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
+| 11:40 | EUR | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
+| 12:00 | MXN | Consumer Confidence (Dec) | 47.1 |  | 47.6 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Dec) | 47.3 |  | 47.4 |
+| 12:30 | USD | All Car Sales (Dec) | 2.98M |  | 2.98M |
+| 12:30 | USD | All Truck Sales (Dec) | 13.82M |  | 13.67M |
+| 13:00 | EUR | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
+| 13:00 | BRL | S&P Global Composite PMI (Dec) | 51.5 |  | 53.5 |
+| 13:00 | BRL | S&P Global Services PMI (Dec) | 51.6 |  | 53.6 |
+| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.372% |
+| 50 min | EUR | French 3-Month BTF Auction |  |  | 2.770% |
+| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.575% |
 | 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | All Car Sales (Dec) | 2.98M |  | 2.98M |
-| 15:00 | USD | All Truck Sales (Dec) | 13.82M |  | 13.67M |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Nov) |  | -0.3% | -0.3% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Nov) |  |  | -0.1% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Nov) |  | -0.3% | 0.5% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Nov) |  |  | 0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.230% |
