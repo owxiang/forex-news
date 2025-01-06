@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 3 min | JPY | Moderate | au Jibun Bank Services PMI (Dec) |  | 51.4 | 50.5 |
-| 3 min | HKD | Low | S&P Global Manufacturing PMI (Dec) |  |  | 51.2 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Dec) |  | 51.4 | 51.5 |
+| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 50.9 | 51.4 | 50.5 |
+| 00:30 | HKD | Low | S&P Global Manufacturing PMI (Dec) | 51.1 |  | 51.2 |
+| 11 min | CNY | Moderate | Caixin Services PMI (Dec) |  | 51.4 | 51.5 |
 | 05:00 | INR | Low | S&P Global Services PMI (Dec) |  | 60.8 | 58.4 |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Dec) |  |  | 50.9 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Nov) |  | 1.3% | 1.4% |
@@ -18,8 +18,8 @@
 | 09:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.9% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.6% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) |  |  | -0.3% |
@@ -39,8 +39,8 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Dec) |  |  | 47.7 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) |  |  | 47.4 |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.3% | -0.2% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.4% | 2.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Dec) |  | 2.5% | 2.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (Dec) |  |  | -0.7% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 53.5 |

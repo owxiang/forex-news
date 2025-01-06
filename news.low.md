@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | HKD | S&P Global Manufacturing PMI (Dec) |  |  | 51.2 |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Dec) | 51.1 |  | 51.2 |
 | 05:00 | INR | S&P Global Services PMI (Dec) |  | 60.8 | 58.4 |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 50.9 |
 | 07:30 | CHF | Retail Sales (YoY) (Nov) |  | 1.3% | 1.4% |
@@ -12,8 +12,8 @@
 | 09:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.9% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.6% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.3% |
