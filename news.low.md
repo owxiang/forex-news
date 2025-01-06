@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | HKD | S&P Global Manufacturing PMI (Dec) | 51.1 |  | 51.2 |
-| 05:00 | INR | S&P Global Services PMI (Dec) |  | 60.8 | 58.4 |
+| 53 min | INR | S&P Global Services PMI (Dec) |  | 60.8 | 58.4 |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Dec) |  |  | 50.9 |
 | 07:30 | CHF | Retail Sales (YoY) (Nov) |  | 1.3% | 1.4% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Dec) |  |  | 47.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Dec) |  | 46.7 | 45.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 47.8 | 47.2 |
 | 09:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.9% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.6% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
 | 09:00 | ZAR | Manufacturing PMI (Dec) |  |  | 48.1 |
 | 09:30 | EUR | Sentix Investor Confidence (Jan) |  | -17.7 | -17.5 |
