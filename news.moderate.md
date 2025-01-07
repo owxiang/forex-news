@@ -11,10 +11,10 @@
 | 07:45 | EUR | French CPI (MoM) (Dec) | 0.2% | 0.3% | -0.1% |
 | 07:45 | EUR | French HICP (MoM) (Dec) | 0.2% | 0.4% | -0.1% |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) | 0.34% |  | 1.17% |
-| 09:30 | GBP | S&P Global Construction PMI (Dec) |  | 54.3 | 55.2 |
-| 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (Dec) |  |  | -0.3% |
-| 10:00 | EUR | Unemployment Rate (Nov) |  | 6.3% | 6.3% |
+| 23 min | GBP | S&P Global Construction PMI (Dec) |  | 54.3 | 55.2 |
+| 53 min | EUR | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
+| 53 min | EUR | CPI (MoM) (Dec) |  |  | -0.3% |
+| 53 min | EUR | Unemployment Rate (Nov) |  | 6.3% | 6.3% |
 | 13:30 | USD | Exports (Nov) |  |  | 265.70B |
 | 13:30 | USD | Imports (Nov) |  |  | 339.60B |
 | 13:30 | USD | Trade Balance (Nov) |  | -78.30B | -73.80B |
