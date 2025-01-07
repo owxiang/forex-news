@@ -17,8 +17,8 @@
 | 10:00 | EUR | Unemployment Rate (Nov) |  | 6.3% | 6.3% |
 | 13:30 | USD | Exports (Nov) |  |  | 265.70B |
 | 13:30 | USD | Imports (Nov) |  |  | 339.60B |
-| 13:30 | USD | Trade Balance (Nov) |  | -78.40B | -73.80B |
-| 13:30 | CAD | Trade Balance (Nov) |  | -0.60B | -0.92B |
+| 13:30 | USD | Trade Balance (Nov) |  | -78.30B | -73.80B |
+| 13:30 | CAD | Trade Balance (Nov) |  | -0.80B | -0.92B |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Dec) |  |  | 51.5 |
 | 15:00 | CAD | Ivey PMI (Dec) |  | 55.4 | 52.3 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
