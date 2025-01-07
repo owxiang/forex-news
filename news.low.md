@@ -15,12 +15,13 @@
 | 08:30 | HKD | Foreign Reserves (USD) (Dec) | 421.40B |  | 425.10B |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) | 42.9 |  | 42.7 |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 5.7% | 5.8% | 5.8% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Dec) | 3.2% |  | 2.4% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 371.4B |  | 377.2B |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -12.5B | -11.5B | -14.7B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.367% |  | 2.207% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 2.535% |  | 2.552% |
-| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
@@ -30,9 +31,9 @@
 | 10:15 | GBP | 30-Year Treasury Gilt Auction | 5.198% |  | 4.747% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.180% |  | 1.940% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.87% |  | 1.18% |
-| 55 min | INR | GDP Annual |  |  | 8.2% |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | BRL | Brazilian PPI (MoM) (Nov) |  |  | 0.94% |
+| 11:30 | INR | GDP Annual | 6.4% |  | 8.2% |
+| 50 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 50 min | BRL | Brazilian PPI (MoM) (Nov) | 1.23% |  | 0.97% |
 | 13:30 | CAD | Exports (Nov) |  |  | 64.22B |
 | 13:30 | CAD | Imports (Nov) |  |  | 65.14B |
 | 13:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
