@@ -16,18 +16,18 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) | 42.9 |  | 42.7 |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 5.7% | 5.8% | 5.8% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 371.4B |  | 377.2B |
-| 23 min | GBP | Housing Equity Withdrawal (QoQ) |  | -11.5B | -14.7B |
-| 33 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.207% |
-| 33 min | EUR | Spanish 6-Month Letras Auction |  |  | 2.552% |
-| 53 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.747% |
-| 53 min | EUR | Italian CPI (YoY) (Dec) |  | 1.5% | 1.3% |
-| 53 min | EUR | Italian CPI (MoM) (Dec) |  | 0.3% | -0.1% |
-| 53 min | EUR | Italian HICP (YoY) (Dec) |  | 1.6% | 1.5% |
-| 53 min | EUR | Italian HICP (MoM) (Dec) |  | 0.3% | -0.1% |
-| 53 min | EUR | Core CPI (MoM) (Dec) |  |  | -0.6% |
-| 53 min | EUR | CPI, n.s.a (Dec) |  |  | 126.62 |
-| 53 min | EUR | HICP ex Energy & Food (YoY) (Dec) |  |  | 2.7% |
-| 53 min | EUR | HICP ex Energy and Food (MoM) (Dec) |  |  | -0.4% |
+| 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -12.5B | -11.5B | -14.7B |
+| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.367% |  | 2.207% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction | 2.535% |  | 2.552% |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.747% |
+| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
+| 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
+| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
+| 10:00 | EUR | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
+| 10:00 | EUR | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.8% |  | 2.7% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.4% |  | -0.4% |
 | 11:00 | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) |  |  | 1.18% |
 | 12:00 | INR | GDP Annual |  |  | 8.2% |

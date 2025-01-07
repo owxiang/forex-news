@@ -10,8 +10,8 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 3.3% |  | 4.7% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | -0.2% | 0.8% | 1.2% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 1.1% |  | -1.6% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Dec) | -0.1% | -0.1% | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.6% | 0.6% | 0.7% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Dec) | -0.1% | -0.1% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.2% | 0.3% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.2% | 0.4% | -0.1% |
@@ -25,23 +25,23 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) | 42.9 |  | 42.7 |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) | 5.7% | 5.8% | 5.8% |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) | 371.4B |  | 377.2B |
-| 23 min | GBP | Moderate | S&P Global Construction PMI (Dec) |  | 54.3 | 55.2 |
-| 23 min | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -11.5B | -14.7B |
-| 33 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.207% |
-| 33 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.552% |
-| 53 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.747% |
-| 53 min | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.5% | 1.3% |
-| 53 min | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.3% | -0.1% |
-| 53 min | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.6% | 1.5% |
-| 53 min | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.3% | -0.1% |
-| 53 min | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
-| 53 min | EUR | Low | Core CPI (MoM) (Dec) |  |  | -0.6% |
-| 53 min | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.2% |
-| 53 min | EUR | Moderate | CPI (MoM) (Dec) |  |  | -0.3% |
-| 53 min | EUR | Low | CPI, n.s.a (Dec) |  |  | 126.62 |
-| 53 min | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 2.7% |
-| 53 min | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  |  | -0.4% |
-| 53 min | EUR | Moderate | Unemployment Rate (Nov) |  | 6.3% | 6.3% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Dec) | 53.3 | 54.3 | 55.2 |
+| 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -12.5B | -11.5B | -14.7B |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 2.367% |  | 2.207% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 2.535% |  | 2.552% |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.747% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.4% |  | -0.3% |
+| 10:00 | EUR | Low | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.8% |  | 2.7% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.4% |  | -0.4% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Nov) | 6.3% | 6.3% | 6.3% |
 | 11:00 | EUR | Low | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 1.18% |
 | 12:00 | INR | Low | GDP Annual |  |  | 8.2% |
