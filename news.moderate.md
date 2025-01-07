@@ -22,4 +22,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Dec) | 51.4 | 51.4 | 51.5 |
 | 15:00 | CAD | Ivey PMI (Dec) | 54.7 | 55.4 | 52.3 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) | 2.7% | 2.4% | 2.4% |
-| 25 min | USD | API Weekly Crude Oil Stock |  | -0.250M | -1.442M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.022M | -0.250M | -1.442M |
