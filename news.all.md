@@ -7,8 +7,8 @@
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | -3.6% | -0.9% | 5.2% |
 | 00:30 | AUD | Low | Private House Approvals (Nov) | -1.7% |  | -4.0% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.140% |  | 1.084% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | -0.2% | 0.8% | 1.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 3.3% |  | 4.7% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | -0.2% | 0.8% | 1.2% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 1.1% |  | -1.6% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Dec) | -0.1% | -0.1% | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.6% | 0.6% | 0.7% |
@@ -33,8 +33,8 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.4% |  | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
