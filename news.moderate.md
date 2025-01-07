@@ -15,11 +15,11 @@
 | 10:00 | EUR | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Dec) | 0.4% |  | -0.3% |
 | 10:00 | EUR | Unemployment Rate (Nov) | 6.3% | 6.3% | 6.3% |
-| 13:30 | USD | Exports (Nov) |  |  | 265.70B |
-| 13:30 | USD | Imports (Nov) |  |  | 339.60B |
-| 13:30 | USD | Trade Balance (Nov) |  | -78.30B | -73.80B |
-| 13:30 | CAD | Trade Balance (Nov) |  | -0.80B | -0.92B |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Dec) |  |  | 51.5 |
+| 20 min | USD | Exports (Nov) |  |  | 265.70B |
+| 20 min | USD | Imports (Nov) |  |  | 339.60B |
+| 20 min | USD | Trade Balance (Nov) |  | -78.30B | -73.80B |
+| 20 min | CAD | Trade Balance (Nov) |  | -0.80B | -0.92B |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Dec) |  | 51.4 | 51.5 |
 | 15:00 | CAD | Ivey PMI (Dec) |  | 55.4 | 52.3 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.442M |

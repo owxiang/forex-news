@@ -15,7 +15,6 @@
 | 08:30 | HKD | Foreign Reserves (USD) (Dec) | 421.40B |  | 425.10B |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) | 42.9 |  | 42.7 |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 5.7% | 5.8% | 5.8% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Dec) | 3.2% |  | 2.4% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 371.4B |  | 377.2B |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -12.5B | -11.5B | -14.7B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.367% |  | 2.207% |
@@ -32,18 +31,18 @@
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.180% |  | 1.940% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.87% |  | 1.18% |
 | 11:30 | INR | GDP Annual | 6.4% |  | 8.2% |
-| 50 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 50 min | BRL | Brazilian PPI (MoM) (Nov) | 1.23% |  | 0.97% |
-| 13:30 | CAD | Exports (Nov) |  |  | 64.22B |
-| 13:30 | CAD | Imports (Nov) |  |  | 65.14B |
-| 13:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 13:55 | USD | Redbook (YoY) |  |  | 7.1% |
-| 14:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
-| 14:00 | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
-| 14:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 14:00 | USD | Milk Auctions |  |  | 4,148.0 |
+| 12:00 | EUR | Bavaria CPI (YoY) (Dec) | 3.2% |  | 2.4% |
+| 12:00 | BRL | Brazilian PPI (MoM) (Nov) | 1.23% |  | 0.97% |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 20 min | CAD | Exports (Nov) |  |  | 64.22B |
+| 20 min | CAD | Imports (Nov) |  |  | 65.14B |
+| 20 min | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 45 min | USD | Redbook (YoY) |  |  | 7.1% |
+| 50 min | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
+| 50 min | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
+| 50 min | USD | Milk Auctions |  |  | 4,148.0 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 53.7 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) |  |  | 53.7 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) |  | 54.2 | 53.7 |
 | 15:00 | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
 | 15:00 | CAD | Ivey PMI n.s.a (Dec) |  |  | 49.7 |
 | 23:00 | KRW | Current Account (Nov) |  |  | 9.78B |
