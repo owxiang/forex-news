@@ -7,16 +7,16 @@
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | -3.6% | -0.9% | 5.2% |
 | 00:30 | AUD | Low | Private House Approvals (Nov) | -1.7% |  | -4.0% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.140% |  | 1.084% |
-| 52 min | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  |  | 4.8% |
-| 52 min | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.8% | 1.3% |
-| 52 min | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | -1.6% |
-| 07:30 | CHF | Low | CPI (YoY) (Dec) |  | 0.6% | 0.7% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Dec) |  | -0.1% | -0.1% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.3% | -0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 1.5% | 1.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 1.9% | 1.7% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.4% | -0.1% |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 1.17% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 3.3% |  | 4.7% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | -0.2% | 0.8% | 1.2% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 1.1% |  | -1.6% |
+| 24 min | CHF | Low | CPI (YoY) (Dec) |  | 0.6% | 0.7% |
+| 24 min | CHF | Moderate | CPI (MoM) (Dec) |  | -0.1% | -0.1% |
+| 39 min | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.3% | -0.1% |
+| 39 min | EUR | Low | French CPI (YoY) (Dec) |  | 1.5% | 1.3% |
+| 39 min | EUR | Low | French HICP (YoY) (Dec) |  | 1.9% | 1.7% |
+| 39 min | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.4% | -0.1% |
+| 54 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 1.17% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.5 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 38.0 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.7 |

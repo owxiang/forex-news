@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (YoY) (Nov) | 6.00% |  | 13.80% |
 | 00:30 | AUD | Private House Approvals (Nov) | -1.7% |  | -4.0% |
-| 52 min | NOK | Manufacturing Production (MoM) (Nov) |  |  | -1.6% |
-| 07:30 | CHF | CPI (YoY) (Dec) |  | 0.6% | 0.7% |
-| 07:45 | EUR | French CPI (YoY) (Dec) |  | 1.5% | 1.3% |
-| 07:45 | EUR | French HICP (YoY) (Dec) |  | 1.9% | 1.7% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Nov) | 1.1% |  | -1.6% |
+| 24 min | CHF | CPI (YoY) (Dec) |  | 0.6% | 0.7% |
+| 39 min | EUR | French CPI (YoY) (Dec) |  | 1.5% | 1.3% |
+| 39 min | EUR | French HICP (YoY) (Dec) |  | 1.9% | 1.7% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.5 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Dec) |  |  | 38.0 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.7 |
