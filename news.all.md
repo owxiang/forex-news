@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) | 3.1% | -0.2% | -3.4% |
-| 4 min | AUD | Low | Building Approvals (YoY) (Nov) |  |  | 12.70% |
-| 4 min | AUD | Moderate | Building Approvals (MoM) (Nov) |  | -0.9% | 4.2% |
-| 4 min | AUD | Low | Private House Approvals (Nov) |  |  | -5.2% |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Nov) | 6.00% |  | 13.80% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | -3.6% | -0.9% | 5.2% |
+| 00:30 | AUD | Low | Private House Approvals (Nov) | -1.7% |  | -5.2% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.084% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  |  | 4.8% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.8% | 1.3% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | -1.6% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Dec) |  | -0.1% | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Dec) |  | 0.6% | 0.7% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.3% | -0.1% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Dec) |  | -0.1% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 1.5% | 1.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 1.8% | 1.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.3% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.4% | -0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 1.8% | 1.7% |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 1.17% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.5 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 38.0 |
@@ -23,17 +23,17 @@
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Dec) |  |  | 425.10B |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 42.7 |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 5.8% | 5.8% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.4% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | 0.5% |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 377.2B |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Dec) |  | 54.3 | 55.2 |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.207% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.552% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.747% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.3% | -0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.5% | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.3% | -0.1% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.3% | -0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.6% | 1.5% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.3% | -0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  |  | -0.6% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.2% |
