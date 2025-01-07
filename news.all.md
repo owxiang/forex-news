@@ -1,75 +1,73 @@
-## 06 January 2025 - All Forex News
+## 07 January 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Dec) | 50.9 | 51.4 | 50.5 |
-| 00:30 | HKD | Low | S&P Global Manufacturing PMI (Dec) | 51.1 |  | 51.2 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Dec) | 52.2 | 51.7 | 51.5 |
-| 05:00 | INR | Low | S&P Global Services PMI (Dec) | 59.3 | 60.8 | 58.4 |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Dec) | 49.9 |  | 50.9 |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Nov) | 0.8% | 1.3% | 1.5% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Dec) | 57.3 | 54.1 | 53.1 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Dec) | 49.7 |  | 47.7 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Dec) | 50.7 | 50.0 | 49.2 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Dec) | 47.5 | 46.7 | 45.9 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Dec) | 49.3 | 48.2 | 46.9 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Dec) | 48.0 | 47.8 | 47.2 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 51.2 | 51.0 | 49.3 |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.7% |  | 2.0% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 1.8% |  | -0.3% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 49.6 | 49.5 | 48.3 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 51.6 | 51.4 | 49.5 |
-| 09:25 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Dec) | 50.4 | 50.5 | 50.5 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Dec) | 51.1 | 51.4 | 50.8 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jan) | -17.7 | -17.7 | -17.5 |
-| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) | 140,786.0 |  | 153,610.0 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Dec) | 6.40% |  | 5.20% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:40 | EUR | Low | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
-| 12:00 | MXN | Low | Consumer Confidence (Dec) | 47.1 |  | 47.6 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Dec) | 47.3 |  | 47.4 |
-| 12:30 | USD | Low | All Car Sales (Dec) | 2.98M |  | 2.98M |
-| 12:30 | USD | Low | All Truck Sales (Dec) | 13.82M |  | 13.67M |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.4% | 2.2% |
-| 13:00 | EUR | High | German CPI (MoM) (Dec) | 0.4% | 0.3% | -0.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Dec) | 2.9% | 2.5% | 2.4% |
-| 13:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.5% | -0.7% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Dec) | 51.5 |  | 53.5 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Dec) | 51.6 |  | 53.6 |
-| 13:15 | CAD | Low | Reserve Assets Total (Dec) | 121.6B |  | 122.6B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.435% |  | 2.372% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.704% |  | 2.770% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.592% |  | 2.575% |
-| 14:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Dec) | 55.4 | 56.6 | 54.9 |
-| 14:45 | USD | High | S&P Global Services PMI (Dec) | 56.8 | 58.5 | 56.1 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) | -0.2% |  | 0.2% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) | 0.2% |  | 0.2% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.205% |  | 4.230% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.110% |  | 4.135% |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 4.332% |  | 4.117% |
-| 18:00 | BRL | Low | Trade Balance (Dec) | 4.80B | 3.90B | 6.87B |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 20.8K |  | 19.3K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 2.5K |  | 2.5K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions | 0.8K |  | 1.8K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions | 290.5K |  | 225.7K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 254.3K |  | 247.0K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 247.3K |  | 247.6K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 23.9K |  | 27.2K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -118.1K |  | -120.3K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -56.8K |  | -63.8K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions | 37.9K |  | 40.2K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -69.9K |  | -104.9K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions | -76.5K |  | -87.3K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions | -175.7K |  | -176.7K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions | 20.7K |  | 18.8K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions | -32.8K |  | -28.4K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -71.4K |  | -68.2K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -25.6K |  | -20.7K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -8.4K |  | 2.3K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions | -48.3K |  | -46.0K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -69.6K |  | -68.5K |
-| 44 min | JPY | Low | Monetary Base (YoY) (Dec) |  | -0.2% | -0.1% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) | 3.1% | -0.2% | -3.4% |
+| 4 min | AUD | Low | Building Approvals (YoY) (Nov) |  |  | 12.70% |
+| 4 min | AUD | Moderate | Building Approvals (MoM) (Nov) |  | -0.9% | 4.2% |
+| 4 min | AUD | Low | Private House Approvals (Nov) |  |  | -5.2% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.084% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  |  | 4.8% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.8% | 1.3% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | -1.6% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Dec) |  | -0.1% | -0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Dec) |  | 0.6% | 0.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.3% | -0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 1.5% | 1.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 1.8% | 1.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.4% | -0.1% |
+| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 1.17% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 48.5 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 38.0 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 43.7 |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Dec) |  |  | 425.10B |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 42.7 |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 5.8% | 5.8% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | 0.5% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.4% |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 377.2B |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Dec) |  | 54.3 | 55.2 |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.207% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.552% |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.747% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.3% | -0.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.5% | 1.3% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.3% | -0.1% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.6% | 1.5% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  |  | -0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  |  | -0.3% |
+| 10:00 | EUR | Low | CPI, n.s.a (Dec) |  |  | 126.62 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 2.7% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  |  | -0.4% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Nov) |  | 6.3% | 6.3% |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 1.18% |
+| 12:00 | INR | Low | GDP Annual |  |  | 8.2% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 4,148.0 |
+| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Nov) |  |  | 0.94% |
+| 13:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 122.6B |
+| 13:30 | USD | Moderate | Exports (Nov) |  |  | 265.70B |
+| 13:30 | USD | Moderate | Imports (Nov) |  |  | 339.60B |
+| 13:30 | USD | Moderate | Trade Balance (Nov) |  | -78.40B | -73.80B |
+| 13:30 | CAD | Low | Exports (Nov) |  |  | 64.22B |
+| 13:30 | CAD | Low | Imports (Nov) |  |  | 65.14B |
+| 13:30 | CAD | Moderate | Trade Balance (Nov) |  | -0.60B | -0.92B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.1% |
+| 14:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
+| 14:00 | EUR | Low | Spanish Business Confidence (Dec) |  |  | -4.9 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 53.7 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  |  | 51.5 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  |  | 53.7 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 53.2 | 52.1 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Dec) |  |  | 58.2 |
+| 15:00 | USD | High | JOLTS Job Openings (Nov) |  | 7.770M | 7.744M |
+| 15:00 | USD | Low | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 49.7 |
+| 15:00 | CAD | Moderate | Ivey PMI (Dec) |  | 55.4 | 52.3 |
+| 15:40 | CNY | Low | FX Reserves (USD) (Dec) |  | 3.250T | 3.266T |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.442M |
+| 23:00 | KRW | Low | Current Account (Nov) |  |  | 9.78B |

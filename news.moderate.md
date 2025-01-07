@@ -1,27 +1,25 @@
-## 06 January 2025 - Moderate Impact Forex News
+## 07 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | au Jibun Bank Services PMI (Dec) | 50.9 | 51.4 | 50.5 |
-| 01:45 | CNY | Caixin Services PMI (Dec) | 52.2 | 51.7 | 51.5 |
-| 08:15 | EUR | HCOB Spain Services PMI (Dec) | 57.3 | 54.1 | 53.1 |
-| 08:45 | EUR | HCOB Italy Services PMI (Dec) | 50.7 | 50.0 | 49.2 |
-| 08:50 | EUR | HCOB France Services PMI (Dec) | 49.3 | 48.2 | 46.9 |
-| 08:55 | EUR | HCOB Germany Services PMI (Dec) | 51.2 | 51.0 | 49.3 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 49.6 | 49.5 | 48.3 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Dec) | 51.6 | 51.4 | 49.5 |
-| 09:30 | GBP | S&P Global Composite PMI (Dec) | 50.4 | 50.5 | 50.5 |
-| 09:30 | GBP | S&P Global Services PMI (Dec) | 51.1 | 51.4 | 50.8 |
-| 13:00 | EUR | German CPI (YoY) (Dec) | 2.6% | 2.4% | 2.2% |
-| 14:45 | USD | S&P Global Composite PMI (Dec) | 55.4 | 56.6 | 54.9 |
-| 15:00 | USD | Factory Orders (MoM) (Nov) | -0.4% | -0.3% | 0.5% |
-| 18:00 | USD | 3-Year Note Auction | 4.332% |  | 4.117% |
-| 20:30 | GBP | CFTC GBP speculative net positions | 20.8K |  | 19.3K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 254.3K |  | 247.0K |
-| 20:30 | USD | CFTC Gold speculative net positions | 247.3K |  | 247.6K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 23.9K |  | 27.2K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -56.8K |  | -63.8K |
-| 20:30 | AUD | CFTC AUD speculative net positions | -71.4K |  | -68.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions | -25.6K |  | -20.7K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -8.4K |  | 2.3K |
-| 20:30 | EUR | CFTC EUR speculative net positions | -69.6K |  | -68.5K |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Dec) | 3.1% | -0.2% | -3.4% |
+| 4 min | AUD | Building Approvals (MoM) (Nov) |  | -0.9% | 4.2% |
+| 03:35 | JPY | 10-Year JGB Auction |  |  | 1.084% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Dec) |  |  | 4.8% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.8% | 1.3% |
+| 07:30 | CHF | CPI (MoM) (Dec) |  | -0.1% | -0.1% |
+| 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.3% | -0.1% |
+| 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.4% | -0.1% |
+| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 1.17% |
+| 09:30 | GBP | S&P Global Construction PMI (Dec) |  | 54.3 | 55.2 |
+| 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Dec) |  |  | -0.3% |
+| 10:00 | EUR | Unemployment Rate (Nov) |  | 6.3% | 6.3% |
+| 13:30 | USD | Exports (Nov) |  |  | 265.70B |
+| 13:30 | USD | Imports (Nov) |  |  | 339.60B |
+| 13:30 | USD | Trade Balance (Nov) |  | -78.40B | -73.80B |
+| 13:30 | CAD | Trade Balance (Nov) |  | -0.60B | -0.92B |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Dec) |  |  | 51.5 |
+| 15:00 | CAD | Ivey PMI (Dec) |  | 55.4 | 52.3 |
+| 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.442M |
