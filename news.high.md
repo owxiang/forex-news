@@ -6,4 +6,4 @@
 | 15:00 | USD | ISM Non-Manufacturing PMI (Dec) | 54.1 | 53.5 | 52.1 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Dec) | 64.4 | 57.5 | 58.2 |
 | 15:00 | USD | JOLTS Job Openings (Nov) | 8.098M | 7.730M | 7.839M |
-| 18:00 | USD | 10-Year Note Auction |  |  | 4.235% |
+| 54 min | USD | 10-Year Note Auction |  |  | 4.235% |
