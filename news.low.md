@@ -19,10 +19,10 @@
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -12.5B | -11.5B | -14.7B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.367% |  | 2.207% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 2.535% |  | 2.552% |
-| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 10:00 | EUR | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
+| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
 | 10:00 | EUR | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.8% |  | 2.7% |
