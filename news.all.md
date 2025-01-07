@@ -33,8 +33,8 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.4% |  | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
@@ -80,5 +80,5 @@
 | 15:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.87M |  | 0.86M |
 | 18:00 | USD | High | 10-Year Note Auction | 4.680% |  | 4.235% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% | 2.4% | 2.4% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.250M | -1.442M |
+| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.250M | -1.442M |
 | 23:00 | KRW | Low | Current Account (Nov) |  |  | 9.78B |
