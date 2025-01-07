@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Dec) | 3.1% | -0.2% | -3.4% |
 | 00:30 | AUD | Building Approvals (MoM) (Nov) | -3.6% | -0.9% | 5.2% |
-| 24 min | JPY | 10-Year JGB Auction |  |  | 1.084% |
+| 03:35 | JPY | 10-Year JGB Auction | 1.140% |  | 1.084% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Dec) |  |  | 4.8% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.8% | 1.3% |
 | 07:30 | CHF | CPI (MoM) (Dec) |  | -0.1% | -0.1% |

@@ -14,16 +14,16 @@
 | 08:30 | HKD | Foreign Reserves (USD) (Dec) |  |  | 425.10B |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 42.7 |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) |  | 5.8% | 5.8% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | 0.5% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.4% |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) |  |  | 377.2B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.207% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.552% |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.747% |
 | 10:00 | EUR | Italian CPI (YoY) (Dec) |  | 1.5% | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.3% | -0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Dec) |  | 1.6% | 1.5% |
 | 10:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.3% | -0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Dec) |  | 1.6% | 1.5% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) |  |  | -0.6% |
 | 10:00 | EUR | CPI, n.s.a (Dec) |  |  | 126.62 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  |  | 2.7% |
