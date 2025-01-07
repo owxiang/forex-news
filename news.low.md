@@ -55,4 +55,4 @@
 | 15:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.99M |  | 8.98M |
 | 15:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.85M |  | 2.94M |
 | 15:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.87M |  | 0.86M |
-| 54 min | KRW | Current Account (Nov) |  |  | 9.78B |
+| 23:00 | KRW | Current Account (Nov) | 9.30B |  | 9.78B |

@@ -10,10 +10,10 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 3.3% |  | 4.7% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | -0.2% | 0.8% | 1.2% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 1.1% |  | -1.6% |
-| 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.6% | 0.6% | 0.7% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Dec) | -0.1% | -0.1% | -0.1% |
-| 07:45 | EUR | Low | French CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
+| 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.6% | 0.6% | 0.7% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.2% | 0.3% | -0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.2% | 0.4% | -0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Dec) | 1.8% | 1.9% | 1.7% |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) | 0.34% |  | 1.17% |
@@ -35,8 +35,8 @@
 | 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.4% |  | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.8% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.4% |  | -0.4% |
@@ -81,4 +81,4 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.680% |  | 4.235% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% | 2.4% | 2.4% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.022M | -0.250M | -1.442M |
-| 54 min | KRW | Low | Current Account (Nov) |  |  | 9.78B |
+| 23:00 | KRW | Low | Current Account (Nov) | 9.30B |  | 9.78B |
