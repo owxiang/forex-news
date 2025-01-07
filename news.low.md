@@ -19,10 +19,10 @@
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -12.5B | -11.5B | -14.7B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 2.367% |  | 2.207% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 2.535% |  | 2.552% |
-| 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
-| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
+| 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
+| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
 | 10:00 | EUR | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.8% |  | 2.7% |
@@ -40,8 +40,20 @@
 | 13:30 | CAD | Imports (Nov) | 66.43B |  | 65.23B |
 | 13:30 | BRL | Federal Tax Revenue (Nov) | 209.22B |  | 247.92B |
 | 13:55 | USD | Redbook (YoY) | 6.8% |  | 7.1% |
-| 2 min | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 53.7 |
-| 2 min | USD | ISM Non-Manufacturing New Orders (Dec) |  | 54.2 | 53.7 |
-| 2 min | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
-| 2 min | CAD | Ivey PMI n.s.a (Dec) |  |  | 49.7 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) | 58.2 |  | 53.7 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) | 54.2 | 54.2 | 53.7 |
+| 15:00 | CAD | Ivey PMI n.s.a (Dec) | 44.3 |  | 49.7 |
+| 15:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.90M |
+| 15:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 15:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.21M |  | 0.21M |
+| 15:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
+| 15:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.18M |  | 3.25M |
+| 15:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 3.95M |  | 3.96M |
+| 15:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.41M |
+| 15:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.20M |  | 1.15M |
+| 15:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.58M |  | 1.53M |
+| 15:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.99M |  | 8.98M |
+| 15:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.85M |  | 2.94M |
+| 15:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.87M |  | 0.86M |
+| 25 min | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
 | 23:00 | KRW | Current Account (Nov) |  |  | 9.78B |
