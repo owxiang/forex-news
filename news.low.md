@@ -33,16 +33,15 @@
 | 11:30 | INR | GDP Annual | 6.4% |  | 8.2% |
 | 12:00 | EUR | Bavaria CPI (YoY) (Dec) | 3.2% |  | 2.4% |
 | 12:00 | BRL | Brazilian PPI (MoM) (Nov) | 1.23% |  | 0.97% |
+| 12:00 | NZD | GlobalDairyTrade Price Index | -1.4% |  | -2.8% |
+| 12:00 | USD | Milk Auctions | 4,029.0 |  | 4,148.0 |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 20 min | CAD | Exports (Nov) |  |  | 64.22B |
-| 20 min | CAD | Imports (Nov) |  |  | 65.14B |
-| 20 min | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 45 min | USD | Redbook (YoY) |  |  | 7.1% |
-| 50 min | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
-| 50 min | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 50 min | USD | Milk Auctions |  |  | 4,148.0 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 53.7 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) |  | 54.2 | 53.7 |
-| 15:00 | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
-| 15:00 | CAD | Ivey PMI n.s.a (Dec) |  |  | 49.7 |
+| 13:30 | CAD | Exports (Nov) | 66.11B |  | 64.68B |
+| 13:30 | CAD | Imports (Nov) | 66.43B |  | 65.23B |
+| 13:30 | BRL | Federal Tax Revenue (Nov) | 209.22B |  | 247.92B |
+| 13:55 | USD | Redbook (YoY) | 6.8% |  | 7.1% |
+| 2 min | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 53.7 |
+| 2 min | USD | ISM Non-Manufacturing New Orders (Dec) |  | 54.2 | 53.7 |
+| 2 min | USD | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
+| 2 min | CAD | Ivey PMI n.s.a (Dec) |  |  | 49.7 |
 | 23:00 | KRW | Current Account (Nov) |  |  | 9.78B |

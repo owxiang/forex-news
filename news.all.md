@@ -12,10 +12,10 @@
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | 1.1% |  | -1.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Dec) | 0.6% | 0.6% | 0.7% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Dec) | -0.1% | -0.1% | -0.1% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.2% | 0.3% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) | 1.8% | 1.9% | 1.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.2% | 0.3% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.2% | 0.4% | -0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Dec) | 1.8% | 1.9% | 1.7% |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) | 0.34% |  | 1.17% |
 | 08:00 | CNY | Low | FX Reserves (USD) (Dec) | 3.202T | 3.250T | 3.266T |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) | 51.2 |  | 48.5 |
@@ -35,8 +35,8 @@
 | 10:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.4% |  | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.4% |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.8% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.4% |  | -0.4% |
@@ -47,27 +47,26 @@
 | 11:30 | INR | Low | GDP Annual | 6.4% |  | 8.2% |
 | 12:00 | EUR | Low | Bavaria CPI (YoY) (Dec) | 3.2% |  | 2.4% |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Nov) | 1.23% |  | 0.97% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index | -1.4% |  | -2.8% |
+| 12:00 | USD | Low | Milk Auctions | 4,029.0 |  | 4,148.0 |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 20 min | USD | Moderate | Exports (Nov) |  |  | 265.70B |
-| 20 min | USD | Moderate | Imports (Nov) |  |  | 339.60B |
-| 20 min | USD | Moderate | Trade Balance (Nov) |  | -78.30B | -73.80B |
-| 20 min | CAD | Low | Exports (Nov) |  |  | 64.22B |
-| 20 min | CAD | Low | Imports (Nov) |  |  | 65.14B |
-| 20 min | CAD | Moderate | Trade Balance (Nov) |  | -0.80B | -0.92B |
-| 20 min | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 45 min | USD | Low | Redbook (YoY) |  |  | 7.1% |
-| 50 min | EUR | Low | Spanish Business Confidence (Dec) |  |  | -4.9 |
-| 50 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 50 min | USD | Low | Milk Auctions |  |  | 4,148.0 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 53.7 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  | 51.4 | 51.5 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  | 54.2 | 53.7 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 53.5 | 52.1 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Dec) |  | 57.5 | 58.2 |
-| 15:00 | USD | High | JOLTS Job Openings (Nov) |  | 7.730M | 7.744M |
-| 15:00 | USD | Low | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 49.7 |
-| 15:00 | CAD | Moderate | Ivey PMI (Dec) |  | 55.4 | 52.3 |
+| 13:30 | USD | Moderate | Exports (Nov) | 273.40B |  | 265.70B |
+| 13:30 | USD | Moderate | Imports (Nov) | 351.60B |  | 339.60B |
+| 13:30 | USD | Moderate | Trade Balance (Nov) | -78.20B | -78.30B | -73.60B |
+| 13:30 | CAD | Low | Exports (Nov) | 66.11B |  | 64.68B |
+| 13:30 | CAD | Low | Imports (Nov) | 66.43B |  | 65.23B |
+| 13:30 | CAD | Moderate | Trade Balance (Nov) | -0.32B | -0.80B | -0.54B |
+| 13:30 | BRL | Low | Federal Tax Revenue (Nov) | 209.22B |  | 247.92B |
+| 13:55 | USD | Low | Redbook (YoY) | 6.8% |  | 7.1% |
+| 2 min | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 53.7 |
+| 2 min | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  | 51.4 | 51.5 |
+| 2 min | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  | 54.2 | 53.7 |
+| 2 min | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 53.5 | 52.1 |
+| 2 min | USD | High | ISM Non-Manufacturing Prices (Dec) |  | 57.5 | 58.2 |
+| 2 min | USD | High | JOLTS Job Openings (Nov) |  | 7.730M | 7.744M |
+| 2 min | USD | Low | Total Vehicle Sales (Dec) |  | 16.50M | 16.50M |
+| 2 min | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 49.7 |
+| 2 min | CAD | Moderate | Ivey PMI (Dec) |  | 55.4 | 52.3 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.235% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.442M |
