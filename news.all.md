@@ -11,8 +11,8 @@
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | -5.4% | -0.3% | -1.5% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -0.3% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Low | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
 | 07:30 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
+| 07:30 | ZAR | Low | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
 | 07:45 | EUR | Low | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | Low | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | Low | French Exports (Nov) | 50.1B |  | 48.7B |
@@ -46,21 +46,21 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 213.00K |  | 223.25K |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) | 0.6% |  | -0.3% |
-| 24 min | USD | High | Crude Oil Inventories |  | -1.800M | -1.178M |
-| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.041M |
-| 24 min | USD | Low | Crude Oil Imports |  |  | 0.323M |
-| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.142M |
-| 24 min | USD | Low | Distillate Fuel Production |  |  | 0.099M |
-| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 6.406M |
-| 24 min | USD | Low | Gasoline Production |  |  | -0.959M |
-| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.416M |
-| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 24 min | USD | Low | Gasoline Inventories |  | 0.500M | 7.717M |
-| 54 min | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 57.59 |
-| 54 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 48.24 |
-| 54 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 56.16 |
-| 54 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.86 |
-| 17:00 | USD | Low | Natural Gas Storage |  | -39B | -116B |
+| 15:30 | USD | High | Crude Oil Inventories | -0.959M | -1.800M | -1.178M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.045M |  | 0.041M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.278M |  | 0.323M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -2.502M |  | -0.142M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.167M |  | 0.099M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 6.071M | 0.500M | 6.406M |
+| 15:30 | USD | Low | Gasoline Production | -0.081M |  | -0.959M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.632M |  | -0.416M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 0.2% |
+| 15:30 | USD | Low | Gasoline Inventories | 6.330M | 0.500M | 7.717M |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) | 54.43 |  | 57.59 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 45.47 |  | 48.24 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.27 |  | 56.16 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) | 51.16 |  | 51.86 |
+| 53 min | USD | Low | Natural Gas Storage |  | -39B | -116B |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -5.890B |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.535% |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |

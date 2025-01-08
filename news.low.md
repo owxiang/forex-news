@@ -9,8 +9,8 @@
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
 | 07:00 | EUR | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
 | 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
+| 07:30 | ZAR | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
 | 07:45 | EUR | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | French Exports (Nov) | 50.1B |  | 48.7B |
@@ -36,19 +36,19 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 213.00K |  | 223.25K |
 | 15:00 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) | 0.6% |  | -0.3% |
-| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.041M |
-| 24 min | USD | Crude Oil Imports |  |  | 0.323M |
-| 24 min | USD | Distillate Fuel Production |  |  | 0.099M |
-| 24 min | USD | EIA Weekly Distillates Stocks |  | 0.500M | 6.406M |
-| 24 min | USD | Gasoline Production |  |  | -0.959M |
-| 24 min | USD | Heating Oil Stockpiles |  |  | -0.416M |
-| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 24 min | USD | Gasoline Inventories |  | 0.500M | 7.717M |
-| 54 min | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 57.59 |
-| 54 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 48.24 |
-| 54 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 56.16 |
-| 54 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.86 |
-| 17:00 | USD | Natural Gas Storage |  | -39B | -116B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.045M |  | 0.041M |
+| 15:30 | USD | Crude Oil Imports | 0.278M |  | 0.323M |
+| 15:30 | USD | Distillate Fuel Production | -0.167M |  | 0.099M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 6.071M | 0.500M | 6.406M |
+| 15:30 | USD | Gasoline Production | -0.081M |  | -0.959M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.632M |  | -0.416M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 0.2% |
+| 15:30 | USD | Gasoline Inventories | 6.330M | 0.500M | 7.717M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jan) | 54.43 |  | 57.59 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 45.47 |  | 48.24 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.27 |  | 56.16 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 51.16 |  | 51.86 |
+| 53 min | USD | Natural Gas Storage |  | -39B | -116B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.890B |
 | 23:30 | JPY | Average Cash Earnings (YoY) |  | 2.7% | 1.9% |
 | 23:30 | JPY | Overall wage income of employees (Nov) |  |  | 2.6% |

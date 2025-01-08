@@ -10,5 +10,5 @@
 | 12:00 | BRL | Industrial Production (YoY) (Nov) | 1.7% | 1.8% | 5.9% |
 | 13:30 | USD | Continuing Jobless Claims | 1,867K | 1,870K | 1,834K |
 | 13:30 | USD | Fed Waller Speaks |  |  |  |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | -0.142M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -2.502M |  | -0.142M |
 | 20:00 | USD | Consumer Credit (Nov) |  | 10.30B | 19.24B |
