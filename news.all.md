@@ -65,8 +65,8 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.913% |  | 4.535% |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Nov) | -7.49B | 10.30B | 17.32B |
-| 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 2.7% | 1.9% |
-| 23:30 | JPY | Low | Overall wage income of employees (Nov) |  |  | 2.6% |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | 1.40% |
-| 23:45 | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
-| 23:45 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
+| 24 min | JPY | Low | Average Cash Earnings (YoY) |  | 2.7% | 1.9% |
+| 24 min | JPY | Low | Overall wage income of employees (Nov) |  |  | 2.6% |
+| 24 min | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | 1.40% |
+| 39 min | JPY | Low | Foreign Bonds Buying |  |  | -919.2B |
+| 39 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
