@@ -49,7 +49,7 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.27 |  | 56.16 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 51.16 |  | 51.86 |
 | 17:00 | USD | Natural Gas Storage | -40B | -39B | -116B |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -5.890B |
+| 17:30 | BRL | Foreign Exchange Flows | -5.602B |  | -5.890B |
 | 23:30 | JPY | Average Cash Earnings (YoY) |  | 2.7% | 1.9% |
 | 23:30 | JPY | Overall wage income of employees (Nov) |  |  | 2.6% |
 | 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.40% |
