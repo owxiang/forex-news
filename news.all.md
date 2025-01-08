@@ -39,15 +39,13 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 401.1 |  | 395.1 |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.2% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | 1.7% | 1.8% | 5.9% |
-| 5 min | USD | High | ADP Nonfarm Employment Change (Dec) |  | 139K | 146K |
-| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,844K |
-| 20 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 20 min | USD | High | Initial Jobless Claims |  | 214K | 211K |
-| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.25K |
-| 20 min | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 50 min | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) | 122K | 139K | 146K |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,867K | 1,870K | 1,834K |
+| 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 13:30 | USD | High | Initial Jobless Claims | 201K | 214K | 211K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 213.00K |  | 223.25K |
+| 54 min | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
+| 54 min | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.800M | -1.178M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.041M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.323M |

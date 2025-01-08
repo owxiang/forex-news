@@ -33,11 +33,9 @@
 | 12:00 | USD | Mortgage Market Index | 168.4 |  | 174.9 |
 | 12:00 | USD | Mortgage Refinance Index | 401.1 |  | 395.1 |
 | 12:00 | BRL | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.2% |
-| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
-| 20 min | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 50 min | INR | M3 Money Supply |  |  | 10.7% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 213.00K |  | 223.25K |
+| 54 min | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
+| 54 min | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.041M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.323M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.099M |
