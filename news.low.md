@@ -9,24 +9,25 @@
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
 | 07:00 | EUR | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:30 | ZAR | Total Vehicle Sales (Dec) | 41.27K |  | 48.59K |
+| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:45 | EUR | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | French Exports (Nov) | 50.1B |  | 48.7B |
 | 07:45 | EUR | French Imports (Nov) | 57.2B |  | 56.2B |
 | 07:45 | EUR | French Trade Balance (Nov) | -7.1B | -7.0B | -7.5B |
-| 54 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.348% |
-| 54 min | EUR | Business and Consumer Survey (Dec) |  | 95.6 | 95.8 |
-| 54 min | EUR | Business Climate (Dec) |  |  | -0.77 |
-| 54 min | EUR | Consumer Confidence (Dec) |  | -14.5 | -13.7 |
-| 54 min | EUR | Consumer Inflation Expectation (Dec) |  |  | 17.7 |
-| 54 min | EUR | Selling Price Expectations (Dec) |  |  | 7.1 |
-| 54 min | EUR | Services Sentiment (Dec) |  | 5.8 | 5.3 |
-| 54 min | EUR | Industrial Sentiment (Dec) |  | -11.7 | -11.1 |
-| 54 min | EUR | PPI (YoY) (Nov) |  | -1.3% | -3.2% |
-| 54 min | EUR | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
-| 11:00 | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
+| 09:00 | ZAR | Manufacturing PMI (Dec) | 46.2 |  | 48.1 |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.348% |
+| 10:00 | EUR | Business and Consumer Survey (Dec) | 93.7 | 95.6 | 95.6 |
+| 10:00 | EUR | Business Climate (Dec) | -0.91 |  | -0.78 |
+| 10:00 | EUR | Consumer Confidence (Dec) | -14.5 | -14.5 | -13.7 |
+| 10:00 | EUR | Consumer Inflation Expectation (Dec) | 21.0 |  | 17.8 |
+| 10:00 | EUR | Selling Price Expectations (Dec) | 7.6 |  | 7.1 |
+| 10:00 | EUR | Services Sentiment (Dec) | 5.9 | 5.8 | 5.3 |
+| 10:00 | EUR | Industrial Sentiment (Dec) | -14.1 | -11.7 | -11.4 |
+| 10:00 | EUR | PPI (MoM) (Nov) | 1.6% | 1.5% | 0.4% |
+| 10:00 | EUR | PPI (YoY) (Nov) | -1.2% | -1.3% | -3.3% |
+| 54 min | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
 | 11:30 | INR | M3 Money Supply |  |  | 10.7% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -12.6% |
