@@ -32,21 +32,20 @@
 | 10:05 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 10:20 | GBP | Low | 5-Year Treasury Gilt Auction | 4.490% |  | 4.348% |
 | 10:40 | EUR | Moderate | German 10-Year Bund Auction | 2.510% |  | 2.070% |
-| 25 min | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 55 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 55 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -12.6% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 136.7 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 174.9 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 395.1 |
-| 54 min | BRL | Low | Industrial Production (MoM) (Nov) |  | -0.5% | -0.2% |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 1.8% | 5.8% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.99% |  | 6.97% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -3.7% |  | -12.6% |
+| 12:00 | USD | Low | MBA Purchase Index | 127.7 |  | 136.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 168.4 |  | 174.9 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 401.1 |  | 395.1 |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.6% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | 1.7% | 1.8% | 5.9% |
+| 20 min | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 139K | 146K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,844K |
 | 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 13:30 | USD | High | Initial Jobless Claims |  | 214K | 211K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.25K |
 | 13:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 14:00 | EUR | Low | Spanish Business Confidence (Dec) |  |  | -4.9 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.800M | -1.178M |

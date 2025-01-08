@@ -27,16 +27,15 @@
 | 10:00 | EUR | PPI (MoM) (Nov) | 1.6% | 1.5% | 0.4% |
 | 10:00 | EUR | PPI (YoY) (Nov) | -1.2% | -1.3% | -3.3% |
 | 10:20 | GBP | 5-Year Treasury Gilt Auction | 4.490% |  | 4.348% |
-| 25 min | INR | M3 Money Supply |  |  | 10.7% |
-| 55 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 55 min | USD | MBA Mortgage Applications (WoW) |  |  | -12.6% |
-| 54 min | USD | MBA Purchase Index |  |  | 136.7 |
-| 54 min | USD | Mortgage Market Index |  |  | 174.9 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 395.1 |
-| 54 min | BRL | Industrial Production (MoM) (Nov) |  | -0.5% | -0.2% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.99% |  | 6.97% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -3.7% |  | -12.6% |
+| 12:00 | USD | MBA Purchase Index | 127.7 |  | 136.7 |
+| 12:00 | USD | Mortgage Market Index | 168.4 |  | 174.9 |
+| 12:00 | USD | Mortgage Refinance Index | 401.1 |  | 395.1 |
+| 12:00 | BRL | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.6% |
+| 20 min | INR | M3 Money Supply |  |  | 10.7% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
 | 13:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
-| 14:00 | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.041M |
