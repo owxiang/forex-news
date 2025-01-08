@@ -11,8 +11,8 @@
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | -5.4% | -0.3% | -1.5% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -0.3% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Low | Total Vehicle Sales (Dec) | 41.27K |  | 48.59K |
 | 07:30 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
+| 07:30 | ZAR | Low | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
 | 07:45 | EUR | Low | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | Low | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | Low | French Exports (Nov) | 50.1B |  | 48.7B |
@@ -20,7 +20,6 @@
 | 07:45 | EUR | Low | French Trade Balance (Nov) | -7.1B | -7.0B | -7.5B |
 | 09:00 | ZAR | Low | Manufacturing PMI (Dec) | 46.2 |  | 48.1 |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Dec) | 7.50% |  | 7.59% |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.348% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Dec) | 93.7 | 95.6 | 95.6 |
 | 10:00 | EUR | Low | Business Climate (Dec) | -0.91 |  | -0.78 |
 | 10:00 | EUR | Low | Consumer Confidence (Dec) | -14.5 | -14.5 | -13.7 |
@@ -31,16 +30,16 @@
 | 10:00 | EUR | Low | PPI (MoM) (Nov) | 1.6% | 1.5% | 0.4% |
 | 10:00 | EUR | Low | PPI (YoY) (Nov) | -1.2% | -1.3% | -3.3% |
 | 10:05 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 24 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.070% |
-| 54 min | EUR | Low | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -12.6% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 136.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 174.9 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 395.1 |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | -0.5% | -0.2% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 1.8% | 5.8% |
+| 10:20 | GBP | Low | 5-Year Treasury Gilt Auction | 4.490% |  | 4.348% |
+| 10:40 | EUR | Moderate | German 10-Year Bund Auction | 2.510% |  | 2.070% |
+| 25 min | INR | Low | M3 Money Supply |  |  | 10.7% |
+| 55 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 55 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -12.6% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 136.7 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 174.9 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 395.1 |
+| 54 min | BRL | Low | Industrial Production (MoM) (Nov) |  | -0.5% | -0.2% |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 1.8% | 5.8% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 139K | 146K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,844K |
 | 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
