@@ -1,9 +1,9 @@
-## 07 January 2025 - High Impact Forex News
+## 08 January 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
-| 15:00 | USD | ISM Non-Manufacturing PMI (Dec) | 54.1 | 53.5 | 52.1 |
-| 15:00 | USD | ISM Non-Manufacturing Prices (Dec) | 64.4 | 57.5 | 58.2 |
-| 15:00 | USD | JOLTS Job Openings (Nov) | 8.098M | 7.730M | 7.839M |
-| 18:00 | USD | 10-Year Note Auction | 4.680% |  | 4.235% |
+| 13:15 | USD | ADP Nonfarm Employment Change (Dec) |  | 136K | 146K |
+| 13:30 | USD | Initial Jobless Claims |  | 214K | 211K |
+| 15:30 | USD | Crude Oil Inventories |  | -0.250M | -1.178M |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.535% |
+| 19:00 | USD | FOMC Meeting Minutes |  |  |  |

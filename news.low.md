@@ -1,58 +1,60 @@
-## 07 January 2025 - Low Impact Forex News
+## 08 January 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (YoY) (Nov) | 6.00% |  | 13.80% |
-| 00:30 | AUD | Private House Approvals (Nov) | -1.7% |  | -4.0% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Nov) | 1.1% |  | -1.6% |
-| 07:30 | CHF | CPI (YoY) (Dec) | 0.6% | 0.6% | 0.7% |
-| 07:45 | EUR | French CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
-| 07:45 | EUR | French HICP (YoY) (Dec) | 1.8% | 1.9% | 1.7% |
-| 08:00 | CNY | FX Reserves (USD) (Dec) | 3.202T | 3.250T | 3.266T |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) | 51.2 |  | 48.5 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Dec) | 37.8 |  | 38.0 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Dec) | 42.6 |  | 43.7 |
-| 08:30 | HKD | Foreign Reserves (USD) (Dec) | 421.40B |  | 425.10B |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) | 42.9 |  | 42.7 |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 5.7% | 5.8% | 5.8% |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 371.4B |  | 377.2B |
-| 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -12.5B | -11.5B | -14.7B |
-| 09:40 | EUR | Spanish 12-Month Letras Auction | 2.367% |  | 2.207% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction | 2.535% |  | 2.552% |
-| 10:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.5% | 1.3% |
-| 10:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.3% | -0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Dec) | 1.4% | 1.6% | 1.5% |
-| 10:00 | EUR | Core CPI (MoM) (Dec) | 0.5% |  | -0.6% |
-| 10:00 | EUR | CPI, n.s.a (Dec) | 127.08 |  | 126.62 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.8% |  | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.4% |  | -0.4% |
-| 10:15 | GBP | 30-Year Treasury Gilt Auction | 5.198% |  | 4.747% |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.180% |  | 1.940% |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.87% |  | 1.18% |
-| 11:30 | INR | GDP Annual | 6.4% |  | 8.2% |
-| 12:00 | EUR | Bavaria CPI (YoY) (Dec) | 3.2% |  | 2.4% |
-| 12:00 | BRL | Brazilian PPI (MoM) (Nov) | 1.23% |  | 0.97% |
-| 12:00 | NZD | GlobalDairyTrade Price Index | -1.4% |  | -2.8% |
-| 12:00 | USD | Milk Auctions | 4,029.0 |  | 4,148.0 |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | CAD | Exports (Nov) | 66.11B |  | 64.68B |
-| 13:30 | CAD | Imports (Nov) | 66.43B |  | 65.23B |
-| 13:30 | BRL | Federal Tax Revenue (Nov) | 209.22B |  | 247.92B |
-| 13:55 | USD | Redbook (YoY) | 6.8% |  | 7.1% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Dec) | 58.2 |  | 53.7 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Dec) | 54.2 | 54.2 | 53.7 |
-| 15:00 | CAD | Ivey PMI n.s.a (Dec) | 44.3 |  | 49.7 |
-| 15:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.90M |
-| 15:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
-| 15:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.21M |  | 0.21M |
-| 15:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
-| 15:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.18M |  | 3.25M |
-| 15:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 3.95M |  | 3.96M |
-| 15:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.41M |
-| 15:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.20M |  | 1.15M |
-| 15:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.58M |  | 1.53M |
-| 15:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.99M |  | 8.98M |
-| 15:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.85M |  | 2.94M |
-| 15:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.87M |  | 0.86M |
-| 23:00 | KRW | Current Account (Nov) | 9.30B |  | 9.78B |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 0.2% |  | 2.9% |
+| 4 min | AUD | Monthly CPI Indicator (YoY) (Nov) |  | 2.20% | 2.10% |
+| 02:00 | IDR | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
+| 03:00 | IDR | FX Reserves (USD) (Dec) |  |  | 150.20B |
+| 05:00 | JPY | Household Confidence (Dec) |  | 36.6 | 36.4 |
+| 06:00 | ZAR | Foreign Reserves (USD) (Dec) |  |  | 65.86B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Dec) |  |  | 60.619B |
+| 07:00 | EUR | German Retail Sales (YoY) (Nov) |  | 1.9% | 1.0% |
+| 07:30 | CHF | Retail Sales (YoY) (Nov) |  |  | 1.4% |
+| 07:45 | EUR | French Consumer Confidence (Dec) |  | 89 | 90 |
+| 07:45 | EUR | French Current Account (Nov) |  |  | -2.60B |
+| 07:45 | EUR | French Exports (Nov) |  |  | 48.7B |
+| 07:45 | EUR | French Imports (Nov) |  |  | 56.4B |
+| 07:45 | EUR | French Trade Balance (Nov) |  | -7.0B | -7.7B |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.348% |
+| 10:00 | EUR | Business and Consumer Survey (Dec) |  | 95.6 | 95.8 |
+| 10:00 | EUR | Business Climate (Dec) |  |  | -0.77 |
+| 10:00 | EUR | Consumer Confidence (Dec) |  | -14.5 | -13.7 |
+| 10:00 | EUR | Consumer Inflation Expectation (Dec) |  |  | 17.7 |
+| 10:00 | EUR | Selling Price Expectations (Dec) |  |  | 7.1 |
+| 10:00 | EUR | Services Sentiment (Dec) |  | 5.9 | 5.3 |
+| 10:00 | EUR | Industrial Sentiment (Dec) |  | -11.7 | -11.1 |
+| 10:00 | EUR | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
+| 10:00 | EUR | PPI (YoY) (Nov) |  | -1.2% | -3.2% |
+| 11:00 | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
+| 11:30 | INR | M3 Money Supply |  |  | 10.7% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -12.6% |
+| 12:00 | USD | MBA Purchase Index |  |  | 136.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 174.9 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 395.1 |
+| 12:00 | BRL | Industrial Production (MoM) (Nov) |  | -0.6% | -0.2% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
+| 13:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 14:00 | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Nov) |  |  | -0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.041M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.323M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.099M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.500M | 6.406M |
+| 15:30 | USD | Gasoline Production |  |  | -0.959M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.416M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
+| 15:30 | USD | Gasoline Inventories |  | 0.500M | 7.717M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 57.59 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 48.24 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 56.16 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.86 |
+| 17:00 | USD | Natural Gas Storage |  |  | -116B |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -5.890B |
+| 23:30 | JPY | Average Cash Earnings (YoY) |  | 2.7% | 1.9% |
+| 23:30 | JPY | Overall wage income of employees (Nov) |  |  | 2.6% |
+| 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.40% |
+| 23:45 | JPY | Foreign Bonds Buying |  |  | -919.2B |
+| 23:45 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
