@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 0.2% |  | 2.9% |
-| 4 min | AUD | Monthly CPI Indicator (YoY) (Nov) |  | 2.20% | 2.10% |
-| 02:00 | IDR | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Nov) | 2.30% | 2.20% | 2.10% |
+| 27 min | IDR | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
 | 03:00 | IDR | FX Reserves (USD) (Dec) |  |  | 150.20B |
 | 05:00 | JPY | Household Confidence (Dec) |  | 36.6 | 36.4 |
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) |  |  | 65.86B |
@@ -24,8 +24,8 @@
 | 10:00 | EUR | Selling Price Expectations (Dec) |  |  | 7.1 |
 | 10:00 | EUR | Services Sentiment (Dec) |  | 5.9 | 5.3 |
 | 10:00 | EUR | Industrial Sentiment (Dec) |  | -11.7 | -11.1 |
-| 10:00 | EUR | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
 | 10:00 | EUR | PPI (YoY) (Nov) |  | -1.2% | -3.2% |
+| 10:00 | EUR | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
 | 11:00 | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
 | 11:30 | INR | M3 Money Supply |  |  | 10.7% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
