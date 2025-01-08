@@ -9,10 +9,10 @@
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | -5.4% | -0.3% | -1.5% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -0.3% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -0.3% |
 | 07:30 | ZAR | Low | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
+| 07:30 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:45 | EUR | Low | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | Low | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | Low | French Exports (Nov) | 50.1B |  | 48.7B |
@@ -37,15 +37,15 @@
 | 12:00 | USD | Low | MBA Purchase Index | 127.7 |  | 136.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 168.4 |  | 174.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 401.1 |  | 395.1 |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.6% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.2% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | 1.7% | 1.8% | 5.9% |
-| 20 min | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 139K | 146K |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,844K |
-| 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 13:30 | USD | High | Initial Jobless Claims |  | 214K | 211K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.25K |
-| 13:30 | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 5 min | USD | High | ADP Nonfarm Employment Change (Dec) |  | 139K | 146K |
+| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,844K |
+| 20 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 20 min | USD | High | Initial Jobless Claims |  | 214K | 211K |
+| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.25K |
+| 20 min | BRL | Low | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 50 min | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.800M | -1.178M |

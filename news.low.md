@@ -9,8 +9,8 @@
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
 | 07:00 | EUR | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:30 | ZAR | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
+| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:45 | EUR | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | French Exports (Nov) | 50.1B |  | 48.7B |
@@ -32,10 +32,10 @@
 | 12:00 | USD | MBA Purchase Index | 127.7 |  | 136.7 |
 | 12:00 | USD | Mortgage Market Index | 168.4 |  | 174.9 |
 | 12:00 | USD | Mortgage Refinance Index | 401.1 |  | 395.1 |
-| 12:00 | BRL | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.6% |
-| 20 min | INR | M3 Money Supply |  |  | 10.7% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
-| 13:30 | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 12:00 | BRL | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.2% |
+| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
+| 20 min | BRL | Federal Tax Revenue (Nov) |  |  | 247.92B |
+| 50 min | INR | M3 Money Supply |  |  | 10.7% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.041M |
