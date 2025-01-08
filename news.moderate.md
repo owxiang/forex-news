@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German Factory Orders (MoM) (Nov) | -5.4% | -0.3% | -1.5% |
-| 07:00 | EUR | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -1.5% |
+| 07:00 | EUR | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -0.3% |
 | 10:00 | GBP | Mortgage Rate (GBP) (Dec) |  |  | 7.59% |
 | 10:05 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.070% |
