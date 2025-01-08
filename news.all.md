@@ -6,11 +6,11 @@
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 2.30% | 2.20% | 2.10% |
 | 03:00 | IDR | Low | FX Reserves (USD) (Dec) | 155.70B |  | 150.20B |
 | 05:00 | JPY | Low | Household Confidence (Dec) | 36.2 | 36.6 | 36.4 |
-| 53 min | ZAR | Low | Foreign Reserves (USD) (Dec) |  |  | 65.86B |
-| 53 min | ZAR | Low | Net FX Reserves (USD) (Dec) |  |  | 60.619B |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | -0.3% | -1.5% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.5% | -1.5% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) |  | 1.9% | 1.0% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
+| 52 min | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | -0.3% | -1.5% |
+| 52 min | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.5% | -1.5% |
+| 52 min | EUR | Low | German Retail Sales (YoY) (Nov) |  | 1.9% | 1.0% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Nov) |  |  | 1.4% |
 | 07:45 | EUR | Low | French Consumer Confidence (Dec) |  | 89 | 90 |
 | 07:45 | EUR | Low | French Current Account (Nov) |  |  | -2.60B |
@@ -26,8 +26,8 @@
 | 10:00 | EUR | Low | Selling Price Expectations (Dec) |  |  | 7.1 |
 | 10:00 | EUR | Low | Services Sentiment (Dec) |  | 5.8 | 5.3 |
 | 10:00 | EUR | Low | Industrial Sentiment (Dec) |  | -11.7 | -11.1 |
-| 10:00 | EUR | Low | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
 | 10:00 | EUR | Low | PPI (YoY) (Nov) |  | -1.3% | -3.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
 | 10:05 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.070% |
 | 11:00 | EUR | Low | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
