@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.2% |  | 2.9% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 2.30% | 2.20% | 2.10% |
-| 32 min | IDR | Low | FX Reserves (USD) (Dec) |  |  | 150.20B |
-| 32 min | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
+| 03:00 | IDR | Low | FX Reserves (USD) (Dec) | 155.70B |  | 150.20B |
+| 03:00 | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
 | 05:00 | JPY | Low | Household Confidence (Dec) |  | 36.6 | 36.4 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) |  |  | 65.86B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) |  |  | 60.619B |
