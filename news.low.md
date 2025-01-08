@@ -9,8 +9,8 @@
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
 | 07:00 | EUR | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:30 | ZAR | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
+| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:45 | EUR | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | French Exports (Nov) | 50.1B |  | 48.7B |
@@ -48,8 +48,8 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 45.47 |  | 48.24 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.27 |  | 56.16 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 51.16 |  | 51.86 |
-| 53 min | USD | Natural Gas Storage |  | -39B | -116B |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -5.890B |
+| 17:00 | USD | Natural Gas Storage | -40B | -39B | -116B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -5.890B |
 | 23:30 | JPY | Average Cash Earnings (YoY) |  | 2.7% | 1.9% |
 | 23:30 | JPY | Overall wage income of employees (Nov) |  |  | 2.6% |
 | 23:30 | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.40% |
