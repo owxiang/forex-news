@@ -11,4 +11,4 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,867K | 1,870K | 1,834K |
 | 13:30 | USD | Fed Waller Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -2.502M |  | -0.142M |
-| 55 min | USD | Consumer Credit (Nov) |  | 10.30B | 19.24B |
+| 20:00 | USD | Consumer Credit (Nov) | -7.49B | 10.30B | 17.32B |

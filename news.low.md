@@ -9,8 +9,8 @@
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
 | 07:00 | EUR | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:30 | ZAR | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
+| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
 | 07:45 | EUR | French Consumer Confidence (Dec) | 89 | 89 | 90 |
 | 07:45 | EUR | French Current Account (Nov) | -1.70B |  | -1.90B |
 | 07:45 | EUR | French Exports (Nov) | 50.1B |  | 48.7B |
