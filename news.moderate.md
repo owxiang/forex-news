@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German Factory Orders (MoM) (Nov) | -5.4% | -0.3% | -1.5% |
 | 07:00 | EUR | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -0.3% |
-| 10:00 | GBP | Mortgage Rate (GBP) (Dec) |  |  | 7.59% |
-| 10:05 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 54 min | GBP | Mortgage Rate (GBP) (Dec) |  |  | 7.59% |
+| 59 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.070% |
 | 12:00 | BRL | Industrial Production (YoY) (Nov) |  | 1.8% | 5.8% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,844K |

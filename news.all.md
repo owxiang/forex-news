@@ -18,18 +18,18 @@
 | 07:45 | EUR | Low | French Exports (Nov) | 50.1B |  | 48.7B |
 | 07:45 | EUR | Low | French Imports (Nov) | 57.2B |  | 56.2B |
 | 07:45 | EUR | Low | French Trade Balance (Nov) | -7.1B | -7.0B | -7.5B |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.348% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Dec) |  |  | 7.59% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Dec) |  | 95.6 | 95.8 |
-| 10:00 | EUR | Low | Business Climate (Dec) |  |  | -0.77 |
-| 10:00 | EUR | Low | Consumer Confidence (Dec) |  | -14.5 | -13.7 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Dec) |  |  | 17.7 |
-| 10:00 | EUR | Low | Selling Price Expectations (Dec) |  |  | 7.1 |
-| 10:00 | EUR | Low | Services Sentiment (Dec) |  | 5.8 | 5.3 |
-| 10:00 | EUR | Low | Industrial Sentiment (Dec) |  | -11.7 | -11.1 |
-| 10:00 | EUR | Low | PPI (YoY) (Nov) |  | -1.3% | -3.2% |
-| 10:00 | EUR | Low | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
-| 10:05 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 54 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.348% |
+| 54 min | GBP | Moderate | Mortgage Rate (GBP) (Dec) |  |  | 7.59% |
+| 54 min | EUR | Low | Business and Consumer Survey (Dec) |  | 95.6 | 95.8 |
+| 54 min | EUR | Low | Business Climate (Dec) |  |  | -0.77 |
+| 54 min | EUR | Low | Consumer Confidence (Dec) |  | -14.5 | -13.7 |
+| 54 min | EUR | Low | Consumer Inflation Expectation (Dec) |  |  | 17.7 |
+| 54 min | EUR | Low | Selling Price Expectations (Dec) |  |  | 7.1 |
+| 54 min | EUR | Low | Services Sentiment (Dec) |  | 5.8 | 5.3 |
+| 54 min | EUR | Low | Industrial Sentiment (Dec) |  | -11.7 | -11.1 |
+| 54 min | EUR | Low | PPI (YoY) (Nov) |  | -1.3% | -3.2% |
+| 54 min | EUR | Low | PPI (MoM) (Nov) |  | 1.5% | 0.4% |
+| 59 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.070% |
 | 11:00 | EUR | Low | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
