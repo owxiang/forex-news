@@ -8,15 +8,15 @@
 | 05:00 | JPY | Low | Household Confidence (Dec) | 36.2 | 36.6 | 36.4 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
-| 52 min | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | -0.3% | -1.5% |
-| 52 min | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | 0.5% | -1.5% |
-| 52 min | EUR | Low | German Retail Sales (YoY) (Nov) |  | 1.9% | 1.0% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Nov) |  |  | 1.4% |
-| 07:45 | EUR | Low | French Consumer Confidence (Dec) |  | 89 | 90 |
-| 07:45 | EUR | Low | French Current Account (Nov) |  |  | -2.60B |
-| 07:45 | EUR | Low | French Exports (Nov) |  |  | 48.7B |
-| 07:45 | EUR | Low | French Imports (Nov) |  |  | 56.4B |
-| 07:45 | EUR | Low | French Trade Balance (Nov) |  | -7.0B | -7.7B |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | -5.4% | -0.3% | -1.5% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -0.6% | 0.5% | -1.5% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 1.0% |
+| 24 min | CHF | Low | Retail Sales (YoY) (Nov) |  |  | 1.4% |
+| 39 min | EUR | Low | French Consumer Confidence (Dec) |  | 89 | 90 |
+| 39 min | EUR | Low | French Current Account (Nov) |  |  | -2.60B |
+| 39 min | EUR | Low | French Exports (Nov) |  |  | 48.7B |
+| 39 min | EUR | Low | French Imports (Nov) |  |  | 56.4B |
+| 39 min | EUR | Low | French Trade Balance (Nov) |  | -7.0B | -7.7B |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.348% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Dec) |  |  | 7.59% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Dec) |  | 95.6 | 95.8 |
@@ -37,8 +37,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 136.7 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 174.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 395.1 |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | -0.5% | -0.2% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 1.8% | 5.8% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | -0.5% | -0.2% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 139K | 146K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,844K |
 | 13:30 | USD | Moderate | Fed Waller Speaks |  |  |  |

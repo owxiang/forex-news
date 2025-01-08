@@ -8,13 +8,13 @@
 | 05:00 | JPY | Household Confidence (Dec) | 36.2 | 36.6 | 36.4 |
 | 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
-| 52 min | EUR | German Retail Sales (YoY) (Nov) |  | 1.9% | 1.0% |
-| 07:30 | CHF | Retail Sales (YoY) (Nov) |  |  | 1.4% |
-| 07:45 | EUR | French Consumer Confidence (Dec) |  | 89 | 90 |
-| 07:45 | EUR | French Current Account (Nov) |  |  | -2.60B |
-| 07:45 | EUR | French Exports (Nov) |  |  | 48.7B |
-| 07:45 | EUR | French Imports (Nov) |  |  | 56.4B |
-| 07:45 | EUR | French Trade Balance (Nov) |  | -7.0B | -7.7B |
+| 07:00 | EUR | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 1.0% |
+| 24 min | CHF | Retail Sales (YoY) (Nov) |  |  | 1.4% |
+| 39 min | EUR | French Consumer Confidence (Dec) |  | 89 | 90 |
+| 39 min | EUR | French Current Account (Nov) |  |  | -2.60B |
+| 39 min | EUR | French Exports (Nov) |  |  | 48.7B |
+| 39 min | EUR | French Imports (Nov) |  |  | 56.4B |
+| 39 min | EUR | French Trade Balance (Nov) |  | -7.0B | -7.7B |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.348% |
 | 10:00 | EUR | Business and Consumer Survey (Dec) |  | 95.6 | 95.8 |
 | 10:00 | EUR | Business Climate (Dec) |  |  | -0.77 |
