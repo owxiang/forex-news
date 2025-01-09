@@ -7,7 +7,6 @@
 | 00:30 | AUD | Imports (MoM) (Nov) | 1.7% |  | -0.1% |
 | 03:00 | IDR | Consumer Confidence (Dec) | 127.7 |  | 125.9 |
 | 03:35 | JPY | 30-Year JGB Auction | 2.304% |  | 2.287% |
-| 53 min | IDR | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
 | 07:00 | EUR | German Exports (MoM) (Nov) |  | 2.0% | -2.8% |
 | 07:00 | EUR | German Imports (MoM) (Nov) |  | 0.7% | -0.1% |
 | 07:00 | EUR | German Industrial Production (YoY) (Nov) |  |  | -4.75% |
@@ -20,8 +19,8 @@
 | 09:00 | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
+| 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.277% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.646% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.24% |
@@ -39,8 +38,8 @@
 | 11:00 | ZAR | Manufacturing Production (YoY) (Nov) |  |  | 0.8% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Nov) |  |  | 0.4% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.29 |
-| 12:00 | MXN | Core CPI (MoM) (Dec) |  | 0.42% | 0.05% |
-| 12:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 3.56% | 3.58% |
+| 12:00 | MXN | Core CPI (MoM) (Dec) |  | 0.45% | 0.05% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 3.62% | 3.58% |
 | 12:00 | MXN | PPI (MoM) (Dec) |  |  | 0.90% |
 | 12:00 | MXN | PPI (YoY) (Dec) |  |  | 6.40% |
 | 12:30 | USD | Challenger Job Cuts (Dec) |  |  | 57.727K |
