@@ -12,13 +12,13 @@
 | 01:30 | CNY | Moderate | PPI (YoY) (Dec) | -2.3% | -2.4% | -2.5% |
 | 03:00 | IDR | Low | Consumer Confidence (Dec) | 127.7 |  | 125.9 |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 2.304% |  | 2.287% |
-| 52 min | EUR | Low | German Exports (MoM) (Nov) |  | 2.0% | -2.8% |
-| 52 min | EUR | Low | German Imports (MoM) (Nov) |  | 0.7% | -0.1% |
-| 52 min | EUR | Moderate | German Industrial Production (MoM) (Nov) |  | 0.5% | -1.0% |
-| 52 min | EUR | Moderate | German Trade Balance (Nov) |  | 14.7B | 13.4B |
-| 52 min | EUR | Low | German Industrial Production (YoY) (Nov) |  |  | -4.75% |
-| 52 min | NOK | Low | PPI (YoY) (Dec) |  |  | 0.0% |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 724,555.0B |
+| 07:00 | EUR | Low | German Exports (MoM) (Nov) | 2.1% | 2.0% | -2.9% |
+| 07:00 | EUR | Low | German Imports (MoM) (Nov) | -3.3% | 0.7% | -0.3% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Nov) | 1.5% | 0.5% | -0.4% |
+| 07:00 | EUR | Moderate | German Trade Balance (Nov) | 19.7B | 14.7B | 13.4B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Nov) | -2.80% |  | -4.75% |
+| 07:00 | NOK | Low | PPI (YoY) (Dec) | 9.3% |  | 0.0% |
+| 54 min | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 724.6B |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
@@ -51,10 +51,10 @@
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 3.62% | 3.58% |
 | 12:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 6.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Dec) |  |  | 0.90% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
-| 12:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 57.727K |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 26.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 57.727K |
 | 13:10 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) |  |  | 8.10% |
 | 13:10 | ZAR | Low | Total Vehicle Sales (Dec) |  |  | 48.59K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,844K |
@@ -77,4 +77,3 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -0.8% | -1.3% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | -0.9% | 2.9% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,239.0B |

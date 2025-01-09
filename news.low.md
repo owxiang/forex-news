@@ -7,11 +7,11 @@
 | 00:30 | AUD | Imports (MoM) (Nov) | 1.7% |  | -0.1% |
 | 03:00 | IDR | Consumer Confidence (Dec) | 127.7 |  | 125.9 |
 | 03:35 | JPY | 30-Year JGB Auction | 2.304% |  | 2.287% |
-| 52 min | EUR | German Exports (MoM) (Nov) |  | 2.0% | -2.8% |
-| 52 min | EUR | German Imports (MoM) (Nov) |  | 0.7% | -0.1% |
-| 52 min | EUR | German Industrial Production (YoY) (Nov) |  |  | -4.75% |
-| 52 min | NOK | PPI (YoY) (Dec) |  |  | 0.0% |
-| 08:00 | CHF | Foreign Reserves (USD) (Dec) |  |  | 724,555.0B |
+| 07:00 | EUR | German Exports (MoM) (Nov) | 2.1% | 2.0% | -2.9% |
+| 07:00 | EUR | German Imports (MoM) (Nov) | -3.3% | 0.7% | -0.3% |
+| 07:00 | EUR | German Industrial Production (YoY) (Nov) | -2.80% |  | -4.75% |
+| 07:00 | NOK | PPI (YoY) (Dec) | 9.3% |  | 0.0% |
+| 54 min | CHF | Foreign Reserves (USD) (Dec) |  |  | 724.6B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
@@ -41,8 +41,8 @@
 | 12:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 3.62% | 3.58% |
 | 12:00 | MXN | PPI (YoY) (Dec) |  |  | 6.40% |
 | 12:00 | MXN | PPI (MoM) (Dec) |  |  | 0.90% |
-| 12:30 | USD | Challenger Job Cuts (Dec) |  |  | 57.727K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 26.8% |
+| 12:30 | USD | Challenger Job Cuts (Dec) |  |  | 57.727K |
 | 13:10 | ZAR | Total Vehicle Sales (YoY) (Dec) |  |  | 8.10% |
 | 13:10 | ZAR | Total Vehicle Sales (Dec) |  |  | 48.59K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
@@ -56,4 +56,3 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 17:40 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
-| 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,239.0B |
