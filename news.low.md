@@ -1,57 +1,60 @@
-## 08 January 2025 - Low Impact Forex News
+## 09 January 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 0.2% |  | 2.9% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Nov) | 2.30% | 2.20% | 2.10% |
-| 03:00 | IDR | FX Reserves (USD) (Dec) | 155.70B |  | 150.20B |
-| 05:00 | JPY | Household Confidence (Dec) | 36.2 | 36.6 | 36.4 |
-| 06:00 | ZAR | Foreign Reserves (USD) (Dec) | 65.46B |  | 65.86B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Dec) | 60.371B |  | 60.619B |
-| 07:00 | EUR | German Retail Sales (YoY) (Nov) | 2.5% | 1.9% | 5.1% |
-| 07:30 | ZAR | Total Vehicle Sales (YoY) (Dec) | 2.50% |  | 8.10% |
-| 07:30 | ZAR | Total Vehicle Sales (Dec) | 41.27K |  | 48.56K |
-| 07:45 | EUR | French Consumer Confidence (Dec) | 89 | 89 | 90 |
-| 07:45 | EUR | French Current Account (Nov) | -1.70B |  | -1.90B |
-| 07:45 | EUR | French Exports (Nov) | 50.1B |  | 48.7B |
-| 07:45 | EUR | French Imports (Nov) | 57.2B |  | 56.2B |
-| 07:45 | EUR | French Trade Balance (Nov) | -7.1B | -7.0B | -7.5B |
-| 09:00 | ZAR | Manufacturing PMI (Dec) | 46.2 |  | 48.1 |
-| 10:00 | EUR | Business and Consumer Survey (Dec) | 93.7 | 95.6 | 95.6 |
-| 10:00 | EUR | Business Climate (Dec) | -0.91 |  | -0.78 |
-| 10:00 | EUR | Consumer Confidence (Dec) | -14.5 | -14.5 | -13.7 |
-| 10:00 | EUR | Consumer Inflation Expectation (Dec) | 21.0 |  | 17.8 |
-| 10:00 | EUR | Selling Price Expectations (Dec) | 7.6 |  | 7.1 |
-| 10:00 | EUR | Services Sentiment (Dec) | 5.9 | 5.8 | 5.3 |
-| 10:00 | EUR | Industrial Sentiment (Dec) | -14.1 | -11.7 | -11.4 |
-| 10:00 | EUR | PPI (MoM) (Nov) | 1.6% | 1.5% | 0.4% |
-| 10:00 | EUR | PPI (YoY) (Nov) | -1.2% | -1.3% | -3.3% |
-| 10:20 | GBP | 5-Year Treasury Gilt Auction | 4.490% |  | 4.348% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.99% |  | 6.97% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -3.7% |  | -12.6% |
-| 12:00 | USD | MBA Purchase Index | 127.7 |  | 136.7 |
-| 12:00 | USD | Mortgage Market Index | 168.4 |  | 174.9 |
-| 12:00 | USD | Mortgage Refinance Index | 401.1 |  | 395.1 |
-| 12:00 | BRL | Industrial Production (MoM) (Nov) | -0.6% | -0.5% | -0.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 213.00K |  | 223.25K |
-| 15:00 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | -0.2% | -0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) | 0.6% |  | -0.3% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.045M |  | 0.041M |
-| 15:30 | USD | Crude Oil Imports | 0.278M |  | 0.323M |
-| 15:30 | USD | Distillate Fuel Production | -0.167M |  | 0.099M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 6.071M | 0.500M | 6.406M |
-| 15:30 | USD | Gasoline Production | -0.081M |  | -0.959M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.632M |  | -0.416M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | 0.2% |
-| 15:30 | USD | Gasoline Inventories | 6.330M | 0.500M | 7.717M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jan) | 54.43 |  | 57.59 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 45.47 |  | 48.24 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.27 |  | 56.16 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 51.16 |  | 51.86 |
-| 17:00 | USD | Natural Gas Storage | -40B | -39B | -116B |
-| 17:30 | BRL | Foreign Exchange Flows | -5.602B |  | -5.890B |
-| 24 min | JPY | Average Cash Earnings (YoY) |  | 2.7% | 1.9% |
-| 24 min | JPY | Overall wage income of employees (Nov) |  |  | 2.6% |
-| 24 min | JPY | Overtime Pay (YoY) (Nov) |  |  | 1.40% |
-| 39 min | JPY | Foreign Bonds Buying |  |  | -919.2B |
-| 39 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,022.6B |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | -1.0% | -0.4% | -0.6% |
+| 4 min | AUD | Exports (MoM) (Nov) |  |  | 3.6% |
+| 4 min | AUD | Imports (MoM) (Nov) |  |  | 0.1% |
+| 03:25 | JPY | 30-Year JGB Auction |  |  | 2.287% |
+| 03:25 | IDR | Consumer Confidence (Dec) |  |  | 125.9 |
+| 05:00 | IDR | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
+| 07:00 | EUR | German Exports (MoM) (Nov) |  | 2.0% | -2.8% |
+| 07:00 | EUR | German Imports (MoM) (Nov) |  | 0.7% | -0.1% |
+| 07:00 | EUR | German Industrial Production (YoY) (Nov) |  |  | -4.75% |
+| 07:00 | NOK | PPI (YoY) (Dec) |  |  | 0.0% |
+| 08:00 | CHF | Foreign Reserves (USD) (Dec) |  |  | 724,555.0B |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) |  |  | -0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 2.2% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 1.9% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | 1.9% |
+| 09:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
+| 09:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.277% |
+| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.646% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.24% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.78% |
+| 10:00 | EUR | Retail Sales (MoM) (Nov) |  | 0.3% | -0.5% |
+| 10:00 | EUR | Retail Sales (YoY) (Nov) |  |  | 1.9% |
+| 10:30 | EUR | Italian 12-Month BOT Auction |  |  | 2.411% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.1 |
+| 11:00 | USD | NFIB Small Business Optimism (Dec) |  |  | 101.7 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 44.97 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 42.48 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 38.51 |
+| 11:00 | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.46 |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Nov) |  |  | 0.4% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Nov) |  |  | 0.8% |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.29 |
+| 12:00 | MXN | Core CPI (MoM) (Dec) |  | 0.42% | 0.05% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 3.56% | 3.58% |
+| 12:00 | MXN | PPI (YoY) (Dec) |  |  | 6.40% |
+| 12:00 | MXN | PPI (MoM) (Dec) |  |  | 0.90% |
+| 12:30 | USD | Challenger Job Cuts (Dec) |  |  | 57.727K |
+| 13:10 | ZAR | Total Vehicle Sales (YoY) (Dec) |  |  | 8.10% |
+| 13:10 | ZAR | Total Vehicle Sales (Dec) |  |  | 48.59K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.25K |
+| 14:00 | INR | M3 Money Supply |  |  | 10.7% |
+| 14:00 | EUR | Spanish Business Confidence (Dec) |  |  | -4.9 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
+| 15:30 | USD | Natural Gas Storage |  |  | -116B |
+| 16:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.265% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
+| 17:40 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
+| 23:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,239.0B |
