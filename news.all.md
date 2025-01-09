@@ -48,18 +48,17 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -2.6% |  | 0.9% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 48.29 |  | 49.29 |
 | 12:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.51% | 0.45% | 0.05% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.38% | 0.40% | 0.44% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Dec) | 4.21% | 4.28% | 4.55% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.38% | 0.40% | 0.44% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Dec) | 3.65% | 3.62% | 3.58% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) | 4.7% | 3.8% | 6.5% |
+| 12:00 | MXN | Low | PPI (MoM) (Dec) | 0.80% |  | 0.90% |
+| 12:00 | MXN | Low | PPI (YoY) (Dec) | 7.50% |  | 6.40% |
+| 12:00 | INR | Low | M3 Money Supply | 9.3% |  | 10.7% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) | 4.7% | 3.8% | 6.7% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) | -0.4% | 0.1% | 0.4% |
-| 20 min | USD | Low | Challenger Job Cuts (Dec) |  |  | 57.727K |
-| 20 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 26.8% |
-| 20 min | MXN | Low | PPI (MoM) (Dec) |  |  | 0.90% |
-| 20 min | MXN | Low | PPI (YoY) (Dec) |  |  | 6.40% |
-| 50 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.411% |
-| 14:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 14:00 | INR | Low | M3 Money Supply |  |  | 10.7% |
+| 12:30 | USD | Low | Challenger Job Cuts (Dec) | 38.792K |  | 57.727K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 11.4% |  | 26.8% |
+| 50 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
@@ -72,5 +71,5 @@
 | 18:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,852B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | -0.9% | 2.9% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -0.8% | -1.3% |
+| 23:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | -0.9% | 2.9% |

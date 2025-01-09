@@ -41,12 +41,11 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 48.29 |  | 49.29 |
 | 12:00 | MXN | Core CPI (MoM) (Dec) | 0.51% | 0.45% | 0.05% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Dec) | 3.65% | 3.62% | 3.58% |
-| 20 min | USD | Challenger Job Cuts (Dec) |  |  | 57.727K |
-| 20 min | USD | Challenger Job Cuts (YoY) |  |  | 26.8% |
-| 20 min | MXN | PPI (MoM) (Dec) |  |  | 0.90% |
-| 20 min | MXN | PPI (YoY) (Dec) |  |  | 6.40% |
-| 50 min | EUR | Italian 12-Month BOT Auction |  |  | 2.411% |
-| 14:00 | INR | M3 Money Supply |  |  | 10.7% |
+| 12:00 | MXN | PPI (MoM) (Dec) | 0.80% |  | 0.90% |
+| 12:00 | MXN | PPI (YoY) (Dec) | 7.50% |  | 6.40% |
+| 12:00 | INR | M3 Money Supply | 9.3% |  | 10.7% |
+| 12:30 | USD | Challenger Job Cuts (Dec) | 38.792K |  | 57.727K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 11.4% |  | 26.8% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
 | 15:30 | USD | Natural Gas Storage |  |  | -116B |
