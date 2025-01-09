@@ -21,12 +21,12 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Dec) | 731.0B |  | 724.7B |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) | 0.5% |  | -0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) | 2.6% |  | 2.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) | 0.5% |  | -0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) | 3.0% |  | 2.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) | 2.4% |  | 1.9% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) | 0.5% |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.4% |  | 2.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) | 2.4% |  | 1.9% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 0.4% |  | -0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.4% |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) | 0.5% |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) | 2.5% |  | 1.9% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) | 3.2% |  | 2.9% |
@@ -44,25 +44,25 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) | 40.47 |  | 38.51 |
 | 11:00 | EUR | Low | Spanish Business Confidence (Dec) | -4.6 |  | -5.1 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.45 |  | 49.46 |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 0.8% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -2.6% |  | 0.9% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 0.8% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 48.29 |  | 49.29 |
 | 12:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.51% | 0.45% | 0.05% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Dec) | 4.21% | 4.28% | 4.55% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.38% | 0.40% | 0.44% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Dec) | 4.21% | 4.28% | 4.55% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Dec) | 3.65% | 3.62% | 3.58% |
-| 12:00 | MXN | Low | PPI (YoY) (Dec) | 7.50% |  | 6.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Dec) | 0.80% |  | 0.90% |
+| 12:00 | MXN | Low | PPI (YoY) (Dec) | 7.50% |  | 6.40% |
 | 12:00 | INR | Low | M3 Money Supply | 9.3% |  | 10.7% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) | -0.4% | 0.1% | 0.4% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) | 4.7% | 3.8% | 6.7% |
-| 12:30 | USD | Low | Challenger Job Cuts (Dec) | 38.792K |  | 57.727K |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) | -0.4% | 0.1% | 0.4% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 11.4% |  | 26.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Dec) | 38.792K |  | 57.727K |
 | 14:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 54 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.265% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
+| 16:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.265% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
 | 17:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 18:35 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
