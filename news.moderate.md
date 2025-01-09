@@ -10,10 +10,10 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Nov) | 1.5% | 0.5% | -0.4% |
 | 07:00 | EUR | German Trade Balance (Nov) | 19.7B | 14.7B | 13.4B |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 54 min | MXN | CPI (MoM) (Dec) |  | 0.40% | 0.44% |
-| 54 min | MXN | CPI (YoY) (Dec) |  | 4.28% | 4.55% |
-| 54 min | BRL | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
-| 54 min | BRL | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
+| 12:00 | MXN | CPI (MoM) (Dec) | 0.38% | 0.40% | 0.44% |
+| 12:00 | MXN | CPI (YoY) (Dec) | 4.21% | 4.28% | 4.55% |
+| 12:00 | BRL | Retail Sales (YoY) (Nov) | 4.7% | 3.8% | 6.5% |
+| 12:00 | BRL | Retail Sales (MoM) (Nov) | -0.4% | 0.1% | 0.4% |
 | 14:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |

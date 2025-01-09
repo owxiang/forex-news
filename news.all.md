@@ -21,44 +21,43 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Dec) | 731.0B |  | 724.7B |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Dec) | 0.5% |  | -0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) | 2.6% |  | 2.2% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) | 3.0% |  | 2.4% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) | 0.5% |  | -0.2% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) | 3.0% |  | 2.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) | 2.4% |  | 1.9% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 0.4% |  | -0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 2.4% |  | 2.0% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) | 2.5% |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) | 0.5% |  | 1.9% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) | 3.2% |  | 2.9% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) | 2.5% |  | 1.9% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Dec) | 0.5% |  | -0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) | 3.2% |  | 2.9% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.586% |  | 2.277% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.897% |  | 2.646% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.40% |  | 3.24% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.93% |  | 3.78% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Nov) | 1.2% |  | 2.1% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Nov) | 0.1% | 0.3% | -0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Nov) | 1.2% |  | 2.1% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) | 50.4 |  | 47.1 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jan) | 45.11 |  | 44.97 |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jan) | 45.78 |  | 42.48 |
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) | 40.47 |  | 38.51 |
-| 11:00 | EUR | Low | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
 | 11:00 | EUR | Low | Spanish Business Confidence (Dec) | -4.6 |  | -5.1 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.45 |  | 49.46 |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -2.6% |  | 0.9% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | -1.1% |  | 0.8% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | -2.6% |  | 0.9% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 48.29 |  | 49.29 |
-| 54 min | MXN | Low | Core CPI (MoM) (Dec) |  | 0.45% | 0.05% |
-| 54 min | MXN | Moderate | CPI (MoM) (Dec) |  | 0.40% | 0.44% |
-| 54 min | MXN | Moderate | CPI (YoY) (Dec) |  | 4.28% | 4.55% |
-| 54 min | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 3.62% | 3.58% |
-| 54 min | MXN | Low | PPI (MoM) (Dec) |  |  | 0.90% |
-| 54 min | MXN | Low | PPI (YoY) (Dec) |  |  | 6.40% |
-| 54 min | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
-| 54 min | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 26.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 57.727K |
-| 13:00 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.411% |
+| 12:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.51% | 0.45% | 0.05% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.38% | 0.40% | 0.44% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Dec) | 4.21% | 4.28% | 4.55% |
+| 12:00 | MXN | Low | Month Core Inflation (MoM) (Dec) | 3.65% | 3.62% | 3.58% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) | 4.7% | 3.8% | 6.5% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) | -0.4% | 0.1% | 0.4% |
+| 20 min | USD | Low | Challenger Job Cuts (Dec) |  |  | 57.727K |
+| 20 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 26.8% |
+| 20 min | MXN | Low | PPI (MoM) (Dec) |  |  | 0.90% |
+| 20 min | MXN | Low | PPI (YoY) (Dec) |  |  | 6.40% |
+| 50 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.411% |
 | 14:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 14:00 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
