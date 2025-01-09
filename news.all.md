@@ -11,8 +11,8 @@
 | 01:30 | CNY | Moderate | CPI (YoY) (Dec) | 0.1% | 0.1% | 0.2% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Dec) | -2.3% | -2.3% | -2.5% |
 | 03:00 | IDR | Low | Consumer Confidence (Dec) | 127.7 |  | 125.9 |
-| 3 min | JPY | Low | 30-Year JGB Auction |  |  | 2.287% |
-| 05:00 | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
+| 03:35 | JPY | Low | 30-Year JGB Auction | 2.304% |  | 2.287% |
+| 53 min | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
 | 07:00 | EUR | Low | German Exports (MoM) (Nov) |  | 2.0% | -2.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Nov) |  | 0.7% | -0.1% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Nov) |  | 0.5% | -1.0% |
@@ -25,10 +25,10 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) |  |  | -0.2% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) |  |  | 1.9% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 1.9% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Dec) |  |  | -0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Dec) |  |  | 2.9% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.277% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.646% |
@@ -44,20 +44,20 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 38.51 |
 | 11:00 | EUR | Low | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.46 |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) |  |  | 0.4% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) |  |  | 0.8% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) |  |  | 0.4% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.29 |
 | 12:00 | MXN | Low | Core CPI (MoM) (Dec) |  | 0.42% | 0.05% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.50% | 0.44% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Dec) |  | 4.35% | 4.55% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 3.56% | 3.58% |
-| 12:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 6.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Dec) |  |  | 0.90% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
+| 12:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 6.40% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
 | 12:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 57.727K |
-| 13:10 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) |  |  | 8.10% |
 | 13:10 | ZAR | Low | Total Vehicle Sales (Dec) |  |  | 48.59K |
+| 13:10 | ZAR | Low | Total Vehicle Sales (YoY) (Dec) |  |  | 8.10% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,844K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 210K | 211K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.25K |

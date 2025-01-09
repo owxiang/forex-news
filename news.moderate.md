@@ -12,8 +12,8 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 12:00 | MXN | CPI (MoM) (Dec) |  | 0.50% | 0.44% |
 | 12:00 | MXN | CPI (YoY) (Dec) |  | 4.35% | 4.55% |
-| 12:00 | BRL | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
 | 12:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.1% | 0.4% |
+| 12:00 | BRL | Retail Sales (YoY) (Nov) |  | 3.8% | 6.5% |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,844K |
 | 14:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
