@@ -16,14 +16,14 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) | 2.6% |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 3.0% |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Dec) | 0.5% |  | -0.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Dec) | 2.4% |  | 1.9% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Dec) | 0.4% |  | -0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Dec) | 2.4% |  | 2.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) | 0.5% |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) | 2.5% |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (YoY) (Dec) | 3.2% |  | 2.9% |
 | 09:00 | EUR | Saxony CPI (MoM) (Dec) | 0.5% |  | -0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Dec) | 3.2% |  | 2.9% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.586% |  | 2.277% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 2.897% |  | 2.646% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.40% |  | 3.24% |
@@ -36,8 +36,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) | 40.47 |  | 38.51 |
 | 11:00 | EUR | Spanish Business Confidence (Dec) | -4.6 |  | -5.1 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.45 |  | 49.46 |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Nov) | -2.6% |  | 0.9% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Nov) | -1.1% |  | 0.8% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Nov) | -2.6% |  | 0.9% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 48.29 |  | 49.29 |
 | 12:00 | MXN | Core CPI (MoM) (Dec) | 0.51% | 0.45% | 0.05% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Dec) | 3.65% | 3.62% | 3.58% |
@@ -47,7 +47,7 @@
 | 12:30 | USD | Challenger Job Cuts (YoY) | 11.4% |  | 26.8% |
 | 12:30 | USD | Challenger Job Cuts (Dec) | 38.792K |  | 57.727K |
 | 16:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.265% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.240% |
-| 17:40 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction | 4.245% |  | 4.265% |
+| 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.240% |
+| 34 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
