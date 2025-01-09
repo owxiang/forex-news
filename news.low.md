@@ -12,24 +12,24 @@
 | 07:00 | EUR | German Industrial Production (YoY) (Nov) | -2.85% |  | -4.22% |
 | 07:00 | NOK | PPI (YoY) (Dec) | 9.3% |  | 0.0% |
 | 08:00 | CHF | Foreign Reserves (USD) (Dec) | 731.0B |  | 724.7B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) | 2.6% |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Dec) | 0.5% |  | -0.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 3.0% |  | 2.4% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) | 2.6% |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Dec) | 0.5% |  | -0.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 3.0% |  | 2.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Dec) | 2.4% |  | 1.9% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Dec) | 0.4% |  | -0.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Dec) | 2.4% |  | 2.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Dec) | 0.4% |  | -0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) | 2.5% |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) | 0.5% |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Dec) | 2.5% |  | 1.9% |
 | 09:00 | EUR | Saxony CPI (YoY) (Dec) | 3.2% |  | 2.9% |
 | 09:00 | EUR | Saxony CPI (MoM) (Dec) | 0.5% |  | -0.2% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.586% |  | 2.277% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 2.897% |  | 2.646% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.40% |  | 3.24% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.93% |  | 3.78% |
-| 10:00 | EUR | Retail Sales (YoY) (Nov) | 1.2% |  | 2.1% |
 | 10:00 | EUR | Retail Sales (MoM) (Nov) | 0.1% | 0.3% | -0.3% |
+| 10:00 | EUR | Retail Sales (YoY) (Nov) | 1.2% |  | 2.1% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) | 50.4 |  | 47.1 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) | 45.11 |  | 44.97 |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) | 45.78 |  | 42.48 |
@@ -44,12 +44,9 @@
 | 12:00 | MXN | PPI (YoY) (Dec) | 7.50% |  | 6.40% |
 | 12:00 | MXN | PPI (MoM) (Dec) | 0.80% |  | 0.90% |
 | 12:00 | INR | M3 Money Supply | 9.3% |  | 10.7% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 11.4% |  | 26.8% |
 | 12:30 | USD | Challenger Job Cuts (Dec) | 38.792K |  | 57.727K |
-| 54 min | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.2% |
-| 54 min | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -0.1% |
-| 15:30 | USD | Natural Gas Storage |  |  | -116B |
-| 16:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 11.4% |  | 26.8% |
+| 54 min | GBP | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.265% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 17:40 | USD | FOMC Member Barkin Speaks |  |  |  |
