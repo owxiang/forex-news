@@ -21,8 +21,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) | 0.3% | 0.1% | -0.3% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.2% | -0.1% | -0.3% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) | -0.4% |  | 1.5% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.1% |  | 2.6% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | -0.4% | 0.2% | -0.5% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.1% |  | 2.6% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.517% |  | 2.411% |
 | 10:30 | INR | Low | Cumulative Industrial Production (Nov) | 4.10% |  | 4.00% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Nov) | 5.2% | 4.0% | 3.7% |
@@ -36,8 +36,8 @@
 | 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.44% |  | 0.33% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Nov) | 24.1B |  | 13.7B |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) | 3.9% | 4.0% | 4.0% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Dec) | 34.3 | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Dec) | 33.0K |  | 30.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Dec) | -13K | 5K | 25K |
@@ -61,25 +61,8 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 480 |  | 482 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 584 |  | 589 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 20.8K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 0.8K |
 | 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 290.5K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 254.3K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 247.3K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 23.9K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -118.1K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -56.8K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 37.9K |
 | 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -69.9K |
 | 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -76.5K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -175.7K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 20.7K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -32.8K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -71.4K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -25.6K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -8.4K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -48.3K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -69.6K |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,854B |  | 6,852B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.332T |  | 2.892T |

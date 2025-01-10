@@ -20,8 +20,8 @@
 | 07:00 | NOK | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Nov) | 0.2% | -0.1% | -0.3% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) | -0.4% |  | 1.5% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.1% |  | 2.6% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Nov) | -0.4% | 0.2% | -0.5% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.1% |  | 2.6% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.517% |  | 2.411% |
 | 10:30 | INR | Cumulative Industrial Production (Nov) | 4.10% |  | 4.00% |
 | 10:30 | INR | Industrial Production (YoY) (Nov) | 5.2% | 4.0% | 3.7% |
@@ -42,15 +42,7 @@
 | 13:30 | CAD | Part Time Employment Change (Dec) | 33.5K |  | -3.6K |
 | 13:30 | CAD | Participation Rate (Dec) | 65.1% |  | 65.1% |
 | 15:00 | USD | Michigan Current Conditions (Jan) | 77.9 |  | 75.1 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 0.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 290.5K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -118.1K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 37.9K |
 | 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -69.9K |
 | 20:30 | USD | CFTC Wheat speculative net positions |  |  | -76.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -175.7K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 20.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -48.3K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.332T |  | 2.892T |
