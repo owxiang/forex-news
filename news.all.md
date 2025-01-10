@@ -2,29 +2,29 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 26 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 37.97 |
-| 26 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 60.29 |
-| 26 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.24 |
-| 26 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 38.49 |
-| 26 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 69.54 |
-| 03:00 | IDR | Low | Car Sales (YoY) (Dec) |  |  | -11.90% |
-| 03:00 | IDR | Low | Retail Sales (YoY) (Nov) |  |  | 1.5% |
+| 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 36.12 |  | 37.97 |
+| 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 59.98 |  | 60.29 |
+| 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 50.90 |  | 49.24 |
+| 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) | 38.26 |  | 38.49 |
+| 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) | 70.96 |  | 69.54 |
+| 31 min | IDR | Low | Car Sales (YoY) (Dec) |  |  | -11.90% |
+| 31 min | IDR | Low | Motorbike Sales (YoY) (Dec) | -5.50% |  | -10.30% |
+| 31 min | IDR | Low | Retail Sales (YoY) (Nov) |  |  | 1.5% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  |  | 2.8% |
-| 05:00 | JPY | Low | Leading Index |  | 107.2 | 109.1 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) |  |  | 0.2% |
-| 05:00 | IDR | Low | Motorbike Sales (YoY) (Dec) |  |  | -10.30% |
+| 05:00 | JPY | Low | Leading Index |  | 107.2 | 109.1 |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.6% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.7% | 2.6% |
 | 07:00 | NOK | Low | Core CPI YTD (Dec) |  | 2.8% | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Dec) |  | 0.0% | 0.1% |
-| 07:00 | NOK | Low | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:00 | NOK | Low | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
+| 07:00 | NOK | Low | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | 0.1% | -0.4% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  |  | -37 |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
 | 09:40 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
 | 09:40 | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
 | 09:40 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
@@ -37,8 +37,8 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 640.28B |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Nov) |  | 0.0% | -1.2% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Dec) |  |  | 4.87% |
 | 12:00 | BRL | Low | CPI (MoM) (Dec) |  |  | 0.39% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Dec) |  |  | 4.87% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.33% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 12.5B |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
