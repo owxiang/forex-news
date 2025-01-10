@@ -9,14 +9,14 @@
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) | 70.96 |  | 69.54 |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Nov) | 0.9% |  | 1.5% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.5% |  | 2.8% |
-| 05:00 | JPY | Low | Leading Index | 107.0 | 107.2 | 109.1 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -2.1% |  | 0.2% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.6% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.7% | 2.6% |
-| 07:00 | NOK | Low | Core CPI YTD (Dec) |  | 2.8% | 3.0% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Dec) |  | 0.0% | 0.1% |
-| 07:00 | NOK | Low | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
-| 07:00 | NOK | Low | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
+| 05:00 | JPY | Low | Leading Index | 107.0 | 107.2 | 109.1 |
+| 37 min | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.6% |
+| 37 min | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.7% | 2.6% |
+| 52 min | NOK | Low | Core CPI YTD (Dec) |  | 2.8% | 3.0% |
+| 52 min | NOK | Low | Core Inflation (MoM) (Dec) |  | 0.0% | 0.1% |
+| 52 min | NOK | Low | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
+| 52 min | NOK | Low | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | 0.1% | -0.4% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  |  | -37 |
@@ -33,8 +33,8 @@
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 11.5% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 640.28B |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Nov) |  | 0.0% | -1.2% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Dec) |  |  | 4.87% |
 | 12:00 | BRL | Low | CPI (MoM) (Dec) |  |  | 0.39% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.33% |
@@ -86,5 +86,5 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -8.4K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -48.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -69.6K |
-| 22:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,852B |
-| 22:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,852B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |

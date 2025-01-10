@@ -29,4 +29,4 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | -25.6K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | -8.4K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | -69.6K |
-| 22:30 | USD | Fed's Balance Sheet |  |  | 6,852B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,852B |
