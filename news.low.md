@@ -8,17 +8,17 @@
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) | 38.26 |  | 38.49 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) | 70.96 |  | 69.54 |
 | 03:00 | IDR | Motorbike Sales (YoY) (Dec) | -5.50% |  | -10.30% |
-| 48 min | IDR | Car Sales (YoY) (Dec) |  |  | -11.90% |
-| 48 min | IDR | Retail Sales (YoY) (Nov) |  |  | 1.5% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Nov) |  |  | 2.8% |
-| 05:00 | JPY | Leading Index (MoM) (Nov) |  |  | 0.2% |
-| 05:00 | JPY | Leading Index |  | 107.2 | 109.1 |
+| 03:00 | IDR | Retail Sales (YoY) (Nov) | 0.9% |  | 1.5% |
+| 04:00 | IDR | Car Sales (YoY) (Dec) |  |  | -11.90% |
+| 53 min | JPY | Coincident Indicator (MoM) (Nov) |  |  | 2.8% |
+| 53 min | JPY | Leading Index (MoM) (Nov) |  |  | 0.2% |
+| 53 min | JPY | Leading Index |  | 107.2 | 109.1 |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.6% |
 | 06:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.7% | 2.6% |
 | 07:00 | NOK | Core CPI YTD (Dec) |  | 2.8% | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Dec) |  | 0.0% | 0.1% |
-| 07:00 | NOK | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:00 | NOK | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
+| 07:00 | NOK | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:45 | EUR | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
