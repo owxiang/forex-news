@@ -32,12 +32,12 @@
 | 11:30 | INR | Low | FX Reserves, USD | 634.59B |  | 640.28B |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Nov) | -1.4% | -1.4% | -2.1% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Nov) | 0.1% | 0.0% | -1.1% |
-| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Dec) | 4.83% |  | 4.87% |
+| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.44% |  | 0.33% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Nov) | 24.1B |  | 13.7B |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) | 3.9% | 4.0% | 4.0% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) | 3.9% | 4.0% | 4.0% |
 | 13:30 | USD | Low | Average Weekly Hours (Dec) | 34.3 | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Dec) | 33.0K |  | 30.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Dec) | -13K | 5K | 25K |
@@ -58,9 +58,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 70.2 |  | 73.3 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 73.2 | 74.0 | 74.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jan) | 77.9 |  | 75.1 |
-| 54 min | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 589 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 20.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 0.8K |
