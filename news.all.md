@@ -32,8 +32,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 634.59B |  | 640.28B |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Nov) | -1.4% | -1.4% | -2.1% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Nov) | 0.1% | 0.0% | -1.1% |
-| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Dec) | 4.83% |  | 4.87% |
+| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.44% |  | 0.33% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Nov) | 24.1B |  | 13.7B |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
@@ -81,5 +81,5 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -8.4K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -48.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -69.6K |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,852B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,854B |  | 6,852B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.332T |  | 2.892T |

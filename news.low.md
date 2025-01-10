@@ -53,4 +53,4 @@
 | 20:30 | MXN | CFTC MXN speculative net positions |  |  | 20.7K |
 | 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.8K |
 | 20:30 | NZD | CFTC NZD speculative net positions |  |  | -48.3K |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 2.892T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.332T |  | 2.892T |
