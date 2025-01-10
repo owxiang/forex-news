@@ -7,9 +7,9 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 50.90 |  | 49.24 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) | 38.26 |  | 38.49 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) | 70.96 |  | 69.54 |
-| 31 min | IDR | Car Sales (YoY) (Dec) |  |  | -11.90% |
-| 31 min | IDR | Motorbike Sales (YoY) (Dec) | -5.50% |  | -10.30% |
-| 31 min | IDR | Retail Sales (YoY) (Nov) |  |  | 1.5% |
+| 03:00 | IDR | Motorbike Sales (YoY) (Dec) | -5.50% |  | -10.30% |
+| 48 min | IDR | Car Sales (YoY) (Dec) |  |  | -11.90% |
+| 48 min | IDR | Retail Sales (YoY) (Nov) |  |  | 1.5% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Nov) |  |  | 2.8% |
 | 05:00 | JPY | Leading Index (MoM) (Nov) |  |  | 0.2% |
 | 05:00 | JPY | Leading Index |  | 107.2 | 109.1 |
@@ -17,12 +17,12 @@
 | 06:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.7% | 2.6% |
 | 07:00 | NOK | Core CPI YTD (Dec) |  | 2.8% | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Dec) |  | 0.0% | 0.1% |
-| 07:00 | NOK | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
 | 07:00 | NOK | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
+| 07:00 | NOK | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
 | 09:40 | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
 | 09:40 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
 | 09:40 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
@@ -32,8 +32,8 @@
 | 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Deposit Growth |  |  | 11.5% |
 | 11:30 | INR | FX Reserves, USD |  |  | 640.28B |
-| 12:00 | MXN | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
 | 12:00 | MXN | Industrial Production (MoM) (Nov) |  | 0.0% | -1.2% |
+| 12:00 | MXN | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
 | 12:00 | BRL | CPI (MoM) (Dec) |  |  | 0.39% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.33% |
 | 13:00 | EUR | German Current Account Balance n.s.a (Nov) |  |  | 12.5B |
