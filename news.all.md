@@ -16,18 +16,17 @@
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Dec) | 2.6% | 2.7% | 2.6% |
 | 07:00 | NOK | Low | Core CPI YTD (Dec) | 2.7% | 2.8% | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Dec) | -0.1% | 0.0% | 0.1% |
-| 07:00 | NOK | Low | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
 | 07:00 | NOK | Low | CPI (MoM) (Dec) | -0.1% | 0.1% | 0.3% |
-| 39 min | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | 0.1% | -0.4% |
-| 39 min | EUR | Low | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
-| 54 min | CHF | Moderate | SECO Consumer Climate |  |  | -37 |
-| 54 min | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
-| 09:40 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 09:40 | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
-| 09:40 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 09:40 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
+| 07:00 | NOK | Low | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) | 0.3% | 0.1% | -0.3% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.2% | -0.1% | -0.3% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) | -0.4% |  | 1.5% |
+| 52 min | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
+| 52 min | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
+| 10:00 | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
 | 10:30 | INR | Low | Cumulative Industrial Production (Nov) |  |  | 4.00% |
 | 10:30 | INR | Low | Industrial Production (YoY) (Nov) |  | 4.0% | 3.5% |
 | 10:30 | INR | Low | Manufacturing Output (MoM) (Nov) |  |  | 4.1% |

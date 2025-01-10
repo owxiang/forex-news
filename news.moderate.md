@@ -2,9 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | EUR | French Consumer Spending (MoM) (Nov) |  | 0.1% | -0.4% |
-| 54 min | CHF | SECO Consumer Climate |  |  | -37 |
-| 09:40 | CNY | New Loans (Dec) |  | 890.0B | 580.0B |
+| 07:45 | EUR | French Consumer Spending (MoM) (Nov) | 0.3% | 0.1% | -0.3% |
+| 10:00 | CNY | New Loans (Dec) |  | 890.0B | 580.0B |
 | 12:00 | BRL | CPI (YoY) (Dec) |  |  | 4.87% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
 | 13:30 | USD | Participation Rate (Dec) |  |  | 62.5% |

@@ -16,15 +16,15 @@
 | 06:45 | CHF | Unemployment Rate s.a. (Dec) | 2.6% | 2.7% | 2.6% |
 | 07:00 | NOK | Core CPI YTD (Dec) | 2.7% | 2.8% | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Dec) | -0.1% | 0.0% | 0.1% |
-| 07:00 | NOK | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
 | 07:00 | NOK | CPI (MoM) (Dec) | -0.1% | 0.1% | 0.3% |
-| 39 min | EUR | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
-| 54 min | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
-| 09:40 | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 09:40 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 09:40 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
+| 07:00 | NOK | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
+| 07:45 | EUR | French Industrial Production (MoM) (Nov) | 0.2% | -0.1% | -0.3% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) | -0.4% |  | 1.5% |
+| 52 min | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
+| 52 min | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
+| 10:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
 | 10:30 | INR | Cumulative Industrial Production (Nov) |  |  | 4.00% |
 | 10:30 | INR | Industrial Production (YoY) (Nov) |  | 4.0% | 3.5% |
 | 10:30 | INR | Manufacturing Output (MoM) (Nov) |  |  | 4.1% |
