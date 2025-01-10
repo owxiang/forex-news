@@ -8,19 +8,20 @@
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) | 38.26 |  | 38.49 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) | 70.96 |  | 69.54 |
 | 03:00 | IDR | Low | Retail Sales (YoY) (Nov) | 0.9% |  | 1.5% |
+| 04:00 | IDR | Low | Car Sales (YoY) (Dec) | -6.40% |  | -11.90% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.5% |  | 2.8% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -2.1% |  | 0.2% |
 | 05:00 | JPY | Low | Leading Index | 107.0 | 107.2 | 109.1 |
-| 37 min | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.6% |
-| 37 min | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.7% | 2.6% |
-| 52 min | NOK | Low | Core CPI YTD (Dec) |  | 2.8% | 3.0% |
-| 52 min | NOK | Low | Core Inflation (MoM) (Dec) |  | 0.0% | 0.1% |
-| 52 min | NOK | Low | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
-| 52 min | NOK | Low | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | 0.1% | -0.4% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate |  |  | -37 |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Dec) | 2.8% |  | 2.6% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Dec) | 2.6% | 2.7% | 2.6% |
+| 07:00 | NOK | Low | Core CPI YTD (Dec) | 2.7% | 2.8% | 3.0% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Dec) | -0.1% | 0.0% | 0.1% |
+| 07:00 | NOK | Low | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
+| 07:00 | NOK | Low | CPI (MoM) (Dec) | -0.1% | 0.1% | 0.3% |
+| 39 min | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | 0.1% | -0.4% |
+| 39 min | EUR | Low | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
+| 54 min | CHF | Moderate | SECO Consumer Climate |  |  | -37 |
+| 54 min | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
 | 09:40 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
