@@ -33,17 +33,14 @@
 | 12:00 | MXN | Industrial Production (MoM) (Nov) | 0.1% | 0.0% | -1.1% |
 | 12:00 | BRL | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.44% |  | 0.33% |
-| 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 20 min | USD | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
-| 20 min | USD | Government Payrolls (Dec) |  |  | 33.0K |
-| 20 min | USD | Manufacturing Payrolls (Dec) |  | 5K | 22K |
-| 20 min | CAD | Avg hourly wages Permanent employee (Dec) |  |  | 3.9% |
-| 20 min | CAD | Full Employment Change (Dec) |  |  | 54.2K |
-| 20 min | CAD | Part Time Employment Change (Dec) |  |  | -3.6K |
-| 20 min | CAD | Participation Rate (Dec) |  |  | 65.1% |
-| 20 min | EUR | German Current Account Balance n.s.a (Nov) |  |  | 12.5B |
-| 15:00 | USD | Michigan Current Conditions (Jan) |  |  | 75.1 |
+| 13:30 | USD | Average Weekly Hours (Dec) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Dec) | 33.0K |  | 30.0K |
+| 13:30 | USD | Manufacturing Payrolls (Dec) | -13K | 5K | 25K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Dec) | 3.7% |  | 3.9% |
+| 13:30 | CAD | Full Employment Change (Dec) | 57.5K |  | 54.2K |
+| 13:30 | CAD | Part Time Employment Change (Dec) | 33.5K |  | -3.6K |
+| 13:30 | CAD | Participation Rate (Dec) | 65.1% |  | 65.1% |
+| 54 min | USD | Michigan Current Conditions (Jan) |  |  | 75.1 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 0.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 290.5K |
