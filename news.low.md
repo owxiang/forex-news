@@ -16,28 +16,25 @@
 | 06:45 | CHF | Unemployment Rate s.a. (Dec) | 2.6% | 2.7% | 2.6% |
 | 07:00 | NOK | Core CPI YTD (Dec) | 2.7% | 2.8% | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Dec) | -0.1% | 0.0% | 0.1% |
-| 07:00 | NOK | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
 | 07:00 | NOK | CPI (MoM) (Dec) | -0.1% | 0.1% | 0.3% |
+| 07:00 | NOK | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Nov) | 0.2% | -0.1% | -0.3% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) | -0.4% |  | 1.5% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Nov) | -0.4% | 0.2% | -0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.1% |  | 2.6% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Nov) | -0.4% | 0.2% | -0.5% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.517% |  | 2.411% |
 | 10:30 | INR | Cumulative Industrial Production (Nov) | 4.10% |  | 4.00% |
 | 10:30 | INR | Industrial Production (YoY) (Nov) | 5.2% | 4.0% | 3.7% |
 | 10:30 | INR | Manufacturing Output (MoM) (Nov) | 5.8% |  | 4.4% |
-| 11:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 11:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 11:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
-| 24 min | INR | Bank Loan Growth |  |  | 11.5% |
-| 24 min | INR | Deposit Growth |  |  | 11.5% |
-| 24 min | INR | FX Reserves, USD |  |  | 640.28B |
-| 54 min | MXN | Industrial Production (MoM) (Nov) |  | 0.0% | -1.2% |
-| 54 min | MXN | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
-| 54 min | BRL | CPI (MoM) (Dec) |  |  | 0.39% |
-| 54 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.33% |
-| 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
+| 11:30 | INR | Bank Loan Growth | 11.2% |  | 11.5% |
+| 11:30 | INR | Deposit Growth | 9.8% |  | 11.5% |
+| 11:30 | INR | FX Reserves, USD | 634.59B |  | 640.28B |
+| 12:00 | MXN | Industrial Production (YoY) (Nov) | -1.4% | -1.4% | -2.2% |
+| 12:00 | MXN | Industrial Production (MoM) (Nov) | 0.1% | 0.0% | -1.2% |
+| 12:00 | BRL | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.44% |  | 0.33% |
+| 50 min | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
+| 50 min | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Dec) |  |  | 33.0K |
 | 13:30 | USD | Manufacturing Payrolls (Dec) |  | 5K | 22K |
