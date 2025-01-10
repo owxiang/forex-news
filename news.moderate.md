@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 07:45 | EUR | French Consumer Spending (MoM) (Nov) | 0.3% | 0.1% | -0.3% |
 | 12:00 | BRL | CPI (YoY) (Dec) | 4.83% |  | 4.87% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
-| 13:30 | USD | Participation Rate (Dec) |  |  | 62.5% |
-| 13:30 | USD | Private Nonfarm Payrolls (Dec) |  | 135K | 194K |
-| 13:30 | USD | U6 Unemployment Rate (Dec) |  |  | 7.8% |
-| 13:30 | CAD | Building Permits (MoM) (Nov) |  | 1.3% | -3.1% |
-| 13:30 | CAD | Employment Change (Dec) |  | 24.9K | 50.5K |
-| 13:30 | CAD | Unemployment Rate (Dec) |  | 6.9% | 6.8% |
+| 20 min | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
+| 20 min | USD | Participation Rate (Dec) |  |  | 62.5% |
+| 20 min | USD | Private Nonfarm Payrolls (Dec) |  | 135K | 194K |
+| 20 min | USD | U6 Unemployment Rate (Dec) |  |  | 7.8% |
+| 20 min | CAD | Building Permits (MoM) (Nov) |  | 1.3% | -3.1% |
+| 20 min | CAD | Employment Change (Dec) |  | 24.9K | 50.5K |
+| 20 min | CAD | Unemployment Rate (Dec) |  | 6.9% | 6.8% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  |  | 2.8% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Jan) |  |  | 73.3 |

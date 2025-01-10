@@ -30,31 +30,31 @@
 | 11:30 | INR | Low | Bank Loan Growth | 11.2% |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth | 9.8% |  | 11.5% |
 | 11:30 | INR | Low | FX Reserves, USD | 634.59B |  | 640.28B |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Nov) | -1.4% | -1.4% | -2.2% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Nov) | 0.1% | 0.0% | -1.2% |
-| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Nov) | -1.4% | -1.4% | -2.1% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Nov) | 0.1% | 0.0% | -1.1% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Dec) | 4.83% |  | 4.87% |
+| 12:00 | BRL | Low | CPI (MoM) (Dec) | 0.52% |  | 0.39% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) | 0.44% |  | 0.33% |
-| 50 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 50 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
-| 13:30 | USD | Low | Government Payrolls (Dec) |  |  | 33.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Dec) |  | 5K | 22K |
-| 13:30 | USD | High | Nonfarm Payrolls (Dec) |  | 164K | 227K |
-| 13:30 | USD | Moderate | Participation Rate (Dec) |  |  | 62.5% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Dec) |  | 135K | 194K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Dec) |  |  | 7.8% |
-| 13:30 | USD | High | Unemployment Rate (Dec) |  | 4.2% | 4.2% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Dec) |  |  | 3.9% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Nov) |  | 1.3% | -3.1% |
-| 13:30 | CAD | Moderate | Employment Change (Dec) |  | 24.9K | 50.5K |
-| 13:30 | CAD | Low | Full Employment Change (Dec) |  |  | 54.2K |
-| 13:30 | CAD | Low | Part Time Employment Change (Dec) |  |  | -3.6K |
-| 13:30 | CAD | Low | Participation Rate (Dec) |  |  | 65.1% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Dec) |  | 6.9% | 6.8% |
-| 13:30 | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 12.5B |
+| 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
+| 20 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
+| 20 min | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
+| 20 min | USD | Low | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
+| 20 min | USD | Low | Government Payrolls (Dec) |  |  | 33.0K |
+| 20 min | USD | Low | Manufacturing Payrolls (Dec) |  | 5K | 22K |
+| 20 min | USD | High | Nonfarm Payrolls (Dec) |  | 164K | 227K |
+| 20 min | USD | Moderate | Participation Rate (Dec) |  |  | 62.5% |
+| 20 min | USD | Moderate | Private Nonfarm Payrolls (Dec) |  | 135K | 194K |
+| 20 min | USD | Moderate | U6 Unemployment Rate (Dec) |  |  | 7.8% |
+| 20 min | USD | High | Unemployment Rate (Dec) |  | 4.2% | 4.2% |
+| 20 min | CAD | Low | Avg hourly wages Permanent employee (Dec) |  |  | 3.9% |
+| 20 min | CAD | Moderate | Building Permits (MoM) (Nov) |  | 1.3% | -3.1% |
+| 20 min | CAD | Moderate | Employment Change (Dec) |  | 24.9K | 50.5K |
+| 20 min | CAD | Low | Full Employment Change (Dec) |  |  | 54.2K |
+| 20 min | CAD | Low | Part Time Employment Change (Dec) |  |  | -3.6K |
+| 20 min | CAD | Low | Participation Rate (Dec) |  |  | 65.1% |
+| 20 min | CAD | Moderate | Unemployment Rate (Dec) |  | 6.9% | 6.8% |
+| 20 min | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 12.5B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 2.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 73.3 |
