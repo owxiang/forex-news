@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 37.97 |
-| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 60.29 |
-| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.24 |
-| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) |  |  | 38.49 |
-| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 69.54 |
+| 26 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 37.97 |
+| 26 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 60.29 |
+| 26 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 49.24 |
+| 26 min | JPY | Thomson Reuters IPSOS PCSI (Jan) |  |  | 38.49 |
+| 26 min | CNY | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 69.54 |
 | 03:00 | IDR | Car Sales (YoY) (Dec) |  |  | -11.90% |
 | 03:00 | IDR | Retail Sales (YoY) (Nov) |  |  | 1.5% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Nov) |  |  | 2.8% |
@@ -17,12 +17,12 @@
 | 06:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.7% | 2.6% |
 | 07:00 | NOK | Core CPI YTD (Dec) |  | 2.8% | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (Dec) |  | 0.0% | 0.1% |
-| 07:00 | NOK | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
 | 07:00 | NOK | CPI (MoM) (Dec) |  | 0.1% | 0.3% |
+| 07:00 | NOK | CPI (YoY) (Dec) |  | 2.5% | 2.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Nov) |  | -0.1% | -0.1% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | 1.9% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | -0.5% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 2.6% |
 | 09:40 | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
 | 09:40 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
 | 09:40 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
