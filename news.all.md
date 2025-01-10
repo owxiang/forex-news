@@ -16,32 +16,32 @@
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Dec) | 2.6% | 2.7% | 2.6% |
 | 07:00 | NOK | Low | Core CPI YTD (Dec) | 2.7% | 2.8% | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Dec) | -0.1% | 0.0% | 0.1% |
-| 07:00 | NOK | Low | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
 | 07:00 | NOK | Low | CPI (MoM) (Dec) | -0.1% | 0.1% | 0.3% |
+| 07:00 | NOK | Low | CPI (YoY) (Dec) | 2.2% | 2.5% | 2.4% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) | 0.3% | 0.1% | -0.3% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.2% | -0.1% | -0.3% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) | -0.4% |  | 1.5% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | -0.4% | 0.2% | -0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.1% |  | 2.6% |
-| 53 min | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 53 min | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
-| 53 min | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 53 min | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
-| 10:30 | INR | Low | Cumulative Industrial Production (Nov) |  |  | 4.00% |
-| 10:30 | INR | Low | Industrial Production (YoY) (Nov) |  | 4.0% | 3.5% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Nov) |  |  | 4.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | -0.4% | 0.2% | -0.5% |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
+| 10:00 | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
+| 23 min | INR | Low | Cumulative Industrial Production (Nov) |  |  | 4.00% |
+| 23 min | INR | Low | Industrial Production (YoY) (Nov) |  | 4.0% | 3.5% |
+| 23 min | INR | Low | Manufacturing Output (MoM) (Nov) |  |  | 4.1% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 11.5% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 640.28B |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Nov) |  | 0.0% | -1.2% |
-| 12:00 | BRL | Low | CPI (MoM) (Dec) |  |  | 0.39% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | -1.4% | -2.2% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Dec) |  |  | 4.87% |
+| 12:00 | BRL | Low | CPI (MoM) (Dec) |  |  | 0.39% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.33% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
 | 13:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Dec) |  |  | 33.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Dec) |  | 5K | 22K |
