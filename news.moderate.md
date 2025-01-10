@@ -1,22 +1,32 @@
-## 09 January 2025 - Moderate Impact Forex News
+## 10 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Retail Sales (MoM) (Nov) | 0.8% | 1.0% | 0.5% |
-| 00:30 | AUD | Trade Balance (Nov) | 7.079B | 5.620B | 5.670B |
-| 01:30 | CNY | CPI (YoY) (Dec) | 0.1% | 0.1% | 0.2% |
-| 01:30 | CNY | CPI (MoM) (Dec) | 0.0% | 0.0% | -0.6% |
-| 01:30 | CNY | PPI (YoY) (Dec) | -2.3% | -2.4% | -2.5% |
-| 07:00 | EUR | German Industrial Production (MoM) (Nov) | 1.5% | 0.5% | -0.4% |
-| 07:00 | EUR | German Trade Balance (Nov) | 19.7B | 14.7B | 13.4B |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 12:00 | MXN | CPI (YoY) (Dec) | 4.21% | 4.28% | 4.55% |
-| 12:00 | MXN | CPI (MoM) (Dec) | 0.38% | 0.40% | 0.44% |
-| 12:00 | BRL | Retail Sales (YoY) (Nov) | 4.7% | 3.8% | 6.7% |
-| 12:00 | BRL | Retail Sales (MoM) (Nov) | -0.4% | 0.1% | 0.4% |
-| 14:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q4) | 2.7% | 2.7% | 2.7% |
-| 18:35 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 24 min | JPY | Household Spending (MoM) (Nov) |  | -0.9% | 2.9% |
-| 24 min | JPY | Household Spending (YoY) (Nov) |  | -0.8% | -1.3% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Nov) |  | 0.1% | -0.4% |
+| 08:00 | CHF | SECO Consumer Climate |  |  | -37 |
+| 09:40 | CNY | New Loans (Dec) |  | 890.0B | 580.0B |
+| 12:00 | BRL | CPI (YoY) (Dec) |  |  | 4.87% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 4.0% | 4.0% |
+| 13:30 | USD | Participation Rate (Dec) |  |  | 62.5% |
+| 13:30 | USD | Private Nonfarm Payrolls (Dec) |  | 135K | 194K |
+| 13:30 | USD | U6 Unemployment Rate (Dec) |  |  | 7.8% |
+| 13:30 | CAD | Building Permits (MoM) (Nov) |  | 1.3% | -3.1% |
+| 13:30 | CAD | Employment Change (Dec) |  | 24.9K | 50.5K |
+| 13:30 | CAD | Unemployment Rate (Dec) |  | 6.9% | 6.8% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  |  | 2.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  |  | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Jan) |  |  | 73.3 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jan) |  | 74.0 | 74.0 |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 482 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 589 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 20.8K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 254.3K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 247.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.9K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -56.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -71.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -25.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -8.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -69.6K |
+| 22:30 | USD | Fed's Balance Sheet |  |  | 6,852B |
