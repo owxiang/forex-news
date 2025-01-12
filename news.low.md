@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | NZD | Building Consents (MoM) (Nov) |  |  | -5.2% |
+| 21:45 | NZD | Building Consents (MoM) (Nov) | 5.3% |  | -5.2% |
