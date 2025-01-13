@@ -2,12 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | AUD | ANZ Job Advertisements (MoM) (Dec) |  |  | -1.3% |
-| 32 min | AUD | MI Inflation Gauge (MoM) (Dec) |  |  | 0.2% |
+| 00:00 | AUD | MI Inflation Gauge (MoM) (Dec) | 0.6% |  | 0.2% |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Dec) | 0.3% |  | -1.8% |
 | 03:00 | CNY | Exports (Dec) |  |  | 5.80M |
 | 03:00 | CNY | Imports (Dec) |  |  | -4.70M |
 | 03:00 | CNY | Trade Balance (Dec) |  | 730.00B | 692.80B |
-| 04:00 | IDR | Car Sales (YoY) (Dec) |  |  | -11.90% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.35% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 2.92% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.667% |

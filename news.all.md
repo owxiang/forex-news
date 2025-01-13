@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 2 min | AUD | Low | ANZ Job Advertisements (MoM) (Dec) |  |  | -1.3% |
-| 32 min | AUD | Low | MI Inflation Gauge (MoM) (Dec) |  |  | 0.2% |
+| 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Dec) | 0.6% |  | 0.2% |
+| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Dec) | 0.3% |  | -1.8% |
 | 03:00 | CNY | Low | Exports (Dec) |  |  | 5.80M |
 | 03:00 | CNY | Low | Imports (Dec) |  |  | -4.70M |
 | 03:00 | CNY | Low | Trade Balance (Dec) |  | 730.00B | 692.80B |
@@ -11,7 +11,6 @@
 | 03:00 | CNY | Moderate | Imports (YoY) (Dec) |  | -1.5% | -3.9% |
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Dec) |  | 100.00B | 97.44B |
 | 03:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 04:00 | IDR | Low | Car Sales (YoY) (Dec) |  |  | -11.90% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -37 |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.35% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 2.92% |
