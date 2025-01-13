@@ -7,8 +7,8 @@
 | 03:02 | CNY | Trade Balance (USD) (Dec) | 104.84B | 100.00B | 97.44B |
 | 03:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate | -30 | -38 | -37 |
-| 10:30 | INR | CPI (YoY) (Dec) |  | 5.30% | 5.48% |
-| 11:00 | CNY | New Loans (Dec) |  | 890.0B | 580.0B |
+| 23 min | INR | CPI (YoY) (Dec) |  | 5.30% | 5.48% |
+| 53 min | CNY | New Loans (Dec) |  | 890.0B | 580.0B |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
 | 19:00 | USD | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 20.8K |

@@ -12,15 +12,15 @@
 | 03:02 | CNY | Moderate | Trade Balance (USD) (Dec) | 104.84B | 100.00B | 97.44B |
 | 03:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -30 | -38 | -37 |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.35% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 2.92% |
-| 10:30 | INR | Moderate | CPI (YoY) (Dec) |  | 5.30% | 5.48% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.667% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.28% |
-| 11:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 11:00 | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
-| 11:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 11:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
+| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.35% |
+| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 2.92% |
+| 23 min | INR | Moderate | CPI (YoY) (Dec) |  | 5.30% | 5.48% |
+| 23 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.667% |
+| 53 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.28% |
+| 53 min | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
+| 53 min | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
+| 53 min | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
+| 53 min | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |

@@ -7,13 +7,13 @@
 | 03:00 | CNY | Exports (Dec) | 10.90M |  | 5.80M |
 | 03:00 | CNY | Imports (Dec) | 1.30M |  | -4.70M |
 | 03:00 | CNY | Trade Balance (Dec) | 752.91B | 730.00B | 692.80B |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.35% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 2.92% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.667% |
-| 11:00 | CAD | Leading Index (MoM) (Dec) |  |  | 0.28% |
-| 11:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 11:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 11:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
+| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.35% |
+| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 2.92% |
+| 23 min | EUR | German 12-Month Bubill Auction |  |  | 2.667% |
+| 53 min | CAD | Leading Index (MoM) (Dec) |  |  | 0.28% |
+| 53 min | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
+| 53 min | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
+| 53 min | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
