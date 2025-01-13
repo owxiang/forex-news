@@ -16,11 +16,12 @@
 | 10:20 | EUR | Low | Italian 7-Year BTP Auction | 3.49% |  | 2.92% |
 | 10:30 | INR | Moderate | CPI (YoY) (Dec) | 5.22% | 5.30% | 5.48% |
 | 10:45 | EUR | Low | German 12-Month Bubill Auction | 2.402% |  | 2.667% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Dec) | 0.24% |  | 0.26% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.435% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.704% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.592% |
-| 15:00 | USD | Low | CB Employment Trends Index (Dec) |  |  | 109.55 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.489% |  | 2.435% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.691% |  | 2.704% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.593% |  | 2.592% |
+| 54 min | USD | Low | CB Employment Trends Index (Dec) |  |  | 109.55 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.205% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.110% |

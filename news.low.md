@@ -10,11 +10,12 @@
 | 10:20 | EUR | Italian 3-Year BTP Auction | 2.85% |  | 2.35% |
 | 10:20 | EUR | Italian 7-Year BTP Auction | 3.49% |  | 2.92% |
 | 10:45 | EUR | German 12-Month Bubill Auction | 2.402% |  | 2.667% |
+| 11:00 | CAD | Leading Index (MoM) (Dec) | 0.24% |  | 0.26% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.435% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 2.704% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.592% |
-| 15:00 | USD | CB Employment Trends Index (Dec) |  |  | 109.55 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.489% |  | 2.435% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.691% |  | 2.704% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.593% |  | 2.592% |
+| 54 min | USD | CB Employment Trends Index (Dec) |  |  | 109.55 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.205% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.110% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
