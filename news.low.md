@@ -16,8 +16,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.691% |  | 2.704% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.593% |  | 2.592% |
 | 15:00 | USD | CB Employment Trends Index (Dec) | 109.70 |  | 109.45 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.205% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.110% |
+| 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.205% |
+| 16:30 | USD | 6-Month Bill Auction | 4.180% |  | 4.110% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 0.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 290.5K |

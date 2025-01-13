@@ -23,8 +23,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.593% |  | 2.592% |
 | 15:00 | USD | Low | CB Employment Trends Index (Dec) | 109.70 |  | 109.45 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) | 3.0% |  | 3.0% |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.205% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.110% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.205% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.180% |  | 4.110% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 20.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
