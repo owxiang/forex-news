@@ -8,7 +8,7 @@
 | 03:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate | -30 | -38 | -37 |
 | 10:30 | INR | CPI (YoY) (Dec) | 5.22% | 5.30% | 5.48% |
-| 54 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) | 3.0% |  | 3.0% |
 | 19:00 | USD | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 20.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 254.3K |
