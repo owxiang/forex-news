@@ -18,17 +18,17 @@
 | 15:00 | USD | CB Employment Trends Index (Dec) | 109.70 |  | 109.45 |
 | 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.205% |
 | 16:30 | USD | 6-Month Bill Auction | 4.180% |  | 4.110% |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 0.8K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | 290.5K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -118.1K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 37.9K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -69.9K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -76.5K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -175.7K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 20.7K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -32.8K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -48.3K |
-| 54 min | NZD | NZIER QSBO Capacity Utilization (Q4) |  |  | 89.1% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 0.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 290.5K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -118.1K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 37.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -69.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -76.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -175.7K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 20.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -32.8K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -48.3K |
+| 21:00 | NZD | NZIER QSBO Capacity Utilization (Q4) | 91.3% |  | 89.1% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Jan) |  |  | -2.0% |
 | 23:50 | JPY | Bank Lending (YoY) (Dec) |  | 3.1% | 3.0% |
