@@ -25,7 +25,7 @@
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) | 3.0% |  | 3.0% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.205% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.180% |  | 4.110% |
-| 19:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
+| 52 min | USD | Moderate | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 20.8K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 0.8K |
