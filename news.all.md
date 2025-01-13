@@ -17,15 +17,9 @@
 | 10:30 | INR | Moderate | CPI (YoY) (Dec) | 5.22% | 5.30% | 5.48% |
 | 10:45 | EUR | Low | German 12-Month Bubill Auction | 2.402% |  | 2.667% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 50 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 50 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 50 min | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 50 min | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
-| 50 min | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 50 min | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.435% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.704% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.592% |
+| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.435% |
+| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.704% |
+| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.592% |
 | 15:00 | USD | Low | CB Employment Trends Index (Dec) |  |  | 109.55 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.205% |

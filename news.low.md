@@ -11,14 +11,9 @@
 | 10:20 | EUR | Italian 7-Year BTP Auction | 3.49% |  | 2.92% |
 | 10:45 | EUR | German 12-Month Bubill Auction | 2.402% |  | 2.667% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 50 min | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 50 min | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 50 min | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 50 min | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 50 min | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.435% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.704% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.592% |
+| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.435% |
+| 50 min | EUR | French 3-Month BTF Auction |  |  | 2.704% |
+| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.592% |
 | 15:00 | USD | CB Employment Trends Index (Dec) |  |  | 109.55 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.205% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.110% |
