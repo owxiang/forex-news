@@ -17,7 +17,6 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | EUR | German Current Account Balance n.s.a (Nov) |  |  | 12.5B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.435% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.704% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.592% |

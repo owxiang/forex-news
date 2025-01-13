@@ -14,7 +14,7 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -37 |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.35% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 2.92% |
-| 10:30 | INR | Moderate | CPI (YoY) (Dec) |  | 5.28% | 5.48% |
+| 10:30 | INR | Moderate | CPI (YoY) (Dec) |  | 5.30% | 5.48% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.667% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.28% |
 | 11:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
@@ -24,7 +24,6 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | EUR | Low | German Current Account Balance n.s.a (Nov) |  |  | 12.5B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.435% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.704% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.592% |
@@ -53,6 +52,6 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -8.4K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -48.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -69.6K |
-| 23:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.59T | 240.88T |
+| 23:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
 | 23:50 | JPY | Low | Bank Lending (YoY) (Dec) |  | 3.1% | 3.0% |
 | 23:50 | JPY | Moderate | Current Account n.s.a. (Nov) |  |  | 2.457T |

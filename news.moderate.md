@@ -7,7 +7,7 @@
 | 03:02 | CNY | Trade Balance (USD) (Dec) | 104.84B | 100.00B | 97.44B |
 | 03:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate |  | -38 | -37 |
-| 10:30 | INR | CPI (YoY) (Dec) |  | 5.28% | 5.48% |
+| 10:30 | INR | CPI (YoY) (Dec) |  | 5.30% | 5.48% |
 | 11:00 | CNY | New Loans (Dec) |  | 890.0B | 580.0B |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
 | 19:00 | USD | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
@@ -20,5 +20,5 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | -25.6K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | -8.4K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | -69.6K |
-| 23:50 | JPY | Adjusted Current Account (Nov) |  | 2.59T | 240.88T |
+| 23:50 | JPY | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
 | 23:50 | JPY | Current Account n.s.a. (Nov) |  |  | 2.457T |
