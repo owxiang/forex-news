@@ -30,5 +30,5 @@
 | 20:30 | CHF | CFTC CHF speculative net positions | -37.9K |  | -32.8K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -54.6K |  | -48.3K |
 | 21:00 | NZD | NZIER QSBO Capacity Utilization (Q4) | 91.3% |  | 89.1% |
-| 23:30 | AUD | Westpac Consumer Sentiment (Jan) |  |  | -2.0% |
-| 23:50 | JPY | Bank Lending (YoY) (Dec) |  | 3.1% | 3.0% |
+| 24 min | AUD | Westpac Consumer Sentiment (Jan) |  |  | -2.0% |
+| 44 min | JPY | Bank Lending (YoY) (Dec) |  | 3.1% | 3.0% |

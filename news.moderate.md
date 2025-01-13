@@ -19,5 +19,5 @@
 | 20:30 | JPY | CFTC JPY speculative net positions | -20.2K |  | -8.4K |
 | 20:30 | EUR | CFTC EUR speculative net positions | -64.1K |  | -69.6K |
 | 21:00 | NZD | NZIER Business Confidence (Q4) | 16% |  | -1% |
-| 23:50 | JPY | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
-| 23:50 | JPY | Current Account n.s.a. (Nov) |  |  | 2.457T |
+| 44 min | JPY | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
+| 44 min | JPY | Current Account n.s.a. (Nov) |  |  | 2.457T |

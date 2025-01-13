@@ -47,7 +47,7 @@
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -64.1K |  | -69.6K |
 | 21:00 | NZD | Moderate | NZIER Business Confidence (Q4) | 16% |  | -1% |
 | 21:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 91.3% |  | 89.1% |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | -2.0% |
-| 23:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
-| 23:50 | JPY | Low | Bank Lending (YoY) (Dec) |  | 3.1% | 3.0% |
-| 23:50 | JPY | Moderate | Current Account n.s.a. (Nov) |  |  | 2.457T |
+| 24 min | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | -2.0% |
+| 44 min | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
+| 44 min | JPY | Low | Bank Lending (YoY) (Dec) |  | 3.1% | 3.0% |
+| 44 min | JPY | Moderate | Current Account n.s.a. (Nov) |  |  | 2.457T |
