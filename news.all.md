@@ -10,7 +10,7 @@
 | 03:00 | CNY | Low | Trade Balance (Dec) | 752.91B | 730.00B | 692.80B |
 | 03:01 | CNY | Moderate | Imports (YoY) (Dec) | 1.0% | -1.5% | -3.9% |
 | 03:02 | CNY | Moderate | Trade Balance (USD) (Dec) | 104.84B | 100.00B | 97.44B |
-| 1 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 03:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -38 | -37 |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.35% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 2.92% |
