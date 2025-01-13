@@ -21,8 +21,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.489% |  | 2.435% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.691% |  | 2.704% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.593% |  | 2.592% |
-| 54 min | USD | Low | CB Employment Trends Index (Dec) |  |  | 109.55 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
+| 15:00 | USD | Low | CB Employment Trends Index (Dec) | 109.70 |  | 109.45 |
+| 54 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.205% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.110% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
@@ -46,7 +46,6 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -8.4K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -48.3K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -69.6K |
-| 21:00 | NZD | Moderate | NZIER Business Confidence (Q4) |  |  | -1% |
 | 21:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) |  |  | 89.1% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | -2.0% |
 | 23:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |

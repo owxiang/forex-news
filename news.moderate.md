@@ -8,7 +8,7 @@
 | 03:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate | -30 | -38 | -37 |
 | 10:30 | INR | CPI (YoY) (Dec) | 5.22% | 5.30% | 5.48% |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
+| 54 min | USD | NY Fed 1-Year Consumer Inflation Expectations (Dec) |  |  | 3.0% |
 | 19:00 | USD | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 20.8K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 254.3K |
@@ -19,6 +19,5 @@
 | 20:30 | BRL | CFTC BRL speculative net positions |  |  | -25.6K |
 | 20:30 | JPY | CFTC JPY speculative net positions |  |  | -8.4K |
 | 20:30 | EUR | CFTC EUR speculative net positions |  |  | -69.6K |
-| 21:00 | NZD | NZIER Business Confidence (Q4) |  |  | -1% |
 | 23:50 | JPY | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
 | 23:50 | JPY | Current Account n.s.a. (Nov) |  |  | 2.457T |
