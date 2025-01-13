@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Exports (YoY) (Dec) |  | 7.3% | 6.7% |
-| 03:00 | CNY | Imports (YoY) (Dec) |  | -1.5% | -3.9% |
-| 03:00 | CNY | Trade Balance (USD) (Dec) |  | 100.00B | 97.44B |
-| 03:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 30 min | CNY | Exports (YoY) (Dec) |  | 7.3% | 6.7% |
+| 30 min | CNY | Imports (YoY) (Dec) |  | -1.5% | -3.9% |
+| 30 min | CNY | Trade Balance (USD) (Dec) |  | 100.00B | 97.44B |
+| 45 min | EUR | ECB's Lane Speaks |  |  |  |
 | 08:00 | CHF | SECO Consumer Climate |  | -38 | -37 |
 | 10:30 | INR | CPI (YoY) (Dec) |  | 5.28% | 5.48% |
 | 11:00 | CNY | New Loans (Dec) |  | 890.0B | 580.0B |
