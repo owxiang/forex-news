@@ -6,7 +6,7 @@
 | 06:30 | INR | WPI Inflation (YoY) (Dec) | 2.37% | 2.30% | 1.89% |
 | 07:15 | CNY | New Loans (Dec) | 990.0B | 890.0B | 580.0B |
 | 07:35 | EUR | ECB's Lane Speaks |  |  |  |
-| 21 min | USD | Core PPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 13:30 | USD | Core PPI (MoM) (Dec) | 0.0% | 0.3% | 0.2% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 20:00 | USD | Federal Budget Balance (Dec) |  | -80.0B | -367.0B |
 | 20:05 | USD | FOMC Member Williams Speaks |  |  |  |

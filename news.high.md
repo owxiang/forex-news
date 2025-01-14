@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21 min | USD | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
+| 13:30 | USD | PPI (MoM) (Dec) | 0.2% | 0.4% | 0.4% |
