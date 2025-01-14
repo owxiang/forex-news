@@ -8,6 +8,6 @@
 | 07:35 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Core PPI (MoM) (Dec) | 0.0% | 0.3% | 0.2% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 20:00 | USD | Federal Budget Balance (Dec) |  | -80.0B | -367.0B |
-| 20:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Dec) | -87.0B | -80.0B | -367.0B |
+| 59 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -3.500M | -4.022M |
