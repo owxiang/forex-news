@@ -15,13 +15,13 @@
 | 07:15 | CNY | Chinese Total Social Financing (Dec) | 2,860.0B | 2,000.0B | 2,340.0B |
 | 07:45 | EUR | French Government Budget Balance (Nov) | -172.5B |  | -157.4B |
 | 08:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Nov) | 0.3% | 0.0% | 0.1% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
 | 10:15 | EUR | Spanish 3-Month Letras Auction | 2.493% |  | 2.567% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.420% |  | 2.040% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) | 105.1 | 101.3 | 101.7 |
-| 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
+| 50 min | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
+| 50 min | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
 | 13:30 | USD | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |

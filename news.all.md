@@ -19,17 +19,17 @@
 | 07:35 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Nov) | -172.5B |  | -157.4B |
 | 08:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) | 0.3% | 0.0% | 0.1% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
 | 10:15 | EUR | Low | Spanish 3-Month Letras Auction | 2.493% |  | 2.567% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.420% |  | 2.040% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Dec) | 105.1 | 101.3 | 101.7 |
-| 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
+| 50 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
+| 50 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
-| 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
+| 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
 | 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
+| 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.8% |
