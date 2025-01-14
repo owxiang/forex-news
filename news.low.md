@@ -7,9 +7,9 @@
 | 03:00 | KRW | M2 Money supply (Nov) | 5.60% |  | 6.10% |
 | 03:35 | JPY | 5-Year JGB Auction | 0.876% |  | 0.734% |
 | 05:00 | JPY | Economy Watchers Current Index (Dec) | 49.9 | 49.4 | 49.4 |
-| 06:30 | INR | WPI Food (YoY) (Dec) |  |  | 8.63% |
-| 06:30 | INR | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
+| 22 min | INR | WPI Food (YoY) (Dec) |  |  | 8.63% |
+| 22 min | INR | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
+| 22 min | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
 | 07:45 | EUR | French Government Budget Balance (Nov) |  |  | -157.4B |
 | 08:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
@@ -25,8 +25,8 @@
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
 | 13:30 | USD | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.8% |
 | 15:05 | USD | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
 | 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |

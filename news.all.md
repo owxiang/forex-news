@@ -8,10 +8,10 @@
 | 03:00 | KRW | Low | M2 Money supply (Nov) | 5.60% |  | 6.10% |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 0.876% |  | 0.734% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Dec) | 49.9 | 49.4 | 49.4 |
-| 06:30 | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.63% |
-| 06:30 | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
-| 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 2.30% | 1.89% |
-| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
+| 22 min | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.63% |
+| 22 min | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
+| 22 min | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 2.30% | 1.89% |
+| 22 min | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
 | 07:30 | CHF | Moderate | PPI (MoM) |  |  | -0.6% |
 | 07:35 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Nov) |  |  | -157.4B |
@@ -34,8 +34,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
 | 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
 | 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.8% |
 | 15:05 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |

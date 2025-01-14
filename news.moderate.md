@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Nov) | -3.6% | -3.6% | 5.2% |
-| 06:30 | INR | WPI Inflation (YoY) (Dec) |  | 2.30% | 1.89% |
+| 22 min | INR | WPI Inflation (YoY) (Dec) |  | 2.30% | 1.89% |
 | 07:30 | CHF | PPI (MoM) |  |  | -0.6% |
 | 07:35 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Economic Sentiment |  |  | 15.7 |
