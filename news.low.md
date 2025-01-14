@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private House Approvals (Nov) | -1.7% | -1.7% | -4.0% |
-| 03:00 | KRW | M3 Money Supply (Nov) |  |  | 5,584.9B |
-| 03:00 | KRW | M2 Money supply (Nov) |  |  | 6.10% |
+| 36 min | KRW | M3 Money Supply (Nov) |  |  | 5,584.9B |
+| 36 min | KRW | M2 Money supply (Nov) |  |  | 6.10% |
 | 03:35 | JPY | 5-Year JGB Auction |  |  | 0.734% |
 | 05:00 | JPY | Economy Watchers Current Index (Dec) |  | 49.4 | 49.4 |
 | 06:30 | INR | WPI Food (YoY) (Dec) |  |  | 8.63% |
@@ -12,8 +12,8 @@
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
 | 07:45 | EUR | French Government Budget Balance (Nov) |  |  | -157.4B |
 | 08:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.567% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.040% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) |  | 101.3 | 101.7 |
