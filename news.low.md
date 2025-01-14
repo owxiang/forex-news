@@ -10,17 +10,17 @@
 | 06:30 | INR | WPI Food (YoY) (Dec) | 8.47% |  | 8.63% |
 | 06:30 | INR | WPI Fuel (YoY) (Dec) | -3.79% |  | -5.83% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | 2.14% |  | 2.00% |
-| 39 min | EUR | French Government Budget Balance (Nov) |  |  | -157.4B |
-| 08:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
+| 07:15 | CNY | M2 Money Stock (YoY) (Dec) | 7.3% | 7.3% | 7.1% |
+| 07:15 | CNY | Outstanding Loan Growth (YoY) (Dec) | 7.6% | 7.6% | 7.7% |
+| 07:15 | CNY | Chinese Total Social Financing (Dec) | 2,860.0B | 2,000.0B | 2,340.0B |
+| 07:45 | EUR | French Government Budget Balance (Nov) | -172.5B |  | -157.4B |
+| 22 min | GBP | BoE Breeden Speaks |  |  |  |
+| 52 min | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
+| 52 min | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.567% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.040% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) |  | 101.3 | 101.7 |
 | 11:00 | CAD | Leading Index (MoM) (Dec) |  |  | 0.28% |
-| 11:00 | CNY | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
-| 11:00 | CNY | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
-| 11:00 | CNY | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
 | 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
