@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 6 min | AUD | Moderate | Building Approvals (MoM) (Nov) |  | -3.6% | 4.2% |
-| 6 min | AUD | Low | Private House Approvals (Nov) |  | -1.7% | -5.2% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | -3.6% | -3.6% | 4.2% |
+| 00:30 | AUD | Low | Private House Approvals (Nov) | -1.7% | -1.7% | -4.0% |
 | 03:00 | KRW | Low | M3 Money Supply (Nov) |  |  | 5,584.9B |
 | 03:00 | KRW | Low | M2 Money supply (Nov) |  |  | 6.10% |
 | 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.734% |
@@ -16,8 +16,8 @@
 | 07:35 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Nov) |  |  | -157.4B |
 | 08:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.567% |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment |  |  | 15.7 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment |  |  | 17.0 |
@@ -30,10 +30,10 @@
 | 11:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
-| 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
+| 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
 | 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
+| 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.8% |
