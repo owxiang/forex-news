@@ -24,16 +24,16 @@
 | 13:00 | BRL | Auto Sales (MoM) (Dec) | 1.6% |  | -4.5% |
 | 13:30 | USD | Core PPI (YoY) (Dec) | 3.5% | 3.8% | 3.5% |
 | 13:30 | USD | PPI (YoY) (Dec) | 3.3% | 3.5% | 3.0% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.3% |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.1% | 0.3% | 0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.3% |  | 3.5% |
 | 13:55 | USD | Redbook (YoY) | 4.0% |  | 6.8% |
 | 15:05 | USD | IBD/TIPP Economic Optimism (Jan) | 51.9 | 55.1 | 54.0 |
 | 21:00 | KRW | Export Price Index (YoY) (Dec) | 10.7% |  | 7.0% |
 | 21:00 | KRW | Import Price Index (YoY) (Dec) | 7.0% |  | 2.8% |
-| 54 min | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
-| 54 min | JPY | Reuters Tankan Index (Jan) |  |  | -1 |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
-| 23:50 | JPY | M3 Money Supply (Dec) |  |  | 2,186.7B |
-| 23:55 | KRW | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
-| 23:55 | KRW | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
-| 23:55 | KRW | Trade Balance (Dec) |  | 6.49B | 5.59B |
+| 23:00 | KRW | Unemployment Rate (Dec) | 3.7% |  | 2.7% |
+| 23:00 | JPY | Reuters Tankan Index (Jan) | 2 |  | -1 |
+| 45 min | JPY | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
+| 45 min | JPY | M3 Money Supply (Dec) |  |  | 2,186.7B |
+| 50 min | KRW | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
+| 50 min | KRW | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
+| 50 min | KRW | Trade Balance (Dec) |  | 6.49B | 5.59B |

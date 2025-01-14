@@ -30,8 +30,8 @@
 | 13:30 | USD | Moderate | Core PPI (MoM) (Dec) | 0.0% | 0.3% | 0.2% |
 | 13:30 | USD | High | PPI (MoM) (Dec) | 0.2% | 0.4% | 0.4% |
 | 13:30 | USD | Low | PPI (YoY) (Dec) | 3.3% | 3.5% | 3.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.3% |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.1% | 0.3% | 0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.3% |  | 3.5% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.0% |  | 6.8% |
 | 15:05 | USD | Low | IBD/TIPP Economic Optimism (Jan) | 51.9 | 55.1 | 54.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
@@ -40,10 +40,10 @@
 | 21:00 | KRW | Low | Export Price Index (YoY) (Dec) | 10.7% |  | 7.0% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Dec) | 7.0% |  | 2.8% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.600M | -3.500M | -4.022M |
-| 54 min | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
-| 54 min | JPY | Low | Reuters Tankan Index (Jan) |  |  | -1 |
-| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
-| 23:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,186.7B |
-| 23:55 | KRW | Low | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
-| 23:55 | KRW | Low | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
-| 23:55 | KRW | Low | Trade Balance (Dec) |  | 6.49B | 5.59B |
+| 23:00 | KRW | Low | Unemployment Rate (Dec) | 3.7% |  | 2.7% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Jan) | 2 |  | -1 |
+| 45 min | JPY | Low | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
+| 45 min | JPY | Low | M3 Money Supply (Dec) |  |  | 2,186.7B |
+| 50 min | KRW | Low | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
+| 50 min | KRW | Low | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
+| 50 min | KRW | Low | Trade Balance (Dec) |  | 6.49B | 5.59B |
