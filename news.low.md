@@ -15,8 +15,8 @@
 | 07:15 | CNY | Chinese Total Social Financing (Dec) | 2,860.0B | 2,000.0B | 2,340.0B |
 | 07:45 | EUR | French Government Budget Balance (Nov) | -172.5B |  | -157.4B |
 | 08:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Nov) | 0.3% | 0.0% | 0.1% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
 | 10:15 | EUR | Spanish 3-Month Letras Auction | 2.493% |  | 2.567% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.420% |  | 2.040% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) | 105.1 | 101.3 | 101.7 |
@@ -27,7 +27,7 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.1% | 0.3% | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.3% |  | 3.5% |
 | 13:55 | USD | Redbook (YoY) | 4.0% |  | 6.8% |
-| 59 min | USD | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
+| 15:05 | USD | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
 | 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
 | 21:00 | KRW | Import Price Index (YoY) (Dec) |  |  | 3.0% |
 | 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
