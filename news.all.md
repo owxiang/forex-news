@@ -37,9 +37,9 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Dec) | -87.0B | -80.0B | -367.0B |
 | 20:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 53 min | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 53 min | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 3.0% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.500M | -4.022M |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) | 10.7% |  | 7.0% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) | 7.0% |  | 2.8% |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | -3.500M | -4.022M |
 | 23:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Jan) |  |  | -1 |
 | 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.2% | 1.2% |

@@ -28,8 +28,8 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 3.3% |  | 3.5% |
 | 13:55 | USD | Redbook (YoY) | 4.0% |  | 6.8% |
 | 15:05 | USD | IBD/TIPP Economic Optimism (Jan) | 51.9 | 55.1 | 54.0 |
-| 53 min | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
-| 53 min | KRW | Import Price Index (YoY) (Dec) |  |  | 3.0% |
+| 21:00 | KRW | Export Price Index (YoY) (Dec) | 10.7% |  | 7.0% |
+| 21:00 | KRW | Import Price Index (YoY) (Dec) | 7.0% |  | 2.8% |
 | 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:00 | JPY | Reuters Tankan Index (Jan) |  |  | -1 |
 | 23:50 | JPY | M2 Money Stock (YoY) |  | 1.2% | 1.2% |

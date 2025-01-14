@@ -10,4 +10,4 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Dec) | -87.0B | -80.0B | -367.0B |
 | 20:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -3.500M | -4.022M |
+| 24 min | USD | API Weekly Crude Oil Stock |  | -3.500M | -4.022M |
