@@ -7,10 +7,10 @@
 | 03:00 | KRW | M2 Money supply (Nov) | 5.60% |  | 6.10% |
 | 03:35 | JPY | 5-Year JGB Auction | 0.876% |  | 0.734% |
 | 05:00 | JPY | Economy Watchers Current Index (Dec) | 49.9 | 49.4 | 49.4 |
-| 22 min | INR | WPI Food (YoY) (Dec) |  |  | 8.63% |
-| 22 min | INR | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
-| 22 min | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
-| 07:45 | EUR | French Government Budget Balance (Nov) |  |  | -157.4B |
+| 06:30 | INR | WPI Food (YoY) (Dec) | 8.47% |  | 8.63% |
+| 06:30 | INR | WPI Fuel (YoY) (Dec) | -3.79% |  | -5.83% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | 2.14% |  | 2.00% |
+| 39 min | EUR | French Government Budget Balance (Nov) |  |  | -157.4B |
 | 08:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |

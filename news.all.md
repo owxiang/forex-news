@@ -8,13 +8,13 @@
 | 03:00 | KRW | Low | M2 Money supply (Nov) | 5.60% |  | 6.10% |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 0.876% |  | 0.734% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Dec) | 49.9 | 49.4 | 49.4 |
-| 22 min | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.63% |
-| 22 min | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
-| 22 min | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 2.30% | 1.89% |
-| 22 min | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
-| 07:30 | CHF | Moderate | PPI (MoM) |  |  | -0.6% |
-| 07:35 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 07:45 | EUR | Low | French Government Budget Balance (Nov) |  |  | -157.4B |
+| 06:30 | INR | Low | WPI Food (YoY) (Dec) | 8.47% |  | 8.63% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Dec) | -3.79% |  | -5.83% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 2.37% | 2.30% | 1.89% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | 2.14% |  | 2.00% |
+| 24 min | CHF | Moderate | PPI (MoM) |  |  | -0.6% |
+| 29 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 39 min | EUR | Low | French Government Budget Balance (Nov) |  |  | -157.4B |
 | 08:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
