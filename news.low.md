@@ -17,10 +17,9 @@
 | 08:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Nov) | 0.3% | 0.0% | 0.1% |
-| 10:00 | EUR | Spanish 3-Month Letras Auction |  |  | 2.567% |
-| 24 min | EUR | German 5-Year Bobl Auction |  |  | 2.040% |
-| 54 min | USD | NFIB Small Business Optimism (Dec) |  | 101.3 | 101.7 |
-| 54 min | CAD | Leading Index (MoM) (Dec) |  |  | 0.28% |
+| 10:15 | EUR | Spanish 3-Month Letras Auction | 2.493% |  | 2.567% |
+| 10:50 | EUR | German 5-Year Bobl Auction | 2.420% |  | 2.040% |
+| 11:00 | USD | NFIB Small Business Optimism (Dec) | 105.1 | 101.3 | 101.7 |
 | 13:00 | BRL | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
