@@ -1,53 +1,53 @@
-## 13 January 2025 - All Forex News
+## 14 January 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Dec) | 0.6% |  | 0.2% |
-| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Dec) | 0.3% |  | -1.8% |
-| 03:00 | CNY | Moderate | Exports (YoY) (Dec) | 10.7% | 7.3% | 6.7% |
-| 03:00 | CNY | Low | Exports (Dec) | 10.90M |  | 5.80M |
-| 03:00 | CNY | Low | Imports (Dec) | 1.30M |  | -4.70M |
-| 03:00 | CNY | Low | Trade Balance (Dec) | 752.91B | 730.00B | 692.80B |
-| 03:01 | CNY | Moderate | Imports (YoY) (Dec) | 1.0% | -1.5% | -3.9% |
-| 03:02 | CNY | Moderate | Trade Balance (USD) (Dec) | 104.84B | 100.00B | 97.44B |
-| 03:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 08:00 | CHF | Moderate | SECO Consumer Climate | -30 | -38 | -37 |
-| 10:20 | EUR | Low | Italian 3-Year BTP Auction | 2.85% |  | 2.35% |
-| 10:20 | EUR | Low | Italian 7-Year BTP Auction | 3.49% |  | 2.92% |
-| 10:30 | INR | Moderate | CPI (YoY) (Dec) | 5.22% | 5.30% | 5.48% |
-| 10:45 | EUR | Low | German 12-Month Bubill Auction | 2.402% |  | 2.667% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Dec) | 0.24% |  | 0.26% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.489% |  | 2.435% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.691% |  | 2.704% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.593% |  | 2.592% |
-| 15:00 | USD | Low | CB Employment Trends Index (Dec) | 109.70 |  | 109.45 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Dec) | 3.0% |  | 3.0% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.205% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.180% |  | 4.110% |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 14.5K |  | 20.8K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 2.9K |  | 2.5K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions | 4.3K |  | 0.8K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions | 319.8K |  | 290.5K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 279.6K |  | 254.3K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 254.9K |  | 247.3K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 18.8K |  | 23.9K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -104.8K |  | -118.1K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -62.2K |  | -56.8K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions | 40.9K |  | 37.9K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -50.0K |  | -69.9K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions | -79.5K |  | -76.5K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions | -178.6K |  | -175.7K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions | 12.4K |  | 20.7K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions | -37.9K |  | -32.8K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -73.4K |  | -71.4K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -33.0K |  | -25.6K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -20.2K |  | -8.4K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions | -54.6K |  | -48.3K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -64.1K |  | -69.6K |
-| 21:00 | NZD | Moderate | NZIER Business Confidence (Q4) | 16% |  | -1% |
-| 21:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 91.3% |  | 89.1% |
-| 24 min | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | -2.0% |
-| 44 min | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.59T | 2.41T |
-| 44 min | JPY | Low | Bank Lending (YoY) (Dec) |  | 3.1% | 3.0% |
-| 44 min | JPY | Moderate | Current Account n.s.a. (Nov) |  |  | 2.457T |
+| 6 min | AUD | Moderate | Building Approvals (MoM) (Nov) |  | -3.6% | 4.2% |
+| 6 min | AUD | Low | Private House Approvals (Nov) |  | -1.7% | -5.2% |
+| 03:00 | KRW | Low | M3 Money Supply (Nov) |  |  | 5,584.9B |
+| 03:00 | KRW | Low | M2 Money supply (Nov) |  |  | 6.10% |
+| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.734% |
+| 05:00 | JPY | Low | Economy Watchers Current Index (Dec) |  | 49.4 | 49.4 |
+| 06:30 | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.63% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 2.30% | 1.89% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) |  |  | 2.00% |
+| 07:30 | CHF | Moderate | PPI (MoM) |  |  | -0.6% |
+| 07:35 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 07:45 | EUR | Low | French Government Budget Balance (Nov) |  |  | -157.4B |
+| 08:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.567% |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment |  |  | 15.7 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment |  |  | 17.0 |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.040% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Dec) |  | 101.3 | 101.7 |
+| 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.28% |
+| 11:00 | CNY | Low | M2 Money Stock (YoY) (Dec) |  | 7.3% | 7.1% |
+| 11:00 | CNY | Moderate | New Loans (Dec) |  | 890.0B | 580.0B |
+| 11:00 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) |  | 7.6% | 7.7% |
+| 11:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
+| 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
+| 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
+| 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
+| 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.8% |
+| 15:05 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 20:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
+| 20:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 3.0% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.022M |
+| 23:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Jan) |  |  | -1 |
+| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
+| 23:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,186.7B |
+| 23:55 | KRW | Low | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
+| 23:55 | KRW | Low | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
+| 23:55 | KRW | Low | Trade Balance (Dec) |  | 6.49B | 5.59B |
