@@ -6,8 +6,8 @@
 | 00:30 | AUD | Low | Private House Approvals (Nov) | -1.7% | -1.7% | -4.0% |
 | 03:00 | KRW | Low | M3 Money Supply (Nov) | 5,635.2B |  | 5,584.9B |
 | 03:00 | KRW | Low | M2 Money supply (Nov) | 5.60% |  | 6.10% |
-| 29 min | JPY | Low | 5-Year JGB Auction |  |  | 0.734% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Dec) |  | 49.4 | 49.4 |
+| 03:35 | JPY | Low | 5-Year JGB Auction | 0.876% |  | 0.734% |
+| 53 min | JPY | Low | Economy Watchers Current Index (Dec) |  | 49.4 | 49.4 |
 | 06:30 | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.63% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 2.30% | 1.89% |
@@ -30,12 +30,12 @@
 | 11:00 | CNY | Low | Chinese Total Social Financing (Dec) |  | 2,000.0B | 2,340.0B |
 | 13:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
 | 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.8% |
 | 15:05 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
