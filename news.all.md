@@ -18,12 +18,12 @@
 | 07:15 | CNY | Low | Chinese Total Social Financing (Dec) | 2,860.0B | 2,000.0B | 2,340.0B |
 | 07:35 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 07:45 | EUR | Low | French Government Budget Balance (Nov) | -172.5B |  | -157.4B |
-| 22 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 52 min | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
-| 52 min | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.567% |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment |  |  | 15.7 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment |  |  | 17.0 |
+| 08:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) | 0.3% | 0.0% | 0.1% |
+| 34 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.567% |
+| 54 min | EUR | Moderate | German ZEW Economic Sentiment |  |  | 15.7 |
+| 54 min | EUR | Moderate | ZEW Economic Sentiment |  |  | 17.0 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.040% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Dec) |  | 101.3 | 101.7 |
 | 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.28% |
@@ -31,10 +31,10 @@
 | 13:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
-| 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
 | 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
+| 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.8% |
 | 15:05 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |

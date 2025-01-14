@@ -14,10 +14,10 @@
 | 07:15 | CNY | Outstanding Loan Growth (YoY) (Dec) | 7.6% | 7.6% | 7.7% |
 | 07:15 | CNY | Chinese Total Social Financing (Dec) | 2,860.0B | 2,000.0B | 2,340.0B |
 | 07:45 | EUR | French Government Budget Balance (Nov) | -172.5B |  | -157.4B |
-| 22 min | GBP | BoE Breeden Speaks |  |  |  |
-| 52 min | EUR | Italian Industrial Production (MoM) (Nov) |  | 0.0% | 0.0% |
-| 52 min | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -3.6% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.567% |
+| 08:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Nov) | -1.5% |  | -3.5% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Nov) | 0.3% | 0.0% | 0.1% |
+| 34 min | EUR | Spanish 3-Month Letras Auction |  |  | 2.567% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.040% |
 | 11:00 | USD | NFIB Small Business Optimism (Dec) |  | 101.3 | 101.7 |
 | 11:00 | CAD | Leading Index (MoM) (Dec) |  |  | 0.28% |
@@ -25,8 +25,8 @@
 | 13:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -4.5% |
 | 13:30 | USD | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
 | 13:30 | USD | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.8% |
 | 15:05 | USD | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
 | 21:00 | KRW | Export Price Index (YoY) (Dec) |  |  | 7.0% |
