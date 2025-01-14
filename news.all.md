@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | -3.6% | -3.6% | 4.2% |
 | 00:30 | AUD | Low | Private House Approvals (Nov) | -1.7% | -1.7% | -4.0% |
-| 36 min | KRW | Low | M3 Money Supply (Nov) |  |  | 5,584.9B |
-| 36 min | KRW | Low | M2 Money supply (Nov) |  |  | 6.10% |
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.734% |
+| 03:00 | KRW | Low | M3 Money Supply (Nov) | 5,635.2B |  | 5,584.9B |
+| 03:00 | KRW | Low | M2 Money supply (Nov) | 5.60% |  | 6.10% |
+| 29 min | JPY | Low | 5-Year JGB Auction |  |  | 0.734% |
 | 05:00 | JPY | Low | Economy Watchers Current Index (Dec) |  | 49.4 | 49.4 |
 | 06:30 | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.63% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -5.83% |
