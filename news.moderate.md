@@ -6,10 +6,8 @@
 | 06:30 | INR | WPI Inflation (YoY) (Dec) | 2.37% | 2.30% | 1.89% |
 | 07:15 | CNY | New Loans (Dec) | 990.0B | 890.0B | 580.0B |
 | 07:35 | EUR | ECB's Lane Speaks |  |  |  |
-| 54 min | EUR | German ZEW Economic Sentiment |  |  | 15.7 |
-| 54 min | EUR | ZEW Economic Sentiment |  |  | 17.0 |
 | 13:30 | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 20:00 | USD | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
 | 20:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.022M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -3.500M | -4.022M |
