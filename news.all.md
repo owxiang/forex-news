@@ -24,18 +24,18 @@
 | 10:15 | EUR | Low | Spanish 3-Month Letras Auction | 2.493% |  | 2.567% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.420% |  | 2.040% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Dec) | 105.1 | 101.3 | 101.7 |
-| 50 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | -5.2% |
-| 50 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -4.5% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.2% |
-| 13:30 | USD | Low | Core PPI (YoY) (Dec) |  | 3.7% | 3.4% |
-| 13:30 | USD | Low | PPI (YoY) (Dec) |  | 3.4% | 3.0% |
-| 13:30 | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.8% |
+| 13:00 | BRL | Low | Auto Production (MoM) (Dec) | -19.5% |  | -5.2% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Dec) | 1.6% |  | -4.5% |
+| 21 min | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 21 min | USD | Low | Core PPI (YoY) (Dec) |  | 3.8% | 3.4% |
+| 21 min | USD | Low | PPI (YoY) (Dec) |  | 3.5% | 3.0% |
+| 21 min | USD | High | PPI (MoM) (Dec) |  | 0.4% | 0.4% |
+| 21 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 3.5% |
+| 21 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  | 0.3% | 0.1% |
+| 46 min | USD | Low | Redbook (YoY) |  |  | 6.8% |
 | 15:05 | USD | Low | IBD/TIPP Economic Optimism (Jan) |  | 55.1 | 54.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 20:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -67.6B | -367.0B |
+| 20:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -80.0B | -367.0B |
 | 20:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | 7.0% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | 3.0% |
