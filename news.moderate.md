@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Dec) |  | 0.4% | 0.1% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 3.5% |
-| 07:00 | GBP | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |
+| 52 min | GBP | CPI (MoM) (Dec) |  | 0.4% | 0.1% |
+| 52 min | GBP | CPIH (YoY) |  |  | 3.5% |
+| 52 min | GBP | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |
 | 07:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.2% | -0.1% |
 | 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.2% | -0.1% |

@@ -9,26 +9,26 @@
 | 04:00 | IDR | Low | Export Growth (YoY) (Dec) | 4.78% | 7.38% | 9.14% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Dec) | 11.07% | 4.84% | 0.01% |
 | 04:00 | IDR | Low | Trade Balance (Dec) | 2.24B | 3.79B | 4.42B |
-| 54 min | JPY | Low | Machine Tool Orders (YoY) (Dec) |  | 3.0% | 9.3% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Dec) |  | 0.5% | 0.0% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Dec) |  | 3.4% | 3.5% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Dec) |  |  | 1.6% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Dec) |  |  | 0.0% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Dec) |  |  | 3.0% |
-| 07:00 | GBP | High | CPI (YoY) (Dec) |  | 2.6% | 2.6% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Dec) |  | 0.4% | 0.1% |
-| 07:00 | GBP | Low | CPI, n.s.a (Dec) |  |  | 135.10 |
-| 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.5% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Dec) |  | -1.3% | -1.9% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
-| 07:00 | GBP | Low | RPI (YoY) (Dec) |  | 3.8% | 3.6% |
-| 07:00 | GBP | Low | RPI (MoM) (Dec) |  | 0.7% | 0.1% |
-| 07:00 | EUR | Low | German WPI (YoY) (Dec) |  |  | -0.6% |
-| 07:00 | EUR | Low | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
-| 07:00 | NOK | Low | Trade Balance (Dec) |  |  | 74.2B |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) (Dec) | 11.2% | 3.0% | 9.3% |
+| 52 min | GBP | Low | Core CPI (MoM) (Dec) |  | 0.5% | 0.0% |
+| 52 min | GBP | Low | Core CPI (YoY) (Dec) |  | 3.4% | 3.5% |
+| 52 min | GBP | Low | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
+| 52 min | GBP | Low | Core PPI Output (YoY) (Dec) |  |  | 1.6% |
+| 52 min | GBP | Low | Core RPI (MoM) (Dec) |  |  | 0.0% |
+| 52 min | GBP | Low | Core RPI (YoY) (Dec) |  |  | 3.0% |
+| 52 min | GBP | High | CPI (YoY) (Dec) |  | 2.6% | 2.6% |
+| 52 min | GBP | Moderate | CPI (MoM) (Dec) |  | 0.4% | 0.1% |
+| 52 min | GBP | Low | CPI, n.s.a (Dec) |  |  | 135.10 |
+| 52 min | GBP | Moderate | CPIH (YoY) |  |  | 3.5% |
+| 52 min | GBP | Moderate | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |
+| 52 min | GBP | Low | PPI Input (YoY) (Dec) |  | -1.3% | -1.9% |
+| 52 min | GBP | Low | PPI Output (MoM) (Dec) |  | 0.1% | 0.3% |
+| 52 min | GBP | Low | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
+| 52 min | GBP | Low | RPI (YoY) (Dec) |  | 3.8% | 3.6% |
+| 52 min | GBP | Low | RPI (MoM) (Dec) |  | 0.7% | 0.1% |
+| 52 min | EUR | Low | German WPI (YoY) (Dec) |  |  | -0.6% |
+| 52 min | EUR | Low | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
+| 52 min | NOK | Low | Trade Balance (Dec) |  |  | 74.2B |
 | 07:20 | IDR | Low | Loans (YoY) (Dec) |  |  | 10.79% |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
