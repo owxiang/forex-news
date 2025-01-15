@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | GBP | CPI (YoY) (Dec) |  | 2.6% | 2.6% |
+| 07:00 | GBP | CPI (YoY) (Dec) | 2.5% | 2.6% | 2.6% |
 | 13:30 | USD | Core CPI (MoM) (Dec) |  | 0.3% | 0.3% |
 | 13:30 | USD | CPI (MoM) (Dec) |  | 0.4% | 0.3% |
 | 13:30 | USD | CPI (YoY) (Dec) |  | 2.9% | 2.7% |

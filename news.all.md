@@ -10,42 +10,42 @@
 | 04:00 | IDR | Low | Import Growth (YoY) (Dec) | 11.07% | 4.84% | 0.01% |
 | 04:00 | IDR | Low | Trade Balance (Dec) | 2.24B | 3.79B | 4.42B |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Dec) | 11.2% | 3.0% | 9.3% |
-| 52 min | GBP | Low | Core CPI (MoM) (Dec) |  | 0.5% | 0.0% |
-| 52 min | GBP | Low | Core CPI (YoY) (Dec) |  | 3.4% | 3.5% |
-| 52 min | GBP | Low | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
-| 52 min | GBP | Low | Core PPI Output (YoY) (Dec) |  |  | 1.6% |
-| 52 min | GBP | Low | Core RPI (MoM) (Dec) |  |  | 0.0% |
-| 52 min | GBP | Low | Core RPI (YoY) (Dec) |  |  | 3.0% |
-| 52 min | GBP | High | CPI (YoY) (Dec) |  | 2.6% | 2.6% |
-| 52 min | GBP | Moderate | CPI (MoM) (Dec) |  | 0.4% | 0.1% |
-| 52 min | GBP | Low | CPI, n.s.a (Dec) |  |  | 135.10 |
-| 52 min | GBP | Moderate | CPIH (YoY) |  |  | 3.5% |
-| 52 min | GBP | Moderate | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |
-| 52 min | GBP | Low | PPI Input (YoY) (Dec) |  | -1.3% | -1.9% |
-| 52 min | GBP | Low | PPI Output (MoM) (Dec) |  | 0.1% | 0.3% |
-| 52 min | GBP | Low | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
-| 52 min | GBP | Low | RPI (YoY) (Dec) |  | 3.8% | 3.6% |
-| 52 min | GBP | Low | RPI (MoM) (Dec) |  | 0.7% | 0.1% |
-| 52 min | EUR | Low | German WPI (YoY) (Dec) |  |  | -0.6% |
-| 52 min | EUR | Low | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
-| 52 min | NOK | Low | Trade Balance (Dec) |  |  | 74.2B |
-| 07:20 | IDR | Low | Loans (YoY) (Dec) |  |  | 10.79% |
-| 07:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
-| 07:30 | IDR | Low | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
-| 07:30 | IDR | Low | Lending Facility Rate (Jan) |  | 6.75% | 6.75% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 1.30% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Dec) |  |  | 0.20% |
-| 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 1.3% | 1.3% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.2% | -0.1% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.2% | -0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 1.8% | 1.7% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 1.10% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Dec) |  | 2.6% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.8% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.4% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 2.8% | 2.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.4% | 0.0% |
-| 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 07:00 | GBP | Low | Core CPI (MoM) (Dec) | 0.3% | 0.5% | 0.0% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Dec) | 3.2% | 3.4% | 3.5% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Dec) | 1.5% |  | 1.6% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Dec) | 2.9% |  | 3.0% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Dec) | 0.3% |  | 0.0% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.3% | 0.4% | 0.1% |
+| 07:00 | GBP | High | CPI (YoY) (Dec) | 2.5% | 2.6% | 2.6% |
+| 07:00 | GBP | Low | CPI, n.s.a (Dec) | 135.60 |  | 135.10 |
+| 07:00 | GBP | Moderate | CPIH (YoY) | 3.5% |  | 3.5% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) | 0.1% | 0.2% | 0.0% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Dec) | -1.5% | -1.3% | -2.1% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Dec) | 0.1% | 0.0% | -0.5% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
+| 07:00 | GBP | Low | RPI (YoY) (Dec) | 3.4% | 3.8% | 3.6% |
+| 07:00 | GBP | Low | RPI (MoM) (Dec) | 0.3% | 0.7% | 0.1% |
+| 07:00 | EUR | Low | German WPI (MoM) (Dec) | 0.1% | 0.1% | 0.0% |
+| 07:00 | EUR | Low | German WPI (YoY) (Dec) | 0.1% |  | -0.6% |
+| 07:00 | NOK | Low | Trade Balance (Dec) | 83.2B |  | 74.1B |
+| 14 min | IDR | Low | Loans (YoY) (Dec) |  |  | 10.79% |
+| 24 min | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
+| 24 min | IDR | Low | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
+| 24 min | IDR | Low | Lending Facility Rate (Jan) |  | 6.75% | 6.75% |
+| 39 min | EUR | Low | French CPI NSA (MoM) (Dec) |  |  | 0.20% |
+| 39 min | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 1.30% |
+| 39 min | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.2% | -0.1% |
+| 39 min | EUR | Low | French CPI (YoY) (Dec) |  | 1.3% | 1.3% |
+| 39 min | EUR | Low | French HICP (YoY) (Dec) |  | 1.8% | 1.7% |
+| 39 min | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.2% | -0.1% |
+| 39 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 1.10% |
+| 54 min | EUR | Low | Core CPI (YoY) (Dec) |  | 2.6% | 2.4% |
+| 54 min | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.4% | 0.2% |
+| 54 min | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.8% | 2.4% |
+| 54 min | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.4% | 0.0% |
+| 54 min | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 2.8% | 2.4% |
+| 54 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | German GDP Annual |  | -0.20% | -0.30% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.5% | 3.4% |
@@ -63,10 +63,10 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 127.7 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 168.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 401.1 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  | 0.20% | -0.80% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | -2.80% | -3.30% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 6.3% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  | 0.20% | -0.80% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 1.1% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 6.3% |
 | 13:30 | USD | High | Core CPI (MoM) (Dec) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Dec) |  | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Dec) |  | 323.40 | 322.66 |
@@ -98,5 +98,5 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -5.602B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:45 | NZD | Low | FPI (MoM) (Dec) |  |  | -0.1% |
-| 23:50 | JPY | Low | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
+| 23:50 | JPY | Low | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
