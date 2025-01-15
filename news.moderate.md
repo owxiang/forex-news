@@ -6,13 +6,13 @@
 | 07:00 | GBP | CPI (MoM) (Dec) | 0.3% | 0.4% | 0.1% |
 | 07:00 | GBP | CPIH (YoY) | 3.5% |  | 3.5% |
 | 07:00 | GBP | PPI Input (MoM) (Dec) | 0.1% | 0.2% | 0.0% |
-| 24 min | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
-| 39 min | EUR | French CPI (MoM) (Dec) |  | 0.2% | -0.1% |
-| 39 min | EUR | French HICP (MoM) (Dec) |  | 0.2% | -0.1% |
-| 54 min | EUR | Spanish CPI (YoY) (Dec) |  | 2.8% | 2.4% |
-| 54 min | EUR | Spanish HICP (YoY) (Dec) |  | 2.8% | 2.4% |
-| 54 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 07:30 | IDR | Interest Rate Decision | 5.75% | 6.00% | 6.00% |
+| 07:45 | EUR | French CPI (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
+| 07:45 | EUR | French HICP (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
+| 08:00 | EUR | Spanish CPI (YoY) (Dec) | 2.8% | 2.8% | 2.4% |
+| 08:00 | EUR | Spanish HICP (YoY) (Dec) | 2.8% | 2.8% | 2.4% |
+| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 52 min | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Nov) |  | 0.3% | 0.0% |
 | 13:30 | USD | Core CPI (YoY) (Dec) |  | 3.3% | 3.3% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jan) |  | 2.70 | 0.20 |
