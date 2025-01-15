@@ -2,14 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | IDR | Export Growth (YoY) (Dec) | 4.78% | 8.50% | 9.14% |
-| 04:00 | IDR | Import Growth (YoY) (Dec) |  | 4.00% | 0.01% |
-| 04:00 | IDR | Trade Balance (Dec) |  | 4.33B | 4.42B |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Dec) |  | 3.0% | 9.3% |
+| 02:00 | KRW | Exports (YoY) (Dec) | 6.6% | 6.6% | 1.4% |
+| 02:00 | KRW | Imports (YoY) (Dec) | 3.3% | 3.3% | -2.4% |
+| 02:00 | KRW | Trade Balance (Dec) | 6.49B | 6.49B | 5.59B |
+| 04:00 | IDR | Export Growth (YoY) (Dec) | 4.78% | 7.38% | 9.14% |
+| 04:00 | IDR | Import Growth (YoY) (Dec) | 11.07% | 4.84% | 0.01% |
+| 04:00 | IDR | Trade Balance (Dec) | 2.24B | 3.79B | 4.42B |
+| 54 min | JPY | Machine Tool Orders (YoY) (Dec) |  | 3.0% | 9.3% |
 | 07:00 | GBP | Core CPI (MoM) (Dec) |  | 0.5% | 0.0% |
 | 07:00 | GBP | Core CPI (YoY) (Dec) |  | 3.4% | 3.5% |
-| 07:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 1.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
+| 07:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 1.6% |
 | 07:00 | GBP | Core RPI (MoM) (Dec) |  |  | 0.0% |
 | 07:00 | GBP | Core RPI (YoY) (Dec) |  |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (Dec) |  |  | 135.10 |
@@ -17,13 +20,13 @@
 | 07:00 | GBP | PPI Output (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:00 | GBP | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
 | 07:00 | GBP | RPI (YoY) (Dec) |  | 3.8% | 3.6% |
-| 07:00 | GBP | RPI (MoM) (Dec) |  |  | 0.1% |
+| 07:00 | GBP | RPI (MoM) (Dec) |  | 0.7% | 0.1% |
 | 07:00 | EUR | German WPI (YoY) (Dec) |  |  | -0.6% |
 | 07:00 | EUR | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
 | 07:00 | NOK | Trade Balance (Dec) |  |  | 74.2B |
+| 07:20 | IDR | Loans (YoY) (Dec) |  |  | 10.79% |
 | 07:30 | IDR | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Jan) |  | 6.75% | 6.75% |
-| 07:30 | IDR | Loans (YoY) (Dec) |  |  | 10.79% |
 | 07:45 | EUR | French CPI NSA (YoY) (Dec) |  |  | 1.30% |
 | 07:45 | EUR | French CPI NSA (MoM) (Dec) |  |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Dec) |  | 1.3% | 1.3% |
@@ -71,9 +74,5 @@
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.602B |
 | 21:45 | NZD | FPI (MoM) (Dec) |  |  | -0.1% |
-| 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
 | 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
-| 23:55 | KRW | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
-| 23:55 | KRW | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
-| 23:55 | KRW | Trade Balance (Dec) |  | 6.49B | 5.59B |
