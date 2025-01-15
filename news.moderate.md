@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 50 min | EUR | ECB's Lane Speaks |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Dec) |  | 0.4% | 0.1% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 3.5% |
 | 07:00 | GBP | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |

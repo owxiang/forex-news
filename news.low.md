@@ -14,12 +14,12 @@
 | 07:00 | GBP | Core RPI (MoM) (Dec) |  |  | 0.0% |
 | 07:00 | GBP | CPI, n.s.a (Dec) |  |  | 135.10 |
 | 07:00 | GBP | PPI Input (YoY) (Dec) |  | -1.3% | -1.9% |
-| 07:00 | GBP | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
 | 07:00 | GBP | PPI Output (MoM) (Dec) |  | 0.1% | 0.3% |
+| 07:00 | GBP | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
 | 07:00 | GBP | RPI (YoY) (Dec) |  | 3.8% | 3.6% |
 | 07:00 | GBP | RPI (MoM) (Dec) |  |  | 0.1% |
-| 07:00 | EUR | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
 | 07:00 | EUR | German WPI (YoY) (Dec) |  |  | -0.6% |
+| 07:00 | EUR | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
 | 07:00 | NOK | Trade Balance (Dec) |  |  | 74.2B |
 | 07:30 | IDR | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Jan) |  | 6.75% | 6.75% |
@@ -72,8 +72,8 @@
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.602B |
 | 21:45 | NZD | FPI (MoM) (Dec) |  |  | -0.1% |
 | 23:00 | KRW | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
+| 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:55 | KRW | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
 | 23:55 | KRW | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
 | 23:55 | KRW | Trade Balance (Dec) |  | 6.49B | 5.59B |

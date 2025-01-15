@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 50 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 04:00 | IDR | Low | Export Growth (YoY) (Dec) |  | 8.50% | 9.14% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Dec) |  | 4.00% | 0.01% |
 | 04:00 | IDR | Low | Trade Balance (Dec) |  | 4.33B | 4.42B |
@@ -19,12 +19,12 @@
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.5% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Dec) |  | -1.3% | -1.9% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Dec) |  | 0.1% | 0.3% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Dec) |  | 0.0% | -0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Dec) |  | 3.8% | 3.6% |
 | 07:00 | GBP | Low | RPI (MoM) (Dec) |  |  | 0.1% |
-| 07:00 | EUR | Low | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
 | 07:00 | EUR | Low | German WPI (YoY) (Dec) |  |  | -0.6% |
+| 07:00 | EUR | Low | German WPI (MoM) (Dec) |  | 0.1% | 0.0% |
 | 07:00 | NOK | Low | Trade Balance (Dec) |  |  | 74.2B |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
@@ -34,21 +34,21 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Dec) |  |  | 1.30% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.2% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) |  | 1.3% | 1.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 1.8% | 1.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.2% | -0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Dec) |  | 1.8% | 1.7% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) |  | 2.6% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.4% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 2.8% | 2.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.4% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 2.8% | 2.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.4% | 0.0% |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | German GDP Annual |  | -0.20% | -0.30% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.5% | 3.4% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.332% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | -1.9% | -1.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | 0.3% | 0.0% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | -1.9% | -1.2% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.550% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | 0.28% |
 | 11:00 | EUR | Low | Reserve Assets Total (Dec) |  |  | 1,391.73B |
@@ -96,8 +96,8 @@
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:45 | NZD | Low | FPI (MoM) (Dec) |  |  | -0.1% |
 | 23:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.7% |
-| 23:50 | JPY | Low | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
+| 23:50 | JPY | Low | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:55 | KRW | Low | Exports (YoY) (Dec) |  | 6.6% | 1.4% |
 | 23:55 | KRW | Low | Imports (YoY) (Dec) |  | 3.3% | -2.4% |
 | 23:55 | KRW | Low | Trade Balance (Dec) |  | 6.49B | 5.59B |
