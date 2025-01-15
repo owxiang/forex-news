@@ -21,4 +21,4 @@
 | 15:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.765M |  | -2.502M |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 53 min | USD | Beige Book |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
