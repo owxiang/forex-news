@@ -14,6 +14,7 @@
 | 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Nov) | 0.2% | 0.3% | 0.2% |
+| 5 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (Dec) |  | 3.3% | 3.3% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jan) |  | 2.70 | 0.20 |
 | 13:30 | CAD | Wholesale Sales (MoM) (Nov) |  | -0.6% | 1.0% |
