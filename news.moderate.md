@@ -1,13 +1,23 @@
-## 14 January 2025 - Moderate Impact Forex News
+## 15 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Nov) | -3.6% | -3.6% | 5.2% |
-| 06:30 | INR | WPI Inflation (YoY) (Dec) | 2.37% | 2.30% | 1.89% |
-| 07:15 | CNY | New Loans (Dec) | 990.0B | 890.0B | 580.0B |
-| 07:35 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Core PPI (MoM) (Dec) | 0.0% | 0.3% | 0.2% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Dec) | -87.0B | -80.0B | -367.0B |
-| 20:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -2.600M | -3.500M | -4.022M |
+| 03:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Dec) |  | 0.4% | 0.1% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 3.5% |
+| 07:00 | GBP | PPI Input (MoM) (Dec) |  | 0.2% | 0.0% |
+| 07:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
+| 07:45 | EUR | French CPI (MoM) (Dec) |  | 0.2% | -0.1% |
+| 07:45 | EUR | French HICP (MoM) (Dec) |  | 0.2% | -0.1% |
+| 08:00 | EUR | Spanish CPI (YoY) (Dec) |  | 2.8% | 2.4% |
+| 08:00 | EUR | Spanish HICP (YoY) (Dec) |  | 2.8% | 2.4% |
+| 08:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Nov) |  | 0.3% | 0.0% |
+| 13:30 | USD | Core CPI (YoY) (Dec) |  | 3.3% | 3.3% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Jan) |  | -0.30 | 0.20 |
+| 13:30 | CAD | Wholesale Sales (MoM) (Nov) |  | -0.6% | 1.0% |
+| 15:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -2.502M |
+| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
