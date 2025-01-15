@@ -51,8 +51,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 575.6 |  | 401.1 |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 0.10% | 0.20% | -0.80% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) | -2.60% | -2.80% | -3.30% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | -0.9% |  | 1.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) | 2.9% |  | 6.4% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | -0.9% |  | 1.4% |
 | 13:30 | USD | Core CPI Index (Dec) | 323.38 | 323.40 | 322.66 |
 | 13:30 | USD | CPI Index, n.s.a. (Dec) | 315.61 | 315.62 | 315.49 |
 | 13:30 | USD | CPI Index, s.a (Dec) | 317.69 |  | 316.44 |
@@ -60,17 +60,17 @@
 | 13:30 | USD | Real Earnings (MoM) (Dec) | -0.1% |  | 0.1% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Nov) | 0.8% | 0.4% | 2.1% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.045M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.278M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.167M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.000M | 6.071M |
-| 15:30 | USD | Gasoline Production |  |  | -0.081M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.632M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 15:30 | USD | Gasoline Inventories |  | 2.670M | 6.330M |
-| 16:00 | USD | Cleveland CPI (MoM) (Dec) |  |  | 0.2% |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.045M |
+| 24 min | USD | Crude Oil Imports |  |  | 0.278M |
+| 24 min | USD | Distillate Fuel Production |  |  | -0.167M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  | -1.000M | 6.071M |
+| 24 min | USD | Gasoline Production |  |  | -0.081M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | -0.632M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 24 min | USD | Gasoline Inventories |  | 2.670M | 6.330M |
+| 54 min | USD | Cleveland CPI (MoM) (Dec) |  |  | 0.2% |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.602B |
 | 21:45 | NZD | FPI (MoM) (Dec) |  |  | -0.1% |
-| 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
 | 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
+| 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
