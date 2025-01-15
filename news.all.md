@@ -16,18 +16,18 @@
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Dec) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Dec) | 2.9% |  | 3.0% |
-| 07:00 | GBP | High | CPI (YoY) (Dec) | 2.5% | 2.6% | 2.6% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.3% | 0.4% | 0.1% |
+| 07:00 | GBP | High | CPI (YoY) (Dec) | 2.5% | 2.6% | 2.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Dec) | 135.60 |  | 135.10 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.5% |  | 3.5% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Dec) | -1.5% | -1.3% | -2.1% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Dec) | 0.1% | 0.2% | 0.0% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Dec) | -1.5% | -1.3% | -2.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Dec) | 0.1% | 0.0% | -0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (Dec) | 3.4% | 3.8% | 3.6% |
 | 07:00 | GBP | Low | RPI (MoM) (Dec) | 0.3% | 0.7% | 0.1% |
-| 07:00 | EUR | Low | German WPI (YoY) (Dec) | 0.1% |  | -0.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Dec) | 0.1% | 0.1% | 0.0% |
+| 07:00 | EUR | Low | German WPI (YoY) (Dec) | 0.1% |  | -0.6% |
 | 07:00 | NOK | Low | Trade Balance (Dec) | 83.2B |  | 74.1B |
 | 07:20 | IDR | Low | Loans (YoY) (Dec) | 10.39% |  | 10.79% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 6.00% | 6.00% |
@@ -37,14 +37,14 @@
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Dec) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Dec) | 1.3% | 1.3% | 1.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Dec) | 1.8% | 1.8% | 1.7% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) | 1.20% |  | 1.10% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Dec) | 2.6% | 2.6% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.8% | 2.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.5% | 0.4% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.8% | 2.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 2.8% | 2.8% | 2.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.4% | 0.4% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 2.8% | 2.8% | 2.4% |
 | 08:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | INR | Low | Exports (USD) (Dec) | 38.01B |  | 32.11B |
@@ -67,8 +67,8 @@
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) | -0.9% |  | 1.4% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) | 2.9% |  | 6.4% |
 | 12:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
 | 13:30 | USD | High | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
 | 13:30 | USD | Low | Core CPI Index (Dec) | 323.38 | 323.40 | 322.66 |
 | 13:30 | USD | High | CPI (YoY) (Dec) | 2.9% | 2.9% | 2.7% |
 | 13:30 | USD | High | CPI (MoM) (Dec) | 0.4% | 0.4% | 0.3% |
@@ -96,6 +96,6 @@
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -1.104B |  | -5.602B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 40 min | NZD | Low | FPI (MoM) (Dec) |  |  | -0.1% |
-| 23:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
+| 21:45 | NZD | Low | FPI (MoM) (Dec) | 0.1% |  | -0.1% |
 | 23:50 | JPY | Low | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
+| 23:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.4% | 0.3% |

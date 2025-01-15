@@ -21,8 +21,8 @@
 | 07:00 | GBP | PPI Output (YoY) (Dec) | 0.1% | 0.0% | -0.5% |
 | 07:00 | GBP | RPI (YoY) (Dec) | 3.4% | 3.8% | 3.6% |
 | 07:00 | GBP | RPI (MoM) (Dec) | 0.3% | 0.7% | 0.1% |
-| 07:00 | EUR | German WPI (YoY) (Dec) | 0.1% |  | -0.6% |
 | 07:00 | EUR | German WPI (MoM) (Dec) | 0.1% | 0.1% | 0.0% |
+| 07:00 | EUR | German WPI (YoY) (Dec) | 0.1% |  | -0.6% |
 | 07:00 | NOK | Trade Balance (Dec) | 83.2B |  | 74.1B |
 | 07:20 | IDR | Loans (YoY) (Dec) | 10.39% |  | 10.79% |
 | 07:30 | IDR | Deposit Facility Rate (Jan) | 5.00% | 5.25% | 5.25% |
@@ -71,6 +71,6 @@
 | 16:00 | USD | Cleveland CPI (MoM) (Dec) | 0.3% |  | 0.2% |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows | -1.104B |  | -5.602B |
-| 40 min | NZD | FPI (MoM) (Dec) |  |  | -0.1% |
-| 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
+| 21:45 | NZD | FPI (MoM) (Dec) | 0.1% |  | -0.1% |
 | 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
+| 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
