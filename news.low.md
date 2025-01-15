@@ -13,8 +13,8 @@
 | 07:00 | GBP | Core CPI (YoY) (Dec) | 3.2% | 3.4% | 3.5% |
 | 07:00 | GBP | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (Dec) | 1.5% |  | 1.6% |
-| 07:00 | GBP | Core RPI (MoM) (Dec) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Core RPI (YoY) (Dec) | 2.9% |  | 3.0% |
+| 07:00 | GBP | Core RPI (MoM) (Dec) | 0.3% |  | 0.0% |
 | 07:00 | GBP | CPI, n.s.a (Dec) | 135.60 |  | 135.10 |
 | 07:00 | GBP | PPI Input (YoY) (Dec) | -1.5% | -1.3% | -2.1% |
 | 07:00 | GBP | PPI Output (MoM) (Dec) | 0.1% | 0.1% | 0.4% |
@@ -27,8 +27,8 @@
 | 07:20 | IDR | Loans (YoY) (Dec) | 10.39% |  | 10.79% |
 | 07:30 | IDR | Deposit Facility Rate (Jan) | 5.00% | 5.25% | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Jan) | 6.50% | 6.75% | 6.75% |
-| 07:45 | EUR | French CPI NSA (YoY) (Dec) | 1.30% |  | 1.30% |
 | 07:45 | EUR | French CPI NSA (MoM) (Dec) | 0.20% |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Dec) | 1.30% |  | 1.30% |
 | 07:45 | EUR | French CPI (YoY) (Dec) | 1.3% | 1.3% | 1.3% |
 | 07:45 | EUR | French HICP (YoY) (Dec) | 1.8% | 1.8% | 1.7% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) | 1.20% |  | 1.10% |
@@ -40,20 +40,19 @@
 | 09:00 | INR | Trade Balance (Dec) | -21.94B |  | -37.84B |
 | 09:00 | EUR | German GDP Annual | -0.20% | -0.20% | -0.30% |
 | 09:30 | GBP | House Price Index (YoY) | 3.3% | 3.5% | 3.4% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.332% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.808% |  | 4.332% |
 | 10:00 | EUR | Industrial Production (YoY) (Nov) | -1.9% | -1.9% | -1.1% |
-| 24 min | EUR | German 30-Year Bund Auction |  |  | 2.550% |
-| 54 min | CAD | Leading Index (MoM) (Dec) |  |  | 0.28% |
-| 54 min | EUR | Reserve Assets Total (Dec) |  |  | 1,391.73B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.99% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.7% |
-| 12:00 | USD | MBA Purchase Index |  |  | 127.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 168.4 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 401.1 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) |  | 0.20% | -0.80% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Oct) |  | -2.80% | -3.30% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 6.3% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 1.1% |
+| 10:30 | EUR | German 30-Year Bund Auction | 2.840% |  | 2.550% |
+| 11:00 | EUR | Reserve Assets Total (Dec) | 1,394.03B |  | 1,391.73B |
+| 55 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.99% |
+| 55 min | USD | MBA Mortgage Applications (WoW) |  |  | -3.7% |
+| 55 min | USD | MBA Purchase Index |  |  | 127.7 |
+| 55 min | USD | Mortgage Market Index |  |  | 168.4 |
+| 55 min | USD | Mortgage Refinance Index |  |  | 401.1 |
+| 55 min | MXN | Gross Fixed Investments (MoM) (Oct) |  | 0.20% | -0.80% |
+| 55 min | MXN | Gross Fixed Investments (YoY) (Oct) |  | -2.80% | -3.30% |
+| 55 min | BRL | Brazilian Service Sector Growth (MoM) (Nov) |  |  | 1.1% |
+| 55 min | BRL | Brazilian Service Sector Growth (YoY) (Nov) |  |  | 6.3% |
 | 13:30 | USD | Core CPI Index (Dec) |  | 323.40 | 322.66 |
 | 13:30 | USD | CPI Index, n.s.a. (Dec) |  | 315.62 | 315.49 |
 | 13:30 | USD | CPI Index, s.a (Dec) |  |  | 316.44 |
@@ -74,5 +73,5 @@
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.602B |
 | 21:45 | NZD | FPI (MoM) (Dec) |  |  | -0.1% |
-| 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
+| 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
