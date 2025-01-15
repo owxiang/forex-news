@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | IDR | Export Growth (YoY) (Dec) |  | 8.50% | 9.14% |
-| 53 min | IDR | Import Growth (YoY) (Dec) |  | 4.00% | 0.01% |
-| 53 min | IDR | Trade Balance (Dec) |  | 4.33B | 4.42B |
+| 04:00 | IDR | Export Growth (YoY) (Dec) | 4.78% | 8.50% | 9.14% |
+| 04:00 | IDR | Import Growth (YoY) (Dec) |  | 4.00% | 0.01% |
+| 04:00 | IDR | Trade Balance (Dec) |  | 4.33B | 4.42B |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Dec) |  | 3.0% | 9.3% |
 | 07:00 | GBP | Core CPI (MoM) (Dec) |  | 0.5% | 0.0% |
 | 07:00 | GBP | Core CPI (YoY) (Dec) |  | 3.4% | 3.5% |

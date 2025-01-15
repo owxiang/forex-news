@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 8 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 53 min | IDR | Low | Export Growth (YoY) (Dec) |  | 8.50% | 9.14% |
-| 53 min | IDR | Low | Import Growth (YoY) (Dec) |  | 4.00% | 0.01% |
-| 53 min | IDR | Low | Trade Balance (Dec) |  | 4.33B | 4.42B |
+| 03:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 04:00 | IDR | Low | Export Growth (YoY) (Dec) | 4.78% | 8.50% | 9.14% |
+| 04:00 | IDR | Low | Import Growth (YoY) (Dec) |  | 4.00% | 0.01% |
+| 04:00 | IDR | Low | Trade Balance (Dec) |  | 4.33B | 4.42B |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Dec) |  | 3.0% | 9.3% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Dec) |  | 0.5% | 0.0% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Dec) |  | 3.4% | 3.5% |
