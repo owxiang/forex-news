@@ -11,8 +11,8 @@
 | 06:00 | JPY | Machine Tool Orders (YoY) (Dec) | 11.2% | 3.0% | 9.3% |
 | 07:00 | GBP | Core CPI (MoM) (Dec) | 0.3% | 0.5% | 0.0% |
 | 07:00 | GBP | Core CPI (YoY) (Dec) | 3.2% | 3.4% | 3.5% |
-| 07:00 | GBP | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (Dec) | 1.5% |  | 1.6% |
+| 07:00 | GBP | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
 | 07:00 | GBP | Core RPI (MoM) (Dec) | 0.3% |  | 0.0% |
 | 07:00 | GBP | Core RPI (YoY) (Dec) | 2.9% |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (Dec) | 135.60 |  | 135.10 |
@@ -53,14 +53,14 @@
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 0.10% | 0.20% | -0.80% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | -0.9% |  | 1.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) | 2.9% |  | 6.4% |
-| 13:30 | USD | Core CPI Index (Dec) |  | 323.40 | 322.66 |
-| 13:30 | USD | CPI Index, n.s.a. (Dec) |  | 315.62 | 315.49 |
-| 13:30 | USD | CPI Index, s.a (Dec) |  |  | 316.44 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Dec) |  |  | -0.05% |
-| 13:30 | USD | Real Earnings (MoM) (Dec) |  |  | 0.3% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Nov) |  | 0.4% | 2.1% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Nov) |  |  | 163.6K |
-| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21 min | USD | Core CPI Index (Dec) |  | 323.40 | 322.66 |
+| 21 min | USD | CPI Index, n.s.a. (Dec) |  | 315.62 | 315.49 |
+| 21 min | USD | CPI Index, s.a (Dec) |  |  | 316.44 |
+| 21 min | USD | CPI, n.s.a (MoM) (Dec) |  |  | -0.05% |
+| 21 min | USD | Real Earnings (MoM) (Dec) |  |  | 0.3% |
+| 21 min | CAD | Manufacturing Sales (MoM) (Nov) |  | 0.4% | 2.1% |
+| 21 min | CAD | New Motor Vehicle Sales (MoM) (Nov) |  |  | 163.6K |
+| 51 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.045M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.278M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.167M |
@@ -73,5 +73,5 @@
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -5.602B |
 | 21:45 | NZD | FPI (MoM) (Dec) |  |  | -0.1% |
-| 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
 | 23:50 | JPY | PPI (MoM) (Dec) |  | 0.4% | 0.3% |
+| 23:50 | JPY | PPI (YoY) (Dec) |  | 3.8% | 3.7% |
