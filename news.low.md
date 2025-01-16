@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations | 4.0% |  | 4.2% |
 | 00:30 | AUD | Participation Rate (Dec) | 67.1% | 67.0% | 67.0% |
+| 00:30 | AUD | Reserve Assets Total (Dec) | 102,120.0B |  | 98.3B |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
-| 05:00 | AUD | Reserve Assets Total (Dec) |  |  | 98.3B |
 | 05:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 07:00 | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 0.1% | -0.7% |

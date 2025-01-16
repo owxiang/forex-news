@@ -6,10 +6,10 @@
 | 00:30 | AUD | Moderate | Employment Change (Dec) | 56.3K | 14.5K | 28.2K |
 | 00:30 | AUD | Moderate | Full Employment Change (Dec) | -23.7K |  | 49.5K |
 | 00:30 | AUD | Low | Participation Rate (Dec) | 67.1% | 67.0% | 67.0% |
+| 00:30 | AUD | Low | Reserve Assets Total (Dec) | 102,120.0B |  | 98.3B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Dec) | 4.0% | 4.0% | 3.9% |
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
-| 05:00 | AUD | Low | Reserve Assets Total (Dec) |  |  | 98.3B |
 | 05:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 07:00 | GBP | Low | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | -0.7% |
@@ -18,8 +18,8 @@
 | 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.1% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Nov) |  | -1.0% | -0.7% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) |  | 0.1% | -0.6% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) |  | -0.4% | 0.0% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) |  | -0.2% | -0.6% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) |  | -0.4% | 0.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | 0.0% | 0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Nov) |  | -18.00B | -18.97B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -7.28B |
