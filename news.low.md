@@ -14,11 +14,11 @@
 | 07:00 | GBP | Index of Services | 0.0% | 0.1% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Nov) | -1.8% | -1.0% | -1.1% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Nov) | -1.2% | -0.4% | -0.4% |
-| 07:00 | EUR | German HICP (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
 | 07:00 | EUR | German HICP (MoM) (Dec) | 0.7% | 0.7% | -0.7% |
+| 07:00 | EUR | German HICP (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
 | 07:00 | NOK | Industrial Confidence (Q4) | 5.5 |  | 1.8 |
-| 09:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.3% | 1.3% |
 | 09:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.1% | -0.1% |
+| 09:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.3% | 1.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) | 1.1% |  | 1.2% |
 | 09:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.1% | -0.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Dec) | 1.4% | 1.4% | 1.5% |
