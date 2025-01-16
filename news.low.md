@@ -7,21 +7,22 @@
 | 00:30 | AUD | Reserve Assets Total (Dec) | 102.1B |  | 98.3B |
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
-| 24 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 07:00 | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 0.1% | -0.7% |
-| 07:00 | GBP | GDP (YoY) (Nov) |  | 1.3% | 1.3% |
-| 07:00 | GBP | Index of Services |  | 0.1% | 0.1% |
-| 07:00 | GBP | Industrial Production (YoY) (Nov) |  | -1.0% | -0.7% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Nov) |  | -0.4% | 0.0% |
-| 07:00 | EUR | German HICP (MoM) (Dec) |  | 0.7% | -0.7% |
-| 07:00 | EUR | German HICP (YoY) (Dec) |  | 2.8% | 2.4% |
-| 07:00 | NOK | Industrial Confidence (Q4) |  |  | 1.5 |
+| 05:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 52 min | GBP | U.K. Construction Output (YoY) (Nov) |  | 0.1% | -0.7% |
+| 52 min | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
+| 52 min | GBP | GDP (YoY) (Nov) |  | 1.3% | 1.3% |
+| 52 min | GBP | Index of Services |  | 0.1% | 0.1% |
+| 52 min | GBP | Industrial Production (YoY) (Nov) |  | -1.0% | -0.7% |
+| 52 min | GBP | Manufacturing Production (YoY) (Nov) |  | -0.4% | 0.0% |
+| 52 min | EUR | German HICP (YoY) (Dec) |  | 2.8% | 2.4% |
+| 52 min | EUR | German HICP (MoM) (Dec) |  | 0.7% | -0.7% |
+| 52 min | NOK | Industrial Confidence (Q4) |  |  | 1.5 |
 | 09:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Dec) |  | 1.3% | 1.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.2% |
-| 09:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Dec) |  | 1.4% | 1.5% |
+| 09:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.365% |
 | 10:00 | EUR | Italian Trade Balance (Nov) |  | 4.500B | 5.153B |
 | 10:00 | EUR | Italian Trade Balance EU (Nov) |  |  | -0.66B |
 | 12:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.00% | 0.10% |
@@ -41,6 +42,5 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 17:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.332T |
-| 23:00 | JPY | Reuters Tankan Index |  |  | -1 |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -331.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -74.0B |

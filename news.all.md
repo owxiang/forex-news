@@ -10,30 +10,31 @@
 | 00:30 | AUD | Moderate | Unemployment Rate (Dec) | 4.0% | 4.0% | 3.9% |
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
-| 24 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 07:00 | GBP | Low | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | -0.7% |
-| 07:00 | GBP | High | GDP (MoM) (Nov) |  | 0.2% | -0.1% |
-| 07:00 | GBP | Low | GDP (YoY) (Nov) |  | 1.3% | 1.3% |
-| 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Nov) |  | -1.0% | -0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) |  | 0.1% | -0.6% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) |  | -0.4% | 0.0% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) |  | -0.2% | -0.6% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | 0.0% | 0.1% |
-| 07:00 | GBP | Moderate | Trade Balance (Nov) |  | -18.00B | -18.97B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -7.28B |
-| 07:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.4% | -0.2% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.6% | 2.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.7% | -0.7% |
-| 07:00 | EUR | Low | German HICP (YoY) (Dec) |  | 2.8% | 2.4% |
-| 07:00 | NOK | Low | Industrial Confidence (Q4) |  |  | 1.5 |
+| 05:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 52 min | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | -0.7% |
+| 52 min | GBP | Low | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
+| 52 min | GBP | High | GDP (MoM) (Nov) |  | 0.2% | -0.1% |
+| 52 min | GBP | Low | GDP (YoY) (Nov) |  | 1.3% | 1.3% |
+| 52 min | GBP | Low | Index of Services |  | 0.1% | 0.1% |
+| 52 min | GBP | Moderate | Industrial Production (MoM) (Nov) |  | 0.1% | -0.6% |
+| 52 min | GBP | Low | Industrial Production (YoY) (Nov) |  | -1.0% | -0.7% |
+| 52 min | GBP | Low | Manufacturing Production (YoY) (Nov) |  | -0.4% | 0.0% |
+| 52 min | GBP | Moderate | Manufacturing Production (MoM) (Nov) |  | -0.2% | -0.6% |
+| 52 min | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | 0.0% | 0.1% |
+| 52 min | GBP | Moderate | Trade Balance (Nov) |  | -18.00B | -18.97B |
+| 52 min | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -7.28B |
+| 52 min | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.6% | 2.2% |
+| 52 min | EUR | High | German CPI (MoM) (Dec) |  | 0.4% | -0.2% |
+| 52 min | EUR | Low | German HICP (YoY) (Dec) |  | 2.8% | 2.4% |
+| 52 min | EUR | Low | German HICP (MoM) (Dec) |  | 0.7% | -0.7% |
+| 52 min | NOK | Low | Industrial Confidence (Q4) |  |  | 1.5 |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.3% | 1.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.2% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.4% | 1.5% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.365% |
 | 10:00 | EUR | Low | Italian Trade Balance (Nov) |  | 4.500B | 5.153B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Nov) |  |  | -0.66B |
 | 10:00 | EUR | Moderate | Trade Balance (Nov) |  | 11.8B | 6.8B |
@@ -72,6 +73,5 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,854B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.332T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Dec) |  |  | 45.5 |
-| 23:00 | JPY | Low | Reuters Tankan Index |  |  | -1 |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -331.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -74.0B |
