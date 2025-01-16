@@ -15,14 +15,14 @@
 | 10:00 | EUR | Trade Balance (Nov) | 16.4B | 11.8B | 8.6B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Dec) | 0.0% |  | 0.0% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 6 min | CAD | Housing Starts (Dec) |  | 252.0K | 262.4K |
-| 21 min | USD | Continuing Jobless Claims |  | 1,870K | 1,867K |
-| 21 min | USD | Export Price Index (MoM) (Dec) |  | 0.2% | 0.0% |
-| 21 min | USD | Import Price Index (MoM) (Dec) |  | -0.1% | 0.1% |
-| 21 min | USD | Philly Fed Employment (Jan) |  |  | 6.6 |
-| 21 min | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
-| 15:00 | USD | Business Inventories (MoM) (Nov) |  | 0.1% | 0.1% |
-| 15:00 | USD | Retail Inventories Ex Auto (Nov) |  | 0.6% | 0.1% |
+| 13:15 | CAD | Housing Starts (Dec) | 231.5K | 252.0K | 267.1K |
+| 13:30 | USD | Continuing Jobless Claims | 1,859K | 1,870K | 1,877K |
+| 13:30 | USD | Export Price Index (MoM) (Dec) | 0.3% | 0.2% | 0.0% |
+| 13:30 | USD | Import Price Index (MoM) (Dec) | 0.1% | -0.1% | 0.1% |
+| 13:30 | USD | Philly Fed Employment (Jan) | 11.9 |  | 4.8 |
+| 13:30 | USD | Retail Control (MoM) (Dec) | 0.7% | 0.4% | 0.4% |
+| 54 min | USD | Business Inventories (MoM) (Nov) |  | 0.1% | 0.1% |
+| 54 min | USD | Retail Inventories Ex Auto (Nov) |  | 0.6% | 0.1% |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,854B |
