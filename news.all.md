@@ -11,8 +11,8 @@
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
 | 05:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 07:00 | GBP | Low | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 0.1% | -0.7% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Nov) |  | 0.4% | -0.4% |
 | 07:00 | GBP | High | GDP (MoM) (Nov) |  | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Nov) |  | 1.3% | 1.3% |
 | 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.1% |
@@ -23,16 +23,16 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | 0.0% | 0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Nov) |  | -18.00B | -18.97B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -7.28B |
-| 07:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.4% | -0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 2.6% | 2.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.4% | -0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Dec) |  | 2.8% | 2.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.7% | -0.7% |
 | 07:00 | NOK | Low | Industrial Confidence (Q4) |  |  | 1.5 |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.3% | 1.3% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.2% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.4% | 1.5% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Nov) |  | 4.500B | 5.153B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Nov) |  |  | -0.66B |
@@ -43,10 +43,10 @@
 | 13:15 | CAD | Moderate | Housing Starts (Dec) |  | 252.0K | 262.4K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,867K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.5% | 0.2% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Dec) |  |  | 0.8% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  |  | 1.3% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | 0.2% | 0.0% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) |  | -0.1% | 0.1% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  |  | 1.3% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 210K | 201K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.00K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -5.2 | -16.4 |
