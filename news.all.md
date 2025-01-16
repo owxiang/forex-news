@@ -16,20 +16,20 @@
 | 07:00 | GBP | High | GDP (MoM) (Nov) | 0.1% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Nov) | 1.0% | 1.3% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.0% | 0.1% | 0.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Nov) | -1.8% | -1.0% | -1.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) | -0.4% | 0.1% | -0.6% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | -0.3% | -0.2% | -0.6% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Nov) | -1.8% | -1.0% | -1.1% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) | -1.2% | -0.4% | -0.4% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | -0.3% | -0.2% | -0.6% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) | 0.0% | 0.0% | 0.0% |
 | 07:00 | GBP | Moderate | Trade Balance (Nov) | -19.31B | -18.00B | -19.33B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) | -7.72B |  | -7.65B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Dec) | 0.5% | 0.4% | -0.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.7% | -0.7% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.7% | -0.7% |
 | 07:00 | NOK | Low | Industrial Confidence (Q4) | 5.5 |  | 1.8 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.1% | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Dec) | 1.3% | 1.3% | 1.3% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.1% | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) | 1.1% |  | 1.2% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.1% | 0.1% | -0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Dec) | 1.4% | 1.4% | 1.5% |
