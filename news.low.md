@@ -17,14 +17,14 @@
 | 07:00 | EUR | German HICP (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
 | 07:00 | EUR | German HICP (MoM) (Dec) | 0.7% | 0.7% | -0.7% |
 | 07:00 | NOK | Industrial Confidence (Q4) | 5.5 |  | 1.8 |
-| 52 min | EUR | Italian CPI (MoM) (Dec) |  | 0.1% | -0.1% |
-| 52 min | EUR | Italian CPI (YoY) (Dec) |  | 1.3% | 1.3% |
-| 52 min | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.2% |
-| 52 min | EUR | Italian HICP (YoY) (Dec) |  | 1.4% | 1.5% |
-| 52 min | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.365% |
-| 10:00 | EUR | Italian Trade Balance (Nov) |  | 4.500B | 5.153B |
-| 10:00 | EUR | Italian Trade Balance EU (Nov) |  |  | -0.66B |
+| 09:00 | EUR | Italian CPI (YoY) (Dec) | 1.3% | 1.3% | 1.3% |
+| 09:00 | EUR | Italian CPI (MoM) (Dec) | 0.1% | 0.1% | -0.1% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Dec) | 1.4% | 1.4% | 1.5% |
+| 09:00 | EUR | Italian HICP (MoM) (Dec) | 0.1% | 0.1% | -0.1% |
+| 34 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.365% |
+| 54 min | EUR | Italian Trade Balance (Nov) |  | 4.500B | 5.153B |
+| 54 min | EUR | Italian Trade Balance EU (Nov) |  |  | -0.66B |
 | 12:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.00% | 0.10% |
 | 13:30 | USD | Export Price Index (YoY) (Dec) |  |  | 0.8% |
 | 13:30 | USD | Import Price Index (YoY) (Dec) |  |  | 1.3% |

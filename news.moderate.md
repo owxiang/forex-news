@@ -11,8 +11,8 @@
 | 07:00 | GBP | Trade Balance (Nov) | -19.31B | -18.00B | -19.33B |
 | 07:00 | GBP | Trade Balance Non-EU (Nov) | -7.72B |  | -7.65B |
 | 07:00 | EUR | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | EUR | Trade Balance (Nov) |  | 11.8B | 6.8B |
+| 24 min | GBP | BOE Credit Conditions Survey |  |  |  |
+| 54 min | EUR | Trade Balance (Nov) |  | 11.8B | 6.8B |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | 0.0% |
 | 13:15 | CAD | Housing Starts (Dec) |  | 252.0K | 262.4K |
