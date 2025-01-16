@@ -65,10 +65,10 @@
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) | 0.5% | 0.6% | 0.1% |
 | 15:30 | USD | Low | Natural Gas Storage | -258B | -260B | -40B |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.245% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
-| 17:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.245% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.240% |
+| 24 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,854B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.332T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Dec) |  |  | 45.5 |

@@ -37,9 +37,9 @@
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.3% | 0.4% | 0.2% |
 | 15:00 | USD | NAHB Housing Market Index (Jan) | 47 | 45 | 46 |
 | 15:30 | USD | Natural Gas Storage | -258B | -260B | -40B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.245% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.240% |
-| 17:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.245% |
+| 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.240% |
+| 24 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.332T |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -331.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -74.0B |
