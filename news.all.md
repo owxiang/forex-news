@@ -11,28 +11,28 @@
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
 | 05:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 07:00 | GBP | Low | Construction Output (MoM) (Nov) | 0.4% | 0.4% | -0.3% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) | 0.2% | 0.1% | -0.5% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Nov) | 0.4% | 0.4% | -0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Nov) | 0.1% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Nov) | 1.0% | 1.3% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.0% | 0.1% | 0.1% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Nov) | -1.8% | -1.0% | -1.1% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) | -0.4% | 0.1% | -0.6% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | -0.3% | -0.2% | -0.6% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Nov) | -1.8% | -1.0% | -1.1% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) | -1.2% | -0.4% | -0.4% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | -0.3% | -0.2% | -0.6% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) | 0.0% | 0.0% | 0.0% |
 | 07:00 | GBP | Moderate | Trade Balance (Nov) | -19.31B | -18.00B | -19.33B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) | -7.72B |  | -7.65B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Dec) | 0.5% | 0.4% | -0.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.7% | -0.7% |
 | 07:00 | EUR | Low | German HICP (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.7% | -0.7% |
 | 07:00 | NOK | Low | Industrial Confidence (Q4) | 5.5 |  | 1.8 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.1% | -0.1% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.3% | 1.3% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.2% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.4% | 1.5% |
+| 52 min | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.1% | -0.1% |
+| 52 min | EUR | Low | Italian CPI (YoY) (Dec) |  | 1.3% | 1.3% |
+| 52 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 1.2% |
+| 52 min | EUR | Low | Italian HICP (YoY) (Dec) |  | 1.4% | 1.5% |
+| 52 min | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.1% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.365% |
 | 10:00 | EUR | Low | Italian Trade Balance (Nov) |  | 4.500B | 5.153B |
@@ -57,8 +57,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jan) |  |  | -4.3 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jan) |  |  | 31.20 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Dec) |  |  | 0.4% |
-| 13:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.6% | 0.7% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 3.80% |
+| 13:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.6% | 0.7% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.2% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Nov) |  |  | 163.6K |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.1% | 0.1% |
