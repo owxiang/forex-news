@@ -11,20 +11,20 @@
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
 | 05:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) | 0.2% | 0.1% | -0.5% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Nov) | 0.4% | 0.4% | -0.3% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) | 0.2% | 0.1% | -0.5% |
 | 07:00 | GBP | High | GDP (MoM) (Nov) | 0.1% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Nov) | 1.0% | 1.3% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.0% | 0.1% | 0.1% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) | -0.4% | 0.1% | -0.6% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Nov) | -1.8% | -1.0% | -1.1% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | -0.3% | -0.2% | -0.6% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Nov) | -0.4% | 0.1% | -0.6% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Nov) | -1.2% | -0.4% | -0.4% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | -0.3% | -0.2% | -0.6% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) | 0.0% | 0.0% | 0.0% |
 | 07:00 | GBP | Moderate | Trade Balance (Nov) | -19.31B | -18.00B | -19.33B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Nov) | -7.72B |  | -7.65B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Dec) | 0.5% | 0.4% | -0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (Dec) | 0.7% | 0.7% | -0.7% |
 | 07:00 | EUR | Low | German HICP (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
 | 07:00 | NOK | Low | Industrial Confidence (Q4) | 5.5 |  | 1.8 |
@@ -44,8 +44,8 @@
 | 13:15 | CAD | Moderate | Housing Starts (Dec) | 231.5K | 252.0K | 267.1K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,859K | 1,870K | 1,877K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Dec) | 0.4% | 0.5% | 0.2% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Dec) |  |  | 0.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Dec) | 0.3% | 0.2% | 0.0% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Dec) |  |  | 0.8% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Dec) | 0.1% | -0.1% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Dec) |  | 2.1% | 1.3% |
 | 13:30 | USD | High | Initial Jobless Claims | 217K | 210K | 203K |
@@ -57,14 +57,14 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jan) | 42.9 |  | -3.6 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jan) | 31.90 |  | 26.60 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Dec) | 0.7% | 0.4% | 0.4% |
-| 13:30 | USD | High | Retail Sales (MoM) (Dec) | 0.4% | 0.6% | 0.8% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Dec) | 3.92% |  | 4.12% |
+| 13:30 | USD | High | Retail Sales (MoM) (Dec) | 0.4% | 0.6% | 0.8% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.3% | 0.4% | 0.2% |
-| 54 min | USD | Moderate | Business Inventories (MoM) (Nov) |  | 0.1% | 0.1% |
-| 54 min | USD | Low | NAHB Housing Market Index (Jan) |  | 45 | 46 |
-| 54 min | USD | Moderate | Retail Inventories Ex Auto (Nov) |  | 0.6% | 0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | -260B | -40B |
-| 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Nov) | 0.1% | 0.1% | 0.0% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Jan) | 47 | 45 | 46 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) | 0.5% | 0.6% | 0.1% |
+| 24 min | USD | Low | Natural Gas Storage |  | -260B | -40B |
+| 54 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
 | 17:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |

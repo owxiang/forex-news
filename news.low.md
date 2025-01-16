@@ -8,8 +8,8 @@
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Jan) | 3.00% | 2.75% | 3.00% |
 | 05:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Nov) | 0.2% | 0.1% | -0.5% |
 | 07:00 | GBP | Construction Output (MoM) (Nov) | 0.4% | 0.4% | -0.3% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Nov) | 0.2% | 0.1% | -0.5% |
 | 07:00 | GBP | GDP (YoY) (Nov) | 1.0% | 1.3% | 1.1% |
 | 07:00 | GBP | Index of Services | 0.0% | 0.1% | 0.1% |
 | 07:00 | GBP | Industrial Production (YoY) (Nov) | -1.8% | -1.0% | -1.1% |
@@ -35,8 +35,8 @@
 | 13:30 | USD | Philly Fed Prices Paid (Jan) | 31.90 |  | 26.60 |
 | 13:30 | USD | Retail Sales (YoY) (Dec) | 3.92% |  | 4.12% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.3% | 0.4% | 0.2% |
-| 54 min | USD | NAHB Housing Market Index (Jan) |  | 45 | 46 |
-| 15:30 | USD | Natural Gas Storage |  | -260B | -40B |
+| 15:00 | USD | NAHB Housing Market Index (Jan) | 47 | 45 | 46 |
+| 24 min | USD | Natural Gas Storage |  | -260B | -40B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 17:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |

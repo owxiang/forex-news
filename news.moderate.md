@@ -21,9 +21,9 @@
 | 13:30 | USD | Import Price Index (MoM) (Dec) | 0.1% | -0.1% | 0.1% |
 | 13:30 | USD | Philly Fed Employment (Jan) | 11.9 |  | 4.8 |
 | 13:30 | USD | Retail Control (MoM) (Dec) | 0.7% | 0.4% | 0.4% |
-| 54 min | USD | Business Inventories (MoM) (Nov) |  | 0.1% | 0.1% |
-| 54 min | USD | Retail Inventories Ex Auto (Nov) |  | 0.6% | 0.1% |
-| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | USD | Business Inventories (MoM) (Nov) | 0.1% | 0.1% | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (Nov) | 0.5% | 0.6% | 0.1% |
+| 54 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,854B |
 | 21:30 | NZD | Business NZ PMI (Dec) |  |  | 45.5 |
