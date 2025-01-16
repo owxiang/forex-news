@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | Employment Change (Dec) |  | 14.5K | 35.6K |
-| 4 min | AUD | Full Employment Change (Dec) |  |  | 52.6K |
-| 4 min | AUD | Unemployment Rate (Dec) |  | 4.0% | 3.9% |
+| 00:30 | AUD | Employment Change (Dec) | 56.3K | 14.5K | 28.2K |
+| 00:30 | AUD | Full Employment Change (Dec) | -23.7K |  | 49.5K |
+| 00:30 | AUD | Unemployment Rate (Dec) | 4.0% | 4.0% | 3.9% |
 | 07:00 | GBP | Industrial Production (MoM) (Nov) |  | 0.1% | -0.6% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Nov) |  | -0.2% | -0.6% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Nov) |  | 0.0% | 0.1% |
