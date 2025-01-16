@@ -14,13 +14,13 @@
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Trade Balance (Nov) | 16.4B | 11.8B | 8.6B |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Dec) | 0.0% |  | 0.0% |
-| 21 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:15 | CAD | Housing Starts (Dec) |  | 252.0K | 262.4K |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,867K |
-| 13:30 | USD | Export Price Index (MoM) (Dec) |  | 0.2% | 0.0% |
-| 13:30 | USD | Import Price Index (MoM) (Dec) |  | -0.1% | 0.1% |
-| 13:30 | USD | Philly Fed Employment (Jan) |  |  | 6.6 |
-| 13:30 | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 6 min | CAD | Housing Starts (Dec) |  | 252.0K | 262.4K |
+| 21 min | USD | Continuing Jobless Claims |  | 1,870K | 1,867K |
+| 21 min | USD | Export Price Index (MoM) (Dec) |  | 0.2% | 0.0% |
+| 21 min | USD | Import Price Index (MoM) (Dec) |  | -0.1% | 0.1% |
+| 21 min | USD | Philly Fed Employment (Jan) |  |  | 6.6 |
+| 21 min | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
 | 15:00 | USD | Business Inventories (MoM) (Nov) |  | 0.1% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Nov) |  | 0.6% | 0.1% |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
