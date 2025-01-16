@@ -13,8 +13,8 @@
 | 07:00 | EUR | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Trade Balance (Nov) | 16.4B | 11.8B | 8.6B |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Dec) |  |  | 0.0% |
+| 12:00 | GBP | NIESR Monthly GDP Tracker (Dec) | 0.0% |  | 0.0% |
+| 21 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:15 | CAD | Housing Starts (Dec) |  | 252.0K | 262.4K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,867K |
 | 13:30 | USD | Export Price Index (MoM) (Dec) |  | 0.2% | 0.0% |
