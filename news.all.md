@@ -6,16 +6,16 @@
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
 | 01:30 | SGD | Low | Trade Balance (Dec) | 3.850B |  | 6.490B |
 | 01:30 | CNY | Low | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
-| 27 min | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) |  | 3.3% | 3.3% |
-| 27 min | CNY | High | GDP (YoY) (Q4) |  | 5.0% | 4.6% |
-| 27 min | CNY | Moderate | GDP (QoQ) (Q4) |  | 1.6% | 0.9% |
-| 27 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q4) |  |  | 4.8% |
-| 27 min | CNY | Moderate | Industrial Production (YoY) (Dec) |  | 5.4% | 5.4% |
-| 27 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 5.8% |
-| 27 min | CNY | Low | Retail Sales (YoY) (Dec) |  | 3.5% | 3.0% |
-| 27 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 3.45% |
-| 27 min | CNY | Moderate | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
-| 27 min | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
+| 02:00 | CNY | High | GDP (YoY) (Q4) | 5.4% | 5.0% | 4.6% |
+| 02:00 | CNY | Moderate | GDP (QoQ) (Q4) | 1.6% | 1.6% | 1.3% |
+| 02:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q4) | 5.0% |  | 4.8% |
+| 02:00 | CNY | Moderate | Industrial Production (YoY) (Dec) | 6.2% | 5.4% | 5.4% |
+| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Dec) | 5.8% |  | 5.8% |
+| 02:00 | CNY | Low | Retail Sales (YoY) (Dec) | 3.7% | 3.5% | 3.0% |
+| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) | 3.48% |  | 3.45% |
+| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Dec) | 5.1% | 5.0% | 5.0% |
+| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | 0.4% | 0.2% |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) |  | 127.08 | 126.62 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.8% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  | 0.4% | -0.4% |
