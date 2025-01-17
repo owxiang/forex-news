@@ -9,10 +9,10 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) | 5.8% |  | 5.8% |
 | 02:00 | CNY | Chinese Unemployment Rate (Dec) | 5.1% | 5.0% | 5.0% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (MoM) (Dec) | -0.6% | 0.1% | 0.1% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Dec) | 2.9% | 3.6% | -0.5% |
-| 07:00 | GBP | Retail Sales (MoM) (Dec) | -0.3% | 0.4% | 0.1% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Dec) | -0.6% | 0.1% | 0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Dec) | 3.6% | 4.2% | 0.0% |
+| 07:00 | GBP | Retail Sales (MoM) (Dec) | -0.3% | 0.4% | 0.1% |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.3% |
@@ -27,13 +27,13 @@
 | 17:15 | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 3.0% | 3.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 478 |  | 480 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 580 |  | 584 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 14.5K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 279.6K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 254.9K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 18.8K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -62.2K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -73.4K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -33.0K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -20.2K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -64.1K |
-| 21:00 | USD | TIC Net Long-Term Transactions (Nov) |  | 159.9B | 152.3B |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | 14.5K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 279.6K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 254.9K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 18.8K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -62.2K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -73.4K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | -33.0K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | -20.2K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | -64.1K |
+| 54 min | USD | TIC Net Long-Term Transactions (Nov) |  | 159.9B | 152.3B |
