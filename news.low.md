@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | SGD | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
 | 00:30 | SGD | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
 | 01:30 | SGD | Trade Balance (Dec) | 3.850B |  | 6.490B |
 | 01:30 | CNY | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
 | 02:00 | CNY | Retail Sales (YoY) (Dec) | 3.7% | 3.5% | 3.0% |
