@@ -16,10 +16,10 @@
 | 10:00 | EUR | CPI, n.s.a (Dec) | 127.07 | 127.08 | 126.62 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.7% | 2.8% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.3% | 0.4% | -0.4% |
-| 54 min | BRL | IGP-10 Inflation Index (MoM) (Jan) |  |  | 1.1% |
-| 11:30 | INR | Bank Loan Growth |  |  | 11.2% |
-| 11:30 | INR | Deposit Growth |  |  | 9.8% |
-| 11:30 | INR | FX Reserves, USD |  |  | 634.59B |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) | 0.5% |  | 1.1% |
+| 25 min | INR | Bank Loan Growth |  |  | 11.2% |
+| 25 min | INR | Deposit Growth |  |  | 9.8% |
+| 25 min | INR | FX Reserves, USD |  |  | 634.59B |
 | 13:30 | USD | Building Permits (MoM) (Dec) |  |  | 5.2% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -2.650B |
 | 14:00 | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
