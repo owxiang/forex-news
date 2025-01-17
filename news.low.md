@@ -8,16 +8,14 @@
 | 01:30 | CNY | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
 | 02:00 | CNY | Retail Sales (YoY) (Dec) | 3.7% | 3.5% | 3.0% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) | 3.48% |  | 3.45% |
-| 07:30 | IDR | Deposit Facility Rate (Jan) |  |  | 5.25% |
-| 07:30 | IDR | Lending Facility Rate (Jan) |  |  | 6.75% |
 | 09:00 | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
 | 09:00 | EUR | Current Account (Nov) |  | 28.0B | 25.8B |
 | 09:00 | EUR | Current Account n.s.a. (Nov) |  |  | 32.0B |
-| 10:00 | EUR | Core CPI (MoM) (Dec) |  | 0.5% | 0.5% |
+| 10:00 | EUR | Core CPI (MoM) (Dec) |  | 0.5% | -0.6% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Dec) |  | 127.08 | 126.62 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 2.8% | 2.8% |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 2.8% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) |  | 0.4% | -0.4% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) |  |  | 1.1% |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.2% |

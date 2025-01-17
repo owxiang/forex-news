@@ -18,22 +18,20 @@
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | 0.4% | 0.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 4.2% | 0.5% |
-| 07:30 | IDR | Low | Deposit Facility Rate (Jan) |  |  | 5.25% |
-| 07:30 | IDR | Low | Lending Facility Rate (Jan) |  |  | 6.75% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -3.93B |
 | 09:00 | EUR | Low | Current Account (Nov) |  | 28.0B | 25.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Nov) |  |  | 32.0B |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.5% | 0.5% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.5% | -0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
-| 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) |  | 127.08 | 126.62 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.8% | 2.8% |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.8% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  | 0.4% | -0.4% |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 1.1% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.2% |
@@ -41,14 +39,16 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 634.59B |
 | 13:30 | USD | Moderate | Building Permits (Dec) |  | 1.460M | 1.493M |
 | 13:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | 5.2% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -1.8% |
 | 13:30 | USD | Moderate | Housing Starts (Dec) |  | 1.330M | 1.289M |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  |  | 21.55B |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -1.8% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  | 14.50B | 21.55B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -2.650B |
 | 14:15 | USD | Low | Capacity Utilization Rate (Dec) |  | 77.0% | 76.8% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | -0.90% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Dec) |  | 0.2% | 0.2% |
+| 17:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:15 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |
