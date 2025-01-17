@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
 | 01:30 | SGD | Low | Trade Balance (Dec) | 3.850B |  | 6.490B |
 | 01:30 | CNY | Low | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
 | 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
@@ -16,8 +16,8 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) | 3.48% |  | 3.45% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Dec) | 5.1% | 5.0% | 5.0% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | 0.4% | 0.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 4.2% | 0.5% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Jan) |  |  | 5.25% |
@@ -28,8 +28,8 @@
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.5% | 0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) |  | 127.08 | 126.62 |
@@ -41,8 +41,8 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 634.59B |
 | 13:30 | USD | Moderate | Building Permits (Dec) |  | 1.460M | 1.493M |
 | 13:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | 5.2% |
-| 13:30 | USD | Moderate | Housing Starts (Dec) |  | 1.330M | 1.289M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | -1.8% |
+| 13:30 | USD | Moderate | Housing Starts (Dec) |  | 1.330M | 1.289M |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  |  | 21.55B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -2.650B |
 | 14:15 | USD | Low | Capacity Utilization Rate (Dec) |  | 77.0% | 76.8% |
