@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | SGD | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
 | 01:30 | SGD | Trade Balance (Dec) | 3.850B |  | 6.490B |
 | 01:30 | CNY | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
 | 02:00 | CNY | Retail Sales (YoY) (Dec) | 3.7% | 3.5% | 3.0% |
@@ -12,8 +12,8 @@
 | 09:00 | EUR | Current Account n.s.a. (Nov) | 34.6B |  | 32.0B |
 | 09:15 | CNY | FDI (Dec) | -27.10% |  | -27.90% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) | 0.5% | 0.5% | -0.6% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) | 0.4% |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) | 2.3% |  | 2.1% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) | 0.4% |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Dec) | 127.07 | 127.08 | 126.62 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.7% | 2.8% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.3% | 0.4% | -0.4% |
