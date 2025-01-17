@@ -9,16 +9,16 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) | 5.8% |  | 5.8% |
 | 02:00 | CNY | Chinese Unemployment Rate (Dec) | 5.1% | 5.0% | 5.0% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (MoM) (Dec) | -0.6% | 0.1% | 0.1% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Dec) | 2.9% | 3.6% | -0.5% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Dec) | -0.6% | 0.1% | 0.1% |
 | 07:00 | GBP | Retail Sales (MoM) (Dec) | -0.3% | 0.4% | 0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Dec) | 3.6% | 4.2% | 0.0% |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.3% |
 | 13:30 | USD | Building Permits (Dec) | 1.483M | 1.460M | 1.493M |
-| 13:30 | USD | Housing Starts (MoM) (Dec) | 15.8% |  | -3.7% |
 | 13:30 | USD | Housing Starts (Dec) | 1.499M | 1.330M | 1.294M |
+| 13:30 | USD | Housing Starts (MoM) (Dec) | 15.8% |  | -3.7% |
 | 13:30 | CAD | Foreign Securities Purchases (Nov) | 16.40B | 14.50B | 21.55B |
 | 14:15 | USD | Industrial Production (YoY) (Dec) | 0.55% |  | -0.61% |
 | 14:15 | USD | Industrial Production (MoM) (Dec) | 0.9% | 0.3% | 0.2% |
