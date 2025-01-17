@@ -17,8 +17,8 @@
 | 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 13:30 | USD | Building Permits (Dec) |  | 1.460M | 1.493M |
-| 13:30 | USD | Housing Starts (MoM) (Dec) |  |  | -1.8% |
 | 13:30 | USD | Housing Starts (Dec) |  | 1.330M | 1.289M |
+| 13:30 | USD | Housing Starts (MoM) (Dec) |  |  | -1.8% |
 | 13:30 | CAD | Foreign Securities Purchases (Nov) |  |  | 21.55B |
 | 14:15 | USD | Industrial Production (YoY) (Dec) |  |  | -0.90% |
 | 14:15 | USD | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |

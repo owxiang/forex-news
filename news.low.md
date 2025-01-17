@@ -14,8 +14,8 @@
 | 09:00 | EUR | Current Account (Nov) |  | 28.0B | 25.8B |
 | 09:00 | EUR | Current Account n.s.a. (Nov) |  |  | 32.0B |
 | 10:00 | EUR | Core CPI (MoM) (Dec) |  | 0.5% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Dec) |  | 127.08 | 126.62 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 2.8% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) |  | 0.4% | -0.4% |
