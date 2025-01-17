@@ -47,11 +47,11 @@
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) | 0.55% |  | -0.61% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) | 0.9% | 0.3% | 0.2% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Dec) | 0.6% | 0.2% | 0.4% |
-| 54 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 54 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 17:15 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 17:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 10 min | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.0% | 3.0% | 3.0% |
+| 55 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 55 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 14.5K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 4.3K |

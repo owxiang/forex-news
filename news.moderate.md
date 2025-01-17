@@ -22,11 +22,11 @@
 | 13:30 | CAD | Foreign Securities Purchases (Nov) | 16.40B | 14.50B | 21.55B |
 | 14:15 | USD | Industrial Production (YoY) (Dec) | 0.55% |  | -0.61% |
 | 14:15 | USD | Industrial Production (MoM) (Dec) | 0.9% | 0.3% | 0.2% |
-| 54 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 54 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 17:15 | USD | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 17:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 10 min | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 3.0% | 3.0% |
+| 55 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 55 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 14.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 279.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 254.9K |
