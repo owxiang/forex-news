@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
 | 01:30 | SGD | Low | Trade Balance (Dec) | 3.850B |  | 6.490B |
 | 01:30 | CNY | Low | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
 | 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
@@ -16,24 +16,23 @@
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) | 3.48% |  | 3.45% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Dec) | 5.1% | 5.0% | 5.0% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) | 2.9% | 3.6% | -0.5% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) | -0.6% | 0.1% | 0.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) | 2.9% | 3.6% | -0.5% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) | -0.3% | 0.4% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) | 3.6% | 4.2% | 0.0% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -3.93B |
 | 09:00 | EUR | Low | Current Account (Nov) | 27.0B | 28.0B | 25.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Nov) | 34.6B |  | 32.0B |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 54 min | EUR | Low | Core CPI (MoM) (Dec) |  | 0.5% | -0.6% |
-| 54 min | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
-| 54 min | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.2% |
-| 54 min | EUR | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
-| 54 min | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
-| 54 min | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
-| 54 min | EUR | Low | CPI, n.s.a (Dec) |  | 127.08 | 126.62 |
-| 54 min | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 2.8% | 2.7% |
-| 54 min | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  | 0.4% | -0.4% |
-| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 1.1% |
+| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 2.7% | 2.7% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% | 0.5% | -0.6% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.4% | 0.4% | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Dec) | 2.4% | 2.4% | 2.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) | 2.3% |  | 2.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) | 0.4% |  | -0.3% |
+| 10:00 | EUR | Low | CPI, n.s.a (Dec) | 127.07 | 127.08 | 126.62 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 2.7% | 2.8% | 2.7% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) | 0.3% | 0.4% | -0.4% |
+| 54 min | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 1.1% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.2% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 9.8% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 634.59B |
@@ -43,6 +42,7 @@
 | 13:30 | USD | Moderate | Housing Starts (Dec) |  | 1.330M | 1.289M |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  | 14.50B | 21.55B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -2.650B |
+| 14:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -3.93B |
 | 14:15 | USD | Low | Capacity Utilization Rate (Dec) |  | 77.0% | 76.8% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | -0.90% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |
