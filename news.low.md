@@ -12,8 +12,8 @@
 | 09:00 | EUR | Current Account n.s.a. (Nov) | 34.6B |  | 32.0B |
 | 09:15 | CNY | FDI (Dec) | -27.10% |  | -27.90% |
 | 10:00 | EUR | Core CPI (MoM) (Dec) | 0.5% | 0.5% | -0.6% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) | 2.3% |  | 2.1% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Dec) | 0.4% |  | -0.3% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Dec) | 2.3% |  | 2.1% |
 | 10:00 | EUR | CPI, n.s.a (Dec) | 127.07 | 127.08 | 126.62 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 2.7% | 2.8% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Dec) | 0.3% | 0.4% | -0.4% |
@@ -23,8 +23,8 @@
 | 11:30 | INR | FX Reserves, USD | 625.87B |  | 634.59B |
 | 13:30 | USD | Building Permits (MoM) (Dec) | -0.7% |  | 5.2% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Nov) | 17.850B |  | -2.650B |
-| 10 min | USD | Capacity Utilization Rate (Dec) |  | 77.0% | 76.8% |
-| 10 min | USD | Manufacturing Production (MoM) (Dec) |  | 0.2% | 0.2% |
+| 14:15 | USD | Capacity Utilization Rate (Dec) | 77.6% | 77.0% | 77.0% |
+| 14:15 | USD | Manufacturing Production (MoM) (Dec) | 0.6% | 0.2% | 0.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 4.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 319.8K |
