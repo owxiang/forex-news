@@ -1,29 +1,37 @@
-## 16 January 2025 - Moderate Impact Forex News
+## 17 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Dec) | 56.3K | 14.5K | 28.2K |
-| 00:30 | AUD | Full Employment Change (Dec) | -23.7K |  | 49.5K |
-| 00:30 | AUD | Unemployment Rate (Dec) | 4.0% | 4.0% | 3.9% |
-| 07:00 | GBP | Industrial Production (MoM) (Nov) | -0.4% | 0.1% | -0.6% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Nov) | -0.3% | -0.2% | -0.6% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Nov) | 0.0% | 0.0% | 0.0% |
-| 07:00 | GBP | Trade Balance (Nov) | -19.31B | -18.00B | -19.33B |
-| 07:00 | GBP | Trade Balance Non-EU (Nov) | -7.72B |  | -7.65B |
-| 07:00 | EUR | German CPI (YoY) (Dec) | 2.6% | 2.6% | 2.2% |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | EUR | Trade Balance (Nov) | 16.4B | 11.8B | 8.6B |
-| 12:00 | GBP | NIESR Monthly GDP Tracker (Dec) | 0.0% |  | 0.0% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:15 | CAD | Housing Starts (Dec) | 231.5K | 252.0K | 267.1K |
-| 13:30 | USD | Continuing Jobless Claims | 1,859K | 1,870K | 1,877K |
-| 13:30 | USD | Export Price Index (MoM) (Dec) | 0.3% | 0.2% | 0.0% |
-| 13:30 | USD | Import Price Index (MoM) (Dec) | 0.1% | -0.1% | 0.1% |
-| 13:30 | USD | Philly Fed Employment (Jan) | 11.9 |  | 4.8 |
-| 13:30 | USD | Retail Control (MoM) (Dec) | 0.7% | 0.4% | 0.4% |
-| 15:00 | USD | Business Inventories (MoM) (Nov) | 0.1% | 0.1% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (Nov) | 0.5% | 0.6% | 0.1% |
-| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q4) | 3.0% | 2.7% | 2.7% |
-| 21:30 | USD | Fed's Balance Sheet | 6,834B |  | 6,854B |
-| 21:30 | NZD | Business NZ PMI (Dec) | 45.9 |  | 45.5 |
+| 02:00 | CNY | Fixed Asset Investment (YoY) (Dec) |  | 3.3% | 3.3% |
+| 02:00 | CNY | GDP (QoQ) (Q4) |  | 1.6% | 0.9% |
+| 02:00 | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 4.8% |
+| 02:00 | CNY | Industrial Production (YoY) (Dec) |  | 5.4% | 5.4% |
+| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 5.8% |
+| 02:00 | CNY | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
+| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 07:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Dec) |  | 0.1% | 0.3% |
+| 07:00 | GBP | Retail Sales (YoY) (Dec) |  | 4.2% | 0.5% |
+| 07:00 | GBP | Retail Sales (MoM) (Dec) |  | 0.4% | 0.2% |
+| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
+| 13:30 | USD | Building Permits (Dec) |  | 1.460M | 1.493M |
+| 13:30 | USD | Housing Starts (MoM) (Dec) |  |  | -1.8% |
+| 13:30 | USD | Housing Starts (Dec) |  | 1.330M | 1.289M |
+| 13:30 | CAD | Foreign Securities Purchases (Nov) |  |  | 21.55B |
+| 14:15 | USD | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Dec) |  |  | -0.90% |
+| 17:15 | USD | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 14.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 279.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 254.9K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 18.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -62.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -73.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -33.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -20.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -64.1K |
+| 21:00 | USD | TIC Net Long-Term Transactions (Nov) |  | 159.9B | 152.3B |
