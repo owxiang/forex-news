@@ -2,34 +2,34 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 5 min | SGD | Low | Non-Oil Exports (YoY) (Dec) |  | 7.40% | 3.40% |
-| 5 min | SGD | Low | Non-Oil Exports (MoM) (Dec) |  |  | 14.70% |
-| 01:30 | SGD | Low | Trade Balance (Dec) |  |  | 6.520B |
-| 01:30 | CNY | Low | House Prices (YoY) (Dec) |  |  | -5.7% |
-| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) |  | 3.3% | 3.3% |
-| 02:00 | CNY | High | GDP (YoY) (Q4) |  | 5.0% | 4.6% |
-| 02:00 | CNY | Moderate | GDP (QoQ) (Q4) |  | 1.6% | 0.9% |
-| 02:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q4) |  |  | 4.8% |
-| 02:00 | CNY | Moderate | Industrial Production (YoY) (Dec) |  | 5.4% | 5.4% |
-| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 5.8% |
-| 02:00 | CNY | Low | Retail Sales (YoY) (Dec) |  | 3.5% | 3.0% |
-| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 3.45% |
-| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
-| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
+| 01:30 | SGD | Low | Trade Balance (Dec) | 3.850B |  | 6.490B |
+| 01:30 | CNY | Low | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
+| 27 min | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) |  | 3.3% | 3.3% |
+| 27 min | CNY | High | GDP (YoY) (Q4) |  | 5.0% | 4.6% |
+| 27 min | CNY | Moderate | GDP (QoQ) (Q4) |  | 1.6% | 0.9% |
+| 27 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q4) |  |  | 4.8% |
+| 27 min | CNY | Moderate | Industrial Production (YoY) (Dec) |  | 5.4% | 5.4% |
+| 27 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 5.8% |
+| 27 min | CNY | Low | Retail Sales (YoY) (Dec) |  | 3.5% | 3.0% |
+| 27 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 3.45% |
+| 27 min | CNY | Moderate | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
+| 27 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 4.2% | 0.5% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | 0.4% | 0.2% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 4.2% | 0.5% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Jan) |  |  | 5.25% |
 | 07:30 | IDR | Low | Lending Facility Rate (Jan) |  |  | 6.75% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -3.93B |
 | 09:00 | EUR | Low | Current Account (Nov) |  | 28.0B | 25.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Nov) |  |  | 32.0B |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.5% | 0.5% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Dec) |  | 2.4% | 2.4% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Dec) |  | 127.08 | 126.62 |
@@ -46,8 +46,8 @@
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  |  | 21.55B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -2.650B |
 | 14:15 | USD | Low | Capacity Utilization Rate (Dec) |  | 77.0% | 76.8% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Dec) |  |  | -0.90% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Dec) |  | 0.2% | 0.2% |
 | 17:15 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |

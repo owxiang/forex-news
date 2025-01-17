@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Dec) |  | 3.3% | 3.3% |
-| 02:00 | CNY | GDP (QoQ) (Q4) |  | 1.6% | 0.9% |
-| 02:00 | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 4.8% |
-| 02:00 | CNY | Industrial Production (YoY) (Dec) |  | 5.4% | 5.4% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 5.8% |
-| 02:00 | CNY | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
+| 27 min | CNY | Fixed Asset Investment (YoY) (Dec) |  | 3.3% | 3.3% |
+| 27 min | CNY | GDP (QoQ) (Q4) |  | 1.6% | 0.9% |
+| 27 min | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 4.8% |
+| 27 min | CNY | Industrial Production (YoY) (Dec) |  | 5.4% | 5.4% |
+| 27 min | CNY | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 5.8% |
+| 27 min | CNY | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
+| 27 min | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Core Retail Sales (MoM) (Dec) |  | 0.1% | 0.3% |
-| 07:00 | GBP | Retail Sales (YoY) (Dec) |  | 4.2% | 0.5% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 3.6% | 0.1% |
 | 07:00 | GBP | Retail Sales (MoM) (Dec) |  | 0.4% | 0.2% |
+| 07:00 | GBP | Retail Sales (YoY) (Dec) |  | 4.2% | 0.5% |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Dec) |  | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Dec) |  | 0.4% | -0.3% |
@@ -20,8 +20,8 @@
 | 13:30 | USD | Housing Starts (MoM) (Dec) |  |  | -1.8% |
 | 13:30 | USD | Housing Starts (Dec) |  | 1.330M | 1.289M |
 | 13:30 | CAD | Foreign Securities Purchases (Nov) |  |  | 21.55B |
-| 14:15 | USD | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Dec) |  |  | -0.90% |
+| 14:15 | USD | Industrial Production (MoM) (Dec) |  | 0.3% | -0.1% |
 | 17:15 | USD | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |

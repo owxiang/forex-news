@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | SGD | Non-Oil Exports (YoY) (Dec) |  | 7.40% | 3.40% |
-| 5 min | SGD | Non-Oil Exports (MoM) (Dec) |  |  | 14.70% |
-| 01:30 | SGD | Trade Balance (Dec) |  |  | 6.520B |
-| 01:30 | CNY | House Prices (YoY) (Dec) |  |  | -5.7% |
-| 02:00 | CNY | Retail Sales (YoY) (Dec) |  | 3.5% | 3.0% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 3.45% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Dec) | 1.70% |  | 14.70% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Dec) | 9.00% | 7.40% | 3.40% |
+| 01:30 | SGD | Trade Balance (Dec) | 3.850B |  | 6.490B |
+| 01:30 | CNY | House Prices (YoY) (Dec) | -5.3% |  | -5.7% |
+| 27 min | CNY | Retail Sales (YoY) (Dec) |  | 3.5% | 3.0% |
+| 27 min | CNY | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 3.45% |
 | 07:30 | IDR | Deposit Facility Rate (Jan) |  |  | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Jan) |  |  | 6.75% |
 | 09:00 | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
