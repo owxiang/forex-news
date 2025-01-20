@@ -2,14 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | 1.7% |  | -1.7% |
-| 23 min | JPY | Capacity Utilization (MoM) (Nov) |  |  | 2.6% |
-| 23 min | JPY | Tertiary Industry Activity Index (Nov) |  | 0.10 | 0.30 |
-| 53 min | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
-| 07:00 | EUR | German PPI (YoY) (Dec) |  |  | 0.1% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) (Jan) | 1.7% |  | -1.7% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
+| 04:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
+| 07:00 | EUR | German PPI (YoY) (Dec) |  | 1.1% | 0.1% |
 | 07:30 | CHF | PPI (YoY) (Dec) |  |  | -1.5% |
 | 08:30 | HKD | Unemployment Rate (Dec) |  |  | 3.1% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 10:00 | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
 | 10:00 | EUR | Construction Output (MoM) (Nov) |  |  | 0.97% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.489% |
