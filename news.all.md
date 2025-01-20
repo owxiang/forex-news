@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.7% |  | -1.7% |
-| 34 min | CNY | Moderate | China Loan Prime Rate 5Y (Jan) |  | 3.60% | 3.60% |
-| 49 min | CNY | Moderate | PBoC Loan Prime Rate (Jan) |  | 3.10% | 3.10% |
+| 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jan) | 3.60% | 3.60% | 3.60% |
+| 01:00 | CNY | Moderate | PBoC Loan Prime Rate (Jan) | 3.10% | 3.10% | 3.10% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) |  |  | 2.6% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -2.3% | -2.3% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) |  | 0.10 | 0.30 |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | CNY | China Loan Prime Rate 5Y (Jan) |  | 3.60% | 3.60% |
-| 49 min | CNY | PBoC Loan Prime Rate (Jan) |  | 3.10% | 3.10% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Jan) | 3.60% | 3.60% | 3.60% |
+| 01:00 | CNY | PBoC Loan Prime Rate (Jan) | 3.10% | 3.10% | 3.10% |
 | 04:30 | JPY | Industrial Production (MoM) (Nov) |  | -2.3% | -2.3% |
 | 07:00 | EUR | German PPI (MoM) (Dec) |  | 0.3% | 0.5% |
 | 07:30 | CHF | PPI (MoM) (Dec) |  | 0.2% | -0.6% |
