@@ -27,5 +27,5 @@
 | 21:00 | KRW | Low | PPI (MoM) (Dec) |  |  | 0.1% |
 | 21:00 | KRW | Low | PPI (YoY) (Dec) |  |  | 1.4% |
 | 21:30 | NZD | Low | Performance of Services Index |  |  | 49.5 |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | -2.3% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 0.0% |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | -2.3% |
