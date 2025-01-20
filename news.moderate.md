@@ -6,8 +6,8 @@
 | 01:00 | CNY | PBoC Loan Prime Rate (Jan) | 3.10% | 3.10% | 3.10% |
 | 04:30 | JPY | Industrial Production (MoM) (Nov) | -2.2% | -2.3% | -2.3% |
 | 07:00 | EUR | German PPI (MoM) (Dec) | -0.1% | 0.3% | 0.5% |
-| 24 min | CHF | PPI (MoM) (Dec) |  | 0.2% | -0.6% |
-| 54 min | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 07:30 | CHF | PPI (MoM) (Dec) | 0.0% | 0.2% | -0.6% |
+| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:00 | CAD | BoC Business Outlook Survey |  |  |  |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |

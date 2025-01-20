@@ -9,12 +9,12 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -2.2% | -2.3% | -2.3% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Dec) | -0.1% | 0.3% | 0.5% |
 | 07:00 | EUR | Low | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
-| 24 min | CHF | Moderate | PPI (MoM) (Dec) |  | 0.2% | -0.6% |
-| 24 min | CHF | Low | PPI (YoY) (Dec) |  |  | -1.5% |
-| 54 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:30 | HKD | Low | Unemployment Rate (Dec) |  |  | 3.1% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Dec) | -0.1% | 0.3% | 0.5% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Dec) | 0.0% | 0.2% | -0.6% |
+| 07:30 | CHF | Low | PPI (YoY) (Dec) | -0.9% |  | -1.5% |
+| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 22 min | HKD | Low | Unemployment Rate (Dec) |  |  | 3.1% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | EUR | Low | Spanish Trade Balance (Nov) |  |  | -3.93B |
 | 10:00 | EUR | Low | Construction Output (MoM) (Nov) |  |  | 0.97% |
@@ -25,8 +25,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.691% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.593% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 21:00 | KRW | Low | PPI (MoM) (Dec) |  |  | 0.1% |
 | 21:00 | KRW | Low | PPI (YoY) (Dec) |  |  | 1.4% |
+| 21:00 | KRW | Low | PPI (MoM) (Dec) |  |  | 0.1% |
 | 21:30 | NZD | Low | Performance of Services Index |  |  | 49.5 |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | -2.3% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 0.0% |
