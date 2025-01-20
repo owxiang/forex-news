@@ -10,5 +10,5 @@
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:00 | CAD | BoC Business Outlook Survey |  |  |  |
-| 24 min | CAD | BoC Business Outlook Survey |  |  |  |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) |  |  | 0.0% |
