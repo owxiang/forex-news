@@ -8,10 +8,10 @@
 | 04:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
 | 07:00 | EUR | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
 | 07:30 | CHF | PPI (YoY) (Dec) | -0.9% |  | -1.5% |
-| 22 min | HKD | Unemployment Rate (Dec) |  |  | 3.1% |
-| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 10:00 | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
-| 10:00 | EUR | Construction Output (MoM) (Nov) |  |  | 0.97% |
+| 08:30 | HKD | Unemployment Rate (Dec) | 3.1% |  | 3.1% |
+| 53 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 53 min | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
+| 53 min | EUR | Construction Output (MoM) (Nov) |  |  | 0.97% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.489% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.691% |
