@@ -15,7 +15,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.408% |  | 2.489% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.633% |  | 2.691% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.532% |  | 2.593% |
-| 54 min | KRW | PPI (YoY) (Dec) |  |  | 1.4% |
-| 54 min | KRW | PPI (MoM) (Dec) |  |  | 0.1% |
-| 21:30 | NZD | Performance of Services Index |  |  | 49.5 |
-| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | -2.3% |
+| 21:00 | KRW | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
+| 21:00 | KRW | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
+| 25 min | NZD | Performance of Services Index |  |  | 49.5 |
+| 40 min | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | -2.3% |
