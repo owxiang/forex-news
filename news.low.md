@@ -6,8 +6,8 @@
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
 | 04:30 | JPY | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
-| 51 min | EUR | German PPI (YoY) (Dec) |  | 1.1% | 0.1% |
-| 07:30 | CHF | PPI (YoY) (Dec) |  |  | -1.5% |
+| 07:00 | EUR | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
+| 24 min | CHF | PPI (YoY) (Dec) |  |  | -1.5% |
 | 08:30 | HKD | Unemployment Rate (Dec) |  |  | 3.1% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | EUR | Spanish Trade Balance (Nov) |  |  | -3.93B |
