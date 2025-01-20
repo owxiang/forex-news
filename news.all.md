@@ -20,9 +20,9 @@
 | 11:00 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 11:12 | GBP | Low | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.489% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.691% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.593% |
+| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.489% |
+| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.691% |
+| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.593% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 21:00 | KRW | Low | PPI (YoY) (Dec) |  |  | 1.4% |
 | 21:00 | KRW | Low | PPI (MoM) (Dec) |  |  | 0.1% |

@@ -12,9 +12,9 @@
 | 10:00 | EUR | Construction Output (MoM) (Nov) | 1.16% |  | 0.78% |
 | 11:12 | GBP | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.489% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.691% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.593% |
+| 51 min | EUR | French 12-Month BTF Auction |  |  | 2.489% |
+| 51 min | EUR | French 3-Month BTF Auction |  |  | 2.691% |
+| 51 min | EUR | French 6-Month BTF Auction |  |  | 2.593% |
 | 21:00 | KRW | PPI (YoY) (Dec) |  |  | 1.4% |
 | 21:00 | KRW | PPI (MoM) (Dec) |  |  | 0.1% |
 | 21:30 | NZD | Performance of Services Index |  |  | 49.5 |
