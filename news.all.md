@@ -1,32 +1,49 @@
-## 20 January 2025 - All Forex News
+## 21 January 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Jan) | 1.7% |  | -1.7% |
-| 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jan) | 3.60% | 3.60% | 3.60% |
-| 01:00 | CNY | Moderate | PBoC Loan Prime Rate (Jan) | 3.10% | 3.10% | 3.10% |
-| 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -2.2% | -2.3% | -2.3% |
-| 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Dec) | -0.1% | 0.3% | 0.5% |
-| 07:00 | EUR | Low | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Dec) | 0.0% | 0.2% | -0.6% |
-| 07:30 | CHF | Low | PPI (YoY) (Dec) | -0.9% |  | -1.5% |
+| 02:00 | NZD | Low | RBNZ Offshore Holdings (Dec) |  |  | 58.60% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.9% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 6.5% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | -1.8% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | -10.8% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 5.4% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -0.5% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | -1.6% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) |  | 5.5% | 5.2% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 5.6% | 5.2% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Dec) |  | 10.3K | 0.3K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  |  | 173K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.3% |
+| 08:00 | CHF | Low | M3 Money Supply (Dec) |  |  | 1,155.9B |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:30 | HKD | Low | Unemployment Rate (Dec) | 3.1% |  | 3.1% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Nov) | -5.13B |  | -3.93B |
-| 10:00 | EUR | Low | Construction Output (MoM) (Nov) | 1.16% |  | 0.78% |
+| 08:30 | HKD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
+| 08:30 | HKD | Low | CPI (YoY) (Dec) |  | 1.50% | 1.40% |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Nov) |  |  | -3.4% |
+| 09:30 | ZAR | Low | Mining Production (Nov) |  |  | 1.4% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Jan) |  | -93.1 | -93.1 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jan) |  | 15.2 | 15.7 |
+| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 11:12 | GBP | Low | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.408% |  | 2.489% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.633% |  | 2.691% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.532% |  | 2.593% |
-| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
-| 21:00 | KRW | Low | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
-| 21:30 | NZD | Low | Performance of Services Index | 47.9 |  | 49.5 |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) | 2.0% |  | 0.1% |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) |  | 16.9 | 17.0 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Nov) |  |  | -0.3% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Nov) |  |  | -1.2% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.4% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 4,029.0 |
+| 13:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 1.9% | 2.0% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | -0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 1.6% |
+| 13:30 | CAD | Low | CPI (YoY) (Dec) |  | 1.8% | 1.9% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Dec) |  | -0.7% | 0.0% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Dec) |  | 2.5% | 2.6% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Dec) |  | 2.5% | 2.7% |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.180% |
+| 18:00 | USD | Low | 52-Week Bill Auction |  |  | 4.070% |
+| 21:00 | KRW | Low | Consumer Confidence (Jan) |  |  | 88.4 |
+| 21:45 | NZD | Moderate | CPI (YoY) (Q4) |  | 2.1% | 2.2% |
+| 21:45 | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 0.6% |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |

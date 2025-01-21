@@ -1,5 +1,3 @@
-## 20 January 2025 - High Impact Forex News
+## 21 January 2025 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 17:00 | USD | U.S. President Trump Speaks |  |  |  |
+There is no high impact news today.

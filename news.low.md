@@ -1,21 +1,35 @@
-## 20 January 2025 - Low Impact Forex News
+## 21 January 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Jan) | 1.7% |  | -1.7% |
-| 04:30 | JPY | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
-| 07:00 | EUR | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
-| 07:30 | CHF | PPI (YoY) (Dec) | -0.9% |  | -1.5% |
-| 08:30 | HKD | Unemployment Rate (Dec) | 3.1% |  | 3.1% |
-| 09:00 | EUR | Spanish Trade Balance (Nov) | -5.13B |  | -3.93B |
-| 10:00 | EUR | Construction Output (MoM) (Nov) | 1.16% |  | 0.78% |
-| 11:12 | GBP | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.408% |  | 2.489% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.633% |  | 2.691% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.532% |  | 2.593% |
-| 21:00 | KRW | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
-| 21:00 | KRW | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
-| 21:30 | NZD | Performance of Services Index | 47.9 |  | 49.5 |
-| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Dec) |  |  | 58.60% |
+| 05:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.9% |
+| 05:00 | GBP | Car Registration (MoM) (Dec) |  |  | 6.5% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | -1.8% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | -10.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Dec) |  |  | 5.4% |
+| 05:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -0.5% |
+| 05:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Dec) |  |  | -1.6% |
+| 07:00 | GBP | Average Earnings ex Bonus (Nov) |  | 5.5% | 5.2% |
+| 08:00 | CHF | M3 Money Supply (Dec) |  |  | 1,155.9B |
+| 08:30 | HKD | CPI (MoM) (Dec) |  |  | 0.00% |
+| 08:30 | HKD | CPI (YoY) (Dec) |  | 1.50% | 1.40% |
+| 09:30 | ZAR | Gold Production (YoY) (Nov) |  |  | -3.4% |
+| 09:30 | ZAR | Mining Production (Nov) |  |  | 1.4% |
+| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | MXN | Retail Sales (MoM) (Nov) |  |  | -0.3% |
+| 12:00 | MXN | Retail Sales (YoY) (Nov) |  |  | -1.2% |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.4% |
+| 12:00 | USD | Milk Auctions |  |  | 4,029.0 |
+| 13:30 | CAD | Common CPI (YoY) (Dec) |  | 1.9% | 2.0% |
+| 13:30 | CAD | CPI (YoY) (Dec) |  | 1.8% | 1.9% |
+| 13:30 | CAD | Median CPI (YoY) (Dec) |  | 2.5% | 2.6% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Dec) |  | 2.5% | 2.7% |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 4.225% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 4.180% |
+| 18:00 | USD | 52-Week Bill Auction |  |  | 4.070% |
+| 21:00 | KRW | Consumer Confidence (Jan) |  |  | 88.4 |
+| 21:45 | NZD | Visitor Arrivals (MoM) |  |  | 0.6% |
