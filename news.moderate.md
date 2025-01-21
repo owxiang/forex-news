@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | GBP | Average Earnings Index +Bonus (Nov) |  | 5.6% | 5.2% |
-| 52 min | GBP | Claimant Count Change (Dec) |  | 10.3K | 0.3K |
-| 52 min | GBP | Employment Change 3M/3M (MoM) (Nov) |  | 35K | 173K |
-| 52 min | GBP | Unemployment Rate (Nov) |  | 4.3% | 4.3% |
-| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 07:00 | GBP | Average Earnings Index +Bonus (Nov) | 5.6% | 5.6% | 5.2% |
+| 07:00 | GBP | Claimant Count Change (Dec) | 0.7K | 10.3K | -25.1K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Nov) | 35K | 35K | 173K |
+| 07:00 | GBP | Unemployment Rate (Nov) | 4.4% | 4.3% | 4.3% |
+| 54 min | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Jan) |  | -93.1 | -93.1 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Jan) |  | 15.2 | 15.7 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
