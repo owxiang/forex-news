@@ -6,7 +6,7 @@
 | 07:00 | GBP | Claimant Count Change (Dec) | 0.7K | 10.3K | -25.1K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Nov) | 35K | 35K | 173K |
 | 07:00 | GBP | Unemployment Rate (Nov) | 4.4% | 4.3% | 4.3% |
-| 54 min | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Jan) |  | -93.1 | -93.1 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Jan) |  | 15.2 | 15.7 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
