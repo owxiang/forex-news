@@ -27,8 +27,8 @@
 | 13:30 | CAD | CPI (YoY) (Dec) | 1.8% | 1.8% | 1.9% |
 | 13:30 | CAD | Median CPI (YoY) (Dec) | 2.4% | 2.5% | 2.6% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Dec) | 2.5% | 2.5% | 2.6% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.225% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.180% |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.225% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.180% |
 | 18:00 | USD | 52-Week Bill Auction |  |  | 4.070% |
 | 21:00 | KRW | Consumer Confidence (Jan) |  |  | 88.4 |
 | 21:45 | NZD | Visitor Arrivals (MoM) |  |  | 0.6% |
