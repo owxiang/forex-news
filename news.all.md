@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 59.20% |  | 58.60% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) |  | 5.5% | 5.2% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 5.6% | 5.2% |
-| 07:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.9% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 6.5% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Dec) |  | 10.3K | 0.3K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  | 35K | 173K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.3% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | -1.8% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | -10.8% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 5.4% |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -0.5% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | -1.6% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Dec) | -8.3% |  | 6.5% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -14.9% |  | -1.8% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
+| 52 min | GBP | Low | Average Earnings ex Bonus (Nov) |  | 5.5% | 5.2% |
+| 52 min | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 5.6% | 5.2% |
+| 52 min | GBP | Moderate | Claimant Count Change (Dec) |  | 10.3K | 0.3K |
+| 52 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  | 35K | 173K |
+| 52 min | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.3% |
 | 08:00 | CHF | Low | M3 Money Supply (Dec) |  |  | 1,155.9B |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:30 | HKD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
@@ -44,6 +44,6 @@
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.180% |
 | 18:00 | USD | Low | 52-Week Bill Auction |  |  | 4.070% |
 | 21:00 | KRW | Low | Consumer Confidence (Jan) |  |  | 88.4 |
-| 21:45 | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 0.6% |
 | 21:45 | NZD | Moderate | CPI (YoY) (Q4) |  | 2.1% | 2.2% |
+| 21:45 | NZD | Moderate | CPI (QoQ) (Q4) |  | 0.5% | 0.6% |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
