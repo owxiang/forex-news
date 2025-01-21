@@ -11,8 +11,8 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Jan) | 10.3 | 15.2 | 15.7 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | ZEW Economic Sentiment (Jan) | 18.0 | 16.9 | 17.0 |
-| 13:30 | CAD | Core CPI (YoY) (Dec) |  |  | 1.6% |
 | 13:30 | CAD | Core CPI (MoM) (Dec) |  |  | -0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Dec) |  |  | 1.6% |
 | 13:30 | CAD | CPI (MoM) (Dec) |  | -0.7% | 0.0% |
 | 21:45 | NZD | CPI (YoY) (Q4) |  | 2.1% | 2.2% |
 | 21:45 | NZD | CPI (QoQ) (Q4) |  | 0.5% | 0.6% |
