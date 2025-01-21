@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Dec) |  |  | 58.60% |
+| 27 min | NZD | Low | RBNZ Offshore Holdings (Dec) |  |  | 58.60% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | -1.9% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 6.5% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | -1.8% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | -10.8% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 5.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -0.5% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | -1.6% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | -12.7% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) |  | 5.5% | 5.2% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 5.6% | 5.2% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Dec) |  | 10.3K | 0.3K |

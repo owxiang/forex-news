@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | RBNZ Offshore Holdings (Dec) |  |  | 58.60% |
+| 27 min | NZD | RBNZ Offshore Holdings (Dec) |  |  | 58.60% |
 | 05:00 | GBP | Car Registration (YoY) (Dec) |  |  | -1.9% |
 | 05:00 | GBP | Car Registration (MoM) (Dec) |  |  | 6.5% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | -1.8% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | -10.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Dec) |  |  | 5.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -0.5% |
-| 05:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Dec) |  |  | -1.6% |
+| 05:00 | EUR | French Car Registration (YoY) (Dec) |  |  | -12.7% |
 | 07:00 | GBP | Average Earnings ex Bonus (Nov) |  | 5.5% | 5.2% |
 | 08:00 | CHF | M3 Money Supply (Dec) |  |  | 1,155.9B |
 | 08:30 | HKD | CPI (MoM) (Dec) |  |  | 0.00% |
