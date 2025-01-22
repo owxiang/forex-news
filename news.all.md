@@ -18,8 +18,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 162.0 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 224.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 575.6 |
-| 13:30 | CAD | Low | IPPI (YoY) (Dec) |  |  | 2.2% |
 | 13:30 | CAD | Low | IPPI (MoM) (Dec) |  | 0.8% | 0.6% |
+| 13:30 | CAD | Low | IPPI (YoY) (Dec) |  |  | 2.2% |
 | 13:30 | CAD | Low | RMPI (YoY) (Dec) |  |  | 2.0% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Dec) |  | 0.4% | -0.5% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.0% |
