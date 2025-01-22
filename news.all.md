@@ -11,12 +11,12 @@
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
 | 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.09% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 33.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 162.0 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 224.4 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 575.6 |
+| 11:30 | INR | Low | M3 Money Supply | 10.1% |  | 9.3% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.1% |  | 33.3% |
+| 12:00 | USD | Low | MBA Purchase Index | 163.0 |  | 162.0 |
+| 12:00 | USD | Low | Mortgage Market Index | 224.6 |  | 224.4 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 558.8 |  | 575.6 |
 | 13:30 | CAD | Low | IPPI (YoY) (Dec) |  |  | 2.2% |
 | 13:30 | CAD | Low | IPPI (MoM) (Dec) |  | 0.5% | 0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Dec) |  |  | 2.0% |
