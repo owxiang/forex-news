@@ -8,8 +8,8 @@
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
 | 11:30 | INR | Low | M3 Money Supply | 10.1% |  | 9.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
@@ -20,10 +20,10 @@
 | 13:30 | CAD | Low | IPPI (YoY) (Dec) | 4.1% |  | 2.2% |
 | 13:30 | CAD | Low | IPPI (MoM) (Dec) | 0.2% | 0.5% | 0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Dec) | 9.1% |  | 2.4% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Dec) | 1.3% | 0.4% | -0.5% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Dec) | 1.3% | 0.4% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.5% |  | 4.0% |
-| 54 min | USD | Moderate | US Leading Index (MoM) (Dec) |  | -0.1% | 0.3% |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Dec) | -0.1% | -0.1% | 0.4% |
+| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.104B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.686% |
 | 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

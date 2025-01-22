@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 13:30 | CAD | RMPI (MoM) (Dec) | 1.3% | 0.4% | -0.5% |
-| 54 min | USD | US Leading Index (MoM) (Dec) |  | -0.1% | 0.3% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 13:30 | CAD | RMPI (MoM) (Dec) | 1.3% | 0.4% | -0.1% |
+| 15:00 | USD | US Leading Index (MoM) (Dec) | -0.1% | -0.1% | 0.4% |
+| 9 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.686% |
 | 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.600M |
