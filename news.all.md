@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
-| 52 min | GBP | Low | Public Sector Net Borrowing (Dec) |  | 14.20B | 11.25B |
-| 52 min | GBP | Low | Public Sector Net Cash Requirement (Dec) |  |  | 12.983B |
-| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Dec) |  |  | 0.0% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) |  |  | 3.7% |
-| 08:00 | ZAR | Low | CPI (MoM) (Dec) |  |  | 0.0% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) |  |  | 2.9% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) | 17.81B | 14.20B | 11.80B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
+| 54 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 54 min | ZAR | Low | Core CPI (MoM) (Dec) |  |  | 0.0% |
+| 54 min | ZAR | Low | Core CPI (YoY) (Dec) |  |  | 3.7% |
+| 54 min | ZAR | Low | CPI (MoM) (Dec) |  |  | 0.0% |
+| 54 min | ZAR | Low | CPI (YoY) (Dec) |  |  | 2.9% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | 6.3% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |
