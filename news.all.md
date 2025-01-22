@@ -33,8 +33,8 @@
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,790 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.4% | 1.5% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.64T | -0.38T |
 | 23:50 | JPY | Moderate | Exports (YoY) (Dec) |  | 2.3% | 3.8% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 756.7B |
