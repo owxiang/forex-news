@@ -8,9 +8,9 @@
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | 6.3% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.09% |
