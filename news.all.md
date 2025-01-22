@@ -24,9 +24,9 @@
 | 13:55 | USD | Low | Redbook (YoY) | 4.5% |  | 4.0% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Dec) | -0.1% | -0.1% | 0.4% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -1.104B |
-| 54 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.686% |
-| 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 0.806B |  | -1.104B |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.900% |  | 4.686% |
+| 22 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.600M |
 | 21:45 | NZD | Low | External Migration & Visitors (Nov) |  |  | 6.30% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,790 |
