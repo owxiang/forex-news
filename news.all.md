@@ -6,10 +6,10 @@
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) |  | 13.70B | 11.25B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) |  |  | 12.983B |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) |  |  | 3.7% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) |  |  | 0.0% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) |  |  | 2.9% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) |  |  | 3.7% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) |  |  | 0.0% |
+| 08:00 | ZAR | Low | CPI (YoY) (Dec) |  |  | 2.9% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | 6.3% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |
@@ -33,8 +33,8 @@
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,790 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.4% | 1.5% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.4% | 1.5% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.64T | -0.38T |
 | 23:50 | JPY | Moderate | Exports (YoY) (Dec) |  | 2.3% | 3.8% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 756.7B |
