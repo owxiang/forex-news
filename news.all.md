@@ -6,10 +6,10 @@
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) | 17.81B | 14.20B | 11.80B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
 | 11:30 | INR | Low | M3 Money Supply | 10.1% |  | 9.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
@@ -31,11 +31,11 @@
 | 21:45 | NZD | Low | External Migration & Visitors (Nov) | 5.90% |  | 6.30% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) | 2,070 |  | 1,530 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) | 1.0% |  | 0.0% |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.4% | 1.5% |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.51T | -0.38T |
-| 23:50 | JPY | Moderate | Exports (YoY) (Dec) |  | 2.3% | 3.8% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 756.7B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 313.3B |
-| 23:50 | JPY | Low | Imports (YoY) (Dec) |  | 2.6% | -3.8% |
-| 23:50 | JPY | Moderate | Trade Balance (Dec) |  | -55.0B | -110.3B |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) | 1.2% | 1.4% | 1.5% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) | 0.1% | 0.2% | 0.1% |
+| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.51T | -0.38T |
+| 44 min | JPY | Moderate | Exports (YoY) (Dec) |  | 2.3% | 3.8% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 756.7B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 313.3B |
+| 44 min | JPY | Low | Imports (YoY) (Dec) |  | 2.6% | -3.8% |
+| 44 min | JPY | Moderate | Trade Balance (Dec) |  | -55.0B | -110.3B |
