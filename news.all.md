@@ -8,8 +8,8 @@
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
 | 11:30 | INR | Low | M3 Money Supply | 10.1% |  | 9.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
@@ -27,10 +27,10 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 0.806B |  | -1.104B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.900% |  | 4.686% |
 | 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.600M |
-| 21:45 | NZD | Low | External Migration & Visitors (Nov) |  |  | 6.30% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,790 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.600M |
+| 39 min | NZD | Low | External Migration & Visitors (Nov) |  |  | 6.30% |
+| 39 min | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 2,790 |
+| 39 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.6% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.4% | 1.5% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.51T | -0.38T |

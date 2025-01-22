@@ -8,7 +8,7 @@
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.900% |  | 4.686% |
 | 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.600M |
+| 24 min | USD | API Weekly Crude Oil Stock |  |  | -2.600M |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.51T | -0.38T |
 | 23:50 | JPY | Exports (YoY) (Dec) |  | 2.3% | 3.8% |
 | 23:50 | JPY | Trade Balance (Dec) |  | -55.0B | -110.3B |
