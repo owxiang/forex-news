@@ -20,7 +20,7 @@
 | 13:30 | CAD | IPPI (MoM) (Dec) | 0.2% | 0.5% | 0.6% |
 | 13:30 | CAD | RMPI (YoY) (Dec) | 9.1% |  | 2.4% |
 | 13:55 | USD | Redbook (YoY) | 4.5% |  | 4.0% |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -1.104B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -1.104B |
 | 21:45 | NZD | External Migration & Visitors (Nov) |  |  | 6.30% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Nov) |  |  | 2,790 |
 | 21:45 | NZD | Visitor Arrivals (MoM) |  |  | 0.6% |
