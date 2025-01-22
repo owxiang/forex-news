@@ -6,12 +6,11 @@
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) | 17.81B | 14.20B | 11.80B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
-| 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | 6.3% |
+| 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 55 min | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | 6.3% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.09% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 33.3% |

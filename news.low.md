@@ -5,12 +5,11 @@
 | 00:00 | AUD | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
 | 07:00 | GBP | Public Sector Net Borrowing (Dec) | 17.81B | 14.20B | 11.80B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
-| 08:00 | ZAR | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
-| 08:00 | ZAR | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
-| 54 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 11:00 | ZAR | Retail Sales (YoY) (Nov) |  |  | 6.3% |
+| 08:00 | ZAR | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 55 min | ZAR | Retail Sales (YoY) (Nov) |  |  | 6.3% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.09% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 33.3% |
