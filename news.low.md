@@ -7,8 +7,8 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
 | 08:00 | ZAR | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
 | 08:00 | ZAR | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
-| 08:00 | ZAR | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
 | 08:00 | ZAR | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
+| 08:00 | ZAR | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
 | 11:00 | ZAR | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
 | 11:30 | INR | M3 Money Supply | 10.1% |  | 9.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
@@ -21,9 +21,9 @@
 | 13:30 | CAD | RMPI (YoY) (Dec) | 9.1% |  | 2.4% |
 | 13:55 | USD | Redbook (YoY) | 4.5% |  | 4.0% |
 | 17:30 | BRL | Foreign Exchange Flows | 0.806B |  | -1.104B |
-| 39 min | NZD | External Migration & Visitors (Nov) |  |  | 6.30% |
-| 39 min | NZD | Permanent/Long-Term Migration (Nov) |  |  | 2,790 |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | 0.6% |
+| 21:45 | NZD | External Migration & Visitors (Nov) | 5.90% |  | 6.30% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Nov) | 2,070 |  | 1,530 |
+| 21:45 | NZD | Visitor Arrivals (MoM) | 1.0% |  | 0.0% |
 | 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 23:00 | KRW | GDP (YoY) (Q4) |  | 1.4% | 1.5% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 756.7B |
