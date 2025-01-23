@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | AUD | NAB Business Confidence (Dec) |  |  | -3 |
 | 05:00 | SGD | Core CPI (YoY) (Dec) |  | 1.70% | 1.90% |
 | 05:00 | SGD | CPI (YoY) (Dec) |  | 1.5% | 1.6% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |

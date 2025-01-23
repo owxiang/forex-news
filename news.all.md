@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 5 min | AUD | Moderate | NAB Business Confidence (Dec) |  |  | -3 |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 7.00% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Dec) |  | 1.70% | 1.90% |
 | 05:00 | SGD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
