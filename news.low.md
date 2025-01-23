@@ -5,12 +5,11 @@
 | 03:00 | IDR | M2 Money Supply (YoY) (Dec) | 4.40% |  | 6.50% |
 | 05:00 | SGD | CPI (MoM) (Dec) | 0.40% |  | 0.00% |
 | 07:45 | EUR | French Business Survey (Jan) | 95 | 96 | 97 |
-| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.499% |
-| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 54 min | GBP | CBI Industrial Trends Orders (Jan) |  | -35 | -40 |
-| 12:00 | MXN | 1st Half-Month Core CPI (Jan) |  | 0.23% | 0.50% |
-| 12:00 | MXN | 1st Half-Month CPI (Jan) |  | 0.29% | 0.42% |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction | 4.384% |  | 4.499% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jan) | -34 | -35 | -40 |
+| 54 min | MXN | 1st Half-Month Core CPI (Jan) |  | 0.23% | 0.50% |
+| 54 min | MXN | 1st Half-Month CPI (Jan) |  | 0.29% | 0.42% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.75K |
 | 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 15:00 | EUR | Consumer Confidence (Jan) |  | -14.0 | -14.5 |

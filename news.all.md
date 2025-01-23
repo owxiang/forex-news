@@ -9,12 +9,11 @@
 | 07:45 | EUR | Low | French Business Survey (Jan) | 95 | 96 | 97 |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  | 4.499% |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 54 min | GBP | Low | CBI Industrial Trends Orders (Jan) |  | -35 | -40 |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.23% | 0.50% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.29% | 0.42% |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction | 4.384% |  | 4.499% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) | -34 | -35 | -40 |
+| 54 min | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.23% | 0.50% |
+| 54 min | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.29% | 0.42% |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,859K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 217K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.75K |
