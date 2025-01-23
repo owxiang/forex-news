@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) | 4.40% |  | 6.50% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Dec) |  | 1.70% | 1.90% |
-| 05:00 | SGD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Dec) |  | 1.5% | 1.6% |
+| 53 min | SGD | Moderate | Core CPI (YoY) (Dec) |  | 1.70% | 1.90% |
+| 53 min | SGD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
+| 53 min | SGD | Moderate | CPI (YoY) (Dec) |  | 1.5% | 1.6% |
 | 07:45 | EUR | Low | French Business Survey (Jan) |  | 96 | 97 |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
