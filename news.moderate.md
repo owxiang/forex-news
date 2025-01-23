@@ -10,7 +10,7 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (Nov) | -0.7% | 0.1% | -0.1% |
 | 13:30 | CAD | Retail Sales (MoM) (Nov) | 0.0% | 0.2% | 0.6% |
 | 17:00 | USD | Cushing Crude Oil Inventories | -0.148M |  | 0.765M |
-| 54 min | USD | 10-Year TIPS Auction |  |  | 2.071% |
+| 18:00 | USD | 10-Year TIPS Auction | 2.243% |  | 2.071% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,834B |
 | 23:30 | JPY | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
 | 23:30 | JPY | National CPI (MoM) (Dec) |  |  | 0.6% |

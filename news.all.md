@@ -36,7 +36,7 @@
 | 17:00 | USD | Low | Heating Oil Stockpiles | 0.068M |  | 0.646M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -5.8% |  | -1.6% |
 | 17:00 | USD | Low | Gasoline Inventories | 2.332M | 2.500M | 5.852M |
-| 54 min | USD | Moderate | 10-Year TIPS Auction |  |  | 2.071% |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.243% |  | 2.071% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,834B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.359T |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI |  |  | 47.8 |
