@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | M2 Money Supply (YoY) (Dec) | 4.40% |  | 6.50% |
 | 05:00 | SGD | CPI (MoM) (Dec) | 0.40% |  | 0.00% |
-| 39 min | EUR | French Business Survey (Jan) |  | 96 | 97 |
+| 07:45 | EUR | French Business Survey (Jan) | 95 | 96 | 97 |
 | 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.499% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jan) |  | -35 | -40 |
