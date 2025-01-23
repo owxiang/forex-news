@@ -14,12 +14,12 @@
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) | 0.28% | 0.23% | 0.50% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Jan) | 0.20% | 0.29% | 0.42% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,859K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 221K | 217K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.75K |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.1% | 0.1% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.2% | 0.6% |
-| 13:30 | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,859K |
+| 21 min | USD | High | Initial Jobless Claims |  | 221K | 217K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.75K |
+| 21 min | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.1% | 0.1% |
+| 21 min | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.2% | 0.6% |
+| 21 min | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 15:00 | EUR | Low | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
 | 15:30 | USD | Low | Natural Gas Storage |  | -270B | -258B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
