@@ -7,9 +7,9 @@
 | 07:45 | EUR | French Business Survey (Jan) | 95 | 96 | 97 |
 | 10:00 | GBP | 4-Year Treasury Gilt Auction | 4.384% |  | 4.499% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jan) | -34 | -35 | -40 |
-| 54 min | MXN | 1st Half-Month Core CPI (Jan) |  | 0.23% | 0.50% |
-| 54 min | MXN | 1st Half-Month CPI (Jan) |  | 0.29% | 0.42% |
-| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | MXN | 1st Half-Month Core CPI (Jan) | 0.28% | 0.23% | 0.50% |
+| 12:00 | MXN | 1st Half-Month CPI (Jan) | 0.20% | 0.29% | 0.42% |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.75K |
 | 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 15:00 | EUR | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
@@ -21,11 +21,11 @@
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.255M |
 | 17:00 | USD | Crude Oil Imports |  |  | -1.304M |
 | 17:00 | USD | Distillate Fuel Production |  |  | -0.021M |
-| 17:00 | USD | EIA Weekly Distillates Stocks |  |  | 3.077M |
+| 17:00 | USD | EIA Weekly Distillates Stocks |  | 0.600M | 3.077M |
 | 17:00 | USD | Gasoline Production |  |  | 0.397M |
 | 17:00 | USD | Heating Oil Stockpiles |  |  | 0.646M |
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 17:00 | USD | Gasoline Inventories |  |  | 5.852M |
+| 17:00 | USD | Gasoline Inventories |  | 2.500M | 5.852M |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.359T |
 | 22:00 | AUD | Judo Bank Manufacturing PMI |  |  | 47.8 |
 | 22:00 | AUD | Judo Bank Services PMI |  |  | 50.8 |
