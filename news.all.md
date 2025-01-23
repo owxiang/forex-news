@@ -14,13 +14,12 @@
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) | 0.28% | 0.23% | 0.50% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Jan) | 0.20% | 0.29% | 0.42% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,859K |
-| 21 min | USD | High | Initial Jobless Claims |  | 221K | 217K |
-| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.75K |
-| 21 min | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.1% | 0.1% |
-| 21 min | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.2% | 0.6% |
-| 21 min | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
-| 15:00 | EUR | Low | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,899K | 1,860K | 1,853K |
+| 13:30 | USD | High | Initial Jobless Claims | 223K | 221K | 217K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 213.50K |  | 212.75K |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) | -0.7% | 0.1% | -0.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) | 0.0% | 0.2% | 0.6% |
+| 55 min | EUR | Low | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
 | 15:30 | USD | Low | Natural Gas Storage |  | -270B | -258B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -5 |
@@ -44,5 +43,5 @@
 | 22:00 | AUD | Low | Judo Bank Services PMI |  |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
+| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
