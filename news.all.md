@@ -8,9 +8,9 @@
 | 05:00 | SGD | Moderate | CPI (YoY) (Dec) | 1.6% | 1.5% | 1.6% |
 | 07:45 | EUR | Low | French Business Survey (Jan) | 95 | 96 | 97 |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 52 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  | 4.499% |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 54 min | GBP | Low | 4-Year Treasury Gilt Auction |  |  | 4.499% |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  | -35 | -40 |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.23% | 0.50% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.29% | 0.42% |
@@ -45,5 +45,5 @@
 | 22:00 | AUD | Low | Judo Bank Services PMI |  |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
+| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
