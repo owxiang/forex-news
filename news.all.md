@@ -43,5 +43,5 @@
 | 22:00 | AUD | Low | Judo Bank Services PMI |  |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
+| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
