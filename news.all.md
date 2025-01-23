@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 7.00% |
+| 35 min | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 7.00% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Dec) |  | 1.70% | 1.90% |
 | 05:00 | SGD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Dec) |  | 1.5% | 1.6% |
@@ -45,5 +45,5 @@
 | 22:00 | AUD | Low | Judo Bank Services PMI |  |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
 | 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
+| 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |

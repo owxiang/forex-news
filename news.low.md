@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 7.00% |
+| 35 min | IDR | M2 Money Supply (YoY) (Dec) |  |  | 7.00% |
 | 05:00 | SGD | CPI (MoM) (Dec) |  |  | 0.00% |
 | 07:45 | EUR | French Business Survey (Jan) |  | 96 | 97 |
 | 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.499% |
