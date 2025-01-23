@@ -20,22 +20,22 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) | -0.7% | 0.1% | -0.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) | 0.0% | 0.2% | 0.6% |
 | 15:00 | EUR | Low | Consumer Confidence (Jan) | -14.2 | -14.0 | -14.5 |
-| 24 min | USD | Low | Natural Gas Storage |  | -270B | -258B |
-| 54 min | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
-| 54 min | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -5 |
-| 54 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
-| 17:00 | USD | High | Crude Oil Inventories |  | -2.100M | -1.962M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.255M |
-| 17:00 | USD | Low | Crude Oil Imports |  |  | -1.304M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.765M |
-| 17:00 | USD | Low | Distillate Fuel Production |  |  | -0.021M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  | 0.600M | 3.077M |
-| 17:00 | USD | Low | Gasoline Production |  |  | 0.397M |
-| 17:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.646M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 17:00 | USD | Low | Gasoline Inventories |  | 2.500M | 5.852M |
+| 15:30 | USD | Low | Natural Gas Storage | -223B | -270B | -258B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jan) | -5 |  | -5 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) | -9 |  | -6 |
+| 16:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
+| 53 min | USD | High | Crude Oil Inventories |  | -2.100M | -1.962M |
+| 53 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.255M |
+| 53 min | USD | Low | Crude Oil Imports |  |  | -1.304M |
+| 53 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.765M |
+| 53 min | USD | Low | Distillate Fuel Production |  |  | -0.021M |
+| 53 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.600M | 3.077M |
+| 53 min | USD | Low | Gasoline Production |  |  | 0.397M |
+| 53 min | USD | Low | Heating Oil Stockpiles |  |  | 0.646M |
+| 53 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
+| 53 min | USD | Low | Gasoline Inventories |  | 2.500M | 5.852M |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.071% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,834B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.359T |
@@ -43,5 +43,5 @@
 | 22:00 | AUD | Low | Judo Bank Services PMI |  |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
+| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
