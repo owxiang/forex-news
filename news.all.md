@@ -22,7 +22,7 @@
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.2% | 0.6% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 15:00 | EUR | Low | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | -258B |
+| 15:30 | USD | Low | Natural Gas Storage |  | -270B | -258B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -5 |
 | 16:00 | USD | High | U.S. President Trump Speaks |  |  |  |

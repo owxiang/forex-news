@@ -14,7 +14,7 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.75K |
 | 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 15:00 | EUR | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
-| 15:30 | USD | Natural Gas Storage |  |  | -258B |
+| 15:30 | USD | Natural Gas Storage |  | -270B | -258B |
 | 16:00 | USD | KC Fed Composite Index (Jan) |  |  | -4 |
 | 16:00 | USD | KC Fed Manufacturing Index (Jan) |  |  | -5 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
