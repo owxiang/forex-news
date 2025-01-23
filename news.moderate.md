@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | SGD | Core CPI (YoY) (Dec) |  | 1.70% | 1.90% |
-| 53 min | SGD | CPI (YoY) (Dec) |  | 1.5% | 1.6% |
+| 05:00 | SGD | Core CPI (YoY) (Dec) | 1.80% | 1.70% | 1.90% |
+| 05:00 | SGD | CPI (YoY) (Dec) | 1.6% | 1.5% | 1.6% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,859K |
