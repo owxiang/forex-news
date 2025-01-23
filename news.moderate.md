@@ -1,14 +1,17 @@
-## 22 January 2025 - Moderate Impact Forex News
+## 23 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 5 min | AUD | NAB Business Confidence (Dec) |  |  | -3 |
+| 05:00 | SGD | Core CPI (YoY) (Dec) |  | 1.70% | 1.90% |
+| 05:00 | SGD | CPI (YoY) (Dec) |  | 1.5% | 1.6% |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 13:30 | CAD | RMPI (MoM) (Dec) | 1.3% | 0.4% | -0.1% |
-| 15:00 | USD | US Leading Index (MoM) (Dec) | -0.1% | -0.1% | 0.4% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.900% |  | 4.686% |
-| 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 1.000M |  | -2.600M |
-| 44 min | JPY | Adjusted Trade Balance |  | -0.51T | -0.38T |
-| 44 min | JPY | Exports (YoY) (Dec) |  | 2.3% | 3.8% |
-| 44 min | JPY | Trade Balance (Dec) |  | -55.0B | -110.3B |
+| 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,859K |
+| 13:30 | CAD | Core Retail Sales (MoM) (Nov) |  | 0.1% | 0.1% |
+| 13:30 | CAD | Retail Sales (MoM) (Nov) |  | 0.2% | 0.6% |
+| 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.765M |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 2.071% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,834B |
+| 23:30 | JPY | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
+| 23:30 | JPY | National CPI (MoM) (Dec) |  |  | 0.6% |

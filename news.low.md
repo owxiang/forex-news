@@ -1,31 +1,34 @@
-## 22 January 2025 - Low Impact Forex News
+## 23 January 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
-| 07:00 | GBP | Public Sector Net Borrowing (Dec) | 17.81B | 14.20B | 11.80B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
-| 08:00 | ZAR | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
-| 08:00 | ZAR | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
-| 08:00 | ZAR | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
-| 08:00 | ZAR | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
-| 11:00 | ZAR | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
-| 11:30 | INR | M3 Money Supply | 10.1% |  | 9.3% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.1% |  | 33.3% |
-| 12:00 | USD | MBA Purchase Index | 163.0 |  | 162.0 |
-| 12:00 | USD | Mortgage Market Index | 224.6 |  | 224.4 |
-| 12:00 | USD | Mortgage Refinance Index | 558.8 |  | 575.6 |
-| 13:30 | CAD | IPPI (YoY) (Dec) | 4.1% |  | 2.2% |
-| 13:30 | CAD | IPPI (MoM) (Dec) | 0.2% | 0.5% | 0.6% |
-| 13:30 | CAD | RMPI (YoY) (Dec) | 9.1% |  | 2.4% |
-| 13:55 | USD | Redbook (YoY) | 4.5% |  | 4.0% |
-| 17:30 | BRL | Foreign Exchange Flows | 0.806B |  | -1.104B |
-| 21:45 | NZD | External Migration & Visitors (Nov) | 5.90% |  | 6.30% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Nov) | 2,070 |  | 1,530 |
-| 21:45 | NZD | Visitor Arrivals (MoM) | 1.0% |  | 0.0% |
-| 23:00 | KRW | GDP (YoY) (Q4) | 1.2% | 1.4% | 1.5% |
-| 23:00 | KRW | GDP (QoQ) (Q4) | 0.1% | 0.2% | 0.1% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 756.7B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 313.3B |
-| 44 min | JPY | Imports (YoY) (Dec) |  | 2.6% | -3.8% |
+| 03:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 7.00% |
+| 05:00 | SGD | CPI (MoM) (Dec) |  |  | 0.00% |
+| 07:45 | EUR | French Business Survey (Jan) |  | 96 | 97 |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.499% |
+| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jan) |  | -35 | -40 |
+| 12:00 | MXN | 1st Half-Month Core CPI (Jan) |  | 0.23% | 0.50% |
+| 12:00 | MXN | 1st Half-Month CPI (Jan) |  | 0.29% | 0.42% |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.75K |
+| 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
+| 15:00 | EUR | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
+| 15:30 | USD | Natural Gas Storage |  |  | -258B |
+| 16:00 | USD | KC Fed Composite Index (Jan) |  |  | -4 |
+| 16:00 | USD | KC Fed Manufacturing Index (Jan) |  |  | -5 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.255M |
+| 17:00 | USD | Crude Oil Imports |  |  | -1.304M |
+| 17:00 | USD | Distillate Fuel Production |  |  | -0.021M |
+| 17:00 | USD | EIA Weekly Distillates Stocks |  |  | 3.077M |
+| 17:00 | USD | Gasoline Production |  |  | 0.397M |
+| 17:00 | USD | Heating Oil Stockpiles |  |  | 0.646M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
+| 17:00 | USD | Gasoline Inventories |  |  | 5.852M |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.359T |
+| 22:00 | AUD | Judo Bank Manufacturing PMI |  |  | 47.8 |
+| 22:00 | AUD | Judo Bank Services PMI |  |  | 50.8 |
+| 23:30 | JPY | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
+| 23:30 | JPY | National CPI (YoY) (Dec) |  |  | 2.9% |
