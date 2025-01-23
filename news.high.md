@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | Initial Jobless Claims | 223K | 221K | 217K |
 | 16:00 | USD | U.S. President Trump Speaks |  |  |  |
-| 53 min | USD | Crude Oil Inventories |  | -2.100M | -1.962M |
+| 17:00 | USD | Crude Oil Inventories | -1.017M | -2.100M | -1.962M |
