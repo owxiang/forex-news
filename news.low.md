@@ -11,10 +11,10 @@
 | 12:00 | MXN | 1st Half-Month CPI (Jan) | 0.20% | 0.29% | 0.42% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 213.50K |  | 212.75K |
-| 55 min | EUR | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
-| 15:30 | USD | Natural Gas Storage |  | -270B | -258B |
-| 16:00 | USD | KC Fed Composite Index (Jan) |  |  | -4 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jan) |  |  | -5 |
+| 15:00 | EUR | Consumer Confidence (Jan) | -14.2 | -14.0 | -14.5 |
+| 24 min | USD | Natural Gas Storage |  | -270B | -258B |
+| 54 min | USD | KC Fed Composite Index (Jan) |  |  | -4 |
+| 54 min | USD | KC Fed Manufacturing Index (Jan) |  |  | -5 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.255M |

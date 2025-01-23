@@ -19,11 +19,11 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 213.50K |  | 212.75K |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) | -0.7% | 0.1% | -0.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Nov) | 0.0% | 0.2% | 0.6% |
-| 55 min | EUR | Low | Consumer Confidence (Jan) |  | -14.0 | -14.5 |
-| 15:30 | USD | Low | Natural Gas Storage |  | -270B | -258B |
-| 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -5 |
-| 16:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 15:00 | EUR | Low | Consumer Confidence (Jan) | -14.2 | -14.0 | -14.5 |
+| 24 min | USD | Low | Natural Gas Storage |  | -270B | -258B |
+| 54 min | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
+| 54 min | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -5 |
+| 54 min | USD | High | U.S. President Trump Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
 | 17:00 | USD | High | Crude Oil Inventories |  | -2.100M | -1.962M |
@@ -43,5 +43,5 @@
 | 22:00 | AUD | Low | Judo Bank Services PMI |  |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
 | 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
+| 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
