@@ -37,11 +37,11 @@
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -5.8% |  | -1.6% |
 | 17:00 | USD | Low | Gasoline Inventories | 2.332M | 2.500M | 5.852M |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.243% |  | 2.071% |
-| 25 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,834B |
-| 25 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.359T |
-| 55 min | AUD | Low | Judo Bank Manufacturing PMI |  |  | 47.8 |
-| 55 min | AUD | Low | Judo Bank Services PMI |  |  | 50.8 |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,832B |  | 6,834B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.331T |  | 3.359T |
+| 22:00 | AUD | Low | Judo Bank Manufacturing PMI | 49.8 |  | 47.8 |
+| 22:00 | AUD | Low | Judo Bank Services PMI | 50.4 |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
 | 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
+| 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
