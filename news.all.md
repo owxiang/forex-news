@@ -6,8 +6,8 @@
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Dec) | 1.80% | 1.70% | 1.90% |
 | 05:00 | SGD | Low | CPI (MoM) (Dec) | 0.40% |  | 0.00% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Dec) | 1.6% | 1.5% | 1.6% |
-| 07:45 | EUR | Low | French Business Survey (Jan) |  | 96 | 97 |
-| 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 39 min | EUR | Low | French Business Survey (Jan) |  | 96 | 97 |
+| 54 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  | 4.499% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
