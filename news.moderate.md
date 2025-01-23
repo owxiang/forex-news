@@ -12,5 +12,5 @@
 | 17:00 | USD | Cushing Crude Oil Inventories | -0.148M |  | 0.765M |
 | 18:00 | USD | 10-Year TIPS Auction | 2.243% |  | 2.071% |
 | 21:30 | USD | Fed's Balance Sheet | 6,832B |  | 6,834B |
-| 23:30 | JPY | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | National CPI (MoM) (Dec) |  |  | 0.6% |
+| 24 min | JPY | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
+| 24 min | JPY | National CPI (MoM) (Dec) |  |  | 0.6% |

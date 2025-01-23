@@ -28,5 +28,5 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.331T |  | 3.359T |
 | 22:00 | AUD | Judo Bank Manufacturing PMI | 49.8 |  | 47.8 |
 | 22:00 | AUD | Judo Bank Services PMI | 50.4 |  | 50.8 |
-| 23:30 | JPY | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
-| 23:30 | JPY | National CPI (YoY) (Dec) |  |  | 2.9% |
+| 24 min | JPY | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
+| 24 min | JPY | National CPI (YoY) (Dec) |  |  | 2.9% |

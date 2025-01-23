@@ -41,7 +41,7 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.331T |  | 3.359T |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI | 49.8 |  | 47.8 |
 | 22:00 | AUD | Low | Judo Bank Services PMI | 50.4 |  | 50.8 |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
-| 23:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
+| 24 min | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | 0.4% |
+| 24 min | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 3.0% | 2.7% |
+| 24 min | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.9% |
+| 24 min | JPY | Moderate | National CPI (MoM) (Dec) |  |  | 0.6% |
