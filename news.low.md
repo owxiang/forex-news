@@ -5,7 +5,7 @@
 | 00:01 | GBP | GfK Consumer Confidence (Jan) | -22 | -18 | -17 |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 48.8 | 49.7 | 49.6 |
 | 00:30 | SGD | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
-| 27 min | NZD | Credit Card Spending (YoY) (Dec) |  |  | -3.2% |
+| 02:00 | NZD | Credit Card Spending (YoY) (Dec) | -1.4% |  | -3.1% |
 | 04:30 | IDR | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
 | 05:00 | INR | S&P Global Services PMI (Jan) |  |  | 59.3 |
@@ -17,15 +17,15 @@
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jan) |  |  | -40 |
-| 11:00 | BRL | Mid-Month CPI (MoM) (Jan) |  |  | 0.34% |
 | 11:00 | BRL | Mid-Month CPI (YoY) (Jan) |  |  | 4.71% |
+| 11:00 | BRL | Mid-Month CPI (MoM) (Jan) |  |  | 0.34% |
 | 11:00 | BRL | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.2% |
 | 11:30 | INR | FX Reserves, USD |  |  | 625.87B |
 | 11:30 | BRL | Current Account (USD) |  |  | -3.10B |
 | 11:30 | BRL | Foreign direct investment (USD) |  |  | 7.00B |
-| 12:00 | MXN | Economic Activity (MoM) (Nov) |  | 0.30% | -0.70% |
 | 12:00 | MXN | Economic Activity (YoY) (Nov) |  | 0.60% | 0.70% |
+| 12:00 | MXN | Economic Activity (MoM) (Nov) |  | 0.30% | -0.70% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  |  | 0.8% |
 | 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 15:00 | USD | Michigan Current Conditions (Jan) |  | 77.9 | 75.1 |

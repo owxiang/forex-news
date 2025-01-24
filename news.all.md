@@ -6,10 +6,10 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 48.8 | 49.7 | 49.6 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 52.7 |  | 50.9 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
-| 27 min | NZD | Low | Credit Card Spending (YoY) (Dec) |  |  | -3.2% |
-| 57 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.25% |
+| 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) | -1.4% |  | -3.1% |
+| 5 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 35 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 35 min | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.25% |
 | 04:30 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  |  | 59.3 |
@@ -34,23 +34,23 @@
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  |  | -40 |
-| 11:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  |  | 0.34% |
 | 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  |  | 4.71% |
+| 11:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  |  | 0.34% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 625.87B |
 | 11:30 | BRL | Low | Current Account (USD) |  |  | -3.10B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) |  |  | 7.00B |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | 0.30% | -0.70% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 0.60% | 0.70% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | 0.30% | -0.70% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 14:45 | USD | High | S&P Global Manufacturing PMI |  | 49.8 | 49.4 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI |  |  | 55.4 |
 | 14:45 | USD | High | S&P Global Services PMI |  | 56.4 | 56.8 |
-| 15:00 | USD | High | Existing Home Sales (Dec) |  | 4.19M | 4.15M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
+| 15:00 | USD | High | Existing Home Sales (Dec) |  | 4.19M | 4.15M |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 3.3% | 2.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.3% | 3.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 70.2 | 73.3 |

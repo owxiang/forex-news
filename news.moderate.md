@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 52.7 |  | 50.9 |
-| 57 min | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 5 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 35 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI |  | 42.4 | 41.9 |
