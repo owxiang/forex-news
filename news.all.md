@@ -9,12 +9,12 @@
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) | -1.4% |  | -3.1% |
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.25% |
-| 04:30 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
-| 05:00 | INR | Low | S&P Global Services PMI (Jan) |  |  | 59.3 |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 8.5% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) |  | -1.2% | -0.4% |
+| 03:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.25% |
+| 23 min | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
+| 53 min | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
+| 53 min | INR | Low | S&P Global Services PMI (Jan) |  |  | 59.3 |
+| 53 min | SGD | Low | Industrial Production (MoM) (Dec) |  | -1.2% | -0.4% |
+| 53 min | SGD | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 8.5% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Dec) |  |  | 0.9% |
@@ -34,8 +34,8 @@
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  |  | -40 |
-| 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  |  | 4.71% |
 | 11:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  |  | 0.34% |
+| 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  |  | 4.71% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 625.87B |
@@ -49,8 +49,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI |  | 49.8 | 49.4 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI |  |  | 55.4 |
 | 14:45 | USD | High | S&P Global Services PMI |  | 56.4 | 56.8 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
 | 15:00 | USD | High | Existing Home Sales (Dec) |  | 4.19M | 4.15M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 3.3% | 2.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.3% | 3.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 70.2 | 73.3 |
