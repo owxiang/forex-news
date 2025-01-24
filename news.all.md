@@ -18,24 +18,24 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Dec) | 2.3% |  | 0.9% |
-| 7 min | EUR | Moderate | HCOB France Manufacturing PMI |  | 42.4 | 41.9 |
-| 7 min | EUR | Low | HCOB France Composite PMI |  | 47.7 | 47.5 |
-| 7 min | EUR | Moderate | HCOB France Services PMI |  | 49.3 | 49.3 |
-| 22 min | EUR | Low | HCOB Germany Composite PMI |  | 48.2 | 48.0 |
-| 22 min | EUR | Moderate | HCOB Germany Manufacturing PMI |  | 42.7 | 42.5 |
-| 22 min | EUR | Moderate | HCOB Germany Services PMI |  | 51.1 | 51.2 |
-| 52 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI |  | 45.6 | 45.1 |
-| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI |  | 49.7 | 49.6 |
-| 52 min | EUR | Moderate | HCOB Eurozone Services PMI |  | 51.4 | 51.6 |
-| 09:25 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 46.9 | 47.0 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.0 | 50.4 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 50.8 | 51.1 |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI | 45.3 | 42.4 | 41.9 |
+| 08:15 | EUR | Low | HCOB France Composite PMI | 48.3 | 47.7 | 47.5 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI | 48.9 | 49.3 | 49.3 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI | 50.1 | 48.2 | 48.0 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI | 44.1 | 42.7 | 42.5 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI | 52.5 | 51.1 | 51.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI | 46.1 | 45.6 | 45.1 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI | 50.2 | 49.7 | 49.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI | 51.4 | 51.4 | 51.6 |
+| 24 min | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.0 | 50.4 |
+| 24 min | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 46.9 | 47.0 |
+| 24 min | GBP | Moderate | S&P Global Services PMI (Jan) |  | 50.8 | 51.1 |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 54 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  |  | -40 |
-| 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.36% | 4.71% |
 | 11:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | -0.03% | 0.34% |
+| 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.36% | 4.71% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 625.87B |
 | 11:30 | BRL | Low | Current Account (USD) |  |  | -3.10B |

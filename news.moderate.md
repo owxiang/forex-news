@@ -7,17 +7,17 @@
 | 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 7 min | EUR | HCOB France Manufacturing PMI |  | 42.4 | 41.9 |
-| 7 min | EUR | HCOB France Services PMI |  | 49.3 | 49.3 |
-| 22 min | EUR | HCOB Germany Manufacturing PMI |  | 42.7 | 42.5 |
-| 22 min | EUR | HCOB Germany Services PMI |  | 51.1 | 51.2 |
-| 52 min | EUR | HCOB Eurozone Manufacturing PMI |  | 45.6 | 45.1 |
-| 52 min | EUR | HCOB Eurozone Composite PMI |  | 49.7 | 49.6 |
-| 52 min | EUR | HCOB Eurozone Services PMI |  | 51.4 | 51.6 |
-| 09:25 | GBP | S&P Global Manufacturing PMI (Jan) |  | 46.9 | 47.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 50.0 | 50.4 |
-| 09:30 | GBP | S&P Global Services PMI (Jan) |  | 50.8 | 51.1 |
-| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:15 | EUR | HCOB France Manufacturing PMI | 45.3 | 42.4 | 41.9 |
+| 08:15 | EUR | HCOB France Services PMI | 48.9 | 49.3 | 49.3 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI | 44.1 | 42.7 | 42.5 |
+| 08:30 | EUR | HCOB Germany Services PMI | 52.5 | 51.1 | 51.2 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI | 46.1 | 45.6 | 45.1 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI | 50.2 | 49.7 | 49.6 |
+| 09:00 | EUR | HCOB Eurozone Services PMI | 51.4 | 51.4 | 51.6 |
+| 24 min | GBP | S&P Global Composite PMI (Jan) |  | 50.0 | 50.4 |
+| 24 min | GBP | S&P Global Manufacturing PMI (Jan) |  | 46.9 | 47.0 |
+| 24 min | GBP | S&P Global Services PMI (Jan) |  | 50.8 | 51.1 |
+| 54 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
 | 14:45 | USD | S&P Global Composite PMI |  |  | 55.4 |
 | 15:00 | USD | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
