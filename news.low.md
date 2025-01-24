@@ -3,13 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Jan) | -22 | -18 | -17 |
-| 5 min | JPY | au Jibun Bank Manufacturing PMI (Jan) |  | 49.7 | 49.6 |
-| 02:00 | NZD | Credit Card Spending (YoY) (Dec) |  |  | -3.2% |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 48.8 | 49.7 | 49.6 |
+| 00:30 | SGD | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
+| 27 min | NZD | Credit Card Spending (YoY) (Dec) |  |  | -3.2% |
 | 04:30 | IDR | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
 | 05:00 | INR | S&P Global Services PMI (Jan) |  |  | 59.3 |
-| 05:00 | SGD | Industrial Production (MoM) (Dec) |  | -1.2% | -0.4% |
 | 05:00 | SGD | Industrial Production (YoY) (Dec) |  | 6.0% | 8.5% |
+| 05:00 | SGD | Industrial Production (MoM) (Dec) |  | -1.2% | -0.4% |
 | 08:00 | EUR | Spanish PPI (YoY) (Dec) |  |  | 0.9% |
 | 08:15 | EUR | HCOB France Composite PMI |  | 47.7 | 47.5 |
 | 08:30 | EUR | HCOB Germany Composite PMI |  | 48.2 | 48.0 |

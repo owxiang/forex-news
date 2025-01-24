@@ -3,17 +3,18 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jan) | -22 | -18 | -17 |
-| 5 min | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) |  | 49.7 | 49.6 |
-| 5 min | JPY | Moderate | au Jibun Bank Services PMI (Jan) |  |  | 50.9 |
-| 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) |  |  | -3.2% |
-| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 48.8 | 49.7 | 49.6 |
+| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 52.7 |  | 50.9 |
+| 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
+| 27 min | NZD | Low | Credit Card Spending (YoY) (Dec) |  |  | -3.2% |
+| 57 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.25% |
 | 04:30 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  |  | 59.3 |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) |  | -1.2% | -0.4% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 8.5% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) |  | -1.2% | -0.4% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Dec) |  |  | 0.9% |
