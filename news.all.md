@@ -27,21 +27,20 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI | 46.1 | 45.6 | 45.1 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI | 50.2 | 49.7 | 49.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI | 51.4 | 51.4 | 51.6 |
-| 24 min | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.0 | 50.4 |
-| 24 min | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 46.9 | 47.0 |
-| 24 min | GBP | Moderate | S&P Global Services PMI (Jan) |  | 50.8 | 51.1 |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 54 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  |  | -40 |
-| 11:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | -0.03% | 0.34% |
-| 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.36% | 4.71% |
-| 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 50.9 | 50.0 | 50.4 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) | 48.2 | 46.9 | 47.0 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 51.2 | 50.8 | 51.1 |
+| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 54 min | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
+| 54 min | GBP | Low | CBI Industrial Trends Orders (Jan) |  |  | -40 |
+| 54 min | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 625.87B |
 | 11:30 | BRL | Low | Current Account (USD) |  |  | -3.10B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) |  |  | 7.00B |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | 0.30% | -0.70% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 0.60% | 0.70% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.36% | 4.71% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | -0.03% | 0.34% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
