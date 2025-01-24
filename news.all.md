@@ -39,20 +39,20 @@
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) | -0.1% | 0.2% | 0.1% |
-| 39 min | USD | High | S&P Global Manufacturing PMI |  | 49.8 | 49.4 |
-| 39 min | USD | Moderate | S&P Global Composite PMI |  |  | 55.4 |
-| 39 min | USD | High | S&P Global Services PMI |  | 56.4 | 56.8 |
-| 54 min | USD | High | Existing Home Sales (Dec) |  | 4.19M | 4.15M |
-| 54 min | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
-| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 3.3% | 2.8% |
-| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.3% | 3.0% |
-| 54 min | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 70.2 | 73.3 |
-| 54 min | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 73.2 | 74.0 |
-| 54 min | USD | Low | Michigan Current Conditions (Jan) |  | 77.9 | 75.1 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI | 50.1 | 49.8 | 49.4 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI | 52.4 |  | 55.4 |
+| 14:45 | USD | High | S&P Global Services PMI | 52.8 | 56.4 | 56.8 |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) | 2.2% |  | 4.8% |
+| 15:00 | USD | High | Existing Home Sales (Dec) | 4.24M | 4.19M | 4.15M |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) | 3.3% | 3.3% | 2.8% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) | 3.2% | 3.3% | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 69.3 | 70.2 | 73.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 71.1 | 73.2 | 74.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jan) | 74.0 | 77.9 | 75.1 |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -5 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |

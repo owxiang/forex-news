@@ -19,12 +19,12 @@
 | 09:30 | GBP | S&P Global Services PMI (Jan) | 51.2 | 50.8 | 51.1 |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) (Dec) | -0.1% | 0.2% | 0.1% |
-| 39 min | USD | S&P Global Composite PMI |  |  | 55.4 |
-| 54 min | USD | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
-| 54 min | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 3.3% | 2.8% |
-| 54 min | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.3% | 3.0% |
-| 54 min | USD | Michigan Consumer Expectations (Jan) |  | 70.2 | 73.3 |
-| 54 min | USD | Michigan Consumer Sentiment (Jan) |  | 73.2 | 74.0 |
+| 14:45 | USD | S&P Global Composite PMI | 52.4 |  | 55.4 |
+| 15:00 | USD | Existing Home Sales (MoM) (Dec) | 2.2% |  | 4.8% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) | 3.3% | 3.3% | 2.8% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jan) | 3.2% | 3.3% | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Jan) | 69.3 | 70.2 | 73.3 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jan) | 71.1 | 73.2 | 74.0 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 580 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 0.4K |

@@ -3,6 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:20 | JPY | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.25% |
-| 39 min | USD | S&P Global Manufacturing PMI |  | 49.8 | 49.4 |
-| 39 min | USD | S&P Global Services PMI |  | 56.4 | 56.8 |
-| 54 min | USD | Existing Home Sales (Dec) |  | 4.19M | 4.15M |
+| 14:45 | USD | S&P Global Manufacturing PMI | 50.1 | 49.8 | 49.4 |
+| 14:45 | USD | S&P Global Services PMI | 52.8 | 56.4 | 56.8 |
+| 15:00 | USD | Existing Home Sales (Dec) | 4.24M | 4.19M | 4.15M |
