@@ -27,12 +27,12 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Jan) | 71.1 | 73.2 | 74.0 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 472 |  | 478 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 576 |  | 580 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 0.4K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 306.3K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 279.4K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 10.5K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -30.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -77.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -34.9K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -29.4K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -60.4K |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | 0.4K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 306.3K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 279.4K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 10.5K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -30.5K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -77.6K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | -34.9K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | -29.4K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | -60.4K |
