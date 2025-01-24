@@ -18,7 +18,7 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jan) | 48.2 | 46.9 | 47.0 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) | 51.2 | 50.8 | 51.1 |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | CAD | New Housing Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
+| 21 min | CAD | New Housing Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
 | 14:45 | USD | S&P Global Composite PMI |  |  | 55.4 |
 | 15:00 | USD | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 3.3% | 2.8% |
