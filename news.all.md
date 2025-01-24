@@ -7,9 +7,9 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 52.7 |  | 50.9 |
 | 00:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.30% |  | -0.70% |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) | -1.4% |  | -3.1% |
-| 5 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 35 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 35 min | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.25% |
+| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.25% |
 | 04:30 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  |  | 59.3 |
