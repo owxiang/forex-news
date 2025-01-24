@@ -12,8 +12,8 @@
 | 03:20 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.25% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 58.0 | 56.7 | 56.4 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) | 56.8 | 59.5 | 59.3 |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) | -0.7% | -1.2% | 1.7% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Dec) | 10.6% | 6.4% | 10.8% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) | -0.7% | -1.2% | 1.7% |
 | 06:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
@@ -37,23 +37,22 @@
 | 11:30 | INR | Low | FX Reserves, USD | 623.98B |  | 625.87B |
 | 11:30 | BRL | Low | Current Account (USD) (Dec) | -9.00B |  | -3.20B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
-| 21 min | CAD | Low | Manufacturing Sales (MoM) (Dec) |  |  | 0.8% |
-| 21 min | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
-| 21 min | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
-| 14:45 | USD | High | S&P Global Manufacturing PMI |  | 49.8 | 49.4 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI |  |  | 55.4 |
-| 14:45 | USD | High | S&P Global Services PMI |  | 56.4 | 56.8 |
-| 15:00 | USD | High | Existing Home Sales (Dec) |  | 4.19M | 4.15M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 3.3% | 2.8% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.3% | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 70.2 | 73.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 73.2 | 74.0 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jan) |  | 77.9 | 75.1 |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) | -0.1% | 0.2% | 0.1% |
+| 39 min | USD | High | S&P Global Manufacturing PMI |  | 49.8 | 49.4 |
+| 39 min | USD | Moderate | S&P Global Composite PMI |  |  | 55.4 |
+| 39 min | USD | High | S&P Global Services PMI |  | 56.4 | 56.8 |
+| 54 min | USD | High | Existing Home Sales (Dec) |  | 4.19M | 4.15M |
+| 54 min | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 4.8% |
+| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 3.3% | 2.8% |
+| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.3% | 3.0% |
+| 54 min | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 70.2 | 73.3 |
+| 54 min | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 73.2 | 74.0 |
+| 54 min | USD | Low | Michigan Current Conditions (Jan) |  | 77.9 | 75.1 |
 | 16:00 | USD | Low | KC Fed Composite Index (Jan) |  |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jan) |  |  | -5 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
