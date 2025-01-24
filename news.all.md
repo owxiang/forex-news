@@ -39,8 +39,8 @@
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) | -0.1% | 0.2% | 0.1% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI | 50.1 | 49.8 | 49.4 |
@@ -53,8 +53,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 69.3 | 70.2 | 73.3 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 71.1 | 73.2 | 74.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jan) | 74.0 | 77.9 | 75.1 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 580 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 580 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 0.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 11.8K |
