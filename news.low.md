@@ -11,20 +11,20 @@
 | 05:00 | SGD | Industrial Production (YoY) (Dec) | 10.6% | 6.4% | 10.8% |
 | 05:00 | SGD | Industrial Production (MoM) (Dec) | -0.7% | -1.2% | 1.7% |
 | 06:00 | IDR | Foreign Direct Investment (YoY) |  |  | 18.60% |
-| 54 min | EUR | Spanish PPI (YoY) (Dec) |  |  | 0.9% |
-| 08:15 | EUR | HCOB France Composite PMI |  | 47.7 | 47.5 |
-| 08:30 | EUR | HCOB Germany Composite PMI |  | 48.2 | 48.0 |
+| 08:00 | EUR | Spanish PPI (YoY) (Dec) | 2.3% |  | 0.9% |
+| 7 min | EUR | HCOB France Composite PMI |  | 47.7 | 47.5 |
+| 22 min | EUR | HCOB Germany Composite PMI |  | 48.2 | 48.0 |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jan) |  |  | -40 |
-| 11:00 | BRL | Mid-Month CPI (MoM) (Jan) |  | -0.03% | 0.34% |
 | 11:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.36% | 4.71% |
+| 11:00 | BRL | Mid-Month CPI (MoM) (Jan) |  | -0.03% | 0.34% |
 | 11:00 | BRL | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:30 | INR | FX Reserves, USD |  |  | 625.87B |
 | 11:30 | BRL | Current Account (USD) |  |  | -3.10B |
 | 11:30 | BRL | Foreign direct investment (USD) |  |  | 7.00B |
-| 12:00 | MXN | Economic Activity (YoY) (Nov) |  | 0.60% | 0.70% |
 | 12:00 | MXN | Economic Activity (MoM) (Nov) |  | 0.30% | -0.70% |
+| 12:00 | MXN | Economic Activity (YoY) (Nov) |  | 0.60% | 0.70% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  |  | 0.8% |
 | 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 15:00 | USD | Michigan Current Conditions (Jan) |  | 77.9 | 75.1 |

@@ -6,14 +6,14 @@
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 54 min | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 08:15 | EUR | HCOB France Manufacturing PMI |  | 42.4 | 41.9 |
-| 08:15 | EUR | HCOB France Services PMI |  | 49.3 | 49.3 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI |  | 42.7 | 42.5 |
-| 08:30 | EUR | HCOB Germany Services PMI |  | 51.1 | 51.2 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI |  | 45.6 | 45.1 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI |  | 49.7 | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Services PMI |  | 51.4 | 51.6 |
+| 08:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 7 min | EUR | HCOB France Manufacturing PMI |  | 42.4 | 41.9 |
+| 7 min | EUR | HCOB France Services PMI |  | 49.3 | 49.3 |
+| 22 min | EUR | HCOB Germany Manufacturing PMI |  | 42.7 | 42.5 |
+| 22 min | EUR | HCOB Germany Services PMI |  | 51.1 | 51.2 |
+| 52 min | EUR | HCOB Eurozone Manufacturing PMI |  | 45.6 | 45.1 |
+| 52 min | EUR | HCOB Eurozone Composite PMI |  | 49.7 | 49.6 |
+| 52 min | EUR | HCOB Eurozone Services PMI |  | 51.4 | 51.6 |
 | 09:25 | GBP | S&P Global Manufacturing PMI (Jan) |  | 46.9 | 47.0 |
 | 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 50.0 | 50.4 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) |  | 50.8 | 51.1 |
