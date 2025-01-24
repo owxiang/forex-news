@@ -9,12 +9,12 @@
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Dec) | -1.4% |  | -3.1% |
 | 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 03:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.25% |
-| 23 min | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
-| 53 min | INR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 56.4 |
-| 53 min | INR | Low | S&P Global Services PMI (Jan) |  |  | 59.3 |
-| 53 min | SGD | Low | Industrial Production (MoM) (Dec) |  | -1.2% | -0.4% |
-| 53 min | SGD | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 8.5% |
+| 03:20 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.25% |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 58.0 | 56.7 | 56.4 |
+| 05:00 | INR | Low | S&P Global Services PMI (Jan) | 56.8 | 59.5 | 59.3 |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Dec) | 10.6% | 6.4% | 10.8% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Dec) | -0.7% | -1.2% | 1.7% |
+| 54 min | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Dec) |  |  | 0.9% |
@@ -34,15 +34,15 @@
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -11 | -15 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  |  | -40 |
-| 11:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  |  | 0.34% |
-| 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  |  | 4.71% |
+| 11:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | -0.03% | 0.34% |
+| 11:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.36% | 4.71% |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.2% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 625.87B |
 | 11:30 | BRL | Low | Current Account (USD) |  |  | -3.10B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) |  |  | 7.00B |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 0.60% | 0.70% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | 0.30% | -0.70% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 0.60% | 0.70% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
