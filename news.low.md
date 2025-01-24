@@ -20,10 +20,10 @@
 | 11:30 | INR | FX Reserves, USD | 623.98B |  | 625.87B |
 | 11:30 | BRL | Current Account (USD) (Dec) | -9.00B |  | -3.20B |
 | 11:30 | BRL | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
-| 12:00 | MXN | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
 | 12:00 | MXN | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
+| 12:00 | MXN | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
 | 15:00 | USD | Michigan Current Conditions (Jan) | 74.0 | 77.9 | 75.1 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.4K |

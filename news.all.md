@@ -37,17 +37,17 @@
 | 11:30 | INR | Low | FX Reserves, USD | 623.98B |  | 625.87B |
 | 11:30 | BRL | Low | Current Account (USD) (Dec) | -9.00B |  | -3.20B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) | -0.1% | 0.2% | 0.1% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI | 50.1 | 49.8 | 49.4 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI | 52.4 |  | 55.4 |
 | 14:45 | USD | High | S&P Global Services PMI | 52.8 | 56.4 | 56.8 |
-| 15:00 | USD | High | Existing Home Sales (Dec) | 4.24M | 4.19M | 4.15M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) | 2.2% |  | 4.8% |
+| 15:00 | USD | High | Existing Home Sales (Dec) | 4.24M | 4.19M | 4.15M |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) | 3.3% | 3.3% | 2.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) | 3.2% | 3.3% | 3.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 69.3 | 70.2 | 73.3 |
