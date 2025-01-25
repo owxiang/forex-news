@@ -39,8 +39,8 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) | 5.6% | 5.5% | 5.2% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) | 5.6% | 5.6% | 5.2% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Dec) | 0.7K | 10.3K | -25.1K |

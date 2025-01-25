@@ -28,8 +28,8 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
-| 05:00 | EUR | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
+| 05:00 | EUR | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
 | 07:00 | GBP | Average Earnings ex Bonus (Nov) | 5.6% | 5.5% | 5.2% |
 | 08:00 | CHF | M3 Money Supply (Dec) | 1,157.9B |  | 1,155.6B |
 | 08:30 | HKD | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
