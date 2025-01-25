@@ -17,8 +17,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.408% |  | 2.489% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.633% |  | 2.691% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.532% |  | 2.593% |
-| 21:00 | KRW | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
 | 21:00 | KRW | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
+| 21:00 | KRW | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
 | 21:30 | NZD | Performance of Services Index | 47.9 |  | 49.5 |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
 | 02:00 | NZD | RBNZ Offshore Holdings (Dec) | 59.20% |  | 58.60% |
@@ -28,8 +28,8 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
-| 05:00 | EUR | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
 | 07:00 | GBP | Average Earnings ex Bonus (Nov) | 5.6% | 5.5% | 5.2% |
 | 08:00 | CHF | M3 Money Supply (Dec) | 1,157.9B |  | 1,155.6B |
 | 08:30 | HKD | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
@@ -64,8 +64,8 @@
 | 12:00 | USD | MBA Purchase Index | 163.0 |  | 162.0 |
 | 12:00 | USD | Mortgage Market Index | 224.6 |  | 224.4 |
 | 12:00 | USD | Mortgage Refinance Index | 558.8 |  | 575.6 |
-| 13:30 | CAD | IPPI (YoY) (Dec) | 4.1% |  | 2.2% |
 | 13:30 | CAD | IPPI (MoM) (Dec) | 0.2% | 0.5% | 0.6% |
+| 13:30 | CAD | IPPI (YoY) (Dec) | 4.1% |  | 2.2% |
 | 13:30 | CAD | RMPI (YoY) (Dec) | 9.1% |  | 2.4% |
 | 13:55 | USD | Redbook (YoY) | 4.5% |  | 4.0% |
 | 17:30 | BRL | Foreign Exchange Flows | 0.806B |  | -1.104B |

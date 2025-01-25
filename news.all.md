@@ -11,8 +11,8 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -2.2% | -2.3% | -2.3% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
-| 07:00 | EUR | Low | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Dec) | -0.1% | 0.3% | 0.5% |
+| 07:00 | EUR | Low | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Dec) | 0.0% | 0.2% | -0.6% |
 | 07:30 | CHF | Low | PPI (YoY) (Dec) | -0.9% |  | -1.5% |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
@@ -27,8 +27,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.532% |  | 2.593% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
 | 21:00 | KRW | Low | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
+| 21:00 | KRW | Low | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
 | 21:30 | NZD | Low | Performance of Services Index | 47.9 |  | 49.5 |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) | 2.0% |  | 0.1% |
@@ -39,8 +39,8 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) | 5.6% | 5.5% | 5.2% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) | 5.6% | 5.6% | 5.2% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Dec) | 0.7K | 10.3K | -25.1K |
@@ -61,8 +61,8 @@
 | 12:00 | MXN | Low | Retail Sales (YoY) (Nov) | -1.9% | -1.2% | -1.2% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.3% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Dec) | 2.0% | 1.9% | 2.0% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) | -0.3% |  | -0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) | 1.8% |  | 1.6% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) | -0.3% |  | -0.1% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Dec) | -0.4% | -0.7% | 0.0% |
 | 13:30 | CAD | Low | CPI (YoY) (Dec) | 1.8% | 1.8% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Dec) | 2.4% | 2.5% | 2.6% |
@@ -90,8 +90,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 163.0 |  | 162.0 |
 | 12:00 | USD | Low | Mortgage Market Index | 224.6 |  | 224.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 558.8 |  | 575.6 |
-| 13:30 | CAD | Low | IPPI (YoY) (Dec) | 4.1% |  | 2.2% |
 | 13:30 | CAD | Low | IPPI (MoM) (Dec) | 0.2% | 0.5% | 0.6% |
+| 13:30 | CAD | Low | IPPI (YoY) (Dec) | 4.1% |  | 2.2% |
 | 13:30 | CAD | Low | RMPI (YoY) (Dec) | 9.1% |  | 2.4% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Dec) | 1.3% | 0.4% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.5% |  | 4.0% |
