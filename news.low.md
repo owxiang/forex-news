@@ -72,8 +72,8 @@
 | 21:45 | NZD | External Migration & Visitors (Nov) | 5.90% |  | 6.30% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Nov) | 2,070 |  | 1,530 |
 | 21:45 | NZD | Visitor Arrivals (MoM) | 1.0% |  | 0.0% |
-| 23:00 | KRW | GDP (QoQ) (Q4) | 0.1% | 0.2% | 0.1% |
 | 23:00 | KRW | GDP (YoY) (Q4) | 1.2% | 1.4% | 1.5% |
+| 23:00 | KRW | GDP (QoQ) (Q4) | 0.1% | 0.2% | 0.1% |
 | 23:50 | JPY | Foreign Bonds Buying | 819.3B |  | 758.7B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks | -66.1B |  | 259.1B |
 | 23:50 | JPY | Imports (YoY) (Dec) | 1.8% | 2.6% | -3.8% |

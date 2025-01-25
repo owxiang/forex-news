@@ -73,8 +73,8 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.165% |  | 4.180% |
 | 18:00 | USD | Low | 52-Week Bill Auction | 4.025% |  | 4.070% |
 | 21:00 | KRW | Low | Consumer Confidence (Jan) | 91.2 |  | 88.4 |
-| 21:45 | NZD | Moderate | CPI (YoY) (Q4) | 2.2% | 2.1% | 2.2% |
 | 21:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 0.6% |
+| 21:45 | NZD | Moderate | CPI (YoY) (Q4) | 2.2% | 2.1% | 2.2% |
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) | 17.81B | 14.20B | 11.80B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
@@ -104,8 +104,8 @@
 | 21:45 | NZD | Low | External Migration & Visitors (Nov) | 5.90% |  | 6.30% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Nov) | 2,070 |  | 1,530 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) | 1.0% |  | 0.0% |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) | 0.1% | 0.2% | 0.1% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) | 1.2% | 1.4% | 1.5% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) | 0.1% | 0.2% | 0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance | -0.03T | -0.51T | -0.39T |
 | 23:50 | JPY | Moderate | Exports (YoY) (Dec) | 2.8% | 2.3% | 3.8% |
 | 23:50 | JPY | Low | Foreign Bonds Buying | 819.3B |  | 758.7B |
@@ -153,8 +153,8 @@
 | 22:00 | AUD | Low | Judo Bank Services PMI | 50.4 |  | 50.8 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) | 0.6% |  | 0.4% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Dec) | 3.0% | 3.0% | 2.7% |
-| 23:30 | JPY | Low | National CPI (YoY) (Dec) | 3.6% |  | 2.9% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Dec) | 0.6% |  | 0.4% |
+| 23:30 | JPY | Low | National CPI (YoY) (Dec) | 3.6% |  | 2.9% |
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jan) | -22 | -18 | -17 |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 48.8 | 49.7 | 49.6 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 52.7 |  | 50.9 |
