@@ -55,8 +55,8 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
 | 08:00 | ZAR | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
-| 08:00 | ZAR | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 08:00 | ZAR | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 11:00 | ZAR | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
 | 11:30 | INR | M3 Money Supply | 10.1% |  | 9.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
@@ -123,8 +123,8 @@
 | 11:30 | INR | FX Reserves, USD | 623.98B |  | 625.87B |
 | 11:30 | BRL | Current Account (USD) (Dec) | -9.00B |  | -3.20B |
 | 11:30 | BRL | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
-| 12:00 | MXN | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | MXN | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
+| 12:00 | MXN | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |

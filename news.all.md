@@ -30,8 +30,8 @@
 | 21:00 | KRW | Low | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
 | 21:00 | KRW | Low | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
 | 21:30 | NZD | Low | Performance of Services Index | 47.9 |  | 49.5 |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) | 2.0% |  | 0.1% |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 59.20% |  | 58.60% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Dec) | -8.3% |  | 6.5% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
@@ -61,8 +61,8 @@
 | 12:00 | MXN | Low | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.3% |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Nov) | -1.9% | -1.2% | -1.2% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Dec) | 2.0% | 1.9% | 2.0% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) | 1.8% |  | 1.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) | -0.3% |  | -0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) | 1.8% |  | 1.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Dec) | -0.4% | -0.7% | 0.0% |
 | 13:30 | CAD | Low | CPI (YoY) (Dec) | 1.8% | 1.8% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Dec) | 2.4% | 2.5% | 2.6% |
@@ -81,8 +81,8 @@
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
-| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
 | 11:30 | INR | Low | M3 Money Supply | 10.1% |  | 9.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
@@ -190,8 +190,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 623.98B |  | 625.87B |
 | 11:30 | BRL | Low | Current Account (USD) (Dec) | -9.00B |  | -3.20B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
