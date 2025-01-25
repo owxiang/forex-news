@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) | 10.3% | 5.6% | 5.6% |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) | 3.4% | -0.7% | 2.1% |
+| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) | 10.3% | 5.6% | 5.6% |
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Jan) | 1.7% |  | -1.7% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jan) | 3.60% | 3.60% | 3.60% |
@@ -11,10 +11,10 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -2.2% | -2.3% | -2.3% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -0.30 | 0.10 | 0.10 |
-| 07:00 | EUR | Low | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Dec) | -0.1% | 0.3% | 0.5% |
-| 07:30 | CHF | Low | PPI (YoY) (Dec) | -0.9% |  | -1.5% |
+| 07:00 | EUR | Low | German PPI (YoY) (Dec) | 0.8% | 1.1% | 0.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Dec) | 0.0% | 0.2% | -0.6% |
+| 07:30 | CHF | Low | PPI (YoY) (Dec) | -0.9% |  | -1.5% |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 08:30 | HKD | Low | Unemployment Rate (Dec) | 3.1% |  | 3.1% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Nov) | -5.13B |  | -3.93B |
@@ -27,18 +27,18 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.532% |  | 2.593% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 17:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 21:00 | KRW | Low | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
 | 21:00 | KRW | Low | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
+| 21:00 | KRW | Low | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
 | 21:30 | NZD | Low | Performance of Services Index | 47.9 |  | 49.5 |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) | 2.0% |  | 0.1% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 59.20% |  | 58.60% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Dec) | -8.3% |  | 6.5% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -14.9% |  | -1.8% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -14.9% |  | -1.8% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) | 5.6% | 5.5% | 5.2% |
@@ -58,13 +58,13 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) | 18.0 | 16.9 | 17.0 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Nov) | -1.9% | -1.2% | -1.2% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.3% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Nov) | -1.9% | -1.2% | -1.2% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Dec) | 2.0% | 1.9% | 2.0% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) | -0.3% |  | -0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) | 1.8% |  | 1.6% |
-| 13:30 | CAD | Low | CPI (YoY) (Dec) | 1.8% | 1.8% | 1.9% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Dec) | -0.4% | -0.7% | 0.0% |
+| 13:30 | CAD | Low | CPI (YoY) (Dec) | 1.8% | 1.8% | 1.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Dec) | 2.4% | 2.5% | 2.6% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Dec) | 2.5% | 2.5% | 2.6% |
 | 14:00 | NZD | Low | GlobalDairyTrade Price Index | 1.4% |  | -1.4% |
