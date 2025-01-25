@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:50 | JPY | Core Machinery Orders (MoM) (Nov) | 3.4% | -0.7% | 2.1% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Nov) | 10.3% | 5.6% | 5.6% |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Nov) | 3.4% | -0.7% | 2.1% |
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Jan) | 1.7% |  | -1.7% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
 | 04:30 | JPY | Capacity Utilization (MoM) (Nov) | -1.9% |  | 2.6% |
@@ -17,19 +17,19 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.408% |  | 2.489% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.633% |  | 2.691% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.532% |  | 2.593% |
-| 21:00 | KRW | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
 | 21:00 | KRW | PPI (YoY) (Dec) | 1.7% |  | 1.4% |
+| 21:00 | KRW | PPI (MoM) (Dec) | 0.3% |  | 0.1% |
 | 21:30 | NZD | Performance of Services Index | 47.9 |  | 49.5 |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) | -1.0% |  | -2.3% |
 | 02:00 | NZD | RBNZ Offshore Holdings (Dec) | 59.20% |  | 58.60% |
-| 05:00 | GBP | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
 | 05:00 | GBP | Car Registration (MoM) (Dec) | -8.3% |  | 6.5% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
+| 05:00 | GBP | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Dec) | -14.9% |  | -1.8% |
-| 05:00 | EUR | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
-| 05:00 | EUR | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
+| 05:00 | EUR | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
 | 05:00 | EUR | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
+| 05:00 | EUR | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
 | 07:00 | GBP | Average Earnings ex Bonus (Nov) | 5.6% | 5.5% | 5.2% |
 | 08:00 | CHF | M3 Money Supply (Dec) | 1,157.9B |  | 1,155.6B |
 | 08:30 | HKD | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
@@ -38,8 +38,8 @@
 | 09:30 | ZAR | Mining Production (Nov) | -0.9% |  | 1.1% |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | MXN | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.3% |
 | 12:00 | MXN | Retail Sales (YoY) (Nov) | -1.9% | -1.2% | -1.2% |
+| 12:00 | MXN | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.3% |
 | 13:30 | CAD | Common CPI (YoY) (Dec) | 2.0% | 1.9% | 2.0% |
 | 13:30 | CAD | CPI (YoY) (Dec) | 1.8% | 1.8% | 1.9% |
 | 13:30 | CAD | Median CPI (YoY) (Dec) | 2.4% | 2.5% | 2.6% |
@@ -55,8 +55,8 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
 | 08:00 | ZAR | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
 | 08:00 | ZAR | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
-| 08:00 | ZAR | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 08:00 | ZAR | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:00 | ZAR | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 11:00 | ZAR | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
 | 11:30 | INR | M3 Money Supply | 10.1% |  | 9.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.09% |
@@ -111,8 +111,8 @@
 | 02:00 | NZD | Credit Card Spending (YoY) (Dec) | -1.4% |  | -3.1% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) | 58.0 | 56.7 | 56.4 |
 | 05:00 | INR | S&P Global Services PMI (Jan) | 56.8 | 59.5 | 59.3 |
-| 05:00 | SGD | Industrial Production (MoM) (Dec) | -0.7% | -1.2% | 1.7% |
 | 05:00 | SGD | Industrial Production (YoY) (Dec) | 10.6% | 6.4% | 10.8% |
+| 05:00 | SGD | Industrial Production (MoM) (Dec) | -0.7% | -1.2% | 1.7% |
 | 06:00 | IDR | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 08:00 | EUR | Spanish PPI (YoY) (Dec) | 2.3% |  | 0.9% |
 | 08:15 | EUR | HCOB France Composite PMI | 48.3 | 47.7 | 47.5 |
@@ -123,8 +123,8 @@
 | 11:30 | INR | FX Reserves, USD | 623.98B |  | 625.87B |
 | 11:30 | BRL | Current Account (USD) (Dec) | -9.00B |  | -3.20B |
 | 11:30 | BRL | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
-| 12:00 | MXN | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | MXN | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
+| 12:00 | MXN | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
