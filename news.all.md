@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) | 10.3% | 5.6% | 5.6% |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) | 3.4% | -0.7% | 2.1% |
+| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) | 10.3% | 5.6% | 5.6% |
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Jan) | 1.7% |  | -1.7% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Jan) | 1.8% |  | 1.4% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jan) | 3.60% | 3.60% | 3.60% |
@@ -35,10 +35,10 @@
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 59.20% |  | 58.60% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Dec) | -0.2% |  | -1.9% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Dec) | -8.3% |  | 6.5% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -14.9% |  | -1.8% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | -4.9% |  | -10.8% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -14.9% |  | -1.8% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Dec) | -7.1% |  | -0.5% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Dec) | -8.1% |  | 5.4% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Dec) | 1.5% |  | -12.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Dec) | 37.8% |  | -1.6% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Nov) | 5.6% | 5.5% | 5.2% |
@@ -58,8 +58,8 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) | 18.0 | 16.9 | 17.0 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Nov) | -1.9% | -1.2% | -1.2% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Nov) | -0.1% | 0.3% | -0.3% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Nov) | -1.9% | -1.2% | -1.2% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Dec) | 2.0% | 1.9% | 2.0% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Dec) | 1.8% |  | 1.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Dec) | -0.3% |  | -0.1% |
@@ -73,14 +73,14 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.165% |  | 4.180% |
 | 18:00 | USD | Low | 52-Week Bill Auction | 4.025% |  | 4.070% |
 | 21:00 | KRW | Low | Consumer Confidence (Jan) | 91.2 |  | 88.4 |
-| 21:45 | NZD | Moderate | CPI (YoY) (Q4) | 2.2% | 2.1% | 2.2% |
 | 21:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 0.6% |
+| 21:45 | NZD | Moderate | CPI (YoY) (Q4) | 2.2% | 2.1% | 2.2% |
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Dec) | 17.81B | 14.20B | 11.80B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) | 19.876B |  | 13.128B |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.0% |  | 0.0% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Dec) | 3.6% |  | 3.7% |
 | 08:00 | ZAR | Low | CPI (YoY) (Dec) | 3.0% |  | 2.9% |
 | 08:00 | ZAR | Low | CPI (MoM) (Dec) | 0.1% |  | 0.0% |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Nov) | 7.7% |  | 6.2% |
@@ -90,8 +90,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 163.0 |  | 162.0 |
 | 12:00 | USD | Low | Mortgage Market Index | 224.6 |  | 224.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 558.8 |  | 575.6 |
-| 13:30 | CAD | Low | IPPI (MoM) (Dec) | 0.2% | 0.5% | 0.6% |
 | 13:30 | CAD | Low | IPPI (YoY) (Dec) | 4.1% |  | 2.2% |
+| 13:30 | CAD | Low | IPPI (MoM) (Dec) | 0.2% | 0.5% | 0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Dec) | 9.1% |  | 2.4% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Dec) | 1.3% | 0.4% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.5% |  | 4.0% |
@@ -165,8 +165,8 @@
 | 03:20 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.25% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 58.0 | 56.7 | 56.4 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) | 56.8 | 59.5 | 59.3 |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Dec) | 10.6% | 6.4% | 10.8% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Dec) | -0.7% | -1.2% | 1.7% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Dec) | 10.6% | 6.4% | 10.8% |
 | 06:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 18.60% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
@@ -192,15 +192,15 @@
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Dec) | 2.80B |  | 7.00B |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Nov) | 0.40% | 0.30% | -0.70% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Nov) | 0.50% | 0.60% | 0.80% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.11% | -0.03% | 0.34% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.50% | 4.36% | 4.71% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.6% |  | 0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Dec) | -0.1% | 0.2% | 0.1% |
 | 14:45 | USD | High | S&P Global Manufacturing PMI | 50.1 | 49.8 | 49.4 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI | 52.4 |  | 55.4 |
 | 14:45 | USD | High | S&P Global Services PMI | 52.8 | 56.4 | 56.8 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) | 2.2% |  | 4.8% |
 | 15:00 | USD | High | Existing Home Sales (Dec) | 4.24M | 4.19M | 4.15M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) | 2.2% |  | 4.8% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) | 3.3% | 3.3% | 2.8% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) | 3.2% | 3.3% | 3.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 69.3 | 70.2 | 73.3 |
