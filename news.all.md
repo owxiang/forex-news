@@ -33,8 +33,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.408% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.633% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.532% |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | 5.9% |
 | 15:00 | USD | High | New Home Sales (Dec) |  | 669K | 664K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | 5.9% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | 3.4 |
 | 15:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.215% |
