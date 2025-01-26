@@ -26,4 +26,5 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jan) |  |  | 3.4 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.215% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.165% |
-| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  |  | 3.0% |
+| 21:25 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.0% |
