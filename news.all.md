@@ -8,8 +8,8 @@
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) |  |  | 52.2 |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) |  |  | 1.9% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  | -1.5% | 2.8% |
-| 05:00 | JPY | Low | Leading Index (Nov) |  | 107.0 | 109.1 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) |  | -2.1% | 0.2% |
+| 05:00 | JPY | Low | Leading Index (Nov) |  | 107.0 | 109.1 |
 | 07:00 | NOK | Low | Unemployment Rate (Dec) |  |  | 3.7% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Dec) |  |  | 2.1% |
