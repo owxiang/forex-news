@@ -8,8 +8,8 @@
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) |  |  | 52.2 |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) |  |  | 1.9% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  | -1.5% | 2.8% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Nov) |  | -2.1% | 0.2% |
 | 05:00 | JPY | Low | Leading Index (Nov) |  | 107.0 | 109.1 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Nov) |  | -2.1% | 0.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Dec) |  |  | 3.7% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Dec) |  |  | 2.1% |
@@ -25,8 +25,8 @@
 | 11:30 | BRL | Low | Bank lending (MoM) (Dec) |  |  | 1.2% |
 | 12:00 | MXN | Low | Trade Balance (Dec) |  |  | -0.133B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.775B |
-| 13:00 | USD | Moderate | Building Permits (Dec) |  | 1.483M | 1.493M |
 | 13:00 | USD | Low | Building Permits (MoM) (Dec) |  | -0.7% | 5.2% |
+| 13:00 | USD | Moderate | Building Permits (Dec) |  | 1.483M | 1.493M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Dec) |  |  | -0.12 |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  |  | -0.2% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
