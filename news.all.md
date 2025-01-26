@@ -25,16 +25,16 @@
 | 11:30 | BRL | Low | Bank lending (MoM) (Dec) |  |  | 1.2% |
 | 12:00 | MXN | Low | Trade Balance (Dec) |  |  | -0.133B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.775B |
-| 13:00 | USD | Moderate | Building Permits (Dec) |  | 1.483M | 1.493M |
 | 13:00 | USD | Low | Building Permits (MoM) (Dec) |  | -0.7% | 5.2% |
+| 13:00 | USD | Moderate | Building Permits (Dec) |  | 1.483M | 1.493M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Dec) |  |  | -0.12 |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  |  | -0.2% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.408% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.633% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.532% |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | 5.9% |
 | 15:00 | USD | High | New Home Sales (Dec) |  | 669K | 664K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | 5.9% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | 3.4 |
 | 15:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.215% |
