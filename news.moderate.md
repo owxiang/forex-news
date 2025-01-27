@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Chinese Composite PMI (Jan) |  | 52.1 | 52.2 |
-| 01:30 | CNY | Non-Manufacturing PMI (Jan) |  |  | 52.2 |
+| 01:30 | CNY | Chinese Composite PMI (Jan) | 50.1 | 52.1 | 52.2 |
+| 01:30 | CNY | Non-Manufacturing PMI (Jan) | 50.2 |  | 52.2 |
 | 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | German Business Expectations (Jan) |  | 84.0 | 84.4 |
 | 09:00 | EUR | German Current Assessment (Jan) |  | 85.4 | 85.1 |

@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CNY | Moderate | Chinese Composite PMI (Jan) |  | 52.1 | 52.2 |
-| 01:30 | CNY | Low | Chinese Industrial profit YTD (Dec) |  |  | -4.7% |
-| 01:30 | CNY | High | Manufacturing PMI (Jan) |  | 50.1 | 50.1 |
-| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) |  |  | 52.2 |
-| 02:30 | SGD | Low | Unemployment Rate (Q4) |  |  | 1.9% |
+| 01:30 | CNY | Moderate | Chinese Composite PMI (Jan) | 50.1 | 52.1 | 52.2 |
+| 01:30 | CNY | Low | Chinese Industrial profit YTD (Dec) | -3.3% |  | -4.7% |
+| 01:30 | CNY | High | Manufacturing PMI (Jan) | 49.1 | 50.1 | 50.1 |
+| 01:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) | 50.2 |  | 52.2 |
+| 57 min | SGD | Low | Unemployment Rate (Q4) |  |  | 1.9% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  | -1.5% | 2.8% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) |  | -2.1% | 0.2% |
 | 05:00 | JPY | Low | Leading Index (Nov) |  | 107.0 | 109.1 |
