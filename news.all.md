@@ -10,7 +10,7 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.4% | -1.5% | 2.8% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 05:00 | JPY | Low | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
-| 07:00 | NOK | Low | Unemployment Rate (Dec) |  |  | 3.7% |
+| 51 min | NOK | Low | Unemployment Rate (Dec) |  |  | 3.7% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Dec) |  |  | 2.1% |
 | 08:30 | HKD | Low | Imports (MoM) (Dec) |  |  | 5.7% |

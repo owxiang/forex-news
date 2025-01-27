@@ -7,7 +7,7 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Nov) | -1.4% | -1.5% | 2.8% |
 | 05:00 | JPY | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 05:00 | JPY | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
-| 07:00 | NOK | Unemployment Rate (Dec) |  |  | 3.7% |
+| 51 min | NOK | Unemployment Rate (Dec) |  |  | 3.7% |
 | 08:30 | HKD | Exports (MoM) (Dec) |  |  | 2.1% |
 | 08:30 | HKD | Imports (MoM) (Dec) |  |  | 5.7% |
 | 08:30 | HKD | Trade Balance (Dec) |  |  | -43.4B |
