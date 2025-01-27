@@ -8,8 +8,8 @@
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) | 50.2 |  | 52.2 |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 1.9% |  | 1.9% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.4% | -1.5% | 2.8% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 05:00 | JPY | Low | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Dec) | 4.2% |  | 3.7% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Dec) | 5.2% |  | 2.1% |
@@ -41,5 +41,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.140% |  | 4.165% |
 | 18:00 | USD | Low | 3-Month Bill Auction | 4.195% |  | 4.215% |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 4.330% |  | 4.478% |
-| 21:25 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 19 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.0% |
