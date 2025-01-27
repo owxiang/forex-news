@@ -8,8 +8,8 @@
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) | 50.2 |  | 52.2 |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 1.9% |  | 1.9% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.4% | -1.5% | 2.8% |
-| 05:00 | JPY | Low | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
+| 05:00 | JPY | Low | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
 | 07:00 | NOK | Low | Unemployment Rate (Dec) | 4.2% |  | 3.7% |
 | 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | HKD | Low | Exports (MoM) (Dec) | 5.2% |  | 2.1% |
@@ -33,10 +33,10 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.407% |  | 2.408% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.608% |  | 2.633% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.508% |  | 2.532% |
-| 54 min | USD | High | New Home Sales (Dec) |  | 669K | 664K |
-| 54 min | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | 5.9% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | 3.4 |
-| 15:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:00 | USD | High | New Home Sales (Dec) | 698K | 669K | 674K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Dec) | 3.6% |  | 9.6% |
+| 24 min | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | 3.4 |
+| 29 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.215% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.165% |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.335% |
