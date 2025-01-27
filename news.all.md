@@ -18,12 +18,14 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jan) | 84.2 | 84.2 | 84.4 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jan) | 86.1 | 85.4 | 85.1 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 85.1 | 84.9 | 84.7 |
-| 54 min | EUR | Moderate | France Jobseekers Total (Dec) |  |  | 2,935.0K |
-| 54 min | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Low | Bank lending (MoM) (Dec) |  |  | 1.2% |
-| 12:00 | MXN | Low | Trade Balance (Dec) |  | 1.500B | -0.133B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.775B |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Dec) | 2,957.0K |  | 2,935.0K |
+| 11:00 | BRL | Low | FGV Consumer confidence (Dec) | 86.2 |  | 92.0 |
+| 11:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 2.10% |  | 2.50% |
+| 11:00 | ZAR | Low | Total Vehicle Sales (Jan) | 41.09K |  | 41.27K |
+| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 25 min | BRL | Low | Bank lending (MoM) (Dec) |  |  | 1.2% |
+| 55 min | MXN | Low | Trade Balance (Dec) |  | 1.500B | -0.133B |
+| 55 min | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.775B |
 | 13:00 | USD | Moderate | Building Permits (Dec) |  | 1.483M | 1.493M |
 | 13:00 | USD | Low | Building Permits (MoM) (Dec) |  | -0.7% | 5.2% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Dec) |  |  | -0.12 |
