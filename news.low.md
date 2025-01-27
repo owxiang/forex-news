@@ -11,19 +11,19 @@
 | 08:30 | HKD | Exports (MoM) (Dec) | 5.2% |  | 2.1% |
 | 08:30 | HKD | Imports (MoM) (Dec) | -1.1% |  | 5.7% |
 | 08:30 | HKD | Trade Balance (Dec) | -34.5B |  | -43.4B |
-| 11:00 | BRL | FGV Consumer confidence (Dec) | 86.2 |  | 92.0 |
-| 11:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | 2.10% |  | 2.10% |
+| 11:00 | BRL | FGV Consumer confidence (Dec) | 86.2 |  | 94.4 |
 | 11:00 | ZAR | Total Vehicle Sales (Jan) | 41.09K |  | 41.09K |
+| 11:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | 2.10% |  | 2.10% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Bank lending (MoM) (Dec) | 1.4% |  | 1.2% |
+| 11:30 | BRL | Bank lending (MoM) (Dec) | 1.4% |  | 1.0% |
 | 12:00 | MXN | Trade Balance (Dec) | 2.567B | 1.500B | -0.133B |
-| 12:00 | MXN | Trade Balance (USD) (Dec) | -0.684B |  | -0.775B |
-| 50 min | USD | Building Permits (MoM) (Dec) |  | -0.7% | 5.2% |
-| 13:30 | USD | Chicago Fed National Activity (Dec) |  |  | -0.12 |
-| 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.408% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.633% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.532% |
+| 12:00 | MXN | Trade Balance (USD) (Dec) | -0.684B |  | -0.690B |
+| 12:30 | USD | Building Permits (MoM) (Dec) | -0.7% | -0.7% | 5.2% |
+| 21 min | USD | Chicago Fed National Activity (Dec) |  |  | -0.12 |
+| 21 min | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
+| 51 min | EUR | French 12-Month BTF Auction |  |  | 2.408% |
+| 51 min | EUR | French 3-Month BTF Auction |  |  | 2.633% |
+| 51 min | EUR | French 6-Month BTF Auction |  |  | 2.532% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jan) |  |  | 3.4 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.215% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.165% |
