@@ -8,22 +8,22 @@
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) | 50.2 |  | 52.2 |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) | 1.9% |  | 1.9% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.4% | -1.5% | 2.8% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 05:00 | JPY | Low | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Dec) | 4.2% |  | 3.7% |
-| 1 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21 min | HKD | Low | Exports (MoM) (Dec) |  |  | 2.1% |
-| 21 min | HKD | Low | Imports (MoM) (Dec) |  |  | 5.7% |
-| 21 min | HKD | Low | Trade Balance (Dec) |  |  | -43.4B |
-| 51 min | EUR | Moderate | German Business Expectations (Jan) |  | 84.0 | 84.4 |
-| 51 min | EUR | Moderate | German Current Assessment (Jan) |  | 85.4 | 85.1 |
-| 51 min | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 84.9 | 84.7 |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 08:30 | HKD | Low | Exports (MoM) (Dec) | 5.2% |  | 2.1% |
+| 08:30 | HKD | Low | Imports (MoM) (Dec) | -1.1% |  | 5.7% |
+| 08:30 | HKD | Low | Trade Balance (Dec) | -34.5B |  | -43.4B |
+| 09:00 | EUR | Moderate | German Business Expectations (Jan) | 84.2 | 84.2 | 84.4 |
+| 09:00 | EUR | Moderate | German Current Assessment (Jan) | 86.1 | 85.4 | 85.1 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 85.1 | 84.9 | 84.7 |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Dec) |  |  | 2,935.0K |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Bank lending (MoM) (Dec) |  |  | 1.2% |
-| 12:00 | MXN | Low | Trade Balance (Dec) |  |  | -0.133B |
+| 12:00 | MXN | Low | Trade Balance (Dec) |  | 1.500B | -0.133B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | -0.775B |
 | 13:00 | USD | Low | Building Permits (MoM) (Dec) |  | -0.7% | 5.2% |
 | 13:00 | USD | Moderate | Building Permits (Dec) |  | 1.483M | 1.493M |
