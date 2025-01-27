@@ -12,13 +12,13 @@
 | 08:30 | HKD | Imports (MoM) (Dec) | -1.1% |  | 5.7% |
 | 08:30 | HKD | Trade Balance (Dec) | -34.5B |  | -43.4B |
 | 11:00 | BRL | FGV Consumer confidence (Dec) | 86.2 |  | 92.0 |
-| 11:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | 2.10% |  | 2.50% |
-| 11:00 | ZAR | Total Vehicle Sales (Jan) | 41.09K |  | 41.27K |
-| 20 min | BRL | BCB Focus Market Readout |  |  |  |
-| 25 min | BRL | Bank lending (MoM) (Dec) |  |  | 1.2% |
-| 55 min | MXN | Trade Balance (Dec) |  | 1.500B | -0.133B |
-| 55 min | MXN | Trade Balance (USD) (Dec) |  |  | -0.775B |
-| 13:00 | USD | Building Permits (MoM) (Dec) |  | -0.7% | 5.2% |
+| 11:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | 2.10% |  | 2.10% |
+| 11:00 | ZAR | Total Vehicle Sales (Jan) | 41.09K |  | 41.09K |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:30 | BRL | Bank lending (MoM) (Dec) | 1.4% |  | 1.2% |
+| 12:00 | MXN | Trade Balance (Dec) | 2.567B | 1.500B | -0.133B |
+| 12:00 | MXN | Trade Balance (USD) (Dec) | -0.684B |  | -0.775B |
+| 50 min | USD | Building Permits (MoM) (Dec) |  | -0.7% | 5.2% |
 | 13:30 | USD | Chicago Fed National Activity (Dec) |  |  | -0.12 |
 | 13:30 | BRL | Federal Tax Revenue (Dec) |  |  | 209.22B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.408% |

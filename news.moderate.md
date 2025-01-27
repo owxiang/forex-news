@@ -9,7 +9,7 @@
 | 09:00 | EUR | German Current Assessment (Jan) | 86.1 | 85.4 | 85.1 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jan) | 85.1 | 84.9 | 84.7 |
 | 11:00 | EUR | France Jobseekers Total (Dec) | 2,957.0K |  | 2,935.0K |
-| 13:00 | USD | Building Permits (Dec) |  | 1.483M | 1.493M |
+| 50 min | USD | Building Permits (Dec) |  | 1.483M | 1.493M |
 | 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  |  | -0.2% |
 | 15:00 | USD | New Home Sales (MoM) (Dec) |  |  | 5.9% |
 | 15:35 | EUR | ECB President Lagarde Speaks |  |  |  |
