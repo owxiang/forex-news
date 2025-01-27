@@ -14,4 +14,4 @@
 | 15:00 | USD | New Home Sales (MoM) (Dec) | 3.6% |  | 9.6% |
 | 15:35 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | 2-Year Note Auction | 4.211% |  | 4.335% |
-| 54 min | USD | 5-Year Note Auction |  |  | 4.478% |
+| 18:00 | USD | 5-Year Note Auction | 4.330% |  | 4.478% |
