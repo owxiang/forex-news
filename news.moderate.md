@@ -12,6 +12,6 @@
 | 12:30 | USD | Building Permits (Dec) | 1.482M | 1.483M | 1.493M |
 | 13:30 | CAD | Wholesale Sales (MoM) (Dec) | 0.1% |  | -0.2% |
 | 15:00 | USD | New Home Sales (MoM) (Dec) | 3.6% |  | 9.6% |
-| 29 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:35 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.335% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.478% |

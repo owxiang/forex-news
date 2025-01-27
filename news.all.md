@@ -20,25 +20,25 @@
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 85.1 | 84.9 | 84.7 |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Dec) | 2,957.0K |  | 2,935.0K |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) | 86.2 |  | 91.3 |
-| 11:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 2.10% |  | 2.10% |
 | 11:00 | ZAR | Low | Total Vehicle Sales (Jan) | 41.09K |  | 41.09K |
+| 11:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 2.10% |  | 2.10% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Bank lending (MoM) (Dec) | 1.4% |  | 1.0% |
 | 12:00 | MXN | Low | Trade Balance (Dec) | 2.567B | 1.500B | -0.133B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Dec) | -0.684B |  | -0.690B |
-| 12:30 | USD | Moderate | Building Permits (Dec) | 1.482M | 1.483M | 1.493M |
 | 12:30 | USD | Low | Building Permits (MoM) (Dec) | -0.7% | -0.7% | 5.2% |
+| 12:30 | USD | Moderate | Building Permits (Dec) | 1.482M | 1.483M | 1.493M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Dec) | 0.15 | -0.06 | -0.01 |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | 0.1% |  | -0.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.407% |  | 2.408% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.608% |  | 2.633% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.508% |  | 2.532% |
-| 15:00 | USD | High | New Home Sales (Dec) | 698K | 669K | 674K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Dec) | 3.6% |  | 9.6% |
-| 24 min | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | 3.4 |
-| 29 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.215% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.165% |
+| 15:00 | USD | High | New Home Sales (Dec) | 698K | 669K | 674K |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) | 14.1 |  | 4.5 |
+| 15:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.215% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.165% |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.335% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.478% |
 | 21:25 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
