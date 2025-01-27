@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Industrial profit YTD (Dec) | -3.3% |  | -4.7% |
-| 4 min | SGD | Unemployment Rate (Q4) |  |  | 1.9% |
+| 02:30 | SGD | Unemployment Rate (Q4) | 1.9% |  | 1.9% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Nov) |  | -1.5% | 2.8% |
-| 05:00 | JPY | Leading Index (MoM) (Nov) |  | -2.1% | 0.2% |
 | 05:00 | JPY | Leading Index (Nov) |  | 107.0 | 109.1 |
+| 05:00 | JPY | Leading Index (MoM) (Nov) |  | -2.1% | 0.2% |
 | 07:00 | NOK | Unemployment Rate (Dec) |  |  | 3.7% |
 | 08:30 | HKD | Exports (MoM) (Dec) |  |  | 2.1% |
 | 08:30 | HKD | Imports (MoM) (Dec) |  |  | 5.7% |
