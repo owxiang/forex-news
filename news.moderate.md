@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Composite PMI (Jan) | 50.1 | 52.1 | 52.2 |
 | 01:30 | CNY | Non-Manufacturing PMI (Jan) | 50.2 |  | 52.2 |
-| 08:10 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Jan) |  | 84.0 | 84.4 |
-| 09:00 | EUR | German Current Assessment (Jan) |  | 85.4 | 85.1 |
-| 09:00 | EUR | German Ifo Business Climate Index (Jan) |  | 84.9 | 84.7 |
+| 1 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 51 min | EUR | German Business Expectations (Jan) |  | 84.0 | 84.4 |
+| 51 min | EUR | German Current Assessment (Jan) |  | 85.4 | 85.1 |
+| 51 min | EUR | German Ifo Business Climate Index (Jan) |  | 84.9 | 84.7 |
 | 11:00 | EUR | France Jobseekers Total (Dec) |  |  | 2,935.0K |
 | 13:00 | USD | Building Permits (Dec) |  | 1.483M | 1.493M |
 | 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  |  | -0.2% |

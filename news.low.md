@@ -8,9 +8,9 @@
 | 05:00 | JPY | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 05:00 | JPY | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
 | 07:00 | NOK | Unemployment Rate (Dec) | 4.2% |  | 3.7% |
-| 08:30 | HKD | Exports (MoM) (Dec) |  |  | 2.1% |
-| 08:30 | HKD | Imports (MoM) (Dec) |  |  | 5.7% |
-| 08:30 | HKD | Trade Balance (Dec) |  |  | -43.4B |
+| 21 min | HKD | Exports (MoM) (Dec) |  |  | 2.1% |
+| 21 min | HKD | Imports (MoM) (Dec) |  |  | 5.7% |
+| 21 min | HKD | Trade Balance (Dec) |  |  | -43.4B |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | BRL | FGV Consumer confidence (Jan) |  |  | 92.0 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |

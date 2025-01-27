@@ -11,13 +11,13 @@
 | 05:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.6% | -2.1% | 0.2% |
 | 05:00 | JPY | Low | Leading Index (Nov) | 107.5 | 107.0 | 109.1 |
 | 07:00 | NOK | Low | Unemployment Rate (Dec) | 4.2% |  | 3.7% |
-| 08:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | HKD | Low | Exports (MoM) (Dec) |  |  | 2.1% |
-| 08:30 | HKD | Low | Imports (MoM) (Dec) |  |  | 5.7% |
-| 08:30 | HKD | Low | Trade Balance (Dec) |  |  | -43.4B |
-| 09:00 | EUR | Moderate | German Business Expectations (Jan) |  | 84.0 | 84.4 |
-| 09:00 | EUR | Moderate | German Current Assessment (Jan) |  | 85.4 | 85.1 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 84.9 | 84.7 |
+| 1 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21 min | HKD | Low | Exports (MoM) (Dec) |  |  | 2.1% |
+| 21 min | HKD | Low | Imports (MoM) (Dec) |  |  | 5.7% |
+| 21 min | HKD | Low | Trade Balance (Dec) |  |  | -43.4B |
+| 51 min | EUR | Moderate | German Business Expectations (Jan) |  | 84.0 | 84.4 |
+| 51 min | EUR | Moderate | German Current Assessment (Jan) |  | 85.4 | 85.1 |
+| 51 min | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 84.9 | 84.7 |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Dec) |  |  | 2,935.0K |
 | 11:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 92.0 |
