@@ -10,8 +10,8 @@
 | 09:00 | EUR | German Ifo Business Climate Index (Jan) | 85.1 | 84.9 | 84.7 |
 | 11:00 | EUR | France Jobseekers Total (Dec) | 2,957.0K |  | 2,935.0K |
 | 12:30 | USD | Building Permits (Dec) | 1.482M | 1.483M | 1.493M |
-| 21 min | CAD | Wholesale Sales (MoM) (Dec) |  |  | -0.2% |
-| 15:00 | USD | New Home Sales (MoM) (Dec) |  |  | 5.9% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Dec) | 0.1% |  | -0.2% |
+| 54 min | USD | New Home Sales (MoM) (Dec) |  |  | 5.9% |
 | 15:35 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.335% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.478% |
