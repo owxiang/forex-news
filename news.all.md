@@ -37,9 +37,9 @@
 | 15:00 | USD | High | New Home Sales (Dec) | 698K | 669K | 674K |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) | 14.1 |  | 4.5 |
 | 15:35 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.215% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.165% |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.335% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.478% |
+| 16:30 | USD | Moderate | 2-Year Note Auction | 4.211% |  | 4.335% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.140% |  | 4.165% |
+| 54 min | USD | Low | 3-Month Bill Auction |  |  | 4.215% |
+| 54 min | USD | Moderate | 5-Year Note Auction |  |  | 4.478% |
 | 21:25 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.0% |

@@ -24,7 +24,7 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.608% |  | 2.633% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.508% |  | 2.532% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jan) | 14.1 |  | 4.5 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.215% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.165% |
+| 16:30 | USD | 6-Month Bill Auction | 4.140% |  | 4.165% |
+| 54 min | USD | 3-Month Bill Auction |  |  | 4.215% |
 | 21:25 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.0% |
