@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Confidence (Dec) | -2 |  | -3 |
-| 05:00 | JPY | BoJ Core CPI (YoY) |  | 1.7% | 1.7% |
+| 53 min | JPY | BoJ Core CPI (YoY) |  | 1.7% | 1.7% |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Dec) |  | 0.3% | -0.2% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | -0.2% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 4.2% | 4.2% |

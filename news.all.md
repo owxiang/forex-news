@@ -5,7 +5,7 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.7% |  | -1.0% |
 | 00:30 | AUD | Moderate | NAB Business Confidence (Dec) | -2 |  | -3 |
 | 00:30 | AUD | Low | NAB Business Survey (Dec) | 6 |  | 2 |
-| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.7% | 1.7% |
+| 53 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.7% | 1.7% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Dec) |  | 0.2% | 0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Nov) |  |  | 114.00% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jan) |  | 90 | 89 |
