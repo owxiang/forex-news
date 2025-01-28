@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -1.0% |
-| 5 min | AUD | Moderate | NAB Business Confidence (Dec) |  |  | -3 |
-| 5 min | AUD | Low | NAB Business Survey (Dec) |  |  | 2 |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.7% |  | -1.0% |
+| 00:30 | AUD | Moderate | NAB Business Confidence (Dec) | -2 |  | -3 |
+| 00:30 | AUD | Low | NAB Business Survey (Dec) | 6 |  | 2 |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.7% | 1.7% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Dec) |  | 0.2% | 0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Nov) |  |  | 114.00% |
@@ -25,8 +25,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Nov) |  | 0.2% | 0.4% |
 | 14:00 | USD | Low | House Price Index (Nov) |  |  | 432.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 4.2% | 4.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | -0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 4.2% | 4.2% |
 | 15:00 | USD | High | CB Consumer Confidence (Jan) |  | 105.9 | 104.7 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jan) |  | -8 | -10 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |

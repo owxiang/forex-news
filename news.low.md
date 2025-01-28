@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) |  |  | -1.0% |
-| 5 min | AUD | NAB Business Survey (Dec) |  |  | 2 |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | -0.7% |  | -1.0% |
+| 00:30 | AUD | NAB Business Survey (Dec) | 6 |  | 2 |
 | 07:00 | NOK | Core Retail Sales (MoM) (Dec) |  | 0.2% | 0.3% |
 | 07:00 | ZAR | Leading Indicators (Nov) |  |  | 114.00% |
 | 07:45 | EUR | French Consumer Confidence (Jan) |  | 90 | 89 |
