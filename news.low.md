@@ -5,9 +5,9 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.7% |  | -1.0% |
 | 00:30 | AUD | NAB Business Survey (Dec) | 6 |  | 2 |
 | 06:00 | ZAR | Leading Indicators (Nov) | 114.70% |  | 114.00% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Dec) |  | 0.2% | 0.3% |
-| 07:45 | EUR | French Consumer Confidence (Jan) |  | 90 | 89 |
-| 08:00 | EUR | Spanish Unemployment Rate (Q4) |  | 11.10% | 11.21% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.4% |
+| 39 min | EUR | French Consumer Confidence (Jan) |  | 90 | 89 |
+| 54 min | EUR | Spanish Unemployment Rate (Q4) |  | 11.10% | 11.21% |
 | 08:30 | HKD | M3 Money Supply (Dec) |  |  | 2.4% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
