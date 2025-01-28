@@ -13,23 +13,22 @@
 | 08:30 | HKD | Low | M3 Money Supply (Dec) | 2.8% |  | 2.4% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.260% |  | 2.180% |
-| 21 min | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) |  | 0.4% | -0.1% |
-| 21 min | USD | High | Durable Goods Orders (MoM) (Dec) |  | 0.3% | -1.1% |
-| 21 min | USD | Low | Durables Excluding Defense (MoM) (Dec) |  |  | -0.4% |
-| 21 min | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | -0.2% |
-| 21 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.3% | 0.7% |
-| 21 min | BRL | Low | Federal Tax Revenue (Dec) |  |  | 209.22B |
-| 46 min | USD | Low | Redbook (YoY) |  |  | 4.5% |
-| 51 min | USD | Low | House Price Index (YoY) (Nov) |  |  | 4.5% |
-| 51 min | USD | Low | House Price Index (MoM) (Nov) |  | 0.4% | 0.4% |
-| 51 min | USD | Low | House Price Index (Nov) |  |  | 432.3 |
-| 51 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.3% |
-| 51 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | -0.2% |
-| 51 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 4.2% | 4.2% |
-| 15:00 | USD | High | CB Consumer Confidence (Jan) |  | 105.7 | 104.7 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jan) |  | -13 | -10 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
-| 15:00 | USD | Low | Richmond Services Index (Jan) |  |  | 23 |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) | 0.3% | 0.4% | -0.1% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Dec) | -2.2% | 0.3% | -2.0% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Dec) | -2.4% |  | -1.3% |
+| 13:30 | USD | Low | Durables Excluding Transport (MoM) (Dec) | 0.3% |  | -0.1% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Dec) | 0.5% | 0.3% | 0.9% |
+| 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 4.5% |
+| 14:00 | USD | Low | House Price Index (YoY) (Nov) | 4.2% |  | 4.5% |
+| 14:00 | USD | Low | House Price Index (MoM) (Nov) | 0.3% | 0.4% | 0.5% |
+| 14:00 | USD | Low | House Price Index (Nov) | 433.4 |  | 432.3 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.4% |  | 0.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | -0.1% |  | -0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 4.3% | 4.2% | 4.2% |
+| 54 min | USD | High | CB Consumer Confidence (Jan) |  | 105.7 | 104.7 |
+| 54 min | USD | Low | Richmond Manufacturing Index (Jan) |  | -13 | -10 |
+| 54 min | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
+| 54 min | USD | Low | Richmond Services Index (Jan) |  |  | 23 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 13.8 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jan) |  |  | 9.6 |
