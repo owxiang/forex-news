@@ -22,6 +22,6 @@
 | 15:00 | USD | Richmond Manufacturing Index (Jan) | -4 | -13 | -10 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jan) | -9 |  | -11 |
 | 15:00 | USD | Richmond Services Index (Jan) | 4 |  | 23 |
-| 24 min | USD | Dallas Fed Services Revenues (Jan) |  |  | 13.8 |
-| 24 min | USD | Texas Services Sector Outlook (Jan) |  |  | 9.6 |
+| 15:30 | USD | Dallas Fed Services Revenues (Jan) | 5.7 |  | 13.9 |
+| 15:30 | USD | Texas Services Sector Outlook (Jan) | 7.4 |  | 10.8 |
 | 18:00 | USD | M2 Money Supply (MoM) (Dec) |  |  | 21.45T |
