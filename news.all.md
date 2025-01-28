@@ -25,13 +25,13 @@
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.4% |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | -0.1% |  | -0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 4.3% | 4.2% | 4.2% |
-| 54 min | USD | High | CB Consumer Confidence (Jan) |  | 105.7 | 104.7 |
-| 54 min | USD | Low | Richmond Manufacturing Index (Jan) |  | -13 | -10 |
-| 54 min | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
-| 54 min | USD | Low | Richmond Services Index (Jan) |  |  | 23 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 13.8 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Jan) |  |  | 9.6 |
+| 15:00 | USD | High | CB Consumer Confidence (Jan) | 104.1 | 105.7 | 109.5 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Jan) | -4 | -13 | -10 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) | -9 |  | -11 |
+| 15:00 | USD | Low | Richmond Services Index (Jan) | 4 |  | 23 |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.0% | 3.0% |
+| 24 min | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 13.8 |
+| 24 min | USD | Low | Texas Services Sector Outlook (Jan) |  |  | 9.6 |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.532% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 21.45T |

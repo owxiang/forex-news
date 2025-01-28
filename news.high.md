@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | Durable Goods Orders (MoM) (Dec) | -2.2% | 0.3% | -2.0% |
-| 54 min | USD | CB Consumer Confidence (Jan) |  | 105.7 | 104.7 |
+| 15:00 | USD | CB Consumer Confidence (Jan) | 104.1 | 105.7 | 109.5 |

@@ -19,9 +19,9 @@
 | 14:00 | USD | House Price Index (MoM) (Nov) | 0.3% | 0.4% | 0.5% |
 | 14:00 | USD | House Price Index (Nov) | 433.4 |  | 432.3 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.4% |  | 0.4% |
-| 54 min | USD | Richmond Manufacturing Index (Jan) |  | -13 | -10 |
-| 54 min | USD | Richmond Manufacturing Shipments (Jan) |  |  | -11 |
-| 54 min | USD | Richmond Services Index (Jan) |  |  | 23 |
-| 15:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 13.8 |
-| 15:30 | USD | Texas Services Sector Outlook (Jan) |  |  | 9.6 |
+| 15:00 | USD | Richmond Manufacturing Index (Jan) | -4 | -13 | -10 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Jan) | -9 |  | -11 |
+| 15:00 | USD | Richmond Services Index (Jan) | 4 |  | 23 |
+| 24 min | USD | Dallas Fed Services Revenues (Jan) |  |  | 13.8 |
+| 24 min | USD | Texas Services Sector Outlook (Jan) |  |  | 9.6 |
 | 18:00 | USD | M2 Money Supply (MoM) (Dec) |  |  | 21.45T |
