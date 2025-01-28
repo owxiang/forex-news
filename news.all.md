@@ -23,8 +23,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Nov) | 0.3% | 0.4% | 0.5% |
 | 14:00 | USD | Low | House Price Index (Nov) | 433.4 |  | 432.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.4% |  | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 4.3% | 4.2% | 4.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | -0.1% |  | -0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 4.3% | 4.2% | 4.2% |
 | 15:00 | USD | High | CB Consumer Confidence (Jan) | 104.1 | 105.7 | 109.5 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jan) | -4 | -13 | -10 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jan) | -9 |  | -11 |
