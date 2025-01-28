@@ -33,7 +33,7 @@
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jan) | 7.4 |  | 10.8 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 3.2% | 3.0% | 3.0% |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 54 min | USD | Moderate | 7-Year Note Auction |  |  | 4.532% |
-| 54 min | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 21.45T |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 4.457% |  | 4.532% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) | 21.53T |  | 21.45T |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 3.700M | 1.000M |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |

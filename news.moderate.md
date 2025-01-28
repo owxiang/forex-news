@@ -9,6 +9,6 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 4.3% | 4.2% | 4.2% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q4) | 3.2% | 3.0% | 3.0% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 54 min | USD | 7-Year Note Auction |  |  | 4.532% |
+| 18:00 | USD | 7-Year Note Auction | 4.457% |  | 4.532% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 3.700M | 1.000M |
 | 23:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
