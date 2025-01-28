@@ -1,6 +1,6 @@
-## 27 January 2025 - High Impact Forex News
+## 28 January 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Manufacturing PMI (Jan) | 49.1 | 50.1 | 50.1 |
-| 15:00 | USD | New Home Sales (Dec) | 698K | 669K | 674K |
+| 13:30 | USD | Durable Goods Orders (MoM) (Dec) |  | 0.1% | -1.2% |
+| 15:00 | USD | CB Consumer Confidence (Jan) |  | 105.9 | 104.7 |
