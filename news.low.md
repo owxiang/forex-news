@@ -10,8 +10,8 @@
 | 08:00 | EUR | Spanish Unemployment Rate (Q4) | 10.61% | 11.10% | 11.21% |
 | 08:30 | HKD | M3 Money Supply (Dec) | 2.8% |  | 2.4% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 54 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.180% |
+| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.180% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | -0.4% |
 | 13:30 | USD | Durables Excluding Transport (MoM) (Dec) |  |  | -0.2% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.3% | 0.7% |

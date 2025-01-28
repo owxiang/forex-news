@@ -12,8 +12,8 @@
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q4) | 10.61% | 11.10% | 11.21% |
 | 08:30 | HKD | Low | M3 Money Supply (Dec) | 2.8% |  | 2.4% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.180% |
+| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 24 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.180% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Dec) |  | 0.4% | -0.1% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Dec) |  | 0.3% | -1.1% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Dec) |  |  | -0.4% |
@@ -37,5 +37,5 @@
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.532% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Dec) |  |  | 21.45T |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.000M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 3.700M | 1.000M |
 | 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
