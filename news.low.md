@@ -15,8 +15,8 @@
 | 13:30 | USD | Durables Excluding Transport (MoM) (Dec) | 0.3% |  | -0.1% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) | 0.5% | 0.3% | 0.9% |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 4.5% |
-| 14:00 | USD | House Price Index (YoY) (Nov) | 4.2% |  | 4.5% |
 | 14:00 | USD | House Price Index (MoM) (Nov) | 0.3% | 0.4% | 0.5% |
+| 14:00 | USD | House Price Index (YoY) (Nov) | 4.2% |  | 4.5% |
 | 14:00 | USD | House Price Index (Nov) | 433.4 |  | 432.3 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.4% |  | 0.4% |
 | 15:00 | USD | Richmond Manufacturing Index (Jan) | -4 | -13 | -10 |
@@ -24,4 +24,4 @@
 | 15:00 | USD | Richmond Services Index (Jan) | 4 |  | 23 |
 | 15:30 | USD | Dallas Fed Services Revenues (Jan) | 5.7 |  | 13.9 |
 | 15:30 | USD | Texas Services Sector Outlook (Jan) | 7.4 |  | 10.8 |
-| 18:00 | USD | M2 Money Supply (MoM) (Dec) |  |  | 21.45T |
+| 54 min | USD | M2 Money Supply (MoM) (Dec) |  |  | 21.45T |
