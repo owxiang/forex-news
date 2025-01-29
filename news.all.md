@@ -11,9 +11,9 @@
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -20.5 | -21.3 |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
+| 52 min | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -20.5 | -21.3 |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) |  | 85.5 | 85.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) |  | 96.0 | 96.3 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.9% | 3.8% |
