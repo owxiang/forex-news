@@ -12,14 +12,14 @@
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
-| 54 min | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.8% |
-| 54 min | EUR | Low | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
-| 09:00 | EUR | Low | Italian Business Confidence (Jan) |  | 85.5 | 85.8 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Jan) |  | 96.0 | 96.3 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.9% | 3.8% |
-| 09:00 | EUR | Low | M3 Money Supply (Dec) |  |  | 16,681.9B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) |  |  | 1.0% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) |  | 1.0% | 0.9% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
+| 52 min | EUR | Low | Italian Business Confidence (Jan) |  | 85.5 | 85.8 |
+| 52 min | EUR | Low | Italian Consumer Confidence (Jan) |  | 96.0 | 96.3 |
+| 52 min | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.9% | 3.8% |
+| 52 min | EUR | Low | M3 Money Supply (Dec) |  |  | 16,681.9B |
+| 52 min | EUR | Low | Loans to Non Financial Corporations (Dec) |  |  | 1.0% |
+| 52 min | EUR | Low | Private Sector Loans (YoY) (Dec) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 5.91B |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:30 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.724% |
