@@ -1,6 +1,9 @@
-## 28 January 2025 - High Impact Forex News
+## 29 January 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Durable Goods Orders (MoM) (Dec) | -2.2% | 0.3% | -2.0% |
-| 15:00 | USD | CB Consumer Confidence (Jan) | 104.1 | 105.7 | 109.5 |
+| 14:45 | CAD | BoC Interest Rate Decision |  | 3.00% | 3.25% |
+| 15:30 | USD | Crude Oil Inventories |  | 3.700M | -1.017M |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision |  | 4.50% | 4.50% |
+| 19:30 | USD | FOMC Press Conference |  |  |  |

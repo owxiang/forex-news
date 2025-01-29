@@ -1,14 +1,21 @@
-## 28 January 2025 - Moderate Impact Forex News
+## 29 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | NAB Business Confidence (Dec) | -2 |  | -3 |
-| 05:00 | JPY | BoJ Core CPI (YoY) | 1.9% | 1.7% | 1.7% |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Dec) | 0.3% | 0.4% | -0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | -0.1% |  | -0.2% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 4.3% | 4.2% | 4.2% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q4) | 3.2% | 3.0% | 3.0% |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 7-Year Note Auction | 4.457% |  | 4.532% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 2.860M | 3.700M | 1.000M |
-| 44 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 5 min | AUD | CPI (YoY) (Q4) |  | 2.5% | 2.8% |
+| 5 min | AUD | CPI (QoQ) (Q4) |  | 0.3% | 0.2% |
+| 5 min | AUD | Trimmed Mean CPI (QoQ) (Q4) |  | 0.6% | 0.8% |
+| 07:00 | EUR | GfK German Consumer Climate (Feb) |  | -20.5 | -21.3 |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.8% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.510% |
+| 11:00 | CAD | BoC Monetary Policy Report |  |  |  |
+| 11:00 | CAD | BoC Rate Statement |  |  |  |
+| 13:30 | USD | Goods Trade Balance (Dec) |  | -105.30B | -103.50B |
+| 13:30 | USD | Retail Inventories Ex Auto (Dec) |  |  | 0.5% |
+| 13:45 | CAD | BoC Monetary Policy Report |  |  |  |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.148M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 21:30 | BRL | Interest Rate Decision |  | 13.25% | 12.25% |
