@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.5% |
@@ -16,8 +16,8 @@
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) |  | 85.5 | 85.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) |  | 96.0 | 96.3 |
-| 09:00 | EUR | Low | M3 Money Supply (Dec) |  |  | 16,681.9B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) |  | 3.9% | 3.8% |
+| 09:00 | EUR | Low | M3 Money Supply (Dec) |  |  | 16,681.9B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) |  |  | 1.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 5.91B |

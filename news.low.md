@@ -11,8 +11,8 @@
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
 | 09:00 | EUR | Italian Business Confidence (Jan) |  | 85.5 | 85.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) |  | 96.0 | 96.3 |
-| 09:00 | EUR | M3 Money Supply (Dec) |  |  | 16,681.9B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Dec) |  | 3.9% | 3.8% |
+| 09:00 | EUR | M3 Money Supply (Dec) |  |  | 16,681.9B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Dec) |  |  | 1.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Dec) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Dec) |  |  | 5.91B |
