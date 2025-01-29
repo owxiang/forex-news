@@ -52,7 +52,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -5.8% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.957M | 2.000M | 2.332M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.806B |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 0.806B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |

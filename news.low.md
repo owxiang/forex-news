@@ -34,7 +34,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.128M |  | 0.068M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -5.8% |
 | 15:30 | USD | Gasoline Inventories | 2.957M | 2.000M | 2.332M |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.806B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | 0.806B |
 | 21:45 | NZD | Exports (Dec) |  |  | 6.48B |
 | 21:45 | NZD | Imports (Dec) |  |  | 6.92B |
 | 21:45 | NZD | Trade Balance (YoY) (Dec) |  |  | -8,250M |
