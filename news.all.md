@@ -12,13 +12,13 @@
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 3.8% |
 | 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -33,9 +33,9 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 520.9 |  | 558.8 |
 | 12:00 | MXN | Low | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.60% |
-| 13:30 | USD | Moderate | Goods Trade Balance (Dec) |  | -105.60B | -103.50B |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  |  | 0.5% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.2% | -0.2% |
+| 20 min | USD | Moderate | Goods Trade Balance (Dec) |  | -105.60B | -103.50B |
+| 20 min | USD | Moderate | Retail Inventories Ex Auto (Dec) |  |  | 0.5% |
+| 20 min | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.2% | -0.2% |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |

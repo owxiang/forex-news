@@ -12,8 +12,8 @@
 | 09:00 | EUR | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 3.8% |
 | 09:00 | EUR | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -25,7 +25,7 @@
 | 12:00 | USD | Mortgage Refinance Index | 520.9 |  | 558.8 |
 | 12:00 | MXN | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.60% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Dec) |  | 0.2% | -0.2% |
+| 20 min | USD | Wholesale Inventories (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -1.125M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.184M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.473M |
