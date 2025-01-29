@@ -12,8 +12,8 @@
 | 09:00 | EUR | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
+| 09:00 | EUR | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |

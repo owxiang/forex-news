@@ -12,13 +12,13 @@
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
+| 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -53,8 +53,8 @@
 | 15:30 | USD | Low | Gasoline Inventories | 2.957M | 2.000M | 2.332M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -4.149B |  | 0.806B |
-| 52 min | USD | High | FOMC Statement |  |  |  |
-| 52 min | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 13.25% | 12.25% |
 | 21:45 | NZD | Low | Exports (Dec) |  |  | 6.48B |
