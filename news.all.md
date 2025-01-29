@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
+| 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
 | 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
@@ -56,10 +56,10 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 21:30 | BRL | Moderate | Interest Rate Decision |  | 13.25% | 12.25% |
-| 21:45 | NZD | Low | Exports (Dec) |  |  | 6.48B |
-| 21:45 | NZD | Low | Imports (Dec) |  |  | 6.92B |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -8,250M |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
+| 24 min | BRL | Moderate | Interest Rate Decision |  | 13.25% | 12.25% |
+| 39 min | NZD | Low | Exports (Dec) |  |  | 6.48B |
+| 39 min | NZD | Low | Imports (Dec) |  |  | 6.92B |
+| 39 min | NZD | Low | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
+| 39 min | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -8,250M |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 819.3B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -66.1B |
