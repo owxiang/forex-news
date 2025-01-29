@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
-| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
+| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
+| 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -36,22 +36,22 @@
 | 13:30 | USD | Moderate | Goods Trade Balance (Dec) | -122.11B | -105.60B | -103.50B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) | 0.2% |  | 0.4% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Dec) | -0.5% | 0.2% | -0.1% |
-| 9 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 39 min | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 39 min | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 39 min | CAD | High | BoC Interest Rate Decision |  | 3.00% | 3.25% |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
-| 15:30 | USD | High | Crude Oil Inventories |  | 2.200M | -1.017M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -1.125M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.184M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.148M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.473M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.750M | -3.070M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.043M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.068M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -5.8% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 2.000M | 2.332M |
-| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 14:45 | CAD | High | BoC Interest Rate Decision | 3.00% | 3.00% | 3.25% |
+| 25 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
+| 25 min | USD | High | Crude Oil Inventories |  | 2.200M | -1.017M |
+| 25 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -1.125M |
+| 25 min | USD | Low | Crude Oil Imports |  |  | 0.184M |
+| 25 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.148M |
+| 25 min | USD | Low | Distillate Fuel Production |  |  | -0.473M |
+| 25 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.750M | -3.070M |
+| 25 min | USD | Low | Gasoline Production |  |  | -0.043M |
+| 25 min | USD | Low | Heating Oil Stockpiles |  |  | 0.068M |
+| 25 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -5.8% |
+| 25 min | USD | Low | Gasoline Inventories |  | 2.000M | 2.332M |
+| 25 min | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.806B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
