@@ -37,7 +37,7 @@
 | 17:30 | BRL | Foreign Exchange Flows | -4.149B |  | 0.806B |
 | 21:45 | NZD | Exports (Dec) | 6.84B |  | 6.42B |
 | 21:45 | NZD | Imports (Dec) | 6.62B |  | 6.85B |
-| 21:45 | NZD | Trade Balance (YoY) (Dec) | -7,670M |  | -8,260M |
 | 21:45 | NZD | Trade Balance (MoM) (Dec) | 219M | -1,363M | -435M |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 819.3B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -66.1B |
+| 21:45 | NZD | Trade Balance (YoY) (Dec) | -7,670M |  | -8,260M |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 819.3B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -66.1B |

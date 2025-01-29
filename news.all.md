@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
+| 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
 | 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
@@ -59,7 +59,7 @@
 | 21:30 | BRL | Moderate | Interest Rate Decision | 13.25% | 13.25% | 12.25% |
 | 21:45 | NZD | Low | Exports (Dec) | 6.84B |  | 6.42B |
 | 21:45 | NZD | Low | Imports (Dec) | 6.62B |  | 6.85B |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Dec) | -7,670M |  | -8,260M |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Dec) | 219M | -1,363M | -435M |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 819.3B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -66.1B |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Dec) | -7,670M |  | -8,260M |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 819.3B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -66.1B |
