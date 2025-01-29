@@ -5,15 +5,15 @@
 | 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
 | 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
-| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
@@ -52,14 +52,14 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -5.8% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.957M | 2.000M | 2.332M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 0.806B |
-| 19:00 | USD | High | FOMC Statement |  |  |  |
-| 19:00 | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
+| 17:30 | BRL | Low | Foreign Exchange Flows | -4.149B |  | 0.806B |
+| 52 min | USD | High | FOMC Statement |  |  |  |
+| 52 min | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 13.25% | 12.25% |
 | 21:45 | NZD | Low | Exports (Dec) |  |  | 6.48B |
 | 21:45 | NZD | Low | Imports (Dec) |  |  | 6.92B |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -8,250M |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -8,250M |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 819.3B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -66.1B |
