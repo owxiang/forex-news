@@ -8,7 +8,7 @@
 | 00:30 | AUD | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
-| 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
+| 54 min | EUR | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
 | 09:00 | EUR | Italian Business Confidence (Jan) |  | 85.5 | 85.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) |  | 96.0 | 96.3 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Dec) |  | 3.9% | 3.8% |
