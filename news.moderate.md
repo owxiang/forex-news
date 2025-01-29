@@ -10,10 +10,10 @@
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.510% |
 | 11:00 | CAD | BoC Monetary Policy Report |  |  |  |
 | 11:00 | CAD | BoC Rate Statement |  |  |  |
-| 13:30 | USD | Goods Trade Balance (Dec) |  | -105.30B | -103.50B |
+| 13:30 | USD | Goods Trade Balance (Dec) |  | -105.60B | -103.50B |
 | 13:30 | USD | Retail Inventories Ex Auto (Dec) |  |  | 0.5% |
-| 13:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.148M |
