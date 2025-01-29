@@ -7,9 +7,9 @@
 | 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 07:00 | EUR | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.510% |
-| 11:00 | CAD | BoC Monetary Policy Report |  |  |  |
-| 11:00 | CAD | BoC Rate Statement |  |  |  |
+| 24 min | EUR | German 10-Year Bund Auction |  |  | 2.510% |
+| 54 min | CAD | BoC Monetary Policy Report |  |  |  |
+| 54 min | CAD | BoC Rate Statement |  |  |  |
 | 13:30 | USD | Goods Trade Balance (Dec) |  | -105.60B | -103.50B |
 | 13:30 | USD | Retail Inventories Ex Auto (Dec) |  |  | 0.5% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |

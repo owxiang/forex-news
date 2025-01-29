@@ -5,20 +5,20 @@
 | 00:30 | AUD | CPI Index Number (Q4) | 139.40 |  | 139.10 |
 | 00:30 | AUD | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 00:30 | AUD | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 05:00 | JPY | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
 | 09:00 | EUR | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | M3 Money Supply (Dec) |  |  | 16,681.9B |
+| 09:00 | EUR | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 3.8% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
-| 54 min | EUR | Italian Trade Balance Non-EU (Dec) |  |  | 5.91B |
-| 54 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 10:30 | EUR | Italian 6-Month BOT Auction |  |  | 2.724% |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
+| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 24 min | EUR | Italian 6-Month BOT Auction |  |  | 2.724% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.02% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.1% |
 | 12:00 | USD | MBA Purchase Index |  |  | 163.0 |
@@ -38,7 +38,7 @@
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.806B |
 | 21:45 | NZD | Exports (Dec) |  |  | 6.48B |
 | 21:45 | NZD | Imports (Dec) |  |  | 6.92B |
-| 21:45 | NZD | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 21:45 | NZD | Trade Balance (YoY) (Dec) |  |  | -8,250M |
+| 21:45 | NZD | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 819.3B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -66.1B |
