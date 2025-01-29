@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
-| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
+| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
 | 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
@@ -17,8 +17,8 @@
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -59,7 +59,7 @@
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 13.25% | 12.25% |
 | 21:45 | NZD | Low | Exports (Dec) |  |  | 6.48B |
 | 21:45 | NZD | Low | Imports (Dec) |  |  | 6.92B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -8,250M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 819.3B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -66.1B |

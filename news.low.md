@@ -12,8 +12,8 @@
 | 09:00 | EUR | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -37,7 +37,7 @@
 | 17:30 | BRL | Foreign Exchange Flows | -4.149B |  | 0.806B |
 | 21:45 | NZD | Exports (Dec) |  |  | 6.48B |
 | 21:45 | NZD | Imports (Dec) |  |  | 6.92B |
-| 21:45 | NZD | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 21:45 | NZD | Trade Balance (YoY) (Dec) |  |  | -8,250M |
+| 21:45 | NZD | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 819.3B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -66.1B |
