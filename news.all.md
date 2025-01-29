@@ -8,8 +8,8 @@
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
-| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
 | 05:00 | JPY | Low | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
@@ -33,13 +33,13 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 520.9 |  | 558.8 |
 | 12:00 | MXN | Low | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.60% |
-| 20 min | USD | Moderate | Goods Trade Balance (Dec) |  | -105.60B | -103.50B |
-| 20 min | USD | Moderate | Retail Inventories Ex Auto (Dec) |  |  | 0.5% |
-| 20 min | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.2% | -0.2% |
-| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 3.00% | 3.25% |
+| 13:30 | USD | Moderate | Goods Trade Balance (Dec) | -122.11B | -105.60B | -103.50B |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) | 0.2% |  | 0.4% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Dec) | -0.5% | 0.2% | -0.1% |
+| 9 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 39 min | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 39 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 39 min | CAD | High | BoC Interest Rate Decision |  | 3.00% | 3.25% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 3.2% | 3.2% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.200M | -1.017M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -1.125M |
