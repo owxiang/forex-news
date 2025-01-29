@@ -12,8 +12,8 @@
 | 09:00 | EUR | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -26,18 +26,18 @@
 | 12:00 | MXN | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.60% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Dec) | -0.5% | 0.2% | -0.1% |
-| 25 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -1.125M |
-| 25 min | USD | Crude Oil Imports |  |  | 0.184M |
-| 25 min | USD | Distillate Fuel Production |  |  | -0.473M |
-| 25 min | USD | EIA Weekly Distillates Stocks |  | -2.750M | -3.070M |
-| 25 min | USD | Gasoline Production |  |  | -0.043M |
-| 25 min | USD | Heating Oil Stockpiles |  |  | 0.068M |
-| 25 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -5.8% |
-| 25 min | USD | Gasoline Inventories |  | 2.000M | 2.332M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.333M |  | -1.125M |
+| 15:30 | USD | Crude Oil Imports | 0.532M |  | 0.184M |
+| 15:30 | USD | Distillate Fuel Production | 0.028M |  | -0.473M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -4.994M | -2.750M | -3.070M |
+| 15:30 | USD | Gasoline Production | -0.044M |  | -0.043M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.128M |  | 0.068M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -5.8% |
+| 15:30 | USD | Gasoline Inventories | 2.957M | 2.000M | 2.332M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.806B |
 | 21:45 | NZD | Exports (Dec) |  |  | 6.48B |
 | 21:45 | NZD | Imports (Dec) |  |  | 6.92B |
-| 21:45 | NZD | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 21:45 | NZD | Trade Balance (YoY) (Dec) |  |  | -8,250M |
+| 21:45 | NZD | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 819.3B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -66.1B |
