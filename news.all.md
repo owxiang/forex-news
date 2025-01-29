@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
 | 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
 | 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
 | 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
@@ -17,8 +17,8 @@
 | 09:00 | EUR | Low | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
 | 09:00 | CHF | Low | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
+| 09:00 | EUR | Low | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
@@ -56,10 +56,10 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 24 min | BRL | Moderate | Interest Rate Decision |  | 13.25% | 12.25% |
-| 39 min | NZD | Low | Exports (Dec) |  |  | 6.48B |
-| 39 min | NZD | Low | Imports (Dec) |  |  | 6.92B |
-| 39 min | NZD | Low | Trade Balance (MoM) (Dec) |  | -1,363M | -437M |
-| 39 min | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -8,250M |
+| 21:30 | BRL | Moderate | Interest Rate Decision | 13.25% | 13.25% | 12.25% |
+| 21:45 | NZD | Low | Exports (Dec) | 6.84B |  | 6.42B |
+| 21:45 | NZD | Low | Imports (Dec) | 6.62B |  | 6.85B |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Dec) | -7,670M |  | -8,260M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Dec) | 219M | -1,363M | -435M |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 819.3B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -66.1B |
