@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 5 min | AUD | Moderate | CPI (YoY) (Q4) |  | 2.5% | 2.8% |
-| 5 min | AUD | Moderate | CPI (QoQ) (Q4) |  | 0.3% | 0.2% |
-| 5 min | AUD | Low | CPI Index Number (Q4) |  |  | 139.10 |
-| 5 min | AUD | Low | Trimmed Mean CPI (YoY) (Q4) |  | 3.3% | 3.5% |
-| 5 min | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) |  | 0.6% | 0.8% |
-| 5 min | AUD | Low | Monthly CPI Indicator (YoY) (Dec) |  | 2.50% | 2.30% |
-| 5 min | AUD | Low | Weighted mean CPI (YoY) (Q4) |  | 3.5% | 3.8% |
-| 5 min | AUD | Low | Weighted mean CPI (QoQ) (Q4) |  | 0.6% | 0.9% |
+| 00:30 | AUD | Moderate | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
+| 00:30 | AUD | Moderate | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
+| 00:30 | AUD | Low | CPI Index Number (Q4) | 139.40 |  | 139.10 |
+| 00:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.5% |
+| 00:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
+| 00:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.8% |
+| 00:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Low | Household Confidence (Jan) |  | 36.6 | 36.2 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -20.5 | -21.3 |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.8% |

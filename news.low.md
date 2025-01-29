@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | AUD | CPI Index Number (Q4) |  |  | 139.10 |
-| 5 min | AUD | Trimmed Mean CPI (YoY) (Q4) |  | 3.3% | 3.5% |
-| 5 min | AUD | Monthly CPI Indicator (YoY) (Dec) |  | 2.50% | 2.30% |
-| 5 min | AUD | Weighted mean CPI (YoY) (Q4) |  | 3.5% | 3.8% |
-| 5 min | AUD | Weighted mean CPI (QoQ) (Q4) |  | 0.6% | 0.9% |
+| 00:30 | AUD | CPI Index Number (Q4) | 139.40 |  | 139.10 |
+| 00:30 | AUD | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.5% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
+| 00:30 | AUD | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.8% |
+| 00:30 | AUD | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
 | 05:00 | JPY | Household Confidence (Jan) |  | 36.6 | 36.2 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 3.2% | 3.3% |
 | 09:00 | EUR | Italian Business Confidence (Jan) |  | 85.5 | 85.8 |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | AUD | CPI (YoY) (Q4) |  | 2.5% | 2.8% |
-| 5 min | AUD | CPI (QoQ) (Q4) |  | 0.3% | 0.2% |
-| 5 min | AUD | Trimmed Mean CPI (QoQ) (Q4) |  | 0.6% | 0.8% |
+| 00:30 | AUD | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
+| 00:30 | AUD | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
+| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
 | 07:00 | EUR | GfK German Consumer Climate (Feb) |  | -20.5 | -21.3 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.8% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.510% |
