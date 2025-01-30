@@ -22,20 +22,20 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% |  | 2.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.0% | 0.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.3% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.5% | 0.6% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | 0.0% | -0.3% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Dec) | 1.045B | 0.950B | 0.905B |
 | 09:30 | GBP | Low | M3 Money Supply (Dec) | 3,081.6B |  | 3,078.0B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Dec) | 0.1% | 0.2% | 0.0% |
 | 09:30 | GBP | Low | Mortgage Approvals (Dec) | 66.53K | 65.00K | 66.06K |
 | 09:30 | GBP | Low | Mortgage Lending (Dec) | 3.57B | 2.60B | 2.55B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Dec) | 4.600B | 3.600B | 3.400B |
-| 09:30 | ZAR | Low | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
 | 09:30 | ZAR | Low | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
+| 09:30 | ZAR | Low | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) | 6.2% | 5.7% | 5.9% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jan) | 95.2 | 94.1 | 93.7 |
 | 10:00 | EUR | Low | Business Climate (Jan) | -0.94 |  | -0.91 |
@@ -54,30 +54,30 @@
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) | 0.27% | 0.21% | 0.94% |
 | 11:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.6% | 1.2% | 1.6% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | -0.6% | -0.2% | 1.1% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.6% | 1.2% | 1.6% |
 | 12:00 | ZAR | Low | Budget Balance (MoM) (Dec) | 21.38B |  | -4.46B |
 | 12:15 | EUR | Low | Spanish Business Confidence (Jan) | -5.1 |  | -4.5 |
 | 13:00 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -535.55K | -402.50K | 106.63K |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) | 7.50% | 7.50% | 7.75% |
-| 13:00 | ZAR | Low | Prime Rate (Jan) |  |  | 11.25% |
-| 7 min | EUR | High | Deposit Facility Rate (Jan) |  | 2.75% | 3.00% |
-| 7 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.40% |
-| 7 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 7 min | EUR | High | ECB Interest Rate Decision (Jan) |  | 2.90% | 3.15% |
-| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,899K |
-| 22 min | USD | Moderate | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
-| 22 min | USD | High | GDP (QoQ) (Q4) |  | 2.7% | 3.1% |
-| 22 min | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.5% | 1.9% |
-| 22 min | USD | Low | GDP Sales (Q4) |  |  | 3.3% |
-| 22 min | USD | High | Initial Jobless Claims |  | 224K | 223K |
-| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.50K |
-| 22 min | USD | Low | PCE Prices (Q4) |  |  | 1.5% |
-| 22 min | USD | Low | Real Consumer Spending (Q4) |  |  | 3.7% |
-| 22 min | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 5.25% |
-| 37 min | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | 0.0% | 2.2% |
-| 15:00 | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.0 |
+| 13:00 | ZAR | Low | Prime Rate (Jan) | 11.00% |  | 11.25% |
+| 13:15 | EUR | High | Deposit Facility Rate (Jan) | 2.75% | 2.75% | 3.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 3.15% |  | 3.40% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Jan) | 2.90% | 2.90% | 3.15% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,858K | 1,890K | 1,900K |
+| 13:30 | USD | Moderate | Core PCE Prices (Q4) | 2.50% | 2.50% | 2.20% |
+| 13:30 | USD | High | GDP (QoQ) (Q4) | 2.3% | 2.7% | 3.1% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) | 2.2% | 2.5% | 1.9% |
+| 13:30 | USD | Low | GDP Sales (Q4) | 3.2% |  | 3.3% |
+| 13:30 | USD | High | Initial Jobless Claims | 207K | 224K | 223K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.50K |  | 213.50K |
+| 13:30 | USD | Low | PCE Prices (Q4) | 2.3% |  | 1.5% |
+| 13:30 | USD | Low | Real Consumer Spending (Q4) | 4.2% |  | 3.7% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) | 5.03% |  | 5.24% |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 54 min | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | 0.0% | 2.2% |
+| 54 min | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.0 |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -317B | -223B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.265% |

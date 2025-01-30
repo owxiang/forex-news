@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 09:00 | EUR | German GDP (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
-| 7 min | EUR | Deposit Facility Rate (Jan) |  | 2.75% | 3.00% |
-| 7 min | EUR | ECB Interest Rate Decision (Jan) |  | 2.90% | 3.15% |
-| 22 min | USD | GDP (QoQ) (Q4) |  | 2.7% | 3.1% |
-| 22 min | USD | Initial Jobless Claims |  | 224K | 223K |
-| 37 min | EUR | ECB Press Conference |  |  |  |
+| 13:15 | EUR | Deposit Facility Rate (Jan) | 2.75% | 2.75% | 3.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Jan) | 2.90% | 2.90% | 3.15% |
+| 13:30 | USD | GDP (QoQ) (Q4) | 2.3% | 2.7% | 3.1% |
+| 13:30 | USD | Initial Jobless Claims | 207K | 224K | 223K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
