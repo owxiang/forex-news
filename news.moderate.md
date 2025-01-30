@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:30 | EUR | French Consumer Spending (MoM) (Dec) | 0.7% | 0.1% | 0.2% |
-| 06:30 | EUR | French GDP (QoQ) (Q4) | -0.1% | 0.0% | 0.4% |
 | 06:30 | EUR | French GDP (YoY) (Q4) | 0.7% |  | 1.2% |
+| 06:30 | EUR | French GDP (QoQ) (Q4) | -0.1% | 0.0% | 0.4% |
 | 08:00 | CHF | KOF Leading Indicators (Jan) | 101.6 | 100.3 | 99.6 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
@@ -24,6 +24,6 @@
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) | 2.2% | 2.5% | 1.9% |
 | 15:00 | USD | Pending Home Sales (MoM) (Dec) | -5.5% | 0.0% | 1.6% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,832B |
+| 25 min | USD | Fed's Balance Sheet |  |  | 6,832B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Jan) |  | 2.5% | 2.4% |
 | 23:50 | JPY | Industrial Production (MoM) (Dec) |  | -0.1% | -2.2% |
