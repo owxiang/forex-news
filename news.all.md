@@ -22,20 +22,20 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% |  | 2.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.0% | 0.5% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.3% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.3% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.5% | 0.6% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | 0.0% | -0.3% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
+| 09:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | 0.0% | -0.3% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Dec) | 1.045B | 0.950B | 0.905B |
 | 09:30 | GBP | Low | M3 Money Supply (Dec) | 3,081.6B |  | 3,078.0B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Dec) | 0.1% | 0.2% | 0.0% |
 | 09:30 | GBP | Low | Mortgage Approvals (Dec) | 66.53K | 65.00K | 66.06K |
 | 09:30 | GBP | Low | Mortgage Lending (Dec) | 3.57B | 2.60B | 2.55B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Dec) | 4.600B | 3.600B | 3.400B |
-| 09:30 | ZAR | Low | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
+| 09:30 | ZAR | Low | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) | 6.2% | 5.7% | 5.9% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jan) | 95.2 | 94.1 | 93.7 |
 | 10:00 | EUR | Low | Business Climate (Jan) | -0.94 |  | -0.91 |
@@ -53,13 +53,13 @@
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) | 1.50% |  | 0.60% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) | 0.27% | 0.21% | 0.94% |
-| 24 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 54 min | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.2% | 1.1% |
-| 54 min | MXN | Moderate | GDP (YoY) (Q4) |  | 1.2% | 1.6% |
-| 54 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -4.46B |
-| 12:15 | EUR | Low | Spanish Business Confidence (Jan) |  |  | -4.6 |
-| 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) |  | 7.50% | 7.75% |
-| 13:00 | ZAR | Low | Prime Rate (Jan) |  |  | 11.25% |
+| 11:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.6% | 1.2% | 1.6% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | -0.6% | -0.2% | 1.1% |
+| 12:00 | ZAR | Low | Budget Balance (MoM) (Dec) | 21.38B |  | -4.46B |
+| 5 min | EUR | Low | Spanish Business Confidence (Jan) |  |  | -4.6 |
+| 50 min | ZAR | Moderate | Interest Rate Decision (Jan) |  | 7.50% | 7.75% |
+| 50 min | ZAR | Low | Prime Rate (Jan) |  |  | 11.25% |
 | 13:15 | EUR | High | Deposit Facility Rate (Jan) |  | 2.75% | 3.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.40% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -77,6 +77,7 @@
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | 0.0% | 2.2% |
 | 15:00 | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.0 |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -317B | -223B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.265% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.250% |

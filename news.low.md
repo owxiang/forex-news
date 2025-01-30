@@ -26,8 +26,8 @@
 | 09:30 | GBP | Mortgage Approvals (Dec) | 66.53K | 65.00K | 66.06K |
 | 09:30 | GBP | Mortgage Lending (Dec) | 3.57B | 2.60B | 2.55B |
 | 09:30 | GBP | Net Lending to Individuals (Dec) | 4.600B | 3.600B | 3.400B |
-| 09:30 | ZAR | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
 | 09:30 | ZAR | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
+| 09:30 | ZAR | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) | 6.2% | 5.7% | 5.9% |
 | 10:00 | EUR | Business and Consumer Survey (Jan) | 95.2 | 94.1 | 93.7 |
 | 10:00 | EUR | Business Climate (Jan) | -0.94 |  | -0.91 |
@@ -41,9 +41,9 @@
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) | 1.50% |  | 0.60% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.27% | 0.21% | 0.94% |
-| 54 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -4.46B |
-| 12:15 | EUR | Spanish Business Confidence (Jan) |  |  | -4.6 |
-| 13:00 | ZAR | Prime Rate (Jan) |  |  | 11.25% |
+| 12:00 | ZAR | Budget Balance (MoM) (Dec) | 21.38B |  | -4.46B |
+| 5 min | EUR | Spanish Business Confidence (Jan) |  |  | -4.6 |
+| 50 min | ZAR | Prime Rate (Jan) |  |  | 11.25% |
 | 13:30 | USD | GDP Sales (Q4) |  |  | 3.3% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.50K |
 | 13:30 | USD | PCE Prices (Q4) |  |  | 1.5% |
