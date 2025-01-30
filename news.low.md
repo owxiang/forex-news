@@ -10,14 +10,14 @@
 | 03:20 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Dec) | 6.71% |  | 7.77% |
 | 06:00 | ZAR | Private Sector Credit (Dec) | 3.83% |  | 4.16% |
-| 52 min | CHF | Trade Balance (Dec) |  | 4.500B | 5.424B |
-| 52 min | EUR | German Import Price Index (MoM) (Dec) |  | 0.5% | 0.9% |
-| 52 min | EUR | German Import Price Index (YoY) (Dec) |  | 1.9% | 0.6% |
-| 52 min | NOK | M3 Money Supply (Dec) |  |  | 3,266.3B |
-| 52 min | NOK | Credit Indicator (YoY) (Dec) |  |  | 3.6% |
-| 08:00 | EUR | Core CPI (YoY) (Jan) |  |  | 2.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.0% | 0.5% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
+| 07:00 | CHF | Trade Balance (Dec) | 3.494B | 4.500B | 6.111B |
+| 07:00 | EUR | German Import Price Index (MoM) (Dec) | 0.4% | 0.5% | 0.9% |
+| 07:00 | EUR | German Import Price Index (YoY) (Dec) | 2.0% | 1.9% | 0.6% |
+| 07:00 | NOK | M3 Money Supply (Dec) |  |  | 3,266.3B |
+| 07:00 | NOK | Credit Indicator (YoY) (Dec) | 3.3% |  | 3.6% |
+| 54 min | EUR | Core CPI (YoY) (Jan) |  |  | 2.6% |
+| 54 min | EUR | Spanish CPI (MoM) (Jan) |  | 0.0% | 0.5% |
+| 54 min | EUR | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
 | 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.6% | 0.4% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
 | 09:30 | GBP | BoE Consumer Credit (Dec) |  | 0.950B | 0.878B |
