@@ -8,13 +8,13 @@
 | 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.2% | 1.5% | -1.4% |
 | 00:30 | AUD | RBA Bulletin |  |  |  |
 | 03:20 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 54 min | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 7.77% |
-| 54 min | ZAR | Private Sector Credit (Dec) |  |  | 4.16% |
-| 07:00 | CHF | Trade Balance (Dec) |  | 4.500B | 5.424B |
-| 07:00 | EUR | German Import Price Index (MoM) (Dec) |  | 0.5% | 0.9% |
-| 07:00 | EUR | German Import Price Index (YoY) (Dec) |  | 1.9% | 0.6% |
-| 07:00 | NOK | M3 Money Supply (Dec) |  |  | 3,266.3B |
-| 07:00 | NOK | Credit Indicator (YoY) (Dec) |  |  | 3.6% |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Dec) | 6.71% |  | 7.77% |
+| 06:00 | ZAR | Private Sector Credit (Dec) | 3.83% |  | 4.16% |
+| 52 min | CHF | Trade Balance (Dec) |  | 4.500B | 5.424B |
+| 52 min | EUR | German Import Price Index (MoM) (Dec) |  | 0.5% | 0.9% |
+| 52 min | EUR | German Import Price Index (YoY) (Dec) |  | 1.9% | 0.6% |
+| 52 min | NOK | M3 Money Supply (Dec) |  |  | 3,266.3B |
+| 52 min | NOK | Credit Indicator (YoY) (Dec) |  |  | 3.6% |
 | 08:00 | EUR | Core CPI (YoY) (Jan) |  |  | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.0% | 0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
@@ -26,8 +26,8 @@
 | 09:30 | GBP | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
 | 09:30 | GBP | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
 | 09:30 | GBP | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
-| 09:30 | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
 | 09:30 | ZAR | PPI (YoY) (Dec) |  |  | -0.1% |
+| 09:30 | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | EUR | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |
@@ -39,8 +39,8 @@
 | 10:00 | EUR | Industrial Sentiment (Jan) |  | -13.8 | -14.1 |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.19% |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.79% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -5.30% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
 | 12:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -4.46B |
 | 12:15 | EUR | Spanish Business Confidence (Jan) |  |  | -4.6 |
