@@ -38,8 +38,8 @@
 | 10:00 | EUR | Industrial Sentiment (Jan) | -12.9 | -13.8 | -14.1 |
 | 10:30 | EUR | Italian 15-Year BTP Auction | 3.57% |  | 3.19% |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 2.95% |  | 2.79% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) | 1.50% |  | 0.60% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) | 1.50% |  | 0.60% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.27% | 0.21% | 0.94% |
 | 12:00 | ZAR | Budget Balance (MoM) (Dec) | 21.38B |  | -4.46B |
 | 12:15 | EUR | Spanish Business Confidence (Jan) | -5.1 |  | -4.5 |
