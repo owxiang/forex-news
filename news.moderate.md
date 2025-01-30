@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:30 | EUR | French Consumer Spending (MoM) (Dec) | 0.7% | 0.1% | 0.2% |
-| 06:30 | EUR | French GDP (YoY) (Q4) | 0.7% |  | 1.2% |
 | 06:30 | EUR | French GDP (QoQ) (Q4) | -0.1% | 0.0% | 0.4% |
+| 06:30 | EUR | French GDP (YoY) (Q4) | 0.7% |  | 1.2% |
 | 08:00 | CHF | KOF Leading Indicators (Jan) | 101.6 | 100.3 | 99.6 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
 | 09:00 | EUR | German GDP (YoY) (Q4) | -0.2% | 0.0% | -0.3% |
-| 10:00 | EUR | GDP (YoY) (Q4) | 0.9% | 1.0% | 0.9% |
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.4% |
+| 10:00 | EUR | GDP (YoY) (Q4) | 0.9% | 1.0% | 0.9% |
 | 10:00 | EUR | Unemployment Rate (Dec) | 6.3% | 6.3% | 6.2% |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.60% |  | 3.39% |
 | 11:30 | EUR | German Buba President Nagel Speaks |  |  |  |
