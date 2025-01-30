@@ -20,28 +20,27 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Jan) | -0.1% | -0.3% | 0.4% |
 | 09:00 | EUR | Italian GDP (YoY) (Q4) | 0.5% | 0.6% | 0.4% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
-| 24 min | GBP | BoE Consumer Credit (Dec) |  | 0.950B | 0.878B |
-| 24 min | GBP | M3 Money Supply (Dec) |  |  | 3,077.1B |
-| 24 min | GBP | M4 Money Supply (MoM) (Dec) |  | 0.2% | 0.0% |
-| 24 min | GBP | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
-| 24 min | GBP | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
-| 24 min | GBP | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
-| 24 min | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
-| 24 min | ZAR | PPI (YoY) (Dec) |  |  | -0.1% |
-| 54 min | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
-| 54 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 54 min | EUR | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |
-| 54 min | EUR | Business Climate (Jan) |  |  | -0.91 |
-| 54 min | EUR | Consumer Confidence (Jan) |  | -14.2 | -14.5 |
-| 54 min | EUR | Consumer Inflation Expectation (Jan) |  |  | 21.0 |
-| 54 min | EUR | Selling Price Expectations (Jan) |  |  | 7.6 |
-| 54 min | EUR | Services Sentiment (Jan) |  | 6.0 | 5.9 |
-| 54 min | EUR | Industrial Sentiment (Jan) |  | -13.8 | -14.1 |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.19% |
-| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.79% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -5.30% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
+| 09:30 | GBP | BoE Consumer Credit (Dec) | 1.045B | 0.950B | 0.905B |
+| 09:30 | GBP | M3 Money Supply (Dec) | 3,081.6B |  | 3,078.0B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Dec) | 0.1% | 0.2% | 0.0% |
+| 09:30 | GBP | Mortgage Approvals (Dec) | 66.53K | 65.00K | 66.06K |
+| 09:30 | GBP | Mortgage Lending (Dec) | 3.57B | 2.60B | 2.55B |
+| 09:30 | GBP | Net Lending to Individuals (Dec) | 4.600B | 3.600B | 3.400B |
+| 09:30 | ZAR | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
+| 09:30 | ZAR | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
+| 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) | 6.2% | 5.7% | 5.9% |
+| 10:00 | EUR | Business and Consumer Survey (Jan) | 95.2 | 94.1 | 93.7 |
+| 10:00 | EUR | Business Climate (Jan) | -0.94 |  | -0.91 |
+| 10:00 | EUR | Consumer Confidence (Jan) | -14.2 | -14.2 | -14.5 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jan) | 20.2 |  | 21.2 |
+| 10:00 | EUR | Selling Price Expectations (Jan) | 8.7 |  | 7.5 |
+| 10:00 | EUR | Services Sentiment (Jan) | 6.6 | 6.0 | 5.7 |
+| 10:00 | EUR | Industrial Sentiment (Jan) | -12.9 | -13.8 | -14.1 |
+| 4 min | EUR | Italian 15-Year BTP Auction |  |  | 3.19% |
+| 4 min | EUR | Italian 5-Year BTP Auction |  |  | 2.79% |
+| 54 min | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -5.30% |
+| 54 min | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
+| 54 min | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
 | 12:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -4.46B |
 | 12:15 | EUR | Spanish Business Confidence (Jan) |  |  | -4.6 |
 | 13:00 | ZAR | Prime Rate (Jan) |  |  | 11.25% |

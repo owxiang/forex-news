@@ -11,8 +11,8 @@
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) | 6.71% |  | 7.77% |
 | 06:00 | ZAR | Low | Private Sector Credit (Dec) | 3.83% |  | 4.16% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) | 0.7% | 0.1% | 0.2% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q4) | -0.1% | 0.0% | 0.4% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q4) | 0.7% |  | 1.2% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q4) | -0.1% | 0.0% | 0.4% |
 | 07:00 | CHF | Low | Trade Balance (Dec) | 3.494B | 4.500B | 6.111B |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Dec) | 0.4% | 0.5% | 0.9% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Dec) | 2.0% | 1.9% | 0.6% |
@@ -20,43 +20,42 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) | 3.3% |  | 3.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jan) | 101.6 | 100.3 | 99.6 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% |  | 2.6% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.0% | 0.5% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.3% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.5% | 0.6% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | 0.0% | -0.3% |
-| 24 min | GBP | Low | BoE Consumer Credit (Dec) |  | 0.950B | 0.878B |
-| 24 min | GBP | Low | M3 Money Supply (Dec) |  |  | 3,077.1B |
-| 24 min | GBP | Low | M4 Money Supply (MoM) (Dec) |  | 0.2% | 0.0% |
-| 24 min | GBP | Low | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
-| 24 min | GBP | Low | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
-| 24 min | GBP | Low | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
-| 24 min | ZAR | Low | PPI (MoM) (Dec) |  |  | 0.0% |
-| 24 min | ZAR | Low | PPI (YoY) (Dec) |  |  | -0.1% |
-| 54 min | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 54 min | EUR | Low | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |
-| 54 min | EUR | Low | Business Climate (Jan) |  |  | -0.91 |
-| 54 min | EUR | Low | Consumer Confidence (Jan) |  | -14.2 | -14.5 |
-| 54 min | EUR | Low | Consumer Inflation Expectation (Jan) |  |  | 21.0 |
-| 54 min | EUR | Low | Selling Price Expectations (Jan) |  |  | 7.6 |
-| 54 min | EUR | Low | Services Sentiment (Jan) |  | 6.0 | 5.9 |
-| 54 min | EUR | Moderate | GDP (YoY) (Q4) |  | 1.0% | 0.9% |
-| 54 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
-| 54 min | EUR | Low | Industrial Sentiment (Jan) |  | -13.8 | -14.1 |
-| 54 min | EUR | Moderate | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
-| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.39% |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.19% |
-| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.79% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) |  |  | -5.30% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
+| 09:30 | GBP | Low | BoE Consumer Credit (Dec) | 1.045B | 0.950B | 0.905B |
+| 09:30 | GBP | Low | M3 Money Supply (Dec) | 3,081.6B |  | 3,078.0B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Dec) | 0.1% | 0.2% | 0.0% |
+| 09:30 | GBP | Low | Mortgage Approvals (Dec) | 66.53K | 65.00K | 66.06K |
+| 09:30 | GBP | Low | Mortgage Lending (Dec) | 3.57B | 2.60B | 2.55B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Dec) | 4.600B | 3.600B | 3.400B |
+| 09:30 | ZAR | Low | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
+| 09:30 | ZAR | Low | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
+| 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) | 6.2% | 5.7% | 5.9% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jan) | 95.2 | 94.1 | 93.7 |
+| 10:00 | EUR | Low | Business Climate (Jan) | -0.94 |  | -0.91 |
+| 10:00 | EUR | Low | Consumer Confidence (Jan) | -14.2 | -14.2 | -14.5 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Jan) | 20.2 |  | 21.2 |
+| 10:00 | EUR | Low | Selling Price Expectations (Jan) | 8.7 |  | 7.5 |
+| 10:00 | EUR | Low | Services Sentiment (Jan) | 6.6 | 6.0 | 5.7 |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.9% | 1.0% | 0.9% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.4% |
+| 10:00 | EUR | Low | Industrial Sentiment (Jan) | -12.9 | -13.8 | -14.1 |
+| 10:00 | EUR | Moderate | Unemployment Rate (Dec) | 6.3% | 6.3% | 6.2% |
+| 4 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.39% |
+| 4 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.19% |
+| 4 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.79% |
+| 54 min | EUR | Low | Italian Industrial Sales (YoY) (Nov) |  |  | -5.30% |
+| 54 min | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
+| 54 min | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
 | 11:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.2% | 1.1% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 1.2% | 1.6% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.2% | 1.1% |
 | 12:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -4.46B |
 | 12:15 | EUR | Low | Spanish Business Confidence (Jan) |  |  | -4.6 |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) |  | 7.50% | 7.75% |
