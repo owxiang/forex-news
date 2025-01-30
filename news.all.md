@@ -20,8 +20,8 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) | 3.3% |  | 3.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jan) | 101.6 | 100.3 | 99.6 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% |  | 2.6% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.0% | 0.5% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.3% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.5% | 0.6% | 0.4% |
@@ -34,8 +34,8 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Dec) | 66.53K | 65.00K | 66.06K |
 | 09:30 | GBP | Low | Mortgage Lending (Dec) | 3.57B | 2.60B | 2.55B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Dec) | 4.600B | 3.600B | 3.400B |
-| 09:30 | ZAR | Low | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (MoM) (Dec) | 0.2% |  | 0.0% |
+| 09:30 | ZAR | Low | PPI (YoY) (Dec) | 0.7% |  | -0.1% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) | 6.2% | 5.7% | 5.9% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jan) | 95.2 | 94.1 | 93.7 |
 | 10:00 | EUR | Low | Business Climate (Jan) | -0.94 |  | -0.91 |
@@ -50,8 +50,8 @@
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.60% |  | 3.39% |
 | 10:30 | EUR | Low | Italian 15-Year BTP Auction | 3.57% |  | 3.19% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction | 2.95% |  | 2.79% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) | 1.50% |  | 0.60% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) | 1.50% |  | 0.60% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) | 0.27% | 0.21% | 0.94% |
 | 11:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.6% | 1.2% | 1.6% |
@@ -78,10 +78,10 @@
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) | -5.5% | 0.0% | 1.6% |
 | 15:00 | USD | Low | Pending Home Sales Index (Dec) | 74.2 |  | 78.5 |
-| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 24 min | USD | Low | Natural Gas Storage |  | -317B | -223B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.265% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.250% |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | -321B | -317B | -223B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.265% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.250% |
 | 21:00 | MXN | Low | Fiscal Balance (Dec) |  |  | -110.23B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,832B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
