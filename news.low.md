@@ -26,8 +26,8 @@
 | 09:30 | GBP | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
 | 09:30 | GBP | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
 | 09:30 | GBP | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
-| 09:30 | ZAR | PPI (YoY) (Dec) |  |  | -0.1% |
 | 09:30 | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
+| 09:30 | ZAR | PPI (YoY) (Dec) |  |  | -0.1% |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | EUR | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |

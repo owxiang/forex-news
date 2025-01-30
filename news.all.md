@@ -22,20 +22,20 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) |  |  | 2.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.0% | 0.5% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.8% | 2.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.6% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.0% | -0.3% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.1% | 0.1% |
+| 09:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.0% | -0.3% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Dec) |  | 0.950B | 0.878B |
 | 09:30 | GBP | Low | M3 Money Supply (Dec) |  |  | 3,077.1B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Dec) |  | 0.2% | 0.0% |
 | 09:30 | GBP | Low | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
 | 09:30 | GBP | Low | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
-| 09:30 | ZAR | Low | PPI (YoY) (Dec) |  |  | -0.1% |
 | 09:30 | ZAR | Low | PPI (MoM) (Dec) |  |  | 0.0% |
+| 09:30 | ZAR | Low | PPI (YoY) (Dec) |  |  | -0.1% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |
@@ -55,8 +55,8 @@
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
 | 11:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 1.2% | 1.6% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.2% | 1.1% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 1.2% | 1.6% |
 | 12:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -4.46B |
 | 12:15 | EUR | Low | Spanish Business Confidence (Jan) |  |  | -4.6 |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) |  | 7.50% | 7.75% |
