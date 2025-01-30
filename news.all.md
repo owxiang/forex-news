@@ -16,18 +16,18 @@
 | 07:00 | CHF | Low | Trade Balance (Dec) | 3.494B | 4.500B | 6.111B |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Dec) | 0.4% | 0.5% | 0.9% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Dec) | 2.0% | 1.9% | 0.6% |
-| 07:00 | NOK | Low | M3 Money Supply (Dec) |  |  | 3,266.3B |
+| 07:00 | NOK | Low | M3 Money Supply (Dec) | 3,185.9B |  | 3,267.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Dec) | 3.3% |  | 3.6% |
-| 54 min | CHF | Moderate | KOF Leading Indicators (Jan) |  | 100.3 | 99.5 |
-| 54 min | EUR | Low | Core CPI (YoY) (Jan) |  |  | 2.6% |
-| 54 min | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.9% | 2.8% |
-| 54 min | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.0% | 0.5% |
-| 54 min | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
-| 54 min | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.8% | 2.8% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.6% | 0.4% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.0% | -0.3% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.1% | 0.1% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Jan) | 101.6 | 100.3 | 99.6 |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% |  | 2.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.0% | 0.5% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.3% | 0.4% |
+| 52 min | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.6% | 0.4% |
+| 52 min | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
+| 52 min | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.0% | -0.3% |
+| 52 min | EUR | High | German GDP (QoQ) (Q4) |  | -0.1% | 0.1% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Dec) |  | 0.950B | 0.878B |
 | 09:30 | GBP | Low | M3 Money Supply (Dec) |  |  | 3,077.1B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Dec) |  | 0.2% | 0.0% |
@@ -44,8 +44,8 @@
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Jan) |  |  | 21.0 |
 | 10:00 | EUR | Low | Selling Price Expectations (Jan) |  |  | 7.6 |
 | 10:00 | EUR | Low | Services Sentiment (Jan) |  | 6.0 | 5.9 |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 1.0% | 0.9% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
 | 10:00 | EUR | Low | Industrial Sentiment (Jan) |  | -13.8 | -14.1 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.39% |
