@@ -42,18 +42,18 @@
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.27% | 0.21% | 0.94% |
 | 12:00 | ZAR | Budget Balance (MoM) (Dec) | 21.38B |  | -4.46B |
-| 5 min | EUR | Spanish Business Confidence (Jan) |  |  | -4.6 |
-| 50 min | ZAR | Prime Rate (Jan) |  |  | 11.25% |
-| 13:30 | USD | GDP Sales (Q4) |  |  | 3.3% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.50K |
-| 13:30 | USD | PCE Prices (Q4) |  |  | 1.5% |
-| 13:30 | USD | Real Consumer Spending (Q4) |  |  | 3.7% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 5.25% |
+| 12:15 | EUR | Spanish Business Confidence (Jan) | -5.1 |  | -4.5 |
+| 13:00 | BRL | CAGED Net Payroll Jobs (Dec) | -535.55K | -402.50K | 106.63K |
+| 13:00 | ZAR | Prime Rate (Jan) |  |  | 11.25% |
+| 22 min | USD | GDP Sales (Q4) |  |  | 3.3% |
+| 22 min | USD | Jobless Claims 4-Week Avg. |  |  | 213.50K |
+| 22 min | USD | PCE Prices (Q4) |  |  | 1.5% |
+| 22 min | USD | Real Consumer Spending (Q4) |  |  | 3.7% |
+| 22 min | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 5.25% |
 | 15:00 | USD | Pending Home Sales Index (Dec) |  |  | 79.0 |
 | 15:30 | USD | Natural Gas Storage |  | -317B | -223B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.265% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.250% |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  | -402.50K | 106.63K |
 | 21:00 | MXN | Fiscal Balance (Dec) |  |  | -110.23B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.1% |

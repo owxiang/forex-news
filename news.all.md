@@ -57,31 +57,31 @@
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.6% | 1.2% | 1.6% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | -0.6% | -0.2% | 1.1% |
 | 12:00 | ZAR | Low | Budget Balance (MoM) (Dec) | 21.38B |  | -4.46B |
-| 5 min | EUR | Low | Spanish Business Confidence (Jan) |  |  | -4.6 |
-| 50 min | ZAR | Moderate | Interest Rate Decision (Jan) |  | 7.50% | 7.75% |
-| 50 min | ZAR | Low | Prime Rate (Jan) |  |  | 11.25% |
-| 13:15 | EUR | High | Deposit Facility Rate (Jan) |  | 2.75% | 3.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.40% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Jan) |  | 2.90% | 3.15% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,899K |
-| 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
-| 13:30 | USD | High | GDP (QoQ) (Q4) |  | 2.7% | 3.1% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.5% | 1.9% |
-| 13:30 | USD | Low | GDP Sales (Q4) |  |  | 3.3% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 224K | 223K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.50K |
-| 13:30 | USD | Low | PCE Prices (Q4) |  |  | 1.5% |
-| 13:30 | USD | Low | Real Consumer Spending (Q4) |  |  | 3.7% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 5.25% |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 12:15 | EUR | Low | Spanish Business Confidence (Jan) | -5.1 |  | -4.5 |
+| 13:00 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -535.55K | -402.50K | 106.63K |
+| 13:00 | ZAR | Moderate | Interest Rate Decision (Jan) | 7.50% | 7.50% | 7.75% |
+| 13:00 | ZAR | Low | Prime Rate (Jan) |  |  | 11.25% |
+| 7 min | EUR | High | Deposit Facility Rate (Jan) |  | 2.75% | 3.00% |
+| 7 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.40% |
+| 7 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 7 min | EUR | High | ECB Interest Rate Decision (Jan) |  | 2.90% | 3.15% |
+| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,899K |
+| 22 min | USD | Moderate | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
+| 22 min | USD | High | GDP (QoQ) (Q4) |  | 2.7% | 3.1% |
+| 22 min | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.5% | 1.9% |
+| 22 min | USD | Low | GDP Sales (Q4) |  |  | 3.3% |
+| 22 min | USD | High | Initial Jobless Claims |  | 224K | 223K |
+| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.50K |
+| 22 min | USD | Low | PCE Prices (Q4) |  |  | 1.5% |
+| 22 min | USD | Low | Real Consumer Spending (Q4) |  |  | 3.7% |
+| 22 min | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 5.25% |
+| 37 min | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | 0.0% | 2.2% |
 | 15:00 | USD | Low | Pending Home Sales Index (Dec) |  |  | 79.0 |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -317B | -223B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.265% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.250% |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Dec) |  | -402.50K | 106.63K |
 | 21:00 | MXN | Low | Fiscal Balance (Dec) |  |  | -110.23B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,832B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
