@@ -7,7 +7,7 @@
 | 00:30 | AUD | Export Price Index (QoQ) (Q4) | 3.6% |  | -4.3% |
 | 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.2% | 1.5% | -1.4% |
 | 00:30 | AUD | RBA Bulletin |  |  |  |
-| 03:20 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 56 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 7.77% |
 | 06:00 | ZAR | Private Sector Credit (Dec) |  |  | 4.16% |
 | 07:00 | CHF | Trade Balance (Dec) |  | 4.500B | 5.424B |
@@ -39,8 +39,8 @@
 | 10:00 | EUR | Industrial Sentiment (Jan) |  | -13.8 | -14.1 |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.19% |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.79% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -5.30% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
 | 12:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -4.46B |
 | 12:15 | EUR | Spanish Business Confidence (Jan) |  |  | -4.6 |
