@@ -50,8 +50,8 @@
 | 13:30 | USD | PCE Prices (Q4) | 2.3% |  | 1.5% |
 | 13:30 | USD | Real Consumer Spending (Q4) | 4.2% |  | 3.7% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) | 5.03% |  | 5.24% |
-| 54 min | USD | Pending Home Sales Index (Dec) |  |  | 79.0 |
-| 15:30 | USD | Natural Gas Storage |  | -317B | -223B |
+| 15:00 | USD | Pending Home Sales Index (Dec) | 74.2 |  | 78.5 |
+| 24 min | USD | Natural Gas Storage |  | -317B | -223B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.265% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.250% |
 | 21:00 | MXN | Fiscal Balance (Dec) |  |  | -110.23B |
