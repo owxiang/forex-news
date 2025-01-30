@@ -38,8 +38,8 @@
 | 10:00 | EUR | Industrial Sentiment (Jan) | -12.9 | -13.8 | -14.1 |
 | 10:30 | EUR | Italian 15-Year BTP Auction | 3.57% |  | 3.19% |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 2.95% |  | 2.79% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) | 1.50% |  | 0.60% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) | -2.60% |  | -5.10% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.27% | 0.21% | 0.94% |
 | 12:00 | ZAR | Budget Balance (MoM) (Dec) | 21.38B |  | -4.46B |
 | 12:15 | EUR | Spanish Business Confidence (Jan) | -5.1 |  | -4.5 |
@@ -52,8 +52,8 @@
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) | 5.03% |  | 5.24% |
 | 15:00 | USD | Pending Home Sales Index (Dec) | 74.2 |  | 78.5 |
 | 15:30 | USD | Natural Gas Storage | -321B | -317B | -223B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.265% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.250% |
+| 16:30 | USD | 4-Week Bill Auction | 4.250% |  | 4.265% |
+| 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.250% |
 | 21:00 | MXN | Fiscal Balance (Dec) |  |  | -110.23B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.1% |
