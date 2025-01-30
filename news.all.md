@@ -83,8 +83,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.250% |  | 4.265% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.250% |
 | 19:00 | MXN | Low | Fiscal Balance (Dec) | -618.56B |  | -110.23B |
-| 25 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,832B |
-| 25 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,818B |  | 6,832B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.201T |  | 3.331T |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.1% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Dec) |  | 1.25 | 1.25 |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jan) |  | 2.5% | 2.4% |

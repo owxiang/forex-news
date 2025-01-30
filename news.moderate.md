@@ -24,6 +24,6 @@
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) | 2.2% | 2.5% | 1.9% |
 | 15:00 | USD | Pending Home Sales (MoM) (Dec) | -5.5% | 0.0% | 1.6% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 25 min | USD | Fed's Balance Sheet |  |  | 6,832B |
+| 21:30 | USD | Fed's Balance Sheet | 6,818B |  | 6,832B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Jan) |  | 2.5% | 2.4% |
 | 23:50 | JPY | Industrial Production (MoM) (Dec) |  | -0.1% | -2.2% |

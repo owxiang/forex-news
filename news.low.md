@@ -55,7 +55,7 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.250% |  | 4.265% |
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.250% |
 | 19:00 | MXN | Fiscal Balance (Dec) | -618.56B |  | -110.23B |
-| 25 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.201T |  | 3.331T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.1% |
 | 23:30 | JPY | Jobs/applications ratio (Dec) |  | 1.25 | 1.25 |
 | 23:30 | JPY | Tokyo CPI (YoY) (Jan) |  |  | 3.0% |
