@@ -7,7 +7,7 @@
 | 00:30 | AUD | Low | Export Price Index (QoQ) (Q4) | 3.6% |  | -4.3% |
 | 00:30 | AUD | Low | Import Price Index (QoQ) (Q4) | 0.2% | 1.5% | -1.4% |
 | 00:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 56 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 03:20 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) |  |  | 7.77% |
 | 06:00 | ZAR | Low | Private Sector Credit (Dec) |  |  | 4.16% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) |  | 0.1% | 0.3% |
@@ -22,8 +22,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) |  |  | 2.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.0% | 0.5% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.6% | 0.4% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | 0.0% | -0.3% |
@@ -34,8 +34,8 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
 | 09:30 | GBP | Low | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
-| 09:30 | ZAR | Low | PPI (MoM) (Dec) |  |  | 0.0% |
 | 09:30 | ZAR | Low | PPI (YoY) (Dec) |  |  | -0.1% |
+| 09:30 | ZAR | Low | PPI (MoM) (Dec) |  |  | 0.0% |
 | 10:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |

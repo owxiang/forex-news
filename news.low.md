@@ -7,7 +7,7 @@
 | 00:30 | AUD | Export Price Index (QoQ) (Q4) | 3.6% |  | -4.3% |
 | 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.2% | 1.5% | -1.4% |
 | 00:30 | AUD | RBA Bulletin |  |  |  |
-| 56 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 03:20 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 7.77% |
 | 06:00 | ZAR | Private Sector Credit (Dec) |  |  | 4.16% |
 | 07:00 | CHF | Trade Balance (Dec) |  | 4.500B | 5.424B |
@@ -26,8 +26,8 @@
 | 09:30 | GBP | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
 | 09:30 | GBP | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
 | 09:30 | GBP | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
-| 09:30 | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
 | 09:30 | ZAR | PPI (YoY) (Dec) |  |  | -0.1% |
+| 09:30 | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
 | 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | EUR | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |
