@@ -1,43 +1,69 @@
-## 29 January 2025 - Low Impact Forex News
+## 30 January 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | CPI Index Number (Q4) | 139.40 |  | 139.10 |
-| 00:30 | AUD | Trimmed Mean CPI (YoY) (Q4) | 3.2% | 3.3% | 3.6% |
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Dec) | 2.50% | 2.50% | 2.30% |
-| 00:30 | AUD | Weighted mean CPI (YoY) (Q4) | 3.4% | 3.5% | 3.7% |
-| 00:30 | AUD | Weighted mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.9% |
-| 05:00 | JPY | Household Confidence (Jan) | 35.2 | 36.6 | 36.2 |
-| 08:00 | EUR | Spanish GDP (YoY) (Q4) | 3.5% | 3.2% | 3.3% |
-| 09:00 | EUR | Italian Business Confidence (Jan) | 86.8 | 85.5 | 85.9 |
-| 09:00 | EUR | Italian Consumer Confidence (Jan) | 98.2 | 96.0 | 96.3 |
-| 09:00 | CHF | ZEW Expectations (Jan) | 17.7 |  | -20.0 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Dec) | 3.5% | 3.9% | 4.3% |
-| 09:00 | EUR | M3 Money Supply (Dec) | 16,726.4B |  | 16,681.9B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Dec) | 1.5% |  | 1.0% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Dec) | 1.1% | 1.0% | 0.9% |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Dec) | 7.79B |  | 6.03B |
-| 10:30 | EUR | Italian 6-Month BOT Auction | 2.536% |  | 2.724% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.02% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.0% |  | 0.1% |
-| 12:00 | USD | MBA Purchase Index | 162.4 |  | 163.0 |
-| 12:00 | USD | Mortgage Market Index | 220.0 |  | 224.6 |
-| 12:00 | USD | Mortgage Refinance Index | 520.9 |  | 558.8 |
-| 12:00 | MXN | Unemployment Rate (Dec) | 2.60% |  | 2.70% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Dec) | 2.40% | 2.60% | 2.60% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Dec) | -0.5% | 0.2% | -0.1% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.333M |  | -1.125M |
-| 15:30 | USD | Crude Oil Imports | 0.532M |  | 0.184M |
-| 15:30 | USD | Distillate Fuel Production | 0.028M |  | -0.473M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -4.994M | -2.750M | -3.070M |
-| 15:30 | USD | Gasoline Production | -0.044M |  | -0.043M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.128M |  | 0.068M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -5.8% |
-| 15:30 | USD | Gasoline Inventories | 2.957M | 2.000M | 2.332M |
-| 17:30 | BRL | Foreign Exchange Flows | -4.149B |  | 0.806B |
-| 21:45 | NZD | Exports (Dec) | 6.84B |  | 6.42B |
-| 21:45 | NZD | Imports (Dec) | 6.62B |  | 6.85B |
-| 21:45 | NZD | Trade Balance (MoM) (Dec) | 219M | -1,363M | -435M |
-| 21:45 | NZD | Trade Balance (YoY) (Dec) | -7,670M |  | -8,260M |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 819.3B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -66.1B |
+| 00:00 | NZD | ANZ Business Confidence (Jan) | 54.4 |  | 62.3 |
+| 00:00 | NZD | NBNZ Own Activity (Jan) | 45.8% |  | 50.3% |
+| 5 min | AUD | Export Price Index (QoQ) (Q4) |  |  | -4.3% |
+| 5 min | AUD | Import Price Index (QoQ) (Q4) |  | 1.5% | -1.4% |
+| 5 min | AUD | RBA Bulletin |  |  |  |
+| 03:20 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 7.77% |
+| 06:00 | ZAR | Private Sector Credit (Dec) |  |  | 4.16% |
+| 07:00 | CHF | Trade Balance (Dec) |  | 4.500B | 5.424B |
+| 07:00 | EUR | German Import Price Index (MoM) (Dec) |  | 0.5% | 0.9% |
+| 07:00 | EUR | German Import Price Index (YoY) (Dec) |  | 1.9% | 0.6% |
+| 07:00 | NOK | M3 Money Supply (Dec) |  |  | 3,266.3B |
+| 07:00 | NOK | Credit Indicator (YoY) (Dec) |  |  | 3.6% |
+| 08:00 | EUR | Core CPI (YoY) (Jan) |  |  | 2.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.0% | 0.5% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.4% |
+| 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.6% | 0.4% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
+| 09:30 | GBP | BoE Consumer Credit (Dec) |  | 0.950B | 0.878B |
+| 09:30 | GBP | M3 Money Supply (Dec) |  |  | 3,077.1B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Dec) |  | 0.2% | 0.0% |
+| 09:30 | GBP | Mortgage Approvals (Dec) |  | 65.00K | 65.72K |
+| 09:30 | GBP | Mortgage Lending (Dec) |  | 2.60B | 2.47B |
+| 09:30 | GBP | Net Lending to Individuals (Dec) |  | 3.600B | 3.400B |
+| 09:30 | ZAR | PPI (MoM) (Dec) |  |  | 0.0% |
+| 09:30 | ZAR | PPI (YoY) (Dec) |  |  | -0.1% |
+| 10:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 5.7% | 5.7% |
+| 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 10:00 | EUR | Business and Consumer Survey (Jan) |  | 94.1 | 93.7 |
+| 10:00 | EUR | Business Climate (Jan) |  |  | -0.91 |
+| 10:00 | EUR | Consumer Confidence (Jan) |  | -14.2 | -14.5 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jan) |  |  | 21.0 |
+| 10:00 | EUR | Selling Price Expectations (Jan) |  |  | 7.6 |
+| 10:00 | EUR | Services Sentiment (Jan) |  | 6.0 | 5.9 |
+| 10:00 | EUR | Industrial Sentiment (Jan) |  | -13.8 | -14.1 |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.19% |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.79% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.50% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -5.30% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.21% | 0.94% |
+| 12:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -4.46B |
+| 12:15 | EUR | Spanish Business Confidence (Jan) |  |  | -4.6 |
+| 13:00 | ZAR | Prime Rate (Jan) |  |  | 11.25% |
+| 13:30 | USD | GDP Sales (Q4) |  |  | 3.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.50K |
+| 13:30 | USD | PCE Prices (Q4) |  |  | 1.5% |
+| 13:30 | USD | Real Consumer Spending (Q4) |  |  | 3.7% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 5.25% |
+| 15:00 | USD | Pending Home Sales Index (Dec) |  |  | 79.0 |
+| 15:30 | USD | Natural Gas Storage |  | -317B | -223B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.265% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.250% |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Dec) |  | -402.50K | 106.63K |
+| 21:00 | MXN | Fiscal Balance (Dec) |  |  | -110.23B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.1% |
+| 23:30 | JPY | Jobs/applications ratio (Dec) |  | 1.25 | 1.25 |
+| 23:30 | JPY | Tokyo CPI (YoY) (Jan) |  |  | 3.0% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jan) |  |  | 0.0% |
+| 23:30 | JPY | Unemployment Rate (Dec) |  | 2.5% | 2.5% |
+| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 2.1% |
+| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | 1.3% |
+| 23:50 | JPY | Large Retailers' Sales (MoM) (Dec) |  |  | 1.8% |
+| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 3.0% |
+| 23:50 | JPY | Retail Sales (YoY) (Dec) |  | 3.4% | 2.8% |

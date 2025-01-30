@@ -1,21 +1,28 @@
-## 29 January 2025 - Moderate Impact Forex News
+## 30 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | CPI (QoQ) (Q4) | 0.2% | 0.3% | 0.2% |
-| 00:30 | AUD | CPI (YoY) (Q4) | 2.4% | 2.5% | 2.8% |
-| 00:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.5% | 0.6% | 0.8% |
-| 07:00 | EUR | GfK German Consumer Climate (Feb) | -22.4 | -20.5 | -21.4 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q4) | 0.8% | 0.6% | 0.8% |
-| 10:40 | EUR | German 10-Year Bund Auction | 2.540% |  | 2.510% |
-| 11:00 | CAD | BoC Monetary Policy Report |  |  |  |
-| 11:00 | CAD | BoC Rate Statement |  |  |  |
-| 13:30 | USD | Goods Trade Balance (Dec) | -122.11B | -105.60B | -103.50B |
-| 13:30 | USD | Retail Inventories Ex Auto (Dec) | 0.2% |  | 0.4% |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:30 | USD | Atlanta Fed GDPNow (Q4) | 2.3% | 3.2% | 3.2% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.326M |  | -0.148M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 21:30 | BRL | Interest Rate Decision | 13.25% | 13.25% | 12.25% |
+| 06:30 | EUR | French Consumer Spending (MoM) (Dec) |  | 0.1% | 0.3% |
+| 06:30 | EUR | French GDP (YoY) (Q4) |  |  | 1.3% |
+| 06:30 | EUR | French GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
+| 08:00 | CHF | KOF Leading Indicators (Jan) |  | 100.3 | 99.5 |
+| 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 2.9% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jan) |  | 2.8% | 2.8% |
+| 09:00 | EUR | German GDP (YoY) (Q4) |  | 0.0% | -0.3% |
+| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
+| 10:00 | EUR | GDP (YoY) (Q4) |  | 1.0% | 0.9% |
+| 10:00 | EUR | Unemployment Rate (Dec) |  | 6.3% | 6.3% |
+| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.39% |
+| 11:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | MXN | GDP (YoY) (Q4) |  | 1.2% | 1.6% |
+| 12:00 | MXN | GDP (QoQ) (Q4) |  | -0.2% | 1.1% |
+| 13:00 | ZAR | Interest Rate Decision (Jan) |  | 7.50% | 7.75% |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,899K |
+| 13:30 | USD | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 2.5% | 1.9% |
+| 15:00 | USD | Pending Home Sales (MoM) (Dec) |  | 0.0% | 2.2% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,832B |
+| 23:30 | JPY | Tokyo Core CPI (YoY) (Jan) |  | 2.5% | 2.4% |
+| 23:50 | JPY | Industrial Production (MoM) (Dec) |  | -0.1% | -2.2% |

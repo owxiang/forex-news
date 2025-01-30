@@ -1,9 +1,10 @@
-## 29 January 2025 - High Impact Forex News
+## 30 January 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | CAD | BoC Interest Rate Decision | 3.00% | 3.00% | 3.25% |
-| 15:30 | USD | Crude Oil Inventories | 3.463M | 2.200M | -1.017M |
-| 19:00 | USD | FOMC Statement |  |  |  |
-| 19:00 | USD | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 19:30 | USD | FOMC Press Conference |  |  |  |
+| 09:00 | EUR | German GDP (QoQ) (Q4) |  | -0.1% | 0.1% |
+| 13:15 | EUR | Deposit Facility Rate (Jan) |  | 2.75% | 3.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Jan) |  | 2.90% | 3.15% |
+| 13:30 | USD | GDP (QoQ) (Q4) |  | 2.7% | 3.1% |
+| 13:30 | USD | Initial Jobless Claims |  | 224K | 223K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
