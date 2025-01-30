@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Business Confidence (Jan) | 54.4 |  | 62.3 |
 | 00:00 | NZD | NBNZ Own Activity (Jan) | 45.8% |  | 50.3% |
-| 5 min | AUD | Export Price Index (QoQ) (Q4) |  |  | -4.3% |
-| 5 min | AUD | Import Price Index (QoQ) (Q4) |  | 1.5% | -1.4% |
-| 5 min | AUD | RBA Bulletin |  |  |  |
+| 00:30 | AUD | Export Price Index (QoQ) (Q4) | 3.6% |  | -4.3% |
+| 00:30 | AUD | Import Price Index (QoQ) (Q4) | 0.2% | 1.5% | -1.4% |
+| 00:30 | AUD | RBA Bulletin |  |  |  |
 | 03:20 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Dec) |  |  | 7.77% |
 | 06:00 | ZAR | Private Sector Credit (Dec) |  |  | 4.16% |
