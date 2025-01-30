@@ -54,7 +54,7 @@
 | 15:30 | USD | Natural Gas Storage | -321B | -317B | -223B |
 | 16:30 | USD | 4-Week Bill Auction | 4.250% |  | 4.265% |
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.250% |
-| 21:00 | MXN | Fiscal Balance (Dec) |  |  | -110.23B |
+| 19:00 | MXN | Fiscal Balance (Dec) | -618.56B |  | -110.23B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.331T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 1.1% |
 | 23:30 | JPY | Jobs/applications ratio (Dec) |  | 1.25 | 1.25 |
