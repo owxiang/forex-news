@@ -15,37 +15,37 @@
 | 05:00 | SGD | Low | Business Expectations (Q4) | 7.00 |  | 10.00 |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.8% | 2.5% | 3.1% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | 0.0% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.8% | 2.5% | 2.9% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
 | 07:00 | NOK | Low | Unemployment Change (Jan) | 77.47K |  | 78.40K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) | 2.30% |  | 2.00% |
-| 24 min | CHF | Low | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
-| 39 min | EUR | Low | French CPI (YoY) (Jan) |  | 1.5% | 1.3% |
-| 39 min | EUR | Moderate | French CPI (MoM) (Jan) |  | 0.0% | 0.2% |
-| 39 min | EUR | Low | French HICP (YoY) (Jan) |  | 1.9% | 1.8% |
-| 39 min | EUR | Moderate | French HICP (MoM) (Jan) |  | 0.0% | 0.2% |
-| 39 min | EUR | Low | PPI (YoY) (Dec) |  |  | -5.20% |
-| 39 min | EUR | Low | French PPI (MoM) (Dec) |  |  | 3.2% |
-| 54 min | CHF | Low | Official Reserves Assets (Dec) |  |  | 815.5B |
-| 54 min | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  | 0.5% | 1.0% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jan) |  | 14K | 10K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jan) |  | 6.2% | 6.1% |
-| 08:55 | EUR | Low | German Unemployment (Jan) |  |  | 2.869M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) |  |  | 2.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  |  | 0.4% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 2.5% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Jan) |  |  | 3.2% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Jan) |  |  | 0.5% |
-| 09:00 | EUR | Low | Spanish Current account (Nov) |  |  | 4.93B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Feb) |  |  | 250.0M |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Dec) | 2.6% | 0.6% | 1.4% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.4% | 1.5% | 1.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.1% | 0.0% | 0.2% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | 0.0% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.9% | 1.8% |
+| 07:45 | EUR | Low | PPI (YoY) (Dec) | -3.80% |  | -4.70% |
+| 07:45 | EUR | Low | French PPI (MoM) (Dec) | 1.0% |  | 3.7% |
+| 08:00 | CHF | Low | Official Reserves Assets (Dec) | 822.6B |  | 815.5B |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) | 4.0% | 0.5% | 0.9% |
+| 47 min | EUR | Moderate | German Unemployment Change (Jan) |  | 14K | 10K |
+| 47 min | EUR | Moderate | German Unemployment Rate (Jan) |  | 6.2% | 6.1% |
+| 47 min | EUR | Low | German Unemployment (Jan) |  |  | 2.869M |
+| 47 min | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
+| 52 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
+| 52 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
+| 52 min | EUR | Low | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
+| 52 min | EUR | Low | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
+| 52 min | EUR | Low | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
+| 52 min | EUR | Low | Brandenburg CPI (YoY) (Jan) |  |  | 2.4% |
+| 52 min | EUR | Low | Hesse CPI (MoM) (Jan) |  |  | 0.4% |
+| 52 min | EUR | Low | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
+| 52 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 2.5% |
+| 52 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
+| 52 min | EUR | Low | Saxony CPI (YoY) (Jan) |  |  | 3.2% |
+| 52 min | EUR | Low | Saxony CPI (MoM) (Jan) |  |  | 0.5% |
+| 52 min | EUR | Low | Spanish Current account (Nov) |  |  | 4.93B |
+| 52 min | NOK | Low | Central Bank Currency Purchase (Feb) |  |  | 250.0M |
 | 09:30 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -0.5% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Dec) |  |  | 1.2% |
@@ -62,12 +62,12 @@
 | 12:00 | INR | Low | Infrastructure Output (YoY) (Dec) |  |  | 4.3% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Dec) |  | 6.1% | 6.1% |
 | 12:00 | ZAR | Low | Trade Balance (Dec) |  |  | 34.70B |
-| 13:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.1% | 0.5% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.6% | 2.6% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
+| 13:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.1% | 0.5% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 2.8% | 2.8% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 2.8% | 2.8% |
 | 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) |  | 0.9% | 0.8% |
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
