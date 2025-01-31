@@ -8,8 +8,8 @@
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Dec) | 0.6% | 0.5% | 0.6% |
 | 02:00 | SGD | Low | Bank Lending (Dec) | 835.0B |  | 819.4B |
 | 02:00 | NZD | Low | M3 Money Supply (Dec) | 430.1B |  | 424.4B |
-| 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.602% |
-| 04:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 33.30% |  | 18.60% |
+| 28 min | JPY | Low | 2-Year JGB Auction |  |  | 0.602% |
+| 53 min | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 33.30% |  | 18.60% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) |  |  | -10.2% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) |  | -3.7% | -1.8% |
 | 05:00 | SGD | Low | Business Expectations (Q4) |  |  | 10.00 |
@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |
 | 07:00 | NOK | Low | Unemployment Change (Jan) |  |  | 78.40K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.00% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
@@ -34,8 +34,8 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jan) |  | 6.2% | 6.1% |
 | 08:55 | EUR | Low | German Unemployment (Jan) |  |  | 2.869M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |

@@ -6,8 +6,8 @@
 | 00:30 | AUD | Private Sector Credit (MoM) (Dec) | 0.6% | 0.5% | 0.6% |
 | 02:00 | SGD | Bank Lending (Dec) | 835.0B |  | 819.4B |
 | 02:00 | NZD | M3 Money Supply (Dec) | 430.1B |  | 424.4B |
-| 03:35 | JPY | 2-Year JGB Auction |  |  | 0.602% |
-| 04:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 33.30% |  | 18.60% |
+| 28 min | JPY | 2-Year JGB Auction |  |  | 0.602% |
+| 53 min | IDR | Foreign Direct Investment (YoY) (Q4) | 33.30% |  | 18.60% |
 | 05:00 | JPY | Construction Orders (YoY) (Dec) |  |  | -10.2% |
 | 05:00 | JPY | Housing Starts (YoY) (Dec) |  | -3.7% | -1.8% |
 | 05:00 | SGD | Business Expectations (Q4) |  |  | 10.00 |
@@ -25,8 +25,8 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) |  | 0.5% | 1.0% |
 | 08:55 | EUR | German Unemployment (Jan) |  |  | 2.869M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
