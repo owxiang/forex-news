@@ -9,8 +9,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
 | 07:45 | EUR | French CPI (MoM) (Jan) | -0.1% | 0.0% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Jan) | -0.2% | 0.0% | 0.2% |
-| 47 min | EUR | German Unemployment Change (Jan) |  | 14K | 10K |
-| 47 min | EUR | German Unemployment Rate (Jan) |  | 6.2% | 6.1% |
+| 08:55 | EUR | German Unemployment Change (Jan) | 11K | 14K | 10K |
+| 08:55 | EUR | German Unemployment Rate (Jan) | 6.2% | 6.2% | 6.1% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  |  | 77.7% |
 | 12:00 | BRL | Unemployment Rate (Dec) |  | 6.1% | 6.1% |
 | 13:00 | EUR | German CPI (YoY) (Jan) |  | 2.6% | 2.6% |
