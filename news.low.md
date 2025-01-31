@@ -57,14 +57,14 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Dec) | 0.4% |  | 0.5% |
 | 16:00 | CAD | Budget Balance (YoY) (Nov) | -22.72B |  | -14.50B |
 | 16:00 | CAD | Budget Balance (Nov) | -8.21B |  | -1.49B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 16.7K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 392.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -68.5K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 47.5K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 18.5K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -73.0K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -150.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | -1.5K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -41.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -51.2K |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 16.7K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | 392.9K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -68.5K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 47.5K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 18.5K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -73.0K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -150.8K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | -1.5K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -41.8K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -51.2K |
