@@ -23,25 +23,23 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) | 4.0% | 0.5% | 0.9% |
 | 08:55 | EUR | German Unemployment (Jan) | 2.880M |  | 2.869M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) | 2.993M |  | 2.807M |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jan) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jan) | 0.1% |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jan) | 2.5% |  | 2.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) | -0.1% |  | 0.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jan) | 2.4% |  | 3.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jan) | -0.4% |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Nov) | 1.26B |  | 4.93B |
 | 09:00 | NOK | Central Bank Currency Purchase (Feb) | 300.0M |  | 250.0M |
-| 24 min | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
-| 54 min | EUR | Italian PPI (YoY) (Dec) |  |  | -0.5% |
-| 54 min | EUR | Italian PPI (MoM) (Dec) |  |  | 1.2% |
-| 54 min | INR | Federal Fiscal Deficit (Dec) |  |  | 8,465.94B |
-| 54 min | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 10:00 | EUR | Italian PPI (YoY) (Dec) | 1.1% |  | -0.5% |
+| 10:00 | EUR | Italian PPI (MoM) (Dec) | 0.6% |  | 1.2% |
+| 24 min | INR | Federal Fiscal Deficit (Dec) |  |  | 8,465.94B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.2% |
 | 11:30 | INR | Deposit Growth |  |  | 9.8% |
 | 11:30 | INR | FX Reserves, USD |  |  | 623.98B |
@@ -50,9 +48,10 @@
 | 11:30 | BRL | Budget Balance (Dec) |  | -60.300B | -99.100B |
 | 11:30 | BRL | Budget Surplus (Dec) |  |  | -6.620B |
 | 12:00 | INR | Infrastructure Output (YoY) (Dec) |  |  | 4.3% |
+| 12:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 12:00 | ZAR | Trade Balance (Dec) |  |  | 34.70B |
-| 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 13:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
+| 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 13:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Personal Income (MoM) (Dec) |  | 0.4% | 0.3% |
