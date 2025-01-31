@@ -23,8 +23,8 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) | 4.0% | 0.5% | 0.9% |
 | 08:55 | EUR | German Unemployment (Jan) | 2.880M |  | 2.869M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) | 2.993M |  | 2.807M |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |

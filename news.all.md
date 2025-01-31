@@ -32,8 +32,8 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jan) | 6.2% | 6.2% | 6.1% |
 | 08:55 | EUR | Low | German Unemployment (Jan) | 2.880M |  | 2.869M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) | 2.993M |  | 2.807M |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
@@ -60,8 +60,8 @@
 | 12:00 | INR | Low | Infrastructure Output (YoY) (Dec) | 4.0% |  | 4.4% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Dec) | 6.2% | 6.1% | 6.1% |
 | 12:00 | ZAR | Low | Trade Balance (Dec) | 15.46B |  | 34.03B |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.6% | 2.6% |
 | 13:00 | EUR | High | German CPI (MoM) (Jan) | -0.2% | 0.1% | 0.5% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.6% | 2.6% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) | 0.2% | 0.2% | 0.1% |
