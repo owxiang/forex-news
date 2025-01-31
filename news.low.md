@@ -25,8 +25,8 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) | 2.993M |  | 2.807M |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jan) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jan) | 0.1% |  | 0.4% |
@@ -37,21 +37,21 @@
 | 09:00 | EUR | Saxony CPI (MoM) (Jan) | -0.4% |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Nov) | 1.26B |  | 4.93B |
 | 09:00 | NOK | Central Bank Currency Purchase (Feb) | 300.0M |  | 250.0M |
-| 10:00 | EUR | Italian PPI (YoY) (Dec) | 1.1% |  | -0.5% |
 | 10:00 | EUR | Italian PPI (MoM) (Dec) | 0.6% |  | 1.2% |
-| 24 min | INR | Federal Fiscal Deficit (Dec) |  |  | 8,465.94B |
-| 11:30 | INR | Bank Loan Growth |  |  | 11.2% |
-| 11:30 | INR | Deposit Growth |  |  | 9.8% |
-| 11:30 | INR | FX Reserves, USD |  |  | 623.98B |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 61.2% |
-| 11:30 | BRL | Budget Balance (Dec) |  | -60.300B | -99.100B |
-| 11:30 | BRL | Budget Surplus (Dec) |  |  | -6.620B |
-| 12:00 | INR | Infrastructure Output (YoY) (Dec) |  |  | 4.3% |
-| 12:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
-| 12:00 | ZAR | Trade Balance (Dec) |  |  | 34.70B |
-| 13:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
+| 10:00 | EUR | Italian PPI (YoY) (Dec) | 1.1% |  | -0.5% |
+| 10:00 | INR | Federal Fiscal Deficit (Dec) | 9,140.89B |  | 8,465.94B |
+| 25 min | INR | Bank Loan Growth |  |  | 11.2% |
+| 25 min | INR | Deposit Growth |  |  | 9.8% |
+| 25 min | INR | FX Reserves, USD |  |  | 623.98B |
+| 25 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 25 min | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 61.2% |
+| 25 min | BRL | Budget Balance (Dec) |  | -60.300B | -99.100B |
+| 25 min | BRL | Budget Surplus (Dec) |  |  | -6.620B |
+| 55 min | INR | Infrastructure Output (YoY) (Dec) |  |  | 4.3% |
+| 55 min | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
+| 55 min | ZAR | Trade Balance (Dec) |  |  | 34.70B |
 | 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
+| 13:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
 | 13:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Personal Income (MoM) (Dec) |  | 0.4% | 0.3% |

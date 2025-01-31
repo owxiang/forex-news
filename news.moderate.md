@@ -11,8 +11,8 @@
 | 07:45 | EUR | French HICP (MoM) (Jan) | -0.2% | 0.0% | 0.2% |
 | 08:55 | EUR | German Unemployment Change (Jan) | 11K | 14K | 10K |
 | 08:55 | EUR | German Unemployment Rate (Jan) | 6.2% | 6.2% | 6.1% |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  |  | 77.7% |
-| 12:00 | BRL | Unemployment Rate (Dec) |  | 6.1% | 6.1% |
+| 25 min | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  |  | 77.7% |
+| 55 min | BRL | Unemployment Rate (Dec) |  | 6.1% | 6.1% |
 | 13:00 | EUR | German CPI (YoY) (Jan) |  | 2.6% | 2.6% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q4) |  | 0.9% | 0.8% |
 | 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
