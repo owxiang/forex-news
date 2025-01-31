@@ -13,8 +13,8 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) | 8.1% |  | -10.2% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) | -2.5% | -3.7% | -1.8% |
 | 05:00 | SGD | Low | Business Expectations (Q4) | 7.00 |  | 10.00 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.8% | 2.5% | 2.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
 | 07:00 | NOK | Low | Unemployment Change (Jan) | 77.47K |  | 78.40K |
@@ -64,8 +64,8 @@
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.6% | 2.6% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) | 0.2% | 0.2% | 0.1% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) | 0.2% | 0.2% | 0.1% |
 | 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) | 0.80% |  | 0.80% |
 | 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) | 0.9% | 0.9% | 0.8% |
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q4) | 0.90% |  | 0.80% |

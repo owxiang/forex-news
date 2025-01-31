@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
 | 00:30 | AUD | PPI (QoQ) (Q4) | 0.8% | 1.0% | 1.0% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
 | 07:45 | EUR | French CPI (MoM) (Jan) | -0.1% | 0.0% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Jan) | -0.2% | 0.0% | 0.2% |
