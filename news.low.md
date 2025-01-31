@@ -6,11 +6,11 @@
 | 00:30 | AUD | Private Sector Credit (MoM) (Dec) | 0.6% | 0.5% | 0.6% |
 | 02:00 | SGD | Bank Lending (Dec) | 835.0B |  | 819.4B |
 | 02:00 | NZD | M3 Money Supply (Dec) | 430.1B |  | 424.4B |
-| 03:30 | IDR | Foreign Direct Investment (YoY) (Q4) | 33.30% |  | 18.60% |
 | 03:35 | JPY | 2-Year JGB Auction | 0.727% |  | 0.602% |
-| 53 min | JPY | Construction Orders (YoY) (Dec) |  |  | -10.2% |
-| 53 min | JPY | Housing Starts (YoY) (Dec) |  | -3.7% | -1.8% |
-| 53 min | SGD | Business Expectations (Q4) |  |  | 10.00 |
+| 04:30 | IDR | Foreign Direct Investment (YoY) (Q4) | 33.30% |  | 18.60% |
+| 05:00 | JPY | Construction Orders (YoY) (Dec) | 8.1% |  | -10.2% |
+| 05:00 | JPY | Housing Starts (YoY) (Dec) | -2.5% | -3.7% | -1.8% |
+| 05:00 | SGD | Business Expectations (Q4) | 7.00 |  | 10.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
 | 07:00 | EUR | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
 | 07:00 | EUR | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
@@ -25,16 +25,16 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) |  | 0.5% | 1.0% |
 | 08:55 | EUR | German Unemployment (Jan) |  |  | 2.869M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jan) |  |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jan) |  |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 2.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 2.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jan) |  |  | 3.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Nov) |  |  | 4.93B |
@@ -60,8 +60,8 @@
 | 13:30 | USD | Personal Income (MoM) (Dec) |  | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
 | 14:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.80% |
-| 16:00 | CAD | Budget Balance (YoY) (Nov) |  |  | -14.50B |
 | 16:00 | CAD | Budget Balance (Nov) |  |  | -1.49B |
+| 16:00 | CAD | Budget Balance (YoY) (Nov) |  |  | -14.50B |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 16.7K |
