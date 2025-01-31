@@ -13,14 +13,14 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) | 8.1% |  | -10.2% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) | -2.5% | -3.7% | -1.8% |
 | 05:00 | SGD | Low | Business Expectations (Q4) | 7.00 |  | 10.00 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | 4.3% | 4.7% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | 0.7% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |
-| 07:00 | NOK | Low | Unemployment Change (Jan) |  |  | 78.40K |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.00% |
+| 52 min | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | 4.3% | 4.7% |
+| 52 min | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | 0.7% |
+| 52 min | EUR | Low | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
+| 52 min | EUR | Low | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
+| 52 min | EUR | Low | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
+| 52 min | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |
+| 52 min | NOK | Low | Unemployment Change (Jan) |  |  | 78.40K |
+| 52 min | NOK | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.00% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 1.5% | 1.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | 0.0% | 0.2% |

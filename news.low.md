@@ -11,11 +11,11 @@
 | 05:00 | JPY | Construction Orders (YoY) (Dec) | 8.1% |  | -10.2% |
 | 05:00 | JPY | Housing Starts (YoY) (Dec) | -2.5% | -3.7% | -1.8% |
 | 05:00 | SGD | Business Expectations (Q4) | 7.00 |  | 10.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
-| 07:00 | EUR | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
-| 07:00 | EUR | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
-| 07:00 | NOK | Unemployment Change (Jan) |  |  | 78.40K |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Jan) |  |  | 2.00% |
+| 52 min | EUR | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
+| 52 min | EUR | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
+| 52 min | EUR | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
+| 52 min | NOK | Unemployment Change (Jan) |  |  | 78.40K |
+| 52 min | NOK | Unemployment Rate n.s.a. (Jan) |  |  | 2.00% |
 | 07:30 | CHF | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
 | 07:45 | EUR | French CPI (YoY) (Jan) |  | 1.5% | 1.3% |
 | 07:45 | EUR | French HICP (YoY) (Jan) |  | 1.9% | 1.8% |
