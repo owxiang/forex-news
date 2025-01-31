@@ -1,29 +1,35 @@
-## 30 January 2025 - Moderate Impact Forex News
+## 31 January 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:30 | EUR | French Consumer Spending (MoM) (Dec) | 0.7% | 0.1% | 0.2% |
-| 06:30 | EUR | French GDP (YoY) (Q4) | 0.7% |  | 1.2% |
-| 06:30 | EUR | French GDP (QoQ) (Q4) | -0.1% | 0.0% | 0.4% |
-| 08:00 | CHF | KOF Leading Indicators (Jan) | 101.6 | 100.3 | 99.6 |
-| 08:00 | EUR | Spanish CPI (YoY) (Jan) | 3.0% | 2.9% | 2.8% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.9% | 2.8% | 2.8% |
-| 09:00 | EUR | German GDP (YoY) (Q4) | -0.2% | 0.0% | -0.3% |
-| 10:00 | EUR | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.4% |
-| 10:00 | EUR | GDP (YoY) (Q4) | 0.9% | 1.0% | 0.9% |
-| 10:00 | EUR | Unemployment Rate (Dec) | 6.3% | 6.3% | 6.2% |
-| 10:30 | EUR | Italian 10-Year BTP Auction | 3.60% |  | 3.39% |
-| 11:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12:00 | MXN | GDP (QoQ) (Q4) | -0.6% | -0.2% | 1.1% |
-| 12:00 | MXN | GDP (YoY) (Q4) | 0.6% | 1.2% | 1.6% |
-| 13:00 | ZAR | Interest Rate Decision (Jan) | 7.50% | 7.50% | 7.75% |
-| 13:15 | EUR | ECB Marginal Lending Facility | 3.15% |  | 3.40% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,858K | 1,890K | 1,900K |
-| 13:30 | USD | Core PCE Prices (Q4) | 2.50% | 2.50% | 2.20% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q4) | 2.2% | 2.5% | 1.9% |
-| 15:00 | USD | Pending Home Sales (MoM) (Dec) | -5.5% | 0.0% | 1.6% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,818B |  | 6,832B |
-| 23:30 | JPY | Tokyo Core CPI (YoY) (Jan) |  | 2.5% | 2.4% |
-| 23:50 | JPY | Industrial Production (MoM) (Dec) |  | -0.1% | -2.2% |
+| 5 min | AUD | PPI (YoY) (Q4) |  |  | 3.9% |
+| 5 min | AUD | PPI (QoQ) (Q4) |  | 1.0% | 0.9% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jan) |  | 4.3% | 4.7% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jan) |  | 0.3% | 0.7% |
+| 07:00 | EUR | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |
+| 07:45 | EUR | French CPI (MoM) (Jan) |  | 0.0% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Jan) |  | 0.0% | 0.2% |
+| 08:55 | EUR | German Unemployment Change (Jan) |  | 14K | 10K |
+| 08:55 | EUR | German Unemployment Rate (Jan) |  | 6.2% | 6.1% |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  |  | 77.7% |
+| 12:00 | BRL | Unemployment Rate (Dec) |  | 6.1% | 6.1% |
+| 13:00 | EUR | German CPI (YoY) (Jan) |  | 2.6% | 2.6% |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q4) |  | 0.9% | 0.8% |
+| 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | USD | PCE Price index (YoY) (Dec) |  | 2.6% | 2.4% |
+| 13:30 | USD | PCE price index (MoM) (Dec) |  | 0.3% | 0.1% |
+| 13:30 | USD | Personal Spending (MoM) (Dec) |  | 0.5% | 0.4% |
+| 13:30 | CAD | GDP (MoM) (Nov) |  | -0.1% | 0.3% |
+| 13:31 | CAD | GDP (MoM) (Dec) |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q1) |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 472 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 576 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -8.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 298.8K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 300.8K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 18.5K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -75.7K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -71.3K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -34.1K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -14.7K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -62.5K |

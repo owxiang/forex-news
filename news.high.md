@@ -1,10 +1,8 @@
-## 30 January 2025 - High Impact Forex News
+## 31 January 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
-| 13:15 | EUR | Deposit Facility Rate (Jan) | 2.75% | 2.75% | 3.00% |
-| 13:15 | EUR | ECB Interest Rate Decision (Jan) | 2.90% | 2.90% | 3.15% |
-| 13:30 | USD | GDP (QoQ) (Q4) | 2.3% | 2.7% | 3.1% |
-| 13:30 | USD | Initial Jobless Claims | 207K | 224K | 223K |
-| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 13:00 | EUR | German CPI (MoM) (Jan) |  | 0.1% | 0.5% |
+| 13:30 | USD | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
+| 13:30 | USD | Core PCE Price Index (YoY) (Dec) |  | 2.8% | 2.8% |
+| 14:45 | USD | Chicago PMI (Jan) |  | 40.3 | 36.9 |
