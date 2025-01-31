@@ -4,9 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Housing Credit (Dec) | 0.5% | 0.5% | 0.5% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Dec) | 0.6% | 0.5% | 0.6% |
-| 27 min | SGD | Bank Lending (Dec) |  |  | 819.4B |
-| 27 min | NZD | M3 Money Supply (Dec) |  |  | 424.4B |
+| 02:00 | SGD | Bank Lending (Dec) | 835.0B |  | 819.4B |
+| 02:00 | NZD | M3 Money Supply (Dec) | 430.1B |  | 424.4B |
 | 03:35 | JPY | 2-Year JGB Auction |  |  | 0.602% |
+| 04:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 33.30% |  | 18.60% |
 | 05:00 | JPY | Construction Orders (YoY) (Dec) |  |  | -10.2% |
 | 05:00 | JPY | Housing Starts (YoY) (Dec) |  | -3.7% | -1.8% |
 | 05:00 | SGD | Business Expectations (Q4) |  |  | 10.00 |
