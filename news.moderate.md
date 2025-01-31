@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
 | 00:30 | AUD | PPI (QoQ) (Q4) | 0.8% | 1.0% | 1.0% |
+| 00:30 | AUD | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
 | 07:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
@@ -14,13 +14,12 @@
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) | 76.1% | 77.0% | 77.7% |
 | 12:00 | BRL | Unemployment Rate (Dec) | 6.2% | 6.1% | 6.1% |
 | 13:00 | EUR | German CPI (YoY) (Jan) | 2.3% | 2.6% | 2.6% |
-| 22 min | USD | Employment Cost Index (QoQ) (Q4) |  | 0.9% | 0.8% |
-| 22 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 22 min | USD | PCE Price index (YoY) (Dec) |  | 2.6% | 2.4% |
-| 22 min | USD | PCE price index (MoM) (Dec) |  | 0.3% | 0.1% |
-| 22 min | USD | Personal Spending (MoM) (Dec) |  | 0.5% | 0.4% |
-| 22 min | CAD | GDP (MoM) (Nov) |  | -0.1% | 0.3% |
-| 23 min | CAD | GDP (MoM) (Dec) |  |  |  |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q4) | 0.9% | 0.9% | 0.8% |
+| 13:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | USD | PCE Price index (YoY) (Dec) | 2.6% | 2.6% | 2.4% |
+| 13:30 | USD | PCE price index (MoM) (Dec) | 0.3% | 0.3% | 0.1% |
+| 13:30 | USD | Personal Spending (MoM) (Dec) | 0.7% | 0.5% | 0.6% |
+| 13:30 | CAD | GDP (MoM) (Nov) | -0.2% | -0.1% | 0.3% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 472 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 576 |

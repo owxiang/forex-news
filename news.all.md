@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Housing Credit (Dec) | 0.5% | 0.5% | 0.5% |
-| 00:30 | AUD | Moderate | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
 | 00:30 | AUD | Moderate | PPI (QoQ) (Q4) | 0.8% | 1.0% | 1.0% |
+| 00:30 | AUD | Moderate | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Dec) | 0.6% | 0.5% | 0.6% |
 | 02:00 | SGD | Low | Bank Lending (Dec) | 835.0B |  | 819.4B |
 | 02:00 | NZD | Low | M3 Money Supply (Dec) | 430.1B |  | 424.4B |
@@ -40,8 +40,8 @@
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jan) | 0.1% |  | 0.4% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) | -0.1% |  | 0.5% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jan) | 2.4% |  | 3.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jan) | -0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Nov) | 1.26B |  | 4.93B |
@@ -64,21 +64,19 @@
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.6% | 2.6% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
-| 22 min | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
-| 22 min | USD | High | Core PCE Price Index (YoY) (Dec) |  | 2.8% | 2.8% |
-| 22 min | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
-| 22 min | USD | Moderate | Employment Cost Index (QoQ) (Q4) |  | 0.9% | 0.8% |
-| 22 min | USD | Low | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
-| 22 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 22 min | USD | Moderate | PCE Price index (YoY) (Dec) |  | 2.6% | 2.4% |
-| 22 min | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.3% | 0.1% |
-| 22 min | USD | Low | Personal Income (MoM) (Dec) |  | 0.4% | 0.3% |
-| 22 min | USD | Moderate | Personal Spending (MoM) (Dec) |  | 0.5% | 0.4% |
-| 22 min | USD | Low | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
-| 22 min | CAD | Moderate | GDP (MoM) (Nov) |  | -0.1% | 0.3% |
-| 23 min | CAD | Moderate | GDP (MoM) (Dec) |  |  |  |
-| 52 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.80% |
-| 14:45 | USD | High | Chicago PMI (Jan) |  | 40.3 | 36.9 |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
+| 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) | 0.80% |  | 0.80% |
+| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) | 0.9% | 0.9% | 0.8% |
+| 13:30 | USD | Low | Employment Wages (QoQ) (Q4) | 0.90% |  | 0.80% |
+| 13:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Dec) | 2.6% | 2.6% | 2.4% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Dec) | 0.3% | 0.3% | 0.1% |
+| 13:30 | USD | Low | Personal Income (MoM) (Dec) | 0.4% | 0.4% | 0.3% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Dec) | 0.7% | 0.5% | 0.6% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Dec) | 0.4% |  | 0.5% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Nov) | -0.2% | -0.1% | 0.3% |
+| 40 min | USD | High | Chicago PMI (Jan) |  | 40.3 | 36.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 16:00 | CAD | Low | Budget Balance (Nov) |  |  | -1.49B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Nov) |  |  | -14.50B |

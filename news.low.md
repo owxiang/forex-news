@@ -31,8 +31,8 @@
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jan) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jan) | 0.1% |  | 0.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) | -0.1% |  | 0.5% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jan) | 2.4% |  | 3.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jan) | -0.4% |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Nov) | 1.26B |  | 4.93B |
@@ -51,11 +51,10 @@
 | 12:00 | ZAR | Trade Balance (Dec) | 15.46B |  | 34.03B |
 | 13:00 | EUR | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 13:00 | EUR | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
-| 22 min | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
-| 22 min | USD | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
-| 22 min | USD | Personal Income (MoM) (Dec) |  | 0.4% | 0.3% |
-| 22 min | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
-| 52 min | USD | Dallas Fed PCE (Dec) |  |  | 1.80% |
+| 13:30 | USD | Employment Benefits (QoQ) (Q4) | 0.80% |  | 0.80% |
+| 13:30 | USD | Employment Wages (QoQ) (Q4) | 0.90% |  | 0.80% |
+| 13:30 | USD | Personal Income (MoM) (Dec) | 0.4% | 0.4% | 0.3% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Dec) | 0.4% |  | 0.5% |
 | 16:00 | CAD | Budget Balance (Nov) |  |  | -1.49B |
 | 16:00 | CAD | Budget Balance (YoY) (Nov) |  |  | -14.50B |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
