@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | AUD | PPI (YoY) (Q4) |  |  | 3.9% |
-| 5 min | AUD | PPI (QoQ) (Q4) |  | 1.0% | 0.9% |
+| 00:30 | AUD | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
+| 00:30 | AUD | PPI (QoQ) (Q4) | 0.8% | 1.0% | 1.0% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jan) |  | 4.3% | 4.7% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jan) |  | 0.3% | 0.7% |
 | 07:00 | EUR | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |

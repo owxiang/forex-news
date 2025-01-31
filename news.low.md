@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 5 min | AUD | Housing Credit (Dec) |  | 0.5% | 0.5% |
-| 5 min | AUD | Private Sector Credit (MoM) (Dec) |  | 0.5% | 0.5% |
-| 02:00 | SGD | Bank Lending (Dec) |  |  | 819.4B |
-| 02:00 | NZD | M3 Money Supply (Dec) |  |  | 424.4B |
+| 00:30 | AUD | Housing Credit (Dec) | 0.5% | 0.5% | 0.5% |
+| 00:30 | AUD | Private Sector Credit (MoM) (Dec) | 0.6% | 0.5% | 0.6% |
+| 27 min | SGD | Bank Lending (Dec) |  |  | 819.4B |
+| 27 min | NZD | M3 Money Supply (Dec) |  |  | 424.4B |
 | 03:35 | JPY | 2-Year JGB Auction |  |  | 0.602% |
 | 05:00 | JPY | Construction Orders (YoY) (Dec) |  |  | -10.2% |
 | 05:00 | JPY | Housing Starts (YoY) (Dec) |  | -3.7% | -1.8% |
@@ -18,20 +18,20 @@
 | 07:30 | CHF | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
 | 07:45 | EUR | French CPI (YoY) (Jan) |  | 1.5% | 1.3% |
 | 07:45 | EUR | French HICP (YoY) (Jan) |  | 1.9% | 1.8% |
-| 07:45 | EUR | French PPI (MoM) (Dec) |  |  | 3.2% |
 | 07:45 | EUR | PPI (YoY) (Dec) |  |  | -5.20% |
+| 07:45 | EUR | French PPI (MoM) (Dec) |  |  | 3.2% |
 | 08:00 | CHF | Official Reserves Assets (Dec) |  |  | 815.5B |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) |  | 0.5% | 1.0% |
 | 08:55 | EUR | German Unemployment (Jan) |  |  | 2.869M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jan) |  |  | 2.4% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jan) |  |  | 0.4% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 2.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jan) |  |  | 3.2% |

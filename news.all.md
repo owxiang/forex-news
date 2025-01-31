@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 5 min | AUD | Low | Housing Credit (Dec) |  | 0.5% | 0.5% |
-| 5 min | AUD | Moderate | PPI (YoY) (Q4) |  |  | 3.9% |
-| 5 min | AUD | Moderate | PPI (QoQ) (Q4) |  | 1.0% | 0.9% |
-| 5 min | AUD | Low | Private Sector Credit (MoM) (Dec) |  | 0.5% | 0.5% |
-| 02:00 | SGD | Low | Bank Lending (Dec) |  |  | 819.4B |
-| 02:00 | NZD | Low | M3 Money Supply (Dec) |  |  | 424.4B |
+| 00:30 | AUD | Low | Housing Credit (Dec) | 0.5% | 0.5% | 0.5% |
+| 00:30 | AUD | Moderate | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
+| 00:30 | AUD | Moderate | PPI (QoQ) (Q4) | 0.8% | 1.0% | 1.0% |
+| 00:30 | AUD | Low | Private Sector Credit (MoM) (Dec) | 0.6% | 0.5% | 0.6% |
+| 27 min | SGD | Low | Bank Lending (Dec) |  |  | 819.4B |
+| 27 min | NZD | Low | M3 Money Supply (Dec) |  |  | 424.4B |
 | 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.602% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) |  |  | -10.2% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) |  | -3.7% | -1.8% |
@@ -16,17 +16,17 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.3% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
 | 07:00 | NOK | Low | Unemployment Change (Jan) |  |  | 78.40K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.00% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 1.5% | 1.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | 0.0% | 0.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 1.9% | 1.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | 0.0% | 0.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Dec) |  |  | 3.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 1.9% | 1.8% |
 | 07:45 | EUR | Low | PPI (YoY) (Dec) |  |  | -5.20% |
+| 07:45 | EUR | Low | French PPI (MoM) (Dec) |  |  | 3.2% |
 | 08:00 | CHF | Low | Official Reserves Assets (Dec) |  |  | 815.5B |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  | 0.5% | 1.0% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jan) |  | 14K | 10K |
@@ -35,12 +35,12 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) |  |  | 2.4% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  |  | 0.4% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 2.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jan) |  |  | 3.2% |
@@ -63,8 +63,8 @@
 | 12:00 | INR | Low | Infrastructure Output (YoY) (Dec) |  |  | 4.3% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Dec) |  | 6.1% | 6.1% |
 | 12:00 | ZAR | Low | Trade Balance (Dec) |  |  | 34.70B |
-| 13:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.1% | 0.5% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.6% | 2.6% |
+| 13:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.1% | 0.5% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
