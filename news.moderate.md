@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
 | 00:30 | AUD | PPI (QoQ) (Q4) | 0.8% | 1.0% | 1.0% |
-| 52 min | GBP | Nationwide HPI (YoY) (Jan) |  | 4.3% | 4.7% |
-| 52 min | GBP | Nationwide HPI (MoM) (Jan) |  | 0.3% | 0.7% |
-| 52 min | EUR | German Retail Sales (MoM) (Dec) |  | 0.0% | -0.6% |
-| 07:45 | EUR | French CPI (MoM) (Jan) |  | 0.0% | 0.2% |
-| 07:45 | EUR | French HICP (MoM) (Jan) |  | 0.0% | 0.2% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
+| 07:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | 0.0% |
+| 39 min | EUR | French CPI (MoM) (Jan) |  | 0.0% | 0.2% |
+| 39 min | EUR | French HICP (MoM) (Jan) |  | 0.0% | 0.2% |
 | 08:55 | EUR | German Unemployment Change (Jan) |  | 14K | 10K |
 | 08:55 | EUR | German Unemployment Rate (Jan) |  | 6.2% | 6.1% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  |  | 77.7% |

@@ -11,30 +11,28 @@
 | 05:00 | JPY | Construction Orders (YoY) (Dec) | 8.1% |  | -10.2% |
 | 05:00 | JPY | Housing Starts (YoY) (Dec) | -2.5% | -3.7% | -1.8% |
 | 05:00 | SGD | Business Expectations (Q4) | 7.00 |  | 10.00 |
-| 52 min | EUR | German Import Price Index (MoM) (Dec) |  |  | 0.9% |
-| 52 min | EUR | German Import Price Index (YoY) (Dec) |  |  | 0.6% |
-| 52 min | EUR | German Retail Sales (YoY) (Dec) |  | 2.5% | 2.5% |
-| 52 min | NOK | Unemployment Change (Jan) |  |  | 78.40K |
-| 52 min | NOK | Unemployment Rate n.s.a. (Jan) |  |  | 2.00% |
-| 07:30 | CHF | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
-| 07:45 | EUR | French CPI (YoY) (Jan) |  | 1.5% | 1.3% |
-| 07:45 | EUR | French HICP (YoY) (Jan) |  | 1.9% | 1.8% |
-| 07:45 | EUR | PPI (YoY) (Dec) |  |  | -5.20% |
-| 07:45 | EUR | French PPI (MoM) (Dec) |  |  | 3.2% |
-| 08:00 | CHF | Official Reserves Assets (Dec) |  |  | 815.5B |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) |  | 0.5% | 1.0% |
+| 07:00 | EUR | German Retail Sales (YoY) (Dec) | 1.8% | 2.5% | 3.1% |
+| 07:00 | NOK | Unemployment Change (Jan) | 77.47K |  | 78.40K |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Jan) | 2.30% |  | 2.00% |
+| 24 min | CHF | Retail Sales (YoY) (Dec) |  | 0.6% | 0.8% |
+| 39 min | EUR | French CPI (YoY) (Jan) |  | 1.5% | 1.3% |
+| 39 min | EUR | French HICP (YoY) (Jan) |  | 1.9% | 1.8% |
+| 39 min | EUR | PPI (YoY) (Dec) |  |  | -5.20% |
+| 39 min | EUR | French PPI (MoM) (Dec) |  |  | 3.2% |
+| 54 min | CHF | Official Reserves Assets (Dec) |  |  | 815.5B |
+| 54 min | EUR | Spanish Retail Sales (YoY) (Dec) |  | 0.5% | 1.0% |
 | 08:55 | EUR | German Unemployment (Jan) |  |  | 2.869M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.807M |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  |  | 2.6% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jan) |  |  | 0.5% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jan) |  |  | 3.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jan) |  |  | 2.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jan) |  |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jan) |  |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jan) |  |  | 2.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jan) |  |  | 0.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  |  | 2.5% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jan) |  |  | 3.2% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jan) |  |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Nov) |  |  | 4.93B |
@@ -53,15 +51,15 @@
 | 11:30 | BRL | Budget Surplus (Dec) |  |  | -6.620B |
 | 12:00 | INR | Infrastructure Output (YoY) (Dec) |  |  | 4.3% |
 | 12:00 | ZAR | Trade Balance (Dec) |  |  | 34.70B |
-| 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 13:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
+| 13:00 | EUR | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 13:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 0.80% |
 | 13:30 | USD | Personal Income (MoM) (Dec) |  | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
 | 14:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.80% |
-| 16:00 | CAD | Budget Balance (Nov) |  |  | -1.49B |
 | 16:00 | CAD | Budget Balance (YoY) (Nov) |  |  | -14.50B |
+| 16:00 | CAD | Budget Balance (Nov) |  |  | -1.49B |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 16.7K |
