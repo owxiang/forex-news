@@ -13,8 +13,8 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) | 8.1% |  | -10.2% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) | -2.5% | -3.7% | -1.8% |
 | 05:00 | SGD | Low | Business Expectations (Q4) | 7.00 |  | 10.00 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.8% | 2.5% | 2.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
 | 07:00 | NOK | Low | Unemployment Change (Jan) | 77.47K |  | 78.40K |
@@ -22,10 +22,10 @@
 | 07:30 | CHF | Low | Retail Sales (YoY) (Dec) | 2.6% | 0.6% | 1.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.4% | 1.5% | 1.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.1% | 0.0% | 0.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.9% | 1.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | 0.0% | 0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Dec) | -3.80% |  | -4.70% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.9% | 1.8% |
 | 07:45 | EUR | Low | French PPI (MoM) (Dec) | 1.0% |  | 3.7% |
+| 07:45 | EUR | Low | PPI (YoY) (Dec) | -3.80% |  | -4.70% |
 | 08:00 | CHF | Low | Official Reserves Assets (Dec) | 822.6B |  | 815.5B |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) | 4.0% | 0.5% | 0.9% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jan) | 11K | 14K | 10K |
@@ -34,10 +34,10 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) | 2.993M |  | 2.807M |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jan) | 0.1% |  | 0.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
@@ -80,9 +80,9 @@
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.9% |  |  |
 | 16:00 | CAD | Low | Budget Balance (Nov) | -8.21B |  | -1.49B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Nov) | -22.72B |  | -14.50B |
-| 53 min | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 472 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 576 |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
+| 55 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 472 |
+| 55 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 576 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -8.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 16.7K |

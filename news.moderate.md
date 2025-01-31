@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | PPI (YoY) (Q4) | 3.7% |  | 3.9% |
 | 00:30 | AUD | PPI (QoQ) (Q4) | 0.8% | 1.0% | 1.0% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
 | 07:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
 | 07:45 | EUR | French CPI (MoM) (Jan) | -0.1% | 0.0% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Jan) | -0.2% | 0.0% | 0.2% |
@@ -21,8 +21,8 @@
 | 13:30 | USD | Personal Spending (MoM) (Dec) | 0.7% | 0.5% | 0.6% |
 | 13:30 | CAD | GDP (MoM) (Nov) | -0.2% | -0.1% | 0.3% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.9% |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 472 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 576 |
+| 55 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 472 |
+| 55 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 576 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -8.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 298.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 300.8K |

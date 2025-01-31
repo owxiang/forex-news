@@ -17,18 +17,18 @@
 | 07:30 | CHF | Retail Sales (YoY) (Dec) | 2.6% | 0.6% | 1.4% |
 | 07:45 | EUR | French CPI (YoY) (Jan) | 1.4% | 1.5% | 1.3% |
 | 07:45 | EUR | French HICP (YoY) (Jan) | 1.8% | 1.9% | 1.8% |
-| 07:45 | EUR | PPI (YoY) (Dec) | -3.80% |  | -4.70% |
 | 07:45 | EUR | French PPI (MoM) (Dec) | 1.0% |  | 3.7% |
+| 07:45 | EUR | PPI (YoY) (Dec) | -3.80% |  | -4.70% |
 | 08:00 | CHF | Official Reserves Assets (Dec) | 822.6B |  | 815.5B |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Dec) | 4.0% | 0.5% | 0.9% |
 | 08:55 | EUR | German Unemployment (Jan) | 2.880M |  | 2.869M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jan) | 2.993M |  | 2.807M |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jan) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jan) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jan) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jan) | 0.1% |  | 0.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
@@ -57,7 +57,7 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Dec) | 0.4% |  | 0.5% |
 | 16:00 | CAD | Budget Balance (Nov) | -8.21B |  | -1.49B |
 | 16:00 | CAD | Budget Balance (YoY) (Nov) | -22.72B |  | -14.50B |
-| 53 min | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
+| 17:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 16.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 392.9K |
