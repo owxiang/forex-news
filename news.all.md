@@ -13,8 +13,8 @@
 | 05:00 | JPY | Low | Construction Orders (YoY) (Dec) | 8.1% |  | -10.2% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Dec) | -2.5% | -3.7% | -1.8% |
 | 05:00 | SGD | Low | Business Expectations (Q4) | 7.00 |  | 10.00 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) | 4.1% | 4.3% | 4.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) | 0.1% | 0.3% | 0.7% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Dec) | 1.8% | 2.5% | 2.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) | -1.6% | 0.0% | -0.1% |
 | 07:00 | NOK | Low | Unemployment Change (Jan) | 77.47K |  | 78.40K |
@@ -22,10 +22,10 @@
 | 07:30 | CHF | Low | Retail Sales (YoY) (Dec) | 2.6% | 0.6% | 1.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.4% | 1.5% | 1.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.1% | 0.0% | 0.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.9% | 1.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | 0.0% | 0.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Dec) | 1.0% |  | 3.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.9% | 1.8% |
 | 07:45 | EUR | Low | PPI (YoY) (Dec) | -3.80% |  | -4.70% |
+| 07:45 | EUR | Low | French PPI (MoM) (Dec) | 1.0% |  | 3.7% |
 | 08:00 | CHF | Low | Official Reserves Assets (Dec) | 822.6B |  | 815.5B |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) | 4.0% | 0.5% | 0.9% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jan) | 11K | 14K | 10K |
@@ -34,20 +34,20 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jan) | 2.993M |  | 2.807M |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) | -0.2% |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jan) | 2.5% |  | 3.0% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jan) | -0.3% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) | 2.3% |  | 2.4% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jan) | 0.1% |  | 0.4% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jan) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) | 2.0% |  | 2.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) | -0.1% |  | 0.5% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jan) | 2.4% |  | 3.2% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jan) | -0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Nov) | 1.26B |  | 4.93B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Feb) | 300.0M |  | 250.0M |
-| 10:00 | EUR | Low | Italian PPI (MoM) (Dec) | 0.6% |  | 1.2% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Dec) | 1.1% |  | -0.5% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (Dec) | 0.6% |  | 1.2% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Dec) | 9,140.89B |  | 8,465.94B |
 | 11:30 | INR | Low | Bank Loan Growth | 11.5% |  | 11.2% |
 | 11:30 | INR | Low | Deposit Growth | 10.8% |  | 9.8% |
@@ -62,10 +62,10 @@
 | 12:00 | ZAR | Low | Trade Balance (Dec) | 15.46B |  | 34.03B |
 | 13:00 | EUR | High | German CPI (MoM) (Jan) | -0.2% | 0.1% | 0.5% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.6% | 2.6% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Dec) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Dec) | 2.8% | 2.8% | 2.8% |
 | 13:30 | USD | Low | Employment Benefits (QoQ) (Q4) | 0.80% |  | 0.80% |
 | 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q4) | 0.9% | 0.9% | 0.8% |
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q4) | 0.90% |  | 0.80% |
@@ -78,8 +78,8 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Nov) | -0.2% | -0.1% | 0.3% |
 | 14:45 | USD | High | Chicago PMI (Jan) | 39.5 | 40.3 | 36.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.9% |  |  |
-| 16:00 | CAD | Low | Budget Balance (Nov) | -8.21B |  | -1.49B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Nov) | -22.72B |  | -14.50B |
+| 16:00 | CAD | Low | Budget Balance (Nov) | -8.21B |  | -1.49B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 |  | 472 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 582 |  | 576 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | -21.7K |  | -8.3K |
