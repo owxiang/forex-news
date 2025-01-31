@@ -20,7 +20,7 @@
 | 13:30 | USD | PCE price index (MoM) (Dec) | 0.3% | 0.3% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (Dec) | 0.7% | 0.5% | 0.6% |
 | 13:30 | CAD | GDP (MoM) (Nov) | -0.2% | -0.1% | 0.3% |
-| 24 min | USD | Atlanta Fed GDPNow (Q1) |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.9% |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 472 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 576 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -8.3K |
