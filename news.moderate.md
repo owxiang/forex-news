@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | INR | Indian Union Budget |  |  |  |
+| 54 min | INR | Indian Union Budget |  |  |  |
