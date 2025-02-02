@@ -1,7 +1,10 @@
-## 01 February 2025 - Low Impact Forex News
+## 02 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Exports (YoY) (Jan) | -10.3% | -13.5% | 6.6% |
-| 00:00 | KRW | Imports (YoY) (Jan) | -6.4% | -9.9% | 3.3% |
-| 00:00 | KRW | Trade Balance (Jan) | -1.89B | -1.28B | 6.49B |
+| 22:00 | AUD | Judo Bank Manufacturing PMI |  |  | 47.8 |
+| 23:00 | KRW | Industrial Production (YoY) (Dec) |  | 0.7% | 0.1% |
+| 23:00 | KRW | Industrial Production (MoM) (Dec) |  | 0.4% | -0.7% |
+| 23:00 | KRW | Retail Sales (MoM) (Dec) |  |  | 0.4% |
+| 23:00 | KRW | Service Sector Output (MoM) (Dec) |  |  | -0.2% |
+| 23:50 | JPY | BoJ Summary of Opinions |  |  |  |

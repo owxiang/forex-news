@@ -1,8 +1,10 @@
-## 01 February 2025 - All Forex News
+## 02 February 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Exports (YoY) (Jan) | -10.3% | -13.5% | 6.6% |
-| 00:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -9.9% | 3.3% |
-| 00:00 | KRW | Low | Trade Balance (Jan) | -1.89B | -1.28B | 6.49B |
-| 06:00 | INR | Moderate | Indian Union Budget |  |  |  |
+| 22:00 | AUD | Low | Judo Bank Manufacturing PMI |  |  | 47.8 |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | 0.7% | 0.1% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.4% | -0.7% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Dec) |  |  | 0.4% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Dec) |  |  | -0.2% |
+| 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
