@@ -33,26 +33,26 @@
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.5% |  | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.6% | 2.7% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -1.0% |  | 0.5% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.6% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.3% |  | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) | 126.71 |  | 127.07 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.7% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.7% |  | 0.3% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jan) | 5.30% |  | 28.80% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jan) | -31.30% |  | 26.40% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jan) | 5.30% |  | 28.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20 min | ZAR | Low | Total Vehicle Sales (YoY) (Jan) |  |  | 2.10% |
-| 20 min | ZAR | Low | Total Vehicle Sales (Jan) |  |  | 41.09K |
-| 50 min | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 50.4 |
-| 50 min | SGD | Low | S&P Global Manufacturing PMI (Jan) |  |  | 51.1 |
-| 14:00 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.80% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.407% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.608% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.508% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 10.40% |  | 2.10% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) | 50.7 |  | 50.4 |
+| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Jan) | 50.9 |  | 51.1 |
+| 51 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.80% |
+| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.407% |
+| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.608% |
+| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.508% |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jan) |  |  | 52.2 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) |  | 50.1 | 49.4 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.3% | 0.0% |
