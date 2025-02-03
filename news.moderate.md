@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Dec) | 0.7% | 0.9% | -3.4% |
 | 00:30 | AUD | Retail Sales (MoM) (Dec) | -0.1% | -0.7% | 0.8% |
-| 12 min | CNY | Caixin Manufacturing PMI (Jan) |  | 50.6 | 50.5 |
+| 01:45 | CNY | Caixin Manufacturing PMI (Jan) | 50.1 | 50.6 | 50.5 |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jan) |  | 53.5 | 53.3 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Jan) |  | 49.0 | 48.4 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jan) |  | 46.8 | 46.2 |
