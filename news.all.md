@@ -16,8 +16,8 @@
 | 04:00 | IDR | Low | Core Inflation (YoY) (Jan) | 2.36% | 2.30% | 2.26% |
 | 04:00 | IDR | Low | Inflation (YoY) (Jan) | 0.76% | 1.88% | 1.57% |
 | 04:00 | IDR | Low | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  | 58.0 | 56.4 |
-| 23 min | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
+| 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 53.5 | 53.3 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jan) |  | 49.0 | 48.4 |
 | 08:30 | HKD | Low | GDP (YoY) (Q4) |  |  | 1.8% |
@@ -31,8 +31,8 @@
 | 09:00 | ZAR | Low | Manufacturing PMI (Jan) |  |  | 46.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 48.2 | 47.0 |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jan) |  |  | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jan) |  |  | 1.4% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |

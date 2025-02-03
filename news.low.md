@@ -13,15 +13,15 @@
 | 04:00 | IDR | Core Inflation (YoY) (Jan) | 2.36% | 2.30% | 2.26% |
 | 04:00 | IDR | Inflation (YoY) (Jan) | 0.76% | 1.88% | 1.57% |
 | 04:00 | IDR | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
-| 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  | 58.0 | 56.4 |
-| 23 min | AUD | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
+| 05:00 | INR | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
+| 05:30 | AUD | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
 | 08:30 | HKD | GDP (YoY) (Q4) |  |  | 1.8% |
 | 08:30 | HKD | GDP (QoQ) (Q4) |  |  | -1.1% |
 | 08:30 | HKD | Retail Sales (YoY) (Dec) |  |  | -7.3% |
 | 09:00 | NOK | Manufacturing PMI (Jan) |  |  | 50.3 |
 | 09:00 | ZAR | Manufacturing PMI (Jan) |  |  | 46.2 |
-| 10:00 | EUR | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Jan) |  |  | 0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Jan) |  |  | 1.4% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
