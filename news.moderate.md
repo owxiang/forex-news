@@ -11,10 +11,10 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jan) | 45.0 | 45.3 | 41.9 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Jan) | 45.0 | 44.1 | 42.5 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) | 46.6 | 46.1 | 45.1 |
-| 23 min | GBP | S&P Global Manufacturing PMI (Jan) |  | 48.2 | 47.0 |
-| 53 min | USD | OPEC Meeting |  |  |  |
-| 53 min | EUR | Core CPI (YoY) (Jan) |  | 2.6% | 2.7% |
-| 53 min | EUR | CPI (MoM) (Jan) |  |  | 0.4% |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jan) | 48.3 | 48.2 | 47.0 |
+| 10:00 | USD | OPEC Meeting |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Jan) | 2.7% | 2.6% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Jan) | -0.3% |  | 0.4% |
 | 15:00 | USD | Construction Spending (MoM) (Dec) |  | 0.3% | 0.0% |
 | 15:00 | USD | ISM Manufacturing Employment (Jan) |  |  | 45.4 |
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
