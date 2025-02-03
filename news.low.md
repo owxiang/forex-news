@@ -11,8 +11,8 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 48.7 | 48.8 | 49.6 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Jan) | 51.9 |  | 51.2 |
 | 04:00 | IDR | Core Inflation (YoY) (Jan) | 2.36% | 2.30% | 2.26% |
-| 04:00 | IDR | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 04:00 | IDR | Inflation (YoY) (Jan) | 0.76% | 1.88% | 1.57% |
+| 04:00 | IDR | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
 | 08:30 | HKD | GDP (QoQ) (Q4) | 0.8% |  | -0.1% |
@@ -31,8 +31,8 @@
 | 11:00 | EUR | Car Registration (YoY) (Jan) | 5.30% |  | 28.80% |
 | 11:00 | EUR | Car Registration (MoM) (Jan) | -31.30% |  | 26.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | 10.40% |  | 2.10% |
+| 12:00 | ZAR | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Jan) | 50.7 |  | 50.4 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Jan) | 50.9 |  | 51.1 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.218% |  | 2.407% |
@@ -43,6 +43,6 @@
 | 16:30 | USD | 3-Month Bill Auction | 4.220% |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction | 4.155% |  | 4.140% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jan) | -5.9% |  | -4.9% |
-| 53 min | USD | Loan Officer Survey |  |  |  |
+| 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |
