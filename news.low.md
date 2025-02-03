@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | 0.6% |
-| 4 min | KRW | S&P Global South Korea Manufacturing PMI (Jan) |  |  | 49.0 |
-| 4 min | AUD | ANZ Job Advertisements (MoM) (Jan) |  |  | 0.3% |
-| 4 min | AUD | Building Approvals (YoY) (Dec) |  |  | 6.00% |
-| 4 min | AUD | Private House Approvals (Dec) |  |  | -1.7% |
-| 4 min | AUD | Retail Sales (QoQ) (Q4) |  |  | 0.5% |
-| 4 min | JPY | au Jibun Bank Manufacturing PMI (Jan) |  | 48.8 | 49.6 |
-| 4 min | IDR | S&P Global Manufacturing PMI (Jan) |  |  | 51.2 |
+| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Jan) | 50.3 |  | 49.0 |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Jan) | 0.2% |  | 0.3% |
+| 00:30 | AUD | Building Approvals (YoY) (Dec) | 5.60% |  | 7.10% |
+| 00:30 | AUD | Private House Approvals (Dec) | -3.0% |  | -1.7% |
+| 00:30 | AUD | Retail Sales (QoQ) (Q4) | 1.0% |  | 0.5% |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 48.7 | 48.8 | 49.6 |
+| 00:30 | IDR | S&P Global Manufacturing PMI (Jan) | 51.9 |  | 51.2 |
 | 04:00 | IDR | Core Inflation (YoY) (Jan) |  | 2.30% | 2.26% |
-| 04:00 | IDR | Inflation (MoM) (Jan) |  | 0.32% | 0.44% |
 | 04:00 | IDR | Inflation (YoY) (Jan) |  | 1.88% | 1.57% |
+| 04:00 | IDR | Inflation (MoM) (Jan) |  | 0.32% | 0.44% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) |  | 58.0 | 56.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 08:30 | HKD | GDP (YoY) (Q4) |  |  | 1.8% |
@@ -22,16 +22,16 @@
 | 09:00 | ZAR | Manufacturing PMI (Jan) |  |  | 46.2 |
 | 10:00 | EUR | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Jan) |  |  | 1.4% |
 | 10:00 | EUR | Italian HICP (MoM) (Jan) |  |  | 0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Jan) |  |  | 1.4% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 10:00 | NOK | House Price Index (YoY) (Jan) |  |  | 6.40% |
 | 10:00 | EUR | Core CPI (MoM) (Jan) |  |  | 0.5% |
 | 10:00 | EUR | CPI, n.s.a (Jan) |  |  | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
-| 11:00 | EUR | Car Registration (MoM) (Jan) |  |  | 26.40% |
 | 11:00 | EUR | Car Registration (YoY) (Jan) |  |  | 28.80% |
+| 11:00 | EUR | Car Registration (MoM) (Jan) |  |  | 26.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 12:30 | ZAR | Total Vehicle Sales (Jan) |  |  | 41.09K |
