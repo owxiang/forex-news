@@ -28,14 +28,13 @@
 | 10:00 | EUR | CPI, n.s.a (Jan) | 126.71 |  | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.7% |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.7% |  | 0.3% |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 54 min | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
-| 54 min | EUR | Car Registration (YoY) (Jan) |  |  | 28.80% |
-| 54 min | EUR | Car Registration (MoM) (Jan) |  |  | 26.40% |
-| 12:30 | ZAR | Total Vehicle Sales (Jan) |  |  | 41.09K |
-| 12:30 | ZAR | Total Vehicle Sales (YoY) (Jan) |  |  | 2.10% |
-| 13:00 | BRL | S&P Global Manufacturing PMI (Jan) |  |  | 50.4 |
-| 13:00 | SGD | S&P Global Manufacturing PMI (Jan) |  |  | 51.1 |
+| 11:00 | EUR | Car Registration (YoY) (Jan) | 5.30% |  | 28.80% |
+| 11:00 | EUR | Car Registration (MoM) (Jan) | -31.30% |  | 26.40% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20 min | ZAR | Total Vehicle Sales (YoY) (Jan) |  |  | 2.10% |
+| 20 min | ZAR | Total Vehicle Sales (Jan) |  |  | 41.09K |
+| 50 min | BRL | S&P Global Manufacturing PMI (Jan) |  |  | 50.4 |
+| 50 min | SGD | S&P Global Manufacturing PMI (Jan) |  |  | 51.1 |
 | 14:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.80% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.407% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.608% |
