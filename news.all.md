@@ -33,10 +33,10 @@
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.5% |  | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.6% | 2.7% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -1.0% |  | 0.5% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.6% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.3% |  | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) | 126.71 |  | 127.07 |
@@ -52,13 +52,13 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.218% |  | 2.407% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.496% |  | 2.608% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.395% |  | 2.508% |
-| 24 min | CAD | Low | S&P Global Manufacturing PMI (Jan) |  |  | 52.2 |
-| 39 min | USD | High | S&P Global Manufacturing PMI (Jan) |  | 50.1 | 49.4 |
-| 54 min | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.3% | 0.0% |
-| 54 min | USD | Moderate | ISM Manufacturing Employment (Jan) |  |  | 45.4 |
-| 54 min | USD | Low | ISM Manufacturing New Orders Index (Jan) |  |  | 52.1 |
-| 54 min | USD | High | ISM Manufacturing PMI (Jan) |  | 49.3 | 49.2 |
-| 54 min | USD | High | ISM Manufacturing Prices (Jan) |  | 52.6 | 52.5 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jan) | 51.6 |  | 52.2 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) | 51.2 | 50.1 | 49.4 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.5% | 0.3% | 0.2% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jan) | 50.3 |  | 45.4 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) | 55.1 |  | 52.1 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Jan) | 50.9 | 49.3 | 49.2 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Jan) | 54.9 | 52.6 | 52.5 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.140% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
