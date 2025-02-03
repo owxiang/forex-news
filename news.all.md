@@ -13,9 +13,9 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jan) | 48.7 | 48.8 | 49.6 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Jan) | 51.9 |  | 51.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) | 50.1 | 50.6 | 50.5 |
-| 04:00 | IDR | Low | Core Inflation (YoY) (Jan) |  | 2.30% | 2.26% |
-| 04:00 | IDR | Low | Inflation (MoM) (Jan) |  | 0.32% | 0.44% |
-| 04:00 | IDR | Low | Inflation (YoY) (Jan) |  | 1.88% | 1.57% |
+| 51 min | IDR | Low | Core Inflation (YoY) (Jan) |  | 2.30% | 2.26% |
+| 51 min | IDR | Low | Inflation (YoY) (Jan) |  | 1.88% | 1.57% |
+| 51 min | IDR | Low | Inflation (MoM) (Jan) |  | 0.32% | 0.44% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) |  | 58.0 | 56.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 53.5 | 53.3 |
@@ -31,8 +31,8 @@
 | 09:00 | ZAR | Low | Manufacturing PMI (Jan) |  |  | 46.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 48.2 | 47.0 |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jan) |  |  | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jan) |  |  | 1.4% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
@@ -44,8 +44,8 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) |  |  | 127.07 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 26.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 28.80% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 26.40% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Jan) |  |  | 41.09K |
