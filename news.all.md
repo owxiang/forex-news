@@ -31,8 +31,8 @@
 | 09:00 | ZAR | Low | Manufacturing PMI (Jan) |  |  | 46.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 48.2 | 47.0 |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  |  | 1.3% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jan) |  |  | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jan) |  |  | 1.4% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
@@ -44,8 +44,8 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) |  |  | 127.07 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 28.80% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 26.40% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 28.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Jan) |  |  | 41.09K |
