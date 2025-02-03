@@ -15,15 +15,15 @@
 | 04:00 | IDR | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
-| 08:30 | HKD | GDP (QoQ) (Q4) | 0.8% |  | -0.1% |
 | 08:30 | HKD | GDP (YoY) (Q4) | 2.4% |  | 1.9% |
+| 08:30 | HKD | GDP (QoQ) (Q4) | 0.8% |  | -0.1% |
 | 08:30 | HKD | Retail Sales (YoY) (Dec) | -9.7% |  | -7.3% |
 | 09:00 | NOK | Manufacturing PMI (Jan) | 51.2 |  | 50.4 |
 | 09:00 | ZAR | Manufacturing PMI (Jan) | 45.3 |  | 46.2 |
-| 10:00 | EUR | Italian CPI (YoY) (Jan) | 1.5% |  | 1.3% |
 | 10:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Jan) | 1.5% |  | 1.3% |
 | 10:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
+| 10:00 | EUR | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
 | 10:00 | EUR | Core CPI (MoM) (Jan) | -1.0% |  | 0.5% |
 | 10:00 | EUR | CPI, n.s.a (Jan) | 126.71 |  | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.7% |  | 2.7% |
