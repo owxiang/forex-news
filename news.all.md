@@ -65,5 +65,5 @@
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.9% |  | -4.9% |
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 40 min | NZD | Low | Building Consents (MoM) (Dec) |  |  | 5.3% |
+| 21:45 | NZD | Low | Building Consents (MoM) (Dec) | -5.6% |  | 4.9% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |
