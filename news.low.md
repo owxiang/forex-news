@@ -15,13 +15,13 @@
 | 04:00 | IDR | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
-| 08:30 | HKD | GDP (YoY) (Q4) |  |  | 1.8% |
-| 08:30 | HKD | GDP (QoQ) (Q4) |  |  | -1.1% |
-| 08:30 | HKD | Retail Sales (YoY) (Dec) |  |  | -7.3% |
-| 09:00 | NOK | Manufacturing PMI (Jan) |  |  | 50.3 |
-| 09:00 | ZAR | Manufacturing PMI (Jan) |  |  | 46.2 |
-| 10:00 | EUR | Italian CPI (YoY) (Jan) |  |  | 1.3% |
+| 22 min | HKD | GDP (YoY) (Q4) |  |  | 1.8% |
+| 22 min | HKD | GDP (QoQ) (Q4) |  |  | -1.1% |
+| 22 min | HKD | Retail Sales (YoY) (Dec) |  |  | -7.3% |
+| 52 min | NOK | Manufacturing PMI (Jan) |  |  | 50.3 |
+| 52 min | ZAR | Manufacturing PMI (Jan) |  |  | 46.2 |
 | 10:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Jan) |  |  | 1.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Jan) |  |  | 0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Jan) |  |  | 1.4% |
 | 10:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | CPI, n.s.a (Jan) |  |  | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
-| 11:00 | EUR | Car Registration (MoM) (Jan) |  |  | 26.40% |
 | 11:00 | EUR | Car Registration (YoY) (Jan) |  |  | 28.80% |
+| 11:00 | EUR | Car Registration (MoM) (Jan) |  |  | 26.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 12:30 | ZAR | Total Vehicle Sales (Jan) |  |  | 41.09K |
