@@ -55,13 +55,13 @@
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jan) | 51.6 |  | 52.2 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jan) | 51.2 | 50.1 | 49.4 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.5% | 0.3% | 0.2% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jan) | 50.3 |  | 45.4 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) | 55.1 |  | 52.1 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jan) | 50.3 | 47.8 | 45.4 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) | 55.1 | 52.0 | 52.1 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Jan) | 50.9 | 49.3 | 49.2 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Jan) | 54.9 | 52.6 | 52.5 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.140% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.140% |
+| 53 min | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |

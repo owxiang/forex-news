@@ -16,6 +16,6 @@
 | 10:00 | EUR | Core CPI (YoY) (Jan) | 2.7% | 2.6% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Jan) | -0.3% |  | 0.4% |
 | 15:00 | USD | Construction Spending (MoM) (Dec) | 0.5% | 0.3% | 0.2% |
-| 15:00 | USD | ISM Manufacturing Employment (Jan) | 50.3 |  | 45.4 |
+| 15:00 | USD | ISM Manufacturing Employment (Jan) | 50.3 | 47.8 | 45.4 |
 | 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |

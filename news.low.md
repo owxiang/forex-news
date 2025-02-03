@@ -39,10 +39,10 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.496% |  | 2.608% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.395% |  | 2.508% |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Jan) | 51.6 |  | 52.2 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jan) | 55.1 |  | 52.1 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.195% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.140% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jan) | 55.1 | 52.0 | 52.1 |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.195% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.140% |
+| 53 min | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |
