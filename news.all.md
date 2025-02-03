@@ -18,34 +18,34 @@
 | 04:00 | IDR | Low | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
-| 7 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 53.5 | 53.3 |
-| 22 min | CHF | Moderate | procure.ch Manufacturing PMI (Jan) |  | 49.0 | 48.4 |
-| 22 min | HKD | Low | GDP (YoY) (Q4) |  |  | 1.8% |
-| 22 min | HKD | Low | GDP (QoQ) (Q4) |  |  | -1.1% |
-| 22 min | HKD | Low | Retail Sales (YoY) (Dec) |  |  | -7.3% |
-| 37 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) |  | 46.8 | 46.2 |
-| 42 min | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 45.3 | 41.9 |
-| 47 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 44.1 | 42.5 |
-| 52 min | NOK | Low | Manufacturing PMI (Jan) |  |  | 50.3 |
-| 52 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 46.1 | 45.1 |
-| 52 min | ZAR | Low | Manufacturing PMI (Jan) |  |  | 46.2 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 48.2 | 47.0 |
-| 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jan) |  |  | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jan) |  |  | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jan) |  |  | 1.4% |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.6% | 2.7% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Jan) |  | 2.4% | 2.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.4% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jan) |  |  | 127.07 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.7% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 28.80% |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) | 50.9 | 53.5 | 53.3 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jan) | 47.5 | 49.0 | 48.4 |
+| 08:30 | HKD | Low | GDP (YoY) (Q4) | 2.4% |  | 1.8% |
+| 08:30 | HKD | Low | GDP (QoQ) (Q4) | 0.8% |  | -1.1% |
+| 08:30 | HKD | Low | Retail Sales (YoY) (Dec) | -9.7% |  | -7.3% |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) | 46.3 | 46.8 | 46.2 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) | 45.0 | 45.3 | 41.9 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) | 45.0 | 44.1 | 42.5 |
+| 09:00 | NOK | Low | Manufacturing PMI (Jan) | 51.2 |  | 50.4 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) | 46.6 | 46.1 | 45.1 |
+| 09:00 | ZAR | Low | Manufacturing PMI (Jan) | 45.3 |  | 46.2 |
+| 23 min | GBP | Moderate | S&P Global Manufacturing PMI (Jan) |  | 48.2 | 47.0 |
+| 53 min | USD | Moderate | OPEC Meeting |  |  |  |
+| 53 min | EUR | Low | Italian CPI (YoY) (Jan) |  |  | 1.3% |
+| 53 min | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.4% | 0.1% |
+| 53 min | EUR | Low | Italian HICP (MoM) (Jan) |  |  | 0.1% |
+| 53 min | EUR | Low | Italian HICP (YoY) (Jan) |  |  | 1.4% |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 53 min | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
+| 53 min | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.6% | 2.7% |
+| 53 min | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
+| 53 min | EUR | High | CPI (YoY) (Jan) |  | 2.4% | 2.4% |
+| 53 min | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.4% |
+| 53 min | EUR | Low | CPI, n.s.a (Jan) |  |  | 127.07 |
+| 53 min | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 2.7% |
+| 53 min | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 26.40% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 28.80% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Jan) |  |  | 41.09K |
