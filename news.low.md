@@ -22,8 +22,8 @@
 | 09:00 | ZAR | Manufacturing PMI (Jan) | 45.3 |  | 46.2 |
 | 10:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Jan) | 1.5% |  | 1.3% |
-| 10:00 | EUR | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
+| 10:00 | EUR | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
 | 10:00 | EUR | Core CPI (MoM) (Jan) | -1.0% |  | 0.5% |
 | 10:00 | EUR | CPI, n.s.a (Jan) | 126.71 |  | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.7% |  | 2.7% |
@@ -35,12 +35,11 @@
 | 12:00 | ZAR | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Jan) | 50.7 |  | 50.4 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Jan) | 50.9 |  | 51.1 |
-| 51 min | USD | Dallas Fed PCE (Dec) |  |  | 1.80% |
-| 51 min | EUR | French 12-Month BTF Auction |  |  | 2.407% |
-| 51 min | EUR | French 3-Month BTF Auction |  |  | 2.608% |
-| 51 min | EUR | French 6-Month BTF Auction |  |  | 2.508% |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Jan) |  |  | 52.2 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 52.1 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.218% |  | 2.407% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.496% |  | 2.608% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.395% |  | 2.508% |
+| 24 min | CAD | S&P Global Manufacturing PMI (Jan) |  |  | 52.2 |
+| 54 min | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 52.1 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.140% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
