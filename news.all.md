@@ -63,7 +63,7 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.155% |  | 4.140% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.9% | 2.9% | 2.9% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.9% |  | -4.9% |
-| 24 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 53 min | USD | Low | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Low | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |

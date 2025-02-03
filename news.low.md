@@ -43,6 +43,6 @@
 | 16:30 | USD | 3-Month Bill Auction | 4.220% |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction | 4.155% |  | 4.140% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jan) | -5.9% |  | -4.9% |
-| 19:00 | USD | Loan Officer Survey |  |  |  |
+| 53 min | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Dec) |  |  | 5.3% |
 | 23:50 | JPY | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |

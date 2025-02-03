@@ -18,4 +18,4 @@
 | 15:00 | USD | Construction Spending (MoM) (Dec) | 0.5% | 0.3% | 0.2% |
 | 15:00 | USD | ISM Manufacturing Employment (Jan) | 50.3 | 47.8 | 45.4 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q1) | 3.9% | 2.9% | 2.9% |
-| 24 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:30 | USD | FOMC Member Bostic Speaks |  |  |  |
