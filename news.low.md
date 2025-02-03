@@ -11,8 +11,8 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Jan) | 48.7 | 48.8 | 49.6 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Jan) | 51.9 |  | 51.2 |
 | 04:00 | IDR | Core Inflation (YoY) (Jan) | 2.36% | 2.30% | 2.26% |
-| 04:00 | IDR | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 04:00 | IDR | Inflation (YoY) (Jan) | 0.76% | 1.88% | 1.57% |
+| 04:00 | IDR | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
 | 05:30 | AUD | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
 | 08:30 | HKD | GDP (YoY) (Q4) | 2.4% |  | 1.9% |
@@ -20,19 +20,19 @@
 | 08:30 | HKD | Retail Sales (YoY) (Dec) | -9.7% |  | -7.3% |
 | 09:00 | NOK | Manufacturing PMI (Jan) | 51.2 |  | 50.4 |
 | 09:00 | ZAR | Manufacturing PMI (Jan) | 45.3 |  | 46.2 |
-| 10:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Jan) | 1.5% |  | 1.3% |
-| 10:00 | EUR | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
+| 10:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
+| 10:00 | EUR | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
 | 10:00 | EUR | Core CPI (MoM) (Jan) | -1.0% |  | 0.5% |
 | 10:00 | EUR | CPI, n.s.a (Jan) | 126.71 |  | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.7% |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.7% |  | 0.3% |
-| 11:00 | EUR | Car Registration (MoM) (Jan) | -31.30% |  | 26.40% |
 | 11:00 | EUR | Car Registration (YoY) (Jan) | 5.30% |  | 28.80% |
+| 11:00 | EUR | Car Registration (MoM) (Jan) | -31.30% |  | 26.40% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | 10.40% |  | 2.10% |
+| 12:00 | ZAR | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Jan) | 50.7 |  | 50.4 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Jan) | 50.9 |  | 51.1 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.218% |  | 2.407% |
@@ -45,4 +45,4 @@
 | 17:00 | EUR | Italian Car Registration (YoY) (Jan) | -5.9% |  | -4.9% |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Building Consents (MoM) (Dec) | -5.6% |  | 4.9% |
-| 23:50 | JPY | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |
+| 44 min | JPY | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |

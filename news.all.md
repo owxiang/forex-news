@@ -14,8 +14,8 @@
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Jan) | 51.9 |  | 51.2 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) | 50.1 | 50.6 | 50.5 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Jan) | 2.36% | 2.30% | 2.26% |
-| 04:00 | IDR | Low | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 04:00 | IDR | Low | Inflation (YoY) (Jan) | 0.76% | 1.88% | 1.57% |
+| 04:00 | IDR | Low | Inflation (MoM) (Jan) | -0.76% | 0.32% | 0.44% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Jan) | 57.7 | 58.0 | 56.4 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Jan) | -11.9% |  | -10.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) | 50.9 | 53.5 | 53.3 |
@@ -31,22 +31,22 @@
 | 09:00 | ZAR | Low | Manufacturing PMI (Jan) | 45.3 |  | 46.2 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jan) | 48.3 | 48.2 | 47.0 |
 | 10:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.5% |  | 1.3% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.4% | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% |  | 1.4% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.7% |  | 0.1% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -1.0% |  | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.6% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.3% |  | 0.4% |
+| 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) | 126.71 |  | 127.07 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.7% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.7% |  | 0.3% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jan) | -31.30% |  | 26.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jan) | 5.30% |  | 28.80% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jan) | -31.30% |  | 26.40% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | 10.40% |  | 2.10% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Jan) | 46.40K |  | 41.09K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) | 50.7 |  | 50.4 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Jan) | 50.9 |  | 51.1 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.218% |  | 2.407% |
@@ -66,4 +66,4 @@
 | 17:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 21:45 | NZD | Low | Building Consents (MoM) (Dec) | -5.6% |  | 4.9% |
-| 23:50 | JPY | Low | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |
+| 44 min | JPY | Low | Monetary Base (YoY) (Jan) |  | -0.5% | -0.9% |
