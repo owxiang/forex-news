@@ -7,5 +7,5 @@
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) | 0.24% |  | 0.34% |
 | 15:00 | USD | Factory Orders (MoM) (Dec) | -0.9% | -0.7% | -0.8% |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 8 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:15 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 3.170M | 2.860M |
