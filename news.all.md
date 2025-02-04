@@ -32,11 +32,11 @@
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 0.6% | 0.6% | 0.6% |
 | 21:45 | NZD | Low | Participation Rate (Q4) | 71.00% | 71.10% | 71.10% |
 | 21:45 | NZD | Low | Unemployment Rate (Q4) | 5.1% | 5.1% | 4.8% |
-| 22:00 | AUD | Low | AIG Construction Index (Jan) | -20.0 |  | -19.0 |
+| 22:00 | AUD | Low | AIG Construction Index (Dec) | -20.0 |  | -19.0 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Dec) | -22.7 |  | -17.9 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
-| 54 min | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
-| 54 min | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
-| 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.6% | 3.0% |
-| 23:30 | JPY | Low | Overall wage income of employees (Dec) |  |  | 3.9% |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) | 51.2 | 50.4 | 50.8 |
+| 23:00 | KRW | Low | CPI (MoM) (Jan) | 0.7% | 0.4% | 0.4% |
+| 23:00 | KRW | Low | CPI (YoY) (Jan) | 2.2% | 2.0% | 1.9% |
+| 24 min | JPY | Low | Average Cash Earnings (YoY) |  | 3.6% | 3.0% |
+| 24 min | JPY | Low | Overall wage income of employees (Dec) |  |  | 3.9% |
+| 24 min | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
