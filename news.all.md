@@ -6,9 +6,9 @@
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) | -156.3B |  | -172.5B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jan) | 38.7K | 45.4K | -25.3K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) | 0.24% |  | 0.34% |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.367% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.535% |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.490% |
+| 34 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.367% |
+| 34 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.535% |
+| 54 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.490% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | 1.23% |
@@ -32,8 +32,8 @@
 | 21:45 | NZD | Low | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
+| 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
 | 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.6% | 3.0% |
 | 23:30 | JPY | Low | Overall wage income of employees (Dec) |  |  | 3.9% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
