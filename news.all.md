@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.260% |  | 1.140% |
-| 07:45 | EUR | Low | French Government Budget Balance (Dec) |  |  | -172.5B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jan) |  | 45.4K | -25.3K |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.34% |
+| 39 min | EUR | Low | French Government Budget Balance (Dec) |  |  | -172.5B |
+| 54 min | EUR | Moderate | Spanish Unemployment Change (Jan) |  | 45.4K | -25.3K |
+| 54 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.34% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.367% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.535% |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.490% |
@@ -27,8 +27,8 @@
 | 21:00 | KRW | Low | FX Reserves - USD (Jan) |  |  | 415.60B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.860M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | -0.2% | -0.5% |
-| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 21:45 | NZD | Low | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |

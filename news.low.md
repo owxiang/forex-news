@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | French Government Budget Balance (Dec) |  |  | -172.5B |
+| 39 min | EUR | French Government Budget Balance (Dec) |  |  | -172.5B |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.367% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.535% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.490% |
@@ -19,8 +19,8 @@
 | 15:10 | USD | IBD/TIPP Economic Optimism (Feb) |  | 53.0 | 51.9 |
 | 21:00 | KRW | FX Reserves - USD (Jan) |  |  | 415.60B |
 | 21:45 | NZD | Employment Change (QoQ) (Q4) |  | -0.2% | -0.5% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 21:45 | NZD | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
+| 21:45 | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 21:45 | NZD | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
 | 22:00 | AUD | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
