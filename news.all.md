@@ -19,7 +19,7 @@
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | 0.3% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Dec) |  | -0.7% | -0.4% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
-| 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 7.880M | 8.098M |
+| 15:00 | USD | High | JOLTS Job Openings (Dec) |  | 8.010M | 8.098M |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) |  |  | 49.80 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 53.0 | 51.9 |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
@@ -27,13 +27,13 @@
 | 21:00 | KRW | Low | FX Reserves - USD (Jan) |  |  | 415.60B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.860M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | -0.2% | -0.5% |
-| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
 | 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
+| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
 | 21:45 | NZD | Low | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
 | 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
 | 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
-| 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.8% | 3.0% |
+| 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.6% | 3.0% |
 | 23:30 | JPY | Low | Overall wage income of employees (Dec) |  |  | 3.9% |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.40% |
+| 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
