@@ -11,7 +11,7 @@
 | 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 2.221% |  | 2.367% |
 | 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 2.355% |  | 2.535% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | 1.23% |
+| 12:00 | BRL | Low | Brazilian PPI (MoM) (Dec) | 1.48% |  | 1.25% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.4% |
 | 14:00 | USD | Low | Milk Auctions |  |  | 4,146.0 |
@@ -32,8 +32,8 @@
 | 21:45 | NZD | Low | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
+| 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
 | 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.6% | 3.0% |
 | 23:30 | JPY | Low | Overall wage income of employees (Dec) |  |  | 3.9% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
