@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 28 min | JPY | 10-Year JGB Auction |  |  | 1.140% |
+| 03:35 | JPY | 10-Year JGB Auction | 1.260% |  | 1.140% |
 | 08:00 | EUR | Spanish Unemployment Change (Jan) |  | 45.4K | -25.3K |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.34% |
 | 15:00 | USD | Factory Orders (MoM) (Dec) |  | -0.7% | -0.4% |

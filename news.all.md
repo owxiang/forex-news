@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 28 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.140% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.260% |  | 1.140% |
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) |  |  | -172.5B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jan) |  | 45.4K | -25.3K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.34% |
@@ -32,8 +32,8 @@
 | 21:45 | NZD | Low | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
+| 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
 | 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.8% | 3.0% |
 | 23:30 | JPY | Low | Overall wage income of employees (Dec) |  |  | 3.9% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.40% |
