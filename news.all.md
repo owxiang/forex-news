@@ -26,17 +26,17 @@
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Jan) | 411.00B |  | 415.60B |
-| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | 3.170M | 2.860M |
-| 40 min | NZD | Low | Employment Change (QoQ) (Q4) |  | -0.2% | -0.5% |
-| 40 min | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
-| 40 min | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
-| 40 min | NZD | Low | Participation Rate (Q4) |  | 71.10% | 71.20% |
-| 40 min | NZD | Low | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
-| 55 min | AUD | Low | AIG Construction Index (Jan) |  |  | -19.0 |
-| 55 min | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
-| 55 min | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
-| 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
-| 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 5.025M | 3.170M | 2.860M |
+| 21:45 | NZD | Low | Employment Change (QoQ) (Q4) | -0.1% | -0.2% | -0.5% |
+| 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) | 2.9% | 3.0% | 3.4% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 0.6% | 0.6% | 0.6% |
+| 21:45 | NZD | Low | Participation Rate (Q4) | 71.00% | 71.10% | 71.10% |
+| 21:45 | NZD | Low | Unemployment Rate (Q4) | 5.1% | 5.1% | 4.8% |
+| 22:00 | AUD | Low | AIG Construction Index (Jan) | -20.0 |  | -19.0 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Dec) | -22.7 |  | -17.9 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
+| 54 min | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
+| 54 min | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
 | 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 3.6% | 3.0% |
 | 23:30 | JPY | Low | Overall wage income of employees (Dec) |  |  | 3.9% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
