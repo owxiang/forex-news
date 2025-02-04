@@ -8,4 +8,4 @@
 | 15:00 | USD | Factory Orders (MoM) (Dec) |  | -0.7% | -0.4% |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:15 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.860M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 3.170M | 2.860M |
