@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.140% |
+| 28 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.140% |
 | 07:45 | EUR | Low | French Government Budget Balance (Dec) |  |  | -172.5B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jan) |  | 45.4K | -25.3K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.34% |
