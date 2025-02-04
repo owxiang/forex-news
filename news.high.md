@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | JOLTS Job Openings (Dec) |  | 8.010M | 8.098M |
+| 54 min | USD | JOLTS Job Openings (Dec) |  | 8.010M | 8.098M |
