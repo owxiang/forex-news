@@ -12,15 +12,16 @@
 | 12:30 | USD | All Car Sales (Jan) | 2.77M |  | 3.04M |
 | 12:30 | USD | All Truck Sales (Jan) | 12.83M |  | 13.83M |
 | 13:55 | USD | Redbook (YoY) | 5.7% |  | 4.9% |
+| 14:00 | NZD | GlobalDairyTrade Price Index | 3.7% |  | 1.4% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Dec) | -2.4% | -2.4% | -2.4% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Dec) | 0.3% |  | 0.3% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Dec) | 0.3% |  | 0.2% |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Jan) |  |  | 49.80 |
-| 4 min | USD | IBD/TIPP Economic Optimism (Feb) |  | 53.0 | 51.9 |
+| 15:00 | MXN | S&P Global Manufacturing PMI (Jan) | 49.10 |  | 49.80 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Feb) | 52.0 | 53.0 | 51.9 |
 | 21:00 | KRW | FX Reserves - USD (Jan) |  |  | 415.60B |
 | 21:45 | NZD | Employment Change (QoQ) (Q4) |  | -0.2% | -0.5% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
 | 21:45 | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
+| 21:45 | NZD | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
 | 21:45 | NZD | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
 | 22:00 | AUD | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
