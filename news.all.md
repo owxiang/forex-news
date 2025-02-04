@@ -24,14 +24,16 @@
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) | 49.10 |  | 49.80 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) | 52.0 | 53.0 | 51.9 |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 8 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Jan) |  |  | 415.60B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 3.170M | 2.860M |
 | 21:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | -0.2% | -0.5% |
-| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 21:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.0% | 3.4% |
+| 21:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 21:45 | NZD | Low | Participation Rate (Q4) |  | 71.10% | 71.20% |
 | 21:45 | NZD | Low | Unemployment Rate (Q4) |  | 5.1% | 4.8% |
+| 22:00 | AUD | Low | AIG Construction Index (Dec) |  |  | -19.0 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Dec) |  |  | -17.9 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Jan) |  | 50.4 | 50.8 |
 | 23:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.0% | 1.9% |
 | 23:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.4% |
