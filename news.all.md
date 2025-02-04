@@ -15,14 +15,14 @@
 | 12:30 | USD | Low | All Car Sales (Jan) | 2.77M |  | 3.04M |
 | 12:30 | USD | Low | All Truck Sales (Jan) | 12.83M |  | 13.83M |
 | 13:55 | USD | Low | Redbook (YoY) | 5.7% |  | 4.9% |
-| 54 min | USD | Low | Durables Excluding Defense (MoM) (Dec) |  | -2.4% | -2.4% |
-| 54 min | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | 0.3% |
-| 54 min | USD | Moderate | Factory Orders (MoM) (Dec) |  | -0.7% | -0.4% |
-| 54 min | USD | Low | Factory orders ex transportation (MoM) (Dec) |  |  | 0.2% |
-| 54 min | USD | High | JOLTS Job Openings (Dec) |  | 8.010M | 8.098M |
-| 54 min | MXN | Low | S&P Global Manufacturing PMI (Jan) |  |  | 49.80 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 53.0 | 51.9 |
-| 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Dec) | -2.4% | -2.4% | -2.4% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) | 0.3% |  | 0.3% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Dec) | -0.9% | -0.7% | -0.8% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Dec) | 0.3% |  | 0.2% |
+| 15:00 | USD | High | JOLTS Job Openings (Dec) | 7.600M | 8.010M | 8.156M |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Jan) |  |  | 49.80 |
+| 4 min | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 53.0 | 51.9 |
+| 54 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Jan) |  |  | 415.60B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 3.170M | 2.860M |
