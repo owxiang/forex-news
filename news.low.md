@@ -11,16 +11,16 @@
 | 05:00 | INR | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
 | 05:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
 | 05:00 | SGD | Retail Sales (YoY) (Dec) | -2.9% |  | -0.5% |
-| 9 min | ZAR | S&P Global Manufacturing PMI (Jan) |  |  | 49.9 |
-| 39 min | EUR | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
-| 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.3 | 47.5 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 50.1 | 48.0 |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Jan) | 47.4 |  | 49.9 |
+| 07:45 | EUR | French Industrial Production (MoM) (Dec) | -0.4% | -0.1% | 0.1% |
+| 37 min | EUR | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
+| 42 min | EUR | HCOB France Composite PMI (Jan) |  | 48.3 | 47.5 |
+| 47 min | EUR | HCOB Germany Composite PMI (Jan) |  | 50.1 | 48.0 |
+| 52 min | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
+| 52 min | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 10:00 | EUR | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
+| 10:00 | EUR | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:30 | INR | M3 Money Supply |  |  | 10.1% |

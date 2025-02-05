@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
 | 01:45 | CNY | Caixin Services PMI (Jan) | 51.0 | 52.3 | 52.2 |
-| 08:15 | EUR | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
-| 08:45 | EUR | HCOB Italy Services PMI (Jan) |  | 50.5 | 50.7 |
-| 08:50 | EUR | HCOB France Services PMI (Jan) |  | 48.9 | 49.3 |
-| 08:55 | EUR | HCOB Germany Services PMI (Jan) |  | 52.5 | 51.2 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) |  | 50.2 | 49.6 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 51.4 | 51.6 |
+| 7 min | EUR | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
+| 37 min | EUR | HCOB Italy Services PMI (Jan) |  | 50.5 | 50.7 |
+| 42 min | EUR | HCOB France Services PMI (Jan) |  | 48.9 | 49.3 |
+| 47 min | EUR | HCOB Germany Services PMI (Jan) |  | 52.5 | 51.2 |
+| 52 min | EUR | HCOB Eurozone Composite PMI (Jan) |  | 50.2 | 49.6 |
+| 52 min | EUR | HCOB Eurozone Services PMI (Jan) |  | 51.4 | 51.6 |
 | 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
 | 12:00 | BRL | Industrial Production (YoY) (Dec) |  | 1.1% | 1.7% |
