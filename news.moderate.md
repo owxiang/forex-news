@@ -19,8 +19,8 @@
 | 13:30 | USD | Trade Balance (Dec) | -98.40B | -96.50B | -78.90B |
 | 13:30 | CAD | Trade Balance (Dec) | 0.71B | 1.00B | -0.99B |
 | 14:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 39 min | USD | S&P Global Composite PMI (Jan) |  | 52.4 | 55.4 |
-| 54 min | USD | ISM Non-Manufacturing Employment (Jan) |  |  | 51.4 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.326M |
+| 14:45 | USD | S&P Global Composite PMI (Jan) | 52.7 | 52.4 | 55.4 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jan) | 52.3 |  | 51.3 |
+| 24 min | USD | Cushing Crude Oil Inventories |  |  | 0.326M |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.9% | 3.9% |
 | 20:00 | USD | FOMC Member Bowman Speaks |  |  |  |
