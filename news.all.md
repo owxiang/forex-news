@@ -7,8 +7,8 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Jan) | 51.0 | 52.3 | 52.2 |
-| 04:00 | IDR | Low | GDP (QoQ) (Q4) | 0.53% | 0.56% | 1.50% |
 | 04:00 | IDR | Low | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
+| 04:00 | IDR | Low | GDP (QoQ) (Q4) | 0.53% | 0.56% | 1.50% |
 | 04:00 | IDR | Low | GDP Annual | 5.03% |  | 5.05% |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
@@ -26,21 +26,21 @@
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | 0.6% | 0.1% | -0.4% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) | 50.2 | 50.2 | 49.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) | 51.3 | 51.4 | 51.6 |
-| 24 min | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
-| 24 min | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
-| 54 min | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 54 min | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
-| 54 min | EUR | Low | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
-| 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 50.6 | 50.9 | 50.4 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 50.8 | 51.2 | 51.1 |
+| 10:00 | NOK | Low | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
+| 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
+| 54 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.1% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.0% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 162.4 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 220.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.1% | 1.7% |
 | 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
