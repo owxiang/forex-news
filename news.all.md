@@ -15,22 +15,22 @@
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) | -2.9% |  | -0.5% |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Jan) | 47.4 |  | 49.9 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) | -0.4% | -0.1% | 0.1% |
-| 7 min | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
-| 37 min | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
-| 37 min | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.5 | 50.7 |
-| 42 min | EUR | Low | HCOB France Composite PMI (Jan) |  | 48.3 | 47.5 |
-| 42 min | EUR | Moderate | HCOB France Services PMI (Jan) |  | 48.9 | 49.3 |
-| 47 min | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 50.1 | 48.0 |
-| 47 min | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 52.5 | 51.2 |
-| 52 min | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
-| 52 min | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
-| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 50.2 | 49.6 |
-| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 51.4 | 51.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
-| 10:00 | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) | 54.9 | 56.7 | 57.3 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) | 49.7 |  | 49.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) | 50.4 | 50.5 | 50.7 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Jan) | 47.6 | 48.3 | 47.5 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Jan) | 48.2 | 48.9 | 49.3 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jan) | 50.5 | 50.1 | 48.0 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) | 52.5 | 52.5 | 51.2 |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) | 0.6% |  | 1.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | 0.6% | 0.1% | -0.4% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) | 50.2 | 50.2 | 49.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) | 51.3 | 51.4 | 51.6 |
+| 24 min | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
+| 24 min | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
+| 54 min | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
+| 54 min | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
+| 54 min | EUR | Low | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.1% |
