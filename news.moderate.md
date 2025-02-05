@@ -1,11 +1,26 @@
-## 04 February 2025 - Moderate Impact Forex News
+## 05 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:35 | JPY | 10-Year JGB Auction | 1.260% |  | 1.140% |
-| 08:00 | EUR | Spanish Unemployment Change (Jan) | 38.7K | 45.4K | -25.3K |
-| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) | 0.24% |  | 0.34% |
-| 15:00 | USD | Factory Orders (MoM) (Dec) | -0.9% | -0.7% | -0.8% |
-| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:15 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 5.025M | 3.170M | 2.860M |
+| 4 min | JPY | au Jibun Bank Services PMI (Jan) |  | 52.7 | 50.9 |
+| 01:45 | CNY | Caixin Services PMI (Jan) |  | 52.3 | 52.2 |
+| 08:15 | EUR | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
+| 08:45 | EUR | HCOB Italy Services PMI (Jan) |  | 50.5 | 50.7 |
+| 08:50 | EUR | HCOB France Services PMI (Jan) |  | 48.9 | 49.3 |
+| 08:55 | EUR | HCOB Germany Services PMI (Jan) |  | 52.5 | 51.2 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jan) |  | 50.2 | 49.6 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 51.4 | 51.6 |
+| 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
+| 09:30 | GBP | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
+| 12:00 | BRL | Industrial Production (YoY) (Dec) |  | 1.4% | 1.7% |
+| 12:40 | EUR | German Buba Balz Speaks |  |  |  |
+| 13:30 | USD | Exports (Dec) |  |  | 273.40B |
+| 13:30 | USD | Imports (Dec) |  |  | 351.60B |
+| 13:30 | USD | Trade Balance (Dec) |  | -96.50B | -78.20B |
+| 13:30 | CAD | Trade Balance (Dec) |  | 1.00B | -0.32B |
+| 14:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Jan) |  | 52.4 | 55.4 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jan) |  |  | 51.4 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.326M |
+| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.9% | 3.9% |
+| 20:00 | USD | FOMC Member Bowman Speaks |  |  |  |

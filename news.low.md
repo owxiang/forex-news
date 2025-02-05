@@ -1,34 +1,61 @@
-## 04 February 2025 - Low Impact Forex News
+## 05 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | French Government Budget Balance (Dec) | -156.3B |  | -172.5B |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.276% |  | 4.490% |
-| 10:00 | EUR | French Car Registration (YoY) (Jan) | -14.6% |  | 1.5% |
-| 10:00 | EUR | Spanish 12-Month Letras Auction | 2.221% |  | 2.367% |
-| 10:00 | EUR | Spanish 6-Month Letras Auction | 2.355% |  | 2.535% |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | Brazilian PPI (MoM) (Dec) | 1.48% |  | 1.25% |
-| 12:30 | USD | All Car Sales (Jan) | 2.77M |  | 3.04M |
-| 12:30 | USD | All Truck Sales (Jan) | 12.83M |  | 13.83M |
-| 13:55 | USD | Redbook (YoY) | 5.7% |  | 4.9% |
-| 14:00 | NZD | GlobalDairyTrade Price Index | 3.7% |  | 1.4% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Dec) | -2.4% | -2.4% | -2.4% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Dec) | 0.3% |  | 0.3% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Dec) | 0.3% |  | 0.2% |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Jan) | 49.10 |  | 49.80 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Feb) | 52.0 | 53.0 | 51.9 |
-| 21:00 | KRW | FX Reserves - USD (Jan) | 411.00B |  | 415.60B |
-| 21:45 | NZD | Employment Change (QoQ) (Q4) | -0.1% | -0.2% | -0.5% |
-| 21:45 | NZD | Labor Cost Index (YoY) (Q4) | 2.9% | 3.0% | 3.4% |
-| 21:45 | NZD | Labor Cost Index (QoQ) (Q4) | 0.6% | 0.6% | 0.6% |
-| 21:45 | NZD | Participation Rate (Q4) | 71.00% | 71.10% | 71.10% |
-| 21:45 | NZD | Unemployment Rate (Q4) | 5.1% | 5.1% | 4.8% |
-| 22:00 | AUD | AIG Construction Index (Dec) | -20.0 |  | -19.0 |
-| 22:00 | AUD | AIG Manufacturing Index (Dec) | -22.7 |  | -17.9 |
-| 22:00 | AUD | Judo Bank Services PMI (Jan) | 51.2 | 50.4 | 50.8 |
-| 23:00 | KRW | CPI (MoM) (Jan) | 0.7% | 0.4% | 0.4% |
-| 23:00 | KRW | CPI (YoY) (Jan) | 2.2% | 2.0% | 1.9% |
-| 24 min | JPY | Average Cash Earnings (YoY) |  | 3.6% | 3.0% |
-| 24 min | JPY | Overall wage income of employees (Dec) |  |  | 3.9% |
-| 24 min | JPY | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.2% |
+| 4 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 4 min | AUD | MI Inflation Gauge (MoM) (Jan) |  |  | 0.6% |
+| 4 min | HKD | S&P Global Manufacturing PMI (Jan) |  |  | 51.1 |
+| 05:00 | INR | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
+| 05:00 | SGD | Retail Sales (MoM) (Dec) |  |  | -2.8% |
+| 05:00 | SGD | Retail Sales (YoY) (Dec) |  |  | -0.7% |
+| 07:45 | EUR | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
+| 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.3 | 47.5 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 50.1 | 48.0 |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
+| 10:00 | NOK | House Price Index (YoY) (Jan) |  |  | 6.40% |
+| 10:00 | EUR | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
+| 10:00 | EUR | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
+| 10:37 | IDR | GDP (QoQ) (Q4) |  | 0.56% | 1.50% |
+| 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
+| 11:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
+| 11:30 | INR | M3 Money Supply |  |  | 10.1% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.02% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.0% |
+| 12:00 | USD | MBA Purchase Index |  |  | 162.4 |
+| 12:00 | USD | Mortgage Market Index |  |  | 220.0 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 520.9 |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
+| 12:00 | BRL | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
+| 12:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | BRL | S&P Global Composite PMI (Jan) |  |  | 51.5 |
+| 13:00 | BRL | S&P Global Services PMI (Jan) |  |  | 51.6 |
+| 13:15 | CAD | Reserve Assets Total (Jan) |  |  | 121.6B |
+| 13:30 | CAD | Exports (Dec) |  |  | 66.11B |
+| 13:30 | CAD | Imports (Dec) |  |  | 66.43B |
+| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | USD | Milk Auctions |  |  | 4,146.0 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jan) |  |  | 58.2 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jan) |  |  | 54.2 |
+| 15:00 | USD | Total Vehicle Sales (Jan) |  |  | 16.80M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.333M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.532M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.028M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -4.994M |
+| 15:30 | USD | Gasoline Production |  |  | -0.044M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.128M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
+| 15:30 | USD | Gasoline Inventories |  |  | 2.957M |
+| 16:08 | IDR | GDP Annual |  |  | 5.05% |
+| 16:08 | IDR | GDP (YoY) (Q4) |  | 4.98% | 4.95% |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -4.149B |
+| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 22:00 | AUD | AIG Construction Index (Jan) |  |  | -19.0 |
+| 22:00 | AUD | AIG Manufacturing Index (Jan) |  |  | -17.9 |
+| 23:00 | KRW | Current Account (Dec) |  |  | 9.30B |
+| 23:30 | JPY | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 178.0B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 753.0B |
