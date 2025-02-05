@@ -5,22 +5,22 @@
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.1% |
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
-| 04:00 | IDR | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | GDP (QoQ) (Q4) | 0.53% | 0.56% | 1.50% |
+| 04:00 | IDR | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | GDP Annual | 5.03% |  | 5.05% |
 | 05:00 | INR | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
 | 05:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
 | 05:00 | SGD | Retail Sales (YoY) (Dec) | -2.9% |  | -0.5% |
-| 07:15 | ZAR | S&P Global Manufacturing PMI (Jan) |  |  | 49.9 |
-| 07:45 | EUR | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
+| 9 min | ZAR | S&P Global Manufacturing PMI (Jan) |  |  | 49.9 |
+| 39 min | EUR | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.3 | 47.5 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 50.1 | 48.0 |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
 | 10:00 | EUR | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
+| 10:00 | EUR | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
 | 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:30 | INR | M3 Money Supply |  |  | 10.1% |
@@ -29,8 +29,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 162.4 |
 | 12:00 | USD | Mortgage Market Index |  |  | 220.0 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | BRL | S&P Global Composite PMI (Jan) |  |  | 51.5 |
