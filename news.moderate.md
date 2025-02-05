@@ -21,6 +21,6 @@
 | 14:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jan) | 52.7 | 52.4 | 55.4 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jan) | 52.3 |  | 51.3 |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | 0.326M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.034M |  | 0.326M |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.9% | 3.9% |
 | 20:00 | USD | FOMC Member Bowman Speaks |  |  |  |
