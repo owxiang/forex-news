@@ -29,20 +29,19 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 50.6 | 50.9 | 50.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 50.8 | 51.2 | 51.1 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
-| 54 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 10.1% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.0% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 162.4 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 220.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.1% | 1.7% |
+| 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
+| 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 24 min | INR | Low | M3 Money Supply |  |  | 10.1% |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.0% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 162.4 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 220.0 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
+| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
+| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.1% | 1.7% |
+| 54 min | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 12:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 51.5 |
