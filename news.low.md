@@ -5,18 +5,18 @@
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.2% |
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
-| 05:00 | INR | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
-| 05:00 | SGD | Retail Sales (YoY) (Dec) |  |  | -0.7% |
-| 05:00 | SGD | Retail Sales (MoM) (Dec) |  |  | -2.8% |
+| 53 min | INR | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
+| 53 min | SGD | Retail Sales (MoM) (Dec) |  |  | -2.8% |
+| 53 min | SGD | Retail Sales (YoY) (Dec) |  |  | -0.7% |
 | 07:45 | EUR | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.3 | 47.5 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 50.1 | 48.0 |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 10:00 | EUR | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
+| 10:00 | EUR | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 10:37 | IDR | GDP (QoQ) (Q4) |  | 0.56% | 1.50% |
 | 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
@@ -49,7 +49,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
 | 15:30 | USD | Gasoline Inventories |  |  | 2.957M |
 | 16:08 | IDR | GDP Annual |  |  | 5.05% |
-| 16:08 | IDR | GDP (YoY) (Q4) |  | 4.98% | 4.95% |
+| 16:08 | IDR | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -4.149B |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:00 | AUD | AIG Construction Index (Jan) |  |  | -19.0 |

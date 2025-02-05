@@ -7,9 +7,9 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Jan) | 51.0 | 52.3 | 52.2 |
-| 05:00 | INR | Low | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Dec) |  |  | -0.7% |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | -2.8% |
+| 53 min | INR | Low | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
+| 53 min | SGD | Low | Retail Sales (MoM) (Dec) |  |  | -2.8% |
+| 53 min | SGD | Low | Retail Sales (YoY) (Dec) |  |  | -0.7% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
@@ -18,15 +18,15 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 48.9 | 49.3 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 50.1 | 48.0 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 52.5 | 51.2 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 50.2 | 49.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 51.4 | 51.6 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 10:37 | IDR | Low | GDP (QoQ) (Q4) |  | 0.56% | 1.50% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
@@ -38,8 +38,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.4% | 1.7% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.4% | 1.7% |
 | 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 12:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 51.5 |
@@ -74,7 +74,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
 | 15:30 | USD | Low | Gasoline Inventories |  |  | 2.957M |
 | 16:08 | IDR | Low | GDP Annual |  |  | 5.05% |
-| 16:08 | IDR | Low | GDP (YoY) (Q4) |  | 4.98% | 4.95% |
+| 16:08 | IDR | Low | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.149B |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.9% | 3.9% |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
