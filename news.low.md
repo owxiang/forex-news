@@ -63,8 +63,8 @@
 | 15:30 | USD | Gasoline Inventories | 2.233M | -0.900M | 2.957M |
 | 17:30 | BRL | Foreign Exchange Flows | 1.253B |  | -4.149B |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:00 | AUD | AIG Construction Index (Jan) |  |  | -19.0 |
-| 22:00 | AUD | AIG Manufacturing Index (Jan) |  |  | -17.9 |
+| 55 min | AUD | AIG Construction Index (Jan) |  |  | -19.0 |
+| 55 min | AUD | AIG Manufacturing Index (Jan) |  |  | -17.9 |
 | 23:00 | KRW | Current Account (Dec) |  |  | 9.30B |
 | 23:30 | JPY | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 178.0B |

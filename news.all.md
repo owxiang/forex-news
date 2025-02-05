@@ -90,8 +90,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 1.253B |  | -4.149B |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 22:00 | AUD | Low | AIG Construction Index (Jan) |  |  | -19.0 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
+| 55 min | AUD | Low | AIG Construction Index (Jan) |  |  | -19.0 |
+| 55 min | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
 | 23:00 | KRW | Low | Current Account (Dec) |  |  | 9.30B |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 178.0B |
