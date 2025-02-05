@@ -12,7 +12,7 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 51.4 | 51.6 |
 | 09:30 | GBP | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
-| 12:00 | BRL | Industrial Production (YoY) (Dec) |  | 1.4% | 1.7% |
+| 12:00 | BRL | Industrial Production (YoY) (Dec) |  | 1.1% | 1.7% |
 | 12:40 | EUR | German Buba Balz Speaks |  |  |  |
 | 13:30 | USD | Exports (Dec) |  |  | 273.40B |
 | 13:30 | USD | Imports (Dec) |  |  | 351.60B |
