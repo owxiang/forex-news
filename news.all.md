@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.2% |
+| 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.1% |
 | 00:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
@@ -13,6 +13,7 @@
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) | -2.9% |  | -0.5% |
+| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Jan) |  |  | 49.9 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
@@ -28,8 +29,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 10.1% |
@@ -38,8 +39,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 162.4 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 220.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.1% | 1.7% |
 | 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -55,26 +56,25 @@
 | 13:30 | CAD | Low | Imports (Dec) |  |  | 66.43B |
 | 13:30 | CAD | Moderate | Trade Balance (Dec) |  | 1.00B | -0.32B |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 14:00 | USD | Low | Milk Auctions |  |  | 4,146.0 |
 | 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.4 | 55.4 |
 | 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.8 | 56.8 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 58.2 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jan) |  |  | 51.4 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  |  | 54.2 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 54.2 | 54.0 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 54.2 | 54.1 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jan) |  |  | 64.4 |
 | 15:00 | USD | Low | Total Vehicle Sales (Jan) |  |  | 16.80M |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 3.463M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 2.400M | 3.463M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.333M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.532M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.326M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.028M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -4.994M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.100M | -4.994M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.044M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.128M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 2.957M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.900M | 2.957M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.149B |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.9% | 3.9% |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
