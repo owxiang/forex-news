@@ -11,8 +11,8 @@
 | 04:00 | IDR | Low | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | Low | GDP Annual | 5.03% |  | 5.05% |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) | -2.9% |  | -0.5% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Jan) | 47.4 |  | 49.9 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) | -0.4% | -0.1% | 0.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) | 54.9 | 56.7 | 57.3 |
@@ -90,8 +90,7 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 1.253B |  | -4.149B |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
-| 54 min | KRW | Low | Current Account (Dec) |  |  | 9.30B |
-| 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 178.0B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 753.0B |
+| 23:00 | KRW | Low | Current Account (Dec) | 12.37B |  | 10.05B |
+| 24 min | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 178.0B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 753.0B |

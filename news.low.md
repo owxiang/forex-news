@@ -9,8 +9,8 @@
 | 04:00 | IDR | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | GDP Annual | 5.03% |  | 5.05% |
 | 05:00 | INR | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
-| 05:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
 | 05:00 | SGD | Retail Sales (YoY) (Dec) | -2.9% |  | -0.5% |
+| 05:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Jan) | 47.4 |  | 49.9 |
 | 07:45 | EUR | French Industrial Production (MoM) (Dec) | -0.4% | -0.1% | 0.1% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jan) | 49.7 |  | 49.7 |
@@ -63,8 +63,7 @@
 | 15:30 | USD | Gasoline Inventories | 2.233M | -0.900M | 2.957M |
 | 17:30 | BRL | Foreign Exchange Flows | 1.253B |  | -4.149B |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:00 | AUD | AIG Manufacturing Index (Jan) |  |  | -17.9 |
-| 54 min | KRW | Current Account (Dec) |  |  | 9.30B |
-| 23:30 | JPY | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 178.0B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 753.0B |
+| 23:00 | KRW | Current Account (Dec) | 12.37B |  | 10.05B |
+| 24 min | JPY | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 178.0B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 753.0B |
