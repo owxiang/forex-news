@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Dec) | 0.6% | 0.1% | -0.4% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
-| 10:00 | EUR | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 10:00 | EUR | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
+| 10:00 | EUR | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:30 | INR | M3 Money Supply | 9.6% |  | 10.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.97% |  | 7.02% |

@@ -29,8 +29,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 50.6 | 50.9 | 50.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 50.8 | 51.2 | 51.1 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
-| 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply | 9.6% |  | 10.1% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 7.02% |
@@ -89,7 +89,7 @@
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.9% | 3.9% | 3.9% |
 | 17:30 | BRL | Low | Foreign Exchange Flows | 1.253B |  | -4.149B |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 20:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 22:00 | AUD | Low | AIG Construction Index (Jan) |  |  | -19.0 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
 | 23:00 | KRW | Low | Current Account (Dec) |  |  | 9.30B |
