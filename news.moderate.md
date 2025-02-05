@@ -13,12 +13,12 @@
 | 09:30 | GBP | S&P Global Composite PMI (Jan) | 50.6 | 50.9 | 50.4 |
 | 09:30 | GBP | S&P Global Services PMI (Jan) | 50.8 | 51.2 | 51.1 |
 | 12:00 | BRL | Industrial Production (YoY) (Dec) | 1.6% | 1.1% | 1.7% |
-| 30 min | EUR | German Buba Balz Speaks |  |  |  |
-| 13:30 | USD | Exports (Dec) |  |  | 273.40B |
-| 13:30 | USD | Imports (Dec) |  |  | 351.60B |
-| 13:30 | USD | Trade Balance (Dec) |  | -96.50B | -78.20B |
-| 13:30 | CAD | Trade Balance (Dec) |  | 1.00B | -0.32B |
-| 14:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 12:40 | EUR | German Buba Balz Speaks |  |  |  |
+| 20 min | USD | Exports (Dec) |  |  | 273.40B |
+| 20 min | USD | Imports (Dec) |  |  | 351.60B |
+| 20 min | USD | Trade Balance (Dec) |  | -96.50B | -78.20B |
+| 20 min | CAD | Trade Balance (Dec) |  | 1.00B | -0.32B |
+| 50 min | EUR | ECB's Lane Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jan) |  | 52.4 | 55.4 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jan) |  |  | 51.4 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.326M |

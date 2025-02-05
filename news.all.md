@@ -38,24 +38,24 @@
 | 12:00 | USD | Low | MBA Purchase Index | 156.7 |  | 162.4 |
 | 12:00 | USD | Low | Mortgage Market Index | 224.8 |  | 220.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 584.3 |  | 520.9 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.10% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.30% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) | -0.70% |  | -2.60% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.7% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 1.6% | 1.1% | 1.7% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.6% |
-| 20 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 30 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 50 min | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 51.5 |
-| 50 min | BRL | Low | S&P Global Services PMI (Jan) |  |  | 51.6 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Jan) |  | 148K | 122K |
-| 13:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 121.6B |
-| 13:30 | USD | Moderate | Exports (Dec) |  |  | 273.40B |
-| 13:30 | USD | Moderate | Imports (Dec) |  |  | 351.60B |
-| 13:30 | USD | Moderate | Trade Balance (Dec) |  | -96.50B | -78.20B |
-| 13:30 | CAD | Low | Exports (Dec) |  |  | 66.11B |
-| 13:30 | CAD | Low | Imports (Dec) |  |  | 66.43B |
-| 13:30 | CAD | Moderate | Trade Balance (Dec) |  | 1.00B | -0.32B |
-| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 12:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Jan) | 48.2 |  | 51.5 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Jan) | 47.6 |  | 51.6 |
+| 5 min | USD | High | ADP Nonfarm Employment Change (Jan) |  | 148K | 122K |
+| 5 min | CAD | Low | Reserve Assets Total (Jan) |  |  | 121.6B |
+| 20 min | USD | Moderate | Exports (Dec) |  |  | 273.40B |
+| 20 min | USD | Moderate | Imports (Dec) |  |  | 351.60B |
+| 20 min | USD | Moderate | Trade Balance (Dec) |  | -96.50B | -78.20B |
+| 20 min | CAD | Low | Exports (Dec) |  |  | 66.11B |
+| 20 min | CAD | Low | Imports (Dec) |  |  | 66.43B |
+| 20 min | CAD | Moderate | Trade Balance (Dec) |  | 1.00B | -0.32B |
+| 50 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 50 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.4 | 55.4 |
 | 14:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.8 | 56.8 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 58.2 |

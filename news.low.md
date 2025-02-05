@@ -28,16 +28,16 @@
 | 12:00 | USD | MBA Purchase Index | 156.7 |  | 162.4 |
 | 12:00 | USD | Mortgage Market Index | 224.8 |  | 220.0 |
 | 12:00 | USD | Mortgage Refinance Index | 584.3 |  | 520.9 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.10% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.30% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) | -0.70% |  | -2.60% |
-| 12:00 | BRL | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.6% |
-| 20 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 50 min | BRL | S&P Global Composite PMI (Jan) |  |  | 51.5 |
-| 50 min | BRL | S&P Global Services PMI (Jan) |  |  | 51.6 |
-| 13:15 | CAD | Reserve Assets Total (Jan) |  |  | 121.6B |
-| 13:30 | CAD | Exports (Dec) |  |  | 66.11B |
-| 13:30 | CAD | Imports (Dec) |  |  | 66.43B |
-| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 12:00 | BRL | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.7% |
+| 12:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | BRL | S&P Global Composite PMI (Jan) | 48.2 |  | 51.5 |
+| 13:00 | BRL | S&P Global Services PMI (Jan) | 47.6 |  | 51.6 |
+| 5 min | CAD | Reserve Assets Total (Jan) |  |  | 121.6B |
+| 20 min | CAD | Exports (Dec) |  |  | 66.11B |
+| 20 min | CAD | Imports (Dec) |  |  | 66.43B |
+| 50 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jan) |  |  | 58.2 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jan) |  |  | 54.2 |
 | 15:00 | USD | Total Vehicle Sales (Jan) |  |  | 16.80M |
