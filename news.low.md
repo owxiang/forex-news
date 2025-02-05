@@ -5,8 +5,8 @@
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.1% |
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
-| 04:00 | IDR | GDP (QoQ) (Q4) | 0.53% | 0.56% | 1.50% |
 | 04:00 | IDR | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
+| 04:00 | IDR | GDP (QoQ) (Q4) | 0.53% | 0.56% | 1.50% |
 | 04:00 | IDR | GDP Annual | 5.03% |  | 5.05% |
 | 05:00 | INR | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
 | 05:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
@@ -28,8 +28,8 @@
 | 12:00 | USD | MBA Purchase Index | 156.7 |  | 162.4 |
 | 12:00 | USD | Mortgage Market Index | 224.8 |  | 220.0 |
 | 12:00 | USD | Mortgage Refinance Index | 584.3 |  | 520.9 |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) | -0.70% |  | -2.60% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.30% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) | -0.70% |  | -2.60% |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.7% |
 | 12:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | EUR | Spanish Consumer Confidence (Dec) | 85.0 |  | 80.6 |
@@ -61,8 +61,8 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.373M |  | 0.128M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -2.4% |
 | 15:30 | USD | Gasoline Inventories | 2.233M | -0.900M | 2.957M |
-| 25 min | BRL | Foreign Exchange Flows |  |  | -4.149B |
-| 55 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 17:30 | BRL | Foreign Exchange Flows | 1.253B |  | -4.149B |
+| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:00 | AUD | AIG Construction Index (Jan) |  |  | -19.0 |
 | 22:00 | AUD | AIG Manufacturing Index (Jan) |  |  | -17.9 |
 | 23:00 | KRW | Current Account (Dec) |  |  | 9.30B |
