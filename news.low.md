@@ -6,8 +6,8 @@
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
 | 05:00 | INR | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
-| 05:00 | SGD | Retail Sales (MoM) (Dec) |  |  | -2.8% |
 | 05:00 | SGD | Retail Sales (YoY) (Dec) |  |  | -0.7% |
+| 05:00 | SGD | Retail Sales (MoM) (Dec) |  |  | -2.8% |
 | 07:45 | EUR | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Jan) |  | 48.3 | 47.5 |
@@ -15,8 +15,8 @@
 | 09:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.1% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.1% | -0.4% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
 | 10:00 | EUR | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
+| 10:00 | EUR | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
 | 10:37 | IDR | GDP (QoQ) (Q4) |  | 0.56% | 1.50% |
 | 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
@@ -26,8 +26,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 162.4 |
 | 12:00 | USD | Mortgage Market Index |  |  | 220.0 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | BRL | S&P Global Composite PMI (Jan) |  |  | 51.5 |

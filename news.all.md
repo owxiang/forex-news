@@ -8,8 +8,8 @@
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Jan) | 51.0 | 52.3 | 52.2 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | -2.8% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) |  |  | -0.7% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | -2.8% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | -0.1% | 0.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 49.7 |
@@ -25,8 +25,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) |  | 50.9 | 50.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) |  | 51.2 | 51.1 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 6.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Dec) |  | 0.5% | 1.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Dec) |  | -0.1% | -1.2% |
 | 10:37 | IDR | Low | GDP (QoQ) (Q4) |  | 0.56% | 1.50% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Dec) |  |  | 80.6 |
@@ -36,10 +36,10 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 162.4 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 220.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.4% | 1.7% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 12:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 51.5 |
