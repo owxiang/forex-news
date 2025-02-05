@@ -5,8 +5,8 @@
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.1% |
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 00:30 | HKD | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
-| 04:00 | IDR | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | GDP (QoQ) (Q4) | 0.53% | 0.56% | 1.50% |
+| 04:00 | IDR | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | GDP Annual | 5.03% |  | 5.05% |
 | 05:00 | INR | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
 | 05:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Dec) | 0.6% | 0.1% | -0.4% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
-| 10:00 | EUR | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
 | 10:00 | EUR | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
+| 10:00 | EUR | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
 | 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:30 | INR | M3 Money Supply | 9.6% |  | 10.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.97% |  | 7.02% |
@@ -28,8 +28,8 @@
 | 12:00 | USD | MBA Purchase Index | 156.7 |  | 162.4 |
 | 12:00 | USD | Mortgage Market Index | 224.8 |  | 220.0 |
 | 12:00 | USD | Mortgage Refinance Index | 584.3 |  | 520.9 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.30% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) | -0.70% |  | -2.60% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.30% |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.7% |
 | 12:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | EUR | Spanish Consumer Confidence (Dec) | 85.0 |  | 80.6 |

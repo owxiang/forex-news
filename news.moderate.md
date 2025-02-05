@@ -23,4 +23,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jan) | 52.3 |  | 51.3 |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.034M |  | 0.326M |
 | 17:30 | USD | Atlanta Fed GDPNow (Q1) | 2.9% | 3.9% | 3.9% |
-| 54 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 20:00 | USD | FOMC Member Bowman Speaks |  |  |  |
