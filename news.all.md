@@ -32,20 +32,20 @@
 | 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 24 min | INR | Low | M3 Money Supply |  |  | 10.1% |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.0% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 162.4 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 220.0 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  | -0.10% | 0.10% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.1% | 1.7% |
-| 54 min | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
-| 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 12:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 51.5 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Jan) |  |  | 51.6 |
+| 11:30 | INR | Low | M3 Money Supply | 9.6% |  | 10.1% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 7.02% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.2% |  | -2.0% |
+| 12:00 | USD | Low | MBA Purchase Index | 156.7 |  | 162.4 |
+| 12:00 | USD | Low | Mortgage Market Index | 224.8 |  | 220.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 584.3 |  | 520.9 |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.10% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) | -0.70% |  | -2.60% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 1.6% | 1.1% | 1.7% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.6% |
+| 20 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 30 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 50 min | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 51.5 |
+| 50 min | BRL | Low | S&P Global Services PMI (Jan) |  |  | 51.6 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jan) |  | 148K | 122K |
 | 13:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 121.6B |
 | 13:30 | USD | Moderate | Exports (Dec) |  |  | 273.40B |
