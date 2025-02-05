@@ -3,11 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.2% |
-| 4 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 4 min | AUD | Low | MI Inflation Gauge (MoM) (Jan) |  |  | 0.6% |
-| 4 min | JPY | Moderate | au Jibun Bank Services PMI (Jan) |  | 52.7 | 50.9 |
-| 4 min | HKD | Low | S&P Global Manufacturing PMI (Jan) |  |  | 51.1 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Jan) |  | 52.3 | 52.2 |
+| 00:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
+| 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
+| 12 min | CNY | Moderate | Caixin Services PMI (Jan) |  | 52.3 | 52.2 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | -2.8% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) |  |  | -0.7% |

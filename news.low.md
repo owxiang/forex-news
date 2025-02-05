@@ -3,9 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 1.8% |  | 0.2% |
-| 4 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 4 min | AUD | MI Inflation Gauge (MoM) (Jan) |  |  | 0.6% |
-| 4 min | HKD | S&P Global Manufacturing PMI (Jan) |  |  | 51.1 |
+| 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
 | 05:00 | INR | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
 | 05:00 | SGD | Retail Sales (MoM) (Dec) |  |  | -2.8% |
 | 05:00 | SGD | Retail Sales (YoY) (Dec) |  |  | -0.7% |

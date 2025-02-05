@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | JPY | au Jibun Bank Services PMI (Jan) |  | 52.7 | 50.9 |
-| 01:45 | CNY | Caixin Services PMI (Jan) |  | 52.3 | 52.2 |
+| 00:30 | JPY | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
+| 12 min | CNY | Caixin Services PMI (Jan) |  | 52.3 | 52.2 |
 | 08:15 | EUR | HCOB Spain Services PMI (Jan) |  | 56.7 | 57.3 |
 | 08:45 | EUR | HCOB Italy Services PMI (Jan) |  | 50.5 | 50.7 |
 | 08:50 | EUR | HCOB France Services PMI (Jan) |  | 48.9 | 49.3 |
