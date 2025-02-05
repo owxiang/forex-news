@@ -6,7 +6,7 @@
 | 00:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
-| 12 min | CNY | Moderate | Caixin Services PMI (Jan) |  | 52.3 | 52.2 |
+| 01:45 | CNY | Moderate | Caixin Services PMI (Jan) | 51.0 | 52.3 | 52.2 |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) |  | 56.8 | 59.3 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | -2.8% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Dec) |  |  | -0.7% |
@@ -36,8 +36,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 162.4 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 220.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 1.4% | 1.7% |
 | 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

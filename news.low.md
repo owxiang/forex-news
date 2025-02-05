@@ -26,8 +26,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 162.4 |
 | 12:00 | USD | Mortgage Market Index |  |  | 220.0 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 520.9 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  |  | -2.60% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 0.10% |
 | 12:00 | BRL | Industrial Production (MoM) (Dec) |  | -0.5% | -0.6% |
 | 12:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | BRL | S&P Global Composite PMI (Jan) |  |  | 51.5 |
