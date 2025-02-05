@@ -7,8 +7,8 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Jan) | 53.0 | 52.7 | 50.9 |
 | 00:30 | HKD | Low | S&P Global Manufacturing PMI (Jan) | 51.0 |  | 51.1 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Jan) | 51.0 | 52.3 | 52.2 |
-| 04:00 | IDR | Low | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | Low | GDP (QoQ) (Q4) | 0.53% | 0.56% | 1.50% |
+| 04:00 | IDR | Low | GDP (YoY) (Q4) | 5.02% | 4.98% | 4.95% |
 | 04:00 | IDR | Low | GDP Annual | 5.03% |  | 5.05% |
 | 05:00 | INR | Low | S&P Global Services PMI (Jan) | 56.5 | 56.8 | 59.3 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | -2.8% |
@@ -29,8 +29,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 50.6 | 50.9 | 50.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 50.8 | 51.2 | 51.1 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
 | 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
+| 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply | 9.6% |  | 10.1% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 7.02% |
@@ -38,8 +38,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 156.7 |  | 162.4 |
 | 12:00 | USD | Low | Mortgage Market Index | 224.8 |  | 220.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 584.3 |  | 520.9 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.30% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) | -0.70% |  | -2.60% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) | 0.10% | -0.10% | 0.30% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Dec) | -0.3% | -0.5% | -0.7% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 1.6% | 1.1% | 1.7% |
 | 12:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -86,9 +86,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.373M |  | 0.128M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -2.4% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.233M | -0.900M | 2.957M |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.149B |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.9% | 3.9% |
-| 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 25 min | BRL | Low | Foreign Exchange Flows |  |  | -4.149B |
+| 55 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.9% | 3.9% |
+| 55 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 22:00 | AUD | Low | AIG Construction Index (Jan) |  |  | -19.0 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
