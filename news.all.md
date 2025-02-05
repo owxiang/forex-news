@@ -29,8 +29,8 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jan) | 50.6 | 50.9 | 50.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jan) | 50.8 | 51.2 | 51.1 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
-| 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply | 9.6% |  | 10.1% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 7.02% |
@@ -90,9 +90,8 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows | 1.253B |  | -4.149B |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 55 min | AUD | Low | AIG Construction Index (Jan) |  |  | -19.0 |
-| 55 min | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
-| 23:00 | KRW | Low | Current Account (Dec) |  |  | 9.30B |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Jan) |  |  | -17.9 |
+| 54 min | KRW | Low | Current Account (Dec) |  |  | 9.30B |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 178.0B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 753.0B |

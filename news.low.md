@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.6% |  | 1.1% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Dec) | 0.6% | 0.1% | -0.4% |
 | 10:00 | NOK | House Price Index (YoY) (Jan) | 7.30% |  | 6.40% |
-| 10:00 | EUR | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 10:00 | EUR | PPI (YoY) (Dec) | 0.0% | -0.1% | -1.2% |
+| 10:00 | EUR | PPI (MoM) (Dec) | 0.4% | 0.5% | 1.7% |
 | 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:30 | INR | M3 Money Supply | 9.6% |  | 10.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.97% |  | 7.02% |
@@ -63,9 +63,8 @@
 | 15:30 | USD | Gasoline Inventories | 2.233M | -0.900M | 2.957M |
 | 17:30 | BRL | Foreign Exchange Flows | 1.253B |  | -4.149B |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 55 min | AUD | AIG Construction Index (Jan) |  |  | -19.0 |
-| 55 min | AUD | AIG Manufacturing Index (Jan) |  |  | -17.9 |
-| 23:00 | KRW | Current Account (Dec) |  |  | 9.30B |
+| 22:00 | AUD | AIG Manufacturing Index (Jan) |  |  | -17.9 |
+| 54 min | KRW | Current Account (Dec) |  |  | 9.30B |
 | 23:30 | JPY | Overtime Pay (YoY) (Dec) |  |  | 1.60% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 178.0B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 753.0B |
