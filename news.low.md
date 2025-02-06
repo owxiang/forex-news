@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 00:30 | AUD | Exports (MoM) (Dec) | 1.1% |  | 4.8% |
-| 00:30 | AUD | Imports (MoM) (Dec) | 5.9% |  | 1.7% |
+| 00:30 | AUD | Exports (MoM) (Dec) | 1.1% |  | 4.2% |
+| 00:30 | AUD | Imports (MoM) (Dec) | 5.9% |  | 1.4% |
 | 01:30 | AUD | NAB Quarterly Business Confidence | -4 |  | -7 |
 | 01:30 | JPY | BoJ Tamura Speaks |  |  |  |
 | 03:35 | JPY | 30-Year JGB Auction | 2.290% |  | 2.304% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.8% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Jan) |  | 2.9% | 2.8% |
 | 06:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.7% | 2.6% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 51.2 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Jan) |  |  | 37.8 |
