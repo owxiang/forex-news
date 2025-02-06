@@ -1,9 +1,6 @@
-## 05 February 2025 - High Impact Forex News
+## 06 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (Jan) | 183K | 148K | 176K |
-| 14:45 | USD | S&P Global Services PMI (Jan) | 52.9 | 52.8 | 56.8 |
-| 15:00 | USD | ISM Non-Manufacturing PMI (Jan) | 52.8 | 54.2 | 54.0 |
-| 15:00 | USD | ISM Non-Manufacturing Prices (Jan) | 60.4 |  | 64.4 |
-| 15:30 | USD | Crude Oil Inventories | 8.664M | 2.400M | 3.463M |
+| 12:00 | GBP | BoE Interest Rate Decision (Feb) |  | 4.50% | 4.75% |
+| 13:30 | USD | Initial Jobless Claims |  | 214K | 207K |
