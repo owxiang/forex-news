@@ -25,8 +25,8 @@
 | 11:00 | CAD | Leading Index (MoM) (Jan) | 0.28% |  | 0.28% |
 | 12:00 | MXN | Consumer Confidence (Jan) | 46.7 |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) | 47.2 |  | 47.3 |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
 | 12:30 | USD | Challenger Job Cuts (Jan) | 49.795K |  | 38.792K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 216.75K |  | 212.75K |
 | 15:00 | USD | Total Vehicle Sales (Jan) | 15.60M |  | 16.80M |
 | 15:00 | CAD | Ivey PMI n.s.a (Jan) | 46.2 |  | 44.3 |
