@@ -18,21 +18,20 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jan) | 45.4 |  | 42.9 |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jan) | 48.1 | 53.5 | 53.3 |
 | 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.691% |  | 3.877% |
-| 10:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | -7.1% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.15% |  | 3.40% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.66% |  | 3.93% |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.388% |  | 2.586% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.705% |  | 2.897% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Dec) | -0.2% | -0.1% | 0.0% |
-| 54 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.24% |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 8 | 3 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 1 | 6 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Feb) |  | 4.50% | 4.75% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Consumer Confidence (Jan) |  |  | 47.1 |
-| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
+| 10:30 | EUR | Low | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
+| 55 min | GBP | Moderate | BoE MPC vote cut (Feb) |  | 8 | 3 |
+| 55 min | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
+| 55 min | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 1 | 6 |
+| 55 min | GBP | High | BoE Interest Rate Decision (Feb) |  | 4.50% | 4.75% |
+| 55 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 55 min | MXN | Low | Consumer Confidence (Jan) |  |  | 47.1 |
+| 55 min | MXN | Low | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 11.4% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 38.792K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,858K |
@@ -40,6 +39,7 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 1.5% | 2.2% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 3.4% | 0.8% |
+| 14:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Low | Total Vehicle Sales (Jan) |  |  | 16.80M |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
