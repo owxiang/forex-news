@@ -49,8 +49,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.250% |  | 4.250% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.240% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 53 min | MXN | Moderate | Interest Rate Decision (Jan) |  | 9.50% | 10.00% |
-| 19:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 19:00 | MXN | Moderate | Interest Rate Decision (Jan) | 9.50% | 9.50% | 10.00% |
+| 25 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:05 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,818B |
