@@ -18,9 +18,9 @@
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | MXN | Interest Rate Decision (Jan) | 9.50% | 9.50% | 10.00% |
 | 19:30 | USD | Fed Waller Speaks |  |  |  |
-| 24 min | USD | FOMC Member Daly Speaks |  |  |  |
-| 59 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,818B |
-| 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
+| 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
+| 21:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 24 min | USD | Fed's Balance Sheet |  |  | 6,818B |
+| 54 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 23:30 | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |

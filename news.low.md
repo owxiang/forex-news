@@ -33,6 +33,6 @@
 | 15:30 | USD | Natural Gas Storage | -174B | -167B | -321B |
 | 16:30 | USD | 4-Week Bill Auction | 4.250% |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.240% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
+| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:10 | USD | Fed Logan Speaks |  |  |  |
 | 23:50 | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |

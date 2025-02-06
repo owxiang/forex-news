@@ -51,12 +51,12 @@
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Jan) | 9.50% | 9.50% | 10.00% |
 | 19:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 24 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 59 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,818B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
-| 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 20:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 21:05 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,818B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
+| 54 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
