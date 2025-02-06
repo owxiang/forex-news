@@ -7,7 +7,7 @@
 | 00:30 | AUD | Imports (MoM) (Dec) | 5.9% |  | 1.7% |
 | 01:30 | AUD | NAB Quarterly Business Confidence | -4 |  | -7 |
 | 01:30 | JPY | BoJ Tamura Speaks |  |  |  |
-| 03:35 | JPY | 30-Year JGB Auction |  |  | 2.304% |
+| 27 min | JPY | 30-Year JGB Auction |  |  | 2.304% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.8% |
 | 06:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.7% | 2.6% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 51.2 |
@@ -20,8 +20,8 @@
 | 10:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.40% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.93% |
-| 10:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Dec) |  | 1.9% | 1.2% |
+| 10:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
 | 11:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 12:00 | MXN | Consumer Confidence (Jan) |  |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |

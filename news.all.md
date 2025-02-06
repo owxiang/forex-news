@@ -8,7 +8,7 @@
 | 00:30 | AUD | Moderate | Trade Balance (Dec) | 5.085B | 6.560B | 6.792B |
 | 01:30 | AUD | Low | NAB Quarterly Business Confidence | -4 |  | -7 |
 | 01:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.304% |
+| 27 min | JPY | Low | 30-Year JGB Auction |  |  | 2.304% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.8% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Jan) |  | 2.7% | 2.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) |  | 1.9% | -5.4% |
@@ -23,8 +23,8 @@
 | 10:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | -7.1% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.40% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.93% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Dec) |  | 1.9% | 1.2% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 8 | 3 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
@@ -57,6 +57,6 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
+| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
