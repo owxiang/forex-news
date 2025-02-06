@@ -22,5 +22,5 @@
 | 21:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,818B |
 | 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:30 | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |

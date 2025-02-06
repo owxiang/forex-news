@@ -6,7 +6,7 @@
 | 00:30 | AUD | Low | Exports (MoM) (Dec) | 1.1% |  | 4.8% |
 | 00:30 | AUD | Low | Imports (MoM) (Dec) | 5.9% |  | 1.7% |
 | 00:30 | AUD | Moderate | Trade Balance (Dec) | 5.085B | 6.560B | 6.792B |
-| 01:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -6 |
+| 01:30 | AUD | Low | NAB Quarterly Business Confidence | -4 |  | -7 |
 | 01:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.304% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.8% |
@@ -33,8 +33,8 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Jan) |  |  | 47.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
-| 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 38.792K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 11.4% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 38.792K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,858K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 214K | 207K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
@@ -57,6 +57,6 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
