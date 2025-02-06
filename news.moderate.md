@@ -14,8 +14,8 @@
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q4) | 3.0% | 3.4% | 0.5% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Jan) | 47.1 | 53.0 | 54.7 |
-| 16:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 54 min | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | MXN | Interest Rate Decision (Jan) |  | 9.50% | 10.00% |
 | 19:30 | USD | Fed Waller Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
