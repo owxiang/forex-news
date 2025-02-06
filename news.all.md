@@ -16,16 +16,16 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Jan) | 42.5 |  | 37.8 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jan) | 44.5 |  | 42.6 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jan) | 45.4 |  | 42.9 |
-| 24 min | GBP | Moderate | S&P Global Construction PMI (Jan) |  | 53.5 | 53.3 |
-| 34 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.586% |
-| 34 min | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.877% |
-| 34 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.897% |
-| 54 min | EUR | Low | German Car Registration (YoY) (Jan) |  |  | -7.1% |
-| 54 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.40% |
-| 54 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.93% |
-| 54 min | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
-| 54 min | EUR | Low | Retail Sales (YoY) (Dec) |  | 1.9% | 1.2% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.24% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Jan) | 48.1 | 53.5 | 53.3 |
+| 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.691% |  | 3.877% |
+| 10:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | -7.1% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.15% |  | 3.40% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 3.66% |  | 3.93% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.388% |  | 2.586% |
+| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.705% |  | 2.897% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Dec) | -0.2% | -0.1% | 0.0% |
+| 54 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 8 | 3 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 1 | 6 |
@@ -57,6 +57,6 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
+| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |

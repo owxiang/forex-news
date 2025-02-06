@@ -14,15 +14,15 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Jan) | 42.5 |  | 37.8 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jan) | 44.5 |  | 42.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) | 45.4 |  | 42.9 |
-| 34 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.586% |
-| 34 min | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.877% |
-| 34 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.897% |
-| 54 min | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
-| 54 min | EUR | French 10-Year OAT Auction |  |  | 3.40% |
-| 54 min | EUR | French 30-Year OAT Auction |  |  | 3.93% |
-| 54 min | EUR | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
-| 54 min | EUR | Retail Sales (YoY) (Dec) |  | 1.9% | 1.2% |
-| 11:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
+| 09:40 | EUR | Spanish 30-Year Obligacion Auction | 3.691% |  | 3.877% |
+| 10:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
+| 10:00 | EUR | French 10-Year OAT Auction | 3.15% |  | 3.40% |
+| 10:00 | EUR | French 30-Year OAT Auction | 3.66% |  | 3.93% |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.388% |  | 2.586% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.705% |  | 2.897% |
+| 10:00 | EUR | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
+| 10:00 | EUR | Retail Sales (MoM) (Dec) | -0.2% | -0.1% | 0.0% |
+| 54 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 12:00 | MXN | Consumer Confidence (Jan) |  |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 11.4% |
