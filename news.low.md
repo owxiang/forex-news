@@ -10,18 +10,18 @@
 | 03:35 | JPY | 30-Year JGB Auction | 2.290% |  | 2.304% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Jan) | 3.0% | 2.9% | 2.8% |
 | 06:45 | CHF | Unemployment Rate s.a. (Jan) | 2.7% | 2.7% | 2.7% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 51.2 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Jan) |  |  | 37.8 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jan) |  |  | 42.6 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 42.9 |
+| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 51.2 |
+| 22 min | EUR | HCOB Germany Construction PMI (Jan) |  |  | 37.8 |
+| 22 min | EUR | HCOB France Construction PMI (MoM) (Jan) |  |  | 42.6 |
+| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 42.9 |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.586% |
 | 09:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.877% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.897% |
 | 10:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.40% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.93% |
-| 10:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Dec) |  | 1.9% | 1.2% |
+| 10:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
 | 11:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 12:00 | MXN | Consumer Confidence (Jan) |  |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
