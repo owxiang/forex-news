@@ -25,15 +25,15 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Dec) | -0.2% | -0.1% | 0.0% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
 | 10:30 | EUR | Low | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
-| 55 min | GBP | Moderate | BoE MPC vote cut (Feb) |  | 8 | 3 |
-| 55 min | GBP | Moderate | BoE MPC vote hike (Feb) |  | 0 | 0 |
-| 55 min | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 1 | 6 |
-| 55 min | GBP | High | BoE Interest Rate Decision (Feb) |  | 4.50% | 4.75% |
-| 55 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 55 min | MXN | Low | Consumer Confidence (Jan) |  |  | 47.1 |
-| 55 min | MXN | Low | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 11.4% |
-| 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 38.792K |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) | 9 | 8 | 3 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Feb) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Feb) | 0 | 1 | 6 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Feb) | 4.50% | 4.50% | 4.75% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | MXN | Low | Consumer Confidence (Jan) | 46.7 |  | 47.1 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
+| 20 min | USD | Low | Challenger Job Cuts (Jan) |  |  | 38.792K |
+| 20 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 11.4% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,858K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 214K | 207K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
@@ -57,6 +57,6 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
