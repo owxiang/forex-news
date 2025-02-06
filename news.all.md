@@ -9,9 +9,9 @@
 | 01:30 | AUD | Low | NAB Quarterly Business Confidence | -4 |  | -7 |
 | 01:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 2.290% |  | 2.304% |
-| 36 min | CHF | Low | Unemployment Rate n.s.a. (Jan) |  | 2.9% | 2.8% |
-| 36 min | CHF | Low | Unemployment Rate s.a. (Jan) |  | 2.7% | 2.6% |
-| 51 min | EUR | Moderate | German Factory Orders (MoM) (Dec) |  | 1.9% | -5.4% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) | 3.0% | 2.9% | 2.8% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Jan) | 2.7% | 2.7% | 2.7% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) | 6.9% | 1.9% | -5.4% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 51.2 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Jan) |  |  | 37.8 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jan) |  |  | 42.6 |
@@ -33,8 +33,8 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Jan) |  |  | 47.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
-| 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 38.792K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 11.4% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 38.792K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,858K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 214K | 207K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
@@ -57,6 +57,6 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |

@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Trade Balance (Dec) | 5.085B | 6.520B | 6.792B |
-| 51 min | EUR | German Factory Orders (MoM) (Dec) |  | 1.9% | -5.4% |
+| 07:00 | EUR | German Factory Orders (MoM) (Dec) | 6.9% | 1.9% | -5.4% |
 | 09:30 | GBP | S&P Global Construction PMI (Jan) |  | 53.5 | 53.3 |
 | 12:00 | GBP | BoE MPC vote cut (Feb) |  | 8 | 3 |
 | 12:00 | GBP | BoE MPC vote hike (Feb) |  | 0 | 0 |
@@ -22,5 +22,5 @@
 | 21:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,818B |
 | 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
 | 23:30 | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
