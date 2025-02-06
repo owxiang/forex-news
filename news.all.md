@@ -22,8 +22,8 @@
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.66% |  | 3.93% |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.388% |  | 2.586% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.705% |  | 2.897% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Dec) | -0.2% | -0.1% | 0.0% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
 | 10:30 | EUR | Low | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Jan) | 0.28% |  | 0.28% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) | 9 | 8 | 3 |
@@ -33,8 +33,8 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Consumer Confidence (Jan) | 46.7 |  | 47.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) | 47.2 |  | 47.3 |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jan) | 49.795K |  | 38.792K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,886K | 1,870K | 1,850K |
 | 13:30 | USD | High | Initial Jobless Claims | 219K | 214K | 208K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.75K |  | 212.75K |
@@ -53,10 +53,10 @@
 | 19:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:05 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,818B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
-| 54 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,811B |  | 6,818B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.233T |  | 3.201T |
+| 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 4 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
+| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
 | 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |

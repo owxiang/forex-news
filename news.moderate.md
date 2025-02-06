@@ -20,7 +20,7 @@
 | 19:30 | USD | Fed Waller Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 6,818B |
-| 54 min | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23:30 | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 21:30 | USD | Fed's Balance Sheet | 6,811B |  | 6,818B |
+| 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
+| 23:30 | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
