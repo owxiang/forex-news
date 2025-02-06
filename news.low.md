@@ -23,11 +23,11 @@
 | 10:00 | EUR | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
 | 10:30 | EUR | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
 | 12:00 | MXN | Consumer Confidence (Jan) | 46.7 |  | 47.1 |
-| 12:00 | MXN | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
-| 20 min | USD | Challenger Job Cuts (Jan) |  |  | 38.792K |
-| 20 min | USD | Challenger Job Cuts (YoY) |  |  | 11.4% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
-| 14:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Jan) | 47.2 |  | 47.3 |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
+| 12:30 | USD | Challenger Job Cuts (Jan) | 49.795K |  | 38.792K |
+| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
+| 50 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 15:00 | USD | Total Vehicle Sales (Jan) |  |  | 16.80M |
 | 15:00 | CAD | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
 | 15:30 | USD | Natural Gas Storage |  | -167B | -321B |

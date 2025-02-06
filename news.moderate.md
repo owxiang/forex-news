@@ -9,9 +9,9 @@
 | 12:00 | GBP | BoE MPC vote hike (Feb) | 0 | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Feb) | 0 | 1 | 6 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,858K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 1.5% | 2.2% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 3.4% | 0.8% |
+| 20 min | USD | Continuing Jobless Claims |  | 1,870K | 1,858K |
+| 20 min | USD | Nonfarm Productivity (QoQ) (Q4) |  | 1.5% | 2.2% |
+| 20 min | USD | Unit Labor Costs (QoQ) (Q4) |  | 3.4% | 0.8% |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Jan) |  | 53.0 | 54.7 |
 | 16:15 | EUR | German Buba President Nagel Speaks |  |  |  |
@@ -22,5 +22,5 @@
 | 21:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,818B |
 | 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23:30 | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
 | 23:30 | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
+| 23:30 | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
