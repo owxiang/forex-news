@@ -28,9 +28,8 @@
 | 12:30 | USD | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
 | 12:30 | USD | Challenger Job Cuts (Jan) | 49.795K |  | 38.792K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 216.75K |  | 212.75K |
-| 53 min | USD | Total Vehicle Sales (Jan) |  |  | 16.80M |
-| 53 min | CAD | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
-| 15:30 | USD | Natural Gas Storage |  | -167B | -321B |
+| 15:00 | CAD | Ivey PMI n.s.a (Jan) | 46.2 |  | 44.3 |
+| 24 min | USD | Natural Gas Storage |  | -167B | -321B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |

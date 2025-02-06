@@ -40,11 +40,10 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.75K |  | 212.75K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 1.2% | 1.5% | 2.3% |
 | 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 3.0% | 3.4% | 0.5% |
-| 8 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 53 min | USD | Low | Total Vehicle Sales (Jan) |  |  | 16.80M |
-| 53 min | CAD | Low | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
-| 53 min | CAD | Moderate | Ivey PMI (Jan) |  | 53.0 | 54.7 |
-| 15:30 | USD | Low | Natural Gas Storage |  | -167B | -321B |
+| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Jan) | 46.2 |  | 44.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (Jan) | 47.1 | 53.0 | 54.7 |
+| 24 min | USD | Low | Natural Gas Storage |  | -167B | -321B |
 | 16:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
