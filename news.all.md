@@ -25,6 +25,7 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Dec) | -0.2% | -0.1% | 0.0% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Dec) | 1.9% | 1.9% | 1.6% |
 | 10:30 | EUR | Low | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
+| 11:00 | CAD | Low | Leading Index (MoM) (Jan) | 0.28% |  | 0.28% |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Feb) | 9 | 8 | 3 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Feb) | 0 | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Feb) | 0 | 1 | 6 |
@@ -34,16 +35,15 @@
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Jan) | 47.2 |  | 47.3 |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jan) | 49.795K |  | 38.792K |
-| 20 min | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,858K |
-| 20 min | USD | High | Initial Jobless Claims |  | 214K | 207K |
-| 20 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
-| 20 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 1.5% | 2.2% |
-| 20 min | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 3.4% | 0.8% |
-| 50 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.24% |
-| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Low | Total Vehicle Sales (Jan) |  |  | 16.80M |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
-| 15:00 | CAD | Moderate | Ivey PMI (Jan) |  | 53.0 | 54.7 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,886K | 1,870K | 1,850K |
+| 13:30 | USD | High | Initial Jobless Claims | 219K | 214K | 208K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.75K |  | 212.75K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 1.2% | 1.5% | 2.3% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 3.0% | 3.4% | 0.5% |
+| 8 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 53 min | USD | Low | Total Vehicle Sales (Jan) |  |  | 16.80M |
+| 53 min | CAD | Low | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
+| 53 min | CAD | Moderate | Ivey PMI (Jan) |  | 53.0 | 54.7 |
 | 15:30 | USD | Low | Natural Gas Storage |  | -167B | -321B |
 | 16:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
