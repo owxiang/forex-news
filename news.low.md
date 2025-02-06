@@ -25,14 +25,14 @@
 | 11:00 | CAD | Leading Index (MoM) (Jan) | 0.28% |  | 0.28% |
 | 12:00 | MXN | Consumer Confidence (Jan) | 46.7 |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) | 47.2 |  | 47.3 |
-| 12:30 | USD | Challenger Job Cuts (Jan) | 49.795K |  | 38.792K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -39.5% |  | 11.4% |
+| 12:30 | USD | Challenger Job Cuts (Jan) | 49.795K |  | 38.792K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 216.75K |  | 212.75K |
 | 15:00 | USD | Total Vehicle Sales (Jan) | 15.60M |  | 16.80M |
 | 15:00 | CAD | Ivey PMI n.s.a (Jan) | 46.2 |  | 44.3 |
 | 15:30 | USD | Natural Gas Storage | -174B | -167B | -321B |
-| 24 min | USD | 4-Week Bill Auction |  |  | 4.250% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 4.240% |
+| 16:30 | USD | 4-Week Bill Auction | 4.250% |  | 4.250% |
+| 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.240% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:10 | USD | Fed Logan Speaks |  |  |  |
 | 23:50 | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
