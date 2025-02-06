@@ -34,5 +34,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.250% |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.240% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.233T |  | 3.201T |
-| 4 min | USD | Fed Logan Speaks |  |  |  |
-| 23:50 | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
+| 22:10 | USD | Fed Logan Speaks |  |  |  |
+| 43 min | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |

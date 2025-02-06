@@ -56,7 +56,7 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,811B |  | 6,818B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.233T |  | 3.201T |
 | 22:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 4 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
+| 22:10 | USD | Low | Fed Logan Speaks |  |  |  |
+| 23 min | JPY | Moderate | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
+| 23 min | JPY | Moderate | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 43 min | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,230.7B |
