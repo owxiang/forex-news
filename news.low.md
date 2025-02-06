@@ -7,7 +7,7 @@
 | 00:30 | AUD | Imports (MoM) (Dec) | 5.9% |  | 1.7% |
 | 01:30 | AUD | NAB Quarterly Business Confidence | -4 |  | -7 |
 | 01:30 | JPY | BoJ Tamura Speaks |  |  |  |
-| 27 min | JPY | 30-Year JGB Auction |  |  | 2.304% |
+| 03:35 | JPY | 30-Year JGB Auction | 2.290% |  | 2.304% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.8% |
 | 06:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.7% | 2.6% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 51.2 |
@@ -25,8 +25,8 @@
 | 11:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 12:00 | MXN | Consumer Confidence (Jan) |  |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 11.4% |
 | 12:30 | USD | Challenger Job Cuts (Jan) |  |  | 38.792K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 11.4% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
 | 15:00 | USD | Total Vehicle Sales (Jan) |  |  | 16.80M |
 | 15:00 | CAD | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
