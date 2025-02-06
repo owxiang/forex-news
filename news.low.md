@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 4 min | AUD | Exports (MoM) (Dec) |  |  | 4.8% |
-| 4 min | AUD | Imports (MoM) (Dec) |  |  | 1.7% |
+| 00:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 00:30 | AUD | Exports (MoM) (Dec) | 1.1% |  | 4.8% |
+| 00:30 | AUD | Imports (MoM) (Dec) | 5.9% |  | 1.7% |
 | 01:30 | AUD | NAB Quarterly Business Confidence |  |  | -6 |
 | 01:30 | JPY | BoJ Tamura Speaks |  |  |  |
 | 03:35 | JPY | 30-Year JGB Auction |  |  | 2.304% |
@@ -20,13 +20,13 @@
 | 10:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.40% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.93% |
-| 10:00 | EUR | Retail Sales (YoY) (Dec) |  | 1.9% | 1.2% |
 | 10:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.1% | 0.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Dec) |  | 1.9% | 1.2% |
 | 11:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.24% |
 | 12:00 | MXN | Consumer Confidence (Jan) |  |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Jan) |  |  | 47.3 |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 11.4% |
 | 12:30 | USD | Challenger Job Cuts (Jan) |  |  | 38.792K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 11.4% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
 | 15:00 | USD | Total Vehicle Sales (Jan) |  |  | 16.80M |
 | 15:00 | CAD | Ivey PMI n.s.a (Jan) |  |  | 44.3 |
