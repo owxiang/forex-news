@@ -39,8 +39,8 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
+| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 1.6% |

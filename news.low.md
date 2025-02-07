@@ -29,8 +29,8 @@
 | 11:30 | INR | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:00 | MXN | PPI (YoY) (Jan) |  |  | 7.50% |
+| 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.80% |
 | 13:00 | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
 | 13:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
