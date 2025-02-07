@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | IDR | FX Reserves (USD) (Jan) |  |  | 155.70B |
+| 03:00 | IDR | FX Reserves (USD) (Jan) | 156.10B |  | 155.70B |
 | 04:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
 | 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.4% |
