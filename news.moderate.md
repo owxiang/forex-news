@@ -1,26 +1,40 @@
-## 06 February 2025 - Moderate Impact Forex News
+## 07 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Trade Balance (Dec) | 5.085B | 6.520B | 6.792B |
-| 07:00 | EUR | German Factory Orders (MoM) (Dec) | 6.9% | 1.9% | -5.4% |
-| 09:30 | GBP | S&P Global Construction PMI (Jan) | 48.1 | 53.5 | 53.3 |
-| 12:00 | GBP | BoE MPC vote cut (Feb) | 9 | 8 | 3 |
-| 12:00 | GBP | BoE MPC vote hike (Feb) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Feb) | 0 | 1 | 6 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,886K | 1,870K | 1,850K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) | 1.2% | 1.5% | 2.3% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) | 3.0% | 3.4% | 0.5% |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Jan) | 47.1 | 53.0 | 54.7 |
-| 16:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:00 | MXN | Interest Rate Decision (Jan) | 9.50% | 9.50% | 10.00% |
-| 19:30 | USD | Fed Waller Speaks |  |  |  |
-| 20:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,811B |  | 6,818B |
-| 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23 min | JPY | Household Spending (YoY) (Dec) |  | 0.5% | -0.4% |
-| 23 min | JPY | Household Spending (MoM) (Dec) |  | -0.5% | 0.4% |
+| 04:30 | INR | Interest Rate Decision |  | 6.25% | 6.50% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 3.3% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jan) |  | 0.4% | -0.2% |
+| 07:00 | EUR | German Industrial Production (MoM) (Dec) |  | -0.7% | 1.5% |
+| 07:00 | EUR | German Trade Balance (Dec) |  | 17.0B | 19.7B |
+| 08:00 | CHF | SECO Consumer Climate (Q1) |  | -31 | -27 |
+| 08:45 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | GBP | Mortgage Rate (GBP) (Jan) |  |  | 7.50% |
+| 12:00 | MXN | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
+| 12:00 | MXN | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
+| 13:30 | USD | Participation Rate (Jan) |  |  | 62.5% |
+| 13:30 | USD | Payrolls Benchmark, n.s.a. |  |  | -818.00K |
+| 13:30 | USD | Private Nonfarm Payrolls (Jan) |  | 141K | 223K |
+| 13:30 | USD | U6 Unemployment Rate (Jan) |  |  | 7.5% |
+| 13:30 | CAD | Employment Change (Jan) |  | 25.5K | 90.9K |
+| 13:30 | CAD | Unemployment Rate (Jan) |  | 6.8% | 6.7% |
+| 14:25 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  |  | 3.3% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Feb) |  | 70.0 | 69.3 |
+| 15:00 | USD | Michigan Consumer Sentiment (Feb) |  | 71.9 | 71.1 |
+| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 582 |
+| 20:00 | USD | Consumer Credit (Dec) |  | 17.70B | -7.49B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -21.7K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 264.1K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 299.4K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 30.7K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -56.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -71.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -38.5K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -1.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -66.6K |

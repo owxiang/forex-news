@@ -1,6 +1,8 @@
-## 06 February 2025 - High Impact Forex News
+## 07 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | GBP | BoE Interest Rate Decision (Feb) | 4.50% | 4.50% | 4.75% |
-| 13:30 | USD | Initial Jobless Claims | 219K | 214K | 208K |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
+| 13:30 | USD | Nonfarm Payrolls (Jan) |  | 169K | 256K |
+| 13:30 | USD | Unemployment Rate (Jan) |  | 4.1% | 4.1% |
+| 15:00 | USD | Fed Monetary Policy Report |  |  |  |
