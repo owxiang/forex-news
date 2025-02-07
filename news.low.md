@@ -33,16 +33,14 @@
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
 | 12:00 | MXN | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
-| 50 min | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
-| 50 min | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
-| 13:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (Jan) |  |  | 33.0K |
-| 13:30 | USD | Manufacturing Payrolls (Jan) |  | -2K | -13K |
-| 13:30 | USD | Payrolls Benchmark |  |  | -266.00 |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
-| 13:30 | CAD | Full Employment Change (Jan) |  |  | 57.5K |
-| 13:30 | CAD | Part Time Employment Change (Jan) |  |  | 33.5K |
-| 13:30 | CAD | Participation Rate (Jan) |  |  | 65.1% |
+| 22 min | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
+| 22 min | USD | Government Payrolls (Jan) |  |  | 33.0K |
+| 22 min | USD | Manufacturing Payrolls (Jan) |  | -2K | -13K |
+| 22 min | USD | Payrolls Benchmark |  |  | -266.00 |
+| 22 min | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
+| 22 min | CAD | Full Employment Change (Jan) |  |  | 57.5K |
+| 22 min | CAD | Part Time Employment Change (Jan) |  |  | 33.5K |
+| 22 min | CAD | Participation Rate (Jan) |  |  | 65.1% |
 | 15:00 | USD | Michigan Current Conditions (Feb) |  | 73.0 | 74.0 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Dec) |  | -0.5% | -0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) |  |  | 0.6% |

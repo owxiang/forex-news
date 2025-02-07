@@ -43,27 +43,25 @@
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
 | 12:00 | MXN | Low | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
-| 5 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 50 min | BRL | Low | Auto Production (MoM) (Jan) |  |  | -19.5% |
-| 50 min | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 1.6% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
-| 13:30 | USD | Low | Government Payrolls (Jan) |  |  | 33.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Jan) |  | -2K | -13K |
-| 13:30 | USD | High | Nonfarm Payrolls (Jan) |  | 169K | 256K |
-| 13:30 | USD | Moderate | Participation Rate (Jan) |  |  | 62.5% |
-| 13:30 | USD | Low | Payrolls Benchmark |  |  | -266.00 |
-| 13:30 | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -818.00K |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jan) |  | 141K | 223K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Jan) |  |  | 7.5% |
-| 13:30 | USD | High | Unemployment Rate (Jan) |  | 4.1% | 4.1% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
-| 13:30 | CAD | Moderate | Employment Change (Jan) |  | 25.5K | 90.9K |
-| 13:30 | CAD | Low | Full Employment Change (Jan) |  |  | 57.5K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jan) |  |  | 33.5K |
-| 13:30 | CAD | Low | Participation Rate (Jan) |  |  | 65.1% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jan) |  | 6.8% | 6.7% |
+| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 22 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
+| 22 min | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
+| 22 min | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
+| 22 min | USD | Low | Government Payrolls (Jan) |  |  | 33.0K |
+| 22 min | USD | Low | Manufacturing Payrolls (Jan) |  | -2K | -13K |
+| 22 min | USD | High | Nonfarm Payrolls (Jan) |  | 169K | 256K |
+| 22 min | USD | Moderate | Participation Rate (Jan) |  |  | 62.5% |
+| 22 min | USD | Low | Payrolls Benchmark |  |  | -266.00 |
+| 22 min | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -818.00K |
+| 22 min | USD | Moderate | Private Nonfarm Payrolls (Jan) |  | 141K | 223K |
+| 22 min | USD | Moderate | U6 Unemployment Rate (Jan) |  |  | 7.5% |
+| 22 min | USD | High | Unemployment Rate (Jan) |  | 4.1% | 4.1% |
+| 22 min | CAD | Low | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
+| 22 min | CAD | Moderate | Employment Change (Jan) |  | 25.5K | 90.9K |
+| 22 min | CAD | Low | Full Employment Change (Jan) |  |  | 57.5K |
+| 22 min | CAD | Low | Part Time Employment Change (Jan) |  |  | 33.5K |
+| 22 min | CAD | Low | Participation Rate (Jan) |  |  | 65.1% |
+| 22 min | CAD | Moderate | Unemployment Rate (Jan) |  | 6.8% | 6.7% |
 | 14:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 3.3% |

@@ -12,14 +12,14 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (Jan) | 7.49% |  | 7.50% |
 | 12:00 | MXN | CPI (YoY) (Jan) | 3.59% | 3.61% | 4.21% |
 | 12:00 | MXN | CPI (MoM) (Jan) | 0.29% | 0.31% | 0.38% |
-| 5 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
-| 13:30 | USD | Participation Rate (Jan) |  |  | 62.5% |
-| 13:30 | USD | Payrolls Benchmark, n.s.a. |  |  | -818.00K |
-| 13:30 | USD | Private Nonfarm Payrolls (Jan) |  | 141K | 223K |
-| 13:30 | USD | U6 Unemployment Rate (Jan) |  |  | 7.5% |
-| 13:30 | CAD | Employment Change (Jan) |  | 25.5K | 90.9K |
-| 13:30 | CAD | Unemployment Rate (Jan) |  | 6.8% | 6.7% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 22 min | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
+| 22 min | USD | Participation Rate (Jan) |  |  | 62.5% |
+| 22 min | USD | Payrolls Benchmark, n.s.a. |  |  | -818.00K |
+| 22 min | USD | Private Nonfarm Payrolls (Jan) |  | 141K | 223K |
+| 22 min | USD | U6 Unemployment Rate (Jan) |  |  | 7.5% |
+| 22 min | CAD | Employment Change (Jan) |  | 25.5K | 90.9K |
+| 22 min | CAD | Unemployment Rate (Jan) |  | 6.8% | 6.7% |
 | 14:25 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  |  | 3.3% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.2% |
