@@ -12,19 +12,19 @@
 | 06:00 | ZAR | Net FX Reserves (USD) (Jan) | 61.328B |  | 60.371B |
 | 07:00 | EUR | German Exports (MoM) (Dec) | 2.9% | -0.6% | 2.3% |
 | 07:00 | EUR | German Imports (MoM) (Dec) | 2.1% | 1.8% | -2.7% |
-| 07:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | -2.85% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Dec) | 3.2% |  | 1.1% |
-| 39 min | EUR | French Current Account (Dec) |  |  | -1.70B |
-| 39 min | EUR | French Exports (Dec) |  |  | 50.1B |
-| 39 min | EUR | French Imports (Dec) |  |  | 57.2B |
-| 39 min | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | 0.2% |
-| 39 min | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
-| 39 min | EUR | French Trade Balance (Dec) |  | -5.3B | -7.1B |
-| 54 min | CHF | Foreign Reserves (USD) (Jan) |  |  | 731.0B |
-| 54 min | EUR | Spanish Industrial Production (YoY) (Dec) |  | 0.5% | -0.4% |
-| 54 min | CNY | FX Reserves (USD) (Jan) |  | 3.200T | 3.202T |
-| 08:30 | HKD | Foreign Reserves (USD) (Jan) |  |  | 421.40B |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 371.4B |
+| 07:00 | EUR | German Industrial Production (YoY) (Dec) | -3.12% |  | -2.95% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Dec) | 3.2% |  | 1.2% |
+| 07:45 | EUR | French Current Account (Dec) | 2.40B |  | -1.20B |
+| 07:45 | EUR | French Exports (Dec) | 52.3B |  | 50.3B |
+| 07:45 | EUR | French Imports (Dec) | 56.2B |  | 56.6B |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | -0.2% | -0.1% | 0.2% |
+| 07:45 | EUR | French Reserve Assets Total (Dec) | 275,078.0M |  | 275,078.0M |
+| 07:45 | EUR | French Trade Balance (Dec) | -3.9B | -5.3B | -6.3B |
+| 08:00 | CHF | Foreign Reserves (USD) (Jan) | 736.4B |  | 730.9B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Dec) | 2.1% | 0.5% | -0.1% |
+| 08:01 | CNY | FX Reserves (USD) (Jan) | 3.209T | 3.200T | 3.202T |
+| 22 min | HKD | Foreign Reserves (USD) (Jan) |  |  | 421.40B |
+| 52 min | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 371.4B |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
 | 11:00 | ZAR | Business Confidence (Dec) |  |  | 118.1 |
 | 11:30 | INR | FX Reserves, USD |  |  | 629.56B |
