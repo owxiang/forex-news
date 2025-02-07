@@ -44,8 +44,8 @@
 | 12:00 | MXN | Low | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) | 0.5% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) | 4.1% | 3.8% | 4.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) | 0.5% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Jan) | 34.1 | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Jan) | 32.0K |  | 34.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jan) | 3K | -2K | -12K |
@@ -72,9 +72,9 @@
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Dec) | -0.5% | -0.5% | -0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 0.9% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.9% | 2.9% | 2.9% |
-| 55 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 55 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
-| 55 min | BRL | Low | Trade Balance (Jan) |  | 3.00B | 4.80B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
+| 18:00 | BRL | Low | Trade Balance (Jan) | 2.16B | 3.00B | 4.80B |
 | 20:00 | USD | Moderate | Consumer Credit (Dec) |  | 17.70B | -7.49B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -21.7K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.0K |

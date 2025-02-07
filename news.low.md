@@ -44,7 +44,7 @@
 | 15:00 | USD | Michigan Current Conditions (Feb) | 68.7 | 73.0 | 74.0 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Dec) | -0.5% | -0.5% | -0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 0.9% |
-| 55 min | BRL | Trade Balance (Jan) |  | 3.00B | 4.80B |
+| 18:00 | BRL | Trade Balance (Jan) | 2.16B | 3.00B | 4.80B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 443.9K |
