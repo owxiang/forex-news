@@ -31,8 +31,8 @@
 | 11:30 | INR | FX Reserves, USD | 630.61B |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) | 0.41% | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
-| 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 12:00 | MXN | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
+| 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 13:30 | USD | Average Weekly Hours (Jan) | 34.1 | 34.3 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jan) | 32.0K |  | 34.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jan) | 3K | -2K | -12K |
