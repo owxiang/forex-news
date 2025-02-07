@@ -31,8 +31,8 @@
 | 11:30 | INR | FX Reserves, USD | 630.61B |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) | 0.41% | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
-| 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 12:00 | MXN | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
+| 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 13:30 | USD | Average Weekly Hours (Jan) | 34.1 | 34.3 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jan) | 32.0K |  | 34.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jan) | 3K | -2K | -12K |
@@ -41,9 +41,9 @@
 | 13:30 | CAD | Full Employment Change (Jan) | 35.2K |  | 171.8K |
 | 13:30 | CAD | Part Time Employment Change (Jan) | 40.9K |  | 7.1K |
 | 13:30 | CAD | Participation Rate (Jan) | 65.5% |  | 65.4% |
-| 54 min | USD | Michigan Current Conditions (Feb) |  | 73.0 | 74.0 |
-| 54 min | USD | Wholesale Inventories (MoM) (Dec) |  | -0.5% | -0.5% |
-| 54 min | USD | Wholesale Trade Sales (MoM) (Dec) |  |  | 0.6% |
+| 15:00 | USD | Michigan Current Conditions (Feb) | 68.7 | 73.0 | 74.0 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Dec) | -0.5% | -0.5% | -0.5% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 0.9% |
 | 18:00 | BRL | Trade Balance (Jan) |  | 3.00B | 4.80B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
