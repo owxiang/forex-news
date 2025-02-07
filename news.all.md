@@ -11,8 +11,8 @@
 | 05:00 | JPY | Low | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Jan) | 65.88B |  | 65.46B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Jan) | 61.328B |  | 60.371B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) | 3.0% |  | 3.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) | 0.7% | 0.4% | -0.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) | 3.0% |  | 3.4% |
 | 07:00 | EUR | Low | German Exports (MoM) (Dec) | 2.9% | -0.6% | 2.3% |
 | 07:00 | EUR | Low | German Imports (MoM) (Dec) | 2.1% | 1.8% | -2.7% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) | -2.4% | -0.7% | 1.3% |
@@ -41,36 +41,36 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Jan) | 3.59% | 3.61% | 4.21% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) | 0.29% | 0.31% | 0.38% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
-| 12:00 | MXN | Low | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
+| 12:00 | MXN | Low | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 22 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
-| 22 min | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
-| 22 min | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
-| 22 min | USD | Low | Government Payrolls (Jan) |  |  | 33.0K |
-| 22 min | USD | Low | Manufacturing Payrolls (Jan) |  | -2K | -13K |
-| 22 min | USD | High | Nonfarm Payrolls (Jan) |  | 169K | 256K |
-| 22 min | USD | Moderate | Participation Rate (Jan) |  |  | 62.5% |
-| 22 min | USD | Low | Payrolls Benchmark |  |  | -266.00 |
-| 22 min | USD | Moderate | Payrolls Benchmark, n.s.a. |  |  | -818.00K |
-| 22 min | USD | Moderate | Private Nonfarm Payrolls (Jan) |  | 141K | 223K |
-| 22 min | USD | Moderate | U6 Unemployment Rate (Jan) |  |  | 7.5% |
-| 22 min | USD | High | Unemployment Rate (Jan) |  | 4.1% | 4.1% |
-| 22 min | CAD | Low | Avg hourly wages Permanent employee (Jan) |  |  | 3.7% |
-| 22 min | CAD | Moderate | Employment Change (Jan) |  | 25.5K | 90.9K |
-| 22 min | CAD | Low | Full Employment Change (Jan) |  |  | 57.5K |
-| 22 min | CAD | Low | Part Time Employment Change (Jan) |  |  | 33.5K |
-| 22 min | CAD | Low | Participation Rate (Jan) |  |  | 65.1% |
-| 22 min | CAD | Moderate | Unemployment Rate (Jan) |  | 6.8% | 6.7% |
-| 14:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | High | Fed Monetary Policy Report |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 3.3% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 70.0 | 69.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 71.9 | 71.1 |
-| 15:00 | USD | Low | Michigan Current Conditions (Feb) |  | 73.0 | 74.0 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | -0.5% | -0.5% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) |  |  | 0.6% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) | 4.1% | 3.8% | 4.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) | 0.5% | 0.3% | 0.3% |
+| 13:30 | USD | Low | Average Weekly Hours (Jan) | 34.1 | 34.3 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Jan) | 32.0K |  | 34.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Jan) | 3K | -2K | -12K |
+| 13:30 | USD | High | Nonfarm Payrolls (Jan) | 143K | 169K | 307K |
+| 13:30 | USD | Moderate | Participation Rate (Jan) | 62.6% |  | 62.5% |
+| 13:30 | USD | Low | Payrolls Benchmark | -589.00 |  | -266.00 |
+| 13:30 | USD | Moderate | Payrolls Benchmark, n.s.a. | -598.00K |  | -818.00K |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jan) | 111K | 141K | 273K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Jan) | 7.5% |  | 7.5% |
+| 13:30 | USD | High | Unemployment Rate (Jan) | 4.0% | 4.1% | 4.1% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) | 3.7% |  | 3.8% |
+| 13:30 | CAD | Moderate | Employment Change (Jan) | 76.0K | 25.5K | 179.1K |
+| 13:30 | CAD | Low | Full Employment Change (Jan) | 35.2K |  | 171.8K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jan) | 40.9K |  | 7.1K |
+| 13:30 | CAD | Low | Participation Rate (Jan) | 65.5% |  | 65.4% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Jan) | 6.6% | 6.8% | 6.7% |
+| 19 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | High | Fed Monetary Policy Report |  |  |  |
+| 54 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 3.3% |
+| 54 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 3.2% |
+| 54 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 70.0 | 69.3 |
+| 54 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 71.9 | 71.1 |
+| 54 min | USD | Low | Michigan Current Conditions (Feb) |  | 73.0 | 74.0 |
+| 54 min | USD | Low | Wholesale Inventories (MoM) (Dec) |  | -0.5% | -0.5% |
+| 54 min | USD | Low | Wholesale Trade Sales (MoM) (Dec) |  |  | 0.6% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
