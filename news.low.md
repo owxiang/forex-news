@@ -45,14 +45,14 @@
 | 15:00 | USD | Wholesale Inventories (MoM) (Dec) | -0.5% | -0.5% | -0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 0.9% |
 | 18:00 | BRL | Trade Balance (Jan) | 2.16B | 3.00B | 4.80B |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 13.0K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | 443.9K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -65.0K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 44.4K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 31.4K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -91.1K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -147.6K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 5.2K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -43.0K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -47.0K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 3.8K |  | 3.0K |
+| 20:30 | USD | CFTC Copper speculative net positions | 15.4K |  | 13.0K |
+| 20:30 | USD | CFTC Corn speculative net positions | 462.4K |  | 443.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -72.2K |  | -65.0K |
+| 20:30 | USD | CFTC Silver speculative net positions | 50.4K |  | 44.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 37.2K |  | 31.4K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -67.4K |  | -91.1K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -160.4K |  | -147.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 12.3K |  | 5.2K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -42.3K |  | -43.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -49.1K |  | -47.0K |
