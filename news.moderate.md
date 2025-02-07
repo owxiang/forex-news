@@ -10,9 +10,9 @@
 | 08:00 | CHF | SECO Consumer Climate (Q1) | -21 | -31 | -27 |
 | 08:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jan) | 7.49% |  | 7.50% |
-| 55 min | MXN | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
-| 55 min | MXN | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
-| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 12:00 | MXN | CPI (YoY) (Jan) | 3.59% | 3.61% | 4.21% |
+| 12:00 | MXN | CPI (MoM) (Jan) | 0.29% | 0.31% | 0.38% |
+| 5 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
 | 13:30 | USD | Participation Rate (Jan) |  |  | 62.5% |
 | 13:30 | USD | Payrolls Benchmark, n.s.a. |  |  | -818.00K |

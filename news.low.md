@@ -26,13 +26,15 @@
 | 08:30 | HKD | Foreign Reserves (USD) (Jan) | 421.50B |  | 421.50B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 376.7B |  | 371.4B |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) | 0.11% |  | 0.87% |
-| 25 min | INR | FX Reserves, USD |  |  | 629.56B |
-| 55 min | MXN | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
-| 55 min | MXN | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 55 min | MXN | PPI (YoY) (Jan) |  |  | 7.50% |
-| 55 min | MXN | PPI (MoM) (Jan) |  |  | 0.80% |
-| 13:00 | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
-| 13:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
+| 11:30 | INR | Bank Loan Growth | 11.4% |  | 11.5% |
+| 11:30 | INR | Deposit Growth | 10.3% |  | 10.8% |
+| 11:30 | INR | FX Reserves, USD | 630.61B |  | 629.56B |
+| 12:00 | MXN | Core CPI (MoM) (Jan) | 0.41% | 0.45% | 0.51% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
+| 12:00 | MXN | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
+| 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
+| 50 min | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
+| 50 min | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
 | 13:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jan) |  |  | 33.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jan) |  | -2K | -13K |
