@@ -17,21 +17,21 @@
 | 07:45 | EUR | French Current Account (Dec) | 2.40B |  | -1.20B |
 | 07:45 | EUR | French Exports (Dec) | 52.3B |  | 50.3B |
 | 07:45 | EUR | French Imports (Dec) | 56.2B |  | 56.6B |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | -0.2% | -0.1% | 0.2% |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
 | 07:45 | EUR | French Reserve Assets Total (Dec) | 275,078.0M |  | 275,078.0M |
 | 07:45 | EUR | French Trade Balance (Dec) | -3.9B | -5.3B | -6.3B |
 | 08:00 | CHF | Foreign Reserves (USD) (Jan) | 736.4B |  | 730.9B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Dec) | 2.1% | 0.5% | -0.1% |
-| 08:01 | CNY | FX Reserves (USD) (Jan) | 3.209T | 3.200T | 3.202T |
-| 22 min | HKD | Foreign Reserves (USD) (Jan) |  |  | 421.40B |
-| 52 min | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 371.4B |
+| 08:16 | CNY | FX Reserves (USD) (Jan) | 3.209T | 3.200T | 3.202T |
+| 08:30 | HKD | Foreign Reserves (USD) (Jan) | 421.50B |  | 421.50B |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 376.7B |  | 371.4B |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
 | 11:00 | ZAR | Business Confidence (Dec) |  |  | 118.1 |
 | 11:30 | INR | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:00 | MXN | PPI (YoY) (Jan) |  |  | 7.50% |
+| 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.80% |
 | 13:00 | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
 | 13:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |

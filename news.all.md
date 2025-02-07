@@ -22,17 +22,17 @@
 | 07:45 | EUR | Low | French Current Account (Dec) | 2.40B |  | -1.20B |
 | 07:45 | EUR | Low | French Exports (Dec) | 52.3B |  | 50.3B |
 | 07:45 | EUR | Low | French Imports (Dec) | 56.2B |  | 56.6B |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) | -0.2% | -0.1% | 0.2% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) | -0.2% | -0.1% | 0.1% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Dec) | 275,078.0M |  | 275,078.0M |
 | 07:45 | EUR | Low | French Trade Balance (Dec) | -3.9B | -5.3B | -6.3B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jan) | 736.4B |  | 730.9B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -21 | -31 | -27 |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) | 2.1% | 0.5% | -0.1% |
-| 08:01 | CNY | Low | FX Reserves (USD) (Jan) | 3.209T | 3.200T | 3.202T |
-| 22 min | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 421.40B |
-| 37 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 52 min | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 371.4B |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 7.50% |
+| 08:16 | CNY | Low | FX Reserves (USD) (Jan) | 3.209T | 3.200T | 3.202T |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Jan) | 421.50B |  | 421.50B |
+| 08:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 376.7B |  | 371.4B |
+| 54 min | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 7.50% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
 | 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 629.56B |
@@ -40,13 +40,13 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
+| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 1.6% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Jan) |  |  | 33.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jan) |  | -2K | -13K |
