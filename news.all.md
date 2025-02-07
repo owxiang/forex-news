@@ -7,12 +7,12 @@
 | 04:30 | INR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.50% |
 | 04:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) | 1.4% |  | -1.4% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.1% |  | -1.6% |
 | 05:00 | JPY | Low | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.1% |  | -1.6% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Jan) | 65.88B |  | 65.46B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Jan) | 61.328B |  | 60.371B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) | 3.0% |  | 3.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) | 0.7% | 0.4% | -0.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) | 3.0% |  | 3.4% |
 | 07:00 | EUR | Low | German Exports (MoM) (Dec) | 2.9% | -0.6% | 2.3% |
 | 07:00 | EUR | Low | German Imports (MoM) (Dec) | 2.1% | 1.8% | -2.7% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) | -2.4% | -0.7% | 1.3% |
@@ -38,11 +38,11 @@
 | 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.8% |
 | 11:30 | INR | Low | FX Reserves, USD | 630.61B |  | 629.56B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Jan) | 0.41% | 0.45% | 0.51% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Jan) | 3.59% | 3.61% | 4.21% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) | 0.29% | 0.31% | 0.38% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Jan) | 3.59% | 3.61% | 4.21% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
-| 12:00 | MXN | Low | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
+| 12:00 | MXN | Low | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) | 4.1% | 3.8% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) | 0.5% | 0.3% | 0.3% |
@@ -57,15 +57,15 @@
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jan) | 7.5% |  | 7.5% |
 | 13:30 | USD | High | Unemployment Rate (Jan) | 4.0% | 4.1% | 4.1% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) | 3.7% |  | 3.8% |
-| 13:30 | CAD | Moderate | Employment Change (Jan) | 76.0K | 25.5K | 179.1K |
-| 13:30 | CAD | Low | Full Employment Change (Jan) | 35.2K |  | 171.8K |
-| 13:30 | CAD | Low | Part Time Employment Change (Jan) | 40.9K |  | 7.1K |
+| 13:30 | CAD | Moderate | Employment Change (Jan) | 76.0K | 25.5K | 91.0K |
+| 13:30 | CAD | Low | Full Employment Change (Jan) | 35.2K |  | 59.1K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jan) | 40.9K |  | 31.8K |
 | 13:30 | CAD | Low | Participation Rate (Jan) | 65.5% |  | 65.4% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Jan) | 6.6% | 6.8% | 6.7% |
 | 14:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) | 4.3% | 3.3% | 3.3% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) | 3.3% |  | 3.2% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) | 3.3% | 3.2% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) | 67.3 | 70.0 | 69.3 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) | 67.8 | 71.9 | 71.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Feb) | 68.7 | 73.0 | 74.0 |
