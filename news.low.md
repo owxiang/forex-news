@@ -10,19 +10,19 @@
 | 05:00 | JPY | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
 | 06:00 | ZAR | Foreign Reserves (USD) (Jan) | 65.88B |  | 65.46B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Jan) | 61.328B |  | 60.371B |
-| 52 min | EUR | German Exports (MoM) (Dec) |  | -0.6% | 2.1% |
-| 52 min | EUR | German Imports (MoM) (Dec) |  | 1.8% | -3.3% |
-| 52 min | EUR | German Industrial Production (YoY) (Dec) |  |  | -2.85% |
-| 52 min | NOK | Manufacturing Production (MoM) (Dec) |  |  | 1.1% |
-| 07:45 | EUR | French Current Account (Dec) |  |  | -1.70B |
-| 07:45 | EUR | French Exports (Dec) |  |  | 50.1B |
-| 07:45 | EUR | French Imports (Dec) |  |  | 57.2B |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | 0.2% |
-| 07:45 | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
-| 07:45 | EUR | French Trade Balance (Dec) |  | -5.3B | -7.1B |
-| 08:00 | CHF | Foreign Reserves (USD) (Jan) |  |  | 731.0B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Dec) |  | 0.5% | -0.4% |
-| 08:00 | CNY | FX Reserves (USD) (Jan) |  | 3.200T | 3.202T |
+| 07:00 | EUR | German Exports (MoM) (Dec) | 2.9% | -0.6% | 2.3% |
+| 07:00 | EUR | German Imports (MoM) (Dec) | 2.1% | 1.8% | -2.7% |
+| 07:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | -2.85% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Dec) | 3.2% |  | 1.1% |
+| 39 min | EUR | French Current Account (Dec) |  |  | -1.70B |
+| 39 min | EUR | French Exports (Dec) |  |  | 50.1B |
+| 39 min | EUR | French Imports (Dec) |  |  | 57.2B |
+| 39 min | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | 0.2% |
+| 39 min | EUR | French Reserve Assets Total (Dec) |  |  | 275,572.0M |
+| 39 min | EUR | French Trade Balance (Dec) |  | -5.3B | -7.1B |
+| 54 min | CHF | Foreign Reserves (USD) (Jan) |  |  | 731.0B |
+| 54 min | EUR | Spanish Industrial Production (YoY) (Dec) |  | 0.5% | -0.4% |
+| 54 min | CNY | FX Reserves (USD) (Jan) |  | 3.200T | 3.202T |
 | 08:30 | HKD | Foreign Reserves (USD) (Jan) |  |  | 421.40B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 371.4B |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
