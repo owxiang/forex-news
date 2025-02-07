@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | FX Reserves (USD) (Jan) |  |  | 155.70B |
+| 33 min | IDR | FX Reserves (USD) (Jan) |  |  | 155.70B |
 | 04:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
 | 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.4% |
@@ -29,8 +29,8 @@
 | 11:30 | INR | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | PPI (YoY) (Jan) |  |  | 7.50% |
 | 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.80% |
+| 12:00 | MXN | PPI (YoY) (Jan) |  |  | 7.50% |
 | 13:00 | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
 | 13:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | IDR | Low | FX Reserves (USD) (Jan) |  |  | 155.70B |
+| 33 min | IDR | Low | FX Reserves (USD) (Jan) |  |  | 155.70B |
 | 04:30 | INR | Low | Cash Reserve Ratio |  | 4.00% | 4.00% |
 | 04:30 | INR | Moderate | Interest Rate Decision |  | 6.25% | 6.50% |
 | 04:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
@@ -36,11 +36,11 @@
 | 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
+| 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 1.6% |
