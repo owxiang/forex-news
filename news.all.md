@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | FX Reserves (USD) (Jan) | 156.10B |  | 155.70B |
-| 23 min | INR | Low | Cash Reserve Ratio |  | 4.00% | 4.00% |
-| 23 min | INR | Moderate | Interest Rate Decision |  | 6.25% | 6.50% |
-| 23 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 53 min | JPY | Low | Coincident Indicator (MoM) (Dec) |  |  | -1.4% |
-| 53 min | JPY | Low | Leading Index (Dec) |  | 108.2 | 107.5 |
-| 53 min | JPY | Low | Leading Index (MoM) (Dec) |  |  | -1.6% |
-| 06:00 | ZAR | Low | Foreign Reserves (USD) (Jan) |  |  | 65.46B |
-| 06:00 | ZAR | Low | Net FX Reserves (USD) (Jan) |  |  | 60.371B |
+| 04:30 | INR | Low | Cash Reserve Ratio | 4.00% | 4.00% | 4.00% |
+| 04:30 | INR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.50% |
+| 04:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) | 1.4% |  | -1.4% |
+| 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.1% |  | -1.6% |
+| 05:00 | JPY | Low | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
+| 54 min | ZAR | Low | Foreign Reserves (USD) (Jan) |  |  | 65.46B |
+| 54 min | ZAR | Low | Net FX Reserves (USD) (Jan) |  |  | 60.371B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 3.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.4% | -0.2% |
 | 07:00 | EUR | Low | German Exports (MoM) (Dec) |  | -0.6% | 2.1% |
@@ -28,6 +28,7 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jan) |  |  | 731.0B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q1) |  | -31 | -27 |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) |  | 0.5% | -0.4% |
+| 08:00 | CNY | Low | FX Reserves (USD) (Jan) |  | 3.200T | 3.202T |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 421.40B |
 | 08:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 371.4B |
@@ -39,8 +40,8 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
+| 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 1.6% |
@@ -48,7 +49,7 @@
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Jan) |  |  | 33.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Jan) |  |  | -13K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Jan) |  | -2K | -13K |
 | 13:30 | USD | High | Nonfarm Payrolls (Jan) |  | 169K | 256K |
 | 13:30 | USD | Moderate | Participation Rate (Jan) |  |  | 62.5% |
 | 13:30 | USD | Low | Payrolls Benchmark |  |  | -266.00 |
@@ -71,7 +72,6 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Feb) |  | 73.0 | 74.0 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | -0.5% | -0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) |  |  | 0.6% |
-| 16:08 | CNY | Low | FX Reserves (USD) (Jan) |  | 3.200T | 3.202T |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 582 |
