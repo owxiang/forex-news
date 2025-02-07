@@ -44,8 +44,8 @@
 | 12:00 | MXN | Low | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) | 4.1% | 3.8% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) | 0.5% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) | 4.1% | 3.8% | 4.1% |
 | 13:30 | USD | Low | Average Weekly Hours (Jan) | 34.1 | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Jan) | 32.0K |  | 34.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jan) | 3K | -2K | -12K |
