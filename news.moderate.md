@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | INR | Interest Rate Decision | 6.25% | 6.25% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 3.3% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Jan) |  | 0.4% | -0.2% |
-| 07:00 | EUR | German Industrial Production (MoM) (Dec) |  | -0.7% | 1.5% |
-| 07:00 | EUR | German Trade Balance (Dec) |  | 17.0B | 19.7B |
+| 52 min | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 3.3% |
+| 52 min | GBP | Halifax House Price Index (MoM) (Jan) |  | 0.4% | -0.2% |
+| 52 min | EUR | German Industrial Production (MoM) (Dec) |  | -0.7% | 1.5% |
+| 52 min | EUR | German Trade Balance (Dec) |  | 17.0B | 19.7B |
 | 08:00 | CHF | SECO Consumer Climate (Q1) |  | -31 | -27 |
 | 08:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) (Jan) |  |  | 7.50% |
-| 12:00 | MXN | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
 | 12:00 | MXN | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
+| 12:00 | MXN | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
 | 13:30 | USD | Participation Rate (Jan) |  |  | 62.5% |

@@ -8,12 +8,12 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) | 1.4% |  | -1.4% |
 | 05:00 | JPY | Leading Index (MoM) (Dec) | 1.1% |  | -1.6% |
 | 05:00 | JPY | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
-| 54 min | ZAR | Foreign Reserves (USD) (Jan) |  |  | 65.46B |
-| 54 min | ZAR | Net FX Reserves (USD) (Jan) |  |  | 60.371B |
-| 07:00 | EUR | German Exports (MoM) (Dec) |  | -0.6% | 2.1% |
-| 07:00 | EUR | German Imports (MoM) (Dec) |  | 1.8% | -3.3% |
-| 07:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | -2.85% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Dec) |  |  | 1.1% |
+| 06:00 | ZAR | Foreign Reserves (USD) (Jan) | 65.88B |  | 65.46B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Jan) | 61.328B |  | 60.371B |
+| 52 min | EUR | German Exports (MoM) (Dec) |  | -0.6% | 2.1% |
+| 52 min | EUR | German Imports (MoM) (Dec) |  | 1.8% | -3.3% |
+| 52 min | EUR | German Industrial Production (YoY) (Dec) |  |  | -2.85% |
+| 52 min | NOK | Manufacturing Production (MoM) (Dec) |  |  | 1.1% |
 | 07:45 | EUR | French Current Account (Dec) |  |  | -1.70B |
 | 07:45 | EUR | French Exports (Dec) |  |  | 50.1B |
 | 07:45 | EUR | French Imports (Dec) |  |  | 57.2B |
@@ -30,8 +30,8 @@
 | 11:30 | INR | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | PPI (YoY) (Jan) |  |  | 7.50% |
 | 12:00 | MXN | PPI (MoM) (Jan) |  |  | 0.80% |
+| 12:00 | MXN | PPI (YoY) (Jan) |  |  | 7.50% |
 | 13:00 | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
 | 13:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |

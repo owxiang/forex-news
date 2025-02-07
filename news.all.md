@@ -9,16 +9,16 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) | 1.4% |  | -1.4% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.1% |  | -1.6% |
 | 05:00 | JPY | Low | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
-| 54 min | ZAR | Low | Foreign Reserves (USD) (Jan) |  |  | 65.46B |
-| 54 min | ZAR | Low | Net FX Reserves (USD) (Jan) |  |  | 60.371B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 3.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.4% | -0.2% |
-| 07:00 | EUR | Low | German Exports (MoM) (Dec) |  | -0.6% | 2.1% |
-| 07:00 | EUR | Low | German Imports (MoM) (Dec) |  | 1.8% | -3.3% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.7% | 1.5% |
-| 07:00 | EUR | Moderate | German Trade Balance (Dec) |  | 17.0B | 19.7B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | -2.85% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | 1.1% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Jan) | 65.88B |  | 65.46B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Jan) | 61.328B |  | 60.371B |
+| 52 min | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 3.3% |
+| 52 min | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.4% | -0.2% |
+| 52 min | EUR | Low | German Exports (MoM) (Dec) |  | -0.6% | 2.1% |
+| 52 min | EUR | Low | German Imports (MoM) (Dec) |  | 1.8% | -3.3% |
+| 52 min | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.7% | 1.5% |
+| 52 min | EUR | Moderate | German Trade Balance (Dec) |  | 17.0B | 19.7B |
+| 52 min | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | -2.85% |
+| 52 min | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | 1.1% |
 | 07:45 | EUR | Low | French Current Account (Dec) |  |  | -1.70B |
 | 07:45 | EUR | Low | French Exports (Dec) |  |  | 50.1B |
 | 07:45 | EUR | Low | French Imports (Dec) |  |  | 57.2B |
@@ -37,11 +37,11 @@
 | 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
-| 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
+| 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 1.6% |
