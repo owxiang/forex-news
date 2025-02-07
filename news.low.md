@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | FX Reserves (USD) (Jan) | 156.10B |  | 155.70B |
-| 04:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
-| 04:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.4% |
-| 05:00 | JPY | Leading Index (MoM) (Dec) |  |  | -1.6% |
-| 05:00 | JPY | Leading Index (Dec) |  | 108.2 | 107.5 |
+| 23 min | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
+| 23 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 53 min | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.4% |
+| 53 min | JPY | Leading Index (Dec) |  | 108.2 | 107.5 |
+| 53 min | JPY | Leading Index (MoM) (Dec) |  |  | -1.6% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Jan) |  |  | 65.46B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Jan) |  |  | 60.371B |
 | 07:00 | EUR | German Exports (MoM) (Dec) |  | -0.6% | 2.1% |
