@@ -32,21 +32,21 @@
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Jan) | 421.50B |  | 421.50B |
 | 08:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 376.7B |  | 371.4B |
-| 54 min | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 7.50% |
-| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
-| 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jan) | 7.49% |  | 7.50% |
+| 54 min | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
+| 54 min | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.31% | 0.38% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 3.61% | 4.21% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
 | 12:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 7.50% |
 | 12:00 | MXN | Low | PPI (MoM) (Jan) |  |  | 0.80% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -19.5% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 1.6% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 3.8% | 3.9% |
 | 13:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Jan) |  |  | 33.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jan) |  | -2K | -13K |

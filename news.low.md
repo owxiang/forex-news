@@ -25,8 +25,8 @@
 | 08:16 | CNY | FX Reserves (USD) (Jan) | 3.209T | 3.200T | 3.202T |
 | 08:30 | HKD | Foreign Reserves (USD) (Jan) | 421.50B |  | 421.50B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 376.7B |  | 371.4B |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
-| 11:00 | ZAR | Business Confidence (Dec) |  |  | 118.1 |
+| 54 min | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.87% |
+| 54 min | ZAR | Business Confidence (Dec) |  |  | 118.1 |
 | 11:30 | INR | FX Reserves, USD |  |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) |  | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 3.70% | 3.65% |
