@@ -6,8 +6,8 @@
 | 04:30 | INR | Cash Reserve Ratio | 4.00% | 4.00% | 4.00% |
 | 04:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) | 1.4% |  | -1.4% |
-| 05:00 | JPY | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
 | 05:00 | JPY | Leading Index (MoM) (Dec) | 1.1% |  | -1.6% |
+| 05:00 | JPY | Leading Index (Dec) | 108.9 | 108.2 | 107.5 |
 | 06:00 | ZAR | Foreign Reserves (USD) (Jan) | 65.88B |  | 65.46B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Jan) | 61.328B |  | 60.371B |
 | 07:00 | EUR | German Exports (MoM) (Dec) | 2.9% | -0.6% | 2.3% |
@@ -31,8 +31,8 @@
 | 11:30 | INR | FX Reserves, USD | 630.61B |  | 629.56B |
 | 12:00 | MXN | Core CPI (MoM) (Jan) | 0.41% | 0.45% | 0.51% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Jan) | 3.66% | 3.70% | 3.65% |
-| 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 12:00 | MXN | PPI (YoY) (Jan) | 7.90% |  | 7.40% |
+| 12:00 | MXN | PPI (MoM) (Jan) | 0.80% |  | 0.80% |
 | 13:30 | USD | Average Weekly Hours (Jan) | 34.1 | 34.3 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jan) | 32.0K |  | 34.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jan) | 3K | -2K | -12K |
@@ -44,7 +44,7 @@
 | 15:00 | USD | Michigan Current Conditions (Feb) | 68.7 | 73.0 | 74.0 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Dec) | -0.5% | -0.5% | -0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Dec) | 1.0% |  | 0.9% |
-| 18:00 | BRL | Trade Balance (Jan) |  | 3.00B | 4.80B |
+| 55 min | BRL | Trade Balance (Jan) |  | 3.00B | 4.80B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 443.9K |
