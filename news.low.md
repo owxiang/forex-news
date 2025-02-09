@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:50 | JPY | Bank Lending (YoY) (Jan) |  | 3.1% | 3.1% |
+| 44 min | JPY | Bank Lending (YoY) (Jan) |  | 3.1% | 3.1% |
