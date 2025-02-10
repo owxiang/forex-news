@@ -23,4 +23,4 @@
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.220% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.185% |  | 4.155% |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |
+| 24 min | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |

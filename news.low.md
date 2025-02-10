@@ -19,4 +19,4 @@
 | 15:00 | USD | CB Employment Trends Index (Jan) | 108.35 |  | 109.23 |
 | 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.220% |
 | 16:30 | USD | 6-Month Bill Auction | 4.185% |  | 4.155% |
-| 23:30 | AUD | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |
+| 24 min | AUD | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |
