@@ -7,12 +7,11 @@
 | 05:00 | JPY | Low | Economy Watchers Current Index (Jan) | 48.6 | 49.7 | 49.0 |
 | 07:00 | NOK | Low | Core CPI YTD (Jan) | 2.8% |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jan) | 0.1% |  | -0.1% |
-| 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.2% |  | -0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jan) | 2.3% |  | 2.2% |
+| 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.2% |  | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jan) | 18.1% |  | 9.3% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Feb) | -12.7 | -16.4 | -17.7 |
-| 53 min | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.218% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.496% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.395% |
