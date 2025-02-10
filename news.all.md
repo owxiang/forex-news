@@ -18,9 +18,9 @@
 | 14:00 | BRL | Low | Auto Production (MoM) (Jan) | -7.7% |  | -19.5% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Jan) | -33.5% |  | 1.6% |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 54 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 109.70 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) |  |  | 3.0% |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:00 | USD | Low | CB Employment Trends Index (Jan) | 108.35 |  | 109.23 |
+| 54 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) |  |  | 3.0% |
+| 54 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.220% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.155% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |

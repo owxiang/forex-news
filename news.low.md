@@ -16,7 +16,7 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.358% |  | 2.395% |
 | 14:00 | BRL | Auto Production (MoM) (Jan) | -7.7% |  | -19.5% |
 | 14:00 | BRL | Auto Sales (MoM) (Jan) | -33.5% |  | 1.6% |
-| 54 min | USD | CB Employment Trends Index (Jan) |  |  | 109.70 |
+| 15:00 | USD | CB Employment Trends Index (Jan) | 108.35 |  | 109.23 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.220% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.155% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |
