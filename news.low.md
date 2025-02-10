@@ -17,6 +17,6 @@
 | 14:00 | BRL | Auto Production (MoM) (Jan) | -7.7% |  | -19.5% |
 | 14:00 | BRL | Auto Sales (MoM) (Jan) | -33.5% |  | 1.6% |
 | 15:00 | USD | CB Employment Trends Index (Jan) | 108.35 |  | 109.23 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.220% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.155% |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.220% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.155% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |
