@@ -11,8 +11,8 @@
 | 07:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
 | 07:00 | NOK | Low | Core CPI YTD (Jan) |  |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jan) |  |  | -0.1% |
-| 07:00 | NOK | Low | CPI (MoM) (Jan) |  |  | -0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jan) |  |  | 2.2% |
+| 07:00 | NOK | Low | CPI (MoM) (Jan) |  |  | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jan) |  |  | 9.3% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -16.4 | -17.7 |
 | 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
