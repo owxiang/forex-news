@@ -11,7 +11,7 @@
 | 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.2% |  | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jan) | 18.1% |  | 9.3% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Feb) | -12.7 | -16.4 | -17.7 |
-| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.218% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.496% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.395% |
