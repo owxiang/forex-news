@@ -11,11 +11,11 @@
 | 07:00 | NOK | PPI (YoY) (Jan) | 18.1% |  | 9.3% |
 | 09:30 | EUR | Sentix Investor Confidence (Feb) | -12.7 | -16.4 | -17.7 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.218% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.496% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.395% |
-| 14:00 | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
-| 14:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
+| 50 min | EUR | French 12-Month BTF Auction |  |  | 2.218% |
+| 50 min | EUR | French 3-Month BTF Auction |  |  | 2.496% |
+| 50 min | EUR | French 6-Month BTF Auction |  |  | 2.395% |
+| 50 min | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
+| 50 min | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
 | 15:00 | USD | CB Employment Trends Index (Jan) |  |  | 109.70 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.220% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.155% |
