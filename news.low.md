@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private House Approvals (Dec) | -3.0% | -3.0% | -1.7% |
-| 05:00 | JPY | Economy Watchers Current Index (Jan) |  | 49.7 | 49.9 |
+| 52 min | JPY | Economy Watchers Current Index (Jan) |  | 49.7 | 49.9 |
 | 07:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 07:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
 | 07:00 | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |

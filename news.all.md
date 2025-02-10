@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | 0.7% | 0.7% | -3.4% |
 | 00:30 | AUD | Low | Private House Approvals (Dec) | -3.0% | -3.0% | -1.7% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Jan) |  | 49.7 | 49.9 |
+| 52 min | JPY | Low | Economy Watchers Current Index (Jan) |  | 49.7 | 49.9 |
 | 07:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 07:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
 | 07:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
