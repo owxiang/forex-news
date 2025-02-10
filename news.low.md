@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | Private House Approvals (Dec) |  | -3.0% | -1.7% |
-| 02:00 | IDR | Motorbike Sales (YoY) (Jan) |  |  | -5.50% |
+| 00:30 | AUD | Private House Approvals (Dec) | -3.0% | -3.0% | -1.7% |
+| 26 min | IDR | Motorbike Sales (YoY) (Jan) |  |  | -5.50% |
 | 05:00 | JPY | Economy Watchers Current Index (Jan) |  | 49.7 | 49.9 |
 | 07:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 07:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
