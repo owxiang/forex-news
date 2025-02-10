@@ -7,14 +7,14 @@
 | 05:00 | JPY | Low | Economy Watchers Current Index (Jan) | 48.6 | 49.7 | 49.0 |
 | 07:00 | NOK | Low | Core CPI YTD (Jan) | 2.8% |  | 2.7% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jan) | 0.1% |  | -0.1% |
-| 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.2% |  | -0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jan) | 2.3% |  | 2.2% |
+| 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.2% |  | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jan) | 18.1% |  | 9.3% |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -16.4 | -17.7 |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
-| 10:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
+| 23 min | EUR | Low | Sentix Investor Confidence (Feb) |  | -16.4 | -17.7 |
+| 53 min | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
+| 53 min | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
+| 53 min | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
+| 53 min | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
 | 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.218% |
