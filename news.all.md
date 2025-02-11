@@ -10,19 +10,19 @@
 | 06:30 | EUR | Low | French Unemployment Rate (Q4) | 7.3% | 7.5% | 7.4% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q4) | -0.6% |  | -1.6% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | -0.4% | 0.2% | 0.5% |
-| 37 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.493% |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
-| 10:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
+| 08:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 34 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.493% |
+| 54 min | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
+| 54 min | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
+| 54 min | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
+| 54 min | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.420% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jan) |  | 104.6 | 105.1 |
 | 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -2.6% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -1.4% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -2.6% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  |  | 0.1% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -1.4% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
 | 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.44% |
