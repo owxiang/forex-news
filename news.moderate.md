@@ -7,7 +7,7 @@
 | 08:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Jan) | 4.56% | 4.57% | 4.83% |
 | 12:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 20 min | CAD | Building Permits (MoM) (Dec) |  | 1.6% | -5.9% |
+| 13:30 | CAD | Building Permits (MoM) (Dec) | 11.0% | 1.6% | -5.6% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
