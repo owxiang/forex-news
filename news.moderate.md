@@ -8,10 +8,10 @@
 | 12:00 | BRL | CPI (YoY) (Jan) | 4.56% | 4.57% | 4.83% |
 | 12:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 13:30 | CAD | Building Permits (MoM) (Dec) | 11.0% | 1.6% | -5.6% |
-| 53 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 53 min | USD | WASDE Report |  |  |  |
-| 53 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.332% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 54 min | USD | 3-Year Note Auction |  |  | 4.332% |
 | 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 2.800M | 5.025M |
