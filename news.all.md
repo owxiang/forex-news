@@ -1,26 +1,40 @@
-## 10 February 2025 - All Forex News
+## 11 February 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | 0.7% | 0.7% | -3.4% |
-| 00:30 | AUD | Low | Private House Approvals (Dec) | -3.0% | -3.0% | -1.7% |
-| 05:00 | JPY | Low | Economy Watchers Current Index (Jan) | 48.6 | 49.7 | 49.0 |
-| 07:00 | NOK | Low | Core CPI YTD (Jan) | 2.8% |  | 2.7% |
-| 07:00 | NOK | Low | Core Inflation (MoM) (Jan) | 0.1% |  | -0.1% |
-| 07:00 | NOK | Low | CPI (YoY) (Jan) | 2.3% |  | 2.2% |
-| 07:00 | NOK | Low | CPI (MoM) (Jan) | 0.2% |  | -0.1% |
-| 07:00 | NOK | Low | PPI (YoY) (Jan) | 18.1% |  | 9.3% |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Feb) | -12.7 | -16.4 | -17.7 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.224% |  | 2.218% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.450% |  | 2.496% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.358% |  | 2.395% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Jan) | -7.7% |  | -19.5% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Jan) | -33.5% |  | 1.6% |
-| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | USD | Low | CB Employment Trends Index (Jan) | 108.35 |  | 109.23 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jan) | 3.0% | 3.0% | 3.0% |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.220% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.185% |  | 4.155% |
-| 24 min | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jan) | 2.5% | 1.1% | 3.1% |
+| 4 min | AUD | Moderate | NAB Business Confidence (Jan) |  |  | -2 |
+| 4 min | AUD | Low | NAB Business Survey (Jan) |  |  | 6 |
+| 03:00 | IDR | Low | Consumer Confidence (Jan) |  |  | 127.7 |
+| 06:30 | EUR | Low | French Unemployment Rate (Q4) |  | 7.5% | 7.4% |
+| 07:00 | NOK | Low | GDP (QoQ) (Q4) |  |  | -1.8% |
+| 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) |  | 0.2% | 0.5% |
+| 08:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.493% |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
+| 10:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
+| 10:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.420% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jan) |  | 104.6 | 105.1 |
+| 11:00 | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -2.6% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  |  | 0.1% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -1.4% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
+| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
+| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.44% |
+| 12:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 2.1% | -5.9% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
+| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.332% |
+| 20:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 20:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 5.025M |
+| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.3% | 1.3% |
+| 23:50 | JPY | Low | M3 Money Supply (Jan) |  |  | 2,199.3B |

@@ -1,8 +1,18 @@
-## 10 February 2025 - Moderate Impact Forex News
+## 11 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (MoM) (Dec) | 0.7% | 0.7% | -3.4% |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jan) | 3.0% | 3.0% | 3.0% |
-| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 2.5% | 1.1% | 3.1% |
+| 4 min | AUD | NAB Business Confidence (Jan) |  |  | -2 |
+| 08:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
+| 12:00 | BRL | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
+| 12:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | CAD | Building Permits (MoM) (Dec) |  | 2.1% | -5.9% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 4.332% |
+| 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 5.025M |

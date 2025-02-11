@@ -1,22 +1,25 @@
-## 10 February 2025 - Low Impact Forex News
+## 11 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Private House Approvals (Dec) | -3.0% | -3.0% | -1.7% |
-| 05:00 | JPY | Economy Watchers Current Index (Jan) | 48.6 | 49.7 | 49.0 |
-| 07:00 | NOK | Core CPI YTD (Jan) | 2.8% |  | 2.7% |
-| 07:00 | NOK | Core Inflation (MoM) (Jan) | 0.1% |  | -0.1% |
-| 07:00 | NOK | CPI (YoY) (Jan) | 2.3% |  | 2.2% |
-| 07:00 | NOK | CPI (MoM) (Jan) | 0.2% |  | -0.1% |
-| 07:00 | NOK | PPI (YoY) (Jan) | 18.1% |  | 9.3% |
-| 09:30 | EUR | Sentix Investor Confidence (Feb) | -12.7 | -16.4 | -17.7 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.224% |  | 2.218% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.450% |  | 2.496% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.358% |  | 2.395% |
-| 14:00 | BRL | Auto Production (MoM) (Jan) | -7.7% |  | -19.5% |
-| 14:00 | BRL | Auto Sales (MoM) (Jan) | -33.5% |  | 1.6% |
-| 15:00 | USD | CB Employment Trends Index (Jan) | 108.35 |  | 109.23 |
-| 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.220% |
-| 16:30 | USD | 6-Month Bill Auction | 4.185% |  | 4.155% |
-| 24 min | AUD | Westpac Consumer Sentiment (Feb) |  |  | -0.7% |
+| 4 min | AUD | NAB Business Survey (Jan) |  |  | 6 |
+| 03:00 | IDR | Consumer Confidence (Jan) |  |  | 127.7 |
+| 06:30 | EUR | French Unemployment Rate (Q4) |  | 7.5% | 7.4% |
+| 07:00 | NOK | GDP (QoQ) (Q4) |  |  | -1.8% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q4) |  | 0.2% | 0.5% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.493% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
+| 10:00 | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.420% |
+| 11:00 | USD | NFIB Small Business Optimism (Jan) |  | 104.6 | 105.1 |
+| 11:00 | ZAR | Business Confidence (Dec) |  |  | 118.1 |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Dec) |  |  | -2.6% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
+| 12:00 | MXN | Industrial Production (MoM) (Dec) |  |  | 0.1% |
+| 12:00 | MXN | Industrial Production (YoY) (Dec) |  |  | -1.4% |
+| 12:00 | BRL | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.44% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.7% |
+| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.3% | 1.3% |
+| 23:50 | JPY | M3 Money Supply (Jan) |  |  | 2,199.3B |
