@@ -14,4 +14,4 @@
 | 18:00 | USD | 3-Year Note Auction | 4.300% |  | 4.332% |
 | 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 25 min | USD | API Weekly Crude Oil Stock |  | 2.800M | 5.025M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 9.043M | 2.800M | 5.025M |
