@@ -16,12 +16,12 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jan) | 102.8 | 104.6 | 105.1 |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) | -2.4% |  | -1.3% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) | -1.2% |  | -1.9% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  |  | 0.1% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -1.4% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
-| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.44% |
-| 12:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Dec) | -1.4% |  | 0.1% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) | -2.7% |  | -1.4% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Jan) | 4.56% | 4.57% | 4.83% |
+| 12:00 | BRL | Low | CPI (MoM) (Jan) | 0.16% | 0.14% | 0.52% |
+| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.06% |  | 0.44% |
+| 5 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 1.6% | -5.9% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
