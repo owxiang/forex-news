@@ -8,7 +8,7 @@
 | 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
 | 12:00 | BRL | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
 | 12:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | CAD | Building Permits (MoM) (Dec) |  | 2.1% | -5.9% |
+| 13:30 | CAD | Building Permits (MoM) (Dec) |  | 1.6% | -5.9% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
