@@ -11,10 +11,10 @@
 | 10:00 | EUR | Spanish 3-Month Letras Auction | 2.431% |  | 2.493% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.170% |  | 2.420% |
 | 11:00 | USD | NFIB Small Business Optimism (Jan) | 102.8 | 104.6 | 105.1 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Dec) | -2.4% |  | -1.3% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Dec) | -1.2% |  | -1.9% |
-| 12:00 | MXN | Industrial Production (MoM) (Dec) | -1.4% |  | 0.0% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Dec) | -2.4% |  | -1.3% |
 | 12:00 | MXN | Industrial Production (YoY) (Dec) | -2.7% |  | -1.4% |
+| 12:00 | MXN | Industrial Production (MoM) (Dec) | -1.4% |  | 0.0% |
 | 12:00 | BRL | CPI (MoM) (Jan) | 0.16% | 0.14% | 0.52% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.06% |  | 0.44% |
 | 13:55 | USD | Redbook (YoY) | 5.3% |  | 5.7% |

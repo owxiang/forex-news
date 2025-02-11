@@ -11,7 +11,7 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 54 min | USD | 3-Year Note Auction |  |  | 4.332% |
+| 18:00 | USD | 3-Year Note Auction | 4.300% |  | 4.332% |
 | 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 2.800M | 5.025M |
