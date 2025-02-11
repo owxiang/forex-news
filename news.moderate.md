@@ -12,6 +12,6 @@
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.300% |  | 4.332% |
-| 24 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 24 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.800M | 5.025M |
+| 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 25 min | USD | API Weekly Crude Oil Stock |  | 2.800M | 5.025M |
