@@ -10,7 +10,7 @@
 | 06:30 | EUR | Low | French Unemployment Rate (Q4) | 7.3% | 7.5% | 7.4% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q4) | -0.6% |  | -1.6% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | -0.4% | 0.2% | 0.5% |
-| 08:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 37 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.493% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 10:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
@@ -23,8 +23,8 @@
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -1.4% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  |  | 0.1% |
-| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
+| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.44% |
 | 12:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 1.6% | -5.9% |

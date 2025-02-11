@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 2.5% | 1.1% | 3.1% |
 | 00:30 | AUD | NAB Business Confidence (Jan) | 4 |  | -2 |
-| 08:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 37 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
 | 12:00 | BRL | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
 | 12:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
