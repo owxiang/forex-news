@@ -32,5 +32,5 @@
 | 20:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 9.043M | 2.800M | 5.025M |
-| 23:50 | JPY | Low | M2 Money Stock (YoY) |  | 1.3% | 1.3% |
-| 23:50 | JPY | Low | M3 Money Supply (Jan) |  |  | 2,199.3B |
+| 44 min | JPY | Low | M2 Money Stock (YoY) |  | 1.3% | 1.3% |
+| 44 min | JPY | Low | M3 Money Supply (Jan) |  |  | 2,199.3B |

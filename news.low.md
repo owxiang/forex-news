@@ -18,5 +18,5 @@
 | 12:00 | BRL | CPI (MoM) (Jan) | 0.16% | 0.14% | 0.52% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.06% |  | 0.44% |
 | 13:55 | USD | Redbook (YoY) | 5.3% |  | 5.7% |
-| 23:50 | JPY | M2 Money Stock (YoY) |  | 1.3% | 1.3% |
-| 23:50 | JPY | M3 Money Supply (Jan) |  |  | 2,199.3B |
+| 44 min | JPY | M2 Money Stock (YoY) |  | 1.3% | 1.3% |
+| 44 min | JPY | M3 Money Supply (Jan) |  |  | 2,199.3B |
