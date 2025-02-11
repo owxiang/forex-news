@@ -12,15 +12,14 @@
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | -0.4% | 0.2% | 0.5% |
 | 08:45 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 10:00 | EUR | Low | Spanish 3-Month Letras Auction | 2.431% |  | 2.493% |
-| 23 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.420% |
-| 53 min | USD | Low | NFIB Small Business Optimism (Jan) |  | 104.6 | 105.1 |
-| 53 min | ZAR | Low | Business Confidence (Dec) |  |  | 118.1 |
-| 53 min | ZAR | Low | Manufacturing Production (YoY) (Dec) |  |  | -2.6% |
-| 53 min | ZAR | Low | Manufacturing Production (MoM) (Dec) |  |  | -1.1% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -1.4% |
+| 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.170% |  | 2.420% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jan) | 102.8 | 104.6 | 105.1 |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) | -2.4% |  | -1.3% |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) | -1.2% |  | -1.9% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Dec) |  |  | 0.1% |
-| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Dec) |  |  | -1.4% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.57% | 4.83% |
+| 12:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.14% | 0.52% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.44% |
 | 12:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 1.6% | -5.9% |
