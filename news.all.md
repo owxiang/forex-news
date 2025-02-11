@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jan) | 2.5% | 1.1% | 3.1% |
-| 4 min | AUD | Moderate | NAB Business Confidence (Jan) |  |  | -2 |
-| 4 min | AUD | Low | NAB Business Survey (Jan) |  |  | 6 |
+| 00:30 | AUD | Moderate | NAB Business Confidence (Jan) | 4 |  | -2 |
+| 00:30 | AUD | Low | NAB Business Survey (Jan) | 3 |  | 6 |
 | 03:00 | IDR | Low | Consumer Confidence (Jan) |  |  | 127.7 |
 | 06:30 | EUR | Low | French Unemployment Rate (Q4) |  | 7.5% | 7.4% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q4) |  |  | -1.8% |

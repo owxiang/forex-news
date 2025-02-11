@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | NAB Business Survey (Jan) |  |  | 6 |
+| 00:30 | AUD | NAB Business Survey (Jan) | 3 |  | 6 |
 | 03:00 | IDR | Consumer Confidence (Jan) |  |  | 127.7 |
 | 06:30 | EUR | French Unemployment Rate (Q4) |  | 7.5% | 7.4% |
 | 07:00 | NOK | GDP (QoQ) (Q4) |  |  | -1.8% |
