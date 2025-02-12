@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | Retail Sales (YoY) (Dec) | 1.8% |  | 0.9% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Jan) | 4.7% |  | 12.6% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Dec) | -7.1% |  | -1.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Dec) | -3.1% | -0.1% | 0.3% |
-| 09:30 | ZAR | Business Confidence (Jan) | 120.0 |  | 121.0 |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Dec) | -7.1% |  | -1.6% |
 | 09:30 | ZAR | Business Confidence (Dec) | 121.0 |  | 118.1 |
+| 09:30 | ZAR | Business Confidence (Jan) | 120.0 |  | 121.0 |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.323% |  | 2.517% |
 | 10:30 | INR | Cumulative Industrial Production (Dec) | 4.00% |  | 4.10% |
 | 10:30 | INR | Industrial Production (YoY) (Dec) | 3.2% | 3.9% | 5.0% |
@@ -18,8 +18,8 @@
 | 12:00 | USD | MBA Purchase Index | 153.1 |  | 156.7 |
 | 12:00 | USD | Mortgage Market Index | 230.0 |  | 224.8 |
 | 12:00 | USD | Mortgage Refinance Index | 640.6 |  | 584.3 |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) | 2.4% |  | 2.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) | -0.5% |  | -1.4% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) | 2.4% |  | 2.4% |
 | 13:30 | USD | Core CPI Index (Jan) | 324.74 |  | 323.30 |
 | 13:30 | USD | CPI Index, n.s.a. (Jan) | 317.67 | 317.46 | 315.61 |
 | 13:30 | USD | CPI Index, s.a (Jan) | 319.09 |  | 317.60 |
@@ -41,5 +41,5 @@
 | 17:30 | BRL | Foreign Exchange Flows | -0.350B |  | 1.253B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
-| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
+| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
