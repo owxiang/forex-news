@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Home Loans (MoM) |  |  | 0.1% |
+| 27 min | AUD | Home Loans (MoM) |  |  | 0.1% |
 | 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:30 | INR | CPI (YoY) (Jan) |  | 4.69% | 5.22% |
