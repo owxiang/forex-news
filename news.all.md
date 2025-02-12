@@ -4,28 +4,29 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | Retail Sales (YoY) (Dec) | 1.8% |  | 0.9% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Jan) | 4.7% |  | 12.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) | -3.1% | -0.1% | 0.3% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) | -7.1% |  | -1.6% |
-| 09:30 | ZAR | Low | Business Confidence (Jan) | 120.0 |  | 118.1 |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) | -3.1% | -0.1% | 0.3% |
+| 09:30 | ZAR | Low | Business Confidence (Dec) | 121.0 |  | 118.1 |
+| 09:31 | ZAR | Low | Business Confidence (Jan) | 120.0 |  | 121.0 |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 4 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.517% |
-| 24 min | INR | Moderate | CPI (YoY) (Jan) |  | 4.60% | 5.22% |
-| 24 min | INR | Low | Cumulative Industrial Production (Dec) |  |  | 4.10% |
-| 24 min | INR | Low | Industrial Production (YoY) (Dec) |  | 3.9% | 5.2% |
-| 24 min | INR | Low | Manufacturing Output (MoM) (Dec) |  |  | 5.8% |
-| 24 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.840% |
-| 54 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.2% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 156.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 224.8 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 584.3 |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.9% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.9% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.323% |  | 2.517% |
+| 10:30 | INR | Moderate | CPI (YoY) (Jan) | 4.31% | 4.60% | 5.22% |
+| 10:30 | INR | Low | Cumulative Industrial Production (Dec) | 4.00% |  | 4.10% |
+| 10:30 | INR | Low | Industrial Production (YoY) (Dec) | 3.2% | 3.9% | 5.0% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Dec) | 3.0% |  | 5.5% |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 2.650% |  | 2.840% |
+| 11:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.2% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 156.7 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 224.8 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 584.3 |
+| 54 min | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.9% |
+| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.9% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Dec) |  |  | 24.1B |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.1% | 3.2% |
 | 13:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.1% | 3.2% |
 | 13:30 | USD | Low | Core CPI Index (Jan) |  |  | 323.38 |
 | 13:30 | USD | High | CPI (MoM) (Jan) |  | 0.3% | 0.4% |
 | 13:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 2.9% |
@@ -56,8 +57,8 @@
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.680% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -88.1B | -87.0B |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
 | 22:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
 | 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |

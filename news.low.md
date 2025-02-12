@@ -4,21 +4,22 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | Retail Sales (YoY) (Dec) | 1.8% |  | 0.9% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Jan) | 4.7% |  | 12.6% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Dec) | -3.1% | -0.1% | 0.3% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Dec) | -7.1% |  | -1.6% |
-| 09:30 | ZAR | Business Confidence (Jan) | 120.0 |  | 118.1 |
-| 4 min | EUR | Italian 12-Month BOT Auction |  |  | 2.517% |
-| 24 min | INR | Cumulative Industrial Production (Dec) |  |  | 4.10% |
-| 24 min | INR | Industrial Production (YoY) (Dec) |  | 3.9% | 5.2% |
-| 24 min | INR | Manufacturing Output (MoM) (Dec) |  |  | 5.8% |
-| 24 min | EUR | German 30-Year Bund Auction |  |  | 2.840% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.2% |
-| 12:00 | USD | MBA Purchase Index |  |  | 156.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 224.8 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 584.3 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.9% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.9% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Dec) | -3.1% | -0.1% | 0.3% |
+| 09:30 | ZAR | Business Confidence (Dec) | 121.0 |  | 118.1 |
+| 09:31 | ZAR | Business Confidence (Jan) | 120.0 |  | 121.0 |
+| 10:10 | EUR | Italian 12-Month BOT Auction | 2.323% |  | 2.517% |
+| 10:30 | INR | Cumulative Industrial Production (Dec) | 4.00% |  | 4.10% |
+| 10:30 | INR | Industrial Production (YoY) (Dec) | 3.2% | 3.9% | 5.0% |
+| 10:30 | INR | Manufacturing Output (MoM) (Dec) | 3.0% |  | 5.5% |
+| 10:30 | EUR | German 30-Year Bund Auction | 2.650% |  | 2.840% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.2% |
+| 54 min | USD | MBA Purchase Index |  |  | 156.7 |
+| 54 min | USD | Mortgage Market Index |  |  | 224.8 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 584.3 |
+| 54 min | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.9% |
+| 54 min | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.9% |
 | 13:00 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 24.1B |
 | 13:30 | USD | Core CPI Index (Jan) |  |  | 323.38 |
 | 13:30 | USD | CPI Index, n.s.a. (Jan) |  | 317.46 | 315.61 |
