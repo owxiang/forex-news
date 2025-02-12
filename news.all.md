@@ -53,8 +53,8 @@
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.350B |  | 1.253B |
 | 18:00 | USD | High | 10-Year Note Auction | 4.632% |  | 4.680% |
-| 22 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 52 min | USD | Moderate | Federal Budget Balance (Jan) |  | -88.1B | -87.0B |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jan) | -129.0B | -88.1B | -87.0B |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
 | 22:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
