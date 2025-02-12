@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
-| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 54 min | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
+| 54 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:30 | INR | CPI (YoY) (Jan) |  | 4.60% | 5.22% |
 | 11:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
