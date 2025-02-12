@@ -20,12 +20,11 @@
 | 12:00 | USD | Mortgage Refinance Index | 640.6 |  | 584.3 |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) | 2.4% |  | 2.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) | -0.5% |  | -1.4% |
-| 20 min | USD | Core CPI Index (Jan) |  |  | 323.38 |
-| 20 min | USD | CPI Index, n.s.a. (Jan) |  | 317.46 | 315.61 |
-| 20 min | USD | CPI Index, s.a (Jan) |  |  | 317.69 |
-| 20 min | USD | CPI, n.s.a (MoM) (Jan) |  |  | 0.04% |
-| 20 min | USD | Real Earnings (MoM) (Jan) |  |  | -0.1% |
-| 35 min | EUR | German Current Account Balance n.s.a (Dec) |  |  | 24.1B |
+| 13:30 | USD | Core CPI Index (Jan) | 324.74 |  | 323.30 |
+| 13:30 | USD | CPI Index, n.s.a. (Jan) | 317.67 | 317.46 | 315.61 |
+| 13:30 | USD | CPI Index, s.a (Jan) | 319.09 |  | 317.60 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jan) | 0.65% |  | 0.04% |
+| 13:30 | USD | Real Earnings (MoM) (Jan) | -0.3% |  | -0.4% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.160M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.178M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.186M |
@@ -43,5 +42,5 @@
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 1.253B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
-| 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
 | 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
+| 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
