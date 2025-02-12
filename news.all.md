@@ -4,9 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | Retail Sales (YoY) (Dec) | 1.8% |  | 0.9% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Jan) | 4.7% |  | 12.6% |
-| 54 min | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | -1.5% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
+| 52 min | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | -1.5% |
+| 52 min | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
 | 09:30 | ZAR | Low | Business Confidence (Jan) |  |  | 118.1 |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 10:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
@@ -64,5 +63,5 @@
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
 | 22:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
 | 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
+| 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
