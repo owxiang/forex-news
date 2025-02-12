@@ -10,6 +10,6 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.872M |  | -0.034M |
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jan) |  | -88.1B | -87.0B |
+| 52 min | USD | Federal Budget Balance (Jan) |  | -88.1B | -87.0B |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
 | 22:05 | USD | Fed Waller Speaks |  |  |  |
