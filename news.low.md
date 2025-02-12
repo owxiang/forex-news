@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
-| 03:00 | IDR | Retail Sales (YoY) (Dec) |  |  | 0.9% |
+| 33 min | IDR | Retail Sales (YoY) (Dec) |  |  | 0.9% |
+| 05:00 | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Jan) |  |  | 11.2% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Dec) |  |  | -1.5% |
@@ -47,5 +47,5 @@
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 1.253B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
-| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
+| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |

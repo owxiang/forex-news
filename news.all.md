@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 27 min | AUD | Moderate | Home Loans (MoM) |  |  | 0.1% |
-| 27 min | AUD | Low | Invest Housing Finance (MoM) |  |  | -1.0% |
-| 03:00 | IDR | Low | Retail Sales (YoY) (Dec) |  |  | 0.9% |
+| 33 min | IDR | Low | Retail Sales (YoY) (Dec) |  |  | 0.9% |
+| 05:00 | AUD | Moderate | Home Loans (MoM) |  |  | 0.1% |
+| 05:00 | AUD | Low | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Jan) |  |  | 11.2% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | -1.5% |
@@ -66,5 +66,5 @@
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
 | 22:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
+| 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
