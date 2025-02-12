@@ -7,7 +7,7 @@
 | 11:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (Jan) | 3.3% | 3.1% | 3.2% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.034M |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.034M |
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jan) |  | -88.1B | -87.0B |
