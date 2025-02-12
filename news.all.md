@@ -27,8 +27,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Jan) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jan) | 3.3% | 3.1% | 3.2% |
 | 13:30 | USD | Low | Core CPI Index (Jan) | 324.74 |  | 323.30 |
-| 13:30 | USD | High | CPI (YoY) (Jan) | 3.0% | 2.9% | 2.9% |
 | 13:30 | USD | High | CPI (MoM) (Jan) | 0.5% | 0.3% | 0.4% |
+| 13:30 | USD | High | CPI (YoY) (Jan) | 3.0% | 2.9% | 2.9% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jan) | 317.67 | 317.46 | 315.61 |
 | 13:30 | USD | Low | CPI Index, s.a (Jan) | 319.09 |  | 317.60 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jan) | 0.65% |  | 0.04% |
@@ -45,18 +45,18 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 1.0% |
 | 15:30 | USD | Low | Gasoline Inventories | -3.035M | 1.900M | 2.233M |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jan) | 0.3% |  | 0.3% |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) | 55.34 |  | 57.59 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 46.09 |  | 48.24 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 59.65 |  | 56.16 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) | 48.95 |  | 51.86 |
-| 53 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.253B |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.680% |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) | 54.43 |  | 54.43 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 45.47 |  | 45.47 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.27 |  | 56.16 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) | 51.16 |  | 51.16 |
+| 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 1.253B |
+| 54 min | USD | High | 10-Year Note Auction |  |  | 4.680% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -88.1B | -87.0B |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
 | 22:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
 | 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
+| 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |

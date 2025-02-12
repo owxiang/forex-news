@@ -34,12 +34,12 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 1.0% |
 | 15:30 | USD | Gasoline Inventories | -3.035M | 1.900M | 2.233M |
 | 16:00 | USD | Cleveland CPI (MoM) (Jan) | 0.3% |  | 0.3% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jan) | 55.34 |  | 57.59 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 46.09 |  | 48.24 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 59.65 |  | 56.16 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 48.95 |  | 51.86 |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 1.253B |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jan) | 54.43 |  | 54.43 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 45.47 |  | 45.47 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.27 |  | 56.16 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 51.16 |  | 51.16 |
+| 24 min | BRL | Foreign Exchange Flows |  |  | 1.253B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
-| 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
 | 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
+| 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |

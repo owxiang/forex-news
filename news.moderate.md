@@ -8,8 +8,8 @@
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (Jan) | 3.3% | 3.1% | 3.2% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.872M |  | -0.034M |
-| 53 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 53 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jan) |  | -88.1B | -87.0B |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
 | 22:05 | USD | Fed Waller Speaks |  |  |  |
