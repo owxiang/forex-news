@@ -11,5 +11,5 @@
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jan) | -129.0B | -88.1B | -87.0B |
-| 39 min | NZD | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
-| 59 min | USD | Fed Waller Speaks |  |  |  |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Jan) | -1.6% |  | 2.4% |
+| 22:05 | USD | Fed Waller Speaks |  |  |  |
