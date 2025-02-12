@@ -55,8 +55,8 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.632% |  | 4.680% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jan) | -129.0B | -88.1B | -87.0B |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
-| 22:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 39 min | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
+| 39 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
+| 59 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
 | 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |

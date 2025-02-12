@@ -40,6 +40,6 @@
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Feb) | 48.95 |  | 51.16 |
 | 17:30 | BRL | Foreign Exchange Flows | -0.350B |  | 1.253B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
+| 39 min | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
 | 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
 | 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
