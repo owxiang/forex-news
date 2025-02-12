@@ -6,15 +6,12 @@
 | 06:00 | JPY | Machine Tool Orders (YoY) (Jan) | 4.7% |  | 12.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Dec) | -3.1% | -0.1% | 0.3% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Dec) | -7.1% |  | -1.6% |
-| 24 min | ZAR | Business Confidence (Jan) |  |  | 118.1 |
-| 54 min | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
-| 54 min | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
-| 54 min | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.517% |
-| 10:30 | INR | Cumulative Industrial Production (Dec) |  |  | 4.10% |
-| 10:30 | INR | Industrial Production (YoY) (Dec) |  | 3.9% | 5.2% |
-| 10:30 | INR | Manufacturing Output (MoM) (Dec) |  |  | 5.8% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.840% |
+| 09:30 | ZAR | Business Confidence (Jan) | 120.0 |  | 118.1 |
+| 4 min | EUR | Italian 12-Month BOT Auction |  |  | 2.517% |
+| 24 min | INR | Cumulative Industrial Production (Dec) |  |  | 4.10% |
+| 24 min | INR | Industrial Production (YoY) (Dec) |  | 3.9% | 5.2% |
+| 24 min | INR | Manufacturing Output (MoM) (Dec) |  |  | 5.8% |
+| 24 min | EUR | German 30-Year Bund Auction |  |  | 2.840% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 156.7 |
@@ -45,5 +42,5 @@
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 1.253B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
-| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
+| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
