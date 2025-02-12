@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | Retail Sales (YoY) (Dec) | 1.8% |  | 0.9% |
-| 05:00 | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
+| 53 min | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 06:00 | JPY | Machine Tool Orders (YoY) (Jan) |  |  | 11.2% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Dec) |  |  | -1.5% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
 | 10:00 | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
@@ -22,8 +22,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 156.7 |
 | 12:00 | USD | Mortgage Market Index |  |  | 224.8 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 584.3 |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.9% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | 2.9% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | -0.9% |
 | 13:00 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 24.1B |
 | 13:30 | USD | Core CPI Index (Jan) |  |  | 323.38 |
 | 13:30 | USD | CPI Index, n.s.a. (Jan) |  | 317.42 | 315.61 |
@@ -47,5 +47,5 @@
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 1.253B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -1.0% |
-| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 23:50 | JPY | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
+| 23:50 | JPY | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
