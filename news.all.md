@@ -27,8 +27,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (Jan) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jan) | 3.3% | 3.1% | 3.2% |
 | 13:30 | USD | Low | Core CPI Index (Jan) | 324.74 |  | 323.30 |
-| 13:30 | USD | High | CPI (YoY) (Jan) | 3.0% | 2.9% | 2.9% |
 | 13:30 | USD | High | CPI (MoM) (Jan) | 0.5% | 0.3% | 0.4% |
+| 13:30 | USD | High | CPI (YoY) (Jan) | 3.0% | 2.9% | 2.9% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jan) | 317.67 | 317.46 | 315.61 |
 | 13:30 | USD | Low | CPI Index, s.a (Jan) | 319.09 |  | 317.60 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jan) | 0.65% |  | 0.04% |
@@ -58,5 +58,5 @@
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) | -1.6% |  | 2.4% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) | -0.5% |  | -1.0% |
 | 22:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:50 | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
-| 23:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
+| 44 min | JPY | Low | PPI (YoY) (Jan) |  | 4.0% | 3.8% |
+| 44 min | JPY | Low | PPI (MoM) (Jan) |  | 0.3% | 0.3% |
