@@ -1,17 +1,17 @@
-## 11 February 2025 - Moderate Impact Forex News
+## 12 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 2.5% | 1.1% | 3.1% |
-| 00:30 | AUD | NAB Business Confidence (Jan) | 4 |  | -2 |
-| 08:45 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 12:00 | BRL | CPI (YoY) (Jan) | 4.56% | 4.57% | 4.83% |
-| 12:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:30 | CAD | Building Permits (MoM) (Dec) | 11.0% | 1.6% | -5.6% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 17:00 | USD | WASDE Report |  |  |  |
-| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 4.300% |  | 4.332% |
-| 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 20:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 9.043M | 2.800M | 5.025M |
+| 00:30 | AUD | Home Loans (MoM) |  |  | 0.1% |
+| 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
+| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:30 | INR | CPI (YoY) (Jan) |  | 4.69% | 5.22% |
+| 11:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:30 | USD | Core CPI (YoY) (Jan) |  | 3.1% | 3.2% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.034M |
+| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Jan) |  | -79.8B | -87.0B |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Jan) |  |  | 2.0% |
+| 22:05 | USD | Fed Waller Speaks |  |  |  |
