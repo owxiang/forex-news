@@ -29,11 +29,11 @@
 | 13:30 | USD | Core PPI (YoY) (Jan) | 3.6% | 3.3% | 3.7% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 216.00K |  | 217.00K |
 | 13:30 | USD | PPI (YoY) (Jan) | 3.5% | 3.2% | 3.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% | 3.2% | 3.5% |
-| 24 min | USD | Natural Gas Storage |  | -90B | -174B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.4% |
+| 15:30 | USD | Natural Gas Storage | -100B | -90B | -174B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.250% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) |  |  | 10.7% |
 | 21:00 | KRW | Import Price Index (YoY) (Jan) |  |  | 7.0% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.233T |
