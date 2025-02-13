@@ -15,12 +15,12 @@
 | 07:00 | EUR | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 07:00 | EUR | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
 | 07:30 | CHF | CPI (YoY) (Jan) | 0.4% | 0.4% | 0.6% |
-| 09:30 | ZAR | Gold Production (YoY) (Dec) |  |  | -11.5% |
-| 09:30 | ZAR | Mining Production (Dec) |  |  | -0.9% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
-| 10:00 | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Industrial Production (YoY) (Dec) |  | -3.1% | -1.9% |
+| 24 min | ZAR | Gold Production (YoY) (Dec) |  |  | -11.5% |
+| 24 min | ZAR | Mining Production (Dec) |  |  | -0.9% |
+| 54 min | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
+| 54 min | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
+| 54 min | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
+| 54 min | EUR | Industrial Production (YoY) (Dec) |  | -3.1% | -1.9% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.85% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.49% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 50.4 |
@@ -36,8 +36,8 @@
 | 13:30 | USD | PPI (YoY) (Jan) |  |  | 3.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
-| 15:30 | USD | Natural Gas Storage |  |  | -174B |
 | 15:30 | USD | Natural Gas Storage |  | -90B | -174B |
+| 15:30 | USD | Natural Gas Storage |  |  | -174B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) |  |  | 10.7% |

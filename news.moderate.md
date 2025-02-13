@@ -11,14 +11,14 @@
 | 07:00 | GBP | Trade Balance Non-EU (Dec) | -6.10B |  | -7.19B |
 | 07:00 | EUR | German CPI (YoY) (Jan) | 2.3% | 2.3% | 2.6% |
 | 07:30 | CHF | CPI (MoM) (Jan) | -0.1% | -0.1% | -0.1% |
-| 47 min | EUR | German Buba Balz Speaks |  |  |  |
-| 52 min | USD | IEA Monthly Report |  |  |  |
-| 52 min | EUR | ECB Economic Bulletin |  |  |  |
-| 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
-| 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Dec) |  | -0.6% | 0.2% |
-| 12:00 | BRL | Retail Sales (MoM) (Dec) |  | 0.0% | -0.4% |
+| 08:55 | EUR | German Buba Balz Speaks |  |  |  |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 54 min | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
+| 54 min | EUR | EU Economic Forecasts |  |  |  |
+| 54 min | EUR | Industrial Production (MoM) (Dec) |  | -0.6% | 0.2% |
 | 12:00 | BRL | Retail Sales (YoY) (Dec) |  | 3.5% | 4.7% |
+| 12:00 | BRL | Retail Sales (MoM) (Dec) |  | 0.0% | -0.4% |
 | 12:30 | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | 0.0% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,886K |
 | 13:30 | USD | Core PPI (MoM) (Jan) |  | 0.3% | 0.0% |
