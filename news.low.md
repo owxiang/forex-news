@@ -5,16 +5,16 @@
 | 00:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.0% |
 | 03:00 | KRW | M3 Money Supply (Dec) | 5,649.1B |  | 5,634.8B |
 | 03:00 | KRW | M2 Money supply (Dec) | 5.10% |  | 5.60% |
-| 52 min | GBP | Business Investment (YoY) (Q4) |  |  | 5.8% |
-| 52 min | GBP | U.K. Construction Output (YoY) (Dec) |  | 1.1% | 0.2% |
-| 52 min | GBP | Construction Output (MoM) (Dec) |  | 0.2% | 0.4% |
-| 52 min | GBP | GDP (YoY) (Dec) |  | 1.0% | 1.0% |
-| 52 min | GBP | Index of Services |  | 0.1% | 0.0% |
-| 52 min | GBP | Industrial Production (YoY) (Dec) |  | -2.1% | -1.8% |
-| 52 min | GBP | Manufacturing Production (YoY) (Dec) |  | -1.9% | -1.2% |
-| 52 min | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
-| 52 min | EUR | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
-| 07:30 | CHF | CPI (YoY) (Jan) |  | 0.4% | 0.6% |
+| 07:00 | GBP | Business Investment (YoY) (Q4) | -0.7% |  | 4.4% |
+| 07:00 | GBP | Construction Output (MoM) (Dec) | -0.2% | 0.2% | 0.6% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Dec) | 1.5% | 1.1% | 1.0% |
+| 07:00 | GBP | GDP (YoY) (Dec) | 1.5% | 1.0% | 1.1% |
+| 07:00 | GBP | Index of Services | 0.2% | 0.1% | 0.0% |
+| 07:00 | GBP | Industrial Production (YoY) (Dec) | -1.9% | -2.1% | -2.0% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Dec) | -1.4% | -1.9% | -1.1% |
+| 07:00 | EUR | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
+| 24 min | CHF | CPI (YoY) (Jan) |  | 0.4% | 0.6% |
 | 09:30 | ZAR | Gold Production (YoY) (Dec) |  |  | -11.5% |
 | 09:30 | ZAR | Mining Production (Dec) |  |  | -0.9% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
@@ -34,10 +34,10 @@
 | 13:30 | USD | Core PPI (YoY) (Jan) |  | 3.3% | 3.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
 | 13:30 | USD | PPI (YoY) (Jan) |  |  | 3.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
-| 15:30 | USD | Natural Gas Storage |  |  | -174B |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
 | 15:30 | USD | Natural Gas Storage |  | -90B | -174B |
+| 15:30 | USD | Natural Gas Storage |  |  | -174B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) |  |  | 10.7% |
