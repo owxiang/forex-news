@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Jan) | 22% |  | 26% |
-| 57 min | NZD | Inflation Expectations (QoQ) (Q1) |  |  | 2.1% |
+| 3 min | NZD | Inflation Expectations (QoQ) (Q1) |  |  | 2.1% |
 | 05:00 | AUD | Home Loans (MoM) |  |  | 0.1% |
 | 07:00 | GBP | Business Investment (QoQ) (Q4) |  | -0.4% | 1.9% |
 | 07:00 | GBP | Industrial Production (MoM) (Dec) |  | 0.2% | -0.4% |
@@ -19,8 +19,8 @@
 | 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Dec) |  | -0.6% | 0.2% |
-| 12:00 | BRL | Retail Sales (YoY) (Dec) |  | 3.5% | 4.7% |
 | 12:00 | BRL | Retail Sales (MoM) (Dec) |  | 0.0% | -0.4% |
+| 12:00 | BRL | Retail Sales (YoY) (Dec) |  | 3.5% | 4.7% |
 | 12:30 | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | 0.0% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,886K |
 | 13:30 | USD | Core PPI (MoM) (Jan) |  | 0.3% | 0.0% |

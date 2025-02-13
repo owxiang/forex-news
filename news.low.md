@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.0% |
-| 03:00 | KRW | M3 Money Supply (Dec) |  |  | 5,635.2B |
-| 03:00 | KRW | M2 Money supply (Dec) |  |  | 5.60% |
+| 33 min | KRW | M3 Money Supply (Dec) |  |  | 5,635.2B |
+| 33 min | KRW | M2 Money supply (Dec) |  |  | 5.60% |
 | 05:00 | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 07:00 | GBP | Business Investment (YoY) (Q4) |  |  | 5.8% |
-| 07:00 | GBP | Construction Output (MoM) (Dec) |  | 0.2% | 0.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | 1.1% | 0.2% |
+| 07:00 | GBP | Construction Output (MoM) (Dec) |  | 0.2% | 0.4% |
 | 07:00 | GBP | GDP (YoY) (Dec) |  | 1.0% | 1.0% |
 | 07:00 | GBP | Index of Services |  | 0.1% | 0.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Dec) |  | -2.1% | -1.8% |
@@ -36,8 +36,8 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
 | 13:45 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 24.1B |
-| 15:30 | USD | Natural Gas Storage |  |  | -174B |
 | 15:30 | USD | Natural Gas Storage |  | -90B | -174B |
+| 15:30 | USD | Natural Gas Storage |  |  | -174B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) |  |  | 10.7% |
