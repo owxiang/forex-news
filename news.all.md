@@ -24,8 +24,8 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -6.10B |  | -7.19B |
 | 07:00 | EUR | High | German CPI (MoM) (Jan) | -0.2% | -0.2% | 0.5% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.3% | 2.6% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jan) | -0.1% | -0.1% | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Jan) | 0.4% | 0.4% | 0.6% |
 | 08:55 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Jan) | 3.6% | 3.3% | 3.7% |
 | 13:30 | USD | High | Initial Jobless Claims | 213K | 217K | 220K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.00K |  | 217.00K |
-| 13:30 | USD | High | PPI (MoM) (Jan) | 0.4% | 0.3% | 0.5% |
 | 13:30 | USD | Low | PPI (YoY) (Jan) | 3.5% | 3.2% | 3.5% |
+| 13:30 | USD | High | PPI (MoM) (Jan) | 0.4% | 0.3% | 0.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% | 3.2% | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.4% |
 | 15:30 | USD | Low | Natural Gas Storage | -100B | -90B | -174B |
@@ -61,8 +61,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.240% |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.748% |  | 4.913% |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Jan) |  |  | 10.7% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Jan) |  |  | 7.0% |
+| 54 min | KRW | Low | Export Price Index (YoY) (Jan) |  |  | 10.7% |
+| 54 min | KRW | Low | Import Price Index (YoY) (Jan) |  |  | 7.0% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,811B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.233T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Jan) |  |  | 45.9 |
