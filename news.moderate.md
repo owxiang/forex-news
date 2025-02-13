@@ -1,15 +1,29 @@
-## 12 February 2025 - Moderate Impact Forex News
+## 13 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 10:30 | INR | CPI (YoY) (Jan) | 4.31% | 4.60% | 5.22% |
-| 11:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:30 | USD | Core CPI (YoY) (Jan) | 3.3% | 3.1% | 3.2% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.872M |  | -0.034M |
-| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 00:01 | GBP | RICS House Price Balance (Jan) | 22% |  | 26% |
+| 02:30 | NZD | Inflation Expectations (QoQ) (Q1) |  |  | 2.1% |
+| 05:00 | AUD | Home Loans (MoM) |  |  | 0.1% |
+| 07:00 | GBP | Business Investment (QoQ) (Q4) |  | -0.4% | 1.9% |
+| 07:00 | GBP | Industrial Production (MoM) (Dec) |  | 0.2% | -0.4% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Dec) |  | 0.0% | -0.3% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Dec) |  |  | 0.0% |
+| 07:00 | GBP | Trade Balance (Dec) |  | -18.60B | -19.31B |
+| 07:00 | GBP | Trade Balance Non-EU (Dec) |  |  | -7.72B |
+| 07:00 | EUR | German CPI (YoY) (Jan) |  | 2.3% | 2.6% |
+| 07:30 | CHF | CPI (MoM) (Jan) |  | -0.1% | -0.1% |
+| 08:55 | EUR | German Buba Balz Speaks |  |  |  |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
+| 10:00 | EUR | EU Economic Forecasts |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Dec) |  | -0.6% | 0.2% |
+| 12:00 | BRL | Retail Sales (YoY) (Dec) |  | 3.5% | 4.7% |
+| 12:00 | BRL | Retail Sales (MoM) (Dec) |  | 0.0% | -0.4% |
+| 12:30 | GBP | NIESR Monthly GDP Tracker (Jan) |  |  | 0.0% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,886K |
+| 13:30 | USD | Core PPI (MoM) (Jan) |  | 0.3% | 0.0% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Jan) | -129.0B | -88.1B | -87.0B |
-| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Jan) | -1.6% |  | 2.4% |
-| 22:05 | USD | Fed Waller Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,811B |
+| 21:30 | NZD | Business NZ PMI (Jan) |  |  | 45.9 |

@@ -1,10 +1,11 @@
-## 12 February 2025 - High Impact Forex News
+## 13 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core CPI (MoM) (Jan) | 0.4% | 0.3% | 0.2% |
-| 13:30 | USD | CPI (MoM) (Jan) | 0.5% | 0.3% | 0.4% |
-| 13:30 | USD | CPI (YoY) (Jan) | 3.0% | 2.9% | 2.9% |
-| 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
-| 15:30 | USD | Crude Oil Inventories | 4.070M | 2.400M | 8.664M |
-| 18:00 | USD | 10-Year Note Auction | 4.632% |  | 4.680% |
+| 07:00 | GBP | GDP (QoQ) (Q4) |  | -0.1% | 0.0% |
+| 07:00 | GBP | GDP (MoM) (Dec) |  | 0.1% | 0.1% |
+| 07:00 | GBP | GDP (YoY) (Q4) |  | 1.1% | 0.9% |
+| 07:00 | EUR | German CPI (MoM) (Jan) |  | -0.2% | 0.5% |
+| 13:30 | USD | Initial Jobless Claims |  | 217K | 219K |
+| 13:30 | USD | PPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.913% |
