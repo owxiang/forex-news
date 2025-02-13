@@ -5,7 +5,7 @@
 | 00:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.0% |
 | 03:00 | KRW | M3 Money Supply (Dec) | 5,649.1B |  | 5,634.8B |
 | 03:00 | KRW | M2 Money supply (Dec) | 5.10% |  | 5.60% |
-| 53 min | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
+| 05:00 | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 07:00 | GBP | Business Investment (YoY) (Q4) |  |  | 5.8% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | 1.1% | 0.2% |
 | 07:00 | GBP | Construction Output (MoM) (Dec) |  | 0.2% | 0.4% |
