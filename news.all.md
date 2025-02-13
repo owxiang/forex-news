@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Expectations | 4.6% |  | 4.0% |
 | 00:01 | GBP | Moderate | RICS House Price Balance (Jan) | 22% |  | 26% |
-| 02:30 | NZD | Moderate | Inflation Expectations (QoQ) (Q1) |  |  | 2.1% |
+| 57 min | NZD | Moderate | Inflation Expectations (QoQ) (Q1) |  |  | 2.1% |
 | 03:00 | KRW | Low | M3 Money Supply (Dec) |  |  | 5,635.2B |
 | 03:00 | KRW | Low | M2 Money supply (Dec) |  |  | 5.60% |
 | 05:00 | AUD | Moderate | Home Loans (MoM) |  |  | 0.1% |
@@ -13,8 +13,8 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  |  | 5.8% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Dec) |  | 0.2% | 0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) |  | 1.1% | 0.2% |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.1% | 0.0% |
 | 07:00 | GBP | High | GDP (MoM) (Dec) |  | 0.1% | 0.1% |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.1% | 0.0% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.1% | 0.9% |
 | 07:00 | GBP | Low | GDP (YoY) (Dec) |  | 1.0% | 1.0% |
 | 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.0% |
