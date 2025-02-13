@@ -26,12 +26,11 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) | 40.31 |  | 40.47 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.55 |  | 49.45 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.27 |  | 48.29 |
-| 21 min | USD | Core PPI (YoY) (Jan) |  | 3.3% | 3.5% |
-| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 21 min | USD | PPI (YoY) (Jan) |  | 3.2% | 3.3% |
-| 21 min | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
-| 21 min | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
-| 15:30 | USD | Natural Gas Storage |  |  | -174B |
+| 13:30 | USD | Core PPI (YoY) (Jan) | 3.6% | 3.3% | 3.7% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 216.00K |  | 217.00K |
+| 13:30 | USD | PPI (YoY) (Jan) | 3.5% | 3.2% | 3.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% | 3.2% | 3.5% |
 | 15:30 | USD | Natural Gas Storage |  | -90B | -174B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |

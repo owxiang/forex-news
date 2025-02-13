@@ -10,9 +10,9 @@
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | -3.2% | -0.4% | 1.9% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Dec) | -0.2% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) | 1.5% | 1.1% | 1.0% |
+| 07:00 | GBP | High | GDP (YoY) (Q4) | 1.4% | 1.1% | 1.0% |
 | 07:00 | GBP | High | GDP (MoM) (Dec) | 0.4% | 0.1% | 0.1% |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | -0.1% | 0.0% |
-| 07:00 | GBP | High | GDP (YoY) (Q4) | 1.4% | 1.1% | 1.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Dec) | 1.5% | 1.0% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.2% | 0.1% | 0.0% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Dec) | -1.9% | -2.1% | -2.0% |
@@ -44,19 +44,18 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Feb) | 40.31 |  | 40.47 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.55 |  | 49.45 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.27 |  | 48.29 |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Dec) | 2.0% | 3.5% | 5.2% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Dec) | -0.1% | 0.0% | -0.2% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Dec) | 2.0% | 3.5% | 5.2% |
 | 12:45 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) | 0.3% |  | 1.0% |
-| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,886K |
-| 21 min | USD | Low | Core PPI (YoY) (Jan) |  | 3.3% | 3.5% |
-| 21 min | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.3% | 0.0% |
-| 21 min | USD | High | Initial Jobless Claims |  | 217K | 219K |
-| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 21 min | USD | High | PPI (MoM) (Jan) |  | 0.3% | 0.2% |
-| 21 min | USD | Low | PPI (YoY) (Jan) |  | 3.2% | 3.3% |
-| 21 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
-| 21 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | -174B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,850K | 1,880K | 1,886K |
+| 13:30 | USD | Low | Core PPI (YoY) (Jan) | 3.6% | 3.3% | 3.7% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | High | Initial Jobless Claims | 213K | 217K | 220K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.00K |  | 217.00K |
+| 13:30 | USD | High | PPI (MoM) (Jan) | 0.4% | 0.3% | 0.5% |
+| 13:30 | USD | Low | PPI (YoY) (Jan) | 3.5% | 3.2% | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.4% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% | 3.2% | 3.5% |
 | 15:30 | USD | Low | Natural Gas Storage |  | -90B | -174B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
