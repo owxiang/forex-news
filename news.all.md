@@ -6,28 +6,26 @@
 | 02:30 | NZD | Moderate | Inflation Expectations (QoQ) (Q1) | 2.1% |  | 2.1% |
 | 03:00 | KRW | Low | M3 Money Supply (Dec) | 5,649.1B |  | 5,634.8B |
 | 03:00 | KRW | Low | M2 Money supply (Dec) | 5.10% |  | 5.60% |
-| 05:00 | AUD | Moderate | Home Loans (MoM) |  |  | 0.1% |
-| 05:00 | AUD | Low | Invest Housing Finance (MoM) |  |  | -1.0% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -0.4% | 1.9% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  |  | 5.8% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) |  | 1.1% | 0.2% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Dec) |  | 0.2% | 0.4% |
-| 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.1% | 0.9% |
-| 07:00 | GBP | High | GDP (MoM) (Dec) |  | 0.1% | 0.1% |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.1% | 0.0% |
-| 07:00 | GBP | Low | GDP (YoY) (Dec) |  | 1.0% | 1.0% |
-| 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.0% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Dec) |  | 0.2% | -0.4% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Dec) |  | -2.1% | -1.8% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) |  | 0.0% | -0.3% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Dec) |  | -1.9% | -1.2% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) |  |  | 0.0% |
-| 07:00 | GBP | Moderate | Trade Balance (Dec) |  | -18.60B | -19.31B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) |  |  | -7.72B |
-| 07:00 | EUR | High | German CPI (MoM) (Jan) |  | -0.2% | 0.5% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.3% | 2.6% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
-| 07:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
+| 52 min | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -0.4% | 1.9% |
+| 52 min | GBP | Low | Business Investment (YoY) (Q4) |  |  | 5.8% |
+| 52 min | GBP | Low | U.K. Construction Output (YoY) (Dec) |  | 1.1% | 0.2% |
+| 52 min | GBP | Low | Construction Output (MoM) (Dec) |  | 0.2% | 0.4% |
+| 52 min | GBP | High | GDP (YoY) (Q4) |  | 1.1% | 0.9% |
+| 52 min | GBP | High | GDP (MoM) (Dec) |  | 0.1% | 0.1% |
+| 52 min | GBP | High | GDP (QoQ) (Q4) |  | -0.1% | 0.0% |
+| 52 min | GBP | Low | GDP (YoY) (Dec) |  | 1.0% | 1.0% |
+| 52 min | GBP | Low | Index of Services |  | 0.1% | 0.0% |
+| 52 min | GBP | Moderate | Industrial Production (MoM) (Dec) |  | 0.2% | -0.4% |
+| 52 min | GBP | Low | Industrial Production (YoY) (Dec) |  | -2.1% | -1.8% |
+| 52 min | GBP | Moderate | Manufacturing Production (MoM) (Dec) |  | 0.0% | -0.3% |
+| 52 min | GBP | Low | Manufacturing Production (YoY) (Dec) |  | -1.9% | -1.2% |
+| 52 min | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) |  |  | 0.0% |
+| 52 min | GBP | Moderate | Trade Balance (Dec) |  | -18.60B | -19.31B |
+| 52 min | GBP | Moderate | Trade Balance Non-EU (Dec) |  |  | -7.72B |
+| 52 min | EUR | High | German CPI (MoM) (Jan) |  | -0.2% | 0.5% |
+| 52 min | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.3% | 2.6% |
+| 52 min | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.7% |
+| 52 min | EUR | Low | German HICP (YoY) (Jan) |  | 2.8% | 2.8% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jan) |  | -0.1% | -0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Jan) |  | 0.4% | 0.6% |
 | 08:55 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -40,8 +38,10 @@
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -0.6% | 0.2% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | -3.1% | -1.9% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -0.6% | 0.2% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.85% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.49% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 50.4 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.11 |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.78 |
@@ -62,9 +62,8 @@
 | 13:30 | USD | Low | PPI (YoY) (Jan) |  |  | 3.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (Dec) |  |  | 24.1B |
-| 15:30 | USD | Low | Natural Gas Storage |  | -90B | -174B |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | -174B |
+| 15:30 | USD | Low | Natural Gas Storage |  | -90B | -174B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

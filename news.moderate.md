@@ -3,14 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | NZD | Inflation Expectations (QoQ) (Q1) | 2.1% |  | 2.1% |
-| 05:00 | AUD | Home Loans (MoM) |  |  | 0.1% |
-| 07:00 | GBP | Business Investment (QoQ) (Q4) |  | -0.4% | 1.9% |
-| 07:00 | GBP | Industrial Production (MoM) (Dec) |  | 0.2% | -0.4% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Dec) |  | 0.0% | -0.3% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Dec) |  |  | 0.0% |
-| 07:00 | GBP | Trade Balance (Dec) |  | -18.60B | -19.31B |
-| 07:00 | GBP | Trade Balance Non-EU (Dec) |  |  | -7.72B |
-| 07:00 | EUR | German CPI (YoY) (Jan) |  | 2.3% | 2.6% |
+| 52 min | GBP | Business Investment (QoQ) (Q4) |  | -0.4% | 1.9% |
+| 52 min | GBP | Industrial Production (MoM) (Dec) |  | 0.2% | -0.4% |
+| 52 min | GBP | Manufacturing Production (MoM) (Dec) |  | 0.0% | -0.3% |
+| 52 min | GBP | Monthly GDP 3M/3M Change (Dec) |  |  | 0.0% |
+| 52 min | GBP | Trade Balance (Dec) |  | -18.60B | -19.31B |
+| 52 min | GBP | Trade Balance Non-EU (Dec) |  |  | -7.72B |
+| 52 min | EUR | German CPI (YoY) (Jan) |  | 2.3% | 2.6% |
 | 07:30 | CHF | CPI (MoM) (Jan) |  | -0.1% | -0.1% |
 | 08:55 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
