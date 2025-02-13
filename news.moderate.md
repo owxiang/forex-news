@@ -22,5 +22,5 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,850K | 1,880K | 1,886K |
 | 13:30 | USD | Core PPI (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,811B |
-| 21:30 | NZD | Business NZ PMI (Jan) |  |  | 45.9 |
+| 24 min | USD | Fed's Balance Sheet |  |  | 6,811B |
+| 24 min | NZD | Business NZ PMI (Jan) |  |  | 45.9 |
