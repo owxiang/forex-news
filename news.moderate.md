@@ -16,8 +16,8 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Dec) | -1.1% | -0.6% | 0.4% |
-| 12:00 | BRL | Retail Sales (YoY) (Dec) | 2.0% | 3.5% | 5.2% |
 | 12:00 | BRL | Retail Sales (MoM) (Dec) | -0.1% | 0.0% | -0.2% |
+| 12:00 | BRL | Retail Sales (YoY) (Dec) | 2.0% | 3.5% | 5.2% |
 | 12:45 | GBP | NIESR Monthly GDP Tracker (Jan) | 0.3% |  | 1.0% |
 | 13:30 | USD | Continuing Jobless Claims | 1,850K | 1,880K | 1,886K |
 | 13:30 | USD | Core PPI (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
