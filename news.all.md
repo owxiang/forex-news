@@ -11,8 +11,8 @@
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) | 1.5% | 1.1% | 1.0% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Dec) | -0.2% | 0.2% | 0.6% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | 1.4% | 1.1% | 1.0% |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | -0.1% | 0.0% |
 | 07:00 | GBP | High | GDP (MoM) (Dec) | 0.4% | 0.1% | 0.1% |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | -0.1% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Dec) | 1.5% | 1.0% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.2% | 0.1% | 0.0% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Dec) | -1.9% | -2.1% | -2.0% |
@@ -22,8 +22,8 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) | 0.1% |  | -0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Dec) | -17.45B | -18.60B | -18.90B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -6.10B |  | -7.19B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.3% | 2.6% |
 | 07:00 | EUR | High | German CPI (MoM) (Jan) | -0.2% | -0.2% | 0.5% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.3% | 2.3% | 2.6% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
 | 07:30 | CHF | Low | CPI (YoY) (Jan) | 0.4% | 0.4% | 0.6% |
@@ -48,8 +48,8 @@
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Dec) | 2.0% | 3.5% | 5.2% |
 | 12:45 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) | 0.3% |  | 1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,850K | 1,880K | 1,886K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jan) | 3.6% | 3.3% | 3.7% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
 | 13:30 | USD | High | Initial Jobless Claims | 213K | 217K | 220K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 216.00K |  | 217.00K |
 | 13:30 | USD | High | PPI (MoM) (Jan) | 0.4% | 0.3% | 0.5% |
@@ -63,10 +63,10 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.748% |  | 4.913% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Jan) | 8.5% |  | 10.5% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Jan) | 6.6% |  | 6.8% |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,811B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.233T |
-| 24 min | NZD | Moderate | Business NZ PMI (Jan) |  |  | 45.9 |
-| 39 min | NZD | Low | FPI (MoM) (Jan) |  |  | 0.1% |
-| 23:00 | KRW | Low | Unemployment Rate (Jan) |  |  | 3.7% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,814B |  | 6,811B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.255T |  | 3.233T |
+| 21:30 | NZD | Moderate | Business NZ PMI (Jan) | 51.4 |  | 45.9 |
+| 21:45 | NZD | Low | FPI (MoM) (Jan) | 1.9% |  | 0.1% |
+| 55 min | KRW | Low | Unemployment Rate (Jan) |  |  | 3.7% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -1,458.4B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -315.2B |

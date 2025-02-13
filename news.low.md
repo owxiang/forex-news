@@ -36,8 +36,8 @@
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.240% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) | 8.5% |  | 10.5% |
 | 21:00 | KRW | Import Price Index (YoY) (Jan) | 6.6% |  | 6.8% |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.233T |
-| 39 min | NZD | FPI (MoM) (Jan) |  |  | 0.1% |
-| 23:00 | KRW | Unemployment Rate (Jan) |  |  | 3.7% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.255T |  | 3.233T |
+| 21:45 | NZD | FPI (MoM) (Jan) | 1.9% |  | 0.1% |
+| 55 min | KRW | Unemployment Rate (Jan) |  |  | 3.7% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -1,458.4B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -315.2B |
