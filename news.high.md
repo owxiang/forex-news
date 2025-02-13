@@ -8,4 +8,4 @@
 | 07:00 | EUR | German CPI (MoM) (Jan) | -0.2% | -0.2% | 0.5% |
 | 13:30 | USD | Initial Jobless Claims | 213K | 217K | 220K |
 | 13:30 | USD | PPI (MoM) (Jan) | 0.4% | 0.3% | 0.5% |
-| 18:00 | USD | 30-Year Bond Auction |  |  | 4.913% |
+| 55 min | USD | 30-Year Bond Auction |  |  | 4.913% |

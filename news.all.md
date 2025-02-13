@@ -57,10 +57,10 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) | 3.4% | 3.2% | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.3% |  | 0.4% |
 | 15:30 | USD | Low | Natural Gas Storage | -100B | -90B | -174B |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
-| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.913% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.250% |  | 4.250% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.240% |
+| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 55 min | USD | High | 30-Year Bond Auction |  |  | 4.913% |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Jan) |  |  | 10.7% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Jan) |  |  | 7.0% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,811B |
