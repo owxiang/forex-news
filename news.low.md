@@ -12,8 +12,8 @@
 | 07:00 | GBP | Index of Services | 0.2% | 0.1% | 0.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Dec) | -1.9% | -2.1% | -2.0% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Dec) | -1.4% | -1.9% | -1.1% |
-| 07:00 | EUR | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
 | 07:00 | EUR | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.7% |
+| 07:00 | EUR | German HICP (YoY) (Jan) | 2.8% | 2.8% | 2.8% |
 | 07:30 | CHF | CPI (YoY) (Jan) | 0.4% | 0.4% | 0.6% |
 | 09:30 | ZAR | Gold Production (YoY) (Dec) | -8.4% |  | -11.5% |
 | 09:30 | ZAR | Mining Production (Dec) | -2.4% |  | -0.9% |
@@ -26,15 +26,15 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) | 40.31 |  | 40.47 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.55 |  | 49.45 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.27 |  | 48.29 |
-| 13:00 | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
-| 13:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
+| 50 min | BRL | Auto Production (MoM) (Jan) |  |  | -19.5% |
+| 50 min | BRL | Auto Sales (MoM) (Jan) |  |  | 1.6% |
 | 13:30 | USD | Core PPI (YoY) (Jan) |  | 3.3% | 3.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.75K |
-| 13:30 | USD | PPI (YoY) (Jan) |  |  | 3.3% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
+| 13:30 | USD | PPI (YoY) (Jan) |  | 3.2% | 3.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  | 3.2% | 3.3% |
-| 15:30 | USD | Natural Gas Storage |  |  | -174B |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.1% |
 | 15:30 | USD | Natural Gas Storage |  | -90B | -174B |
+| 15:30 | USD | Natural Gas Storage |  |  | -174B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 21:00 | KRW | Export Price Index (YoY) (Jan) |  |  | 10.7% |
