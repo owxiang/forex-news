@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
 | 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
+| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
@@ -16,11 +16,11 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | 2.51% |  | 2.14% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jan) | 0.9% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jan) | 0.9% |  | 0.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Jan) | -0.3% |  | -0.9% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
+| 07:30 | CHF | Low | PPI (YoY) (Jan) | -0.3% |  | -0.9% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
@@ -48,13 +48,13 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.3% | 0.6% | 0.7% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) | 135.5K |  | 160.9K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | -0.2% | 0.1% | 0.0% |
-| 9 min | USD | Low | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
-| 9 min | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.55% |
-| 9 min | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
-| 9 min | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
-| 24 min | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  | 1.7 |
-| 54 min | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |
-| 54 min | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.5% |
+| 14:15 | USD | Low | Capacity Utilization Rate (Jan) | 77.8% | 77.7% | 77.5% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) | 2.00% |  | 0.34% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) | 0.5% | 0.3% | 1.0% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) | -0.1% | 0.1% | 0.5% |
+| 14:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  |  |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) | -0.2% | 0.0% | 0.1% |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) | -0.1% | 0.2% | 0.5% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
