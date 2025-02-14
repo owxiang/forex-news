@@ -10,11 +10,11 @@
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) | 37.30 |  | 38.26 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) | 70.54 |  | 70.96 |
 | 03:35 | JPY | 5-Year JGB Auction | 0.982% |  | 0.876% |
-| 06:30 | INR | WPI Food (YoY) (Jan) |  |  | 8.47% |
-| 06:30 | INR | WPI Fuel (YoY) (Jan) |  |  | -3.79% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 2.14% |
-| 07:00 | EUR | German WPI (YoY) (Jan) |  |  | 0.1% |
-| 07:00 | EUR | German WPI (MoM) (Jan) |  | 0.2% | 0.1% |
+| 22 min | INR | WPI Food (YoY) (Jan) |  |  | 8.47% |
+| 22 min | INR | WPI Fuel (YoY) (Jan) |  |  | -3.79% |
+| 22 min | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 2.14% |
+| 52 min | EUR | German WPI (MoM) (Jan) |  | 0.2% | 0.1% |
+| 52 min | EUR | German WPI (YoY) (Jan) |  |  | 0.1% |
 | 07:30 | CHF | PPI (YoY) (Jan) |  |  | -0.9% |
 | 08:00 | EUR | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
@@ -25,8 +25,8 @@
 | 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
 | 10:00 | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Overall (Q4) |  |  | 169,112.9K |
 | 11:00 | EUR | Reserve Assets Total (Jan) |  |  | 1,394.03B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
