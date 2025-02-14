@@ -37,8 +37,8 @@
 | 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.8% |
 | 11:30 | INR | Low | FX Reserves, USD | 638.26B |  | 630.61B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.7% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) | 1.3% | 0.3% | 0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jan) | 2.7% |  | 1.8% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) | 1.3% | 0.3% | 0.5% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jan) | 1.9% |  | 2.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) | 0.3% | 0.4% | 0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jan) | -0.8% | 0.3% | 0.8% |
