@@ -1,26 +1,32 @@
-## 13 February 2025 - Moderate Impact Forex News
+## 14 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | NZD | Inflation Expectations (QoQ) (Q1) | 2.1% |  | 2.1% |
-| 07:00 | GBP | Business Investment (QoQ) (Q4) | -3.2% | -0.4% | 1.9% |
-| 07:00 | GBP | Industrial Production (MoM) (Dec) | 0.5% | 0.2% | -0.5% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Dec) | 0.7% | 0.0% | -0.3% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Dec) | 0.1% |  | -0.1% |
-| 07:00 | GBP | Trade Balance (Dec) | -17.45B | -18.60B | -18.90B |
-| 07:00 | GBP | Trade Balance Non-EU (Dec) | -6.10B |  | -7.19B |
-| 07:00 | EUR | German CPI (YoY) (Jan) | 2.3% | 2.3% | 2.6% |
-| 07:30 | CHF | CPI (MoM) (Jan) | -0.1% | -0.1% | -0.1% |
-| 08:55 | EUR | German Buba Balz Speaks |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Dec) | -1.1% | -0.6% | 0.4% |
-| 12:00 | BRL | Retail Sales (YoY) (Dec) | 2.0% | 3.5% | 5.2% |
-| 12:00 | BRL | Retail Sales (MoM) (Dec) | -0.1% | 0.0% | -0.2% |
-| 12:45 | GBP | NIESR Monthly GDP Tracker (Jan) | 0.3% |  | 1.0% |
-| 13:30 | USD | Continuing Jobless Claims | 1,850K | 1,880K | 1,886K |
-| 13:30 | USD | Core PPI (MoM) (Jan) | 0.3% | 0.3% | 0.4% |
-| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,814B |  | 6,811B |
-| 21:30 | NZD | Business NZ PMI (Jan) | 51.4 |  | 45.9 |
+| 05:00 | AUD | Home Loans (MoM) |  |  | 0.1% |
+| 06:30 | INR | WPI Inflation (YoY) (Jan) |  | 2.50% | 2.37% |
+| 07:30 | CHF | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jan) |  | 2.9% | 2.8% |
+| 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
+| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
+| 10:00 | EUR | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 13:30 | USD | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
+| 13:30 | USD | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
+| 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  | 0.2% | -0.2% |
+| 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.55% |
+| 14:15 | USD | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
+| 15:00 | USD | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |
+| 15:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.5% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -11.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 230.3K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 302.5K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 19.0K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -4.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -75.3K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 0.2K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 18.8K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -58.6K |
