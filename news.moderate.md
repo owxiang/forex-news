@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:30 | INR | WPI Inflation (YoY) (Jan) | 2.31% | 2.50% | 2.37% |
-| 24 min | CHF | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 54 min | EUR | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
-| 54 min | EUR | Spanish HICP (YoY) (Jan) |  | 2.9% | 2.8% |
+| 07:30 | CHF | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
+| 08:00 | EUR | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
 | 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
 | 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
 | 10:00 | EUR | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
@@ -13,8 +13,8 @@
 | 13:30 | USD | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
-| 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
+| 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 15:00 | USD | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.5% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |

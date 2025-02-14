@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
 | 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
+| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
@@ -14,24 +14,24 @@
 | 06:30 | INR | Low | WPI Fuel (YoY) (Jan) | -2.78% |  | -3.79% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Jan) | 2.31% | 2.50% | 2.37% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | 2.51% |  | 2.14% |
-| 07:00 | EUR | Low | German WPI (YoY) (Jan) | 0.9% |  | 0.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jan) | 0.9% | 0.2% | 0.1% |
-| 24 min | CHF | Low | PPI (YoY) (Jan) |  |  | -0.9% |
-| 24 min | CHF | Moderate | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 54 min | EUR | Low | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
-| 54 min | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
-| 54 min | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
-| 54 min | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.1% | 0.4% |
-| 54 min | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.9% | 2.8% |
-| 08:15 | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
-| 08:15 | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
-| 08:15 | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
+| 07:00 | EUR | Low | German WPI (YoY) (Jan) | 0.9% |  | 0.1% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
+| 07:30 | CHF | Low | PPI (YoY) (Jan) | -0.3% |  | -0.9% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
+| 7 min | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
+| 7 min | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
+| 7 min | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 10:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  |  | 169,112.9K |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
@@ -40,10 +40,10 @@
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.8% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 630.61B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.4% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 3.92% |
@@ -52,8 +52,8 @@
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
 | 14:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  | 1.7 |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |
