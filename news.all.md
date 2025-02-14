@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
+| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
@@ -19,16 +19,16 @@
 | 07:30 | CHF | Moderate | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 07:30 | CHF | Low | PPI (YoY) (Jan) | -0.3% |  | -0.9% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
 | 09:00 | CNY | Moderate | New Loans (Jan) | 5,130.0B | 770.0B | 990.0B |
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) | 7.5% | 7.3% | 7.6% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Jan) | 7,060.0B | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.6% | 0.8% | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) | 169,345.0K |  | 169,161.3K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.4% |
