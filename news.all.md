@@ -33,12 +33,12 @@
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.4% |
 | 11:00 | EUR | Low | Reserve Assets Total (Jan) | 1,457.53B |  | 1,394.03B |
-| 25 min | INR | Low | Bank Loan Growth |  |  | 11.5% |
-| 25 min | INR | Low | Deposit Growth |  |  | 10.8% |
-| 25 min | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 630.61B |
-| 25 min | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
-| 25 min | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
+| 11:30 | INR | Low | Bank Loan Growth | 11.4% |  | 11.5% |
+| 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.8% |
+| 11:30 | INR | Low | FX Reserves, USD | 638.26B |  | 630.61B |
+| 50 min | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
+| 50 min | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
+| 50 min | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |

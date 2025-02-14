@@ -26,12 +26,12 @@
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q4) | 169,345.0K |  | 169,161.3K |
 | 11:00 | EUR | Reserve Assets Total (Jan) | 1,457.53B |  | 1,394.03B |
-| 25 min | INR | Bank Loan Growth |  |  | 11.5% |
-| 25 min | INR | Deposit Growth |  |  | 10.8% |
-| 25 min | INR | Exports (USD) (Jan) |  |  | 38.01B |
-| 25 min | INR | FX Reserves, USD |  |  | 630.61B |
-| 25 min | INR | Imports (USD) (Jan) |  |  | 59.95B |
-| 25 min | INR | Trade Balance (Jan) |  |  | -21.94B |
+| 11:30 | INR | Bank Loan Growth | 11.4% |  | 11.5% |
+| 11:30 | INR | Deposit Growth | 10.3% |  | 10.8% |
+| 11:30 | INR | FX Reserves, USD | 638.26B |  | 630.61B |
+| 50 min | INR | Exports (USD) (Jan) |  |  | 38.01B |
+| 50 min | INR | Imports (USD) (Jan) |  |  | 59.95B |
+| 50 min | INR | Trade Balance (Jan) |  |  | -21.94B |
 | 13:30 | USD | Export Price Index (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 2.2% |
 | 13:30 | USD | Retail Sales (YoY) (Jan) |  |  | 3.92% |
