@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | AUD | Home Loans (MoM) |  |  | 0.1% |
+| 53 min | AUD | Home Loans (MoM) |  |  | 0.1% |
 | 06:30 | INR | WPI Inflation (YoY) (Jan) |  | 2.50% | 2.37% |
 | 07:30 | CHF | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
