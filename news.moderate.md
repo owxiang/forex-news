@@ -17,9 +17,9 @@
 | 14:15 | USD | Industrial Production (MoM) (Jan) | 0.5% | 0.3% | 1.0% |
 | 15:00 | USD | Business Inventories (MoM) (Dec) | -0.2% | 0.0% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Dec) | -0.1% | 0.2% | 0.5% |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 18:00 | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.9% | 2.9% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 481 |  | 480 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 588 |  | 586 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -11.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 230.3K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 302.5K |
