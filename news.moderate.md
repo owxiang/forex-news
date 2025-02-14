@@ -6,9 +6,9 @@
 | 07:30 | CHF | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
-| 10:00 | CNY | New Loans (Jan) |  | 770.0B | 990.0B |
-| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
-| 10:00 | EUR | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 09:04 | CNY | New Loans (Jan) | 5,130.0B | 770.0B | 990.0B |
+| 54 min | EUR | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 54 min | EUR | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
 | 13:30 | USD | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |

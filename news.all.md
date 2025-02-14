@@ -23,25 +23,25 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
-| 7 min | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
-| 7 min | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
-| 7 min | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
-| 10:00 | CNY | Moderate | New Loans (Jan) |  | 770.0B | 990.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Employment Overall (Q4) |  |  | 169,112.9K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 09:02 | CNY | Low | Chinese Total Social Financing (Jan) | 7,060.0B | 6,400.0B | 2,860.0B |
+| 09:04 | CNY | Low | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
+| 09:04 | CNY | Moderate | New Loans (Jan) | 5,130.0B | 770.0B | 990.0B |
+| 09:04 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) | 7.5% | 7.3% | 7.6% |
+| 54 min | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 54 min | EUR | Low | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
+| 54 min | EUR | Low | Employment Overall (Q4) |  |  | 169,112.9K |
+| 54 min | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 54 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
 | 11:00 | EUR | Low | Reserve Assets Total (Jan) |  |  | 1,394.03B |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.8% |
+| 11:30 | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 630.61B |
+| 11:30 | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
+| 11:30 | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |

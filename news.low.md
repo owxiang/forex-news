@@ -19,19 +19,19 @@
 | 08:00 | EUR | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
-| 7 min | INR | Exports (USD) (Jan) |  |  | 38.01B |
-| 7 min | INR | Imports (USD) (Jan) |  |  | 59.95B |
-| 7 min | INR | Trade Balance (Jan) |  |  | -21.94B |
-| 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
-| 10:00 | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
-| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Employment Overall (Q4) |  |  | 169,112.9K |
+| 09:02 | CNY | Chinese Total Social Financing (Jan) | 7,060.0B | 6,400.0B | 2,860.0B |
+| 09:04 | CNY | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
+| 09:04 | CNY | Outstanding Loan Growth (YoY) (Jan) | 7.5% | 7.3% | 7.6% |
+| 54 min | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 54 min | EUR | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
+| 54 min | EUR | Employment Overall (Q4) |  |  | 169,112.9K |
 | 11:00 | EUR | Reserve Assets Total (Jan) |  |  | 1,394.03B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Deposit Growth |  |  | 10.8% |
+| 11:30 | INR | Exports (USD) (Jan) |  |  | 38.01B |
 | 11:30 | INR | FX Reserves, USD |  |  | 630.61B |
+| 11:30 | INR | Imports (USD) (Jan) |  |  | 59.95B |
+| 11:30 | INR | Trade Balance (Jan) |  |  | -21.94B |
 | 13:30 | USD | Export Price Index (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 2.2% |
 | 13:30 | USD | Retail Sales (YoY) (Jan) |  |  | 3.92% |
