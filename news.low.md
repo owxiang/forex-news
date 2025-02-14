@@ -22,8 +22,8 @@
 | 09:00 | CNY | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Jan) | 7.5% | 7.3% | 7.6% |
 | 09:00 | CNY | Chinese Total Social Financing (Jan) | 7,060.0B | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Employment Change (YoY) (Q4) | 0.6% | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) | 0.6% | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Overall (Q4) | 169,345.0K |  | 169,161.3K |
 | 11:00 | EUR | Reserve Assets Total (Jan) | 1,457.53B |  | 1,394.03B |
 | 11:30 | INR | Bank Loan Growth | 11.4% |  | 11.5% |
@@ -37,7 +37,7 @@
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Dec) | 135.5K |  | 160.9K |
 | 14:15 | USD | Capacity Utilization Rate (Jan) | 77.8% | 77.7% | 77.5% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jan) | -0.1% | 0.1% | 0.5% |
-| 14:30 | CAD | BoC Senior Loan Officer Survey (Q4) |  |  |  |
+| 14:30 | CAD | BoC Senior Loan Officer Survey (Q4) | -1.9 |  |  |
 | 20:00 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.4K |

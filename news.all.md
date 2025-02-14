@@ -21,14 +21,14 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
 | 09:00 | CNY | Moderate | New Loans (Jan) | 5,130.0B | 770.0B | 990.0B |
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) | 7.5% | 7.3% | 7.6% |
 | 09:00 | CNY | Low | Chinese Total Social Financing (Jan) | 7,060.0B | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.6% | 0.8% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.6% | 0.8% | 1.0% |
 | 10:00 | EUR | Low | Employment Overall (Q4) | 169,345.0K |  | 169,161.3K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.4% |
@@ -52,7 +52,7 @@
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) | 2.00% |  | 0.34% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) | 0.5% | 0.3% | 1.0% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) | -0.1% | 0.1% | 0.5% |
-| 14:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  |  |
+| 14:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) | -1.9 |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) | -0.2% | 0.0% | 0.1% |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) | -0.1% | 0.2% | 0.5% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
