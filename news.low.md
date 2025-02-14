@@ -29,15 +29,15 @@
 | 11:30 | INR | Bank Loan Growth | 11.4% |  | 11.5% |
 | 11:30 | INR | Deposit Growth | 10.3% |  | 10.8% |
 | 11:30 | INR | FX Reserves, USD | 638.26B |  | 630.61B |
-| 21 min | USD | Export Price Index (YoY) (Jan) |  |  | 1.8% |
-| 21 min | USD | Import Price Index (YoY) (Jan) |  |  | 2.2% |
-| 21 min | USD | Retail Sales (YoY) (Jan) |  |  | 3.92% |
-| 21 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
-| 21 min | CAD | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
-| 21 min | CAD | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
-| 14:15 | USD | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
-| 14:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
-| 14:30 | CAD | BoC Senior Loan Officer Survey (Q4) |  |  | 1.7 |
+| 13:30 | USD | Export Price Index (YoY) (Jan) | 2.7% |  | 1.8% |
+| 13:30 | USD | Import Price Index (YoY) (Jan) | 1.9% |  | 2.2% |
+| 13:30 | USD | Retail Sales (YoY) (Jan) | 4.20% |  | 4.36% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) | -0.5% |  | 0.5% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Dec) | 0.3% | 0.6% | 0.7% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Dec) | 135.5K |  | 160.9K |
+| 9 min | USD | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
+| 9 min | USD | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
+| 24 min | CAD | BoC Senior Loan Officer Survey (Q4) |  |  | 1.7 |
 | 20:00 | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.4K |

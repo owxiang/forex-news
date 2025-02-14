@@ -36,25 +36,25 @@
 | 11:30 | INR | Low | Bank Loan Growth | 11.4% |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.8% |
 | 11:30 | INR | Low | FX Reserves, USD | 638.26B |  | 630.61B |
-| 21 min | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
-| 21 min | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
-| 21 min | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
-| 21 min | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
-| 21 min | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
-| 21 min | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
-| 21 min | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.4% |
-| 21 min | USD | Low | Retail Sales (YoY) (Jan) |  |  | 3.92% |
-| 21 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
-| 21 min | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
-| 21 min | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
-| 21 min | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.55% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
-| 14:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  | 1.7 |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.5% |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.7% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jan) | 2.7% |  | 1.8% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) | 1.3% | 0.3% | 0.5% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) | 0.3% | 0.4% | 0.2% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jan) | 1.9% |  | 2.2% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Jan) | -0.8% | 0.3% | 0.8% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jan) | -0.9% | -0.2% | 0.7% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jan) | 4.20% |  | 4.36% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) | -0.5% |  | 0.5% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.3% | 0.6% | 0.7% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) | 135.5K |  | 160.9K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | -0.2% | 0.1% | 0.0% |
+| 9 min | USD | Low | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
+| 9 min | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.55% |
+| 9 min | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
+| 9 min | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
+| 24 min | CAD | Low | BoC Senior Loan Officer Survey (Q4) |  |  | 1.7 |
+| 54 min | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |
+| 54 min | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.5% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
