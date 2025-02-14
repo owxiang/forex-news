@@ -16,8 +16,8 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | 2.51% |  | 2.14% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jan) | 0.9% |  | 0.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jan) | 0.9% | 0.2% | 0.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Jan) | -0.3% |  | -0.9% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
+| 07:30 | CHF | Low | PPI (YoY) (Jan) | -0.3% |  | -0.9% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
@@ -49,8 +49,8 @@
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) | 135.5K |  | 160.9K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | -0.2% | 0.1% | 0.0% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jan) | 77.8% | 77.7% | 77.5% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) | 0.5% | 0.3% | 1.0% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) | 2.00% |  | 0.34% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) | 0.5% | 0.3% | 1.0% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jan) | -0.1% | 0.1% | 0.5% |
 | 14:30 | CAD | Low | BoC Senior Loan Officer Survey (Q4) | -1.9 |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Dec) | -0.2% | 0.0% | 0.1% |
