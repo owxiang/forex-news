@@ -14,8 +14,8 @@
 | 13:30 | USD | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  | 0.2% | -0.2% |
-| 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
+| 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 15:00 | USD | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.2% | 0.5% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |

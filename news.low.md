@@ -3,19 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | SGD | GDP (YoY) (Q4) | 5.0% |  | 4.3% |
-| 34 min | AUD | MI Inflation Expectations (Feb) |  |  | 4.0% |
-| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 36.12 |
-| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 59.98 |
-| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 50.90 |
-| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 38.26 |
-| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 70.96 |
+| 27 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 36.12 |
+| 27 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 59.98 |
+| 27 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 50.90 |
+| 27 min | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 38.26 |
+| 27 min | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 70.96 |
 | 03:35 | JPY | 5-Year JGB Auction |  |  | 0.876% |
 | 05:00 | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 06:30 | INR | WPI Food (YoY) (Jan) |  |  | 8.47% |
 | 06:30 | INR | WPI Fuel (YoY) (Jan) |  |  | -3.79% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 2.14% |
-| 07:00 | EUR | German WPI (YoY) (Jan) |  |  | 0.1% |
 | 07:00 | EUR | German WPI (MoM) (Jan) |  | 0.2% | 0.1% |
+| 07:00 | EUR | German WPI (YoY) (Jan) |  |  | 0.1% |
 | 07:30 | CHF | PPI (YoY) (Jan) |  |  | -0.9% |
 | 08:00 | EUR | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
@@ -26,8 +25,8 @@
 | 10:00 | CNY | M2 Money Stock (YoY) (Jan) |  | 7.3% | 7.3% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Jan) |  | 7.3% | 7.6% |
 | 10:00 | CNY | Chinese Total Social Financing (Jan) |  | 6,400.0B | 2,860.0B |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
 | 10:00 | EUR | Employment Overall (Q4) |  |  | 169,112.9K |
 | 11:00 | EUR | Reserve Assets Total (Jan) |  |  | 1,394.03B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
