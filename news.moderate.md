@@ -7,8 +7,8 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
 | 09:00 | CNY | New Loans (Jan) | 5,130.0B | 770.0B | 990.0B |
-| 10:00 | EUR | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.4% |
+| 10:00 | EUR | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 13:30 | USD | Export Price Index (MoM) (Jan) | 1.3% | 0.3% | 0.5% |
 | 13:30 | USD | Import Price Index (MoM) (Jan) | 0.3% | 0.4% | 0.2% |
 | 13:30 | USD | Retail Control (MoM) (Jan) | -0.8% | 0.3% | 0.8% |

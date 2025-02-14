@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 00:00 | SGD | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
+| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
@@ -38,7 +38,7 @@
 | 14:15 | USD | Capacity Utilization Rate (Jan) | 77.8% | 77.7% | 77.5% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jan) | -0.1% | 0.1% | 0.5% |
 | 14:30 | CAD | BoC Senior Loan Officer Survey (Q4) | -1.9 |  |  |
-| 20:00 | USD | Fed Logan Speaks |  |  |  |
+| 54 min | USD | Fed Logan Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 15.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 462.4K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
+| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
@@ -16,11 +16,11 @@
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | 2.51% |  | 2.14% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jan) | 0.9% |  | 0.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jan) | 0.9% | 0.2% | 0.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 07:30 | CHF | Low | PPI (YoY) (Jan) | -0.3% |  | -0.9% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 2.9% | 3.0% | 2.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 2.9% | 2.9% | 2.8% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
@@ -30,20 +30,20 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.6% | 0.8% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) | 169,345.0K |  | 169,161.3K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 11:00 | EUR | Low | Reserve Assets Total (Jan) | 1,457.53B |  | 1,394.03B |
 | 11:30 | INR | Low | Bank Loan Growth | 11.4% |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.8% |
 | 11:30 | INR | Low | FX Reserves, USD | 638.26B |  | 630.61B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.7% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jan) | 2.7% |  | 1.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) | 1.3% | 0.3% | 0.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jan) | 2.7% |  | 1.8% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jan) | 1.9% |  | 2.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) | 0.3% | 0.4% | 0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jan) | -0.8% | 0.3% | 0.8% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jan) | 4.20% |  | 4.36% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jan) | -0.9% | -0.2% | 0.7% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jan) | 4.20% |  | 4.36% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) | -0.5% |  | 0.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | 0.3% | 0.6% | 0.7% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) | 135.5K |  | 160.9K |
@@ -58,7 +58,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.3% | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 481 |  | 480 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 588 |  | 586 |
-| 20:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 54 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -11.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 15.4K |
