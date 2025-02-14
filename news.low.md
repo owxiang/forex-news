@@ -29,15 +29,12 @@
 | 11:30 | INR | Bank Loan Growth | 11.4% |  | 11.5% |
 | 11:30 | INR | Deposit Growth | 10.3% |  | 10.8% |
 | 11:30 | INR | FX Reserves, USD | 638.26B |  | 630.61B |
-| 50 min | INR | Exports (USD) (Jan) |  |  | 38.01B |
-| 50 min | INR | Imports (USD) (Jan) |  |  | 59.95B |
-| 50 min | INR | Trade Balance (Jan) |  |  | -21.94B |
-| 13:30 | USD | Export Price Index (YoY) (Jan) |  |  | 1.8% |
-| 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 2.2% |
-| 13:30 | USD | Retail Sales (YoY) (Jan) |  |  | 3.92% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
+| 21 min | USD | Export Price Index (YoY) (Jan) |  |  | 1.8% |
+| 21 min | USD | Import Price Index (YoY) (Jan) |  |  | 2.2% |
+| 21 min | USD | Retail Sales (YoY) (Jan) |  |  | 3.92% |
+| 21 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
+| 21 min | CAD | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
+| 21 min | CAD | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
 | 14:15 | USD | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
 | 14:30 | CAD | BoC Senior Loan Officer Survey (Q4) |  |  | 1.7 |

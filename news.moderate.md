@@ -9,10 +9,10 @@
 | 09:00 | CNY | New Loans (Jan) | 5,130.0B | 770.0B | 990.0B |
 | 10:00 | EUR | GDP (YoY) (Q4) | 0.9% | 0.9% | 0.9% |
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.4% |
-| 13:30 | USD | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
-| 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
+| 21 min | USD | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
+| 21 min | USD | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
+| 21 min | USD | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
+| 21 min | CAD | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
 | 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
 | 15:00 | USD | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |

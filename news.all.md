@@ -36,21 +36,18 @@
 | 11:30 | INR | Low | Bank Loan Growth | 11.4% |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.8% |
 | 11:30 | INR | Low | FX Reserves, USD | 638.26B |  | 630.61B |
-| 50 min | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
-| 50 min | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
-| 50 min | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.4% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 3.92% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
+| 21 min | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
+| 21 min | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
+| 21 min | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
+| 21 min | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
+| 21 min | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
+| 21 min | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
+| 21 min | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.4% |
+| 21 min | USD | Low | Retail Sales (YoY) (Jan) |  |  | 3.92% |
+| 21 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
+| 21 min | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
+| 21 min | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
+| 21 min | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
