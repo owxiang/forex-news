@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 00:00 | SGD | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
+| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) | 37.30 |  | 38.26 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) | 70.54 |  | 70.96 |
 | 03:35 | JPY | 5-Year JGB Auction | 0.982% |  | 0.876% |
-| 22 min | INR | WPI Food (YoY) (Jan) |  |  | 8.47% |
-| 22 min | INR | WPI Fuel (YoY) (Jan) |  |  | -3.79% |
-| 22 min | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 2.14% |
-| 52 min | EUR | German WPI (MoM) (Jan) |  | 0.2% | 0.1% |
-| 52 min | EUR | German WPI (YoY) (Jan) |  |  | 0.1% |
-| 07:30 | CHF | PPI (YoY) (Jan) |  |  | -0.9% |
-| 08:00 | EUR | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.1% | 0.4% |
+| 06:30 | INR | WPI Food (YoY) (Jan) | 5.88% |  | 8.47% |
+| 06:30 | INR | WPI Fuel (YoY) (Jan) | -2.78% |  | -3.79% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) | 2.51% |  | 2.14% |
+| 07:00 | EUR | German WPI (YoY) (Jan) | 0.9% |  | 0.1% |
+| 07:00 | EUR | German WPI (MoM) (Jan) | 0.9% | 0.2% | 0.1% |
+| 24 min | CHF | PPI (YoY) (Jan) |  |  | -0.9% |
+| 54 min | EUR | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
+| 54 min | EUR | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
+| 54 min | EUR | Spanish HICP (MoM) (Jan) |  | -0.1% | 0.4% |
 | 08:15 | INR | Exports (USD) (Jan) |  |  | 38.01B |
 | 08:15 | INR | Imports (USD) (Jan) |  |  | 59.95B |
 | 08:15 | INR | Trade Balance (Jan) |  |  | -21.94B |

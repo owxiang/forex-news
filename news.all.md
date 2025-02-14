@@ -2,27 +2,27 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
+| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Feb) | 37.30 |  | 38.26 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Feb) | 70.54 |  | 70.96 |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 0.982% |  | 0.876% |
-| 22 min | INR | Low | WPI Food (YoY) (Jan) |  |  | 8.47% |
-| 22 min | INR | Low | WPI Fuel (YoY) (Jan) |  |  | -3.79% |
-| 22 min | INR | Moderate | WPI Inflation (YoY) (Jan) |  | 2.50% | 2.37% |
-| 22 min | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 2.14% |
-| 52 min | EUR | Low | German WPI (MoM) (Jan) |  | 0.2% | 0.1% |
-| 52 min | EUR | Low | German WPI (YoY) (Jan) |  |  | 0.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 07:30 | CHF | Low | PPI (YoY) (Jan) |  |  | -0.9% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.9% | 2.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.1% | 0.4% |
+| 06:30 | INR | Low | WPI Food (YoY) (Jan) | 5.88% |  | 8.47% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Jan) | -2.78% |  | -3.79% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Jan) | 2.31% | 2.50% | 2.37% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | 2.51% |  | 2.14% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jan) | 0.9% |  | 0.1% |
+| 07:00 | EUR | Low | German WPI (MoM) (Jan) | 0.9% | 0.2% | 0.1% |
+| 24 min | CHF | Low | PPI (YoY) (Jan) |  |  | -0.9% |
+| 24 min | CHF | Moderate | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 54 min | EUR | Low | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
+| 54 min | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
+| 54 min | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
+| 54 min | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.1% | 0.4% |
+| 54 min | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 2.9% | 2.8% |
 | 08:15 | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
 | 08:15 | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
 | 08:15 | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
@@ -33,8 +33,8 @@
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  |  | 169,112.9K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | 0.4% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
 | 11:00 | EUR | Low | Reserve Assets Total (Jan) |  |  | 1,394.03B |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.8% |
@@ -42,11 +42,11 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 3.92% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.4% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 3.92% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
