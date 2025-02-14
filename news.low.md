@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 00:00 | SGD | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
+| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
 | 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
@@ -19,13 +19,13 @@
 | 08:00 | EUR | Core CPI (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jan) | -0.1% | -0.1% | 0.4% |
-| 09:02 | CNY | Chinese Total Social Financing (Jan) | 7,060.0B | 6,400.0B | 2,860.0B |
-| 09:04 | CNY | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
-| 09:04 | CNY | Outstanding Loan Growth (YoY) (Jan) | 7.5% | 7.3% | 7.6% |
-| 54 min | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 54 min | EUR | Employment Change (YoY) (Q4) |  | 0.8% | 1.0% |
-| 54 min | EUR | Employment Overall (Q4) |  |  | 169,112.9K |
-| 11:00 | EUR | Reserve Assets Total (Jan) |  |  | 1,394.03B |
+| 09:00 | CNY | M2 Money Stock (YoY) (Jan) | 7.0% | 7.3% | 7.3% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (Jan) | 7.5% | 7.3% | 7.6% |
+| 09:00 | CNY | Chinese Total Social Financing (Jan) | 7,060.0B | 6,400.0B | 2,860.0B |
+| 10:00 | EUR | Employment Change (YoY) (Q4) | 0.6% | 0.8% | 1.0% |
+| 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Overall (Q4) |  |  | 169,112.9K |
+| 54 min | EUR | Reserve Assets Total (Jan) |  |  | 1,394.03B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.5% |
 | 11:30 | INR | Deposit Growth |  |  | 10.8% |
 | 11:30 | INR | Exports (USD) (Jan) |  |  | 38.01B |
