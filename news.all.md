@@ -8,7 +8,7 @@
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Feb) | 37.30 |  | 38.26 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Feb) | 70.54 |  | 70.96 |
-| 03:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.876% |
+| 26 min | JPY | Low | 5-Year JGB Auction |  |  | 0.876% |
 | 05:00 | AUD | Moderate | Home Loans (MoM) |  |  | 0.1% |
 | 05:00 | AUD | Low | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 06:30 | INR | Low | WPI Food (YoY) (Jan) |  |  | 8.47% |
