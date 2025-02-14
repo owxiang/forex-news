@@ -2,23 +2,22 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% |  | 4.3% |
+| 00:00 | SGD | Low | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
+| 00:00 | SGD | Low | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
 | 02:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Feb) | 37.30 |  | 38.26 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Feb) | 70.54 |  | 70.96 |
 | 03:35 | JPY | Low | 5-Year JGB Auction | 0.982% |  | 0.876% |
-| 53 min | AUD | Moderate | Home Loans (MoM) |  |  | 0.1% |
-| 53 min | AUD | Low | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 06:30 | INR | Low | WPI Food (YoY) (Jan) |  |  | 8.47% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Jan) |  |  | -3.79% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Jan) |  | 2.50% | 2.37% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 2.14% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jan) |  |  | 0.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jan) |  | 0.2% | 0.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 07:30 | CHF | Low | PPI (YoY) (Jan) |  |  | -0.9% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jan) |  | 2.4% | 2.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.2% | 0.5% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
@@ -41,17 +40,17 @@
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.8% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 630.61B |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.3% | 0.4% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jan) |  |  | 1.8% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jan) |  |  | 2.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.4% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 3.92% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.8% | 0.8% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  | 0.2% | -0.2% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |

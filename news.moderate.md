@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | AUD | Home Loans (MoM) |  |  | 0.1% |
 | 06:30 | INR | WPI Inflation (YoY) (Jan) |  | 2.50% | 2.37% |
 | 07:30 | CHF | PPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 08:00 | EUR | Spanish CPI (YoY) (Jan) |  | 3.0% | 2.8% |
@@ -13,7 +12,7 @@
 | 13:30 | USD | Export Price Index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Import Price Index (MoM) (Jan) |  | 0.4% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (Jan) |  | 0.3% | 0.7% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  | 0.2% | -0.2% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Dec) |  | 0.1% | -0.2% |
 | 14:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.55% |
 | 14:15 | USD | Industrial Production (MoM) (Jan) |  | 0.3% | 0.9% |
 | 15:00 | USD | Business Inventories (MoM) (Dec) |  | 0.0% | 0.1% |

@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% |  | 4.3% |
+| 00:00 | SGD | GDP (YoY) (Q4) | 5.0% | 4.3% | 5.7% |
+| 00:00 | SGD | GDP (QoQ) (Q4) | 0.5% | 0.1% | 3.0% |
 | 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 40.97 |  | 36.12 |
 | 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 58.04 |  | 59.98 |
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 49.91 |  | 50.90 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) | 37.30 |  | 38.26 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) | 70.54 |  | 70.96 |
 | 03:35 | JPY | 5-Year JGB Auction | 0.982% |  | 0.876% |
-| 53 min | AUD | Invest Housing Finance (MoM) |  |  | -1.0% |
 | 06:30 | INR | WPI Food (YoY) (Jan) |  |  | 8.47% |
 | 06:30 | INR | WPI Fuel (YoY) (Jan) |  |  | -3.79% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | 2.14% |
@@ -36,7 +36,7 @@
 | 13:30 | USD | Import Price Index (YoY) (Jan) |  |  | 2.2% |
 | 13:30 | USD | Retail Sales (YoY) (Jan) |  |  | 3.92% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.3% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | 0.8% | 0.8% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | 0.6% | 0.8% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Dec) |  |  | 160.9K |
 | 14:15 | USD | Capacity Utilization Rate (Jan) |  | 77.7% | 77.6% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.1% | 0.6% |
