@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | NZD | Low | Performance of Services Index |  |  | 47.9 |
-| 39 min | NZD | Low | External Migration & Visitors (Dec) |  |  | 5.90% |
-| 39 min | NZD | Low | Permanent/Long-Term Migration (Dec) |  |  | 2,070 |
-| 39 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 1.0% |
+| 21:30 | NZD | Low | Performance of Services Index | 50.4 |  | 48.1 |
+| 21:45 | NZD | Low | External Migration & Visitors (Dec) | 12.20% |  | 5.90% |
+| 21:45 | NZD | Low | Permanent/Long-Term Migration (Dec) | 3,810 |  | 2,140 |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) | 3.5% |  | 1.3% |
 | 23:50 | JPY | Moderate | GDP (YoY) (Q4) |  |  | 1.2% |
 | 23:50 | JPY | High | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
 | 23:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  |  | -0.1% |
