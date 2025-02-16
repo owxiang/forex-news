@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:50 | JPY | GDP (YoY) (Q4) |  |  | 1.2% |
-| 23:50 | JPY | GDP Price Index (YoY) (Q4) |  | 2.8% | 2.4% |
+| 44 min | JPY | GDP (YoY) (Q4) |  |  | 1.2% |
+| 44 min | JPY | GDP Price Index (YoY) (Q4) |  | 2.8% | 2.4% |
