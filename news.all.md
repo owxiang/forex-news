@@ -2,17 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.5% |  | 1.7% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
+| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
+| 02:00 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
+| 02:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
+| 02:00 | KRW | Low | Trade Balance (Jan) | -1.86B | -1.89B | 6.49B |
 | 04:00 | IDR | Low | Export Growth (YoY) (Jan) | 4.68% | 6.99% | 4.78% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Jan) |  | 9.95% | 11.07% |
-| 04:00 | IDR | Low | Trade Balance (Jan) |  | 1.91B | 2.24B |
-| 22 min | JPY | Low | Capacity Utilization (MoM) (Dec) |  |  | -1.9% |
-| 22 min | JPY | Moderate | Industrial Production (MoM) (Dec) |  | 0.3% | 0.3% |
-| 22 min | JPY | Low | Tertiary Industry Activity Index (Dec) |  | 0.20 | -1.20 |
-| 53 min | GBP | Low | Rightmove House Price Index (YoY) (Feb) |  |  | 1.8% |
+| 04:00 | IDR | Low | Import Growth (YoY) (Jan) | -2.67% | 9.95% | 11.07% |
+| 04:00 | IDR | Low | Trade Balance (Jan) | 3.45B | 1.91B | 2.24B |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Dec) | -0.2% |  | -1.9% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | -0.2% | 0.3% | -2.2% |
+| 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 7.10 | 0.20 | -1.20 |
 | 07:00 | NOK | Low | Trade Balance (Jan) |  |  | 83.2B |
 | 09:00 | EUR | Low | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.82B |
@@ -37,6 +40,3 @@
 | 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 15:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:55 | KRW | Low | Exports (YoY) (Jan) |  |  | 6.6% |
-| 23:55 | KRW | Low | Imports (YoY) (Jan) |  |  | 3.3% |
-| 23:55 | KRW | Low | Trade Balance (Jan) |  |  | 6.49B |
