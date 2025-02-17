@@ -10,4 +10,4 @@
 | 13:30 | CAD | Foreign Securities Purchases (Dec) | 14.37B | 14.23B | 13.84B |
 | 14:30 | USD | FOMC Member Harker Speaks |  |  |  |
 | 15:20 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 23:00 | USD | Fed Waller Speaks |  |  |  |
+| 55 min | USD | Fed Waller Speaks |  |  |  |

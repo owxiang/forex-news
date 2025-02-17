@@ -7,8 +7,6 @@
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
 | 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
-| 02:00 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
-| 02:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
 | 02:00 | KRW | Low | Trade Balance (Jan) | -1.86B | -1.89B | 6.49B |
 | 04:00 | IDR | Low | Export Growth (YoY) (Jan) | 4.68% | 6.99% | 4.78% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Jan) | -2.67% | 9.95% | 11.07% |
@@ -39,4 +37,6 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.369% |  | 2.358% |
 | 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 15:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 55 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 23:55 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
+| 23:55 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
