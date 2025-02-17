@@ -16,7 +16,7 @@
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Dec) | -0.2% |  | -1.9% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | -0.2% | 0.3% | -2.2% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 7.10 | 0.20 | -1.20 |
-| 07:00 | NOK | Low | Trade Balance (Jan) |  |  | 83.2B |
+| 51 min | NOK | Low | Trade Balance (Jan) |  |  | 83.2B |
 | 09:00 | EUR | Low | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.82B |
 | 09:00 | EUR | Low | Spanish Trade Balance (Dec) |  |  | -5.13B |
