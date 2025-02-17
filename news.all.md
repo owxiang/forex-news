@@ -1,17 +1,42 @@
-## 16 February 2025 - All Forex News
+## 17 February 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 21:30 | NZD | Low | Performance of Services Index | 50.4 |  | 48.1 |
-| 21:45 | NZD | Low | External Migration & Visitors (Dec) | 12.20% |  | 5.90% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Dec) | 3,810 |  | 2,140 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) | 3.5% |  | 1.3% |
-| 44 min | JPY | Moderate | GDP (YoY) (Q4) |  |  | 1.2% |
-| 44 min | JPY | High | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
-| 44 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  |  | -0.1% |
-| 44 min | JPY | Low | GDP External Demand (QoQ) (Q4) |  |  | -0.2% |
-| 44 min | JPY | Moderate | GDP Price Index (YoY) (Q4) |  | 2.8% | 2.4% |
-| 44 min | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  |  | 0.7% |
-| 49 min | KRW | Low | Exports (YoY) (Jan) |  | -10.3% | -10.3% |
-| 49 min | KRW | Low | Imports (YoY) (Jan) |  | -6.4% | -6.4% |
-| 49 min | KRW | Low | Trade Balance (Jan) |  | -1.89B | -1.89B |
+| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.5% |  | 1.7% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) |  |  | 1.8% |
+| 2 min | SGD | Low | Non-Oil Exports (YoY) (Jan) |  | -2.50% | 9.00% |
+| 2 min | SGD | Low | Non-Oil Exports (MoM) (Jan) |  | -0.30% | 1.70% |
+| 01:30 | SGD | Low | Trade Balance (Jan) |  |  | 3.850B |
+| 04:00 | IDR | Low | Export Growth (YoY) (Jan) |  | 6.99% | 4.78% |
+| 04:00 | IDR | Low | Import Growth (YoY) (Jan) |  | 9.95% | 11.07% |
+| 04:00 | IDR | Low | Trade Balance (Jan) |  | 1.91B | 2.24B |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Dec) |  |  | -1.9% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) |  | 0.3% | 0.3% |
+| 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) |  | 0.20 | -1.20 |
+| 07:00 | NOK | Low | Trade Balance (Jan) |  |  | 83.2B |
+| 09:00 | EUR | Low | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.82B |
+| 09:00 | EUR | Low | Spanish Trade Balance (Dec) |  |  | -5.13B |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Moderate | Trade Balance (Dec) |  | 14.4B | 16.4B |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.402% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.5% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  |  | 0.10% |
+| 13:00 | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
+| 13:00 | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
+| 13:00 | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
+| 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 251.0K | 231.5K |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Dec) |  | 14.23B | 16.40B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.224% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.450% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.358% |
+| 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 15:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 23:55 | KRW | Low | Exports (YoY) (Jan) |  |  | 6.6% |
+| 23:55 | KRW | Low | Imports (YoY) (Jan) |  |  | 3.3% |
+| 23:55 | KRW | Low | Trade Balance (Jan) |  |  | 6.49B |

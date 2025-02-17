@@ -1,14 +1,33 @@
-## 16 February 2025 - Low Impact Forex News
+## 17 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:30 | NZD | Performance of Services Index | 50.4 |  | 48.1 |
-| 21:45 | NZD | External Migration & Visitors (Dec) | 12.20% |  | 5.90% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Dec) | 3,810 |  | 2,140 |
-| 21:45 | NZD | Visitor Arrivals (MoM) | 3.5% |  | 1.3% |
-| 44 min | JPY | GDP Capital Expenditure (QoQ) (Q4) |  |  | -0.1% |
-| 44 min | JPY | GDP External Demand (QoQ) (Q4) |  |  | -0.2% |
-| 44 min | JPY | GDP Private Consumption (QoQ) (Q4) |  |  | 0.7% |
-| 49 min | KRW | Exports (YoY) (Jan) |  | -10.3% | -10.3% |
-| 49 min | KRW | Imports (YoY) (Jan) |  | -6.4% | -6.4% |
-| 49 min | KRW | Trade Balance (Jan) |  | -1.89B | -1.89B |
+| 00:01 | GBP | Rightmove House Price Index (MoM) | 0.5% |  | 1.7% |
+| 00:01 | GBP | Rightmove House Price Index (YoY) (Feb) |  |  | 1.8% |
+| 2 min | SGD | Non-Oil Exports (YoY) (Jan) |  | -2.50% | 9.00% |
+| 2 min | SGD | Non-Oil Exports (MoM) (Jan) |  | -0.30% | 1.70% |
+| 01:30 | SGD | Trade Balance (Jan) |  |  | 3.850B |
+| 04:00 | IDR | Export Growth (YoY) (Jan) |  | 6.99% | 4.78% |
+| 04:00 | IDR | Import Growth (YoY) (Jan) |  | 9.95% | 11.07% |
+| 04:00 | IDR | Trade Balance (Jan) |  | 1.91B | 2.24B |
+| 04:30 | JPY | Capacity Utilization (MoM) (Dec) |  |  | -1.9% |
+| 04:30 | JPY | Tertiary Industry Activity Index (Dec) |  | 0.20 | -1.20 |
+| 07:00 | NOK | Trade Balance (Jan) |  |  | 83.2B |
+| 09:00 | EUR | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
+| 09:00 | EUR | Italian Trade Balance EU (Dec) |  |  | -1.82B |
+| 09:00 | EUR | Spanish Trade Balance (Dec) |  |  | -5.13B |
+| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.402% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.5% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | IBC-Br Economic Activity (Dec) |  |  | 0.10% |
+| 13:00 | INR | Exports (USD) (Jan) |  |  | 38.01B |
+| 13:00 | INR | Imports (USD) (Jan) |  |  | 59.95B |
+| 13:00 | INR | Trade Balance (Jan) |  |  | -21.94B |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.224% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.450% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.358% |
+| 23:55 | KRW | Exports (YoY) (Jan) |  |  | 6.6% |
+| 23:55 | KRW | Imports (YoY) (Jan) |  |  | 3.3% |
+| 23:55 | KRW | Trade Balance (Jan) |  |  | 6.49B |

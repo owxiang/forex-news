@@ -1,5 +1,3 @@
-## 16 February 2025 - High Impact Forex News
+## 17 February 2025 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 44 min | JPY | GDP (QoQ) (Q4) |  | 0.3% | 0.3% |
+There is no high impact news today.
