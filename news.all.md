@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
 | 02:00 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
 | 02:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
@@ -38,5 +38,5 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.452% |  | 2.450% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.369% |  | 2.358% |
 | 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 14 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
