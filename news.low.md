@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 00:30 | SGD | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 01:30 | SGD | Trade Balance (Jan) | 2.930B |  | 3.800B |
 | 02:00 | KRW | Trade Balance (Jan) | -1.86B | -1.89B | 6.49B |
 | 04:00 | IDR | Export Growth (YoY) (Jan) | 4.68% | 6.99% | 4.78% |
@@ -29,5 +29,5 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.276% |  | 2.224% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.452% |  | 2.450% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.369% |  | 2.358% |
-| 23:55 | KRW | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
-| 23:55 | KRW | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
+| 50 min | KRW | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
+| 50 min | KRW | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
