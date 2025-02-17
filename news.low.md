@@ -25,8 +25,8 @@
 | 10:50 | EUR | German 12-Month Bubill Auction | 2.096% |  | 2.402% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) | 0.9% |  | 0.5% |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | IBC-Br Economic Activity (Dec) |  |  | 0.10% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | IBC-Br Economic Activity (Dec) | -0.70% |  | 0.10% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.224% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.450% |

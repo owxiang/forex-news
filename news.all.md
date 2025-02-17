@@ -29,8 +29,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) | 0.9% |  | 0.5% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Dec) |  |  | 0.10% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) | -0.70% |  | 0.10% |
 | 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 251.0K | 231.5K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Dec) |  | 14.23B | 16.40B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
