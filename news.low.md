@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 00:30 | SGD | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 01:30 | SGD | Trade Balance (Jan) | 2.930B |  | 3.800B |
 | 02:00 | KRW | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
 | 02:00 | KRW | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
@@ -27,7 +27,7 @@
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) | 0.9% |  | 0.5% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Dec) | -0.70% |  | 0.10% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.224% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.450% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.358% |
+| 19 min | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
+| 49 min | EUR | French 12-Month BTF Auction |  |  | 2.224% |
+| 49 min | EUR | French 3-Month BTF Auction |  |  | 2.450% |
+| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.358% |
