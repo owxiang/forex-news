@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
 | 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
 | 02:00 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
 | 02:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
@@ -31,12 +31,12 @@
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) | 0.9% |  | 0.5% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) | -0.70% |  | 0.10% |
-| 4 min | CAD | Moderate | Housing Starts (Jan) |  | 251.0K | 231.5K |
-| 19 min | CAD | Moderate | Foreign Securities Purchases (Dec) |  | 14.23B | 16.40B |
-| 19 min | CAD | Low | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.224% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.450% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.358% |
-| 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 13:15 | CAD | Moderate | Housing Starts (Jan) | 239.7K | 251.0K | 232.5K |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (Dec) | 14.37B | 14.23B | 13.84B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Dec) | 3.770B |  | 17.650B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.276% |  | 2.224% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.452% |  | 2.450% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.369% |  | 2.358% |
+| 24 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 15:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
