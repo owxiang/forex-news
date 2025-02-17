@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
 | 02:00 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
 | 02:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
@@ -23,12 +23,12 @@
 | 09:00 | EUR | Low | Italian Trade Balance (Dec) | 5.980B | 4.350B | 3.995B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Dec) | -1.86B |  | -2.04B |
 | 09:00 | EUR | Low | Spanish Trade Balance (Dec) | -4.12B |  | -5.13B |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 53 min | EUR | Moderate | Trade Balance (Dec) |  | 14.4B | 16.4B |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.402% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.5% |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Moderate | Trade Balance (Dec) | 15.5B | 14.4B | 16.4B |
+| 23 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.402% |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.5% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  |  | 0.10% |
 | 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 251.0K | 231.5K |
