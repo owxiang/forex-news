@@ -15,7 +15,7 @@
 | 04:00 | IDR | Trade Balance (Jan) | 3.45B | 1.91B | 2.24B |
 | 04:30 | JPY | Capacity Utilization (MoM) (Dec) | -0.2% |  | -1.9% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Dec) | 7.10 | 0.20 | -1.20 |
-| 51 min | NOK | Trade Balance (Jan) |  |  | 83.2B |
+| 07:00 | NOK | Trade Balance (Jan) | 94.8B |  | 83.2B |
 | 09:00 | EUR | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
 | 09:00 | EUR | Italian Trade Balance EU (Dec) |  |  | -1.82B |
 | 09:00 | EUR | Spanish Trade Balance (Dec) |  |  | -5.13B |
