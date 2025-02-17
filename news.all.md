@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
 | 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
 | 02:00 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
 | 02:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
