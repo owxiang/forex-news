@@ -17,20 +17,20 @@
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | -0.2% | 0.3% | -2.2% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 7.10 | 0.20 | -1.20 |
 | 07:00 | NOK | Low | Trade Balance (Jan) | 94.8B |  | 83.2B |
-| 51 min | EUR | Low | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
-| 51 min | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.82B |
-| 51 min | EUR | Low | Spanish Trade Balance (Dec) |  |  | -5.13B |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Trade Balance (Dec) |  | 14.4B | 16.4B |
+| 08:50 | INR | Low | Exports (USD) (Jan) | 36.43B |  | 38.01B |
+| 08:50 | INR | Low | Imports (USD) (Jan) | 59.42B |  | 59.95B |
+| 08:50 | INR | Low | Trade Balance (Jan) | -22.99B |  | -21.94B |
+| 09:00 | EUR | Low | Italian Trade Balance (Dec) | 5.980B | 4.350B | 3.995B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Dec) | -1.86B |  | -2.04B |
+| 09:00 | EUR | Low | Spanish Trade Balance (Dec) | -4.12B |  | -5.13B |
+| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 53 min | EUR | Moderate | Trade Balance (Dec) |  | 14.4B | 16.4B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.402% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.5% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  |  | 0.10% |
-| 13:00 | INR | Low | Exports (USD) (Jan) |  |  | 38.01B |
-| 13:00 | INR | Low | Imports (USD) (Jan) |  |  | 59.95B |
-| 13:00 | INR | Low | Trade Balance (Jan) |  |  | -21.94B |
 | 13:15 | CAD | Moderate | Housing Starts (Jan) |  | 251.0K | 231.5K |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Dec) |  | 14.23B | 16.40B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |

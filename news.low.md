@@ -16,17 +16,17 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Dec) | -0.2% |  | -1.9% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Dec) | 7.10 | 0.20 | -1.20 |
 | 07:00 | NOK | Trade Balance (Jan) | 94.8B |  | 83.2B |
-| 51 min | EUR | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
-| 51 min | EUR | Italian Trade Balance EU (Dec) |  |  | -1.82B |
-| 51 min | EUR | Spanish Trade Balance (Dec) |  |  | -5.13B |
+| 08:50 | INR | Exports (USD) (Jan) | 36.43B |  | 38.01B |
+| 08:50 | INR | Imports (USD) (Jan) | 59.42B |  | 59.95B |
+| 08:50 | INR | Trade Balance (Jan) | -22.99B |  | -21.94B |
+| 09:00 | EUR | Italian Trade Balance (Dec) | 5.980B | 4.350B | 3.995B |
+| 09:00 | EUR | Italian Trade Balance EU (Dec) | -1.86B |  | -2.04B |
+| 09:00 | EUR | Spanish Trade Balance (Dec) | -4.12B |  | -5.13B |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.402% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.5% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Dec) |  |  | 0.10% |
-| 13:00 | INR | Exports (USD) (Jan) |  |  | 38.01B |
-| 13:00 | INR | Imports (USD) (Jan) |  |  | 59.95B |
-| 13:00 | INR | Trade Balance (Jan) |  |  | -21.94B |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 17.850B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.224% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.450% |
