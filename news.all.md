@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
 | 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
 | 02:00 | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
 | 02:00 | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
@@ -17,9 +17,9 @@
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | -0.2% | 0.3% | -2.2% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 7.10 | 0.20 | -1.20 |
 | 07:00 | NOK | Low | Trade Balance (Jan) | 94.8B |  | 83.2B |
-| 09:00 | EUR | Low | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.82B |
-| 09:00 | EUR | Low | Spanish Trade Balance (Dec) |  |  | -5.13B |
+| 51 min | EUR | Low | Italian Trade Balance (Dec) |  | 4.350B | 4.218B |
+| 51 min | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -1.82B |
+| 51 min | EUR | Low | Spanish Trade Balance (Dec) |  |  | -5.13B |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Trade Balance (Dec) |  | 14.4B | 16.4B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.402% |
