@@ -37,6 +37,6 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.276% |  | 2.224% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.452% |  | 2.450% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.369% |  | 2.358% |
-| 24 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 15:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 14 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
