@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | JPY | Industrial Production (MoM) (Dec) |  | 0.3% | 0.3% |
+| 22 min | JPY | Industrial Production (MoM) (Dec) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Trade Balance (Dec) |  | 14.4B | 16.4B |
 | 11:00 | EUR | German Buba President Nagel Speaks |  |  |  |
