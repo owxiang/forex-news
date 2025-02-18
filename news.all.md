@@ -13,8 +13,8 @@
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 3.50% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 1.8% | 1.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 1.20% |
