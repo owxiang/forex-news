@@ -10,15 +10,15 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Jan) | 22.0K | 10.0K | -15.1K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
-| 24 min | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 3.50% |
-| 39 min | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
-| 39 min | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
-| 39 min | EUR | Low | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
-| 39 min | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
-| 39 min | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
-| 39 min | EUR | Low | French HICP (YoY) (Jan) |  | 1.8% | 1.8% |
-| 39 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 1.20% |
-| 08:30 | HKD | Low | Unemployment Rate (Jan) |  |  | 3.1% |
+| 07:30 | CHF | Low | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
+| 22 min | HKD | Low | Unemployment Rate (Jan) |  |  | 3.1% |
 | 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.8% | 0.2% |
 | 09:30 | ZAR | Low | Unemployment Rate (Q4) |  |  | 32.10% |
@@ -46,7 +46,6 @@
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.185% |
 | 18:00 | USD | Low | 52-Week Bill Auction |  |  | 4.025% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| Tentative | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | -15.80B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Dec) |  |  | 159.90B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  | 149.1B | 79.0B |

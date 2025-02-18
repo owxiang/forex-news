@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Average Earnings ex Bonus (Dec) | 5.9% | 5.9% | 5.6% |
-| 24 min | CHF | Industrial Production (YoY) (Q4) |  |  | 3.50% |
-| 39 min | EUR | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
-| 39 min | EUR | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
-| 39 min | EUR | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
-| 39 min | EUR | French HICP (YoY) (Jan) |  | 1.8% | 1.8% |
-| 39 min | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 1.20% |
-| 08:30 | HKD | Unemployment Rate (Jan) |  |  | 3.1% |
+| 07:30 | CHF | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
+| 07:45 | EUR | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
+| 07:45 | EUR | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
+| 22 min | HKD | Unemployment Rate (Jan) |  |  | 3.1% |
 | 09:30 | ZAR | Unemployment Rate (Q4) |  |  | 32.10% |
 | 09:30 | ZAR | Unemployment (Q4) |  |  | 8.011M |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
