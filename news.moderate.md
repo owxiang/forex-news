@@ -10,12 +10,12 @@
 | 07:00 | GBP | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
 | 07:45 | EUR | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
-| 24 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 24 min | GBP | Labour Productivity (Q3) |  | -0.8% | 0.2% |
-| 54 min | EUR | German ZEW Current Conditions (Feb) |  | -90.0 | -90.4 |
-| 54 min | EUR | German ZEW Economic Sentiment (Feb) |  | 19.9 | 10.3 |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
-| 54 min | EUR | ZEW Economic Sentiment (Feb) |  | 24.3 | 18.0 |
+| 09:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 09:30 | GBP | Labour Productivity (Q3) | -2.4% | -0.8% | -0.9% |
+| 10:00 | EUR | German ZEW Current Conditions (Feb) | -88.5 | -90.0 | -90.4 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Feb) | 26.0 | 19.9 | 10.3 |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | ZEW Economic Sentiment (Feb) | 24.2 | 24.3 | 18.0 |
 | 13:30 | USD | NY Empire State Manufacturing Index (Feb) |  | -1.90 | -12.60 |
 | 13:30 | CAD | Core CPI (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | CAD | Core CPI (MoM) (Jan) |  |  | -0.3% |

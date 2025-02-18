@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Average Earnings ex Bonus (Dec) | 5.9% | 5.9% | 5.6% |
 | 07:30 | CHF | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
 | 07:45 | EUR | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
 | 07:45 | EUR | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
 | 08:30 | HKD | Unemployment Rate (Jan) | 3.1% |  | 3.1% |
-| 24 min | ZAR | Unemployment Rate (Q4) |  |  | 32.10% |
-| 24 min | ZAR | Unemployment (Q4) |  |  | 8.011M |
-| 54 min | EUR | ECOFIN Meetings |  |  |  |
+| 09:30 | ZAR | Unemployment Rate (Q4) | 31.90% |  | 32.10% |
+| 09:30 | ZAR | Unemployment (Q4) | 7.991M |  | 8.011M |
+| 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.260% |
 | 13:30 | CAD | Common CPI (YoY) (Jan) |  | 2.1% | 2.0% |
 | 13:30 | CAD | CPI (YoY) (Jan) |  | 1.8% | 1.8% |
@@ -29,6 +29,6 @@
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 79.00B |
 | 21:45 | NZD | PPI Output (QoQ) (Q4) |  |  | 1.5% |
 | 23:00 | JPY | Reuters Tankan Index (Feb) |  |  | 2 |
-| 23:50 | JPY | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
+| 23:50 | JPY | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
 | 23:50 | JPY | Imports (YoY) (Jan) |  | 9.7% | 1.8% |
