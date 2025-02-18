@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Interest Rate Decision (Feb) |  | 4.10% | 4.35% |
+| 03:30 | AUD | RBA Interest Rate Decision (Feb) | 4.10% | 4.10% | 4.35% |
 | Tentative | USD | U.S. President Trump Speaks |  |  |  |
