@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings ex Bonus (Dec) |  | 5.9% | 5.6% |
+| 52 min | GBP | Average Earnings ex Bonus (Dec) |  | 5.9% | 5.6% |
 | 07:30 | CHF | Industrial Production (YoY) (Q4) |  |  | 3.50% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
