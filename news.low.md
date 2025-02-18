@@ -27,8 +27,8 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Dec) | -49.70B |  | -34.40B |
 | 21:00 | USD | Overall Net Capital Flow (Dec) | 87.10B |  | 134.10B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) | 72.00B |  | 53.20B |
-| 40 min | NZD | PPI Output (QoQ) (Q4) |  |  | 1.5% |
-| 23:00 | JPY | Reuters Tankan Index (Feb) |  |  | 2 |
+| 21:45 | NZD | PPI Output (QoQ) (Q4) | -0.1% |  | 1.5% |
+| 55 min | JPY | Reuters Tankan Index (Feb) |  |  | 2 |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
 | 23:50 | JPY | Imports (YoY) (Jan) |  | 9.7% | 1.7% |
