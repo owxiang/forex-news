@@ -22,7 +22,7 @@
 | 13:30 | CAD | CPI (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
 | 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
 | 15:20 | EUR | German Buba Balz Speaks |  |  |  |
-| 54 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Dec) |  | 149.1B | 79.0B |
 | 21:45 | NZD | PPI Input (QoQ) (Q4) |  |  | 1.9% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.26T | -0.03T |

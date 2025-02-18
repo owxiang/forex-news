@@ -13,8 +13,8 @@
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
@@ -44,8 +44,8 @@
 | 15:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.220% |  | 4.185% |
-| 54 min | USD | Low | 52-Week Bill Auction |  |  | 4.025% |
-| 54 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Low | 52-Week Bill Auction | 4.050% |  | 4.025% |
+| 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | -15.80B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Dec) |  |  | 159.90B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  | 149.1B | 79.0B |
@@ -57,5 +57,5 @@
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
 | 23:50 | JPY | Moderate | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
-| 23:50 | JPY | Low | Imports (YoY) (Jan) |  | 9.7% | 1.8% |
+| 23:50 | JPY | Low | Imports (YoY) (Jan) |  | 9.7% | 1.7% |
 | 23:50 | JPY | Moderate | Trade Balance (Jan) |  | -2,104.0B | 130.9B |
