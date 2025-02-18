@@ -9,10 +9,10 @@
 | 07:45 | EUR | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
 | 07:45 | EUR | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
-| 22 min | HKD | Unemployment Rate (Jan) |  |  | 3.1% |
-| 09:30 | ZAR | Unemployment Rate (Q4) |  |  | 32.10% |
-| 09:30 | ZAR | Unemployment (Q4) |  |  | 8.011M |
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
+| 08:30 | HKD | Unemployment Rate (Jan) | 3.1% |  | 3.1% |
+| 24 min | ZAR | Unemployment Rate (Q4) |  |  | 32.10% |
+| 24 min | ZAR | Unemployment (Q4) |  |  | 8.011M |
+| 54 min | EUR | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.260% |
 | 13:30 | CAD | Common CPI (YoY) (Jan) |  | 2.1% | 2.0% |
 | 13:30 | CAD | CPI (YoY) (Jan) |  | 1.8% | 1.8% |

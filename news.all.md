@@ -18,16 +18,16 @@
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
-| 22 min | HKD | Low | Unemployment Rate (Jan) |  |  | 3.1% |
-| 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 09:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.8% | 0.2% |
-| 09:30 | ZAR | Low | Unemployment Rate (Q4) |  |  | 32.10% |
-| 09:30 | ZAR | Low | Unemployment (Q4) |  |  | 8.011M |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Feb) |  | -90.0 | -90.4 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Feb) |  | 19.9 | 10.3 |
-| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) |  | 24.3 | 18.0 |
+| 08:30 | HKD | Low | Unemployment Rate (Jan) | 3.1% |  | 3.1% |
+| 24 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 24 min | GBP | Moderate | Labour Productivity (Q3) |  | -0.8% | 0.2% |
+| 24 min | ZAR | Low | Unemployment Rate (Q4) |  |  | 32.10% |
+| 24 min | ZAR | Low | Unemployment (Q4) |  |  | 8.011M |
+| 54 min | EUR | Moderate | German ZEW Current Conditions (Feb) |  | -90.0 | -90.4 |
+| 54 min | EUR | Moderate | German ZEW Economic Sentiment (Feb) |  | 19.9 | 10.3 |
+| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 54 min | EUR | Moderate | ZEW Economic Sentiment (Feb) |  | 24.3 | 18.0 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.260% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -1.90 | -12.60 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 2.1% | 2.0% |
