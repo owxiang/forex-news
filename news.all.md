@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
@@ -46,12 +46,12 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.220% |  | 4.185% |
 | 18:00 | USD | Low | 52-Week Bill Auction | 4.050% |  | 4.025% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 53 min | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | -15.80B |
-| 53 min | USD | Low | Overall Net Capital Flow (Dec) |  |  | 159.90B |
-| 53 min | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  | 149.1B | 79.0B |
-| 53 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 79.00B |
-| 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) |  |  | 1.9% |
-| 21:45 | NZD | Low | PPI Output (QoQ) (Q4) |  |  | 1.5% |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) | -49.70B |  | -34.40B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Dec) | 87.10B |  | 134.10B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) | 72.0B | 149.1B | 53.2B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) | 72.00B |  | 53.20B |
+| 40 min | NZD | Moderate | PPI Input (QoQ) (Q4) |  |  | 1.9% |
+| 40 min | NZD | Low | PPI Output (QoQ) (Q4) |  |  | 1.5% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Feb) |  |  | 2 |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.03T |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |

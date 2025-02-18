@@ -23,8 +23,8 @@
 | 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
 | 15:20 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 53 min | USD | TIC Net Long-Term Transactions (Dec) |  | 149.1B | 79.0B |
-| 21:45 | NZD | PPI Input (QoQ) (Q4) |  |  | 1.9% |
+| 21:00 | USD | TIC Net Long-Term Transactions (Dec) | 72.0B | 149.1B | 53.2B |
+| 40 min | NZD | PPI Input (QoQ) (Q4) |  |  | 1.9% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.26T | -0.03T |
 | 23:50 | JPY | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
 | 23:50 | JPY | Trade Balance (Jan) |  | -2,104.0B | 130.9B |
