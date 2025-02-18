@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
@@ -52,10 +52,10 @@
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) | 72.00B |  | 53.20B |
 | 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) | -0.9% |  | 1.9% |
 | 21:45 | NZD | Low | PPI Output (QoQ) (Q4) | -0.1% |  | 1.5% |
-| 55 min | JPY | Low | Reuters Tankan Index (Feb) |  |  | 2 |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.03T |
-| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
-| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
-| 23:50 | JPY | Moderate | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
-| 23:50 | JPY | Low | Imports (YoY) (Jan) |  | 9.7% | 1.7% |
-| 23:50 | JPY | Moderate | Trade Balance (Jan) |  | -2,104.0B | 130.9B |
+| 23:00 | JPY | Low | Reuters Tankan Index (Feb) | 3 |  | 2 |
+| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.03T |
+| 44 min | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
+| 44 min | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
+| 44 min | JPY | Moderate | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
+| 44 min | JPY | Low | Imports (YoY) (Jan) |  | 9.7% | 1.7% |
+| 44 min | JPY | Moderate | Trade Balance (Jan) |  | -2,104.0B | 130.9B |

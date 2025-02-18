@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Average Earnings ex Bonus (Dec) | 5.9% | 5.9% | 5.6% |
 | 07:30 | CHF | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
 | 07:45 | EUR | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
 | 07:45 | EUR | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
@@ -28,7 +28,7 @@
 | 21:00 | USD | Overall Net Capital Flow (Dec) | 87.10B |  | 134.10B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) | 72.00B |  | 53.20B |
 | 21:45 | NZD | PPI Output (QoQ) (Q4) | -0.1% |  | 1.5% |
-| 55 min | JPY | Reuters Tankan Index (Feb) |  |  | 2 |
-| 23:50 | JPY | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
-| 23:50 | JPY | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
-| 23:50 | JPY | Imports (YoY) (Jan) |  | 9.7% | 1.7% |
+| 23:00 | JPY | Reuters Tankan Index (Feb) | 3 |  | 2 |
+| 44 min | JPY | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
+| 44 min | JPY | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
+| 44 min | JPY | Imports (YoY) (Jan) |  | 9.7% | 1.7% |

@@ -25,6 +25,6 @@
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Dec) | 72.0B | 149.1B | 53.2B |
 | 21:45 | NZD | PPI Input (QoQ) (Q4) | -0.9% |  | 1.9% |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.26T | -0.03T |
-| 23:50 | JPY | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
-| 23:50 | JPY | Trade Balance (Jan) |  | -2,104.0B | 130.9B |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.26T | -0.03T |
+| 44 min | JPY | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
+| 44 min | JPY | Trade Balance (Jan) |  | -2,104.0B | 130.9B |
