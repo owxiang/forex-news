@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
@@ -29,6 +29,8 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) | 24.2 | 24.3 | 18.0 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.140% |  | 2.260% |
+| 12:00 | NZD | Low | GlobalDairyTrade Price Index | -0.6% |  | 3.7% |
+| 12:00 | USD | Low | Milk Auctions | 4,370.0 |  | 4,296.0 |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) | 5.70 | -1.90 | -12.60 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) | 2.2% | 2.1% | 2.0% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) | 2.1% |  | 1.8% |
@@ -37,11 +39,9 @@
 | 13:30 | CAD | Moderate | CPI (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jan) | 2.7% | 2.5% | 2.6% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) | 2.7% | 2.6% | 2.5% |
-| 54 min | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 47 |
-| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.7% |
-| 54 min | USD | Low | Milk Auctions |  |  | 4,296.0 |
-| 15:20 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 15:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:00 | USD | Low | NAHB Housing Market Index (Feb) | 42 | 46 | 47 |
+| 14 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 14 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.185% |
 | 18:00 | USD | Low | 52-Week Bill Auction |  |  | 4.025% |
@@ -52,6 +52,7 @@
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 79.00B |
 | 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) |  |  | 1.9% |
 | 21:45 | NZD | Low | PPI Output (QoQ) (Q4) |  |  | 1.5% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Feb) |  |  | 2 |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.03T |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
