@@ -11,10 +11,10 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  |  | 35K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Dec) |  | 4.5% | 4.4% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 3.50% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 1.8% | 1.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 1.20% |
@@ -32,8 +32,8 @@
 | 12:00 | USD | Low | Milk Auctions |  |  | 4,296.0 |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -1.10 | -12.60 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 2.0% | 2.0% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.3% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | CAD | Low | CPI (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jan) |  | 2.4% | 2.4% |
