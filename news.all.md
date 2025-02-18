@@ -32,8 +32,8 @@
 | 12:00 | USD | Low | Milk Auctions |  |  | 4,296.0 |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -1.10 | -12.60 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 2.0% | 2.0% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.3% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) |  |  | 1.8% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.3% |
 | 13:30 | CAD | Low | CPI (YoY) (Jan) |  |  | 1.8% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jan) |  | 2.4% | 2.4% |
