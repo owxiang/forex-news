@@ -16,10 +16,10 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Feb) | 26.0 | 19.9 | 10.3 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | ZEW Economic Sentiment (Feb) | 24.2 | 24.3 | 18.0 |
-| 21 min | USD | NY Empire State Manufacturing Index (Feb) |  | -1.90 | -12.60 |
-| 21 min | CAD | Core CPI (YoY) (Jan) |  |  | 1.8% |
-| 21 min | CAD | Core CPI (MoM) (Jan) |  |  | -0.3% |
-| 21 min | CAD | CPI (MoM) (Jan) |  | 0.1% | -0.4% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Feb) | 5.70 | -1.90 | -12.60 |
+| 13:30 | CAD | Core CPI (YoY) (Jan) | 2.1% |  | 1.8% |
+| 13:30 | CAD | Core CPI (MoM) (Jan) | 0.4% |  | -0.3% |
+| 13:30 | CAD | CPI (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
 | 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
 | 15:20 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

@@ -29,17 +29,17 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) | 24.2 | 24.3 | 18.0 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.140% |  | 2.260% |
-| 21 min | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -1.90 | -12.60 |
-| 21 min | CAD | Low | Common CPI (YoY) (Jan) |  | 2.1% | 2.0% |
-| 21 min | CAD | Moderate | Core CPI (YoY) (Jan) |  |  | 1.8% |
-| 21 min | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.3% |
-| 21 min | CAD | Low | CPI (YoY) (Jan) |  | 1.8% | 1.8% |
-| 21 min | CAD | Moderate | CPI (MoM) (Jan) |  | 0.1% | -0.4% |
-| 21 min | CAD | Low | Median CPI (YoY) (Jan) |  | 2.5% | 2.4% |
-| 21 min | CAD | Low | Trimmed CPI (YoY) (Jan) |  | 2.6% | 2.5% |
-| 51 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.7% |
-| 51 min | USD | Low | Milk Auctions |  |  | 4,296.0 |
-| 15:00 | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 47 |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) | 5.70 | -1.90 | -12.60 |
+| 13:30 | CAD | Low | Common CPI (YoY) (Jan) | 2.2% | 2.1% | 2.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) | 2.1% |  | 1.8% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) | 0.4% |  | -0.3% |
+| 13:30 | CAD | Low | CPI (YoY) (Jan) | 1.9% | 1.8% | 1.8% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Jan) | 2.7% | 2.5% | 2.6% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) | 2.7% | 2.6% | 2.5% |
+| 54 min | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 47 |
+| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.7% |
+| 54 min | USD | Low | Milk Auctions |  |  | 4,296.0 |
 | 15:20 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 15:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |

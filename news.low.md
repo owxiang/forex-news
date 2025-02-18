@@ -14,13 +14,13 @@
 | 09:30 | ZAR | Unemployment (Q4) | 7.991M |  | 8.011M |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.260% |
-| 21 min | CAD | Common CPI (YoY) (Jan) |  | 2.1% | 2.0% |
-| 21 min | CAD | CPI (YoY) (Jan) |  | 1.8% | 1.8% |
-| 21 min | CAD | Median CPI (YoY) (Jan) |  | 2.5% | 2.4% |
-| 21 min | CAD | Trimmed CPI (YoY) (Jan) |  | 2.6% | 2.5% |
-| 51 min | NZD | GlobalDairyTrade Price Index |  |  | 3.7% |
-| 51 min | USD | Milk Auctions |  |  | 4,296.0 |
-| 15:00 | USD | NAHB Housing Market Index (Feb) |  | 46 | 47 |
+| 13:30 | CAD | Common CPI (YoY) (Jan) | 2.2% | 2.1% | 2.0% |
+| 13:30 | CAD | CPI (YoY) (Jan) | 1.9% | 1.8% | 1.8% |
+| 13:30 | CAD | Median CPI (YoY) (Jan) | 2.7% | 2.5% | 2.6% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Jan) | 2.7% | 2.6% | 2.5% |
+| 54 min | USD | NAHB Housing Market Index (Feb) |  | 46 | 47 |
+| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 3.7% |
+| 54 min | USD | Milk Auctions |  |  | 4,296.0 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.185% |
 | 18:00 | USD | 52-Week Bill Auction |  |  | 4.025% |
