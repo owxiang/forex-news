@@ -33,17 +33,17 @@
 | 12:00 | USD | Low | Milk Auctions | 4,370.0 |  | 4,296.0 |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) | 5.70 | -1.90 | -12.60 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jan) | 2.2% | 2.1% | 2.0% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) | 2.1% |  | 1.8% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) | 0.4% |  | -0.3% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) | 2.1% |  | 1.8% |
 | 13:30 | CAD | Low | CPI (YoY) (Jan) | 1.9% | 1.8% | 1.8% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jan) | 2.7% | 2.5% | 2.6% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) | 2.7% | 2.6% | 2.5% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Feb) | 42 | 46 | 47 |
-| 14 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 14 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.185% |
+| 15:20 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 15:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.185% |
 | 18:00 | USD | Low | 52-Week Bill Auction |  |  | 4.025% |
 | 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | -15.80B |

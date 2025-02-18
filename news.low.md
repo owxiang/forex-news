@@ -21,8 +21,8 @@
 | 13:30 | CAD | Median CPI (YoY) (Jan) | 2.7% | 2.5% | 2.6% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jan) | 2.7% | 2.6% | 2.5% |
 | 15:00 | USD | NAHB Housing Market Index (Feb) | 42 | 46 | 47 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.225% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.185% |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.225% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.185% |
 | 18:00 | USD | 52-Week Bill Auction |  |  | 4.025% |
 | 21:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | -15.80B |
 | 21:00 | USD | Overall Net Capital Flow (Dec) |  |  | 159.90B |
