@@ -5,19 +5,19 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Feb) | 4.10% | 4.10% | 4.35% |
 | 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 52 min | GBP | Low | Average Earnings ex Bonus (Dec) |  | 5.9% | 5.6% |
-| 52 min | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 5.9% | 5.6% |
-| 52 min | GBP | Moderate | Claimant Count Change (Jan) |  | 10.0K | 0.7K |
-| 52 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  |  | 35K |
-| 52 min | GBP | Moderate | Unemployment Rate (Dec) |  | 4.5% | 4.4% |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 3.50% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 1.8% | 1.8% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 1.20% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Dec) | 5.9% | 5.9% | 5.6% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) | 6.0% | 5.9% | 5.5% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jan) | 22.0K | 10.0K | -15.1K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
+| 24 min | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 3.50% |
+| 39 min | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
+| 39 min | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
+| 39 min | EUR | Low | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
+| 39 min | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
+| 39 min | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
+| 39 min | EUR | Low | French HICP (YoY) (Jan) |  | 1.8% | 1.8% |
+| 39 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 1.20% |
 | 08:30 | HKD | Low | Unemployment Rate (Jan) |  |  | 3.1% |
 | 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.8% | 0.2% |

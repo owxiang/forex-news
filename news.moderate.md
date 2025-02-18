@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 03:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 03:30 | AUD | RBA Rate Statement |  |  |  |
-| 52 min | GBP | Average Earnings Index +Bonus (Dec) |  | 5.9% | 5.6% |
-| 52 min | GBP | Claimant Count Change (Jan) |  | 10.0K | 0.7K |
-| 52 min | GBP | Employment Change 3M/3M (MoM) (Dec) |  |  | 35K |
-| 52 min | GBP | Unemployment Rate (Dec) |  | 4.5% | 4.4% |
-| 07:45 | EUR | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
-| 07:45 | EUR | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Dec) | 6.0% | 5.9% | 5.5% |
+| 07:00 | GBP | Claimant Count Change (Jan) | 22.0K | 10.0K | -15.1K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
+| 07:00 | GBP | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
+| 39 min | EUR | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
+| 39 min | EUR | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
 | 09:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 09:30 | GBP | Labour Productivity (Q3) |  | -0.8% | 0.2% |
 | 10:00 | EUR | German ZEW Current Conditions (Feb) |  | -90.0 | -90.4 |
