@@ -1,3 +1,6 @@
-## 17 February 2025 - High Impact Forex News
+## 18 February 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 03:30 | AUD | RBA Interest Rate Decision (Feb) |  | 4.10% | 4.35% |
+| Tentative | USD | U.S. President Trump Speaks |  |  |  |

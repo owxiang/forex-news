@@ -1,42 +1,62 @@
-## 17 February 2025 - All Forex News
+## 18 February 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Feb) | 0.5% |  | 1.7% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | 1.4% |  | 1.8% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) | -3.30% | -0.30% | 1.30% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) | -2.10% | -2.50% | 9.00% |
-| 01:30 | SGD | Low | Trade Balance (Jan) | 2.930B |  | 3.800B |
-| 02:00 | KRW | Low | Trade Balance (Jan) | -1.86B | -1.89B | 6.49B |
-| 04:00 | IDR | Low | Export Growth (YoY) (Jan) | 4.68% | 6.99% | 4.78% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Jan) | -2.67% | 9.95% | 11.07% |
-| 04:00 | IDR | Low | Trade Balance (Jan) | 3.45B | 1.91B | 2.24B |
-| 04:30 | JPY | Low | Capacity Utilization (MoM) (Dec) | -0.2% |  | -1.9% |
-| 04:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | -0.2% | 0.3% | -2.2% |
-| 04:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 7.10 | 0.20 | -1.20 |
-| 07:00 | NOK | Low | Trade Balance (Jan) | 94.8B |  | 83.2B |
-| 08:50 | INR | Low | Exports (USD) (Jan) | 36.43B |  | 38.01B |
-| 08:50 | INR | Low | Imports (USD) (Jan) | 59.42B |  | 59.95B |
-| 08:50 | INR | Low | Trade Balance (Jan) | -22.99B |  | -21.94B |
-| 09:00 | EUR | Low | Italian Trade Balance (Dec) | 5.980B | 4.350B | 3.995B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Dec) | -1.86B |  | -2.04B |
-| 09:00 | EUR | Low | Spanish Trade Balance (Dec) | -4.12B |  | -5.13B |
+| 03:30 | AUD | High | RBA Interest Rate Decision (Feb) |  | 4.10% | 4.35% |
+| 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Dec) |  | 5.9% | 5.6% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 5.9% | 5.6% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jan) |  | 10.0K | 0.7K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  |  | 35K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Dec) |  | 4.5% | 4.4% |
+| 07:30 | CHF | Low | Industrial Production (YoY) (Q4) |  |  | 3.50% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) |  |  | 1.40% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) |  |  | -0.10% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.1% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jan) |  | 1.4% | 1.3% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.2% | -0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jan) |  | 1.8% | 1.8% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 1.20% |
+| 08:30 | HKD | Low | Unemployment Rate (Jan) |  |  | 3.1% |
+| 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 09:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.8% | 0.2% |
+| 09:30 | ZAR | Low | Unemployment Rate (Q4) |  |  | 32.10% |
+| 09:30 | ZAR | Low | Unemployment (Q4) |  |  | 8.011M |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Feb) |  | -89.0 | -90.4 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Feb) |  | 19.9 | 10.3 |
+| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Trade Balance (Dec) | 15.5B | 14.4B | 16.0B |
-| 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.096% |  | 2.402% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) | 0.9% |  | 0.5% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Dec) | -0.70% |  | 0.10% |
-| 13:15 | CAD | Moderate | Housing Starts (Jan) | 239.7K | 251.0K | 232.5K |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Dec) | 14.37B | 14.23B | 13.84B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Dec) | 3.770B |  | 17.650B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.276% |  | 2.224% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.452% |  | 2.450% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.369% |  | 2.358% |
-| 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 15:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 50 min | KRW | Low | Exports (YoY) (Jan) | -10.2% | -10.3% | 6.6% |
-| 50 min | KRW | Low | Imports (YoY) (Jan) | -6.4% | -6.4% | 3.3% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) |  | 24.3 | 18.0 |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.260% |
+| 12:00 | USD | Low | Milk Auctions |  |  | 4,296.0 |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -1.10 | -12.60 |
+| 13:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 2.0% | 2.0% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) |  |  | 1.8% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.3% |
+| 13:30 | CAD | Low | CPI (YoY) (Jan) |  |  | 1.8% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Jan) |  | 0.0% | -0.4% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Jan) |  | 2.4% | 2.4% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) |  | 2.6% | 2.5% |
+| 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.7% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Feb) |  | 47 | 47 |
+| 15:20 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 15:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.185% |
+| 18:00 | USD | Low | 52-Week Bill Auction |  |  | 4.025% |
+| 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| Tentative | USD | High | U.S. President Trump Speaks |  |  |  |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | -15.80B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Dec) |  |  | 159.90B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  | 149.1B | 79.0B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 79.00B |
+| 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) |  |  | 1.9% |
+| 21:45 | NZD | Low | PPI Output (QoQ) (Q4) |  |  | 1.5% |
+| 23:00 | JPY | Low | Reuters Tankan Index (Feb) |  |  | 2 |
+| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.03T |
+| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
+| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 0.3% | 3.4% |
+| 23:50 | JPY | Moderate | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
+| 23:50 | JPY | Low | Imports (YoY) (Jan) |  | 9.7% | 1.8% |
+| 23:50 | JPY | Moderate | Trade Balance (Jan) |  | -2,104.0B | 132.5B |
