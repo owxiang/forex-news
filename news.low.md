@@ -17,8 +17,8 @@
 | 07:00 | GBP | PPI Input (YoY) (Jan) | -0.1% | -0.5% | -1.3% |
 | 07:00 | GBP | PPI Output (YoY) (Jan) | 0.3% | 0.1% | -0.1% |
 | 07:00 | GBP | PPI Output (MoM) (Jan) | 0.5% | 0.2% | -0.2% |
-| 07:00 | GBP | RPI (YoY) (Jan) | 3.6% | 3.7% | 3.5% |
 | 07:00 | GBP | RPI (MoM) (Jan) | -0.1% | -0.1% | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Jan) | 3.6% | 3.7% | 3.5% |
 | 07:20 | IDR | Loans (YoY) (Jan) | 10.27% |  | 10.39% |
 | 07:30 | IDR | Deposit Facility Rate (Feb) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Lending Facility Rate (Feb) | 6.50% | 6.50% | 6.50% |
@@ -36,9 +36,9 @@
 | 13:30 | USD | Building Permits (MoM) (Jan) | 0.1% |  | -0.7% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.3% |
 | 17:30 | BRL | Foreign Exchange Flows | -1.984B |  | -0.350B |
-| 53 min | KRW | Consumer Confidence (Feb) |  |  | 91.2 |
-| 53 min | KRW | PPI (YoY) (Jan) |  |  | 1.7% |
-| 53 min | KRW | PPI (MoM) (Jan) |  |  | 0.3% |
-| 22:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 21:00 | KRW | Consumer Confidence (Feb) | 95.2 |  | 91.2 |
+| 21:00 | KRW | PPI (MoM) (Jan) | 0.6% |  | 0.3% |
+| 21:00 | KRW | PPI (YoY) (Jan) | 1.7% |  | 1.7% |
+| 55 min | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 1,752.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -384.4B |

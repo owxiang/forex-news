@@ -18,4 +18,4 @@
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.830% |  | 4.900% |
 | 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.200M | 9.043M |
+| 25 min | USD | API Weekly Crude Oil Stock |  | 2.200M | 9.043M |
