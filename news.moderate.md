@@ -12,8 +12,8 @@
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.520% |  | 2.540% |
 | 13:30 | USD | Building Permits (Jan) |  | 1.460M | 1.482M |
-| 13:30 | USD | Housing Starts (MoM) (Jan) |  |  | 15.8% |
 | 13:30 | USD | Housing Starts (Jan) |  | 1.390M | 1.499M |
+| 13:30 | USD | Housing Starts (MoM) (Jan) |  |  | 15.8% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.900% |
