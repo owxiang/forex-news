@@ -15,8 +15,8 @@
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jan) | 3.7% | 3.7% | 3.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jan) | -0.4% | -0.5% | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) | 1.5% |  | 1.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) | 0.3% |  | 0.0% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) | 1.5% |  | 1.6% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jan) | -0.1% |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jan) | 3.2% |  | 2.9% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jan) | -0.1% | -0.3% | 0.3% |
@@ -37,16 +37,15 @@
 | 09:00 | EUR | Low | Current Account n.s.a. (Dec) | 50.5B |  | 32.7B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 4.6% | 3.2% | 3.3% |
 | 09:50 | CNY | Low | FDI (Jan) | -13.40% |  | -27.10% |
-| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  | 4.384% |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
-| 53 min | ZAR | Low | Retail Sales (YoY) (Dec) |  |  | 7.7% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.95% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 153.1 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 230.0 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 640.6 |
+| 10:20 | GBP | Low | 4-Year Treasury Gilt Auction | 4.294% |  | 4.384% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.520% |  | 2.540% |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Dec) | 3.1% |  | 7.6% |
+| 25 min | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 55 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.95% |
+| 55 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.3% |
+| 55 min | USD | Low | MBA Purchase Index |  |  | 153.1 |
+| 55 min | USD | Low | Mortgage Market Index |  |  | 230.0 |
+| 55 min | USD | Low | Mortgage Refinance Index |  |  | 640.6 |
 | 13:30 | USD | Low | Building Permits (MoM) (Jan) |  |  | -0.7% |
 | 13:30 | USD | Moderate | Building Permits (Jan) |  | 1.460M | 1.482M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jan) |  |  | 15.8% |

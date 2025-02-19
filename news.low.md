@@ -9,8 +9,8 @@
 | 02:00 | NZD | RBNZ Offshore Holdings (Jan) | 59.30% |  | 59.20% |
 | 07:00 | GBP | Core CPI (YoY) (Jan) | 3.7% | 3.7% | 3.2% |
 | 07:00 | GBP | Core CPI (MoM) (Jan) | -0.4% | -0.5% | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Jan) | 1.5% |  | 1.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Jan) | 0.3% |  | 0.0% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jan) | 1.5% |  | 1.6% |
 | 07:00 | GBP | Core RPI (MoM) (Jan) | -0.1% |  | 0.3% |
 | 07:00 | GBP | Core RPI (YoY) (Jan) | 3.2% |  | 2.9% |
 | 07:00 | GBP | CPI, n.s.a (Jan) | 135.40 |  | 135.60 |
@@ -26,15 +26,14 @@
 | 09:00 | EUR | Current Account n.s.a. (Dec) | 50.5B |  | 32.7B |
 | 09:30 | GBP | House Price Index (YoY) | 4.6% | 3.2% | 3.3% |
 | 09:50 | CNY | FDI (Jan) | -13.40% |  | -27.10% |
-| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.384% |
-| 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
-| 53 min | ZAR | Retail Sales (YoY) (Dec) |  |  | 7.7% |
-| 11:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.95% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.3% |
-| 12:00 | USD | MBA Purchase Index |  |  | 153.1 |
-| 12:00 | USD | Mortgage Market Index |  |  | 230.0 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 640.6 |
+| 10:20 | GBP | 4-Year Treasury Gilt Auction | 4.294% |  | 4.384% |
+| 11:00 | ZAR | Retail Sales (YoY) (Dec) | 3.1% |  | 7.6% |
+| 25 min | INR | M3 Money Supply |  |  | 9.6% |
+| 55 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.95% |
+| 55 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.3% |
+| 55 min | USD | MBA Purchase Index |  |  | 153.1 |
+| 55 min | USD | Mortgage Market Index |  |  | 230.0 |
+| 55 min | USD | Mortgage Refinance Index |  |  | 640.6 |
 | 13:30 | USD | Building Permits (MoM) (Jan) |  |  | -0.7% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.3% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.350B |
