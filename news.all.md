@@ -22,8 +22,8 @@
 | 07:00 | GBP | Moderate | CPI (MoM) (Jan) | -0.1% | -0.3% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Jan) | 3.0% | 2.8% | 2.5% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jan) | 135.40 |  | 135.60 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Jan) | -0.1% | -0.5% | -1.3% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) | 0.8% | 0.7% | 0.2% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Jan) | -0.1% | -0.5% | -1.3% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Jan) | 0.3% | 0.1% | -0.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jan) | 0.5% | 0.2% | -0.2% |
 | 07:00 | GBP | Low | RPI (MoM) (Jan) | -0.1% | -0.1% | 0.3% |
@@ -45,13 +45,13 @@
 | 12:00 | USD | Low | MBA Purchase Index | 144.0 |  | 153.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 214.9 |  | 230.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 593.6 |  | 640.6 |
-| 13:30 | USD | Moderate | Building Permits (Jan) | 1.483M | 1.460M | 1.482M |
 | 13:30 | USD | Low | Building Permits (MoM) (Jan) | 0.1% |  | -0.7% |
+| 13:30 | USD | Moderate | Building Permits (Jan) | 1.483M | 1.460M | 1.482M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jan) | -9.8% |  | 16.1% |
 | 13:30 | USD | Moderate | Housing Starts (Jan) | 1.366M | 1.390M | 1.515M |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.3% |
-| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
-| 54 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.3% | 2.3% | 2.3% |
+| 16:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.350B |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.900% |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
