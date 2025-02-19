@@ -17,5 +17,5 @@
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.3% | 2.3% |
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction | 4.830% |  | 4.900% |
-| 5 min | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 2.200M | 9.043M |
