@@ -11,11 +11,11 @@
 | 07:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.520% |  | 2.540% |
-| 13:30 | USD | Building Permits (Jan) |  | 1.460M | 1.482M |
-| 13:30 | USD | Housing Starts (Jan) |  | 1.390M | 1.499M |
-| 13:30 | USD | Housing Starts (MoM) (Jan) |  |  | 15.8% |
+| 21 min | USD | Building Permits (Jan) |  | 1.460M | 1.482M |
+| 21 min | USD | Housing Starts (Jan) |  | 1.390M | 1.499M |
+| 21 min | USD | Housing Starts (MoM) (Jan) |  |  | 15.8% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.900% |
 | 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 9.043M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.200M | 9.043M |
