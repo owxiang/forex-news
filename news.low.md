@@ -7,17 +7,17 @@
 | 00:30 | AUD | Wage Price Index (YoY) (Q4) | 3.2% | 3.2% | 3.6% |
 | 01:30 | CNY | House Prices (YoY) (Jan) | -5.0% |  | -5.3% |
 | 02:00 | NZD | RBNZ Offshore Holdings (Jan) | 59.30% |  | 59.20% |
-| 07:00 | GBP | Core CPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | Core CPI (MoM) (Jan) |  | -0.5% | 0.3% |
 | 07:00 | GBP | Core CPI (YoY) (Jan) |  | 3.7% | 3.2% |
 | 07:00 | GBP | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 1.5% |
 | 07:00 | GBP | Core RPI (MoM) (Jan) |  |  | 0.3% |
 | 07:00 | GBP | Core RPI (YoY) (Jan) |  |  | 2.9% |
 | 07:00 | GBP | CPI, n.s.a (Jan) |  |  | 135.60 |
-| 07:00 | GBP | PPI Input (YoY) (Jan) |  |  | -1.5% |
+| 07:00 | GBP | PPI Input (YoY) (Jan) |  | -0.5% | -1.5% |
 | 07:00 | GBP | PPI Output (MoM) (Jan) |  | 0.2% | 0.1% |
-| 07:00 | GBP | PPI Output (YoY) (Jan) |  |  | 0.1% |
-| 07:00 | GBP | RPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | PPI Output (YoY) (Jan) |  | 0.1% | 0.1% |
+| 07:00 | GBP | RPI (MoM) (Jan) |  | -0.1% | 0.3% |
 | 07:00 | GBP | RPI (YoY) (Jan) |  | 3.7% | 3.5% |
 | 07:20 | IDR | Loans (YoY) (Jan) |  |  | 10.39% |
 | 07:30 | IDR | Deposit Facility Rate (Feb) |  | 5.00% | 5.00% |
