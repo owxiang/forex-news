@@ -16,6 +16,6 @@
 | 13:30 | USD | Housing Starts (Jan) | 1.366M | 1.390M | 1.515M |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.3% | 2.3% |
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.900% |
+| 55 min | USD | 20-Year Bond Auction |  |  | 4.900% |
 | 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 2.200M | 9.043M |
