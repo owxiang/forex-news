@@ -10,7 +10,7 @@
 | 07:00 | GBP | PPI Input (MoM) (Jan) | 0.8% | 0.7% | 0.2% |
 | 07:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
+| 23 min | EUR | German 10-Year Bund Auction |  |  | 2.540% |
 | 13:30 | USD | Building Permits (Jan) |  | 1.460M | 1.482M |
 | 13:30 | USD | Housing Starts (MoM) (Jan) |  |  | 15.8% |
 | 13:30 | USD | Housing Starts (Jan) |  | 1.390M | 1.499M |
