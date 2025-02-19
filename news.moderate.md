@@ -7,14 +7,13 @@
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Jan) | -0.1% | -0.3% | 0.3% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 3.5% |
 | 07:00 | GBP | PPI Input (MoM) (Jan) | 0.8% | 0.7% | 0.2% |
-| 24 min | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
-| 54 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 07:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
 | 13:30 | USD | Building Permits (Jan) |  | 1.460M | 1.482M |
-| 13:30 | USD | Housing Starts (Jan) |  | 1.390M | 1.499M |
 | 13:30 | USD | Housing Starts (MoM) (Jan) |  |  | 15.8% |
+| 13:30 | USD | Housing Starts (Jan) |  | 1.390M | 1.499M |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
 | 16:00 | NZD | RBNZ Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.900% |
