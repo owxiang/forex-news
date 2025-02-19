@@ -1,30 +1,22 @@
-## 18 February 2025 - Moderate Impact Forex News
+## 19 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 03:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:00 | GBP | Average Earnings Index +Bonus (Dec) | 6.0% | 5.9% | 5.5% |
-| 07:00 | GBP | Claimant Count Change (Jan) | 22.0K | 10.0K | -15.1K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
-| 07:00 | GBP | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
-| 07:45 | EUR | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
-| 07:45 | EUR | French HICP (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
-| 09:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 09:30 | GBP | Labour Productivity (Q3) | -2.4% | -0.8% | -0.9% |
-| 10:00 | EUR | German ZEW Current Conditions (Feb) | -88.5 | -90.0 | -90.4 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Feb) | 26.0 | 19.9 | 10.3 |
-| 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | ZEW Economic Sentiment (Feb) | 24.2 | 24.3 | 18.0 |
-| 13:30 | USD | NY Empire State Manufacturing Index (Feb) | 5.70 | -1.90 | -12.60 |
-| 13:30 | CAD | Core CPI (YoY) (Jan) | 2.1% |  | 1.8% |
-| 13:30 | CAD | Core CPI (MoM) (Jan) | 0.4% |  | -0.3% |
-| 13:30 | CAD | CPI (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
-| 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
-| 15:20 | EUR | German Buba Balz Speaks |  |  |  |
-| 18:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Dec) | 72.0B | 149.1B | 53.2B |
-| 21:45 | NZD | PPI Input (QoQ) (Q4) | -0.9% |  | 1.9% |
-| 44 min | JPY | Adjusted Trade Balance |  | -0.26T | -0.03T |
-| 44 min | JPY | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
-| 44 min | JPY | Trade Balance (Jan) |  | -2,104.0B | 130.9B |
+| 4 min | AUD | Wage Price Index (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 34 min | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 34 min | NZD | RBNZ Rate Statement |  |  |  |
+| 02:00 | NZD | RBNZ Press Conference |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Jan) |  | -0.3% | 0.3% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 3.5% |
+| 07:00 | GBP | PPI Input (MoM) (Jan) |  | 0.7% | 0.1% |
+| 07:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
+| 13:30 | USD | Building Permits (Jan) |  | 1.460M | 1.482M |
+| 13:30 | USD | Housing Starts (MoM) (Jan) |  |  | 15.8% |
+| 13:30 | USD | Housing Starts (Jan) |  | 1.390M | 1.499M |
+| 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
+| 16:00 | NZD | RBNZ Press Conference |  |  |  |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.900% |
+| 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 9.043M |

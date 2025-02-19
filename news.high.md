@@ -1,5 +1,8 @@
-## 18 February 2025 - High Impact Forex News
+## 19 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Interest Rate Decision (Feb) | 4.10% | 4.10% | 4.35% |
+| 34 min | NZD | RBNZ Interest Rate Decision |  | 3.75% | 4.25% |
+| 02:00 | USD | U.S. President Trump Speaks |  |  |  |
+| 07:00 | GBP | CPI (YoY) (Jan) |  | 2.8% | 2.5% |
+| 19:00 | USD | FOMC Meeting Minutes |  |  |  |

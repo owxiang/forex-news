@@ -1,34 +1,49 @@
-## 18 February 2025 - Low Impact Forex News
+## 19 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings ex Bonus (Dec) | 5.9% | 5.9% | 5.6% |
-| 07:30 | CHF | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
-| 07:45 | EUR | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
-| 07:45 | EUR | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
-| 07:45 | EUR | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
-| 08:30 | HKD | Unemployment Rate (Jan) | 3.1% |  | 3.1% |
-| 09:30 | ZAR | Unemployment Rate (Q4) | 31.90% |  | 32.10% |
-| 09:30 | ZAR | Unemployment (Q4) | 7.991M |  | 8.011M |
-| 10:00 | EUR | ECOFIN Meetings |  |  |  |
-| 10:30 | EUR | German 2-Year Schatz Auction | 2.140% |  | 2.260% |
-| 12:00 | NZD | GlobalDairyTrade Price Index | -0.6% |  | 3.7% |
-| 12:00 | USD | Milk Auctions | 4,370.0 |  | 4,296.0 |
-| 13:30 | CAD | Common CPI (YoY) (Jan) | 2.2% | 2.1% | 2.0% |
-| 13:30 | CAD | CPI (YoY) (Jan) | 1.9% | 1.8% | 1.8% |
-| 13:30 | CAD | Median CPI (YoY) (Jan) | 2.7% | 2.5% | 2.6% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Jan) | 2.7% | 2.6% | 2.5% |
-| 15:00 | USD | NAHB Housing Market Index (Feb) | 42 | 46 | 47 |
-| 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.225% |
-| 16:30 | USD | 6-Month Bill Auction | 4.220% |  | 4.185% |
-| 18:00 | USD | 52-Week Bill Auction | 4.050% |  | 4.025% |
-| 21:00 | USD | US Foreign Buying, T-bonds (Dec) | -49.70B |  | -34.40B |
-| 21:00 | USD | Overall Net Capital Flow (Dec) | 87.10B |  | 134.10B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) | 72.00B |  | 53.20B |
-| 21:45 | NZD | PPI Output (QoQ) (Q4) | -0.1% |  | 1.5% |
-| 23:00 | JPY | Reuters Tankan Index (Feb) | 3 |  | 2 |
-| 44 min | JPY | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
-| 44 min | JPY | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
-| 44 min | JPY | Imports (YoY) (Jan) |  | 9.7% | 1.7% |
+| 00:00 | AUD | MI Leading Index (MoM) (Jan) | 0.1% |  | -0.0% |
+| 4 min | AUD | RBA Chart Pack Release |  |  |  |
+| 4 min | AUD | Wage Price Index (YoY) (Q4) |  | 3.2% | 3.5% |
+| 01:30 | CNY | House Prices (YoY) (Jan) |  |  | -5.3% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Jan) |  |  | 59.20% |
+| 07:00 | GBP | Core CPI (YoY) (Jan) |  | 3.7% | 3.2% |
+| 07:00 | GBP | Core CPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 1.5% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
+| 07:00 | GBP | Core RPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | Core RPI (YoY) (Jan) |  |  | 2.9% |
+| 07:00 | GBP | CPI, n.s.a (Jan) |  |  | 135.60 |
+| 07:00 | GBP | PPI Input (YoY) (Jan) |  |  | -1.5% |
+| 07:00 | GBP | PPI Output (YoY) (Jan) |  |  | 0.1% |
+| 07:00 | GBP | PPI Output (MoM) (Jan) |  | 0.2% | 0.1% |
+| 07:00 | GBP | RPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Jan) |  | 3.7% | 3.5% |
+| 07:20 | IDR | Loans (YoY) (Jan) |  |  | 10.39% |
+| 07:30 | IDR | Deposit Facility Rate (Feb) |  | 5.00% | 5.00% |
+| 07:30 | IDR | Lending Facility Rate (Feb) |  | 6.50% | 6.50% |
+| 08:00 | ZAR | Core CPI (YoY) (Jan) |  |  | 3.6% |
+| 08:00 | ZAR | Core CPI (MoM) (Jan) |  |  | 0.0% |
+| 08:00 | ZAR | CPI (YoY) (Jan) |  |  | 3.0% |
+| 08:00 | ZAR | CPI (MoM) (Jan) |  |  | 0.1% |
+| 09:00 | EUR | Current Account (Dec) |  | 30.2B | 27.0B |
+| 09:00 | EUR | Current Account n.s.a. (Dec) |  |  | 34.6B |
+| 09:30 | GBP | House Price Index (YoY) |  | 3.2% | 3.3% |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.384% |
+| 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 11:00 | ZAR | Retail Sales (YoY) (Dec) |  |  | 7.7% |
+| 11:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.95% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.3% |
+| 12:00 | USD | MBA Purchase Index |  |  | 153.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 230.0 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 640.6 |
+| 13:30 | USD | Building Permits (MoM) (Jan) |  |  | -0.7% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.3% |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.350B |
+| 21:00 | KRW | Consumer Confidence (Feb) |  |  | 91.2 |
+| 21:00 | KRW | PPI (MoM) (Jan) |  |  | 0.3% |
+| 21:00 | KRW | PPI (YoY) (Jan) |  |  | 1.7% |
+| 22:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 1,752.9B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -384.4B |

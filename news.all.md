@@ -1,61 +1,71 @@
-## 18 February 2025 - All Forex News
+## 19 February 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:30 | AUD | High | RBA Interest Rate Decision (Feb) | 4.10% | 4.10% | 4.35% |
-| 03:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Dec) | 5.9% | 5.9% | 5.6% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) | 6.0% | 5.9% | 5.5% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Jan) | 22.0K | 10.0K | -15.1K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 107K |  | 35K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Dec) | 4.4% | 4.5% | 4.4% |
-| 07:30 | CHF | Low | Industrial Production (YoY) (Q4) | 2.30% |  | 3.10% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 1.70% |  | 1.40% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jan) | 0.20% |  | -0.10% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jan) | 0.1% | -0.1% | 0.2% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jan) | 1.7% | 1.4% | 1.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jan) | 1.8% | 1.8% | 1.8% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 1.60% |  | 1.20% |
-| 08:30 | HKD | Low | Unemployment Rate (Jan) | 3.1% |  | 3.1% |
-| 09:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 09:30 | GBP | Moderate | Labour Productivity (Q3) | -2.4% | -0.8% | -0.9% |
-| 09:30 | ZAR | Low | Unemployment Rate (Q4) | 31.90% |  | 32.10% |
-| 09:30 | ZAR | Low | Unemployment (Q4) | 7.991M |  | 8.011M |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Feb) | -88.5 | -90.0 | -90.4 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Feb) | 26.0 | 19.9 | 10.3 |
-| 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) | 24.2 | 24.3 | 18.0 |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.140% |  | 2.260% |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index | -0.6% |  | 3.7% |
-| 12:00 | USD | Low | Milk Auctions | 4,370.0 |  | 4,296.0 |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) | 5.70 | -1.90 | -12.60 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Jan) | 2.2% | 2.1% | 2.0% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jan) | 2.1% |  | 1.8% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Jan) | 0.4% |  | -0.3% |
-| 13:30 | CAD | Low | CPI (YoY) (Jan) | 1.9% | 1.8% | 1.8% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Jan) | 0.1% | 0.1% | -0.4% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Jan) | 2.7% | 2.5% | 2.6% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jan) | 2.7% | 2.6% | 2.5% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Feb) | 42 | 46 | 47 |
-| 15:20 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 15:20 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.225% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.220% |  | 4.185% |
-| 18:00 | USD | Low | 52-Week Bill Auction | 4.050% |  | 4.025% |
-| 18:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Dec) | -49.70B |  | -34.40B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Dec) | 87.10B |  | 134.10B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) | 72.0B | 149.1B | 53.2B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) | 72.00B |  | 53.20B |
-| 21:45 | NZD | Moderate | PPI Input (QoQ) (Q4) | -0.9% |  | 1.9% |
-| 21:45 | NZD | Low | PPI Output (QoQ) (Q4) | -0.1% |  | 1.5% |
-| 23:00 | JPY | Low | Reuters Tankan Index (Feb) | 3 |  | 2 |
-| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.03T |
-| 44 min | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 0.4% | 3.4% |
-| 44 min | JPY | Low | Core Machinery Orders (YoY) (Dec) |  | 6.9% | 10.3% |
-| 44 min | JPY | Moderate | Exports (YoY) (Jan) |  | 7.9% | 2.8% |
-| 44 min | JPY | Low | Imports (YoY) (Jan) |  | 9.7% | 1.7% |
-| 44 min | JPY | Moderate | Trade Balance (Jan) |  | -2,104.0B | 130.9B |
+| 00:00 | AUD | Low | MI Leading Index (MoM) (Jan) | 0.1% |  | -0.0% |
+| 4 min | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 4 min | AUD | Low | Wage Price Index (YoY) (Q4) |  | 3.2% | 3.5% |
+| 4 min | AUD | Moderate | Wage Price Index (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 34 min | NZD | High | RBNZ Interest Rate Decision |  | 3.75% | 4.25% |
+| 34 min | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 34 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 01:30 | CNY | Low | House Prices (YoY) (Jan) |  |  | -5.3% |
+| 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 02:00 | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 59.20% |
+| 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 07:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 3.7% | 3.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 1.5% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 2.9% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Jan) |  | 2.8% | 2.5% |
+| 07:00 | GBP | Low | CPI, n.s.a (Jan) |  |  | 135.60 |
+| 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.5% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.7% | 0.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Jan) |  |  | -1.5% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Jan) |  |  | 0.1% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Jan) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Low | RPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | Low | RPI (YoY) (Jan) |  | 3.7% | 3.5% |
+| 07:20 | IDR | Low | Loans (YoY) (Jan) |  |  | 10.39% |
+| 07:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 07:30 | IDR | Low | Deposit Facility Rate (Feb) |  | 5.00% | 5.00% |
+| 07:30 | IDR | Low | Lending Facility Rate (Feb) |  | 6.50% | 6.50% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.6% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.0% |
+| 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.0% |
+| 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.1% |
+| 09:00 | EUR | Low | Current Account (Dec) |  | 30.2B | 27.0B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Dec) |  |  | 34.6B |
+| 09:30 | GBP | Low | House Price Index (YoY) |  | 3.2% | 3.3% |
+| 10:00 | GBP | Low | 4-Year Treasury Gilt Auction |  |  | 4.384% |
+| 10:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Dec) |  |  | 7.7% |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.95% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.3% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 153.1 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 230.0 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 640.6 |
+| 13:30 | USD | Low | Building Permits (MoM) (Jan) |  |  | -0.7% |
+| 13:30 | USD | Moderate | Building Permits (Jan) |  | 1.460M | 1.482M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Jan) |  |  | 15.8% |
+| 13:30 | USD | Moderate | Housing Starts (Jan) |  | 1.390M | 1.499M |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
+| 16:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.350B |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.900% |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 21:00 | KRW | Low | Consumer Confidence (Feb) |  |  | 91.2 |
+| 21:00 | KRW | Low | PPI (MoM) (Jan) |  |  | 0.3% |
+| 21:00 | KRW | Low | PPI (YoY) (Jan) |  |  | 1.7% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 9.043M |
+| 22:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,752.9B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -384.4B |
