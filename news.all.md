@@ -4,38 +4,38 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Jan) | 0.1% |  | -0.0% |
 | 00:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 00:30 | AUD | Low | Wage Price Index (YoY) (Q4) | 3.2% | 3.2% | 3.6% |
 | 00:30 | AUD | Moderate | Wage Price Index (QoQ) (Q4) | 0.7% | 0.8% | 0.9% |
+| 00:30 | AUD | Low | Wage Price Index (YoY) (Q4) | 3.2% | 3.2% | 3.6% |
 | 01:00 | NZD | High | RBNZ Interest Rate Decision | 3.75% | 3.75% | 4.25% |
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 01:30 | CNY | Low | House Prices (YoY) (Jan) | -5.0% |  | -5.3% |
-| 27 min | USD | High | U.S. President Trump Speaks |  |  |  |
-| 27 min | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 59.20% |
-| 27 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 3.7% | 3.2% |
+| 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 02:00 | NZD | Low | RBNZ Offshore Holdings (Jan) | 59.30% |  | 59.20% |
+| 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jan) |  |  | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 1.5% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 3.7% | 3.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 1.5% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 2.9% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Jan) |  | 2.8% | 2.5% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jan) |  |  | 135.60 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.5% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.7% | 0.1% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Jan) |  |  | -1.5% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Jan) |  |  | 0.1% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.7% | 0.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jan) |  | 0.2% | 0.1% |
-| 07:00 | GBP | Low | RPI (YoY) (Jan) |  | 3.7% | 3.5% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Jan) |  |  | 0.1% |
 | 07:00 | GBP | Low | RPI (MoM) (Jan) |  |  | 0.3% |
+| 07:00 | GBP | Low | RPI (YoY) (Jan) |  | 3.7% | 3.5% |
 | 07:20 | IDR | Low | Loans (YoY) (Jan) |  |  | 10.39% |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Feb) |  | 5.00% | 5.00% |
 | 07:30 | IDR | Low | Lending Facility Rate (Feb) |  | 6.50% | 6.50% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.6% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.0% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.6% |
 | 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.0% |
 | 09:00 | EUR | Low | Current Account (Dec) |  | 30.2B | 27.0B |
@@ -63,8 +63,8 @@
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Feb) |  |  | 91.2 |
-| 21:00 | KRW | Low | PPI (MoM) (Jan) |  |  | 0.3% |
 | 21:00 | KRW | Low | PPI (YoY) (Jan) |  |  | 1.7% |
+| 21:00 | KRW | Low | PPI (MoM) (Jan) |  |  | 0.3% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 9.043M |
 | 22:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,752.9B |

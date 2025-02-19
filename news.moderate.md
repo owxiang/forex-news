@@ -5,7 +5,7 @@
 | 00:30 | AUD | Wage Price Index (QoQ) (Q4) | 0.7% | 0.8% | 0.9% |
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 27 min | NZD | RBNZ Press Conference |  |  |  |
+| 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Jan) |  | -0.3% | 0.3% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 3.5% |
 | 07:00 | GBP | PPI Input (MoM) (Jan) |  | 0.7% | 0.1% |
