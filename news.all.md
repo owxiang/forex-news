@@ -21,8 +21,9 @@
 | 09:40 | EUR | Low | Spanish 8-Year Obligacion Auction | 3.062% |  | 3.100% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) | -28 | -30 | -34 |
-| 55 min | MXN | Low | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
-| 55 min | MXN | Low | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
+| 11:30 | INR | Low | M3 Money Supply | 9.8% |  | 9.6% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,850K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.00K |
@@ -32,12 +33,11 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Feb) |  |  | 11.9 |
 | 13:30 | USD | Low | Philly Fed New Orders (Feb) |  |  | 42.9 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 31.90 |
-| 13:30 | CAD | Low | IPPI (YoY) (Jan) |  |  | 4.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jan) |  |  | 4.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) |  | 2.4% | 1.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | 9.1% |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) |  | 2.4% | 1.3% |
 | 14:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.1% | -0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
