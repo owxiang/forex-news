@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | Initial Jobless Claims | 219K | 215K | 214K |
 | 13:30 | USD | Philadelphia Fed Manufacturing Index (Feb) | 18.1 | 19.4 | 44.3 |
-| 52 min | USD | Crude Oil Inventories |  | 3.200M | 4.070M |
+| 17:00 | USD | Crude Oil Inventories | 4.633M | 3.200M | 4.070M |

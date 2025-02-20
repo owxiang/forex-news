@@ -36,25 +36,25 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) | -0.1% | 0.1% | -0.1% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
 | 14:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
 | 15:30 | USD | Low | Natural Gas Storage | -196B | -191B | -100B |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 22 min | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
-| 22 min | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
-| 52 min | USD | High | Crude Oil Inventories |  | 3.200M | 4.070M |
-| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
-| 52 min | USD | Low | Crude Oil Imports |  |  | -0.184M |
-| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.872M |
-| 52 min | USD | Low | Distillate Fuel Production |  |  | -0.009M |
-| 52 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.200M | 0.135M |
-| 52 min | USD | Low | Gasoline Production |  |  | 0.180M |
-| 52 min | USD | Low | Heating Oil Stockpiles |  |  | 0.159M |
-| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 52 min | USD | Low | Gasoline Inventories |  | 0.700M | -3.035M |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.245% |  | 4.250% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.240% |
+| 17:00 | USD | High | Crude Oil Inventories | 4.633M | 3.200M | 4.070M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.015M |  | 0.082M |
+| 17:00 | USD | Low | Crude Oil Imports | -0.961M |  | -0.184M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | 1.472M |  | 0.872M |
+| 17:00 | USD | Low | Distillate Fuel Production | 0.180M |  | -0.009M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | -2.051M | -1.200M | 0.135M |
+| 17:00 | USD | Low | Gasoline Production | -0.156M |  | 0.180M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | -0.343M |  | 0.159M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.5% |
+| 17:00 | USD | Low | Gasoline Inventories | -0.151M | 0.700M | -3.035M |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.055% |
 | 19:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
