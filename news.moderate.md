@@ -7,7 +7,7 @@
 | 00:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.1% | 4.0% |
 | 01:00 | CNY | China Loan Prime Rate 5Y (Feb) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 07:00 | EUR | German PPI (MoM) (Jan) |  | 0.6% | -0.1% |
+| 52 min | EUR | German PPI (MoM) (Jan) |  | 0.6% | -0.1% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,850K |
 | 13:30 | USD | Philly Fed Employment (Feb) |  |  | 11.9 |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.1% |

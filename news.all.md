@@ -11,9 +11,9 @@
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) | 7.9B |  | 5.9B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q4) | -0.30% |  | -0.60% |
-| 07:00 | CHF | Low | Trade Balance (Jan) |  | 3.550B | 3.494B |
-| 07:00 | EUR | Low | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jan) |  | 0.6% | -0.1% |
+| 52 min | CHF | Low | Trade Balance (Jan) |  | 3.550B | 3.494B |
+| 52 min | EUR | Moderate | German PPI (MoM) (Jan) |  | 0.6% | -0.1% |
+| 52 min | EUR | Low | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
 | 08:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.10% |
 | 08:30 | HKD | Low | CPI (YoY) (Jan) |  | 1.80% | 1.40% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.388% |
@@ -22,8 +22,8 @@
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 10:00 | EUR | Low | Construction Output (MoM) (Dec) |  |  | 1.16% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -30 | -34 |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,850K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.00K |
