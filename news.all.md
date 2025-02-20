@@ -9,12 +9,12 @@
 | 00:30 | AUD | Moderate | Unemployment Rate (Jan) | 4.1% | 4.1% | 4.0% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Feb) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
-| 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) |  |  | 5.9B |
-| 03:00 | IDR | Low | Current Account % of GDP (Q4) |  |  | -0.60% |
+| 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) | 7.9B |  | 5.9B |
+| 03:00 | IDR | Low | Current Account % of GDP (Q4) | -0.30% |  | -0.60% |
+| 53 min | IDR | Low | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
 | 07:00 | CHF | Low | Trade Balance (Jan) |  | 3.550B | 3.494B |
-| 07:00 | EUR | Low | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jan) |  | 0.6% | -0.1% |
+| 07:00 | EUR | Low | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
 | 08:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.10% |
 | 08:30 | HKD | Low | CPI (YoY) (Jan) |  | 1.80% | 1.40% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.388% |

@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Jan) | 67.3% | 67.1% | 67.1% |
 | 00:30 | AUD | Reserve Assets Total (Jan) | 103.2B |  | 102.1B |
-| 03:00 | IDR | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
-| 03:00 | IDR | Balance of Payments (EUR) (Q4) |  |  | 5.9B |
-| 03:00 | IDR | Current Account % of GDP (Q4) |  |  | -0.60% |
+| 03:00 | IDR | Balance of Payments (EUR) (Q4) | 7.9B |  | 5.9B |
+| 03:00 | IDR | Current Account % of GDP (Q4) | -0.30% |  | -0.60% |
+| 53 min | IDR | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
 | 07:00 | CHF | Trade Balance (Jan) |  | 3.550B | 3.494B |
 | 07:00 | EUR | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
 | 08:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
