@@ -16,8 +16,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Feb) | -28 | -30 | -34 |
 | 11:30 | INR | M3 Money Supply | 9.8% |  | 9.6% |
-| 12:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
 | 12:00 | MXN | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
+| 12:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 215.25K |  | 216.25K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) | 27.8 |  | 46.3 |
 | 13:30 | USD | Philly Fed CAPEX Index (Feb) | 14.00 |  | 39.00 |
@@ -26,9 +26,9 @@
 | 13:30 | CAD | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
 | 13:30 | CAD | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
-| 29 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 54 min | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
-| 15:30 | USD | Natural Gas Storage |  | -191B | -100B |
+| 14:35 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | EUR | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
+| 24 min | USD | Natural Gas Storage |  | -191B | -100B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
