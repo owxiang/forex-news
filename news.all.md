@@ -20,9 +20,9 @@
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 2.682% |  | 2.763% |
 | 09:40 | EUR | Low | Spanish 8-Year Obligacion Auction | 3.062% |  | 3.100% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
-| 54 min | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -30 | -34 |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) | -28 | -30 | -34 |
+| 55 min | MXN | Low | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
+| 55 min | MXN | Low | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,850K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 215K | 213K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 216.00K |
@@ -32,8 +32,8 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Feb) |  |  | 11.9 |
 | 13:30 | USD | Low | Philly Fed New Orders (Feb) |  |  | 42.9 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 31.90 |
-| 13:30 | CAD | Low | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jan) |  |  | 4.1% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jan) |  | 2.4% | 1.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | 9.1% |
@@ -50,11 +50,11 @@
 | 17:00 | USD | Low | Crude Oil Imports |  |  | -0.184M |
 | 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.872M |
 | 17:00 | USD | Low | Distillate Fuel Production |  |  | -0.009M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.135M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  | -1.200M | 0.135M |
 | 17:00 | USD | Low | Gasoline Production |  |  | 0.180M |
 | 17:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.159M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 17:00 | USD | Low | Gasoline Inventories |  |  | -3.035M |
+| 17:00 | USD | Low | Gasoline Inventories |  | 0.700M | -3.035M |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.055% |
 | 19:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
@@ -62,8 +62,8 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.255T |
 | 21:45 | NZD | Low | Exports (Jan) |  |  | 6.84B |
 | 21:45 | NZD | Low | Imports (Jan) |  |  | 6.62B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Jan) |  | 225M | 219M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -7,670M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Jan) |  | 225M | 219M |
 | 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  |  | 51.2 |
 | 22:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
