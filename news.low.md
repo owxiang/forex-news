@@ -16,29 +16,29 @@
 | 10:00 | EUR | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Feb) | -28 | -30 | -34 |
 | 11:30 | INR | M3 Money Supply | 9.8% |  | 9.6% |
-| 12:00 | MXN | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
+| 12:00 | MXN | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 215.25K |  | 216.25K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) | 27.8 |  | 46.3 |
 | 13:30 | USD | Philly Fed CAPEX Index (Feb) | 14.00 |  | 39.00 |
 | 13:30 | USD | Philly Fed New Orders (Feb) | 21.9 |  | 42.9 |
 | 13:30 | USD | Philly Fed Prices Paid (Feb) | 40.50 |  | 31.90 |
-| 13:30 | CAD | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
+| 13:30 | CAD | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
 | 14:35 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
-| 24 min | USD | Natural Gas Storage |  | -191B | -100B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
-| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
-| 17:00 | USD | Crude Oil Imports |  |  | -0.184M |
-| 17:00 | USD | Distillate Fuel Production |  |  | -0.009M |
-| 17:00 | USD | EIA Weekly Distillates Stocks |  | -1.200M | 0.135M |
-| 17:00 | USD | Gasoline Production |  |  | 0.180M |
-| 17:00 | USD | Heating Oil Stockpiles |  |  | 0.159M |
-| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 17:00 | USD | Gasoline Inventories |  | 0.700M | -3.035M |
+| 15:30 | USD | Natural Gas Storage | -196B | -191B | -100B |
+| 22 min | USD | 4-Week Bill Auction |  |  | 4.250% |
+| 22 min | USD | 8-Week Bill Auction |  |  | 4.240% |
+| 52 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
+| 52 min | USD | Crude Oil Imports |  |  | -0.184M |
+| 52 min | USD | Distillate Fuel Production |  |  | -0.009M |
+| 52 min | USD | EIA Weekly Distillates Stocks |  | -1.200M | 0.135M |
+| 52 min | USD | Gasoline Production |  |  | 0.180M |
+| 52 min | USD | Heating Oil Stockpiles |  |  | 0.159M |
+| 52 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 52 min | USD | Gasoline Inventories |  | 0.700M | -3.035M |
 | 19:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.255T |
 | 21:45 | NZD | Exports (Jan) |  |  | 6.84B |

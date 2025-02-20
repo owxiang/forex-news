@@ -22,8 +22,8 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) | -28 | -30 | -34 |
 | 11:30 | INR | Low | M3 Money Supply | 9.8% |  | 9.6% |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,869K | 1,870K | 1,845K |
 | 13:30 | USD | High | Initial Jobless Claims | 219K | 215K | 214K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.25K |  | 216.25K |
@@ -33,28 +33,28 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Feb) | 5.3 |  | 11.9 |
 | 13:30 | USD | Low | Philly Fed New Orders (Feb) | 21.9 |  | 42.9 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Feb) | 40.50 |  | 31.90 |
-| 13:30 | CAD | Low | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) | -0.1% | 0.1% | -0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
 | 14:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
-| 24 min | USD | Low | Natural Gas Storage |  | -191B | -100B |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
-| 17:00 | USD | High | Crude Oil Inventories |  | 3.200M | 4.070M |
-| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
-| 17:00 | USD | Low | Crude Oil Imports |  |  | -0.184M |
-| 17:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.872M |
-| 17:00 | USD | Low | Distillate Fuel Production |  |  | -0.009M |
-| 17:00 | USD | Low | EIA Weekly Distillates Stocks |  | -1.200M | 0.135M |
-| 17:00 | USD | Low | Gasoline Production |  |  | 0.180M |
-| 17:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.159M |
-| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 17:00 | USD | Low | Gasoline Inventories |  | 0.700M | -3.035M |
+| 15:30 | USD | Low | Natural Gas Storage | -196B | -191B | -100B |
+| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 22 min | USD | Low | 4-Week Bill Auction |  |  | 4.250% |
+| 22 min | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
+| 52 min | USD | High | Crude Oil Inventories |  | 3.200M | 4.070M |
+| 52 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
+| 52 min | USD | Low | Crude Oil Imports |  |  | -0.184M |
+| 52 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.872M |
+| 52 min | USD | Low | Distillate Fuel Production |  |  | -0.009M |
+| 52 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.200M | 0.135M |
+| 52 min | USD | Low | Gasoline Production |  |  | 0.180M |
+| 52 min | USD | Low | Heating Oil Stockpiles |  |  | 0.159M |
+| 52 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 52 min | USD | Low | Gasoline Inventories |  | 0.700M | -3.035M |
 | 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.055% |
 | 19:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
