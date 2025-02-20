@@ -18,14 +18,14 @@
 | 11:30 | INR | M3 Money Supply | 9.8% |  | 9.6% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
 | 12:00 | MXN | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.00K |
-| 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 46.3 |
-| 13:30 | USD | Philly Fed CAPEX Index (Feb) |  |  | 39.00 |
-| 13:30 | USD | Philly Fed New Orders (Feb) |  |  | 42.9 |
-| 13:30 | USD | Philly Fed Prices Paid (Feb) |  |  | 31.90 |
-| 13:30 | CAD | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
-| 13:30 | CAD | IPPI (YoY) (Jan) |  |  | 4.1% |
-| 13:30 | CAD | RMPI (YoY) (Jan) |  |  | 9.1% |
+| 20 min | USD | Jobless Claims 4-Week Avg. |  |  | 216.00K |
+| 20 min | USD | Philly Fed Business Conditions (Feb) |  |  | 46.3 |
+| 20 min | USD | Philly Fed CAPEX Index (Feb) |  |  | 39.00 |
+| 20 min | USD | Philly Fed New Orders (Feb) |  |  | 42.9 |
+| 20 min | USD | Philly Fed Prices Paid (Feb) |  |  | 31.90 |
+| 20 min | CAD | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
+| 20 min | CAD | IPPI (YoY) (Jan) |  |  | 4.1% |
+| 20 min | CAD | RMPI (YoY) (Jan) |  |  | 9.1% |
 | 14:35 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
 | 15:30 | USD | Natural Gas Storage |  | -191B | -100B |
