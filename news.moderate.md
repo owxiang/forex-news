@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | Employment Change (Jan) |  | 19.4K | 56.3K |
-| 4 min | AUD | Full Employment Change (Jan) |  |  | -23.7K |
-| 4 min | AUD | Unemployment Rate (Jan) |  | 4.1% | 4.0% |
-| 34 min | CNY | China Loan Prime Rate 5Y (Feb) |  | 3.60% | 3.60% |
-| 49 min | CNY | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 00:30 | AUD | Employment Change (Jan) | 44.0K | 19.4K | 60.0K |
+| 00:30 | AUD | Full Employment Change (Jan) | 54.1K |  | -23.7K |
+| 00:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.1% | 4.0% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Feb) | 3.60% | 3.60% | 3.60% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 07:00 | EUR | German PPI (MoM) (Jan) |  | 0.6% | -0.1% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,850K |
 | 13:30 | USD | Philly Fed Employment (Feb) |  |  | 11.9 |

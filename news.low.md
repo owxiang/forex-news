@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | Participation Rate (Jan) |  | 67.1% | 67.1% |
-| 4 min | AUD | Reserve Assets Total (Jan) |  |  | 102.1B |
+| 00:30 | AUD | Participation Rate (Jan) | 67.3% | 67.1% | 67.1% |
+| 00:30 | AUD | Reserve Assets Total (Jan) | 103.2B |  | 102.1B |
 | 03:00 | IDR | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
 | 07:00 | CHF | Trade Balance (Jan) |  | 3.550B | 3.494B |
 | 07:00 | EUR | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |

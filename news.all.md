@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 4 min | AUD | Moderate | Employment Change (Jan) |  | 19.4K | 56.3K |
-| 4 min | AUD | Moderate | Full Employment Change (Jan) |  |  | -23.7K |
-| 4 min | AUD | Low | Participation Rate (Jan) |  | 67.1% | 67.1% |
-| 4 min | AUD | Low | Reserve Assets Total (Jan) |  |  | 102.1B |
-| 4 min | AUD | Moderate | Unemployment Rate (Jan) |  | 4.1% | 4.0% |
-| 34 min | CNY | Moderate | China Loan Prime Rate 5Y (Feb) |  | 3.60% | 3.60% |
-| 49 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 00:30 | AUD | Moderate | Employment Change (Jan) | 44.0K | 19.4K | 60.0K |
+| 00:30 | AUD | Moderate | Full Employment Change (Jan) | 54.1K |  | -23.7K |
+| 00:30 | AUD | Low | Participation Rate (Jan) | 67.3% | 67.1% | 67.1% |
+| 00:30 | AUD | Low | Reserve Assets Total (Jan) | 103.2B |  | 102.1B |
+| 00:30 | AUD | Moderate | Unemployment Rate (Jan) | 4.1% | 4.1% | 4.0% |
+| 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Feb) | 3.60% | 3.60% | 3.60% |
+| 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
 | 07:00 | CHF | Low | Trade Balance (Jan) |  | 3.550B | 3.494B |
 | 07:00 | EUR | Low | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
@@ -35,8 +35,8 @@
 | 13:30 | CAD | Low | IPPI (YoY) (Jan) |  |  | 4.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) |  | 2.4% | 1.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | 9.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) |  | 2.4% | 1.3% |
 | 13:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 14:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.1% | -0.1% |
