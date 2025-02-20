@@ -2,11 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Participation Rate (Jan) | 67.3% | 67.1% | 67.1% |
+| 00:30 | AUD | Participation Rate (Jan) | 67.3% | 67.1% | 67.2% |
 | 00:30 | AUD | Reserve Assets Total (Jan) | 103.2B |  | 102.1B |
 | 03:00 | IDR | Balance of Payments (EUR) (Q4) | 7.9B |  | 5.9B |
 | 03:00 | IDR | Current Account % of GDP (Q4) | -0.30% |  | -0.60% |
-| 53 min | IDR | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
 | 07:00 | CHF | Trade Balance (Jan) |  | 3.550B | 3.494B |
 | 07:00 | EUR | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
 | 08:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
@@ -17,8 +16,8 @@
 | 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 10:00 | EUR | Construction Output (MoM) (Dec) |  |  | 1.16% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -30 | -34 |
-| 12:00 | MXN | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
+| 12:00 | MXN | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 46.3 |
 | 13:30 | USD | Philly Fed CAPEX Index (Feb) |  |  | 39.00 |
@@ -30,7 +29,7 @@
 | 13:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 14:35 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
-| 15:30 | USD | Natural Gas Storage |  |  | -100B |
+| 15:30 | USD | Natural Gas Storage |  | -191B | -100B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
@@ -50,6 +49,5 @@
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
 | 22:00 | AUD | Judo Bank Services PMI (Feb) |  |  | 51.2 |
 | 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 23:00 | JPY | Reuters Tankan Index (Feb) |  |  | 2 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Jan) |  |  | 0.6% |
 | 23:30 | JPY | National CPI (YoY) (Jan) |  |  | 3.6% |
