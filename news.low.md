@@ -40,13 +40,13 @@
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.5% |
 | 17:00 | USD | Gasoline Inventories | -0.151M | 0.700M | -3.035M |
 | 19:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 25 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.255T |
-| 40 min | NZD | Exports (Jan) |  |  | 6.84B |
-| 40 min | NZD | Imports (Jan) |  |  | 6.62B |
-| 40 min | NZD | Trade Balance (YoY) (Jan) |  |  | -7,670M |
-| 40 min | NZD | Trade Balance (MoM) (Jan) |  | 225M | 219M |
-| 55 min | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
-| 55 min | AUD | Judo Bank Services PMI (Feb) |  |  | 51.2 |
-| 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.276T |  | 3.255T |
+| 21:45 | NZD | Exports (Jan) | 6.19B |  | 6.67B |
+| 21:45 | NZD | Imports (Jan) | 6.68B |  | 6.58B |
+| 21:45 | NZD | Trade Balance (YoY) (Jan) | -7,220M |  | -7,800M |
+| 21:45 | NZD | Trade Balance (MoM) (Jan) | -486M | 225M | 94M |
+| 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
+| 22:00 | AUD | Judo Bank Services PMI (Feb) |  |  | 51.2 |
+| 25 min | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Jan) |  |  | 0.6% |
 | 23:30 | JPY | National CPI (YoY) (Jan) |  |  | 3.6% |

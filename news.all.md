@@ -36,8 +36,8 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) | -0.1% | 0.1% | -0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
 | 14:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
@@ -58,15 +58,15 @@
 | 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.403% |  | 2.055% |
 | 19:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 25 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,814B |
-| 25 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.255T |
-| 40 min | NZD | Low | Exports (Jan) |  |  | 6.84B |
-| 40 min | NZD | Low | Imports (Jan) |  |  | 6.62B |
-| 40 min | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -7,670M |
-| 40 min | NZD | Low | Trade Balance (MoM) (Jan) |  | 225M | 219M |
-| 55 min | AUD | Low | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
-| 55 min | AUD | Low | Judo Bank Services PMI (Feb) |  |  | 51.2 |
-| 22:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,782B |  | 6,814B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.276T |  | 3.255T |
+| 21:45 | NZD | Low | Exports (Jan) | 6.19B |  | 6.67B |
+| 21:45 | NZD | Low | Imports (Jan) | 6.68B |  | 6.58B |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Jan) | -7,220M |  | -7,800M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Jan) | -486M | 225M | 94M |
+| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  |  | 51.2 |
+| 25 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | 0.6% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 3.1% | 3.0% |
 | 23:30 | JPY | Low | National CPI (YoY) (Jan) |  |  | 3.6% |
