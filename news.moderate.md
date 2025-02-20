@@ -8,11 +8,11 @@
 | 01:00 | CNY | China Loan Prime Rate 5Y (Feb) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 07:00 | EUR | German PPI (MoM) (Jan) | -0.1% | 0.6% | -0.1% |
-| 20 min | USD | Continuing Jobless Claims |  | 1,870K | 1,850K |
-| 20 min | USD | Philly Fed Employment (Feb) |  |  | 11.9 |
-| 20 min | CAD | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.1% |
-| 20 min | CAD | RMPI (MoM) (Jan) |  | 2.4% | 1.3% |
-| 15:00 | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.1% |
+| 13:30 | USD | Continuing Jobless Claims | 1,869K | 1,870K | 1,845K |
+| 13:30 | USD | Philly Fed Employment (Feb) | 5.3 |  | 11.9 |
+| 13:30 | CAD | New Housing Price Index (MoM) (Jan) | -0.1% | 0.1% | -0.1% |
+| 13:30 | CAD | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
+| 54 min | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.1% |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.872M |
 | 18:00 | USD | 30-Year TIPS Auction |  |  | 2.055% |
