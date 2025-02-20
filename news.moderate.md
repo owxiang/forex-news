@@ -17,5 +17,5 @@
 | 17:00 | USD | Cushing Crude Oil Inventories | 1.472M |  | 0.872M |
 | 18:00 | USD | 30-Year TIPS Auction | 2.403% |  | 2.055% |
 | 19:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,814B |
+| 25 min | USD | Fed's Balance Sheet |  |  | 6,814B |
 | 23:30 | JPY | National Core CPI (YoY) (Jan) |  | 3.1% | 3.0% |
