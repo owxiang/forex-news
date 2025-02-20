@@ -12,8 +12,8 @@
 | 03:00 | IDR | Low | Balance of Payments (EUR) (Q4) | 7.9B |  | 5.9B |
 | 03:00 | IDR | Low | Current Account % of GDP (Q4) | -0.30% |  | -0.60% |
 | 07:00 | CHF | Low | Trade Balance (Jan) | 6.124B | 3.550B | 3.480B |
-| 07:00 | EUR | Low | German PPI (YoY) (Jan) | 0.5% | 1.3% | 0.8% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jan) | -0.1% | 0.6% | -0.1% |
+| 07:00 | EUR | Low | German PPI (YoY) (Jan) | 0.5% | 1.3% | 0.8% |
 | 08:30 | HKD | Low | CPI (MoM) (Jan) | 0.40% |  | 0.10% |
 | 08:30 | HKD | Low | CPI (YoY) (Jan) | 2.00% | 1.80% | 1.40% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.487% |  | 2.388% |
@@ -22,8 +22,8 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Feb) | -28 | -30 | -34 |
 | 11:30 | INR | Low | M3 Money Supply | 9.8% |  | 9.6% |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,869K | 1,870K | 1,845K |
 | 13:30 | USD | High | Initial Jobless Claims | 219K | 215K | 214K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.25K |  | 216.25K |
@@ -33,11 +33,11 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Feb) | 5.3 |  | 11.9 |
 | 13:30 | USD | Low | Philly Fed New Orders (Feb) | 21.9 |  | 42.9 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Feb) | 40.50 |  | 31.90 |
-| 13:30 | CAD | Low | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) | -0.1% | 0.1% | -0.1% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
 | 14:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
@@ -62,11 +62,11 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.276T |  | 3.255T |
 | 21:45 | NZD | Low | Exports (Jan) | 6.19B |  | 6.67B |
 | 21:45 | NZD | Low | Imports (Jan) | 6.68B |  | 6.58B |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Jan) | -7,220M |  | -7,800M |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Jan) | -486M | 225M | 94M |
-| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  |  | 51.2 |
-| 25 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | 0.6% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 3.1% | 3.0% |
-| 23:30 | JPY | Low | National CPI (YoY) (Jan) |  |  | 3.6% |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Jan) | -7,220M |  | -7,800M |
+| 22:00 | AUD | Low | Judo Bank Manufacturing PMI (Feb) | 50.6 |  | 50.2 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Feb) | 51.4 |  | 51.2 |
+| 22:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 24 min | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | 0.6% |
+| 24 min | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 3.1% | 3.0% |
+| 24 min | JPY | Low | National CPI (YoY) (Jan) |  |  | 3.6% |

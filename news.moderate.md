@@ -18,4 +18,4 @@
 | 18:00 | USD | 30-Year TIPS Auction | 2.403% |  | 2.055% |
 | 19:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,782B |  | 6,814B |
-| 23:30 | JPY | National Core CPI (YoY) (Jan) |  | 3.1% | 3.0% |
+| 24 min | JPY | National Core CPI (YoY) (Jan) |  | 3.1% | 3.0% |
