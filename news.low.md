@@ -1,44 +1,53 @@
-## 19 February 2025 - Low Impact Forex News
+## 20 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Leading Index (MoM) (Jan) | 0.1% |  | -0.0% |
-| 00:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 00:30 | AUD | Wage Price Index (YoY) (Q4) | 3.2% | 3.2% | 3.6% |
-| 01:30 | CNY | House Prices (YoY) (Jan) | -5.0% |  | -5.3% |
-| 02:00 | NZD | RBNZ Offshore Holdings (Jan) | 59.30% |  | 59.20% |
-| 07:00 | GBP | Core CPI (YoY) (Jan) | 3.7% | 3.7% | 3.2% |
-| 07:00 | GBP | Core CPI (MoM) (Jan) | -0.4% | -0.5% | 0.3% |
-| 07:00 | GBP | Core PPI Output (YoY) (Jan) | 1.5% |  | 1.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jan) | 0.3% |  | 0.0% |
-| 07:00 | GBP | Core RPI (YoY) (Jan) | 3.2% |  | 2.9% |
-| 07:00 | GBP | Core RPI (MoM) (Jan) | -0.1% |  | 0.3% |
-| 07:00 | GBP | CPI, n.s.a (Jan) | 135.40 |  | 135.60 |
-| 07:00 | GBP | PPI Input (YoY) (Jan) | -0.1% | -0.5% | -1.3% |
-| 07:00 | GBP | PPI Output (YoY) (Jan) | 0.3% | 0.1% | -0.1% |
-| 07:00 | GBP | PPI Output (MoM) (Jan) | 0.5% | 0.2% | -0.2% |
-| 07:00 | GBP | RPI (MoM) (Jan) | -0.1% | -0.1% | 0.3% |
-| 07:00 | GBP | RPI (YoY) (Jan) | 3.6% | 3.7% | 3.5% |
-| 07:20 | IDR | Loans (YoY) (Jan) | 10.27% |  | 10.39% |
-| 07:30 | IDR | Deposit Facility Rate (Feb) | 5.00% | 5.00% | 5.00% |
-| 07:30 | IDR | Lending Facility Rate (Feb) | 6.50% | 6.50% | 6.50% |
-| 09:00 | EUR | Current Account (Dec) | 38.4B | 30.2B | 25.0B |
-| 09:00 | EUR | Current Account n.s.a. (Dec) | 50.5B |  | 32.7B |
-| 09:30 | GBP | House Price Index (YoY) | 4.6% | 3.2% | 3.3% |
-| 09:50 | CNY | FDI (Jan) | -13.40% |  | -27.10% |
-| 10:20 | GBP | 4-Year Treasury Gilt Auction | 4.294% |  | 4.384% |
-| 11:00 | ZAR | Retail Sales (YoY) (Dec) | 3.1% |  | 7.6% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.93% |  | 6.95% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -6.6% |  | 2.3% |
-| 12:00 | USD | MBA Purchase Index | 144.0 |  | 153.1 |
-| 12:00 | USD | Mortgage Market Index | 214.9 |  | 230.0 |
-| 12:00 | USD | Mortgage Refinance Index | 593.6 |  | 640.6 |
-| 13:30 | USD | Building Permits (MoM) (Jan) | 0.1% |  | -0.7% |
-| 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.3% |
-| 17:30 | BRL | Foreign Exchange Flows | -1.984B |  | -0.350B |
-| 21:00 | KRW | Consumer Confidence (Feb) | 95.2 |  | 91.2 |
-| 21:00 | KRW | PPI (MoM) (Jan) | 0.6% |  | 0.3% |
-| 21:00 | KRW | PPI (YoY) (Jan) | 1.7% |  | 1.7% |
-| 22:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 1,752.9B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -384.4B |
+| 4 min | AUD | Participation Rate (Jan) |  | 67.1% | 67.1% |
+| 4 min | AUD | Reserve Assets Total (Jan) |  |  | 102.1B |
+| 03:00 | IDR | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
+| 07:00 | CHF | Trade Balance (Jan) |  | 3.550B | 3.494B |
+| 07:00 | EUR | German PPI (YoY) (Jan) |  | 1.3% | 0.8% |
+| 08:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
+| 08:30 | HKD | CPI (YoY) (Jan) |  | 1.80% | 1.40% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.388% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.763% |
+| 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.100% |
+| 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 10:00 | EUR | Construction Output (MoM) (Dec) |  |  | 1.16% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -30 | -34 |
+| 12:00 | MXN | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
+| 12:00 | MXN | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.00K |
+| 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 46.3 |
+| 13:30 | USD | Philly Fed CAPEX Index (Feb) |  |  | 39.00 |
+| 13:30 | USD | Philly Fed New Orders (Feb) |  |  | 42.9 |
+| 13:30 | USD | Philly Fed Prices Paid (Feb) |  |  | 31.90 |
+| 13:30 | CAD | IPPI (YoY) (Jan) |  |  | 4.1% |
+| 13:30 | CAD | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
+| 13:30 | CAD | RMPI (YoY) (Jan) |  |  | 9.1% |
+| 13:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 14:35 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
+| 15:30 | USD | Natural Gas Storage |  |  | -100B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.250% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.082M |
+| 17:00 | USD | Crude Oil Imports |  |  | -0.184M |
+| 17:00 | USD | Distillate Fuel Production |  |  | -0.009M |
+| 17:00 | USD | EIA Weekly Distillates Stocks |  |  | 0.135M |
+| 17:00 | USD | Gasoline Production |  |  | 0.180M |
+| 17:00 | USD | Heating Oil Stockpiles |  |  | 0.159M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 17:00 | USD | Gasoline Inventories |  |  | -3.035M |
+| 19:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.255T |
+| 21:45 | NZD | Exports (Jan) |  |  | 6.84B |
+| 21:45 | NZD | Imports (Jan) |  |  | 6.62B |
+| 21:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -7,670M |
+| 21:45 | NZD | Trade Balance (MoM) (Jan) |  | 225M | 219M |
+| 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
+| 22:00 | AUD | Judo Bank Services PMI (Feb) |  |  | 51.2 |
+| 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 23:00 | JPY | Reuters Tankan Index (Feb) |  |  | 2 |
+| 23:30 | JPY | CPI, n.s.a (MoM) (Jan) |  |  | 0.6% |
+| 23:30 | JPY | National CPI (YoY) (Jan) |  |  | 3.6% |

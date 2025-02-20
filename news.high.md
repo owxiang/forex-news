@@ -1,8 +1,7 @@
-## 19 February 2025 - High Impact Forex News
+## 20 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | NZD | RBNZ Interest Rate Decision | 3.75% | 3.75% | 4.25% |
-| 02:00 | USD | U.S. President Trump Speaks |  |  |  |
-| 07:00 | GBP | CPI (YoY) (Jan) | 3.0% | 2.8% | 2.5% |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Initial Jobless Claims |  | 214K | 213K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (Feb) |  | 19.4 | 44.3 |
+| 17:00 | USD | Crude Oil Inventories |  |  | 4.070M |

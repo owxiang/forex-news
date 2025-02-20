@@ -1,21 +1,21 @@
-## 19 February 2025 - Moderate Impact Forex News
+## 20 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Wage Price Index (QoQ) (Q4) | 0.7% | 0.8% | 0.9% |
-| 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 01:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Jan) | -0.1% | -0.3% | 0.3% |
-| 07:00 | GBP | PPI Input (MoM) (Jan) | 0.8% | 0.7% | 0.2% |
-| 07:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction | 2.520% |  | 2.540% |
-| 13:30 | USD | Building Permits (Jan) | 1.483M | 1.460M | 1.482M |
-| 13:30 | USD | Housing Starts (MoM) (Jan) | -9.8% |  | 16.1% |
-| 13:30 | USD | Housing Starts (Jan) | 1.366M | 1.390M | 1.515M |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.3% | 2.3% |
-| 16:00 | NZD | RBNZ Press Conference |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.830% |  | 4.900% |
-| 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 3.339M | 2.200M | 9.043M |
+| 4 min | AUD | Employment Change (Jan) |  | 19.4K | 56.3K |
+| 4 min | AUD | Full Employment Change (Jan) |  |  | -23.7K |
+| 4 min | AUD | Unemployment Rate (Jan) |  | 4.1% | 4.0% |
+| 34 min | CNY | China Loan Prime Rate 5Y (Feb) |  | 3.60% | 3.60% |
+| 49 min | CNY | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 07:00 | EUR | German PPI (MoM) (Jan) |  | 0.6% | -0.1% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,850K |
+| 13:30 | USD | Philly Fed Employment (Feb) |  |  | 11.9 |
+| 13:30 | CAD | New Housing Price Index (MoM) (Jan) |  | 0.1% | -0.1% |
+| 13:30 | CAD | RMPI (MoM) (Jan) |  | 2.4% | 1.3% |
+| 15:00 | USD | US Leading Index (MoM) (Jan) |  | -0.1% | -0.1% |
+| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | USD | Cushing Crude Oil Inventories |  |  | 0.872M |
+| 18:00 | USD | 30-Year TIPS Auction |  |  | 2.055% |
+| 19:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,814B |
+| 23:30 | JPY | National Core CPI (YoY) (Jan) |  | 3.1% | 3.0% |
