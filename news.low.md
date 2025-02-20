@@ -8,13 +8,13 @@
 | 03:00 | IDR | Current Account % of GDP (Q4) | -0.30% |  | -0.60% |
 | 07:00 | CHF | Trade Balance (Jan) | 6.124B | 3.550B | 3.480B |
 | 07:00 | EUR | German PPI (YoY) (Jan) | 0.5% | 1.3% | 0.8% |
-| 22 min | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
-| 22 min | HKD | CPI (YoY) (Jan) |  | 1.80% | 1.40% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.388% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.763% |
-| 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.100% |
-| 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
-| 10:00 | EUR | Construction Output (MoM) (Dec) |  |  | 1.16% |
+| 08:30 | HKD | CPI (MoM) (Jan) | 0.40% |  | 0.10% |
+| 08:30 | HKD | CPI (YoY) (Jan) | 2.00% | 1.80% | 1.40% |
+| 34 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.388% |
+| 34 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.763% |
+| 34 min | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.100% |
+| 54 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 54 min | EUR | Construction Output (MoM) (Dec) |  |  | 1.16% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -30 | -34 |
 | 12:00 | MXN | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
