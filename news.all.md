@@ -36,8 +36,8 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) | -0.1% | 0.1% | -0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jan) | 3.7% | 2.4% | 1.3% |
 | 14:35 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jan) | -0.3% | -0.1% | 0.1% |
 | 15:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
@@ -55,7 +55,7 @@
 | 17:00 | USD | Low | Heating Oil Stockpiles | -0.343M |  | 0.159M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.5% |
 | 17:00 | USD | Low | Gasoline Inventories | -0.151M | 0.700M | -3.035M |
-| 18:00 | USD | Moderate | 30-Year TIPS Auction |  |  | 2.055% |
+| 18:00 | USD | Moderate | 30-Year TIPS Auction | 2.403% |  | 2.055% |
 | 19:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,814B |
