@@ -10,21 +10,20 @@
 | 07:00 | EUR | German PPI (YoY) (Jan) | 0.5% | 1.3% | 0.8% |
 | 08:30 | HKD | CPI (MoM) (Jan) | 0.40% |  | 0.10% |
 | 08:30 | HKD | CPI (YoY) (Jan) | 2.00% | 1.80% | 1.40% |
-| 34 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.388% |
-| 34 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.763% |
-| 34 min | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.100% |
-| 54 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
-| 54 min | EUR | Construction Output (MoM) (Dec) |  |  | 1.16% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -30 | -34 |
-| 12:00 | MXN | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.487% |  | 2.388% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction | 2.682% |  | 2.763% |
+| 09:40 | EUR | Spanish 8-Year Obligacion Auction | 3.062% |  | 3.100% |
+| 10:00 | EUR | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
+| 54 min | GBP | CBI Industrial Trends Orders (Feb) |  | -30 | -34 |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) |  | -1.7% | -1.9% |
+| 12:00 | MXN | Retail Sales (MoM) (Dec) |  | -0.4% | -0.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 216.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) |  |  | 46.3 |
 | 13:30 | USD | Philly Fed CAPEX Index (Feb) |  |  | 39.00 |
 | 13:30 | USD | Philly Fed New Orders (Feb) |  |  | 42.9 |
 | 13:30 | USD | Philly Fed Prices Paid (Feb) |  |  | 31.90 |
-| 13:30 | CAD | IPPI (YoY) (Jan) |  |  | 4.1% |
 | 13:30 | CAD | IPPI (MoM) (Jan) |  | 0.8% | 0.2% |
+| 13:30 | CAD | IPPI (YoY) (Jan) |  |  | 4.1% |
 | 13:30 | CAD | RMPI (YoY) (Jan) |  |  | 9.1% |
 | 13:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 14:35 | USD | Fed Goolsbee Speaks |  |  |  |
@@ -44,8 +43,8 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.255T |
 | 21:45 | NZD | Exports (Jan) |  |  | 6.84B |
 | 21:45 | NZD | Imports (Jan) |  |  | 6.62B |
-| 21:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -7,670M |
 | 21:45 | NZD | Trade Balance (MoM) (Jan) |  | 225M | 219M |
+| 21:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -7,670M |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
 | 22:00 | AUD | Judo Bank Services PMI (Feb) |  |  | 51.2 |
 | 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
