@@ -16,15 +16,15 @@
 | 10:00 | EUR | Construction Output (MoM) (Dec) | 0.00% |  | 0.58% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Feb) | -28 | -30 | -34 |
 | 11:30 | INR | M3 Money Supply | 9.8% |  | 9.6% |
-| 12:00 | MXN | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
 | 12:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | -1.7% | -1.9% |
+| 12:00 | MXN | Retail Sales (MoM) (Dec) | 0.1% | -0.4% | -0.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 215.25K |  | 216.25K |
 | 13:30 | USD | Philly Fed Business Conditions (Feb) | 27.8 |  | 46.3 |
 | 13:30 | USD | Philly Fed CAPEX Index (Feb) | 14.00 |  | 39.00 |
 | 13:30 | USD | Philly Fed New Orders (Feb) | 21.9 |  | 42.9 |
 | 13:30 | USD | Philly Fed Prices Paid (Feb) | 40.50 |  | 31.90 |
-| 13:30 | CAD | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | IPPI (MoM) (Jan) | 1.6% | 0.8% | 0.4% |
+| 13:30 | CAD | IPPI (YoY) (Jan) | 5.8% |  | 4.1% |
 | 13:30 | CAD | RMPI (YoY) (Jan) | 11.8% |  | 9.1% |
 | 14:35 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (Feb) | -13.6 |  | -14.2 |
@@ -39,12 +39,12 @@
 | 17:00 | USD | Heating Oil Stockpiles | -0.343M |  | 0.159M |
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.5% |
 | 17:00 | USD | Gasoline Inventories | -0.151M | 0.700M | -3.035M |
-| 24 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 19:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.255T |
 | 21:45 | NZD | Exports (Jan) |  |  | 6.84B |
 | 21:45 | NZD | Imports (Jan) |  |  | 6.62B |
-| 21:45 | NZD | Trade Balance (MoM) (Jan) |  | 225M | 219M |
 | 21:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -7,670M |
+| 21:45 | NZD | Trade Balance (MoM) (Jan) |  | 225M | 219M |
 | 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
 | 22:00 | AUD | Judo Bank Services PMI (Feb) |  |  | 51.2 |
 | 22:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
