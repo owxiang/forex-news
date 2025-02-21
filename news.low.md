@@ -17,12 +17,11 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) | 1.3% |  | 1.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
 | 09:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
-| 11:00 | GBP | CBI Industrial Trends Orders |  |  | -34 |
-| 24 min | INR | Bank Loan Growth |  |  | 11.4% |
-| 24 min | INR | Deposit Growth |  |  | 10.3% |
-| 24 min | INR | FX Reserves, USD |  |  | 638.26B |
-| 54 min | MXN | Economic Activity (YoY) (Dec) |  | 0.30% | 0.50% |
-| 54 min | MXN | Economic Activity (MoM) (Dec) |  | -0.70% | 0.40% |
+| 11:30 | INR | Bank Loan Growth | 11.3% |  | 11.4% |
+| 11:30 | INR | Deposit Growth | 10.6% |  | 10.3% |
+| 11:30 | INR | FX Reserves, USD | 635.72B |  | 638.26B |
+| 12:00 | MXN | Economic Activity (MoM) (Dec) | -1.00% | -0.70% | 0.30% |
+| 12:00 | MXN | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
 | 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
 | 15:00 | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |

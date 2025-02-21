@@ -32,15 +32,14 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) | 50.5 | 50.5 | 50.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Feb) | 46.4 | 48.5 | 48.3 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) | 51.1 | 50.8 | 50.8 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders |  |  | -34 |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 11.4% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.3% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 638.26B |
-| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 54 min | MXN | Low | Economic Activity (YoY) (Dec) |  | 0.30% | 0.50% |
-| 54 min | MXN | Low | Economic Activity (MoM) (Dec) |  | -0.70% | 0.40% |
-| 54 min | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.6% | -0.6% |
-| 54 min | MXN | Moderate | GDP (YoY) (Q4) |  | 0.6% | 0.6% |
+| 11:30 | INR | Low | Bank Loan Growth | 11.3% |  | 11.4% |
+| 11:30 | INR | Low | Deposit Growth | 10.6% |  | 10.3% |
+| 11:30 | INR | Low | FX Reserves, USD | 635.72B |  | 638.26B |
+| 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Dec) | -1.00% | -0.70% | 0.30% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | -0.6% | -0.6% | -0.6% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.5% | 0.6% | 0.6% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
