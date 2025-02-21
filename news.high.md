@@ -1,7 +1,7 @@
-## 20 February 2025 - High Impact Forex News
+## 21 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 219K | 215K | 214K |
-| 13:30 | USD | Philadelphia Fed Manufacturing Index (Feb) | 18.1 | 19.4 | 44.3 |
-| 17:00 | USD | Crude Oil Inventories | 4.633M | 3.200M | 4.070M |
+| 14:45 | USD | S&P Global Manufacturing PMI (Feb) |  | 51.3 | 51.2 |
+| 14:45 | USD | S&P Global Services PMI (Feb) |  | 53.0 | 52.9 |
+| 15:00 | USD | Existing Home Sales (Jan) |  | 4.13M | 4.24M |
