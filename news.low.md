@@ -6,21 +6,22 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 48.9 | 49.0 | 48.7 |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) | 57.1 |  | 57.7 |
 | 05:00 | INR | S&P Global Services PMI (Feb) | 61.1 |  | 56.5 |
-| 52 min | GBP | Public Sector Net Borrowing (Jan) |  | -20.10B | 17.81B |
-| 52 min | GBP | Public Sector Net Cash Requirement (Jan) |  |  | 19.876B |
-| 52 min | CNY | FDI (Jan) |  |  | -27.10% |
-| 07:20 | IDR | Loans (YoY) (Jan) |  |  | 10.39% |
-| 07:45 | EUR | French Business Survey (Feb) |  | 96 | 95 |
-| 08:00 | CHF | M3 Money Supply (Jan) |  |  | 1,157.9B |
+| 07:00 | GBP | Public Sector Net Borrowing (Jan) | -15.44B | -20.10B | 18.12B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Jan) | -22.484B |  | 20.154B |
+| 14 min | IDR | Loans (YoY) (Jan) |  |  | 10.39% |
+| 39 min | EUR | French Business Survey (Feb) |  | 96 | 95 |
+| 54 min | CHF | M3 Money Supply (Jan) |  |  | 1,157.9B |
 | 08:15 | EUR | HCOB France Composite PMI (Feb) |  | 48.0 | 47.6 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 50.8 | 50.5 |
-| 09:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.6% | 0.1% |
-| 09:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.5% | 1.3% |
+| 09:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.5% | 1.5% |
+| 09:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.6% | 0.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (MoM) (Jan) |  | -0.7% | 0.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Jan) |  | 1.7% | 1.4% |
+| 09:00 | EUR | Italian HICP (MoM) (Jan) |  | -0.7% | -0.7% |
+| 09:00 | EUR | Italian HICP (YoY) (Jan) |  | 1.7% | 1.7% |
 | 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 11:00 | GBP | CBI Industrial Trends Orders |  |  | -34 |
+| 11:30 | INR | Bank Loan Growth |  |  | 11.4% |
+| 11:30 | INR | Deposit Growth |  |  | 10.3% |
 | 11:30 | INR | FX Reserves, USD |  |  | 638.26B |
 | 12:00 | MXN | Economic Activity (MoM) (Dec) |  | -0.70% | 0.40% |
 | 12:00 | MXN | Economic Activity (YoY) (Dec) |  | 0.30% | 0.50% |
