@@ -20,9 +20,9 @@
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | GDP (QoQ) (Q4) | -0.6% | -0.6% | -0.6% |
 | 12:00 | MXN | GDP (YoY) (Q4) | 0.5% | 0.6% | 0.6% |
-| 13:30 | CAD | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
-| 13:30 | CAD | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
-| 13:31 | CAD | Retail Sales (MoM) (Jan) |  |  | 0.0% |
+| 20 min | CAD | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
+| 20 min | CAD | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
+| 21 min | CAD | Retail Sales (MoM) (Jan) |  |  | 0.0% |
 | 14:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Feb) |  |  | 52.7 |
 | 15:00 | USD | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |

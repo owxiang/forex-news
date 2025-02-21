@@ -40,10 +40,10 @@
 | 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | -0.6% | -0.6% | -0.6% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.5% | 0.6% | 0.6% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
-| 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 13:31 | CAD | Moderate | Retail Sales (MoM) (Jan) |  |  | 0.0% |
+| 20 min | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
+| 20 min | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
+| 20 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 21 min | CAD | Moderate | Retail Sales (MoM) (Jan) |  |  | 0.0% |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.3 | 51.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.7 |

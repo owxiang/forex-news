@@ -22,7 +22,7 @@
 | 11:30 | INR | FX Reserves, USD | 635.72B |  | 638.26B |
 | 12:00 | MXN | Economic Activity (MoM) (Dec) | -1.00% | -0.70% | 0.30% |
 | 12:00 | MXN | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
-| 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 20 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
 | 15:00 | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
 | 16:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
