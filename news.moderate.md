@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
-| 07:00 | GBP | Core Retail Sales (YoY) (Jan) | 1.2% | 0.5% | 2.1% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
-| 07:00 | GBP | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Jan) | 1.2% | 0.5% | 2.1% |
 | 07:00 | GBP | Retail Sales (MoM) (Jan) | 1.7% | 0.4% | -0.6% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 45.3 | 45.0 |
-| 08:15 | EUR | HCOB France Services PMI (Feb) |  | 48.8 | 48.2 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 45.4 | 45.0 |
-| 08:30 | EUR | HCOB Germany Services PMI (Feb) |  | 52.4 | 52.5 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) |  | 46.9 | 46.6 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) |  | 50.5 | 50.2 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Feb) |  | 51.5 | 51.3 |
-| 09:30 | GBP | S&P Global Composite PMI (Feb) |  | 50.5 | 50.6 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Feb) |  | 48.5 | 48.3 |
-| 09:30 | GBP | S&P Global Services PMI (Feb) |  | 50.8 | 50.8 |
+| 07:00 | GBP | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Feb) | 45.5 | 45.3 | 45.0 |
+| 08:15 | EUR | HCOB France Services PMI (Feb) | 44.5 | 48.8 | 48.2 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Feb) | 46.1 | 45.4 | 45.0 |
+| 08:30 | EUR | HCOB Germany Services PMI (Feb) | 52.2 | 52.4 | 52.5 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) | 47.3 | 46.9 | 46.6 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) | 50.2 | 50.5 | 50.2 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Feb) | 50.7 | 51.5 | 51.3 |
+| 23 min | GBP | S&P Global Composite PMI (Feb) |  | 50.5 | 50.6 |
+| 23 min | GBP | S&P Global Manufacturing PMI (Feb) |  | 48.5 | 48.3 |
+| 23 min | GBP | S&P Global Services PMI (Feb) |  | 50.8 | 50.8 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | GDP (QoQ) (Q4) |  | -0.6% | -0.6% |
 | 12:00 | MXN | GDP (YoY) (Q4) |  | 0.6% | 0.6% |

@@ -9,15 +9,14 @@
 | 07:00 | GBP | Public Sector Net Borrowing (Jan) | -15.44B | -20.10B | 18.12B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jan) | -22.484B |  | 20.154B |
 | 07:45 | EUR | French Business Survey (Feb) | 97 | 96 | 96 |
-| 08:00 | CHF | M3 Money Supply (Jan) | 1,152.9B |  | 1,157.7B |
-| 08:15 | EUR | HCOB France Composite PMI (Feb) |  | 48.0 | 47.6 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 50.8 | 50.5 |
-| 09:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.6% | 0.6% |
-| 09:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.5% | 1.5% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (MoM) (Jan) |  | -0.7% | -0.7% |
-| 09:00 | EUR | Italian HICP (YoY) (Jan) |  | 1.7% | 1.7% |
-| 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 08:00 | CHF | M3 Money Supply (Jan) | 1,152.9B |  | 11,576.7B |
+| 08:15 | EUR | HCOB France Composite PMI (Feb) | 44.5 | 48.0 | 47.6 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Feb) | 51.0 | 50.8 | 50.5 |
+| 09:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
+| 09:00 | EUR | Italian CPI (YoY) (Jan) | 1.5% | 1.5% | 1.5% |
+| 09:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
+| 53 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 11:00 | GBP | CBI Industrial Trends Orders |  |  | -34 |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.4% |
 | 11:30 | INR | Deposit Growth |  |  | 10.3% |
