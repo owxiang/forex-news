@@ -40,8 +40,8 @@
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Dec) |  | -0.70% | 0.40% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Dec) |  | 0.30% | 0.50% |
-| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.6% | 1.1% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 0.6% | 1.6% |
+| 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.6% | 1.1% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
@@ -50,8 +50,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.3 | 51.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.7 |
 | 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 53.0 | 52.9 |
-| 15:00 | USD | High | Existing Home Sales (Jan) |  | 4.13M | 4.24M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
+| 15:00 | USD | High | Existing Home Sales (Jan) |  | 4.13M | 4.24M |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 4.3% | 3.3% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  | 3.3% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 67.3 | 67.3 |

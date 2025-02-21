@@ -18,8 +18,8 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Feb) |  | 48.5 | 48.3 |
 | 09:30 | GBP | S&P Global Services PMI (Feb) |  | 50.8 | 50.8 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | GDP (QoQ) (Q4) |  | -0.6% | 1.1% |
 | 12:00 | MXN | GDP (YoY) (Q4) |  | 0.6% | 1.6% |
+| 12:00 | MXN | GDP (QoQ) (Q4) |  | -0.6% | 1.1% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
 | 13:30 | CAD | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
 | 13:31 | CAD | Retail Sales (MoM) (Jan) |  |  | 0.0% |
