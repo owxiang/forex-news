@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Feb) | -20 | -22 | -22 |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 48.9 | 49.0 | 48.7 |
-| 52 min | INR | S&P Global Manufacturing PMI (Feb) |  |  | 57.7 |
-| 52 min | INR | S&P Global Services PMI (Feb) |  |  | 56.5 |
+| 05:00 | INR | S&P Global Manufacturing PMI (Feb) | 57.1 |  | 57.7 |
+| 05:00 | INR | S&P Global Services PMI (Feb) | 61.1 |  | 56.5 |
 | 07:00 | GBP | Public Sector Net Borrowing (Jan) |  | -20.10B | 17.81B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jan) |  |  | 19.876B |
 | 07:00 | CNY | FDI (Jan) |  |  | -27.10% |
@@ -17,8 +17,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.6% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.5% | 1.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
-| 09:00 | EUR | Italian HICP (MoM) (Jan) |  | -0.7% | 0.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Jan) |  | 1.7% | 1.4% |
+| 09:00 | EUR | Italian HICP (MoM) (Jan) |  | -0.7% | 0.1% |
 | 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 11:00 | GBP | CBI Industrial Trends Orders |  |  | -34 |
 | 11:30 | INR | FX Reserves, USD |  |  | 638.26B |
