@@ -21,8 +21,8 @@
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Feb) | 51.0 | 50.8 | 50.5 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) | 46.1 | 45.4 | 45.0 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 52.2 | 52.4 | 52.5 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.5% | 1.5% | 1.5% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | 1.3% |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
@@ -36,8 +36,8 @@
 | 11:30 | INR | Low | Deposit Growth | 10.6% |  | 10.3% |
 | 11:30 | INR | Low | FX Reserves, USD | 635.72B |  | 638.26B |
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Dec) | -1.00% | -0.70% | 0.30% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | -0.6% | -0.6% | -0.6% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.5% | 0.6% | 0.6% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) | 2.7% | 1.7% | -0.7% |
