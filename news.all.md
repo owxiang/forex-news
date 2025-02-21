@@ -7,8 +7,8 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 57.7 |
 | 05:00 | INR | Low | S&P Global Services PMI (Feb) |  |  | 56.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | 0.5% | 2.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 0.9% | -0.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | 0.5% | 2.9% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jan) |  | -20.10B | 17.81B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jan) |  |  | 19.876B |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) |  | 0.6% | 3.6% |
@@ -23,11 +23,11 @@
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 50.8 | 50.5 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 45.4 | 45.0 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 52.4 | 52.5 |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.5% | 1.3% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.6% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.5% | 1.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 1.7% | 1.4% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -0.7% | 0.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 1.7% | 1.4% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 46.9 | 46.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 50.5 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 51.5 | 51.3 |
