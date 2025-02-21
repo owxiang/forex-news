@@ -7,23 +7,22 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) | 57.1 |  | 57.7 |
 | 05:00 | INR | Low | S&P Global Services PMI (Feb) | 61.1 |  | 56.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) | 1.2% | 0.5% | 2.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jan) | -15.44B | -20.10B | 18.12B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jan) | -22.484B |  | 20.154B |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jan) | 1.7% | 0.4% | -0.6% |
-| 14 min | IDR | Low | Loans (YoY) (Jan) |  |  | 10.39% |
-| 39 min | EUR | Low | French Business Survey (Feb) |  | 96 | 95 |
-| 54 min | CHF | Low | M3 Money Supply (Jan) |  |  | 1,157.9B |
+| 07:45 | EUR | Low | French Business Survey (Feb) | 97 | 96 | 96 |
+| 08:00 | CHF | Low | M3 Money Supply (Jan) | 1,152.9B |  | 1,157.7B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 45.3 | 45.0 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Feb) |  | 48.0 | 47.6 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 48.8 | 48.2 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 50.8 | 50.5 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 45.4 | 45.0 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 52.4 | 52.5 |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.5% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.6% | 0.6% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.5% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -0.7% | -0.7% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 1.7% | 1.7% |
@@ -51,8 +50,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.3 | 51.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.7 |
 | 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 53.0 | 52.9 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
 | 15:00 | USD | High | Existing Home Sales (Jan) |  | 4.13M | 4.24M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 4.3% | 3.3% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  | 3.3% | 3.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 67.3 | 67.3 |
