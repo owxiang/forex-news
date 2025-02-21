@@ -5,14 +5,14 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Feb) | -20 | -22 | -22 |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Feb) | 48.9 | 49.0 | 48.7 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 57.7 |
-| 05:00 | INR | Low | S&P Global Services PMI (Feb) |  |  | 56.5 |
+| 52 min | INR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 57.7 |
+| 52 min | INR | Low | S&P Global Services PMI (Feb) |  |  | 56.5 |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 0.9% | -0.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | 0.5% | 2.9% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jan) |  | -20.10B | 17.81B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jan) |  |  | 19.876B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) |  | 0.6% | 3.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jan) |  | 0.4% | -0.3% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) |  | 0.6% | 3.6% |
 | 07:00 | CNY | Low | FDI (Jan) |  |  | -27.10% |
 | 07:20 | IDR | Low | Loans (YoY) (Jan) |  |  | 10.39% |
 | 07:45 | EUR | Low | French Business Survey (Feb) |  | 96 | 95 |
@@ -40,8 +40,8 @@
 | 11:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Dec) |  | -0.70% | 0.40% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Dec) |  | 0.30% | 0.50% |
-| 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 0.6% | 1.6% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | -0.6% | 1.1% |
+| 12:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 0.6% | 1.6% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |

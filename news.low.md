@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Feb) | -20 | -22 | -22 |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 48.9 | 49.0 | 48.7 |
-| 05:00 | INR | S&P Global Manufacturing PMI (Feb) |  |  | 57.7 |
-| 05:00 | INR | S&P Global Services PMI (Feb) |  |  | 56.5 |
+| 52 min | INR | S&P Global Manufacturing PMI (Feb) |  |  | 57.7 |
+| 52 min | INR | S&P Global Services PMI (Feb) |  |  | 56.5 |
 | 07:00 | GBP | Public Sector Net Borrowing (Jan) |  | -20.10B | 17.81B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jan) |  |  | 19.876B |
 | 07:00 | CNY | FDI (Jan) |  |  | -27.10% |

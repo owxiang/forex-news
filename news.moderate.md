@@ -5,8 +5,8 @@
 | 00:30 | JPY | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jan) |  | 0.9% | -0.6% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jan) |  | 0.5% | 2.9% |
-| 07:00 | GBP | Retail Sales (YoY) (Jan) |  | 0.6% | 3.6% |
 | 07:00 | GBP | Retail Sales (MoM) (Jan) |  | 0.4% | -0.3% |
+| 07:00 | GBP | Retail Sales (YoY) (Jan) |  | 0.6% | 3.6% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 45.3 | 45.0 |
 | 08:15 | EUR | HCOB France Services PMI (Feb) |  | 48.8 | 48.2 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 45.4 | 45.0 |
@@ -18,8 +18,8 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Feb) |  | 48.5 | 48.3 |
 | 09:30 | GBP | S&P Global Services PMI (Feb) |  | 50.8 | 50.8 |
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | GDP (YoY) (Q4) |  | 0.6% | 1.6% |
 | 12:00 | MXN | GDP (QoQ) (Q4) |  | -0.6% | 1.1% |
+| 12:00 | MXN | GDP (YoY) (Q4) |  | 0.6% | 1.6% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
 | 13:30 | CAD | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
 | 13:31 | CAD | Retail Sales (MoM) (Jan) |  |  | 0.0% |
