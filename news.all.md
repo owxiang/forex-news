@@ -7,8 +7,8 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) | 57.1 |  | 57.7 |
 | 05:00 | INR | Low | S&P Global Services PMI (Feb) | 61.1 |  | 56.5 |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) | 1.2% | 0.5% | 2.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) | 1.2% | 0.5% | 2.1% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jan) | -15.44B | -20.10B | 18.12B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jan) | -22.484B |  | 20.154B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jan) | 1.7% | 0.4% | -0.6% |
@@ -24,8 +24,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.5% | 1.5% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | 1.3% |  | 1.1% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) | 47.3 | 46.9 | 46.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 50.2 | 50.5 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.7 | 51.5 | 51.3 |
@@ -42,18 +42,17 @@
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.5% | 0.6% | 0.6% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) | 2.7% | 1.7% | -0.7% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) | 2.5% | 1.6% | 0.2% |
-| 25 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 40 min | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.3 | 51.2 |
-| 40 min | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.7 |
-| 40 min | USD | High | S&P Global Services PMI (Feb) |  | 53.0 | 52.9 |
-| 55 min | USD | High | Existing Home Sales (Jan) |  | 4.13M | 4.24M |
-| 55 min | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
-| 55 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 4.3% | 3.3% |
-| 55 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  | 3.3% | 3.2% |
-| 55 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 67.3 | 67.3 |
-| 55 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 67.8 | 71.1 |
-| 55 min | USD | Low | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
-| 55 min | EUR | Low | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
+| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) | 51.6 | 51.3 | 51.2 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) | 50.4 |  | 52.7 |
+| 14:45 | USD | High | S&P Global Services PMI (Feb) | 49.7 | 53.0 | 52.9 |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) | -4.9% |  | 2.9% |
+| 15:00 | USD | High | Existing Home Sales (Jan) | 4.08M | 4.13M | 4.29M |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) | 4.3% | 4.3% | 3.3% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) | 3.5% | 3.3% | 3.2% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) | 64.0 | 67.3 | 67.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) | 64.7 | 67.8 | 71.1 |
+| 15:00 | USD | Low | Michigan Current Conditions (Feb) | 65.7 | 68.7 | 74.0 |
 | 16:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 17:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
