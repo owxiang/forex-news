@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
-| 07:00 | GBP | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jan) | 1.2% | 0.5% | 2.1% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
 | 07:00 | GBP | Retail Sales (MoM) (Jan) | 1.7% | 0.4% | -0.6% |
 | 07:00 | GBP | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Feb) | 45.5 | 45.3 | 45.0 |
@@ -29,9 +29,9 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) | 3.5% | 3.3% | 3.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Feb) | 64.0 | 67.3 | 67.3 |
 | 15:00 | USD | Michigan Consumer Sentiment (Feb) | 64.7 | 67.8 | 71.1 |
-| 24 min | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 17:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 487 |  | 481 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 592 |  | 588 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -3.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 220.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 284.5K |
