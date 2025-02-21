@@ -14,15 +14,15 @@
 | 08:30 | EUR | HCOB Germany Composite PMI (Feb) | 51.0 | 50.8 | 50.5 |
 | 09:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Italian CPI (YoY) (Jan) | 1.5% | 1.5% | 1.5% |
-| 09:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) | 1.3% |  | 1.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
-| 53 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
-| 11:00 | GBP | CBI Industrial Trends Orders |  |  | -34 |
+| 09:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
+| 54 min | GBP | CBI Industrial Trends Orders |  |  | -34 |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.4% |
 | 11:30 | INR | Deposit Growth |  |  | 10.3% |
 | 11:30 | INR | FX Reserves, USD |  |  | 638.26B |
-| 12:00 | MXN | Economic Activity (MoM) (Dec) |  | -0.70% | 0.40% |
 | 12:00 | MXN | Economic Activity (YoY) (Dec) |  | 0.30% | 0.50% |
+| 12:00 | MXN | Economic Activity (MoM) (Dec) |  | -0.70% | 0.40% |
 | 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
 | 15:00 | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
