@@ -5,8 +5,8 @@
 | 00:30 | JPY | au Jibun Bank Services PMI (Feb) | 53.1 |  | 53.0 |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jan) | 1.2% | 0.5% | 2.1% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
-| 07:00 | GBP | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
 | 07:00 | GBP | Retail Sales (MoM) (Jan) | 1.7% | 0.4% | -0.6% |
+| 07:00 | GBP | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Feb) | 45.5 | 45.3 | 45.0 |
 | 08:15 | EUR | HCOB France Services PMI (Feb) | 44.5 | 48.8 | 48.2 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Feb) | 46.1 | 45.4 | 45.0 |
@@ -20,16 +20,15 @@
 | 11:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | GDP (QoQ) (Q4) | -0.6% | -0.6% | -0.6% |
 | 12:00 | MXN | GDP (YoY) (Q4) | 0.5% | 0.6% | 0.6% |
-| 20 min | CAD | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
-| 20 min | CAD | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
-| 21 min | CAD | Retail Sales (MoM) (Jan) |  |  | 0.0% |
-| 14:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Feb) |  |  | 52.7 |
-| 15:00 | USD | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 4.3% | 3.3% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 3.3% | 3.2% |
-| 15:00 | USD | Michigan Consumer Expectations (Feb) |  | 67.3 | 67.3 |
-| 15:00 | USD | Michigan Consumer Sentiment (Feb) |  | 67.8 | 71.1 |
+| 13:30 | CAD | Core Retail Sales (MoM) (Dec) | 2.7% | 1.7% | -0.7% |
+| 13:30 | CAD | Retail Sales (MoM) (Dec) | 2.5% | 1.6% | 0.2% |
+| 25 min | EUR | ECB's Lane Speaks |  |  |  |
+| 40 min | USD | S&P Global Composite PMI (Feb) |  |  | 52.7 |
+| 55 min | USD | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
+| 55 min | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 4.3% | 3.3% |
+| 55 min | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 3.3% | 3.2% |
+| 55 min | USD | Michigan Consumer Expectations (Feb) |  | 67.3 | 67.3 |
+| 55 min | USD | Michigan Consumer Sentiment (Feb) |  | 67.8 | 71.1 |
 | 17:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |

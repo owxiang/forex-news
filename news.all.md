@@ -11,8 +11,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) | 2.1% | 0.9% | -0.9% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jan) | -15.44B | -20.10B | 18.12B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jan) | -22.484B |  | 20.154B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jan) | 1.7% | 0.4% | -0.6% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jan) | 1.0% | 0.6% | 2.8% |
 | 07:45 | EUR | Low | French Business Survey (Feb) | 97 | 96 | 96 |
 | 08:00 | CHF | Low | M3 Money Supply (Jan) | 1,152.9B |  | 11,576.7B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) | 45.5 | 45.3 | 45.0 |
@@ -21,8 +21,8 @@
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Feb) | 51.0 | 50.8 | 50.5 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) | 46.1 | 45.4 | 45.0 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 52.2 | 52.4 | 52.5 |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jan) | 1.5% | 1.5% | 1.5% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | 1.3% |  | 1.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
@@ -40,22 +40,20 @@
 | 12:00 | MXN | Low | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
 | 12:00 | MXN | Moderate | GDP (QoQ) (Q4) | -0.6% | -0.6% | -0.6% |
 | 12:00 | MXN | Moderate | GDP (YoY) (Q4) | 0.5% | 0.6% | 0.6% |
-| 20 min | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 1.7% | -0.7% |
-| 20 min | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 1.6% | 0.0% |
-| 20 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 21 min | CAD | Moderate | Retail Sales (MoM) (Jan) |  |  | 0.0% |
-| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.3 | 51.2 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.7 |
-| 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 53.0 | 52.9 |
-| 15:00 | USD | High | Existing Home Sales (Jan) |  | 4.13M | 4.24M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 4.3% | 3.3% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  | 3.3% | 3.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 67.3 | 67.3 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 67.8 | 71.1 |
-| 15:00 | USD | Low | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
-| 15:00 | EUR | Low | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) | 2.7% | 1.7% | -0.7% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Dec) | 2.5% | 1.6% | 0.2% |
+| 25 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 40 min | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.3 | 51.2 |
+| 40 min | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.7 |
+| 40 min | USD | High | S&P Global Services PMI (Feb) |  | 53.0 | 52.9 |
+| 55 min | USD | High | Existing Home Sales (Jan) |  | 4.13M | 4.24M |
+| 55 min | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | 2.2% |
+| 55 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 4.3% | 3.3% |
+| 55 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  | 3.3% | 3.2% |
+| 55 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 67.3 | 67.3 |
+| 55 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 67.8 | 71.1 |
+| 55 min | USD | Low | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
+| 55 min | EUR | Low | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
 | 16:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 17:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 481 |

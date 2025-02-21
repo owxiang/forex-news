@@ -12,8 +12,8 @@
 | 08:00 | CHF | M3 Money Supply (Jan) | 1,152.9B |  | 11,576.7B |
 | 08:15 | EUR | HCOB France Composite PMI (Feb) | 44.5 | 48.0 | 47.6 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Feb) | 51.0 | 50.8 | 50.5 |
-| 09:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Italian CPI (YoY) (Jan) | 1.5% | 1.5% | 1.5% |
+| 09:00 | EUR | Italian CPI (MoM) (Jan) | 0.6% | 0.6% | 0.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) | 1.3% |  | 1.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Jan) | -0.8% | -0.7% | -0.7% |
 | 09:00 | EUR | Italian HICP (YoY) (Jan) | 1.7% | 1.7% | 1.7% |
@@ -22,9 +22,8 @@
 | 11:30 | INR | FX Reserves, USD | 635.72B |  | 638.26B |
 | 12:00 | MXN | Economic Activity (MoM) (Dec) | -1.00% | -0.70% | 0.30% |
 | 12:00 | MXN | Economic Activity (YoY) (Dec) | -0.40% | 0.30% | 0.50% |
-| 20 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 15:00 | USD | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
-| 15:00 | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
+| 55 min | USD | Michigan Current Conditions (Feb) |  | 68.7 | 74.0 |
+| 55 min | EUR | Consumer Confidence (Feb) |  | -14.0 | -14.2 |
 | 16:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 20.9K |
