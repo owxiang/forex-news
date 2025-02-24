@@ -11,5 +11,5 @@
 | 10:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Jan) | -0.3% | -0.3% | 0.4% |
-| 13:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 4 min | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 4.211% |

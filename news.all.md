@@ -12,12 +12,12 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Feb) | 85.0 | 86.5 | 86.0 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 85.2 | 85.9 | 85.2 |
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -1.0% | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -1.0% | 0.5% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.5% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.3% | -0.3% | 0.4% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.4% |  | 2.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.3% |  | 0.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.4% |  | 2.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) | 126.72 | 126.71 | 127.07 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.7% | -0.7% | 0.3% |
@@ -26,13 +26,13 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Feb) | 0.27% | 0.24% | 0.28% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Feb) | 0.15% | 0.15% | 0.20% |
-| 13:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 13:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Jan) |  |  | 0.15 |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.5% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.276% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.452% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.369% |
+| 4 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 4 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 19 min | USD | Low | Chicago Fed National Activity (Jan) |  |  | 0.15 |
+| 19 min | CAD | Low | Corporate Profits (QoQ) |  |  | -2.5% |
+| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.276% |
+| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.452% |
+| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.369% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) |  |  | 14.1 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.220% |
