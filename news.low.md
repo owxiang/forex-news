@@ -4,8 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | Credit Card Spending (YoY) | 1.3% |  | -1.3% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Jan) | 5.90% |  | 4.40% |
-| 05:00 | SGD | CPI (MoM) (Jan) |  |  | 0.40% |
-| 07:00 | CNY | FDI (Jan) |  |  | -27.10% |
+| 05:00 | SGD | CPI (MoM) (Jan) | -0.70% |  | 0.40% |
 | 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 10:00 | EUR | Core CPI (MoM) (Jan) |  | -1.0% | 0.5% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |

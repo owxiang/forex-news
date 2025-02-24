@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Core CPI (YoY) (Jan) | 0.80% | 1.50% | 1.80% |
+| 05:00 | SGD | Core CPI (YoY) (Jan) | 0.80% | 1.50% | 1.70% |
 | 05:00 | SGD | CPI (YoY) (Jan) | 1.2% | 2.2% | 1.5% |
 | 07:30 | CHF | Employment Level (Q4) |  |  | 5.528M |
 | 09:00 | EUR | German Business Expectations (Feb) |  | 85.2 | 84.2 |

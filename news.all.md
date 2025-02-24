@@ -4,10 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | Credit Card Spending (YoY) | 1.3% |  | -1.3% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Jan) | 5.90% |  | 4.40% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Jan) | 0.80% | 1.50% | 1.80% |
-| 05:00 | SGD | Low | CPI (MoM) (Jan) |  |  | 0.40% |
+| 05:00 | SGD | Moderate | Core CPI (YoY) (Jan) | 0.80% | 1.50% | 1.70% |
+| 05:00 | SGD | Low | CPI (MoM) (Jan) | -0.70% |  | 0.40% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Jan) | 1.2% | 2.2% | 1.5% |
-| 07:00 | CNY | Low | FDI (Jan) |  |  | -27.10% |
 | 07:30 | CHF | Moderate | Employment Level (Q4) |  |  | 5.528M |
 | 09:00 | EUR | Moderate | German Business Expectations (Feb) |  | 85.2 | 84.2 |
 | 09:00 | EUR | Moderate | German Current Assessment (Feb) |  | 86.5 | 86.1 |
