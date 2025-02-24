@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | NZD | Low | Credit Card Spending (YoY) |  |  | -1.4% |
+| 26 min | NZD | Low | Credit Card Spending (YoY) |  |  | -1.4% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Jan) |  | 1.50% | 1.80% |
 | 05:00 | SGD | Low | CPI (MoM) (Jan) |  |  | 0.40% |
