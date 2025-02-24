@@ -1,3 +1,5 @@
-## 23 February 2025 - High Impact Forex News
+## 24 February 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 10:00 | EUR | CPI (YoY) (Jan) |  | 2.5% | 2.5% |
