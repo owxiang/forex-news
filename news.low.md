@@ -11,11 +11,11 @@
 | 10:00 | EUR | CPI, n.s.a (Jan) | 126.72 | 126.71 | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.7% | -0.7% | 0.3% |
-| 11:00 | GBP | CBI Industrial Trends Orders |  |  | -34 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | FGV Consumer confidence (Feb) | 83.6 |  | 86.2 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Feb) |  |  | 0.28% |
-| 12:00 | MXN | 1st Half-Month CPI (Feb) |  |  | 0.20% |
+| 12:00 | MXN | 1st Half-Month Core CPI (Feb) | 0.27% | 0.24% | 0.28% |
+| 12:00 | MXN | 1st Half-Month CPI (Feb) | 0.15% | 0.15% | 0.20% |
 | 13:15 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Jan) |  |  | 0.15 |
 | 13:30 | CAD | Corporate Profits (QoQ) |  |  | -2.5% |
