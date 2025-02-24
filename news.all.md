@@ -16,13 +16,13 @@
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -1.0% | 0.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.3% | -0.3% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.5% | 2.4% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.3% |  | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.4% |  | 2.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.3% |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) | 126.72 | 126.71 | 127.07 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.7% | -0.7% | 0.3% |
-| 53 min | GBP | Low | CBI Industrial Trends Orders |  |  | -34 |
-| 53 min | BRL | Low | FGV Consumer confidence (Feb) |  |  | 86.2 |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders |  |  | -34 |
+| 11:00 | BRL | Low | FGV Consumer confidence (Feb) | 83.6 |  | 86.2 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Feb) |  |  | 0.28% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Feb) |  |  | 0.20% |
