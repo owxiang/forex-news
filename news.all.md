@@ -12,8 +12,8 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Feb) | 85.0 | 86.5 | 86.0 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 85.2 | 85.9 | 85.2 |
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -1.0% | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -1.0% | 0.5% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.5% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.3% | -0.3% | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.3% |  | 0.4% |
@@ -35,6 +35,6 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) | -8.3 |  | 14.1 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.195% |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.180% |  | 4.220% |
-| 55 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 55 min | USD | Moderate | 2-Year Note Auction |  |  | 4.211% |
+| 18:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 4.169% |  | 4.211% |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 2.9% |
