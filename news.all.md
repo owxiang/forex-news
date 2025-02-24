@@ -33,8 +33,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.423% |  | 2.452% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.339% |  | 2.369% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) | -8.3 |  | 14.1 |
-| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
-| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.220% |
-| 18:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.211% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.195% |  | 4.225% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.180% |  | 4.220% |
+| 55 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 55 min | USD | Moderate | 2-Year Note Auction |  |  | 4.211% |
 | 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 2.9% |
