@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | Credit Card Spending (YoY) | 1.3% |  | -1.3% |
-| 47 min | IDR | M2 Money Supply (YoY) (Jan) | 5.90% |  | 4.40% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Jan) | 5.90% |  | 4.40% |
 | 05:00 | SGD | CPI (MoM) (Jan) |  |  | 0.40% |
 | 07:00 | CNY | FDI (Jan) |  |  | -27.10% |
 | 07:20 | IDR | Loans (YoY) (Jan) |  |  | 10.39% |
 | 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 10:00 | EUR | Core CPI (MoM) (Jan) |  | -1.0% | -1.0% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.3% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jan) |  | 126.71 | 127.07 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 2.7% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) |  | -0.7% | 0.3% |
