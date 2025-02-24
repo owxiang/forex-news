@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | Credit Card Spending (YoY) | 1.3% |  | -1.3% |
-| 04:00 | IDR | Low | M2 Money Supply (YoY) (Jan) |  |  | 4.40% |
+| 47 min | IDR | Low | M2 Money Supply (YoY) (Jan) | 5.90% |  | 4.40% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Jan) |  | 1.50% | 1.80% |
 | 05:00 | SGD | Low | CPI (MoM) (Jan) |  |  | 0.40% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Jan) |  | 2.2% | 1.6% |
@@ -17,8 +17,8 @@
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -1.0% | -1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.7% | 2.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jan) |  | 2.5% | 2.5% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) |  | 126.71 | 127.07 |
