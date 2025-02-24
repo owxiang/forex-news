@@ -8,19 +8,19 @@
 | 05:00 | SGD | Low | CPI (MoM) (Jan) | -0.80% |  | 0.30% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Jan) | 1.2% | 2.2% | 1.5% |
 | 07:30 | CHF | Moderate | Employment Level (Q4) | 5.534M |  | 5.528M |
-| 51 min | EUR | Moderate | German Business Expectations (Feb) |  | 85.2 | 84.2 |
-| 51 min | EUR | Moderate | German Current Assessment (Feb) |  | 86.5 | 86.1 |
-| 51 min | EUR | Moderate | German Ifo Business Climate Index (Feb) |  | 85.9 | 85.1 |
-| 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.7% | 2.7% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -1.0% | 0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Jan) |  | 2.5% | 2.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jan) |  | 126.71 | 127.07 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  | 2.7% | 2.7% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  | -0.7% | 0.3% |
+| 09:00 | EUR | Moderate | German Business Expectations (Feb) | 85.4 | 85.2 | 84.3 |
+| 09:00 | EUR | Moderate | German Current Assessment (Feb) | 85.0 | 86.5 | 86.0 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 85.2 | 85.9 | 85.2 |
+| 53 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 53 min | EUR | Low | Core CPI (MoM) (Jan) |  | -1.0% | 0.5% |
+| 53 min | EUR | Moderate | Core CPI (YoY) (Jan) |  | 2.7% | 2.7% |
+| 53 min | EUR | High | CPI (YoY) (Jan) |  | 2.5% | 2.4% |
+| 53 min | EUR | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
+| 53 min | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |
+| 53 min | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.3% |
+| 53 min | EUR | Low | CPI, n.s.a (Jan) |  | 126.71 | 127.07 |
+| 53 min | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  | 2.7% | 2.7% |
+| 53 min | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  | -0.7% | 0.3% |
 | 10:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders |  |  | -34 |
 | 11:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 86.2 |

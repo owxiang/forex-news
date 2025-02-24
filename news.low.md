@@ -5,12 +5,12 @@
 | 02:00 | NZD | Credit Card Spending (YoY) | 1.3% |  | -1.3% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Jan) | 5.90% |  | 4.40% |
 | 05:00 | SGD | CPI (MoM) (Jan) | -0.80% |  | 0.30% |
-| 10:00 | EUR | Core CPI (MoM) (Jan) |  | -1.0% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.3% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |
-| 10:00 | EUR | CPI, n.s.a (Jan) |  | 126.71 | 127.07 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 2.7% | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) |  | -0.7% | 0.3% |
+| 53 min | EUR | Core CPI (MoM) (Jan) |  | -1.0% | 0.5% |
+| 53 min | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.4% |
+| 53 min | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.3% |
+| 53 min | EUR | CPI, n.s.a (Jan) |  | 126.71 | 127.07 |
+| 53 min | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 2.7% | 2.7% |
+| 53 min | EUR | HICP ex Energy and Food (MoM) (Jan) |  | -0.7% | 0.3% |
 | 10:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 11:00 | GBP | CBI Industrial Trends Orders |  |  | -34 |
 | 11:00 | BRL | FGV Consumer confidence (Feb) |  |  | 86.2 |

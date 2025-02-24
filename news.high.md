@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Jan) |  | 2.5% | 2.4% |
+| 53 min | EUR | CPI (YoY) (Jan) |  | 2.5% | 2.4% |
