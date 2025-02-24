@@ -14,10 +14,10 @@
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -1.0% | 0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.5% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.3% | -0.3% | 0.4% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.4% |  | 2.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jan) | 2.5% | 2.5% | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.3% |  | 0.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.4% |  | 2.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jan) | 126.72 | 126.71 | 127.07 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.7% | -0.7% | 0.3% |
@@ -37,4 +37,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.180% |  | 4.220% |
 | 18:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 4.169% |  | 4.211% |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 2.9% |
+| 45 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 2.9% |
