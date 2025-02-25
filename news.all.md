@@ -7,32 +7,32 @@
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 26.4% |  | -14.9% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jan) | -37.6% |  | 37.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) | -7.50 |  | -12.40 |
 | 07:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.2% | 0.1% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.3% |
 | 07:00 | ZAR | Low | Leading Indicators (Dec) | 112.80% |  | 114.70% |
-| 22 min | HKD | Low | Exports (MoM) (Jan) |  |  | 5.2% |
-| 22 min | HKD | Low | Imports (MoM) (Jan) |  |  | -1.1% |
-| 22 min | HKD | Low | Trade Balance (Jan) |  |  | -34.5B |
-| 09:15 | USD | Low | Fed Logan Speaks |  |  |  |
-| 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 08:30 | HKD | Low | Exports (MoM) (Jan) | 0.1% |  | 5.2% |
+| 08:30 | HKD | Low | Imports (MoM) (Jan) | 0.5% |  | -1.1% |
+| 08:30 | HKD | Low | Trade Balance (Jan) | 2.1B |  | -34.5B |
+| 9 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 54 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 54 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -21 | -24 |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 4.2% |
+| 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (Dec) |  |  | 433.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.1% |
