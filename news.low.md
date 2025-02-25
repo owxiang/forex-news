@@ -5,8 +5,8 @@
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
 | 02:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 05:00 | GBP | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
 | 05:00 | GBP | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
+| 05:00 | GBP | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jan) | 26.4% |  | -14.9% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
 | 05:00 | EUR | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
@@ -14,7 +14,7 @@
 | 05:00 | EUR | French Car Registration (MoM) (Jan) | -37.6% |  | 37.8% |
 | 05:00 | EUR | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
 | 05:30 | NOK | Consumer Confidence (Q1) | -7.50 |  | -12.40 |
-| 51 min | ZAR | Leading Indicators (Dec) |  |  | 114.70% |
+| 07:00 | ZAR | Leading Indicators (Dec) | 112.80% |  | 114.70% |
 | 08:30 | HKD | Exports (MoM) (Jan) |  |  | 5.2% |
 | 08:30 | HKD | Imports (MoM) (Jan) |  |  | -1.1% |
 | 08:30 | HKD | Trade Balance (Jan) |  |  | -34.5B |

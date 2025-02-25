@@ -5,8 +5,8 @@
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 05:00 | GBP | Low | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 26.4% |  | -14.9% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
@@ -14,9 +14,9 @@
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jan) | -37.6% |  | 37.8% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) | -7.50 |  | -12.40 |
-| 51 min | EUR | High | German GDP (QoQ) (Q4) |  | -0.2% | 0.1% |
-| 51 min | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.3% |
-| 51 min | ZAR | Low | Leading Indicators (Dec) |  |  | 114.70% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.2% | 0.1% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.3% |
+| 07:00 | ZAR | Low | Leading Indicators (Dec) | 112.80% |  | 114.70% |
 | 08:30 | HKD | Low | Exports (MoM) (Jan) |  |  | 5.2% |
 | 08:30 | HKD | Low | Imports (MoM) (Jan) |  |  | -1.1% |
 | 08:30 | HKD | Low | Trade Balance (Jan) |  |  | -34.5B |
