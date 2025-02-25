@@ -5,8 +5,8 @@
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 26.4% |  | -14.9% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
@@ -20,11 +20,11 @@
 | 08:30 | HKD | Low | Exports (MoM) (Jan) | 0.1% |  | 5.2% |
 | 08:30 | HKD | Low | Imports (MoM) (Jan) | 0.5% |  | -1.1% |
 | 08:30 | HKD | Low | Trade Balance (Jan) | 2.1B |  | -34.5B |
-| 9 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 54 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 54 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -21 | -24 |
+| 09:15 | USD | Low | Fed Logan Speaks |  |  |  |
+| 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 53 min | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -21 | -24 |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

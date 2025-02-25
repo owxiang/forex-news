@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.3% |
-| 54 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 14:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.1% |
