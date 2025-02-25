@@ -5,24 +5,24 @@
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
 | 02:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 24 min | NOK | Consumer Confidence (Q1) |  |  | -14.40 |
-| 07:00 | GBP | Car Registration (MoM) (Jan) |  |  | -8.3% |
-| 07:00 | GBP | Car Registration (YoY) (Jan) |  |  | -0.2% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Jan) |  |  | -14.9% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
-| 07:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -8.1% |
-| 07:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
-| 07:00 | EUR | French Car Registration (MoM) (Jan) |  |  | 37.8% |
-| 07:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
-| 07:00 | ZAR | Leading Indicators (Dec) |  |  | 114.70% |
+| 05:00 | GBP | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
+| 05:00 | GBP | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jan) | 26.4% |  | -14.9% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
+| 05:00 | EUR | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
+| 05:00 | EUR | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
+| 05:00 | EUR | French Car Registration (MoM) (Jan) | -37.6% |  | 37.8% |
+| 05:00 | EUR | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
+| 05:30 | NOK | Consumer Confidence (Q1) | -7.50 |  | -12.40 |
+| 51 min | ZAR | Leading Indicators (Dec) |  |  | 114.70% |
 | 08:30 | HKD | Exports (MoM) (Jan) |  |  | 5.2% |
 | 08:30 | HKD | Imports (MoM) (Jan) |  |  | -1.1% |
 | 08:30 | HKD | Trade Balance (Jan) |  |  | -34.5B |
 | 09:15 | USD | Fed Logan Speaks |  |  |  |
 | 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -21 | -24 |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 4.2% |

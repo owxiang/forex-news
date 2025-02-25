@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German GDP (YoY) (Q4) |  | -0.2% | -0.3% |
+| 51 min | EUR | German GDP (YoY) (Q4) |  | -0.2% | -0.3% |
 | 10:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | ECB's Schnabel Speaks |  |  |  |
