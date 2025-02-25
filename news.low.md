@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 01:00 | KRW | Interest Rate Decision (Feb) |  | 2.75% | 3.00% |
+| 01:00 | KRW | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
 | 05:00 | GBP | Car Registration (YoY) (Jan) |  |  | -0.2% |
 | 05:00 | GBP | Car Registration (MoM) (Jan) |  |  | -8.3% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
