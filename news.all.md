@@ -6,8 +6,8 @@
 | 01:00 | KRW | Low | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jan) |  |  | -0.2% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jan) |  |  | -8.3% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) |  |  | -14.9% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jan) |  |  | -8.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | -7.1% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
@@ -30,8 +30,8 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 4.2% |
+| 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (Dec) |  |  | 433.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.1% |
