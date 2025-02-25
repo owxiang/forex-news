@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
-| 05:00 | GBP | Car Registration (YoY) (Jan) |  |  | -0.2% |
 | 05:00 | GBP | Car Registration (MoM) (Jan) |  |  | -8.3% |
+| 05:00 | GBP | Car Registration (YoY) (Jan) |  |  | -0.2% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jan) |  |  | -14.9% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
-| 05:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -8.1% |
 | 05:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
-| 05:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
+| 05:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -8.1% |
 | 05:00 | EUR | French Car Registration (MoM) (Jan) |  |  | 37.8% |
+| 05:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 05:30 | NOK | Consumer Confidence (Q1) |  |  | -14.40 |
 | 07:00 | ZAR | Leading Indicators (Dec) |  |  | 114.70% |
 | 08:30 | HKD | Exports (MoM) (Jan) |  |  | 5.2% |
@@ -20,8 +20,8 @@
 | 09:15 | USD | Fed Logan Speaks |  |  |  |
 | 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -21 | -24 |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 4.2% |

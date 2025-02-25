@@ -4,14 +4,14 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jan) |  |  | -0.2% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jan) |  |  | -8.3% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jan) |  |  | -0.2% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) |  |  | -14.9% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jan) |  |  | -8.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | -7.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jan) |  |  | -8.1% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jan) |  |  | 37.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) |  |  | -14.40 |
 | 07:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.2% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.2% |
@@ -24,8 +24,8 @@
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -21 | -24 |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
