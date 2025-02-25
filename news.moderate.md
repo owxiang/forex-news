@@ -9,6 +9,6 @@
 | 14:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.1% |  | -0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 4.5% | 4.4% | 4.3% |
-| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 38 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.330% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 2.300M | 3.339M |
