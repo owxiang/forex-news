@@ -1,5 +1,6 @@
-## 24 February 2025 - High Impact Forex News
+## 25 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Jan) | 2.5% | 2.5% | 2.4% |
+| 07:00 | EUR | German GDP (QoQ) (Q4) |  | -0.2% | -0.2% |
+| 15:00 | USD | CB Consumer Confidence (Feb) |  | 103.3 | 104.1 |

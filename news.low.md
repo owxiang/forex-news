@@ -1,28 +1,39 @@
-## 24 February 2025 - Low Impact Forex News
+## 25 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | Credit Card Spending (YoY) | 1.3% |  | -1.3% |
-| 03:00 | IDR | M2 Money Supply (YoY) (Jan) | 5.90% |  | 4.40% |
-| 05:00 | SGD | CPI (MoM) (Jan) | -0.80% |  | 0.30% |
-| 10:00 | EUR | Core CPI (MoM) (Jan) | -0.9% | -1.0% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jan) | -0.3% |  | 0.4% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jan) | 2.4% |  | 2.3% |
-| 10:00 | EUR | CPI, n.s.a (Jan) | 126.72 | 126.71 | 127.07 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 2.7% | 2.7% | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.7% | -0.7% | 0.3% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | FGV Consumer confidence (Feb) | 83.6 |  | 86.2 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Feb) | 0.27% | 0.24% | 0.28% |
-| 12:00 | MXN | 1st Half-Month CPI (Feb) | 0.15% | 0.15% | 0.20% |
-| 13:15 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 13:30 | USD | Chicago Fed National Activity (Jan) | -0.03 |  | 0.18 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.241% |  | 2.276% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.423% |  | 2.452% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.339% |  | 2.369% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Feb) | -8.3 |  | 14.1 |
-| 16:30 | USD | 3-Month Bill Auction | 4.195% |  | 4.225% |
-| 16:30 | USD | 6-Month Bill Auction | 4.180% |  | 4.220% |
-| 18:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 45 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.9% | 2.9% |
+| 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 01:00 | KRW | Interest Rate Decision (Feb) |  | 2.75% | 3.00% |
+| 05:00 | GBP | Car Registration (YoY) (Jan) |  |  | -0.2% |
+| 05:00 | GBP | Car Registration (MoM) (Jan) |  |  | -8.3% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | -4.9% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jan) |  |  | -14.9% |
+| 05:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -8.1% |
+| 05:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -7.1% |
+| 05:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 1.5% |
+| 05:00 | EUR | French Car Registration (MoM) (Jan) |  |  | 37.8% |
+| 05:30 | NOK | Consumer Confidence (Q1) |  |  | -14.40 |
+| 07:00 | ZAR | Leading Indicators (Dec) |  |  | 114.70% |
+| 08:30 | HKD | Exports (MoM) (Jan) |  |  | 5.2% |
+| 08:30 | HKD | Imports (MoM) (Jan) |  |  | -1.1% |
+| 08:30 | HKD | Trade Balance (Jan) |  |  | -34.5B |
+| 09:15 | USD | Fed Logan Speaks |  |  |  |
+| 10:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 85.0 |
+| 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -21 | -24 |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
+| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 4.2% |
+| 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
+| 14:00 | USD | House Price Index (Dec) |  |  | 433.4 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.4% |
+| 14:00 | MXN | Current Account (USD) (Q4) |  |  | 733M |
+| 14:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.20% |
+| 15:00 | USD | Richmond Manufacturing Index (Feb) |  | -2 | -4 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Feb) |  |  | -9 |
+| 15:00 | USD | Richmond Services Index (Feb) |  |  | 4 |
+| 15:30 | USD | Dallas Fed Services Revenues (Feb) |  |  | 5.7 |
+| 15:30 | USD | Texas Services Sector Outlook (Feb) |  |  | 7.4 |
+| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | M2 Money Supply (MoM) (Jan) |  |  | 21.53T |
