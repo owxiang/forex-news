@@ -5,14 +5,14 @@
 | 01:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 01:00 | KRW | Low | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
 | 02:45 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 26.4% |  | -14.9% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jan) | -37.6% |  | 37.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) | -7.50 |  | -12.40 |
 | 07:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.2% | 0.1% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.3% |
@@ -24,14 +24,14 @@
 | 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) | -23 | -21 | -24 |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 1.23% | 1.34% | 0.11% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) | 4.96% | 5.09% | 4.50% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 1.23% | 1.34% | 0.11% |
 | 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | 2.0% |  | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.2% |  | 6.3% |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (YoY) (Dec) | 4.7% |  | 4.5% |
 | 14:00 | USD | Low | House Price Index (MoM) (Dec) | 0.4% | 0.2% | 0.4% |
+| 14:00 | USD | Low | House Price Index (YoY) (Dec) | 4.7% |  | 4.5% |
 | 14:00 | USD | Low | House Price Index (Dec) | 436.1 |  | 434.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.1% |  | -0.1% |
@@ -48,4 +48,4 @@
 | 18:00 | USD | Moderate | 5-Year Note Auction | 4.123% |  | 4.330% |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jan) | 21.56T |  | 21.53T |
-| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.300M | 3.339M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.300M | 3.339M |

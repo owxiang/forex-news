@@ -11,4 +11,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 4.5% | 4.4% | 4.3% |
 | 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction | 4.123% |  | 4.330% |
-| 25 min | USD | API Weekly Crude Oil Stock |  | 2.300M | 3.339M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.300M | 3.339M |
