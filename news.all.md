@@ -13,8 +13,8 @@
 | 05:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 1.5% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jan) |  |  | 37.8% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) |  |  | -14.40 |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.2% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.2% | -0.2% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.2% |
 | 07:00 | ZAR | Low | Leading Indicators (Dec) |  |  | 114.70% |
 | 08:30 | HKD | Low | Exports (MoM) (Jan) |  |  | 5.2% |
 | 08:30 | HKD | Low | Imports (MoM) (Jan) |  |  | -1.1% |
@@ -30,8 +30,8 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 4.2% |
 | 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
+| 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 4.2% |
 | 14:00 | USD | Low | House Price Index (Dec) |  |  | 433.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.1% |

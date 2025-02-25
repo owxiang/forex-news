@@ -24,8 +24,8 @@
 | 12:00 | BRL | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
-| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 4.2% |
 | 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
+| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 4.2% |
 | 14:00 | USD | House Price Index (Dec) |  |  | 433.4 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.4% |
 | 14:00 | MXN | Current Account (USD) (Q4) |  |  | 733M |
