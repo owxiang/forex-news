@@ -11,8 +11,8 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jan) | -37.6% |  | 37.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) | -7.50 |  | -12.40 |
 | 07:00 | EUR | High | German GDP (QoQ) (Q4) | -0.2% | -0.2% | 0.1% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.3% |
@@ -24,9 +24,9 @@
 | 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) | -23 | -21 | -24 |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 1.34% | 0.11% |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 5.09% | 4.50% |
-| 13:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) | 4.96% | 5.09% | 4.50% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 1.23% | 1.34% | 0.11% |
+| 50 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  |  | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
@@ -34,8 +34,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.2% | 0.3% |
 | 14:00 | USD | Low | House Price Index (Dec) |  |  | 433.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) |  | 4.4% | 4.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) |  | 4.4% | 4.3% |
 | 14:00 | MXN | Low | Current Account (USD) (Q4) |  |  | 733M |
 | 14:00 | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.20% |
 | 15:00 | USD | High | CB Consumer Confidence (Feb) |  | 102.7 | 104.1 |
