@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Construction Work Done (QoQ) (Q4) | 0.5% | 1.0% | 2.0% |
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.0% | 1.9% |
-| 51 min | EUR | GfK German Consumer Climate (Mar) |  | -21.7 | -22.4 |
+| 07:00 | EUR | GfK German Consumer Climate (Mar) | -24.7 | -21.7 | -22.6 |
 | 13:00 | USD | Building Permits (Jan) |  | 1.483M | 1.482M |
 | 13:30 | CAD | Wholesale Sales (MoM) (Jan) |  |  | -0.2% |
 | 15:00 | USD | Cushing Crude Oil Inventories |  |  | 1.472M |
