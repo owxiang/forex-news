@@ -17,8 +17,8 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) |  |  | 2.3% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.0% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.6% |
-| 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.0% |
+| 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.1% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.8% | 0.8% |
 | 08:30 | HKD | Low | GDP (YoY) (Q4) |  | 2.4% | 2.4% |
 | 09:00 | CHF | Low | ZEW Expectations |  |  | 17.7 |
