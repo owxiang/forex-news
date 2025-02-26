@@ -3,21 +3,21 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Jan) | 2.50% | 2.60% | 2.50% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  | 1.4% | -1.4% |
-| 05:00 | JPY | Leading Index (MoM) (Dec) |  | 1.1% | -1.6% |
-| 05:00 | JPY | Leading Index (Dec) |  | 108.9 | 107.5 |
-| 05:00 | SGD | Industrial Production (YoY) (Jan) |  | 9.8% | 10.6% |
-| 05:00 | SGD | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
+| 53 min | JPY | Coincident Indicator (MoM) (Dec) |  | 1.4% | -1.4% |
+| 53 min | JPY | Leading Index (MoM) (Dec) |  | 1.1% | -1.6% |
+| 53 min | JPY | Leading Index (Dec) |  | 108.9 | 107.5 |
+| 53 min | SGD | Industrial Production (YoY) (Jan) |  | 9.8% | 10.6% |
+| 53 min | SGD | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
 | 07:00 | NOK | M3 Money Supply (Jan) |  |  | 3,185.9B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 3.3% |
 | 07:45 | EUR | French Consumer Confidence (Feb) |  | 93 | 92 |
 | 08:00 | EUR | Spanish PPI (YoY) (Jan) |  |  | 2.3% |
 | 08:00 | ZAR | Core CPI (MoM) (Jan) |  |  | 0.0% |
 | 08:00 | ZAR | Core CPI (YoY) (Jan) |  |  | 3.6% |
-| 08:00 | ZAR | CPI (YoY) (Jan) |  |  | 3.0% |
 | 08:00 | ZAR | CPI (MoM) (Jan) |  |  | 0.1% |
-| 08:30 | HKD | GDP (QoQ) (Q4) |  | 0.8% | 0.8% |
-| 08:30 | HKD | GDP (YoY) (Q4) |  | 2.4% | 2.4% |
+| 08:00 | ZAR | CPI (YoY) (Jan) |  |  | 3.0% |
+| 08:30 | HKD | GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
+| 08:30 | HKD | GDP (YoY) (Q4) | 2.4% | 2.4% | 2.4% |
 | 09:00 | CHF | ZEW Expectations |  |  | 17.7 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.536% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
