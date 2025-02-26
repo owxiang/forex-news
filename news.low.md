@@ -1,39 +1,40 @@
-## 25 February 2025 - Low Impact Forex News
+## 26 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 01:00 | KRW | Interest Rate Decision (Feb) | 2.75% | 2.75% | 3.00% |
-| 02:45 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 05:00 | GBP | Car Registration (YoY) (Jan) | -2.5% |  | -0.2% |
-| 05:00 | GBP | Car Registration (MoM) (Jan) | -1.0% |  | -8.3% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Jan) | -5.8% |  | -4.9% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jan) | 26.4% |  | -14.9% |
-| 05:00 | EUR | German Car Registration (MoM) (Jan) | -7.6% |  | -8.1% |
-| 05:00 | EUR | German Car Registration (YoY) (Jan) | -2.8% |  | -7.1% |
-| 05:00 | EUR | French Car Registration (YoY) (Jan) | -6.2% |  | 1.5% |
-| 05:00 | EUR | French Car Registration (MoM) (Jan) | -37.6% |  | 37.8% |
-| 05:30 | NOK | Consumer Confidence (Q1) | -7.50 |  | -12.40 |
-| 07:00 | ZAR | Leading Indicators (Dec) | 112.80% |  | 114.70% |
-| 08:30 | HKD | Exports (MoM) (Jan) | 0.1% |  | 5.2% |
-| 08:30 | HKD | Imports (MoM) (Jan) | 0.5% |  | -1.1% |
-| 08:30 | HKD | Trade Balance (Jan) | 2.1B |  | -34.5B |
-| 09:15 | USD | Fed Logan Speaks |  |  |  |
-| 11:00 | GBP | CBI Distributive Trades Survey (Feb) | -23 | -21 | -24 |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Feb) | 1.23% | 1.34% | 0.11% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) | 4.96% | 5.09% | 4.50% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jan) | 2.0% |  | 0.3% |
-| 13:55 | USD | Redbook (YoY) | 6.2% |  | 6.3% |
-| 14:00 | USD | House Price Index (YoY) (Dec) | 4.7% |  | 4.5% |
-| 14:00 | USD | House Price Index (MoM) (Dec) | 0.4% | 0.2% | 0.4% |
-| 14:00 | USD | House Price Index (Dec) | 436.1 |  | 434.3 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.5% |  | 0.4% |
-| 15:00 | USD | Richmond Manufacturing Index (Feb) | 6 | -3 | -4 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Feb) | 12 |  | -9 |
-| 15:00 | USD | Richmond Services Index (Feb) | 11 |  | 4 |
-| 15:00 | MXN | Current Account (USD) (Q4) | 12,601M |  | 1,104M |
-| 15:00 | MXN | Current Account % of GDP (Q4) | 2.90% |  | 0.20% |
-| 15:30 | USD | Dallas Fed Services Revenues (Feb) | 8.2 |  | 5.7 |
-| 15:30 | USD | Texas Services Sector Outlook (Feb) | 4.6 |  | 7.4 |
-| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | M2 Money Supply (MoM) (Jan) | 21.56T |  | 21.53T |
+| 4 min | AUD | Monthly CPI Indicator (YoY) (Jan) |  | 2.60% | 2.50% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  | 1.4% | -1.4% |
+| 05:00 | JPY | Leading Index (Dec) |  | 108.9 | 107.5 |
+| 05:00 | JPY | Leading Index (MoM) (Dec) |  | 1.1% | -1.6% |
+| 05:00 | SGD | Industrial Production (YoY) (Jan) |  | 9.8% | 10.6% |
+| 05:00 | SGD | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
+| 07:00 | NOK | M3 Money Supply (Jan) |  |  | 3,185.9B |
+| 07:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 3.3% |
+| 07:45 | EUR | French Consumer Confidence (Feb) |  | 93 | 92 |
+| 08:00 | EUR | Spanish PPI (YoY) (Jan) |  |  | 2.3% |
+| 08:00 | ZAR | Core CPI (YoY) (Jan) |  |  | 3.6% |
+| 08:00 | ZAR | Core CPI (MoM) (Jan) |  |  | 0.0% |
+| 08:00 | ZAR | CPI (YoY) (Jan) |  |  | 3.0% |
+| 08:00 | ZAR | CPI (MoM) (Jan) |  |  | 0.1% |
+| 08:30 | HKD | GDP (YoY) (Q4) |  | 2.4% | 2.4% |
+| 08:30 | HKD | GDP (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 09:00 | CHF | ZEW Expectations |  |  | 17.7 |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.536% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.6% |
+| 12:00 | USD | MBA Purchase Index |  |  | 144.0 |
+| 12:00 | USD | Mortgage Market Index |  |  | 214.9 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 593.6 |
+| 13:00 | USD | Building Permits (MoM) (Jan) |  | 0.1% | -0.7% |
+| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.015M |
+| 15:00 | USD | Crude Oil Imports |  |  | -0.961M |
+| 15:00 | USD | Distillate Fuel Production |  |  | 0.180M |
+| 15:00 | USD | EIA Weekly Distillates Stocks |  | 0.030M | -2.051M |
+| 15:00 | USD | Gasoline Production |  |  | -0.156M |
+| 15:00 | USD | Heating Oil Stockpiles |  |  | -0.343M |
+| 15:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 15:00 | USD | Gasoline Inventories |  | -0.950M | -0.151M |
+| 16:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 48.00K | -535.55K |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -1.984B |

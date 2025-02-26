@@ -1,14 +1,13 @@
-## 25 February 2025 - Moderate Impact Forex News
+## 26 February 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.3% |
-| 10:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 14:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 4.5% | 4.4% | 4.3% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.1% |  | -0.1% |
-| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | USD | 5-Year Note Auction | 4.123% |  | 4.330% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -0.640M | 2.300M | 3.339M |
+| 4 min | AUD | Construction Work Done (QoQ) (Q4) |  | 1.0% | 1.6% |
+| 05:00 | JPY | BoJ Core CPI (YoY) |  | 2.0% | 1.9% |
+| 07:00 | EUR | GfK German Consumer Climate (Mar) |  | -21.6 | -22.4 |
+| 13:00 | USD | Building Permits (Jan) |  | 1.483M | 1.482M |
+| 13:30 | CAD | Wholesale Sales (MoM) (Jan) |  |  | -0.2% |
+| 15:00 | USD | Cushing Crude Oil Inventories |  |  | 1.472M |
+| 15:00 | USD | New Home Sales (MoM) (Jan) |  |  | 3.6% |
+| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 4.457% |

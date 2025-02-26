@@ -1,6 +1,6 @@
-## 25 February 2025 - High Impact Forex News
+## 26 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German GDP (QoQ) (Q4) | -0.2% | -0.2% | 0.1% |
-| 15:00 | USD | CB Consumer Confidence (Feb) | 98.3 | 102.7 | 105.3 |
+| 15:00 | USD | Crude Oil Inventories |  | 2.340M | 4.633M |
+| 15:00 | USD | New Home Sales (Jan) |  | 677K | 698K |
