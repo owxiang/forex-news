@@ -18,7 +18,7 @@
 | 08:00 | ZAR | Core CPI (MoM) (Jan) | 0.2% |  | 0.0% |
 | 08:00 | ZAR | CPI (YoY) (Jan) | 3.2% |  | 3.0% |
 | 08:00 | ZAR | CPI (MoM) (Jan) | 0.3% |  | 0.1% |
-| 52 min | CHF | ZEW Expectations |  |  | 17.7 |
+| 09:00 | CHF | ZEW Expectations (Feb) | 3.4 |  | 17.7 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.536% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.6% |
