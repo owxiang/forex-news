@@ -10,4 +10,4 @@
 | 15:00 | USD | Cushing Crude Oil Inventories | 1.282M |  | 1.472M |
 | 15:00 | USD | New Home Sales (MoM) (Jan) | -10.5% |  | 8.1% |
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 54 min | USD | 7-Year Note Auction |  |  | 4.457% |
+| 18:00 | USD | 7-Year Note Auction | 4.194% |  | 4.457% |
