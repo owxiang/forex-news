@@ -6,8 +6,8 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) |  | 1.4% | -1.4% |
 | 05:00 | JPY | Leading Index (MoM) (Dec) |  | 1.1% | -1.6% |
 | 05:00 | JPY | Leading Index (Dec) |  | 108.9 | 107.5 |
-| 05:00 | SGD | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
 | 05:00 | SGD | Industrial Production (YoY) (Jan) |  | 9.8% | 10.6% |
+| 05:00 | SGD | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
 | 07:00 | NOK | M3 Money Supply (Jan) |  |  | 3,185.9B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 3.3% |
 | 07:45 | EUR | French Consumer Confidence (Feb) |  | 93 | 92 |

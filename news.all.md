@@ -8,8 +8,8 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) |  | 1.4% | -1.4% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) |  | 1.1% | -1.6% |
 | 05:00 | JPY | Low | Leading Index (Dec) |  | 108.9 | 107.5 |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Jan) |  | 9.8% | 10.6% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) |  | -21.6 | -22.4 |
 | 07:00 | NOK | Low | M3 Money Supply (Jan) |  |  | 3,185.9B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 3.3% |
