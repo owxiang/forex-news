@@ -2,25 +2,25 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 4 min | AUD | Moderate | Construction Work Done (QoQ) (Q4) |  | 1.0% | 1.6% |
-| 4 min | AUD | Low | Monthly CPI Indicator (YoY) (Jan) |  | 2.60% | 2.50% |
+| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q4) | 0.5% | 1.0% | 2.0% |
+| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jan) | 2.50% | 2.60% | 2.50% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.0% | 1.9% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) |  | 1.4% | -1.4% |
-| 05:00 | JPY | Low | Leading Index (Dec) |  | 108.9 | 107.5 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) |  | 1.1% | -1.6% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Jan) |  | 9.8% | 10.6% |
+| 05:00 | JPY | Low | Leading Index (Dec) |  | 108.9 | 107.5 |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Jan) |  | -3.5% | -0.7% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Jan) |  | 9.8% | 10.6% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) |  | -21.6 | -22.4 |
 | 07:00 | NOK | Low | M3 Money Supply (Jan) |  |  | 3,185.9B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 3.3% |
 | 07:45 | EUR | Low | French Consumer Confidence (Feb) |  | 93 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) |  |  | 2.3% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.6% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.0% |
-| 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.0% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.6% |
 | 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.1% |
-| 08:30 | HKD | Low | GDP (YoY) (Q4) |  | 2.4% | 2.4% |
+| 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.0% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 08:30 | HKD | Low | GDP (YoY) (Q4) |  | 2.4% | 2.4% |
 | 09:00 | CHF | Low | ZEW Expectations |  |  | 17.7 |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.536% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |

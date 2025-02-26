@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | Construction Work Done (QoQ) (Q4) |  | 1.0% | 1.6% |
+| 00:30 | AUD | Construction Work Done (QoQ) (Q4) | 0.5% | 1.0% | 2.0% |
 | 05:00 | JPY | BoJ Core CPI (YoY) |  | 2.0% | 1.9% |
 | 07:00 | EUR | GfK German Consumer Climate (Mar) |  | -21.6 | -22.4 |
 | 13:00 | USD | Building Permits (Jan) |  | 1.483M | 1.482M |
