@@ -10,8 +10,8 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Dec) | 1.0% | 1.4% | -1.4% |
 | 05:00 | JPY | Low | Leading Index (Dec) | 108.3 | 108.9 | 107.5 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 0.5% | 1.1% | -1.6% |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | 4.5% | -3.5% | -5.4% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 9.1% | 9.8% | 5.2% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | 4.5% | -3.5% | -5.4% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) | -24.7 | -21.7 | -22.6 |
 | 07:00 | NOK | Low | M3 Money Supply (Jan) | 3,263.1B |  | 3,192.9B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jan) | 3.6% |  | 3.4% |
@@ -45,7 +45,7 @@
 | 15:00 | USD | Low | Gasoline Inventories | 0.369M | -0.950M | -0.151M |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jan) | -10.5% |  | 8.1% |
 | 15:00 | USD | High | New Home Sales (Jan) | 657K | 679K | 734K |
-| 23 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 53 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.984B |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.457% |
+| 16:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -1.984B |
+| 54 min | USD | Moderate | 7-Year Note Auction |  |  | 4.457% |

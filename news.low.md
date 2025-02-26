@@ -8,8 +8,8 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Dec) | 1.0% | 1.4% | -1.4% |
 | 05:00 | JPY | Leading Index (Dec) | 108.3 | 108.9 | 107.5 |
 | 05:00 | JPY | Leading Index (MoM) (Dec) | 0.5% | 1.1% | -1.6% |
-| 05:00 | SGD | Industrial Production (MoM) (Jan) | 4.5% | -3.5% | -5.4% |
 | 05:00 | SGD | Industrial Production (YoY) (Jan) | 9.1% | 9.8% | 5.2% |
+| 05:00 | SGD | Industrial Production (MoM) (Jan) | 4.5% | -3.5% | -5.4% |
 | 07:00 | NOK | M3 Money Supply (Jan) | 3,263.1B |  | 3,192.9B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jan) | 3.6% |  | 3.4% |
 | 07:45 | EUR | French Consumer Confidence (Feb) | 93 | 93 | 92 |
@@ -36,5 +36,5 @@
 | 15:00 | USD | Heating Oil Stockpiles | 0.134M |  | -0.343M |
 | 15:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -0.1% |
 | 15:00 | USD | Gasoline Inventories | 0.369M | -0.950M | -0.151M |
-| 23 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -1.984B |
+| 16:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -1.984B |
