@@ -12,15 +12,15 @@
 | 05:00 | JPY | Low | Leading Index (MoM) (Dec) | 0.5% | 1.1% | -1.6% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | 4.5% | -3.5% | -5.4% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 9.1% | 9.8% | 5.2% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) |  | -21.7 | -22.4 |
-| 07:00 | NOK | Low | M3 Money Supply (Jan) |  |  | 3,185.9B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 3.3% |
+| 51 min | EUR | Moderate | GfK German Consumer Climate (Mar) |  | -21.7 | -22.4 |
+| 51 min | NOK | Low | M3 Money Supply (Jan) |  |  | 3,185.9B |
+| 51 min | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 3.3% |
 | 07:45 | EUR | Low | French Consumer Confidence (Feb) |  | 93 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) |  |  | 2.3% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Jan) |  |  | 3.6% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Jan) |  |  | 0.0% |
-| 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.0% |
 | 08:00 | ZAR | Low | CPI (MoM) (Jan) |  |  | 0.1% |
+| 08:00 | ZAR | Low | CPI (YoY) (Jan) |  |  | 3.0% |
 | 09:00 | CHF | Low | ZEW Expectations |  |  | 17.7 |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.536% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |
@@ -42,8 +42,8 @@
 | 15:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.343M |
 | 15:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
 | 15:00 | USD | Low | Gasoline Inventories |  | -0.950M | -0.151M |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | 3.6% |
 | 15:00 | USD | High | New Home Sales (Jan) |  | 679K | 698K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | 3.6% |
 | 16:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 48.00K | -535.55K |
