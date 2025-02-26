@@ -33,18 +33,18 @@
 | 13:00 | USD | Moderate | Building Permits (Jan) | 1.473M | 1.483M | 1.482M |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | 1.8% |  | -0.2% |
-| 54 min | USD | High | Crude Oil Inventories |  | 2.500M | 4.633M |
-| 54 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.015M |
-| 54 min | USD | Low | Crude Oil Imports |  |  | -0.961M |
-| 54 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.472M |
-| 54 min | USD | Low | Distillate Fuel Production |  |  | 0.180M |
-| 54 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.030M | -2.051M |
-| 54 min | USD | Low | Gasoline Production |  |  | -0.156M |
-| 54 min | USD | Low | Heating Oil Stockpiles |  |  | -0.343M |
-| 54 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 54 min | USD | Low | Gasoline Inventories |  | -0.950M | -0.151M |
-| 54 min | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | 3.6% |
-| 54 min | USD | High | New Home Sales (Jan) |  | 679K | 698K |
+| 15:00 | USD | High | New Home Sales (Jan) | 657K | 679K | 734K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jan) | -10.5% |  | 8.1% |
+| 23 min | USD | High | Crude Oil Inventories |  | 2.500M | 4.633M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.015M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -0.961M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.472M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.180M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.030M | -2.051M |
+| 23 min | USD | Low | Gasoline Production |  |  | -0.156M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.343M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 23 min | USD | Low | Gasoline Inventories |  | -0.950M | -0.151M |
 | 16:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.984B |

@@ -28,13 +28,13 @@
 | 12:30 | BRL | CAGED Net Payroll Jobs (Jan) | 137.30K | 48.00K | -535.55K |
 | 13:00 | USD | Building Permits (MoM) (Jan) | -0.6% | 0.1% | -0.7% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.015M |
-| 54 min | USD | Crude Oil Imports |  |  | -0.961M |
-| 54 min | USD | Distillate Fuel Production |  |  | 0.180M |
-| 54 min | USD | EIA Weekly Distillates Stocks |  | 0.030M | -2.051M |
-| 54 min | USD | Gasoline Production |  |  | -0.156M |
-| 54 min | USD | Heating Oil Stockpiles |  |  | -0.343M |
-| 54 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 54 min | USD | Gasoline Inventories |  | -0.950M | -0.151M |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.015M |
+| 23 min | USD | Crude Oil Imports |  |  | -0.961M |
+| 23 min | USD | Distillate Fuel Production |  |  | 0.180M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | 0.030M | -2.051M |
+| 23 min | USD | Gasoline Production |  |  | -0.156M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | -0.343M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 23 min | USD | Gasoline Inventories |  | -0.950M | -0.151M |
 | 16:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -1.984B |
