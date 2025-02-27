@@ -20,6 +20,6 @@
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) | -4.6% | -0.9% | -4.1% |
 | 16:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 6,782B |
+| 21:30 | USD | Fed's Balance Sheet | 6,766B |  | 6,782B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Feb) |  | 2.3% | 2.5% |
 | 23:50 | JPY | Industrial Production (MoM) (Jan) |  | -1.0% | -0.2% |

@@ -76,8 +76,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 16:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,782B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.276T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,766B |  | 6,782B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.380T |  | 3.276T |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Feb) |  | 2.3% | 2.5% |
 | 23:30 | JPY | Low | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |

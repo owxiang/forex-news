@@ -55,7 +55,7 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) | -13 |  | -9 |
 | 16:30 | USD | 4-Week Bill Auction | 4.235% |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.235% |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.276T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.380T |  | 3.276T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
 | 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |
 | 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.2% |
