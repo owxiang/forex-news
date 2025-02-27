@@ -19,11 +19,11 @@
 | 09:00 | EUR | M3 Money Supply (Jan) | 16,754.9B |  | 16,726.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jan) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Jan) | 1.3% | 1.2% | 1.1% |
-| 09:30 | ZAR | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 09:30 | ZAR | PPI (MoM) (Jan) | 0.5% |  | 0.2% |
+| 09:30 | ZAR | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.836% |  | 4.558% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
 | 10:00 | EUR | Business and Consumer Survey (Feb) | 96.3 | 96.0 | 95.3 |
 | 10:00 | EUR | Business Climate (Feb) | -0.74 |  | -0.92 |
 | 10:00 | EUR | Consumer Confidence (Feb) | -13.6 | -13.6 | -14.2 |
@@ -31,15 +31,15 @@
 | 10:00 | EUR | Selling Price Expectations (Feb) | 9.8 |  | 8.8 |
 | 10:00 | EUR | Services Sentiment (Feb) | 6.2 | 6.8 | 6.7 |
 | 10:00 | EUR | Industrial Sentiment (Feb) | -11.4 | -12.0 | -12.7 |
-| 23 min | EUR | Italian 5-Year BTP Auction |  |  | 2.95% |
-| 53 min | BRL | IGP-M Inflation Index (MoM) (Feb) |  | 1.03% | 0.27% |
-| 11:30 | BRL | Current Account (USD) (Jan) |  | -8.30B | -9.00B |
-| 11:30 | BRL | Foreign direct investment (USD) (Jan) |  | 6.55B | 2.80B |
-| 12:00 | MXN | Trade Balance (Jan) |  | -3.800B | 2.567B |
-| 12:00 | MXN | Trade Balance (USD) (Jan) |  |  | -0.684B |
-| 12:00 | MXN | Unemployment Rate (Jan) |  |  | 2.60% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Jan) |  | 2.70% | 2.40% |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 10:30 | EUR | Italian 5-Year BTP Auction | 2.93% |  | 2.95% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Feb) | 1.06% | 1.03% | 0.27% |
+| 24 min | BRL | Current Account (USD) (Jan) |  | -8.30B | -9.00B |
+| 24 min | BRL | Foreign direct investment (USD) (Jan) |  | 6.55B | 2.80B |
+| 54 min | MXN | Trade Balance (Jan) |  | -3.800B | 2.567B |
+| 54 min | MXN | Trade Balance (USD) (Jan) |  |  | -0.684B |
+| 54 min | MXN | Unemployment Rate (Jan) |  |  | 2.60% |
+| 54 min | MXN | Unemployment Rate n.s.a. (Jan) |  | 2.70% | 2.40% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
 | 13:30 | USD | Durables Excluding Transport (MoM) (Jan) |  | 0.3% | 0.3% |

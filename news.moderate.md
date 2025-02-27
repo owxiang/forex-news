@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
-| 08:00 | CHF | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | CHF | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
+| 08:00 | CHF | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
-| 23 min | EUR | Italian 10-Year BTP Auction |  |  | 3.60% |
-| 53 min | EUR | France Jobseekers Total (Jan) |  |  | 2,957.0K |
-| 12:00 | BRL | Unemployment Rate (Jan) |  | 6.6% | 6.2% |
+| 10:30 | EUR | Italian 10-Year BTP Auction | 3.55% |  | 3.60% |
+| 11:00 | EUR | France Jobseekers Total (Jan) | 3,162.0K |  | 2,957.0K |
+| 54 min | BRL | Unemployment Rate (Jan) |  | 6.6% | 6.2% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,869K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.3% |
