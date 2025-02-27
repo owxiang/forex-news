@@ -5,18 +5,17 @@
 | 00:00 | NZD | Low | ANZ Business Confidence (Feb) | 58.4 |  | 54.4 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Feb) | 45.1% |  | 45.8% |
 | 00:30 | AUD | Low | Building Capital Expenditure (MoM) (Q4) | 0.2% |  | 1.1% |
-| 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.1% |
-| 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.1% |
+| 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.3% |
+| 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 0.826% |  | 0.727% |
-| 54 min | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) |  |  | 4.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -3.80% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) |  | 1.6% | 2.0% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.4% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  |  | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.8% | 2.9% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Feb) |  |  | 11K |
@@ -29,10 +28,11 @@
 | 09:00 | EUR | Low | M3 Money Supply (Jan) |  |  | 16,726.4B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) |  |  | 1.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) |  | 1.2% | 1.1% |
-| 09:30 | ZAR | Low | PPI (YoY) (Jan) |  |  | 0.7% |
 | 09:30 | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
+| 09:30 | ZAR | Low | PPI (YoY) (Jan) |  |  | 0.7% |
+| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.558% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Feb) |  | 96.0 | 95.2 |
 | 10:00 | EUR | Low | Business Climate (Feb) |  |  | -0.94 |
 | 10:00 | EUR | Low | Consumer Confidence (Feb) |  | -13.6 | -14.2 |
@@ -53,11 +53,13 @@
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | BRL | Moderate | Unemployment Rate (Jan) |  | 6.6% | 6.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,869K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.3% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.20% | 2.50% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jan) |  | 2.0% | -2.2% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
+| 13:30 | USD | Low | Durables Excluding Transport (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | High | GDP (QoQ) (Q4) |  | 2.3% | 3.1% |
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.2% | 1.9% |
 | 13:30 | USD | Low | GDP Sales (Q4) |  | 3.2% | 3.3% |

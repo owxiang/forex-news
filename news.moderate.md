@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.1% |
+| 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
 | 08:00 | CHF | GDP (YoY) (Q4) |  | 1.6% | 2.0% |
 | 08:00 | CHF | GDP (QoQ) (Q4) |  | 0.2% | 0.4% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
@@ -15,7 +15,7 @@
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,869K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.3% |
-| 13:30 | USD | Core PCE Prices (Q4) |  | 2.20% | 2.50% |
+| 13:30 | USD | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 2.2% | 1.9% |
 | 13:30 | CAD | Current Account (Q4) |  | -3.2B | -3.2B |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
