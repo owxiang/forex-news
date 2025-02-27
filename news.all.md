@@ -7,11 +7,11 @@
 | 00:30 | AUD | Low | Building Capital Expenditure (MoM) (Q4) | 0.2% |  | 1.1% |
 | 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.1% |
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.1% |
-| 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.727% |
+| 23 min | JPY | Low | 2-Year JGB Auction |  |  | 0.727% |
 | 05:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) |  |  | 4.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -3.80% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 1.0% |
+| 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -3.80% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) |  | 1.6% | 2.0% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.4% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  |  | 2.4% |
@@ -29,8 +29,8 @@
 | 09:00 | EUR | Low | M3 Money Supply (Jan) |  |  | 16,726.4B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) |  |  | 1.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) |  | 1.2% | 1.1% |
-| 09:30 | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Jan) |  |  | 0.7% |
+| 09:30 | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Feb) |  | 96.0 | 95.2 |
