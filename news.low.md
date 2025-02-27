@@ -36,19 +36,19 @@
 | 11:30 | BRL | Current Account (USD) (Jan) | -8.65B | -8.30B | -9.00B |
 | 11:30 | BRL | Foreign direct investment (USD) (Jan) | 6.50B | 6.55B | 2.80B |
 | 12:00 | MXN | Trade Balance (Jan) | -4.558B | -3.800B | 2.567B |
-| 12:00 | MXN | Trade Balance (USD) (Jan) | -0.423B |  | -0.684B |
+| 12:00 | MXN | Trade Balance (USD) (Jan) | -0.423B |  | -0.681B |
 | 12:00 | MXN | Unemployment Rate (Jan) | 2.60% |  | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Jan) | 2.70% | 2.70% | 2.40% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 50 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 13:30 | USD | Durables Excluding Transport (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | GDP Sales (Q4) |  | 3.2% | 3.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.3% | 0.5% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 215.25K |
-| 13:30 | USD | PCE Prices (Q4) |  | 2.3% | 1.5% |
-| 13:30 | USD | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 5.03% |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 19 min | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
+| 19 min | USD | Durables Excluding Transport (MoM) (Jan) |  | 0.3% | 0.3% |
+| 19 min | USD | GDP Sales (Q4) |  | 3.2% | 3.3% |
+| 19 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.3% | 0.5% |
+| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 215.25K |
+| 19 min | USD | PCE Prices (Q4) |  | 2.3% | 1.5% |
+| 19 min | USD | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
+| 19 min | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 5.03% |
 | 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 74.2 |
 | 15:30 | USD | Natural Gas Storage |  | -276B | -196B |
 | 16:00 | USD | KC Fed Composite Index (Feb) |  |  | -5 |
