@@ -18,7 +18,7 @@
 | 13:30 | CAD | Current Account (Q4) | -5.0B | -3.2B | -3.6B |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) | -4.6% | -0.9% | -4.1% |
-| 38 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 16:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,782B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Feb) |  | 2.3% | 2.5% |
