@@ -16,16 +16,16 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) | 87.0 | 87.0 | 86.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) | 98.8 | 98.4 | 98.2 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jan) | 3.6% | 3.8% | 3.5% |
 | 09:00 | EUR | Low | M3 Money Supply (Jan) | 16,754.9B |  | 16,726.4B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) | 1.3% | 1.2% | 1.1% |
-| 09:30 | ZAR | Low | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 09:30 | ZAR | Low | PPI (MoM) (Jan) | 0.5% |  | 0.2% |
+| 09:30 | ZAR | Low | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.836% |  | 4.558% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |

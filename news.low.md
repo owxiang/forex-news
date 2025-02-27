@@ -19,8 +19,8 @@
 | 09:00 | EUR | M3 Money Supply (Jan) | 16,754.9B |  | 16,726.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jan) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Jan) | 1.3% | 1.2% | 1.1% |
-| 09:30 | ZAR | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 09:30 | ZAR | PPI (MoM) (Jan) | 0.5% |  | 0.2% |
+| 09:30 | ZAR | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.836% |  | 4.558% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
