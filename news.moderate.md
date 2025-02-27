@@ -16,8 +16,8 @@
 | 13:30 | USD | Core PCE Prices (Q4) | 2.70% | 2.50% | 2.20% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) | 2.4% | 2.2% | 1.9% |
 | 13:30 | CAD | Current Account (Q4) | -5.0B | -3.2B | -3.6B |
-| 54 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 54 min | USD | Pending Home Sales (MoM) (Jan) |  | -0.9% | -5.5% |
+| 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Pending Home Sales (MoM) (Jan) | -4.6% | -0.9% | -4.1% |
 | 16:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,782B |
