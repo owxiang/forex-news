@@ -9,37 +9,37 @@
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 0.826% |  | 0.727% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
+| 07:45 | EUR | Low | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) | 87.0 | 87.0 | 86.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) | 98.8 | 98.4 | 98.2 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jan) | 3.6% | 3.8% | 3.5% |
-| 09:00 | EUR | Low | M3 Money Supply (Jan) |  |  | 16,726.4B |
+| 09:00 | EUR | Low | M3 Money Supply (Jan) | 16,754.9B |  | 16,726.4B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) | 1.3% | 1.2% | 1.1% |
-| 23 min | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
-| 23 min | ZAR | Low | PPI (YoY) (Jan) |  |  | 0.7% |
-| 53 min | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.558% |
-| 53 min | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
-| 53 min | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
-| 53 min | EUR | Low | Business and Consumer Survey (Feb) |  | 96.0 | 95.2 |
-| 53 min | EUR | Low | Business Climate (Feb) |  |  | -0.94 |
-| 53 min | EUR | Low | Consumer Confidence (Feb) |  | -13.6 | -14.2 |
-| 53 min | EUR | Low | Consumer Inflation Expectation (Feb) |  |  | 20.2 |
-| 53 min | EUR | Low | Selling Price Expectations (Feb) |  |  | 8.7 |
-| 53 min | EUR | Low | Services Sentiment (Feb) |  | 6.8 | 6.6 |
-| 53 min | EUR | Low | Industrial Sentiment (Feb) |  | -12.0 | -12.9 |
-| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.60% |
-| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.95% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Jan) |  |  | 2,957.0K |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Feb) |  | 1.03% | 0.27% |
+| 09:30 | ZAR | Low | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
+| 09:30 | ZAR | Low | PPI (MoM) (Jan) | 0.5% |  | 0.2% |
+| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.836% |  | 4.558% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Feb) | 96.3 | 96.0 | 95.3 |
+| 10:00 | EUR | Low | Business Climate (Feb) | -0.74 |  | -0.92 |
+| 10:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 | -13.6 | -14.2 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Feb) | 21.1 |  | 20.2 |
+| 10:00 | EUR | Low | Selling Price Expectations (Feb) | 9.8 |  | 8.8 |
+| 10:00 | EUR | Low | Services Sentiment (Feb) | 6.2 | 6.8 | 6.7 |
+| 10:00 | EUR | Low | Industrial Sentiment (Feb) | -11.4 | -12.0 | -12.7 |
+| 23 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.60% |
+| 23 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.95% |
+| 53 min | EUR | Moderate | France Jobseekers Total (Jan) |  |  | 2,957.0K |
+| 53 min | BRL | Low | IGP-M Inflation Index (MoM) (Feb) |  | 1.03% | 0.27% |
 | 11:30 | BRL | Low | Current Account (USD) (Jan) |  | -8.30B | -9.00B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Jan) |  | 6.55B | 2.80B |
 | 12:00 | MXN | Low | Trade Balance (Jan) |  | -3.800B | 2.567B |
