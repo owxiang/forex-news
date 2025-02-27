@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Business Confidence (Feb) | 58.4 |  | 54.4 |
 | 00:00 | NZD | NBNZ Own Activity (Feb) | 45.1% |  | 45.8% |
-| 4 min | AUD | Building Capital Expenditure (MoM) (Q4) |  |  | 1.1% |
-| 4 min | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) |  |  | 1.1% |
+| 00:30 | AUD | Building Capital Expenditure (MoM) (Q4) | 0.2% |  | 1.1% |
+| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.1% |
 | 03:35 | JPY | 2-Year JGB Auction |  |  | 0.727% |
 | 05:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 07:00 | NOK | Unemployment Rate (Jan) |  |  | 4.2% |
-| 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 07:45 | EUR | PPI (YoY) (Jan) |  |  | -3.80% |
+| 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
@@ -18,14 +18,14 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
 | 09:00 | EUR | Italian Business Confidence (Feb) |  | 87.0 | 86.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 98.4 | 98.2 |
-| 09:00 | EUR | M3 Money Supply (Jan) |  |  | 16,726.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 3.8% | 3.5% |
+| 09:00 | EUR | M3 Money Supply (Jan) |  |  | 16,726.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jan) |  |  | 1.5% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Jan) |  | 1.2% | 1.1% |
 | 09:30 | ZAR | PPI (MoM) (Jan) |  |  | 0.2% |
 | 09:30 | ZAR | PPI (YoY) (Jan) |  |  | 0.7% |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
 | 10:00 | EUR | Business and Consumer Survey (Feb) |  | 96.0 | 95.2 |
 | 10:00 | EUR | Business Climate (Feb) |  |  | -0.94 |
 | 10:00 | EUR | Consumer Confidence (Feb) |  | -13.6 | -14.2 |

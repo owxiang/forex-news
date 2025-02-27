@@ -4,35 +4,35 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Business Confidence (Feb) | 58.4 |  | 54.4 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Feb) | 45.1% |  | 45.8% |
-| 4 min | AUD | Low | Building Capital Expenditure (MoM) (Q4) |  |  | 1.1% |
-| 4 min | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) |  |  | 1.1% |
-| 4 min | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) |  | 0.6% | 1.1% |
+| 00:30 | AUD | Low | Building Capital Expenditure (MoM) (Q4) | 0.2% |  | 1.1% |
+| 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.1% |
+| 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.1% |
 | 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.727% |
 | 05:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) |  |  | 4.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -3.80% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.4% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) |  | 1.6% | 2.0% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.4% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.8% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.8% | 2.9% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Feb) |  |  | 11K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Feb) |  |  | 6.2% |
 | 08:55 | EUR | Low | German Unemployment (Feb) |  |  | 2.880M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) |  | 87.0 | 86.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) |  | 98.4 | 98.2 |
-| 09:00 | EUR | Low | M3 Money Supply (Jan) |  |  | 16,726.4B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jan) |  | 3.8% | 3.5% |
+| 09:00 | EUR | Low | M3 Money Supply (Jan) |  |  | 16,726.4B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) |  |  | 1.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) |  | 1.2% | 1.1% |
 | 09:30 | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Jan) |  |  | 0.7% |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Feb) |  | 96.0 | 95.2 |
 | 10:00 | EUR | Low | Business Climate (Feb) |  |  | -0.94 |
 | 10:00 | EUR | Low | Consumer Confidence (Feb) |  | -13.6 | -14.2 |
