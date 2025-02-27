@@ -8,14 +8,14 @@
 | 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.3% |
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 0.826% |  | 0.727% |
-| 07:00 | NOK | Low | Unemployment Rate (Jan) |  |  | 4.2% |
+| 52 min | NOK | Low | Unemployment Rate (Jan) |  |  | 4.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -3.80% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) |  | 1.6% | 2.0% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.2% | 0.4% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.8% | 2.9% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Feb) |  |  | 11K |
@@ -31,8 +31,8 @@
 | 09:30 | ZAR | Low | PPI (MoM) (Jan) |  |  | 0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Jan) |  |  | 0.7% |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.558% |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Feb) |  | 96.0 | 95.2 |
 | 10:00 | EUR | Low | Business Climate (Feb) |  |  | -0.94 |
 | 10:00 | EUR | Low | Consumer Confidence (Feb) |  | -13.6 | -14.2 |
