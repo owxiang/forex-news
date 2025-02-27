@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
-| 08:00 | CHF | GDP (YoY) (Q4) |  | 1.6% | 2.0% |
-| 08:00 | CHF | GDP (QoQ) (Q4) |  | 0.2% | 0.4% |
-| 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
-| 08:00 | EUR | Spanish HICP (YoY) (Feb) |  | 2.8% | 2.9% |
-| 08:55 | EUR | German Unemployment Change (Feb) |  |  | 11K |
-| 08:55 | EUR | German Unemployment Rate (Feb) |  |  | 6.2% |
+| 08:00 | CHF | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
+| 08:00 | CHF | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
+| 08:00 | EUR | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
+| 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
+| 46 min | EUR | German Unemployment Change (Feb) |  |  | 11K |
+| 46 min | EUR | German Unemployment Rate (Feb) |  |  | 6.2% |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.60% |
 | 11:00 | EUR | France Jobseekers Total (Jan) |  |  | 2,957.0K |
 | 12:00 | BRL | Unemployment Rate (Jan) |  | 6.6% | 6.2% |

@@ -8,19 +8,19 @@
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.3% |
 | 03:35 | JPY | 2-Year JGB Auction | 0.826% |  | 0.727% |
 | 07:00 | NOK | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
-| 07:45 | EUR | PPI (YoY) (Jan) |  |  | -3.80% |
-| 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 1.0% |
-| 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 2.4% |
-| 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.2% |
-| 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
-| 08:55 | EUR | German Unemployment (Feb) |  |  | 2.880M |
-| 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
-| 09:00 | EUR | Italian Business Confidence (Feb) |  | 87.0 | 86.8 |
-| 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 98.4 | 98.2 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 3.8% | 3.5% |
-| 09:00 | EUR | M3 Money Supply (Jan) |  |  | 16,726.4B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jan) |  |  | 1.5% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Jan) |  | 1.2% | 1.1% |
+| 07:45 | EUR | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
+| 07:45 | EUR | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
+| 08:00 | EUR | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
+| 46 min | EUR | German Unemployment (Feb) |  |  | 2.880M |
+| 46 min | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
+| 51 min | EUR | Italian Business Confidence (Feb) |  | 87.0 | 86.8 |
+| 51 min | EUR | Italian Consumer Confidence (Feb) |  | 98.4 | 98.2 |
+| 51 min | EUR | M3 Money Supply (Jan) |  |  | 16,726.4B |
+| 51 min | EUR | M3 Money Supply (YoY) (Jan) |  | 3.8% | 3.5% |
+| 51 min | EUR | Loans to Non Financial Corporations (Jan) |  |  | 1.5% |
+| 51 min | EUR | Private Sector Loans (YoY) (Jan) |  | 1.2% | 1.1% |
 | 09:30 | ZAR | PPI (MoM) (Jan) |  |  | 0.2% |
 | 09:30 | ZAR | PPI (YoY) (Jan) |  |  | 0.7% |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.558% |
