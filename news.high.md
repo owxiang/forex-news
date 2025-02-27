@@ -1,6 +1,7 @@
-## 26 February 2025 - High Impact Forex News
+## 27 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | Crude Oil Inventories | -2.332M | 2.500M | 4.633M |
-| 15:00 | USD | New Home Sales (Jan) | 657K | 679K | 734K |
+| 13:30 | USD | Durable Goods Orders (MoM) (Jan) |  | 2.0% | -2.2% |
+| 13:30 | USD | GDP (QoQ) (Q4) |  | 2.3% | 3.1% |
+| 13:30 | USD | Initial Jobless Claims |  | 222K | 219K |

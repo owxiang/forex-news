@@ -1,40 +1,68 @@
-## 26 February 2025 - Low Impact Forex News
+## 27 February 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Jan) | 2.50% | 2.60% | 2.50% |
-| 03:30 | HKD | GDP (YoY) (Q4) | 2.4% | 2.4% | 1.8% |
-| 03:30 | HKD | GDP (QoQ) (Q4) | 0.8% | 0.8% | -1.1% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Dec) | 1.0% | 1.4% | -1.4% |
-| 05:00 | JPY | Leading Index (MoM) (Dec) | 0.5% | 1.1% | -1.6% |
-| 05:00 | JPY | Leading Index (Dec) | 108.3 | 108.9 | 107.5 |
-| 05:00 | SGD | Industrial Production (MoM) (Jan) | 4.5% | -3.5% | -5.4% |
-| 05:00 | SGD | Industrial Production (YoY) (Jan) | 9.1% | 9.8% | 5.2% |
-| 07:00 | NOK | M3 Money Supply (Jan) | 3,263.1B |  | 3,192.9B |
-| 07:00 | NOK | Credit Indicator (YoY) (Jan) | 3.6% |  | 3.4% |
-| 07:45 | EUR | French Consumer Confidence (Feb) | 93 | 93 | 92 |
-| 08:00 | EUR | Spanish PPI (YoY) (Jan) | 2.6% |  | 2.3% |
-| 08:00 | ZAR | Core CPI (MoM) (Jan) | 0.2% |  | 0.0% |
-| 08:00 | ZAR | Core CPI (YoY) (Jan) | 3.5% |  | 3.6% |
-| 08:00 | ZAR | CPI (MoM) (Jan) | 0.3% |  | 0.1% |
-| 08:00 | ZAR | CPI (YoY) (Jan) | 3.2% |  | 3.0% |
-| 09:00 | CHF | ZEW Expectations (Feb) | 3.4 |  | 17.7 |
-| 10:10 | EUR | Italian 6-Month BOT Auction | 2.448% |  | 2.536% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.88% |  | 6.93% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.2% |  | -6.6% |
-| 12:00 | USD | MBA Purchase Index | 144.3 |  | 144.0 |
-| 12:00 | USD | Mortgage Market Index | 212.3 |  | 214.9 |
-| 12:00 | USD | Mortgage Refinance Index | 572.5 |  | 593.6 |
-| 12:30 | BRL | CAGED Net Payroll Jobs (Jan) | 137.30K | 48.00K | -535.55K |
-| 13:00 | USD | Building Permits (MoM) (Jan) | -0.6% | 0.1% | -0.7% |
-| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | USD | EIA Refinery Crude Runs (WoW) | 0.317M |  | -0.015M |
-| 15:00 | USD | Crude Oil Imports | 0.292M |  | -0.961M |
-| 15:00 | USD | Distillate Fuel Production | 0.439M |  | 0.180M |
-| 15:00 | USD | EIA Weekly Distillates Stocks | 3.908M | 0.030M | -2.051M |
-| 15:00 | USD | Gasoline Production | -0.020M |  | -0.156M |
-| 15:00 | USD | Heating Oil Stockpiles | 0.134M |  | -0.343M |
-| 15:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -0.1% |
-| 15:00 | USD | Gasoline Inventories | 0.369M | -0.950M | -0.151M |
-| 16:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 17:30 | BRL | Foreign Exchange Flows | 1.668B |  | -1.984B |
+| 00:00 | NZD | ANZ Business Confidence (Feb) | 58.4 |  | 54.4 |
+| 00:00 | NZD | NBNZ Own Activity (Feb) | 45.1% |  | 45.8% |
+| 4 min | AUD | Building Capital Expenditure (MoM) (Q4) |  |  | 1.1% |
+| 4 min | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) |  |  | 1.1% |
+| 03:35 | JPY | 2-Year JGB Auction |  |  | 0.727% |
+| 05:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
+| 07:00 | NOK | Unemployment Rate (Jan) |  |  | 4.2% |
+| 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 1.0% |
+| 07:45 | EUR | PPI (YoY) (Jan) |  |  | -3.80% |
+| 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
+| 08:55 | EUR | German Unemployment (Feb) |  |  | 2.880M |
+| 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
+| 09:00 | EUR | Italian Business Confidence (Feb) |  | 87.0 | 86.8 |
+| 09:00 | EUR | Italian Consumer Confidence (Feb) |  | 98.4 | 98.2 |
+| 09:00 | EUR | M3 Money Supply (Jan) |  |  | 16,726.4B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 3.8% | 3.5% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Jan) |  |  | 1.5% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Jan) |  | 1.2% | 1.1% |
+| 09:30 | ZAR | PPI (MoM) (Jan) |  |  | 0.2% |
+| 09:30 | ZAR | PPI (YoY) (Jan) |  |  | 0.7% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | 1.50% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -2.60% |
+| 10:00 | EUR | Business and Consumer Survey (Feb) |  | 96.0 | 95.2 |
+| 10:00 | EUR | Business Climate (Feb) |  |  | -0.94 |
+| 10:00 | EUR | Consumer Confidence (Feb) |  | -13.6 | -14.2 |
+| 10:00 | EUR | Consumer Inflation Expectation (Feb) |  |  | 20.2 |
+| 10:00 | EUR | Selling Price Expectations (Feb) |  |  | 8.7 |
+| 10:00 | EUR | Services Sentiment (Feb) |  | 6.8 | 6.6 |
+| 10:00 | EUR | Industrial Sentiment (Feb) |  | -12.0 | -12.9 |
+| 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 2.95% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Feb) |  | 1.03% | 0.27% |
+| 11:30 | BRL | Current Account (USD) (Jan) |  | -8.30B | -9.00B |
+| 11:30 | BRL | Foreign direct investment (USD) (Jan) |  | 6.55B | 2.80B |
+| 12:00 | MXN | Trade Balance (Jan) |  | -3.800B | 2.567B |
+| 12:00 | MXN | Trade Balance (USD) (Jan) |  |  | -0.684B |
+| 12:00 | MXN | Unemployment Rate (Jan) |  |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Jan) |  | 2.70% | 2.40% |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
+| 13:30 | USD | GDP Sales (Q4) |  | 3.2% | 3.3% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.3% | 0.5% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 215.25K |
+| 13:30 | USD | PCE Prices (Q4) |  | 2.3% | 1.5% |
+| 13:30 | USD | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 5.03% |
+| 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 74.2 |
+| 15:30 | USD | Natural Gas Storage |  | -276B | -196B |
+| 16:00 | USD | KC Fed Composite Index (Feb) |  |  | -5 |
+| 16:00 | USD | KC Fed Manufacturing Index (Feb) |  |  | -9 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.276T |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
+| 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.2% |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | 241.0B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -352.8B |
+| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 1.0% |
+| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 1.2% |
+| 23:50 | JPY | Large Retailers' Sales (MoM) (Jan) |  |  | -0.7% |
+| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
+| 23:50 | JPY | Retail Sales (YoY) (Jan) |  | 3.9% | 3.7% |
