@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
-| 08:00 | CHF | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | CHF | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
+| 08:00 | CHF | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.55% |  | 3.60% |
@@ -21,5 +21,5 @@
 | 16:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,766B |  | 6,782B |
-| 23:30 | JPY | Tokyo Core CPI (YoY) (Feb) |  | 2.3% | 2.5% |
-| 23:50 | JPY | Industrial Production (MoM) (Jan) |  | -1.0% | -0.2% |
+| 24 min | JPY | Tokyo Core CPI (YoY) (Feb) |  | 2.3% | 2.5% |
+| 44 min | JPY | Industrial Production (MoM) (Jan) |  | -1.0% | -0.2% |

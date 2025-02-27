@@ -11,24 +11,24 @@
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) | 87.0 | 87.0 | 86.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) | 98.8 | 98.4 | 98.2 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jan) | 3.6% | 3.8% | 3.5% |
 | 09:00 | EUR | Low | M3 Money Supply (Jan) | 16,754.9B |  | 16,726.4B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jan) | 1.3% | 1.2% | 1.1% |
-| 09:30 | ZAR | Low | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 09:30 | ZAR | Low | PPI (MoM) (Jan) | 0.5% |  | 0.2% |
+| 09:30 | ZAR | Low | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.836% |  | 4.558% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Feb) | 96.3 | 96.0 | 95.3 |
 | 10:00 | EUR | Low | Business Climate (Feb) | -0.74 |  | -0.92 |
 | 10:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 | -13.6 | -14.2 |
@@ -78,15 +78,15 @@
 | 20:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,766B |  | 6,782B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.380T |  | 3.276T |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
-| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Feb) |  | 2.3% | 2.5% |
-| 23:30 | JPY | Low | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.2% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 241.0B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -352.8B |
-| 23:50 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | -1.0% | -0.2% |
-| 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 1.0% |
-| 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 1.2% |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) (Jan) |  |  | -0.7% |
-| 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
-| 23:50 | JPY | Low | Retail Sales (YoY) (Jan) |  | 3.9% | 3.7% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
+| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Feb) |  | 2.3% | 2.5% |
+| 24 min | JPY | Low | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.2% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 241.0B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -352.8B |
+| 44 min | JPY | Moderate | Industrial Production (MoM) (Jan) |  | -1.0% | -0.2% |
+| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 1.0% |
+| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 1.2% |
+| 44 min | JPY | Low | Large Retailers' Sales (MoM) (Jan) |  |  | -0.7% |
+| 44 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
+| 44 min | JPY | Low | Retail Sales (YoY) (Jan) |  | 3.9% | 3.7% |

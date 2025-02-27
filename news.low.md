@@ -19,11 +19,11 @@
 | 09:00 | EUR | M3 Money Supply (Jan) | 16,754.9B |  | 16,726.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jan) | 2.0% |  | 1.5% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Jan) | 1.3% | 1.2% | 1.1% |
-| 09:30 | ZAR | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 09:30 | ZAR | PPI (MoM) (Jan) | 0.5% |  | 0.2% |
+| 09:30 | ZAR | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.836% |  | 4.558% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
 | 10:00 | EUR | Business and Consumer Survey (Feb) | 96.3 | 96.0 | 95.3 |
 | 10:00 | EUR | Business Climate (Feb) | -0.74 |  | -0.92 |
 | 10:00 | EUR | Consumer Confidence (Feb) | -13.6 | -13.6 | -14.2 |
@@ -56,13 +56,13 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.235% |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.380T |  | 3.276T |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
-| 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.2% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 241.0B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -352.8B |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 1.0% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 1.2% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) (Jan) |  |  | -0.7% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Jan) |  | 3.9% | 3.7% |
+| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
+| 24 min | JPY | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |
+| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.2% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 241.0B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -352.8B |
+| 44 min | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | 1.0% |
+| 44 min | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 1.2% |
+| 44 min | JPY | Large Retailers' Sales (MoM) (Jan) |  |  | -0.7% |
+| 44 min | JPY | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
+| 44 min | JPY | Retail Sales (YoY) (Jan) |  | 3.9% | 3.7% |
