@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19 min | USD | Durable Goods Orders (MoM) (Jan) |  | 2.0% | -2.2% |
-| 19 min | USD | GDP (QoQ) (Q4) |  | 2.3% | 3.1% |
-| 19 min | USD | Initial Jobless Claims |  | 222K | 219K |
+| 13:30 | USD | Durable Goods Orders (MoM) (Jan) | 3.1% | 2.0% | -1.8% |
+| 13:30 | USD | GDP (QoQ) (Q4) | 2.3% | 2.3% | 3.1% |
+| 13:30 | USD | Initial Jobless Claims | 242K | 222K | 220K |

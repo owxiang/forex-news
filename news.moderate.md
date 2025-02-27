@@ -11,13 +11,13 @@
 | 11:00 | EUR | France Jobseekers Total (Jan) | 3,162.0K |  | 2,957.0K |
 | 12:00 | BRL | Unemployment Rate (Jan) | 6.5% | 6.6% | 6.2% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 19 min | USD | Continuing Jobless Claims |  | 1,870K | 1,869K |
-| 19 min | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.3% |
-| 19 min | USD | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
-| 19 min | USD | GDP Price Index (QoQ) (Q4) |  | 2.2% | 1.9% |
-| 19 min | CAD | Current Account (Q4) |  | -3.2B | -3.2B |
-| 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Pending Home Sales (MoM) (Jan) |  | -0.9% | -5.5% |
+| 13:30 | USD | Continuing Jobless Claims | 1,862K | 1,870K | 1,867K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Jan) | 0.0% | 0.2% | 0.1% |
+| 13:30 | USD | Core PCE Prices (Q4) | 2.70% | 2.50% | 2.20% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q4) | 2.4% | 2.2% | 1.9% |
+| 13:30 | CAD | Current Account (Q4) | -5.0B | -3.2B | -3.6B |
+| 54 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 54 min | USD | Pending Home Sales (MoM) (Jan) |  | -0.9% | -5.5% |
 | 16:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,782B |

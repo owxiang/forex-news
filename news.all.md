@@ -50,25 +50,25 @@
 | 12:00 | BRL | Moderate | Unemployment Rate (Jan) | 6.5% | 6.6% | 6.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,869K |
-| 19 min | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.3% |
-| 19 min | USD | Moderate | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
-| 19 min | USD | High | Durable Goods Orders (MoM) (Jan) |  | 2.0% | -2.2% |
-| 19 min | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 19 min | USD | Low | Durables Excluding Transport (MoM) (Jan) |  | 0.3% | 0.3% |
-| 19 min | USD | High | GDP (QoQ) (Q4) |  | 2.3% | 3.1% |
-| 19 min | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.2% | 1.9% |
-| 19 min | USD | Low | GDP Sales (Q4) |  | 3.2% | 3.3% |
-| 19 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.3% | 0.5% |
-| 19 min | USD | High | Initial Jobless Claims |  | 222K | 219K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 215.25K |
-| 19 min | USD | Low | PCE Prices (Q4) |  | 2.3% | 1.5% |
-| 19 min | USD | Low | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
-| 19 min | CAD | Low | Average Weekly Earnings (YoY) (Dec) |  |  | 5.03% |
-| 19 min | CAD | Moderate | Current Account (Q4) |  | -3.2B | -3.2B |
-| 15:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | -0.9% | -5.5% |
-| 15:00 | USD | Low | Pending Home Sales Index (Jan) |  |  | 74.2 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,862K | 1,870K | 1,867K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) | 0.0% | 0.2% | 0.1% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q4) | 2.70% | 2.50% | 2.20% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Jan) | 3.1% | 2.0% | -1.8% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jan) | 3.5% |  | -1.8% |
+| 13:30 | USD | Low | Durables Excluding Transport (MoM) (Jan) | 0.0% | 0.3% | 0.1% |
+| 13:30 | USD | High | GDP (QoQ) (Q4) | 2.3% | 2.3% | 3.1% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) | 2.4% | 2.2% | 1.9% |
+| 13:30 | USD | Low | GDP Sales (Q4) | 3.2% | 3.2% | 3.3% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) | 0.8% | 0.3% | 0.2% |
+| 13:30 | USD | High | Initial Jobless Claims | 242K | 222K | 220K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.00K |  | 215.50K |
+| 13:30 | USD | Low | PCE Prices (Q4) | 2.4% | 2.3% | 1.5% |
+| 13:30 | USD | Low | Real Consumer Spending (Q4) | 4.2% | 4.2% | 3.7% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Dec) | 5.81% |  | 5.00% |
+| 13:30 | CAD | Moderate | Current Account (Q4) | -5.0B | -3.2B | -3.6B |
+| 54 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 54 min | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | -0.9% | -5.5% |
+| 54 min | USD | Low | Pending Home Sales Index (Jan) |  |  | 74.2 |
 | 15:30 | USD | Low | Natural Gas Storage |  | -276B | -196B |
 | 16:00 | USD | Low | KC Fed Composite Index (Feb) |  |  | -5 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Feb) |  |  | -9 |

@@ -41,15 +41,15 @@
 | 12:00 | MXN | Unemployment Rate n.s.a. (Jan) | 2.70% | 2.70% | 2.40% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 19 min | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -2.4% |
-| 19 min | USD | Durables Excluding Transport (MoM) (Jan) |  | 0.3% | 0.3% |
-| 19 min | USD | GDP Sales (Q4) |  | 3.2% | 3.3% |
-| 19 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.3% | 0.5% |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 215.25K |
-| 19 min | USD | PCE Prices (Q4) |  | 2.3% | 1.5% |
-| 19 min | USD | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
-| 19 min | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 5.03% |
-| 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 74.2 |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jan) | 3.5% |  | -1.8% |
+| 13:30 | USD | Durables Excluding Transport (MoM) (Jan) | 0.0% | 0.3% | 0.1% |
+| 13:30 | USD | GDP Sales (Q4) | 3.2% | 3.2% | 3.3% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) | 0.8% | 0.3% | 0.2% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 224.00K |  | 215.50K |
+| 13:30 | USD | PCE Prices (Q4) | 2.4% | 2.3% | 1.5% |
+| 13:30 | USD | Real Consumer Spending (Q4) | 4.2% | 4.2% | 3.7% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) | 5.81% |  | 5.00% |
+| 54 min | USD | Pending Home Sales Index (Jan) |  |  | 74.2 |
 | 15:30 | USD | Natural Gas Storage |  | -276B | -196B |
 | 16:00 | USD | KC Fed Composite Index (Feb) |  |  | -5 |
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) |  |  | -9 |
