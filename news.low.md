@@ -8,8 +8,8 @@
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.3% |
 | 03:35 | JPY | 2-Year JGB Auction | 0.826% |  | 0.727% |
 | 07:00 | NOK | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
-| 07:45 | EUR | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
 | 07:45 | EUR | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
+| 07:45 | EUR | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
 | 08:00 | EUR | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
@@ -50,11 +50,11 @@
 | 13:30 | USD | Real Consumer Spending (Q4) | 4.2% | 4.2% | 3.7% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) | 5.81% |  | 5.00% |
 | 15:00 | USD | Pending Home Sales Index (Jan) | 70.6 |  | 74.0 |
-| 23 min | USD | Natural Gas Storage |  | -276B | -196B |
-| 53 min | USD | KC Fed Composite Index (Feb) |  |  | -5 |
-| 53 min | USD | KC Fed Manufacturing Index (Feb) |  |  | -9 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
+| 15:30 | USD | Natural Gas Storage | -261B | -276B | -196B |
+| 16:00 | USD | KC Fed Composite Index (Feb) | -5 |  | -5 |
+| 16:00 | USD | KC Fed Manufacturing Index (Feb) | -13 |  | -9 |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.245% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.235% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.276T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |
 | 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 3.4% |
