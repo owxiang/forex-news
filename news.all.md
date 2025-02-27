@@ -9,13 +9,13 @@
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 0.826% |  | 0.727% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
+| 07:45 | EUR | Low | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) | 87.0 | 87.0 | 86.8 |
@@ -75,7 +75,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.235% |  | 4.245% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 16:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 20:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 8 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,782B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.276T |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 1.0% |

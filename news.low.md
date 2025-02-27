@@ -8,8 +8,8 @@
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.3% |
 | 03:35 | JPY | 2-Year JGB Auction | 0.826% |  | 0.727% |
 | 07:00 | NOK | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
-| 07:45 | EUR | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
 | 07:45 | EUR | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
+| 07:45 | EUR | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
 | 08:00 | EUR | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
