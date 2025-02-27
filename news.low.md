@@ -7,7 +7,7 @@
 | 00:30 | AUD | Building Capital Expenditure (MoM) (Q4) | 0.2% |  | 1.1% |
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.3% |
 | 03:35 | JPY | 2-Year JGB Auction | 0.826% |  | 0.727% |
-| 52 min | NOK | Unemployment Rate (Jan) |  |  | 4.2% |
+| 07:00 | NOK | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
 | 07:45 | EUR | PPI (YoY) (Jan) |  |  | -3.80% |
 | 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 2.4% |
