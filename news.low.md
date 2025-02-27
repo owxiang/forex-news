@@ -6,8 +6,8 @@
 | 00:00 | NZD | NBNZ Own Activity (Feb) | 45.1% |  | 45.8% |
 | 00:30 | AUD | Building Capital Expenditure (MoM) (Q4) | 0.2% |  | 1.1% |
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.1% |
-| 23 min | JPY | 2-Year JGB Auction |  |  | 0.727% |
-| 05:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
+| 03:35 | JPY | 2-Year JGB Auction | 0.826% |  | 0.727% |
+| 54 min | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 07:00 | NOK | Unemployment Rate (Jan) |  |  | 4.2% |
 | 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 07:45 | EUR | PPI (YoY) (Jan) |  |  | -3.80% |

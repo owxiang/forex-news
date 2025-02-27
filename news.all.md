@@ -7,8 +7,8 @@
 | 00:30 | AUD | Low | Building Capital Expenditure (MoM) (Q4) | 0.2% |  | 1.1% |
 | 00:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.8% |  | 1.1% |
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.1% |
-| 23 min | JPY | Low | 2-Year JGB Auction |  |  | 0.727% |
-| 05:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
+| 03:35 | JPY | Low | 2-Year JGB Auction | 0.826% |  | 0.727% |
+| 54 min | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) |  |  | 4.2% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 1.0% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -3.80% |
