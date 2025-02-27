@@ -9,13 +9,13 @@
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | -0.2% | 0.6% | 1.6% |
 | 03:35 | JPY | Low | 2-Year JGB Auction | 0.826% |  | 0.727% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 3.7% |  | 4.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) | -2.10% |  | -3.80% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jan) | 0.7% |  | 0.9% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) | 1.5% | 1.6% | 1.9% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.4% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) | 87.0 | 87.0 | 86.8 |
@@ -27,8 +27,8 @@
 | 09:30 | ZAR | Low | PPI (MoM) (Jan) | 0.5% |  | 0.2% |
 | 09:30 | ZAR | Low | PPI (YoY) (Jan) | 1.1% |  | 0.7% |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.836% |  | 4.558% |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) | -7.20% |  | -2.50% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) | -2.70% |  | 1.40% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Feb) | 96.3 | 96.0 | 95.3 |
 | 10:00 | EUR | Low | Business Climate (Feb) | -0.74 |  | -0.92 |
 | 10:00 | EUR | Low | Consumer Confidence (Feb) | -13.6 | -13.6 | -14.2 |
@@ -40,16 +40,16 @@
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction | 2.93% |  | 2.95% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Jan) | 3,162.0K |  | 2,957.0K |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Feb) | 1.06% | 1.03% | 0.27% |
-| 24 min | BRL | Low | Current Account (USD) (Jan) |  | -8.30B | -9.00B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Jan) |  | 6.55B | 2.80B |
-| 54 min | MXN | Low | Trade Balance (Jan) |  | -3.800B | 2.567B |
-| 54 min | MXN | Low | Trade Balance (USD) (Jan) |  |  | -0.684B |
-| 54 min | MXN | Low | Unemployment Rate (Jan) |  |  | 2.60% |
-| 54 min | MXN | Low | Unemployment Rate n.s.a. (Jan) |  | 2.70% | 2.40% |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 54 min | BRL | Moderate | Unemployment Rate (Jan) |  | 6.6% | 6.2% |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 11:30 | BRL | Low | Current Account (USD) (Jan) | -8.65B | -8.30B | -9.00B |
+| 11:30 | BRL | Low | Foreign direct investment (USD) (Jan) | 6.50B | 6.55B | 2.80B |
+| 12:00 | MXN | Low | Trade Balance (Jan) | -4.558B | -3.800B | 2.567B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Jan) | -0.423B |  | -0.684B |
+| 12:00 | MXN | Low | Unemployment Rate (Jan) | 2.60% |  | 2.60% |
+| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Jan) | 2.70% | 2.70% | 2.40% |
+| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | BRL | Moderate | Unemployment Rate (Jan) | 6.5% | 6.6% | 6.2% |
+| 20 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 50 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,869K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.3% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.50% | 2.20% |

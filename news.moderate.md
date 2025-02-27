@@ -9,8 +9,8 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.8% | 2.9% |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.55% |  | 3.60% |
 | 11:00 | EUR | France Jobseekers Total (Jan) | 3,162.0K |  | 2,957.0K |
-| 54 min | BRL | Unemployment Rate (Jan) |  | 6.6% | 6.2% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 12:00 | BRL | Unemployment Rate (Jan) | 6.5% | 6.6% | 6.2% |
+| 20 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,869K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.3% |
 | 13:30 | USD | Core PCE Prices (Q4) |  | 2.50% | 2.20% |
