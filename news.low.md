@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Housing Credit (Jan) | 0.4% |  | 0.5% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.5% | 0.5% | 0.6% |
-| 26 min | SGD | Bank Lending (Jan) |  |  | 835.0B |
-| 26 min | NZD | M3 Money Supply (Jan) |  |  | 430.1B |
+| 02:00 | SGD | Bank Lending (Jan) | 836.3B |  | 835.0B |
+| 02:00 | NZD | M3 Money Supply (Jan) | 427.0B |  | 430.1B |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:00 | JPY | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
 | 05:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
@@ -26,16 +26,16 @@
 | 08:55 | EUR | German Unemployment (Feb) |  |  | 2.880M |
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 7.79B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | -0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
 | 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) |  |  | 1.26B |

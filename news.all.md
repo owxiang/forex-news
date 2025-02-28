@@ -4,16 +4,16 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Housing Credit (Jan) | 0.4% |  | 0.5% |
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Jan) | 0.5% | 0.5% | 0.6% |
-| 26 min | SGD | Low | Bank Lending (Jan) |  |  | 835.0B |
-| 26 min | NZD | Low | M3 Money Supply (Jan) |  |  | 430.1B |
+| 02:00 | SGD | Low | Bank Lending (Jan) | 836.3B |  | 835.0B |
+| 02:00 | NZD | Low | M3 Money Supply (Jan) | 427.0B |  | 430.1B |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
 | 05:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Jan) |  |  | 6.71% |
 | 06:00 | ZAR | Low | Private Sector Credit (Jan) |  |  | 3.83% |
 | 07:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) |  | 3.4% | 4.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) |  | 3.4% | 4.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) |  | 0.7% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) |  | 2.7% | 2.0% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) |  | 0.4% | -1.6% |
@@ -38,16 +38,16 @@
 | 08:55 | EUR | Low | German Unemployment (Feb) |  |  | 2.880M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jan) |  |  | 7.79B |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) |  |  | -0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
 | 09:00 | EUR | Low | Spanish Current account (Dec) |  |  | 1.26B |
@@ -84,9 +84,9 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jan) |  |  | -0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.1% | -0.5% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) |  |  | 0.60% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q4) |  |  | 0.3% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Dec) |  | 0.2% | -0.2% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 1.49% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q4) |  |  | 0.3% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) |  | 1.9% | 1.0% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
 | 14:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
