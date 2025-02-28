@@ -12,8 +12,8 @@
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Jan) | 7.10% |  | 6.71% |
 | 06:00 | ZAR | Low | Private Sector Credit (Jan) | 4.59% |  | 3.83% |
 | 07:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) | 3.9% | 3.4% | 4.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) | 0.4% | 0.2% | 0.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) | 3.9% | 3.4% | 4.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) | 1.1% | 0.7% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) | 3.1% | 2.7% | 2.0% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) | 0.2% | 0.4% | -0.9% |
@@ -42,8 +42,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) | 0.4% |  | -0.3% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) | 0.6% |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) | 0.6% |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Feb) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) | 2.3% |  | 2.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) | 1.9% |  | -0.1% |
@@ -74,8 +74,8 @@
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jan) | 2.6% | 2.6% | 2.9% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jan) | -153.26B | -116.90B | -122.01B |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jan) | 0.9% | 0.4% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jan) | -0.2% | 0.2% | 0.8% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jan) | -0.5% |  | 0.5% |

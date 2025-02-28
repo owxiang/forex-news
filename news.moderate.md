@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 3.9% | 3.4% | 4.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.4% | 0.2% | 0.1% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 3.9% | 3.4% | 4.1% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) | 0.2% | 0.4% | -0.9% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) | -0.5% | -0.6% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (Feb) | 0.2% | 0.5% | 0.2% |
@@ -17,8 +17,8 @@
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) | 6.2% | 6.3% | 5.6% |
 | 13:00 | EUR | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 13:30 | USD | Goods Trade Balance (Jan) | -153.26B | -116.90B | -122.01B |
-| 13:30 | USD | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | Personal Spending (MoM) (Jan) | -0.2% | 0.2% | 0.8% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jan) | 0.4% |  | -0.1% |
 | 13:30 | CAD | GDP (YoY) (Q4) | 2.36% |  | 1.88% |
