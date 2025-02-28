@@ -26,14 +26,14 @@
 | 08:55 | EUR | German Unemployment (Feb) | 2.886M |  | 2.880M |
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) | 2.989M |  | 2.993M |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jan) | 0.25B |  | 7.84B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) | 0.5% |  | -0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.5% |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.4% |  | 2.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) | 0.5% |  | -0.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.4% |  | -0.3% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.6% |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.3% |  | 2.5% |
+| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 1.9% |  | 2.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 1.9% |  | -0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) | 2.3% |  | 2.4% |
@@ -60,9 +60,8 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) | -0.5% |  | 0.5% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jan) | 0.7% | 0.1% | -0.4% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) | 0.90% |  | 0.60% |
-| 16:00 | CAD | Budget Balance (Dec) | 1.00B |  | -8.21B |
 | 16:00 | CAD | Budget Balance (YoY) (Dec) | -21.72B |  | -22.72B |
-| 52 min | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
+| 16:00 | CAD | Budget Balance (Dec) | 1.00B |  | -8.21B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 22.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 468.7K |

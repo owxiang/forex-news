@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 3.9% | 3.4% | 4.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.4% | 0.2% | 0.1% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 3.9% | 3.4% | 4.1% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) | 0.2% | 0.4% | -0.9% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) | -0.5% | -0.6% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (Feb) | 0.2% | 0.5% | 0.2% |
@@ -26,9 +26,9 @@
 | 13:30 | CAD | GDP (QoQ) (Q4) | 0.6% |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) | 2.6% | 1.9% | 2.2% |
-| 14:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 16:05 | USD | Atlanta Fed GDPNow (Q1) | -1.5% | 2.3% | 2.3% |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -0.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 197.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 268.7K |
