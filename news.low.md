@@ -6,11 +6,11 @@
 | 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.5% | 0.5% | 0.6% |
 | 02:00 | SGD | Bank Lending (Jan) | 836.3B |  | 835.0B |
 | 02:00 | NZD | M3 Money Supply (Jan) | 427.0B |  | 430.1B |
-| 53 min | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
-| 53 min | JPY | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
-| 54 min | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Jan) |  |  | 6.71% |
-| 06:00 | ZAR | Private Sector Credit (Jan) |  |  | 3.83% |
+| 03:15 | USD | Fed Goolsbee Speaks |  |  |  |
+| 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
+| 05:00 | JPY | Housing Starts (YoY) (Jan) | -4.6% | -2.6% | -2.5% |
+| 53 min | ZAR | M3 Money Supply (YoY) (Jan) |  |  | 6.71% |
+| 53 min | ZAR | Private Sector Credit (Jan) |  |  | 3.83% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jan) |  | 0.7% | 0.4% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jan) |  | 2.7% | 2.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jan) |  |  | 1.8% |
@@ -26,18 +26,18 @@
 | 08:55 | EUR | German Unemployment (Feb) |  |  | 2.880M |
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 7.79B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | -0.3% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
+| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) |  |  | 1.26B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) |  |  | 300.0M |
 | 09:00 | NOK | Manufacturing PMI (Feb) |  |  | 51.2 |
@@ -55,15 +55,15 @@
 | 12:00 | INR | GDP Annual |  | 6.4% | 8.2% |
 | 12:00 | ZAR | Trade Balance (Jan) |  |  | 15.46B |
 | 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.2% |
-| 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.6% | 2.8% |
+| 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.7% | 2.8% |
 | 13:00 | EUR | Spanish Business Confidence (Feb) |  |  | -5.1 |
 | 13:30 | USD | Personal Income (MoM) (Jan) |  | 0.4% | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.4% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.1% | -0.5% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) |  |  | 0.60% |
 | 14:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
-| 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -22.72B |
 | 16:00 | CAD | Budget Balance (Dec) |  |  | -8.21B |
+| 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -22.72B |
 | 17:10 | ZAR | Budget Balance (MoM) (Jan) |  |  | 21.38B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 22.1K |

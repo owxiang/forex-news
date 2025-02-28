@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Feb) |  | 3.4% | 4.1% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) |  | 0.4% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | -0.6% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.5% | 0.2% |
@@ -22,9 +22,9 @@
 | 13:30 | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jan) |  |  | -0.1% |
-| 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.3% |
 | 13:30 | CAD | GDP (MoM) (Dec) |  | 0.2% | -0.2% |
 | 13:30 | CAD | GDP (YoY) (Q4) |  |  | 1.49% |
+| 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.3% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 1.9% | 1.0% |
 | 13:31 | CAD | GDP (MoM) (Jan) |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
