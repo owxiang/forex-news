@@ -17,14 +17,14 @@
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) | 6.2% | 6.3% | 5.6% |
 | 13:00 | EUR | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 13:30 | USD | Goods Trade Balance (Jan) | -153.26B | -116.90B | -122.01B |
-| 13:30 | USD | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | Personal Spending (MoM) (Jan) | -0.2% | 0.2% | 0.8% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jan) | 0.4% |  | -0.1% |
-| 13:30 | CAD | GDP (MoM) (Dec) | 0.2% |  |  |
 | 13:30 | CAD | GDP (YoY) (Q4) | 2.36% |  | 1.88% |
 | 13:30 | CAD | GDP (QoQ) (Q4) | 0.6% |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 13:30 | CAD | GDP (MoM) (Dec) | 0.2% |  |  |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) | 2.6% | 1.9% | 2.2% |
 | 16:05 | USD | Atlanta Fed GDPNow (Q1) | -1.5% | 2.3% | 2.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 486 |  | 488 |
