@@ -15,18 +15,18 @@
 | 08:55 | EUR | German Unemployment Change (Feb) | 5K | 14K | 11K |
 | 08:55 | EUR | German Unemployment Rate (Feb) | 6.2% | 6.2% | 6.2% |
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) | 6.2% | 6.3% | 5.6% |
-| 50 min | EUR | German CPI (YoY) (Feb) |  | 2.3% | 2.3% |
-| 13:30 | USD | Goods Trade Balance (Jan) |  | -116.90B | -122.01B |
-| 13:30 | USD | PCE Price index (YoY) (Jan) |  | 2.5% | 2.6% |
-| 13:30 | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.3% |
-| 13:30 | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
-| 13:30 | USD | Retail Inventories Ex Auto (Jan) |  |  | -0.1% |
-| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.2% | -0.2% |
-| 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.3% |
-| 13:30 | CAD | GDP (YoY) (Q4) |  |  | 1.49% |
-| 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 1.9% | 1.0% |
-| 13:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
-| 13:31 | CAD | GDP (MoM) (Jan) |  |  |  |
+| 13:00 | EUR | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
+| 20 min | USD | Goods Trade Balance (Jan) |  | -116.90B | -122.01B |
+| 20 min | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.3% |
+| 20 min | USD | PCE Price index (YoY) (Jan) |  | 2.5% | 2.6% |
+| 20 min | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
+| 20 min | USD | Retail Inventories Ex Auto (Jan) |  |  | -0.1% |
+| 20 min | CAD | GDP (QoQ) (Q4) |  |  | 0.3% |
+| 20 min | CAD | GDP (YoY) (Q4) |  |  | 1.49% |
+| 20 min | CAD | GDP (MoM) (Dec) |  | 0.2% | -0.2% |
+| 20 min | CAD | GDP Annualized (QoQ) (Q4) |  | 1.9% | 1.0% |
+| 20 min | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
+| 21 min | CAD | GDP (MoM) (Jan) |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
