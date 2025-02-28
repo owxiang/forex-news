@@ -1,7 +1,8 @@
-## 27 February 2025 - High Impact Forex News
+## 28 February 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Durable Goods Orders (MoM) (Jan) | 3.1% | 2.0% | -1.8% |
-| 13:30 | USD | GDP (QoQ) (Q4) | 2.3% | 2.3% | 3.1% |
-| 13:30 | USD | Initial Jobless Claims | 242K | 222K | 220K |
+| 13:00 | EUR | German CPI (MoM) (Feb) |  | 0.4% | -0.2% |
+| 13:30 | USD | Core PCE Price Index (MoM) (Jan) |  | 0.3% | 0.2% |
+| 13:30 | USD | Core PCE Price Index (YoY) (Jan) |  | 2.6% | 2.8% |
+| 14:45 | USD | Chicago PMI (Feb) |  | 40.5 | 39.5 |
