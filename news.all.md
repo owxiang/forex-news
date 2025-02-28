@@ -17,42 +17,42 @@
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) | 1.1% | 0.7% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) | 3.1% | 2.7% | 2.0% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) | 0.2% | 0.4% | -0.9% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) | 2.9% |  | 1.8% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) | 2.9% |  | 2.0% |
 | 07:00 | NOK | Low | Unemployment Change (Feb) | 77.45K |  | 77.47K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Feb) | 2.20% |  | 2.30% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jan) | 1.1% |  | -0.1% |
-| 24 min | CHF | Low | Retail Sales (YoY) (Jan) |  | 1.6% | 2.6% |
-| 39 min | EUR | Moderate | French Consumer Spending (MoM) (Jan) |  | -0.6% | 0.7% |
-| 39 min | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.5% | 0.2% |
-| 39 min | EUR | Low | French CPI (YoY) (Feb) |  | 1.0% | 1.7% |
-| 39 min | EUR | Moderate | French GDP (YoY) (Q4) |  | 0.7% | 1.2% |
-| 39 min | EUR | Moderate | French GDP (QoQ) (Q4) |  | -0.1% | 0.4% |
-| 39 min | EUR | Low | French HICP (YoY) (Feb) |  | 1.2% | 1.8% |
-| 39 min | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.3% | -0.2% |
-| 39 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.2% | 0.1% |
-| 54 min | CHF | Moderate | KOF Leading Indicators (Feb) |  | 101.9 | 101.6 |
-| 54 min | CHF | Low | Official Reserves Assets (Jan) |  |  | 822.6B |
-| 08:30 | HKD | Low | M3 Money Supply (Jan) |  |  | 2.8% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Feb) |  | 14K | 11K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Feb) |  | 6.2% | 6.2% |
-| 08:55 | EUR | Low | German Unemployment (Feb) |  |  | 2.880M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jan) |  |  | 7.79B |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.3% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) |  |  | -0.3% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
-| 09:00 | EUR | Low | Spanish Current account (Dec) |  |  | 1.26B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Mar) |  |  | 300.0M |
-| 09:00 | NOK | Low | Manufacturing PMI (Feb) |  |  | 51.2 |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jan) | 1.1% |  | 0.1% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Jan) | 1.3% | 1.6% | 2.1% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jan) | -0.5% | -0.6% | 0.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.2% | 0.5% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Feb) | 0.8% | 1.0% | 1.7% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q4) | 0.6% | 0.7% | 1.2% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) | -0.1% | -0.1% | 0.4% |
+| 07:45 | EUR | Low | French HICP (YoY) (Feb) | 0.9% | 1.2% | 1.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.0% | 0.3% | -0.2% |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) | -0.3% | -0.2% | 0.1% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Feb) | 101.7 | 101.9 | 103.0 |
+| 08:00 | CHF | Low | Official Reserves Assets (Jan) | 834.7B |  | 822.6B |
+| 22 min | HKD | Low | M3 Money Supply (Jan) |  |  | 2.8% |
+| 47 min | EUR | Moderate | German Unemployment Change (Feb) |  | 14K | 11K |
+| 47 min | EUR | Moderate | German Unemployment Rate (Feb) |  | 6.2% | 6.2% |
+| 47 min | EUR | Low | German Unemployment (Feb) |  |  | 2.880M |
+| 47 min | EUR | Low | German Unemployment n.s.a. (Feb) |  |  | 2.993M |
+| 52 min | EUR | Low | Italian Trade Balance Non-EU (Jan) |  |  | 7.79B |
+| 52 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
+| 52 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.3% |
+| 52 min | EUR | Low | Bavaria CPI (MoM) (Feb) |  |  | -0.3% |
+| 52 min | EUR | Low | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
+| 52 min | EUR | Low | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
+| 52 min | EUR | Low | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
+| 52 min | EUR | Low | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
+| 52 min | EUR | Low | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
+| 52 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
+| 52 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
+| 52 min | EUR | Low | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
+| 52 min | EUR | Low | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
+| 52 min | EUR | Low | Spanish Current account (Dec) |  |  | 1.26B |
+| 52 min | NOK | Low | Central Bank Currency Purchase (Mar) |  |  | 300.0M |
+| 52 min | NOK | Low | Manufacturing PMI (Feb) |  |  | 51.2 |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
