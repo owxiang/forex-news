@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Feb) |  | 3.4% | 4.1% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) |  | 0.4% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | -0.6% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.5% | 0.2% |

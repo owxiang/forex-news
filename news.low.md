@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | AUD | Housing Credit (Jan) |  |  | 0.5% |
-| 4 min | AUD | Private Sector Credit (MoM) (Jan) |  | 0.5% | 0.6% |
-| 02:00 | SGD | Bank Lending (Jan) |  |  | 835.0B |
-| 02:00 | NZD | M3 Money Supply (Jan) |  |  | 430.1B |
+| 00:30 | AUD | Housing Credit (Jan) | 0.4% |  | 0.5% |
+| 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.5% | 0.5% | 0.6% |
+| 26 min | SGD | Bank Lending (Jan) |  |  | 835.0B |
+| 26 min | NZD | M3 Money Supply (Jan) |  |  | 430.1B |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:00 | JPY | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
 | 05:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
@@ -28,16 +28,16 @@
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 7.79B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) |  |  | -0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | -0.3% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
+| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) |  |  | 1.26B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) |  |  | 300.0M |
 | 09:00 | NOK | Manufacturing PMI (Feb) |  |  | 51.2 |
@@ -62,8 +62,8 @@
 | 13:30 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.1% | -0.5% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) |  |  | 0.60% |
 | 14:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
-| 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -22.72B |
 | 16:00 | CAD | Budget Balance (Dec) |  |  | -8.21B |
+| 16:00 | CAD | Budget Balance (YoY) (Dec) |  |  | -22.72B |
 | 17:10 | ZAR | Budget Balance (MoM) (Jan) |  |  | 21.38B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 22.1K |
