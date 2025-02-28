@@ -26,40 +26,41 @@
 | 08:55 | EUR | German Unemployment (Feb) | 2.886M |  | 2.880M |
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) | 2.989M |  | 2.993M |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Jan) | 0.25B |  | 7.84B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Feb) | 0.5% |  | -0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.4% |  | -0.3% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.6% |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.3% |  | 2.5% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.6% |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.3% |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 1.9% |  | 2.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.3% |  | 2.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 1.9% |  | -0.1% |
-| 09:00 | EUR | Saxony CPI (YoY) (Feb) | 2.3% |  | 2.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 1.9% |  | 2.0% |
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | -0.4% |
+| 09:00 | EUR | Saxony CPI (YoY) (Feb) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Spanish Current account (Dec) | 1.30B |  | 1.26B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) | 400.0M |  | 300.0M |
 | 09:10 | ZAR | Budget Balance (MoM) (Jan) | -62.68B |  | 21.38B |
-| 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Italian CPI (YoY) (Feb) | 1.7% | 1.7% | 1.5% |
-| 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
+| 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Italian HICP (YoY) (Feb) | 1.7% | 1.8% | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
 | 10:00 | INR | Federal Fiscal Deficit (Jan) | 11,695.42B |  | 9,140.89B |
 | 10:30 | INR | GDP Annual | 6.5% | 6.4% | 8.2% |
-| 25 min | INR | Bank Loan Growth |  |  | 11.4% |
-| 25 min | INR | Deposit Growth |  |  | 10.3% |
-| 25 min | INR | FX Reserves, USD |  |  | 635.72B |
-| 25 min | INR | Infrastructure Output (YoY) (Jan) |  |  | 4.0% |
-| 25 min | BRL | Budget Balance (Jan) |  |  | -80.372B |
-| 55 min | ZAR | Trade Balance (Jan) |  |  | 15.46B |
-| 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.7% | 2.8% |
-| 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.2% |
-| 13:00 | EUR | Spanish Business Confidence (Feb) |  |  | -5.1 |
+| 11:30 | INR | Bank Loan Growth | 11.3% |  | 11.4% |
+| 11:30 | INR | Deposit Growth | 10.6% |  | 10.3% |
+| 11:30 | INR | FX Reserves, USD | 640.48B |  | 635.72B |
+| 11:30 | INR | Infrastructure Output (YoY) (Jan) | 4.6% |  | 4.0% |
+| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:00 | ZAR | Trade Balance (Jan) | -16.42B |  | 14.69B |
+| 50 min | EUR | German HICP (YoY) (Feb) |  | 2.7% | 2.8% |
+| 50 min | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.2% |
+| 50 min | EUR | Spanish Business Confidence (Feb) |  |  | -5.1 |
 | 13:30 | USD | Personal Income (MoM) (Jan) |  | 0.4% | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.4% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.1% | -0.5% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) |  |  | 0.60% |
+| 13:30 | BRL | Budget Balance (Jan) |  |  | -80.372B |
 | 14:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
 | 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 16:00 | CAD | Budget Balance (Dec) |  |  | -8.21B |
