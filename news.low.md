@@ -6,9 +6,9 @@
 | 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.5% | 0.5% | 0.6% |
 | 02:00 | SGD | Bank Lending (Jan) | 836.3B |  | 835.0B |
 | 02:00 | NZD | M3 Money Supply (Jan) | 427.0B |  | 430.1B |
-| 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
-| 05:00 | JPY | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
-| 05:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
+| 53 min | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
+| 53 min | JPY | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
+| 54 min | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Jan) |  |  | 6.71% |
 | 06:00 | ZAR | Private Sector Credit (Jan) |  |  | 3.83% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jan) |  | 0.7% | 0.4% |
@@ -36,15 +36,15 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
+| 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
 | 09:00 | EUR | Spanish Current account (Dec) |  |  | 1.26B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) |  |  | 300.0M |
 | 09:00 | NOK | Manufacturing PMI (Feb) |  |  | 51.2 |
-| 10:00 | EUR | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
-| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.8% | 1.7% |
+| 10:00 | EUR | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 10:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
+| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.8% | 1.7% |
 | 10:00 | INR | Federal Fiscal Deficit (Jan) |  |  | 9,140.89B |
 | 10:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.4% |
@@ -54,8 +54,8 @@
 | 11:30 | BRL | Budget Balance (Jan) |  |  | -80.372B |
 | 12:00 | INR | GDP Annual |  | 6.4% | 8.2% |
 | 12:00 | ZAR | Trade Balance (Jan) |  |  | 15.46B |
-| 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.6% | 2.8% |
 | 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.5% | -0.2% |
+| 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.6% | 2.8% |
 | 13:00 | EUR | Spanish Business Confidence (Feb) |  |  | -5.1 |
 | 13:30 | USD | Personal Income (MoM) (Jan) |  | 0.4% | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.4% |

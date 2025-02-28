@@ -6,9 +6,9 @@
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Jan) | 0.5% | 0.5% | 0.6% |
 | 02:00 | SGD | Low | Bank Lending (Jan) | 836.3B |  | 835.0B |
 | 02:00 | NZD | Low | M3 Money Supply (Jan) | 427.0B |  | 430.1B |
-| 05:00 | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 8.1% |
-| 05:00 | JPY | Low | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
-| 05:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
+| 53 min | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 8.1% |
+| 53 min | JPY | Low | Housing Starts (YoY) (Jan) |  | -2.6% | -2.5% |
+| 54 min | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Jan) |  |  | 6.71% |
 | 06:00 | ZAR | Low | Private Sector Credit (Jan) |  |  | 3.83% |
 | 07:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
@@ -16,8 +16,8 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) |  | 3.4% | 4.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) |  | 0.7% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) |  | 2.7% | 2.0% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) |  |  | 1.8% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) |  | 0.4% | -1.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) |  |  | 1.8% |
 | 07:00 | NOK | Low | Unemployment Change (Feb) |  |  | 77.47K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Feb) |  |  | 2.30% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jan) |  |  | -0.1% |
@@ -25,8 +25,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jan) |  | -0.6% | 0.7% |
 | 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 1.0% | 1.7% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.5% | 0.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | -0.1% | 0.4% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q4) |  | 0.7% | 1.2% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | -0.1% | 0.4% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 1.2% | 1.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.3% | -0.2% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.2% | 0.1% |
@@ -48,15 +48,15 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) |  |  | 2.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) |  |  | -0.4% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) |  |  | 2.4% |
 | 09:00 | EUR | Low | Spanish Current account (Dec) |  |  | 1.26B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Mar) |  |  | 300.0M |
 | 09:00 | NOK | Low | Manufacturing PMI (Feb) |  |  | 51.2 |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.8% | 1.7% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.8% | 1.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Jan) |  |  | 9,140.89B |
 | 10:30 | INR | Moderate | GDP Quarterly (YoY) (Q3) |  | 6.3% | 5.4% |
 | 10:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
@@ -68,25 +68,25 @@
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
 | 12:00 | INR | Low | GDP Annual |  | 6.4% | 8.2% |
 | 12:00 | ZAR | Low | Trade Balance (Jan) |  |  | 15.46B |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.3% | 2.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.4% | -0.2% |
-| 13:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.6% | 2.8% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.3% | 2.3% |
 | 13:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.5% | -0.2% |
+| 13:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.6% | 2.8% |
 | 13:00 | EUR | Low | Spanish Business Confidence (Feb) |  |  | -5.1 |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.3% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jan) |  | 2.6% | 2.8% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jan) |  | -116.90B | -122.01B |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.5% | 2.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jan) |  | 0.4% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jan) |  |  | 0.4% |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jan) |  |  | -0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.1% | -0.5% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) |  |  | 0.60% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 1.49% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q4) |  |  | 0.3% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Dec) |  | 0.2% | -0.2% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 1.49% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) |  | 1.9% | 1.0% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
 | 14:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
