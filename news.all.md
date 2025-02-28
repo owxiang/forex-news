@@ -53,8 +53,8 @@
 | 09:00 | EUR | Low | Spanish Current account (Dec) | 1.30B |  | 1.26B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Mar) | 400.0M |  | 300.0M |
 | 09:10 | ZAR | Low | Budget Balance (MoM) (Jan) | -62.68B |  | 21.38B |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.7% | 1.7% | 1.5% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Feb) | 1.7% | 1.8% | 1.7% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Jan) | 11,695.42B |  | 9,140.89B |
@@ -69,8 +69,8 @@
 | 12:30 | EUR | Low | Spanish Business Confidence (Feb) | -6.2 |  | -4.7 |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
-| 13:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.5% | -0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Feb) | 2.8% | 2.7% | 2.8% |
+| 13:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.5% | -0.2% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jan) | 2.6% | 2.6% | 2.9% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jan) | -153.26B | -116.90B | -122.01B |
@@ -91,8 +91,8 @@
 | 16:00 | CAD | Low | Budget Balance (YoY) (Dec) | -21.72B |  | -22.72B |
 | 16:00 | CAD | Low | Budget Balance (Dec) | 1.00B |  | -8.21B |
 | 16:05 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -1.5% | 2.3% | 2.3% |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 486 |  | 488 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 593 |  | 592 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -0.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 22.1K |

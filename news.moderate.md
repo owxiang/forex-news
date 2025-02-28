@@ -27,8 +27,8 @@
 | 13:30 | CAD | GDP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) | 2.6% | 1.9% | 2.2% |
 | 16:05 | USD | Atlanta Fed GDPNow (Q1) | -1.5% | 2.3% | 2.3% |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 486 |  | 488 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 593 |  | 592 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -0.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 197.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 268.7K |

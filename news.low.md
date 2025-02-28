@@ -41,8 +41,8 @@
 | 09:00 | EUR | Spanish Current account (Dec) | 1.30B |  | 1.26B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) | 400.0M |  | 300.0M |
 | 09:10 | ZAR | Budget Balance (MoM) (Jan) | -62.68B |  | 21.38B |
-| 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Italian CPI (YoY) (Feb) | 1.7% | 1.7% | 1.5% |
+| 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
 | 10:00 | EUR | Italian HICP (YoY) (Feb) | 1.7% | 1.8% | 1.7% |
 | 10:00 | INR | Federal Fiscal Deficit (Jan) | 11,695.42B |  | 9,140.89B |
@@ -54,8 +54,8 @@
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:00 | ZAR | Trade Balance (Jan) | -16.42B |  | 14.69B |
 | 12:30 | EUR | Spanish Business Confidence (Feb) | -6.2 |  | -4.7 |
-| 13:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.5% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Feb) | 2.8% | 2.7% | 2.8% |
+| 13:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.5% | -0.2% |
 | 13:30 | USD | Personal Income (MoM) (Jan) | 0.9% | 0.4% | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) | -0.5% |  | 0.5% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jan) | 0.7% | 0.1% | -0.4% |
