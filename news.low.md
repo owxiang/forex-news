@@ -30,12 +30,12 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.4% |  | -0.3% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.6% |  | 0.0% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.3% |  | 2.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 1.9% |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 1.9% |  | 2.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 1.9% |  | -0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | -0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) | 1.30B |  | 1.26B |
@@ -60,9 +60,9 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) | -0.5% |  | 0.5% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jan) | 0.7% | 0.1% | -0.4% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) | 0.90% |  | 0.60% |
-| 54 min | CAD | Budget Balance (YoY) (Dec) |  |  | -22.72B |
-| 54 min | CAD | Budget Balance (Dec) |  |  | -8.21B |
-| 17:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
+| 16:00 | CAD | Budget Balance (Dec) | 1.00B |  | -8.21B |
+| 16:00 | CAD | Budget Balance (YoY) (Dec) | -21.72B |  | -22.72B |
+| 52 min | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 22.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 468.7K |

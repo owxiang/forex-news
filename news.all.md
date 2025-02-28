@@ -12,8 +12,8 @@
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Jan) | 7.10% |  | 6.71% |
 | 06:00 | ZAR | Low | Private Sector Credit (Jan) | 4.59% |  | 3.83% |
 | 07:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) | 0.4% | 0.2% | 0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Feb) | 3.9% | 3.4% | 4.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Feb) | 0.4% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) | 1.1% | 0.7% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) | 3.1% | 2.7% | 2.0% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) | 0.2% | 0.4% | -0.9% |
@@ -42,12 +42,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) | 0.4% |  | -0.3% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) | 0.6% |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Feb) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) | 2.3% |  | 2.5% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) | 1.9% |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) | 1.9% |  | 2.0% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) | 1.9% |  | -0.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) | 0.3% |  | -0.4% |
 | 09:00 | EUR | Low | Spanish Current account (Dec) | 1.30B |  | 1.26B |
@@ -74,24 +74,24 @@
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jan) | 2.6% | 2.6% | 2.9% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jan) | -153.26B | -116.90B | -122.01B |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jan) | 0.9% | 0.4% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jan) | -0.2% | 0.2% | 0.8% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jan) | -0.5% |  | 0.5% |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jan) | 0.4% |  | -0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jan) | 0.7% | 0.1% | -0.4% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) | 0.90% |  | 0.60% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Dec) | 0.2% |  |  |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q4) | 2.36% |  | 1.88% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q4) | 0.6% |  | 0.5% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Dec) | 0.2% |  |  |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) | 2.6% | 1.9% | 2.2% |
+| 14:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
 | 14:45 | USD | High | Chicago PMI (Feb) | 45.5 | 40.5 | 39.5 |
-| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
-| 54 min | CAD | Low | Budget Balance (YoY) (Dec) |  |  | -22.72B |
-| 54 min | CAD | Low | Budget Balance (Dec) |  |  | -8.21B |
-| 17:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
+| 16:00 | CAD | Low | Budget Balance (Dec) | 1.00B |  | -8.21B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Dec) | -21.72B |  | -22.72B |
+| 52 min | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -0.6K |
