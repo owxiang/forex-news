@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (YoY) (Feb) |  | 3.4% | 4.1% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.1% |
-| 07:00 | EUR | German Retail Sales (MoM) (Jan) |  | 0.4% | -1.6% |
+| 52 min | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 52 min | GBP | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 52 min | GBP | Nationwide HPI (YoY) (Feb) |  | 3.4% | 4.1% |
+| 52 min | EUR | German Retail Sales (MoM) (Jan) |  | 0.4% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | -0.6% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q4) |  | 0.7% | 1.2% |
 | 07:45 | EUR | French GDP (QoQ) (Q4) |  | -0.1% | 0.4% |
+| 07:45 | EUR | French GDP (YoY) (Q4) |  | 0.7% | 1.2% |
 | 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.3% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) |  | 101.9 | 101.6 |
 | 08:55 | EUR | German Unemployment Change (Feb) |  | 14K | 11K |
