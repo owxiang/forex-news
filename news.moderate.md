@@ -8,8 +8,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) |  | 0.4% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | -0.6% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (YoY) (Q4) |  | 0.7% | 1.2% |
 | 07:45 | EUR | French GDP (QoQ) (Q4) |  | -0.1% | 0.4% |
+| 07:45 | EUR | French GDP (YoY) (Q4) |  | 0.7% | 1.2% |
 | 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.3% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) |  | 101.9 | 101.6 |
 | 08:55 | EUR | German Unemployment Change (Feb) |  | 14K | 11K |
@@ -18,13 +18,13 @@
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
 | 13:00 | EUR | German CPI (YoY) (Feb) |  | 2.3% | 2.3% |
 | 13:30 | USD | Goods Trade Balance (Jan) |  | -116.90B | -122.01B |
-| 13:30 | USD | PCE Price index (YoY) (Jan) |  | 2.5% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (Jan) |  | 2.5% | 2.6% |
 | 13:30 | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jan) |  |  | -0.1% |
-| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.2% | -0.2% |
 | 13:30 | CAD | GDP (YoY) (Q4) |  |  | 1.49% |
 | 13:30 | CAD | GDP (QoQ) (Q4) |  |  | 0.3% |
+| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.2% | -0.2% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 1.9% | 1.0% |
 | 13:31 | CAD | GDP (MoM) (Jan) |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
