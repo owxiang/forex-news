@@ -8,8 +8,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) | 0.2% | 0.4% | -0.9% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) | -0.5% | -0.6% | 0.7% |
 | 07:45 | EUR | French CPI (MoM) (Feb) | 0.2% | 0.5% | 0.2% |
-| 07:45 | EUR | French GDP (QoQ) (Q4) | -0.1% | -0.1% | 0.4% |
 | 07:45 | EUR | French GDP (YoY) (Q4) | 0.6% | 0.7% | 1.2% |
+| 07:45 | EUR | French GDP (QoQ) (Q4) | -0.1% | -0.1% | 0.4% |
 | 07:45 | EUR | French HICP (MoM) (Feb) | 0.0% | 0.3% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) | 101.7 | 101.9 | 103.0 |
 | 08:55 | EUR | German Unemployment Change (Feb) | 5K | 14K | 11K |
@@ -17,17 +17,16 @@
 | 10:30 | INR | GDP Quarterly (YoY) (Q3) | 6.2% | 6.3% | 5.6% |
 | 13:00 | EUR | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 13:30 | USD | Goods Trade Balance (Jan) | -153.26B | -116.90B | -122.01B |
-| 13:30 | USD | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (Jan) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | Personal Spending (MoM) (Jan) | -0.2% | 0.2% | 0.8% |
 | 13:30 | USD | Retail Inventories Ex Auto (Jan) | 0.4% |  | -0.1% |
+| 13:30 | CAD | GDP (YoY) (Q4) | 2.36% |  | 1.88% |
 | 13:30 | CAD | GDP (QoQ) (Q4) | 0.6% |  | 0.5% |
 | 13:30 | CAD | GDP (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
 | 13:30 | CAD | GDP (MoM) (Dec) | 0.2% |  |  |
-| 13:30 | CAD | GDP (YoY) (Q4) | 2.36% |  | 1.88% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) | 2.6% | 1.9% | 2.2% |
-| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
+| 24 min | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -0.6K |
