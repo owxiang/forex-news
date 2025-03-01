@@ -8,4 +8,4 @@
 | 01:30 | CNY | Moderate | Chinese Composite PMI (Feb) | 51.1 |  | 50.1 |
 | 01:30 | CNY | High | Manufacturing PMI (Feb) | 50.2 | 50.0 | 49.1 |
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Feb) | 50.4 | 50.3 | 50.2 |
-| 43 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 03:15 | USD | Low | Fed Goolsbee Speaks |  |  |  |
