@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Manufacturing PMI (Feb) |  | 50.0 | 49.1 |
+| 01:30 | CNY | Manufacturing PMI (Feb) | 50.2 | 50.0 | 49.1 |

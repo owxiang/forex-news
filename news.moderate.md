@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Chinese Composite PMI (Feb) |  |  | 50.1 |
-| 01:30 | CNY | Non-Manufacturing PMI (Feb) |  | 50.3 | 50.2 |
+| 01:30 | CNY | Chinese Composite PMI (Feb) | 51.1 |  | 50.1 |
+| 01:30 | CNY | Non-Manufacturing PMI (Feb) | 50.4 | 50.3 | 50.2 |
