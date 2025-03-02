@@ -1,8 +1,8 @@
-## 01 March 2025 - Low Impact Forex News
+## 02 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Exports (YoY) (Feb) | 1.0% | 3.8% | -10.2% |
-| 00:00 | KRW | Imports (YoY) (Feb) | 0.2% | -1.7% | -6.4% |
-| 00:00 | KRW | Trade Balance (Feb) | 4.30B | 4.59B | -1.86B |
-| 03:15 | USD | Fed Goolsbee Speaks |  |  |  |
+| 21:45 | NZD | Terms of Trade - Exports Prices (Q4) |  | 2.3% | 0.7% |
+| 21:45 | NZD | Terms of Trade - Imports Prices (Q4) |  | 0.7% | -1.7% |
+| 21:45 | NZD | Terms of Trade Index (QoQ) (Q4) |  | 1.5% | 2.4% |
+| 22:00 | AUD | Judo Bank Manufacturing PMI (Feb) |  |  | 50.2 |
