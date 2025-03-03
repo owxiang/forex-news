@@ -13,9 +13,9 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (Feb) | 46.9 | 46.4 | 48.3 |
 | 10:00 | EUR | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
-| 14:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
-| 15:00 | USD | Construction Spending (MoM) (Jan) |  | -0.1% | 0.5% |
-| 15:00 | USD | ISM Manufacturing Employment (Feb) |  |  | 50.3 |
-| 15:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
+| 54 min | USD | Construction Spending (MoM) (Jan) |  | -0.1% | 0.5% |
+| 54 min | USD | ISM Manufacturing Employment (Feb) |  |  | 50.3 |
+| 54 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -1.5% | -1.5% |
 | 23:50 | JPY | Capital Spending (YoY) (Q4) |  | 4.9% | 8.1% |

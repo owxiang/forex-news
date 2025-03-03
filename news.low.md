@@ -33,14 +33,14 @@
 | 12:00 | ZAR | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Feb) | 50.7 |  | 50.9 |
-| 49 min | EUR | French 12-Month BTF Auction |  |  | 2.241% |
-| 49 min | EUR | French 3-Month BTF Auction |  |  | 2.423% |
-| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.339% |
-| 14:30 | CAD | S&P Global Manufacturing PMI |  | 51.9 | 51.6 |
-| 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 14:30 | BRL | Budget Balance (Jan) |  |  | -80.372B |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 55.1 |
-| 15:00 | MXN | S&P Global Manufacturing PMI (Feb) |  |  | 49.10 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.239% |  | 2.241% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.396% |  | 2.423% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.339% |  | 2.339% |
+| 24 min | CAD | S&P Global Manufacturing PMI |  | 51.9 | 51.6 |
+| 24 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 24 min | BRL | Budget Balance (Jan) |  |  | -80.372B |
+| 54 min | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 55.1 |
+| 54 min | MXN | S&P Global Manufacturing PMI (Feb) |  |  | 49.10 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.180% |
 | 17:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |

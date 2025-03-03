@@ -33,8 +33,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) | 5.947B | 4.700B | 4.600B |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.6% |  | -0.9% |
-| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.4% | 2.3% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.4% | 2.3% | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.32 |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
@@ -45,21 +45,21 @@
 | 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) | 50.7 |  | 50.9 |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.241% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.423% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.339% |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI |  | 51.9 | 51.6 |
-| 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 14:30 | BRL | Low | Budget Balance (Jan) |  |  | -80.372B |
-| 14:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.6 | 51.2 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Jan) |  | -0.1% | 0.5% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 50.3 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Feb) |  |  | 55.1 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Feb) |  | 50.6 | 50.9 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Feb) |  | 56.2 | 54.9 |
-| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Feb) |  |  | 49.10 |
-| 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.239% |  | 2.241% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.396% |  | 2.423% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.339% |  | 2.339% |
+| 24 min | CAD | Low | S&P Global Manufacturing PMI |  | 51.9 | 51.6 |
+| 24 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 24 min | BRL | Low | Budget Balance (Jan) |  |  | -80.372B |
+| 24 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
+| 39 min | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.6 | 51.2 |
+| 54 min | USD | Moderate | Construction Spending (MoM) (Jan) |  | -0.1% | 0.5% |
+| 54 min | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 50.3 |
+| 54 min | USD | Low | ISM Manufacturing New Orders Index (Feb) |  |  | 55.1 |
+| 54 min | USD | High | ISM Manufacturing PMI (Feb) |  | 50.6 | 50.9 |
+| 54 min | USD | High | ISM Manufacturing Prices (Feb) |  | 56.2 | 54.9 |
+| 54 min | MXN | Low | S&P Global Manufacturing PMI (Feb) |  |  | 49.10 |
+| 54 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.180% |
 | 17:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
