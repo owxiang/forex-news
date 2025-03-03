@@ -28,8 +28,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
 | 11:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.3% |  | -5.8% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 11:00 | EUR | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
+| 11:00 | EUR | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 12:00 | ZAR | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
@@ -42,7 +42,7 @@
 | 15:00 | MXN | S&P Global Manufacturing PMI (Feb) | 47.60 |  | 49.10 |
 | 16:30 | USD | 3-Month Bill Auction | 4.210% |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction | 4.135% |  | 4.180% |
-| 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | -5.6% |
+| 39 min | NZD | Building Consents (MoM) (Jan) |  |  | -5.6% |
 | 23:00 | KRW | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
 | 23:00 | KRW | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
 | 23:00 | KRW | Retail Sales (MoM) (Jan) |  |  | -0.6% |
