@@ -13,21 +13,21 @@
 | 04:00 | IDR | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
-| 21 min | HKD | Retail Sales (YoY) (Jan) |  |  | -9.7% |
-| 51 min | NOK | Manufacturing PMI (Feb) |  |  | 51.2 |
-| 51 min | ZAR | Manufacturing PMI (Feb) |  |  | 45.3 |
-| 09:30 | GBP | BoE Consumer Credit (Jan) |  |  | 1.045B |
-| 09:30 | GBP | M3 Money Supply (Jan) |  |  | 3,081.6B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.1% |
-| 09:30 | GBP | Mortgage Approvals (Jan) |  | 66.00K | 66.53K |
-| 09:30 | GBP | Mortgage Lending (Jan) |  |  | 3.57B |
-| 09:30 | GBP | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
-| 10:00 | EUR | Core CPI (MoM) (Feb) |  |  | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
-| 10:00 | EUR | CPI, n.s.a (Feb) |  |  | 126.72 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
+| 08:30 | HKD | Retail Sales (YoY) (Jan) | -3.2% |  | -9.7% |
+| 09:00 | NOK | Manufacturing PMI (Feb) | 51.9 |  | 51.3 |
+| 09:00 | ZAR | Manufacturing PMI (Feb) | 44.7 |  | 45.3 |
+| 23 min | GBP | BoE Consumer Credit (Jan) |  |  | 1.045B |
+| 23 min | GBP | M3 Money Supply (Jan) |  |  | 3,081.6B |
+| 23 min | GBP | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.1% |
+| 23 min | GBP | Mortgage Approvals (Jan) |  | 66.00K | 66.53K |
+| 23 min | GBP | Mortgage Lending (Jan) |  |  | 3.57B |
+| 23 min | GBP | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
+| 53 min | EUR | Core CPI (MoM) (Feb) |  |  | -0.9% |
+| 53 min | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
+| 53 min | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
+| 53 min | EUR | CPI, n.s.a (Feb) |  |  | 126.72 |
+| 53 min | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
+| 53 min | EUR | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -31.30% |
 | 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 5.30% |
