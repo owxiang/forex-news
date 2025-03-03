@@ -9,7 +9,7 @@
 | 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q4) | 4.8% |  | 1.6% |
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
-| 11 min | CNY | Moderate | Caixin Manufacturing PMI (Feb) |  | 50.4 | 50.1 |
+| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.8 | 50.4 | 50.1 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
 | 04:00 | IDR | Low | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
 | 04:00 | IDR | Low | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
