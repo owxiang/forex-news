@@ -10,11 +10,11 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.8 | 50.4 | 50.1 |
-| 45 min | IDR | Low | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
-| 45 min | IDR | Low | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
-| 45 min | IDR | Low | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
-| 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) |  | 57.1 | 57.7 |
-| 05:00 | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 8.1% |
+| 04:00 | IDR | Low | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
+| 04:00 | IDR | Low | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
+| 04:00 | IDR | Low | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
+| 51 min | INR | Low | S&P Global Manufacturing PMI (Feb) |  | 57.1 | 57.7 |
+| 51 min | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) |  |  | -11.9% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) |  | 51.3 | 50.9 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 48.3 | 47.5 |
@@ -32,18 +32,18 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Jan) |  | 66.00K | 66.53K |
 | 09:30 | GBP | Low | Mortgage Lending (Jan) |  |  | 3.57B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  |  | -0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.3% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) |  |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Feb) |  |  | -31.30% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Feb) |  |  | 5.30% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Feb) |  |  | -31.30% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) |  |  | 10.40% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 46.40K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.7 |
