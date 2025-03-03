@@ -39,15 +39,15 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
-| 20 min | ZAR | Low | Total Vehicle Sales (YoY) (Feb) |  |  | 10.40% |
-| 20 min | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 46.40K |
-| 50 min | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.7 |
-| 50 min | SGD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.9 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.241% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.423% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.339% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
+| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
+| 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) | 50.7 |  | 50.9 |
+| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.241% |
+| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.423% |
+| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.339% |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI |  | 51.9 | 51.6 |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:30 | BRL | Low | Budget Balance (Jan) |  |  | -80.372B |
