@@ -9,8 +9,8 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 04:00 | IDR | Core Inflation (YoY) (Feb) | 2.48% | 2.45% | 2.36% |
-| 04:00 | IDR | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 04:00 | IDR | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
+| 04:00 | IDR | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
 | 08:30 | HKD | Retail Sales (YoY) (Jan) | -3.2% |  | -9.7% |
@@ -27,20 +27,18 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
 | 11:00 | EUR | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
-| 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
+| 11:00 | EUR | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
 | 12:00 | ZAR | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Feb) | 50.7 |  | 50.9 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.239% |  | 2.241% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.396% |  | 2.423% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.339% |  | 2.339% |
-| 24 min | CAD | S&P Global Manufacturing PMI |  | 51.9 | 51.6 |
-| 24 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 24 min | BRL | Budget Balance (Jan) |  |  | -80.372B |
-| 54 min | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 55.1 |
-| 54 min | MXN | S&P Global Manufacturing PMI (Feb) |  |  | 49.10 |
+| 14:30 | CAD | S&P Global Manufacturing PMI | 47.8 | 51.9 | 51.6 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Feb) | 48.6 |  | 55.1 |
+| 15:00 | MXN | S&P Global Manufacturing PMI (Feb) | 47.60 |  | 49.10 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.180% |
 | 17:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |

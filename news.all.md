@@ -11,8 +11,8 @@
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.8 | 50.4 | 50.1 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Feb) | 2.48% | 2.45% | 2.36% |
-| 04:00 | IDR | Low | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 04:00 | IDR | Low | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
+| 04:00 | IDR | Low | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) | 49.7 | 51.3 | 50.9 |
@@ -31,35 +31,32 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Jan) | 66.19K | 66.00K | 66.51K |
 | 09:30 | GBP | Low | Mortgage Lending (Jan) | 4.21B |  | 3.34B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) | 5.947B | 4.700B | 4.600B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.6% |  | -0.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.4% | 2.3% | 2.5% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.32 |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) | 50.7 |  | 50.9 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.239% |  | 2.241% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.396% |  | 2.423% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.339% |  | 2.339% |
-| 24 min | CAD | Low | S&P Global Manufacturing PMI |  | 51.9 | 51.6 |
-| 24 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 24 min | BRL | Low | Budget Balance (Jan) |  |  | -80.372B |
-| 24 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
-| 39 min | USD | High | S&P Global Manufacturing PMI (Feb) |  | 51.6 | 51.2 |
-| 54 min | USD | Moderate | Construction Spending (MoM) (Jan) |  | -0.1% | 0.5% |
-| 54 min | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 50.3 |
-| 54 min | USD | Low | ISM Manufacturing New Orders Index (Feb) |  |  | 55.1 |
-| 54 min | USD | High | ISM Manufacturing PMI (Feb) |  | 50.6 | 50.9 |
-| 54 min | USD | High | ISM Manufacturing Prices (Feb) |  | 56.2 | 54.9 |
-| 54 min | MXN | Low | S&P Global Manufacturing PMI (Feb) |  |  | 49.10 |
-| 54 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI | 47.8 | 51.9 | 51.6 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Feb) | 52.7 | 51.6 | 51.2 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Jan) | -0.2% | -0.1% | 0.5% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Feb) | 47.6 |  | 50.3 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Feb) | 48.6 |  | 55.1 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Feb) | 50.3 | 50.6 | 50.9 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Feb) | 62.4 | 56.2 | 54.9 |
+| 15:00 | MXN | Low | S&P Global Manufacturing PMI (Feb) | 47.60 |  | 49.10 |
+| 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.180% |
 | 17:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
