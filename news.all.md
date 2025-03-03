@@ -38,9 +38,9 @@
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.32 |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Low | Car Registration (YoY) (Feb) |  |  | 5.30% |
-| 53 min | EUR | Low | Car Registration (MoM) (Feb) |  |  | -31.30% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Low | Car Registration (MoM) (Feb) |  |  | -31.30% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Feb) |  |  | 5.30% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 46.40K |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) |  |  | 10.40% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.7 |
@@ -66,8 +66,8 @@
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.5% | -1.5% |
 | 21:45 | NZD | Low | Building Consents (MoM) (Jan) |  |  | -5.6% |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Jan) |  |  | -0.6% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Jan) |  |  | 1.7% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Jan) |  | 1.25 | 1.25 |
