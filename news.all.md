@@ -33,8 +33,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) | 5.947B | 4.700B | 4.600B |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.6% |  | -0.9% |
-| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.4% | 2.3% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.4% | 2.3% | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.32 |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
