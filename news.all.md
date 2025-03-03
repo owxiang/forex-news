@@ -10,9 +10,9 @@
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.8 | 50.4 | 50.1 |
-| 04:00 | IDR | Low | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
-| 04:00 | IDR | Low | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
-| 04:00 | IDR | Low | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
+| 45 min | IDR | Low | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
+| 45 min | IDR | Low | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
+| 45 min | IDR | Low | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) |  | 57.1 | 57.7 |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) |  |  | -11.9% |
@@ -34,10 +34,10 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  |  | -0.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.3% | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) |  |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
@@ -69,8 +69,8 @@
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.5% | -1.5% |
 | 21:45 | NZD | Low | Building Consents (MoM) (Jan) |  |  | -5.6% |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Jan) |  |  | -0.6% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Jan) |  |  | 1.7% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Jan) |  | 1.25 | 1.25 |

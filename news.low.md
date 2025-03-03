@@ -8,9 +8,9 @@
 | 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q4) | 4.8% |  | 1.6% |
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
-| 04:00 | IDR | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
-| 04:00 | IDR | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
-| 04:00 | IDR | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
+| 45 min | IDR | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
+| 45 min | IDR | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
+| 45 min | IDR | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) |  | 57.1 | 57.7 |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) |  |  | -11.9% |
@@ -24,8 +24,8 @@
 | 09:30 | GBP | Mortgage Lending (Jan) |  |  | 3.57B |
 | 09:30 | GBP | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
 | 10:00 | EUR | Core CPI (MoM) (Feb) |  |  | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Feb) |  |  | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
@@ -49,8 +49,8 @@
 | 17:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | -5.6% |
-| 23:00 | KRW | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
 | 23:00 | KRW | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
+| 23:00 | KRW | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
 | 23:00 | KRW | Retail Sales (MoM) (Jan) |  |  | -0.6% |
 | 23:00 | KRW | Service Sector Output (MoM) (Jan) |  |  | 1.7% |
 | 23:30 | JPY | Jobs/applications ratio (Jan) |  | 1.25 | 1.25 |
