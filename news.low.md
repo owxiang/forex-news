@@ -9,8 +9,8 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 04:00 | IDR | Core Inflation (YoY) (Feb) | 2.48% | 2.45% | 2.36% |
-| 04:00 | IDR | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
 | 04:00 | IDR | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
+| 04:00 | IDR | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
 | 08:30 | HKD | Retail Sales (YoY) (Jan) | -3.2% |  | -9.7% |
@@ -28,10 +28,10 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
 | 11:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.3% |  | -5.8% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
 | 11:00 | EUR | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
-| 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
+| 11:00 | EUR | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
 | 12:00 | ZAR | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Feb) | 50.7 |  | 50.9 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.239% |  | 2.241% |
@@ -43,10 +43,10 @@
 | 16:30 | USD | 3-Month Bill Auction | 4.210% |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction | 4.135% |  | 4.180% |
 | 21:45 | NZD | Building Consents (MoM) (Jan) | 2.6% |  | -5.6% |
-| 54 min | KRW | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
-| 54 min | KRW | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
-| 54 min | KRW | Retail Sales (MoM) (Jan) |  |  | -0.6% |
-| 54 min | KRW | Service Sector Output (MoM) (Jan) |  |  | 1.7% |
-| 23:30 | JPY | Jobs/applications ratio (Jan) |  | 1.25 | 1.25 |
-| 23:30 | JPY | Unemployment Rate (Jan) |  | 2.4% | 2.4% |
-| 23:50 | JPY | Monetary Base (YoY) (Feb) |  | -1.8% | -2.5% |
+| 23:00 | KRW | Industrial Production (YoY) (Jan) | -4.1% | -2.0% | 4.4% |
+| 23:00 | KRW | Industrial Production (MoM) (Jan) | -2.3% | -3.1% | 3.9% |
+| 23:00 | KRW | Retail Sales (MoM) (Jan) | -0.6% |  | 0.2% |
+| 23:00 | KRW | Service Sector Output (MoM) (Jan) | -0.8% |  | 1.1% |
+| 24 min | JPY | Jobs/applications ratio (Jan) |  | 1.25 | 1.25 |
+| 24 min | JPY | Unemployment Rate (Jan) |  | 2.4% | 2.4% |
+| 44 min | JPY | Monetary Base (YoY) (Feb) |  | -1.8% | -2.5% |

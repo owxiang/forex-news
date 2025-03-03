@@ -17,4 +17,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Feb) | 47.6 |  | 50.3 |
 | 15:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | -2.8% | -1.5% | -1.5% |
-| 23:50 | JPY | Capital Spending (YoY) (Q4) |  | 4.9% | 8.1% |
+| 44 min | JPY | Capital Spending (YoY) (Q4) |  | 4.9% | 8.1% |
