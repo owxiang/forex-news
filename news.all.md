@@ -11,8 +11,8 @@
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.8 | 50.4 | 50.1 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Feb) | 2.48% | 2.45% | 2.36% |
-| 04:00 | IDR | Low | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 04:00 | IDR | Low | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
+| 04:00 | IDR | Low | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) | 49.7 | 51.3 | 50.9 |
@@ -31,8 +31,8 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Jan) | 66.19K | 66.00K | 66.51K |
 | 09:30 | GBP | Low | Mortgage Lending (Jan) | 4.21B |  | 3.34B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) | 5.947B | 4.700B | 4.600B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.6% |  | -0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.4% | 2.3% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.32 |  | 126.72 |
@@ -42,8 +42,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) | 50.7 |  | 50.9 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.239% |  | 2.241% |
@@ -61,11 +61,11 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.210% |  | 4.195% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.135% |  | 4.180% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.8% | -1.5% | -1.5% |
-| 39 min | NZD | Low | Building Consents (MoM) (Jan) |  |  | -5.6% |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
-| 23:00 | KRW | Low | Retail Sales (MoM) (Jan) |  |  | -0.6% |
-| 23:00 | KRW | Low | Service Sector Output (MoM) (Jan) |  |  | 1.7% |
+| 21:45 | NZD | Low | Building Consents (MoM) (Jan) | 2.6% |  | -5.6% |
+| 54 min | KRW | Low | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
+| 54 min | KRW | Low | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
+| 54 min | KRW | Low | Retail Sales (MoM) (Jan) |  |  | -0.6% |
+| 54 min | KRW | Low | Service Sector Output (MoM) (Jan) |  |  | 1.7% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Jan) |  | 1.25 | 1.25 |
 | 23:30 | JPY | Low | Unemployment Rate (Jan) |  | 2.4% | 2.4% |
 | 23:50 | JPY | Moderate | Capital Spending (YoY) (Q4) |  | 4.9% | 8.1% |
