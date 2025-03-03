@@ -9,8 +9,8 @@
 | 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
 | 00:30 | IDR | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 04:00 | IDR | Core Inflation (YoY) (Feb) | 2.48% | 2.45% | 2.36% |
-| 04:00 | IDR | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
 | 04:00 | IDR | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
+| 04:00 | IDR | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
 | 08:30 | HKD | Retail Sales (YoY) (Jan) | -3.2% |  | -9.7% |
@@ -26,6 +26,7 @@
 | 10:00 | EUR | CPI, n.s.a (Feb) | 127.32 |  | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
+| 11:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.3% |  | -5.8% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 11:00 | EUR | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
@@ -41,10 +42,9 @@
 | 15:00 | MXN | S&P Global Manufacturing PMI (Feb) | 47.60 |  | 49.10 |
 | 16:30 | USD | 3-Month Bill Auction | 4.210% |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction | 4.135% |  | 4.180% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | -5.6% |
-| 23:00 | KRW | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
 | 23:00 | KRW | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
+| 23:00 | KRW | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
 | 23:00 | KRW | Retail Sales (MoM) (Jan) |  |  | -0.6% |
 | 23:00 | KRW | Service Sector Output (MoM) (Jan) |  |  | 1.7% |
 | 23:30 | JPY | Jobs/applications ratio (Jan) |  | 1.25 | 1.25 |
