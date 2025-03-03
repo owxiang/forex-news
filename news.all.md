@@ -15,15 +15,15 @@
 | 04:00 | IDR | Low | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) |  | 51.3 | 50.9 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 48.3 | 47.5 |
-| 08:30 | HKD | Low | Retail Sales (YoY) (Jan) |  |  | -9.7% |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Feb) |  | 46.6 | 46.3 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 45.5 | 45.0 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.0 |
-| 09:00 | NOK | Low | Manufacturing PMI (Feb) |  |  | 51.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.3 | 46.6 |
-| 09:00 | ZAR | Low | Manufacturing PMI (Feb) |  |  | 45.3 |
+| 6 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) |  | 51.3 | 50.9 |
+| 21 min | CHF | Moderate | procure.ch Manufacturing PMI (Feb) |  | 48.3 | 47.5 |
+| 21 min | HKD | Low | Retail Sales (YoY) (Jan) |  |  | -9.7% |
+| 36 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Feb) |  | 46.6 | 46.3 |
+| 41 min | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 45.5 | 45.0 |
+| 46 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.0 |
+| 51 min | NOK | Low | Manufacturing PMI (Feb) |  |  | 51.2 |
+| 51 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.3 | 46.6 |
+| 51 min | ZAR | Low | Manufacturing PMI (Feb) |  |  | 45.3 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Jan) |  |  | 1.045B |
 | 09:30 | GBP | Low | M3 Money Supply (Jan) |  |  | 3,081.6B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.1% |
@@ -33,8 +33,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  |  | -0.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.3% | 2.5% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) |  |  | 126.72 |

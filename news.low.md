@@ -13,9 +13,9 @@
 | 04:00 | IDR | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
-| 08:30 | HKD | Retail Sales (YoY) (Jan) |  |  | -9.7% |
-| 09:00 | NOK | Manufacturing PMI (Feb) |  |  | 51.2 |
-| 09:00 | ZAR | Manufacturing PMI (Feb) |  |  | 45.3 |
+| 21 min | HKD | Retail Sales (YoY) (Jan) |  |  | -9.7% |
+| 51 min | NOK | Manufacturing PMI (Feb) |  |  | 51.2 |
+| 51 min | ZAR | Manufacturing PMI (Feb) |  |  | 45.3 |
 | 09:30 | GBP | BoE Consumer Credit (Jan) |  |  | 1.045B |
 | 09:30 | GBP | M3 Money Supply (Jan) |  |  | 3,081.6B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.1% |
