@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Gauge (MoM) (Feb) | -0.2% |  | 0.1% |
-| 2 min | AUD | ANZ Job Advertisements (MoM) (Feb) |  |  | 0.2% |
-| 2 min | AUD | Business inventories (MoM) (Q4) |  | 0.0% | -0.9% |
-| 2 min | AUD | Company Profits Pre-Tax (QoQ) (Q4) |  |  | 1.6% |
-| 2 min | JPY | au Jibun Bank Manufacturing PMI (Feb) |  | 48.9 | 48.7 |
-| 2 min | IDR | S&P Global Manufacturing PMI (Feb) |  |  | 51.9 |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) (Feb) | -1.4% |  | 1.3% |
+| 00:30 | AUD | Business inventories (MoM) (Q4) | 0.1% | 0.0% | -0.7% |
+| 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q4) | 4.8% |  | 1.6% |
+| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
+| 00:30 | IDR | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 04:00 | IDR | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
-| 04:00 | IDR | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
 | 04:00 | IDR | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
+| 04:00 | IDR | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
 | 05:00 | INR | S&P Global Manufacturing PMI (Feb) |  | 57.1 | 57.7 |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) |  |  | -11.9% |
@@ -30,10 +30,10 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 5.30% |
 | 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -31.30% |
-| 12:30 | ZAR | Total Vehicle Sales (Feb) |  |  | 46.40K |
+| 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 5.30% |
 | 12:30 | ZAR | Total Vehicle Sales (YoY) (Feb) |  |  | 10.40% |
+| 12:30 | ZAR | Total Vehicle Sales (Feb) |  |  | 46.40K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) |  |  | 50.7 |
 | 13:00 | SGD | S&P Global Manufacturing PMI (Feb) |  |  | 50.9 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.241% |

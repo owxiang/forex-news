@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | AUD | Company Gross Operating Profits (QoQ) (Q4) |  | 1.7% | -4.6% |
-| 01:45 | CNY | Caixin Manufacturing PMI (Feb) |  | 50.4 | 50.1 |
+| 00:30 | AUD | Company Gross Operating Profits (QoQ) (Q4) | 5.9% | 1.7% | -4.9% |
+| 11 min | CNY | Caixin Manufacturing PMI (Feb) |  | 50.4 | 50.1 |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Feb) |  | 51.3 | 50.9 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Feb) |  | 48.3 | 47.5 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Feb) |  | 46.6 | 46.3 |

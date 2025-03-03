@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Gauge (MoM) (Feb) | -0.2% |  | 0.1% |
-| 2 min | AUD | Low | ANZ Job Advertisements (MoM) (Feb) |  |  | 0.2% |
-| 2 min | AUD | Low | Business inventories (MoM) (Q4) |  | 0.0% | -0.9% |
-| 2 min | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q4) |  | 1.7% | -4.6% |
-| 2 min | AUD | Low | Company Profits Pre-Tax (QoQ) (Q4) |  |  | 1.6% |
-| 2 min | JPY | Low | au Jibun Bank Manufacturing PMI (Feb) |  | 48.9 | 48.7 |
-| 2 min | IDR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 51.9 |
-| 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) |  | 50.4 | 50.1 |
+| 00:30 | AUD | Low | ANZ Job Advertisements (MoM) (Feb) | -1.4% |  | 1.3% |
+| 00:30 | AUD | Low | Business inventories (MoM) (Q4) | 0.1% | 0.0% | -0.7% |
+| 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q4) | 5.9% | 1.7% | -4.9% |
+| 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q4) | 4.8% |  | 1.6% |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Feb) | 49.0 | 48.9 | 48.7 |
+| 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
+| 11 min | CNY | Moderate | Caixin Manufacturing PMI (Feb) |  | 50.4 | 50.1 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Feb) |  | 2.45% | 2.36% |
-| 04:00 | IDR | Low | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
 | 04:00 | IDR | Low | Inflation (YoY) (Feb) |  | 0.41% | 0.76% |
+| 04:00 | IDR | Low | Inflation (MoM) (Feb) |  | 0.02% | -0.76% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) |  | 57.1 | 57.7 |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 8.1% |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) |  |  | -11.9% |
@@ -34,18 +34,18 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  |  | -0.9% |
-| 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.3% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.3% | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) |  |  | 126.72 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Feb) |  |  | 5.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Feb) |  |  | -31.30% |
-| 12:30 | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 46.40K |
+| 11:00 | EUR | Low | Car Registration (YoY) (Feb) |  |  | 5.30% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) |  |  | 10.40% |
+| 12:30 | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 46.40K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.7 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.9 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.241% |
