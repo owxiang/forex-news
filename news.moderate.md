@@ -10,9 +10,9 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Feb) | 45.8 | 45.5 | 45.0 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Feb) | 46.5 | 46.1 | 45.0 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) | 47.6 | 47.3 | 46.6 |
-| 23 min | GBP | S&P Global Manufacturing PMI (Feb) |  | 46.4 | 48.3 |
-| 53 min | EUR | Core CPI (YoY) (Feb) |  | 2.5% | 2.7% |
-| 53 min | EUR | CPI (MoM) (Feb) |  |  | -0.3% |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Feb) | 46.9 | 46.4 | 48.3 |
+| 10:00 | EUR | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
 | 14:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
 | 15:00 | USD | Construction Spending (MoM) (Jan) |  | -0.1% | 0.5% |
 | 15:00 | USD | ISM Manufacturing Employment (Feb) |  |  | 50.3 |

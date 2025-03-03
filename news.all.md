@@ -11,8 +11,8 @@
 | 00:30 | IDR | Low | S&P Global Manufacturing PMI (Feb) | 53.6 |  | 51.9 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.8 | 50.4 | 50.1 |
 | 04:00 | IDR | Low | Core Inflation (YoY) (Feb) | 2.48% | 2.45% | 2.36% |
-| 04:00 | IDR | Low | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 04:00 | IDR | Low | Inflation (YoY) (Feb) | -0.09% | 0.41% | 0.76% |
+| 04:00 | IDR | Low | Inflation (MoM) (Feb) | -0.48% | 0.02% | -0.76% |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Feb) | 56.3 | 57.1 | 57.7 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | -8.2% |  | -10.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Feb) | 49.7 | 51.3 | 50.9 |
@@ -24,27 +24,25 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Feb) | 51.9 |  | 51.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) | 47.6 | 47.3 | 46.6 |
 | 09:00 | ZAR | Low | Manufacturing PMI (Feb) | 44.7 |  | 45.3 |
-| 23 min | GBP | Low | BoE Consumer Credit (Jan) |  |  | 1.045B |
-| 23 min | GBP | Low | M3 Money Supply (Jan) |  |  | 3,081.6B |
-| 23 min | GBP | Low | M4 Money Supply (MoM) (Jan) |  | 0.2% | 0.1% |
-| 23 min | GBP | Moderate | S&P Global Manufacturing PMI (Feb) |  | 46.4 | 48.3 |
-| 23 min | GBP | Low | Mortgage Approvals (Jan) |  | 66.00K | 66.53K |
-| 23 min | GBP | Low | Mortgage Lending (Jan) |  |  | 3.57B |
-| 23 min | GBP | Low | Net Lending to Individuals (Jan) |  | 4.700B | 4.600B |
-| 53 min | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.5% | 2.7% |
-| 53 min | EUR | Low | Core CPI (MoM) (Feb) |  |  | -0.9% |
-| 53 min | EUR | High | CPI (YoY) (Feb) |  | 2.3% | 2.5% |
-| 53 min | EUR | Moderate | CPI (MoM) (Feb) |  |  | -0.3% |
-| 53 min | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
-| 53 min | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
-| 53 min | EUR | Low | CPI, n.s.a (Feb) |  |  | 126.72 |
-| 53 min | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  |  | 2.7% |
-| 53 min | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  |  | -0.7% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Car Registration (MoM) (Feb) |  |  | -31.30% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Feb) |  |  | 5.30% |
-| 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) |  |  | 10.40% |
+| 09:30 | GBP | Low | BoE Consumer Credit (Jan) | 1.740B |  | 1.062B |
+| 09:30 | GBP | Low | M3 Money Supply (Jan) | 3,125.9B |  | 3,084.2B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Jan) | 1.3% | 0.2% | 0.1% |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Feb) | 46.9 | 46.4 | 48.3 |
+| 09:30 | GBP | Low | Mortgage Approvals (Jan) | 66.19K | 66.00K | 66.51K |
+| 09:30 | GBP | Low | Mortgage Lending (Jan) | 4.21B |  | 3.34B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Jan) | 5.947B | 4.700B | 4.600B |
+| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.6% |  | -0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.5% | 2.7% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.4% | 2.3% | 2.5% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.5% |  | -0.3% |
+| 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.32 |  | 126.72 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | EUR | Low | Car Registration (YoY) (Feb) |  |  | 5.30% |
+| 53 min | EUR | Low | Car Registration (MoM) (Feb) |  |  | -31.30% |
 | 12:30 | ZAR | Low | Total Vehicle Sales (Feb) |  |  | 46.40K |
+| 12:30 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) |  |  | 10.40% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.7 |
 | 13:00 | SGD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 50.9 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.241% |
