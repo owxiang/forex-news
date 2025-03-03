@@ -39,8 +39,8 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
@@ -57,10 +57,10 @@
 | 15:00 | USD | High | ISM Manufacturing Prices (Feb) | 62.4 | 56.2 | 54.9 |
 | 15:00 | MXN | Low | S&P Global Manufacturing PMI (Feb) | 47.60 |  | 49.10 |
 | 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.180% |
-| 17:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.180% |
+| 52 min | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
+| 52 min | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.5% | -1.5% |
 | 21:45 | NZD | Low | Building Consents (MoM) (Jan) |  |  | -5.6% |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |

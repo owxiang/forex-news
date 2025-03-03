@@ -27,8 +27,8 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.6% |  | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% |  | -0.7% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 11:00 | EUR | Car Registration (MoM) (Feb) | 24.90% |  | -31.30% |
+| 11:00 | EUR | Car Registration (YoY) (Feb) | 10.50% |  | 5.30% |
 | 12:00 | ZAR | Total Vehicle Sales (Feb) | 47.98K |  | 46.40K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | 7.30% |  | 10.40% |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 53.0 |  | 50.7 |
@@ -39,10 +39,10 @@
 | 14:30 | CAD | S&P Global Manufacturing PMI | 47.8 | 51.9 | 51.6 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Feb) | 48.6 |  | 55.1 |
 | 15:00 | MXN | S&P Global Manufacturing PMI (Feb) | 47.60 |  | 49.10 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.195% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.180% |
-| 17:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
+| 22 min | USD | 3-Month Bill Auction |  |  | 4.195% |
+| 22 min | USD | 6-Month Bill Auction |  |  | 4.180% |
+| 52 min | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
+| 52 min | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | -5.6% |
 | 23:00 | KRW | Industrial Production (YoY) (Jan) |  | -2.0% | 5.3% |
 | 23:00 | KRW | Industrial Production (MoM) (Jan) |  | -3.1% | 4.6% |
