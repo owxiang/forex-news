@@ -9,11 +9,10 @@
 | 07:45 | EUR | French Government Budget Balance (Jan) | -17.3B |  | -156.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) | 6.3% | 6.2% | 6.4% |
 | 09:30 | ZAR | GDP (YoY) (Q4) | 0.9% |  | 0.4% |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 5.198% |
-| 10:00 | EUR | Spanish 12-Month Letras Auction |  |  | 2.221% |
-| 10:00 | EUR | Spanish 6-Month Letras Auction |  |  | 2.355% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.170% |
-| 11:30 | BRL | Budget Balance (Jan) |  |  | -80.372B |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction | 5.104% |  | 5.198% |
+| 10:00 | EUR | Spanish 12-Month Letras Auction | 2.173% |  | 2.221% |
+| 10:00 | EUR | Spanish 6-Month Letras Auction | 2.255% |  | 2.355% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.150% |  | 2.170% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.2% |
 | 14:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.6% |
 | 14:00 | USD | Milk Auctions |  |  | 4,370.0 |
@@ -22,5 +21,5 @@
 | 19:30 | AUD | AIG Manufacturing Index (Feb) |  |  | -22.7 |
 | 21:45 | GBP | BoE Hauser Speaks |  |  |  |
 | 22:00 | AUD | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 23:00 | KRW | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
+| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |

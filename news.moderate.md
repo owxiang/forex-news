@@ -9,6 +9,5 @@
 | 08:00 | EUR | Spanish Unemployment Change (Feb) | -6.0K | 45.2K | 38.7K |
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q4) | 0.6% | 0.9% | -0.1% |
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.2% | 6.3% | 6.2% |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
 | 19:20 | USD | FOMC Member Williams Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.640M |
