@@ -35,5 +35,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.640M |
 | 21:45 | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |

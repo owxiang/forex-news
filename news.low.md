@@ -26,5 +26,5 @@
 | 19:30 | AUD | AIG Manufacturing Index (Feb) |  |  | -22.7 |
 | 21:45 | GBP | BoE Hauser Speaks |  |  |  |
 | 22:00 | AUD | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
 | 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 23:00 | KRW | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
