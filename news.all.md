@@ -8,10 +8,11 @@
 | 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 00:30 | AUD | Low | Net Exports Contribution (Q4) | 0.2% | -0.1% | 0.1% |
 | 00:30 | AUD | Moderate | Retail Sales (MoM) (Jan) | 0.3% | 0.3% | -0.1% |
-| 53 min | JPY | Low | Household Confidence (Feb) |  | 35.7 | 35.2 |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.404% |  | 1.260% |
+| 05:00 | JPY | Low | Household Confidence (Feb) | 35.0 | 35.2 | 35.2 |
 | 07:45 | EUR | Low | French Government Budget Balance (Jan) |  |  | -156.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 45.2K | 38.7K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) |  | 6.3% | 6.2% |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) |  | 6.2% | 6.2% |
 | 09:30 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.2% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 0.3% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | -0.3% |
@@ -23,10 +24,10 @@
 | 10:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 11:30 | BRL | Low | Budget Balance (Jan) |  |  | -80.372B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
-| 12:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
-| 12:00 | USD | Low | Milk Auctions |  |  | 4,370.0 |
 | 13:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.2% |
+| 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
+| 14:00 | USD | Low | Milk Auctions |  |  | 4,370.0 |
 | 14:15 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (Mar) |  | 53.1 | 52.0 |
 | 19:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
