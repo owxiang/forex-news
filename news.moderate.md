@@ -10,4 +10,4 @@
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q4) | 0.6% | 0.9% | -0.1% |
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.2% | 6.3% | 6.2% |
 | 19:20 | USD | FOMC Member Williams Speaks |  |  |  |
-| 25 min | USD | API Weekly Crude Oil Stock |  | -0.300M | -0.640M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -1.455M | -0.300M | -0.640M |

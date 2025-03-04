@@ -27,10 +27,9 @@
 | 14:30 | USD | Low | Milk Auctions | 4,209.0 |  | 4,370.0 |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (Mar) | 49.8 | 53.1 | 52.0 |
 | 19:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.300M | -0.640M |
-| 40 min | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 55 min | AUD | Low | AIG Construction Index (Feb) |  |  | -20.0 |
-| 55 min | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -22.7 |
-| 55 min | AUD | Low | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -1.455M | -0.300M | -0.640M |
+| 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -20.0 |
+| 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -22.7 |
+| 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
+| 54 min | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 54 min | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
