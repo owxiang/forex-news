@@ -13,8 +13,8 @@
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 45.2K | 38.7K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) |  | 6.3% | 6.2% |
 | 09:30 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.2% |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 0.3% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | -0.3% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 0.3% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.221% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.355% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.198% |
