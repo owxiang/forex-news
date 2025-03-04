@@ -20,10 +20,10 @@
 | 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 2.255% |  | 2.355% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.2% | 6.3% | 6.2% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.150% |  | 2.170% |
-| 44 min | USD | Low | Redbook (YoY) |  |  | 6.2% |
-| 49 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
-| 49 min | USD | Low | Milk Auctions |  |  | 4,370.0 |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Mar) |  | 53.1 | 52.0 |
+| 12:00 | USD | Low | All Car Sales (Feb) | 2.95M |  | 2.83M |
+| 12:00 | USD | Low | All Truck Sales (Feb) | 13.05M |  | 12.67M |
+| 13:55 | USD | Low | Redbook (YoY) | 6.6% |  | 6.2% |
+| 54 min | USD | Low | IBD/TIPP Economic Optimism (Mar) |  | 53.1 | 52.0 |
 | 19:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | AUD | Low | AIG Construction Index (Feb) |  |  | -20.0 |
 | 19:30 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -22.7 |

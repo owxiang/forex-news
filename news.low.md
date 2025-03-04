@@ -13,10 +13,10 @@
 | 10:00 | EUR | Spanish 12-Month Letras Auction | 2.173% |  | 2.221% |
 | 10:00 | EUR | Spanish 6-Month Letras Auction | 2.255% |  | 2.355% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.150% |  | 2.170% |
-| 44 min | USD | Redbook (YoY) |  |  | 6.2% |
-| 49 min | NZD | GlobalDairyTrade Price Index |  |  | -0.6% |
-| 49 min | USD | Milk Auctions |  |  | 4,370.0 |
-| 15:00 | USD | IBD/TIPP Economic Optimism (Mar) |  | 53.1 | 52.0 |
+| 12:00 | USD | All Car Sales (Feb) | 2.95M |  | 2.83M |
+| 12:00 | USD | All Truck Sales (Feb) | 13.05M |  | 12.67M |
+| 13:55 | USD | Redbook (YoY) | 6.6% |  | 6.2% |
+| 54 min | USD | IBD/TIPP Economic Optimism (Mar) |  | 53.1 | 52.0 |
 | 19:30 | AUD | AIG Construction Index (Feb) |  |  | -20.0 |
 | 19:30 | AUD | AIG Manufacturing Index (Feb) |  |  | -22.7 |
 | 21:45 | GBP | BoE Hauser Speaks |  |  |  |
