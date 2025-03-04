@@ -13,13 +13,12 @@
 | 07:45 | EUR | Low | French Government Budget Balance (Jan) | -17.3B |  | -156.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) | -6.0K | 45.2K | 38.7K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) | 6.3% | 6.2% | 6.4% |
-| 23 min | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.2% |
-| 23 min | ZAR | Low | GDP (YoY) (Q4) |  |  | 0.3% |
-| 23 min | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | -0.3% |
-| 33 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.221% |
-| 33 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.355% |
-| 53 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.198% |
-| 53 min | EUR | Moderate | Unemployment Rate (Jan) |  | 6.3% | 6.3% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 0.9% |  | 0.4% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) | 0.6% | 0.9% | -0.1% |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.198% |
+| 10:00 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.221% |
+| 10:00 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.355% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.2% | 6.3% | 6.2% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.170% |
 | 11:30 | BRL | Low | Budget Balance (Jan) |  |  | -80.372B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
@@ -33,5 +32,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.640M |
 | 21:45 | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
