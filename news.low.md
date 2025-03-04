@@ -14,9 +14,7 @@
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.355% |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 5.198% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.170% |
-| 10:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 11:30 | BRL | Budget Balance (Jan) |  |  | -80.372B |
-| 13:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.80% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.2% |
 | 14:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.6% |
 | 14:00 | USD | Milk Auctions |  |  | 4,370.0 |

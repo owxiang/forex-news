@@ -21,10 +21,8 @@
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.198% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) |  | 6.3% | 6.3% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.170% |
-| 10:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 11:30 | BRL | Low | Budget Balance (Jan) |  |  | -80.372B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |
-| 13:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.80% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.2% |
 | 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
 | 14:00 | USD | Low | Milk Auctions |  |  | 4,370.0 |
