@@ -6,7 +6,7 @@
 | 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Feb) | 49.9 |  | 50.3 |
 | 00:30 | AUD | Net Exports Contribution (Q4) | 0.2% | -0.1% | 0.1% |
 | 05:00 | JPY | Household Confidence (Feb) | 35.0 | 35.2 | 35.2 |
-| 07:45 | EUR | French Government Budget Balance (Jan) |  |  | -156.3B |
+| 38 min | EUR | French Government Budget Balance (Jan) |  |  | -156.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 6.2% | 6.2% |
 | 09:30 | EUR | French Car Registration (YoY) (Feb) |  |  | -6.2% |
 | 09:30 | ZAR | GDP (YoY) (Q4) |  |  | 0.3% |

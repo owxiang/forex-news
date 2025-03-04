@@ -10,8 +10,8 @@
 | 00:30 | AUD | Moderate | Retail Sales (MoM) (Jan) | 0.3% | 0.3% | -0.1% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.404% |  | 1.260% |
 | 05:00 | JPY | Low | Household Confidence (Feb) | 35.0 | 35.2 | 35.2 |
-| 07:45 | EUR | Low | French Government Budget Balance (Jan) |  |  | -156.3B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 45.2K | 38.7K |
+| 38 min | EUR | Low | French Government Budget Balance (Jan) |  |  | -156.3B |
+| 53 min | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 45.2K | 38.7K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) |  | 6.2% | 6.2% |
 | 09:30 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.2% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 0.3% |
