@@ -6,7 +6,7 @@
 | 00:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 00:30 | AUD | Retail Sales (MoM) (Jan) | 0.3% | 0.3% | -0.1% |
 | 03:35 | JPY | 10-Year JGB Auction | 1.404% |  | 1.260% |
-| 53 min | EUR | Spanish Unemployment Change (Feb) |  | 45.2K | 38.7K |
+| 08:00 | EUR | Spanish Unemployment Change (Feb) | -6.0K | 45.2K | 38.7K |
 | 09:30 | ZAR | GDP Annualized (QoQ) (Q4) |  |  | -0.3% |
 | 10:00 | EUR | Unemployment Rate (Jan) |  | 6.3% | 6.3% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 76.1% |

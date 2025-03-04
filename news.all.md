@@ -10,12 +10,12 @@
 | 00:30 | AUD | Moderate | Retail Sales (MoM) (Jan) | 0.3% | 0.3% | -0.1% |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.404% |  | 1.260% |
 | 05:00 | JPY | Low | Household Confidence (Feb) | 35.0 | 35.2 | 35.2 |
-| 38 min | EUR | Low | French Government Budget Balance (Jan) |  |  | -156.3B |
-| 53 min | EUR | Moderate | Spanish Unemployment Change (Feb) |  | 45.2K | 38.7K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) |  | 6.2% | 6.2% |
+| 07:45 | EUR | Low | French Government Budget Balance (Jan) | -17.3B |  | -156.3B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) | -6.0K | 45.2K | 38.7K |
+| 52 min | EUR | Low | Italian Monthly Unemployment Rate (Jan) |  | 6.2% | 6.2% |
 | 09:30 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.2% |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 0.3% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) |  |  | -0.3% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q4) |  |  | 0.3% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.221% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.355% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.198% |
@@ -34,5 +34,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.640M |
 | 21:45 | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
 | 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
