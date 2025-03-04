@@ -25,7 +25,7 @@
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index | -0.5% |  | -0.6% |
 | 12:00 | USD | Low | Milk Auctions | 4,209.0 |  | 4,370.0 |
 | 13:55 | USD | Low | Redbook (YoY) | 6.6% |  | 6.2% |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Mar) |  | 53.1 | 52.0 |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Mar) | 49.8 | 53.1 | 52.0 |
 | 19:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | AUD | Low | AIG Construction Index (Feb) |  |  | -20.0 |
 | 19:30 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -22.7 |
