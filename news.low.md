@@ -5,7 +5,7 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.7% | -0.5% | -0.7% |
 | 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Feb) | 49.9 |  | 50.3 |
 | 00:30 | AUD | Net Exports Contribution (Q4) | 0.2% | -0.1% | 0.1% |
-| 05:00 | JPY | Household Confidence (Feb) |  | 35.7 | 35.2 |
+| 53 min | JPY | Household Confidence (Feb) |  | 35.7 | 35.2 |
 | 07:45 | EUR | French Government Budget Balance (Jan) |  |  | -156.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 6.3% | 6.2% |
 | 09:30 | EUR | French Car Registration (YoY) (Feb) |  |  | -6.2% |
@@ -26,5 +26,5 @@
 | 19:30 | AUD | AIG Manufacturing Index (Feb) |  |  | -22.7 |
 | 21:45 | GBP | BoE Hauser Speaks |  |  |  |
 | 22:00 | AUD | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 23:00 | KRW | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
+| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
