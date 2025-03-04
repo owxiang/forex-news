@@ -13,16 +13,16 @@
 | 07:45 | EUR | Low | French Government Budget Balance (Jan) | -17.3B |  | -156.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) | -6.0K | 45.2K | 38.7K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) | 6.3% | 6.2% | 6.4% |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 0.9% |  | 0.4% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) | 0.6% | 0.9% | -0.1% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 0.9% |  | 0.4% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction | 5.104% |  | 5.198% |
 | 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 2.173% |  | 2.221% |
 | 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 2.255% |  | 2.355% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.2% | 6.3% | 6.2% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.150% |  | 2.170% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.2% |
-| 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
-| 14:00 | USD | Low | Milk Auctions |  |  | 4,370.0 |
+| 44 min | USD | Low | Redbook (YoY) |  |  | 6.2% |
+| 49 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.6% |
+| 49 min | USD | Low | Milk Auctions |  |  | 4,370.0 |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (Mar) |  | 53.1 | 52.0 |
 | 19:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | AUD | Low | AIG Construction Index (Feb) |  |  | -20.0 |
@@ -30,5 +30,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.640M |
 | 21:45 | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 22:00 | AUD | Low | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
