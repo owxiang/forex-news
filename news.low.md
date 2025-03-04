@@ -19,8 +19,8 @@
 | 14:30 | NZD | GlobalDairyTrade Price Index | -0.5% |  | -0.6% |
 | 14:30 | USD | Milk Auctions | 4,209.0 |  | 4,370.0 |
 | 15:00 | USD | IBD/TIPP Economic Optimism (Mar) | 49.8 | 53.1 | 52.0 |
-| 22:00 | AUD | AIG Construction Index (Feb) |  |  | -20.0 |
-| 22:00 | AUD | AIG Manufacturing Index (Feb) |  |  | -22.7 |
-| 22:00 | AUD | Judo Bank Services PMI (Feb) |  | 51.4 | 51.2 |
-| 54 min | KRW | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
-| 54 min | KRW | GDP (YoY) (Q4) |  | 1.2% | 1.2% |
+| 22:00 | AUD | AIG Construction Index (Feb) | -3.7 |  | -20.0 |
+| 22:00 | AUD | AIG Manufacturing Index (Feb) | -8.2 |  | -22.7 |
+| 22:00 | AUD | Judo Bank Services PMI (Feb) | 50.8 | 51.4 | 51.2 |
+| 23:00 | KRW | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.1% |
+| 23:00 | KRW | GDP (YoY) (Q4) | 1.2% | 1.2% | 1.2% |
