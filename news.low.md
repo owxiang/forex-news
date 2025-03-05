@@ -19,8 +19,8 @@
 | 08:50 | EUR | HCOB France Composite PMI (Feb) | 45.1 | 44.5 | 47.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Feb) | 50.4 | 51.0 | 50.5 |
 | 09:00 | GBP | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
 | 09:00 | EUR | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.311% |  | 4.276% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Feb) | 84,054.0 |  | 139,345.0 |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.6% |
@@ -29,17 +29,17 @@
 | 10:00 | EUR | PPI (YoY) (Jan) | 1.8% | 1.4% | 0.1% |
 | 10:00 | EUR | PPI (MoM) (Jan) | 0.8% | 0.3% | 0.5% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | M3 Money Supply | 9.6% |  | 9.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.73% |  | 6.88% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 20.4% |  | -1.2% |
 | 12:00 | USD | MBA Purchase Index | 144.5 |  | 144.3 |
 | 12:00 | USD | Mortgage Market Index | 242.2 |  | 212.3 |
 | 12:00 | USD | Mortgage Refinance Index | 784.2 |  | 572.5 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | -2.60% | -1.80% | 0.10% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | -4.00% | -2.50% | -0.70% |
-| 50 min | INR | M3 Money Supply |  |  | 9.8% |
-| 50 min | BRL | S&P Global Composite PMI (Feb) |  |  | 48.2 |
-| 50 min | BRL | S&P Global Services PMI (Feb) |  |  | 47.6 |
-| 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 117.9B |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | -2.60% | -1.80% | 0.10% |
+| 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 48.2 |
+| 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 47.6 |
+| 5 min | CAD | Reserve Assets Total (Feb) |  |  | 117.9B |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |

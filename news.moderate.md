@@ -15,7 +15,7 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Feb) | 50.6 | 50.7 | 51.3 |
 | 09:30 | GBP | S&P Global Composite PMI (Feb) | 50.5 | 50.5 | 50.6 |
 | 09:30 | GBP | S&P Global Services PMI (Feb) | 51.0 | 51.1 | 50.8 |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q4) |  | 0.6% | -0.4% |
+| 20 min | CAD | Labor Productivity (QoQ) (Q4) |  | 0.6% | -0.4% |
 | 14:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Feb) |  | 50.4 | 52.7 |

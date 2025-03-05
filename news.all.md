@@ -29,8 +29,8 @@
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 50.4 | 51.0 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 51.1 | 52.2 | 52.5 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 50.2 | 50.2 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.6 | 50.7 | 51.3 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) | 50.5 | 50.5 | 50.6 |
@@ -43,19 +43,19 @@
 | 10:00 | EUR | Low | PPI (YoY) (Jan) | 1.8% | 1.4% | 0.1% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) | 0.8% | 0.3% | 0.5% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.73% |  | 6.88% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 20.4% |  | -1.2% |
 | 12:00 | USD | Low | MBA Purchase Index | 144.5 |  | 144.3 |
 | 12:00 | USD | Low | Mortgage Market Index | 242.2 |  | 212.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 784.2 |  | 572.5 |
-| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) | -2.60% | -1.80% | 0.10% |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) | -4.00% | -2.50% | -0.70% |
-| 50 min | INR | Low | M3 Money Supply |  |  | 9.8% |
-| 50 min | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
-| 50 min | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 141K | 183K |
-| 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | 0.6% | -0.4% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) | -2.60% | -1.80% | 0.10% |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
+| 5 min | USD | High | ADP Nonfarm Employment Change (Feb) |  | 141K | 183K |
+| 5 min | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
+| 20 min | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | 0.6% | -0.4% |
 | 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 50.4 | 52.7 |
