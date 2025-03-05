@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 3.0% |  | 1.8% |
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
 | 00:30 | AUD | Moderate | GDP (YoY) (Q4) | 1.3% | 1.2% | 0.8% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q4) | 0.7% |  | 1.8% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 1.4% |  | -0.2% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.5% |  | -0.1% |
@@ -92,9 +92,9 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | 1.6% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.433M | 0.130M | 0.369M |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 20:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 411.00B |
-| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
+| 23 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 53 min | KRW | Low | FX Reserves - USD (Feb) |  |  | 411.00B |
 | 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
+| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -200.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |

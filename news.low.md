@@ -65,8 +65,8 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.067M |  | 0.134M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.6% |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories | -1.433M | 0.130M | 0.369M |
-| 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 411.00B |
-| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
+| 53 min | KRW | FX Reserves - USD (Feb) |  |  | 411.00B |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -200.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
