@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 3.0% |  | 1.8% |
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
 | 00:30 | AUD | Moderate | GDP (YoY) (Q4) | 1.3% | 1.2% | 0.8% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q4) | 0.7% |  | 1.8% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 1.4% |  | -0.2% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.5% |  | -0.1% |
@@ -18,8 +18,8 @@
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 4.5% |  | -2.9% |
 | 07:00 | NOK | Low | Current Account (Q4) | 211.2B |  | 208.5B |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Feb) | 49.0 |  | 47.4 |
-| 07:30 | CHF | Low | CPI (YoY) (Feb) | 0.3% |  | 0.4% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Feb) | 0.6% | 0.5% | -0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Feb) | 0.3% |  | 0.4% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) | -0.6% | 0.5% | -0.5% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) | 56.2 | 55.4 | 54.9 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) | 51.9 |  | 49.7 |
@@ -40,8 +40,8 @@
 | 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 0.9% |  | 0.6% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.6% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) | 7.60% |  | 7.30% |
-| 10:00 | EUR | Low | PPI (YoY) (Jan) | 1.8% | 1.4% | 0.1% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) | 0.8% | 0.3% | 0.5% |
+| 10:00 | EUR | Low | PPI (YoY) (Jan) | 1.8% | 1.4% | 0.1% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.73% |  | 6.88% |
@@ -94,7 +94,7 @@
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) | 409.20B |  | 411.00B |
-| 54 min | KRW | Low | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
-| 54 min | KRW | Low | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -200.8B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
+| 23:00 | KRW | Low | CPI (YoY) (Feb) | 2.0% | 2.0% | 2.2% |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) | 0.3% | 0.2% | 0.7% |
+| 43 min | JPY | Low | Foreign Bonds Buying |  |  | -200.8B |
+| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
