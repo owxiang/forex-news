@@ -29,15 +29,15 @@
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 51.0 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 52.2 | 52.5 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | -2.5% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.5% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.5% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 50.2 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.7 | 51.3 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 50.5 | 50.6 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) |  | 51.1 | 50.8 |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.276% |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) |  |  | 7.30% |
 | 10:00 | EUR | Low | PPI (YoY) (Jan) |  |  | 0.0% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
@@ -48,8 +48,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 144.3 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 212.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 572.5 |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -0.70% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  |  | 0.10% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -0.70% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 144K | 183K |

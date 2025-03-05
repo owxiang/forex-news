@@ -19,11 +19,11 @@
 | 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 44.5 | 47.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 51.0 | 50.5 |
 | 09:00 | GBP | Car Registration (YoY) (Feb) |  |  | -2.5% |
-| 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.5% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.0% |
+| 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.5% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.276% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) |  |  | 7.30% |
 | 10:00 | EUR | PPI (YoY) (Jan) |  |  | 0.0% |
 | 10:00 | EUR | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
@@ -34,8 +34,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 144.3 |
 | 12:00 | USD | Mortgage Market Index |  |  | 212.3 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 572.5 |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -0.70% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  |  | 0.10% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -0.70% |
 | 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 48.2 |
 | 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 47.6 |
 | 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 117.9B |
