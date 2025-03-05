@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 3.0% |  | 1.8% |
-| 3 min | AUD | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.3% |
-| 3 min | AUD | Moderate | GDP (YoY) (Q4) |  | 1.2% | 0.8% |
-| 3 min | AUD | Low | GDP Capital Expenditure (Q4) |  |  | 1.5% |
-| 3 min | AUD | Low | GDP Chain Price Index (Q4) |  |  | -0.2% |
-| 3 min | AUD | Low | GDP Final Consumption (Q4) |  |  | 0.4% |
-| 3 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 3 min | JPY | Moderate | au Jibun Bank Services PMI (Feb) |  | 53.1 | 53.0 |
-| 3 min | HKD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 51.0 |
-| 01:45 | CNY | Moderate | Caixin Services PMI (Feb) |  | 50.8 | 51.0 |
-| 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.3% |
+| 00:30 | AUD | Moderate | GDP (YoY) (Q4) | 1.3% | 1.2% | 0.8% |
+| 00:30 | AUD | Low | GDP Capital Expenditure (Q4) | 0.7% |  | 1.5% |
+| 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 1.4% |  | -0.2% |
+| 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.5% |  | 0.4% |
+| 00:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Feb) | 53.7 | 53.1 | 53.0 |
+| 00:30 | HKD | Low | S&P Global Manufacturing PMI (Feb) | 49.0 |  | 51.0 |
+| 11 min | CNY | Moderate | Caixin Services PMI (Feb) |  | 50.8 | 51.0 |
+| 26 min | USD | High | U.S. President Trump Speaks |  |  |  |
 | 05:00 | INR | Low | S&P Global Services PMI (Feb) |  | 61.1 | 56.5 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) |  |  | -1.5% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) |  |  | -2.9% |

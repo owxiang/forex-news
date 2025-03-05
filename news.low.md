@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 3.0% |  | 1.8% |
-| 3 min | AUD | GDP Capital Expenditure (Q4) |  |  | 1.5% |
-| 3 min | AUD | GDP Chain Price Index (Q4) |  |  | -0.2% |
-| 3 min | AUD | GDP Final Consumption (Q4) |  |  | 0.4% |
-| 3 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 3 min | HKD | S&P Global Manufacturing PMI (Feb) |  |  | 51.0 |
+| 00:30 | AUD | GDP Capital Expenditure (Q4) | 0.7% |  | 1.5% |
+| 00:30 | AUD | GDP Chain Price Index (Q4) | 1.4% |  | -0.2% |
+| 00:30 | AUD | GDP Final Consumption (Q4) | 0.5% |  | 0.4% |
+| 00:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 00:30 | HKD | S&P Global Manufacturing PMI (Feb) | 49.0 |  | 51.0 |
 | 05:00 | INR | S&P Global Services PMI (Feb) |  | 61.1 | 56.5 |
 | 05:00 | SGD | Retail Sales (MoM) (Jan) |  |  | -1.5% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) |  |  | -2.9% |

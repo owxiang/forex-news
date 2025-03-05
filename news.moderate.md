@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | GDP (QoQ) (Q4) |  | 0.5% | 0.3% |
-| 3 min | AUD | GDP (YoY) (Q4) |  | 1.2% | 0.8% |
-| 3 min | JPY | au Jibun Bank Services PMI (Feb) |  | 53.1 | 53.0 |
-| 01:45 | CNY | Caixin Services PMI (Feb) |  | 50.8 | 51.0 |
+| 00:30 | AUD | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.3% |
+| 00:30 | AUD | GDP (YoY) (Q4) | 1.3% | 1.2% | 0.8% |
+| 00:30 | JPY | au Jibun Bank Services PMI (Feb) | 53.7 | 53.1 | 53.0 |
+| 11 min | CNY | Caixin Services PMI (Feb) |  | 50.8 | 51.0 |
 | 07:30 | CHF | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
 | 08:15 | EUR | HCOB Spain Services PMI (Feb) |  | 55.4 | 54.9 |
 | 08:45 | EUR | HCOB Italy Services PMI (Feb) |  | 50.9 | 50.4 |
