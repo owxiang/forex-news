@@ -1,35 +1,88 @@
-## 04 March 2025 - All Forex News
+## 05 March 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.7% | -0.5% | -0.7% |
-| 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Feb) | 49.9 |  | 50.3 |
-| 00:30 | AUD | Moderate | Current Account (Q4) | -12.5B | -11.8B | -13.9B |
-| 00:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 00:30 | AUD | Low | Net Exports Contribution (Q4) | 0.2% | -0.1% | 0.1% |
-| 00:30 | AUD | Moderate | Retail Sales (MoM) (Jan) | 0.3% | 0.3% | -0.1% |
-| 03:35 | JPY | Moderate | 10-Year JGB Auction | 1.404% |  | 1.260% |
-| 05:00 | JPY | Low | Household Confidence (Feb) | 35.0 | 35.2 | 35.2 |
-| 07:45 | EUR | Low | French Government Budget Balance (Jan) | -17.3B |  | -156.3B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Feb) | -6.0K | 45.2K | 38.7K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jan) | 6.3% | 6.2% | 6.4% |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q4) | 0.6% | 0.9% | -0.1% |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 0.9% |  | 0.4% |
-| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction | 5.104% |  | 5.198% |
-| 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 2.173% |  | 2.221% |
-| 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 2.255% |  | 2.355% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.2% | 6.3% | 6.2% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.150% |  | 2.170% |
-| 12:00 | USD | Low | All Car Sales (Feb) | 2.95M |  | 2.83M |
-| 12:00 | USD | Low | All Truck Sales (Feb) | 13.05M |  | 12.67M |
-| 13:55 | USD | Low | Redbook (YoY) | 6.6% |  | 6.2% |
-| 14:30 | NZD | Low | GlobalDairyTrade Price Index | -0.5% |  | -0.6% |
-| 14:30 | USD | Low | Milk Auctions | 4,209.0 |  | 4,370.0 |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism (Mar) | 49.8 | 53.1 | 52.0 |
-| 19:20 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -1.455M | -0.300M | -0.640M |
-| 22:00 | AUD | Low | AIG Construction Index (Feb) | -3.7 |  | -20.0 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Feb) | -8.2 |  | -22.7 |
-| 22:00 | AUD | Low | Judo Bank Services PMI (Feb) | 50.8 | 51.4 | 51.2 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.1% |
-| 23:00 | KRW | Low | GDP (YoY) (Q4) | 1.2% | 1.2% | 1.2% |
+| 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 3.0% |  | 1.8% |
+| 3 min | AUD | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.3% |
+| 3 min | AUD | Moderate | GDP (YoY) (Q4) |  | 1.2% | 0.8% |
+| 3 min | AUD | Low | GDP Capital Expenditure (Q4) |  |  | 1.5% |
+| 3 min | AUD | Low | GDP Chain Price Index (Q4) |  |  | -0.2% |
+| 3 min | AUD | Low | GDP Final Consumption (Q4) |  |  | 0.4% |
+| 3 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 3 min | JPY | Moderate | au Jibun Bank Services PMI (Feb) |  | 53.1 | 53.0 |
+| 3 min | HKD | Low | S&P Global Manufacturing PMI (Feb) |  |  | 51.0 |
+| 01:45 | CNY | Moderate | Caixin Services PMI (Feb) |  | 50.8 | 51.0 |
+| 02:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 05:00 | INR | Low | S&P Global Services PMI (Feb) |  | 61.1 | 56.5 |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Jan) |  |  | -1.5% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Jan) |  |  | -2.9% |
+| 07:00 | NOK | Low | Current Account (Q4) |  |  | 225.5B |
+| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 47.4 |
+| 07:30 | CHF | Low | CPI (YoY) (Feb) |  |  | 0.4% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) |  | 0.6% | -0.4% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 55.4 | 54.9 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 49.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 50.9 | 50.4 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Feb) |  | 44.5 | 47.6 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 44.5 | 48.2 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 51.0 | 50.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 52.2 | 52.5 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | -2.5% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.5% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.0% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 50.2 | 50.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.7 | 51.3 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 50.5 | 50.6 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) |  | 51.1 | 50.8 |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.276% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
+| 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Feb) |  |  | 7.30% |
+| 10:00 | EUR | Low | PPI (YoY) (Jan) |  |  | 0.0% |
+| 10:00 | EUR | Low | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.88% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.2% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 144.3 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 212.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 572.5 |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.80% | -0.70% |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  |  | 0.10% |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 144K | 183K |
+| 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | 0.3% | -0.4% |
+| 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 50.4 | 52.7 |
+| 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 49.7 | 52.9 |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  | 1.5% | -0.9% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 54.5 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 52.3 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 53.0 | 52.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) |  |  | 60.4 |
+| 15:00 | USD | Low | Total Vehicle Sales (Feb) |  |  | 15.60M |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | -2.332M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.317M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.292M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.282M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.439M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 3.908M |
+| 15:30 | USD | Low | Gasoline Production |  |  | -0.020M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.134M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | 0.369M |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 20:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 411.00B |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
+| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
+| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -200.8B |
+| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
