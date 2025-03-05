@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | GDP (YoY) (Q4) | 1.3% | 1.2% | 0.8% |
 | 00:30 | AUD | GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
+| 00:30 | AUD | GDP (YoY) (Q4) | 1.3% | 1.2% | 0.8% |
 | 00:30 | JPY | au Jibun Bank Services PMI (Feb) | 53.7 | 53.1 | 53.0 |
 | 01:45 | CNY | Caixin Services PMI (Feb) | 51.4 | 50.8 | 51.0 |
 | 07:30 | CHF | CPI (MoM) (Feb) | 0.6% | 0.5% | -0.1% |
@@ -23,4 +23,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Feb) | 53.9 |  | 52.3 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.124M |  | 1.282M |
 | 19:00 | USD | Beige Book |  |  |  |
-| 23 min | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 20:30 | NZD | RBNZ Gov Orr Speaks |  |  |  |
