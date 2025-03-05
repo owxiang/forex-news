@@ -29,8 +29,8 @@
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 50.4 | 51.0 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 51.1 | 52.2 | 52.5 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 50.2 | 50.2 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.6 | 50.7 | 51.3 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) | 50.5 | 50.5 | 50.6 |
@@ -42,17 +42,17 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) | 7.60% |  | 7.30% |
 | 10:00 | EUR | Low | PPI (YoY) (Jan) | 1.8% | 1.4% | 0.1% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) | 0.8% | 0.3% | 0.5% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.8% |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.88% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.2% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 144.3 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 212.3 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 572.5 |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.50% | -0.70% |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | -1.80% | 0.10% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.73% |  | 6.88% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 20.4% |  | -1.2% |
+| 12:00 | USD | Low | MBA Purchase Index | 144.5 |  | 144.3 |
+| 12:00 | USD | Low | Mortgage Market Index | 242.2 |  | 212.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 784.2 |  | 572.5 |
+| 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) | -2.60% | -1.80% | 0.10% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) | -4.00% | -2.50% | -0.70% |
+| 50 min | INR | Low | M3 Money Supply |  |  | 9.8% |
+| 50 min | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
+| 50 min | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 141K | 183K |
 | 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | 0.6% | -0.4% |
@@ -68,7 +68,7 @@
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 52.3 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 52.5 | 52.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) |  |  | 60.4 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) |  | 60.0 | 60.4 |
 | 15:00 | USD | Low | Total Vehicle Sales (Feb) |  |  | 15.60M |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.600M | -2.332M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.317M |
