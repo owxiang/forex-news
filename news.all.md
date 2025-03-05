@@ -29,8 +29,8 @@
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 50.4 | 51.0 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 51.1 | 52.2 | 52.5 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 50.2 | 50.2 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.6 | 50.7 | 51.3 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) | 50.5 | 50.5 | 50.6 |
@@ -56,20 +56,31 @@
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) | 77K | 141K | 186K |
 | 13:15 | CAD | Low | Reserve Assets Total (Feb) | 119.6B |  | 117.9B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) | 0.6% | 0.6% | 0.1% |
-| 24 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 24 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 39 min | USD | Moderate | S&P Global Composite PMI (Feb) |  | 50.4 | 52.7 |
-| 39 min | USD | High | S&P Global Services PMI (Feb) |  | 49.7 | 52.9 |
-| 54 min | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
-| 54 min | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
-| 54 min | USD | Moderate | Factory Orders (MoM) (Jan) |  | 1.7% | -0.9% |
-| 54 min | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |
-| 54 min | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 54.5 |
-| 54 min | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 52.3 |
-| 54 min | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
-| 54 min | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 52.5 | 52.8 |
-| 54 min | USD | High | ISM Non-Manufacturing Prices (Feb) |  | 60.0 | 60.4 |
-| 54 min | USD | Low | Total Vehicle Sales (Feb) |  |  | 15.60M |
+| 14:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.91M |  | 0.89M |
+| 14:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 14:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.21M |
+| 14:00 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
+| 14:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.22M |
+| 14:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.98M |  | 3.94M |
+| 14:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.40M |  | 2.40M |
+| 14:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.28M |  | 1.24M |
+| 14:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M |  | 1.52M |
+| 14:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.93M |  | 8.95M |
+| 14:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M |  | 2.94M |
+| 14:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.91M |  | 0.90M |
+| 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) | 51.6 | 50.4 | 52.7 |
+| 14:45 | USD | High | S&P Global Services PMI (Feb) | 51.0 | 49.7 | 52.9 |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jan) | 3.5% |  | 3.5% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jan) | 0.0% |  | 0.0% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) | 1.7% | 1.7% | -0.6% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) | 0.2% |  | 0.3% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Feb) | 54.4 |  | 54.5 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) | 53.9 |  | 52.3 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) | 52.2 |  | 51.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) | 53.5 | 52.5 | 52.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) | 62.6 | 60.0 | 60.4 |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.600M | -2.332M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.317M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.292M |
@@ -80,6 +91,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.134M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
 | 15:30 | USD | Low | Gasoline Inventories |  | 0.130M | 0.369M |
+| 17:00 | USD | Low | Total Vehicle Sales (Feb) |  |  | 15.60M |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 411.00B |

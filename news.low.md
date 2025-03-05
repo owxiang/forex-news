@@ -19,8 +19,8 @@
 | 08:50 | EUR | HCOB France Composite PMI (Feb) | 45.1 | 44.5 | 47.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Feb) | 50.4 | 51.0 | 50.5 |
 | 09:00 | GBP | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 09:00 | EUR | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
+| 09:00 | EUR | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.311% |  | 4.276% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Feb) | 84,054.0 |  | 139,345.0 |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.6% |
@@ -40,12 +40,23 @@
 | 13:00 | BRL | S&P Global Composite PMI (Feb) | 51.2 |  | 48.2 |
 | 13:00 | BRL | S&P Global Services PMI (Feb) | 50.6 |  | 47.6 |
 | 13:15 | CAD | Reserve Assets Total (Feb) | 119.6B |  | 117.9B |
-| 54 min | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
-| 54 min | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
-| 54 min | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |
-| 54 min | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 54.5 |
-| 54 min | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
-| 54 min | USD | Total Vehicle Sales (Feb) |  |  | 15.60M |
+| 14:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.91M |  | 0.89M |
+| 14:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 14:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.21M |
+| 14:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
+| 14:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.22M |
+| 14:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 3.98M |  | 3.94M |
+| 14:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.40M |  | 2.40M |
+| 14:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.28M |  | 1.24M |
+| 14:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M |  | 1.52M |
+| 14:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.93M |  | 8.95M |
+| 14:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M |  | 2.94M |
+| 14:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.91M |  | 0.90M |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Jan) | 3.5% |  | 3.5% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Jan) | 0.0% |  | 0.0% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Jan) | 0.2% |  | 0.3% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) | 54.4 |  | 54.5 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) | 52.2 |  | 51.3 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.317M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.292M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.439M |
@@ -54,6 +65,7 @@
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.134M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories |  | 0.130M | 0.369M |
+| 17:00 | USD | Total Vehicle Sales (Feb) |  |  | 15.60M |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 411.00B |
 | 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
