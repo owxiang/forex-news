@@ -21,22 +21,22 @@
 | 09:00 | GBP | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
 | 09:00 | EUR | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.276% |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.311% |  | 4.276% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Feb) | 84,054.0 |  | 139,345.0 |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) | 0.9% |  | 0.6% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.6% |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) | 0.9% |  | 0.6% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) | 7.60% |  | 7.30% |
 | 10:00 | EUR | PPI (YoY) (Jan) | 1.8% | 1.4% | 0.1% |
 | 10:00 | EUR | PPI (MoM) (Jan) | 0.8% | 0.3% | 0.5% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | INR | M3 Money Supply |  |  | 9.8% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.88% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.2% |
-| 12:00 | USD | MBA Purchase Index |  |  | 144.3 |
-| 12:00 | USD | Mortgage Market Index |  |  | 212.3 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 572.5 |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  | -1.80% | 0.10% |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.50% | -0.70% |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 24 min | INR | M3 Money Supply |  |  | 9.8% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.88% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.2% |
+| 54 min | USD | MBA Purchase Index |  |  | 144.3 |
+| 54 min | USD | Mortgage Market Index |  |  | 212.3 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 572.5 |
+| 54 min | MXN | Gross Fixed Investments (YoY) (Dec) |  | -2.50% | -0.70% |
+| 54 min | MXN | Gross Fixed Investments (MoM) (Dec) |  | -1.80% | 0.10% |
 | 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 48.2 |
 | 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 47.6 |
 | 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 117.9B |
@@ -55,7 +55,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories |  | 0.130M | 0.369M |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 411.00B |
-| 23:00 | KRW | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
 | 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
+| 23:00 | KRW | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -200.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
