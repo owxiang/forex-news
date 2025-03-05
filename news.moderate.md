@@ -22,5 +22,5 @@
 | 15:00 | USD | Factory Orders (MoM) (Jan) | 1.7% | 1.7% | -0.6% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Feb) | 53.9 |  | 52.3 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.124M |  | 1.282M |
-| 52 min | USD | Beige Book |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
 | 20:30 | NZD | RBNZ Gov Orr Speaks |  |  |  |
