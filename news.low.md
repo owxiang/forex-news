@@ -37,15 +37,15 @@
 | 12:00 | USD | Mortgage Refinance Index | 784.2 |  | 572.5 |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | -4.00% | -2.50% | -0.70% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | -2.60% | -1.80% | 0.10% |
-| 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 48.2 |
-| 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 47.6 |
-| 5 min | CAD | Reserve Assets Total (Feb) |  |  | 117.9B |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 54.5 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
-| 15:00 | USD | Total Vehicle Sales (Feb) |  |  | 15.60M |
+| 13:00 | BRL | S&P Global Composite PMI (Feb) | 51.2 |  | 48.2 |
+| 13:00 | BRL | S&P Global Services PMI (Feb) | 50.6 |  | 47.6 |
+| 13:15 | CAD | Reserve Assets Total (Feb) | 119.6B |  | 117.9B |
+| 54 min | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
+| 54 min | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
+| 54 min | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |
+| 54 min | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 54.5 |
+| 54 min | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
+| 54 min | USD | Total Vehicle Sales (Feb) |  |  | 15.60M |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.317M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.292M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.439M |

@@ -51,25 +51,25 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 784.2 |  | 572.5 |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) | -4.00% | -2.50% | -0.70% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) | -2.60% | -1.80% | 0.10% |
-| 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
-| 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
-| 5 min | USD | High | ADP Nonfarm Employment Change (Feb) |  | 141K | 183K |
-| 5 min | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
-| 20 min | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | 0.6% | -0.4% |
-| 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 50.4 | 52.7 |
-| 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 49.7 | 52.9 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  | 1.7% | -0.9% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 54.5 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 52.3 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 52.5 | 52.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) |  | 60.0 | 60.4 |
-| 15:00 | USD | Low | Total Vehicle Sales (Feb) |  |  | 15.60M |
+| 13:00 | BRL | Low | S&P Global Composite PMI (Feb) | 51.2 |  | 48.2 |
+| 13:00 | BRL | Low | S&P Global Services PMI (Feb) | 50.6 |  | 47.6 |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) | 77K | 141K | 186K |
+| 13:15 | CAD | Low | Reserve Assets Total (Feb) | 119.6B |  | 117.9B |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) | 0.6% | 0.6% | 0.1% |
+| 24 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 24 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 39 min | USD | Moderate | S&P Global Composite PMI (Feb) |  | 50.4 | 52.7 |
+| 39 min | USD | High | S&P Global Services PMI (Feb) |  | 49.7 | 52.9 |
+| 54 min | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | 3.5% |
+| 54 min | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.0% |
+| 54 min | USD | Moderate | Factory Orders (MoM) (Jan) |  | 1.7% | -0.9% |
+| 54 min | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.3% |
+| 54 min | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 54.5 |
+| 54 min | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 52.3 |
+| 54 min | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 51.3 |
+| 54 min | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 52.5 | 52.8 |
+| 54 min | USD | High | ISM Non-Manufacturing Prices (Feb) |  | 60.0 | 60.4 |
+| 54 min | USD | Low | Total Vehicle Sales (Feb) |  |  | 15.60M |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.600M | -2.332M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.317M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.292M |
