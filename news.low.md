@@ -12,18 +12,18 @@
 | 05:00 | SGD | Retail Sales (MoM) (Jan) | 2.4% |  | -2.0% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) | 4.5% |  | -2.9% |
 | 07:00 | NOK | Current Account (Q4) | 211.2B |  | 208.5B |
-| 8 min | ZAR | S&P Global Manufacturing PMI (Feb) |  |  | 47.4 |
-| 23 min | CHF | CPI (YoY) (Feb) |  |  | 0.4% |
-| 38 min | EUR | French Industrial Production (MoM) (Jan) |  | 0.5% | -0.4% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Feb) |  |  | 49.7 |
-| 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 44.5 | 47.6 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 51.0 | 50.5 |
-| 09:00 | GBP | Car Registration (YoY) (Feb) |  |  | -2.5% |
-| 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.5% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.0% |
+| 07:15 | ZAR | S&P Global Manufacturing PMI (Feb) | 49.0 |  | 47.4 |
+| 07:30 | CHF | CPI (YoY) (Feb) | 0.3% |  | 0.4% |
+| 07:45 | EUR | French Industrial Production (MoM) (Jan) | -0.6% | 0.5% | -0.5% |
+| 37 min | EUR | HCOB Italy Composite PMI (Feb) |  |  | 49.7 |
+| 42 min | EUR | HCOB France Composite PMI (Feb) |  | 44.5 | 47.6 |
+| 47 min | EUR | HCOB Germany Composite PMI (Feb) |  | 51.0 | 50.5 |
+| 52 min | GBP | Car Registration (YoY) (Feb) |  |  | -2.5% |
+| 52 min | EUR | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.0% |
+| 52 min | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.5% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.276% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) |  |  | 7.30% |
 | 10:00 | EUR | PPI (YoY) (Jan) |  | 1.4% | 0.0% |
 | 10:00 | EUR | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
@@ -54,7 +54,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories |  | 0.130M | 0.369M |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 411.00B |
-| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -200.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
