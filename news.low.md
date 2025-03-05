@@ -11,7 +11,7 @@
 | 05:00 | INR | S&P Global Services PMI (Feb) | 59.0 | 61.1 | 56.5 |
 | 05:00 | SGD | Retail Sales (MoM) (Jan) | 2.4% |  | -2.0% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) | 4.5% |  | -2.9% |
-| 07:00 | NOK | Current Account (Q4) |  |  | 225.5B |
+| 52 min | NOK | Current Account (Q4) |  |  | 225.5B |
 | 07:15 | ZAR | S&P Global Manufacturing PMI (Feb) |  |  | 47.4 |
 | 07:30 | CHF | CPI (YoY) (Feb) |  |  | 0.4% |
 | 07:45 | EUR | French Industrial Production (MoM) (Jan) |  | 0.5% | -0.4% |
@@ -25,8 +25,8 @@
 | 10:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) |  |  | 7.30% |
-| 10:00 | EUR | PPI (YoY) (Jan) |  | 1.4% | 0.0% |
 | 10:00 | EUR | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
+| 10:00 | EUR | PPI (YoY) (Jan) |  | 1.4% | 0.0% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | INR | M3 Money Supply |  |  | 9.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.88% |
