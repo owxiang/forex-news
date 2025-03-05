@@ -14,8 +14,8 @@
 | 01:45 | CNY | Moderate | Caixin Services PMI (Feb) | 51.4 | 50.8 | 51.0 |
 | 02:10 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 05:00 | INR | Low | S&P Global Services PMI (Feb) | 59.0 | 61.1 | 56.5 |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 4.5% |  | -2.9% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | 2.4% |  | -2.0% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 4.5% |  | -2.9% |
 | 07:00 | NOK | Low | Current Account (Q4) | 211.2B |  | 208.5B |
 | 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Feb) | 49.0 |  | 47.4 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Feb) | 0.6% | 0.5% | -0.1% |
@@ -28,19 +28,20 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) | 45.3 | 44.5 | 48.2 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 50.4 | 51.0 | 50.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 51.1 | 52.2 | 52.5 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | -2.5% |
+| 09:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.1% | 0.0% | 0.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 50.2 | 50.2 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.6 | 50.7 | 51.3 |
-| 23 min | GBP | Moderate | S&P Global Composite PMI (Feb) |  | 50.5 | 50.6 |
-| 23 min | GBP | Moderate | S&P Global Services PMI (Feb) |  | 51.1 | 50.8 |
-| 53 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.276% |
-| 53 min | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
-| 53 min | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
-| 53 min | NOK | Low | House Price Index (YoY) (Feb) |  |  | 7.30% |
-| 53 min | EUR | Low | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
-| 53 min | EUR | Low | PPI (YoY) (Jan) |  | 1.4% | 0.0% |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Feb) | 50.5 | 50.5 | 50.6 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Feb) | 51.0 | 51.1 | 50.8 |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.276% |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) | 84,054.0 |  | 139,345.0 |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 0.9% |  | 0.6% |
+| 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) | -0.4% | 0.3% | 0.6% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Feb) | 7.60% |  | 7.30% |
+| 10:00 | EUR | Low | PPI (YoY) (Jan) | 1.8% | 1.4% | 0.1% |
+| 10:00 | EUR | Low | PPI (MoM) (Jan) | 0.8% | 0.3% | 0.5% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.88% |
@@ -48,8 +49,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 144.3 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 212.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 572.5 |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.50% | -0.70% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | -1.80% | 0.10% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.50% | -0.70% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 141K | 183K |
@@ -82,7 +83,7 @@
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 411.00B |
-| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
+| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -200.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
