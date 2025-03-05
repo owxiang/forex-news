@@ -25,8 +25,8 @@
 | 10:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) |  |  | 7.30% |
-| 10:00 | EUR | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
 | 10:00 | EUR | PPI (YoY) (Jan) |  |  | 0.0% |
+| 10:00 | EUR | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | INR | M3 Money Supply |  |  | 9.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.88% |
@@ -54,7 +54,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories |  |  | 0.369M |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 411.00B |
-| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.2% | 0.7% |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.0% | 2.2% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -200.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,038.0B |
