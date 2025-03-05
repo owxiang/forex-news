@@ -16,11 +16,11 @@
 | 05:00 | INR | Low | S&P Global Services PMI (Feb) | 59.0 | 61.1 | 56.5 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | 2.4% |  | -2.0% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 4.5% |  | -2.9% |
-| 52 min | NOK | Low | Current Account (Q4) |  |  | 225.5B |
-| 07:15 | ZAR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 47.4 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Feb) |  |  | 0.4% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) |  | 0.5% | -0.4% |
+| 07:00 | NOK | Low | Current Account (Q4) | 211.2B |  | 208.5B |
+| 8 min | ZAR | Low | S&P Global Manufacturing PMI (Feb) |  |  | 47.4 |
+| 23 min | CHF | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
+| 23 min | CHF | Low | CPI (YoY) (Feb) |  |  | 0.4% |
+| 38 min | EUR | Low | French Industrial Production (MoM) (Jan) |  | 0.5% | -0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 55.4 | 54.9 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 49.7 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 50.9 | 50.4 |
@@ -39,8 +39,8 @@
 | 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) |  |  | 0.6% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | 0.3% | 0.6% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) |  |  | 7.30% |
-| 10:00 | EUR | Low | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
 | 10:00 | EUR | Low | PPI (YoY) (Jan) |  | 1.4% | 0.0% |
+| 10:00 | EUR | Low | PPI (MoM) (Jan) |  | 0.3% | 0.4% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.88% |
@@ -48,8 +48,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 144.3 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 212.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 572.5 |
-| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.50% | -0.70% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) |  | -1.80% | 0.10% |
+| 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) |  | -2.50% | -0.70% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 48.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Feb) |  |  | 47.6 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 141K | 183K |
