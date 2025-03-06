@@ -23,4 +23,4 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | -2.4% | -2.8% | -2.8% |
 | 20:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 20:30 | USD | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,766B |
+| 21:30 | USD | Fed's Balance Sheet | 6,757B |  | 6,766B |
