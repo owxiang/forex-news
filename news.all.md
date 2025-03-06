@@ -24,8 +24,8 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.15% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
@@ -56,8 +56,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.230% |  | 4.235% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.220% |  | 4.235% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.4% | -2.8% | -2.8% |
-| 8 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 23 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 20:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,766B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.380T |
 | 23:00 | KRW | Low | Current Account (Jan) |  |  | 12.37B |

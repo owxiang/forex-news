@@ -18,8 +18,8 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.067% |  | 2.705% |
 | 10:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.15% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
+| 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 11:00 | CAD | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
 | 12:30 | USD | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
