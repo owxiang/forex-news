@@ -17,15 +17,15 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.7 | 45.4 | 45.4 |
 | 09:00 | ZAR | Low | Current Account (Q4) | -31.6B |  | -55.6B |
 | 09:00 | ZAR | Low | Current Account % of GDP (Q4) | -0.40% |  | -0.80% |
-| 23 min | GBP | Moderate | S&P Global Construction PMI (Feb) |  | 49.5 | 48.1 |
-| 33 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 2.920% |
-| 33 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.705% |
-| 53 min | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -2.8% |
-| 53 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.15% |
-| 53 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 53 min | EUR | Moderate | Euro Summit |  |  |  |
-| 53 min | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
-| 53 min | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -0.2% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Feb) | 44.6 | 49.5 | 48.1 |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.507% |  | 2.743% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.067% |  | 2.705% |
+| 10:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -2.8% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.15% |
+| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 10:00 | EUR | Moderate | Euro Summit |  |  |  |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 49.795K |
 | 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |

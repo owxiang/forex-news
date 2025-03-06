@@ -5,9 +5,9 @@
 | 00:30 | AUD | Building Approvals (MoM) (Jan) | 6.3% | -0.1% | 1.7% |
 | 00:30 | AUD | Trade Balance (Jan) | 5.620B | 5.850B | 4.920B |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Feb) | 0.51% |  | 0.24% |
-| 23 min | GBP | S&P Global Construction PMI (Feb) |  | 49.5 | 48.1 |
-| 53 min | EUR | EU Leaders Summit |  |  |  |
-| 53 min | EUR | Euro Summit |  |  |  |
+| 09:30 | GBP | S&P Global Construction PMI (Feb) | 44.6 | 49.5 | 48.1 |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
+| 10:00 | EUR | Euro Summit |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.15% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,862K |
