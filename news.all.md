@@ -24,8 +24,8 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.15% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -0.2% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -0.2% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 49.795K |
 | 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
