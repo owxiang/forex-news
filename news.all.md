@@ -27,8 +27,8 @@
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
 | 13:15 | EUR | High | Deposit Facility Rate (Mar) | 2.50% | 2.50% | 2.75% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.90% | 2.90% | 3.15% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -52,9 +52,10 @@
 | 15:00 | CAD | Moderate | Ivey PMI (Feb) | 55.3 | 50.6 | 47.1 |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | -80B | -96B | -261B |
+| 15:30 | BRL | Low | Foreign Exchange Flows | 0.410B |  | 1.668B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.230% |  | 4.235% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.220% |  | 4.235% |
-| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.4% | -2.8% | -2.8% |
 | 20:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,766B |
