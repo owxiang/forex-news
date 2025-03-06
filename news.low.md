@@ -18,22 +18,21 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.067% |  | 2.705% |
 | 10:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.15% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
+| 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 11:00 | CAD | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
 | 12:30 | USD | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 224.00K |
 | 13:30 | CAD | Exports (Jan) | 74.46B |  | 70.59B |
 | 13:30 | CAD | Imports (Jan) | 70.49B |  | 68.93B |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jan) | 0.8% | 0.7% | 0.7% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) | -1.3% |  | 1.4% |
 | 15:00 | CAD | Ivey PMI n.s.a (Feb) | 53.6 |  | 46.2 |
-| 24 min | USD | Natural Gas Storage |  | -96B | -261B |
-| 24 min | BRL | Foreign Exchange Flows |  |  | 1.668B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.235% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
-| 17:00 | USD | Total Vehicle Sales (Feb) |  |  | 15.60M |
+| 15:30 | USD | Natural Gas Storage | -80B | -96B | -261B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.235% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.235% |
+| 53 min | USD | Total Vehicle Sales (Feb) |  |  | 15.60M |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.380T |
 | 23:00 | KRW | Current Account (Jan) |  |  | 12.37B |
 | 23:50 | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,240.6B |
