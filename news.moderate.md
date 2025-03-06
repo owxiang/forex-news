@@ -8,17 +8,17 @@
 | 09:30 | GBP | S&P Global Construction PMI (Feb) | 44.6 | 49.5 | 48.1 |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
 | 10:00 | EUR | Euro Summit |  |  |  |
-| 4 min | EUR | ECB Marginal Lending Facility |  |  | 3.15% |
-| 4 min | EUR | ECB Monetary Policy Statement |  |  |  |
-| 19 min | USD | Continuing Jobless Claims |  | 1,880K | 1,862K |
-| 19 min | USD | Exports (Jan) |  |  | 266.50B |
-| 19 min | USD | Imports (Jan) |  |  | 364.90B |
-| 19 min | USD | Nonfarm Productivity (QoQ) (Q4) |  | 1.2% | 2.2% |
-| 19 min | USD | Trade Balance (Jan) |  | -128.30B | -98.40B |
-| 19 min | USD | Unit Labor Costs (QoQ) (Q4) |  | 3.0% | 0.8% |
-| 19 min | CAD | Trade Balance (Jan) |  | 1.40B | 0.71B |
-| 34 min | USD | FOMC Member Harker Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI (Feb) |  | 50.6 | 47.1 |
+| 13:15 | EUR | ECB Marginal Lending Facility | 2.90% | 2.90% | 3.15% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,897K | 1,880K | 1,855K |
+| 13:30 | USD | Exports (Jan) | 269.80B |  | 266.50B |
+| 13:30 | USD | Imports (Jan) | 401.20B |  | 364.90B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) | 1.5% | 1.2% | 2.2% |
+| 13:30 | USD | Trade Balance (Jan) | -131.40B | -128.30B | -98.10B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) | 2.2% | 3.0% | 0.8% |
+| 13:30 | CAD | Trade Balance (Jan) | 3.97B | 1.40B | 1.70B |
+| 13:45 | USD | FOMC Member Harker Speaks |  |  |  |
+| 54 min | CAD | Ivey PMI (Feb) |  | 50.6 | 47.1 |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
 | 20:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |

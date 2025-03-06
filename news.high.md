@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 4 min | EUR | Deposit Facility Rate (Mar) |  | 2.50% | 2.75% |
-| 4 min | EUR | ECB Interest Rate Decision (Mar) |  | 2.65% | 2.90% |
-| 19 min | USD | Initial Jobless Claims |  | 234K | 242K |
-| 34 min | EUR | ECB Press Conference |  |  |  |
+| 13:15 | EUR | Deposit Facility Rate (Mar) | 2.50% | 2.50% | 2.75% |
+| 13:15 | EUR | ECB Interest Rate Decision (Mar) | 2.65% | 2.65% | 2.90% |
+| 13:30 | USD | Initial Jobless Claims | 221K | 234K | 242K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
