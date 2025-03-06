@@ -8,8 +8,8 @@
 | 00:30 | AUD | Low | Imports (MoM) (Jan) | -0.3% |  | 5.9% |
 | 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | -2.8% |
 | 00:30 | AUD | Moderate | Trade Balance (Jan) | 5.620B | 5.850B | 4.920B |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 3.0% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.7% | 2.7% |
+| 36 min | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 3.0% |
+| 36 min | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.7% | 2.7% |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Feb) |  |  | 0.24% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 50.9 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 42.5 |
