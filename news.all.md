@@ -6,7 +6,7 @@
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | 6.3% | -0.1% | 1.7% |
 | 00:30 | AUD | Low | Exports (MoM) (Jan) | 1.3% |  | 1.2% |
 | 00:30 | AUD | Low | Imports (MoM) (Jan) | -0.3% |  | 5.9% |
-| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | -3.0% |
+| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | -2.8% |
 | 00:30 | AUD | Moderate | Trade Balance (Jan) | 5.620B | 5.850B | 4.920B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 3.0% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.7% | 2.7% |
@@ -24,8 +24,8 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.15% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -0.2% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 49.795K |
 | 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
