@@ -24,28 +24,28 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.15% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 20 min | USD | Low | Challenger Job Cuts (Feb) |  |  | 49.795K |
-| 20 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -39.5% |
-| 13:15 | EUR | High | Deposit Facility Rate (Mar) |  | 2.50% | 2.75% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.15% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Mar) |  | 2.65% | 2.90% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
-| 13:30 | USD | Moderate | Exports (Jan) |  |  | 266.50B |
-| 13:30 | USD | Moderate | Imports (Jan) |  |  | 364.90B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 234K | 242K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.00K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 1.2% | 2.2% |
-| 13:30 | USD | Moderate | Trade Balance (Jan) |  | -128.30B | -98.40B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 3.0% | 0.8% |
-| 13:30 | CAD | Low | Exports (Jan) |  |  | 69.46B |
-| 13:30 | CAD | Low | Imports (Jan) |  |  | 68.76B |
-| 13:30 | CAD | Moderate | Trade Balance (Jan) |  | 1.40B | 0.71B |
-| 13:45 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
+| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
+| 4 min | EUR | High | Deposit Facility Rate (Mar) |  | 2.50% | 2.75% |
+| 4 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.15% |
+| 4 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 4 min | EUR | High | ECB Interest Rate Decision (Mar) |  | 2.65% | 2.90% |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,862K |
+| 19 min | USD | Moderate | Exports (Jan) |  |  | 266.50B |
+| 19 min | USD | Moderate | Imports (Jan) |  |  | 364.90B |
+| 19 min | USD | High | Initial Jobless Claims |  | 234K | 242K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.00K |
+| 19 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 1.2% | 2.2% |
+| 19 min | USD | Moderate | Trade Balance (Jan) |  | -128.30B | -98.40B |
+| 19 min | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 3.0% | 0.8% |
+| 19 min | CAD | Low | Exports (Jan) |  |  | 69.46B |
+| 19 min | CAD | Low | Imports (Jan) |  |  | 68.76B |
+| 19 min | CAD | Moderate | Trade Balance (Jan) |  | 1.40B | 0.71B |
+| 34 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 34 min | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.7% | 0.7% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) |  |  | 46.2 |

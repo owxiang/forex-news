@@ -18,14 +18,14 @@
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.067% |  | 2.705% |
 | 10:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.15% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
+| 10:00 | EUR | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 11:00 | CAD | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 20 min | USD | Challenger Job Cuts (Feb) |  |  | 49.795K |
-| 20 min | USD | Challenger Job Cuts (YoY) |  |  | -39.5% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
-| 13:30 | CAD | Exports (Jan) |  |  | 69.46B |
-| 13:30 | CAD | Imports (Jan) |  |  | 68.76B |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
+| 12:30 | USD | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
+| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
+| 19 min | CAD | Exports (Jan) |  |  | 69.46B |
+| 19 min | CAD | Imports (Jan) |  |  | 68.76B |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.7% | 0.7% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
 | 15:00 | CAD | Ivey PMI n.s.a (Feb) |  |  | 46.2 |
