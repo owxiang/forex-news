@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 3 min | AUD | Low | Building Approvals (YoY) (Jan) |  | 5.60% | 5.60% |
-| 3 min | AUD | Moderate | Building Approvals (MoM) (Jan) |  | -0.1% | 0.7% |
-| 3 min | AUD | Low | Exports (MoM) (Jan) |  |  | 1.1% |
-| 3 min | AUD | Low | Imports (MoM) (Jan) |  |  | 5.9% |
-| 3 min | AUD | Low | Private House Approvals (Jan) |  |  | -3.0% |
-| 3 min | AUD | Moderate | Trade Balance (Jan) |  | 5.850B | 5.085B |
+| 00:30 | AUD | Low | Building Approvals (YoY) (Jan) | 9.10% | 5.60% | 10.10% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | 6.3% | -0.1% | 1.7% |
+| 00:30 | AUD | Low | Exports (MoM) (Jan) | 1.3% |  | 1.2% |
+| 00:30 | AUD | Low | Imports (MoM) (Jan) | -0.3% |  | 5.9% |
+| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | -3.0% |
+| 00:30 | AUD | Moderate | Trade Balance (Jan) | 5.620B | 5.850B | 4.920B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 3.0% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.7% | 2.7% |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Feb) |  |  | 0.24% |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | Building Approvals (MoM) (Jan) |  | -0.1% | 0.7% |
-| 3 min | AUD | Trade Balance (Jan) |  | 5.850B | 5.085B |
+| 00:30 | AUD | Building Approvals (MoM) (Jan) | 6.3% | -0.1% | 1.7% |
+| 00:30 | AUD | Trade Balance (Jan) | 5.620B | 5.850B | 4.920B |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Feb) |  |  | 0.24% |
 | 09:30 | GBP | S&P Global Construction PMI (Feb) |  | 49.5 | 48.1 |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
