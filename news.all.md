@@ -27,8 +27,8 @@
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
+| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
 | 13:15 | EUR | High | Deposit Facility Rate (Mar) | 2.50% | 2.50% | 2.75% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.90% | 2.90% | 3.15% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -60,5 +60,5 @@
 | 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,757B |  | 6,766B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.381T |  | 3.380T |
-| 23:00 | KRW | Low | Current Account (Jan) |  |  | 12.37B |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,240.6B |
+| 23:00 | KRW | Low | Current Account (Jan) | 2.94B |  | 12.37B |
+| 44 min | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,240.6B |
