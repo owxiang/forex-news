@@ -26,9 +26,9 @@
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
-| 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 49.795K |
-| 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
+| 11:00 | CAD | Low | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
+| 20 min | USD | Low | Challenger Job Cuts (Feb) |  |  | 49.795K |
+| 20 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -39.5% |
 | 13:15 | EUR | High | Deposit Facility Rate (Mar) |  | 2.50% | 2.75% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 3.15% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -46,10 +46,10 @@
 | 13:30 | CAD | Moderate | Trade Balance (Jan) |  | 1.40B | 0.71B |
 | 13:45 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | CAD | Low | Ivey PMI n.s.a (Feb) |  |  | 46.2 |
-| 14:00 | CAD | Moderate | Ivey PMI (Feb) |  | 50.6 | 47.1 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.7% | 0.7% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) |  |  | 46.2 |
+| 15:00 | CAD | Moderate | Ivey PMI (Feb) |  | 50.6 | 47.1 |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -96B | -261B |
 | 15:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.668B |

@@ -20,15 +20,15 @@
 | 10:00 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.15% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
-| 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.28% |
-| 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 49.795K |
-| 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 117.9B |
+| 11:00 | CAD | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
+| 20 min | USD | Challenger Job Cuts (Feb) |  |  | 49.795K |
+| 20 min | USD | Challenger Job Cuts (YoY) |  |  | -39.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
 | 13:30 | CAD | Exports (Jan) |  |  | 69.46B |
 | 13:30 | CAD | Imports (Jan) |  |  | 68.76B |
-| 14:00 | CAD | Ivey PMI n.s.a (Feb) |  |  | 46.2 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jan) |  | 0.7% | 0.7% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
+| 15:00 | CAD | Ivey PMI n.s.a (Feb) |  |  | 46.2 |
 | 15:30 | USD | Natural Gas Storage |  | -96B | -261B |
 | 15:30 | BRL | Foreign Exchange Flows |  |  | 1.668B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.235% |

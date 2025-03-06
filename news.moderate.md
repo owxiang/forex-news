@@ -18,7 +18,7 @@
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 3.0% | 0.8% |
 | 13:30 | CAD | Trade Balance (Jan) |  | 1.40B | 0.71B |
 | 13:45 | USD | FOMC Member Harker Speaks |  |  |  |
-| 14:00 | CAD | Ivey PMI (Feb) |  | 50.6 | 47.1 |
+| 15:00 | CAD | Ivey PMI (Feb) |  | 50.6 | 47.1 |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
 | 20:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
