@@ -1,10 +1,8 @@
-## 05 March 2025 - High Impact Forex News
+## 06 March 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:10 | USD | U.S. President Trump Speaks |  |  |  |
-| 13:15 | USD | ADP Nonfarm Employment Change (Feb) | 77K | 141K | 186K |
-| 14:45 | USD | S&P Global Services PMI (Feb) | 51.0 | 49.7 | 52.9 |
-| 15:00 | USD | ISM Non-Manufacturing PMI (Feb) | 53.5 | 52.5 | 52.8 |
-| 15:00 | USD | ISM Non-Manufacturing Prices (Feb) | 62.6 | 60.0 | 60.4 |
-| 15:30 | USD | Crude Oil Inventories | 3.614M | 0.600M | -2.332M |
+| 13:15 | EUR | Deposit Facility Rate (Mar) |  | 2.50% | 2.75% |
+| 13:15 | EUR | ECB Interest Rate Decision (Mar) |  | 2.65% | 2.90% |
+| 13:30 | USD | Initial Jobless Claims |  | 234K | 242K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |

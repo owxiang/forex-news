@@ -1,26 +1,26 @@
-## 05 March 2025 - Moderate Impact Forex News
+## 06 March 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | GDP (YoY) (Q4) | 1.3% | 1.2% | 0.8% |
-| 00:30 | AUD | GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
-| 00:30 | JPY | au Jibun Bank Services PMI (Feb) | 53.7 | 53.1 | 53.0 |
-| 01:45 | CNY | Caixin Services PMI (Feb) | 51.4 | 50.8 | 51.0 |
-| 07:30 | CHF | CPI (MoM) (Feb) | 0.6% | 0.5% | -0.1% |
-| 08:15 | EUR | HCOB Spain Services PMI (Feb) | 56.2 | 55.4 | 54.9 |
-| 08:45 | EUR | HCOB Italy Services PMI (Feb) | 53.0 | 50.9 | 50.4 |
-| 08:50 | EUR | HCOB France Services PMI (Feb) | 45.3 | 44.5 | 48.2 |
-| 08:55 | EUR | HCOB Germany Services PMI (Feb) | 51.1 | 52.2 | 52.5 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) | 50.2 | 50.2 | 50.2 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Feb) | 50.6 | 50.7 | 51.3 |
-| 09:30 | GBP | S&P Global Composite PMI (Feb) | 50.5 | 50.5 | 50.6 |
-| 09:30 | GBP | S&P Global Services PMI (Feb) | 51.0 | 51.1 | 50.8 |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q4) | 0.6% | 0.6% | 0.1% |
-| 14:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Feb) | 51.6 | 50.4 | 52.7 |
-| 15:00 | USD | Factory Orders (MoM) (Jan) | 1.7% | 1.7% | -0.6% |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Feb) | 53.9 |  | 52.3 |
-| 15:30 | USD | Cushing Crude Oil Inventories | 1.124M |  | 1.282M |
-| 19:00 | USD | Beige Book |  |  |  |
-| 20:30 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 3 min | AUD | Building Approvals (MoM) (Jan) |  | -0.1% | 0.7% |
+| 3 min | AUD | Trade Balance (Jan) |  | 5.850B | 5.085B |
+| 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Feb) |  |  | 0.24% |
+| 09:30 | GBP | S&P Global Construction PMI (Feb) |  | 49.5 | 48.1 |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
+| 10:00 | EUR | Euro Summit |  |  |  |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 3.15% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,862K |
+| 13:30 | USD | Exports (Jan) |  |  | 266.50B |
+| 13:30 | USD | Imports (Jan) |  |  | 364.90B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 1.2% | 2.2% |
+| 13:30 | USD | Trade Balance (Jan) |  | -128.30B | -98.40B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 3.0% | 0.8% |
+| 13:30 | CAD | Trade Balance (Jan) |  | 1.40B | 0.71B |
+| 13:45 | USD | FOMC Member Harker Speaks |  |  |  |
+| 14:00 | CAD | Ivey PMI (Feb) |  | 50.6 | 47.1 |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
+| 20:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 20:30 | USD | Fed Waller Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,766B |
