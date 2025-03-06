@@ -11,21 +11,21 @@
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) | 2.9% |  | 3.0% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) | 2.7% | 2.7% | 2.7% |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Feb) | 0.51% |  | 0.24% |
-| 22 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 50.9 |
-| 22 min | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 42.5 |
-| 22 min | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 44.5 |
-| 22 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) |  | 45.4 | 45.4 |
-| 52 min | ZAR | Low | Current Account (Q4) |  |  | -70.8B |
-| 52 min | ZAR | Low | Current Account % of GDP (Q4) |  |  | -1.00% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Feb) |  | 49.5 | 48.1 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 2.920% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.705% |
-| 10:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -2.8% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.15% |
-| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -0.2% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) | 48.2 |  | 50.9 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) | 41.2 |  | 42.5 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) | 39.8 |  | 44.5 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.7 | 45.4 | 45.4 |
+| 09:00 | ZAR | Low | Current Account (Q4) | -31.6B |  | -55.6B |
+| 09:00 | ZAR | Low | Current Account % of GDP (Q4) | -0.40% |  | -0.80% |
+| 23 min | GBP | Moderate | S&P Global Construction PMI (Feb) |  | 49.5 | 48.1 |
+| 33 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 2.920% |
+| 33 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.705% |
+| 53 min | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -2.8% |
+| 53 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.15% |
+| 53 min | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 53 min | EUR | Moderate | Euro Summit |  |  |  |
+| 53 min | EUR | Low | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
+| 53 min | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -0.2% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 49.795K |
 | 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 117.9B |
