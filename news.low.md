@@ -8,18 +8,18 @@
 | 00:30 | AUD | Private House Approvals (Jan) | 1.1% |  | -2.8% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Feb) | 2.9% |  | 3.0% |
 | 06:45 | CHF | Unemployment Rate s.a. (Feb) | 2.7% | 2.7% | 2.7% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 50.9 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Feb) |  |  | 42.5 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 44.5 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  | 45.4 | 45.4 |
-| 09:00 | ZAR | Current Account (Q4) |  |  | -70.8B |
-| 09:00 | ZAR | Current Account % of GDP (Q4) |  |  | -1.00% |
+| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 50.9 |
+| 22 min | EUR | HCOB Germany Construction PMI (Feb) |  |  | 42.5 |
+| 22 min | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 44.5 |
+| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  | 45.4 | 45.4 |
+| 52 min | ZAR | Current Account (Q4) |  |  | -70.8B |
+| 52 min | ZAR | Current Account % of GDP (Q4) |  |  | -1.00% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 2.920% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.705% |
 | 10:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -2.8% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.15% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) |  | 0.1% | -0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (Jan) |  | 1.9% | 1.9% |
 | 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.28% |
 | 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 49.795K |
 | 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 117.9B |
