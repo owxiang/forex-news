@@ -6,8 +6,8 @@
 | 00:30 | AUD | Exports (MoM) (Jan) | 1.3% |  | 1.2% |
 | 00:30 | AUD | Imports (MoM) (Jan) | -0.3% |  | 5.9% |
 | 00:30 | AUD | Private House Approvals (Jan) | 1.1% |  | -2.8% |
-| 36 min | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 3.0% |
-| 36 min | CHF | Unemployment Rate s.a. (Feb) |  | 2.7% | 2.7% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Feb) | 2.9% |  | 3.0% |
+| 06:45 | CHF | Unemployment Rate s.a. (Feb) | 2.7% | 2.7% | 2.7% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 50.9 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Feb) |  |  | 42.5 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 44.5 |
