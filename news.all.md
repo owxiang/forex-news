@@ -24,8 +24,8 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.15% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
@@ -46,13 +46,13 @@
 | 13:30 | CAD | Moderate | Trade Balance (Jan) | 3.97B | 1.40B | 1.70B |
 | 13:45 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 54 min | USD | Low | Wholesale Inventories (MoM) (Jan) |  | 0.7% | 0.7% |
-| 54 min | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 1.0% |
-| 54 min | CAD | Low | Ivey PMI n.s.a (Feb) |  |  | 46.2 |
-| 54 min | CAD | Moderate | Ivey PMI (Feb) |  | 50.6 | 47.1 |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | -96B | -261B |
-| 15:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.668B |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) | 0.8% | 0.7% | 0.7% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) | -1.3% |  | 1.4% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) | 53.6 |  | 46.2 |
+| 15:00 | CAD | Moderate | Ivey PMI (Feb) | 55.3 | 50.6 | 47.1 |
+| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 24 min | USD | Low | Natural Gas Storage |  | -96B | -261B |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 1.668B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.235% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
 | 17:00 | USD | Low | Total Vehicle Sales (Feb) |  |  | 15.60M |
