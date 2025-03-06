@@ -21,8 +21,8 @@
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
 | 11:00 | CAD | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 12:30 | USD | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
+| 12:30 | USD | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 224.00K |
 | 13:30 | CAD | Exports (Jan) | 74.46B |  | 70.59B |
 | 13:30 | CAD | Imports (Jan) | 70.49B |  | 68.93B |
@@ -30,9 +30,8 @@
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) | -1.3% |  | 1.4% |
 | 15:00 | CAD | Ivey PMI n.s.a (Feb) | 53.6 |  | 46.2 |
 | 15:30 | USD | Natural Gas Storage | -80B | -96B | -261B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.235% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.235% |
-| 53 min | USD | Total Vehicle Sales (Feb) |  |  | 15.60M |
+| 16:30 | USD | 4-Week Bill Auction | 4.230% |  | 4.235% |
+| 16:30 | USD | 8-Week Bill Auction | 4.220% |  | 4.235% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.380T |
 | 23:00 | KRW | Current Account (Jan) |  |  | 12.37B |
 | 23:50 | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,240.6B |

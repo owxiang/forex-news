@@ -20,7 +20,7 @@
 | 13:45 | USD | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI (Feb) | 55.3 | 50.6 | 47.1 |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
+| 54 min | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
 | 20:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 20:30 | USD | Fed Waller Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,766B |
