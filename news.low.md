@@ -21,12 +21,12 @@
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) | 379.3B |  | 376.7B |
 | 10:00 | EUR | Employment Change (YoY) (Q4) | 0.7% | 0.6% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
-| 10:00 | EUR | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
-| 11:30 | INR | FX Reserves, USD |  |  | 640.48B |
-| 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
-| 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
-| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.80% |
-| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 7.90% |
+| 10:00 | EUR | Employment Overall (Q4) | 169,435.3K | 169,345.0K | 169,112.9K |
+| 25 min | INR | FX Reserves, USD |  |  | 640.48B |
+| 55 min | MXN | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
+| 55 min | MXN | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
+| 55 min | MXN | PPI (YoY) (Feb) |  |  | 7.90% |
+| 55 min | MXN | PPI (MoM) (Feb) |  |  | 0.80% |
 | 13:30 | USD | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
 | 13:30 | USD | Government Payrolls (Feb) |  |  | 32.0K |
 | 13:30 | USD | Manufacturing Payrolls (Feb) |  | 5K | 3K |

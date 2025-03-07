@@ -32,20 +32,20 @@
 | 09:40 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.7% | 0.6% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
+| 10:00 | EUR | Low | Employment Overall (Q4) | 169,435.3K | 169,345.0K | 169,112.9K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.2% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.1% | 0.4% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 640.48B |
-| 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
-| 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
-| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
+| 25 min | INR | Low | FX Reserves, USD |  |  | 640.48B |
+| 55 min | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
+| 55 min | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
+| 55 min | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
+| 55 min | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
+| 55 min | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
+| 55 min | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
+| 55 min | BRL | Moderate | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
+| 55 min | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |
