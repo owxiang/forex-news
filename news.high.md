@@ -7,4 +7,4 @@
 | 13:30 | USD | Unemployment Rate (Feb) | 4.1% | 4.0% | 4.0% |
 | 16:00 | USD | Fed Monetary Policy Report |  |  |  |
 | 17:30 | USD | Fed Chair Powell Speaks |  |  |  |
-| 22 min | USD | U.S. President Trump Speaks |  |  |  |
+| 18:30 | USD | U.S. President Trump Speaks |  |  |  |

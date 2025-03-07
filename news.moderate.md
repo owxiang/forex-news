@@ -30,7 +30,7 @@
 | 15:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 486 |  | 486 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 592 |  | 593 |
-| 20:00 | USD | Consumer Credit (Jan) |  | 15.60B | 40.85B |
+| 55 min | USD | Consumer Credit (Jan) |  | 15.60B | 40.85B |
 | 20:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 4.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 171.2K |
