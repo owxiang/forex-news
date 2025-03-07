@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 03:00 | IDR | FX Reserves (USD) (Feb) |  |  | 156.10B |
+| 30 min | IDR | FX Reserves (USD) (Feb) |  |  | 156.10B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |

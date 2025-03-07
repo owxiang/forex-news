@@ -4,14 +4,14 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 03:00 | CNY | Moderate | Exports (YoY) (Feb) |  | 5.0% | 10.7% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Feb) |  | 1.0% | 1.0% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) |  | 143.10B | 104.84B |
-| 03:00 | IDR | Low | FX Reserves (USD) (Feb) |  |  | 156.10B |
+| 30 min | CNY | Moderate | Exports (YoY) (Feb) |  | 5.0% | 10.7% |
+| 30 min | CNY | Moderate | Imports (YoY) (Feb) |  | 1.0% | 1.0% |
+| 30 min | CNY | Moderate | Trade Balance (USD) (Feb) |  | 143.10B | 104.84B |
+| 30 min | IDR | Low | FX Reserves (USD) (Feb) |  |  | 156.10B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.5% | 0.7% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -2.4% | 6.9% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
 | 07:45 | EUR | Low | French Current Account (Jan) |  |  | 2.40B |
@@ -30,12 +30,12 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.6% | 0.6% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  | 169,345.0K | 169,345.0K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 640.48B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
