@@ -12,39 +12,39 @@
 | 03:20 | CNY | Moderate | Trade Balance (USD) (Feb) | 170.52B | 147.50B | 104.84B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) | 66.26B |  | 65.88B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 61.733B |  | 61.328B |
-| 52 min | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
-| 52 min | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.5% | 0.7% |
-| 52 min | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -2.4% | 6.9% |
-| 52 min | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
-| 07:45 | EUR | Low | French Current Account (Jan) |  |  | 2.40B |
-| 07:45 | EUR | Low | French Exports (Jan) |  |  | 52.3B |
-| 07:45 | EUR | Low | French Imports (Jan) |  |  | 56.2B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Feb) |  |  | 275,078.0M |
-| 07:45 | EUR | Low | French Trade Balance (Jan) |  | -4.1B | -3.9B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 736,392.0B |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  |  | 2.1% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 2.9% | 3.1% | 3.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | -0.1% | 0.5% | 0.7% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -7.0% | -2.4% | 5.9% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | -1.5% |  | 3.2% |
+| 39 min | EUR | Low | French Current Account (Jan) |  |  | 2.40B |
+| 39 min | EUR | Low | French Exports (Jan) |  |  | 52.3B |
+| 39 min | EUR | Low | French Imports (Jan) |  |  | 56.2B |
+| 39 min | EUR | Low | French Reserve Assets Total (Feb) |  |  | 275,078.0M |
+| 39 min | EUR | Low | French Trade Balance (Jan) |  | -4.1B | -3.9B |
+| 54 min | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 736,392.0B |
+| 54 min | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  |  | 2.1% |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 421.50B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 376.7B |
 | 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:40 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Feb) |  |  | 7.49% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.6% | 1.0% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.6% | 1.0% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 640.48B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |

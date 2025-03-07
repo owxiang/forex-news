@@ -8,24 +8,24 @@
 | 03:20 | CNY | Trade Balance (Feb) | 1,226.06B | 990.00B | 752.91B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) | 66.26B |  | 65.88B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Feb) | 61.733B |  | 61.328B |
-| 52 min | NOK | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
-| 07:45 | EUR | French Current Account (Jan) |  |  | 2.40B |
-| 07:45 | EUR | French Exports (Jan) |  |  | 52.3B |
-| 07:45 | EUR | French Imports (Jan) |  |  | 56.2B |
-| 07:45 | EUR | French Reserve Assets Total (Feb) |  |  | 275,078.0M |
-| 07:45 | EUR | French Trade Balance (Jan) |  | -4.1B | -3.9B |
-| 08:00 | CHF | Foreign Reserves (USD) (Feb) |  |  | 736,392.0B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) |  |  | 2.1% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jan) | -1.5% |  | 3.2% |
+| 39 min | EUR | French Current Account (Jan) |  |  | 2.40B |
+| 39 min | EUR | French Exports (Jan) |  |  | 52.3B |
+| 39 min | EUR | French Imports (Jan) |  |  | 56.2B |
+| 39 min | EUR | French Reserve Assets Total (Feb) |  |  | 275,078.0M |
+| 39 min | EUR | French Trade Balance (Jan) |  | -4.1B | -3.9B |
+| 54 min | CHF | Foreign Reserves (USD) (Feb) |  |  | 736,392.0B |
+| 54 min | EUR | Spanish Industrial Production (YoY) (Jan) |  |  | 2.1% |
 | 08:30 | HKD | Foreign Reserves (USD) (Feb) |  |  | 421.50B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) |  |  | 376.7B |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.6% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.6% | 1.0% |
 | 10:00 | EUR | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
 | 11:30 | INR | FX Reserves, USD |  |  | 640.48B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
-| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.80% |
 | 12:00 | MXN | PPI (YoY) (Feb) |  |  | 7.90% |
+| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.80% |
 | 13:30 | USD | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
 | 13:30 | USD | Government Payrolls (Feb) |  |  | 32.0K |
 | 13:30 | USD | Manufacturing Payrolls (Feb) |  | 5K | 3K |
