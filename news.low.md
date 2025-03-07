@@ -27,8 +27,8 @@
 | 11:30 | INR | FX Reserves, USD | 638.70B |  | 640.48B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) | 0.48% | 0.46% | 0.41% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
-| 12:00 | MXN | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 12:00 | MXN | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
+| 12:00 | MXN | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 13:30 | USD | Average Weekly Hours (Feb) | 34.1 | 34.2 | 34.1 |
 | 13:30 | USD | Government Payrolls (Feb) | 11.0K |  | 44.0K |
 | 13:30 | USD | Manufacturing Payrolls (Feb) | 10K | 5K | -5K |
