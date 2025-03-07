@@ -26,15 +26,15 @@
 | 08:00 | CNY | Low | FX Reserves (USD) (Feb) | 3.227T | 3.220T | 3.209T |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) | 416.40B |  | 421.50B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) | 379.3B |  | 376.7B |
-| 23 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 33 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 53 min | GBP | Moderate | Mortgage Rate (GBP) (Feb) |  |  | 7.49% |
-| 53 min | EUR | Low | Employment Change (YoY) (Q4) |  | 0.6% | 1.0% |
-| 53 min | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 53 min | EUR | Low | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
-| 53 min | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
-| 53 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Feb) | 7.33% |  | 7.46% |
+| 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:40 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 0.7% | 0.6% | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.2% | 0.9% | 0.9% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.1% | 0.4% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 640.48B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
@@ -44,8 +44,8 @@
 | 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |
