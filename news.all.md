@@ -10,12 +10,12 @@
 | 03:20 | CNY | Moderate | Exports (YoY) (Feb) | 2.3% | 5.0% | 10.7% |
 | 03:20 | CNY | Moderate | Imports (YoY) (Feb) | -8.4% | 1.0% | 1.0% |
 | 03:20 | CNY | Moderate | Trade Balance (USD) (Feb) | 170.52B | 147.50B | 104.84B |
-| 53 min | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
-| 53 min | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.5% | 0.7% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -2.4% | 6.9% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) | 66.26B |  | 65.88B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 61.733B |  | 61.328B |
+| 52 min | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
+| 52 min | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.5% | 0.7% |
+| 52 min | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -2.4% | 6.9% |
+| 52 min | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
 | 07:45 | EUR | Low | French Current Account (Jan) |  |  | 2.40B |
 | 07:45 | EUR | Low | French Exports (Jan) |  |  | 52.3B |
 | 07:45 | EUR | Low | French Imports (Jan) |  |  | 56.2B |
@@ -36,8 +36,8 @@
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 640.48B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |

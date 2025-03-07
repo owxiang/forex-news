@@ -6,9 +6,9 @@
 | 03:20 | CNY | Exports (Feb) | 3.40M |  | 10.90M |
 | 03:20 | CNY | Imports (Feb) | -7.30M |  | 1.30M |
 | 03:20 | CNY | Trade Balance (Feb) | 1,226.06B | 990.00B | 752.91B |
-| 53 min | ZAR | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
-| 53 min | ZAR | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
-| 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
+| 06:00 | ZAR | Foreign Reserves (USD) (Feb) | 66.26B |  | 65.88B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Feb) | 61.733B |  | 61.328B |
+| 52 min | NOK | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
 | 07:45 | EUR | French Current Account (Jan) |  |  | 2.40B |
 | 07:45 | EUR | French Exports (Jan) |  |  | 52.3B |
 | 07:45 | EUR | French Imports (Jan) |  |  | 56.2B |
