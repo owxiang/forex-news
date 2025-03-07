@@ -15,8 +15,8 @@
 | 09:40 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | GDP (YoY) (Q4) | 1.2% | 0.9% | 0.9% |
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.2% | 0.1% | 0.4% |
-| 12:00 | MXN | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
 | 12:00 | MXN | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
+| 12:00 | MXN | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
 | 12:00 | BRL | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
 | 12:00 | BRL | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.0% | 4.1% | 3.9% |
@@ -31,13 +31,13 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 486 |  | 486 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 592 |  | 593 |
 | 20:00 | USD | Consumer Credit (Jan) | 18.08B | 15.60B | 37.05B |
-| 8 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 23 min | GBP | CFTC GBP speculative net positions |  |  | 4.5K |
-| 23 min | USD | CFTC Crude Oil speculative net positions |  |  | 171.2K |
-| 23 min | USD | CFTC Gold speculative net positions |  |  | 261.6K |
-| 23 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 25.8K |
-| 23 min | USD | CFTC S&P 500 speculative net positions |  |  | -32.8K |
-| 23 min | AUD | CFTC AUD speculative net positions |  |  | -45.6K |
-| 23 min | BRL | CFTC BRL speculative net positions |  |  | 2.4K |
-| 23 min | JPY | CFTC JPY speculative net positions |  |  | 96.0K |
-| 23 min | EUR | CFTC EUR speculative net positions |  |  | -25.4K |
+| 20:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions | 18.6K |  | 4.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 154.8K |  | 171.2K |
+| 20:30 | USD | CFTC Gold speculative net positions | 243.3K |  | 261.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 21.8K |  | 25.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | 32.1K |  | -32.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions | -48.2K |  | -45.6K |
+| 20:30 | BRL | CFTC BRL speculative net positions | 43.2K |  | 2.4K |
+| 20:30 | JPY | CFTC JPY speculative net positions | 133.7K |  | 96.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions | -10.1K |  | -25.4K |
