@@ -42,28 +42,28 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
-| 20 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
-| 20 min | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
-| 20 min | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
-| 20 min | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
-| 20 min | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |
-| 20 min | USD | High | Nonfarm Payrolls (Feb) |  | 159K | 143K |
-| 20 min | USD | Moderate | Participation Rate (Feb) |  |  | 62.6% |
-| 20 min | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 142K | 111K |
-| 20 min | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 7.5% |
-| 20 min | USD | High | Unemployment Rate (Feb) |  | 4.0% | 4.0% |
-| 20 min | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.7% |
-| 20 min | CAD | Low | Capacity Utilization Rate (Q4) |  | 79.2% | 79.3% |
-| 20 min | CAD | Moderate | Employment Change (Feb) |  | 19.7K | 76.0K |
-| 20 min | CAD | Low | Full Employment Change (Feb) |  |  | 35.2K |
-| 20 min | CAD | Low | Part Time Employment Change (Feb) |  |  | 40.9K |
-| 20 min | CAD | Low | Participation Rate (Feb) |  |  | 65.5% |
-| 20 min | CAD | Moderate | Unemployment Rate (Feb) |  | 6.7% | 6.6% |
-| 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.0% | 4.1% | 3.9% |
+| 13:30 | USD | Low | Average Weekly Hours (Feb) | 34.1 | 34.2 | 34.1 |
+| 13:30 | USD | Low | Government Payrolls (Feb) | 11.0K |  | 44.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Feb) | 10K | 5K | -5K |
+| 13:30 | USD | High | Nonfarm Payrolls (Feb) | 151K | 159K | 125K |
+| 13:30 | USD | Moderate | Participation Rate (Feb) | 62.4% |  | 62.6% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) | 140K | 142K | 81K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) | 8.0% |  | 7.5% |
+| 13:30 | USD | High | Unemployment Rate (Feb) | 4.1% | 4.0% | 4.0% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Feb) | 4.0% |  | 3.7% |
+| 13:30 | CAD | Low | Capacity Utilization Rate (Q4) | 79.8% | 79.2% | 79.4% |
+| 13:30 | CAD | Moderate | Employment Change (Feb) | 1.1K | 19.7K | 76.0K |
+| 13:30 | CAD | Low | Full Employment Change (Feb) | -19.7K |  | 35.2K |
+| 13:30 | CAD | Low | Part Time Employment Change (Feb) | 20.8K |  | 40.9K |
+| 13:30 | CAD | Low | Participation Rate (Feb) | 65.3% |  | 65.5% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Feb) | 6.6% | 6.7% | 6.6% |
+| 54 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.668B |
 | 15:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
