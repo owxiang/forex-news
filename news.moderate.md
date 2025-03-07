@@ -6,8 +6,8 @@
 | 03:20 | CNY | Exports (YoY) (Feb) | 2.3% | 5.0% | 10.7% |
 | 03:20 | CNY | Imports (YoY) (Feb) | -8.4% | 1.0% | 1.0% |
 | 03:20 | CNY | Trade Balance (USD) (Feb) | 170.52B | 147.50B | 104.84B |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 2.9% | 3.1% | 2.9% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | -0.1% | 0.5% | 0.6% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 2.9% | 3.1% | 2.9% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) | -7.0% | -2.4% | 5.9% |
 | 09:30 | GBP | Mortgage Rate (GBP) (Feb) | 7.33% |  | 7.46% |
 | 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
@@ -15,10 +15,10 @@
 | 09:40 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | GDP (YoY) (Q4) | 1.2% | 0.9% | 0.9% |
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.2% | 0.1% | 0.4% |
-| 55 min | MXN | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
-| 55 min | MXN | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
-| 55 min | BRL | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
-| 55 min | BRL | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
+| 12:00 | MXN | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
+| 12:00 | MXN | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
+| 12:00 | BRL | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
+| 12:00 | BRL | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
 | 13:30 | USD | Participation Rate (Feb) |  |  | 62.6% |
 | 13:30 | USD | Private Nonfarm Payrolls (Feb) |  | 142K | 111K |

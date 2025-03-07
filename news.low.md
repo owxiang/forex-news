@@ -14,7 +14,7 @@
 | 07:45 | EUR | French Imports (Jan) | 56.4B |  | 55.7B |
 | 07:45 | EUR | French Reserve Assets Total (Feb) | 295,984.0M |  | 275,078.0M |
 | 07:45 | EUR | French Trade Balance (Jan) | -6.5B | -4.1B | -3.5B |
-| 08:00 | CHF | Foreign Reserves (USD) (Feb) | 735,371.0B |  | 736,437.0B |
+| 08:00 | CHF | Foreign Reserves (USD) (Feb) | 735.4B |  | 736.4B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | -1.0% |  | 2.0% |
 | 08:00 | CNY | FX Reserves (USD) (Feb) | 3.227T | 3.220T | 3.209T |
 | 08:30 | HKD | Foreign Reserves (USD) (Feb) | 416.40B |  | 421.50B |
@@ -22,11 +22,13 @@
 | 10:00 | EUR | Employment Change (YoY) (Q4) | 0.7% | 0.6% | 1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.1% | 0.1% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q4) | 169,435.3K | 169,345.0K | 169,112.9K |
-| 25 min | INR | FX Reserves, USD |  |  | 640.48B |
-| 55 min | MXN | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
-| 55 min | MXN | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
-| 55 min | MXN | PPI (YoY) (Feb) |  |  | 7.90% |
-| 55 min | MXN | PPI (MoM) (Feb) |  |  | 0.80% |
+| 11:30 | INR | Bank Loan Growth | 11.0% |  | 11.3% |
+| 11:30 | INR | Deposit Growth | 10.3% |  | 10.6% |
+| 11:30 | INR | FX Reserves, USD | 638.70B |  | 640.48B |
+| 12:00 | MXN | Core CPI (MoM) (Feb) | 0.48% | 0.46% | 0.41% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
+| 12:00 | MXN | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
+| 12:00 | MXN | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 13:30 | USD | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
 | 13:30 | USD | Government Payrolls (Feb) |  |  | 32.0K |
 | 13:30 | USD | Manufacturing Payrolls (Feb) |  | 5K | 3K |

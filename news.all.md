@@ -12,8 +12,8 @@
 | 03:20 | CNY | Moderate | Trade Balance (USD) (Feb) | 170.52B | 147.50B | 104.84B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) | 66.26B |  | 65.88B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 61.733B |  | 61.328B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 2.9% | 3.1% | 2.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | -0.1% | 0.5% | 0.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 2.9% | 3.1% | 2.9% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -7.0% | -2.4% | 5.9% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | -1.5% |  | 3.2% |
 | 07:45 | EUR | Low | French Current Account (Jan) | -2.20B |  | 2.60B |
@@ -21,7 +21,7 @@
 | 07:45 | EUR | Low | French Imports (Jan) | 56.4B |  | 55.7B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) | 295,984.0M |  | 275,078.0M |
 | 07:45 | EUR | Low | French Trade Balance (Jan) | -6.5B | -4.1B | -3.5B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) | 735,371.0B |  | 736,437.0B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) | 735.4B |  | 736.4B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) | -1.0% |  | 2.0% |
 | 08:00 | CNY | Low | FX Reserves (USD) (Feb) | 3.227T | 3.220T | 3.209T |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) | 416.40B |  | 421.50B |
@@ -35,15 +35,17 @@
 | 10:00 | EUR | Low | Employment Overall (Q4) | 169,435.3K | 169,345.0K | 169,112.9K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 1.2% | 0.9% | 0.9% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.1% | 0.4% |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 640.48B |
-| 55 min | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
-| 55 min | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
-| 55 min | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
-| 55 min | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
-| 55 min | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
-| 55 min | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
-| 55 min | BRL | Moderate | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
-| 55 min | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
+| 11:30 | INR | Low | Bank Loan Growth | 11.0% |  | 11.3% |
+| 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.6% |
+| 11:30 | INR | Low | FX Reserves, USD | 638.70B |  | 640.48B |
+| 12:00 | MXN | Low | Core CPI (MoM) (Feb) | 0.48% | 0.46% | 0.41% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
+| 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
