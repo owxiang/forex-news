@@ -37,12 +37,12 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |
