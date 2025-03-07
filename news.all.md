@@ -42,8 +42,8 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.0% | 4.1% | 3.9% |
@@ -64,10 +64,9 @@
 | 13:30 | CAD | Low | Participation Rate (Feb) | 65.3% |  | 65.5% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Feb) | 6.6% | 6.7% | 6.6% |
 | 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 1.668B |
-| 39 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 54 min | USD | High | Fed Monetary Policy Report |  |  |  |
+| 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 17:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 593 |

@@ -27,8 +27,8 @@
 | 11:30 | INR | FX Reserves, USD | 638.70B |  | 640.48B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) | 0.48% | 0.46% | 0.41% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
-| 12:00 | MXN | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 12:00 | MXN | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
+| 12:00 | MXN | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 13:30 | USD | Average Weekly Hours (Feb) | 34.1 | 34.2 | 34.1 |
 | 13:30 | USD | Government Payrolls (Feb) | 11.0K |  | 44.0K |
 | 13:30 | USD | Manufacturing Payrolls (Feb) | 10K | 5K | -5K |
@@ -37,7 +37,6 @@
 | 13:30 | CAD | Full Employment Change (Feb) | -19.7K |  | 35.2K |
 | 13:30 | CAD | Part Time Employment Change (Feb) | 20.8K |  | 40.9K |
 | 13:30 | CAD | Participation Rate (Feb) | 65.3% |  | 65.5% |
-| 24 min | BRL | Foreign Exchange Flows |  |  | 1.668B |
 | 18:00 | BRL | Trade Balance (Feb) |  | 1.90B | 2.16B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.0K |
