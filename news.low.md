@@ -1,38 +1,51 @@
-## 06 March 2025 - Low Impact Forex News
+## 07 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Building Approvals (YoY) (Jan) | 9.10% | 5.60% | 10.10% |
-| 00:30 | AUD | Exports (MoM) (Jan) | 1.3% |  | 1.2% |
-| 00:30 | AUD | Imports (MoM) (Jan) | -0.3% |  | 5.9% |
-| 00:30 | AUD | Private House Approvals (Jan) | 1.1% |  | -2.8% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Feb) | 2.9% |  | 3.0% |
-| 06:45 | CHF | Unemployment Rate s.a. (Feb) | 2.7% | 2.7% | 2.7% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) | 48.2 |  | 50.9 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Feb) | 41.2 |  | 42.5 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 39.8 |  | 44.5 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.7 | 45.4 | 45.4 |
-| 09:00 | ZAR | Current Account (Q4) | -31.6B |  | -55.6B |
-| 09:00 | ZAR | Current Account % of GDP (Q4) | -0.40% |  | -0.80% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.507% |  | 2.743% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.067% |  | 2.705% |
-| 10:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
-| 10:00 | EUR | French 10-Year OAT Auction | 3.51% |  | 3.15% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
-| 11:00 | CAD | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
-| 12:30 | USD | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 224.25K |  | 224.00K |
-| 13:30 | CAD | Exports (Jan) | 74.46B |  | 70.59B |
-| 13:30 | CAD | Imports (Jan) | 70.49B |  | 68.93B |
-| 15:00 | USD | Wholesale Inventories (MoM) (Jan) | 0.8% | 0.7% | 0.7% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) | -1.3% |  | 1.4% |
-| 15:00 | CAD | Ivey PMI n.s.a (Feb) | 53.6 |  | 46.2 |
-| 15:30 | USD | Natural Gas Storage | -80B | -96B | -261B |
-| 15:30 | BRL | Foreign Exchange Flows | 0.410B |  | 1.668B |
-| 16:30 | USD | 4-Week Bill Auction | 4.230% |  | 4.235% |
-| 16:30 | USD | 8-Week Bill Auction | 4.220% |  | 4.235% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.381T |  | 3.380T |
-| 23:00 | KRW | Current Account (Jan) | 2.94B |  | 12.37B |
-| 44 min | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,240.6B |
+| 00:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 03:00 | IDR | FX Reserves (USD) (Feb) |  |  | 156.10B |
+| 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
+| 07:45 | EUR | French Current Account (Jan) |  |  | 2.40B |
+| 07:45 | EUR | French Exports (Jan) |  |  | 52.3B |
+| 07:45 | EUR | French Imports (Jan) |  |  | 56.2B |
+| 07:45 | EUR | French Reserve Assets Total (Feb) |  |  | 275,078.0M |
+| 07:45 | EUR | French Trade Balance (Jan) |  | -4.1B | -3.9B |
+| 08:00 | CHF | Foreign Reserves (USD) (Feb) |  |  | 736,392.0B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) |  |  | 2.1% |
+| 08:30 | HKD | Foreign Reserves (USD) (Feb) |  |  | 421.50B |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) |  |  | 376.7B |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.6% | 0.6% |
+| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 10:00 | EUR | Employment Overall (Q4) |  | 169,345.0K | 169,345.0K |
+| 11:30 | INR | FX Reserves, USD |  |  | 640.48B |
+| 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
+| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 7.90% |
+| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.80% |
+| 13:30 | USD | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
+| 13:30 | USD | Government Payrolls (Feb) |  |  | 32.0K |
+| 13:30 | USD | Manufacturing Payrolls (Feb) |  | 5K | 3K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Feb) |  |  | 3.7% |
+| 13:30 | CAD | Capacity Utilization Rate (Q4) |  | 79.2% | 79.3% |
+| 13:30 | CAD | Full Employment Change (Feb) |  |  | 35.2K |
+| 13:30 | CAD | Part Time Employment Change (Feb) |  |  | 40.9K |
+| 13:30 | CAD | Participation Rate (Feb) |  |  | 65.5% |
+| 15:30 | BRL | Foreign Exchange Flows |  |  | 1.668B |
+| 17:10 | CNY | FX Reserves (USD) (Feb) |  |  | 3.209T |
+| 17:10 | CNY | Exports (Feb) |  |  | 10.90M |
+| 17:10 | CNY | Imports (Feb) |  |  | 1.30M |
+| 17:10 | CNY | Trade Balance (Feb) |  |  | 752.90B |
+| 18:00 | BRL | Trade Balance (Feb) |  | 1.90B | 2.16B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.0K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 441.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -73.8K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 52.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -10.6K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -62.1K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -137.9K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 28.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -39.5K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -53.7K |

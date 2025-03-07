@@ -1,8 +1,10 @@
-## 06 March 2025 - High Impact Forex News
+## 07 March 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | EUR | Deposit Facility Rate (Mar) | 2.50% | 2.50% | 2.75% |
-| 13:15 | EUR | ECB Interest Rate Decision (Mar) | 2.65% | 2.65% | 2.90% |
-| 13:30 | USD | Initial Jobless Claims | 221K | 234K | 242K |
-| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
+| 13:30 | USD | Nonfarm Payrolls (Feb) |  | 159K | 143K |
+| 13:30 | USD | Unemployment Rate (Feb) |  | 4.0% | 4.0% |
+| 16:00 | USD | Fed Monetary Policy Report |  |  |  |
+| 17:30 | USD | Fed Chair Powell Speaks |  |  |  |
+| 18:30 | USD | U.S. President Trump Speaks |  |  |  |

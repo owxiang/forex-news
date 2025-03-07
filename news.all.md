@@ -1,64 +1,96 @@
-## 06 March 2025 - All Forex News
+## 07 March 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Low | Building Approvals (YoY) (Jan) | 9.10% | 5.60% | 10.10% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | 6.3% | -0.1% | 1.7% |
-| 00:30 | AUD | Low | Exports (MoM) (Jan) | 1.3% |  | 1.2% |
-| 00:30 | AUD | Low | Imports (MoM) (Jan) | -0.3% |  | 5.9% |
-| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% |  | -2.8% |
-| 00:30 | AUD | Moderate | Trade Balance (Jan) | 5.620B | 5.850B | 4.920B |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) | 2.9% |  | 3.0% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) | 2.7% | 2.7% | 2.7% |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Feb) | 0.51% |  | 0.24% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) | 48.2 |  | 50.9 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) | 41.2 |  | 42.5 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) | 39.8 |  | 44.5 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.7 | 45.4 | 45.4 |
-| 09:00 | ZAR | Low | Current Account (Q4) | -31.6B |  | -55.6B |
-| 09:00 | ZAR | Low | Current Account % of GDP (Q4) | -0.40% |  | -0.80% |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Feb) | 44.6 | 49.5 | 48.1 |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.507% |  | 2.743% |
-| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.067% |  | 2.705% |
-| 10:00 | EUR | Low | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.51% |  | 3.15% |
-| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | 1.5% | 1.9% | 2.2% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | -0.3% | 0.1% | 0.0% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Feb) | 0.16% |  | 0.20% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 103.2% |  | -39.5% |
-| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 172.017K |  | 49.795K |
-| 13:15 | EUR | High | Deposit Facility Rate (Mar) | 2.50% | 2.50% | 2.75% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.90% | 2.90% | 3.15% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Mar) | 2.65% | 2.65% | 2.90% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,897K | 1,880K | 1,855K |
-| 13:30 | USD | Moderate | Exports (Jan) | 269.80B |  | 266.50B |
-| 13:30 | USD | Moderate | Imports (Jan) | 401.20B |  | 364.90B |
-| 13:30 | USD | High | Initial Jobless Claims | 221K | 234K | 242K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.25K |  | 224.00K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 1.5% | 1.2% | 2.2% |
-| 13:30 | USD | Moderate | Trade Balance (Jan) | -131.40B | -128.30B | -98.10B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 2.2% | 3.0% | 0.8% |
-| 13:30 | CAD | Low | Exports (Jan) | 74.46B |  | 70.59B |
-| 13:30 | CAD | Low | Imports (Jan) | 70.49B |  | 68.93B |
-| 13:30 | CAD | Moderate | Trade Balance (Jan) | 3.97B | 1.40B | 1.70B |
-| 13:45 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) | 0.8% | 0.7% | 0.7% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) | -1.3% |  | 1.4% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) | 53.6 |  | 46.2 |
-| 15:00 | CAD | Moderate | Ivey PMI (Feb) | 55.3 | 50.6 | 47.1 |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage | -80B | -96B | -261B |
-| 15:30 | BRL | Low | Foreign Exchange Flows | 0.410B |  | 1.668B |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.230% |  | 4.235% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 4.220% |  | 4.235% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.4% | -2.8% | -2.8% |
+| 00:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 03:00 | CNY | Moderate | Exports (YoY) (Feb) |  | 5.0% | 10.7% |
+| 03:00 | CNY | Moderate | Imports (YoY) (Feb) |  | 1.0% | 1.0% |
+| 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) |  | 143.10B | 104.84B |
+| 03:00 | IDR | Low | FX Reserves (USD) (Feb) |  |  | 156.10B |
+| 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
+| 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.5% | 0.7% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -2.4% | 6.9% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
+| 07:45 | EUR | Low | French Current Account (Jan) |  |  | 2.40B |
+| 07:45 | EUR | Low | French Exports (Jan) |  |  | 52.3B |
+| 07:45 | EUR | Low | French Imports (Jan) |  |  | 56.2B |
+| 07:45 | EUR | Low | French Reserve Assets Total (Feb) |  |  | 275,078.0M |
+| 07:45 | EUR | Low | French Trade Balance (Jan) |  | -4.1B | -3.9B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 736,392.0B |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  |  | 2.1% |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 421.50B |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 376.7B |
+| 09:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:40 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Feb) |  |  | 7.49% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 0.6% | 0.6% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 10:00 | EUR | Low | Employment Overall (Q4) |  | 169,345.0K | 169,345.0K |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 11:30 | INR | Low | FX Reserves, USD |  |  | 640.48B |
+| 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
+| 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 7.90% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.80% |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q4) |  | 4.1% | 4.0% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
+| 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
+| 13:30 | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |
+| 13:30 | USD | High | Nonfarm Payrolls (Feb) |  | 159K | 143K |
+| 13:30 | USD | Moderate | Participation Rate (Feb) |  |  | 62.6% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 142K | 111K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 7.5% |
+| 13:30 | USD | High | Unemployment Rate (Feb) |  | 4.0% | 4.0% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.7% |
+| 13:30 | CAD | Low | Capacity Utilization Rate (Q4) |  | 79.2% | 79.3% |
+| 13:30 | CAD | Moderate | Employment Change (Feb) |  | 19.7K | 76.0K |
+| 13:30 | CAD | Low | Full Employment Change (Feb) |  |  | 35.2K |
+| 13:30 | CAD | Low | Part Time Employment Change (Feb) |  |  | 40.9K |
+| 13:30 | CAD | Low | Participation Rate (Feb) |  |  | 65.5% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Feb) |  | 6.7% | 6.6% |
+| 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.668B |
+| 15:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
+| 17:10 | CNY | Low | FX Reserves (USD) (Feb) |  |  | 3.209T |
+| 17:10 | CNY | Low | Exports (Feb) |  |  | 10.90M |
+| 17:10 | CNY | Low | Imports (Feb) |  |  | 1.30M |
+| 17:10 | CNY | Low | Trade Balance (Feb) |  |  | 752.90B |
+| 17:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 593 |
+| 18:00 | BRL | Low | Trade Balance (Feb) |  | 1.90B | 2.16B |
+| 18:30 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 20:00 | USD | Moderate | Consumer Credit (Jan) |  | 15.60B | 40.85B |
 | 20:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 20:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,757B |  | 6,766B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.381T |  | 3.380T |
-| 23:00 | KRW | Low | Current Account (Jan) | 2.94B |  | 12.37B |
-| 44 min | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,240.6B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 4.5K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.5K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 19.0K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 441.2K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 171.2K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 261.6K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 25.8K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -73.8K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -32.8K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 52.9K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -10.6K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -62.1K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -137.9K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 28.7K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -39.5K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -45.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 2.4K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 96.0K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -53.7K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -25.4K |
