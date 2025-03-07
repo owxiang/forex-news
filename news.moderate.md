@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 03:00 | CNY | Exports (YoY) (Feb) | 2.3% | 5.0% | 10.7% |
-| 03:00 | CNY | Imports (YoY) (Feb) | -8.4% | 1.0% | 1.0% |
-| 03:11 | CNY | Trade Balance (USD) (Feb) | 170.51B | 143.10B | 104.84B |
+| 03:16 | CNY | Exports (YoY) (Feb) | 2.3% | 5.0% | 10.7% |
+| 03:16 | CNY | Imports (YoY) (Feb) | -8.4% | 1.0% | 1.0% |
+| 03:16 | CNY | Trade Balance (USD) (Feb) | 170.52B | 143.10B | 104.84B |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.5% | 0.7% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) |  | -2.4% | 6.9% |

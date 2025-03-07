@@ -5,11 +5,12 @@
 | 00:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 03:00 | IDR | Low | FX Reserves (USD) (Feb) | 154.50B |  | 156.10B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Feb) | 2.3% | 5.0% | 10.7% |
-| 03:00 | CNY | Low | Exports (Feb) | 3.40M |  | 10.90M |
-| 03:00 | CNY | Moderate | Imports (YoY) (Feb) | -8.4% | 1.0% | 1.0% |
-| 03:00 | CNY | Low | Imports (Feb) | -7.30M |  | 1.30M |
-| 03:11 | CNY | Moderate | Trade Balance (USD) (Feb) | 170.51B | 143.10B | 104.84B |
+| 03:16 | CNY | Moderate | Exports (YoY) (Feb) | 2.3% | 5.0% | 10.7% |
+| 03:16 | CNY | Moderate | Imports (YoY) (Feb) | -8.4% | 1.0% | 1.0% |
+| 03:16 | CNY | Moderate | Trade Balance (USD) (Feb) | 170.52B | 143.10B | 104.84B |
+| 03:24 | CNY | Low | Exports (Feb) | 3.40M |  | 10.90M |
+| 03:24 | CNY | Low | Imports (Feb) | -7.30M |  | 1.30M |
+| 03:24 | CNY | Low | Trade Balance (Feb) | 1,226.06B |  | 752.91B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  | 3.1% | 3.0% |
@@ -66,7 +67,6 @@
 | 15:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 17:10 | CNY | Low | FX Reserves (USD) (Feb) |  |  | 3.209T |
-| 17:10 | CNY | Low | Trade Balance (Feb) |  |  | 752.91B |
 | 17:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 593 |

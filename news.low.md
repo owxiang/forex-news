@@ -4,8 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 03:00 | IDR | FX Reserves (USD) (Feb) | 154.50B |  | 156.10B |
-| 03:00 | CNY | Exports (Feb) | 3.40M |  | 10.90M |
-| 03:00 | CNY | Imports (Feb) | -7.30M |  | 1.30M |
+| 03:24 | CNY | Exports (Feb) | 3.40M |  | 10.90M |
+| 03:24 | CNY | Imports (Feb) | -7.30M |  | 1.30M |
+| 03:24 | CNY | Trade Balance (Feb) | 1,226.06B |  | 752.91B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 65.88B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 61.328B |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | 3.2% |
@@ -36,7 +37,6 @@
 | 13:30 | CAD | Participation Rate (Feb) |  |  | 65.5% |
 | 15:30 | BRL | Foreign Exchange Flows |  |  | 1.668B |
 | 17:10 | CNY | FX Reserves (USD) (Feb) |  |  | 3.209T |
-| 17:10 | CNY | Trade Balance (Feb) |  |  | 752.91B |
 | 18:00 | BRL | Trade Balance (Feb) |  | 1.90B | 2.16B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.0K |
