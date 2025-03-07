@@ -25,9 +25,9 @@
 | 13:30 | USD | U6 Unemployment Rate (Feb) | 8.0% |  | 7.5% |
 | 13:30 | CAD | Employment Change (Feb) | 1.1K | 19.7K | 76.0K |
 | 13:30 | CAD | Unemployment Rate (Feb) | 6.6% | 6.7% | 6.6% |
-| 54 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 15:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 9 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 39 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 593 |
 | 20:00 | USD | Consumer Credit (Jan) |  | 15.60B | 40.85B |
