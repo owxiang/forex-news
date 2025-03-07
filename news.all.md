@@ -39,15 +39,15 @@
 | 11:30 | INR | Low | Deposit Growth | 10.3% |  | 10.6% |
 | 11:30 | INR | Low | FX Reserves, USD | 638.70B |  | 640.48B |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) | 0.48% | 0.46% | 0.41% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.0% | 4.1% | 3.9% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.0% | 4.1% | 3.9% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) | 34.1 | 34.2 | 34.1 |
 | 13:30 | USD | Low | Government Payrolls (Feb) | 11.0K |  | 44.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) | 10K | 5K | -5K |

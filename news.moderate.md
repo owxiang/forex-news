@@ -15,8 +15,8 @@
 | 09:40 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | GDP (YoY) (Q4) | 1.2% | 0.9% | 0.9% |
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.2% | 0.1% | 0.4% |
-| 12:00 | MXN | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
 | 12:00 | MXN | CPI (YoY) (Feb) | 3.77% | 3.77% | 3.59% |
+| 12:00 | MXN | CPI (MoM) (Feb) | 0.28% | 0.27% | 0.29% |
 | 12:00 | BRL | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
 | 12:00 | BRL | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.0% | 4.1% | 3.9% |
