@@ -12,8 +12,8 @@
 | 03:20 | CNY | Moderate | Trade Balance (USD) (Feb) | 170.52B | 147.50B | 104.84B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) | 66.26B |  | 65.88B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 61.733B |  | 61.328B |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | -0.1% | 0.5% | 0.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 2.9% | 3.1% | 2.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | -0.1% | 0.5% | 0.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -7.0% | -2.4% | 5.9% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | -1.5% |  | 3.2% |
 | 07:45 | EUR | Low | French Current Account (Jan) | -2.20B |  | 2.60B |
@@ -44,25 +44,25 @@
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 3.65% | 3.62% | 3.66% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 8.00% |  | 7.80% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.60% |  | 0.70% |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.5% | 0.7% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
-| 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
-| 13:30 | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |
-| 13:30 | USD | High | Nonfarm Payrolls (Feb) |  | 159K | 143K |
-| 13:30 | USD | Moderate | Participation Rate (Feb) |  |  | 62.6% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 142K | 111K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 7.5% |
-| 13:30 | USD | High | Unemployment Rate (Feb) |  | 4.0% | 4.0% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.7% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Q4) |  | 79.2% | 79.3% |
-| 13:30 | CAD | Moderate | Employment Change (Feb) |  | 19.7K | 76.0K |
-| 13:30 | CAD | Low | Full Employment Change (Feb) |  |  | 35.2K |
-| 13:30 | CAD | Low | Part Time Employment Change (Feb) |  |  | 40.9K |
-| 13:30 | CAD | Low | Participation Rate (Feb) |  |  | 65.5% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Feb) |  | 6.7% | 6.6% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 3.6% | 4.1% | 4.0% |
+| 20 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.1% | 4.1% |
+| 20 min | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.3% | 0.5% |
+| 20 min | USD | Low | Average Weekly Hours (Feb) |  | 34.2 | 34.1 |
+| 20 min | USD | Low | Government Payrolls (Feb) |  |  | 32.0K |
+| 20 min | USD | Low | Manufacturing Payrolls (Feb) |  | 5K | 3K |
+| 20 min | USD | High | Nonfarm Payrolls (Feb) |  | 159K | 143K |
+| 20 min | USD | Moderate | Participation Rate (Feb) |  |  | 62.6% |
+| 20 min | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 142K | 111K |
+| 20 min | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 7.5% |
+| 20 min | USD | High | Unemployment Rate (Feb) |  | 4.0% | 4.0% |
+| 20 min | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 3.7% |
+| 20 min | CAD | Low | Capacity Utilization Rate (Q4) |  | 79.2% | 79.3% |
+| 20 min | CAD | Moderate | Employment Change (Feb) |  | 19.7K | 76.0K |
+| 20 min | CAD | Low | Full Employment Change (Feb) |  |  | 35.2K |
+| 20 min | CAD | Low | Part Time Employment Change (Feb) |  |  | 40.9K |
+| 20 min | CAD | Low | Participation Rate (Feb) |  |  | 65.5% |
+| 20 min | CAD | Moderate | Unemployment Rate (Feb) |  | 6.7% | 6.6% |
 | 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 15:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.668B |
