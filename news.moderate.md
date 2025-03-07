@@ -9,12 +9,12 @@
 | 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 2.9% | 3.1% | 2.9% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | -0.1% | 0.5% | 0.6% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) | -7.0% | -2.4% | 5.9% |
-| 09:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 09:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:40 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) (Feb) |  |  | 7.49% |
-| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
-| 10:00 | EUR | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 23 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 23 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 33 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 53 min | GBP | Mortgage Rate (GBP) (Feb) |  |  | 7.49% |
+| 53 min | EUR | GDP (YoY) (Q4) |  | 0.9% | 0.9% |
+| 53 min | EUR | GDP (QoQ) (Q4) |  | 0.1% | 0.4% |
 | 12:00 | MXN | CPI (MoM) (Feb) |  | 0.27% | 0.29% |
 | 12:00 | MXN | CPI (YoY) (Feb) |  | 3.77% | 3.59% |
 | 12:00 | BRL | GDP (QoQ) (Q4) |  | 0.5% | 0.9% |

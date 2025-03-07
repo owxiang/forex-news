@@ -16,12 +16,12 @@
 | 07:45 | EUR | French Trade Balance (Jan) | -6.5B | -4.1B | -3.5B |
 | 08:00 | CHF | Foreign Reserves (USD) (Feb) | 735,371.0B |  | 736,437.0B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | -1.0% |  | 2.0% |
-| 08:02 | CNY | FX Reserves (USD) (Feb) | 3.227T | 3.220T | 3.209T |
-| 22 min | HKD | Foreign Reserves (USD) (Feb) |  |  | 421.50B |
-| 52 min | SGD | Foreign Reserves USD (MoM) (Feb) |  |  | 376.7B |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 0.6% | 1.0% |
-| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
+| 08:00 | CNY | FX Reserves (USD) (Feb) | 3.227T | 3.220T | 3.209T |
+| 08:30 | HKD | Foreign Reserves (USD) (Feb) | 416.40B |  | 421.50B |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) | 379.3B |  | 376.7B |
+| 53 min | EUR | Employment Change (YoY) (Q4) |  | 0.6% | 1.0% |
+| 53 min | EUR | Employment Change (QoQ) (Q4) |  | 0.1% | 0.2% |
+| 53 min | EUR | Employment Overall (Q4) |  | 169,345.0K | 169,112.9K |
 | 11:30 | INR | FX Reserves, USD |  |  | 640.48B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.46% | 0.41% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 3.62% | 3.66% |
