@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CNY | Moderate | CPI (YoY) (Feb) | -0.7% | -0.4% | 0.5% |
 | 01:30 | CNY | Moderate | CPI (MoM) (Feb) | -0.2% | -0.1% | 0.7% |
+| 01:30 | CNY | Moderate | CPI (YoY) (Feb) | -0.7% | -0.4% | 0.5% |
 | 01:30 | CNY | Moderate | PPI (YoY) (Feb) | -2.2% | -2.0% | -2.3% |
 | 23:30 | JPY | Low | Overall wage income of employees (Jan) |  | 3.2% | 4.8% |
 | 23:30 | JPY | Low | Overtime Pay (YoY) (Jan) |  |  | 1.30% |
