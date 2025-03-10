@@ -8,15 +8,14 @@
 | 05:00 | JPY | Leading Index (MoM) (Jan) | 0.1% |  | 0.5% |
 | 05:00 | JPY | Leading Index (Jan) | 108.0 | 108.1 | 107.9 |
 | 06:00 | JPY | Economy Watchers Current Index (Feb) | 45.6 | 48.5 | 48.6 |
-| 52 min | EUR | German Exports (MoM) (Jan) |  |  | 2.9% |
-| 52 min | EUR | German Imports (MoM) (Jan) |  |  | 2.1% |
-| 52 min | EUR | German Industrial Production (YoY) (Jan) |  |  | -3.12% |
-| 52 min | IDR | Car Sales (YoY) (Feb) |  |  | -11.30% |
-| 52 min | NOK | Core CPI YTD (Feb) |  | 2.9% | 2.8% |
-| 52 min | NOK | Core Inflation (MoM) (Feb) |  |  | 0.1% |
-| 52 min | NOK | CPI (YoY) (Feb) |  | 2.8% | 2.3% |
-| 52 min | NOK | CPI (MoM) (Feb) |  |  | 0.2% |
-| 52 min | NOK | PPI (YoY) (Feb) |  |  | 18.1% |
+| 07:00 | EUR | German Exports (MoM) (Jan) | -2.5% |  | 2.5% |
+| 07:00 | EUR | German Imports (MoM) (Jan) | 1.2% |  | 1.6% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jan) | -1.60% |  | -2.20% |
+| 07:00 | NOK | Core CPI YTD (Feb) | 3.4% | 2.9% | 2.8% |
+| 07:00 | NOK | Core Inflation (MoM) (Feb) | 1.0% |  | 0.1% |
+| 07:00 | NOK | CPI (YoY) (Feb) | 3.6% | 2.8% | 2.3% |
+| 07:00 | NOK | CPI (MoM) (Feb) | 1.4% |  | 0.2% |
+| 07:00 | NOK | PPI (YoY) (Feb) | 23.3% |  | 18.1% |
 | 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | 1.1% |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | 0.6% |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) |  | -9.1 | -12.7 |

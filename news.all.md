@@ -8,18 +8,17 @@
 | 05:00 | JPY | Low | Leading Index (MoM) (Jan) | 0.1% |  | 0.5% |
 | 05:00 | JPY | Low | Leading Index (Jan) | 108.0 | 108.1 | 107.9 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Feb) | 45.6 | 48.5 | 48.6 |
-| 52 min | EUR | Low | German Exports (MoM) (Jan) |  |  | 2.9% |
-| 52 min | EUR | Low | German Imports (MoM) (Jan) |  |  | 2.1% |
-| 52 min | EUR | Moderate | German Industrial Production (MoM) (Jan) |  | 1.6% | -2.4% |
-| 52 min | EUR | Moderate | German Trade Balance (Jan) |  | 21.0B | 20.7B |
-| 52 min | EUR | Low | German Industrial Production (YoY) (Jan) |  |  | -3.12% |
-| 52 min | IDR | Low | Car Sales (YoY) (Feb) |  |  | -11.30% |
-| 52 min | NOK | Low | Core CPI YTD (Feb) |  | 2.9% | 2.8% |
-| 52 min | NOK | Low | Core Inflation (MoM) (Feb) |  |  | 0.1% |
-| 52 min | NOK | Low | CPI (YoY) (Feb) |  | 2.8% | 2.3% |
-| 52 min | NOK | Low | CPI (MoM) (Feb) |  |  | 0.2% |
-| 52 min | NOK | Low | PPI (YoY) (Feb) |  |  | 18.1% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -28 | -21 |
+| 07:00 | EUR | Low | German Exports (MoM) (Jan) | -2.5% |  | 2.5% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jan) | 1.2% |  | 1.6% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) | 2.0% | 1.6% | -1.5% |
+| 07:00 | EUR | Moderate | German Trade Balance (Jan) | 16.0B | 21.0B | 20.7B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) | -1.60% |  | -2.20% |
+| 07:00 | NOK | Low | Core CPI YTD (Feb) | 3.4% | 2.9% | 2.8% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Feb) | 1.0% |  | 0.1% |
+| 07:00 | NOK | Low | CPI (YoY) (Feb) | 3.6% | 2.8% | 2.3% |
+| 07:00 | NOK | Low | CPI (MoM) (Feb) | 1.4% |  | 0.2% |
+| 07:00 | NOK | Low | PPI (YoY) (Feb) | 23.3% |  | 18.1% |
+| 54 min | CHF | Moderate | SECO Consumer Climate |  | -28 | -21 |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | 1.1% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | 0.6% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Mar) |  | -9.1 | -12.7 |
