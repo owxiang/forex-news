@@ -35,7 +35,7 @@
 | 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.1% |  | 3.0% |
 | 15:30 | USD | Low | 3-Month Bill Auction | 4.200% |  | 4.210% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 4.075% |  | 4.135% |
-| 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -1.2% |
+| 40 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -1.2% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 0.1% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | -1.9% | 2.3% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | 3.7% | 2.7% |
