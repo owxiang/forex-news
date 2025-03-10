@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 29 min | JPY | Low | 5-Year JGB Auction |  |  | 0.982% |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) |  |  | 1.0% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Jan) |  |  | 0.5% |
-| 05:00 | JPY | Low | Leading Index (Jan) |  | 108.1 | 108.3 |
+| 03:35 | JPY | Low | 5-Year JGB Auction | 1.157% |  | 0.982% |
+| 54 min | JPY | Low | Coincident Indicator (MoM) (Jan) |  |  | 1.0% |
+| 54 min | JPY | Low | Leading Index (MoM) (Jan) |  |  | 0.5% |
+| 54 min | JPY | Low | Leading Index (Jan) |  | 108.1 | 108.3 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Feb) |  | 48.5 | 48.6 |
 | 06:00 | IDR | Low | Car Sales (YoY) (Feb) |  |  | -11.30% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jan) |  |  | 2.9% |
