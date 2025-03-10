@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:35 | JPY | 5-Year JGB Auction |  |  | 0.982% |
+| 29 min | JPY | 5-Year JGB Auction |  |  | 0.982% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) |  |  | 1.0% |
-| 05:00 | JPY | Leading Index (Jan) |  | 108.1 | 108.3 |
 | 05:00 | JPY | Leading Index (MoM) (Jan) |  |  | 0.5% |
+| 05:00 | JPY | Leading Index (Jan) |  | 108.1 | 108.3 |
 | 06:00 | JPY | Economy Watchers Current Index (Feb) |  | 48.5 | 48.6 |
 | 06:00 | IDR | Car Sales (YoY) (Feb) |  |  | -11.30% |
 | 07:00 | EUR | German Exports (MoM) (Jan) |  |  | 2.9% |
@@ -16,8 +16,8 @@
 | 07:00 | NOK | CPI (YoY) (Feb) |  | 2.8% | 2.3% |
 | 07:00 | NOK | CPI (MoM) (Feb) |  |  | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Feb) |  |  | 18.1% |
-| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | 0.6% |
 | 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | 1.1% |
+| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | 0.6% |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) |  | -9.1 | -12.7 |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.11% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
