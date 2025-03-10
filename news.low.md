@@ -29,7 +29,7 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.363% |  | 2.339% |
 | 15:30 | USD | 3-Month Bill Auction | 4.200% |  | 4.210% |
 | 15:30 | USD | 6-Month Bill Auction | 4.075% |  | 4.135% |
-| 40 min | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -1.2% |
+| 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) | 1.1% |  | -1.2% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Mar) |  |  | 0.1% |
 | 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.5% | -0.1% |
 | 23:50 | JPY | GDP External Demand (QoQ) (Q4) |  | 0.7% | -0.2% |
