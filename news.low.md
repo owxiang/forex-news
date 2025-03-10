@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:45 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 13 min | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 03:35 | JPY | 5-Year JGB Auction |  |  | 0.982% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) |  |  | 1.0% |
 | 05:00 | JPY | Leading Index (MoM) (Jan) |  |  | 0.5% |
