@@ -25,16 +25,16 @@
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) | 1.00% |  | 0.11% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Low | Consumer Confidence (Feb) | 46.3 |  | 46.7 |
+| 12:00 | MXN | Low | Consumer Confidence (Feb) | 46.3 |  | 46.6 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. (Feb) | 46.5 |  | 47.2 |
-| 49 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | USD | Low | CB Employment Trends Index (Feb) |  |  | 108.35 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.239% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.396% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.339% |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 47 min | USD | Low | CB Employment Trends Index (Feb) |  |  | 108.35 |
+| 47 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.239% |
+| 47 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.396% |
+| 47 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.339% |
 | 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.0% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.210% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.135% |
+| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.210% |
+| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.135% |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -1.2% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 0.1% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | -1.9% | 2.3% |

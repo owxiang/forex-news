@@ -21,14 +21,14 @@
 | 09:30 | EUR | Sentix Investor Confidence (Mar) | -2.9 | -9.1 | -12.7 |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) | 1.00% |  | 0.11% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Consumer Confidence (Feb) | 46.3 |  | 46.7 |
+| 12:00 | MXN | Consumer Confidence (Feb) | 46.3 |  | 46.6 |
 | 12:00 | MXN | Consumer Confidence n.s.a. (Feb) | 46.5 |  | 47.2 |
-| 14:00 | USD | CB Employment Trends Index (Feb) |  |  | 108.35 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.239% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.396% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.339% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.210% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.135% |
+| 47 min | USD | CB Employment Trends Index (Feb) |  |  | 108.35 |
+| 47 min | EUR | French 12-Month BTF Auction |  |  | 2.239% |
+| 47 min | EUR | French 3-Month BTF Auction |  |  | 2.396% |
+| 47 min | EUR | French 6-Month BTF Auction |  |  | 2.339% |
+| 15:30 | USD | 3-Month Bill Auction |  |  | 4.210% |
+| 15:30 | USD | 6-Month Bill Auction |  |  | 4.135% |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -1.2% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Mar) |  |  | 0.1% |
 | 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.5% | -0.1% |

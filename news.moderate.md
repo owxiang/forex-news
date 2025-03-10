@@ -6,7 +6,7 @@
 | 07:00 | EUR | German Trade Balance (Jan) | 16.0B | 21.0B | 20.7B |
 | 08:00 | CHF | SECO Consumer Climate | -34 | -28 | -21 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 49 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.0% |
 | 23:30 | JPY | Household Spending (MoM) (Jan) |  | -1.9% | 2.3% |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | 3.7% | 2.7% |
