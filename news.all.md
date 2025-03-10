@@ -3,11 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:35 | JPY | Low | 5-Year JGB Auction | 1.157% |  | 0.982% |
-| 54 min | JPY | Low | Coincident Indicator (MoM) (Jan) |  |  | 1.0% |
-| 54 min | JPY | Low | Leading Index (MoM) (Jan) |  |  | 0.5% |
-| 54 min | JPY | Low | Leading Index (Jan) |  | 108.1 | 108.3 |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Feb) |  | 48.5 | 48.6 |
-| 06:00 | IDR | Low | Car Sales (YoY) (Feb) |  |  | -11.30% |
+| 04:00 | IDR | Low | Motorbike Sales (YoY) (Feb) | 4.00% |  | -5.50% |
+| 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) | 0.1% |  | 1.0% |
+| 05:00 | JPY | Low | Leading Index (Jan) | 108.0 | 108.1 | 108.3 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Jan) | 0.1% |  | 0.5% |
+| 54 min | JPY | Low | Economy Watchers Current Index (Feb) |  | 48.5 | 48.6 |
+| 54 min | IDR | Low | Car Sales (YoY) (Feb) |  |  | -11.30% |
 | 07:00 | EUR | Low | German Exports (MoM) (Jan) |  |  | 2.9% |
 | 07:00 | EUR | Low | German Imports (MoM) (Jan) |  |  | 2.1% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) |  | 1.6% | -2.4% |
@@ -19,8 +20,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (Feb) |  |  | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Feb) |  |  | 18.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -28 | -21 |
-| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | 1.1% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | 0.6% |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | 1.1% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Mar) |  | -9.1 | -12.7 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.11% |

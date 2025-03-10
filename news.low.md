@@ -3,11 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:35 | JPY | 5-Year JGB Auction | 1.157% |  | 0.982% |
-| 54 min | JPY | Coincident Indicator (MoM) (Jan) |  |  | 1.0% |
-| 54 min | JPY | Leading Index (MoM) (Jan) |  |  | 0.5% |
-| 54 min | JPY | Leading Index (Jan) |  | 108.1 | 108.3 |
-| 06:00 | JPY | Economy Watchers Current Index (Feb) |  | 48.5 | 48.6 |
-| 06:00 | IDR | Car Sales (YoY) (Feb) |  |  | -11.30% |
+| 04:00 | IDR | Motorbike Sales (YoY) (Feb) | 4.00% |  | -5.50% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Jan) | 0.1% |  | 1.0% |
+| 05:00 | JPY | Leading Index (Jan) | 108.0 | 108.1 | 108.3 |
+| 05:00 | JPY | Leading Index (MoM) (Jan) | 0.1% |  | 0.5% |
+| 54 min | JPY | Economy Watchers Current Index (Feb) |  | 48.5 | 48.6 |
+| 54 min | IDR | Car Sales (YoY) (Feb) |  |  | -11.30% |
 | 07:00 | EUR | German Exports (MoM) (Jan) |  |  | 2.9% |
 | 07:00 | EUR | German Imports (MoM) (Jan) |  |  | 2.1% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jan) |  |  | -3.12% |
@@ -16,8 +17,8 @@
 | 07:00 | NOK | CPI (YoY) (Feb) |  | 2.8% | 2.3% |
 | 07:00 | NOK | CPI (MoM) (Feb) |  |  | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Feb) |  |  | 18.1% |
-| 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | 1.1% |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | 0.6% |
+| 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | 1.1% |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) |  | -9.1 | -12.7 |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.11% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
