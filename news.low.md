@@ -5,20 +5,20 @@
 | 03:35 | JPY | 5-Year JGB Auction | 1.157% |  | 0.982% |
 | 04:00 | IDR | Motorbike Sales (YoY) (Feb) | 4.00% |  | -5.50% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) | 0.1% |  | 1.0% |
-| 05:00 | JPY | Leading Index (Jan) | 108.0 | 108.1 | 108.3 |
 | 05:00 | JPY | Leading Index (MoM) (Jan) | 0.1% |  | 0.5% |
-| 54 min | JPY | Economy Watchers Current Index (Feb) |  | 48.5 | 48.6 |
-| 54 min | IDR | Car Sales (YoY) (Feb) |  |  | -11.30% |
-| 07:00 | EUR | German Exports (MoM) (Jan) |  |  | 2.9% |
-| 07:00 | EUR | German Imports (MoM) (Jan) |  |  | 2.1% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jan) |  |  | -3.12% |
-| 07:00 | NOK | Core CPI YTD (Feb) |  | 2.9% | 2.8% |
-| 07:00 | NOK | Core Inflation (MoM) (Feb) |  |  | 0.1% |
-| 07:00 | NOK | CPI (YoY) (Feb) |  | 2.8% | 2.3% |
-| 07:00 | NOK | CPI (MoM) (Feb) |  |  | 0.2% |
-| 07:00 | NOK | PPI (YoY) (Feb) |  |  | 18.1% |
-| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | 0.6% |
+| 05:00 | JPY | Leading Index (Jan) | 108.0 | 108.1 | 107.9 |
+| 06:00 | JPY | Economy Watchers Current Index (Feb) | 45.6 | 48.5 | 48.6 |
+| 52 min | EUR | German Exports (MoM) (Jan) |  |  | 2.9% |
+| 52 min | EUR | German Imports (MoM) (Jan) |  |  | 2.1% |
+| 52 min | EUR | German Industrial Production (YoY) (Jan) |  |  | -3.12% |
+| 52 min | IDR | Car Sales (YoY) (Feb) |  |  | -11.30% |
+| 52 min | NOK | Core CPI YTD (Feb) |  | 2.9% | 2.8% |
+| 52 min | NOK | Core Inflation (MoM) (Feb) |  |  | 0.1% |
+| 52 min | NOK | CPI (YoY) (Feb) |  | 2.8% | 2.3% |
+| 52 min | NOK | CPI (MoM) (Feb) |  |  | 0.2% |
+| 52 min | NOK | PPI (YoY) (Feb) |  |  | 18.1% |
 | 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | 1.1% |
+| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | 0.6% |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) |  | -9.1 | -12.7 |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | 0.11% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |

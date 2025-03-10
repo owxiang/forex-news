@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Industrial Production (MoM) (Jan) |  | 1.6% | -2.4% |
-| 07:00 | EUR | German Trade Balance (Jan) |  | 21.0B | 20.7B |
+| 52 min | EUR | German Industrial Production (MoM) (Jan) |  | 1.6% | -2.4% |
+| 52 min | EUR | German Trade Balance (Jan) |  | 21.0B | 20.7B |
 | 08:00 | CHF | SECO Consumer Climate |  | -28 | -21 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
