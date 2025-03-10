@@ -24,10 +24,10 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Mar) | -2.9 | -9.1 | -12.7 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) | 1.00% |  | 0.11% |
-| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 55 min | MXN | Low | Consumer Confidence (Feb) |  |  | 46.7 |
-| 55 min | MXN | Low | Consumer Confidence n.s.a. (Feb) |  |  | 47.2 |
-| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Low | Consumer Confidence (Feb) | 46.3 |  | 46.7 |
+| 12:00 | MXN | Low | Consumer Confidence n.s.a. (Feb) | 46.5 |  | 47.2 |
+| 49 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | USD | Low | CB Employment Trends Index (Feb) |  |  | 108.35 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.239% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.396% |

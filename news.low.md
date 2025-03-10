@@ -20,9 +20,9 @@
 | 09:00 | EUR | Italian PPI (YoY) (Jan) | 4.4% |  | 1.1% |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) | -2.9 | -9.1 | -12.7 |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) | 1.00% |  | 0.11% |
-| 20 min | BRL | BCB Focus Market Readout |  |  |  |
-| 55 min | MXN | Consumer Confidence (Feb) |  |  | 46.7 |
-| 55 min | MXN | Consumer Confidence n.s.a. (Feb) |  |  | 47.2 |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Consumer Confidence (Feb) | 46.3 |  | 46.7 |
+| 12:00 | MXN | Consumer Confidence n.s.a. (Feb) | 46.5 |  | 47.2 |
 | 14:00 | USD | CB Employment Trends Index (Feb) |  |  | 108.35 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.239% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.396% |
