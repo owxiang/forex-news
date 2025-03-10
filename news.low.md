@@ -16,8 +16,8 @@
 | 07:00 | NOK | CPI (YoY) (Feb) | 3.6% | 2.8% | 2.3% |
 | 07:00 | NOK | CPI (MoM) (Feb) | 1.4% |  | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Feb) | 23.3% |  | 18.1% |
-| 09:00 | EUR | Italian PPI (YoY) (Jan) | 4.4% |  | 1.1% |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) | 1.6% |  | 0.6% |
+| 09:00 | EUR | Italian PPI (YoY) (Jan) | 4.4% |  | 1.1% |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) | -2.9 | -9.1 | -12.7 |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) | 1.00% |  | 0.11% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
@@ -27,8 +27,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.287% |  | 2.239% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.395% |  | 2.396% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.363% |  | 2.339% |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.210% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.135% |
+| 15:30 | USD | 3-Month Bill Auction | 4.200% |  | 4.210% |
+| 15:30 | USD | 6-Month Bill Auction | 4.075% |  | 4.135% |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -1.2% |
 | 23:30 | AUD | Westpac Consumer Sentiment (Mar) |  |  | 0.1% |
 | 23:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.5% | -0.1% |

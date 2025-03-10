@@ -19,8 +19,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (Feb) | 1.4% |  | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Feb) | 23.3% |  | 18.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -34 | -28 | -21 |
-| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) | 4.4% |  | 1.1% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) | 1.6% |  | 0.6% |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) | 4.4% |  | 1.1% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Mar) | -2.9 | -9.1 | -12.7 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) | 1.00% |  | 0.11% |
@@ -33,8 +33,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.395% |  | 2.396% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.363% |  | 2.339% |
 | 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.1% |  | 3.0% |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.210% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.135% |
+| 15:30 | USD | Low | 3-Month Bill Auction | 4.200% |  | 4.210% |
+| 15:30 | USD | Low | 6-Month Bill Auction | 4.075% |  | 4.135% |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -1.2% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 0.1% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | -1.9% | 2.3% |
