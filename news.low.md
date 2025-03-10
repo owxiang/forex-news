@@ -5,8 +5,8 @@
 | 03:35 | JPY | 5-Year JGB Auction | 1.157% |  | 0.982% |
 | 04:00 | IDR | Motorbike Sales (YoY) (Feb) | 4.00% |  | -5.50% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) | 0.1% |  | 1.0% |
-| 05:00 | JPY | Leading Index (MoM) (Jan) | 0.1% |  | 0.5% |
 | 05:00 | JPY | Leading Index (Jan) | 108.0 | 108.1 | 107.9 |
+| 05:00 | JPY | Leading Index (MoM) (Jan) | 0.1% |  | 0.5% |
 | 06:00 | JPY | Economy Watchers Current Index (Feb) | 45.6 | 48.5 | 48.6 |
 | 07:00 | EUR | German Exports (MoM) (Jan) | -2.5% |  | 2.5% |
 | 07:00 | EUR | German Imports (MoM) (Jan) | 1.2% |  | 1.6% |
