@@ -21,9 +21,9 @@
 | 16:00 | USD | Moderate | WASDE Report |  |  |  |
 | 17:00 | USD | Moderate | 3-Year Note Auction | 3.908% |  | 4.300% |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock | 4.247M | 2.100M | -1.455M |
-| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) | 0.3% |  | -1.6% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) | -4.2% |  | -0.5% |
-| 54 min | KRW | Low | Unemployment Rate (Feb) |  |  | 2.9% |
-| 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |
-| 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 4.0% | 4.2% |
-| 23:50 | JPY | Low | PPI (MoM) (Feb) |  | -0.1% | 0.3% |
+| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) | 0.3% |  | -1.6% |
+| 23:00 | KRW | Low | Unemployment Rate (Feb) | 2.7% |  | 2.9% |
+| 44 min | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |
+| 44 min | JPY | Low | PPI (YoY) (Feb) |  | 4.0% | 4.2% |
+| 44 min | JPY | Low | PPI (MoM) (Feb) |  | -0.1% | 0.3% |

@@ -11,4 +11,4 @@
 | 17:00 | USD | 3-Year Note Auction | 3.908% |  | 4.300% |
 | 20:30 | USD | API Weekly Crude Oil Stock | 4.247M | 2.100M | -1.455M |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) | 0.3% |  | -1.6% |
-| 23:50 | JPY | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |
+| 44 min | JPY | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |

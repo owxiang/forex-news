@@ -13,6 +13,6 @@
 | 12:00 | BRL | Industrial Production (MoM) (Jan) | 0.0% | 0.4% | -0.3% |
 | 12:55 | USD | Redbook (YoY) | 5.7% |  | 6.6% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) | -4.2% |  | -0.5% |
-| 54 min | KRW | Unemployment Rate (Feb) |  |  | 2.9% |
-| 23:50 | JPY | PPI (YoY) (Feb) |  | 4.0% | 4.2% |
-| 23:50 | JPY | PPI (MoM) (Feb) |  | -0.1% | 0.3% |
+| 23:00 | KRW | Unemployment Rate (Feb) | 2.7% |  | 2.9% |
+| 44 min | JPY | PPI (YoY) (Feb) |  | 4.0% | 4.2% |
+| 44 min | JPY | PPI (MoM) (Feb) |  | -0.1% | 0.3% |
