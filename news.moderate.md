@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Feb) | 0.9% | 1.9% | 2.5% |
 | 00:30 | AUD | NAB Business Confidence (Feb) | -1 |  | 5 |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Industrial Production (YoY) (Jan) |  | 2.2% | 1.6% |
 | 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 16:00 | USD | WASDE Report |  |  |  |
