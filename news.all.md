@@ -13,17 +13,17 @@
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.220% |  | 2.140% |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) | 1.4% | 2.2% | 1.4% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Jan) | 0.0% | 0.4% | -0.3% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) | 1.4% | 2.2% | 1.4% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.7% |  | 6.6% |
-| 49 min | USD | High | JOLTS Job Openings (Jan) |  | 7.650M | 7.600M |
+| 14:00 | USD | High | JOLTS Job Openings (Jan) | 7.740M | 7.650M | 7.508M |
 | 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 16:00 | USD | Moderate | WASDE Report |  |  |  |
 | 17:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.300% |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.455M |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | -0.5% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.6% |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | -0.5% |
 | 23:00 | KRW | Low | Unemployment Rate (Feb) |  |  | 2.9% |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |
-| 23:50 | JPY | Low | PPI (MoM) (Feb) |  | -0.1% | 0.3% |
 | 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 4.0% | 4.2% |
+| 23:50 | JPY | Low | PPI (MoM) (Feb) |  | -0.1% | 0.3% |
