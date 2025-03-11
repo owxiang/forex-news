@@ -10,8 +10,8 @@
 | 10:00 | USD | NFIB Small Business Optimism (Feb) | 100.7 | 100.9 | 102.8 |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.220% |  | 2.140% |
-| 54 min | BRL | Industrial Production (MoM) (Jan) |  | 0.4% | -0.3% |
-| 12:55 | USD | Redbook (YoY) |  |  | 6.6% |
+| 12:00 | BRL | Industrial Production (MoM) (Jan) | 0.0% | 0.4% | 0.0% |
+| 45 min | USD | Redbook (YoY) |  |  | 6.6% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) |  |  | -0.5% |
 | 23:00 | KRW | Unemployment Rate (Feb) |  |  | 2.9% |
 | 23:50 | JPY | PPI (YoY) (Feb) |  | 4.0% | 4.2% |

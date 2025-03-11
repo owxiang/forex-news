@@ -13,9 +13,9 @@
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.220% |  | 2.140% |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Jan) |  | 2.2% | 1.6% |
-| 54 min | BRL | Low | Industrial Production (MoM) (Jan) |  | 0.4% | -0.3% |
-| 12:55 | USD | Low | Redbook (YoY) |  |  | 6.6% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) | 1.4% | 2.2% | 1.6% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Jan) | 0.0% | 0.4% | 0.0% |
+| 45 min | USD | Low | Redbook (YoY) |  |  | 6.6% |
 | 14:00 | USD | High | JOLTS Job Openings (Jan) |  | 7.650M | 7.600M |
 | 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 16:00 | USD | Moderate | WASDE Report |  |  |  |
