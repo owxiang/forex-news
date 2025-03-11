@@ -1,14 +1,14 @@
-## 10 March 2025 - Moderate Impact Forex News
+## 11 March 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Industrial Production (MoM) (Jan) | 2.0% | 1.6% | -1.5% |
-| 07:00 | EUR | German Trade Balance (Jan) | 16.0B | 21.0B | 20.7B |
-| 08:00 | CHF | SECO Consumer Climate | -34 | -28 | -21 |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Feb) | 0.9% |  | 2.5% |
+| 3 min | AUD | NAB Business Confidence (Feb) |  |  | 4 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.1% |  | 3.0% |
-| 24 min | JPY | Household Spending (MoM) (Jan) |  | -1.9% | 2.3% |
-| 24 min | JPY | Household Spending (YoY) (Jan) |  | 3.7% | 2.7% |
-| 44 min | JPY | GDP Annualized (QoQ) (Q4) |  |  | 1.2% |
-| 44 min | JPY | GDP Price Index (YoY) (Q4) |  | 2.8% | 2.4% |
+| 12:00 | BRL | Industrial Production (YoY) (Jan) |  | 2.2% | 1.6% |
+| 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 16:00 | USD | WASDE Report |  |  |  |
+| 17:00 | USD | 3-Year Note Auction |  |  | 4.300% |
+| 20:30 | USD | API Weekly Crude Oil Stock |  |  | -1.455M |
+| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.6% |
+| 23:50 | JPY | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |
