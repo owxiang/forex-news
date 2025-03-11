@@ -5,7 +5,7 @@
 | 00:30 | AUD | NAB Business Survey (Feb) | 4 |  | 3 |
 | 03:00 | IDR | Consumer Confidence (Feb) | 126.4 |  | 127.2 |
 | 04:00 | IDR | Car Sales (YoY) (Feb) | 2.20% |  | -11.30% |
-| 06:00 | JPY | Machine Tool Orders (YoY) (Feb) |  | 4.7% | 11.2% |
+| 53 min | JPY | Machine Tool Orders (YoY) (Feb) |  | 4.7% | 11.2% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.431% |
 | 10:00 | USD | NFIB Small Business Optimism (Feb) |  | 100.9 | 102.8 |
 | 10:00 | EUR | ECOFIN Meetings |  |  |  |

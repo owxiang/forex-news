@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | USD | JOLTS Job Openings (Jan) |  | 7.710M | 7.600M |
+| 14:00 | USD | JOLTS Job Openings (Jan) |  | 7.650M | 7.600M |
