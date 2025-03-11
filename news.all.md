@@ -17,8 +17,8 @@
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) | 1.4% | 2.2% | 1.4% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.7% |  | 6.6% |
 | 14:00 | USD | High | JOLTS Job Openings (Jan) | 7.740M | 7.650M | 7.508M |
-| 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 16:00 | USD | Moderate | WASDE Report |  |  |  |
+| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 53 min | USD | Moderate | WASDE Report |  |  |  |
 | 17:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.300% |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.455M |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.6% |
