@@ -8,7 +8,7 @@
 | 12:00 | BRL | Industrial Production (YoY) (Jan) | 1.4% | 2.2% | 1.4% |
 | 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 16:00 | USD | WASDE Report |  |  |  |
-| 52 min | USD | 3-Year Note Auction |  |  | 4.300% |
-| 20:30 | USD | API Weekly Crude Oil Stock |  |  | -1.455M |
+| 17:00 | USD | 3-Year Note Auction | 3.908% |  | 4.300% |
+| 20:30 | USD | API Weekly Crude Oil Stock |  | 2.100M | -1.455M |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) |  |  | -1.6% |
 | 23:50 | JPY | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |
