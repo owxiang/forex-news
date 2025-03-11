@@ -5,9 +5,9 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Feb) | 0.9% |  | 2.5% |
 | 00:30 | AUD | Moderate | NAB Business Confidence (Feb) | -1 |  | 5 |
 | 00:30 | AUD | Low | NAB Business Survey (Feb) | 4 |  | 3 |
-| 03:00 | IDR | Low | Consumer Confidence (Feb) |  |  | 127.2 |
+| 29 min | IDR | Low | Consumer Confidence (Feb) |  |  | 127.2 |
+| 04:00 | IDR | Low | Car Sales (YoY) (Feb) | 2.20% |  | -11.30% |
 | 06:00 | JPY | Low | Machine Tool Orders (YoY) (Feb) |  | 4.7% | 11.2% |
-| 07:00 | IDR | Low | Car Sales (YoY) (Feb) |  |  | -11.30% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.431% |
 | 10:00 | USD | Low | NFIB Small Business Optimism (Feb) |  | 100.9 | 102.8 |
 | 10:00 | EUR | Low | ECOFIN Meetings |  |  |  |
