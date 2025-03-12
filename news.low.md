@@ -7,23 +7,22 @@
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.679% |  | 4.808% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.337% |  | 2.323% |
 | 10:30 | INR | Cumulative Industrial Production (Jan) | 4.20% |  | 4.00% |
-| 10:30 | INR | Industrial Production (YoY) (Jan) | 5.0% | 3.5% | 3.2% |
-| 10:30 | INR | Manufacturing Output (MoM) (Jan) | 5.5% |  | 3.0% |
+| 10:30 | INR | Industrial Production (YoY) (Jan) | 5.0% | 3.5% | 3.5% |
+| 10:30 | INR | Manufacturing Output (MoM) (Jan) | 5.5% |  | 3.4% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate | 6.67% |  | 6.73% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) | 11.2% |  | 20.4% |
 | 11:00 | USD | MBA Purchase Index | 154.6 |  | 144.5 |
 | 11:00 | USD | Mortgage Market Index | 269.3 |  | 242.2 |
 | 11:00 | USD | Mortgage Refinance Index | 911.3 |  | 784.2 |
-| 25 min | BRL | Budget Balance (Jan) |  | 35.300B | -80.372B |
-| 55 min | BRL | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
-| 55 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |
-| 12:30 | USD | Core CPI Index (Feb) |  |  | 324.74 |
-| 12:30 | USD | CPI Index, n.s.a. (Feb) |  | 319.22 | 317.67 |
-| 12:30 | USD | CPI Index, s.a (Feb) |  |  | 319.09 |
-| 12:30 | USD | CPI, n.s.a (MoM) (Feb) |  |  | 0.65% |
-| 12:30 | USD | Real Earnings (MoM) (Feb) |  |  | -0.3% |
-| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
-| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
+| 12:00 | BRL | CPI (MoM) (Feb) | 1.31% | 1.30% | 0.16% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 1.32% |  | 0.06% |
+| 19 min | USD | Core CPI Index (Feb) |  |  | 324.74 |
+| 19 min | USD | CPI Index, n.s.a. (Feb) |  | 319.22 | 317.67 |
+| 19 min | USD | CPI Index, s.a (Feb) |  |  | 319.09 |
+| 19 min | USD | CPI, n.s.a (MoM) (Feb) |  |  | 0.65% |
+| 19 min | USD | Real Earnings (MoM) (Feb) |  |  | -0.3% |
+| 49 min | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
+| 49 min | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
 | 13:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
 | 13:30 | USD | Crude Oil Imports |  |  | -0.054M |
 | 13:30 | USD | Distillate Fuel Production |  |  | -0.587M |

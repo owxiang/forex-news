@@ -7,10 +7,10 @@
 | 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.679% |  | 4.808% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.337% |  | 2.323% |
-| 10:30 | INR | Moderate | CPI (YoY) (Feb) | 3.61% | 4.00% | 4.31% |
+| 10:30 | INR | Moderate | CPI (YoY) (Feb) | 3.61% | 4.00% | 4.26% |
 | 10:30 | INR | Low | Cumulative Industrial Production (Jan) | 4.20% |  | 4.00% |
-| 10:30 | INR | Low | Industrial Production (YoY) (Jan) | 5.0% | 3.5% | 3.2% |
-| 10:30 | INR | Low | Manufacturing Output (MoM) (Jan) | 5.5% |  | 3.0% |
+| 10:30 | INR | Low | Industrial Production (YoY) (Jan) | 5.0% | 3.5% | 3.5% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Jan) | 5.5% |  | 3.4% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.920% |  | 2.520% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.67% |  | 6.73% |
 | 11:00 | USD | Low | MBA Mortgage Applications (WoW) | 11.2% |  | 20.4% |
@@ -18,21 +18,20 @@
 | 11:00 | USD | Low | Mortgage Market Index | 269.3 |  | 242.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index | 911.3 |  | 784.2 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 25 min | BRL | Low | Budget Balance (Jan) |  | 35.300B | -80.372B |
-| 55 min | BRL | Moderate | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
-| 55 min | BRL | Low | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
-| 55 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |
-| 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
-| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
-| 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 324.74 |
-| 12:30 | USD | High | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
-| 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.3% | 0.5% |
-| 12:30 | USD | Low | CPI Index, n.s.a. (Feb) |  | 319.22 | 317.67 |
-| 12:30 | USD | Low | CPI Index, s.a (Feb) |  |  | 319.09 |
-| 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.65% |
-| 12:30 | USD | Low | Real Earnings (MoM) (Feb) |  |  | -0.3% |
-| 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -7.7% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -33.5% |
+| 12:00 | BRL | Low | CPI (MoM) (Feb) | 1.31% | 1.30% | 0.16% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 5.06% | 5.00% | 4.56% |
+| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 1.32% |  | 0.06% |
+| 19 min | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
+| 19 min | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
+| 19 min | USD | Low | Core CPI Index (Feb) |  |  | 324.74 |
+| 19 min | USD | High | CPI (MoM) (Feb) |  | 0.3% | 0.5% |
+| 19 min | USD | High | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
+| 19 min | USD | Low | CPI Index, n.s.a. (Feb) |  | 319.22 | 317.67 |
+| 19 min | USD | Low | CPI Index, s.a (Feb) |  |  | 319.09 |
+| 19 min | USD | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.65% |
+| 19 min | USD | Low | Real Earnings (MoM) (Feb) |  |  | -0.3% |
+| 49 min | BRL | Low | Auto Production (MoM) (Feb) |  |  | -7.7% |
+| 49 min | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -33.5% |
 | 13:30 | USD | High | Crude Oil Inventories |  | 2.100M | 3.614M |
 | 13:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
 | 13:30 | USD | Low | Crude Oil Imports |  |  | -0.054M |
