@@ -5,23 +5,23 @@
 | 07:00 | IDR | Low | Retail Sales (YoY) (Jan) | 0.5% |  | 1.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) | 2.2% |  | 4.0% |
 | 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.808% |
-| 3 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.323% |
-| 23 min | INR | Moderate | CPI (YoY) (Feb) |  | 4.00% | 4.31% |
-| 23 min | INR | Low | Cumulative Industrial Production (Jan) |  |  | 4.00% |
-| 23 min | INR | Low | Industrial Production (YoY) (Jan) |  | 3.5% | 3.2% |
-| 23 min | INR | Low | Manufacturing Output (MoM) (Jan) |  |  | 3.0% |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.520% |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.73% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 20.4% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 144.5 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 242.2 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 784.2 |
-| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 11:30 | BRL | Low | Budget Balance (Jan) |  | 35.300B | -80.372B |
-| 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.679% |  | 4.808% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.337% |  | 2.323% |
+| 10:30 | INR | Moderate | CPI (YoY) (Feb) | 3.61% | 4.00% | 4.31% |
+| 10:30 | INR | Low | Cumulative Industrial Production (Jan) | 4.20% |  | 4.00% |
+| 10:30 | INR | Low | Industrial Production (YoY) (Jan) | 5.0% | 3.5% | 3.2% |
+| 10:30 | INR | Low | Manufacturing Output (MoM) (Jan) | 5.5% |  | 3.0% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.920% |  | 2.520% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.67% |  | 6.73% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | 11.2% |  | 20.4% |
+| 11:00 | USD | Low | MBA Purchase Index | 154.6 |  | 144.5 |
+| 11:00 | USD | Low | Mortgage Market Index | 269.3 |  | 242.2 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 911.3 |  | 784.2 |
+| 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 25 min | BRL | Low | Budget Balance (Jan) |  | 35.300B | -80.372B |
+| 55 min | BRL | Moderate | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
+| 55 min | BRL | Low | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
+| 55 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 324.74 |
