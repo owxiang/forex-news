@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:00 | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
+| 52 min | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
 | 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.808% |
@@ -19,8 +19,8 @@
 | 11:00 | USD | Low | Mortgage Refinance Index |  |  | 784.2 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:30 | BRL | Low | Budget Balance (Jan) |  | 35.300B | -80.372B |
-| 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
 | 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |

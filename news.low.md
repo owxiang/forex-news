@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | IDR | Retail Sales (YoY) (Jan) |  |  | 1.8% |
+| 52 min | IDR | Retail Sales (YoY) (Jan) |  |  | 1.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.808% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.323% |
