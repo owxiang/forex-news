@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 30 min | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
+| 03:00 | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
 | 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.808% |
@@ -22,11 +22,11 @@
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
 | 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |
-| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 324.74 |
-| 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.3% | 0.5% |
 | 12:30 | USD | High | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
+| 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.3% | 0.5% |
 | 12:30 | USD | Low | CPI Index, n.s.a. (Feb) |  | 319.17 | 317.67 |
 | 12:30 | USD | Low | CPI Index, s.a (Feb) |  |  | 319.09 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.65% |
