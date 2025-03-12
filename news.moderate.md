@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 37 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | INR | CPI (YoY) (Feb) |  | 4.00% | 4.31% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.520% |
 | 11:00 | USD | OPEC Monthly Report |  |  |  |

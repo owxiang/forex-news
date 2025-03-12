@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | IDR | Retail Sales (YoY) (Jan) | 0.5% |  | 1.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) | 2.2% |  | 4.0% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.808% |
+| 53 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.808% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.323% |
 | 10:30 | INR | Cumulative Industrial Production (Jan) |  |  | 4.00% |
 | 10:30 | INR | Industrial Production (YoY) (Jan) |  | 3.5% | 3.2% |
