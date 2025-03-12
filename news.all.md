@@ -30,25 +30,25 @@
 | 12:30 | USD | Low | CPI Index, s.a (Feb) | 319.78 |  | 319.09 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) | 0.44% |  | 0.65% |
 | 12:30 | USD | Low | Real Earnings (MoM) (Feb) | 0.1% |  | -0.3% |
-| 18 min | USD | High | Crude Oil Inventories |  | 2.100M | 3.614M |
-| 18 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
-| 18 min | USD | Low | Crude Oil Imports |  |  | -0.054M |
-| 18 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.124M |
-| 18 min | USD | Low | Distillate Fuel Production |  |  | -0.587M |
-| 18 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.400M | -1.318M |
-| 18 min | USD | Low | Gasoline Production |  |  | 0.464M |
-| 18 min | USD | Low | Heating Oil Stockpiles |  |  | -0.067M |
-| 18 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 18 min | USD | Low | Gasoline Inventories |  | -2.500M | -1.433M |
-| 33 min | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 33 min | CAD | High | BoC Interest Rate Decision |  | 2.75% | 3.00% |
-| 33 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 15:00 | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.3% |
-| 15:00 | USD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 55.34 |
-| 15:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 46.09 |
-| 15:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 59.65 |
-| 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.95 |
+| 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 13:45 | CAD | High | BoC Interest Rate Decision | 2.75% | 2.75% | 3.00% |
+| 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 23 min | USD | High | Crude Oil Inventories |  | 2.100M | 3.614M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -0.054M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.124M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.587M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.400M | -1.318M |
+| 23 min | USD | Low | Gasoline Production |  |  | 0.464M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.067M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 23 min | USD | Low | Gasoline Inventories |  | -2.500M | -1.433M |
+| 23 min | CAD | Moderate | BOC Press Conference |  |  |  |
+| 53 min | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.3% |
+| 53 min | USD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 55.34 |
+| 53 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 46.09 |
+| 53 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 59.65 |
+| 53 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.95 |
 | 15:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | High | 10-Year Note Auction |  |  | 4.632% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.410B |

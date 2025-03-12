@@ -21,19 +21,19 @@
 | 12:30 | USD | CPI Index, s.a (Feb) | 319.78 |  | 319.09 |
 | 12:30 | USD | CPI, n.s.a (MoM) (Feb) | 0.44% |  | 0.65% |
 | 12:30 | USD | Real Earnings (MoM) (Feb) | 0.1% |  | -0.3% |
-| 18 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
-| 18 min | USD | Crude Oil Imports |  |  | -0.054M |
-| 18 min | USD | Distillate Fuel Production |  |  | -0.587M |
-| 18 min | USD | EIA Weekly Distillates Stocks |  | -1.400M | -1.318M |
-| 18 min | USD | Gasoline Production |  |  | 0.464M |
-| 18 min | USD | Heating Oil Stockpiles |  |  | -0.067M |
-| 18 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 18 min | USD | Gasoline Inventories |  | -2.500M | -1.433M |
-| 15:00 | USD | Cleveland CPI (MoM) (Feb) |  |  | 0.3% |
-| 15:00 | USD | Thomson Reuters IPSOS PCSI (Mar) |  |  | 55.34 |
-| 15:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 46.09 |
-| 15:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 59.65 |
-| 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.95 |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
+| 23 min | USD | Crude Oil Imports |  |  | -0.054M |
+| 23 min | USD | Distillate Fuel Production |  |  | -0.587M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | -1.400M | -1.318M |
+| 23 min | USD | Gasoline Production |  |  | 0.464M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | -0.067M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 23 min | USD | Gasoline Inventories |  | -2.500M | -1.433M |
+| 53 min | USD | Cleveland CPI (MoM) (Feb) |  |  | 0.3% |
+| 53 min | USD | Thomson Reuters IPSOS PCSI (Mar) |  |  | 55.34 |
+| 53 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 46.09 |
+| 53 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 59.65 |
+| 53 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.95 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.410B |
 | 21:45 | NZD | External Migration & Visitors (Jan) |  |  | 12.20% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Jan) |  |  | 3,810 |
