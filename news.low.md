@@ -16,21 +16,19 @@
 | 11:00 | USD | Mortgage Refinance Index | 911.3 |  | 784.2 |
 | 12:00 | BRL | CPI (MoM) (Feb) | 1.31% | 1.30% | 0.16% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 1.32% |  | 0.06% |
-| 19 min | USD | Core CPI Index (Feb) |  |  | 324.74 |
-| 19 min | USD | CPI Index, n.s.a. (Feb) |  | 319.22 | 317.67 |
-| 19 min | USD | CPI Index, s.a (Feb) |  |  | 319.09 |
-| 19 min | USD | CPI, n.s.a (MoM) (Feb) |  |  | 0.65% |
-| 19 min | USD | Real Earnings (MoM) (Feb) |  |  | -0.3% |
-| 49 min | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
-| 49 min | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
-| 13:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
-| 13:30 | USD | Crude Oil Imports |  |  | -0.054M |
-| 13:30 | USD | Distillate Fuel Production |  |  | -0.587M |
-| 13:30 | USD | EIA Weekly Distillates Stocks |  | -1.400M | -1.318M |
-| 13:30 | USD | Gasoline Production |  |  | 0.464M |
-| 13:30 | USD | Heating Oil Stockpiles |  |  | -0.067M |
-| 13:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 13:30 | USD | Gasoline Inventories |  | -2.500M | -1.433M |
+| 12:30 | USD | Core CPI Index (Feb) | 325.48 |  | 324.74 |
+| 12:30 | USD | CPI Index, n.s.a. (Feb) | 319.08 | 319.22 | 317.67 |
+| 12:30 | USD | CPI Index, s.a (Feb) | 319.78 |  | 319.09 |
+| 12:30 | USD | CPI, n.s.a (MoM) (Feb) | 0.44% |  | 0.65% |
+| 12:30 | USD | Real Earnings (MoM) (Feb) | 0.1% |  | -0.3% |
+| 18 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
+| 18 min | USD | Crude Oil Imports |  |  | -0.054M |
+| 18 min | USD | Distillate Fuel Production |  |  | -0.587M |
+| 18 min | USD | EIA Weekly Distillates Stocks |  | -1.400M | -1.318M |
+| 18 min | USD | Gasoline Production |  |  | 0.464M |
+| 18 min | USD | Heating Oil Stockpiles |  |  | -0.067M |
+| 18 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
+| 18 min | USD | Gasoline Inventories |  | -2.500M | -1.433M |
 | 15:00 | USD | Cleveland CPI (MoM) (Feb) |  |  | 0.3% |
 | 15:00 | USD | Thomson Reuters IPSOS PCSI (Mar) |  |  | 55.34 |
 | 15:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 46.09 |
