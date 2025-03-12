@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
+| 30 min | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
 | 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.808% |
