@@ -13,4 +13,4 @@
 | 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:30 | CAD | BOC Press Conference |  |  |  |
 | 15:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 54 min | USD | Federal Budget Balance (Feb) |  | -302.5B | -129.0B |
+| 18:00 | USD | Federal Budget Balance (Feb) | -307.0B | -302.5B | -129.0B |
