@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:30 | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
+| 07:00 | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 1.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 4.0% |
 | 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.808% |
@@ -19,30 +19,30 @@
 | 11:00 | USD | Low | Mortgage Refinance Index |  |  | 784.2 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 11:30 | BRL | Low | Budget Balance (Jan) |  | 35.300B | -80.372B |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
+| 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |
-| 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
+| 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 324.74 |
-| 12:30 | USD | High | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
 | 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.3% | 0.5% |
-| 12:30 | USD | Low | CPI Index, n.s.a. (Feb) |  | 319.17 | 317.67 |
+| 12:30 | USD | High | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
+| 12:30 | USD | Low | CPI Index, n.s.a. (Feb) |  | 319.22 | 317.67 |
 | 12:30 | USD | Low | CPI Index, s.a (Feb) |  |  | 319.09 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.65% |
 | 12:30 | USD | Low | Real Earnings (MoM) (Feb) |  |  | -0.3% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -7.7% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -33.5% |
-| 13:30 | USD | High | Crude Oil Inventories |  |  | 3.614M |
+| 13:30 | USD | High | Crude Oil Inventories |  | 2.100M | 3.614M |
 | 13:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.346M |
 | 13:30 | USD | Low | Crude Oil Imports |  |  | -0.054M |
 | 13:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.124M |
 | 13:30 | USD | Low | Distillate Fuel Production |  |  | -0.587M |
-| 13:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.318M |
+| 13:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.400M | -1.318M |
 | 13:30 | USD | Low | Gasoline Production |  |  | 0.464M |
 | 13:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.067M |
 | 13:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.6% |
-| 13:30 | USD | Low | Gasoline Inventories |  |  | -1.433M |
+| 13:30 | USD | Low | Gasoline Inventories |  | -2.500M | -1.433M |
 | 13:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 13:45 | CAD | High | BoC Interest Rate Decision |  | 2.75% | 3.00% |
 | 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -55,10 +55,9 @@
 | 15:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | High | 10-Year Note Auction |  |  | 4.632% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.410B |
-| 18:00 | USD | Moderate | Federal Budget Balance (Feb) |  | -314.0B | -129.0B |
+| 18:00 | USD | Moderate | Federal Budget Balance (Feb) |  | -302.5B | -129.0B |
 | 21:45 | NZD | Low | External Migration & Visitors (Jan) |  |  | 12.20% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 3,810 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 3.5% |
-| 23:00 | KRW | Low | Unemployment Rate (Feb) |  |  | 2.9% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,514.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -708.3B |
