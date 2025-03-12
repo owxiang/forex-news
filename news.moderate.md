@@ -1,14 +1,16 @@
-## 11 March 2025 - Moderate Impact Forex News
+## 12 March 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Feb) | 0.9% | 1.9% | 2.5% |
-| 00:30 | AUD | NAB Business Confidence (Feb) | -1 |  | 5 |
-| 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Industrial Production (YoY) (Jan) | 1.4% | 2.2% | 1.4% |
-| 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 16:00 | USD | WASDE Report |  |  |  |
-| 17:00 | USD | 3-Year Note Auction | 3.908% |  | 4.300% |
-| 20:30 | USD | API Weekly Crude Oil Stock | 4.247M | 2.100M | -1.455M |
-| 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) | 0.3% |  | -1.6% |
-| 44 min | JPY | BSI Large Manufacturing Conditions (Q1) |  | 6.5 | 6.3 |
+| 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:30 | INR | CPI (YoY) (Feb) |  | 4.00% | 4.31% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.520% |
+| 11:00 | USD | OPEC Monthly Report |  |  |  |
+| 12:00 | BRL | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
+| 12:30 | USD | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
+| 13:30 | USD | Cushing Crude Oil Inventories |  |  | 1.124M |
+| 13:45 | CAD | BoC Rate Statement |  |  |  |
+| 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 14:30 | CAD | BOC Press Conference |  |  |  |
+| 15:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 18:00 | USD | Federal Budget Balance (Feb) |  | -314.0B | -129.0B |
