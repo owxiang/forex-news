@@ -24,8 +24,8 @@
 | 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.2% | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.1% | 3.2% | 3.3% |
 | 12:30 | USD | Low | Core CPI Index (Feb) | 325.48 |  | 324.74 |
-| 12:30 | USD | High | CPI (YoY) (Feb) | 2.8% | 2.9% | 3.0% |
 | 12:30 | USD | High | CPI (MoM) (Feb) | 0.2% | 0.3% | 0.5% |
+| 12:30 | USD | High | CPI (YoY) (Feb) | 2.8% | 2.9% | 3.0% |
 | 12:30 | USD | Low | CPI Index, n.s.a. (Feb) | 319.08 | 319.22 | 317.67 |
 | 12:30 | USD | Low | CPI Index, s.a (Feb) | 319.78 |  | 319.09 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) | 0.44% |  | 0.65% |
@@ -56,5 +56,5 @@
 | 21:45 | NZD | Low | External Migration & Visitors (Jan) | 13.40% |  | 12.20% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) | 2,380 |  | 4,740 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) | 1.9% |  | 3.8% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,514.2B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -708.3B |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 1,514.2B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -708.3B |
