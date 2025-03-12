@@ -49,8 +49,8 @@
 | 15:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 45.47 |  | 46.09 |
 | 15:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.11 |  | 59.65 |
 | 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) | 49.07 |  | 48.95 |
-| 9 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | High | 10-Year Note Auction |  |  | 4.632% |
+| 15:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 52 min | USD | High | 10-Year Note Auction |  |  | 4.632% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.410B |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) |  | -302.5B | -129.0B |
 | 21:45 | NZD | Low | External Migration & Visitors (Jan) |  |  | 12.20% |
