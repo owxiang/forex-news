@@ -18,8 +18,8 @@
 | 11:00 | USD | Low | Mortgage Market Index | 269.3 |  | 242.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index | 911.3 |  | 784.2 |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) | 1.31% | 1.30% | 0.16% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 5.06% | 5.00% | 4.56% |
+| 12:00 | BRL | Low | CPI (MoM) (Feb) | 1.31% | 1.30% | 0.16% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 1.32% |  | 0.06% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.2% | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.1% | 3.2% | 3.3% |
@@ -53,8 +53,8 @@
 | 17:00 | USD | High | 10-Year Note Auction | 4.310% |  | 4.632% |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.783B |  | 0.410B |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) | -307.0B | -302.5B | -129.0B |
-| 21:45 | NZD | Low | External Migration & Visitors (Jan) |  |  | 12.20% |
-| 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 3,810 |
-| 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 3.5% |
+| 39 min | NZD | Low | External Migration & Visitors (Jan) |  |  | 12.20% |
+| 39 min | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 3,810 |
+| 39 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 3.5% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,514.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -708.3B |
