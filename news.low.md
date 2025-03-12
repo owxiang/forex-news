@@ -35,8 +35,8 @@
 | 15:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.11 |  | 59.65 |
 | 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) | 49.07 |  | 48.95 |
 | 17:30 | BRL | Foreign Exchange Flows | -0.783B |  | 0.410B |
-| 39 min | NZD | External Migration & Visitors (Jan) |  |  | 12.20% |
-| 39 min | NZD | Permanent/Long-Term Migration (Jan) |  |  | 3,810 |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | 3.5% |
+| 21:45 | NZD | External Migration & Visitors (Jan) | 13.40% |  | 12.20% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Jan) | 2,380 |  | 4,740 |
+| 21:45 | NZD | Visitor Arrivals (MoM) | 1.9% |  | 3.8% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 1,514.2B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -708.3B |

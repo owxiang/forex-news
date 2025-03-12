@@ -53,8 +53,8 @@
 | 17:00 | USD | High | 10-Year Note Auction | 4.310% |  | 4.632% |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.783B |  | 0.410B |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) | -307.0B | -302.5B | -129.0B |
-| 39 min | NZD | Low | External Migration & Visitors (Jan) |  |  | 12.20% |
-| 39 min | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 3,810 |
-| 39 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 3.5% |
+| 21:45 | NZD | Low | External Migration & Visitors (Jan) | 13.40% |  | 12.20% |
+| 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) | 2,380 |  | 4,740 |
+| 21:45 | NZD | Low | Visitor Arrivals (MoM) | 1.9% |  | 3.8% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,514.2B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -708.3B |
