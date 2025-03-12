@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | IDR | Retail Sales (YoY) (Jan) | 0.5% |  | 1.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) | 2.2% |  | 4.0% |
-| 53 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.808% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.323% |
-| 10:30 | INR | Cumulative Industrial Production (Jan) |  |  | 4.00% |
-| 10:30 | INR | Industrial Production (YoY) (Jan) |  | 3.5% | 3.2% |
-| 10:30 | INR | Manufacturing Output (MoM) (Jan) |  |  | 3.0% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.73% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 20.4% |
-| 11:00 | USD | MBA Purchase Index |  |  | 144.5 |
-| 11:00 | USD | Mortgage Market Index |  |  | 242.2 |
-| 11:00 | USD | Mortgage Refinance Index |  |  | 784.2 |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.808% |
+| 3 min | EUR | Italian 12-Month BOT Auction |  |  | 2.323% |
+| 23 min | INR | Cumulative Industrial Production (Jan) |  |  | 4.00% |
+| 23 min | INR | Industrial Production (YoY) (Jan) |  | 3.5% | 3.2% |
+| 23 min | INR | Manufacturing Output (MoM) (Jan) |  |  | 3.0% |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.73% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 20.4% |
+| 53 min | USD | MBA Purchase Index |  |  | 144.5 |
+| 53 min | USD | Mortgage Market Index |  |  | 242.2 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 784.2 |
 | 11:30 | BRL | Budget Balance (Jan) |  | 35.300B | -80.372B |
 | 12:00 | BRL | CPI (MoM) (Feb) |  | 1.30% | 0.16% |
 | 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.06% |

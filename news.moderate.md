@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:30 | INR | CPI (YoY) (Feb) |  | 4.00% | 4.31% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.520% |
-| 11:00 | USD | OPEC Monthly Report |  |  |  |
+| 23 min | INR | CPI (YoY) (Feb) |  | 4.00% | 4.31% |
+| 23 min | EUR | German 10-Year Bund Auction |  |  | 2.520% |
+| 53 min | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | CPI (YoY) (Feb) |  | 5.00% | 4.56% |
 | 12:30 | USD | Core CPI (YoY) (Feb) |  | 3.2% | 3.3% |
 | 13:30 | USD | Cushing Crude Oil Inventories |  |  | 1.124M |
