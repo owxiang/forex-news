@@ -24,8 +24,8 @@
 | 11:00 | ZAR | Manufacturing Production (YoY) (Jan) |  |  | -1.2% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.27 |
 | 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.4% |
-| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
 | 12:00 | MXN | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
+| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 2.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |

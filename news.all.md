@@ -30,8 +30,8 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) |  |  | -1.2% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.27 |
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) |  |  | 1.4% |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 2.4% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,897K |
