@@ -31,8 +31,8 @@
 | 12:30 | USD | Core PPI (YoY) (Feb) | 3.4% | 3.6% | 3.8% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 226.00K |  | 224.50K |
 | 12:30 | USD | PPI (YoY) (Feb) | 3.2% | 3.3% | 3.7% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.3% |  | 3.4% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.3% |  | 3.4% |
 | 14:30 | USD | Natural Gas Storage | -62B | -46B | -80B |
 | 15:30 | USD | 4-Week Bill Auction | 4.225% |  | 4.230% |
 | 15:30 | USD | 8-Week Bill Auction | 4.220% |  | 4.220% |
