@@ -6,12 +6,12 @@
 | 00:30 | AUD | Private House Approvals (Jan) | 1.1% | 1.1% | -3.0% |
 | 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:30 | CHF | PPI (YoY) (Feb) | -0.1% |  | -0.3% |
-| 22 min | HKD | Industrial Production (YoY) (Q4) |  |  | -0.10% |
-| 22 min | HKD | PPI (YoY) (Q4) |  |  | 3.20% |
-| 52 min | EUR | Italian Quarterly Unemployment Rate |  | 6.2% | 6.1% |
-| 09:30 | ZAR | Gold Production (YoY) (Jan) |  |  | -8.4% |
-| 09:30 | ZAR | Mining Production (Jan) |  |  | -2.4% |
-| 10:00 | EUR | Industrial Production (YoY) (Jan) |  | -0.9% | -2.0% |
+| 08:30 | HKD | Industrial Production (YoY) (Q4) | 0.90% |  | -0.10% |
+| 08:30 | HKD | PPI (YoY) (Q4) | 4.20% |  | 3.20% |
+| 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.2% | 6.1% |
+| 23 min | ZAR | Gold Production (YoY) (Jan) |  |  | -8.4% |
+| 23 min | ZAR | Mining Production (Jan) |  |  | -2.4% |
+| 53 min | EUR | Industrial Production (YoY) (Jan) |  | -0.9% | -2.0% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.57% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.52% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 3.940% |
@@ -24,8 +24,8 @@
 | 11:00 | ZAR | Manufacturing Production (YoY) (Jan) |  |  | -1.2% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.27 |
 | 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.4% |
-| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
 | 12:00 | MXN | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
+| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 2.4% |
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
