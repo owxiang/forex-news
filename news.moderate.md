@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Building Approvals (MoM) (Jan) | 6.3% | 6.3% | 0.7% |
-| 23 min | CHF | PPI (MoM) (Feb) |  | 0.2% | 0.1% |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 07:30 | CHF | PPI (MoM) (Feb) | 0.3% | 0.2% | 0.1% |
+| 52 min | USD | IEA Monthly Report |  |  |  |
 | 09:50 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Jan) |  | 0.5% | -1.1% |
 | 12:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,897K |
