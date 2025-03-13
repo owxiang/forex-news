@@ -26,17 +26,17 @@
 | 11:30 | BRL | Bank lending (MoM) (Jan) | 0.0% |  | 1.4% |
 | 12:00 | MXN | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
 | 12:00 | MXN | Industrial Production (MoM) (Jan) | -0.4% | 0.2% | -1.4% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 1.6% |  | 2.9% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
 | 12:30 | USD | Core PPI (YoY) (Feb) | 3.4% | 3.6% | 3.8% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 226.00K |  | 224.50K |
 | 12:30 | USD | PPI (YoY) (Feb) | 3.2% | 3.3% | 3.7% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.3% |  | 3.4% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
 | 14:30 | USD | Natural Gas Storage | -62B | -46B | -80B |
 | 15:30 | USD | 4-Week Bill Auction | 4.225% |  | 4.230% |
 | 15:30 | USD | 8-Week Bill Auction | 4.220% |  | 4.220% |
-| 53 min | KRW | Export Price Index (YoY) (Feb) |  |  | 8.5% |
-| 53 min | KRW | Import Price Index (YoY) (Feb) |  |  | 6.6% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.381T |
-| 21:45 | NZD | FPI (MoM) (Feb) |  |  | 1.9% |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.381T |
+| 21:00 | KRW | Export Price Index (YoY) (Feb) | 6.3% |  | 8.5% |
+| 21:00 | KRW | Import Price Index (YoY) (Feb) | 4.6% |  | 6.6% |
+| 39 min | NZD | FPI (MoM) (Feb) |  |  | 1.9% |

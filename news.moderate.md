@@ -13,5 +13,5 @@
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,757B |
-| 21:30 | NZD | Business NZ PMI (Feb) |  |  | 51.4 |
+| 20:30 | USD | Fed's Balance Sheet | 6,760B |  | 6,757B |
+| 24 min | NZD | Business NZ PMI (Feb) |  |  | 51.4 |

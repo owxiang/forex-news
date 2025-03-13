@@ -6,8 +6,8 @@
 | 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | 6.3% | 6.3% | 0.7% |
 | 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% | 1.1% | -3.0% |
 | 02:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 07:30 | CHF | Moderate | PPI (MoM) (Feb) | 0.3% | 0.2% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Feb) | -0.1% |  | -0.3% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Feb) | 0.3% | 0.2% | 0.1% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) | 0.90% |  | -0.10% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) | 4.20% |  | 3.20% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -15,8 +15,8 @@
 | 09:30 | ZAR | Low | Gold Production (YoY) (Jan) | 1.0% |  | -8.4% |
 | 09:30 | ZAR | Low | Mining Production (Jan) | -2.7% |  | -2.4% |
 | 09:50 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) | 0.8% | 0.5% | -0.4% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | 0.0% | -0.9% | -1.5% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) | 0.8% | 0.5% | -0.4% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction | 3.72% |  | 3.57% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.77% |  | 2.52% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction | 4.700% |  | 3.940% |
@@ -31,8 +31,8 @@
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) | 0.0% |  | 1.4% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | -0.4% | 0.2% | -1.4% |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 1.6% |  | 2.9% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,870K | 1,900K | 1,897K |
 | 12:30 | USD | Moderate | Core PPI (MoM) (Feb) | -0.1% | 0.3% | 0.5% |
 | 12:30 | USD | Low | Core PPI (YoY) (Feb) | 3.4% | 3.6% | 3.8% |
@@ -40,8 +40,8 @@
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.00K |  | 224.50K |
 | 12:30 | USD | High | PPI (MoM) (Feb) | 0.0% | 0.3% | 0.6% |
 | 12:30 | USD | Low | PPI (YoY) (Feb) | 3.2% | 3.3% | 3.7% |
-| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.3% |  | 3.4% |
+| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
 | 12:30 | CAD | Moderate | Building Permits (MoM) (Jan) | -3.2% | -5.3% | 11.6% |
 | 14:30 | USD | Low | Natural Gas Storage | -62B | -46B | -80B |
 | 15:30 | USD | Low | 4-Week Bill Auction | 4.225% |  | 4.230% |
@@ -50,9 +50,9 @@
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 53 min | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 8.5% |
-| 53 min | KRW | Low | Import Price Index (YoY) (Feb) |  |  | 6.6% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,757B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.381T |
-| 21:30 | NZD | Moderate | Business NZ PMI (Feb) |  |  | 51.4 |
-| 21:45 | NZD | Low | FPI (MoM) (Feb) |  |  | 1.9% |
+| 20:30 | USD | Moderate | Fed's Balance Sheet | 6,760B |  | 6,757B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.381T |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Feb) | 6.3% |  | 8.5% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Feb) | 4.6% |  | 6.6% |
+| 24 min | NZD | Moderate | Business NZ PMI (Feb) |  |  | 51.4 |
+| 39 min | NZD | Low | FPI (MoM) (Feb) |  |  | 1.9% |
