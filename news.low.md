@@ -5,7 +5,7 @@
 | 00:00 | AUD | MI Inflation Expectations | 3.6% |  | 4.6% |
 | 00:30 | AUD | Private House Approvals (Jan) | 1.1% | 1.1% | -3.0% |
 | 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 07:30 | CHF | PPI (YoY) (Feb) |  |  | -0.3% |
+| 23 min | CHF | PPI (YoY) (Feb) |  |  | -0.3% |
 | 08:30 | HKD | Industrial Production (YoY) (Q4) |  |  | -0.10% |
 | 08:30 | HKD | PPI (YoY) (Q4) |  |  | 3.20% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.2% | 6.1% |
@@ -26,8 +26,8 @@
 | 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.4% |
 | 12:00 | MXN | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
 | 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 2.4% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
 | 12:30 | USD | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
