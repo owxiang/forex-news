@@ -24,15 +24,15 @@
 | 11:00 | ZAR | Manufacturing Production (YoY) (Jan) | -3.3% |  | -1.2% |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 46.35 |  | 45.27 |
 | 11:30 | BRL | Bank lending (MoM) (Jan) | 0.0% |  | 1.4% |
-| 12:00 | MXN | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
 | 12:00 | MXN | Industrial Production (MoM) (Jan) | -0.4% | 0.2% | -1.4% |
+| 12:00 | MXN | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 1.6% |  | 2.9% |
-| 19 min | USD | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 19 min | USD | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
-| 19 min | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
-| 19 min | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
+| 12:30 | USD | Core PPI (YoY) (Feb) | 3.4% | 3.6% | 3.8% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. | 226.00K |  | 224.50K |
+| 12:30 | USD | PPI (YoY) (Feb) | 3.2% | 3.3% | 3.7% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.3% |  | 3.4% |
 | 14:30 | USD | Natural Gas Storage |  | -46B | -80B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 4.230% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 4.220% |

@@ -29,20 +29,20 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) | -3.3% |  | -1.2% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 46.35 |  | 45.27 |
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) | 0.0% |  | 1.4% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | -0.4% | 0.2% | -1.4% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 1.6% |  | 2.9% |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,897K |
-| 19 min | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.3% | 0.3% |
-| 19 min | USD | Low | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
-| 19 min | USD | High | Initial Jobless Claims |  | 226K | 221K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 19 min | USD | Low | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
-| 19 min | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.4% |
-| 19 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
-| 19 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
-| 19 min | CAD | Moderate | Building Permits (MoM) (Jan) |  | -5.3% | 11.0% |
+| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,870K | 1,900K | 1,897K |
+| 12:30 | USD | Moderate | Core PPI (MoM) (Feb) | -0.1% | 0.3% | 0.5% |
+| 12:30 | USD | Low | Core PPI (YoY) (Feb) | 3.4% | 3.6% | 3.8% |
+| 12:30 | USD | High | Initial Jobless Claims | 220K | 226K | 222K |
+| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.00K |  | 224.50K |
+| 12:30 | USD | High | PPI (MoM) (Feb) | 0.0% | 0.3% | 0.6% |
+| 12:30 | USD | Low | PPI (YoY) (Feb) | 3.2% | 3.3% | 3.7% |
+| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
+| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.3% |  | 3.4% |
+| 12:30 | CAD | Moderate | Building Permits (MoM) (Jan) | -3.2% | -5.3% | 11.6% |
 | 14:30 | USD | Low | Natural Gas Storage |  | -46B | -80B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
