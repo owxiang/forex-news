@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 12:30 | USD | Initial Jobless Claims | 220K | 226K | 222K |
 | 12:30 | USD | PPI (MoM) (Feb) | 0.0% | 0.3% | 0.6% |
-| 52 min | USD | 30-Year Bond Auction |  |  | 4.748% |
+| 17:00 | USD | 30-Year Bond Auction | 4.623% |  | 4.748% |
