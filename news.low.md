@@ -1,42 +1,43 @@
-## 12 March 2025 - Low Impact Forex News
+## 13 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | IDR | Retail Sales (YoY) (Jan) | 0.5% |  | 1.8% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) | 2.2% |  | 4.0% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.679% |  | 4.808% |
-| 10:10 | EUR | Italian 12-Month BOT Auction | 2.337% |  | 2.323% |
-| 10:30 | INR | Cumulative Industrial Production (Jan) | 4.20% |  | 4.00% |
-| 10:30 | INR | Industrial Production (YoY) (Jan) | 5.0% | 3.5% | 3.5% |
-| 10:30 | INR | Manufacturing Output (MoM) (Jan) | 5.5% |  | 3.4% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.67% |  | 6.73% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) | 11.2% |  | 20.4% |
-| 11:00 | USD | MBA Purchase Index | 154.6 |  | 144.5 |
-| 11:00 | USD | Mortgage Market Index | 269.3 |  | 242.2 |
-| 11:00 | USD | Mortgage Refinance Index | 911.3 |  | 784.2 |
-| 12:00 | BRL | CPI (MoM) (Feb) | 1.31% | 1.30% | 0.16% |
-| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 1.32% |  | 0.06% |
-| 12:30 | USD | Core CPI Index (Feb) | 325.48 |  | 324.74 |
-| 12:30 | USD | CPI Index, n.s.a. (Feb) | 319.08 | 319.22 | 317.67 |
-| 12:30 | USD | CPI Index, s.a (Feb) | 319.78 |  | 319.09 |
-| 12:30 | USD | CPI, n.s.a (MoM) (Feb) | 0.44% |  | 0.65% |
-| 12:30 | USD | Real Earnings (MoM) (Feb) | 0.1% |  | -0.3% |
-| 13:30 | USD | EIA Refinery Crude Runs (WoW) | 0.321M |  | -0.346M |
-| 13:30 | USD | Crude Oil Imports | 0.503M |  | -0.054M |
-| 13:30 | USD | Distillate Fuel Production | -0.113M |  | -0.587M |
-| 13:30 | USD | EIA Weekly Distillates Stocks | -1.559M | -1.400M | -1.318M |
-| 13:30 | USD | Gasoline Production | -0.078M |  | 0.464M |
-| 13:30 | USD | Heating Oil Stockpiles | -0.183M |  | -0.067M |
-| 13:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | -0.6% |
-| 13:30 | USD | Gasoline Inventories | -5.737M | -2.500M | -1.433M |
-| 15:00 | USD | Cleveland CPI (MoM) (Feb) | 0.3% |  | 0.3% |
-| 15:00 | USD | Thomson Reuters IPSOS PCSI (Mar) | 54.02 |  | 55.34 |
-| 15:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 45.47 |  | 46.09 |
-| 15:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.11 |  | 59.65 |
-| 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) | 49.07 |  | 48.95 |
-| 17:30 | BRL | Foreign Exchange Flows | -0.783B |  | 0.410B |
-| 21:45 | NZD | External Migration & Visitors (Jan) | 13.40% |  | 12.20% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Jan) | 2,380 |  | 4,740 |
-| 21:45 | NZD | Visitor Arrivals (MoM) | 1.9% |  | 3.8% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 1,514.2B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -708.3B |
+| 00:00 | AUD | MI Inflation Expectations | 3.6% |  | 4.6% |
+| 3 min | AUD | Private House Approvals (Jan) |  | 1.1% | -3.0% |
+| 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 07:30 | CHF | PPI (YoY) (Feb) |  |  | -0.3% |
+| 08:30 | HKD | Industrial Production (YoY) (Q4) |  |  | -0.10% |
+| 08:30 | HKD | PPI (YoY) (Q4) |  |  | 3.20% |
+| 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.2% | 6.1% |
+| 09:30 | ZAR | Gold Production (YoY) (Jan) |  |  | -8.4% |
+| 09:30 | ZAR | Mining Production (Jan) |  |  | -2.4% |
+| 10:00 | EUR | Industrial Production (YoY) (Jan) |  | -0.9% | -2.0% |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.57% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.52% |
+| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 3.940% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.0 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.23 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 45.36 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 40.31 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 49.55 |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) |  |  | -2.4% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) |  |  | -1.2% |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.27 |
+| 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.4% |
+| 12:00 | MXN | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
+| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 2.4% |
+| 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
+| 12:30 | USD | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
+| 14:30 | USD | Natural Gas Storage |  | -48B | -80B |
+| 15:30 | USD | 4-Week Bill Auction |  |  | 4.230% |
+| 15:30 | USD | 8-Week Bill Auction |  |  | 4.220% |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.410B |
+| 21:00 | KRW | Export Price Index (YoY) (Feb) |  |  | 8.5% |
+| 21:00 | KRW | Import Price Index (YoY) (Feb) |  |  | 6.6% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.381T |
+| 21:45 | NZD | FPI (MoM) (Feb) |  |  | 1.9% |

@@ -1,16 +1,17 @@
-## 12 March 2025 - Moderate Impact Forex News
+## 13 March 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:30 | INR | CPI (YoY) (Feb) | 3.61% | 4.00% | 4.26% |
-| 10:30 | EUR | German 10-Year Bund Auction | 2.920% |  | 2.520% |
-| 11:00 | USD | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | CPI (YoY) (Feb) | 5.06% | 5.00% | 4.56% |
-| 12:30 | USD | Core CPI (YoY) (Feb) | 3.1% | 3.2% | 3.3% |
-| 13:30 | USD | Cushing Crude Oil Inventories | -1.228M |  | 1.124M |
-| 13:45 | CAD | BoC Rate Statement |  |  |  |
-| 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14:30 | CAD | BOC Press Conference |  |  |  |
-| 15:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | Federal Budget Balance (Feb) | -307.0B | -302.5B | -129.0B |
+| 00:01 | GBP | RICS House Price Balance (Feb) | 11% |  | 21% |
+| 3 min | AUD | Building Approvals (MoM) (Jan) |  | 6.3% | 0.7% |
+| 07:30 | CHF | PPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 09:50 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Jan) |  | 0.5% | -1.1% |
+| 12:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,897K |
+| 12:30 | USD | Core PPI (MoM) (Feb) |  | 0.3% | 0.3% |
+| 12:30 | CAD | Building Permits (MoM) (Jan) |  | -5.3% | 11.0% |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,757B |
+| 21:30 | NZD | Business NZ PMI (Feb) |  |  | 51.4 |
