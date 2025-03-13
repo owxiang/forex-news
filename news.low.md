@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Inflation Expectations | 3.6% |  | 4.6% |
-| 3 min | AUD | Private House Approvals (Jan) |  | 1.1% | -3.0% |
-| 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 00:30 | AUD | Private House Approvals (Jan) | 1.1% | 1.1% | -3.0% |
+| 56 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:30 | CHF | PPI (YoY) (Feb) |  |  | -0.3% |
 | 08:30 | HKD | Industrial Production (YoY) (Q4) |  |  | -0.10% |
 | 08:30 | HKD | PPI (YoY) (Q4) |  |  | 3.20% |
@@ -31,8 +31,8 @@
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
 | 12:30 | USD | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
 | 14:30 | USD | Natural Gas Storage |  | -48B | -80B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 4.230% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 4.220% |

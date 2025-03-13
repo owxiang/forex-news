@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Inflation Expectations | 3.6% |  | 4.6% |
 | 00:01 | GBP | Moderate | RICS House Price Balance (Feb) | 11% |  | 21% |
-| 3 min | AUD | Moderate | Building Approvals (MoM) (Jan) |  | 6.3% | 0.7% |
-| 3 min | AUD | Low | Private House Approvals (Jan) |  | 1.1% | -3.0% |
-| 02:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | 6.3% | 6.3% | 0.7% |
+| 00:30 | AUD | Low | Private House Approvals (Jan) | 1.1% | 1.1% | -3.0% |
+| 56 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:30 | CHF | Moderate | PPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Feb) |  |  | -0.3% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | -0.10% |
@@ -39,10 +39,10 @@
 | 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
 | 12:30 | USD | High | Initial Jobless Claims |  | 226K | 221K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 12:30 | USD | Low | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
 | 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.4% |
-| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
+| 12:30 | USD | Low | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
+| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
 | 12:30 | CAD | Moderate | Building Permits (MoM) (Jan) |  | -5.3% | 11.0% |
 | 14:30 | USD | Low | Natural Gas Storage |  | -48B | -80B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
