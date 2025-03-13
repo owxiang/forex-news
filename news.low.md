@@ -9,30 +9,30 @@
 | 08:30 | HKD | Industrial Production (YoY) (Q4) | 0.90% |  | -0.10% |
 | 08:30 | HKD | PPI (YoY) (Q4) | 4.20% |  | 3.20% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.2% | 6.1% |
-| 23 min | ZAR | Gold Production (YoY) (Jan) |  |  | -8.4% |
-| 23 min | ZAR | Mining Production (Jan) |  |  | -2.4% |
-| 53 min | EUR | Industrial Production (YoY) (Jan) |  | -0.9% | -2.0% |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.57% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.52% |
-| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 3.940% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.0 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.23 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 45.36 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 40.31 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 49.55 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) |  |  | -2.4% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) |  |  | -1.2% |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.27 |
+| 09:30 | ZAR | Gold Production (YoY) (Jan) | 1.0% |  | -8.4% |
+| 09:30 | ZAR | Mining Production (Jan) | -2.7% |  | -2.4% |
+| 10:00 | EUR | Industrial Production (YoY) (Jan) | 0.0% | -0.9% | -1.5% |
+| 3 min | EUR | Italian 15-Year BTP Auction |  |  | 3.57% |
+| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.52% |
+| 3 min | EUR | Italian 30-Year BTP Auction |  |  | 3.940% |
+| 53 min | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.0 |
+| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 48.23 |
+| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 45.36 |
+| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 40.31 |
+| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 49.55 |
+| 53 min | ZAR | Manufacturing Production (YoY) (Jan) |  |  | -1.2% |
+| 53 min | ZAR | Manufacturing Production (MoM) (Jan) |  |  | -2.4% |
+| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.27 |
 | 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.4% |
-| 12:00 | MXN | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
 | 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
+| 12:00 | MXN | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
 | 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 2.4% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.25K |
 | 12:30 | USD | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
 | 14:30 | USD | Natural Gas Storage |  | -46B | -80B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 4.230% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 4.220% |
