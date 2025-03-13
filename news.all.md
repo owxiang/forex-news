@@ -28,21 +28,21 @@
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) | 0.2% |  | -2.2% |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) | -3.3% |  | -1.2% |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 46.35 |  | 45.27 |
-| 24 min | BRL | Low | Bank lending (MoM) (Jan) |  |  | 1.4% |
-| 54 min | MXN | Low | Industrial Production (YoY) (Jan) |  | -1.8% | -2.7% |
-| 54 min | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.2% | -1.4% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) |  |  | -0.5% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) |  |  | 2.4% |
-| 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,897K |
-| 12:30 | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.3% | 0.3% |
-| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
-| 12:30 | USD | High | Initial Jobless Claims |  | 226K | 221K |
-| 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
-| 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.4% |
-| 12:30 | USD | Low | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
-| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
-| 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
-| 12:30 | CAD | Moderate | Building Permits (MoM) (Jan) |  | -5.3% | 11.0% |
+| 11:30 | BRL | Low | Bank lending (MoM) (Jan) | 0.0% |  | 1.4% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | -0.4% | 0.2% | -1.4% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 1.6% |  | 2.9% |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,897K |
+| 19 min | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.3% | 0.3% |
+| 19 min | USD | Low | Core PPI (YoY) (Feb) |  | 3.6% | 3.6% |
+| 19 min | USD | High | Initial Jobless Claims |  | 226K | 221K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.25K |
+| 19 min | USD | Low | PPI (YoY) (Feb) |  | 3.3% | 3.5% |
+| 19 min | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.4% |
+| 19 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 3.4% |
+| 19 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.3% |
+| 19 min | CAD | Moderate | Building Permits (MoM) (Jan) |  | -5.3% | 11.0% |
 | 14:30 | USD | Low | Natural Gas Storage |  | -46B | -80B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
@@ -50,7 +50,6 @@
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.410B |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 8.5% |
 | 21:00 | KRW | Low | Import Price Index (YoY) (Feb) |  |  | 6.6% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,757B |

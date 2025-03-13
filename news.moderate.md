@@ -7,9 +7,9 @@
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:50 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Jan) | 0.8% | 0.5% | -0.4% |
-| 12:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,897K |
-| 12:30 | USD | Core PPI (MoM) (Feb) |  | 0.3% | 0.3% |
-| 12:30 | CAD | Building Permits (MoM) (Jan) |  | -5.3% | 11.0% |
+| 19 min | USD | Continuing Jobless Claims |  | 1,900K | 1,897K |
+| 19 min | USD | Core PPI (MoM) (Feb) |  | 0.3% | 0.3% |
+| 19 min | CAD | Building Permits (MoM) (Jan) |  | -5.3% | 11.0% |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | German Buba President Nagel Speaks |  |  |  |
