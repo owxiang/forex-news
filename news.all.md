@@ -50,8 +50,8 @@
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 8.5% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Feb) |  |  | 6.6% |
+| 53 min | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 8.5% |
+| 53 min | KRW | Low | Import Price Index (YoY) (Feb) |  |  | 6.6% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,757B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.381T |
 | 21:30 | NZD | Moderate | Business NZ PMI (Feb) |  |  | 51.4 |
