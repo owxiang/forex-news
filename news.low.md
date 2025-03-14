@@ -41,9 +41,11 @@
 | 12:00 | BRL | Brazilian PPI (MoM) (Jan) | 0.13% |  | 1.35% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | 1.7% | 2.0% | 0.5% |
 | 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) | 121.6K |  | 135.5K |
+| 13:00 | EUR | German Current Account Balance n.s.a (Jan) | 11.8B |  | 20.9B |
 | 14:00 | USD | Michigan Current Conditions (Mar) | 63.5 | 65.0 | 65.7 |
 | 14:00 | BRL | Auto Production (MoM) (Feb) | 23.8% |  | -7.7% |
 | 14:00 | BRL | Auto Sales (MoM) (Feb) | 8.0% |  | -33.5% |
+| 14:47 | CNY | FDI (Feb) | -20.40% |  | -13.40% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 335.4K |

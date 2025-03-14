@@ -57,6 +57,7 @@
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | 1.7% | 2.0% | 0.5% |
 | 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) | 121.6K |  | 135.5K |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | 1.2% | 1.9% | 0.3% |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Jan) | 11.8B |  | 20.9B |
 | 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) | 4.9% |  | 4.3% |
 | 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) | 3.9% |  | 3.5% |
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) | 54.2 | 64.3 | 64.0 |
@@ -64,6 +65,7 @@
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 63.5 | 65.0 | 65.7 |
 | 14:00 | BRL | Low | Auto Production (MoM) (Feb) | 23.8% |  | -7.7% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Feb) | 8.0% |  | -33.5% |
+| 14:47 | CNY | Low | FDI (Feb) | -20.40% |  | -13.40% |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 18.6K |
