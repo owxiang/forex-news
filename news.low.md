@@ -1,42 +1,61 @@
-## 13 March 2025 - Low Impact Forex News
+## 14 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Expectations | 3.6% |  | 4.6% |
-| 00:30 | AUD | Private House Approvals (Jan) | 1.1% | 1.1% | -3.0% |
-| 02:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 07:30 | CHF | PPI (YoY) (Feb) | -0.1% |  | -0.3% |
-| 08:30 | HKD | Industrial Production (YoY) (Q4) | 0.90% |  | -0.10% |
-| 08:30 | HKD | PPI (YoY) (Q4) | 4.20% |  | 3.20% |
-| 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.2% | 6.1% |
-| 09:30 | ZAR | Gold Production (YoY) (Jan) | 1.0% |  | -8.4% |
-| 09:30 | ZAR | Mining Production (Jan) | -2.7% |  | -2.4% |
-| 10:00 | EUR | Industrial Production (YoY) (Jan) | 0.0% | -0.9% | -1.5% |
-| 10:10 | EUR | Italian 15-Year BTP Auction | 3.72% |  | 3.57% |
-| 10:10 | EUR | Italian 3-Year BTP Auction | 2.77% |  | 2.52% |
-| 10:10 | EUR | Italian 30-Year BTP Auction | 4.700% |  | 3.940% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Mar) | 47.4 |  | 48.0 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) | 45.22 |  | 48.23 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) | 45.74 |  | 45.36 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) | 42.90 |  | 40.31 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.92 |  | 49.55 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) | 0.2% |  | -2.2% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) | -3.3% |  | -1.2% |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 46.35 |  | 45.27 |
-| 11:30 | BRL | Bank lending (MoM) (Jan) | 0.0% |  | 1.4% |
-| 12:00 | MXN | Industrial Production (YoY) (Jan) | -2.9% | -1.8% | -2.7% |
-| 12:00 | MXN | Industrial Production (MoM) (Jan) | -0.4% | 0.2% | -1.4% |
-| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | -0.2% |  | 0.0% |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 1.6% |  | 2.9% |
-| 12:30 | USD | Core PPI (YoY) (Feb) | 3.4% | 3.6% | 3.8% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. | 226.00K |  | 224.50K |
-| 12:30 | USD | PPI (YoY) (Feb) | 3.2% | 3.3% | 3.7% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.2% |  | 0.3% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 3.3% |  | 3.4% |
-| 14:30 | USD | Natural Gas Storage | -62B | -46B | -80B |
-| 15:30 | USD | 4-Week Bill Auction | 4.225% |  | 4.230% |
-| 15:30 | USD | 8-Week Bill Auction | 4.220% |  | 4.220% |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.381T |
-| 21:00 | KRW | Export Price Index (YoY) (Feb) | 6.3% |  | 8.5% |
-| 21:00 | KRW | Import Price Index (YoY) (Feb) | 4.6% |  | 6.6% |
-| 21:45 | NZD | FPI (MoM) (Feb) | -0.5% |  | 1.9% |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 40.97 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 58.04 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 49.91 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Mar) |  |  | 37.30 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Mar) |  |  | 70.54 |
+| 07:00 | GBP | Construction Output (MoM) (Jan) |  | -0.1% | -0.2% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jan) |  | 0.4% | 1.5% |
+| 07:00 | GBP | GDP (YoY) (Jan) |  | 1.2% | 1.5% |
+| 07:00 | GBP | Index of Services |  | 0.3% | 0.2% |
+| 07:00 | GBP | Industrial Production (YoY) (Jan) |  | -0.7% | -1.9% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Jan) |  | -0.4% | -1.4% |
+| 07:00 | EUR | German HICP (YoY) (Feb) |  | 2.8% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
+| 07:00 | EUR | German WPI (YoY) (Feb) |  | 0.2% | 0.9% |
+| 07:00 | EUR | German WPI (MoM) (Feb) |  | 0.2% | 0.9% |
+| 07:45 | EUR | French CPI NSA (YoY) (Feb) |  |  | 1.70% |
+| 07:45 | EUR | French CPI NSA (MoM) (Feb) |  |  | 0.20% |
+| 07:45 | EUR | French CPI (YoY) (Feb) |  | 0.8% | 1.7% |
+| 07:45 | EUR | French HICP (YoY) (Feb) |  | 0.9% | 1.8% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 1.60% |
+| 08:00 | EUR | Core CPI (YoY) (Feb) |  | 2.1% | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.4% | 0.2% |
+| 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
+| 08:30 | GBP | Inflation Expectations |  |  | 3.0% |
+| 08:40 | INR | Exports (USD) (Feb) |  |  | 36.43B |
+| 08:40 | INR | Imports (USD) (Feb) |  |  | 59.42B |
+| 08:40 | INR | Trade Balance (Feb) |  |  | -22.99B |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
+| 09:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
+| 09:00 | CNY | M2 Money Stock (YoY) (Feb) |  | 7.1% | 7.0% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (Feb) |  | 7.4% | 7.5% |
+| 09:00 | CNY | Chinese Total Social Financing (Feb) |  | 2,500.0B | 7,060.0B |
+| 11:00 | EUR | Reserve Assets Total (Feb) |  |  | 1,457.53B |
+| 11:30 | INR | Bank Loan Growth |  |  | 11.3% |
+| 11:30 | INR | Deposit Growth |  |  | 10.6% |
+| 11:30 | INR | FX Reserves, USD |  |  | 638.70B |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Jan) |  |  | 61.1% |
+| 11:30 | BRL | Budget Balance (Jan) |  | 35.300B | -80.372B |
+| 11:30 | BRL | Budget Surplus (Jan) |  |  | 15.745B |
+| 12:30 | CAD | Manufacturing Sales (MoM) (Jan) |  | 2.0% | 0.3% |
+| 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 135.5K |
+| 13:00 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
+| 14:00 | USD | Michigan Current Conditions (Mar) |  | 65.0 | 65.7 |
+| 14:00 | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
+| 14:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.8K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 335.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -79.1K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 53.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -34.3K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -84.8K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -143.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 19.5K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -37.8K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -55.8K |
