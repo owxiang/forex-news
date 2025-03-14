@@ -15,8 +15,8 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Jan) | -1.5% | -0.4% | -1.4% |
 | 07:00 | EUR | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
-| 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
 | 07:00 | EUR | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
+| 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
 | 07:45 | EUR | French CPI NSA (YoY) (Feb) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.00% |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Feb) | 0.8% | 0.8% | 1.7% |
