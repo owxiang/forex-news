@@ -14,40 +14,38 @@
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.3% | 0.2% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jan) | -1.5% | -0.7% | -1.9% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.9% | -0.1% | 0.5% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | -1.5% | -0.4% | -1.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | -1.1% | 0.0% | 0.7% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | -1.5% | -0.4% | -1.4% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | 0.2% | 0.3% | 0.1% |
-| 07:00 | GBP | Moderate | Trade Balance (Jan) |  | -16.80B | -17.45B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) |  |  | -6.10B |
-| 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
+| 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
-| 39 min | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.70% |
-| 39 min | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | 0.20% |
-| 39 min | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.2% | 0.1% |
-| 39 min | EUR | Low | French CPI (YoY) (Feb) |  | 0.8% | 1.7% |
-| 39 min | EUR | Low | French HICP (YoY) (Feb) |  | 0.9% | 1.8% |
-| 39 min | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.0% | -0.2% |
-| 39 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 1.60% |
-| 54 min | EUR | Low | Core CPI (YoY) (Feb) |  | 2.1% | 2.4% |
-| 54 min | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | 0.2% |
-| 54 min | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
-| 54 min | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
-| 54 min | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 2.9% |
-| 08:30 | GBP | Low | Inflation Expectations |  |  | 3.0% |
-| 08:40 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
-| 08:40 | INR | Low | Imports (USD) (Feb) |  |  | 59.42B |
-| 08:40 | INR | Low | Trade Balance (Feb) |  |  | -22.99B |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
-| 09:00 | BRL | Low | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
-| 09:00 | CNY | Low | M2 Money Stock (YoY) (Feb) |  | 7.1% | 7.0% |
-| 09:00 | CNY | Moderate | New Loans (Feb) |  | 2,150.0B | 5,130.0B |
-| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (Feb) |  | 7.4% | 7.5% |
-| 09:00 | CNY | Low | Chinese Total Social Financing (Feb) |  | 2,500.0B | 7,060.0B |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) | 0.80% |  | 0.80% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) | 0.00% |  | 0.20% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.0% | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Feb) | 0.8% | 0.8% | 1.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (Feb) | 0.9% | 0.9% | 1.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.1% | 0.0% | -0.2% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) | 0.70% |  | 1.60% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.2% | 2.1% | 2.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 2.9% |
+| 22 min | GBP | Low | Inflation Expectations |  |  | 3.0% |
+| 32 min | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
+| 32 min | INR | Low | Imports (USD) (Feb) |  |  | 59.42B |
+| 32 min | INR | Low | Trade Balance (Feb) |  |  | -22.99B |
+| 52 min | EUR | Low | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
+| 52 min | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
+| 52 min | BRL | Low | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
+| 52 min | CNY | Low | M2 Money Stock (YoY) (Feb) |  | 7.1% | 7.0% |
+| 52 min | CNY | Moderate | New Loans (Feb) |  | 2,150.0B | 5,130.0B |
+| 52 min | CNY | Low | Outstanding Loan Growth (YoY) (Feb) |  | 7.4% | 7.5% |
+| 52 min | CNY | Low | Chinese Total Social Financing (Feb) |  | 2,500.0B | 7,060.0B |
 | 11:00 | EUR | Low | Reserve Assets Total (Feb) |  |  | 1,457.53B |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.3% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.6% |
@@ -57,8 +55,8 @@
 | 11:30 | BRL | Low | Budget Surplus (Jan) |  |  | 15.745B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 76.2% | 76.1% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.9% | 2.0% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | -0.2% | -0.1% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.9% | 2.0% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | 2.0% | 0.3% |
 | 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) |  |  | 135.5K |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  | 1.9% | -0.2% |

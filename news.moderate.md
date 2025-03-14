@@ -5,18 +5,16 @@
 | 07:00 | GBP | Industrial Production (MoM) (Jan) | -0.9% | -0.1% | 0.5% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Jan) | -1.1% | 0.0% | 0.7% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Jan) | 0.2% | 0.3% | 0.1% |
-| 07:00 | GBP | Trade Balance (Jan) |  | -16.80B | -17.45B |
-| 07:00 | GBP | Trade Balance Non-EU (Jan) |  |  | -6.10B |
 | 07:00 | EUR | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
-| 39 min | EUR | French CPI (MoM) (Feb) |  | 0.2% | 0.1% |
-| 39 min | EUR | French HICP (MoM) (Feb) |  | 0.0% | -0.2% |
-| 54 min | EUR | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
-| 54 min | EUR | Spanish HICP (YoY) (Feb) |  | 2.9% | 2.9% |
-| 09:00 | CNY | New Loans (Feb) |  | 2,150.0B | 5,130.0B |
+| 07:45 | EUR | French CPI (MoM) (Feb) | 0.0% | 0.2% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Feb) | 0.1% | 0.0% | -0.2% |
+| 08:00 | EUR | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
+| 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 2.9% |
+| 52 min | CNY | New Loans (Feb) |  | 2,150.0B | 5,130.0B |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 76.2% | 76.1% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
-| 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.9% | 2.0% |
 | 12:00 | BRL | Retail Sales (MoM) (Jan) |  | -0.2% | -0.1% |
+| 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.9% | 2.0% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Jan) |  | 1.9% | -0.2% |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 4.3% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.5% |
