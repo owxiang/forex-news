@@ -17,24 +17,23 @@
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
 | 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
 | 07:00 | EUR | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
-| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.00% |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI (YoY) (Feb) | 0.8% | 0.8% | 1.7% |
 | 07:45 | EUR | French HICP (YoY) (Feb) | 0.9% | 0.9% | 1.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) | 0.70% |  | 1.60% |
 | 08:00 | EUR | Core CPI (YoY) (Feb) | 2.2% | 2.1% | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
-| 22 min | GBP | Inflation Expectations |  |  | 3.0% |
-| 32 min | INR | Exports (USD) (Feb) |  |  | 36.43B |
-| 32 min | INR | Imports (USD) (Feb) |  |  | 59.42B |
-| 32 min | INR | Trade Balance (Feb) |  |  | -22.99B |
-| 52 min | EUR | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
-| 52 min | EUR | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
-| 52 min | BRL | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
-| 52 min | CNY | M2 Money Stock (YoY) (Feb) |  | 7.1% | 7.0% |
-| 52 min | CNY | Outstanding Loan Growth (YoY) (Feb) |  | 7.4% | 7.5% |
-| 52 min | CNY | Chinese Total Social Financing (Feb) |  | 2,500.0B | 7,060.0B |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -0.6% |  | -6.9% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jan) | 3.2% | 1.5% | -2.7% |
+| 09:00 | CNY | Chinese Total Social Financing (Feb) | 2,290.0B | 2,500.0B | 7,060.0B |
+| 09:03 | CNY | M2 Money Stock (YoY) (Feb) | 7.0% | 7.1% | 7.0% |
+| 09:04 | CNY | Outstanding Loan Growth (YoY) (Feb) | 7.3% | 7.4% | 7.5% |
+| 23 min | GBP | Inflation Expectations |  |  | 3.0% |
+| 11:00 | INR | Exports (USD) (Feb) |  |  | 36.43B |
+| 11:00 | INR | Imports (USD) (Feb) |  |  | 59.42B |
+| 11:00 | INR | Trade Balance (Feb) |  |  | -22.99B |
 | 11:00 | EUR | Reserve Assets Total (Feb) |  |  | 1,457.53B |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.3% |
 | 11:30 | INR | Deposit Growth |  |  | 10.6% |
@@ -42,6 +41,7 @@
 | 11:30 | BRL | Net Debt-to-GDP ratio (Jan) |  |  | 61.1% |
 | 11:30 | BRL | Budget Balance (Jan) |  | 35.300B | -80.372B |
 | 11:30 | BRL | Budget Surplus (Jan) |  |  | 15.745B |
+| 12:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) |  | 2.0% | 0.3% |
 | 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 135.5K |
 | 13:00 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
