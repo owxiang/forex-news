@@ -7,18 +7,18 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 52.39 |  | 49.91 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Mar) | 35.68 |  | 37.30 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Mar) | 69.48 |  | 70.54 |
-| 07:00 | GBP | Construction Output (MoM) (Jan) | -0.2% | -0.1% | -0.2% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jan) | 0.2% | 0.4% | 1.5% |
+| 07:00 | GBP | Construction Output (MoM) (Jan) | -0.2% | -0.1% | -0.2% |
 | 07:00 | GBP | GDP (YoY) (Jan) | 1.0% | 1.2% | 1.5% |
 | 07:00 | GBP | Index of Services | 0.4% | 0.3% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Jan) | -1.5% | -0.7% | -1.9% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jan) | -1.5% | -0.4% | -1.4% |
 | 07:00 | EUR | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
-| 07:00 | EUR | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
 | 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
-| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 0.80% |  | 0.80% |
+| 07:00 | EUR | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.00% |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI (YoY) (Feb) | 0.8% | 0.8% | 1.7% |
 | 07:45 | EUR | French HICP (YoY) (Feb) | 0.9% | 0.9% | 1.8% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) | 0.70% |  | 1.60% |
