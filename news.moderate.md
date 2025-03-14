@@ -15,8 +15,8 @@
 | 09:00 | CNY | New Loans (Feb) |  | 2,150.0B | 5,130.0B |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 76.2% | 76.1% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
-| 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.1% | 2.0% |
-| 12:00 | BRL | Retail Sales (MoM) (Jan) |  |  | -0.1% |
+| 12:00 | BRL | Retail Sales (MoM) (Jan) |  | -0.2% | -0.1% |
+| 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.9% | 2.0% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Jan) |  | 1.9% | -0.2% |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 4.3% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.5% |

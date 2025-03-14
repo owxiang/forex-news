@@ -27,22 +27,22 @@
 | 07:00 | EUR | Low | German WPI (MoM) (Feb) |  | 0.2% | 0.9% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.70% |
-| 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 0.8% | 1.7% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 0.8% | 1.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.0% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 0.9% | 1.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 1.60% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  | 2.1% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
 | 08:30 | GBP | Low | Inflation Expectations |  |  | 3.0% |
 | 08:40 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
 | 08:40 | INR | Low | Imports (USD) (Feb) |  |  | 59.42B |
 | 08:40 | INR | Low | Trade Balance (Feb) |  |  | -22.99B |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
 | 09:00 | BRL | Low | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Feb) |  | 7.1% | 7.0% |
 | 09:00 | CNY | Moderate | New Loans (Feb) |  | 2,150.0B | 5,130.0B |
@@ -57,19 +57,19 @@
 | 11:30 | BRL | Low | Budget Surplus (Jan) |  |  | 15.745B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  | 76.2% | 76.1% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Feb) |  |  | 0.3% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.1% | 2.0% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  |  | -0.1% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | -0.2% | -0.1% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.9% | 2.0% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | 2.0% | 0.3% |
 | 12:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Jan) |  |  | 135.5K |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  | 1.9% | -0.2% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
+| 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -7.7% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -33.5% |
 | 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  |  | 4.3% |
 | 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  |  | 3.5% |
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 64.3 | 64.0 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 63.1 | 64.7 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 65.0 | 65.7 |
-| 14:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -7.7% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -33.5% |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 18.6K |

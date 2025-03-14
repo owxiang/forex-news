@@ -29,8 +29,8 @@
 | 08:40 | INR | Exports (USD) (Feb) |  |  | 36.43B |
 | 08:40 | INR | Imports (USD) (Feb) |  |  | 59.42B |
 | 08:40 | INR | Trade Balance (Feb) |  |  | -22.99B |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
 | 09:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
 | 09:00 | CNY | M2 Money Stock (YoY) (Feb) |  | 7.1% | 7.0% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Feb) |  | 7.4% | 7.5% |
@@ -45,9 +45,9 @@
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) |  | 2.0% | 0.3% |
 | 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 135.5K |
 | 13:00 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
+| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
+| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 65.0 | 65.7 |
-| 14:00 | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
-| 14:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 335.4K |
