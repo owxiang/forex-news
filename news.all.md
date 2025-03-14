@@ -7,8 +7,8 @@
 | 02:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 52.39 |  | 49.91 |
 | 02:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Mar) | 35.68 |  | 37.30 |
 | 02:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Mar) | 69.48 |  | 70.54 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jan) |  | -0.1% | -0.2% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jan) |  | 0.4% | 1.5% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jan) |  | -0.1% | -0.2% |
 | 07:00 | GBP | High | GDP (MoM) (Jan) |  | 0.1% | 0.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Jan) |  | 1.2% | 1.5% |
 | 07:00 | GBP | Low | Index of Services |  | 0.3% | 0.2% |
@@ -21,22 +21,22 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) |  |  | -6.10B |
 | 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.4% | -0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.3% | 2.3% |
-| 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.8% | 2.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Feb) |  | 0.2% | 0.9% |
 | 07:00 | EUR | Low | German WPI (MoM) (Feb) |  | 0.2% | 0.9% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.70% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | 0.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 1.70% |
 | 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 0.8% | 1.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.2% | 0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.0% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 0.9% | 1.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 1.60% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  | 2.1% | 2.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.4% | 0.2% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.1% |
 | 08:30 | GBP | Low | Inflation Expectations |  |  | 3.0% |
 | 08:40 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
 | 08:40 | INR | Low | Imports (USD) (Feb) |  |  | 59.42B |
