@@ -14,27 +14,27 @@
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.3% | 0.2% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jan) | -1.5% | -0.7% | -1.9% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.9% | -0.1% | 0.5% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | -1.1% | 0.0% | 0.7% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | -1.5% | -0.4% | -1.4% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | -1.1% | 0.0% | 0.7% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | 0.2% | 0.3% | 0.1% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.3% | 2.3% | 2.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) | 0.00% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) | 0.80% |  | 0.80% |
-| 07:45 | EUR | Low | French CPI (YoY) (Feb) | 0.8% | 0.8% | 1.7% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.0% | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Feb) | 0.8% | 0.8% | 1.7% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.1% | 0.0% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) | 0.9% | 0.9% | 1.8% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) | 0.70% |  | 1.60% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 2.2% | 2.1% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 2.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) | -0.6% |  | -6.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) | 3.2% | 1.5% | -2.7% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) (Feb) | 7.0% | 7.1% | 7.0% |
@@ -66,8 +66,8 @@
 | 14:00 | BRL | Low | Auto Production (MoM) (Feb) | 23.8% |  | -7.7% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Feb) | 8.0% |  | -33.5% |
 | 14:47 | CNY | Low | FDI (Feb) | -20.40% |  | -13.40% |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 18.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 13.0K |
