@@ -13,8 +13,8 @@
 | 07:00 | GBP | Index of Services | 0.4% | 0.3% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Jan) | -1.5% | -0.7% | -1.9% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jan) | -1.5% | -0.4% | -1.4% |
-| 07:00 | EUR | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
 | 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
 | 07:00 | EUR | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.00% |  | 0.20% |
@@ -25,25 +25,25 @@
 | 08:00 | EUR | Core CPI (YoY) (Feb) | 2.2% | 2.1% | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.1% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -0.6% |  | -6.9% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) | 3.2% | 1.5% | -2.7% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -0.6% |  | -6.9% |
 | 09:00 | CNY | M2 Money Stock (YoY) (Feb) | 7.0% | 7.1% | 7.0% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Feb) | 7.3% | 7.4% | 7.5% |
 | 09:00 | CNY | Chinese Total Social Financing (Feb) | 2,230.0B | 2,500.0B | 7,060.0B |
 | 09:30 | GBP | Inflation Expectations | 3.4% |  | 3.0% |
 | 11:00 | EUR | Reserve Assets Total (Feb) | 1,477.77B |  | 1,457.53B |
-| 24 min | INR | Bank Loan Growth |  |  | 11.3% |
-| 24 min | INR | Deposit Growth |  |  | 10.6% |
-| 24 min | INR | FX Reserves, USD |  |  | 638.70B |
-| 24 min | BRL | Net Debt-to-GDP ratio (Jan) |  |  | 61.1% |
-| 24 min | BRL | Budget Balance (Jan) |  | 35.300B | -80.372B |
-| 24 min | BRL | Budget Surplus (Jan) |  |  | 15.745B |
-| 54 min | BRL | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
-| 12:30 | CAD | Manufacturing Sales (MoM) (Jan) |  | 2.0% | 0.3% |
-| 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 135.5K |
-| 13:00 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
-| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
-| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
+| 11:30 | INR | Bank Loan Growth | 11.0% |  | 11.3% |
+| 11:30 | INR | Deposit Growth | 10.3% |  | 10.6% |
+| 11:30 | INR | FX Reserves, USD | 653.97B |  | 638.70B |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Jan) | 60.8% |  | 61.1% |
+| 11:30 | BRL | Budget Balance (Jan) | 63.737B | 35.300B | -80.372B |
+| 11:30 | BRL | Budget Surplus (Jan) | 104.096B |  | 15.745B |
+| 12:00 | BRL | Brazilian PPI (MoM) (Jan) | 0.13% |  | 1.48% |
+| 20 min | CAD | Manufacturing Sales (MoM) (Jan) |  | 2.0% | 0.3% |
+| 20 min | CAD | New Motor Vehicle Sales (MoM) (Jan) |  |  | 135.5K |
+| 50 min | EUR | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
+| 50 min | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
+| 50 min | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 65.0 | 65.7 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
