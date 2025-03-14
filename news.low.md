@@ -7,16 +7,16 @@
 | 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 52.39 |  | 49.91 |
 | 02:00 | JPY | Thomson Reuters IPSOS PCSI (Mar) | 35.68 |  | 37.30 |
 | 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Mar) | 69.48 |  | 70.54 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jan) |  | 0.4% | 1.5% |
-| 07:00 | GBP | Construction Output (MoM) (Jan) |  | -0.1% | -0.2% |
-| 07:00 | GBP | GDP (YoY) (Jan) |  | 1.2% | 1.5% |
-| 07:00 | GBP | Index of Services |  | 0.3% | 0.2% |
-| 07:00 | GBP | Industrial Production (YoY) (Jan) |  | -0.7% | -1.9% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Jan) |  | -0.4% | -1.4% |
-| 07:00 | EUR | German HICP (YoY) (Feb) |  | 2.8% | 2.8% |
-| 07:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
-| 07:00 | EUR | German WPI (YoY) (Feb) |  | 0.2% | 0.9% |
-| 07:00 | EUR | German WPI (MoM) (Feb) |  | 0.2% | 0.9% |
+| 51 min | GBP | Construction Output (MoM) (Jan) |  | -0.1% | -0.2% |
+| 51 min | GBP | U.K. Construction Output (YoY) (Jan) |  | 0.4% | 1.5% |
+| 51 min | GBP | GDP (YoY) (Jan) |  | 1.2% | 1.5% |
+| 51 min | GBP | Index of Services |  | 0.3% | 0.2% |
+| 51 min | GBP | Industrial Production (YoY) (Jan) |  | -0.7% | -1.9% |
+| 51 min | GBP | Manufacturing Production (YoY) (Jan) |  | -0.4% | -1.4% |
+| 51 min | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
+| 51 min | EUR | German HICP (YoY) (Feb) |  | 2.8% | 2.8% |
+| 51 min | EUR | German WPI (YoY) (Feb) |  | 0.2% | 0.9% |
+| 51 min | EUR | German WPI (MoM) (Feb) |  | 0.2% | 0.9% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) |  |  | 0.20% |
 | 07:45 | EUR | French CPI NSA (YoY) (Feb) |  |  | 1.70% |
 | 07:45 | EUR | French CPI (YoY) (Feb) |  | 0.8% | 1.7% |
@@ -29,8 +29,8 @@
 | 08:40 | INR | Exports (USD) (Feb) |  |  | 36.43B |
 | 08:40 | INR | Imports (USD) (Feb) |  |  | 59.42B |
 | 08:40 | INR | Trade Balance (Feb) |  |  | -22.99B |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jan) |  |  | -7.1% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Jan) |  | 1.5% | -3.1% |
 | 09:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | 1.48% |
 | 09:00 | CNY | M2 Money Stock (YoY) (Feb) |  | 7.1% | 7.0% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) (Feb) |  | 7.4% | 7.5% |
