@@ -13,8 +13,8 @@
 | 07:00 | GBP | Index of Services | 0.4% | 0.3% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Jan) | -1.5% | -0.7% | -1.9% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jan) | -1.5% | -0.4% | -1.4% |
-| 07:00 | EUR | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.6% | 2.8% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Feb) | 0.5% | 0.6% | -0.2% |
 | 07:00 | EUR | German WPI (MoM) (Feb) | 0.6% | 0.2% | 0.9% |
 | 07:00 | EUR | German WPI (YoY) (Feb) | 1.6% | 0.2% | 0.9% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.00% |  | 0.20% |
@@ -39,12 +39,11 @@
 | 11:30 | BRL | Budget Balance (Jan) | 63.737B | 35.300B | -80.372B |
 | 11:30 | BRL | Budget Surplus (Jan) | 104.096B |  | 15.745B |
 | 12:00 | BRL | Brazilian PPI (MoM) (Jan) | 0.13% |  | 1.35% |
-| 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | 1.7% | 2.0% | 0.3% |
+| 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | 1.7% | 2.0% | 0.5% |
 | 12:30 | CAD | New Motor Vehicle Sales (MoM) (Jan) | 121.6K |  | 135.5K |
-| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -7.7% |
-| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -33.5% |
-| 35 min | EUR | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
-| 50 min | USD | Michigan Current Conditions (Mar) |  | 65.0 | 65.7 |
+| 14:00 | USD | Michigan Current Conditions (Mar) | 63.5 | 65.0 | 65.7 |
+| 14:00 | BRL | Auto Production (MoM) (Feb) | 23.8% |  | -7.7% |
+| 14:00 | BRL | Auto Sales (MoM) (Feb) | 8.0% |  | -33.5% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 13.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 335.4K |
