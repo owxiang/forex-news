@@ -13,15 +13,15 @@
 | 09:00 | CNY | New Loans (Feb) | 1,010.0B | 2,150.0B | 5,130.0B |
 | 11:00 | GBP | NIESR Monthly GDP Tracker (Feb) | 0.4% |  | 0.2% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.3% | 76.2% | 76.1% |
-| 12:00 | BRL | Retail Sales (YoY) (Jan) | 3.1% | 1.9% | 2.0% |
 | 12:00 | BRL | Retail Sales (MoM) (Jan) | -0.1% | -0.2% | -0.3% |
+| 12:00 | BRL | Retail Sales (YoY) (Jan) | 3.1% | 1.9% | 2.0% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Jan) | 1.2% | 1.9% | 0.3% |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 4.9% |  | 4.3% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 3.9% |  | 3.5% |
 | 14:00 | USD | Michigan Consumer Expectations (Mar) | 54.2 | 64.3 | 64.0 |
 | 14:00 | USD | Michigan Consumer Sentiment (Mar) | 57.9 | 63.1 | 64.7 |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 487 |  | 486 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 592 |  | 592 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 18.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 154.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 243.3K |
