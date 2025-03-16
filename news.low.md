@@ -1,3 +1,5 @@
-## 15 March 2025 - Low Impact Forex News
+## 16 March 2025 - Low Impact Forex News
 
-There is no low impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 21:30 | NZD | Performance of Services Index |  |  | 50.4 |
