@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.1% |  | 0.5% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Mar) | 1.0% |  | 1.4% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
 | 00:40 | SGD | Low | Trade Balance (Feb) | 6.160B |  | 3.040B |
 | 01:30 | CNY | Low | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
 | 02:00 | KRW | Low | Exports (YoY) (Feb) | 0.7% | 1.0% | -10.2% |
@@ -28,8 +28,8 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) | 2.38% | 2.36% | 2.31% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) | 2.86% |  | 2.51% |
 | 07:00 | NOK | Low | Trade Balance (Feb) | 84.7B |  | 94.1B |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.6% | 1.7% | 1.5% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 1.5% |  | 1.3% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 1.7% | 1.7% | 1.7% |
@@ -38,19 +38,18 @@
 | 09:15 | INR | Low | Trade Balance (Feb) | -14.05B |  | -22.99B |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 2.133% |  | 2.096% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Jan) |  |  | -0.70% |
-| 12:15 | CAD | Moderate | Housing Starts (Feb) |  | 246.0K | 239.7K |
-| 12:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 12:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | -0.4% |
-| 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | -1.90 | 5.70 |
-| 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.8% |
-| 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.6% | -0.9% |
-| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 4.20% |
-| 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
-| 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 17.44B | 14.37B |
-| 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 3.770B |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | Low | IBC-Br Economic Activity (Jan) | 0.90% | 0.22% | -0.70% |
+| 4 min | CAD | Moderate | Housing Starts (Feb) |  | 246.0K | 239.7K |
+| 4 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 19 min | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | -0.4% |
+| 19 min | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | -1.90 | 5.70 |
+| 19 min | USD | Moderate | Retail Control (MoM) (Feb) |  | 0.2% | -0.8% |
+| 19 min | USD | High | Retail Sales (MoM) (Feb) |  | 0.6% | -0.9% |
+| 19 min | USD | Low | Retail Sales (YoY) (Feb) |  |  | 4.20% |
+| 19 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  | 0.4% | -0.5% |
+| 19 min | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 17.44B | 14.37B |
+| 19 min | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 3.770B |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
 | 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) |  | 0.3% | -0.2% |
 | 14:00 | USD | Low | NAHB Housing Market Index (Mar) |  | 42 | 42 |
