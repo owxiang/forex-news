@@ -50,13 +50,13 @@
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.5% | 0.4% | -0.8% |
 | 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) | 7.91B | 17.44B | 13.94B |
 | 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) | -3.150B |  | 3.770B |
-| 47 min | USD | Moderate | Business Inventories (MoM) (Jan) |  | 0.3% | -0.2% |
-| 47 min | USD | Low | NAHB Housing Market Index (Mar) |  | 42 | 42 |
-| 47 min | USD | Moderate | Retail Inventories Ex Auto (Jan) |  | 0.4% | -0.1% |
-| 47 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.287% |
-| 47 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.395% |
-| 47 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.363% |
-| 47 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) | 0.3% | 0.3% | -0.2% |
+| 14:00 | USD | Low | NAHB Housing Market Index (Mar) | 39 | 42 | 42 |
+| 14:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) | 0.5% | 0.4% | -0.1% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 2.279% |  | 2.287% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.348% |  | 2.395% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.306% |  | 2.363% |
+| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.075% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.4% | -2.4% |

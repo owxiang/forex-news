@@ -37,9 +37,9 @@
 | 12:30 | USD | Retail Sales (YoY) (Feb) | 3.10% |  | 4.20% |
 | 12:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.5% | 0.4% | -0.8% |
 | 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) | -3.150B |  | 3.770B |
-| 47 min | USD | NAHB Housing Market Index (Mar) |  | 42 | 42 |
-| 47 min | EUR | French 12-Month BTF Auction |  |  | 2.287% |
-| 47 min | EUR | French 3-Month BTF Auction |  |  | 2.395% |
-| 47 min | EUR | French 6-Month BTF Auction |  |  | 2.363% |
+| 14:00 | USD | NAHB Housing Market Index (Mar) | 39 | 42 | 42 |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.279% |  | 2.287% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.348% |  | 2.395% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.306% |  | 2.363% |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 4.200% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 4.075% |
