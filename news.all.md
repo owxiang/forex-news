@@ -28,17 +28,17 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) | 2.38% | 2.36% | 2.31% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) | 2.86% |  | 2.51% |
 | 07:00 | NOK | Low | Trade Balance (Feb) | 84.7B |  | 94.1B |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.6% | 1.7% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 1.6% | 1.7% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 1.5% |  | 1.3% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 1.7% | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
-| 22 min | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.096% |
-| 11:00 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
-| 11:00 | INR | Low | Imports (USD) (Feb) |  |  | 59.42B |
-| 11:00 | INR | Low | Trade Balance (Feb) |  |  | -22.99B |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:15 | INR | Low | Exports (USD) (Feb) | 36.91B |  | 36.43B |
+| 09:15 | INR | Low | Imports (USD) (Feb) | 50.96B |  | 59.42B |
+| 09:15 | INR | Low | Trade Balance (Feb) | -14.05B |  | -22.99B |
+| 10:00 | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
+| 23 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.096% |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Jan) |  |  | -0.70% |
 | 12:15 | CAD | Moderate | Housing Starts (Feb) |  | 246.0K | 239.7K |
