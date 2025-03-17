@@ -3,24 +3,27 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.1% |  | 0.5% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Mar) |  |  | 1.4% |
+| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Mar) | 1.0% |  | 1.4% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
-| 00:40 | SGD | Low | Trade Balance (Feb) |  |  | 2.930B |
+| 00:40 | SGD | Low | Trade Balance (Feb) | 6.160B |  | 3.040B |
 | 01:30 | CNY | Low | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
+| 02:00 | KRW | Low | Exports (YoY) (Feb) | 0.7% | 1.0% | -10.2% |
+| 02:00 | KRW | Low | Imports (YoY) (Feb) | 0.2% | 0.2% | -6.4% |
+| 02:00 | KRW | Low | Trade Balance (Feb) | 4.15B | 4.30B | -1.86B |
 | 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) | 4.1% | 3.2% | 3.2% |
 | 02:00 | CNY | Moderate | Industrial Production (YoY) (Feb) | 5.9% | 5.3% | 6.2% |
 | 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Feb) | 5.9% |  | 5.8% |
-| 02:00 | CNY | Low | Retail Sales (YoY) (Feb) | 4.0% | 4.0% | 3.7% |
+| 02:00 | CNY | Low | Retail Sales (YoY) (Feb) | 4.0% | 3.8% | 3.7% |
 | 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) | 2.98% |  | 3.48% |
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Feb) | 5.4% | 5.1% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 03:00 | KRW | Low | M3 Money Supply (Jan) | 5,709.9B |  | 5,661.9B |
 | 03:00 | KRW | Low | M2 Money supply (Jan) | 5.70% |  | 5.10% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Feb) | 14.05% | 9.10% | 4.68% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Feb) |  | 0.60% | -2.67% |
-| 04:00 | IDR | Low | Trade Balance (Feb) |  | 2.45B | 3.45B |
+| 04:00 | IDR | Low | Import Growth (YoY) (Feb) | 2.30% | 0.60% | -2.67% |
+| 04:00 | IDR | Low | Trade Balance (Feb) | 3.12B | 2.45B | 3.49B |
+| 23 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 06:30 | INR | Low | WPI Food (YoY) (Feb) |  |  | 5.88% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Feb) |  |  | -2.78% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) |  | 2.36% | 2.31% |
@@ -60,6 +63,3 @@
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.075% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.4% | -2.4% |
-| 23:55 | KRW | Low | Exports (YoY) (Feb) |  | 1.0% | 1.0% |
-| 23:55 | KRW | Low | Imports (YoY) (Feb) |  | 0.2% | 0.2% |
-| 23:55 | KRW | Low | Trade Balance (Feb) |  | 4.30B | 4.30B |
