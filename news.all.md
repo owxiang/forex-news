@@ -16,11 +16,11 @@
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Feb) | 5.4% | 5.1% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 27 min | KRW | Low | M3 Money Supply (Jan) |  |  | 5,649.1B |
-| 27 min | KRW | Low | M2 Money supply (Jan) |  |  | 5.10% |
-| 04:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 9.10% | 4.68% |
-| 04:00 | IDR | Low | Import Growth (YoY) (Feb) |  | 0.60% | -2.67% |
-| 04:00 | IDR | Low | Trade Balance (Feb) |  | 2.45B | 3.45B |
+| 03:00 | KRW | Low | M3 Money Supply (Jan) | 5,709.9B |  | 5,661.9B |
+| 03:00 | KRW | Low | M2 Money supply (Jan) | 5.70% |  | 5.10% |
+| 43 min | IDR | Low | Export Growth (YoY) (Feb) |  | 9.10% | 4.68% |
+| 43 min | IDR | Low | Import Growth (YoY) (Feb) |  | 0.60% | -2.67% |
+| 43 min | IDR | Low | Trade Balance (Feb) |  | 2.45B | 3.45B |
 | 06:30 | INR | Low | WPI Food (YoY) (Feb) |  |  | 5.88% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Feb) |  |  | -2.78% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) |  | 2.36% | 2.31% |
@@ -29,8 +29,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.096% |
 | 11:00 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
