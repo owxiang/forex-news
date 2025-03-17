@@ -1,3 +1,6 @@
-## 16 March 2025 - High Impact Forex News
+## 17 March 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 12:30 | USD | Core Retail Sales (MoM) (Feb) |  | 0.3% | -0.4% |
+| 12:30 | USD | Retail Sales (MoM) (Feb) |  | 0.6% | -0.9% |
