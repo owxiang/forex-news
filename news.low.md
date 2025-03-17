@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) |  |  | 0.5% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 0.5% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Mar) |  |  | 1.4% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
 | 00:40 | SGD | Trade Balance (Feb) |  |  | 2.930B |
 | 01:30 | CNY | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
 | 02:00 | CNY | Retail Sales (YoY) (Feb) | 4.0% | 4.0% | 3.7% |
@@ -13,9 +13,9 @@
 | 02:30 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 03:00 | KRW | M3 Money Supply (Jan) | 5,709.9B |  | 5,661.9B |
 | 03:00 | KRW | M2 Money supply (Jan) | 5.70% |  | 5.10% |
-| 43 min | IDR | Export Growth (YoY) (Feb) |  | 9.10% | 4.68% |
-| 43 min | IDR | Import Growth (YoY) (Feb) |  | 0.60% | -2.67% |
-| 43 min | IDR | Trade Balance (Feb) |  | 2.45B | 3.45B |
+| 04:00 | IDR | Export Growth (YoY) (Feb) | 14.05% | 9.10% | 4.68% |
+| 04:00 | IDR | Import Growth (YoY) (Feb) |  | 0.60% | -2.67% |
+| 04:00 | IDR | Trade Balance (Feb) |  | 2.45B | 3.45B |
 | 06:30 | INR | WPI Food (YoY) (Feb) |  |  | 5.88% |
 | 06:30 | INR | WPI Fuel (YoY) (Feb) |  |  | -2.78% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.51% |
@@ -23,8 +23,8 @@
 | 09:00 | EUR | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
-| 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
+| 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Spanish Trade Balance (Jan) |  |  | -4.12B |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.096% |
 | 11:00 | INR | Exports (USD) (Feb) |  |  | 36.43B |
