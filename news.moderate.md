@@ -16,4 +16,4 @@
 | 14:00 | USD | Business Inventories (MoM) (Jan) | 0.3% | 0.3% | -0.2% |
 | 14:00 | USD | Retail Inventories Ex Auto (Jan) | 0.5% | 0.4% | -0.1% |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.4% | -2.4% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q1) | -2.1% | -2.4% | -2.4% |
