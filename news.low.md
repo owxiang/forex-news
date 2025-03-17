@@ -22,13 +22,12 @@
 | 06:30 | INR | WPI Fuel (YoY) (Feb) | -0.71% |  | -2.78% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) | 2.86% |  | 2.51% |
 | 07:00 | NOK | Trade Balance (Feb) | 84.7B |  | 94.1B |
-| 53 min | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 09:00 | EUR | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
-| 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
-| 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
-| 09:00 | EUR | Spanish Trade Balance (Jan) |  |  | -4.12B |
+| 51 min | EUR | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
+| 51 min | EUR | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
+| 51 min | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
+| 51 min | EUR | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
+| 51 min | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
+| 51 min | EUR | Spanish Trade Balance (Jan) |  |  | -4.12B |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.096% |
 | 11:00 | INR | Exports (USD) (Feb) |  |  | 36.43B |
 | 11:00 | INR | Imports (USD) (Feb) |  |  | 59.42B |

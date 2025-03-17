@@ -28,13 +28,12 @@
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) | 2.38% | 2.36% | 2.31% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) | 2.86% |  | 2.51% |
 | 07:00 | NOK | Low | Trade Balance (Feb) | 84.7B |  | 94.1B |
-| 53 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
+| 51 min | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
+| 51 min | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
+| 51 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
+| 51 min | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
+| 51 min | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
+| 51 min | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.096% |
 | 11:00 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
 | 11:00 | INR | Low | Imports (USD) (Feb) |  |  | 59.42B |
@@ -47,8 +46,8 @@
 | 12:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | -0.4% |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | -1.90 | 5.70 |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.8% |
-| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 4.20% |
 | 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.6% | -0.9% |
+| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 4.20% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 17.44B | 14.37B |
 | 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 3.770B |
