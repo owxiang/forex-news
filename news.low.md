@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 0.5% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Mar) | 1.0% |  | 1.4% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
 | 00:40 | SGD | Trade Balance (Feb) | 6.160B |  | 3.040B |
 | 01:30 | CNY | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
 | 02:00 | KRW | Exports (YoY) (Feb) | 0.7% | 1.0% | -10.2% |
@@ -22,8 +22,8 @@
 | 06:30 | INR | WPI Fuel (YoY) (Feb) | -0.71% |  | -2.78% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) | 2.86% |  | 2.51% |
 | 07:00 | NOK | Trade Balance (Feb) | 84.7B |  | 94.1B |
-| 09:00 | EUR | Italian CPI (YoY) (Feb) | 1.6% | 1.7% | 1.5% |
 | 09:00 | EUR | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
+| 09:00 | EUR | Italian CPI (YoY) (Feb) | 1.6% | 1.7% | 1.5% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 1.5% |  | 1.3% |
 | 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
 | 09:00 | EUR | Italian HICP (YoY) (Feb) | 1.7% | 1.7% | 1.7% |
@@ -33,14 +33,13 @@
 | 10:50 | EUR | German 12-Month Bubill Auction | 2.133% |  | 2.096% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.90% | 0.22% | -0.70% |
-| 19 min | USD | Retail Sales (YoY) (Feb) |  |  | 4.20% |
-| 19 min | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) |  | 0.4% | -0.5% |
-| 19 min | CAD | Foreign Securities Purchases by Canadians (Jan) |  |  | 3.770B |
-| 13:45 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 24.0B |
-| 14:00 | USD | NAHB Housing Market Index (Mar) |  | 42 | 42 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.287% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.395% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.363% |
+| 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.90% | 0.22% | -0.60% |
+| 12:30 | USD | Retail Sales (YoY) (Feb) | 3.10% |  | 4.20% |
+| 12:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.5% | 0.4% | -0.8% |
+| 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) | -3.150B |  | 3.770B |
+| 47 min | USD | NAHB Housing Market Index (Mar) |  | 42 | 42 |
+| 47 min | EUR | French 12-Month BTF Auction |  |  | 2.287% |
+| 47 min | EUR | French 3-Month BTF Auction |  |  | 2.395% |
+| 47 min | EUR | French 6-Month BTF Auction |  |  | 2.363% |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 4.200% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 4.075% |
