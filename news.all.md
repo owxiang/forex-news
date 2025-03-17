@@ -23,17 +23,17 @@
 | 04:00 | IDR | Low | Export Growth (YoY) (Feb) | 14.05% | 9.10% | 4.68% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Feb) | 2.30% | 0.60% | -2.67% |
 | 04:00 | IDR | Low | Trade Balance (Feb) | 3.12B | 2.45B | 3.49B |
-| 21 min | INR | Low | WPI Food (YoY) (Feb) |  |  | 5.88% |
-| 21 min | INR | Low | WPI Fuel (YoY) (Feb) |  |  | -2.78% |
-| 21 min | INR | Moderate | WPI Inflation (YoY) (Feb) |  | 2.36% | 2.31% |
-| 21 min | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.51% |
-| 51 min | NOK | Low | Trade Balance (Feb) |  |  | 94.8B |
-| 08:00 | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 06:30 | INR | Low | WPI Food (YoY) (Feb) | 3.38% |  | 5.88% |
+| 06:30 | INR | Low | WPI Fuel (YoY) (Feb) | -0.71% |  | -2.78% |
+| 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) | 2.38% | 2.36% | 2.31% |
+| 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) | 2.86% |  | 2.51% |
+| 07:00 | NOK | Low | Trade Balance (Feb) | 84.7B |  | 94.1B |
+| 53 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.096% |
 | 11:00 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
@@ -47,8 +47,8 @@
 | 12:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | -0.4% |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | -1.90 | 5.70 |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.8% |
-| 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.6% | -0.9% |
 | 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 4.20% |
+| 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.6% | -0.9% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 17.44B | 14.37B |
 | 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 3.770B |
