@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 0.5% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Mar) | 1.0% |  | 1.4% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
 | 00:40 | SGD | Trade Balance (Feb) | 6.160B |  | 3.040B |
 | 01:30 | CNY | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
 | 02:00 | KRW | Exports (YoY) (Feb) | 0.7% | 1.0% | -10.2% |
@@ -25,8 +25,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Italian CPI (YoY) (Feb) | 1.6% | 1.7% | 1.5% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 1.5% |  | 1.3% |
-| 09:00 | EUR | Italian HICP (YoY) (Feb) | 1.7% | 1.7% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
+| 09:00 | EUR | Italian HICP (YoY) (Feb) | 1.7% | 1.7% | 1.7% |
 | 09:15 | INR | Exports (USD) (Feb) | 36.91B |  | 36.43B |
 | 09:15 | INR | Imports (USD) (Feb) | 50.96B |  | 59.42B |
 | 09:15 | INR | Trade Balance (Feb) | -14.05B |  | -22.99B |
