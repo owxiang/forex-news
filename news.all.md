@@ -57,6 +57,6 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.348% |  | 2.395% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.306% |  | 2.363% |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
-| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.075% |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.075% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.4% | -2.4% |

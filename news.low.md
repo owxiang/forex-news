@@ -41,5 +41,5 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.279% |  | 2.287% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.348% |  | 2.395% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.306% |  | 2.363% |
-| 15:30 | USD | 3-Month Bill Auction |  |  | 4.200% |
-| 15:30 | USD | 6-Month Bill Auction |  |  | 4.075% |
+| 24 min | USD | 3-Month Bill Auction |  |  | 4.200% |
+| 24 min | USD | 6-Month Bill Auction |  |  | 4.075% |
