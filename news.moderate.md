@@ -7,7 +7,7 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Feb) | 5.9% |  | 5.8% |
 | 02:00 | CNY | Chinese Unemployment Rate (Feb) | 5.4% | 5.1% | 5.1% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 06:30 | INR | WPI Inflation (YoY) (Feb) |  | 2.36% | 2.31% |
+| 21 min | INR | WPI Inflation (YoY) (Feb) |  | 2.36% | 2.31% |
 | 12:15 | CAD | Housing Starts (Feb) |  | 246.0K | 239.7K |
 | 12:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:30 | USD | NY Empire State Manufacturing Index (Mar) |  | -1.90 | 5.70 |

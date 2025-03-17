@@ -18,11 +18,11 @@
 | 04:00 | IDR | Export Growth (YoY) (Feb) | 14.05% | 9.10% | 4.68% |
 | 04:00 | IDR | Import Growth (YoY) (Feb) | 2.30% | 0.60% | -2.67% |
 | 04:00 | IDR | Trade Balance (Feb) | 3.12B | 2.45B | 3.49B |
-| 23 min | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 06:30 | INR | WPI Food (YoY) (Feb) |  |  | 5.88% |
-| 06:30 | INR | WPI Fuel (YoY) (Feb) |  |  | -2.78% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.51% |
-| 07:00 | NOK | Trade Balance (Feb) |  |  | 94.8B |
+| 21 min | INR | WPI Food (YoY) (Feb) |  |  | 5.88% |
+| 21 min | INR | WPI Fuel (YoY) (Feb) |  |  | -2.78% |
+| 21 min | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | 2.51% |
+| 51 min | NOK | Trade Balance (Feb) |  |  | 94.8B |
+| 08:00 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 09:00 | EUR | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
