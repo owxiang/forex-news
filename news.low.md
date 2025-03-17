@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) |  |  | 0.5% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Mar) |  |  | 1.4% |
-| 1 min | SGD | Non-Oil Exports (YoY) (Feb) |  | 8.70% | -2.10% |
-| 1 min | SGD | Non-Oil Exports (MoM) (Feb) |  | 2.50% | -3.30% |
-| 11 min | SGD | Trade Balance (Feb) |  |  | 2.930B |
-| 01:30 | CNY | House Prices (YoY) (Feb) |  |  | -5.0% |
-| 02:00 | CNY | Retail Sales (YoY) (Feb) |  | 4.0% | 3.7% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 3.48% |
-| 02:30 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
+| 00:40 | SGD | Trade Balance (Feb) |  |  | 2.930B |
+| 01:30 | CNY | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
+| 26 min | CNY | Retail Sales (YoY) (Feb) |  | 4.0% | 3.7% |
+| 26 min | CNY | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 3.48% |
+| 56 min | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 03:00 | KRW | M3 Money Supply (Jan) |  |  | 5,649.1B |
 | 03:00 | KRW | M2 Money supply (Jan) |  |  | 5.10% |
 | 04:00 | IDR | Export Growth (YoY) (Feb) |  | 9.10% | 4.68% |

@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 0.5% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Mar) |  |  | 1.4% |
-| 1 min | SGD | Low | Non-Oil Exports (YoY) (Feb) |  | 8.70% | -2.10% |
-| 1 min | SGD | Low | Non-Oil Exports (MoM) (Feb) |  | 2.50% | -3.30% |
-| 11 min | SGD | Low | Trade Balance (Feb) |  |  | 2.930B |
-| 01:30 | CNY | Low | House Prices (YoY) (Feb) |  |  | -5.0% |
-| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) |  | 3.2% | 3.2% |
-| 02:00 | CNY | Moderate | Industrial Production (YoY) (Feb) |  | 5.3% | 6.2% |
-| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.8% |
-| 02:00 | CNY | Low | Retail Sales (YoY) (Feb) |  | 4.0% | 3.7% |
-| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 3.48% |
-| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
-| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
+| 00:40 | SGD | Low | Trade Balance (Feb) |  |  | 2.930B |
+| 01:30 | CNY | Low | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
+| 26 min | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) |  | 3.2% | 3.2% |
+| 26 min | CNY | Moderate | Industrial Production (YoY) (Feb) |  | 5.3% | 6.2% |
+| 26 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.8% |
+| 26 min | CNY | Low | Retail Sales (YoY) (Feb) |  | 4.0% | 3.7% |
+| 26 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 3.48% |
+| 26 min | CNY | Moderate | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
+| 26 min | CNY | Moderate | NBS Press Conference |  |  |  |
+| 56 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 03:00 | KRW | Low | M3 Money Supply (Jan) |  |  | 5,649.1B |
 | 03:00 | KRW | Low | M2 Money supply (Jan) |  |  | 5.10% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 9.10% | 4.68% |

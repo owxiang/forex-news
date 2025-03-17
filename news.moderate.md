@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Feb) |  | 3.2% | 3.2% |
-| 02:00 | CNY | Industrial Production (YoY) (Feb) |  | 5.3% | 6.2% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.8% |
-| 02:00 | CNY | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
+| 26 min | CNY | Fixed Asset Investment (YoY) (Feb) |  | 3.2% | 3.2% |
+| 26 min | CNY | Industrial Production (YoY) (Feb) |  | 5.3% | 6.2% |
+| 26 min | CNY | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.8% |
+| 26 min | CNY | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
+| 26 min | CNY | NBS Press Conference |  |  |  |
 | 06:30 | INR | WPI Inflation (YoY) (Feb) |  | 2.36% | 2.31% |
 | 12:15 | CAD | Housing Starts (Feb) |  | 246.0K | 239.7K |
 | 12:15 | EUR | German Buba Mauderer Speaks |  |  |  |
