@@ -4,20 +4,20 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 0.5% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Mar) |  |  | 1.4% |
-| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
 | 00:30 | SGD | Low | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
+| 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
 | 00:40 | SGD | Low | Trade Balance (Feb) |  |  | 2.930B |
 | 01:30 | CNY | Low | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
-| 26 min | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) |  | 3.2% | 3.2% |
-| 26 min | CNY | Moderate | Industrial Production (YoY) (Feb) |  | 5.3% | 6.2% |
-| 26 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Feb) |  |  | 5.8% |
-| 26 min | CNY | Low | Retail Sales (YoY) (Feb) |  | 4.0% | 3.7% |
-| 26 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 3.48% |
-| 26 min | CNY | Moderate | Chinese Unemployment Rate (Feb) |  | 5.1% | 5.1% |
-| 26 min | CNY | Moderate | NBS Press Conference |  |  |  |
-| 56 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 03:00 | KRW | Low | M3 Money Supply (Jan) |  |  | 5,649.1B |
-| 03:00 | KRW | Low | M2 Money supply (Jan) |  |  | 5.10% |
+| 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) | 4.1% | 3.2% | 3.2% |
+| 02:00 | CNY | Moderate | Industrial Production (YoY) (Feb) | 5.9% | 5.3% | 6.2% |
+| 02:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Feb) | 5.9% |  | 5.8% |
+| 02:00 | CNY | Low | Retail Sales (YoY) (Feb) | 4.0% | 4.0% | 3.7% |
+| 02:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Feb) | 2.98% |  | 3.48% |
+| 02:00 | CNY | Moderate | Chinese Unemployment Rate (Feb) | 5.4% | 5.1% | 5.1% |
+| 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 27 min | KRW | Low | M3 Money Supply (Jan) |  |  | 5,649.1B |
+| 27 min | KRW | Low | M2 Money supply (Jan) |  |  | 5.10% |
 | 04:00 | IDR | Low | Export Growth (YoY) (Feb) |  | 9.10% | 4.68% |
 | 04:00 | IDR | Low | Import Growth (YoY) (Feb) |  | 0.60% | -2.67% |
 | 04:00 | IDR | Low | Trade Balance (Feb) |  | 2.45B | 3.45B |
@@ -29,8 +29,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 1.7% | 1.5% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 1.3% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -0.8% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Jan) |  |  | -4.12B |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.096% |
 | 11:00 | INR | Low | Exports (USD) (Feb) |  |  | 36.43B |
@@ -44,8 +44,8 @@
 | 12:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.3% | -0.4% |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | -1.90 | 5.70 |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.8% |
-| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 4.20% |
 | 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.6% | -0.9% |
+| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 4.20% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 17.44B | 14.37B |
 | 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 3.770B |
