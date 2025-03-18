@@ -5,10 +5,10 @@
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) | -10.00 |  | 7.40 |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 22 min | HKD | Unemployment Rate (Feb) |  |  | 3.1% |
-| 52 min | EUR | Italian Trade Balance (Jan) |  | 5.150B | 5.980B |
-| 52 min | EUR | Italian Trade Balance EU (Jan) |  |  | -1.86B |
-| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.294% |
+| 08:30 | HKD | Unemployment Rate (Feb) | 3.2% |  | 3.1% |
+| 09:00 | EUR | Italian Trade Balance (Jan) | -0.264B | 5.150B | 5.820B |
+| 09:00 | EUR | Italian Trade Balance EU (Jan) | -0.64B |  | -2.02B |
+| 53 min | GBP | 4-Year Treasury Gilt Auction |  |  | 4.294% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | 0.9% |
 | 11:30 | EUR | Spanish Trade Balance (Jan) |  |  | -4.12B |
