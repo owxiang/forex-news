@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 26 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 26 min | NZD | Low | RBNZ Offshore Holdings (Feb) |  |  | 59.30% |
+| 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
+| 28 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Low | Unemployment Rate (Feb) |  |  | 3.1% |
@@ -23,13 +23,13 @@
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.450M | 1.473M |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) |  | 2.0% | 1.3% |
 | 12:30 | USD | Low | Export Price Index (YoY) (Feb) |  |  | 2.7% |
-| 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.380M | 1.366M |
 | 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -9.8% |
+| 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.380M | 1.366M |
 | 12:30 | USD | Low | Import Price Index (YoY) (Feb) |  |  | 1.9% |
 | 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) |  | -0.1% | 0.3% |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 2.2% | 2.2% |
-| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.4% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.1% |
+| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.4% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
 | 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) |  | 2.7% | 2.7% |
@@ -44,8 +44,8 @@
 | 17:15 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.1% | -2.1% |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.247M |
-| 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -26.99B |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -6.66B | -10.58B |
+| 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -26.99B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) |  |  | -6.40% |
 | 23:00 | JPY | Low | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
