@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 02:00 | NZD | RBNZ Offshore Holdings (Feb) |  |  | 59.30% |
+| 26 min | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 26 min | NZD | RBNZ Offshore Holdings (Feb) |  |  | 59.30% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Unemployment Rate (Feb) |  |  | 3.1% |
@@ -29,6 +29,6 @@
 | 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -6.40% |
 | 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
-| 23:50 | JPY | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
 | 23:50 | JPY | Imports (YoY) (Feb) |  | 0.1% | 16.7% |

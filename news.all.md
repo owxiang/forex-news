@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) |  |  | 59.30% |
+| 26 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 26 min | NZD | Low | RBNZ Offshore Holdings (Feb) |  |  | 59.30% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Low | Unemployment Rate (Feb) |  |  | 3.1% |
@@ -21,8 +21,8 @@
 | 12:00 | USD | Low | Milk Auctions |  |  | 4,209.0 |
 | 12:30 | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.6% |
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.450M | 1.473M |
-| 12:30 | USD | Low | Export Price Index (YoY) (Feb) |  |  | 2.7% |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) |  | 2.0% | 1.3% |
+| 12:30 | USD | Low | Export Price Index (YoY) (Feb) |  |  | 2.7% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.380M | 1.366M |
 | 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -9.8% |
 | 12:30 | USD | Low | Import Price Index (YoY) (Feb) |  |  | 1.9% |
@@ -30,8 +30,8 @@
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 2.2% | 2.2% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.4% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.1% |
-| 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
+| 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) |  | 2.7% | 2.7% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 2.8% | 2.7% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
@@ -50,8 +50,8 @@
 | 23:00 | JPY | Low | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | 0.51T | -0.86T |
-| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
 | 23:50 | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
+| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
 | 23:50 | JPY | Moderate | Exports (YoY) (Feb) |  | 12.1% | 7.2% |
 | 23:50 | JPY | Low | Imports (YoY) (Feb) |  | 0.1% | 16.7% |
 | 23:50 | JPY | Moderate | Trade Balance (Feb) |  | 722.8B | -2,758.8B |
