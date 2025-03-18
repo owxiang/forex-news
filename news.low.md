@@ -12,18 +12,18 @@
 | 10:00 | GBP | 4-Year Treasury Gilt Auction | 4.263% |  | 4.294% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) | 0.0% |  | 0.9% |
-| 19 min | USD | Building Permits (MoM) (Feb) |  |  | -0.6% |
-| 19 min | USD | Export Price Index (YoY) (Feb) |  |  | 2.7% |
-| 19 min | USD | Import Price Index (YoY) (Feb) |  |  | 1.9% |
-| 19 min | CAD | Common CPI (YoY) (Feb) |  | 2.2% | 2.2% |
-| 19 min | CAD | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
-| 19 min | CAD | Median CPI (YoY) (Feb) |  | 2.7% | 2.7% |
-| 19 min | CAD | Trimmed CPI (YoY) (Feb) |  | 2.8% | 2.7% |
-| 44 min | USD | Redbook (YoY) |  |  | 5.7% |
-| 13:15 | USD | Capacity Utilization Rate (Feb) |  | 77.8% | 77.8% |
-| 13:15 | USD | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.1% |
-| 14:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.5% |
-| 14:00 | USD | Milk Auctions |  |  | 4,209.0 |
+| 12:30 | USD | Building Permits (MoM) (Feb) | -1.2% |  | -0.6% |
+| 12:30 | USD | Export Price Index (YoY) (Feb) | 2.1% |  | 2.7% |
+| 12:30 | USD | Import Price Index (YoY) (Feb) | 2.0% | 1.6% | 1.9% |
+| 12:30 | CAD | Common CPI (YoY) (Feb) | 2.5% | 2.2% | 2.2% |
+| 12:30 | CAD | CPI (YoY) (Feb) | 2.6% | 2.1% | 1.9% |
+| 12:30 | CAD | Median CPI (YoY) (Feb) | 2.9% | 2.7% | 2.7% |
+| 12:30 | CAD | Trimmed CPI (YoY) (Feb) | 2.9% | 2.8% | 2.7% |
+| 12:55 | USD | Redbook (YoY) | 5.2% |  | 5.7% |
+| 3 min | USD | Capacity Utilization Rate (Feb) |  | 77.8% | 77.8% |
+| 3 min | USD | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.1% |
+| 48 min | NZD | GlobalDairyTrade Price Index |  |  | -0.5% |
+| 48 min | USD | Milk Auctions |  |  | 4,209.0 |
 | 15:30 | USD | 52-Week Bill Auction |  |  | 4.050% |
 | 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -6.40% |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |

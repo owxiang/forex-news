@@ -16,28 +16,28 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | 39.8 | 43.6 | 24.2 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) | 0.0% |  | 0.9% |
-| 19 min | USD | Moderate | Building Permits (Feb) |  | 1.450M | 1.473M |
-| 19 min | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.6% |
-| 19 min | USD | Moderate | Export Price Index (MoM) (Feb) |  | -0.2% | 1.3% |
-| 19 min | USD | Low | Export Price Index (YoY) (Feb) |  |  | 2.7% |
-| 19 min | USD | Moderate | Housing Starts (Feb) |  | 1.380M | 1.366M |
-| 19 min | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -9.8% |
-| 19 min | USD | Low | Import Price Index (YoY) (Feb) |  |  | 1.9% |
-| 19 min | USD | Moderate | Import Price Index (MoM) (Feb) |  | -0.1% | 0.3% |
-| 19 min | CAD | Low | Common CPI (YoY) (Feb) |  | 2.2% | 2.2% |
-| 19 min | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.1% |
-| 19 min | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.4% |
-| 19 min | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
-| 19 min | CAD | Low | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
-| 19 min | CAD | Low | Median CPI (YoY) (Feb) |  | 2.7% | 2.7% |
-| 19 min | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 2.8% | 2.7% |
-| 44 min | USD | Low | Redbook (YoY) |  |  | 5.7% |
-| 13:15 | USD | Low | Capacity Utilization Rate (Feb) |  | 77.8% | 77.8% |
-| 13:15 | USD | Moderate | Industrial Production (YoY) (Feb) |  |  | 2.00% |
-| 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) |  | 0.2% | 0.5% |
-| 13:15 | USD | Low | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.1% |
-| 14:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.5% |
-| 14:00 | USD | Low | Milk Auctions |  |  | 4,209.0 |
+| 12:30 | USD | Moderate | Building Permits (Feb) | 1.456M | 1.450M | 1.473M |
+| 12:30 | USD | Low | Building Permits (MoM) (Feb) | -1.2% |  | -0.6% |
+| 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) | 0.1% | -0.2% | 1.3% |
+| 12:30 | USD | Low | Export Price Index (YoY) (Feb) | 2.1% |  | 2.7% |
+| 12:30 | USD | Moderate | Housing Starts (Feb) | 1.501M | 1.380M | 1.350M |
+| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) | 11.2% |  | -11.5% |
+| 12:30 | USD | Low | Import Price Index (YoY) (Feb) | 2.0% | 1.6% | 1.9% |
+| 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) | 0.4% | -0.1% | 0.4% |
+| 12:30 | CAD | Low | Common CPI (YoY) (Feb) | 2.5% | 2.2% | 2.2% |
+| 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) | 2.7% |  | 2.1% |
+| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
+| 12:30 | CAD | Moderate | CPI (MoM) (Feb) | 1.1% | 0.6% | 0.1% |
+| 12:30 | CAD | Low | CPI (YoY) (Feb) | 2.6% | 2.1% | 1.9% |
+| 12:30 | CAD | Low | Median CPI (YoY) (Feb) | 2.9% | 2.7% | 2.7% |
+| 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) | 2.9% | 2.8% | 2.7% |
+| 12:55 | USD | Low | Redbook (YoY) | 5.2% |  | 5.7% |
+| 3 min | USD | Low | Capacity Utilization Rate (Feb) |  | 77.8% | 77.8% |
+| 3 min | USD | Moderate | Industrial Production (YoY) (Feb) |  |  | 2.00% |
+| 3 min | USD | Moderate | Industrial Production (MoM) (Feb) |  | 0.2% | 0.5% |
+| 3 min | USD | Low | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.1% |
+| 48 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.5% |
+| 48 min | USD | Low | Milk Auctions |  |  | 4,209.0 |
 | 15:30 | USD | Low | 52-Week Bill Auction |  |  | 4.050% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.830% |
 | 17:15 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.1% | -2.1% |
