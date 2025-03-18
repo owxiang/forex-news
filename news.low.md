@@ -5,13 +5,13 @@
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) | -10.00 |  | 7.40 |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 08:30 | EUR | Spanish Trade Balance (Jan) | -6.19B |  | -4.12B |
 | 08:30 | HKD | Unemployment Rate (Feb) | 3.2% |  | 3.1% |
 | 09:00 | EUR | Italian Trade Balance (Jan) | -0.264B | 5.150B | 5.820B |
 | 09:00 | EUR | Italian Trade Balance EU (Jan) | -0.64B |  | -2.02B |
-| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.294% |
-| 53 min | EUR | German Buba Monthly Report |  |  |  |
-| 53 min | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | 0.9% |
-| 11:30 | EUR | Spanish Trade Balance (Jan) |  |  | -4.12B |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction | 4.263% |  | 4.294% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) | 0.0% |  | 0.9% |
 | 12:30 | USD | Building Permits (MoM) (Feb) |  |  | -0.6% |
 | 12:30 | USD | Export Price Index (YoY) (Feb) |  |  | 2.7% |
 | 12:30 | USD | Import Price Index (YoY) (Feb) |  |  | 1.9% |
