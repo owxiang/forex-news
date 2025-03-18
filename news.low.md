@@ -1,45 +1,34 @@
-## 17 March 2025 - Low Impact Forex News
+## 18 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 0.5% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Mar) | 1.0% |  | 1.4% |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | 7.60% | 8.70% | -2.10% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | 2.60% | 2.50% | -3.30% |
-| 00:40 | SGD | Trade Balance (Feb) | 6.160B |  | 3.040B |
-| 01:30 | CNY | House Prices (YoY) (Feb) | -4.8% |  | -5.0% |
-| 02:00 | KRW | Exports (YoY) (Feb) | 0.7% | 1.0% | -10.2% |
-| 02:00 | KRW | Imports (YoY) (Feb) | 0.2% | 0.2% | -6.4% |
-| 02:00 | KRW | Trade Balance (Feb) | 4.15B | 4.30B | -1.86B |
-| 02:00 | CNY | Retail Sales (YoY) (Feb) | 4.0% | 3.8% | 3.7% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 2.98% |  | 3.48% |
-| 03:00 | KRW | M3 Money Supply (Jan) | 5,709.9B |  | 5,661.9B |
-| 03:00 | KRW | M2 Money supply (Jan) | 5.70% |  | 5.10% |
-| 04:00 | IDR | Export Growth (YoY) (Feb) | 14.05% | 9.10% | 4.68% |
-| 04:00 | IDR | Import Growth (YoY) (Feb) | 2.30% | 0.60% | -2.67% |
-| 04:00 | IDR | Trade Balance (Feb) | 3.12B | 2.45B | 3.49B |
-| 06:30 | INR | WPI Food (YoY) (Feb) | 3.38% |  | 5.88% |
-| 06:30 | INR | WPI Fuel (YoY) (Feb) | -0.71% |  | -2.78% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) | 2.86% |  | 2.51% |
-| 07:00 | NOK | Trade Balance (Feb) | 84.7B |  | 94.1B |
-| 09:00 | EUR | Italian CPI (MoM) (Feb) | 0.2% | 0.2% | 0.6% |
-| 09:00 | EUR | Italian CPI (YoY) (Feb) | 1.6% | 1.7% | 1.5% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 1.5% |  | 1.3% |
-| 09:00 | EUR | Italian HICP (YoY) (Feb) | 1.7% | 1.7% | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.1% | -0.8% |
-| 09:15 | INR | Exports (USD) (Feb) | 36.91B |  | 36.43B |
-| 09:15 | INR | Imports (USD) (Feb) | 50.96B |  | 59.42B |
-| 09:15 | INR | Trade Balance (Feb) | -14.05B |  | -22.99B |
-| 10:50 | EUR | German 12-Month Bubill Auction | 2.133% |  | 2.096% |
+| 02:00 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Feb) |  |  | 59.30% |
+| 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 08:30 | HKD | Unemployment Rate (Feb) |  |  | 3.1% |
+| 09:00 | EUR | Italian Trade Balance (Jan) |  | 5.150B | 5.980B |
+| 09:00 | EUR | Italian Trade Balance EU (Jan) |  |  | -1.86B |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.294% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.90% | 0.22% | -0.60% |
-| 12:30 | USD | Retail Sales (YoY) (Feb) | 3.10% |  | 4.20% |
-| 12:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.5% | 0.4% | -0.8% |
-| 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) | -3.150B |  | 3.770B |
-| 14:00 | USD | NAHB Housing Market Index (Mar) | 39 | 42 | 42 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.279% |  | 2.287% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.348% |  | 2.395% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.306% |  | 2.363% |
-| 15:30 | USD | 3-Month Bill Auction | 4.205% |  | 4.200% |
-| 15:30 | USD | 6-Month Bill Auction | 4.100% |  | 4.075% |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | 0.9% |
+| 12:00 | EUR | Spanish Trade Balance (Jan) |  |  | -4.12B |
+| 12:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.5% |
+| 12:00 | USD | Milk Auctions |  |  | 4,209.0 |
+| 12:30 | USD | Building Permits (MoM) (Feb) |  |  | -0.6% |
+| 12:30 | USD | Export Price Index (YoY) (Feb) |  |  | 2.7% |
+| 12:30 | USD | Import Price Index (YoY) (Feb) |  |  | 1.9% |
+| 12:30 | CAD | Common CPI (YoY) (Feb) |  | 2.2% | 2.2% |
+| 12:30 | CAD | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
+| 12:30 | CAD | Median CPI (YoY) (Feb) |  | 2.7% | 2.7% |
+| 12:30 | CAD | Trimmed CPI (YoY) (Feb) |  | 2.8% | 2.7% |
+| 12:55 | USD | Redbook (YoY) |  |  | 5.7% |
+| 13:15 | USD | Capacity Utilization Rate (Feb) |  | 77.8% | 77.8% |
+| 13:15 | USD | Manufacturing Production (MoM) (Feb) |  |  | -0.1% |
+| 15:30 | USD | 52-Week Bill Auction |  |  | 4.050% |
+| 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -6.40% |
+| 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 3 |
+| 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
+| 23:50 | JPY | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
+| 23:50 | JPY | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
+| 23:50 | JPY | Imports (YoY) (Feb) |  | 0.1% | 16.7% |

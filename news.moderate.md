@@ -1,19 +1,27 @@
-## 17 March 2025 - Moderate Impact Forex News
+## 18 March 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Feb) | 4.1% | 3.2% | 3.2% |
-| 02:00 | CNY | Industrial Production (YoY) (Feb) | 5.9% | 5.3% | 6.2% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Feb) | 5.9% |  | 5.8% |
-| 02:00 | CNY | Chinese Unemployment Rate (Feb) | 5.4% | 5.1% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
-| 06:30 | INR | WPI Inflation (YoY) (Feb) | 2.38% | 2.36% | 2.31% |
-| 12:15 | CAD | Housing Starts (Feb) | 229.0K | 246.0K | 239.3K |
-| 12:15 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 12:30 | USD | NY Empire State Manufacturing Index (Mar) | -20.00 | -1.90 | 5.70 |
-| 12:30 | USD | Retail Control (MoM) (Feb) | 1.0% | 0.2% | -1.0% |
-| 12:30 | CAD | Foreign Securities Purchases (Jan) | 7.91B | 17.44B | 13.94B |
-| 14:00 | USD | Business Inventories (MoM) (Jan) | 0.3% | 0.3% | -0.2% |
-| 14:00 | USD | Retail Inventories Ex Auto (Jan) | 0.5% | 0.4% | -0.1% |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q1) | -2.1% | -2.4% | -2.4% |
+| 10:00 | EUR | German ZEW Current Conditions (Mar) |  |  | -88.5 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Mar) |  | 48.1 | 26.0 |
+| 10:00 | EUR | Trade Balance (Jan) |  | 14.1B | 15.5B |
+| 10:00 | EUR | ZEW Economic Sentiment (Mar) |  | 43.6 | 24.2 |
+| 12:30 | USD | Building Permits (Feb) |  | 1.450M | 1.473M |
+| 12:30 | USD | Export Price Index (MoM) (Feb) |  | 2.0% | 1.3% |
+| 12:30 | USD | Housing Starts (Feb) |  | 1.380M | 1.366M |
+| 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -9.8% |
+| 12:30 | USD | Import Price Index (MoM) (Feb) |  | -0.1% | 0.3% |
+| 12:30 | CAD | Core CPI (MoM) (Feb) |  |  | 0.4% |
+| 12:30 | CAD | Core CPI (YoY) (Feb) |  |  | 2.1% |
+| 12:30 | CAD | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
+| 13:15 | USD | Industrial Production (YoY) (Feb) |  |  | 2.00% |
+| 13:15 | USD | Industrial Production (MoM) (Feb) |  | 0.2% | 0.5% |
+| 17:00 | USD | 20-Year Bond Auction |  |  | 4.830% |
+| 17:15 | USD | Atlanta Fed GDPNow (Q1) |  | -2.1% | -2.1% |
+| 20:00 | NZD | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
+| 20:30 | USD | API Weekly Crude Oil Stock |  |  | 4.247M |
+| 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -26.99B |
+| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -6.66B | -10.58B |
+| 23:50 | JPY | Adjusted Trade Balance |  | 0.51T | -0.86T |
+| 23:50 | JPY | Exports (YoY) (Feb) |  | 12.1% | 7.2% |
+| 23:50 | JPY | Trade Balance (Feb) |  | 722.8B | -2,758.8B |
