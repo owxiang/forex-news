@@ -16,29 +16,29 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | 39.8 | 43.6 | 24.2 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) | 0.0% |  | 0.9% |
-| 12:30 | USD | Low | Building Permits (MoM) (Feb) | -1.2% |  | -0.6% |
 | 12:30 | USD | Moderate | Building Permits (Feb) | 1.456M | 1.450M | 1.473M |
+| 12:30 | USD | Low | Building Permits (MoM) (Feb) | -1.2% |  | -0.6% |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) | 0.1% | -0.2% | 1.3% |
 | 12:30 | USD | Low | Export Price Index (YoY) (Feb) | 2.1% |  | 2.7% |
-| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) | 11.2% |  | -11.5% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) | 1.501M | 1.380M | 1.350M |
+| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) | 11.2% |  | -11.5% |
 | 12:30 | USD | Low | Import Price Index (YoY) (Feb) | 2.0% | 1.6% | 1.9% |
 | 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) | 0.4% | -0.1% | 0.4% |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) | 2.5% | 2.2% | 2.2% |
-| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) | 2.7% |  | 2.1% |
+| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) | 1.1% | 0.6% | 0.1% |
 | 12:30 | CAD | Low | CPI (YoY) (Feb) | 2.6% | 2.1% | 1.9% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) | 2.9% | 2.7% | 2.7% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) | 2.9% | 2.8% | 2.7% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.2% |  | 5.7% |
 | 13:15 | USD | Low | Capacity Utilization Rate (Feb) | 78.2% | 77.8% | 77.7% |
-| 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
 | 13:15 | USD | Moderate | Industrial Production (YoY) (Feb) | 1.44% |  | 1.92% |
+| 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
 | 13:15 | USD | Low | Manufacturing Production (MoM) (Feb) | 0.9% | 0.3% | 0.1% |
 | 15:30 | USD | Low | 52-Week Bill Auction | 3.945% |  | 4.050% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -1.8% | -2.1% | -2.1% |
-| 24 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.830% |
+| 17:30 | USD | Moderate | 20-Year Bond Auction | 4.632% |  | 4.830% |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.170M | 4.247M |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -6.68B | -10.58B |

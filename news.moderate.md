@@ -8,16 +8,16 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Mar) | 39.8 | 43.6 | 24.2 |
 | 12:30 | USD | Building Permits (Feb) | 1.456M | 1.450M | 1.473M |
 | 12:30 | USD | Export Price Index (MoM) (Feb) | 0.1% | -0.2% | 1.3% |
-| 12:30 | USD | Housing Starts (MoM) (Feb) | 11.2% |  | -11.5% |
 | 12:30 | USD | Housing Starts (Feb) | 1.501M | 1.380M | 1.350M |
+| 12:30 | USD | Housing Starts (MoM) (Feb) | 11.2% |  | -11.5% |
 | 12:30 | USD | Import Price Index (MoM) (Feb) | 0.4% | -0.1% | 0.4% |
-| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
 | 12:30 | CAD | Core CPI (YoY) (Feb) | 2.7% |  | 2.1% |
+| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
 | 12:30 | CAD | CPI (MoM) (Feb) | 1.1% | 0.6% | 0.1% |
-| 13:15 | USD | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
 | 13:15 | USD | Industrial Production (YoY) (Feb) | 1.44% |  | 1.92% |
+| 13:15 | USD | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | -1.8% | -2.1% | -2.1% |
-| 24 min | USD | 20-Year Bond Auction |  |  | 4.830% |
+| 17:30 | USD | 20-Year Bond Auction | 4.632% |  | 4.830% |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 1.170M | 4.247M |
 | 21:45 | NZD | Current Account (QoQ) (Q4) |  | -6.68B | -10.58B |
