@@ -16,8 +16,8 @@
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | 39.8 | 43.6 | 24.2 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) | 0.0% |  | 0.9% |
-| 12:30 | USD | Moderate | Building Permits (Feb) | 1.456M | 1.450M | 1.473M |
 | 12:30 | USD | Low | Building Permits (MoM) (Feb) | -1.2% |  | -0.6% |
+| 12:30 | USD | Moderate | Building Permits (Feb) | 1.456M | 1.450M | 1.473M |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) | 0.1% | -0.2% | 1.3% |
 | 12:30 | USD | Low | Export Price Index (YoY) (Feb) | 2.1% |  | 2.7% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) | 1.501M | 1.380M | 1.350M |
@@ -32,12 +32,10 @@
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) | 2.9% | 2.7% | 2.7% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) | 2.9% | 2.8% | 2.7% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.2% |  | 5.7% |
-| 3 min | USD | Low | Capacity Utilization Rate (Feb) |  | 77.8% | 77.8% |
-| 3 min | USD | Moderate | Industrial Production (YoY) (Feb) |  |  | 2.00% |
-| 3 min | USD | Moderate | Industrial Production (MoM) (Feb) |  | 0.2% | 0.5% |
-| 3 min | USD | Low | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.1% |
-| 48 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.5% |
-| 48 min | USD | Low | Milk Auctions |  |  | 4,209.0 |
+| 13:15 | USD | Low | Capacity Utilization Rate (Feb) | 78.2% | 77.8% | 77.7% |
+| 13:15 | USD | Moderate | Industrial Production (YoY) (Feb) | 1.44% |  | 1.92% |
+| 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
+| 13:15 | USD | Low | Manufacturing Production (MoM) (Feb) | 0.9% | 0.3% | 0.1% |
 | 15:30 | USD | Low | 52-Week Bill Auction |  |  | 4.050% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.830% |
 | 17:15 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.1% | -2.1% |
@@ -48,8 +46,8 @@
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) |  |  | -6.40% |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Moderate | Adjusted Trade Balance |  | 0.51T | -0.86T |
-| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
 | 23:50 | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
+| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
 | 23:50 | JPY | Moderate | Exports (YoY) (Feb) |  | 12.1% | 7.2% |
 | 23:50 | JPY | Low | Imports (YoY) (Feb) |  | 0.1% | 16.7% |
 | 23:50 | JPY | Moderate | Trade Balance (Feb) |  | 722.8B | -2,758.8B |

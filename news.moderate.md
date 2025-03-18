@@ -14,8 +14,8 @@
 | 12:30 | CAD | Core CPI (YoY) (Feb) | 2.7% |  | 2.1% |
 | 12:30 | CAD | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
 | 12:30 | CAD | CPI (MoM) (Feb) | 1.1% | 0.6% | 0.1% |
-| 3 min | USD | Industrial Production (YoY) (Feb) |  |  | 2.00% |
-| 3 min | USD | Industrial Production (MoM) (Feb) |  | 0.2% | 0.5% |
+| 13:15 | USD | Industrial Production (YoY) (Feb) | 1.44% |  | 1.92% |
+| 13:15 | USD | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
 | 17:00 | USD | 20-Year Bond Auction |  |  | 4.830% |
 | 17:15 | USD | Atlanta Fed GDPNow (Q1) |  | -2.1% | -2.1% |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
