@@ -22,7 +22,7 @@
 | 12:55 | USD | Redbook (YoY) | 5.2% |  | 5.7% |
 | 13:15 | USD | Capacity Utilization Rate (Feb) | 78.2% | 77.8% | 77.7% |
 | 13:15 | USD | Manufacturing Production (MoM) (Feb) | 0.9% | 0.3% | 0.1% |
-| 23 min | USD | 52-Week Bill Auction |  |  | 4.050% |
+| 15:30 | USD | 52-Week Bill Auction | 3.945% |  | 4.050% |
 | 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -6.40% |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
