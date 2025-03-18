@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) | -10.00 |  | 7.40 |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 53 min | CHF | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Unemployment Rate (Feb) |  |  | 3.1% |
 | 09:00 | EUR | Italian Trade Balance (Jan) |  | 5.150B | 5.980B |
 | 09:00 | EUR | Italian Trade Balance EU (Jan) |  |  | -1.86B |
@@ -26,7 +26,6 @@
 | 14:00 | USD | Milk Auctions |  |  | 4,209.0 |
 | 15:30 | USD | 52-Week Bill Auction |  |  | 4.050% |
 | 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -6.40% |
-| 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
 | 23:50 | JPY | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
