@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
+| 22 min | JPY | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Unemployment Rate (Feb) |  |  | 3.1% |
 | 09:00 | EUR | Italian Trade Balance (Jan) |  | 5.150B | 5.980B |
