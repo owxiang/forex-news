@@ -8,8 +8,8 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Mar) |  | 43.6 | 24.2 |
 | 12:30 | USD | Building Permits (Feb) |  | 1.450M | 1.473M |
 | 12:30 | USD | Export Price Index (MoM) (Feb) |  | 2.0% | 1.3% |
-| 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -9.8% |
 | 12:30 | USD | Housing Starts (Feb) |  | 1.380M | 1.366M |
+| 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -9.8% |
 | 12:30 | USD | Import Price Index (MoM) (Feb) |  | -0.1% | 0.3% |
 | 12:30 | CAD | Core CPI (YoY) (Feb) |  |  | 2.1% |
 | 12:30 | CAD | Core CPI (MoM) (Feb) |  |  | 0.4% |

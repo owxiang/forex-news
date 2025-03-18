@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
-| 28 min | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Unemployment Rate (Feb) |  |  | 3.1% |

@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
-| 28 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) |  |  | 7.10 |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | HKD | Low | Unemployment Rate (Feb) |  |  | 3.1% |
@@ -23,8 +22,8 @@
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.450M | 1.473M |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) |  | 2.0% | 1.3% |
 | 12:30 | USD | Low | Export Price Index (YoY) (Feb) |  |  | 2.7% |
-| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -9.8% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.380M | 1.366M |
+| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -9.8% |
 | 12:30 | USD | Low | Import Price Index (YoY) (Feb) |  |  | 1.9% |
 | 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) |  | -0.1% | 0.3% |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 2.2% | 2.2% |
