@@ -27,8 +27,8 @@
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) | 2.5% | 2.2% | 2.2% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) | 2.7% |  | 2.1% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
-| 12:30 | CAD | Low | CPI (YoY) (Feb) | 2.6% | 2.1% | 1.9% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) | 1.1% | 0.6% | 0.1% |
+| 12:30 | CAD | Low | CPI (YoY) (Feb) | 2.6% | 2.1% | 1.9% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) | 2.9% | 2.7% | 2.7% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) | 2.9% | 2.8% | 2.7% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.2% |  | 5.7% |
@@ -44,10 +44,11 @@
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) | -7.04B | -6.68B | -10.58B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q4) | -26.40B |  | -26.99B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) | -6.20% |  | -6.40% |
-| 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
-| 23:50 | JPY | Moderate | Adjusted Trade Balance |  | 0.51T | -0.86T |
-| 23:50 | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
-| 23:50 | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
-| 23:50 | JPY | Moderate | Exports (YoY) (Feb) |  | 12.1% | 7.2% |
-| 23:50 | JPY | Low | Imports (YoY) (Feb) |  | 0.1% | 16.7% |
-| 23:50 | JPY | Moderate | Trade Balance (Feb) |  | 722.8B | -2,758.8B |
+| 23:00 | JPY | Low | Reuters Tankan Index (Mar) | -1 |  | 3 |
+| 24 min | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
+| 44 min | JPY | Moderate | Adjusted Trade Balance |  | 0.51T | -0.86T |
+| 44 min | JPY | Low | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
+| 44 min | JPY | Low | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
+| 44 min | JPY | Moderate | Exports (YoY) (Feb) |  | 12.1% | 7.2% |
+| 44 min | JPY | Low | Imports (YoY) (Feb) |  | 0.1% | 16.7% |
+| 44 min | JPY | Moderate | Trade Balance (Feb) |  | 722.8B | -2,758.8B |
