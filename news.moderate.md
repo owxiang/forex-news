@@ -11,8 +11,8 @@
 | 12:30 | USD | Housing Starts (Feb) | 1.501M | 1.380M | 1.350M |
 | 12:30 | USD | Housing Starts (MoM) (Feb) | 11.2% |  | -11.5% |
 | 12:30 | USD | Import Price Index (MoM) (Feb) | 0.4% | -0.1% | 0.4% |
-| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
 | 12:30 | CAD | Core CPI (YoY) (Feb) | 2.7% |  | 2.1% |
+| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
 | 12:30 | CAD | CPI (MoM) (Feb) | 1.1% | 0.6% | 0.1% |
 | 13:15 | USD | Industrial Production (YoY) (Feb) | 1.44% |  | 1.92% |
 | 13:15 | USD | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
@@ -20,8 +20,8 @@
 | 17:30 | USD | 20-Year Bond Auction | 4.632% |  | 4.830% |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q1) | 89.2 |  | 97.5 |
 | 20:30 | USD | API Weekly Crude Oil Stock | 4.593M | 1.170M | 4.247M |
-| 39 min | NZD | Current Account (YoY) (Q4) |  |  | -26.99B |
-| 39 min | NZD | Current Account (QoQ) (Q4) |  | -6.68B | -10.58B |
+| 21:45 | NZD | Current Account (QoQ) (Q4) | -7.04B | -6.68B | -10.58B |
+| 21:45 | NZD | Current Account (YoY) (Q4) | -26.40B |  | -26.99B |
 | 23:50 | JPY | Adjusted Trade Balance |  | 0.51T | -0.86T |
 | 23:50 | JPY | Exports (YoY) (Feb) |  | 12.1% | 7.2% |
 | 23:50 | JPY | Trade Balance (Feb) |  | 722.8B | -2,758.8B |
