@@ -27,8 +27,8 @@
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 2.2% | 2.2% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.4% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.1% |
-| 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
+| 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 2.1% | 1.9% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) |  | 2.7% | 2.7% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 2.8% | 2.7% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 5.7% |
