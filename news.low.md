@@ -25,6 +25,6 @@
 | 15:30 | USD | 52-Week Bill Auction | 3.945% |  | 4.050% |
 | 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -6.40% |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
-| 23:50 | JPY | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
 | 23:50 | JPY | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
+| 23:50 | JPY | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
 | 23:50 | JPY | Imports (YoY) (Feb) |  | 0.1% | 16.7% |
