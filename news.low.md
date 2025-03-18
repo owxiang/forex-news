@@ -8,9 +8,9 @@
 | 08:30 | HKD | Unemployment Rate (Feb) | 3.2% |  | 3.1% |
 | 09:00 | EUR | Italian Trade Balance (Jan) | -0.264B | 5.150B | 5.820B |
 | 09:00 | EUR | Italian Trade Balance EU (Jan) | -0.64B |  | -2.02B |
-| 53 min | GBP | 4-Year Treasury Gilt Auction |  |  | 4.294% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | 0.9% |
+| 10:00 | GBP | 4-Year Treasury Gilt Auction |  |  | 4.294% |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
+| 53 min | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | 0.9% |
 | 11:30 | EUR | Spanish Trade Balance (Jan) |  |  | -4.12B |
 | 12:30 | USD | Building Permits (MoM) (Feb) |  |  | -0.6% |
 | 12:30 | USD | Export Price Index (YoY) (Feb) |  |  | 2.7% |

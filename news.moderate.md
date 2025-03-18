@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | EUR | German ZEW Current Conditions (Mar) |  | -80.5 | -88.5 |
-| 53 min | EUR | German ZEW Economic Sentiment (Mar) |  | 48.1 | 26.0 |
-| 53 min | EUR | Trade Balance (Jan) |  | 14.0B | 15.5B |
-| 53 min | EUR | ZEW Economic Sentiment (Mar) |  | 43.6 | 24.2 |
+| 10:00 | EUR | German ZEW Current Conditions (Mar) | -87.6 | -80.5 | -88.5 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Mar) | 51.6 | 48.1 | 26.0 |
+| 10:00 | EUR | Trade Balance (Jan) | 1.0B | 14.0B | 15.4B |
+| 10:00 | EUR | ZEW Economic Sentiment (Mar) | 39.8 | 43.6 | 24.2 |
 | 12:30 | USD | Building Permits (Feb) |  | 1.450M | 1.473M |
 | 12:30 | USD | Export Price Index (MoM) (Feb) |  | -0.2% | 1.3% |
 | 12:30 | USD | Housing Starts (Feb) |  | 1.380M | 1.366M |
 | 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -9.8% |
 | 12:30 | USD | Import Price Index (MoM) (Feb) |  | -0.1% | 0.3% |
-| 12:30 | CAD | Core CPI (MoM) (Feb) |  |  | 0.4% |
 | 12:30 | CAD | Core CPI (YoY) (Feb) |  |  | 2.1% |
+| 12:30 | CAD | Core CPI (MoM) (Feb) |  |  | 0.4% |
 | 12:30 | CAD | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
 | 13:15 | USD | Industrial Production (YoY) (Feb) |  |  | 2.00% |
 | 13:15 | USD | Industrial Production (MoM) (Feb) |  | 0.2% | 0.5% |
