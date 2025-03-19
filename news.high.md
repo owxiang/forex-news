@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | JPY | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
+| 28 min | JPY | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
 | 10:00 | EUR | CPI (YoY) (Feb) |  | 2.4% | 2.5% |
 | 13:30 | USD | Crude Oil Inventories |  | 0.700M | 1.448M |
 | 18:00 | USD | FOMC Economic Projections |  |  |  |

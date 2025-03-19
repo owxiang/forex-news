@@ -3,25 +3,25 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Feb) | 0.1% |  | 0.1% |
-| 56 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 56 min | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
-| 03:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
+| 02:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | SGD | Low | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 28 min | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) |  |  | -0.2% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | -1.1% | -0.2% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) |  | 5.00% | 5.00% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) |  | 6.50% | 6.50% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) |  |  | 3.5% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Feb) |  |  | 0.2% |
-| 08:00 | ZAR | Low | CPI (YoY) (Feb) |  |  | 3.2% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) |  |  | 3.5% |
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) |  |  | 0.3% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.6% | 2.7% |
+| 08:00 | ZAR | Low | CPI (YoY) (Feb) |  |  | 3.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  | 0.6% | -0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.6% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.4% | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) |  | 127.32 | 126.72 |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) |  |  | 4.40% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  | 2.6% | 2.7% |

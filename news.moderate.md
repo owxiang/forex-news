@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 56 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Jan) |  | -1.1% | -0.2% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
