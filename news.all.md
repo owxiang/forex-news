@@ -12,12 +12,12 @@
 | 07:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
-| 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
+| 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
@@ -56,11 +56,11 @@
 | 18:00 | USD | High | FOMC Statement |  |  |  |
 | 18:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 18:30 | USD | High | FOMC Press Conference |  |  |  |
-| 54 min | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | -49.70B |
-| 54 min | USD | Low | Overall Net Capital Flow (Jan) |  |  | 87.10B |
-| 54 min | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 101.1B | 72.0B |
-| 54 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 72.00B |
-| 54 min | NZD | Moderate | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
+| 20:00 | USD | Low | US Foreign Buying, T-bonds (Jan) | -13.30B |  | -49.70B |
+| 20:00 | USD | Low | Overall Net Capital Flow (Jan) | -48.80B |  | 103.20B |
+| 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) | -45.2B | 101.1B | 75.0B |
+| 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) | -45.20B |  | 75.00B |
+| 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) | 89.2 |  | 97.5 |
 | 21:30 | BRL | Moderate | Interest Rate Decision |  | 14.25% | 13.25% |
 | 21:45 | NZD | Moderate | GDP (QoQ) (Q4) |  | 0.4% | -1.0% |
 | 21:45 | NZD | Low | GDP (YoY) (Q4) |  | -1.4% | -1.5% |
