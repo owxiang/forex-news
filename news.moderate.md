@@ -9,8 +9,8 @@
 | 10:00 | EUR | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 4.10% |  | 4.30% |
-| 55 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 50 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Cushing Crude Oil Inventories |  |  | -1.228M |
 | 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.9% |
 | 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.4% |

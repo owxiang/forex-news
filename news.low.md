@@ -12,8 +12,8 @@
 | 08:00 | ZAR | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Feb) | 127.26 | 127.32 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% | 0.5% | -0.7% |
@@ -26,7 +26,7 @@
 | 11:00 | USD | Mortgage Refinance Index | 794.4 |  | 911.3 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Retail Sales (YoY) (Jan) | 7.0% |  | 3.2% |
-| 25 min | INR | M3 Money Supply |  |  | 9.6% |
+| 50 min | INR | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
 | 13:30 | USD | Crude Oil Imports |  |  | 0.503M |
 | 13:30 | USD | Distillate Fuel Production |  |  | -0.113M |

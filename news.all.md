@@ -20,8 +20,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.26 | 127.32 | 126.72 |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 4.10% |  | 4.30% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
@@ -35,9 +35,9 @@
 | 11:00 | USD | Low | Mortgage Refinance Index | 794.4 |  | 911.3 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) | 7.0% |  | 3.2% |
-| 25 min | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 55 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 50 min | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 50 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | High | Crude Oil Inventories |  | 0.800M | 1.448M |
 | 13:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
 | 13:30 | USD | Low | Crude Oil Imports |  |  | 0.503M |
