@@ -18,5 +18,5 @@
 | 18:00 | USD | Interest Rate Projection - Longer (Q1) | 3.0% |  | 3.0% |
 | 20:00 | USD | TIC Net Long-Term Transactions (Jan) | -45.2B | 101.1B | 75.0B |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q1) | 89.2 |  | 97.5 |
-| 24 min | BRL | Interest Rate Decision |  | 14.25% | 13.25% |
-| 39 min | NZD | GDP (QoQ) (Q4) |  | 0.4% | -1.0% |
+| 21:30 | BRL | Interest Rate Decision | 14.25% | 14.25% | 13.25% |
+| 21:45 | NZD | GDP (QoQ) (Q4) | 0.7% | 0.4% | -1.1% |

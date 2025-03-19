@@ -7,8 +7,8 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 4.5% |  | 0.1% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
+| 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
 | 08:00 | ZAR | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
@@ -38,6 +38,6 @@
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) | -13.30B |  | -49.70B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) | -48.80B |  | 103.20B |
 | 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) | -45.20B |  | 75.00B |
-| 39 min | NZD | GDP (YoY) (Q4) |  | -1.4% | -1.5% |
-| 39 min | NZD | GDP Annual Average (Q4) |  |  | 0.1% |
-| 39 min | NZD | GDP Expenditure (QoQ) (Q4) |  |  | -0.8% |
+| 21:45 | NZD | GDP (YoY) (Q4) | -1.1% | -1.4% | -1.6% |
+| 21:45 | NZD | GDP Annual Average (Q4) | -0.5% |  | 0.1% |
+| 21:45 | NZD | GDP Expenditure (QoQ) (Q4) | 0.8% |  | -0.9% |
