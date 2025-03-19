@@ -12,14 +12,14 @@
 | 07:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.26 | 127.32 | 126.72 |
@@ -27,16 +27,16 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.5% | 0.5% | -0.7% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) | 3.70% |  | 4.50% |
-| 22 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.650% |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.67% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 11.2% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 154.6 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 269.3 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 911.3 |
-| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 52 min | ZAR | Low | Retail Sales (YoY) (Jan) |  |  | 3.1% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.080% |  | 2.650% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.72% |  | 6.67% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -6.2% |  | 11.2% |
+| 11:00 | USD | Low | MBA Purchase Index | 154.7 |  | 154.6 |
+| 11:00 | USD | Low | Mortgage Market Index | 252.5 |  | 269.3 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 794.4 |  | 911.3 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) | 7.0% |  | 3.2% |
+| 25 min | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 55 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | High | Crude Oil Inventories |  | 0.800M | 1.448M |
 | 13:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
