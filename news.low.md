@@ -34,7 +34,6 @@
 | 13:30 | USD | Heating Oil Stockpiles | 0.008M |  | -0.183M |
 | 13:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.6% |
 | 13:30 | USD | Gasoline Inventories | -0.527M | -2.000M | -5.737M |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.783B |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -49.70B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 87.10B |
 | 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 72.00B |
