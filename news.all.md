@@ -12,16 +12,16 @@
 | 07:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.26 | 127.32 | 126.72 |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 4.10% |  | 4.30% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
@@ -36,18 +36,17 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) | 7.0% |  | 3.2% |
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 50 min | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 50 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | High | Crude Oil Inventories |  | 0.800M | 1.448M |
-| 13:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
-| 13:30 | USD | Low | Crude Oil Imports |  |  | 0.503M |
-| 13:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.228M |
-| 13:30 | USD | Low | Distillate Fuel Production |  |  | -0.113M |
-| 13:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.180M | -1.559M |
-| 13:30 | USD | Low | Gasoline Production |  |  | -0.078M |
-| 13:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.183M |
-| 13:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 13:30 | USD | Low | Gasoline Inventories |  | -2.000M | -5.737M |
+| 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 18 min | USD | High | Crude Oil Inventories |  | 0.800M | 1.448M |
+| 18 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
+| 18 min | USD | Low | Crude Oil Imports |  |  | 0.503M |
+| 18 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.228M |
+| 18 min | USD | Low | Distillate Fuel Production |  |  | -0.113M |
+| 18 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.180M | -1.559M |
+| 18 min | USD | Low | Gasoline Production |  |  | -0.078M |
+| 18 min | USD | Low | Heating Oil Stockpiles |  |  | -0.183M |
+| 18 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 18 min | USD | Low | Gasoline Inventories |  | -2.000M | -5.737M |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.783B |
 | 18:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.9% |
 | 18:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.4% |
