@@ -12,12 +12,12 @@
 | 07:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
@@ -47,14 +47,15 @@
 | 13:30 | USD | Low | Heating Oil Stockpiles | 0.008M |  | -0.183M |
 | 13:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.6% |
 | 13:30 | USD | Low | Gasoline Inventories | -0.527M | -2.000M | -5.737M |
-| 54 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.9% |
-| 54 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.4% |
-| 54 min | USD | Moderate | Interest Rate Projection - Current (Q1) |  |  | 4.4% |
-| 54 min | USD | Moderate | Interest Rate Projection - Longer (Q1) |  |  | 3.0% |
-| 54 min | USD | High | FOMC Economic Projections |  |  |  |
-| 54 min | USD | High | FOMC Statement |  |  |  |
-| 54 min | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
-| 18:30 | USD | High | FOMC Press Conference |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | -2.319B |  | -0.783B |
+| 18:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) | 3.4% |  | 3.9% |
+| 18:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) | 3.1% |  | 3.4% |
+| 18:00 | USD | Moderate | Interest Rate Projection - Current (Q1) | 3.9% |  | 4.4% |
+| 18:00 | USD | Moderate | Interest Rate Projection - Longer (Q1) | 3.0% |  | 3.0% |
+| 18:00 | USD | High | FOMC Economic Projections |  |  |  |
+| 18:00 | USD | High | FOMC Statement |  |  |  |
+| 18:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 21 min | USD | High | FOMC Press Conference |  |  |  |
 | 20:00 | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | -49.70B |
 | 20:00 | USD | Low | Overall Net Capital Flow (Jan) |  |  | 87.10B |
 | 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 101.1B | 72.0B |

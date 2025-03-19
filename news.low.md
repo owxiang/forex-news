@@ -7,8 +7,8 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 4.5% |  | 0.1% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
+| 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
@@ -34,6 +34,7 @@
 | 13:30 | USD | Heating Oil Stockpiles | 0.008M |  | -0.183M |
 | 13:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.6% |
 | 13:30 | USD | Gasoline Inventories | -0.527M | -2.000M | -5.737M |
+| 17:30 | BRL | Foreign Exchange Flows | -2.319B |  | -0.783B |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -49.70B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 87.10B |
 | 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 72.00B |

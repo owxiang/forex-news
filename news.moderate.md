@@ -12,10 +12,10 @@
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Cushing Crude Oil Inventories | -1.009M |  | -1.228M |
-| 54 min | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.9% |
-| 54 min | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.4% |
-| 54 min | USD | Interest Rate Projection - Current (Q1) |  |  | 4.4% |
-| 54 min | USD | Interest Rate Projection - Longer (Q1) |  |  | 3.0% |
+| 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) | 3.4% |  | 3.9% |
+| 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) | 3.1% |  | 3.4% |
+| 18:00 | USD | Interest Rate Projection - Current (Q1) | 3.9% |  | 4.4% |
+| 18:00 | USD | Interest Rate Projection - Longer (Q1) | 3.0% |  | 3.0% |
 | 20:00 | USD | TIC Net Long-Term Transactions (Jan) |  | 101.1B | 72.0B |
 | 20:00 | NZD | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
 | 21:30 | BRL | Interest Rate Decision |  | 14.25% | 13.25% |
