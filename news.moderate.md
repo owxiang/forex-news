@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Jan) | -1.1% | -1.1% | -0.3% |
-| 22 min | JPY | BoJ Press Conference |  |  |  |
-| 07:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 23 min | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
 | 10:00 | EUR | Core CPI (YoY) (Feb) |  | 2.6% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (Feb) |  | 0.5% | -0.3% |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 4.40% |

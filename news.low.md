@@ -5,12 +5,12 @@
 | 00:00 | AUD | MI Leading Index (MoM) (Feb) | 0.1% |  | 0.1% |
 | 02:30 | SGD | Unemployment Rate (Q4) | 1.9% | 1.9% | 1.9% |
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 4.5% |  | 0.1% |
-| 07:30 | IDR | Deposit Facility Rate (Mar) |  | 5.00% | 5.00% |
-| 07:30 | IDR | Lending Facility Rate (Mar) |  | 6.50% | 6.50% |
-| 08:00 | ZAR | Core CPI (MoM) (Feb) |  |  | 0.2% |
-| 08:00 | ZAR | Core CPI (YoY) (Feb) |  |  | 3.5% |
-| 08:00 | ZAR | CPI (YoY) (Feb) |  |  | 3.2% |
-| 08:00 | ZAR | CPI (MoM) (Feb) |  |  | 0.3% |
+| 23 min | IDR | Deposit Facility Rate (Mar) |  | 5.00% | 5.00% |
+| 23 min | IDR | Lending Facility Rate (Mar) |  | 6.50% | 6.50% |
+| 53 min | ZAR | Core CPI (YoY) (Feb) |  |  | 3.5% |
+| 53 min | ZAR | Core CPI (MoM) (Feb) |  |  | 0.2% |
+| 53 min | ZAR | CPI (MoM) (Feb) |  |  | 0.3% |
+| 53 min | ZAR | CPI (YoY) (Feb) |  |  | 3.2% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.6% | -0.9% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
