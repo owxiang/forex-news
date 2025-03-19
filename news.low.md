@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | MI Leading Index (MoM) (Feb) | 0.1% |  | 0.1% |
-| 02:30 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 02:30 | SGD | Unemployment Rate (Q4) | 1.9% | 1.9% | 1.9% |
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) |  |  | -0.2% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) |  | 5.00% | 5.00% |
 | 07:30 | IDR | Lending Facility Rate (Mar) |  | 6.50% | 6.50% |
-| 08:00 | ZAR | Core CPI (MoM) (Feb) |  |  | 0.2% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) |  |  | 3.5% |
-| 08:00 | ZAR | CPI (MoM) (Feb) |  |  | 0.3% |
+| 08:00 | ZAR | Core CPI (MoM) (Feb) |  |  | 0.2% |
 | 08:00 | ZAR | CPI (YoY) (Feb) |  |  | 3.2% |
+| 08:00 | ZAR | CPI (MoM) (Feb) |  |  | 0.3% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.6% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Feb) |  | 127.32 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.6% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.5% | -0.7% |
