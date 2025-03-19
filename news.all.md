@@ -12,16 +12,16 @@
 | 07:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Low | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.3% | 2.4% | 2.5% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 127.26 | 127.32 | 126.72 |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 4.10% |  | 4.30% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
@@ -61,8 +61,8 @@
 | 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) | -45.2B | 101.1B | 75.0B |
 | 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) | -45.20B |  | 75.00B |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment (Q1) | 89.2 |  | 97.5 |
-| 21:30 | BRL | Moderate | Interest Rate Decision |  | 14.25% | 13.25% |
-| 21:45 | NZD | Moderate | GDP (QoQ) (Q4) |  | 0.4% | -1.0% |
-| 21:45 | NZD | Low | GDP (YoY) (Q4) |  | -1.4% | -1.5% |
-| 21:45 | NZD | Low | GDP Annual Average (Q4) |  |  | 0.1% |
-| 21:45 | NZD | Low | GDP Expenditure (QoQ) (Q4) |  |  | -0.8% |
+| 24 min | BRL | Moderate | Interest Rate Decision |  | 14.25% | 13.25% |
+| 39 min | NZD | Moderate | GDP (QoQ) (Q4) |  | 0.4% | -1.0% |
+| 39 min | NZD | Low | GDP (YoY) (Q4) |  | -1.4% | -1.5% |
+| 39 min | NZD | Low | GDP Annual Average (Q4) |  |  | 0.1% |
+| 39 min | NZD | Low | GDP Expenditure (QoQ) (Q4) |  |  | -0.8% |
