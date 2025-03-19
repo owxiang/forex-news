@@ -1,27 +1,22 @@
-## 18 March 2025 - Moderate Impact Forex News
+## 19 March 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | German ZEW Current Conditions (Mar) | -87.6 | -80.5 | -88.5 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Mar) | 51.6 | 48.1 | 26.0 |
-| 10:00 | EUR | Trade Balance (Jan) | 1.0B | 14.0B | 15.4B |
-| 10:00 | EUR | ZEW Economic Sentiment (Mar) | 39.8 | 43.6 | 24.2 |
-| 12:30 | USD | Building Permits (Feb) | 1.456M | 1.450M | 1.473M |
-| 12:30 | USD | Export Price Index (MoM) (Feb) | 0.1% | -0.2% | 1.3% |
-| 12:30 | USD | Housing Starts (Feb) | 1.501M | 1.380M | 1.350M |
-| 12:30 | USD | Housing Starts (MoM) (Feb) | 11.2% |  | -11.5% |
-| 12:30 | USD | Import Price Index (MoM) (Feb) | 0.4% | -0.1% | 0.4% |
-| 12:30 | CAD | Core CPI (YoY) (Feb) | 2.7% |  | 2.1% |
-| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.7% |  | 0.4% |
-| 12:30 | CAD | CPI (MoM) (Feb) | 1.1% | 0.6% | 0.1% |
-| 13:15 | USD | Industrial Production (YoY) (Feb) | 1.44% |  | 1.92% |
-| 13:15 | USD | Industrial Production (MoM) (Feb) | 0.7% | 0.2% | 0.3% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | -1.8% | -2.1% | -2.1% |
-| 17:30 | USD | 20-Year Bond Auction | 4.632% |  | 4.830% |
-| 20:00 | NZD | Westpac Consumer Sentiment (Q1) | 89.2 |  | 97.5 |
-| 20:30 | USD | API Weekly Crude Oil Stock | 4.593M | 1.170M | 4.247M |
-| 21:45 | NZD | Current Account (QoQ) (Q4) | -7.04B | -6.68B | -10.58B |
-| 21:45 | NZD | Current Account (YoY) (Q4) | -26.40B |  | -26.99B |
-| 44 min | JPY | Adjusted Trade Balance |  | 0.51T | -0.86T |
-| 44 min | JPY | Exports (YoY) (Feb) |  | 12.1% | 7.2% |
-| 44 min | JPY | Trade Balance (Feb) |  | 722.8B | -2,758.8B |
+| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 04:30 | JPY | Industrial Production (MoM) (Jan) |  | -1.1% | -0.2% |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
+| 10:00 | EUR | Core CPI (YoY) (Feb) |  | 2.6% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Feb) |  | 0.5% | -0.3% |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 4.40% |
+| 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | Cushing Crude Oil Inventories |  |  | -1.228M |
+| 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.9% |
+| 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.4% |
+| 18:00 | USD | Interest Rate Projection - Current (Q1) |  |  | 4.4% |
+| 18:00 | USD | Interest Rate Projection - Longer (Q1) |  |  | 3.0% |
+| 20:00 | USD | TIC Net Long-Term Transactions (Jan) |  | 101.1B | 72.0B |
+| 20:00 | NZD | Westpac Consumer Sentiment (Q1) |  |  | 97.5 |
+| 21:30 | BRL | Interest Rate Decision |  | 14.25% | 13.25% |
+| 21:45 | NZD | GDP (QoQ) (Q4) |  | 0.4% | -1.0% |

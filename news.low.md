@@ -1,31 +1,46 @@
-## 18 March 2025 - Low Impact Forex News
+## 19 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 59.20% | 60.10% | 59.30% |
-| 04:30 | JPY | Tertiary Industry Activity Index (Jan) | -10.00 |  | 7.40 |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 08:30 | EUR | Spanish Trade Balance (Jan) | -6.19B |  | -4.12B |
-| 08:30 | HKD | Unemployment Rate (Feb) | 3.2% |  | 3.1% |
-| 09:00 | EUR | Italian Trade Balance (Jan) | -0.264B | 5.150B | 5.820B |
-| 09:00 | EUR | Italian Trade Balance EU (Jan) | -0.64B |  | -2.02B |
-| 10:00 | GBP | 4-Year Treasury Gilt Auction | 4.263% |  | 4.294% |
+| 00:00 | AUD | MI Leading Index (MoM) (Feb) | 0.1% |  | 0.1% |
+| 02:30 | SGD | Unemployment Rate (Q4) |  | 1.9% | 1.9% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Jan) |  |  | -0.2% |
+| 07:30 | IDR | Deposit Facility Rate (Mar) |  | 5.00% | 5.00% |
+| 07:30 | IDR | Lending Facility Rate (Mar) |  | 6.50% | 6.50% |
+| 08:00 | ZAR | Core CPI (MoM) (Feb) |  |  | 0.2% |
+| 08:00 | ZAR | Core CPI (YoY) (Feb) |  |  | 3.5% |
+| 08:00 | ZAR | CPI (MoM) (Feb) |  |  | 0.3% |
+| 08:00 | ZAR | CPI (YoY) (Feb) |  |  | 3.2% |
+| 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.6% | -0.9% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
+| 10:00 | EUR | CPI, n.s.a (Feb) |  | 127.32 | 126.72 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.6% | 2.7% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.5% | -0.7% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q4) |  |  | 4.60% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.650% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.67% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.2% |
+| 11:00 | USD | MBA Purchase Index |  |  | 154.6 |
+| 11:00 | USD | Mortgage Market Index |  |  | 269.3 |
+| 11:00 | USD | Mortgage Refinance Index |  |  | 911.3 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) | 0.0% |  | 0.9% |
-| 12:30 | USD | Building Permits (MoM) (Feb) | -1.2% |  | -0.6% |
-| 12:30 | USD | Export Price Index (YoY) (Feb) | 2.1% |  | 2.7% |
-| 12:30 | USD | Import Price Index (YoY) (Feb) | 2.0% | 1.6% | 1.9% |
-| 12:30 | CAD | Common CPI (YoY) (Feb) | 2.5% | 2.2% | 2.2% |
-| 12:30 | CAD | CPI (YoY) (Feb) | 2.6% | 2.1% | 1.9% |
-| 12:30 | CAD | Median CPI (YoY) (Feb) | 2.9% | 2.7% | 2.7% |
-| 12:30 | CAD | Trimmed CPI (YoY) (Feb) | 2.9% | 2.8% | 2.7% |
-| 12:55 | USD | Redbook (YoY) | 5.2% |  | 5.7% |
-| 13:15 | USD | Capacity Utilization Rate (Feb) | 78.2% | 77.8% | 77.7% |
-| 13:15 | USD | Manufacturing Production (MoM) (Feb) | 0.9% | 0.3% | 0.1% |
-| 15:30 | USD | 52-Week Bill Auction | 3.945% |  | 4.050% |
-| 21:45 | NZD | Current Account % of GDP (Q4) | -6.20% |  | -6.40% |
-| 23:00 | JPY | Reuters Tankan Index (Mar) | -1 |  | 3 |
-| 24 min | AUD | MI Leading Index (MoM) |  |  | 0.1% |
-| 44 min | JPY | Core Machinery Orders (YoY) (Jan) |  | 6.9% | 4.3% |
-| 44 min | JPY | Core Machinery Orders (MoM) (Jan) |  | -0.1% | -1.2% |
-| 44 min | JPY | Imports (YoY) (Feb) |  | 0.1% | 16.7% |
+| 11:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.5% |
+| 11:00 | USD | Milk Auctions |  |  | 4,209.0 |
+| 11:00 | ZAR | Retail Sales (YoY) (Jan) |  |  | 3.1% |
+| 11:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 13:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
+| 13:30 | USD | Crude Oil Imports |  |  | 0.503M |
+| 13:30 | USD | Distillate Fuel Production |  |  | -0.113M |
+| 13:30 | USD | EIA Weekly Distillates Stocks |  | 0.180M | -1.559M |
+| 13:30 | USD | Gasoline Production |  |  | -0.078M |
+| 13:30 | USD | Heating Oil Stockpiles |  |  | -0.183M |
+| 13:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 13:30 | USD | Gasoline Inventories |  | -2.000M | -5.737M |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.783B |
+| 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -49.70B |
+| 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 87.10B |
+| 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 72.00B |
+| 21:45 | NZD | GDP (YoY) (Q4) |  | -1.4% | -1.5% |
+| 21:45 | NZD | GDP Annual Average (Q4) |  |  | 0.1% |
+| 21:45 | NZD | GDP Expenditure (QoQ) (Q4) |  |  | -0.8% |
