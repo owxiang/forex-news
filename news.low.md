@@ -9,11 +9,11 @@
 | 07:30 | IDR | Lending Facility Rate (Mar) |  | 6.50% | 6.50% |
 | 08:00 | ZAR | Core CPI (MoM) (Feb) |  |  | 0.2% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) |  |  | 3.5% |
-| 08:00 | ZAR | CPI (MoM) (Feb) |  |  | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Feb) |  |  | 3.2% |
+| 08:00 | ZAR | CPI (MoM) (Feb) |  |  | 0.3% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.6% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Feb) |  | 127.32 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.6% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.5% | -0.7% |
