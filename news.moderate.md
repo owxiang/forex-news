@@ -11,7 +11,7 @@
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 4.10% |  | 4.30% |
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 18 min | USD | Cushing Crude Oil Inventories |  |  | -1.228M |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -1.228M |
 | 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 3.9% |
 | 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.4% |
 | 18:00 | USD | Interest Rate Projection - Current (Q1) |  |  | 4.4% |

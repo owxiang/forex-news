@@ -9,8 +9,8 @@
 | 07:30 | IDR | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
 | 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
-| 08:00 | ZAR | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
+| 08:00 | ZAR | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
@@ -26,14 +26,14 @@
 | 11:00 | USD | Mortgage Refinance Index | 794.4 |  | 911.3 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Retail Sales (YoY) (Jan) | 7.0% |  | 3.2% |
-| 18 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
-| 18 min | USD | Crude Oil Imports |  |  | 0.503M |
-| 18 min | USD | Distillate Fuel Production |  |  | -0.113M |
-| 18 min | USD | EIA Weekly Distillates Stocks |  | 0.180M | -1.559M |
-| 18 min | USD | Gasoline Production |  |  | -0.078M |
-| 18 min | USD | Heating Oil Stockpiles |  |  | -0.183M |
-| 18 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 18 min | USD | Gasoline Inventories |  | -2.000M | -5.737M |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
+| 23 min | USD | Crude Oil Imports |  |  | 0.503M |
+| 23 min | USD | Distillate Fuel Production |  |  | -0.113M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | 0.180M | -1.559M |
+| 23 min | USD | Gasoline Production |  |  | -0.078M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | -0.183M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 23 min | USD | Gasoline Inventories |  | -2.000M | -5.737M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.783B |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -49.70B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 87.10B |
