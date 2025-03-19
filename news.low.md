@@ -7,13 +7,13 @@
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) | 4.5% |  | 0.1% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) | 5.00% | 5.00% | 5.00% |
 | 07:30 | IDR | Lending Facility Rate (Mar) | 6.50% | 6.50% | 6.50% |
-| 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
-| 08:00 | ZAR | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
+| 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.1% |  | 0.2% |
 | 08:00 | ZAR | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
+| 08:00 | ZAR | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
 | 10:00 | EUR | CPI, n.s.a (Feb) | 127.26 | 127.32 | 126.72 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% | 0.5% | -0.7% |
@@ -26,14 +26,14 @@
 | 11:00 | USD | Mortgage Refinance Index | 794.4 |  | 911.3 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Retail Sales (YoY) (Jan) | 7.0% |  | 3.2% |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
-| 23 min | USD | Crude Oil Imports |  |  | 0.503M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.113M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | 0.180M | -1.559M |
-| 23 min | USD | Gasoline Production |  |  | -0.078M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | -0.183M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 23 min | USD | Gasoline Inventories |  | -2.000M | -5.737M |
+| 13:30 | USD | EIA Refinery Crude Runs (WoW) | -0.045M |  | 0.321M |
+| 13:30 | USD | Crude Oil Imports | -1.439M |  | 0.503M |
+| 13:30 | USD | Distillate Fuel Production | 0.151M |  | -0.113M |
+| 13:30 | USD | EIA Weekly Distillates Stocks | -2.812M | 0.180M | -1.559M |
+| 13:30 | USD | Gasoline Production | 0.067M |  | -0.078M |
+| 13:30 | USD | Heating Oil Stockpiles | 0.008M |  | -0.183M |
+| 13:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.6% |
+| 13:30 | USD | Gasoline Inventories | -0.527M | -2.000M | -5.737M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.783B |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | -49.70B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 87.10B |
