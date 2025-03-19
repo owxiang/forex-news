@@ -6,9 +6,9 @@
 | 04:30 | JPY | Industrial Production (MoM) (Jan) | -1.1% | -1.1% | -0.3% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
-| 10:00 | EUR | Core CPI (YoY) (Feb) |  | 2.6% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (Feb) |  | 0.5% | -0.3% |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 4.40% |
+| 10:00 | EUR | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 4.10% |  | 4.30% |
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Cushing Crude Oil Inventories |  |  | -1.228M |

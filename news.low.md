@@ -11,21 +11,21 @@
 | 08:00 | ZAR | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
-| 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.6% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
-| 10:00 | EUR | CPI, n.s.a (Feb) |  | 127.32 | 126.72 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 2.6% | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.5% | -0.7% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q4) |  |  | 4.60% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.650% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.67% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.2% |
-| 11:00 | USD | MBA Purchase Index |  |  | 154.6 |
-| 11:00 | USD | Mortgage Market Index |  |  | 269.3 |
-| 11:00 | USD | Mortgage Refinance Index |  |  | 911.3 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | ZAR | Retail Sales (YoY) (Jan) |  |  | 3.1% |
+| 10:00 | EUR | Core CPI (MoM) (Feb) | 0.5% | 0.6% | -0.9% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.4% |  | -0.3% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.2% |  | 2.4% |
+| 10:00 | EUR | CPI, n.s.a (Feb) | 127.26 | 127.32 | 126.72 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.5% | 0.5% | -0.7% |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.70% |  | 4.50% |
+| 22 min | EUR | German 30-Year Bund Auction |  |  | 2.650% |
+| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.67% |
+| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | 11.2% |
+| 52 min | USD | MBA Purchase Index |  |  | 154.6 |
+| 52 min | USD | Mortgage Market Index |  |  | 269.3 |
+| 52 min | USD | Mortgage Refinance Index |  |  | 911.3 |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
+| 52 min | ZAR | Retail Sales (YoY) (Jan) |  |  | 3.1% |
 | 11:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.321M |
 | 13:30 | USD | Crude Oil Imports |  |  | 0.503M |
