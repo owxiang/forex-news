@@ -16,10 +16,10 @@
 | 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 3.4% |  | 3.5% |
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 0.9% |  | 0.3% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 3.2% |  | 3.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.6% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  | 0.6% | -0.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 2.6% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.4% | 2.5% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) |  | 127.32 | 126.72 |
