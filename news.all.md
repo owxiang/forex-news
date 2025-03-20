@@ -64,9 +64,9 @@
 | 14:00 | USD | High | Existing Home Sales (Feb) | 4.26M | 3.95M | 4.09M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | -0.3% | -0.2% | -0.2% |
-| 24 min | USD | Low | Natural Gas Storage |  | 3B | -62B |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
+| 14:30 | USD | Low | Natural Gas Storage | 9B | 3B | -62B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
 | 16:50 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.243% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.783B |
