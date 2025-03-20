@@ -69,10 +69,10 @@
 | 15:30 | USD | Low | 8-Week Bill Auction | 4.215% |  | 4.220% |
 | 16:50 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.935% |  | 2.243% |
-| 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,760B |
-| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
-| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
-| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,760B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
+| 53 min | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
+| 53 min | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
