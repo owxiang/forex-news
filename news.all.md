@@ -41,8 +41,8 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,892K | 1,890K | 1,859K |
@@ -71,8 +71,8 @@
 | 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.935% |  | 2.243% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,760B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
-| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
+| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
