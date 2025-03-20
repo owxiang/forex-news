@@ -35,10 +35,10 @@
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.425T |  | 3.459T |
 | 21:00 | KRW | PPI (MoM) (Feb) | 0.0% |  | 0.6% |
 | 21:00 | KRW | PPI (YoY) (Feb) | 1.5% |  | 1.8% |
-| 39 min | NZD | Exports (Feb) |  |  | 6.19B |
-| 39 min | NZD | Imports (Feb) |  |  | 6.68B |
-| 39 min | NZD | Trade Balance (YoY) (Feb) |  |  | -7,220M |
-| 39 min | NZD | Trade Balance (MoM) (Feb) |  | -235M | -486M |
+| 21:45 | NZD | Exports (Feb) | 6.74B |  | 6.06B |
+| 21:45 | NZD | Imports (Feb) | 6.23B |  | 6.60B |
+| 21:45 | NZD | Trade Balance (YoY) (Feb) | -6,510M |  | -7,340M |
+| 21:45 | NZD | Trade Balance (MoM) (Feb) | 510M | -235M | -544M |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 4.0% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -355.9B |
