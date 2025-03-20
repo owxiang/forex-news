@@ -1,22 +1,39 @@
-## 19 March 2025 - Moderate Impact Forex News
+## 20 March 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 04:30 | JPY | Industrial Production (MoM) (Jan) | -1.1% | -1.1% | -0.3% |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
-| 10:00 | EUR | Core CPI (YoY) (Feb) | 2.6% | 2.6% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.3% |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 4.10% |  | 4.30% |
-| 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Cushing Crude Oil Inventories | -1.009M |  | -1.228M |
-| 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) | 3.4% |  | 3.9% |
-| 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) | 3.1% |  | 3.4% |
-| 18:00 | USD | Interest Rate Projection - Current (Q1) | 3.9% |  | 4.4% |
-| 18:00 | USD | Interest Rate Projection - Longer (Q1) | 3.0% |  | 3.0% |
-| 20:00 | USD | TIC Net Long-Term Transactions (Jan) | -45.2B | 101.1B | 75.0B |
-| 20:00 | NZD | Westpac Consumer Sentiment (Q1) | 89.2 |  | 97.5 |
-| 21:30 | BRL | Interest Rate Decision | 14.25% | 14.25% | 13.25% |
-| 21:45 | NZD | GDP (QoQ) (Q4) | 0.7% | 0.4% | -1.1% |
+| 3 min | AUD | Employment Change (Feb) |  | 30.8K | 44.0K |
+| 3 min | AUD | Full Employment Change (Feb) |  |  | 54.1K |
+| 3 min | AUD | Unemployment Rate (Feb) |  | 4.1% | 4.1% |
+| 33 min | CNY | China Loan Prime Rate 5Y (Mar) |  | 3.60% | 3.60% |
+| 48 min | CNY | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
+| 07:00 | GBP | Claimant Count Change (Feb) |  | 7.9K | 22.0K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) |  | 95K | 107K |
+| 07:00 | GBP | Unemployment Rate (Jan) |  | 4.4% | 4.4% |
+| 07:00 | EUR | German PPI (MoM) (Feb) |  | 0.2% | -0.1% |
+| 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 09:00 | CHF | SNB Press Conference |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
+| 11:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 12:00 | GBP | BOE Inflation Letter |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Mar) |  | 2 | 9 |
+| 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Mar) |  | 7 | 0 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,870K |
+| 12:30 | USD | Current Account (Q4) |  | -330.0B | -310.9B |
+| 12:30 | USD | Philly Fed Employment (Mar) |  |  | 5.3 |
+| 12:30 | CAD | RMPI (MoM) (Feb) |  |  | 3.7% |
+| 13:00 | ZAR | Interest Rate Decision (Mar) |  | 7.50% | 7.50% |
+| 14:00 | USD | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
+| 14:00 | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
+| 16:50 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 17:00 | USD | 10-Year TIPS Auction |  |  | 2.243% |
+| 20:30 | USD | Fed's Balance Sheet |  |  | 6,760B |
+| 23:30 | JPY | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
+| 23:30 | JPY | National CPI (MoM) (Feb) |  |  | 0.5% |
