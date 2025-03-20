@@ -39,31 +39,31 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) | 8 | 7 | 0 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) | 4.50% | 4.50% | 4.50% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
+| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,870K |
-| 19 min | USD | Moderate | Current Account (Q4) |  | -330.0B | -310.9B |
-| 19 min | USD | High | Initial Jobless Claims |  | 224K | 220K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.00K |
-| 19 min | USD | High | Philadelphia Fed Manufacturing Index (Mar) |  | 8.8 | 18.1 |
-| 19 min | USD | Low | Philly Fed Business Conditions (Mar) |  |  | 27.8 |
-| 19 min | USD | Low | Philly Fed CAPEX Index (Mar) |  |  | 14.00 |
-| 19 min | USD | Moderate | Philly Fed Employment (Mar) |  |  | 5.3 |
-| 19 min | USD | Low | Philly Fed New Orders (Mar) |  |  | 21.9 |
-| 19 min | USD | Low | Philly Fed Prices Paid (Mar) |  |  | 40.50 |
-| 19 min | CAD | Low | IPPI (MoM) (Feb) |  | 0.3% | 1.6% |
-| 19 min | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.8% |
-| 19 min | CAD | Moderate | RMPI (MoM) (Feb) |  | -0.3% | 3.7% |
-| 19 min | CAD | Low | RMPI (YoY) (Feb) |  |  | 11.8% |
-| 49 min | ZAR | Moderate | Interest Rate Decision (Mar) |  | 7.50% | 7.50% |
-| 49 min | ZAR | Low | Prime Rate (Mar) |  |  | 11.00% |
-| 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.08M |
-| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
-| 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
+| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,892K | 1,890K | 1,859K |
+| 12:30 | USD | Moderate | Current Account (Q4) | -303.9B | -330.0B | -310.3B |
+| 12:30 | USD | High | Initial Jobless Claims | 223K | 224K | 221K |
+| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.00K |  | 226.25K |
+| 12:30 | USD | High | Philadelphia Fed Manufacturing Index (Mar) | 12.5 | 8.8 | 18.1 |
+| 12:30 | USD | Low | Philly Fed Business Conditions (Mar) | 5.6 |  | 27.8 |
+| 12:30 | USD | Low | Philly Fed CAPEX Index (Mar) | 13.40 |  | 14.00 |
+| 12:30 | USD | Moderate | Philly Fed Employment (Mar) | 19.7 |  | 5.3 |
+| 12:30 | USD | Low | Philly Fed New Orders (Mar) | 8.7 |  | 21.9 |
+| 12:30 | USD | Low | Philly Fed Prices Paid (Mar) | 48.30 |  | 40.50 |
+| 12:30 | CAD | Low | IPPI (MoM) (Feb) | 0.4% | 0.3% | 1.4% |
+| 12:30 | CAD | Low | IPPI (YoY) (Feb) | 4.9% |  | 5.6% |
+| 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
+| 12:30 | CAD | Low | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
+| 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
+| 13:00 | ZAR | Low | Prime Rate (Mar) | 11.00% |  | 11.00% |
+| 49 min | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.08M |
+| 49 min | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
+| 49 min | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 3B | -62B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
@@ -76,8 +76,8 @@
 | 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
 | 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |

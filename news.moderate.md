@@ -24,14 +24,14 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Mar) | 8 | 7 | 0 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 19 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 19 min | USD | Continuing Jobless Claims |  | 1,890K | 1,870K |
-| 19 min | USD | Current Account (Q4) |  | -330.0B | -310.9B |
-| 19 min | USD | Philly Fed Employment (Mar) |  |  | 5.3 |
-| 19 min | CAD | RMPI (MoM) (Feb) |  | -0.3% | 3.7% |
-| 49 min | ZAR | Interest Rate Decision (Mar) |  | 7.50% | 7.50% |
-| 14:00 | USD | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
-| 14:00 | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | USD | Continuing Jobless Claims | 1,892K | 1,890K | 1,859K |
+| 12:30 | USD | Current Account (Q4) | -303.9B | -330.0B | -310.3B |
+| 12:30 | USD | Philly Fed Employment (Mar) | 19.7 |  | 5.3 |
+| 12:30 | CAD | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
+| 13:00 | ZAR | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
+| 49 min | USD | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
+| 49 min | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
 | 16:50 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction |  |  | 2.243% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,760B |
