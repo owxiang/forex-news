@@ -15,20 +15,20 @@
 | 10:00 | EUR | French 8-Year OAT Auction | 3.23% |  | 2.77% |
 | 10:00 | EUR | Construction Output (MoM) (Jan) | 0.19% |  | 0.39% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 24 min | INR | M3 Money Supply |  |  | 9.6% |
-| 54 min | MXN | Aggregate Demand (YoY) (Q4) |  | 1.90% | 2.30% |
-| 54 min | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
-| 54 min | MXN | Private Spending (YoY) (Q4) |  |  | 2.90% |
-| 54 min | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 226.00K |
-| 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 27.8 |
-| 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.00 |
-| 12:30 | USD | Philly Fed New Orders (Mar) |  |  | 21.9 |
-| 12:30 | USD | Philly Fed Prices Paid (Mar) |  |  | 40.50 |
-| 12:30 | CAD | IPPI (MoM) (Feb) |  | 0.3% | 1.6% |
-| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.8% |
-| 12:30 | CAD | RMPI (YoY) (Feb) |  |  | 11.8% |
-| 13:00 | ZAR | Prime Rate (Mar) |  |  | 11.00% |
+| 11:30 | INR | M3 Money Supply | 9.6% |  | 9.6% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
+| 12:00 | MXN | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
+| 12:00 | MXN | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
+| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 226.00K |
+| 19 min | USD | Philly Fed Business Conditions (Mar) |  |  | 27.8 |
+| 19 min | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.00 |
+| 19 min | USD | Philly Fed New Orders (Mar) |  |  | 21.9 |
+| 19 min | USD | Philly Fed Prices Paid (Mar) |  |  | 40.50 |
+| 19 min | CAD | IPPI (MoM) (Feb) |  | 0.3% | 1.6% |
+| 19 min | CAD | IPPI (YoY) (Feb) |  |  | 5.8% |
+| 19 min | CAD | RMPI (YoY) (Feb) |  |  | 11.8% |
+| 49 min | ZAR | Prime Rate (Mar) |  |  | 11.00% |
 | 14:30 | USD | Natural Gas Storage |  | 3B | -62B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 4.225% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 4.220% |
