@@ -2,8 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | Participation Rate (Feb) |  | 67.3% | 67.3% |
-| 3 min | AUD | Reserve Assets Total (Feb) |  |  | 103.2B |
+| 00:30 | AUD | Participation Rate (Feb) | 66.8% | 67.3% | 67.3% |
+| 00:30 | AUD | Reserve Assets Total (Feb) | 103,702.0B |  | 103.2B |
+| 26 min | HKD | PPI (YoY) (Q1) |  |  | 4.20% |
 | 03:00 | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
 | 07:00 | CHF | Trade Balance (Feb) |  | 5.010B | 6.124B |
@@ -28,8 +29,8 @@
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.00 |
 | 12:30 | USD | Philly Fed New Orders (Mar) |  |  | 21.9 |
 | 12:30 | USD | Philly Fed Prices Paid (Mar) |  |  | 40.50 |
-| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.8% |
 | 12:30 | CAD | IPPI (MoM) (Feb) |  |  | 1.6% |
+| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.8% |
 | 12:30 | CAD | RMPI (YoY) (Feb) |  |  | 11.8% |
 | 13:00 | ZAR | Prime Rate (Mar) |  |  | 11.00% |
 | 14:30 | USD | Natural Gas Storage |  | 5B | -62B |

@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | Employment Change (Feb) |  | 30.8K | 44.0K |
-| 3 min | AUD | Full Employment Change (Feb) |  |  | 54.1K |
-| 3 min | AUD | Unemployment Rate (Feb) |  | 4.1% | 4.1% |
-| 33 min | CNY | China Loan Prime Rate 5Y (Mar) |  | 3.60% | 3.60% |
-| 48 min | CNY | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 00:30 | AUD | Employment Change (Feb) | -52.8K | 30.8K | 44.0K |
+| 00:30 | AUD | Full Employment Change (Feb) | -35.7K |  | 54.1K |
+| 00:30 | AUD | Unemployment Rate (Feb) | 4.1% | 4.1% | 4.1% |
+| 01:00 | CNY | China Loan Prime Rate 5Y (Mar) | 3.60% | 3.60% | 3.60% |
+| 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
 | 07:00 | GBP | Claimant Count Change (Feb) |  | 7.9K | 22.0K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) |  | 95K | 107K |

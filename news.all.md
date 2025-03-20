@@ -2,13 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 3 min | AUD | Moderate | Employment Change (Feb) |  | 30.8K | 44.0K |
-| 3 min | AUD | Moderate | Full Employment Change (Feb) |  |  | 54.1K |
-| 3 min | AUD | Low | Participation Rate (Feb) |  | 67.3% | 67.3% |
-| 3 min | AUD | Low | Reserve Assets Total (Feb) |  |  | 103.2B |
-| 3 min | AUD | Moderate | Unemployment Rate (Feb) |  | 4.1% | 4.1% |
-| 33 min | CNY | Moderate | China Loan Prime Rate 5Y (Mar) |  | 3.60% | 3.60% |
-| 48 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 00:30 | AUD | Moderate | Employment Change (Feb) | -52.8K | 30.8K | 44.0K |
+| 00:30 | AUD | Moderate | Full Employment Change (Feb) | -35.7K |  | 54.1K |
+| 00:30 | AUD | Low | Participation Rate (Feb) | 66.8% | 67.3% | 67.3% |
+| 00:30 | AUD | Low | Reserve Assets Total (Feb) | 103,702.0B |  | 103.2B |
+| 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 4.1% | 4.1% | 4.1% |
+| 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Mar) | 3.60% | 3.60% | 3.60% |
+| 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
+| 26 min | HKD | Low | PPI (YoY) (Q1) |  |  | 4.20% |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
@@ -58,8 +59,8 @@
 | 12:30 | USD | Moderate | Philly Fed Employment (Mar) |  |  | 5.3 |
 | 12:30 | USD | Low | Philly Fed New Orders (Mar) |  |  | 21.9 |
 | 12:30 | USD | Low | Philly Fed Prices Paid (Mar) |  |  | 40.50 |
-| 12:30 | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.8% |
 | 12:30 | CAD | Low | IPPI (MoM) (Feb) |  |  | 1.6% |
+| 12:30 | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.8% |
 | 12:30 | CAD | Low | RMPI (YoY) (Feb) |  |  | 11.8% |
 | 12:30 | CAD | Moderate | RMPI (MoM) (Feb) |  |  | 3.7% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) |  | 7.50% | 7.50% |
