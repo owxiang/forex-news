@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Feb) | -52.8K | 30.8K | 44.0K |
-| 00:30 | AUD | Full Employment Change (Feb) | -35.7K |  | 54.1K |
+| 00:30 | AUD | Employment Change (Feb) | -52.8K | 30.8K | 30.5K |
+| 00:30 | AUD | Full Employment Change (Feb) | -35.7K |  | 36.9K |
 | 00:30 | AUD | Unemployment Rate (Feb) | 4.1% | 4.1% | 4.1% |
 | 01:00 | CNY | China Loan Prime Rate 5Y (Mar) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
@@ -28,7 +28,7 @@
 | 12:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,870K |
 | 12:30 | USD | Current Account (Q4) |  | -330.0B | -310.9B |
 | 12:30 | USD | Philly Fed Employment (Mar) |  |  | 5.3 |
-| 12:30 | CAD | RMPI (MoM) (Feb) |  |  | 3.7% |
+| 12:30 | CAD | RMPI (MoM) (Feb) |  | -0.3% | 3.7% |
 | 13:00 | ZAR | Interest Rate Decision (Mar) |  | 7.50% | 7.50% |
 | 14:00 | USD | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
 | 14:00 | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
