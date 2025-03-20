@@ -39,8 +39,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) | 8 | 7 | 0 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) | 4.50% | 4.50% | 4.50% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
+| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -75,11 +75,11 @@
 | 21:00 | KRW | Low | PPI (YoY) (Feb) | 1.5% |  | 1.8% |
 | 21:45 | NZD | Low | Exports (Feb) | 6.74B |  | 6.06B |
 | 21:45 | NZD | Low | Imports (Feb) | 6.23B |  | 6.60B |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Feb) | -6,510M |  | -7,340M |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Feb) | 510M | -235M | -544M |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
-| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Feb) |  |  | 0.5% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -355.9B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -220.5B |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Feb) | -6,510M |  | -7,340M |
+| 24 min | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
+| 24 min | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
+| 24 min | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |
+| 24 min | JPY | Moderate | National CPI (MoM) (Feb) |  |  | 0.5% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -355.9B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -220.5B |

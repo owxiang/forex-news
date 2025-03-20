@@ -16,8 +16,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Jan) | 0.19% |  | 0.39% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | M3 Money Supply | 9.6% |  | 9.6% |
-| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | MXN | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 227.00K |  | 226.25K |
@@ -37,9 +37,9 @@
 | 21:00 | KRW | PPI (YoY) (Feb) | 1.5% |  | 1.8% |
 | 21:45 | NZD | Exports (Feb) | 6.74B |  | 6.06B |
 | 21:45 | NZD | Imports (Feb) | 6.23B |  | 6.60B |
-| 21:45 | NZD | Trade Balance (YoY) (Feb) | -6,510M |  | -7,340M |
 | 21:45 | NZD | Trade Balance (MoM) (Feb) | 510M | -235M | -544M |
-| 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
-| 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 4.0% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -355.9B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -220.5B |
+| 21:45 | NZD | Trade Balance (YoY) (Feb) | -6,510M |  | -7,340M |
+| 24 min | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
+| 24 min | JPY | National CPI (YoY) (Feb) |  |  | 4.0% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | -355.9B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -220.5B |
