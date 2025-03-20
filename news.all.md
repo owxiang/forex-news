@@ -15,8 +15,8 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) | 144K | 95K | 107K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 4.4% | 4.4% | 4.4% |
 | 07:00 | CHF | Low | Trade Balance (Feb) | 4.803B | 5.010B | 6.148B |
-| 07:00 | EUR | Low | German PPI (YoY) (Feb) | 0.7% | 1.0% | 0.5% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Feb) | -0.2% | 0.2% | -0.1% |
+| 07:00 | EUR | Low | German PPI (YoY) (Feb) | 0.7% | 1.0% | 0.5% |
 | 08:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q1) | 0.25% | 0.25% | 0.50% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -39,8 +39,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) | 8 | 7 | 0 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) | 4.50% | 4.50% | 4.50% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
+| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -57,30 +57,29 @@
 | 12:30 | USD | Low | Philly Fed Prices Paid (Mar) | 48.30 |  | 40.50 |
 | 12:30 | CAD | Low | IPPI (MoM) (Feb) | 0.4% | 0.3% | 1.4% |
 | 12:30 | CAD | Low | IPPI (YoY) (Feb) | 4.9% |  | 5.6% |
-| 12:30 | CAD | Low | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
 | 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
+| 12:30 | CAD | Low | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) | 11.00% |  | 11.00% |
-| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
 | 14:00 | USD | High | Existing Home Sales (Feb) | 4.26M | 3.95M | 4.09M |
+| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | -0.3% | -0.2% | -0.2% |
 | 14:30 | USD | Low | Natural Gas Storage | 9B | 3B | -62B |
 | 15:30 | USD | Low | 4-Week Bill Auction | 4.215% |  | 4.225% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 4.215% |  | 4.220% |
-| 42 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 52 min | USD | Moderate | 10-Year TIPS Auction |  |  | 2.243% |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.783B |
+| 16:50 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.935% |  | 2.243% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,760B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
-| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
 | 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
+| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
-| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |
 | 23:30 | JPY | Moderate | National CPI (MoM) (Feb) |  |  | 0.5% |
+| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -355.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -220.5B |
