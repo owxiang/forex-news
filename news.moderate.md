@@ -17,13 +17,13 @@
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
-| 53 min | EUR | ECB Economic Bulletin |  |  |  |
-| 12:00 | GBP | BOE Inflation Letter |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Mar) |  | 2 | 9 |
-| 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Mar) |  | 7 | 0 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 11:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 54 min | GBP | BOE Inflation Letter |  |  |  |
+| 54 min | GBP | BoE MPC vote cut (Mar) |  | 2 | 9 |
+| 54 min | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |
+| 54 min | GBP | BoE MPC vote unchanged (Mar) |  | 7 | 0 |
+| 54 min | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 54 min | EUR | ECB's Lane Speaks |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,870K |
 | 12:30 | USD | Current Account (Q4) |  | -330.0B | -310.9B |

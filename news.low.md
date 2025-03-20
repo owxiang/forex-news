@@ -11,15 +11,15 @@
 | 08:30 | HKD | CPI (YoY) (Feb) | 1.40% | 1.80% | 2.00% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.382% |  | 3.507% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction | 2.756% |  | 2.682% |
-| 10:00 | EUR | French 7-Year OAT Auction |  |  | 2.70% |
+| 10:00 | EUR | French 7-Year OAT Auction | 3.10% |  | 2.70% |
 | 10:00 | EUR | French 8-Year OAT Auction | 3.23% |  | 2.77% |
 | 10:00 | EUR | Construction Output (MoM) (Jan) | 0.19% |  | 0.39% |
-| 53 min | EUR | German Buba Monthly Report |  |  |  |
-| 11:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 12:00 | MXN | Aggregate Demand (YoY) (Q4) |  | 1.90% | 2.30% |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
-| 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 2.90% |
-| 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 24 min | INR | M3 Money Supply |  |  | 9.6% |
+| 54 min | MXN | Aggregate Demand (YoY) (Q4) |  | 1.90% | 2.30% |
+| 54 min | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
+| 54 min | MXN | Private Spending (YoY) (Q4) |  |  | 2.90% |
+| 54 min | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 226.00K |
 | 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 27.8 |
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.00 |
@@ -40,7 +40,6 @@
 | 21:45 | NZD | Imports (Feb) |  |  | 6.68B |
 | 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -7,220M |
-| 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 4.0% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -355.9B |

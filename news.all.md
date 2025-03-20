@@ -26,24 +26,24 @@
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.382% |  | 3.507% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction | 2.756% |  | 2.682% |
-| 10:00 | EUR | Low | French 7-Year OAT Auction |  |  | 2.70% |
+| 10:00 | EUR | Low | French 7-Year OAT Auction | 3.10% |  | 2.70% |
 | 10:00 | EUR | Low | French 8-Year OAT Auction | 3.23% |  | 2.77% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Jan) | 0.19% |  | 0.39% |
 | 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 12:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Mar) |  | 2 | 9 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 7 | 0 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Mar) |  | 4.50% | 4.50% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  | 1.90% | 2.30% |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 2.90% |
-| 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.10% |
-| 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 54 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 54 min | GBP | Moderate | BoE MPC vote cut (Mar) |  | 2 | 9 |
+| 54 min | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 0 |
+| 54 min | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 7 | 0 |
+| 54 min | GBP | High | BoE Interest Rate Decision (Mar) |  | 4.50% | 4.50% |
+| 54 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 54 min | MXN | Low | Aggregate Demand (YoY) (Q4) |  | 1.90% | 2.30% |
+| 54 min | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
+| 54 min | MXN | Low | Private Spending (YoY) (Q4) |  |  | 2.90% |
+| 54 min | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.10% |
+| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,870K |
 | 12:30 | USD | Moderate | Current Account (Q4) |  | -330.0B | -310.9B |
@@ -78,10 +78,9 @@
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
-| 23:00 | JPY | Low | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |
+| 23:30 | JPY | Moderate | National CPI (MoM) (Feb) |  |  | 0.5% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -355.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -220.5B |
