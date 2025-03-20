@@ -32,8 +32,8 @@
 | 13:00 | ZAR | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
 | 14:00 | USD | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
 | 14:00 | USD | US Leading Index (MoM) (Feb) | -0.3% | -0.2% | -0.2% |
-| 16:50 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 17:00 | USD | 10-Year TIPS Auction |  |  | 2.243% |
+| 42 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 52 min | USD | 10-Year TIPS Auction |  |  | 2.243% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,760B |
 | 23:30 | JPY | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
 | 23:30 | JPY | National CPI (MoM) (Feb) |  |  | 0.5% |

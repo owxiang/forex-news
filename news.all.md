@@ -15,8 +15,8 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) | 144K | 95K | 107K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 4.4% | 4.4% | 4.4% |
 | 07:00 | CHF | Low | Trade Balance (Feb) | 4.803B | 5.010B | 6.148B |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Feb) | -0.2% | 0.2% | -0.1% |
 | 07:00 | EUR | Low | German PPI (YoY) (Feb) | 0.7% | 1.0% | 0.5% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Feb) | -0.2% | 0.2% | -0.1% |
 | 08:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q1) | 0.25% | 0.25% | 0.50% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -57,18 +57,18 @@
 | 12:30 | USD | Low | Philly Fed Prices Paid (Mar) | 48.30 |  | 40.50 |
 | 12:30 | CAD | Low | IPPI (MoM) (Feb) | 0.4% | 0.3% | 1.4% |
 | 12:30 | CAD | Low | IPPI (YoY) (Feb) | 4.9% |  | 5.6% |
-| 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
 | 12:30 | CAD | Low | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
+| 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) | 11.00% |  | 11.00% |
-| 14:00 | USD | High | Existing Home Sales (Feb) | 4.26M | 3.95M | 4.09M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
+| 14:00 | USD | High | Existing Home Sales (Feb) | 4.26M | 3.95M | 4.09M |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | -0.3% | -0.2% | -0.2% |
 | 14:30 | USD | Low | Natural Gas Storage | 9B | 3B | -62B |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
-| 16:50 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.243% |
+| 15:30 | USD | Low | 4-Week Bill Auction | 4.215% |  | 4.225% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 4.215% |  | 4.220% |
+| 42 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 52 min | USD | Moderate | 10-Year TIPS Auction |  |  | 2.243% |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.783B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,760B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |

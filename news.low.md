@@ -30,8 +30,8 @@
 | 12:30 | CAD | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
 | 13:00 | ZAR | Prime Rate (Mar) | 11.00% |  | 11.00% |
 | 14:30 | USD | Natural Gas Storage | 9B | 3B | -62B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.225% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.220% |
+| 15:30 | USD | 4-Week Bill Auction | 4.215% |  | 4.225% |
+| 15:30 | USD | 8-Week Bill Auction | 4.215% |  | 4.220% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.783B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
 | 21:00 | KRW | PPI (MoM) (Feb) |  |  | 0.6% |
