@@ -30,8 +30,8 @@
 | 12:30 | USD | Philly Fed Employment (Mar) | 19.7 |  | 5.3 |
 | 12:30 | CAD | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
 | 13:00 | ZAR | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
-| 49 min | USD | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
-| 49 min | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
+| 14:00 | USD | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
+| 14:00 | USD | US Leading Index (MoM) (Feb) | -0.3% | -0.2% | -0.2% |
 | 16:50 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction |  |  | 2.243% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,760B |

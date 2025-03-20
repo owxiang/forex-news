@@ -39,8 +39,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) | 8 | 7 | 0 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) | 4.50% | 4.50% | 4.50% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
+| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -61,10 +61,10 @@
 | 12:30 | CAD | Low | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) | 11.00% |  | 11.00% |
-| 49 min | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.08M |
-| 49 min | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
-| 49 min | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
-| 14:30 | USD | Low | Natural Gas Storage |  | 3B | -62B |
+| 14:00 | USD | High | Existing Home Sales (Feb) | 4.26M | 3.95M | 4.09M |
+| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
+| 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | -0.3% | -0.2% | -0.2% |
+| 24 min | USD | Low | Natural Gas Storage |  | 3B | -62B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
 | 16:50 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
@@ -76,8 +76,8 @@
 | 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
-| 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
 | 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |

@@ -16,8 +16,8 @@
 | 10:00 | EUR | Construction Output (MoM) (Jan) | 0.19% |  | 0.39% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | M3 Money Supply | 9.6% |  | 9.6% |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 1.90% | 1.90% | 2.30% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 0.00% |  | 1.20% |
 | 12:00 | MXN | Private Spending (YoY) (Q4) | 0.40% |  | 2.90% |
 | 12:00 | MXN | Private Spending (QoQ) (Q4) | -1.40% |  | 1.10% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 227.00K |  | 226.25K |
@@ -29,7 +29,7 @@
 | 12:30 | CAD | IPPI (YoY) (Feb) | 4.9% |  | 5.6% |
 | 12:30 | CAD | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
 | 13:00 | ZAR | Prime Rate (Mar) | 11.00% |  | 11.00% |
-| 14:30 | USD | Natural Gas Storage |  | 3B | -62B |
+| 24 min | USD | Natural Gas Storage |  | 3B | -62B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 4.225% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 4.220% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.783B |
@@ -38,8 +38,8 @@
 | 21:00 | KRW | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Imports (Feb) |  |  | 6.68B |
-| 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -235M | -486M |
+| 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 4.0% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -355.9B |
