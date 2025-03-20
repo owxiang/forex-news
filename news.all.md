@@ -9,15 +9,15 @@
 | 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 4.1% | 4.1% | 4.1% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Mar) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 23 min | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Feb) |  | 7.9K | 22.0K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | 95K | 107K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Jan) |  | 4.4% | 4.4% |
-| 07:00 | CHF | Low | Trade Balance (Feb) |  | 5.010B | 6.124B |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Feb) |  | 0.2% | -0.1% |
-| 07:00 | EUR | Low | German PPI (YoY) (Feb) |  | 1.0% | 0.5% |
+| 22 min | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 52 min | GBP | Low | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
+| 52 min | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
+| 52 min | GBP | Moderate | Claimant Count Change (Feb) |  | 7.9K | 22.0K |
+| 52 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | 95K | 107K |
+| 52 min | GBP | Moderate | Unemployment Rate (Jan) |  | 4.4% | 4.4% |
+| 52 min | CHF | Low | Trade Balance (Feb) |  | 5.010B | 6.124B |
+| 52 min | EUR | Moderate | German PPI (MoM) (Feb) |  | 0.2% | -0.1% |
+| 52 min | EUR | Low | German PPI (YoY) (Feb) |  | 1.0% | 0.5% |
 | 08:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q1) |  | 0.25% | 0.50% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -60,12 +60,12 @@
 | 12:30 | USD | Low | Philly Fed Prices Paid (Mar) |  |  | 40.50 |
 | 12:30 | CAD | Low | IPPI (MoM) (Feb) |  | 0.3% | 1.6% |
 | 12:30 | CAD | Low | IPPI (YoY) (Feb) |  |  | 5.8% |
-| 12:30 | CAD | Low | RMPI (YoY) (Feb) |  |  | 11.8% |
 | 12:30 | CAD | Moderate | RMPI (MoM) (Feb) |  | -0.3% | 3.7% |
+| 12:30 | CAD | Low | RMPI (YoY) (Feb) |  |  | 11.8% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) |  | 7.50% | 7.50% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) |  |  | 11.00% |
-| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
 | 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.08M |
+| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 3B | -62B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
@@ -75,12 +75,12 @@
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.783B |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,760B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
-| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
+| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 23:00 | JPY | Low | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
