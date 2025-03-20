@@ -9,16 +9,15 @@
 | 07:00 | EUR | German PPI (YoY) (Feb) | 0.7% | 1.0% | 0.5% |
 | 08:30 | HKD | CPI (MoM) (Feb) | -0.10% |  | 0.40% |
 | 08:30 | HKD | CPI (YoY) (Feb) | 1.40% | 1.80% | 2.00% |
-| 33 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.507% |
-| 33 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.682% |
-| 53 min | EUR | French 10-Year OAT Auction |  |  | 3.51% |
-| 53 min | EUR | French 7-Year OAT Auction |  |  | 2.70% |
-| 53 min | EUR | French 8-Year OAT Auction |  |  | 2.77% |
-| 53 min | EUR | Construction Output (MoM) (Jan) |  |  | 0.00% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.382% |  | 3.507% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction | 2.756% |  | 2.682% |
+| 10:00 | EUR | French 7-Year OAT Auction |  |  | 2.70% |
+| 10:00 | EUR | French 8-Year OAT Auction | 3.23% |  | 2.77% |
+| 10:00 | EUR | Construction Output (MoM) (Jan) | 0.19% |  | 0.39% |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q4) |  | 1.90% | 2.30% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
 | 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 2.90% |
 | 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 226.00K |
@@ -26,8 +25,8 @@
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.00 |
 | 12:30 | USD | Philly Fed New Orders (Mar) |  |  | 21.9 |
 | 12:30 | USD | Philly Fed Prices Paid (Mar) |  |  | 40.50 |
-| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.8% |
 | 12:30 | CAD | IPPI (MoM) (Feb) |  | 0.3% | 1.6% |
+| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | 5.8% |
 | 12:30 | CAD | RMPI (YoY) (Feb) |  |  | 11.8% |
 | 13:00 | ZAR | Prime Rate (Mar) |  |  | 11.00% |
 | 14:30 | USD | Natural Gas Storage |  | 3B | -62B |
@@ -35,12 +34,12 @@
 | 15:30 | USD | 8-Week Bill Auction |  |  | 4.220% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.783B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
-| 21:00 | KRW | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:00 | KRW | PPI (MoM) (Feb) |  |  | 0.6% |
+| 21:00 | KRW | PPI (YoY) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Imports (Feb) |  |  | 6.68B |
-| 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -235M | -486M |
+| 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 4.0% |

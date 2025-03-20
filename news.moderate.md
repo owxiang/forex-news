@@ -16,8 +16,8 @@
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 53 min | EUR | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 10:00 | EUR | EU Leaders Summit |  |  |  |
+| 53 min | EUR | ECB Economic Bulletin |  |  |  |
 | 12:00 | GBP | BOE Inflation Letter |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Mar) |  | 2 | 9 |
 | 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 0 |
