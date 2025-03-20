@@ -9,8 +9,8 @@
 | 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 4.1% | 4.1% | 4.1% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Mar) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 29 min | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
-| 59 min | HKD | Low | PPI (YoY) (Q1) |  |  | 4.20% |
+| 15 min | HKD | Low | PPI (YoY) (Q1) |  |  | 4.20% |
+| 15 min | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Feb) |  | 7.9K | 22.0K |
