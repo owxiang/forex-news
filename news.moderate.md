@@ -7,12 +7,12 @@
 | 00:30 | AUD | Unemployment Rate (Feb) | 4.1% | 4.1% | 4.1% |
 | 01:00 | CNY | China Loan Prime Rate 5Y (Mar) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 52 min | GBP | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
-| 52 min | GBP | Claimant Count Change (Feb) |  | 7.9K | 22.0K |
-| 52 min | GBP | Employment Change 3M/3M (MoM) (Jan) |  | 95K | 107K |
-| 52 min | GBP | Unemployment Rate (Jan) |  | 4.4% | 4.4% |
-| 52 min | EUR | German PPI (MoM) (Feb) |  | 0.2% | -0.1% |
-| 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 07:00 | GBP | Average Earnings Index +Bonus (Jan) | 5.8% | 5.8% | 6.1% |
+| 07:00 | GBP | Claimant Count Change (Feb) | 44.2K | 7.9K | 2.8K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) | 144K | 95K | 107K |
+| 07:00 | GBP | Unemployment Rate (Jan) | 4.4% | 4.4% | 4.4% |
+| 07:00 | EUR | German PPI (MoM) (Feb) | -0.2% | 0.2% | -0.1% |
+| 53 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
