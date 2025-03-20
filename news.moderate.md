@@ -12,10 +12,10 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) | 144K | 95K | 107K |
 | 07:00 | GBP | Unemployment Rate (Jan) | 4.4% | 4.4% | 4.4% |
 | 07:00 | EUR | German PPI (MoM) (Feb) | -0.2% | 0.2% | -0.1% |
-| 53 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | CHF | SNB Press Conference |  |  |  |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 08:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 22 min | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 52 min | CHF | SNB Press Conference |  |  |  |
+| 52 min | EUR | ECB Economic Bulletin |  |  |  |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 12:00 | GBP | BOE Inflation Letter |  |  |  |
