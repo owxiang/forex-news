@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Feb) | 66.8% | 67.3% | 67.3% |
 | 00:30 | AUD | Reserve Assets Total (Feb) | 103,702.0B |  | 103.2B |
-| 26 min | HKD | PPI (YoY) (Q1) |  |  | 4.20% |
-| 03:00 | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 29 min | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 59 min | HKD | PPI (YoY) (Q1) |  |  | 4.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
 | 07:00 | CHF | Trade Balance (Feb) |  | 5.010B | 6.124B |
 | 07:00 | EUR | German PPI (YoY) (Feb) |  | 1.0% | 0.5% |
@@ -22,8 +22,8 @@
 | 11:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q4) |  |  | 2.30% |
-| 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 2.90% |
 | 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.10% |
+| 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 2.90% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 226.00K |
 | 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 27.8 |
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 14.00 |
@@ -42,8 +42,8 @@
 | 21:00 | KRW | PPI (MoM) (Feb) |  |  | 0.6% |
 | 21:45 | NZD | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Imports (Feb) |  |  | 6.68B |
-| 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -7,220M |
+| 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 4.0% |

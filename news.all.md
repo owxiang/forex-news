@@ -9,8 +9,8 @@
 | 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 4.1% | 4.1% | 4.1% |
 | 01:00 | CNY | Moderate | China Loan Prime Rate 5Y (Mar) | 3.60% | 3.60% | 3.60% |
 | 01:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 26 min | HKD | Low | PPI (YoY) (Q1) |  |  | 4.20% |
-| 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 29 min | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 59 min | HKD | Low | PPI (YoY) (Q1) |  |  | 4.20% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.8% | 6.0% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Feb) |  | 7.9K | 22.0K |
@@ -45,8 +45,8 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 1.20% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 2.30% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 2.90% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.10% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 2.90% |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,870K |
@@ -65,8 +65,8 @@
 | 12:30 | CAD | Moderate | RMPI (MoM) (Feb) |  |  | 3.7% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) |  | 7.50% | 7.50% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) |  |  | 11.00% |
-| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
 | 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.08M |
+| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | -4.9% |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.2% | -0.3% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 5B | -62B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
@@ -80,8 +80,8 @@
 | 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.6% |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 6.19B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 6.68B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -235M | -486M |
 | 23:00 | JPY | Low | Reuters Tankan Index (Mar) |  |  | 3 |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
