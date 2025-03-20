@@ -55,14 +55,14 @@
 | 12:30 | USD | Moderate | Philly Fed Employment (Mar) | 19.7 |  | 5.3 |
 | 12:30 | USD | Low | Philly Fed New Orders (Mar) | 8.7 |  | 21.9 |
 | 12:30 | USD | Low | Philly Fed Prices Paid (Mar) | 48.30 |  | 40.50 |
-| 12:30 | CAD | Low | IPPI (MoM) (Feb) | 0.4% | 0.3% | 1.4% |
 | 12:30 | CAD | Low | IPPI (YoY) (Feb) | 4.9% |  | 5.6% |
-| 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
+| 12:30 | CAD | Low | IPPI (MoM) (Feb) | 0.4% | 0.3% | 1.4% |
 | 12:30 | CAD | Low | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
+| 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 0.3% | -0.3% | 3.5% |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) | 7.50% | 7.50% | 7.50% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) | 11.00% |  | 11.00% |
-| 14:00 | USD | High | Existing Home Sales (Feb) | 4.26M | 3.95M | 4.09M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 4.2% |  | -4.7% |
+| 14:00 | USD | High | Existing Home Sales (Feb) | 4.26M | 3.95M | 4.09M |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | -0.3% | -0.2% | -0.2% |
 | 14:30 | USD | Low | Natural Gas Storage | 9B | 3B | -62B |
 | 15:30 | USD | Low | 4-Week Bill Auction | 4.215% |  | 4.225% |
@@ -79,7 +79,7 @@
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -7,220M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.9% | 3.2% |
-| 23:30 | JPY | Moderate | National CPI (MoM) (Feb) |  |  | 0.5% |
 | 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 4.0% |
+| 23:30 | JPY | Moderate | National CPI (MoM) (Feb) |  |  | 0.5% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -355.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -220.5B |

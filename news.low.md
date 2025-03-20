@@ -25,8 +25,8 @@
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) | 13.40 |  | 14.00 |
 | 12:30 | USD | Philly Fed New Orders (Mar) | 8.7 |  | 21.9 |
 | 12:30 | USD | Philly Fed Prices Paid (Mar) | 48.30 |  | 40.50 |
-| 12:30 | CAD | IPPI (MoM) (Feb) | 0.4% | 0.3% | 1.4% |
 | 12:30 | CAD | IPPI (YoY) (Feb) | 4.9% |  | 5.6% |
+| 12:30 | CAD | IPPI (MoM) (Feb) | 0.4% | 0.3% | 1.4% |
 | 12:30 | CAD | RMPI (YoY) (Feb) | 9.3% |  | 11.2% |
 | 13:00 | ZAR | Prime Rate (Mar) | 11.00% |  | 11.00% |
 | 14:30 | USD | Natural Gas Storage | 9B | 3B | -62B |
