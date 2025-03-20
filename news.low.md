@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Participation Rate (Feb) | 66.8% | 67.3% | 67.3% |
-| 00:30 | AUD | Reserve Assets Total (Feb) | 103,702.0B |  | 103.2B |
-| 15 min | HKD | PPI (YoY) (Q1) |  |  | 4.20% |
-| 15 min | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 00:30 | AUD | Reserve Assets Total (Feb) | 103.7B |  | 103.2B |
+| 22 min | HKD | PPI (YoY) (Q1) |  |  | 4.20% |
+| 22 min | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) |  | 5.9% | 5.9% |
 | 07:00 | CHF | Trade Balance (Feb) |  | 5.010B | 6.124B |
 | 07:00 | EUR | German PPI (YoY) (Feb) |  | 1.0% | 0.5% |
