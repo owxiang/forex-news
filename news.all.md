@@ -9,10 +9,10 @@
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) | 6.357B |  | -22.402B |
 | 07:45 | EUR | Low | French Business Survey (Mar) | 96 | 97 | 97 |
 | 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,158.4B |  | 1,154.6B |
-| 52 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 52 min | EUR | Low | Current Account (Jan) |  |  | 38.4B |
-| 52 min | EUR | Low | Current Account n.s.a. (Jan) |  |  | 50.5B |
-| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 08:00 | EUR | Low | Current Account (Jan) | 35.4B |  | 38.4B |
+| 08:00 | EUR | Low | Current Account n.s.a. (Jan) | 13.2B |  | 50.5B |
+| 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 53 min | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 653.97B |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | -0.1% | 2.7% |

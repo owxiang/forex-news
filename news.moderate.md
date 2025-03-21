@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | EUR | EU Leaders Summit |  |  |  |
+| 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 53 min | EUR | EU Leaders Summit |  |  |  |
 | 12:30 | CAD | Core Retail Sales (MoM) (Jan) |  | -0.1% | 2.7% |
 | 12:30 | CAD | New Housing Price Index (MoM) (Feb) |  | 0.0% | -0.1% |
 | 12:30 | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | 2.5% |
