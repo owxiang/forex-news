@@ -15,8 +15,7 @@
 | 11:30 | INR | Bank Loan Growth | 11.1% |  | 11.0% |
 | 11:30 | INR | Deposit Growth | 10.2% |  | 10.3% |
 | 11:30 | INR | FX Reserves, USD | 654.27B |  | 653.97B |
-| 19 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 15:00 | EUR | Consumer Confidence (Mar) |  | -13.0 | -13.6 |
+| 54 min | EUR | Consumer Confidence (Mar) |  | -13.0 | -13.6 |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.0K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 18.6K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 268.4K |
