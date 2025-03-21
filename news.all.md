@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -19 | -20 | -20 |
 | 02:00 | NZD | Low | Credit Card Spending (YoY) (Feb) | 0.9% |  | 1.3% |
-| 04:30 | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 22 min | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) |  | 7.00B | -15.44B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) |  |  | -22.484B |
 | 07:00 | CNY | Low | FDI (Feb) |  |  | -13.40% |
