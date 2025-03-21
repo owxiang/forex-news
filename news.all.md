@@ -23,8 +23,8 @@
 | 12:31 | CAD | Moderate | Retail Sales (MoM) (Feb) | -0.4% |  | -0.6% |
 | 13:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (Mar) | -14.5 | -13.0 | -13.6 |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 487 |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 487 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.2K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.0K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 18.6K |
