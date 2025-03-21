@@ -7,10 +7,10 @@
 | 04:00 | IDR | M2 Money Supply (YoY) (Feb) | 5.70% |  | 5.50% |
 | 07:00 | GBP | Public Sector Net Borrowing (Feb) | 10.71B | 7.00B | -13.32B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Feb) | 6.357B |  | -22.402B |
-| 37 min | EUR | French Business Survey (Mar) |  | 97 | 97 |
-| 52 min | CHF | M3 Money Supply (Feb) |  |  | 1,152.9B |
-| 09:00 | EUR | Current Account (Jan) |  |  | 38.4B |
-| 09:00 | EUR | Current Account n.s.a. (Jan) |  |  | 50.5B |
+| 07:45 | EUR | French Business Survey (Mar) | 96 | 97 | 97 |
+| 08:00 | CHF | M3 Money Supply (Feb) | 1,158.4B |  | 1,154.6B |
+| 52 min | EUR | Current Account (Jan) |  |  | 38.4B |
+| 52 min | EUR | Current Account n.s.a. (Jan) |  |  | 50.5B |
 | 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | FX Reserves, USD |  |  | 653.97B |
 | 13:30 | BRL | Federal Tax Revenue (Feb) |  |  | 261.30B |
