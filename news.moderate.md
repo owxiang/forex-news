@@ -7,7 +7,7 @@
 | 12:30 | CAD | Core Retail Sales (MoM) (Jan) |  | -0.1% | 2.7% |
 | 12:30 | CAD | New Housing Price Index (MoM) (Feb) |  | 0.0% | -0.1% |
 | 12:30 | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | 2.5% |
-| 12:30 | CAD | Retail Sales (MoM) (Jan) |  |  | 2.5% |
+| 12:31 | CAD | Retail Sales (MoM) (Feb) |  |  |  |
 | 13:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 487 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |

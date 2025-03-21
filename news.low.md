@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Mar) | -19 | -20 | -20 |
 | 02:00 | NZD | Credit Card Spending (YoY) (Feb) | 0.9% |  | 1.3% |
-| 22 min | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
+| 04:00 | IDR | M2 Money Supply (YoY) (Feb) | 5.70% |  | 5.50% |
 | 07:00 | GBP | Public Sector Net Borrowing (Feb) |  | 7.00B | -15.44B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Feb) |  |  | -22.484B |
 | 07:00 | CNY | FDI (Feb) |  |  | -13.40% |
 | 07:45 | EUR | French Business Survey (Mar) |  | 97 | 97 |
-| 08:00 | CHF | M3 Money Supply (Feb) |  |  | 1,152,888.0B |
-| 08:00 | EUR | Current Account (Jan) |  |  | 38.4B |
-| 08:00 | EUR | Current Account n.s.a. (Jan) |  |  | 50.5B |
+| 08:00 | CHF | M3 Money Supply (Feb) |  |  | 1,152.9B |
+| 09:00 | EUR | Current Account (Jan) |  |  | 38.4B |
+| 09:00 | EUR | Current Account n.s.a. (Jan) |  |  | 50.5B |
 | 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | FX Reserves, USD |  |  | 653.97B |
 | 13:30 | BRL | Federal Tax Revenue (Feb) |  |  | 261.30B |
