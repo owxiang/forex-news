@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | EUR | EU Leaders Summit |  |  |  |
-| 20 min | CAD | Core Retail Sales (MoM) (Jan) |  | -0.1% | 2.7% |
-| 20 min | CAD | New Housing Price Index (MoM) (Feb) |  | 0.0% | -0.1% |
-| 20 min | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | 2.5% |
-| 21 min | CAD | Retail Sales (MoM) (Feb) |  |  |  |
-| 55 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 12:30 | CAD | Core Retail Sales (MoM) (Jan) | 0.2% | -0.1% | 2.9% |
+| 12:30 | CAD | New Housing Price Index (MoM) (Feb) | 0.1% | 0.0% | -0.1% |
+| 12:30 | CAD | Retail Sales (MoM) (Jan) | -0.6% | -0.4% | 2.6% |
+| 12:31 | CAD | Retail Sales (MoM) (Feb) | -0.4% |  | -0.6% |
+| 13:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 487 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 29.2K |

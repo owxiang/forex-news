@@ -17,12 +17,12 @@
 | 11:30 | INR | Low | Bank Loan Growth | 11.1% |  | 11.0% |
 | 11:30 | INR | Low | Deposit Growth | 10.2% |  | 10.3% |
 | 11:30 | INR | Low | FX Reserves, USD | 654.27B |  | 653.97B |
-| 20 min | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | -0.1% | 2.7% |
-| 20 min | CAD | Moderate | New Housing Price Index (MoM) (Feb) |  | 0.0% | -0.1% |
-| 20 min | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | 2.5% |
-| 21 min | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  |  |
-| 55 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | BRL | Low | Federal Tax Revenue (Feb) |  |  | 261.30B |
+| 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) | 0.2% | -0.1% | 2.9% |
+| 12:30 | CAD | Moderate | New Housing Price Index (MoM) (Feb) | 0.1% | 0.0% | -0.1% |
+| 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) | -0.6% | -0.4% | 2.6% |
+| 12:31 | CAD | Moderate | Retail Sales (MoM) (Feb) | -0.4% |  | -0.6% |
+| 13:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 19 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | EUR | Low | Consumer Confidence (Mar) |  | -13.0 | -13.6 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 487 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
