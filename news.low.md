@@ -16,14 +16,14 @@
 | 11:30 | INR | Deposit Growth | 10.2% |  | 10.3% |
 | 11:30 | INR | FX Reserves, USD | 654.27B |  | 653.97B |
 | 15:00 | EUR | Consumer Confidence (Mar) | -14.5 | -13.0 | -13.6 |
-| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.0K |
-| 19:30 | USD | CFTC Copper speculative net positions |  |  | 18.6K |
-| 19:30 | USD | CFTC Corn speculative net positions |  |  | 268.4K |
-| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -93.0K |
-| 19:30 | USD | CFTC Silver speculative net positions |  |  | 59.5K |
-| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | -12.1K |
-| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -78.1K |
-| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -142.4K |
-| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 30.1K |
-| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -37.0K |
-| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -52.9K |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 2.0K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 18.6K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | 268.4K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -93.0K |
+| 25 min | USD | CFTC Silver speculative net positions |  |  | 59.5K |
+| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -12.1K |
+| 25 min | USD | CFTC Wheat speculative net positions |  |  | -78.1K |
+| 25 min | CAD | CFTC CAD speculative net positions |  |  | -142.4K |
+| 25 min | MXN | CFTC MXN speculative net positions |  |  | 30.1K |
+| 25 min | CHF | CFTC CHF speculative net positions |  |  | -37.0K |
+| 25 min | NZD | CFTC NZD speculative net positions |  |  | -52.9K |
