@@ -19,4 +19,4 @@
 | 19:30 | BRL | CFTC BRL speculative net positions | 40.7K |  | 41.9K |
 | 19:30 | JPY | CFTC JPY speculative net positions | 123.0K |  | 133.9K |
 | 19:30 | EUR | CFTC EUR speculative net positions | 59.4K |  | 13.1K |
-| 23 min | USD | CFTC Gold speculative net positions | 257.9K |  | 236.1K |
+| 20:30 | USD | CFTC Gold speculative net positions | 257.9K |  | 236.1K |

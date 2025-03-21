@@ -44,4 +44,4 @@
 | 19:30 | JPY | Moderate | CFTC JPY speculative net positions | 123.0K |  | 133.9K |
 | 19:30 | NZD | Low | CFTC NZD speculative net positions | -40.4K |  | -52.9K |
 | 19:30 | EUR | Moderate | CFTC EUR speculative net positions | 59.4K |  | 13.1K |
-| 23 min | USD | Moderate | CFTC Gold speculative net positions | 257.9K |  | 236.1K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 257.9K |  | 236.1K |
