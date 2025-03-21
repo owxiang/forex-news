@@ -18,8 +18,8 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 653.97B |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | -0.1% | 2.7% |
 | 12:30 | CAD | Moderate | New Housing Price Index (MoM) (Feb) |  | 0.0% | -0.1% |
-| 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) |  |  | 2.5% |
 | 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | 2.5% |
+| 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) |  |  | 2.5% |
 | 13:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | BRL | Low | Federal Tax Revenue (Feb) |  |  | 261.30B |
 | 15:00 | EUR | Low | Consumer Confidence (Mar) |  | -13.0 | -13.6 |
