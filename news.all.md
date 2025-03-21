@@ -12,8 +12,8 @@
 | 08:00 | EUR | Low | Current Account (Jan) | 35.4B |  | 38.4B |
 | 08:00 | EUR | Low | Current Account n.s.a. (Jan) | 13.2B |  | 50.5B |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 53 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
+| 10:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 53 min | GBP | Low | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 653.97B |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | -0.1% | 2.7% |
 | 12:30 | CAD | Moderate | New Housing Price Index (MoM) (Feb) |  | 0.0% | -0.1% |

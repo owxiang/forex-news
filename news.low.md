@@ -11,7 +11,7 @@
 | 08:00 | CHF | M3 Money Supply (Feb) | 1,158.4B |  | 1,154.6B |
 | 08:00 | EUR | Current Account (Jan) | 35.4B |  | 38.4B |
 | 08:00 | EUR | Current Account n.s.a. (Jan) | 13.2B |  | 50.5B |
-| 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
+| 53 min | GBP | CBI Industrial Trends Orders (Mar) |  | -30 | -28 |
 | 11:30 | INR | FX Reserves, USD |  |  | 653.97B |
 | 13:30 | BRL | Federal Tax Revenue (Feb) |  |  | 261.30B |
 | 15:00 | EUR | Consumer Confidence (Mar) |  | -13.0 | -13.6 |
