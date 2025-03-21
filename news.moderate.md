@@ -9,8 +9,8 @@
 | 12:30 | CAD | Retail Sales (MoM) (Jan) | -0.6% | -0.4% | 2.6% |
 | 12:31 | CAD | Retail Sales (MoM) (Feb) | -0.4% |  | -0.6% |
 | 13:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 487 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 486 |  | 487 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 593 |  | 592 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 29.2K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 164.1K |
 | 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 22.7K |
