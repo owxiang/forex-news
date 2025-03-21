@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Mar) | -19 | -20 | -20 |
-| 02:10 | NZD | Credit Card Spending (YoY) (Feb) |  |  | 1.3% |
+| 36 min | NZD | Credit Card Spending (YoY) (Feb) |  |  | 1.3% |
 | 04:30 | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.90% |
 | 07:00 | GBP | Public Sector Net Borrowing (Feb) |  | 7.00B | -15.44B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Feb) |  |  | -22.484B |
