@@ -1,3 +1,3 @@
-## 21 March 2025 - High Impact Forex News
+## 23 March 2025 - High Impact Forex News
 
 There is no high impact news today.
