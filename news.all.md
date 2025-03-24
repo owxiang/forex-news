@@ -24,8 +24,8 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) | 0.24% | 0.24% | 0.27% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) | 0.14% | 0.22% | 0.15% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.20% |  | -1.10% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) | -0.10% | -0.10% | -0.40% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.20% |  | -1.10% |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) | 0.18 |  | -0.08 |
 | 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) | 49.8 | 51.9 | 52.7 |
 | 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) | 53.5 |  | 51.6 |
