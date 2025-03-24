@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | au Jibun Bank Services PMI (Mar) | 49.5 |  | 53.7 |
-| 51 min | SGD | Core CPI (YoY) (Feb) |  | 0.70% | 0.80% |
-| 51 min | SGD | CPI (YoY) (Feb) |  | 1.0% | 1.2% |
+| 05:00 | SGD | Core CPI (YoY) (Feb) | 0.60% | 0.70% | 0.80% |
+| 05:00 | SGD | CPI (YoY) (Feb) | 0.9% | 1.0% | 1.2% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Mar) |  | 46.2 | 45.8 |
 | 08:15 | EUR | HCOB France Services PMI (Mar) |  | 46.3 | 45.3 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Mar) |  | 47.1 | 46.5 |

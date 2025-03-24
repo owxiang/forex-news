@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) | 48.3 | 49.2 | 49.0 |
 | 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Mar) | 49.5 |  | 53.7 |
-| 51 min | INR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 56.3 |
-| 51 min | INR | Low | S&P Global Services PMI (Mar) |  |  | 59.0 |
-| 51 min | SGD | Moderate | Core CPI (YoY) (Feb) |  | 0.70% | 0.80% |
-| 51 min | SGD | Low | CPI (MoM) (Feb) |  |  | -0.80% |
-| 51 min | SGD | Moderate | CPI (YoY) (Feb) |  | 1.0% | 1.2% |
+| 05:00 | INR | Low | S&P Global Manufacturing PMI (Mar) | 57.6 |  | 56.3 |
+| 05:00 | INR | Low | S&P Global Services PMI (Mar) | 57.7 |  | 59.0 |
+| 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) | 0.60% | 0.70% | 0.80% |
+| 05:00 | SGD | Low | CPI (MoM) (Feb) | 0.80% |  | -0.80% |
+| 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 0.9% | 1.0% | 1.2% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 46.2 | 45.8 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Mar) |  |  | 45.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Mar) |  | 46.3 | 45.3 |
@@ -24,8 +24,8 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) |  |  | 0.27% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) |  |  | 0.15% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  |  | -0.40% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  |  | -1.00% |
+| 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  |  | -0.40% |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) |  |  | -0.03 |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.9 | 52.7 |
