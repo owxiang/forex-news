@@ -1,3 +1,6 @@
-## 23 March 2025 - High Impact Forex News
+## 24 March 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 13:45 | USD | S&P Global Manufacturing PMI (Mar) |  | 51.9 | 52.7 |
+| 13:45 | USD | S&P Global Services PMI (Mar) |  | 51.2 | 51.0 |
