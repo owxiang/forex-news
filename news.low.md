@@ -6,8 +6,8 @@
 | 05:00 | INR | S&P Global Manufacturing PMI (Mar) | 57.6 |  | 56.3 |
 | 05:00 | INR | S&P Global Services PMI (Mar) | 57.7 |  | 59.0 |
 | 05:00 | SGD | CPI (MoM) (Feb) | 0.80% |  | -0.80% |
-| 08:15 | EUR | HCOB France Composite PMI (Mar) |  |  | 45.1 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Mar) |  | 51.2 | 50.4 |
+| 6 min | EUR | HCOB France Composite PMI (Mar) |  |  | 45.1 |
+| 21 min | EUR | HCOB Germany Composite PMI (Mar) |  | 51.2 | 50.4 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | 1st Half-Month Core CPI (Mar) |  |  | 0.27% |
 | 12:00 | MXN | 1st Half-Month CPI (Mar) |  |  | 0.15% |
