@@ -6,13 +6,13 @@
 | 05:00 | INR | S&P Global Manufacturing PMI (Mar) | 57.6 |  | 56.3 |
 | 05:00 | INR | S&P Global Services PMI (Mar) | 57.7 |  | 59.0 |
 | 05:00 | SGD | CPI (MoM) (Feb) | 0.80% |  | -0.80% |
-| 6 min | EUR | HCOB France Composite PMI (Mar) |  |  | 45.1 |
-| 21 min | EUR | HCOB Germany Composite PMI (Mar) |  | 51.2 | 50.4 |
+| 08:15 | EUR | HCOB France Composite PMI (Mar) | 47.0 |  | 45.1 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Mar) | 50.9 | 51.2 | 50.4 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Mar) |  |  | 0.27% |
-| 12:00 | MXN | 1st Half-Month CPI (Mar) |  |  | 0.15% |
-| 12:00 | MXN | Economic Activity (YoY) (Jan) |  |  | -0.40% |
+| 12:00 | MXN | 1st Half-Month Core CPI (Mar) |  | 0.24% | 0.27% |
+| 12:00 | MXN | 1st Half-Month CPI (Mar) |  | 0.22% | 0.15% |
 | 12:00 | MXN | Economic Activity (MoM) (Jan) |  |  | -1.00% |
+| 12:00 | MXN | Economic Activity (YoY) (Jan) |  | -0.10% | -0.40% |
 | 12:30 | USD | Chicago Fed National Activity (Feb) |  |  | -0.03 |
 | 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.279% |
