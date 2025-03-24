@@ -18,14 +18,14 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 48.7 | 48.3 | 47.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 50.4 | 50.8 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 50.4 | 51.2 | 50.6 |
-| 23 min | GBP | Moderate | S&P Global Composite PMI (Mar) |  |  | 50.5 |
-| 23 min | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 47.3 | 46.9 |
-| 23 min | GBP | Moderate | S&P Global Services PMI (Mar) |  | 51.2 | 51.0 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) | 52.0 | 50.3 | 50.5 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 44.6 | 47.3 | 46.9 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) | 53.2 | 51.2 | 51.0 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.24% | 0.27% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.22% | 0.15% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  |  | -1.00% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  | -0.10% | -0.40% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  |  | -1.00% |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) |  |  | -0.03 |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.9 | 52.7 |

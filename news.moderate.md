@@ -12,9 +12,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) | 48.7 | 48.3 | 47.6 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 50.4 | 50.8 | 50.2 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 50.4 | 51.2 | 50.6 |
-| 23 min | GBP | S&P Global Composite PMI (Mar) |  |  | 50.5 |
-| 23 min | GBP | S&P Global Manufacturing PMI (Mar) |  | 47.3 | 46.9 |
-| 23 min | GBP | S&P Global Services PMI (Mar) |  | 51.2 | 51.0 |
+| 09:30 | GBP | S&P Global Composite PMI (Mar) | 52.0 | 50.3 | 50.5 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Mar) | 44.6 | 47.3 | 46.9 |
+| 09:30 | GBP | S&P Global Services PMI (Mar) | 53.2 | 51.2 | 51.0 |
 | 13:45 | USD | S&P Global Composite PMI (Mar) |  |  | 51.6 |
 | 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
