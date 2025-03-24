@@ -11,8 +11,8 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | 1st Half-Month Core CPI (Mar) | 0.24% | 0.24% | 0.27% |
 | 12:00 | MXN | 1st Half-Month CPI (Mar) | 0.14% | 0.22% | 0.15% |
-| 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.20% |  | -1.10% |
 | 12:00 | MXN | Economic Activity (YoY) (Jan) | -0.10% | -0.10% | -0.40% |
+| 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.20% |  | -1.10% |
 | 12:30 | USD | Chicago Fed National Activity (Feb) | 0.18 |  | -0.08 |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.226% |  | 2.279% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.300% |  | 2.348% |
