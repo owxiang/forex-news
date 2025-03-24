@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 1 min | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) |  | 49.2 | 49.0 |
-| 1 min | JPY | Moderate | au Jibun Bank Services PMI (Mar) |  |  | 53.7 |
+| 00:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) | 48.3 | 49.2 | 49.0 |
+| 00:30 | JPY | Moderate | au Jibun Bank Services PMI (Mar) | 49.5 |  | 53.7 |
 | 05:00 | INR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 56.3 |
 | 05:00 | INR | Low | S&P Global Services PMI (Mar) |  |  | 59.0 |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) |  | 0.70% | 0.80% |
