@@ -15,7 +15,7 @@
 | 09:30 | GBP | S&P Global Composite PMI (Mar) | 52.0 | 50.3 | 50.5 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Mar) | 44.6 | 47.3 | 46.9 |
 | 09:30 | GBP | S&P Global Services PMI (Mar) | 53.2 | 51.2 | 51.0 |
-| 33 min | USD | S&P Global Composite PMI (Mar) |  |  | 51.6 |
+| 13:45 | USD | S&P Global Composite PMI (Mar) | 53.5 |  | 51.6 |
 | 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 19:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
