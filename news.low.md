@@ -19,5 +19,5 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 2.282% |  | 2.306% |
 | 15:30 | USD | 3-Month Bill Auction | 4.190% |  | 4.205% |
 | 15:30 | USD | 6-Month Bill Auction | 4.085% |  | 4.100% |
-| 54 min | KRW | Consumer Confidence (Mar) |  |  | 95.2 |
+| 21:00 | KRW | Consumer Confidence (Mar) | 93.4 |  | 95.2 |
 | 23:10 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
