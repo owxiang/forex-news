@@ -13,11 +13,11 @@
 | 12:00 | MXN | 1st Half-Month CPI (Mar) | 0.14% | 0.22% | 0.15% |
 | 12:00 | MXN | Economic Activity (YoY) (Jan) | -0.10% | -0.10% | -0.40% |
 | 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.20% |  | -1.10% |
-| 19 min | USD | Chicago Fed National Activity (Feb) |  |  | -0.03 |
-| 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.279% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.348% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.306% |
+| 12:30 | USD | Chicago Fed National Activity (Feb) | 0.18 |  | -0.08 |
+| 18 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 48 min | EUR | French 12-Month BTF Auction |  |  | 2.279% |
+| 48 min | EUR | French 3-Month BTF Auction |  |  | 2.348% |
+| 48 min | EUR | French 6-Month BTF Auction |  |  | 2.306% |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 4.205% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 4.100% |
 | 21:00 | KRW | Consumer Confidence (Mar) |  |  | 95.2 |

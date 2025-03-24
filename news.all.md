@@ -26,14 +26,14 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) | 0.14% | 0.22% | 0.15% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) | -0.10% | -0.10% | -0.40% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.20% |  | -1.10% |
-| 19 min | USD | Low | Chicago Fed National Activity (Feb) |  |  | -0.03 |
-| 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 13:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.9 | 52.7 |
-| 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 51.6 |
-| 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 51.2 | 51.0 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.279% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.348% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.306% |
+| 12:30 | USD | Low | Chicago Fed National Activity (Feb) | 0.18 |  | -0.08 |
+| 18 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 33 min | USD | High | S&P Global Manufacturing PMI (Mar) |  | 51.9 | 52.7 |
+| 33 min | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 51.6 |
+| 33 min | USD | High | S&P Global Services PMI (Mar) |  | 51.2 | 51.0 |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.279% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.348% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.306% |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 4.205% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 4.100% |
 | 17:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
