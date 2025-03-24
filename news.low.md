@@ -20,4 +20,4 @@
 | 15:30 | USD | 3-Month Bill Auction | 4.190% |  | 4.205% |
 | 15:30 | USD | 6-Month Bill Auction | 4.085% |  | 4.100% |
 | 21:00 | KRW | Consumer Confidence (Mar) | 93.4 |  | 95.2 |
-| 23:10 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 4 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |

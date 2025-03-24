@@ -39,5 +39,5 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 19:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Mar) | 93.4 |  | 95.2 |
-| 23:10 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 4 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 44 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
