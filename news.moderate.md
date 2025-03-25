@@ -11,7 +11,7 @@
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 4.7% | 4.6% | 4.5% |
 | 13:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:00 | USD | New Home Sales (MoM) (Feb) | 1.8% |  | -6.9% |
-| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | USD | 2-Year Note Auction |  |  | 4.169% |
+| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 53 min | USD | 2-Year Note Auction |  |  | 4.169% |
 | 18:35 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | -2.500M | 4.593M |

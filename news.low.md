@@ -6,8 +6,8 @@
 | 05:00 | GBP | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
-| 05:00 | EUR | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
 | 05:00 | EUR | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
 | 07:00 | ZAR | Leading Indicators (Jan) | 114.40% |  | 113.31% |
@@ -31,6 +31,6 @@
 | 14:00 | USD | Richmond Manufacturing Index (Mar) | -4 | 8 | 6 |
 | 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -7 |  | 12 |
 | 14:00 | USD | Richmond Services Index (Mar) | -4 |  | 11 |
-| 17:00 | USD | M2 Money Supply (MoM) (Feb) |  |  | 21.56T |
+| 53 min | USD | M2 Money Supply (MoM) (Feb) |  |  | 21.56T |
 | 21:00 | KRW | Manufacturing BSI Index |  |  | 65 |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.1% | 3.1% |

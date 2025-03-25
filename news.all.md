@@ -6,8 +6,8 @@
 | 05:00 | GBP | Low | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
@@ -42,9 +42,9 @@
 | 14:00 | USD | Low | Richmond Manufacturing Index (Mar) | -4 | 8 | 6 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) | -7 |  | 12 |
 | 14:00 | USD | Low | Richmond Services Index (Mar) | -4 |  | 11 |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.169% |
-| 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 21.56T |
+| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 53 min | USD | Moderate | 2-Year Note Auction |  |  | 4.169% |
+| 53 min | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 21.56T |
 | 18:35 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 4.593M |
 | 21:00 | KRW | Low | Manufacturing BSI Index |  |  | 65 |
