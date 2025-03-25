@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
 | 07:00 | ZAR | Low | Leading Indicators (Jan) | 114.40% |  | 113.31% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Feb) | 6.6% |  | 2.6% |
