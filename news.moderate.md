@@ -6,7 +6,7 @@
 | 09:00 | EUR | German Business Expectations (Mar) | 87.7 | 87.9 | 85.6 |
 | 09:00 | EUR | German Current Assessment (Mar) | 85.7 | 85.5 | 85.0 |
 | 09:00 | EUR | German Ifo Business Climate Index (Mar) | 86.7 | 86.8 | 85.3 |
-| 54 min | USD | Building Permits (Feb) |  | 1.456M | 1.473M |
+| 11:40 | USD | Building Permits (Feb) | 1.459M | 1.456M | 1.473M |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  | 0.2% | -0.1% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) |  | 4.6% | 4.5% |
 | 13:05 | USD | FOMC Member Williams Speaks |  |  |  |
