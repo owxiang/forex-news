@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | -2.5% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Feb) |  |  | -1.0% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | -2.5% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 26.4% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -7.6% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | -2.8% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -7.6% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | -6.2% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -37.6% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 2.2% |
@@ -27,8 +27,8 @@
 | 11:00 | BRL | Low | FGV Consumer confidence (Mar) |  |  | 83.6 |
 | 12:00 | USD | Low | Building Permits (MoM) (Feb) |  | -1.2% | -0.6% |
 | 12:00 | USD | Moderate | Building Permits (Feb) |  | 1.456M | 1.473M |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) |  |  | -0.2% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Jan) |  |  | 0.1% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) |  |  | -0.2% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  |  | 1.7% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 13:00 | USD | Low | House Price Index (YoY) (Jan) |  |  | 4.7% |
@@ -40,8 +40,8 @@
 | 13:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | USD | High | CB Consumer Confidence (Mar) |  | 94.2 | 98.3 |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Feb) |  |  | -10.5% |
 | 14:00 | USD | High | New Home Sales (Feb) |  | 682K | 657K |
+| 14:00 | USD | Moderate | New Home Sales (MoM) (Feb) |  |  | -10.5% |
 | 14:00 | USD | Low | Richmond Manufacturing Index (Mar) |  | 8 | 6 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | 12 |
 | 14:00 | USD | Low | Richmond Services Index (Mar) |  |  | 11 |

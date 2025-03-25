@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | GBP | Car Registration (YoY) (Feb) |  |  | -2.5% |
 | 05:00 | GBP | Car Registration (MoM) (Feb) |  |  | -1.0% |
+| 05:00 | GBP | Car Registration (YoY) (Feb) |  |  | -2.5% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Feb) |  |  | 26.4% |
-| 05:00 | EUR | German Car Registration (MoM) (Feb) |  |  | -7.6% |
 | 05:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -2.8% |
+| 05:00 | EUR | German Car Registration (MoM) (Feb) |  |  | -7.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Feb) |  |  | -6.2% |
 | 05:00 | EUR | French Car Registration (MoM) (Feb) |  |  | -37.6% |
 | 07:00 | ZAR | Leading Indicators (Jan) |  |  | 112.80% |
@@ -22,8 +22,8 @@
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | BRL | FGV Consumer confidence (Mar) |  |  | 83.6 |
 | 12:00 | USD | Building Permits (MoM) (Feb) |  | -1.2% | -0.6% |
-| 12:00 | MXN | Retail Sales (YoY) (Jan) |  |  | -0.2% |
 | 12:00 | MXN | Retail Sales (MoM) (Jan) |  |  | 0.1% |
+| 12:00 | MXN | Retail Sales (YoY) (Jan) |  |  | -0.2% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Feb) |  |  | 1.7% |
 | 12:55 | USD | Redbook (YoY) |  |  | 5.2% |
 | 13:00 | USD | House Price Index (YoY) (Jan) |  |  | 4.7% |
