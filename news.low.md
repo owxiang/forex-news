@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | GBP | Car Registration (MoM) (Feb) |  |  | -1.0% |
 | 05:00 | GBP | Car Registration (YoY) (Feb) |  |  | -2.5% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Feb) |  |  | 26.4% |
-| 05:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -2.8% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Feb) |  |  | -7.6% |
-| 05:00 | EUR | French Car Registration (YoY) (Feb) |  |  | -6.2% |
+| 05:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -2.8% |
 | 05:00 | EUR | French Car Registration (MoM) (Feb) |  |  | -37.6% |
+| 05:00 | EUR | French Car Registration (YoY) (Feb) |  |  | -6.2% |
 | 07:00 | ZAR | Leading Indicators (Jan) |  |  | 112.80% |
 | 08:00 | EUR | Spanish PPI (YoY) (Feb) |  |  | 2.6% |
 | 08:30 | HKD | Exports (MoM) (Feb) |  |  | 0.1% |
