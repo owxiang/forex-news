@@ -1,6 +1,6 @@
-## 24 March 2025 - High Impact Forex News
+## 25 March 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:45 | USD | S&P Global Manufacturing PMI (Mar) | 49.8 | 51.9 | 52.7 |
-| 13:45 | USD | S&P Global Services PMI (Mar) | 54.3 | 51.2 | 51.0 |
+| 14:00 | USD | CB Consumer Confidence (Mar) |  | 94.2 | 98.3 |
+| 14:00 | USD | New Home Sales (Feb) |  | 682K | 657K |

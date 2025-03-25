@@ -1,23 +1,39 @@
-## 24 March 2025 - Low Impact Forex News
+## 25 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | au Jibun Bank Manufacturing PMI (Mar) | 48.3 | 49.2 | 49.0 |
-| 05:00 | INR | S&P Global Manufacturing PMI (Mar) | 57.6 |  | 56.3 |
-| 05:00 | INR | S&P Global Services PMI (Mar) | 57.7 |  | 59.0 |
-| 05:00 | SGD | CPI (MoM) (Feb) | 0.80% |  | -0.80% |
-| 08:15 | EUR | HCOB France Composite PMI (Mar) | 47.0 |  | 45.1 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Mar) | 50.9 | 51.2 | 50.4 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | 1st Half-Month Core CPI (Mar) | 0.24% | 0.24% | 0.27% |
-| 12:00 | MXN | 1st Half-Month CPI (Mar) | 0.14% | 0.22% | 0.15% |
-| 12:00 | MXN | Economic Activity (YoY) (Jan) | -0.10% | -0.10% | -0.40% |
-| 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.20% |  | -1.10% |
-| 12:30 | USD | Chicago Fed National Activity (Feb) | 0.18 |  | -0.08 |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.226% |  | 2.279% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.300% |  | 2.348% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.282% |  | 2.306% |
-| 15:30 | USD | 3-Month Bill Auction | 4.190% |  | 4.205% |
-| 15:30 | USD | 6-Month Bill Auction | 4.085% |  | 4.100% |
-| 21:00 | KRW | Consumer Confidence (Mar) | 93.4 |  | 95.2 |
-| 4 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 05:00 | GBP | Car Registration (YoY) (Feb) |  |  | -2.5% |
+| 05:00 | GBP | Car Registration (MoM) (Feb) |  |  | -1.0% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Feb) |  |  | -5.8% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Feb) |  |  | 26.4% |
+| 05:00 | EUR | German Car Registration (MoM) (Feb) |  |  | -7.6% |
+| 05:00 | EUR | German Car Registration (YoY) (Feb) |  |  | -2.8% |
+| 05:00 | EUR | French Car Registration (YoY) (Feb) |  |  | -6.2% |
+| 05:00 | EUR | French Car Registration (MoM) (Feb) |  |  | -37.6% |
+| 07:00 | ZAR | Leading Indicators (Jan) |  |  | 112.80% |
+| 08:00 | EUR | Spanish PPI (YoY) (Feb) |  |  | 2.6% |
+| 08:30 | HKD | Exports (MoM) (Feb) |  |  | 0.1% |
+| 08:30 | HKD | Imports (MoM) (Feb) |  |  | 0.5% |
+| 08:30 | HKD | Trade Balance (Feb) |  |  | 2.1B |
+| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.836% |
+| 10:00 | EUR | Spanish Consumer Confidence (Feb) |  |  | 84.9 |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.150% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Mar) |  | -28 | -23 |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 11:00 | BRL | FGV Consumer confidence (Mar) |  |  | 83.6 |
+| 12:00 | USD | Building Permits (MoM) (Feb) |  | -1.2% | -0.6% |
+| 12:00 | MXN | Retail Sales (YoY) (Jan) |  |  | -0.2% |
+| 12:00 | MXN | Retail Sales (MoM) (Jan) |  |  | 0.1% |
+| 12:30 | CAD | Manufacturing Sales (MoM) (Feb) |  |  | 1.7% |
+| 12:55 | USD | Redbook (YoY) |  |  | 5.2% |
+| 13:00 | USD | House Price Index (YoY) (Jan) |  |  | 4.7% |
+| 13:00 | USD | House Price Index (MoM) (Jan) |  | 0.2% | 0.4% |
+| 13:00 | USD | House Price Index (Jan) |  |  | 436.1 |
+| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.5% |
+| 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 14:00 | USD | Richmond Manufacturing Index (Mar) |  | 8 | 6 |
+| 14:00 | USD | Richmond Manufacturing Shipments (Mar) |  |  | 12 |
+| 14:00 | USD | Richmond Services Index (Mar) |  |  | 11 |
+| 17:00 | USD | M2 Money Supply (MoM) (Feb) |  |  | 21.56T |
+| 21:00 | KRW | Manufacturing BSI Index |  |  | 65 |
+| 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.1% | 3.1% |
