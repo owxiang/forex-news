@@ -15,21 +15,20 @@
 | 08:30 | HKD | Exports (MoM) (Feb) | 15.4% |  | 0.1% |
 | 08:30 | HKD | Imports (MoM) (Feb) | 11.8% |  | 0.5% |
 | 08:30 | HKD | Trade Balance (Feb) | -36.3B |  | 2.1B |
-| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.836% |
-| 23 min | EUR | German 5-Year Bobl Auction |  |  | 2.150% |
-| 53 min | GBP | CBI Distributive Trades Survey (Mar) |  | -28 | -23 |
-| 53 min | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 53 min | BRL | FGV Consumer confidence (Mar) |  |  | 83.6 |
-| 12:00 | USD | Building Permits (MoM) (Feb) |  | -1.2% | -0.6% |
-| 12:00 | MXN | Retail Sales (MoM) (Jan) |  |  | 0.1% |
-| 12:00 | MXN | Retail Sales (YoY) (Jan) |  |  | -0.2% |
+| 10:10 | GBP | 20-Year Treasury Gilt Auction | 5.232% |  | 4.836% |
+| 10:45 | EUR | German 5-Year Bobl Auction | 2.440% |  | 2.150% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Mar) | -41 | -28 | -23 |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 11:00 | BRL | FGV Consumer confidence (Mar) | 84.3 |  | 83.6 |
+| 54 min | USD | Building Permits (MoM) (Feb) |  | -1.2% | -0.6% |
+| 54 min | MXN | Retail Sales (MoM) (Jan) |  |  | 0.1% |
+| 54 min | MXN | Retail Sales (YoY) (Jan) |  |  | -0.2% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Feb) |  |  | 1.7% |
 | 12:55 | USD | Redbook (YoY) |  |  | 5.2% |
 | 13:00 | USD | House Price Index (YoY) (Jan) |  |  | 4.7% |
 | 13:00 | USD | House Price Index (MoM) (Jan) |  | 0.2% | 0.4% |
 | 13:00 | USD | House Price Index (Jan) |  |  | 436.1 |
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.5% |
-| 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | USD | Richmond Manufacturing Index (Mar) |  | 8 | 6 |
 | 14:00 | USD | Richmond Manufacturing Shipments (Mar) |  |  | 12 |
 | 14:00 | USD | Richmond Services Index (Mar) |  |  | 11 |

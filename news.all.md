@@ -19,15 +19,15 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Mar) | 87.7 | 87.9 | 85.6 |
 | 09:00 | EUR | Moderate | German Current Assessment (Mar) | 85.7 | 85.5 | 85.0 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Mar) | 86.7 | 86.8 | 85.3 |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.836% |
-| 23 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.150% |
-| 53 min | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -28 | -23 |
-| 53 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 53 min | BRL | Low | FGV Consumer confidence (Mar) |  |  | 83.6 |
-| 12:00 | USD | Low | Building Permits (MoM) (Feb) |  | -1.2% | -0.6% |
-| 12:00 | USD | Moderate | Building Permits (Feb) |  | 1.456M | 1.473M |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Jan) |  |  | 0.1% |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) |  |  | -0.2% |
+| 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 5.232% |  | 4.836% |
+| 10:45 | EUR | Low | German 5-Year Bobl Auction | 2.440% |  | 2.150% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | -41 | -28 | -23 |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 11:00 | BRL | Low | FGV Consumer confidence (Mar) | 84.3 |  | 83.6 |
+| 54 min | USD | Low | Building Permits (MoM) (Feb) |  | -1.2% | -0.6% |
+| 54 min | USD | Moderate | Building Permits (Feb) |  | 1.456M | 1.473M |
+| 54 min | MXN | Low | Retail Sales (MoM) (Jan) |  |  | 0.1% |
+| 54 min | MXN | Low | Retail Sales (YoY) (Jan) |  |  | -0.2% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  |  | 1.7% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 13:00 | USD | Low | House Price Index (YoY) (Jan) |  |  | 4.7% |
@@ -37,7 +37,6 @@
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  | 0.2% | -0.1% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) |  | 4.6% | 4.5% |
 | 13:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | USD | High | CB Consumer Confidence (Mar) |  | 94.2 | 98.3 |
 | 14:00 | USD | Moderate | New Home Sales (MoM) (Feb) |  |  | -10.5% |
 | 14:00 | USD | High | New Home Sales (Feb) |  | 682K | 657K |
