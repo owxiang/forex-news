@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | USD | CB Consumer Confidence (Mar) |  | 94.2 | 98.3 |
-| 14:00 | USD | New Home Sales (Feb) |  | 682K | 657K |
+| 48 min | USD | CB Consumer Confidence (Mar) |  | 94.2 | 98.3 |
+| 48 min | USD | New Home Sales (Feb) |  | 682K | 657K |
