@@ -13,5 +13,5 @@
 | 14:00 | USD | New Home Sales (MoM) (Feb) | 1.8% |  | -6.9% |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | USD | 2-Year Note Auction | 3.984% |  | 4.169% |
-| 27 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 18:35 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | -2.500M | 4.593M |
