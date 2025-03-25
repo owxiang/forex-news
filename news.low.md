@@ -4,19 +4,19 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | GBP | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
 | 05:00 | GBP | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
 | 05:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
 | 05:00 | EUR | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
 | 07:00 | ZAR | Leading Indicators (Jan) | 114.40% |  | 112.80% |
 | 08:00 | EUR | Spanish PPI (YoY) (Feb) | 6.6% |  | 2.6% |
-| 21 min | HKD | Exports (MoM) (Feb) |  |  | 0.1% |
-| 21 min | HKD | Imports (MoM) (Feb) |  |  | 0.5% |
-| 21 min | HKD | Trade Balance (Feb) |  |  | 2.1B |
-| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.836% |
-| 10:00 | EUR | Spanish Consumer Confidence (Feb) |  |  | 84.9 |
+| 08:30 | HKD | Exports (MoM) (Feb) | 15.4% |  | 0.1% |
+| 08:30 | HKD | Imports (MoM) (Feb) | 11.8% |  | 0.5% |
+| 08:30 | HKD | Trade Balance (Feb) | -36.3B |  | 2.1B |
+| 53 min | GBP | 20-Year Treasury Gilt Auction |  |  | 4.836% |
+| 53 min | EUR | Spanish Consumer Confidence (Feb) |  |  | 84.9 |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.150% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Mar) |  | -28 | -23 |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |

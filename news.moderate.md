@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
-| 51 min | EUR | German Business Expectations (Mar) |  | 87.9 | 85.4 |
-| 51 min | EUR | German Current Assessment (Mar) |  | 85.5 | 85.0 |
-| 51 min | EUR | German Ifo Business Climate Index (Mar) |  | 86.8 | 85.2 |
+| 09:00 | EUR | German Business Expectations (Mar) | 87.7 | 87.9 | 85.6 |
+| 09:00 | EUR | German Current Assessment (Mar) | 85.7 | 85.5 | 85.0 |
+| 09:00 | EUR | German Ifo Business Climate Index (Mar) | 86.7 | 86.8 | 85.3 |
 | 12:00 | USD | Building Permits (Feb) |  | 1.456M | 1.473M |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  | 0.2% | -0.1% |
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) |  | 4.6% | 4.5% |

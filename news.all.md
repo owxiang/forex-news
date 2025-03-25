@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | GBP | Low | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
@@ -13,14 +13,14 @@
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
 | 07:00 | ZAR | Low | Leading Indicators (Jan) | 114.40% |  | 112.80% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Feb) | 6.6% |  | 2.6% |
-| 21 min | HKD | Low | Exports (MoM) (Feb) |  |  | 0.1% |
-| 21 min | HKD | Low | Imports (MoM) (Feb) |  |  | 0.5% |
-| 21 min | HKD | Low | Trade Balance (Feb) |  |  | 2.1B |
-| 51 min | EUR | Moderate | German Business Expectations (Mar) |  | 87.9 | 85.4 |
-| 51 min | EUR | Moderate | German Current Assessment (Mar) |  | 85.5 | 85.0 |
-| 51 min | EUR | Moderate | German Ifo Business Climate Index (Mar) |  | 86.8 | 85.2 |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.836% |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 84.9 |
+| 08:30 | HKD | Low | Exports (MoM) (Feb) | 15.4% |  | 0.1% |
+| 08:30 | HKD | Low | Imports (MoM) (Feb) | 11.8% |  | 0.5% |
+| 08:30 | HKD | Low | Trade Balance (Feb) | -36.3B |  | 2.1B |
+| 09:00 | EUR | Moderate | German Business Expectations (Mar) | 87.7 | 87.9 | 85.6 |
+| 09:00 | EUR | Moderate | German Current Assessment (Mar) | 85.7 | 85.5 | 85.0 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Mar) | 86.7 | 86.8 | 85.3 |
+| 53 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.836% |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 84.9 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.150% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -28 | -23 |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
