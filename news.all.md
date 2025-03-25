@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
 | 07:00 | ZAR | Low | Leading Indicators (Jan) | 114.40% |  | 113.31% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Feb) | 6.6% |  | 2.6% |
@@ -24,10 +24,10 @@
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | -41 | -28 | -23 |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 11:00 | BRL | Low | FGV Consumer confidence (Mar) | 84.3 |  | 83.6 |
-| 11:40 | USD | Moderate | Building Permits (Feb) | 1.459M | 1.456M | 1.473M |
 | 11:40 | USD | Low | Building Permits (MoM) (Feb) | -1.0% | -1.2% | -0.6% |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | 2.7% |  | -0.2% |
+| 11:40 | USD | Moderate | Building Permits (Feb) | 1.459M | 1.456M | 1.473M |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | 0.6% |  | 0.1% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | 2.7% |  | -0.2% |
 | 12:55 | USD | Low | Redbook (YoY) | 5.6% |  | 5.2% |
 | 13:00 | USD | Low | House Price Index (YoY) (Jan) | 4.8% |  | 4.8% |
 | 13:00 | USD | Low | House Price Index (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
@@ -43,8 +43,8 @@
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) | -7 |  | 12 |
 | 14:00 | USD | Low | Richmond Services Index (Mar) | -4 |  | 11 |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 53 min | USD | Moderate | 2-Year Note Auction |  |  | 4.169% |
-| 53 min | USD | Low | M2 Money Supply (MoM) (Feb) |  |  | 21.56T |
+| 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.169% |
+| 17:00 | USD | Low | M2 Money Supply (MoM) (Feb) | 21.67T |  | 21.56T |
 | 18:35 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 4.593M |
 | 21:00 | KRW | Low | Manufacturing BSI Index |  |  | 65 |
