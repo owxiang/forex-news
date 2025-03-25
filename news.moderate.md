@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | BoJ Core CPI (YoY) |  |  | 2.2% |
+| 05:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.2% | 2.2% |
 | 09:00 | EUR | German Business Expectations (Mar) |  | 87.9 | 85.4 |
 | 09:00 | EUR | German Current Assessment (Mar) |  | 85.5 | 85.0 |
 | 09:00 | EUR | German Ifo Business Climate Index (Mar) |  | 86.8 | 85.2 |
