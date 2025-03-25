@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | GBP | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
 | 05:00 | GBP | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
-| 05:00 | EUR | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
-| 05:00 | EUR | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
+| 05:00 | EUR | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
+| 05:00 | EUR | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
 | 07:00 | ZAR | Leading Indicators (Jan) | 114.40% |  | 113.31% |
 | 08:00 | EUR | Spanish PPI (YoY) (Feb) | 6.6% |  | 2.6% |
 | 08:30 | HKD | Exports (MoM) (Feb) | 15.4% |  | 0.1% |
@@ -28,9 +28,9 @@
 | 13:00 | USD | House Price Index (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
 | 13:00 | USD | House Price Index (Jan) | 436.5 |  | 435.8 |
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.5% |  | 0.5% |
-| 48 min | USD | Richmond Manufacturing Index (Mar) |  | 8 | 6 |
-| 48 min | USD | Richmond Manufacturing Shipments (Mar) |  |  | 12 |
-| 48 min | USD | Richmond Services Index (Mar) |  |  | 11 |
+| 14:00 | USD | Richmond Manufacturing Index (Mar) | -4 | 8 | 6 |
+| 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -7 |  | 12 |
+| 14:00 | USD | Richmond Services Index (Mar) | -4 |  | 11 |
 | 17:00 | USD | M2 Money Supply (MoM) (Feb) |  |  | 21.56T |
 | 21:00 | KRW | Manufacturing BSI Index |  |  | 65 |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.1% | 3.1% |
