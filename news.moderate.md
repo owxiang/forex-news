@@ -6,7 +6,7 @@
 | 07:00 | GBP | CPIH (YoY) | 3.7% |  | 3.9% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 53 min | EUR | France Jobseekers Total (Feb) |  |  | 3,162.0K |
+| 11:00 | EUR | France Jobseekers Total (Feb) |  |  | 3,162.0K |
 | 12:30 | USD | Core Durable Goods Orders (MoM) (Feb) |  | 0.2% | 0.0% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Feb) |  |  | 1.2% |
 | 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
