@@ -10,8 +10,8 @@
 | 05:00 | SGD | Industrial Production (MoM) (Feb) | -7.5% | -0.3% | 2.8% |
 | 07:00 | GBP | Core CPI (MoM) (Feb) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Feb) | 3.5% | 3.6% | 3.7% |
-| 07:00 | GBP | Core RPI (MoM) (Feb) | 0.6% |  | -0.1% |
 | 07:00 | GBP | Core RPI (YoY) (Feb) | 3.0% |  | 3.2% |
+| 07:00 | GBP | Core RPI (MoM) (Feb) | 0.6% |  | -0.1% |
 | 07:00 | GBP | CPI, n.s.a (Feb) | 136.00 |  | 135.40 |
 | 07:00 | GBP | RPI (MoM) (Feb) | 0.6% | 0.8% | -0.1% |
 | 07:00 | GBP | RPI (YoY) (Feb) | 3.4% | 3.5% | 3.6% |
@@ -29,9 +29,9 @@
 | 11:00 | USD | Mortgage Refinance Index | 752.4 |  | 794.4 |
 | 11:30 | BRL | Current Account (USD) (Feb) | -8.76B | -9.10B | -8.65B |
 | 11:30 | BRL | Foreign direct investment (USD) (Feb) | 9.30B | 5.50B | 6.50B |
-| 19 min | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 3.5% |
-| 19 min | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  | 0.2% | 0.8% |
-| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 12:30 | USD | Durables Excluding Defense (MoM) (Feb) | 0.8% |  | 3.7% |
+| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) | -0.3% | 0.2% | 0.9% |
+| 47 min | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.045M |
 | 14:30 | USD | Crude Oil Imports |  |  | -1.439M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.151M |
