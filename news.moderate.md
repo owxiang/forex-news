@@ -10,6 +10,6 @@
 | 12:30 | USD | Core Durable Goods Orders (MoM) (Feb) | 0.7% | 0.2% | 0.1% |
 | 12:30 | CAD | Wholesale Sales (MoM) (Feb) | 0.4% |  | 1.2% |
 | 14:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 14:30 | USD | Atlanta Fed GDPNow (Q1) | -1.8% | -1.8% | -1.8% |
 | 14:30 | USD | Cushing Crude Oil Inventories | -0.755M |  | -1.009M |
-| 23 min | USD | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
-| 17:00 | USD | 5-Year Note Auction |  |  | 4.123% |
+| 52 min | USD | 5-Year Note Auction |  |  | 4.123% |
