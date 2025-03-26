@@ -8,8 +8,8 @@
 | 05:00 | JPY | Low | Leading Index (Jan) | 108.3 | 108.0 | 108.3 |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | -1.3% | 7.5% | 8.0% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | -7.5% | -0.3% | 2.8% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Feb) | 3.5% | 3.6% | 3.7% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) | 0.4% | 0.5% | -0.4% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Feb) | 3.5% | 3.6% | 3.7% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Feb) | 0.6% |  | -0.1% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.0% |  | 3.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.1% |
@@ -43,17 +43,17 @@
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) | 0.4% |  | 1.2% |
 | 14:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:30 | USD | High | Crude Oil Inventories |  | 1.500M | 1.745M |
-| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.045M |
-| 14:30 | USD | Low | Crude Oil Imports |  |  | -1.439M |
-| 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.009M |
-| 14:30 | USD | Low | Distillate Fuel Production |  |  | 0.151M |
-| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -2.812M |
-| 14:30 | USD | Low | Gasoline Production |  |  | 0.067M |
-| 14:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.008M |
-| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 14:30 | USD | Low | Gasoline Inventories |  |  | -0.527M |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
+| 14:30 | USD | High | Crude Oil Inventories | -3.341M | 1.500M | 1.745M |
+| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.087M |  | -0.045M |
+| 14:30 | USD | Low | Crude Oil Imports | 0.845M |  | -1.439M |
+| 14:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.755M |  | -1.009M |
+| 14:30 | USD | Low | Distillate Fuel Production | -0.100M |  | 0.151M |
+| 14:30 | USD | Low | EIA Weekly Distillates Stocks | -0.421M |  | -2.812M |
+| 14:30 | USD | Low | Gasoline Production | -0.401M |  | 0.067M |
+| 14:30 | USD | Low | Heating Oil Stockpiles | -0.035M |  | 0.008M |
+| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.1% |  | 0.4% |
+| 14:30 | USD | Low | Gasoline Inventories | -1.446M |  | -0.527M |
+| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.123% |
 | 17:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.319B |
