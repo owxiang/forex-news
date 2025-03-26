@@ -1,6 +1,8 @@
-## 25 March 2025 - High Impact Forex News
+## 26 March 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | USD | CB Consumer Confidence (Mar) | 92.9 | 94.2 | 100.1 |
-| 14:00 | USD | New Home Sales (Feb) | 676K | 682K | 664K |
+| 07:00 | GBP | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
+| 10:00 | GBP | Spring Forecast Statement |  |  |  |
+| 12:30 | USD | Durable Goods Orders (MoM) (Feb) |  | -0.6% | 3.1% |
+| 13:30 | USD | Crude Oil Inventories |  |  | 1.745M |

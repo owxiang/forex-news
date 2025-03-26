@@ -1,36 +1,51 @@
-## 25 March 2025 - Low Impact Forex News
+## 26 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | GBP | Car Registration (MoM) (Feb) | -39.7% |  | -1.0% |
-| 05:00 | GBP | Car Registration (YoY) (Feb) | -1.0% |  | -2.5% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Feb) | 3.2% |  | 26.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Feb) | -6.2% |  | -5.8% |
-| 05:00 | EUR | German Car Registration (YoY) (Feb) | -6.4% |  | -2.8% |
-| 05:00 | EUR | German Car Registration (MoM) (Feb) | -2.0% |  | -7.6% |
-| 05:00 | EUR | French Car Registration (MoM) (Feb) | 23.5% |  | -37.6% |
-| 05:00 | EUR | French Car Registration (YoY) (Feb) | -0.7% |  | -6.2% |
-| 07:00 | ZAR | Leading Indicators (Jan) | 114.40% |  | 113.31% |
-| 08:00 | EUR | Spanish PPI (YoY) (Feb) | 6.6% |  | 2.6% |
-| 08:30 | HKD | Exports (MoM) (Feb) | 15.4% |  | 0.1% |
-| 08:30 | HKD | Imports (MoM) (Feb) | 11.8% |  | 0.5% |
-| 08:30 | HKD | Trade Balance (Feb) | -36.3B |  | 2.1B |
-| 10:10 | GBP | 20-Year Treasury Gilt Auction | 5.232% |  | 4.836% |
-| 10:45 | EUR | German 5-Year Bobl Auction | 2.440% |  | 2.150% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Mar) | -41 | -28 | -23 |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 11:00 | BRL | FGV Consumer confidence (Mar) | 84.3 |  | 83.6 |
-| 11:40 | USD | Building Permits (MoM) (Feb) | -1.0% | -1.2% | -0.6% |
-| 12:00 | MXN | Retail Sales (MoM) (Jan) | 0.6% |  | 0.1% |
-| 12:00 | MXN | Retail Sales (YoY) (Jan) | 2.7% |  | -0.2% |
-| 12:55 | USD | Redbook (YoY) | 5.6% |  | 5.2% |
-| 13:00 | USD | House Price Index (MoM) (Jan) | 0.2% | 0.2% | 0.5% |
-| 13:00 | USD | House Price Index (YoY) (Jan) | 4.8% |  | 4.8% |
-| 13:00 | USD | House Price Index (Jan) | 436.5 |  | 435.8 |
-| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.5% |  | 0.5% |
-| 14:00 | USD | Richmond Manufacturing Index (Mar) | -4 | 8 | 6 |
-| 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -7 |  | 12 |
-| 14:00 | USD | Richmond Services Index (Mar) | -4 |  | 11 |
-| 17:00 | USD | M2 Money Supply (MoM) (Feb) | 21.67T |  | 21.56T |
-| 21:00 | KRW | Manufacturing BSI Index | 68 |  | 65 |
-| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.1% | 3.1% |
+| 3 min | AUD | Monthly CPI Indicator (YoY) (Feb) |  | 2.50% | 2.50% |
+| 05:00 | JPY | Coincident Indicator (MoM) (Jan) |  | 0.1% | 1.0% |
+| 05:00 | JPY | Leading Index (MoM) (Jan) |  | 0.1% | 0.5% |
+| 05:00 | JPY | Leading Index (Jan) |  | 108.0 | 108.3 |
+| 05:00 | SGD | Industrial Production (YoY) (Feb) |  | 7.5% | 9.1% |
+| 05:00 | SGD | Industrial Production (MoM) (Feb) |  | -0.3% | 4.5% |
+| 07:00 | GBP | Core CPI (YoY) (Feb) |  | 3.6% | 3.7% |
+| 07:00 | GBP | Core CPI (MoM) (Feb) |  | 0.5% | -0.4% |
+| 07:00 | GBP | Core PPI Output (YoY) (Feb) |  |  | 1.5% |
+| 07:00 | GBP | Core PPI Output (MoM) (Feb) |  |  | 0.3% |
+| 07:00 | GBP | Core RPI (YoY) (Feb) |  |  | 3.2% |
+| 07:00 | GBP | Core RPI (MoM) (Feb) |  |  | -0.1% |
+| 07:00 | GBP | CPI, n.s.a (Feb) |  |  | 135.40 |
+| 07:00 | GBP | PPI Input (YoY) (Feb) |  |  | -0.1% |
+| 07:00 | GBP | PPI Output (YoY) (Feb) |  |  | 0.3% |
+| 07:00 | GBP | PPI Output (MoM) (Feb) |  |  | 0.5% |
+| 07:00 | GBP | RPI (MoM) (Feb) |  | 0.8% | -0.1% |
+| 07:00 | GBP | RPI (YoY) (Feb) |  | 3.6% | 3.6% |
+| 07:00 | NOK | M3 Money Supply (Feb) |  |  | 3,263.1B |
+| 07:00 | NOK | Credit Indicator (YoY) (Feb) |  |  | 3.6% |
+| 07:45 | EUR | French Consumer Confidence (Mar) |  | 94 | 93 |
+| 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 3.5% | 3.5% |
+| 09:00 | CHF | ZEW Expectations (Mar) |  |  | 3.4 |
+| 09:30 | GBP | House Price Index (YoY) |  | 4.4% | 4.6% |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.380% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.72% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.2% |
+| 11:00 | USD | MBA Purchase Index |  |  | 154.7 |
+| 11:00 | USD | Mortgage Market Index |  |  | 252.5 |
+| 11:00 | USD | Mortgage Refinance Index |  |  | 794.4 |
+| 11:30 | BRL | Current Account (USD) (Feb) |  | -9.20B | -8.66B |
+| 11:30 | BRL | Foreign direct investment (USD) (Feb) |  | 5.50B | 6.50B |
+| 12:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 3.5% |
+| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  | -0.2% | 0.8% |
+| 13:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.045M |
+| 13:30 | USD | Crude Oil Imports |  |  | -1.439M |
+| 13:30 | USD | Distillate Fuel Production |  |  | 0.151M |
+| 13:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.812M |
+| 13:30 | USD | Gasoline Production |  |  | 0.067M |
+| 13:30 | USD | Heating Oil Stockpiles |  |  | 0.008M |
+| 13:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 13:30 | USD | Gasoline Inventories |  |  | -0.527M |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 17:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -2.319B |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -87.6B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,806.2B |
