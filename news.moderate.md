@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 3.5% |
-| 07:00 | GBP | PPI Input (MoM) (Feb) |  |  | 0.8% |
+| 52 min | GBP | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
+| 52 min | GBP | CPIH (YoY) |  |  | 3.5% |
+| 52 min | GBP | PPI Input (MoM) (Feb) |  |  | 0.8% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.8% | 0.8% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Feb) |  |  | 3,162.0K |
