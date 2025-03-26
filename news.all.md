@@ -6,8 +6,8 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) | 0.1% | 0.1% | 1.0% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Jan) | 0.4% | 0.1% | 0.5% |
 | 05:00 | JPY | Low | Leading Index (Jan) | 108.3 | 108.0 | 108.3 |
-| 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | -7.5% | -0.3% | 2.8% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | -1.3% | 7.5% | 8.0% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | -7.5% | -0.3% | 2.8% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Feb) | 3.5% | 3.6% | 3.7% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.0% |  | 3.2% |
