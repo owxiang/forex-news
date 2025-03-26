@@ -4,14 +4,14 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) | 2.40% | 2.50% | 2.50% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) | 0.1% | 0.1% | 1.0% |
-| 05:00 | JPY | Low | Leading Index (Jan) | 108.3 | 108.0 | 108.3 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Jan) | 0.4% | 0.1% | 0.5% |
+| 05:00 | JPY | Low | Leading Index (Jan) | 108.3 | 108.0 | 108.3 |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | -7.5% | -0.3% | 2.8% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | -1.3% | 7.5% | 8.0% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Feb) | 3.5% | 3.6% | 3.7% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) | 0.4% | 0.5% | -0.4% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Feb) | 0.6% |  | -0.1% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.0% |  | 3.2% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Feb) | 0.6% |  | -0.1% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.1% |
 | 07:00 | GBP | High | CPI (YoY) (Feb) | 2.8% | 3.0% | 3.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Feb) | 136.00 |  | 135.40 |
