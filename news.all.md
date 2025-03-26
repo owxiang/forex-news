@@ -4,25 +4,25 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) | 2.40% | 2.50% | 2.50% |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) |  | 0.1% | 1.0% |
-| 05:00 | JPY | Low | Leading Index (Jan) |  | 108.0 | 108.3 |
 | 05:00 | JPY | Low | Leading Index (MoM) (Jan) |  | 0.1% | 0.5% |
+| 05:00 | JPY | Low | Leading Index (Jan) |  | 108.0 | 108.3 |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Feb) |  | -0.3% | 4.5% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) |  | 7.5% | 9.1% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Feb) |  | 3.6% | 3.7% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) |  | 0.5% | -0.4% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Feb) |  |  | 1.5% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Feb) |  | 3.6% | 3.7% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Feb) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Feb) |  |  | 1.5% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Feb) |  |  | -0.1% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Feb) |  |  | 3.2% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
 | 07:00 | GBP | High | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Feb) |  | 0.5% | -0.1% |
 | 07:00 | GBP | Low | CPI, n.s.a (Feb) |  |  | 135.40 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Feb) |  |  | 0.8% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Feb) |  |  | -0.1% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Feb) |  |  | 0.8% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Feb) |  |  | 0.3% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Feb) |  |  | 0.5% |
-| 07:00 | GBP | Low | RPI (YoY) (Feb) |  | 3.6% | 3.6% |
 | 07:00 | GBP | Low | RPI (MoM) (Feb) |  | 0.8% | -0.1% |
+| 07:00 | GBP | Low | RPI (YoY) (Feb) |  | 3.6% | 3.6% |
 | 07:00 | NOK | Low | M3 Money Supply (Feb) |  |  | 3,263.1B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) |  |  | 3.6% |
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) |  | 94 | 93 |
