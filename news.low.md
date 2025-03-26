@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | AUD | Monthly CPI Indicator (YoY) (Feb) |  | 2.50% | 2.50% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) | 2.40% | 2.50% | 2.50% |
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) |  | 0.1% | 1.0% |
 | 05:00 | JPY | Leading Index (MoM) (Jan) |  | 0.1% | 0.5% |
 | 05:00 | JPY | Leading Index (Jan) |  | 108.0 | 108.3 |
