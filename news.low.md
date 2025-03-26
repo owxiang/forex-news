@@ -20,13 +20,13 @@
 | 07:45 | EUR | French Consumer Confidence (Mar) | 92 | 94 | 93 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) | 3.4% | 3.5% | 3.5% |
 | 09:00 | CHF | ZEW Expectations (Mar) | -10.7 |  | 3.4 |
-| 24 min | GBP | House Price Index (YoY) |  | 4.4% | 4.6% |
-| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.380% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.72% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.2% |
-| 11:00 | USD | MBA Purchase Index |  |  | 154.7 |
-| 11:00 | USD | Mortgage Market Index |  |  | 252.5 |
-| 11:00 | USD | Mortgage Refinance Index |  |  | 794.4 |
+| 09:30 | GBP | House Price Index (YoY) | 4.9% | 4.4% | 4.6% |
+| 23 min | EUR | Italian 2-Year CTZ Auction |  |  | 2.380% |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.72% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -6.2% |
+| 53 min | USD | MBA Purchase Index |  |  | 154.7 |
+| 53 min | USD | Mortgage Market Index |  |  | 252.5 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 794.4 |
 | 11:30 | BRL | Current Account (USD) (Feb) |  | -9.10B | -8.66B |
 | 11:30 | BRL | Foreign direct investment (USD) (Feb) |  | 5.50B | 6.50B |
 | 12:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 3.5% |
