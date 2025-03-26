@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Feb) |  | 2.9% | 3.0% |
+| 07:00 | GBP | CPI (YoY) (Feb) |  | 3.0% | 3.0% |
 | 10:00 | GBP | Spring Forecast Statement |  |  |  |
-| 12:30 | USD | Durable Goods Orders (MoM) (Feb) |  | -0.6% | 3.1% |
-| 13:30 | USD | Crude Oil Inventories |  |  | 1.745M |
+| 12:30 | USD | Durable Goods Orders (MoM) (Feb) |  | -1.1% | 3.1% |
+| 14:30 | USD | Crude Oil Inventories |  | 1.500M | 1.745M |
