@@ -8,10 +8,10 @@
 | 05:00 | JPY | Low | Leading Index (Jan) | 108.3 | 108.0 | 108.3 |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | -1.3% | 7.5% | 8.0% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | -7.5% | -0.3% | 2.8% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Feb) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Feb) | 3.5% | 3.6% | 3.7% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.0% |  | 3.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Feb) | 0.4% | 0.5% | -0.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Feb) | 0.6% |  | -0.1% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.0% |  | 3.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Feb) | 0.4% | 0.5% | -0.1% |
 | 07:00 | GBP | High | CPI (YoY) (Feb) | 2.8% | 3.0% | 3.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Feb) | 136.00 |  | 135.40 |
@@ -21,8 +21,8 @@
 | 07:00 | NOK | Low | M3 Money Supply (Feb) | 3,242.0B |  | 3,263.1B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) | 3.6% |  | 3.6% |
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 92 | 94 | 93 |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.4% | 3.5% | 3.5% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) | -10.7 |  | 3.4 |
 | 09:30 | GBP | Low | House Price Index (YoY) | 4.9% | 4.4% | 4.6% |
@@ -57,5 +57,5 @@
 | 17:00 | USD | Moderate | 5-Year Note Auction | 4.100% |  | 4.123% |
 | 17:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -3.664B |  | -2.319B |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -87.6B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,806.2B |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -87.6B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,806.2B |
