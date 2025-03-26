@@ -19,8 +19,8 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Feb) | 3.6% |  | 3.6% |
 | 07:45 | EUR | French Consumer Confidence (Mar) | 92 | 94 | 93 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) | 3.4% | 3.5% | 3.5% |
-| 52 min | CHF | ZEW Expectations (Mar) |  |  | 3.4 |
-| 09:30 | GBP | House Price Index (YoY) |  | 4.4% | 4.6% |
+| 09:00 | CHF | ZEW Expectations (Mar) | -10.7 |  | 3.4 |
+| 24 min | GBP | House Price Index (YoY) |  | 4.4% | 4.6% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.380% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.72% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.2% |

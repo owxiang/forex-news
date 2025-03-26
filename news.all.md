@@ -21,12 +21,12 @@
 | 07:00 | NOK | Low | M3 Money Supply (Feb) | 3,242.0B |  | 3,263.1B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) | 3.6% |  | 3.6% |
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 92 | 94 | 93 |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.4% | 3.5% | 3.5% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.8% | 0.8% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 3.4% | 3.5% | 3.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 52 min | CHF | Low | ZEW Expectations (Mar) |  |  | 3.4 |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 4.4% | 4.6% |
-| 10:00 | GBP | High | Spring Forecast Statement |  |  |  |
+| 09:00 | CHF | Low | ZEW Expectations (Mar) | -10.7 |  | 3.4 |
+| 24 min | GBP | Low | House Price Index (YoY) |  | 4.4% | 4.6% |
+| 54 min | GBP | High | Spring Forecast Statement |  |  |  |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.380% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.72% |
 | 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -6.2% |
