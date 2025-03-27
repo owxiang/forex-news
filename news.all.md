@@ -11,8 +11,8 @@
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 4.71B |  | 0.37B |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
 | 09:00 | EUR | Low | M3 Money Supply (Feb) | 16,858.7B |  | 16,754.9B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
 | 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
@@ -24,8 +24,8 @@
 | 12:00 | MXN | Low | Trade Balance (Feb) | 2.212B | -1.100B | -4.558B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Feb) | 1.269B |  | 0.182B |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 5.26% | 5.30% | 4.96% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.64% | 0.70% | 1.23% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 5.26% | 5.30% | 4.96% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,856K | 1,890K | 1,881K |
 | 12:30 | USD | Moderate | Core PCE Prices (Q4) | 2.60% | 2.70% | 2.20% |
 | 12:30 | USD | Low | Corporate Profits (QoQ) (Q4) | 5.9% |  | -0.4% |
@@ -43,11 +43,11 @@
 | 13:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) | 2.0% | 0.9% | -4.6% |
 | 14:00 | USD | Low | Pending Home Sales Index (Feb) | 72.0 |  | 70.6 |
-| 14:30 | USD | Low | Natural Gas Storage |  | 37B | 9B |
-| 15:00 | USD | Low | KC Fed Composite Index (Mar) |  |  | -5 |
-| 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | -13 |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 4.215% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 4.215% |
+| 14:30 | USD | Low | Natural Gas Storage | 37B | 37B | 9B |
+| 15:00 | USD | Low | KC Fed Composite Index (Mar) | -2 |  | -5 |
+| 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) | 1 |  | -13 |
+| 24 min | USD | Low | 4-Week Bill Auction |  |  | 4.215% |
+| 24 min | USD | Low | 8-Week Bill Auction |  |  | 4.215% |
 | 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
 | 17:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
