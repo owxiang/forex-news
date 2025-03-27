@@ -7,14 +7,14 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) | 3.6% |  | 2.3% |
 | 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 08:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 0.25B |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Feb) | 4.71B |  | 0.37B |
 | 09:00 | EUR | M3 Money Supply (Feb) |  |  | 16,754.9B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Feb) |  | 3.8% | 3.6% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Feb) |  | 1.4% | 1.3% |
-| 09:30 | ZAR | PPI (YoY) (Feb) |  |  | 1.1% |
-| 09:30 | ZAR | PPI (MoM) (Feb) |  |  | 0.5% |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.155% |
+| 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
+| 23 min | ZAR | PPI (MoM) (Feb) |  |  | 0.5% |
+| 23 min | ZAR | PPI (YoY) (Feb) |  |  | 1.1% |
+| 53 min | GBP | 7-Year Treasury Gilt Auction |  |  | 4.155% |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.448% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | MXN | Trade Balance (Feb) |  | -1.100B | -4.558B |

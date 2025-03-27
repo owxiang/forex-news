@@ -8,17 +8,17 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 3.6% |  | 2.3% |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 08:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) |  |  | 0.25B |
+| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 4.71B |  | 0.37B |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:00 | EUR | Low | M3 Money Supply (Feb) |  |  | 16,754.9B |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) |  | 3.8% | 3.6% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) |  |  | 2.0% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) |  | 1.4% | 1.3% |
-| 09:30 | ZAR | Low | PPI (YoY) (Feb) |  |  | 1.1% |
-| 09:30 | ZAR | Low | PPI (MoM) (Feb) |  |  | 0.5% |
-| 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.155% |
-| 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
+| 23 min | ZAR | Low | PPI (MoM) (Feb) |  |  | 0.5% |
+| 23 min | ZAR | Low | PPI (YoY) (Feb) |  |  | 1.1% |
+| 53 min | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.155% |
+| 53 min | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.448% |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 12:00 | MXN | Low | Trade Balance (Feb) |  | -1.100B | -4.558B |
