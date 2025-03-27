@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) |  |  | -3.3% |
+| 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | -0.3% |  | -3.3% |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) |  |  | 3.7% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) |  |  | 2.2% |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -14,8 +14,8 @@
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) |  | 3.8% | 3.6% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) |  |  | 2.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) |  | 1.4% | 1.3% |
-| 09:30 | ZAR | Low | PPI (MoM) (Feb) |  |  | 0.5% |
 | 09:30 | ZAR | Low | PPI (YoY) (Feb) |  |  | 1.1% |
+| 09:30 | ZAR | Low | PPI (MoM) (Feb) |  |  | 0.5% |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.155% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.448% |
