@@ -51,7 +51,7 @@
 | 17:00 | USD | Moderate | 7-Year Note Auction | 4.233% |  | 4.194% |
 | 17:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 52 min | MXN | Moderate | Interest Rate Decision (Mar) |  | 9.00% | 9.50% |
+| 19:00 | MXN | Moderate | Interest Rate Decision (Mar) | 9.00% | 9.00% | 9.50% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,756B |
 | 20:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.425T |
