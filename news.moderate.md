@@ -11,7 +11,7 @@
 | 12:30 | USD | Goods Trade Balance (Feb) | -147.91B | -134.60B | -155.57B |
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) | 0.1% |  | 0.5% |
 | 13:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 48 min | USD | Pending Home Sales (MoM) (Feb) |  | 0.9% | -4.6% |
+| 14:00 | USD | Pending Home Sales (MoM) (Feb) | 2.0% | 0.9% | -4.6% |
 | 17:00 | USD | 7-Year Note Auction |  |  | 4.194% |
 | 17:40 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:05 | EUR | ECB President Lagarde Speaks |  |  |  |
