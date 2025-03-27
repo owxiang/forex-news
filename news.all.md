@@ -10,12 +10,12 @@
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) |  |  | 0.25B |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 09:00 | EUR | Low | M3 Money Supply (Feb) |  |  | 16,754.9B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) |  | 3.8% | 3.6% |
+| 09:00 | EUR | Low | M3 Money Supply (Feb) |  |  | 16,754.9B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) |  |  | 2.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) |  | 1.4% | 1.3% |
-| 09:30 | ZAR | Low | PPI (YoY) (Feb) |  |  | 1.1% |
 | 09:30 | ZAR | Low | PPI (MoM) (Feb) |  |  | 0.5% |
+| 09:30 | ZAR | Low | PPI (YoY) (Feb) |  |  | 1.1% |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.155% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.448% |
@@ -23,8 +23,8 @@
 | 12:00 | MXN | Low | Trade Balance (Feb) |  | -1.100B | -4.558B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Feb) |  |  | -0.423B |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.70% | 1.23% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 5.30% | 4.96% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.70% | 1.23% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,892K |
 | 12:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.20% |
 | 12:30 | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | -0.4% |
