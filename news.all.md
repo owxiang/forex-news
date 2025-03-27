@@ -15,8 +15,8 @@
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
-| 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
 | 09:30 | ZAR | Low | PPI (YoY) (Feb) | 1.0% |  | 1.1% |
+| 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction | 4.517% |  | 4.155% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.268% |  | 2.448% |
@@ -46,9 +46,9 @@
 | 14:30 | USD | Low | Natural Gas Storage | 37B | 37B | 9B |
 | 15:00 | USD | Low | KC Fed Composite Index (Mar) | -2 |  | -5 |
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) | 1 |  | -13 |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 4.215% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 4.215% |
-| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
+| 15:30 | USD | Low | 4-Week Bill Auction | 4.220% |  | 4.215% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 4.245% |  | 4.215% |
+| 52 min | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
 | 17:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 9.00% | 9.50% |

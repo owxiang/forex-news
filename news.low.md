@@ -12,8 +12,8 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
-| 09:30 | ZAR | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
 | 09:30 | ZAR | PPI (YoY) (Feb) | 1.0% |  | 1.1% |
+| 09:30 | ZAR | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
 | 10:00 | GBP | 7-Year Treasury Gilt Auction | 4.517% |  | 4.155% |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 2.268% |  | 2.448% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
@@ -33,8 +33,8 @@
 | 14:30 | USD | Natural Gas Storage | 37B | 37B | 9B |
 | 15:00 | USD | KC Fed Composite Index (Mar) | -2 |  | -5 |
 | 15:00 | USD | KC Fed Manufacturing Index (Mar) | 1 |  | -13 |
-| 24 min | USD | 4-Week Bill Auction |  |  | 4.215% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 4.215% |
+| 15:30 | USD | 4-Week Bill Auction | 4.220% |  | 4.215% |
+| 15:30 | USD | 8-Week Bill Auction | 4.245% |  | 4.215% |
 | 20:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.425T |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 0.9% |
