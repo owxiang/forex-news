@@ -1,46 +1,44 @@
-## 26 March 2025 - Low Impact Forex News
+## 27 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) | 2.40% | 2.50% | 2.50% |
-| 05:00 | JPY | Coincident Indicator (MoM) (Jan) | 0.1% | 0.1% | 1.0% |
-| 05:00 | JPY | Leading Index (MoM) (Jan) | 0.4% | 0.1% | 0.5% |
-| 05:00 | JPY | Leading Index (Jan) | 108.3 | 108.0 | 108.3 |
-| 05:00 | SGD | Industrial Production (YoY) (Feb) | -1.3% | 7.5% | 8.0% |
-| 05:00 | SGD | Industrial Production (MoM) (Feb) | -7.5% | -0.3% | 2.8% |
-| 07:00 | GBP | Core CPI (YoY) (Feb) | 3.5% | 3.6% | 3.7% |
-| 07:00 | GBP | Core CPI (MoM) (Feb) | 0.4% | 0.5% | -0.4% |
-| 07:00 | GBP | Core RPI (MoM) (Feb) | 0.6% |  | -0.1% |
-| 07:00 | GBP | Core RPI (YoY) (Feb) | 3.0% |  | 3.2% |
-| 07:00 | GBP | CPI, n.s.a (Feb) | 136.00 |  | 135.40 |
-| 07:00 | GBP | RPI (MoM) (Feb) | 0.6% | 0.8% | -0.1% |
-| 07:00 | GBP | RPI (YoY) (Feb) | 3.4% | 3.5% | 3.6% |
-| 07:00 | NOK | M3 Money Supply (Feb) | 3,242.0B |  | 3,263.1B |
-| 07:00 | NOK | Credit Indicator (YoY) (Feb) | 3.6% |  | 3.6% |
-| 07:45 | EUR | French Consumer Confidence (Mar) | 92 | 94 | 93 |
-| 08:00 | EUR | Spanish GDP (YoY) (Q4) | 3.4% | 3.5% | 3.5% |
-| 09:00 | CHF | ZEW Expectations (Mar) | -10.7 |  | 3.4 |
-| 09:30 | GBP | House Price Index (YoY) | 4.9% | 4.4% | 4.6% |
-| 10:20 | EUR | Italian 2-Year CTZ Auction | 2.380% |  | 2.380% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.71% |  | 6.72% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) | -2.0% |  | -6.2% |
-| 11:00 | USD | MBA Purchase Index | 155.8 |  | 154.7 |
-| 11:00 | USD | Mortgage Market Index | 247.5 |  | 252.5 |
-| 11:00 | USD | Mortgage Refinance Index | 752.4 |  | 794.4 |
-| 11:30 | BRL | Current Account (USD) (Feb) | -8.76B | -9.10B | -8.65B |
-| 11:30 | BRL | Foreign direct investment (USD) (Feb) | 9.30B | 5.50B | 6.50B |
-| 12:30 | USD | Durables Excluding Defense (MoM) (Feb) | 0.8% |  | 3.7% |
-| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) | -0.3% | 0.2% | 0.9% |
-| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 14:30 | USD | EIA Refinery Crude Runs (WoW) | 0.087M |  | -0.045M |
-| 14:30 | USD | Crude Oil Imports | 0.845M |  | -1.439M |
-| 14:30 | USD | Distillate Fuel Production | -0.100M |  | 0.151M |
-| 14:30 | USD | EIA Weekly Distillates Stocks | -0.421M | -1.500M | -2.812M |
-| 14:30 | USD | Gasoline Production | -0.401M |  | 0.067M |
-| 14:30 | USD | Heating Oil Stockpiles | -0.035M |  | 0.008M |
-| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.1% |  | 0.4% |
-| 14:30 | USD | Gasoline Inventories | -1.446M | -1.600M | -0.527M |
-| 17:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 17:30 | BRL | Foreign Exchange Flows | -3.664B |  | -2.319B |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -87.6B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,806.2B |
+| 01:30 | CNY | Chinese Industrial profit YTD (Feb) |  |  | -3.3% |
+| 07:00 | NOK | Unemployment Rate (Feb) |  |  | 3.7% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) |  |  | 2.2% |
+| 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 08:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 0.25B |
+| 09:00 | EUR | M3 Money Supply (Feb) |  |  | 16,754.9B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Feb) |  | 3.8% | 3.6% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Feb) |  |  | 2.0% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Feb) |  | 1.4% | 1.3% |
+| 09:30 | ZAR | PPI (MoM) (Feb) |  |  | 0.5% |
+| 09:30 | ZAR | PPI (YoY) (Feb) |  |  | 1.1% |
+| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.155% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.448% |
+| 11:00 | BRL | BCB Inflation Report |  |  |  |
+| 12:00 | MXN | Trade Balance (Feb) |  | -1.100B | -4.558B |
+| 12:00 | MXN | Trade Balance (USD) (Feb) |  |  | -0.423B |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.70% | 1.23% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 5.30% | 4.96% |
+| 12:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | -0.4% |
+| 12:30 | USD | GDP Sales (Q4) |  | 3.2% | 3.3% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
+| 12:30 | USD | PCE Prices (Q4) |  | 2.4% | 1.5% |
+| 12:30 | USD | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
+| 12:30 | USD | Wholesale Inventories (MoM) (Feb) |  | 0.7% | 0.8% |
+| 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) |  |  | 5.81% |
+| 12:55 | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
+| 14:00 | USD | Pending Home Sales Index (Feb) |  |  | 70.6 |
+| 14:30 | USD | Natural Gas Storage |  | 37B | 9B |
+| 15:00 | USD | KC Fed Composite Index (Mar) |  |  | -5 |
+| 15:00 | USD | KC Fed Manufacturing Index (Mar) |  |  | -13 |
+| 15:30 | USD | 4-Week Bill Auction |  |  | 4.215% |
+| 15:30 | USD | 8-Week Bill Auction |  |  | 4.215% |
+| 20:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.425T |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 0.9% |
+| 23:30 | JPY | Tokyo CPI (YoY) (Mar) |  |  | 2.9% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.2% |
+| 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
