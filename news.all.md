@@ -11,37 +11,37 @@
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 4.71B |  | 0.37B |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:00 | EUR | Low | M3 Money Supply (Feb) | 16,858.7B |  | 16,754.9B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
+| 09:00 | EUR | Low | M3 Money Supply (Feb) | 16,858.7B |  | 16,754.9B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
-| 09:30 | ZAR | Low | PPI (YoY) (Feb) | 1.0% |  | 1.1% |
 | 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
+| 09:30 | ZAR | Low | PPI (YoY) (Feb) | 1.0% |  | 1.1% |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction | 4.517% |  | 4.155% |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.268% |  | 2.448% |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
-| 54 min | MXN | Low | Trade Balance (Feb) |  | -1.100B | -4.558B |
-| 54 min | MXN | Low | Trade Balance (USD) (Feb) |  |  | -0.423B |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.70% | 1.23% |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 5.30% | 4.96% |
-| 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,892K |
-| 12:30 | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.20% |
-| 12:30 | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | -0.4% |
-| 12:30 | USD | High | GDP (QoQ) (Q4) |  | 2.3% | 3.1% |
-| 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.4% | 1.9% |
-| 12:30 | USD | Low | GDP Sales (Q4) |  | 3.2% | 3.3% |
-| 12:30 | USD | Moderate | Goods Trade Balance (Feb) |  | -134.60B | -155.57B |
-| 12:30 | USD | High | Initial Jobless Claims |  | 225K | 223K |
-| 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.00K |
-| 12:30 | USD | Low | PCE Prices (Q4) |  | 2.4% | 1.5% |
-| 12:30 | USD | Low | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
-| 12:30 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.5% |
-| 12:30 | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.7% | 0.8% |
-| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Jan) |  |  | 5.81% |
-| 12:55 | EUR | Low | Spanish Business Confidence (Mar) |  |  | -6.2 |
-| 13:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 12:00 | MXN | Low | Trade Balance (Feb) | 2.212B | -1.100B | -4.558B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Feb) | 1.269B |  | -0.423B |
+| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 5.26% | 5.30% | 4.96% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.64% | 0.70% | 1.23% |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,892K |
+| 19 min | USD | Moderate | Core PCE Prices (Q4) |  | 2.70% | 2.20% |
+| 19 min | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | -0.4% |
+| 19 min | USD | High | GDP (QoQ) (Q4) |  | 2.3% | 3.1% |
+| 19 min | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.4% | 1.9% |
+| 19 min | USD | Low | GDP Sales (Q4) |  | 3.2% | 3.3% |
+| 19 min | USD | Moderate | Goods Trade Balance (Feb) |  | -134.60B | -155.57B |
+| 19 min | USD | High | Initial Jobless Claims |  | 225K | 223K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.00K |
+| 19 min | USD | Low | PCE Prices (Q4) |  | 2.4% | 1.5% |
+| 19 min | USD | Low | Real Consumer Spending (Q4) |  | 4.2% | 3.7% |
+| 19 min | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.5% |
+| 19 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.7% | 0.8% |
+| 19 min | CAD | Low | Average Weekly Earnings (YoY) (Jan) |  |  | 5.81% |
+| 44 min | EUR | Low | Spanish Business Confidence (Mar) |  |  | -6.2 |
+| 49 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | 0.9% | -4.6% |
 | 14:00 | USD | Low | Pending Home Sales Index (Feb) |  |  | 70.6 |
 | 14:30 | USD | Low | Natural Gas Storage |  | 37B | 9B |

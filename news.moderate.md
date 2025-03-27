@@ -5,12 +5,12 @@
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 12:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,892K |
-| 12:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.20% |
-| 12:30 | USD | GDP Price Index (QoQ) (Q4) |  | 2.4% | 1.9% |
-| 12:30 | USD | Goods Trade Balance (Feb) |  | -134.60B | -155.57B |
-| 12:30 | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.5% |
-| 13:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 19 min | USD | Continuing Jobless Claims |  | 1,890K | 1,892K |
+| 19 min | USD | Core PCE Prices (Q4) |  | 2.70% | 2.20% |
+| 19 min | USD | GDP Price Index (QoQ) (Q4) |  | 2.4% | 1.9% |
+| 19 min | USD | Goods Trade Balance (Feb) |  | -134.60B | -155.57B |
+| 19 min | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.5% |
+| 49 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) |  | 0.9% | -4.6% |
 | 17:00 | USD | 7-Year Note Auction |  |  | 4.194% |
 | 17:40 | EUR | ECB's Schnabel Speaks |  |  |  |
