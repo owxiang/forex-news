@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CNY | Chinese Industrial profit YTD (Feb) | -0.3% |  | -3.3% |
-| 07:00 | NOK | Unemployment Rate (Feb) |  |  | 3.7% |
+| 51 min | NOK | Unemployment Rate (Feb) |  |  | 3.7% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) |  |  | 2.2% |
 | 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 08:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
@@ -12,16 +12,16 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Feb) |  | 3.8% | 3.6% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) |  |  | 2.0% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Feb) |  | 1.4% | 1.3% |
-| 09:30 | ZAR | PPI (MoM) (Feb) |  |  | 0.5% |
 | 09:30 | ZAR | PPI (YoY) (Feb) |  |  | 1.1% |
+| 09:30 | ZAR | PPI (MoM) (Feb) |  |  | 0.5% |
 | 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.155% |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.448% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | MXN | Trade Balance (Feb) |  | -1.100B | -4.558B |
 | 12:00 | MXN | Trade Balance (USD) (Feb) |  |  | -0.423B |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 5.30% | 4.96% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.70% | 1.23% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 5.30% | 4.96% |
 | 12:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | -0.4% |
 | 12:30 | USD | GDP Sales (Q4) |  | 3.2% | 3.3% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
