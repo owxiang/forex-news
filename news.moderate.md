@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 09:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 53 min | EUR | EU Economic Forecasts |  |  |  |
+| 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 12:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,892K |
 | 12:30 | USD | Core PCE Prices (Q4) |  | 2.70% | 2.20% |
 | 12:30 | USD | GDP Price Index (QoQ) (Q4) |  | 2.4% | 1.9% |
