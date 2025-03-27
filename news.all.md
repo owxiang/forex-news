@@ -11,8 +11,8 @@
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 4.71B |  | 0.37B |
 | 09:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
 | 09:00 | EUR | Low | M3 Money Supply (Feb) | 16,858.7B |  | 16,754.9B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
 | 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
@@ -24,8 +24,8 @@
 | 12:00 | MXN | Low | Trade Balance (Feb) | 2.212B | -1.100B | -4.558B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Feb) | 1.269B |  | 0.182B |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 5.26% | 5.30% | 4.96% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.64% | 0.70% | 1.23% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 5.26% | 5.30% | 4.96% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,856K | 1,890K | 1,881K |
 | 12:30 | USD | Moderate | Core PCE Prices (Q4) | 2.60% | 2.70% | 2.20% |
 | 12:30 | USD | Low | Corporate Profits (QoQ) (Q4) | 5.9% |  | -0.4% |
@@ -55,8 +55,8 @@
 | 20:30 | USD | Moderate | Fed's Balance Sheet | 6,740B |  | 6,756B |
 | 20:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.450T |  | 3.425T |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 0.9% |
-| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) |  | 2.2% | 2.2% |
-| 23:30 | JPY | Low | Tokyo CPI (YoY) (Mar) |  |  | 2.9% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.2% |
-| 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 0.9% |
+| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) |  | 2.2% | 2.2% |
+| 24 min | JPY | Low | Tokyo CPI (YoY) (Mar) |  |  | 2.9% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.2% |
+| 44 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
