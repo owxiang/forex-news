@@ -48,9 +48,9 @@
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) | 1 |  | -13 |
 | 15:30 | USD | Low | 4-Week Bill Auction | 4.220% |  | 4.215% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 4.245% |  | 4.215% |
-| 52 min | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
-| 17:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | USD | Moderate | 7-Year Note Auction | 4.233% |  | 4.194% |
+| 34 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 59 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 9.00% | 9.50% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,756B |
 | 20:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |

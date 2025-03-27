@@ -12,9 +12,9 @@
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) | 0.1% |  | 0.5% |
 | 13:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) | 2.0% | 0.9% | -4.6% |
-| 52 min | USD | 7-Year Note Auction |  |  | 4.194% |
-| 17:40 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:05 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | USD | 7-Year Note Auction | 4.233% |  | 4.194% |
+| 34 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 59 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | MXN | Interest Rate Decision (Mar) |  | 9.00% | 9.50% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 6,756B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.2% | 2.2% |
