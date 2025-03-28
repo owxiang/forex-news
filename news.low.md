@@ -47,8 +47,8 @@
 | 12:30 | USD | Real Personal Consumption (MoM) (Feb) | 0.1% |  | -0.6% |
 | 12:50 | INR | Foreign Debt (USD) (Q4) | 717.9B |  | 711.8B |
 | 14:00 | USD | Michigan Current Conditions (Mar) | 63.8 | 63.5 | 65.7 |
-| 54 min | CAD | Budget Balance (Jan) |  |  | 1.00B |
-| 54 min | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
+| 15:00 | CAD | Budget Balance (Jan) | -5.13B |  | 1.00B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) | -26.85B |  | -21.72B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |

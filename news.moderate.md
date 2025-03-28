@@ -32,7 +32,7 @@
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 4.1% | 3.9% | 3.5% |
 | 14:00 | USD | Michigan Consumer Expectations (Mar) | 52.6 | 54.2 | 64.0 |
 | 14:00 | USD | Michigan Consumer Sentiment (Mar) | 57.0 | 57.9 | 64.7 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
+| 24 min | USD | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 16:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 593 |

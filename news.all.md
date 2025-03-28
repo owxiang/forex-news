@@ -81,9 +81,9 @@
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) | 52.6 | 54.2 | 64.0 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) | 57.0 | 57.9 | 64.7 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 63.8 | 63.5 | 65.7 |
-| 54 min | CAD | Low | Budget Balance (Jan) |  |  | 1.00B |
-| 54 min | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
+| 15:00 | CAD | Low | Budget Balance (Jan) | -5.13B |  | 1.00B |
+| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) | -26.85B |  | -21.72B |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 16:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 593 |
