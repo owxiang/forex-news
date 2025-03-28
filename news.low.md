@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | SGD | Bank Lending (Feb) | 841.1B |  | 836.3B |
-| 07:00 | GBP | Business Investment (YoY) (Q4) |  | -0.7% | 4.4% |
-| 07:00 | NOK | Unemployment Change (Mar) |  |  | 77.45K |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
+| 50 min | GBP | Business Investment (YoY) (Q4) |  | -0.7% | 4.4% |
+| 50 min | NOK | Unemployment Change (Mar) |  |  | 77.45K |
+| 50 min | NOK | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
+| 50 min | NOK | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
 | 07:45 | EUR | French CPI (YoY) (Mar) |  |  | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.1% | 0.9% |
-| 07:45 | EUR | French PPI (MoM) (Feb) |  |  | 0.7% |
 | 07:45 | EUR | PPI (YoY) (Feb) |  |  | -2.10% |
+| 07:45 | EUR | French PPI (MoM) (Feb) |  |  | 0.7% |
 | 07:55 | EUR | German Unemployment (Mar) |  |  | 2.886M |
 | 07:55 | EUR | German Unemployment n.s.a. (Mar) |  |  | 2.989M |
 | 08:00 | EUR | Core CPI (YoY) (Mar) |  |  | 2.2% |
@@ -18,8 +18,8 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Italian Business Confidence (Mar) |  | 87.5 | 87.0 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) |  |  | 98.8 |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | -2.70% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
 | 10:00 | EUR | Business and Consumer Survey (Mar) |  | 97.0 | 96.3 |
 | 10:00 | EUR | Business Climate (Mar) |  |  | -0.74 |
 | 10:00 | EUR | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
@@ -28,8 +28,8 @@
 | 10:00 | EUR | Services Sentiment (Mar) |  | 6.8 | 6.2 |
 | 10:00 | EUR | Industrial Sentiment (Mar) |  | -10.5 | -11.4 |
 | 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 2.93% |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
 | 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | 1.6% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.16% | 1.06% |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.0% |
 | 11:30 | INR | Deposit Growth |  |  | 10.3% |

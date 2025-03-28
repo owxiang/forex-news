@@ -3,28 +3,28 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | SGD | Low | Bank Lending (Feb) | 841.1B |  | 836.3B |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  | -0.7% | 4.4% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -3.2% | 1.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.5% | 2.1% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
-| 07:00 | GBP | Moderate | Current Account (Q4) |  | -16.7B | -18.1B |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
-| 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.4% | 0.9% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.3% | 1.7% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) |  | 0.5% | 1.0% |
-| 07:00 | GBP | Moderate | Trade Balance (Jan) |  | -16.80B | -17.45B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) |  |  | -6.10B |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -22.6 | -24.7 |
-| 07:00 | NOK | Low | Unemployment Change (Mar) |  |  | 77.45K |
-| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
+| 50 min | GBP | Low | Business Investment (YoY) (Q4) |  | -0.7% | 4.4% |
+| 50 min | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -3.2% | 1.9% |
+| 50 min | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.5% | 2.1% |
+| 50 min | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
+| 50 min | GBP | Moderate | Current Account (Q4) |  | -16.7B | -18.1B |
+| 50 min | GBP | High | GDP (YoY) (Q4) |  | 1.4% | 0.9% |
+| 50 min | GBP | High | GDP (QoQ) (Q4) |  | 0.1% | 0.0% |
+| 50 min | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.3% | 1.7% |
+| 50 min | GBP | Moderate | Retail Sales (YoY) (Feb) |  | 0.5% | 1.0% |
+| 50 min | GBP | Moderate | Trade Balance (Jan) |  | -16.80B | -17.45B |
+| 50 min | GBP | Moderate | Trade Balance Non-EU (Jan) |  |  | -6.10B |
+| 50 min | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -22.6 | -24.7 |
+| 50 min | NOK | Low | Unemployment Change (Mar) |  |  | 77.45K |
+| 50 min | NOK | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
+| 50 min | NOK | Low | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | 0.3% | -0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) |  |  | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.3% | 0.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 1.1% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.3% | 0.1% |
-| 07:45 | EUR | Low | French PPI (MoM) (Feb) |  |  | 0.7% |
 | 07:45 | EUR | Low | PPI (YoY) (Feb) |  |  | -2.10% |
+| 07:45 | EUR | Low | French PPI (MoM) (Feb) |  |  | 0.7% |
 | 07:55 | EUR | Moderate | German Unemployment Change (Mar) |  | 10K | 5K |
 | 07:55 | EUR | Moderate | German Unemployment Rate (Mar) |  | 6.2% | 6.2% |
 | 07:55 | EUR | Low | German Unemployment (Mar) |  |  | 2.886M |
@@ -33,13 +33,13 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) |  |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 2.6% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  |  | 0.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  |  | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) |  | 87.5 | 87.0 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) |  |  | 98.8 |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) |  |  | -2.70% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Mar) |  | 97.0 | 96.3 |
 | 10:00 | EUR | Low | Business Climate (Mar) |  |  | -0.74 |
 | 10:00 | EUR | Low | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
@@ -49,8 +49,8 @@
 | 10:00 | EUR | Low | Industrial Sentiment (Mar) |  | -10.5 | -11.4 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.55% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.93% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | 4.4% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Feb) |  |  | 1.6% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | 4.4% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  | -0.16% | 1.06% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.3% |
