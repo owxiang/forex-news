@@ -51,15 +51,15 @@
 | 15:00 | CAD | Budget Balance (Jan) | -5.13B |  | 1.00B |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) | -26.85B |  | -21.72B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Feb) | 432.00K |  | 137.30K |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 25.2K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | 239.4K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -123.0K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 62.3K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -8.3K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -76.5K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -136.6K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 56.0K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -34.4K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -40.4K |
-| 21:00 | MXN | Fiscal Balance (Feb) |  |  | -19.42B |
+| 19:30 | USD | CFTC Aluminium speculative net positions | 1.9K |  | 1.9K |
+| 19:30 | USD | CFTC Copper speculative net positions | 25.2K |  | 25.2K |
+| 19:30 | USD | CFTC Corn speculative net positions | 200.4K |  | 239.4K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions | -131.9K |  | -123.0K |
+| 19:30 | USD | CFTC Silver speculative net positions | 62.3K |  | 62.3K |
+| 19:30 | USD | CFTC Soybeans speculative net positions | -14.4K |  | -8.3K |
+| 19:30 | USD | CFTC Wheat speculative net positions | -82.5K |  | -76.5K |
+| 19:30 | CAD | CFTC CAD speculative net positions | -136.6K |  | -136.6K |
+| 19:30 | MXN | CFTC MXN speculative net positions | 56.0K |  | 56.0K |
+| 19:30 | CHF | CFTC CHF speculative net positions | -34.4K |  | -34.4K |
+| 19:30 | NZD | CFTC NZD speculative net positions | -40.4K |  | -40.4K |
+| 53 min | MXN | Fiscal Balance (Feb) |  |  | -19.42B |
