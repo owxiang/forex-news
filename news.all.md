@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | SGD | Low | Bank Lending (Feb) | 841.1B |  | 836.3B |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 1.8% | -0.7% | 5.6% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 1.8% | -0.7% | 5.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | 1.5% | 1.4% | 0.9% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -17.85B | -16.80B | -19.72B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -7.07B |  | -8.04B |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -24.5 | -22.6 | -24.6 |
@@ -19,18 +19,18 @@
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Mar) | 2.10% |  | 2.20% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) | -0.1% |  | 1.1% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) | -0.1% | 0.3% | -0.6% |
-| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% |  | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.3% | 0.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% |  | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 1.1% | 0.9% |
-| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 07:45 | EUR | Low | PPI (YoY) (Feb) | -1.40% |  | -2.20% |
+| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 103.9 | 102.5 | 102.6 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.0% |  | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.1% |  | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% |  | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% |  | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% |  | 2.9% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:55 | EUR | Moderate | German Unemployment Change (Mar) | 26K | 10K | 5K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Mar) | 6.3% | 6.2% | 6.2% |
@@ -38,20 +38,20 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) | 2.967M |  | 2.989M |
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
-| 53 min | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
-| 53 min | EUR | Low | Italian Industrial Sales (MoM) (Jan) |  |  | -2.70% |
-| 53 min | EUR | Low | Business and Consumer Survey (Mar) |  | 97.0 | 96.3 |
-| 53 min | EUR | Low | Business Climate (Mar) |  |  | -0.74 |
-| 53 min | EUR | Low | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
-| 53 min | EUR | Low | Consumer Inflation Expectation (Mar) |  |  | 21.1 |
-| 53 min | EUR | Low | Selling Price Expectations (Mar) |  |  | 9.8 |
-| 53 min | EUR | Low | Services Sentiment (Mar) |  | 6.8 | 6.2 |
-| 53 min | EUR | Low | Industrial Sentiment (Mar) |  | -10.5 | -11.4 |
-| 10:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.55% |
-| 10:30 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.93% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | 4.4% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) |  |  | 1.6% |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  | -0.16% | 1.06% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
+| 10:00 | EUR | Low | Business Climate (Mar) | -0.73 |  | -0.75 |
+| 10:00 | EUR | Low | Consumer Confidence (Mar) | -14.5 | -14.5 | -14.5 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Mar) | 24.4 |  | 21.4 |
+| 10:00 | EUR | Low | Selling Price Expectations (Mar) | 11.4 |  | 10.2 |
+| 10:00 | EUR | Low | Services Sentiment (Mar) | 2.4 | 6.8 | 5.1 |
+| 10:00 | EUR | Low | Industrial Sentiment (Mar) | -10.6 | -10.5 | -11.0 |
+| 23 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.55% |
+| 23 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.93% |
+| 53 min | EUR | Low | Italian PPI (MoM) (Feb) |  |  | 1.6% |
+| 53 min | EUR | Low | Italian PPI (YoY) (Feb) |  |  | 4.4% |
+| 53 min | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  | -0.16% | 1.06% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 10.3% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 654.27B |
@@ -59,7 +59,7 @@
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
 | 12:00 | EUR | Low | Spanish Business Confidence (Mar) |  |  | -6.2 |
 | 12:00 | BRL | Moderate | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
-| 12:00 | ZAR | Low | Budget Balance (MoM) (Feb) |  |  | -62.68B |
+| 12:00 | ZAR | Low | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
 | 12:30 | USD | High | Core PCE Price Index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | High | Core PCE Price Index (YoY) (Feb) |  | 2.7% | 2.6% |
 | 12:30 | USD | Moderate | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
@@ -67,8 +67,8 @@
 | 12:30 | USD | Low | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
 | 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  |  | 0.2% |
+| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
 | 13:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.50% |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
@@ -77,8 +77,8 @@
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 54.2 | 64.0 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 57.9 | 64.7 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 63.5 | 65.7 |
-| 15:00 | CAD | Low | Budget Balance (Jan) |  |  | 1.00B |
 | 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
+| 15:00 | CAD | Low | Budget Balance (Jan) |  |  | 1.00B |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 16:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
@@ -106,4 +106,3 @@
 | 19:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 257.9K |
 | 21:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.42B |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) (Feb) |  |  | 0.5% |
