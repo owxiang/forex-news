@@ -9,8 +9,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Feb) | -0.1% |  | 1.1% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 0.8% |  | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 1.1% | 0.9% |
-| 07:45 | EUR | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 07:45 | EUR | PPI (YoY) (Feb) | -1.40% |  | -2.20% |
+| 07:45 | EUR | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 08:00 | EUR | Core CPI (YoY) (Mar) | 2.0% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.1% |  | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 0.7% |  | 0.4% |
@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
 | 09:50 | ZAR | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 13,468.52B |  | 11,695.42B |
 | 10:00 | EUR | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
 | 10:00 | EUR | Business Climate (Mar) | -0.73 |  | -0.75 |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Services Sentiment (Mar) | 2.4 | 6.8 | 5.1 |
 | 10:00 | EUR | Industrial Sentiment (Mar) | -10.6 | -10.5 | -11.0 |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.05% |  | 2.93% |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
 | 11:00 | EUR | Italian PPI (MoM) (Feb) | 0.7% |  | 1.6% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.34% | -0.16% | 1.06% |
 | 11:30 | INR | Balance of Payments (USD) (Q4) | -37.700B |  | 18.600B |
 | 11:30 | INR | Bank Loan Growth | 11.1% |  | 11.0% |
@@ -39,17 +39,16 @@
 | 11:30 | INR | Current Account (USD) (Q4) | -11.50B |  | -11.20B |
 | 11:30 | INR | Deposit Growth | 10.2% |  | 10.3% |
 | 11:30 | INR | FX Reserves, USD | 658.80B |  | 654.27B |
-| 11:30 | INR | Infrastructure Output (YoY) (Feb) | 2.9% |  | 4.6% |
+| 11:30 | INR | Infrastructure Output (YoY) (Feb) | 2.9% |  | 5.1% |
 | 11:30 | INR | Trade Balance (USD) (Q4) | -79.200B |  | -75.300B |
 | 12:00 | MXN | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.60% | 2.70% |
 | 12:30 | USD | Personal Income (MoM) (Feb) | 0.8% | 0.4% | 0.7% |
 | 12:30 | USD | Real Personal Consumption (MoM) (Feb) | 0.1% |  | -0.6% |
 | 12:50 | INR | Foreign Debt (USD) (Q4) | 717.9B |  | 711.8B |
-| 19 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 49 min | USD | Michigan Current Conditions (Mar) |  | 63.5 | 65.7 |
-| 15:00 | CAD | Budget Balance (Jan) |  |  | 1.00B |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
+| 14:00 | USD | Michigan Current Conditions (Mar) | 63.8 | 63.5 | 65.7 |
+| 54 min | CAD | Budget Balance (Jan) |  |  | 1.00B |
+| 54 min | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |

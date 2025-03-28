@@ -6,8 +6,8 @@
 | 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
 | 07:00 | GBP | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
-| 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
 | 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
+| 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
 | 07:00 | GBP | Trade Balance (Jan) | -17.85B | -16.80B | -19.72B |
 | 07:00 | GBP | Trade Balance Non-EU (Jan) | -7.07B |  | -8.04B |
 | 07:00 | EUR | GfK German Consumer Climate (Apr) | -24.5 | -22.6 | -24.6 |
@@ -28,10 +28,10 @@
 | 12:30 | CAD | GDP (MoM) (Jan) | 0.4% | 0.2% | 0.2% |
 | 12:31 | CAD | GDP (MoM) (Feb) | 0.0% |  | 0.4% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 49 min | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 4.9% | 4.3% |
-| 49 min | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 3.9% | 3.5% |
-| 49 min | USD | Michigan Consumer Expectations (Mar) |  | 54.2 | 64.0 |
-| 49 min | USD | Michigan Consumer Sentiment (Mar) |  | 57.9 | 64.7 |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 5.0% | 4.9% | 4.3% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 4.1% | 3.9% | 3.5% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) | 52.6 | 54.2 | 64.0 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) | 57.0 | 57.9 | 64.7 |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 16:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
