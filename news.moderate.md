@@ -6,8 +6,8 @@
 | 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
-| 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
+| 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Trade Balance (Jan) | -17.85B | -16.80B | -19.72B |
 | 07:00 | GBP | Trade Balance Non-EU (Jan) | -7.07B |  | -8.04B |
 | 07:00 | EUR | GfK German Consumer Climate (Apr) | -24.5 | -22.6 | -24.6 |
@@ -36,13 +36,13 @@
 | 16:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 484 |  | 486 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count | 592 |  | 593 |
-| 19:30 | GBP | CFTC GBP speculative net positions |  |  | 29.4K |
-| 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 166.8K |
-| 19:30 | USD | CFTC Gold speculative net positions |  |  | 257.9K |
-| 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.0K |
-| 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | 68.3K |
-| 19:30 | AUD | CFTC AUD speculative net positions |  |  | -70.4K |
-| 19:30 | BRL | CFTC BRL speculative net positions |  |  | 40.7K |
-| 19:30 | JPY | CFTC JPY speculative net positions |  |  | 123.0K |
-| 19:30 | EUR | CFTC EUR speculative net positions |  |  | 59.4K |
-| 19:45 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | 29.4K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 166.8K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 257.9K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.0K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | 68.3K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -70.4K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | 40.7K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | 123.0K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | 59.4K |
+| 39 min | USD | FOMC Member Bostic Speaks |  |  |  |
