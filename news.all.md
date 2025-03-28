@@ -5,8 +5,8 @@
 | 02:00 | SGD | Low | Bank Lending (Feb) | 841.1B |  | 836.3B |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 1.8% | -0.7% | 5.6% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | 1.5% | 1.4% | 0.9% |
@@ -29,8 +29,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.0% |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.1% |  | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% |  | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% |  | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% |  | 2.9% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:55 | EUR | Moderate | German Unemployment Change (Mar) | 26K | 10K | 9K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Mar) | 6.3% | 6.2% | 6.2% |
@@ -39,8 +39,8 @@
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
 | 09:50 | ZAR | Low | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Feb) | 13,468.52B |  | 11,695.42B |
 | 10:00 | EUR | Low | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
 | 10:00 | EUR | Low | Business Climate (Mar) | -0.73 |  | -0.75 |
@@ -110,4 +110,4 @@
 | 19:30 | NZD | Low | CFTC NZD speculative net positions | -40.4K |  | -40.4K |
 | 19:30 | EUR | Moderate | CFTC EUR speculative net positions | 59.4K |  | 59.4K |
 | 19:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 53 min | MXN | Low | Fiscal Balance (Feb) |  |  | -19.42B |
+| 21:00 | MXN | Low | Fiscal Balance (Feb) | -95.31B |  | -19.42B |

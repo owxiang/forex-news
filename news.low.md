@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
 | 09:50 | ZAR | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 13,468.52B |  | 11,695.42B |
 | 10:00 | EUR | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
 | 10:00 | EUR | Business Climate (Mar) | -0.73 |  | -0.75 |
@@ -62,4 +62,4 @@
 | 19:30 | MXN | CFTC MXN speculative net positions | 56.0K |  | 56.0K |
 | 19:30 | CHF | CFTC CHF speculative net positions | -34.4K |  | -34.4K |
 | 19:30 | NZD | CFTC NZD speculative net positions | -40.4K |  | -40.4K |
-| 53 min | MXN | Fiscal Balance (Feb) |  |  | -19.42B |
+| 21:00 | MXN | Fiscal Balance (Feb) | -95.31B |  | -19.42B |
