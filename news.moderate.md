@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
 | 07:00 | GBP | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
 | 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
@@ -33,9 +33,9 @@
 | 14:00 | USD | Michigan Consumer Expectations (Mar) | 52.6 | 54.2 | 64.0 |
 | 14:00 | USD | Michigan Consumer Sentiment (Mar) | 57.0 | 57.9 | 64.7 |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | -2.8% | -1.8% | -1.8% |
-| 8 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 593 |
+| 16:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 484 |  | 486 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 592 |  | 593 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 29.4K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 166.8K |
 | 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.0K |

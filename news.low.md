@@ -30,8 +30,8 @@
 | 10:00 | EUR | Services Sentiment (Mar) | 2.4 | 6.8 | 5.1 |
 | 10:00 | EUR | Industrial Sentiment (Mar) | -10.6 | -10.5 | -11.0 |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.05% |  | 2.93% |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
 | 11:00 | EUR | Italian PPI (MoM) (Feb) | 0.7% |  | 1.6% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.34% | -0.16% | 1.06% |
 | 11:30 | INR | Balance of Payments (USD) (Q4) | -37.700B |  | 18.600B |
 | 11:30 | INR | Bank Loan Growth | 11.1% |  | 11.0% |
@@ -48,9 +48,9 @@
 | 12:50 | INR | Foreign Debt (USD) (Q4) | 717.9B |  | 711.8B |
 | 13:00 | USD | Dallas Fed PCE (Feb) | 3.00% |  | 2.50% |
 | 14:00 | USD | Michigan Current Conditions (Mar) | 63.8 | 63.5 | 65.7 |
-| 15:00 | CAD | Budget Balance (Jan) | -5.13B |  | 1.00B |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) | -26.85B |  | -21.72B |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
+| 15:00 | CAD | Budget Balance (Jan) | -5.13B |  | 1.00B |
+| 24 min | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 239.4K |
