@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Business Investment (QoQ) (Q4) |  | -3.2% | 1.9% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Feb) |  | -0.5% | 2.1% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
 | 07:00 | GBP | Current Account (Q4) |  | -16.7B | -18.1B |
-| 07:00 | GBP | Retail Sales (YoY) (Feb) |  | 0.5% | 1.0% |
 | 07:00 | GBP | Retail Sales (MoM) (Feb) |  | -0.3% | 1.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Feb) |  | 0.5% | 1.0% |
 | 07:00 | GBP | Trade Balance (Jan) |  | -16.80B | -17.45B |
 | 07:00 | GBP | Trade Balance Non-EU (Jan) |  |  | -6.10B |
 | 07:00 | EUR | GfK German Consumer Climate (Apr) |  | -22.6 | -24.7 |
@@ -22,11 +22,11 @@
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.55% |
 | 12:00 | BRL | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
-| 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
+| 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
-| 12:30 | CAD | GDP (MoM) (Jan) |  |  | 0.2% |
 | 12:30 | CAD | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
+| 12:30 | CAD | GDP (MoM) (Jan) |  |  | 0.2% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 4.9% | 4.9% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 3.9% | 3.9% |

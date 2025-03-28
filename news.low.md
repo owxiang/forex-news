@@ -9,8 +9,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
 | 07:45 | EUR | French CPI (YoY) (Mar) |  |  | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.1% | 0.9% |
-| 07:45 | EUR | PPI (YoY) (Feb) |  |  | -2.10% |
 | 07:45 | EUR | French PPI (MoM) (Feb) |  |  | 0.7% |
+| 07:45 | EUR | PPI (YoY) (Feb) |  |  | -2.10% |
 | 07:55 | EUR | German Unemployment (Mar) |  |  | 2.886M |
 | 07:55 | EUR | German Unemployment n.s.a. (Mar) |  |  | 2.989M |
 | 08:00 | EUR | Core CPI (YoY) (Mar) |  |  | 2.2% |
@@ -43,8 +43,8 @@
 | 13:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.50% |
 | 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 63.5 | 63.5 |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | 1.00B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |

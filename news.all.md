@@ -5,13 +5,13 @@
 | 02:00 | SGD | Low | Bank Lending (Feb) | 841.1B |  | 836.3B |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  | -0.7% | 4.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -3.2% | 1.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.5% | 2.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
 | 07:00 | GBP | Moderate | Current Account (Q4) |  | -16.7B | -18.1B |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.4% | 1.4% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) |  | 0.5% | 1.0% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.3% | 1.7% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) |  | 0.5% | 1.0% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) |  | -16.80B | -17.45B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) |  |  | -6.10B |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -22.6 | -24.7 |
@@ -21,10 +21,10 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | 0.4% | -0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) |  |  | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.4% | 0.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 1.1% | 0.9% |
-| 07:45 | EUR | Low | PPI (YoY) (Feb) |  |  | -2.10% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French PPI (MoM) (Feb) |  |  | 0.7% |
+| 07:45 | EUR | Low | PPI (YoY) (Feb) |  |  | -2.10% |
 | 07:55 | EUR | Moderate | German Unemployment Change (Mar) |  | 10K | 5K |
 | 07:55 | EUR | Moderate | German Unemployment Rate (Mar) |  | 6.2% | 6.2% |
 | 07:55 | EUR | Low | German Unemployment (Mar) |  |  | 2.886M |
@@ -62,13 +62,13 @@
 | 12:00 | ZAR | Low | Budget Balance (MoM) (Feb) |  |  | -62.68B |
 | 12:30 | USD | High | Core PCE Price Index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | High | Core PCE Price Index (YoY) (Feb) |  | 2.7% | 2.6% |
-| 12:30 | USD | Moderate | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
+| 12:30 | USD | Moderate | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Low | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  |  | 0.2% |
 | 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
+| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  |  | 0.2% |
 | 13:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.50% |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
@@ -77,8 +77,8 @@
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 54.2 | 54.2 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 57.9 | 57.9 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 63.5 | 63.5 |
-| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:00 | CAD | Low | Budget Balance (Jan) |  |  | 1.00B |
+| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 16:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
