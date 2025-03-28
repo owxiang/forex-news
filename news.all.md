@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 25 min | SGD | Low | Bank Lending (Feb) |  |  | 836.3B |
+| 02:00 | SGD | Low | Bank Lending (Feb) | 841.1B |  | 836.3B |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  | -0.7% | 4.4% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -3.2% | 1.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.5% | 2.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
 | 07:00 | GBP | Moderate | Current Account (Q4) |  | -16.7B | -18.1B |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) |  | 1.4% | 1.4% |
@@ -21,8 +21,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | 0.4% | -0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) |  |  | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.4% | 0.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 1.1% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.3% | 0.1% |
 | 07:45 | EUR | Low | PPI (YoY) (Feb) |  |  | -2.10% |
 | 07:45 | EUR | Low | French PPI (MoM) (Feb) |  |  | 0.7% |
 | 07:55 | EUR | Moderate | German Unemployment Change (Mar) |  | 10K | 5K |
@@ -31,15 +31,15 @@
 | 07:55 | EUR | Low | German Unemployment n.s.a. (Mar) |  |  | 2.989M |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) |  | 102.5 | 101.7 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) |  |  | 2.2% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  |  | 0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 2.6% | 3.0% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  |  | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  |  | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) |  | 87.5 | 87.0 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) |  |  | 98.8 |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) |  |  | -2.70% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Mar) |  | 97.0 | 96.3 |
 | 10:00 | EUR | Low | Business Climate (Mar) |  |  | -0.74 |
 | 10:00 | EUR | Low | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
@@ -67,8 +67,8 @@
 | 12:30 | USD | Low | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  |  | 0.2% |
 | 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
+| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  |  | 0.2% |
 | 13:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.50% |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
@@ -77,8 +77,8 @@
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 54.2 | 54.2 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 57.9 | 57.9 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 63.5 | 63.5 |
-| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:00 | CAD | Low | Budget Balance (Jan) |  |  | 1.00B |
+| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 16:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |
