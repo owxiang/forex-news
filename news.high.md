@@ -1,7 +1,8 @@
-## 27 March 2025 - High Impact Forex News
+## 28 March 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | U.S. President Trump Speaks |  |  |  |
-| 12:30 | USD | GDP (QoQ) (Q4) | 2.4% | 2.3% | 3.1% |
-| 12:30 | USD | Initial Jobless Claims | 224K | 225K | 225K |
+| 07:00 | GBP | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 07:00 | GBP | GDP (YoY) (Q4) |  | 1.4% | 1.4% |
+| 12:30 | USD | Core PCE Price Index (MoM) (Feb) |  | 0.3% | 0.3% |
+| 12:30 | USD | Core PCE Price Index (YoY) (Feb) |  | 2.7% | 2.6% |

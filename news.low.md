@@ -1,43 +1,61 @@
-## 27 March 2025 - Low Impact Forex News
+## 28 March 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CNY | Chinese Industrial profit YTD (Feb) | -0.3% |  | -3.3% |
-| 07:00 | NOK | Unemployment Rate (Feb) | 3.8% |  | 3.7% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) | 3.6% |  | 2.3% |
-| 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 08:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Feb) | 4.71B |  | 0.37B |
-| 09:00 | EUR | M3 Money Supply (Feb) | 16,858.7B |  | 16,754.9B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 4.0% | 3.8% | 3.6% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 2.2% |  | 2.0% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Feb) | 1.5% | 1.4% | 1.3% |
-| 09:30 | ZAR | PPI (MoM) (Feb) | 0.4% |  | 0.5% |
-| 09:30 | ZAR | PPI (YoY) (Feb) | 1.0% |  | 1.1% |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction | 4.517% |  | 4.155% |
-| 10:10 | EUR | Italian 6-Month BOT Auction | 2.268% |  | 2.448% |
-| 11:00 | BRL | BCB Inflation Report |  |  |  |
-| 12:00 | MXN | Trade Balance (Feb) | 2.212B | -1.100B | -4.558B |
-| 12:00 | MXN | Trade Balance (USD) (Feb) | 1.269B |  | 0.182B |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) | 0.64% | 0.70% | 1.23% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) | 5.26% | 5.30% | 4.96% |
-| 12:30 | USD | Corporate Profits (QoQ) (Q4) | 5.9% |  | -0.4% |
-| 12:30 | USD | GDP Sales (Q4) | 3.3% | 3.2% | 3.3% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. | 224.00K |  | 228.75K |
-| 12:30 | USD | PCE Prices (Q4) | 2.4% | 2.4% | 1.5% |
-| 12:30 | USD | Real Consumer Spending (Q4) | 4.0% | 4.2% | 3.7% |
-| 12:30 | USD | Wholesale Inventories (MoM) (Feb) | 0.3% | 0.7% | 0.8% |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) | 5.47% |  | 5.90% |
-| 14:00 | USD | Pending Home Sales Index (Feb) | 72.0 |  | 70.6 |
-| 14:30 | USD | Natural Gas Storage | 37B | 37B | 9B |
-| 15:00 | USD | KC Fed Composite Index (Mar) | -2 |  | -5 |
-| 15:00 | USD | KC Fed Manufacturing Index (Mar) | 1 |  | -13 |
-| 15:30 | USD | 4-Week Bill Auction | 4.220% |  | 4.215% |
-| 15:30 | USD | 8-Week Bill Auction | 4.245% |  | 4.215% |
-| 20:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.450T |  | 3.425T |
-| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 0.9% |
-| 24 min | JPY | Tokyo CPI (YoY) (Mar) |  |  | 2.9% |
-| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.2% |
-| 44 min | JPY | BoJ Summary of Opinions |  |  |  |
+| 02:00 | SGD | Bank Lending (Feb) |  |  | 836.3B |
+| 07:00 | GBP | Business Investment (YoY) (Q4) |  | -0.7% | 4.4% |
+| 07:00 | NOK | Unemployment Change (Mar) |  |  | 77.45K |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Mar) |  |  | 2.20% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Feb) |  |  | 1.1% |
+| 07:45 | EUR | French CPI (YoY) (Mar) |  |  | 0.8% |
+| 07:45 | EUR | French HICP (YoY) (Mar) |  | 1.1% | 0.9% |
+| 07:45 | EUR | PPI (YoY) (Feb) |  |  | -2.10% |
+| 07:45 | EUR | French PPI (MoM) (Feb) |  |  | 0.7% |
+| 07:55 | EUR | German Unemployment (Mar) |  |  | 2.886M |
+| 07:55 | EUR | German Unemployment n.s.a. (Mar) |  |  | 2.989M |
+| 08:00 | EUR | Core CPI (YoY) (Mar) |  |  | 2.2% |
+| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  |  | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  |  | 0.4% |
+| 09:00 | EUR | Italian Business Confidence (Mar) |  | 87.5 | 87.0 |
+| 09:00 | EUR | Italian Consumer Confidence (Mar) |  |  | 98.8 |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | -2.70% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
+| 10:00 | EUR | Business and Consumer Survey (Mar) |  | 97.0 | 96.3 |
+| 10:00 | EUR | Business Climate (Mar) |  |  | -0.74 |
+| 10:00 | EUR | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
+| 10:00 | EUR | Consumer Inflation Expectation (Mar) |  |  | 21.1 |
+| 10:00 | EUR | Selling Price Expectations (Mar) |  |  | 9.8 |
+| 10:00 | EUR | Services Sentiment (Mar) |  | 6.7 | 6.2 |
+| 10:00 | EUR | Industrial Sentiment (Mar) |  | -10.5 | -11.4 |
+| 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 2.93% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | 1.6% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.16% | 1.06% |
+| 11:30 | INR | Bank Loan Growth |  |  | 11.0% |
+| 11:30 | INR | Deposit Growth |  |  | 10.3% |
+| 11:30 | INR | FX Reserves, USD |  |  | 654.27B |
+| 12:00 | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
+| 12:00 | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
+| 12:00 | ZAR | Budget Balance (MoM) (Feb) |  |  | -62.68B |
+| 12:30 | USD | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
+| 12:30 | USD | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
+| 13:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.50% |
+| 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 14:00 | USD | Michigan Current Conditions (Mar) |  | 63.5 | 63.5 |
+| 15:00 | CAD | Budget Balance (Jan) |  |  | 1.00B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
+| 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
+| 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |
+| 19:30 | USD | CFTC Corn speculative net positions |  |  | 239.4K |
+| 19:30 | USD | CFTC Natural Gas speculative net positions |  |  | -123.0K |
+| 19:30 | USD | CFTC Silver speculative net positions |  |  | 62.3K |
+| 19:30 | USD | CFTC Soybeans speculative net positions |  |  | -8.3K |
+| 19:30 | USD | CFTC Wheat speculative net positions |  |  | -76.5K |
+| 19:30 | CAD | CFTC CAD speculative net positions |  |  | -136.6K |
+| 19:30 | MXN | CFTC MXN speculative net positions |  |  | 56.0K |
+| 19:30 | CHF | CFTC CHF speculative net positions |  |  | -34.4K |
+| 19:30 | NZD | CFTC NZD speculative net positions |  |  | -40.4K |
+| 21:00 | MXN | Fiscal Balance (Feb) |  |  | -19.42B |
+| 23:50 | JPY | Large Retailers' Sales (MoM) (Feb) |  |  | 0.5% |
