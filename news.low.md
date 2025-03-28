@@ -30,22 +30,26 @@
 | 10:00 | EUR | Services Sentiment (Mar) | 2.4 | 6.8 | 5.1 |
 | 10:00 | EUR | Industrial Sentiment (Mar) | -10.6 | -10.5 | -11.0 |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.05% |  | 2.93% |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
-| 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | 1.6% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) | 0.7% |  | 1.6% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.34% | -0.16% | 1.06% |
-| 24 min | INR | Bank Loan Growth |  |  | 11.0% |
-| 24 min | INR | Deposit Growth |  |  | 10.3% |
-| 24 min | INR | FX Reserves, USD |  |  | 654.27B |
-| 54 min | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
-| 54 min | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
-| 54 min | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
-| 12:30 | USD | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
-| 12:30 | USD | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
-| 13:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.50% |
+| 11:30 | INR | Balance of Payments (USD) (Q4) | -37.700B |  | 18.600B |
+| 11:30 | INR | Bank Loan Growth | 11.1% |  | 11.0% |
+| 11:30 | INR | Current Account % of GDP (QoQ) (Q4) | -1.10% |  | -1.20% |
+| 11:30 | INR | Current Account (USD) (Q4) | -11.50B |  | -11.20B |
+| 11:30 | INR | Deposit Growth | 10.2% |  | 10.3% |
+| 11:30 | INR | FX Reserves, USD | 658.80B |  | 654.27B |
+| 11:30 | INR | Infrastructure Output (YoY) (Feb) | 2.9% |  | 4.6% |
+| 11:30 | INR | Trade Balance (USD) (Q4) | -79.200B |  | -75.300B |
+| 12:00 | MXN | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.60% | 2.70% |
+| 19 min | USD | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
+| 19 min | USD | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
+| 49 min | USD | Dallas Fed PCE (Feb) |  |  | 2.50% |
 | 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 63.5 | 65.7 |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | 1.00B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |

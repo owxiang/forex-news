@@ -51,35 +51,39 @@
 | 10:00 | EUR | Low | Industrial Sentiment (Mar) | -10.6 | -10.5 | -11.0 |
 | 10:30 | EUR | Moderate | Italian 10-Year BTP Auction | 3.83% |  | 3.55% |
 | 10:30 | EUR | Low | Italian 5-Year BTP Auction | 3.05% |  | 2.93% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | 4.4% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) |  |  | 1.6% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) | 0.7% |  | 1.6% |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) | -0.34% | -0.16% | 1.06% |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.3% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 654.27B |
-| 54 min | MXN | Low | Unemployment Rate (Feb) |  |  | 2.60% |
-| 54 min | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
-| 54 min | EUR | Low | Spanish Business Confidence (Mar) |  |  | -6.2 |
-| 54 min | BRL | Moderate | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
-| 12:30 | USD | High | Core PCE Price Index (MoM) (Feb) |  | 0.3% | 0.3% |
-| 12:30 | USD | High | Core PCE Price Index (YoY) (Feb) |  | 2.7% | 2.6% |
-| 12:30 | USD | Moderate | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
-| 12:30 | USD | Moderate | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
-| 12:30 | USD | Low | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
-| 12:30 | USD | Moderate | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
-| 12:30 | USD | Low | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  |  | 0.2% |
-| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
-| 13:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.50% |
-| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 11:30 | INR | Low | Balance of Payments (USD) (Q4) | -37.700B |  | 18.600B |
+| 11:30 | INR | Low | Bank Loan Growth | 11.1% |  | 11.0% |
+| 11:30 | INR | Low | Current Account % of GDP (QoQ) (Q4) | -1.10% |  | -1.20% |
+| 11:30 | INR | Low | Current Account (USD) (Q4) | -11.50B |  | -11.20B |
+| 11:30 | INR | Low | Deposit Growth | 10.2% |  | 10.3% |
+| 11:30 | INR | Low | FX Reserves, USD | 658.80B |  | 654.27B |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Feb) | 2.9% |  | 4.6% |
+| 11:30 | INR | Low | Trade Balance (USD) (Q4) | -79.200B |  | -75.300B |
+| 12:00 | MXN | Low | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
+| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.60% | 2.70% |
+| 12:00 | BRL | Moderate | Unemployment Rate (Feb) | 6.8% | 6.8% | 6.5% |
+| 19 min | USD | High | Core PCE Price Index (YoY) (Feb) |  | 2.7% | 2.6% |
+| 19 min | USD | High | Core PCE Price Index (MoM) (Feb) |  | 0.3% | 0.3% |
+| 19 min | USD | Moderate | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
+| 19 min | USD | Moderate | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
+| 19 min | USD | Low | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
+| 19 min | USD | Moderate | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
+| 19 min | USD | Low | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
+| 19 min | CAD | Moderate | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
+| 20 min | CAD | Moderate | GDP (MoM) (Feb) |  |  |  |
+| 49 min | USD | Low | Dallas Fed PCE (Feb) |  |  | 2.50% |
+| 49 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 4.9% | 4.3% |
 | 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  | 3.9% | 3.5% |
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 54.2 | 64.0 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 57.9 | 64.7 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 63.5 | 65.7 |
-| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:00 | CAD | Low | Budget Balance (Jan) |  |  | 1.00B |
+| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -1.8% | -1.8% |
 | 16:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 486 |

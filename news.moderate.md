@@ -21,13 +21,13 @@
 | 08:55 | EUR | German Unemployment Change (Mar) | 26K | 10K | 9K |
 | 08:55 | EUR | German Unemployment Rate (Mar) | 6.3% | 6.2% | 6.2% |
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.83% |  | 3.55% |
-| 54 min | BRL | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
-| 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
-| 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
-| 12:30 | USD | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
-| 12:30 | CAD | GDP (MoM) (Jan) |  |  | 0.2% |
-| 12:30 | CAD | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | BRL | Unemployment Rate (Feb) | 6.8% | 6.8% | 6.5% |
+| 19 min | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
+| 19 min | USD | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
+| 19 min | USD | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
+| 19 min | CAD | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
+| 20 min | CAD | GDP (MoM) (Feb) |  |  |  |
+| 49 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 4.9% | 4.3% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 3.9% | 3.5% |
 | 14:00 | USD | Michigan Consumer Expectations (Mar) |  | 54.2 | 64.0 |
