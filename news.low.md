@@ -50,7 +50,7 @@
 | 14:00 | USD | Michigan Current Conditions (Mar) | 63.8 | 63.5 | 65.7 |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) | -26.85B |  | -21.72B |
 | 15:00 | CAD | Budget Balance (Jan) | -5.13B |  | 1.00B |
-| 24 min | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Feb) | 432.00K |  | 137.30K |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | 239.4K |

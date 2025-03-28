@@ -5,11 +5,11 @@
 | 02:00 | SGD | Low | Bank Lending (Feb) | 841.1B |  | 836.3B |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 1.8% | -0.7% | 5.6% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | 1.5% | 1.4% | 0.9% |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -17.85B | -16.80B | -19.72B |
@@ -21,8 +21,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) | -0.1% | 0.3% | -0.6% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.3% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% |  | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 1.1% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | PPI (YoY) (Feb) | -1.40% |  | -2.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 103.9 | 102.5 | 102.6 |
@@ -88,12 +88,13 @@
 | 16:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 484 |  | 486 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 592 |  | 593 |
-| 24 min | BRL | Low | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
+| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) | 432.00K |  | 137.30K |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.4K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 25.2K |
 | 19:30 | USD | Low | CFTC Corn speculative net positions |  |  | 239.4K |
 | 19:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 166.8K |
+| 19:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 257.9K |
 | 19:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 23.0K |
 | 19:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -123.0K |
 | 19:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | 68.3K |
@@ -109,5 +110,4 @@
 | 19:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -40.4K |
 | 19:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 59.4K |
 | 19:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 257.9K |
 | 21:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -19.42B |

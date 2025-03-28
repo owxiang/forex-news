@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
 | 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
@@ -38,6 +38,7 @@
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count | 592 |  | 593 |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 29.4K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 166.8K |
+| 19:30 | USD | CFTC Gold speculative net positions |  |  | 257.9K |
 | 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.0K |
 | 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | 68.3K |
 | 19:30 | AUD | CFTC AUD speculative net positions |  |  | -70.4K |
@@ -45,4 +46,3 @@
 | 19:30 | JPY | CFTC JPY speculative net positions |  |  | 123.0K |
 | 19:30 | EUR | CFTC EUR speculative net positions |  |  | 59.4K |
 | 19:45 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 257.9K |
