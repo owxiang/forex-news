@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
 | 09:50 | ZAR | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 13,468.52B |  | 11,695.42B |
 | 10:00 | EUR | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
 | 10:00 | EUR | Business Climate (Mar) | -0.73 |  | -0.75 |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Services Sentiment (Mar) | 2.4 | 6.8 | 5.1 |
 | 10:00 | EUR | Industrial Sentiment (Mar) | -10.6 | -10.5 | -11.0 |
 | 10:30 | EUR | Italian 5-Year BTP Auction | 3.05% |  | 2.93% |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
 | 11:00 | EUR | Italian PPI (MoM) (Feb) | 0.7% |  | 1.6% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) | 6.2% |  | 4.4% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.34% | -0.16% | 1.06% |
 | 11:30 | INR | Balance of Payments (USD) (Q4) | -37.700B |  | 18.600B |
 | 11:30 | INR | Bank Loan Growth | 11.1% |  | 11.0% |
