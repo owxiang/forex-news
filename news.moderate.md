@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
 | 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
@@ -18,10 +18,10 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) | 2.2% |  | 2.9% |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 08:55 | EUR | German Unemployment Change (Mar) | 26K | 10K | 5K |
+| 08:55 | EUR | German Unemployment Change (Mar) | 26K | 10K | 9K |
 | 08:55 | EUR | German Unemployment Rate (Mar) | 6.3% | 6.2% | 6.2% |
-| 23 min | EUR | Italian 10-Year BTP Auction |  |  | 3.55% |
-| 12:00 | BRL | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
+| 10:30 | EUR | Italian 10-Year BTP Auction | 3.83% |  | 3.55% |
+| 54 min | BRL | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
 | 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
 | 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |

@@ -18,8 +18,10 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Mar) | 2.967M |  | 2.989M |
 | 09:00 | EUR | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
+| 09:50 | ZAR | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
+| 10:00 | INR | Federal Fiscal Deficit (Feb) | 13,468.52B |  | 11,695.42B |
 | 10:00 | EUR | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
 | 10:00 | EUR | Business Climate (Mar) | -0.73 |  | -0.75 |
 | 10:00 | EUR | Consumer Confidence (Mar) | -14.5 | -14.5 | -14.5 |
@@ -27,17 +29,16 @@
 | 10:00 | EUR | Selling Price Expectations (Mar) | 11.4 |  | 10.2 |
 | 10:00 | EUR | Services Sentiment (Mar) | 2.4 | 6.8 | 5.1 |
 | 10:00 | EUR | Industrial Sentiment (Mar) | -10.6 | -10.5 | -11.0 |
-| 23 min | EUR | Italian 5-Year BTP Auction |  |  | 2.93% |
-| 53 min | EUR | Italian PPI (MoM) (Feb) |  |  | 1.6% |
-| 53 min | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
-| 53 min | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.16% | 1.06% |
-| 11:30 | INR | Bank Loan Growth |  |  | 11.0% |
-| 11:30 | INR | Deposit Growth |  |  | 10.3% |
-| 11:30 | INR | FX Reserves, USD |  |  | 654.27B |
-| 12:00 | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
-| 12:00 | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
-| 12:00 | ZAR | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
+| 10:30 | EUR | Italian 5-Year BTP Auction | 3.05% |  | 2.93% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | 1.6% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.34% | -0.16% | 1.06% |
+| 24 min | INR | Bank Loan Growth |  |  | 11.0% |
+| 24 min | INR | Deposit Growth |  |  | 10.3% |
+| 24 min | INR | FX Reserves, USD |  |  | 654.27B |
+| 54 min | MXN | Unemployment Rate (Feb) |  |  | 2.60% |
+| 54 min | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.60% | 2.70% |
+| 54 min | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
 | 12:30 | USD | Personal Income (MoM) (Feb) |  | 0.4% | 0.9% |
 | 12:30 | USD | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
 | 13:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.50% |
