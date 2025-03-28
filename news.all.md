@@ -5,13 +5,13 @@
 | 02:00 | SGD | Low | Bank Lending (Feb) | 841.1B |  | 836.3B |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 1.8% | -0.7% | 5.6% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | 0.1% | 0.1% | 0.0% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | 1.5% | 1.4% | 0.9% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -17.85B | -16.80B | -19.72B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -7.07B |  | -8.04B |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -24.5 | -22.6 | -24.6 |
@@ -21,16 +21,16 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) | -0.1% | 0.3% | -0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% |  | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.3% | 0.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 1.1% | 0.9% |
-| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
 | 07:45 | EUR | Low | PPI (YoY) (Feb) | -1.40% |  | -2.20% |
+| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 103.9 | 102.5 | 102.6 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.0% |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.1% |  | 0.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% |  | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% |  | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% |  | 0.4% |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:55 | EUR | Moderate | German Unemployment Change (Mar) | 26K | 10K | 9K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Mar) | 6.3% | 6.2% | 6.2% |
@@ -39,8 +39,8 @@
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
 | 09:50 | ZAR | Low | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Feb) | 13,468.52B |  | 11,695.42B |
 | 10:00 | EUR | Low | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
 | 10:00 | EUR | Low | Business Climate (Mar) | -0.73 |  | -0.75 |
@@ -65,8 +65,8 @@
 | 12:00 | MXN | Low | Unemployment Rate (Feb) | 2.70% |  | 2.60% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.60% | 2.70% |
 | 12:00 | BRL | Moderate | Unemployment Rate (Feb) | 6.8% | 6.8% | 6.5% |
-| 12:30 | USD | High | Core PCE Price Index (YoY) (Feb) | 2.8% | 2.7% | 2.7% |
 | 12:30 | USD | High | Core PCE Price Index (MoM) (Feb) | 0.4% | 0.3% | 0.3% |
+| 12:30 | USD | High | Core PCE Price Index (YoY) (Feb) | 2.8% | 2.7% | 2.7% |
 | 12:30 | USD | Moderate | PCE Price index (YoY) (Feb) | 2.5% | 2.5% | 2.5% |
 | 12:30 | USD | Moderate | PCE price index (MoM) (Feb) | 0.3% | 0.3% | 0.3% |
 | 12:30 | USD | Low | Personal Income (MoM) (Feb) | 0.8% | 0.4% | 0.7% |

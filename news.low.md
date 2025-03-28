@@ -9,8 +9,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Feb) | -0.1% |  | 1.1% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 0.8% |  | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 1.1% | 0.9% |
-| 07:45 | EUR | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 07:45 | EUR | PPI (YoY) (Feb) | -1.40% |  | -2.20% |
+| 07:45 | EUR | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 08:00 | EUR | Core CPI (YoY) (Mar) | 2.0% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.1% |  | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 0.7% |  | 0.4% |
@@ -19,8 +19,8 @@
 | 09:00 | EUR | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
 | 09:50 | ZAR | Budget Balance (MoM) (Feb) | 24.22B |  | -62.68B |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) | 1.70% |  | -7.20% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) | 3.80% |  | -2.70% |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 13,468.52B |  | 11,695.42B |
 | 10:00 | EUR | Business and Consumer Survey (Mar) | 95.2 | 97.0 | 96.3 |
 | 10:00 | EUR | Business Climate (Mar) | -0.73 |  | -0.75 |
