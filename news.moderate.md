@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
 | 07:00 | GBP | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
-| 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
+| 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
 | 07:00 | GBP | Trade Balance (Jan) | -17.85B | -16.80B | -19.72B |
 | 07:00 | GBP | Trade Balance Non-EU (Jan) | -7.07B |  | -8.04B |
 | 07:00 | EUR | GfK German Consumer Climate (Apr) | -24.5 | -22.6 | -24.6 |
@@ -17,16 +17,16 @@
 | 08:00 | CHF | KOF Leading Indicators (Mar) | 103.9 | 102.5 | 102.6 |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) | 2.2% |  | 2.9% |
-| 21 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 46 min | EUR | German Unemployment Change (Mar) |  | 10K | 5K |
-| 46 min | EUR | German Unemployment Rate (Mar) |  | 6.2% | 6.2% |
+| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 08:55 | EUR | German Unemployment Change (Mar) | 26K | 10K | 5K |
+| 08:55 | EUR | German Unemployment Rate (Mar) | 6.3% | 6.2% | 6.2% |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.55% |
 | 12:00 | BRL | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
 | 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
 | 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
-| 12:30 | CAD | GDP (MoM) (Jan) |  |  | 0.2% |
 | 12:30 | CAD | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
+| 12:30 | CAD | GDP (MoM) (Jan) |  |  | 0.2% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 4.9% | 4.3% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 3.9% | 3.5% |

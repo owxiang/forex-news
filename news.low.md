@@ -9,27 +9,27 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Feb) | -0.1% |  | 1.1% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 0.8% |  | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 1.1% | 0.9% |
+| 07:45 | EUR | French PPI (MoM) (Feb) | -0.5% |  | 0.8% |
 | 07:45 | EUR | PPI (YoY) (Feb) | -1.40% |  | -2.20% |
-| 07:45 | EUR | French PPI (MoM) (Feb) | -0.8% |  | 0.6% |
 | 08:00 | EUR | Core CPI (YoY) (Mar) | 2.0% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.1% |  | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 0.7% |  | 0.4% |
-| 46 min | EUR | German Unemployment (Mar) |  |  | 2.886M |
-| 46 min | EUR | German Unemployment n.s.a. (Mar) |  |  | 2.989M |
-| 51 min | EUR | Italian Business Confidence (Mar) |  | 87.5 | 87.0 |
-| 51 min | EUR | Italian Consumer Confidence (Mar) |  |  | 98.8 |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | -2.70% |
-| 10:00 | EUR | Business and Consumer Survey (Mar) |  | 97.0 | 96.3 |
-| 10:00 | EUR | Business Climate (Mar) |  |  | -0.74 |
-| 10:00 | EUR | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
-| 10:00 | EUR | Consumer Inflation Expectation (Mar) |  |  | 21.1 |
-| 10:00 | EUR | Selling Price Expectations (Mar) |  |  | 9.8 |
-| 10:00 | EUR | Services Sentiment (Mar) |  | 6.8 | 6.2 |
-| 10:00 | EUR | Industrial Sentiment (Mar) |  | -10.5 | -11.4 |
+| 08:55 | EUR | German Unemployment (Mar) | 2.922M |  | 2.886M |
+| 08:55 | EUR | German Unemployment n.s.a. (Mar) | 2.967M |  | 2.989M |
+| 09:00 | EUR | Italian Business Confidence (Mar) | 86.0 | 87.5 | 86.9 |
+| 09:00 | EUR | Italian Consumer Confidence (Mar) | 95.0 |  | 98.8 |
+| 53 min | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | -7.20% |
+| 53 min | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | -2.70% |
+| 53 min | EUR | Business and Consumer Survey (Mar) |  | 97.0 | 96.3 |
+| 53 min | EUR | Business Climate (Mar) |  |  | -0.74 |
+| 53 min | EUR | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
+| 53 min | EUR | Consumer Inflation Expectation (Mar) |  |  | 21.1 |
+| 53 min | EUR | Selling Price Expectations (Mar) |  |  | 9.8 |
+| 53 min | EUR | Services Sentiment (Mar) |  | 6.8 | 6.2 |
+| 53 min | EUR | Industrial Sentiment (Mar) |  | -10.5 | -11.4 |
 | 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 2.93% |
-| 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | 1.6% |
 | 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | 1.6% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.16% | 1.06% |
 | 11:30 | INR | Bank Loan Growth |  |  | 11.0% |
 | 11:30 | INR | Deposit Growth |  |  | 10.3% |
@@ -43,8 +43,8 @@
 | 13:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.50% |
 | 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 63.5 | 65.7 |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | 1.00B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |
