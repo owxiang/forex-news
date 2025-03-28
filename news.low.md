@@ -25,7 +25,7 @@
 | 10:00 | EUR | Consumer Confidence (Mar) |  | -14.5 | -14.5 |
 | 10:00 | EUR | Consumer Inflation Expectation (Mar) |  |  | 21.1 |
 | 10:00 | EUR | Selling Price Expectations (Mar) |  |  | 9.8 |
-| 10:00 | EUR | Services Sentiment (Mar) |  | 6.7 | 6.2 |
+| 10:00 | EUR | Services Sentiment (Mar) |  | 6.8 | 6.2 |
 | 10:00 | EUR | Industrial Sentiment (Mar) |  | -10.5 | -11.4 |
 | 10:30 | EUR | Italian 5-Year BTP Auction |  |  | 2.93% |
 | 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | 4.4% |
@@ -42,7 +42,7 @@
 | 12:30 | USD | Real Personal Consumption (MoM) (Feb) |  |  | -0.5% |
 | 13:00 | USD | Dallas Fed PCE (Feb) |  |  | 2.50% |
 | 13:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 14:00 | USD | Michigan Current Conditions (Mar) |  | 63.5 | 63.5 |
+| 14:00 | USD | Michigan Current Conditions (Mar) |  | 63.5 | 65.7 |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | 1.00B |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -21.72B |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Feb) |  |  | 137.30K |
