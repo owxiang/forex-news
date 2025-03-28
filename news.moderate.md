@@ -2,31 +2,31 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 50 min | GBP | Business Investment (QoQ) (Q4) |  | -3.2% | 1.9% |
-| 50 min | GBP | Core Retail Sales (MoM) (Feb) |  | -0.5% | 2.1% |
-| 50 min | GBP | Core Retail Sales (YoY) (Feb) |  | 0.4% | 1.2% |
-| 50 min | GBP | Current Account (Q4) |  | -16.7B | -18.1B |
-| 50 min | GBP | Retail Sales (MoM) (Feb) |  | -0.3% | 1.7% |
-| 50 min | GBP | Retail Sales (YoY) (Feb) |  | 0.5% | 1.0% |
-| 50 min | GBP | Trade Balance (Jan) |  | -16.80B | -17.45B |
-| 50 min | GBP | Trade Balance Non-EU (Jan) |  |  | -6.10B |
-| 50 min | EUR | GfK German Consumer Climate (Apr) |  | -22.6 | -24.7 |
-| 07:45 | EUR | French Consumer Spending (MoM) (Feb) |  | 0.3% | -0.5% |
-| 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.3% | 0.0% |
-| 07:45 | EUR | French HICP (MoM) (Mar) |  | 0.3% | 0.1% |
-| 07:55 | EUR | German Unemployment Change (Mar) |  | 10K | 5K |
-| 07:55 | EUR | German Unemployment Rate (Mar) |  | 6.2% | 6.2% |
-| 08:00 | CHF | KOF Leading Indicators (Mar) |  | 102.5 | 101.7 |
-| 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 2.6% | 3.0% |
-| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  |  | 2.9% |
+| 07:00 | GBP | Business Investment (QoQ) (Q4) | -1.9% | -3.2% | 2.2% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | 2.2% | 0.4% | 0.8% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 1.0% | -0.5% | 1.6% |
+| 07:00 | GBP | Current Account (Q4) | -21.0B | -16.7B | -12.5B |
+| 07:00 | GBP | Retail Sales (YoY) (Feb) | 2.2% | 0.5% | 0.6% |
+| 07:00 | GBP | Retail Sales (MoM) (Feb) | 1.0% | -0.3% | 1.4% |
+| 07:00 | GBP | Trade Balance (Jan) | -17.85B | -16.80B | -19.72B |
+| 07:00 | GBP | Trade Balance Non-EU (Jan) | -7.07B |  | -8.04B |
+| 07:00 | EUR | GfK German Consumer Climate (Apr) | -24.5 | -22.6 | -24.6 |
+| 38 min | EUR | French Consumer Spending (MoM) (Feb) |  | 0.3% | -0.5% |
+| 38 min | EUR | French CPI (MoM) (Mar) |  | 0.3% | 0.0% |
+| 38 min | EUR | French HICP (MoM) (Mar) |  | 0.3% | 0.1% |
+| 48 min | EUR | German Unemployment Change (Mar) |  | 10K | 5K |
+| 48 min | EUR | German Unemployment Rate (Mar) |  | 6.2% | 6.2% |
+| 53 min | CHF | KOF Leading Indicators (Mar) |  | 102.5 | 101.7 |
+| 53 min | EUR | Spanish CPI (YoY) (Mar) |  | 2.6% | 3.0% |
+| 53 min | EUR | Spanish HICP (YoY) (Mar) |  |  | 2.9% |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:30 | EUR | Italian 10-Year BTP Auction |  |  | 3.55% |
 | 12:00 | BRL | Unemployment Rate (Feb) |  | 6.8% | 6.5% |
 | 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.5% |
 | 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Personal Spending (MoM) (Feb) |  | 0.5% | -0.2% |
-| 12:30 | CAD | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
 | 12:30 | CAD | GDP (MoM) (Jan) |  |  | 0.2% |
+| 12:30 | CAD | GDP (MoM) (Jan) |  | 0.2% | 0.2% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 4.9% | 4.3% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 3.9% | 3.5% |
