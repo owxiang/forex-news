@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  |  | -4.1% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Feb) |  |  | -2.3% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  |  | -4.1% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Feb) |  |  | -0.8% |
 | 23:50 | JPY | Moderate | Industrial Production (MoM) (Feb) |  | 1.9% | -1.1% |
