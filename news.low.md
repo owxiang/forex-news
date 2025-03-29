@@ -9,5 +9,5 @@
 | 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 5.0% |
 | 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | -2.0% |
 | 23:50 | JPY | Large Retailers' Sales (MoM) (Feb) |  |  | 0.5% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 5.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Feb) |  |  | 4.4% |
+| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 4.0% |
+| 23:50 | JPY | Retail Sales (YoY) (Feb) |  | 2.4% | 3.9% |
