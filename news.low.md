@@ -24,8 +24,8 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (Feb) |  |  | 7.10% |
 | 07:00 | ZAR | Private Sector Credit (Feb) |  |  | 4.59% |
 | 08:00 | CHF | Official Reserves Assets (Feb) |  |  | 834.7B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
