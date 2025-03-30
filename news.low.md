@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Feb) |  |  | -2.3% |
 | 00:00 | KRW | Industrial Production (YoY) (Feb) |  |  | -4.1% |
+| 00:00 | KRW | Industrial Production (MoM) (Feb) |  |  | -2.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 00:00 | KRW | Service Sector Output (MoM) (Feb) |  |  | -0.8% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 5.0% |
@@ -34,8 +34,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
+| 09:00 | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.30B |
 | 09:00 | NOK | Central Bank Currency Purchase (Apr) |  |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Feb) |  |  | 1.740B |
@@ -48,8 +48,8 @@
 | 09:30 | HKD | Retail Sales (YoY) (Feb) |  |  | -3.2% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.0% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Mar) |  |  | 1.6% |
-| 10:00 | EUR | Italian HICP (MoM) (Mar) |  |  | 0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Mar) |  |  | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Mar) |  |  | 0.1% |
 | 11:00 | INR | Federal Fiscal Deficit (Feb) |  |  | 11,695.42B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Current Account (USD) (Q4) |  | -12.00B | -11.20B |
