@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Feb) |  |  | -4.1% |
 | 00:00 | KRW | Industrial Production (MoM) (Feb) |  |  | -2.3% |
+| 00:00 | KRW | Industrial Production (YoY) (Feb) |  |  | -4.1% |
 | 00:00 | KRW | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 00:00 | KRW | Service Sector Output (MoM) (Feb) |  |  | -0.8% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 5.0% |
@@ -24,16 +24,16 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (Feb) |  |  | 7.10% |
 | 07:00 | ZAR | Private Sector Credit (Feb) |  |  | 4.59% |
 | 08:00 | CHF | Official Reserves Assets (Feb) |  |  | 834.7B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
+| 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.30B |
