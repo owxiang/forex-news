@@ -35,12 +35,12 @@
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | Spanish Current account (Jan) |  |  | 1.30B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) |  |  | 400.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Feb) |  |  | 1.740B |
