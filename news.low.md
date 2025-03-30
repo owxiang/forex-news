@@ -34,8 +34,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.30B |
 | 09:00 | NOK | Central Bank Currency Purchase (Apr) |  |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Feb) |  |  | 1.740B |
