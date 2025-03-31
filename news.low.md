@@ -1,65 +1,52 @@
-## 31 March 2025 - Low Impact Forex News
+## 01 April 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Feb) | 1.0% | 0.8% | -2.8% |
-| 00:00 | KRW | Industrial Production (YoY) (Feb) | 7.0% | 2.0% | -4.7% |
-| 00:00 | KRW | Retail Sales (MoM) (Feb) | 1.5% |  | -0.7% |
-| 00:00 | KRW | Service Sector Output (MoM) (Feb) | 0.5% |  | -0.9% |
-| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) | 0.6% |  | 5.0% |
-| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Apr) | 0.1% |  | -2.0% |
-| 00:50 | JPY | Large Retailers' Sales (MoM) (Feb) | 0.5% |  | 1.2% |
-| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Feb) | 2.0% |  | 5.0% |
-| 00:50 | JPY | Retail Sales (YoY) (Feb) | 1.4% | 2.4% | 4.4% |
-| 01:00 | AUD | MI Inflation Gauge (MoM) (Mar) | 0.7% |  | -0.2% |
-| 01:00 | NZD | ANZ Business Confidence (Mar) | 57.5 |  | 58.4 |
-| 01:00 | NZD | NBNZ Own Activity (Mar) | 48.6% |  | 45.1% |
-| 01:30 | AUD | Housing Credit (Feb) | 0.4% |  | 0.4% |
-| 01:30 | AUD | Private Sector Credit (MoM) (Feb) | 0.5% | 0.5% | 0.5% |
-| 03:00 | NZD | M3 Money Supply (Feb) | 428.0B |  | 427.0B |
-| 04:35 | JPY | 2-Year JGB Auction | 0.863% |  | 0.826% |
-| 06:00 | JPY | Construction Orders (YoY) (Feb) | -3.3% |  | 12.2% |
-| 06:00 | JPY | Housing Starts (YoY) (Feb) | 2.4% | -2.3% | -4.6% |
-| 07:00 | EUR | German Import Price Index (MoM) (Feb) | 0.3% | 0.0% | 1.1% |
-| 07:00 | EUR | German Import Price Index (YoY) (Feb) | 3.6% |  | 3.1% |
-| 07:00 | EUR | German Retail Sales (YoY) (Feb) | 4.9% |  | 4.0% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Feb) | 6.10% |  | 7.10% |
-| 07:00 | ZAR | Private Sector Credit (Feb) | 3.68% |  | 4.59% |
-| 08:00 | CHF | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.2% |  | 0.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.2% |  | 2.5% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.4% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.6% |
-| 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Mar) | 2.4% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 1.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 1.9% |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Mar) | 0.6% |  | 0.3% |
-| 09:00 | EUR | Spanish Current account (Jan) | 1.20B |  | 1.67B |
-| 09:00 | NOK | Central Bank Currency Purchase (Apr) | 100.0M |  | 400.0M |
-| 09:30 | GBP | BoE Consumer Credit (Feb) | 1.358B |  | 1.701B |
-| 09:30 | GBP | M3 Money Supply (Feb) | 3,119.0B |  | 3,112.6B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Feb) | 0.2% | 1.1% | 1.4% |
-| 09:30 | GBP | Mortgage Approvals (Feb) | 65.48K | 66.00K | 66.04K |
-| 09:30 | GBP | Mortgage Lending (Feb) | 3.29B |  | 4.23B |
-| 09:30 | GBP | Net Lending to Individuals (Feb) | 4.600B | 4.900B | 5.947B |
-| 09:30 | HKD | M3 Money Supply (Feb) | 6.8% |  | 4.5% |
-| 09:30 | HKD | Retail Sales (YoY) (Feb) | -13.0% |  | -3.2% |
-| 10:00 | EUR | Italian CPI (MoM) (Mar) | 0.4% | 0.0% | 0.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
-| 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% |  | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.6% |
-| 13:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
-| 13:00 | ZAR | Trade Balance (Feb) | 20.90B |  | -16.81B |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.131% |  | 2.226% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.244% |  | 2.300% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.211% |  | 2.282% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Mar) | -16.3 |  | -8.3 |
-| 16:30 | USD | 3-Month Bill Auction | 4.205% |  | 4.190% |
-| 16:30 | USD | 6-Month Bill Auction | 4.070% |  | 4.085% |
-| 23:00 | AUD | Judo Bank Manufacturing PMI (Mar) | 52.1 | 52.6 | 50.4 |
+| 00:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
+| 24 min | JPY | Jobs/applications ratio (Feb) |  | 1.26 | 1.26 |
+| 24 min | JPY | Unemployment Rate (Feb) |  | 2.5% | 2.5% |
+| 44 min | JPY | Tankan All Small Industry CAPEX (Q1) |  |  | 4.0% |
+| 44 min | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q1) |  | 29 | 28 |
+| 44 min | JPY | Tankan Small Manufacturers Diffusion Index (Q1) |  |  | 0 |
+| 44 min | JPY | Tankan Small Manufacturing Index (Q1) |  | -1 | 1 |
+| 44 min | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q1) |  |  | 8 |
+| 44 min | JPY | Tankan Small Non-Manufacturing Index (Q1) |  |  | 16 |
+| 54 min | KRW | Exports (YoY) (Mar) |  | 3.5% | 0.7% |
+| 54 min | KRW | Imports (YoY) (Mar) |  | 2.3% | 0.2% |
+| 54 min | KRW | Trade Balance (Mar) |  | 6.10B | 4.15B |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 49.9 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Mar) |  | 48.3 | 49.0 |
+| 02:00 | SGD | URA Property Index (QoQ) (Q1) |  |  | 2.30% |
+| 05:00 | IDR | Core Inflation (YoY) (Mar) |  |  | 2.48% |
+| 05:00 | IDR | Inflation (MoM) (Mar) |  |  | -0.48% |
+| 05:00 | IDR | Inflation (YoY) (Mar) |  |  | -0.09% |
+| 06:30 | AUD | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
+| 07:30 | CHF | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
+| 09:00 | NOK | Manufacturing PMI (Mar) |  |  | 51.9 |
+| 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.5% |
+| 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 127.26 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.6% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.5% |
+| 10:00 | ZAR | Manufacturing PMI (Mar) |  |  | 44.7 |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.220% |
+| 11:00 | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
+| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
+| 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
+| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | BRL | S&P Global Manufacturing PMI |  |  | 53.0 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.0% |
+| 15:00 | USD | Milk Auctions |  |  | 4,245.0 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
+| 15:30 | USD | Dallas Fed Services Revenues (Mar) |  |  | 8.2 |
+| 15:30 | USD | Texas Services Sector Outlook (Mar) |  |  | 4.6 |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |
+| 16:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | 2.6% |
+| 23:00 | AUD | AIG Construction Index (Mar) |  |  | -3.7 |
+| 23:00 | AUD | AIG Manufacturing Index (Mar) |  |  | -8.2 |

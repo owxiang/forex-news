@@ -1,7 +1,10 @@
-## 31 March 2025 - High Impact Forex News
+## 01 April 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Mar) | 50.5 | 50.4 | 50.2 |
-| 13:00 | EUR | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
-| 14:45 | USD | Chicago PMI (Mar) | 47.6 | 45.5 | 45.5 |
+| 04:30 | AUD | RBA Interest Rate Decision (Apr) |  | 4.10% | 4.10% |
+| 10:00 | EUR | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
+| 14:45 | USD | S&P Global Manufacturing PMI (Mar) |  | 49.8 | 52.7 |
+| 15:00 | USD | ISM Manufacturing PMI (Mar) |  | 49.6 | 50.3 |
+| 15:00 | USD | ISM Manufacturing Prices (Mar) |  | 64.9 | 62.4 |
+| 15:00 | USD | JOLTS Job Openings (Feb) |  | 7.730M | 7.740M |
