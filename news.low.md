@@ -28,8 +28,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |

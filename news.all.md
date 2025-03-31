@@ -24,8 +24,8 @@
 | 06:00 | JPY | Low | Housing Starts (YoY) (Feb) |  | -2.3% | -4.6% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) |  | 0.0% | 1.1% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) |  |  | 3.1% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) |  |  | 2.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) |  | 0.0% | 0.2% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) |  |  | 2.9% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) |  |  | 7.10% |
 | 07:00 | ZAR | Low | Private Sector Credit (Feb) |  |  | 4.59% |
 | 08:00 | CHF | Low | Official Reserves Assets (Feb) |  |  | 834.7B |
@@ -33,8 +33,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
