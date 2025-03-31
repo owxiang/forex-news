@@ -25,39 +25,39 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (Feb) | 6.10% |  | 7.10% |
 | 07:00 | ZAR | Private Sector Credit (Feb) | 3.68% |  | 4.59% |
 | 08:00 | CHF | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
-| 53 min | EUR | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.5% |
-| 53 min | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
-| 53 min | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
-| 53 min | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
-| 53 min | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
-| 53 min | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
-| 53 min | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
-| 53 min | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
-| 53 min | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
-| 53 min | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
-| 53 min | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
-| 53 min | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
-| 53 min | EUR | Spanish Current account (Jan) |  |  | 1.30B |
-| 53 min | NOK | Central Bank Currency Purchase (Apr) |  |  | 400.0M |
-| 09:30 | GBP | BoE Consumer Credit (Feb) |  |  | 1.740B |
-| 09:30 | GBP | M3 Money Supply (Feb) |  |  | 3,125.9B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Feb) |  | 1.1% | 1.3% |
-| 09:30 | GBP | Mortgage Approvals (Feb) |  | 66.00K | 66.19K |
-| 09:30 | GBP | Mortgage Lending (Feb) |  |  | 4.21B |
-| 09:30 | GBP | Net Lending to Individuals (Feb) |  | 4.900B | 5.947B |
-| 09:30 | HKD | M3 Money Supply (Feb) |  |  | 4.5% |
-| 09:30 | HKD | Retail Sales (YoY) (Feb) |  |  | -3.2% |
-| 10:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.0% | 0.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Mar) |  |  | 1.6% |
-| 10:00 | EUR | Italian HICP (YoY) (Mar) |  |  | 1.7% |
-| 10:00 | EUR | Italian HICP (MoM) (Mar) |  |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.5% |  | 2.5% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (YoY) (Mar) | 2.4% |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 1.9% |  | 1.9% |
+| 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Mar) | 0.6% |  | 0.3% |
+| 09:00 | EUR | Spanish Current account (Jan) | 1.20B |  | 1.67B |
+| 09:00 | NOK | Central Bank Currency Purchase (Apr) | 100.0M |  | 400.0M |
+| 21 min | GBP | BoE Consumer Credit (Feb) |  |  | 1.740B |
+| 21 min | GBP | M3 Money Supply (Feb) |  |  | 3,125.9B |
+| 21 min | GBP | M4 Money Supply (MoM) (Feb) |  | 1.1% | 1.3% |
+| 21 min | GBP | Mortgage Approvals (Feb) |  | 66.00K | 66.19K |
+| 21 min | GBP | Mortgage Lending (Feb) |  |  | 4.21B |
+| 21 min | GBP | Net Lending to Individuals (Feb) |  | 4.900B | 5.947B |
+| 21 min | HKD | M3 Money Supply (Feb) |  |  | 4.5% |
+| 21 min | HKD | Retail Sales (YoY) (Feb) |  |  | -3.2% |
+| 51 min | EUR | Italian CPI (MoM) (Mar) |  | 0.0% | 0.2% |
+| 51 min | EUR | Italian CPI (YoY) (Mar) |  | 1.6% | 1.6% |
+| 51 min | EUR | Italian HICP (MoM) (Mar) |  |  | 0.1% |
+| 51 min | EUR | Italian HICP (YoY) (Mar) |  |  | 1.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Feb) |  |  | 11,695.42B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
 | 12:30 | BRL | Budget Balance (Feb) |  |  | 63.737B |
 | 12:30 | BRL | Budget Surplus (Feb) |  |  | 104.096B |
 | 13:00 | EUR | German HICP (MoM) (Mar) |  |  | 0.5% |
-| 13:00 | EUR | German HICP (YoY) (Mar) |  |  | 2.6% |
+| 13:00 | EUR | German HICP (YoY) (Mar) |  | 2.4% | 2.6% |
 | 13:00 | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
 | 13:00 | ZAR | Trade Balance (Feb) |  |  | -16.42B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.226% |

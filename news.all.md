@@ -25,37 +25,37 @@
 | 06:00 | JPY | Low | Housing Starts (YoY) (Feb) | 2.4% | -2.3% | -4.6% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) | 0.3% | 0.0% | 1.1% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) | 3.6% |  | 3.1% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | 4.9% |  | 4.0% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | 0.8% | 0.0% | 0.7% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | 4.9% |  | 4.0% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) | 6.10% |  | 7.10% |
 | 07:00 | ZAR | Low | Private Sector Credit (Feb) | 3.68% |  | 4.59% |
 | 08:00 | CHF | Low | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
-| 53 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.5% |
-| 53 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
-| 53 min | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
-| 53 min | EUR | Low | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
-| 53 min | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
-| 53 min | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
-| 53 min | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
-| 53 min | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
-| 53 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
-| 53 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
-| 53 min | EUR | Low | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
-| 53 min | EUR | Low | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
-| 53 min | EUR | Low | Spanish Current account (Jan) |  |  | 1.30B |
-| 53 min | NOK | Low | Central Bank Currency Purchase (Apr) |  |  | 400.0M |
-| 09:30 | GBP | Low | BoE Consumer Credit (Feb) |  |  | 1.740B |
-| 09:30 | GBP | Low | M3 Money Supply (Feb) |  |  | 3,125.9B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Feb) |  | 1.1% | 1.3% |
-| 09:30 | GBP | Low | Mortgage Approvals (Feb) |  | 66.00K | 66.19K |
-| 09:30 | GBP | Low | Mortgage Lending (Feb) |  |  | 4.21B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Feb) |  | 4.900B | 5.947B |
-| 09:30 | HKD | Low | M3 Money Supply (Feb) |  |  | 4.5% |
-| 09:30 | HKD | Low | Retail Sales (YoY) (Feb) |  |  | -3.2% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.0% | 0.2% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Mar) |  |  | 1.6% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Mar) |  |  | 1.7% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Mar) |  |  | 0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.5% |  | 2.5% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 1.9% |  | 1.9% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) | 2.5% |  | 2.3% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Mar) | 0.6% |  | 0.3% |
+| 09:00 | EUR | Low | Spanish Current account (Jan) | 1.20B |  | 1.67B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) | 100.0M |  | 400.0M |
+| 21 min | GBP | Low | BoE Consumer Credit (Feb) |  |  | 1.740B |
+| 21 min | GBP | Low | M3 Money Supply (Feb) |  |  | 3,125.9B |
+| 21 min | GBP | Low | M4 Money Supply (MoM) (Feb) |  | 1.1% | 1.3% |
+| 21 min | GBP | Low | Mortgage Approvals (Feb) |  | 66.00K | 66.19K |
+| 21 min | GBP | Low | Mortgage Lending (Feb) |  |  | 4.21B |
+| 21 min | GBP | Low | Net Lending to Individuals (Feb) |  | 4.900B | 5.947B |
+| 21 min | HKD | Low | M3 Money Supply (Feb) |  |  | 4.5% |
+| 21 min | HKD | Low | Retail Sales (YoY) (Feb) |  |  | -3.2% |
+| 51 min | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.0% | 0.2% |
+| 51 min | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.6% | 1.6% |
+| 51 min | EUR | Low | Italian HICP (MoM) (Mar) |  |  | 0.1% |
+| 51 min | EUR | Low | Italian HICP (YoY) (Mar) |  |  | 1.7% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Feb) |  |  | 11,695.42B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
@@ -63,9 +63,9 @@
 | 12:30 | BRL | Low | Budget Surplus (Feb) |  |  | 104.096B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 75.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Mar) |  |  | 2.3% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 13:00 | EUR | Low | German HICP (MoM) (Mar) |  |  | 0.5% |
-| 13:00 | EUR | Low | German HICP (YoY) (Mar) |  |  | 2.6% |
+| 13:00 | EUR | Low | German HICP (YoY) (Mar) |  | 2.4% | 2.6% |
 | 13:00 | EUR | Low | Spanish Business Confidence (Mar) |  |  | -6.2 |
 | 13:00 | ZAR | Low | Trade Balance (Feb) |  |  | -16.42B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.226% |
