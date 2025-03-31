@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CNY | Manufacturing PMI (Mar) | 50.5 | 50.4 | 50.2 |
 | 13:00 | EUR | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
-| 32 min | USD | Chicago PMI (Mar) |  | 45.5 | 45.5 |
+| 14:45 | USD | Chicago PMI (Mar) | 47.6 | 45.5 | 45.5 |

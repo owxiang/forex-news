@@ -60,15 +60,15 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
-| 13:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.6% |
 | 13:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
+| 13:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.6% |
 | 13:00 | ZAR | Low | Trade Balance (Feb) | 20.90B |  | -16.81B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.131% |  | 2.226% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.244% |  | 2.300% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.211% |  | 2.282% |
-| 17 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 32 min | USD | High | Chicago PMI (Mar) |  | 45.5 | 45.5 |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Mar) |  |  | -8.3 |
+| 14:45 | USD | High | Chicago PMI (Mar) | 47.6 | 45.5 | 45.5 |
+| 24 min | USD | Low | Dallas Fed Mfg Business Index (Mar) |  |  | -8.3 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.190% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.085% |
+| 16:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 23:00 | AUD | Low | Judo Bank Manufacturing PMI (Mar) |  | 52.6 | 50.4 |
