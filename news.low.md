@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Feb) | 7.0% | 2.0% | -4.7% |
 | 00:00 | KRW | Industrial Production (MoM) (Feb) | 1.0% | 0.8% | -2.8% |
+| 00:00 | KRW | Industrial Production (YoY) (Feb) | 7.0% | 2.0% | -4.7% |
 | 00:00 | KRW | Retail Sales (MoM) (Feb) | 1.5% |  | -0.7% |
 | 00:00 | KRW | Service Sector Output (MoM) (Feb) | 0.5% |  | -0.9% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) | 0.6% |  | 5.0% |
@@ -28,10 +28,10 @@
 | 08:00 | CHF | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.2% |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.2% |  | 2.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 1.9% |
@@ -48,18 +48,18 @@
 | 09:30 | GBP | Net Lending to Individuals (Feb) | 4.600B | 4.900B | 5.947B |
 | 09:30 | HKD | M3 Money Supply (Feb) | 6.8% |  | 4.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Feb) | -13.0% |  | -3.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) | 0.4% | 0.0% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
+| 10:00 | EUR | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% |  | 0.1% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
-| 12:30 | BRL | Budget Balance (Feb) |  |  | 63.737B |
-| 12:30 | BRL | Budget Surplus (Feb) |  |  | 104.096B |
-| 13:00 | EUR | German HICP (YoY) (Mar) |  | 2.4% | 2.6% |
-| 13:00 | EUR | German HICP (MoM) (Mar) |  |  | 0.5% |
-| 13:00 | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
-| 13:00 | ZAR | Trade Balance (Feb) |  |  | -16.42B |
+| 10:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 24 min | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
+| 24 min | BRL | Budget Balance (Feb) |  |  | 63.737B |
+| 24 min | BRL | Budget Surplus (Feb) |  |  | 104.096B |
+| 54 min | EUR | German HICP (YoY) (Mar) |  | 2.4% | 2.6% |
+| 54 min | EUR | German HICP (MoM) (Mar) |  |  | 0.5% |
+| 54 min | EUR | Spanish Business Confidence (Mar) |  |  | -6.2 |
+| 54 min | ZAR | Trade Balance (Feb) |  |  | -16.42B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.226% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.300% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.282% |
