@@ -33,10 +33,10 @@
 | 08:00 | CHF | Low | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.2% |  | 2.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) | 0.2% |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 1.9% |  | 1.9% |
@@ -53,15 +53,15 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Feb) | 4.600B | 4.900B | 5.947B |
 | 09:30 | HKD | Low | M3 Money Supply (Feb) | 6.8% |  | 4.5% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Feb) | -13.0% |  | -3.2% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.4% | 0.0% | 0.2% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% |  | 0.1% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
-| 13:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
 | 13:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.6% |
+| 13:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
 | 13:00 | ZAR | Low | Trade Balance (Feb) | 20.90B |  | -16.81B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.131% |  | 2.226% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.244% |  | 2.300% |

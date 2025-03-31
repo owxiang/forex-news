@@ -28,10 +28,10 @@
 | 08:00 | CHF | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.2% |  | 2.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.2% |  | 0.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 1.9% |  | 1.9% |
@@ -48,13 +48,13 @@
 | 09:30 | GBP | Net Lending to Individuals (Feb) | 4.600B | 4.900B | 5.947B |
 | 09:30 | HKD | M3 Money Supply (Feb) | 6.8% |  | 4.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Feb) | -13.0% |  | -3.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) | 0.4% | 0.0% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
+| 10:00 | EUR | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% |  | 0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
 | 13:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.6% |
+| 13:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
 | 13:00 | ZAR | Trade Balance (Feb) | 20.90B |  | -16.81B |
 | 14:00 | EUR | French 12-Month BTF Auction | 2.131% |  | 2.226% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.244% |  | 2.300% |
