@@ -19,22 +19,22 @@
 | 03:00 | NZD | M3 Money Supply (Feb) | 428.0B |  | 427.0B |
 | 06:00 | JPY | Construction Orders (YoY) (Feb) | -3.3% |  | 12.2% |
 | 06:00 | JPY | Housing Starts (YoY) (Feb) | 2.4% | -2.3% | -4.6% |
-| 53 min | EUR | German Import Price Index (MoM) (Feb) |  | 0.0% | 1.1% |
-| 53 min | EUR | German Import Price Index (YoY) (Feb) |  |  | 3.1% |
-| 53 min | EUR | German Retail Sales (YoY) (Feb) |  |  | 2.9% |
-| 53 min | ZAR | M3 Money Supply (YoY) (Feb) |  |  | 7.10% |
-| 53 min | ZAR | Private Sector Credit (Feb) |  |  | 4.59% |
-| 08:00 | CHF | Official Reserves Assets (Feb) |  |  | 834.7B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
+| 07:00 | EUR | German Import Price Index (MoM) (Feb) | 0.3% | 0.0% | 1.1% |
+| 07:00 | EUR | German Import Price Index (YoY) (Feb) | 3.6% |  | 3.1% |
+| 07:00 | EUR | German Retail Sales (YoY) (Feb) | 4.9% |  | 3.3% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Feb) | 7.10% |  | 7.10% |
+| 07:00 | ZAR | Private Sector Credit (Feb) | 4.59% |  | 4.59% |
+| 51 min | CHF | Official Reserves Assets (Feb) |  |  | 834.7B |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
+| 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.30B |
@@ -53,8 +53,6 @@
 | 10:00 | EUR | Italian HICP (YoY) (Mar) |  |  | 1.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Feb) |  |  | 11,695.42B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Current Account (USD) (Q4) |  | -12.00B | -11.20B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
 | 12:30 | BRL | Budget Balance (Feb) |  |  | 63.737B |
 | 12:30 | BRL | Budget Surplus (Feb) |  |  | 104.096B |
@@ -69,5 +67,4 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Mar) |  |  | -8.3 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.190% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.085% |
-| 17:48 | INR | Foreign Debt (USD) (Q4) |  |  | 711.8B |
 | 23:00 | AUD | Judo Bank Manufacturing PMI (Mar) |  | 52.6 | 50.4 |
