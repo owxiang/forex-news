@@ -21,24 +21,24 @@
 | 06:00 | JPY | Housing Starts (YoY) (Feb) | 2.4% | -2.3% | -4.6% |
 | 07:00 | EUR | German Import Price Index (MoM) (Feb) | 0.3% | 0.0% | 1.1% |
 | 07:00 | EUR | German Import Price Index (YoY) (Feb) | 3.6% |  | 3.1% |
-| 07:00 | EUR | German Retail Sales (YoY) (Feb) | 4.9% |  | 3.3% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Feb) | 7.10% |  | 7.10% |
-| 07:00 | ZAR | Private Sector Credit (Feb) | 4.59% |  | 4.59% |
-| 51 min | CHF | Official Reserves Assets (Feb) |  |  | 834.7B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
-| 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.30B |
-| 09:00 | NOK | Central Bank Currency Purchase (Apr) |  |  | 400.0M |
+| 07:00 | EUR | German Retail Sales (YoY) (Feb) | 4.9% |  | 4.0% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Feb) | 6.10% |  | 7.10% |
+| 07:00 | ZAR | Private Sector Credit (Feb) | 3.68% |  | 4.59% |
+| 08:00 | CHF | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
+| 53 min | EUR | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.5% |
+| 53 min | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.5% |
+| 53 min | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.4% |
+| 53 min | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.4% |
+| 53 min | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 2.3% |
+| 53 min | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.6% |
+| 53 min | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.3% |
+| 53 min | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.3% |
+| 53 min | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 1.9% |
+| 53 min | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 1.9% |
+| 53 min | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
+| 53 min | EUR | Saxony CPI (YoY) (Mar) |  |  | 2.3% |
+| 53 min | EUR | Spanish Current account (Jan) |  |  | 1.30B |
+| 53 min | NOK | Central Bank Currency Purchase (Apr) |  |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Feb) |  |  | 1.740B |
 | 09:30 | GBP | M3 Money Supply (Feb) |  |  | 3,125.9B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Feb) |  | 1.1% | 1.3% |
@@ -49,8 +49,8 @@
 | 09:30 | HKD | Retail Sales (YoY) (Feb) |  |  | -3.2% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.0% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Mar) |  |  | 1.6% |
-| 10:00 | EUR | Italian HICP (MoM) (Mar) |  |  | 0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Mar) |  |  | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Mar) |  |  | 0.1% |
 | 11:00 | INR | Federal Fiscal Deficit (Feb) |  |  | 11,695.42B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
