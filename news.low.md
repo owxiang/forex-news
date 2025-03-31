@@ -26,18 +26,18 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (Feb) | 6.10% |  | 7.10% |
 | 07:00 | ZAR | Private Sector Credit (Feb) | 3.68% |  | 4.59% |
 | 08:00 | CHF | Official Reserves Assets (Feb) | 833.6B |  | 834.7B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.2% |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.2% |  | 2.5% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.2% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.6% |
-| 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 2.4% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 1.9% |
+| 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.4% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 1.9% |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (MoM) (Mar) | 0.6% |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 1.9% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Mar) | 0.6% |  | 0.3% |
 | 09:00 | EUR | Spanish Current account (Jan) | 1.20B |  | 1.67B |
 | 09:00 | NOK | Central Bank Currency Purchase (Apr) | 100.0M |  | 400.0M |
 | 09:30 | GBP | BoE Consumer Credit (Feb) | 1.358B |  | 1.701B |
@@ -48,18 +48,18 @@
 | 09:30 | GBP | Net Lending to Individuals (Feb) | 4.600B | 4.900B | 5.947B |
 | 09:30 | HKD | M3 Money Supply (Feb) | 6.8% |  | 4.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Feb) | -13.0% |  | -3.2% |
-| 10:00 | EUR | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) | 0.4% | 0.0% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
+| 10:00 | EUR | Italian CPI (YoY) (Mar) | 2.0% | 1.6% | 1.6% |
 | 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% |  | 0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% |  | 1.7% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
 | 13:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.6% |
+| 13:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
 | 13:00 | ZAR | Trade Balance (Feb) | 20.90B |  | -16.81B |
-| 49 min | EUR | French 12-Month BTF Auction |  |  | 2.226% |
-| 49 min | EUR | French 3-Month BTF Auction |  |  | 2.300% |
-| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.282% |
-| 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.131% |  | 2.226% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.244% |  | 2.300% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.211% |  | 2.282% |
+| 17 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Mar) |  |  | -8.3 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.190% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.085% |
