@@ -25,10 +25,10 @@
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.2 | 50.6 | 50.8 |
 | 04:30 | AUD | High | RBA Interest Rate Decision (Apr) | 4.10% | 4.10% | 4.10% |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 23 min | AUD | Low | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
-| 53 min | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
-| 53 min | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
+| 06:30 | AUD | Low | Commodity Prices (YoY) (Mar) | -6.5% |  | -8.9% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) | 3.9% |  | 3.9% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) | 0.0% | 0.2% | 0.4% |
+| 21 min | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 49.8 | 49.7 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) |  | 50.4 | 49.6 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 47.9 | 47.4 |

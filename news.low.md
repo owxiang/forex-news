@@ -17,8 +17,8 @@
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) | 49.1 |  | 49.9 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Mar) | 48.4 | 48.3 | 49.0 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.60% |  | 2.30% |
-| 23 min | AUD | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
-| 07:30 | CHF | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
+| 06:30 | AUD | Commodity Prices (YoY) (Mar) | -6.5% |  | -8.9% |
+| 21 min | CHF | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | NOK | Manufacturing PMI (Mar) |  |  | 51.9 |
