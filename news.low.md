@@ -2,28 +2,28 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) |  |  | -0.7% |
-| 24 min | JPY | Jobs/applications ratio (Feb) |  | 1.26 | 1.26 |
-| 24 min | JPY | Unemployment Rate (Feb) |  | 2.5% | 2.5% |
-| 44 min | JPY | Tankan All Small Industry CAPEX (Q1) |  |  | 4.0% |
-| 44 min | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q1) |  | 29 | 28 |
-| 44 min | JPY | Tankan Small Manufacturers Diffusion Index (Q1) |  |  | 0 |
-| 44 min | JPY | Tankan Small Manufacturing Index (Q1) |  | -1 | 1 |
-| 44 min | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q1) |  |  | 8 |
-| 44 min | JPY | Tankan Small Non-Manufacturing Index (Q1) |  |  | 16 |
-| 54 min | KRW | Exports (YoY) (Mar) |  | 3.5% | 0.7% |
-| 54 min | KRW | Imports (YoY) (Mar) |  | 2.3% | 0.2% |
-| 54 min | KRW | Trade Balance (Mar) |  | 6.10B | 4.15B |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | -0.4% |  | -0.7% |
+| 00:30 | JPY | Jobs/applications ratio (Feb) | 1.24 | 1.26 | 1.26 |
+| 00:30 | JPY | Unemployment Rate (Feb) | 2.4% | 2.5% | 2.5% |
+| 00:50 | JPY | Tankan All Small Industry CAPEX (Q1) | -10.0% |  | 4.0% |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 28 | 29 | 28 |
+| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q1) | -1 |  | 0 |
+| 00:50 | JPY | Tankan Small Manufacturing Index (Q1) | 2 | -1 | 1 |
+| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q1) | 9 |  | 8 |
+| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q1) | 16 |  | 16 |
+| 01:00 | KRW | Exports (YoY) (Mar) | 3.1% | 3.5% | 0.7% |
+| 01:00 | KRW | Imports (YoY) (Mar) | 2.3% | 2.3% | 0.2% |
+| 01:00 | KRW | Trade Balance (Mar) | 4.99B | 6.10B | 4.15B |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 49.9 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Mar) |  | 48.3 | 49.0 |
-| 02:00 | SGD | URA Property Index (QoQ) (Q1) |  |  | 2.30% |
+| 28 min | SGD | URA Property Index (QoQ) (Q1) |  |  | 2.30% |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) |  |  | 2.48% |
 | 05:00 | IDR | Inflation (MoM) (Mar) |  |  | -0.48% |
 | 05:00 | IDR | Inflation (YoY) (Mar) |  |  | -0.09% |
 | 06:30 | AUD | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | NOK | Manufacturing PMI (Mar) |  |  | 51.9 |
 | 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.5% |
 | 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 127.26 |
@@ -33,8 +33,8 @@
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.220% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
 | 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
 | 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI |  |  | 53.0 |

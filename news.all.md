@@ -2,26 +2,26 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | -0.7% |
-| 24 min | JPY | Low | Jobs/applications ratio (Feb) |  | 1.26 | 1.26 |
-| 24 min | JPY | Low | Unemployment Rate (Feb) |  | 2.5% | 2.5% |
-| 44 min | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) |  |  | 11.3% |
-| 44 min | JPY | Low | Tankan All Small Industry CAPEX (Q1) |  |  | 4.0% |
-| 44 min | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) |  | 9 | 13 |
-| 44 min | JPY | Moderate | Tankan Large Manufacturers Index (Q1) |  | 12 | 14 |
-| 44 min | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) |  | 29 | 28 |
-| 44 min | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) |  | 33 | 33 |
-| 44 min | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q1) |  |  | 0 |
-| 44 min | JPY | Low | Tankan Small Manufacturing Index (Q1) |  | -1 | 1 |
-| 44 min | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q1) |  |  | 8 |
-| 44 min | JPY | Low | Tankan Small Non-Manufacturing Index (Q1) |  |  | 16 |
-| 54 min | KRW | Low | Exports (YoY) (Mar) |  | 3.5% | 0.7% |
-| 54 min | KRW | Low | Imports (YoY) (Mar) |  | 2.3% | 0.2% |
-| 54 min | KRW | Low | Trade Balance (Mar) |  | 6.10B | 4.15B |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.4% |  | -0.7% |
+| 00:30 | JPY | Low | Jobs/applications ratio (Feb) | 1.24 | 1.26 | 1.26 |
+| 00:30 | JPY | Low | Unemployment Rate (Feb) | 2.4% | 2.5% | 2.5% |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) | 3.1% |  | 11.3% |
+| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q1) | -10.0% |  | 4.0% |
+| 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) | 12 | 9 | 13 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) | 12 | 12 | 14 |
+| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 28 | 29 | 28 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) | 35 | 33 | 33 |
+| 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q1) | -1 |  | 0 |
+| 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q1) | 2 | -1 | 1 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q1) | 9 |  | 8 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q1) | 16 |  | 16 |
+| 01:00 | KRW | Low | Exports (YoY) (Mar) | 3.1% | 3.5% | 0.7% |
+| 01:00 | KRW | Low | Imports (YoY) (Mar) | 2.3% | 2.3% | 0.2% |
+| 01:00 | KRW | Low | Trade Balance (Mar) | 4.99B | 6.10B | 4.15B |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 49.9 |
-| 01:30 | AUD | Moderate | Retail Sales (MoM) (Feb) |  | 0.3% | 0.3% |
+| 01:30 | AUD | Moderate | Retail Sales (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) |  | 48.3 | 49.0 |
-| 02:00 | SGD | Low | URA Property Index (QoQ) (Q1) |  |  | 2.30% |
+| 28 min | SGD | Low | URA Property Index (QoQ) (Q1) |  |  | 2.30% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) |  | 50.6 | 50.8 |
 | 04:30 | AUD | High | RBA Interest Rate Decision (Apr) |  | 4.10% | 4.10% |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
@@ -29,21 +29,21 @@
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | -0.48% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | -0.09% |
 | 06:30 | AUD | Low | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 49.9 | 49.7 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) |  | 50.4 | 49.6 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 47.9 | 47.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 48.9 | 45.8 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 48.3 | 46.5 |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) |  |  | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 48.7 | 47.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 44.6 | 46.9 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.5% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  |  | 127.26 |
@@ -55,8 +55,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 10.50% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 24.90% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI |  |  | 53.0 |
