@@ -9,14 +9,14 @@
 | 01:30 | AUD | Retail Sales (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
 | 02:45 | CNY | Caixin Manufacturing PMI (Mar) | 51.2 | 50.6 | 50.8 |
 | 04:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:00 | GBP | Nationwide HPI (YoY) (Mar) | 3.9% |  | 3.9% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Mar) | 0.0% | 0.2% | 0.4% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) |  | 49.8 | 49.7 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Mar) |  | 50.4 | 49.6 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Mar) |  | 47.9 | 47.4 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Mar) |  | 48.9 | 45.8 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Mar) |  | 48.4 | 46.5 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) |  | 48.7 | 47.6 |
+| 07:00 | GBP | Nationwide HPI (YoY) (Mar) | 3.9% |  | 3.9% |
+| 8 min | EUR | HCOB Spain Manufacturing PMI (Mar) |  | 49.8 | 49.7 |
+| 23 min | CHF | procure.ch Manufacturing PMI (Mar) |  | 50.4 | 49.6 |
+| 38 min | EUR | HCOB Italy Manufacturing PMI (Mar) |  | 47.9 | 47.4 |
+| 43 min | EUR | HCOB France Manufacturing PMI (Mar) |  | 48.9 | 45.8 |
+| 48 min | EUR | HCOB Germany Manufacturing PMI (Mar) |  | 48.4 | 46.5 |
+| 53 min | EUR | HCOB Eurozone Manufacturing PMI (Mar) |  | 48.7 | 47.6 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Mar) |  | 44.6 | 46.9 |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Mar) |  |  | 0.4% |
