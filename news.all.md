@@ -18,16 +18,16 @@
 | 01:00 | KRW | Low | Exports (YoY) (Mar) | 3.1% | 3.5% | 0.7% |
 | 01:00 | KRW | Low | Imports (YoY) (Mar) | 2.3% | 2.3% | 0.2% |
 | 01:00 | KRW | Low | Trade Balance (Mar) | 4.99B | 6.10B | 4.15B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 49.9 |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Mar) | 49.1 |  | 49.9 |
 | 01:30 | AUD | Moderate | Retail Sales (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) |  | 48.3 | 49.0 |
-| 28 min | SGD | Low | URA Property Index (QoQ) (Q1) |  |  | 2.30% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) |  | 50.6 | 50.8 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) | 48.4 | 48.3 | 49.0 |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.60% |  | 2.30% |
+| 10 min | CNY | Moderate | Caixin Manufacturing PMI (Mar) |  | 50.6 | 50.8 |
 | 04:30 | AUD | High | RBA Interest Rate Decision (Apr) |  | 4.10% | 4.10% |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.48% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | -0.48% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | -0.09% |
+| 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | -0.48% |
 | 06:30 | AUD | Low | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |

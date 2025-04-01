@@ -14,12 +14,12 @@
 | 01:00 | KRW | Exports (YoY) (Mar) | 3.1% | 3.5% | 0.7% |
 | 01:00 | KRW | Imports (YoY) (Mar) | 2.3% | 2.3% | 0.2% |
 | 01:00 | KRW | Trade Balance (Mar) | 4.99B | 6.10B | 4.15B |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) |  |  | 49.9 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Mar) |  | 48.3 | 49.0 |
-| 28 min | SGD | URA Property Index (QoQ) (Q1) |  |  | 2.30% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) | 49.1 |  | 49.9 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Mar) | 48.4 | 48.3 | 49.0 |
+| 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.60% |  | 2.30% |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) |  |  | 2.48% |
-| 05:00 | IDR | Inflation (MoM) (Mar) |  |  | -0.48% |
 | 05:00 | IDR | Inflation (YoY) (Mar) |  |  | -0.09% |
+| 05:00 | IDR | Inflation (MoM) (Mar) |  |  | -0.48% |
 | 06:30 | AUD | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
