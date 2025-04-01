@@ -19,19 +19,18 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.60% |  | 2.30% |
 | 06:30 | AUD | Commodity Prices (YoY) (Mar) | -6.5% |  | -8.9% |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) | 1.6% | 1.5% | 2.9% |
-| 53 min | EUR | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
-| 53 min | EUR | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
-| 53 min | NOK | Manufacturing PMI (Mar) |  |  | 51.9 |
-| 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.5% |
-| 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 127.26 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.6% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.5% |
-| 10:00 | ZAR | Manufacturing PMI (Mar) |  |  | 44.7 |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) | 5.9% | 6.3% | 6.2% |
+| 09:00 | NOK | Manufacturing PMI (Mar) | 50.6 |  | 51.9 |
+| 51 min | EUR | Core CPI (MoM) (Mar) |  |  | 0.5% |
+| 51 min | EUR | CPI, n.s.a (Mar) |  |  | 127.26 |
+| 51 min | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.6% |
+| 51 min | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.5% |
+| 51 min | ZAR | Manufacturing PMI (Mar) |  |  | 44.7 |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.220% |
-| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
-| 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
+| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
+| 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI |  |  | 53.0 |

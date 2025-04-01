@@ -29,31 +29,30 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) | 0.0% | 0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) | 3.9% |  | 3.9% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) | 1.6% | 1.5% | 2.9% |
-| 8 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 49.8 | 49.7 |
-| 23 min | CHF | Moderate | procure.ch Manufacturing PMI (Mar) |  | 50.4 | 49.6 |
-| 38 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 47.9 | 47.4 |
-| 43 min | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 48.9 | 45.8 |
-| 48 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 48.4 | 46.5 |
-| 53 min | EUR | Low | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
-| 53 min | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
-| 53 min | NOK | Low | Manufacturing PMI (Mar) |  |  | 51.9 |
-| 53 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 48.7 | 47.6 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 44.6 | 46.9 |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.5% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  |  | 0.4% |
-| 10:00 | EUR | Low | CPI, n.s.a (Mar) |  |  | 127.26 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.6% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.5% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Feb) |  | 6.2% | 6.2% |
-| 10:00 | ZAR | Low | Manufacturing PMI (Mar) |  |  | 44.7 |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) | 49.5 | 49.8 | 49.7 |
+| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) | 48.9 | 50.4 | 49.6 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) | 46.6 | 47.9 | 47.4 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) | 48.5 | 48.9 | 45.8 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) | 48.3 | 48.4 | 46.5 |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) | 5.9% | 6.3% | 6.2% |
+| 09:00 | NOK | Low | Manufacturing PMI (Mar) | 50.6 |  | 51.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 48.6 | 48.7 | 47.6 |
+| 21 min | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 44.6 | 46.9 |
+| 51 min | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.5% |
+| 51 min | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
+| 51 min | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
+| 51 min | EUR | Moderate | CPI (MoM) (Mar) |  |  | 0.4% |
+| 51 min | EUR | Low | CPI, n.s.a (Mar) |  |  | 127.26 |
+| 51 min | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.6% |
+| 51 min | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.5% |
+| 51 min | EUR | Moderate | Unemployment Rate (Feb) |  | 6.2% | 6.2% |
+| 51 min | ZAR | Low | Manufacturing PMI (Mar) |  |  | 44.7 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.220% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 24.90% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 10.50% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 24.90% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
+| 13:30 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI |  |  | 53.0 |
