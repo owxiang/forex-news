@@ -23,11 +23,11 @@
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) | 48.4 | 48.3 | 49.0 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.60% |  | 2.30% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.2 | 50.6 | 50.8 |
-| 54 min | AUD | High | RBA Interest Rate Decision (Apr) |  | 4.10% | 4.10% |
-| 54 min | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.48% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | -0.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | -0.09% |
+| 5 min | AUD | High | RBA Interest Rate Decision (Apr) |  | 4.10% | 4.10% |
+| 5 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 35 min | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.48% |
+| 35 min | IDR | Low | Inflation (MoM) (Mar) |  |  | -0.48% |
+| 35 min | IDR | Low | Inflation (YoY) (Mar) |  |  | -0.09% |
 | 06:30 | AUD | Low | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
@@ -42,8 +42,8 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) |  |  | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 48.7 | 47.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 44.6 | 46.9 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.5% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  |  | 127.26 |
