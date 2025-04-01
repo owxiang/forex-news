@@ -17,13 +17,13 @@
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Mar) | 49.1 |  | 49.9 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Mar) | 48.4 | 48.3 | 49.0 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.60% |  | 2.30% |
-| 35 min | IDR | Core Inflation (YoY) (Mar) |  |  | 2.48% |
-| 35 min | IDR | Inflation (MoM) (Mar) |  |  | -0.48% |
-| 35 min | IDR | Inflation (YoY) (Mar) |  |  | -0.09% |
+| 05:00 | IDR | Core Inflation (YoY) (Mar) |  |  | 2.48% |
+| 05:00 | IDR | Inflation (YoY) (Mar) |  |  | -0.09% |
+| 05:00 | IDR | Inflation (MoM) (Mar) |  |  | -0.48% |
 | 06:30 | AUD | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | NOK | Manufacturing PMI (Mar) |  |  | 51.9 |
 | 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.5% |
 | 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 127.26 |
@@ -31,10 +31,10 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.5% |
 | 10:00 | ZAR | Manufacturing PMI (Mar) |  |  | 44.7 |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.220% |
-| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
+| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
 | 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI |  |  | 53.0 |
