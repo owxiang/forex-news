@@ -31,8 +31,8 @@
 | 11:00 | EUR | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
 | 13:00 | NZD | GlobalDairyTrade Price Index | 1.1% |  | 0.0% |
 | 13:00 | USD | Milk Auctions | 4,250.0 |  | 4,245.0 |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) | 12.50% |  | 7.30% |
 | 13:00 | ZAR | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) | 12.50% |  | 7.30% |
 | 13:55 | USD | Redbook (YoY) | 4.8% |  | 5.6% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI | 51.8 |  | 53.0 |
