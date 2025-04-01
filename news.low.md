@@ -29,16 +29,16 @@
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.010% |  | 2.220% |
 | 11:00 | EUR | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
-| 19 min | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
-| 19 min | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
-| 44 min | USD | Redbook (YoY) |  |  | 5.6% |
-| 49 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 49 min | BRL | S&P Global Manufacturing PMI |  |  | 53.0 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.0% |
-| 15:00 | USD | Milk Auctions |  |  | 4,245.0 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) | 12.50% |  | 7.30% |
+| 13:00 | ZAR | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
+| 13:55 | USD | Redbook (YoY) | 4.8% |  | 5.6% |
+| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | BRL | S&P Global Manufacturing PMI | 51.8 |  | 53.0 |
+| 16 min | CAD | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
+| 46 min | USD | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
+| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 0.0% |
+| 46 min | USD | Milk Auctions |  |  | 4,245.0 |
+| 56 min | USD | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
 | 15:30 | USD | Dallas Fed Services Revenues (Mar) |  |  | 8.2 |
 | 15:30 | USD | Texas Services Sector Outlook (Mar) |  |  | 4.6 |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |

@@ -38,10 +38,10 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) | 50.6 |  | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 48.6 | 48.7 | 47.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 44.9 | 44.6 | 46.9 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.5% | 2.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% |  | 0.5% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.5% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 |  | 127.26 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.4% |  | 2.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.8% |  | 0.5% |
@@ -50,23 +50,23 @@
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.010% |  | 2.220% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
-| 19 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 19 min | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
-| 19 min | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
-| 44 min | USD | Low | Redbook (YoY) |  |  | 5.6% |
-| 49 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 49 min | BRL | Low | S&P Global Manufacturing PMI |  |  | 53.0 |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 49.8 | 52.7 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.3% | -0.2% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 47.6 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 49.5 | 50.3 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 64.6 | 62.4 |
-| 15:00 | USD | High | JOLTS Job Openings (Feb) |  | 7.690M | 7.740M |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.0% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 4,245.0 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) | 12.50% |  | 7.30% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
+| 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) | 4.8% |  | 5.6% |
+| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI | 51.8 |  | 53.0 |
+| 16 min | CAD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
+| 31 min | USD | High | S&P Global Manufacturing PMI (Mar) |  | 49.8 | 52.7 |
+| 46 min | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.3% | -0.2% |
+| 46 min | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 47.6 |
+| 46 min | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
+| 46 min | USD | High | ISM Manufacturing PMI (Mar) |  | 49.5 | 50.3 |
+| 46 min | USD | High | ISM Manufacturing Prices (Mar) |  | 64.6 | 62.4 |
+| 46 min | USD | High | JOLTS Job Openings (Feb) |  | 7.690M | 7.740M |
+| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.0% |
+| 46 min | USD | Low | Milk Auctions |  |  | 4,245.0 |
+| 56 min | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 8.2 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Mar) |  |  | 4.6 |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |
