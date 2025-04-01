@@ -27,10 +27,10 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% |  | 0.5% |
 | 10:00 | ZAR | Manufacturing PMI (Mar) | 48.7 |  | 44.7 |
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.010% |  | 2.220% |
-| 11:00 | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
-| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
-| 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
+| 12:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
+| 12:00 | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
+| 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI |  |  | 53.0 |
