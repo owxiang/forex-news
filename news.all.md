@@ -25,18 +25,15 @@
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.2 | 50.6 | 50.8 |
 | 04:30 | AUD | High | RBA Interest Rate Decision (Apr) | 4.10% | 4.10% | 4.10% |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | -0.09% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | -0.48% |
-| 06:30 | AUD | Low | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |
+| 23 min | AUD | Low | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
+| 53 min | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
+| 53 min | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 49.9 | 49.7 |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 49.8 | 49.7 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) |  | 50.4 | 49.6 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 47.9 | 47.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 48.9 | 45.8 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 48.3 | 46.5 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 48.4 | 46.5 |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) |  |  | 51.9 |
@@ -62,12 +59,12 @@
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI |  |  | 53.0 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 49.8 | 52.7 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.2% | -0.2% |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.3% | -0.2% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 47.6 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 49.6 | 50.3 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 64.9 | 62.4 |
-| 15:00 | USD | High | JOLTS Job Openings (Feb) |  | 7.730M | 7.740M |
+| 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 49.5 | 50.3 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 64.6 | 62.4 |
+| 15:00 | USD | High | JOLTS Job Openings (Feb) |  | 7.690M | 7.740M |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.0% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 4,245.0 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
