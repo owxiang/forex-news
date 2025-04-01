@@ -26,3 +26,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Mar) | 44.7 |  | 47.6 |
 | 17:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | -3.7% | -2.8% | -2.8% |
+| 21:30 | USD | API Weekly Crude Oil Stock | 6.037M |  | -4.600M |

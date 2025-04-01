@@ -72,6 +72,7 @@
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) | 46.50 |  | 47.60 |
 | 17:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -3.7% | -2.8% | -2.8% |
-| 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | 2.6% |
-| 23:00 | AUD | Low | AIG Construction Index (Mar) |  |  | -3.7 |
-| 23:00 | AUD | Low | AIG Manufacturing Index (Mar) |  |  | -8.2 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 6.037M |  | -4.600M |
+| 39 min | NZD | Low | Building Consents (MoM) (Feb) |  |  | 2.6% |
+| 54 min | AUD | Low | AIG Construction Index (Mar) |  |  | -3.7 |
+| 54 min | AUD | Low | AIG Manufacturing Index (Mar) |  |  | -8.2 |
