@@ -38,24 +38,24 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) | 50.6 |  | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 48.6 | 48.7 | 47.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 44.9 | 44.6 | 46.9 |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% |  | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.5% | 2.6% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% |  | 0.5% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 |  | 127.26 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.4% |  | 2.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.8% |  | 0.5% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) | 6.1% | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Mar) | 48.7 |  | 44.7 |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.010% |  | 2.220% |
-| 12:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 24.90% |
-| 12:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 10.50% |
-| 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
-| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI |  |  | 53.0 |
+| 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
+| 19 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 19 min | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
+| 19 min | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
+| 44 min | USD | Low | Redbook (YoY) |  |  | 5.6% |
+| 49 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 49 min | BRL | Low | S&P Global Manufacturing PMI |  |  | 53.0 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) |  | 49.8 | 52.7 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.3% | -0.2% |

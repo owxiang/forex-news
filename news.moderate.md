@@ -21,7 +21,7 @@
 | 10:00 | EUR | Core CPI (YoY) (Mar) | 2.4% | 2.5% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Unemployment Rate (Feb) | 6.1% | 6.2% | 6.2% |
-| 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 19 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Feb) |  | 0.3% | -0.2% |
 | 15:00 | USD | ISM Manufacturing Employment (Mar) |  |  | 47.6 |
 | 17:30 | EUR | ECB's Lane Speaks |  |  |  |
