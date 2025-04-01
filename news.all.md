@@ -26,8 +26,8 @@
 | 04:30 | AUD | High | RBA Interest Rate Decision (Apr) | 4.10% | 4.10% | 4.10% |
 | 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:30 | AUD | Low | Commodity Prices (YoY) (Mar) | -6.5% |  | -8.9% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) | 0.0% | 0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) | 3.9% |  | 3.9% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) | 0.0% | 0.2% | 0.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) | 1.6% | 1.5% | 2.9% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) | 49.5 | 49.8 | 49.7 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) | 48.9 | 50.4 | 49.6 |
@@ -38,8 +38,8 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) | 50.6 |  | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 48.6 | 48.7 | 47.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) | 44.9 | 44.6 | 46.9 |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% |  | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.5% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% |  | 0.5% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 |  | 127.26 |
@@ -48,12 +48,12 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) | 6.1% | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Mar) | 48.7 |  | 44.7 |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.010% |  | 2.220% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | 1.1% |  | 0.0% |
 | 13:00 | USD | Low | Milk Auctions | 4,250.0 |  | 4,245.0 |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) | 12.50% |  | 7.30% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 4.8% |  | 5.6% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -69,10 +69,9 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) | 1.3 |  | 8.2 |
 | 15:30 | USD | Low | IBD/TIPP Economic Optimism (Apr) | 49.1 | 50.1 | 49.8 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Mar) | -11.3 |  | 4.6 |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |
-| 23 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 17:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) | 46.50 |  | 47.60 |
+| 23 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 53 min | USD | Moderate | Atlanta Fed GDPNow (Q1) | -3.7% | -2.8% | -2.8% |
 | 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | 2.6% |
 | 23:00 | AUD | Low | AIG Construction Index (Mar) |  |  | -3.7 |
 | 23:00 | AUD | Low | AIG Manufacturing Index (Mar) |  |  | -8.2 |
