@@ -42,6 +42,6 @@
 | 15:30 | USD | IBD/TIPP Economic Optimism (Apr) | 49.1 | 50.1 | 49.8 |
 | 15:30 | USD | Texas Services Sector Outlook (Mar) | -11.3 |  | 4.6 |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Mar) | 46.50 |  | 47.60 |
-| 39 min | NZD | Building Consents (MoM) (Feb) |  |  | 2.6% |
-| 54 min | AUD | AIG Construction Index (Mar) |  |  | -3.7 |
-| 54 min | AUD | AIG Manufacturing Index (Mar) |  |  | -8.2 |
+| 22:45 | NZD | Building Consents (MoM) (Feb) | 0.7% |  | 2.6% |
+| 23:00 | AUD | AIG Construction Index (Mar) | -19.3 |  | -3.7 |
+| 23:00 | AUD | AIG Manufacturing Index (Mar) | -29.7 |  | -8.2 |
