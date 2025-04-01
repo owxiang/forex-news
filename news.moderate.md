@@ -22,7 +22,7 @@
 | 10:00 | EUR | CPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Unemployment Rate (Feb) | 6.1% | 6.2% | 6.2% |
 | 13:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 46 min | USD | Construction Spending (MoM) (Feb) |  | 0.3% | -0.2% |
-| 46 min | USD | ISM Manufacturing Employment (Mar) |  |  | 47.6 |
+| 15:00 | USD | Construction Spending (MoM) (Feb) | 0.7% | 0.3% | -0.5% |
+| 15:00 | USD | ISM Manufacturing Employment (Mar) | 44.7 |  | 47.6 |
 | 17:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |

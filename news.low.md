@@ -34,14 +34,12 @@
 | 13:55 | USD | Redbook (YoY) | 4.8% |  | 5.6% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Manufacturing PMI | 51.8 |  | 53.0 |
-| 16 min | CAD | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
-| 46 min | USD | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 0.0% |
-| 46 min | USD | Milk Auctions |  |  | 4,245.0 |
-| 56 min | USD | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
-| 15:30 | USD | Dallas Fed Services Revenues (Mar) |  |  | 8.2 |
-| 15:30 | USD | Texas Services Sector Outlook (Mar) |  |  | 4.6 |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Mar) | 46.3 |  | 47.8 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Mar) | 45.2 |  | 48.6 |
+| 4 min | USD | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
+| 24 min | USD | Dallas Fed Services Revenues (Mar) |  |  | 8.2 |
+| 24 min | USD | Texas Services Sector Outlook (Mar) |  |  | 4.6 |
+| 54 min | MXN | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |
 | 16:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | 2.6% |
 | 23:00 | AUD | AIG Construction Index (Mar) |  |  | -3.7 |

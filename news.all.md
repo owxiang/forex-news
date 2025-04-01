@@ -56,20 +56,18 @@
 | 13:55 | USD | Low | Redbook (YoY) | 4.8% |  | 5.6% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI | 51.8 |  | 53.0 |
-| 16 min | CAD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.8 |
-| 31 min | USD | High | S&P Global Manufacturing PMI (Mar) |  | 49.8 | 52.7 |
-| 46 min | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.3% | -0.2% |
-| 46 min | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 47.6 |
-| 46 min | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 48.6 |
-| 46 min | USD | High | ISM Manufacturing PMI (Mar) |  | 49.5 | 50.3 |
-| 46 min | USD | High | ISM Manufacturing Prices (Mar) |  | 64.6 | 62.4 |
-| 46 min | USD | High | JOLTS Job Openings (Feb) |  | 7.690M | 7.740M |
-| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.0% |
-| 46 min | USD | Low | Milk Auctions |  |  | 4,245.0 |
-| 56 min | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 8.2 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Mar) |  |  | 4.6 |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Mar) | 46.3 |  | 47.8 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Mar) | 50.2 | 49.8 | 52.7 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) | 0.7% | 0.3% | -0.5% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) | 44.7 |  | 47.6 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) | 45.2 |  | 48.6 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Mar) | 49.0 | 49.5 | 50.3 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Mar) | 69.4 | 64.6 | 62.4 |
+| 15:00 | USD | High | JOLTS Job Openings (Feb) | 7.568M | 7.690M | 7.762M |
+| 4 min | USD | Low | IBD/TIPP Economic Optimism (Apr) |  | 50.1 | 49.8 |
+| 24 min | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 8.2 |
+| 24 min | USD | Low | Texas Services Sector Outlook (Mar) |  |  | 4.6 |
+| 54 min | MXN | Low | S&P Global Manufacturing PMI (Mar) |  |  | 47.60 |
 | 16:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 17:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
