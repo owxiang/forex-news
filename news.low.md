@@ -21,14 +21,14 @@
 | 07:30 | CHF | Retail Sales (YoY) (Feb) | 1.6% | 1.5% | 2.9% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) | 5.9% | 6.3% | 6.2% |
 | 09:00 | NOK | Manufacturing PMI (Mar) | 50.6 |  | 51.9 |
-| 51 min | EUR | Core CPI (MoM) (Mar) |  |  | 0.5% |
-| 51 min | EUR | CPI, n.s.a (Mar) |  |  | 127.26 |
-| 51 min | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 2.6% |
-| 51 min | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.5% |
-| 51 min | ZAR | Manufacturing PMI (Mar) |  |  | 44.7 |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.220% |
-| 11:00 | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
-| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
+| 10:00 | EUR | Core CPI (MoM) (Mar) | 1.0% |  | 0.5% |
+| 10:00 | EUR | CPI, n.s.a (Mar) | 128.04 |  | 127.26 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.4% |  | 2.6% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% |  | 0.5% |
+| 10:00 | ZAR | Manufacturing PMI (Mar) | 48.7 |  | 44.7 |
+| 23 min | EUR | German 2-Year Schatz Auction |  |  | 2.220% |
+| 53 min | EUR | Car Registration (MoM) (Mar) |  |  | 24.90% |
+| 53 min | EUR | Car Registration (YoY) (Mar) |  |  | 10.50% |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
 | 13:30 | ZAR | Total Vehicle Sales (Mar) |  |  | 47.98K |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.6% |
