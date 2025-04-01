@@ -22,28 +22,28 @@
 | 01:30 | AUD | Moderate | Retail Sales (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Mar) | 48.4 | 48.3 | 49.0 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.60% |  | 2.30% |
-| 10 min | CNY | Moderate | Caixin Manufacturing PMI (Mar) |  | 50.6 | 50.8 |
-| 04:30 | AUD | High | RBA Interest Rate Decision (Apr) |  | 4.10% | 4.10% |
-| 04:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.2 | 50.6 | 50.8 |
+| 54 min | AUD | High | RBA Interest Rate Decision (Apr) |  | 4.10% | 4.10% |
+| 54 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  |  | 2.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | -0.09% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) |  |  | -0.48% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  |  | -0.09% |
 | 06:30 | AUD | Low | Commodity Prices (YoY) (Mar) |  |  | -8.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.2% | 0.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  |  | 3.9% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) |  | 1.5% | 1.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) |  | 49.9 | 49.7 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Mar) |  | 50.4 | 49.6 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 47.9 | 47.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 48.9 | 45.8 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 48.3 | 46.5 |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  |  | 6.3% |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate |  | 6.3% | 6.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) |  |  | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 48.7 | 47.6 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Mar) |  | 44.6 | 46.9 |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.5% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.5% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  |  | 127.26 |
@@ -52,11 +52,11 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) |  | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Mar) |  |  | 44.7 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.220% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 10.50% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 24.90% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 10.50% |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | 7.30% |
+| 13:30 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 47.98K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI |  |  | 53.0 |
