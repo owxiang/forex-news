@@ -27,8 +27,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% |  | 0.5% |
 | 10:00 | ZAR | Manufacturing PMI (Mar) | 48.7 |  | 44.7 |
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.010% |  | 2.220% |
-| 11:00 | EUR | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
+| 11:00 | EUR | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
 | 13:00 | NZD | GlobalDairyTrade Price Index | 1.1% |  | 0.0% |
 | 13:00 | USD | Milk Auctions | 4,250.0 |  | 4,245.0 |
 | 13:00 | ZAR | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |

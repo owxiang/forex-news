@@ -48,8 +48,8 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) | 6.1% | 6.2% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Mar) | 48.7 |  | 44.7 |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.010% |  | 2.220% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) | 23.20% |  | 11.00% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | 1.1% |  | 0.0% |
 | 13:00 | USD | Low | Milk Auctions | 4,250.0 |  | 4,245.0 |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
