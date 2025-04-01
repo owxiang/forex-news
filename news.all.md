@@ -52,8 +52,8 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 29.20% |  | 24.90% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | 1.1% |  | 0.0% |
 | 13:00 | USD | Low | Milk Auctions | 4,250.0 |  | 4,245.0 |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) | 12.50% |  | 7.30% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 49.49K |  | 47.98K |
 | 13:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 4.8% |  | 5.6% |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
