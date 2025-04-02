@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
+| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:25 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
@@ -47,6 +47,6 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -2.085B |  | -3.664B |
 | 19:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 53 min | KRW | Low | FX Reserves - USD (Mar) |  |  | 409.20B |
-| 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | 2.6% |
-| 23:00 | AUD | Low | Judo Bank Services PMI (Mar) |  | 51.2 | 50.8 |
+| 22:00 | KRW | Low | FX Reserves - USD (Mar) | 409.66B |  | 409.20B |
+| 39 min | NZD | Low | Building Consents (MoM) (Feb) |  |  | 2.6% |
+| 54 min | AUD | Low | Judo Bank Services PMI (Mar) |  | 51.2 | 50.8 |
