@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
+| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:25 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
@@ -14,7 +14,7 @@
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Mar) | 58.1 | 57.6 | 56.3 |
 | 07:45 | EUR | Low | French Government Budget Balance (Feb) | -40.3B | -30.2B | -17.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) | -13.3K | -2.5K | -6.0K |
-| 53 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.51% |
+| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) | 0.62% |  | 0.51% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.920% |
 | 11:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.71% |
