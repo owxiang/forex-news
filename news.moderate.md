@@ -11,5 +11,5 @@
 | 13:00 | BRL | Industrial Production (YoY) (Feb) | 1.5% | 2.3% | 1.3% |
 | 15:00 | USD | Factory Orders (MoM) (Feb) | 0.6% | 0.5% | 1.8% |
 | 15:05 | EUR | ECB's Lane Speaks |  |  |  |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | -0.755M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 2.373M |  | -0.755M |
 | 19:45 | EUR | ECB President Lagarde Speaks |  |  |  |

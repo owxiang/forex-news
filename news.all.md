@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
+| 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:25 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
@@ -22,8 +22,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 158.2 |  | 155.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 243.6 |  | 247.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 710.4 |  | 752.4 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 1.5% | 2.3% | 1.3% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 155K | 118K | 84K |
 | 14:00 | USD | Low | Total Vehicle Sales (Mar) | 17.77M | 15.90M | 16.00M |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) | 50.6 |  | 50.7 |
@@ -34,17 +34,17 @@
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Feb) | 0.6% | 0.5% | 1.8% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Feb) | 0.4% | 0.7% | 0.3% |
 | 15:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 24 min | USD | High | Crude Oil Inventories |  | -0.400M | -3.341M |
-| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
-| 24 min | USD | Low | Crude Oil Imports |  |  | 0.845M |
-| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.755M |
-| 24 min | USD | Low | Distillate Fuel Production |  |  | -0.100M |
-| 24 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.421M |
-| 24 min | USD | Low | Gasoline Production |  |  | -0.401M |
-| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.035M |
-| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 24 min | USD | Low | Gasoline Inventories |  |  | -1.446M |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 15:30 | USD | High | Crude Oil Inventories | 6.165M | -0.400M | -3.341M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.192M |  | 0.087M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.999M |  | 0.845M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 2.373M |  | -0.755M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.164M |  | -0.100M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.264M |  | -0.421M |
+| 15:30 | USD | Low | Gasoline Production | 0.062M |  | -0.401M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.209M |  | -0.035M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.1% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.551M |  | -1.446M |
+| 54 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.664B |
 | 19:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
