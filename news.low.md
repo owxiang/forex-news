@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
+| 00:00 | KRW | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:50 | JPY | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
 | 01:30 | AUD | Private House Approvals (Feb) | 1.0% |  | 1.4% |
@@ -32,7 +32,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.209M |  | -0.035M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.1% |
 | 15:30 | USD | Gasoline Inventories | -1.551M | -1.900M | -1.446M |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -3.664B |
+| 18:30 | BRL | Foreign Exchange Flows | -2.085B |  | -3.664B |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 409.20B |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | 2.6% |
 | 23:00 | AUD | Judo Bank Services PMI (Mar) |  | 51.2 | 50.8 |
