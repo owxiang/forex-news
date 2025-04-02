@@ -12,9 +12,9 @@
 | 01:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) | 52.4 |  | 53.6 |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Mar) | 58.1 | 57.6 | 56.3 |
-| 07:45 | EUR | Low | French Government Budget Balance (Feb) |  | -30.2B | -17.3B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) |  | -2.5K | -6.0K |
-| 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.51% |
+| 36 min | EUR | Low | French Government Budget Balance (Feb) |  | -30.2B | -17.3B |
+| 51 min | EUR | Moderate | Spanish Unemployment Change (Mar) |  | -2.5K | -6.0K |
+| 51 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.51% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.920% |
 | 11:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.71% |
@@ -25,8 +25,8 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | 0.0% |
 | 12:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 2.3% | 1.4% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.5% | 0.0% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 2.3% | 1.4% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 118K | 77K |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
