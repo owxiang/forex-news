@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:00 | KRW | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
+| 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:50 | JPY | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
 | 01:30 | AUD | Private House Approvals (Feb) | 1.0% |  | 1.1% |
