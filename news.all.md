@@ -11,7 +11,7 @@
 | 01:30 | AUD | Low | Private House Approvals (Feb) | 1.0% |  | 1.1% |
 | 01:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) | 52.4 |  | 53.6 |
-| 06:00 | INR | Low | S&P Global Manufacturing PMI (Mar) |  | 57.6 | 56.3 |
+| 52 min | INR | Low | S&P Global Manufacturing PMI (Mar) |  | 57.6 | 56.3 |
 | 07:45 | EUR | Low | French Government Budget Balance (Feb) |  | -30.2B | -17.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) |  | -2.5K | -6.0K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.51% |

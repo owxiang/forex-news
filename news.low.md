@@ -9,7 +9,7 @@
 | 01:30 | AUD | Private House Approvals (Feb) | 1.0% |  | 1.1% |
 | 01:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Mar) | 52.4 |  | 53.6 |
-| 06:00 | INR | S&P Global Manufacturing PMI (Mar) |  | 57.6 | 56.3 |
+| 52 min | INR | S&P Global Manufacturing PMI (Mar) |  | 57.6 | 56.3 |
 | 07:45 | EUR | French Government Budget Balance (Feb) |  | -30.2B | -17.3B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.71% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.0% |
