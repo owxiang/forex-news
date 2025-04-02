@@ -1,37 +1,39 @@
-## 02 April 2025 - Low Impact Forex News
+## 03 April 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
-| 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
-| 00:50 | JPY | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
-| 01:30 | AUD | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
-| 01:30 | AUD | Private House Approvals (Feb) | 1.0% |  | 1.4% |
-| 01:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Mar) | 52.4 |  | 53.6 |
-| 06:00 | INR | S&P Global Manufacturing PMI (Mar) | 58.1 | 57.6 | 56.3 |
-| 07:45 | EUR | French Government Budget Balance (Feb) | -40.3B | -30.2B | -17.3B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.70% |  | 6.71% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.6% |  | -2.0% |
-| 12:00 | USD | MBA Purchase Index | 158.2 |  | 155.8 |
-| 12:00 | USD | Mortgage Market Index | 243.6 |  | 247.5 |
-| 12:00 | USD | Mortgage Refinance Index | 710.4 |  | 752.4 |
-| 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
-| 14:00 | USD | Total Vehicle Sales (Mar) | 17.77M | 15.90M | 16.00M |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Mar) | 50.6 |  | 50.7 |
-| 14:30 | USD | All Car Sales (Mar) | 3.11M |  | 2.95M |
-| 14:30 | USD | All Truck Sales (Mar) | 14.65M |  | 13.06M |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Feb) | 0.8% | 0.8% | 0.8% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Feb) | 0.7% |  | 0.7% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 0.4% | 0.7% | 0.3% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.192M |  | 0.087M |
-| 15:30 | USD | Crude Oil Imports | 0.999M |  | 0.845M |
-| 15:30 | USD | Distillate Fuel Production | 0.164M |  | -0.100M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.264M | -1.100M | -0.421M |
-| 15:30 | USD | Gasoline Production | 0.062M |  | -0.401M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.209M |  | -0.035M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.1% |
-| 15:30 | USD | Gasoline Inventories | -1.551M | -1.900M | -1.446M |
-| 18:30 | BRL | Foreign Exchange Flows | -2.085B |  | -3.664B |
-| 22:00 | KRW | FX Reserves - USD (Mar) | 409.70B |  | 409.20B |
-| 23:00 | AUD | Judo Bank Services PMI (Mar) |  | 51.2 | 50.8 |
+| 44 min | JPY | Foreign Bonds Buying |  |  | -207.1B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,206.0B |
+| 54 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 3.0% |
+| 01:30 | AUD | Exports (MoM) (Feb) |  |  | 1.3% |
+| 01:30 | AUD | Imports (MoM) (Feb) |  |  | -0.3% |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Mar) |  |  | 49.0 |
+| 07:30 | CHF | CPI (YoY) (Mar) |  | 0.5% | 0.3% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.9 |
+| 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 47.0 | 45.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 50.9 | 50.4 |
+| 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.836% |
+| 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 7.60% |
+| 10:00 | EUR | PPI (YoY) (Feb) |  |  | 1.8% |
+| 10:00 | EUR | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
+| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 172.017K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 103.2% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
+| 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 119.6B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
+| 13:30 | CAD | Exports (Feb) |  |  | 74.46B |
+| 13:30 | CAD | Imports (Feb) |  |  | 70.49B |
+| 14:00 | BRL | S&P Global Composite PMI (Mar) |  |  | 51.2 |
+| 14:00 | BRL | S&P Global Services PMI (Mar) |  |  | 50.6 |
+| 14:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  |  | 54.4 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 52.2 |
+| 15:30 | USD | Natural Gas Storage |  | 27B | 37B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.245% |
+| 17:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 19:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.450T |
