@@ -27,12 +27,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.192M |  | 0.087M |
 | 15:30 | USD | Crude Oil Imports | 0.999M |  | 0.845M |
 | 15:30 | USD | Distillate Fuel Production | 0.164M |  | -0.100M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.264M |  | -0.421M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.264M | -1.100M | -0.421M |
 | 15:30 | USD | Gasoline Production | 0.062M |  | -0.401M |
 | 15:30 | USD | Heating Oil Stockpiles | 0.209M |  | -0.035M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.1% |
-| 15:30 | USD | Gasoline Inventories | -1.551M |  | -1.446M |
-| 54 min | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 15:30 | USD | Gasoline Inventories | -1.551M | -1.900M | -1.446M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -3.664B |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 409.20B |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | 2.6% |

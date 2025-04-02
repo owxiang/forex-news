@@ -34,17 +34,16 @@
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Feb) | 0.6% | 0.5% | 1.8% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Feb) | 0.4% | 0.7% | 0.3% |
 | 15:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories | 6.165M | -0.400M | -3.341M |
+| 15:30 | USD | High | Crude Oil Inventories | 6.165M | -0.200M | -3.341M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.192M |  | 0.087M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.999M |  | 0.845M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 2.373M |  | -0.755M |
 | 15:30 | USD | Low | Distillate Fuel Production | 0.164M |  | -0.100M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.264M |  | -0.421M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.264M | -1.100M | -0.421M |
 | 15:30 | USD | Low | Gasoline Production | 0.062M |  | -0.401M |
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.209M |  | -0.035M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.1% |
-| 15:30 | USD | Low | Gasoline Inventories | -1.551M |  | -1.446M |
-| 54 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.551M | -1.900M | -1.446M |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.664B |
 | 19:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
