@@ -22,8 +22,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 158.2 |  | 155.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 243.6 |  | 247.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 710.4 |  | 752.4 |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 1.5% | 2.3% | 1.3% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 1.5% | 2.3% | 1.3% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 155K | 118K | 84K |
 | 14:00 | USD | Low | Total Vehicle Sales (Mar) | 17.77M | 15.90M | 16.00M |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) | 50.6 |  | 50.7 |
@@ -44,7 +44,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.209M |  | -0.035M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.551M | -1.900M | -1.446M |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.664B |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -3.664B |
 | 19:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Mar) |  |  | 409.20B |

@@ -32,7 +32,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.209M |  | -0.035M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.1% |
 | 15:30 | USD | Gasoline Inventories | -1.551M | -1.900M | -1.446M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -3.664B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -3.664B |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 409.20B |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | 2.6% |
 | 23:00 | AUD | Judo Bank Services PMI (Mar) |  | 51.2 | 50.8 |
