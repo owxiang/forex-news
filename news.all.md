@@ -27,23 +27,23 @@
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 155K | 118K | 84K |
 | 14:00 | USD | Low | Total Vehicle Sales (Mar) | 17.77M | 15.90M | 16.00M |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) | 50.6 |  | 50.7 |
-| 18 min | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 18 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 48 min | USD | Low | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
-| 48 min | USD | Low | Durables Excluding Transport (MoM) (Feb) |  |  | 0.7% |
-| 48 min | USD | Moderate | Factory Orders (MoM) (Feb) |  | 0.5% | 1.7% |
-| 48 min | USD | Low | Factory orders ex transportation (MoM) (Feb) |  | 0.7% | 0.2% |
-| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.400M | -3.341M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.845M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.755M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.100M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.421M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.401M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.035M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -1.446M |
+| 14:30 | USD | Low | All Car Sales (Mar) | 3.11M |  | 2.95M |
+| 14:30 | USD | Low | All Truck Sales (Mar) | 14.65M |  | 13.06M |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Feb) | 0.8% | 0.8% | 0.8% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Feb) | 0.7% |  | 0.7% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Feb) | 0.6% | 0.5% | 1.8% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Feb) | 0.4% | 0.7% | 0.3% |
+| 15:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 24 min | USD | High | Crude Oil Inventories |  | -0.400M | -3.341M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | 0.845M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.755M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | -0.100M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.421M |
+| 24 min | USD | Low | Gasoline Production |  |  | -0.401M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.035M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
+| 24 min | USD | Low | Gasoline Inventories |  |  | -1.446M |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.664B |
 | 19:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

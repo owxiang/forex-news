@@ -19,19 +19,19 @@
 | 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
 | 14:00 | USD | Total Vehicle Sales (Mar) | 17.77M | 15.90M | 16.00M |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Mar) | 50.6 |  | 50.7 |
-| 18 min | INR | M3 Money Supply |  |  | 9.6% |
-| 18 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 48 min | USD | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
-| 48 min | USD | Durables Excluding Transport (MoM) (Feb) |  |  | 0.7% |
-| 48 min | USD | Factory orders ex transportation (MoM) (Feb) |  | 0.7% | 0.2% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.845M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.100M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.421M |
-| 15:30 | USD | Gasoline Production |  |  | -0.401M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.035M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.446M |
+| 14:30 | USD | All Car Sales (Mar) | 3.11M |  | 2.95M |
+| 14:30 | USD | All Truck Sales (Mar) | 14.65M |  | 13.06M |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Feb) | 0.8% | 0.8% | 0.8% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Feb) | 0.7% |  | 0.7% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 0.4% | 0.7% | 0.3% |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
+| 24 min | USD | Crude Oil Imports |  |  | 0.845M |
+| 24 min | USD | Distillate Fuel Production |  |  | -0.100M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  |  | -0.421M |
+| 24 min | USD | Gasoline Production |  |  | -0.401M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | -0.035M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.1% |
+| 24 min | USD | Gasoline Inventories |  |  | -1.446M |
 | 17:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -3.664B |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 409.20B |
