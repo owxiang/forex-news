@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 01:30 | AUD | Building Approvals (MoM) (Feb) |  | -1.4% | 6.3% |
+| 00:25 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 2 min | AUD | Building Approvals (MoM) (Feb) |  | -1.4% | 6.3% |
 | 08:00 | EUR | Spanish Unemployment Change (Mar) |  | -2.5K | -6.0K |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.51% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.920% |

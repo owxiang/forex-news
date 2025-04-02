@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
-| 19 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 44 min | JPY | Low | Monetary Base (YoY) (Mar) |  | -1.5% | -1.9% |
-| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) |  |  | 9.10% |
-| 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) |  | -1.4% | 6.3% |
-| 01:30 | AUD | Low | Private House Approvals (Feb) |  |  | 1.1% |
-| 01:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 53.6 |
+| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
+| 00:25 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
+| 2 min | AUD | Low | Building Approvals (YoY) (Feb) |  |  | 9.10% |
+| 2 min | AUD | Moderate | Building Approvals (MoM) (Feb) |  | -1.4% | 6.3% |
+| 2 min | AUD | Low | Private House Approvals (Feb) |  |  | 1.1% |
+| 2 min | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 2 min | IDR | Low | S&P Global Manufacturing PMI (Mar) |  |  | 53.6 |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Mar) |  | 57.6 | 56.3 |
 | 07:45 | EUR | Low | French Government Budget Balance (Feb) |  | -30.2B | -17.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) |  | -2.5K | -6.0K |
@@ -27,8 +27,8 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | 0.0% |
 | 12:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) |  |  | 0.0% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  |  | 1.4% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) |  |  | 0.0% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 118K | 77K |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
