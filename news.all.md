@@ -16,17 +16,17 @@
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) | -13.3K | -2.5K | -6.0K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) | 0.62% |  | 0.51% |
 | 10:40 | EUR | Moderate | German 10-Year Bund Auction | 2.680% |  | 2.920% |
-| 23 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.71% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.0% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 155.8 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 247.5 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 752.4 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 12:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | 0.0% |
-| 12:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 2.3% | 1.4% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.5% | 0.0% |
+| 11:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.70% |  | 6.71% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.6% |  | -2.0% |
+| 12:00 | USD | Low | MBA Purchase Index | 158.2 |  | 155.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 243.6 |  | 247.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 710.4 |  | 752.4 |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 24 min | BRL | Low | Bank lending (MoM) (Feb) |  |  | 0.0% |
+| 24 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 2.3% | 1.4% |
+| 54 min | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.5% | 0.0% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 118K | 77K |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
