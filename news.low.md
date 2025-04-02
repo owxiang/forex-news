@@ -11,11 +11,11 @@
 | 01:30 | IDR | S&P Global Manufacturing PMI (Mar) | 52.4 |  | 53.6 |
 | 06:00 | INR | S&P Global Manufacturing PMI (Mar) | 58.1 | 57.6 | 56.3 |
 | 07:45 | EUR | French Government Budget Balance (Feb) | -40.3B | -30.2B | -17.3B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.71% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.0% |
-| 12:00 | USD | MBA Purchase Index |  |  | 155.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 247.5 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 752.4 |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.71% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.0% |
+| 53 min | USD | MBA Purchase Index |  |  | 155.8 |
+| 53 min | USD | Mortgage Market Index |  |  | 247.5 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 752.4 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | 0.0% |
 | 12:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
