@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:00 | KRW | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
+| 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:50 | JPY | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
-| 2 min | AUD | Building Approvals (YoY) (Feb) |  |  | 9.10% |
-| 2 min | AUD | Private House Approvals (Feb) |  |  | 1.1% |
-| 2 min | AUD | RBA Chart Pack Release |  |  |  |
-| 2 min | IDR | S&P Global Manufacturing PMI (Mar) |  |  | 53.6 |
+| 01:30 | AUD | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
+| 01:30 | AUD | Private House Approvals (Feb) | 1.0% |  | 1.1% |
+| 01:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Mar) |  |  | 53.6 |
 | 06:00 | INR | S&P Global Manufacturing PMI (Mar) |  | 57.6 | 56.3 |
 | 07:45 | EUR | French Government Budget Balance (Feb) |  | -30.2B | -17.3B |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.71% |
