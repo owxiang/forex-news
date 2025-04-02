@@ -15,7 +15,7 @@
 | 07:45 | EUR | Low | French Government Budget Balance (Feb) | -40.3B | -30.2B | -17.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) | -13.3K | -2.5K | -6.0K |
 | 08:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) | 0.62% |  | 0.51% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.920% |
+| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.920% |
 | 11:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.71% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.0% |
