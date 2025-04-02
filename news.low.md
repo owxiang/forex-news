@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:00 | KRW | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
+| 00:00 | KRW | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:50 | JPY | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
 | 01:30 | AUD | Private House Approvals (Feb) | 1.0% |  | 1.4% |
@@ -16,11 +16,10 @@
 | 12:00 | USD | MBA Purchase Index | 158.2 |  | 155.8 |
 | 12:00 | USD | Mortgage Market Index | 243.6 |  | 247.5 |
 | 12:00 | USD | Mortgage Refinance Index | 710.4 |  | 752.4 |
-| 24 min | INR | M3 Money Supply |  |  | 9.6% |
-| 24 min | BRL | Bank lending (MoM) (Feb) |  |  | 0.0% |
-| 24 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 54 min | BRL | Industrial Production (MoM) (Feb) |  | 0.5% | 0.0% |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
+| 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
+| 49 min | SGD | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
+| 14:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Feb) |  |  | 0.7% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) |  | 0.7% | 0.2% |

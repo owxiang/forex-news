@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
+| 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
 | 00:25 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
@@ -22,13 +22,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 158.2 |  | 155.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 243.6 |  | 247.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 710.4 |  | 752.4 |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 24 min | BRL | Low | Bank lending (MoM) (Feb) |  |  | 0.0% |
-| 24 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 54 min | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 2.3% | 1.4% |
-| 54 min | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.5% | 0.0% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 118K | 77K |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 1.5% | 2.3% | 1.4% |
+| 4 min | USD | High | ADP Nonfarm Employment Change (Mar) |  | 118K | 77K |
+| 49 min | SGD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
+| 14:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Feb) |  |  | 0.7% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Feb) |  | 0.5% | 1.7% |
@@ -48,7 +47,7 @@
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.664B |
 | 19:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 20:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (Mar) |  |  | 409.20B |
 | 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | 2.6% |
 | 23:00 | AUD | Low | Judo Bank Services PMI (Mar) |  | 51.2 | 50.8 |
