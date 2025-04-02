@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:00 | KRW | Low | CPI (YoY) (Mar) | 2.1% | 2.0% | 2.0% |
+| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 00:25 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | -3.2% | -1.5% | -1.9% |
 | 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 9.10% |  | 9.40% |
@@ -23,17 +23,17 @@
 | 12:00 | USD | Low | Mortgage Market Index | 243.6 |  | 247.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 710.4 |  | 752.4 |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.5% | 0.0% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 1.5% | 2.3% | 1.4% |
-| 4 min | USD | High | ADP Nonfarm Employment Change (Mar) |  | 118K | 77K |
-| 49 min | SGD | Low | S&P Global Manufacturing PMI (Mar) |  |  | 50.7 |
-| 14:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Feb) |  |  | 0.7% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Feb) |  | 0.5% | 1.7% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Feb) |  | 0.7% | 0.2% |
-| 15:00 | USD | Low | Total Vehicle Sales (Mar) |  | 15.90M | 16.00M |
-| 15:05 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 1.5% | 2.3% | 1.3% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 155K | 118K | 84K |
+| 14:00 | USD | Low | Total Vehicle Sales (Mar) | 17.77M | 15.90M | 16.00M |
+| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Mar) | 50.6 |  | 50.7 |
+| 18 min | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 18 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 48 min | USD | Low | Durables Excluding Defense (MoM) (Feb) |  | 0.8% | 0.8% |
+| 48 min | USD | Low | Durables Excluding Transport (MoM) (Feb) |  |  | 0.7% |
+| 48 min | USD | Moderate | Factory Orders (MoM) (Feb) |  | 0.5% | 1.7% |
+| 48 min | USD | Low | Factory orders ex transportation (MoM) (Feb) |  | 0.7% | 0.2% |
+| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.400M | -3.341M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.845M |
