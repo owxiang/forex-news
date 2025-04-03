@@ -38,24 +38,24 @@
 | 10:00 | EUR | Low | PPI (YoY) (Feb) | 3.0% |  | 1.7% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 24 min | USD | Low | Challenger Job Cuts (Mar) |  |  | 172.017K |
-| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 103.2% |
-| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
-| 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 119.6B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,856K |
-| 13:30 | USD | Moderate | Exports (Feb) |  |  | 269.80B |
-| 13:30 | USD | Moderate | Imports (Feb) |  |  | 401.20B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 225K | 224K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.00K |
-| 13:30 | USD | Moderate | Trade Balance (Feb) |  | -122.50B | -131.40B |
-| 13:30 | CAD | Low | Exports (Feb) |  |  | 74.46B |
-| 13:30 | CAD | Low | Imports (Feb) |  |  | 70.49B |
-| 13:30 | CAD | Moderate | Trade Balance (Feb) |  | 3.40B | 3.97B |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 51.2 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Mar) |  |  | 50.6 |
-| 14:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 12:30 | USD | Low | Challenger Job Cuts (Mar) | 275.240K |  | 172.017K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
+| 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.6% |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
+| 4 min | CAD | Low | Reserve Assets Total (Mar) |  |  | 119.6B |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,856K |
+| 19 min | USD | Moderate | Exports (Feb) |  |  | 269.80B |
+| 19 min | USD | Moderate | Imports (Feb) |  |  | 401.20B |
+| 19 min | USD | High | Initial Jobless Claims |  | 225K | 224K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.00K |
+| 19 min | USD | Moderate | Trade Balance (Feb) |  | -122.50B | -131.40B |
+| 19 min | CAD | Low | Exports (Feb) |  |  | 74.46B |
+| 19 min | CAD | Low | Imports (Feb) |  |  | 70.49B |
+| 19 min | CAD | Moderate | Trade Balance (Feb) |  | 3.40B | 3.97B |
+| 49 min | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 51.2 |
+| 49 min | BRL | Low | S&P Global Services PMI (Mar) |  |  | 50.6 |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  | 53.5 | 51.6 |
 | 14:45 | USD | High | S&P Global Services PMI (Mar) |  | 54.3 | 51.0 |
