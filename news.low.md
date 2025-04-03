@@ -8,10 +8,10 @@
 | 01:30 | AUD | Exports (MoM) (Feb) | -3.6% |  | 0.8% |
 | 01:30 | AUD | Imports (MoM) (Feb) | 1.6% |  | -0.4% |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
-| 21 min | CHF | CPI (YoY) (Mar) |  | 0.5% | 0.3% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.9 |
-| 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 47.0 | 45.1 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 50.9 | 50.4 |
+| 07:30 | CHF | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
+| 38 min | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.9 |
+| 43 min | EUR | HCOB France Composite PMI (Mar) |  | 47.0 | 45.1 |
+| 48 min | EUR | HCOB Germany Composite PMI (Mar) |  | 50.9 | 50.4 |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.836% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.51% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.66% |
@@ -19,10 +19,10 @@
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 7.60% |
 | 10:00 | EUR | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
 | 10:00 | EUR | PPI (YoY) (Feb) |  |  | 1.8% |
-| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 172.017K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 103.2% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
+| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 172.017K |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 119.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
 | 13:30 | CAD | Exports (Feb) |  |  | 74.46B |

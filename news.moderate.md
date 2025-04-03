@@ -7,14 +7,14 @@
 | 01:30 | JPY | au Jibun Bank Services PMI (Mar) | 50.0 | 49.5 | 53.7 |
 | 02:45 | CNY | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
 | 04:35 | JPY | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 21 min | CHF | CPI (MoM) (Mar) |  | 0.1% | 0.6% |
-| 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 55.6 | 56.2 |
-| 08:20 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 52.6 | 53.0 |
-| 08:50 | EUR | HCOB France Services PMI (Mar) |  | 46.6 | 45.3 |
-| 08:55 | EUR | HCOB Germany Services PMI (Mar) |  | 50.2 | 51.1 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) |  | 50.4 | 50.2 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) |  | 50.4 | 50.6 |
+| 07:30 | CHF | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
+| 8 min | EUR | HCOB Spain Services PMI (Mar) |  | 55.6 | 56.2 |
+| 13 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 38 min | EUR | HCOB Italy Services PMI (Mar) |  | 52.6 | 53.0 |
+| 43 min | EUR | HCOB France Services PMI (Mar) |  | 46.6 | 45.3 |
+| 48 min | EUR | HCOB Germany Services PMI (Mar) |  | 50.2 | 51.1 |
+| 53 min | EUR | HCOB Eurozone Composite PMI (Mar) |  | 50.4 | 50.2 |
+| 53 min | EUR | HCOB Eurozone Services PMI (Mar) |  | 50.4 | 50.6 |
 | 09:30 | GBP | S&P Global Composite PMI (Mar) |  | 52.0 | 50.5 |
 | 09:30 | GBP | S&P Global Services PMI (Mar) |  | 53.2 | 51.0 |
 | 11:00 | USD | OPEC Meeting |  |  |  |
