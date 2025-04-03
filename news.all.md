@@ -13,27 +13,29 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
-| 8 min | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.6 | 56.2 |
-| 13 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 38 min | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 51.9 |
-| 38 min | EUR | Moderate | HCOB Italy Services PMI (Mar) |  | 52.6 | 53.0 |
-| 43 min | EUR | Low | HCOB France Composite PMI (Mar) |  | 47.0 | 45.1 |
-| 43 min | EUR | Moderate | HCOB France Services PMI (Mar) |  | 46.6 | 45.3 |
-| 48 min | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 50.9 | 50.4 |
-| 48 min | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 50.2 | 51.1 |
-| 53 min | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 50.4 | 50.2 |
-| 53 min | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 50.4 | 50.6 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.0 | 50.5 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) |  | 53.2 | 51.0 |
-| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.836% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.51% |
-| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.66% |
-| 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 3.23% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Mar) |  |  | 7.60% |
-| 10:00 | EUR | Low | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
-| 10:00 | EUR | Low | PPI (YoY) (Feb) |  |  | 1.8% |
+| 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 54.7 | 55.6 | 56.2 |
+| 08:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) | 50.5 |  | 51.9 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Mar) | 52.0 | 52.6 | 53.0 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Mar) | 48.0 | 47.0 | 45.1 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Mar) | 47.9 | 46.6 | 45.3 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Mar) | 51.3 | 50.9 | 50.4 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Mar) | 50.9 | 50.2 | 51.1 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 50.9 | 50.4 | 50.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 51.0 | 50.4 | 50.6 |
+| 21 min | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.0 | 50.5 |
+| 21 min | GBP | Moderate | S&P Global Services PMI (Mar) |  | 53.2 | 51.0 |
+| 31 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.487% |
+| 31 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.705% |
+| 51 min | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.836% |
+| 51 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.51% |
+| 51 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.66% |
+| 51 min | EUR | Low | French 8-Year OAT Auction |  |  | 3.23% |
+| 51 min | NOK | Low | House Price Index (YoY) (Mar) |  |  | 7.60% |
+| 51 min | EUR | Low | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
+| 51 min | EUR | Low | PPI (YoY) (Feb) |  |  | 1.8% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 103.2% |
