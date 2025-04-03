@@ -12,15 +12,15 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) | 50.5 |  | 51.9 |
 | 08:50 | EUR | HCOB France Composite PMI (Mar) | 48.0 | 47.0 | 45.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Mar) | 51.3 | 50.9 | 50.4 |
-| 31 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.487% |
-| 31 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.705% |
-| 51 min | GBP | 15-Year Treasury Gilt Auction |  |  | 4.836% |
-| 51 min | EUR | French 10-Year OAT Auction |  |  | 3.51% |
-| 51 min | EUR | French 30-Year OAT Auction |  |  | 3.66% |
-| 51 min | EUR | French 8-Year OAT Auction |  |  | 3.23% |
-| 51 min | NOK | House Price Index (YoY) (Mar) |  |  | 7.60% |
-| 51 min | EUR | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
-| 51 min | EUR | PPI (YoY) (Feb) |  |  | 1.8% |
+| 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.917% |  | 4.836% |
+| 10:00 | EUR | French 10-Year OAT Auction | 3.37% |  | 3.51% |
+| 10:00 | EUR | French 30-Year OAT Auction | 4.04% |  | 3.66% |
+| 10:00 | EUR | French 8-Year OAT Auction | 3.19% |  | 3.23% |
+| 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.292% |  | 2.487% |
+| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.809% |  | 2.705% |
+| 10:00 | NOK | House Price Index (YoY) (Mar) | 7.00% |  | 7.60% |
+| 10:00 | EUR | PPI (MoM) (Feb) | 0.2% | 0.3% | 0.7% |
+| 10:00 | EUR | PPI (YoY) (Feb) | 3.0% |  | 1.7% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 103.2% |
 | 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 172.017K |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |

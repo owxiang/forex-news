@@ -15,10 +15,10 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Mar) | 50.9 | 50.2 | 51.1 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 50.9 | 50.4 | 50.2 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 51.0 | 50.4 | 50.6 |
-| 21 min | GBP | S&P Global Composite PMI (Mar) |  | 52.0 | 50.5 |
-| 21 min | GBP | S&P Global Services PMI (Mar) |  | 53.2 | 51.0 |
-| 11:00 | USD | OPEC Meeting |  |  |  |
-| 11:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Composite PMI (Mar) | 51.5 | 52.0 | 50.5 |
+| 09:30 | GBP | S&P Global Services PMI (Mar) | 52.5 | 53.2 | 51.0 |
+| 53 min | USD | OPEC Meeting |  |  |  |
+| 53 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,856K |
 | 13:30 | USD | Exports (Feb) |  |  | 269.80B |

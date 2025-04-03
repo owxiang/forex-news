@@ -25,19 +25,19 @@
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Mar) | 50.9 | 50.2 | 51.1 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 50.9 | 50.4 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 51.0 | 50.4 | 50.6 |
-| 21 min | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.0 | 50.5 |
-| 21 min | GBP | Moderate | S&P Global Services PMI (Mar) |  | 53.2 | 51.0 |
-| 31 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.487% |
-| 31 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.705% |
-| 51 min | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.836% |
-| 51 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.51% |
-| 51 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.66% |
-| 51 min | EUR | Low | French 8-Year OAT Auction |  |  | 3.23% |
-| 51 min | NOK | Low | House Price Index (YoY) (Mar) |  |  | 7.60% |
-| 51 min | EUR | Low | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
-| 51 min | EUR | Low | PPI (YoY) (Feb) |  |  | 1.8% |
-| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) | 51.5 | 52.0 | 50.5 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) | 52.5 | 53.2 | 51.0 |
+| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.917% |  | 4.836% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.37% |  | 3.51% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 4.04% |  | 3.66% |
+| 10:00 | EUR | Low | French 8-Year OAT Auction | 3.19% |  | 3.23% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.292% |  | 2.487% |
+| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.809% |  | 2.705% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Mar) | 7.00% |  | 7.60% |
+| 10:00 | EUR | Low | PPI (MoM) (Feb) | 0.2% | 0.3% | 0.7% |
+| 10:00 | EUR | Low | PPI (YoY) (Feb) | 3.0% |  | 1.7% |
+| 53 min | USD | Moderate | OPEC Meeting |  |  |  |
+| 53 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 103.2% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 172.017K |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
