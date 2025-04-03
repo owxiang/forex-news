@@ -12,9 +12,9 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Mar) | 50.0 | 49.5 | 53.7 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.404% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.1% | 0.6% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.405% |  | 1.404% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 0.5% | 0.3% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.1% | 0.6% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.6 | 56.2 |
 | 08:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 51.9 |
@@ -28,6 +28,9 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Mar) |  | 52.0 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Mar) |  | 53.2 | 51.0 |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.836% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.51% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.66% |
+| 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 3.23% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) |  |  | 7.60% |
 | 10:00 | EUR | Low | PPI (YoY) (Feb) |  |  | 1.8% |
 | 10:00 | EUR | Low | PPI (MoM) (Feb) |  | 0.3% | 0.8% |

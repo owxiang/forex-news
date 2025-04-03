@@ -13,6 +13,9 @@
 | 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 47.0 | 45.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 50.9 | 50.4 |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.836% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.51% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.66% |
+| 10:00 | EUR | French 8-Year OAT Auction |  |  | 3.23% |
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 7.60% |
 | 10:00 | EUR | PPI (YoY) (Feb) |  |  | 1.8% |
 | 10:00 | EUR | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
