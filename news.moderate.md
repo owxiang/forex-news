@@ -7,7 +7,7 @@
 | 01:30 | JPY | au Jibun Bank Services PMI (Mar) | 50.0 | 49.5 | 53.7 |
 | 02:45 | CNY | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
 | 04:35 | JPY | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 07:30 | CHF | CPI (MoM) (Mar) |  | 0.1% | 0.6% |
+| 21 min | CHF | CPI (MoM) (Mar) |  | 0.1% | 0.6% |
 | 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 55.6 | 56.2 |
 | 08:20 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 52.6 | 53.0 |
