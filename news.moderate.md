@@ -19,7 +19,7 @@
 | 09:30 | GBP | S&P Global Services PMI (Mar) | 52.5 | 53.2 | 51.0 |
 | 11:00 | USD | OPEC Meeting |  |  |  |
 | 11:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 24 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,856K |
 | 13:30 | USD | Exports (Feb) |  |  | 269.80B |
 | 13:30 | USD | Imports (Feb) |  |  | 401.20B |
