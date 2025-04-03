@@ -1,31 +1,28 @@
-## 03 April 2025 - Moderate Impact Forex News
+## 04 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | RBA Financial Stability Review |  |  |  |
-| 01:30 | AUD | Trade Balance (Feb) | 2.968B | 5.380B | 5.156B |
-| 01:30 | JPY | au Jibun Bank Services PMI (Mar) | 50.0 | 49.5 | 53.7 |
-| 02:45 | CNY | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
-| 04:35 | JPY | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 07:30 | CHF | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
-| 08:15 | EUR | HCOB Spain Services PMI (Mar) | 54.7 | 55.6 | 56.2 |
-| 08:20 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 08:45 | EUR | HCOB Italy Services PMI (Mar) | 52.0 | 52.6 | 53.0 |
-| 08:50 | EUR | HCOB France Services PMI (Mar) | 47.9 | 46.6 | 45.3 |
-| 08:55 | EUR | HCOB Germany Services PMI (Mar) | 50.9 | 50.2 | 51.1 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 50.9 | 50.4 | 50.2 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 51.0 | 50.4 | 50.6 |
-| 09:30 | GBP | S&P Global Composite PMI (Mar) | 51.5 | 52.0 | 50.5 |
-| 09:30 | GBP | S&P Global Services PMI (Mar) | 52.5 | 53.2 | 51.0 |
-| 11:00 | USD | OPEC Meeting |  |  |  |
-| 11:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,903K | 1,860K | 1,847K |
-| 13:30 | USD | Exports (Feb) | 278.50B |  | 269.80B |
-| 13:30 | USD | Imports (Feb) | 401.10B |  | 401.20B |
-| 13:30 | USD | Trade Balance (Feb) | -122.70B | -122.50B | -130.70B |
-| 13:30 | CAD | Trade Balance (Feb) | -1.52B | 3.40B | 3.13B |
-| 14:45 | USD | S&P Global Composite PMI (Mar) | 53.5 | 53.5 | 51.6 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Mar) | 46.2 | 53.0 | 53.9 |
-| 17:30 | USD | Atlanta Fed GDPNow (Q1) | -2.8% | -3.7% | -3.7% |
-| 21:30 | USD | Fed's Balance Sheet | 6,723B |  | 6,740B |
+| 24 min | JPY | Household Spending (MoM) (Feb) |  | 0.5% | -4.5% |
+| 24 min | JPY | Household Spending (YoY) (Feb) |  | -0.9% | 0.8% |
+| 07:00 | EUR | German Factory Orders (MoM) (Feb) |  | 3.4% | -7.0% |
+| 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:30 | GBP | S&P Global Construction PMI (Mar) |  | 46.3 | 44.6 |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.9% | 4.0% |
+| 13:30 | USD | Participation Rate (Mar) |  |  | 62.4% |
+| 13:30 | USD | Private Nonfarm Payrolls (Mar) |  | 130K | 140K |
+| 13:30 | USD | U6 Unemployment Rate (Mar) |  |  | 8.0% |
+| 13:30 | CAD | Employment Change (Mar) |  | 10.4K | 1.1K |
+| 13:30 | CAD | Unemployment Rate (Mar) |  | 6.7% | 6.6% |
+| 16:25 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:45 | USD | Fed Waller Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 484 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 29.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 180.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 257.9K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 23.0K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | 68.3K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -70.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 40.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 123.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 59.4K |

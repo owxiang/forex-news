@@ -1,42 +1,46 @@
-## 03 April 2025 - Low Impact Forex News
+## 04 April 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying | -5.9B |  | -233.7B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -450.4B |  | -1,200.6B |
-| 01:00 | NZD | ANZ Commodity Price Index (MoM) | -0.4% |  | 3.0% |
-| 01:30 | AUD | Exports (MoM) (Feb) | -3.6% |  | 0.8% |
-| 01:30 | AUD | Imports (MoM) (Feb) | 1.6% |  | -0.4% |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
-| 07:30 | CHF | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Mar) | 50.5 |  | 51.9 |
-| 08:50 | EUR | HCOB France Composite PMI (Mar) | 48.0 | 47.0 | 45.1 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Mar) | 51.3 | 50.9 | 50.4 |
-| 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.917% |  | 4.836% |
-| 10:00 | EUR | French 10-Year OAT Auction | 3.37% |  | 3.51% |
-| 10:00 | EUR | French 30-Year OAT Auction | 4.04% |  | 3.66% |
-| 10:00 | EUR | French 8-Year OAT Auction | 3.19% |  | 3.23% |
-| 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.292% |  | 2.487% |
-| 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.809% |  | 2.705% |
-| 10:00 | NOK | House Price Index (YoY) (Mar) | 7.00% |  | 7.60% |
-| 10:00 | EUR | PPI (MoM) (Feb) | 0.2% | 0.3% | 0.7% |
-| 10:00 | EUR | PPI (YoY) (Feb) | 3.0% |  | 1.7% |
-| 12:30 | USD | Challenger Job Cuts (Mar) | 275.240K |  | 172.017K |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
-| 12:30 | INR | M3 Money Supply | 9.6% |  | 9.6% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
-| 13:15 | CAD | Reserve Assets Total (Mar) | 126.0B |  | 119.6B |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 223.00K |  | 224.25K |
-| 13:30 | CAD | Exports (Feb) | 70.11B |  | 74.21B |
-| 13:30 | CAD | Imports (Feb) | 71.63B |  | 71.08B |
-| 14:00 | BRL | S&P Global Composite PMI (Mar) | 52.6 |  | 51.2 |
-| 14:00 | BRL | S&P Global Services PMI (Mar) | 52.5 |  | 50.6 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 55.9 |  | 54.4 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 50.4 | 51.9 | 52.2 |
-| 15:30 | USD | Natural Gas Storage | 29B | 27B | 37B |
-| 16:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.220% |
-| 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.245% |
-| 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 19:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.427T |  | 3.450T |
+| 06:00 | INR | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) |  |  | 2.4% |
+| 06:00 | SGD | Retail Sales (YoY) (Feb) |  |  | 4.5% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
+| 06:45 | CHF | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
+| 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) |  |  | -1.0% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 48.2 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Mar) |  |  | 41.2 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 39.8 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
+| 09:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
+| 09:00 | EUR | Italian Public Deficit (Q4) |  |  | 2.3% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
+| 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
+| 10:30 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
+| 11:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
+| 12:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | 1.00% |
+| 12:30 | INR | FX Reserves, USD |  |  | 658.80B |
+| 13:00 | MXN | Consumer Confidence (Mar) |  |  | 46.3 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
+| 13:30 | USD | Average Weekly Hours (Mar) |  | 34.2 | 34.1 |
+| 13:30 | USD | Government Payrolls (Mar) |  |  | 11.0K |
+| 13:30 | USD | Manufacturing Payrolls (Mar) |  | 5K | 10K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Mar) |  |  | 4.0% |
+| 13:30 | CAD | Full Employment Change (Mar) |  |  | -19.7K |
+| 13:30 | CAD | Part Time Employment Change (Mar) |  |  | 20.8K |
+| 13:30 | CAD | Participation Rate (Mar) |  |  | 65.3% |
+| 19:00 | BRL | Trade Balance (Mar) |  |  | -0.32B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 200.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -131.9K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 62.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -14.4K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -82.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -136.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 56.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -34.4K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -40.4K |

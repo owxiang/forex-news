@@ -1,8 +1,8 @@
-## 03 April 2025 - High Impact Forex News
+## 04 April 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Initial Jobless Claims | 219K | 225K | 225K |
-| 14:45 | USD | S&P Global Services PMI (Mar) | 54.4 | 54.3 | 51.0 |
-| 15:00 | USD | ISM Non-Manufacturing PMI (Mar) | 50.8 | 53.0 | 53.5 |
-| 15:00 | USD | ISM Non-Manufacturing Prices (Mar) | 60.9 | 63.1 | 62.6 |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Mar) |  | 0.3% | 0.3% |
+| 13:30 | USD | Nonfarm Payrolls (Mar) |  | 137K | 151K |
+| 13:30 | USD | Unemployment Rate (Mar) |  | 4.1% | 4.1% |
+| 16:25 | USD | Fed Chair Powell Speaks |  |  |  |
