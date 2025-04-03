@@ -20,12 +20,12 @@
 | 11:00 | USD | OPEC Meeting |  |  |  |
 | 11:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 19 min | USD | Continuing Jobless Claims |  | 1,860K | 1,856K |
-| 19 min | USD | Exports (Feb) |  |  | 269.80B |
-| 19 min | USD | Imports (Feb) |  |  | 401.20B |
-| 19 min | USD | Trade Balance (Feb) |  | -122.50B | -131.40B |
-| 19 min | CAD | Trade Balance (Feb) |  | 3.40B | 3.97B |
-| 14:45 | USD | S&P Global Composite PMI (Mar) |  | 53.5 | 51.6 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Mar) |  |  | 53.9 |
+| 13:30 | USD | Continuing Jobless Claims | 1,903K | 1,860K | 1,847K |
+| 13:30 | USD | Exports (Feb) | 278.50B |  | 269.80B |
+| 13:30 | USD | Imports (Feb) | 401.10B |  | 401.20B |
+| 13:30 | USD | Trade Balance (Feb) | -122.70B | -122.50B | -130.70B |
+| 13:30 | CAD | Trade Balance (Feb) | -1.52B | 3.40B | 3.13B |
+| 33 min | USD | S&P Global Composite PMI (Mar) |  | 53.5 | 51.6 |
+| 48 min | USD | ISM Non-Manufacturing Employment (Mar) |  |  | 53.9 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -3.7% | -3.7% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,740B |

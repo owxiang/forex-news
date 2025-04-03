@@ -13,8 +13,8 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 54.7 | 55.6 | 56.2 |
 | 08:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) | 50.5 |  | 51.9 |
@@ -42,28 +42,27 @@
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.6% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
-| 4 min | CAD | Low | Reserve Assets Total (Mar) |  |  | 119.6B |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,856K |
-| 19 min | USD | Moderate | Exports (Feb) |  |  | 269.80B |
-| 19 min | USD | Moderate | Imports (Feb) |  |  | 401.20B |
-| 19 min | USD | High | Initial Jobless Claims |  | 225K | 224K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.00K |
-| 19 min | USD | Moderate | Trade Balance (Feb) |  | -122.50B | -131.40B |
-| 19 min | CAD | Low | Exports (Feb) |  |  | 74.46B |
-| 19 min | CAD | Low | Imports (Feb) |  |  | 70.49B |
-| 19 min | CAD | Moderate | Trade Balance (Feb) |  | 3.40B | 3.97B |
-| 49 min | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 51.2 |
-| 49 min | BRL | Low | S&P Global Services PMI (Mar) |  |  | 50.6 |
-| 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  | 53.5 | 51.6 |
-| 14:45 | USD | High | S&P Global Services PMI (Mar) |  | 54.3 | 51.0 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Mar) |  |  | 54.4 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Mar) |  |  | 53.9 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Mar) |  |  | 52.2 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) |  | 53.0 | 53.5 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) |  |  | 62.6 |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
+| 13:15 | CAD | Low | Reserve Assets Total (Mar) | 126.0B |  | 119.6B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,903K | 1,860K | 1,847K |
+| 13:30 | USD | Moderate | Exports (Feb) | 278.50B |  | 269.80B |
+| 13:30 | USD | Moderate | Imports (Feb) | 401.10B |  | 401.20B |
+| 13:30 | USD | High | Initial Jobless Claims | 219K | 225K | 225K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 223.00K |  | 224.25K |
+| 13:30 | USD | Moderate | Trade Balance (Feb) | -122.70B | -122.50B | -130.70B |
+| 13:30 | CAD | Low | Exports (Feb) | 70.11B |  | 74.21B |
+| 13:30 | CAD | Low | Imports (Feb) | 71.63B |  | 71.08B |
+| 13:30 | CAD | Moderate | Trade Balance (Feb) | -1.52B | 3.40B | 3.13B |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Mar) | 52.6 |  | 51.2 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Mar) | 52.5 |  | 50.6 |
+| 33 min | USD | Moderate | S&P Global Composite PMI (Mar) |  | 53.5 | 51.6 |
+| 33 min | USD | High | S&P Global Services PMI (Mar) |  | 54.3 | 51.0 |
+| 48 min | USD | Low | ISM Non-Manufacturing Business Activity (Mar) |  |  | 54.4 |
+| 48 min | USD | Moderate | ISM Non-Manufacturing Employment (Mar) |  |  | 53.9 |
+| 48 min | USD | Low | ISM Non-Manufacturing New Orders (Mar) |  |  | 52.2 |
+| 48 min | USD | High | ISM Non-Manufacturing PMI (Mar) |  | 53.0 | 53.5 |
+| 48 min | USD | High | ISM Non-Manufacturing Prices (Mar) |  |  | 62.6 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 27B | 37B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.245% |

@@ -24,17 +24,16 @@
 | 12:30 | USD | Challenger Job Cuts (Mar) | 275.240K |  | 172.017K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
 | 12:30 | INR | M3 Money Supply | 9.6% |  | 9.6% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
-| 4 min | CAD | Reserve Assets Total (Mar) |  |  | 119.6B |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
-| 19 min | CAD | Exports (Feb) |  |  | 74.46B |
-| 19 min | CAD | Imports (Feb) |  |  | 70.49B |
-| 49 min | BRL | S&P Global Composite PMI (Mar) |  |  | 51.2 |
-| 49 min | BRL | S&P Global Services PMI (Mar) |  |  | 50.6 |
-| 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  |  | 54.4 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 52.2 |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
+| 13:15 | CAD | Reserve Assets Total (Mar) | 126.0B |  | 119.6B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 223.00K |  | 224.25K |
+| 13:30 | CAD | Exports (Feb) | 70.11B |  | 74.21B |
+| 13:30 | CAD | Imports (Feb) | 71.63B |  | 71.08B |
+| 14:00 | BRL | S&P Global Composite PMI (Mar) | 52.6 |  | 51.2 |
+| 14:00 | BRL | S&P Global Services PMI (Mar) | 52.5 |  | 50.6 |
+| 48 min | USD | ISM Non-Manufacturing Business Activity (Mar) |  |  | 54.4 |
+| 48 min | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 52.2 |
 | 15:30 | USD | Natural Gas Storage |  | 27B | 37B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.245% |
