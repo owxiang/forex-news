@@ -38,8 +38,8 @@
 | 10:00 | EUR | Low | PPI (YoY) (Feb) | 3.0% |  | 1.7% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) | 275.240K |  | 172.017K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.6% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
@@ -69,5 +69,5 @@
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.8% | -3.7% | -3.7% |
 | 17:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,740B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.450T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,723B |  | 6,740B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.427T |  | 3.450T |
