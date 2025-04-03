@@ -5,9 +5,9 @@
 | 00:50 | JPY | Foreign Bonds Buying | -5.9B |  | -233.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -450.4B |  | -1,200.6B |
 | 01:00 | NZD | ANZ Commodity Price Index (MoM) | -0.4% |  | 3.0% |
-| 01:30 | AUD | Exports (MoM) (Feb) |  |  | 1.3% |
-| 01:30 | AUD | Imports (MoM) (Feb) |  |  | -0.3% |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Mar) |  |  | 49.0 |
+| 01:30 | AUD | Exports (MoM) (Feb) | -3.6% |  | 0.8% |
+| 01:30 | AUD | Imports (MoM) (Feb) | 1.6% |  | -0.4% |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 07:30 | CHF | CPI (YoY) (Mar) |  | 0.5% | 0.3% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.9 |
 | 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 47.0 | 45.1 |

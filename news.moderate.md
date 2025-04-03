@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Financial Stability Review |  |  |  |
-| 01:30 | AUD | Trade Balance (Feb) |  | 5.380B | 5.620B |
-| 01:30 | JPY | au Jibun Bank Services PMI (Mar) |  | 49.5 | 53.7 |
-| 02:45 | CNY | Caixin Services PMI (Mar) |  | 51.5 | 51.4 |
+| 01:30 | AUD | Trade Balance (Feb) | 2.968B | 5.380B | 5.156B |
+| 01:30 | JPY | au Jibun Bank Services PMI (Mar) | 50.0 | 49.5 | 53.7 |
+| 11 min | CNY | Caixin Services PMI (Mar) |  | 51.5 | 51.4 |
 | 04:35 | JPY | 10-Year JGB Auction |  |  | 1.404% |
 | 07:30 | CHF | CPI (MoM) (Mar) |  | 0.1% | 0.6% |
 | 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 55.6 | 56.2 |
