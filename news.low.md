@@ -35,9 +35,8 @@
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 55.9 |  | 54.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 50.4 |  | 52.2 |
 | 15:30 | USD | Natural Gas Storage | 29B | 27B | 37B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.220% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.245% |
-| 53 min | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
-| 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.220% |
+| 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.245% |
+| 23 min | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.450T |

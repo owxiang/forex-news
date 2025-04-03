@@ -27,5 +27,5 @@
 | 13:30 | CAD | Trade Balance (Feb) | -1.52B | 3.40B | 3.13B |
 | 14:45 | USD | S&P Global Composite PMI (Mar) | 53.5 | 53.5 | 51.6 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Mar) | 46.2 |  | 53.9 |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -3.7% | -3.7% |
+| 53 min | USD | Atlanta Fed GDPNow (Q1) |  | -3.7% | -3.7% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,740B |

@@ -64,11 +64,10 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) | 50.8 | 53.0 | 53.5 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) | 60.9 |  | 62.6 |
 | 15:30 | USD | Low | Natural Gas Storage | 29B | 27B | 37B |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.245% |
-| 53 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
-| 17:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -3.7% | -3.7% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.220% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.240% |  | 4.245% |
+| 23 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 53 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -3.7% | -3.7% |
 | 19:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,740B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.450T |
