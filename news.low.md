@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Foreign Bonds Buying |  |  | -207.1B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,206.0B |
-| 54 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 3.0% |
+| 00:50 | JPY | Foreign Bonds Buying | -5.9B |  | -233.7B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -450.4B |  | -1,200.6B |
+| 01:00 | NZD | ANZ Commodity Price Index (MoM) | -0.4% |  | 3.0% |
 | 01:30 | AUD | Exports (MoM) (Feb) |  |  | 1.3% |
 | 01:30 | AUD | Imports (MoM) (Feb) |  |  | -0.3% |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Mar) |  |  | 49.0 |
@@ -16,10 +16,10 @@
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 7.60% |
 | 10:00 | EUR | PPI (YoY) (Feb) |  |  | 1.8% |
 | 10:00 | EUR | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
-| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 172.017K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 103.2% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
+| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 172.017K |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 119.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
 | 13:30 | CAD | Exports (Feb) |  |  | 74.46B |
