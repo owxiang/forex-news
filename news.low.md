@@ -21,11 +21,11 @@
 | 10:00 | NOK | House Price Index (YoY) (Mar) | 7.00% |  | 7.60% |
 | 10:00 | EUR | PPI (MoM) (Feb) | 0.2% | 0.3% | 0.7% |
 | 10:00 | EUR | PPI (YoY) (Feb) | 3.0% |  | 1.7% |
-| 12:30 | USD | Challenger Job Cuts (Mar) | 275.240K |  | 172.017K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
+| 12:30 | USD | Challenger Job Cuts (Mar) | 275.240K |  | 172.017K |
 | 12:30 | INR | M3 Money Supply | 9.6% |  | 9.6% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
 | 13:15 | CAD | Reserve Assets Total (Mar) | 126.0B |  | 119.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 223.00K |  | 224.25K |
 | 13:30 | CAD | Exports (Feb) | 70.11B |  | 74.21B |
@@ -39,4 +39,4 @@
 | 16:30 | USD | 8-Week Bill Auction | 4.240% |  | 4.245% |
 | 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.450T |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.450T |
