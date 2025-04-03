@@ -24,8 +24,8 @@
 | 12:30 | USD | Challenger Job Cuts (Mar) | 275.240K |  | 172.017K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
 | 12:30 | INR | M3 Money Supply | 9.6% |  | 9.6% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
 | 13:15 | CAD | Reserve Assets Total (Mar) | 126.0B |  | 119.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 223.00K |  | 224.25K |
 | 13:30 | CAD | Exports (Feb) | 70.11B |  | 74.21B |
@@ -34,10 +34,10 @@
 | 14:00 | BRL | S&P Global Services PMI (Mar) | 52.5 |  | 50.6 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 55.9 |  | 54.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 50.4 |  | 52.2 |
-| 23 min | USD | Natural Gas Storage |  | 27B | 37B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.245% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 15:30 | USD | Natural Gas Storage | 29B | 27B | 37B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.220% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.245% |
+| 53 min | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 17:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 19:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.450T |

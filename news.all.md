@@ -13,8 +13,8 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 54.7 | 55.6 | 56.2 |
 | 08:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) | 50.5 |  | 51.9 |
@@ -42,8 +42,8 @@
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 204.8% |  | 103.2% |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.6% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | -1.50% |  | -2.60% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | -6.70% |  | -4.00% |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) | 126.0B |  | 119.6B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,903K | 1,860K | 1,847K |
 | 13:30 | USD | Moderate | Exports (Feb) | 278.50B |  | 269.80B |
@@ -63,10 +63,10 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Mar) | 50.4 |  | 52.2 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) | 50.8 | 53.0 | 53.5 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) | 60.9 |  | 62.6 |
-| 23 min | USD | Low | Natural Gas Storage |  | 27B | 37B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.245% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 15:30 | USD | Low | Natural Gas Storage | 29B | 27B | 37B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.245% |
+| 53 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 17:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -3.7% | -3.7% |
 | 19:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
