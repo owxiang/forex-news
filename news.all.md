@@ -13,8 +13,8 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 54.7 | 55.6 | 56.2 |
 | 08:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) | 50.5 |  | 51.9 |
@@ -36,13 +36,13 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) | 7.00% |  | 7.60% |
 | 10:00 | EUR | Low | PPI (MoM) (Feb) | 0.2% | 0.3% | 0.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Feb) | 3.0% |  | 1.7% |
-| 53 min | USD | Moderate | OPEC Meeting |  |  |  |
-| 53 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 103.2% |
+| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 172.017K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 103.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 119.6B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,856K |
 | 13:30 | USD | Moderate | Exports (Feb) |  |  | 269.80B |
