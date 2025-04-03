@@ -16,10 +16,10 @@
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 7.60% |
 | 10:00 | EUR | PPI (YoY) (Feb) |  |  | 1.8% |
 | 10:00 | EUR | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 103.2% |
 | 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 172.017K |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 103.2% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 119.6B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.00K |
 | 13:30 | CAD | Exports (Feb) |  |  | 74.46B |

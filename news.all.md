@@ -12,7 +12,7 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Mar) | 50.0 | 49.5 | 53.7 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
-| 17 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.404% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.404% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.1% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 0.5% | 0.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.6 | 56.2 |
@@ -33,11 +33,11 @@
 | 10:00 | EUR | Low | PPI (MoM) (Feb) |  | 0.3% | 0.8% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 103.2% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 172.017K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 103.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | -2.60% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | -4.00% |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 119.6B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,856K |
 | 13:30 | USD | Moderate | Exports (Feb) |  |  | 269.80B |
