@@ -13,8 +13,8 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Mar) | 48.3 |  | 49.0 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 51.9 | 51.5 | 51.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.405% |  | 1.404% |
-| 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.1% | 0.6% |
+| 07:30 | CHF | Low | CPI (YoY) (Mar) | 0.3% | 0.5% | 0.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 54.7 | 55.6 | 56.2 |
 | 08:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) | 50.5 |  | 51.9 |
@@ -56,14 +56,14 @@
 | 13:30 | CAD | Moderate | Trade Balance (Feb) | -1.52B | 3.40B | 3.13B |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Mar) | 52.6 |  | 51.2 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Mar) | 52.5 |  | 50.6 |
-| 33 min | USD | Moderate | S&P Global Composite PMI (Mar) |  | 53.5 | 51.6 |
-| 33 min | USD | High | S&P Global Services PMI (Mar) |  | 54.3 | 51.0 |
-| 48 min | USD | Low | ISM Non-Manufacturing Business Activity (Mar) |  |  | 54.4 |
-| 48 min | USD | Moderate | ISM Non-Manufacturing Employment (Mar) |  |  | 53.9 |
-| 48 min | USD | Low | ISM Non-Manufacturing New Orders (Mar) |  |  | 52.2 |
-| 48 min | USD | High | ISM Non-Manufacturing PMI (Mar) |  | 53.0 | 53.5 |
-| 48 min | USD | High | ISM Non-Manufacturing Prices (Mar) |  |  | 62.6 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 27B | 37B |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) | 53.5 | 53.5 | 51.6 |
+| 14:45 | USD | High | S&P Global Services PMI (Mar) | 54.4 | 54.3 | 51.0 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Mar) | 55.9 |  | 54.4 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Mar) | 46.2 |  | 53.9 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Mar) | 50.4 |  | 52.2 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) | 50.8 | 53.0 | 53.5 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) | 60.9 |  | 62.6 |
+| 23 min | USD | Low | Natural Gas Storage |  | 27B | 37B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.245% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |

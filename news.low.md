@@ -32,9 +32,9 @@
 | 13:30 | CAD | Imports (Feb) | 71.63B |  | 71.08B |
 | 14:00 | BRL | S&P Global Composite PMI (Mar) | 52.6 |  | 51.2 |
 | 14:00 | BRL | S&P Global Services PMI (Mar) | 52.5 |  | 50.6 |
-| 48 min | USD | ISM Non-Manufacturing Business Activity (Mar) |  |  | 54.4 |
-| 48 min | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 52.2 |
-| 15:30 | USD | Natural Gas Storage |  | 27B | 37B |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 55.9 |  | 54.4 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 50.4 |  | 52.2 |
+| 23 min | USD | Natural Gas Storage |  | 27B | 37B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.245% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
