@@ -33,7 +33,7 @@
 | 13:30 | CAD | Full Employment Change (Mar) | -62.0K |  | -19.7K |
 | 13:30 | CAD | Part Time Employment Change (Mar) | 29.5K |  | 20.8K |
 | 13:30 | CAD | Participation Rate (Mar) | 65.2% |  | 65.3% |
-| 54 min | BRL | Trade Balance (Mar) |  |  | -0.32B |
+| 19:00 | BRL | Trade Balance (Mar) | 8.15B |  | -0.32B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 200.4K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 06:00 | INR | Low | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
@@ -52,7 +52,7 @@
 | 17:45 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 489 | 483 | 484 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 590 |  | 592 |
-| 54 min | BRL | Low | Trade Balance (Mar) |  |  | -0.32B |
+| 19:00 | BRL | Low | Trade Balance (Mar) | 8.15B |  | -0.32B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 25.2K |
