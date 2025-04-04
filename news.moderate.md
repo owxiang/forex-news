@@ -14,9 +14,9 @@
 | 13:30 | CAD | Employment Change (Mar) | -32.6K | 10.4K | 1.1K |
 | 13:30 | CAD | Unemployment Rate (Mar) | 6.7% | 6.7% | 6.6% |
 | 17:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 38 min | USD | Fed Waller Speaks |  |  |  |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  | 483 | 484 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 17:45 | USD | Fed Waller Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 489 | 483 | 484 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 590 |  | 592 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 29.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 180.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 257.9K |
