@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 00:30 | JPY | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
+| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) | 0.0% | 3.4% | -5.5% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (Mar) | 46.4 | 46.3 | 44.6 |
-| 19 min | USD | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.9% | 4.0% |
-| 19 min | USD | Participation Rate (Mar) |  |  | 62.4% |
-| 19 min | USD | Private Nonfarm Payrolls (Mar) |  | 127K | 140K |
-| 19 min | USD | U6 Unemployment Rate (Mar) |  |  | 8.0% |
-| 19 min | CAD | Employment Change (Mar) |  | 10.4K | 1.1K |
-| 19 min | CAD | Unemployment Rate (Mar) |  | 6.7% | 6.6% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Mar) | 3.8% | 3.9% | 4.0% |
+| 13:30 | USD | Participation Rate (Mar) | 62.5% |  | 62.4% |
+| 13:30 | USD | Private Nonfarm Payrolls (Mar) | 209K | 127K | 116K |
+| 13:30 | USD | U6 Unemployment Rate (Mar) | 7.9% |  | 8.0% |
+| 13:30 | CAD | Employment Change (Mar) | -32.6K | 10.4K | 1.1K |
+| 13:30 | CAD | Unemployment Rate (Mar) | 6.7% | 6.7% | 6.6% |
 | 17:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:45 | USD | Fed Waller Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 483 | 484 |

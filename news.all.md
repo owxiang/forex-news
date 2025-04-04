@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 06:00 | INR | Low | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) | 2.9% |  | 2.9% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) | 2.8% | 2.7% | 2.7% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.0% | 3.4% | -5.5% |
@@ -31,23 +31,23 @@
 | 12:30 | INR | Low | Deposit Growth | 10.3% |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 665.40B |  | 658.80B |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) | 46.0 |  | 46.3 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
-| 19 min | USD | High | Average Hourly Earnings (MoM) (Mar) |  | 0.3% | 0.3% |
-| 19 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.9% | 4.0% |
-| 19 min | USD | Low | Average Weekly Hours (Mar) |  | 34.2 | 34.1 |
-| 19 min | USD | Low | Government Payrolls (Mar) |  |  | 11.0K |
-| 19 min | USD | Low | Manufacturing Payrolls (Mar) |  | 4K | 10K |
-| 19 min | USD | High | Nonfarm Payrolls (Mar) |  | 137K | 151K |
-| 19 min | USD | Moderate | Participation Rate (Mar) |  |  | 62.4% |
-| 19 min | USD | Moderate | Private Nonfarm Payrolls (Mar) |  | 127K | 140K |
-| 19 min | USD | Moderate | U6 Unemployment Rate (Mar) |  |  | 8.0% |
-| 19 min | USD | High | Unemployment Rate (Mar) |  | 4.1% | 4.1% |
-| 19 min | CAD | Low | Avg hourly wages Permanent employee (Mar) |  |  | 4.0% |
-| 19 min | CAD | Moderate | Employment Change (Mar) |  | 10.4K | 1.1K |
-| 19 min | CAD | Low | Full Employment Change (Mar) |  |  | -19.7K |
-| 19 min | CAD | Low | Part Time Employment Change (Mar) |  |  | 20.8K |
-| 19 min | CAD | Low | Participation Rate (Mar) |  |  | 65.3% |
-| 19 min | CAD | Moderate | Unemployment Rate (Mar) |  | 6.7% | 6.6% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) | 3.8% | 3.9% | 4.0% |
+| 13:30 | USD | Low | Average Weekly Hours (Mar) | 34.2 | 34.2 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Mar) | 19.0K |  | 1.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Mar) | 1K | 4K | 8K |
+| 13:30 | USD | High | Nonfarm Payrolls (Mar) | 228K | 137K | 117K |
+| 13:30 | USD | Moderate | Participation Rate (Mar) | 62.5% |  | 62.4% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) | 209K | 127K | 116K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Mar) | 7.9% |  | 8.0% |
+| 13:30 | USD | High | Unemployment Rate (Mar) | 4.2% | 4.1% | 4.1% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Mar) | 3.5% |  | 4.0% |
+| 13:30 | CAD | Moderate | Employment Change (Mar) | -32.6K | 10.4K | 1.1K |
+| 13:30 | CAD | Low | Full Employment Change (Mar) | -62.0K |  | -19.7K |
+| 13:30 | CAD | Low | Part Time Employment Change (Mar) | 29.5K |  | 20.8K |
+| 13:30 | CAD | Low | Participation Rate (Mar) | 65.2% |  | 65.3% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Mar) | 6.7% | 6.7% | 6.6% |
+| 18 min | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
 | 16:25 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 17:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:45 | USD | Moderate | Fed Waller Speaks |  |  |  |
