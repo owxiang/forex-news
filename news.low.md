@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | INR | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
-| 06:00 | SGD | Retail Sales (MoM) (Feb) |  |  | 2.4% |
-| 06:00 | SGD | Retail Sales (YoY) (Feb) |  |  | 4.5% |
+| 52 min | INR | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
+| 52 min | SGD | Retail Sales (MoM) (Feb) |  |  | 2.4% |
+| 52 min | SGD | Retail Sales (YoY) (Feb) |  |  | 4.5% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |

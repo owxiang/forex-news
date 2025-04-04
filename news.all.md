@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
-| 06:00 | INR | Low | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) |  |  | 2.4% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Feb) |  |  | 4.5% |
+| 52 min | INR | Low | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
+| 52 min | SGD | Low | Retail Sales (MoM) (Feb) |  |  | 2.4% |
+| 52 min | SGD | Low | Retail Sales (YoY) (Feb) |  |  | 4.5% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 3.4% | -7.0% |
