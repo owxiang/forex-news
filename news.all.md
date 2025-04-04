@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
-| 52 min | INR | Low | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
-| 52 min | SGD | Low | Retail Sales (MoM) (Feb) |  |  | 2.4% |
-| 52 min | SGD | Low | Retail Sales (YoY) (Feb) |  |  | 4.5% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 3.4% | -7.0% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
+| 06:00 | INR | Low | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
+| 38 min | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
+| 38 min | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
+| 53 min | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 3.4% | -7.0% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Feb) |  |  | -1.0% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 48.2 |
@@ -34,10 +34,10 @@
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 3.9% | 4.0% |
 | 13:30 | USD | Low | Average Weekly Hours (Mar) |  | 34.2 | 34.1 |
 | 13:30 | USD | Low | Government Payrolls (Mar) |  |  | 11.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Mar) |  | 5K | 10K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Mar) |  | 4K | 10K |
 | 13:30 | USD | High | Nonfarm Payrolls (Mar) |  | 137K | 151K |
 | 13:30 | USD | Moderate | Participation Rate (Mar) |  |  | 62.4% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) |  | 130K | 140K |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) |  | 127K | 140K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Mar) |  |  | 8.0% |
 | 13:30 | USD | High | Unemployment Rate (Mar) |  | 4.1% | 4.1% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Mar) |  |  | 4.0% |

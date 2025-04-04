@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | INR | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
-| 52 min | SGD | Retail Sales (MoM) (Feb) |  |  | 2.4% |
-| 52 min | SGD | Retail Sales (YoY) (Feb) |  |  | 4.5% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
-| 06:45 | CHF | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
+| 06:00 | INR | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
+| 06:00 | SGD | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
+| 38 min | CHF | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
+| 38 min | CHF | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) |  |  | -1.0% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 48.2 |
@@ -27,7 +27,7 @@
 | 13:00 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
 | 13:30 | USD | Average Weekly Hours (Mar) |  | 34.2 | 34.1 |
 | 13:30 | USD | Government Payrolls (Mar) |  |  | 11.0K |
-| 13:30 | USD | Manufacturing Payrolls (Mar) |  | 5K | 10K |
+| 13:30 | USD | Manufacturing Payrolls (Mar) |  | 4K | 10K |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Mar) |  |  | 4.0% |
 | 13:30 | CAD | Full Employment Change (Mar) |  |  | -19.7K |
 | 13:30 | CAD | Part Time Employment Change (Mar) |  |  | 20.8K |
