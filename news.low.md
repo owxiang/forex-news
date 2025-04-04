@@ -34,14 +34,14 @@
 | 13:30 | CAD | Part Time Employment Change (Mar) | 29.5K |  | 20.8K |
 | 13:30 | CAD | Participation Rate (Mar) | 65.2% |  | 65.3% |
 | 19:00 | BRL | Trade Balance (Mar) | 8.15B |  | -0.32B |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 25.2K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | 200.4K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -131.9K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 62.3K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -14.4K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -82.5K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -136.6K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 56.0K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -34.4K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -40.4K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 1.3K |  | 1.9K |
+| 20:30 | USD | CFTC Copper speculative net positions | 30.0K |  | 25.2K |
+| 20:30 | USD | CFTC Corn speculative net positions | 166.9K |  | 200.4K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -122.6K |  | -131.9K |
+| 20:30 | USD | CFTC Silver speculative net positions | 57.3K |  | 62.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -3.5K |  | -14.4K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -102.8K |  | -82.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -130.0K |  | -136.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 51.1K |  | 56.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -42.8K |  | -34.4K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -45.0K |  | -40.4K |
