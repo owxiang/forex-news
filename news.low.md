@@ -7,16 +7,16 @@
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Mar) | 2.9% |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Mar) | 2.8% | 2.7% | 2.7% |
-| 36 min | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
-| 51 min | EUR | Spanish Industrial Production (YoY) (Feb) |  |  | -1.0% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 48.2 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Mar) |  |  | 41.2 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 39.8 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
-| 09:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
-| 09:00 | EUR | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
+| 07:45 | EUR | French Industrial Production (MoM) (Feb) | 0.7% | 0.5% | -0.5% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) | -1.9% |  | -1.2% |
+| 24 min | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 48.2 |
+| 24 min | EUR | HCOB Germany Construction PMI (Mar) |  |  | 41.2 |
+| 24 min | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 39.8 |
+| 24 min | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
+| 54 min | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
+| 54 min | EUR | Italian Public Deficit (Q4) |  |  | 2.3% |
+| 54 min | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
+| 54 min | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
 | 10:30 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 11:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
