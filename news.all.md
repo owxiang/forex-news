@@ -12,17 +12,17 @@
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.0% | 3.4% | -5.5% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) | 0.7% | 0.5% | -0.5% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Feb) | -1.9% |  | -1.2% |
-| 24 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 48.2 |
-| 24 min | EUR | Low | HCOB Germany Construction PMI (Mar) |  |  | 41.2 |
-| 24 min | EUR | Low | HCOB France Construction PMI (MoM) (Mar) |  |  | 39.8 |
-| 24 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
-| 54 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
-| 54 min | EUR | Low | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 54 min | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
-| 54 min | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
-| 54 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) |  | 46.3 | 44.6 |
-| 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) | 52.4 |  | 48.2 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) | 40.3 |  | 41.2 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) | 43.8 |  | 39.8 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.8 |  | 42.7 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.4% |
+| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 20 min | GBP | Moderate | S&P Global Construction PMI (Mar) |  | 46.3 | 44.6 |
+| 20 min | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
+| 50 min | EUR | Low | Italian Public Deficit (Q4) |  |  | 2.3% |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
 | 12:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
