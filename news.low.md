@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | INR | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
-| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Mar) | 2.9% |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Mar) | 2.8% | 2.7% | 2.7% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) | 0.7% | 0.5% | -0.5% |
@@ -33,7 +33,7 @@
 | 13:30 | CAD | Full Employment Change (Mar) | -62.0K |  | -19.7K |
 | 13:30 | CAD | Part Time Employment Change (Mar) | 29.5K |  | 20.8K |
 | 13:30 | CAD | Participation Rate (Mar) | 65.2% |  | 65.3% |
-| 18 min | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
+| 23 min | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
 | 19:00 | BRL | Trade Balance (Mar) |  |  | -0.32B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |

@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
 | 06:00 | INR | Low | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) | 2.9% |  | 2.9% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) | 2.8% | 2.7% | 2.7% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.0% | 3.4% | -5.5% |
@@ -31,8 +31,8 @@
 | 12:30 | INR | Low | Deposit Growth | 10.3% |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 665.40B |  | 658.80B |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) | 46.0 |  | 46.3 |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) | 3.8% | 3.9% | 4.0% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (Mar) | 34.2 | 34.2 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Mar) | 19.0K |  | 1.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Mar) | 1K | 4K | 8K |
@@ -47,7 +47,7 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Mar) | 29.5K |  | 20.8K |
 | 13:30 | CAD | Low | Participation Rate (Mar) | 65.2% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Mar) | 6.7% | 6.7% | 6.6% |
-| 18 min | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
+| 23 min | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
 | 16:25 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 17:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:45 | USD | Moderate | Fed Waller Speaks |  |  |  |
