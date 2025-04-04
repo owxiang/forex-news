@@ -7,19 +7,19 @@
 | 06:00 | INR | Low | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
-| 38 min | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
-| 38 min | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
-| 53 min | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 3.4% | -7.0% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Feb) |  |  | -1.0% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) | 2.9% |  | 2.9% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) | 2.8% | 2.7% | 2.7% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.0% | 3.4% | -5.5% |
+| 36 min | EUR | Low | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
+| 51 min | EUR | Low | Spanish Industrial Production (YoY) (Feb) |  |  | -1.0% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 48.2 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) |  |  | 41.2 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) |  |  | 39.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 09:00 | EUR | Low | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) |  | 46.3 | 44.6 |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
