@@ -14,8 +14,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 43.8 |  | 39.8 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.8 |  | 42.7 |
 | 09:00 | GBP | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
 | 09:00 | EUR | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -13.4B | -10.8B | -12.5B |
 | 09:50 | EUR | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |

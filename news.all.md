@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
 | 06:00 | INR | Low | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
@@ -17,8 +17,8 @@
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) | 43.8 |  | 39.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.8 |  | 42.7 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
 | 09:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) | 46.4 | 46.3 | 44.6 |
