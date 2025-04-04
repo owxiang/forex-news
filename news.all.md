@@ -18,8 +18,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 09:00 | EUR | Low | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) |  | 46.3 | 44.6 |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |

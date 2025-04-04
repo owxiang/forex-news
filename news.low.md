@@ -15,8 +15,8 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
 | 09:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 09:00 | EUR | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
 | 10:30 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 11:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
