@@ -5,8 +5,8 @@
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
 | 06:00 | INR | Low | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) | 2.9% |  | 2.9% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) | 2.8% | 2.7% | 2.7% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.0% | 3.4% | -5.5% |
@@ -47,11 +47,11 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Mar) | 29.5K |  | 20.8K |
 | 13:30 | CAD | Low | Participation Rate (Mar) | 65.2% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Mar) | 6.7% | 6.7% | 6.6% |
-| 19 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 54 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:45 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 483 | 484 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
+| 16:25 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 17:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 38 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 483 | 484 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 592 |
 | 19:00 | BRL | Low | Trade Balance (Mar) |  |  | -0.32B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.9K |
