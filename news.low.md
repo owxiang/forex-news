@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | INR | S&P Global Services PMI (Mar) |  | 57.7 | 59.0 |
-| 06:00 | SGD | Retail Sales (MoM) (Feb) |  |  | 2.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) |  |  | 4.5% |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) |  |  | 2.4% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Mar) |  |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Mar) |  | 2.7% | 2.7% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -0.6% |
@@ -15,8 +15,8 @@
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.7 |
 | 09:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 09:00 | EUR | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
 | 10:30 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 11:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |

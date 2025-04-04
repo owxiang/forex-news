@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Household Spending (MoM) (Feb) |  | 0.5% | -4.5% |
-| 24 min | JPY | Household Spending (YoY) (Feb) |  | -0.9% | 0.8% |
+| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -0.9% | 0.8% |
+| 00:30 | JPY | Household Spending (MoM) (Feb) | 3.5% | 0.5% | -4.5% |
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) |  | 3.4% | -7.0% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | GBP | S&P Global Construction PMI (Mar) |  | 46.3 | 44.6 |
