@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | INR | S&P Global Services PMI (Mar) | 58.5 | 57.7 | 59.0 |
-| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | -3.6% |  | 4.7% |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | 2.8% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Mar) | 2.9% |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Mar) | 2.8% | 2.7% | 2.7% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) | 0.7% | 0.5% | -0.5% |
@@ -21,18 +21,19 @@
 | 09:50 | EUR | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Mar) | 357,103.0 |  | 84,054.0 |
 | 10:00 | EUR | Italian Public Deficit (Q4) | -0.4% |  | 2.7% |
-| 53 min | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
-| 53 min | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | 1.00% |
-| 12:30 | INR | FX Reserves, USD |  |  | 658.80B |
-| 13:00 | MXN | Consumer Confidence (Mar) |  |  | 46.3 |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) | -0.50% |  | 1.00% |
+| 12:30 | INR | Bank Loan Growth | 11.0% |  | 11.1% |
+| 12:30 | INR | Deposit Growth | 10.3% |  | 10.2% |
+| 12:30 | INR | FX Reserves, USD | 665.40B |  | 658.80B |
+| 13:00 | MXN | Consumer Confidence (Mar) | 46.0 |  | 46.3 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
-| 13:30 | USD | Average Weekly Hours (Mar) |  | 34.2 | 34.1 |
-| 13:30 | USD | Government Payrolls (Mar) |  |  | 11.0K |
-| 13:30 | USD | Manufacturing Payrolls (Mar) |  | 4K | 10K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Mar) |  |  | 4.0% |
-| 13:30 | CAD | Full Employment Change (Mar) |  |  | -19.7K |
-| 13:30 | CAD | Part Time Employment Change (Mar) |  |  | 20.8K |
-| 13:30 | CAD | Participation Rate (Mar) |  |  | 65.3% |
+| 19 min | USD | Average Weekly Hours (Mar) |  | 34.2 | 34.1 |
+| 19 min | USD | Government Payrolls (Mar) |  |  | 11.0K |
+| 19 min | USD | Manufacturing Payrolls (Mar) |  | 4K | 10K |
+| 19 min | CAD | Avg hourly wages Permanent employee (Mar) |  |  | 4.0% |
+| 19 min | CAD | Full Employment Change (Mar) |  |  | -19.7K |
+| 19 min | CAD | Part Time Employment Change (Mar) |  |  | 20.8K |
+| 19 min | CAD | Participation Rate (Mar) |  |  | 65.3% |
 | 19:00 | BRL | Trade Balance (Mar) |  |  | -0.32B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.9K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 25.2K |
