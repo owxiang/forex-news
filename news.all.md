@@ -17,14 +17,15 @@
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) | 43.8 |  | 39.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.8 |  | 42.7 |
 | 09:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20 min | GBP | Moderate | S&P Global Construction PMI (Mar) |  | 46.3 | 44.6 |
-| 20 min | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
-| 50 min | EUR | Low | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 10:30 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (Mar) | 46.4 | 46.3 | 44.6 |
+| 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -13.4B | -10.8B | -12.5B |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Mar) | 357,103.0 |  | 84,054.0 |
+| 10:00 | EUR | Low | Italian Public Deficit (Q4) | 0.4% |  | 2.7% |
+| 23 min | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
+| 53 min | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
 | 12:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | 1.00% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 658.80B |

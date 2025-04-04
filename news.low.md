@@ -14,12 +14,13 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 43.8 |  | 39.8 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 44.8 |  | 42.7 |
 | 09:00 | GBP | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.4% |
-| 20 min | GBP | Housing Equity Withdrawal (QoQ) |  | -10.8B | -12.5B |
-| 50 min | EUR | Italian Public Deficit (Q4) |  |  | 2.3% |
-| 10:30 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
-| 11:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | -1.5% |  | 0.9% |
+| 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -13.4B | -10.8B | -12.5B |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Mar) | 357,103.0 |  | 84,054.0 |
+| 10:00 | EUR | Italian Public Deficit (Q4) | 0.4% |  | 2.7% |
+| 23 min | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
+| 53 min | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
 | 12:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | 1.00% |
 | 12:30 | INR | FX Reserves, USD |  |  | 658.80B |
