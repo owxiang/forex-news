@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 10:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 9 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
