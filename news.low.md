@@ -11,8 +11,8 @@
 | 03:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:00 | IDR | FX Reserves (USD) (Mar) |  |  | 154.50B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  |  | 0.1% |
-| 06:00 | JPY | Leading Index (MoM) (Feb) |  |  | 0.4% |
 | 06:00 | JPY | Leading Index (Feb) |  | 107.8 | 108.3 |
+| 06:00 | JPY | Leading Index (MoM) (Feb) |  |  | 0.4% |
 | 07:00 | EUR | German Exports (MoM) (Feb) |  |  | -2.5% |
 | 07:00 | EUR | German Imports (MoM) (Feb) |  |  | 1.2% |
 | 07:00 | EUR | German Industrial Production (YoY) (Feb) |  |  | -1.49% |
