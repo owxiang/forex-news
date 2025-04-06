@@ -11,8 +11,8 @@
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Mar) |  |  | 154.50B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | 0.1% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  |  | 0.4% |
 | 06:00 | JPY | Low | Leading Index (Feb) |  | 107.8 | 108.3 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  |  | 0.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  |  | 2.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.2% | -0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Feb) |  |  | -2.5% |
