@@ -9,8 +9,8 @@
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Mar) | 0.4% |  | -1.3% |
 | 03:00 | CNY | FX Reserves (USD) (Mar) | 3.241T |  | 3.227T |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | 0.8% |  | 0.1% |
-| 06:00 | JPY | Leading Index (MoM) (Feb) | -0.3% |  | 0.4% |
 | 06:00 | JPY | Leading Index (Feb) | 107.9 | 107.8 | 108.2 |
+| 06:00 | JPY | Leading Index (MoM) (Feb) | -0.3% |  | 0.4% |
 | 07:00 | EUR | German Exports (MoM) (Feb) | 1.8% |  | 0.0% |
 | 07:00 | EUR | German Imports (MoM) (Feb) | 0.7% |  | 5.0% |
 | 07:00 | EUR | German Industrial Production (YoY) (Feb) | -4.00% |  | -1.49% |
@@ -43,4 +43,4 @@
 | 16:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.96M |  | 8.93M |
 | 16:45 | USD | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.92M |
 | 16:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.91M |
-| 54 min | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
+| 22:00 | NZD | NZIER QSBO Capacity Utilization (Q4) | 90.5% |  | 91.3% |

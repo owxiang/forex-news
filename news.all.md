@@ -9,8 +9,8 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) | 0.4% |  | -1.3% |
 | 03:00 | CNY | Low | FX Reserves (USD) (Mar) | 3.241T |  | 3.227T |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | 0.8% |  | 0.1% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | -0.3% |  | 0.4% |
 | 06:00 | JPY | Low | Leading Index (Feb) | 107.9 | 107.8 | 108.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | -0.3% |  | 0.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 2.8% |  | 2.8% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -0.5% | 0.2% | -0.2% |
 | 07:00 | EUR | Low | German Exports (MoM) (Feb) | 1.8% |  | 0.0% |
@@ -50,5 +50,5 @@
 | 16:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.92M |
 | 16:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.91M |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) | -0.81B | 15.20B | 8.90B |
-| 54 min | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | 16% |
-| 54 min | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
+| 22:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 90.5% |  | 91.3% |
+| 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) | 19% |  | 16% |
