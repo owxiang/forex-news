@@ -18,18 +18,17 @@
 | 07:00 | ZAR | Foreign Reserves (USD) (Mar) | 67.45B |  | 66.26B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Mar) | 63.167B |  | 61.733B |
 | 08:00 | CHF | Foreign Reserves (USD) (Mar) | 725.6B |  | 735.4B |
-| 21 min | HKD | Foreign Reserves (USD) (Mar) |  |  | 416.40B |
-| 21 min | EUR | Sentix Investor Confidence (Apr) |  | -8.9 | -2.9 |
-| 51 min | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 379.3B |
-| 51 min | EUR | Retail Sales (MoM) (Feb) |  | 0.5% | -0.3% |
-| 51 min | EUR | Retail Sales (YoY) (Feb) |  | 1.8% | 1.5% |
+| 09:30 | HKD | Foreign Reserves (USD) (Mar) | 413.10B |  | 416.40B |
+| 09:30 | EUR | Sentix Investor Confidence (Apr) | -19.5 | -8.9 | -2.9 |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) | 381.1B |  | 379.3B |
+| 10:00 | EUR | Retail Sales (YoY) (Feb) | 2.3% | 1.8% | 1.8% |
+| 10:00 | EUR | Retail Sales (MoM) (Feb) | 0.3% | 0.5% | 0.0% |
 | 12:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.16% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.131% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.244% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.211% |
 | 15:00 | USD | CB Employment Trends Index (Mar) |  |  | 108.56 |
-| 15:30 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 46.5 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.205% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.070% |
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
