@@ -43,4 +43,4 @@
 | 16:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.96M |  | 8.93M |
 | 16:45 | USD | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.92M |
 | 16:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.91M |
-| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
+| 54 min | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |

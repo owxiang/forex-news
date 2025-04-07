@@ -9,4 +9,4 @@
 | 13:00 | GBP | Mortgage Rate (GBP) (Mar) | 7.23% |  | 7.33% |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 20:00 | USD | Consumer Credit (Feb) | -0.81B | 15.20B | 8.90B |
-| 23:00 | NZD | NZIER Business Confidence (Q1) |  |  | 16% |
+| 54 min | NZD | NZIER Business Confidence (Q1) |  |  | 16% |

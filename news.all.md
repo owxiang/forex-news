@@ -50,5 +50,5 @@
 | 16:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.92M |
 | 16:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.91M |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) | -0.81B | 15.20B | 8.90B |
-| 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | 16% |
-| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
+| 54 min | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | 16% |
+| 54 min | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
