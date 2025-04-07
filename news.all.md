@@ -2,13 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Low | Average Cash Earnings (YoY) | 3.1% |  | 2.8% |
+| 00:30 | JPY | Low | Average Cash Earnings (YoY) | 3.1% |  | 1.8% |
 | 00:30 | JPY | Low | Overall wage income of employees (Feb) | 3.1% |  | 1.8% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Feb) | 2.20% |  | 1.50% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,272.5B |  | 1,253.3B |
-| 01:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) |  |  | -1.4% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) |  |  | 4.0% |
-| 03:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) | 0.4% |  | -1.3% |
+| 25 min | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Mar) |  |  | 154.50B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | 0.1% |
 | 06:00 | JPY | Low | Leading Index (Feb) |  | 107.8 | 108.3 |
