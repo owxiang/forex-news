@@ -9,8 +9,8 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) | 0.4% |  | -1.3% |
 | 03:00 | CNY | Low | FX Reserves (USD) (Mar) | 3.241T |  | 3.227T |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | 0.8% |  | 0.1% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | -0.3% |  | 0.4% |
 | 06:00 | JPY | Low | Leading Index (Feb) | 107.9 | 107.8 | 108.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | -0.3% |  | 0.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 2.8% |  | 2.8% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -0.5% | 0.2% | -0.2% |
 | 07:00 | EUR | Low | German Exports (MoM) (Feb) | 1.8% |  | 0.0% |
@@ -26,13 +26,13 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -19.5 | -8.9 | -2.9 |
 | 09:40 | GBP | Moderate | Mortgage Rate (GBP) (Mar) | 7.23% |  | 7.33% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 381.1B |  | 379.3B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 2.3% | 1.8% | 1.8% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | 0.3% | 0.5% | 0.0% |
-| 12:00 | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.16% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.131% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.244% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.211% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 2.3% | 1.8% | 1.8% |
+| 12:00 | CAD | Low | Leading Index (MoM) (Mar) | 0.07% |  | 0.10% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.131% |
+| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.244% |
+| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.211% |
 | 15:00 | USD | Low | CB Employment Trends Index (Mar) |  |  | 108.56 |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.205% |
