@@ -29,6 +29,18 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 2.212% |  | 2.244% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.092% |  | 2.211% |
 | 15:00 | USD | CB Employment Trends Index (Mar) | 109.03 |  | 108.47 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.205% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.070% |
+| 16:30 | USD | 3-Month Bill Auction | 4.175% |  | 4.205% |
+| 16:30 | USD | 6-Month Bill Auction | 4.000% |  | 4.070% |
+| 16:45 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.91M |  | 0.91M |
+| 16:45 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 16:45 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 16:45 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
+| 16:45 | USD | OPEC Crude oil Production Iran (Barrel) | 3.25M |  | 3.30M |
+| 16:45 | USD | OPEC Crude oil Production Iraq (Barrel) | 3.99M |  | 3.98M |
+| 16:45 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.40M |  | 2.40M |
+| 16:45 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.29M |  | 1.28M |
+| 16:45 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.52M |  | 1.57M |
+| 16:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.96M |  | 8.93M |
+| 16:45 | USD | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.92M |
+| 16:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.91M |
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |

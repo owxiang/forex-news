@@ -35,8 +35,20 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.092% |  | 2.211% |
 | 15:00 | USD | Low | CB Employment Trends Index (Mar) | 109.03 |  | 108.47 |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.205% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.070% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.175% |  | 4.205% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.000% |  | 4.070% |
+| 16:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.91M |  | 0.91M |
+| 16:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 16:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 16:45 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.06M |
+| 16:45 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.25M |  | 3.30M |
+| 16:45 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.99M |  | 3.98M |
+| 16:45 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.40M |  | 2.40M |
+| 16:45 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.29M |  | 1.28M |
+| 16:45 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.52M |  | 1.57M |
+| 16:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.96M |  | 8.93M |
+| 16:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.92M |
+| 16:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.91M |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 15.20B | 18.08B |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | 16% |
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
