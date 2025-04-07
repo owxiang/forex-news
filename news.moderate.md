@@ -1,12 +1,14 @@
-## 07 April 2025 - Moderate Impact Forex News
+## 08 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Halifax House Price Index (YoY) (Mar) | 2.8% |  | 2.8% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Mar) | -0.5% | 0.2% | -0.2% |
-| 07:00 | EUR | German Industrial Production (MoM) (Feb) | -1.3% | -0.9% | 2.0% |
-| 07:00 | EUR | German Trade Balance (Feb) | 17.7B | 18.4B | 16.2B |
-| 13:00 | GBP | Mortgage Rate (GBP) (Mar) | 7.23% |  | 7.33% |
-| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
-| 20:00 | USD | Consumer Credit (Feb) | -0.81B | 15.20B | 8.90B |
-| 23:00 | NZD | NZIER Business Confidence (Q1) | 19% |  | 16% |
+| 44 min | JPY | Adjusted Current Account (Feb) |  | 2.74T | 1.94T |
+| 44 min | JPY | Current Account n.s.a. (Feb) |  | 3.800T | -0.258T |
+| 02:30 | AUD | NAB Business Confidence (Mar) |  |  | -1 |
+| 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 75.3% |
+| 15:00 | CAD | Ivey PMI (Mar) |  | 53.2 | 55.3 |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 3.908% |
+| 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 6.037M |
