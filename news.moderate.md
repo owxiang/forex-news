@@ -7,6 +7,6 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Feb) | -1.3% | -0.9% | 2.0% |
 | 07:00 | EUR | German Trade Balance (Feb) | 17.7B | 18.4B | 16.2B |
 | 13:00 | GBP | Mortgage Rate (GBP) (Mar) | 7.23% |  | 7.33% |
-| 23 min | CAD | BoC Business Outlook Survey |  |  |  |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 20:00 | USD | Consumer Credit (Feb) |  | 15.20B | 18.08B |
 | 23:00 | NZD | NZIER Business Confidence (Q1) |  |  | 16% |
