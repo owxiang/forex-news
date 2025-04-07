@@ -8,8 +8,8 @@
 | 00:50 | JPY | Foreign Reserves (USD) (Mar) | 1,272.5B |  | 1,253.3B |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Mar) | 0.4% |  | -1.3% |
 | 03:02 | CNY | FX Reserves (USD) (Mar) | 3.241T |  | 3.227T |
-| 26 min | IDR | FX Reserves (USD) (Mar) |  |  | 154.50B |
-| 56 min | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 04:00 | IDR | FX Reserves (USD) (Mar) |  |  | 154.50B |
+| 04:30 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  |  | 0.1% |
 | 06:00 | JPY | Leading Index (MoM) (Feb) |  |  | 0.4% |
 | 06:00 | JPY | Leading Index (Feb) |  | 107.8 | 108.3 |

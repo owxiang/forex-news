@@ -8,13 +8,13 @@
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,272.5B |  | 1,253.3B |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Mar) | 0.4% |  | -1.3% |
 | 03:02 | CNY | Low | FX Reserves (USD) (Mar) | 3.241T |  | 3.227T |
-| 26 min | IDR | Low | FX Reserves (USD) (Mar) |  |  | 154.50B |
-| 56 min | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 04:00 | IDR | Low | FX Reserves (USD) (Mar) |  |  | 154.50B |
+| 04:30 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | 0.1% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  |  | 0.4% |
 | 06:00 | JPY | Low | Leading Index (Feb) |  | 107.8 | 108.3 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.2% | -0.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  |  | 2.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.2% | -0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Feb) |  |  | -2.5% |
 | 07:00 | EUR | Low | German Imports (MoM) (Feb) |  |  | 1.2% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Feb) |  | -0.9% | 2.0% |
