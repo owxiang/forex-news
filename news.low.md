@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Average Cash Earnings (YoY) | 3.1% |  | 1.8% |
+| 00:30 | JPY | Average Cash Earnings (YoY) | 3.1% | 3.1% | 1.8% |
 | 00:30 | JPY | Overall wage income of employees (Feb) | 3.1% |  | 1.8% |
 | 00:30 | JPY | Overtime Pay (YoY) (Feb) | 2.20% |  | 1.50% |
 | 00:50 | JPY | Foreign Reserves (USD) (Mar) | 1,272.5B |  | 1,253.3B |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Mar) | 0.4% |  | -1.3% |
-| 03:02 | CNY | FX Reserves (USD) (Mar) | 3.241T |  | 3.227T |
-| 52 min | JPY | Coincident Indicator (MoM) (Feb) |  |  | 0.1% |
-| 52 min | JPY | Leading Index (Feb) |  | 107.8 | 108.3 |
-| 52 min | JPY | Leading Index (MoM) (Feb) |  |  | 0.4% |
-| 52 min | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
-| 07:00 | EUR | German Exports (MoM) (Feb) |  |  | -2.5% |
-| 07:00 | EUR | German Imports (MoM) (Feb) |  |  | 1.2% |
-| 07:00 | EUR | German Industrial Production (YoY) (Feb) |  |  | -1.49% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Feb) |  |  | -1.5% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Mar) |  |  | 66.26B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Mar) |  |  | 61.733B |
-| 08:00 | CHF | Foreign Reserves (USD) (Mar) |  |  | 735,371.0B |
+| 03:00 | CNY | FX Reserves (USD) (Mar) | 3.241T |  | 3.227T |
+| 06:00 | JPY | Coincident Indicator (MoM) (Feb) | 0.8% |  | 0.1% |
+| 06:00 | JPY | Leading Index (Feb) | 107.9 | 107.8 | 108.3 |
+| 06:00 | JPY | Leading Index (MoM) (Feb) | -0.3% |  | 0.4% |
+| 06:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 53 min | EUR | German Exports (MoM) (Feb) |  |  | -2.5% |
+| 53 min | EUR | German Imports (MoM) (Feb) |  |  | 1.2% |
+| 53 min | EUR | German Industrial Production (YoY) (Feb) |  |  | -1.49% |
+| 53 min | NOK | Manufacturing Production (MoM) (Feb) |  |  | -1.5% |
+| 53 min | ZAR | Foreign Reserves (USD) (Mar) |  |  | 66.26B |
+| 53 min | ZAR | Net FX Reserves (USD) (Mar) |  |  | 61.733B |
+| 08:00 | CHF | Foreign Reserves (USD) (Mar) |  |  | 735.4B |
 | 09:30 | HKD | Foreign Reserves (USD) (Mar) |  |  | 416.40B |
 | 09:30 | EUR | Sentix Investor Confidence (Apr) |  | -8.9 | -2.9 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 379.3B |
