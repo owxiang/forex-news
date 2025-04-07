@@ -26,9 +26,9 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -19.5 | -8.9 | -2.9 |
 | 09:40 | GBP | Moderate | Mortgage Rate (GBP) (Mar) | 7.23% |  | 7.33% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 381.1B |  | 379.3B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 2.3% | 1.8% | 1.8% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | 0.3% | 0.5% | 0.0% |
-| 12:00 | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.16% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 2.3% | 1.8% | 1.8% |
+| 53 min | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.16% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.131% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.244% |
