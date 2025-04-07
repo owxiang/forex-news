@@ -17,13 +17,12 @@
 | 07:00 | NOK | Manufacturing Production (MoM) (Feb) | 1.4% |  | -1.6% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Mar) | 67.45B |  | 66.26B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Mar) | 63.167B |  | 61.733B |
-| 50 min | CHF | Foreign Reserves (USD) (Mar) |  |  | 735.4B |
-| 50 min | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 08:00 | CHF | Foreign Reserves (USD) (Mar) | 725.6B |  | 735.4B |
 | 09:30 | HKD | Foreign Reserves (USD) (Mar) |  |  | 416.40B |
 | 09:30 | EUR | Sentix Investor Confidence (Apr) |  | -8.9 | -2.9 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) |  |  | 379.3B |
-| 10:00 | EUR | Retail Sales (MoM) (Feb) |  | 0.5% | -0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (Feb) |  | 1.8% | 1.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Feb) |  | 0.5% | -0.3% |
 | 12:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.16% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.131% |
