@@ -21,8 +21,8 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Mar) | 413.10B |  | 416.40B |
 | 09:30 | EUR | Sentix Investor Confidence (Apr) | -19.5 | -8.9 | -2.9 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Mar) | 381.1B |  | 379.3B |
-| 10:00 | EUR | Retail Sales (MoM) (Feb) | 0.3% | 0.5% | 0.0% |
 | 10:00 | EUR | Retail Sales (YoY) (Feb) | 2.3% | 1.8% | 1.8% |
+| 10:00 | EUR | Retail Sales (MoM) (Feb) | 0.3% | 0.5% | 0.0% |
 | 12:00 | CAD | Leading Index (MoM) (Mar) | 0.07% |  | 0.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction | 1.996% |  | 2.131% |

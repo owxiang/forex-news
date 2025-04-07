@@ -25,8 +25,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Mar) | 413.10B |  | 416.40B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -19.5 | -8.9 | -2.9 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Mar) | 381.1B |  | 379.3B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | 0.3% | 0.5% | 0.0% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | 2.3% | 1.8% | 1.8% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | 0.3% | 0.5% | 0.0% |
 | 12:00 | CAD | Low | Leading Index (MoM) (Mar) | 0.07% |  | 0.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | GBP | Moderate | Mortgage Rate (GBP) (Mar) | 7.23% |  | 7.33% |
@@ -49,6 +49,6 @@
 | 16:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.96M |  | 8.93M |
 | 16:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.92M |
 | 16:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.86M |  | 0.91M |
-| 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 15.20B | 18.08B |
+| 52 min | USD | Moderate | Consumer Credit (Feb) |  | 15.20B | 18.08B |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | 16% |
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.3% |
