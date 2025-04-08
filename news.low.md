@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Feb) | 7.18B |  | 2.94B |
-| 3 min | AUD | Westpac Consumer Sentiment (Apr) |  |  | 4.0% |
-| 02:30 | AUD | NAB Business Survey (Mar) |  |  | 4 |
+| 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -6.0% |  | 4.0% |
+| 02:30 | AUD | NAB Business Survey (Mar) | 4 |  | 4 |
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.290% |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) |  | 2.50% | 2.48% |
