@@ -13,13 +13,11 @@
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 45.1 | 45.1 | 45.6 |
-| 53 min | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 66.26B |
-| 53 min | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 61.733B |
-| 07:45 | EUR | Low | French Current Account (Feb) |  |  | -2.20B |
-| 07:45 | EUR | Low | French Exports (Feb) |  |  | 49.8B |
-| 07:45 | EUR | Low | French Imports (Feb) |  |  | 56.4B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Mar) |  |  | 295,984.0M |
-| 07:45 | EUR | Low | French Trade Balance (Feb) |  | -5.4B | -6.5B |
+| 36 min | EUR | Low | French Current Account (Feb) |  |  | -2.20B |
+| 36 min | EUR | Low | French Exports (Feb) |  |  | 49.8B |
+| 36 min | EUR | Low | French Imports (Feb) |  |  | 56.4B |
+| 36 min | EUR | Low | French Reserve Assets Total (Mar) |  |  | 295,984.0M |
+| 36 min | EUR | Low | French Trade Balance (Feb) |  | -5.4B | -6.5B |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.173% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.255% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.104% |
