@@ -17,10 +17,10 @@
 | 07:45 | EUR | Low | French Exports (Feb) | 49.7B |  | 49.7B |
 | 07:45 | EUR | Low | French Imports (Feb) | 57.5B |  | 56.2B |
 | 07:45 | EUR | Low | French Trade Balance (Feb) | -7.9B | -5.4B | -6.5B |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.173% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.255% |
-| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.104% |
-| 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 31 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.173% |
+| 31 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.255% |
+| 51 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.104% |
+| 51 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 98.9 | 100.7 |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
 | 12:30 | BRL | Low | Budget Balance (Feb) |  | -104.000B | 63.737B |
