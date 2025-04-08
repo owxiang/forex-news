@@ -29,9 +29,9 @@
 | 13:55 | USD | Low | Redbook (YoY) | 7.2% |  | 4.8% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) | 55.6 |  | 53.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Mar) | 51.3 | 53.2 | 55.3 |
-| 15:00 | BRL | Low | Auto Production (MoM) (Feb) | -12.6% |  | 23.8% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (Feb) | 5.7% |  | 8.0% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 15:00 | BRL | Low | Auto Production (MoM) (Mar) | -12.6% |  | 23.8% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Mar) | 5.7% |  | 8.0% |
+| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.908% |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 6.037M |
