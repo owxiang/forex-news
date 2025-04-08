@@ -10,8 +10,8 @@
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 4 |  | 4 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.414% |  | 2.290% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 2.48% | 2.50% | 2.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 45.1 | 45.1 | 45.6 |
 | 07:45 | EUR | Low | French Current Account (Feb) | -1.90B |  | -1.30B |
 | 07:45 | EUR | Low | French Exports (Feb) | 49.7B |  | 49.7B |
@@ -34,4 +34,4 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.784% |  | 3.908% |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 6.037M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -1.057M |  | 6.037M |
