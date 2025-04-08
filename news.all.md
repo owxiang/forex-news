@@ -10,8 +10,8 @@
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 4 |  | 4 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.414% |  | 2.290% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 2.48% | 2.50% | 2.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 45.1 | 45.1 | 45.6 |
 | 07:45 | EUR | Low | French Current Account (Feb) | -1.90B |  | -1.30B |
 | 07:45 | EUR | Low | French Exports (Feb) | 49.7B |  | 49.7B |
@@ -20,8 +20,8 @@
 | 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 2.007% |  | 2.173% |
 | 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 2.115% |  | 2.255% |
 | 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 3 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.104% |
-| 53 min | USD | Low | NFIB Small Business Optimism (Mar) |  | 98.9 | 100.7 |
+| 10:10 | GBP | Low | 30-Year Treasury Gilt Auction | 5.357% |  | 5.104% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) | 97.4 | 98.9 | 100.7 |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
 | 12:30 | BRL | Low | Budget Balance (Feb) |  | -104.000B | 63.737B |
 | 12:30 | BRL | Low | Budget Surplus (Feb) |  |  | 104.096B |
