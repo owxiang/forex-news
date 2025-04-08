@@ -8,12 +8,12 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) | -6.0% |  | 4.0% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Mar) | -3 |  | -2 |
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 4 |  | 4 |
-| 11 min | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
-| 16 min | JPY | Low | 30-Year JGB Auction |  |  | 2.290% |
-| 41 min | IDR | Low | Core Inflation (YoY) (Mar) |  | 2.50% | 2.48% |
-| 41 min | IDR | Low | Inflation (MoM) (Mar) |  | 1.79% | -0.48% |
-| 41 min | IDR | Low | Inflation (YoY) (Mar) |  | 1.16% | -0.09% |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Mar) |  | 45.1 | 45.6 |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 2.414% |  | 2.290% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  | 2.50% | 2.48% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
+| 05:05 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
+| 22 min | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 52 min | JPY | Low | Economy Watchers Current Index (Mar) |  | 45.1 | 45.6 |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 66.26B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 61.733B |
 | 07:45 | EUR | Low | French Current Account (Feb) |  |  | -2.20B |
