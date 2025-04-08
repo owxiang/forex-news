@@ -3,14 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Feb) | 7.18B |  | 2.94B |
-| 44 min | JPY | Bank Lending (YoY) (Mar) |  | 3.1% | 3.1% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Apr) |  |  | 4.0% |
+| 3 min | AUD | Westpac Consumer Sentiment (Apr) |  |  | 4.0% |
 | 02:30 | AUD | NAB Business Survey (Mar) |  |  | 4 |
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.290% |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) |  | 2.50% | 2.48% |
-| 05:00 | IDR | Inflation (YoY) (Mar) |  | 1.16% | -0.09% |
 | 05:00 | IDR | Inflation (MoM) (Mar) |  | 1.79% | -0.48% |
+| 05:00 | IDR | Inflation (YoY) (Mar) |  | 1.16% | -0.09% |
 | 06:00 | JPY | Economy Watchers Current Index (Mar) |  | 45.1 | 45.6 |
 | 07:00 | ZAR | Foreign Reserves (USD) (Mar) |  |  | 66.26B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Mar) |  |  | 61.733B |

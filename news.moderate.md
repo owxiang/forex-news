@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Adjusted Current Account (Feb) |  | 2.74T | 1.94T |
-| 44 min | JPY | Current Account n.s.a. (Feb) |  | 3.800T | -0.258T |
+| 00:50 | JPY | Adjusted Current Account (Feb) | 2.32T | 2.74T | 1.95T |
+| 00:50 | JPY | Current Account n.s.a. (Feb) | 4.061T | 3.800T | -0.258T |
 | 02:30 | AUD | NAB Business Confidence (Mar) |  |  | -1 |
 | 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 75.3% |

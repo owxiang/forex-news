@@ -3,17 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Feb) | 7.18B |  | 2.94B |
-| 44 min | JPY | Moderate | Adjusted Current Account (Feb) |  | 2.74T | 1.94T |
-| 44 min | JPY | Low | Bank Lending (YoY) (Mar) |  | 3.1% | 3.1% |
-| 44 min | JPY | Moderate | Current Account n.s.a. (Feb) |  | 3.800T | -0.258T |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) |  |  | 4.0% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Feb) | 2.32T | 2.74T | 1.95T |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Feb) | 4.061T | 3.800T | -0.258T |
+| 3 min | AUD | Low | Westpac Consumer Sentiment (Apr) |  |  | 4.0% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Mar) |  |  | -1 |
 | 02:30 | AUD | Low | NAB Business Survey (Mar) |  |  | 4 |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.290% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  | 2.50% | 2.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  | 1.16% | -0.09% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) |  | 1.79% | -0.48% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  | 1.16% | -0.09% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) |  | 45.1 | 45.6 |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 66.26B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 61.733B |
