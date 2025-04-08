@@ -14,10 +14,10 @@
 | 07:45 | EUR | French Exports (Feb) | 49.7B |  | 49.7B |
 | 07:45 | EUR | French Imports (Feb) | 57.5B |  | 56.2B |
 | 07:45 | EUR | French Trade Balance (Feb) | -7.9B | -5.4B | -6.5B |
-| 31 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.173% |
-| 31 min | EUR | Spanish 6-Month Letras Auction |  |  | 2.255% |
-| 51 min | GBP | 30-Year Treasury Gilt Auction |  |  | 5.104% |
-| 11:00 | USD | NFIB Small Business Optimism (Mar) |  | 98.9 | 100.7 |
+| 10:00 | EUR | Spanish 12-Month Letras Auction | 2.007% |  | 2.173% |
+| 10:00 | EUR | Spanish 6-Month Letras Auction | 2.115% |  | 2.255% |
+| 3 min | GBP | 30-Year Treasury Gilt Auction |  |  | 5.104% |
+| 53 min | USD | NFIB Small Business Optimism (Mar) |  | 98.9 | 100.7 |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.8% |
 | 12:30 | BRL | Budget Balance (Feb) |  | -104.000B | 63.737B |
 | 12:30 | BRL | Budget Surplus (Feb) |  |  | 104.096B |
