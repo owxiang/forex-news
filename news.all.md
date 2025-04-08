@@ -10,14 +10,13 @@
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 4 |  | 4 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.414% |  | 2.290% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 2.48% | 2.50% | 2.48% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
+| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 45.1 | 45.1 | 45.6 |
-| 36 min | EUR | Low | French Current Account (Feb) |  |  | -2.20B |
-| 36 min | EUR | Low | French Exports (Feb) |  |  | 49.8B |
-| 36 min | EUR | Low | French Imports (Feb) |  |  | 56.4B |
-| 36 min | EUR | Low | French Reserve Assets Total (Mar) |  |  | 295,984.0M |
-| 36 min | EUR | Low | French Trade Balance (Feb) |  | -5.4B | -6.5B |
+| 07:45 | EUR | Low | French Current Account (Feb) | -1.90B |  | -1.30B |
+| 07:45 | EUR | Low | French Exports (Feb) | 49.7B |  | 49.7B |
+| 07:45 | EUR | Low | French Imports (Feb) | 57.5B |  | 56.2B |
+| 07:45 | EUR | Low | French Trade Balance (Feb) | -7.9B | -5.4B | -6.5B |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.173% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.255% |
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 5.104% |
