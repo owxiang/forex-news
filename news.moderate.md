@@ -11,4 +11,4 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 3.784% |  | 3.908% |
 | 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 6.037M |
+| 24 min | USD | API Weekly Crude Oil Stock |  |  | 6.037M |
