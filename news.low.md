@@ -7,8 +7,8 @@
 | 02:30 | AUD | NAB Business Survey (Mar) | 4 |  | 4 |
 | 04:35 | JPY | 30-Year JGB Auction | 2.414% |  | 2.290% |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) | 2.48% | 2.50% | 2.48% |
-| 05:00 | IDR | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
 | 05:00 | IDR | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
+| 05:00 | IDR | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
 | 06:00 | JPY | Economy Watchers Current Index (Mar) | 45.1 | 45.1 | 45.6 |
 | 07:45 | EUR | French Current Account (Feb) | -1.90B |  | -1.30B |
 | 07:45 | EUR | French Exports (Feb) | 49.7B |  | 49.7B |
@@ -21,7 +21,7 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) | 61.4% |  | 60.8% |
 | 12:30 | BRL | Budget Balance (Feb) | -97.226B | -91.800B | 63.737B |
 | 12:30 | BRL | Budget Surplus (Feb) | -18.973B |  | 104.096B |
-| 44 min | USD | Redbook (YoY) |  |  | 4.8% |
-| 15:00 | CAD | Ivey PMI n.s.a (Mar) |  |  | 53.6 |
-| 15:00 | BRL | Auto Production (MoM) (Mar) |  |  | 23.8% |
-| 15:00 | BRL | Auto Sales (MoM) (Mar) |  |  | 8.0% |
+| 13:55 | USD | Redbook (YoY) | 7.2% |  | 4.8% |
+| 47 min | CAD | Ivey PMI n.s.a (Mar) |  |  | 53.6 |
+| 47 min | BRL | Auto Production (MoM) (Mar) |  |  | 23.8% |
+| 47 min | BRL | Auto Sales (MoM) (Mar) |  |  | 8.0% |

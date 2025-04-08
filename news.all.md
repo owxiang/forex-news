@@ -10,8 +10,8 @@
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 4 |  | 4 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.414% |  | 2.290% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 2.48% | 2.50% | 2.48% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
+| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 45.1 | 45.1 | 45.6 |
 | 07:45 | EUR | Low | French Current Account (Feb) | -1.90B |  | -1.30B |
 | 07:45 | EUR | Low | French Exports (Feb) | 49.7B |  | 49.7B |
@@ -26,11 +26,11 @@
 | 12:30 | BRL | Low | Budget Balance (Feb) | -97.226B | -91.800B | 63.737B |
 | 12:30 | BRL | Low | Budget Surplus (Feb) | -18.973B |  | 104.096B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 76.2% | 76.2% | 75.3% |
-| 44 min | USD | Low | Redbook (YoY) |  |  | 4.8% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 53.6 |
-| 15:00 | CAD | Moderate | Ivey PMI (Mar) |  | 53.2 | 55.3 |
-| 15:00 | BRL | Low | Auto Production (MoM) (Mar) |  |  | 23.8% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 8.0% |
+| 13:55 | USD | Low | Redbook (YoY) | 7.2% |  | 4.8% |
+| 47 min | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 53.6 |
+| 47 min | CAD | Moderate | Ivey PMI (Mar) |  | 53.2 | 55.3 |
+| 47 min | BRL | Low | Auto Production (MoM) (Mar) |  |  | 23.8% |
+| 47 min | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 8.0% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.908% |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
