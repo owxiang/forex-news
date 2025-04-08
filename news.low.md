@@ -1,27 +1,42 @@
-## 08 April 2025 - Low Impact Forex News
+## 09 April 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (Feb) | 7.18B |  | 2.94B |
-| 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -6.0% |  | 4.0% |
-| 02:30 | AUD | NAB Business Survey (Mar) | 4 |  | 4 |
-| 04:35 | JPY | 30-Year JGB Auction | 2.414% |  | 2.290% |
-| 05:00 | IDR | Core Inflation (YoY) (Mar) | 2.48% | 2.50% | 2.48% |
-| 05:00 | IDR | Inflation (MoM) (Mar) | 1.65% | 1.79% | -0.48% |
-| 05:00 | IDR | Inflation (YoY) (Mar) | 1.03% | 1.16% | -0.09% |
-| 06:00 | JPY | Economy Watchers Current Index (Mar) | 45.1 | 45.1 | 45.6 |
-| 07:45 | EUR | French Current Account (Feb) | -1.90B |  | -1.30B |
-| 07:45 | EUR | French Exports (Feb) | 49.7B |  | 49.7B |
-| 07:45 | EUR | French Imports (Feb) | 57.5B |  | 56.2B |
-| 07:45 | EUR | French Trade Balance (Feb) | -7.9B | -5.4B | -6.5B |
-| 10:00 | EUR | Spanish 12-Month Letras Auction | 2.007% |  | 2.173% |
-| 10:00 | EUR | Spanish 6-Month Letras Auction | 2.115% |  | 2.255% |
-| 10:10 | GBP | 30-Year Treasury Gilt Auction | 5.357% |  | 5.104% |
-| 11:00 | USD | NFIB Small Business Optimism (Mar) | 97.4 | 98.9 | 100.7 |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Feb) | 61.4% |  | 60.8% |
-| 12:30 | BRL | Budget Balance (Feb) | -97.226B | -91.800B | 63.737B |
-| 12:30 | BRL | Budget Surplus (Feb) | -18.973B |  | 104.096B |
-| 13:55 | USD | Redbook (YoY) | 7.2% |  | 4.8% |
-| 15:00 | CAD | Ivey PMI n.s.a (Mar) | 55.6 |  | 53.6 |
-| 15:00 | BRL | Auto Production (MoM) (Mar) | -12.6% |  | 23.8% |
-| 15:00 | BRL | Auto Sales (MoM) (Mar) | 5.7% |  | 8.0% |
+| 00:00 | KRW | Unemployment Rate (Mar) | 2.9% |  | 2.7% |
+| 44 min | JPY | Bank Lending (YoY) (Mar) |  | 3.1% | 3.1% |
+| 02:30 | AUD | Private House Approvals (Feb) |  | 1.0% | 1.1% |
+| 04:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 05:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
+| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 06:00 | JPY | Household Confidence (Mar) |  | 34.7 | 35.0 |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Mar) |  |  | 3.5% |
+| 07:00 | NOK | PPI (YoY) (Mar) |  |  | 23.3% |
+| 07:15 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.311% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.70% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
+| 12:00 | USD | MBA Purchase Index |  |  | 158.2 |
+| 12:00 | USD | Mortgage Market Index |  |  | 243.6 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 710.4 |
+| 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | 0.0% |
+| 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.43% | 0.48% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
+| 13:00 | MXN | PPI (YoY) (Mar) |  |  | 8.00% |
+| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.60% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.3% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.192M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.999M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.164M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.264M |
+| 15:30 | USD | Gasoline Production |  |  | 0.062M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.209M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
+| 15:30 | USD | Gasoline Inventories |  |  | -1.551M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 54.02 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 45.47 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 58.11 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 49.07 |
+| 17:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.085B |

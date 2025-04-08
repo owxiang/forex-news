@@ -1,14 +1,14 @@
-## 08 April 2025 - Moderate Impact Forex News
+## 09 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Feb) | 2.32T | 2.74T | 1.95T |
-| 00:50 | JPY | Current Account n.s.a. (Feb) | 4.061T | 3.800T | -0.258T |
-| 02:30 | AUD | NAB Business Confidence (Mar) | -3 |  | -2 |
-| 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) | 76.2% | 76.2% | 75.3% |
-| 15:00 | CAD | Ivey PMI (Mar) | 51.3 | 53.2 | 55.3 |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 3.784% |  | 3.908% |
-| 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -1.057M |  | 6.037M |
+| 02:30 | AUD | Building Approvals (MoM) (Feb) |  | -0.3% | 6.9% |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 05:30 | INR | Interest Rate Decision |  | 6.00% | 6.25% |
+| 05:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 10:25 | EUR | German Buba Balz Speaks |  |  |  |
+| 13:00 | MXN | CPI (MoM) (Mar) |  | 0.31% | 0.28% |
+| 13:00 | MXN | CPI (YoY) (Mar) |  | 3.80% | 3.77% |
+| 13:00 | BRL | Retail Sales (MoM) (Feb) |  | 0.5% | -0.1% |
+| 13:00 | BRL | Retail Sales (YoY) (Feb) |  | 1.6% | 3.1% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 2.373M |
