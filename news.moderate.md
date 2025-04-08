@@ -7,7 +7,7 @@
 | 02:30 | AUD | NAB Business Confidence (Mar) | -3 |  | -2 |
 | 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) | 76.2% | 76.2% | 75.3% |
-| 47 min | CAD | Ivey PMI (Mar) |  | 53.2 | 55.3 |
+| 15:00 | CAD | Ivey PMI (Mar) | 51.3 | 53.2 | 55.3 |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 3.908% |
 | 19:00 | USD | FOMC Member Daly Speaks |  |  |  |

@@ -27,10 +27,10 @@
 | 12:30 | BRL | Low | Budget Surplus (Feb) | -18.973B |  | 104.096B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 76.2% | 76.2% | 75.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 7.2% |  | 4.8% |
-| 47 min | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 53.6 |
-| 47 min | CAD | Moderate | Ivey PMI (Mar) |  | 53.2 | 55.3 |
-| 47 min | BRL | Low | Auto Production (MoM) (Mar) |  |  | 23.8% |
-| 47 min | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 8.0% |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) | 55.6 |  | 53.6 |
+| 15:00 | CAD | Moderate | Ivey PMI (Mar) | 51.3 | 53.2 | 55.3 |
+| 15:00 | BRL | Low | Auto Production (MoM) (Feb) | -12.6% |  | 23.8% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Feb) | 5.7% |  | 8.0% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.908% |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

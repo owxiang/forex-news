@@ -22,6 +22,6 @@
 | 12:30 | BRL | Budget Balance (Feb) | -97.226B | -91.800B | 63.737B |
 | 12:30 | BRL | Budget Surplus (Feb) | -18.973B |  | 104.096B |
 | 13:55 | USD | Redbook (YoY) | 7.2% |  | 4.8% |
-| 47 min | CAD | Ivey PMI n.s.a (Mar) |  |  | 53.6 |
-| 47 min | BRL | Auto Production (MoM) (Mar) |  |  | 23.8% |
-| 47 min | BRL | Auto Sales (MoM) (Mar) |  |  | 8.0% |
+| 15:00 | CAD | Ivey PMI n.s.a (Mar) | 55.6 |  | 53.6 |
+| 15:00 | BRL | Auto Production (MoM) (Feb) | -12.6% |  | 23.8% |
+| 15:00 | BRL | Auto Sales (MoM) (Feb) | 5.7% |  | 8.0% |
