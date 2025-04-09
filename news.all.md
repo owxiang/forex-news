@@ -12,9 +12,9 @@
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 05:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 06:00 | JPY | Low | Household Confidence (Mar) | 34.1 | 34.7 | 34.8 |
-| 53 min | JPY | Low | Machine Tool Orders (YoY) (Mar) |  |  | 3.5% |
-| 53 min | NOK | Low | PPI (YoY) (Mar) |  |  | 23.3% |
-| 07:15 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Mar) | 11.4% |  | 3.5% |
+| 07:00 | NOK | Low | PPI (YoY) (Mar) | 11.5% |  | 23.3% |
+| 6 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.311% |
 | 10:25 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
@@ -31,8 +31,8 @@
 | 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 8.00% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.6% | 3.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | 0.5% | -0.1% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.6% | 3.1% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.8% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.200M | 6.165M |
