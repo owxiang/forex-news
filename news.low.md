@@ -9,7 +9,7 @@
 | 06:00 | JPY | Household Confidence (Mar) | 34.1 | 34.7 | 34.8 |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Mar) | 11.4% |  | 3.5% |
 | 07:00 | NOK | PPI (YoY) (Mar) | 11.5% |  | 23.3% |
-| 6 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 07:15 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.311% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.70% |

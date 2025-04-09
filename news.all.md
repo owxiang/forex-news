@@ -14,7 +14,7 @@
 | 06:00 | JPY | Low | Household Confidence (Mar) | 34.1 | 34.7 | 34.8 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Mar) | 11.4% |  | 3.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Mar) | 11.5% |  | 23.3% |
-| 6 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 07:15 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.311% |
 | 10:25 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
