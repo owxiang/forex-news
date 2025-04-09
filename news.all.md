@@ -7,7 +7,7 @@
 | 02:30 | AUD | Low | Private House Approvals (Feb) | 1.0% | 1.0% | 1.4% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 3.50% | 3.50% | 3.75% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 27 min | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 4.00% | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 6.00% | 6.25% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |

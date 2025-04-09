@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Mar) | 2.9% |  | 2.7% |
 | 02:30 | AUD | Private House Approvals (Feb) | 1.0% | 1.0% | 1.4% |
-| 27 min | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 04:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 05:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Household Confidence (Mar) |  | 34.7 | 35.0 |
