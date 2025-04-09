@@ -31,8 +31,8 @@
 | 13:00 | MXN | Low | PPI (MoM) (Mar) | 0.00% |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (Mar) | 7.30% |  | 8.00% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | -0.12% |  | 0.15% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 1.5% | 1.6% | 3.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 0.5% | 0.5% | 0.2% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 1.5% | 1.6% | 3.1% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) | 2.4% |  | -0.9% |
 | 15:30 | USD | High | Crude Oil Inventories | 2.553M | 2.200M | 6.165M |
