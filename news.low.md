@@ -12,17 +12,17 @@
 | 07:15 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.142% |  | 4.311% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.70% |
-| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
-| 52 min | USD | MBA Purchase Index |  |  | 158.2 |
-| 52 min | USD | Mortgage Market Index |  |  | 243.6 |
-| 52 min | USD | Mortgage Refinance Index |  |  | 710.4 |
-| 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | 0.0% |
-| 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.43% | 0.48% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
-| 13:00 | MXN | PPI (YoY) (Mar) |  |  | 8.00% |
-| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.60% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.61% |  | 6.70% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 20.0% |  | -1.6% |
+| 12:00 | USD | MBA Purchase Index | 172.7 |  | 158.2 |
+| 12:00 | USD | Mortgage Market Index | 292.3 |  | 243.6 |
+| 12:00 | USD | Mortgage Refinance Index | 961.4 |  | 710.4 |
+| 24 min | BRL | Bank lending (MoM) (Feb) |  |  | 0.0% |
+| 54 min | MXN | Core CPI (MoM) (Mar) |  | 0.43% | 0.48% |
+| 54 min | MXN | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
+| 54 min | MXN | PPI (MoM) (Mar) |  |  | 0.60% |
+| 54 min | MXN | PPI (YoY) (Mar) |  |  | 8.00% |
+| 54 min | BRL | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.8% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.192M |
