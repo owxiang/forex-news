@@ -1,8 +1,9 @@
-## 09 April 2025 - High Impact Forex News
+## 10 April 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | NZD | RBNZ Interest Rate Decision | 3.50% | 3.50% | 3.75% |
-| 15:30 | USD | Crude Oil Inventories | 2.553M | 2.200M | 6.165M |
-| 18:00 | USD | 10-Year Note Auction | 4.435% |  | 4.310% |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Core CPI (MoM) (Mar) |  | 0.3% | 0.2% |
+| 13:30 | USD | CPI (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | USD | CPI (YoY) (Mar) |  | 2.5% | 2.8% |
+| 13:30 | USD | Initial Jobless Claims |  | 223K | 219K |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.623% |

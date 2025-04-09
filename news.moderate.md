@@ -1,14 +1,21 @@
-## 09 April 2025 - Moderate Impact Forex News
+## 10 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (Feb) | -0.3% | -0.3% | 6.9% |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 05:30 | INR | Interest Rate Decision | 6.00% | 6.00% | 6.25% |
-| 05:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 10:25 | EUR | German Buba Balz Speaks |  |  |  |
-| 13:00 | MXN | CPI (MoM) (Mar) | 0.31% | 0.31% | 0.28% |
-| 13:00 | MXN | CPI (YoY) (Mar) | 3.80% | 3.80% | 3.77% |
-| 13:00 | BRL | Retail Sales (YoY) (Feb) | 1.5% | 1.6% | 3.1% |
-| 13:00 | BRL | Retail Sales (MoM) (Feb) | 0.5% | 0.5% | 0.2% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.681M |  | 2.373M |
+| 00:01 | GBP | RICS House Price Balance (Mar) | 2% |  | 11% |
+| 02:30 | CNY | CPI (MoM) (Mar) |  | -0.2% | -0.2% |
+| 02:30 | CNY | CPI (YoY) (Mar) |  | 0.0% | -0.7% |
+| 02:30 | CNY | PPI (YoY) (Mar) |  | -2.3% | -2.2% |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,903K |
+| 13:30 | USD | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |
+| 13:30 | CAD | Building Permits (MoM) (Feb) |  | -0.4% | -3.2% |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 17:30 | USD | FOMC Member Harker Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Mar) |  | -115.9B | -307.0B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,723B |
+| 23:30 | NZD | Business NZ PMI (Mar) |  |  | 53.9 |

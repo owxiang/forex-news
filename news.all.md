@@ -1,55 +1,69 @@
-## 09 April 2025 - All Forex News
+## 10 April 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Unemployment Rate (Mar) | 2.9% |  | 2.7% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Feb) | -0.3% | -0.3% | 6.9% |
-| 02:30 | AUD | Low | Private House Approvals (Feb) | 1.0% | 1.0% | 1.4% |
-| 03:00 | NZD | High | RBNZ Interest Rate Decision | 3.50% | 3.50% | 3.75% |
-| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 05:30 | INR | Low | Cash Reserve Ratio | 4.00% | 4.00% | 4.00% |
-| 05:30 | INR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.25% |
-| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
-| 05:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 06:00 | JPY | Low | Household Confidence (Mar) | 34.1 | 34.7 | 34.8 |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Mar) | 11.4% |  | 3.5% |
-| 07:00 | NOK | Low | PPI (YoY) (Mar) | 11.5% |  | 23.3% |
-| 07:15 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.142% |  | 4.311% |
-| 10:25 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.61% |  | 6.70% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 20.0% |  | -1.6% |
-| 12:00 | USD | Low | MBA Purchase Index | 172.7 |  | 158.2 |
-| 12:00 | USD | Low | Mortgage Market Index | 292.3 |  | 243.6 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 961.4 |  | 710.4 |
-| 12:30 | BRL | Low | Bank lending (MoM) (Feb) | 0.4% |  | 0.0% |
-| 13:00 | MXN | Low | Core CPI (MoM) (Mar) | 0.43% | 0.43% | 0.48% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Mar) | 0.31% | 0.31% | 0.28% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Mar) | 3.80% | 3.80% | 3.77% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) | 3.64% | 3.65% | 3.65% |
-| 13:00 | MXN | Low | PPI (MoM) (Mar) | 0.00% |  | 0.60% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) | 7.30% |  | 8.00% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | -0.12% |  | 0.15% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 1.5% | 1.6% | 3.1% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 0.5% | 0.5% | 0.2% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) | 2.4% |  | -0.9% |
-| 15:30 | USD | High | Crude Oil Inventories | 2.553M | 2.200M | 6.165M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.069M |  | -0.192M |
-| 15:30 | USD | Low | Crude Oil Imports | 0.360M |  | 0.999M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.681M |  | 2.373M |
-| 15:30 | USD | Low | Distillate Fuel Production | -0.019M |  | 0.164M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -3.544M | 0.200M | 0.264M |
-| 15:30 | USD | Low | Gasoline Production | -0.338M |  | 0.062M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | -0.020M |  | 0.209M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.7% |  | -1.0% |
-| 15:30 | USD | Low | Gasoline Inventories | -1.600M | -1.700M | -1.551M |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Apr) | 52.80 |  | 54.02 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 45.35 |  | 45.47 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 56.92 |  | 58.11 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) | 51.28 |  | 49.07 |
-| 17:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | High | 10-Year Note Auction | 4.435% |  | 4.310% |
-| 18:30 | BRL | Low | Foreign Exchange Flows | 3.467B |  | -2.085B |
-| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 00:01 | GBP | Moderate | RICS House Price Balance (Mar) | 2% |  | 11% |
+| 44 min | JPY | Low | Bank Lending (YoY) (Mar) |  | 3.1% | 3.1% |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -5.9B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -450.4B |
+| 44 min | JPY | Low | PPI (MoM) (Mar) |  | 0.2% | 0.0% |
+| 44 min | JPY | Low | PPI (YoY) (Mar) |  | 3.9% | 4.0% |
+| 02:00 | AUD | Low | MI Inflation Expectations (Apr) |  |  | 3.6% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Mar) |  | -0.2% | -0.2% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Mar) |  | 0.0% | -0.7% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Mar) |  | -2.3% | -2.2% |
+| 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.157% |
+| 07:00 | NOK | Low | Core CPI YTD (Mar) |  | 3.4% | 3.4% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Mar) |  | 0.1% | 1.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) |  | -0.5% | 1.4% |
+| 07:00 | NOK | Low | CPI (YoY) (Mar) |  | 2.9% | 3.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | -0.9% | 3.2% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  | -1.9% | -0.6% |
+| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.382% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.809% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.337% |
+| 10:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.4 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 45.22 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 45.74 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 42.90 |
+| 11:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.92 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 46.35 |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
+| 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,903K |
+| 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |
+| 13:30 | USD | Low | Core CPI Index (Mar) |  |  | 325.48 |
+| 13:30 | USD | High | CPI (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Mar) |  | 2.5% | 2.8% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Mar) |  | 320.17 | 319.08 |
+| 13:30 | USD | Low | CPI Index, s.a (Mar) |  |  | 319.78 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.44% |
+| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 219K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.00K |
+| 13:30 | USD | Low | Real Earnings (MoM) (Mar) |  |  | 0.1% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) |  | -0.4% | -3.2% |
+| 14:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 14:30 | USD | Low | Fed Logan Speaks |  |  |  |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage |  | 60B | 29B |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Mar) |  |  | 0.3% |
+| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
+| 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 17:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.623% |
+| 19:00 | USD | Moderate | Federal Budget Balance (Mar) |  | -115.9B | -307.0B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,723B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.427T |
+| 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 53.9 |
