@@ -15,9 +15,9 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Mar) | 11.4% |  | 3.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Mar) | 11.5% |  | 23.3% |
 | 07:15 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 51 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.311% |
-| 10:25 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.142% |  | 4.311% |
+| 18 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 23 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.70% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 158.2 |
@@ -28,8 +28,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.31% | 0.28% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 3.80% | 3.77% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 8.00% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.60% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 8.00% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | 0.5% | -0.1% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.6% | 3.1% |
