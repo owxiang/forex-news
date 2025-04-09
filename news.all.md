@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Mar) | 2.9% |  | 2.7% |
-| 44 min | JPY | Low | Bank Lending (YoY) (Mar) |  | 3.1% | 3.1% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Feb) |  | -0.3% | 6.9% |
 | 02:30 | AUD | Low | Private House Approvals (Feb) |  | 1.0% | 1.1% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 3.50% | 3.75% |
@@ -29,8 +28,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.31% | 0.28% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 3.80% | 3.77% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 8.00% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.60% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 8.00% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | 0.5% | -0.1% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.6% | 3.1% |
