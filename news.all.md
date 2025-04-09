@@ -51,5 +51,5 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) | 51.28 |  | 49.07 |
 | 17:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.435% |  | 4.310% |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | -2.085B |
-| 54 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 3.467B |  | -2.085B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |

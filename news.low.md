@@ -38,4 +38,4 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 56.92 |  | 58.11 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 51.28 |  | 49.07 |
 | 17:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 24 min | BRL | Foreign Exchange Flows |  |  | -2.085B |
+| 18:30 | BRL | Foreign Exchange Flows | 3.467B |  | -2.085B |
