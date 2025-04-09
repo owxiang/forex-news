@@ -8,11 +8,11 @@
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 3.50% | 3.50% | 3.75% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
-| 05:30 | INR | Low | Cash Reserve Ratio |  | 4.00% | 4.00% |
-| 05:30 | INR | Moderate | Interest Rate Decision |  | 6.00% | 6.25% |
-| 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 05:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 06:00 | JPY | Low | Household Confidence (Mar) |  | 34.7 | 35.0 |
+| 23 min | INR | Low | Cash Reserve Ratio |  | 4.00% | 4.00% |
+| 23 min | INR | Moderate | Interest Rate Decision |  | 6.00% | 6.25% |
+| 23 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 23 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 53 min | JPY | Low | Household Confidence (Mar) |  | 34.7 | 35.0 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Mar) |  |  | 3.5% |
 | 07:00 | NOK | Low | PPI (YoY) (Mar) |  |  | 23.3% |
 | 07:15 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -28,8 +28,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.31% | 0.28% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 3.80% | 3.77% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
-| 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 8.00% |
+| 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.60% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | 0.5% | -0.1% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 1.6% | 3.1% |

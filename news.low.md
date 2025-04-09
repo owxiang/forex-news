@@ -5,9 +5,9 @@
 | 00:00 | KRW | Unemployment Rate (Mar) | 2.9% |  | 2.7% |
 | 02:30 | AUD | Private House Approvals (Feb) | 1.0% | 1.0% | 1.4% |
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
-| 05:30 | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | JPY | Household Confidence (Mar) |  | 34.7 | 35.0 |
+| 23 min | INR | Cash Reserve Ratio |  | 4.00% | 4.00% |
+| 23 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 53 min | JPY | Household Confidence (Mar) |  | 34.7 | 35.0 |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Mar) |  |  | 3.5% |
 | 07:00 | NOK | PPI (YoY) (Mar) |  |  | 23.3% |
 | 07:15 | JPY | BOJ Gov Ueda Speaks |  |  |  |
@@ -20,8 +20,8 @@
 | 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | 0.0% |
 | 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.43% | 0.48% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
-| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.60% |
 | 13:00 | MXN | PPI (YoY) (Mar) |  |  | 8.00% |
+| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.60% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.3% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
