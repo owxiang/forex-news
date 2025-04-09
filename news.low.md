@@ -17,22 +17,22 @@
 | 12:00 | USD | MBA Purchase Index | 172.7 |  | 158.2 |
 | 12:00 | USD | Mortgage Market Index | 292.3 |  | 243.6 |
 | 12:00 | USD | Mortgage Refinance Index | 961.4 |  | 710.4 |
-| 24 min | BRL | Bank lending (MoM) (Feb) |  |  | 0.0% |
-| 54 min | MXN | Core CPI (MoM) (Mar) |  | 0.43% | 0.48% |
-| 54 min | MXN | Month Core Inflation (MoM) (Mar) |  | 3.65% | 3.65% |
-| 54 min | MXN | PPI (MoM) (Mar) |  |  | 0.60% |
-| 54 min | MXN | PPI (YoY) (Mar) |  |  | 8.00% |
-| 54 min | BRL | Brazilian PPI (MoM) (Feb) |  |  | 0.13% |
+| 12:30 | BRL | Bank lending (MoM) (Feb) | 0.4% |  | 0.0% |
+| 13:00 | MXN | Core CPI (MoM) (Mar) | 0.43% | 0.43% | 0.48% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Mar) | 3.64% | 3.65% | 3.65% |
+| 13:00 | MXN | PPI (MoM) (Mar) | 0.00% |  | 0.60% |
+| 13:00 | MXN | PPI (YoY) (Mar) | 7.30% |  | 8.00% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Feb) | -0.12% |  | 0.15% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.8% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.192M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.999M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.164M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.264M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.200M | 0.264M |
 | 15:30 | USD | Gasoline Production |  |  | 0.062M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | 0.209M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.551M |
+| 15:30 | USD | Gasoline Inventories |  | -1.700M | -1.551M |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 54.02 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 45.47 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 58.11 |

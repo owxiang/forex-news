@@ -7,8 +7,8 @@
 | 05:30 | INR | Interest Rate Decision | 6.00% | 6.00% | 6.25% |
 | 05:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 10:25 | EUR | German Buba Balz Speaks |  |  |  |
-| 54 min | MXN | CPI (MoM) (Mar) |  | 0.31% | 0.28% |
-| 54 min | MXN | CPI (YoY) (Mar) |  | 3.80% | 3.77% |
-| 54 min | BRL | Retail Sales (MoM) (Feb) |  | 0.5% | -0.1% |
-| 54 min | BRL | Retail Sales (YoY) (Feb) |  | 1.6% | 3.1% |
+| 13:00 | MXN | CPI (MoM) (Mar) | 0.31% | 0.31% | 0.28% |
+| 13:00 | MXN | CPI (YoY) (Mar) | 3.80% | 3.80% | 3.77% |
+| 13:00 | BRL | Retail Sales (MoM) (Feb) | 0.5% | 0.5% | 0.2% |
+| 13:00 | BRL | Retail Sales (YoY) (Feb) | 1.5% | 1.6% | 3.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 2.373M |
