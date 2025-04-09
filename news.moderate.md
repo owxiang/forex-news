@@ -11,4 +11,4 @@
 | 13:00 | MXN | CPI (YoY) (Mar) | 3.80% | 3.80% | 3.77% |
 | 13:00 | BRL | Retail Sales (MoM) (Feb) | 0.5% | 0.5% | 0.2% |
 | 13:00 | BRL | Retail Sales (YoY) (Feb) | 1.5% | 1.6% | 3.1% |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | 2.373M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.681M |  | 2.373M |
