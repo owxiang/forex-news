@@ -33,8 +33,8 @@
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | -0.12% |  | 0.15% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 0.5% | 0.5% | 0.2% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 1.5% | 1.6% | 3.1% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.8% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
+| 46 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.8% |
+| 46 min | USD | Low | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.200M | 6.165M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.192M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.999M |

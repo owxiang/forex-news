@@ -23,8 +23,8 @@
 | 13:00 | MXN | PPI (MoM) (Mar) | 0.00% |  | 0.60% |
 | 13:00 | MXN | PPI (YoY) (Mar) | 7.30% |  | 8.00% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) | -0.12% |  | 0.15% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.8% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
+| 46 min | USD | Wholesale Inventories (MoM) (Feb) |  | 0.3% | 0.8% |
+| 46 min | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.3% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.192M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.999M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.164M |
