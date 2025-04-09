@@ -20,8 +20,8 @@
 | 12:30 | BRL | Bank lending (MoM) (Feb) | 0.4% |  | 0.0% |
 | 13:00 | MXN | Core CPI (MoM) (Mar) | 0.43% | 0.43% | 0.48% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Mar) | 3.64% | 3.65% | 3.65% |
-| 13:00 | MXN | PPI (YoY) (Mar) | 7.30% |  | 8.00% |
 | 13:00 | MXN | PPI (MoM) (Mar) | 0.00% |  | 0.60% |
+| 13:00 | MXN | PPI (YoY) (Mar) | 7.30% |  | 8.00% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) | -0.12% |  | 0.15% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) | 2.4% |  | -0.9% |
@@ -37,5 +37,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 45.35 |  | 45.47 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 56.92 |  | 58.11 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 51.28 |  | 49.07 |
-| 23 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.085B |
+| 17:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -2.085B |
