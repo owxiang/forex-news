@@ -12,14 +12,14 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -0.4% | -0.2% | -0.2% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Mar) | -0.1% | 0.0% | -0.7% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.5% | -2.3% | -2.2% |
-| 16 min | JPY | Low | 5-Year JGB Auction |  |  | 1.157% |
-| 41 min | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 0.938% |  | 1.157% |
+| 05:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 07:00 | NOK | Low | Core CPI YTD (Mar) |  | 3.4% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Mar) |  | 0.1% | 1.0% |
 | 07:00 | NOK | Low | CPI (YoY) (Mar) |  | 2.9% | 3.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Mar) |  | -0.5% | 1.4% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | -0.9% | 3.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  | -1.9% | -0.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | -0.9% | 3.2% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.382% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.809% |
@@ -33,17 +33,17 @@
 | 11:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.92 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 46.35 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,903K |
 | 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Mar) |  |  | 325.48 |
-| 13:30 | USD | High | CPI (YoY) (Mar) |  | 2.5% | 2.8% |
 | 13:30 | USD | High | CPI (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (Mar) |  | 2.5% | 2.8% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Mar) |  | 320.17 | 319.08 |
 | 13:30 | USD | Low | CPI Index, s.a (Mar) |  |  | 319.78 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.44% |
