@@ -5,8 +5,8 @@
 | 00:50 | JPY | Bank Lending (YoY) (Mar) | 2.8% | 3.1% | 3.0% |
 | 00:50 | JPY | Foreign Bonds Buying | -2,569.8B |  | -5.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
-| 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
 | 00:50 | JPY | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
+| 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
 | 02:00 | AUD | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
@@ -28,16 +28,16 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 43.43 |  | 46.35 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Feb) | -3.2% |  | -3.2% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) | 0.3% |  | 0.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 4.2% |  | 1.1% |
-| 19 min | USD | Core CPI Index (Mar) |  |  | 325.48 |
-| 19 min | USD | CPI Index, n.s.a. (Mar) |  | 320.17 | 319.08 |
-| 19 min | USD | CPI Index, s.a (Mar) |  |  | 319.78 |
-| 19 min | USD | CPI, n.s.a (MoM) (Mar) |  |  | 0.44% |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 223.00K |
-| 19 min | USD | Real Earnings (MoM) (Mar) |  |  | 0.1% |
-| 49 min | GBP | BoE Breeden Speaks |  |  |  |
-| 14:30 | USD | Fed Logan Speaks |  |  |  |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
+| 13:30 | USD | Core CPI Index (Mar) | 325.66 |  | 325.48 |
+| 13:30 | USD | CPI Index, n.s.a. (Mar) | 319.80 | 320.17 | 319.08 |
+| 13:30 | USD | CPI Index, s.a (Mar) | 319.62 |  | 319.78 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Mar) | 0.22% |  | 0.44% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 223.00K |  | 223.00K |
+| 13:30 | USD | Real Earnings (MoM) (Mar) | 0.3% |  | 0.3% |
+| 14:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 17 min | USD | Fed Logan Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 60B | 29B |
 | 16:00 | USD | Cleveland CPI (MoM) (Mar) |  |  | 0.3% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
