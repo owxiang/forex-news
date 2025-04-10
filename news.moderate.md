@@ -7,7 +7,7 @@
 | 02:30 | CNY | PPI (YoY) (Mar) | -2.5% | -2.3% | -2.2% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 54 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,903K |
 | 13:30 | USD | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |
 | 13:30 | CAD | Building Permits (MoM) (Feb) |  | -0.4% | -3.2% |
