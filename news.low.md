@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Bank Lending (YoY) (Mar) |  | 3.1% | 3.1% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -5.9B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -450.4B |
-| 44 min | JPY | PPI (MoM) (Mar) |  | 0.2% | 0.0% |
-| 44 min | JPY | PPI (YoY) (Mar) |  | 3.9% | 4.0% |
-| 02:00 | AUD | MI Inflation Expectations (Apr) |  |  | 3.6% |
+| 00:50 | JPY | Bank Lending (YoY) (Mar) | 2.8% | 3.1% | 3.0% |
+| 00:50 | JPY | Foreign Bonds Buying | -2,569.8B |  | -5.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
+| 00:50 | JPY | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
+| 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
+| 32 min | AUD | MI Inflation Expectations (Apr) |  |  | 3.6% |
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) |  | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) |  | 0.1% | 1.0% |
-| 07:00 | NOK | CPI (MoM) (Mar) |  | -0.5% | 1.4% |
 | 07:00 | NOK | CPI (YoY) (Mar) |  | 2.9% | 3.6% |
+| 07:00 | NOK | CPI (MoM) (Mar) |  | -0.5% | 1.4% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | -0.9% | 3.2% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  | -1.9% | -0.6% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.382% |
@@ -27,8 +27,8 @@
 | 11:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.92 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 46.35 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
 | 13:30 | USD | Core CPI Index (Mar) |  |  | 325.48 |
