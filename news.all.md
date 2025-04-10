@@ -12,7 +12,7 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -0.4% | -0.2% | -0.2% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Mar) | -0.1% | 0.0% | -0.7% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.5% | -2.3% | -2.2% |
-| 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 27 min | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.157% |
 | 07:00 | NOK | Low | Core CPI YTD (Mar) |  | 3.4% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Mar) |  | 0.1% | 1.0% |
