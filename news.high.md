@@ -1,9 +1,7 @@
-## 10 April 2025 - High Impact Forex News
+## 11 April 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core CPI (MoM) (Mar) | 0.1% | 0.3% | 0.2% |
-| 13:30 | USD | CPI (MoM) (Mar) | -0.1% | 0.1% | 0.2% |
-| 13:30 | USD | CPI (YoY) (Mar) | 2.4% | 2.5% | 2.8% |
-| 13:30 | USD | Initial Jobless Claims | 223K | 223K | 219K |
-| 18:00 | USD | 30-Year Bond Auction | 4.813% |  | 4.623% |
+| 07:00 | GBP | GDP (MoM) (Feb) |  | 0.1% | -0.1% |
+| 07:00 | EUR | German CPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 13:30 | USD | PPI (MoM) (Mar) |  | 0.2% | 0.0% |
