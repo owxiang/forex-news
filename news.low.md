@@ -11,23 +11,23 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
+| 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.349% |  | 3.382% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.014% |  | 2.809% |
-| 3 min | EUR | Italian 12-Month BOT Auction |  |  | 2.337% |
-| 53 min | GBP | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.4 |
-| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 45.22 |
-| 53 min | EUR | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 45.74 |
-| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 42.90 |
-| 53 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.92 |
-| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 46.35 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
+| 10:10 | EUR | Italian 12-Month BOT Auction | 2.120% |  | 2.337% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Apr) | 49.0 |  | 47.4 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) | 46.01 |  | 45.22 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Apr) | 44.95 |  | 45.74 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Apr) | 42.33 |  | 42.90 |
+| 11:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 48.90 |  | 47.92 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 43.43 |  | 46.35 |
+| 53 min | ZAR | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
+| 53 min | ZAR | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
 | 13:30 | USD | Core CPI Index (Mar) |  |  | 325.48 |

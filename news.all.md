@@ -14,25 +14,25 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Low | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.349% |  | 3.382% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.014% |  | 2.809% |
-| 3 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.337% |
-| 8 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.4 |
-| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 45.22 |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 45.74 |
-| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 42.90 |
-| 53 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.92 |
-| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 46.35 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction | 2.120% |  | 2.337% |
+| 10:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) | 49.0 |  | 47.4 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) | 46.01 |  | 45.22 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) | 44.95 |  | 45.74 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) | 42.33 |  | 42.90 |
+| 11:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 48.90 |  | 47.92 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 43.43 |  | 46.35 |
+| 53 min | ZAR | Low | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
+| 53 min | ZAR | Low | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
