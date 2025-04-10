@@ -5,14 +5,14 @@
 | 00:50 | JPY | Bank Lending (YoY) (Mar) | 2.8% | 3.1% | 3.0% |
 | 00:50 | JPY | Foreign Bonds Buying | -2,569.8B |  | -5.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
-| 00:50 | JPY | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
 | 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
+| 00:50 | JPY | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
 | 02:00 | AUD | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
+| 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.349% |  | 3.382% |

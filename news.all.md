@@ -5,8 +5,8 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Mar) | 2.8% | 3.1% | 3.0% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -2,569.8B |  | -5.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
-| 00:50 | JPY | Low | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
 | 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -0.4% | -0.2% | -0.2% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Mar) | -0.1% | 0.0% | -0.7% |
@@ -14,8 +14,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Low | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
@@ -37,8 +37,8 @@
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) | 4.2% |  | 1.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,850K | 1,880K | 1,893K |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Mar) | 2.8% | 3.0% | 3.1% |
 | 13:30 | USD | High | Core CPI (MoM) (Mar) | 0.1% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Mar) | 2.8% | 3.0% | 3.1% |
 | 13:30 | USD | Low | Core CPI Index (Mar) | 325.66 |  | 325.48 |
 | 13:30 | USD | High | CPI (MoM) (Mar) | -0.1% | 0.1% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (Mar) | 2.4% | 2.5% | 2.8% |
@@ -64,4 +64,4 @@
 | 19:00 | USD | Moderate | Federal Budget Balance (Mar) | -161.0B | -115.9B | -307.0B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,727B |  | 6,723B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.484T |  | 3.427T |
-| 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 53.9 |
+| 24 min | NZD | Moderate | Business NZ PMI (Mar) |  |  | 53.9 |
