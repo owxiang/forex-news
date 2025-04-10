@@ -5,7 +5,7 @@
 | 02:30 | CNY | CPI (MoM) (Mar) | -0.4% | -0.2% | -0.2% |
 | 02:30 | CNY | CPI (YoY) (Mar) | -0.1% | 0.0% | -0.7% |
 | 02:30 | CNY | PPI (YoY) (Mar) | -2.5% | -2.3% | -2.2% |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 21 min | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 13:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,903K |
