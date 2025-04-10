@@ -11,10 +11,10 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
 | 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
+| 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.349% |  | 3.382% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction | 3.014% |  | 2.809% |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 2.120% |  | 2.337% |
@@ -26,10 +26,10 @@
 | 11:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 48.90 |  | 47.92 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 43.43 |  | 46.35 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) | -3.2% |  | -3.2% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) | 0.3% |  | 0.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 4.2% |  | 1.1% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) | -3.2% |  | -3.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 4.2% |  | 1.1% |
 | 13:30 | USD | Core CPI Index (Mar) | 325.66 |  | 325.48 |
 | 13:30 | USD | CPI Index, n.s.a. (Mar) | 319.80 | 320.17 | 319.08 |
 | 13:30 | USD | CPI Index, s.a (Mar) | 319.62 |  | 319.78 |
@@ -43,4 +43,4 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.245% |  | 4.240% |
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.240% |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.427T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.484T |  | 3.427T |
