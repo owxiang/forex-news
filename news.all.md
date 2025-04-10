@@ -14,8 +14,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Low | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
@@ -59,9 +59,9 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.240% |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 23 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 53 min | USD | High | 30-Year Bond Auction |  |  | 4.623% |
-| 19:00 | USD | Moderate | Federal Budget Balance (Mar) |  | -115.9B | -307.0B |
+| 17:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.813% |  | 4.623% |
+| 54 min | USD | Moderate | Federal Budget Balance (Mar) |  | -115.9B | -307.0B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,723B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.427T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 53.9 |

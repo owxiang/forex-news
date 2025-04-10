@@ -11,8 +11,8 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
+| 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.349% |  | 3.382% |
