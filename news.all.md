@@ -8,10 +8,10 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
 | 00:50 | JPY | Low | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
 | 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
-| 32 min | AUD | Low | MI Inflation Expectations (Apr) |  |  | 3.6% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Mar) |  | -0.2% | -0.2% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Mar) |  | 0.0% | -0.7% |
-| 02:30 | CNY | Moderate | PPI (YoY) (Mar) |  | -2.3% | -2.2% |
+| 02:00 | AUD | Low | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -0.4% | -0.2% | -0.2% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Mar) | -0.1% | 0.0% | -0.7% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.5% | -2.3% | -2.2% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 1.157% |
 | 07:00 | NOK | Low | Core CPI YTD (Mar) |  | 3.4% | 3.4% |

@@ -7,7 +7,7 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
 | 00:50 | JPY | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
 | 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
-| 32 min | AUD | MI Inflation Expectations (Apr) |  |  | 3.6% |
+| 02:00 | AUD | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) |  | 3.4% | 3.4% |
