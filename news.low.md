@@ -11,8 +11,8 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
 | 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
+| 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.349% |  | 3.382% |
@@ -26,8 +26,8 @@
 | 11:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 48.90 |  | 47.92 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 43.43 |  | 46.35 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) | -3.2% |  | -3.2% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) | 0.3% |  | 0.4% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) | -3.2% |  | -3.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 4.2% |  | 1.1% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
 | 13:30 | USD | Core CPI Index (Mar) | 325.66 |  | 325.48 |
