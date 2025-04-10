@@ -16,5 +16,5 @@
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:30 | USD | FOMC Member Harker Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Mar) | -161.0B | -115.9B | -307.0B |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,723B |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,723B |
 | 23:30 | NZD | Business NZ PMI (Mar) |  |  | 53.9 |

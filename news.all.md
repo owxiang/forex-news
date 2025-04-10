@@ -5,8 +5,8 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Mar) | 2.8% | 3.1% | 3.0% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -2,569.8B |  | -5.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
-| 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
 | 00:50 | JPY | Low | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
+| 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
 | 02:00 | AUD | Low | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -0.4% | -0.2% | -0.2% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Mar) | -0.1% | 0.0% | -0.7% |
@@ -34,8 +34,8 @@
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | -3.2% |  | -3.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | 0.3% |  | 0.4% |
 | 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) | 4.2% |  | 1.1% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,850K | 1,880K | 1,893K |
 | 13:30 | USD | High | Core CPI (MoM) (Mar) | 0.1% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) | 2.8% | 3.0% | 3.1% |
@@ -62,6 +62,6 @@
 | 17:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.813% |  | 4.623% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Mar) | -161.0B | -115.9B | -307.0B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,723B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.427T |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,723B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.427T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 53.9 |
