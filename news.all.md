@@ -14,10 +14,10 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Low | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | -0.9% | -0.9% | 2.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -2.7% | -1.9% | -0.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.349% |  | 3.382% |
 | 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.014% |  | 2.809% |
@@ -31,25 +31,25 @@
 | 11:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 48.90 |  | 47.92 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 43.43 |  | 46.35 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | 0.3% |  | 0.4% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | -3.2% |  | -3.2% |
-| 54 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,903K |
-| 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.2% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |
-| 13:30 | USD | Low | Core CPI Index (Mar) |  |  | 325.48 |
-| 13:30 | USD | High | CPI (MoM) (Mar) |  | 0.1% | 0.2% |
-| 13:30 | USD | High | CPI (YoY) (Mar) |  | 2.5% | 2.8% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Mar) |  | 320.17 | 319.08 |
-| 13:30 | USD | Low | CPI Index, s.a (Mar) |  |  | 319.78 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.44% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 223K | 219K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.00K |
-| 13:30 | USD | Low | Real Earnings (MoM) (Mar) |  |  | 0.1% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) |  | -0.4% | -3.2% |
-| 14:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | 0.3% |  | 0.4% |
+| 13:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) | 0.8% |  | -0.6% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) | 4.2% |  | 1.1% |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,903K |
+| 19 min | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.2% |
+| 19 min | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |
+| 19 min | USD | Low | Core CPI Index (Mar) |  |  | 325.48 |
+| 19 min | USD | High | CPI (YoY) (Mar) |  | 2.5% | 2.8% |
+| 19 min | USD | High | CPI (MoM) (Mar) |  | 0.1% | 0.2% |
+| 19 min | USD | Low | CPI Index, n.s.a. (Mar) |  | 320.17 | 319.08 |
+| 19 min | USD | Low | CPI Index, s.a (Mar) |  |  | 319.78 |
+| 19 min | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.44% |
+| 19 min | USD | High | Initial Jobless Claims |  | 223K | 219K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 223.00K |
+| 19 min | USD | Low | Real Earnings (MoM) (Mar) |  |  | 0.1% |
+| 19 min | CAD | Moderate | Building Permits (MoM) (Feb) |  | -0.4% | -3.2% |
+| 49 min | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 14:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 60B | 29B |
