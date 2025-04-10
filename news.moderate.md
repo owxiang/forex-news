@@ -11,8 +11,8 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,850K | 1,880K | 1,893K |
 | 13:30 | USD | Core CPI (YoY) (Mar) | 2.8% | 3.0% | 3.1% |
 | 13:30 | CAD | Building Permits (MoM) (Feb) | 2.9% | -0.4% | -4.3% |
-| 47 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 53 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 17:30 | USD | FOMC Member Harker Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Mar) |  | -115.9B | -307.0B |

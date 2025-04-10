@@ -37,9 +37,9 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 223.00K |  | 223.00K |
 | 13:30 | USD | Real Earnings (MoM) (Mar) | 0.3% |  | 0.3% |
 | 14:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 17 min | USD | Fed Logan Speaks |  |  |  |
-| 15:30 | USD | Natural Gas Storage |  | 60B | 29B |
-| 16:00 | USD | Cleveland CPI (MoM) (Mar) |  |  | 0.3% |
+| 14:30 | USD | Fed Logan Speaks |  |  |  |
+| 23 min | USD | Natural Gas Storage |  | 60B | 29B |
+| 53 min | USD | Cleveland CPI (MoM) (Mar) |  |  | 0.3% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.240% |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |

@@ -50,11 +50,11 @@
 | 13:30 | USD | Low | Real Earnings (MoM) (Mar) | 0.3% |  | 0.3% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) | 2.9% | -0.4% | -4.3% |
 | 14:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 47 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 60B | 29B |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Mar) |  |  | 0.3% |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 14:30 | USD | Low | Fed Logan Speaks |  |  |  |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 23 min | USD | Low | Natural Gas Storage |  | 60B | 29B |
+| 53 min | USD | Low | Cleveland CPI (MoM) (Mar) |  |  | 0.3% |
+| 53 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.240% |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
