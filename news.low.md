@@ -8,8 +8,8 @@
 | 00:50 | JPY | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
 | 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
 | 02:00 | AUD | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
-| 27 min | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 1.157% |
+| 16 min | JPY | 5-Year JGB Auction |  |  | 1.157% |
+| 41 min | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 07:00 | NOK | Core CPI YTD (Mar) |  | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) |  | 0.1% | 1.0% |
 | 07:00 | NOK | CPI (YoY) (Mar) |  | 2.9% | 3.6% |
