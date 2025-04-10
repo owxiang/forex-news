@@ -5,16 +5,16 @@
 | 00:50 | JPY | Bank Lending (YoY) (Mar) | 2.8% | 3.1% | 3.0% |
 | 00:50 | JPY | Foreign Bonds Buying | -2,569.8B |  | -5.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,808.4B |  | -449.8B |
-| 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
 | 00:50 | JPY | PPI (YoY) (Mar) | 4.2% | 3.9% | 4.1% |
+| 00:50 | JPY | PPI (MoM) (Mar) | 0.4% | 0.2% | 0.2% |
 | 02:00 | AUD | MI Inflation Expectations (Apr) | 4.2% |  | 3.6% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.938% |  | 1.157% |
 | 07:00 | NOK | Core CPI YTD (Mar) | 3.4% | 3.4% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.1% | 1.0% |
-| 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
 | 07:00 | NOK | CPI (MoM) (Mar) | -0.7% | -0.5% | 1.4% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | -0.9% | 3.2% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  | -1.9% | -0.6% |
+| 07:00 | NOK | CPI (YoY) (Mar) | 2.6% | 2.9% | 3.6% |
+| 53 min | EUR | Italian Industrial Production (MoM) (Feb) |  | -0.9% | 3.2% |
+| 53 min | EUR | Italian Industrial Production (YoY) (Feb) |  | -1.9% | -0.6% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.382% |
 | 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.809% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.337% |
@@ -28,8 +28,8 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 46.35 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  |  | -3.3% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  |  | 0.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 1.6% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | -0.2% |
 | 13:30 | USD | Core CPI Index (Mar) |  |  | 325.48 |
 | 13:30 | USD | CPI Index, n.s.a. (Mar) |  | 320.17 | 319.08 |
 | 13:30 | USD | CPI Index, s.a (Mar) |  |  | 319.78 |
