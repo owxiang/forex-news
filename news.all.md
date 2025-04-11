@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 0.8% | 1.2% | 1.2% |
 | 00:50 | JPY | Low | M3 Money Supply (Mar) | 2,202.2B |  | 2,202.2B |
-| 26 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 39.38 |
-| 26 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 60.18 |
-| 26 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 52.39 |
-| 26 min | JPY | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 35.68 |
-| 26 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 69.48 |
+| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 38.24 |  | 39.38 |
+| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 57.76 |  | 60.18 |
+| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 49.30 |  | 52.39 |
+| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Apr) | 36.04 |  | 35.68 |
+| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Apr) | 72.91 |  | 69.48 |
 | 05:00 | IDR | Low | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Feb) |  | 1.6% | 0.2% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Feb) |  | 0.2% | -0.2% |
@@ -24,8 +24,8 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) |  |  | -7.07B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 07:00 | EUR | Low | German HICP (MoM) (Mar) |  | 0.4% | 0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) |  | 2.3% | 2.6% |
+| 07:00 | EUR | Low | German HICP (MoM) (Mar) |  | 0.4% | 0.5% |
 | 07:00 | IDR | Low | Car Sales (YoY) (Mar) |  |  | 2.20% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -32 | -34 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) |  | 2.0% | 2.2% |
@@ -54,8 +54,8 @@
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 11.1% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 665.40B |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.20% | 0.90% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) |  |  | 1.31% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  |  | 5.06% |
