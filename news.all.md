@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
-| 44 min | JPY | Low | M3 Money Supply (Mar) |  |  | 2,199.8B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 0.8% | 1.2% | 1.2% |
+| 00:50 | JPY | Low | M3 Money Supply (Mar) | 2,202.2B |  | 2,202.2B |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 39.38 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 60.18 |
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 52.39 |
@@ -22,8 +22,8 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) |  | 0.4% | 0.2% |
 | 07:00 | GBP | Moderate | Trade Balance (Feb) |  | -17.30B | -17.85B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) |  |  | -7.07B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Mar) |  | 0.4% | 0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) |  | 2.3% | 2.6% |
 | 07:00 | IDR | Low | Car Sales (YoY) (Mar) |  |  | 2.20% |
@@ -57,8 +57,8 @@
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.20% | 0.90% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  |  | 5.06% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) |  |  | 1.31% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  |  | 5.06% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 1.32% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |

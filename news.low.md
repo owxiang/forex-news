@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | M2 Money Stock (YoY) |  | 1.2% | 1.2% |
-| 44 min | JPY | M3 Money Supply (Mar) |  |  | 2,199.8B |
+| 00:50 | JPY | M2 Money Stock (YoY) | 0.8% | 1.2% | 1.2% |
+| 00:50 | JPY | M3 Money Supply (Mar) | 2,202.2B |  | 2,202.2B |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 39.38 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 60.18 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 52.39 |
