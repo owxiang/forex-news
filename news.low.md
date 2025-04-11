@@ -9,15 +9,15 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 49.30 |  | 52.39 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 36.04 |  | 35.68 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 72.91 |  | 69.48 |
-| 05:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | 1.6% | 0.2% |
+| 40 min | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 07:00 | GBP | Construction Output (MoM) (Feb) |  | 0.2% | -0.2% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | 1.6% | 0.2% |
 | 07:00 | GBP | GDP (YoY) (Feb) |  | 0.9% | 1.0% |
 | 07:00 | GBP | Index of Services |  | 0.5% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) |  | -2.4% | -1.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) |  | -2.4% | -1.5% |
-| 07:00 | EUR | German HICP (YoY) (Mar) |  | 2.3% | 2.6% |
 | 07:00 | EUR | German HICP (MoM) (Mar) |  | 0.4% | 0.5% |
+| 07:00 | EUR | German HICP (YoY) (Mar) |  | 2.3% | 2.6% |
 | 07:00 | IDR | Car Sales (YoY) (Mar) |  |  | 2.20% |
 | 08:00 | EUR | Core CPI (YoY) (Mar) |  | 2.0% | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) |  | 0.1% | 0.4% |
@@ -37,8 +37,8 @@
 | 12:30 | INR | Bank Loan Growth |  |  | 11.1% |
 | 12:30 | INR | Deposit Growth |  |  | 10.2% |
 | 12:30 | INR | FX Reserves, USD |  |  | 665.40B |
-| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
 | 13:00 | MXN | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
+| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
 | 13:00 | BRL | IBC-Br Economic Activity (Feb) |  | 0.20% | 0.90% |
 | 13:00 | BRL | CPI (MoM) (Mar) |  |  | 1.31% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 1.32% |
