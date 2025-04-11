@@ -16,54 +16,52 @@
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.5% | 0.4% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) | 1.5% | 0.1% | -0.5% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Feb) | 0.1% | -2.3% | -0.5% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) | 0.3% | -2.4% | -0.9% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) | 2.2% | 0.2% | -1.0% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) | 0.3% | -2.4% | -0.9% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) | 0.6% | 0.4% | 0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Feb) | -20.81B | -17.30B | -18.22B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) | -8.58B |  | -7.37B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
-| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.6% |
+| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -32 | -34 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.0% | 2.0% | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.1% | 0.1% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% | 2.2% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
-| 3 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.83% |
-| 3 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.42% |
-| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.77% |
-| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.18% |
-| 23 min | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
-| 24 min | ZAR | Low | Business Confidence (Mar) |  |  |  |
-| 38 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 53 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
-| 11:30 | INR | Low | Cumulative Industrial Production (Feb) |  |  | 4.20% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Feb) |  | 4.0% | 5.0% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Feb) |  |  | 5.5% |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (Mar) |  | 7.0% | 7.0% |
-| 12:00 | CNY | Moderate | New Loans (Mar) |  | 3,020.0B | 1,010.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Mar) |  | 7.3% | 7.3% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (Mar) |  | 4,800.0B | 2,290.0B |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% | 2.2% | 2.9% |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.34% |  | 3.83% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction | 4.06% |  | 4.42% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.44% |  | 2.77% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction | 3.30% |  | 3.18% |
+| 10:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 23 min | INR | Moderate | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
+| 23 min | INR | Low | Cumulative Industrial Production (Feb) |  |  | 4.20% |
+| 23 min | INR | Low | Industrial Production (YoY) (Feb) |  | 4.0% | 5.0% |
+| 23 min | INR | Low | Manufacturing Output (MoM) (Feb) |  |  | 5.5% |
+| 53 min | CNY | Low | M2 Money Stock (YoY) (Mar) |  | 7.0% | 7.0% |
+| 53 min | CNY | Moderate | New Loans (Mar) |  | 3,020.0B | 1,010.0B |
+| 53 min | CNY | Low | Outstanding Loan Growth (YoY) (Mar) |  | 7.3% | 7.3% |
+| 53 min | CNY | Low | Chinese Total Social Financing (Mar) |  | 4,800.0B | 2,290.0B |
 | 12:25 | GBP | Moderate | NIESR Monthly GDP Tracker (Mar) |  |  | 0.4% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 11.1% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 665.40B |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.20% | 0.90% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) |  |  | 1.31% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  |  | 5.06% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 1.32% |
-| 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
-| 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
 | 13:30 | USD | Low | PPI (YoY) (Mar) |  | 3.3% | 3.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.2% |
+| 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.3% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.2% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Feb) |  |  | 11.8B |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |

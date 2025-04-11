@@ -11,11 +11,11 @@
 | 08:00 | CHF | SECO Consumer Climate | -35 | -32 | -34 |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) | 2.2% | 2.2% | 2.9% |
-| 3 min | EUR | Italian 10-Year BTP Auction |  |  | 3.83% |
-| 38 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
-| 11:30 | INR | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
-| 12:00 | CNY | New Loans (Mar) |  | 3,020.0B | 1,010.0B |
+| 10:10 | EUR | Italian 10-Year BTP Auction | 3.34% |  | 3.83% |
+| 10:45 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 23 min | INR | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
+| 53 min | CNY | New Loans (Mar) |  | 3,020.0B | 1,010.0B |
 | 12:25 | GBP | NIESR Monthly GDP Tracker (Mar) |  |  | 0.4% |
 | 13:00 | BRL | CPI (YoY) (Mar) |  |  | 5.06% |
 | 13:30 | USD | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
