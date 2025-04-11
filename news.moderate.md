@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (Feb) |  | 0.1% | -0.9% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Feb) |  | 0.2% | -1.1% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.4% | 0.2% |
-| 07:00 | GBP | Trade Balance (Feb) |  | -17.30B | -17.85B |
-| 07:00 | GBP | Trade Balance Non-EU (Feb) |  |  | -7.07B |
-| 07:00 | EUR | German CPI (YoY) (Mar) |  | 2.2% | 2.3% |
+| 53 min | GBP | Industrial Production (MoM) (Feb) |  | 0.1% | -0.9% |
+| 53 min | GBP | Manufacturing Production (MoM) (Feb) |  | 0.2% | -1.1% |
+| 53 min | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.4% | 0.2% |
+| 53 min | GBP | Trade Balance (Feb) |  | -17.30B | -17.85B |
+| 53 min | GBP | Trade Balance Non-EU (Feb) |  |  | -7.07B |
+| 53 min | EUR | German CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 08:00 | CHF | SECO Consumer Climate |  | -32 | -34 |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 2.3% | 3.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 2.2% | 2.9% |
