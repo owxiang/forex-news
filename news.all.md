@@ -14,21 +14,21 @@
 | 07:00 | GBP | High | GDP (MoM) (Feb) | 0.5% | 0.1% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (Feb) | 1.4% | 0.9% | 1.2% |
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.5% | 0.4% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) | 1.5% | 0.1% | -0.5% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Feb) | 0.1% | -2.3% | -0.5% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) | 1.5% | 0.1% | -0.5% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) | 0.3% | -2.4% | -0.9% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) | 2.2% | 0.2% | -1.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) | 0.6% | 0.4% | 0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Feb) | -20.81B | -17.30B | -18.22B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) | -8.58B |  | -7.37B |
-| 07:00 | EUR | High | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
-| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
+| 07:00 | EUR | High | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.6% |
+| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -32 | -34 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.0% | 2.0% | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.1% | 0.1% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% | 2.2% | 2.9% |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.34% |  | 3.83% |
@@ -56,8 +56,8 @@
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) | -0.1% | 0.3% | 0.1% |
 | 13:30 | USD | High | PPI (MoM) (Mar) | -0.4% | 0.2% | 0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Mar) | 2.7% | 3.3% | 3.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.1% |  | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.4% |  | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.1% |  | 0.4% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) | 6.7% |  | 5.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) | 4.4% | 4.3% | 4.1% |
