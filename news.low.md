@@ -9,8 +9,8 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 49.30 |  | 52.39 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 36.04 |  | 35.68 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 72.91 |  | 69.48 |
-| 07:00 | GBP | Construction Output (MoM) (Feb) | 0.4% | 0.2% | -0.3% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Feb) | 1.6% | 1.6% | 0.0% |
+| 07:00 | GBP | Construction Output (MoM) (Feb) | 0.4% | 0.2% | -0.3% |
 | 07:00 | GBP | GDP (YoY) (Feb) | 1.4% | 0.9% | 1.2% |
 | 07:00 | GBP | Index of Services | 0.6% | 0.5% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) | 0.1% | -2.3% | -0.5% |
