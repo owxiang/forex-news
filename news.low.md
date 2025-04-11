@@ -9,14 +9,14 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 49.30 |  | 52.39 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 36.04 |  | 35.68 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 72.91 |  | 69.48 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) | 1.6% | 1.6% | 0.0% |
 | 07:00 | GBP | Construction Output (MoM) (Feb) | 0.4% | 0.2% | -0.3% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) | 1.6% | 1.6% | 0.0% |
 | 07:00 | GBP | GDP (YoY) (Feb) | 1.4% | 0.9% | 1.2% |
 | 07:00 | GBP | Index of Services | 0.6% | 0.5% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) | 0.1% | -2.3% | -0.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 0.3% | -2.4% | -0.9% |
-| 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.6% |
 | 07:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
+| 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.6% |
 | 08:00 | EUR | Core CPI (YoY) (Mar) | 2.0% | 2.0% | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.1% | 0.1% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
@@ -38,18 +38,18 @@
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.51% |  | 1.32% |
 | 13:30 | USD | Core PPI (YoY) (Mar) | 3.3% | 3.6% | 3.5% |
 | 13:30 | USD | PPI (YoY) (Mar) | 2.7% | 3.3% | 3.2% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.4% |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.1% |  | 0.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.4% |  | 3.5% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | Michigan Current Conditions (Apr) | 56.5 | 61.5 | 63.8 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.0K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 166.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -122.6K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 57.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -3.5K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -102.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -130.0K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 51.1K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -42.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -45.0K |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 30.0K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | 166.9K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -122.6K |
+| 25 min | USD | CFTC Silver speculative net positions |  |  | 57.3K |
+| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -3.5K |
+| 25 min | USD | CFTC Wheat speculative net positions |  |  | -102.8K |
+| 25 min | CAD | CFTC CAD speculative net positions |  |  | -130.0K |
+| 25 min | MXN | CFTC MXN speculative net positions |  |  | 51.1K |
+| 25 min | CHF | CFTC CHF speculative net positions |  |  | -42.8K |
+| 25 min | NZD | CFTC NZD speculative net positions |  |  | -45.0K |
