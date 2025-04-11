@@ -8,9 +8,9 @@
 | 07:00 | GBP | Trade Balance (Feb) | -20.81B | -17.30B | -18.22B |
 | 07:00 | GBP | Trade Balance Non-EU (Feb) | -8.58B |  | -7.37B |
 | 07:00 | EUR | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
-| 52 min | CHF | SECO Consumer Climate |  | -32 | -34 |
-| 52 min | EUR | Spanish CPI (YoY) (Mar) |  | 2.3% | 3.0% |
-| 52 min | EUR | Spanish HICP (YoY) (Mar) |  | 2.2% | 2.9% |
+| 08:00 | CHF | SECO Consumer Climate | -35 | -32 | -34 |
+| 08:00 | EUR | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) | 2.2% | 2.2% | 2.9% |
 | 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.83% |
 | 10:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |

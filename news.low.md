@@ -15,12 +15,11 @@
 | 07:00 | GBP | Index of Services | 0.6% | 0.5% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) | 0.1% | -2.3% | -0.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 0.3% | -2.4% | -0.9% |
-| 07:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
 | 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.6% |
-| 07:00 | IDR | Car Sales (YoY) (Mar) |  |  | 2.20% |
-| 52 min | EUR | Core CPI (YoY) (Mar) |  | 2.0% | 2.2% |
-| 52 min | EUR | Spanish CPI (MoM) (Mar) |  | 0.1% | 0.4% |
-| 52 min | EUR | Spanish HICP (MoM) (Mar) |  | 0.7% | 0.4% |
+| 07:00 | EUR | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
+| 08:00 | EUR | Core CPI (YoY) (Mar) | 2.0% | 2.0% | 2.2% |
+| 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.1% | 0.1% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.42% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.77% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.18% |
