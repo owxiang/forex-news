@@ -20,12 +20,12 @@
 | 08:00 | EUR | Core CPI (YoY) (Mar) | 2.0% | 2.0% | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.1% | 0.1% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.42% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.77% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.18% |
-| 10:30 | ZAR | Business Confidence (Feb) |  |  | 120.0 |
-| 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 3 min | EUR | Italian 15-Year BTP Auction |  |  | 4.42% |
+| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.77% |
+| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 3.18% |
+| 23 min | ZAR | Business Confidence (Feb) |  |  | 120.0 |
+| 24 min | ZAR | Business Confidence (Mar) |  |  |  |
+| 53 min | EUR | ECOFIN Meetings |  |  |  |
 | 11:30 | INR | Cumulative Industrial Production (Feb) |  |  | 4.20% |
 | 11:30 | INR | Industrial Production (YoY) (Feb) |  | 4.0% | 5.0% |
 | 11:30 | INR | Manufacturing Output (MoM) (Feb) |  |  | 5.5% |

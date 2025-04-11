@@ -31,15 +31,15 @@
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.1% | 0.1% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% | 2.2% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
-| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.83% |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.42% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.77% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.18% |
-| 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
-| 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
-| 10:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 3 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.83% |
+| 3 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.42% |
+| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.77% |
+| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.18% |
+| 23 min | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
+| 24 min | ZAR | Low | Business Confidence (Mar) |  |  |  |
+| 38 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 53 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
 | 11:30 | INR | Low | Cumulative Industrial Production (Feb) |  |  | 4.20% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Feb) |  | 4.0% | 5.0% |
@@ -55,8 +55,8 @@
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.20% | 0.90% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  |  | 5.06% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) |  |  | 1.31% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  |  | 5.06% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 1.32% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
