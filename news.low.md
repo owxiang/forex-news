@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | M2 Money Stock (YoY) | 0.8% | 1.2% | 1.2% |
 | 00:50 | JPY | M3 Money Supply (Mar) | 2,202.2B |  | 2,202.2B |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 39.38 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 60.18 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 52.39 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) |  |  | 35.68 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 69.48 |
+| 26 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 39.38 |
+| 26 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 60.18 |
+| 26 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 52.39 |
+| 26 min | JPY | Thomson Reuters IPSOS PCSI (Apr) |  |  | 35.68 |
+| 26 min | CNY | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 69.48 |
 | 05:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
-| 07:00 | GBP | Construction Output (MoM) (Feb) |  | 0.2% | -0.2% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | 1.6% | 0.2% |
+| 07:00 | GBP | Construction Output (MoM) (Feb) |  | 0.2% | -0.2% |
 | 07:00 | GBP | GDP (YoY) (Feb) |  | 0.9% | 1.0% |
 | 07:00 | GBP | Index of Services |  | 0.5% | 0.4% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) |  | -2.4% | -1.5% |
@@ -44,8 +44,8 @@
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 1.32% |
 | 13:30 | USD | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
 | 13:30 | USD | PPI (YoY) (Mar) |  | 3.3% | 3.2% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.2% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.2% |
 | 13:45 | EUR | German Current Account Balance n.s.a (Feb) |  |  | 11.8B |
 | 15:00 | USD | Michigan Current Conditions (Apr) |  | 61.5 | 63.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
