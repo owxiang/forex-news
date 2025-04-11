@@ -41,7 +41,7 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.4% |  | 3.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.1% |  | 0.4% |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
-| 48 min | USD | Michigan Current Conditions (Apr) |  | 61.5 | 63.8 |
+| 15:00 | USD | Michigan Current Conditions (Apr) | 56.5 | 61.5 | 63.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 30.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 166.9K |

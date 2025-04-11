@@ -59,12 +59,12 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.4% |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.1% |  | 0.4% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 48 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |
-| 48 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  |  | 4.1% |
-| 48 min | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 50.8 | 52.6 |
-| 48 min | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 54.0 | 57.0 |
-| 48 min | USD | Low | Michigan Current Conditions (Apr) |  | 61.5 | 63.8 |
-| 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) | 6.7% |  | 5.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) | 4.4% | 4.3% | 4.1% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) | 47.2 | 50.8 | 52.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 50.8 | 54.0 | 57.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Apr) | 56.5 | 61.5 | 63.8 |
+| 53 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 489 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.6K |
