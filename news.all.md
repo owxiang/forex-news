@@ -42,25 +42,21 @@
 | 11:30 | INR | Low | Cumulative Industrial Production (Feb) | 4.10% |  | 4.20% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Feb) | 2.9% | 4.0% | 5.2% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Feb) | 2.9% |  | 5.8% |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (Mar) |  | 7.0% | 7.0% |
-| 12:00 | CNY | Moderate | New Loans (Mar) |  | 3,020.0B | 1,010.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (Mar) |  | 7.3% | 7.3% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (Mar) |  | 4,800.0B | 2,290.0B |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 11.1% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.2% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 665.40B |
-| 54 min | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
-| 54 min | MXN | Low | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Feb) |  | 0.20% | 0.90% |
-| 54 min | BRL | Low | CPI (MoM) (Mar) |  | 0.56% | 1.31% |
-| 54 min | BRL | Moderate | CPI (YoY) (Mar) |  | 5.48% | 5.06% |
-| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 1.32% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
+| 12:30 | INR | Low | Bank Loan Growth | 11.0% |  | 11.1% |
+| 12:30 | INR | Low | Deposit Growth | 10.3% |  | 10.2% |
+| 12:30 | INR | Low | FX Reserves, USD | 676.27B |  | 665.40B |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) | 2.5% | 0.1% | -0.6% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Feb) | 0.4% | -3.9% | -2.9% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) | 0.40% | 0.20% | 0.90% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 5.48% | 5.48% | 5.06% |
+| 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.56% | 0.56% | 1.31% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.51% |  | 1.32% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
 | 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Mar) |  | 3.3% | 3.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.2% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.3% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Feb) |  |  | 11.8B |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |

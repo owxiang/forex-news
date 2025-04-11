@@ -15,8 +15,7 @@
 | 10:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | GBP | NIESR Monthly GDP Tracker (Mar) | 0.6% |  | 0.6% |
-| 12:00 | CNY | New Loans (Mar) |  | 3,020.0B | 1,010.0B |
-| 54 min | BRL | CPI (YoY) (Mar) |  | 5.48% | 5.06% |
+| 13:00 | BRL | CPI (YoY) (Mar) | 5.48% | 5.48% | 5.06% |
 | 13:30 | USD | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  |  | 4.1% |

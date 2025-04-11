@@ -27,21 +27,18 @@
 | 11:30 | INR | Cumulative Industrial Production (Feb) | 4.10% |  | 4.20% |
 | 11:30 | INR | Industrial Production (YoY) (Feb) | 2.9% | 4.0% | 5.2% |
 | 11:30 | INR | Manufacturing Output (MoM) (Feb) | 2.9% |  | 5.8% |
-| 12:00 | CNY | M2 Money Stock (YoY) (Mar) |  | 7.0% | 7.0% |
-| 12:00 | CNY | Outstanding Loan Growth (YoY) (Mar) |  | 7.3% | 7.3% |
-| 12:00 | CNY | Chinese Total Social Financing (Mar) |  | 4,800.0B | 2,290.0B |
-| 24 min | INR | Bank Loan Growth |  |  | 11.1% |
-| 24 min | INR | Deposit Growth |  |  | 10.2% |
-| 24 min | INR | FX Reserves, USD |  |  | 665.40B |
-| 54 min | MXN | Industrial Production (MoM) (Feb) |  | 0.1% | -0.4% |
-| 54 min | MXN | Industrial Production (YoY) (Feb) |  | -3.9% | -2.9% |
-| 54 min | BRL | IBC-Br Economic Activity (Feb) |  | 0.20% | 0.90% |
-| 54 min | BRL | CPI (MoM) (Mar) |  | 0.56% | 1.31% |
-| 54 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 1.32% |
+| 12:30 | INR | Bank Loan Growth | 11.0% |  | 11.1% |
+| 12:30 | INR | Deposit Growth | 10.3% |  | 10.2% |
+| 12:30 | INR | FX Reserves, USD | 676.27B |  | 665.40B |
+| 13:00 | MXN | Industrial Production (MoM) (Feb) | 2.5% | 0.1% | -0.6% |
+| 13:00 | MXN | Industrial Production (YoY) (Feb) | 0.4% | -3.9% | -2.9% |
+| 13:00 | BRL | IBC-Br Economic Activity (Feb) | 0.40% | 0.20% | 0.90% |
+| 13:00 | BRL | CPI (MoM) (Mar) | 0.56% | 0.56% | 1.31% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.51% |  | 1.32% |
 | 13:30 | USD | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
 | 13:30 | USD | PPI (YoY) (Mar) |  | 3.3% | 3.2% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.2% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.3% |
 | 13:45 | EUR | German Current Account Balance n.s.a (Feb) |  |  | 11.8B |
 | 14:00 | USD | Fed Collins Speaks |  |  |  |
 | 15:00 | USD | Michigan Current Conditions (Apr) |  | 61.5 | 63.8 |
