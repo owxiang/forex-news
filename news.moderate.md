@@ -21,7 +21,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) | 4.4% | 4.3% | 4.1% |
 | 15:00 | USD | Michigan Consumer Expectations (Apr) | 47.2 | 50.8 | 52.6 |
 | 15:00 | USD | Michigan Consumer Sentiment (Apr) | 50.8 | 54.0 | 57.0 |
-| 53 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 489 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 590 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 34.6K |

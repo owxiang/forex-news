@@ -23,12 +23,12 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) | -8.58B |  | -7.37B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 07:00 | EUR | High | German CPI (MoM) (Mar) | 0.3% | 0.3% | 0.4% |
-| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.6% |
+| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.4% | 0.4% | 0.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -35 | -32 | -34 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 2.0% | 2.0% | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.1% | 0.1% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 2.2% | 2.2% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 0.7% | 0.7% | 0.4% |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.34% |  | 3.83% |
@@ -49,8 +49,8 @@
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) | 0.4% | -3.9% | -2.9% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Feb) | 20.0B |  | 14.9B |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) | 0.40% | 0.20% | 0.90% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 5.48% | 5.48% | 5.06% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.56% | 0.56% | 1.31% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 5.48% | 5.48% | 5.06% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.51% |  | 1.32% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) | -0.1% | 0.3% | 0.1% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) | 3.3% | 3.6% | 3.5% |
@@ -64,7 +64,7 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) | 47.2 | 50.8 | 52.6 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 50.8 | 54.0 | 57.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) | 56.5 | 61.5 | 63.8 |
-| 53 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 489 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.6K |
