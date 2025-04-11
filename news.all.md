@@ -47,23 +47,23 @@
 | 12:30 | INR | Low | FX Reserves, USD | 676.27B |  | 665.40B |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) | 2.5% | 0.1% | -0.6% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) | 0.4% | -3.9% | -2.9% |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Feb) | 20.0B |  | 14.9B |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) | 0.40% | 0.20% | 0.90% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 5.48% | 5.48% | 5.06% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.56% | 0.56% | 1.31% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.51% |  | 1.32% |
-| 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 3.6% | 3.4% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
-| 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.2% | 0.0% |
-| 13:30 | USD | Low | PPI (YoY) (Mar) |  | 3.3% | 3.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 3.3% |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (Feb) |  |  | 11.8B |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) | -0.1% | 0.3% | 0.1% |
+| 13:30 | USD | Low | Core PPI (YoY) (Mar) | 3.3% | 3.6% | 3.5% |
+| 13:30 | USD | Low | PPI (YoY) (Mar) | 2.7% | 3.3% | 3.2% |
+| 13:30 | USD | High | PPI (MoM) (Mar) | -0.4% | 0.2% | 0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) | 3.4% |  | 3.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.1% |  | 0.4% |
 | 14:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  |  | 4.1% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 50.8 | 52.6 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 54.0 | 57.0 |
-| 15:00 | USD | Low | Michigan Current Conditions (Apr) |  | 61.5 | 63.8 |
+| 48 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |
+| 48 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  |  | 4.1% |
+| 48 min | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 50.8 | 52.6 |
+| 48 min | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 54.0 | 57.0 |
+| 48 min | USD | Low | Michigan Current Conditions (Apr) |  | 61.5 | 63.8 |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 489 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |

@@ -16,11 +16,11 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | GBP | NIESR Monthly GDP Tracker (Mar) | 0.6% |  | 0.6% |
 | 13:00 | BRL | CPI (YoY) (Mar) | 5.48% | 5.48% | 5.06% |
-| 13:30 | USD | Core PPI (MoM) (Mar) |  | 0.3% | -0.1% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  |  | 4.1% |
-| 15:00 | USD | Michigan Consumer Expectations (Apr) |  | 50.8 | 52.6 |
-| 15:00 | USD | Michigan Consumer Sentiment (Apr) |  | 54.0 | 57.0 |
+| 13:30 | USD | Core PPI (MoM) (Mar) | -0.1% | 0.3% | 0.1% |
+| 48 min | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 5.0% |
+| 48 min | USD | Michigan 5-Year Inflation Expectations (Apr) |  |  | 4.1% |
+| 48 min | USD | Michigan Consumer Expectations (Apr) |  | 50.8 | 52.6 |
+| 48 min | USD | Michigan Consumer Sentiment (Apr) |  | 54.0 | 57.0 |
 | 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 489 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 590 |
