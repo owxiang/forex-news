@@ -5,4 +5,4 @@
 | 08:10 | CNY | Exports (Mar) |  |  | -1.90M |
 | 08:10 | CNY | Imports (Mar) |  |  | 2.50M |
 | 08:10 | CNY | Trade Balance (Mar) |  |  | 228.19B |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 54 min | EUR | ECOFIN Meetings |  |  |  |

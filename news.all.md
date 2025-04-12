@@ -8,5 +8,5 @@
 | 08:10 | CNY | Moderate | Exports (YoY) (Mar) |  |  | 2.3% |
 | 08:10 | CNY | Moderate | Imports (YoY) (Mar) |  |  | -8.4% |
 | 08:10 | CNY | Moderate | Trade Balance (USD) (Mar) |  |  | 170.52B |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
