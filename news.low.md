@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:45 | NZD | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -3.0% | -0.4% | 2.0% |
+| 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 04:00 | CNY | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Imports (Mar) | -3.50M |  | 2.50M |
@@ -12,11 +12,7 @@
 | 04:00 | IDR | FX Reserves (USD) (Mar) | 157.10B |  | 154.50B |
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
-| 21 min | CHF | PPI (YoY) (Mar) |  |  | -0.1% |
-| 21 min | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
-| 21 min | INR | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
-| 21 min | INR | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
-| 51 min | IDR | Car Sales (YoY) (Mar) |  |  | 2.20% |
+| 07:30 | CHF | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.133% |
 | 10:30 | ZAR | Business Confidence (Feb) |  |  | 120.0 |
 | 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
