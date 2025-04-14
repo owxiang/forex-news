@@ -11,4 +11,4 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Feb) | 0.3% | 0.4% | 1.4% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Mar) | 3.6% |  | 3.1% |
 | 18:00 | USD | Fed Waller Speaks |  |  |  |
-| 54 min | USD | FOMC Member Harker Speaks |  |  |  |
+| 23:00 | USD | FOMC Member Harker Speaks |  |  |  |
