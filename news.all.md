@@ -27,7 +27,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.013% |  | 1.996% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.192% |  | 2.212% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.101% |  | 2.092% |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Mar) |  |  | 3.1% |
+| 53 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Mar) |  |  | 3.1% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.175% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.000% |
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
