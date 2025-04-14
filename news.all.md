@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:45 | NZD | Low | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 04:00 | CNY | Low | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Low | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Low | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
