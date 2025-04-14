@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:45 | NZD | Low | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 04:00 | CNY | Low | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Low | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Low | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
@@ -27,10 +27,10 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 2.013% |  | 1.996% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.192% |  | 2.212% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.101% |  | 2.092% |
-| 53 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Mar) |  |  | 3.1% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.175% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.000% |
-| 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Mar) | 3.6% |  | 3.1% |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.175% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.000% |
+| 53 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.5% |

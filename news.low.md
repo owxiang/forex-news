@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:45 | NZD | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
+| 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 04:00 | CNY | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
@@ -20,7 +20,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.013% |  | 1.996% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.192% |  | 2.212% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.101% |  | 2.092% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.175% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.000% |
-| 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.175% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.000% |
+| 53 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 23:45 | NZD | FPI (MoM) (Mar) |  |  | -0.5% |
