@@ -13,10 +13,10 @@
 | 04:00 | IDR | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
 | 07:30 | CHF | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 2.133% |
-| 10:30 | ZAR | Business Confidence (Feb) |  |  | 120.0 |
-| 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 22 min | EUR | German 12-Month Bubill Auction |  |  | 2.133% |
+| 22 min | ZAR | Business Confidence (Feb) |  |  | 120.0 |
+| 23 min | ZAR | Business Confidence (Mar) |  |  |  |
+| 52 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Feb) |  |  | 121.6K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.996% |

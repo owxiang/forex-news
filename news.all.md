@@ -16,12 +16,12 @@
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | 2.3% | 2.5% | -1.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.133% |
-| 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
-| 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
+| 22 min | EUR | Low | German 12-Month Bubill Auction |  |  | 2.133% |
+| 22 min | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
+| 23 min | ZAR | Low | Business Confidence (Mar) |  |  |  |
+| 52 min | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Feb) |  |  | 121.6K |
