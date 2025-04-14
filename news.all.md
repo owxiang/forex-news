@@ -28,9 +28,9 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.192% |  | 2.212% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.101% |  | 2.092% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Mar) | 3.6% |  | 3.1% |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.175% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.000% |
-| 53 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.175% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.060% |  | 4.000% |
+| 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 53 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.5% |

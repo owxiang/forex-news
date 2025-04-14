@@ -20,7 +20,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 2.013% |  | 1.996% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.192% |  | 2.212% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.101% |  | 2.092% |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.175% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.000% |
-| 53 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.175% |
+| 16:30 | USD | 6-Month Bill Auction | 4.060% |  | 4.000% |
+| 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 23:45 | NZD | FPI (MoM) (Mar) |  |  | -0.5% |
