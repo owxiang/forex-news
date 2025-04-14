@@ -16,8 +16,8 @@
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | 2.3% | 2.5% | -1.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
+| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.864% |  | 2.133% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
@@ -32,5 +32,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.060% |  | 4.000% |
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.5% |
