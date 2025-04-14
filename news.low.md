@@ -1,26 +1,58 @@
-## 14 April 2025 - Low Impact Forex News
+## 15 April 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
-| 00:45 | NZD | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
-| 04:00 | CNY | Exports (Mar) | 13.50M |  | -1.90M |
-| 04:00 | CNY | Imports (Mar) | -3.50M |  | 2.50M |
-| 04:00 | CNY | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
-| 04:00 | IDR | FX Reserves (USD) (Mar) | 157.10B |  | 154.50B |
-| 04:00 | IDR | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
-| 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
-| 07:30 | CHF | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
-| 10:50 | EUR | German 12-Month Bubill Auction | 1.864% |  | 2.133% |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Feb) | 125.4K |  | 121.3K |
-| 14:00 | EUR | French 12-Month BTF Auction | 2.013% |  | 1.996% |
-| 14:00 | EUR | French 3-Month BTF Auction | 2.192% |  | 2.212% |
-| 14:00 | EUR | French 6-Month BTF Auction | 2.101% |  | 2.092% |
-| 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.175% |
-| 16:30 | USD | 6-Month Bill Auction | 4.060% |  | 4.000% |
-| 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 39 min | NZD | FPI (MoM) (Mar) |  |  | -0.5% |
+| 49 min | KRW | Exports (YoY) (Mar) |  | 3.1% | 3.1% |
+| 49 min | KRW | Imports (YoY) (Mar) |  | 2.3% | 2.3% |
+| 49 min | KRW | Trade Balance (Mar) |  | 4.99B | 4.99B |
+| 04:00 | KRW | M3 Money Supply (Feb) |  |  | 5,709.9B |
+| 04:00 | KRW | M2 Money supply (Feb) |  |  | 5.70% |
+| 04:00 | IDR | Consumer Confidence (Mar) |  |  | 126.4 |
+| 07:00 | GBP | Average Earnings ex Bonus (Feb) |  | 6.0% | 5.9% |
+| 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
+| 07:00 | EUR | German WPI (YoY) (Mar) |  |  | 1.6% |
+| 07:00 | NOK | Trade Balance (Mar) |  |  | 84.7B |
+| 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
+| 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
+| 07:30 | INR | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
+| 07:30 | INR | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
+| 07:45 | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Mar) |  |  | 0.80% |
+| 07:45 | EUR | French CPI (YoY) (Mar) |  | 0.8% | 0.8% |
+| 07:45 | EUR | French HICP (YoY) (Mar) |  | 0.9% | 0.9% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 0.70% |
+| 08:00 | IDR | Car Sales (YoY) (Mar) |  |  | 2.20% |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.679% |
+| 10:00 | INR | Exports (USD) (Mar) |  |  | 36.91B |
+| 10:00 | INR | Imports (USD) (Mar) |  |  | 50.96B |
+| 10:00 | INR | Trade Balance (Mar) |  |  | -14.05B |
+| 10:00 | EUR | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.440% |
+| 10:30 | ZAR | Business Confidence (Feb) |  |  | 120.0 |
+| 10:30 | ZAR | Gold Production (YoY) (Feb) |  |  | 1.0% |
+| 10:30 | ZAR | Mining Production (Feb) |  |  | -2.7% |
+| 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
+| 12:00 | EUR | Reserve Assets Total (Mar) |  |  | 1,477.77B |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 13:00 | USD | Milk Auctions |  |  | 4,250.0 |
+| 13:30 | USD | Export Price Index (YoY) (Mar) |  |  | 2.1% |
+| 13:30 | USD | Import Price Index (YoY) (Mar) |  |  | 2.0% |
+| 13:30 | CAD | Common CPI (YoY) (Mar) |  | 2.4% | 2.5% |
+| 13:30 | CAD | CPI (YoY) (Mar) |  | 2.6% | 2.6% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) |  | -0.1% | 1.7% |
+| 13:30 | CAD | Median CPI (YoY) (Mar) |  | 2.9% | 2.9% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Mar) |  | 2.9% | 2.9% |
+| 13:55 | USD | Redbook (YoY) |  |  | 7.2% |
+| 15:30 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 3.945% |
+| 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
+| 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
+| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 6.3% |
+| 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | 4.6% |
