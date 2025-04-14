@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
-| 00:01 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 1.0% |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | 1.9% |
-| 54 min | SGD | GDP (YoY) (Q1) |  | 4.2% | 5.0% |
-| 54 min | SGD | GDP (QoQ) (Q1) |  | -0.4% | 2.0% |
+| 00:45 | NZD | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
+| 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 0.5% |
 | 04:00 | IDR | FX Reserves (USD) (Mar) |  |  | 154.50B |
 | 05:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
+| 05:01 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 1.0% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) |  |  | 4.5% |
 | 07:00 | IDR | Car Sales (YoY) (Mar) |  |  | 2.20% |
 | 07:30 | CHF | PPI (YoY) (Mar) |  |  | -0.1% |
