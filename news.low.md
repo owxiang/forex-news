@@ -16,10 +16,10 @@
 | 10:50 | EUR | German 12-Month Bubill Auction | 1.864% |  | 2.133% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19 min | CAD | New Motor Vehicle Sales (MoM) (Feb) |  |  | 121.6K |
-| 49 min | EUR | French 12-Month BTF Auction |  |  | 1.996% |
-| 49 min | EUR | French 3-Month BTF Auction |  |  | 2.212% |
-| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.092% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Feb) | 125.4K |  | 121.3K |
+| 14:00 | EUR | French 12-Month BTF Auction | 2.013% |  | 1.996% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.192% |  | 2.212% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.101% |  | 2.092% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.175% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.000% |
 | 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
