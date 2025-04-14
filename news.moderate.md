@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 04:00 | CNY | Imports (YoY) (Mar) | -4.3% | -2.0% | -8.4% |
+| 04:00 | CNY | Trade Balance (USD) (Mar) | 102.64B | 74.30B | 170.52B |
 | 04:02 | CNY | Exports (YoY) (Mar) | 12.4% | 4.4% | 2.3% |
-| 04:02 | CNY | Imports (YoY) (Mar) | -4.3% | -2.0% | -8.4% |
-| 04:02 | CNY | Trade Balance (USD) (Mar) | 102.64B | 74.30B | 170.52B |
 | 05:30 | JPY | Industrial Production (MoM) (Feb) |  | 2.5% | 2.5% |
 | 07:30 | CHF | PPI (MoM) (Mar) |  | 0.2% | 0.3% |
 | 07:30 | INR | WPI Inflation (YoY) (Mar) |  |  | 2.38% |
