@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:45 | NZD | Low | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 04:00 | CNY | Low | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Low | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Low | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
@@ -16,12 +16,12 @@
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | 2.3% | 2.5% | -1.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
+| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.864% |  | 2.133% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Feb) |  |  | 121.6K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  | 0.4% | 1.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.996% |
