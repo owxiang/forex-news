@@ -16,8 +16,8 @@
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | 2.3% | 2.5% | -1.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 2.133% |
 | 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
 | 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
