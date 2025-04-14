@@ -6,7 +6,7 @@
 | 00:45 | NZD | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
 | 01:00 | SGD | GDP (QoQ) (Q1) | -3.0% | -0.4% | 2.0% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
-| 04:00 | IDR | FX Reserves (USD) (Mar) |  |  | 154.50B |
+| 25 min | IDR | FX Reserves (USD) (Mar) |  |  | 154.50B |
 | 05:00 | IDR | Motorbike Sales (YoY) (Mar) |  |  | 4.00% |
 | 05:01 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 1.0% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) |  |  | 4.5% |
