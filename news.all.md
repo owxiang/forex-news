@@ -31,6 +31,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.175% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.060% |  | 4.000% |
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 53 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 18:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.5% |
