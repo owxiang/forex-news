@@ -5,14 +5,13 @@
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Mar) | 0.9% | 0.7% | 0.9% |
 | 00:40 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 53 min | GBP | Average Earnings Index +Bonus (Feb) |  | 5.7% | 5.8% |
-| 53 min | GBP | Claimant Count Change (Mar) |  | 30.3K | 44.2K |
-| 53 min | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | 144K |
-| 53 min | GBP | Unemployment Rate (Feb) |  | 4.4% | 4.4% |
-| 07:30 | INR | WPI Inflation (YoY) (Mar) |  |  | 2.38% |
-| 07:30 | INR | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
-| 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.0% |
-| 07:45 | EUR | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Feb) | 5.6% | 5.7% | 5.6% |
+| 07:00 | GBP | Claimant Count Change (Mar) | 18.7K | 30.3K | 16.5K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | 206K |  | 144K |
+| 07:00 | GBP | Unemployment Rate (Feb) | 4.4% | 4.4% | 4.4% |
+| 20 min | INR | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
+| 35 min | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.0% |
+| 35 min | EUR | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Apr) |  | -86.0 | -87.6 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | 10.6 | 51.6 |
