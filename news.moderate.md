@@ -9,8 +9,8 @@
 | 07:00 | GBP | Claimant Count Change (Mar) |  | 30.3K | 44.2K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | 144K |
 | 07:00 | GBP | Unemployment Rate (Feb) |  | 4.4% | 4.4% |
-| 07:30 | INR | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
 | 07:30 | INR | WPI Inflation (YoY) (Mar) |  |  | 2.38% |
+| 07:30 | INR | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
 | 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.0% |
 | 07:45 | EUR | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
@@ -18,8 +18,8 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | 10.6 | 51.6 |
 | 10:00 | EUR | Industrial Production (MoM) (Feb) |  | 0.1% | 0.8% |
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) |  | 14.2 | 39.8 |
-| 11:30 | INR | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
 | 11:30 | INR | CPI (YoY) (Mar) |  |  | 3.61% |
+| 11:30 | INR | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
 | 13:15 | CAD | Housing Starts (Mar) |  | 238.0K | 229.0K |
 | 13:30 | USD | Export Price Index (MoM) (Mar) |  |  | 0.1% |
 | 13:30 | USD | Import Price Index (MoM) (Mar) |  | 0.1% | 0.4% |

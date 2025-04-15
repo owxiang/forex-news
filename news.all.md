@@ -14,23 +14,23 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Mar) |  | 30.3K | 44.2K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) |  |  | 144K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) |  | 4.4% | 4.4% |
-| 07:00 | EUR | Low | German WPI (YoY) (Mar) |  |  | 1.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (Mar) |  |  | 1.6% |
 | 07:00 | NOK | Low | Trade Balance (Mar) |  |  | 84.7B |
 | 07:30 | INR | Low | WPI Food (YoY) (Mar) |  |  | 3.38% |
 | 07:30 | INR | Low | WPI Food (YoY) (Mar) |  |  | 3.38% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) |  |  | 2.38% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) |  |  | 0.80% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) |  |  | 0.20% |
-| 07:45 | EUR | Low | French CPI (YoY) (Mar) |  | 0.8% | 0.8% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) |  |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.2% | 0.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) |  | 0.8% | 0.8% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 0.9% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 0.70% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
@@ -40,16 +40,16 @@
 | 10:00 | INR | Low | Trade Balance (Mar) |  |  | -14.05B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) |  | -86.0 | -87.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) |  | 10.6 | 51.6 |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.1% | 0.8% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.1% | 0.8% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) |  | 14.2 | 39.8 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.440% |
 | 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) |  |  | 1.0% |
 | 10:30 | ZAR | Low | Mining Production (Feb) |  |  | -2.7% |
 | 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
 | 11:30 | INR | Moderate | CPI (YoY) (Mar) |  |  | 3.61% |
+| 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
 | 12:00 | EUR | Low | Reserve Assets Total (Mar) |  |  | 1,477.77B |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
@@ -75,8 +75,8 @@
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.057M |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 6.3% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Mar) |  |  | 4.6% |
