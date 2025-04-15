@@ -14,15 +14,15 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Mar) | 18.7K | 30.3K | 16.5K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) | 206K |  | 144K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.4% | 4.4% | 4.4% |
-| 07:00 | EUR | Low | German WPI (MoM) (Mar) | -0.2% | 0.2% | 0.6% |
 | 07:00 | EUR | Low | German WPI (YoY) (Mar) | 1.3% |  | 1.6% |
+| 07:00 | EUR | Low | German WPI (MoM) (Mar) | -0.2% | 0.2% | 0.6% |
 | 07:00 | NOK | Low | Trade Balance (Mar) | 60.2B |  | 84.6B |
 | 07:30 | INR | Low | WPI Food (YoY) (Mar) | 1.57% |  | 3.38% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 0.20% |  | -0.71% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 2.05% | 2.50% | 2.38% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
@@ -64,6 +64,6 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.820% |  | 3.945% |
 | 16:35 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.680M | -1.057M |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 6.3% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Mar) |  |  | 4.6% |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.680M | -1.057M |
+| 53 min | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 6.3% |
+| 53 min | KRW | Low | Import Price Index (YoY) (Mar) |  |  | 4.6% |

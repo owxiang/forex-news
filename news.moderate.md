@@ -26,4 +26,4 @@
 | 13:30 | CAD | Core CPI (YoY) (Mar) | 2.2% |  | 2.7% |
 | 13:30 | CAD | CPI (MoM) (Mar) | 0.3% | 0.7% | 1.1% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.680M | -1.057M |
+| 23 min | USD | API Weekly Crude Oil Stock |  | -1.680M | -1.057M |
