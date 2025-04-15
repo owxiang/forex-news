@@ -19,16 +19,16 @@
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 51 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.679% |
-| 51 min | INR | Exports (USD) (Mar) |  |  | 36.91B |
-| 51 min | INR | Imports (USD) (Mar) |  |  | 50.96B |
-| 51 min | INR | Trade Balance (Mar) |  |  | -14.05B |
-| 51 min | EUR | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.440% |
-| 10:30 | ZAR | Business Confidence (Feb) |  |  | 120.0 |
-| 10:30 | ZAR | Gold Production (YoY) (Feb) |  |  | 1.0% |
-| 10:30 | ZAR | Mining Production (Feb) |  |  | -2.7% |
-| 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.679% |
+| 10:00 | EUR | Industrial Production (YoY) (Feb) | 1.2% | -0.8% | -0.5% |
+| 23 min | EUR | German 5-Year Bobl Auction |  |  | 2.440% |
+| 23 min | ZAR | Business Confidence (Feb) |  |  | 120.0 |
+| 23 min | ZAR | Gold Production (YoY) (Feb) |  |  | 1.0% |
+| 23 min | ZAR | Mining Production (Feb) |  |  | -2.7% |
+| 24 min | ZAR | Business Confidence (Mar) |  |  |  |
+| 12:00 | INR | Exports (USD) (Mar) | 41.97B |  | 36.91B |
+| 12:00 | INR | Imports (USD) (Mar) | 63.51B |  | 50.96B |
+| 12:00 | INR | Trade Balance (Mar) | -21.54B |  | -14.05B |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
 | 12:00 | EUR | Reserve Assets Total (Mar) |  |  | 1,477.77B |
 | 13:30 | USD | Export Price Index (YoY) (Mar) |  |  | 2.1% |

@@ -13,10 +13,10 @@
 | 07:45 | EUR | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 51 min | EUR | German ZEW Current Conditions (Apr) |  | -86.0 | -87.6 |
-| 51 min | EUR | German ZEW Economic Sentiment (Apr) |  | 10.6 | 51.6 |
-| 51 min | EUR | Industrial Production (MoM) (Feb) |  | 0.1% | 0.8% |
-| 51 min | EUR | ZEW Economic Sentiment (Apr) |  | 13.2 | 39.8 |
+| 10:00 | EUR | German ZEW Current Conditions (Apr) | -81.2 | -86.0 | -87.6 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Apr) | -14.0 | 10.6 | 51.6 |
+| 10:00 | EUR | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
+| 10:00 | EUR | ZEW Economic Sentiment (Apr) | -18.5 | 13.2 | 39.8 |
 | 11:30 | INR | CPI (YoY) (Mar) |  |  | 3.61% |
 | 11:30 | INR | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
 | 13:15 | CAD | Housing Starts (Mar) |  | 239.0K | 229.0K |

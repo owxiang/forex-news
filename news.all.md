@@ -30,22 +30,22 @@
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 51 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.679% |
-| 51 min | INR | Low | Exports (USD) (Mar) |  |  | 36.91B |
-| 51 min | INR | Low | Imports (USD) (Mar) |  |  | 50.96B |
-| 51 min | INR | Low | Trade Balance (Mar) |  |  | -14.05B |
-| 51 min | EUR | Moderate | German ZEW Current Conditions (Apr) |  | -86.0 | -87.6 |
-| 51 min | EUR | Moderate | German ZEW Economic Sentiment (Apr) |  | 10.6 | 51.6 |
-| 51 min | EUR | Low | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
-| 51 min | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.1% | 0.8% |
-| 51 min | EUR | Moderate | ZEW Economic Sentiment (Apr) |  | 13.2 | 39.8 |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.440% |
-| 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Feb) |  |  | 1.0% |
-| 10:30 | ZAR | Low | Mining Production (Feb) |  |  | -2.7% |
-| 10:31 | ZAR | Low | Business Confidence (Mar) |  |  |  |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.679% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) | -81.2 | -86.0 | -87.6 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) | -14.0 | 10.6 | 51.6 |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | 1.2% | -0.8% | -0.5% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) | -18.5 | 13.2 | 39.8 |
+| 23 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.440% |
+| 23 min | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
+| 23 min | ZAR | Low | Gold Production (YoY) (Feb) |  |  | 1.0% |
+| 23 min | ZAR | Low | Mining Production (Feb) |  |  | -2.7% |
+| 24 min | ZAR | Low | Business Confidence (Mar) |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Mar) |  |  | 3.61% |
 | 11:30 | INR | Moderate | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
+| 12:00 | INR | Low | Exports (USD) (Mar) | 41.97B |  | 36.91B |
+| 12:00 | INR | Low | Imports (USD) (Mar) | 63.51B |  | 50.96B |
+| 12:00 | INR | Low | Trade Balance (Mar) | -21.54B |  | -14.05B |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
 | 12:00 | EUR | Low | Reserve Assets Total (Mar) |  |  | 1,477.77B |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) |  | 239.0K | 229.0K |
