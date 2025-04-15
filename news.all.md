@@ -25,8 +25,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
@@ -42,14 +42,14 @@
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -7.6% |  | 1.0% |
 | 10:30 | ZAR | Low | Mining Production (Feb) | -9.6% |  | -1.5% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.060% |  | 2.440% |
-| 23 min | INR | Moderate | CPI (YoY) (Mar) |  | 3.60% | 3.61% |
-| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
-| 53 min | EUR | Low | Reserve Assets Total (Mar) |  |  | 1,477.77B |
+| 11:00 | EUR | Low | Reserve Assets Total (Mar) | 1,510.27B |  | 1,477.77B |
+| 11:30 | INR | Moderate | CPI (YoY) (Mar) | 3.34% | 3.60% | 3.61% |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) |  | 239.0K | 229.0K |
 | 13:30 | USD | Low | Export Price Index (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Mar) |  |  | 2.0% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Mar) |  |  | 2.0% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | -12.80 | -20.00 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) |  | 2.5% | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) |  |  | 0.7% |

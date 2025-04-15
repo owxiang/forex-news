@@ -27,8 +27,8 @@
 | 10:30 | ZAR | Gold Production (YoY) (Feb) | -7.6% |  | 1.0% |
 | 10:30 | ZAR | Mining Production (Feb) | -9.6% |  | -1.5% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.060% |  | 2.440% |
-| 53 min | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
-| 53 min | EUR | Reserve Assets Total (Mar) |  |  | 1,477.77B |
+| 11:00 | EUR | Reserve Assets Total (Mar) | 1,510.27B |  | 1,477.77B |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
 | 13:30 | USD | Export Price Index (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) |  |  | 2.0% |
 | 13:30 | CAD | Common CPI (YoY) (Mar) |  | 2.5% | 2.5% |
