@@ -40,5 +40,5 @@
 | 15:30 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 16:30 | USD | 52-Week Bill Auction | 3.820% |  | 3.945% |
 | 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 53 min | KRW | Export Price Index (YoY) (Mar) |  |  | 6.3% |
-| 53 min | KRW | Import Price Index (YoY) (Mar) |  |  | 4.6% |
+| 22:00 | KRW | Export Price Index (YoY) (Mar) | 6.3% |  | 6.3% |
+| 22:00 | KRW | Import Price Index (YoY) (Mar) | 3.4% |  | 4.3% |

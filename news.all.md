@@ -23,10 +23,10 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
-| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
@@ -64,6 +64,6 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.820% |  | 3.945% |
 | 16:35 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.680M | -1.057M |
-| 53 min | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 6.3% |
-| 53 min | KRW | Low | Import Price Index (YoY) (Mar) |  |  | 4.6% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.400M | -1.680M | -1.057M |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Mar) | 6.3% |  | 6.3% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Mar) | 3.4% |  | 4.3% |
