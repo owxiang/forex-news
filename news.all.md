@@ -23,10 +23,10 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
-| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
@@ -45,21 +45,21 @@
 | 11:00 | EUR | Low | Reserve Assets Total (Mar) | 1,510.27B |  | 1,477.77B |
 | 11:30 | INR | Moderate | CPI (YoY) (Mar) | 3.34% | 3.60% | 3.61% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
-| 13:15 | CAD | Moderate | Housing Starts (Mar) |  | 239.0K | 229.0K |
-| 13:30 | USD | Low | Export Price Index (YoY) (Mar) |  |  | 2.1% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Mar) |  |  | 2.0% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | -12.80 | -20.00 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Mar) |  | 2.5% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) |  |  | 0.7% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) |  |  | 2.7% |
-| 13:30 | CAD | Low | CPI (YoY) (Mar) |  | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Mar) |  | 0.7% | 1.1% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | -0.3% | 1.7% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Mar) |  | 2.9% | 2.9% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Mar) |  | 3.0% | 2.9% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 7.2% |
+| 4 min | CAD | Moderate | Housing Starts (Mar) |  | 239.0K | 229.0K |
+| 19 min | USD | Low | Export Price Index (YoY) (Mar) |  |  | 2.1% |
+| 19 min | USD | Moderate | Export Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
+| 19 min | USD | Low | Import Price Index (YoY) (Mar) |  |  | 2.0% |
+| 19 min | USD | Moderate | Import Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
+| 19 min | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | -12.80 | -20.00 |
+| 19 min | CAD | Low | Common CPI (YoY) (Mar) |  | 2.5% | 2.5% |
+| 19 min | CAD | Moderate | Core CPI (MoM) (Mar) |  |  | 0.7% |
+| 19 min | CAD | Moderate | Core CPI (YoY) (Mar) |  |  | 2.7% |
+| 19 min | CAD | Low | CPI (YoY) (Mar) |  | 2.6% | 2.6% |
+| 19 min | CAD | Moderate | CPI (MoM) (Mar) |  | 0.7% | 1.1% |
+| 19 min | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | -0.3% | 1.7% |
+| 19 min | CAD | Low | Median CPI (YoY) (Mar) |  | 2.9% | 2.9% |
+| 19 min | CAD | Low | Trimmed CPI (YoY) (Mar) |  | 3.0% | 2.9% |
+| 44 min | USD | Low | Redbook (YoY) |  |  | 7.2% |
 | 15:30 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,250.0 |
