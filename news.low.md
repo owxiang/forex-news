@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 26 min | IDR | Consumer Confidence (Mar) |  |  | 126.4 |
-| 05:00 | KRW | M3 Money Supply (Feb) |  |  | 5,709.9B |
-| 05:00 | KRW | M2 Money supply (Feb) |  |  | 5.70% |
+| 04:00 | KRW | M3 Money Supply (Feb) |  |  | 5,706.7B |
+| 04:00 | KRW | M2 Money supply (Feb) | 5.60% |  | 5.70% |
+| 04:00 | IDR | Consumer Confidence (Mar) | 121.1 |  | 126.4 |
 | 05:00 | IDR | Car Sales (YoY) (Mar) | -5.10% |  | 2.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) |  | 6.0% | 5.9% |
-| 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
 | 07:00 | EUR | German WPI (YoY) (Mar) |  |  | 1.6% |
+| 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
 | 07:00 | NOK | Trade Balance (Mar) |  |  | 84.7B |
 | 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
 | 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
@@ -49,7 +49,7 @@
 | 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 6.3% |
 | 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | 4.6% |
