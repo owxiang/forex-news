@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | KRW | M3 Money Supply (Feb) |  |  | 5,706.7B |
+| 02:00 | IDR | Car Sales (YoY) (Mar) | -5.10% |  | 2.20% |
+| 04:00 | KRW | M3 Money Supply (Feb) | 5,731.5B |  | 5,706.7B |
 | 04:00 | KRW | M2 Money supply (Feb) | 5.60% |  | 5.70% |
 | 04:00 | IDR | Consumer Confidence (Mar) | 121.1 |  | 126.4 |
-| 05:00 | IDR | Car Sales (YoY) (Mar) | -5.10% |  | 2.20% |
-| 07:00 | GBP | Average Earnings ex Bonus (Feb) |  | 6.0% | 5.9% |
-| 07:00 | EUR | German WPI (YoY) (Mar) |  |  | 1.6% |
-| 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
-| 07:00 | NOK | Trade Balance (Mar) |  |  | 84.7B |
+| 53 min | GBP | Average Earnings ex Bonus (Feb) |  | 6.0% | 5.9% |
+| 53 min | EUR | German WPI (YoY) (Mar) |  |  | 1.6% |
+| 53 min | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
+| 53 min | NOK | Trade Balance (Mar) |  |  | 84.7B |
 | 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
 | 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
 | 07:30 | INR | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
@@ -34,22 +34,22 @@
 | 10:31 | ZAR | Business Confidence (Mar) |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
 | 12:00 | EUR | Reserve Assets Total (Mar) |  |  | 1,477.77B |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 13:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 13:30 | USD | Export Price Index (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) |  |  | 2.0% |
-| 13:30 | CAD | Common CPI (YoY) (Mar) |  | 2.4% | 2.5% |
+| 13:30 | CAD | Common CPI (YoY) (Mar) |  | 2.5% | 2.5% |
 | 13:30 | CAD | CPI (YoY) (Mar) |  | 2.6% | 2.6% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) |  | -0.1% | 1.7% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) |  | -0.3% | 1.7% |
 | 13:30 | CAD | Median CPI (YoY) (Mar) |  | 2.9% | 2.9% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Mar) |  | 2.9% | 2.9% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Mar) |  | 3.0% | 2.9% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.2% |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 15:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 15:30 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.945% |
 | 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 6.3% |
 | 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | 4.6% |
