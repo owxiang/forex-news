@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Mar) | 0.9% | 0.7% | 0.9% |
-| 34 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 00:40 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 07:00 | GBP | Average Earnings Index +Bonus (Feb) |  | 5.7% | 5.8% |
 | 07:00 | GBP | Claimant Count Change (Mar) |  | 30.3K | 44.2K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | 144K |
 | 07:00 | GBP | Unemployment Rate (Feb) |  | 4.4% | 4.4% |
-| 07:30 | INR | WPI Inflation (YoY) (Mar) |  |  | 2.38% |
 | 07:30 | INR | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
+| 07:30 | INR | WPI Inflation (YoY) (Mar) |  |  | 2.38% |
 | 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.0% |
 | 07:45 | EUR | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |

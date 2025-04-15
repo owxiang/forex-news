@@ -2,15 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 49 min | KRW | Exports (YoY) (Mar) |  | 3.1% | 3.1% |
-| 49 min | KRW | Imports (YoY) (Mar) |  | 2.3% | 2.3% |
-| 49 min | KRW | Trade Balance (Mar) |  | 4.99B | 4.99B |
 | 04:00 | KRW | M3 Money Supply (Feb) |  |  | 5,709.9B |
 | 04:00 | KRW | M2 Money supply (Feb) |  |  | 5.70% |
 | 04:00 | IDR | Consumer Confidence (Mar) |  |  | 126.4 |
+| 05:00 | IDR | Car Sales (YoY) (Mar) | -5.10% |  | 2.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) |  | 6.0% | 5.9% |
-| 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
 | 07:00 | EUR | German WPI (YoY) (Mar) |  |  | 1.6% |
+| 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
 | 07:00 | NOK | Trade Balance (Mar) |  |  | 84.7B |
 | 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
 | 07:30 | INR | WPI Food (YoY) (Mar) |  |  | 3.38% |
@@ -18,12 +16,11 @@
 | 07:30 | INR | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
-| 07:45 | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.20% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) |  |  | 0.80% |
+| 07:45 | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Mar) |  | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) |  | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 0.70% |
-| 08:00 | IDR | Car Sales (YoY) (Mar) |  |  | 2.20% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.679% |
 | 10:00 | INR | Exports (USD) (Mar) |  |  | 36.91B |
