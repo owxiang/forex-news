@@ -18,12 +18,12 @@
 | 10:00 | EUR | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) | -18.5 | 13.2 | 39.8 |
 | 11:30 | INR | CPI (YoY) (Mar) | 3.34% | 3.60% | 3.61% |
-| 4 min | CAD | Housing Starts (Mar) |  | 239.0K | 229.0K |
-| 19 min | USD | Export Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 19 min | USD | Import Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
-| 19 min | USD | NY Empire State Manufacturing Index (Apr) |  | -12.80 | -20.00 |
-| 19 min | CAD | Core CPI (MoM) (Mar) |  |  | 0.7% |
-| 19 min | CAD | Core CPI (YoY) (Mar) |  |  | 2.7% |
-| 19 min | CAD | CPI (MoM) (Mar) |  | 0.7% | 1.1% |
+| 13:15 | CAD | Housing Starts (Mar) | 214.2K | 239.0K | 221.4K |
+| 13:30 | USD | Export Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.5% |
+| 13:30 | USD | Import Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.2% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Apr) | -8.10 | -12.80 | -20.00 |
+| 13:30 | CAD | Core CPI (MoM) (Mar) | 0.1% |  | 0.7% |
+| 13:30 | CAD | Core CPI (YoY) (Mar) | 2.2% |  | 2.7% |
+| 13:30 | CAD | CPI (MoM) (Mar) | 0.3% | 0.7% | 1.1% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.680M | -1.057M |

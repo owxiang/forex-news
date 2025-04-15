@@ -29,14 +29,14 @@
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.060% |  | 2.440% |
 | 11:00 | EUR | Reserve Assets Total (Mar) | 1,510.27B |  | 1,477.77B |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
-| 19 min | USD | Export Price Index (YoY) (Mar) |  |  | 2.1% |
-| 19 min | USD | Import Price Index (YoY) (Mar) |  |  | 2.0% |
-| 19 min | CAD | Common CPI (YoY) (Mar) |  | 2.5% | 2.5% |
-| 19 min | CAD | CPI (YoY) (Mar) |  | 2.6% | 2.6% |
-| 19 min | CAD | Manufacturing Sales (MoM) (Feb) |  | -0.3% | 1.7% |
-| 19 min | CAD | Median CPI (YoY) (Mar) |  | 2.9% | 2.9% |
-| 19 min | CAD | Trimmed CPI (YoY) (Mar) |  | 3.0% | 2.9% |
-| 44 min | USD | Redbook (YoY) |  |  | 7.2% |
+| 13:30 | USD | Export Price Index (YoY) (Mar) | 2.4% |  | 2.1% |
+| 13:30 | USD | Import Price Index (YoY) (Mar) | 0.9% |  | 2.0% |
+| 13:30 | CAD | Common CPI (YoY) (Mar) | 2.3% | 2.5% | 2.5% |
+| 13:30 | CAD | CPI (YoY) (Mar) | 2.3% | 2.6% | 2.6% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) | 0.2% | -0.3% | 1.6% |
+| 13:30 | CAD | Median CPI (YoY) (Mar) | 2.9% | 2.9% | 2.9% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Mar) | 2.8% | 3.0% | 2.9% |
+| 13:55 | USD | Redbook (YoY) | 6.6% |  | 7.2% |
 | 15:30 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
