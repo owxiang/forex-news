@@ -37,9 +37,9 @@
 | 13:30 | CAD | Median CPI (YoY) (Mar) | 2.9% | 2.9% | 2.9% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Mar) | 2.8% | 3.0% | 2.9% |
 | 13:55 | USD | Redbook (YoY) | 6.6% |  | 7.2% |
-| 15:30 | ZAR | SARB Monetary Policy Review |  |  |  |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
+| 23 min | ZAR | SARB Monetary Policy Review |  |  |  |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 53 min | USD | Milk Auctions |  |  | 4,250.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.945% |
 | 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |

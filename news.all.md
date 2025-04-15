@@ -23,8 +23,8 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
-| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
@@ -52,17 +52,17 @@
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.2% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | -8.10 | -12.80 | -20.00 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) | 2.3% | 2.5% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.1% |  | 0.7% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.2% |  | 2.7% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.1% |  | 0.7% |
 | 13:30 | CAD | Low | CPI (YoY) (Mar) | 2.3% | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Mar) | 0.3% | 0.7% | 1.1% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 0.2% | -0.3% | 1.6% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Mar) | 2.9% | 2.9% | 2.9% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Mar) | 2.8% | 3.0% | 2.9% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.6% |  | 7.2% |
-| 15:30 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,250.0 |
+| 23 min | ZAR | Low | SARB Monetary Policy Review |  |  |  |
+| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 53 min | USD | Low | Milk Auctions |  |  | 4,250.0 |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.945% |
 | 16:35 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
