@@ -24,8 +24,8 @@
 | 13:30 | USD | Export Price Index (MoM) (Mar) |  |  | 0.1% |
 | 13:30 | USD | Import Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Apr) |  | -14.80 | -20.00 |
-| 13:30 | CAD | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 13:30 | CAD | Core CPI (YoY) (Mar) |  |  | 2.7% |
+| 13:30 | CAD | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 13:30 | CAD | CPI (MoM) (Mar) |  | 0.7% | 1.1% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.057M |

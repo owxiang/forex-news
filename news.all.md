@@ -40,8 +40,8 @@
 | 10:00 | INR | Low | Trade Balance (Mar) |  |  | -14.05B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) |  | -86.0 | -87.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) |  | 10.6 | 51.6 |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.1% | 0.8% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) |  | 14.2 | 39.8 |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.440% |
 | 10:30 | ZAR | Low | Business Confidence (Feb) |  |  | 120.0 |
@@ -61,8 +61,8 @@
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | -14.80 | -20.00 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) |  | 2.4% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) |  |  | 2.7% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 13:30 | CAD | Low | CPI (YoY) (Mar) |  | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Mar) |  | 0.7% | 1.1% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | -0.1% | 1.7% |
