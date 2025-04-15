@@ -19,18 +19,16 @@
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.679% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.638% |  | 4.679% |
+| 10:00 | INR | Exports (USD) (Mar) | 41.97B |  | 36.91B |
+| 10:00 | INR | Imports (USD) (Mar) | 63.51B |  | 50.96B |
+| 10:00 | INR | Trade Balance (Mar) | -21.54B |  | -14.05B |
 | 10:00 | EUR | Industrial Production (YoY) (Feb) | 1.2% | -0.8% | -0.5% |
-| 23 min | EUR | German 5-Year Bobl Auction |  |  | 2.440% |
-| 23 min | ZAR | Business Confidence (Feb) |  |  | 120.0 |
-| 23 min | ZAR | Gold Production (YoY) (Feb) |  |  | 1.0% |
-| 23 min | ZAR | Mining Production (Feb) |  |  | -2.7% |
-| 24 min | ZAR | Business Confidence (Mar) |  |  |  |
-| 12:00 | INR | Exports (USD) (Mar) | 41.97B |  | 36.91B |
-| 12:00 | INR | Imports (USD) (Mar) | 63.51B |  | 50.96B |
-| 12:00 | INR | Trade Balance (Mar) | -21.54B |  | -14.05B |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
-| 12:00 | EUR | Reserve Assets Total (Mar) |  |  | 1,477.77B |
+| 10:30 | ZAR | Gold Production (YoY) (Feb) | -7.6% |  | 1.0% |
+| 10:30 | ZAR | Mining Production (Feb) | -9.6% |  | -1.5% |
+| 10:50 | EUR | German 5-Year Bobl Auction | 2.060% |  | 2.440% |
+| 53 min | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | 0.0% |
+| 53 min | EUR | Reserve Assets Total (Mar) |  |  | 1,477.77B |
 | 13:30 | USD | Export Price Index (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) |  |  | 2.0% |
 | 13:30 | CAD | Common CPI (YoY) (Mar) |  | 2.5% | 2.5% |
@@ -39,14 +37,14 @@
 | 13:30 | CAD | Median CPI (YoY) (Mar) |  | 2.9% | 2.9% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Mar) |  | 3.0% | 2.9% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.2% |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 15:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 15:30 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
+| 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.945% |
 | 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 6.3% |
 | 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | 4.6% |
