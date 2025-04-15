@@ -5,9 +5,9 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Mar) | 0.9% | 0.7% | 0.9% |
 | 00:40 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 04:00 | KRW | Low | M3 Money Supply (Feb) |  |  | 5,709.9B |
-| 04:00 | KRW | Low | M2 Money supply (Feb) |  |  | 5.70% |
-| 04:00 | IDR | Low | Consumer Confidence (Mar) |  |  | 126.4 |
+| 26 min | IDR | Low | Consumer Confidence (Mar) |  |  | 126.4 |
+| 05:00 | KRW | Low | M3 Money Supply (Feb) |  |  | 5,709.9B |
+| 05:00 | KRW | Low | M2 Money supply (Feb) |  |  | 5.70% |
 | 05:00 | IDR | Low | Car Sales (YoY) (Mar) | -5.10% |  | 2.20% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Feb) |  | 6.0% | 5.9% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Feb) |  | 5.7% | 5.8% |

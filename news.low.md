@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | KRW | M3 Money Supply (Feb) |  |  | 5,709.9B |
-| 04:00 | KRW | M2 Money supply (Feb) |  |  | 5.70% |
-| 04:00 | IDR | Consumer Confidence (Mar) |  |  | 126.4 |
+| 26 min | IDR | Consumer Confidence (Mar) |  |  | 126.4 |
+| 05:00 | KRW | M3 Money Supply (Feb) |  |  | 5,709.9B |
+| 05:00 | KRW | M2 Money supply (Feb) |  |  | 5.70% |
 | 05:00 | IDR | Car Sales (YoY) (Mar) | -5.10% |  | 2.20% |
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) |  | 6.0% | 5.9% |
 | 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.2% | 0.6% |
