@@ -14,19 +14,19 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Mar) | 18.7K | 30.3K | 16.5K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) | 206K |  | 144K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.4% | 4.4% | 4.4% |
-| 07:00 | EUR | Low | German WPI (YoY) (Mar) | 1.3% |  | 1.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) | -0.2% | 0.2% | 0.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (Mar) | 1.3% |  | 1.6% |
 | 07:00 | NOK | Low | Trade Balance (Mar) | 60.2B |  | 84.6B |
 | 07:30 | INR | Low | WPI Food (YoY) (Mar) | 1.57% |  | 3.38% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 0.20% |  | -0.71% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 2.05% | 2.50% | 2.38% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
