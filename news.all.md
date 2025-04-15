@@ -23,8 +23,8 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
@@ -45,8 +45,6 @@
 | 11:00 | EUR | Low | Reserve Assets Total (Mar) | 1,510.27B |  | 1,477.77B |
 | 11:30 | INR | Moderate | CPI (YoY) (Mar) | 3.34% | 3.60% | 3.61% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 1.6% |  | 1.1% |
-| 13:00 | USD | Low | Milk Auctions | 4,385.0 |  | 4,250.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) | 214.2K | 239.0K | 221.4K |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Mar) | 2.4% |  | 2.1% |
@@ -56,20 +54,20 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) | 2.3% | 2.5% | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.1% |  | 0.7% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.2% |  | 2.7% |
-| 13:30 | CAD | Low | CPI (YoY) (Mar) | 2.3% | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Mar) | 0.3% | 0.7% | 1.1% |
+| 13:30 | CAD | Low | CPI (YoY) (Mar) | 2.3% | 2.6% | 2.6% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 0.2% | -0.3% | 1.6% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Mar) | 2.9% | 2.9% | 2.9% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Mar) | 2.8% | 3.0% | 2.9% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.6% |  | 7.2% |
 | 15:30 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
-| 24 min | USD | Low | 52-Week Bill Auction |  |  | 3.945% |
-| 29 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | NZD | Low | Exports (Mar) |  |  | 6.74B |
-| 18:00 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
-| 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 16:30 | USD | Low | 52-Week Bill Auction | 3.820% |  | 3.945% |
+| 16:35 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 53 min | NZD | Low | Exports (Mar) |  |  | 6.74B |
+| 53 min | NZD | Low | Imports (Mar) |  |  | 6.23B |
+| 53 min | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 53 min | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.680M | -1.057M |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 6.3% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Mar) |  |  | 4.6% |
