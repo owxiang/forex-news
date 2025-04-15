@@ -18,12 +18,12 @@
 | 07:45 | EUR | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
-| 53 min | EUR | ECB Bank Lending Survey |  |  |  |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.679% |
-| 10:00 | INR | Exports (USD) (Mar) |  |  | 36.91B |
-| 10:00 | INR | Imports (USD) (Mar) |  |  | 50.96B |
-| 10:00 | INR | Trade Balance (Mar) |  |  | -14.05B |
-| 10:00 | EUR | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 51 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.679% |
+| 51 min | INR | Exports (USD) (Mar) |  |  | 36.91B |
+| 51 min | INR | Imports (USD) (Mar) |  |  | 50.96B |
+| 51 min | INR | Trade Balance (Mar) |  |  | -14.05B |
+| 51 min | EUR | Industrial Production (YoY) (Feb) |  | -0.8% | 0.0% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.440% |
 | 10:30 | ZAR | Business Confidence (Feb) |  |  | 120.0 |
 | 10:30 | ZAR | Gold Production (YoY) (Feb) |  |  | 1.0% |
@@ -46,7 +46,7 @@
 | 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 6.3% |
 | 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | 4.6% |
