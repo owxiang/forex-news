@@ -13,8 +13,8 @@
 | 07:30 | INR | WPI Food (YoY) (Mar) | 1.57% |  | 3.38% |
 | 07:30 | INR | WPI Fuel (YoY) (Mar) | 0.20% |  | -0.71% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
-| 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
+| 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
@@ -29,6 +29,8 @@
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.060% |  | 2.440% |
 | 11:00 | EUR | Reserve Assets Total (Mar) | 1,510.27B |  | 1,477.77B |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
+| 13:00 | NZD | GlobalDairyTrade Price Index | 1.6% |  | 1.1% |
+| 13:00 | USD | Milk Auctions | 4,385.0 |  | 4,250.0 |
 | 13:30 | USD | Export Price Index (YoY) (Mar) | 2.4% |  | 2.1% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) | 0.9% |  | 2.0% |
 | 13:30 | CAD | Common CPI (YoY) (Mar) | 2.3% | 2.5% | 2.5% |
@@ -37,14 +39,12 @@
 | 13:30 | CAD | Median CPI (YoY) (Mar) | 2.9% | 2.9% | 2.9% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Mar) | 2.8% | 3.0% | 2.9% |
 | 13:55 | USD | Redbook (YoY) | 6.6% |  | 7.2% |
-| 23 min | ZAR | SARB Monetary Policy Review |  |  |  |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
-| 53 min | USD | Milk Auctions |  |  | 4,250.0 |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.945% |
-| 16:35 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 24 min | USD | 52-Week Bill Auction |  |  | 3.945% |
+| 29 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 6.3% |
 | 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | 4.6% |
