@@ -17,19 +17,19 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Mar) | 1.3% |  | 1.6% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) | -0.2% | 0.2% | 0.6% |
 | 07:00 | NOK | Low | Trade Balance (Mar) | 60.2B |  | 84.6B |
-| 20 min | INR | Low | WPI Food (YoY) (Mar) |  |  | 3.38% |
-| 20 min | INR | Low | WPI Fuel (YoY) (Mar) |  |  | -0.71% |
-| 20 min | INR | Moderate | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
-| 20 min | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) |  |  | 2.86% |
-| 35 min | EUR | Low | French CPI NSA (MoM) (Mar) |  |  | 0.20% |
-| 35 min | EUR | Low | French CPI NSA (YoY) (Mar) |  |  | 0.80% |
-| 35 min | EUR | Low | French CPI (YoY) (Mar) |  | 0.8% | 0.8% |
-| 35 min | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.2% | 0.0% |
-| 35 min | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
-| 35 min | EUR | Low | French HICP (YoY) (Mar) |  | 0.9% | 0.9% |
-| 35 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 0.70% |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 07:30 | INR | Low | WPI Food (YoY) (Mar) | 1.57% |  | 3.38% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 0.20% |  | -0.71% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 2.05% | 2.50% | 2.38% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
+| 53 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 53 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.679% |
 | 10:00 | INR | Low | Exports (USD) (Mar) |  |  | 36.91B |
 | 10:00 | INR | Low | Imports (USD) (Mar) |  |  | 50.96B |

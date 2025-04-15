@@ -9,10 +9,10 @@
 | 07:00 | GBP | Claimant Count Change (Mar) | 18.7K | 30.3K | 16.5K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | 206K |  | 144K |
 | 07:00 | GBP | Unemployment Rate (Feb) | 4.4% | 4.4% | 4.4% |
-| 20 min | INR | WPI Inflation (YoY) (Mar) |  | 2.50% | 2.38% |
-| 35 min | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.0% |
-| 35 min | EUR | French HICP (MoM) (Mar) |  | 0.2% | 0.1% |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 07:30 | INR | WPI Inflation (YoY) (Mar) | 2.05% | 2.50% | 2.38% |
+| 07:45 | EUR | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
+| 07:45 | EUR | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
+| 53 min | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Apr) |  | -86.0 | -87.6 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | 10.6 | 51.6 |
 | 10:00 | EUR | Industrial Production (MoM) (Feb) |  | 0.1% | 0.8% |
