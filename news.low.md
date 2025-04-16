@@ -26,16 +26,16 @@
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
-| 21 min | GBP | House Price Index (YoY) |  | 5.1% | 4.9% |
-| 51 min | EUR | Core CPI (MoM) (Mar) |  | 1.0% | 0.5% |
-| 51 min | EUR | CPI ex Tobacco (YoY) (Mar) |  |  | 2.2% |
-| 51 min | EUR | CPI ex Tobacco (MoM) (Mar) |  |  | 0.4% |
-| 51 min | EUR | CPI, n.s.a (Mar) |  | 128.04 | 127.26 |
-| 51 min | EUR | HICP ex Energy & Food (YoY) (Mar) |  | 2.4% | 2.6% |
-| 51 min | EUR | HICP ex Energy and Food (MoM) (Mar) |  | 0.8% | 0.5% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 3.080% |
-| 10:30 | ZAR | Business Confidence (Mar) |  |  | 120.0 |
-| 10:30 | ZAR | Business Confidence (Mar) |  |  | 120.0 |
+| 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
+| 10:00 | EUR | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:00 | EUR | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
+| 23 min | EUR | German 30-Year Bund Auction |  |  | 3.080% |
+| 23 min | ZAR | Business Confidence (Mar) |  |  | 120.0 |
+| 23 min | ZAR | Business Confidence (Mar) |  |  | 120.0 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.61% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 20.0% |
 | 12:00 | USD | MBA Purchase Index |  |  | 172.7 |

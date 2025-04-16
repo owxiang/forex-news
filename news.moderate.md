@@ -10,8 +10,8 @@
 | 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
-| 51 min | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
-| 51 min | EUR | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
+| 10:00 | EUR | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
+| 10:00 | EUR | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 13:30 | USD | Retail Control (MoM) (Mar) |  | 0.6% | 1.0% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) |  | -0.2% | 0.7% |
 | 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | 1.44% |

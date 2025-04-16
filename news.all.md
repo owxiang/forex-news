@@ -36,19 +36,19 @@
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
-| 21 min | GBP | Low | House Price Index (YoY) |  | 5.1% | 4.9% |
-| 51 min | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
-| 51 min | EUR | Low | Core CPI (MoM) (Mar) |  | 1.0% | 0.5% |
-| 51 min | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
-| 51 min | EUR | Moderate | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
-| 51 min | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 2.2% |
-| 51 min | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.4% |
-| 51 min | EUR | Low | CPI, n.s.a (Mar) |  | 128.04 | 127.26 |
-| 51 min | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  | 2.4% | 2.6% |
-| 51 min | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  | 0.8% | 0.5% |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.080% |
-| 10:30 | ZAR | Low | Business Confidence (Mar) |  |  | 120.0 |
-| 10:30 | ZAR | Low | Business Confidence (Mar) |  |  | 120.0 |
+| 09:30 | GBP | Low | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
+| 23 min | EUR | Low | German 30-Year Bund Auction |  |  | 3.080% |
+| 23 min | ZAR | Low | Business Confidence (Mar) |  |  | 120.0 |
+| 23 min | ZAR | Low | Business Confidence (Mar) |  |  | 120.0 |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.61% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 20.0% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 172.7 |
