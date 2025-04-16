@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 9 |  | -1 |
 | 00:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.2% | 4.1% | 4.1% |
@@ -20,8 +20,8 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
@@ -42,8 +42,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
@@ -90,5 +90,5 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 284.70B |  | -46.60B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 112.00B |  | -42.20B |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |

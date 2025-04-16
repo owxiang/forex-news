@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Apr) | 9 |  | -1 |
 | 00:10 | USD | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 02:00 | AUD | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:30 | CNY | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
 | 03:00 | CNY | Retail Sales (YoY) (Mar) | 5.9% | 4.2% | 4.0% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) | 3.61% |  | 2.98% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
-| 07:00 | GBP | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
+| 07:00 | GBP | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
@@ -29,8 +29,8 @@
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
