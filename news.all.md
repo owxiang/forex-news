@@ -9,8 +9,8 @@
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.2% | 4.1% | 4.1% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.2% | 1.4% | 1.6% |
 | 03:00 | CNY | High | GDP (YoY) (Q1) | 5.4% | 5.2% | 5.4% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.2% | 1.4% | 1.6% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.4% |  | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 7.7% | 5.9% | 5.9% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.5% |  | 5.9% |
@@ -22,26 +22,26 @@
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
-| 07:00 | GBP | High | CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
+| 07:00 | GBP | High | CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Low | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
@@ -58,8 +58,8 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Feb) | 3.9% |  | 7.0% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Mar) | 0.5% | 0.4% | 0.7% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) | 0.4% | 0.6% | 1.3% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 4.60% |  | 3.54% |
 | 13:30 | USD | High | Retail Sales (MoM) (Mar) | 1.4% | 1.3% | 0.2% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 4.60% |  | 3.54% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.8% |  | 0.8% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) | 77.8% | 78.0% | 78.2% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) | 1.34% |  | 1.45% |
@@ -86,9 +86,9 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.2% | -2.8% | -2.8% |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.236B |  | 3.467B |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Feb) |  |  | -48.80B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | -45.20B |
+| 55 min | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
+| 55 min | USD | Low | Overall Net Capital Flow (Feb) |  |  | -48.80B |
+| 55 min | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
+| 55 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | -45.20B |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |

@@ -14,16 +14,16 @@
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
 | 07:00 | GBP | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
@@ -57,6 +57,6 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 0.7% |
 | 15:30 | USD | Gasoline Inventories | -1.958M | -1.600M | -1.600M |
 | 18:30 | BRL | Foreign Exchange Flows | -0.236B |  | 3.467B |
-| 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
-| 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | -45.20B |
+| 55 min | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
+| 55 min | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |
+| 55 min | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | -45.20B |
