@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 9 |  | -1 |
 | 00:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.2% | 4.1% | 4.1% |
@@ -20,8 +20,8 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
@@ -82,14 +82,14 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 0.7% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.958M | -1.600M | -1.600M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 52 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.632% |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
-| 52 min | NZD | Low | Exports (Mar) |  |  | 6.74B |
-| 52 min | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 52 min | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
-| 52 min | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
-| 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.467B |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.632% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
+| 18:00 | NZD | Low | Exports (Mar) |  |  | 6.74B |
+| 18:00 | NZD | Low | Imports (Mar) |  |  | 6.23B |
+| 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 9 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) |  |  | -48.80B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
