@@ -27,10 +27,10 @@
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
-| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
+| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
@@ -38,8 +38,8 @@
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
@@ -90,5 +90,5 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 284.70B |  | -46.60B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 112.00B |  | -42.20B |
-| 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
+| 39 min | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
+| 39 min | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
