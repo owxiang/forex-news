@@ -1,28 +1,26 @@
-## 16 April 2025 - Moderate Impact Forex News
+## 17 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) | 4.2% | 4.1% | 4.1% |
-| 03:00 | CNY | GDP (QoQ) (Q1) | 1.2% | 1.4% | 1.6% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) | 5.4% |  | 5.0% |
-| 03:00 | CNY | Industrial Production (YoY) (Mar) | 7.7% | 5.9% | 5.9% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.5% |  | 5.9% |
-| 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
-| 10:00 | EUR | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
-| 10:00 | EUR | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
-| 13:30 | USD | Retail Control (MoM) (Mar) | 0.4% | 0.6% | 1.3% |
-| 14:15 | USD | Industrial Production (YoY) (Mar) | 1.34% |  | 1.45% |
-| 14:15 | USD | Industrial Production (MoM) (Mar) | -0.3% | -0.2% | 0.8% |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | Business Inventories (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
-| 15:00 | USD | Retail Inventories Ex Auto (Feb) | 0.1% | 0.1% | 0.5% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.654M |  | 0.681M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.810% |  | 4.632% |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) | -2.2% | -2.8% | -2.8% |
-| 21:00 | USD | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
-| 39 min | NZD | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
-| 39 min | NZD | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.25T | 0.18T |
+| 44 min | JPY | Exports (YoY) (Mar) |  | 4.5% | 11.4% |
+| 44 min | JPY | Trade Balance (Mar) |  | 485.3B | 584.5B |
+| 02:30 | AUD | Employment Change (Mar) |  | 39.8K | -52.8K |
+| 02:30 | AUD | Full Employment Change (Mar) |  |  | -35.7K |
+| 02:30 | AUD | Unemployment Rate (Mar) |  | 4.2% | 4.1% |
+| 02:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 07:00 | EUR | German PPI (MoM) (Mar) |  | -0.1% | -0.2% |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.90% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Building Permits (Mar) |  | 1.450M | 1.459M |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,870K | 1,850K |
+| 13:30 | USD | Housing Starts (Mar) |  | 1.420M | 1.501M |
+| 13:30 | USD | Housing Starts (MoM) (Mar) |  |  | 11.2% |
+| 13:30 | USD | Philly Fed Employment (Apr) |  |  | 19.7 |
+| 13:30 | CAD | Foreign Securities Purchases (Feb) |  | 12.89B | 7.91B |
+| 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | -2.2% | -2.2% |
+| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | 5-Year TIPS Auction |  |  | 2.121% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  |  |
