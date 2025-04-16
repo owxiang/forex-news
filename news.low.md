@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Apr) | 9 |  | -1 |
 | 00:10 | USD | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
 | 02:00 | AUD | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:30 | CNY | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
 | 03:00 | CNY | Retail Sales (YoY) (Mar) | 5.9% | 4.2% | 4.0% |
@@ -60,8 +60,8 @@
 | 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |
