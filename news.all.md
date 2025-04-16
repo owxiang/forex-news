@@ -86,9 +86,9 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.2% | -2.8% | -2.8% |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.236B |  | 3.467B |
-| 55 min | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
-| 55 min | USD | Low | Overall Net Capital Flow (Feb) |  |  | -48.80B |
-| 55 min | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
-| 55 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | -45.20B |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) | 106.20B |  | -13.30B |
+| 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 284.70B |  | -46.60B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 112.00B |  | -42.20B |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |

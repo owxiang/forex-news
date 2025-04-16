@@ -57,6 +57,6 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 0.7% |
 | 15:30 | USD | Gasoline Inventories | -1.958M | -1.600M | -1.600M |
 | 18:30 | BRL | Foreign Exchange Flows | -0.236B |  | 3.467B |
-| 55 min | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
-| 55 min | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |
-| 55 min | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  |  | -45.20B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Feb) | 106.20B |  | -13.30B |
+| 21:00 | USD | Overall Net Capital Flow (Feb) | 284.70B |  | -46.60B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Feb) | 112.00B |  | -42.20B |
