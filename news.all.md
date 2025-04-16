@@ -3,13 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 9 |  | -1 |
-| 4 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 44 min | JPY | Low | Core Machinery Orders (MoM) (Feb) |  | 1.1% | -3.5% |
-| 44 min | JPY | Low | Core Machinery Orders (YoY) (Feb) |  | -1.4% | 4.4% |
-| 49 min | KRW | Low | Exports (YoY) (Mar) |  |  | 0.7% |
-| 49 min | KRW | Low | Imports (YoY) (Mar) |  |  | 0.2% |
-| 49 min | KRW | Low | Trade Balance (Mar) |  |  | 4.15B |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) |  |  | 0.1% |
+| 00:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
+| 31 min | AUD | Low | MI Leading Index (MoM) (Mar) |  |  | 0.1% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) |  |  | -4.8% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) |  | 4.1% | 4.1% |
 | 03:00 | CNY | High | GDP (YoY) (Q1) |  | 5.2% | 5.4% |
@@ -33,18 +30,18 @@
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.7% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) |  | 3.2% | 3.4% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 2.0% | 1.6% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 2.1% | 2.1% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Current Account (Feb) |  | 37.3B | 35.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) |  |  | 13.2B |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 5.1% | 4.9% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  | 1.0% | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  | 1.0% | 0.5% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 2.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  | 128.04 | 127.26 |
@@ -62,8 +59,8 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Mar) |  | 0.4% | 0.3% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) |  |  | 1.0% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 3.11% |
 | 13:30 | USD | High | Retail Sales (MoM) (Mar) |  | 1.4% | 0.2% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 3.11% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) |  | 78.0% | 78.2% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | 1.44% |
@@ -92,13 +89,13 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 18:00 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) |  |  | -48.80B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  | 35.20B | -45.20B |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |

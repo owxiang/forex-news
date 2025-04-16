@@ -3,13 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Apr) | 9 |  | -1 |
-| 4 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 44 min | JPY | Core Machinery Orders (MoM) (Feb) |  | 1.1% | -3.5% |
-| 44 min | JPY | Core Machinery Orders (YoY) (Feb) |  | -1.4% | 4.4% |
-| 49 min | KRW | Exports (YoY) (Mar) |  |  | 0.7% |
-| 49 min | KRW | Imports (YoY) (Mar) |  |  | 0.2% |
-| 49 min | KRW | Trade Balance (Mar) |  |  | 4.15B |
-| 02:00 | AUD | MI Leading Index (MoM) (Mar) |  |  | 0.1% |
+| 00:10 | USD | Fed Governor Cook Speaks |  |  |  |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
+| 31 min | AUD | MI Leading Index (MoM) (Mar) |  |  | 0.1% |
 | 02:30 | CNY | House Prices (YoY) (Mar) |  |  | -4.8% |
 | 03:00 | CNY | Retail Sales (YoY) (Mar) |  | 4.2% | 4.0% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 2.98% |
@@ -22,11 +19,11 @@
 | 07:00 | GBP | CPI, n.s.a (Mar) |  |  | 136.00 |
 | 07:00 | GBP | RPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Mar) |  | 3.2% | 3.4% |
-| 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Mar) |  | 2.0% | 1.6% |
+| 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.5% |
-| 09:00 | EUR | Italian HICP (MoM) (Mar) |  | 1.6% | 0.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Mar) |  | 2.1% | 2.1% |
+| 09:00 | EUR | Italian HICP (MoM) (Mar) |  | 1.6% | 0.1% |
 | 09:00 | EUR | Current Account (Feb) |  | 37.3B | 35.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) |  |  | 13.2B |
 | 09:30 | GBP | House Price Index (YoY) |  | 5.1% | 4.9% |
@@ -63,8 +60,8 @@
 | 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |
