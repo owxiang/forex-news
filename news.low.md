@@ -12,25 +12,25 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) | 3.61% |  | 2.98% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
-| 07:00 | GBP | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
+| 07:00 | GBP | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
@@ -43,11 +43,11 @@
 | 12:00 | USD | Mortgage Market Index | 267.5 |  | 292.3 |
 | 12:00 | USD | Mortgage Refinance Index | 841.9 |  | 961.4 |
 | 12:00 | ZAR | Retail Sales (YoY) (Feb) | 3.9% |  | 7.0% |
-| 24 min | INR | M3 Money Supply |  |  | 9.6% |
-| 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 3.11% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.5% |
+| 19 min | USD | Retail Sales (YoY) (Mar) |  |  | 3.11% |
+| 19 min | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.5% |
 | 14:15 | USD | Capacity Utilization Rate (Mar) |  | 78.0% | 78.2% |
 | 14:15 | USD | Manufacturing Production (MoM) (Mar) |  | 0.3% | 0.9% |
+| 14:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 15:00 | USD | NAHB Housing Market Index (Apr) |  | 38 | 39 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.069M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.360M |
@@ -61,8 +61,8 @@
 | 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |

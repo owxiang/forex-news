@@ -12,7 +12,7 @@
 | 07:00 | GBP | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
-| 13:30 | USD | Retail Control (MoM) (Mar) |  | 0.6% | 1.0% |
+| 19 min | USD | Retail Control (MoM) (Mar) |  | 0.6% | 1.0% |
 | 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | 1.44% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) |  | -0.2% | 0.7% |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
@@ -24,5 +24,5 @@
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.632% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
-| 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
 | 23:45 | NZD | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
+| 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
