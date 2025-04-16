@@ -12,10 +12,10 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) | 3.61% |  | 2.98% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
-| 07:00 | GBP | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
-| 07:00 | GBP | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 07:00 | GBP | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
 | 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
+| 07:00 | GBP | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
@@ -29,20 +29,21 @@
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
 | 10:00 | EUR | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
-| 10:30 | ZAR | Business Confidence (Mar) | 123.5 |  | 120.0 |
+| 10:30 | ZAR | Business Confidence (Feb) | 125.8 |  | 120.0 |
+| 10:31 | ZAR | Business Confidence (Mar) | 123.5 |  | 125.8 |
 | 10:50 | EUR | German 30-Year Bund Auction | 2.830% |  | 3.080% |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.61% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 20.0% |
-| 53 min | USD | MBA Purchase Index |  |  | 172.7 |
-| 53 min | USD | Mortgage Market Index |  |  | 292.3 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 961.4 |
-| 53 min | ZAR | Retail Sales (YoY) (Feb) |  |  | 7.0% |
-| 12:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.81% |  | 6.61% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -8.5% |  | 20.0% |
+| 12:00 | USD | MBA Purchase Index | 164.2 |  | 172.7 |
+| 12:00 | USD | Mortgage Market Index | 267.5 |  | 292.3 |
+| 12:00 | USD | Mortgage Refinance Index | 841.9 |  | 961.4 |
+| 12:00 | ZAR | Retail Sales (YoY) (Feb) | 3.9% |  | 7.0% |
+| 24 min | INR | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 3.11% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.5% |
 | 14:15 | USD | Capacity Utilization Rate (Mar) |  | 78.0% | 78.2% |
@@ -60,8 +61,8 @@
 | 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |
