@@ -9,11 +9,11 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.5% |  | 5.9% |
 | 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Mar) |  | 0.4% | 0.4% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 3.7% |
+| 53 min | GBP | CPI (MoM) (Mar) |  | 0.4% | 0.4% |
+| 53 min | GBP | CPIH (YoY) |  |  | 3.7% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
-| 13:30 | USD | Retail Control (MoM) (Mar) |  |  | 1.0% |
+| 13:30 | USD | Retail Control (MoM) (Mar) |  | 0.6% | 1.0% |
 | 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | 1.44% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) |  | -0.2% | 0.7% |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |

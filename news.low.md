@@ -12,18 +12,18 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) | 3.61% |  | 2.98% |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
-| 07:00 | GBP | Core CPI (MoM) (Mar) |  |  | 0.4% |
-| 07:00 | GBP | Core CPI (YoY) (Mar) |  | 3.4% | 3.5% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) |  |  | 3.0% |
-| 07:00 | GBP | Core RPI (MoM) (Mar) |  |  | 0.6% |
-| 07:00 | GBP | CPI, n.s.a (Mar) |  |  | 136.00 |
-| 07:00 | GBP | RPI (MoM) (Mar) |  |  | 0.6% |
-| 07:00 | GBP | RPI (YoY) (Mar) |  | 3.2% | 3.4% |
-| 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.4% | 0.2% |
+| 53 min | GBP | Core CPI (MoM) (Mar) |  | 0.5% | 0.4% |
+| 53 min | GBP | Core CPI (YoY) (Mar) |  | 3.4% | 3.5% |
+| 53 min | GBP | Core RPI (MoM) (Mar) |  |  | 0.6% |
+| 53 min | GBP | Core RPI (YoY) (Mar) |  |  | 3.0% |
+| 53 min | GBP | CPI, n.s.a (Mar) |  |  | 136.00 |
+| 53 min | GBP | RPI (MoM) (Mar) |  | 0.4% | 0.6% |
+| 53 min | GBP | RPI (YoY) (Mar) |  | 3.2% | 3.4% |
 | 09:00 | EUR | Italian CPI (YoY) (Mar) |  | 2.0% | 1.6% |
+| 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.4% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.5% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) |  | 1.6% | 0.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Mar) |  | 2.1% | 2.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) |  | 2.1% | 1.7% |
 | 09:00 | EUR | Current Account (Feb) |  | 37.3B | 35.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) |  |  | 13.2B |
 | 09:30 | GBP | House Price Index (YoY) |  | 5.1% | 4.9% |
@@ -51,11 +51,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.069M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.360M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.019M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -3.544M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.000M | -3.544M |
 | 15:30 | USD | Gasoline Production |  |  | -0.338M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.020M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
-| 15:30 | USD | Gasoline Inventories |  |  | -1.600M |
+| 15:30 | USD | Gasoline Inventories |  | -1.810M | -1.600M |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.1% |
 | 16:00 | USD | Milk Auctions |  |  | 4,250.0 |
 | 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
