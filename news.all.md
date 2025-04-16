@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 9 |  | -1 |
 | 00:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.2% | 4.1% | 4.1% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.2% | 1.4% | 1.6% |
 | 03:00 | CNY | High | GDP (YoY) (Q1) | 5.4% | 5.2% | 5.4% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.2% | 1.4% | 1.6% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.4% |  | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 7.7% | 5.9% | 5.9% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.5% |  | 5.9% |
@@ -18,14 +18,14 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) | 3.61% |  | 2.98% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 26 min | NZD | Low | RBNZ Offshore Holdings (Mar) |  |  | 59.20% |
-| 26 min | IDR | Low | Retail Sales (YoY) (Feb) |  |  | 0.5% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) |  |  | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.6% |
-| 07:00 | GBP | High | CPI (YoY) (Mar) |  | 2.7% | 2.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) |  | 0.4% | 0.4% |
+| 07:00 | GBP | High | CPI (YoY) (Mar) |  | 2.7% | 2.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) |  |  | 136.00 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.7% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) |  |  | 0.6% |
@@ -89,8 +89,8 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 18:00 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
