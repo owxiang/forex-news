@@ -29,8 +29,8 @@
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
@@ -56,10 +56,10 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.019M |  | -0.020M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 0.7% |
 | 15:30 | USD | Gasoline Inventories | -1.958M | -1.600M | -1.600M |
-| 18:00 | NZD | Exports (Mar) |  |  | 6.74B |
-| 18:00 | NZD | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
-| 18:00 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 52 min | NZD | Exports (Mar) |  |  | 6.74B |
+| 52 min | NZD | Imports (Mar) |  |  | 6.23B |
+| 52 min | NZD | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 52 min | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -48.80B |

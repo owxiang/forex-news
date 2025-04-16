@@ -42,8 +42,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
@@ -82,12 +82,12 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 0.7% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.958M | -1.600M | -1.600M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.632% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
-| 18:00 | NZD | Low | Exports (Mar) |  |  | 6.74B |
-| 18:00 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
-| 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 52 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.632% |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
+| 52 min | NZD | Low | Exports (Mar) |  |  | 6.74B |
+| 52 min | NZD | Low | Imports (Mar) |  |  | 6.23B |
+| 52 min | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
+| 52 min | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
