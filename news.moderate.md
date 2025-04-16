@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | CNY | Fixed Asset Investment (YoY) (Mar) |  | 4.1% | 4.1% |
-| 25 min | CNY | GDP (QoQ) (Q1) |  | 1.4% | 1.6% |
-| 25 min | CNY | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
-| 25 min | CNY | Industrial Production (YoY) (Mar) |  | 5.9% | 5.9% |
-| 25 min | CNY | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 5.9% |
-| 25 min | CNY | Chinese Unemployment Rate (Mar) |  | 5.3% | 5.4% |
-| 25 min | CNY | NBS Press Conference |  |  |  |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) | 4.2% | 4.1% | 4.1% |
+| 03:00 | CNY | GDP (QoQ) (Q1) | 1.2% | 1.4% | 1.6% |
+| 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) | 5.4% |  | 5.0% |
+| 03:00 | CNY | Industrial Production (YoY) (Mar) | 7.7% | 5.9% | 5.9% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.5% |  | 5.9% |
+| 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.3% | 5.4% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Mar) |  | 0.4% | 0.4% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 3.7% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
