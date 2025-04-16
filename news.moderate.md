@@ -19,8 +19,8 @@
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:00 | USD | Business Inventories (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (Feb) | 0.1% | 0.1% | 0.5% |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | 0.681M |
-| 23 min | CAD | BOC Press Conference |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.654M |  | 0.681M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.632% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.8% | -2.8% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |

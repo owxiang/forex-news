@@ -8,5 +8,5 @@
 | 13:30 | USD | Core Retail Sales (MoM) (Mar) | 0.5% | 0.4% | 0.7% |
 | 13:30 | USD | Retail Sales (MoM) (Mar) | 1.4% | 1.3% | 0.2% |
 | 14:45 | CAD | BoC Interest Rate Decision | 2.75% | 2.75% | 2.75% |
-| 23 min | USD | Crude Oil Inventories |  | 0.400M | 2.553M |
+| 15:30 | USD | Crude Oil Inventories | 0.515M | 0.400M | 2.553M |
 | 18:15 | USD | Fed Chair Powell Speaks |  |  |  |
