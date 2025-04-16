@@ -4,46 +4,46 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 9 |  | -1 |
 | 00:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
-| 31 min | AUD | Low | MI Leading Index (MoM) (Mar) |  |  | 0.1% |
-| 02:30 | CNY | Low | House Prices (YoY) (Mar) |  |  | -4.8% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) |  | 4.1% | 4.1% |
-| 03:00 | CNY | High | GDP (YoY) (Q1) |  | 5.2% | 5.4% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) |  | 1.4% | 1.6% |
-| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) |  | 5.9% | 5.9% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 5.9% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Mar) |  | 4.2% | 4.0% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 2.98% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Mar) |  | 5.3% | 5.4% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
+| 02:30 | CNY | Low | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
+| 25 min | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) |  | 4.1% | 4.1% |
+| 25 min | CNY | Moderate | GDP (QoQ) (Q1) |  | 1.4% | 1.6% |
+| 25 min | CNY | High | GDP (YoY) (Q1) |  | 5.2% | 5.4% |
+| 25 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
+| 25 min | CNY | Moderate | Industrial Production (YoY) (Mar) |  | 5.9% | 5.9% |
+| 25 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 5.9% |
+| 25 min | CNY | Low | Retail Sales (YoY) (Mar) |  | 4.2% | 4.0% |
+| 25 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 2.98% |
+| 25 min | CNY | Moderate | Chinese Unemployment Rate (Mar) |  | 5.3% | 5.4% |
+| 25 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) |  |  | 59.20% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) |  |  | 0.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) |  |  | 0.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) |  | 3.4% | 3.5% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.0% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) |  | 0.4% | 0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) |  | 2.7% | 2.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) |  |  | 136.00 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.7% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) |  | 3.2% | 3.4% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 2.0% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.4% | 0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 2.0% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 2.1% | 2.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.6% | 0.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 2.1% | 2.1% |
 | 09:00 | EUR | Low | Current Account (Feb) |  | 37.3B | 35.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) |  |  | 13.2B |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 5.1% | 4.9% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  | 1.0% | 0.5% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.2% | 2.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  | 0.6% | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  | 128.04 | 127.26 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  | 2.4% | 2.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  | 0.8% | 0.5% |
@@ -89,13 +89,13 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 18:00 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 18:00 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:00 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 18:00 | NZD | Low | Trade Balance (MoM) (Mar) |  |  | 510M |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.467B |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | -13.30B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) |  |  | -48.80B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  | 35.20B | -45.20B |
-| 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
+| 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.2% |

@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) |  | 4.1% | 4.1% |
-| 03:00 | CNY | GDP (QoQ) (Q1) |  | 1.4% | 1.6% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
-| 03:00 | CNY | Industrial Production (YoY) (Mar) |  | 5.9% | 5.9% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 5.9% |
-| 03:00 | CNY | Chinese Unemployment Rate (Mar) |  | 5.3% | 5.4% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 25 min | CNY | Fixed Asset Investment (YoY) (Mar) |  | 4.1% | 4.1% |
+| 25 min | CNY | GDP (QoQ) (Q1) |  | 1.4% | 1.6% |
+| 25 min | CNY | Chinese GDP YTD (YoY) (Q1) |  |  | 5.0% |
+| 25 min | CNY | Industrial Production (YoY) (Mar) |  | 5.9% | 5.9% |
+| 25 min | CNY | Chinese Industrial Production YTD (YoY) (Mar) |  |  | 5.9% |
+| 25 min | CNY | Chinese Unemployment Rate (Mar) |  | 5.3% | 5.4% |
+| 25 min | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Mar) |  | 0.4% | 0.4% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 3.7% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.4% | 2.6% |
@@ -25,5 +25,5 @@
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.632% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
-| 23:45 | NZD | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
 | 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
+| 23:45 | NZD | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
