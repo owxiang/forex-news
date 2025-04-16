@@ -24,5 +24,5 @@
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.632% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 35.2B | -45.2B |
-| 23:45 | NZD | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
 | 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.8% | 0.5% |
+| 23:45 | NZD | CPI (YoY) (Q1) |  | 2.3% | 2.2% |
