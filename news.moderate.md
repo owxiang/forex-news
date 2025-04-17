@@ -15,8 +15,8 @@
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
-| 13:30 | USD | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
+| 13:30 | USD | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Philly Fed Employment (Apr) | 0.2 |  | 19.7 |
 | 13:30 | CAD | Foreign Securities Purchases (Feb) | -6.46B | 12.89B | 7.91B |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
