@@ -21,8 +21,8 @@
 | 13:30 | CAD | Foreign Securities Purchases (Feb) | -6.46B | 12.89B | 7.91B |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | -2.2% | -2.2% | -2.2% |
-| 38 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | USD | 5-Year TIPS Auction |  |  | 2.121% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 583 |
+| 16:30 | USD | 5-Year TIPS Auction | 1.702% |  | 2.121% |
+| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
+| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 583 |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,727B |
