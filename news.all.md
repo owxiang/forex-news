@@ -35,8 +35,8 @@
 | 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
 | 13:30 | USD | High | Initial Jobless Claims | 215K | 225K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.75K |  | 223.25K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) | -26.4 | 2.2 | 12.5 |
