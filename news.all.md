@@ -8,22 +8,22 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
 | 02:30 | AUD | Moderate | Employment Change (Mar) | 32.2K | 39.8K | -57.5K |
 | 02:30 | AUD | Moderate | Full Employment Change (Mar) | 15.0K |  | -43.9K |
+| 02:30 | AUD | Low | NAB Quarterly Business Confidence | -4 |  | -5 |
 | 02:30 | AUD | Low | Participation Rate (Mar) | 66.8% | 67.0% | 66.7% |
-| 02:30 | AUD | Low | Reserve Assets Total (Mar) | 104,508.0B |  | 103.7B |
+| 02:30 | AUD | Low | Reserve Assets Total (Mar) | 104.5B |  | 103.7B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 4.1% | 4.2% | 4.0% |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 05:00 | AUD | Low | NAB Quarterly Business Confidence |  |  | -4 |
-| 05:01 | GBP | Low | Rightmove House Price Index (YoY) (Apr) |  |  | 1.0% |
+| 40 min | GBP | Low | Rightmove House Price Index (YoY) (Apr) |  |  | 1.0% |
 | 07:00 | CHF | Low | Trade Balance (Mar) |  | 5.220B | 4.803B |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) |  | -0.1% | -0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) |  | 0.4% | 0.7% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) |  | -0.1% | -0.2% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Low | French 6-Year OAT Auction |  |  | 2.61% |
 | 10:00 | EUR | Low | French 7-Year OAT Auction |  |  | 3.10% |
@@ -32,8 +32,8 @@
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.90% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Apr) |  | 2.40% | 2.65% |
-| 13:30 | USD | Low | Building Permits (MoM) (Mar) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.450M | 1.459M |
+| 13:30 | USD | Low | Building Permits (MoM) (Mar) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,870K | 1,850K |
 | 13:30 | USD | Moderate | Housing Starts (Mar) |  | 1.420M | 1.501M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) |  |  | 11.2% |
