@@ -29,4 +29,4 @@
 | 15:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.245% |
 | 15:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 15:30 | USD | Natural Gas Storage | 16B | 24B | 57B |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.484T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.280T |  | 3.484T |
