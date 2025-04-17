@@ -5,13 +5,13 @@
 | 00:50 | JPY | Foreign Bonds Buying | -512.0B |  | -2,569.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
-| 2 min | SGD | Non-Oil Exports (MoM) (Mar) |  |  | 2.60% |
-| 2 min | SGD | Non-Oil Exports (YoY) (Mar) |  | 13.60% | 7.60% |
-| 32 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 32 min | KRW | Interest Rate Decision (Apr) |  | 2.75% | 2.75% |
-| 32 min | SGD | Trade Balance (Mar) |  |  | 6.160B |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
+| 01:30 | SGD | Trade Balance (Mar) | 5.242B |  | 6.182B |
+| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 02:00 | KRW | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
 | 02:30 | AUD | NAB Quarterly Business Confidence |  |  | -4 |
-| 02:30 | AUD | Participation Rate (Mar) |  | 67.0% | 66.8% |
+| 02:30 | AUD | Participation Rate (Mar) | 66.8% | 67.0% | 66.8% |
 | 02:30 | AUD | Reserve Assets Total (Mar) |  |  | 103,702.0B |
 | 05:01 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 1.0% |
 | 07:00 | CHF | Trade Balance (Mar) |  | 5.220B | 4.803B |
