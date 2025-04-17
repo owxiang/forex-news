@@ -5,8 +5,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | -512.0B |  | -2,569.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
@@ -29,4 +29,4 @@
 | 15:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.245% |
 | 15:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 15:30 | USD | Natural Gas Storage | 16B | 24B | 57B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.484T |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.484T |
