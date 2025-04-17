@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
@@ -21,8 +21,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 4.1% | 4.2% | 4.0% |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 6.350B | 5.220B | 4.741B |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | -0.7% | -0.1% | -0.1% |
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) | -0.2% | 0.4% | 0.5% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | -0.7% | -0.1% | -0.1% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Low | French 6-Year OAT Auction | 2.73% |  | 2.61% |
 | 10:00 | EUR | Low | French 7-Year OAT Auction | 2.98% |  | 3.10% |
@@ -35,8 +35,8 @@
 | 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
-| 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
+| 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | High | Initial Jobless Claims | 215K | 225K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.75K |  | 223.25K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) | -26.4 | 2.2 | 12.5 |
@@ -55,7 +55,7 @@
 | 15:30 | USD | Low | Natural Gas Storage | 16B | 24B | 57B |
 | 16:30 | USD | Moderate | 5-Year TIPS Auction | 1.702% |  | 2.121% |
 | 16:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
-| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 481 |  | 480 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 583 |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.484T |

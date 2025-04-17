@@ -15,14 +15,14 @@
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
-| 13:30 | USD | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
+| 13:30 | USD | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Philly Fed Employment (Apr) | 0.2 |  | 19.7 |
 | 13:30 | CAD | Foreign Securities Purchases (Feb) | -6.46B | 12.89B | 7.91B |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | -2.2% | -2.2% | -2.2% |
 | 16:30 | USD | 5-Year TIPS Auction | 1.702% |  | 2.121% |
 | 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 583 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 481 |  | 480 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 583 |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,727B |
