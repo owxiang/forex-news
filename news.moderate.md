@@ -9,7 +9,7 @@
 | 02:30 | AUD | Full Employment Change (Mar) | 15.0K |  | -43.9K |
 | 02:30 | AUD | Unemployment Rate (Mar) | 4.1% | 4.2% | 4.0% |
 | 02:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 53 min | EUR | German PPI (MoM) (Mar) |  | -0.1% | -0.2% |
+| 07:00 | EUR | German PPI (MoM) (Mar) | -0.7% | -0.1% | -0.1% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.90% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |

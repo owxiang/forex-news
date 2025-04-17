@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
@@ -20,9 +20,9 @@
 | 02:30 | AUD | Low | Reserve Assets Total (Mar) | 104.5B |  | 103.7B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 4.1% | 4.2% | 4.0% |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 53 min | CHF | Low | Trade Balance (Mar) |  | 5.220B | 4.803B |
-| 53 min | EUR | Low | German PPI (YoY) (Mar) |  | 0.4% | 0.7% |
-| 53 min | EUR | Moderate | German PPI (MoM) (Mar) |  | -0.1% | -0.2% |
+| 07:00 | CHF | Low | Trade Balance (Mar) | 6.350B | 5.220B | 4.741B |
+| 07:00 | EUR | Low | German PPI (YoY) (Mar) | -0.2% | 0.4% | 0.5% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | -0.7% | -0.1% | -0.1% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | EUR | Low | French 6-Year OAT Auction |  |  | 2.61% |
 | 10:00 | EUR | Low | French 7-Year OAT Auction |  |  | 3.10% |
