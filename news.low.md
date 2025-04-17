@@ -18,14 +18,14 @@
 | 10:00 | EUR | French 6-Year OAT Auction | 2.73% |  | 2.61% |
 | 10:00 | EUR | French 7-Year OAT Auction | 2.98% |  | 3.10% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 24 min | INR | M3 Money Supply |  |  | 9.6% |
-| 13:30 | USD | Building Permits (MoM) (Mar) |  |  | -1.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.00K |
-| 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 5.6 |
-| 13:30 | USD | Philly Fed CAPEX Index (Apr) |  |  | 13.40 |
-| 13:30 | USD | Philly Fed New Orders (Apr) |  |  | 8.7 |
-| 13:30 | USD | Philly Fed Prices Paid (Apr) |  |  | 48.30 |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) |  |  | -3.150B |
+| 12:30 | INR | M3 Money Supply | 9.5% |  | 9.6% |
+| 19 min | USD | Building Permits (MoM) (Mar) |  |  | -1.0% |
+| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 223.00K |
+| 19 min | USD | Philly Fed Business Conditions (Apr) |  |  | 5.6 |
+| 19 min | USD | Philly Fed CAPEX Index (Apr) |  |  | 13.40 |
+| 19 min | USD | Philly Fed New Orders (Apr) |  |  | 8.7 |
+| 19 min | USD | Philly Fed Prices Paid (Apr) |  |  | 48.30 |
+| 19 min | CAD | Foreign Securities Purchases by Canadians (Feb) |  |  | -3.150B |
 | 15:30 | USD | Natural Gas Storage |  | 24B | 57B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
