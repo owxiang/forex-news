@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
@@ -32,8 +32,8 @@
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.65% |  | 2.90% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Apr) | 2.40% | 2.40% | 2.65% |
-| 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
+| 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
@@ -48,12 +48,12 @@
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Feb) | -6.46B | 12.89B | 7.91B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Feb) | 27.150B |  | -3.000B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 8 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.2% | -2.2% |
-| 23 min | USD | Low | Natural Gas Storage |  | 24B | 57B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.245% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
-| 16:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.245% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.235% |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.2% | -2.2% | -2.2% |
+| 15:30 | USD | Low | Natural Gas Storage | 16B | 24B | 57B |
+| 38 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 2.121% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 583 |

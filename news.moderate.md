@@ -19,9 +19,9 @@
 | 13:30 | USD | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
 | 13:30 | USD | Philly Fed Employment (Apr) | 0.2 |  | 19.7 |
 | 13:30 | CAD | Foreign Securities Purchases (Feb) | -6.46B | 12.89B | 7.91B |
-| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Atlanta Fed GDPNow (Q1) |  | -2.2% | -2.2% |
-| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q1) | -2.2% | -2.2% | -2.2% |
+| 38 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 2.121% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 480 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 583 |
