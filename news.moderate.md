@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Adjusted Trade Balance |  | -0.25T | 0.18T |
-| 44 min | JPY | Exports (YoY) (Mar) |  | 4.5% | 11.4% |
-| 44 min | JPY | Trade Balance (Mar) |  | 485.3B | 584.5B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.23T | -0.25T | 0.19T |
+| 00:50 | JPY | Exports (YoY) (Mar) | 3.9% | 4.5% | 11.4% |
+| 00:50 | JPY | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
 | 02:30 | AUD | Employment Change (Mar) |  | 39.8K | -52.8K |
 | 02:30 | AUD | Full Employment Change (Mar) |  |  | -35.7K |
 | 02:30 | AUD | Unemployment Rate (Mar) |  | 4.2% | 4.1% |
