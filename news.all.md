@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
@@ -24,9 +24,9 @@
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) | -0.2% | 0.4% | 0.5% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | -0.7% | -0.1% | -0.1% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | EUR | Low | French 6-Year OAT Auction |  |  | 2.61% |
-| 10:00 | EUR | Low | French 7-Year OAT Auction |  |  | 3.10% |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | Low | French 6-Year OAT Auction | 2.73% |  | 2.61% |
+| 10:00 | EUR | Low | French 7-Year OAT Auction | 2.98% |  | 3.10% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) |  | 2.25% | 2.50% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.90% |
