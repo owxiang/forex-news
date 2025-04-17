@@ -15,9 +15,9 @@
 | 02:30 | AUD | Reserve Assets Total (Mar) | 104.5B |  | 103.7B |
 | 07:00 | CHF | Trade Balance (Mar) | 6.350B | 5.220B | 4.741B |
 | 07:00 | EUR | German PPI (YoY) (Mar) | -0.2% | 0.4% | 0.5% |
-| 51 min | EUR | French 6-Year OAT Auction |  |  | 2.61% |
-| 51 min | EUR | French 7-Year OAT Auction |  |  | 3.10% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.61% |
+| 10:00 | EUR | French 7-Year OAT Auction |  |  | 3.10% |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | Building Permits (MoM) (Mar) |  |  | -1.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.00K |
