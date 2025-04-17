@@ -18,7 +18,7 @@
 | 10:00 | EUR | French 6-Year OAT Auction | 2.73% |  | 2.61% |
 | 10:00 | EUR | French 7-Year OAT Auction | 2.98% |  | 3.10% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 24 min | INR | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | Building Permits (MoM) (Mar) |  |  | -1.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 223.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 5.6 |

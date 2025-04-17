@@ -27,7 +27,7 @@
 | 10:00 | EUR | Low | French 6-Year OAT Auction | 2.73% |  | 2.61% |
 | 10:00 | EUR | Low | French 7-Year OAT Auction | 2.98% |  | 3.10% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) |  | 2.25% | 2.50% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.90% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
