@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Mar) | 3.2% | 3.2% | 3.0% |
 | 00:30 | JPY | National CPI (MoM) (Mar) | 0.3% |  | -0.1% |
-| 16:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 54 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 17.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 139.6K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 200.7K |
