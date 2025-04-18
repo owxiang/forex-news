@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | CPI, n.s.a (MoM) (Mar) | 0.3% |  | -0.4% |
 | 00:30 | JPY | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
-| 08:00 | CNY | FDI (Mar) |  |  | -20.40% |
+| 51 min | CNY | FDI (Mar) |  |  | -20.40% |
 | 09:00 | EUR | Italian Trade Balance (Feb) |  | 3.310B | -0.264B |
 | 09:00 | EUR | Italian Trade Balance EU (Feb) |  |  | -0.64B |
 | 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
