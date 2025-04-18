@@ -6,8 +6,7 @@
 | 00:30 | JPY | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
 | 09:00 | EUR | Italian Trade Balance (Feb) | 4.466B | 3.310B | -0.288B |
 | 09:00 | EUR | Italian Trade Balance EU (Feb) | -0.36B |  | -0.66B |
-| 12:30 | INR | Bank Loan Growth |  |  | 11.0% |
-| 12:30 | INR | Deposit Growth |  |  | 10.3% |
+| 10:07 | CNY | FDI (Mar) | -10.80% |  | -20.40% |
 | 12:30 | INR | FX Reserves, USD |  |  | 676.27B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 24.2K |
