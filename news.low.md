@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | CPI, n.s.a (MoM) (Mar) | 0.3% |  | -0.4% |
 | 00:30 | JPY | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
-| 51 min | CNY | FDI (Mar) |  |  | -20.40% |
-| 09:00 | EUR | Italian Trade Balance (Feb) |  | 3.310B | -0.264B |
-| 09:00 | EUR | Italian Trade Balance EU (Feb) |  |  | -0.64B |
+| 53 min | EUR | Italian Trade Balance (Feb) |  | 3.310B | -0.264B |
+| 53 min | EUR | Italian Trade Balance EU (Feb) |  |  | -0.64B |
 | 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 11:00 | CNY | FDI (Mar) |  |  | -20.40% |
 | 12:30 | INR | FX Reserves, USD |  |  | 676.27B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 24.2K |

@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.3% |  | -0.4% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 3.2% | 3.2% | 3.0% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Mar) | 0.3% |  | -0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
-| 51 min | CNY | Low | FDI (Mar) |  |  | -20.40% |
-| 09:00 | EUR | Low | Italian Trade Balance (Feb) |  | 3.310B | -0.264B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Feb) |  |  | -0.64B |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Mar) | 0.3% |  | -0.1% |
+| 53 min | EUR | Low | Italian Trade Balance (Feb) |  | 3.310B | -0.264B |
+| 53 min | EUR | Low | Italian Trade Balance EU (Feb) |  |  | -0.64B |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 11:00 | CNY | Low | FDI (Mar) |  |  | -20.40% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 676.27B |
 | 16:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 17.3K |
