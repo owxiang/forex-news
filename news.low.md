@@ -6,8 +6,6 @@
 | 00:30 | JPY | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
 | 09:00 | EUR | Italian Trade Balance (Feb) | 4.466B | 3.310B | -0.288B |
 | 09:00 | EUR | Italian Trade Balance EU (Feb) | -0.36B |  | -0.66B |
-| 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
-| 11:00 | CNY | FDI (Mar) |  |  | -20.40% |
 | 12:30 | INR | Bank Loan Growth |  |  | 11.0% |
 | 12:30 | INR | Deposit Growth |  |  | 10.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 676.27B |
