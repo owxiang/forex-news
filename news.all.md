@@ -13,8 +13,8 @@
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Apr) | 1.3% |  | 1.0% |
 | 00:45 | NZD | Low | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 04:00 | CNY | Low | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Low | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Low | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
@@ -64,8 +64,8 @@
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
@@ -88,8 +88,8 @@
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index | 1.6% |  | 1.1% |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) | 214.2K | 239.0K | 221.4K |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Mar) | 2.4% |  | 2.1% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.5% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Mar) | 0.9% |  | 2.0% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.2% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | -8.10 | -12.80 | -20.00 |
@@ -129,8 +129,8 @@
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
@@ -149,8 +149,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
@@ -197,16 +197,16 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 284.70B |  | -46.60B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 112.00B |  | -42.20B |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) | 0.9% | 0.8% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) | 2.5% | 2.3% | 2.2% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) | 0.9% | 0.8% | 0.5% |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.23T | -0.25T | 0.19T |
 | 00:50 | JPY | Moderate | Exports (YoY) (Mar) | 3.9% | 4.5% | 11.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -512.0B |  | -2,569.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
@@ -229,8 +229,8 @@
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.65% |  | 2.90% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Apr) | 2.40% | 2.40% | 2.65% |
-| 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
+| 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
