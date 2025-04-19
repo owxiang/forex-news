@@ -77,8 +77,8 @@
 | 10:00 | INR | Low | Trade Balance (Mar) | -21.54B |  | -14.05B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) | -81.2 | -86.0 | -87.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) | -14.0 | 10.6 | 51.6 |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | 1.2% | -0.8% | -0.5% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) | -18.5 | 13.2 | 39.8 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -7.6% |  | 1.0% |
 | 10:30 | ZAR | Low | Mining Production (Feb) | -9.6% |  | -1.5% |
@@ -139,8 +139,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
@@ -232,8 +232,8 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
 | 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
-| 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
+| 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | High | Initial Jobless Claims | 215K | 225K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.75K |  | 223.25K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) | -26.4 | 2.2 | 12.5 |

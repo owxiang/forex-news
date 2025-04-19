@@ -92,8 +92,8 @@
 | 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
