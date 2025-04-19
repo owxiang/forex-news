@@ -89,8 +89,8 @@
 | 07:00 | GBP | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
+| 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
 | 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |

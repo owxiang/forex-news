@@ -50,8 +50,8 @@
 | 10:00 | EUR | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 13:30 | USD | Retail Control (MoM) (Mar) | 0.4% | 0.6% | 1.3% |
-| 14:15 | USD | Industrial Production (MoM) (Mar) | -0.3% | -0.2% | 0.8% |
 | 14:15 | USD | Industrial Production (YoY) (Mar) | 1.34% |  | 1.45% |
+| 14:15 | USD | Industrial Production (MoM) (Mar) | -0.3% | -0.2% | 0.8% |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:00 | USD | Business Inventories (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
