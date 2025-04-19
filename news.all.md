@@ -25,8 +25,8 @@
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | 2.3% | 2.5% | -1.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
+| 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.864% |  | 2.133% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
@@ -62,10 +62,10 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 0.20% |  | -0.71% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 2.05% | 2.50% | 2.38% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
-| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
@@ -77,8 +77,8 @@
 | 10:00 | INR | Low | Trade Balance (Mar) | -21.54B |  | -14.05B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) | -81.2 | -86.0 | -87.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) | -14.0 | 10.6 | 51.6 |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | 1.2% | -0.8% | -0.5% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | 1.2% | -0.8% | -0.5% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) | -18.5 | 13.2 | 39.8 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -7.6% |  | 1.0% |
 | 10:30 | ZAR | Low | Mining Production (Feb) | -9.6% |  | -1.5% |
@@ -136,11 +136,11 @@
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Low | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
@@ -232,8 +232,8 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
 | 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
 | 13:30 | USD | High | Initial Jobless Claims | 215K | 225K | 224K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.75K |  | 223.25K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) | -26.4 | 2.2 | 12.5 |
@@ -258,8 +258,8 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.280T |  | 3.484T |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.3% |  | -0.4% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 3.2% | 3.2% | 3.0% |
-| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Mar) | 0.3% |  | -0.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
 | 09:00 | EUR | Low | Italian Trade Balance (Feb) | 4.466B | 3.310B | -0.288B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Feb) | -0.36B |  | -0.66B |
 | 10:00 | CNY | Low | FDI (Mar) | -10.80% |  | -20.40% |
