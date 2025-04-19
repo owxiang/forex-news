@@ -61,8 +61,8 @@
 | 18:00 | USD | 20-Year Bond Auction | 4.810% |  | 4.632% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | -2.2% | -2.8% | -2.8% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
-| 23:45 | NZD | CPI (YoY) (Q1) | 2.5% | 2.3% | 2.2% |
 | 23:45 | NZD | CPI (QoQ) (Q1) | 0.9% | 0.8% | 0.5% |
+| 23:45 | NZD | CPI (YoY) (Q1) | 2.5% | 2.3% | 2.2% |
 | 00:50 | JPY | Adjusted Trade Balance | -0.23T | -0.25T | 0.19T |
 | 00:50 | JPY | Exports (YoY) (Mar) | 3.9% | 4.5% | 11.4% |
 | 00:50 | JPY | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
@@ -76,8 +76,8 @@
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
 | 13:30 | USD | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
-| 13:30 | USD | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
+| 13:30 | USD | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Philly Fed Employment (Apr) | 0.2 |  | 19.7 |
 | 13:30 | CAD | Foreign Securities Purchases (Feb) | -6.46B | 12.89B | 7.91B |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
