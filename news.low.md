@@ -11,8 +11,8 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.3% |  | 1.0% |
 | 00:45 | NZD | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
+| 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
 | 04:00 | CNY | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
@@ -99,8 +99,8 @@
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
