@@ -11,8 +11,8 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.3% |  | 1.0% |
 | 00:45 | NZD | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 01:00 | SGD | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 04:00 | CNY | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
@@ -133,8 +133,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | -512.0B |  | -2,569.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
