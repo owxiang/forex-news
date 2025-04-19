@@ -6,15 +6,15 @@
 | 10:00 | CNY | Moderate | New Loans (Mar) | 3,640.0B | 3,020.0B | 1,010.0B |
 | 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Mar) | 7.4% | 7.3% | 7.3% |
 | 10:00 | CNY | Low | Chinese Total Social Financing (Mar) | 5,890.0B | 4,800.0B | 2,230.0B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) | -0.8% |  | 0.3% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) | -1.6% |  | -4.2% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) | -0.8% |  | 0.3% |
 | 23:45 | NZD | Low | External Migration & Visitors (Feb) | -2.30% |  | 13.40% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Feb) | 5,430 |  | 2,370 |
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) (Apr) | 1.4% |  | 1.1% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Apr) | 1.3% |  | 1.0% |
 | 00:45 | NZD | Low | Visitor Arrivals (MoM) | -3.7% |  | 1.5% |
-| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.8% | -0.4% | 2.0% |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.8% | 4.2% | 5.0% |
 | 04:00 | CNY | Low | Exports (Mar) | 13.50M |  | -1.90M |
 | 04:00 | CNY | Low | Imports (Mar) | -3.50M |  | 2.50M |
 | 04:00 | CNY | Low | Trade Balance (Mar) | 736.72B | 537.00B | 228.19B |
@@ -25,8 +25,8 @@
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (Mar) | -7.20% |  | 4.00% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) | -1.1% |  | 4.5% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) | 2.3% | 2.5% | -1.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Mar) | -0.1% |  | -0.1% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.3% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.864% |  | 2.133% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
@@ -62,12 +62,12 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | 0.20% |  | -0.71% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 2.05% | 2.50% | 2.38% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
@@ -77,8 +77,8 @@
 | 10:00 | INR | Low | Trade Balance (Mar) | -21.54B |  | -14.05B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Apr) | -81.2 | -86.0 | -87.6 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) | -14.0 | 10.6 | 51.6 |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | 1.2% | -0.8% | -0.5% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.1% | 0.6% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) | -18.5 | 13.2 | 39.8 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -7.6% |  | 1.0% |
 | 10:30 | ZAR | Low | Mining Production (Feb) | -9.6% |  | -1.5% |
@@ -88,8 +88,8 @@
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) | -0.2% |  | 0.0% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index | 1.6% |  | 1.1% |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) | 214.2K | 239.0K | 221.4K |
-| 13:30 | USD | Low | Export Price Index (YoY) (Mar) | 2.4% |  | 2.1% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.5% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Mar) | 2.4% |  | 2.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Mar) | 0.9% |  | 2.0% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.2% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | -8.10 | -12.80 | -20.00 |
@@ -111,13 +111,13 @@
 | 22:00 | KRW | Low | Import Price Index (YoY) (Mar) | 3.4% |  | 4.3% |
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 9 |  | -1 |
 | 00:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | 1.5% | -1.4% | 4.4% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 4.3% | 1.1% | -3.5% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -4.5% |  | -4.8% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.2% | 4.1% | 4.1% |
-| 03:00 | CNY | High | GDP (YoY) (Q1) | 5.4% | 5.2% | 5.4% |
 | 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.2% | 1.4% | 1.6% |
+| 03:00 | CNY | High | GDP (YoY) (Q1) | 5.4% | 5.2% | 5.4% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.4% |  | 5.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 7.7% | 5.9% | 5.9% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.5% |  | 5.9% |
@@ -127,30 +127,30 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 59.20% |  | 59.20% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.3% | 0.4% | 0.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
 | 09:00 | EUR | Low | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | Low | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 3.631% |  | 4.082% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.0% | 1.0% | 0.5% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.2% | 2.2% | 2.3% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.1% |  | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 128.04 | 128.04 | 127.26 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 2.5% | 2.4% | 2.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.8% | 0.8% | 0.5% |
@@ -165,8 +165,8 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Feb) | 3.9% |  | 7.0% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Mar) | 0.5% | 0.4% | 0.7% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) | 0.4% | 0.6% | 1.3% |
-| 13:30 | USD | High | Retail Sales (MoM) (Mar) | 1.4% | 1.3% | 0.2% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 4.60% |  | 3.54% |
+| 13:30 | USD | High | Retail Sales (MoM) (Mar) | 1.4% | 1.3% | 0.2% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 0.8% |  | 0.8% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) | 77.8% | 78.0% | 78.2% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) | 1.34% |  | 1.45% |
@@ -197,16 +197,16 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 284.70B |  | -46.60B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 112.00B |  | -42.20B |
-| 23:45 | NZD | Moderate | CPI (YoY) (Q1) | 2.5% | 2.3% | 2.2% |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q1) | 0.9% | 0.8% | 0.5% |
+| 23:45 | NZD | Moderate | CPI (YoY) (Q1) | 2.5% | 2.3% | 2.2% |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.23T | -0.25T | 0.19T |
 | 00:50 | JPY | Moderate | Exports (YoY) (Mar) | 3.9% | 4.5% | 11.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -512.0B |  | -2,569.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,043.7B |  | 1,783.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | 2.0% | 3.1% | -0.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -7.60% |  | 2.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | 5.40% | 13.60% | 7.60% |
 | 01:30 | SGD | Low | Trade Balance (Mar) | 5.242B |  | 6.182B |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 2.75% | 2.75% | 2.75% |
@@ -229,8 +229,8 @@
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 2.65% |  | 2.90% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Apr) | 2.40% | 2.40% | 2.65% |
-| 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
 | 13:30 | USD | Moderate | Building Permits (Mar) | 1.482M | 1.450M | 1.459M |
+| 13:30 | USD | Low | Building Permits (MoM) (Mar) | 1.6% |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,885K | 1,870K | 1,844K |
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.324M | 1.420M | 1.494M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -11.4% |  | 9.8% |
@@ -258,8 +258,8 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.280T |  | 3.484T |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.3% |  | -0.4% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 3.2% | 3.2% | 3.0% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Mar) | 0.3% |  | -0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (Mar) | 3.6% |  | 3.7% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Mar) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Low | Italian Trade Balance (Feb) | 4.466B | 3.310B | -0.288B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Feb) | -0.36B |  | -0.66B |
 | 10:00 | CNY | Low | FDI (Mar) | -10.80% |  | -20.40% |
