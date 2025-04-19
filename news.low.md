@@ -36,14 +36,14 @@
 | 04:00 | KRW | M2 Money supply (Feb) | 5.60% |  | 5.70% |
 | 04:00 | IDR | Consumer Confidence (Mar) | 121.1 |  | 126.4 |
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) | 5.9% | 6.0% | 5.8% |
-| 07:00 | EUR | German WPI (YoY) (Mar) | 1.3% |  | 1.6% |
 | 07:00 | EUR | German WPI (MoM) (Mar) | -0.2% | 0.2% | 0.6% |
+| 07:00 | EUR | German WPI (YoY) (Mar) | 1.3% |  | 1.6% |
 | 07:00 | NOK | Trade Balance (Mar) | 60.2B |  | 84.6B |
 | 07:30 | INR | WPI Food (YoY) (Mar) | 1.57% |  | 3.38% |
 | 07:30 | INR | WPI Fuel (YoY) (Mar) | 0.20% |  | -0.71% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) | 3.07% |  | 2.86% |
-| 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) | 0.80% |  | 0.80% |
+| 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.20% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 0.9% | 0.9% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 0.70% |  | 0.70% |
@@ -84,16 +84,16 @@
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 2.0% |  | 0.5% |
 | 07:00 | GBP | Core CPI (MoM) (Mar) | 0.5% | 0.5% | 0.4% |
 | 07:00 | GBP | Core CPI (YoY) (Mar) | 3.4% | 3.4% | 3.5% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 07:00 | GBP | Core RPI (YoY) (Mar) | 2.8% |  | 3.0% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 136.50 |  | 136.00 |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.3% | 0.4% | 0.6% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 3.2% | 3.2% | 3.4% |
-| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.9% | 2.0% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.7% |  | 1.5% |
-| 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.6% | 1.6% | 0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) | 2.1% | 2.1% | 1.7% |
 | 09:00 | EUR | Current Account (Feb) | 34.3B | 37.3B | 35.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 33.1B |  | 13.2B |
 | 09:30 | GBP | House Price Index (YoY) | 5.4% | 5.1% | 4.9% |
