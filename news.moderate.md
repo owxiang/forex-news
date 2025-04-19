@@ -34,8 +34,8 @@
 | 13:30 | USD | Export Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.5% |
 | 13:30 | USD | Import Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.2% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Apr) | -8.10 | -12.80 | -20.00 |
-| 13:30 | CAD | Core CPI (YoY) (Mar) | 2.2% |  | 2.7% |
 | 13:30 | CAD | Core CPI (MoM) (Mar) | 0.1% |  | 0.7% |
+| 13:30 | CAD | Core CPI (YoY) (Mar) | 2.2% |  | 2.7% |
 | 13:30 | CAD | CPI (MoM) (Mar) | 0.3% | 0.7% | 1.1% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock | 2.400M | -1.680M | -1.057M |
@@ -50,8 +50,8 @@
 | 10:00 | EUR | Core CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | CPI (MoM) (Mar) | 0.6% | 0.6% | 0.4% |
 | 13:30 | USD | Retail Control (MoM) (Mar) | 0.4% | 0.6% | 1.3% |
-| 14:15 | USD | Industrial Production (YoY) (Mar) | 1.34% |  | 1.45% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) | -0.3% | -0.2% | 0.8% |
+| 14:15 | USD | Industrial Production (YoY) (Mar) | 1.34% |  | 1.45% |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:00 | USD | Business Inventories (MoM) (Feb) | 0.2% | 0.3% | 0.3% |
@@ -61,8 +61,8 @@
 | 18:00 | USD | 20-Year Bond Auction | 4.810% |  | 4.632% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | -2.2% | -2.8% | -2.8% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) | 112.0B | 35.2B | -42.2B |
-| 23:45 | NZD | CPI (YoY) (Q1) | 2.5% | 2.3% | 2.2% |
 | 23:45 | NZD | CPI (QoQ) (Q1) | 0.9% | 0.8% | 0.5% |
+| 23:45 | NZD | CPI (YoY) (Q1) | 2.5% | 2.3% | 2.2% |
 | 00:50 | JPY | Adjusted Trade Balance | -0.23T | -0.25T | 0.19T |
 | 00:50 | JPY | Exports (YoY) (Mar) | 3.9% | 4.5% | 11.4% |
 | 00:50 | JPY | Trade Balance (Mar) | 544.1B | 485.3B | 590.5B |
