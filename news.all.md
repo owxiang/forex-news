@@ -12,8 +12,8 @@
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.5% | -0.3% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.060% |
-| 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.0% |
 | 22:00 | KRW | Low | PPI (YoY) (Mar) |  |  | 1.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.0% |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.23B |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
