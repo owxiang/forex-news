@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 29 min | CNY | Moderate | China Loan Prime Rate 5Y (Apr) |  | 3.60% | 3.60% |
-| 44 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.10% | 3.10% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Apr) | 3.60% | 3.60% | 3.60% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Mar) |  | -3.40% | 14.05% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Mar) |  | 6.60% | 2.30% |
 | 05:00 | IDR | Low | Trade Balance (Mar) |  | 2.64B | 3.12B |
@@ -16,5 +16,5 @@
 | 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.0% |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | 80M | 510M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
