@@ -11,11 +11,11 @@
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Mar) | 3.8% |  | 3.4% |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) | -0.7% | -0.5% | -0.2% |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.060% |
-| 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.0% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.225% |  | 4.225% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.050% |  | 4.060% |
 | 22:00 | KRW | Low | PPI (YoY) (Mar) |  |  | 1.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.0% |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | 80M | 510M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |

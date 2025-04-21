@@ -8,11 +8,11 @@
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 12:30 | INR | Infrastructure Output (YoY) (Mar) | 3.8% |  | 3.4% |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.225% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.060% |
-| 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.0% |
+| 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.225% |
+| 16:30 | USD | 6-Month Bill Auction | 4.050% |  | 4.060% |
 | 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
+| 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.0% |
 | 23:45 | NZD | Exports (Mar) |  |  | 6.74B |
 | 23:45 | NZD | Imports (Mar) |  |  | 6.23B |
-| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
 | 23:45 | NZD | Trade Balance (MoM) (Mar) |  | 80M | 510M |
+| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
