@@ -14,5 +14,5 @@
 | 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.0% |
 | 23:45 | NZD | Exports (Mar) |  |  | 6.74B |
 | 23:45 | NZD | Imports (Mar) |  |  | 6.23B |
-| 23:45 | NZD | Trade Balance (MoM) (Mar) |  | 80M | 510M |
 | 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 23:45 | NZD | Trade Balance (MoM) (Mar) |  | 80M | 510M |
