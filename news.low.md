@@ -1,18 +1,31 @@
-## 21 April 2025 - Low Impact Forex News
+## 22 April 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | IDR | Export Growth (YoY) (Mar) | 3.16% | -3.40% | 13.86% |
-| 05:00 | IDR | Import Growth (YoY) (Mar) | 5.34% | 6.60% | 2.30% |
-| 05:00 | IDR | Trade Balance (Mar) | 4.33B | 2.64B | 3.10B |
+| 08:00 | CHF | M3 Money Supply (Mar) |  |  | 1,158.4B |
+| 08:00 | ZAR | Leading Indicators (Feb) |  |  | 114.40% |
+| 09:00 | EUR | Spanish Trade Balance (Feb) |  |  | -6.19B |
+| 09:30 | HKD | Unemployment Rate (Mar) |  |  | 3.2% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.359% |
+| 10:00 | EUR | Government Budget to GDP |  |  | -3.6% |
+| 10:00 | EUR | Government Debt to GDP |  |  | 88.6% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.010% |
 | 11:00 | USD | IMF Meetings |  |  |  |
-| 12:30 | INR | Infrastructure Output (YoY) (Mar) | 3.8% |  | 3.4% |
-| 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction | 4.225% |  | 4.225% |
-| 16:30 | USD | 6-Month Bill Auction | 4.050% |  | 4.060% |
-| 22:00 | KRW | PPI (MoM) (Mar) | 0.0% |  | 0.0% |
-| 22:00 | KRW | PPI (YoY) (Mar) | 1.3% |  | 1.5% |
-| 39 min | NZD | Exports (Mar) |  |  | 6.74B |
-| 39 min | NZD | Imports (Mar) |  |  | 6.23B |
-| 39 min | NZD | Trade Balance (MoM) (Mar) |  | 80M | 510M |
-| 39 min | NZD | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | 4.9% |
+| 13:30 | CAD | RMPI (YoY) (Mar) |  |  | 9.3% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.6% |
+| 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.013% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.192% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.101% |
+| 15:00 | USD | Richmond Manufacturing Index (Apr) |  | -6 | -4 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Apr) |  |  | -7 |
+| 15:00 | USD | Richmond Services Index (Apr) |  |  | -4 |
+| 15:00 | EUR | Consumer Confidence (Apr) |  | -15.0 | -14.5 |
+| 18:00 | USD | M2 Money Supply (MoM) (Mar) |  |  | 21.67T |
+| 19:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 22:00 | KRW | Consumer Confidence (Apr) |  |  | 93.4 |

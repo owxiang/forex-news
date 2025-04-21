@@ -1,7 +1,12 @@
-## 21 April 2025 - Moderate Impact Forex News
+## 22 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:15 | CNY | China Loan Prime Rate 5Y (Apr) | 3.60% | 3.60% | 3.60% |
-| 02:15 | CNY | PBoC Loan Prime Rate | 3.10% | 3.10% | 3.10% |
-| 15:00 | USD | US Leading Index (MoM) (Mar) | -0.7% | -0.5% | -0.2% |
+| 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.4% | 2.2% |
+| 13:30 | CAD | RMPI (MoM) (Mar) |  | 0.0% | 0.3% |
+| 14:30 | USD | FOMC Member Harker Speaks |  |  |  |
+| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 2-Year Note Auction |  |  | 3.984% |
+| 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.400M |
