@@ -7,7 +7,7 @@
 | 05:00 | IDR | Low | Export Growth (YoY) (Mar) | 3.16% | -3.40% | 13.86% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Mar) | 5.34% | 6.60% | 2.30% |
 | 05:00 | IDR | Low | Trade Balance (Mar) | 4.33B | 2.64B | 3.10B |
-| 53 min | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.5% | -0.3% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |

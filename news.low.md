@@ -5,7 +5,7 @@
 | 05:00 | IDR | Export Growth (YoY) (Mar) | 3.16% | -3.40% | 13.86% |
 | 05:00 | IDR | Import Growth (YoY) (Mar) | 5.34% | 6.60% | 2.30% |
 | 05:00 | IDR | Trade Balance (Mar) | 4.33B | 2.64B | 3.10B |
-| 53 min | USD | IMF Meetings |  |  |  |
+| 11:00 | USD | IMF Meetings |  |  |  |
 | 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.060% |
