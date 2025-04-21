@@ -16,5 +16,5 @@
 | 22:00 | KRW | Low | PPI (YoY) (Mar) |  |  | 1.5% |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 6.74B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.23B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | 80M | 510M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -6,510M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | 80M | 510M |
