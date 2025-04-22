@@ -13,8 +13,8 @@
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | IPPI (YoY) (Mar) | 4.7% |  | 5.1% |
 | 13:30 | CAD | IPPI (MoM) (Mar) | 0.5% | 0.3% | 0.6% |
+| 13:30 | CAD | IPPI (YoY) (Mar) | 4.7% |  | 5.1% |
 | 13:30 | CAD | RMPI (YoY) (Mar) | 3.9% |  | 9.2% |
 | 13:55 | USD | Redbook (YoY) | 7.4% |  | 6.6% |
 | 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
@@ -25,6 +25,6 @@
 | 15:00 | USD | Richmond Manufacturing Shipments (Apr) | -17 |  | -7 |
 | 15:00 | USD | Richmond Services Index (Apr) | -7 |  | -4 |
 | 15:00 | EUR | Consumer Confidence (Apr) | -16.7 | -15.0 | -14.5 |
-| 18:00 | USD | M2 Money Supply (MoM) (Mar) |  |  | 21.67T |
+| 52 min | USD | M2 Money Supply (MoM) (Mar) |  |  | 21.67T |
 | 19:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 93.4 |
