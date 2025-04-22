@@ -13,16 +13,16 @@
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 1.670% |  | 2.010% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | 4.9% |
-| 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | 9.3% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 0.0% | 0.3% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.6% |
-| 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.013% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.192% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.101% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 19 min | CAD | Low | IPPI (YoY) (Mar) |  |  | 4.9% |
+| 19 min | CAD | Low | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 19 min | CAD | Moderate | RMPI (MoM) (Mar) |  | 0.0% | 0.3% |
+| 19 min | CAD | Low | RMPI (YoY) (Mar) |  |  | 9.3% |
+| 44 min | USD | Low | Redbook (YoY) |  |  | 6.6% |
+| 49 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.013% |
+| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.192% |
+| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.101% |
 | 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | -6 | -4 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -7 |

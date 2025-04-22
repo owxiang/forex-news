@@ -12,15 +12,15 @@
 | 10:50 | EUR | German 2-Year Schatz Auction | 1.670% |  | 2.010% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | 4.9% |
-| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | CAD | RMPI (YoY) (Mar) |  |  | 9.3% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.6% |
-| 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 2.013% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.192% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.101% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19 min | CAD | IPPI (YoY) (Mar) |  |  | 4.9% |
+| 19 min | CAD | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 19 min | CAD | RMPI (YoY) (Mar) |  |  | 9.3% |
+| 44 min | USD | Redbook (YoY) |  |  | 6.6% |
+| 49 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 49 min | EUR | French 12-Month BTF Auction |  |  | 2.013% |
+| 49 min | EUR | French 3-Month BTF Auction |  |  | 2.192% |
+| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.101% |
 | 15:00 | USD | Richmond Manufacturing Index (Apr) |  | -6 | -4 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Apr) |  |  | -7 |
 | 15:00 | USD | Richmond Services Index (Apr) |  |  | -4 |
