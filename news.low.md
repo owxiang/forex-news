@@ -14,8 +14,8 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | 4.9% |
+| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | CAD | RMPI (YoY) (Mar) |  |  | 9.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.6% |
 | 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
