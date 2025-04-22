@@ -8,5 +8,5 @@
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 3.795% |  | 3.984% |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 54 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.400M |

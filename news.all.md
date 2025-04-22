@@ -32,7 +32,7 @@
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.795% |  | 3.984% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) | 21.76T |  | 21.67T |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 54 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 54 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 19:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.400M |
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 93.4 |
