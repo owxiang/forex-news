@@ -34,5 +34,5 @@
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 19:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.400M |
-| 53 min | KRW | Low | Consumer Confidence (Apr) |  |  | 93.4 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.565M |  | 2.400M |
+| 22:00 | KRW | Low | Consumer Confidence (Apr) | 93.8 |  | 93.4 |

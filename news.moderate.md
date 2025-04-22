@@ -9,4 +9,4 @@
 | 18:00 | USD | 2-Year Note Auction | 3.795% |  | 3.984% |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 23 min | USD | API Weekly Crude Oil Stock |  |  | 2.400M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.565M |  | 2.400M |
