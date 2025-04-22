@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.4% | 2.2% |
+| 52 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.4% | 2.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Mar) |  |  | 1,158.4B |
 | 08:00 | ZAR | Low | Leading Indicators (Feb) |  |  | 114.40% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Feb) |  |  | -6.19B |
