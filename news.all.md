@@ -23,12 +23,12 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.893% |  | 2.013% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.121% |  | 2.192% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.027% |  | 2.101% |
-| 17 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 47 min | USD | Low | Richmond Manufacturing Index (Apr) |  | -6 | -4 |
-| 47 min | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -7 |
-| 47 min | USD | Low | Richmond Services Index (Apr) |  |  | -4 |
-| 47 min | EUR | Low | Consumer Confidence (Apr) |  | -15.0 | -14.5 |
-| 47 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) | -13 | -6 | -4 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) | -17 |  | -7 |
+| 15:00 | USD | Low | Richmond Services Index (Apr) | -7 |  | -4 |
+| 15:00 | EUR | Low | Consumer Confidence (Apr) | -16.7 | -15.0 | -14.5 |
+| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.984% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) |  |  | 21.67T |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |

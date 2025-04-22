@@ -21,10 +21,10 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.893% |  | 2.013% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.121% |  | 2.192% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.027% |  | 2.101% |
-| 47 min | USD | Richmond Manufacturing Index (Apr) |  | -6 | -4 |
-| 47 min | USD | Richmond Manufacturing Shipments (Apr) |  |  | -7 |
-| 47 min | USD | Richmond Services Index (Apr) |  |  | -4 |
-| 47 min | EUR | Consumer Confidence (Apr) |  | -15.0 | -14.5 |
+| 15:00 | USD | Richmond Manufacturing Index (Apr) | -13 | -6 | -4 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Apr) | -17 |  | -7 |
+| 15:00 | USD | Richmond Services Index (Apr) | -7 |  | -4 |
+| 15:00 | EUR | Consumer Confidence (Apr) | -16.7 | -15.0 | -14.5 |
 | 18:00 | USD | M2 Money Supply (MoM) (Mar) |  |  | 21.67T |
 | 19:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 93.4 |

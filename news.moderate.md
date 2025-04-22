@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.2% | 2.4% | 2.2% |
 | 13:30 | CAD | RMPI (MoM) (Mar) | -1.0% | 0.0% | 0.3% |
-| 17 min | USD | FOMC Member Harker Speaks |  |  |  |
-| 47 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:30 | USD | FOMC Member Harker Speaks |  |  |  |
+| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction |  |  | 3.984% |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 19:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
