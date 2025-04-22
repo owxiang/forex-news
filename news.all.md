@@ -16,8 +16,8 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) | 4.7% |  | 5.1% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) | 0.5% | 0.3% | 0.6% |
-| 13:30 | CAD | Low | RMPI (YoY) (Mar) | 3.9% |  | 9.2% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | -1.0% | 0.0% | 0.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (Mar) | 3.9% |  | 9.2% |
 | 13:55 | USD | Low | Redbook (YoY) | 7.4% |  | 6.6% |
 | 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.893% |  | 2.013% |
