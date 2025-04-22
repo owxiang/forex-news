@@ -13,8 +13,7 @@
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 1.670% |  | 2.010% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | 4.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | 9.3% |
