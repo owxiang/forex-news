@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.4% | 2.2% |
-| 51 min | CHF | Low | M3 Money Supply (Mar) |  |  | 1,158.4B |
-| 51 min | ZAR | Low | Leading Indicators (Feb) |  |  | 114.40% |
-| 09:00 | EUR | Low | Spanish Trade Balance (Feb) |  |  | -6.19B |
+| 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,169.5B |  | 1,160.2B |
+| 08:00 | ZAR | Low | Leading Indicators (Feb) | 114.20% |  | 114.40% |
+| 53 min | EUR | Low | Spanish Trade Balance (Feb) |  |  | -6.19B |
 | 09:30 | HKD | Low | Unemployment Rate (Mar) |  |  | 3.2% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.359% |
 | 10:00 | EUR | Low | Government Budget to GDP |  |  | -3.6% |
@@ -17,8 +17,8 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | 4.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 0.0% | 0.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | 9.3% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 0.0% | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.6% |
 | 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 2.013% |

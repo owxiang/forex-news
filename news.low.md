@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 51 min | CHF | M3 Money Supply (Mar) |  |  | 1,158.4B |
-| 51 min | ZAR | Leading Indicators (Feb) |  |  | 114.40% |
-| 09:00 | EUR | Spanish Trade Balance (Feb) |  |  | -6.19B |
+| 08:00 | CHF | M3 Money Supply (Mar) | 1,169.5B |  | 1,160.2B |
+| 08:00 | ZAR | Leading Indicators (Feb) | 114.20% |  | 114.40% |
+| 53 min | EUR | Spanish Trade Balance (Feb) |  |  | -6.19B |
 | 09:30 | HKD | Unemployment Rate (Mar) |  |  | 3.2% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.359% |
 | 10:00 | EUR | Government Budget to GDP |  |  | -3.6% |
