@@ -14,21 +14,21 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19 min | CAD | Low | IPPI (YoY) (Mar) |  |  | 4.9% |
-| 19 min | CAD | Low | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 19 min | CAD | Moderate | RMPI (MoM) (Mar) |  | 0.0% | 0.3% |
-| 19 min | CAD | Low | RMPI (YoY) (Mar) |  |  | 9.3% |
-| 44 min | USD | Low | Redbook (YoY) |  |  | 6.6% |
-| 49 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 2.013% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.192% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.101% |
-| 14:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | -6 | -4 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -7 |
-| 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | -4 |
-| 15:00 | EUR | Low | Consumer Confidence (Apr) |  | -15.0 | -14.5 |
-| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:30 | CAD | Low | IPPI (YoY) (Mar) | 4.7% |  | 5.1% |
+| 13:30 | CAD | Low | IPPI (MoM) (Mar) | 0.5% | 0.3% | 0.6% |
+| 13:30 | CAD | Low | RMPI (YoY) (Mar) | 3.9% |  | 9.2% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | -1.0% | 0.0% | 0.3% |
+| 13:55 | USD | Low | Redbook (YoY) | 7.4% |  | 6.6% |
+| 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.893% |  | 2.013% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.121% |  | 2.192% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.027% |  | 2.101% |
+| 17 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 47 min | USD | Low | Richmond Manufacturing Index (Apr) |  | -6 | -4 |
+| 47 min | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -7 |
+| 47 min | USD | Low | Richmond Services Index (Apr) |  |  | -4 |
+| 47 min | EUR | Low | Consumer Confidence (Apr) |  | -15.0 | -14.5 |
+| 47 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.984% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) |  |  | 21.67T |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
