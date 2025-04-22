@@ -9,9 +9,9 @@
 | 09:50 | EUR | Spanish 3-Month Letras Auction | 2.100% |  | 2.359% |
 | 10:00 | EUR | Government Budget to GDP | -3.1% |  | -3.5% |
 | 10:00 | EUR | Government Debt to GDP | 87.4% |  | 87.3% |
-| 23 min | EUR | German 2-Year Schatz Auction |  |  | 2.010% |
-| 53 min | USD | IMF Meetings |  |  |  |
-| 53 min | EUR | German Buba Monthly Report |  |  |  |
+| 10:50 | EUR | German 2-Year Schatz Auction | 1.670% |  | 2.010% |
+| 11:00 | USD | IMF Meetings |  |  |  |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 53 min | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | 4.9% |
