@@ -27,4 +27,4 @@
 | 15:00 | EUR | Consumer Confidence (Apr) | -16.7 | -15.0 | -14.5 |
 | 18:00 | USD | M2 Money Supply (MoM) (Mar) | 21.76T |  | 21.67T |
 | 19:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 22:00 | KRW | Consumer Confidence (Apr) |  |  | 93.4 |
+| 53 min | KRW | Consumer Confidence (Apr) |  |  | 93.4 |
