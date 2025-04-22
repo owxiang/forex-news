@@ -5,14 +5,14 @@
 | 08:00 | CHF | M3 Money Supply (Mar) | 1,169.5B |  | 1,160.2B |
 | 08:00 | ZAR | Leading Indicators (Feb) | 114.20% |  | 114.43% |
 | 09:00 | EUR | Spanish Trade Balance (Feb) | -3.42B |  | -6.19B |
-| 21 min | HKD | Unemployment Rate (Mar) |  |  | 3.2% |
-| 31 min | EUR | Spanish 3-Month Letras Auction |  |  | 2.359% |
-| 51 min | EUR | Government Budget to GDP |  |  | -3.6% |
-| 51 min | EUR | Government Debt to GDP |  |  | 88.6% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.010% |
-| 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 09:30 | HKD | Unemployment Rate (Mar) | 3.2% |  | 3.2% |
+| 09:50 | EUR | Spanish 3-Month Letras Auction | 2.100% |  | 2.359% |
+| 10:00 | EUR | Government Budget to GDP | -3.1% |  | -3.5% |
+| 10:00 | EUR | Government Debt to GDP | 87.4% |  | 87.3% |
+| 23 min | EUR | German 2-Year Schatz Auction |  |  | 2.010% |
+| 53 min | USD | IMF Meetings |  |  |  |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
+| 53 min | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | 4.9% |
 | 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |

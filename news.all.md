@@ -6,14 +6,14 @@
 | 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,169.5B |  | 1,160.2B |
 | 08:00 | ZAR | Low | Leading Indicators (Feb) | 114.20% |  | 114.43% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Feb) | -3.42B |  | -6.19B |
-| 21 min | HKD | Low | Unemployment Rate (Mar) |  |  | 3.2% |
-| 31 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.359% |
-| 51 min | EUR | Low | Government Budget to GDP |  |  | -3.6% |
-| 51 min | EUR | Low | Government Debt to GDP |  |  | 88.6% |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.010% |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 09:30 | HKD | Low | Unemployment Rate (Mar) | 3.2% |  | 3.2% |
+| 09:50 | EUR | Low | Spanish 3-Month Letras Auction | 2.100% |  | 2.359% |
+| 10:00 | EUR | Low | Government Budget to GDP | -3.1% |  | -3.5% |
+| 10:00 | EUR | Low | Government Debt to GDP | 87.4% |  | 87.3% |
+| 23 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.010% |
+| 53 min | USD | Low | IMF Meetings |  |  |  |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | 4.9% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.3% | 0.4% |
