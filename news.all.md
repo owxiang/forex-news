@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% | 2.4% | 2.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,169.5B |  | 1,160.2B |
-| 08:00 | ZAR | Low | Leading Indicators (Feb) | 114.20% |  | 114.40% |
-| 53 min | EUR | Low | Spanish Trade Balance (Feb) |  |  | -6.19B |
-| 09:30 | HKD | Low | Unemployment Rate (Mar) |  |  | 3.2% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.359% |
-| 10:00 | EUR | Low | Government Budget to GDP |  |  | -3.6% |
-| 10:00 | EUR | Low | Government Debt to GDP |  |  | 88.6% |
+| 08:00 | ZAR | Low | Leading Indicators (Feb) | 114.20% |  | 114.43% |
+| 09:00 | EUR | Low | Spanish Trade Balance (Feb) | -3.42B |  | -6.19B |
+| 21 min | HKD | Low | Unemployment Rate (Mar) |  |  | 3.2% |
+| 31 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.359% |
+| 51 min | EUR | Low | Government Budget to GDP |  |  | -3.6% |
+| 51 min | EUR | Low | Government Debt to GDP |  |  | 88.6% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.010% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |

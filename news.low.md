@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 08:00 | CHF | M3 Money Supply (Mar) | 1,169.5B |  | 1,160.2B |
-| 08:00 | ZAR | Leading Indicators (Feb) | 114.20% |  | 114.40% |
-| 53 min | EUR | Spanish Trade Balance (Feb) |  |  | -6.19B |
-| 09:30 | HKD | Unemployment Rate (Mar) |  |  | 3.2% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.359% |
-| 10:00 | EUR | Government Budget to GDP |  |  | -3.6% |
-| 10:00 | EUR | Government Debt to GDP |  |  | 88.6% |
+| 08:00 | ZAR | Leading Indicators (Feb) | 114.20% |  | 114.43% |
+| 09:00 | EUR | Spanish Trade Balance (Feb) | -3.42B |  | -6.19B |
+| 21 min | HKD | Unemployment Rate (Mar) |  |  | 3.2% |
+| 31 min | EUR | Spanish 3-Month Letras Auction |  |  | 2.359% |
+| 51 min | EUR | Government Budget to GDP |  |  | -3.6% |
+| 51 min | EUR | Government Debt to GDP |  |  | 88.6% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.010% |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
