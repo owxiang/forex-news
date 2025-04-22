@@ -14,8 +14,8 @@
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Low | IPPI (MoM) (Mar) | 0.5% | 0.3% | 0.6% |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) | 4.7% |  | 5.1% |
+| 13:30 | CAD | Low | IPPI (MoM) (Mar) | 0.5% | 0.3% | 0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Mar) | 3.9% |  | 9.2% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | -1.0% | 0.0% | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 7.4% |  | 6.6% |
@@ -29,10 +29,10 @@
 | 15:00 | USD | Low | Richmond Services Index (Apr) | -7 |  | -4 |
 | 15:00 | EUR | Low | Consumer Confidence (Apr) | -16.7 | -15.0 | -14.5 |
 | 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 52 min | USD | Moderate | 2-Year Note Auction |  |  | 3.984% |
-| 52 min | USD | Low | M2 Money Supply (MoM) (Mar) |  |  | 21.67T |
-| 52 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 19:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 19:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 3.795% |  | 3.984% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Mar) | 21.76T |  | 21.67T |
+| 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 54 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.400M |
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 93.4 |
