@@ -19,9 +19,9 @@
 | 10:00 | EUR | Trade Balance (Feb) | 24.0B |  | 0.8B |
 | 10:30 | EUR | German 10-Year Bund Auction | 2.470% |  | 2.680% |
 | 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 24 min | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:30 | USD | Building Permits (Mar) |  | 1.482M | 1.459M |
-| 13:30 | CAD | New Housing Price Index (MoM) (Mar) |  | 0.0% | 0.1% |
+| 12:30 | USD | Building Permits (Mar) | 1.467M | 1.482M | 1.459M |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 19 min | CAD | New Housing Price Index (MoM) (Mar) |  | 0.0% | 0.1% |
 | 14:30 | USD | Fed Waller Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Apr) |  |  | 53.5 |
 | 15:00 | USD | New Home Sales (MoM) (Mar) |  |  | 1.8% |
