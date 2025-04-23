@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Apr) | 51.7 |  | 52.1 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Apr) | 51.4 |  | 51.6 |
-| 2 min | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) |  | 48.7 | 48.4 |
-| 2 min | JPY | Moderate | au Jibun Bank Services PMI (Apr) |  |  | 50.0 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) | 48.5 | 48.7 | 48.4 |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) | 52.2 |  | 50.0 |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) |  |  | 0.9% |
 | 05:00 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
@@ -55,8 +55,8 @@
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | 2.7% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | 0.6% |
-| 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.482M | 1.459M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) |  | 1.6% | -1.0% |
+| 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.482M | 1.459M |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.0% | 0.1% |
 | 14:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
