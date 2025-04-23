@@ -7,13 +7,13 @@
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) | 48.5 | 48.7 | 48.4 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) | 52.2 |  | 50.0 |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) | 0.8% |  | 0.8% |
-| 39 min | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
-| 06:00 | INR | Low | S&P Global Manufacturing PMI (Apr) |  |  | 58.1 |
-| 06:00 | INR | Low | S&P Global Services PMI (Apr) |  |  | 58.5 |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 0.60% |
-| 06:00 | SGD | Low | CPI (MoM) (Mar) |  |  | 0.80% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Mar) |  | 1.0% | 0.9% |
+| 05:00 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
+| 22 min | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
+| 52 min | INR | Low | S&P Global Manufacturing PMI (Apr) |  |  | 58.1 |
+| 52 min | INR | Low | S&P Global Services PMI (Apr) |  |  | 58.5 |
+| 52 min | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 0.60% |
+| 52 min | SGD | Low | CPI (MoM) (Mar) |  |  | 0.80% |
+| 52 min | SGD | Moderate | CPI (YoY) (Mar) |  | 1.0% | 0.9% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  |  | 10.71B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |

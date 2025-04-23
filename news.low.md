@@ -6,11 +6,11 @@
 | 00:00 | AUD | Judo Bank Services PMI (Apr) | 51.4 |  | 51.6 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Apr) | 48.5 | 48.7 | 48.4 |
 | 04:00 | NZD | Credit Card Spending (YoY) (Mar) | 0.8% |  | 0.8% |
-| 39 min | IDR | Loans (YoY) (Mar) |  |  | 10.30% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
-| 06:00 | INR | S&P Global Manufacturing PMI (Apr) |  |  | 58.1 |
-| 06:00 | INR | S&P Global Services PMI (Apr) |  |  | 58.5 |
-| 06:00 | SGD | CPI (MoM) (Mar) |  |  | 0.80% |
+| 05:00 | IDR | Loans (YoY) (Mar) |  |  | 10.30% |
+| 22 min | JPY | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
+| 52 min | INR | S&P Global Manufacturing PMI (Apr) |  |  | 58.1 |
+| 52 min | INR | S&P Global Services PMI (Apr) |  |  | 58.5 |
+| 52 min | SGD | CPI (MoM) (Mar) |  |  | 0.80% |
 | 07:00 | GBP | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
 | 07:00 | GBP | Public Sector Net Borrowing (Mar) |  |  | 10.71B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |
