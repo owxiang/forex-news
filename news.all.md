@@ -73,9 +73,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.021M |  | 0.019M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | -0.4% |
 | 15:30 | USD | Low | Gasoline Inventories | -4.476M |  | -1.958M |
-| 22 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 52 min | USD | Moderate | 5-Year Note Auction |  |  | 4.100% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.236B |
-| 19:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 3.995% |  | 4.100% |
+| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -0.236B |
+| 53 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 53 min | USD | Moderate | Beige Book |  |  |  |
 | 20:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |

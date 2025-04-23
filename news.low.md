@@ -45,5 +45,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.021M |  | 0.019M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | -0.4% |
 | 15:30 | USD | Gasoline Inventories | -4.476M |  | -1.958M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.236B |
-| 19:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 23 min | BRL | Foreign Exchange Flows |  |  | -0.236B |
+| 53 min | GBP | BoE Breeden Speaks |  |  |  |
