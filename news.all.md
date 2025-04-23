@@ -6,16 +6,16 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (Apr) | 51.4 |  | 51.6 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) | 48.5 | 48.7 | 48.4 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) | 52.2 |  | 50.0 |
-| 26 min | NZD | Low | Credit Card Spending (YoY) (Mar) |  |  | 0.9% |
-| 05:00 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) | 0.8% |  | 0.8% |
+| 39 min | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Apr) |  |  | 58.1 |
 | 06:00 | INR | Low | S&P Global Services PMI (Apr) |  |  | 58.5 |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 0.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Mar) |  |  | 0.80% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Mar) |  | 1.0% | 0.9% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  |  | 10.71B |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  |  | 10.71B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) |  |  | 5.5 |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 47.9 | 48.5 |
@@ -30,10 +30,10 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 47.4 | 48.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.3 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 50.4 | 51.0 |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 3.4% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 1.1% |
-| 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 3.2% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 3.4% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 0.9% |
+| 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 3.2% |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 50.4 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 51.4 | 52.5 |
@@ -53,8 +53,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 841.9 |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | 2.7% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | 0.6% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | 2.7% |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) |  | 1.6% | -1.0% |
 | 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.482M | 1.459M |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.0% | 0.1% |
@@ -63,8 +63,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 49.0 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.8 | 54.4 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | 1.8% |
 | 15:00 | USD | High | New Home Sales (Mar) |  | 682K | 676K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | 1.8% |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | 0.515M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.063M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -2.044M |

@@ -5,24 +5,24 @@
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Apr) | 51.7 |  | 52.1 |
 | 00:00 | AUD | Judo Bank Services PMI (Apr) | 51.4 |  | 51.6 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Apr) | 48.5 | 48.7 | 48.4 |
-| 26 min | NZD | Credit Card Spending (YoY) (Mar) |  |  | 0.9% |
-| 05:00 | IDR | Loans (YoY) (Mar) |  |  | 10.30% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Mar) | 0.8% |  | 0.8% |
+| 39 min | IDR | Loans (YoY) (Mar) |  |  | 10.30% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
 | 06:00 | INR | S&P Global Manufacturing PMI (Apr) |  |  | 58.1 |
 | 06:00 | INR | S&P Global Services PMI (Apr) |  |  | 58.5 |
 | 06:00 | SGD | CPI (MoM) (Mar) |  |  | 0.80% |
-| 07:00 | GBP | Public Sector Net Borrowing (Mar) |  |  | 10.71B |
 | 07:00 | GBP | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
+| 07:00 | GBP | Public Sector Net Borrowing (Mar) |  |  | 10.71B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |
 | 07:00 | NOK | Industrial Confidence (Q1) |  |  | 5.5 |
 | 08:15 | EUR | HCOB France Composite PMI (Apr) |  | 47.8 | 48.0 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 50.4 | 51.3 |
 | 08:30 | IDR | Deposit Facility Rate (Apr) |  |  | 5.00% |
 | 08:30 | IDR | Lending Facility Rate (Apr) |  |  | 6.50% |
-| 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 3.4% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) |  |  | 1.1% |
-| 09:00 | ZAR | CPI (YoY) (Mar) |  |  | 3.2% |
+| 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 3.4% |
 | 09:00 | ZAR | CPI (MoM) (Mar) |  |  | 0.9% |
+| 09:00 | ZAR | CPI (YoY) (Mar) |  |  | 3.2% |
 | 09:30 | HKD | CPI (MoM) (Mar) |  |  | -0.10% |
 | 09:30 | HKD | CPI (YoY) (Mar) |  |  | 1.40% |
 | 10:00 | EUR | Construction Output (MoM) (Feb) |  |  | 0.19% |
@@ -35,8 +35,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 267.5 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 841.9 |
 | 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
-| 13:00 | MXN | Retail Sales (YoY) (Feb) |  |  | 2.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Feb) |  |  | 0.6% |
+| 13:00 | MXN | Retail Sales (YoY) (Feb) |  |  | 2.7% |
 | 13:30 | USD | Building Permits (MoM) (Mar) |  | 1.6% | -1.0% |
 | 14:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.063M |
