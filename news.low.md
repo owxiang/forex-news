@@ -18,15 +18,15 @@
 | 08:30 | EUR | HCOB Germany Composite PMI (Apr) | 49.7 | 50.4 | 51.3 |
 | 08:30 | IDR | Deposit Facility Rate (Apr) | 5.00% |  | 5.00% |
 | 08:30 | IDR | Lending Facility Rate (Apr) | 6.50% |  | 6.50% |
-| 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.5% |  | 1.1% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) | 3.1% |  | 3.4% |
+| 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.5% |  | 1.1% |
 | 09:00 | ZAR | CPI (MoM) (Mar) | 0.4% |  | 0.9% |
 | 09:00 | ZAR | CPI (YoY) (Mar) | 2.7% |  | 3.2% |
-| 21 min | HKD | CPI (MoM) (Mar) |  |  | -0.10% |
-| 21 min | HKD | CPI (YoY) (Mar) |  |  | 1.40% |
-| 51 min | EUR | Construction Output (MoM) (Feb) |  |  | 0.19% |
-| 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:30 | HKD | CPI (MoM) (Mar) | 0.00% |  | -0.10% |
+| 09:30 | HKD | CPI (YoY) (Mar) | 1.40% |  | 1.40% |
+| 10:00 | EUR | Construction Output (MoM) (Feb) | -0.48% |  | 0.58% |
+| 52 min | USD | IMF Meetings |  |  |  |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -8.5% |
@@ -34,8 +34,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 267.5 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 841.9 |
 | 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
-| 13:00 | MXN | Retail Sales (YoY) (Feb) |  |  | 2.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Feb) |  |  | 0.6% |
+| 13:00 | MXN | Retail Sales (YoY) (Feb) |  |  | 2.7% |
 | 13:30 | USD | Building Permits (MoM) (Mar) |  | 1.6% | -1.0% |
 | 14:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.063M |

@@ -13,11 +13,11 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) | 48.7 | 47.4 | 48.6 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 50.1 | 50.3 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 49.7 | 50.4 | 51.0 |
-| 21 min | GBP | S&P Global Composite PMI (Apr) |  | 50.4 | 51.5 |
-| 21 min | GBP | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
-| 21 min | GBP | S&P Global Services PMI (Apr) |  | 51.5 | 52.5 |
-| 51 min | EUR | Trade Balance (Feb) |  |  | 1.0B |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.680% |
+| 09:30 | GBP | S&P Global Composite PMI (Apr) | 48.2 | 50.4 | 51.5 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Apr) | 44.0 | 44.0 | 44.9 |
+| 09:30 | GBP | S&P Global Services PMI (Apr) | 48.9 | 51.5 | 52.5 |
+| 10:00 | EUR | Trade Balance (Feb) | 24.0B |  | 1.0B |
+| 22 min | EUR | German 10-Year Bund Auction |  |  | 2.680% |
 | 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | USD | Building Permits (Mar) |  | 1.482M | 1.459M |
