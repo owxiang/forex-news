@@ -37,13 +37,13 @@
 | 13:00 | MXN | Retail Sales (YoY) (Feb) | -1.1% |  | 2.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Feb) | 0.2% |  | 0.6% |
 | 14:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.063M |
-| 23 min | USD | Crude Oil Imports |  |  | -2.044M |
-| 23 min | USD | Distillate Fuel Production |  |  | 0.030M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  |  | -1.851M |
-| 23 min | USD | Gasoline Production |  |  | 0.466M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | 0.019M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
-| 23 min | USD | Gasoline Inventories |  |  | -1.958M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.325M |  | -0.063M |
+| 15:30 | USD | Crude Oil Imports | 1.139M |  | -2.044M |
+| 15:30 | USD | Distillate Fuel Production | -0.062M |  | 0.030M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -2.353M |  | -1.851M |
+| 15:30 | USD | Gasoline Production | 0.661M |  | 0.466M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.021M |  | 0.019M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | -0.4% |
+| 15:30 | USD | Gasoline Inventories | -4.476M |  | -1.958M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.236B |
 | 19:00 | GBP | BoE Breeden Speaks |  |  |  |

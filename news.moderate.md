@@ -25,7 +25,7 @@
 | 14:30 | USD | Fed Waller Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Apr) | 51.2 |  | 53.5 |
 | 15:00 | USD | New Home Sales (MoM) (Mar) | 7.4% |  | 3.1% |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.654M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.086M |  | -0.654M |
 | 17:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.100% |
 | 19:00 | USD | Beige Book |  |  |  |
