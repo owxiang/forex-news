@@ -29,4 +29,4 @@
 | 17:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction | 3.995% |  | 4.100% |
 | 19:00 | USD | Beige Book |  |  |  |
-| 20:15 | EUR | ECB's Lane Speaks |  |  |  |
+| 9 min | EUR | ECB's Lane Speaks |  |  |  |

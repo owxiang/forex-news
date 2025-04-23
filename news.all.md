@@ -50,8 +50,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 153.4 |  | 164.2 |
 | 12:00 | USD | Low | Mortgage Market Index | 233.5 |  | 267.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 673.6 |  | 841.9 |
-| 12:30 | USD | Low | Building Permits (MoM) (Mar) | 0.5% | 1.6% | -1.0% |
 | 12:30 | USD | Moderate | Building Permits (Mar) | 1.467M | 1.482M | 1.459M |
+| 12:30 | USD | Low | Building Permits (MoM) (Mar) | 0.5% | 1.6% | -1.0% |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Feb) | -1.1% |  | 2.7% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Feb) | 0.2% |  | 0.6% |
@@ -78,4 +78,4 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.186B |  | -0.236B |
 | 19:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 20:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 9 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
