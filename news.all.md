@@ -7,20 +7,19 @@
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) | 48.5 | 48.7 | 48.4 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) | 52.2 |  | 50.0 |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) | 0.8% |  | 0.8% |
-| 05:00 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
-| 22 min | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
-| 52 min | INR | Low | S&P Global Manufacturing PMI (Apr) |  |  | 58.1 |
-| 52 min | INR | Low | S&P Global Services PMI (Apr) |  |  | 58.5 |
-| 52 min | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 0.60% |
-| 52 min | SGD | Low | CPI (MoM) (Mar) |  |  | 0.80% |
-| 52 min | SGD | Moderate | CPI (YoY) (Mar) |  | 1.0% | 0.9% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  |  | 10.71B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |
-| 07:00 | NOK | Low | Industrial Confidence (Q1) |  |  | 5.5 |
+| 06:00 | INR | Low | S&P Global Manufacturing PMI (Apr) | 58.4 |  | 58.1 |
+| 06:00 | INR | Low | S&P Global Services PMI (Apr) | 59.1 |  | 58.5 |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) | 0.50% |  | 0.60% |
+| 06:00 | SGD | Low | CPI (MoM) (Mar) | -0.10% |  | 0.80% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Mar) | 0.9% | 1.0% | 0.9% |
+| 23 min | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
+| 53 min | GBP | Low | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
+| 53 min | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |
+| 53 min | NOK | Low | Industrial Confidence (Q1) |  |  | 5.5 |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 47.9 | 48.5 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  | 47.8 | 48.0 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 47.7 | 47.9 |
+| 08:20 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 50.4 | 51.3 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 47.5 | 48.3 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.3 | 50.9 |
@@ -36,7 +35,7 @@
 | 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 3.2% |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 50.4 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 51.4 | 52.5 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 51.5 | 52.5 |
 | 09:30 | HKD | Low | CPI (MoM) (Mar) |  |  | -0.10% |
 | 09:30 | HKD | Low | CPI (YoY) (Mar) |  |  | 1.40% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Feb) |  |  | 0.19% |
@@ -53,8 +52,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 841.9 |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | 0.6% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | 2.7% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | 0.6% |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) |  | 1.6% | -1.0% |
 | 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.482M | 1.459M |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.0% | 0.1% |
@@ -63,9 +62,9 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 49.0 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.8 | 54.4 |
-| 15:00 | USD | High | New Home Sales (Mar) |  | 682K | 676K |
+| 15:00 | USD | High | New Home Sales (Mar) |  | 684K | 676K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | 1.8% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 0.515M |
+| 15:30 | USD | High | Crude Oil Inventories |  | 1.600M | 0.515M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.063M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -2.044M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.654M |

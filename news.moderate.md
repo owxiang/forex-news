@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (Apr) | 52.2 |  | 50.0 |
-| 52 min | SGD | Core CPI (YoY) (Mar) |  |  | 0.60% |
-| 52 min | SGD | CPI (YoY) (Mar) |  | 1.0% | 0.9% |
+| 06:00 | SGD | Core CPI (YoY) (Mar) | 0.50% |  | 0.60% |
+| 06:00 | SGD | CPI (YoY) (Mar) | 0.9% | 1.0% | 0.9% |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Apr) |  | 47.9 | 48.5 |
 | 08:15 | EUR | HCOB France Services PMI (Apr) |  | 47.7 | 47.9 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 47.5 | 48.3 |
@@ -15,7 +15,7 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) |  | 50.4 | 51.0 |
 | 09:30 | GBP | S&P Global Composite PMI (Apr) |  | 50.4 | 51.5 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
-| 09:30 | GBP | S&P Global Services PMI (Apr) |  | 51.4 | 52.5 |
+| 09:30 | GBP | S&P Global Services PMI (Apr) |  | 51.5 | 52.5 |
 | 10:00 | EUR | Trade Balance (Feb) |  |  | 1.0B |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.680% |
 | 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
