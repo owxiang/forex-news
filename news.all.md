@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Apr) | 51.7 |  | 52.1 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Apr) | 51.4 |  | 51.6 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) |  | 48.7 | 48.4 |
-| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) |  |  | 50.0 |
+| 2 min | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) |  | 48.7 | 48.4 |
+| 2 min | JPY | Moderate | au Jibun Bank Services PMI (Apr) |  |  | 50.0 |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) |  |  | 0.9% |
 | 05:00 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
