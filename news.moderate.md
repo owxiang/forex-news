@@ -28,5 +28,5 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.086M |  | -0.654M |
 | 17:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction | 3.995% |  | 4.100% |
-| 53 min | USD | Beige Book |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
 | 20:15 | EUR | ECB's Lane Speaks |  |  |  |

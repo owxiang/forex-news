@@ -31,8 +31,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 49.7 | 50.4 | 51.0 |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.5% |  | 1.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 3.1% |  | 3.4% |
-| 09:00 | ZAR | Low | CPI (YoY) (Mar) | 2.7% |  | 3.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.4% |  | 0.9% |
+| 09:00 | ZAR | Low | CPI (YoY) (Mar) | 2.7% |  | 3.2% |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) | 48.2 | 50.4 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) | 44.0 | 44.0 | 44.9 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) | 48.9 | 51.5 | 52.5 |
@@ -50,19 +50,19 @@
 | 12:00 | USD | Low | MBA Purchase Index | 153.4 |  | 164.2 |
 | 12:00 | USD | Low | Mortgage Market Index | 233.5 |  | 267.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 673.6 |  | 841.9 |
-| 12:30 | USD | Moderate | Building Permits (Mar) | 1.467M | 1.482M | 1.459M |
 | 12:30 | USD | Low | Building Permits (MoM) (Mar) | 0.5% | 1.6% | -1.0% |
+| 12:30 | USD | Moderate | Building Permits (Mar) | 1.467M | 1.482M | 1.459M |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) | 0.2% |  | 0.6% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Feb) | -1.1% |  | 2.7% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) | 0.2% |  | 0.6% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) | 0.0% | 0.0% | 0.1% |
 | 14:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 14:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) | 50.7 | 49.0 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) | 51.2 |  | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) | 51.4 | 52.8 | 54.4 |
-| 15:00 | USD | High | New Home Sales (Mar) | 724K | 684K | 674K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) | 7.4% |  | 3.1% |
+| 15:00 | USD | High | New Home Sales (Mar) | 724K | 684K | 674K |
 | 15:30 | USD | High | Crude Oil Inventories | 0.244M | 1.600M | 0.515M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.325M |  | -0.063M |
 | 15:30 | USD | Low | Crude Oil Imports | 1.139M |  | -2.044M |
@@ -75,7 +75,7 @@
 | 15:30 | USD | Low | Gasoline Inventories | -4.476M |  | -1.958M |
 | 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.995% |  | 4.100% |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -0.236B |
-| 53 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 53 min | USD | Moderate | Beige Book |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -0.186B |  | -0.236B |
+| 19:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |

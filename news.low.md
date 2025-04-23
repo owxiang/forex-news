@@ -20,8 +20,8 @@
 | 08:30 | IDR | Lending Facility Rate (Apr) | 6.50% |  | 6.50% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.5% |  | 1.1% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) | 3.1% |  | 3.4% |
-| 09:00 | ZAR | CPI (YoY) (Mar) | 2.7% |  | 3.2% |
 | 09:00 | ZAR | CPI (MoM) (Mar) | 0.4% |  | 0.9% |
+| 09:00 | ZAR | CPI (YoY) (Mar) | 2.7% |  | 3.2% |
 | 09:30 | HKD | CPI (MoM) (Mar) | 0.00% |  | -0.10% |
 | 09:30 | HKD | CPI (YoY) (Mar) | 1.40% |  | 1.40% |
 | 10:00 | EUR | Construction Output (MoM) (Feb) | -0.48% |  | 0.58% |
@@ -34,8 +34,8 @@
 | 12:00 | USD | Mortgage Market Index | 233.5 |  | 267.5 |
 | 12:00 | USD | Mortgage Refinance Index | 673.6 |  | 841.9 |
 | 12:30 | USD | Building Permits (MoM) (Mar) | 0.5% | 1.6% | -1.0% |
-| 13:00 | MXN | Retail Sales (MoM) (Feb) | 0.2% |  | 0.6% |
 | 13:00 | MXN | Retail Sales (YoY) (Feb) | -1.1% |  | 2.7% |
+| 13:00 | MXN | Retail Sales (MoM) (Feb) | 0.2% |  | 0.6% |
 | 14:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.325M |  | -0.063M |
 | 15:30 | USD | Crude Oil Imports | 1.139M |  | -2.044M |
@@ -45,5 +45,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.021M |  | 0.019M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.8% |  | -0.4% |
 | 15:30 | USD | Gasoline Inventories | -4.476M |  | -1.958M |
-| 23 min | BRL | Foreign Exchange Flows |  |  | -0.236B |
-| 53 min | GBP | BoE Breeden Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows | -0.186B |  | -0.236B |
+| 19:00 | GBP | BoE Breeden Speaks |  |  |  |
