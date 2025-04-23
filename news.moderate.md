@@ -21,10 +21,10 @@
 | 11:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | USD | Building Permits (Mar) | 1.467M | 1.482M | 1.459M |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 19 min | CAD | New Housing Price Index (MoM) (Mar) |  | 0.0% | 0.1% |
-| 14:30 | USD | Fed Waller Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Apr) |  |  | 53.5 |
-| 15:00 | USD | New Home Sales (MoM) (Mar) |  |  | 1.8% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Mar) | 0.0% | 0.0% | 0.1% |
+| 15 min | USD | Fed Waller Speaks |  |  |  |
+| 30 min | USD | S&P Global Composite PMI (Apr) |  |  | 53.5 |
+| 45 min | USD | New Home Sales (MoM) (Mar) |  |  | 1.8% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.654M |
 | 17:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.100% |
