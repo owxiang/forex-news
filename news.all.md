@@ -29,10 +29,10 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 48.7 | 47.4 | 48.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 50.1 | 50.3 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 49.7 | 50.4 | 51.0 |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.5% |  | 1.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 3.1% |  | 3.4% |
-| 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.4% |  | 0.9% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.5% |  | 1.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Mar) | 2.7% |  | 3.2% |
+| 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.4% |  | 0.9% |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) | 48.2 | 50.4 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) | 44.0 | 44.0 | 44.9 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) | 48.9 | 51.5 | 52.5 |
@@ -43,17 +43,17 @@
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.470% |  | 2.680% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 23 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.81% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -8.5% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 164.2 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 267.5 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 841.9 |
-| 53 min | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
-| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | 2.7% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | 0.6% |
+| 11:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.90% |  | 6.81% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -12.7% |  | -8.5% |
+| 12:00 | USD | Low | MBA Purchase Index | 153.4 |  | 164.2 |
+| 12:00 | USD | Low | Mortgage Market Index | 233.5 |  | 267.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 673.6 |  | 841.9 |
+| 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 54 min | MXN | Low | Retail Sales (YoY) (Feb) |  |  | 2.7% |
+| 54 min | MXN | Low | Retail Sales (MoM) (Feb) |  |  | 0.6% |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) |  | 1.6% | -1.0% |
 | 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.482M | 1.459M |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.0% | 0.1% |
@@ -62,8 +62,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 49.0 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.8 | 54.4 |
-| 15:00 | USD | High | New Home Sales (Mar) |  | 684K | 676K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | 1.8% |
+| 15:00 | USD | High | New Home Sales (Mar) |  | 684K | 676K |
 | 15:30 | USD | High | Crude Oil Inventories |  | 1.600M | 0.515M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.063M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -2.044M |
