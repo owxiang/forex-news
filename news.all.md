@@ -16,30 +16,30 @@
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) | 16.44B | 15.40B | 12.31B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) | 2.694B |  | 6.360B |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 4.0 |  | 5.3 |
-| 2 min | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 47.9 | 48.5 |
-| 2 min | EUR | Low | HCOB France Composite PMI (Apr) |  | 47.8 | 48.0 |
-| 2 min | EUR | Moderate | HCOB France Services PMI (Apr) |  | 47.7 | 47.9 |
-| 17 min | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 50.4 | 51.3 |
-| 17 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 47.5 | 48.3 |
-| 17 min | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.3 | 50.9 |
-| 17 min | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
-| 17 min | IDR | Low | Deposit Facility Rate (Apr) |  |  | 5.00% |
-| 17 min | IDR | Low | Lending Facility Rate (Apr) |  |  | 6.50% |
-| 17 min | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
-| 47 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 47.4 | 48.6 |
-| 47 min | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.3 | 50.9 |
-| 47 min | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 50.4 | 51.0 |
-| 47 min | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 3.4% |
-| 47 min | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 1.1% |
-| 47 min | ZAR | Low | CPI (YoY) (Mar) |  |  | 3.2% |
-| 47 min | ZAR | Low | CPI (MoM) (Mar) |  |  | 0.9% |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 50.4 | 51.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 51.5 | 52.5 |
-| 09:30 | HKD | Low | CPI (MoM) (Mar) |  |  | -0.10% |
-| 09:30 | HKD | Low | CPI (YoY) (Mar) |  |  | 1.40% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Feb) |  |  | 0.19% |
-| 10:00 | EUR | Moderate | Trade Balance (Feb) |  |  | 1.0B |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) | 48.2 | 47.9 | 48.5 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) | 47.3 | 47.8 | 48.0 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) | 46.8 | 47.7 | 47.9 |
+| 08:20 | IDR | Low | Loans (YoY) (Mar) | 9.16% |  | 10.30% |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) | 49.7 | 50.4 | 51.3 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) | 48.0 | 47.5 | 48.3 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 48.8 | 50.3 | 50.9 |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
+| 08:30 | IDR | Low | Deposit Facility Rate (Apr) | 5.00% |  | 5.00% |
+| 08:30 | IDR | Low | Lending Facility Rate (Apr) | 6.50% |  | 6.50% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 48.7 | 47.4 | 48.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 50.1 | 50.3 | 50.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 49.7 | 50.4 | 51.0 |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.5% |  | 1.1% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 3.1% |  | 3.4% |
+| 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.4% |  | 0.9% |
+| 09:00 | ZAR | Low | CPI (YoY) (Mar) | 2.7% |  | 3.2% |
+| 21 min | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 50.4 | 51.5 |
+| 21 min | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
+| 21 min | GBP | Moderate | S&P Global Services PMI (Apr) |  | 51.5 | 52.5 |
+| 21 min | HKD | Low | CPI (MoM) (Mar) |  |  | -0.10% |
+| 21 min | HKD | Low | CPI (YoY) (Mar) |  |  | 1.40% |
+| 51 min | EUR | Low | Construction Output (MoM) (Feb) |  |  | 0.19% |
+| 51 min | EUR | Moderate | Trade Balance (Feb) |  |  | 1.0B |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.680% |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -62,8 +62,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 49.0 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.8 | 54.4 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | 1.8% |
 | 15:00 | USD | High | New Home Sales (Mar) |  | 684K | 676K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | 1.8% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 1.600M | 0.515M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.063M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -2.044M |
