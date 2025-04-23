@@ -12,27 +12,27 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) | 0.50% |  | 0.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Mar) | -0.10% |  | 0.80% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Mar) | 0.9% | 1.0% | 0.9% |
-| 23 min | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
-| 53 min | GBP | Low | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
-| 53 min | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |
-| 53 min | NOK | Low | Industrial Confidence (Q1) |  |  | 5.5 |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) | 16.44B | 15.40B | 12.31B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) | 2.694B |  | 6.360B |
+| 07:00 | NOK | Low | Industrial Confidence (Q1) | 4.0 |  | 5.3 |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 47.9 | 48.5 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  | 47.8 | 48.0 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 47.7 | 47.9 |
-| 08:20 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 50.4 | 51.3 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 47.5 | 48.3 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.3 | 50.9 |
+| 08:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Apr) |  |  | 5.00% |
 | 08:30 | IDR | Low | Lending Facility Rate (Apr) |  |  | 6.50% |
+| 08:30 | IDR | Low | Loans (YoY) (Mar) |  |  | 10.30% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 47.4 | 48.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.3 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 50.4 | 51.0 |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 1.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 3.4% |
-| 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 0.9% |
 | 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 3.2% |
+| 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 0.9% |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 50.4 | 51.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 51.5 | 52.5 |

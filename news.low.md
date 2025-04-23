@@ -9,19 +9,19 @@
 | 06:00 | INR | S&P Global Manufacturing PMI (Apr) | 58.4 |  | 58.1 |
 | 06:00 | INR | S&P Global Services PMI (Apr) | 59.1 |  | 58.5 |
 | 06:00 | SGD | CPI (MoM) (Mar) | -0.10% |  | 0.80% |
-| 23 min | JPY | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
-| 53 min | GBP | Public Sector Net Borrowing (Mar) |  | 15.40B | 10.71B |
-| 53 min | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 6.357B |
-| 53 min | NOK | Industrial Confidence (Q1) |  |  | 5.5 |
+| 07:00 | GBP | Public Sector Net Borrowing (Mar) | 16.44B | 15.40B | 12.31B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Mar) | 2.694B |  | 6.360B |
+| 07:00 | NOK | Industrial Confidence (Q1) | 4.0 |  | 5.3 |
 | 08:15 | EUR | HCOB France Composite PMI (Apr) |  | 47.8 | 48.0 |
-| 08:20 | IDR | Loans (YoY) (Mar) |  |  | 10.30% |
 | 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 50.4 | 51.3 |
+| 08:30 | JPY | Tertiary Industry Activity Index (Feb) |  |  | -10.00 |
 | 08:30 | IDR | Deposit Facility Rate (Apr) |  |  | 5.00% |
 | 08:30 | IDR | Lending Facility Rate (Apr) |  |  | 6.50% |
+| 08:30 | IDR | Loans (YoY) (Mar) |  |  | 10.30% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) |  |  | 1.1% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 3.4% |
-| 09:00 | ZAR | CPI (MoM) (Mar) |  |  | 0.9% |
 | 09:00 | ZAR | CPI (YoY) (Mar) |  |  | 3.2% |
+| 09:00 | ZAR | CPI (MoM) (Mar) |  |  | 0.9% |
 | 09:30 | HKD | CPI (MoM) (Mar) |  |  | -0.10% |
 | 09:30 | HKD | CPI (YoY) (Mar) |  |  | 1.40% |
 | 10:00 | EUR | Construction Output (MoM) (Feb) |  |  | 0.19% |
