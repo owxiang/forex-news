@@ -9,14 +9,14 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.863% |
-| 05:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 05:00 | GBP | Car Registration (MoM) (Mar) |  |  | -39.7% |
+| 05:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Mar) |  |  | 3.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 05:00 | EUR | German Car Registration (MoM) (Mar) |  |  | -2.0% |
 | 05:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
-| 05:00 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 05:00 | EUR | French Car Registration (MoM) (Mar) |  |  | 23.5% |
+| 05:00 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 07:45 | EUR | French Consumer Confidence (Apr) |  | 91 | 92 |
 | 08:00 | EUR | Spanish PPI (YoY) (Mar) |  |  | 6.6% |

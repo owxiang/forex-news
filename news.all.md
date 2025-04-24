@@ -9,14 +9,14 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Mar) |  |  | -39.7% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) |  |  | -2.0% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 23.5% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 91 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
@@ -45,8 +45,8 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 5.47% |
 | 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.14M | 4.26M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  | -3.0% | 4.2% |
+| 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.14M | 4.26M |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 16B |
 | 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | -2 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | 1 |
