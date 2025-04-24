@@ -1,57 +1,62 @@
-## 24 April 2025 - All Forex News
+## 25 April 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | -0.1% | 0.2% | 1.2% |
-| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.2% |
-| 00:50 | JPY | Low | Foreign Bonds Buying | 223.7B |  | -511.9B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
-| 02:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
-| 07:45 | EUR | Low | French Consumer Confidence (Apr) | 92 | 91 | 92 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) | 4.9% |  | 6.6% |
-| 09:00 | EUR | Moderate | German Business Expectations (Apr) | 87.4 | 85.0 | 87.7 |
-| 09:00 | EUR | Moderate | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction | 5.155% |  | 5.232% |
-| 10:30 | ZAR | Low | PPI (YoY) (Mar) | 0.5% |  | 1.0% |
-| 10:30 | ZAR | Low | PPI (MoM) (Mar) | 0.6% |  | 0.4% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
+| 00:01 | GBP | Low | GfK Consumer Confidence (Apr) | -23 | -21 | -19 |
+| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Apr) |  |  | 1.1% |
+| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Apr) |  | 3.2% | 2.4% |
+| 24 min | JPY | Low | Tokyo CPI (YoY) (Apr) |  |  | 2.9% |
+| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) |  |  | 0.4% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) |  | 0.60% | 2.30% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  | -0.3% | 0.4% |
+| 06:00 | JPY | Low | Leading Index (Feb) |  | 107.9 | 108.2 |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) |  | 6.9% | -1.3% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) |  |  | -7.5% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  | 2.3% | 2.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) |  | 1.8% | 2.2% |
+| 07:45 | EUR | Low | French Business Survey (Apr) |  | 96 | 96 |
+| 09:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | BRL | Low | FGV Consumer confidence (Apr) | 84.8 |  | 84.3 |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) | 0.34% | 0.20% | 0.24% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) | 0.12% | -0.04% | 0.14% |
-| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Mar) | -0.03 |  | 0.24 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,841K | 1,880K | 1,878K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) | 0.0% | 0.3% | 0.7% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Mar) | 9.2% | 2.1% | 0.9% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Mar) | 10.4% | 0.2% | 0.8% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Mar) | 0.1% | 0.2% | -0.3% |
-| 13:30 | USD | High | Initial Jobless Claims | 222K | 222K | 216K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.25K |  | 221.00K |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) | 5.40% |  | 5.59% |
-| 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -5.9% | -3.0% | 4.4% |
-| 15:00 | USD | High | Existing Home Sales (Mar) | 4.02M | 4.14M | 4.27M |
-| 15:30 | USD | Low | Natural Gas Storage | 88B | 69B | 16B |
-| 16:00 | USD | Low | KC Fed Composite Index (Apr) | -4 |  | -2 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) | -5 |  | 1 |
-| 16:30 | USD | Low | 4-Week Bill Auction | 4.220% |  | 4.240% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.235% |
-| 18:00 | USD | Moderate | 7-Year Note Auction | 4.123% |  | 4.233% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.5% | -2.2% | -2.2% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,727B |  | 6,727B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.209T |  | 3.280T |
-| 22:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 677.84B |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  | -0.60% | -0.10% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  | 0.60% | -0.20% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.43% | 0.64% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 5.49% | 5.26% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.6% | 0.2% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) |  | 0.0% | 0.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  | -0.4% | -0.6% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  | -0.6% |
+| 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 6.7% | 5.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 4.4% | 4.1% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 47.2 | 52.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 50.8 | 57.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Apr) |  | 56.5 | 63.8 |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -26.85B |
+| 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -5.13B |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 6.5K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 19.5K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 234.2K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 146.4K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 202.2K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 31.8K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -117.1K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -63.1K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 43.9K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 50.2K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -88.3K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -83.9K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 33.3K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -28.6K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -58.8K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 49.0K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 171.9K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -33.1K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 69.3K |

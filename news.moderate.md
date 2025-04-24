@@ -1,16 +1,27 @@
-## 24 April 2025 - Moderate Impact Forex News
+## 25 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German Business Expectations (Apr) | 87.4 | 85.0 | 87.7 |
-| 09:00 | EUR | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
-| 09:00 | EUR | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,841K | 1,880K | 1,878K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) | 0.0% | 0.3% | 0.7% |
-| 14:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Existing Home Sales (MoM) (Mar) | -5.9% | -3.0% | 4.4% |
-| 18:00 | USD | 7-Year Note Auction | 4.123% |  | 4.233% |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) | -2.5% | -2.2% | -2.2% |
-| 21:30 | USD | Fed's Balance Sheet | 6,727B |  | 6,727B |
-| 22:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 24 min | JPY | Tokyo Core CPI (YoY) (Apr) |  | 3.2% | 2.4% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Mar) |  | 2.3% | 2.2% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Retail Sales (YoY) (Mar) |  | 1.8% | 2.2% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Feb) |  | -0.6% | 0.2% |
+| 13:30 | CAD | Retail Sales (MoM) (Feb) |  | -0.4% | -0.6% |
+| 13:30 | CAD | Retail Sales (MoM) (Feb) |  |  | -0.6% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 6.7% | 5.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 4.4% | 4.1% |
+| 15:00 | USD | Michigan Consumer Expectations (Apr) |  | 47.2 | 52.6 |
+| 15:00 | USD | Michigan Consumer Sentiment (Apr) |  | 50.8 | 57.0 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 6.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 146.4K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 202.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 31.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -63.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -58.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 49.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 171.9K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 69.3K |
