@@ -9,8 +9,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
@@ -28,12 +28,12 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
-| 53 min | BRL | Low | FGV Consumer confidence (Apr) |  |  | 84.3 |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.24% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) |  | -0.04% | 0.14% |
-| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 12:00 | BRL | Low | FGV Consumer confidence (Apr) | 84.8 |  | 84.3 |
+| 54 min | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.24% |
+| 54 min | MXN | Low | 1st Half-Month CPI (Apr) |  | -0.04% | 0.14% |
+| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | 0.18 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,885K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.7% |

@@ -5,7 +5,7 @@
 | 09:00 | EUR | German Business Expectations (Apr) | 87.4 | 85.0 | 87.7 |
 | 09:00 | EUR | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
 | 09:00 | EUR | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,885K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.7% |
 | 14:00 | EUR | ECB's Lane Speaks |  |  |  |

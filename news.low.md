@@ -9,8 +9,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:35 | JPY | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | GBP | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
+| 05:00 | GBP | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
@@ -25,11 +25,11 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
-| 53 min | BRL | FGV Consumer confidence (Apr) |  |  | 84.3 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.24% |
-| 13:00 | MXN | 1st Half-Month CPI (Apr) |  | -0.04% | 0.14% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
+| 12:00 | BRL | FGV Consumer confidence (Apr) | 84.8 |  | 84.3 |
+| 54 min | MXN | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.24% |
+| 54 min | MXN | 1st Half-Month CPI (Apr) |  | -0.04% | 0.14% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.18 |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Mar) |  | 0.2% | 0.8% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Mar) |  | 0.2% | -0.3% |
