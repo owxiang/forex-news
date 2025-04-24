@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | -0.1% | 0.2% | 1.2% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | -0.1% | 0.2% | 1.2% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 223.7B |  | -511.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 92 | 91 | 92 |
@@ -23,8 +23,8 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction | 5.155% |  | 5.232% |
-| 10:30 | ZAR | Low | PPI (YoY) (Mar) | 0.5% |  | 1.0% |
 | 10:30 | ZAR | Low | PPI (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:30 | ZAR | Low | PPI (YoY) (Mar) | 0.5% |  | 1.0% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
