@@ -11,18 +11,18 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 92 | 91 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) | 4.9% |  | 6.6% |
-| 53 min | EUR | Moderate | German Business Expectations (Apr) |  | 85.0 | 87.7 |
-| 53 min | EUR | Moderate | German Current Assessment (Apr) |  | 85.5 | 85.7 |
-| 53 min | EUR | Moderate | German Ifo Business Climate Index (Apr) |  | 85.1 | 86.7 |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 5.232% |
+| 09:00 | EUR | Moderate | German Business Expectations (Apr) | 87.4 | 85.0 | 87.7 |
+| 09:00 | EUR | Moderate | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
+| 51 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 5.232% |
 | 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.4% |
 | 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 1.0% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -36 | -29 |
