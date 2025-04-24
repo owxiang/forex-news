@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
 | 00:00 | KRW | Low | GDP (YoY) (Q1) | -0.1% | 0.2% | 1.2% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 223.7B |  | -511.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 13 min | JPY | Low | 2-Year JGB Auction |  |  | 0.863% |
-| 38 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
-| 38 min | GBP | Low | Car Registration (MoM) (Mar) |  |  | -39.7% |
-| 38 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
-| 38 min | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.2% |
-| 38 min | EUR | Low | German Car Registration (MoM) (Mar) |  |  | -2.0% |
-| 38 min | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
-| 38 min | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
-| 38 min | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 23.5% |
-| 38 min | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Mar) |  |  | -39.7% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.2% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Mar) |  |  | -2.0% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 23.5% |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 91 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) |  | 85.0 | 87.7 |
