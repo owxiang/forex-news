@@ -13,12 +13,12 @@
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
-| 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 91 | 92 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
+| 36 min | EUR | Low | French Consumer Confidence (Apr) |  | 91 | 92 |
+| 51 min | EUR | Low | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) |  | 85.0 | 87.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) |  | 85.5 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) |  | 85.1 | 86.7 |

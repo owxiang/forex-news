@@ -13,12 +13,12 @@
 | 05:00 | GBP | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
-| 05:00 | EUR | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
+| 05:00 | EUR | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 05:00 | EUR | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
-| 07:45 | EUR | French Consumer Confidence (Apr) |  | 91 | 92 |
-| 08:00 | EUR | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
+| 36 min | EUR | French Consumer Confidence (Apr) |  | 91 | 92 |
+| 51 min | EUR | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 5.232% |
 | 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 1.0% |
 | 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.4% |
