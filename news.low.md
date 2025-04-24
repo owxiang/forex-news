@@ -9,19 +9,19 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:35 | JPY | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | GBP | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
+| 05:00 | GBP | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
-| 05:00 | EUR | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
 | 05:00 | EUR | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
+| 05:00 | EUR | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
 | 05:00 | EUR | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 05:00 | EUR | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
 | 07:45 | EUR | French Consumer Confidence (Apr) | 92 | 91 | 92 |
 | 08:00 | EUR | Spanish PPI (YoY) (Mar) | 4.9% |  | 6.6% |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction | 5.155% |  | 5.232% |
-| 10:30 | ZAR | PPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:30 | ZAR | PPI (YoY) (Mar) | 0.5% |  | 1.0% |
+| 10:30 | ZAR | PPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
@@ -39,4 +39,4 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Apr) | -5 |  | 1 |
 | 16:30 | USD | 4-Week Bill Auction | 4.220% |  | 4.240% |
 | 16:30 | USD | 8-Week Bill Auction | 4.225% |  | 4.235% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.280T |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.280T |

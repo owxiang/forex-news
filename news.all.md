@@ -9,12 +9,12 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
+| 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 92 | 91 | 92 |
@@ -23,8 +23,8 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction | 5.155% |  | 5.232% |
-| 10:30 | ZAR | Low | PPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 10:30 | ZAR | Low | PPI (YoY) (Mar) | 0.5% |  | 1.0% |
+| 10:30 | ZAR | Low | PPI (MoM) (Mar) | 0.6% |  | 0.4% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -52,6 +52,6 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.235% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.123% |  | 4.233% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.5% | -2.2% | -2.2% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.280T |
-| 22:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.280T |
+| 53 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
