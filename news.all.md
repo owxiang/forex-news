@@ -9,22 +9,22 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 92 | 91 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) | 4.9% |  | 6.6% |
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) | 87.4 | 85.0 | 87.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction | 5.155% |  | 5.232% |
-| 10:30 | ZAR | Low | PPI (YoY) (Mar) | 0.5% |  | 1.0% |
 | 10:30 | ZAR | Low | PPI (MoM) (Mar) | 0.6% |  | 0.4% |
+| 10:30 | ZAR | Low | PPI (YoY) (Mar) | 0.5% |  | 1.0% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -45,11 +45,11 @@
 | 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | High | Existing Home Sales (Mar) | 4.02M | 4.14M | 4.27M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -5.9% | -3.0% | 4.4% |
-| 24 min | USD | Low | Natural Gas Storage |  | 69B | 16B |
-| 54 min | USD | Low | KC Fed Composite Index (Apr) |  |  | -2 |
-| 54 min | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | 1 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
+| 15:30 | USD | Low | Natural Gas Storage | 88B | 69B | 16B |
+| 16:00 | USD | Low | KC Fed Composite Index (Apr) | -4 |  | -2 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) | -5 |  | 1 |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.233% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.2% | -2.2% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
