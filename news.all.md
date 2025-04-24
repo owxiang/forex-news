@@ -7,17 +7,16 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 223.7B |  | -511.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
-| 2 min | SGD | Low | URA Property Index (QoQ) (Q1) |  | 0.60% | 2.30% |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Mar) |  |  | -39.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | -1.0% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Mar) |  |  | -39.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) |  |  | -2.0% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 23.5% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | -6.4% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | -0.7% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 23.5% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 91 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
@@ -25,8 +24,8 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) |  | 85.4 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) |  | 85.1 | 86.7 |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 5.232% |
-| 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 1.0% |
 | 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.4% |
+| 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 1.0% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -36 | -29 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
@@ -46,8 +45,8 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 5.47% |
 | 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  | -3.0% | 4.2% |
 | 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.14M | 4.26M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  | -3.0% | 4.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 16B |
 | 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | -2 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | 1 |

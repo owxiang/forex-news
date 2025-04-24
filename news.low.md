@@ -7,23 +7,22 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.2% |
 | 00:50 | JPY | Foreign Bonds Buying | 223.7B |  | -511.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
-| 2 min | SGD | URA Property Index (QoQ) (Q1) |  | 0.60% | 2.30% |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.863% |
-| 05:00 | GBP | Car Registration (MoM) (Mar) |  |  | -39.7% |
 | 05:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
+| 05:00 | GBP | Car Registration (MoM) (Mar) |  |  | -39.7% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Mar) |  |  | 3.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
-| 05:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
 | 05:00 | EUR | German Car Registration (MoM) (Mar) |  |  | -2.0% |
-| 05:00 | EUR | French Car Registration (MoM) (Mar) |  |  | 23.5% |
+| 05:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
 | 05:00 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
+| 05:00 | EUR | French Car Registration (MoM) (Mar) |  |  | 23.5% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 07:45 | EUR | French Consumer Confidence (Apr) |  | 91 | 92 |
 | 08:00 | EUR | Spanish PPI (YoY) (Mar) |  |  | 6.6% |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 5.232% |
-| 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 1.0% |
 | 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.4% |
+| 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 1.0% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -36 | -29 |
 | 11:00 | USD | IMF Meetings |  |  |  |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
