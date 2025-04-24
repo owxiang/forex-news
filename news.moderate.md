@@ -12,5 +12,5 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Mar) | -5.9% | -3.0% | 4.4% |
 | 18:00 | USD | 7-Year Note Auction | 4.123% |  | 4.233% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | -2.5% | -2.2% | -2.2% |
-| 23 min | USD | Fed's Balance Sheet |  |  | 6,727B |
-| 53 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet | 6,727B |  | 6,727B |
+| 22:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
