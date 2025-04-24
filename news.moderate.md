@@ -9,7 +9,7 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,841K | 1,880K | 1,878K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) | 0.0% | 0.3% | 0.7% |
 | 14:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 46 min | USD | Existing Home Sales (MoM) (Mar) |  | -3.0% | 4.2% |
+| 15:00 | USD | Existing Home Sales (MoM) (Mar) | -5.9% | -3.0% | 4.4% |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.233% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | -2.2% | -2.2% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,727B |
