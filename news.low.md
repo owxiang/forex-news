@@ -4,18 +4,18 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | GDP (YoY) (Q1) | -0.1% | 0.2% | 1.2% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
-| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 3.0% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -512.0B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,043.7B |
-| 01:30 | SGD | URA Property Index (QoQ) (Q1) |  | 0.60% | 2.30% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.2% |
+| 00:50 | JPY | Foreign Bonds Buying | 223.7B |  | -511.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
+| 2 min | SGD | URA Property Index (QoQ) (Q1) |  | 0.60% | 2.30% |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.863% |
 | 05:00 | GBP | Car Registration (MoM) (Mar) |  |  | -39.7% |
 | 05:00 | GBP | Car Registration (YoY) (Mar) |  |  | -1.0% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Mar) |  |  | 3.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | -6.2% |
-| 05:00 | EUR | German Car Registration (MoM) (Mar) |  |  | -2.0% |
 | 05:00 | EUR | German Car Registration (YoY) (Mar) |  |  | -6.4% |
+| 05:00 | EUR | German Car Registration (MoM) (Mar) |  |  | -2.0% |
 | 05:00 | EUR | French Car Registration (MoM) (Mar) |  |  | 23.5% |
 | 05:00 | EUR | French Car Registration (YoY) (Mar) |  |  | -0.7% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
