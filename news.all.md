@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | -0.1% | 0.2% | 1.2% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | 0.1% | 0.1% |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | -0.1% | 0.2% | 1.2% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 223.7B |  | -511.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 705.6B |  | 1,044.9B |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Mar) | -14.5% |  | -0.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 92 | 91 | 92 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) | 4.9% |  | 6.6% |
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) | 87.4 | 85.0 | 87.7 |
@@ -28,22 +28,21 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -26 | -36 | -29 |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Apr) | 84.8 |  | 84.3 |
-| 54 min | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.24% |
-| 54 min | MXN | Low | 1st Half-Month CPI (Apr) |  | -0.04% | 0.14% |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | 0.18 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,885K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.7% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Mar) |  | 2.1% | 0.9% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Mar) |  | 0.2% | 0.8% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Mar) |  | 0.2% | -0.3% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 222K | 215K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 5.47% |
-| 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) | 0.34% | 0.20% | 0.24% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) | 0.12% | -0.04% | 0.14% |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 18 min | USD | Low | Chicago Fed National Activity (Mar) |  |  | 0.18 |
+| 18 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,885K |
+| 18 min | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.7% |
+| 18 min | USD | High | Durable Goods Orders (MoM) (Mar) |  | 2.1% | 0.9% |
+| 18 min | USD | Low | Durables Excluding Defense (MoM) (Mar) |  | 0.2% | 0.8% |
+| 18 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Mar) |  | 0.2% | -0.3% |
+| 18 min | USD | High | Initial Jobless Claims |  | 222K | 215K |
+| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
+| 18 min | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 5.47% |
+| 48 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.14M | 4.26M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  | -3.0% | 4.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 69B | 16B |
