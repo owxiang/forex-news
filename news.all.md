@@ -11,8 +11,8 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.691% |  | 0.863% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Mar) | 324.8% |  | -39.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Mar) | 12.4% |  | -1.0% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 24.8% |  | 3.2% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | 6.3% |  | -6.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Mar) | -3.9% |  | -6.4% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Mar) | 24.6% |  | -2.0% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
@@ -43,15 +43,15 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.25K |  | 221.00K |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) | 5.40% |  | 5.59% |
 | 14:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -5.9% | -3.0% | 4.4% |
 | 15:00 | USD | High | Existing Home Sales (Mar) | 4.02M | 4.14M | 4.27M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -5.9% | -3.0% | 4.4% |
 | 15:30 | USD | Low | Natural Gas Storage | 88B | 69B | 16B |
 | 16:00 | USD | Low | KC Fed Composite Index (Apr) | -4 |  | -2 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) | -5 |  | 1 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.220% |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.235% |
-| 52 min | USD | Moderate | 7-Year Note Auction |  |  | 4.233% |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.2% | -2.2% |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 4.123% |  | 4.233% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.5% | -2.2% | -2.2% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.280T |
 | 22:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
