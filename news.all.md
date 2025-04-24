@@ -22,12 +22,12 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) | 87.4 | 85.0 | 87.7 |
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 86.4 | 85.5 | 85.7 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 86.9 | 85.1 | 86.7 |
-| 51 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 5.232% |
-| 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.4% |
-| 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 1.0% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -36 | -29 |
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 5.232% |
+| 23 min | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.4% |
+| 23 min | ZAR | Low | PPI (YoY) (Mar) |  |  | 1.0% |
+| 53 min | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -36 | -29 |
+| 53 min | USD | Low | IMF Meetings |  |  |  |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Apr) |  |  | 84.3 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.24% |

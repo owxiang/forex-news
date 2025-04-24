@@ -19,12 +19,12 @@
 | 05:00 | EUR | French Car Registration (MoM) (Mar) | 8.7% |  | 23.5% |
 | 07:45 | EUR | French Consumer Confidence (Apr) | 92 | 91 | 92 |
 | 08:00 | EUR | Spanish PPI (YoY) (Mar) | 4.9% |  | 6.6% |
-| 51 min | GBP | 20-Year Treasury Gilt Auction |  |  | 5.232% |
-| 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.4% |
-| 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 1.0% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -36 | -29 |
-| 11:00 | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 5.232% |
+| 23 min | ZAR | PPI (MoM) (Mar) |  |  | 0.4% |
+| 23 min | ZAR | PPI (YoY) (Mar) |  |  | 1.0% |
+| 53 min | GBP | CBI Industrial Trends Orders (Apr) |  | -36 | -29 |
+| 53 min | USD | IMF Meetings |  |  |  |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | EUR | Spanish Consumer Confidence (Mar) |  |  | 81.4 |
 | 12:00 | BRL | FGV Consumer confidence (Apr) |  |  | 84.3 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Apr) |  | 0.20% | 0.24% |
