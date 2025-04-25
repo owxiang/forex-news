@@ -7,7 +7,7 @@
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Apr) | 3.4% | 3.2% | 2.4% |
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) |  | 0.60% | 2.30% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  | -0.3% | 0.4% |
@@ -28,8 +28,8 @@
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 5.49% | 5.26% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.6% | 0.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) |  | 0.0% | 0.2% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  | -0.4% | -0.6% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 6.7% | 5.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 4.4% | 4.1% |
