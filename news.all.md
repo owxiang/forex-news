@@ -8,8 +8,8 @@
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -3.6% | 0.6% | -2.9% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -3.6% | 0.6% | -2.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | 0.5% | -0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
@@ -32,8 +32,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 52.2 | 50.8 | 57.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) | 59.8 | 56.5 | 63.8 |
 | 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Feb) | 7.57B |  | -5.13B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Feb) | -19.27B |  | -26.85B |
+| 16:00 | CAD | Low | Budget Balance (Feb) | 7.57B |  | -5.13B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 483 |  | 481 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 587 |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 20.5K |  | 6.5K |
