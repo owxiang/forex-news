@@ -32,8 +32,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 52.2 | 50.8 | 57.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) | 59.8 | 56.5 | 63.8 |
 | 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) | -19.27B |  | -26.85B |
 | 16:00 | CAD | Low | Budget Balance (Feb) | 7.57B |  | -5.13B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) | -19.27B |  | -26.85B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 483 |  | 481 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 587 |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 6.5K |
