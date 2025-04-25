@@ -9,23 +9,23 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
-| 06:00 | JPY | Low | Leading Index (Feb) |  | 107.9 | 108.2 |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  | -0.3% | 0.4% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) |  |  | -7.5% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) |  | 6.9% | -1.3% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
+| 52 min | JPY | Low | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
+| 52 min | JPY | Low | Leading Index (MoM) (Feb) |  | -0.3% | 0.4% |
+| 52 min | JPY | Low | Leading Index (Feb) |  | 107.9 | 108.2 |
+| 52 min | SGD | Low | Industrial Production (YoY) (Mar) |  | 6.9% | -1.3% |
+| 52 min | SGD | Low | Industrial Production (MoM) (Mar) |  |  | -7.5% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  | 2.3% | 2.2% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) |  | 1.8% | 2.2% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | -0.3% | 1.0% |
 | 07:45 | EUR | Low | French Business Survey (Apr) |  | 96 | 96 |
 | 09:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 677.84B |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  | 0.60% | -0.20% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  | -0.60% | -0.10% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 5.49% | 5.26% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  | 0.60% | -0.20% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.43% | 0.64% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 5.49% | 5.26% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.6% | 0.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) |  | 0.0% | 0.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  | -0.4% | -0.6% |
