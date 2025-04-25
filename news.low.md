@@ -7,11 +7,11 @@
 | 00:30 | JPY | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
-| 06:00 | SGD | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 06:00 | SGD | Industrial Production (MoM) (Mar) | -3.6% | 0.6% | -2.9% |
+| 06:00 | SGD | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 07:45 | EUR | French Business Survey (Apr) | 99 | 96 | 96 |
 | 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 53 min | USD | IMF Meetings |  |  |  |
+| 11:00 | USD | IMF Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 11.0% |
 | 12:30 | INR | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD |  |  | 677.84B |

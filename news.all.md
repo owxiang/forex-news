@@ -8,15 +8,15 @@
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -3.6% | 0.6% | -2.9% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | 0.5% | -0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) | 0.4% | -0.3% | 0.7% |
 | 07:45 | EUR | Low | French Business Survey (Apr) | 99 | 96 | 96 |
 | 09:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 53 min | USD | Low | IMF Meetings |  |  |  |
+| 11:00 | USD | Low | IMF Meetings |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 677.84B |
