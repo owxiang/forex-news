@@ -7,8 +7,8 @@
 | 00:30 | JPY | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
-| 06:00 | SGD | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 06:00 | SGD | Industrial Production (MoM) (Mar) | -3.6% | 0.6% | -2.9% |
+| 06:00 | SGD | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 07:45 | EUR | French Business Survey (Apr) | 99 | 96 | 96 |
 | 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 11:00 | USD | IMF Meetings |  |  |  |
@@ -18,10 +18,9 @@
 | 13:00 | BRL | Mid-Month CPI (MoM) (Apr) | 0.43% | 0.43% | 0.64% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Apr) | 5.49% | 5.49% | 5.26% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Mar) | -1.9% | 0.0% | 0.2% |
-| 17 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 47 min | USD | Michigan Current Conditions (Apr) |  | 56.5 | 63.8 |
-| 16:00 | CAD | Budget Balance (Feb) |  |  | -5.13B |
-| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -26.85B |
+| 15:00 | USD | Michigan Current Conditions (Apr) | 59.8 | 56.5 | 63.8 |
+| 53 min | CAD | Budget Balance (Feb) |  |  | -5.13B |
+| 53 min | CAD | Budget Balance (YoY) (Feb) |  |  | -26.85B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 234.2K |

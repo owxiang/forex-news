@@ -8,10 +8,10 @@
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -3.6% | 0.6% | -2.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | 0.5% | -0.4% | 0.7% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) | 0.4% | -0.3% | 0.7% |
 | 07:45 | EUR | Low | French Business Survey (Apr) | 99 | 96 | 96 |
@@ -26,15 +26,14 @@
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) | -1.9% | 0.0% | 0.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | -0.4% | -0.4% | -0.6% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Mar) | 0.7% |  | -0.4% |
-| 17 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 47 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 6.7% | 5.0% |
-| 47 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 4.4% | 4.1% |
-| 47 min | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 47.2 | 52.6 |
-| 47 min | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 50.8 | 57.0 |
-| 47 min | USD | Low | Michigan Current Conditions (Apr) |  | 56.5 | 63.8 |
-| 47 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -5.13B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -26.85B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) | 6.5% | 6.7% | 5.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) | 4.4% | 4.4% | 4.1% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) | 47.3 | 47.2 | 52.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 52.2 | 50.8 | 57.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Apr) | 59.8 | 56.5 | 63.8 |
+| 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 53 min | CAD | Low | Budget Balance (Feb) |  |  | -5.13B |
+| 53 min | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -26.85B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 6.5K |

@@ -3,18 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Apr) | 3.4% | 3.2% | 2.4% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Mar) | 0.5% | -0.4% | 0.7% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
 | 07:00 | GBP | Retail Sales (MoM) (Mar) | 0.4% | -0.3% | 0.7% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Feb) | 0.5% | -0.1% | 0.1% |
 | 13:30 | CAD | Retail Sales (MoM) (Feb) | -0.4% | -0.4% | -0.6% |
 | 13:31 | CAD | Retail Sales (MoM) (Mar) | 0.7% |  | -0.4% |
-| 47 min | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 6.7% | 5.0% |
-| 47 min | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 4.4% | 4.1% |
-| 47 min | USD | Michigan Consumer Expectations (Apr) |  | 47.2 | 52.6 |
-| 47 min | USD | Michigan Consumer Sentiment (Apr) |  | 50.8 | 57.0 |
-| 47 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) | 6.5% | 6.7% | 5.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) | 4.4% | 4.4% | 4.1% |
+| 15:00 | USD | Michigan Consumer Expectations (Apr) | 47.3 | 47.2 | 52.6 |
+| 15:00 | USD | Michigan Consumer Sentiment (Apr) | 52.2 | 50.8 | 57.0 |
+| 15:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 6.5K |
