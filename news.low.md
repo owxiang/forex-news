@@ -7,12 +7,12 @@
 | 00:30 | JPY | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
+| 25 min | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
 | 06:00 | JPY | Leading Index (MoM) (Feb) |  | -0.3% | 0.4% |
 | 06:00 | JPY | Leading Index (Feb) |  | 107.9 | 108.2 |
-| 06:00 | SGD | Industrial Production (YoY) (Mar) |  | 6.9% | -1.3% |
 | 06:00 | SGD | Industrial Production (MoM) (Mar) |  |  | -7.5% |
+| 06:00 | SGD | Industrial Production (YoY) (Mar) |  | 6.9% | -1.3% |
 | 07:45 | EUR | French Business Survey (Apr) |  | 96 | 96 |
 | 09:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 11:00 | USD | IMF Meetings |  |  |  |
