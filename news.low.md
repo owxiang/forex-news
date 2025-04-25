@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Apr) | -23 | -21 | -19 |
-| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Apr) |  |  | 1.1% |
-| 24 min | JPY | Tokyo CPI (YoY) (Apr) |  |  | 2.9% |
-| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) |  |  | 0.4% |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Apr) | 2.0% |  | 1.1% |
+| 00:30 | JPY | Tokyo CPI (YoY) (Apr) | 3.5% |  | 2.9% |
+| 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) | 0.7% |  | 0.4% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) |  | 0.60% | 2.30% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.70% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
@@ -24,8 +24,8 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | 0.0% | 0.2% |
 | 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | Michigan Current Conditions (Apr) |  | 56.5 | 63.8 |
-| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -26.85B |
 | 16:00 | CAD | Budget Balance (Feb) |  |  | -5.13B |
+| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -26.85B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 234.2K |
