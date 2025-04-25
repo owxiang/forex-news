@@ -10,20 +10,20 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 0.80% | 0.60% | 2.30% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -3.6% | 0.6% | -2.9% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | 5.8% | 8.1% | 0.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | 0.5% | -0.4% | 0.7% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) | 0.4% | -0.3% | 0.7% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
 | 07:45 | EUR | Low | French Business Survey (Apr) | 99 | 96 | 96 |
 | 09:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 11:00 | USD | Low | IMF Meetings |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 677.84B |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  | -0.80% | -0.10% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  | 0.60% | -0.20% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.43% | 0.64% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 5.49% | 5.26% |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
+| 24 min | INR | Low | Deposit Growth |  |  | 10.1% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 677.84B |
+| 54 min | MXN | Low | Economic Activity (MoM) (Feb) |  | 0.60% | -0.20% |
+| 54 min | MXN | Low | Economic Activity (YoY) (Feb) |  | -0.80% | -0.10% |
+| 54 min | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 5.49% | 5.26% |
+| 54 min | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.43% | 0.64% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.1% | 0.2% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) |  | 0.0% | 0.2% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) |  | -0.4% | -0.6% |
@@ -35,8 +35,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 50.8 | 57.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) |  | 56.5 | 63.8 |
 | 15:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -26.85B |
 | 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -5.13B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -26.85B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 481 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 6.5K |
