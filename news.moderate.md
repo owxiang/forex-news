@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Apr) | 3.4% | 3.2% | 2.4% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Mar) | 0.5% | -0.4% | 0.7% |
-| 07:00 | GBP | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Mar) | 3.3% | 2.2% | 1.8% |
 | 07:00 | GBP | Retail Sales (MoM) (Mar) | 0.4% | -0.3% | 0.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Mar) | 2.6% | 1.8% | 2.2% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Feb) | 0.5% | -0.1% | 0.1% |
 | 13:30 | CAD | Retail Sales (MoM) (Feb) | -0.4% | -0.4% | -0.6% |
 | 13:31 | CAD | Retail Sales (MoM) (Mar) | 0.7% |  | -0.4% |
