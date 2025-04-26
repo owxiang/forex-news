@@ -1,5 +1,5 @@
-## 26 April 2025 - All Forex News
+## 27 April 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11:00 | USD | Low | IMF Meetings |  |  |  |
+| 02:30 | CNY | Low | Chinese Industrial profit YTD (Mar) |  |  | -0.3% |
