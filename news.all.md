@@ -23,12 +23,12 @@
 | 13:00 | MXN | Low | Trade Balance (USD) (Mar) | 1.035B |  | 1.724B |
 | 13:00 | MXN | Low | Unemployment Rate (Mar) | 2.60% |  | 2.70% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) | 2.20% | 2.40% | 2.50% |
-| 19 min | CAD | Moderate | Wholesale Sales (MoM) (Mar) |  |  | 0.3% |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.893% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.121% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
-| 49 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) | -0.3% |  | 0.3% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.905% |  | 1.893% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.128% |  | 2.121% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.015% |  | 2.027% |
+| 14:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 9 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -16.3 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.050% |

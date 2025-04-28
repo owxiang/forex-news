@@ -4,6 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 11:00 | EUR | France Jobseekers Total (Mar) | 3,189.0K |  | 3,218.0K |
 | 13:00 | CAD | Canadian Federal Election |  |  |  |
-| 19 min | CAD | Wholesale Sales (MoM) (Mar) |  |  | 0.3% |
-| 49 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:30 | CAD | Wholesale Sales (MoM) (Mar) | -0.3% |  | 0.3% |
+| 14:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |

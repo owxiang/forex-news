@@ -21,10 +21,10 @@
 | 13:00 | MXN | Trade Balance (USD) (Mar) | 1.035B |  | 1.724B |
 | 13:00 | MXN | Unemployment Rate (Mar) | 2.60% |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Mar) | 2.20% | 2.40% | 2.50% |
-| 49 min | EUR | French 12-Month BTF Auction |  |  | 1.893% |
-| 49 min | EUR | French 3-Month BTF Auction |  |  | 2.121% |
-| 49 min | EUR | French 6-Month BTF Auction |  |  | 2.027% |
-| 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.905% |  | 1.893% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.128% |  | 2.121% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.027% |
+| 9 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Apr) |  |  | -16.3 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.050% |
