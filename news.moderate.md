@@ -6,4 +6,4 @@
 | 13:00 | CAD | Canadian Federal Election |  |  |  |
 | 13:30 | CAD | Wholesale Sales (MoM) (Mar) | -0.3% |  | 0.3% |
 | 14:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 53 min | EUR | German Buba Mauderer Speaks |  |  |  |
