@@ -10,16 +10,16 @@
 | 09:30 | HKD | Low | Imports (MoM) (Mar) | 16.6% |  | 11.8% |
 | 09:30 | HKD | Low | Trade Balance (Mar) | -45.4B |  | -36.3B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.069% |  | 2.268% |
-| 14 min | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -21 | -41 |
-| 14 min | EUR | Moderate | France Jobseekers Total (Mar) |  |  | 3,229.0K |
-| 44 min | INR | Low | Cumulative Industrial Production (Mar) |  |  | 4.10% |
-| 44 min | INR | Low | Industrial Production (YoY) (Mar) |  | 3.3% | 2.9% |
-| 44 min | INR | Low | Manufacturing Output (MoM) (Mar) |  |  | 2.9% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
-| 12:30 | BRL | Low | Current Account (USD) (Mar) |  | -2.95B | -8.76B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 8.53B | 9.30B |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) | -8 | -21 | -41 |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 3,189.0K |  | 3,218.0K |
+| 11:30 | INR | Low | Cumulative Industrial Production (Mar) | 4.00% |  | 4.10% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 3.0% | 3.3% | 2.9% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 3.0% |  | 2.9% |
+| 45 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 50 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
+| 50 min | INR | Low | Deposit Growth |  |  | 10.1% |
+| 50 min | BRL | Low | Current Account (USD) (Mar) |  | -2.95B | -8.76B |
+| 50 min | BRL | Low | Foreign direct investment (USD) (Mar) |  | 8.53B | 9.30B |
 | 13:00 | CAD | Moderate | Canadian Federal Election |  |  |  |
 | 13:00 | MXN | Low | Trade Balance (Mar) |  | 2.600B | 2.212B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Mar) |  |  | 1.269B |

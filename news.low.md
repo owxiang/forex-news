@@ -10,15 +10,15 @@
 | 09:30 | HKD | Imports (MoM) (Mar) | 16.6% |  | 11.8% |
 | 09:30 | HKD | Trade Balance (Mar) | -45.4B |  | -36.3B |
 | 10:10 | EUR | Italian 6-Month BOT Auction | 2.069% |  | 2.268% |
-| 14 min | GBP | CBI Distributive Trades Survey (Apr) |  | -21 | -41 |
-| 44 min | INR | Cumulative Industrial Production (Mar) |  |  | 4.10% |
-| 44 min | INR | Industrial Production (YoY) (Mar) |  | 3.3% | 2.9% |
-| 44 min | INR | Manufacturing Output (MoM) (Mar) |  |  | 2.9% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Bank Loan Growth |  |  | 11.0% |
-| 12:30 | INR | Deposit Growth |  |  | 10.1% |
-| 12:30 | BRL | Current Account (USD) (Mar) |  | -2.95B | -8.76B |
-| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  | 8.53B | 9.30B |
+| 11:00 | GBP | CBI Distributive Trades Survey (Apr) | -8 | -21 | -41 |
+| 11:30 | INR | Cumulative Industrial Production (Mar) | 4.00% |  | 4.10% |
+| 11:30 | INR | Industrial Production (YoY) (Mar) | 3.0% | 3.3% | 2.9% |
+| 11:30 | INR | Manufacturing Output (MoM) (Mar) | 3.0% |  | 2.9% |
+| 45 min | BRL | BCB Focus Market Readout |  |  |  |
+| 50 min | INR | Bank Loan Growth |  |  | 11.0% |
+| 50 min | INR | Deposit Growth |  |  | 10.1% |
+| 50 min | BRL | Current Account (USD) (Mar) |  | -2.95B | -8.76B |
+| 50 min | BRL | Foreign direct investment (USD) (Mar) |  | 8.53B | 9.30B |
 | 13:00 | MXN | Trade Balance (Mar) |  | 2.600B | 2.212B |
 | 13:00 | MXN | Trade Balance (USD) (Mar) |  |  | 1.269B |
 | 13:00 | MXN | Unemployment Rate (Mar) |  |  | 2.70% |
