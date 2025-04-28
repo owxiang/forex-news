@@ -2,6 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 03:30 | SGD | Low | Unemployment Rate (Q1) | 2.1% |  | 1.9% |
 | 07:00 | NOK | Low | Unemployment Rate (Mar) |  |  | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) |  |  | 3.6% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) |  | 10.70% | 10.61% |
