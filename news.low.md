@@ -3,11 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:30 | SGD | Unemployment Rate (Q1) | 2.1% |  | 1.9% |
-| 07:00 | NOK | Unemployment Rate (Mar) |  |  | 3.8% |
+| 51 min | NOK | Unemployment Rate (Mar) |  |  | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 3.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q1) |  | 10.70% | 10.61% |
 | 09:30 | HKD | Exports (MoM) (Mar) |  |  | 15.4% |
 | 09:30 | HKD | Imports (MoM) (Mar) |  |  | 11.8% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 2.120% |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.268% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -21 | -41 |
 | 11:30 | INR | Cumulative Industrial Production (Mar) |  |  | 4.10% |
