@@ -15,23 +15,21 @@
 | 11:30 | INR | Low | Cumulative Industrial Production (Mar) | 4.00% |  | 4.10% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 3.0% | 3.3% | 2.7% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 3.0% |  | 2.8% |
-| 3 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 8 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
-| 8 min | INR | Low | Deposit Growth |  |  | 10.1% |
-| 38 min | CAD | Moderate | Canadian Federal Election |  |  |  |
-| 38 min | MXN | Low | Trade Balance (Mar) |  | 2.600B | 2.212B |
-| 38 min | MXN | Low | Trade Balance (USD) (Mar) |  |  | 1.269B |
-| 38 min | MXN | Low | Unemployment Rate (Mar) |  |  | 2.70% |
-| 38 min | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.40% | 2.50% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) |  |  | 0.3% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.893% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.121% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
-| 14:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | BRL | Low | Current Account (USD) (Mar) | -2.25B | -2.95B | -8.76B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) | 5.99B | 8.53B | 9.30B |
+| 13:00 | CAD | Moderate | Canadian Federal Election |  |  |  |
+| 13:00 | MXN | Low | Trade Balance (Mar) | 3.442B | 2.600B | 2.212B |
+| 13:00 | MXN | Low | Trade Balance (USD) (Mar) | 1.035B |  | 1.724B |
+| 13:00 | MXN | Low | Unemployment Rate (Mar) | 2.60% |  | 2.70% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) | 2.20% | 2.40% | 2.50% |
+| 19 min | CAD | Moderate | Wholesale Sales (MoM) (Mar) |  |  | 0.3% |
+| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.893% |
+| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.121% |
+| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.027% |
+| 49 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -16.3 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.050% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 17:30 | BRL | Low | Current Account (USD) (Mar) |  | -2.95B | -8.76B |
-| 17:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 8.53B | 9.30B |
