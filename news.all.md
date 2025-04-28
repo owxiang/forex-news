@@ -13,18 +13,16 @@
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) | -8 | -21 | -41 |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 3,189.0K |  | 3,218.0K |
 | 11:30 | INR | Low | Cumulative Industrial Production (Mar) | 4.00% |  | 4.10% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 3.0% | 3.3% | 2.9% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 3.0% |  | 2.9% |
-| 45 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 50 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
-| 50 min | INR | Low | Deposit Growth |  |  | 10.1% |
-| 50 min | BRL | Low | Current Account (USD) (Mar) |  | -2.95B | -8.76B |
-| 50 min | BRL | Low | Foreign direct investment (USD) (Mar) |  | 8.53B | 9.30B |
-| 13:00 | CAD | Moderate | Canadian Federal Election |  |  |  |
-| 13:00 | MXN | Low | Trade Balance (Mar) |  | 2.600B | 2.212B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Mar) |  |  | 1.269B |
-| 13:00 | MXN | Low | Unemployment Rate (Mar) |  |  | 2.70% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.40% | 2.50% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Mar) | 3.0% | 3.3% | 2.7% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) | 3.0% |  | 2.8% |
+| 3 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 8 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
+| 8 min | INR | Low | Deposit Growth |  |  | 10.1% |
+| 38 min | CAD | Moderate | Canadian Federal Election |  |  |  |
+| 38 min | MXN | Low | Trade Balance (Mar) |  | 2.600B | 2.212B |
+| 38 min | MXN | Low | Trade Balance (USD) (Mar) |  |  | 1.269B |
+| 38 min | MXN | Low | Unemployment Rate (Mar) |  |  | 2.70% |
+| 38 min | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.40% | 2.50% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) |  |  | 0.3% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.893% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.121% |
@@ -35,3 +33,5 @@
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.050% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 17:30 | BRL | Low | Current Account (USD) (Mar) |  | -2.95B | -8.76B |
+| 17:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 8.53B | 9.30B |
