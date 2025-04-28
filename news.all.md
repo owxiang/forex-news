@@ -6,15 +6,15 @@
 | 07:00 | NOK | Low | Unemployment Rate (Mar) | 4.4% |  | 3.8% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) | 3.6% |  | 3.6% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) | 11.36% | 10.70% | 10.61% |
-| 7 min | HKD | Low | Exports (MoM) (Mar) |  |  | 15.4% |
-| 7 min | HKD | Low | Imports (MoM) (Mar) |  |  | 11.8% |
-| 47 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.120% |
-| 47 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.268% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -21 | -41 |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Mar) |  |  | 3,229.0K |
-| 11:30 | INR | Low | Cumulative Industrial Production (Mar) |  |  | 4.10% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Mar) |  | 3.3% | 2.9% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Mar) |  |  | 2.9% |
+| 09:30 | HKD | Low | Exports (MoM) (Mar) | 18.5% |  | 15.4% |
+| 09:30 | HKD | Low | Imports (MoM) (Mar) | 16.6% |  | 11.8% |
+| 09:30 | HKD | Low | Trade Balance (Mar) | -45.4B |  | -36.3B |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction | 2.069% |  | 2.268% |
+| 14 min | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -21 | -41 |
+| 14 min | EUR | Moderate | France Jobseekers Total (Mar) |  |  | 3,229.0K |
+| 44 min | INR | Low | Cumulative Industrial Production (Mar) |  |  | 4.10% |
+| 44 min | INR | Low | Industrial Production (YoY) (Mar) |  | 3.3% | 2.9% |
+| 44 min | INR | Low | Manufacturing Output (MoM) (Mar) |  |  | 2.9% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | EUR | France Jobseekers Total (Mar) |  |  | 3,229.0K |
+| 14 min | EUR | France Jobseekers Total (Mar) |  |  | 3,229.0K |
 | 13:00 | CAD | Canadian Federal Election |  |  |  |
 | 13:30 | CAD | Wholesale Sales (MoM) (Mar) |  |  | 0.3% |
 | 14:00 | EUR | ECB's De Guindos Speaks |  |  |  |

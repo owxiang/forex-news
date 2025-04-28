@@ -6,14 +6,14 @@
 | 07:00 | NOK | Unemployment Rate (Mar) | 4.4% |  | 3.8% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) | 3.6% |  | 3.6% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q1) | 11.36% | 10.70% | 10.61% |
-| 7 min | HKD | Exports (MoM) (Mar) |  |  | 15.4% |
-| 7 min | HKD | Imports (MoM) (Mar) |  |  | 11.8% |
-| 47 min | EUR | Italian 12-Month BOT Auction |  |  | 2.120% |
-| 47 min | EUR | Italian 6-Month BOT Auction |  |  | 2.268% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -21 | -41 |
-| 11:30 | INR | Cumulative Industrial Production (Mar) |  |  | 4.10% |
-| 11:30 | INR | Industrial Production (YoY) (Mar) |  | 3.3% | 2.9% |
-| 11:30 | INR | Manufacturing Output (MoM) (Mar) |  |  | 2.9% |
+| 09:30 | HKD | Exports (MoM) (Mar) | 18.5% |  | 15.4% |
+| 09:30 | HKD | Imports (MoM) (Mar) | 16.6% |  | 11.8% |
+| 09:30 | HKD | Trade Balance (Mar) | -45.4B |  | -36.3B |
+| 10:10 | EUR | Italian 6-Month BOT Auction | 2.069% |  | 2.268% |
+| 14 min | GBP | CBI Distributive Trades Survey (Apr) |  | -21 | -41 |
+| 44 min | INR | Cumulative Industrial Production (Mar) |  |  | 4.10% |
+| 44 min | INR | Industrial Production (YoY) (Mar) |  | 3.3% | 2.9% |
+| 44 min | INR | Manufacturing Output (MoM) (Mar) |  |  | 2.9% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 11.0% |
 | 12:30 | INR | Deposit Growth |  |  | 10.1% |
