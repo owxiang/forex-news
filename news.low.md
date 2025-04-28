@@ -24,7 +24,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.905% |  | 1.893% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.128% |  | 2.121% |
 | 14:00 | EUR | French 6-Month BTF Auction | 2.015% |  | 2.027% |
-| 9 min | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Apr) |  |  | -16.3 |
+| 22 min | USD | Dallas Fed Mfg Business Index (Apr) |  |  | -16.3 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.050% |

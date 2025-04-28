@@ -28,8 +28,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.128% |  | 2.121% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.015% |  | 2.027% |
 | 14:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 9 min | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -16.3 |
+| 22 min | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -16.3 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.050% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
