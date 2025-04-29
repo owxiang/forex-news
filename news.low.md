@@ -15,8 +15,8 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 3.6% | 4.0% | 4.0% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Mar) | 1.7% | 1.6% | 1.5% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.50% |  | 1.80% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.70% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.50% |  | 1.80% |
 | 10:00 | EUR | Business and Consumer Survey (Apr) | 93.6 | 94.5 | 95.0 |
 | 10:00 | EUR | Business Climate (Apr) | -0.67 |  | -0.72 |
 | 10:00 | EUR | Consumer Confidence (Apr) | -16.7 | -16.7 | -14.5 |
@@ -35,4 +35,3 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.4% |  | 0.4% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) | 3.8 |  | 1.3 |
 | 15:30 | USD | Texas Services Sector Outlook (Apr) | -19.4 |  | -11.3 |
-| 24 min | BRL | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |

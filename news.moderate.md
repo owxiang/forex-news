@@ -12,7 +12,7 @@
 | 10:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 13:30 | USD | Goods Trade Balance (Mar) | -161.99B | -142.80B | -147.85B |
 | 13:30 | USD | Retail Inventories Ex Auto (Mar) | 0.4% |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.7% |  | 0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 4.5% | 4.6% | 4.7% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.7% |  | 0.1% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | -2.7% | -2.5% | -2.5% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.390M | -4.565M |
