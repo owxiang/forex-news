@@ -10,9 +10,9 @@
 | 10:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 10:20 | EUR | Italian 10-Year BTP Auction | 3.62% |  | 3.34% |
 | 10:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 13:30 | USD | Goods Trade Balance (Mar) |  | -142.80B | -147.85B |
-| 13:30 | USD | Retail Inventories Ex Auto (Mar) |  |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
+| 18 min | USD | Goods Trade Balance (Mar) |  | -142.80B | -147.85B |
+| 18 min | USD | Retail Inventories Ex Auto (Mar) |  |  | 0.1% |
+| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
+| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | -2.5% | -2.5% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 0.390M | -4.565M |
