@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:05 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 53 min | EUR | GfK German Consumer Climate (May) |  | -25.6 | -24.5 |
-| 08:00 | EUR | Spanish CPI (YoY) (Apr) |  | 2.0% | 2.3% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.8% |
-| 08:00 | EUR | Spanish HICP (YoY) (Apr) |  |  | 2.2% |
+| 07:00 | EUR | GfK German Consumer Climate (May) | -20.6 | -25.6 | -24.3 |
+| 51 min | EUR | Spanish CPI (YoY) (Apr) |  | 2.0% | 2.3% |
+| 51 min | EUR | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.8% |
+| 51 min | EUR | Spanish HICP (YoY) (Apr) |  |  | 2.2% |
 | 10:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.34% |
 | 10:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
