@@ -8,16 +8,16 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) | 0.6% |  | -0.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) | 2.4% |  | 2.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.6% |  | 0.1% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.4% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% |  | 0.7% |
-| 53 min | EUR | Italian Business Confidence (Apr) |  |  | 86.0 |
-| 53 min | EUR | Italian Consumer Confidence (Apr) |  | 94.0 | 95.0 |
-| 53 min | EUR | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
-| 53 min | EUR | M3 Money Supply (Mar) |  |  | 16,858.7B |
-| 53 min | EUR | Loans to Non Financial Corporations (Mar) |  |  | 2.2% |
-| 53 min | EUR | Private Sector Loans (YoY) (Mar) |  | 1.6% | 1.5% |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | 3.80% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
+| 09:00 | EUR | Italian Business Confidence (Apr) | 85.7 |  | 86.0 |
+| 09:00 | EUR | Italian Consumer Confidence (Apr) | 92.7 | 94.0 | 95.0 |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.80% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.50% |  | 1.70% |
+| 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 3.6% | 4.0% | 4.0% |
+| 09:00 | EUR | M3 Money Supply (Mar) |  |  | 16,858.7B |
+| 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 2.3% |  | 2.2% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Mar) | 1.7% | 1.6% | 1.5% |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.05% |
 | 11:00 | EUR | Business and Consumer Survey (Apr) |  | 94.5 | 95.2 |
 | 11:00 | EUR | Business Climate (Apr) |  |  | -0.73 |
