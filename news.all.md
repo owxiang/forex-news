@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.1% | -0.2% | -0.4% |
 | 03:05 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 03:30 | SGD | Low | Unemployment Rate (Q1) |  |  | 1.9% |
-| 38 min | IDR | Low | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
+| 03:30 | SGD | Low | Unemployment Rate (Q1) | 2.1% |  | 1.9% |
+| 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) |  | -25.6 | -24.5 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | -0.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  |  | 2.0% |
@@ -19,8 +19,8 @@
 | 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  |  | 95.0 |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) |  | 1.6% | 1.5% |
 | 10:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | 3.80% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | 3.80% |
 | 10:00 | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
 | 10:00 | EUR | Low | M3 Money Supply (Mar) |  |  | 16,858.7B |
 | 10:00 | EUR | Low | Loans to Non Financial Corporations (Mar) |  |  | 2.2% |
