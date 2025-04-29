@@ -7,9 +7,9 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Apr) | 2.2% | 2.0% | 2.3% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
 | 08:00 | EUR | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
-| 51 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.34% |
-| 10:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 10:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 3 min | EUR | Italian 10-Year BTP Auction |  |  | 3.34% |
+| 33 min | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 13:30 | USD | Goods Trade Balance (Mar) |  | -142.80B | -147.85B |
 | 13:30 | USD | Retail Inventories Ex Auto (Mar) |  |  | 0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |

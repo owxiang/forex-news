@@ -12,20 +12,20 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% |  | 0.7% |
 | 09:00 | EUR | Italian Business Confidence (Apr) | 85.7 |  | 86.0 |
 | 09:00 | EUR | Italian Consumer Confidence (Apr) | 92.7 | 94.0 | 95.0 |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.80% |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.50% |  | 1.70% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 3.6% | 4.0% | 4.0% |
-| 09:00 | EUR | M3 Money Supply (Mar) |  |  | 16,858.7B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Mar) | 1.7% | 1.6% | 1.5% |
-| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.05% |
-| 11:00 | EUR | Business and Consumer Survey (Apr) |  | 94.5 | 95.2 |
-| 11:00 | EUR | Business Climate (Apr) |  |  | -0.73 |
-| 11:00 | EUR | Consumer Confidence (Apr) |  | -16.7 | -14.5 |
-| 11:00 | EUR | Consumer Inflation Expectation (Apr) |  |  | 24.4 |
-| 11:00 | EUR | Selling Price Expectations (Apr) |  |  | 11.4 |
-| 11:00 | EUR | Services Sentiment (Apr) |  | 2.2 | 2.4 |
-| 11:00 | EUR | Industrial Sentiment (Apr) |  | -10.1 | -10.6 |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.70% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.50% |  | 1.80% |
+| 10:00 | EUR | Business and Consumer Survey (Apr) | 93.6 | 94.5 | 95.0 |
+| 10:00 | EUR | Consumer Confidence (Apr) | -16.7 | -16.7 | -14.5 |
+| 10:00 | EUR | Consumer Inflation Expectation (Apr) | 29.6 |  | 24.5 |
+| 10:00 | EUR | Selling Price Expectations (Apr) | 11.0 |  | 11.3 |
+| 10:00 | EUR | Services Sentiment (Apr) | 1.4 | 2.2 | 2.2 |
+| 10:00 | EUR | Industrial Sentiment (Apr) | -11.2 | -10.1 | -10.7 |
+| 10:00 | EUR | M3 Money Supply (Mar) | 16,845.5B |  | 16,858.7B |
+| 3 min | EUR | Italian 5-Year BTP Auction |  |  | 3.05% |
+| 53 min | EUR | Business Climate (Apr) |  |  | -0.73 |
 | 12:00 | EUR | Spanish Business Confidence (Apr) |  |  | -5.4 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) |  | -0.09% | -0.34% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Mar) |  | 0.6% | 0.3% |
