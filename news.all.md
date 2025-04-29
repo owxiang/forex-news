@@ -11,8 +11,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.4% |  | 2.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 2.2% | 2.0% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.6% |  | 0.1% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.3% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) | 85.7 |  | 86.0 |
@@ -21,21 +21,21 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Mar) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) | 1.7% | 1.6% | 1.5% |
 | 10:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.70% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) | -1.50% |  | 1.80% |
+| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.70% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Apr) | 93.6 | 94.5 | 95.0 |
+| 10:00 | EUR | Low | Business Climate (Apr) | -0.67 |  | -0.72 |
 | 10:00 | EUR | Low | Consumer Confidence (Apr) | -16.7 | -16.7 | -14.5 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Apr) | 29.6 |  | 24.5 |
 | 10:00 | EUR | Low | Selling Price Expectations (Apr) | 11.0 |  | 11.3 |
 | 10:00 | EUR | Low | Services Sentiment (Apr) | 1.4 | 2.2 | 2.2 |
 | 10:00 | EUR | Low | Industrial Sentiment (Apr) | -11.2 | -10.1 | -10.7 |
 | 10:00 | EUR | Low | M3 Money Supply (Mar) | 16,845.5B |  | 16,858.7B |
-| 3 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.34% |
-| 3 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.05% |
-| 33 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 53 min | EUR | Low | Business Climate (Apr) |  |  | -0.73 |
-| 12:00 | EUR | Low | Spanish Business Confidence (Apr) |  |  | -5.4 |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) |  | -0.09% | -0.34% |
+| 10:20 | EUR | Moderate | Italian 10-Year BTP Auction | 3.62% |  | 3.34% |
+| 10:20 | EUR | Low | Italian 5-Year BTP Auction | 2.74% |  | 3.05% |
+| 10:40 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 53 min | EUR | Low | Spanish Business Confidence (Apr) |  |  | -5.4 |
+| 53 min | BRL | Low | IGP-M Inflation Index (MoM) (Apr) |  | -0.09% | -0.34% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Mar) |  | -142.80B | -147.85B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  |  | 0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.6% | 0.3% |
@@ -44,8 +44,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
 | 14:00 | USD | Low | House Price Index (Feb) |  |  | 436.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 87.7 | 92.9 |
 | 15:00 | USD | High | JOLTS Job Openings (Mar) |  | 7.490M | 7.568M |
