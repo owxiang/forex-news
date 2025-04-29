@@ -11,8 +11,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.4% |  | 2.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 2.2% | 2.0% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.6% |  | 0.1% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.3% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) | 85.7 |  | 86.0 |
@@ -47,8 +47,8 @@
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 4.5% | 4.6% | 4.7% |
 | 15:00 | USD | High | CB Consumer Confidence (Apr) | 86.0 | 87.7 | 93.9 |
 | 15:00 | USD | High | JOLTS Job Openings (Mar) | 7.192M | 7.490M | 7.480M |
-| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.5% | -2.5% |
-| 23 min | USD | Low | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
-| 23 min | USD | Low | Texas Services Sector Outlook (Apr) |  |  | -11.3 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.7% | -2.5% | -2.5% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) | 3.8 |  | 1.3 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Apr) | -19.4 |  | -11.3 |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.390M | -4.565M |
