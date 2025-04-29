@@ -1,18 +1,41 @@
-## 29 April 2025 - Moderate Impact Forex News
+## 30 April 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:05 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (May) | -20.6 | -25.6 | -24.3 |
-| 08:00 | EUR | Spanish CPI (YoY) (Apr) | 2.2% | 2.0% | 2.3% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
-| 08:00 | EUR | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
-| 10:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 10:20 | EUR | Italian 10-Year BTP Auction | 3.62% |  | 3.34% |
-| 10:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 13:30 | USD | Goods Trade Balance (Mar) | -161.99B | -142.80B | -147.85B |
-| 13:30 | USD | Retail Inventories Ex Auto (Mar) | 0.4% |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.7% |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 4.5% | 4.6% | 4.7% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q1) | -2.7% | -2.5% | -2.5% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 3.760M | 0.390M | -4.565M |
+| 44 min | JPY | Industrial Production (MoM) (Mar) |  | -0.5% | 2.3% |
+| 02:30 | AUD | CPI (QoQ) (Q1) |  | 0.8% | 0.2% |
+| 02:30 | AUD | CPI (YoY) (Q1) |  | 2.3% | 2.4% |
+| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
+| 02:30 | CNY | Chinese Composite PMI (Apr) |  |  | 51.4 |
+| 02:30 | CNY | Non-Manufacturing PMI (Apr) |  | 50.6 | 50.8 |
+| 02:45 | CNY | Caixin Manufacturing PMI (Apr) |  | 49.8 | 51.2 |
+| 06:30 | EUR | French Consumer Spending (MoM) (Mar) |  | 0.0% | -0.1% |
+| 06:30 | EUR | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 06:30 | EUR | French GDP (YoY) (Q1) |  | 0.7% | 0.6% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Apr) |  | 4.1% | 3.9% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Apr) |  | -0.1% | 0.0% |
+| 07:00 | EUR | German Retail Sales (MoM) (Mar) |  | -0.4% | 0.8% |
+| 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.4% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Apr) |  | 0.3% | 0.2% |
+| 08:00 | CHF | KOF Leading Indicators (Apr) |  | 101.8 | 103.9 |
+| 08:55 | EUR | German Unemployment Change (Apr) |  | 16K | 26K |
+| 08:55 | EUR | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
+| 09:00 | EUR | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 1.0% | 1.2% |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 76.2% |
+| 13:00 | MXN | GDP (QoQ) (Q1) |  |  | -0.6% |
+| 13:00 | MXN | GDP (YoY) (Q1) |  |  | 0.5% |
+| 13:00 | EUR | German CPI (YoY) (Apr) |  | 2.0% | 2.2% |
+| 13:00 | BRL | Unemployment Rate (Mar) |  | 7.0% | 6.8% |
+| 13:30 | USD | Core PCE Prices (Q1) |  |  | 2.60% |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q1) |  | 0.9% | 0.9% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.0% | 2.3% |
+| 13:30 | CAD | GDP (MoM) (Feb) |  | 0.0% | 0.4% |
+| 13:31 | CAD | GDP (MoM) (Mar) |  |  |  |
+| 15:00 | USD | PCE Price index (YoY) (Mar) |  | 2.2% | 2.5% |
+| 15:00 | USD | PCE price index (MoM) (Mar) |  | 0.0% | 0.3% |
+| 15:00 | USD | Pending Home Sales (MoM) (Mar) |  | 0.9% | 2.0% |
+| 15:00 | USD | Personal Spending (MoM) (Mar) |  | 0.6% | 0.4% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.086M |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
