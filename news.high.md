@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | USD | CB Consumer Confidence (Apr) |  | 87.7 | 92.9 |
-| 44 min | USD | JOLTS Job Openings (Mar) |  | 7.490M | 7.568M |
+| 15:00 | USD | CB Consumer Confidence (Apr) | 86.0 | 87.7 | 93.9 |
+| 15:00 | USD | JOLTS Job Openings (Mar) | 7.192M | 7.490M | 7.480M |

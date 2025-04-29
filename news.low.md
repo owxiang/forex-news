@@ -33,6 +33,6 @@
 | 14:00 | USD | House Price Index (MoM) (Feb) | 0.1% | 0.3% | 0.3% |
 | 14:00 | USD | House Price Index (Feb) | 437.3 |  | 436.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.4% |  | 0.4% |
-| 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
-| 15:30 | USD | Texas Services Sector Outlook (Apr) |  |  | -11.3 |
+| 23 min | USD | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
+| 23 min | USD | Texas Services Sector Outlook (Apr) |  |  | -11.3 |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
