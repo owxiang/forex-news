@@ -11,8 +11,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.4% |  | 2.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 2.2% | 2.0% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.6% |  | 0.1% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.3% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) | 85.7 |  | 86.0 |
@@ -34,19 +34,19 @@
 | 10:20 | EUR | Moderate | Italian 10-Year BTP Auction | 3.62% |  | 3.34% |
 | 10:20 | EUR | Low | Italian 5-Year BTP Auction | 2.74% |  | 3.05% |
 | 10:40 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) | -0.34% | -0.09% | -0.34% |
-| 18 min | USD | Moderate | Goods Trade Balance (Mar) |  | -142.80B | -147.85B |
-| 18 min | USD | Moderate | Retail Inventories Ex Auto (Mar) |  |  | 0.1% |
-| 18 min | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.6% | 0.3% |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 7.4% |
-| 48 min | USD | Low | House Price Index (YoY) (Feb) |  |  | 4.8% |
-| 48 min | USD | Low | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
-| 48 min | USD | Low | House Price Index (Feb) |  |  | 436.5 |
-| 48 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.5% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
-| 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 87.7 | 92.9 |
-| 15:00 | USD | High | JOLTS Job Openings (Mar) |  | 7.490M | 7.568M |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) | 0.24% | -0.09% | -0.34% |
+| 13:30 | USD | Moderate | Goods Trade Balance (Mar) | -161.99B | -142.80B | -147.85B |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Mar) | 0.4% |  | 0.1% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Mar) | 0.5% | 0.6% | 0.3% |
+| 13:55 | USD | Low | Redbook (YoY) | 6.1% |  | 7.4% |
+| 14:00 | USD | Low | House Price Index (YoY) (Feb) | 3.9% |  | 5.0% |
+| 14:00 | USD | Low | House Price Index (MoM) (Feb) | 0.1% | 0.3% | 0.3% |
+| 14:00 | USD | Low | House Price Index (Feb) | 437.3 |  | 436.7 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.4% |  | 0.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.7% |  | 0.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 4.5% | 4.6% | 4.7% |
+| 44 min | USD | High | CB Consumer Confidence (Apr) |  | 87.7 | 92.9 |
+| 44 min | USD | High | JOLTS Job Openings (Mar) |  | 7.490M | 7.568M |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | -2.5% | -2.5% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Apr) |  |  | -11.3 |

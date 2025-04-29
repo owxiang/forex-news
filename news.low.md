@@ -26,13 +26,13 @@
 | 10:00 | EUR | Industrial Sentiment (Apr) | -11.2 | -10.1 | -10.7 |
 | 10:00 | EUR | M3 Money Supply (Mar) | 16,845.5B |  | 16,858.7B |
 | 10:20 | EUR | Italian 5-Year BTP Auction | 2.74% |  | 3.05% |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) | -0.34% | -0.09% | -0.34% |
-| 18 min | USD | Wholesale Inventories (MoM) (Mar) |  | 0.6% | 0.3% |
-| 43 min | USD | Redbook (YoY) |  |  | 7.4% |
-| 48 min | USD | House Price Index (YoY) (Feb) |  |  | 4.8% |
-| 48 min | USD | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
-| 48 min | USD | House Price Index (Feb) |  |  | 436.5 |
-| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.5% |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) | 0.24% | -0.09% | -0.34% |
+| 13:30 | USD | Wholesale Inventories (MoM) (Mar) | 0.5% | 0.6% | 0.3% |
+| 13:55 | USD | Redbook (YoY) | 6.1% |  | 7.4% |
+| 14:00 | USD | House Price Index (YoY) (Feb) | 3.9% |  | 5.0% |
+| 14:00 | USD | House Price Index (MoM) (Feb) | 0.1% | 0.3% | 0.3% |
+| 14:00 | USD | House Price Index (Feb) | 437.3 |  | 436.7 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.4% |  | 0.4% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 1.3 |
 | 15:30 | USD | Texas Services Sector Outlook (Apr) |  |  | -11.3 |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
