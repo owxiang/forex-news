@@ -15,8 +15,8 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 3.6% | 4.0% | 4.0% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Mar) | 1.7% | 1.6% | 1.5% |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.70% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.50% |  | 1.80% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Feb) | -0.40% |  | 3.70% |
 | 10:00 | EUR | Business and Consumer Survey (Apr) | 93.6 | 94.5 | 95.0 |
 | 10:00 | EUR | Business Climate (Apr) | -0.67 |  | -0.72 |
 | 10:00 | EUR | Consumer Confidence (Apr) | -16.7 | -16.7 | -14.5 |
@@ -29,8 +29,8 @@
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) | 0.24% | -0.09% | -0.34% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Mar) | 0.5% | 0.6% | 0.3% |
 | 13:55 | USD | Redbook (YoY) | 6.1% |  | 7.4% |
-| 14:00 | USD | House Price Index (YoY) (Feb) | 3.9% |  | 5.0% |
 | 14:00 | USD | House Price Index (MoM) (Feb) | 0.1% | 0.3% | 0.3% |
+| 14:00 | USD | House Price Index (YoY) (Feb) | 3.9% |  | 5.0% |
 | 14:00 | USD | House Price Index (Feb) | 437.3 |  | 436.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.4% |  | 0.4% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) | 3.8 |  | 1.3 |
