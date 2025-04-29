@@ -3,26 +3,26 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.1% | -0.2% | -0.4% |
-| 03:05 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 03:30 | SGD | Low | Unemployment Rate (Q1) |  |  | 1.9% |
+| 30 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 55 min | SGD | Low | Unemployment Rate (Q1) |  |  | 1.9% |
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) |  | -25.6 | -24.5 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | -0.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  |  | 2.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  |  | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 2.0% | 2.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  |  | 0.1% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  |  | 3.4% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  |  | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  |  | 2.2% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) |  |  | 86.0 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  |  | 95.0 |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) |  | 1.6% | 1.5% |
 | 10:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | 3.80% |
-| 10:00 | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
 | 10:00 | EUR | Low | M3 Money Supply (Mar) |  |  | 16,858.7B |
+| 10:00 | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
 | 10:00 | EUR | Low | Loans to Non Financial Corporations (Mar) |  |  | 2.2% |
 | 10:40 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 11:00 | EUR | Low | Business and Consumer Survey (Apr) |  | 94.5 | 95.2 |
@@ -42,8 +42,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
 | 14:00 | USD | Low | House Price Index (Feb) |  |  | 436.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 87.4 | 92.9 |
 | 15:00 | USD | High | JOLTS Job Openings (Mar) |  | 7.480M | 7.568M |

@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | -0.2% | -0.4% |
-| 03:30 | SGD | Unemployment Rate (Q1) |  |  | 1.9% |
+| 55 min | SGD | Unemployment Rate (Q1) |  |  | 1.9% |
 | 05:00 | IDR | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) |  |  | -0.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) |  |  | 2.0% |
@@ -13,10 +13,10 @@
 | 09:00 | EUR | Italian Business Confidence (Apr) |  |  | 86.0 |
 | 09:00 | EUR | Italian Consumer Confidence (Apr) |  |  | 95.0 |
 | 09:00 | EUR | Private Sector Loans (YoY) (Mar) |  | 1.6% | 1.5% |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | 3.80% |
-| 10:00 | EUR | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
 | 10:00 | EUR | M3 Money Supply (Mar) |  |  | 16,858.7B |
+| 10:00 | EUR | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
 | 10:00 | EUR | Loans to Non Financial Corporations (Mar) |  |  | 2.2% |
 | 11:00 | EUR | Business and Consumer Survey (Apr) |  | 94.5 | 95.2 |
 | 11:00 | EUR | Business Climate (Apr) |  |  | -0.73 |
