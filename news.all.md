@@ -5,7 +5,7 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.1% | -0.2% | -0.4% |
 | 03:05 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q1) |  |  | 1.9% |
-| 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
+| 38 min | IDR | Low | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) |  | -25.6 | -24.5 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | -0.1% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  |  | 2.0% |
@@ -13,8 +13,8 @@
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  |  | 0.1% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  |  | 3.4% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  |  | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  |  | 2.2% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) |  |  | 86.0 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  |  | 95.0 |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) |  | 1.6% | 1.5% |

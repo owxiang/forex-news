@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | -0.2% | -0.4% |
 | 03:30 | SGD | Unemployment Rate (Q1) |  |  | 1.9% |
-| 05:00 | IDR | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
+| 38 min | IDR | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) |  |  | -0.1% |
 | 08:00 | EUR | Core CPI (YoY) (Apr) |  |  | 2.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) |  |  | 0.1% |
