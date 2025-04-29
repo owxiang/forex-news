@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) |  | -0.2% | -0.4% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | -0.2% | -0.4% |
 | 03:30 | SGD | Unemployment Rate (Q1) |  |  | 1.9% |
 | 05:00 | IDR | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) |  |  | -0.1% |
@@ -29,8 +29,8 @@
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) |  | -0.09% | -0.34% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Mar) |  | 0.6% | 0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 7.4% |
-| 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
 | 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 4.8% |
+| 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
 | 14:00 | USD | House Price Index (Feb) |  |  | 436.5 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.5% |
 | 14:30 | BRL | Federal Tax Revenue (Jan) |  |  | 261.30B |
