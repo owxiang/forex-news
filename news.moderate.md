@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 30 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 03:05 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (May) |  | -25.6 | -24.5 |
 | 08:00 | EUR | Spanish CPI (YoY) (Apr) |  | 2.0% | 2.3% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.8% |
@@ -11,7 +11,7 @@
 | 10:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 13:30 | USD | Goods Trade Balance (Mar) |  | -143.70B | -147.85B |
 | 13:30 | USD | Retail Inventories Ex Auto (Mar) |  |  | 0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) |  | -2.5% | -2.5% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.565M |
