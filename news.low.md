@@ -35,4 +35,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.4% |  | 0.4% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) | 3.8 |  | 1.3 |
 | 15:30 | USD | Texas Services Sector Outlook (Apr) | -19.4 |  | -11.3 |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
+| 24 min | BRL | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
