@@ -5,25 +5,25 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.1% | -0.2% | -0.4% |
 | 03:05 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 03:30 | SGD | Low | Unemployment Rate (Q1) | 2.1% |  | 1.9% |
+| 06:40 | IDR | Low | Foreign Direct Investment (YoY) (Q1) | 12.70% |  | 33.30% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) | -20.6 | -25.6 | -24.3 |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | 0.6% |  | -0.1% |
-| 51 min | EUR | Low | Core CPI (YoY) (Apr) |  |  | 2.0% |
-| 51 min | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 2.0% | 2.3% |
-| 51 min | EUR | Low | Spanish CPI (MoM) (Apr) |  |  | 0.1% |
-| 51 min | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.8% |
-| 51 min | EUR | Low | Spanish GDP (YoY) (Q1) |  |  | 3.4% |
-| 51 min | EUR | Low | Spanish HICP (MoM) (Apr) |  |  | 0.7% |
-| 51 min | EUR | Moderate | Spanish HICP (YoY) (Apr) |  |  | 2.2% |
-| 51 min | IDR | Low | Foreign Direct Investment (YoY) (Q1) |  |  | 33.30% |
-| 09:00 | EUR | Low | Italian Business Confidence (Apr) |  |  | 86.0 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  | 94.0 | 95.0 |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Mar) |  | 1.6% | 1.5% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.4% |  | 2.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 2.2% | 2.0% | 2.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.6% |  | 0.1% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.8% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
+| 53 min | EUR | Low | Italian Business Confidence (Apr) |  |  | 86.0 |
+| 53 min | EUR | Low | Italian Consumer Confidence (Apr) |  | 94.0 | 95.0 |
+| 53 min | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
+| 53 min | EUR | Low | M3 Money Supply (Mar) |  |  | 16,858.7B |
+| 53 min | EUR | Low | Loans to Non Financial Corporations (Mar) |  |  | 2.2% |
+| 53 min | EUR | Low | Private Sector Loans (YoY) (Mar) |  | 1.6% | 1.5% |
 | 10:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | 3.80% |
-| 10:00 | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 4.0% | 4.0% |
-| 10:00 | EUR | Low | M3 Money Supply (Mar) |  |  | 16,858.7B |
-| 10:00 | EUR | Low | Loans to Non Financial Corporations (Mar) |  |  | 2.2% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | 1.70% |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.34% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.05% |
 | 10:40 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
@@ -40,12 +40,12 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  |  | 0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.6% | 0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 7.4% |
-| 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
 | 14:00 | USD | Low | House Price Index (YoY) (Feb) |  |  | 4.8% |
+| 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.3% | 0.2% |
 | 14:00 | USD | Low | House Price Index (Feb) |  |  | 436.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.5% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 4.6% | 4.7% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | 0.1% |
 | 14:30 | BRL | Low | Federal Tax Revenue (Jan) |  |  | 261.30B |
 | 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 87.7 | 92.9 |
 | 15:00 | USD | High | JOLTS Job Openings (Mar) |  | 7.490M | 7.568M |
