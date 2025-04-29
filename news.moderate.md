@@ -15,4 +15,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.7% |  | 0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 4.5% | 4.6% | 4.7% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q1) | -2.7% | -2.5% | -2.5% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.390M | -4.565M |
+| 23 min | USD | API Weekly Crude Oil Stock |  | 0.390M | -4.565M |

@@ -13,8 +13,8 @@
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.6% |  | 0.1% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.8% |  | 3.3% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.7% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Italian Business Confidence (Apr) | 85.7 |  | 86.0 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Apr) | 92.7 | 94.0 | 95.0 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) | 3.6% | 4.0% | 4.0% |
@@ -50,4 +50,4 @@
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | -2.7% | -2.5% | -2.5% |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) | 3.8 |  | 1.3 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Apr) | -19.4 |  | -11.3 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.390M | -4.565M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.390M | -4.565M |
