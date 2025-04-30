@@ -22,8 +22,8 @@
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 0.7% | 0.6% | 0.5% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 2.9% | 2.9% | 3.3% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 2.40% |  | 2.40% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.5% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.7% | 0.7% | 0.6% |
+| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.5% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Apr) | 50.2 |  | 51.4 |
 | 02:30 | CNY | High | Manufacturing PMI (Apr) | 49.0 | 49.7 | 50.5 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Apr) | 50.4 | 50.6 | 50.8 |
@@ -72,8 +72,8 @@
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.2% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.5% |  | 0.4% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) | 1.8% |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) | 2.4% |  | 2.5% |
@@ -149,4 +149,4 @@
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) | 71.58K | 201.70K | 432.00K |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.108B |  | -0.235B |
-| 22:00 | MXN | Low | Fiscal Balance (Mar) | -24.60B |  | -95.31B |
+| 21:00 | MXN | Low | Fiscal Balance (Mar) | -24.60B |  | -95.31B |

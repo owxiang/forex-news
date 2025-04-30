@@ -18,8 +18,8 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.5% | 0.5% | 0.5% |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 2.9% | 2.9% | 3.3% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 2.40% |  | 2.40% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.5% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.7% | 0.7% | 0.6% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.5% |
 | 03:00 | SGD | Bank Lending (Mar) | 846.5B |  | 841.1B |
 | 04:00 | NZD | M3 Money Supply (Mar) | 431.4B |  | 428.0B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | 0.9% | 0.8% | 0.1% |
@@ -51,8 +51,8 @@
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.4% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.5% |  | 0.4% |
+| 09:00 | EUR | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 1.8% |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.4% |  | 2.5% |
@@ -103,4 +103,4 @@
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Mar) | 71.58K | 201.70K | 432.00K |
 | 18:30 | BRL | Foreign Exchange Flows | 0.108B |  | -0.235B |
-| 22:00 | MXN | Fiscal Balance (Mar) | -24.60B |  | -95.31B |
+| 21:00 | MXN | Fiscal Balance (Mar) | -24.60B |  | -95.31B |
