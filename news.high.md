@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CNY | Manufacturing PMI (Apr) | 49.0 | 49.7 | 50.5 |
 | 09:00 | EUR | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.2% |
-| 13:00 | EUR | German CPI (MoM) (Apr) |  | 0.3% | 0.3% |
+| 54 min | EUR | German CPI (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:15 | USD | ADP Nonfarm Employment Change (Apr) |  | 114K | 155K |
 | 13:30 | USD | GDP (QoQ) (Q1) |  | 0.2% | 2.4% |
 | 14:45 | USD | Chicago PMI (Apr) |  | 45.9 | 47.6 |
