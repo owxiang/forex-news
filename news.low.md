@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Industrial Production (YoY) (Mar) | 5.3% | 3.3% | 7.1% |
 | 00:00 | KRW | Industrial Production (MoM) (Mar) | 2.9% | 0.2% | 1.4% |
-| 00:00 | KRW | Retail Sales (MoM) (Mar) | -0.3% |  | 1.5% |
+| 00:00 | KRW | Retail Sales (MoM) (Mar) | -0.3% |  | 1.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.3% |  | 0.5% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) | 1.3% |  | 0.6% |
 | 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (May) | 3.9% |  | 0.1% |
@@ -18,23 +18,23 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.5% | 0.5% | 0.5% |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 2.9% | 2.9% | 3.3% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 2.40% |  | 2.40% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.4% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.7% | 0.7% | 0.5% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.5% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.7% | 0.7% | 0.6% |
 | 03:00 | SGD | Bank Lending (Mar) | 846.5B |  | 841.1B |
 | 04:00 | NZD | M3 Money Supply (Mar) | 431.4B |  | 428.0B |
-| 52 min | JPY | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
-| 52 min | JPY | Construction Orders (YoY) (Mar) |  |  | -3.3% |
-| 52 min | JPY | Housing Starts (YoY) (Mar) |  | 0.9% | 2.4% |
-| 52 min | JPY | Leading Index (Feb) |  | 107.9 | 108.2 |
-| 52 min | JPY | Leading Index (MoM) (Feb) |  | -0.3% | 0.4% |
-| 52 min | SGD | Business Expectations (Q1) |  |  | 7.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Mar) |  | -0.7% | 0.3% |
-| 07:00 | EUR | German Import Price Index (YoY) (Mar) |  |  | 3.6% |
-| 07:00 | EUR | German Retail Sales (YoY) (Mar) |  |  | 4.9% |
-| 07:00 | NOK | M3 Money Supply (Mar) |  |  | 3,242.0B |
-| 07:00 | NOK | Credit Indicator (YoY) (Mar) |  |  | 3.6% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 6.05% |
-| 07:00 | ZAR | Private Sector Credit (Mar) |  |  | 3.68% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Feb) | 0.9% | 0.8% | 0.1% |
+| 06:00 | JPY | Construction Orders (YoY) (Mar) | 3.5% |  | -3.3% |
+| 06:00 | JPY | Housing Starts (YoY) (Mar) | 39.1% | 0.9% | 2.4% |
+| 06:00 | JPY | Leading Index (MoM) (Feb) | -0.3% | -0.3% | 0.4% |
+| 06:00 | JPY | Leading Index (Feb) | 107.9 | 107.9 | 108.2 |
+| 06:00 | SGD | Business Expectations (Q1) | -6.00 |  | 7.00 |
+| 53 min | EUR | German Import Price Index (MoM) (Mar) |  | -0.7% | 0.3% |
+| 53 min | EUR | German Import Price Index (YoY) (Mar) |  |  | 3.6% |
+| 53 min | EUR | German Retail Sales (YoY) (Mar) |  |  | 4.9% |
+| 53 min | NOK | M3 Money Supply (Mar) |  |  | 3,242.0B |
+| 53 min | NOK | Credit Indicator (YoY) (Mar) |  |  | 3.6% |
+| 53 min | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 6.05% |
+| 53 min | ZAR | Private Sector Credit (Mar) |  |  | 3.68% |
 | 07:45 | EUR | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Apr) |  | 0.7% | 0.9% |
 | 07:45 | EUR | PPI (YoY) (Mar) |  |  | -1.40% |
@@ -49,8 +49,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) |  |  | 0.3% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) |  |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 0.3% |
@@ -77,11 +77,11 @@
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 61.4% |
+| 12:30 | BRL | Bank lending (MoM) (Mar) |  |  | 0.4% |
 | 12:30 | BRL | Budget Balance (Mar) |  |  | -97.226B |
 | 12:30 | BRL | Budget Surplus (Mar) |  |  | -18.973B |
 | 13:00 | EUR | German HICP (YoY) (Apr) |  | 2.1% | 2.3% |
 | 13:00 | EUR | German HICP (MoM) (Apr) |  | 0.4% | 0.4% |
-| 13:00 | BRL | Bank lending (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | ZAR | Budget Balance (MoM) (Mar) |  |  | 24.22B |
 | 13:00 | ZAR | Trade Balance (Mar) |  |  | 20.90B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q1) |  |  | 0.80% |
