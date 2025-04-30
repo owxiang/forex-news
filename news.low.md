@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Mar) | 5.3% | 3.3% | 7.1% |
 | 00:00 | KRW | Industrial Production (MoM) (Mar) | 2.9% | 0.2% | 1.4% |
+| 00:00 | KRW | Industrial Production (YoY) (Mar) | 5.3% | 3.3% | 7.1% |
 | 00:00 | KRW | Retail Sales (MoM) (Mar) | -0.3% |  | 1.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.3% |  | 0.5% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) | 1.3% |  | 0.6% |
@@ -42,19 +42,19 @@
 | 08:00 | CHF | Official Reserves Assets (Mar) | 830.1B |  | 833.6B |
 | 08:55 | EUR | German Unemployment (Apr) | 2.922M |  | 2.922M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) | 2.932M |  | 2.967M |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% |  | 0.5% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% |  | 0.5% |
 | 09:00 | CHF | ZEW Expectations (Apr) | -51.6 |  | -10.7 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.4% |  | 2.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.1% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.4% |  | 0.3% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.4% |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.5% |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 1.8% |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.5% |  | 0.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 1.8% |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Saxony CPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 09:00 | EUR | Spanish Current account (Feb) | 2.31B |  | 1.20B |
@@ -62,8 +62,8 @@
 | 09:30 | HKD | M3 Money Supply (Mar) | 7.7% |  | 6.8% |
 | 10:00 | EUR | Italian CPI (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) | 0.2% | 0.2% | 0.3% |
-| 10:00 | EUR | Italian HICP (YoY) (Apr) | 2.1% | 2.3% | 2.1% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) | 0.5% |  | 1.6% |
+| 10:00 | EUR | Italian HICP (YoY) (Apr) | 2.1% | 2.3% | 2.1% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 3.834% |  | 3.631% |
 | 10:30 | ZAR | Budget Balance (MoM) (Mar) | -13.11B |  | 24.22B |
 | 11:00 | EUR | Italian PPI (YoY) (Mar) | 3.9% |  | 6.2% |
@@ -103,4 +103,4 @@
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Mar) | 71.58K | 201.70K | 432.00K |
 | 18:30 | BRL | Foreign Exchange Flows | 0.108B |  | -0.235B |
-| 22:00 | MXN | Fiscal Balance (Mar) |  |  | -95.31B |
+| 22:00 | MXN | Fiscal Balance (Mar) | -24.60B |  | -95.31B |
