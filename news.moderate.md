@@ -18,11 +18,11 @@
 | 07:45 | EUR | French CPI (MoM) (Apr) | 0.5% | 0.4% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Apr) | 0.6% | 0.3% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Apr) | 97.1 | 101.8 | 103.2 |
-| 48 min | EUR | German Unemployment Change (Apr) |  | 16K | 26K |
-| 48 min | EUR | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
-| 53 min | EUR | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 1.0% | 1.2% |
-| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 08:55 | EUR | German Unemployment Change (Apr) | 4K | 16K | 26K |
+| 08:55 | EUR | German Unemployment Rate (Apr) | 6.3% | 6.3% | 6.3% |
+| 09:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 51 min | EUR | GDP (YoY) (Q1) |  | 1.0% | 1.2% |
+| 51 min | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 76.2% |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  |  | -0.6% |
 | 13:00 | MXN | GDP (YoY) (Q1) |  |  | 0.5% |
