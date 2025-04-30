@@ -19,8 +19,8 @@
 | 02:30 | AUD | Low | CPI Index Number (Q1) | 140.70 |  | 139.40 |
 | 02:30 | AUD | Low | Housing Credit (Mar) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) | 0.5% | 0.5% | 0.5% |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 2.9% | 2.9% | 3.3% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 0.7% | 0.6% | 0.5% |
+| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 2.9% | 2.9% | 3.3% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 2.40% |  | 2.40% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.5% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.7% | 0.7% | 0.6% |
@@ -49,10 +49,10 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Mar) | 3.8% |  | 3.6% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Mar) | 5.75% |  | 6.05% |
 | 07:00 | ZAR | Low | Private Sector Credit (Mar) | 3.45% |  | 3.68% |
-| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 0.5% | 0.4% | 0.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (Apr) | 0.8% | 0.7% | 0.9% |
+| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Apr) | 0.6% | 0.3% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Apr) | 0.8% | 0.7% | 0.9% |
 | 07:45 | EUR | Low | PPI (YoY) (Mar) | -0.60% |  | -1.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Mar) | -0.6% |  | -0.4% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 97.1 | 101.8 | 103.2 |
@@ -61,13 +61,13 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Apr) | 6.3% | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Apr) | 2.922M |  | 2.922M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 2.932M |  | 2.967M |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.6% |  | 0.5% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.2% |
 | 09:00 | CHF | Low | ZEW Expectations (Apr) | -51.6 |  | -10.7 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.4% |  | 2.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.1% |  | 2.3% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.4% |  | 0.4% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.2% |
@@ -81,16 +81,16 @@
 | 09:00 | EUR | Low | Spanish Current account (Feb) | 2.31B |  | 1.20B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (May) | 50.0M |  | 100.0M |
 | 09:30 | HKD | Low | M3 Money Supply (Mar) | 7.7% |  | 6.8% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.1% | 2.3% | 2.1% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.5% |  | 1.6% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.2% | 1.0% | 1.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.4% | 0.2% | 0.2% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.2% | 1.0% | 1.2% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 3.834% |  | 3.631% |
 | 10:30 | ZAR | Low | Budget Balance (MoM) (Mar) | -13.11B |  | 24.22B |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Mar) | -2.4% |  | 0.7% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Mar) | 3.9% |  | 6.2% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Mar) | -2.4% |  | 0.7% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.89% |  | 6.90% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -4.2% |  | -12.7% |
 | 12:00 | USD | Low | MBA Purchase Index | 146.6 |  | 153.4 |
@@ -104,12 +104,12 @@
 | 12:30 | BRL | Low | Budget Balance (Mar) | -71.621B |  | -97.226B |
 | 12:30 | BRL | Low | Budget Surplus (Mar) | 3.588B |  | -18.973B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.9% |  | 76.2% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.0% | -0.6% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.8% | 0.6% | 0.5% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.1% | 2.0% | 2.2% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.0% | -0.6% |
 | 13:00 | EUR | High | German CPI (MoM) (Apr) | 0.4% | 0.3% | 0.3% |
-| 13:00 | EUR | Low | German HICP (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.1% | 2.0% | 2.2% |
 | 13:00 | EUR | Low | German HICP (MoM) (Apr) | 0.5% | 0.4% | 0.4% |
+| 13:00 | EUR | Low | German HICP (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
 | 13:00 | BRL | Low | Bank lending (MoM) (Mar) | 0.6% |  | 0.4% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Mar) | 7.0% | 7.0% | 6.8% |
 | 13:00 | ZAR | Low | Trade Balance (Mar) | 24.77B |  | 19.95B |
@@ -146,6 +146,7 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 1.8% |
 | 15:30 | USD | Low | Gasoline Inventories | -4.003M | -1.080M | -4.476M |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.4% |  |  |
-| 24 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 24 min | BRL | Low | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) | 71.58K | 201.70K | 432.00K |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 0.108B |  | -0.235B |
 | 22:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -95.31B |
