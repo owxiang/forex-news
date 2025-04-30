@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Mar) | 2.9% | 0.2% | 1.4% |
 | 00:00 | KRW | Industrial Production (YoY) (Mar) | 5.3% | 3.3% | 7.1% |
+| 00:00 | KRW | Industrial Production (MoM) (Mar) | 2.9% | 0.2% | 1.4% |
 | 00:00 | KRW | Retail Sales (MoM) (Mar) | -0.3% |  | 1.5% |
 | 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.3% |  | 0.5% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) | 1.3% |  | 0.6% |
@@ -11,16 +11,16 @@
 | 00:50 | JPY | Large Retailers' Sales (MoM) (Mar) | -1.2% |  | 0.4% |
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Mar) | 3.0% |  | 2.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Mar) | 3.1% | 3.6% | 1.3% |
-| 31 min | NZD | ANZ Business Confidence (Apr) |  |  | 57.5 |
-| 31 min | NZD | NBNZ Own Activity (Apr) |  |  | 48.6% |
-| 02:30 | AUD | CPI Index Number (Q1) |  |  | 139.40 |
-| 02:30 | AUD | Housing Credit (Mar) |  |  | 0.4% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Mar) |  | 0.5% | 0.5% |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) |  | 2.9% | 3.2% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) |  |  | 2.40% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) |  | 2.9% | 3.4% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) |  | 0.7% | 0.5% |
-| 03:00 | SGD | Bank Lending (Mar) |  |  | 841.1B |
+| 02:00 | NZD | ANZ Business Confidence (Apr) | 49.3 |  | 57.5 |
+| 02:00 | NZD | NBNZ Own Activity (Apr) | 47.7% |  | 48.6% |
+| 02:30 | AUD | CPI Index Number (Q1) | 140.70 |  | 139.40 |
+| 02:30 | AUD | Housing Credit (Mar) | 0.5% |  | 0.4% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.5% | 0.5% | 0.5% |
+| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 2.9% | 2.9% | 3.2% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 2.40% |  | 2.40% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.4% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 0.7% | 0.7% | 0.5% |
+| 25 min | SGD | Bank Lending (Mar) |  |  | 841.1B |
 | 04:00 | NZD | M3 Money Supply (Mar) |  |  | 428,046.0B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
 | 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | -3.3% |
@@ -42,19 +42,19 @@
 | 08:00 | CHF | Official Reserves Assets (Mar) |  |  | 833.6B |
 | 08:55 | EUR | German Unemployment (Apr) |  |  | 2.922M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) |  |  | 2.967M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) |  |  | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 09:00 | CHF | ZEW Expectations (Apr) |  |  | -10.7 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) |  |  | 0.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (YoY) (Apr) |  |  | 2.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (Apr) |  |  | 0.4% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 1.9% |
+| 09:00 | EUR | Hesse CPI (YoY) (Apr) |  |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 1.9% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) |  |  | 2.5% |
 | 09:00 | EUR | Saxony CPI (MoM) (Apr) |  |  | 0.6% |
 | 09:00 | EUR | Spanish Current account (Feb) |  |  | 1.20B |
@@ -63,8 +63,8 @@
 | 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 3.631% |
 | 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
-| 10:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.3% | 2.1% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) |  |  | 1.6% |
+| 10:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.3% | 2.1% |
 | 11:00 | EUR | Italian PPI (MoM) (Mar) |  |  | 0.7% |
 | 11:00 | EUR | Italian PPI (YoY) (Mar) |  |  | 6.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.90% |
@@ -79,8 +79,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 61.4% |
 | 12:30 | BRL | Budget Balance (Mar) |  |  | -97.226B |
 | 12:30 | BRL | Budget Surplus (Mar) |  |  | -18.973B |
-| 13:00 | EUR | German HICP (MoM) (Apr) |  | 0.4% | 0.4% |
 | 13:00 | EUR | German HICP (YoY) (Apr) |  | 2.1% | 2.3% |
+| 13:00 | EUR | German HICP (MoM) (Apr) |  | 0.4% | 0.4% |
 | 13:00 | BRL | Bank lending (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | ZAR | Budget Balance (MoM) (Mar) |  |  | 24.22B |
 | 13:00 | ZAR | Trade Balance (Mar) |  |  | 20.90B |

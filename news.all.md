@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Mar) | 2.9% | 0.2% | 1.4% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Mar) | 5.3% | 3.3% | 7.1% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Mar) | 2.9% | 0.2% | 1.4% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Mar) | -0.3% |  | 1.5% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Mar) | -0.3% |  | 0.5% |
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (Mar) | -1.1% | -0.5% | 2.3% |
@@ -12,23 +12,23 @@
 | 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Mar) | -1.2% |  | 0.4% |
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Mar) | 3.0% |  | 2.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (Mar) | 3.1% | 3.6% | 1.3% |
-| 31 min | NZD | Low | ANZ Business Confidence (Apr) |  |  | 57.5 |
-| 31 min | NZD | Low | NBNZ Own Activity (Apr) |  |  | 48.6% |
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.2% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.4% |
-| 02:30 | AUD | Low | CPI Index Number (Q1) |  |  | 139.40 |
-| 02:30 | AUD | Low | Housing Credit (Mar) |  |  | 0.4% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) |  | 0.5% | 0.5% |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) |  | 2.9% | 3.2% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) |  |  | 2.40% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) |  | 2.9% | 3.4% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) |  | 0.7% | 0.5% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Apr) |  |  | 51.4 |
-| 02:30 | CNY | High | Manufacturing PMI (Apr) |  | 49.7 | 50.5 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Apr) |  | 50.6 | 50.8 |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Apr) |  | 49.8 | 51.2 |
-| 03:00 | SGD | Low | Bank Lending (Mar) |  |  | 841.1B |
+| 02:00 | NZD | Low | ANZ Business Confidence (Apr) | 49.3 |  | 57.5 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Apr) | 47.7% |  | 48.6% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 2.4% | 2.3% | 2.4% |
+| 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 0.9% | 0.8% | 0.2% |
+| 02:30 | AUD | Low | CPI Index Number (Q1) | 140.70 |  | 139.40 |
+| 02:30 | AUD | Low | Housing Credit (Mar) | 0.5% |  | 0.4% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) | 0.5% | 0.5% | 0.5% |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 0.7% | 0.6% | 0.5% |
+| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 2.9% | 2.9% | 3.2% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 2.40% |  | 2.40% |
+| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 3.0% | 2.9% | 3.4% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 0.7% | 0.7% | 0.5% |
+| 02:30 | CNY | Moderate | Chinese Composite PMI (Apr) | 50.2 |  | 51.4 |
+| 02:30 | CNY | High | Manufacturing PMI (Apr) | 49.0 | 49.7 | 50.5 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Apr) | 50.4 | 50.6 | 50.8 |
+| 10 min | CNY | Moderate | Caixin Manufacturing PMI (Apr) |  | 49.8 | 51.2 |
+| 25 min | SGD | Low | Bank Lending (Mar) |  |  | 841.1B |
 | 04:00 | NZD | Low | M3 Money Supply (Mar) |  |  | 428,046.0B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  | 0.8% | 0.1% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Mar) |  |  | -3.3% |
@@ -37,8 +37,8 @@
 | 06:00 | JPY | Low | Leading Index (Feb) |  | 107.9 | 108.2 |
 | 06:00 | SGD | Low | Business Expectations (Q1) |  |  | 7.00 |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Mar) |  | 0.0% | -0.1% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q1) |  | 0.7% | 0.6% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  | 4.1% | 3.9% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | -0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Mar) |  | -0.7% | 0.3% |
@@ -49,8 +49,8 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Mar) |  |  | 3.6% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Mar) |  |  | 6.05% |
 | 07:00 | ZAR | Low | Private Sector Credit (Mar) |  |  | 3.68% |
-| 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 0.4% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.3% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 0.7% | 0.9% |
 | 07:45 | EUR | Low | PPI (YoY) (Mar) |  |  | -1.40% |
@@ -61,21 +61,21 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Apr) |  | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Apr) |  |  | 2.922M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) |  |  | 2.967M |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  |  | 0.6% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 09:00 | CHF | Low | ZEW Expectations (Apr) |  |  | -10.7 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) |  |  | 0.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q1) |  | 0.2% | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 2.4% |
+| 09:00 | EUR | Moderate | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) |  |  | 0.4% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 1.9% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 2.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 0.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 1.9% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) |  |  | 2.5% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) |  |  | 0.6% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) |  |  | 1.20B |
@@ -84,10 +84,10 @@
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.631% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.3% | 2.1% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Apr) |  |  | 1.6% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 1.0% | 1.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.3% | 2.1% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 1.0% | 1.2% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Mar) |  |  | 0.7% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Mar) |  |  | 6.2% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.90% |
@@ -105,10 +105,10 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 76.2% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  |  | -0.6% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  |  | 0.5% |
-| 13:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.0% | 2.2% |
-| 13:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.4% | 0.4% |
+| 13:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.1% | 2.3% |
+| 13:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.4% | 0.4% |
 | 13:00 | BRL | Low | Bank lending (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Mar) |  | 7.0% | 6.8% |
 | 13:00 | ZAR | Low | Budget Balance (MoM) (Mar) |  |  | 24.22B |
