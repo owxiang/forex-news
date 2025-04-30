@@ -45,8 +45,8 @@
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% |  | 0.5% |
 | 09:00 | CHF | ZEW Expectations (Apr) | -51.6 |  | -10.7 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.4% |  | 2.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.1% |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
@@ -84,23 +84,23 @@
 | 13:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.4% | 0.4% |
 | 13:00 | BRL | Bank lending (MoM) (Mar) | 0.6% |  | 0.4% |
 | 13:00 | ZAR | Trade Balance (Mar) | 24.77B |  | 19.95B |
-| 19 min | USD | Employment Benefits (QoQ) (Q1) |  |  | 0.80% |
-| 19 min | USD | Employment Wages (QoQ) (Q1) |  |  | 0.90% |
-| 19 min | USD | GDP Sales (Q1) |  |  | 3.3% |
-| 19 min | USD | PCE Prices (Q1) |  |  | 2.4% |
-| 19 min | USD | Real Consumer Spending (Q1) |  |  | 4.0% |
-| 49 min | USD | Dallas Fed PCE (Mar) |  |  | 3.00% |
-| 15:00 | USD | Pending Home Sales Index (Mar) |  |  | 72.0 |
-| 15:00 | USD | Personal Income (MoM) (Mar) |  | 0.4% | 0.8% |
-| 15:00 | USD | Real Personal Consumption (MoM) (Mar) |  |  | 0.1% |
+| 13:30 | USD | Employment Benefits (QoQ) (Q1) | 1.20% |  | 0.80% |
+| 13:30 | USD | Employment Wages (QoQ) (Q1) | 0.80% |  | 1.00% |
+| 13:30 | USD | GDP Sales (Q1) | -2.5% |  | 3.3% |
+| 13:30 | USD | PCE Prices (Q1) | 3.6% |  | 2.4% |
+| 13:30 | USD | Real Consumer Spending (Q1) | 1.8% | 1.2% | 4.0% |
+| 47 min | USD | Dallas Fed PCE (Mar) |  |  | 3.00% |
+| 47 min | USD | Pending Home Sales Index (Mar) |  |  | 72.0 |
+| 47 min | USD | Personal Income (MoM) (Mar) |  | 0.4% | 0.8% |
+| 47 min | USD | Real Personal Consumption (MoM) (Mar) |  |  | 0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.325M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.139M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.062M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -2.353M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.710M | -2.353M |
 | 15:30 | USD | Gasoline Production |  |  | 0.661M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.021M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.8% |
-| 15:30 | USD | Gasoline Inventories |  |  | -4.476M |
+| 15:30 | USD | Gasoline Inventories |  | -1.080M | -4.476M |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -95.31B |

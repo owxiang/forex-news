@@ -64,14 +64,14 @@
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.6% |  | 0.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Apr) | -51.6 |  | -10.7 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.4% |  | 2.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.1% |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.4% |  | 0.4% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.2% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.5% |  | 0.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 1.8% |  | 0.3% |
@@ -104,8 +104,8 @@
 | 12:30 | BRL | Low | Budget Balance (Mar) | -71.621B |  | -97.226B |
 | 12:30 | BRL | Low | Budget Surplus (Mar) | 3.588B |  | -18.973B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.9% |  | 76.2% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% |  | -0.6% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.8% |  | 0.5% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.0% | -0.6% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.8% | 0.6% | 0.5% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.1% | 2.0% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (Apr) | 0.4% | 0.3% | 0.3% |
 | 13:00 | EUR | Low | German HICP (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
@@ -113,39 +113,39 @@
 | 13:00 | BRL | Low | Bank lending (MoM) (Mar) | 0.6% |  | 0.4% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Mar) | 7.0% | 7.0% | 6.8% |
 | 13:00 | ZAR | Low | Trade Balance (Mar) | 24.77B |  | 19.95B |
-| 4 min | USD | High | ADP Nonfarm Employment Change (Apr) |  | 114K | 155K |
-| 19 min | USD | Moderate | Core PCE Prices (Q1) |  |  | 2.60% |
-| 19 min | USD | Low | Employment Benefits (QoQ) (Q1) |  |  | 0.80% |
-| 19 min | USD | Moderate | Employment Cost Index (QoQ) (Q1) |  | 0.9% | 0.9% |
-| 19 min | USD | Low | Employment Wages (QoQ) (Q1) |  |  | 0.90% |
-| 19 min | USD | High | GDP (QoQ) (Q1) |  | 0.2% | 2.4% |
-| 19 min | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 2.3% |
-| 19 min | USD | Low | GDP Sales (Q1) |  |  | 3.3% |
-| 19 min | USD | Low | PCE Prices (Q1) |  |  | 2.4% |
-| 19 min | USD | Low | Real Consumer Spending (Q1) |  |  | 4.0% |
-| 19 min | CAD | Moderate | GDP (MoM) (Feb) |  | 0.0% | 0.4% |
-| 20 min | CAD | Moderate | GDP (MoM) (Mar) |  |  |  |
-| 49 min | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.00% |
-| 14:45 | USD | High | Chicago PMI (Apr) |  | 45.9 | 47.6 |
-| 15:00 | USD | High | Core PCE Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
-| 15:00 | USD | High | Core PCE Price Index (YoY) (Mar) |  | 2.6% | 2.8% |
-| 15:00 | USD | Moderate | PCE Price index (YoY) (Mar) |  | 2.2% | 2.5% |
-| 15:00 | USD | Moderate | PCE price index (MoM) (Mar) |  | 0.0% | 0.3% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) |  | 0.9% | 2.0% |
-| 15:00 | USD | Low | Pending Home Sales Index (Mar) |  |  | 72.0 |
-| 15:00 | USD | Low | Personal Income (MoM) (Mar) |  | 0.4% | 0.8% |
-| 15:00 | USD | Moderate | Personal Spending (MoM) (Mar) |  | 0.6% | 0.4% |
-| 15:00 | USD | Low | Real Personal Consumption (MoM) (Mar) |  |  | 0.1% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.600M | 0.244M |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) | 62K | 114K | 147K |
+| 13:30 | USD | Moderate | Core PCE Prices (Q1) | 3.50% | 3.10% | 2.60% |
+| 13:30 | USD | Low | Employment Benefits (QoQ) (Q1) | 1.20% |  | 0.80% |
+| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q1) | 0.9% | 0.9% | 0.9% |
+| 13:30 | USD | Low | Employment Wages (QoQ) (Q1) | 0.80% |  | 1.00% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) | -0.3% | 0.2% | 2.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) | 3.7% | 3.1% | 2.3% |
+| 13:30 | USD | Low | GDP Sales (Q1) | -2.5% |  | 3.3% |
+| 13:30 | USD | Low | PCE Prices (Q1) | 3.6% |  | 2.4% |
+| 13:30 | USD | Low | Real Consumer Spending (Q1) | 1.8% | 1.2% | 4.0% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Feb) | -0.2% | 0.0% | 0.4% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Mar) | 0.1% |  | -0.2% |
+| 32 min | USD | High | Chicago PMI (Apr) |  | 45.9 | 47.6 |
+| 47 min | USD | High | Core PCE Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
+| 47 min | USD | High | Core PCE Price Index (YoY) (Mar) |  | 2.6% | 2.8% |
+| 47 min | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.00% |
+| 47 min | USD | Moderate | PCE price index (MoM) (Mar) |  | 0.0% | 0.3% |
+| 47 min | USD | Moderate | PCE Price index (YoY) (Mar) |  | 2.2% | 2.5% |
+| 47 min | USD | Moderate | Pending Home Sales (MoM) (Mar) |  | 0.9% | 2.0% |
+| 47 min | USD | Low | Pending Home Sales Index (Mar) |  |  | 72.0 |
+| 47 min | USD | Low | Personal Income (MoM) (Mar) |  | 0.4% | 0.8% |
+| 47 min | USD | Moderate | Personal Spending (MoM) (Mar) |  | 0.6% | 0.4% |
+| 47 min | USD | Low | Real Personal Consumption (MoM) (Mar) |  |  | 0.1% |
+| 15:30 | USD | High | Crude Oil Inventories |  | 0.390M | 0.244M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.325M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.139M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.086M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.062M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -2.353M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.710M | -2.353M |
 | 15:30 | USD | Low | Gasoline Production |  |  | 0.661M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.021M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.8% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -4.476M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.080M | -4.476M |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
