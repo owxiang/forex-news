@@ -21,11 +21,11 @@
 | 08:55 | EUR | German Unemployment Change (Apr) | 4K | 16K | 26K |
 | 08:55 | EUR | German Unemployment Rate (Apr) | 6.3% | 6.3% | 6.3% |
 | 09:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
-| 10:00 | EUR | GDP (QoQ) (Q1) | 0.4% | 0.2% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.0% | 1.2% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.4% | 0.2% | 0.2% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.9% |  | 76.2% |
-| 13:00 | MXN | GDP (YoY) (Q1) | 0.8% | 0.6% | 0.5% |
 | 13:00 | MXN | GDP (QoQ) (Q1) | 0.2% | 0.0% | -0.6% |
+| 13:00 | MXN | GDP (YoY) (Q1) | 0.8% | 0.6% | 0.5% |
 | 13:00 | EUR | German CPI (YoY) (Apr) | 2.1% | 2.0% | 2.2% |
 | 13:00 | BRL | Unemployment Rate (Mar) | 7.0% | 7.0% | 6.8% |
 | 13:30 | USD | Core PCE Prices (Q1) | 3.50% | 3.10% | 2.60% |
@@ -37,5 +37,5 @@
 | 15:00 | USD | PCE price index (MoM) (Mar) | 0.0% | 0.0% | 0.4% |
 | 15:00 | USD | Pending Home Sales (MoM) (Mar) | 6.1% | 0.9% | 2.1% |
 | 15:00 | USD | Personal Spending (MoM) (Mar) | 0.7% | 0.6% | 0.5% |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.086M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.682M |  | -0.086M |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |

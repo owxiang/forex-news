@@ -25,8 +25,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | 0.9% | 0.8% | 0.1% |
 | 06:00 | JPY | Construction Orders (YoY) (Mar) | 3.5% |  | -3.3% |
 | 06:00 | JPY | Housing Starts (YoY) (Mar) | 39.1% | 0.9% | 2.4% |
-| 06:00 | JPY | Leading Index (MoM) (Feb) | -0.3% | -0.3% | 0.4% |
 | 06:00 | JPY | Leading Index (Feb) | 107.9 | 107.9 | 108.2 |
+| 06:00 | JPY | Leading Index (MoM) (Feb) | -0.3% | -0.3% | 0.4% |
 | 06:00 | SGD | Business Expectations (Q1) | -6.00 |  | 16.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Mar) | -1.0% | -0.7% | 0.3% |
 | 07:00 | EUR | German Import Price Index (YoY) (Mar) | 2.1% |  | 3.6% |
@@ -42,8 +42,8 @@
 | 08:00 | CHF | Official Reserves Assets (Mar) | 830.1B |  | 833.6B |
 | 08:55 | EUR | German Unemployment (Apr) | 2.922M |  | 2.922M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) | 2.932M |  | 2.967M |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% |  | 0.5% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% |  | 0.5% |
 | 09:00 | CHF | ZEW Expectations (Apr) | -51.6 |  | -10.7 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.4% |  | 2.2% |
@@ -55,19 +55,19 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 1.8% |  | 1.9% |
-| 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Saxony CPI (MoM) (Apr) | 0.5% |  | 0.6% |
+| 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.4% |  | 2.5% |
 | 09:00 | EUR | Spanish Current account (Feb) | 2.31B |  | 1.20B |
 | 09:00 | NOK | Central Bank Currency Purchase (May) | 50.0M |  | 100.0M |
 | 09:30 | HKD | M3 Money Supply (Mar) | 7.7% |  | 6.8% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) | 0.2% | 0.2% | 0.3% |
+| 10:00 | EUR | Italian CPI (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
 | 10:00 | EUR | Italian HICP (YoY) (Apr) | 2.1% | 2.3% | 2.1% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) | 0.5% |  | 1.6% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 3.834% |  | 3.631% |
 | 10:30 | ZAR | Budget Balance (MoM) (Mar) | -13.11B |  | 24.22B |
-| 11:00 | EUR | Italian PPI (YoY) (Mar) | 3.9% |  | 6.2% |
 | 11:00 | EUR | Italian PPI (MoM) (Mar) | -2.4% |  | 0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Mar) | 3.9% |  | 6.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.89% |  | 6.90% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -4.2% |  | -12.7% |
 | 12:00 | USD | MBA Purchase Index | 146.6 |  | 153.4 |
@@ -92,14 +92,14 @@
 | 15:00 | USD | Pending Home Sales Index (Mar) | 76.5 |  | 72.1 |
 | 15:00 | USD | Personal Income (MoM) (Mar) | 0.5% | 0.4% | 0.7% |
 | 15:00 | USD | Real Personal Consumption (MoM) (Mar) | 0.7% |  | 0.1% |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.325M |
-| 23 min | USD | Crude Oil Imports |  |  | 1.139M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.062M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | -1.710M | -2.353M |
-| 23 min | USD | Gasoline Production |  |  | 0.661M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | -0.021M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.8% |
-| 23 min | USD | Gasoline Inventories |  | -1.080M | -4.476M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.189M |  | 0.325M |
+| 15:30 | USD | Crude Oil Imports | -0.663M |  | 1.139M |
+| 15:30 | USD | Distillate Fuel Production | -0.017M |  | -0.062M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.937M | -1.710M | -2.353M |
+| 15:30 | USD | Gasoline Production | -0.616M |  | 0.661M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.252M |  | -0.021M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 1.8% |
+| 15:30 | USD | Gasoline Inventories | -4.003M | -1.080M | -4.476M |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 201.70K | 432.00K |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -95.31B |

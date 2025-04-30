@@ -10,4 +10,4 @@
 | 14:45 | USD | Chicago PMI (Apr) | 44.6 | 45.9 | 47.6 |
 | 15:00 | USD | Core PCE Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.5% |
 | 15:00 | USD | Core PCE Price Index (YoY) (Mar) | 2.6% | 2.6% | 3.0% |
-| 23 min | USD | Crude Oil Inventories |  | 0.390M | 0.244M |
+| 15:30 | USD | Crude Oil Inventories | -2.696M | 0.390M | 0.244M |
