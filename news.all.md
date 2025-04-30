@@ -33,18 +33,18 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | 0.9% | 0.8% | 0.1% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Mar) | 3.5% |  | -3.3% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Mar) | 39.1% | 0.9% | 2.4% |
-| 06:00 | JPY | Low | Leading Index (Feb) | 107.9 | 107.9 | 108.2 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Feb) | -0.3% | -0.3% | 0.4% |
+| 06:00 | JPY | Low | Leading Index (Feb) | 107.9 | 107.9 | 108.2 |
 | 06:00 | SGD | Low | Business Expectations (Q1) | -6.00 |  | 16.00 |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Mar) | -1.0% | 0.0% | -0.2% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q1) | 0.8% | 0.7% | 0.8% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q1) | 0.8% | 0.7% | 0.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 3.4% | 4.1% | 3.9% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | -0.6% | -0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Mar) | -1.0% | -0.7% | 0.3% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Mar) | 2.1% |  | 3.6% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Mar) | -0.2% | -0.4% | 0.2% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Mar) | 2.2% |  | 0.0% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Mar) | -0.2% | -0.4% | 0.2% |
 | 07:00 | NOK | Low | M3 Money Supply (Mar) | 3,316.1B |  | 3,242.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Mar) | 3.8% |  | 3.6% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Mar) | 5.75% |  | 6.05% |
@@ -53,8 +53,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 0.5% | 0.4% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) | 0.8% | 0.7% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Apr) | 0.6% | 0.3% | 0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Mar) | -0.60% |  | -1.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Mar) | -0.6% |  | -0.4% |
+| 07:45 | EUR | Low | PPI (YoY) (Mar) | -0.60% |  | -1.20% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 97.1 | 101.8 | 103.2 |
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) | 830.1B |  | 833.6B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Apr) | 4K | 16K | 26K |
@@ -66,25 +66,25 @@
 | 09:00 | CHF | Low | ZEW Expectations (Apr) | -51.6 |  | -10.7 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.4% |  | 2.2% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.1% |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.4% |  | 0.3% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.1% |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 2.2% |  | 2.3% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.4% |  | 0.4% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.2% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.5% |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.5% |  | 0.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) | 1.8% |  | 1.9% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) | 2.4% |  | 2.5% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) | 2.31B |  | 1.20B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (May) | 50.0M |  | 100.0M |
 | 09:30 | HKD | Low | M3 Money Supply (Mar) | 7.7% |  | 6.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.2% | 0.2% | 0.3% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Apr) | 2.0% | 2.0% | 1.9% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.1% | 2.3% | 2.1% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.5% |  | 1.6% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.1% | 2.3% | 2.1% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.2% | 1.0% | 1.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.4% | 0.2% | 0.2% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 3.834% |  | 3.631% |
@@ -96,36 +96,36 @@
 | 12:00 | USD | Low | MBA Purchase Index | 146.6 |  | 153.4 |
 | 12:00 | USD | Low | Mortgage Market Index | 223.7 |  | 233.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 649.0 |  | 673.6 |
-| 12:00 | EUR | Low | Spanish Business Confidence (Apr) |  |  | -5.4 |
-| 24 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 24 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 24 min | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 61.4% |
-| 24 min | BRL | Low | Bank lending (MoM) (Mar) |  |  | 0.4% |
-| 24 min | BRL | Low | Budget Balance (Mar) |  |  | -97.226B |
-| 24 min | BRL | Low | Budget Surplus (Mar) |  |  | -18.973B |
-| 24 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 76.2% |
-| 54 min | MXN | Moderate | GDP (YoY) (Q1) |  |  | 0.5% |
-| 54 min | MXN | Moderate | GDP (QoQ) (Q1) |  |  | -0.6% |
-| 54 min | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.0% | 2.2% |
-| 54 min | EUR | High | German CPI (MoM) (Apr) |  | 0.3% | 0.3% |
-| 54 min | EUR | Low | German HICP (MoM) (Apr) |  | 0.4% | 0.4% |
-| 54 min | EUR | Low | German HICP (YoY) (Apr) |  | 2.1% | 2.3% |
-| 54 min | BRL | Moderate | Unemployment Rate (Mar) |  | 7.0% | 6.8% |
-| 54 min | ZAR | Low | Trade Balance (Mar) |  |  | 20.90B |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) |  | 114K | 155K |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  |  | 2.60% |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q1) |  |  | 0.80% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q1) |  | 0.9% | 0.9% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q1) |  |  | 0.90% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 0.2% | 2.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 2.3% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  |  | 3.3% |
-| 13:30 | USD | Low | PCE Prices (Q1) |  |  | 2.4% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  |  | 4.0% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Feb) |  | 0.0% | 0.4% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Mar) |  |  |  |
-| 14:00 | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.00% |
+| 12:30 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.5% |
+| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | EUR | Low | Spanish Business Confidence (Apr) | -4.1 |  | -4.8 |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) | 61.6% |  | 61.4% |
+| 12:30 | BRL | Low | Budget Balance (Mar) | -71.621B |  | -97.226B |
+| 12:30 | BRL | Low | Budget Surplus (Mar) | 3.588B |  | -18.973B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.9% |  | 76.2% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% |  | -0.6% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.8% |  | 0.5% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.1% | 2.0% | 2.2% |
+| 13:00 | EUR | High | German CPI (MoM) (Apr) | 0.4% | 0.3% | 0.3% |
+| 13:00 | EUR | Low | German HICP (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
+| 13:00 | EUR | Low | German HICP (MoM) (Apr) | 0.5% | 0.4% | 0.4% |
+| 13:00 | BRL | Low | Bank lending (MoM) (Mar) | 0.6% |  | 0.4% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Mar) | 7.0% | 7.0% | 6.8% |
+| 13:00 | ZAR | Low | Trade Balance (Mar) | 24.77B |  | 19.95B |
+| 4 min | USD | High | ADP Nonfarm Employment Change (Apr) |  | 114K | 155K |
+| 19 min | USD | Moderate | Core PCE Prices (Q1) |  |  | 2.60% |
+| 19 min | USD | Low | Employment Benefits (QoQ) (Q1) |  |  | 0.80% |
+| 19 min | USD | Moderate | Employment Cost Index (QoQ) (Q1) |  | 0.9% | 0.9% |
+| 19 min | USD | Low | Employment Wages (QoQ) (Q1) |  |  | 0.90% |
+| 19 min | USD | High | GDP (QoQ) (Q1) |  | 0.2% | 2.4% |
+| 19 min | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 2.3% |
+| 19 min | USD | Low | GDP Sales (Q1) |  |  | 3.3% |
+| 19 min | USD | Low | PCE Prices (Q1) |  |  | 2.4% |
+| 19 min | USD | Low | Real Consumer Spending (Q1) |  |  | 4.0% |
+| 19 min | CAD | Moderate | GDP (MoM) (Feb) |  | 0.0% | 0.4% |
+| 20 min | CAD | Moderate | GDP (MoM) (Mar) |  |  |  |
+| 49 min | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.00% |
 | 14:45 | USD | High | Chicago PMI (Apr) |  | 45.9 | 47.6 |
 | 15:00 | USD | High | Core PCE Price Index (MoM) (Mar) |  | 0.1% | 0.4% |
 | 15:00 | USD | High | Core PCE Price Index (YoY) (Mar) |  | 2.6% | 2.8% |
