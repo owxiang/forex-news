@@ -6,14 +6,14 @@
 | 00:00 | KRW | Low | Industrial Production (YoY) (Mar) | 5.3% | 3.3% | 7.1% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Mar) | -0.3% |  | 1.5% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Mar) | -0.3% |  | 0.5% |
-| 44 min | JPY | Moderate | Industrial Production (MoM) (Mar) |  | -0.5% | 2.3% |
-| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Apr) |  |  | 0.6% |
-| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (May) |  |  | 0.1% |
-| 44 min | JPY | Low | Large Retailers' Sales (MoM) (Mar) |  |  | 0.5% |
-| 44 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Mar) |  |  | 2.0% |
-| 44 min | JPY | Low | Retail Sales (YoY) (Mar) |  | 3.6% | 1.4% |
-| 02:00 | NZD | Low | ANZ Business Confidence (Apr) |  |  | 57.5 |
-| 02:00 | NZD | Low | NBNZ Own Activity (Apr) |  |  | 48.6% |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Mar) | -1.1% | -0.5% | 2.3% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Apr) | 1.3% |  | 0.6% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (May) | 3.9% |  | 0.1% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Mar) | -1.2% |  | 0.4% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Mar) | 3.0% |  | 2.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Mar) | 3.1% | 3.6% | 1.3% |
+| 31 min | NZD | Low | ANZ Business Confidence (Apr) |  |  | 57.5 |
+| 31 min | NZD | Low | NBNZ Own Activity (Apr) |  |  | 48.6% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.2% |
 | 02:30 | AUD | Moderate | CPI (YoY) (Q1) |  | 2.3% | 2.4% |
 | 02:30 | AUD | Low | CPI Index Number (Q1) |  |  | 139.40 |

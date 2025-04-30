@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Industrial Production (MoM) (Mar) |  | -0.5% | 2.3% |
+| 00:50 | JPY | Industrial Production (MoM) (Mar) | -1.1% | -0.5% | 2.3% |
 | 02:30 | AUD | CPI (QoQ) (Q1) |  | 0.8% | 0.2% |
 | 02:30 | AUD | CPI (YoY) (Q1) |  | 2.3% | 2.4% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) |  | 0.6% | 0.5% |

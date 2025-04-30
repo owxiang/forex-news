@@ -6,13 +6,13 @@
 | 00:00 | KRW | Industrial Production (YoY) (Mar) | 5.3% | 3.3% | 7.1% |
 | 00:00 | KRW | Retail Sales (MoM) (Mar) | -0.3% |  | 1.5% |
 | 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.3% |  | 0.5% |
-| 44 min | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) |  |  | 0.6% |
-| 44 min | JPY | Industrial Production forecast 2m ahead (MoM) (May) |  |  | 0.1% |
-| 44 min | JPY | Large Retailers' Sales (MoM) (Mar) |  |  | 0.5% |
-| 44 min | JPY | Large Scale Retail Sales YoY (YoY) (Mar) |  |  | 2.0% |
-| 44 min | JPY | Retail Sales (YoY) (Mar) |  | 3.6% | 1.4% |
-| 02:00 | NZD | ANZ Business Confidence (Apr) |  |  | 57.5 |
-| 02:00 | NZD | NBNZ Own Activity (Apr) |  |  | 48.6% |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) | 1.3% |  | 0.6% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (May) | 3.9% |  | 0.1% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) (Mar) | -1.2% |  | 0.4% |
+| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Mar) | 3.0% |  | 2.0% |
+| 00:50 | JPY | Retail Sales (YoY) (Mar) | 3.1% | 3.6% | 1.3% |
+| 31 min | NZD | ANZ Business Confidence (Apr) |  |  | 57.5 |
+| 31 min | NZD | NBNZ Own Activity (Apr) |  |  | 48.6% |
 | 02:30 | AUD | CPI Index Number (Q1) |  |  | 139.40 |
 | 02:30 | AUD | Housing Credit (Mar) |  |  | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Mar) |  | 0.5% | 0.5% |
