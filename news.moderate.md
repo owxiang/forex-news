@@ -10,8 +10,8 @@
 | 02:30 | CNY | Non-Manufacturing PMI (Apr) | 50.4 | 50.6 | 50.8 |
 | 02:45 | CNY | Caixin Manufacturing PMI (Apr) | 50.4 | 49.7 | 51.2 |
 | 06:30 | EUR | French Consumer Spending (MoM) (Mar) | -1.0% | 0.0% | -0.2% |
-| 06:30 | EUR | French GDP (YoY) (Q1) | 0.8% | 0.7% | 0.8% |
 | 06:30 | EUR | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
+| 06:30 | EUR | French GDP (YoY) (Q1) | 0.8% | 0.7% | 0.8% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Apr) | 3.4% | 4.1% | 3.9% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Apr) | -0.6% | -0.1% | 0.0% |
 | 07:00 | EUR | German Retail Sales (MoM) (Mar) | -0.2% | -0.4% | 0.2% |
@@ -21,8 +21,8 @@
 | 08:55 | EUR | German Unemployment Change (Apr) | 4K | 16K | 26K |
 | 08:55 | EUR | German Unemployment Rate (Apr) | 6.3% | 6.3% | 6.3% |
 | 09:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
-| 51 min | EUR | GDP (YoY) (Q1) |  | 1.0% | 1.2% |
-| 51 min | EUR | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.0% | 1.2% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.4% | 0.2% | 0.2% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 76.2% |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  |  | -0.6% |
 | 13:00 | MXN | GDP (YoY) (Q1) |  |  | 0.5% |
