@@ -27,5 +27,5 @@
 | 15:00 | USD | ISM Manufacturing New Orders Index (Apr) | 47.2 |  | 45.2 |
 | 16:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction | 4.220% |  | 4.225% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.209T |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.209T |
 | 23:45 | NZD | Building Consents (MoM) (Mar) |  |  | 0.7% |

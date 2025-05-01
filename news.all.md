@@ -43,6 +43,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.220% |  | 4.225% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.1% | 2.4% | 2.4% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.209T |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.209T |
 | 23:45 | NZD | Low | Building Consents (MoM) (Mar) |  |  | 0.7% |
