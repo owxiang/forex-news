@@ -21,8 +21,8 @@
 | 09:30 | GBP | Mortgage Lending (Mar) |  | 3.80B | 3.29B |
 | 09:30 | GBP | Net Lending to Individuals (Mar) |  | 4.400B | 4.600B |
 | 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
-| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 12:00 | USD | Dallas Fed PCE (Mar) |  |  | 3.00% |
 | 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 275.240K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |
