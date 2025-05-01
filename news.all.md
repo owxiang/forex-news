@@ -15,7 +15,7 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
-| 06:00 | JPY | Low | Household Confidence (Apr) |  | 33.9 | 34.1 |
+| 49 min | JPY | Low | Household Confidence (Apr) |  | 33.9 | 34.1 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  |  | 0.0% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  |  | 3.9% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Mar) |  | 1.9% | 1.6% |

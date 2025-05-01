@@ -11,7 +11,7 @@
 | 02:30 | AUD | Exports (MoM) (Mar) | 7.6% |  | -4.2% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q1) | 3.3% | 0.3% | 0.2% |
 | 02:30 | AUD | Imports (MoM) (Mar) | -2.2% |  | 1.8% |
-| 06:00 | JPY | Household Confidence (Apr) |  | 33.9 | 34.1 |
+| 49 min | JPY | Household Confidence (Apr) |  | 33.9 | 34.1 |
 | 07:30 | CHF | Retail Sales (YoY) (Mar) |  | 1.9% | 1.6% |
 | 07:30 | AUD | Commodity Prices (YoY) (Apr) |  |  | -6.5% |
 | 09:30 | GBP | BoE Consumer Credit (Mar) |  | 1.200B | 1.358B |
