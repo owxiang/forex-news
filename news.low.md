@@ -23,9 +23,9 @@
 | 12:30 | USD | Challenger Job Cuts (YoY) | 62.7% |  | 204.8% |
 | 12:30 | USD | Challenger Job Cuts (Apr) | 105.441K |  | 275.240K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 226.00K |  | 220.50K |
-| 18 min | CAD | S&P Global Manufacturing PMI (Apr) |  |  | 46.3 |
-| 48 min | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 45.2 |
-| 15:30 | USD | Natural Gas Storage |  | 111B | 88B |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Apr) | 45.3 |  | 46.3 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) | 47.2 |  | 45.2 |
+| 24 min | USD | Natural Gas Storage |  | 111B | 88B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.209T |

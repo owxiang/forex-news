@@ -33,14 +33,14 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,916K | 1,860K | 1,833K |
 | 13:30 | USD | High | Initial Jobless Claims | 241K | 224K | 223K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.00K |  | 220.50K |
-| 18 min | CAD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 46.3 |
-| 33 min | USD | High | S&P Global Manufacturing PMI (Apr) |  | 50.7 | 50.2 |
-| 48 min | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.2% | 0.7% |
-| 48 min | USD | Moderate | ISM Manufacturing Employment (Apr) |  |  | 44.7 |
-| 48 min | USD | Low | ISM Manufacturing New Orders Index (Apr) |  |  | 45.2 |
-| 48 min | USD | High | ISM Manufacturing PMI (Apr) |  | 48.0 | 49.0 |
-| 48 min | USD | High | ISM Manufacturing Prices (Apr) |  | 72.9 | 69.4 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 111B | 88B |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Apr) | 45.3 |  | 46.3 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) | 50.2 | 50.7 | 50.2 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) | -0.5% | 0.2% | 0.6% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) | 46.5 |  | 44.7 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) | 47.2 |  | 45.2 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Apr) | 48.7 | 48.0 | 49.0 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Apr) | 69.8 | 72.9 | 69.4 |
+| 24 min | USD | Low | Natural Gas Storage |  | 111B | 88B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.225% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
