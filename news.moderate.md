@@ -7,8 +7,7 @@
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
-| 23 min | CHF | procure.ch Manufacturing PMI (Apr) |  | 48.6 | 48.9 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
+| 21 min | GBP | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,841K |
 | 15:00 | USD | Construction Spending (MoM) (Mar) |  | 0.2% | 0.7% |
 | 15:00 | USD | ISM Manufacturing Employment (Apr) |  |  | 44.7 |

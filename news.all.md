@@ -21,14 +21,13 @@
 | 07:30 | CHF | Low | Retail Sales (YoY) (Mar) | 2.2% | 1.9% | 1.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Apr) | -6.1% |  | -7.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 23 min | CHF | Moderate | procure.ch Manufacturing PMI (Apr) |  | 48.6 | 48.9 |
-| 09:30 | GBP | Low | BoE Consumer Credit (Mar) |  | 1.200B | 1.358B |
-| 09:30 | GBP | Low | M3 Money Supply (Mar) |  |  | 3,119.0B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Mar) |  | 0.2% | 0.2% |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
-| 09:30 | GBP | Low | Mortgage Approvals (Mar) |  | 64.00K | 65.48K |
-| 09:30 | GBP | Low | Mortgage Lending (Mar) |  | 3.80B | 3.29B |
-| 09:30 | GBP | Low | Net Lending to Individuals (Mar) |  | 4.400B | 4.600B |
+| 21 min | GBP | Low | BoE Consumer Credit (Mar) |  | 1.200B | 1.358B |
+| 21 min | GBP | Low | M3 Money Supply (Mar) |  |  | 3,119.0B |
+| 21 min | GBP | Low | M4 Money Supply (MoM) (Mar) |  | 0.2% | 0.2% |
+| 21 min | GBP | Moderate | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |
+| 21 min | GBP | Low | Mortgage Approvals (Mar) |  | 64.00K | 65.48K |
+| 21 min | GBP | Low | Mortgage Lending (Mar) |  | 3.80B | 3.29B |
+| 21 min | GBP | Low | Net Lending to Individuals (Mar) |  | 4.400B | 4.600B |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 275.240K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,841K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 224K | 222K |
