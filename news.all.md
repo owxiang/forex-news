@@ -28,7 +28,7 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Mar) | 64.31K | 64.00K | 65.09K |
 | 09:30 | GBP | Low | Mortgage Lending (Mar) | 12.96B | 3.80B | 3.30B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Mar) | 13.800B | 4.400B | 4.600B |
-| 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 275.240K |
+| 24 min | USD | Low | Challenger Job Cuts (Apr) |  |  | 275.240K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,841K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 224K | 222K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.25K |
