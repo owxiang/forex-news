@@ -28,8 +28,8 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Mar) | 64.31K | 64.00K | 65.09K |
 | 09:30 | GBP | Low | Mortgage Lending (Mar) | 12.96B | 3.80B | 3.30B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Mar) | 13.800B | 4.400B | 4.600B |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 62.7% |  | 204.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) | 105.441K |  | 275.240K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 62.7% |  | 204.8% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,916K | 1,860K | 1,833K |
 | 13:30 | USD | High | Initial Jobless Claims | 241K | 224K | 223K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.00K |  | 220.50K |
@@ -43,6 +43,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.220% |  | 4.225% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.1% | 2.4% | 2.4% |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,727B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.209T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,709B |  | 6,727B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.000T |  | 3.209T |
 | 23:45 | NZD | Low | Building Consents (MoM) (Mar) |  |  | 0.7% |
