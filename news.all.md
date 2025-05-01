@@ -18,9 +18,9 @@
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
 | 06:00 | JPY | Low | Household Confidence (Apr) | 31.2 | 33.9 | 34.1 |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Mar) |  | 1.9% | 1.6% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Apr) |  |  | -6.5% |
-| 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 20 min | CHF | Low | Retail Sales (YoY) (Mar) |  | 1.9% | 1.6% |
+| 20 min | AUD | Low | Commodity Prices (YoY) (Apr) |  |  | -6.5% |
+| 20 min | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Apr) |  | 48.6 | 48.9 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Mar) |  | 1.200B | 1.358B |
 | 09:30 | GBP | Low | M3 Money Supply (Mar) |  |  | 3,119.0B |
