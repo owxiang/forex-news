@@ -3,6 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Apr) | 51.7 | 51.7 | 52.1 |
+| 01:00 | GBP | Moderate | U.K. General Election |  |  |  |
+| 01:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 01:00 | KRW | Low | Exports (YoY) (Apr) | 3.7% | -1.6% | 3.0% |
 | 01:00 | KRW | Low | Imports (YoY) (Apr) | -2.7% | -6.9% | 2.3% |
 | 01:00 | KRW | Low | Trade Balance (Apr) | 4.88B | 4.40B | 4.92B |
@@ -15,9 +17,7 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
-| 49 min | JPY | Low | Household Confidence (Apr) |  | 33.9 | 34.1 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  |  | 0.0% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  |  | 3.9% |
+| 06:00 | JPY | Low | Household Confidence (Apr) | 31.2 | 33.9 | 34.1 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Mar) |  | 1.9% | 1.6% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Apr) |  |  | -6.5% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
@@ -29,10 +29,6 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Mar) |  | 64.00K | 65.48K |
 | 09:30 | GBP | Low | Mortgage Lending (Mar) |  | 3.80B | 3.29B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Mar) |  | 4.400B | 4.600B |
-| 10:00 | ZAR | Low | Manufacturing PMI (Apr) |  |  | 48.7 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 12:00 | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.00% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 275.240K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,841K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 224K | 222K |

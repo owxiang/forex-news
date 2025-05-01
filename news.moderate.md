@@ -2,11 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 01:00 | GBP | U.K. General Election |  |  |  |
 | 02:30 | AUD | Trade Balance (Mar) | 6.900B | 3.230B | 2.852B |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (Apr) |  |  | 0.0% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Apr) |  |  | 3.9% |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Apr) |  | 48.6 | 48.9 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Apr) |  | 44.0 | 44.9 |

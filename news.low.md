@@ -11,7 +11,7 @@
 | 02:30 | AUD | Exports (MoM) (Mar) | 7.6% |  | -4.2% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q1) | 3.3% | 0.3% | 0.2% |
 | 02:30 | AUD | Imports (MoM) (Mar) | -2.2% |  | 1.8% |
-| 49 min | JPY | Household Confidence (Apr) |  | 33.9 | 34.1 |
+| 06:00 | JPY | Household Confidence (Apr) | 31.2 | 33.9 | 34.1 |
 | 07:30 | CHF | Retail Sales (YoY) (Mar) |  | 1.9% | 1.6% |
 | 07:30 | AUD | Commodity Prices (YoY) (Apr) |  |  | -6.5% |
 | 09:30 | GBP | BoE Consumer Credit (Mar) |  | 1.200B | 1.358B |
@@ -20,10 +20,6 @@
 | 09:30 | GBP | Mortgage Approvals (Mar) |  | 64.00K | 65.48K |
 | 09:30 | GBP | Mortgage Lending (Mar) |  | 3.80B | 3.29B |
 | 09:30 | GBP | Net Lending to Individuals (Mar) |  | 4.400B | 4.600B |
-| 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
-| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
-| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 12:00 | USD | Dallas Fed PCE (Mar) |  |  | 3.00% |
 | 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 275.240K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Apr) |  |  | 46.3 |

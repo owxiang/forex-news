@@ -2,6 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 01:00 | USD | U.S. President Trump Speaks |  |  |  |
 | 04:00 | JPY | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
 | 13:30 | USD | Initial Jobless Claims |  | 224K | 222K |
 | 14:45 | USD | S&P Global Manufacturing PMI (Apr) |  | 50.7 | 50.2 |
