@@ -7,12 +7,12 @@
 | 01:00 | KRW | Low | Imports (YoY) (Apr) | -2.7% | -6.9% | 2.3% |
 | 01:00 | KRW | Low | Trade Balance (Apr) | 4.88B | 4.40B | 4.92B |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Apr) | 48.7 | 48.5 | 48.4 |
-| 58 min | AUD | Low | Export Price Index (QoQ) (Q1) |  |  | 3.6% |
-| 58 min | AUD | Low | Exports (MoM) (Mar) |  |  | -3.6% |
-| 58 min | AUD | Low | Import Price Index (QoQ) (Q1) |  | 0.3% | 0.2% |
-| 58 min | AUD | Low | Imports (MoM) (Mar) |  |  | 1.6% |
-| 57 min | AUD | Moderate | Trade Balance (Mar) |  | 3.230B | 2.968B |
-| 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | AUD | Low | Export Price Index (QoQ) (Q1) | 2.1% |  | 3.6% |
+| 02:30 | AUD | Low | Exports (MoM) (Mar) | 7.6% |  | -3.6% |
+| 02:30 | AUD | Low | Import Price Index (QoQ) (Q1) | 3.3% | 0.3% | 0.2% |
+| 02:30 | AUD | Low | Imports (MoM) (Mar) | -2.2% |  | 1.8% |
+| 02:30 | AUD | Moderate | Trade Balance (Mar) | 6.900B | 3.230B | 2.968B |
+| 55 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
 | 06:00 | JPY | Low | Household Confidence (Apr) |  | 33.9 | 34.1 |
@@ -30,8 +30,8 @@
 | 09:30 | GBP | Low | Mortgage Lending (Mar) |  | 3.80B | 3.29B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Mar) |  | 4.400B | 4.600B |
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) |  |  | 48.7 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 12:00 | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.00% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 275.240K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,841K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 57 min | AUD | Trade Balance (Mar) |  | 3.230B | 2.968B |
-| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 02:30 | AUD | Trade Balance (Mar) | 6.900B | 3.230B | 2.968B |
+| 55 min | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:00 | GBP | Nationwide HPI (YoY) (Apr) |  |  | 3.9% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Apr) |  |  | 0.0% |
