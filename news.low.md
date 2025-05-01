@@ -20,10 +20,11 @@
 | 09:30 | GBP | Mortgage Approvals (Mar) | 64.31K | 64.00K | 65.09K |
 | 09:30 | GBP | Mortgage Lending (Mar) | 12.96B | 3.80B | 3.30B |
 | 09:30 | GBP | Net Lending to Individuals (Mar) | 13.800B | 4.400B | 4.600B |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 62.7% |  | 204.8% |
 | 12:30 | USD | Challenger Job Cuts (Apr) | 105.441K |  | 275.240K |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Apr) |  |  | 46.3 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 45.2 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 226.00K |  | 220.50K |
+| 18 min | CAD | S&P Global Manufacturing PMI (Apr) |  |  | 46.3 |
+| 48 min | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 45.2 |
 | 15:30 | USD | Natural Gas Storage |  | 111B | 88B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |

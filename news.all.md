@@ -28,17 +28,18 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Mar) | 64.31K | 64.00K | 65.09K |
 | 09:30 | GBP | Low | Mortgage Lending (Mar) | 12.96B | 3.80B | 3.30B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Mar) | 13.800B | 4.400B | 4.600B |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 62.7% |  | 204.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) | 105.441K |  | 275.240K |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,841K |
-| 19 min | USD | High | Initial Jobless Claims |  | 224K | 222K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.25K |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 46.3 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Apr) |  | 50.7 | 50.2 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.2% | 0.7% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) |  |  | 44.7 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) |  |  | 45.2 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Apr) |  | 48.0 | 49.0 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Apr) |  | 72.9 | 69.4 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,916K | 1,860K | 1,833K |
+| 13:30 | USD | High | Initial Jobless Claims | 241K | 224K | 223K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 226.00K |  | 220.50K |
+| 18 min | CAD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 46.3 |
+| 33 min | USD | High | S&P Global Manufacturing PMI (Apr) |  | 50.7 | 50.2 |
+| 48 min | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.2% | 0.7% |
+| 48 min | USD | Moderate | ISM Manufacturing Employment (Apr) |  |  | 44.7 |
+| 48 min | USD | Low | ISM Manufacturing New Orders Index (Apr) |  |  | 45.2 |
+| 48 min | USD | High | ISM Manufacturing PMI (Apr) |  | 48.0 | 49.0 |
+| 48 min | USD | High | ISM Manufacturing Prices (Apr) |  | 72.9 | 69.4 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 111B | 88B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.225% |

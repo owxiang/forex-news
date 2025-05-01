@@ -8,8 +8,8 @@
 | 04:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Apr) | 45.4 | 44.0 | 44.9 |
-| 19 min | USD | Continuing Jobless Claims |  | 1,860K | 1,841K |
-| 15:00 | USD | Construction Spending (MoM) (Mar) |  | 0.2% | 0.7% |
-| 15:00 | USD | ISM Manufacturing Employment (Apr) |  |  | 44.7 |
+| 13:30 | USD | Continuing Jobless Claims | 1,916K | 1,860K | 1,833K |
+| 48 min | USD | Construction Spending (MoM) (Mar) |  | 0.2% | 0.7% |
+| 48 min | USD | ISM Manufacturing Employment (Apr) |  |  | 44.7 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,727B |
