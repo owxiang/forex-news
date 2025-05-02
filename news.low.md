@@ -29,9 +29,9 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.7% |  | 2.5% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.9% |  | 0.8% |
 | 10:00 | ZAR | Manufacturing PMI (Apr) | 44.7 |  | 48.7 |
-| 23 min | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 53 min | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 53 min | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
+| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
 | 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |

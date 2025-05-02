@@ -11,8 +11,8 @@
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | -5.1% | -2.0% | -3.2% |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 47.5 |  | 49.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.9% | 0.8% | 0.8% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) | 0.3% | 0.4% | 0.8% |
 | 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
@@ -43,9 +43,9 @@
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.9% |  | 0.8% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Mar) | 6.2% | 6.1% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) | 44.7 |  | 48.7 |
-| 23 min | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 53 min | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 53 min | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -14.5% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 686.15B |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |

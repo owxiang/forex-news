@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
 | 02:30 | AUD | PPI (QoQ) (Q1) | 0.9% | 0.8% | 0.8% |
+| 02:30 | AUD | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
 | 02:30 | AUD | Retail Sales (MoM) (Mar) | 0.3% | 0.4% | 0.8% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Apr) | 48.1 | 50.0 | 49.5 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Apr) | 45.8 | 48.7 | 48.9 |
