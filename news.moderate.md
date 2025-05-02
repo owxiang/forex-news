@@ -12,9 +12,9 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Apr) | 48.4 | 48.0 | 48.3 |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) | 49.0 | 48.7 | 48.6 |
-| 51 min | EUR | Core CPI (YoY) (Apr) |  | 2.5% | 2.4% |
-| 51 min | EUR | CPI (MoM) (Apr) |  |  | 0.6% |
-| 51 min | EUR | Unemployment Rate (Mar) |  | 6.1% | 6.1% |
+| 10:00 | EUR | Core CPI (YoY) (Apr) | 2.7% | 2.5% | 2.4% |
+| 10:00 | EUR | CPI (MoM) (Apr) | 0.6% |  | 0.6% |
+| 10:00 | EUR | Unemployment Rate (Mar) | 6.2% | 6.1% | 6.2% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.9% | 3.8% |
 | 13:30 | USD | Participation Rate (Apr) |  |  | 62.5% |
 | 13:30 | USD | Private Nonfarm Payrolls (Apr) |  | 124K | 209K |

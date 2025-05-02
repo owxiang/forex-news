@@ -20,18 +20,18 @@
 | 07:45 | EUR | French Government Budget Balance (Mar) | -47.0B |  | -40.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) | 6.0% | 6.0% | 5.9% |
 | 09:00 | NOK | Manufacturing PMI (Apr) | 46.1 |  | 50.1 |
-| 21 min | HKD | GDP (YoY) (Q1) |  |  | 2.4% |
-| 21 min | HKD | GDP (QoQ) (Q1) |  |  | 0.8% |
-| 21 min | HKD | Retail Sales (YoY) (Mar) |  |  | -13.0% |
-| 51 min | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 4.71B |
-| 51 min | EUR | Core CPI (MoM) (Apr) |  |  | 1.0% |
-| 51 min | EUR | CPI, n.s.a (Apr) |  |  | 128.04 |
-| 51 min | EUR | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.5% |
-| 51 min | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.8% |
-| 51 min | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
-| 10:30 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 09:30 | HKD | GDP (YoY) (Q1) | 3.1% |  | 2.4% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 2.0% |  | 0.8% |
+| 09:30 | HKD | Retail Sales (YoY) (Mar) | -3.5% |  | -13.0% |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Mar) | 5.96B |  | 4.71B |
+| 10:00 | EUR | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
+| 10:00 | EUR | CPI, n.s.a (Apr) | 128.76 |  | 128.04 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.7% |  | 2.5% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.9% |  | 0.8% |
+| 10:00 | ZAR | Manufacturing PMI (Apr) | 44.7 |  | 48.7 |
+| 23 min | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
+| 53 min | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
+| 53 min | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
 | 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
@@ -43,6 +43,7 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Mar) |  |  | 10.4% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Mar) |  |  | 0.0% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Mar) |  |  | 0.4% |
+| 15:00 | USD | Total Vehicle Sales (Apr) |  | 15.70M | 17.77M |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Apr) |  |  | 46.50 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | -6.2% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
