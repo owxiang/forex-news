@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.1% | 0.1% | 0.2% |
 | 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.1% | 2.1% | 2.1% |
+| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.1% | 0.1% | 0.2% |
 | 00:30 | JPY | Low | Jobs/applications ratio (Mar) | 1.26 | 1.25 | 1.24 |
 | 00:30 | JPY | Low | Unemployment Rate (Mar) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 435.2B |  | 218.2B |
@@ -30,14 +30,14 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Apr) | 46.1 |  | 50.1 |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 49.0 | 48.7 | 48.6 |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.0% |  | 0.8% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) | 3.1% |  | 2.4% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.0% |  | 0.8% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | -3.5% |  | -13.0% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) | 5.96B |  | 4.71B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.5% | 2.4% |
-| 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.1% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% |  | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.1% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 128.76 |  | 128.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.7% |  | 2.5% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.9% |  | 0.8% |
@@ -46,10 +46,9 @@
 | 12:30 | INR | Low | Bank Loan Growth | 10.3% |  | 11.0% |
 | 12:30 | INR | Low | Deposit Growth | 10.2% |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD | 688.13B |  | 686.15B |
-| 13:00 | USD | Low | All Car Sales (Apr) | 2.89M |  | 3.16M |
 | 13:00 | USD | Low | All Truck Sales (Apr) | 14.39M |  | 14.67M |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 11.90% |  | 12.50% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 11.90% |  | 12.50% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.8% | 3.9% | 3.8% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Apr) | 34.3 | 34.2 | 34.3 |
@@ -62,13 +61,14 @@
 | 13:30 | USD | High | Unemployment Rate (Apr) | 4.2% | 4.2% | 4.2% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Apr) | 50.3 |  | 51.8 |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Apr) | 49.6 |  | 50.6 |
+| 15:00 | USD | Low | All Car Sales (Apr) | 2.89M |  | 3.16M |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Mar) | 10.5% |  | 10.4% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Mar) | 0.0% |  | 0.0% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Mar) | 4.3% | 4.4% | 0.5% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Mar) | -0.2% |  | 0.3% |
-| 54 min | MXN | Low | S&P Global Manufacturing PMI (Apr) |  |  | 46.50 |
-| 17:00 | USD | Low | Total Vehicle Sales (Apr) |  | 15.70M | 17.77M |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | -6.2% |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Apr) | 44.80 |  | 46.50 |
+| 54 min | USD | Low | Total Vehicle Sales (Apr) |  | 15.70M | 17.77M |
+| 54 min | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | -6.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 485 | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 20.5K |
