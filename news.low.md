@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Apr) | 2.1% | 2.1% | 2.1% |
 | 00:00 | KRW | CPI (MoM) (Apr) | 0.1% | 0.1% | 0.2% |
+| 00:00 | KRW | CPI (YoY) (Apr) | 2.1% | 2.1% | 2.1% |
 | 00:30 | JPY | Jobs/applications ratio (Mar) | 1.26 | 1.25 | 1.24 |
 | 00:30 | JPY | Unemployment Rate (Mar) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | Foreign Bonds Buying | 435.2B |  | 218.2B |
@@ -20,8 +20,8 @@
 | 07:45 | EUR | French Government Budget Balance (Mar) | -47.0B |  | -40.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) | 6.0% | 6.0% | 5.9% |
 | 09:00 | NOK | Manufacturing PMI (Apr) | 46.1 |  | 50.1 |
-| 09:30 | HKD | GDP (YoY) (Q1) | 3.1% |  | 2.4% |
 | 09:30 | HKD | GDP (QoQ) (Q1) | 2.0% |  | 0.8% |
+| 09:30 | HKD | GDP (YoY) (Q1) | 3.1% |  | 2.4% |
 | 09:30 | HKD | Retail Sales (YoY) (Mar) | -3.5% |  | -13.0% |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Mar) | 5.96B |  | 4.71B |
 | 10:00 | EUR | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
@@ -33,8 +33,8 @@
 | 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD | 688.13B |  | 686.15B |
 | 13:00 | USD | All Truck Sales (Apr) | 14.39M |  | 14.67M |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) | 11.90% |  | 12.50% |
+| 13:00 | ZAR | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:30 | USD | Average Weekly Hours (Apr) | 34.3 | 34.2 | 34.3 |
 | 13:30 | USD | Government Payrolls (Apr) | 10.0K |  | 15.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) | -1K | -5K | 3K |

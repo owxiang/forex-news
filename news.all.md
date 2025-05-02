@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.1% | 2.1% | 2.1% |
 | 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.1% | 0.1% | 0.2% |
+| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.1% | 2.1% | 2.1% |
 | 00:30 | JPY | Low | Jobs/applications ratio (Mar) | 1.26 | 1.25 | 1.24 |
 | 00:30 | JPY | Low | Unemployment Rate (Mar) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 435.2B |  | 218.2B |
@@ -30,8 +30,8 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Apr) | 46.1 |  | 50.1 |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 49.0 | 48.7 | 48.6 |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) | 3.1% |  | 2.4% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.0% |  | 0.8% |
+| 09:30 | HKD | Low | GDP (YoY) (Q1) | 3.1% |  | 2.4% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | -3.5% |  | -13.0% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) | 5.96B |  | 4.71B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
@@ -47,10 +47,10 @@
 | 12:30 | INR | Low | Deposit Growth | 10.2% |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD | 688.13B |  | 686.15B |
 | 13:00 | USD | Low | All Truck Sales (Apr) | 14.39M |  | 14.67M |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 11.90% |  | 12.50% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.8% | 3.9% | 3.8% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Apr) | 34.3 | 34.2 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Apr) | 10.0K |  | 15.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Apr) | -1K | -5K | 3K |
