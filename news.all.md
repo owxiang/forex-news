@@ -16,8 +16,8 @@
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) | 0.3% | 0.4% | 0.8% |
 | 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 05:00 | IDR | Low | Inflation (MoM) (Apr) | 1.17% |  | 1.65% |
+| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Apr) | 58.2 | 58.4 | 58.1 |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Apr) | 2.00% | 2.10% | 2.10% |
 | 07:45 | EUR | Low | French Government Budget Balance (Mar) | -47.0B |  | -40.3B |
@@ -34,8 +34,8 @@
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.0% |  | 0.8% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | -3.5% |  | -13.0% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) | 5.96B |  | 4.71B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.5% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.5% | 2.4% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.1% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 128.76 |  | 128.04 |
@@ -47,8 +47,8 @@
 | 12:30 | INR | Low | Deposit Growth | 10.2% |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD | 688.13B |  | 686.15B |
 | 13:00 | USD | Low | All Truck Sales (Apr) | 14.39M |  | 14.67M |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 11.90% |  | 12.50% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.8% | 3.9% | 3.8% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Apr) | 34.3 | 34.2 | 34.3 |

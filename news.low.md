@@ -13,8 +13,8 @@
 | 01:30 | IDR | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
 | 02:30 | AUD | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
-| 05:00 | IDR | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 05:00 | IDR | Inflation (MoM) (Apr) | 1.17% |  | 1.65% |
+| 05:00 | IDR | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Apr) | 58.2 | 58.4 | 58.1 |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Apr) | 2.00% | 2.10% | 2.10% |
 | 07:45 | EUR | French Government Budget Balance (Mar) | -47.0B |  | -40.3B |
@@ -33,8 +33,8 @@
 | 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD | 688.13B |  | 686.15B |
 | 13:00 | USD | All Truck Sales (Apr) | 14.39M |  | 14.67M |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) | 11.90% |  | 12.50% |
+| 13:00 | ZAR | Total Vehicle Sales (Apr) | 42.40K |  | 49.46K |
 | 13:30 | USD | Average Weekly Hours (Apr) | 34.3 | 34.2 | 34.3 |
 | 13:30 | USD | Government Payrolls (Apr) | 10.0K |  | 15.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) | -1K | -5K | 3K |
