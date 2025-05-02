@@ -13,13 +13,13 @@
 | 01:30 | IDR | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
 | 02:30 | AUD | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
-| 05:00 | IDR | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 05:00 | IDR | Inflation (MoM) (Apr) | 1.17% |  | 1.65% |
+| 05:00 | IDR | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Apr) | 58.2 | 58.4 | 58.1 |
-| 53 min | NOK | Unemployment Change (Apr) |  |  | 78.06K |
-| 53 min | NOK | Unemployment Rate n.s.a. (Apr) |  | 2.10% | 2.10% |
-| 07:30 | CHF | Retail Sales (YoY) (Mar) |  |  | 1.6% |
-| 07:45 | EUR | French Government Budget Balance (Mar) |  |  | -40.3B |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Apr) | 2.00% | 2.10% | 2.10% |
+| 21 min | CHF | Retail Sales (YoY) (Mar) |  |  | 1.6% |
+| 21 min | NOK | Unemployment Change (Apr) |  |  | 78.06K |
+| 36 min | EUR | French Government Budget Balance (Mar) |  |  | -40.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) |  | 6.0% | 5.9% |
 | 09:00 | NOK | Manufacturing PMI (Apr) |  |  | 50.6 |
 | 09:30 | HKD | GDP (YoY) (Q1) |  |  | 2.4% |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.8% |
 | 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
 | 10:30 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
 | 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |

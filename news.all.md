@@ -11,18 +11,18 @@
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | -5.1% | -2.0% | -3.2% |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 47.5 |  | 49.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.9% | 0.8% | 0.8% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) | 0.3% | 0.4% | 0.8% |
 | 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
-| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 05:00 | IDR | Low | Inflation (MoM) (Apr) | 1.17% |  | 1.65% |
+| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Apr) | 58.2 | 58.4 | 58.1 |
-| 53 min | NOK | Low | Unemployment Change (Apr) |  |  | 78.06K |
-| 53 min | NOK | Low | Unemployment Rate n.s.a. (Apr) |  | 2.10% | 2.10% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Mar) |  |  | 1.6% |
-| 07:45 | EUR | Low | French Government Budget Balance (Mar) |  |  | -40.3B |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Apr) | 2.00% | 2.10% | 2.10% |
+| 21 min | CHF | Low | Retail Sales (YoY) (Mar) |  |  | 1.6% |
+| 21 min | NOK | Low | Unemployment Change (Apr) |  |  | 78.06K |
+| 36 min | EUR | Low | French Government Budget Balance (Mar) |  |  | -40.3B |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Apr) |  | 50.0 | 49.5 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Apr) |  | 48.7 | 48.9 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Apr) |  | 47.1 | 46.6 |
@@ -38,16 +38,16 @@
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) |  |  | 4.71B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) |  |  | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.5% | 2.4% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Apr) |  |  | 0.6% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) |  | 2.1% | 2.2% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Apr) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) |  |  | 128.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.5% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.8% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Mar) |  | 6.1% | 6.1% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) |  |  | 48.7 |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 686.15B |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
