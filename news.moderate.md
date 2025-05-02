@@ -22,12 +22,12 @@
 | 15:00 | USD | Factory Orders (MoM) (Mar) | 4.3% | 4.4% | 0.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 479 | 485 | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 584 |  | 587 |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 20.5K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 171.0K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 175.4K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 37.7K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -75.9K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -54.6K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 49.9K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 177.8K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 65.0K |
+| 25 min | GBP | CFTC GBP speculative net positions |  |  | 20.5K |
+| 25 min | USD | CFTC Crude Oil speculative net positions |  |  | 171.0K |
+| 25 min | USD | CFTC Gold speculative net positions |  |  | 175.4K |
+| 25 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 37.7K |
+| 25 min | USD | CFTC S&P 500 speculative net positions |  |  | -75.9K |
+| 25 min | AUD | CFTC AUD speculative net positions |  |  | -54.6K |
+| 25 min | BRL | CFTC BRL speculative net positions |  |  | 49.9K |
+| 25 min | JPY | CFTC JPY speculative net positions |  |  | 177.8K |
+| 25 min | EUR | CFTC EUR speculative net positions |  |  | 65.0K |
