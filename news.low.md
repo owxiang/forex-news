@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | CPI (YoY) (Apr) | 2.1% | 2.1% | 2.1% |
 | 00:00 | KRW | CPI (MoM) (Apr) | 0.1% | 0.1% | 0.2% |
-| 23 min | JPY | Jobs/applications ratio (Mar) |  | 1.25 | 1.24 |
-| 23 min | JPY | Unemployment Rate (Mar) |  | 2.4% | 2.4% |
-| 43 min | JPY | Foreign Bonds Buying |  |  | 223.7B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 705.6B |
-| 43 min | JPY | Monetary Base (YoY) (Apr) |  | -2.0% | -3.2% |
+| 00:30 | JPY | Jobs/applications ratio (Mar) | 1.26 | 1.25 | 1.24 |
+| 00:30 | JPY | Unemployment Rate (Mar) | 2.5% | 2.4% | 2.4% |
+| 00:50 | JPY | Foreign Bonds Buying | 435.2B |  | 218.2B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 278.3B |  | 705.6B |
+| 00:50 | JPY | Monetary Base (YoY) (Apr) | -5.1% | -2.0% | -3.2% |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 49.1 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Apr) |  |  | 52.4 |
 | 02:30 | AUD | Retail Sales (QoQ) (Q1) |  |  | 1.0% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) |  |  | 2.48% |
-| 05:00 | IDR | Inflation (MoM) (Apr) |  |  | 1.65% |
 | 05:00 | IDR | Inflation (YoY) (Apr) |  |  | 1.03% |
+| 05:00 | IDR | Inflation (MoM) (Apr) |  |  | 1.65% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Apr) |  | 58.1 | 58.1 |
 | 07:00 | NOK | Unemployment Change (Apr) |  |  | 78.06K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Apr) |  |  | 2.10% |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.8% |
 | 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
 | 10:30 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
+| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
 | 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
