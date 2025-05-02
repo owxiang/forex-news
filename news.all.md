@@ -34,8 +34,8 @@
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.0% |  | 0.8% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | -3.5% |  | -13.0% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) | 5.96B |  | 4.71B |
-| 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.5% | 2.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.1% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 128.76 |  | 128.04 |
@@ -70,23 +70,23 @@
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | -6.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 | 485 | 483 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 584 |  | 587 |
-| 25 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 20.5K |
-| 25 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 25 min | USD | Low | CFTC Copper speculative net positions |  |  | 24.8K |
-| 25 min | USD | Low | CFTC Corn speculative net positions |  |  | 219.8K |
-| 25 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 171.0K |
-| 25 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 175.4K |
-| 25 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 37.7K |
-| 25 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -104.1K |
-| 25 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -75.9K |
-| 25 min | USD | Low | CFTC Silver speculative net positions |  |  | 44.7K |
-| 25 min | USD | Low | CFTC Soybeans speculative net positions |  |  | 55.7K |
-| 25 min | USD | Low | CFTC Wheat speculative net positions |  |  | -94.0K |
-| 25 min | CAD | Low | CFTC CAD speculative net positions |  |  | -67.2K |
-| 25 min | MXN | Low | CFTC MXN speculative net positions |  |  | 41.2K |
-| 25 min | CHF | Low | CFTC CHF speculative net positions |  |  | -25.5K |
-| 25 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -54.6K |
-| 25 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | 49.9K |
-| 25 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 177.8K |
-| 25 min | NZD | Low | CFTC NZD speculative net positions |  |  | -26.9K |
-| 25 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 65.0K |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 24.0K |  | 20.5K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | -0.3K |  | 0.7K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 19.4K |  | 24.8K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | 175.4K |  | 219.8K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 177.2K |  | 171.0K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 163.3K |  | 175.4K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 30.9K |  | 37.7K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -112.4K |  | -104.1K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -78.7K |  | -75.9K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 49.9K |  | 44.7K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | 59.5K |  | 55.7K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -116.8K |  | -94.0K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -67.2K |  | -67.2K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 59.5K |  | 41.2K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -24.3K |  | -25.5K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -49.9K |  | -54.6K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 68.3K |  | 49.9K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 179.2K |  | 177.8K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -21.5K |  | -26.9K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 75.8K |  | 65.0K |
