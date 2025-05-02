@@ -20,8 +20,8 @@
 | 13:30 | USD | Private Nonfarm Payrolls (Apr) | 167K | 124K | 170K |
 | 13:30 | USD | U6 Unemployment Rate (Apr) | 7.8% |  | 7.9% |
 | 15:00 | USD | Factory Orders (MoM) (Mar) | 4.3% | 4.4% | 0.5% |
-| 53 min | USD | U.S. Baker Hughes Oil Rig Count |  | 485 | 483 |
-| 53 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 587 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 479 | 485 | 483 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 584 |  | 587 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 20.5K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 171.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 175.4K |
