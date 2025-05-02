@@ -15,11 +15,11 @@
 | 10:00 | EUR | Core CPI (YoY) (Apr) | 2.7% | 2.5% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Apr) | 0.6% |  | 0.6% |
 | 10:00 | EUR | Unemployment Rate (Mar) | 6.2% | 6.1% | 6.2% |
-| 18 min | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.9% | 3.8% |
-| 18 min | USD | Participation Rate (Apr) |  |  | 62.5% |
-| 18 min | USD | Private Nonfarm Payrolls (Apr) |  | 124K | 209K |
-| 18 min | USD | U6 Unemployment Rate (Apr) |  |  | 7.9% |
-| 15:00 | USD | Factory Orders (MoM) (Mar) |  | 4.4% | 0.6% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.8% | 3.9% | 3.8% |
+| 13:30 | USD | Participation Rate (Apr) | 62.6% |  | 62.5% |
+| 13:30 | USD | Private Nonfarm Payrolls (Apr) | 167K | 124K | 170K |
+| 13:30 | USD | U6 Unemployment Rate (Apr) | 7.8% |  | 7.9% |
+| 47 min | USD | Factory Orders (MoM) (Mar) |  | 4.4% | 0.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 485 | 483 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 587 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 20.5K |
