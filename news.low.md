@@ -9,9 +9,9 @@
 | 00:50 | JPY | Foreign Bonds Buying | 435.2B |  | 218.2B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 278.3B |  | 705.6B |
 | 00:50 | JPY | Monetary Base (YoY) (Apr) | -5.1% | -2.0% | -3.2% |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 49.1 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Apr) |  |  | 52.4 |
-| 02:30 | AUD | Retail Sales (QoQ) (Q1) |  |  | 1.0% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 47.5 |  | 49.1 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
+| 02:30 | AUD | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) |  |  | 2.48% |
 | 05:00 | IDR | Inflation (YoY) (Apr) |  |  | 1.03% |
 | 05:00 | IDR | Inflation (MoM) (Apr) |  |  | 1.65% |
@@ -35,8 +35,8 @@
 | 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
+| 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 19.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | -5K | 1K |

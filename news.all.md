@@ -9,12 +9,12 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 435.2B |  | 218.2B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 278.3B |  | 705.6B |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | -5.1% | -2.0% | -3.2% |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 49.1 |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Apr) |  |  | 52.4 |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q1) |  |  | 3.7% |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q1) |  | 0.8% | 0.8% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) |  | 0.4% | 0.2% |
-| 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) |  |  | 1.0% |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 47.5 |  | 49.1 |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.9% | 0.8% | 0.8% |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) | 0.3% | 0.4% | 0.2% |
+| 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) |  |  | 2.48% |
 | 05:00 | IDR | Low | Inflation (YoY) (Apr) |  |  | 1.03% |
 | 05:00 | IDR | Low | Inflation (MoM) (Apr) |  |  | 1.65% |
@@ -49,8 +49,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 686.15B |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.9% | 3.8% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
