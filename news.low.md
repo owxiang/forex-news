@@ -12,9 +12,9 @@
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 47.5 |  | 49.1 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
 | 02:30 | AUD | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
-| 05:00 | IDR | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
-| 05:00 | IDR | Inflation (MoM) (Apr) | 1.17% |  | 1.65% |
-| 05:00 | IDR | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
+| 37 min | IDR | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
+| 37 min | IDR | Inflation (YoY) (Apr) | 1.95% |  | 1.03% |
+| 37 min | IDR | Inflation (MoM) (Apr) | 1.17% |  | 1.65% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Apr) |  | 58.1 | 58.1 |
 | 07:00 | NOK | Unemployment Change (Apr) |  |  | 78.06K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Apr) |  |  | 2.10% |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.8% |
 | 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
 | 10:30 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
+| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
 | 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
