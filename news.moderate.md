@@ -5,16 +5,16 @@
 | 02:30 | AUD | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
 | 02:30 | AUD | PPI (QoQ) (Q1) | 0.9% | 0.8% | 0.8% |
 | 02:30 | AUD | Retail Sales (MoM) (Mar) | 0.3% | 0.4% | 0.8% |
-| 8 min | EUR | HCOB Spain Manufacturing PMI (Apr) |  | 50.0 | 49.5 |
-| 23 min | CHF | procure.ch Manufacturing PMI (Apr) |  | 48.7 | 48.9 |
-| 38 min | EUR | HCOB Italy Manufacturing PMI (Apr) |  | 47.1 | 46.6 |
-| 43 min | EUR | HCOB France Manufacturing PMI (Apr) |  | 48.2 | 48.5 |
-| 48 min | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 48.0 | 48.3 |
-| 53 min | EUR | ECB Economic Bulletin |  |  |  |
-| 53 min | EUR | HCOB Eurozone Manufacturing PMI (Apr) |  | 48.7 | 48.6 |
-| 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.5% | 2.4% |
-| 10:00 | EUR | CPI (MoM) (Apr) |  |  | 0.6% |
-| 10:00 | EUR | Unemployment Rate (Mar) |  | 6.1% | 6.1% |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Apr) | 48.1 | 50.0 | 49.5 |
+| 08:30 | CHF | procure.ch Manufacturing PMI (Apr) | 45.8 | 48.7 | 48.9 |
+| 08:45 | EUR | HCOB Italy Manufacturing PMI (Apr) | 49.3 | 47.1 | 46.6 |
+| 08:50 | EUR | HCOB France Manufacturing PMI (Apr) | 48.7 | 48.2 | 48.5 |
+| 08:55 | EUR | HCOB Germany Manufacturing PMI (Apr) | 48.4 | 48.0 | 48.3 |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) | 49.0 | 48.7 | 48.6 |
+| 51 min | EUR | Core CPI (YoY) (Apr) |  | 2.5% | 2.4% |
+| 51 min | EUR | CPI (MoM) (Apr) |  |  | 0.6% |
+| 51 min | EUR | Unemployment Rate (Mar) |  | 6.1% | 6.1% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.9% | 3.8% |
 | 13:30 | USD | Participation Rate (Apr) |  |  | 62.5% |
 | 13:30 | USD | Private Nonfarm Payrolls (Apr) |  | 124K | 209K |

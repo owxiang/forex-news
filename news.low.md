@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Apr) | 0.1% | 0.1% | 0.2% |
 | 00:00 | KRW | CPI (YoY) (Apr) | 2.1% | 2.1% | 2.1% |
+| 00:00 | KRW | CPI (MoM) (Apr) | 0.1% | 0.1% | 0.2% |
 | 00:30 | JPY | Jobs/applications ratio (Mar) | 1.26 | 1.25 | 1.24 |
 | 00:30 | JPY | Unemployment Rate (Mar) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | Foreign Bonds Buying | 435.2B |  | 218.2B |
@@ -18,24 +18,23 @@
 | 06:00 | INR | S&P Global Manufacturing PMI (Apr) | 58.2 | 58.4 | 58.1 |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Apr) | 2.00% | 2.10% | 2.10% |
 | 07:45 | EUR | French Government Budget Balance (Mar) | -47.0B |  | -40.3B |
-| 08:00 | NOK | Unemployment Change (Apr) |  |  | 78.06K |
-| 53 min | EUR | Italian Monthly Unemployment Rate (Mar) |  | 6.0% | 5.9% |
-| 53 min | NOK | Manufacturing PMI (Apr) |  |  | 50.6 |
-| 09:30 | HKD | GDP (YoY) (Q1) |  |  | 2.4% |
-| 09:30 | HKD | GDP (QoQ) (Q1) |  |  | 0.8% |
-| 09:30 | HKD | Retail Sales (YoY) (Mar) |  |  | -13.0% |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 4.71B |
-| 10:00 | EUR | Core CPI (MoM) (Apr) |  |  | 1.0% |
-| 10:00 | EUR | CPI, n.s.a (Apr) |  |  | 128.04 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.5% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.8% |
-| 10:00 | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) | 6.0% | 6.0% | 5.9% |
+| 09:00 | NOK | Manufacturing PMI (Apr) | 46.1 |  | 50.1 |
+| 21 min | HKD | GDP (YoY) (Q1) |  |  | 2.4% |
+| 21 min | HKD | GDP (QoQ) (Q1) |  |  | 0.8% |
+| 21 min | HKD | Retail Sales (YoY) (Mar) |  |  | -13.0% |
+| 51 min | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 4.71B |
+| 51 min | EUR | Core CPI (MoM) (Apr) |  |  | 1.0% |
+| 51 min | EUR | CPI, n.s.a (Apr) |  |  | 128.04 |
+| 51 min | EUR | HICP ex Energy & Food (YoY) (Apr) |  |  | 2.5% |
+| 51 min | EUR | HICP ex Energy and Food (MoM) (Apr) |  |  | 0.8% |
+| 51 min | ZAR | Manufacturing PMI (Apr) |  |  | 48.7 |
 | 10:30 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
 | 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
 | 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 19.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | -5K | 1K |
