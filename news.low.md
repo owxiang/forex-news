@@ -29,12 +29,9 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.7% |  | 2.5% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.9% |  | 0.8% |
 | 10:00 | ZAR | Manufacturing PMI (Apr) | 44.7 |  | 48.7 |
-| 11:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
-| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 12:30 | INR | FX Reserves, USD |  |  | 686.15B |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
+| 24 min | INR | FX Reserves, USD |  |  | 686.15B |
+| 54 min | ZAR | Total Vehicle Sales (Apr) |  |  | 49.49K |
+| 54 min | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 19.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | -5K | 1K |
@@ -44,6 +41,9 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Mar) |  |  | 0.0% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Mar) |  |  | 0.4% |
 | 15:00 | USD | Total Vehicle Sales (Apr) |  | 15.70M | 17.77M |
+| 15:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
+| 15:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 15:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 16:00 | MXN | S&P Global Manufacturing PMI (Apr) |  |  | 46.50 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | -6.2% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |

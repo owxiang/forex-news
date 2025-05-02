@@ -11,8 +11,8 @@
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | -5.1% | -2.0% | -3.2% |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 47.5 |  | 49.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Apr) | 46.7 |  | 52.4 |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.9% | 0.8% | 0.8% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 3.7% |  | 3.7% |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.9% | 0.8% | 0.8% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) | 0.3% | 0.4% | 0.8% |
 | 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) | 0.0% |  | 0.8% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) | 2.50% |  | 2.48% |
@@ -36,19 +36,16 @@
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) | 5.96B |  | 4.71B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% |  | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.5% | 2.4% |
-| 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.1% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% |  | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.1% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 128.76 |  | 128.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.7% |  | 2.5% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.9% |  | 0.8% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Mar) | 6.2% | 6.1% | 6.2% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Apr) | 44.7 |  | 48.7 |
-| 11:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 686.15B |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 49.49K |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 686.15B |
+| 54 min | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 49.49K |
+| 54 min | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | 12.50% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 3.9% | 3.8% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Apr) |  | 34.2 | 34.2 |
@@ -66,6 +63,9 @@
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Mar) |  | 4.4% | 0.6% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Mar) |  |  | 0.4% |
 | 15:00 | USD | Low | Total Vehicle Sales (Apr) |  | 15.70M | 17.77M |
+| 15:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -14.5% |
+| 15:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 15:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Apr) |  |  | 46.50 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | -6.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 483 |
