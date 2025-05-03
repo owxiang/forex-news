@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | USD | OPEC Meeting |  |  |  |
+| 54 min | USD | OPEC Meeting |  |  |  |
