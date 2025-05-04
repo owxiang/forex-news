@@ -19,8 +19,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.128% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 14:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 14:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
+| 14:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  | 51.2 | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 51.4 | 54.4 |
 | 15:00 | USD | Low | CB Employment Trends Index (Apr) |  |  | 109.03 |
