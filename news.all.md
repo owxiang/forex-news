@@ -9,8 +9,8 @@
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) |  | -0.89% | 0.53% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) |  |  | -3.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) |  |  | 3.0% |
-| 07:30 | CHF | Low | CPI (YoY) (Apr) |  |  | 0.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Apr) |  | 0.2% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Apr) |  |  | 0.3% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.62% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) |  | -14.9 | -19.5 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -19,8 +19,8 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.128% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 14:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 14:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
+| 14:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  | 51.2 | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 51.4 | 54.4 |
 | 15:00 | USD | Low | CB Employment Trends Index (Apr) |  |  | 109.03 |
