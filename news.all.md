@@ -5,8 +5,8 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (Apr) |  | 51.4 | 51.6 |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Apr) |  |  | 0.4% |
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Apr) |  |  | 0.7% |
-| 05:00 | IDR | Low | GDP (YoY) (Q1) |  | 4.91% | 5.02% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) |  | -0.89% | 0.53% |
+| 05:00 | IDR | Low | GDP (YoY) (Q1) |  | 4.91% | 5.02% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) |  |  | 3.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) |  |  | -3.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Apr) |  |  | 0.3% |
