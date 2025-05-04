@@ -17,8 +17,8 @@
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.128% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.015% |
 | 14:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
-| 14:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 14:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 14:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 15:00 | USD | CB Employment Trends Index (Apr) |  |  | 109.03 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 55.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 50.4 |
