@@ -31,6 +31,6 @@
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) | 65.1 |  | 60.9 |
 | 16:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 16:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.065% |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.784% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.220% |  | 4.200% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.090% |  | 4.065% |
+| 52 min | USD | Moderate | 3-Year Note Auction |  |  | 3.784% |
