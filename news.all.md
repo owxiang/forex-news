@@ -21,16 +21,16 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.901% |  | 1.905% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 2.072% |  | 2.076% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.982% |  | 2.015% |
-| 31 min | USD | Moderate | S&P Global Composite PMI (Apr) |  | 51.2 | 53.5 |
-| 31 min | USD | High | S&P Global Services PMI (Apr) |  | 51.4 | 54.4 |
-| 46 min | USD | Low | CB Employment Trends Index (Apr) |  |  | 109.03 |
-| 46 min | USD | Low | ISM Non-Manufacturing Business Activity (Apr) |  |  | 55.9 |
-| 46 min | USD | Moderate | ISM Non-Manufacturing Employment (Apr) |  |  | 46.2 |
-| 46 min | USD | Low | ISM Non-Manufacturing New Orders (Apr) |  |  | 50.4 |
-| 46 min | USD | High | ISM Non-Manufacturing PMI (Apr) |  | 50.2 | 50.8 |
-| 46 min | USD | High | ISM Non-Manufacturing Prices (Apr) |  |  | 60.9 |
-| 16:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 16:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) | 50.6 | 51.2 | 53.5 |
+| 14:45 | USD | High | S&P Global Services PMI (Apr) | 50.8 | 51.4 | 54.4 |
+| 15:00 | USD | Low | CB Employment Trends Index (Apr) | 107.57 |  | 108.41 |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Apr) | 53.7 |  | 55.9 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Apr) | 49.0 |  | 46.2 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Apr) | 52.3 |  | 50.4 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) | 51.6 | 50.2 | 50.8 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) | 65.1 |  | 60.9 |
+| 53 min | USD | Low | Loan Officer Survey |  |  |  |
+| 53 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.065% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.784% |

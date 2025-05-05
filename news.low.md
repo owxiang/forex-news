@@ -19,9 +19,9 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.901% |  | 1.905% |
 | 14:00 | EUR | French 3-Month BTF Auction | 2.072% |  | 2.076% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.982% |  | 2.015% |
-| 46 min | USD | CB Employment Trends Index (Apr) |  |  | 109.03 |
-| 46 min | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 55.9 |
-| 46 min | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 50.4 |
-| 16:00 | USD | Loan Officer Survey |  |  |  |
+| 15:00 | USD | CB Employment Trends Index (Apr) | 107.57 |  | 108.41 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) | 53.7 |  | 55.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) | 52.3 |  | 50.4 |
+| 53 min | USD | Loan Officer Survey |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.200% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.065% |
