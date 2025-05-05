@@ -11,12 +11,12 @@
 | 06:00 | SGD | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
 | 07:30 | CHF | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
 | 09:30 | EUR | Sentix Investor Confidence (May) | -8.1 | -14.9 | -19.5 |
+| 10:00 | EUR | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Reserve Assets Total (Apr) |  |  | 126.0B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.905% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.128% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.015% |
-| 14:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
 | 14:00 | EUR | Car Registration (MoM) (Apr) |  |  | 29.20% |
 | 14:00 | EUR | Car Registration (YoY) (Apr) |  |  | 23.20% |
 | 15:00 | USD | CB Employment Trends Index (Apr) |  |  | 109.03 |
