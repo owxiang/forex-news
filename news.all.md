@@ -1,36 +1,63 @@
-## 05 May 2025 - All Forex News
+## 06 May 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Services PMI (Apr) | 51.0 | 51.4 | 51.6 |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Apr) | 0.5% |  | 0.4% |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 0.7% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.98% | -0.89% | 0.53% |
-| 05:00 | IDR | Low | GDP (YoY) (Q1) | 4.87% | 4.91% | 5.02% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -2.8% |  | 3.0% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.0% |
-| 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) | 0.45% |  | 0.62% |
-| 09:30 | EUR | Low | Sentix Investor Confidence (May) | -8.1 | -14.9 | -19.5 |
-| 10:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Apr) | 7.10% |  | 23.20% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -15.60% |  | 29.20% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | CAD | Low | Reserve Assets Total (Apr) | 124.7B |  | 126.0B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.901% |  | 1.905% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.072% |  | 2.076% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.982% |  | 2.015% |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) | 50.6 | 51.2 | 53.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Apr) | 50.8 | 51.4 | 54.4 |
-| 15:00 | USD | Low | CB Employment Trends Index (Apr) | 107.57 |  | 108.41 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Apr) | 53.7 |  | 55.9 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Apr) | 49.0 | 47.0 | 46.2 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Apr) | 52.3 | 49.2 | 50.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) | 51.6 | 50.2 | 50.8 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) | 65.1 | 61.2 | 60.9 |
-| 16:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 16:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.220% |  | 4.200% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.090% |  | 4.065% |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 3.824% |  | 3.784% |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -0.4% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (Mar) |  | 9.10% | 9.10% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -1.7% | -0.3% |
+| 02:30 | AUD | Low | Private House Approvals (Mar) |  |  | 1.0% |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Apr) |  | 51.7 | 51.9 |
+| 06:00 | INR | Low | S&P Global Services PMI (Apr) |  | 59.1 | 58.5 |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.4% | 0.7% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) |  | 6.5K | -13.3K |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) |  | 53.9 | 54.7 |
+| 08:35 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Apr) |  |  | 50.5 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Apr) |  | 51.3 | 52.0 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Apr) |  | 47.3 | 48.0 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 46.8 | 47.9 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 49.7 | 51.3 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 48.8 | 50.9 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 12.4% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.1 | 50.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 49.7 | 51.0 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 48.2 | 51.5 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
+| 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 4,385.0 |
+| 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
+| 13:30 | USD | Moderate | Imports (Mar) |  |  | 401.10B |
+| 13:30 | USD | Moderate | Trade Balance (Mar) |  | -124.70B | -122.70B |
+| 13:30 | CAD | Low | Exports (Mar) |  |  | 70.11B |
+| 13:30 | CAD | Low | Imports (Mar) |  |  | 71.63B |
+| 13:30 | CAD | Moderate | Trade Balance (Mar) |  | -1.70B | -1.52B |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.1% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 52.6 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Apr) |  |  | 52.5 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
+| 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 51.2 | 51.3 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.435% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | 3.760M |
+| 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
+| 22:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
+| 23:00 | AUD | Low | AIG Construction Index (Apr) |  |  | -19.3 |
+| 23:00 | AUD | Low | AIG Manufacturing Index (Apr) |  |  | -29.7 |
+| 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  |  | 2.9% |
+| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
+| 23:45 | NZD | Low | Participation Rate (Q1) |  |  | 71.00% |
+| 23:45 | NZD | Low | Unemployment Rate (Q1) |  | 5.3% | 5.1% |
