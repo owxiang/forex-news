@@ -7,4 +7,4 @@
 | 14:45 | USD | S&P Global Composite PMI (Apr) | 50.6 | 51.2 | 53.5 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Apr) | 49.0 |  | 46.2 |
 | 16:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 52 min | USD | 3-Year Note Auction |  |  | 3.784% |
+| 18:00 | USD | 3-Year Note Auction | 3.824% |  | 3.784% |
