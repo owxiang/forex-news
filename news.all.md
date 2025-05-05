@@ -5,12 +5,12 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (Apr) | 51.0 | 51.4 | 51.6 |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Apr) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 0.7% |
-| 05:00 | IDR | Low | GDP (YoY) (Q1) | 4.87% | 4.91% | 5.02% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.98% | -0.89% | 0.53% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
+| 05:00 | IDR | Low | GDP (YoY) (Q1) | 4.87% | 4.91% | 5.02% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -2.8% |  | 3.0% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Apr) |  | 0.2% | 0.0% |
-| 07:30 | CHF | Low | CPI (YoY) (Apr) |  |  | 0.3% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
+| 20 min | CHF | Moderate | CPI (MoM) (Apr) |  | 0.2% | 0.0% |
+| 20 min | CHF | Low | CPI (YoY) (Apr) |  |  | 0.3% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.62% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) |  | -14.9 | -19.5 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
