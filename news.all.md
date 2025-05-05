@@ -7,15 +7,15 @@
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 0.7% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.98% | -0.89% | 0.53% |
 | 05:00 | IDR | Low | GDP (YoY) (Q1) | 4.87% | 4.91% | 5.02% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -2.8% |  | 3.0% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) | 0.45% |  | 0.62% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -8.1 | -14.9 | -19.5 |
 | 10:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -15.60% |  | 29.20% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Apr) | 7.10% |  | 23.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -15.60% |  | 29.20% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Apr) | 124.7B |  | 126.0B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.901% |  | 1.905% |
