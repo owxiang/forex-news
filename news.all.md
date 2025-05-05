@@ -5,22 +5,22 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (Apr) | 51.0 | 51.4 | 51.6 |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Apr) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 0.7% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.98% | -0.89% | 0.53% |
 | 05:00 | IDR | Low | GDP (YoY) (Q1) | 4.87% | 4.91% | 5.02% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -2.8% |  | 3.0% |
+| 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.98% | -0.89% | 0.53% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
-| 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -2.8% |  | 3.0% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) | 0.45% |  | 0.62% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -8.1 | -14.9 | -19.5 |
 | 10:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | CAD | Low | Reserve Assets Total (Apr) |  |  | 126.0B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.905% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.128% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
-| 14:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | 23.20% |
-| 14:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 29.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -15.60% |  | 29.20% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Apr) | 7.10% |  | 23.20% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 4 min | CAD | Low | Reserve Assets Total (Apr) |  |  | 126.0B |
+| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.905% |
+| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.128% |
+| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.015% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  | 51.2 | 53.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 51.4 | 54.4 |
 | 15:00 | USD | Low | CB Employment Trends Index (Apr) |  |  | 109.03 |
