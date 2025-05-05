@@ -22,6 +22,6 @@
 | 15:00 | USD | CB Employment Trends Index (Apr) | 107.57 |  | 108.41 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) | 53.7 |  | 55.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) | 52.3 |  | 50.4 |
-| 53 min | USD | Loan Officer Survey |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.200% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.065% |
+| 16:00 | USD | Loan Officer Survey |  |  |  |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.200% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.065% |

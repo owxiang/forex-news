@@ -9,8 +9,8 @@
 | 05:00 | IDR | Low | GDP (YoY) (Q1) | 4.87% | 4.91% | 5.02% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -2.8% |  | 3.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
-| 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) | 0.45% |  | 0.62% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -8.1 | -14.9 | -19.5 |
 | 10:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
@@ -29,8 +29,8 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Apr) | 52.3 |  | 50.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) | 51.6 | 50.2 | 50.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) | 65.1 |  | 60.9 |
-| 53 min | USD | Low | Loan Officer Survey |  |  |  |
-| 53 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.065% |
+| 16:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 16:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.200% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.065% |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.784% |
