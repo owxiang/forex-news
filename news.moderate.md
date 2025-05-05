@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:30 | CHF | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.0% |
-| 52 min | BRL | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.62% |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) | 0.45% |  | 0.62% |
 | 14:45 | USD | S&P Global Composite PMI (Apr) |  | 51.2 | 53.5 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Apr) |  |  | 46.2 |
 | 16:00 | EUR | German Buba Mauderer Speaks |  |  |  |

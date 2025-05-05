@@ -7,10 +7,10 @@
 | 02:30 | AUD | MI Inflation Gauge (MoM) (Apr) | 0.6% |  | 0.7% |
 | 05:00 | IDR | GDP (YoY) (Q1) | 4.87% | 4.91% | 5.02% |
 | 05:00 | IDR | GDP (QoQ) (Q1) | -0.98% | -0.89% | 0.53% |
-| 06:00 | SGD | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
 | 06:00 | SGD | Retail Sales (MoM) (Mar) | -2.8% |  | 3.0% |
+| 06:00 | SGD | Retail Sales (YoY) (Mar) | 1.1% |  | -3.5% |
 | 07:30 | CHF | CPI (YoY) (Apr) | 0.0% |  | 0.3% |
-| 09:30 | EUR | Sentix Investor Confidence (May) |  | -14.9 | -19.5 |
+| 20 min | EUR | Sentix Investor Confidence (May) |  | -14.9 | -19.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Reserve Assets Total (Apr) |  |  | 126.0B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.905% |
