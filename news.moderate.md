@@ -18,7 +18,7 @@
 | 13:30 | USD | Trade Balance (Mar) | -140.50B | -136.80B | -123.20B |
 | 13:30 | CAD | Trade Balance (Mar) | -0.51B | -1.70B | -1.41B |
 | 15:00 | CAD | Ivey PMI (Apr) | 47.9 | 51.2 | 51.3 |
-| 52 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 52 min | USD | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
 | 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |

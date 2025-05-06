@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
 | 10:50 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
 | 13:30 | USD | Moderate | Exports (Mar) | 278.50B |  | 278.50B |
 | 13:30 | USD | Moderate | Imports (Mar) | 419.00B |  | 401.10B |
 | 13:30 | USD | Moderate | Trade Balance (Mar) | -140.50B | -136.80B | -123.20B |
@@ -48,9 +48,9 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) | 47.9 | 51.2 | 51.3 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) | 47.9 | 50.2 | 49.1 |
-| 52 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.435% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 52 min | USD | High | 10-Year Note Auction |  |  | 4.435% |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
 | 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
