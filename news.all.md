@@ -12,26 +12,27 @@
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) | 2.8% | 2.8% | 2.8% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) | 0.2% | 0.4% | 1.0% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) | -67.4K | 6.5K | -13.3K |
-| 7 min | EUR | Moderate | HCOB Spain Services PMI (Apr) |  | 53.9 | 54.7 |
-| 27 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 37 min | EUR | Low | HCOB Italy Composite PMI (Apr) |  |  | 50.5 |
-| 37 min | EUR | Moderate | HCOB Italy Services PMI (Apr) |  | 51.3 | 52.0 |
-| 42 min | EUR | Low | HCOB France Composite PMI (Apr) |  | 47.3 | 48.0 |
-| 42 min | EUR | Moderate | HCOB France Services PMI (Apr) |  | 46.8 | 47.9 |
-| 47 min | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 49.7 | 51.3 |
-| 47 min | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 48.8 | 50.9 |
-| 52 min | GBP | Low | Car Registration (YoY) (Apr) |  |  | 12.4% |
-| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.1 | 50.9 |
-| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 49.7 | 51.0 |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 48.2 | 51.5 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) | 53.4 | 53.9 | 54.7 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Apr) | 50.0 |  | 48.3 |
+| 08:35 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Apr) | 52.1 |  | 50.5 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Apr) | 52.9 | 51.3 | 52.0 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Apr) | 47.8 | 47.3 | 48.0 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Apr) | 47.3 | 46.8 | 47.9 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Apr) | 50.1 | 49.7 | 51.3 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 49.0 | 48.8 | 50.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 50.4 | 50.1 | 50.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 50.1 | 49.7 | 51.0 |
+| 21 min | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 48.2 | 51.5 |
+| 21 min | GBP | Moderate | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
+| 31 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
+| 31 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
+| 51 min | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
+| 51 min | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
+| 51 min | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
+| 13:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 12.4% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
@@ -57,7 +58,7 @@
 | 23:00 | AUD | Low | AIG Construction Index (Apr) |  |  | -19.3 |
 | 23:00 | AUD | Low | AIG Manufacturing Index (Apr) |  |  | -29.7 |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  |  | 2.9% |
+| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
 | 23:45 | NZD | Low | Participation Rate (Q1) |  |  | 71.00% |
 | 23:45 | NZD | Low | Unemployment Rate (Q1) |  | 5.3% | 5.1% |

@@ -9,18 +9,19 @@
 | 06:45 | CHF | Unemployment Rate n.s.a. (Apr) | 2.8% |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Apr) | 2.8% | 2.8% | 2.8% |
 | 07:45 | EUR | French Industrial Production (MoM) (Mar) | 0.2% | 0.4% | 1.0% |
-| 27 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 37 min | EUR | HCOB Italy Composite PMI (Apr) |  |  | 50.5 |
-| 42 min | EUR | HCOB France Composite PMI (Apr) |  | 47.3 | 48.0 |
-| 47 min | EUR | HCOB Germany Composite PMI (Apr) |  | 49.7 | 51.3 |
-| 52 min | GBP | Car Registration (YoY) (Apr) |  |  | 12.4% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.007% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.115% |
-| 10:00 | NOK | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
-| 10:00 | EUR | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Apr) | 50.0 |  | 48.3 |
+| 08:35 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 08:45 | EUR | HCOB Italy Composite PMI (Apr) | 52.1 |  | 50.5 |
+| 08:50 | EUR | HCOB France Composite PMI (Apr) | 47.8 | 47.3 | 48.0 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Apr) | 50.1 | 49.7 | 51.3 |
+| 31 min | EUR | Spanish 12-Month Letras Auction |  |  | 2.007% |
+| 31 min | EUR | Spanish 6-Month Letras Auction |  |  | 2.115% |
+| 51 min | NOK | House Price Index (YoY) (Apr) |  |  | 7.00% |
+| 51 min | EUR | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
+| 51 min | EUR | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -3.9% |
+| 13:00 | GBP | Car Registration (YoY) (Apr) |  |  | 12.4% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
 | 13:30 | CAD | Exports (Mar) |  |  | 70.11B |
@@ -36,7 +37,7 @@
 | 23:00 | AUD | AIG Construction Index (Apr) |  |  | -19.3 |
 | 23:00 | AUD | AIG Manufacturing Index (Apr) |  |  | -29.7 |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 2.9% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
 | 23:45 | NZD | Participation Rate (Q1) |  |  | 71.00% |
 | 23:45 | NZD | Unemployment Rate (Q1) |  | 5.3% | 5.1% |

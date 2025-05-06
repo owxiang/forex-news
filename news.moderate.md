@@ -5,14 +5,14 @@
 | 02:30 | AUD | Building Approvals (MoM) (Mar) | -8.8% | -1.7% | -0.2% |
 | 02:45 | CNY | Caixin Services PMI (Apr) | 50.7 | 51.7 | 51.9 |
 | 08:00 | EUR | Spanish Unemployment Change (Apr) | -67.4K | 6.5K | -13.3K |
-| 7 min | EUR | HCOB Spain Services PMI (Apr) |  | 53.9 | 54.7 |
-| 37 min | EUR | HCOB Italy Services PMI (Apr) |  | 51.3 | 52.0 |
-| 42 min | EUR | HCOB France Services PMI (Apr) |  | 46.8 | 47.9 |
-| 47 min | EUR | HCOB Germany Services PMI (Apr) |  | 48.8 | 50.9 |
-| 52 min | EUR | HCOB Eurozone Composite PMI (Apr) |  | 50.1 | 50.9 |
-| 52 min | EUR | HCOB Eurozone Services PMI (Apr) |  | 49.7 | 51.0 |
-| 09:30 | GBP | S&P Global Composite PMI (Apr) |  | 48.2 | 51.5 |
-| 09:30 | GBP | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
+| 08:15 | EUR | HCOB Spain Services PMI (Apr) | 53.4 | 53.9 | 54.7 |
+| 08:45 | EUR | HCOB Italy Services PMI (Apr) | 52.9 | 51.3 | 52.0 |
+| 08:50 | EUR | HCOB France Services PMI (Apr) | 47.3 | 46.8 | 47.9 |
+| 08:55 | EUR | HCOB Germany Services PMI (Apr) | 49.0 | 48.8 | 50.9 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 50.4 | 50.1 | 50.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 50.1 | 49.7 | 51.0 |
+| 21 min | GBP | S&P Global Composite PMI (Apr) |  | 48.2 | 51.5 |
+| 21 min | GBP | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
 | 13:30 | USD | Exports (Mar) |  |  | 278.50B |
 | 13:30 | USD | Imports (Mar) |  |  | 401.10B |
 | 13:30 | USD | Trade Balance (Mar) |  | -136.80B | -122.70B |
