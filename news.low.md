@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.0% |  | -0.4% |
-| 02:30 | AUD | Building Approvals (YoY) (Mar) |  | 9.10% | 9.10% |
-| 02:30 | AUD | Private House Approvals (Mar) | -4.5% |  | 1.0% |
+| 02:30 | AUD | Building Approvals (YoY) (Mar) | 9.90% | 9.10% | 10.30% |
+| 02:30 | AUD | Private House Approvals (Mar) | -4.5% |  | 1.1% |
 | 06:00 | INR | S&P Global Services PMI (Apr) |  | 59.1 | 58.5 |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
@@ -17,12 +17,12 @@
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.007% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.115% |
 | 10:00 | NOK | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
 | 10:00 | EUR | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
+| 10:00 | EUR | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -3.9% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
 | 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
 | 13:00 | USD | Milk Auctions |  |  | 4,385.0 |
 | 13:30 | CAD | Exports (Mar) |  |  | 70.11B |
