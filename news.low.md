@@ -19,12 +19,12 @@
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 1.937% |  | 2.115% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) | 120,331.0 |  | 357,103.0 |
 | 10:00 | NOK | House Price Index (YoY) (Apr) | 5.90% |  | 7.00% |
-| 10:00 | EUR | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
 | 10:00 | EUR | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
+| 10:00 | EUR | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
 | 10:50 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
 | 13:30 | CAD | Exports (Mar) | 69.90B |  | 70.04B |
 | 13:30 | CAD | Imports (Mar) | 70.40B |  | 71.44B |
 | 13:55 | USD | Redbook (YoY) | 6.9% |  | 6.1% |
