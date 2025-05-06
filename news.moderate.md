@@ -15,7 +15,7 @@
 | 09:30 | GBP | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
 | 13:30 | USD | Exports (Mar) |  |  | 278.50B |
 | 13:30 | USD | Imports (Mar) |  |  | 401.10B |
-| 13:30 | USD | Trade Balance (Mar) |  | -124.70B | -122.70B |
+| 13:30 | USD | Trade Balance (Mar) |  | -136.80B | -122.70B |
 | 13:30 | CAD | Trade Balance (Mar) |  | -1.70B | -1.52B |
 | 15:00 | CAD | Ivey PMI (Apr) |  | 51.2 | 51.3 |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |

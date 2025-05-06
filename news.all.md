@@ -7,10 +7,9 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -8.8% | -1.7% | -0.2% |
 | 02:30 | AUD | Low | Private House Approvals (Mar) | -4.5% |  | 1.1% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 50.7 | 51.7 | 51.9 |
-| 22 min | AUD | High | RBA Interest Rate Decision (May) |  |  | 4.10% |
-| 52 min | INR | Low | S&P Global Services PMI (Apr) |  | 59.1 | 58.5 |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
+| 06:00 | INR | Low | S&P Global Services PMI (Apr) | 58.7 | 59.1 | 58.5 |
+| 38 min | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
+| 38 min | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.4% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) |  | 6.5K | -13.3K |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) |  | 53.9 | 54.7 |
@@ -29,17 +28,15 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
 | 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 4,385.0 |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
 | 13:30 | USD | Moderate | Imports (Mar) |  |  | 401.10B |
-| 13:30 | USD | Moderate | Trade Balance (Mar) |  | -124.70B | -122.70B |
+| 13:30 | USD | Moderate | Trade Balance (Mar) |  | -136.80B | -122.70B |
 | 13:30 | CAD | Low | Exports (Mar) |  |  | 70.11B |
 | 13:30 | CAD | Low | Imports (Mar) |  |  | 71.63B |
 | 13:30 | CAD | Moderate | Trade Balance (Mar) |  | -1.70B | -1.52B |
@@ -49,6 +46,8 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 51.2 | 51.3 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,385.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.435% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |

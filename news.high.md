@@ -2,5 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | AUD | RBA Interest Rate Decision (May) |  |  | 4.10% |
 | 18:00 | USD | 10-Year Note Auction |  |  | 4.435% |
