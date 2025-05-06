@@ -8,10 +8,10 @@
 | 02:30 | AUD | Low | Private House Approvals (Mar) | -4.5% |  | 1.1% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 50.7 | 51.7 | 51.9 |
 | 06:00 | INR | Low | S&P Global Services PMI (Apr) | 58.7 | 59.1 | 58.5 |
-| 38 min | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
-| 38 min | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.4% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (Apr) |  | 6.5K | -13.3K |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) | 2.8% |  | 2.9% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) | 2.8% | 2.8% | 2.8% |
+| 36 min | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.4% | 0.7% |
+| 51 min | EUR | Moderate | Spanish Unemployment Change (Apr) |  | 6.5K | -13.3K |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) |  | 53.9 | 54.7 |
 | 08:35 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Apr) |  |  | 50.5 |
@@ -28,12 +28,12 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
 | 13:30 | USD | Moderate | Imports (Mar) |  |  | 401.10B |
 | 13:30 | USD | Moderate | Trade Balance (Mar) |  | -136.80B | -122.70B |

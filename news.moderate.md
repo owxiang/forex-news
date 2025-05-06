@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Building Approvals (MoM) (Mar) | -8.8% | -1.7% | -0.2% |
 | 02:45 | CNY | Caixin Services PMI (Apr) | 50.7 | 51.7 | 51.9 |
-| 08:00 | EUR | Spanish Unemployment Change (Apr) |  | 6.5K | -13.3K |
+| 51 min | EUR | Spanish Unemployment Change (Apr) |  | 6.5K | -13.3K |
 | 08:15 | EUR | HCOB Spain Services PMI (Apr) |  | 53.9 | 54.7 |
 | 08:45 | EUR | HCOB Italy Services PMI (Apr) |  | 51.3 | 52.0 |
 | 08:50 | EUR | HCOB France Services PMI (Apr) |  | 46.8 | 47.9 |

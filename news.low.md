@@ -6,9 +6,9 @@
 | 02:30 | AUD | Building Approvals (YoY) (Mar) | 9.90% | 9.10% | 10.30% |
 | 02:30 | AUD | Private House Approvals (Mar) | -4.5% |  | 1.1% |
 | 06:00 | INR | S&P Global Services PMI (Apr) | 58.7 | 59.1 | 58.5 |
-| 38 min | CHF | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
-| 38 min | CHF | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
-| 07:45 | EUR | French Industrial Production (MoM) (Mar) |  | 0.4% | 0.7% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Apr) | 2.8% |  | 2.9% |
+| 06:45 | CHF | Unemployment Rate s.a. (Apr) | 2.8% | 2.8% | 2.8% |
+| 36 min | EUR | French Industrial Production (MoM) (Mar) |  | 0.4% | 0.7% |
 | 08:35 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 08:45 | EUR | HCOB Italy Composite PMI (Apr) |  |  | 50.5 |
 | 08:50 | EUR | HCOB France Composite PMI (Apr) |  | 47.3 | 48.0 |
@@ -17,12 +17,12 @@
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 2.007% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 2.115% |
 | 10:00 | NOK | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:00 | EUR | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
+| 10:00 | EUR | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -3.9% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:30 | CAD | Exports (Mar) |  |  | 70.11B |
 | 13:30 | CAD | Imports (Mar) |  |  | 71.63B |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.1% |
