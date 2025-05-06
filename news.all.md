@@ -21,18 +21,18 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Apr) | 47.3 | 46.8 | 47.9 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Apr) | 50.1 | 49.7 | 51.3 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 49.0 | 48.8 | 50.9 |
+| 09:00 | GBP | Low | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 50.4 | 50.1 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 50.1 | 49.7 | 51.0 |
-| 21 min | GBP | Moderate | S&P Global Composite PMI (Apr) |  | 48.2 | 51.5 |
-| 21 min | GBP | Moderate | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
-| 31 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
-| 31 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
-| 51 min | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 51 min | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
-| 51 min | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
-| 13:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 12.4% |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Apr) | 48.5 | 48.2 | 51.5 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) | 49.0 | 48.9 | 52.5 |
+| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 1.886% |  | 2.007% |
+| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.937% |  | 2.115% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 5.90% |  | 7.00% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
+| 23 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
+| 53 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |

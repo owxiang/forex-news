@@ -11,8 +11,8 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Apr) | 49.0 | 48.8 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 50.4 | 50.1 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 50.1 | 49.7 | 51.0 |
-| 21 min | GBP | S&P Global Composite PMI (Apr) |  | 48.2 | 51.5 |
-| 21 min | GBP | S&P Global Services PMI (Apr) |  | 48.9 | 52.5 |
+| 09:30 | GBP | S&P Global Composite PMI (Apr) | 48.5 | 48.2 | 51.5 |
+| 09:30 | GBP | S&P Global Services PMI (Apr) | 49.0 | 48.9 | 52.5 |
 | 13:30 | USD | Exports (Mar) |  |  | 278.50B |
 | 13:30 | USD | Imports (Mar) |  |  | 401.10B |
 | 13:30 | USD | Trade Balance (Mar) |  | -136.80B | -122.70B |
