@@ -30,21 +30,21 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.937% |  | 2.115% |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) | 120,331.0 |  | 357,103.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 5.90% |  | 7.00% |
-| 10:00 | EUR | Low | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
 | 10:00 | EUR | Low | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
+| 10:00 | EUR | Low | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
 | 10:50 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
-| 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
-| 13:30 | USD | Moderate | Imports (Mar) |  |  | 401.10B |
-| 13:30 | USD | Moderate | Trade Balance (Mar) |  | -136.80B | -122.70B |
-| 13:30 | CAD | Low | Exports (Mar) |  |  | 70.11B |
-| 13:30 | CAD | Low | Imports (Mar) |  |  | 71.63B |
-| 13:30 | CAD | Moderate | Trade Balance (Mar) |  | -1.70B | -1.52B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.1% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 52.6 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Apr) |  |  | 52.5 |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
+| 17 min | USD | Moderate | Exports (Mar) |  |  | 278.50B |
+| 17 min | USD | Moderate | Imports (Mar) |  |  | 401.10B |
+| 17 min | USD | Moderate | Trade Balance (Mar) |  | -136.80B | -122.70B |
+| 17 min | CAD | Low | Exports (Mar) |  |  | 70.11B |
+| 17 min | CAD | Low | Imports (Mar) |  |  | 71.63B |
+| 17 min | CAD | Moderate | Trade Balance (Mar) |  | -1.70B | -1.52B |
+| 42 min | USD | Low | Redbook (YoY) |  |  | 6.1% |
+| 47 min | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 52.6 |
+| 47 min | BRL | Low | S&P Global Services PMI (Apr) |  |  | 52.5 |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 51.2 | 51.3 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
@@ -53,13 +53,13 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.435% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | 3.760M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
 | 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 22:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 23:00 | AUD | Low | AIG Construction Index (Apr) |  |  | -19.3 |
 | 23:00 | AUD | Low | AIG Manufacturing Index (Apr) |  |  | -29.7 |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  |  | 2.9% |
+| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
-| 23:45 | NZD | Low | Participation Rate (Q1) |  |  | 71.00% |
+| 23:45 | NZD | Low | Participation Rate (Q1) |  | 71.00% | 71.00% |
 | 23:45 | NZD | Low | Unemployment Rate (Q1) |  | 5.3% | 5.1% |
