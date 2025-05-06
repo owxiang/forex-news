@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
 | 10:50 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
 | 13:30 | USD | Moderate | Exports (Mar) | 278.50B |  | 278.50B |
 | 13:30 | USD | Moderate | Imports (Mar) | 419.00B |  | 401.10B |
 | 13:30 | USD | Moderate | Trade Balance (Mar) | -140.50B | -136.80B | -123.20B |
@@ -51,11 +51,11 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.342% |  | 4.435% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.2% | 1.1% | 1.1% |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
-| 53 min | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
-| 53 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 23:00 | AUD | Low | AIG Construction Index (Apr) |  |  | -19.3 |
-| 23:00 | AUD | Low | AIG Manufacturing Index (Apr) |  |  | -29.7 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.490M | -2.500M | 3.760M |
+| 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
+| 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 54 min | AUD | Low | AIG Construction Index (Apr) |  |  | -19.3 |
+| 54 min | AUD | Low | AIG Manufacturing Index (Apr) |  |  | -29.7 |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |

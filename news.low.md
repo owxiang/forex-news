@@ -23,8 +23,8 @@
 | 10:00 | EUR | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
 | 10:50 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
 | 13:30 | CAD | Exports (Mar) | 69.90B |  | 70.04B |
 | 13:30 | CAD | Imports (Mar) | 70.40B |  | 71.44B |
 | 13:55 | USD | Redbook (YoY) | 6.9% |  | 6.1% |
@@ -32,9 +32,9 @@
 | 14:00 | BRL | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (May) | 47.9 | 50.2 | 49.1 |
-| 53 min | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
-| 23:00 | AUD | AIG Construction Index (Apr) |  |  | -19.3 |
-| 23:00 | AUD | AIG Manufacturing Index (Apr) |  |  | -29.7 |
+| 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
+| 54 min | AUD | AIG Construction Index (Apr) |  |  | -19.3 |
+| 54 min | AUD | AIG Manufacturing Index (Apr) |  |  | -29.7 |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |

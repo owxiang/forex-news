@@ -20,5 +20,5 @@
 | 15:00 | CAD | Ivey PMI (Apr) | 47.9 | 51.2 | 51.3 |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) | 2.2% | 1.1% | 1.1% |
-| 23 min | USD | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
-| 53 min | NZD | RBNZ Financial Stability Report |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.490M | -2.500M | 3.760M |
+| 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
