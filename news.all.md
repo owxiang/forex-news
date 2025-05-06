@@ -36,18 +36,18 @@
 | 10:50 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
-| 17 min | USD | Moderate | Exports (Mar) |  |  | 278.50B |
-| 17 min | USD | Moderate | Imports (Mar) |  |  | 401.10B |
-| 17 min | USD | Moderate | Trade Balance (Mar) |  | -136.80B | -122.70B |
-| 17 min | CAD | Low | Exports (Mar) |  |  | 70.11B |
-| 17 min | CAD | Low | Imports (Mar) |  |  | 71.63B |
-| 17 min | CAD | Moderate | Trade Balance (Mar) |  | -1.70B | -1.52B |
-| 42 min | USD | Low | Redbook (YoY) |  |  | 6.1% |
-| 47 min | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 52.6 |
-| 47 min | BRL | Low | S&P Global Services PMI (Apr) |  |  | 52.5 |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
-| 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 51.2 | 51.3 |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
+| 13:30 | USD | Moderate | Exports (Mar) | 278.50B |  | 278.50B |
+| 13:30 | USD | Moderate | Imports (Mar) | 419.00B |  | 401.10B |
+| 13:30 | USD | Moderate | Trade Balance (Mar) | -140.50B | -136.80B | -123.20B |
+| 13:30 | CAD | Low | Exports (Mar) | 69.90B |  | 70.04B |
+| 13:30 | CAD | Low | Imports (Mar) | 70.40B |  | 71.44B |
+| 13:30 | CAD | Moderate | Trade Balance (Mar) | -0.51B | -1.70B | -1.41B |
+| 13:55 | USD | Low | Redbook (YoY) | 6.9% |  | 6.1% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Apr) | 49.4 |  | 52.6 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
+| 45 min | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
+| 45 min | CAD | Moderate | Ivey PMI (Apr) |  | 51.2 | 51.3 |
+| 55 min | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,385.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
@@ -55,7 +55,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
 | 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
-| 22:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
+| 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 23:00 | AUD | Low | AIG Construction Index (Apr) |  |  | -19.3 |
 | 23:00 | AUD | Low | AIG Manufacturing Index (Apr) |  |  | -29.7 |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |

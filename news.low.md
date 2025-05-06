@@ -25,13 +25,13 @@
 | 10:50 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
-| 17 min | CAD | Exports (Mar) |  |  | 70.11B |
-| 17 min | CAD | Imports (Mar) |  |  | 71.63B |
-| 42 min | USD | Redbook (YoY) |  |  | 6.1% |
-| 47 min | BRL | S&P Global Composite PMI (Apr) |  |  | 52.6 |
-| 47 min | BRL | S&P Global Services PMI (Apr) |  |  | 52.5 |
-| 15:00 | CAD | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
+| 13:30 | CAD | Exports (Mar) | 69.90B |  | 70.04B |
+| 13:30 | CAD | Imports (Mar) | 70.40B |  | 71.44B |
+| 13:55 | USD | Redbook (YoY) | 6.9% |  | 6.1% |
+| 14:00 | BRL | S&P Global Composite PMI (Apr) | 49.4 |  | 52.6 |
+| 14:00 | BRL | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
+| 45 min | CAD | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
+| 55 min | USD | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
 | 16:00 | USD | Milk Auctions |  |  | 4,385.0 |
 | 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |

@@ -13,12 +13,12 @@
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 50.1 | 49.7 | 51.0 |
 | 09:30 | GBP | S&P Global Composite PMI (Apr) | 48.5 | 48.2 | 51.5 |
 | 09:30 | GBP | S&P Global Services PMI (Apr) | 49.0 | 48.9 | 52.5 |
-| 17 min | USD | Exports (Mar) |  |  | 278.50B |
-| 17 min | USD | Imports (Mar) |  |  | 401.10B |
-| 17 min | USD | Trade Balance (Mar) |  | -136.80B | -122.70B |
-| 17 min | CAD | Trade Balance (Mar) |  | -1.70B | -1.52B |
-| 15:00 | CAD | Ivey PMI (Apr) |  | 51.2 | 51.3 |
+| 13:30 | USD | Exports (Mar) | 278.50B |  | 278.50B |
+| 13:30 | USD | Imports (Mar) | 419.00B |  | 401.10B |
+| 13:30 | USD | Trade Balance (Mar) | -140.50B | -136.80B | -123.20B |
+| 13:30 | CAD | Trade Balance (Mar) | -0.51B | -1.70B | -1.41B |
+| 45 min | CAD | Ivey PMI (Apr) |  | 51.2 | 51.3 |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
-| 22:00 | EUR | ECB Financial Stability Review |  |  |  |
+| 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
