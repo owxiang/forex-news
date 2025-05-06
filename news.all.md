@@ -47,10 +47,8 @@
 | 14:00 | BRL | Low | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) | 47.9 | 51.2 | 51.3 |
-| 3 min | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
-| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 53 min | USD | Low | Milk Auctions |  |  | 4,385.0 |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) | 47.9 | 50.2 | 49.1 |
+| 52 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.435% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
