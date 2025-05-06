@@ -19,8 +19,8 @@
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 1.937% |  | 2.115% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) | 120,331.0 |  | 357,103.0 |
 | 10:00 | NOK | House Price Index (YoY) (Apr) | 5.90% |  | 7.00% |
-| 10:00 | EUR | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
 | 10:00 | EUR | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
+| 10:00 | EUR | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
 | 10:50 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
@@ -32,7 +32,7 @@
 | 14:00 | BRL | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (May) | 47.9 | 50.2 | 49.1 |
-| 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
+| 53 min | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 23:00 | AUD | AIG Construction Index (Apr) |  |  | -19.3 |
 | 23:00 | AUD | AIG Manufacturing Index (Apr) |  |  | -29.7 |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
