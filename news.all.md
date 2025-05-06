@@ -49,8 +49,8 @@
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) | 47.9 | 51.2 | 51.3 |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism (May) | 47.9 | 50.2 | 49.1 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 52 min | USD | High | 10-Year Note Auction |  |  | 4.435% |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
+| 18:00 | USD | High | 10-Year Note Auction | 4.342% |  | 4.435% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.2% | 1.1% | 1.1% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |
 | 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |

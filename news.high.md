@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | USD | 10-Year Note Auction |  |  | 4.435% |
+| 18:00 | USD | 10-Year Note Auction | 4.342% |  | 4.435% |
