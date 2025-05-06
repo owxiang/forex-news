@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 31 min | NZD | ANZ Commodity Price Index (MoM) |  |  | -0.4% |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.0% |  | -0.4% |
 | 02:30 | AUD | Building Approvals (YoY) (Mar) |  | 9.10% | 9.10% |
-| 02:30 | AUD | Private House Approvals (Mar) |  |  | 1.0% |
+| 02:30 | AUD | Private House Approvals (Mar) | -4.5% |  | 1.0% |
 | 06:00 | INR | S&P Global Services PMI (Apr) |  | 59.1 | 58.5 |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
 | 06:45 | CHF | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |

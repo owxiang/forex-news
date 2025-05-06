@@ -2,11 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 31 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -0.4% |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.0% |  | -0.4% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Mar) |  | 9.10% | 9.10% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -1.7% | -0.3% |
-| 02:30 | AUD | Low | Private House Approvals (Mar) |  |  | 1.0% |
-| 02:45 | CNY | Moderate | Caixin Services PMI (Apr) |  | 51.7 | 51.9 |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -8.8% | -1.7% | -0.2% |
+| 02:30 | AUD | Low | Private House Approvals (Mar) | -4.5% |  | 1.0% |
+| 10 min | CNY | Moderate | Caixin Services PMI (Apr) |  | 51.7 | 51.9 |
+| 05:30 | AUD | High | RBA Interest Rate Decision (May) |  |  | 4.10% |
 | 06:00 | INR | Low | S&P Global Services PMI (Apr) |  | 59.1 | 58.5 |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
