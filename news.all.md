@@ -28,11 +28,12 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Apr) | 49.0 | 48.9 | 52.5 |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 1.886% |  | 2.007% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.937% |  | 2.115% |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) | 120,331.0 |  | 357,103.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 5.90% |  | 7.00% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
-| 23 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
-| 53 min | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
+| 10:50 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
