@@ -7,8 +7,8 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -8.8% | -1.7% | -0.2% |
 | 02:30 | AUD | Low | Private House Approvals (Mar) | -4.5% |  | 1.1% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 50.7 | 51.7 | 51.9 |
-| 05:30 | AUD | High | RBA Interest Rate Decision (May) |  |  | 4.10% |
-| 06:00 | INR | Low | S&P Global Services PMI (Apr) |  | 59.1 | 58.5 |
+| 22 min | AUD | High | RBA Interest Rate Decision (May) |  |  | 4.10% |
+| 52 min | INR | Low | S&P Global Services PMI (Apr) |  | 59.1 | 58.5 |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.9% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.8% | 2.8% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.4% | 0.7% |
@@ -29,8 +29,8 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
