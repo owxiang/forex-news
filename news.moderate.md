@@ -17,7 +17,7 @@
 | 13:30 | USD | Imports (Mar) | 419.00B |  | 401.10B |
 | 13:30 | USD | Trade Balance (Mar) | -140.50B | -136.80B | -123.20B |
 | 13:30 | CAD | Trade Balance (Mar) | -0.51B | -1.70B | -1.41B |
-| 45 min | CAD | Ivey PMI (Apr) |  | 51.2 | 51.3 |
+| 15:00 | CAD | Ivey PMI (Apr) | 47.9 | 51.2 | 51.3 |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.500M | 3.760M |

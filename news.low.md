@@ -30,10 +30,10 @@
 | 13:55 | USD | Redbook (YoY) | 6.9% |  | 6.1% |
 | 14:00 | BRL | S&P Global Composite PMI (Apr) | 49.4 |  | 52.6 |
 | 14:00 | BRL | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
-| 45 min | CAD | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
-| 55 min | USD | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 16:00 | USD | Milk Auctions |  |  | 4,385.0 |
+| 15:00 | CAD | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
+| 3 min | USD | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 53 min | USD | Milk Auctions |  |  | 4,385.0 |
 | 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 23:00 | AUD | AIG Construction Index (Apr) |  |  | -19.3 |
 | 23:00 | AUD | AIG Manufacturing Index (Apr) |  |  | -29.7 |

@@ -45,11 +45,11 @@
 | 13:55 | USD | Low | Redbook (YoY) | 6.9% |  | 6.1% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Apr) | 49.4 |  | 52.6 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
-| 45 min | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 55.6 |
-| 45 min | CAD | Moderate | Ivey PMI (Apr) |  | 51.2 | 51.3 |
-| 55 min | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,385.0 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
+| 15:00 | CAD | Moderate | Ivey PMI (Apr) | 47.9 | 51.2 | 51.3 |
+| 3 min | USD | Low | IBD/TIPP Economic Optimism (May) |  | 50.2 | 49.1 |
+| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 53 min | USD | Low | Milk Auctions |  |  | 4,385.0 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.435% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.1% | 1.1% |
