@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -0.4% |
+| 31 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -0.4% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Mar) |  | 9.10% | 9.10% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -1.7% | -0.3% |
 | 02:30 | AUD | Low | Private House Approvals (Mar) |  |  | 1.0% |
@@ -28,12 +28,12 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 2.007% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 2.115% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 7.00% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) |  | 2.0% | 3.0% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -1.4% | 0.2% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.060% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -3.9% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,385.0 |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
