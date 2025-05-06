@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
 | 10:50 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
+| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | -1.50% |
+| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  |  | -6.70% |
 | 13:30 | USD | Moderate | Exports (Mar) |  |  | 278.50B |
 | 13:30 | USD | Moderate | Imports (Mar) |  |  | 401.10B |
 | 13:30 | USD | Moderate | Trade Balance (Mar) |  | -136.80B | -122.70B |
