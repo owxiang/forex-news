@@ -33,10 +33,8 @@
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
 | 15:10 | USD | IBD/TIPP Economic Optimism (May) | 47.9 | 50.2 | 49.1 |
 | 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
-| 54 min | AUD | AIG Construction Index (Apr) |  |  | -19.3 |
-| 54 min | AUD | AIG Manufacturing Index (Apr) |  |  | -29.7 |
-| 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
-| 23:45 | NZD | Participation Rate (Q1) |  | 71.00% | 71.00% |
-| 23:45 | NZD | Unemployment Rate (Q1) |  | 5.3% | 5.1% |
+| 39 min | NZD | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 39 min | NZD | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
+| 39 min | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
+| 39 min | NZD | Participation Rate (Q1) |  | 71.00% | 71.00% |
+| 39 min | NZD | Unemployment Rate (Q1) |  | 5.3% | 5.1% |

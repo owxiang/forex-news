@@ -54,10 +54,8 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.490M | -2.500M | 3.760M |
 | 22:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 54 min | AUD | Low | AIG Construction Index (Apr) |  |  | -19.3 |
-| 54 min | AUD | Low | AIG Manufacturing Index (Apr) |  |  | -29.7 |
-| 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
-| 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
-| 23:45 | NZD | Low | Participation Rate (Q1) |  | 71.00% | 71.00% |
-| 23:45 | NZD | Low | Unemployment Rate (Q1) |  | 5.3% | 5.1% |
+| 39 min | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 39 min | NZD | Low | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
+| 39 min | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
+| 39 min | NZD | Low | Participation Rate (Q1) |  | 71.00% | 71.00% |
+| 39 min | NZD | Low | Unemployment Rate (Q1) |  | 5.3% | 5.1% |
