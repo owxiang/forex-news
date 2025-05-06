@@ -1,40 +1,43 @@
-## 06 May 2025 - Low Impact Forex News
+## 07 May 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.0% |  | -0.4% |
-| 02:30 | AUD | Building Approvals (YoY) (Mar) | 9.90% | 9.10% | 10.30% |
-| 02:30 | AUD | Private House Approvals (Mar) | -4.5% |  | 1.1% |
-| 06:00 | INR | S&P Global Services PMI (Apr) | 58.7 | 59.1 | 58.5 |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Apr) | 2.8% |  | 2.9% |
-| 06:45 | CHF | Unemployment Rate s.a. (Apr) | 2.8% | 2.8% | 2.8% |
-| 07:45 | EUR | French Industrial Production (MoM) (Mar) | 0.2% | 0.4% | 1.0% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Apr) | 50.0 |  | 48.3 |
-| 08:35 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 08:45 | EUR | HCOB Italy Composite PMI (Apr) | 52.1 |  | 50.5 |
-| 08:50 | EUR | HCOB France Composite PMI (Apr) | 47.8 | 47.3 | 48.0 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Apr) | 50.1 | 49.7 | 51.3 |
-| 09:00 | GBP | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction | 1.886% |  | 2.007% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction | 1.937% |  | 2.115% |
-| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) | 120,331.0 |  | 357,103.0 |
-| 10:00 | NOK | House Price Index (YoY) (Apr) | 5.90% |  | 7.00% |
-| 10:00 | EUR | PPI (MoM) (Mar) | -1.6% | -1.4% | 0.2% |
-| 10:00 | EUR | PPI (YoY) (Mar) | 1.9% | 2.0% | 3.0% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.070% |  | 2.060% |
-| 10:50 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | -7.80% |  | -6.70% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.10% |  | -1.50% |
-| 13:30 | CAD | Exports (Mar) | 69.90B |  | 70.04B |
-| 13:30 | CAD | Imports (Mar) | 70.40B |  | 71.44B |
-| 13:55 | USD | Redbook (YoY) | 6.9% |  | 6.1% |
-| 14:00 | BRL | S&P Global Composite PMI (Apr) | 49.4 |  | 52.6 |
-| 14:00 | BRL | S&P Global Services PMI (Apr) | 48.9 |  | 52.5 |
-| 15:00 | CAD | Ivey PMI n.s.a (Apr) | 52.3 |  | 55.6 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (May) | 47.9 | 50.2 | 49.1 |
-| 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
-| 39 min | NZD | Employment Change (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 39 min | NZD | Labor Cost Index (YoY) (Q1) |  | 2.7% | 2.9% |
-| 39 min | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.5% | 0.6% |
-| 39 min | NZD | Participation Rate (Q1) |  | 71.00% | 71.00% |
-| 39 min | NZD | Unemployment Rate (Q1) |  | 5.3% | 5.1% |
+| 00:00 | AUD | AIG Construction Index (Apr) | -7.9 |  | -19.3 |
+| 00:00 | AUD | AIG Manufacturing Index (Apr) | -26.5 |  | -29.7 |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Apr) |  |  | 48.3 |
+| 04:00 | IDR | FX Reserves (USD) (Apr) |  |  | 157.10B |
+| 07:45 | EUR | French Current Account (Mar) |  |  | -1.90B |
+| 07:45 | EUR | French Exports (Mar) |  |  | 49.7B |
+| 07:45 | EUR | French Imports (Mar) |  |  | 57.5B |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
+| 07:45 | EUR | French Trade Balance (Mar) |  | -7.0B | -7.9B |
+| 08:00 | CHF | Foreign Reserves (USD) (Apr) |  |  | 725,616.0B |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 52.4 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Apr) |  |  | 40.3 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) |  |  | 43.8 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 44.8 |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) |  |  | -1.5% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.142% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.37% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) |  |  | 381.1B |
+| 10:00 | EUR | Retail Sales (YoY) (Mar) |  | 1.6% | 2.3% |
+| 10:00 | EUR | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.89% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.2% |
+| 12:00 | USD | MBA Purchase Index |  |  | 146.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 223.7 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 649.0 |
+| 12:00 | CAD | Leading Index (MoM) (Apr) |  |  | 0.07% |
+| 13:00 | BRL | Industrial Production (MoM) (Mar) |  | 0.3% | -0.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.189M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.663M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.017M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -2.700M | 0.937M |
+| 15:30 | USD | Gasoline Production |  |  | -0.616M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.252M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 15:30 | USD | Gasoline Inventories |  |  | -4.003M |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 16:00 | USD | Milk Auctions |  |  | 4,385.0 |
+| 19:00 | BRL | Trade Balance (Apr) |  | 8.30B | 8.16B |
