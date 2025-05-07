@@ -15,8 +15,8 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Apr) | 45.1 |  | 40.3 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) | 43.6 |  | 43.8 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) | 46.0 |  | 44.8 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
 | 09:04 | CNY | FX Reserves (USD) (Apr) | 3.282T |  | 3.241T |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.977% |  | 4.142% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.24% |  | 3.37% |
@@ -38,4 +38,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.123M |  | 0.252M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.5% |
 | 15:30 | USD | Gasoline Inventories | 0.188M |  | -4.003M |
-| 54 min | BRL | Trade Balance (Apr) |  | 8.30B | 8.16B |
+| 18:30 | BRL | Foreign Exchange Flows | 4.744B |  | -0.236B |
+| 19:00 | BRL | Trade Balance (Apr) | 8.15B | 8.30B | 8.15B |

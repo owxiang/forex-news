@@ -19,8 +19,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) | 45.1 |  | 40.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) | 43.6 |  | 43.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) | 46.0 |  | 44.8 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
 | 09:04 | CNY | Low | FX Reserves (USD) (Apr) | 3.282T |  | 3.241T |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Apr) | 46.6 | 46.0 | 46.4 |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.977% |  | 4.142% |
@@ -34,8 +34,8 @@
 | 12:00 | USD | Low | Mortgage Market Index | 248.4 |  | 223.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 721.0 |  | 649.0 |
 | 12:00 | CAD | Low | Leading Index (MoM) (Apr) | 0.02% |  | 0.02% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 1.2% | 0.3% | 0.0% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) | 3.1% | 1.4% | 1.3% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 1.2% | 0.3% | 0.0% |
 | 15:30 | USD | High | Crude Oil Inventories | -2.032M | -1.700M | -2.696M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.007M |  | 0.189M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.673M |  | -0.663M |
@@ -46,9 +46,10 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.123M |  | 0.252M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.5% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.188M |  | -4.003M |
-| 54 min | USD | High | FOMC Statement |  |  |  |
-| 54 min | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
-| 54 min | BRL | Low | Trade Balance (Apr) |  | 8.30B | 8.16B |
-| 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 20:00 | USD | Moderate | Consumer Credit (Mar) |  | 9.80B | -0.81B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 4.744B |  | -0.236B |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 19:00 | BRL | Low | Trade Balance (Apr) | 8.15B | 8.30B | 8.15B |
+| 21 min | USD | High | FOMC Press Conference |  |  |  |
+| 51 min | USD | Moderate | Consumer Credit (Mar) |  | 9.80B | -0.81B |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.75% | 14.25% |
