@@ -39,4 +39,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.5% |
 | 15:30 | USD | Gasoline Inventories | 0.188M |  | -4.003M |
 | 18:30 | BRL | Foreign Exchange Flows | 4.744B |  | -0.236B |
-| 19:00 | BRL | Trade Balance (Apr) | 8.15B | 8.30B | 8.15B |
+| 19:00 | BRL | Trade Balance (Apr) | 8.15B | 8.30B | 7.76B |

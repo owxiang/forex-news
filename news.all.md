@@ -49,7 +49,7 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | 4.744B |  | -0.236B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 19:00 | BRL | Low | Trade Balance (Apr) | 8.15B | 8.30B | 8.15B |
-| 21 min | USD | High | FOMC Press Conference |  |  |  |
-| 51 min | USD | Moderate | Consumer Credit (Mar) |  | 9.80B | -0.81B |
+| 19:00 | BRL | Low | Trade Balance (Apr) | 8.15B | 8.30B | 7.76B |
+| 19:30 | USD | High | FOMC Press Conference |  |  |  |
+| 20:00 | USD | Moderate | Consumer Credit (Mar) | 10.17B | 9.80B | -0.61B |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.75% | 14.25% |
