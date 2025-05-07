@@ -26,8 +26,8 @@
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.977% |  | 4.142% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 3.37% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 389.2B |  | 381.1B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 1.5% | 1.6% | 1.9% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | -0.1% | -0.1% | 0.2% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 1.5% | 1.6% | 1.9% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.84% |  | 6.89% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 11.0% |  | -4.2% |
 | 12:00 | USD | Low | MBA Purchase Index | 162.8 |  | 146.6 |
@@ -45,7 +45,7 @@
 | 15:30 | USD | Low | Gasoline Production | 0.253M |  | -0.616M |
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.123M |  | 0.252M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.5% |
-| 15:30 | USD | Low | Gasoline Inventories | 0.188M |  | -4.003M |
+| 15:30 | USD | Low | Gasoline Inventories | 0.188M | -1.500M | -4.003M |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 4.744B |  | -0.236B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
@@ -53,4 +53,4 @@
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Mar) | 10.17B | 9.80B | -0.61B |
 | 22:00 | KRW | Low | FX Reserves - USD (Apr) | 404.67B |  | 409.66B |
-| 24 min | BRL | Moderate | Interest Rate Decision |  | 14.75% | 14.25% |
+| 22:30 | BRL | Moderate | Interest Rate Decision | 14.75% | 14.75% | 14.25% |
