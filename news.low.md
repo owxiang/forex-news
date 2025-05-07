@@ -18,11 +18,11 @@
 | 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
 | 09:04 | CNY | FX Reserves (USD) (Apr) | 3.282T |  | 3.241T |
-| 50 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.142% |
-| 50 min | EUR | French 10-Year OAT Auction |  |  | 3.37% |
-| 50 min | SGD | Foreign Reserves USD (MoM) (Apr) |  |  | 381.1B |
-| 50 min | EUR | Retail Sales (YoY) (Mar) |  | 1.6% | 2.3% |
-| 50 min | EUR | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.977% |  | 4.142% |
+| 10:00 | EUR | French 10-Year OAT Auction | 3.24% |  | 3.37% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) | 389.2B |  | 381.1B |
+| 10:00 | EUR | Retail Sales (MoM) (Mar) | -0.1% | -0.1% | 0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (Mar) | 1.5% | 1.6% | 1.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.89% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 146.6 |
