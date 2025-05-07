@@ -15,8 +15,8 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Apr) | 45.1 |  | 40.3 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) | 43.6 |  | 43.8 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) | 46.0 |  | 44.8 |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
 | 09:04 | CNY | FX Reserves (USD) (Apr) | 3.282T |  | 3.241T |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.977% |  | 4.142% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.24% |  | 3.37% |
@@ -30,12 +30,12 @@
 | 12:00 | USD | Mortgage Refinance Index | 721.0 |  | 649.0 |
 | 12:00 | CAD | Leading Index (MoM) (Apr) | 0.02% |  | 0.02% |
 | 13:00 | BRL | Industrial Production (MoM) (Mar) | 1.2% | 0.3% | 0.0% |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.189M |
-| 23 min | USD | Crude Oil Imports |  |  | -0.663M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.017M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  | -2.700M | 0.937M |
-| 23 min | USD | Gasoline Production |  |  | -0.616M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | 0.252M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 23 min | USD | Gasoline Inventories |  |  | -4.003M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.007M |  | 0.189M |
+| 15:30 | USD | Crude Oil Imports | 0.673M |  | -0.663M |
+| 15:30 | USD | Distillate Fuel Production | 0.041M |  | -0.017M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -1.107M | -2.700M | 0.937M |
+| 15:30 | USD | Gasoline Production | 0.253M |  | -0.616M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.123M |  | 0.252M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | 0.5% |
+| 15:30 | USD | Gasoline Inventories | 0.188M |  | -4.003M |
 | 19:00 | BRL | Trade Balance (Apr) |  | 8.30B | 8.16B |
