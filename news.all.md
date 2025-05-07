@@ -19,8 +19,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) | 45.1 |  | 40.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) | 43.6 |  | 43.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) | 46.0 |  | 44.8 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
 | 09:04 | CNY | Low | FX Reserves (USD) (Apr) | 3.282T |  | 3.241T |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Apr) | 46.6 | 46.0 | 46.4 |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.977% |  | 4.142% |
