@@ -25,8 +25,8 @@
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.142% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.37% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 381.1B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  | 1.6% | 2.3% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.89% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.2% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 146.6 |
