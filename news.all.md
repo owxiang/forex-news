@@ -19,22 +19,22 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 40.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 43.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 44.8 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | -1.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | -1.5% |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Apr) |  | 46.0 | 46.4 |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.142% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.37% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 381.1B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  | 1.6% | 2.3% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  | 1.6% | 2.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.89% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.2% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 146.6 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 223.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 649.0 |
 | 12:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) |  | 0.3% | -0.1% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 1.4% | 1.5% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) |  | 0.3% | -0.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.500M | -2.696M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.189M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.663M |
