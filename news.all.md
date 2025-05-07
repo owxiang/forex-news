@@ -8,13 +8,13 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) | 52.4 | 52.2 | 50.0 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Apr) | 48.3 |  | 48.3 |
 | 03:00 | CNY | Moderate | PBoC Reserve Requirement Ratio | 9.00% |  | 9.50% |
-| 53 min | EUR | Moderate | German Factory Orders (MoM) (Mar) |  | 1.4% | 0.0% |
-| 07:45 | EUR | Low | French Current Account (Mar) |  |  | -1.90B |
-| 07:45 | EUR | Low | French Exports (Mar) |  |  | 49.7B |
-| 07:45 | EUR | Low | French Imports (Mar) |  |  | 57.5B |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
-| 07:45 | EUR | Low | French Trade Balance (Mar) |  | -7.0B | -7.9B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Apr) |  |  | 725,616.0B |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) | 3.6% | 1.4% | 0.0% |
+| 36 min | EUR | Low | French Current Account (Mar) |  |  | -1.90B |
+| 36 min | EUR | Low | French Exports (Mar) |  |  | 49.7B |
+| 36 min | EUR | Low | French Imports (Mar) |  |  | 57.5B |
+| 36 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
+| 36 min | EUR | Low | French Trade Balance (Mar) |  | -7.0B | -7.9B |
+| 51 min | CHF | Low | Foreign Reserves (USD) (Apr) |  |  | 725,616.0B |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 52.4 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 40.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 43.8 |

@@ -5,12 +5,12 @@
 | 00:00 | AUD | AIG Construction Index (Apr) | -7.9 |  | -19.3 |
 | 00:00 | AUD | AIG Manufacturing Index (Apr) | -26.5 |  | -29.7 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Apr) | 48.3 |  | 48.3 |
-| 07:45 | EUR | French Current Account (Mar) |  |  | -1.90B |
-| 07:45 | EUR | French Exports (Mar) |  |  | 49.7B |
-| 07:45 | EUR | French Imports (Mar) |  |  | 57.5B |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
-| 07:45 | EUR | French Trade Balance (Mar) |  | -7.0B | -7.9B |
-| 08:00 | CHF | Foreign Reserves (USD) (Apr) |  |  | 725,616.0B |
+| 36 min | EUR | French Current Account (Mar) |  |  | -1.90B |
+| 36 min | EUR | French Exports (Mar) |  |  | 49.7B |
+| 36 min | EUR | French Imports (Mar) |  |  | 57.5B |
+| 36 min | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
+| 36 min | EUR | French Trade Balance (Mar) |  | -7.0B | -7.9B |
+| 51 min | CHF | Foreign Reserves (USD) (Apr) |  |  | 725,616.0B |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 52.4 |
 | 08:30 | EUR | HCOB Germany Construction PMI (Apr) |  |  | 40.3 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) |  |  | 43.8 |
