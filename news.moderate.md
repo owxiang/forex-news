@@ -10,4 +10,4 @@
 | 13:00 | BRL | Industrial Production (YoY) (Mar) | 3.1% | 1.4% | 1.3% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.740M |  | 0.682M |
 | 20:00 | USD | Consumer Credit (Mar) | 10.17B | 9.80B | -0.61B |
-| 22:30 | BRL | Interest Rate Decision |  | 14.75% | 14.25% |
+| 24 min | BRL | Interest Rate Decision |  | 14.75% | 14.25% |

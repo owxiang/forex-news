@@ -19,23 +19,23 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) | 45.1 |  | 40.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) | 43.6 |  | 43.8 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) | 46.0 |  | 44.8 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | -0.5% | 0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | -2.8% |  | -1.4% |
 | 09:04 | CNY | Low | FX Reserves (USD) (Apr) | 3.282T |  | 3.241T |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Apr) | 46.6 | 46.0 | 46.4 |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.977% |  | 4.142% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.24% |  | 3.37% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 389.2B |  | 381.1B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | -0.1% | -0.1% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 1.5% | 1.6% | 1.9% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | -0.1% | -0.1% | 0.2% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.84% |  | 6.89% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 11.0% |  | -4.2% |
 | 12:00 | USD | Low | MBA Purchase Index | 162.8 |  | 146.6 |
 | 12:00 | USD | Low | Mortgage Market Index | 248.4 |  | 223.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 721.0 |  | 649.0 |
 | 12:00 | CAD | Low | Leading Index (MoM) (Apr) | 0.02% |  | 0.02% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) | 3.1% | 1.4% | 1.3% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 1.2% | 0.3% | 0.0% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) | 3.1% | 1.4% | 1.3% |
 | 15:30 | USD | High | Crude Oil Inventories | -2.032M | -1.700M | -2.696M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.007M |  | 0.189M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.673M |  | -0.663M |
@@ -52,4 +52,5 @@
 | 19:00 | BRL | Low | Trade Balance (Apr) | 8.15B | 8.30B | 7.76B |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (Mar) | 10.17B | 9.80B | -0.61B |
-| 22:30 | BRL | Moderate | Interest Rate Decision |  | 14.75% | 14.25% |
+| 22:00 | KRW | Low | FX Reserves - USD (Apr) | 404.67B |  | 409.66B |
+| 24 min | BRL | Moderate | Interest Rate Decision |  | 14.75% | 14.25% |
