@@ -5,8 +5,6 @@
 | 00:00 | AUD | AIG Construction Index (Apr) | -7.9 |  | -19.3 |
 | 00:00 | AUD | AIG Manufacturing Index (Apr) | -26.5 |  | -29.7 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Apr) | 48.3 |  | 48.3 |
-| 04:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
-| 04:00 | IDR | FX Reserves (USD) (Apr) |  |  | 157.10B |
 | 07:45 | EUR | French Current Account (Mar) |  |  | -1.90B |
 | 07:45 | EUR | French Exports (Mar) |  |  | 49.7B |
 | 07:45 | EUR | French Imports (Mar) |  |  | 57.5B |
@@ -22,8 +20,8 @@
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.142% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.37% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) |  |  | 381.1B |
-| 10:00 | EUR | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (Mar) |  | 1.6% | 2.3% |
+| 10:00 | EUR | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.89% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 146.6 |

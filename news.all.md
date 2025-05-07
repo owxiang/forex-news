@@ -7,8 +7,7 @@
 | 00:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) | 52.4 | 52.2 | 50.0 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Apr) | 48.3 |  | 48.3 |
-| 04:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
-| 04:00 | IDR | Low | FX Reserves (USD) (Apr) |  |  | 157.10B |
+| 03:00 | CNY | Moderate | PBoC Reserve Requirement Ratio | 9.00% |  | 9.50% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) |  | 1.4% | 0.0% |
 | 07:45 | EUR | Low | French Current Account (Mar) |  |  | -1.90B |
 | 07:45 | EUR | Low | French Exports (Mar) |  |  | 49.7B |
@@ -26,8 +25,8 @@
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.142% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.37% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 381.1B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  | 1.6% | 2.3% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | -0.1% | 0.3% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.89% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -4.2% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 146.6 |

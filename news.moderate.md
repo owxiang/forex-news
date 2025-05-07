@@ -4,6 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 01:30 | JPY | au Jibun Bank Services PMI (Apr) | 52.4 | 52.2 | 50.0 |
+| 03:00 | CNY | PBoC Reserve Requirement Ratio | 9.00% |  | 9.50% |
 | 07:00 | EUR | German Factory Orders (MoM) (Mar) |  | 1.4% | 0.0% |
 | 09:30 | GBP | S&P Global Construction PMI (Apr) |  | 46.0 | 46.4 |
 | 13:00 | BRL | Industrial Production (YoY) (Mar) |  | 1.4% | 1.5% |
