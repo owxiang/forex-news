@@ -5,8 +5,9 @@
 | 00:00 | AUD | Low | AIG Construction Index (Apr) | -7.9 |  | -19.3 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Apr) | -26.5 |  | -29.7 |
 | 00:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) |  | 52.2 | 50.0 |
-| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Apr) |  |  | 48.3 |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Apr) | 52.4 | 52.2 | 50.0 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (Apr) | 48.3 |  | 48.3 |
+| 04:00 | KRW | Low | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 04:00 | IDR | Low | FX Reserves (USD) (Apr) |  |  | 157.10B |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) |  | 1.4% | 0.0% |
 | 07:45 | EUR | Low | French Current Account (Mar) |  |  | -1.90B |
@@ -33,8 +34,8 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 223.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 649.0 |
 | 12:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.07% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 1.4% | 1.5% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Mar) |  | 0.3% | -0.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | 1.4% | 1.5% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.500M | -2.696M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.189M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.663M |

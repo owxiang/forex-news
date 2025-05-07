@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 01:30 | JPY | au Jibun Bank Services PMI (Apr) |  | 52.2 | 50.0 |
+| 01:30 | JPY | au Jibun Bank Services PMI (Apr) | 52.4 | 52.2 | 50.0 |
 | 07:00 | EUR | German Factory Orders (MoM) (Mar) |  | 1.4% | 0.0% |
 | 09:30 | GBP | S&P Global Construction PMI (Apr) |  | 46.0 | 46.4 |
 | 13:00 | BRL | Industrial Production (YoY) (Mar) |  | 1.4% | 1.5% |

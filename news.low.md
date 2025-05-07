@@ -4,7 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | AIG Construction Index (Apr) | -7.9 |  | -19.3 |
 | 00:00 | AUD | AIG Manufacturing Index (Apr) | -26.5 |  | -29.7 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (Apr) |  |  | 48.3 |
+| 01:30 | HKD | S&P Global Manufacturing PMI (Apr) | 48.3 |  | 48.3 |
+| 04:00 | KRW | FX Reserves - USD (Apr) |  |  | 409.66B |
 | 04:00 | IDR | FX Reserves (USD) (Apr) |  |  | 157.10B |
 | 07:45 | EUR | French Current Account (Mar) |  |  | -1.90B |
 | 07:45 | EUR | French Exports (Mar) |  |  | 49.7B |
