@@ -1,7 +1,3 @@
-## 08 May 2025 - High Impact Forex News
+## 09 May 2025 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 12:02 | GBP | BoE Interest Rate Decision (May) | 4.25% | 4.25% | 4.50% |
-| 13:30 | USD | Initial Jobless Claims | 228K | 231K | 241K |
-| 18:00 | USD | 30-Year Bond Auction | 4.819% |  | 4.813% |
+There is no high impact news today.
