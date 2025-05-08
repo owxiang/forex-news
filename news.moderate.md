@@ -8,8 +8,8 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Apr) | 0.3% | 0.2% | -0.5% |
 | 07:00 | EUR | German Industrial Production (MoM) (Mar) | 3.0% | 0.9% | -1.3% |
 | 07:00 | EUR | German Trade Balance (Mar) | 21.1B | 19.0B | 17.9B |
-| 53 min | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
-| 10:00 | GBP | Mortgage Rate (GBP) (Apr) |  |  | 7.23% |
+| 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 51 min | GBP | Mortgage Rate (GBP) (Apr) |  |  | 7.23% |
 | 10:40 | EUR | German Buba Balz Speaks |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (May) |  | 9 | 1 |
 | 12:00 | GBP | BoE MPC vote hike (May) |  | 0 | 0 |
