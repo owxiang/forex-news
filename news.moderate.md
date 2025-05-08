@@ -16,8 +16,8 @@
 | 12:02 | GBP | BoE MPC vote hike (May) | 0 | 0 | 0 |
 | 12:02 | GBP | BoE MPC vote unchanged (May) | 2 | 0 | 8 |
 | 13:00 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
 | 13:00 | MXN | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
+| 13:00 | MXN | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
 | 13:30 | USD | Continuing Jobless Claims | 1,879K | 1,890K | 1,908K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | -0.8% | -0.4% | 1.7% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 5.7% | 5.3% | 2.0% |
