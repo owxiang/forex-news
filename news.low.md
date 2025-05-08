@@ -14,14 +14,14 @@
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.086% |  | 2.292% |
 | 10:00 | EUR | Spanish 30-Year Obligacion Auction | 3.974% |  | 3.691% |
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.375% |  | 2.756% |
-| 53 min | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | -0.50% |
-| 53 min | ZAR | Manufacturing Production (YoY) (Mar) |  |  | -3.2% |
-| 53 min | ZAR | Manufacturing Production (MoM) (Mar) |  |  | 0.3% |
-| 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.47% | 0.43% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
-| 13:00 | MXN | PPI (YoY) (Apr) |  |  | 7.30% |
-| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.00% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) | 0.30% |  | -0.50% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
+| 54 min | MXN | Core CPI (MoM) (Apr) |  | 0.47% | 0.43% |
+| 54 min | MXN | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
+| 54 min | MXN | PPI (YoY) (Apr) |  |  | 7.30% |
+| 54 min | MXN | PPI (MoM) (Apr) |  |  | 0.00% |
+| 54 min | BRL | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 226.00K |
 | 14:00 | BRL | Auto Production (MoM) (Apr) |  |  | -12.6% |
 | 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 5.7% |

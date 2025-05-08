@@ -23,22 +23,22 @@
 | 10:00 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.974% |  | 3.691% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.375% |  | 2.756% |
 | 10:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 53 min | GBP | Moderate | BoE MPC vote cut (May) |  | 9 | 1 |
-| 53 min | GBP | Moderate | BoE MPC vote hike (May) |  | 0 | 0 |
-| 53 min | GBP | Moderate | BoE MPC vote unchanged (May) |  | 0 | 8 |
-| 53 min | GBP | High | BoE Interest Rate Decision (May) |  | 4.25% | 4.50% |
-| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 53 min | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | -0.50% |
-| 53 min | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | -3.2% |
-| 53 min | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | 0.3% |
-| 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (Apr) |  | 0.47% | 0.43% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
-| 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) | 0.30% |  | -0.50% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
+| 12:02 | GBP | Moderate | BoE MPC vote cut (May) | 7 | 9 | 1 |
+| 12:02 | GBP | Moderate | BoE MPC vote hike (May) | 0 | 0 | 0 |
+| 12:02 | GBP | Moderate | BoE MPC vote unchanged (May) | 2 | 0 | 8 |
+| 12:02 | GBP | High | BoE Interest Rate Decision (May) | 4.25% | 4.25% | 4.50% |
+| 54 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 54 min | MXN | Low | Core CPI (MoM) (Apr) |  | 0.47% | 0.43% |
+| 54 min | MXN | Moderate | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
+| 54 min | MXN | Moderate | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
+| 54 min | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
+| 54 min | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
+| 54 min | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
+| 54 min | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 231K | 241K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.00K |

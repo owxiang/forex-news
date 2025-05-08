@@ -11,13 +11,13 @@
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:30 | GBP | Mortgage Rate (GBP) (Apr) | 7.21% |  | 7.23% |
 | 10:40 | EUR | German Buba Balz Speaks |  |  |  |
-| 53 min | GBP | BoE MPC vote cut (May) |  | 9 | 1 |
-| 53 min | GBP | BoE MPC vote hike (May) |  | 0 | 0 |
-| 53 min | GBP | BoE MPC vote unchanged (May) |  | 0 | 8 |
-| 53 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 13:00 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
-| 13:00 | MXN | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:02 | GBP | BoE MPC vote cut (May) | 7 | 9 | 1 |
+| 12:02 | GBP | BoE MPC vote hike (May) | 0 | 0 | 0 |
+| 12:02 | GBP | BoE MPC vote unchanged (May) | 2 | 0 | 8 |
+| 54 min | GBP | BOE Inflation Letter |  |  |  |
+| 54 min | MXN | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
+| 54 min | MXN | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,916K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | -0.4% | 1.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 5.3% | 2.2% |
