@@ -16,8 +16,8 @@
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.375% |  | 2.756% |
 | 10:00 | BRL | Brazilian PPI (MoM) (Mar) | -0.62% |  | -0.12% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) | 0.30% |  | -0.50% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) | 0.49% | 0.47% | 0.43% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Apr) | 3.93% | 3.92% | 3.64% |
 | 13:00 | MXN | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
@@ -43,4 +43,4 @@
 | 15:30 | USD | Natural Gas Storage | 104B | 103B | 107B |
 | 16:30 | USD | 4-Week Bill Auction | 4.225% |  | 4.240% |
 | 16:30 | USD | 8-Week Bill Auction | 4.225% |  | 4.220% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
+| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |

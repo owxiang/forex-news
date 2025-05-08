@@ -24,4 +24,4 @@
 | 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 2.3% | 2.2% | 2.2% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,709B |
+| 22 min | USD | Fed's Balance Sheet |  |  | 6,709B |

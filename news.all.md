@@ -26,8 +26,8 @@
 | 10:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) | 0.30% |  | -0.50% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
 | 12:02 | GBP | Moderate | BoE MPC vote cut (May) | 7 | 9 | 1 |
 | 12:02 | GBP | Moderate | BoE MPC vote hike (May) | 0 | 0 | 0 |
 | 12:02 | GBP | Moderate | BoE MPC vote unchanged (May) | 2 | 0 | 8 |
@@ -68,5 +68,5 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.220% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.3% | 2.2% | 2.2% |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.819% |  | 4.813% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,709B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,709B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
