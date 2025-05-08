@@ -26,8 +26,8 @@
 | 10:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) | 0.30% |  | -0.50% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
 | 12:02 | GBP | Moderate | BoE MPC vote cut (May) | 7 | 9 | 1 |
 | 12:02 | GBP | Moderate | BoE MPC vote hike (May) | 0 | 0 | 0 |
 | 12:02 | GBP | Moderate | BoE MPC vote unchanged (May) | 2 | 0 | 8 |
@@ -37,20 +37,32 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 3.93% | 3.92% | 3.64% |
-| 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) | 6.90% |  | 7.30% |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
-| 19 min | USD | High | Initial Jobless Claims |  | 231K | 241K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.00K |
-| 19 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | -0.4% | 1.5% |
-| 19 min | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 5.3% | 2.2% |
-| 49 min | BRL | Low | Auto Production (MoM) (Apr) |  |  | -12.6% |
-| 49 min | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 5.7% |
-| 49 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,879K | 1,890K | 1,908K |
+| 13:30 | USD | High | Initial Jobless Claims | 228K | 231K | 241K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.00K |  | 226.00K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | -0.8% | -0.4% | 1.7% |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 5.7% | 5.3% | 2.0% |
+| 13:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.91M |  | 0.91M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.06M |
+| 13:45 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.35M |  | 3.25M |
+| 13:45 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.93M |  | 3.99M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.40M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.26M |  | 1.29M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M |  | 1.52M |
+| 13:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.97M |  | 8.96M |
+| 13:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.91M |  | 2.91M |
+| 13:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.76M |  | 0.86M |
+| 14:00 | BRL | Low | Auto Production (MoM) (Apr) | 20.1% |  | -12.6% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Apr) | 6.7% |  | 5.7% |
+| 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.5% | 0.5% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.4% |
-| 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
+| 45 min | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.5% | 0.5% |
+| 45 min | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.4% |
+| 45 min | CAD | Low | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 103B | 107B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
