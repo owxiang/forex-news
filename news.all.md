@@ -2,21 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Apr) | -3% |  | 2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
-| 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.405% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
-| 07:00 | EUR | Low | German Exports (MoM) (Mar) |  | 1.0% | 1.8% |
-| 07:00 | EUR | Low | German Imports (MoM) (Mar) |  | 0.4% | 0.7% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | 0.9% | -1.3% |
-| 07:00 | EUR | Moderate | German Trade Balance (Mar) |  | 19.0B | 17.7B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | -4.00% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | 1.4% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 67.45B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 63.167B |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.274% |  | 1.405% |
+| 53 min | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  | 2.6% | 2.8% |
+| 53 min | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
+| 53 min | EUR | Low | German Exports (MoM) (Mar) |  | 1.0% | 1.8% |
+| 53 min | EUR | Low | German Imports (MoM) (Mar) |  | 0.4% | 0.7% |
+| 53 min | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | 0.9% | -1.3% |
+| 53 min | EUR | Moderate | German Trade Balance (Mar) |  | 19.0B | 17.7B |
+| 53 min | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | -4.00% |
+| 53 min | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | 1.4% |
+| 53 min | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 67.45B |
+| 53 min | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 63.167B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | -1.9% |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 413.10B |
@@ -38,8 +36,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
-| 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
+| 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 231K | 241K |

@@ -2,13 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Apr) | -3% |  | 2% |
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 04:35 | JPY | 10-Year JGB Auction |  |  | 1.405% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
-| 07:00 | EUR | German Industrial Production (MoM) (Mar) |  | 0.9% | -1.3% |
-| 07:00 | EUR | German Trade Balance (Mar) |  | 19.0B | 17.7B |
+| 04:35 | JPY | 10-Year JGB Auction | 1.274% |  | 1.405% |
+| 53 min | GBP | Halifax House Price Index (YoY) (Apr) |  | 2.6% | 2.8% |
+| 53 min | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
+| 53 min | EUR | German Industrial Production (MoM) (Mar) |  | 0.9% | -1.3% |
+| 53 min | EUR | German Trade Balance (Mar) |  | 19.0B | 17.7B |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
 | 10:00 | GBP | Mortgage Rate (GBP) (Apr) |  |  | 7.23% |
 | 10:40 | EUR | German Buba Balz Speaks |  |  |  |
