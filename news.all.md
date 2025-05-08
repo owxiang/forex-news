@@ -39,8 +39,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 231K | 241K |
