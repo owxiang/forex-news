@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Apr) | -3% |  | 2% |
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 11 min | JPY | 10-Year JGB Auction |  |  | 1.405% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 1.405% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
 | 07:00 | EUR | German Industrial Production (MoM) (Mar) |  | 0.9% | -1.3% |
 | 07:00 | EUR | German Trade Balance (Mar) |  | 19.0B | 17.7B |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
@@ -17,8 +17,8 @@
 | 12:00 | GBP | BoE MPC vote unchanged (May) |  | 0 | 8 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 13:00 | GBP | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
 | 13:00 | MXN | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
+| 13:00 | MXN | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,916K |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | -0.4% | 1.5% |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 5.3% | 2.2% |

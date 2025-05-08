@@ -6,9 +6,9 @@
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
 | 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
-| 11 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.405% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.405% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) |  | 1.0% | 1.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) |  | 0.4% | 0.7% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | 0.9% | -1.3% |
@@ -35,11 +35,11 @@
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | 0.3% |
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) |  | 0.47% | 0.43% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 231K | 241K |
