@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Apr) | -3% |  | 2% |
 | 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 59 min | JPY | 10-Year JGB Auction |  |  | 1.405% |
+| 11 min | JPY | 10-Year JGB Auction |  |  | 1.405% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
 | 07:00 | EUR | German Industrial Production (MoM) (Mar) |  | 0.9% | -1.3% |

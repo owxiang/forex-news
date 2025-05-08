@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Apr) | -3% |  | 2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 24 min | IDR | Low | FX Reserves (USD) (Apr) |  |  | 157.10B |
-| 24 min | IDR | Low | FX Reserves (USD) (Apr) |  |  | 157.10B |
-| 59 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.405% |
+| 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
+| 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
+| 11 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.405% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 2.8% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -0.5% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) |  | 1.0% | 1.8% |

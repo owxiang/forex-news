@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | IDR | FX Reserves (USD) (Apr) |  |  | 157.10B |
-| 24 min | IDR | FX Reserves (USD) (Apr) |  |  | 157.10B |
+| 04:00 | IDR | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
+| 04:00 | IDR | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
 | 07:00 | EUR | German Exports (MoM) (Mar) |  | 1.0% | 1.8% |
 | 07:00 | EUR | German Imports (MoM) (Mar) |  | 0.4% | 0.7% |
 | 07:00 | EUR | German Industrial Production (YoY) (Mar) |  |  | -4.00% |
