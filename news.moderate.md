@@ -15,13 +15,13 @@
 | 12:02 | GBP | BoE MPC vote cut (May) | 7 | 9 | 1 |
 | 12:02 | GBP | BoE MPC vote hike (May) | 0 | 0 | 0 |
 | 12:02 | GBP | BoE MPC vote unchanged (May) | 2 | 0 | 8 |
-| 54 min | GBP | BOE Inflation Letter |  |  |  |
-| 54 min | MXN | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
-| 54 min | MXN | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,916K |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | -0.4% | 1.5% |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 5.3% | 2.2% |
-| 14:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 13:00 | GBP | BOE Inflation Letter |  |  |  |
+| 13:00 | MXN | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
+| 13:00 | MXN | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
+| 19 min | USD | Continuing Jobless Claims |  | 1,890K | 1,916K |
+| 19 min | USD | Nonfarm Productivity (QoQ) (Q1) |  | -0.4% | 1.5% |
+| 19 min | USD | Unit Labor Costs (QoQ) (Q1) |  | 5.3% | 2.2% |
+| 49 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.2% | 2.2% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,709B |

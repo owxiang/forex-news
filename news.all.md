@@ -22,31 +22,31 @@
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.086% |  | 2.292% |
 | 10:00 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.974% |  | 3.691% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.375% |  | 2.756% |
+| 10:00 | BRL | Low | Brazilian PPI (MoM) (Mar) | -0.62% |  | -0.12% |
 | 10:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) | 0.30% |  | -0.50% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -0.8% |  | -3.2% |
 | 12:02 | GBP | Moderate | BoE MPC vote cut (May) | 7 | 9 | 1 |
 | 12:02 | GBP | Moderate | BoE MPC vote hike (May) | 0 | 0 | 0 |
 | 12:02 | GBP | Moderate | BoE MPC vote unchanged (May) | 2 | 0 | 8 |
 | 12:02 | GBP | High | BoE Interest Rate Decision (May) | 4.25% | 4.25% | 4.50% |
-| 54 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 54 min | MXN | Low | Core CPI (MoM) (Apr) |  | 0.47% | 0.43% |
-| 54 min | MXN | Moderate | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
-| 54 min | MXN | Moderate | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
-| 54 min | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
-| 54 min | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
-| 54 min | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
-| 54 min | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 231K | 241K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.00K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | -0.4% | 1.5% |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 5.3% | 2.2% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Apr) |  |  | -12.6% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 5.7% |
-| 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.49% | 0.47% | 0.43% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 3.93% | 3.92% | 3.64% |
+| 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
+| 13:00 | MXN | Low | PPI (YoY) (Apr) | 6.90% |  | 7.30% |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
+| 19 min | USD | High | Initial Jobless Claims |  | 231K | 241K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.00K |
+| 19 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | -0.4% | 1.5% |
+| 19 min | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 5.3% | 2.2% |
+| 49 min | BRL | Low | Auto Production (MoM) (Apr) |  |  | -12.6% |
+| 49 min | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 5.7% |
+| 49 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.5% | 0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.4% |
