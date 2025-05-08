@@ -34,8 +34,8 @@
 | 12:02 | GBP | High | BoE Interest Rate Decision (May) | 4.25% | 4.25% | 4.50% |
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.49% | 0.47% | 0.43% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 3.93% | 3.92% | 3.64% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) | 6.90% |  | 7.30% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
@@ -60,10 +60,10 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) | 6.7% |  | 5.7% |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 45 min | USD | Low | Wholesale Inventories (MoM) (Mar) |  | 0.5% | 0.5% |
-| 45 min | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.4% |
-| 45 min | CAD | Low | BoC Financial System Review |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 103B | 107B |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) | 0.4% | 0.5% | 0.5% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) | 0.6% |  | 2.0% |
+| 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
+| 23 min | USD | Low | Natural Gas Storage |  | 103B | 107B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.813% |
