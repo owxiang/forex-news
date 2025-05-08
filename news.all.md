@@ -17,13 +17,12 @@
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) | 64.318B |  | 63.167B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) | 1.0% |  | -1.9% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 21 min | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 413.10B |
-| 31 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.292% |
-| 31 min | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.691% |
-| 31 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.756% |
-| 51 min | GBP | Moderate | Mortgage Rate (GBP) (Apr) |  |  | 7.23% |
-| 51 min | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
-| 10:40 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Apr) | 7.21% |  | 7.23% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) | 408.70B |  | 412.50B |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.086% |  | 2.292% |
+| 10:00 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.974% |  | 3.691% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.375% |  | 2.756% |
+| 33 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (May) |  | 9 | 1 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (May) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (May) |  | 0 | 8 |
@@ -39,6 +38,7 @@
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 3.92% | 3.64% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 7.30% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | -0.12% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,916K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 231K | 241K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 226.00K |
