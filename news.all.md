@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 04:00 | IDR | Low | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.274% |  | 1.405% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | 0.3% | 0.2% | -0.5% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 3.2% | 2.6% | 2.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | 0.3% | 0.2% | -0.5% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) | 1.1% | 1.0% | 1.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) | -1.4% | 0.4% | 0.5% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) | 3.0% | 0.9% | -1.3% |
@@ -34,8 +34,8 @@
 | 12:02 | GBP | High | BoE Interest Rate Decision (May) | 4.25% | 4.25% | 4.50% |
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.49% | 0.47% | 0.43% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 3.93% | 3.92% | 3.64% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) | 6.90% |  | 7.30% |
@@ -64,9 +64,9 @@
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) | 0.6% |  | 2.0% |
 | 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 104B | 103B | 107B |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.220% |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.813% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.2% | 2.2% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.225% |  | 4.240% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.220% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.3% | 2.2% | 2.2% |
+| 52 min | USD | High | 30-Year Bond Auction |  |  | 4.813% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,709B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |

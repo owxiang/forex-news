@@ -41,6 +41,6 @@
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) | 0.6% |  | 2.0% |
 | 15:00 | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 104B | 103B | 107B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.240% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.220% |
+| 16:30 | USD | 4-Week Bill Auction | 4.225% |  | 4.240% |
+| 16:30 | USD | 8-Week Bill Auction | 4.225% |  | 4.220% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.000T |
