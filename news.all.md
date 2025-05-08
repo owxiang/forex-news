@@ -11,12 +11,12 @@
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) | -1.4% | 0.4% | 0.5% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) | 3.0% | 0.9% | -1.3% |
 | 07:00 | EUR | Moderate | German Trade Balance (Mar) | 21.1B | 19.0B | 17.9B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Mar) | -0.20% |  | -4.10% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Mar) | -0.42% |  | -4.10% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Mar) | 0.0% |  | 1.3% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Apr) | 67.58B |  | 67.45B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) | 64.318B |  | 63.167B |
-| 51 min | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | -1.9% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) | 1.0% |  | -1.9% |
+| 53 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 413.10B |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.292% |
 | 09:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.691% |

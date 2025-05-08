@@ -5,11 +5,11 @@
 | 04:00 | IDR | FX Reserves (USD) (Apr) | 152.50B |  | 157.10B |
 | 07:00 | EUR | German Exports (MoM) (Mar) | 1.1% | 1.0% | 1.8% |
 | 07:00 | EUR | German Imports (MoM) (Mar) | -1.4% | 0.4% | 0.5% |
-| 07:00 | EUR | German Industrial Production (YoY) (Mar) | -0.20% |  | -4.10% |
+| 07:00 | EUR | German Industrial Production (YoY) (Mar) | -0.42% |  | -4.10% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Mar) | 0.0% |  | 1.3% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 67.58B |  | 67.45B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 64.318B |  | 63.167B |
-| 51 min | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | -1.9% |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | 1.0% |  | -1.9% |
 | 09:30 | HKD | Foreign Reserves (USD) (Apr) |  |  | 413.10B |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.292% |
 | 09:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.691% |
