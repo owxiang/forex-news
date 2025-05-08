@@ -10,11 +10,11 @@
 | 07:00 | EUR | German Trade Balance (Mar) | 21.1B | 19.0B | 17.9B |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:30 | GBP | Mortgage Rate (GBP) (Apr) | 7.21% |  | 7.23% |
-| 33 min | EUR | German Buba Balz Speaks |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (May) |  | 9 | 1 |
-| 12:00 | GBP | BoE MPC vote hike (May) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (May) |  | 0 | 8 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 10:40 | EUR | German Buba Balz Speaks |  |  |  |
+| 53 min | GBP | BoE MPC vote cut (May) |  | 9 | 1 |
+| 53 min | GBP | BoE MPC vote hike (May) |  | 0 | 0 |
+| 53 min | GBP | BoE MPC vote unchanged (May) |  | 0 | 8 |
+| 53 min | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 13:00 | GBP | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | CPI (YoY) (Apr) |  | 3.90% | 3.80% |
 | 13:00 | MXN | CPI (MoM) (Apr) |  | 0.30% | 0.31% |
