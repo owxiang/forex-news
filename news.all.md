@@ -34,11 +34,11 @@
 | 12:02 | GBP | High | BoE Interest Rate Decision (May) | 4.25% | 4.25% | 4.50% |
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.49% | 0.47% | 0.43% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.33% | 0.30% | 0.31% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 3.93% | 3.90% | 3.80% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 3.93% | 3.92% | 3.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Apr) | 6.90% |  | 7.30% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
+| 13:00 | MXN | Low | PPI (YoY) (Apr) | 6.90% |  | 7.30% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,879K | 1,890K | 1,908K |
 | 13:30 | USD | High | Initial Jobless Claims | 228K | 231K | 241K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.00K |  | 226.00K |
