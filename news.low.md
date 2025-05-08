@@ -20,8 +20,8 @@
 | 12:00 | ZAR | Manufacturing Production (MoM) (Mar) | -2.2% |  | 0.7% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) | 0.49% | 0.47% | 0.43% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Apr) | 3.93% | 3.92% | 3.64% |
-| 13:00 | MXN | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
 | 13:00 | MXN | PPI (YoY) (Apr) | 6.90% |  | 7.30% |
+| 13:00 | MXN | PPI (MoM) (Apr) | 0.10% |  | 0.10% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 227.00K |  | 226.00K |
 | 13:45 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.91M |  | 0.91M |
 | 13:45 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
