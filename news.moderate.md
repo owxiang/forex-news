@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
 | 00:30 | JPY | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
+| 00:30 | JPY | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
 | 04:00 | CNY | Exports (YoY) (Apr) | 8.1% | 1.9% | 12.4% |
 | 04:00 | CNY | Imports (YoY) (Apr) | -0.2% | -5.9% | -4.3% |
 | 04:00 | CNY | Trade Balance (USD) (Apr) | 96.18B | 97.00B | 102.64B |
@@ -18,8 +18,8 @@
 | 13:30 | CAD | Unemployment Rate (Apr) | 6.9% | 6.8% | 6.7% |
 | 16:30 | USD | Fed Waller Speaks |  |  |  |
 | 16:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 24.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 177.2K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 163.3K |
