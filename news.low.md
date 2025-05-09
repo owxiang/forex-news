@@ -34,7 +34,7 @@
 | 13:30 | CAD | Full Employment Change (Apr) | 31.5K |  | -62.0K |
 | 13:30 | CAD | Part Time Employment Change (Apr) | -24.2K |  | 29.5K |
 | 13:30 | CAD | Participation Rate (Apr) | 65.3% |  | 65.2% |
-| 46 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 175.4K |

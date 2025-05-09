@@ -48,7 +48,7 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Apr) | -24.2K |  | 29.5K |
 | 13:30 | CAD | Low | Participation Rate (Apr) | 65.3% |  | 65.2% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Apr) | 6.9% | 6.8% | 6.7% |
-| 46 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
