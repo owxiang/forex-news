@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Mar) | 9.14B |  | 7.18B |
-| 23 min | JPY | Moderate | Household Spending (YoY) (Mar) |  | 0.2% | -0.5% |
-| 23 min | JPY | Moderate | Household Spending (MoM) (Mar) |  | -0.5% | 3.5% |
-| 23 min | JPY | Low | Overall wage income of employees (Mar) |  | 2.4% | 3.1% |
-| 23 min | JPY | Low | Overtime Pay (YoY) (Mar) |  |  | 2.20% |
-| 43 min | JPY | Low | Foreign Reserves (USD) (Apr) |  |  | 1,272.5B |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
+| 00:30 | JPY | Low | Overall wage income of employees (Mar) | 2.1% | 2.4% | 2.7% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | -1.10% |  | 2.40% |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Apr) | 1,298.2B |  | 1,272.5B |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Apr) |  |  | -7.20% |
 | 04:00 | CNY | Low | Exports (Apr) |  |  | 13.50M |
 | 04:00 | CNY | Low | Imports (Apr) |  |  | -3.50M |
@@ -21,8 +21,8 @@
 | 06:00 | JPY | Low | Leading Index (Mar) |  | 107.4 | 107.9 |
 | 07:00 | NOK | Low | Core CPI YTD (Apr) |  | 3.2% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Apr) |  | 0.5% | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Apr) |  | 2.5% | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Apr) |  | 0.6% | -0.7% |
+| 07:00 | NOK | Low | CPI (YoY) (Apr) |  | 2.5% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Apr) |  |  | 11.5% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 305,124.0M |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) |  | -34 | -21 |
