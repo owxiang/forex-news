@@ -31,24 +31,23 @@
 | 10:50 | EUR | Low | Italian 12-Month BOT Auction | 1.959% |  | 2.120% |
 | 10:55 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 11:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 9 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.1% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 688.13B |
-| 54 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 54 min | MXN | Low | Consumer Confidence (Apr) |  |  | 46.0 |
-| 54 min | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 46.1 |
-| 54 min | BRL | Low | CPI (MoM) (Apr) |  |  | 0.56% |
-| 54 min | BRL | Moderate | CPI (YoY) (Apr) |  |  | 5.48% |
-| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.51% |
-| 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 3.5% |
-| 13:30 | CAD | Moderate | Employment Change (Apr) |  | 4.1K | -32.6K |
-| 13:30 | CAD | Low | Full Employment Change (Apr) |  |  | -62.0K |
-| 13:30 | CAD | Low | Part Time Employment Change (Apr) |  |  | 29.5K |
-| 13:30 | CAD | Low | Participation Rate (Apr) |  |  | 65.2% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Apr) |  | 6.8% | 6.7% |
+| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 12:30 | INR | Low | Bank Loan Growth | 10.3% |  | 11.0% |
+| 12:30 | INR | Low | Deposit Growth | 10.2% |  | 10.1% |
+| 12:30 | INR | Low | FX Reserves, USD | 686.06B |  | 688.13B |
+| 13:00 | MXN | Low | Consumer Confidence (Apr) | 45.3 |  | 46.0 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) | 45.5 |  | 46.1 |
+| 13:00 | BRL | Low | CPI (MoM) (Apr) | 0.43% |  | 0.56% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Apr) | 5.53% |  | 5.48% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) | 0.41% |  | 0.51% |
+| 20 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 20 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 20 min | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 3.5% |
+| 20 min | CAD | Moderate | Employment Change (Apr) |  | 4.1K | -32.6K |
+| 20 min | CAD | Low | Full Employment Change (Apr) |  |  | -62.0K |
+| 20 min | CAD | Low | Part Time Employment Change (Apr) |  |  | 29.5K |
+| 20 min | CAD | Low | Participation Rate (Apr) |  |  | 65.2% |
+| 20 min | CAD | Moderate | Unemployment Rate (Apr) |  | 6.8% | 6.7% |
 | 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

@@ -22,18 +22,18 @@
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | 0.1% | 0.4% | -0.9% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -1.8% |  | -2.6% |
 | 10:50 | EUR | Italian 12-Month BOT Auction | 1.959% |  | 2.120% |
-| 24 min | INR | Bank Loan Growth |  |  | 11.0% |
-| 24 min | INR | Deposit Growth |  |  | 10.1% |
-| 24 min | INR | FX Reserves, USD |  |  | 688.13B |
-| 54 min | MXN | Consumer Confidence (Apr) |  |  | 46.0 |
-| 54 min | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 46.1 |
-| 54 min | BRL | CPI (MoM) (Apr) |  |  | 0.56% |
-| 54 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.51% |
-| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | CAD | Avg hourly wages Permanent employee (Apr) |  |  | 3.5% |
-| 13:30 | CAD | Full Employment Change (Apr) |  |  | -62.0K |
-| 13:30 | CAD | Part Time Employment Change (Apr) |  |  | 29.5K |
-| 13:30 | CAD | Participation Rate (Apr) |  |  | 65.2% |
+| 12:30 | INR | Bank Loan Growth | 10.3% |  | 11.0% |
+| 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
+| 12:30 | INR | FX Reserves, USD | 686.06B |  | 688.13B |
+| 13:00 | MXN | Consumer Confidence (Apr) | 45.3 |  | 46.0 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Apr) | 45.5 |  | 46.1 |
+| 13:00 | BRL | CPI (MoM) (Apr) | 0.43% |  | 0.56% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Apr) | 0.41% |  | 0.51% |
+| 20 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 20 min | CAD | Avg hourly wages Permanent employee (Apr) |  |  | 3.5% |
+| 20 min | CAD | Full Employment Change (Apr) |  |  | -62.0K |
+| 20 min | CAD | Part Time Employment Change (Apr) |  |  | 29.5K |
+| 20 min | CAD | Participation Rate (Apr) |  |  | 65.2% |
 | 15:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 19.4K |
