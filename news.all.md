@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Mar) | 9.14B |  | 7.18B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
 | 00:30 | JPY | Low | Overall wage income of employees (Mar) | 2.1% | 2.4% | 2.7% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | -1.10% |  | 2.40% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Apr) | 1,298.2B |  | 1,272.5B |
@@ -16,8 +16,8 @@
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Apr) | 96.18B | 97.00B | 102.64B |
 | 04:00 | IDR | Low | Consumer Confidence (Apr) | 121.7 |  | 121.1 |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | -1.3% |  | 0.9% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.5% |  | -0.3% |
 | 06:00 | JPY | Low | Leading Index (Mar) | 107.7 | 107.4 | 107.9 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.5% |  | -0.3% |
 | 07:00 | NOK | Low | Core CPI YTD (Apr) | 3.0% | 3.2% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Apr) | 2.5% | 2.5% | 2.6% |
@@ -25,22 +25,22 @@
 | 07:00 | NOK | Low | PPI (YoY) (Apr) | 2.1% |  | 11.5% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) | 303,057.0M |  | 305,124.0M |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) | -39 | -34 | -21 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -1.8% |  | -2.6% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | 0.1% | 0.4% | -0.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -1.8% |  | -2.6% |
 | 09:40 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:50 | EUR | Low | Italian 12-Month BOT Auction | 1.959% |  | 2.120% |
 | 10:55 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 8 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 688.13B |
-| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 46.0 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 46.1 |
-| 13:00 | BRL | Low | CPI (MoM) (Apr) |  |  | 0.56% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  |  | 5.48% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.51% |
+| 11:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 9 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 24 min | INR | Low | Bank Loan Growth |  |  | 11.0% |
+| 24 min | INR | Low | Deposit Growth |  |  | 10.1% |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 688.13B |
+| 54 min | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 54 min | MXN | Low | Consumer Confidence (Apr) |  |  | 46.0 |
+| 54 min | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 46.1 |
+| 54 min | BRL | Low | CPI (MoM) (Apr) |  |  | 0.56% |
+| 54 min | BRL | Moderate | CPI (YoY) (Apr) |  |  | 5.48% |
+| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.51% |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 3.5% |
