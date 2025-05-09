@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
 | 00:30 | JPY | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
+| 00:30 | JPY | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
 | 04:07 | CNY | Exports (YoY) (Apr) | 8.1% | 1.9% | 12.4% |
 | 04:07 | CNY | Imports (YoY) (Apr) | -0.2% | -5.9% | -4.3% |
 | 04:07 | CNY | Trade Balance (USD) (Apr) | 96.18B | 97.00B | 102.64B |

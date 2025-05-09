@@ -11,17 +11,17 @@
 | 04:07 | CNY | Exports (Apr) | 9.30M |  | 13.50M |
 | 04:07 | CNY | Imports (Apr) | 0.80M |  | -3.50M |
 | 04:08 | CNY | Trade Balance (Apr) | 689.99B | 701.00B | 736.72B |
-| 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | 0.9% |
-| 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | -0.3% |
-| 06:00 | JPY | Leading Index (Mar) |  | 107.4 | 107.9 |
+| 52 min | JPY | Coincident Indicator (MoM) (Mar) |  |  | 0.9% |
+| 52 min | JPY | Leading Index (MoM) (Mar) |  |  | -0.3% |
+| 52 min | JPY | Leading Index (Mar) |  | 107.4 | 107.9 |
 | 07:00 | NOK | Core CPI YTD (Apr) |  | 3.2% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Apr) |  | 0.5% | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Apr) |  | 2.5% | 2.6% |
 | 07:00 | NOK | CPI (MoM) (Apr) |  | 0.6% | -0.7% |
+| 07:00 | NOK | CPI (YoY) (Apr) |  | 2.5% | 2.6% |
 | 07:00 | NOK | PPI (YoY) (Apr) |  |  | 11.5% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 305,124.0M |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.4% | -0.9% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -2.7% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.4% | -0.9% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Apr) |  |  | 7.0% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Apr) |  |  | 7.4% |
 | 10:00 | CNY | Chinese Total Social Financing (Apr) |  |  | 5,890.0B |
