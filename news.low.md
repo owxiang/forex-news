@@ -15,12 +15,12 @@
 | 06:00 | JPY | Leading Index (Mar) | 107.7 | 107.4 | 107.9 |
 | 07:00 | NOK | Core CPI YTD (Apr) | 3.0% | 3.2% | 3.4% |
 | 07:00 | NOK | Core Inflation (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
-| 07:00 | NOK | CPI (MoM) (Apr) | 0.7% | 0.6% | -0.7% |
 | 07:00 | NOK | CPI (YoY) (Apr) | 2.5% | 2.5% | 2.6% |
+| 07:00 | NOK | CPI (MoM) (Apr) | 0.7% | 0.6% | -0.7% |
 | 07:00 | NOK | PPI (YoY) (Apr) | 2.1% |  | 11.5% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) | 303,057.0M |  | 305,124.0M |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -1.8% |  | -2.6% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | 0.1% | 0.4% | -0.9% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -1.8% |  | -2.6% |
 | 10:50 | EUR | Italian 12-Month BOT Auction | 1.959% |  | 2.120% |
 | 12:30 | INR | Bank Loan Growth | 10.3% |  | 11.0% |
 | 12:30 | INR | Deposit Growth | 10.2% |  | 10.1% |
