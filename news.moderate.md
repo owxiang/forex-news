@@ -9,8 +9,8 @@
 | 04:00 | CNY | Trade Balance (USD) (Apr) | 96.18B | 97.00B | 102.64B |
 | 08:00 | CHF | SECO Consumer Climate (Q2) | -39 | -34 | -21 |
 | 09:40 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 48 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 11:15 | USD | FOMC Member Williams Speaks |  |  |  |
+| 10:55 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 8 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
 | 13:00 | BRL | CPI (YoY) (Apr) |  |  | 5.48% |

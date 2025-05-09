@@ -25,12 +25,12 @@
 | 07:00 | NOK | Low | PPI (YoY) (Apr) | 2.1% |  | 11.5% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) | 303,057.0M |  | 305,124.0M |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) | -39 | -34 | -21 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | 0.1% | 0.4% | -0.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -1.8% |  | -2.6% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | 0.1% | 0.4% | -0.9% |
 | 09:40 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 3 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 2.120% |
-| 48 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 11:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 10:50 | EUR | Low | Italian 12-Month BOT Auction | 1.959% |  | 2.120% |
+| 10:55 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 8 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 11.0% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
