@@ -6,11 +6,11 @@
 | 00:30 | JPY | Overall wage income of employees (Mar) | 2.1% | 2.4% | 2.7% |
 | 00:30 | JPY | Overtime Pay (YoY) (Mar) | -1.10% |  | 2.40% |
 | 00:50 | JPY | Foreign Reserves (USD) (Apr) | 1,298.2B |  | 1,272.5B |
-| 26 min | IDR | Motorbike Sales (YoY) (Apr) |  |  | -7.20% |
-| 04:00 | CNY | Exports (Apr) |  |  | 13.50M |
-| 04:00 | CNY | Imports (Apr) |  |  | -3.50M |
-| 04:00 | CNY | Trade Balance (Apr) |  | 701.00B | 736.72B |
-| 04:00 | IDR | Consumer Confidence (Apr) |  |  | 121.1 |
+| 03:00 | IDR | Motorbike Sales (YoY) (Apr) |  |  | -7.20% |
+| 25 min | CNY | Exports (Apr) |  |  | 13.50M |
+| 25 min | CNY | Imports (Apr) |  |  | -3.50M |
+| 25 min | CNY | Trade Balance (Apr) |  | 701.00B | 736.72B |
+| 25 min | IDR | Consumer Confidence (Apr) |  |  | 121.1 |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | 0.9% |
 | 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | -0.3% |
 | 06:00 | JPY | Leading Index (Mar) |  | 107.4 | 107.9 |
