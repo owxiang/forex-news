@@ -13,9 +13,9 @@
 | 11:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | BRL | CPI (YoY) (Apr) | 5.53% |  | 5.48% |
-| 20 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 20 min | CAD | Employment Change (Apr) |  | 4.1K | -32.6K |
-| 20 min | CAD | Unemployment Rate (Apr) |  | 6.8% | 6.7% |
+| 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | CAD | Employment Change (Apr) | 7.4K | 4.1K | -32.6K |
+| 13:30 | CAD | Unemployment Rate (Apr) | 6.9% | 6.8% | 6.7% |
 | 16:30 | USD | Fed Waller Speaks |  |  |  |
 | 16:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |

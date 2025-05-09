@@ -16,8 +16,8 @@
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Apr) | 96.18B | 97.00B | 102.64B |
 | 04:00 | IDR | Low | Consumer Confidence (Apr) | 121.7 |  | 121.1 |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | -1.3% |  | 0.9% |
-| 06:00 | JPY | Low | Leading Index (Mar) | 107.7 | 107.4 | 107.9 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.5% |  | -0.3% |
+| 06:00 | JPY | Low | Leading Index (Mar) | 107.7 | 107.4 | 107.9 |
 | 07:00 | NOK | Low | Core CPI YTD (Apr) | 3.0% | 3.2% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Apr) | 2.5% | 2.5% | 2.6% |
@@ -40,15 +40,15 @@
 | 13:00 | BRL | Low | CPI (MoM) (Apr) | 0.43% |  | 0.56% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Apr) | 5.53% |  | 5.48% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) | 0.41% |  | 0.51% |
-| 20 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 20 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 20 min | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 3.5% |
-| 20 min | CAD | Moderate | Employment Change (Apr) |  | 4.1K | -32.6K |
-| 20 min | CAD | Low | Full Employment Change (Apr) |  |  | -62.0K |
-| 20 min | CAD | Low | Part Time Employment Change (Apr) |  |  | 29.5K |
-| 20 min | CAD | Low | Participation Rate (Apr) |  |  | 65.2% |
-| 20 min | CAD | Moderate | Unemployment Rate (Apr) |  | 6.8% | 6.7% |
-| 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Apr) | 3.5% |  | 3.5% |
+| 13:30 | CAD | Moderate | Employment Change (Apr) | 7.4K | 4.1K | -32.6K |
+| 13:30 | CAD | Low | Full Employment Change (Apr) | 31.5K |  | -62.0K |
+| 13:30 | CAD | Low | Part Time Employment Change (Apr) | -24.2K |  | 29.5K |
+| 13:30 | CAD | Low | Participation Rate (Apr) | 65.3% |  | 65.2% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Apr) | 6.9% | 6.8% | 6.7% |
+| 46 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
