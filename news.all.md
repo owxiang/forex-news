@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Mar) | 9.14B |  | 7.18B |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
 | 00:30 | JPY | Low | Overall wage income of employees (Mar) | 2.1% | 2.4% | 2.7% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | -1.10% |  | 2.40% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Apr) | 1,298.2B |  | 1,272.5B |
@@ -20,8 +20,8 @@
 | 06:00 | JPY | Low | Leading Index (Mar) | 107.7 | 107.4 | 107.9 |
 | 07:00 | NOK | Low | Core CPI YTD (Apr) | 3.0% | 3.2% | 3.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Apr) | 2.5% | 2.5% | 2.6% |
 | 07:00 | NOK | Low | CPI (MoM) (Apr) | 0.7% | 0.6% | -0.7% |
+| 07:00 | NOK | Low | CPI (YoY) (Apr) | 2.5% | 2.5% | 2.6% |
 | 07:00 | NOK | Low | PPI (YoY) (Apr) | 2.1% |  | 11.5% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) | 303,057.0M |  | 305,124.0M |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) | -39 | -34 | -21 |
@@ -37,8 +37,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 686.06B |  | 688.13B |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) | 45.3 |  | 46.0 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) | 45.5 |  | 46.1 |
-| 13:00 | BRL | Low | CPI (MoM) (Apr) | 0.43% |  | 0.56% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Apr) | 5.53% |  | 5.48% |
+| 13:00 | BRL | Low | CPI (MoM) (Apr) | 0.43% |  | 0.56% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) | 0.41% |  | 0.51% |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
