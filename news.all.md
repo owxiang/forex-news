@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Mar) | 9.14B |  | 7.18B |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
 | 00:30 | JPY | Low | Overall wage income of employees (Mar) | 2.1% | 2.4% | 2.7% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | -1.10% |  | 2.40% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Apr) | 1,298.2B |  | 1,272.5B |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (Apr) |  |  | -7.20% |
-| 25 min | CNY | Low | Exports (Apr) |  |  | 13.50M |
-| 25 min | CNY | Low | Imports (Apr) |  |  | -3.50M |
-| 25 min | CNY | Low | Trade Balance (Apr) |  | 701.00B | 736.72B |
-| 25 min | CNY | Moderate | Exports (YoY) (Apr) |  | 1.9% | 12.4% |
-| 25 min | CNY | Moderate | Imports (YoY) (Apr) |  | -5.9% | -4.3% |
-| 25 min | CNY | Moderate | Trade Balance (USD) (Apr) |  | 97.00B | 102.64B |
-| 25 min | IDR | Low | Consumer Confidence (Apr) |  |  | 121.1 |
+| 04:00 | IDR | Low | Consumer Confidence (Apr) | 121.7 |  | 121.1 |
+| 04:07 | CNY | Low | Exports (Apr) | 9.30M |  | 13.50M |
+| 04:07 | CNY | Low | Imports (Apr) | 0.80M |  | -3.50M |
+| 04:07 | CNY | Moderate | Exports (YoY) (Apr) | 8.1% | 1.9% | 12.4% |
+| 04:07 | CNY | Moderate | Imports (YoY) (Apr) | -0.2% | -5.9% | -4.3% |
+| 04:07 | CNY | Moderate | Trade Balance (USD) (Apr) | 96.18B | 97.00B | 102.64B |
+| 04:08 | CNY | Low | Trade Balance (Apr) | 689.99B | 701.00B | 736.72B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) |  |  | 0.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) |  |  | -0.3% |
 | 06:00 | JPY | Low | Leading Index (Mar) |  | 107.4 | 107.9 |
@@ -26,8 +26,8 @@
 | 07:00 | NOK | Low | PPI (YoY) (Apr) |  |  | 11.5% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 305,124.0M |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) |  | -34 | -21 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | -2.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.4% | -0.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | -2.7% |
 | 09:40 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Apr) |  |  | 7.0% |
 | 10:00 | CNY | Moderate | New Loans (Apr) |  |  | 3,640.0B |
@@ -43,8 +43,8 @@
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 46.0 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 46.1 |
-| 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  |  | 5.48% |
 | 13:00 | BRL | Low | CPI (MoM) (Apr) |  |  | 0.56% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  |  | 5.48% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.51% |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Apr) |  |  | 3.5% |

@@ -7,10 +7,10 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Mar) | -1.10% |  | 2.40% |
 | 00:50 | JPY | Foreign Reserves (USD) (Apr) | 1,298.2B |  | 1,272.5B |
 | 03:00 | IDR | Motorbike Sales (YoY) (Apr) |  |  | -7.20% |
-| 25 min | CNY | Exports (Apr) |  |  | 13.50M |
-| 25 min | CNY | Imports (Apr) |  |  | -3.50M |
-| 25 min | CNY | Trade Balance (Apr) |  | 701.00B | 736.72B |
-| 25 min | IDR | Consumer Confidence (Apr) |  |  | 121.1 |
+| 04:00 | IDR | Consumer Confidence (Apr) | 121.7 |  | 121.1 |
+| 04:07 | CNY | Exports (Apr) | 9.30M |  | 13.50M |
+| 04:07 | CNY | Imports (Apr) | 0.80M |  | -3.50M |
+| 04:08 | CNY | Trade Balance (Apr) | 689.99B | 701.00B | 736.72B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | 0.9% |
 | 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | -0.3% |
 | 06:00 | JPY | Leading Index (Mar) |  | 107.4 | 107.9 |
@@ -20,8 +20,8 @@
 | 07:00 | NOK | CPI (MoM) (Apr) |  | 0.6% | -0.7% |
 | 07:00 | NOK | PPI (YoY) (Apr) |  |  | 11.5% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 305,124.0M |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -2.7% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.4% | -0.9% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -2.7% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Apr) |  |  | 7.0% |
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Apr) |  |  | 7.4% |
 | 10:00 | CNY | Chinese Total Social Financing (Apr) |  |  | 5,890.0B |
