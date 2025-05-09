@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Mar) | 9.14B |  | 7.18B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 0.4% | -0.5% | 3.5% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | 2.1% | 0.2% | -0.5% |
 | 00:30 | JPY | Low | Overall wage income of employees (Mar) | 2.1% | 2.4% | 2.7% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | -1.10% |  | 2.40% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Apr) | 1,298.2B |  | 1,272.5B |
@@ -51,8 +51,8 @@
 | 15:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 474 |  | 479 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 578 |  | 584 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 24.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 19.4K |
