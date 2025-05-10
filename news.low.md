@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 00:45 | USD | Fed Governor Cook Speaks |  |  |  |
