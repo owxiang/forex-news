@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 55 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Barkin Speaks |  |  |  |
