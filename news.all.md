@@ -9,8 +9,8 @@
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.864% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  |  | -1.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  |  | 2.5% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  |  | -1.3% |
 | 13:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.901% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.072% |
