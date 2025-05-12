@@ -7,5 +7,5 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 53 min | USD | WASDE Report |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Apr) |  | 256.4B | -161.0B |
