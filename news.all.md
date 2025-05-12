@@ -20,4 +20,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.105% |  | 4.090% |
 | 17:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Apr) |  | 256.4B | -161.0B |
+| 54 min | USD | Moderate | Federal Budget Balance (Apr) |  | 256.4B | -161.0B |
