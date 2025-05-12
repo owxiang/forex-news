@@ -1,23 +1,56 @@
-## 12 May 2025 - All Forex News
+## 13 May 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Current Account (Mar) | 2.72T | 2.42T | 2.91T |
-| 00:50 | JPY | Low | Bank Lending (YoY) (Apr) | 2.4% | 2.8% | 2.8% |
-| 00:50 | JPY | Moderate | Current Account n.s.a. (Mar) | 3.678T | 3.678T | 4.061T |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 42.6 | 44.7 | 45.1 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:15 | EUR | Low | German 12-Month Bubill Auction | 1.873% |  | 1.864% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | -0.9% | -1.1% | 2.2% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | 1.9% | 1.5% | -1.2% |
-| 13:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.985% |  | 1.901% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.057% |  | 2.072% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.023% |  | 1.982% |
-| 16:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.300% |  | 4.220% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.105% |  | 4.090% |
-| 17:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Apr) | 258.0B | 256.4B | -161.0B |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Apr) | 6.8% | 2.4% | 0.9% |
+| 43 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 43 min | JPY | Low | M2 Money Stock (YoY) |  | 0.6% | 0.8% |
+| 43 min | JPY | Low | M3 Money Supply (Apr) |  |  | 2,202.2B |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -6.0% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -8.8% | -0.3% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Apr) |  |  | -3 |
+| 02:30 | AUD | Low | NAB Business Survey (Apr) |  |  | 4 |
+| 02:30 | AUD | Low | Private House Approvals (Mar) |  | -4.5% | 1.0% |
+| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.414% |
+| 05:30 | NOK | Low | Consumer Confidence (Q2) |  |  | -7.50 |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Mar) |  | 5.7% | 5.9% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 5.2% | 5.6% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Apr) |  | 22.3K | 18.7K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | 120K | 206K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Mar) |  | 4.5% | 4.4% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.100% |
+| 09:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.0 | -81.2 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) |  | 9.8 | -14.0 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) |  | -4.4 | -18.5 |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.44% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.30% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.670% |
+| 10:30 | ZAR | Low | Unemployment Rate (Q1) |  |  | 31.90% |
+| 10:30 | ZAR | Low | Unemployment (Q1) |  |  | 7.991M |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Apr) |  | 94.6 | 97.4 |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:30 | INR | Moderate | CPI (YoY) (Apr) |  | 3.27% | 3.34% |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
+| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.1% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
+| 13:30 | USD | Low | Core CPI Index (Apr) |  |  | 325.66 |
+| 13:30 | USD | High | CPI (YoY) (Apr) |  | 2.4% | 2.4% |
+| 13:30 | USD | High | CPI (MoM) (Apr) |  | 0.3% | -0.1% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Apr) |  | 320.86 | 319.80 |
+| 13:30 | USD | Low | CPI Index, s.a (Apr) |  |  | 319.62 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Apr) |  |  | 0.22% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Apr) |  |  | 0.3% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.9% |
+| 15:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) |  |  | 0.3% |
+| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.820% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -4.490M |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -1.6% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.8% |
+| 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 1.10% |
+| 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 5,430 |
+| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -3.7% |
