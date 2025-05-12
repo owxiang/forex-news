@@ -6,11 +6,10 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (Apr) | 2.4% | 2.8% | 2.8% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Mar) | 3.678T | 3.678T | 4.061T |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 42.6 | 44.7 | 45.1 |
-| 11:00 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.864% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  | -1.1% | 2.5% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  | 1.5% | -1.3% |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | MXN | Low | Industrial Production (MoM) (Mar) |  | -1.1% | 2.5% |
+| 54 min | MXN | Low | Industrial Production (YoY) (Mar) |  | 1.5% | -1.3% |
 | 13:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.901% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.072% |
