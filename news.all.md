@@ -8,7 +8,6 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 42.6 | 44.7 | 45.1 |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.864% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Apr) |  |  | 3.34% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  |  | -1.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  |  | 2.5% |
