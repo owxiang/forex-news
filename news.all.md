@@ -10,8 +10,8 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Apr) |  |  | 3.34% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  |  | 2.5% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  |  | -1.3% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  |  | 2.5% |
 | 13:50 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.901% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.072% |
