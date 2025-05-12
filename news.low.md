@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Bank Lending (YoY) (Apr) | 2.4% | 2.8% | 2.8% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) | 42.6 | 44.7 | 45.1 |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.864% |
+| 22 min | EUR | German 12-Month Bubill Auction |  |  | 1.864% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Industrial Production (MoM) (Mar) |  |  | 2.5% |
 | 13:00 | MXN | Industrial Production (YoY) (Mar) |  |  | -1.3% |
+| 13:00 | MXN | Industrial Production (MoM) (Mar) |  |  | 2.5% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.901% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.072% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.982% |
