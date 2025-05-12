@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Adjusted Current Account (Mar) |  |  | 2.32T |
-| 44 min | JPY | Current Account n.s.a. (Mar) |  | 3.678T | 4.061T |
+| 00:50 | JPY | Adjusted Current Account (Mar) | 272.31T |  | 290.62T |
+| 00:50 | JPY | Current Account n.s.a. (Mar) | 3.678T | 3.678T | 4.061T |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | INR | CPI (YoY) (Apr) |  |  | 3.34% |
 | 13:50 | GBP | BoE MPC Member Mann Speaks |  |  |  |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Moderate | Adjusted Current Account (Mar) |  |  | 2.32T |
-| 44 min | JPY | Low | Bank Lending (YoY) (Apr) |  |  | 2.8% |
-| 44 min | JPY | Moderate | Current Account n.s.a. (Mar) |  | 3.678T | 4.061T |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Mar) | 272.31T |  | 290.62T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Apr) | 2.4% |  | 2.8% |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Mar) | 3.678T | 3.678T | 4.061T |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) |  | 44.7 | 45.1 |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.864% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |

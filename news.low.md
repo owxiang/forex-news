@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Bank Lending (YoY) (Apr) |  |  | 2.8% |
+| 00:50 | JPY | Bank Lending (YoY) (Apr) | 2.4% |  | 2.8% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) |  | 44.7 | 45.1 |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.864% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
