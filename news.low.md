@@ -8,8 +8,8 @@
 | 01:30 | AUD | Westpac Consumer Sentiment (May) | 2.2% |  | -6.0% |
 | 02:30 | AUD | NAB Business Survey (Apr) | 2 |  | 4 |
 | 02:30 | AUD | Private House Approvals (Mar) | -4.5% | -4.5% | 1.0% |
-| 10 min | JPY | 30-Year JGB Auction |  |  | 2.414% |
-| 05:30 | NOK | Consumer Confidence (Q2) |  |  | -7.50 |
+| 04:35 | JPY | 30-Year JGB Auction | 2.941% |  | 2.414% |
+| 21 min | NOK | Consumer Confidence (Q2) |  |  | -7.50 |
 | 07:00 | GBP | Average Earnings ex Bonus (Mar) |  | 5.7% | 5.9% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.100% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.44% |
