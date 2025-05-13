@@ -9,10 +9,10 @@
 | 07:00 | GBP | Claimant Count Change (Apr) | 5.2K | 22.3K | -16.9K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Mar) | 112K | 120K | 206K |
 | 07:00 | GBP | Unemployment Rate (Mar) | 4.5% | 4.5% | 4.4% |
-| 36 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 51 min | EUR | German ZEW Current Conditions (May) |  | -77.0 | -81.2 |
-| 51 min | EUR | German ZEW Economic Sentiment (May) |  | 10.7 | -14.0 |
-| 51 min | EUR | ZEW Economic Sentiment (May) |  | -3.5 | -18.5 |
+| 09:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 10:00 | EUR | German ZEW Current Conditions (May) | -82.0 | -77.0 | -81.2 |
+| 10:00 | EUR | German ZEW Economic Sentiment (May) | 25.2 | 10.7 | -14.0 |
+| 10:00 | EUR | ZEW Economic Sentiment (May) | 11.6 | -3.5 | -18.5 |
 | 11:30 | INR | CPI (YoY) (Apr) |  | 3.27% | 3.34% |
 | 13:30 | USD | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
 | 15:00 | EUR | German Buba Balz Speaks |  |  |  |
