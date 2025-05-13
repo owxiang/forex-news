@@ -13,11 +13,11 @@
 | 02:30 | AUD | Low | Private House Approvals (Mar) | -4.5% | -4.5% | 1.0% |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.941% |  | 2.414% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) | -16.40 |  | -13.40 |
-| 53 min | GBP | Low | Average Earnings ex Bonus (Mar) |  | 5.7% | 5.9% |
-| 53 min | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 5.2% | 5.6% |
-| 53 min | GBP | Moderate | Claimant Count Change (Apr) |  | 22.3K | 18.7K |
-| 53 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | 120K | 206K |
-| 53 min | GBP | Moderate | Unemployment Rate (Mar) |  | 4.5% | 4.4% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Mar) | 5.6% | 5.7% | 5.9% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Mar) | 5.5% | 5.2% | 5.7% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Apr) | 5.2K | 22.3K | -16.9K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) | 112K | 120K | 206K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Mar) | 4.5% | 4.5% | 4.4% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.100% |
 | 09:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.0 | -81.2 |

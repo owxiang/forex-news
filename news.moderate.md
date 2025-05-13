@@ -5,10 +5,10 @@
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | 6.8% | 2.4% | 0.9% |
 | 02:30 | AUD | Building Approvals (MoM) (Mar) | -8.8% | -8.8% | -0.3% |
 | 02:30 | AUD | NAB Business Confidence (Apr) | -1 |  | -2 |
-| 53 min | GBP | Average Earnings Index +Bonus (Mar) |  | 5.2% | 5.6% |
-| 53 min | GBP | Claimant Count Change (Apr) |  | 22.3K | 18.7K |
-| 53 min | GBP | Employment Change 3M/3M (MoM) (Mar) |  | 120K | 206K |
-| 53 min | GBP | Unemployment Rate (Mar) |  | 4.5% | 4.4% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Mar) | 5.5% | 5.2% | 5.7% |
+| 07:00 | GBP | Claimant Count Change (Apr) | 5.2K | 22.3K | -16.9K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Mar) | 112K | 120K | 206K |
+| 07:00 | GBP | Unemployment Rate (Mar) | 4.5% | 4.5% | 4.4% |
 | 09:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (May) |  | -77.0 | -81.2 |
 | 10:00 | EUR | German ZEW Economic Sentiment (May) |  | 10.7 | -14.0 |
