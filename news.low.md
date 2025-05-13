@@ -19,7 +19,7 @@
 | 10:50 | EUR | Italian 7-Year BTP Auction | 3.28% |  | 3.30% |
 | 11:00 | USD | NFIB Small Business Optimism (Apr) | 95.8 | 94.9 | 97.4 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 52 min | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Core CPI Index (Apr) |  |  | 325.66 |
 | 13:30 | USD | CPI Index, n.s.a. (Apr) |  | 320.86 | 319.80 |
 | 13:30 | USD | CPI Index, s.a (Apr) |  |  | 319.62 |

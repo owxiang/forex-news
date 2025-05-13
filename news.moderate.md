@@ -13,7 +13,7 @@
 | 10:00 | EUR | German ZEW Current Conditions (May) | -82.0 | -77.0 | -81.2 |
 | 10:00 | EUR | German ZEW Economic Sentiment (May) | 25.2 | 10.7 | -14.0 |
 | 10:00 | EUR | ZEW Economic Sentiment (May) | 11.6 | -3.5 | -18.5 |
-| 22 min | INR | CPI (YoY) (Apr) |  | 3.27% | 3.34% |
+| 11:30 | INR | CPI (YoY) (Apr) | 3.16% | 3.27% | 3.34% |
 | 13:30 | USD | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
 | 15:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
