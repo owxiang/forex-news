@@ -48,7 +48,7 @@
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) | 0.3% |  | 0.3% |
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.930% |  | 3.820% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.400M | -4.490M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.400M | -4.490M |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.8% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -1.6% |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 1.10% |

@@ -18,5 +18,5 @@
 | 15:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.400M | -4.490M |
+| 23 min | USD | API Weekly Crude Oil Stock |  | -2.400M | -4.490M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.8% |
