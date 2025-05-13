@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | 6.8% | 2.4% | 0.9% |
-| 02:30 | AUD | Building Approvals (MoM) (Mar) |  | -8.8% | -0.3% |
+| 02:30 | AUD | Building Approvals (MoM) (Mar) | -8.8% | -8.8% | -0.3% |
 | 02:30 | AUD | NAB Business Confidence (Apr) | -1 |  | -3 |
 | 07:00 | GBP | Average Earnings Index +Bonus (Mar) |  | 5.2% | 5.6% |
 | 07:00 | GBP | Claimant Count Change (Apr) |  | 22.3K | 18.7K |
