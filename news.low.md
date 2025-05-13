@@ -20,13 +20,13 @@
 | 11:00 | USD | NFIB Small Business Optimism (Apr) | 95.8 | 94.9 | 97.4 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 19 min | USD | Core CPI Index (Apr) |  |  | 325.66 |
-| 19 min | USD | CPI Index, n.s.a. (Apr) |  | 320.86 | 319.80 |
-| 19 min | USD | CPI Index, s.a (Apr) |  |  | 319.62 |
-| 19 min | USD | CPI, n.s.a (MoM) (Apr) |  |  | 0.22% |
-| 19 min | USD | Real Earnings (MoM) (Apr) |  |  | 0.3% |
-| 34 min | EUR | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
-| 44 min | USD | Redbook (YoY) |  |  | 6.9% |
+| 13:30 | USD | Core CPI Index (Apr) | 326.43 |  | 325.66 |
+| 13:30 | USD | CPI Index, n.s.a. (Apr) | 320.80 | 320.86 | 319.80 |
+| 13:30 | USD | CPI Index, s.a (Apr) | 320.32 |  | 319.62 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Apr) | 0.31% |  | 0.22% |
+| 13:30 | USD | Real Earnings (MoM) (Apr) | -0.1% |  | 0.6% |
+| 13:30 | EUR | German Current Account Balance n.s.a (Mar) | 34.1B |  | 20.0B |
+| 13:55 | USD | Redbook (YoY) | 5.8% |  | 6.9% |
 | 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.3% |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.820% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Apr) |  |  | -1.6% |

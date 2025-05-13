@@ -14,8 +14,8 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (May) | 25.2 | 10.7 | -14.0 |
 | 10:00 | EUR | ZEW Economic Sentiment (May) | 11.6 | -3.5 | -18.5 |
 | 11:30 | INR | CPI (YoY) (Apr) | 3.16% | 3.27% | 3.34% |
-| 19 min | USD | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
-| 15:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 13:30 | USD | Core CPI (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
+| 45 min | EUR | German Buba Balz Speaks |  |  |  |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.400M | -4.490M |
