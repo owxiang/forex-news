@@ -11,7 +11,7 @@
 | 04:35 | JPY | 30-Year JGB Auction | 2.941% |  | 2.414% |
 | 05:30 | NOK | Consumer Confidence (Q2) | -16.40 |  | -13.40 |
 | 07:00 | GBP | Average Earnings ex Bonus (Mar) | 5.6% | 5.7% | 5.9% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 2.100% |
+| 31 min | EUR | Spanish 3-Month Letras Auction |  |  | 2.100% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.44% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.30% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.670% |

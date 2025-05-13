@@ -18,11 +18,11 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Apr) | 5.2K | 22.3K | -16.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) | 112K | 120K | 206K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Mar) | 4.5% | 4.5% | 4.4% |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.100% |
-| 09:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.0 | -81.2 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) |  | 10.7 | -14.0 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) |  | -3.5 | -18.5 |
+| 31 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.100% |
+| 36 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 51 min | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.0 | -81.2 |
+| 51 min | EUR | Moderate | German ZEW Economic Sentiment (May) |  | 10.7 | -14.0 |
+| 51 min | EUR | Moderate | ZEW Economic Sentiment (May) |  | -3.5 | -18.5 |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.44% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.30% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.670% |
@@ -33,8 +33,8 @@
 | 11:30 | INR | Moderate | CPI (YoY) (Apr) |  | 3.27% | 3.34% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
-| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
+| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.1% |
 | 13:30 | USD | Low | Core CPI Index (Apr) |  |  | 325.66 |
 | 13:30 | USD | High | CPI (MoM) (Apr) |  | 0.3% | -0.1% |
 | 13:30 | USD | High | CPI (YoY) (Apr) |  | 2.4% | 2.4% |
