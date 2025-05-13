@@ -32,17 +32,17 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Apr) | 3.16% | 3.27% | 3.34% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.1% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
-| 13:30 | USD | Low | Core CPI Index (Apr) |  |  | 325.66 |
-| 13:30 | USD | High | CPI (YoY) (Apr) |  | 2.4% | 2.4% |
-| 13:30 | USD | High | CPI (MoM) (Apr) |  | 0.3% | -0.1% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Apr) |  | 320.86 | 319.80 |
-| 13:30 | USD | Low | CPI Index, s.a (Apr) |  |  | 319.62 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Apr) |  |  | 0.22% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Apr) |  |  | 0.3% |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.9% |
+| 19 min | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.1% |
+| 19 min | USD | Moderate | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
+| 19 min | USD | Low | Core CPI Index (Apr) |  |  | 325.66 |
+| 19 min | USD | High | CPI (YoY) (Apr) |  | 2.4% | 2.4% |
+| 19 min | USD | High | CPI (MoM) (Apr) |  | 0.3% | -0.1% |
+| 19 min | USD | Low | CPI Index, n.s.a. (Apr) |  | 320.86 | 319.80 |
+| 19 min | USD | Low | CPI Index, s.a (Apr) |  |  | 319.62 |
+| 19 min | USD | Low | CPI, n.s.a (MoM) (Apr) |  |  | 0.22% |
+| 19 min | USD | Low | Real Earnings (MoM) (Apr) |  |  | 0.3% |
+| 34 min | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
+| 44 min | USD | Low | Redbook (YoY) |  |  | 6.9% |
 | 15:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
