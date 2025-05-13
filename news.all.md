@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | M3 Money Supply (Apr) | 2,194.7B |  | 2,203.0B |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | 2.2% |  | -6.0% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -8.8% | -0.3% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Apr) |  |  | -3 |
-| 02:30 | AUD | Low | NAB Business Survey (Apr) |  |  | 4 |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Apr) | -1 |  | -3 |
+| 02:30 | AUD | Low | NAB Business Survey (Apr) | 2 |  | 4 |
 | 02:30 | AUD | Low | Private House Approvals (Mar) |  | -4.5% | 1.0% |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.414% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) |  |  | -7.50 |

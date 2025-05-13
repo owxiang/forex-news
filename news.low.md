@@ -6,7 +6,7 @@
 | 00:50 | JPY | M2 Money Stock (YoY) |  | 0.6% | 0.8% |
 | 00:50 | JPY | M3 Money Supply (Apr) | 2,194.7B |  | 2,203.0B |
 | 01:30 | AUD | Westpac Consumer Sentiment (May) | 2.2% |  | -6.0% |
-| 02:30 | AUD | NAB Business Survey (Apr) |  |  | 4 |
+| 02:30 | AUD | NAB Business Survey (Apr) | 2 |  | 4 |
 | 02:30 | AUD | Private House Approvals (Mar) |  | -4.5% | 1.0% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.414% |
 | 05:30 | NOK | Consumer Confidence (Q2) |  |  | -7.50 |
