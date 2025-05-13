@@ -3,6 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | Core CPI (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
-| 13:30 | USD | CPI (YoY) (Apr) | 2.3% | 2.4% | 2.4% |
 | 13:30 | USD | CPI (MoM) (Apr) | 0.2% | 0.3% | -0.1% |
+| 13:30 | USD | CPI (YoY) (Apr) | 2.3% | 2.4% | 2.4% |
 | 16:30 | USD | U.S. President Trump Speaks |  |  |  |
