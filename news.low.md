@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | BoJ Summary of Opinions |  |  |  |
-| 43 min | JPY | M2 Money Stock (YoY) |  | 0.6% | 0.8% |
-| 43 min | JPY | M3 Money Supply (Apr) |  |  | 2,202.2B |
-| 01:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -6.0% |
+| 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | M2 Money Stock (YoY) |  | 0.6% | 0.8% |
+| 00:50 | JPY | M3 Money Supply (Apr) | 2,194.7B |  | 2,203.0B |
+| 01:30 | AUD | Westpac Consumer Sentiment (May) | 2.2% |  | -6.0% |
 | 02:30 | AUD | NAB Business Survey (Apr) |  |  | 4 |
 | 02:30 | AUD | Private House Approvals (Mar) |  | -4.5% | 1.0% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.414% |

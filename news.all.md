@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Apr) | 6.8% | 2.4% | 0.9% |
-| 43 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 43 min | JPY | Low | M2 Money Stock (YoY) |  | 0.6% | 0.8% |
-| 43 min | JPY | Low | M3 Money Supply (Apr) |  |  | 2,202.2B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -6.0% |
+| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) |  | 0.6% | 0.8% |
+| 00:50 | JPY | Low | M3 Money Supply (Apr) | 2,194.7B |  | 2,203.0B |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | 2.2% |  | -6.0% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) |  | -8.8% | -0.3% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Apr) |  |  | -3 |
 | 02:30 | AUD | Low | NAB Business Survey (Apr) |  |  | 4 |
