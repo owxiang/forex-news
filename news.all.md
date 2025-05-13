@@ -11,7 +11,7 @@
 | 02:30 | AUD | Moderate | NAB Business Confidence (Apr) | -1 |  | -3 |
 | 02:30 | AUD | Low | NAB Business Survey (Apr) | 2 |  | 4 |
 | 02:30 | AUD | Low | Private House Approvals (Mar) | -4.5% | -4.5% | 1.0% |
-| 59 min | JPY | Low | 30-Year JGB Auction |  |  | 2.414% |
+| 10 min | JPY | Low | 30-Year JGB Auction |  |  | 2.414% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) |  |  | -7.50 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Mar) |  | 5.7% | 5.9% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 5.2% | 5.6% |
@@ -33,8 +33,8 @@
 | 11:30 | INR | Moderate | CPI (YoY) (Apr) |  | 3.27% | 3.34% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
-| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Apr) |  | 2.8% | 2.8% |
+| 13:30 | USD | High | Core CPI (MoM) (Apr) |  | 0.3% | 0.1% |
 | 13:30 | USD | Low | Core CPI Index (Apr) |  |  | 325.66 |
 | 13:30 | USD | High | CPI (MoM) (Apr) |  | 0.3% | -0.1% |
 | 13:30 | USD | High | CPI (YoY) (Apr) |  | 2.4% | 2.4% |
