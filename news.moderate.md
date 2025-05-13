@@ -1,22 +1,17 @@
-## 13 May 2025 - Moderate Impact Forex News
+## 14 May 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | 6.8% | 2.4% | 0.9% |
-| 02:30 | AUD | Building Approvals (MoM) (Mar) | -8.8% | -8.8% | -0.3% |
-| 02:30 | AUD | NAB Business Confidence (Apr) | -1 |  | -2 |
-| 07:00 | GBP | Average Earnings Index +Bonus (Mar) | 5.5% | 5.2% | 5.7% |
-| 07:00 | GBP | Claimant Count Change (Apr) | 5.2K | 22.3K | -16.9K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Mar) | 112K | 120K | 206K |
-| 07:00 | GBP | Unemployment Rate (Mar) | 4.5% | 4.5% | 4.4% |
-| 09:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (May) | -82.0 | -77.0 | -81.2 |
-| 10:00 | EUR | German ZEW Economic Sentiment (May) | 25.2 | 10.7 | -14.0 |
-| 10:00 | EUR | ZEW Economic Sentiment (May) | 11.6 | -3.5 | -18.5 |
-| 11:30 | INR | CPI (YoY) (Apr) | 3.16% | 3.27% | 3.34% |
-| 13:30 | USD | Core CPI (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
-| 15:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 4.287M | -2.400M | -4.490M |
-| 39 min | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.8% |
+| 02:30 | AUD | Wage Price Index (QoQ) (Q1) |  | 0.8% | 0.7% |
+| 07:00 | EUR | German CPI (YoY) (Apr) |  | 2.1% | 2.2% |
+| 07:30 | INR | WPI Inflation (YoY) (Apr) |  | 1.76% | 2.05% |
+| 08:00 | EUR | Spanish CPI (YoY) (Apr) |  | 2.2% | 2.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (Apr) |  | 2.2% | 2.2% |
+| 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | CNY | New Loans (Apr) |  | 710.0B | 3,640.0B |
+| 10:15 | USD | Fed Waller Speaks |  |  |  |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:30 | CAD | Building Permits (MoM) (Mar) |  | -0.7% | 2.9% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.740M |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 22:40 | USD | FOMC Member Daly Speaks |  |  |  |
