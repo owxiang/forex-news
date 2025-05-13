@@ -12,20 +12,20 @@
 | 05:30 | NOK | Consumer Confidence (Q2) | -16.40 |  | -13.40 |
 | 07:00 | GBP | Average Earnings ex Bonus (Mar) | 5.6% | 5.7% | 5.9% |
 | 09:55 | EUR | Spanish 3-Month Letras Auction | 1.976% |  | 2.100% |
-| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.44% |
-| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 3.30% |
-| 23 min | EUR | German 2-Year Schatz Auction |  |  | 1.670% |
-| 23 min | ZAR | Unemployment Rate (Q1) |  |  | 31.90% |
-| 23 min | ZAR | Unemployment (Q1) |  |  | 7.991M |
-| 53 min | USD | NFIB Small Business Optimism (Apr) |  | 94.9 | 97.4 |
-| 53 min | EUR | ECOFIN Meetings |  |  |  |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | EUR | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
+| 10:30 | EUR | German 2-Year Schatz Auction | 1.940% |  | 1.670% |
+| 10:30 | ZAR | Unemployment Rate (Q1) | 32.90% |  | 31.90% |
+| 10:30 | ZAR | Unemployment (Q1) | 8.228M |  | 7.991M |
+| 10:50 | EUR | Italian 3-Year BTP Auction | 2.40% |  | 2.44% |
+| 10:50 | EUR | Italian 7-Year BTP Auction | 3.28% |  | 3.30% |
+| 11:00 | USD | NFIB Small Business Optimism (Apr) | 95.8 | 94.9 | 97.4 |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 52 min | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Core CPI Index (Apr) |  |  | 325.66 |
 | 13:30 | USD | CPI Index, n.s.a. (Apr) |  | 320.86 | 319.80 |
 | 13:30 | USD | CPI Index, s.a (Apr) |  |  | 319.62 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Apr) |  |  | 0.22% |
 | 13:30 | USD | Real Earnings (MoM) (Apr) |  |  | 0.3% |
+| 13:45 | EUR | German Current Account Balance n.s.a (Mar) |  |  | 20.0B |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.9% |
 | 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.3% |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.820% |
