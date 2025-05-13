@@ -8,27 +8,27 @@
 | 00:50 | JPY | Low | M3 Money Supply (Apr) | 2,194.7B |  | 2,203.0B |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | 2.2% |  | -6.0% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) | -8.8% | -8.8% | -0.3% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Apr) | -1 |  | -3 |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Apr) | -1 |  | -2 |
 | 02:30 | AUD | Low | NAB Business Survey (Apr) | 2 |  | 4 |
 | 02:30 | AUD | Low | Private House Approvals (Mar) | -4.5% | -4.5% | 1.0% |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.941% |  | 2.414% |
-| 21 min | NOK | Low | Consumer Confidence (Q2) |  |  | -7.50 |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Mar) |  | 5.7% | 5.9% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 5.2% | 5.6% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Apr) |  | 22.3K | 18.7K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | 120K | 206K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Mar) |  | 4.5% | 4.4% |
+| 05:30 | NOK | Low | Consumer Confidence (Q2) | -16.40 |  | -13.40 |
+| 53 min | GBP | Low | Average Earnings ex Bonus (Mar) |  | 5.7% | 5.9% |
+| 53 min | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 5.2% | 5.6% |
+| 53 min | GBP | Moderate | Claimant Count Change (Apr) |  | 22.3K | 18.7K |
+| 53 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | 120K | 206K |
+| 53 min | GBP | Moderate | Unemployment Rate (Mar) |  | 4.5% | 4.4% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 2.100% |
 | 09:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -77.0 | -81.2 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) |  | 9.8 | -14.0 |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) |  | -4.4 | -18.5 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (May) |  | 10.7 | -14.0 |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (May) |  | -3.5 | -18.5 |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.44% |
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.30% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.670% |
 | 10:30 | ZAR | Low | Unemployment Rate (Q1) |  |  | 31.90% |
 | 10:30 | ZAR | Low | Unemployment (Q1) |  |  | 7.991M |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Apr) |  | 94.6 | 97.4 |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Apr) |  | 94.9 | 97.4 |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Apr) |  | 3.27% | 3.34% |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
