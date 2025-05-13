@@ -27,8 +27,8 @@
 | 13:30 | USD | CPI, n.s.a (MoM) (Apr) | 0.31% |  | 0.22% |
 | 13:30 | USD | Real Earnings (MoM) (Apr) | -0.1% |  | 0.6% |
 | 13:55 | USD | Redbook (YoY) | 5.8% |  | 6.9% |
-| 53 min | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.3% |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.820% |
+| 16:00 | USD | Cleveland CPI (MoM) (Apr) | 0.3% |  | 0.3% |
+| 23 min | USD | 52-Week Bill Auction |  |  | 3.820% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Apr) |  |  | -1.6% |
 | 23:45 | NZD | External Migration & Visitors (Mar) |  |  | 1.10% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Mar) |  |  | 5,430 |

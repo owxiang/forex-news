@@ -16,7 +16,7 @@
 | 11:30 | INR | CPI (YoY) (Apr) | 3.16% | 3.27% | 3.34% |
 | 13:30 | USD | Core CPI (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
 | 15:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 53 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 53 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.400M | -4.490M |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.8% |

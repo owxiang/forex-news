@@ -36,21 +36,21 @@
 | 13:30 | USD | High | Core CPI (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
 | 13:30 | USD | Low | Core CPI Index (Apr) | 326.43 |  | 325.66 |
-| 13:30 | USD | High | CPI (MoM) (Apr) | 0.2% | 0.3% | -0.1% |
 | 13:30 | USD | High | CPI (YoY) (Apr) | 2.3% | 2.4% | 2.4% |
+| 13:30 | USD | High | CPI (MoM) (Apr) | 0.2% | 0.3% | -0.1% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Apr) | 320.80 | 320.86 | 319.80 |
 | 13:30 | USD | Low | CPI Index, s.a (Apr) | 320.32 |  | 319.62 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Apr) | 0.31% |  | 0.22% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Apr) | -0.1% |  | 0.6% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.8% |  | 6.9% |
 | 15:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 53 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 53 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | USD | Low | Cleveland CPI (MoM) (Apr) |  |  | 0.3% |
-| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.820% |
+| 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Apr) | 0.3% |  | 0.3% |
+| 23 min | USD | Low | 52-Week Bill Auction |  |  | 3.820% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.400M | -4.490M |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.8% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -1.6% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.8% |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 1.10% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 5,430 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -3.7% |
