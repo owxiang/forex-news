@@ -17,11 +17,11 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.6% | 0.6% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 0.7% |
 | 08:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 51 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.638% |
-| 51 min | CNY | M2 Money Stock (YoY) (Apr) |  | 7.2% | 7.0% |
-| 51 min | CNY | Outstanding Loan Growth (YoY) (Apr) |  | 7.4% | 7.4% |
-| 51 min | CNY | Chinese Total Social Financing (Apr) |  | 1,220.0B | 5,890.0B |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.830% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.673% |  | 4.638% |
+| 10:05 | CNY | Chinese Total Social Financing (Apr) | 1,160.0B |  | 5,890.0B |
+| 10:06 | CNY | M2 Money Stock (YoY) (Apr) | 8.0% |  | 7.0% |
+| 10:07 | CNY | Outstanding Loan Growth (YoY) (Apr) | 7.2% |  | 7.4% |
+| 23 min | EUR | German 30-Year Bund Auction |  |  | 2.830% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
 | 12:00 | USD | MBA Purchase Index |  |  | 162.8 |

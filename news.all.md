@@ -23,14 +23,14 @@
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 0.7% |
 | 08:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 6 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 51 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.638% |
-| 51 min | CNY | Low | M2 Money Stock (YoY) (Apr) |  | 7.2% | 7.0% |
-| 51 min | CNY | Moderate | New Loans (Apr) |  | 710.0B | 3,640.0B |
-| 51 min | CNY | Low | Outstanding Loan Growth (YoY) (Apr) |  | 7.4% | 7.4% |
-| 51 min | CNY | Low | Chinese Total Social Financing (Apr) |  | 1,220.0B | 5,890.0B |
-| 10:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.830% |
+| 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.673% |  | 4.638% |
+| 10:03 | CNY | Moderate | New Loans (Apr) | 280.0B |  | 3,640.0B |
+| 10:05 | CNY | Low | Chinese Total Social Financing (Apr) | 1,160.0B |  | 5,890.0B |
+| 10:06 | CNY | Low | M2 Money Stock (YoY) (Apr) | 8.0% |  | 7.0% |
+| 10:07 | CNY | Low | Outstanding Loan Growth (YoY) (Apr) | 7.2% |  | 7.4% |
+| 8 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 23 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.830% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.84% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 11.0% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 162.8 |
