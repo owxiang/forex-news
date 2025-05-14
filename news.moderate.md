@@ -7,8 +7,8 @@
 | 07:30 | INR | WPI Inflation (YoY) (Apr) | 0.85% | 1.76% | 2.05% |
 | 08:00 | EUR | Spanish CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
-| 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | CNY | New Loans (Apr) |  | 710.0B | 3,640.0B |
+| 6 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 51 min | CNY | New Loans (Apr) |  | 710.0B | 3,640.0B |
 | 10:15 | USD | Fed Waller Speaks |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:30 | CAD | Building Permits (MoM) (Mar) |  | -0.7% | 2.9% |

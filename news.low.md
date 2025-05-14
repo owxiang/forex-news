@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
-| 00:50 | JPY | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
 | 00:50 | JPY | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
+| 00:50 | JPY | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
 | 05:00 | IDR | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
@@ -16,11 +16,11 @@
 | 08:00 | EUR | Core CPI (YoY) (Apr) | 2.4% | 2.4% | 2.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.6% | 0.6% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 0.7% |
-| 8 min | GBP | BoE Breeden Speaks |  |  |  |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.638% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Apr) |  | 7.2% | 7.0% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Apr) |  | 7.4% | 7.4% |
-| 10:00 | CNY | Chinese Total Social Financing (Apr) |  | 1,220.0B | 5,890.0B |
+| 08:15 | GBP | BoE Breeden Speaks |  |  |  |
+| 51 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.638% |
+| 51 min | CNY | M2 Money Stock (YoY) (Apr) |  | 7.2% | 7.0% |
+| 51 min | CNY | Outstanding Loan Growth (YoY) (Apr) |  | 7.4% | 7.4% |
+| 51 min | CNY | Chinese Total Social Financing (Apr) |  | 1,220.0B | 5,890.0B |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.830% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
@@ -28,8 +28,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 248.4 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 721.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
 | 14:10 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.007M |

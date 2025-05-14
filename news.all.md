@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
-| 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
 | 00:50 | JPY | Low | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
-| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
+| 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
 | 05:00 | IDR | Low | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
 | 07:00 | EUR | High | German CPI (MoM) (Apr) | 0.4% | 0.4% | 0.3% |
@@ -20,15 +20,15 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.4% | 2.4% | 2.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.6% | 0.6% | 0.1% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
-| 8 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.638% |
-| 10:00 | CNY | Low | M2 Money Stock (YoY) (Apr) |  | 7.2% | 7.0% |
-| 10:00 | CNY | Moderate | New Loans (Apr) |  | 710.0B | 3,640.0B |
-| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) (Apr) |  | 7.4% | 7.4% |
-| 10:00 | CNY | Low | Chinese Total Social Financing (Apr) |  | 1,220.0B | 5,890.0B |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 0.7% |
+| 08:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 6 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 51 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.638% |
+| 51 min | CNY | Low | M2 Money Stock (YoY) (Apr) |  | 7.2% | 7.0% |
+| 51 min | CNY | Moderate | New Loans (Apr) |  | 710.0B | 3,640.0B |
+| 51 min | CNY | Low | Outstanding Loan Growth (YoY) (Apr) |  | 7.4% | 7.4% |
+| 51 min | CNY | Low | Chinese Total Social Financing (Apr) |  | 1,220.0B | 5,890.0B |
 | 10:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.830% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.84% |
@@ -38,8 +38,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 721.0 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.8% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | -0.7% | 2.9% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
 | 14:10 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
