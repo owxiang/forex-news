@@ -5,9 +5,9 @@
 | 00:00 | KRW | Low | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
 | 00:50 | JPY | Low | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
-| 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
-| 25 min | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 2.0% |
+| 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
+| 04:00 | IDR | Low | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.1% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.4% | 0.3% |
 | 07:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
@@ -37,8 +37,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 721.0 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.8% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | -0.7% | 2.9% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
 | 14:10 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
