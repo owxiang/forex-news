@@ -3,24 +3,24 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
-| 43 min | JPY | Low | PPI (MoM) (Apr) |  | 0.2% | 0.4% |
-| 43 min | JPY | Low | PPI (YoY) (Apr) |  | 4.0% | 4.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
+| 00:50 | JPY | Low | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) |  | 0.8% | 0.7% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) |  | 3.2% | 3.2% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 2.0% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.1% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.4% | 0.3% |
-| 07:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.1% | 2.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 0.4% |
+| 07:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
 | 07:30 | INR | Low | WPI Food (YoY) (Apr) |  |  | 1.57% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Apr) |  |  | 0.20% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Apr) |  | 1.76% | 2.05% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Apr) |  |  | 3.07% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  | 2.4% | 2.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 2.2% | 2.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.6% | 0.7% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  | 2.2% | 2.2% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.6% | 0.7% |
 | 08:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.638% |
