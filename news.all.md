@@ -7,9 +7,9 @@
 | 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 2.0% |
-| 07:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.4% | 0.3% |
+| 25 min | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 2.0% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.1% | 2.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.4% | 0.3% |
 | 07:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 0.4% |
 | 07:30 | INR | Low | WPI Food (YoY) (Apr) |  |  | 1.57% |

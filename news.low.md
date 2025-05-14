@@ -6,7 +6,7 @@
 | 00:50 | JPY | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 00:50 | JPY | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
-| 04:00 | IDR | Retail Sales (YoY) (Mar) |  |  | 2.0% |
+| 25 min | IDR | Retail Sales (YoY) (Mar) |  |  | 2.0% |
 | 07:00 | EUR | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
 | 07:00 | EUR | German HICP (MoM) (Apr) |  | 0.5% | 0.4% |
 | 07:30 | INR | WPI Food (YoY) (Apr) |  |  | 1.57% |
