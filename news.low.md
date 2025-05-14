@@ -27,8 +27,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 248.4 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 721.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.8% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.8% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
 | 14:10 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.007M |
