@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German CPI (MoM) (Apr) | 0.4% | 0.4% | 0.3% |
-| 23 min | USD | Crude Oil Inventories |  | -2.000M | -2.032M |
+| 15:30 | USD | Crude Oil Inventories | 3.454M | -2.000M | -2.032M |
