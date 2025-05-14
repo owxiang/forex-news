@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
-| 00:50 | JPY | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 00:50 | JPY | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
+| 00:50 | JPY | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
 | 05:00 | IDR | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
@@ -21,12 +21,12 @@
 | 10:05 | CNY | Chinese Total Social Financing (Apr) | 1,160.0B |  | 5,890.0B |
 | 10:06 | CNY | M2 Money Stock (YoY) (Apr) | 8.0% |  | 7.0% |
 | 10:07 | CNY | Outstanding Loan Growth (YoY) (Apr) | 7.2% |  | 7.4% |
-| 23 min | EUR | German 30-Year Bund Auction |  |  | 2.830% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
-| 12:00 | USD | MBA Purchase Index |  |  | 162.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 248.4 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 721.0 |
+| 10:30 | EUR | German 30-Year Bund Auction | 3.120% |  | 2.830% |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 11.0% |
+| 53 min | USD | MBA Purchase Index |  |  | 162.8 |
+| 53 min | USD | Mortgage Market Index |  |  | 248.4 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 721.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.8% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
