@@ -1,17 +1,42 @@
-## 14 May 2025 - Moderate Impact Forex News
+## 15 May 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Wage Price Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
-| 07:00 | EUR | German CPI (YoY) (Apr) | 2.1% | 2.1% | 2.2% |
-| 07:30 | INR | WPI Inflation (YoY) (Apr) | 0.85% | 1.76% | 2.05% |
-| 08:00 | EUR | Spanish CPI (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
-| 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | CNY | New Loans (Apr) | 280.0B | 710.0B | 3,640.0B |
-| 10:15 | USD | Fed Waller Speaks |  |  |  |
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:30 | CAD | Building Permits (MoM) (Mar) | -4.1% | -0.7% | 4.9% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.069M |  | -0.740M |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 22:40 | USD | FOMC Member Daly Speaks |  |  |  |
+| 02:30 | AUD | Employment Change (Apr) |  | 20.9K | 32.2K |
+| 02:30 | AUD | Full Employment Change (Apr) |  |  | 15.0K |
+| 02:30 | AUD | Unemployment Rate (Apr) |  | 4.1% | 4.1% |
+| 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 0.4% | -1.9% |
+| 07:00 | GBP | Industrial Production (MoM) (Mar) |  | -0.6% | 1.5% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Mar) |  | -0.8% | 2.2% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Mar) |  | 0.6% | 0.6% |
+| 07:00 | GBP | Trade Balance (Mar) |  | -19.70B | -20.81B |
+| 07:00 | GBP | Trade Balance Non-EU (Mar) |  |  | -8.58B |
+| 07:30 | CHF | PPI (MoM) (Apr) |  | 0.2% | 0.1% |
+| 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
+| 08:50 | EUR | ECB's Elderson Speaks |  |  |  |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 09:30 | GBP | Labour Productivity (Q4) |  |  | -2.4% |
+| 10:00 | EUR | EU Economic Forecasts |  |  |  |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 1.2% | 1.2% |
+| 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 1.7% | 1.1% |
+| 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:00 | BRL | Retail Sales (YoY) (Mar) |  | -0.5% | 1.5% |
+| 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 1.0% | 0.5% |
+| 13:15 | CAD | Housing Starts (Apr) |  | 234.0K | 214.2K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,879K |
+| 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.3% | -0.1% |
+| 13:30 | USD | NY Empire State Manufacturing Index (May) |  | -7.90 | -8.10 |
+| 13:30 | USD | Philly Fed Employment (May) |  |  | 0.2 |
+| 13:30 | USD | Retail Control (MoM) (Apr) |  | 0.3% | 0.4% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Mar) |  | 0.2% | 0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Apr) |  |  | 1.34% |
+| 14:15 | USD | Industrial Production (MoM) (Apr) |  | 0.2% | -0.3% |
+| 15:00 | USD | Business Inventories (MoM) (Mar) |  | 0.2% | 0.2% |
+| 15:00 | USD | Retail Inventories Ex Auto (Mar) |  | 0.4% | 0.1% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.3% | 2.3% |
+| 19:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 20:00 | MXN | Interest Rate Decision (May) |  | 8.50% | 9.00% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,711B |
+| 23:30 | NZD | Business NZ PMI (Apr) |  |  | 53.2 |

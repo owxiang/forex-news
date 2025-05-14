@@ -1,47 +1,74 @@
-## 14 May 2025 - Low Impact Forex News
+## 15 May 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
-| 00:50 | JPY | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
-| 00:50 | JPY | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
-| 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
-| 04:00 | IDR | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
-| 05:00 | IDR | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
-| 07:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
-| 07:00 | EUR | German HICP (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
-| 07:30 | INR | WPI Food (YoY) (Apr) | -0.86% |  | 1.57% |
-| 07:30 | INR | WPI Fuel (YoY) (Apr) | -2.18% |  | 0.20% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Apr) | 2.62% |  | 3.07% |
-| 08:00 | EUR | Core CPI (YoY) (Apr) | 2.4% | 2.4% | 2.0% |
-| 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.6% | 0.6% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 0.7% |
-| 08:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.673% |  | 4.638% |
-| 10:00 | CNY | M2 Money Stock (YoY) (Apr) | 8.0% | 7.2% | 7.0% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) (Apr) | 7.2% | 7.4% | 7.4% |
-| 10:00 | CNY | Chinese Total Social Financing (Apr) | 1,160.0B | 1,220.0B | 5,890.0B |
-| 10:30 | EUR | German 30-Year Bund Auction | 3.120% |  | 2.830% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.86% |  | 6.84% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 1.1% |  | 11.0% |
-| 12:00 | USD | MBA Purchase Index | 166.5 |  | 162.8 |
-| 12:00 | USD | Mortgage Market Index | 251.2 |  | 248.4 |
-| 12:00 | USD | Mortgage Refinance Index | 718.1 |  | 721.0 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) | 0.3% |  | 0.9% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) | 1.9% |  | 4.3% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) | 189.3K |  | 125.4K |
-| 14:10 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.330M |  | -0.007M |
-| 15:30 | USD | Crude Oil Imports | 0.422M |  | 0.673M |
-| 15:30 | USD | Distillate Fuel Production | -0.069M |  | 0.041M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -3.155M | 0.100M | -1.107M |
-| 15:30 | USD | Gasoline Production | -0.327M |  | 0.253M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.292M |  | 0.123M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.2% |  | 0.4% |
-| 15:30 | USD | Gasoline Inventories | -1.022M | -0.600M | 0.188M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (May) | 49.95 |  | 52.80 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (May) | 48.15 |  | 45.35 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (May) | 53.35 |  | 56.92 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 48.63 |  | 51.28 |
-| 18:30 | BRL | Foreign Exchange Flows | 0.961B |  | -0.235B |
-| 39 min | NZD | FPI (MoM) (Apr) |  |  | 0.5% |
+| 00:00 | KRW | Unemployment Rate (Apr) |  |  | 2.9% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 435.2B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 278.3B |
+| 02:00 | AUD | MI Inflation Expectations |  |  | 4.2% |
+| 02:30 | AUD | Participation Rate (Apr) |  | 66.8% | 66.8% |
+| 02:30 | AUD | Reserve Assets Total (Apr) |  |  | 104.5B |
+| 04:00 | KRW | M3 Money Supply (Mar) |  |  | 5,731.5B |
+| 04:00 | KRW | M2 Money supply (Mar) |  |  | 5.60% |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.938% |
+| 05:00 | IDR | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
+| 05:00 | IDR | Import Growth (YoY) (Apr) |  | 6.79% | 5.34% |
+| 05:00 | IDR | Trade Balance (Apr) |  | 2.50B | 4.33B |
+| 07:00 | GBP | Business Investment (YoY) (Q1) |  |  | 1.8% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) |  | 0.2% | 0.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) |  | 1.2% | 1.6% |
+| 07:00 | GBP | GDP (YoY) (Mar) |  | 1.0% | 1.4% |
+| 07:00 | GBP | Index of Services |  | 0.7% | 0.6% |
+| 07:00 | GBP | Industrial Production (YoY) (Mar) |  | -0.9% | 0.1% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Mar) |  | -0.5% | 0.3% |
+| 07:00 | EUR | German WPI (MoM) (Apr) |  | 0.2% | -0.2% |
+| 07:00 | EUR | German WPI (YoY) (Apr) |  |  | 1.3% |
+| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | 11.4% |
+| 07:00 | NOK | GDP (QoQ) (Q1) |  |  | -0.6% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q1) |  | 0.6% | -0.4% |
+| 07:00 | NOK | Trade Balance (Apr) |  |  | 60.2B |
+| 07:30 | CHF | PPI (YoY) (Apr) |  |  | -0.1% |
+| 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 0.80% |
+| 07:45 | EUR | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
+| 07:45 | EUR | French HICP (YoY) (Apr) |  | 0.8% | 0.9% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 0.70% |
+| 09:00 | INR | Trade Balance |  |  | -21.54B |
+| 10:00 | INR | Exports (USD) (Apr) |  |  | 41.97B |
+| 10:00 | INR | Imports (USD) (Apr) |  |  | 63.51B |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.1% | 0.1% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 0.8% | 0.7% |
+| 10:00 | EUR | Employment Overall (Q1) |  |  | 169,435.3K |
+| 10:00 | EUR | Industrial Production (YoY) (Mar) |  | 2.5% | 1.2% |
+| 10:30 | ZAR | Gold Production (YoY) (Mar) |  |  | -7.6% |
+| 10:30 | ZAR | Mining Production (Mar) |  |  | -9.6% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 49.0 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 46.01 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 44.95 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 42.33 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 48.90 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 43.43 |
+| 12:00 | EUR | Reserve Assets Total (Apr) |  |  | 1,510.27B |
+| 12:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 13:30 | USD | Core PPI (YoY) (Apr) |  | 3.1% | 3.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
+| 13:30 | USD | Philly Fed Business Conditions (May) |  |  | 6.9 |
+| 13:30 | USD | Philly Fed CAPEX Index (May) |  |  | 2.00 |
+| 13:30 | USD | Philly Fed New Orders (May) |  |  | -34.2 |
+| 13:30 | USD | Philly Fed Prices Paid (May) |  |  | 51.00 |
+| 13:30 | USD | PPI (YoY) (Apr) |  | 2.5% | 2.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.4% |
+| 13:30 | USD | Retail Sales (YoY) (Apr) |  |  | 4.60% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 0.8% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | -1.8% | 0.2% |
+| 14:15 | USD | Capacity Utilization Rate (Apr) |  | 77.9% | 77.8% |
+| 14:15 | USD | Manufacturing Production (MoM) (Apr) |  | -0.2% | 0.3% |
+| 15:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15:00 | USD | NAHB Housing Market Index (May) |  | 40 | 40 |
+| 15:30 | USD | Natural Gas Storage |  |  | 104B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.225% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
+| 22:00 | KRW | Export Price Index (YoY) (Apr) |  |  | 6.3% |
+| 22:00 | KRW | Import Price Index (YoY) (Apr) |  |  | 3.4% |
