@@ -27,8 +27,8 @@
 | 12:00 | USD | MBA Purchase Index | 166.5 |  | 162.8 |
 | 12:00 | USD | Mortgage Market Index | 251.2 |  | 248.4 |
 | 12:00 | USD | Mortgage Refinance Index | 718.1 |  | 721.0 |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) | 0.3% |  | 0.9% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) | 1.9% |  | 4.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) | 0.3% |  | 0.9% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) | 189.3K |  | 125.4K |
 | 14:10 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.330M |  | -0.007M |
@@ -43,4 +43,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (May) | 48.15 |  | 45.35 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (May) | 53.35 |  | 56.92 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 48.63 |  | 51.28 |
+| 18:30 | BRL | Foreign Exchange Flows | 0.961B |  | -0.235B |
 | 23:45 | NZD | FPI (MoM) (Apr) |  |  | 0.5% |
