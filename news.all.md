@@ -37,11 +37,11 @@
 | 12:00 | USD | Low | Mortgage Market Index | 251.2 |  | 248.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 718.1 |  | 721.0 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) | 1.9% |  | 4.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) | 0.3% |  | 0.8% |
-| 19 min | CAD | Moderate | Building Permits (MoM) (Mar) |  | -0.7% | 2.9% |
-| 19 min | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
-| 59 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) | 1.9% |  | 4.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) | 0.3% |  | 0.9% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) | -4.1% | -0.7% | 4.9% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) | 189.3K |  | 125.4K |
+| 14:10 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -2.032M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.007M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.673M |

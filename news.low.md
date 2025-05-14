@@ -27,10 +27,10 @@
 | 12:00 | USD | MBA Purchase Index | 166.5 |  | 162.8 |
 | 12:00 | USD | Mortgage Market Index | 251.2 |  | 248.4 |
 | 12:00 | USD | Mortgage Refinance Index | 718.1 |  | 721.0 |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) | 1.9% |  | 4.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) | 0.3% |  | 0.8% |
-| 19 min | CAD | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
-| 59 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) | 1.9% |  | 4.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) | 0.3% |  | 0.9% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) | 189.3K |  | 125.4K |
+| 14:10 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.007M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.673M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.041M |
