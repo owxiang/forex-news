@@ -8,8 +8,8 @@
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
 | 05:00 | IDR | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
-| 07:00 | EUR | German HICP (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
 | 07:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
+| 07:00 | EUR | German HICP (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
 | 07:30 | INR | WPI Food (YoY) (Apr) | -0.86% |  | 1.57% |
 | 07:30 | INR | WPI Fuel (YoY) (Apr) | -2.18% |  | 0.20% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Apr) | 2.62% |  | 3.07% |
@@ -44,4 +44,4 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (May) | 53.35 |  | 56.92 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 48.63 |  | 51.28 |
 | 18:30 | BRL | Foreign Exchange Flows | 0.961B |  | -0.235B |
-| 23:45 | NZD | FPI (MoM) (Apr) |  |  | 0.5% |
+| 39 min | NZD | FPI (MoM) (Apr) |  |  | 0.5% |
