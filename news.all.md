@@ -5,13 +5,14 @@
 | 00:00 | KRW | Low | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
 | 00:50 | JPY | Low | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 00:50 | JPY | Low | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
-| 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.9% | 0.8% | 0.7% |
+| 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
-| 07:00 | EUR | High | German CPI (MoM) (Apr) |  | 0.4% | 0.3% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.1% | 2.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
-| 07:00 | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 0.4% |
+| 05:00 | IDR | Low | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
+| 53 min | EUR | High | German CPI (MoM) (Apr) |  | 0.4% | 0.3% |
+| 53 min | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.1% | 2.2% |
+| 53 min | EUR | Low | German HICP (MoM) (Apr) |  | 0.5% | 0.4% |
+| 53 min | EUR | Low | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
 | 07:30 | INR | Low | WPI Food (YoY) (Apr) |  |  | 1.57% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Apr) |  |  | 0.20% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Apr) |  | 1.76% | 2.05% |
@@ -19,8 +20,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  | 2.4% | 2.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 2.2% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.6% | 0.1% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.6% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  | 2.2% | 2.2% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.6% | 0.7% |
 | 08:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.638% |
@@ -42,7 +43,7 @@
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | -0.7% | 2.9% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
 | 14:10 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -2.032M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.000M | -2.032M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.007M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.673M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.740M |
