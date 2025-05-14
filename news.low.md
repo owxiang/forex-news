@@ -8,14 +8,14 @@
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
 | 05:00 | IDR | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
-| 53 min | EUR | German HICP (MoM) (Apr) |  | 0.5% | 0.4% |
-| 53 min | EUR | German HICP (YoY) (Apr) |  | 2.2% | 2.3% |
-| 07:30 | INR | WPI Food (YoY) (Apr) |  |  | 1.57% |
-| 07:30 | INR | WPI Fuel (YoY) (Apr) |  |  | 0.20% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Apr) |  |  | 3.07% |
-| 08:00 | EUR | Core CPI (YoY) (Apr) |  | 2.4% | 2.0% |
-| 08:00 | EUR | Spanish CPI (MoM) (Apr) |  | 0.6% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Apr) |  | 0.6% | 0.7% |
+| 07:00 | EUR | German HICP (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
+| 07:00 | EUR | German HICP (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
+| 21 min | INR | WPI Food (YoY) (Apr) |  |  | 1.57% |
+| 21 min | INR | WPI Fuel (YoY) (Apr) |  |  | 0.20% |
+| 21 min | INR | WPI Manufacturing Inflation (YoY) (Apr) |  |  | 3.07% |
+| 51 min | EUR | Core CPI (YoY) (Apr) |  | 2.4% | 2.0% |
+| 51 min | EUR | Spanish CPI (MoM) (Apr) |  | 0.6% | 0.1% |
+| 51 min | EUR | Spanish HICP (MoM) (Apr) |  | 0.6% | 0.7% |
 | 08:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.638% |
 | 10:00 | CNY | M2 Money Stock (YoY) (Apr) |  | 7.2% | 7.0% |
@@ -28,8 +28,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 248.4 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 721.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | 0.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 4.2% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Mar) |  |  | 125.4K |
 | 14:10 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.007M |
