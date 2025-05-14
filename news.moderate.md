@@ -13,5 +13,5 @@
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:30 | CAD | Building Permits (MoM) (Mar) | -4.1% | -0.7% | 4.9% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.069M |  | -0.740M |
-| 53 min | EUR | German Buba Balz Speaks |  |  |  |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 22:40 | USD | FOMC Member Daly Speaks |  |  |  |
