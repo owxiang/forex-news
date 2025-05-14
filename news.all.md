@@ -11,8 +11,8 @@
 | 05:00 | IDR | Low | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
 | 07:00 | EUR | High | German CPI (MoM) (Apr) | 0.4% | 0.4% | 0.3% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.1% | 2.1% | 2.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
 | 07:00 | EUR | Low | German HICP (YoY) (Apr) | 2.2% | 2.2% | 2.3% |
+| 07:00 | EUR | Low | German HICP (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
 | 07:30 | INR | Low | WPI Food (YoY) (Apr) | -0.86% |  | 1.57% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Apr) | -2.18% |  | 0.20% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Apr) | 0.85% | 1.76% | 2.05% |
@@ -58,5 +58,5 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (May) | 48.63 |  | 51.28 |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.961B |  | -0.235B |
-| 22:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 34 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Apr) |  |  | 0.5% |
