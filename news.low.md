@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Apr) | 2.7% |  | 2.9% |
-| 00:50 | JPY | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 00:50 | JPY | PPI (YoY) (Apr) | 4.0% | 4.0% | 4.3% |
+| 00:50 | JPY | PPI (MoM) (Apr) | 0.2% | 0.2% | 0.4% |
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 3.4% | 3.2% | 3.2% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) | 5.5% |  | 2.0% |
 | 05:00 | IDR | Car Sales (YoY) (Apr) | 5.00% |  | -5.10% |
