@@ -22,10 +22,10 @@
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
-| 7 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 1.0% | 0.5% |
-| 13:00 | BRL | Retail Sales (YoY) (Mar) |  | -0.5% | 1.5% |
+| 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 54 min | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 54 min | BRL | Retail Sales (YoY) (Mar) |  | -0.5% | 1.5% |
+| 54 min | BRL | Retail Sales (MoM) (Mar) |  | 1.0% | 0.5% |
 | 13:15 | CAD | Housing Starts (Apr) |  | 227.0K | 214.2K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,879K |
 | 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.3% | -0.1% |

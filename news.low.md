@@ -16,8 +16,8 @@
 | 04:00 | KRW | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.980% |  | 0.938% |
 | 07:00 | GBP | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | GDP (YoY) (Mar) | 1.1% | 1.0% | 1.4% |
 | 07:00 | GBP | Index of Services | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
@@ -34,8 +34,8 @@
 | 07:45 | EUR | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 0.80% |  | 0.70% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
 | 10:00 | EUR | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
 | 10:30 | ZAR | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
@@ -46,11 +46,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) | 41.95 |  | 42.33 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.16 |  | 48.90 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.66 |  | 43.43 |
-| 52 min | INR | Exports (USD) (Apr) |  |  | 41.97B |
-| 52 min | INR | Imports (USD) (Apr) |  |  | 63.51B |
-| 52 min | INR | Trade Balance |  |  | -21.54B |
-| 52 min | EUR | Reserve Assets Total (Apr) |  |  | 1,510.27B |
-| 12:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 11:30 | EUR | Reserve Assets Total (Apr) | 1,496.92B |  | 1,511.04B |
+| 24 min | INR | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | Core PPI (YoY) (Apr) |  | 3.1% | 3.3% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
 | 13:30 | USD | Philly Fed Business Conditions (May) |  |  | 6.9 |
@@ -58,8 +55,8 @@
 | 13:30 | USD | Philly Fed New Orders (May) |  |  | -34.2 |
 | 13:30 | USD | Philly Fed Prices Paid (May) |  |  | 51.00 |
 | 13:30 | USD | PPI (YoY) (Apr) |  | 2.5% | 2.7% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
 | 13:30 | USD | Retail Sales (YoY) (Apr) |  |  | 4.60% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | -1.8% | 0.2% |
