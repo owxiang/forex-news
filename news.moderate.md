@@ -22,8 +22,8 @@
 | 10:00 | EUR | GDP (YoY) (Q1) |  | 1.2% | 1.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 1.7% | 1.1% |
 | 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | BRL | Retail Sales (YoY) (Mar) |  | -0.5% | 1.5% |
 | 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 1.0% | 0.5% |
+| 13:00 | BRL | Retail Sales (YoY) (Mar) |  | -0.5% | 1.5% |
 | 13:15 | CAD | Housing Starts (Apr) |  | 234.0K | 214.2K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,879K |
 | 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.3% | -0.1% |
@@ -31,8 +31,8 @@
 | 13:30 | USD | Philly Fed Employment (May) |  |  | 0.2 |
 | 13:30 | USD | Retail Control (MoM) (Apr) |  | 0.3% | 0.4% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Mar) |  | 0.2% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Apr) |  |  | 1.34% |
 | 14:15 | USD | Industrial Production (MoM) (Apr) |  | 0.2% | -0.3% |
+| 14:15 | USD | Industrial Production (YoY) (Apr) |  |  | 1.34% |
 | 15:00 | USD | Business Inventories (MoM) (Mar) |  | 0.2% | 0.2% |
 | 15:00 | USD | Retail Inventories Ex Auto (Mar) |  | 0.4% | 0.1% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.3% | 2.3% |
