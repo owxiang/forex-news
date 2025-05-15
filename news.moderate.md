@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (Apr) |  | 20.9K | 32.2K |
-| 02:30 | AUD | Full Employment Change (Apr) |  |  | 15.0K |
-| 02:30 | AUD | Unemployment Rate (Apr) |  | 4.1% | 4.1% |
+| 02:30 | AUD | Employment Change (Apr) | 89.0K | 20.9K | 36.4K |
+| 02:30 | AUD | Full Employment Change (Apr) | 59.5K |  | 12.2K |
+| 02:30 | AUD | Unemployment Rate (Apr) | 4.1% | 4.1% | 4.1% |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 0.4% | -1.9% |
 | 07:00 | GBP | Industrial Production (MoM) (Mar) |  | -0.6% | 1.5% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Mar) |  | -0.8% | 2.2% |

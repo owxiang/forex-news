@@ -2,14 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Bonds Buying | 1,923.2B |  | -541.2B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 439.0B |  | 968.0B |
-| 31 min | AUD | Low | MI Inflation Expectations |  |  | 4.2% |
-| 02:30 | AUD | Moderate | Employment Change (Apr) |  | 20.9K | 32.2K |
-| 02:30 | AUD | Moderate | Full Employment Change (Apr) |  |  | 15.0K |
-| 02:30 | AUD | Low | Participation Rate (Apr) |  | 66.8% | 66.8% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -541.2B |  | 435.2B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 968.0B |  | 280.8B |
+| 00:51 | JPY | Low | Foreign Bonds Buying | 1,923.2B |  | -541.2B |
+| 00:51 | JPY | Low | Foreign Investments in Japanese Stocks | 439.0B |  | 968.0B |
+| 00:55 | KRW | Low | Exports (YoY) (Apr) | 3.7% |  | 3.0% |
+| 00:55 | KRW | Low | Imports (YoY) (Apr) | -2.7% |  | 2.3% |
+| 00:55 | KRW | Low | Trade Balance (Apr) | 4.88B |  | 4.92B |
+| 02:00 | AUD | Low | MI Inflation Expectations | 4.1% |  | 4.2% |
+| 02:30 | AUD | Moderate | Employment Change (Apr) | 89.0K | 20.9K | 36.4K |
+| 02:30 | AUD | Moderate | Full Employment Change (Apr) | 59.5K |  | 12.2K |
+| 02:30 | AUD | Low | Participation Rate (Apr) | 67.1% | 66.8% | 66.8% |
 | 02:30 | AUD | Low | Reserve Assets Total (Apr) |  |  | 104.5B |
-| 02:30 | AUD | Moderate | Unemployment Rate (Apr) |  | 4.1% | 4.1% |
+| 02:30 | AUD | Moderate | Unemployment Rate (Apr) | 4.1% | 4.1% | 4.1% |
 | 04:00 | KRW | Low | M3 Money Supply (Mar) |  |  | 5,731.5B |
 | 04:00 | KRW | Low | M2 Money supply (Mar) |  |  | 5.60% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.938% |
@@ -18,11 +23,11 @@
 | 05:00 | IDR | Low | Trade Balance (Apr) |  | 2.50B | 4.33B |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) |  |  | 1.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.4% | -1.9% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) |  | 1.2% | 1.6% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) |  | 0.2% | 0.4% |
-| 07:00 | GBP | High | GDP (MoM) (Mar) |  | 0.0% | 0.5% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) |  | 1.2% | 1.6% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) |  | 1.2% | 1.5% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | 0.1% |
+| 07:00 | GBP | High | GDP (MoM) (Mar) |  | 0.0% | 0.5% |
 | 07:00 | GBP | Low | GDP (YoY) (Mar) |  | 1.0% | 1.4% |
 | 07:00 | GBP | Low | Index of Services |  | 0.7% | 0.6% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) |  | -0.6% | 1.5% |
@@ -44,8 +49,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) |  |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 0.8% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 0.70% |
 | 08:50 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -90,8 +95,8 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (May) |  |  | 51.00 |
 | 13:30 | USD | High | PPI (MoM) (Apr) |  | 0.2% | -0.4% |
 | 13:30 | USD | Low | PPI (YoY) (Apr) |  | 2.5% | 2.7% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.4% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Apr) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Apr) |  |  | 4.60% |
 | 13:30 | USD | High | Retail Sales (MoM) (Apr) |  | 0.0% | 1.4% |
