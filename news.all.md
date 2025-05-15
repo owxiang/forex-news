@@ -22,15 +22,15 @@
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 5.9% | 0.4% | -1.9% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
+| 07:00 | GBP | High | GDP (MoM) (Mar) | 0.2% | 0.0% | 0.5% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) | 1.3% | 1.2% | 1.5% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.7% | 0.6% | 0.1% |
-| 07:00 | GBP | High | GDP (MoM) (Mar) | 0.2% | 0.0% | 0.5% |
 | 07:00 | GBP | Low | GDP (YoY) (Mar) | 1.1% | 1.0% | 1.4% |
 | 07:00 | GBP | Low | Index of Services | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) | -0.7% | -0.6% | 1.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Mar) | -0.8% | -0.8% | 2.4% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) | -0.8% | -0.5% | 0.5% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Mar) | -0.8% | -0.8% | 2.4% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) | 0.7% | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Mar) | -19.87B | -19.10B | -20.96B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) | -6.83B |  | -8.85B |
@@ -53,14 +53,14 @@
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) | 0.7% | 0.7% | -1.1% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) | -0.5% |  | -2.1% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
 | 10:30 | ZAR | Low | Mining Production (Mar) | -2.8% |  | -9.7% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (May) | 49.3 |  | 49.0 |
@@ -80,8 +80,8 @@
 | 13:15 | CAD | Moderate | Housing Starts (Apr) | 278.6K | 227.0K | 214.2K |
 | 13:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) | 0.6% |  | 0.7% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,881K | 1,890K | 1,872K |
-| 13:30 | USD | Low | Core PPI (YoY) (Apr) | 3.1% | 3.1% | 4.0% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Apr) | -0.4% | 0.3% | 0.4% |
+| 13:30 | USD | Low | Core PPI (YoY) (Apr) | 3.1% | 3.1% | 4.0% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Apr) | 0.1% | 0.3% | 0.8% |
 | 13:30 | USD | High | Initial Jobless Claims | 229K | 229K | 229K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 230.50K |  | 227.25K |
@@ -94,24 +94,24 @@
 | 13:30 | USD | Low | Philly Fed Prices Paid (May) | 59.80 |  | 51.00 |
 | 13:30 | USD | Low | PPI (YoY) (Apr) | 2.4% | 2.5% | 3.4% |
 | 13:30 | USD | High | PPI (MoM) (Apr) | -0.5% | 0.2% | 0.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) | 2.9% |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) | -0.1% |  | 0.2% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) | 2.9% |  | 3.5% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Apr) | -0.2% | 0.3% | 0.5% |
-| 13:30 | USD | High | Retail Sales (MoM) (Apr) | 0.1% | 0.0% | 1.7% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Apr) | 5.16% |  | 5.25% |
+| 13:30 | USD | High | Retail Sales (MoM) (Apr) | 0.1% | 0.0% | 1.7% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Apr) | 0.2% |  | 1.1% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Mar) | -1.4% | -1.8% | -0.2% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) | 0.2% | -0.4% | 1.0% |
 | 13:40 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 14:15 | USD | Low | Capacity Utilization Rate (Apr) |  | 77.8% | 77.8% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Apr) |  |  | 1.34% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Apr) |  | 0.2% | -0.3% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Apr) |  | -0.2% | 0.3% |
-| 46 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 46 min | USD | Moderate | Business Inventories (MoM) (Mar) |  | 0.2% | 0.2% |
-| 46 min | USD | Low | NAHB Housing Market Index (May) |  | 40 | 40 |
-| 46 min | USD | Moderate | Retail Inventories Ex Auto (Mar) |  | 0.4% | 0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 111B | 104B |
+| 14:15 | USD | Low | Capacity Utilization Rate (Apr) | 77.7% | 77.8% | 77.8% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Apr) | 1.49% |  | 1.33% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Apr) | 0.0% | 0.2% | -0.3% |
+| 14:15 | USD | Low | Manufacturing Production (MoM) (Apr) | -0.4% | -0.2% | 0.4% |
+| 15:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Mar) | 0.1% | 0.2% | 0.2% |
+| 15:00 | USD | Low | NAHB Housing Market Index (May) | 34 | 40 | 40 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Mar) | 0.4% | 0.4% | 0.1% |
+| 23 min | USD | Low | Natural Gas Storage |  | 111B | 104B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.225% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.225% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.3% | 2.3% |

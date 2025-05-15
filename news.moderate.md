@@ -33,10 +33,10 @@
 | 13:30 | USD | Philly Fed Employment (May) | 16.5 |  | 0.2 |
 | 13:30 | USD | Retail Control (MoM) (Apr) | -0.2% | 0.3% | 0.5% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Mar) | 0.2% | -0.4% | 1.0% |
-| 14:15 | USD | Industrial Production (YoY) (Apr) |  |  | 1.34% |
-| 14:15 | USD | Industrial Production (MoM) (Apr) |  | 0.2% | -0.3% |
-| 46 min | USD | Business Inventories (MoM) (Mar) |  | 0.2% | 0.2% |
-| 46 min | USD | Retail Inventories Ex Auto (Mar) |  | 0.4% | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Apr) | 1.49% |  | 1.33% |
+| 14:15 | USD | Industrial Production (MoM) (Apr) | 0.0% | 0.2% | -0.3% |
+| 15:00 | USD | Business Inventories (MoM) (Mar) | 0.1% | 0.2% | 0.2% |
+| 15:00 | USD | Retail Inventories Ex Auto (Mar) | 0.4% | 0.4% | 0.1% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.3% | 2.3% |
 | 19:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (May) |  | 8.50% | 9.00% |
