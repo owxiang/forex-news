@@ -16,8 +16,8 @@
 | 04:00 | KRW | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.980% |  | 0.938% |
 | 07:00 | GBP | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | GDP (YoY) (Mar) | 1.1% | 1.0% | 1.4% |
 | 07:00 | GBP | Index of Services | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
