@@ -29,13 +29,13 @@
 | 07:00 | NOK | GDP Mainland (QoQ) (Q1) | 1.0% | 0.6% | -0.4% |
 | 07:00 | NOK | Trade Balance (Apr) | 55.9B |  | 59.4B |
 | 07:30 | CHF | PPI (YoY) (Apr) | -0.5% |  | -0.1% |
-| 07:45 | EUR | French CPI NSA (MoM) (Apr) | 0.60% |  | 0.50% |
 | 07:45 | EUR | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
+| 07:45 | EUR | French CPI NSA (MoM) (Apr) | 0.60% |  | 0.50% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 0.80% |  | 0.70% |
-| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
 | 10:00 | EUR | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
 | 10:00 | EUR | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
 | 10:30 | ZAR | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
@@ -70,6 +70,6 @@
 | 15:30 | USD | Natural Gas Storage | 110B | 111B | 104B |
 | 16:30 | USD | 4-Week Bill Auction | 4.220% |  | 4.225% |
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.225% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
-| 22:00 | KRW | Export Price Index (YoY) (Apr) |  |  | 6.3% |
-| 22:00 | KRW | Import Price Index (YoY) (Apr) |  |  | 3.4% |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
+| 53 min | KRW | Export Price Index (YoY) (Apr) |  |  | 6.3% |
+| 53 min | KRW | Import Price Index (YoY) (Apr) |  |  | 3.4% |
