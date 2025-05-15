@@ -16,8 +16,8 @@
 | 04:00 | KRW | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.980% |  | 0.938% |
 | 07:00 | GBP | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | GDP (YoY) (Mar) | 1.1% | 1.0% | 1.4% |
 | 07:00 | GBP | Index of Services | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
@@ -34,8 +34,8 @@
 | 07:45 | EUR | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 0.80% |  | 0.70% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
 | 10:00 | EUR | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
 | 10:30 | ZAR | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
@@ -58,8 +58,8 @@
 | 13:30 | USD | Philly Fed New Orders (May) | 7.5 |  | -34.2 |
 | 13:30 | USD | Philly Fed Prices Paid (May) | 59.80 |  | 51.00 |
 | 13:30 | USD | PPI (YoY) (Apr) | 2.4% | 2.5% | 3.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) | -0.1% |  | 0.2% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) | 2.9% |  | 3.5% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) | -0.1% |  | 0.2% |
 | 13:30 | USD | Retail Sales (YoY) (Apr) | 5.16% |  | 5.25% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) | 0.2% |  | 1.1% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Mar) | -1.4% | -1.8% | -0.2% |
@@ -67,9 +67,9 @@
 | 14:15 | USD | Manufacturing Production (MoM) (Apr) | -0.4% | -0.2% | 0.4% |
 | 15:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | USD | NAHB Housing Market Index (May) | 34 | 40 | 40 |
-| 23 min | USD | Natural Gas Storage |  | 111B | 104B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.225% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |
+| 15:30 | USD | Natural Gas Storage | 110B | 111B | 104B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.225% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.225% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:00 | KRW | Export Price Index (YoY) (Apr) |  |  | 6.3% |
 | 22:00 | KRW | Import Price Index (YoY) (Apr) |  |  | 3.4% |
