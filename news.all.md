@@ -18,8 +18,8 @@
 | 04:00 | KRW | Low | M3 Money Supply (Mar) | 5,754.0B |  | 5,731.7B |
 | 04:00 | KRW | Low | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.980% |  | 0.938% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 5.9% | 0.4% | -1.9% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | High | GDP (MoM) (Mar) | 0.2% | 0.0% | 0.5% |
@@ -29,8 +29,8 @@
 | 07:00 | GBP | Low | Index of Services | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) | -0.7% | -0.6% | 1.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) | -0.8% | -0.5% | 0.5% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Mar) | -0.8% | -0.8% | 2.4% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) | -0.8% | -0.5% | 0.5% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) | 0.7% | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Mar) | -19.87B | -19.10B | -20.96B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) | -6.83B |  | -8.85B |
@@ -40,12 +40,12 @@
 | 07:00 | NOK | Low | GDP (QoQ) (Q1) | -0.1% |  | -0.9% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q1) | 1.0% | 0.6% | -0.4% |
 | 07:00 | NOK | Low | Trade Balance (Apr) | 55.9B |  | 59.4B |
-| 07:30 | CHF | Low | PPI (YoY) (Apr) | -0.5% |  | -0.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Apr) | 0.1% | 0.2% | 0.1% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
+| 07:30 | CHF | Low | PPI (YoY) (Apr) | -0.5% |  | -0.1% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) | 0.60% |  | 0.50% |
-| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 0.6% | 0.5% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Apr) | 0.7% | 0.6% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) | 0.80% |  | 0.70% |
@@ -53,14 +53,14 @@
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) | -0.5% |  | -2.1% |
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) | 0.7% | 0.7% | -1.1% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
 | 10:30 | ZAR | Low | Mining Production (Mar) | -2.8% |  | -9.7% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (May) | 49.3 |  | 49.0 |
@@ -92,8 +92,8 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (May) | 16.5 |  | 0.2 |
 | 13:30 | USD | Low | Philly Fed New Orders (May) | 7.5 |  | -34.2 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (May) | 59.80 |  | 51.00 |
-| 13:30 | USD | High | PPI (MoM) (Apr) | -0.5% | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Apr) | 2.4% | 2.5% | 3.4% |
+| 13:30 | USD | High | PPI (MoM) (Apr) | -0.5% | 0.2% | 0.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) | 2.9% |  | 3.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) | -0.1% |  | 0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Apr) | -0.2% | 0.3% | 0.5% |
@@ -121,4 +121,4 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.236T |  | 3.201T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) | 0.7% |  | 6.3% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) | -2.3% |  | 3.4% |
-| 23:30 | NZD | Moderate | Business NZ PMI (Apr) |  |  | 53.2 |
+| 24 min | NZD | Moderate | Business NZ PMI (Apr) |  |  | 53.2 |

@@ -41,4 +41,4 @@
 | 19:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (May) | 8.50% | 8.50% | 9.00% |
 | 21:30 | USD | Fed's Balance Sheet | 6,713B |  | 6,711B |
-| 23:30 | NZD | Business NZ PMI (Apr) |  |  | 53.2 |
+| 24 min | NZD | Business NZ PMI (Apr) |  |  | 53.2 |
