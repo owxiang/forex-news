@@ -39,6 +39,6 @@
 | 15:00 | USD | Retail Inventories Ex Auto (Mar) | 0.4% | 0.4% | 0.1% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) | 2.5% | 2.3% | 2.3% |
 | 19:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 51 min | MXN | Interest Rate Decision (May) |  | 8.50% | 9.00% |
+| 20:00 | MXN | Interest Rate Decision (May) | 8.50% | 8.50% | 9.00% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,711B |
 | 23:30 | NZD | Business NZ PMI (Apr) |  |  | 53.2 |

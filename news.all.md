@@ -18,8 +18,8 @@
 | 04:00 | KRW | Low | M3 Money Supply (Mar) | 5,754.0B |  | 5,731.7B |
 | 04:00 | KRW | Low | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.980% |  | 0.938% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 5.9% | 0.4% | -1.9% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 5.9% | 0.4% | -1.9% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | High | GDP (MoM) (Mar) | 0.2% | 0.0% | 0.5% |
@@ -116,7 +116,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.225% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.5% | 2.3% | 2.3% |
 | 19:05 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 51 min | MXN | Moderate | Interest Rate Decision (May) |  | 8.50% | 9.00% |
+| 20:00 | MXN | Moderate | Interest Rate Decision (May) | 8.50% | 8.50% | 9.00% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,711B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 6.3% |
