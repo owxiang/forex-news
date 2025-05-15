@@ -6,31 +6,28 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 968.0B |  | 280.8B |
 | 00:51 | JPY | Foreign Bonds Buying | 1,923.2B |  | -541.2B |
 | 00:51 | JPY | Foreign Investments in Japanese Stocks | 439.0B |  | 968.0B |
-| 00:55 | KRW | Exports (YoY) (Apr) | 3.7% |  | 3.0% |
-| 00:55 | KRW | Imports (YoY) (Apr) | -2.7% |  | 2.3% |
-| 00:55 | KRW | Trade Balance (Apr) | 4.88B |  | 4.92B |
+| 00:55 | KRW | Exports (YoY) (Apr) | 3.7% | 3.7% | 3.0% |
+| 00:55 | KRW | Imports (YoY) (Apr) | -2.7% | -2.7% | 2.3% |
+| 00:55 | KRW | Trade Balance (Apr) | 4.88B | 4.88B | 4.92B |
 | 02:00 | AUD | MI Inflation Expectations | 4.1% |  | 4.2% |
 | 02:30 | AUD | Participation Rate (Apr) | 67.1% | 66.8% | 66.8% |
 | 02:30 | AUD | Reserve Assets Total (Apr) | 103.8B |  | 104.5B |
+| 04:00 | KRW | M3 Money Supply (Mar) | 5,754.0B |  | 5,731.7B |
 | 04:00 | KRW | M2 Money supply (Mar) | 4.90% |  | 5.60% |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.938% |
-| 05:00 | KRW | M3 Money Supply (Mar) |  |  | 5,731.5B |
-| 05:00 | IDR | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
-| 05:00 | IDR | Import Growth (YoY) (Apr) |  | 6.79% | 5.34% |
-| 05:00 | IDR | Trade Balance (Apr) |  | 2.50B | 4.33B |
-| 07:00 | GBP | Business Investment (YoY) (Q1) |  |  | 1.8% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) |  | 1.2% | 1.6% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) |  | 0.2% | 0.4% |
-| 07:00 | GBP | GDP (YoY) (Mar) |  | 1.0% | 1.4% |
-| 07:00 | GBP | Index of Services |  | 0.7% | 0.6% |
-| 07:00 | GBP | Industrial Production (YoY) (Mar) |  | -0.9% | 0.1% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Mar) |  | -0.5% | 0.3% |
-| 07:00 | EUR | German WPI (MoM) (Apr) |  | 0.2% | -0.2% |
-| 07:00 | EUR | German WPI (YoY) (Apr) |  |  | 1.3% |
-| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | 11.4% |
-| 07:00 | NOK | GDP (QoQ) (Q1) |  |  | -0.6% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q1) |  | 0.6% | -0.4% |
-| 07:00 | NOK | Trade Balance (Apr) |  |  | 60.2B |
+| 04:35 | JPY | 5-Year JGB Auction | 0.980% |  | 0.938% |
+| 53 min | GBP | Business Investment (YoY) (Q1) |  |  | 1.8% |
+| 53 min | GBP | Construction Output (MoM) (Mar) |  | 0.2% | 0.4% |
+| 53 min | GBP | U.K. Construction Output (YoY) (Mar) |  | 1.2% | 1.6% |
+| 53 min | GBP | GDP (YoY) (Mar) |  | 1.0% | 1.4% |
+| 53 min | GBP | Index of Services |  | 0.7% | 0.6% |
+| 53 min | GBP | Industrial Production (YoY) (Mar) |  | -0.9% | 0.1% |
+| 53 min | GBP | Manufacturing Production (YoY) (Mar) |  | -0.5% | 0.3% |
+| 53 min | EUR | German WPI (YoY) (Apr) |  |  | 1.3% |
+| 53 min | EUR | German WPI (MoM) (Apr) |  | 0.2% | -0.2% |
+| 53 min | JPY | Machine Tool Orders (YoY) |  |  | 11.4% |
+| 53 min | NOK | GDP (QoQ) (Q1) |  |  | -0.6% |
+| 53 min | NOK | GDP Mainland (QoQ) (Q1) |  | 0.6% | -0.4% |
+| 53 min | NOK | Trade Balance (Apr) |  |  | 60.2B |
 | 07:30 | CHF | PPI (YoY) (Apr) |  |  | -0.1% |
 | 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 0.80% |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
@@ -66,11 +63,11 @@
 | 13:30 | USD | Retail Sales (YoY) (Apr) |  |  | 4.60% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | -1.8% | 0.2% |
-| 14:15 | USD | Capacity Utilization Rate (Apr) |  | 77.9% | 77.8% |
+| 14:15 | USD | Capacity Utilization Rate (Apr) |  | 77.8% | 77.8% |
 | 14:15 | USD | Manufacturing Production (MoM) (Apr) |  | -0.2% | 0.3% |
 | 15:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 15:00 | USD | NAHB Housing Market Index (May) |  | 40 | 40 |
-| 15:30 | USD | Natural Gas Storage |  |  | 104B |
+| 15:30 | USD | Natural Gas Storage |  | 111B | 104B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.225% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.201T |
