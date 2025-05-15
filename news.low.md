@@ -1,75 +1,53 @@
-## 15 May 2025 - Low Impact Forex News
+## 16 May 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying | -541.2B |  | 435.2B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 968.0B |  | 280.8B |
-| 00:51 | JPY | Foreign Bonds Buying | 1,923.2B |  | -541.2B |
-| 00:51 | JPY | Foreign Investments in Japanese Stocks | 439.0B |  | 968.0B |
-| 00:55 | KRW | Exports (YoY) (Apr) | 3.7% | 3.7% | 3.0% |
-| 00:55 | KRW | Imports (YoY) (Apr) | -2.7% | -2.7% | 2.3% |
-| 00:55 | KRW | Trade Balance (Apr) | 4.88B | 4.88B | 4.92B |
-| 02:00 | AUD | MI Inflation Expectations | 4.1% |  | 4.2% |
-| 02:30 | AUD | Participation Rate (Apr) | 67.1% | 66.8% | 66.8% |
-| 02:30 | AUD | Reserve Assets Total (Apr) | 103.8B |  | 104.5B |
-| 04:00 | KRW | M3 Money Supply (Mar) | 5,754.0B |  | 5,731.7B |
-| 04:00 | KRW | M2 Money supply (Mar) | 4.90% |  | 5.60% |
-| 04:35 | JPY | 5-Year JGB Auction | 0.980% |  | 0.938% |
-| 07:00 | GBP | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
-| 07:00 | GBP | GDP (YoY) (Mar) | 1.1% | 1.0% | 1.4% |
-| 07:00 | GBP | Index of Services | 0.7% | 0.7% | 0.6% |
-| 07:00 | GBP | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Mar) | -0.8% | -0.5% | 0.5% |
-| 07:00 | EUR | German WPI (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
-| 07:00 | EUR | German WPI (YoY) (Apr) | 0.8% |  | 1.3% |
-| 07:00 | JPY | Machine Tool Orders (YoY) | 7.7% |  | 11.4% |
-| 07:00 | NOK | GDP (QoQ) (Q1) | -0.1% |  | -0.9% |
-| 07:00 | NOK | GDP Mainland (QoQ) (Q1) | 1.0% | 0.6% | -0.4% |
-| 07:00 | NOK | Trade Balance (Apr) | 55.9B |  | 59.4B |
-| 07:30 | CHF | PPI (YoY) (Apr) | -0.5% |  | -0.1% |
-| 07:45 | EUR | French CPI NSA (MoM) (Apr) | 0.60% |  | 0.50% |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
-| 07:45 | EUR | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
-| 07:45 | EUR | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 0.80% |  | 0.70% |
-| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
-| 10:00 | EUR | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
-| 10:00 | EUR | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
-| 10:30 | ZAR | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
-| 10:30 | ZAR | Mining Production (Mar) | -2.8% |  | -9.7% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) | 49.3 |  | 49.0 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) | 46.18 |  | 46.01 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) | 47.08 |  | 44.95 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) | 41.95 |  | 42.33 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.16 |  | 48.90 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.66 |  | 43.43 |
-| 11:30 | EUR | Reserve Assets Total (Apr) | 1,496.92B |  | 1,511.04B |
-| 12:00 | INR | Exports (USD) (Apr) | 38.49B |  | 41.97B |
-| 12:00 | INR | Imports (USD) (Apr) | 64.91B |  | 63.51B |
-| 12:00 | INR | Trade Balance (Apr) | -26.42B |  | -21.54B |
-| 12:30 | INR | M3 Money Supply | 9.5% |  | 9.6% |
-| 13:30 | USD | Core PPI (YoY) (Apr) | 3.1% | 3.1% | 4.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 230.50K |  | 227.25K |
-| 13:30 | USD | Philly Fed Business Conditions (May) | 47.2 |  | 6.9 |
-| 13:30 | USD | Philly Fed CAPEX Index (May) | 27.00 |  | 2.00 |
-| 13:30 | USD | Philly Fed New Orders (May) | 7.5 |  | -34.2 |
-| 13:30 | USD | Philly Fed Prices Paid (May) | 59.80 |  | 51.00 |
-| 13:30 | USD | PPI (YoY) (Apr) | 2.4% | 2.5% | 3.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) | 2.9% |  | 3.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) | -0.1% |  | 0.2% |
-| 13:30 | USD | Retail Sales (YoY) (Apr) | 5.16% |  | 5.25% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) | 0.2% |  | 1.1% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Mar) | -1.4% | -1.8% | -0.2% |
-| 14:15 | USD | Capacity Utilization Rate (Apr) | 77.7% | 77.8% | 77.8% |
-| 14:15 | USD | Manufacturing Production (MoM) (Apr) | -0.4% | -0.2% | 0.4% |
-| 15:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 15:00 | USD | NAHB Housing Market Index (May) | 34 | 40 | 40 |
-| 15:30 | USD | Natural Gas Storage | 110B | 111B | 104B |
-| 16:30 | USD | 4-Week Bill Auction | 4.220% |  | 4.225% |
-| 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.225% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.236T |  | 3.201T |
-| 22:00 | KRW | Export Price Index (YoY) (Apr) | 0.7% |  | 6.3% |
-| 22:00 | KRW | Import Price Index (YoY) (Apr) | -2.3% |  | 3.4% |
+| 44 min | JPY | GDP Capital Expenditure (QoQ) (Q1) |  | 0.8% | 0.6% |
+| 44 min | JPY | GDP External Demand (QoQ) (Q1) |  | -0.6% | 0.7% |
+| 44 min | JPY | GDP Private Consumption (QoQ) (Q1) |  | 0.1% | 0.0% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Apr) |  |  | -7.60% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Apr) |  | 4.00% | 5.40% |
+| 02:30 | SGD | Trade Balance (Apr) |  |  | 5.242B |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 38.24 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 57.76 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.30 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 36.04 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 72.91 |
+| 04:00 | NZD | RBNZ Offshore Holdings (Apr) |  |  | 59.20% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Mar) |  |  | -1.1% |
+| 06:30 | EUR | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
+| 07:30 | CHF | Industrial Production (YoY) (Q1) |  |  | 2.30% |
+| 09:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
+| 09:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
+| 09:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
+| 09:30 | HKD | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
+| 09:30 | HKD | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
+| 10:00 | EUR | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
+| 10:00 | EUR | Italian Trade Balance EU (Mar) |  |  | -0.36B |
+| 12:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) |  |  | -0.2% |
+| 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
+| 12:30 | INR | Deposit Growth |  |  | 10.2% |
+| 12:30 | INR | FX Reserves, USD |  |  | 686.06B |
+| 13:30 | USD | Building Permits (MoM) (Apr) |  |  | 0.5% |
+| 13:30 | USD | Export Price Index (YoY) (Apr) |  |  | 2.4% |
+| 13:30 | USD | Import Price Index (YoY) (Apr) |  |  | 0.9% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Mar) |  |  | 27.150B |
+| 15:00 | USD | Michigan Current Conditions (May) |  | 59.6 | 59.8 |
+| 15:30 | CAD | BoC Senior Loan Officer Survey (Q1) |  |  | -1.9 |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.0K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.7K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 115.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -117.2K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 49.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 49.4K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -107.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -70.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 68.6K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.6K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -23.1K |
+| 21:00 | USD | US Foreign Buying, T-bonds (Mar) |  |  | 106.20B |
+| 21:00 | USD | Overall Net Capital Flow (Mar) |  |  | 284.70B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Mar) |  |  | 112.00B |
