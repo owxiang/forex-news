@@ -22,34 +22,34 @@
 | 07:00 | GBP | Index of Services | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Mar) | -0.8% | -0.5% | 0.5% |
-| 07:00 | EUR | German WPI (YoY) (Apr) | 0.8% |  | 1.3% |
 | 07:00 | EUR | German WPI (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
+| 07:00 | EUR | German WPI (YoY) (Apr) | 0.8% |  | 1.3% |
 | 07:00 | JPY | Machine Tool Orders (YoY) | 7.7% |  | 11.4% |
 | 07:00 | NOK | GDP (QoQ) (Q1) | -0.1% |  | -0.9% |
 | 07:00 | NOK | GDP Mainland (QoQ) (Q1) | 1.0% | 0.6% | -0.4% |
 | 07:00 | NOK | Trade Balance (Apr) | 55.9B |  | 59.4B |
 | 07:30 | CHF | PPI (YoY) (Apr) | -0.5% |  | -0.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) | 0.60% |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 0.80% |  | 0.70% |
-| 10:00 | INR | Exports (USD) (Apr) |  |  | 41.97B |
-| 10:00 | INR | Imports (USD) (Apr) |  |  | 63.51B |
-| 10:00 | INR | Trade Balance |  |  | -21.54B |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
-| 10:00 | EUR | Employment Overall (Q1) |  |  | 169,435.3K |
+| 10:00 | EUR | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
 | 10:00 | EUR | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
-| 23 min | ZAR | Gold Production (YoY) (Mar) |  |  | -7.6% |
-| 23 min | ZAR | Mining Production (Mar) |  |  | -9.6% |
-| 53 min | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 49.0 |
-| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 46.01 |
-| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 44.95 |
-| 53 min | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 42.33 |
-| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 48.90 |
-| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 43.43 |
-| 12:00 | EUR | Reserve Assets Total (Apr) |  |  | 1,510.27B |
+| 10:30 | ZAR | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
+| 10:30 | ZAR | Mining Production (Mar) | -2.8% |  | -9.7% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) | 49.3 |  | 49.0 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) | 46.18 |  | 46.01 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) | 47.08 |  | 44.95 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) | 41.95 |  | 42.33 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.16 |  | 48.90 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.66 |  | 43.43 |
+| 52 min | INR | Exports (USD) (Apr) |  |  | 41.97B |
+| 52 min | INR | Imports (USD) (Apr) |  |  | 63.51B |
+| 52 min | INR | Trade Balance |  |  | -21.54B |
+| 52 min | EUR | Reserve Assets Total (Apr) |  |  | 1,510.27B |
 | 12:30 | INR | M3 Money Supply |  |  | 9.6% |
 | 13:30 | USD | Core PPI (YoY) (Apr) |  | 3.1% | 3.3% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |

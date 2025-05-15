@@ -19,10 +19,10 @@
 | 09:30 | GBP | Labour Productivity (Q4) | 0.7% | 0.7% | -1.1% |
 | 09:31 | GBP | Labour Productivity (Q1) | 0.2% |  | 0.7% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
-| 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 7 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
 | 13:00 | BRL | Retail Sales (MoM) (Mar) |  | 1.0% | 0.5% |
 | 13:00 | BRL | Retail Sales (YoY) (Mar) |  | -0.5% | 1.5% |

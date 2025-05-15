@@ -18,8 +18,8 @@
 | 04:00 | KRW | Low | M3 Money Supply (Mar) | 5,754.0B |  | 5,731.7B |
 | 04:00 | KRW | Low | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.980% |  | 0.938% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 5.9% | 0.4% | -1.9% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
 | 07:00 | GBP | High | GDP (MoM) (Mar) | 0.2% | 0.0% | 0.5% |
@@ -34,16 +34,16 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) | 0.7% | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Mar) | -19.87B | -19.10B | -20.96B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) | -6.83B |  | -8.85B |
-| 07:00 | EUR | Low | German WPI (YoY) (Apr) | 0.8% |  | 1.3% |
 | 07:00 | EUR | Low | German WPI (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
+| 07:00 | EUR | Low | German WPI (YoY) (Apr) | 0.8% |  | 1.3% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | 7.7% |  | 11.4% |
 | 07:00 | NOK | Low | GDP (QoQ) (Q1) | -0.1% |  | -0.9% |
 | 07:00 | NOK | Low | GDP Mainland (QoQ) (Q1) | 1.0% | 0.6% | -0.4% |
 | 07:00 | NOK | Low | Trade Balance (Apr) | 55.9B |  | 59.4B |
 | 07:30 | CHF | Moderate | PPI (MoM) (Apr) | 0.1% | 0.2% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (Apr) | -0.5% |  | -0.1% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) | 0.60% |  | 0.50% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
@@ -53,27 +53,27 @@
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) | 0.7% | 0.7% | -1.1% |
 | 09:31 | GBP | Moderate | Labour Productivity (Q1) | 0.2% |  | 0.7% |
-| 10:00 | INR | Low | Exports (USD) (Apr) |  |  | 41.97B |
-| 10:00 | INR | Low | Imports (USD) (Apr) |  |  | 63.51B |
-| 10:00 | INR | Low | Trade Balance |  |  | -21.54B |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.6% | 0.8% | 0.7% |
-| 10:00 | EUR | Low | Employment Overall (Q1) |  |  | 169,435.3K |
+| 10:00 | EUR | Low | Employment Overall (Q1) | 169,974.4K |  | 169,454.4K |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Mar) | 3.6% | 2.5% | 1.0% |
-| 23 min | ZAR | Low | Gold Production (YoY) (Mar) |  |  | -7.6% |
-| 23 min | ZAR | Low | Mining Production (Mar) |  |  | -9.6% |
-| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 49.0 |
-| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 46.01 |
-| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 44.95 |
-| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (May) |  |  | 42.33 |
-| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 48.90 |
-| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 43.43 |
-| 11:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 12:00 | EUR | Low | Reserve Assets Total (Apr) |  |  | 1,510.27B |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Mar) | -11.1% |  | -7.6% |
+| 10:30 | ZAR | Low | Mining Production (Mar) | -2.8% |  | -9.7% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (May) | 49.3 |  | 49.0 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (May) | 46.18 |  | 46.01 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (May) | 47.08 |  | 44.95 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (May) | 41.95 |  | 42.33 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.16 |  | 48.90 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.66 |  | 43.43 |
+| 7 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 52 min | INR | Low | Exports (USD) (Apr) |  |  | 41.97B |
+| 52 min | INR | Low | Imports (USD) (Apr) |  |  | 63.51B |
+| 52 min | INR | Low | Trade Balance |  |  | -21.54B |
+| 52 min | EUR | Low | Reserve Assets Total (Apr) |  |  | 1,510.27B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) |  | 1.0% | 0.5% |
