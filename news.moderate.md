@@ -17,22 +17,22 @@
 | 08:50 | EUR | ECB's Elderson Speaks |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | Labour Productivity (Q4) | 0.7% | 0.7% | -1.1% |
-| 09:31 | GBP | Labour Productivity (Q1) | 0.2% |  | 0.7% |
+| 09:30 | GBP | Labour Productivity (Q4) | -0.5% |  | -2.1% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
 | 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 54 min | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
-| 54 min | BRL | Retail Sales (YoY) (Mar) |  | -0.5% | 1.5% |
-| 54 min | BRL | Retail Sales (MoM) (Mar) |  | 1.0% | 0.5% |
-| 13:15 | CAD | Housing Starts (Apr) |  | 227.0K | 214.2K |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,890K | 1,879K |
-| 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.3% | -0.1% |
-| 13:30 | USD | NY Empire State Manufacturing Index (May) |  | -8.20 | -8.10 |
-| 13:30 | USD | Philly Fed Employment (May) |  |  | 0.2 |
-| 13:30 | USD | Retail Control (MoM) (Apr) |  | 0.3% | 0.4% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Mar) |  | -0.4% | 0.3% |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
+| 13:00 | BRL | Retail Sales (MoM) (Mar) | 0.8% | 1.0% | 0.7% |
+| 13:00 | BRL | Retail Sales (YoY) (Mar) | -1.0% | -0.5% | 1.6% |
+| 4 min | CAD | Housing Starts (Apr) |  | 227.0K | 214.2K |
+| 19 min | USD | Continuing Jobless Claims |  | 1,890K | 1,879K |
+| 19 min | USD | Core PPI (MoM) (Apr) |  | 0.3% | -0.1% |
+| 19 min | USD | NY Empire State Manufacturing Index (May) |  | -8.20 | -8.10 |
+| 19 min | USD | Philly Fed Employment (May) |  |  | 0.2 |
+| 19 min | USD | Retail Control (MoM) (Apr) |  | 0.3% | 0.4% |
+| 19 min | CAD | Wholesale Sales (MoM) (Mar) |  | -0.4% | 0.3% |
 | 14:15 | USD | Industrial Production (YoY) (Apr) |  |  | 1.34% |
 | 14:15 | USD | Industrial Production (MoM) (Apr) |  | 0.2% | -0.3% |
 | 15:00 | USD | Business Inventories (MoM) (Mar) |  | 0.2% | 0.2% |
