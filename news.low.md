@@ -15,25 +15,25 @@
 | 04:00 | KRW | M3 Money Supply (Mar) | 5,754.0B |  | 5,731.7B |
 | 04:00 | KRW | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.980% |  | 0.938% |
-| 53 min | GBP | Business Investment (YoY) (Q1) |  |  | 1.8% |
-| 53 min | GBP | Construction Output (MoM) (Mar) |  | 0.2% | 0.4% |
-| 53 min | GBP | U.K. Construction Output (YoY) (Mar) |  | 1.2% | 1.6% |
-| 53 min | GBP | GDP (YoY) (Mar) |  | 1.0% | 1.4% |
-| 53 min | GBP | Index of Services |  | 0.7% | 0.6% |
-| 53 min | GBP | Industrial Production (YoY) (Mar) |  | -0.9% | 0.1% |
-| 53 min | GBP | Manufacturing Production (YoY) (Mar) |  | -0.5% | 0.3% |
-| 53 min | EUR | German WPI (YoY) (Apr) |  |  | 1.3% |
-| 53 min | EUR | German WPI (MoM) (Apr) |  | 0.2% | -0.2% |
-| 53 min | JPY | Machine Tool Orders (YoY) |  |  | 11.4% |
-| 53 min | NOK | GDP (QoQ) (Q1) |  |  | -0.6% |
-| 53 min | NOK | GDP Mainland (QoQ) (Q1) |  | 0.6% | -0.4% |
-| 53 min | NOK | Trade Balance (Apr) |  |  | 60.2B |
-| 07:30 | CHF | PPI (YoY) (Apr) |  |  | -0.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 0.80% |
-| 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
-| 07:45 | EUR | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
-| 07:45 | EUR | French HICP (YoY) (Apr) |  | 0.8% | 0.9% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 0.70% |
+| 07:00 | GBP | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
+| 07:00 | GBP | GDP (YoY) (Mar) | 1.1% | 1.0% | 1.4% |
+| 07:00 | GBP | Index of Services | 0.7% | 0.7% | 0.6% |
+| 07:00 | GBP | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Mar) | -0.8% | -0.5% | 0.5% |
+| 07:00 | EUR | German WPI (YoY) (Apr) | 0.8% |  | 1.3% |
+| 07:00 | EUR | German WPI (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
+| 07:00 | JPY | Machine Tool Orders (YoY) | 7.7% |  | 11.4% |
+| 07:00 | NOK | GDP (QoQ) (Q1) | -0.1% |  | -0.9% |
+| 07:00 | NOK | GDP Mainland (QoQ) (Q1) | 1.0% | 0.6% | -0.4% |
+| 07:00 | NOK | Trade Balance (Apr) | 55.9B |  | 59.4B |
+| 20 min | CHF | PPI (YoY) (Apr) |  |  | -0.1% |
+| 35 min | EUR | French CPI NSA (YoY) (Apr) |  |  | 0.80% |
+| 35 min | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
+| 35 min | EUR | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
+| 35 min | EUR | French HICP (YoY) (Apr) |  | 0.8% | 0.9% |
+| 35 min | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 0.70% |
 | 09:00 | INR | Trade Balance |  |  | -21.54B |
 | 10:00 | INR | Exports (USD) (Apr) |  |  | 41.97B |
 | 10:00 | INR | Imports (USD) (Apr) |  |  | 63.51B |
