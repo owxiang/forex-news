@@ -19,8 +19,8 @@
 | 09:30 | GBP | Labour Productivity (Q4) | 0.7% | 0.7% | -1.1% |
 | 09:30 | GBP | Labour Productivity (Q4) | -0.5% |  | -2.1% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.4% | 0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) | 1.2% | 1.2% | 1.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) | 2.6% | 1.9% | 1.1% |
 | 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | BRL | Retail Sales (MoM) (Mar) | 0.8% | 1.0% | 0.7% |
@@ -37,8 +37,8 @@
 | 14:15 | USD | Industrial Production (MoM) (Apr) | 0.0% | 0.2% | -0.3% |
 | 15:00 | USD | Business Inventories (MoM) (Mar) | 0.1% | 0.2% | 0.2% |
 | 15:00 | USD | Retail Inventories Ex Auto (Mar) | 0.4% | 0.4% | 0.1% |
-| 52 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.3% | 2.3% |
-| 19:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) | 2.5% | 2.3% | 2.3% |
+| 59 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (May) |  | 8.50% | 9.00% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,711B |
 | 23:30 | NZD | Business NZ PMI (Apr) |  |  | 53.2 |
