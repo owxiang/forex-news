@@ -16,8 +16,8 @@
 | 04:00 | KRW | M2 Money supply (Mar) | 4.90% |  | 5.60% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.980% |  | 0.938% |
 | 07:00 | GBP | Business Investment (YoY) (Q1) | 8.1% |  | 1.8% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
 | 07:00 | GBP | Construction Output (MoM) (Mar) | 0.5% | 0.2% | 0.2% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | 1.4% | 1.2% | 1.4% |
 | 07:00 | GBP | GDP (YoY) (Mar) | 1.1% | 1.0% | 1.4% |
 | 07:00 | GBP | Index of Services | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | -0.7% | -0.9% | 0.4% |
@@ -29,18 +29,18 @@
 | 07:00 | NOK | GDP Mainland (QoQ) (Q1) | 1.0% | 0.6% | -0.4% |
 | 07:00 | NOK | Trade Balance (Apr) | 55.9B |  | 59.4B |
 | 07:30 | CHF | PPI (YoY) (Apr) | -0.5% |  | -0.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) | 0.60% |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 0.80% |  | 0.80% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 0.8% | 0.8% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 0.80% |  | 0.70% |
-| 53 min | INR | Trade Balance |  |  | -21.54B |
-| 10:00 | INR | Exports (USD) (Apr) |  |  | 41.97B |
-| 10:00 | INR | Imports (USD) (Apr) |  |  | 63.51B |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 0.8% | 0.7% |
-| 10:00 | EUR | Employment Overall (Q1) |  |  | 169,435.3K |
-| 10:00 | EUR | Industrial Production (YoY) (Mar) |  | 2.5% | 1.2% |
+| 51 min | INR | Exports (USD) (Apr) |  |  | 41.97B |
+| 51 min | INR | Imports (USD) (Apr) |  |  | 63.51B |
+| 51 min | INR | Trade Balance |  |  | -21.54B |
+| 51 min | EUR | Employment Change (YoY) (Q1) |  | 0.8% | 0.7% |
+| 51 min | EUR | Employment Change (QoQ) (Q1) |  | 0.1% | 0.1% |
+| 51 min | EUR | Employment Overall (Q1) |  |  | 169,435.3K |
+| 51 min | EUR | Industrial Production (YoY) (Mar) |  | 2.5% | 1.2% |
 | 10:30 | ZAR | Gold Production (YoY) (Mar) |  |  | -7.6% |
 | 10:30 | ZAR | Mining Production (Mar) |  |  | -9.6% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 49.0 |
@@ -58,8 +58,8 @@
 | 13:30 | USD | Philly Fed New Orders (May) |  |  | -34.2 |
 | 13:30 | USD | Philly Fed Prices Paid (May) |  |  | 51.00 |
 | 13:30 | USD | PPI (YoY) (Apr) |  | 2.5% | 2.7% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
 | 13:30 | USD | Retail Sales (YoY) (Apr) |  |  | 4.60% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | -1.8% | 0.2% |
