@@ -2,10 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Unemployment Rate (Apr) |  |  | 2.9% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 435.2B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 278.3B |
-| 02:00 | AUD | Low | MI Inflation Expectations |  |  | 4.2% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,923.2B |  | -541.2B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 439.0B |  | 968.0B |
+| 31 min | AUD | Low | MI Inflation Expectations |  |  | 4.2% |
 | 02:30 | AUD | Moderate | Employment Change (Apr) |  | 20.9K | 32.2K |
 | 02:30 | AUD | Moderate | Full Employment Change (Apr) |  |  | 15.0K |
 | 02:30 | AUD | Low | Participation Rate (Apr) |  | 66.8% | 66.8% |
@@ -19,8 +18,8 @@
 | 05:00 | IDR | Low | Trade Balance (Apr) |  | 2.50B | 4.33B |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) |  |  | 1.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.4% | -1.9% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Mar) |  | 0.2% | 0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) |  | 1.2% | 1.6% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Mar) |  | 0.2% | 0.4% |
 | 07:00 | GBP | High | GDP (MoM) (Mar) |  | 0.0% | 0.5% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) |  | 1.2% | 1.5% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | 0.1% |
@@ -28,8 +27,8 @@
 | 07:00 | GBP | Low | Index of Services |  | 0.7% | 0.6% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) |  | -0.6% | 1.5% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Mar) |  | -0.9% | 0.1% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) |  | -0.5% | 0.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Mar) |  | -0.8% | 2.2% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) |  | -0.5% | 0.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) |  | 0.6% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Mar) |  | -19.70B | -20.81B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) |  |  | -8.58B |
@@ -45,8 +44,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) |  |  | 0.80% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French CPI (YoY) (Apr) |  | 0.8% | 0.8% |
-| 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 0.8% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 0.8% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 0.70% |
 | 08:50 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -54,14 +53,14 @@
 | 09:30 | GBP | Moderate | Labour Productivity (Q4) |  |  | -2.4% |
 | 10:00 | INR | Low | Exports (USD) (Apr) |  |  | 41.97B |
 | 10:00 | INR | Low | Imports (USD) (Apr) |  |  | 63.51B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 0.8% | 0.7% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  |  | 169,435.3K |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 1.2% | 1.2% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 1.7% | 1.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Mar) |  | 2.5% | 1.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 1.7% | 1.1% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Mar) |  |  | -7.6% |
 | 10:30 | ZAR | Low | Mining Production (Mar) |  |  | -9.6% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 49.0 |
@@ -89,10 +88,10 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (May) |  |  | 0.2 |
 | 13:30 | USD | Low | Philly Fed New Orders (May) |  |  | -34.2 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (May) |  |  | 51.00 |
-| 13:30 | USD | Low | PPI (YoY) (Apr) |  | 2.5% | 2.7% |
 | 13:30 | USD | High | PPI (MoM) (Apr) |  | 0.2% | -0.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
+| 13:30 | USD | Low | PPI (YoY) (Apr) |  | 2.5% | 2.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 3.4% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Apr) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Apr) |  |  | 4.60% |
 | 13:30 | USD | High | Retail Sales (MoM) (Apr) |  | 0.0% | 1.4% |
