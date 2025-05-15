@@ -11,15 +11,15 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Mar) | 0.7% | 0.6% | 0.6% |
 | 07:00 | GBP | Trade Balance (Mar) | -19.87B | -19.10B | -20.96B |
 | 07:00 | GBP | Trade Balance Non-EU (Mar) | -6.83B |  | -8.85B |
-| 20 min | CHF | PPI (MoM) (Apr) |  | 0.2% | 0.1% |
-| 35 min | EUR | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
-| 35 min | EUR | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
-| 08:50 | EUR | ECB's Elderson Speaks |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 07:30 | CHF | PPI (MoM) (Apr) | 0.1% | 0.2% | 0.1% |
+| 07:45 | EUR | French CPI (MoM) (Apr) | 0.6% | 0.5% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Apr) | 0.7% | 0.6% | 0.2% |
+| 43 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 53 min | USD | IEA Monthly Report |  |  |  |
 | 09:30 | GBP | Labour Productivity (Q4) |  |  | -2.4% |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 1.2% | 1.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 1.2% | 1.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 1.9% | 1.1% |
 | 11:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Apr) |  |  | 0.6% |
