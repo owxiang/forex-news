@@ -5,8 +5,8 @@
 | 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q1) | 1.4% | 0.8% | 0.8% |
 | 00:50 | JPY | GDP External Demand (QoQ) (Q1) | -0.8% | -0.6% | 0.7% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.0% | 0.1% | 0.1% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Apr) | 10.40% |  | -7.50% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Apr) | 12.40% | 4.00% | 5.40% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Apr) | 10.40% |  | -7.50% |
 | 02:30 | SGD | Trade Balance (Apr) | 14.200B |  | 5.350B |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) | 40.22 |  | 38.24 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (May) | 56.18 |  | 57.76 |
@@ -17,15 +17,15 @@
 | 05:30 | JPY | Capacity Utilization (MoM) (Mar) | -2.4% |  | -1.1% |
 | 06:30 | EUR | French Unemployment Rate (Q1) | 7.4% | 7.4% | 7.3% |
 | 07:30 | CHF | Industrial Production (YoY) (Q1) | 8.50% |  | 2.10% |
-| 09:00 | EUR | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI (YoY) (Apr) | 1.9% | 2.0% | 1.9% |
+| 09:00 | EUR | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
 | 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
-| 21 min | HKD | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
-| 21 min | HKD | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
-| 51 min | EUR | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
-| 51 min | EUR | Italian Trade Balance EU (Mar) |  |  | -0.36B |
+| 09:00 | EUR | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
+| 09:30 | HKD | GDP (YoY) (Q1) | 3.1% | 3.1% | 2.4% |
+| 10:00 | EUR | Italian Trade Balance (Mar) | 3.657B | 5.150B | 4.444B |
+| 10:00 | EUR | Italian Trade Balance EU (Mar) | -2.45B |  | -0.38B |
 | 12:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) |  |  | -0.2% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
