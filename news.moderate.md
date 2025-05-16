@@ -6,8 +6,8 @@
 | 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.2% | 3.2% | 2.9% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Inflation Expectations (QoQ) | 2.3% |  | 2.1% |
-| 35 min | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
-| 05:30 | JPY | Industrial Production (MoM) (Mar) |  | -1.1% | -1.1% |
+| 05:00 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
+| 21 min | JPY | Industrial Production (MoM) (Mar) |  | -1.1% | -1.1% |
 | 10:00 | EUR | Trade Balance (Mar) |  | 17.5B | 24.0B |
 | 11:00 | EUR | EU Economic Forecasts |  |  |  |
 | 13:30 | USD | Building Permits (Apr) |  | 1.450M | 1.467M |
