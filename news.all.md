@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | High | GDP (QoQ) (Q1) | -0.2% | -0.1% | 0.6% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q1) | -0.7% | -0.2% | 2.4% |
+| 00:50 | JPY | High | GDP (QoQ) (Q1) | -0.2% | -0.1% | 0.6% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | 1.4% | 0.8% | 0.8% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.8% | -0.6% | 0.7% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.2% | 3.2% | 2.9% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.0% | 0.1% | 0.1% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Apr) | 10.40% |  | -7.50% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Apr) | 12.40% | 4.00% | 5.40% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Apr) |  |  | -7.60% |
-| 02:30 | SGD | Low | Trade Balance (Apr) |  |  | 5.242B |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 38.24 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 57.76 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.30 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 36.04 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) |  |  | 72.91 |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:30 | SGD | Low | Trade Balance (Apr) | 14.200B |  | 5.350B |
+| 25 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 38.24 |
+| 25 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 57.76 |
+| 25 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.30 |
+| 25 min | JPY | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 36.04 |
+| 25 min | CNY | Low | China Thomson Reuters IPSOS PCSI (May) |  |  | 72.91 |
+| 25 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.1% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Apr) |  |  | 59.20% |
 | 05:00 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
@@ -24,8 +24,8 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) |  | -1.1% | -1.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q1) |  |  | 2.30% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
