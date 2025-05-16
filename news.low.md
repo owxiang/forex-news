@@ -5,23 +5,23 @@
 | 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q1) | 1.4% | 0.8% | 0.8% |
 | 00:50 | JPY | GDP External Demand (QoQ) (Q1) | -0.8% | -0.6% | 0.7% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.0% | 0.1% | 0.1% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Apr) | 10.40% |  | -7.50% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Apr) | 12.40% | 4.00% | 5.40% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Apr) | 10.40% |  | -7.50% |
 | 02:30 | SGD | Trade Balance (Apr) | 14.200B |  | 5.350B |
-| 25 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 38.24 |
-| 25 min | INR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 57.76 |
-| 25 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.30 |
-| 25 min | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 36.04 |
-| 25 min | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 72.91 |
-| 04:00 | NZD | RBNZ Offshore Holdings (Apr) |  |  | 59.20% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) | 40.22 |  | 38.24 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (May) | 56.18 |  | 57.76 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) | 48.13 |  | 49.30 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) | 34.51 |  | 36.04 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 70.39 |  | 72.91 |
+| 24 min | NZD | RBNZ Offshore Holdings (Apr) |  |  | 59.20% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Mar) |  |  | -1.1% |
 | 06:30 | EUR | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
 | 07:30 | CHF | Industrial Production (YoY) (Q1) |  |  | 2.30% |
-| 09:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
+| 09:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
 | 09:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
+| 09:00 | EUR | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
 | 09:30 | HKD | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
 | 09:30 | HKD | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
 | 10:00 | EUR | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
