@@ -22,8 +22,8 @@
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
 | 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
-| 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 3.1% | 3.1% | 2.4% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 10:00 | EUR | Italian Trade Balance (Mar) | 3.657B | 5.150B | 4.444B |
 | 10:00 | EUR | Italian Trade Balance EU (Mar) | -2.45B |  | -0.38B |
 | 12:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
@@ -35,8 +35,8 @@
 | 13:30 | USD | Export Price Index (YoY) (Apr) | 2.0% |  | 2.4% |
 | 13:30 | USD | Import Price Index (YoY) (Apr) | 0.1% |  | 0.9% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Mar) | 15.630B |  | 23.860B |
-| 46 min | USD | Michigan Current Conditions (May) |  | 59.6 | 59.8 |
-| 15:30 | CAD | BoC Senior Loan Officer Survey (Q1) |  |  | -1.9 |
+| 15:00 | USD | Michigan Current Conditions (May) | 57.6 | 59.6 | 59.8 |
+| 23 min | CAD | BoC Senior Loan Officer Survey (Q1) |  |  | -1.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 115.9K |

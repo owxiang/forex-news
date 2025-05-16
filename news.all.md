@@ -29,8 +29,8 @@
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) | 3.1% | 3.1% | 2.4% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 10:00 | EUR | Low | Italian Trade Balance (Mar) | 3.657B | 5.150B | 4.444B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Mar) | -2.45B |  | -0.38B |
 | 10:00 | EUR | Moderate | Trade Balance (Mar) | 36.8B | 17.5B | 24.8B |
@@ -44,19 +44,19 @@
 | 13:30 | USD | Moderate | Building Permits (Apr) | 1.412M | 1.450M | 1.481M |
 | 13:30 | USD | Low | Export Price Index (YoY) (Apr) | 2.0% |  | 2.4% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) | 0.1% | -0.5% | 0.1% |
-| 13:30 | USD | Moderate | Housing Starts (Apr) | 1.361M | 1.360M | 1.339M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) | 1.6% |  | -10.1% |
+| 13:30 | USD | Moderate | Housing Starts (Apr) | 1.361M | 1.360M | 1.339M |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) | 0.1% | -0.4% | -0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Apr) | 0.1% |  | 0.9% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) | -4.23B | 5.20B | -10.45B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Mar) | 15.630B |  | 23.860B |
-| 46 min | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
-| 46 min | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  |  | 4.4% |
-| 46 min | USD | Moderate | Michigan Consumer Expectations (May) |  | 48.0 | 47.3 |
-| 46 min | USD | Moderate | Michigan Consumer Sentiment (May) |  | 53.1 | 52.2 |
-| 46 min | USD | Low | Michigan Current Conditions (May) |  | 59.6 | 59.8 |
-| 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q1) |  |  | -1.9 |
-| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) | 7.3% |  | 6.5% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) | 4.6% |  | 4.4% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (May) | 46.5 | 48.0 | 47.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) | 50.8 | 53.1 | 52.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (May) | 57.6 | 59.6 | 59.8 |
+| 23 min | CAD | Low | BoC Senior Loan Officer Survey (Q1) |  |  | -1.9 |
+| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 474 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 578 |
