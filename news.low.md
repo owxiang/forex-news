@@ -17,15 +17,15 @@
 | 05:30 | JPY | Capacity Utilization (MoM) (Mar) | -2.4% |  | -1.1% |
 | 06:30 | EUR | French Unemployment Rate (Q1) | 7.4% | 7.4% | 7.3% |
 | 07:30 | CHF | Industrial Production (YoY) (Q1) | 8.50% |  | 2.10% |
-| 53 min | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
-| 53 min | EUR | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
-| 53 min | EUR | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
-| 53 min | EUR | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
-| 53 min | EUR | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
-| 09:30 | HKD | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
-| 09:30 | HKD | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
-| 10:00 | EUR | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
-| 10:00 | EUR | Italian Trade Balance EU (Mar) |  |  | -0.36B |
+| 09:00 | EUR | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
+| 09:00 | EUR | Italian CPI (YoY) (Apr) | 1.9% | 2.0% | 1.9% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
+| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
+| 21 min | HKD | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
+| 21 min | HKD | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
+| 51 min | EUR | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
+| 51 min | EUR | Italian Trade Balance EU (Mar) |  |  | -0.36B |
 | 12:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) |  |  | -0.2% |
 | 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
