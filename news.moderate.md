@@ -12,8 +12,8 @@
 | 11:00 | EUR | EU Economic Forecasts |  |  |  |
 | 13:30 | USD | Building Permits (Apr) |  | 1.450M | 1.467M |
 | 13:30 | USD | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
-| 13:30 | USD | Housing Starts (Apr) |  | 1.360M | 1.324M |
 | 13:30 | USD | Housing Starts (MoM) (Apr) |  |  | -11.4% |
+| 13:30 | USD | Housing Starts (Apr) |  | 1.360M | 1.324M |
 | 13:30 | USD | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
 | 13:30 | CAD | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
