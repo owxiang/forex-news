@@ -20,10 +20,10 @@
 | 09:00 | EUR | Italian CPI (YoY) (Apr) | 1.9% | 2.0% | 1.9% |
 | 09:00 | EUR | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
-| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
-| 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
+| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 3.1% | 3.1% | 2.4% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 10:00 | EUR | Italian Trade Balance (Mar) | 3.657B | 5.150B | 4.444B |
 | 10:00 | EUR | Italian Trade Balance EU (Mar) | -2.45B |  | -0.38B |
 | 12:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
