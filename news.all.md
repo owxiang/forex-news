@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | High | GDP (QoQ) (Q1) | -0.2% | -0.1% | 0.6% |
 | 00:50 | JPY | Moderate | GDP (YoY) (Q1) | -0.7% | -0.2% | 2.4% |
+| 00:50 | JPY | High | GDP (QoQ) (Q1) | -0.2% | -0.1% | 0.6% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | 1.4% | 0.8% | 0.8% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.8% | -0.6% | 0.7% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.2% | 3.2% | 2.9% |
@@ -17,9 +17,9 @@
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (May) | 34.51 |  | 36.04 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) | 70.39 |  | 72.91 |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 24 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.1% |
-| 24 min | NZD | Low | RBNZ Offshore Holdings (Apr) |  |  | 59.20% |
-| 05:00 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
+| 04:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.3% |  | 2.1% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Apr) | 58.80% |  | 59.20% |
+| 35 min | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Mar) |  |  | -1.1% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) |  | -1.1% | -1.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
@@ -27,8 +27,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
 | 10:00 | EUR | Low | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
@@ -46,8 +46,8 @@
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | -11.4% |
 | 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.360M | 1.324M |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Apr) |  |  | 0.9% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Mar) |  |  | 27.150B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
