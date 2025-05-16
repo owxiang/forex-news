@@ -10,16 +10,16 @@
 | 05:30 | JPY | Industrial Production (MoM) (Mar) | 0.2% | -1.1% | 2.3% |
 | 10:00 | EUR | Trade Balance (Mar) | 36.8B | 17.5B | 24.8B |
 | 11:00 | EUR | EU Economic Forecasts |  |  |  |
-| 18 min | USD | Building Permits (Apr) |  | 1.450M | 1.467M |
-| 18 min | USD | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
-| 18 min | USD | Housing Starts (MoM) (Apr) |  |  | -11.4% |
-| 18 min | USD | Housing Starts (Apr) |  | 1.360M | 1.324M |
-| 18 min | USD | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
-| 18 min | CAD | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 4.4% |
-| 15:00 | USD | Michigan Consumer Expectations (May) |  | 48.0 | 47.3 |
-| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 53.1 | 52.2 |
+| 13:30 | USD | Building Permits (Apr) | 1.412M | 1.450M | 1.481M |
+| 13:30 | USD | Export Price Index (MoM) (Apr) | 0.1% | -0.5% | 0.1% |
+| 13:30 | USD | Housing Starts (Apr) | 1.361M | 1.360M | 1.339M |
+| 13:30 | USD | Housing Starts (MoM) (Apr) | 1.6% |  | -10.1% |
+| 13:30 | USD | Import Price Index (MoM) (Apr) | 0.1% | -0.4% | -0.4% |
+| 13:30 | CAD | Foreign Securities Purchases (Mar) | -4.23B | 5.20B | -10.45B |
+| 46 min | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
+| 46 min | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 4.4% |
+| 46 min | USD | Michigan Consumer Expectations (May) |  | 48.0 | 47.3 |
+| 46 min | USD | Michigan Consumer Sentiment (May) |  | 53.1 | 52.2 |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 474 |
