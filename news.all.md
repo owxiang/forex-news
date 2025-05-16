@@ -58,8 +58,8 @@
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey (Q1) | 1.5 |  | -1.9 |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.4% | 2.5% | 2.5% |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 474 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 578 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 474 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 578 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 21.7K |
