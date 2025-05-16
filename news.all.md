@@ -20,15 +20,15 @@
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.3% |  | 2.1% |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Apr) | 58.80% |  | 59.20% |
 | 05:00 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
-| 21 min | JPY | Low | Capacity Utilization (MoM) (Mar) |  |  | -1.1% |
-| 21 min | JPY | Moderate | Industrial Production (MoM) (Mar) |  | -1.1% | -1.1% |
-| 06:30 | EUR | Low | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (Mar) | -2.4% |  | -1.1% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) | 0.2% | -1.1% | 2.3% |
+| 23 min | EUR | Low | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q1) |  |  | 2.30% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
 | 10:00 | EUR | Low | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
@@ -42,10 +42,10 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 686.06B |
 | 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.450M | 1.467M |
 | 13:30 | USD | Low | Building Permits (MoM) (Apr) |  |  | 0.5% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Apr) |  |  | 2.4% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | -11.4% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
 | 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.360M | 1.324M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | -11.4% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Apr) |  |  | 0.9% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |

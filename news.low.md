@@ -14,14 +14,14 @@
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) | 34.51 |  | 36.04 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 70.39 |  | 72.91 |
 | 04:00 | NZD | RBNZ Offshore Holdings (Apr) | 58.80% |  | 59.20% |
-| 21 min | JPY | Capacity Utilization (MoM) (Mar) |  |  | -1.1% |
-| 06:30 | EUR | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Mar) | -2.4% |  | -1.1% |
+| 23 min | EUR | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
 | 07:30 | CHF | Industrial Production (YoY) (Q1) |  |  | 2.30% |
 | 09:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
-| 09:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
+| 09:00 | EUR | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
 | 09:30 | HKD | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
 | 09:30 | HKD | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
 | 10:00 | EUR | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
