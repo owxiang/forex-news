@@ -27,8 +27,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Apr) | 1.9% | 2.0% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) | 3.1% | 3.1% | 2.4% |
 | 10:00 | EUR | Low | Italian Trade Balance (Mar) | 3.657B | 5.150B | 4.444B |
@@ -40,12 +40,12 @@
 | 12:30 | INR | Low | Bank Loan Growth | 9.9% |  | 10.3% |
 | 12:30 | INR | Low | Deposit Growth | 10.0% |  | 10.2% |
 | 12:30 | INR | Low | FX Reserves, USD | 690.62B |  | 686.06B |
-| 13:30 | USD | Moderate | Building Permits (Apr) | 1.412M | 1.450M | 1.481M |
 | 13:30 | USD | Low | Building Permits (MoM) (Apr) | -4.7% |  | 1.9% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) | 0.1% | -0.5% | 0.1% |
+| 13:30 | USD | Moderate | Building Permits (Apr) | 1.412M | 1.450M | 1.481M |
 | 13:30 | USD | Low | Export Price Index (YoY) (Apr) | 2.0% |  | 2.4% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) | 1.6% |  | -10.1% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) | 0.1% | -0.5% | 0.1% |
 | 13:30 | USD | Moderate | Housing Starts (Apr) | 1.361M | 1.360M | 1.339M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) | 1.6% |  | -10.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) | 0.1% | -0.4% | -0.4% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Apr) | 0.1% |  | 0.9% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) | -4.23B | 5.20B | -10.45B |
@@ -60,27 +60,27 @@
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 473 |  | 474 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 576 |  | 578 |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.2K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.0K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 21.7K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | 115.9K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 175.4K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 162.5K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 32.8K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -117.2K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -76.4K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 49.3K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 49.4K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -107.5K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -70.6K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 68.6K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -23.6K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -48.4K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 25.0K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | 176.9K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -23.1K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 75.7K |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Mar) |  |  | 106.20B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Mar) |  |  | 284.70B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Mar) |  | 44.2B | 112.0B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Mar) |  |  | 112.00B |
+| 24 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.2K |
+| 24 min | USD | Low | CFTC Aluminium speculative net positions |  |  | -0.0K |
+| 24 min | USD | Low | CFTC Copper speculative net positions |  |  | 21.7K |
+| 24 min | USD | Low | CFTC Corn speculative net positions |  |  | 115.9K |
+| 24 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 175.4K |
+| 24 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 162.5K |
+| 24 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 32.8K |
+| 24 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -117.2K |
+| 24 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -76.4K |
+| 24 min | USD | Low | CFTC Silver speculative net positions |  |  | 49.3K |
+| 24 min | USD | Low | CFTC Soybeans speculative net positions |  |  | 49.4K |
+| 24 min | USD | Low | CFTC Wheat speculative net positions |  |  | -107.5K |
+| 24 min | CAD | Low | CFTC CAD speculative net positions |  |  | -70.6K |
+| 24 min | MXN | Low | CFTC MXN speculative net positions |  |  | 68.6K |
+| 24 min | CHF | Low | CFTC CHF speculative net positions |  |  | -23.6K |
+| 24 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -48.4K |
+| 24 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | 25.0K |
+| 24 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 176.9K |
+| 24 min | NZD | Low | CFTC NZD speculative net positions |  |  | -23.1K |
+| 24 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 75.7K |
+| 54 min | USD | Low | US Foreign Buying, T-bonds (Mar) |  |  | 106.20B |
+| 54 min | USD | Low | Overall Net Capital Flow (Mar) |  |  | 284.70B |
+| 54 min | USD | Moderate | TIC Net Long-Term Transactions (Mar) |  | 44.2B | 112.0B |
+| 54 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Mar) |  |  | 112.00B |

@@ -20,8 +20,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI (YoY) (Apr) | 1.9% | 2.0% | 1.9% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
-| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
+| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 3.1% | 3.1% | 2.4% |
 | 10:00 | EUR | Italian Trade Balance (Mar) | 3.657B | 5.150B | 4.444B |
@@ -37,17 +37,17 @@
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Mar) | 15.630B |  | 23.860B |
 | 15:00 | USD | Michigan Current Conditions (May) | 57.6 | 59.6 | 59.8 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey (Q1) | 1.5 |  | -1.9 |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | -0.0K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.7K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 115.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -117.2K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 49.3K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 49.4K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -107.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -70.6K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 68.6K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.6K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -23.1K |
-| 21:00 | USD | US Foreign Buying, T-bonds (Mar) |  |  | 106.20B |
-| 21:00 | USD | Overall Net Capital Flow (Mar) |  |  | 284.70B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Mar) |  |  | 112.00B |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | -0.0K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 21.7K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | 115.9K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -117.2K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 49.3K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 49.4K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -107.5K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -70.6K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 68.6K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -23.6K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -23.1K |
+| 54 min | USD | US Foreign Buying, T-bonds (Mar) |  |  | 106.20B |
+| 54 min | USD | Overall Net Capital Flow (Mar) |  |  | 284.70B |
+| 54 min | USD | TIC Net Long-Term Transactions including Swaps (Mar) |  |  | 112.00B |
