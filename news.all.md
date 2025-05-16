@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.8% | -0.6% | 0.7% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.2% | 3.2% | 2.9% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.0% | 0.1% | 0.1% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Apr) | 10.40% |  | -7.50% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Apr) | 12.40% | 4.00% | 5.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Apr) | 10.40% |  | -7.50% |
 | 02:30 | SGD | Low | Trade Balance (Apr) | 14.200B |  | 5.350B |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (May) | 40.22 |  | 38.24 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) | 56.18 |  | 57.76 |
@@ -24,8 +24,8 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) | 0.2% | -1.1% | 2.3% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q1) | 7.4% | 7.4% | 7.3% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q1) | 8.50% |  | 2.10% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Apr) | 1.9% | 2.0% | 1.9% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
@@ -37,19 +37,19 @@
 | 11:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 12:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (May) | -0.0% |  | -0.2% |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 10.3% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.2% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 686.06B |
-| 13:30 | USD | Low | Building Permits (MoM) (Apr) |  |  | 0.5% |
-| 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.450M | 1.467M |
-| 13:30 | USD | Low | Export Price Index (YoY) (Apr) |  |  | 2.4% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | -11.4% |
-| 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.360M | 1.324M |
-| 13:30 | USD | Low | Import Price Index (YoY) (Apr) |  |  | 0.9% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Mar) |  |  | 27.150B |
+| 12:30 | INR | Low | Bank Loan Growth | 9.9% |  | 10.3% |
+| 12:30 | INR | Low | Deposit Growth | 10.0% |  | 10.2% |
+| 12:30 | INR | Low | FX Reserves, USD | 690.62B |  | 686.06B |
+| 18 min | USD | Low | Building Permits (MoM) (Apr) |  |  | 0.5% |
+| 18 min | USD | Moderate | Building Permits (Apr) |  | 1.450M | 1.467M |
+| 18 min | USD | Low | Export Price Index (YoY) (Apr) |  |  | 2.4% |
+| 18 min | USD | Moderate | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
+| 18 min | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | -11.4% |
+| 18 min | USD | Moderate | Housing Starts (Apr) |  | 1.360M | 1.324M |
+| 18 min | USD | Low | Import Price Index (YoY) (Apr) |  |  | 0.9% |
+| 18 min | USD | Moderate | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
+| 18 min | CAD | Moderate | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
+| 18 min | CAD | Low | Foreign Securities Purchases by Canadians (Mar) |  |  | 27.150B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  |  | 4.4% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (May) |  | 48.0 | 47.3 |

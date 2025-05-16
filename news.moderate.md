@@ -10,12 +10,12 @@
 | 05:30 | JPY | Industrial Production (MoM) (Mar) | 0.2% | -1.1% | 2.3% |
 | 10:00 | EUR | Trade Balance (Mar) | 36.8B | 17.5B | 24.8B |
 | 11:00 | EUR | EU Economic Forecasts |  |  |  |
-| 13:30 | USD | Building Permits (Apr) |  | 1.450M | 1.467M |
-| 13:30 | USD | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
-| 13:30 | USD | Housing Starts (MoM) (Apr) |  |  | -11.4% |
-| 13:30 | USD | Housing Starts (Apr) |  | 1.360M | 1.324M |
-| 13:30 | USD | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
-| 13:30 | CAD | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
+| 18 min | USD | Building Permits (Apr) |  | 1.450M | 1.467M |
+| 18 min | USD | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
+| 18 min | USD | Housing Starts (MoM) (Apr) |  |  | -11.4% |
+| 18 min | USD | Housing Starts (Apr) |  | 1.360M | 1.324M |
+| 18 min | USD | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
+| 18 min | CAD | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 4.4% |
 | 15:00 | USD | Michigan Consumer Expectations (May) |  | 48.0 | 47.3 |
