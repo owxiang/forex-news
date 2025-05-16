@@ -20,17 +20,17 @@
 | 09:00 | EUR | Italian CPI (MoM) (Apr) | 0.1% | 0.2% | 0.3% |
 | 09:00 | EUR | Italian CPI (YoY) (Apr) | 1.9% | 2.0% | 1.9% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Apr) | 1.7% |  | 1.7% |
-| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:00 | EUR | Italian HICP (MoM) (Apr) | 0.4% | 0.5% | 1.6% |
-| 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
+| 09:00 | EUR | Italian HICP (YoY) (Apr) | 2.0% | 2.1% | 2.1% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 3.1% | 3.1% | 2.4% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 1.9% | 2.0% | 0.8% |
 | 10:00 | EUR | Italian Trade Balance (Mar) | 3.657B | 5.150B | 4.444B |
 | 10:00 | EUR | Italian Trade Balance EU (Mar) | -2.45B |  | -0.38B |
-| 53 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 53 min | BRL | IGP-10 Inflation Index (MoM) (May) |  |  | -0.2% |
-| 12:30 | INR | Bank Loan Growth |  |  | 10.3% |
-| 12:30 | INR | Deposit Growth |  |  | 10.2% |
-| 12:30 | INR | FX Reserves, USD |  |  | 686.06B |
+| 12:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) | -0.0% |  | -0.2% |
+| 24 min | INR | Bank Loan Growth |  |  | 10.3% |
+| 24 min | INR | Deposit Growth |  |  | 10.2% |
+| 24 min | INR | FX Reserves, USD |  |  | 686.06B |
 | 13:30 | USD | Building Permits (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | USD | Export Price Index (YoY) (Apr) |  |  | 2.4% |
 | 13:30 | USD | Import Price Index (YoY) (Apr) |  |  | 0.9% |
