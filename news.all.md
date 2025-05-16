@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Moderate | GDP (YoY) (Q1) |  | -0.2% | 2.2% |
-| 44 min | JPY | High | GDP (QoQ) (Q1) |  | -0.1% | 0.6% |
-| 44 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) |  | 0.8% | 0.6% |
-| 44 min | JPY | Low | GDP External Demand (QoQ) (Q1) |  | -0.6% | 0.7% |
-| 44 min | JPY | Moderate | GDP Price Index (YoY) (Q1) |  | 3.2% | 2.9% |
-| 44 min | JPY | Low | GDP Private Consumption (QoQ) (Q1) |  | 0.1% | 0.0% |
+| 00:50 | JPY | High | GDP (QoQ) (Q1) | -0.2% | -0.1% | 0.6% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q1) | -0.7% | -0.2% | 2.4% |
+| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | 1.4% | 0.8% | 0.8% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.8% | -0.6% | 0.7% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.2% | 3.2% | 2.9% |
+| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.0% | 0.1% | 0.1% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Apr) | 12.40% | 4.00% | 5.40% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Apr) |  |  | -7.60% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Apr) |  | 4.00% | 5.40% |
 | 02:30 | SGD | Low | Trade Balance (Apr) |  |  | 5.242B |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 38.24 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 57.76 |
@@ -24,13 +24,13 @@
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Mar) |  | -1.1% | -1.1% |
 | 06:30 | EUR | Low | French Unemployment Rate (Q1) |  | 7.4% | 7.3% |
 | 07:30 | CHF | Low | Industrial Production (YoY) (Q1) |  |  | 2.30% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 2.0% | 1.9% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Apr) |  |  | 1.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Apr) |  | 0.5% | 1.6% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Apr) |  | 2.1% | 2.1% |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 3.1% | 3.1% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 2.0% | 2.0% |
 | 10:00 | EUR | Low | Italian Trade Balance (Mar) |  | 5.150B | 4.466B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Mar) |  |  | -0.36B |
 | 10:00 | EUR | Moderate | Trade Balance (Mar) |  | 17.5B | 24.0B |
@@ -44,10 +44,10 @@
 | 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.450M | 1.467M |
 | 13:30 | USD | Low | Export Price Index (YoY) (Apr) |  |  | 2.4% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Apr) |  | -0.5% | 0.0% |
-| 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.360M | 1.324M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Apr) |  |  | -11.4% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
+| 13:30 | USD | Moderate | Housing Starts (Apr) |  | 1.360M | 1.324M |
 | 13:30 | USD | Low | Import Price Index (YoY) (Apr) |  |  | 0.9% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Apr) |  | -0.4% | -0.1% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Mar) |  | 5.20B | -6.46B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Mar) |  |  | 27.150B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 6.5% |
