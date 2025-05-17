@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:40 | USD | FOMC Member Daly Speaks |  |  |  |
+| 6 min | USD | FOMC Member Daly Speaks |  |  |  |
