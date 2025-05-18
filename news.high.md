@@ -1,3 +1,5 @@
-## 18 May 2025 - High Impact Forex News
+## 19 May 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 10:00 | EUR | CPI (YoY) (Apr) |  | 2.2% | 2.2% |
