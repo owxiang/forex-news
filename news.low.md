@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:45 | NZD | PPI Output (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 39 min | NZD | PPI Output (QoQ) (Q1) |  | 0.1% | -0.1% |
