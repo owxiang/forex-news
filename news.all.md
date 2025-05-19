@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (May) | 0.6% |  | 1.3% |
-| 58 min | CNY | Low | House Prices (YoY) (Apr) |  |  | -4.5% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Apr) |  | 4.4% | 4.2% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Apr) |  | 5.7% | 7.7% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Apr) |  |  | 6.5% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Apr) |  | 6.0% | 5.9% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Apr) |  |  | 3.61% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Apr) |  | 5.2% | 5.2% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:30 | CNY | Low | House Prices (YoY) (Apr) | -4.0% |  | -4.5% |
+| 24 min | CNY | Moderate | Fixed Asset Investment (YoY) (Apr) |  | 4.4% | 4.2% |
+| 24 min | CNY | Moderate | Industrial Production (YoY) (Apr) |  | 5.7% | 7.7% |
+| 24 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Apr) |  |  | 6.5% |
+| 24 min | CNY | Low | Retail Sales (YoY) (Apr) |  | 6.0% | 5.9% |
+| 24 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Apr) |  |  | 3.61% |
+| 24 min | CNY | Moderate | Chinese Unemployment Rate (Apr) |  | 5.2% | 5.2% |
+| 24 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) |  |  | -0.90 |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -3.42B |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.7% | 2.4% |
