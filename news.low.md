@@ -8,16 +8,16 @@
 | 03:00 | CNY | Retail Sales (YoY) (Apr) | 5.1% | 6.0% | 5.9% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Apr) | 3.73% |  | 3.61% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Mar) | 15.80 |  | -0.30 |
-| 09:00 | EUR | Spanish Trade Balance | -5.48B |  | -3.42B |
+| 09:00 | EUR | Spanish Trade Balance (Mar) | -5.48B |  | -3.42B |
 | 10:00 | EUR | Core CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Apr) | 2.1% |  | 2.1% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Apr) | 0.6% |  | 0.6% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Apr) | 2.1% |  | 2.1% |
 | 10:00 | EUR | CPI, n.s.a (Apr) | 128.77 | 128.76 | 128.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.7% | 2.7% | 2.5% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Mar) |  | 0.50% | 0.40% |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 54 min | BRL | IBC-Br Economic Activity (Mar) |  | 0.50% | 0.40% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.985% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 2.057% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 2.023% |
