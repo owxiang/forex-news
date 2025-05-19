@@ -13,9 +13,9 @@
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Apr) | 5.1% | 5.2% | 5.2% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 15.80 |  | -0.30 |
-| 09:00 | EUR | Low | Spanish Trade Balance |  |  | -3.42B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.7% | 2.4% |
+| 52 min | EUR | Low | Spanish Trade Balance |  |  | -3.42B |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) |  | 1.0% | 1.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.7% | 2.4% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) |  | 2.2% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) |  | 0.6% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) |  |  | 2.1% |
