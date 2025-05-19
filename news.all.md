@@ -14,12 +14,12 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 15.80 |  | -0.30 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Mar) | -5.48B |  | -3.42B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.7% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.7% | 2.4% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 2.1% |  | 2.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) | 0.6% |  | 0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 2.1% |  | 2.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 128.77 | 128.76 | 128.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.7% | 2.7% | 2.5% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
@@ -33,8 +33,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 2.011% |  | 2.023% |
 | 14:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Apr) | -1.0% | -0.7% | -0.8% |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.300% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.105% |
-| 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.285% |  | 4.300% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.140% |  | 4.105% |
+| 22 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
