@@ -14,8 +14,8 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 15.80 |  | -0.30 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Mar) | -5.48B |  | -3.42B |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.7% | 2.4% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.7% | 2.4% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 2.1% |  | 2.1% |
@@ -26,13 +26,13 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Mar) | 0.80% | 0.50% | 0.40% |
-| 18 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.985% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.057% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.023% |
-| 14:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Apr) |  | -0.7% | -0.7% |
+| 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.947% |  | 1.985% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.042% |  | 2.057% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.011% |  | 2.023% |
+| 30 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 45 min | USD | Moderate | US Leading Index (MoM) (Apr) |  | -0.7% | -0.7% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.300% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.105% |
 | 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |

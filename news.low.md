@@ -18,10 +18,10 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (Mar) | 0.80% | 0.50% | 0.40% |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 1.985% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 2.057% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 2.023% |
-| 14:45 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.947% |  | 1.985% |
+| 14:00 | EUR | French 3-Month BTF Auction | 2.042% |  | 2.057% |
+| 14:00 | EUR | French 6-Month BTF Auction | 2.011% |  | 2.023% |
+| 30 min | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.300% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.105% |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
