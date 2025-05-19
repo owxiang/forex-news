@@ -1,5 +1,5 @@
-## 19 May 2025 - High Impact Forex News
+## 20 May 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
+| 05:30 | AUD | RBA Interest Rate Decision (May) |  | 3.85% | 4.10% |

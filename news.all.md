@@ -1,40 +1,37 @@
-## 19 May 2025 - All Forex News
+## 20 May 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) (May) | 0.6% |  | 1.4% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (May) | 0.6% |  | 1.3% |
-| 02:30 | CNY | Low | House Prices (YoY) (Apr) | -4.0% |  | -4.5% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Apr) | 4.0% | 4.4% | 4.2% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Apr) | 6.1% | 5.7% | 7.7% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Apr) | 6.4% |  | 6.5% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Apr) | 5.1% | 6.0% | 5.9% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Apr) | 3.73% |  | 3.61% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Apr) | 5.1% | 5.2% | 5.2% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 15.80 |  | -0.30 |
-| 09:00 | EUR | Low | Spanish Trade Balance (Mar) | -5.48B |  | -3.42B |
-| 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.7% | 2.4% |
-| 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) | 0.6% |  | 0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 2.1% |  | 2.1% |
-| 10:00 | EUR | Low | CPI, n.s.a (Apr) | 128.77 | 128.76 | 128.04 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.7% | 2.7% | 2.5% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Mar) | 0.80% | 0.50% | 0.40% |
-| 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.947% |  | 1.985% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 2.042% |  | 2.057% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 2.011% |  | 2.023% |
-| 14:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Apr) | -1.0% | -0.7% | -0.8% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.285% |  | 4.300% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.140% |  | 4.105% |
-| 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 18:15 | USD | Low | Fed Logan Speaks |  |  |  |
-| 18:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (May) |  | 3.50% | 3.60% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.10% |
+| 05:30 | AUD | High | RBA Interest Rate Decision (May) |  | 3.85% | 4.10% |
+| 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | -0.3% | -0.7% |
+| 07:00 | EUR | Low | German PPI (YoY) (Apr) |  | -0.6% | -0.2% |
+| 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 09:00 | EUR | Low | Current Account (Mar) |  |  | 34.3B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Mar) |  |  | 33.1B |
+| 09:30 | HKD | Low | Unemployment Rate (Apr) |  |  | 3.2% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Mar) |  |  | -0.48% |
+| 11:00 | EUR | Low | Spanish Consumer Confidence (Apr) |  |  | 79.6 |
+| 12:50 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.4% | 2.3% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  | 0.2% | 0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.2% |
+| 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 1.6% | 2.3% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.3% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.9% | 2.9% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.9% | 2.8% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
+| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:30 | USD | Low | Fed Collins Speaks |  |  |  |
+| 15:00 | EUR | Low | Consumer Confidence (May) |  | -16.0 | -16.7 |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.6% |
+| 16:00 | USD | Low | Milk Auctions |  |  | 4,516.0 |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.287M |
+| 23:45 | NZD | Low | Exports (Apr) |  |  | 7.59B |
+| 23:45 | NZD | Low | Imports (Apr) |  |  | 6.62B |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  | 500M | 970M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Apr) |  |  | -6,130M |
