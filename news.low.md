@@ -6,7 +6,7 @@
 | 02:30 | CNY | House Prices (YoY) (Apr) | -4.0% |  | -4.5% |
 | 03:00 | CNY | Retail Sales (YoY) (Apr) | 5.1% | 6.0% | 5.9% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Apr) | 3.73% |  | 3.61% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Mar) |  |  | -0.90 |
+| 18 min | JPY | Tertiary Industry Activity Index (Mar) |  |  | -0.90 |
 | 09:00 | EUR | Spanish Trade Balance |  |  | -3.42B |
 | 10:00 | EUR | Core CPI (MoM) (Apr) |  | 1.0% | 1.0% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Apr) |  |  | 0.6% |
