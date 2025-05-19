@@ -11,5 +11,5 @@
 | 10:00 | EUR | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
 | 13:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 45 min | USD | US Leading Index (MoM) (Apr) |  | -0.7% | -0.7% |
+| 15:00 | USD | US Leading Index (MoM) (Apr) | -1.0% | -0.7% | -0.8% |
 | 18:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
