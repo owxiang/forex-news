@@ -9,7 +9,7 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Apr) | 2.7% | 2.7% | 2.4% |
 | 10:00 | EUR | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
-| 13:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 18 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | US Leading Index (MoM) (Apr) |  | -0.7% | -0.7% |
 | 18:30 | USD | FOMC Member Kashkari Speaks |  |  |  |

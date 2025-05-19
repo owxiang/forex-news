@@ -14,23 +14,23 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 15.80 |  | -0.30 |
 | 09:00 | EUR | Low | Spanish Trade Balance (Mar) | -5.48B |  | -3.42B |
-| 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.7% | 2.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Apr) | 1.0% | 1.0% | 1.0% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) | 0.6% |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Apr) | 2.1% |  | 2.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Apr) | 0.6% |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 128.77 | 128.76 | 128.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.7% | 2.7% | 2.5% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Apr) | 0.9% | 0.9% | 0.8% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Mar) |  | 0.50% | 0.40% |
-| 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.985% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 2.057% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 2.023% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Mar) | 0.80% | 0.50% | 0.40% |
+| 18 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 18 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.985% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 2.057% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 2.023% |
 | 14:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Apr) |  | -0.7% | -0.7% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.300% |
