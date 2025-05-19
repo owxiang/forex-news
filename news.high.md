@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 50 min | EUR | CPI (YoY) (Apr) |  | 2.2% | 2.2% |
+| 10:00 | EUR | CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
