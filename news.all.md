@@ -7,20 +7,21 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (May) | 3.85% | 3.85% | 4.10% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 07:00 | EUR | Low | German PPI (YoY) (Apr) | -0.9% | -0.6% | -0.2% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Apr) | -0.6% | -0.3% | -0.7% |
-| 53 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | EUR | Low | Current Account (Mar) |  | 35.9B | 34.3B |
-| 53 min | EUR | Low | Current Account n.s.a. (Mar) |  |  | 33.1B |
-| 09:30 | HKD | Low | Unemployment Rate (Apr) |  |  | 3.2% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Mar) |  |  | -0.48% |
+| 07:00 | EUR | Low | German PPI (YoY) (Apr) | -0.9% | -0.6% | -0.2% |
+| 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 09:00 | EUR | Low | Current Account (Mar) | 50.9B | 35.9B | 34.3B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Mar) | 60.1B |  | 33.1B |
+| 21 min | HKD | Low | Unemployment Rate (Apr) |  |  | 3.2% |
+| 51 min | EUR | Low | Construction Output (MoM) (Mar) |  |  | -0.48% |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Apr) |  |  | 79.6 |
+| 12:30 | INR | Low | Infrastructure Output (YoY) (Apr) |  |  | 3.8% |
 | 12:50 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.3% | 2.3% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.2% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  | 0.2% | 0.1% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | -0.1% | 0.3% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.2% |
 | 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 1.6% | 2.3% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | -0.1% | 0.3% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.9% | 2.9% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.8% | 2.8% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
