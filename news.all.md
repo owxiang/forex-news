@@ -7,8 +7,8 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (May) | 3.85% | 3.85% | 4.10% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 52 min | EUR | Low | German PPI (YoY) (Apr) |  | -0.6% | -0.2% |
-| 52 min | EUR | Moderate | German PPI (MoM) (Apr) |  | -0.3% | -0.7% |
+| 07:00 | EUR | Low | German PPI (YoY) (Apr) | -0.9% | -0.6% | -0.2% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) | -0.6% | -0.3% | -0.7% |
 | 09:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Mar) |  | 35.9B | 34.3B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Mar) |  |  | 33.1B |

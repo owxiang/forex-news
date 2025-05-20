@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | EUR | German PPI (YoY) (Apr) |  | -0.6% | -0.2% |
+| 07:00 | EUR | German PPI (YoY) (Apr) | -0.9% | -0.6% | -0.2% |
 | 09:00 | EUR | Current Account (Mar) |  | 35.9B | 34.3B |
 | 09:00 | EUR | Current Account n.s.a. (Mar) |  |  | 33.1B |
 | 09:30 | HKD | Unemployment Rate (Apr) |  |  | 3.2% |

@@ -6,7 +6,7 @@
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.10% |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 52 min | EUR | German PPI (MoM) (Apr) |  | -0.3% | -0.7% |
+| 07:00 | EUR | German PPI (MoM) (Apr) | -0.6% | -0.3% | -0.7% |
 | 09:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:50 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:30 | CAD | Core CPI (MoM) (Apr) |  | 0.2% | 0.1% |
