@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | AUD | RBA Interest Rate Decision (May) |  | 3.85% | 4.10% |
+| 21 min | AUD | RBA Interest Rate Decision (May) |  | 3.85% | 4.10% |
