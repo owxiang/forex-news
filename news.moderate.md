@@ -13,4 +13,4 @@
 | 13:30 | CAD | Core CPI (YoY) (Apr) | 2.5% |  | 2.2% |
 | 13:30 | CAD | CPI (MoM) (Apr) | -0.1% | -0.1% | 0.3% |
 | 14:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.850M | 4.287M |
+| 23 min | USD | API Weekly Crude Oil Stock |  | -1.850M | 4.287M |
