@@ -7,7 +7,7 @@
 | 09:00 | EUR | Current Account n.s.a. (Mar) | 60.1B |  | 33.1B |
 | 09:30 | HKD | Unemployment Rate (Apr) | 3.4% |  | 3.2% |
 | 10:00 | EUR | Construction Output (MoM) (Mar) | 0.10% |  | -1.16% |
-| 12:30 | INR | Infrastructure Output (YoY) (Apr) |  |  | 3.8% |
+| 24 min | INR | Infrastructure Output (YoY) (Apr) |  |  | 3.8% |
 | 13:30 | CAD | Common CPI (YoY) (Apr) |  | 2.3% | 2.3% |
 | 13:30 | CAD | CPI (YoY) (Apr) |  | 1.6% | 2.3% |
 | 13:30 | CAD | Median CPI (YoY) (Apr) |  | 2.9% | 2.9% |
@@ -20,5 +20,5 @@
 | 16:00 | USD | Milk Auctions |  |  | 4,516.0 |
 | 23:45 | NZD | Exports (Apr) |  |  | 7.59B |
 | 23:45 | NZD | Imports (Apr) |  |  | 6.62B |
-| 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -6,130M |
 | 23:45 | NZD | Trade Balance (MoM) (Apr) |  | 670M | 970M |
+| 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -6,130M |
