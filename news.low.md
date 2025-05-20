@@ -14,11 +14,11 @@
 | 13:30 | CAD | Trimmed CPI (YoY) (Apr) | 3.1% | 2.8% | 2.9% |
 | 13:55 | USD | Redbook (YoY) | 5.4% |  | 5.8% |
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 14 min | USD | Fed Collins Speaks |  |  |  |
-| 44 min | EUR | Consumer Confidence (May) |  | -16.0 | -16.7 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.6% |
-| 16:00 | USD | Milk Auctions |  |  | 4,516.0 |
+| 14:30 | USD | Fed Collins Speaks |  |  |  |
+| 15:00 | EUR | Consumer Confidence (May) | -15.2 | -16.0 | -16.6 |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 4.6% |
+| 53 min | USD | Milk Auctions |  |  | 4,516.0 |
 | 23:45 | NZD | Exports (Apr) |  |  | 7.59B |
 | 23:45 | NZD | Imports (Apr) |  |  | 6.62B |
-| 23:45 | NZD | Trade Balance (MoM) (Apr) |  | 670M | 970M |
 | 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -6,130M |
+| 23:45 | NZD | Trade Balance (MoM) (Apr) |  | 670M | 970M |
