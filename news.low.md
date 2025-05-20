@@ -20,5 +20,5 @@
 | 16:00 | USD | Milk Auctions |  |  | 4,516.0 |
 | 23:45 | NZD | Exports (Apr) |  |  | 7.59B |
 | 23:45 | NZD | Imports (Apr) |  |  | 6.62B |
-| 23:45 | NZD | Trade Balance (MoM) (Apr) |  | 500M | 970M |
 | 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -6,130M |
+| 23:45 | NZD | Trade Balance (MoM) (Apr) |  | 500M | 970M |
