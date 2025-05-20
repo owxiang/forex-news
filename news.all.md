@@ -19,8 +19,8 @@
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | -0.9% |  | 4.6% |
 | 13:00 | USD | Low | Milk Auctions | 4,589.0 |  | 4,516.0 |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) | 2.5% | 2.3% | 2.3% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) | 0.5% | 0.2% | 0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) | 2.5% |  | 2.2% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) | 0.5% | 0.2% | 0.1% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Apr) | -0.1% | -0.1% | 0.3% |
 | 13:30 | CAD | Low | CPI (YoY) (Apr) | 1.7% | 1.6% | 2.3% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Apr) | 3.2% | 2.9% | 2.8% |
@@ -30,7 +30,7 @@
 | 14:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:30 | USD | Low | Fed Collins Speaks |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (May) | -15.2 | -16.0 | -16.6 |
-| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.850M | 4.287M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.499M | -1.850M | 4.287M |
 | 23:45 | NZD | Low | Exports (Apr) |  |  | 7.59B |
 | 23:45 | NZD | Low | Imports (Apr) |  |  | 6.62B |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  | 670M | 970M |
