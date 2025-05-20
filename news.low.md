@@ -18,7 +18,7 @@
 | 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 14:30 | USD | Fed Collins Speaks |  |  |  |
 | 15:00 | EUR | Consumer Confidence (May) | -15.2 | -16.0 | -16.6 |
-| 23:45 | NZD | Exports (Apr) |  |  | 7.59B |
-| 23:45 | NZD | Imports (Apr) |  |  | 6.62B |
-| 23:45 | NZD | Trade Balance (MoM) (Apr) |  | 670M | 970M |
-| 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -6,130M |
+| 39 min | NZD | Exports (Apr) |  |  | 7.59B |
+| 39 min | NZD | Imports (Apr) |  |  | 6.62B |
+| 39 min | NZD | Trade Balance (YoY) (Apr) |  |  | -6,130M |
+| 39 min | NZD | Trade Balance (MoM) (Apr) |  | 670M | 970M |
