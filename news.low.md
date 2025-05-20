@@ -1,24 +1,43 @@
-## 20 May 2025 - Low Impact Forex News
+## 21 May 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German PPI (YoY) (Apr) | -0.9% | -0.6% | -0.2% |
-| 09:00 | EUR | Current Account (Mar) | 50.9B | 35.9B | 34.3B |
-| 09:00 | EUR | Current Account n.s.a. (Mar) | 60.1B |  | 33.1B |
-| 09:30 | HKD | Unemployment Rate (Apr) | 3.4% |  | 3.2% |
-| 10:00 | EUR | Construction Output (MoM) (Mar) | 0.10% |  | -1.16% |
-| 12:30 | INR | Infrastructure Output (YoY) (Apr) | 0.5% |  | 4.6% |
-| 13:00 | NZD | GlobalDairyTrade Price Index | -0.9% |  | 4.6% |
-| 13:00 | USD | Milk Auctions | 4,589.0 |  | 4,516.0 |
-| 13:30 | CAD | Common CPI (YoY) (Apr) | 2.5% | 2.3% | 2.3% |
-| 13:30 | CAD | CPI (YoY) (Apr) | 1.7% | 1.6% | 2.3% |
-| 13:30 | CAD | Median CPI (YoY) (Apr) | 3.2% | 2.9% | 2.8% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Apr) | 3.1% | 2.8% | 2.9% |
-| 13:55 | USD | Redbook (YoY) | 5.4% |  | 5.8% |
-| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 14:30 | USD | Fed Collins Speaks |  |  |  |
-| 15:00 | EUR | Consumer Confidence (May) | -15.2 | -16.0 | -16.6 |
-| 39 min | NZD | Exports (Apr) |  |  | 7.59B |
-| 39 min | NZD | Imports (Apr) |  |  | 6.62B |
-| 39 min | NZD | Trade Balance (YoY) (Apr) |  |  | -6,130M |
-| 39 min | NZD | Trade Balance (MoM) (Apr) |  | 670M | 970M |
+| 00:00 | JPY | Reuters Tankan Index (May) | 8 |  | 9 |
+| 44 min | JPY | Imports (YoY) (Apr) |  | -4.5% | 1.8% |
+| 02:00 | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 04:00 | NZD | Credit Card Spending (YoY) (Apr) |  |  | 0.8% |
+| 05:00 | IDR | Loans (YoY) (Apr) |  |  | 9.16% |
+| 07:00 | GBP | Core CPI (MoM) (Apr) |  | 1.2% | 0.5% |
+| 07:00 | GBP | Core CPI (YoY) (Apr) |  | 3.6% | 3.4% |
+| 07:00 | GBP | Core RPI (YoY) (Apr) |  |  | 2.8% |
+| 07:00 | GBP | Core RPI (MoM) (Apr) |  |  | 0.3% |
+| 07:00 | GBP | CPI, n.s.a (Apr) |  |  | 136.50 |
+| 07:00 | GBP | RPI (MoM) (Apr) |  | 1.5% | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Apr) |  | 4.2% | 3.2% |
+| 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,169.5B |
+| 08:30 | IDR | Deposit Facility Rate (May) |  | 4.75% | 5.00% |
+| 08:30 | IDR | Lending Facility Rate (May) |  | 6.25% | 6.50% |
+| 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.5% |
+| 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 3.1% |
+| 09:00 | ZAR | CPI (MoM) (Apr) |  |  | 0.4% |
+| 09:00 | ZAR | CPI (YoY) (Apr) |  |  | 2.7% |
+| 09:30 | GBP | House Price Index (YoY) |  | 5.2% | 5.4% |
+| 10:00 | GBP | 6-Year Treasury Gilt Auction |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |
+| 12:00 | USD | MBA Purchase Index |  |  | 166.5 |
+| 12:00 | USD | Mortgage Market Index |  |  | 251.2 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 718.1 |
+| 12:00 | ZAR | Retail Sales (YoY) (Mar) |  |  | 3.9% |
+| 13:00 | MXN | Retail Sales (YoY) (Mar) |  | 2.2% | -1.1% |
+| 13:00 | MXN | Retail Sales (MoM) (Mar) |  | 0.1% | 0.2% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.422M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.069M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.200M | -3.155M |
+| 15:30 | USD | Gasoline Production |  |  | -0.327M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.292M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.2% |
+| 15:30 | USD | Gasoline Inventories |  | -1.760M | -1.022M |
+| 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |

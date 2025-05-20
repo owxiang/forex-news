@@ -1,5 +1,6 @@
-## 20 May 2025 - High Impact Forex News
+## 21 May 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | AUD | RBA Interest Rate Decision (May) | 3.85% | 3.85% | 4.10% |
+| 07:00 | GBP | CPI (YoY) (Apr) |  | 3.3% | 2.6% |
+| 15:30 | USD | Crude Oil Inventories |  | -1.850M | 3.454M |
