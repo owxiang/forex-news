@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 29 min | CNY | Moderate | China Loan Prime Rate 5Y (May) |  | 3.50% | 3.60% |
-| 44 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.10% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.60% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.10% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (May) |  | 3.85% | 4.10% |
 | 05:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |

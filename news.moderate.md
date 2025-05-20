@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | CNY | China Loan Prime Rate 5Y (May) |  | 3.50% | 3.60% |
-| 44 min | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.10% |
+| 02:00 | CNY | China Loan Prime Rate 5Y (May) | 3.50% | 3.50% | 3.60% |
+| 02:15 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.10% |
 | 05:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | EUR | German PPI (MoM) (Apr) |  | -0.3% | -0.7% |
