@@ -6,8 +6,8 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.41T | -0.24T | -0.29T |
 | 00:50 | JPY | Exports (YoY) (Apr) | 2.0% | 2.0% | 4.0% |
 | 00:50 | JPY | Trade Balance (Apr) | -115.8B | 227.1B | 559.4B |
-| 53 min | GBP | CPI (MoM) (Apr) |  | 1.1% | 0.3% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Apr) | 1.2% | 1.1% | 0.3% |
+| 50 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | IDR | Interest Rate Decision |  | 5.50% | 5.75% |
 | 08:35 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
