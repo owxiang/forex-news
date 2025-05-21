@@ -18,8 +18,8 @@
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 1.2% | 1.1% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 3.5% | 3.3% | 2.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
-| 07:00 | GBP | Low | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
 | 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
+| 07:00 | GBP | Low | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,176.8B |  | 1,170.6B |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:20 | IDR | Low | Loans (YoY) (Apr) | 8.88% |  | 9.16% |

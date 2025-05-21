@@ -12,8 +12,8 @@
 | 07:00 | GBP | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 07:00 | GBP | Core RPI (YoY) (Apr) | 4.2% |  | 2.8% |
 | 07:00 | GBP | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
-| 07:00 | GBP | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
 | 07:00 | GBP | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
+| 07:00 | GBP | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
 | 08:00 | CHF | M3 Money Supply (Apr) | 1,176.8B |  | 1,170.6B |
 | 08:20 | IDR | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
 | 08:30 | IDR | Deposit Facility Rate (May) | 4.75% | 4.75% | 5.00% |
