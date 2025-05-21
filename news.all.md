@@ -20,7 +20,7 @@
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
 | 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
-| 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,176,750.0B |  | 1,170,555.0B |
+| 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,176.8B |  | 1,170.6B |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:20 | IDR | Low | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.75% |
@@ -32,9 +32,9 @@
 | 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
 | 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
-| 21 min | GBP | Low | House Price Index (YoY) |  | 5.2% | 5.4% |
-| 51 min | GBP | Low | 6-Year Treasury Gilt Auction |  |  |  |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.470% |
+| 09:30 | GBP | Low | House Price Index (YoY) | 6.4% | 5.2% | 5.4% |
+| 10:00 | GBP | Low | 6-Year Treasury Gilt Auction |  |  |  |
+| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.470% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 166.5 |

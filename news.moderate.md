@@ -11,7 +11,7 @@
 | 08:30 | IDR | Interest Rate Decision | 5.50% | 5.50% | 5.75% |
 | 08:35 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:00 | EUR | ECB Financial Stability Review |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.470% |
+| 23 min | EUR | German 10-Year Bund Auction |  |  | 2.470% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Apr) |  | 0.1% | 0.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.069M |
 | 17:00 | EUR | ECB's Lane Speaks |  |  |  |
