@@ -31,12 +31,12 @@
 | 12:00 | ZAR | Retail Sales (YoY) (Mar) | 1.5% |  | 4.1% |
 | 13:00 | MXN | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
 | 13:00 | MXN | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.422M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.069M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.200M | -3.155M |
-| 15:30 | USD | Gasoline Production |  |  | -0.327M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.292M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.2% |
-| 15:30 | USD | Gasoline Inventories |  | -1.760M | -1.022M |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
+| 23 min | USD | Crude Oil Imports |  |  | 0.422M |
+| 23 min | USD | Distillate Fuel Production |  |  | -0.069M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | -1.200M | -3.155M |
+| 23 min | USD | Gasoline Production |  |  | -0.327M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | 0.292M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.2% |
+| 23 min | USD | Gasoline Inventories |  | -1.760M | -1.022M |
 | 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |

@@ -43,16 +43,16 @@
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -0.900M | 3.454M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.422M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.069M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.069M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.200M | -3.155M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.327M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.292M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.760M | -1.022M |
+| 23 min | USD | High | Crude Oil Inventories |  | -0.900M | 3.454M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | 0.422M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.069M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.069M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.200M | -3.155M |
+| 23 min | USD | Low | Gasoline Production |  |  | -0.327M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.292M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.2% |
+| 23 min | USD | Low | Gasoline Inventories |  | -1.760M | -1.022M |
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
