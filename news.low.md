@@ -9,8 +9,8 @@
 | 04:00 | NZD | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) | 1.4% | 1.2% | 0.5% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
-| 07:00 | GBP | Core RPI (YoY) (Apr) | 4.2% |  | 2.8% |
 | 07:00 | GBP | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
+| 07:00 | GBP | Core RPI (YoY) (Apr) | 4.2% |  | 2.8% |
 | 07:00 | GBP | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
 | 07:00 | GBP | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 07:00 | GBP | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
@@ -18,8 +18,8 @@
 | 08:20 | IDR | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
 | 08:30 | IDR | Deposit Facility Rate (May) | 4.75% | 4.75% | 5.00% |
 | 08:30 | IDR | Lending Facility Rate (May) | 6.25% | 6.25% | 6.50% |
-| 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
 | 09:00 | ZAR | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
 | 09:00 | ZAR | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
 | 09:00 | ZAR | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
 | 09:30 | GBP | House Price Index (YoY) | 6.4% | 5.2% | 5.4% |
@@ -29,8 +29,8 @@
 | 12:00 | USD | Mortgage Market Index | 238.5 |  | 251.2 |
 | 12:00 | USD | Mortgage Refinance Index | 682.5 |  | 718.1 |
 | 12:00 | ZAR | Retail Sales (YoY) (Mar) | 1.5% |  | 4.1% |
-| 13:00 | MXN | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
 | 13:00 | MXN | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
+| 13:00 | MXN | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.422M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.069M |
