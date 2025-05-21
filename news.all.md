@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 00:00 | JPY | Low | Reuters Tankan Index (May) | 8 |  | 9 |
-| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.24T | -0.23T |
-| 44 min | JPY | Moderate | Exports (YoY) (Apr) |  | 2.0% | 4.0% |
-| 44 min | JPY | Low | Imports (YoY) (Apr) |  | -4.5% | 1.8% |
-| 44 min | JPY | Moderate | Trade Balance (Apr) |  | 227.1B | 559.4B |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.41T | -0.24T | -0.29T |
+| 00:50 | JPY | Moderate | Exports (YoY) (Apr) | 2.0% | 2.0% | 4.0% |
+| 00:50 | JPY | Low | Imports (YoY) (Apr) | -2.2% | -4.5% | 1.8% |
+| 00:50 | JPY | Moderate | Trade Balance (Apr) | -115.8B | 227.1B | 559.4B |
+| 30 min | AUD | Low | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) |  |  | 0.8% |
 | 05:00 | IDR | Low | Loans (YoY) (Apr) |  |  | 9.16% |
@@ -28,8 +28,8 @@
 | 08:30 | IDR | Low | Lending Facility Rate (May) |  | 6.25% | 6.50% |
 | 08:35 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Apr) |  |  | 3.1% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | ZAR | Low | CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 5.2% | 5.4% |

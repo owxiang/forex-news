@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (May) | 8 |  | 9 |
-| 44 min | JPY | Imports (YoY) (Apr) |  | -4.5% | 1.8% |
-| 02:00 | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 00:50 | JPY | Imports (YoY) (Apr) | -2.2% | -4.5% | 1.8% |
+| 30 min | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Credit Card Spending (YoY) (Apr) |  |  | 0.8% |
 | 05:00 | IDR | Loans (YoY) (Apr) |  |  | 9.16% |
@@ -18,8 +18,8 @@
 | 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,169.5B |
 | 08:30 | IDR | Deposit Facility Rate (May) |  | 4.75% | 5.00% |
 | 08:30 | IDR | Lending Facility Rate (May) |  | 6.25% | 6.50% |
-| 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 3.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | ZAR | CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | ZAR | CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:30 | GBP | House Price Index (YoY) |  | 5.2% | 5.4% |

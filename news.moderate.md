@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 44 min | JPY | Adjusted Trade Balance |  | -0.24T | -0.23T |
-| 44 min | JPY | Exports (YoY) (Apr) |  | 2.0% | 4.0% |
-| 44 min | JPY | Trade Balance (Apr) |  | 227.1B | 559.4B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.41T | -0.24T | -0.29T |
+| 00:50 | JPY | Exports (YoY) (Apr) | 2.0% | 2.0% | 4.0% |
+| 00:50 | JPY | Trade Balance (Apr) | -115.8B | 227.1B | 559.4B |
 | 07:00 | GBP | CPI (MoM) (Apr) |  | 1.1% | 0.3% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | IDR | Interest Rate Decision |  | 5.50% | 5.75% |
