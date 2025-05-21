@@ -18,8 +18,8 @@
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 1.2% | 1.1% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 3.5% | 3.3% | 2.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
-| 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
+| 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,176.8B |  | 1,170.6B |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:20 | IDR | Low | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
@@ -28,21 +28,20 @@
 | 08:30 | IDR | Low | Lending Facility Rate (May) | 6.25% | 6.25% | 6.50% |
 | 08:35 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
 | 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 6.4% | 5.2% | 5.4% |
-| 10:00 | GBP | Low | 6-Year Treasury Gilt Auction |  |  |  |
-| 23 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.470% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 166.5 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 251.2 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 718.1 |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (Mar) |  |  | 3.9% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) |  | 2.2% | -1.1% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.660% |  | 2.470% |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 166.5 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 251.2 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 718.1 |
+| 53 min | ZAR | Low | Retail Sales (YoY) (Mar) |  |  | 3.9% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) |  | 0.1% | 0.2% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) |  | 2.2% | -1.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) |  | 0.1% | 0.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.900M | 3.454M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
