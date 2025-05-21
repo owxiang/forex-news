@@ -10,12 +10,11 @@
 | 00:50 | JPY | Moderate | Trade Balance (Apr) | -115.8B | 227.1B | 559.4B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) |  |  | 0.8% |
-| 05:00 | IDR | Low | Loans (YoY) (Apr) |  |  | 9.16% |
+| 24 min | NZD | Low | Credit Card Spending (YoY) (Apr) |  |  | 0.8% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) |  | 1.2% | 0.5% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) |  | 3.6% | 3.4% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Apr) |  |  | 2.8% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Apr) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Apr) |  |  | 2.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) |  | 1.1% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) |  | 3.3% | 2.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) |  |  | 136.50 |
@@ -26,12 +25,13 @@
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.50% | 5.75% |
 | 08:30 | IDR | Low | Deposit Facility Rate (May) |  | 4.75% | 5.00% |
 | 08:30 | IDR | Low | Lending Facility Rate (May) |  | 6.25% | 6.50% |
+| 08:30 | IDR | Low | Loans (YoY) (Apr) |  |  | 9.16% |
 | 08:35 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Apr) |  |  | 3.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Apr) |  |  | 0.4% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | ZAR | Low | CPI (YoY) (Apr) |  |  | 2.7% |
+| 09:00 | ZAR | Low | CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 5.2% | 5.4% |
 | 10:00 | GBP | Low | 6-Year Treasury Gilt Auction |  |  |  |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.470% |
