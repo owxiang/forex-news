@@ -14,6 +14,6 @@
 | 10:30 | EUR | German 10-Year Bund Auction | 2.660% |  | 2.470% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.457M |  | -1.069M |
-| 54 min | EUR | ECB's Lane Speaks |  |  |  |
-| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.810% |
+| 17:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 7 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 52 min | USD | 20-Year Bond Auction |  |  | 4.810% |

@@ -7,8 +7,8 @@
 | 02:00 | AUD | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
-| 07:00 | GBP | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) | 1.4% | 1.2% | 0.5% |
+| 07:00 | GBP | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
 | 07:00 | GBP | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 07:00 | GBP | Core RPI (YoY) (Apr) | 4.2% |  | 2.8% |
 | 07:00 | GBP | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
@@ -18,10 +18,10 @@
 | 08:20 | IDR | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
 | 08:30 | IDR | Deposit Facility Rate (May) | 4.75% | 4.75% | 5.00% |
 | 08:30 | IDR | Lending Facility Rate (May) | 6.25% | 6.25% | 6.50% |
-| 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
 | 09:00 | ZAR | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
-| 09:00 | ZAR | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
+| 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
 | 09:00 | ZAR | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
+| 09:00 | ZAR | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
 | 09:30 | GBP | House Price Index (YoY) | 6.4% | 5.2% | 5.4% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.92% |  | 6.86% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -5.1% |  | 1.1% |
@@ -39,4 +39,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.348M |  | 0.292M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.5% |  | 1.2% |
 | 15:30 | USD | Gasoline Inventories | 0.816M | -1.760M | -1.022M |
-| 54 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 17:00 | USD | FOMC Member Barkin Speaks |  |  |  |
