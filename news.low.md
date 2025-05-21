@@ -7,8 +7,8 @@
 | 02:00 | AUD | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
-| 07:00 | GBP | Core CPI (MoM) (Apr) |  | 1.2% | 0.5% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) |  | 3.6% | 3.4% |
+| 07:00 | GBP | Core CPI (MoM) (Apr) |  | 1.2% | 0.5% |
 | 07:00 | GBP | Core RPI (MoM) (Apr) |  |  | 0.3% |
 | 07:00 | GBP | Core RPI (YoY) (Apr) |  |  | 2.8% |
 | 07:00 | GBP | CPI, n.s.a (Apr) |  |  | 136.50 |
@@ -20,8 +20,8 @@
 | 08:30 | IDR | Loans (YoY) (Apr) |  |  | 9.16% |
 | 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 3.1% |
 | 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.5% |
-| 09:00 | ZAR | CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:00 | ZAR | CPI (MoM) (Apr) |  |  | 0.4% |
+| 09:00 | ZAR | CPI (YoY) (Apr) |  |  | 2.7% |
 | 09:30 | GBP | House Price Index (YoY) |  | 5.2% | 5.4% |
 | 10:00 | GBP | 6-Year Treasury Gilt Auction |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
