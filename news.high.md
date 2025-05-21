@@ -1,6 +1,8 @@
-## 21 May 2025 - High Impact Forex News
+## 22 May 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Apr) | 3.5% | 3.3% | 2.6% |
-| 15:30 | USD | Crude Oil Inventories | 1.328M | -0.900M | 3.454M |
+| 13:30 | USD | Initial Jobless Claims |  | 230K | 229K |
+| 14:45 | USD | S&P Global Manufacturing PMI (May) |  | 49.9 | 50.2 |
+| 14:45 | USD | S&P Global Services PMI (May) |  | 51.0 | 50.8 |
+| 15:00 | USD | Existing Home Sales (Apr) |  | 4.15M | 4.02M |
