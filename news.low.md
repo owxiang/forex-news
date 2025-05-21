@@ -6,7 +6,7 @@
 | 00:50 | JPY | Imports (YoY) (Apr) | -2.2% | -4.5% | 1.8% |
 | 02:00 | AUD | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 24 min | NZD | Credit Card Spending (YoY) (Apr) |  |  | 0.8% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) |  | 1.2% | 0.5% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) |  | 3.6% | 3.4% |
 | 07:00 | GBP | Core RPI (MoM) (Apr) |  |  | 0.3% |

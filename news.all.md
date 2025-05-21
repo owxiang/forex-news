@@ -10,7 +10,7 @@
 | 00:50 | JPY | Moderate | Trade Balance (Apr) | -115.8B | 227.1B | 559.4B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 24 min | NZD | Low | Credit Card Spending (YoY) (Apr) |  |  | 0.8% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) |  | 1.2% | 0.5% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) |  | 3.6% | 3.4% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Apr) |  |  | 0.3% |
