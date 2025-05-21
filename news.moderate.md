@@ -16,4 +16,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.457M |  | -1.069M |
 | 17:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.810% |
+| 18:30 | USD | 20-Year Bond Auction | 5.104% |  | 4.810% |

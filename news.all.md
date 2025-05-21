@@ -11,15 +11,15 @@
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 1.4% | 1.2% | 0.5% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 1.4% | 1.2% | 0.5% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 4.2% |  | 2.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 1.2% | 1.1% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 3.5% | 3.3% | 2.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
-| 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
+| 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,176.8B |  | 1,170.6B |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:20 | IDR | Low | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
@@ -28,10 +28,10 @@
 | 08:30 | IDR | Low | Lending Facility Rate (May) | 6.25% | 6.25% | 6.50% |
 | 08:35 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
-| 09:00 | ZAR | Low | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
 | 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
+| 09:00 | ZAR | Low | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 6.4% | 5.2% | 5.4% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.660% |  | 2.470% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.92% |  | 6.86% |
@@ -56,4 +56,5 @@
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.810% |
+| 18:30 | USD | Moderate | 20-Year Bond Auction | 5.104% |  | 4.810% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -3.301B |  | -0.235B |
