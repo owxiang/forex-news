@@ -14,16 +14,16 @@
 | 07:00 | GBP | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
 | 07:00 | GBP | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 07:00 | GBP | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
-| 08:00 | CHF | M3 Money Supply (Apr) | 1,176.8B |  | 1,170.6B |
-| 23 min | IDR | Deposit Facility Rate (May) |  | 4.75% | 5.00% |
-| 23 min | IDR | Lending Facility Rate (May) |  | 6.25% | 6.50% |
-| 23 min | IDR | Loans (YoY) (Apr) |  |  | 9.16% |
-| 53 min | ZAR | Core CPI (MoM) (Apr) |  |  | 0.5% |
-| 53 min | ZAR | Core CPI (YoY) (Apr) |  |  | 3.1% |
-| 53 min | ZAR | CPI (MoM) (Apr) |  |  | 0.4% |
-| 53 min | ZAR | CPI (YoY) (Apr) |  |  | 2.7% |
-| 09:30 | GBP | House Price Index (YoY) |  | 5.2% | 5.4% |
-| 10:00 | GBP | 6-Year Treasury Gilt Auction |  |  |  |
+| 08:00 | CHF | M3 Money Supply (Apr) | 1,176,750.0B |  | 1,170,555.0B |
+| 08:20 | IDR | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
+| 08:30 | IDR | Deposit Facility Rate (May) | 4.75% | 4.75% | 5.00% |
+| 08:30 | IDR | Lending Facility Rate (May) | 6.25% | 6.25% | 6.50% |
+| 09:00 | ZAR | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
+| 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
+| 09:00 | ZAR | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
+| 09:00 | ZAR | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
+| 21 min | GBP | House Price Index (YoY) |  | 5.2% | 5.4% |
+| 51 min | GBP | 6-Year Treasury Gilt Auction |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |
 | 12:00 | USD | MBA Purchase Index |  |  | 166.5 |

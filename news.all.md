@@ -20,20 +20,20 @@
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
 | 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
-| 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,176.8B |  | 1,170.6B |
+| 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,176,750.0B |  | 1,170,555.0B |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 23 min | IDR | Moderate | Interest Rate Decision |  | 5.50% | 5.75% |
-| 23 min | IDR | Low | Deposit Facility Rate (May) |  | 4.75% | 5.00% |
-| 23 min | IDR | Low | Lending Facility Rate (May) |  | 6.25% | 6.50% |
-| 23 min | IDR | Low | Loans (YoY) (Apr) |  |  | 9.16% |
-| 28 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 53 min | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 53 min | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.5% |
-| 53 min | ZAR | Low | Core CPI (YoY) (Apr) |  |  | 3.1% |
-| 53 min | ZAR | Low | CPI (MoM) (Apr) |  |  | 0.4% |
-| 53 min | ZAR | Low | CPI (YoY) (Apr) |  |  | 2.7% |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 5.2% | 5.4% |
-| 10:00 | GBP | Low | 6-Year Treasury Gilt Auction |  |  |  |
+| 08:20 | IDR | Low | Loans (YoY) (Apr) | 8.88% |  | 9.16% |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.75% |
+| 08:30 | IDR | Low | Deposit Facility Rate (May) | 4.75% | 4.75% | 5.00% |
+| 08:30 | IDR | Low | Lending Facility Rate (May) | 6.25% | 6.25% | 6.50% |
+| 08:35 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
+| 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
+| 09:00 | ZAR | Low | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
+| 21 min | GBP | Low | House Price Index (YoY) |  | 5.2% | 5.4% |
+| 51 min | GBP | Low | 6-Year Treasury Gilt Auction |  |  |  |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.470% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.86% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |
