@@ -11,12 +11,12 @@
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 1.4% | 1.2% | 0.5% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 4.2% |  | 2.8% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 1.2% | 1.1% | 0.3% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 3.5% | 3.3% | 2.6% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 1.2% | 1.1% | 0.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
 | 07:00 | GBP | Low | RPI (MoM) (Apr) | 1.7% | 1.5% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 4.5% | 4.2% | 3.2% |
@@ -30,8 +30,8 @@
 | 09:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.1% |  | 0.5% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 3.0% |  | 3.1% |
-| 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
 | 09:00 | ZAR | Low | CPI (YoY) (Apr) | 2.8% |  | 2.7% |
+| 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.4% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 6.4% | 5.2% | 5.4% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.660% |  | 2.470% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.92% |  | 6.86% |
@@ -40,9 +40,9 @@
 | 12:00 | USD | Low | Mortgage Market Index | 238.5 |  | 251.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 682.5 |  | 718.1 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Mar) | 1.5% |  | 4.1% |
-| 54 min | MXN | Low | Retail Sales (MoM) (Mar) |  | 0.1% | 0.2% |
-| 54 min | MXN | Low | Retail Sales (YoY) (Mar) |  | 2.2% | -1.1% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) |  | 0.1% | 0.0% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
+| 19 min | CAD | Moderate | New Housing Price Index (MoM) (Apr) |  | 0.1% | 0.0% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.900M | 3.454M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.330M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.422M |
