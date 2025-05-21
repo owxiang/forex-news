@@ -11,10 +11,10 @@
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.2% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Apr) | 0.5% |  | 0.7% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 1.4% | 1.2% | 0.5% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.8% | 3.6% | 3.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 4.2% |  | 2.8% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 1.8% |  | 0.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 1.2% | 1.1% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 3.5% | 3.3% | 2.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 138.20 |  | 136.50 |
@@ -40,8 +40,8 @@
 | 12:00 | USD | Low | Mortgage Market Index | 238.5 |  | 251.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 682.5 |  | 718.1 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Mar) | 1.5% |  | 4.1% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
 | 15:30 | USD | High | Crude Oil Inventories | 1.328M | -0.900M | 3.454M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.089M |  | 0.330M |
