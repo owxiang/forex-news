@@ -40,8 +40,8 @@
 | 12:00 | USD | Low | Mortgage Market Index | 238.5 |  | 251.2 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 682.5 |  | 718.1 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Mar) | 1.5% |  | 4.1% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
 | 15:30 | USD | High | Crude Oil Inventories | 1.328M | -0.900M | 3.454M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.089M |  | 0.330M |
@@ -55,5 +55,5 @@
 | 15:30 | USD | Low | Gasoline Inventories | 0.816M | -1.760M | -1.022M |
 | 17:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 7 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 52 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.810% |
+| 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.810% |

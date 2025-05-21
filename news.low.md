@@ -29,8 +29,8 @@
 | 12:00 | USD | Mortgage Market Index | 238.5 |  | 251.2 |
 | 12:00 | USD | Mortgage Refinance Index | 682.5 |  | 718.1 |
 | 12:00 | ZAR | Retail Sales (YoY) (Mar) | 1.5% |  | 4.1% |
-| 13:00 | MXN | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
 | 13:00 | MXN | Retail Sales (MoM) (Mar) | 0.5% | 0.1% | 0.2% |
+| 13:00 | MXN | Retail Sales (YoY) (Mar) | 4.3% | 2.2% | -1.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.089M |  | 0.330M |
 | 15:30 | USD | Crude Oil Imports | 0.110M |  | 0.422M |
 | 15:30 | USD | Distillate Fuel Production | 0.131M |  | -0.069M |
