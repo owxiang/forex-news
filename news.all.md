@@ -55,8 +55,8 @@
 | 13:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (May) | 0.16% | 0.16% | 0.34% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (May) | 0.09% | -0.10% | 0.12% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Mar) | -0.40% | -0.10% | 1.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Mar) | 2.50% | 3.00% | -0.60% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Mar) | -0.40% | -0.10% | 1.00% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.6% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.8% | 0.8% | 0.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
@@ -82,7 +82,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.220% |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 16:35 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 19:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.935% |
+| 6 min | USD | Moderate | 10-Year TIPS Auction |  |  | 1.935% |
 | 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |

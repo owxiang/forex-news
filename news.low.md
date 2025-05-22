@@ -38,8 +38,8 @@
 | 13:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 13:00 | MXN | 1st Half-Month Core CPI (May) | 0.16% | 0.16% | 0.34% |
 | 13:00 | MXN | 1st Half-Month CPI (May) | 0.09% | -0.10% | 0.12% |
-| 13:00 | MXN | Economic Activity (MoM) (Mar) | -0.40% | -0.10% | 1.00% |
 | 13:00 | MXN | Economic Activity (YoY) (Mar) | 2.50% | 3.00% | -0.60% |
+| 13:00 | MXN | Economic Activity (MoM) (Mar) | -0.40% | -0.10% | 1.00% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Apr) | -0.25 |  | 0.03 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 231.50K |  | 230.50K |

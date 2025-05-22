@@ -29,7 +29,7 @@
 | 15:00 | USD | Existing Home Sales (MoM) (Apr) | -0.5% |  | -5.9% |
 | 16:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 16:35 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 19:00 | USD | 10-Year TIPS Auction |  |  | 1.935% |
+| 6 min | USD | 10-Year TIPS Auction |  |  | 1.935% |
 | 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,713B |
