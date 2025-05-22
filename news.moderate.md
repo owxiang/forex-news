@@ -19,8 +19,8 @@
 | 09:30 | GBP | S&P Global Manufacturing PMI (May) | 45.1 | 46.2 | 45.4 |
 | 09:30 | GBP | S&P Global Services PMI (May) | 50.2 | 50.0 | 49.0 |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | GDP (YoY) (Q1) | 0.8% | 0.8% | 0.5% |
 | 13:00 | MXN | GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.6% |
+| 13:00 | MXN | GDP (YoY) (Q1) | 0.8% | 0.8% | 0.5% |
 | 13:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,903K | 1,890K | 1,867K |
 | 13:30 | CAD | RMPI (MoM) (Apr) | -3.0% | -2.2% | -0.7% |
@@ -32,6 +32,6 @@
 | 18:00 | USD | 10-Year TIPS Auction | 2.220% |  | 1.935% |
 | 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,713B |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,713B |
 | 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
 | 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |

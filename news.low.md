@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Manufacturing PMI (May) | 51.7 |  | 51.7 |
 | 00:00 | AUD | Judo Bank Services PMI (May) | 50.5 |  | 51.0 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
 | 01:00 | SGD | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
@@ -51,8 +51,8 @@
 | 16:00 | USD | KC Fed Manufacturing Index (May) | -10 |  | -5 |
 | 16:30 | USD | 4-Week Bill Auction | 4.220% |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.235% |
-| 10 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.3% |
-| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.0% |
+| 20:15 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
+| 53 min | KRW | PPI (YoY) (Apr) |  |  | 1.3% |
+| 53 min | KRW | PPI (MoM) (Apr) |  |  | 0.0% |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
