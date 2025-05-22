@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
-| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 50.8 |  | 52.4 |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
@@ -58,7 +58,7 @@
 | 13:00 | MXN | Low | Economic Activity (MoM) (Mar) | -0.40% | -0.10% | 1.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Mar) | 2.50% | 3.00% | -0.60% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.6% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.6% | 0.8% | 0.5% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 0.8% | 0.8% | 0.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) | -0.25 |  | 0.03 |
@@ -67,18 +67,18 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 231.50K |  | 230.50K |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) | -0.8% | -0.5% | 0.3% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) | 2.0% |  | 4.5% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Apr) | -3.0% | -2.2% | -0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) | -3.6% |  | 3.9% |
-| 15 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 30 min | USD | High | S&P Global Manufacturing PMI (May) |  | 49.9 | 50.2 |
-| 30 min | USD | Moderate | S&P Global Composite PMI (May) |  |  | 50.6 |
-| 30 min | USD | High | S&P Global Services PMI (May) |  | 51.0 | 50.8 |
-| 45 min | USD | High | Existing Home Sales (Apr) |  | 4.15M | 4.02M |
-| 45 min | USD | Moderate | Existing Home Sales (MoM) (Apr) |  |  | -5.9% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 118B | 110B |
-| 16:00 | USD | Low | KC Fed Composite Index (May) |  |  | -4 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (May) |  |  | -5 |
-| 16:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Apr) | -3.0% | -2.2% | -0.7% |
+| 14:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (May) | 52.3 | 49.9 | 50.2 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 52.1 |  | 50.6 |
+| 14:45 | USD | High | S&P Global Services PMI (May) | 52.3 | 51.0 | 50.8 |
+| 15:00 | USD | High | Existing Home Sales (Apr) | 4.00M | 4.15M | 4.02M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) | -0.5% |  | -5.9% |
+| 23 min | USD | Low | Natural Gas Storage |  | 118B | 110B |
+| 53 min | USD | Low | KC Fed Composite Index (May) |  |  | -4 |
+| 53 min | USD | Low | KC Fed Manufacturing Index (May) |  |  | -5 |
+| 53 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
 | 16:35 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -88,8 +88,8 @@
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,713B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.0% |
 | 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.3% |
+| 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.0% |
 | 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
 | 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |
 | 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |

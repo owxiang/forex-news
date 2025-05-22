@@ -20,14 +20,14 @@
 | 09:30 | GBP | S&P Global Services PMI (May) | 50.2 | 50.0 | 49.0 |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.6% |
-| 13:00 | MXN | GDP (YoY) (Q1) | 0.6% | 0.8% | 0.5% |
+| 13:00 | MXN | GDP (YoY) (Q1) | 0.8% | 0.8% | 0.5% |
 | 13:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,903K | 1,890K | 1,867K |
 | 13:30 | CAD | RMPI (MoM) (Apr) | -3.0% | -2.2% | -0.7% |
-| 15 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 30 min | USD | S&P Global Composite PMI (May) |  |  | 50.6 |
-| 45 min | USD | Existing Home Sales (MoM) (Apr) |  |  | -5.9% |
-| 16:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 14:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (May) | 52.1 |  | 50.6 |
+| 15:00 | USD | Existing Home Sales (MoM) (Apr) | -0.5% |  | -5.9% |
+| 53 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 16:35 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction |  |  | 1.935% |
 | 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
