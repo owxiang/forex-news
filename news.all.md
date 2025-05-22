@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (May) | 51.7 |  | 51.7 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.5 |  | 51.0 |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
-| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 50.8 |  | 52.4 |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
@@ -50,16 +50,16 @@
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.750% |  | 3.014% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) | -30 | -24 | -26 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 42 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (May) |  | 0.16% | 0.34% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (May) |  | -0.10% | 0.12% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Mar) |  | -0.10% | 1.00% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 0.5% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | -0.6% |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 11:50 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 54 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 54 min | MXN | Low | 1st Half-Month Core CPI (May) |  | 0.16% | 0.34% |
+| 54 min | MXN | Low | 1st Half-Month CPI (May) |  | -0.10% | 0.12% |
+| 54 min | MXN | Low | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
+| 54 min | MXN | Low | Economic Activity (MoM) (Mar) |  | -0.10% | 1.00% |
+| 54 min | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | -0.6% |
+| 54 min | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 0.5% |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | -0.03 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,881K |
@@ -67,14 +67,14 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 230.50K |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | -0.5% | 0.5% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | 4.7% |
-| 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 3.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) |  | -2.2% | -1.0% |
+| 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 3.9% |
 | 14:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (May) |  | 49.9 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  |  | 50.6 |
 | 14:45 | USD | High | S&P Global Services PMI (May) |  | 51.0 | 50.8 |
-| 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.15M | 4.02M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) |  |  | -5.9% |
+| 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.15M | 4.02M |
 | 15:30 | USD | Low | Natural Gas Storage |  | 118B | 110B |
 | 16:00 | USD | Low | KC Fed Composite Index (May) |  |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (May) |  |  | -5 |
@@ -88,8 +88,8 @@
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,713B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.3% |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.0% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.3% |
 | 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
 | 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |
 | 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |

@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Manufacturing PMI (May) | 51.7 |  | 51.7 |
 | 00:00 | AUD | Judo Bank Services PMI (May) | 50.5 |  | 51.0 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
+| 01:00 | SGD | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
 | 03:00 | NZD | Budget Balance (Jan) | -9.990B |  | -16.600B |
 | 03:00 | NZD | Net Debt Forecast (Jan) | 42.70% |  | 45.10% |
@@ -34,13 +34,13 @@
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.750% |  | 3.014% |
 | 11:00 | GBP | CBI Industrial Trends Orders (May) | -30 | -24 | -26 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 42 min | GBP | BoE Breeden Speaks |  |  |  |
-| 13:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | 1st Half-Month Core CPI (May) |  | 0.16% | 0.34% |
-| 13:00 | MXN | 1st Half-Month CPI (May) |  | -0.10% | 0.12% |
-| 13:00 | MXN | Economic Activity (MoM) (Mar) |  | -0.10% | 1.00% |
-| 13:00 | MXN | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 11:50 | GBP | BoE Breeden Speaks |  |  |  |
+| 54 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 54 min | MXN | 1st Half-Month Core CPI (May) |  | 0.16% | 0.34% |
+| 54 min | MXN | 1st Half-Month CPI (May) |  | -0.10% | 0.12% |
+| 54 min | MXN | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
+| 54 min | MXN | Economic Activity (MoM) (Mar) |  | -0.10% | 1.00% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Apr) |  |  | -0.03 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 230.50K |
 | 13:30 | CAD | IPPI (MoM) (Apr) |  | -0.5% | 0.5% |
@@ -53,6 +53,6 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
 | 20:15 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.3% |
 | 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.0% |
+| 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.3% |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
