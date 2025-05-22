@@ -65,8 +65,8 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,903K | 1,890K | 1,867K |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 230K | 229K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 231.50K |  | 230.50K |
-| 13:30 | CAD | Low | IPPI (YoY) (Apr) | 2.0% |  | 4.5% |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) | -0.8% | -0.5% | 0.3% |
+| 13:30 | CAD | Low | IPPI (YoY) (Apr) | 2.0% |  | 4.5% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) | -3.0% | -2.2% | -0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) | -3.6% |  | 3.9% |
 | 14:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -79,10 +79,10 @@
 | 16:00 | USD | Low | KC Fed Composite Index (May) | -3 |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (May) | -10 |  | -5 |
 | 16:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
-| 28 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 53 min | USD | Moderate | 10-Year TIPS Auction |  |  | 1.935% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.220% |  | 4.220% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.235% |
+| 16:35 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 19:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.935% |
 | 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
