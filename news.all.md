@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
-| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 50.8 |  | 52.4 |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
@@ -73,8 +73,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (May) | 52.3 | 49.9 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 52.1 |  | 50.6 |
 | 14:45 | USD | High | S&P Global Services PMI (May) | 52.3 | 51.0 | 50.8 |
-| 15:00 | USD | High | Existing Home Sales (Apr) | 4.00M | 4.15M | 4.02M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) | -0.5% |  | -5.9% |
+| 15:00 | USD | High | Existing Home Sales (Apr) | 4.00M | 4.15M | 4.02M |
 | 15:30 | USD | Low | Natural Gas Storage | 120B | 118B | 110B |
 | 16:00 | USD | Low | KC Fed Composite Index (May) | -3 |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (May) | -10 |  | -5 |
@@ -83,13 +83,13 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 16:35 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.220% |  | 1.935% |
-| 54 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 45 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,713B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.3% |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.0% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.3% |
 | 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
 | 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |
 | 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
