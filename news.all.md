@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (May) | 51.7 |  | 51.7 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.5 |  | 51.0 |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
 | 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
@@ -48,17 +48,17 @@
 | 10:00 | EUR | Low | French 7-Year OAT Auction | 2.91% |  | 2.98% |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.251% |  | 2.086% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.750% |  | 3.014% |
-| 53 min | GBP | Low | CBI Industrial Trends Orders (May) |  | -24 | -26 |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:50 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (May) | -30 | -24 | -26 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 42 min | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (May) |  | 0.16% | 0.34% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (May) |  | -0.10% | 0.12% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Mar) |  | -0.10% | 1.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | -0.6% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 0.5% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | -0.6% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | -0.03 |
