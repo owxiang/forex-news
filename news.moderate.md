@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (May) |  |  | 52.4 |
+| 01:30 | JPY | au Jibun Bank Services PMI (May) | 50.8 |  | 52.4 |
 | 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
-| 03:00 | NZD | Annual Budget Release |  |  |  |
+| 25 min | NZD | Annual Budget Release |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (May) |  | 48.9 | 48.7 |
 | 08:15 | EUR | HCOB France Services PMI (May) |  | 47.7 | 47.3 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (May) |  | 48.8 | 48.4 |

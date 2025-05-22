@@ -10,10 +10,10 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
 | 01:00 | SGD | GDP (QoQ) | -0.6% | -0.8% | 0.5% |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) |  | 49.0 | 48.7 |
-| 03:00 | NZD | Budget Balance (Jan) |  |  | -16.610B |
-| 03:00 | NZD | Net Debt Forecast (Jan) |  |  | 45.10% |
-| 03:00 | NZD | Economic Forecast (Jan) |  |  | -17.320B |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
+| 25 min | NZD | Budget Balance (Jan) |  |  | -16.610B |
+| 25 min | NZD | Net Debt Forecast (Jan) |  |  | 45.10% |
+| 25 min | NZD | Economic Forecast (Jan) |  |  | -17.320B |
 | 05:00 | IDR | Balance of Payments (EUR) (Q1) |  |  | 7.9B |
 | 05:00 | IDR | Current Account % of GDP (Q1) |  |  | -0.30% |
 | 06:00 | INR | S&P Global Manufacturing PMI (May) |  | 58.0 | 58.2 |
@@ -43,8 +43,8 @@
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Apr) |  |  | -0.03 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 230.50K |
-| 13:30 | CAD | IPPI (MoM) (Apr) |  | -0.5% | 0.5% |
 | 13:30 | CAD | IPPI (YoY) (Apr) |  |  | 4.7% |
+| 13:30 | CAD | IPPI (MoM) (Apr) |  | -0.5% | 0.5% |
 | 13:30 | CAD | RMPI (YoY) (Apr) |  |  | 3.9% |
 | 15:30 | USD | Natural Gas Storage |  |  | 110B |
 | 16:00 | USD | KC Fed Composite Index (May) |  |  | -4 |
