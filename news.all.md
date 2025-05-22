@@ -86,10 +86,10 @@
 | 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,713B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 53 min | KRW | Low | PPI (YoY) (Apr) |  |  | 1.3% |
-| 53 min | KRW | Low | PPI (MoM) (Apr) |  |  | 0.0% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,689B |  | 6,713B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.284T |  | 3.236T |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) | 0.9% |  | 1.3% |
+| 22:00 | KRW | Low | PPI (MoM) (Apr) | -0.1% |  | 0.0% |
 | 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
 | 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |
 | 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |

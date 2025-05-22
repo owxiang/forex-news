@@ -32,6 +32,6 @@
 | 18:00 | USD | 10-Year TIPS Auction | 2.220% |  | 1.935% |
 | 19:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23 min | USD | Fed's Balance Sheet |  |  | 6,713B |
+| 21:30 | USD | Fed's Balance Sheet | 6,689B |  | 6,713B |
 | 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
 | 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |

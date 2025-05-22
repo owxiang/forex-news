@@ -52,7 +52,7 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.220% |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 20:15 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 53 min | KRW | PPI (YoY) (Apr) |  |  | 1.3% |
-| 53 min | KRW | PPI (MoM) (Apr) |  |  | 0.0% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.284T |  | 3.236T |
+| 22:00 | KRW | PPI (YoY) (Apr) | 0.9% |  | 1.3% |
+| 22:00 | KRW | PPI (MoM) (Apr) | -0.1% |  | 0.0% |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
