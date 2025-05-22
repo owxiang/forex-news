@@ -83,8 +83,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 16:35 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.220% |  | 1.935% |
-| 45 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 19:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 19:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 21 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,713B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
