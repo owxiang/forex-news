@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Manufacturing PMI (May) | 51.7 |  | 51.7 |
 | 00:00 | AUD | Judo Bank Services PMI (May) | 50.5 |  | 51.0 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
 | 01:00 | SGD | GDP (QoQ) | -0.6% | -0.8% | 0.5% |
@@ -14,10 +14,10 @@
 | 03:00 | NZD | Budget Balance (Jan) | -9.990B |  | -16.600B |
 | 03:00 | NZD | Net Debt Forecast (Jan) | 42.70% |  | 45.10% |
 | 03:00 | NZD | Economic Forecast (Jan) | -14.740B |  | -17.317B |
-| 35 min | IDR | Balance of Payments (EUR) (Q1) | -0.8B |  | 7.9B |
-| 35 min | IDR | Current Account % of GDP (Q1) | -0.10% |  | -0.30% |
-| 06:00 | INR | S&P Global Manufacturing PMI (May) |  | 58.0 | 58.2 |
-| 06:00 | INR | S&P Global Services PMI (May) |  | 58.3 | 58.7 |
+| 05:00 | IDR | Balance of Payments (EUR) (Q1) | -0.8B |  | 7.9B |
+| 05:00 | IDR | Current Account % of GDP (Q1) | -0.10% |  | -0.30% |
+| 50 min | INR | S&P Global Manufacturing PMI (May) |  | 58.0 | 58.2 |
+| 50 min | INR | S&P Global Services PMI (May) |  | 58.3 | 58.7 |
 | 07:00 | GBP | Public Sector Net Borrowing (Apr) |  | 18.00B | 16.44B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Apr) |  |  | 2.694B |
 | 07:00 | NOK | Unemployment Rate (Apr) |  |  | 4.4% |
