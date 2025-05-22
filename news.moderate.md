@@ -15,9 +15,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 48.4 | 49.2 | 49.0 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (May) | 49.5 | 50.7 | 50.4 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (May) | 48.9 | 50.4 | 50.1 |
-| 21 min | GBP | S&P Global Composite PMI (May) |  | 49.3 | 48.5 |
-| 21 min | GBP | S&P Global Manufacturing PMI (May) |  | 46.2 | 45.4 |
-| 21 min | GBP | S&P Global Services PMI (May) |  | 50.0 | 49.0 |
+| 09:30 | GBP | S&P Global Composite PMI (May) | 49.4 | 49.3 | 48.5 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (May) | 45.1 | 46.2 | 45.4 |
+| 09:30 | GBP | S&P Global Services PMI (May) | 50.2 | 50.0 | 49.0 |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  | 0.2% | -0.6% |
 | 13:00 | MXN | GDP (YoY) (Q1) |  | 0.8% | 0.5% |
