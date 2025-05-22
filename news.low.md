@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Manufacturing PMI (May) | 51.7 |  | 51.7 |
 | 00:00 | AUD | Judo Bank Services PMI (May) | 50.5 |  | 51.0 |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
 | 00:50 | JPY | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
-| 01:00 | SGD | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
 | 01:00 | SGD | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
 | 03:00 | NZD | Budget Balance (Jan) | -9.990B |  | -16.600B |
 | 03:00 | NZD | Net Debt Forecast (Jan) | 42.70% |  | 45.10% |
@@ -18,10 +18,10 @@
 | 05:00 | IDR | Current Account % of GDP (Q1) | -0.10% |  | -0.30% |
 | 06:00 | INR | S&P Global Manufacturing PMI (May) | 58.3 | 58.0 | 58.2 |
 | 06:00 | INR | S&P Global Services PMI (May) | 61.2 | 58.3 | 58.7 |
-| 53 min | GBP | Public Sector Net Borrowing (Apr) |  | 18.00B | 16.44B |
-| 53 min | GBP | Public Sector Net Cash Requirement (Apr) |  |  | 2.694B |
-| 53 min | NOK | Unemployment Rate (Apr) |  |  | 4.4% |
-| 07:45 | EUR | French Business Survey (May) |  | 99 | 99 |
+| 07:00 | GBP | Public Sector Net Borrowing (Apr) | 20.16B | 18.00B | 14.14B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Apr) | 9.116B |  | 2.819B |
+| 07:00 | NOK | Unemployment Rate (Apr) | 4.3% |  | 4.4% |
+| 35 min | EUR | French Business Survey (May) |  | 99 | 99 |
 | 08:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Composite PMI (May) |  | 48.0 | 47.8 |
 | 08:30 | EUR | HCOB Germany Composite PMI (May) |  | 50.4 | 50.1 |
@@ -38,8 +38,8 @@
 | 13:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 13:00 | MXN | 1st Half-Month Core CPI (May) |  | 0.16% | 0.34% |
 | 13:00 | MXN | 1st Half-Month CPI (May) |  | -0.10% | 0.12% |
-| 13:00 | MXN | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
 | 13:00 | MXN | Economic Activity (MoM) (Mar) |  | -0.10% | 1.00% |
+| 13:00 | MXN | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Apr) |  |  | -0.03 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 230.50K |
@@ -53,6 +53,6 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
 | 20:15 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.236T |
-| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.0% |
 | 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.3% |
+| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.0% |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
