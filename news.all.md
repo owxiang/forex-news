@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (May) | 51.7 |  | 51.7 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.5 |  | 51.0 |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 8.4% | -2.2% | 1.5% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
 | 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
@@ -24,20 +24,20 @@
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) | 20.16B | 18.00B | 14.14B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) | 9.116B |  | 2.819B |
 | 07:00 | NOK | Low | Unemployment Rate (Apr) | 4.3% |  | 4.4% |
-| 35 min | EUR | Low | French Business Survey (May) |  | 99 | 99 |
-| 08:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 48.9 | 48.7 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (May) |  | 48.0 | 47.8 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (May) |  | 47.7 | 47.3 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (May) |  | 50.4 | 50.1 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 48.8 | 48.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 49.6 | 49.0 |
-| 09:00 | EUR | Moderate | German Business Expectations (May) |  | 88.0 | 87.4 |
-| 09:00 | EUR | Moderate | German Current Assessment (May) |  | 86.8 | 86.4 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (May) |  | 87.4 | 86.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 49.2 | 49.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 50.7 | 50.4 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 50.4 | 50.1 |
+| 07:45 | EUR | Low | French Business Survey (May) | 97 | 99 | 100 |
+| 8 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 8 min | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 48.9 | 48.7 |
+| 8 min | EUR | Low | HCOB France Composite PMI (May) |  | 48.0 | 47.8 |
+| 8 min | EUR | Moderate | HCOB France Services PMI (May) |  | 47.7 | 47.3 |
+| 23 min | EUR | Low | HCOB Germany Composite PMI (May) |  | 50.4 | 50.1 |
+| 23 min | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 48.8 | 48.4 |
+| 23 min | EUR | Moderate | HCOB Germany Services PMI (May) |  | 49.6 | 49.0 |
+| 53 min | EUR | Moderate | German Business Expectations (May) |  | 88.0 | 87.4 |
+| 53 min | EUR | Moderate | German Current Assessment (May) |  | 86.8 | 86.4 |
+| 53 min | EUR | Moderate | German Ifo Business Climate Index (May) |  | 87.4 | 86.9 |
+| 53 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 49.2 | 49.0 |
+| 53 min | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 50.7 | 50.4 |
+| 53 min | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 50.4 | 50.1 |
 | 09:30 | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (May) |  | 49.3 | 48.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (May) |  | 46.2 | 45.4 |
@@ -57,8 +57,8 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (May) |  | -0.10% | 0.12% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Mar) |  | -0.10% | 1.00% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Mar) |  | 3.00% | -0.70% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 0.5% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | -0.6% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 0.8% | 0.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | -0.03 |
@@ -67,8 +67,8 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 230.50K |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | -0.5% | 0.5% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | 4.7% |
-| 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 3.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) |  | -2.2% | -1.0% |
+| 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 3.9% |
 | 14:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (May) |  | 49.9 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  |  | 50.6 |
