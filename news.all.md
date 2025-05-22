@@ -14,11 +14,11 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 50.8 |  | 52.4 |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
-| 03:00 | NZD | Low | Budget Balance (Jan) | -9.990B |  | -16.610B |
+| 03:00 | NZD | Low | Budget Balance (Jan) | -9.990B |  | -16.600B |
 | 03:00 | NZD | Low | Net Debt Forecast (Jan) | 42.70% |  | 45.10% |
-| 03:00 | NZD | Low | Economic Forecast (Jan) | -14.740B |  | -17.320B |
-| 05:00 | IDR | Low | Balance of Payments (EUR) (Q1) |  |  | 7.9B |
-| 05:00 | IDR | Low | Current Account % of GDP (Q1) |  |  | -0.30% |
+| 03:00 | NZD | Low | Economic Forecast (Jan) | -14.740B |  | -17.317B |
+| 35 min | IDR | Low | Balance of Payments (EUR) (Q1) | -0.8B |  | 7.9B |
+| 35 min | IDR | Low | Current Account % of GDP (Q1) | -0.10% |  | -0.30% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) |  | 58.0 | 58.2 |
 | 06:00 | INR | Low | S&P Global Services PMI (May) |  | 58.3 | 58.7 |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) |  | 18.00B | 16.44B |
@@ -67,8 +67,8 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 230.50K |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | -0.5% | 0.5% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | 4.7% |
-| 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 3.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) |  | -2.2% | -1.0% |
+| 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 3.9% |
 | 14:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (May) |  | 49.9 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  |  | 50.6 |

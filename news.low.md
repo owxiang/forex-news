@@ -11,11 +11,11 @@
 | 01:00 | SGD | GDP (QoQ) | -0.6% | -0.8% | 0.5% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
-| 03:00 | NZD | Budget Balance (Jan) | -9.990B |  | -16.610B |
+| 03:00 | NZD | Budget Balance (Jan) | -9.990B |  | -16.600B |
 | 03:00 | NZD | Net Debt Forecast (Jan) | 42.70% |  | 45.10% |
-| 03:00 | NZD | Economic Forecast (Jan) | -14.740B |  | -17.320B |
-| 05:00 | IDR | Balance of Payments (EUR) (Q1) |  |  | 7.9B |
-| 05:00 | IDR | Current Account % of GDP (Q1) |  |  | -0.30% |
+| 03:00 | NZD | Economic Forecast (Jan) | -14.740B |  | -17.317B |
+| 35 min | IDR | Balance of Payments (EUR) (Q1) | -0.8B |  | 7.9B |
+| 35 min | IDR | Current Account % of GDP (Q1) | -0.10% |  | -0.30% |
 | 06:00 | INR | S&P Global Manufacturing PMI (May) |  | 58.0 | 58.2 |
 | 06:00 | INR | S&P Global Services PMI (May) |  | 58.3 | 58.7 |
 | 07:00 | GBP | Public Sector Net Borrowing (Apr) |  | 18.00B | 16.44B |
