@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
-| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 50.8 |  | 52.4 |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
@@ -65,16 +65,16 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,903K | 1,890K | 1,867K |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 230K | 229K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 231.50K |  | 230.50K |
-| 13:30 | CAD | Low | IPPI (MoM) (Apr) | -0.8% | -0.5% | 0.3% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) | 2.0% |  | 4.5% |
+| 13:30 | CAD | Low | IPPI (MoM) (Apr) | -0.8% | -0.5% | 0.3% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) | -3.0% | -2.2% | -0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) | -3.6% |  | 3.9% |
 | 14:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (May) | 52.3 | 49.9 | 50.2 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 52.1 |  | 50.6 |
 | 14:45 | USD | High | S&P Global Services PMI (May) | 52.3 | 51.0 | 50.8 |
-| 15:00 | USD | High | Existing Home Sales (Apr) | 4.00M | 4.15M | 4.02M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) | -0.5% |  | -5.9% |
+| 15:00 | USD | High | Existing Home Sales (Apr) | 4.00M | 4.15M | 4.02M |
 | 15:30 | USD | Low | Natural Gas Storage | 120B | 118B | 110B |
 | 16:00 | USD | Low | KC Fed Composite Index (May) | -3 |  | -4 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (May) | -10 |  | -5 |
@@ -88,8 +88,8 @@
 | 20:15 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,689B |  | 6,713B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.284T |  | 3.236T |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) | 0.9% |  | 1.3% |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) | -0.1% |  | 0.0% |
-| 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
-| 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |
-| 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) | 0.9% |  | 1.3% |
+| 38 min | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.7% | 1.4% |
+| 38 min | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | 0.0% | 0.9% |
+| 38 min | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |

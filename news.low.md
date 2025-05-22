@@ -8,8 +8,8 @@
 | 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 13.0% | -1.5% | 4.3% |
 | 00:50 | JPY | Foreign Bonds Buying | 2,824.6B |  | 1,928.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 714.9B |  | 439.4B |
-| 01:00 | SGD | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 3.9% | 3.8% | 5.0% |
+| 01:00 | SGD | GDP (QoQ) (Q1) | -0.6% | -0.8% | 0.5% |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.0 | 49.0 | 48.7 |
 | 03:00 | NZD | Budget Balance (Jan) | -9.990B |  | -16.600B |
 | 03:00 | NZD | Net Debt Forecast (Jan) | 42.70% |  | 45.10% |
@@ -43,8 +43,8 @@
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (Apr) | -0.25 |  | 0.03 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 231.50K |  | 230.50K |
-| 13:30 | CAD | IPPI (MoM) (Apr) | -0.8% | -0.5% | 0.3% |
 | 13:30 | CAD | IPPI (YoY) (Apr) | 2.0% |  | 4.5% |
+| 13:30 | CAD | IPPI (MoM) (Apr) | -0.8% | -0.5% | 0.3% |
 | 13:30 | CAD | RMPI (YoY) (Apr) | -3.6% |  | 3.9% |
 | 15:30 | USD | Natural Gas Storage | 120B | 118B | 110B |
 | 16:00 | USD | KC Fed Composite Index (May) | -3 |  | -4 |
@@ -53,6 +53,6 @@
 | 16:30 | USD | 8-Week Bill Auction | 4.235% |  | 4.235% |
 | 20:15 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.284T |  | 3.236T |
-| 22:00 | KRW | PPI (YoY) (Apr) | 0.9% |  | 1.3% |
 | 22:00 | KRW | PPI (MoM) (Apr) | -0.1% |  | 0.0% |
-| 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
+| 22:00 | KRW | PPI (YoY) (Apr) | 0.9% |  | 1.3% |
+| 38 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | 0.2% |
