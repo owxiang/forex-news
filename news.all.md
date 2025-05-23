@@ -24,8 +24,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 685.73B |  | 690.62B |
 | 13:00 | MXN | Low | Trade Balance (Apr) | -0.088B | -0.160B | 3.442B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Apr) | 0.083B |  | 1.201B |
-| 13:10 | USD | Low | Building Permits (MoM) (Apr) | -4.0% | -4.7% | 0.5% |
 | 13:10 | USD | Moderate | Building Permits (Apr) | 1.422M | 1.412M | 1.467M |
+| 13:10 | USD | Low | Building Permits (MoM) (Apr) | -4.0% | -4.7% | 0.5% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Mar) | -0.7% | -0.1% | 0.6% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) | 2.7% |  | 2.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) | 0.8% | 0.7% | -0.4% |
