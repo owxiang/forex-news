@@ -12,8 +12,8 @@
 | 06:00 | SGD | Moderate | CPI (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | 1.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | 5.3% | 4.4% | 2.6% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | 5.0% | 4.5% | 1.9% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) | 88 | 93 | 91 |
