@@ -10,12 +10,12 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Apr) | 0.70% | 0.50% | 0.50% |
 | 06:00 | SGD | Low | CPI (MoM) (Apr) | -0.30% |  | -0.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | 1.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | 5.3% | 4.4% | 2.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | 1.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | 5.0% | 4.5% | 1.9% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) | 88 | 93 | 91 |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:05 | CNY | Low | FDI (Apr) | -10.90% |  | -10.80% |
@@ -24,14 +24,14 @@
 | 12:30 | INR | Low | FX Reserves, USD | 685.73B |  | 690.62B |
 | 13:00 | MXN | Low | Trade Balance (Apr) | -0.088B | -0.160B | 3.442B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Apr) | 0.083B |  | 1.201B |
-| 19 min | USD | Low | Building Permits (MoM) (Apr) |  | -4.7% | 0.5% |
-| 19 min | USD | Moderate | Building Permits (Apr) |  | 1.412M | 1.467M |
-| 19 min | CAD | Moderate | Core Retail Sales (MoM) (Mar) |  | -0.1% | 0.5% |
-| 19 min | CAD | Low | Corporate Profits (QoQ) |  |  | -2.5% |
-| 19 min | CAD | Moderate | Retail Sales (MoM) (Mar) |  | 0.7% | -0.4% |
-| 20 min | CAD | Moderate | Retail Sales (MoM) (Apr) |  |  |  |
-| 15:00 | USD | High | New Home Sales (Apr) |  | 694K | 724K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 7.4% |
+| 13:10 | USD | Moderate | Building Permits (Apr) | 1.422M | 1.412M | 1.467M |
+| 13:10 | USD | Low | Building Permits (MoM) (Apr) | -4.0% | -4.7% | 0.5% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Mar) | -0.7% | -0.1% | 0.6% |
+| 13:30 | CAD | Low | Corporate Profits (QoQ) | 2.7% |  | 2.1% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) | 0.8% | 0.7% | -0.4% |
+| 13:31 | CAD | Moderate | Retail Sales (MoM) (Apr) | 0.5% |  | 0.8% |
+| 46 min | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 7.4% |
+| 46 min | USD | High | New Home Sales (Apr) |  | 694K | 724K |
 | 16:00 | MXN | Low | Current Account (USD) (Q1) |  | -18,050M | 12,601M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q1) |  |  | 2.90% |
 | 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |

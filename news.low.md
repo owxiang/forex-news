@@ -14,8 +14,8 @@
 | 12:30 | INR | FX Reserves, USD | 685.73B |  | 690.62B |
 | 13:00 | MXN | Trade Balance (Apr) | -0.088B | -0.160B | 3.442B |
 | 13:00 | MXN | Trade Balance (USD) (Apr) | 0.083B |  | 1.201B |
-| 19 min | USD | Building Permits (MoM) (Apr) |  | -4.7% | 0.5% |
-| 19 min | CAD | Corporate Profits (QoQ) |  |  | -2.5% |
+| 13:10 | USD | Building Permits (MoM) (Apr) | -4.0% | -4.7% | 0.5% |
+| 13:30 | CAD | Corporate Profits (QoQ) | 2.7% |  | 2.1% |
 | 16:00 | MXN | Current Account (USD) (Q1) |  | -18,050M | 12,601M |
 | 16:00 | MXN | Current Account % of GDP (Q1) |  |  | 2.90% |
 | 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
