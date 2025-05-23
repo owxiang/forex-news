@@ -12,10 +12,10 @@
 | 06:00 | SGD | Moderate | CPI (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | 1.3% | 0.3% | 0.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | 5.3% | 4.4% | 2.6% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | 5.0% | 4.5% | 1.9% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) | 88 | 93 | 91 |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:05 | CNY | Low | FDI (Apr) | -10.90% |  | -10.80% |
@@ -32,10 +32,10 @@
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Apr) | 0.5% |  | 0.8% |
 | 15:00 | USD | High | New Home Sales (Apr) | 743K | 694K | 670K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | 10.9% |  | 2.6% |
-| 53 min | MXN | Low | Current Account (USD) (Q1) |  | -18,050M | 12,601M |
-| 53 min | MXN | Low | Current Account % of GDP (Q1) |  |  | 2.90% |
-| 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 16:00 | MXN | Low | Current Account (USD) (Q1) | -7,613M | -18,050M | 12,601M |
+| 16:00 | MXN | Low | Current Account % of GDP (Q1) | 1.80% |  | 2.90% |
+| 53 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 53 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 473 | 473 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 576 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 27.2K |
