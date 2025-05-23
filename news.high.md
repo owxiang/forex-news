@@ -1,6 +1,5 @@
-## 23 May 2025 - High Impact Forex News
+## 25 May 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
-| 15:00 | USD | New Home Sales (Apr) | 743K | 694K | 670K |
+| 19:40 | USD | Fed Chair Powell Speaks |  |  |  |
