@@ -10,7 +10,7 @@
 | 07:00 | GBP | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Apr) | 5.0% | 4.5% | 1.9% |
 | 07:00 | EUR | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
-| 09:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 21 min | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Apr) |  | 1.412M | 1.467M |
 | 13:30 | CAD | Core Retail Sales (MoM) (Mar) |  | -0.1% | 0.5% |
 | 13:30 | CAD | Retail Sales (MoM) (Mar) |  |  | -0.4% |

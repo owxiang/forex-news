@@ -17,7 +17,7 @@
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) | 88 | 93 | 91 |
-| 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 21 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 11:00 | CNY | Low | FDI (Apr) |  |  | -10.80% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.9% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.0% |
