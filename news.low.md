@@ -19,14 +19,14 @@
 | 16:00 | MXN | Current Account (USD) (Q1) | -7,613M | -18,050M | 12,813M |
 | 16:00 | MXN | Current Account % of GDP (Q1) | 1.80% |  | 2.90% |
 | 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.5K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | 18.1K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -112.1K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 47.8K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 65.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -118.1K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -82.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 65.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -22.6K |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 0.1K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 21.5K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | 18.1K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -112.1K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 47.8K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 65.2K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -118.1K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -82.2K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 65.7K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -23.1K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -22.6K |
