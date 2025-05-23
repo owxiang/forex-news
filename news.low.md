@@ -5,8 +5,8 @@
 | 00:01 | GBP | GfK Consumer Confidence (May) | -20 | -22 | -23 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | National CPI (YoY) (Apr) | 3.6% |  | 3.6% |
-| 35 min | IDR | M2 Money Supply (YoY) (Apr) | 5.20% |  | 6.10% |
-| 06:00 | SGD | CPI (MoM) (Apr) |  |  | -0.10% |
+| 05:00 | IDR | M2 Money Supply (YoY) (Apr) | 5.20% |  | 6.10% |
+| 51 min | SGD | CPI (MoM) (Apr) |  |  | -0.10% |
 | 07:45 | EUR | French Consumer Confidence (May) |  | 93 | 92 |
 | 08:00 | CNY | FDI (Apr) |  |  | -10.80% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.9% |
