@@ -5,10 +5,10 @@
 | 00:30 | JPY | National Core CPI (YoY) (Apr) | 3.5% | 3.4% | 3.2% |
 | 06:00 | SGD | Core CPI (YoY) (Apr) | 0.70% | 0.50% | 0.50% |
 | 06:00 | SGD | CPI (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Apr) | 5.3% | 4.4% | 2.6% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Apr) | 1.3% | 0.3% | 0.2% |
-| 07:00 | GBP | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Apr) | 5.3% | 4.4% | 2.6% |
 | 07:00 | GBP | Retail Sales (YoY) (Apr) | 5.0% | 4.5% | 1.9% |
+| 07:00 | GBP | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
 | 07:00 | EUR | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
 | 09:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Apr) |  | 1.412M | 1.467M |
