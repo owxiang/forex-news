@@ -16,9 +16,9 @@
 | 13:30 | CAD | Retail Sales (MoM) (Mar) | 0.8% | 0.7% | -0.4% |
 | 13:31 | CAD | Retail Sales (MoM) (Apr) | 0.5% |  | 0.8% |
 | 15:00 | USD | New Home Sales (MoM) (Apr) | 10.9% |  | 2.6% |
-| 53 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 473 | 473 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 576 |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  | 473 | 473 |
+| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 576 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 27.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 185.3K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 161.2K |

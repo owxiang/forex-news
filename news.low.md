@@ -18,7 +18,7 @@
 | 13:30 | CAD | Corporate Profits (QoQ) | 2.7% |  | 2.1% |
 | 16:00 | MXN | Current Account (USD) (Q1) | -7,613M | -18,050M | 12,601M |
 | 16:00 | MXN | Current Account % of GDP (Q1) | 1.80% |  | 2.90% |
-| 53 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 18.1K |

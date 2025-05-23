@@ -24,8 +24,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 685.73B |  | 690.62B |
 | 13:00 | MXN | Low | Trade Balance (Apr) | -0.088B | -0.160B | 3.442B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Apr) | 0.083B |  | 1.201B |
-| 13:10 | USD | Low | Building Permits (MoM) (Apr) | -4.0% | -4.7% | 0.5% |
 | 13:10 | USD | Moderate | Building Permits (Apr) | 1.422M | 1.412M | 1.467M |
+| 13:10 | USD | Low | Building Permits (MoM) (Apr) | -4.0% | -4.7% | 0.5% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Mar) | -0.7% | -0.1% | 0.6% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) | 2.7% |  | 2.1% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) | 0.8% | 0.7% | -0.4% |
@@ -34,10 +34,10 @@
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | 10.9% |  | 2.6% |
 | 16:00 | MXN | Low | Current Account (USD) (Q1) | -7,613M | -18,050M | 12,601M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q1) | 1.80% |  | 2.90% |
-| 53 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 53 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 473 | 473 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 576 |
+| 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 473 | 473 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 576 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 27.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 21.5K |
