@@ -5,8 +5,8 @@
 | 00:30 | JPY | National Core CPI (YoY) (Apr) | 3.5% | 3.4% | 3.2% |
 | 06:00 | SGD | Core CPI (YoY) (Apr) |  | 0.50% | 0.50% |
 | 06:00 | SGD | CPI (YoY) (Apr) |  | 0.8% | 0.9% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | 4.4% | 3.3% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Apr) |  | 0.3% | 0.5% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | 4.4% | 3.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Apr) |  | 0.3% | 0.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Apr) |  | 4.5% | 2.6% |
 | 07:00 | EUR | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
