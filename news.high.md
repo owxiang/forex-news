@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
-| 46 min | USD | New Home Sales (Apr) |  | 694K | 724K |
+| 15:00 | USD | New Home Sales (Apr) | 743K | 694K | 670K |
