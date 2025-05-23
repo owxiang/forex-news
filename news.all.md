@@ -7,15 +7,15 @@
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) | 3.5% | 3.4% | 3.2% |
 | 00:30 | JPY | Low | National CPI (YoY) (Apr) | 3.6% |  | 3.6% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Apr) | 5.20% |  | 6.10% |
-| 51 min | SGD | Moderate | Core CPI (YoY) (Apr) |  | 0.50% | 0.50% |
-| 51 min | SGD | Low | CPI (MoM) (Apr) |  |  | -0.10% |
-| 51 min | SGD | Moderate | CPI (YoY) (Apr) |  | 0.8% | 0.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.3% | 0.5% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) |  | 4.4% | 3.3% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) |  | 4.5% | 2.6% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) |  | 0.3% | 0.4% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q1) |  | 0.2% | -0.2% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Apr) | 0.70% | 0.50% | 0.50% |
+| 06:00 | SGD | Low | CPI (MoM) (Apr) | -0.30% |  | -0.10% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
+| 53 min | GBP | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.3% | 0.5% |
+| 53 min | GBP | Moderate | Core Retail Sales (YoY) (Apr) |  | 4.4% | 3.3% |
+| 53 min | GBP | Moderate | Retail Sales (MoM) (Apr) |  | 0.3% | 0.4% |
+| 53 min | GBP | Moderate | Retail Sales (YoY) (Apr) |  | 4.5% | 2.6% |
+| 53 min | EUR | High | German GDP (QoQ) (Q1) |  | 0.2% | -0.2% |
+| 53 min | EUR | Moderate | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (May) |  | 93 | 92 |
 | 08:00 | CNY | Low | FDI (Apr) |  |  | -10.80% |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -26,10 +26,10 @@
 | 13:00 | MXN | Low | Trade Balance (USD) (Apr) |  |  | 1.035B |
 | 13:30 | USD | Moderate | Building Permits (Apr) |  | 1.412M | 1.467M |
 | 13:30 | USD | Low | Building Permits (MoM) (Apr) |  | -4.7% | 0.5% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Mar) |  | 0.2% | 0.5% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Mar) |  | -0.1% | 0.5% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.5% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) |  | -0.3% | -0.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) |  |  | -0.4% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) |  | 0.6% | -0.4% |
 | 15:00 | USD | High | New Home Sales (Apr) |  | 694K | 724K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 7.4% |
 | 16:00 | MXN | Low | Current Account (USD) (Q1) |  | -18,050M | 12,601M |
