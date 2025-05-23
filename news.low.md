@@ -7,8 +7,8 @@
 | 00:30 | JPY | National CPI (YoY) (Apr) | 3.6% |  | 3.6% |
 | 05:00 | IDR | M2 Money Supply (YoY) (Apr) | 5.20% |  | 6.10% |
 | 06:00 | SGD | CPI (MoM) (Apr) | -0.30% |  | -0.10% |
-| 36 min | EUR | French Consumer Confidence (May) |  | 93 | 92 |
-| 51 min | CNY | FDI (Apr) |  |  | -10.80% |
+| 07:45 | EUR | French Consumer Confidence (May) | 88 | 93 | 91 |
+| 11:00 | CNY | FDI (Apr) |  |  | -10.80% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.9% |
 | 12:30 | INR | Deposit Growth |  |  | 10.0% |
 | 12:30 | INR | FX Reserves, USD |  |  | 690.62B |

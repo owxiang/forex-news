@@ -10,15 +10,15 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Apr) | 0.70% | 0.50% | 0.50% |
 | 06:00 | SGD | Low | CPI (MoM) (Apr) | -0.30% |  | -0.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Apr) | 0.9% | 0.8% | 0.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | 5.3% | 4.4% | 2.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | 1.3% | 0.3% | 0.2% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | 5.0% | 4.5% | 1.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | 5.3% | 4.4% | 2.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | 1.2% | 0.3% | 0.1% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | 5.0% | 4.5% | 1.9% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.4% | 0.2% | -0.2% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | 0.0% | -0.2% | -0.2% |
-| 36 min | EUR | Low | French Consumer Confidence (May) |  | 93 | 92 |
-| 51 min | CNY | Low | FDI (Apr) |  |  | -10.80% |
+| 07:45 | EUR | Low | French Consumer Confidence (May) | 88 | 93 | 91 |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11:00 | CNY | Low | FDI (Apr) |  |  | -10.80% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.9% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.0% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 690.62B |
@@ -28,10 +28,10 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Apr) |  | -4.7% | 0.5% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Mar) |  | -0.1% | 0.5% |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.5% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) |  | 0.6% | -0.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) |  |  | -0.4% |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 7.4% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) |  | 0.6% | -0.4% |
 | 15:00 | USD | High | New Home Sales (Apr) |  | 694K | 724K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 7.4% |
 | 16:00 | MXN | Low | Current Account (USD) (Q1) |  | -18,050M | 12,601M |
 | 16:00 | MXN | Low | Current Account % of GDP (Q1) |  |  | 2.90% |
 | 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
