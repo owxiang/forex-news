@@ -14,7 +14,7 @@
 | 09:30 | HKD | Low | Exports (MoM) (Apr) | 14.7% |  | 18.5% |
 | 09:30 | HKD | Low | Imports (MoM) (Apr) | 15.8% |  | 16.6% |
 | 09:30 | HKD | Low | Trade Balance (Apr) | -16.0B |  | -45.4B |
-| 12:00 | BRL | Low | FGV Consumer confidence (May) |  |  | 84.8 |
+| 49 min | BRL | Low | FGV Consumer confidence (May) |  |  | 84.8 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Current Account (USD) (Apr) |  | -2.00B | -2.25B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Apr) |  | 4.00B | 5.99B |
