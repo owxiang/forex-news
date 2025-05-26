@@ -1,24 +1,42 @@
-## 26 May 2025 - Low Impact Forex News
+## 27 May 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | Coincident Indicator (MoM) (Mar) | -1.4% | -1.3% | 0.9% |
-| 06:00 | JPY | Leading Index (MoM) (Mar) | -0.1% | -0.5% | -0.3% |
-| 06:00 | JPY | Leading Index (Mar) | 108.1 | 107.7 | 107.9 |
-| 06:00 | SGD | Industrial Production (YoY) (Apr) | 5.9% |  | 6.8% |
-| 06:00 | SGD | Industrial Production (MoM) (Apr) | 5.3% |  | -2.7% |
-| 07:00 | NOK | M3 Money Supply (Apr) | 3,319.1B |  | 3,315.9B |
-| 07:00 | NOK | Credit Indicator (YoY) (Apr) | 4.1% |  | 3.8% |
-| 08:00 | EUR | Spanish PPI (YoY) (Apr) | 1.9% |  | 4.6% |
-| 09:30 | HKD | Exports (MoM) (Apr) | 14.7% |  | 18.5% |
-| 09:30 | HKD | Imports (MoM) (Apr) | 15.8% |  | 16.6% |
-| 09:30 | HKD | Trade Balance (Apr) | -16.0B |  | -45.4B |
-| 12:00 | BRL | FGV Consumer confidence (May) | 86.7 |  | 84.8 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Current Account (USD) (Apr) | -1.35B | -2.00B | -2.25B |
-| 12:30 | BRL | Foreign direct investment (USD) (Apr) | 5.49B | 4.00B | 5.99B |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Apr) | -2.0% |  | -1.4% |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.913% |  | 1.947% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.999% |  | 2.042% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.982% |  | 2.011% |
-| 22:00 | KRW | Consumer Confidence (May) | 101.8 |  | 93.8 |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | 0.0% | -0.1% |
+| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 3.1% |
+| 02:30 | CNY | Chinese Industrial profit YTD (Apr) |  |  | 0.8% |
+| 05:00 | GBP | Car Registration (MoM) (Apr) |  |  | 324.8% |
+| 05:00 | GBP | Car Registration (YoY) (Apr) |  |  | 12.4% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 24.8% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 6.3% |
+| 05:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 24.6% |
+| 05:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -3.9% |
+| 05:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 8.7% |
+| 05:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
+| 07:00 | CHF | Trade Balance (Apr) |  | 5.550B | 6.350B |
+| 07:45 | EUR | French CPI (YoY) (May) |  | 0.9% | 0.8% |
+| 07:45 | EUR | French HICP (YoY) (May) |  | 0.9% | 0.9% |
+| 08:00 | ZAR | Leading Indicators (Mar) |  |  | 114.20% |
+| 10:00 | EUR | Business and Consumer Survey (May) |  | 94.0 | 93.6 |
+| 10:00 | EUR | Business Climate (May) |  |  | -0.67 |
+| 10:00 | EUR | Consumer Confidence (May) |  | -15.2 | -16.7 |
+| 10:00 | EUR | Consumer Inflation Expectation (May) |  |  | 29.6 |
+| 10:00 | EUR | Selling Price Expectations (May) |  |  | 11.0 |
+| 10:00 | EUR | Services Sentiment (May) |  |  | 1.4 |
+| 10:00 | EUR | Industrial Sentiment (May) |  | -11.0 | -11.2 |
+| 11:00 | GBP | CBI Distributive Trades Survey (May) |  | -18 | -8 |
+| 12:00 | EUR | Spanish Business Confidence (May) |  |  | -4.1 |
+| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
+| 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 3.9% |
+| 14:00 | USD | House Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
+| 14:00 | USD | House Price Index (Mar) |  |  | 437.3 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.4% |
+| 15:30 | USD | Dallas Fed Mfg Business Index (May) |  |  | -35.8 |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 4.285% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 4.140% |
+| 17:20 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18:00 | USD | M2 Money Supply (MoM) (Apr) |  |  | 21.76T |
+| 22:00 | KRW | Manufacturing BSI Index |  |  | 68 |
