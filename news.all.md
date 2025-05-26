@@ -5,12 +5,12 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | -1.4% | -1.3% | 0.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.1% | -0.5% | -0.3% |
 | 06:00 | JPY | Low | Leading Index (Mar) | 108.1 | 107.7 | 107.9 |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | 5.9% |  | 6.8% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 5.3% |  | -2.7% |
-| 52 min | NOK | Low | M3 Money Supply (Apr) |  |  | 3,316.1B |
-| 52 min | NOK | Low | Credit Indicator (YoY) (Apr) |  |  | 3.8% |
-| 07:30 | CHF | Moderate | Employment Level (Q1) |  |  | 5.534M |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (Apr) |  |  | 4.9% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | 5.9% |  | 6.8% |
+| 07:00 | NOK | Low | M3 Money Supply (Apr) | 3,319.1B |  | 3,315.9B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Apr) | 4.1% |  | 3.8% |
+| 20 min | CHF | Moderate | Employment Level (Q1) |  |  | 5.534M |
+| 50 min | EUR | Low | Spanish PPI (YoY) (Apr) |  |  | 4.9% |
 | 09:30 | HKD | Low | Exports (MoM) (Apr) |  |  | 18.5% |
 | 09:30 | HKD | Low | Imports (MoM) (Apr) |  |  | 16.6% |
 | 09:30 | HKD | Low | Trade Balance (Apr) |  |  | -45.4B |
