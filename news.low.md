@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  | -1.3% | 0.9% |
-| 06:00 | JPY | Leading Index (Mar) |  | 107.7 | 107.9 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) |  | -0.5% | -0.3% |
+| 06:00 | JPY | Leading Index (Mar) |  | 107.7 | 107.9 |
 | 06:00 | SGD | Industrial Production (YoY) (Apr) |  |  | 5.8% |
 | 06:00 | SGD | Industrial Production (MoM) (Apr) |  |  | -3.6% |
 | 07:00 | NOK | M3 Money Supply (Apr) |  |  | 3,316.1B |
