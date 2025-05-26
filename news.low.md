@@ -5,8 +5,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | -1.4% | -1.3% | 0.9% |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | -0.1% | -0.5% | -0.3% |
 | 06:00 | JPY | Leading Index (Mar) | 108.1 | 107.7 | 107.9 |
-| 06:00 | SGD | Industrial Production (MoM) (Apr) | 5.3% |  | -2.7% |
 | 06:00 | SGD | Industrial Production (YoY) (Apr) | 5.9% |  | 6.8% |
+| 06:00 | SGD | Industrial Production (MoM) (Apr) | 5.3% |  | -2.7% |
 | 07:00 | NOK | M3 Money Supply (Apr) | 3,319.1B |  | 3,315.9B |
 | 07:00 | NOK | Credit Indicator (YoY) (Apr) | 4.1% |  | 3.8% |
 | 08:00 | EUR | Spanish PPI (YoY) (Apr) | 1.9% |  | 4.6% |
