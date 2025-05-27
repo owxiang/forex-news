@@ -5,14 +5,14 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.1% | 0.0% | -0.1% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.3% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.4% | 2.3% | 2.2% |
 | 07:00 | CHF | Low | Trade Balance (Apr) | 6.358B | 5.550B | 6.290B |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) | -19.9 | -19.9 | -20.8 |
@@ -31,9 +31,9 @@
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -10.3 | -11.0 | -11.0 |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.010% |  | 2.000% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (May) | -27 | -18 | -8 |
-| 52 min | EUR | Low | Spanish Business Confidence (May) |  |  | -4.1 |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
+| 12:00 | EUR | Low | Spanish Business Confidence (May) |  |  | -4.1 |
+| 54 min | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
+| 54 min | BRL | Low | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | -0.1% | 0.0% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) |  | -7.6% | 9.2% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
