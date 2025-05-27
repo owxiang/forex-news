@@ -5,14 +5,14 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | 0.0% | -0.1% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.3% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
-| 05:00 | GBP | Car Registration (MoM) (Apr) |  |  | 324.8% |
-| 05:00 | GBP | Car Registration (YoY) (Apr) |  |  | 12.4% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 24.8% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 6.3% |
-| 05:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 24.6% |
-| 05:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -3.9% |
-| 05:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 8.7% |
-| 05:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
+| 36 min | GBP | Car Registration (YoY) (Apr) |  |  | 12.4% |
+| 36 min | GBP | Car Registration (MoM) (Apr) |  |  | 324.8% |
+| 36 min | EUR | Italian Car Registration (MoM) (Apr) |  |  | 24.8% |
+| 36 min | EUR | Italian Car Registration (YoY) (Apr) |  |  | 6.3% |
+| 36 min | EUR | German Car Registration (MoM) (Apr) |  |  | 24.6% |
+| 36 min | EUR | German Car Registration (YoY) (Apr) |  |  | -3.9% |
+| 36 min | EUR | French Car Registration (MoM) (Apr) |  |  | 8.7% |
+| 36 min | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
 | 07:00 | CHF | Trade Balance (Apr) |  | 5.550B | 6.350B |
 | 07:45 | EUR | French CPI (YoY) (May) |  | 0.9% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (May) |  | 0.9% | 0.9% |
