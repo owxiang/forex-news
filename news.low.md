@@ -27,14 +27,14 @@
 | 10:30 | EUR | Italian 2-Year CTZ Auction | 2.010% |  | 2.000% |
 | 11:00 | GBP | CBI Distributive Trades Survey (May) | -27 | -18 | -8 |
 | 12:00 | EUR | Spanish Business Confidence (May) | -4.2 |  | -4.1 |
-| 13:00 | BRL | Mid-Month CPI (MoM) (May) | 0.36% | 0.44% | 0.43% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (May) | 5.40% | 5.50% | 5.49% |
-| 18 min | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
-| 18 min | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
-| 48 min | USD | House Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 48 min | USD | House Price Index (YoY) (Mar) |  |  | 3.9% |
-| 48 min | USD | House Price Index (Mar) |  |  | 437.3 |
-| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.4% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (May) | 0.36% | 0.44% | 0.43% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Apr) | -7.5% |  | 9.0% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) | -1.3% |  | 0.3% |
+| 14:00 | USD | House Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.0% |
+| 14:00 | USD | House Price Index (YoY) (Mar) | 3.7% |  | 3.9% |
+| 14:00 | USD | House Price Index (Mar) | 436.6 |  | 436.8 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) | -0.1% |  | 0.4% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (May) |  |  | -35.8 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.285% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.140% |

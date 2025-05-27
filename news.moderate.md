@@ -7,10 +7,10 @@
 | 07:45 | EUR | French CPI (MoM) (May) | -0.1% | 0.1% | 0.6% |
 | 07:45 | EUR | French HICP (MoM) (May) | -0.2% | 0.1% | 0.7% |
 | 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 18 min | USD | Core Durable Goods Orders (MoM) (Apr) |  | -0.1% | 0.0% |
-| 18 min | CAD | Wholesale Sales (MoM) (Apr) |  |  | 0.2% |
-| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.7% |
-| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) |  | 4.5% | 4.5% |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) | 0.2% | -0.1% | -0.2% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Apr) | -0.9% |  | 0.2% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.1% |  | 0.7% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 4.1% | 4.5% | 4.5% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
 | 17:00 | USD | 2-Year Note Auction |  |  | 3.795% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |

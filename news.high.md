@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18 min | USD | Durable Goods Orders (MoM) (Apr) |  | -7.6% | 9.2% |
-| 15:00 | USD | CB Consumer Confidence (May) |  | 87.1 | 86.0 |
+| 13:30 | USD | Durable Goods Orders (MoM) (Apr) | -6.3% | -7.6% | 7.6% |
+| 44 min | USD | CB Consumer Confidence (May) |  | 87.1 | 86.0 |

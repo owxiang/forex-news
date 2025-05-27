@@ -16,8 +16,8 @@
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.4% | 2.3% | 2.2% |
 | 07:00 | CHF | Low | Trade Balance (Apr) | 6.358B | 5.550B | 6.290B |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) | -19.9 | -19.9 | -20.8 |
-| 07:45 | EUR | Moderate | French CPI (MoM) (May) | -0.1% | 0.1% | 0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.9% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) | -0.1% | 0.1% | 0.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) | -0.2% | 0.1% | 0.7% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.9% | 0.9% |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) | 115.40% |  | 114.12% |
@@ -32,20 +32,20 @@
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.010% |  | 2.000% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (May) | -27 | -18 | -8 |
 | 12:00 | EUR | Low | Spanish Business Confidence (May) | -4.2 |  | -4.1 |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) | 0.36% | 0.44% | 0.43% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 5.40% | 5.50% | 5.49% |
-| 18 min | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | -0.1% | 0.0% |
-| 18 min | USD | High | Durable Goods Orders (MoM) (Apr) |  | -7.6% | 9.2% |
-| 18 min | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
-| 18 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
-| 18 min | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  |  | 0.2% |
-| 48 min | USD | Low | House Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 48 min | USD | Low | House Price Index (YoY) (Mar) |  |  | 3.9% |
-| 48 min | USD | Low | House Price Index (Mar) |  |  | 437.3 |
-| 48 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.4% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.7% |
-| 48 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) |  | 4.5% | 4.5% |
-| 15:00 | USD | High | CB Consumer Confidence (May) |  | 87.1 | 86.0 |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) | 0.36% | 0.44% | 0.43% |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) | 0.2% | -0.1% | -0.2% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) | -6.3% | -7.6% | 7.6% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) | -7.5% |  | 9.0% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) | -1.3% |  | 0.3% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) | -0.9% |  | 0.2% |
+| 14:00 | USD | Low | House Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.0% |
+| 14:00 | USD | Low | House Price Index (YoY) (Mar) | 3.7% |  | 3.9% |
+| 14:00 | USD | Low | House Price Index (Mar) | 436.6 |  | 436.8 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) | -0.1% |  | 0.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.1% |  | 0.7% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 4.1% | 4.5% | 4.5% |
+| 44 min | USD | High | CB Consumer Confidence (May) |  | 87.1 | 86.0 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (May) |  |  | -35.8 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.285% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.140% |
