@@ -22,16 +22,16 @@
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.9% | 0.9% |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) | 115.40% |  | 114.12% |
 | 09:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 10:00 | EUR | Low | Business and Consumer Survey (May) | 94.8 | 94.0 | 93.8 |
 | 10:00 | EUR | Low | Business Climate (May) | -0.55 |  | -0.66 |
 | 10:00 | EUR | Low | Consumer Confidence (May) | -15.2 | -15.2 | -16.7 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (May) | 23.6 |  | 29.4 |
 | 10:00 | EUR | Low | Selling Price Expectations (May) | 7.9 |  | 10.6 |
 | 10:00 | EUR | Low | Services Sentiment (May) | 1.5 | 0.9 | 1.6 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -10.3 | -11.0 | -11.0 |
-| 23 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.000% |
-| 53 min | GBP | Low | CBI Distributive Trades Survey (May) |  | -18 | -8 |
-| 53 min | EUR | Low | Business and Consumer Survey (May) | 94.8 | 94.0 | 93.8 |
-| 12:00 | EUR | Low | Spanish Business Confidence (May) |  |  | -4.1 |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.010% |  | 2.000% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (May) | -27 | -18 | -8 |
+| 52 min | EUR | Low | Spanish Business Confidence (May) |  |  | -4.1 |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | -0.1% | 0.0% |
