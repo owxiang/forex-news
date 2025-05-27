@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | -0.1% | 0.0% | -0.1% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.3% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
@@ -18,8 +18,8 @@
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) | -19.9 | -19.9 | -20.8 |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | -0.1% | 0.1% | 0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.9% | 0.8% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.9% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) | -0.2% | 0.1% | 0.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.9% | 0.9% |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) | 115.40% |  | 114.12% |
 | 09:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) | 94.8 | 94.0 | 93.8 |
@@ -51,7 +51,7 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.255% |  | 4.285% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.160% |  | 4.140% |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 52 min | USD | Moderate | 2-Year Note Auction |  |  | 3.795% |
-| 52 min | USD | Low | M2 Money Supply (MoM) (Apr) |  |  | 21.76T |
+| 17:20 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Apr) | 21.86T |  | 21.76T |
+| 24 min | USD | Moderate | 2-Year Note Auction |  |  | 3.795% |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |

@@ -13,4 +13,4 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 4.1% | 4.5% | 4.5% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) | 2.2% | 2.4% | 2.4% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 52 min | USD | 2-Year Note Auction |  |  | 3.795% |
+| 24 min | USD | 2-Year Note Auction |  |  | 3.795% |

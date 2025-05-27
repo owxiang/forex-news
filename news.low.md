@@ -5,8 +5,8 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | 0.0% | -0.1% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.3% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
-| 05:00 | GBP | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | GBP | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
+| 05:00 | GBP | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
@@ -38,6 +38,6 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (May) | -15.3 |  | -35.8 |
 | 16:30 | USD | 3-Month Bill Auction | 4.255% |  | 4.285% |
 | 16:30 | USD | 6-Month Bill Auction | 4.160% |  | 4.140% |
-| 12 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 52 min | USD | M2 Money Supply (MoM) (Apr) |  |  | 21.76T |
+| 17:20 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18:00 | USD | M2 Money Supply (MoM) (Apr) | 21.86T |  | 21.76T |
 | 22:00 | KRW | Manufacturing BSI Index |  |  | 68 |
