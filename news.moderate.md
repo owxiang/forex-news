@@ -9,8 +9,8 @@
 | 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) | 0.2% | -0.1% | -0.2% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) | -0.9% |  | 0.2% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.1% |  | 0.7% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 4.1% | 4.5% | 4.5% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.1% |  | 0.7% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) | 2.2% | 2.4% | 2.4% |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | 2-Year Note Auction | 3.955% |  | 3.795% |
