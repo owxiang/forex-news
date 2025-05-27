@@ -9,8 +9,8 @@
 | 05:00 | GBP | Low | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.4% | 2.3% | 2.2% |
@@ -54,4 +54,4 @@
 | 17:20 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 3.955% |  | 3.795% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Apr) | 21.86T |  | 21.76T |
-| 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
+| 52 min | KRW | Low | Manufacturing BSI Index |  |  | 68 |
