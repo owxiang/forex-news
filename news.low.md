@@ -11,8 +11,8 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
 | 05:00 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
-| 05:00 | EUR | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
+| 05:00 | EUR | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
 | 07:00 | CHF | Trade Balance (Apr) | 6.358B | 5.550B | 6.290B |
 | 07:45 | EUR | French CPI (YoY) (May) | 0.7% | 0.9% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (May) | 0.6% | 0.9% | 0.9% |
@@ -26,15 +26,15 @@
 | 10:00 | EUR | Industrial Sentiment (May) | -10.3 | -11.0 | -11.0 |
 | 10:30 | EUR | Italian 2-Year CTZ Auction | 2.010% |  | 2.000% |
 | 11:00 | GBP | CBI Distributive Trades Survey (May) | -27 | -18 | -8 |
-| 12:00 | EUR | Spanish Business Confidence (May) |  |  | -4.1 |
-| 54 min | BRL | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
-| 54 min | BRL | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
-| 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 3.9% |
-| 14:00 | USD | House Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 14:00 | USD | House Price Index (Mar) |  |  | 437.3 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.4% |
+| 12:00 | EUR | Spanish Business Confidence (May) | -4.2 |  | -4.1 |
+| 13:00 | BRL | Mid-Month CPI (MoM) (May) | 0.36% | 0.44% | 0.43% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (May) | 5.40% | 5.50% | 5.49% |
+| 18 min | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
+| 18 min | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
+| 48 min | USD | House Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
+| 48 min | USD | House Price Index (YoY) (Mar) |  |  | 3.9% |
+| 48 min | USD | House Price Index (Mar) |  |  | 437.3 |
+| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.4% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (May) |  |  | -35.8 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.285% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.140% |
