@@ -5,8 +5,8 @@
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | 0.0% | -0.1% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.3% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
-| 05:00 | GBP | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
 | 05:00 | GBP | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
+| 05:00 | GBP | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
