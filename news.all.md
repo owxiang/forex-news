@@ -7,21 +7,21 @@
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.4% | 2.3% | 2.2% |
 | 07:00 | CHF | Low | Trade Balance (Apr) | 6.358B | 5.550B | 6.290B |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) | -19.9 | -19.9 | -20.8 |
-| 36 min | EUR | Low | French CPI (YoY) (May) |  | 0.9% | 0.8% |
-| 36 min | EUR | Moderate | French CPI (MoM) (May) |  | 0.1% | 0.6% |
-| 36 min | EUR | Moderate | French HICP (MoM) (May) |  | 0.1% | 0.7% |
-| 36 min | EUR | Low | French HICP (YoY) (May) |  | 0.9% | 0.9% |
-| 51 min | ZAR | Low | Leading Indicators (Mar) |  |  | 114.20% |
-| 09:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.9% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.1% | 0.1% | 0.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) | -0.2% | 0.1% | 0.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.9% | 0.9% |
+| 08:00 | ZAR | Low | Leading Indicators (Mar) | 115.40% |  | 114.12% |
+| 53 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 94.0 | 93.6 |
 | 10:00 | EUR | Low | Business Climate (May) |  |  | -0.67 |
 | 10:00 | EUR | Low | Consumer Confidence (May) |  | -15.2 | -16.7 |
@@ -39,8 +39,8 @@
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  |  | 0.2% |
-| 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 3.9% |
 | 14:00 | USD | Low | House Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 3.9% |
 | 14:00 | USD | Low | House Price Index (Mar) |  |  | 437.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.7% |
