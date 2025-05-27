@@ -7,8 +7,8 @@
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
@@ -43,15 +43,15 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Mar) | -0.1% | 0.1% | 0.0% |
 | 14:00 | USD | Low | House Price Index (Mar) | 436.6 |  | 436.8 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) | -0.1% |  | 0.4% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.1% |  | 0.7% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 4.1% | 4.5% | 4.5% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.1% |  | 0.7% |
 | 15:00 | USD | High | CB Consumer Confidence (May) | 98.0 | 87.1 | 85.7 |
-| 24 min | USD | Low | Dallas Fed Mfg Business Index (May) |  |  | -35.8 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.285% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.140% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
-| 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.795% |
-| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.2% | 2.4% | 2.4% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (May) | -15.3 |  | -35.8 |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.285% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.140% |
+| 53 min | USD | Moderate | 2-Year Note Auction |  |  | 3.795% |
+| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:20 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Apr) |  |  | 21.76T |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 68 |
