@@ -1,16 +1,22 @@
-## 27 May 2025 - Moderate Impact Forex News
+## 28 May 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | BoJ Core CPI (YoY) | 2.4% | 2.3% | 2.2% |
-| 07:00 | EUR | GfK German Consumer Climate (Jun) | -19.9 | -19.9 | -20.8 |
-| 07:45 | EUR | French CPI (MoM) (May) | -0.1% | 0.1% | 0.6% |
-| 07:45 | EUR | French HICP (MoM) (May) | -0.2% | 0.1% | 0.7% |
+| 53 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q1) |  | 0.5% | 0.5% |
+| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 03:10 | USD | Fed Waller Speaks |  |  |  |
+| 04:00 | NZD | RBNZ Press Conference |  |  |  |
+| 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | 0.8% | -1.0% |
+| 07:45 | EUR | French GDP (YoY) (Q1) |  | 0.8% | 0.6% |
+| 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 08:55 | EUR | German Unemployment Change (May) |  | 12K | 4K |
+| 08:55 | EUR | German Unemployment Rate (May) |  | 6.3% | 6.3% |
 | 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) | 0.2% | -0.1% | -0.2% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Apr) | -0.9% |  | 0.2% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 4.1% | 4.5% | 4.5% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.1% |  | 0.7% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q2) | 2.2% | 2.4% | 2.4% |
-| 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | USD | 2-Year Note Auction | 3.955% |  | 3.795% |
+| 11:00 | USD | OPEC Meeting |  |  |  |
+| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 17:00 | USD | 5-Year Note Auction |  |  | 3.995% |
+| 18:00 | NZD | RBNZ Press Conference |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.499M |
