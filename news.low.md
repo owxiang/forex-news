@@ -7,10 +7,10 @@
 | 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 1.4% |  | 0.8% |
 | 05:00 | GBP | Car Registration (MoM) (Apr) | -66.3% |  | 324.8% |
 | 05:00 | GBP | Car Registration (YoY) (Apr) | -10.4% |  | 12.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Apr) | -19.2% |  | 24.8% |
-| 05:00 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
+| 05:00 | EUR | Italian Car Registration (YoY) (Apr) | 2.7% |  | 6.3% |
 | 05:00 | EUR | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
+| 05:00 | EUR | German Car Registration (YoY) (Apr) | -0.2% |  | -3.9% |
 | 05:00 | EUR | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
 | 07:00 | CHF | Trade Balance (Apr) | 6.358B | 5.550B | 6.290B |
@@ -36,8 +36,8 @@
 | 14:00 | USD | House Price Index (Mar) | 436.6 |  | 436.8 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) | -0.1% |  | 0.4% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (May) | -15.3 |  | -35.8 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.285% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.140% |
-| 17:20 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 18:00 | USD | M2 Money Supply (MoM) (Apr) |  |  | 21.76T |
+| 16:30 | USD | 3-Month Bill Auction | 4.255% |  | 4.285% |
+| 16:30 | USD | 6-Month Bill Auction | 4.160% |  | 4.140% |
+| 12 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 52 min | USD | M2 Money Supply (MoM) (Apr) |  |  | 21.76T |
 | 22:00 | KRW | Manufacturing BSI Index |  |  | 68 |
