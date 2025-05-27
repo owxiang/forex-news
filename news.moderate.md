@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.4% | 2.3% | 2.2% |
-| 53 min | EUR | GfK German Consumer Climate (Jun) |  | -19.9 | -20.6 |
-| 07:45 | EUR | French CPI (MoM) (May) |  | 0.1% | 0.6% |
-| 07:45 | EUR | French HICP (MoM) (May) |  | 0.1% | 0.7% |
+| 07:00 | EUR | GfK German Consumer Climate (Jun) | -19.9 | -19.9 | -20.8 |
+| 36 min | EUR | French CPI (MoM) (May) |  | 0.1% | 0.6% |
+| 36 min | EUR | French HICP (MoM) (May) |  | 0.1% | 0.7% |
 | 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) |  | -0.1% | 0.0% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  |  | 0.2% |

@@ -13,10 +13,10 @@
 | 05:00 | EUR | German Car Registration (MoM) (Apr) | -4.2% |  | 24.6% |
 | 05:00 | EUR | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
 | 05:00 | EUR | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
-| 53 min | CHF | Trade Balance (Apr) |  | 5.550B | 6.350B |
-| 07:45 | EUR | French CPI (YoY) (May) |  | 0.9% | 0.8% |
-| 07:45 | EUR | French HICP (YoY) (May) |  | 0.9% | 0.9% |
-| 08:00 | ZAR | Leading Indicators (Mar) |  |  | 114.20% |
+| 07:00 | CHF | Trade Balance (Apr) | 6.358B | 5.550B | 6.290B |
+| 36 min | EUR | French CPI (YoY) (May) |  | 0.9% | 0.8% |
+| 36 min | EUR | French HICP (YoY) (May) |  | 0.9% | 0.9% |
+| 51 min | ZAR | Leading Indicators (Mar) |  |  | 114.20% |
 | 10:00 | EUR | Business and Consumer Survey (May) |  | 94.0 | 93.6 |
 | 10:00 | EUR | Business Climate (May) |  |  | -0.67 |
 | 10:00 | EUR | Consumer Confidence (May) |  | -15.2 | -16.7 |
@@ -24,10 +24,11 @@
 | 10:00 | EUR | Selling Price Expectations (May) |  |  | 11.0 |
 | 10:00 | EUR | Services Sentiment (May) |  | 0.9 | 1.4 |
 | 10:00 | EUR | Industrial Sentiment (May) |  | -11.0 | -11.2 |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.000% |
 | 11:00 | GBP | CBI Distributive Trades Survey (May) |  | -18 | -8 |
 | 12:00 | EUR | Spanish Business Confidence (May) |  |  | -4.1 |
-| 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
 | 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 3.9% |

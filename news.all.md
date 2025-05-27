@@ -14,13 +14,13 @@
 | 05:00 | EUR | Low | French Car Registration (YoY) (Apr) | -5.6% |  | -14.5% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Apr) | -9.8% |  | 8.7% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.4% | 2.3% | 2.2% |
-| 53 min | CHF | Low | Trade Balance (Apr) |  | 5.550B | 6.350B |
-| 53 min | EUR | Moderate | GfK German Consumer Climate (Jun) |  | -19.9 | -20.6 |
-| 07:45 | EUR | Low | French CPI (YoY) (May) |  | 0.9% | 0.8% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.1% | 0.6% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.1% | 0.7% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) |  | 0.9% | 0.9% |
-| 08:00 | ZAR | Low | Leading Indicators (Mar) |  |  | 114.20% |
+| 07:00 | CHF | Low | Trade Balance (Apr) | 6.358B | 5.550B | 6.290B |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) | -19.9 | -19.9 | -20.8 |
+| 36 min | EUR | Low | French CPI (YoY) (May) |  | 0.9% | 0.8% |
+| 36 min | EUR | Moderate | French CPI (MoM) (May) |  | 0.1% | 0.6% |
+| 36 min | EUR | Moderate | French HICP (MoM) (May) |  | 0.1% | 0.7% |
+| 36 min | EUR | Low | French HICP (YoY) (May) |  | 0.9% | 0.9% |
+| 51 min | ZAR | Low | Leading Indicators (Mar) |  |  | 114.20% |
 | 09:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 94.0 | 93.6 |
 | 10:00 | EUR | Low | Business Climate (May) |  |  | -0.67 |
@@ -29,10 +29,11 @@
 | 10:00 | EUR | Low | Selling Price Expectations (May) |  |  | 11.0 |
 | 10:00 | EUR | Low | Services Sentiment (May) |  | 0.9 | 1.4 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) |  | -11.0 | -11.2 |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.000% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (May) |  | -18 | -8 |
 | 12:00 | EUR | Low | Spanish Business Confidence (May) |  |  | -4.1 |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | -0.1% | 0.0% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) |  | -7.6% | 9.2% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
