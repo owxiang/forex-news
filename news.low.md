@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | -0.1% | 0.0% | -0.1% |
-| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 3.1% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.1% | 3.0% | 3.3% |
 | 02:30 | CNY | Chinese Industrial profit YTD (Apr) |  |  | 0.8% |
 | 05:00 | GBP | Car Registration (MoM) (Apr) |  |  | 324.8% |
 | 05:00 | GBP | Car Registration (YoY) (Apr) |  |  | 12.4% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 24.8% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | 6.3% |
-| 05:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 24.6% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 24.8% |
 | 05:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -3.9% |
+| 05:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 24.6% |
 | 05:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 8.7% |
 | 05:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -14.5% |
 | 07:00 | CHF | Trade Balance (Apr) |  | 5.550B | 6.350B |
@@ -26,8 +26,8 @@
 | 10:00 | EUR | Industrial Sentiment (May) |  | -11.0 | -11.2 |
 | 11:00 | GBP | CBI Distributive Trades Survey (May) |  | -18 | -8 |
 | 12:00 | EUR | Spanish Business Confidence (May) |  |  | -4.1 |
-| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.44% | 0.43% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 5.50% | 5.49% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 10.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  |  | 0.1% |
 | 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 3.9% |
