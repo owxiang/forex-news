@@ -19,12 +19,12 @@
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
-| 48 min | EUR | Moderate | German Unemployment Change (May) |  | 12K | 4K |
-| 48 min | EUR | Moderate | German Unemployment Rate (May) |  | 6.3% | 6.3% |
-| 48 min | EUR | Low | German Unemployment (May) |  |  | 2.922M |
-| 48 min | EUR | Low | German Unemployment n.s.a. (May) |  |  | 2.932M |
-| 53 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 53 min | CHF | Low | ZEW Expectations (May) |  |  | -51.6 |
+| 08:55 | EUR | Moderate | German Unemployment Change (May) | 34K | 12K | 4K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (May) | 6.3% | 6.3% | 6.3% |
+| 08:55 | EUR | Low | German Unemployment (May) | 2.963M |  | 2.922M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
+| 09:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 09:00 | CHF | Low | ZEW Expectations (May) | -22.0 |  | -51.6 |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.069% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
