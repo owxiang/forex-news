@@ -24,9 +24,9 @@
 | 12:30 | INR | M3 Money Supply | 9.5% |  | 9.5% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) | 6.1% |  | 5.4% |
-| 44 min | USD | Richmond Manufacturing Index (May) |  | -9 | -13 |
-| 44 min | USD | Richmond Manufacturing Shipments (May) |  |  | -17 |
-| 44 min | USD | Richmond Services Index (May) |  |  | -7 |
-| 15:30 | USD | Dallas Fed Services Revenues (May) |  |  | 3.8 |
-| 15:30 | USD | Texas Services Sector Outlook (May) |  |  | -19.4 |
+| 15:00 | USD | Richmond Manufacturing Index (May) | -9 | -9 | -13 |
+| 15:00 | USD | Richmond Manufacturing Shipments (May) | -10 |  | -17 |
+| 15:00 | USD | Richmond Services Index (May) | -11 |  | -7 |
+| 23 min | USD | Dallas Fed Services Revenues (May) |  |  | 3.8 |
+| 23 min | USD | Texas Services Sector Outlook (May) |  |  | -19.4 |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 175.00K | 71.58K |

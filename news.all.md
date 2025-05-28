@@ -14,8 +14,8 @@
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) | 0.3% | 0.8% | -1.1% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
@@ -39,12 +39,12 @@
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 6.1% |  | 5.4% |
 | 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 44 min | USD | Low | Richmond Manufacturing Index (May) |  | -9 | -13 |
-| 44 min | USD | Low | Richmond Manufacturing Shipments (May) |  |  | -17 |
-| 44 min | USD | Low | Richmond Services Index (May) |  |  | -7 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (May) |  |  | 3.8 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (May) |  |  | -19.4 |
-| 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 15:00 | USD | Low | Richmond Manufacturing Index (May) | -9 | -9 | -13 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (May) | -10 |  | -17 |
+| 15:00 | USD | Low | Richmond Services Index (May) | -11 |  | -7 |
+| 23 min | USD | Low | Dallas Fed Services Revenues (May) |  |  | 3.8 |
+| 23 min | USD | Low | Texas Services Sector Outlook (May) |  |  | -19.4 |
+| 53 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.995% |
 | 18:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 175.00K | 71.58K |
