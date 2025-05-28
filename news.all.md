@@ -14,8 +14,8 @@
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) | 0.3% | 0.8% | -1.1% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
@@ -45,8 +45,8 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (May) | -4.7 |  | 3.8 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (May) | -10.1 |  | -19.4 |
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 53 min | USD | Moderate | 5-Year Note Auction |  |  | 3.995% |
-| 53 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 175.00K | 71.58K |
-| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 4.071% |  | 3.995% |
+| 18:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 23 min | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 175.00K | 71.58K |
+| 53 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 2.499M |
