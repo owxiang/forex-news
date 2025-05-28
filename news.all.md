@@ -3,22 +3,22 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) |  | 0.5% | 0.5% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) |  | 2.30% | 2.40% |
-| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 3.25% | 3.50% |
-| 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
-| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 03:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) | 0.0% | 0.5% | 0.5% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) | 2.40% | 2.30% | 2.40% |
+| 25 min | NZD | High | RBNZ Interest Rate Decision |  | 3.25% | 3.50% |
+| 25 min | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 25 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 35 min | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) |  | -1.4% | -1.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) |  |  | 2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) |  |  | 0.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) |  | 0.8% | -1.0% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q1) |  | 0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
-| 07:45 | EUR | Low | French PPI (MoM) (Apr) |  |  | -0.6% |
 | 07:45 | EUR | Low | PPI (YoY) (Apr) |  |  | -0.60% |
+| 07:45 | EUR | Low | French PPI (MoM) (Apr) |  |  | -0.6% |
 | 08:55 | EUR | Moderate | German Unemployment Change (May) |  | 12K | 4K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (May) |  | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (May) |  |  | 2.922M |
