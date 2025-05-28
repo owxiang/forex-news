@@ -13,17 +13,17 @@
 | 08:55 | EUR | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
 | 09:00 | CHF | ZEW Expectations (May) | -22.0 |  | -51.6 |
 | 10:30 | EUR | Italian 6-Month BOT Auction | 1.981% |  | 2.069% |
-| 11:30 | INR | Industrial Production (YoY) (Apr) | 2.7% | 1.0% | 3.0% |
-| 11:30 | INR | Manufacturing Output (MoM) (Apr) | 3.4% | 3.0% | 3.0% |
+| 11:30 | INR | Industrial Production (YoY) (Apr) | 2.7% | 1.0% | 3.9% |
+| 11:30 | INR | Manufacturing Output (MoM) (Apr) | 3.4% | 3.0% | 4.0% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.98% |  | 6.92% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -1.2% |  | -5.1% |
 | 12:00 | USD | MBA Purchase Index | 162.1 |  | 157.8 |
 | 12:00 | USD | Mortgage Market Index | 235.7 |  | 238.5 |
 | 12:00 | USD | Mortgage Refinance Index | 634.1 |  | 682.5 |
-| 24 min | INR | Cumulative Industrial Production (Apr) |  |  | 4.00% |
-| 24 min | INR | M3 Money Supply |  |  | 9.5% |
-| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.4% |
+| 12:30 | INR | M3 Money Supply | 9.5% |  | 9.5% |
+| 18 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 18 min | INR | Cumulative Industrial Production (Apr) |  |  | 4.00% |
+| 43 min | USD | Redbook (YoY) |  |  | 5.4% |
 | 15:00 | USD | Richmond Manufacturing Index (May) |  | -9 | -13 |
 | 15:00 | USD | Richmond Manufacturing Shipments (May) |  |  | -17 |
 | 15:00 | USD | Richmond Services Index (May) |  |  | -7 |

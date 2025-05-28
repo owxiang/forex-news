@@ -14,8 +14,8 @@
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) | 0.3% | 0.8% | -1.1% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
+| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
@@ -27,18 +27,18 @@
 | 09:00 | CHF | Low | ZEW Expectations (May) | -22.0 |  | -51.6 |
 | 10:30 | EUR | Low | Italian 6-Month BOT Auction | 1.981% |  | 2.069% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:30 | INR | Low | Industrial Production (YoY) (Apr) | 2.7% | 1.0% | 3.0% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.4% | 3.0% | 3.0% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Apr) | 2.7% | 1.0% | 3.9% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.4% | 3.0% | 4.0% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.98% |  | 6.92% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.2% |  | -5.1% |
 | 12:00 | USD | Low | MBA Purchase Index | 162.1 |  | 157.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 235.7 |  | 238.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 634.1 |  | 682.5 |
-| 24 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.4% |
-| 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 12:30 | INR | Low | M3 Money Supply | 9.5% |  | 9.5% |
+| 18 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
+| 43 min | USD | Low | Redbook (YoY) |  |  | 5.4% |
+| 48 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) |  | -9 | -13 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (May) |  |  | -17 |
 | 15:00 | USD | Low | Richmond Services Index (May) |  |  | -7 |
