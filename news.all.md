@@ -9,7 +9,7 @@
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 03:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 24 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) |  | -1.4% | -1.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) |  |  | 2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) |  |  | 0.6% |

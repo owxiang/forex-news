@@ -7,7 +7,7 @@
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 03:10 | USD | Fed Waller Speaks |  |  |  |
-| 24 min | NZD | RBNZ Press Conference |  |  |  |
+| 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | 0.8% | -1.0% |
 | 07:45 | EUR | French GDP (YoY) (Q1) |  | 0.8% | 0.6% |
 | 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
