@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) | 0.0% | 0.5% | 0.5% |
+| 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) | 0.0% | 0.5% | 0.9% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) | 2.40% | 2.30% | 2.40% |
-| 25 min | NZD | High | RBNZ Interest Rate Decision |  | 3.25% | 3.50% |
-| 25 min | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
-| 25 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 35 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision | 3.25% | 3.25% | 3.50% |
+| 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 03:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 24 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) |  | -1.4% | -1.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) |  |  | 2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) |  |  | 0.6% |

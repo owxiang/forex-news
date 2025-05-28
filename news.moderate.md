@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 02:30 | AUD | Construction Work Done (QoQ) (Q1) | 0.0% | 0.5% | 0.5% |
-| 25 min | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 25 min | NZD | RBNZ Rate Statement |  |  |  |
-| 35 min | USD | Fed Waller Speaks |  |  |  |
-| 04:00 | NZD | RBNZ Press Conference |  |  |  |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q1) | 0.0% | 0.5% | 0.9% |
+| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 03:10 | USD | Fed Waller Speaks |  |  |  |
+| 24 min | NZD | RBNZ Press Conference |  |  |  |
 | 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | 0.8% | -1.0% |
 | 07:45 | EUR | French GDP (YoY) (Q1) |  | 0.8% | 0.6% |
 | 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
