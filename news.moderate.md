@@ -1,22 +1,19 @@
-## 28 May 2025 - Moderate Impact Forex News
+## 29 May 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 02:30 | AUD | Construction Work Done (QoQ) (Q1) | 0.0% | 0.5% | 0.9% |
-| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 03:10 | USD | Fed Waller Speaks |  |  |  |
-| 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:45 | EUR | French Consumer Spending (MoM) (Apr) | 0.3% | 0.8% | -1.1% |
-| 07:45 | EUR | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
-| 07:45 | EUR | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
-| 08:55 | EUR | German Unemployment Change (May) | 34K | 12K | 4K |
-| 08:55 | EUR | German Unemployment Rate (May) | 6.3% | 6.3% | 6.3% |
-| 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 11:00 | USD | OPEC Meeting |  |  |  |
-| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 18:00 | USD | 5-Year Note Auction | 4.071% |  | 3.995% |
-| 18:00 | NZD | RBNZ Press Conference |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -4.236M | 1.000M | 2.499M |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) |  | 0.5% | -0.2% |
+| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.62% |
+| 13:00 | BRL | Unemployment Rate (Apr) |  | 6.9% | 7.0% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,903K |
+| 13:30 | USD | Core PCE Prices (Q1) |  | 3.50% | 2.60% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.7% | 2.3% |
+| 13:30 | CAD | Current Account (Q1) |  | -3.4B | -5.0B |
+| 14:00 | ZAR | Interest Rate Decision (May) |  | 7.25% | 7.50% |
+| 15:00 | USD | Pending Home Sales (MoM) (Apr) |  | -0.9% | 6.1% |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 17:00 | USD | 7-Year Note Auction |  |  | 4.123% |
+| 17:00 | USD | Cushing Crude Oil Inventories |  |  | -0.457M |
+| 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,689B |

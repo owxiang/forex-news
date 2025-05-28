@@ -1,33 +1,49 @@
-## 28 May 2025 - Low Impact Forex News
+## 29 May 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) | 2.40% | 2.30% | 2.40% |
-| 07:00 | EUR | German Import Price Index (MoM) (Apr) | -1.7% | -1.4% | -1.0% |
-| 07:00 | EUR | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
-| 07:45 | EUR | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
-| 07:45 | EUR | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
-| 08:55 | EUR | German Unemployment (May) | 2.963M |  | 2.922M |
-| 08:55 | EUR | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
-| 09:00 | CHF | ZEW Expectations (May) | -22.0 |  | -51.6 |
-| 10:30 | EUR | Italian 6-Month BOT Auction | 1.981% |  | 2.069% |
-| 11:30 | INR | Cumulative Industrial Production (Mar) | 4.00% |  | 4.10% |
-| 11:30 | INR | Industrial Production (YoY) (Apr) | 2.7% | 1.0% | 3.9% |
-| 11:30 | INR | Manufacturing Output (MoM) (Apr) | 3.4% | 3.0% | 4.0% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.98% |  | 6.92% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -1.2% |  | -5.1% |
-| 12:00 | USD | MBA Purchase Index | 162.1 |  | 157.8 |
-| 12:00 | USD | Mortgage Market Index | 235.7 |  | 238.5 |
-| 12:00 | USD | Mortgage Refinance Index | 634.1 |  | 682.5 |
-| 12:30 | INR | M3 Money Supply | 9.5% |  | 9.5% |
+| 43 min | JPY | Foreign Bonds Buying |  |  | 2,824.6B |
+| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 714.9B |
+| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 02:00 | KRW | Interest Rate Decision (May) |  | 2.50% | 2.75% |
+| 02:00 | NZD | ANZ Business Confidence (May) |  |  | 49.3 |
+| 02:00 | NZD | NBNZ Own Activity (May) |  |  | 47.7% |
+| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) |  |  | 0.2% |
+| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.8% |
+| 06:00 | JPY | Household Confidence (May) |  | 31.8 | 31.2 |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 3.6% |
+| 09:00 | EUR | Italian Business Confidence (May) |  | 86.2 | 85.7 |
+| 09:00 | EUR | Italian Consumer Confidence (May) |  | 93.0 | 92.7 |
+| 10:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.96B |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
+| 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
+| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
+| 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 0.6% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:55 | USD | Redbook (YoY) | 6.1% |  | 5.4% |
-| 15:00 | USD | Richmond Manufacturing Index (May) | -9 | -9 | -13 |
-| 15:00 | USD | Richmond Manufacturing Shipments (May) | -10 |  | -17 |
-| 15:00 | USD | Richmond Services Index (May) | -11 |  | -7 |
-| 15:30 | USD | Dallas Fed Services Revenues (May) | -4.7 |  | 3.8 |
-| 15:30 | USD | Texas Services Sector Outlook (May) | -10.1 |  | -19.4 |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Apr) | 257.53K |  | 71.58K |
-| 18:30 | BRL | Foreign Exchange Flows | -0.089B |  | -0.235B |
+| 13:30 | USD | GDP Sales (Q1) |  | -2.5% | 3.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 231.50K |
+| 13:30 | USD | PCE Prices (Q1) |  | 3.6% | 2.4% |
+| 13:30 | USD | Real Consumer Spending (Q1) |  | 1.8% | 4.0% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) |  |  | 5.40% |
+| 14:00 | ZAR | Prime Rate (May) |  |  | 11.00% |
+| 15:00 | USD | Pending Home Sales Index (Apr) |  |  | 76.5 |
+| 15:30 | USD | Natural Gas Storage |  |  | 120B |
+| 15:40 | USD | Fed Goolsbee Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.089M |
+| 17:00 | USD | Crude Oil Imports |  |  | 0.110M |
+| 17:00 | USD | Distillate Fuel Production |  |  | 0.131M |
+| 17:00 | USD | EIA Weekly Distillates Stocks |  |  | 0.579M |
+| 17:00 | USD | Gasoline Production |  |  | 0.178M |
+| 17:00 | USD | Heating Oil Stockpiles |  |  | -0.348M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
+| 17:00 | USD | Gasoline Inventories |  |  | 0.816M |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 175.00K | 71.58K |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.284T |
+| 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | 9.6% |
