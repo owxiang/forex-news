@@ -12,15 +12,15 @@
 | 08:55 | EUR | German Unemployment (May) | 2.963M |  | 2.922M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
 | 09:00 | CHF | ZEW Expectations (May) | -22.0 |  | -51.6 |
-| 3 min | EUR | Italian 6-Month BOT Auction |  |  | 2.069% |
-| 11:30 | INR | Cumulative Industrial Production (Apr) |  |  | 4.00% |
-| 11:30 | INR | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |
-| 11:30 | INR | Manufacturing Output (MoM) (Apr) |  | 3.0% | 3.0% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.92% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.1% |
-| 12:00 | USD | MBA Purchase Index |  |  | 157.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 238.5 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 682.5 |
+| 10:30 | EUR | Italian 6-Month BOT Auction | 1.981% |  | 2.069% |
+| 22 min | INR | Cumulative Industrial Production (Apr) |  |  | 4.00% |
+| 22 min | INR | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |
+| 22 min | INR | Manufacturing Output (MoM) (Apr) |  | 3.0% | 3.0% |
+| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.92% |
+| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.1% |
+| 52 min | USD | MBA Purchase Index |  |  | 157.8 |
+| 52 min | USD | Mortgage Market Index |  |  | 238.5 |
+| 52 min | USD | Mortgage Refinance Index |  |  | 682.5 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
 | 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.4% |

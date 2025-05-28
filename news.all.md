@@ -25,16 +25,16 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
 | 09:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (May) | -22.0 |  | -51.6 |
-| 3 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.069% |
-| 53 min | USD | Moderate | OPEC Meeting |  |  |  |
-| 11:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Apr) |  | 3.0% | 3.0% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.92% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.1% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 157.8 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 238.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 682.5 |
+| 10:30 | EUR | Low | Italian 6-Month BOT Auction | 1.981% |  | 2.069% |
+| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 22 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
+| 22 min | INR | Low | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |
+| 22 min | INR | Low | Manufacturing Output (MoM) (Apr) |  | 3.0% | 3.0% |
+| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.92% |
+| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.1% |
+| 52 min | USD | Low | MBA Purchase Index |  |  | 157.8 |
+| 52 min | USD | Low | Mortgage Market Index |  |  | 238.5 |
+| 52 min | USD | Low | Mortgage Refinance Index |  |  | 682.5 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.4% |
