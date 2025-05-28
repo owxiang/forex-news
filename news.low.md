@@ -29,4 +29,5 @@
 | 15:00 | USD | Richmond Services Index (May) | -11 |  | -7 |
 | 15:30 | USD | Dallas Fed Services Revenues (May) | -4.7 |  | 3.8 |
 | 15:30 | USD | Texas Services Sector Outlook (May) | -10.1 |  | -19.4 |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Apr) | 257.53K |  | 71.58K |
 | 18:30 | BRL | Foreign Exchange Flows | -0.089B |  | -0.235B |
