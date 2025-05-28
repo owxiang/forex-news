@@ -17,8 +17,8 @@
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
-| 07:45 | EUR | Low | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
+| 07:45 | EUR | Low | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
 | 08:55 | EUR | Moderate | German Unemployment Change (May) | 34K | 12K | 4K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (May) | 6.3% | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (May) | 2.963M |  | 2.922M |
@@ -50,4 +50,4 @@
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) | 257.53K |  | 71.58K |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.089B |  | -0.235B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 2.499M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 2.499M |
