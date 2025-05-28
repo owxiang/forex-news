@@ -14,8 +14,8 @@
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) | 0.3% | 0.8% | -1.1% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
 | 07:45 | EUR | Moderate | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
@@ -27,15 +27,15 @@
 | 09:00 | CHF | Low | ZEW Expectations (May) | -22.0 |  | -51.6 |
 | 10:30 | EUR | Low | Italian 6-Month BOT Auction | 1.981% |  | 2.069% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 22 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
-| 22 min | INR | Low | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |
-| 22 min | INR | Low | Manufacturing Output (MoM) (Apr) |  | 3.0% | 3.0% |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.92% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.1% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 157.8 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 238.5 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 682.5 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
+| 11:30 | INR | Low | Industrial Production (YoY) (Apr) | 2.7% | 1.0% | 3.0% |
+| 11:30 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.4% | 3.0% | 3.0% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.98% |  | 6.92% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.2% |  | -5.1% |
+| 12:00 | USD | Low | MBA Purchase Index | 162.1 |  | 157.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 235.7 |  | 238.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 634.1 |  | 682.5 |
+| 24 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.4% |
 | 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
