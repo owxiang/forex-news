@@ -19,4 +19,4 @@
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 18:00 | USD | 5-Year Note Auction | 4.071% |  | 3.995% |
 | 18:00 | NZD | RBNZ Press Conference |  |  |  |
-| 23 min | USD | API Weekly Crude Oil Stock |  | 1.000M | 2.499M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.236M | 1.000M | 2.499M |

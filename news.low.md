@@ -7,8 +7,8 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
 | 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
-| 07:45 | EUR | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
 | 07:45 | EUR | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
+| 07:45 | EUR | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
 | 08:55 | EUR | German Unemployment (May) | 2.963M |  | 2.922M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
 | 09:00 | CHF | ZEW Expectations (May) | -22.0 |  | -51.6 |
