@@ -25,8 +25,8 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
 | 09:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 09:00 | CHF | Low | ZEW Expectations (May) | -22.0 |  | -51.6 |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.069% |
-| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 3 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 2.069% |
+| 53 min | USD | Moderate | OPEC Meeting |  |  |  |
 | 11:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Apr) |  | 3.0% | 3.0% |

@@ -12,7 +12,7 @@
 | 08:55 | EUR | German Unemployment (May) | 2.963M |  | 2.922M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) | 2.919M |  | 2.932M |
 | 09:00 | CHF | ZEW Expectations (May) | -22.0 |  | -51.6 |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.069% |
+| 3 min | EUR | Italian 6-Month BOT Auction |  |  | 2.069% |
 | 11:30 | INR | Cumulative Industrial Production (Apr) |  |  | 4.00% |
 | 11:30 | INR | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |
 | 11:30 | INR | Manufacturing Output (MoM) (Apr) |  | 3.0% | 3.0% |
