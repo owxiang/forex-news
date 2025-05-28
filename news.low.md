@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) | 2.40% | 2.30% | 2.40% |
-| 53 min | EUR | German Import Price Index (MoM) (Apr) |  | -1.4% | -1.0% |
-| 53 min | EUR | German Import Price Index (YoY) (Apr) |  | 0.1% | 2.1% |
-| 53 min | NOK | Core Retail Sales (MoM) (Apr) |  |  | 0.6% |
-| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
-| 07:45 | EUR | French PPI (MoM) (Apr) |  |  | -0.6% |
-| 07:45 | EUR | PPI (YoY) (Apr) |  |  | -0.60% |
+| 07:00 | EUR | German Import Price Index (MoM) (Apr) | -1.7% | -1.4% | -1.0% |
+| 07:00 | EUR | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
+| 35 min | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
+| 35 min | EUR | French PPI (MoM) (Apr) |  |  | -0.6% |
+| 35 min | EUR | PPI (YoY) (Apr) |  |  | -0.60% |
 | 08:55 | EUR | German Unemployment (May) |  |  | 2.922M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 2.932M |
 | 09:00 | CHF | ZEW Expectations (May) |  |  | -51.6 |

@@ -10,15 +10,15 @@
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 03:10 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 53 min | EUR | Low | German Import Price Index (MoM) (Apr) |  | -1.4% | -1.0% |
-| 53 min | EUR | Low | German Import Price Index (YoY) (Apr) |  | 0.1% | 2.1% |
-| 53 min | NOK | Low | Core Retail Sales (MoM) (Apr) |  |  | 0.6% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) |  | 0.8% | -1.0% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 07:45 | EUR | Moderate | French GDP (YoY) (Q1) |  | 0.8% | 0.6% |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
-| 07:45 | EUR | Low | French PPI (MoM) (Apr) |  |  | -0.6% |
-| 07:45 | EUR | Low | PPI (YoY) (Apr) |  |  | -0.60% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) | -1.7% | -1.4% | -1.0% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
+| 35 min | EUR | Moderate | French Consumer Spending (MoM) (Apr) |  | 0.8% | -1.0% |
+| 35 min | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 35 min | EUR | Moderate | French GDP (YoY) (Q1) |  | 0.8% | 0.6% |
+| 35 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
+| 35 min | EUR | Low | French PPI (MoM) (Apr) |  |  | -0.6% |
+| 35 min | EUR | Low | PPI (YoY) (Apr) |  |  | -0.60% |
 | 08:55 | EUR | Moderate | German Unemployment Change (May) |  | 12K | 4K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (May) |  | 6.3% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (May) |  |  | 2.922M |
