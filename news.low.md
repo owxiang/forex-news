@@ -6,12 +6,12 @@
 | 07:00 | EUR | German Import Price Index (MoM) (Apr) | -1.7% | -1.4% | -1.0% |
 | 07:00 | EUR | German Import Price Index (YoY) (Apr) | -0.4% | 0.1% | 2.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Apr) | 0.7% |  | 0.6% |
-| 35 min | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | -0.3% |
-| 35 min | EUR | French PPI (MoM) (Apr) |  |  | -0.6% |
-| 35 min | EUR | PPI (YoY) (Apr) |  |  | -0.60% |
-| 08:55 | EUR | German Unemployment (May) |  |  | 2.922M |
-| 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 2.932M |
-| 09:00 | CHF | ZEW Expectations (May) |  |  | -51.6 |
+| 07:45 | EUR | French Non-Farm Payrolls (QoQ) (Q1) | -0.1% | 0.0% | -0.4% |
+| 07:45 | EUR | PPI (YoY) (Apr) | -0.80% |  | -0.20% |
+| 07:45 | EUR | French PPI (MoM) (Apr) | -4.3% |  | -0.5% |
+| 48 min | EUR | German Unemployment (May) |  |  | 2.922M |
+| 48 min | EUR | German Unemployment n.s.a. (May) |  |  | 2.932M |
+| 53 min | CHF | ZEW Expectations (May) |  |  | -51.6 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 2.069% |
 | 11:30 | INR | Cumulative Industrial Production (Apr) |  |  | 4.00% |
 | 11:30 | INR | Industrial Production (YoY) (Apr) |  | 1.0% | 3.0% |

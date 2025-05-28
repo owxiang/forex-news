@@ -8,12 +8,12 @@
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 03:10 | USD | Fed Waller Speaks |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 35 min | EUR | French Consumer Spending (MoM) (Apr) |  | 0.8% | -1.0% |
-| 35 min | EUR | French GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 35 min | EUR | French GDP (YoY) (Q1) |  | 0.8% | 0.6% |
-| 08:55 | EUR | German Unemployment Change (May) |  | 12K | 4K |
-| 08:55 | EUR | German Unemployment Rate (May) |  | 6.3% | 6.3% |
-| 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 07:45 | EUR | French Consumer Spending (MoM) (Apr) | 0.3% | 0.8% | -1.1% |
+| 07:45 | EUR | French GDP (QoQ) (Q1) | 0.1% | 0.1% | -0.1% |
+| 07:45 | EUR | French GDP (YoY) (Q1) | 0.6% | 0.8% | 0.6% |
+| 48 min | EUR | German Unemployment Change (May) |  | 12K | 4K |
+| 48 min | EUR | German Unemployment Rate (May) |  | 6.3% | 6.3% |
+| 53 min | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 11:00 | USD | OPEC Meeting |  |  |  |
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
