@@ -15,7 +15,7 @@
 | 08:55 | EUR | German Unemployment Rate (May) | 6.3% | 6.3% | 6.3% |
 | 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 11:00 | USD | OPEC Meeting |  |  |  |
-| 48 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | USD | 5-Year Note Auction |  |  | 3.995% |
 | 18:00 | NZD | RBNZ Press Conference |  |  |  |

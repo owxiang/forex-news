@@ -27,6 +27,7 @@
 | 09:00 | CHF | Low | ZEW Expectations (May) | -22.0 |  | -51.6 |
 | 10:30 | EUR | Low | Italian 6-Month BOT Auction | 1.981% |  | 2.069% |
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 11:30 | INR | Low | Cumulative Industrial Production (Mar) | 4.00% |  | 4.10% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Apr) | 2.7% | 1.0% | 3.9% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.4% | 3.0% | 4.0% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.98% |  | 6.92% |
@@ -35,13 +36,12 @@
 | 12:00 | USD | Low | Mortgage Market Index | 235.7 |  | 238.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 634.1 |  | 682.5 |
 | 12:30 | INR | Low | M3 Money Supply | 9.5% |  | 9.5% |
-| 18 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 4.00% |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 5.4% |
-| 48 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Low | Richmond Manufacturing Index (May) |  | -9 | -13 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (May) |  |  | -17 |
-| 15:00 | USD | Low | Richmond Services Index (May) |  |  | -7 |
+| 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) | 6.1% |  | 5.4% |
+| 14:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 44 min | USD | Low | Richmond Manufacturing Index (May) |  | -9 | -13 |
+| 44 min | USD | Low | Richmond Manufacturing Shipments (May) |  |  | -17 |
+| 44 min | USD | Low | Richmond Services Index (May) |  |  | -7 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (May) |  |  | 3.8 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (May) |  |  | -19.4 |
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
