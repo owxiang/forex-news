@@ -18,5 +18,5 @@
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 53 min | USD | 5-Year Note Auction |  |  | 3.995% |
-| 18:00 | NZD | RBNZ Press Conference |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.499M |
+| 53 min | NZD | RBNZ Press Conference |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.000M | 2.499M |

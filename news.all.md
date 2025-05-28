@@ -46,7 +46,7 @@
 | 15:30 | USD | Low | Texas Services Sector Outlook (May) | -10.1 |  | -19.4 |
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 53 min | USD | Moderate | 5-Year Note Auction |  |  | 3.995% |
-| 18:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 53 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 175.00K | 71.58K |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 2.499M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 2.499M |
