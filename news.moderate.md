@@ -16,7 +16,7 @@
 | 09:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 11:00 | USD | OPEC Meeting |  |  |  |
 | 14:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 53 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 17:00 | USD | 5-Year Note Auction |  |  | 3.995% |
+| 16:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 53 min | USD | 5-Year Note Auction |  |  | 3.995% |
 | 18:00 | NZD | RBNZ Press Conference |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.499M |

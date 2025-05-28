@@ -42,10 +42,10 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) | -9 | -9 | -13 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (May) | -10 |  | -17 |
 | 15:00 | USD | Low | Richmond Services Index (May) | -11 |  | -7 |
-| 23 min | USD | Low | Dallas Fed Services Revenues (May) |  |  | 3.8 |
-| 23 min | USD | Low | Texas Services Sector Outlook (May) |  |  | -19.4 |
-| 53 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.995% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (May) | -4.7 |  | 3.8 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (May) | -10.1 |  | -19.4 |
+| 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 53 min | USD | Moderate | 5-Year Note Auction |  |  | 3.995% |
 | 18:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 175.00K | 71.58K |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
