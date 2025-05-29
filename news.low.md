@@ -17,21 +17,21 @@
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Apr) | 2.18B |  | 5.96B |
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
-| 10:30 | ZAR | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
 | 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
+| 10:30 | ZAR | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) | 0.7% |  | 0.6% |
-| 19 min | USD | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
-| 19 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 19 min | USD | GDP Sales (Q1) |  | -2.5% | 3.3% |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 231.50K |
-| 19 min | USD | PCE Prices (Q1) |  | 3.6% | 2.4% |
-| 19 min | USD | Real Consumer Spending (Q1) |  | 1.8% | 4.0% |
-| 19 min | CAD | Average Weekly Earnings (YoY) (Mar) |  |  | 5.40% |
-| 49 min | ZAR | Prime Rate (May) |  |  | 11.00% |
-| 15:00 | USD | Pending Home Sales Index (Apr) |  |  | 76.5 |
+| 13:30 | USD | Corporate Profits (QoQ) (Q1) | -3.6% | 5.9% | -0.4% |
+| 13:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:30 | USD | GDP Sales (Q1) | -2.9% | -2.5% | 3.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 230.75K |  | 231.00K |
+| 13:30 | USD | PCE Prices (Q1) | 3.6% | 3.6% | 2.4% |
+| 13:30 | USD | Real Consumer Spending (Q1) | 1.2% | 1.8% | 4.0% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) | 4.31% |  | 5.14% |
+| 14:00 | ZAR | Prime Rate (May) | 10.75% |  | 11.00% |
+| 46 min | USD | Pending Home Sales Index (Apr) |  |  | 76.5 |
 | 15:30 | USD | Natural Gas Storage |  | 98B | 120B |
 | 15:40 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
