@@ -19,8 +19,8 @@
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
 | 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 0.6% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
