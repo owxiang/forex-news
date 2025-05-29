@@ -24,23 +24,23 @@
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
-| 24 min | BRL | Low | Bank lending (MoM) (Apr) |  |  | 0.6% |
-| 54 min | BRL | Moderate | Unemployment Rate (Apr) |  | 6.9% | 7.0% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,903K |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.50% | 2.60% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
-| 13:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | -0.3% | 2.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.7% | 2.3% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  | -2.5% | 3.3% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 229K | 227K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 231.50K |
-| 13:30 | USD | Low | PCE Prices (Q1) |  | 3.6% | 2.4% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 1.8% | 4.0% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Mar) |  |  | 5.40% |
-| 13:30 | CAD | Moderate | Current Account (Q1) |  | -3.4B | -5.0B |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (May) |  | 7.25% | 7.50% |
-| 14:00 | ZAR | Low | Prime Rate (May) |  |  | 11.00% |
+| 12:30 | BRL | Low | Bank lending (MoM) (Apr) | 0.7% |  | 0.6% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 6.6% | 6.9% | 7.0% |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,903K |
+| 19 min | USD | Moderate | Core PCE Prices (Q1) |  | 3.50% | 2.60% |
+| 19 min | USD | Low | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
+| 19 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 19 min | USD | High | GDP (QoQ) (Q1) |  | -0.3% | 2.4% |
+| 19 min | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.7% | 2.3% |
+| 19 min | USD | Low | GDP Sales (Q1) |  | -2.5% | 3.3% |
+| 19 min | USD | High | Initial Jobless Claims |  | 229K | 227K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 231.50K |
+| 19 min | USD | Low | PCE Prices (Q1) |  | 3.6% | 2.4% |
+| 19 min | USD | Low | Real Consumer Spending (Q1) |  | 1.8% | 4.0% |
+| 19 min | CAD | Low | Average Weekly Earnings (YoY) (Mar) |  |  | 5.40% |
+| 19 min | CAD | Moderate | Current Account (Q1) |  | -3.4B | -5.0B |
+| 49 min | ZAR | Moderate | Interest Rate Decision (May) |  | 7.25% | 7.50% |
+| 49 min | ZAR | Low | Prime Rate (May) |  |  | 11.00% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | -0.9% | 6.1% |
 | 15:00 | USD | Low | Pending Home Sales Index (Apr) |  |  | 76.5 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 98B | 120B |
