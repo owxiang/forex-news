@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Foreign Bonds Buying |  |  | 2,824.6B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 714.9B |
-| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (May) |  | 2.50% | 2.75% |
-| 02:00 | NZD | ANZ Business Confidence (May) |  |  | 49.3 |
-| 02:00 | NZD | NBNZ Own Activity (May) |  |  | 47.7% |
+| 00:50 | JPY | Foreign Bonds Buying | 92.0B |  | 2,833.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 309.3B |  | 715.3B |
+| 30 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 30 min | KRW | Interest Rate Decision (May) |  | 2.50% | 2.75% |
+| 30 min | NZD | ANZ Business Confidence (May) |  |  | 49.3 |
+| 30 min | NZD | NBNZ Own Activity (May) |  |  | 47.7% |
 | 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) |  |  | 0.2% |
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.8% |
 | 06:00 | JPY | Household Confidence (May) |  | 31.8 | 31.2 |
