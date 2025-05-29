@@ -17,8 +17,8 @@
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Apr) | 2.18B |  | 5.96B |
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
-| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 10:30 | ZAR | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
+| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
@@ -31,9 +31,9 @@
 | 13:30 | USD | Real Consumer Spending (Q1) | 1.2% | 1.8% | 4.0% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) | 4.31% |  | 5.14% |
 | 14:00 | ZAR | Prime Rate (May) | 10.75% |  | 11.00% |
-| 46 min | USD | Pending Home Sales Index (Apr) |  |  | 76.5 |
-| 15:30 | USD | Natural Gas Storage |  | 98B | 120B |
-| 15:40 | USD | Fed Goolsbee Speaks |  |  |  |
+| 15:00 | USD | Pending Home Sales Index (Apr) | 71.3 |  | 76.1 |
+| 23 min | USD | Natural Gas Storage |  | 98B | 120B |
+| 33 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.235% |
 | 17:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.089M |

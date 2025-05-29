@@ -19,8 +19,8 @@
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) | 2.18B |  | 5.96B |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.57% |  | 3.62% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
@@ -41,11 +41,11 @@
 | 13:30 | CAD | Moderate | Current Account (Q1) | -2.1B | -3.4B | -3.6B |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (May) | 7.25% | 7.25% | 7.50% |
 | 14:00 | ZAR | Low | Prime Rate (May) | 10.75% |  | 11.00% |
-| 46 min | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | -0.9% | 6.1% |
-| 46 min | USD | Low | Pending Home Sales Index (Apr) |  |  | 76.5 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 98B | 120B |
-| 15:40 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) | -6.3% | -0.9% | 5.5% |
+| 15:00 | USD | Low | Pending Home Sales Index (Apr) | 71.3 |  | 76.1 |
+| 23 min | USD | Low | Natural Gas Storage |  | 98B | 120B |
+| 33 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 53 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
 | 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.123% |
