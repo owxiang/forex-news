@@ -16,4 +16,4 @@
 | 18:00 | USD | 7-Year Note Auction | 4.194% |  | 4.123% |
 | 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 22 min | USD | Fed's Balance Sheet |  |  | 6,689B |
+| 21:30 | USD | Fed's Balance Sheet | 6,673B |  | 6,689B |
