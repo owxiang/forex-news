@@ -17,8 +17,8 @@
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.96B |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
-| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
 | 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
+| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
