@@ -11,7 +11,7 @@
 | 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) | 0.9% |  | 0.2% |
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | -1.3% |  | -0.6% |
 | 06:00 | JPY | Household Confidence (May) | 32.8 | 31.8 | 31.2 |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 3.6% |
+| 50 min | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 3.6% |
 | 09:00 | EUR | Italian Business Confidence (May) |  | 86.2 | 85.7 |
 | 09:00 | EUR | Italian Consumer Confidence (May) |  | 93.0 | 92.7 |
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |
@@ -19,8 +19,8 @@
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
 | 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 0.6% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
