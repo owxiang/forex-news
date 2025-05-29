@@ -1,19 +1,44 @@
-## 29 May 2025 - Moderate Impact Forex News
+## 30 May 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | -0.1% | 0.5% | 0.2% |
-| 10:10 | EUR | Italian 10-Year BTP Auction | 3.57% |  | 3.62% |
-| 13:00 | BRL | Unemployment Rate (Apr) | 6.6% | 6.9% | 7.0% |
-| 13:30 | USD | Continuing Jobless Claims | 1,919K | 1,890K | 1,893K |
-| 13:30 | USD | Core PCE Prices (Q1) | 3.40% | 3.50% | 2.60% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.7% | 3.7% | 2.3% |
-| 13:30 | CAD | Current Account (Q1) | -2.1B | -3.4B | -3.6B |
-| 14:00 | ZAR | Interest Rate Decision (May) | 7.25% | 7.25% | 7.50% |
-| 15:00 | USD | Pending Home Sales (MoM) (Apr) | -6.3% | -0.9% | 5.5% |
-| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 17:00 | USD | Cushing Crude Oil Inventories | 0.075M |  | -0.457M |
-| 18:00 | USD | 7-Year Note Auction | 4.194% |  | 4.123% |
-| 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 6,673B |  | 6,689B |
+| 24 min | JPY | Tokyo Core CPI (YoY) (May) |  | 3.5% | 3.4% |
+| 44 min | JPY | Industrial Production (MoM) (Apr) |  | -1.4% | 0.2% |
+| 02:30 | AUD | Building Approvals (MoM) (Apr) |  | 3.1% | -8.8% |
+| 02:30 | AUD | Retail Sales (MoM) (Apr) |  | 0.3% | 0.3% |
+| 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | 0.3% | -0.2% |
+| 08:00 | CHF | KOF Leading Indicators (May) |  | 98.3 | 97.1 |
+| 08:00 | EUR | Spanish CPI (YoY) (May) |  | 2.1% | 2.2% |
+| 08:00 | EUR | Spanish HICP (YoY) (May) |  | 2.0% | 2.2% |
+| 11:30 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 76.2% | 75.9% |
+| 13:00 | EUR | German CPI (YoY) (May) |  | 2.0% | 2.1% |
+| 13:00 | BRL | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
+| 13:00 | BRL | GDP (QoQ) (Q1) |  | 1.4% | 0.2% |
+| 13:30 | USD | Goods Trade Balance (Apr) |  | -142.80B | -161.99B |
+| 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.2% | 2.3% |
+| 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.0% |
+| 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.2% | 0.7% |
+| 13:30 | USD | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
+| 13:30 | CAD | GDP (MoM) (Mar) |  | 0.1% | -0.2% |
+| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 2.36% |
+| 13:30 | CAD | GDP (QoQ) (Q1) |  |  | 0.6% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 1.7% | 2.6% |
+| 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  | 7.3% | 6.5% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  | 4.6% | 4.4% |
+| 15:00 | USD | Michigan Consumer Expectations (May) |  | 46.5 | 47.3 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 50.8 | 52.2 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.2% | 2.2% |
+| 17:20 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 465 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 566 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 24.0K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 186.4K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 164.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 14.5K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -96.6K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -59.1K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 26.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 167.3K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 74.5K |
