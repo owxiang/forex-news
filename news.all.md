@@ -19,13 +19,13 @@
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) | 2.18B |  | 5.96B |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.57% |  | 3.62% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
-| 52 min | BRL | Low | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
-| 12:30 | BRL | Low | Bank lending (MoM) (Apr) |  |  | 0.6% |
-| 13:00 | BRL | Moderate | Unemployment Rate (Apr) |  | 6.9% | 7.0% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
+| 24 min | BRL | Low | Bank lending (MoM) (Apr) |  |  | 0.6% |
+| 54 min | BRL | Moderate | Unemployment Rate (Apr) |  | 6.9% | 7.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,890K | 1,903K |
 | 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.50% | 2.60% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
