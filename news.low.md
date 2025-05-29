@@ -14,13 +14,13 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) | 4.0% |  | 3.8% |
 | 09:00 | EUR | Italian Business Confidence (May) | 86.5 | 86.2 | 85.8 |
 | 09:00 | EUR | Italian Consumer Confidence (May) | 96.5 | 93.0 | 92.7 |
-| 51 min | GBP | BoE Breeden Speaks |  |  |  |
-| 51 min | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.96B |
-| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
-| 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
-| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
+| 10:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) | 2.18B |  | 5.96B |
+| 3 min | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
+| 23 min | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
+| 23 min | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
+| 53 min | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
+| 53 min | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 0.6% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |
