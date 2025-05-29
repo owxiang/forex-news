@@ -59,8 +59,8 @@
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.5% |
 | 17:00 | USD | Low | Gasoline Inventories | -2.441M | 0.100M | 0.816M |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.194% |  | 4.123% |
-| 51 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 20:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,689B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.284T |
 | 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | 9.6% |

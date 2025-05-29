@@ -14,6 +14,6 @@
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:00 | USD | Cushing Crude Oil Inventories | 0.075M |  | -0.457M |
 | 18:00 | USD | 7-Year Note Auction | 4.194% |  | 4.123% |
-| 51 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 54 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,689B |
