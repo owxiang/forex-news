@@ -12,8 +12,8 @@
 | 14:00 | ZAR | Interest Rate Decision (May) | 7.25% | 7.25% | 7.50% |
 | 15:00 | USD | Pending Home Sales (MoM) (Apr) | -6.3% | -0.9% | 5.5% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 53 min | USD | Cushing Crude Oil Inventories |  |  | -0.457M |
-| 18:00 | USD | 7-Year Note Auction |  |  | 4.123% |
+| 17:00 | USD | Cushing Crude Oil Inventories | 0.075M |  | -0.457M |
+| 52 min | USD | 7-Year Note Auction |  |  | 4.123% |
 | 20:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,689B |

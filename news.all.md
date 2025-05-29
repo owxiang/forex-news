@@ -21,8 +21,8 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
 | 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Apr) | 0.7% |  | 0.6% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 6.6% | 6.9% | 7.0% |
@@ -46,19 +46,19 @@
 | 15:30 | USD | Low | Natural Gas Storage | 101B | 98B | 120B |
 | 15:40 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.220% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.235% |
-| 53 min | USD | High | Crude Oil Inventories |  | 1.000M | 1.328M |
-| 53 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.089M |
-| 53 min | USD | Low | Crude Oil Imports |  |  | 0.110M |
-| 53 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.457M |
-| 53 min | USD | Low | Distillate Fuel Production |  |  | 0.131M |
-| 53 min | USD | Low | EIA Weekly Distillates Stocks |  | 1.000M | 0.579M |
-| 53 min | USD | Low | Gasoline Production |  |  | 0.178M |
-| 53 min | USD | Low | Heating Oil Stockpiles |  |  | -0.348M |
-| 53 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 53 min | USD | Low | Gasoline Inventories |  | 0.100M | 0.816M |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.123% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.215% |  | 4.220% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.235% |
+| 17:00 | USD | High | Crude Oil Inventories | -2.795M | 1.000M | 1.328M |
+| 17:00 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.162M |  | 0.089M |
+| 17:00 | USD | Low | Crude Oil Imports | -0.532M |  | 0.110M |
+| 17:00 | USD | Moderate | Cushing Crude Oil Inventories | 0.075M |  | -0.457M |
+| 17:00 | USD | Low | Distillate Fuel Production | 0.100M |  | 0.131M |
+| 17:00 | USD | Low | EIA Weekly Distillates Stocks | -0.724M | 1.000M | 0.579M |
+| 17:00 | USD | Low | Gasoline Production | 0.190M |  | 0.178M |
+| 17:00 | USD | Low | Heating Oil Stockpiles | -0.006M |  | -0.348M |
+| 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.5% |
+| 17:00 | USD | Low | Gasoline Inventories | -2.441M | 0.100M | 0.816M |
+| 52 min | USD | Moderate | 7-Year Note Auction |  |  | 4.123% |
 | 20:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,689B |

@@ -19,8 +19,8 @@
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
 | 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 10:30 | ZAR | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) | 0.7% |  | 0.6% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) | -3.6% | 5.9% | -0.4% |
@@ -34,15 +34,15 @@
 | 15:00 | USD | Pending Home Sales Index (Apr) | 71.3 |  | 76.1 |
 | 15:30 | USD | Natural Gas Storage | 101B | 98B | 120B |
 | 15:40 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.220% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.235% |
-| 53 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.089M |
-| 53 min | USD | Crude Oil Imports |  |  | 0.110M |
-| 53 min | USD | Distillate Fuel Production |  |  | 0.131M |
-| 53 min | USD | EIA Weekly Distillates Stocks |  | 1.000M | 0.579M |
-| 53 min | USD | Gasoline Production |  |  | 0.178M |
-| 53 min | USD | Heating Oil Stockpiles |  |  | -0.348M |
-| 53 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.5% |
-| 53 min | USD | Gasoline Inventories |  | 0.100M | 0.816M |
+| 16:30 | USD | 4-Week Bill Auction | 4.215% |  | 4.220% |
+| 16:30 | USD | 8-Week Bill Auction | 4.225% |  | 4.235% |
+| 17:00 | USD | EIA Refinery Crude Runs (WoW) | -0.162M |  | 0.089M |
+| 17:00 | USD | Crude Oil Imports | -0.532M |  | 0.110M |
+| 17:00 | USD | Distillate Fuel Production | 0.100M |  | 0.131M |
+| 17:00 | USD | EIA Weekly Distillates Stocks | -0.724M | 1.000M | 0.579M |
+| 17:00 | USD | Gasoline Production | 0.190M |  | 0.178M |
+| 17:00 | USD | Heating Oil Stockpiles | -0.006M |  | -0.348M |
+| 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.5% |
+| 17:00 | USD | Gasoline Inventories | -2.441M | 0.100M | 0.816M |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.284T |
 | 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | 9.6% |
