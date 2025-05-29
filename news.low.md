@@ -19,8 +19,8 @@
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
 | 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 10:30 | ZAR | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) | 0.7% |  | 0.6% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) | -3.6% | 5.9% | -0.4% |
@@ -44,5 +44,5 @@
 | 17:00 | USD | Heating Oil Stockpiles | -0.006M |  | -0.348M |
 | 17:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.5% |
 | 17:00 | USD | Gasoline Inventories | -2.441M | 0.100M | 0.816M |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.284T |
+| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.284T |
 | 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | 9.6% |

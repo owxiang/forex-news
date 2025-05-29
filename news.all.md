@@ -21,8 +21,8 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.73% |  | 2.74% |
 | 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) | 0.5% |  | 0.5% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -1.10% |  | -1.60% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -1.60% |  | -0.40% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | -0.49% |  | 0.24% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Apr) | 0.7% |  | 0.6% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 6.6% | 6.9% | 7.0% |
@@ -60,7 +60,7 @@
 | 17:00 | USD | Low | Gasoline Inventories | -2.441M | 0.100M | 0.816M |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.194% |  | 4.123% |
 | 20:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 54 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,689B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.284T |
+| 21:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,689B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.284T |
 | 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | 9.6% |
