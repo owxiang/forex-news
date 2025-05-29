@@ -58,7 +58,7 @@
 | 17:00 | USD | Low | Heating Oil Stockpiles | -0.006M |  | -0.348M |
 | 17:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.5% |
 | 17:00 | USD | Low | Gasoline Inventories | -2.441M | 0.100M | 0.816M |
-| 52 min | USD | Moderate | 7-Year Note Auction |  |  | 4.123% |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.123% |
 | 20:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,689B |
