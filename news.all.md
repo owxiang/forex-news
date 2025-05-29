@@ -11,7 +11,7 @@
 | 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) | 0.9% |  | 0.2% |
 | 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) | -1.3% |  | -0.8% |
 | 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) | -0.1% | 0.5% | -0.2% |
-| 06:00 | JPY | Low | Household Confidence (May) |  | 31.8 | 31.2 |
+| 50 min | JPY | Low | Household Confidence (May) |  | 31.8 | 31.2 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Apr) |  |  | 3.6% |
 | 09:00 | EUR | Low | Italian Business Confidence (May) |  | 86.2 | 85.7 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (May) |  | 93.0 | 92.7 |
@@ -21,8 +21,8 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
 | 10:30 | ZAR | Low | PPI (MoM) (Apr) |  |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) |  |  | 0.5% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Apr) |  |  | 0.6% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) |  | 6.9% | 7.0% |
