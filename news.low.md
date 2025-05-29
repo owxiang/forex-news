@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | 92.0B |  | 2,833.9B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 309.3B |  | 715.3B |
-| 30 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 30 min | KRW | Interest Rate Decision (May) |  | 2.50% | 2.75% |
-| 30 min | NZD | ANZ Business Confidence (May) |  |  | 49.3 |
-| 30 min | NZD | NBNZ Own Activity (May) |  |  | 47.7% |
-| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) |  |  | 0.2% |
-| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.8% |
+| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 02:00 | KRW | Interest Rate Decision (May) | 2.50% | 2.50% | 2.75% |
+| 02:00 | NZD | ANZ Business Confidence (May) | 36.6 |  | 49.3 |
+| 02:00 | NZD | NBNZ Own Activity (May) | 34.8% |  | 47.7% |
+| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) | 0.9% |  | 0.2% |
+| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | -1.3% |  | -0.8% |
 | 06:00 | JPY | Household Confidence (May) |  | 31.8 | 31.2 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 3.6% |
 | 09:00 | EUR | Italian Business Confidence (May) |  | 86.2 | 85.7 |
@@ -17,10 +17,10 @@
 | 10:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.96B |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.74% |
-| 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
 | 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 0.5% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
+| 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 0.6% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
 | 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 0.6% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 5.9% | -0.4% |

@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 92.0B |  | 2,833.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 309.3B |  | 715.3B |
-| 30 min | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 30 min | KRW | Low | Interest Rate Decision (May) |  | 2.50% | 2.75% |
-| 30 min | NZD | Low | ANZ Business Confidence (May) |  |  | 49.3 |
-| 30 min | NZD | Low | NBNZ Own Activity (May) |  |  | 47.7% |
-| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) |  |  | 0.2% |
-| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.8% |
-| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) |  | 0.5% | -0.2% |
+| 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 02:00 | KRW | Low | Interest Rate Decision (May) | 2.50% | 2.50% | 2.75% |
+| 02:00 | NZD | Low | ANZ Business Confidence (May) | 36.6 |  | 49.3 |
+| 02:00 | NZD | Low | NBNZ Own Activity (May) | 34.8% |  | 47.7% |
+| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) | 0.9% |  | 0.2% |
+| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) | -1.3% |  | -0.8% |
+| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) | -0.1% | 0.5% | -0.2% |
 | 06:00 | JPY | Low | Household Confidence (May) |  | 31.8 | 31.2 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Apr) |  |  | 3.6% |
 | 09:00 | EUR | Low | Italian Business Confidence (May) |  | 86.2 | 85.7 |
@@ -19,10 +19,10 @@
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) |  |  | 5.96B |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.62% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.74% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) |  |  | 0.6% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) |  |  | 0.5% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) |  |  | 0.6% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) |  |  | -1.50% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) |  |  | -0.40% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) |  |  | -0.34% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Apr) |  |  | 0.6% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) |  | 6.9% | 7.0% |

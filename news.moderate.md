@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) |  | 0.5% | -0.2% |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | -0.1% | 0.5% | -0.2% |
 | 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.62% |
 | 13:00 | BRL | Unemployment Rate (Apr) |  | 6.9% | 7.0% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,903K |
