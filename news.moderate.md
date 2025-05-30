@@ -10,11 +10,11 @@
 | 08:00 | CHF | KOF Leading Indicators (May) | 98.5 | 98.3 | 97.1 |
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 1.9% | 2.1% | 2.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 1.9% | 2.0% | 2.2% |
-| 23 min | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 76.2% | 75.9% |
-| 13:00 | EUR | German CPI (YoY) (May) |  | 2.0% | 2.1% |
-| 13:00 | BRL | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
-| 13:00 | BRL | GDP (QoQ) (Q1) |  | 1.4% | 0.2% |
+| 11:30 | INR | GDP Quarterly (YoY) (Q4) | 7.4% | 6.7% | 6.2% |
+| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 76.2% | 75.9% |
+| 54 min | EUR | German CPI (YoY) (May) |  | 2.0% | 2.1% |
+| 54 min | BRL | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
+| 54 min | BRL | GDP (QoQ) (Q1) |  | 1.4% | 0.2% |
 | 13:30 | USD | Goods Trade Balance (Apr) |  | -142.80B | -161.99B |
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.2% | 2.3% |
 | 13:30 | USD | PCE price index (MoM) (Apr) |  | 0.1% | 0.0% |
