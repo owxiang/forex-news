@@ -13,22 +13,22 @@
 | 11:30 | INR | GDP Quarterly (YoY) (Q4) | 7.4% | 6.7% | 6.4% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) | 76.2% | 76.2% | 75.9% |
 | 13:00 | EUR | German CPI (YoY) (May) | 2.1% | 2.0% | 2.1% |
-| 13:00 | BRL | GDP (QoQ) (Q1) | 1.4% | 1.4% | 0.2% |
+| 13:00 | BRL | GDP (QoQ) (Q1) | 1.4% | 1.4% | 0.1% |
 | 13:00 | BRL | GDP (YoY) (Q1) | 2.9% | 3.2% | 3.6% |
-| 19 min | USD | Goods Trade Balance (Apr) |  | -142.80B | -161.99B |
-| 19 min | USD | PCE Price index (YoY) (Apr) |  | 2.2% | 2.3% |
-| 19 min | USD | PCE price index (MoM) (Apr) |  | 0.1% | 0.0% |
-| 19 min | USD | Personal Spending (MoM) (Apr) |  | 0.2% | 0.7% |
-| 19 min | USD | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
-| 19 min | CAD | GDP (QoQ) (Q1) |  |  | 0.6% |
-| 19 min | CAD | GDP (MoM) (Mar) |  | 0.1% | -0.2% |
-| 19 min | CAD | GDP (YoY) (Q1) |  |  | 2.36% |
-| 19 min | CAD | GDP Annualized (QoQ) (Q1) |  | 1.7% | 2.6% |
-| 20 min | CAD | GDP (MoM) (Apr) |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  | 7.3% | 6.5% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  | 4.6% | 4.4% |
-| 15:00 | USD | Michigan Consumer Expectations (May) |  | 46.5 | 47.3 |
-| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 50.8 | 52.2 |
+| 13:30 | USD | Goods Trade Balance (Apr) | -87.62B | -142.80B | -162.25B |
+| 13:30 | USD | PCE Price index (YoY) (Apr) | 2.1% | 2.2% | 2.3% |
+| 13:30 | USD | PCE price index (MoM) (Apr) | 0.1% | 0.1% | 0.0% |
+| 13:30 | USD | Personal Spending (MoM) (Apr) | 0.2% | 0.2% | 0.7% |
+| 13:30 | USD | Retail Inventories Ex Auto (Apr) | 0.3% |  | 0.3% |
+| 13:30 | CAD | GDP (MoM) (Mar) | 0.1% | 0.1% | -0.2% |
+| 13:30 | CAD | GDP (YoY) (Q1) | 2.31% |  | 2.29% |
+| 13:30 | CAD | GDP (QoQ) (Q1) | 0.5% |  | 0.5% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q1) | 2.2% | 1.7% | 2.1% |
+| 13:31 | CAD | GDP (MoM) (Apr) | 0.1% |  | 0.1% |
+| 45 min | USD | Michigan 1-Year Inflation Expectations (May) |  | 7.3% | 6.5% |
+| 45 min | USD | Michigan 5-Year Inflation Expectations (May) |  | 4.6% | 4.4% |
+| 45 min | USD | Michigan Consumer Expectations (May) |  | 46.5 | 47.3 |
+| 45 min | USD | Michigan Consumer Sentiment (May) |  | 50.8 | 52.2 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.2% | 2.2% |
 | 17:20 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 465 |
