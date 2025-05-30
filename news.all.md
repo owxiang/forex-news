@@ -49,8 +49,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
@@ -86,8 +86,8 @@
 | 13:00 | INR | Low | Federal Fiscal Deficit (Mar) | 15,772.70B |  | 13,468.52B |
 | 13:00 | EUR | Moderate | German CPI (YoY) (May) | 2.1% | 2.0% | 2.1% |
 | 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
-| 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.1% | 0.5% |
 | 13:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.0% | 2.2% |
+| 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.1% | 0.5% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 1.4% | 1.4% | 0.1% |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.9% | 3.2% | 3.6% |
 | 13:00 | ZAR | Low | Trade Balance (Apr) | 14.08B |  | 22.65B |
@@ -103,9 +103,9 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.3% |  | 0.3% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Apr) | 0.0% | 0.4% | 0.4% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) | 0.60% |  | 0.90% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q1) | 2.31% |  | 2.29% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) | 0.5% |  | 0.5% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Mar) | 0.1% | 0.1% | -0.2% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q1) | 2.31% |  | 2.29% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) | 2.2% | 1.7% | 2.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) | 0.1% |  | 0.1% |
 | 14:45 | USD | High | Chicago PMI (May) | 40.5 | 45.1 | 44.6 |
@@ -117,9 +117,9 @@
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.8% | 2.2% | 2.2% |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Mar) | -43.15B |  | -19.27B |
 | 16:00 | CAD | Low | Budget Balance (Mar) | -23.88B |  | 7.57B |
-| 17:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 465 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 566 |
+| 12 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 465 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 566 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 24.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.2K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 21.0K |

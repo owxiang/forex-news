@@ -41,8 +41,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
@@ -74,8 +74,8 @@
 | 13:00 | MXN | Unemployment Rate (Apr) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Apr) | 2.50% | 2.50% | 2.20% |
 | 13:00 | INR | Federal Fiscal Deficit (Mar) | 15,772.70B |  | 13,468.52B |
-| 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.1% | 0.5% |
 | 13:00 | EUR | German HICP (YoY) (May) | 2.1% | 2.0% | 2.2% |
+| 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.1% | 0.5% |
 | 13:00 | ZAR | Trade Balance (Apr) | 14.08B |  | 22.65B |
 | 13:01 | INR | Federal Fiscal Deficit (Apr) | 1,863.30B |  | 15,772.70B |
 | 13:30 | USD | Personal Income (MoM) (Apr) | 0.8% | 0.3% | 0.7% |
