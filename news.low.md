@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Apr) | -0.9% | 0.5% | 2.9% |
 | 00:00 | KRW | Industrial Production (YoY) (Apr) | 4.9% | 4.2% | 5.3% |
+| 00:00 | KRW | Industrial Production (MoM) (Apr) | -0.9% | 0.5% | 2.9% |
 | 00:00 | KRW | Retail Sales (MoM) (Apr) | -0.9% |  | -1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | -0.1% |  | -0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 2.1% |  | 2.0% |
@@ -26,29 +26,29 @@
 | 04:35 | JPY | 2-Year JGB Auction | 0.752% |  | 0.691% |
 | 06:00 | JPY | Construction Orders (YoY) (Apr) | 52.7% |  | 3.5% |
 | 06:00 | JPY | Housing Starts (YoY) (Apr) | -26.6% | -18.2% | 39.1% |
-| 53 min | EUR | German Retail Sales (YoY) (Apr) |  | 1.8% | 2.2% |
-| 53 min | NOK | Unemployment Change (May) |  |  | 78.06K |
-| 53 min | NOK | Unemployment Rate n.s.a. (May) |  | 1.90% | 2.00% |
-| 53 min | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 5.75% |
-| 53 min | ZAR | Private Sector Credit (Apr) |  |  | 3.45% |
-| 08:00 | CHF | Official Reserves Assets (Apr) |  |  | 830.1B |
-| 08:00 | EUR | Core CPI (YoY) (May) |  |  | 2.4% |
-| 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.1% | 0.6% |
-| 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.0% | 0.6% |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
+| 07:00 | EUR | German Retail Sales (YoY) (Apr) | 2.3% | 1.8% | 1.3% |
+| 07:00 | NOK | Unemployment Change (May) | 63.38K |  | 78.06K |
+| 07:00 | NOK | Unemployment Rate n.s.a. (May) | 2.00% | 1.90% | 2.00% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Apr) | 6.12% |  | 5.75% |
+| 07:00 | ZAR | Private Sector Credit (Apr) | 4.60% |  | 3.45% |
+| 50 min | CHF | Official Reserves Assets (Apr) |  |  | 830.1B |
+| 50 min | EUR | Core CPI (YoY) (May) |  |  | 2.4% |
+| 50 min | EUR | Spanish CPI (MoM) (May) |  | 0.1% | 0.6% |
+| 50 min | EUR | Spanish HICP (MoM) (May) |  | 0.0% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 2.3% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.5% |
+| 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.4% |
 | 09:00 | EUR | Spanish Current account (Mar) |  |  | 2.31B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
 | 09:00 | EUR | M3 Money Supply (Apr) |  |  | 16,845.5B |
@@ -56,12 +56,12 @@
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
 | 09:30 | HKD | M3 Money Supply (Apr) |  |  | 7.7% |
-| 10:00 | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
 | 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
+| 10:00 | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
 | 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
-| 11:00 | EUR | Italian PPI (YoY) (Apr) |  |  | 3.9% |
+| 10:00 | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
 | 11:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -2.4% |
+| 11:00 | EUR | Italian PPI (YoY) (Apr) |  |  | 3.9% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
 | 12:30 | INR | FX Reserves, USD |  |  | 685.73B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
