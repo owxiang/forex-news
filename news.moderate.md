@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (May) | 3.6% | 3.5% | 3.4% |
 | 00:50 | JPY | Industrial Production (MoM) (Apr) | -0.9% | -1.4% | 0.2% |
-| 02:30 | AUD | Building Approvals (MoM) (Apr) | -5.7% | 3.1% | -8.8% |
+| 02:30 | AUD | Building Approvals (MoM) (Apr) | -5.7% | 3.1% | -7.1% |
 | 02:30 | AUD | Retail Sales (MoM) (Apr) | -0.1% | 0.3% | 0.3% |
 | 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | 0.3% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (May) |  | 98.3 | 97.1 |
