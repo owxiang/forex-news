@@ -13,16 +13,16 @@
 | 11:30 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 76.2% | 75.9% |
 | 13:00 | EUR | German CPI (YoY) (May) |  | 2.0% | 2.1% |
-| 13:00 | BRL | GDP (QoQ) (Q1) |  | 1.4% | 0.2% |
 | 13:00 | BRL | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
+| 13:00 | BRL | GDP (QoQ) (Q1) |  | 1.4% | 0.2% |
 | 13:30 | USD | Goods Trade Balance (Apr) |  | -142.80B | -161.99B |
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.2% | 2.3% |
 | 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.0% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.2% | 0.7% |
 | 13:30 | USD | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
-| 13:30 | CAD | GDP (MoM) (Mar) |  | 0.1% | -0.2% |
 | 13:30 | CAD | GDP (YoY) (Q1) |  |  | 2.36% |
 | 13:30 | CAD | GDP (QoQ) (Q1) |  |  | 0.6% |
+| 13:30 | CAD | GDP (MoM) (Mar) |  | 0.1% | -0.2% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 1.7% | 2.6% |
 | 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  | 7.3% | 6.5% |
