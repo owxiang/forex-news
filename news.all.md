@@ -49,8 +49,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) | 2.2% |  | 2.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
@@ -64,8 +64,8 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Apr) | 1.9% | 1.8% | 1.7% |
 | 09:30 | HKD | Low | M3 Money Supply (Apr) | 6.6% |  | 7.7% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (May) | 1.7% | 1.7% | 1.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) | 0.0% | 0.1% | 0.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (May) | 1.7% | 1.7% | 1.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) | 1.9% | 1.9% | 2.0% |
 | 10:12 | ZAR | Low | Budget Balance (MoM) (Apr) | -64.63B |  | -13.11B |
@@ -84,10 +84,10 @@
 | 13:00 | MXN | Low | Unemployment Rate (Apr) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Apr) | 2.50% | 2.50% | 2.20% |
 | 13:00 | INR | Low | Federal Fiscal Deficit (Mar) | 15,772.70B |  | 13,468.52B |
-| 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (May) | 2.1% | 2.0% | 2.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.0% | 2.2% |
+| 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.1% | 0.5% |
+| 13:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.0% | 2.2% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 1.4% | 1.4% | 0.1% |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.9% | 3.2% | 3.6% |
 | 13:00 | ZAR | Low | Trade Balance (Apr) | 14.08B |  | 22.65B |
@@ -108,14 +108,14 @@
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) | 0.5% |  | 0.5% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) | 2.2% | 1.7% | 2.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) | 0.1% |  | 0.1% |
-| 30 min | USD | High | Chicago PMI (May) |  | 45.1 | 44.6 |
-| 45 min | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  | 7.3% | 6.5% |
-| 45 min | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  | 4.6% | 4.4% |
-| 45 min | USD | Moderate | Michigan Consumer Expectations (May) |  | 46.5 | 47.3 |
-| 45 min | USD | Moderate | Michigan Consumer Sentiment (May) |  | 50.8 | 52.2 |
-| 45 min | USD | Low | Michigan Current Conditions (May) |  | 57.6 | 59.8 |
-| 16:00 | CAD | Low | Budget Balance (Mar) |  |  | 7.57B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -19.27B |
+| 14:45 | USD | High | Chicago PMI (May) | 40.5 | 45.1 | 44.6 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) | 6.6% | 7.3% | 6.5% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) | 4.2% | 4.6% | 4.4% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (May) | 47.9 | 46.5 | 47.3 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) | 52.2 | 50.8 | 52.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (May) | 58.9 | 57.6 | 59.8 |
+| 53 min | CAD | Low | Budget Balance (Mar) |  |  | 7.57B |
+| 53 min | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -19.27B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.2% | 2.2% |
 | 17:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 465 |

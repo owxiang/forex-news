@@ -41,8 +41,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.2% |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
@@ -56,8 +56,8 @@
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Apr) | 1.9% | 1.8% | 1.7% |
 | 09:30 | HKD | M3 Money Supply (Apr) | 6.6% |  | 7.7% |
-| 10:00 | EUR | Italian CPI (YoY) (May) | 1.7% | 1.7% | 1.9% |
 | 10:00 | EUR | Italian CPI (MoM) (May) | 0.0% | 0.1% | 0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (May) | 1.7% | 1.7% | 1.9% |
 | 10:00 | EUR | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
 | 10:00 | EUR | Italian HICP (YoY) (May) | 1.9% | 1.9% | 2.0% |
 | 10:12 | ZAR | Budget Balance (MoM) (Apr) | -64.63B |  | -13.11B |
@@ -74,17 +74,17 @@
 | 13:00 | MXN | Unemployment Rate (Apr) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Apr) | 2.50% | 2.50% | 2.20% |
 | 13:00 | INR | Federal Fiscal Deficit (Mar) | 15,772.70B |  | 13,468.52B |
-| 13:00 | EUR | German HICP (YoY) (May) | 2.1% | 2.0% | 2.2% |
 | 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.1% | 0.5% |
+| 13:00 | EUR | German HICP (YoY) (May) | 2.1% | 2.0% | 2.2% |
 | 13:00 | ZAR | Trade Balance (Apr) | 14.08B |  | 22.65B |
 | 13:01 | INR | Federal Fiscal Deficit (Apr) | 1,863.30B |  | 15,772.70B |
 | 13:30 | USD | Personal Income (MoM) (Apr) | 0.8% | 0.3% | 0.7% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Apr) | 0.1% |  | 0.7% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Apr) | 0.0% | 0.4% | 0.4% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) | 0.60% |  | 0.90% |
-| 45 min | USD | Michigan Current Conditions (May) |  | 57.6 | 59.8 |
-| 16:00 | CAD | Budget Balance (Mar) |  |  | 7.57B |
-| 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -19.27B |
+| 15:00 | USD | Michigan Current Conditions (May) | 58.9 | 57.6 | 59.8 |
+| 53 min | CAD | Budget Balance (Mar) |  |  | 7.57B |
+| 53 min | CAD | Budget Balance (YoY) (Mar) |  |  | -19.27B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -11.6K |

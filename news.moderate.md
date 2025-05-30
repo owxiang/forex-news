@@ -25,10 +25,10 @@
 | 13:30 | CAD | GDP (QoQ) (Q1) | 0.5% |  | 0.5% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q1) | 2.2% | 1.7% | 2.1% |
 | 13:31 | CAD | GDP (MoM) (Apr) | 0.1% |  | 0.1% |
-| 45 min | USD | Michigan 1-Year Inflation Expectations (May) |  | 7.3% | 6.5% |
-| 45 min | USD | Michigan 5-Year Inflation Expectations (May) |  | 4.6% | 4.4% |
-| 45 min | USD | Michigan Consumer Expectations (May) |  | 46.5 | 47.3 |
-| 45 min | USD | Michigan Consumer Sentiment (May) |  | 50.8 | 52.2 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) | 6.6% | 7.3% | 6.5% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) | 4.2% | 4.6% | 4.4% |
+| 15:00 | USD | Michigan Consumer Expectations (May) | 47.9 | 46.5 | 47.3 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) | 52.2 | 50.8 | 52.2 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.2% | 2.2% |
 | 17:20 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 465 |
