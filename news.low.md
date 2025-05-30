@@ -8,7 +8,7 @@
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | -0.1% |  | -0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 2.1% |  | 2.0% |
 | 00:30 | JPY | Jobs/applications ratio (Apr) | 1.26 | 1.26 | 1.26 |
-| 00:30 | JPY | Tokyo CPI (YoY) (May) | 3.4% |  | 3.5% |
+| 00:30 | JPY | Tokyo CPI (YoY) (May) | 3.4% |  | 3.4% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (May) | 0.1% |  | 0.7% |
 | 00:30 | JPY | Unemployment Rate (Apr) | 2.5% | 2.5% | 2.5% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (May) | 9.0% |  | 1.3% |
@@ -17,10 +17,10 @@
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Apr) | 3.0% |  | 3.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Apr) | 3.3% | 2.9% | 3.1% |
 | 01:25 | USD | Fed Logan Speaks |  |  |  |
-| 02:30 | AUD | Housing Credit (Apr) |  |  | 0.5% |
-| 02:30 | AUD | Private House Approvals (Apr) |  |  | -4.5% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Apr) |  | 0.5% | 0.5% |
-| 03:00 | SGD | Bank Lending (Apr) |  |  | 846.5B |
+| 02:30 | AUD | Housing Credit (Apr) | 0.5% |  | 0.5% |
+| 02:30 | AUD | Private House Approvals (Apr) | 3.1% |  | -4.5% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Apr) | 0.7% | 0.5% | 0.5% |
+| 25 min | SGD | Bank Lending (Apr) |  |  | 846.5B |
 | 04:00 | NZD | M3 Money Supply (Apr) |  |  | 431.4B |
 | 06:00 | JPY | Construction Orders (YoY) (Apr) |  |  | 3.5% |
 | 06:00 | JPY | Housing Starts (YoY) (Apr) |  | -18.2% | 39.1% |

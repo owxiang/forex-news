@@ -9,7 +9,7 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) | 2.1% |  | 2.0% |
 | 00:30 | JPY | Low | Jobs/applications ratio (Apr) | 1.26 | 1.26 | 1.26 |
 | 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (May) | 3.6% | 3.5% | 3.4% |
-| 00:30 | JPY | Low | Tokyo CPI (YoY) (May) | 3.4% |  | 3.5% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (May) | 3.4% |  | 3.4% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (May) | 0.1% |  | 0.7% |
 | 00:30 | JPY | Low | Unemployment Rate (Apr) | 2.5% | 2.5% | 2.5% |
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (Apr) | -0.9% | -1.4% | 0.2% |
@@ -19,12 +19,12 @@
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Apr) | 3.0% |  | 3.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (Apr) | 3.3% | 2.9% | 3.1% |
 | 01:25 | USD | Low | Fed Logan Speaks |  |  |  |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | 3.1% | -8.8% |
-| 02:30 | AUD | Low | Housing Credit (Apr) |  |  | 0.5% |
-| 02:30 | AUD | Low | Private House Approvals (Apr) |  |  | -4.5% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.5% | 0.5% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (Apr) |  | 0.3% | 0.3% |
-| 03:00 | SGD | Low | Bank Lending (Apr) |  |  | 846.5B |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | 3.1% | -8.8% |
+| 02:30 | AUD | Low | Housing Credit (Apr) | 0.5% |  | 0.5% |
+| 02:30 | AUD | Low | Private House Approvals (Apr) | 3.1% |  | -4.5% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) | 0.7% | 0.5% | 0.5% |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) (Apr) | -0.1% | 0.3% | 0.3% |
+| 25 min | SGD | Low | Bank Lending (Apr) |  |  | 846.5B |
 | 04:00 | NZD | Low | M3 Money Supply (Apr) |  |  | 431.4B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) |  |  | 3.5% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Apr) |  | -18.2% | 39.1% |
