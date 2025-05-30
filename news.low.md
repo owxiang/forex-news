@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Apr) | 4.9% | 4.2% | 5.3% |
 | 00:00 | KRW | Industrial Production (MoM) (Apr) | -0.9% | 0.5% | 2.9% |
+| 00:00 | KRW | Industrial Production (YoY) (Apr) | 4.9% | 4.2% | 5.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Apr) | -0.9% |  | -0.3% |
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | -0.1% |  | -0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 2.1% |  | 2.0% |
@@ -17,13 +17,14 @@
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Apr) | 3.0% |  | 3.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Apr) | 3.3% | 2.9% | 3.1% |
 | 01:25 | USD | Fed Logan Speaks |  |  |  |
+| 02:30 | AUD | Building Approvals (YoY) (Apr) | 5.10% |  | 11.10% |
 | 02:30 | AUD | Housing Credit (Apr) | 0.5% |  | 0.4% |
 | 02:30 | AUD | Private House Approvals (Apr) | 3.1% |  | -1.9% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Apr) | 0.7% | 0.5% | 0.5% |
 | 03:00 | SGD | Bank Lending (Apr) | 841.9B |  | 846.5B |
 | 04:00 | NZD | M3 Money Supply (Apr) | 435,082.0B |  | 431.4B |
-| 06:00 | JPY | Construction Orders (YoY) (Apr) |  |  | 3.5% |
-| 06:00 | JPY | Housing Starts (YoY) (Apr) |  | -18.2% | 39.1% |
+| 51 min | JPY | Construction Orders (YoY) (Apr) |  |  | 3.5% |
+| 51 min | JPY | Housing Starts (YoY) (Apr) |  | -18.2% | 39.1% |
 | 07:00 | EUR | German Retail Sales (YoY) (Apr) |  | 1.8% | 2.2% |
 | 07:00 | NOK | Unemployment Change (May) |  |  | 78.06K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (May) |  | 1.90% | 2.00% |
@@ -39,14 +40,14 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Mar) |  |  | 2.31B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
 | 09:00 | EUR | M3 Money Supply (Apr) |  |  | 16,845.5B |
@@ -54,8 +55,8 @@
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
 | 09:30 | HKD | M3 Money Supply (Apr) |  |  | 7.7% |
-| 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
+| 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
 | 10:00 | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
 | 11:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -2.4% |
