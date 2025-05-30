@@ -36,40 +36,40 @@
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (May) | 2.00% | 1.90% | 2.00% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) | 6.12% |  | 5.75% |
 | 07:00 | ZAR | Low | Private Sector Credit (Apr) | 4.60% |  | 3.45% |
-| 50 min | CHF | Moderate | KOF Leading Indicators (May) |  | 98.3 | 97.1 |
-| 50 min | CHF | Low | Official Reserves Assets (Apr) |  |  | 830.1B |
-| 50 min | EUR | Low | Core CPI (YoY) (May) |  |  | 2.4% |
-| 50 min | EUR | Low | Spanish CPI (MoM) (May) |  | 0.1% | 0.6% |
-| 50 min | EUR | Moderate | Spanish CPI (YoY) (May) |  | 2.1% | 2.2% |
-| 50 min | EUR | Low | Spanish HICP (MoM) (May) |  | 0.0% | 0.6% |
-| 50 min | EUR | Moderate | Spanish HICP (YoY) (May) |  | 2.0% | 2.2% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) |  |  | 2.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (May) |  |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (May) |  |  | 2.4% |
-| 09:00 | EUR | Low | Spanish Current account (Mar) |  |  | 2.31B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
-| 09:00 | EUR | Low | M3 Money Supply (Apr) |  |  | 16,845.5B |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) |  | 3.7% | 3.6% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (May) | 98.5 | 98.3 | 97.1 |
+| 08:00 | CHF | Low | Official Reserves Assets (Apr) | 806.1B |  | 830.1B |
+| 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.1% |  | 2.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.0% | 0.1% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 1.9% | 2.1% | 2.2% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | -0.1% | 0.0% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 1.9% | 2.0% | 2.2% |
+| 53 min | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
+| 53 min | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
+| 53 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
+| 53 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
+| 53 min | EUR | Low | Bavaria CPI (MoM) (May) |  |  | 0.4% |
+| 53 min | EUR | Low | Bavaria CPI (YoY) (May) |  |  | 2.1% |
+| 53 min | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
+| 53 min | EUR | Low | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
+| 53 min | EUR | Low | Hesse CPI (YoY) (May) |  |  | 2.3% |
+| 53 min | EUR | Low | Hesse CPI (MoM) (May) |  |  | 0.5% |
+| 53 min | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
+| 53 min | EUR | Low | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
+| 53 min | EUR | Low | Saxony CPI (YoY) (May) |  |  | 2.4% |
+| 53 min | EUR | Low | Saxony CPI (MoM) (May) |  |  | 0.5% |
+| 53 min | EUR | Low | Spanish Current account (Mar) |  |  | 2.31B |
+| 53 min | NOK | Low | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
+| 53 min | EUR | Low | M3 Money Supply (Apr) |  |  | 16,845.5B |
+| 53 min | EUR | Low | M3 Money Supply (YoY) (Apr) |  | 3.7% | 3.6% |
+| 53 min | EUR | Low | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
+| 53 min | EUR | Low | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
 | 09:30 | HKD | Low | M3 Money Supply (Apr) |  |  | 7.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -2.4% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | 3.9% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -2.4% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
 | 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 685.73B |
@@ -90,17 +90,17 @@
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) |  | 0.1% | 0.0% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) |  | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Apr) |  | -142.80B | -161.99B |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  | 0.1% | 0.0% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) |  | 2.2% | 2.3% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  | 0.1% | 0.0% |
 | 13:30 | USD | Low | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) |  | 0.2% | 0.7% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) |  |  | 0.7% |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Apr) |  |  | 0.4% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.4% | 0.4% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) |  |  | 0.90% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q1) |  |  | 2.36% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) |  |  | 0.6% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Mar) |  | 0.1% | -0.2% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q1) |  |  | 2.36% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) |  | 1.7% | 2.6% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) |  |  |  |
 | 14:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 1.80% |

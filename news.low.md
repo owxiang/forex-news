@@ -31,37 +31,37 @@
 | 07:00 | NOK | Unemployment Rate n.s.a. (May) | 2.00% | 1.90% | 2.00% |
 | 07:00 | ZAR | M3 Money Supply (YoY) (Apr) | 6.12% |  | 5.75% |
 | 07:00 | ZAR | Private Sector Credit (Apr) | 4.60% |  | 3.45% |
-| 50 min | CHF | Official Reserves Assets (Apr) |  |  | 830.1B |
-| 50 min | EUR | Core CPI (YoY) (May) |  |  | 2.4% |
-| 50 min | EUR | Spanish CPI (MoM) (May) |  | 0.1% | 0.6% |
-| 50 min | EUR | Spanish HICP (MoM) (May) |  | 0.0% | 0.6% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
-| 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.5% |
-| 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.4% |
-| 09:00 | EUR | Spanish Current account (Mar) |  |  | 2.31B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
-| 09:00 | EUR | M3 Money Supply (Apr) |  |  | 16,845.5B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Apr) |  | 3.7% | 3.6% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
+| 08:00 | CHF | Official Reserves Assets (Apr) | 806.1B |  | 830.1B |
+| 08:00 | EUR | Core CPI (YoY) (May) | 2.1% |  | 2.4% |
+| 08:00 | EUR | Spanish CPI (MoM) (May) | 0.0% | 0.1% | 0.6% |
+| 08:00 | EUR | Spanish HICP (MoM) (May) | -0.1% | 0.0% | 0.6% |
+| 53 min | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
+| 53 min | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
+| 53 min | EUR | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
+| 53 min | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
+| 53 min | EUR | Bavaria CPI (MoM) (May) |  |  | 0.4% |
+| 53 min | EUR | Bavaria CPI (YoY) (May) |  |  | 2.1% |
+| 53 min | EUR | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
+| 53 min | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
+| 53 min | EUR | Hesse CPI (YoY) (May) |  |  | 2.3% |
+| 53 min | EUR | Hesse CPI (MoM) (May) |  |  | 0.5% |
+| 53 min | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
+| 53 min | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
+| 53 min | EUR | Saxony CPI (YoY) (May) |  |  | 2.4% |
+| 53 min | EUR | Saxony CPI (MoM) (May) |  |  | 0.5% |
+| 53 min | EUR | Spanish Current account (Mar) |  |  | 2.31B |
+| 53 min | NOK | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
+| 53 min | EUR | M3 Money Supply (Apr) |  |  | 16,845.5B |
+| 53 min | EUR | M3 Money Supply (YoY) (Apr) |  | 3.7% | 3.6% |
+| 53 min | EUR | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
+| 53 min | EUR | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
 | 09:30 | HKD | M3 Money Supply (Apr) |  |  | 7.7% |
 | 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
 | 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
 | 10:00 | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
-| 11:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -2.4% |
 | 11:00 | EUR | Italian PPI (YoY) (Apr) |  |  | 3.9% |
+| 11:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -2.4% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
 | 12:30 | INR | FX Reserves, USD |  |  | 685.73B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
