@@ -6,18 +6,18 @@
 | 00:00 | KRW | Low | Industrial Production (MoM) (Apr) | -0.9% | 0.5% | 2.9% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Apr) | -0.9% |  | -0.3% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Apr) | -0.1% |  | -0.3% |
-| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) |  |  | 2.0% |
-| 24 min | JPY | Low | Jobs/applications ratio (Apr) |  | 1.26 | 1.26 |
-| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (May) |  | 3.5% | 3.4% |
-| 24 min | JPY | Low | Tokyo CPI (YoY) (May) |  |  | 3.5% |
-| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (May) |  |  | 0.7% |
-| 24 min | JPY | Low | Unemployment Rate (Apr) |  | 2.5% | 2.5% |
-| 44 min | JPY | Moderate | Industrial Production (MoM) (Apr) |  | -1.4% | 0.2% |
-| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (May) |  |  | 1.3% |
-| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jun) |  |  | 3.9% |
-| 44 min | JPY | Low | Large Retailers' Sales (MoM) |  |  | -1.2% |
-| 44 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Apr) |  |  | 3.0% |
-| 44 min | JPY | Low | Retail Sales (YoY) (Apr) |  | 2.9% | 3.1% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) | 2.1% |  | 2.0% |
+| 00:30 | JPY | Low | Jobs/applications ratio (Apr) | 1.26 | 1.26 | 1.26 |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (May) | 3.6% | 3.5% | 3.4% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (May) | 3.4% |  | 3.5% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (May) | 0.1% |  | 0.7% |
+| 00:30 | JPY | Low | Unemployment Rate (Apr) | 2.5% | 2.5% | 2.5% |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Apr) | -0.9% | -1.4% | 0.2% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (May) | 9.0% |  | 1.3% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jun) | -3.4% |  | 3.9% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) | 0.5% |  | -1.2% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Apr) | 3.0% |  | 3.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Apr) | 3.3% | 2.9% | 3.1% |
 | 01:25 | USD | Low | Fed Logan Speaks |  |  |  |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | 3.1% | -8.8% |
 | 02:30 | AUD | Low | Housing Credit (Apr) |  |  | 0.5% |
@@ -43,29 +43,29 @@
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | 0.0% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (May) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) |  |  | 0.4% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) |  |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) |  |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) |  |  | 0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Mar) |  |  | 2.31B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
-| 09:00 | EUR | Low | M3 Money Supply (Apr) |  |  | 16,845.5B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) |  | 3.7% | 3.6% |
+| 09:00 | EUR | Low | M3 Money Supply (Apr) |  |  | 16,845.5B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
 | 09:30 | HKD | Low | M3 Money Supply (Apr) |  |  | 7.7% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -2.4% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | 3.9% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
@@ -82,8 +82,8 @@
 | 13:00 | EUR | High | German CPI (MoM) (May) |  | 0.1% | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (May) |  | 2.0% | 2.2% |
 | 13:00 | EUR | Low | German HICP (MoM) (May) |  | 0.1% | 0.5% |
-| 13:00 | BRL | Moderate | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q1) |  | 1.4% | 0.2% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
 | 13:00 | ZAR | Low | Trade Balance (Apr) |  |  | 24.77B |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) |  | 0.1% | 0.0% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) |  | 2.5% | 2.6% |

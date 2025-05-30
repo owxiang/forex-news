@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Tokyo Core CPI (YoY) (May) |  | 3.5% | 3.4% |
-| 44 min | JPY | Industrial Production (MoM) (Apr) |  | -1.4% | 0.2% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (May) | 3.6% | 3.5% | 3.4% |
+| 00:50 | JPY | Industrial Production (MoM) (Apr) | -0.9% | -1.4% | 0.2% |
 | 02:30 | AUD | Building Approvals (MoM) (Apr) |  | 3.1% | -8.8% |
 | 02:30 | AUD | Retail Sales (MoM) (Apr) |  | 0.3% | 0.3% |
 | 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | 0.3% | -0.2% |
@@ -13,8 +13,8 @@
 | 11:30 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 76.2% | 75.9% |
 | 13:00 | EUR | German CPI (YoY) (May) |  | 2.0% | 2.1% |
-| 13:00 | BRL | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
 | 13:00 | BRL | GDP (QoQ) (Q1) |  | 1.4% | 0.2% |
+| 13:00 | BRL | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
 | 13:30 | USD | Goods Trade Balance (Apr) |  | -142.80B | -161.99B |
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.2% | 2.3% |
 | 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.0% |
