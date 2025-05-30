@@ -35,33 +35,33 @@
 | 08:00 | EUR | Core CPI (YoY) (May) | 2.1% |  | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) | 0.0% | 0.1% | 0.6% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) | -0.1% | 0.0% | 0.6% |
-| 53 min | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
-| 53 min | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.5% |
-| 53 min | EUR | Baden Wuerttemberg CPI (MoM) (May) |  |  | 0.5% |
-| 53 min | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.4% |
-| 53 min | EUR | Bavaria CPI (MoM) (May) |  |  | 0.4% |
-| 53 min | EUR | Bavaria CPI (YoY) (May) |  |  | 2.1% |
-| 53 min | EUR | Brandenburg CPI (YoY) (May) |  |  | 2.2% |
-| 53 min | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.4% |
-| 53 min | EUR | Hesse CPI (YoY) (May) |  |  | 2.3% |
-| 53 min | EUR | Hesse CPI (MoM) (May) |  |  | 0.5% |
-| 53 min | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 1.8% |
-| 53 min | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 1.8% |
-| 53 min | EUR | Saxony CPI (YoY) (May) |  |  | 2.4% |
-| 53 min | EUR | Saxony CPI (MoM) (May) |  |  | 0.5% |
-| 53 min | EUR | Spanish Current account (Mar) |  |  | 2.31B |
-| 53 min | NOK | Central Bank Currency Purchase (Jun) |  |  | 50.0M |
-| 53 min | EUR | M3 Money Supply (Apr) |  |  | 16,845.5B |
-| 53 min | EUR | M3 Money Supply (YoY) (Apr) |  | 3.7% | 3.6% |
-| 53 min | EUR | Loans to Non Financial Corporations (Apr) |  |  | 2.3% |
-| 53 min | EUR | Private Sector Loans (YoY) (Apr) |  | 1.8% | 1.7% |
-| 09:30 | HKD | M3 Money Supply (Apr) |  |  | 7.7% |
-| 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
-| 10:00 | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
-| 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
-| 10:00 | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
-| 11:00 | EUR | Italian PPI (YoY) (Apr) |  |  | 3.9% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.2% |  | 2.4% |
+| 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
+| 09:00 | EUR | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 2.0% |  | 1.8% |
+| 09:00 | EUR | Saxony CPI (YoY) (May) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.0% |  | 0.5% |
+| 09:00 | EUR | Spanish Current account (Mar) | 1.42B |  | 2.31B |
+| 09:00 | NOK | Central Bank Currency Purchase (Jun) | 100.0M |  | 50.0M |
+| 09:00 | EUR | M3 Money Supply (Apr) |  |  | 16,845.5B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 3.9% | 3.7% | 3.6% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 2.6% |  | 2.4% |
+| 09:00 | EUR | Private Sector Loans (YoY) (Apr) | 1.9% | 1.8% | 1.7% |
+| 21 min | HKD | M3 Money Supply (Apr) |  |  | 7.7% |
+| 51 min | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
+| 51 min | EUR | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
+| 51 min | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
+| 51 min | EUR | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
 | 11:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -2.4% |
+| 11:00 | EUR | Italian PPI (YoY) (Apr) |  |  | 3.9% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
 | 12:30 | INR | FX Reserves, USD |  |  | 685.73B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
@@ -70,8 +70,8 @@
 | 12:30 | BRL | Budget Surplus (Apr) |  |  | 3.588B |
 | 13:00 | MXN | Unemployment Rate (Apr) |  |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.50% | 2.20% |
-| 13:00 | EUR | German HICP (MoM) (May) |  | 0.1% | 0.5% |
 | 13:00 | EUR | German HICP (YoY) (May) |  | 2.0% | 2.2% |
+| 13:00 | EUR | German HICP (MoM) (May) |  | 0.1% | 0.5% |
 | 13:00 | ZAR | Trade Balance (Apr) |  |  | 24.77B |
 | 13:30 | USD | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Apr) |  |  | 0.7% |
@@ -79,8 +79,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 0.90% |
 | 14:00 | USD | Dallas Fed PCE (Apr) |  |  | 1.80% |
 | 15:00 | USD | Michigan Current Conditions (May) |  | 57.6 | 59.8 |
-| 16:00 | CAD | Budget Balance (Mar) |  |  | 7.57B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -19.27B |
+| 16:00 | CAD | Budget Balance (Mar) |  |  | 7.57B |
 | 18:45 | ZAR | Budget Balance (MoM) (Apr) |  |  | -13.11B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.0K |
