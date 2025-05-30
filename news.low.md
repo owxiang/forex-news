@@ -47,8 +47,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 2.3% |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Mar) | 1.42B |  | 2.31B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) | 100.0M |  | 50.0M |
 | 09:00 | EUR | M3 Money Supply (Apr) | 16,901.4B |  | 16,845.5B |
@@ -85,15 +85,15 @@
 | 15:00 | USD | Michigan Current Conditions (May) | 58.9 | 57.6 | 59.8 |
 | 16:00 | CAD | Budget Balance (Mar) | -23.88B |  | 7.57B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) | -43.15B |  | -19.27B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.2K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.0K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -11.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -113.9K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 50.0K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 47.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -99.6K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -103.9K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 62.5K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -23.8K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -23.7K |
-| 22:00 | MXN | Fiscal Balance (Apr) |  |  | -24.60B |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 0.2K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 21.0K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | -11.6K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -113.9K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 50.0K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 47.9K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -99.6K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -103.9K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 62.5K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -23.8K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -23.7K |
+| 22:00 | MXN | Fiscal Balance (Apr) | 0.29B |  | -24.60B |
