@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Apr) | 4.9% | 4.2% | 5.3% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Apr) | -0.9% | 0.5% | 2.9% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Apr) | 4.9% | 4.2% | 5.3% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Apr) | -0.9% |  | -1.0% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Apr) | -0.1% |  | -0.3% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) | 2.1% |  | 2.0% |
@@ -30,8 +30,8 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.752% |  | 0.691% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) | 52.7% |  | 3.5% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Apr) | -26.6% | -18.2% | 39.1% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Apr) | 2.3% | 1.8% | 1.3% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) | -1.1% | 0.2% | 0.9% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Apr) | 2.3% | 1.8% | 1.3% |
 | 07:00 | NOK | Low | Unemployment Change (May) | 63.38K |  | 78.06K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (May) | 2.00% | 1.90% | 2.00% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) | 6.12% |  | 5.75% |
@@ -39,22 +39,22 @@
 | 08:00 | CHF | Moderate | KOF Leading Indicators (May) | 98.5 | 98.3 | 97.1 |
 | 08:00 | CHF | Low | Official Reserves Assets (Apr) | 806.1B |  | 830.1B |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.1% |  | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 1.9% | 2.1% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.0% | 0.1% | 0.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 1.9% | 2.0% | 2.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 1.9% | 2.1% | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | -0.1% | 0.0% | 0.6% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 1.9% | 2.0% | 2.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.5% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) | 2.2% |  | 2.4% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Mar) | 1.42B |  | 2.31B |
@@ -66,12 +66,13 @@
 | 09:30 | HKD | Low | M3 Money Supply (Apr) | 6.6% |  | 7.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) | 0.0% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) | 1.7% | 1.7% | 1.9% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) | 1.9% | 1.9% | 2.0% |
-| 53 min | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -2.4% |
-| 53 min | EUR | Low | Italian PPI (YoY) (Apr) |  |  | 3.9% |
-| 53 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
-| 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
+| 10:12 | ZAR | Low | Budget Balance (MoM) (Apr) | -64.63B |  | -13.11B |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -2.4% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | 3.9% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
+| 23 min | INR | Moderate | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 685.73B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Apr) |  |  | 61.6% |
@@ -116,7 +117,6 @@
 | 17:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 465 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 566 |
-| 18:45 | ZAR | Low | Budget Balance (MoM) (Apr) |  |  | -13.11B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 24.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.2K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 21.0K |

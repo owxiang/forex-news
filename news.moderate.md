@@ -10,7 +10,7 @@
 | 08:00 | CHF | KOF Leading Indicators (May) | 98.5 | 98.3 | 97.1 |
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 1.9% | 2.1% | 2.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 1.9% | 2.0% | 2.2% |
-| 11:30 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
+| 23 min | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 6.2% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  | 76.2% | 75.9% |
 | 13:00 | EUR | German CPI (YoY) (May) |  | 2.0% | 2.1% |
 | 13:00 | BRL | GDP (YoY) (Q1) |  | 3.2% | 3.6% |
