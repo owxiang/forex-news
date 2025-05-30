@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Apr) | 4.9% | 4.2% | 5.3% |
 | 00:00 | KRW | Industrial Production (MoM) (Apr) | -0.9% | 0.5% | 2.9% |
+| 00:00 | KRW | Industrial Production (YoY) (Apr) | 4.9% | 4.2% | 5.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Apr) | -0.9% |  | -1.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | -0.1% |  | -0.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 2.1% |  | 2.0% |
@@ -35,18 +35,18 @@
 | 08:00 | EUR | Core CPI (YoY) (May) | 2.1% |  | 2.4% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) | 0.0% | 0.1% | 0.6% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) | -0.1% | 0.0% | 0.6% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.2% |  | 2.4% |
-| 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
+| 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
+| 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Mar) | 1.42B |  | 2.31B |
@@ -58,11 +58,11 @@
 | 09:30 | HKD | M3 Money Supply (Apr) | 6.6% |  | 7.7% |
 | 10:00 | EUR | Italian CPI (MoM) (May) | 0.0% | 0.1% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (May) | 1.7% | 1.7% | 1.9% |
-| 10:00 | EUR | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
 | 10:00 | EUR | Italian HICP (YoY) (May) | 1.9% | 1.9% | 2.0% |
+| 10:00 | EUR | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
 | 10:12 | ZAR | Budget Balance (MoM) (Apr) | -64.63B |  | -13.11B |
-| 11:00 | EUR | Italian PPI (YoY) (Apr) | 2.6% |  | 3.9% |
 | 11:00 | EUR | Italian PPI (MoM) (Apr) | -2.2% |  | -2.4% |
+| 11:00 | EUR | Italian PPI (YoY) (Apr) | 2.6% |  | 3.9% |
 | 11:30 | INR | GDP Annual | 6.5% |  | 8.2% |
 | 12:30 | INR | Bank Loan Growth | 9.8% |  | 9.9% |
 | 12:30 | INR | Deposit Growth | 10.0% |  | 10.0% |
@@ -83,8 +83,8 @@
 | 13:30 | USD | Wholesale Inventories (MoM) (Apr) | 0.0% | 0.4% | 0.4% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) | 0.60% |  | 0.90% |
 | 15:00 | USD | Michigan Current Conditions (May) | 58.9 | 57.6 | 59.8 |
-| 53 min | CAD | Budget Balance (Mar) |  |  | 7.57B |
-| 53 min | CAD | Budget Balance (YoY) (Mar) |  |  | -19.27B |
+| 16:00 | CAD | Budget Balance (YoY) (Mar) | -43.15B |  | -19.27B |
+| 16:00 | CAD | Budget Balance (Mar) | -23.88B |  | 7.57B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 21.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -11.6K |
