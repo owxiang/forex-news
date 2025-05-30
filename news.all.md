@@ -30,8 +30,8 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.752% |  | 0.691% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) | 52.7% |  | 3.5% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Apr) | -26.6% | -18.2% | 39.1% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) | -1.1% | 0.2% | 0.9% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Apr) | 2.3% | 1.8% | 1.3% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) | -1.1% | 0.2% | 0.9% |
 | 07:00 | NOK | Low | Unemployment Change (May) | 63.38K |  | 78.06K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (May) | 2.00% | 1.90% | 2.00% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) | 6.12% |  | 5.75% |
@@ -39,24 +39,24 @@
 | 08:00 | CHF | Moderate | KOF Leading Indicators (May) | 98.5 | 98.3 | 97.1 |
 | 08:00 | CHF | Low | Official Reserves Assets (Apr) | 806.1B |  | 830.1B |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.1% |  | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.0% | 0.1% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 1.9% | 2.1% | 2.2% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.0% | 0.1% | 0.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | -0.1% | 0.0% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 1.9% | 2.0% | 2.2% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (May) | -0.1% |  | 0.5% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) | 2.2% |  | 2.4% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) | 0.0% |  | 0.5% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Low | Spanish Current account (Mar) | 1.42B |  | 2.31B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) | 100.0M |  | 50.0M |
 | 09:00 | EUR | Low | M3 Money Supply (Apr) | 16,901.4B |  | 16,845.5B |
@@ -69,8 +69,8 @@
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) | 1.9% | 1.9% | 2.0% |
 | 10:12 | ZAR | Low | Budget Balance (MoM) (Apr) | -64.63B |  | -13.11B |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) | -2.2% |  | -2.4% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Apr) | 2.6% |  | 3.9% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Apr) | -2.2% |  | -2.4% |
 | 11:30 | INR | Low | GDP Annual | 6.5% |  | 8.2% |
 | 11:30 | INR | Moderate | GDP Quarterly (YoY) (Q4) | 7.4% | 6.7% | 6.4% |
 | 12:30 | INR | Low | Bank Loan Growth | 9.8% |  | 9.9% |
@@ -88,8 +88,8 @@
 | 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.1% | 0.5% |
 | 13:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.0% | 2.2% |
-| 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.9% | 3.2% | 3.6% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 1.4% | 1.4% | 0.1% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.9% | 3.2% | 3.6% |
 | 13:00 | ZAR | Low | Trade Balance (Apr) | 14.08B |  | 22.65B |
 | 13:01 | INR | Low | Federal Fiscal Deficit (Apr) | 1,863.30B |  | 15,772.70B |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) | 0.1% | 0.1% | 0.1% |
@@ -103,9 +103,9 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.3% |  | 0.3% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Apr) | 0.0% | 0.4% | 0.4% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) | 0.60% |  | 0.90% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Mar) | 0.1% | 0.1% | -0.2% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q1) | 2.31% |  | 2.29% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) | 0.5% |  | 0.5% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Mar) | 0.1% | 0.1% | -0.2% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) | 2.2% | 1.7% | 2.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) | 0.1% |  | 0.1% |
 | 14:45 | USD | High | Chicago PMI (May) | 40.5 | 45.1 | 44.6 |
@@ -120,24 +120,24 @@
 | 17:20 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 461 |  | 465 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 563 |  | 566 |
-| 25 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 24.0K |
-| 25 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.2K |
-| 25 min | USD | Low | CFTC Copper speculative net positions |  |  | 21.0K |
-| 25 min | USD | Low | CFTC Corn speculative net positions |  |  | -11.6K |
-| 25 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 186.4K |
-| 25 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 164.0K |
-| 25 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 14.5K |
-| 25 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -113.9K |
-| 24 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -96.6K |
-| 24 min | USD | Low | CFTC Silver speculative net positions |  |  | 50.0K |
-| 24 min | USD | Low | CFTC Soybeans speculative net positions |  |  | 47.9K |
-| 24 min | USD | Low | CFTC Wheat speculative net positions |  |  | -99.6K |
-| 24 min | CAD | Low | CFTC CAD speculative net positions |  |  | -103.9K |
-| 24 min | MXN | Low | CFTC MXN speculative net positions |  |  | 62.5K |
-| 24 min | CHF | Low | CFTC CHF speculative net positions |  |  | -23.8K |
-| 24 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -59.1K |
-| 24 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | 26.3K |
-| 24 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | 167.3K |
-| 24 min | NZD | Low | CFTC NZD speculative net positions |  |  | -23.7K |
-| 24 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 74.5K |
-| 22:00 | MXN | Low | Fiscal Balance (Apr) | 0.29B |  | -24.60B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 35.4K |  | 24.0K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 0.3K |  | 0.2K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 22.6K |  | 21.0K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | -20.3K |  | -11.6K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 186.4K |  | 186.4K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 174.2K |  | 164.0K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 17.0K |  | 14.5K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -113.9K |  | -113.9K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -53.0K |  | -96.6K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 53.0K |  | 50.0K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | 72.6K |  | 47.9K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -98.8K |  | -99.6K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -103.9K |  | -103.9K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 61.4K |  | 62.5K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -25.5K |  | -23.8K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -61.2K |  | -59.1K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 46.8K |  | 26.3K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | 164.0K |  | 167.3K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | -24.4K |  | -23.7K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 79.5K |  | 74.5K |
+| 21:00 | MXN | Low | Fiscal Balance (Apr) | 0.29B |  | -24.60B |
