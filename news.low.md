@@ -41,28 +41,28 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.2% |  | 2.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 0.0% |  | 0.4% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 2.3% |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.4% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.0% |  | 1.8% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 2.0% |  | 1.8% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 2.3% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) | 0.0% |  | 0.5% |
 | 09:00 | EUR | Spanish Current account (Mar) | 1.42B |  | 2.31B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) | 100.0M |  | 50.0M |
-| 09:00 | EUR | M3 Money Supply (Apr) |  |  | 16,845.5B |
+| 09:00 | EUR | M3 Money Supply (Apr) | 16,901.4B |  | 16,845.5B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 3.9% | 3.7% | 3.6% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 2.6% |  | 2.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Apr) | 1.9% | 1.8% | 1.7% |
-| 21 min | HKD | M3 Money Supply (Apr) |  |  | 7.7% |
-| 51 min | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
-| 51 min | EUR | Italian CPI (MoM) (May) |  | 0.1% | 0.1% |
-| 51 min | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
-| 51 min | EUR | Italian HICP (MoM) (May) |  | 0.0% | 0.4% |
-| 11:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -2.4% |
-| 11:00 | EUR | Italian PPI (YoY) (Apr) |  |  | 3.9% |
-| 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
+| 09:30 | HKD | M3 Money Supply (Apr) | 6.6% |  | 7.7% |
+| 10:00 | EUR | Italian CPI (MoM) (May) | 0.0% | 0.1% | 0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (May) | 1.7% | 1.7% | 1.9% |
+| 10:00 | EUR | Italian HICP (MoM) (May) | 0.1% | 0.0% | 0.4% |
+| 10:00 | EUR | Italian HICP (YoY) (May) | 1.9% | 1.9% | 2.0% |
+| 53 min | EUR | Italian PPI (MoM) (Apr) |  |  | -2.4% |
+| 53 min | EUR | Italian PPI (YoY) (Apr) |  |  | 3.9% |
+| 53 min | INR | Federal Fiscal Deficit (Mar) |  |  | 13,468.52B |
 | 12:30 | INR | FX Reserves, USD |  |  | 685.73B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 61.6% |
