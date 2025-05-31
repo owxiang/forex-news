@@ -1,8 +1,7 @@
-## 31 May 2025 - All Forex News
+## 01 June 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (May) | 50.4 |  | 50.2 |
-| 02:30 | CNY | High | Manufacturing PMI (May) | 49.5 | 49.5 | 49.0 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (May) | 50.3 | 50.6 | 50.4 |
+| 54 min | KRW | Low | Exports (YoY) (May) |  | -2.7% | 3.7% |
+| 54 min | KRW | Low | Imports (YoY) (May) |  | -3.1% | -2.7% |
+| 54 min | KRW | Low | Trade Balance (May) |  | 4.61B | 4.88B |
