@@ -11,26 +11,26 @@
 | 05:00 | IDR | Core Inflation (YoY) (May) | 2.40% | 2.50% | 2.50% |
 | 05:00 | IDR | Export Growth (YoY) (Apr) | 5.76% | 5.76% | 3.16% |
 | 05:00 | IDR | Import Growth (YoY) (Apr) | 21.84% | 7.75% | 5.34% |
-| 05:00 | IDR | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
 | 05:00 | IDR | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
+| 05:00 | IDR | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
 | 05:00 | IDR | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
 | 06:00 | INR | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
 | 07:30 | CHF | Retail Sales (YoY) (Apr) | 1.3% | 2.5% | 2.1% |
 | 07:30 | AUD | Commodity Prices (YoY) (May) | -7.7% |  | -7.1% |
-| 52 min | NOK | Manufacturing PMI (May) |  |  | 46.1 |
-| 09:30 | GBP | BoE Consumer Credit (Apr) |  | 1.100B | 0.875B |
-| 09:30 | GBP | M3 Money Supply (Apr) |  |  | 3,129.5B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Apr) |  | 0.2% | 0.3% |
-| 09:30 | GBP | Mortgage Approvals (Apr) |  | 65.00K | 64.31K |
-| 09:30 | GBP | Mortgage Lending (Apr) |  | -0.50B | 12.96B |
-| 09:30 | GBP | Net Lending to Individuals (Apr) |  | 2.800B | 13.800B |
-| 09:30 | HKD | Retail Sales (YoY) (Apr) |  |  | -3.5% |
-| 10:00 | ZAR | Manufacturing PMI (May) |  |  | 44.7 |
-| 11:00 | EUR | Car Registration (YoY) (May) |  |  | 7.10% |
+| 09:00 | NOK | Manufacturing PMI (May) | 51.2 |  | 46.2 |
+| 20 min | GBP | BoE Consumer Credit (Apr) |  | 1.100B | 0.875B |
+| 20 min | GBP | M3 Money Supply (Apr) |  |  | 3,129.5B |
+| 20 min | GBP | M4 Money Supply (MoM) (Apr) |  | 0.2% | 0.3% |
+| 20 min | GBP | Mortgage Approvals (Apr) |  | 65.00K | 64.31K |
+| 20 min | GBP | Mortgage Lending (Apr) |  | -0.50B | 12.96B |
+| 20 min | GBP | Net Lending to Individuals (Apr) |  | 2.800B | 13.800B |
+| 20 min | HKD | Retail Sales (YoY) (Apr) |  |  | -3.5% |
+| 50 min | ZAR | Manufacturing PMI (May) |  |  | 44.7 |
 | 11:00 | EUR | Car Registration (MoM) (May) |  |  | -15.60% |
+| 11:00 | EUR | Car Registration (YoY) (May) |  |  | 7.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
 | 13:30 | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.913% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.999% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.982% |
