@@ -17,19 +17,19 @@
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
 | 05:00 | IDR | Low | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) | 3.5% | 2.9% | 3.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
-| 20 min | CHF | Low | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
-| 20 min | AUD | Low | Commodity Prices (YoY) (May) |  |  | -6.1% |
-| 50 min | CHF | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
-| 50 min | CHF | Moderate | GDP (YoY) (Q1) |  | 1.5% | 1.5% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 48.3 | 48.1 |
-| 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (May) |  | 48.1 | 45.8 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 49.5 | 49.3 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 49.5 | 48.7 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 48.8 | 48.4 |
-| 09:00 | NOK | Low | Manufacturing PMI (May) |  |  | 46.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 48.4 | 49.0 |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) | 3.5% | 2.9% | 3.4% |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Apr) | 1.3% | 2.5% | 2.1% |
+| 07:30 | AUD | Low | Commodity Prices (YoY) (May) | -7.7% |  | -7.1% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 2.0% | 1.5% | 1.6% |
+| 7 min | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 48.3 | 48.1 |
+| 22 min | CHF | Moderate | procure.ch Manufacturing PMI (May) |  | 48.1 | 45.8 |
+| 37 min | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 49.5 | 49.3 |
+| 42 min | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 49.5 | 48.7 |
+| 47 min | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 48.8 | 48.4 |
+| 52 min | NOK | Low | Manufacturing PMI (May) |  |  | 46.1 |
+| 52 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 48.4 | 49.0 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Apr) |  | 1.100B | 0.875B |
 | 09:30 | GBP | Low | M3 Money Supply (Apr) |  |  | 3,129.5B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Apr) |  | 0.2% | 0.3% |
@@ -39,8 +39,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Apr) |  | 2.800B | 13.800B |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Apr) |  |  | -3.5% |
 | 10:00 | ZAR | Low | Manufacturing PMI (May) |  |  | 44.7 |
-| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -15.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 7.10% |
+| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -15.60% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (May) |  |  | 42.40K |
