@@ -26,8 +26,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Apr) | 0.820B | 2.800B | 13.800B |
 | 09:30 | HKD | Retail Sales (YoY) (Apr) | -2.3% |  | -3.5% |
 | 10:00 | ZAR | Manufacturing PMI (May) | 43.1 |  | 44.7 |
-| 11:00 | EUR | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
 | 11:00 | EUR | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
+| 11:00 | EUR | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | ZAR | Total Vehicle Sales (May) | 45.31K |  | 42.40K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
