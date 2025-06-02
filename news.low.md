@@ -26,8 +26,8 @@
 | 09:30 | GBP | Net Lending to Individuals (Apr) | 0.820B | 2.800B | 13.800B |
 | 09:30 | HKD | Retail Sales (YoY) (Apr) | -2.3% |  | -3.5% |
 | 10:00 | ZAR | Manufacturing PMI (May) | 43.1 |  | 44.7 |
-| 11:00 | EUR | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
 | 11:00 | EUR | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
+| 11:00 | EUR | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | ZAR | Total Vehicle Sales (May) | 45.31K |  | 42.40K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
@@ -40,9 +40,9 @@
 | 15:00 | USD | ISM Manufacturing New Orders Index (May) | 47.6 |  | 47.2 |
 | 15:15 | USD | Fed Logan Speaks |  |  |  |
 | 16:00 | MXN | S&P Global Manufacturing PMI (May) | 46.70 |  | 44.80 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.255% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.160% |
-| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 16:30 | USD | 3-Month Bill Auction | 4.250% |  | 4.255% |
+| 16:30 | USD | 6-Month Bill Auction | 4.150% |  | 4.160% |
+| 37 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  | 3.7% | 3.2% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 1.3% |
 | 23:45 | NZD | Terms of Trade - Imports Prices (Q1) |  |  | 0.1% |
