@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Capital Spending (YoY) (Q1) | 6.4% | 3.8% | -0.2% |
 | 01:00 | USD | Fed Waller Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
 | 07:00 | GBP | Nationwide HPI (YoY) (May) | 3.5% | 2.9% | 3.4% |
+| 07:00 | GBP | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
 | 08:00 | CHF | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
 | 08:00 | CHF | GDP (YoY) (Q1) | 2.0% | 1.5% | 1.6% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (May) | 50.5 | 48.3 | 48.1 |
@@ -21,4 +21,4 @@
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 4.6% | 3.8% | 3.8% |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 24 min | GBP | BoE MPC Member Mann Speaks |  |  |  |

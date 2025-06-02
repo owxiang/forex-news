@@ -13,12 +13,12 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) | 2.40% | 2.50% | 2.50% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Apr) | 5.76% | 5.76% | 3.16% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Apr) | 21.84% | 7.75% | 5.34% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
 | 05:00 | IDR | Low | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) | 3.5% | 2.9% | 3.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) | 1.3% | 2.5% | 2.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (May) | -7.7% |  | -7.1% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
@@ -42,8 +42,8 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (May) | 45.31K |  | 42.40K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.909% |  | 1.913% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.985% |  | 1.999% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.962% |  | 1.982% |
@@ -66,7 +66,7 @@
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 22:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 24 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  | 3.7% | 3.2% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 1.3% |
 | 23:45 | NZD | Low | Terms of Trade - Imports Prices (Q1) |  |  | 0.1% |
