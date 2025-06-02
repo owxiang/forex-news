@@ -15,9 +15,9 @@
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (May) | 48.3 | 48.8 | 48.4 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 49.4 | 48.4 | 49.0 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (May) | 46.4 | 45.1 | 45.4 |
-| 45 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 45 min | USD | Construction Spending (MoM) (Apr) |  | 0.4% | -0.5% |
-| 45 min | USD | ISM Manufacturing Employment (May) |  |  | 46.5 |
+| 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 15:00 | USD | Construction Spending (MoM) (Apr) | -0.4% | 0.4% | -0.8% |
+| 15:00 | USD | ISM Manufacturing Employment (May) | 46.8 |  | 46.5 |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |

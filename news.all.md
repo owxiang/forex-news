@@ -49,14 +49,14 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.962% |  | 1.982% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) | 49.4 |  | 50.3 |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (May) | 49.7 |  | 49.6 |
-| 15 min | CAD | Low | S&P Global Manufacturing PMI (May) |  |  | 45.3 |
-| 30 min | USD | High | S&P Global Manufacturing PMI (May) |  | 52.3 | 50.2 |
-| 45 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 45 min | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.4% | -0.5% |
-| 45 min | USD | Moderate | ISM Manufacturing Employment (May) |  |  | 46.5 |
-| 45 min | USD | Low | ISM Manufacturing New Orders Index (May) |  |  | 47.2 |
-| 45 min | USD | High | ISM Manufacturing PMI (May) |  | 49.3 | 48.7 |
-| 45 min | USD | High | ISM Manufacturing Prices (May) |  | 70.2 | 69.8 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (May) | 46.1 |  | 45.3 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (May) | 52.0 | 52.3 | 50.2 |
+| 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) | -0.4% | 0.4% | -0.8% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (May) | 46.8 |  | 46.5 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) | 47.6 |  | 47.2 |
+| 15:00 | USD | High | ISM Manufacturing PMI (May) | 48.5 | 49.3 | 48.7 |
+| 15:00 | USD | High | ISM Manufacturing Prices (May) | 69.4 | 70.2 | 69.8 |
 | 15:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (May) |  |  | 44.80 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.255% |

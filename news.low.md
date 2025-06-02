@@ -36,8 +36,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 1.962% |  | 1.982% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (May) | 49.4 |  | 50.3 |
 | 14:00 | SGD | S&P Global Manufacturing PMI (May) | 49.7 |  | 49.6 |
-| 15 min | CAD | S&P Global Manufacturing PMI (May) |  |  | 45.3 |
-| 45 min | USD | ISM Manufacturing New Orders Index (May) |  |  | 47.2 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (May) | 46.1 |  | 45.3 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (May) | 47.6 |  | 47.2 |
 | 15:15 | USD | Fed Logan Speaks |  |  |  |
 | 16:00 | MXN | S&P Global Manufacturing PMI (May) |  |  | 44.80 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.255% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 30 min | USD | S&P Global Manufacturing PMI (May) |  | 52.3 | 50.2 |
-| 45 min | USD | ISM Manufacturing PMI (May) |  | 49.3 | 48.7 |
-| 45 min | USD | ISM Manufacturing Prices (May) |  | 70.2 | 69.8 |
+| 14:45 | USD | S&P Global Manufacturing PMI (May) | 52.0 | 52.3 | 50.2 |
+| 15:00 | USD | ISM Manufacturing PMI (May) | 48.5 | 49.3 | 48.7 |
+| 15:00 | USD | ISM Manufacturing Prices (May) | 69.4 | 70.2 | 69.8 |
 | 18:00 | USD | Fed Chair Powell Speaks |  |  |  |
