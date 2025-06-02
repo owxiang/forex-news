@@ -7,13 +7,13 @@
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.4 | 49.0 | 48.7 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (May) | 47.4 |  | 46.7 |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (May) | -1.2% |  | -0.3% |
-| 28 min | IDR | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
-| 28 min | IDR | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
-| 28 min | IDR | Import Growth (YoY) (Apr) |  | 6.50% | 5.34% |
-| 28 min | IDR | Inflation (MoM) (May) |  | -0.02% | 1.17% |
-| 28 min | IDR | Inflation (YoY) (May) |  | 1.95% | 1.95% |
-| 28 min | IDR | Trade Balance (Apr) |  | 2.75B | 4.33B |
-| 06:00 | INR | S&P Global Manufacturing PMI (May) |  | 58.3 | 58.2 |
+| 05:00 | IDR | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
+| 05:00 | IDR | Export Growth (YoY) (Apr) | 5.76% | 5.76% | 3.16% |
+| 05:00 | IDR | Import Growth (YoY) (Apr) |  | 7.75% | 5.34% |
+| 05:00 | IDR | Inflation (YoY) (May) |  | 1.94% | 1.95% |
+| 05:00 | IDR | Inflation (MoM) (May) |  | -0.01% | 1.17% |
+| 05:00 | IDR | Trade Balance (Apr) |  | 3.04B | 4.33B |
+| 46 min | INR | S&P Global Manufacturing PMI (May) |  | 58.3 | 58.2 |
 | 07:30 | CHF | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
 | 07:30 | AUD | Commodity Prices (YoY) (May) |  |  | -6.1% |
 | 09:00 | NOK | Manufacturing PMI (May) |  |  | 46.1 |
@@ -25,11 +25,11 @@
 | 09:30 | GBP | Net Lending to Individuals (Apr) |  | 2.800B | 13.800B |
 | 09:30 | HKD | Retail Sales (YoY) (Apr) |  |  | -3.5% |
 | 10:00 | ZAR | Manufacturing PMI (May) |  |  | 44.7 |
-| 11:00 | EUR | Car Registration (MoM) (May) |  |  | -15.60% |
 | 11:00 | EUR | Car Registration (YoY) (May) |  |  | 7.10% |
+| 11:00 | EUR | Car Registration (MoM) (May) |  |  | -15.60% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
 | 13:30 | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.913% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.999% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.982% |
