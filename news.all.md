@@ -12,8 +12,8 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Apr) |  | 6.50% | 5.34% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) |  | -0.02% | 1.17% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) |  | 1.95% | 1.95% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) |  | -0.02% | 1.17% |
 | 05:00 | IDR | Low | Trade Balance (Apr) |  | 2.75B | 4.33B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) |  | 58.3 | 58.2 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) |  | 0.0% | -0.6% |
@@ -41,8 +41,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 7.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -15.60% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (May) |  |  | 42.40K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.913% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.999% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.982% |
