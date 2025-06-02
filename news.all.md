@@ -17,16 +17,16 @@
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
 | 05:00 | IDR | Low | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
-| 52 min | GBP | Moderate | Nationwide HPI (MoM) (May) |  | 0.0% | -0.6% |
-| 52 min | GBP | Moderate | Nationwide HPI (YoY) (May) |  | 2.9% | 3.4% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (May) |  |  | -6.1% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q1) |  | 1.5% | 1.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) | 3.5% | 2.9% | 3.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
+| 20 min | CHF | Low | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
+| 20 min | AUD | Low | Commodity Prices (YoY) (May) |  |  | -6.1% |
+| 50 min | CHF | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
+| 50 min | CHF | Moderate | GDP (YoY) (Q1) |  | 1.5% | 1.5% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 48.3 | 48.1 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (May) |  | 48.1 | 45.8 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 49.5 | 49.3 |
-| 08:45 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 49.5 | 48.7 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 49.5 | 48.7 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 48.8 | 48.4 |
 | 09:00 | NOK | Low | Manufacturing PMI (May) |  |  | 46.1 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 48.4 | 49.0 |

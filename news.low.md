@@ -15,8 +15,8 @@
 | 05:00 | IDR | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
 | 05:00 | IDR | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
 | 06:00 | INR | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
-| 07:30 | CHF | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
-| 07:30 | AUD | Commodity Prices (YoY) (May) |  |  | -6.1% |
+| 20 min | CHF | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
+| 20 min | AUD | Commodity Prices (YoY) (May) |  |  | -6.1% |
 | 09:00 | NOK | Manufacturing PMI (May) |  |  | 46.1 |
 | 09:30 | GBP | BoE Consumer Credit (Apr) |  | 1.100B | 0.875B |
 | 09:30 | GBP | M3 Money Supply (Apr) |  |  | 3,129.5B |
