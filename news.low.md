@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Manufacturing PMI (May) |  | 51.7 | 51.7 |
+| 00:00 | AUD | Judo Bank Manufacturing PMI (May) | 51.0 | 51.7 | 51.7 |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) |  |  | 47.5 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) |  | 49.0 | 48.7 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (May) |  |  | 46.7 |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (May) |  |  | 0.5% |
+| 58 min | AUD | ANZ Job Advertisements (MoM) (May) |  |  | 0.5% |
 | 05:00 | IDR | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
 | 05:00 | IDR | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
 | 05:00 | IDR | Import Growth (YoY) (Apr) |  | 6.50% | 5.34% |
@@ -25,11 +25,11 @@
 | 09:30 | GBP | Net Lending to Individuals (Apr) |  | 2.800B | 13.800B |
 | 09:30 | HKD | Retail Sales (YoY) (Apr) |  |  | -3.5% |
 | 10:00 | ZAR | Manufacturing PMI (May) |  |  | 44.7 |
-| 11:00 | EUR | Car Registration (MoM) (May) |  |  | -15.60% |
 | 11:00 | EUR | Car Registration (YoY) (May) |  |  | 7.10% |
+| 11:00 | EUR | Car Registration (MoM) (May) |  |  | -15.60% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
+| 13:30 | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.913% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.999% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.982% |

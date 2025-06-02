@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Manufacturing PMI (May) |  | 51.7 | 51.7 |
-| 44 min | JPY | Moderate | Capital Spending (YoY) (Q1) |  | 3.8% | -0.2% |
-| 54 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 00:00 | AUD | Low | Judo Bank Manufacturing PMI (May) | 51.0 | 51.7 | 51.7 |
+| 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) | 6.4% | 3.8% | -0.2% |
+| 01:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) |  |  | 47.5 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (May) |  | 49.0 | 48.7 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (May) |  |  | 46.7 |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (May) |  |  | 0.5% |
+| 58 min | AUD | Low | ANZ Job Advertisements (MoM) (May) |  |  | 0.5% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Apr) |  | 6.50% | 5.34% |
@@ -16,12 +16,12 @@
 | 05:00 | IDR | Low | Inflation (MoM) (May) |  | -0.02% | 1.17% |
 | 05:00 | IDR | Low | Trade Balance (Apr) |  | 2.75B | 4.33B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) |  | 58.3 | 58.2 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) |  |  | 3.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) |  | 0.0% | -0.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) |  |  | 3.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (May) |  |  | -6.1% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q1) |  |  | 1.5% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 48.3 | 48.1 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (May) |  | 48.1 | 45.8 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 49.5 | 49.3 |
@@ -38,11 +38,11 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (Apr) |  | 2.800B | 13.800B |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Apr) |  |  | -3.5% |
 | 10:00 | ZAR | Low | Manufacturing PMI (May) |  |  | 44.7 |
-| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -15.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 7.10% |
+| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -15.60% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (May) |  |  | 42.40K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
+| 13:30 | ZAR | Low | Total Vehicle Sales (May) |  |  | 42.40K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.913% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.999% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.982% |
