@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Capital Spending (YoY) (Q1) | 6.4% | 3.8% | -0.2% |
 | 01:00 | USD | Fed Waller Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
 | 07:00 | GBP | Nationwide HPI (YoY) (May) | 3.5% | 2.9% | 3.4% |
-| 08:00 | CHF | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
+| 07:00 | GBP | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
 | 08:00 | CHF | GDP (YoY) (Q1) | 2.0% | 1.5% | 1.6% |
+| 08:00 | CHF | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (May) | 50.5 | 48.3 | 48.1 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (May) | 42.1 | 48.1 | 45.8 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (May) | 49.2 | 49.5 | 49.3 |
