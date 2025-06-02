@@ -5,15 +5,15 @@
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (May) | 51.0 | 51.7 | 51.7 |
 | 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) | 6.4% | 3.8% | -0.2% |
 | 01:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) |  |  | 47.5 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (May) |  | 49.0 | 48.7 |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (May) |  |  | 46.7 |
-| 58 min | AUD | Low | ANZ Job Advertisements (MoM) (May) |  |  | 0.5% |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) | 47.7 |  | 47.5 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (May) | 49.4 | 49.0 | 48.7 |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (May) | 47.4 |  | 46.7 |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (May) | -1.2% |  | -0.3% |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Apr) |  | 6.50% | 5.34% |
-| 05:00 | IDR | Low | Inflation (YoY) (May) |  | 1.95% | 1.95% |
 | 05:00 | IDR | Low | Inflation (MoM) (May) |  | -0.02% | 1.17% |
+| 05:00 | IDR | Low | Inflation (YoY) (May) |  | 1.95% | 1.95% |
 | 05:00 | IDR | Low | Trade Balance (Apr) |  | 2.75B | 4.33B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) |  | 58.3 | 58.2 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) |  | 0.0% | -0.6% |

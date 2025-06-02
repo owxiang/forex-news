@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Manufacturing PMI (May) | 51.0 | 51.7 | 51.7 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) |  |  | 47.5 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) |  | 49.0 | 48.7 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (May) |  |  | 46.7 |
-| 58 min | AUD | ANZ Job Advertisements (MoM) (May) |  |  | 0.5% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) | 47.7 |  | 47.5 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.4 | 49.0 | 48.7 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (May) | 47.4 |  | 46.7 |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) (May) | -1.2% |  | -0.3% |
 | 05:00 | IDR | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
 | 05:00 | IDR | Export Growth (YoY) (Apr) |  | 5.75% | 3.16% |
 | 05:00 | IDR | Import Growth (YoY) (Apr) |  | 6.50% | 5.34% |
-| 05:00 | IDR | Inflation (YoY) (May) |  | 1.95% | 1.95% |
 | 05:00 | IDR | Inflation (MoM) (May) |  | -0.02% | 1.17% |
+| 05:00 | IDR | Inflation (YoY) (May) |  | 1.95% | 1.95% |
 | 05:00 | IDR | Trade Balance (Apr) |  | 2.75B | 4.33B |
 | 06:00 | INR | S&P Global Manufacturing PMI (May) |  | 58.3 | 58.2 |
 | 07:30 | CHF | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
