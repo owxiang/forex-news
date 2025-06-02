@@ -13,16 +13,16 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) | 2.40% | 2.50% | 2.50% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Apr) | 5.76% | 5.76% | 3.16% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Apr) | 21.84% | 7.75% | 5.34% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
 | 05:00 | IDR | Low | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) | 0.5% | 0.0% | -0.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) | 3.5% | 2.9% | 3.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) | 1.3% | 2.5% | 2.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (May) | -7.7% |  | -7.1% |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 2.0% | 1.5% | 1.6% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.4% | 0.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) | 50.5 | 48.3 | 48.1 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (May) | 42.1 | 48.1 | 45.8 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) | 49.2 | 49.5 | 49.3 |
@@ -42,21 +42,21 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19 min | ZAR | Low | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
-| 19 min | ZAR | Low | Total Vehicle Sales (May) |  |  | 42.40K |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.913% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.999% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.982% |
-| 49 min | BRL | Low | S&P Global Manufacturing PMI (May) |  |  | 50.3 |
-| 49 min | SGD | Low | S&P Global Manufacturing PMI (May) |  |  | 49.6 |
-| 14:30 | CAD | Low | S&P Global Manufacturing PMI (May) |  |  | 45.3 |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (May) |  | 52.3 | 50.2 |
-| 15:00 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.4% | -0.5% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (May) |  |  | 46.5 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) |  |  | 47.2 |
-| 15:00 | USD | High | ISM Manufacturing PMI (May) |  | 49.3 | 48.7 |
-| 15:00 | USD | High | ISM Manufacturing Prices (May) |  | 70.2 | 69.8 |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 45.31K |  | 42.40K |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.909% |  | 1.913% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.985% |  | 1.999% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.962% |  | 1.982% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) | 49.4 |  | 50.3 |
+| 14:00 | SGD | Low | S&P Global Manufacturing PMI (May) | 49.7 |  | 49.6 |
+| 15 min | CAD | Low | S&P Global Manufacturing PMI (May) |  |  | 45.3 |
+| 30 min | USD | High | S&P Global Manufacturing PMI (May) |  | 52.3 | 50.2 |
+| 45 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 45 min | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.4% | -0.5% |
+| 45 min | USD | Moderate | ISM Manufacturing Employment (May) |  |  | 46.5 |
+| 45 min | USD | Low | ISM Manufacturing New Orders Index (May) |  |  | 47.2 |
+| 45 min | USD | High | ISM Manufacturing PMI (May) |  | 49.3 | 48.7 |
+| 45 min | USD | High | ISM Manufacturing Prices (May) |  | 70.2 | 69.8 |
 | 15:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (May) |  |  | 44.80 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.255% |
