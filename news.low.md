@@ -7,29 +7,30 @@
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (May) | 49.4 | 49.0 | 48.7 |
 | 01:30 | IDR | S&P Global Manufacturing PMI (May) | 47.4 |  | 46.7 |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (May) | -1.2% |  | -0.3% |
-| 05:00 | IDR | Core Inflation (YoY) (May) |  | 2.50% | 2.50% |
+| 02:30 | AUD | MI Inflation Gauge (MoM) (May) | -0.4% |  | 0.6% |
+| 05:00 | IDR | Core Inflation (YoY) (May) | 2.40% | 2.50% | 2.50% |
 | 05:00 | IDR | Export Growth (YoY) (Apr) | 5.76% | 5.76% | 3.16% |
-| 05:00 | IDR | Import Growth (YoY) (Apr) |  | 7.75% | 5.34% |
-| 05:00 | IDR | Inflation (YoY) (May) |  | 1.94% | 1.95% |
-| 05:00 | IDR | Inflation (MoM) (May) |  | -0.01% | 1.17% |
-| 05:00 | IDR | Trade Balance (Apr) |  | 3.04B | 4.33B |
-| 46 min | INR | S&P Global Manufacturing PMI (May) |  | 58.3 | 58.2 |
+| 05:00 | IDR | Import Growth (YoY) (Apr) | 21.84% | 7.75% | 5.34% |
+| 05:00 | IDR | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
+| 05:00 | IDR | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
+| 05:00 | IDR | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
+| 06:00 | INR | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
 | 07:30 | CHF | Retail Sales (YoY) (Apr) |  | 2.5% | 2.2% |
 | 07:30 | AUD | Commodity Prices (YoY) (May) |  |  | -6.1% |
 | 09:00 | NOK | Manufacturing PMI (May) |  |  | 46.1 |
-| 09:30 | GBP | BoE Consumer Credit (Apr) |  |  | 0.875B |
+| 09:30 | GBP | BoE Consumer Credit (Apr) |  | 1.100B | 0.875B |
 | 09:30 | GBP | M3 Money Supply (Apr) |  |  | 3,129.5B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Apr) |  | 0.2% | 0.3% |
 | 09:30 | GBP | Mortgage Approvals (Apr) |  | 65.00K | 64.31K |
-| 09:30 | GBP | Mortgage Lending (Apr) |  |  | 12.96B |
+| 09:30 | GBP | Mortgage Lending (Apr) |  | -0.50B | 12.96B |
 | 09:30 | GBP | Net Lending to Individuals (Apr) |  | 2.800B | 13.800B |
 | 09:30 | HKD | Retail Sales (YoY) (Apr) |  |  | -3.5% |
 | 10:00 | ZAR | Manufacturing PMI (May) |  |  | 44.7 |
-| 11:00 | EUR | Car Registration (YoY) (May) |  |  | 7.10% |
 | 11:00 | EUR | Car Registration (MoM) (May) |  |  | -15.60% |
+| 11:00 | EUR | Car Registration (YoY) (May) |  |  | 7.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
+| 13:30 | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.913% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.999% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.982% |
@@ -42,7 +43,7 @@
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.255% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.160% |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | 3.2% |
+| 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  | 3.7% | 3.2% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 1.3% |
 | 23:45 | NZD | Terms of Trade - Imports Prices (Q1) |  |  | 0.1% |
 | 23:45 | NZD | Terms of Trade Index (QoQ) (Q1) |  | 3.6% | 3.1% |
