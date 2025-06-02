@@ -11,8 +11,8 @@
 | 05:00 | IDR | Core Inflation (YoY) (May) | 2.40% | 2.50% | 2.50% |
 | 05:00 | IDR | Export Growth (YoY) (Apr) | 5.76% | 5.76% | 3.16% |
 | 05:00 | IDR | Import Growth (YoY) (Apr) | 21.84% | 7.75% | 5.34% |
-| 05:00 | IDR | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
 | 05:00 | IDR | Inflation (MoM) (May) | -0.37% | -0.01% | 1.17% |
+| 05:00 | IDR | Inflation (YoY) (May) | 1.60% | 1.94% | 1.95% |
 | 05:00 | IDR | Trade Balance (Apr) | 0.15B | 3.04B | 4.33B |
 | 06:00 | INR | S&P Global Manufacturing PMI (May) | 57.6 | 58.3 | 58.2 |
 | 07:30 | CHF | Retail Sales (YoY) (Apr) | 1.3% | 2.5% | 2.1% |
@@ -26,16 +26,16 @@
 | 09:30 | GBP | Net Lending to Individuals (Apr) | 0.820B | 2.800B | 13.800B |
 | 09:30 | HKD | Retail Sales (YoY) (Apr) | -2.3% |  | -3.5% |
 | 10:00 | ZAR | Manufacturing PMI (May) | 43.1 |  | 44.7 |
-| 18 min | BRL | BCB Focus Market Readout |  |  |  |
-| 53 min | EUR | Car Registration (MoM) (May) |  |  | -15.60% |
-| 53 min | EUR | Car Registration (YoY) (May) |  |  | 7.10% |
-| 13:30 | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.913% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.999% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.982% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (May) |  |  | 50.3 |
-| 14:00 | SGD | S&P Global Manufacturing PMI (May) |  |  | 49.6 |
+| 11:00 | EUR | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
+| 11:00 | EUR | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19 min | ZAR | Total Vehicle Sales (YoY) (May) |  |  | 11.90% |
+| 19 min | ZAR | Total Vehicle Sales (May) |  |  | 42.40K |
+| 49 min | EUR | French 12-Month BTF Auction |  |  | 1.913% |
+| 49 min | EUR | French 3-Month BTF Auction |  |  | 1.999% |
+| 49 min | EUR | French 6-Month BTF Auction |  |  | 1.982% |
+| 49 min | BRL | S&P Global Manufacturing PMI (May) |  |  | 50.3 |
+| 49 min | SGD | S&P Global Manufacturing PMI (May) |  |  | 49.6 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (May) |  |  | 45.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (May) |  |  | 47.2 |
 | 15:15 | USD | Fed Logan Speaks |  |  |  |
