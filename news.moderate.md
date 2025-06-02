@@ -18,7 +18,7 @@
 | 15:00 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Apr) | -0.4% | 0.4% | -0.8% |
 | 15:00 | USD | ISM Manufacturing Employment (May) | 46.8 |  | 46.5 |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 53 min | EUR | German Buba Balz Speaks |  |  |  |
 | 17:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
 | 22:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |

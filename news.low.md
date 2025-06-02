@@ -29,8 +29,8 @@
 | 11:00 | EUR | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
 | 11:00 | EUR | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
 | 13:00 | ZAR | Total Vehicle Sales (May) | 45.31K |  | 42.40K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
 | 14:00 | EUR | French 12-Month BTF Auction | 1.909% |  | 1.913% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.985% |  | 1.999% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.962% |  | 1.982% |
@@ -39,9 +39,9 @@
 | 14:30 | CAD | S&P Global Manufacturing PMI (May) | 46.1 |  | 45.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (May) | 47.6 |  | 47.2 |
 | 15:15 | USD | Fed Logan Speaks |  |  |  |
-| 16:00 | MXN | S&P Global Manufacturing PMI (May) |  |  | 44.80 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.255% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.160% |
+| 16:00 | MXN | S&P Global Manufacturing PMI (May) | 46.70 |  | 44.80 |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.255% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.160% |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  | 3.7% | 3.2% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 1.3% |

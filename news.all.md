@@ -42,8 +42,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (May) | 18.60% |  | 7.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (May) | 14.50% |  | -15.60% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (May) | 45.31K |  | 42.40K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | 22.00% |  | 11.90% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.909% |  | 1.913% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.985% |  | 1.999% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.962% |  | 1.982% |
@@ -58,10 +58,10 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (May) | 48.5 | 49.3 | 48.7 |
 | 15:00 | USD | High | ISM Manufacturing Prices (May) | 69.4 | 70.2 | 69.8 |
 | 15:15 | USD | Low | Fed Logan Speaks |  |  |  |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (May) |  |  | 44.80 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.255% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.160% |
-| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (May) | 46.70 |  | 44.80 |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.255% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.160% |
+| 53 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
