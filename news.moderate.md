@@ -6,7 +6,7 @@
 | 02:30 | AUD | Current Account (Q1) | -14.7B | -12.3B | -12.5B |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 02:45 | CNY | Caixin Manufacturing PMI (May) | 48.3 | 50.8 | 50.4 |
-| 58 min | JPY | 10-Year JGB Auction |  |  | 1.274% |
+| 8 min | JPY | 10-Year JGB Auction |  |  | 1.274% |
 | 07:30 | CHF | CPI (MoM) (May) |  | 0.2% | 0.0% |
 | 08:00 | EUR | Spanish Unemployment Change (May) |  |  | -67.4K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.45% |

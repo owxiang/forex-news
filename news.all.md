@@ -10,7 +10,7 @@
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 48.3 | 50.8 | 50.4 |
-| 58 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.274% |
+| 8 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.274% |
 | 07:30 | CHF | Moderate | CPI (MoM) (May) |  | 0.2% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (May) |  | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -47.0B |
