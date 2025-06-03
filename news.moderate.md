@@ -15,7 +15,7 @@
 | 10:00 | EUR | Unemployment Rate (Apr) | 6.2% | 6.2% | 6.3% |
 | 10:15 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
-| 13:00 | BRL | Industrial Production (YoY) (Apr) | -0.3% | 0.2% | 3.1% |
-| 15:00 | USD | Factory Orders (MoM) (Apr) |  | -3.1% | 3.4% |
+| 13:00 | BRL | Industrial Production (YoY) (Apr) | -0.3% | 0.2% | 3.2% |
+| 44 min | USD | Factory Orders (MoM) (Apr) |  | -3.1% | 3.4% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.236M |
