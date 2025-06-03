@@ -20,20 +20,20 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) | 0.27% |  | 0.45% |
 | 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 1.878% |  | 1.886% |
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 1.890% |  | 1.937% |
-| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.4% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 2.0% | 2.2% |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.0% |  | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 2.0% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) | 128.73 |  | 128.77 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.1% |  | 0.9% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.2% | 6.2% | 6.3% |
-| 7 min | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
-| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.940% |
-| 22 min | ZAR | Moderate | GDP Annualized (QoQ) (Q1) |  |  | 0.6% |
-| 22 min | ZAR | Low | GDP (YoY) (Q1) |  |  | 0.9% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 0.2% | 3.1% |
+| 10:15 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.8% |  | 0.8% |
+| 10:50 | EUR | Low | German 2-Year Schatz Auction | 1.780% |  | 1.940% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.1% | 1.2% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 0.2% | 3.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.1% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  | -7.5% | -7.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) |  |  | 0.2% |
