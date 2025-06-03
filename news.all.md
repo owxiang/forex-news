@@ -11,8 +11,8 @@
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 48.3 | 50.7 | 50.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.512% |  | 1.274% |
-| 07:30 | CHF | Low | CPI (YoY) (May) | -0.1% | -0.1% | 0.0% |
 | 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
+| 07:30 | CHF | Low | CPI (YoY) (May) | -0.1% | -0.1% | 0.0% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) | -69.3B |  | -47.0B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (May) | -57.8K | -68.5K | -67.4K |
 | 08:50 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -46,5 +46,5 @@
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 24 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
+| 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
+| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
