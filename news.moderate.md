@@ -7,9 +7,9 @@
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 02:45 | CNY | Caixin Manufacturing PMI (May) | 48.3 | 50.7 | 50.4 |
 | 04:35 | JPY | 10-Year JGB Auction | 1.512% |  | 1.274% |
-| 20 min | CHF | CPI (MoM) (May) |  | 0.1% | 0.0% |
-| 50 min | EUR | Spanish Unemployment Change (May) |  | -68.5K | -67.4K |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.45% |
+| 07:30 | CHF | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
+| 08:00 | EUR | Spanish Unemployment Change (May) | -57.8K | -68.5K | -67.4K |
+| 52 min | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.45% |
 | 10:00 | EUR | Core CPI (YoY) (May) |  | 2.4% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (May) |  |  | 0.6% |
 | 10:00 | EUR | Unemployment Rate (Apr) |  | 6.2% | 6.2% |

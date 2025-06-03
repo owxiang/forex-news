@@ -6,12 +6,12 @@
 | 02:30 | AUD | Business inventories (MoM) (Q1) | 0.8% | 0.2% | 0.2% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) | 0.7% |  | 4.8% |
 | 02:30 | AUD | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
-| 20 min | CHF | CPI (YoY) (May) |  | -0.1% | 0.0% |
-| 35 min | EUR | French Government Budget Balance (Apr) |  |  | -47.0B |
-| 08:50 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 6.1% | 6.0% |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.886% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.937% |
+| 07:30 | CHF | CPI (YoY) (May) | -0.1% | -0.1% | 0.0% |
+| 07:45 | EUR | French Government Budget Balance (Apr) | -69.3B |  | -47.0B |
+| 42 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 52 min | EUR | Italian Monthly Unemployment Rate (Apr) |  | 6.1% | 6.0% |
+| 09:50 | EUR | Spanish 12-Month Letras Auction |  |  | 1.886% |
+| 09:50 | EUR | Spanish 6-Month Letras Auction |  |  | 1.937% |
 | 10:00 | EUR | Core CPI (MoM) (May) |  |  | 1.0% |
 | 10:00 | EUR | CPI, n.s.a (May) |  |  | 128.77 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  | 2.4% | 2.7% |
