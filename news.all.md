@@ -11,8 +11,8 @@
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 48.3 | 50.7 | 50.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.512% |  | 1.274% |
-| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (May) | -0.1% | -0.1% | 0.0% |
+| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) | -69.3B |  | -47.0B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (May) | -57.8K | -68.5K | -67.4K |
 | 08:50 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -32,8 +32,8 @@
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.8% |  | 0.8% |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 1.780% |  | 1.940% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.1% | 1.2% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 0.2% | 3.1% |
+| 54 min | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.1% | 1.2% |
+| 54 min | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 0.2% | 3.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.1% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  | -7.5% | -7.5% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) |  |  | 0.2% |
