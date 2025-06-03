@@ -1,21 +1,23 @@
-## 03 June 2025 - Moderate Impact Forex News
+## 04 June 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) | -0.5% | 1.2% | 6.0% |
-| 02:30 | AUD | Current Account (Q1) | -14.7B | -12.4B | -16.3B |
-| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 02:45 | CNY | Caixin Manufacturing PMI (May) | 48.3 | 50.7 | 50.4 |
-| 04:35 | JPY | 10-Year JGB Auction | 1.512% |  | 1.274% |
-| 07:30 | CHF | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
-| 08:00 | EUR | Spanish Unemployment Change (May) | -57.8K | -68.5K | -67.4K |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) | 0.27% |  | 0.45% |
-| 10:00 | EUR | Core CPI (YoY) (May) | 2.3% | 2.4% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (May) | 0.0% |  | 0.6% |
-| 10:00 | EUR | Unemployment Rate (Apr) | 6.2% | 6.2% | 6.3% |
-| 10:15 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
-| 10:30 | ZAR | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
-| 13:00 | BRL | Industrial Production (YoY) (Apr) | -0.3% | 0.2% | 3.2% |
-| 15:00 | USD | Factory Orders (MoM) (Apr) | -3.7% | -3.1% | 3.4% |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | USD | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
+| 01:30 | JPY | au Jibun Bank Services PMI (May) |  | 50.8 | 52.4 |
+| 02:30 | AUD | GDP (YoY) (Q1) |  | 1.5% | 1.3% |
+| 02:30 | AUD | GDP (QoQ) (Q1) |  | 0.4% | 0.6% |
+| 08:15 | EUR | HCOB Spain Services PMI (May) |  | 52.8 | 53.4 |
+| 08:45 | EUR | HCOB Italy Services PMI (May) |  | 52.1 | 52.9 |
+| 08:50 | EUR | HCOB France Services PMI (May) |  | 47.4 | 47.3 |
+| 08:55 | EUR | HCOB Germany Services PMI (May) |  | 47.2 | 49.0 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 49.5 | 50.4 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 48.9 | 50.1 |
+| 09:30 | GBP | S&P Global Composite PMI (May) |  | 49.4 | 48.5 |
+| 09:30 | GBP | S&P Global Services PMI (May) |  | 50.2 | 49.0 |
+| 13:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q1) |  | 0.2% | 0.6% |
+| 14:45 | USD | S&P Global Composite PMI (May) |  | 52.1 | 50.6 |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:00 | USD | ISM Non-Manufacturing Employment (May) |  |  | 49.0 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.075M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |

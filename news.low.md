@@ -1,32 +1,45 @@
-## 03 June 2025 - Low Impact Forex News
+## 04 June 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Monetary Base (YoY) (May) | -3.4% | -4.2% | -5.1% |
-| 02:30 | AUD | Business inventories (MoM) (Q1) | 0.8% | 0.2% | 0.2% |
-| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) | 0.7% |  | 4.8% |
-| 02:30 | AUD | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
-| 07:30 | CHF | CPI (YoY) (May) | -0.1% | -0.1% | 0.0% |
-| 07:45 | EUR | French Government Budget Balance (Apr) | -69.3B |  | -47.0B |
-| 08:50 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) | 5.9% | 6.1% | 6.1% |
-| 09:50 | EUR | Spanish 12-Month Letras Auction | 1.878% |  | 1.886% |
-| 09:50 | EUR | Spanish 6-Month Letras Auction | 1.890% |  | 1.937% |
-| 10:00 | EUR | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
-| 10:00 | EUR | CPI, n.s.a (May) | 128.73 |  | 128.77 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.1% |  | 0.9% |
-| 10:30 | ZAR | GDP (YoY) (Q1) | 0.8% |  | 0.8% |
-| 10:50 | EUR | German 2-Year Schatz Auction | 1.780% |  | 1.940% |
-| 13:00 | BRL | Industrial Production (MoM) (Apr) | 0.1% | 0.1% | 1.2% |
-| 13:00 | NZD | GlobalDairyTrade Price Index | -1.6% |  | -0.9% |
-| 13:00 | USD | Milk Auctions | 4,332.0 |  | 4,589.0 |
-| 13:55 | USD | Redbook (YoY) | 4.9% |  | 6.1% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Apr) | -7.5% | -7.5% | -7.5% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 0.2% |  | 0.2% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | -0.5% | 0.2% | -0.5% |
-| 15:00 | USD | Total Vehicle Sales (May) | 15.65M | 16.00M | 17.27M |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Jun) | 49.2 | 49.1 | 47.9 |
-| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 20:30 | USD | Fed Logan Speaks |  |  |  |
+| 00:00 | KRW | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
+| 00:00 | KRW | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
+| 00:00 | AUD | AIG Construction Index (May) | -6.4 |  | -7.9 |
+| 00:00 | AUD | AIG Manufacturing Index (May) | -23.5 |  | -26.5 |
+| 00:00 | AUD | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
+| 01:30 | HKD | S&P Global Manufacturing PMI (May) |  |  | 48.3 |
+| 02:30 | AUD | GDP Capital Expenditure (Q1) |  |  | 0.7% |
+| 02:30 | AUD | GDP Chain Price Index (Q1) |  |  | 1.4% |
+| 02:30 | AUD | GDP Final Consumption (Q1) |  |  | 0.5% |
+| 06:00 | INR | S&P Global Services PMI (May) |  | 61.2 | 58.7 |
+| 07:00 | NOK | Current Account (Q1) |  |  | 211.2B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) |  |  | 1.0% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (May) |  |  | 50.0 |
+| 08:45 | EUR | HCOB Italy Composite PMI (May) |  |  | 52.1 |
+| 08:50 | EUR | HCOB France Composite PMI (May) |  | 48.0 | 47.8 |
+| 08:55 | EUR | HCOB Germany Composite PMI (May) |  | 48.6 | 50.1 |
+| 10:00 | NOK | House Price Index (YoY) (May) |  |  | 5.90% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.98% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.2% |
+| 12:00 | USD | MBA Purchase Index |  |  | 162.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 235.7 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 634.1 |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
+| 13:15 | CAD | Reserve Assets Total (May) |  |  | 124.7B |
+| 13:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 49.4 |
+| 14:00 | BRL | S&P Global Services PMI (May) |  |  | 48.9 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (May) |  |  | 53.7 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (May) |  | 52.3 | 52.3 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.162M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.532M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.100M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.724M |
+| 15:30 | USD | Gasoline Production |  |  | 0.190M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.006M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
+| 15:30 | USD | Gasoline Inventories |  |  | -2.441M |
+| 17:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 2.7% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.186B |
+| 22:00 | KRW | FX Reserves - USD (May) |  |  | 404.67B |

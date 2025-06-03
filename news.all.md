@@ -1,51 +1,70 @@
-## 03 June 2025 - All Forex News
+## 04 June 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Monetary Base (YoY) (May) | -3.4% | -4.2% | -5.1% |
-| 02:30 | AUD | Low | Business inventories (MoM) (Q1) | 0.8% | 0.2% | 0.2% |
-| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q1) | -0.5% | 1.2% | 6.0% |
-| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q1) | 0.7% |  | 4.8% |
-| 02:30 | AUD | Moderate | Current Account (Q1) | -14.7B | -12.4B | -16.3B |
-| 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 48.3 | 50.7 | 50.4 |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.512% |  | 1.274% |
-| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
-| 07:30 | CHF | Low | CPI (YoY) (May) | -0.1% | -0.1% | 0.0% |
-| 07:45 | EUR | Low | French Government Budget Balance (Apr) | -69.3B |  | -47.0B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change (May) | -57.8K | -68.5K | -67.4K |
-| 08:50 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 5.9% | 6.1% | 6.1% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) | 0.27% |  | 0.45% |
-| 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 1.878% |  | 1.886% |
-| 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 1.890% |  | 1.937% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.4% | 2.7% |
-| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
-| 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 2.0% | 2.2% |
-| 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.0% |  | 0.6% |
-| 10:00 | EUR | Low | CPI, n.s.a (May) | 128.73 |  | 128.77 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.1% |  | 0.9% |
-| 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.2% | 6.2% | 6.3% |
-| 10:15 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.8% |  | 0.8% |
-| 10:50 | EUR | Low | German 2-Year Schatz Auction | 1.780% |  | 1.940% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | -0.3% | 0.2% | 3.2% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | 0.1% | 0.1% | 1.2% |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index | -1.6% |  | -0.9% |
-| 13:00 | USD | Low | Milk Auctions | 4,332.0 |  | 4,589.0 |
-| 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 6.1% |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) | -7.5% | -7.5% | -7.5% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) | 0.2% |  | 0.2% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Apr) | -3.7% | -3.1% | 3.4% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Apr) | -0.5% | 0.2% | -0.5% |
-| 15:00 | USD | High | JOLTS Job Openings (Apr) | 7.391M | 7.110M | 7.200M |
-| 15:00 | USD | Low | Total Vehicle Sales (May) | 15.65M | 16.00M | 17.27M |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jun) | 49.2 | 49.1 | 47.9 |
-| 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 18:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 22:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
+| 00:00 | KRW | Low | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
+| 00:00 | AUD | Low | AIG Construction Index (May) | -6.4 |  | -7.9 |
+| 00:00 | AUD | Low | AIG Manufacturing Index (May) | -23.5 |  | -26.5 |
+| 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) |  | 50.8 | 52.4 |
+| 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) |  |  | 48.3 |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q1) |  | 1.5% | 1.3% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.6% |
+| 02:30 | AUD | Low | GDP Capital Expenditure (Q1) |  |  | 0.7% |
+| 02:30 | AUD | Low | GDP Chain Price Index (Q1) |  |  | 1.4% |
+| 02:30 | AUD | Low | GDP Final Consumption (Q1) |  |  | 0.5% |
+| 06:00 | INR | Low | S&P Global Services PMI (May) |  | 61.2 | 58.7 |
+| 07:00 | NOK | Low | Current Account (Q1) |  |  | 211.2B |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Apr) |  |  | 1.0% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) |  | 52.8 | 53.4 |
+| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (May) |  |  | 50.0 |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (May) |  |  | 52.1 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (May) |  | 52.1 | 52.9 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (May) |  | 48.0 | 47.8 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (May) |  | 47.4 | 47.3 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (May) |  | 48.6 | 50.1 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 47.2 | 49.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 49.5 | 50.4 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 48.9 | 50.1 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (May) |  | 49.4 | 48.5 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (May) |  | 50.2 | 49.0 |
+| 10:00 | NOK | Low | House Price Index (YoY) (May) |  |  | 5.90% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.98% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.2% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 162.1 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 235.7 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 634.1 |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
+| 13:15 | CAD | Low | Reserve Assets Total (May) |  |  | 124.7B |
+| 13:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | 0.2% | 0.6% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (May) |  |  | 49.4 |
+| 14:00 | BRL | Low | S&P Global Services PMI (May) |  |  | 48.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 52.1 | 50.6 |
+| 14:45 | USD | High | S&P Global Services PMI (May) |  | 52.3 | 50.8 |
+| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.75% | 2.75% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (May) |  |  | 53.7 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (May) |  |  | 49.0 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (May) |  | 52.3 | 52.3 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (May) |  | 52.1 | 51.6 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (May) |  |  | 65.1 |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | -2.795M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.162M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.532M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.075M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.100M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.724M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.190M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.006M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.441M |
+| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 2.7% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.186B |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 404.67B |

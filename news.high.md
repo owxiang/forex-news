@@ -1,6 +1,10 @@
-## 03 June 2025 - High Impact Forex News
+## 04 June 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (May) | 1.9% | 2.0% | 2.2% |
-| 15:00 | USD | JOLTS Job Openings (Apr) | 7.391M | 7.110M | 7.200M |
+| 13:15 | USD | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
+| 14:45 | USD | S&P Global Services PMI (May) |  | 52.3 | 50.8 |
+| 14:45 | CAD | BoC Interest Rate Decision |  | 2.75% | 2.75% |
+| 15:00 | USD | ISM Non-Manufacturing PMI (May) |  | 52.1 | 51.6 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (May) |  |  | 65.1 |
+| 15:30 | USD | Crude Oil Inventories |  |  | -2.795M |
