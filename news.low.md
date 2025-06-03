@@ -2,12 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (May) |  | 0.1% | 0.1% |
-| 00:00 | KRW | CPI (YoY) (May) |  | 2.1% | 2.1% |
-| 43 min | JPY | Monetary Base (YoY) (May) |  | -4.2% | -5.1% |
-| 02:30 | AUD | Business inventories (MoM) (Q1) |  | 0.2% | 0.1% |
-| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) |  |  | 4.8% |
-| 02:30 | AUD | Net Exports Contribution (Q1) |  | -0.1% | 0.2% |
+| 00:50 | JPY | Monetary Base (YoY) (May) | -3.4% | -4.2% | -5.1% |
+| 59 min | AUD | Business inventories (MoM) (Q1) |  | 0.2% | 0.1% |
+| 59 min | AUD | Company Profits Pre-Tax (QoQ) (Q1) |  |  | 4.8% |
+| 59 min | AUD | Net Exports Contribution (Q1) |  | -0.1% | 0.2% |
 | 07:30 | CHF | CPI (YoY) (May) |  | 0.2% | 0.0% |
 | 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -47.0B |
 | 08:50 | JPY | BOJ Gov Ueda Speaks |  |  |  |

@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) |  | 1.4% | 5.9% |
-| 02:30 | AUD | Current Account (Q1) |  | -12.3B | -12.5B |
-| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
+| 59 min | AUD | Company Gross Operating Profits (QoQ) (Q1) |  | 1.4% | 5.9% |
+| 59 min | AUD | Current Account (Q1) |  | -12.3B | -12.5B |
+| 59 min | AUD | RBA Meeting Minutes |  |  |  |
 | 02:45 | CNY | Caixin Manufacturing PMI (May) |  | 50.8 | 50.4 |
 | 04:35 | JPY | 10-Year JGB Auction |  |  | 1.274% |
 | 07:30 | CHF | CPI (MoM) (May) |  | 0.2% | 0.0% |
