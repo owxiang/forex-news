@@ -25,6 +25,7 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Apr) | -7.5% | -7.5% | -7.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 0.2% |  | 0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | -0.5% | 0.2% | -0.5% |
+| 15:00 | USD | Total Vehicle Sales (May) | 15.65M | 16.00M | 17.27M |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jun) | 49.2 | 49.1 | 47.9 |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Fed Governor Cook Speaks |  |  |  |

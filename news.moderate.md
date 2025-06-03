@@ -18,4 +18,4 @@
 | 13:00 | BRL | Industrial Production (YoY) (Apr) | -0.3% | 0.2% | 3.2% |
 | 15:00 | USD | Factory Orders (MoM) (Apr) | -3.7% | -3.1% | 3.4% |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22 min | USD | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
