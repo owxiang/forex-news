@@ -10,7 +10,7 @@
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 48.3 | 50.8 | 50.4 |
-| 8 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.274% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.512% |  | 1.274% |
 | 07:30 | CHF | Moderate | CPI (MoM) (May) |  | 0.2% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (May) |  | 0.2% | 0.0% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -47.0B |
@@ -32,8 +32,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.940% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q1) |  |  | 0.9% |
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) |  |  | 0.6% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.1% | 1.2% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 0.2% | 3.1% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.1% | 1.2% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.9% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,589.0 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.1% |
