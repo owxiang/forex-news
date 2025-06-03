@@ -20,8 +20,8 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) | 0.27% |  | 0.45% |
 | 09:50 | EUR | Low | Spanish 12-Month Letras Auction | 1.878% |  | 1.886% |
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 1.890% |  | 1.937% |
-| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.4% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 2.0% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.0% |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) | 128.73 |  | 128.77 |
@@ -48,4 +48,4 @@
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
+| 22:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
