@@ -10,14 +10,14 @@
 | 07:45 | EUR | French Government Budget Balance (Apr) | -69.3B |  | -47.0B |
 | 08:50 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) | 5.9% | 6.1% | 6.1% |
-| 40 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.886% |
-| 40 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.937% |
-| 50 min | EUR | Core CPI (MoM) (May) |  |  | 1.0% |
-| 50 min | EUR | CPI, n.s.a (May) |  |  | 128.77 |
-| 50 min | EUR | HICP ex Energy & Food (YoY) (May) |  | 2.4% | 2.7% |
-| 50 min | EUR | HICP ex Energy and Food (MoM) (May) |  |  | 0.9% |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.940% |
-| 10:30 | ZAR | GDP (YoY) (Q1) |  |  | 0.9% |
+| 09:50 | EUR | Spanish 12-Month Letras Auction | 1.878% |  | 1.886% |
+| 09:50 | EUR | Spanish 6-Month Letras Auction | 1.890% |  | 1.937% |
+| 10:00 | EUR | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
+| 10:00 | EUR | CPI, n.s.a (May) | 128.73 |  | 128.77 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.1% |  | 0.9% |
+| 22 min | EUR | German 2-Year Schatz Auction |  |  | 1.940% |
+| 22 min | ZAR | GDP (YoY) (Q1) |  |  | 0.9% |
 | 13:00 | BRL | Industrial Production (MoM) (Apr) |  | 0.1% | 1.2% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.1% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  | -7.5% | -7.5% |
