@@ -28,4 +28,4 @@
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jun) | 49.2 | 49.1 | 47.9 |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 20:30 | USD | Fed Logan Speaks |  |  |  |
+| 24 min | USD | Fed Logan Speaks |  |  |  |

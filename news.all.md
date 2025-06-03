@@ -11,8 +11,8 @@
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.1% | -0.1% | 0.2% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 48.3 | 50.7 | 50.4 |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.512% |  | 1.274% |
-| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (May) | -0.1% | -0.1% | 0.0% |
+| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) | -69.3B |  | -47.0B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (May) | -57.8K | -68.5K | -67.4K |
 | 08:50 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -22,15 +22,15 @@
 | 09:50 | EUR | Low | Spanish 6-Month Letras Auction | 1.890% |  | 1.937% |
 | 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% |  | 1.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.4% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 2.0% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.0% |  | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 2.0% | 2.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) | 128.73 |  | 128.77 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.1% |  | 0.9% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.2% | 6.2% | 6.3% |
 | 10:15 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.8% |  | 0.8% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 1.780% |  | 1.940% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | -0.3% | 0.2% | 3.2% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | 0.1% | 0.1% | 1.2% |
@@ -46,5 +46,5 @@
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
+| 24 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | -4.236M |
