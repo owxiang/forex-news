@@ -9,10 +9,10 @@
 | 04:35 | JPY | 10-Year JGB Auction | 1.512% |  | 1.274% |
 | 07:30 | CHF | CPI (MoM) (May) | 0.1% | 0.1% | 0.0% |
 | 08:00 | EUR | Spanish Unemployment Change (May) | -57.8K | -68.5K | -67.4K |
-| 52 min | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.45% |
-| 10:00 | EUR | Core CPI (YoY) (May) |  | 2.4% | 2.7% |
-| 10:00 | EUR | CPI (MoM) (May) |  |  | 0.6% |
-| 10:00 | EUR | Unemployment Rate (Apr) |  | 6.2% | 6.2% |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) | 0.27% |  | 0.45% |
+| 50 min | EUR | Core CPI (YoY) (May) |  | 2.4% | 2.7% |
+| 50 min | EUR | CPI (MoM) (May) |  |  | 0.6% |
+| 50 min | EUR | Unemployment Rate (Apr) |  | 6.2% | 6.2% |
 | 10:15 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q1) |  |  | 0.6% |
 | 13:00 | BRL | Industrial Production (YoY) (Apr) |  | 0.2% | 3.1% |
