@@ -17,5 +17,5 @@
 | 10:30 | ZAR | GDP Annualized (QoQ) (Q1) | 0.1% | 0.0% | 0.6% |
 | 13:00 | BRL | Industrial Production (YoY) (Apr) | -0.3% | 0.2% | 3.2% |
 | 15:00 | USD | Factory Orders (MoM) (Apr) | -3.7% | -3.1% | 3.4% |
-| 52 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 16.300M | -4.236M |

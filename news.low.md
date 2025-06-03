@@ -26,7 +26,6 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 0.2% |  | 0.2% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | -0.5% | 0.2% | -0.5% |
 | 15:10 | USD | IBD/TIPP Economic Optimism (Jun) | 49.2 | 49.1 | 47.9 |
-| 52 min | EUR | Italian Car Registration (YoY) (May) |  |  | 2.7% |
-| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 36 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 51 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | Fed Logan Speaks |  |  |  |
