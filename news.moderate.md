@@ -20,4 +20,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (May) | 50.7 | 49.0 | 49.0 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.576M |  | 0.075M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
-| 53 min | USD | Beige Book |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |

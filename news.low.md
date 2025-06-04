@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
 | 00:00 | KRW | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
+| 00:00 | KRW | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
 | 00:00 | AUD | AIG Construction Index (May) | -6.4 |  | -7.9 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -23.5 |  | -26.5 |
 | 00:00 | AUD | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
@@ -25,8 +25,8 @@
 | 12:00 | USD | MBA Purchase Index | 155.0 |  | 162.1 |
 | 12:00 | USD | Mortgage Market Index | 226.4 |  | 235.7 |
 | 12:00 | USD | Mortgage Refinance Index | 611.8 |  | 634.1 |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.30% |  | 0.10% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | -0.20% |  | -7.80% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.30% |  | 0.10% |
 | 13:15 | CAD | Reserve Assets Total (May) | 125.0B |  | 124.7B |
 | 13:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 14:00 | USD | All Car Sales (May) | 2.58M |  | 2.88M |
@@ -43,5 +43,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.282M |  | -0.006M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.2% |  | -0.5% |
 | 15:30 | USD | Gasoline Inventories | 5.219M | 1.500M | -2.441M |
-| 23 min | BRL | Foreign Exchange Flows |  |  | -0.186B |
+| 18:30 | BRL | Foreign Exchange Flows | 1.058B |  | -0.186B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 404.67B |

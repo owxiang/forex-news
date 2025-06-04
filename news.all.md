@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
 | 00:00 | KRW | Low | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
 | 00:00 | AUD | Low | AIG Construction Index (May) | -6.4 |  | -7.9 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (May) | -23.5 |  | -26.5 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
@@ -36,8 +36,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 155.0 |  | 162.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 226.4 |  | 235.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 611.8 |  | 634.1 |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) | 0.30% |  | 0.10% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) | -0.20% |  | -7.80% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) | 0.30% |  | 0.10% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (May) | 37K | 111K | 60K |
 | 13:15 | CAD | Low | Reserve Assets Total (May) | 125.0B |  | 124.7B |
 | 13:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
@@ -67,6 +67,6 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 3.2% |  | -0.5% |
 | 15:30 | USD | Low | Gasoline Inventories | 5.219M | 1.500M | -2.441M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | -0.186B |
-| 53 min | USD | Moderate | Beige Book |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 1.058B |  | -0.186B |
+| 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 404.67B |
