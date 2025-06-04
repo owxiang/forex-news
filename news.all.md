@@ -9,8 +9,8 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 51.0 | 50.8 | 52.4 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) | 49.0 |  | 48.3 |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.4% | 0.6% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.3% | 1.5% | 1.3% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.4% | 0.6% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | 0.1% |  | 0.7% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.5% |  | 1.4% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.2% |  | 0.6% |
@@ -69,4 +69,4 @@
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.058B |  | -0.186B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 404.67B |
+| 54 min | KRW | Low | FX Reserves - USD (May) |  |  | 404.67B |
