@@ -24,8 +24,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 162.1 |
 | 12:00 | USD | Mortgage Market Index |  |  | 235.7 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 634.1 |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
 | 13:15 | CAD | Reserve Assets Total (May) |  |  | 124.7B |
 | 13:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 49.4 |
