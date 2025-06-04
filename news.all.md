@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
+| 00:00 | KRW | Low | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
 | 00:00 | AUD | Low | AIG Construction Index (May) | -6.4 |  | -7.9 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (May) | -23.5 |  | -26.5 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) |  | 50.8 | 52.4 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) |  |  | 48.3 |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q1) |  | 1.5% | 1.3% |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.6% |
-| 02:30 | AUD | Low | GDP Capital Expenditure (Q1) |  |  | 0.7% |
-| 02:30 | AUD | Low | GDP Chain Price Index (Q1) |  |  | 1.4% |
-| 02:30 | AUD | Low | GDP Final Consumption (Q1) |  |  | 0.5% |
+| 59 min | AUD | Moderate | GDP (YoY) (Q1) |  | 1.5% | 1.3% |
+| 59 min | AUD | Moderate | GDP (QoQ) (Q1) |  | 0.4% | 0.6% |
+| 59 min | AUD | Low | GDP Capital Expenditure (Q1) |  |  | 0.7% |
+| 59 min | AUD | Low | GDP Chain Price Index (Q1) |  |  | 1.4% |
+| 59 min | AUD | Low | GDP Final Consumption (Q1) |  |  | 0.5% |
 | 06:00 | INR | Low | S&P Global Services PMI (May) |  | 61.2 | 58.7 |
 | 07:00 | NOK | Low | Current Account (Q1) |  |  | 211.2B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Apr) |  |  | 1.0% |

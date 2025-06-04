@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
 | 00:00 | KRW | CPI (YoY) (May) | 1.9% | 2.1% | 2.1% |
+| 00:00 | KRW | CPI (MoM) (May) | -0.1% | 0.1% | 0.1% |
 | 00:00 | AUD | AIG Construction Index (May) | -6.4 |  | -7.9 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -23.5 |  | -26.5 |
 | 00:00 | AUD | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
 | 01:30 | HKD | S&P Global Manufacturing PMI (May) |  |  | 48.3 |
-| 02:30 | AUD | GDP Capital Expenditure (Q1) |  |  | 0.7% |
-| 02:30 | AUD | GDP Chain Price Index (Q1) |  |  | 1.4% |
-| 02:30 | AUD | GDP Final Consumption (Q1) |  |  | 0.5% |
+| 59 min | AUD | GDP Capital Expenditure (Q1) |  |  | 0.7% |
+| 59 min | AUD | GDP Chain Price Index (Q1) |  |  | 1.4% |
+| 59 min | AUD | GDP Final Consumption (Q1) |  |  | 0.5% |
 | 06:00 | INR | S&P Global Services PMI (May) |  | 61.2 | 58.7 |
 | 07:00 | NOK | Current Account (Q1) |  |  | 211.2B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) |  |  | 1.0% |
