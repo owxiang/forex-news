@@ -35,8 +35,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 162.1 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 235.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 634.1 |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
 | 13:15 | CAD | Low | Reserve Assets Total (May) |  |  | 124.7B |
 | 13:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
