@@ -7,10 +7,10 @@
 | 00:00 | AUD | AIG Construction Index (May) | -6.4 |  | -7.9 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -23.5 |  | -26.5 |
 | 00:00 | AUD | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
-| 01:30 | HKD | S&P Global Manufacturing PMI (May) |  |  | 48.3 |
-| 59 min | AUD | GDP Capital Expenditure (Q1) |  |  | 0.7% |
-| 59 min | AUD | GDP Chain Price Index (Q1) |  |  | 1.4% |
-| 59 min | AUD | GDP Final Consumption (Q1) |  |  | 0.5% |
+| 01:30 | HKD | S&P Global Manufacturing PMI (May) | 49.0 |  | 48.3 |
+| 02:30 | AUD | GDP Capital Expenditure (Q1) | 0.1% |  | 0.7% |
+| 02:30 | AUD | GDP Chain Price Index (Q1) | 0.5% |  | 1.4% |
+| 02:30 | AUD | GDP Final Consumption (Q1) | 0.2% |  | 0.5% |
 | 06:00 | INR | S&P Global Services PMI (May) |  | 61.2 | 58.7 |
 | 07:00 | NOK | Current Account (Q1) |  |  | 211.2B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) |  |  | 1.0% |
@@ -24,8 +24,8 @@
 | 12:00 | USD | MBA Purchase Index |  |  | 162.1 |
 | 12:00 | USD | Mortgage Market Index |  |  | 235.7 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 634.1 |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
 | 13:15 | CAD | Reserve Assets Total (May) |  |  | 124.7B |
 | 13:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 49.4 |
