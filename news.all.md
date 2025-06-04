@@ -69,4 +69,4 @@
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.058B |  | -0.186B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 54 min | KRW | Low | FX Reserves - USD (May) |  |  | 404.67B |
+| 22:00 | KRW | Low | FX Reserves - USD (May) | 404.60B |  | 404.67B |
