@@ -9,8 +9,8 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 51.0 | 50.8 | 52.4 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) | 49.0 |  | 48.3 |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.4% | 0.6% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.3% | 1.5% | 1.3% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.4% | 0.6% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | 0.1% |  | 0.7% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.5% |  | 1.4% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.2% |  | 0.6% |
@@ -36,15 +36,15 @@
 | 12:00 | USD | Low | MBA Purchase Index | 155.0 |  | 162.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 226.4 |  | 235.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 611.8 |  | 634.1 |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
-| 13:15 | CAD | Low | Reserve Assets Total (May) |  |  | 124.7B |
-| 13:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | 0.2% | 0.6% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (May) |  |  | 49.4 |
-| 14:00 | BRL | Low | S&P Global Services PMI (May) |  |  | 48.9 |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) | 0.30% |  | 0.10% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) | -0.20% |  | -7.80% |
+| 3 min | USD | High | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
+| 3 min | CAD | Low | Reserve Assets Total (May) |  |  | 124.7B |
+| 18 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 18 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 18 min | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | 0.2% | 0.6% |
+| 48 min | BRL | Low | S&P Global Composite PMI (May) |  |  | 49.4 |
+| 48 min | BRL | Low | S&P Global Services PMI (May) |  |  | 48.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 52.1 | 50.6 |
 | 14:45 | USD | High | S&P Global Services PMI (May) |  | 52.3 | 50.8 |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |

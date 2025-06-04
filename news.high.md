@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
+| 3 min | USD | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
 | 14:45 | USD | S&P Global Services PMI (May) |  | 52.3 | 50.8 |
 | 14:45 | CAD | BoC Interest Rate Decision |  | 2.75% | 2.75% |
 | 15:00 | USD | ISM Non-Manufacturing PMI (May) |  | 52.0 | 51.6 |
