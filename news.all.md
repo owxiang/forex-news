@@ -29,13 +29,13 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) | 49.7 | 48.9 | 50.1 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (May) | 50.3 | 49.4 | 48.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (May) | 50.9 | 50.2 | 49.0 |
-| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.834% |
+| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.062% |  | 3.834% |
 | 10:00 | NOK | Low | House Price Index (YoY) (May) | 5.20% |  | 5.90% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.98% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.2% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 162.1 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 235.7 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 634.1 |
+| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.98% |
+| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.2% |
+| 53 min | USD | Low | MBA Purchase Index |  |  | 162.1 |
+| 53 min | USD | Low | Mortgage Market Index |  |  | 235.7 |
+| 53 min | USD | Low | Mortgage Refinance Index |  |  | 634.1 |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.10% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | -7.80% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 111K | 62K |
