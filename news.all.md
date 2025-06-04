@@ -16,17 +16,17 @@
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.2% |  | 0.6% |
 | 06:00 | INR | Low | S&P Global Services PMI (May) | 58.8 | 61.2 | 58.7 |
 | 07:00 | NOK | Low | Current Account (Q1) | 286.5B |  | 203.7B |
-| 50 min | EUR | Low | Spanish Industrial Production (YoY) (Apr) |  |  | 1.0% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) |  | 52.8 | 53.4 |
-| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (May) |  |  | 50.0 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (May) |  |  | 52.1 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (May) |  | 52.1 | 52.9 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (May) |  | 48.0 | 47.8 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (May) |  | 47.4 | 47.3 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (May) |  | 48.6 | 50.1 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 47.2 | 49.0 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 49.5 | 50.4 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 48.9 | 50.1 |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Apr) | 0.6% |  | 0.9% |
+| 8 min | EUR | Moderate | HCOB Spain Services PMI (May) |  | 52.8 | 53.4 |
+| 8 min | ZAR | Low | S&P Global Manufacturing PMI (May) |  |  | 50.0 |
+| 38 min | EUR | Low | HCOB Italy Composite PMI (May) |  |  | 52.1 |
+| 38 min | EUR | Moderate | HCOB Italy Services PMI (May) |  | 52.1 | 52.9 |
+| 43 min | EUR | Low | HCOB France Composite PMI (May) |  | 48.0 | 47.8 |
+| 43 min | EUR | Moderate | HCOB France Services PMI (May) |  | 47.4 | 47.3 |
+| 48 min | EUR | Low | HCOB Germany Composite PMI (May) |  | 48.6 | 50.1 |
+| 48 min | EUR | Moderate | HCOB Germany Services PMI (May) |  | 47.2 | 49.0 |
+| 53 min | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 49.5 | 50.4 |
+| 53 min | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 48.9 | 50.1 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (May) |  | 49.4 | 48.5 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (May) |  | 50.2 | 49.0 |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.834% |
