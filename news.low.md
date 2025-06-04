@@ -27,19 +27,21 @@
 | 12:00 | USD | Mortgage Refinance Index | 611.8 |  | 634.1 |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.30% |  | 0.10% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | -0.20% |  | -7.80% |
-| 3 min | CAD | Reserve Assets Total (May) |  |  | 124.7B |
-| 18 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 48 min | BRL | S&P Global Composite PMI (May) |  |  | 49.4 |
-| 48 min | BRL | S&P Global Services PMI (May) |  |  | 48.9 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (May) |  |  | 53.7 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (May) |  | 52.3 | 52.3 |
+| 13:15 | CAD | Reserve Assets Total (May) | 125.0B |  | 124.7B |
+| 13:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 14:00 | USD | All Car Sales (May) | 2.58M |  | 2.88M |
+| 14:00 | USD | All Truck Sales (May) | 13.07M |  | 14.38M |
+| 14:00 | BRL | S&P Global Composite PMI (May) | 49.1 |  | 49.4 |
+| 14:00 | BRL | S&P Global Services PMI (May) | 49.6 |  | 48.9 |
+| 44 min | USD | ISM Non-Manufacturing Business Activity (May) |  |  | 53.7 |
+| 44 min | USD | ISM Non-Manufacturing New Orders (May) |  | 52.3 | 52.3 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.162M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.532M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.100M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.724M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 2.200M | -0.724M |
 | 15:30 | USD | Gasoline Production |  |  | 0.190M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.006M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 15:30 | USD | Gasoline Inventories |  |  | -2.441M |
+| 15:30 | USD | Gasoline Inventories |  | 1.500M | -2.441M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.186B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 404.67B |
