@@ -1,23 +1,25 @@
-## 04 June 2025 - Moderate Impact Forex News
+## 05 June 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (May) | 51.0 | 50.8 | 52.4 |
-| 02:30 | AUD | GDP (QoQ) (Q1) | 0.2% | 0.4% | 0.6% |
-| 02:30 | AUD | GDP (YoY) (Q1) | 1.3% | 1.5% | 1.3% |
-| 08:15 | EUR | HCOB Spain Services PMI (May) | 51.3 | 52.8 | 53.4 |
-| 08:45 | EUR | HCOB Italy Services PMI (May) | 53.2 | 52.1 | 52.9 |
-| 08:50 | EUR | HCOB France Services PMI (May) | 48.9 | 47.4 | 47.3 |
-| 08:55 | EUR | HCOB Germany Services PMI (May) | 47.1 | 47.2 | 49.0 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (May) | 50.2 | 49.5 | 50.4 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (May) | 49.7 | 48.9 | 50.1 |
-| 09:30 | GBP | S&P Global Composite PMI (May) | 50.3 | 49.4 | 48.5 |
-| 09:30 | GBP | S&P Global Services PMI (May) | 50.9 | 50.2 | 49.0 |
-| 13:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q1) | 0.2% | 0.2% | 0.6% |
-| 14:45 | USD | S&P Global Composite PMI (May) | 53.0 | 52.1 | 50.6 |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | ISM Non-Manufacturing Employment (May) | 50.7 | 49.0 | 49.0 |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.576M |  | 0.075M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
+| 02:30 | AUD | Trade Balance (Apr) |  | 5.960B | 6.900B |
+| 02:45 | CNY | Caixin Services PMI (May) |  | 51.0 | 50.7 |
+| 05:20 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 07:00 | EUR | German Factory Orders (MoM) (Apr) |  | -1.5% | 3.6% |
+| 09:30 | GBP | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.65% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,910K | 1,919K |
+| 13:30 | USD | Exports (Apr) |  |  | 278.50B |
+| 13:30 | USD | Imports (Apr) |  |  | 419.00B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | -0.8% | -1.7% |
+| 13:30 | USD | Trade Balance (Apr) |  | -67.60B | -140.50B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 5.7% | 2.0% |
+| 13:30 | CAD | Trade Balance (Apr) |  | -1.40B | -0.51B |
+| 15:00 | CAD | Ivey PMI (May) |  | 48.3 | 47.9 |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 16:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 17:20 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 4.6% | 4.6% |
+| 18:30 | USD | FOMC Member Harker Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,673B |
