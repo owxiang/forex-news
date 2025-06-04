@@ -35,13 +35,13 @@
 | 14:00 | BRL | S&P Global Services PMI (May) | 49.6 |  | 48.9 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (May) | 50.0 |  | 53.7 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (May) | 46.4 | 52.3 | 52.3 |
-| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.162M |
-| 24 min | USD | Crude Oil Imports |  |  | -0.532M |
-| 24 min | USD | Distillate Fuel Production |  |  | 0.100M |
-| 24 min | USD | EIA Weekly Distillates Stocks |  | 2.200M | -0.724M |
-| 24 min | USD | Gasoline Production |  |  | 0.190M |
-| 24 min | USD | Heating Oil Stockpiles |  |  | -0.006M |
-| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 24 min | USD | Gasoline Inventories |  | 1.500M | -2.441M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.670M |  | -0.162M |
+| 15:30 | USD | Crude Oil Imports | 0.389M |  | -0.532M |
+| 15:30 | USD | Distillate Fuel Production | 0.182M |  | 0.100M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 4.230M | 2.200M | -0.724M |
+| 15:30 | USD | Gasoline Production | -0.714M |  | 0.190M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.282M |  | -0.006M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.2% |  | -0.5% |
+| 15:30 | USD | Gasoline Inventories | 5.219M | 1.500M | -2.441M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.186B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 404.67B |

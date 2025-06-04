@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (May) | 51.0 | 50.8 | 52.4 |
-| 02:30 | AUD | GDP (YoY) (Q1) | 1.3% | 1.5% | 1.3% |
 | 02:30 | AUD | GDP (QoQ) (Q1) | 0.2% | 0.4% | 0.6% |
+| 02:30 | AUD | GDP (YoY) (Q1) | 1.3% | 1.5% | 1.3% |
 | 08:15 | EUR | HCOB Spain Services PMI (May) | 51.3 | 52.8 | 53.4 |
 | 08:45 | EUR | HCOB Italy Services PMI (May) | 53.2 | 52.1 | 52.9 |
 | 08:50 | EUR | HCOB France Services PMI (May) | 48.9 | 47.4 | 47.3 |
@@ -18,6 +18,6 @@
 | 14:45 | USD | S&P Global Composite PMI (May) | 53.0 | 52.1 | 50.6 |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:00 | USD | ISM Non-Manufacturing Employment (May) | 50.7 | 49.0 | 49.0 |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | 0.075M |
-| 24 min | CAD | BOC Press Conference |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.576M |  | 0.075M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |

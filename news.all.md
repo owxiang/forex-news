@@ -9,8 +9,8 @@
 | 00:00 | AUD | Low | Judo Bank Services PMI (May) | 50.6 | 50.5 | 51.0 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (May) | 51.0 | 50.8 | 52.4 |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (May) | 49.0 |  | 48.3 |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.3% | 1.5% | 1.3% |
 | 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.2% | 0.4% | 0.6% |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.3% | 1.5% | 1.3% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | 0.1% |  | 0.7% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.5% |  | 1.4% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.2% |  | 0.6% |
@@ -56,17 +56,17 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (May) | 46.4 | 52.3 | 52.3 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (May) | 49.9 | 52.0 | 51.6 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (May) | 68.7 | 65.1 | 65.1 |
-| 24 min | USD | High | Crude Oil Inventories |  | -2.900M | -2.795M |
-| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.162M |
-| 24 min | USD | Low | Crude Oil Imports |  |  | -0.532M |
-| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.075M |
-| 24 min | USD | Low | Distillate Fuel Production |  |  | 0.100M |
-| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 2.200M | -0.724M |
-| 24 min | USD | Low | Gasoline Production |  |  | 0.190M |
-| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.006M |
-| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 24 min | USD | Low | Gasoline Inventories |  | 1.500M | -2.441M |
-| 24 min | CAD | Moderate | BOC Press Conference |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | -4.304M | -2.900M | -2.795M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.670M |  | -0.162M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.389M |  | -0.532M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.576M |  | 0.075M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.182M |  | 0.100M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 4.230M | 2.200M | -0.724M |
+| 15:30 | USD | Low | Gasoline Production | -0.714M |  | 0.190M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.282M |  | -0.006M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 3.2% |  | -0.5% |
+| 15:30 | USD | Low | Gasoline Inventories | 5.219M | 1.500M | -2.441M |
+| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.186B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 404.67B |

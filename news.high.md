@@ -7,4 +7,4 @@
 | 14:45 | CAD | BoC Interest Rate Decision | 2.75% | 2.75% | 2.75% |
 | 15:00 | USD | ISM Non-Manufacturing PMI (May) | 49.9 | 52.0 | 51.6 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (May) | 68.7 | 65.1 | 65.1 |
-| 24 min | USD | Crude Oil Inventories |  | -2.900M | -2.795M |
+| 15:30 | USD | Crude Oil Inventories | -4.304M | -2.900M | -2.795M |
