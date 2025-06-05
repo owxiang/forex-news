@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
 | 00:00 | KRW | Low | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
 | 00:30 | JPY | Low | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -118.0B |  | 100.4B |
@@ -14,27 +14,27 @@
 | 02:30 | AUD | Moderate | Trade Balance (Apr) | 5.413B | 5.960B | 6.892B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 51.1 | 51.0 | 50.7 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.904% |  | 2.941% |
-| 8 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 48 min | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -2.8% |
-| 48 min | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 1.1% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (May) |  | 2.8% | 2.8% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | -1.5% | 3.6% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | -2.7% |
+| 38 min | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
+| 38 min | CHF | Low | Unemployment Rate s.a. (May) |  | 2.8% | 2.8% |
+| 53 min | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | -1.5% | 3.6% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (May) |  |  | 50.1 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 45.1 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
 | 09:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.251% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.375% |
+| 09:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.750% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.24% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 4.04% |
-| 10:00 | EUR | Low | PPI (YoY) (Apr) |  | 1.2% | 1.9% |
 | 10:00 | EUR | Low | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Apr) |  | 1.2% | 1.9% |
 | 10:00 | ZAR | Low | Current Account (Q1) |  |  | -31.6B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) |  |  | -0.40% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
@@ -62,7 +62,7 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (May) |  |  | 52.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (May) |  | 48.3 | 47.9 |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 112B | 101B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 111B | 101B |
 | 16:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.215% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.225% |
