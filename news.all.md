@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
 | 00:00 | KRW | Low | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
 | 00:30 | JPY | Low | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -118.0B |  | 100.4B |
@@ -26,18 +26,18 @@
 | 09:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 3.7% |  | -2.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
-| 21 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 21 min | GBP | Moderate | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |
-| 31 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.251% |
-| 31 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.375% |
-| 31 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 2.750% |
-| 50 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.24% |
-| 50 min | EUR | Low | French 30-Year OAT Auction |  |  | 4.04% |
-| 50 min | EUR | Low | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
-| 50 min | EUR | Low | PPI (YoY) (Apr) |  | 1.2% | 1.9% |
-| 50 min | ZAR | Low | Current Account (Q1) |  |  | -31.6B |
-| 50 min | ZAR | Low | Current Account % of GDP (Q1) |  |  | -0.40% |
-| 11:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
+| 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global Construction PMI (May) | 47.9 | 47.4 | 46.6 |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.17% |  | 3.24% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 3.95% |  | 4.04% |
+| 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
+| 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
+| 10:00 | EUR | Low | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
+| 10:00 | ZAR | Low | Current Account (Q1) | -35.6B |  | -39.3B |
+| 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
+| 53 min | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 62.7% |
 | 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 105.441K |
 | 13:00 | MXN | Low | Consumer Confidence (May) |  |  | 45.3 |
