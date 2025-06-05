@@ -14,8 +14,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Apr) | 5.413B | 5.960B | 6.892B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 51.1 | 51.0 | 50.7 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.904% |  | 2.941% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | -2.7% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) | 0.6% | -1.5% | 3.4% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (May) | 2.8% | 2.8% | 2.8% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (May) | 2.9% | 2.8% | 2.8% |
@@ -24,8 +24,8 @@
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) | 43.1 |  | 43.6 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) | 45.6 |  | 46.0 |
 | 09:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 3.7% |  | -2.7% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (May) | 47.9 | 47.4 | 46.6 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) | 150,070.0 |  | 120,331.0 |
@@ -34,12 +34,12 @@
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
-| 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
-| 12:30 | USD | Low | Challenger Job Cuts (May) | 93.816K |  | 105.441K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 47.0% |  | 62.7% |
+| 12:30 | USD | Low | Challenger Job Cuts (May) | 93.816K |  | 105.441K |
 | 13:00 | MXN | Low | Consumer Confidence (May) | 46.7 |  | 45.5 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (May) | 46.5 |  | 45.5 |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) | 2.00% | 2.00% | 2.25% |
@@ -71,5 +71,5 @@
 | 17:20 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (May) | 7.24B | 8.40B | 7.64B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,673B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.294T |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,673B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.294T |
