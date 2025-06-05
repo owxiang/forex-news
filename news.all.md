@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
-| 10:00 | EUR | Low | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
 | 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
+| 10:00 | EUR | Low | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 47.0% |  | 62.7% |
@@ -71,5 +71,5 @@
 | 17:20 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (May) | 7.24B | 8.40B | 7.64B |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,673B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.294T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,673B |  | 6,673B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.362T |  | 3.294T |

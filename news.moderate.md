@@ -21,4 +21,4 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.8% | 4.6% | 4.6% |
 | 17:20 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 18:30 | USD | FOMC Member Harker Speaks |  |  |  |
-| 23 min | USD | Fed's Balance Sheet |  |  | 6,673B |
+| 21:30 | USD | Fed's Balance Sheet | 6,673B |  | 6,673B |
