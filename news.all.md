@@ -14,8 +14,8 @@
 | 02:30 | AUD | Moderate | Trade Balance (Apr) | 5.413B | 5.960B | 6.892B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 51.1 | 51.0 | 50.7 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.904% |  | 2.941% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | -2.7% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | -2.7% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) | 0.6% | -1.5% | 3.4% |
 | 08:00 | CHF | Low | Unemployment Rate n.s.a. (May) | 2.8% | 2.8% | 2.8% |
 | 08:00 | CHF | Low | Unemployment Rate s.a. (May) | 2.9% | 2.8% | 2.8% |
@@ -24,10 +24,11 @@
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) | 43.1 |  | 43.6 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) | 45.6 |  | 46.0 |
 | 09:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 3.7% |  | -2.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 3.7% |  | -2.7% |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (May) | 47.9 | 47.4 | 46.6 |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) | 150,070.0 |  | 120,331.0 |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.17% |  | 3.24% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.95% |  | 4.04% |
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
@@ -37,9 +38,8 @@
 | 10:00 | EUR | Low | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
-| 53 min | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 62.7% |
 | 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 105.441K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 62.7% |
 | 13:00 | MXN | Low | Consumer Confidence (May) |  |  | 45.3 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (May) |  |  | 45.5 |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 2.00% | 2.25% |
