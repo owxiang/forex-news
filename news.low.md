@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
+| 00:00 | KRW | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:30 | JPY | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
 | 00:30 | JPY | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
 | 00:50 | JPY | Foreign Bonds Buying | -118.0B |  | 100.4B |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
-| 10:00 | EUR | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | EUR | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
+| 10:00 | EUR | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | ZAR | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
 | 12:30 | USD | Challenger Job Cuts (May) | 93.816K |  | 105.441K |
@@ -41,8 +41,10 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 235.00K |  | 230.50K |
 | 13:30 | CAD | Exports (Apr) | 60.44B |  | 67.76B |
 | 13:30 | CAD | Imports (Apr) | 67.58B |  | 70.01B |
-| 44 min | CAD | Ivey PMI n.s.a (May) |  |  | 52.3 |
-| 15:30 | USD | Natural Gas Storage |  | 111B | 101B |
+| 15:00 | CAD | Ivey PMI n.s.a (May) | 53.8 |  | 52.3 |
+| 15:00 | BRL | Auto Production (MoM) (May) | -5.9% |  | 20.1% |
+| 15:00 | BRL | Auto Sales (MoM) (May) | 8.1% |  | 6.7% |
+| 23 min | USD | Natural Gas Storage |  | 111B | 101B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.215% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |
 | 19:00 | BRL | Trade Balance (May) |  | 8.40B | 8.15B |

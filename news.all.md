@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:30 | JPY | Low | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -118.0B |  | 100.4B |
@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
-| 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
 | 12:30 | USD | Low | Challenger Job Cuts (May) | 93.816K |  | 105.441K |
@@ -58,11 +58,13 @@
 | 13:30 | CAD | Low | Imports (Apr) | 67.58B |  | 70.01B |
 | 13:30 | CAD | Moderate | Trade Balance (Apr) | -7.14B | -1.40B | -2.26B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 44 min | CAD | Low | Ivey PMI n.s.a (May) |  |  | 52.3 |
-| 44 min | CAD | Moderate | Ivey PMI (May) |  | 48.3 | 47.9 |
-| 59 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 111B | 101B |
-| 16:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (May) | 53.8 |  | 52.3 |
+| 15:00 | CAD | Moderate | Ivey PMI (May) | 48.9 | 48.3 | 47.9 |
+| 15:00 | BRL | Low | Auto Production (MoM) (May) | -5.9% |  | 20.1% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (May) | 8.1% |  | 6.7% |
+| 8 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23 min | USD | Low | Natural Gas Storage |  | 111B | 101B |
+| 53 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.215% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.225% |
 | 17:20 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |

@@ -15,9 +15,9 @@
 | 13:30 | USD | Trade Balance (Apr) | -61.60B | -67.60B | -138.30B |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 6.6% | 5.7% | 2.0% |
 | 13:30 | CAD | Trade Balance (Apr) | -7.14B | -1.40B | -2.26B |
-| 44 min | CAD | Ivey PMI (May) |  | 48.3 | 47.9 |
-| 59 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 16:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 15:00 | CAD | Ivey PMI (May) | 48.9 | 48.3 | 47.9 |
+| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 53 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 17:20 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 4.6% | 4.6% |
 | 18:30 | USD | FOMC Member Harker Speaks |  |  |  |
