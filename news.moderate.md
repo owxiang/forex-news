@@ -18,7 +18,7 @@
 | 15:00 | CAD | Ivey PMI (May) | 48.9 | 48.3 | 47.9 |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 17:20 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 4.6% | 4.6% |
+| 12 min | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 52 min | USD | Atlanta Fed GDPNow (Q2) |  | 4.6% | 4.6% |
 | 18:30 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,673B |

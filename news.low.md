@@ -21,8 +21,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (May) | 43.1 |  | 43.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) | 45.6 |  | 46.0 |
 | 09:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Apr) | 3.7% |  | -2.7% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (May) | 150,070.0 |  | 120,331.0 |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.17% |  | 3.24% |
@@ -45,7 +45,7 @@
 | 15:00 | BRL | Auto Production (MoM) (May) | -5.9% |  | 20.1% |
 | 15:00 | BRL | Auto Sales (MoM) (May) | 8.1% |  | 6.7% |
 | 15:30 | USD | Natural Gas Storage | 122B | 111B | 101B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.215% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.225% |
+| 16:30 | USD | 4-Week Bill Auction | 4.170% |  | 4.215% |
+| 16:30 | USD | 8-Week Bill Auction | 4.225% |  | 4.225% |
 | 19:00 | BRL | Trade Balance (May) |  | 8.40B | 8.15B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.294T |

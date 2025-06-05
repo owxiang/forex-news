@@ -24,8 +24,8 @@
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) | 43.1 |  | 43.6 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) | 45.6 |  | 46.0 |
 | 09:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | 3.7% |  | -2.7% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (May) | 47.9 | 47.4 | 46.6 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) | 150,070.0 |  | 120,331.0 |
@@ -65,10 +65,10 @@
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 122B | 111B | 101B |
 | 16:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.215% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.225% |
-| 17:20 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 4.6% | 4.6% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.170% |  | 4.215% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.225% |
+| 12 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 4.6% | 4.6% |
 | 18:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (May) |  | 8.40B | 8.15B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,673B |
