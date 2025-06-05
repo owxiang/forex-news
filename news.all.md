@@ -13,8 +13,8 @@
 | 02:30 | AUD | Low | Imports (MoM) (Apr) | 1.1% |  | -2.4% |
 | 02:30 | AUD | Moderate | Trade Balance (Apr) | 5.413B | 5.960B | 6.892B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 51.1 | 51.0 | 50.7 |
-| 58 min | JPY | Low | 30-Year JGB Auction |  |  | 2.941% |
-| 05:20 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 7 min | JPY | Low | 30-Year JGB Auction |  |  | 2.941% |
+| 52 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 1.1% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -2.8% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.8% |

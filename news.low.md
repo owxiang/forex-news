@@ -11,7 +11,7 @@
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 1.9% |  | 0.0% |
 | 02:30 | AUD | Exports (MoM) (Apr) | -2.4% |  | 7.2% |
 | 02:30 | AUD | Imports (MoM) (Apr) | 1.1% |  | -2.4% |
-| 58 min | JPY | 30-Year JGB Auction |  |  | 2.941% |
+| 7 min | JPY | 30-Year JGB Auction |  |  | 2.941% |
 | 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 1.1% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | -2.8% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
