@@ -14,15 +14,15 @@
 | 04:35 | JPY | 30-Year JGB Auction | 2.904% |  | 2.941% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) | 0.3% |  | -2.7% |
 | 06:00 | SGD | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
-| 50 min | CHF | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
-| 50 min | CHF | Unemployment Rate s.a. (May) |  | 2.8% | 2.8% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) |  |  | 50.1 |
-| 08:30 | EUR | HCOB Germany Construction PMI (May) |  |  | 45.1 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
-| 09:00 | GBP | Car Registration (YoY) (May) |  |  | -10.4% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
+| 08:00 | CHF | Unemployment Rate n.s.a. (May) | 2.8% | 2.8% | 2.8% |
+| 08:00 | CHF | Unemployment Rate s.a. (May) | 2.9% | 2.8% | 2.8% |
+| 22 min | EUR | HCOB Italy Construction PMI (MoM) (May) |  |  | 50.1 |
+| 22 min | EUR | HCOB Germany Construction PMI (May) |  |  | 45.1 |
+| 22 min | EUR | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
+| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
+| 52 min | GBP | Car Registration (YoY) (May) |  |  | -10.4% |
+| 52 min | EUR | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
+| 52 min | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.251% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.375% |

@@ -17,15 +17,15 @@
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | 0.3% |  | -2.7% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) | 0.6% | -1.5% | 3.4% |
-| 50 min | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
-| 50 min | CHF | Low | Unemployment Rate s.a. (May) |  | 2.8% | 2.8% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (May) |  |  | 50.1 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 45.1 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
-| 09:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
+| 08:00 | CHF | Low | Unemployment Rate n.s.a. (May) | 2.8% | 2.8% | 2.8% |
+| 08:00 | CHF | Low | Unemployment Rate s.a. (May) | 2.9% | 2.8% | 2.8% |
+| 22 min | EUR | Low | HCOB Italy Construction PMI (MoM) (May) |  |  | 50.1 |
+| 22 min | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 45.1 |
+| 22 min | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
+| 22 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
+| 52 min | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
+| 52 min | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
+| 52 min | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.251% |
