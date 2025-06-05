@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
+| 00:00 | KRW | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:30 | JPY | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
 | 00:30 | JPY | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
 | 00:50 | JPY | Foreign Bonds Buying | -118.0B |  | 100.4B |
@@ -16,23 +16,23 @@
 | 06:00 | SGD | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (May) | 2.8% | 2.8% | 2.8% |
 | 08:00 | CHF | Unemployment Rate s.a. (May) | 2.9% | 2.8% | 2.8% |
-| 22 min | EUR | HCOB Italy Construction PMI (MoM) (May) |  |  | 50.1 |
-| 22 min | EUR | HCOB Germany Construction PMI (May) |  |  | 45.1 |
-| 22 min | EUR | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
-| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
-| 52 min | GBP | Car Registration (YoY) (May) |  |  | -10.4% |
-| 52 min | EUR | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
-| 52 min | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
-| 09:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.251% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.375% |
-| 09:40 | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.750% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.24% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 4.04% |
-| 10:00 | EUR | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
-| 10:00 | EUR | PPI (YoY) (Apr) |  | 1.2% | 1.9% |
-| 10:00 | ZAR | Current Account (Q1) |  |  | -31.6B |
-| 10:00 | ZAR | Current Account % of GDP (Q1) |  |  | -0.40% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) | 50.5 |  | 50.1 |
+| 08:30 | EUR | HCOB Germany Construction PMI (May) | 44.4 |  | 45.1 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (May) | 43.1 |  | 43.6 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) | 45.6 |  | 46.0 |
+| 09:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Apr) | 3.7% |  | -2.7% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) | 0.7% | 0.4% | -0.4% |
+| 21 min | GBP | BoE Breeden Speaks |  |  |  |
+| 31 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.251% |
+| 31 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.375% |
+| 31 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 2.750% |
+| 50 min | EUR | French 10-Year OAT Auction |  |  | 3.24% |
+| 50 min | EUR | French 30-Year OAT Auction |  |  | 4.04% |
+| 50 min | EUR | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
+| 50 min | EUR | PPI (YoY) (Apr) |  | 1.2% | 1.9% |
+| 50 min | ZAR | Current Account (Q1) |  |  | -31.6B |
+| 50 min | ZAR | Current Account % of GDP (Q1) |  |  | -0.40% |
 | 11:00 | EUR | German Car Registration (YoY) (May) |  |  | -0.2% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 62.7% |
 | 12:30 | USD | Challenger Job Cuts (May) |  |  | 105.441K |

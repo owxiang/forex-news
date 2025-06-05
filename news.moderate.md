@@ -5,7 +5,7 @@
 | 02:30 | AUD | Trade Balance (Apr) | 5.413B | 5.960B | 6.892B |
 | 02:45 | CNY | Caixin Services PMI (May) | 51.1 | 51.0 | 50.7 |
 | 07:00 | EUR | German Factory Orders (MoM) (Apr) | 0.6% | -1.5% | 3.4% |
-| 09:30 | GBP | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |
+| 21 min | GBP | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.65% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,910K | 1,919K |
