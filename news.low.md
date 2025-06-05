@@ -47,5 +47,5 @@
 | 15:30 | USD | Natural Gas Storage | 122B | 111B | 101B |
 | 16:30 | USD | 4-Week Bill Auction | 4.170% |  | 4.215% |
 | 16:30 | USD | 8-Week Bill Auction | 4.225% |  | 4.225% |
-| 54 min | BRL | Trade Balance (May) |  | 8.40B | 8.15B |
+| 19:00 | BRL | Trade Balance (May) | 7.24B | 8.40B | 7.64B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.294T |

@@ -69,7 +69,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.225% |  | 4.225% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.8% | 4.6% | 4.6% |
 | 17:20 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 24 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 54 min | BRL | Low | Trade Balance (May) |  | 8.40B | 8.15B |
+| 18:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 19:00 | BRL | Low | Trade Balance (May) | 7.24B | 8.40B | 7.64B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,673B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.294T |
