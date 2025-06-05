@@ -1,8 +1,7 @@
-## 05 June 2025 - High Impact Forex News
+## 06 June 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | EUR | Deposit Facility Rate (Jun) | 2.00% | 2.00% | 2.25% |
-| 13:15 | EUR | ECB Interest Rate Decision (Jun) | 2.15% | 2.15% | 2.40% |
-| 13:30 | USD | Initial Jobless Claims | 247K | 236K | 239K |
-| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
+| 13:30 | USD | Nonfarm Payrolls (May) |  | 127K | 177K |
+| 13:30 | USD | Unemployment Rate (May) |  | 4.2% | 4.2% |
