@@ -12,8 +12,8 @@
 | 02:30 | AUD | Exports (MoM) (Apr) | -2.4% |  | 7.2% |
 | 02:30 | AUD | Imports (MoM) (Apr) | 1.1% |  | -2.4% |
 | 04:35 | JPY | 30-Year JGB Auction | 2.904% |  | 2.941% |
-| 06:00 | SGD | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) | 0.3% |  | -2.7% |
+| 06:00 | SGD | Retail Sales (YoY) (Apr) | 0.3% |  | 1.3% |
 | 08:00 | CHF | Unemployment Rate n.s.a. (May) | 2.8% | 2.8% | 2.8% |
 | 08:00 | CHF | Unemployment Rate s.a. (May) | 2.9% | 2.8% | 2.8% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) | 50.5 |  | 50.1 |
@@ -34,8 +34,8 @@
 | 10:00 | EUR | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | ZAR | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
-| 12:30 | USD | Challenger Job Cuts (May) | 93.816K |  | 105.441K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 47.0% |  | 62.7% |
+| 12:30 | USD | Challenger Job Cuts (May) | 93.816K |  | 105.441K |
 | 13:00 | MXN | Consumer Confidence (May) | 46.7 |  | 45.5 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (May) | 46.5 |  | 45.5 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 235.00K |  | 230.50K |
@@ -44,8 +44,8 @@
 | 15:00 | CAD | Ivey PMI n.s.a (May) | 53.8 |  | 52.3 |
 | 15:00 | BRL | Auto Production (MoM) (May) | -5.9% |  | 20.1% |
 | 15:00 | BRL | Auto Sales (MoM) (May) | 8.1% |  | 6.7% |
-| 23 min | USD | Natural Gas Storage |  | 111B | 101B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.215% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |
+| 15:30 | USD | Natural Gas Storage | 122B | 111B | 101B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.215% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.225% |
 | 19:00 | BRL | Trade Balance (May) |  | 8.40B | 8.15B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.294T |
