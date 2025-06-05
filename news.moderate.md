@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance (Apr) |  | 5.960B | 6.900B |
-| 02:45 | CNY | Caixin Services PMI (May) |  | 51.0 | 50.7 |
+| 02:30 | AUD | Trade Balance (Apr) | 5.413B | 5.960B | 6.892B |
+| 10 min | CNY | Caixin Services PMI (May) |  | 51.0 | 50.7 |
 | 05:20 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 07:00 | EUR | German Factory Orders (MoM) (Apr) |  | -1.5% | 3.6% |
 | 09:30 | GBP | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |

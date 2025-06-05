@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
+| 00:00 | KRW | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
 | 00:30 | JPY | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
 | 00:30 | JPY | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
 | 00:50 | JPY | Foreign Bonds Buying | -118.0B |  | 100.4B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 336.1B |  | 309.1B |
-| 30 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 0.0% |
-| 02:30 | AUD | Exports (MoM) (Apr) |  |  | 7.6% |
-| 02:30 | AUD | Imports (MoM) (Apr) |  |  | -2.2% |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 1.9% |  | 0.0% |
+| 02:30 | AUD | Exports (MoM) (Apr) | -2.4% |  | 7.6% |
+| 02:30 | AUD | Imports (MoM) (Apr) | 1.1% |  | -2.4% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.941% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | -2.8% |
 | 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 1.1% |
@@ -28,8 +28,8 @@
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.375% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.24% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 4.04% |
-| 10:00 | EUR | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
 | 10:00 | EUR | PPI (YoY) (Apr) |  | 1.2% | 1.9% |
+| 10:00 | EUR | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
 | 10:00 | ZAR | Current Account (Q1) |  |  | -31.6B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) |  |  | -0.40% |
 | 11:00 | EUR | German Car Registration (YoY) (May) |  |  | -0.2% |
