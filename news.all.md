@@ -13,10 +13,10 @@
 | 02:30 | AUD | Low | Imports (MoM) (Apr) | 1.1% |  | -2.4% |
 | 02:30 | AUD | Moderate | Trade Balance (Apr) | 5.413B | 5.960B | 6.892B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 51.1 | 51.0 | 50.7 |
-| 7 min | JPY | Low | 30-Year JGB Auction |  |  | 2.941% |
-| 52 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 1.1% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -2.8% |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 2.904% |  | 2.941% |
+| 8 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 48 min | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -2.8% |
+| 48 min | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 1.1% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (May) |  | 2.8% | 2.8% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | -1.5% | 3.6% |
@@ -33,8 +33,8 @@
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.375% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.24% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 4.04% |
-| 10:00 | EUR | Low | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
 | 10:00 | EUR | Low | PPI (YoY) (Apr) |  | 1.2% | 1.9% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) |  | -1.8% | -1.6% |
 | 10:00 | ZAR | Low | Current Account (Q1) |  |  | -31.6B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) |  |  | -0.40% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
