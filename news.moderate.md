@@ -9,8 +9,8 @@
 | 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.65% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,904K | 1,910K | 1,907K |
-| 13:30 | USD | Exports (Apr) | 289.40B |  | 278.50B |
-| 13:30 | USD | Imports (Apr) | 351.00B |  | 419.00B |
+| 13:30 | USD | Exports (Apr) | 289.40B |  | 281.10B |
+| 13:30 | USD | Imports (Apr) | 351.00B |  | 419.40B |
 | 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | -1.5% | -0.8% | -1.7% |
 | 13:30 | USD | Trade Balance (Apr) | -61.60B | -67.60B | -138.30B |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 6.6% | 5.7% | 2.0% |

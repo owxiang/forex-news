@@ -30,8 +30,8 @@
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
-| 10:00 | EUR | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | EUR | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
+| 10:00 | EUR | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | ZAR | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 47.0% |  | 62.7% |

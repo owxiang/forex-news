@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
 | 10:00 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
-| 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | EUR | Low | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 47.0% |  | 62.7% |
@@ -47,8 +47,8 @@
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Jun) | 2.15% | 2.15% | 2.40% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,904K | 1,910K | 1,907K |
-| 13:30 | USD | Moderate | Exports (Apr) | 289.40B |  | 278.50B |
-| 13:30 | USD | Moderate | Imports (Apr) | 351.00B |  | 419.00B |
+| 13:30 | USD | Moderate | Exports (Apr) | 289.40B |  | 281.10B |
+| 13:30 | USD | Moderate | Imports (Apr) | 351.00B |  | 419.40B |
 | 13:30 | USD | High | Initial Jobless Claims | 247K | 236K | 239K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 235.00K |  | 230.50K |
 | 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | -1.5% | -0.8% | -1.7% |
