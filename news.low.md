@@ -30,17 +30,17 @@
 | 10:00 | EUR | Spanish 3-Year Bonos Auction | 2.118% |  | 2.251% |
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.386% |  | 2.375% |
 | 10:00 | EUR | Spanish 7-Year Obligacion Auction | 2.720% |  | 2.750% |
-| 10:00 | EUR | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
 | 10:00 | EUR | PPI (MoM) (Apr) | -2.2% | -1.8% | -1.7% |
+| 10:00 | EUR | PPI (YoY) (Apr) | 0.7% | 1.2% | 1.9% |
 | 10:00 | ZAR | Current Account (Q1) | -35.6B |  | -39.3B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) | -0.50% |  | -0.50% |
-| 24 min | USD | Challenger Job Cuts (YoY) |  |  | 62.7% |
-| 24 min | USD | Challenger Job Cuts (May) |  |  | 105.441K |
-| 54 min | MXN | Consumer Confidence (May) |  |  | 45.3 |
-| 54 min | MXN | Consumer Confidence n.s.a. (May) |  |  | 45.5 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 230.75K |
-| 13:30 | CAD | Exports (Apr) |  |  | 69.90B |
-| 13:30 | CAD | Imports (Apr) |  |  | 70.40B |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 47.0% |  | 62.7% |
+| 12:30 | USD | Challenger Job Cuts (May) | 93.816K |  | 105.441K |
+| 13:00 | MXN | Consumer Confidence (May) | 46.7 |  | 45.5 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (May) | 46.5 |  | 45.5 |
+| 18 min | USD | Jobless Claims 4-Week Avg. |  |  | 230.75K |
+| 18 min | CAD | Exports (Apr) |  |  | 69.90B |
+| 18 min | CAD | Imports (Apr) |  |  | 70.40B |
 | 15:00 | CAD | Ivey PMI n.s.a (May) |  |  | 52.3 |
 | 15:30 | USD | Natural Gas Storage |  | 111B | 101B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.215% |
