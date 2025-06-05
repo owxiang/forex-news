@@ -2,22 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Current Account (Apr) |  |  | 9.14B |
-| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
 | 00:00 | KRW | Low | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
-| 24 min | JPY | Low | Overall wage income of employees (Apr) |  | 2.6% | 2.1% |
-| 24 min | JPY | Low | Overtime Pay (YoY) (Apr) |  |  | -1.10% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 92.0B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 309.3B |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 0.0% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
+| 00:30 | JPY | Low | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -118.0B |  | 100.4B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 336.1B |  | 309.1B |
+| 30 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 0.0% |
 | 02:30 | AUD | Low | Exports (MoM) (Apr) |  |  | 7.6% |
 | 02:30 | AUD | Low | Imports (MoM) (Apr) |  |  | -2.2% |
 | 02:30 | AUD | Moderate | Trade Balance (Apr) |  | 5.960B | 6.900B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) |  | 51.0 | 50.7 |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.941% |
 | 05:20 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 1.1% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -2.8% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 1.1% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (May) |  | 2.8% | 2.8% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | -1.5% | 3.6% |
@@ -26,8 +25,8 @@
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
 | 09:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (May) |  | 47.4 | 46.6 |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.251% |

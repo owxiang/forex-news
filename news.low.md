@@ -2,19 +2,18 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (Apr) |  |  | 9.14B |
-| 00:00 | KRW | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
 | 00:00 | KRW | GDP (YoY) (Q1) | 0.0% | -0.1% | 1.2% |
-| 24 min | JPY | Overall wage income of employees (Apr) |  | 2.6% | 2.1% |
-| 24 min | JPY | Overtime Pay (YoY) (Apr) |  |  | -1.10% |
-| 44 min | JPY | Foreign Bonds Buying |  |  | 92.0B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 309.3B |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 0.0% |
+| 00:00 | KRW | GDP (QoQ) (Q1) | -0.2% | -0.2% | -0.2% |
+| 00:30 | JPY | Overall wage income of employees (Apr) | 2.3% | 2.6% | 2.3% |
+| 00:30 | JPY | Overtime Pay (YoY) (Apr) | 0.80% |  | -0.40% |
+| 00:50 | JPY | Foreign Bonds Buying | -118.0B |  | 100.4B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 336.1B |  | 309.1B |
+| 30 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 0.0% |
 | 02:30 | AUD | Exports (MoM) (Apr) |  |  | 7.6% |
 | 02:30 | AUD | Imports (MoM) (Apr) |  |  | -2.2% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.941% |
-| 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 1.1% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | -2.8% |
+| 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 1.1% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (May) |  |  | 2.8% |
 | 06:45 | CHF | Unemployment Rate s.a. (May) |  | 2.8% | 2.8% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) |  |  | 50.1 |
@@ -22,8 +21,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (May) |  |  | 43.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 46.0 |
 | 09:00 | GBP | Car Registration (YoY) (May) |  |  | -10.4% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Apr) |  |  | -2.8% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.4% | -0.5% |
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.251% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.375% |
