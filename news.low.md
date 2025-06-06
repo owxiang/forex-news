@@ -24,17 +24,17 @@
 | 07:45 | EUR | French Trade Balance (Apr) | -8.0B | -6.0B | -6.3B |
 | 08:00 | CHF | Foreign Reserves (USD) (May) | 703.6B |  | 703.0B |
 | 09:30 | HKD | Foreign Reserves (USD) (May) | 431.00B |  | 410.20B |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
 | 10:00 | EUR | Employment Overall (Q1) | 169,794.4K | 169,974.4K | 169,435.3K |
 | 10:00 | EUR | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
-| 53 min | CAD | Leading Index (MoM) (May) |  |  | 0.02% |
-| 53 min | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.30% |
-| 12:30 | INR | Bank Loan Growth |  |  | 9.9% |
-| 12:30 | INR | Deposit Growth |  |  | 10.0% |
-| 12:30 | INR | FX Reserves, USD |  |  | 692.72B |
-| 13:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | -0.62% |
+| 12:00 | CAD | Leading Index (MoM) (May) |  |  | 0.02% |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) | -0.85% |  | 0.30% |
+| 24 min | INR | Bank Loan Growth |  |  | 9.9% |
+| 24 min | INR | Deposit Growth |  |  | 10.0% |
+| 24 min | INR | FX Reserves, USD |  |  | 692.72B |
+| 54 min | BRL | Brazilian PPI (MoM) (Apr) |  |  | -0.62% |
 | 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (May) |  |  | 10.0K |
 | 13:30 | USD | Manufacturing Payrolls (May) |  | -1K | -1K |
