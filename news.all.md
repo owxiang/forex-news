@@ -8,38 +8,36 @@
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 02:30 | AUD | Low | Private House Approvals (Apr) | 3.1% |  | -4.5% |
-| 05:00 | KRW | Low | Current Account (Apr) |  |  | 9.14B |
-| 18 min | INR | Low | Cash Reserve Ratio |  |  | 4.00% |
-| 18 min | INR | Moderate | Interest Rate Decision |  | 5.75% | 6.00% |
-| 18 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 48 min | JPY | Low | Coincident Indicator (MoM) (Apr) |  |  | -1.4% |
-| 48 min | JPY | Low | Leading Index (MoM) (Apr) |  |  | -0.1% |
-| 48 min | JPY | Low | Leading Index (Apr) |  | 104.0 | 108.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) |  |  | 3.2% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.4% | 0.3% |
-| 07:00 | EUR | Low | German Exports (MoM) (Apr) |  | -0.5% | 1.1% |
-| 07:00 | EUR | Low | German Imports (MoM) (Apr) |  |  | -1.4% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | -0.9% | 3.0% |
-| 07:00 | EUR | Moderate | German Trade Balance (Apr) |  | 20.2B | 21.1B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 0.0% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (May) |  |  | 67.58B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (May) |  |  | 64.318B |
+| 05:30 | INR | Low | Cash Reserve Ratio | 3.00% |  | 4.00% |
+| 05:30 | INR | Moderate | Interest Rate Decision | 5.50% | 5.75% | 6.00% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | -0.3% |  | -1.3% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -4.2% |  | -0.1% |
+| 06:00 | JPY | Low | Leading Index (Apr) | 103.4 | 104.0 | 108.1 |
+| 53 min | GBP | Moderate | Halifax House Price Index (YoY) (May) |  |  | 3.2% |
+| 53 min | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.4% | 0.3% |
+| 53 min | EUR | Low | German Exports (MoM) (Apr) |  | -0.5% | 1.1% |
+| 53 min | EUR | Low | German Imports (MoM) (Apr) |  |  | -1.4% |
+| 53 min | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | -0.9% | 3.0% |
+| 53 min | EUR | Moderate | German Trade Balance (Apr) |  | 20.2B | 21.1B |
+| 53 min | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
+| 53 min | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 0.0% |
+| 53 min | ZAR | Low | Foreign Reserves (USD) (May) |  |  | 67.58B |
+| 53 min | ZAR | Low | Net FX Reserves (USD) (May) |  |  | 64.318B |
 | 07:45 | EUR | Low | French Current Account (Apr) |  |  | 1.40B |
 | 07:45 | EUR | Low | French Exports (Apr) |  |  | 52.6B |
 | 07:45 | EUR | Low | French Imports (Apr) |  |  | 58.8B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.0% | 0.2% |
 | 07:45 | EUR | Low | French Trade Balance (Apr) |  | -6.0B | -6.2B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (May) |  |  | 702,895.0B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (May) |  |  | 702.9B |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 408.70B |
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.21% |
-| 10:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | -0.62% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) |  | 1.2% | 1.2% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) |  | 1.4% | 1.5% |
 | 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.02% |
@@ -47,12 +45,13 @@
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.9% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.0% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 692.72B |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | -0.62% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
 | 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) |  |  | 10.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) |  | -1K | -1K |
-| 13:30 | USD | High | Nonfarm Payrolls (May) |  | 127K | 177K |
+| 13:30 | USD | High | Nonfarm Payrolls (May) |  | 126K | 177K |
 | 13:30 | USD | Moderate | Participation Rate (May) |  |  | 62.6% |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (May) |  | 110K | 167K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (May) |  |  | 7.8% |
@@ -63,6 +62,7 @@
 | 13:30 | CAD | Low | Part Time Employment Change (May) |  |  | -24.2K |
 | 13:30 | CAD | Low | Participation Rate (May) |  |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (May) |  | 7.0% | 6.9% |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 15:00 | BRL | Low | Auto Production (MoM) (May) |  |  | 20.1% |
 | 15:00 | BRL | Low | Auto Sales (MoM) (May) |  |  | 6.7% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
