@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,298.1B |  | 1,298.2B |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 169,794.4K | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.5% | 1.2% | 1.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.5% | 1.2% | 1.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
 | 12:00 | CAD | Low | Leading Index (MoM) (May) | 0.10% |  | 0.07% |
@@ -47,23 +47,23 @@
 | 12:30 | INR | Low | Deposit Growth | 10.0% |  | 10.0% |
 | 12:30 | INR | Low | FX Reserves, USD | 691.49B |  | 692.72B |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | -0.36% |  | -0.60% |
-| 19 min | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
-| 19 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
-| 19 min | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
-| 19 min | USD | Low | Government Payrolls (May) |  |  | 10.0K |
-| 19 min | USD | Low | Manufacturing Payrolls (May) |  | -1K | -1K |
-| 19 min | USD | High | Nonfarm Payrolls (May) |  | 126K | 177K |
-| 19 min | USD | Moderate | Participation Rate (May) |  |  | 62.6% |
-| 19 min | USD | Moderate | Private Nonfarm Payrolls (May) |  | 110K | 167K |
-| 19 min | USD | Moderate | U6 Unemployment Rate (May) |  |  | 7.8% |
-| 19 min | USD | High | Unemployment Rate (May) |  | 4.2% | 4.2% |
-| 19 min | CAD | Low | Avg hourly wages Permanent employee (May) |  |  | 3.5% |
-| 19 min | CAD | Moderate | Employment Change (May) |  | -11.9K | 7.4K |
-| 19 min | CAD | Low | Full Employment Change (May) |  |  | 31.5K |
-| 19 min | CAD | Low | Part Time Employment Change (May) |  |  | -24.2K |
-| 19 min | CAD | Low | Participation Rate (May) |  |  | 65.3% |
-| 19 min | CAD | Moderate | Unemployment Rate (May) |  | 7.0% | 6.9% |
-| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.4% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 3.9% | 3.7% | 3.9% |
+| 13:30 | USD | Low | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (May) | -1.0K |  | 1.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (May) | -8K | -1K | 5K |
+| 13:30 | USD | High | Nonfarm Payrolls (May) | 139K | 126K | 147K |
+| 13:30 | USD | Moderate | Participation Rate (May) | 62.4% |  | 62.6% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (May) | 140K | 110K | 146K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (May) | 7.8% |  | 7.8% |
+| 13:30 | USD | High | Unemployment Rate (May) | 4.2% | 4.2% | 4.2% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (May) | 3.5% |  | 3.5% |
+| 13:30 | CAD | Moderate | Employment Change (May) | 8.8K | -11.9K | 7.4K |
+| 13:30 | CAD | Low | Full Employment Change (May) | 57.7K |  | 31.5K |
+| 13:30 | CAD | Low | Part Time Employment Change (May) | -48.8K |  | -24.2K |
+| 13:30 | CAD | Low | Participation Rate (May) | 65.3% |  | 65.3% |
+| 13:30 | CAD | Moderate | Unemployment Rate (May) | 7.0% | 7.0% | 6.9% |
+| 46 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
 | 20:00 | USD | Moderate | Consumer Credit (Apr) |  | 11.30B | 10.17B |

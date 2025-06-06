@@ -35,13 +35,13 @@
 | 12:30 | INR | Deposit Growth | 10.0% |  | 10.0% |
 | 12:30 | INR | FX Reserves, USD | 691.49B |  | 692.72B |
 | 13:00 | BRL | Brazilian PPI (MoM) (Apr) | -0.36% |  | -0.60% |
-| 19 min | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
-| 19 min | USD | Government Payrolls (May) |  |  | 10.0K |
-| 19 min | USD | Manufacturing Payrolls (May) |  | -1K | -1K |
-| 19 min | CAD | Avg hourly wages Permanent employee (May) |  |  | 3.5% |
-| 19 min | CAD | Full Employment Change (May) |  |  | 31.5K |
-| 19 min | CAD | Part Time Employment Change (May) |  |  | -24.2K |
-| 19 min | CAD | Participation Rate (May) |  |  | 65.3% |
+| 13:30 | USD | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (May) | -1.0K |  | 1.0K |
+| 13:30 | USD | Manufacturing Payrolls (May) | -8K | -1K | 5K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (May) | 3.5% |  | 3.5% |
+| 13:30 | CAD | Full Employment Change (May) | 57.7K |  | 31.5K |
+| 13:30 | CAD | Part Time Employment Change (May) | -48.8K |  | -24.2K |
+| 13:30 | CAD | Participation Rate (May) | 65.3% |  | 65.3% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 22.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -20.3K |
