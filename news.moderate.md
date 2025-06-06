@@ -6,8 +6,8 @@
 | 00:30 | JPY | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 02:30 | AUD | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 05:30 | INR | Interest Rate Decision | 5.50% | 5.75% | 6.00% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
 | 07:00 | EUR | German Industrial Production (MoM) (Apr) | -1.4% | -0.9% | 2.3% |
 | 07:00 | EUR | German Trade Balance (Apr) | 14.6B | 20.2B | 21.2B |
 | 09:30 | GBP | Mortgage Rate (GBP) (May) | 7.09% |  | 7.19% |
@@ -20,7 +20,7 @@
 | 13:30 | USD | U6 Unemployment Rate (May) | 7.8% |  | 7.8% |
 | 13:30 | CAD | Employment Change (May) | 8.8K | -11.9K | 7.4K |
 | 13:30 | CAD | Unemployment Rate (May) | 7.0% | 7.0% | 6.9% |
-| 46 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |
 | 20:00 | USD | Consumer Credit (Apr) |  | 11.30B | 10.17B |
