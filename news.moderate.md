@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 00:30 | JPY | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
+| 00:30 | JPY | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 02:30 | AUD | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 05:30 | INR | Interest Rate Decision | 5.50% | 5.75% | 6.00% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
@@ -12,14 +12,14 @@
 | 07:00 | EUR | German Trade Balance (Apr) | 14.6B | 20.2B | 21.2B |
 | 09:30 | GBP | Mortgage Rate (GBP) (May) | 7.09% |  | 7.19% |
 | 09:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 1.5% | 1.2% | 1.2% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
-| 13:30 | USD | Participation Rate (May) |  |  | 62.6% |
-| 13:30 | USD | Private Nonfarm Payrolls (May) |  | 110K | 167K |
-| 13:30 | USD | U6 Unemployment Rate (May) |  |  | 7.8% |
-| 13:30 | CAD | Employment Change (May) |  | -11.9K | 7.4K |
-| 13:30 | CAD | Unemployment Rate (May) |  | 7.0% | 6.9% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
+| 19 min | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
+| 19 min | USD | Participation Rate (May) |  |  | 62.6% |
+| 19 min | USD | Private Nonfarm Payrolls (May) |  | 110K | 167K |
+| 19 min | USD | U6 Unemployment Rate (May) |  |  | 7.8% |
+| 19 min | CAD | Employment Change (May) |  | -11.9K | 7.4K |
+| 19 min | CAD | Unemployment Rate (May) |  | 7.0% | 6.9% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |

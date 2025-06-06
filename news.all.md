@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,298.1B |  | 1,298.2B |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
@@ -34,35 +34,35 @@
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (May) | 7.09% |  | 7.19% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) | 431.00B |  | 410.20B |
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 169,794.4K | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.5% | 1.2% | 1.2% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
-| 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.02% |
+| 12:00 | CAD | Low | Leading Index (MoM) (May) | 0.10% |  | 0.07% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) | -0.85% |  | 0.30% |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 9.9% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.0% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 692.72B |
-| 54 min | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | -0.62% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
-| 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
-| 13:30 | USD | Low | Government Payrolls (May) |  |  | 10.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (May) |  | -1K | -1K |
-| 13:30 | USD | High | Nonfarm Payrolls (May) |  | 126K | 177K |
-| 13:30 | USD | Moderate | Participation Rate (May) |  |  | 62.6% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (May) |  | 110K | 167K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (May) |  |  | 7.8% |
-| 13:30 | USD | High | Unemployment Rate (May) |  | 4.2% | 4.2% |
-| 13:30 | CAD | Low | Avg hourly wages Permanent employee (May) |  |  | 3.5% |
-| 13:30 | CAD | Moderate | Employment Change (May) |  | -11.9K | 7.4K |
-| 13:30 | CAD | Low | Full Employment Change (May) |  |  | 31.5K |
-| 13:30 | CAD | Low | Part Time Employment Change (May) |  |  | -24.2K |
-| 13:30 | CAD | Low | Participation Rate (May) |  |  | 65.3% |
-| 13:30 | CAD | Moderate | Unemployment Rate (May) |  | 7.0% | 6.9% |
+| 12:30 | INR | Low | Bank Loan Growth | 9.8% |  | 9.9% |
+| 12:30 | INR | Low | Deposit Growth | 10.0% |  | 10.0% |
+| 12:30 | INR | Low | FX Reserves, USD | 691.49B |  | 692.72B |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | -0.36% |  | -0.60% |
+| 19 min | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
+| 19 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
+| 19 min | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
+| 19 min | USD | Low | Government Payrolls (May) |  |  | 10.0K |
+| 19 min | USD | Low | Manufacturing Payrolls (May) |  | -1K | -1K |
+| 19 min | USD | High | Nonfarm Payrolls (May) |  | 126K | 177K |
+| 19 min | USD | Moderate | Participation Rate (May) |  |  | 62.6% |
+| 19 min | USD | Moderate | Private Nonfarm Payrolls (May) |  | 110K | 167K |
+| 19 min | USD | Moderate | U6 Unemployment Rate (May) |  |  | 7.8% |
+| 19 min | USD | High | Unemployment Rate (May) |  | 4.2% | 4.2% |
+| 19 min | CAD | Low | Avg hourly wages Permanent employee (May) |  |  | 3.5% |
+| 19 min | CAD | Moderate | Employment Change (May) |  | -11.9K | 7.4K |
+| 19 min | CAD | Low | Full Employment Change (May) |  |  | 31.5K |
+| 19 min | CAD | Low | Part Time Employment Change (May) |  |  | -24.2K |
+| 19 min | CAD | Low | Participation Rate (May) |  |  | 65.3% |
+| 19 min | CAD | Moderate | Unemployment Rate (May) |  | 7.0% | 6.9% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
