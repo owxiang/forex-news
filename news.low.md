@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Reserves (USD) (May) | 1,298.1B |  | 1,298.2B |
-| 02:30 | AUD | Building Approvals (YoY) (Apr) |  | 5.10% | 9.90% |
-| 02:30 | AUD | Private House Approvals (Apr) |  |  | -4.5% |
+| 02:30 | AUD | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
+| 02:30 | AUD | Private House Approvals (Apr) | 3.1% |  | -4.5% |
 | 05:00 | KRW | Current Account (Apr) |  |  | 9.14B |
 | 05:30 | INR | Cash Reserve Ratio |  |  | 4.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  |  | -1.4% |
-| 06:00 | JPY | Leading Index (Apr) |  | 104.0 | 108.1 |
 | 06:00 | JPY | Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 06:00 | JPY | Leading Index (Apr) |  | 104.0 | 108.1 |
 | 07:00 | EUR | German Exports (MoM) (Apr) |  | -0.5% | 1.1% |
 | 07:00 | EUR | German Imports (MoM) (Apr) |  |  | -1.4% |
 | 07:00 | EUR | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
@@ -25,11 +25,11 @@
 | 08:00 | CHF | Foreign Reserves (USD) (May) |  |  | 702,895.0B |
 | 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 408.70B |
 | 10:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | -0.62% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Apr) |  | 1.4% | 1.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
 | 12:00 | CAD | Leading Index (MoM) (May) |  |  | 0.02% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.30% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.9% |
