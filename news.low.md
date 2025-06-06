@@ -8,8 +8,8 @@
 | 05:30 | INR | Cash Reserve Ratio | 3.00% |  | 4.00% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | -0.3% |  | -1.3% |
-| 06:00 | JPY | Leading Index (MoM) (Apr) | -4.2% |  | -0.1% |
 | 06:00 | JPY | Leading Index (Apr) | 103.4 | 104.0 | 108.1 |
+| 06:00 | JPY | Leading Index (MoM) (Apr) | -4.2% |  | -0.1% |
 | 07:00 | EUR | German Exports (MoM) (Apr) | -1.7% | -0.5% | 1.2% |
 | 07:00 | EUR | German Imports (MoM) (Apr) | 3.9% |  | -1.4% |
 | 07:00 | EUR | German Industrial Production (YoY) (Apr) | -2.02% |  | -0.85% |
@@ -24,8 +24,8 @@
 | 07:45 | EUR | French Trade Balance (Apr) | -8.0B | -6.0B | -6.3B |
 | 08:00 | CHF | Foreign Reserves (USD) (May) | 703.6B |  | 703.0B |
 | 09:30 | HKD | Foreign Reserves (USD) (May) | 431.00B |  | 410.20B |
-| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
 | 10:00 | EUR | Employment Overall (Q1) | 169,794.4K | 169,974.4K | 169,435.3K |
 | 10:00 | EUR | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
 | 10:00 | EUR | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
@@ -42,14 +42,14 @@
 | 13:30 | CAD | Full Employment Change (May) | 57.7K |  | 31.5K |
 | 13:30 | CAD | Part Time Employment Change (May) | -48.8K |  | -24.2K |
 | 13:30 | CAD | Participation Rate (May) | 65.3% |  | 65.3% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 22.6K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -20.3K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -113.9K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 53.0K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 72.6K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -98.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -103.9K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 61.4K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -25.5K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -24.4K |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 22.6K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | -20.3K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -113.9K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 53.0K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 72.6K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -98.8K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -103.9K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 61.4K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -25.5K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -24.4K |

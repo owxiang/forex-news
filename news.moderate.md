@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 00:30 | JPY | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
+| 00:30 | JPY | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 02:30 | AUD | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 05:30 | INR | Interest Rate Decision | 5.50% | 5.75% | 6.00% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
 | 07:00 | EUR | German Industrial Production (MoM) (Apr) | -1.4% | -0.9% | 2.3% |
 | 07:00 | EUR | German Trade Balance (Apr) | 14.6B | 20.2B | 21.2B |
 | 09:30 | GBP | Mortgage Rate (GBP) (May) | 7.09% |  | 7.19% |
@@ -23,13 +23,13 @@
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 442 |  | 451 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 559 |  | 563 |
-| 51 min | USD | Consumer Credit (Apr) |  | 11.30B | 10.17B |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 35.4K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 186.4K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 174.2K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 17.0K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -53.0K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -61.2K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 46.8K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 164.0K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 79.5K |
+| 20:00 | USD | Consumer Credit (Apr) | 17.87B | 11.30B | 8.60B |
+| 24 min | GBP | CFTC GBP speculative net positions |  |  | 35.4K |
+| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 186.4K |
+| 24 min | USD | CFTC Gold speculative net positions |  |  | 174.2K |
+| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 17.0K |
+| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -53.0K |
+| 24 min | AUD | CFTC AUD speculative net positions |  |  | -61.2K |
+| 24 min | BRL | CFTC BRL speculative net positions |  |  | 46.8K |
+| 24 min | JPY | CFTC JPY speculative net positions |  |  | 164.0K |
+| 24 min | EUR | CFTC EUR speculative net positions |  |  | 79.5K |
