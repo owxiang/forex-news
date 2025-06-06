@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 00:30 | JPY | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
+| 00:30 | JPY | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 02:30 | AUD | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 05:30 | INR | Interest Rate Decision | 5.50% | 5.75% | 6.00% |
-| 53 min | GBP | Halifax House Price Index (YoY) (May) |  |  | 3.2% |
-| 53 min | GBP | Halifax House Price Index (MoM) (May) |  | 0.4% | 0.3% |
-| 53 min | EUR | German Industrial Production (MoM) (Apr) |  | -0.9% | 3.0% |
-| 53 min | EUR | German Trade Balance (Apr) |  | 20.2B | 21.1B |
+| 07:00 | GBP | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
+| 07:00 | EUR | German Industrial Production (MoM) (Apr) | -1.4% | -0.9% | 2.3% |
+| 07:00 | EUR | German Trade Balance (Apr) | 14.6B | 20.2B | 21.2B |
 | 09:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.21% |
-| 10:00 | EUR | GDP (YoY) |  | 1.2% | 1.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
+| 10:00 | EUR | GDP (YoY) |  | 1.2% | 1.2% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
 | 13:30 | USD | Participation Rate (May) |  |  | 62.6% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) |  | 110K | 167K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,298.1B |  | 1,298.2B |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
@@ -14,30 +14,30 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | -0.3% |  | -1.3% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -4.2% |  | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 103.4 | 104.0 | 108.1 |
-| 53 min | GBP | Moderate | Halifax House Price Index (YoY) (May) |  |  | 3.2% |
-| 53 min | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.4% | 0.3% |
-| 53 min | EUR | Low | German Exports (MoM) (Apr) |  | -0.5% | 1.1% |
-| 53 min | EUR | Low | German Imports (MoM) (Apr) |  |  | -1.4% |
-| 53 min | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | -0.9% | 3.0% |
-| 53 min | EUR | Moderate | German Trade Balance (Apr) |  | 20.2B | 21.1B |
-| 53 min | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
-| 53 min | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 0.0% |
-| 53 min | ZAR | Low | Foreign Reserves (USD) (May) |  |  | 67.58B |
-| 53 min | ZAR | Low | Net FX Reserves (USD) (May) |  |  | 64.318B |
-| 07:45 | EUR | Low | French Current Account (Apr) |  |  | 1.40B |
-| 07:45 | EUR | Low | French Exports (Apr) |  |  | 52.6B |
-| 07:45 | EUR | Low | French Imports (Apr) |  |  | 58.8B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.0% | 0.2% |
-| 07:45 | EUR | Low | French Trade Balance (Apr) |  | -6.0B | -6.2B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (May) |  |  | 702.9B |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
+| 07:00 | EUR | Low | German Exports (MoM) (Apr) | -1.7% | -0.5% | 1.2% |
+| 07:00 | EUR | Low | German Imports (MoM) (Apr) | 3.9% |  | -1.4% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | -1.4% | -0.9% | 2.3% |
+| 07:00 | EUR | Moderate | German Trade Balance (Apr) | 14.6B | 20.2B | 21.2B |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) | 2.8% |  | 0.0% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (May) | 68.12B |  | 67.58B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (May) | 64.804B |  | 64.318B |
+| 20 min | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
+| 35 min | EUR | Low | French Current Account (Apr) |  |  | 1.40B |
+| 35 min | EUR | Low | French Exports (Apr) |  |  | 52.6B |
+| 35 min | EUR | Low | French Imports (Apr) |  |  | 58.8B |
+| 35 min | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.0% | 0.2% |
+| 35 min | EUR | Low | French Trade Balance (Apr) |  | -6.0B | -6.2B |
+| 50 min | CHF | Low | Foreign Reserves (USD) (May) |  |  | 702.9B |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 408.70B |
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.21% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Moderate | GDP (YoY) |  | 1.2% | 1.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
+| 10:00 | EUR | Moderate | GDP (YoY) |  | 1.2% | 1.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) |  | 1.4% | 1.5% |
 | 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.02% |

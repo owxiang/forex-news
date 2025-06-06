@@ -10,21 +10,21 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | -0.3% |  | -1.3% |
 | 06:00 | JPY | Leading Index (MoM) (Apr) | -4.2% |  | -0.1% |
 | 06:00 | JPY | Leading Index (Apr) | 103.4 | 104.0 | 108.1 |
-| 53 min | EUR | German Exports (MoM) (Apr) |  | -0.5% | 1.1% |
-| 53 min | EUR | German Imports (MoM) (Apr) |  |  | -1.4% |
-| 53 min | EUR | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
-| 53 min | NOK | Manufacturing Production (MoM) (Apr) |  |  | 0.0% |
-| 53 min | ZAR | Foreign Reserves (USD) (May) |  |  | 67.58B |
-| 53 min | ZAR | Net FX Reserves (USD) (May) |  |  | 64.318B |
-| 07:45 | EUR | French Current Account (Apr) |  |  | 1.40B |
-| 07:45 | EUR | French Exports (Apr) |  |  | 52.6B |
-| 07:45 | EUR | French Imports (Apr) |  |  | 58.8B |
-| 07:45 | EUR | French Industrial Production (MoM) (Apr) |  | 0.0% | 0.2% |
-| 07:45 | EUR | French Trade Balance (Apr) |  | -6.0B | -6.2B |
-| 08:00 | CHF | Foreign Reserves (USD) (May) |  |  | 702.9B |
+| 07:00 | EUR | German Exports (MoM) (Apr) | -1.7% | -0.5% | 1.2% |
+| 07:00 | EUR | German Imports (MoM) (Apr) | 3.9% |  | -1.4% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Apr) | 2.8% |  | 0.0% |
+| 07:00 | ZAR | Foreign Reserves (USD) (May) | 68.12B |  | 67.58B |
+| 07:00 | ZAR | Net FX Reserves (USD) (May) | 64.804B |  | 64.318B |
+| 20 min | EUR | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
+| 35 min | EUR | French Current Account (Apr) |  |  | 1.40B |
+| 35 min | EUR | French Exports (Apr) |  |  | 52.6B |
+| 35 min | EUR | French Imports (Apr) |  |  | 58.8B |
+| 35 min | EUR | French Industrial Production (MoM) (Apr) |  | 0.0% | 0.2% |
+| 35 min | EUR | French Trade Balance (Apr) |  | -6.0B | -6.2B |
+| 50 min | CHF | Foreign Reserves (USD) (May) |  |  | 702.9B |
 | 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 408.70B |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
 | 10:00 | EUR | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
 | 10:00 | EUR | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Apr) |  | 1.4% | 1.5% |
