@@ -5,7 +5,7 @@
 | 00:50 | JPY | Foreign Reserves (USD) (May) | 1,298.1B |  | 1,298.2B |
 | 02:30 | AUD | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
 | 02:30 | AUD | Private House Approvals (Apr) | 3.1% |  | -4.5% |
-| 05:00 | KRW | Current Account (Apr) |  |  | 9.14B |
+| 33 min | KRW | Current Account (Apr) |  |  | 9.14B |
 | 05:30 | INR | Cash Reserve Ratio |  |  | 4.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  |  | -1.4% |

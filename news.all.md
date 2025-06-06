@@ -8,7 +8,7 @@
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 02:30 | AUD | Low | Private House Approvals (Apr) | 3.1% |  | -4.5% |
-| 05:00 | KRW | Low | Current Account (Apr) |  |  | 9.14B |
+| 33 min | KRW | Low | Current Account (Apr) |  |  | 9.14B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  |  | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 5.75% | 6.00% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
