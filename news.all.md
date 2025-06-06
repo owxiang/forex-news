@@ -20,24 +20,25 @@
 | 07:00 | EUR | Low | German Imports (MoM) (Apr) | 3.9% |  | -1.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | -1.4% | -0.9% | 2.3% |
 | 07:00 | EUR | Moderate | German Trade Balance (Apr) | 14.6B | 20.2B | 21.2B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Apr) | -2.02% |  | -0.85% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) | 2.8% |  | 0.0% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (May) | 68.12B |  | 67.58B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (May) | 64.804B |  | 64.318B |
-| 20 min | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
-| 35 min | EUR | Low | French Current Account (Apr) |  |  | 1.40B |
-| 35 min | EUR | Low | French Exports (Apr) |  |  | 52.6B |
-| 35 min | EUR | Low | French Imports (Apr) |  |  | 58.8B |
-| 35 min | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.0% | 0.2% |
-| 35 min | EUR | Low | French Trade Balance (Apr) |  | -6.0B | -6.2B |
-| 50 min | CHF | Low | Foreign Reserves (USD) (May) |  |  | 702.9B |
+| 07:45 | EUR | Low | French Current Account (Apr) | -4.10B |  | 1.00B |
+| 07:45 | EUR | Low | French Exports (Apr) | 49.3B |  | 52.4B |
+| 07:45 | EUR | Low | French Imports (Apr) | 57.2B |  | 58.6B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) | -1.4% | 0.0% | 0.1% |
+| 07:45 | EUR | Low | French Reserve Assets Total (May) | 304,609.0M |  | 303,057.0M |
+| 07:45 | EUR | Low | French Trade Balance (Apr) | -8.0B | -6.0B | -6.3B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (May) | 703.6B |  | 703.0B |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 408.70B |
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.21% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) |  | 1.2% | 1.2% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) |  | 1.4% | 1.5% |
 | 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.02% |
