@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,298.1B |  | 1,298.2B |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) | 12.00% | 5.10% | 9.90% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
@@ -36,19 +36,19 @@
 | 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
-| 10:00 | EUR | Low | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
+| 10:00 | EUR | Low | Employment Overall (Q1) | 169,794.4K | 169,974.4K | 169,435.3K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.5% | 1.2% | 1.2% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
-| 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.02% |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 0.30% |
+| 53 min | CAD | Low | Leading Index (MoM) (May) |  |  | 0.02% |
+| 53 min | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 0.30% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.9% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.0% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 692.72B |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | -0.62% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.7% | 3.8% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) |  |  | 10.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) |  | -1K | -1K |
