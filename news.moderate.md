@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (MoM) (Apr) | -1.8% | -0.8% | 0.4% |
 | 00:30 | JPY | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
-| 02:30 | AUD | Building Approvals (MoM) (Apr) |  | -5.7% | -8.8% |
+| 02:30 | AUD | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 05:30 | INR | Interest Rate Decision |  | 5.75% | 6.00% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) |  |  | 3.2% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.4% | 0.3% |

@@ -6,15 +6,15 @@
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | -0.1% | 1.5% | 2.1% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,298.1B |  | 1,298.2B |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) |  | 5.10% | 9.90% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | -5.7% | -8.8% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -5.7% | -5.7% | -8.8% |
 | 02:30 | AUD | Low | Private House Approvals (Apr) |  |  | -4.5% |
 | 05:00 | KRW | Low | Current Account (Apr) |  |  | 9.14B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  |  | 4.00% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 5.75% | 6.00% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  |  | -1.4% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) |  | 104.0 | 108.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) |  |  | 3.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.4% | 0.3% |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) |  | -0.5% | 1.1% |

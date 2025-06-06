@@ -9,8 +9,8 @@
 | 05:30 | INR | Cash Reserve Ratio |  |  | 4.00% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  |  | -1.4% |
-| 06:00 | JPY | Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 06:00 | JPY | Leading Index (Apr) |  | 104.0 | 108.1 |
+| 06:00 | JPY | Leading Index (MoM) (Apr) |  |  | -0.1% |
 | 07:00 | EUR | German Exports (MoM) (Apr) |  | -0.5% | 1.1% |
 | 07:00 | EUR | German Imports (MoM) (Apr) |  |  | -1.4% |
 | 07:00 | EUR | German Industrial Production (YoY) (Apr) |  |  | -0.42% |
