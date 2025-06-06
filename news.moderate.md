@@ -21,8 +21,8 @@
 | 13:30 | CAD | Employment Change (May) | 8.8K | -11.9K | 7.4K |
 | 13:30 | CAD | Unemployment Rate (May) | 7.0% | 7.0% | 6.9% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 50 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
-| 50 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 442 |  | 451 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 559 |  | 563 |
 | 20:00 | USD | Consumer Credit (Apr) |  | 11.30B | 10.17B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 35.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 186.4K |

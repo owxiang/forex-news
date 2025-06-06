@@ -64,8 +64,8 @@
 | 13:30 | CAD | Low | Participation Rate (May) | 65.3% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (May) | 7.0% | 7.0% | 6.9% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 50 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
-| 50 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 442 |  | 451 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 559 |  | 563 |
 | 20:00 | USD | Moderate | Consumer Credit (Apr) |  | 11.30B | 10.17B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 35.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.3K |
