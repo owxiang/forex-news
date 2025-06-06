@@ -23,12 +23,12 @@
 | 07:45 | EUR | French Reserve Assets Total (May) | 304,609.0M |  | 303,057.0M |
 | 07:45 | EUR | French Trade Balance (Apr) | -8.0B | -6.0B | -6.3B |
 | 08:00 | CHF | Foreign Reserves (USD) (May) | 703.6B |  | 703.0B |
-| 21 min | HKD | Foreign Reserves (USD) (May) |  |  | 408.70B |
-| 51 min | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
-| 51 min | EUR | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
-| 51 min | EUR | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
-| 51 min | EUR | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
-| 51 min | EUR | Retail Sales (YoY) (Apr) |  | 1.4% | 1.5% |
+| 09:30 | HKD | Foreign Reserves (USD) (May) | 431.00B |  | 410.20B |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
+| 10:00 | EUR | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
+| 10:00 | EUR | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
+| 10:00 | EUR | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
 | 12:00 | CAD | Leading Index (MoM) (May) |  |  | 0.02% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.30% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.9% |

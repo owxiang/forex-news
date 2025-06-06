@@ -14,8 +14,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | -0.3% |  | -1.3% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -4.2% |  | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 103.4 | 104.0 | 108.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) | -1.7% | -0.5% | 1.2% |
 | 07:00 | EUR | Low | German Imports (MoM) (Apr) | 3.9% |  | -1.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | -1.4% | -0.9% | 2.3% |
@@ -31,16 +31,16 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (May) | 304,609.0M |  | 303,057.0M |
 | 07:45 | EUR | Low | French Trade Balance (Apr) | -8.0B | -6.0B | -6.3B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (May) | 703.6B |  | 703.0B |
-| 21 min | HKD | Low | Foreign Reserves (USD) (May) |  |  | 408.70B |
-| 21 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 51 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.21% |
-| 51 min | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.1% |
-| 51 min | EUR | Low | Employment Change (YoY) (Q1) |  | 0.6% | 0.7% |
-| 51 min | EUR | Low | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
-| 51 min | EUR | Moderate | GDP (YoY) |  | 1.2% | 1.2% |
-| 51 min | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
-| 51 min | EUR | Low | Retail Sales (MoM) (Apr) |  | 0.2% | -0.1% |
-| 51 min | EUR | Low | Retail Sales (YoY) (Apr) |  | 1.4% | 1.5% |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (May) | 7.09% |  | 7.19% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (May) | 431.00B |  | 410.20B |
+| 09:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
+| 10:00 | EUR | Low | Employment Overall (Q1) |  | 169,974.4K | 169,435.3K |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.5% | 1.2% | 1.2% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
 | 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.02% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 0.30% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.9% |
