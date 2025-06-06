@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.2% | 0.3% | 0.1% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 0.7% | 0.6% | 0.8% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 169,794.4K | 169,974.4K | 169,435.3K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 1.5% | 1.2% | 1.2% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.6% | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | 0.1% | 0.2% | 0.4% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 2.3% | 1.4% | 1.9% |
 | 12:00 | CAD | Low | Leading Index (MoM) (May) | 0.10% |  | 0.07% |
@@ -47,8 +47,8 @@
 | 12:30 | INR | Low | Deposit Growth | 10.0% |  | 10.0% |
 | 12:30 | INR | Low | FX Reserves, USD | 691.49B |  | 692.72B |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | -0.36% |  | -0.60% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 3.9% | 3.7% | 3.9% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.4% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 3.9% | 3.7% | 3.9% |
 | 13:30 | USD | Low | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) | -1.0K |  | 1.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) | -8K | -1K | 5K |
@@ -64,8 +64,8 @@
 | 13:30 | CAD | Low | Participation Rate (May) | 65.3% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (May) | 7.0% | 7.0% | 6.9% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
+| 50 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 461 |
+| 50 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 563 |
 | 20:00 | USD | Moderate | Consumer Credit (Apr) |  | 11.30B | 10.17B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 35.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.3K |
