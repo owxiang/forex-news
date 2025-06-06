@@ -14,8 +14,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | -0.3% |  | -1.3% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -4.2% |  | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 103.4 | 104.0 | 108.1 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.4% | 0.4% | 0.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 2.5% |  | 3.2% |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) | -1.7% | -0.5% | 1.2% |
 | 07:00 | EUR | Low | German Imports (MoM) (Apr) | 3.9% |  | -1.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | -1.4% | -0.9% | 2.3% |
