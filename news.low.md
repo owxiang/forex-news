@@ -1,5 +1,5 @@
-## 07 June 2025 - Low Impact Forex News
+## 08 June 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:40 | CNY | FX Reserves (USD) (May) | 3.285T |  | 3.282T |
+| 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | 1.1% |
