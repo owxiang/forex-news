@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16:46 | CNY | FX Reserves (USD) (May) |  |  | 3.282T |
+| 03:18 | CNY | FX Reserves (USD) (May) | 3.285T |  | 3.282T |
