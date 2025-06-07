@@ -4,4 +4,4 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 03:18 | CNY | Low | FX Reserves (USD) (May) | 3.285T |  | 3.282T |
 | 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 34 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 10:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
