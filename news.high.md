@@ -1,3 +1,5 @@
-## 08 June 2025 - High Impact Forex News
+## 09 June 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 44 min | JPY | GDP (QoQ) (Q1) |  | -0.2% | 0.6% |
