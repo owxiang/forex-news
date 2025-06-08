@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | 1.1% |
+| 39 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | 1.1% |
