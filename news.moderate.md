@@ -9,9 +9,9 @@
 | 02:30 | CNY | CPI (MoM) (May) | -0.2% |  | 0.1% |
 | 02:30 | CNY | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
 | 02:30 | CNY | PPI (YoY) (May) | -3.3% | -3.1% | -2.7% |
-| 19 min | CNY | Exports (YoY) (May) |  | 5.0% | 8.1% |
-| 19 min | CNY | Imports (YoY) (May) |  | -0.9% | -0.2% |
-| 19 min | CNY | Trade Balance (USD) (May) |  | 101.10B | 96.18B |
+| 04:03 | CNY | Exports (YoY) (May) | 4.8% | 5.0% | 8.1% |
+| 04:03 | CNY | Imports (YoY) (May) | -3.4% | -0.9% | -0.2% |
+| 04:03 | CNY | Trade Balance (USD) (May) | 103.22B | 101.10B | 96.18B |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | MXN | CPI (YoY) (May) |  |  | 3.93% |
 | 13:00 | MXN | CPI (MoM) (May) |  |  | 0.33% |

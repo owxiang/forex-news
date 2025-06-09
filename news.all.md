@@ -14,12 +14,12 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.2% |  | 0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -3.3% | -3.1% | -2.7% |
-| 19 min | CNY | Low | Exports (May) |  |  | 9.30M |
-| 19 min | CNY | Low | Imports (May) |  |  | 0.80M |
-| 19 min | CNY | Low | Trade Balance (May) |  | 710.00B | 689.99B |
-| 19 min | CNY | Moderate | Exports (YoY) (May) |  | 5.0% | 8.1% |
-| 19 min | CNY | Moderate | Imports (YoY) (May) |  | -0.9% | -0.2% |
-| 19 min | CNY | Moderate | Trade Balance (USD) (May) |  | 101.10B | 96.18B |
+| 04:03 | CNY | Low | Exports (May) | 6.30M |  | 9.30M |
+| 04:03 | CNY | Low | Imports (May) | -2.10M |  | 0.80M |
+| 04:03 | CNY | Moderate | Exports (YoY) (May) | 4.8% | 5.0% | 8.1% |
+| 04:03 | CNY | Moderate | Imports (YoY) (May) | -3.4% | -0.9% | -0.2% |
+| 04:03 | CNY | Low | Trade Balance (May) | 743.56B | 710.00B | 689.99B |
+| 04:03 | CNY | Moderate | Trade Balance (USD) (May) | 103.22B | 101.10B | 96.18B |
 | 06:00 | JPY | Low | Economy Watchers Current Index (May) |  | 43.8 | 42.6 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) |  |  | 389.2B |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
@@ -28,8 +28,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 3.93% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 3.93% |
-| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 6.90% |
+| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.10% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.909% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.985% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.962% |
