@@ -14,8 +14,8 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.49% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) |  |  | 3.93% |
-| 13:00 | MXN | PPI (YoY) (May) |  |  | 6.90% |
 | 13:00 | MXN | PPI (MoM) (May) |  |  | 0.10% |
+| 13:00 | MXN | PPI (YoY) (May) |  |  | 6.90% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.909% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.985% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.962% |
