@@ -14,8 +14,8 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (May) | 0.30% |  | 0.49% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) | 4.06% |  | 3.93% |
-| 13:00 | MXN | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:00 | MXN | PPI (MoM) (May) | 0.00% |  | 0.20% |
+| 13:00 | MXN | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:45 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.92M |  | 0.91M |
 | 13:45 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
 | 13:45 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
@@ -31,5 +31,5 @@
 | 15:00 | USD | CB Employment Trends Index (May) | 107.49 |  | 108.00 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Apr) | 0.2% | 0.0% | 0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | 0.8% |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.250% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.150% |
+| 16:30 | USD | 3-Month Bill Auction | 4.250% |  | 4.250% |
+| 16:30 | USD | 6-Month Bill Auction | 4.150% |  | 4.150% |
