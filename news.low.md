@@ -28,8 +28,8 @@
 | 13:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.10M |  | 8.97M |
 | 13:45 | USD | OPEC Crude oil Production UAE (Barrel) | 2.94M |  | 2.91M |
 | 13:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.76M |  | 0.76M |
-| 44 min | USD | CB Employment Trends Index (May) |  |  | 107.57 |
-| 44 min | USD | Wholesale Inventories (MoM) (Apr) |  | 0.0% | 0.4% |
-| 44 min | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | 0.6% |
+| 15:00 | USD | CB Employment Trends Index (May) | 107.49 |  | 108.00 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Apr) | 0.2% | 0.0% | 0.4% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | 0.8% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.150% |
