@@ -9,7 +9,7 @@
 | 04:03 | CNY | Exports (May) | 6.30M |  | 9.30M |
 | 04:03 | CNY | Imports (May) | -2.10M |  | 0.80M |
 | 04:03 | CNY | Trade Balance (May) | 743.56B | 710.00B | 689.99B |
-| 06:00 | JPY | Economy Watchers Current Index (May) |  | 43.8 | 42.6 |
+| 45 min | JPY | Economy Watchers Current Index (May) |  | 43.8 | 42.6 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 389.2B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.49% |
