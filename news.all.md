@@ -11,8 +11,8 @@
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.8% | -0.8% | 0.7% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.3% | 3.2% | 2.9% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.1% | 0.0% | 0.1% |
-| 02:30 | CNY | Moderate | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.2% |  | 0.1% |
+| 02:30 | CNY | Moderate | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -3.3% | -3.1% | -2.7% |
 | 04:00 | CNY | Low | Exports (May) | 6.30M |  | 9.30M |
 | 04:00 | CNY | Low | Imports (May) | -2.10M |  | 0.80M |
@@ -23,13 +23,13 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (May) | 44.4 | 43.8 | 42.6 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) | 401.7B |  | 389.2B |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Core CPI (MoM) (May) |  |  | 0.49% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.33% |
-| 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 3.93% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 3.93% |
-| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.10% |
-| 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 6.90% |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | MXN | Low | Core CPI (MoM) (May) |  |  | 0.49% |
+| 54 min | MXN | Moderate | CPI (YoY) (May) |  |  | 3.93% |
+| 54 min | MXN | Moderate | CPI (MoM) (May) |  |  | 0.33% |
+| 54 min | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 3.93% |
+| 54 min | MXN | Low | PPI (YoY) (May) |  |  | 6.90% |
+| 54 min | MXN | Low | PPI (MoM) (May) |  |  | 0.10% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.909% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.985% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.962% |
