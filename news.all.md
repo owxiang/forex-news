@@ -6,15 +6,15 @@
 | 00:50 | JPY | Low | Bank Lending (YoY) (May) | 2.4% |  | 2.3% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Apr) | 2.258T | 2.560T | 3.678T |
 | 00:50 | JPY | High | GDP (QoQ) (Q1) | 0.0% | -0.2% | 0.6% |
-| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q1) | -0.2% |  | -0.7% |
+| 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q1) | -0.2% | -0.7% | 2.2% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | 1.1% | 1.4% | 0.6% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.8% | -0.8% | 0.7% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.3% | 3.2% | 2.9% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.1% | 0.0% | 0.1% |
-| 58 min | CNY | Moderate | CPI (MoM) (May) |  |  | 0.1% |
-| 58 min | CNY | Moderate | CPI (YoY) (May) |  | -0.2% | -0.1% |
-| 58 min | CNY | Moderate | PPI (YoY) (May) |  | -3.1% | -2.7% |
-| 03:30 | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
+| 02:30 | CNY | Moderate | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
+| 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.2% |  | 0.1% |
+| 02:30 | CNY | Moderate | PPI (YoY) (May) | -3.3% | -3.1% | -2.7% |
+| 54 min | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 04:00 | CNY | Low | Exports (May) |  |  | 9.30M |
 | 04:00 | CNY | Low | Imports (May) |  |  | 0.80M |
 | 04:00 | CNY | Low | Trade Balance (May) |  | 710.00B | 689.99B |
@@ -29,8 +29,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 3.93% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 3.93% |
-| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.10% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 6.90% |
+| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.10% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.909% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.985% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.962% |
