@@ -25,8 +25,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) | 0.30% |  | 0.49% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.42% |  | 3.93% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.06% |  | 3.93% |
 | 13:00 | MXN | Low | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:00 | MXN | Low | PPI (MoM) (May) | 0.00% |  | 0.20% |
@@ -45,7 +45,7 @@
 | 15:00 | USD | Low | CB Employment Trends Index (May) | 107.49 |  | 108.00 |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) | 0.2% | 0.0% | 0.4% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | 0.8% |
-| 53 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (May) |  |  | 3.6% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (May) | 3.2% |  | 3.6% |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |

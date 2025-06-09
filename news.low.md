@@ -31,5 +31,5 @@
 | 15:00 | USD | CB Employment Trends Index (May) | 107.49 |  | 108.00 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Apr) | 0.2% | 0.0% | 0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | 0.8% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.250% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.150% |
+| 23 min | USD | 3-Month Bill Auction |  |  | 4.250% |
+| 23 min | USD | 6-Month Bill Auction |  |  | 4.150% |
