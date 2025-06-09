@@ -11,8 +11,8 @@
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.8% | -0.8% | 0.7% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.3% | 3.2% | 2.9% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | 0.1% | 0.0% | 0.1% |
-| 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.2% |  | 0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
+| 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.2% |  | 0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -3.3% | -3.1% | -2.7% |
 | 04:00 | CNY | Low | Exports (May) | 6.30M |  | 9.30M |
 | 04:00 | CNY | Low | Imports (May) | -2.10M |  | 0.80M |
