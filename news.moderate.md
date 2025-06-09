@@ -1,19 +1,16 @@
-## 09 June 2025 - Moderate Impact Forex News
+## 10 June 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Apr) | 2.31T | 2.59T | 2.72T |
-| 00:50 | JPY | Current Account n.s.a. (Apr) | 2.258T | 2.560T | 3.678T |
-| 00:50 | JPY | GDP Annualized (QoQ) (Q1) | -0.2% | -0.7% | 2.2% |
-| 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.3% | 3.2% | 2.9% |
-| 02:30 | CNY | CPI (MoM) (May) | -0.2% |  | 0.1% |
-| 02:30 | CNY | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
-| 02:30 | CNY | PPI (YoY) (May) | -3.3% | -3.1% | -2.7% |
-| 04:00 | CNY | Exports (YoY) (May) | 4.8% | 5.0% | 8.1% |
-| 04:00 | CNY | Imports (YoY) (May) | -3.4% | -0.9% | -0.2% |
-| 04:00 | CNY | Trade Balance (USD) (May) | 103.22B | 101.10B | 96.18B |
-| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | MXN | CPI (MoM) (May) | 0.28% |  | 0.33% |
-| 13:00 | MXN | CPI (YoY) (May) | 4.42% |  | 3.93% |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (May) | 3.2% |  | 3.6% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.8% | 3.8% | 3.8% |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 0.6% | 2.7% | 6.8% |
+| 02:30 | AUD | NAB Business Confidence (May) |  |  | -1 |
+| 07:00 | GBP | Average Earnings Index +Bonus (Apr) |  | 5.3% | 5.5% |
+| 07:00 | GBP | Claimant Count Change (May) |  | 9.5K | 5.2K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  |  | 112K |
+| 07:00 | GBP | Unemployment Rate (Apr) |  | 4.6% | 4.5% |
+| 08:00 | CHF | SECO Consumer Climate (May) |  | -38 | -39 |
+| 13:00 | BRL | CPI (YoY) (May) |  |  | 5.53% |
+| 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 3.824% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.700M | -3.300M |
