@@ -12,7 +12,7 @@
 | 04:00 | CNY | Exports (YoY) (May) | 4.8% | 5.0% | 8.1% |
 | 04:00 | CNY | Imports (YoY) (May) | -3.4% | -0.9% | -0.2% |
 | 04:00 | CNY | Trade Balance (USD) (May) | 103.22B | 101.10B | 96.18B |
-| 50 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:00 | MXN | CPI (MoM) (May) |  |  | 0.33% |
 | 13:00 | MXN | CPI (YoY) (May) |  |  | 3.93% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (May) |  |  | 3.6% |
