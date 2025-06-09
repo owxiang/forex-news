@@ -25,8 +25,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) | 0.30% |  | 0.49% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.42% |  | 3.93% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.06% |  | 3.93% |
 | 13:00 | MXN | Low | PPI (MoM) (May) | 0.00% |  | 0.20% |
 | 13:00 | MXN | Low | PPI (YoY) (May) | 6.40% |  | 6.90% |
