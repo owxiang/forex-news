@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Adjusted Current Account (Apr) | 2.31T |  | 2.72T |
-| 00:50 | JPY | Low | Bank Lending (YoY) (May) | 2.4% |  | 2.3% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Apr) | 2.31T | 2.59T | 2.72T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (May) | 2.4% | 2.3% | 2.3% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Apr) | 2.258T | 2.560T | 3.678T |
 | 00:50 | JPY | High | GDP (QoQ) (Q1) | 0.0% | -0.2% | 0.6% |
 | 00:50 | JPY | Moderate | GDP Annualized (QoQ) (Q1) | -0.2% | -0.7% | 2.2% |
@@ -14,19 +14,19 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.2% |  | 0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | -0.1% | -0.2% | -0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -3.3% | -3.1% | -2.7% |
-| 04:03 | CNY | Low | Exports (May) | 6.30M |  | 9.30M |
-| 04:03 | CNY | Low | Imports (May) | -2.10M |  | 0.80M |
-| 04:03 | CNY | Moderate | Exports (YoY) (May) | 4.8% | 5.0% | 8.1% |
-| 04:03 | CNY | Moderate | Imports (YoY) (May) | -3.4% | -0.9% | -0.2% |
-| 04:03 | CNY | Low | Trade Balance (May) | 743.56B | 710.00B | 689.99B |
-| 04:03 | CNY | Moderate | Trade Balance (USD) (May) | 103.22B | 101.10B | 96.18B |
-| 45 min | JPY | Low | Economy Watchers Current Index (May) |  | 43.8 | 42.6 |
+| 04:00 | CNY | Low | Exports (May) | 6.30M |  | 9.30M |
+| 04:00 | CNY | Low | Imports (May) | -2.10M |  | 0.80M |
+| 04:00 | CNY | Low | Trade Balance (May) | 743.56B | 710.00B | 689.99B |
+| 04:00 | CNY | Moderate | Exports (YoY) (May) | 4.8% | 5.0% | 8.1% |
+| 04:00 | CNY | Moderate | Imports (YoY) (May) | -3.4% | -0.9% | -0.2% |
+| 04:00 | CNY | Moderate | Trade Balance (USD) (May) | 103.22B | 101.10B | 96.18B |
+| 06:00 | JPY | Low | Economy Watchers Current Index (May) | 44.4 | 43.8 | 42.6 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (May) |  |  | 389.2B |
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) |  |  | 0.49% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.33% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 3.93% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 3.93% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 6.90% |
 | 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.10% |

@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Bank Lending (YoY) (May) | 2.4% |  | 2.3% |
+| 00:50 | JPY | Bank Lending (YoY) (May) | 2.4% | 2.3% | 2.3% |
 | 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q1) | 1.1% | 1.4% | 0.6% |
 | 00:50 | JPY | GDP External Demand (QoQ) (Q1) | -0.8% | -0.8% | 0.7% |
 | 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.1% | 0.0% | 0.1% |
-| 04:03 | CNY | Exports (May) | 6.30M |  | 9.30M |
-| 04:03 | CNY | Imports (May) | -2.10M |  | 0.80M |
-| 04:03 | CNY | Trade Balance (May) | 743.56B | 710.00B | 689.99B |
-| 45 min | JPY | Economy Watchers Current Index (May) |  | 43.8 | 42.6 |
+| 04:00 | CNY | Exports (May) | 6.30M |  | 9.30M |
+| 04:00 | CNY | Imports (May) | -2.10M |  | 0.80M |
+| 04:00 | CNY | Trade Balance (May) | 743.56B | 710.00B | 689.99B |
+| 06:00 | JPY | Economy Watchers Current Index (May) | 44.4 | 43.8 | 42.6 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (May) |  |  | 389.2B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.49% |
