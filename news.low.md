@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Bank Lending (YoY) (May) |  |  | 2.4% |
-| 44 min | JPY | GDP Capital Expenditure (QoQ) (Q1) |  | 1.4% | 0.6% |
-| 44 min | JPY | GDP External Demand (QoQ) (Q1) |  | -0.8% | 0.7% |
-| 44 min | JPY | GDP Private Consumption (QoQ) (Q1) |  | 0.0% | 0.0% |
+| 00:50 | JPY | Bank Lending (YoY) (May) | 2.4% |  | 2.3% |
+| 00:50 | JPY | GDP Capital Expenditure (QoQ) (Q1) | 1.1% | 1.4% | 0.6% |
+| 00:50 | JPY | GDP External Demand (QoQ) (Q1) | -0.8% | -0.8% | 0.7% |
+| 00:50 | JPY | GDP Private Consumption (QoQ) (Q1) | 0.1% | 0.0% | 0.1% |
 | 03:30 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 04:00 | CNY | Exports (May) |  |  | 9.30M |
 | 04:00 | CNY | Imports (May) |  |  | 0.80M |

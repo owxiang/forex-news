@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Adjusted Current Account (Apr) |  |  | 2.72T |
-| 44 min | JPY | Current Account n.s.a. (Apr) |  | 2.560T | 3.678T |
-| 44 min | JPY | GDP Annualized (QoQ) (Q1) |  |  | -0.7% |
-| 44 min | JPY | GDP Price Index (YoY) (Q1) |  | 3.2% | 2.9% |
-| 02:30 | CNY | CPI (MoM) (May) |  |  | 0.1% |
-| 02:30 | CNY | CPI (YoY) (May) |  | -0.2% | -0.1% |
-| 02:30 | CNY | PPI (YoY) (May) |  | -3.1% | -2.7% |
+| 00:50 | JPY | Adjusted Current Account (Apr) | 2.31T |  | 2.72T |
+| 00:50 | JPY | Current Account n.s.a. (Apr) | 2.258T | 2.560T | 3.678T |
+| 00:50 | JPY | GDP Annualized (QoQ) (Q1) | -0.2% |  | -0.7% |
+| 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.3% | 3.2% | 2.9% |
+| 58 min | CNY | CPI (MoM) (May) |  |  | 0.1% |
+| 58 min | CNY | CPI (YoY) (May) |  | -0.2% | -0.1% |
+| 58 min | CNY | PPI (YoY) (May) |  | -3.1% | -2.7% |
 | 04:00 | CNY | Exports (YoY) (May) |  | 5.0% | 8.1% |
 | 04:00 | CNY | Imports (YoY) (May) |  | -0.9% | -0.2% |
 | 04:00 | CNY | Trade Balance (USD) (May) |  | 101.10B | 96.18B |
