@@ -28,14 +28,23 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.42% |  | 3.93% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.06% |  | 3.93% |
-| 13:00 | MXN | Low | PPI (MoM) (May) | 0.00% |  | 0.20% |
 | 13:00 | MXN | Low | PPI (YoY) (May) | 6.40% |  | 6.90% |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.909% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.985% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.962% |
-| 15:00 | USD | Low | CB Employment Trends Index (May) |  |  | 107.57 |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.0% | 0.4% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) |  |  | 0.6% |
+| 13:00 | MXN | Low | PPI (MoM) (May) | 0.00% |  | 0.20% |
+| 13:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.92M |  | 0.91M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 13:45 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.30M |  | 3.35M |
+| 13:45 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 3.91M |  | 3.93M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.44M |  | 2.41M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.26M |
+| 13:45 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.60M |  | 1.57M |
+| 13:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.10M |  | 8.97M |
+| 13:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.94M |  | 2.91M |
+| 13:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.76M |  | 0.76M |
+| 44 min | USD | Low | CB Employment Trends Index (May) |  |  | 107.57 |
+| 44 min | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.0% | 0.4% |
+| 44 min | USD | Low | Wholesale Trade Sales (MoM) (Apr) |  |  | 0.6% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (May) |  |  | 3.6% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
