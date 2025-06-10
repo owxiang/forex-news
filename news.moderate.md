@@ -13,4 +13,4 @@
 | 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 3.972% |  | 3.824% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.700M | -3.300M |
+| 22 min | USD | API Weekly Crude Oil Stock |  | 0.700M | -3.300M |
