@@ -18,8 +18,8 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) | 3.4% |  | 7.7% |
 | 07:00 | NOK | Low | Core CPI YTD (May) | 2.8% |  | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) | 0.2% |  | 0.5% |
-| 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | Low | CPI (YoY) (May) | 3.0% |  | 2.5% |
+| 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | Low | PPI (YoY) (May) | -0.1% |  | 2.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (May) | -37 | -38 | -39 |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
@@ -38,9 +38,9 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.943% |  | 1.985% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.963% |  | 1.962% |
 | 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 23 min | USD | Low | 52-Week Bill Auction |  |  | 3.930% |
-| 53 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 3.824% |
+| 16:30 | USD | Low | 52-Week Bill Auction | 3.940% |  | 3.930% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 51 min | USD | Moderate | 3-Year Note Auction |  |  | 3.824% |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -3.300M |
 | 23:45 | NZD | Low | External Migration & Visitors (Apr) |  |  | -8.40% |
