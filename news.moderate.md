@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 0.6% | 2.7% | 6.8% |
-| 59 min | AUD | NAB Business Confidence (May) |  |  | -1 |
+| 02:30 | AUD | NAB Business Confidence (May) | 2 |  | -1 |
 | 07:00 | GBP | Average Earnings Index +Bonus (Apr) |  | 5.3% | 5.5% |
 | 07:00 | GBP | Claimant Count Change (May) |  | 9.5K | 5.2K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  |  | 112K |

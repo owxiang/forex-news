@@ -6,7 +6,7 @@
 | 00:50 | JPY | M2 Money Stock (YoY) | 0.6% | 0.6% | 0.5% |
 | 00:50 | JPY | M3 Money Supply (May) | 2,199.6B |  | 2,198.3B |
 | 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 0.5% |  | 2.2% |
-| 59 min | AUD | NAB Business Survey (May) |  |  | 2 |
+| 02:30 | AUD | NAB Business Survey (May) | 0 |  | 2 |
 | 04:00 | IDR | FX Reserves (USD) (May) |  |  | 152.50B |
 | 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 5.5% | 5.6% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (May) |  |  | 7.7% |

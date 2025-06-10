@@ -7,8 +7,8 @@
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 0.6% | 0.6% | 0.5% |
 | 00:50 | JPY | Low | M3 Money Supply (May) | 2,199.6B |  | 2,198.3B |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | 0.5% |  | 2.2% |
-| 59 min | AUD | Moderate | NAB Business Confidence (May) |  |  | -1 |
-| 59 min | AUD | Low | NAB Business Survey (May) |  |  | 2 |
+| 02:30 | AUD | Moderate | NAB Business Confidence (May) | 2 |  | -1 |
+| 02:30 | AUD | Low | NAB Business Survey (May) | 0 |  | 2 |
 | 04:00 | IDR | Low | FX Reserves (USD) (May) |  |  | 152.50B |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 5.5% | 5.6% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 5.3% | 5.5% |
