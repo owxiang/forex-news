@@ -9,7 +9,7 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | 0.5% |  | 2.2% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (May) | 2 |  | -1 |
 | 02:30 | AUD | Low | NAB Business Survey (May) | 0 |  | 2 |
-| 31 min | IDR | Low | FX Reserves (USD) (May) |  |  | 152.50B |
+| 04:00 | IDR | Low | FX Reserves (USD) (May) | 152.50B |  | 152.50B |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 5.5% | 5.6% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 5.3% | 5.5% |
 | 07:00 | GBP | Moderate | Claimant Count Change (May) |  | 9.5K | 5.2K |
@@ -18,20 +18,20 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) |  |  | 7.7% |
 | 07:00 | NOK | Low | Core CPI YTD (May) |  |  | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) |  |  | 0.5% |
-| 07:00 | NOK | Low | CPI (MoM) (May) |  |  | 0.7% |
 | 07:00 | NOK | Low | CPI (YoY) (May) |  |  | 2.5% |
+| 07:00 | NOK | Low | CPI (MoM) (May) |  |  | 0.7% |
 | 07:00 | NOK | Low | PPI (YoY) (May) |  |  | 2.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (May) |  | -38 | -39 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) |  |  | -1.8% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.1% | 0.1% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) |  | -6.0 | -8.1 |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.976% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.070% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 95.9 | 95.8 |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -0.8% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
-| 13:00 | BRL | Low | CPI (MoM) (May) |  |  | 0.43% |
 | 13:00 | BRL | Moderate | CPI (YoY) (May) |  |  | 5.53% |
+| 13:00 | BRL | Low | CPI (MoM) (May) |  |  | 0.43% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.41% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.909% |
