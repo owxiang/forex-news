@@ -1,35 +1,39 @@
-## 10 June 2025 - Low Impact Forex News
+## 11 June 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (Apr) | 5.70B |  | 9.14B |
-| 00:50 | JPY | M2 Money Stock (YoY) | 0.6% | 0.6% | 0.5% |
-| 00:50 | JPY | M3 Money Supply (May) | 2,199.6B |  | 2,198.3B |
-| 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 0.5% |  | 2.2% |
-| 02:30 | AUD | NAB Business Survey (May) | 0 |  | 2 |
-| 04:00 | IDR | FX Reserves (USD) (May) | 152.50B |  | 152.50B |
-| 07:00 | GBP | Average Earnings ex Bonus (Apr) | 5.2% | 5.4% | 5.5% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (May) | 3.4% |  | 7.7% |
-| 07:00 | NOK | Core CPI YTD (May) | 2.8% |  | 3.0% |
-| 07:00 | NOK | Core Inflation (MoM) (May) | 0.2% |  | 0.5% |
-| 07:00 | NOK | CPI (MoM) (May) | 0.4% |  | 0.7% |
-| 07:00 | NOK | CPI (YoY) (May) | 3.0% |  | 2.5% |
-| 07:00 | NOK | PPI (YoY) (May) | -0.1% |  | 2.1% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Apr) | 1.0% | 0.0% | 0.0% |
-| 09:30 | EUR | Sentix Investor Confidence (Jun) | 0.2 | -5.3 | -8.1 |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
-| 10:50 | EUR | German 5-Year Bobl Auction | 2.400% |  | 2.070% |
-| 11:00 | USD | NFIB Small Business Optimism (May) | 98.8 | 95.9 | 95.8 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Apr) | -6.3% |  | -1.2% |
-| 13:00 | BRL | CPI (MoM) (May) | 0.26% |  | 0.43% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.32% |  | 0.41% |
-| 13:55 | USD | Redbook (YoY) | 4.7% |  | 4.9% |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.943% |  | 1.909% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.943% |  | 1.985% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.963% |  | 1.962% |
-| 16:30 | USD | 52-Week Bill Auction | 3.940% |  | 3.930% |
-| 39 min | NZD | External Migration & Visitors (Apr) |  |  | -8.40% |
-| 39 min | NZD | Permanent/Long-Term Migration (Apr) |  |  | 2,480 |
-| 39 min | NZD | Visitor Arrivals (MoM) |  |  | -1.9% |
+| 00:00 | KRW | Unemployment Rate (May) | 2.7% |  | 2.7% |
+| 44 min | JPY | PPI (MoM) (May) |  |  | 0.2% |
+| 44 min | JPY | PPI (YoY) (May) |  | 3.5% | 4.0% |
+| 07:00 | IDR | Car Sales (YoY) (May) |  |  | 5.00% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.673% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.959% |
+| 10:30 | ZAR | Business Confidence (May) |  |  | 123.5 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.92% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.9% |
+| 12:00 | USD | MBA Purchase Index |  |  | 155.0 |
+| 12:00 | USD | Mortgage Market Index |  |  | 226.4 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 611.8 |
+| 12:30 | INR | M3 Money Supply |  |  | 9.5% |
+| 13:00 | MXN | Industrial Production (MoM) (Apr) |  |  | -0.9% |
+| 13:00 | MXN | Industrial Production (YoY) (Apr) |  |  | 1.9% |
+| 13:30 | USD | Core CPI Index (May) |  |  | 326.43 |
+| 13:30 | USD | CPI Index, n.s.a. (May) |  |  | 320.80 |
+| 13:30 | USD | CPI Index, s.a (May) |  |  | 320.32 |
+| 13:30 | USD | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
+| 13:30 | USD | Real Earnings (MoM) (May) |  |  | -0.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.389M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.182M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.600M | 4.230M |
+| 15:30 | USD | Gasoline Production |  |  | -0.714M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.282M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.2% |
+| 15:30 | USD | Gasoline Inventories |  | 1.100M | 5.219M |
+| 16:00 | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.95 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.15 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 53.35 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.63 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.058B |
+| 23:45 | NZD | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |
