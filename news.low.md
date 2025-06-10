@@ -15,8 +15,8 @@
 | 07:00 | NOK | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | CPI (YoY) (May) | 3.0% |  | 2.5% |
 | 07:00 | NOK | PPI (YoY) (May) | -0.1% |  | 2.1% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Apr) | 1.0% | 0.0% | 0.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Apr) | 1.0% | 0.0% | 0.0% |
 | 09:30 | EUR | Sentix Investor Confidence (Jun) | 0.2 | -5.3 | -8.1 |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.400% |  | 2.070% |
@@ -29,7 +29,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.943% |  | 1.909% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.943% |  | 1.985% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.963% |  | 1.962% |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.930% |
+| 23 min | USD | 52-Week Bill Auction |  |  | 3.930% |
 | 23:45 | NZD | External Migration & Visitors (Apr) |  |  | -8.40% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Apr) |  |  | 2,480 |
 | 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -1.9% |
