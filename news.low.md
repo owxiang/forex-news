@@ -8,16 +8,16 @@
 | 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 0.5% |  | 2.2% |
 | 02:30 | AUD | NAB Business Survey (May) | 0 |  | 2 |
 | 04:00 | IDR | FX Reserves (USD) (May) | 152.50B |  | 152.50B |
-| 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 5.5% | 5.6% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (May) |  |  | 7.7% |
-| 07:00 | NOK | Core CPI YTD (May) |  |  | 3.0% |
-| 07:00 | NOK | Core Inflation (MoM) (May) |  |  | 0.5% |
-| 07:00 | NOK | CPI (YoY) (May) |  |  | 2.5% |
-| 07:00 | NOK | CPI (MoM) (May) |  |  | 0.7% |
-| 07:00 | NOK | PPI (YoY) (May) |  |  | 2.1% |
+| 53 min | GBP | Average Earnings ex Bonus (Apr) |  | 5.4% | 5.6% |
+| 53 min | JPY | Machine Tool Orders (YoY) (May) |  |  | 7.7% |
+| 53 min | NOK | Core CPI YTD (May) |  |  | 3.0% |
+| 53 min | NOK | Core Inflation (MoM) (May) |  |  | 0.5% |
+| 53 min | NOK | CPI (MoM) (May) |  |  | 0.7% |
+| 53 min | NOK | CPI (YoY) (May) |  |  | 2.5% |
+| 53 min | NOK | PPI (YoY) (May) |  |  | 2.1% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Apr) |  | 0.0% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Apr) |  |  | -1.8% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Apr) |  | 0.1% | 0.1% |
-| 09:30 | EUR | Sentix Investor Confidence (Jun) |  | -6.0 | -8.1 |
+| 09:30 | EUR | Sentix Investor Confidence (Jun) |  | -5.3 | -8.1 |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.976% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.070% |
 | 11:00 | USD | NFIB Small Business Optimism (May) |  | 95.9 | 95.8 |
