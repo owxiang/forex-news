@@ -42,7 +42,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.972% |  | 3.824% |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
-| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -3.300M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.370M | 0.700M | -3.300M |
 | 23:45 | NZD | Low | External Migration & Visitors (Apr) |  |  | -8.40% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Apr) |  |  | 2,480 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -1.9% |
