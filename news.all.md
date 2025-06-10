@@ -28,8 +28,8 @@
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.400% |  | 2.070% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) | 98.8 | 95.9 | 95.8 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | -6.3% |  | -1.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | -6.3% |  | -1.2% |
 | 13:00 | BRL | Low | CPI (MoM) (May) | 0.26% |  | 0.43% |
 | 13:00 | BRL | Moderate | CPI (YoY) (May) | 5.32% |  | 5.53% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.32% |  | 0.41% |
