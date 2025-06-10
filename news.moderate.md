@@ -8,7 +8,7 @@
 | 07:00 | GBP | Claimant Count Change (May) | 33.1K | 9.5K | -21.2K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) | 89K |  | 112K |
 | 07:00 | GBP | Unemployment Rate (Apr) | 4.6% | 4.6% | 4.5% |
-| 50 min | CHF | SECO Consumer Climate (May) |  | -38 | -39 |
+| 08:00 | CHF | SECO Consumer Climate (May) | -37 | -38 | -39 |
 | 13:00 | BRL | CPI (YoY) (May) |  |  | 5.53% |
 | 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
