@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:00 | USD | U.S. President Trump Speaks |  |  |  |
+| 54 min | USD | U.S. President Trump Speaks |  |  |  |
