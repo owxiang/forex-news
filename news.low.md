@@ -7,7 +7,7 @@
 | 00:50 | JPY | M3 Money Supply (May) | 2,199.6B |  | 2,198.3B |
 | 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 0.5% |  | 2.2% |
 | 02:30 | AUD | NAB Business Survey (May) | 0 |  | 2 |
-| 22 min | IDR | FX Reserves (USD) (May) |  |  | 152.50B |
+| 31 min | IDR | FX Reserves (USD) (May) |  |  | 152.50B |
 | 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 5.5% | 5.6% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (May) |  |  | 7.7% |
 | 07:00 | NOK | Core CPI YTD (May) |  |  | 3.0% |
@@ -21,8 +21,8 @@
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.976% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.070% |
 | 11:00 | USD | NFIB Small Business Optimism (May) |  | 95.9 | 95.8 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) |  |  | -0.8% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 13:00 | BRL | CPI (MoM) (May) |  |  | 0.43% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.41% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
