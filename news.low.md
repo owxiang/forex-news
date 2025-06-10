@@ -7,7 +7,7 @@
 | 00:50 | JPY | M3 Money Supply (May) | 2,199.6B |  | 2,198.3B |
 | 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 0.5% |  | 2.2% |
 | 02:30 | AUD | NAB Business Survey (May) | 0 |  | 2 |
-| 04:00 | IDR | FX Reserves (USD) (May) |  |  | 152.50B |
+| 22 min | IDR | FX Reserves (USD) (May) |  |  | 152.50B |
 | 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 5.5% | 5.6% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (May) |  |  | 7.7% |
 | 07:00 | NOK | Core CPI YTD (May) |  |  | 3.0% |
@@ -15,8 +15,8 @@
 | 07:00 | NOK | CPI (MoM) (May) |  |  | 0.7% |
 | 07:00 | NOK | CPI (YoY) (May) |  |  | 2.5% |
 | 07:00 | NOK | PPI (YoY) (May) |  |  | 2.1% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Apr) |  |  | -1.8% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Apr) |  | 0.1% | 0.1% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Apr) |  |  | -1.8% |
 | 09:30 | EUR | Sentix Investor Confidence (Jun) |  | -6.0 | -8.1 |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.976% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.070% |
