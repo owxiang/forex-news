@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 0.6% | 2.7% | 6.8% |
 | 02:30 | AUD | NAB Business Confidence (May) | 2 |  | -1 |
-| 53 min | GBP | Average Earnings Index +Bonus (Apr) |  | 5.5% | 5.5% |
-| 53 min | GBP | Claimant Count Change (May) |  | 9.5K | 5.2K |
-| 53 min | GBP | Employment Change 3M/3M (MoM) (Apr) |  |  | 112K |
-| 53 min | GBP | Unemployment Rate (Apr) |  | 4.6% | 4.5% |
-| 08:00 | CHF | SECO Consumer Climate (May) |  | -38 | -39 |
+| 07:00 | GBP | Average Earnings Index +Bonus (Apr) | 5.3% | 5.5% | 5.6% |
+| 07:00 | GBP | Claimant Count Change (May) | 33.1K | 9.5K | -21.2K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) | 89K |  | 112K |
+| 07:00 | GBP | Unemployment Rate (Apr) | 4.6% | 4.6% | 4.5% |
+| 50 min | CHF | SECO Consumer Climate (May) |  | -38 | -39 |
 | 13:00 | BRL | CPI (YoY) (May) |  |  | 5.53% |
 | 15:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
