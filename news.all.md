@@ -18,20 +18,20 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) | 3.4% |  | 7.7% |
 | 07:00 | NOK | Low | Core CPI YTD (May) | 2.8% |  | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) | 0.2% |  | 0.5% |
-| 07:00 | NOK | Low | CPI (YoY) (May) | 3.0% |  | 2.5% |
 | 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
+| 07:00 | NOK | Low | CPI (YoY) (May) | 3.0% |  | 2.5% |
 | 07:00 | NOK | Low | PPI (YoY) (May) | -0.1% |  | 2.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (May) | -37 | -38 | -39 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) | 1.0% | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | 0.2 | -5.3 | -8.1 |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.400% |  | 2.070% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) | 98.8 | 95.9 | 95.8 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | -6.3% |  | -1.2% |
-| 13:00 | BRL | Moderate | CPI (YoY) (May) | 5.32% |  | 5.53% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
 | 13:00 | BRL | Low | CPI (MoM) (May) | 0.26% |  | 0.43% |
+| 13:00 | BRL | Moderate | CPI (YoY) (May) | 5.32% |  | 5.53% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.32% |  | 0.41% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.7% |  | 4.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.943% |  | 1.909% |
@@ -40,7 +40,7 @@
 | 15:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.940% |  | 3.930% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 51 min | USD | Moderate | 3-Year Note Auction |  |  | 3.824% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.972% |  | 3.824% |
 | 21:00 | USD | High | U.S. President Trump Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -3.300M |
 | 23:45 | NZD | Low | External Migration & Visitors (Apr) |  |  | -8.40% |
