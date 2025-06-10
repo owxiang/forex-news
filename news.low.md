@@ -12,15 +12,15 @@
 | 07:00 | JPY | Machine Tool Orders (YoY) (May) | 3.4% |  | 7.7% |
 | 07:00 | NOK | Core CPI YTD (May) | 2.8% |  | 3.0% |
 | 07:00 | NOK | Core Inflation (MoM) (May) | 0.2% |  | 0.5% |
-| 07:00 | NOK | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | CPI (YoY) (May) | 3.0% |  | 2.5% |
+| 07:00 | NOK | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | PPI (YoY) (May) | -0.1% |  | 2.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Apr) | 1.0% | 0.0% | 0.0% |
-| 21 min | EUR | Sentix Investor Confidence (Jun) |  | -5.3 | -8.1 |
-| 31 min | EUR | Spanish 3-Month Letras Auction |  |  | 1.976% |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.070% |
-| 11:00 | USD | NFIB Small Business Optimism (May) |  | 95.9 | 95.8 |
+| 09:30 | EUR | Sentix Investor Confidence (Jun) | 0.2 | -5.3 | -8.1 |
+| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
+| 22 min | EUR | German 5-Year Bobl Auction |  |  | 2.070% |
+| 52 min | USD | NFIB Small Business Optimism (May) |  | 95.9 | 95.8 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) |  |  | -0.8% |
 | 13:00 | BRL | CPI (MoM) (May) |  |  | 0.43% |

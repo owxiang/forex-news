@@ -18,16 +18,16 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) | 3.4% |  | 7.7% |
 | 07:00 | NOK | Low | Core CPI YTD (May) | 2.8% |  | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) | 0.2% |  | 0.5% |
-| 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | Low | CPI (YoY) (May) | 3.0% |  | 2.5% |
+| 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | Low | PPI (YoY) (May) | -0.1% |  | 2.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (May) | -37 | -38 | -39 |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) | 1.0% | 0.0% | 0.0% |
-| 21 min | EUR | Low | Sentix Investor Confidence (Jun) |  | -5.3 | -8.1 |
-| 31 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.976% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.070% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 95.9 | 95.8 |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | 0.2 | -5.3 | -8.1 |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
+| 22 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.070% |
+| 52 min | USD | Low | NFIB Small Business Optimism (May) |  | 95.9 | 95.8 |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -0.8% |
 | 13:00 | BRL | Moderate | CPI (YoY) (May) |  |  | 5.53% |
