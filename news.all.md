@@ -22,11 +22,11 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 707.4 |  | 611.8 |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
-| 13:30 | USD | High | Core CPI (MoM) (May) | 0.1% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) | 2.8% | 2.9% | 2.8% |
+| 13:30 | USD | High | Core CPI (MoM) (May) | 0.1% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (May) | 326.85 | 327.32 | 326.43 |
-| 13:30 | USD | High | CPI (YoY) (May) | 2.4% | 2.5% | 2.3% |
 | 13:30 | USD | High | CPI (MoM) (May) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (May) | 2.4% | 2.5% | 2.3% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (May) | 321.47 | 321.73 | 320.80 |
 | 13:30 | USD | Low | CPI Index, s.a (May) | 320.58 |  | 320.32 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) | 0.21% |  | 0.31% |
@@ -50,5 +50,5 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.436B |  | 1.058B |
 | 19:00 | USD | High | 10-Year Note Auction | 4.421% |  | 4.342% |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) | -316.0B | -314.3B | 258.0B |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
+| 39 min | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |
+| 39 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |

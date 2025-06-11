@@ -10,4 +10,4 @@
 | 13:30 | CAD | Building Permits (MoM) (Apr) | -6.6% | 1.9% | -5.3% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.403M |  | 0.576M |
 | 19:00 | USD | Federal Budget Balance (May) | -316.0B | -314.3B | 258.0B |
-| 23:45 | NZD | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
+| 39 min | NZD | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
