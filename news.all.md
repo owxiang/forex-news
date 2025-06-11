@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
+| 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:00 | IDR | Low | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
@@ -20,19 +20,19 @@
 | 12:00 | USD | Low | MBA Purchase Index | 170.9 |  | 155.0 |
 | 12:00 | USD | Low | Mortgage Market Index | 254.6 |  | 226.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 707.4 |  | 611.8 |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 54 min | MXN | Low | Industrial Production (YoY) (Apr) |  |  | 1.9% |
-| 54 min | MXN | Low | Industrial Production (MoM) (Apr) |  |  | -0.9% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
-| 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Core CPI Index (May) |  |  | 326.43 |
-| 13:30 | USD | High | CPI (MoM) (May) |  | 0.2% | 0.2% |
-| 13:30 | USD | High | CPI (YoY) (May) |  | 2.5% | 2.3% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (May) |  |  | 320.80 |
-| 13:30 | USD | Low | CPI Index, s.a (May) |  |  | 320.32 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
-| 13:30 | USD | Low | Real Earnings (MoM) (May) |  |  | -0.1% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 1.9% | -4.1% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
+| 18 min | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.2% |
+| 18 min | USD | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
+| 18 min | USD | Low | Core CPI Index (May) |  |  | 326.43 |
+| 18 min | USD | High | CPI (YoY) (May) |  | 2.5% | 2.3% |
+| 18 min | USD | High | CPI (MoM) (May) |  | 0.2% | 0.2% |
+| 18 min | USD | Low | CPI Index, n.s.a. (May) |  |  | 320.80 |
+| 18 min | USD | Low | CPI Index, s.a (May) |  |  | 320.32 |
+| 18 min | USD | Low | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
+| 18 min | USD | Low | Real Earnings (MoM) (May) |  |  | -0.1% |
+| 18 min | CAD | Moderate | Building Permits (MoM) (Apr) |  | 1.9% | -4.1% |
+| 18 min | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -4.304M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.389M |
@@ -51,5 +51,5 @@
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.342% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.058B |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -314.3B | 258.0B |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |

@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | PPI (MoM) (May) | -0.2% |  | 0.3% |
 | 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
+| 00:50 | JPY | PPI (MoM) (May) | -0.2% |  | 0.3% |
 | 04:00 | IDR | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 07:00 | IDR | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.588% |  | 4.673% |
@@ -16,14 +16,14 @@
 | 12:00 | USD | MBA Purchase Index | 170.9 |  | 155.0 |
 | 12:00 | USD | Mortgage Market Index | 254.6 |  | 226.4 |
 | 12:00 | USD | Mortgage Refinance Index | 707.4 |  | 611.8 |
-| 24 min | INR | M3 Money Supply |  |  | 9.5% |
-| 54 min | MXN | Industrial Production (YoY) (Apr) |  |  | 1.9% |
-| 54 min | MXN | Industrial Production (MoM) (Apr) |  |  | -0.9% |
-| 13:30 | USD | Core CPI Index (May) |  |  | 326.43 |
-| 13:30 | USD | CPI Index, n.s.a. (May) |  |  | 320.80 |
-| 13:30 | USD | CPI Index, s.a (May) |  |  | 320.32 |
-| 13:30 | USD | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
-| 13:30 | USD | Real Earnings (MoM) (May) |  |  | -0.1% |
+| 13:00 | MXN | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
+| 18 min | USD | Core CPI Index (May) |  |  | 326.43 |
+| 18 min | USD | CPI Index, n.s.a. (May) |  |  | 320.80 |
+| 18 min | USD | CPI Index, s.a (May) |  |  | 320.32 |
+| 18 min | USD | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
+| 18 min | USD | Real Earnings (MoM) (May) |  |  | -0.1% |
+| 18 min | INR | M3 Money Supply |  |  | 9.5% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.389M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.182M |
