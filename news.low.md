@@ -7,7 +7,7 @@
 | 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 07:00 | IDR | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.673% |
+| 51 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.673% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.959% |
 | 10:30 | ZAR | Business Confidence (May) |  |  | 123.5 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.92% |

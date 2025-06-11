@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 51 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.660% |
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
