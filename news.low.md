@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 07:00 | IDR | Car Sales (YoY) (May) |  |  | 5.00% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.673% |
