@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 38 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 04:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.660% |
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
