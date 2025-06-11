@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:00 | IDR | Low | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
@@ -15,19 +15,19 @@
 | 10:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:30 | ZAR | Low | Business Confidence (Apr) | 114.9 |  | 123.5 |
 | 10:31 | ZAR | Low | Business Confidence (May) | 115.8 |  | 114.9 |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.92% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.9% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 155.0 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 226.4 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 611.8 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  |  | 1.9% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | -0.9% |
-| 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.2% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.93% |  | 6.92% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 12.5% |  | -3.9% |
+| 12:00 | USD | Low | MBA Purchase Index | 170.9 |  | 155.0 |
+| 12:00 | USD | Low | Mortgage Market Index | 254.6 |  | 226.4 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 707.4 |  | 611.8 |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
+| 54 min | MXN | Low | Industrial Production (YoY) (Apr) |  |  | 1.9% |
+| 54 min | MXN | Low | Industrial Production (MoM) (Apr) |  |  | -0.9% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
+| 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (May) |  |  | 326.43 |
-| 13:30 | USD | High | CPI (YoY) (May) |  | 2.5% | 2.3% |
 | 13:30 | USD | High | CPI (MoM) (May) |  | 0.2% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (May) |  | 2.5% | 2.3% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (May) |  |  | 320.80 |
 | 13:30 | USD | Low | CPI Index, s.a (May) |  |  | 320.32 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
@@ -51,5 +51,5 @@
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.342% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.058B |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -314.3B | 258.0B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
