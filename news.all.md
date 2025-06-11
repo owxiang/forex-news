@@ -7,7 +7,7 @@
 | 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 52 min | IDR | Low | Car Sales (YoY) (May) |  |  | 5.00% |
+| 07:00 | IDR | Low | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.673% |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 1.959% |
@@ -22,11 +22,11 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  |  | 1.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | -0.9% |
-| 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
+| 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (May) |  |  | 326.43 |
-| 13:30 | USD | High | CPI (YoY) (May) |  | 2.5% | 2.3% |
 | 13:30 | USD | High | CPI (MoM) (May) |  | 0.2% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (May) |  | 2.5% | 2.3% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (May) |  |  | 320.80 |
 | 13:30 | USD | Low | CPI Index, s.a (May) |  |  | 320.32 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
