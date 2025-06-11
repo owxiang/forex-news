@@ -7,7 +7,7 @@
 | 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 07:00 | IDR | Low | Car Sales (YoY) (May) |  |  | 5.00% |
+| 52 min | IDR | Low | Car Sales (YoY) (May) |  |  | 5.00% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.673% |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 1.959% |
@@ -32,7 +32,7 @@
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) |  |  | 0.31% |
 | 13:30 | USD | Low | Real Earnings (MoM) (May) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 1.9% | -4.1% |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.100M | -4.304M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -4.304M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.389M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.576M |
