@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 07:00 | IDR | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.588% |  | 4.673% |
@@ -16,8 +16,8 @@
 | 12:00 | USD | MBA Purchase Index | 170.9 |  | 155.0 |
 | 12:00 | USD | Mortgage Market Index | 254.6 |  | 226.4 |
 | 12:00 | USD | Mortgage Refinance Index | 707.4 |  | 611.8 |
-| 13:00 | MXN | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
 | 13:00 | MXN | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
+| 13:00 | MXN | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
 | 13:30 | USD | Core CPI Index (May) | 326.85 | 327.32 | 326.43 |
 | 13:30 | USD | CPI Index, n.s.a. (May) | 321.47 | 321.73 | 320.80 |
 | 13:30 | USD | CPI Index, s.a (May) | 320.58 |  | 320.32 |
@@ -36,5 +36,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 48.82 |  | 48.15 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 54.23 |  | 53.35 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jun) | 52.08 |  | 48.63 |
-| 24 min | BRL | Foreign Exchange Flows |  |  | 1.058B |
+| 18:30 | BRL | Foreign Exchange Flows | 0.436B |  | 1.058B |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |
