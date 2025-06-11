@@ -5,7 +5,8 @@
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.7% |  | 2.7% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
-| 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23 min | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
+| 38 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:00 | IDR | Low | Car Sales (YoY) (May) |  |  | 5.00% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.673% |
 | 10:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
@@ -19,8 +20,8 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 226.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 611.8 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  |  | 1.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | -0.9% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  |  | 1.9% |
 | 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.8% |
 | 13:30 | USD | Low | Core CPI Index (May) |  |  | 326.43 |
@@ -49,5 +50,5 @@
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.342% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.058B |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -314.3B | 258.0B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
