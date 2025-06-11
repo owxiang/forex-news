@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 07:00 | IDR | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.588% |  | 4.673% |
@@ -23,19 +23,18 @@
 | 13:30 | USD | CPI Index, s.a (May) | 320.58 |  | 320.32 |
 | 13:30 | USD | CPI, n.s.a (MoM) (May) | 0.21% |  | 0.31% |
 | 13:30 | USD | Real Earnings (MoM) (May) | 0.3% |  | 0.0% |
-| 44 min | INR | M3 Money Supply |  |  | 9.5% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.389M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.182M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.600M | 4.230M |
-| 15:30 | USD | Gasoline Production |  |  | -0.714M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.282M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.2% |
-| 15:30 | USD | Gasoline Inventories |  | 1.100M | 5.219M |
-| 16:00 | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.95 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.15 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 53.35 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.63 |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
+| 24 min | USD | Crude Oil Imports |  |  | 0.389M |
+| 24 min | USD | Distillate Fuel Production |  |  | 0.182M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  | 0.600M | 4.230M |
+| 24 min | USD | Gasoline Production |  |  | -0.714M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | -0.282M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.2% |
+| 24 min | USD | Gasoline Inventories |  | 1.100M | 5.219M |
+| 54 min | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |
+| 54 min | USD | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.95 |
+| 54 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.15 |
+| 54 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 53.35 |
+| 54 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.63 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.058B |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (May) |  | -0.3% | -0.3% |

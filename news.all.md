@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:00 | IDR | Low | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
@@ -22,8 +22,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 707.4 |  | 611.8 |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (May) | 2.8% | 2.9% | 2.8% |
 | 13:30 | USD | High | Core CPI (MoM) (May) | 0.1% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (May) | 2.8% | 2.9% | 2.8% |
 | 13:30 | USD | Low | Core CPI Index (May) | 326.85 | 327.32 | 326.43 |
 | 13:30 | USD | High | CPI (MoM) (May) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (May) | 2.4% | 2.5% | 2.3% |
@@ -32,22 +32,21 @@
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) | 0.21% |  | 0.31% |
 | 13:30 | USD | Low | Real Earnings (MoM) (May) | 0.3% |  | 0.0% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) | -6.6% | 1.9% | -5.3% |
-| 44 min | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -4.304M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.389M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.576M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.182M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.600M | 4.230M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.714M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.282M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 1.100M | 5.219M |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.95 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.15 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 53.35 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.63 |
+| 24 min | USD | High | Crude Oil Inventories |  | -2.400M | -4.304M |
+| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.670M |
+| 24 min | USD | Low | Crude Oil Imports |  |  | 0.389M |
+| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.576M |
+| 24 min | USD | Low | Distillate Fuel Production |  |  | 0.182M |
+| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.600M | 4.230M |
+| 24 min | USD | Low | Gasoline Production |  |  | -0.714M |
+| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.282M |
+| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.2% |
+| 24 min | USD | Low | Gasoline Inventories |  | 1.100M | 5.219M |
+| 54 min | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
+| 54 min | USD | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.95 |
+| 54 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.15 |
+| 54 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 53.35 |
+| 54 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.63 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.342% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.058B |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -314.3B | 258.0B |
