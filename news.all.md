@@ -25,8 +25,8 @@
 | 13:30 | USD | High | Core CPI (MoM) (May) | 0.1% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) | 2.8% | 2.9% | 2.8% |
 | 13:30 | USD | Low | Core CPI Index (May) | 326.85 | 327.32 | 326.43 |
-| 13:30 | USD | High | CPI (MoM) (May) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | High | CPI (YoY) (May) | 2.4% | 2.5% | 2.3% |
+| 13:30 | USD | High | CPI (MoM) (May) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (May) | 321.47 | 321.73 | 320.80 |
 | 13:30 | USD | Low | CPI Index, s.a (May) | 320.58 |  | 320.32 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) | 0.21% |  | 0.31% |
