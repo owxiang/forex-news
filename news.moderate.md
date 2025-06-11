@@ -8,6 +8,6 @@
 | 10:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (May) | 2.8% | 2.9% | 2.8% |
 | 13:30 | CAD | Building Permits (MoM) (Apr) | -6.6% | 1.9% | -5.3% |
-| 24 min | USD | Cushing Crude Oil Inventories |  |  | 0.576M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.403M |  | 0.576M |
 | 19:00 | USD | Federal Budget Balance (May) |  | -314.3B | 258.0B |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (May) |  |  | 0.0% |
