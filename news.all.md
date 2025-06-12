@@ -23,19 +23,19 @@
 | 09:30 | HKD | Low | Industrial Production (YoY) (Q1) | 0.70% |  | 0.90% |
 | 09:30 | HKD | Low | PPI (YoY) (Q1) | 4.80% |  | 4.10% |
 | 10:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.40% |
-| 3 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.700% |
-| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.28% |
-| 23 min | ZAR | Low | Gold Production (YoY) (Apr) |  |  | -11.1% |
-| 23 min | ZAR | Low | Mining Production (Apr) |  |  | -2.8% |
-| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.3 |
-| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.18 |
-| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 47.08 |
-| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 41.95 |
-| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.16 |
-| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.66 |
-| 11:30 | INR | Moderate | CPI (YoY) (May) |  | 3.00% | 3.16% |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (May) |  |  | 0.6% |
+| 10:30 | EUR | Low | Italian 3-Year BTP Auction | 2.24% |  | 2.40% |
+| 10:30 | EUR | Low | Italian 30-Year BTP Auction | 4.260% |  | 4.700% |
+| 10:30 | EUR | Low | Italian 7-Year BTP Auction | 3.02% |  | 3.28% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Apr) | -2.5% |  | -11.1% |
+| 10:30 | ZAR | Low | Mining Production (Apr) | -7.7% |  | -2.5% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) | 52.1 |  | 49.3 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) | 47.01 |  | 46.18 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) | 47.16 |  | 47.08 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) | 42.00 |  | 41.95 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 49.99 |  | 50.16 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 45.96 |  | 50.66 |
+| 22 min | INR | Moderate | CPI (YoY) (May) |  | 3.00% | 3.16% |
+| 52 min | GBP | Moderate | NIESR Monthly GDP Tracker (May) |  |  | 0.6% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 34.1B |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.8% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  |  | -1.0% |
