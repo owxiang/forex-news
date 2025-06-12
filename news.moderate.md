@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BSI Large Manufacturing Conditions (Q2) | -4.8 | 0.8 | -2.4 |
-| 53 min | GBP | Industrial Production (MoM) (Apr) |  | -0.4% | -0.7% |
-| 53 min | GBP | Manufacturing Production (MoM) (Apr) |  | -0.8% | -0.8% |
-| 53 min | GBP | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.7% |
-| 53 min | GBP | Trade Balance (Apr) |  | -20.80B | -19.87B |
-| 53 min | GBP | Trade Balance Non-EU (Apr) |  |  | -6.83B |
+| 07:00 | GBP | Industrial Production (MoM) (Apr) | -0.6% | -0.4% | -0.7% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Apr) | -0.9% | -0.8% | -0.8% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.7% |
+| 07:00 | GBP | Trade Balance (Apr) | -23.21B | -20.80B | -19.87B |
+| 07:00 | GBP | Trade Balance Non-EU (Apr) | -8.65B |  | -6.83B |
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:30 | INR | CPI (YoY) (May) |  | 3.00% | 3.16% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (May) |  |  | 0.6% |
-| 13:00 | BRL | Retail Sales (MoM) (Apr) |  |  | 0.8% |
 | 13:00 | BRL | Retail Sales (YoY) (Apr) |  |  | -1.0% |
+| 13:00 | BRL | Retail Sales (MoM) (Apr) |  |  | 0.8% |
 | 13:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,904K |
