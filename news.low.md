@@ -6,13 +6,13 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
 | 04:00 | IDR | Consumer Confidence (May) | 117.5 |  | 121.7 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | 3.3% |  | 1.4% |
 | 07:00 | GBP | Construction Output (MoM) (Apr) | 0.9% | 0.3% | 0.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | 3.3% |  | 1.4% |
 | 07:00 | GBP | GDP (YoY) (Apr) | 0.9% |  | 1.1% |
 | 07:00 | GBP | Index of Services | 0.6% | 0.7% | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Apr) | 0.4% | 0.4% | -0.8% |
-| 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.0% | 6.1% |
+| 53 min | EUR | Italian Quarterly Unemployment Rate |  | 6.0% | 6.1% |
 | 09:30 | HKD | Industrial Production (YoY) (Q1) |  |  | 0.90% |
 | 09:30 | HKD | PPI (YoY) (Q1) |  |  | 4.10% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.40% |
@@ -30,8 +30,8 @@
 | 13:30 | USD | Core PPI (YoY) (May) |  | 3.1% | 3.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.00K |
 | 13:30 | USD | PPI (YoY) (May) |  | 2.6% | 2.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | -0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 2.9% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | -0.1% |
 | 15:00 | INR | M3 Money Supply |  |  | 9.5% |
 | 15:30 | USD | Natural Gas Storage |  | 108B | 122B |
 | 16:00 | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |
