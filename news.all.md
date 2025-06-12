@@ -43,8 +43,8 @@
 | 13:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,956K | 1,910K | 1,902K |
-| 13:30 | USD | Low | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (May) | 0.1% | 0.3% | -0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | High | Initial Jobless Claims | 248K | 242K | 248K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
 | 13:30 | USD | High | PPI (MoM) (May) | 0.1% | 0.2% | -0.2% |
