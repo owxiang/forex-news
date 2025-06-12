@@ -8,14 +8,14 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
 | 03:00 | IDR | Low | Motorbike Sales (YoY) (May) |  |  | 3.00% |
-| 23 min | IDR | Low | Consumer Confidence (May) |  |  | 121.7 |
+| 04:00 | IDR | Low | Consumer Confidence (May) |  |  | 121.7 |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
 | 07:00 | GBP | High | GDP (MoM) (Apr) |  | -0.1% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) |  |  | 1.1% |
 | 07:00 | GBP | Low | Index of Services |  |  | 0.7% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.4% | -0.7% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.8% | -0.8% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 0.4% | -0.8% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.7% |
@@ -48,10 +48,10 @@
 | 13:30 | USD | Low | Core PPI (YoY) (May) |  | 3.1% | 3.1% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 242K | 247K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.00K |
-| 13:30 | USD | Low | PPI (YoY) (May) |  | 2.6% | 2.4% |
 | 13:30 | USD | High | PPI (MoM) (May) |  | 0.2% | -0.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 2.9% |
+| 13:30 | USD | Low | PPI (YoY) (May) |  | 2.6% | 2.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | -0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 2.9% |
 | 15:00 | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 15:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 108B | 122B |
