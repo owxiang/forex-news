@@ -59,4 +59,4 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.844% |  | 4.819% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 6,677B |  | 6,673B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.430T |  | 3.362T |
-| 23:30 | NZD | Moderate | Business NZ PMI (May) |  |  | 53.9 |
+| 24 min | NZD | Moderate | Business NZ PMI (May) |  |  | 53.9 |
