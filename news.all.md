@@ -37,8 +37,9 @@
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 45.96 |  | 50.66 |
 | 11:30 | INR | Moderate | CPI (YoY) (May) | 2.82% | 3.00% | 3.16% |
 | 12:30 | INR | Low | M3 Money Supply | 9.5% |  | 9.5% |
+| 13:00 | EUR | Low | German Current Account Balance n.s.a (Apr) | 23.5B |  | 32.9B |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) | -0.4% | -0.8% | 0.8% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -1.0% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -0.8% |
 | 13:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,956K | 1,910K | 1,902K |
@@ -46,14 +47,13 @@
 | 13:30 | USD | Low | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | High | Initial Jobless Claims | 248K | 242K | 248K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
-| 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
 | 13:30 | USD | High | PPI (MoM) (May) | 0.1% | 0.2% | -0.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
+| 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
-| 13:40 | EUR | Low | German Current Account Balance n.s.a (Apr) | 23.5B |  | 34.1B |
-| 15:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 108B | 122B |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
+| 8 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 23 min | USD | Low | Natural Gas Storage |  | 108B | 122B |
+| 53 min | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.170% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.225% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |

@@ -27,14 +27,14 @@
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 49.99 |  | 50.16 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 45.96 |  | 50.66 |
 | 12:30 | INR | M3 Money Supply | 9.5% |  | 9.5% |
+| 13:00 | EUR | German Current Account Balance n.s.a (Apr) | 23.5B |  | 32.9B |
 | 13:30 | USD | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
 | 13:30 | USD | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
-| 13:40 | EUR | German Current Account Balance n.s.a (Apr) | 23.5B |  | 34.1B |
-| 15:30 | USD | Natural Gas Storage |  | 108B | 122B |
-| 16:00 | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
+| 23 min | USD | Natural Gas Storage |  | 108B | 122B |
+| 53 min | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.170% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.225% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.362T |
