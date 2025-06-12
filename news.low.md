@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | -458.6B |  | -118.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
-| 30 min | AUD | MI Inflation Expectations (Jun) |  |  | 4.1% |
-| 03:00 | IDR | Motorbike Sales (YoY) (May) |  |  | 3.00% |
+| 02:00 | AUD | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
+| 25 min | IDR | Motorbike Sales (YoY) (May) |  |  | 3.00% |
 | 04:00 | IDR | Consumer Confidence (May) |  |  | 121.7 |
-| 07:00 | GBP | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
 | 07:00 | GBP | GDP (YoY) (Apr) |  |  | 1.1% |
 | 07:00 | GBP | Index of Services |  |  | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
@@ -31,8 +31,8 @@
 | 13:30 | USD | Core PPI (YoY) (May) |  | 3.1% | 3.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.00K |
 | 13:30 | USD | PPI (YoY) (May) |  | 2.6% | 2.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | -0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 2.9% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | -0.1% |
 | 15:00 | INR | M3 Money Supply |  |  | 9.5% |
 | 15:30 | USD | Natural Gas Storage |  | 108B | 122B |
 | 16:00 | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |
