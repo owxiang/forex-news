@@ -5,8 +5,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | -458.6B |  | -118.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
-| 25 min | IDR | Motorbike Sales (YoY) (May) |  |  | 3.00% |
-| 04:00 | IDR | Consumer Confidence (May) |  |  | 121.7 |
+| 03:00 | IDR | Motorbike Sales (YoY) (May) |  |  | 3.00% |
+| 23 min | IDR | Consumer Confidence (May) |  |  | 121.7 |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
 | 07:00 | GBP | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
 | 07:00 | GBP | GDP (YoY) (Apr) |  |  | 1.1% |

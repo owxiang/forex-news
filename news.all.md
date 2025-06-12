@@ -7,15 +7,15 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -458.6B |  | -118.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
-| 25 min | IDR | Low | Motorbike Sales (YoY) (May) |  |  | 3.00% |
-| 04:00 | IDR | Low | Consumer Confidence (May) |  |  | 121.7 |
+| 03:00 | IDR | Low | Motorbike Sales (YoY) (May) |  |  | 3.00% |
+| 23 min | IDR | Low | Consumer Confidence (May) |  |  | 121.7 |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
 | 07:00 | GBP | High | GDP (MoM) (Apr) |  | -0.1% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) |  |  | 1.1% |
 | 07:00 | GBP | Low | Index of Services |  |  | 0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.4% | -0.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.4% | -0.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.8% | -0.8% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 0.4% | -0.8% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.7% |
