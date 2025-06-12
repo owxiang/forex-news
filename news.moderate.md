@@ -8,7 +8,7 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.7% |
 | 07:00 | GBP | Trade Balance (Apr) | -23.21B | -20.80B | -19.87B |
 | 07:00 | GBP | Trade Balance Non-EU (Apr) | -8.65B |  | -6.83B |
-| 51 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:30 | INR | CPI (YoY) (May) |  | 3.00% | 3.16% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (May) |  |  | 0.6% |
 | 13:00 | BRL | Retail Sales (MoM) (Apr) |  |  | 0.8% |

@@ -13,19 +13,19 @@
 | 07:00 | GBP | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Apr) | 0.4% | 0.4% | -0.8% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 6.1% | 6.0% | 6.1% |
-| 21 min | HKD | Industrial Production (YoY) (Q1) |  |  | 0.90% |
-| 21 min | HKD | PPI (YoY) (Q1) |  |  | 4.10% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.40% |
-| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.700% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.28% |
-| 10:30 | ZAR | Gold Production (YoY) (Apr) |  |  | -11.1% |
-| 10:30 | ZAR | Mining Production (Apr) |  |  | -2.8% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.3 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.18 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 47.08 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 41.95 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.16 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.66 |
+| 09:30 | HKD | Industrial Production (YoY) (Q1) | 0.70% |  | 0.90% |
+| 09:30 | HKD | PPI (YoY) (Q1) | 4.80% |  | 4.10% |
+| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 2.40% |
+| 3 min | EUR | Italian 30-Year BTP Auction |  |  | 4.700% |
+| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 3.28% |
+| 23 min | ZAR | Gold Production (YoY) (Apr) |  |  | -11.1% |
+| 23 min | ZAR | Mining Production (Apr) |  |  | -2.8% |
+| 53 min | GBP | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.3 |
+| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.18 |
+| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 47.08 |
+| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 41.95 |
+| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.16 |
+| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.66 |
 | 13:00 | EUR | German Current Account Balance n.s.a (Apr) |  |  | 34.1B |
 | 13:30 | USD | Core PPI (YoY) (May) |  | 3.1% | 3.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.00K |

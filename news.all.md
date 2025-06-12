@@ -20,20 +20,20 @@
 | 07:00 | GBP | Moderate | Trade Balance (Apr) | -23.21B | -20.80B | -19.87B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) | -8.65B |  | -6.83B |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 6.1% | 6.0% | 6.1% |
-| 21 min | HKD | Low | Industrial Production (YoY) (Q1) |  |  | 0.90% |
-| 21 min | HKD | Low | PPI (YoY) (Q1) |  |  | 4.10% |
-| 51 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.40% |
-| 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.700% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.28% |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Apr) |  |  | -11.1% |
-| 10:30 | ZAR | Low | Mining Production (Apr) |  |  | -2.8% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.3 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.18 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 47.08 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 41.95 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.16 |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.66 |
+| 09:30 | HKD | Low | Industrial Production (YoY) (Q1) | 0.70% |  | 0.90% |
+| 09:30 | HKD | Low | PPI (YoY) (Q1) | 4.80% |  | 4.10% |
+| 10:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.40% |
+| 3 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.700% |
+| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.28% |
+| 23 min | ZAR | Low | Gold Production (YoY) (Apr) |  |  | -11.1% |
+| 23 min | ZAR | Low | Mining Production (Apr) |  |  | -2.8% |
+| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 49.3 |
+| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.18 |
+| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 47.08 |
+| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 41.95 |
+| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.16 |
+| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.66 |
 | 11:30 | INR | Moderate | CPI (YoY) (May) |  | 3.00% | 3.16% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (May) |  |  | 0.6% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 34.1B |
