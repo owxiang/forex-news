@@ -40,17 +40,17 @@
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) | -0.4% | -0.8% | 0.8% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -1.0% |
 | 13:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 9 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,904K |
-| 19 min | USD | Moderate | Core PPI (MoM) (May) |  | 0.3% | -0.4% |
-| 19 min | USD | Low | Core PPI (YoY) (May) |  | 3.1% | 3.1% |
-| 18 min | USD | High | Initial Jobless Claims |  | 242K | 247K |
-| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.00K |
-| 18 min | USD | High | PPI (MoM) (May) |  | 0.2% | -0.5% |
-| 18 min | USD | Low | PPI (YoY) (May) |  | 2.6% | 2.4% |
-| 18 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | -0.1% |
-| 18 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 2.9% |
-| 33 min | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 34.1B |
+| 13:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,956K | 1,910K | 1,902K |
+| 13:30 | USD | Moderate | Core PPI (MoM) (May) | 0.1% | 0.3% | -0.2% |
+| 13:30 | USD | Low | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
+| 13:30 | USD | High | Initial Jobless Claims | 248K | 242K | 248K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
+| 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
+| 13:30 | USD | High | PPI (MoM) (May) | 0.1% | 0.2% | -0.2% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
+| 13:40 | EUR | Low | German Current Account Balance n.s.a (Apr) | 23.5B |  | 34.1B |
 | 15:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 108B | 122B |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
