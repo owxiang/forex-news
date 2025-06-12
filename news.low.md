@@ -6,8 +6,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
 | 04:00 | IDR | Consumer Confidence (May) | 117.5 |  | 121.7 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | 3.3% |  | 1.4% |
 | 07:00 | GBP | Construction Output (MoM) (Apr) | 0.9% | 0.3% | 0.5% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | 3.3% |  | 1.4% |
 | 07:00 | GBP | GDP (YoY) (Apr) | 0.9% |  | 1.1% |
 | 07:00 | GBP | Index of Services | 0.6% | 0.7% | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
@@ -36,4 +36,4 @@
 | 15:30 | USD | Natural Gas Storage | 109B | 108B | 122B |
 | 16:30 | USD | 4-Week Bill Auction | 4.080% |  | 4.170% |
 | 16:30 | USD | 8-Week Bill Auction | 4.380% |  | 4.225% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.362T |
+| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.362T |

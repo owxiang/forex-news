@@ -11,13 +11,13 @@
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | GBP | NIESR Monthly GDP Tracker (May) | 0.4% |  | 0.7% |
 | 11:30 | INR | CPI (YoY) (May) | 2.82% | 3.00% | 3.16% |
-| 13:00 | BRL | Retail Sales (MoM) (Apr) | -0.4% | -0.8% | 0.8% |
 | 13:00 | BRL | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -0.8% |
+| 13:00 | BRL | Retail Sales (MoM) (Apr) | -0.4% | -0.8% | 0.8% |
 | 13:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,956K | 1,910K | 1,902K |
 | 13:30 | USD | Core PPI (MoM) (May) | 0.1% | 0.3% | -0.2% |
 | 15:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,673B |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,673B |
 | 23:30 | NZD | Business NZ PMI (May) |  |  | 53.9 |
