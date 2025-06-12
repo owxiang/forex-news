@@ -2,24 +2,23 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (May) | -8% |  | -3% |
 | 00:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q2) | -4.8 | 0.8 | -2.4 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -458.6B |  | -118.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
 | 04:00 | IDR | Low | Consumer Confidence (May) | 117.5 |  | 121.7 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
-| 07:00 | GBP | High | GDP (MoM) (Apr) |  | -0.1% | 0.2% |
-| 07:00 | GBP | Low | GDP (YoY) (Apr) |  |  | 1.1% |
-| 07:00 | GBP | Low | Index of Services |  |  | 0.7% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.4% | -0.7% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.8% | -0.8% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 0.4% | -0.8% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.7% |
-| 07:00 | GBP | Moderate | Trade Balance (Apr) |  | -20.80B | -19.87B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) |  |  | -6.83B |
+| 53 min | GBP | Low | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
+| 53 min | GBP | Low | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
+| 53 min | GBP | High | GDP (MoM) (Apr) |  | -0.1% | 0.2% |
+| 53 min | GBP | Low | GDP (YoY) (Apr) |  |  | 1.1% |
+| 53 min | GBP | Low | Index of Services |  |  | 0.7% |
+| 53 min | GBP | Low | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
+| 53 min | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.4% | -0.7% |
+| 53 min | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.8% | -0.8% |
+| 53 min | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 0.4% | -0.8% |
+| 53 min | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.7% |
+| 53 min | GBP | Moderate | Trade Balance (Apr) |  | -20.80B | -19.87B |
+| 53 min | GBP | Moderate | Trade Balance Non-EU (Apr) |  |  | -6.83B |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 6.0% | 6.1% |
 | 09:30 | HKD | Low | Industrial Production (YoY) (Q1) |  |  | 0.90% |
 | 09:30 | HKD | Low | PPI (YoY) (Q1) |  |  | 4.10% |
@@ -38,8 +37,8 @@
 | 11:30 | INR | Moderate | CPI (YoY) (May) |  | 3.00% | 3.16% |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker (May) |  |  | 0.6% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 34.1B |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  |  | -1.0% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.8% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  |  | -1.0% |
 | 13:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,904K |

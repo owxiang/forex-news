@@ -6,12 +6,12 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
 | 04:00 | IDR | Consumer Confidence (May) | 117.5 |  | 121.7 |
-| 07:00 | GBP | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
-| 07:00 | GBP | GDP (YoY) (Apr) |  |  | 1.1% |
-| 07:00 | GBP | Index of Services |  |  | 0.7% |
-| 07:00 | GBP | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Apr) |  | 0.4% | -0.8% |
+| 53 min | GBP | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
+| 53 min | GBP | U.K. Construction Output (YoY) (Apr) |  |  | 1.4% |
+| 53 min | GBP | GDP (YoY) (Apr) |  |  | 1.1% |
+| 53 min | GBP | Index of Services |  |  | 0.7% |
+| 53 min | GBP | Industrial Production (YoY) (Apr) |  | -0.2% | -0.7% |
+| 53 min | GBP | Manufacturing Production (YoY) (Apr) |  | 0.4% | -0.8% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 6.0% | 6.1% |
 | 09:30 | HKD | Industrial Production (YoY) (Q1) |  |  | 0.90% |
 | 09:30 | HKD | PPI (YoY) (Q1) |  |  | 4.10% |
