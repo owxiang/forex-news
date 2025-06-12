@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Foreign Bonds Buying |  |  | -118.0B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 336.1B |
-| 02:00 | AUD | MI Inflation Expectations (Jun) |  |  | 4.1% |
+| 00:50 | JPY | Foreign Bonds Buying | -458.6B |  | -118.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
+| 30 min | AUD | MI Inflation Expectations (Jun) |  |  | 4.1% |
 | 03:00 | IDR | Motorbike Sales (YoY) (May) |  |  | 3.00% |
 | 04:00 | IDR | Consumer Confidence (May) |  |  | 121.7 |
 | 07:00 | GBP | Construction Output (MoM) (Apr) |  | 0.3% | 0.5% |
@@ -31,8 +31,8 @@
 | 13:30 | USD | Core PPI (YoY) (May) |  | 3.1% | 3.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.00K |
 | 13:30 | USD | PPI (YoY) (May) |  | 2.6% | 2.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 2.9% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | -0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 2.9% |
 | 15:00 | INR | M3 Money Supply |  |  | 9.5% |
 | 15:30 | USD | Natural Gas Storage |  | 108B | 122B |
 | 16:00 | USD | Cleveland CPI (MoM) (May) |  |  | 0.3% |

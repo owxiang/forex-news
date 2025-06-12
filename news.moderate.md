@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (May) | -8% |  | -3% |
-| 43 min | JPY | BSI Large Manufacturing Conditions (Q2) |  | 0.8 | -2.4 |
+| 00:50 | JPY | BSI Large Manufacturing Conditions (Q2) | -4.8 | 0.8 | -2.4 |
 | 07:00 | GBP | Industrial Production (MoM) (Apr) |  | -0.4% | -0.7% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Apr) |  | -0.8% | -0.8% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.7% |
@@ -12,8 +12,8 @@
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:30 | INR | CPI (YoY) (May) |  | 3.00% | 3.16% |
 | 12:00 | GBP | NIESR Monthly GDP Tracker (May) |  |  | 0.6% |
-| 13:00 | BRL | Retail Sales (YoY) (Apr) |  |  | -1.0% |
 | 13:00 | BRL | Retail Sales (MoM) (Apr) |  |  | 0.8% |
+| 13:00 | BRL | Retail Sales (YoY) (Apr) |  |  | -1.0% |
 | 13:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,904K |
