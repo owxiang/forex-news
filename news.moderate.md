@@ -19,5 +19,5 @@
 | 13:30 | USD | Core PPI (MoM) (May) | 0.1% | 0.3% | -0.2% |
 | 15:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 23 min | USD | Fed's Balance Sheet |  |  | 6,673B |
+| 21:30 | USD | Fed's Balance Sheet | 6,677B |  | 6,673B |
 | 23:30 | NZD | Business NZ PMI (May) |  |  | 53.9 |

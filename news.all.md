@@ -12,10 +12,10 @@
 | 07:00 | GBP | High | GDP (MoM) (Apr) | -0.3% | -0.1% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) | 0.9% |  | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.7% | 0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | -0.6% | -0.4% | -0.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) | 0.4% | 0.4% | -0.8% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | -0.6% | -0.4% | -0.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) | -0.9% | -0.8% | -0.8% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) | 0.4% | 0.4% | -0.8% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.7% |
 | 07:00 | GBP | Moderate | Trade Balance (Apr) | -23.21B | -20.80B | -19.87B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) | -8.65B |  | -6.83B |
@@ -47,16 +47,16 @@
 | 13:30 | USD | Low | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | High | Initial Jobless Claims | 248K | 242K | 248K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
-| 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
 | 13:30 | USD | High | PPI (MoM) (May) | 0.1% | 0.2% | -0.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
+| 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
 | 15:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 109B | 108B | 122B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.080% |  | 4.170% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.380% |  | 4.225% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.844% |  | 4.819% |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,673B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.362T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,677B |  | 6,673B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.430T |  | 3.362T |
 | 23:30 | NZD | Moderate | Business NZ PMI (May) |  |  | 53.9 |
