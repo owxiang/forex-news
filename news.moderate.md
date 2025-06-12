@@ -18,6 +18,6 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,956K | 1,910K | 1,902K |
 | 13:30 | USD | Core PPI (MoM) (May) | 0.1% | 0.3% | -0.2% |
 | 15:15 | EUR | ECB's Elderson Speaks |  |  |  |
-| 53 min | USD | WASDE Report |  |  |  |
+| 17:00 | USD | WASDE Report |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,673B |
 | 23:30 | NZD | Business NZ PMI (May) |  |  | 53.9 |

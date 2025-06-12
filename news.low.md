@@ -31,9 +31,9 @@
 | 13:30 | USD | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
 | 13:30 | USD | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
 | 15:30 | USD | Natural Gas Storage | 109B | 108B | 122B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.170% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.225% |
+| 16:30 | USD | 4-Week Bill Auction | 4.080% |  | 4.170% |
+| 16:30 | USD | 8-Week Bill Auction | 4.380% |  | 4.225% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.362T |
