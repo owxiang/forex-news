@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | JPY | Industrial Production (MoM) (Apr) | -1.1% | -1.2% | 0.2% |
-| 53 min | EUR | German CPI (YoY) (May) |  | 2.1% | 2.1% |
-| 07:45 | EUR | French CPI (MoM) (May) |  | -0.1% | 0.6% |
-| 07:45 | EUR | French HICP (MoM) (May) |  | -0.2% | 0.7% |
-| 08:00 | EUR | Spanish CPI (YoY) (May) |  | 1.9% | 2.2% |
-| 08:00 | EUR | Spanish HICP (YoY) (May) |  | 1.9% | 2.2% |
+| 07:00 | EUR | German CPI (YoY) (May) | 2.1% | 2.1% | 2.1% |
+| 35 min | EUR | French CPI (MoM) (May) |  | -0.1% | 0.6% |
+| 35 min | EUR | French HICP (MoM) (May) |  | -0.2% | 0.7% |
+| 50 min | EUR | Spanish CPI (YoY) (May) |  | 1.9% | 2.2% |
+| 50 min | EUR | Spanish HICP (YoY) (May) |  | 1.9% | 2.2% |
 | 10:00 | EUR | Industrial Production (MoM) (Apr) |  | -1.6% | 2.6% |
 | 10:00 | EUR | Trade Balance (Apr) |  | 18.2B | 36.8B |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | -0.9% | 0.2% |
