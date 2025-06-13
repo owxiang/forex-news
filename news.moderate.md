@@ -8,8 +8,8 @@
 | 07:45 | EUR | French HICP (MoM) (May) | -0.2% | -0.2% | 0.7% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 2.0% | 1.9% | 2.2% |
-| 10:00 | EUR | Industrial Production (MoM) (Apr) |  | -1.6% | 2.6% |
-| 10:00 | EUR | Trade Balance (Apr) |  | 18.2B | 36.8B |
+| 51 min | EUR | Industrial Production (MoM) (Apr) |  | -1.6% | 2.6% |
+| 51 min | EUR | Trade Balance (Apr) |  | 18.2B | 36.8B |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | -0.9% | 0.2% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  |  | 6.6% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  |  | 4.2% |
