@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18 min | JPY | Industrial Production (MoM) (Apr) |  | -0.9% | 0.2% |
-| 07:00 | EUR | German CPI (YoY) (May) |  | 2.1% | 2.1% |
+| 05:30 | JPY | Industrial Production (MoM) (Apr) | -1.1% | -1.2% | 0.2% |
+| 53 min | EUR | German CPI (YoY) (May) |  | 2.1% | 2.1% |
 | 07:45 | EUR | French CPI (MoM) (May) |  | -0.1% | 0.6% |
 | 07:45 | EUR | French HICP (MoM) (May) |  | -0.2% | 0.7% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) |  | 1.9% | 2.2% |
@@ -13,7 +13,7 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | -0.9% | 0.2% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  |  | 6.6% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  |  | 4.2% |
-| 15:00 | USD | Michigan Consumer Expectations (Jun) |  |  | 47.9 |
+| 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 49.0 | 47.9 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) |  | 53.5 | 52.2 |
 | 16:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 442 |
