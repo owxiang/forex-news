@@ -30,8 +30,8 @@
 | 09:40 | INR | Trade Balance (May) |  |  | -26.42B |
 | 10:00 | EUR | Industrial Production (YoY) (Apr) |  | 1.4% | 3.6% |
 | 12:30 | INR | FX Reserves, USD |  |  | 691.49B |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.3% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 1.9% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | CAD | Capacity Utilization Rate (Q1) |  | 79.6% | 79.8% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | -2.1% | -1.4% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Apr) |  |  | 189.3K |

@@ -25,8 +25,8 @@
 | 07:45 | EUR | Low | French HICP (YoY) (May) |  | 0.6% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) |  | 2.1% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.0% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 1.9% | 2.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | -0.1% | 0.6% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) |  | 2.730B | 3.657B |
@@ -39,8 +39,8 @@
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) |  | -1.6% | 2.6% |
 | 10:00 | EUR | Moderate | Trade Balance (Apr) |  | 18.2B | 36.8B |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 691.49B |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.3% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 1.9% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q1) |  | 79.6% | 79.8% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | -2.1% | -1.4% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) |  |  | 189.3K |
