@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 40.22 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 56.18 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.13 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 34.51 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) |  |  | 70.39 |
+| 25 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 40.22 |
+| 25 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 56.18 |
+| 25 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.13 |
+| 25 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 34.51 |
+| 25 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) |  |  | 70.39 |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Apr) |  |  | 5.5% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Apr) |  |  | -2.4% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Apr) |  | -0.9% | 0.2% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) |  |  | 15.80 |
 | 07:00 | EUR | Moderate | German CPI (YoY) (May) |  | 2.1% | 2.1% |
 | 07:00 | EUR | High | German CPI (MoM) (May) |  | 0.1% | 0.4% |
-| 07:00 | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.5% |
 | 07:00 | EUR | Low | German HICP (YoY) (May) |  | 2.1% | 2.2% |
+| 07:00 | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.5% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) |  |  | 0.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (May) |  |  | -0.1% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) |  |  | -0.10% |
@@ -25,8 +25,8 @@
 | 07:45 | EUR | Low | French HICP (YoY) (May) |  | 0.6% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) |  | 2.1% | 2.4% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.0% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 1.9% | 2.2% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.0% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | -0.1% | 0.6% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) |  | 2.730B | 3.657B |
@@ -39,8 +39,8 @@
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) |  | -1.6% | 2.6% |
 | 10:00 | EUR | Moderate | Trade Balance (Apr) |  | 18.2B | 36.8B |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 691.49B |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 1.9% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 1.9% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q1) |  | 79.6% | 79.8% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | -2.1% | -1.4% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) |  |  | 189.3K |
