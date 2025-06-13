@@ -13,8 +13,8 @@
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) | -10.90 |  | 14.90 |
 | 07:00 | EUR | Moderate | German CPI (YoY) (May) | 2.1% | 2.1% | 2.1% |
 | 07:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
-| 07:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 07:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) | 0.4% |  | 0.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (May) | -0.3% |  | -0.1% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
@@ -25,8 +25,8 @@
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.6% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 0.60% |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.2% | 2.1% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.1% | 0.0% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.0% | -0.1% | 0.6% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 2.482B | 2.730B | 4.706B |
@@ -38,16 +38,15 @@
 | 10:00 | EUR | Low | Industrial Production (YoY) (Apr) | 0.8% | 1.4% | 3.7% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) | -2.4% | -1.6% | 2.4% |
 | 10:00 | EUR | Moderate | Trade Balance (Apr) | 9.9B | 18.2B | 37.3B |
-| 12:00 | INR | Low | Exports (USD) (May) |  |  | 38.49B |
-| 12:00 | INR | Low | Imports (USD) (May) |  |  | 64.91B |
-| 24 min | GBP | Low | Inflation Expectations |  |  | 3.4% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 691.49B |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 1.9% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.3% |
-| 13:30 | CAD | Low | Capacity Utilization Rate (Q1) |  | 79.6% | 79.8% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | -2.1% | -1.4% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) |  |  | 189.3K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  | -0.9% | 0.2% |
+| 12:30 | INR | Low | Bank Loan Growth | 9.0% |  | 9.8% |
+| 12:30 | INR | Low | Deposit Growth | 9.9% |  | 10.0% |
+| 12:30 | INR | Low | FX Reserves, USD | 696.66B |  | 691.49B |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 1.8% |  | 1.9% |
+| 18 min | CAD | Low | Capacity Utilization Rate (Q1) |  | 79.6% | 79.8% |
+| 18 min | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | -2.1% | -1.4% |
+| 18 min | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) |  |  | 189.3K |
+| 18 min | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  | -0.9% | 0.2% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  |  | 6.6% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  |  | 4.2% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 49.0 | 47.9 |

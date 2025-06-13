@@ -11,7 +11,7 @@
 | 09:30 | CNY | New Loans (May) | 620.0B | 890.0B | 280.0B |
 | 10:00 | EUR | Industrial Production (MoM) (Apr) | -2.4% | -1.6% | 2.4% |
 | 10:00 | EUR | Trade Balance (Apr) | 9.9B | 18.2B | 37.3B |
-| 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | -0.9% | 0.2% |
+| 18 min | CAD | Wholesale Sales (MoM) (Apr) |  | -0.9% | 0.2% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  |  | 6.6% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  |  | 4.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 49.0 | 47.9 |
