@@ -27,14 +27,14 @@
 | 09:30 | CNY | M2 Money Stock (YoY) (May) | 7.9% | 8.1% | 8.0% |
 | 09:30 | CNY | Outstanding Loan Growth (YoY) (May) | 7.1% | 7.2% | 7.2% |
 | 09:30 | CNY | Chinese Total Social Financing (May) | 2,290.0B | 2,300.0B | 1,160.0B |
-| 10:00 | INR | Exports (USD) (May) |  |  | 38.49B |
-| 10:00 | INR | Imports (USD) (May) |  |  | 64.91B |
-| 10:00 | INR | Trade Balance (May) |  |  | -26.42B |
 | 10:00 | EUR | Industrial Production (YoY) (Apr) | 0.8% | 1.4% | 3.7% |
+| 53 min | INR | Exports (USD) (May) |  |  | 38.49B |
+| 53 min | INR | Imports (USD) (May) |  |  | 64.91B |
+| 53 min | INR | Trade Balance (May) |  |  | -26.42B |
 | 12:30 | GBP | Inflation Expectations |  |  | 3.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 691.49B |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 1.9% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.3% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) |  |  | 1.9% |
 | 13:30 | CAD | Capacity Utilization Rate (Q1) |  | 79.6% | 79.8% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | -2.1% | -1.4% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Apr) |  |  | 189.3K |
