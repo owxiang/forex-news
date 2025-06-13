@@ -12,8 +12,8 @@
 | 05:30 | JPY | Tertiary Industry Activity Index (Apr) | -10.90 |  | 14.90 |
 | 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
 | 07:00 | EUR | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
-| 07:00 | EUR | German WPI (YoY) (May) | 0.4% |  | 0.8% |
 | 07:00 | EUR | German WPI (MoM) (May) | -0.3% |  | -0.1% |
+| 07:00 | EUR | German WPI (YoY) (May) | 0.4% |  | 0.8% |
 | 07:45 | EUR | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (May) | 0.70% |  | 0.70% |
 | 07:45 | EUR | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
@@ -31,12 +31,12 @@
 | 12:30 | INR | Bank Loan Growth | 9.0% |  | 9.8% |
 | 12:30 | INR | Deposit Growth | 9.9% |  | 10.0% |
 | 12:30 | INR | FX Reserves, USD | 696.66B |  | 691.49B |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.3% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 1.8% |  | 1.9% |
-| 18 min | CAD | Capacity Utilization Rate (Q1) |  | 79.6% | 79.8% |
-| 18 min | CAD | Manufacturing Sales (MoM) (Apr) |  | -2.1% | -1.4% |
-| 18 min | CAD | New Motor Vehicle Sales (MoM) (Apr) |  |  | 189.3K |
-| 15:00 | USD | Michigan Current Conditions (Jun) |  | 59.4 | 58.9 |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 1.8% |  | 2.0% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.4% |
+| 13:30 | CAD | Capacity Utilization Rate (Q1) | 80.1% | 79.6% | 79.7% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Apr) | -2.8% | -2.1% | -1.4% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) (Apr) | 195.7K |  | 189.0K |
+| 45 min | USD | Michigan Current Conditions (Jun) |  | 59.4 | 58.9 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.8K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 24.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -81.1K |
