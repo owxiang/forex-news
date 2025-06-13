@@ -13,24 +13,24 @@
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) | -10.90 |  | 14.90 |
 | 07:00 | EUR | Moderate | German CPI (YoY) (May) | 2.1% | 2.1% | 2.1% |
 | 07:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.4% |
-| 07:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 07:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) | 0.4% |  | 0.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (May) | -0.3% |  | -0.1% |
-| 35 min | EUR | Low | French CPI NSA (YoY) (May) |  |  | 0.70% |
-| 35 min | EUR | Low | French CPI NSA (MoM) (May) |  |  | -0.10% |
-| 35 min | EUR | Moderate | French CPI (MoM) (May) |  | -0.1% | 0.6% |
-| 35 min | EUR | Low | French CPI (YoY) (May) |  | 0.7% | 0.8% |
-| 35 min | EUR | Low | French HICP (YoY) (May) |  | 0.6% | 0.9% |
-| 35 min | EUR | Moderate | French HICP (MoM) (May) |  | -0.2% | 0.7% |
-| 35 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 0.80% |
-| 50 min | EUR | Low | Core CPI (YoY) (May) |  | 2.1% | 2.4% |
-| 50 min | EUR | Moderate | Spanish CPI (YoY) (May) |  | 1.9% | 2.2% |
-| 50 min | EUR | Low | Spanish CPI (MoM) (May) |  | 0.0% | 0.6% |
-| 50 min | EUR | Low | Spanish HICP (MoM) (May) |  | -0.1% | 0.6% |
-| 50 min | EUR | Moderate | Spanish HICP (YoY) (May) |  | 1.9% | 2.2% |
-| 09:00 | EUR | Low | Italian Trade Balance (Apr) |  | 2.730B | 3.657B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -2.45B |
+| 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) | -0.1% | -0.1% | 0.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) | -0.2% | -0.2% | 0.7% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.6% | 0.9% |
+| 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.2% | 2.1% | 2.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.1% | 0.0% | 0.6% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.0% | -0.1% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 2.0% | 1.9% | 2.2% |
+| 53 min | EUR | Low | Italian Trade Balance (Apr) |  | 2.730B | 3.657B |
+| 53 min | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -2.45B |
+| 53 min | EUR | Low | French CPI NSA (MoM) (May) |  |  | -0.10% |
+| 53 min | EUR | Low | French CPI NSA (YoY) (May) |  |  | 0.70% |
+| 53 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 0.80% |
 | 09:30 | GBP | Low | Inflation Expectations |  |  | 3.4% |
 | 09:40 | INR | Low | Exports (USD) (May) |  |  | 38.49B |
 | 09:40 | INR | Low | Imports (USD) (May) |  |  | 64.91B |
