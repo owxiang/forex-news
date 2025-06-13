@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Industrial Production (MoM) (Apr) |  | -0.9% | 0.2% |
+| 18 min | JPY | Industrial Production (MoM) (Apr) |  | -0.9% | 0.2% |
 | 07:00 | EUR | German CPI (YoY) (May) |  | 2.1% | 2.1% |
 | 07:45 | EUR | French CPI (MoM) (May) |  | -0.1% | 0.6% |
 | 07:45 | EUR | French HICP (MoM) (May) |  | -0.2% | 0.7% |
