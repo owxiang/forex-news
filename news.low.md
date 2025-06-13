@@ -10,12 +10,12 @@
 | 04:00 | IDR | Retail Sales (YoY) (Apr) | -0.3% |  | 5.5% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Apr) | 1.3% |  | -2.4% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Apr) | -10.90 |  | 14.90 |
-| 07:00 | EUR | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
 | 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 07:00 | EUR | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
 | 07:00 | EUR | German WPI (YoY) (May) | 0.4% |  | 0.8% |
 | 07:00 | EUR | German WPI (MoM) (May) | -0.3% |  | -0.1% |
-| 07:45 | EUR | French CPI NSA (YoY) (May) | 0.70% |  | 0.70% |
 | 07:45 | EUR | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
+| 07:45 | EUR | French CPI NSA (YoY) (May) | 0.70% |  | 0.70% |
 | 07:45 | EUR | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (May) | 0.6% | 0.6% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) | 0.60% |  | 0.80% |

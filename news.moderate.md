@@ -16,7 +16,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) | 4.1% | 4.1% | 4.2% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) | 58.4 | 49.0 | 47.9 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) | 60.5 | 53.5 | 52.2 |
-| 53 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 16:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 442 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 559 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 35.2K |
