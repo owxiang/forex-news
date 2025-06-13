@@ -19,16 +19,16 @@
 | 07:00 | EUR | Low | German WPI (MoM) (May) | -0.3% |  | -0.1% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 0.70% |  | 0.70% |
-| 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | -0.1% | -0.1% | 0.6% |
+| 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) | -0.2% | -0.2% | 0.7% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.6% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 0.60% |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.2% | 2.1% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.1% | 0.0% | 0.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 2.0% | 1.9% | 2.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.0% | -0.1% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 2.482B | 2.730B | 4.706B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | 0.16B |  | -1.40B |
 | 09:30 | CNY | Low | M2 Money Stock (YoY) (May) | 7.9% | 8.1% | 8.0% |
@@ -41,8 +41,8 @@
 | 12:30 | INR | Low | Bank Loan Growth | 9.0% |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth | 9.9% |  | 10.0% |
 | 12:30 | INR | Low | FX Reserves, USD | 696.66B |  | 691.49B |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.4% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 1.8% |  | 2.0% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.4% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q1) | 80.1% | 79.6% | 79.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) | -2.8% | -2.1% | -1.4% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) | 195.7K |  | 189.0K |
@@ -53,8 +53,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) | 60.5 | 53.5 | 52.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jun) | 63.7 | 59.4 | 58.9 |
 | 16:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 442 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 559 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 442 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 559 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 35.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.8K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 24.1K |

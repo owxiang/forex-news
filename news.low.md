@@ -31,8 +31,8 @@
 | 12:30 | INR | Bank Loan Growth | 9.0% |  | 9.8% |
 | 12:30 | INR | Deposit Growth | 9.9% |  | 10.0% |
 | 12:30 | INR | FX Reserves, USD | 696.66B |  | 691.49B |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.4% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 1.8% |  | 2.0% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.4% |
 | 13:30 | CAD | Capacity Utilization Rate (Q1) | 80.1% | 79.6% | 79.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Apr) | -2.8% | -2.1% | -1.4% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (Apr) | 195.7K |  | 189.0K |
