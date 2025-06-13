@@ -17,8 +17,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Jun) | 58.4 | 49.0 | 47.9 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) | 60.5 | 53.5 | 52.2 |
 | 16:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 442 |
-| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 559 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 439 |  | 442 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 555 |  | 559 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 35.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 168.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 187.9K |
