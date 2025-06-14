@@ -26,8 +26,8 @@
 | 10:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) | 0.30% |  | 0.49% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.42% |  | 3.93% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.06% |  | 3.93% |
 | 13:00 | MXN | Low | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:00 | MXN | Low | PPI (MoM) (May) | 0.00% |  | 0.20% |
@@ -66,8 +66,8 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) | 3.4% |  | 7.7% |
 | 07:00 | NOK | Low | Core CPI YTD (May) | 2.8% |  | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) | 0.2% |  | 0.5% |
-| 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | Low | CPI (YoY) (May) | 3.0% |  | 2.5% |
+| 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
 | 07:00 | NOK | Low | PPI (YoY) (May) | -0.1% |  | 2.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (May) | -37 | -38 | -39 |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
@@ -95,8 +95,8 @@
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Apr) | 1,810 |  | 1,950 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) | 2.3% |  | -1.9% |
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:00 | IDR | Low | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
@@ -112,8 +112,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 170.9 |  | 155.0 |
 | 12:00 | USD | Low | Mortgage Market Index | 254.6 |  | 226.4 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 707.4 |  | 611.8 |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
 | 13:30 | USD | High | Core CPI (MoM) (May) | 0.1% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) | 2.8% | 2.9% | 2.8% |
 | 13:30 | USD | Low | Core CPI Index (May) | 326.85 | 327.32 | 326.43 |
@@ -154,8 +154,8 @@
 | 07:00 | GBP | High | GDP (MoM) (Apr) | -0.3% | -0.1% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) | 0.9% |  | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.7% | 0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | -0.6% | -0.4% | -0.7% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | -0.6% | -0.4% | -0.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) | -0.9% | -0.8% | -0.8% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) | 0.4% | 0.4% | -0.8% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.7% |
@@ -189,10 +189,10 @@
 | 13:30 | USD | Low | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | High | Initial Jobless Claims | 248K | 242K | 248K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
-| 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
 | 13:30 | USD | High | PPI (MoM) (May) | 0.1% | 0.2% | -0.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
+| 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
 | 15:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 109B | 108B | 122B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.080% |  | 4.170% |
@@ -219,16 +219,16 @@
 | 07:00 | EUR | Low | German WPI (MoM) (May) | -0.3% |  | -0.1% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 0.70% |  | 0.70% |
-| 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | -0.1% | -0.1% | 0.6% |
+| 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) | -0.2% | -0.2% | 0.7% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.6% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 0.60% |  | 0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 2.2% | 2.1% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.1% | 0.0% | 0.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 2.0% | 1.9% | 2.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.0% | -0.1% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 2.0% | 1.9% | 2.2% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 2.482B | 2.730B | 4.706B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | 0.16B |  | -1.40B |
 | 09:30 | CNY | Low | M2 Money Stock (YoY) (May) | 7.9% | 8.1% | 8.0% |
@@ -241,8 +241,8 @@
 | 12:30 | INR | Low | Bank Loan Growth | 9.0% |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth | 9.9% |  | 10.0% |
 | 12:30 | INR | Low | FX Reserves, USD | 696.66B |  | 691.49B |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.4% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 1.8% |  | 2.0% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.2% |  | 0.4% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q1) | 80.1% | 79.6% | 79.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) | -2.8% | -2.1% | -1.4% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (Apr) | 195.7K |  | 189.0K |
