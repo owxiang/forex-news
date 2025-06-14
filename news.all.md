@@ -29,8 +29,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.42% |  | 3.93% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.06% |  | 3.93% |
-| 13:00 | MXN | Low | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:00 | MXN | Low | PPI (MoM) (May) | 0.00% |  | 0.20% |
+| 13:00 | MXN | Low | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.92M |  | 0.91M |
 | 13:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
 | 13:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
@@ -66,20 +66,20 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (May) | 3.4% |  | 7.7% |
 | 07:00 | NOK | Low | Core CPI YTD (May) | 2.8% |  | 3.0% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) | 0.2% |  | 0.5% |
-| 07:00 | NOK | Low | CPI (YoY) (May) | 3.0% |  | 2.5% |
 | 07:00 | NOK | Low | CPI (MoM) (May) | 0.4% |  | 0.7% |
+| 07:00 | NOK | Low | CPI (YoY) (May) | 3.0% |  | 2.5% |
 | 07:00 | NOK | Low | PPI (YoY) (May) | -0.1% |  | 2.1% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (May) | -37 | -38 | -39 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) | 1.0% | 0.0% | 0.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | 0.3% |  | -1.8% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | 0.2 | -5.3 | -8.1 |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
 | 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.400% |  | 2.070% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) | 98.8 | 95.9 | 95.8 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | -6.3% |  | -1.2% |
-| 13:00 | BRL | Moderate | CPI (YoY) (May) | 5.32% |  | 5.53% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
 | 13:00 | BRL | Low | CPI (MoM) (May) | 0.26% |  | 0.43% |
+| 13:00 | BRL | Moderate | CPI (YoY) (May) | 5.32% |  | 5.53% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.32% |  | 0.41% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.7% |  | 4.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.943% |  | 1.909% |
@@ -95,8 +95,8 @@
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Apr) | 1,810 |  | 1,950 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) | 2.3% |  | -1.9% |
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
+| 00:50 | JPY | Low | PPI (MoM) (May) | -0.2% |  | 0.3% |
 | 04:00 | IDR | Low | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 04:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 07:00 | IDR | Low | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
@@ -114,11 +114,11 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 707.4 |  | 611.8 |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
-| 13:30 | USD | High | Core CPI (MoM) (May) | 0.1% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) | 2.8% | 2.9% | 2.8% |
+| 13:30 | USD | High | Core CPI (MoM) (May) | 0.1% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (May) | 326.85 | 327.32 | 326.43 |
-| 13:30 | USD | High | CPI (YoY) (May) | 2.4% | 2.5% | 2.3% |
 | 13:30 | USD | High | CPI (MoM) (May) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | High | CPI (YoY) (May) | 2.4% | 2.5% | 2.3% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (May) | 321.47 | 321.73 | 320.80 |
 | 13:30 | USD | Low | CPI Index, s.a (May) | 320.58 |  | 320.32 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) | 0.21% |  | 0.31% |
@@ -142,20 +142,20 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | 0.436B |  | 1.058B |
 | 19:00 | USD | High | 10-Year Note Auction | 4.421% |  | 4.342% |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) | -316.0B | -314.3B | 258.0B |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) | -0.2% |  | 0.0% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) | 0.9% | -0.3% | -0.3% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) | -0.2% |  | 0.0% |
 | 00:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q2) | -4.8 | 0.8 | -2.4 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -458.6B |  | -118.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
 | 04:00 | IDR | Low | Consumer Confidence (May) | 117.5 |  | 121.7 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Apr) | 0.9% | 0.3% | 0.5% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) | 3.3% |  | 1.4% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Apr) | 0.9% | 0.3% | 0.5% |
 | 07:00 | GBP | High | GDP (MoM) (Apr) | -0.3% | -0.1% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) | 0.9% |  | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.6% | 0.7% | 0.7% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | -0.6% | -0.4% | -0.7% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) | -0.9% | -0.8% | -0.8% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) | 0.4% | 0.4% | -0.8% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.7% |
@@ -180,19 +180,19 @@
 | 11:30 | INR | Moderate | CPI (YoY) (May) | 2.82% | 3.00% | 3.16% |
 | 12:30 | INR | Low | M3 Money Supply | 9.5% |  | 9.5% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (Apr) | 23.5B |  | 32.9B |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -0.8% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) | -0.4% | -0.8% | 0.8% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -0.8% |
 | 13:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,956K | 1,910K | 1,902K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (May) | 0.1% | 0.3% | -0.2% |
 | 13:30 | USD | Low | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (May) | 0.1% | 0.3% | -0.2% |
 | 13:30 | USD | High | Initial Jobless Claims | 248K | 242K | 248K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
 | 13:30 | USD | High | PPI (MoM) (May) | 0.1% | 0.2% | -0.2% |
 | 13:30 | USD | Low | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
 | 15:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 109B | 108B | 122B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.080% |  | 4.170% |
@@ -217,8 +217,8 @@
 | 07:00 | EUR | Low | German HICP (YoY) (May) | 2.1% | 2.1% | 2.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) | 0.4% |  | 0.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (May) | -0.3% |  | -0.1% |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 0.70% |  | 0.70% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | -0.1% | -0.1% | 0.6% |
 | 07:45 | EUR | Low | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 0.6% | 0.6% | 0.9% |
@@ -235,8 +235,8 @@
 | 09:30 | CNY | Moderate | New Loans (May) | 620.0B | 890.0B | 280.0B |
 | 09:30 | CNY | Low | Outstanding Loan Growth (YoY) (May) | 7.1% | 7.2% | 7.2% |
 | 09:30 | CNY | Low | Chinese Total Social Financing (May) | 2,290.0B | 2,300.0B | 1,160.0B |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) | -2.4% | -1.6% | 2.4% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Apr) | 0.8% | 1.4% | 3.7% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) | -2.4% | -1.6% | 2.4% |
 | 10:00 | EUR | Moderate | Trade Balance (Apr) | 9.9B | 18.2B | 37.3B |
 | 12:30 | INR | Low | Bank Loan Growth | 9.0% |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth | 9.9% |  | 10.0% |
