@@ -66,8 +66,8 @@
 | 23:45 | NZD | Permanent/Long-Term Migration (Apr) | 1,810 |  | 1,950 |
 | 23:45 | NZD | Visitor Arrivals (MoM) | 2.3% |  | -1.9% |
 | 00:00 | KRW | Unemployment Rate (May) | 2.7% |  | 2.7% |
-| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 00:50 | JPY | PPI (MoM) (May) | -0.2% |  | 0.3% |
+| 00:50 | JPY | PPI (YoY) (May) | 3.2% | 3.5% | 4.1% |
 | 04:00 | IDR | Motorbike Sales (YoY) (May) | -0.10% |  | -3.00% |
 | 07:00 | IDR | Car Sales (YoY) (May) | -16.10% |  | 5.00% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.588% |  | 4.673% |
@@ -79,8 +79,8 @@
 | 12:00 | USD | MBA Purchase Index | 170.9 |  | 155.0 |
 | 12:00 | USD | Mortgage Market Index | 254.6 |  | 226.4 |
 | 12:00 | USD | Mortgage Refinance Index | 707.4 |  | 611.8 |
-| 13:00 | MXN | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
 | 13:00 | MXN | Industrial Production (YoY) (Apr) | -4.0% |  | 1.9% |
+| 13:00 | MXN | Industrial Production (MoM) (Apr) | 0.1% |  | -1.2% |
 | 13:30 | USD | Core CPI Index (May) | 326.85 | 327.32 | 326.43 |
 | 13:30 | USD | CPI Index, n.s.a. (May) | 321.47 | 321.73 | 320.80 |
 | 13:30 | USD | CPI Index, s.a (May) | 320.58 |  | 320.32 |
@@ -130,8 +130,8 @@
 | 13:30 | USD | Core PPI (YoY) (May) | 3.0% | 3.1% | 3.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 240.25K |  | 235.25K |
 | 13:30 | USD | PPI (YoY) (May) | 2.6% | 2.6% | 2.5% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) | 0.1% |  | -0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) | 2.7% |  | 2.9% |
 | 15:30 | USD | Natural Gas Storage | 109B | 108B | 122B |
 | 16:30 | USD | 4-Week Bill Auction | 4.080% |  | 4.170% |
 | 16:30 | USD | 8-Week Bill Auction | 4.380% |  | 4.225% |
