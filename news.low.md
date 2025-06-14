@@ -15,8 +15,8 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Core CPI (MoM) (May) | 0.30% |  | 0.49% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) | 4.06% |  | 3.93% |
-| 13:00 | MXN | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:00 | MXN | PPI (MoM) (May) | 0.00% |  | 0.20% |
+| 13:00 | MXN | PPI (YoY) (May) | 6.40% |  | 6.90% |
 | 13:45 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.92M |  | 0.91M |
 | 13:45 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
 | 13:45 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
@@ -53,8 +53,8 @@
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 1.873% |  | 1.976% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.400% |  | 2.070% |
 | 11:00 | USD | NFIB Small Business Optimism (May) | 98.8 | 95.9 | 95.8 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) | -6.3% |  | -1.2% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | 1.9% |  | -2.5% |
 | 13:00 | BRL | CPI (MoM) (May) | 0.26% |  | 0.43% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.32% |  | 0.41% |
 | 13:55 | USD | Redbook (YoY) | 4.7% |  | 4.9% |
@@ -105,8 +105,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 180.2B |  | 336.1B |
 | 02:00 | AUD | MI Inflation Expectations (Jun) | 5.0% |  | 4.1% |
 | 04:00 | IDR | Consumer Confidence (May) | 117.5 |  | 121.7 |
-| 07:00 | GBP | Construction Output (MoM) (Apr) | 0.9% | 0.3% | 0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | 3.3% |  | 1.4% |
+| 07:00 | GBP | Construction Output (MoM) (Apr) | 0.9% | 0.3% | 0.5% |
 | 07:00 | GBP | GDP (YoY) (Apr) | 0.9% |  | 1.1% |
 | 07:00 | GBP | Index of Services | 0.6% | 0.7% | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) | -0.3% | -0.2% | -0.7% |
@@ -148,8 +148,8 @@
 | 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
 | 07:00 | EUR | German WPI (YoY) (May) | 0.4% |  | 0.8% |
 | 07:00 | EUR | German WPI (MoM) (May) | -0.3% |  | -0.1% |
-| 07:45 | EUR | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
 | 07:45 | EUR | French CPI NSA (YoY) (May) | 0.70% |  | 0.70% |
+| 07:45 | EUR | French CPI NSA (MoM) (May) | -0.10% |  | -0.10% |
 | 07:45 | EUR | French CPI (YoY) (May) | 0.7% | 0.7% | 0.8% |
 | 07:45 | EUR | French HICP (YoY) (May) | 0.6% | 0.6% | 0.9% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) | 0.60% |  | 0.80% |

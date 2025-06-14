@@ -13,8 +13,8 @@
 | 04:00 | CNY | Imports (YoY) (May) | -3.4% | -0.9% | -0.2% |
 | 04:00 | CNY | Trade Balance (USD) (May) | 103.22B | 101.10B | 96.18B |
 | 10:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | MXN | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 13:00 | MXN | CPI (YoY) (May) | 4.42% |  | 3.93% |
+| 13:00 | MXN | CPI (MoM) (May) | 0.28% |  | 0.33% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (May) | 3.2% |  | 3.6% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.8% | 3.8% | 3.8% |
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 0.6% | 2.7% | 6.8% |
@@ -47,8 +47,8 @@
 | 10:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | GBP | NIESR Monthly GDP Tracker (May) | 0.4% |  | 0.7% |
 | 11:30 | INR | CPI (YoY) (May) | 2.82% | 3.00% | 3.16% |
-| 13:00 | BRL | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -0.8% |
 | 13:00 | BRL | Retail Sales (MoM) (Apr) | -0.4% | -0.8% | 0.8% |
+| 13:00 | BRL | Retail Sales (YoY) (Apr) | 4.8% | 3.4% | -0.8% |
 | 13:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:20 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,956K | 1,910K | 1,902K |
