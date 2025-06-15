@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:30 | NZD | Performance of Services Index (May) |  |  | 48.5 |
+| 24 min | NZD | Performance of Services Index (May) |  |  | 48.5 |
