@@ -6,9 +6,9 @@
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Jun) | 0.8% |  | 1.2% |
 | 00:55 | KRW | Exports (YoY) (May) | -1.3% |  | 3.7% |
 | 00:55 | KRW | Imports (YoY) (May) | -5.3% |  | -2.7% |
-| 58 min | CNY | House Prices (YoY) (May) |  |  | -4.0% |
-| 03:00 | CNY | Retail Sales (YoY) (May) |  | 5.0% | 5.1% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) |  |  | 3.73% |
+| 02:30 | CNY | House Prices (YoY) (May) | -3.5% |  | -4.0% |
+| 24 min | CNY | Retail Sales (YoY) (May) |  | 5.0% | 5.1% |
+| 24 min | CNY | Chinese Retail Sales YTD (YoY) (May) |  |  | 3.73% |
 | 04:00 | KRW | M3 Money Supply (Apr) |  |  | 5,754.0B |
 | 04:00 | KRW | M2 Money supply (Apr) |  |  | 4.90% |
 | 07:00 | NOK | Trade Balance (May) |  |  | 55.9B |

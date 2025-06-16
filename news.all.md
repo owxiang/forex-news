@@ -6,19 +6,19 @@
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Jun) | 0.8% |  | 1.2% |
 | 00:55 | KRW | Low | Exports (YoY) (May) | -1.3% |  | 3.7% |
 | 00:55 | KRW | Low | Imports (YoY) (May) | -5.3% |  | -2.7% |
-| 58 min | CNY | Low | House Prices (YoY) (May) |  |  | -4.0% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (May) |  | 4.0% | 4.0% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (May) |  | 5.9% | 6.1% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) |  |  | 6.4% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (May) |  | 5.0% | 5.1% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) |  |  | 3.73% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) |  | 5.1% | 5.1% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:30 | CNY | Low | House Prices (YoY) (May) | -3.5% |  | -4.0% |
+| 24 min | CNY | Moderate | Fixed Asset Investment (YoY) (May) |  | 4.0% | 4.0% |
+| 24 min | CNY | Moderate | Industrial Production (YoY) (May) |  | 5.9% | 6.1% |
+| 24 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) |  |  | 6.4% |
+| 24 min | CNY | Low | Retail Sales (YoY) (May) |  | 5.0% | 5.1% |
+| 24 min | CNY | Low | Chinese Retail Sales YTD (YoY) (May) |  |  | 3.73% |
+| 24 min | CNY | Moderate | Chinese Unemployment Rate (May) |  | 5.1% | 5.1% |
+| 24 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | KRW | Low | M3 Money Supply (Apr) |  |  | 5,754.0B |
 | 04:00 | KRW | Low | M2 Money supply (Apr) |  |  | 4.90% |
 | 07:00 | NOK | Low | Trade Balance (May) |  |  | 55.9B |
-| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.1% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -0.5% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.1% | 0.1% |
 | 07:30 | INR | Low | WPI Food (YoY) (May) |  |  | -0.86% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (May) |  |  | -2.18% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) |  | 0.80% | 0.85% |
