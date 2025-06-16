@@ -17,11 +17,11 @@
 | 07:30 | INR | WPI Food (YoY) (May) | -1.56% |  | -0.86% |
 | 07:30 | INR | WPI Fuel (YoY) (May) | -2.27% |  | -2.18% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) | 2.04% |  | 2.62% |
-| 09:00 | EUR | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
+| 09:00 | EUR | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) | 1.4% |  | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
+| 09:00 | EUR | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 09:50 | INR | Exports (USD) (May) | 38.73B |  | 38.49B |
 | 09:50 | INR | Imports (USD) (May) | 60.61B |  | 64.91B |
@@ -40,4 +40,4 @@
 | 16:30 | USD | 6-Month Bill Auction | 4.155% |  | 4.150% |
 | 22:00 | KRW | Export Price Index (YoY) (May) | -2.4% |  | 0.4% |
 | 22:00 | KRW | Import Price Index (YoY) (May) | -5.0% |  | -2.6% |
-| 23:45 | NZD | FPI (MoM) (May) |  |  | 0.8% |
+| 38 min | NZD | FPI (MoM) (May) |  |  | 0.8% |

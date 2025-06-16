@@ -18,18 +18,18 @@
 | 04:00 | KRW | Low | M3 Money Supply (Apr) | 5,786.3B |  | 5,754.0B |
 | 04:00 | KRW | Low | M2 Money supply (Apr) | 5.80% |  | 4.90% |
 | 07:00 | NOK | Low | Trade Balance (May) | 46.1B |  | 55.9B |
-| 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.5% | 0.1% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (May) | -0.7% |  | -0.5% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.5% | 0.1% | 0.1% |
 | 07:30 | INR | Low | WPI Food (YoY) (May) | -1.56% |  | -0.86% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (May) | -2.27% |  | -2.18% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 0.39% | 0.80% | 0.85% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 2.04% |  | 2.62% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) | 1.4% |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:50 | INR | Low | Exports (USD) (May) | 38.73B |  | 38.49B |
 | 09:50 | INR | Low | Imports (USD) (May) | 60.61B |  | 64.91B |
@@ -54,4 +54,4 @@
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.942% |  | 5.104% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) | -2.4% |  | 0.4% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (May) | -5.0% |  | -2.6% |
-| 23:45 | NZD | Low | FPI (MoM) (May) |  |  | 0.8% |
+| 38 min | NZD | Low | FPI (MoM) (May) |  |  | 0.8% |
