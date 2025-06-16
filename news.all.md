@@ -25,11 +25,11 @@
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 0.39% | 0.80% | 0.85% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 2.04% |  | 2.62% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) | 1.4% |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
 | 09:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:50 | INR | Low | Exports (USD) (May) | 38.73B |  | 38.49B |
 | 09:50 | INR | Low | Imports (USD) (May) | 60.61B |  | 64.91B |
@@ -48,9 +48,9 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.940% |  | 1.943% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.948% |  | 1.943% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.953% |  | 1.963% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
-| 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
+| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.104% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) |  |  | 0.7% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (May) |  |  | -2.3% |
