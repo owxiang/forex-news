@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | CNY | Fixed Asset Investment (YoY) (May) |  | 4.0% | 4.0% |
-| 24 min | CNY | Industrial Production (YoY) (May) |  | 5.9% | 6.1% |
-| 24 min | CNY | Chinese Industrial Production YTD (YoY) (May) |  |  | 6.4% |
-| 24 min | CNY | Chinese Unemployment Rate (May) |  | 5.1% | 5.1% |
-| 24 min | CNY | NBS Press Conference |  |  |  |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (May) | 3.7% | 4.0% | 4.0% |
+| 03:00 | CNY | Industrial Production (YoY) (May) | 5.8% | 5.9% | 6.1% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (May) | 6.3% |  | 6.4% |
+| 03:00 | CNY | Chinese Unemployment Rate (May) | 5.0% | 5.1% | 5.1% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:30 | CHF | PPI (MoM) (May) |  | 0.1% | 0.1% |
 | 07:30 | INR | WPI Inflation (YoY) (May) |  | 0.80% | 0.85% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
