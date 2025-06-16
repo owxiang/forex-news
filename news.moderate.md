@@ -15,4 +15,4 @@
 | 13:15 | CAD | Housing Starts (May) | 279.5K | 248.0K | 280.2K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jun) | -16.00 | -5.90 | -9.20 |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 52 min | USD | 20-Year Bond Auction |  |  | 5.104% |
+| 18:00 | USD | 20-Year Bond Auction | 4.942% |  | 5.104% |
