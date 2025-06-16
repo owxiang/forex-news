@@ -29,10 +29,10 @@
 | 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 3.40% | 3.20% | 3.80% |
 | 10:50 | EUR | German 12-Month Bubill Auction | 1.808% |  | 1.873% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 53 min | BRL | IGP-10 Inflation Index (MoM) (Jun) |  |  | -0.0% |
-| 53 min | EUR | Reserve Assets Total (May) |  |  | 1,496.92B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Apr) |  | 0.10% | 0.80% |
+| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jun) | -1.0% |  | -0.0% |
+| 12:00 | EUR | Reserve Assets Total (May) | 1,507.68B |  | 1,496.93B |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 54 min | BRL | IBC-Br Economic Activity (Apr) |  | 0.10% | 0.80% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.943% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.943% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.963% |

@@ -11,7 +11,7 @@
 | 07:30 | INR | WPI Inflation (YoY) (May) | 0.39% | 0.80% | 0.85% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q1) | 3.40% |  | 4.10% |
-| 53 min | USD | OPEC Monthly Report |  |  |  |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:15 | CAD | Housing Starts (May) |  | 248.0K | 278.6K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jun) |  | -5.90 | -9.20 |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |

@@ -38,11 +38,11 @@
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 3.40% | 3.20% | 3.80% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.808% |  | 1.873% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Jun) |  |  | -0.0% |
-| 53 min | EUR | Low | Reserve Assets Total (May) |  |  | 1,496.92B |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.10% | 0.80% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jun) | -1.0% |  | -0.0% |
+| 12:00 | EUR | Low | Reserve Assets Total (May) | 1,507.68B |  | 1,496.93B |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.10% | 0.80% |
 | 13:15 | CAD | Moderate | Housing Starts (May) |  | 248.0K | 278.6K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jun) |  | -5.90 | -9.20 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.943% |
