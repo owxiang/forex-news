@@ -25,22 +25,22 @@
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 0.39% | 0.80% | 0.85% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 2.04% |  | 2.62% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) | 1.4% |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
 | 09:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:50 | INR | Low | Exports (USD) (May) | 38.73B |  | 38.49B |
 | 09:50 | INR | Low | Imports (USD) (May) | 60.61B |  | 64.91B |
 | 09:50 | INR | Low | Trade Balance (May) | -21.88B |  | -26.42B |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q1) | 3.40% |  | 4.10% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 3.40% | 3.20% | 3.80% |
-| 21 min | EUR | Low | German 12-Month Bubill Auction |  |  | 1.873% |
-| 51 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jun) |  |  | -0.0% |
-| 12:00 | EUR | Low | Reserve Assets Total (May) |  |  | 1,496.92B |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 1.808% |  | 1.873% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 53 min | BRL | Low | IGP-10 Inflation Index (MoM) (Jun) |  |  | -0.0% |
+| 53 min | EUR | Low | Reserve Assets Total (May) |  |  | 1,496.92B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.10% | 0.80% |
 | 13:15 | CAD | Moderate | Housing Starts (May) |  | 248.0K | 278.6K |
