@@ -4,10 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -0.3% |  | 0.6% |
 | 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Jun) | 0.8% |  | 1.2% |
-| 49 min | KRW | Low | Exports (YoY) (May) |  |  | 3.7% |
-| 49 min | KRW | Low | Imports (YoY) (May) |  |  | -2.7% |
-| 49 min | KRW | Low | Trade Balance (May) | 6.94B |  | 4.88B |
-| 02:30 | CNY | Low | House Prices (YoY) (May) |  |  | -4.0% |
+| 00:55 | KRW | Low | Exports (YoY) (May) | -1.3% |  | 3.7% |
+| 00:55 | KRW | Low | Imports (YoY) (May) | -5.3% |  | -2.7% |
+| 58 min | CNY | Low | House Prices (YoY) (May) |  |  | -4.0% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (May) |  | 4.0% | 4.0% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (May) |  | 5.9% | 6.1% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) |  |  | 6.4% |
@@ -18,8 +17,8 @@
 | 04:00 | KRW | Low | M3 Money Supply (Apr) |  |  | 5,754.0B |
 | 04:00 | KRW | Low | M2 Money supply (Apr) |  |  | 4.90% |
 | 07:00 | NOK | Low | Trade Balance (May) |  |  | 55.9B |
-| 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -0.5% |
 | 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.1% | 0.1% |
+| 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -0.5% |
 | 07:30 | INR | Low | WPI Food (YoY) (May) |  |  | -0.86% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (May) |  |  | -2.18% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) |  | 0.80% | 0.85% |
@@ -56,5 +55,4 @@
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) |  |  | 0.7% |
 | 22:00 | KRW | Low | Imports (YoY) (May) |  | -5.3% | -2.7% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (May) |  |  | -2.3% |
-| 22:00 | KRW | Low | Trade Balance (May) |  | 6.94B | 4.88B |
 | 23:45 | NZD | Low | FPI (MoM) (May) |  |  | 0.8% |

@@ -4,10 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -0.3% |  | 0.6% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Jun) | 0.8% |  | 1.2% |
-| 49 min | KRW | Exports (YoY) (May) |  |  | 3.7% |
-| 49 min | KRW | Imports (YoY) (May) |  |  | -2.7% |
-| 49 min | KRW | Trade Balance (May) | 6.94B |  | 4.88B |
-| 02:30 | CNY | House Prices (YoY) (May) |  |  | -4.0% |
+| 00:55 | KRW | Exports (YoY) (May) | -1.3% |  | 3.7% |
+| 00:55 | KRW | Imports (YoY) (May) | -5.3% |  | -2.7% |
+| 58 min | CNY | House Prices (YoY) (May) |  |  | -4.0% |
 | 03:00 | CNY | Retail Sales (YoY) (May) |  | 5.0% | 5.1% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) |  |  | 3.73% |
 | 04:00 | KRW | M3 Money Supply (Apr) |  |  | 5,754.0B |
@@ -42,5 +41,4 @@
 | 22:00 | KRW | Export Price Index (YoY) (May) |  |  | 0.7% |
 | 22:00 | KRW | Imports (YoY) (May) |  | -5.3% | -2.7% |
 | 22:00 | KRW | Import Price Index (YoY) (May) |  |  | -2.3% |
-| 22:00 | KRW | Trade Balance (May) |  | 6.94B | 4.88B |
 | 23:45 | NZD | FPI (MoM) (May) |  |  | 0.8% |
