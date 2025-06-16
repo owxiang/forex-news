@@ -12,7 +12,7 @@
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q1) | 3.40% |  | 4.10% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 3 min | CAD | Housing Starts (May) |  | 248.0K | 278.6K |
-| 18 min | USD | NY Empire State Manufacturing Index (Jun) |  | -5.90 | -9.20 |
+| 13:15 | CAD | Housing Starts (May) | 279.5K | 248.0K | 280.2K |
+| 13:30 | USD | NY Empire State Manufacturing Index (Jun) | -16.00 | -5.90 | -9.20 |
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 5.104% |

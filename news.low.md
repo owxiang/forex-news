@@ -33,9 +33,9 @@
 | 12:00 | EUR | Reserve Assets Total (May) | 1,507.68B |  | 1,496.93B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (Apr) | 0.20% | 0.10% | 0.80% |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 1.943% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.943% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 1.963% |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.940% |  | 1.943% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.948% |  | 1.943% |
+| 14:00 | EUR | French 6-Month BTF Auction | 1.953% |  | 1.963% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.150% |
 | 22:00 | KRW | Export Price Index (YoY) (May) |  |  | 0.7% |

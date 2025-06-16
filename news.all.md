@@ -43,11 +43,11 @@
 | 12:00 | EUR | Low | Reserve Assets Total (May) | 1,507.68B |  | 1,496.93B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) | 0.20% | 0.10% | 0.80% |
-| 3 min | CAD | Moderate | Housing Starts (May) |  | 248.0K | 278.6K |
-| 18 min | USD | Moderate | NY Empire State Manufacturing Index (Jun) |  | -5.90 | -9.20 |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.943% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.943% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.963% |
+| 13:15 | CAD | Moderate | Housing Starts (May) | 279.5K | 248.0K | 280.2K |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jun) | -16.00 | -5.90 | -9.20 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.940% |  | 1.943% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.948% |  | 1.943% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.953% |  | 1.963% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
