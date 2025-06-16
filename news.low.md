@@ -17,11 +17,11 @@
 | 07:30 | INR | WPI Food (YoY) (May) | -1.56% |  | -0.86% |
 | 07:30 | INR | WPI Fuel (YoY) (May) | -2.27% |  | -2.18% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) | 2.04% |  | 2.62% |
-| 09:00 | EUR | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
+| 09:00 | EUR | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) | 1.4% |  | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | EUR | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
+| 09:00 | EUR | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 09:50 | INR | Exports (USD) (May) | 38.73B |  | 38.49B |
 | 09:50 | INR | Imports (USD) (May) | 60.61B |  | 64.91B |
