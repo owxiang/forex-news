@@ -41,13 +41,13 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jun) | -1.0% |  | -0.0% |
 | 12:00 | EUR | Low | Reserve Assets Total (May) | 1,507.68B |  | 1,496.93B |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.10% | 0.80% |
-| 13:15 | CAD | Moderate | Housing Starts (May) |  | 248.0K | 278.6K |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jun) |  | -5.90 | -9.20 |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.943% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.943% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.963% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) | 0.20% | 0.10% | 0.80% |
+| 3 min | CAD | Moderate | Housing Starts (May) |  | 248.0K | 278.6K |
+| 18 min | USD | Moderate | NY Empire State Manufacturing Index (Jun) |  | -5.90 | -9.20 |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.943% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.943% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.963% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
