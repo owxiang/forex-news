@@ -18,21 +18,21 @@
 | 04:00 | KRW | Low | M3 Money Supply (Apr) | 5,786.3B |  | 5,754.0B |
 | 04:00 | KRW | Low | M2 Money supply (Apr) | 5.80% |  | 4.90% |
 | 07:00 | NOK | Low | Trade Balance (May) | 46.1B |  | 55.9B |
-| 19 min | CHF | Low | PPI (YoY) (May) |  |  | -0.5% |
-| 19 min | CHF | Moderate | PPI (MoM) (May) |  | 0.1% | 0.1% |
-| 19 min | INR | Low | WPI Food (YoY) (May) |  |  | -0.86% |
-| 19 min | INR | Low | WPI Fuel (YoY) (May) |  |  | -2.18% |
-| 19 min | INR | Moderate | WPI Inflation (YoY) (May) |  | 0.80% | 0.85% |
-| 19 min | INR | Low | WPI Manufacturing Inflation (YoY) (May) |  |  | 2.62% |
-| 49 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.0% | 0.1% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) |  |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.1% | 0.4% |
+| 07:30 | CHF | Low | PPI (YoY) (May) | -0.7% |  | -0.5% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.5% | 0.1% | 0.1% |
+| 07:30 | INR | Low | WPI Food (YoY) (May) | -1.56% |  | -0.86% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (May) | -2.27% |  | -2.18% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 0.39% | 0.80% | 0.85% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 2.04% |  | 2.62% |
+| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian CPI (YoY) (May) | 1.6% | 1.7% | 1.9% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) | 1.4% |  | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q1) |  |  | 4.10% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) |  | 3.20% | 3.70% |
+| 50 min | EUR | Moderate | Wages in euro zone (YoY) (Q1) |  |  | 4.10% |
+| 50 min | EUR | Low | Labor Cost Index (YoY) (Q1) |  | 3.20% | 3.70% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 1.873% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
