@@ -7,9 +7,9 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (May) | 6.3% |  | 6.4% |
 | 03:00 | CNY | Chinese Unemployment Rate (May) | 5.0% | 5.1% | 5.1% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:30 | CHF | PPI (MoM) (May) |  | 0.1% | 0.1% |
-| 07:30 | INR | WPI Inflation (YoY) (May) |  | 0.80% | 0.85% |
-| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 19 min | CHF | PPI (MoM) (May) |  | 0.1% | 0.1% |
+| 19 min | INR | WPI Inflation (YoY) (May) |  | 0.80% | 0.85% |
+| 49 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q1) |  |  | 4.10% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:15 | CAD | Housing Starts (May) |  | 248.0K | 278.6K |

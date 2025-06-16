@@ -12,16 +12,16 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) | 4.06% |  | 3.73% |
 | 04:00 | KRW | M3 Money Supply (Apr) | 5,786.3B |  | 5,754.0B |
 | 04:00 | KRW | M2 Money supply (Apr) | 5.80% |  | 4.90% |
-| 51 min | NOK | Trade Balance (May) |  |  | 55.9B |
-| 07:30 | CHF | PPI (YoY) (May) |  |  | -0.5% |
-| 07:30 | INR | WPI Food (YoY) (May) |  |  | -0.86% |
-| 07:30 | INR | WPI Fuel (YoY) (May) |  |  | -2.18% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) |  |  | 2.62% |
-| 09:00 | EUR | Italian CPI (MoM) (May) |  | 0.0% | 0.1% |
+| 07:00 | NOK | Trade Balance (May) | 46.1B |  | 55.9B |
+| 19 min | CHF | PPI (YoY) (May) |  |  | -0.5% |
+| 19 min | INR | WPI Food (YoY) (May) |  |  | -0.86% |
+| 19 min | INR | WPI Fuel (YoY) (May) |  |  | -2.18% |
+| 19 min | INR | WPI Manufacturing Inflation (YoY) (May) |  |  | 2.62% |
 | 09:00 | EUR | Italian CPI (YoY) (May) |  | 1.7% | 1.9% |
+| 09:00 | EUR | Italian CPI (MoM) (May) |  | 0.0% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) |  |  | 1.7% |
-| 09:00 | EUR | Italian HICP (MoM) (May) |  | 0.1% | 0.4% |
 | 09:00 | EUR | Italian HICP (YoY) (May) |  | 1.9% | 2.0% |
+| 09:00 | EUR | Italian HICP (MoM) (May) |  | 0.1% | 0.4% |
 | 09:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q1) |  | 3.20% | 3.70% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.873% |
