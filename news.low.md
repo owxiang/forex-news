@@ -23,12 +23,12 @@
 | 09:00 | EUR | Italian HICP (YoY) (May) | 1.7% | 1.9% | 2.0% |
 | 09:00 | EUR | Italian HICP (MoM) (May) | -0.1% | 0.1% | 0.4% |
 | 09:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 50 min | EUR | Labor Cost Index (YoY) (Q1) |  | 3.20% | 3.70% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.873% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | INR | Exports (USD) (May) |  |  | 38.49B |
-| 12:00 | INR | Imports (USD) (May) |  |  | 64.91B |
-| 12:00 | INR | Trade Balance (May) |  |  | -26.42B |
+| 09:50 | INR | Exports (USD) (May) | 38.73B |  | 38.49B |
+| 09:50 | INR | Imports (USD) (May) | 60.61B |  | 64.91B |
+| 09:50 | INR | Trade Balance (May) | -21.88B |  | -26.42B |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 3.40% | 3.20% | 3.80% |
+| 21 min | EUR | German 12-Month Bubill Auction |  |  | 1.873% |
+| 51 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jun) |  |  | -0.0% |
 | 12:00 | EUR | Reserve Assets Total (May) |  |  | 1,496.92B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
