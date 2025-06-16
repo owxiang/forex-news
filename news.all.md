@@ -14,11 +14,11 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) | 4.06% |  | 3.73% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) | 5.0% | 5.1% | 5.1% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 20 min | KRW | Low | M3 Money Supply (Apr) |  |  | 5,754.0B |
-| 20 min | KRW | Low | M2 Money supply (Apr) |  |  | 4.90% |
+| 04:00 | KRW | Low | M3 Money Supply (Apr) |  |  | 5,754.0B |
+| 04:00 | KRW | Low | M2 Money supply (Apr) | 5.80% |  | 4.90% |
 | 07:00 | NOK | Low | Trade Balance (May) |  |  | 55.9B |
-| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.1% | 0.1% |
 | 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -0.5% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.1% | 0.1% |
 | 07:30 | INR | Low | WPI Food (YoY) (May) |  |  | -0.86% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (May) |  |  | -2.18% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) |  | 0.80% | 0.85% |
@@ -27,8 +27,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.0% | 0.0% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) |  |  | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (May) |  | 1.9% | 1.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.1% | 0.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (May) |  | 1.9% | 1.9% |
 | 09:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q1) |  |  | 4.10% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) |  | 3.20% | 3.70% |
