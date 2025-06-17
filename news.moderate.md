@@ -5,9 +5,9 @@
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 50 min | EUR | German ZEW Current Conditions (Jun) |  | -74.0 | -82.0 |
-| 50 min | EUR | German ZEW Economic Sentiment (Jun) |  | 34.8 | 25.2 |
-| 50 min | EUR | ZEW Economic Sentiment (Jun) |  | 23.5 | 11.6 |
+| 10:00 | EUR | German ZEW Current Conditions (Jun) | -72.0 | -74.0 | -82.0 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Jun) | 47.5 | 34.8 | 25.2 |
+| 10:00 | EUR | ZEW Economic Sentiment (Jun) | 35.3 | 23.5 | 11.6 |
 | 13:30 | USD | Export Price Index (MoM) (May) |  | -0.1% | 0.1% |
 | 13:30 | USD | Import Price Index (MoM) (May) |  | -0.2% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (May) |  | 0.3% | -0.2% |
