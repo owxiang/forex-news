@@ -12,13 +12,13 @@
 | 13:30 | USD | Import Price Index (MoM) (May) | 0.0% | -0.2% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (May) | 0.4% | 0.3% | -0.1% |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) | -9.36B | -2.94B | -4.21B |
-| 14:15 | USD | Industrial Production (YoY) (May) | 0.60% |  | 1.43% |
 | 14:15 | USD | Industrial Production (MoM) (May) | -0.2% | 0.0% | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (May) | 0.60% |  | 1.43% |
 | 15:00 | USD | Business Inventories (MoM) (Apr) | 0.0% | 0.0% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | 0.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.5% | 3.8% | 3.8% |
 | 18:00 | USD | 5-Year TIPS Auction | 1.650% |  | 1.702% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
-| 22:00 | NZD | Westpac Consumer Sentiment |  |  | 89.2 |
+| 22 min | USD | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
+| 52 min | NZD | Westpac Consumer Sentiment |  |  | 89.2 |
 | 23:45 | NZD | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
 | 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -26.40B |

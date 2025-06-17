@@ -28,16 +28,16 @@
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) | 4.100B |  | 15.630B |
 | 13:55 | USD | Low | Redbook (YoY) | 5.2% |  | 4.7% |
 | 14:15 | USD | Low | Capacity Utilization Rate (May) | 77.4% | 77.7% | 77.7% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (May) | 0.60% |  | 1.43% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (May) | -0.2% | 0.0% | 0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (May) | 0.60% |  | 1.43% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (May) | 0.1% | 0.1% | -0.5% |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) | 0.0% | 0.0% | 0.1% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jun) | 32 | 36 | 34 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | 0.3% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.5% | 3.8% | 3.8% |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.650% |  | 1.702% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
-| 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 89.2 |
+| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
+| 52 min | NZD | Moderate | Westpac Consumer Sentiment |  |  | 89.2 |
 | 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -26.40B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.20% |
