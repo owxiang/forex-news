@@ -18,7 +18,7 @@
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) |  | 0.3% | 0.3% |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 1.702% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -0.370M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
 | 22:00 | NZD | Westpac Consumer Sentiment |  |  | 89.2 |
-| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
 | 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -26.40B |
+| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |

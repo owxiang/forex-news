@@ -10,16 +10,16 @@
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 09:30 | HKD | Low | Unemployment Rate (May) | 3.5% |  | 3.4% |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.977% |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.060% |  | 3.977% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jun) | -72.0 | -74.0 | -82.0 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jun) | 47.5 | 34.8 | 25.2 |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jun) | 35.3 | 23.5 | 11.6 |
-| 52 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) |  | 0.2% | 0.1% |
-| 13:30 | USD | Low | Export Price Index (YoY) (May) |  |  | 2.0% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (May) |  | -0.1% | 0.1% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | -0.2% | 0.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (May) |  |  | 2.0% |
 | 13:30 | USD | Low | Import Price Index (YoY) (May) |  |  | 0.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | -0.2% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) |  | 0.3% | -0.2% |
 | 13:30 | USD | High | Retail Sales (MoM) (May) |  | -0.5% | 0.1% |
 | 13:30 | USD | Low | Retail Sales (YoY) (May) |  |  | 5.16% |
@@ -38,8 +38,8 @@
 | 16:00 | USD | Low | Milk Auctions |  |  | 4,332.0 |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 1.702% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.370M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 89.2 |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -26.40B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.20% |
