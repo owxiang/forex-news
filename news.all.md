@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (May) | -3.50% | 8.00% | 12.40% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) |  |  | 10.40% |
-| 29 min | SGD | Low | Trade Balance (May) |  |  | 14.200B |
-| 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -12.00% |  | 10.40% |
+| 02:00 | SGD | Low | Trade Balance (May) | 7.240B |  | 14.220B |
+| 55 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
