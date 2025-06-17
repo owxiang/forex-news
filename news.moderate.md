@@ -1,24 +1,30 @@
-## 17 June 2025 - Moderate Impact Forex News
+## 18 June 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 07:30 | JPY | BoJ Press Conference |  |  |  |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Jun) | -72.0 | -74.0 | -82.0 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Jun) | 47.5 | 34.8 | 25.2 |
-| 10:00 | EUR | ZEW Economic Sentiment (Jun) | 35.3 | 23.5 | 11.6 |
-| 13:30 | USD | Export Price Index (MoM) (May) | -0.9% | -0.1% | 0.1% |
-| 13:30 | USD | Import Price Index (MoM) (May) | 0.0% | -0.2% | 0.1% |
-| 13:30 | USD | Retail Control (MoM) (May) | 0.4% | 0.3% | -0.1% |
-| 13:30 | CAD | Foreign Securities Purchases (Apr) | -9.36B | -2.94B | -4.21B |
-| 14:15 | USD | Industrial Production (YoY) (May) | 0.60% |  | 1.43% |
-| 14:15 | USD | Industrial Production (MoM) (May) | -0.2% | 0.0% | 0.1% |
-| 15:00 | USD | Business Inventories (MoM) (Apr) | 0.0% | 0.0% | 0.1% |
-| 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | 0.3% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.5% | 3.8% | 3.8% |
-| 18:00 | USD | 5-Year TIPS Auction | 1.650% |  | 1.702% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -10.133M | -0.600M | -0.370M |
-| 22:00 | NZD | Westpac Consumer Sentiment (Q2) | 91.2 |  | 89.2 |
-| 39 min | NZD | Current Account (YoY) (Q1) |  |  | -26.40B |
-| 39 min | NZD | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
+| 43 min | JPY | Adjusted Trade Balance |  | -0.37T | -0.41T |
+| 43 min | JPY | Exports (YoY) (May) |  | -3.8% | 2.0% |
+| 43 min | JPY | Trade Balance (May) |  | -893.0B | -115.8B |
+| 07:00 | GBP | CPI (MoM) (May) |  | 0.2% | 1.2% |
+| 08:30 | IDR | Interest Rate Decision |  | 5.50% | 5.50% |
+| 08:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (May) |  | 2.3% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (May) |  | 0.0% | 0.6% |
+| 13:30 | USD | Building Permits (May) |  | 1.420M | 1.422M |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,940K | 1,956K |
+| 13:30 | USD | Housing Starts (May) |  | 1.350M | 1.361M |
+| 13:30 | USD | Housing Starts (MoM) (May) |  |  | 1.6% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.403M |
+| 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 16:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 18:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.4% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - Current (Q2) |  |  | 3.9% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q2) |  |  | 3.0% |
+| 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  |  | 161.8B |
+| 22:30 | BRL | Interest Rate Decision |  | 14.75% | 14.75% |
+| 23:45 | NZD | GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
