@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (MoM) (May) | -12.00% |  | 10.40% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (May) | -3.50% | 8.00% | 12.40% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (May) | -12.00% |  | 10.40% |
 | 02:00 | SGD | Trade Balance (May) | 7.240B |  | 14.220B |
 | 09:30 | HKD | Unemployment Rate (May) | 3.5% |  | 3.4% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction | 4.060% |  | 3.977% |

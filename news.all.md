@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -12.00% |  | 10.40% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (May) | -3.50% | 8.00% | 12.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -12.00% |  | 10.40% |
 | 02:00 | SGD | Low | Trade Balance (May) | 7.240B |  | 14.220B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
@@ -21,8 +21,8 @@
 | 13:30 | USD | Low | Import Price Index (YoY) (May) |  |  | 0.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | -0.2% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) |  | 0.3% | -0.2% |
-| 13:30 | USD | High | Retail Sales (MoM) (May) |  | -0.5% | 0.1% |
 | 13:30 | USD | Low | Retail Sales (YoY) (May) |  |  | 5.16% |
+| 13:30 | USD | High | Retail Sales (MoM) (May) |  | -0.5% | 0.1% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | 0.2% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Apr) |  | -2.94B | -4.23B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) |  |  | 15.630B |
