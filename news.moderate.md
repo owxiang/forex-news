@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 55 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Jun) |  | -74.0 | -82.0 |
