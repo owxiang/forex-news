@@ -16,7 +16,7 @@
 | 13:55 | USD | Redbook (YoY) | 5.2% |  | 4.7% |
 | 14:15 | USD | Capacity Utilization Rate (May) | 77.4% | 77.7% | 77.7% |
 | 14:15 | USD | Manufacturing Production (MoM) (May) | 0.1% | 0.1% | -0.5% |
-| 44 min | USD | NAHB Housing Market Index (Jun) |  | 36 | 34 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.6% |
-| 16:00 | USD | Milk Auctions |  |  | 4,332.0 |
+| 15:00 | USD | NAHB Housing Market Index (Jun) | 32 | 36 | 34 |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | -1.6% |
+| 53 min | USD | Milk Auctions |  |  | 4,332.0 |
 | 23:45 | NZD | Current Account % of GDP (Q1) |  |  | -6.20% |

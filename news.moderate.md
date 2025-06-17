@@ -12,10 +12,10 @@
 | 13:30 | USD | Import Price Index (MoM) (May) | 0.0% | -0.2% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (May) | 0.4% | 0.3% | -0.1% |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) | -9.36B | -2.94B | -4.21B |
-| 14:15 | USD | Industrial Production (YoY) (May) | 0.60% |  | 1.49% |
+| 14:15 | USD | Industrial Production (YoY) (May) | 0.60% |  | 1.43% |
 | 14:15 | USD | Industrial Production (MoM) (May) | -0.2% | 0.0% | 0.1% |
-| 44 min | USD | Business Inventories (MoM) (Apr) |  | 0.0% | 0.1% |
-| 44 min | USD | Retail Inventories Ex Auto (Apr) |  | 0.3% | 0.3% |
+| 15:00 | USD | Business Inventories (MoM) (Apr) | 0.0% | 0.0% | 0.1% |
+| 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | 0.3% |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 1.702% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |

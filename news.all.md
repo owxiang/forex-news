@@ -18,8 +18,8 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) | -0.3% | 0.2% | 0.0% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (May) | -0.9% | -0.1% | 0.1% |
 | 13:30 | USD | Low | Export Price Index (YoY) (May) | 1.7% |  | 1.9% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | 0.0% | -0.2% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (May) | 0.2% |  | 0.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | 0.0% | -0.2% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) | 0.4% | 0.3% | -0.1% |
 | 13:30 | USD | High | Retail Sales (MoM) (May) | -0.9% | -0.5% | -0.1% |
 | 13:30 | USD | Low | Retail Sales (YoY) (May) | 3.29% |  | 5.00% |
@@ -28,14 +28,14 @@
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) | 4.100B |  | 15.630B |
 | 13:55 | USD | Low | Redbook (YoY) | 5.2% |  | 4.7% |
 | 14:15 | USD | Low | Capacity Utilization Rate (May) | 77.4% | 77.7% | 77.7% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (May) | 0.60% |  | 1.49% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (May) | 0.60% |  | 1.43% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (May) | -0.2% | 0.0% | 0.1% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (May) | 0.1% | 0.1% | -0.5% |
-| 44 min | USD | Moderate | Business Inventories (MoM) (Apr) |  | 0.0% | 0.1% |
-| 44 min | USD | Low | NAHB Housing Market Index (Jun) |  | 36 | 34 |
-| 44 min | USD | Moderate | Retail Inventories Ex Auto (Apr) |  | 0.3% | 0.3% |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.6% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,332.0 |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) | 0.0% | 0.0% | 0.1% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Jun) | 32 | 36 | 34 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | 0.3% |
+| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.6% |
+| 53 min | USD | Low | Milk Auctions |  |  | 4,332.0 |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 1.702% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
