@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 20 min | JPY | BoJ Press Conference |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Jun) |  | -74.0 | -82.0 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Jun) |  | 34.8 | 25.2 |
@@ -12,8 +12,8 @@
 | 13:30 | USD | Import Price Index (MoM) (May) |  | -0.2% | 0.1% |
 | 13:30 | USD | Retail Control (MoM) (May) |  | 0.3% | -0.2% |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) |  | -2.94B | -4.23B |
-| 14:15 | USD | Industrial Production (MoM) (May) |  | 0.0% | 0.0% |
 | 14:15 | USD | Industrial Production (YoY) (May) |  |  | 1.49% |
+| 14:15 | USD | Industrial Production (MoM) (May) |  | 0.0% | 0.0% |
 | 15:00 | USD | Business Inventories (MoM) (Apr) |  | 0.0% | 0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) |  | 0.3% | 0.3% |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 1.702% |
