@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (YoY) (May) | -3.50% | 8.00% | 12.40% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (May) | -12.00% |  | 10.40% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (May) | -3.50% | 8.00% | 12.40% |
 | 02:00 | SGD | Trade Balance (May) | 7.240B |  | 14.220B |
-| 09:30 | HKD | Unemployment Rate (May) |  |  | 3.4% |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.977% |
+| 20 min | HKD | Unemployment Rate (May) |  |  | 3.4% |
+| 50 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.977% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:30 | USD | Export Price Index (YoY) (May) |  |  | 2.0% |
 | 13:30 | USD | Import Price Index (YoY) (May) |  |  | 0.1% |
