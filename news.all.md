@@ -18,8 +18,8 @@
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) | -0.3% | 0.2% | 0.0% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (May) | -0.9% | -0.1% | 0.1% |
 | 13:30 | USD | Low | Export Price Index (YoY) (May) | 1.7% |  | 1.9% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | 0.0% | -0.2% | 0.1% |
 | 13:30 | USD | Low | Import Price Index (YoY) (May) | 0.2% |  | 0.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | 0.0% | -0.2% | 0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) | 0.4% | 0.3% | -0.1% |
 | 13:30 | USD | High | Retail Sales (MoM) (May) | -0.9% | -0.5% | -0.1% |
 | 13:30 | USD | Low | Retail Sales (YoY) (May) | 3.29% |  | 5.00% |
@@ -38,6 +38,6 @@
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 1.650% |  | 1.702% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -10.133M | -0.600M | -0.370M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment (Q2) | 91.2 |  | 89.2 |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
-| 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -26.40B |
-| 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.20% |
+| 39 min | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -26.40B |
+| 39 min | NZD | Moderate | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
+| 39 min | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.20% |

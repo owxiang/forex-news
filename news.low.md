@@ -17,4 +17,4 @@
 | 14:15 | USD | Capacity Utilization Rate (May) | 77.4% | 77.7% | 77.7% |
 | 14:15 | USD | Manufacturing Production (MoM) (May) | 0.1% | 0.1% | -0.5% |
 | 15:00 | USD | NAHB Housing Market Index (Jun) | 32 | 36 | 34 |
-| 23:45 | NZD | Current Account % of GDP (Q1) |  |  | -6.20% |
+| 39 min | NZD | Current Account % of GDP (Q1) |  |  | -6.20% |
