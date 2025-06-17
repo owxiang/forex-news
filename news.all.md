@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (May) | -3.50% | 8.00% | 12.40% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -12.00% |  | 10.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (May) | -3.50% | 8.00% | 12.40% |
 | 02:00 | SGD | Low | Trade Balance (May) | 7.240B |  | 14.220B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
@@ -34,12 +34,10 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) | 0.0% | 0.0% | 0.1% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jun) | 32 | 36 | 34 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | 0.3% |
-| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.6% |
-| 53 min | USD | Low | Milk Auctions |  |  | 4,332.0 |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 1.702% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.8% | 3.8% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -0.370M |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 89.2 |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -26.40B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -2.19B | -7.04B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.20% |
