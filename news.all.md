@@ -13,13 +13,13 @@
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (May) | 59.70% |  | 58.80% |
 | 07:00 | GBP | Low | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
 | 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
-| 07:00 | GBP | Low | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
+| 07:00 | GBP | Low | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.2% | 0.2% | 1.2% |
 | 07:00 | GBP | High | CPI (YoY) (May) | 3.4% | 3.3% | 3.5% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 138.40 |  | 138.20 |
-| 07:00 | GBP | Low | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 07:00 | GBP | Low | RPI (YoY) (May) | 4.3% | 4.2% | 4.5% |
+| 07:00 | GBP | Low | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jun) | 6.25% | 6.25% | 6.25% |
@@ -29,11 +29,11 @@
 | 09:00 | EUR | Low | Current Account n.s.a. (Apr) | 19.3B |  | 60.1B |
 | 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.0% |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (May) | 3.0% |  | 3.0% |
-| 09:00 | ZAR | Low | CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | ZAR | Low | CPI (YoY) (May) | 2.8% |  | 2.8% |
+| 09:00 | ZAR | Low | CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.5% | 5.6% | 6.4% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.3% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.3% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 1.9% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.0% | 0.0% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | -0.1% |  | 0.6% |
@@ -48,17 +48,17 @@
 | 12:00 | USD | Low | Mortgage Market Index | 248.1 |  | 254.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 692.4 |  | 707.4 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Apr) | 5.1% |  | 1.2% |
-| 54 min | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 0.00% |
-| 54 min | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 1.90% |
-| 54 min | MXN | Low | Private Spending (YoY) (Q1) |  |  | 0.40% |
-| 54 min | MXN | Low | Private Spending (QoQ) (Q1) |  |  | -1.40% |
-| 13:30 | USD | Low | Building Permits (MoM) (May) |  |  | -4.0% |
-| 13:30 | USD | Moderate | Building Permits (May) |  | 1.420M | 1.422M |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,940K | 1,956K |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (May) |  |  | 1.6% |
-| 13:30 | USD | Moderate | Housing Starts (May) |  | 1.350M | 1.361M |
-| 13:30 | USD | High | Initial Jobless Claims |  | 246K | 248K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 240.25K |
+| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) | -1.10% |  | 0.00% |
+| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) | -0.20% |  | 1.90% |
+| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) | -0.40% |  | -1.40% |
+| 13:00 | MXN | Low | Private Spending (YoY) (Q1) | -0.60% |  | 0.40% |
+| 18 min | USD | Moderate | Building Permits (May) |  | 1.420M | 1.422M |
+| 18 min | USD | Low | Building Permits (MoM) (May) |  |  | -4.0% |
+| 18 min | USD | Moderate | Continuing Jobless Claims |  | 1,940K | 1,956K |
+| 18 min | USD | Moderate | Housing Starts (MoM) (May) |  |  | 1.6% |
+| 18 min | USD | Moderate | Housing Starts (May) |  | 1.350M | 1.361M |
+| 18 min | USD | High | Initial Jobless Claims |  | 246K | 248K |
+| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 240.25K |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.300M | -3.644M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.228M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.451M |
