@@ -14,11 +14,11 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,945K | 1,940K | 1,951K |
 | 13:30 | USD | Housing Starts (MoM) (May) | -9.8% |  | 2.7% |
 | 13:30 | USD | Housing Starts (May) | 1.256M | 1.350M | 1.392M |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.403M |
-| 23 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 53 min | EUR | ECB's Lane Speaks |  |  |  |
-| 16:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.995M |  | -0.403M |
+| 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 8 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 23 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.4% |
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |

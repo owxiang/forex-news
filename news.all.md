@@ -18,8 +18,8 @@
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.2% | 0.2% | 1.2% |
 | 07:00 | GBP | High | CPI (YoY) (May) | 3.4% | 3.3% | 3.5% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 138.40 |  | 138.20 |
-| 07:00 | GBP | Low | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 07:00 | GBP | Low | RPI (YoY) (May) | 4.3% | 4.2% | 4.5% |
+| 07:00 | GBP | Low | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jun) | 6.25% | 6.25% | 6.25% |
@@ -54,30 +54,30 @@
 | 13:00 | MXN | Low | Private Spending (YoY) (Q1) | -0.60% |  | 0.40% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | -1.0% |  | -1.6% |
 | 13:00 | USD | Low | Milk Auctions | 4,389.0 |  | 4,332.0 |
-| 13:30 | USD | Moderate | Building Permits (May) | 1.393M | 1.420M | 1.422M |
 | 13:30 | USD | Low | Building Permits (MoM) (May) | -2.0% |  | -4.0% |
+| 13:30 | USD | Moderate | Building Permits (May) | 1.393M | 1.420M | 1.422M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,945K | 1,940K | 1,951K |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (May) | -9.8% |  | 2.7% |
 | 13:30 | USD | Moderate | Housing Starts (May) | 1.256M | 1.350M | 1.392M |
 | 13:30 | USD | High | Initial Jobless Claims | 245K | 246K | 250K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 245.50K |  | 240.75K |
-| 23 min | USD | High | Crude Oil Inventories |  | -2.300M | -3.644M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.228M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | 0.451M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.403M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | -0.097M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.246M |
-| 23 min | USD | Low | Gasoline Production |  |  | 0.681M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.487M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 23 min | USD | Low | Gasoline Inventories |  |  | 1.504M |
-| 23 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.080% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.380% |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
-| 17:00 | USD | Low | Natural Gas Storage |  | 96B | 109B |
+| 15:30 | USD | High | Crude Oil Inventories | -11.473M | -2.300M | -3.644M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.364M |  | 0.228M |
+| 15:30 | USD | Low | Crude Oil Imports | -1.747M |  | 0.451M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.995M |  | -0.403M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.077M |  | -0.097M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.514M |  | 1.246M |
+| 15:30 | USD | Low | Gasoline Production | 0.386M |  | 0.681M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.152M |  | 0.487M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.1% |  | 0.9% |
+| 15:30 | USD | Low | Gasoline Inventories | 0.209M |  | 1.504M |
+| 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 8 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.080% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.380% |
+| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 53 min | USD | Low | Natural Gas Storage |  | 96B | 109B |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.436B |

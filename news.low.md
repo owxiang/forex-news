@@ -13,8 +13,8 @@
 | 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
 | 07:00 | GBP | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
 | 07:00 | GBP | CPI, n.s.a (May) | 138.40 |  | 138.20 |
-| 07:00 | GBP | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 07:00 | GBP | RPI (YoY) (May) | 4.3% | 4.2% | 4.5% |
+| 07:00 | GBP | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 08:30 | IDR | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.75% |
 | 08:30 | IDR | Lending Facility Rate (Jun) | 6.25% | 6.25% | 6.25% |
 | 08:30 | IDR | Loans (YoY) (May) | 8.43% |  | 8.88% |
@@ -46,17 +46,17 @@
 | 13:00 | USD | Milk Auctions | 4,389.0 |  | 4,332.0 |
 | 13:30 | USD | Building Permits (MoM) (May) | -2.0% |  | -4.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 245.50K |  | 240.75K |
-| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.228M |
-| 23 min | USD | Crude Oil Imports |  |  | 0.451M |
-| 23 min | USD | Distillate Fuel Production |  |  | -0.097M |
-| 23 min | USD | EIA Weekly Distillates Stocks |  |  | 1.246M |
-| 23 min | USD | Gasoline Production |  |  | 0.681M |
-| 23 min | USD | Heating Oil Stockpiles |  |  | 0.487M |
-| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 23 min | USD | Gasoline Inventories |  |  | 1.504M |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.080% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.380% |
-| 17:00 | USD | Natural Gas Storage |  | 96B | 109B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.364M |  | 0.228M |
+| 15:30 | USD | Crude Oil Imports | -1.747M |  | 0.451M |
+| 15:30 | USD | Distillate Fuel Production | 0.077M |  | -0.097M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.514M |  | 1.246M |
+| 15:30 | USD | Gasoline Production | 0.386M |  | 0.681M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.152M |  | 0.487M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.1% |  | 0.9% |
+| 15:30 | USD | Gasoline Inventories | 0.209M |  | 1.504M |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.080% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.380% |
+| 53 min | USD | Natural Gas Storage |  | 96B | 109B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.436B |
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 123.30B |
