@@ -8,8 +8,8 @@
 | 07:00 | GBP | CPI (MoM) (May) | 0.2% | 0.2% | 1.2% |
 | 08:30 | IDR | Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 08:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 51 min | EUR | Core CPI (YoY) (May) |  | 2.3% | 2.7% |
-| 51 min | EUR | CPI (MoM) (May) |  | 0.0% | 0.6% |
+| 10:00 | EUR | Core CPI (YoY) (May) | 2.3% | 2.3% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (May) | 0.0% | 0.0% | 0.6% |
 | 13:30 | USD | Building Permits (May) |  | 1.420M | 1.422M |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,940K | 1,956K |
 | 13:30 | USD | Housing Starts (MoM) (May) |  |  | 1.6% |

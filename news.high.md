@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | CPI (YoY) (May) | 3.4% | 3.3% | 3.5% |
-| 51 min | EUR | CPI (YoY) (May) |  | 1.9% | 2.2% |
+| 10:00 | EUR | CPI (YoY) (May) | 1.9% | 1.9% | 2.2% |
 | 13:30 | USD | Initial Jobless Claims |  | 246K | 248K |
 | 15:30 | USD | Crude Oil Inventories |  | -2.300M | -3.644M |
 | 19:00 | USD | FOMC Economic Projections |  |  |  |
