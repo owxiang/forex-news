@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Adjusted Trade Balance |  | -0.37T | -0.41T |
-| 43 min | JPY | Exports (YoY) (May) |  | -3.8% | 2.0% |
-| 43 min | JPY | Trade Balance (May) |  | -893.0B | -115.8B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.31T | -0.37T | -0.35T |
+| 00:50 | JPY | Exports (YoY) (May) | -1.7% | -3.8% | 2.0% |
+| 00:50 | JPY | Trade Balance (May) | -637.6B | -893.0B | -115.6B |
 | 07:00 | GBP | CPI (MoM) (May) |  | 0.2% | 1.2% |
 | 08:30 | IDR | Interest Rate Decision |  | 5.50% | 5.50% |
 | 08:30 | EUR | ECB's Elderson Speaks |  |  |  |
@@ -12,8 +12,8 @@
 | 10:00 | EUR | CPI (MoM) (May) |  | 0.0% | 0.6% |
 | 13:30 | USD | Building Permits (May) |  | 1.420M | 1.422M |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,940K | 1,956K |
-| 13:30 | USD | Housing Starts (May) |  | 1.350M | 1.361M |
 | 13:30 | USD | Housing Starts (MoM) (May) |  |  | 1.6% |
+| 13:30 | USD | Housing Starts (May) |  | 1.350M | 1.361M |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.403M |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
