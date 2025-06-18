@@ -1,67 +1,17 @@
-## 18 June 2025 - Low Impact Forex News
+## 19 June 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | JPY | Reuters Tankan Index (Jun) | 6 |  | 8 |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Apr) | 6.6% | 4.0% | 8.4% |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Apr) | -9.1% | -9.3% | 13.0% |
-| 00:50 | JPY | Imports (YoY) (May) | -7.7% | -6.7% | -2.2% |
-| 02:00 | AUD | MI Leading Index (MoM) (May) | -0.1% |  | -0.0% |
-| 04:00 | NZD | RBNZ Offshore Holdings (May) | 59.70% |  | 58.80% |
-| 07:00 | GBP | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
-| 07:00 | GBP | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
-| 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
-| 07:00 | GBP | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
-| 07:00 | GBP | CPI, n.s.a (May) | 138.40 |  | 138.20 |
-| 07:00 | GBP | RPI (YoY) (May) | 4.3% | 4.2% | 4.5% |
-| 07:00 | GBP | RPI (MoM) (May) | 0.2% |  | 1.7% |
-| 08:30 | IDR | Deposit Facility Rate (Jun) | 4.75% | 4.75% | 4.75% |
-| 08:30 | IDR | Lending Facility Rate (Jun) | 6.25% | 6.25% | 6.25% |
-| 08:30 | IDR | Loans (YoY) (May) | 8.43% |  | 8.88% |
-| 09:00 | EUR | Current Account (Apr) | 19.8B | 40.4B | 50.9B |
-| 09:00 | EUR | Current Account n.s.a. (Apr) | 19.3B |  | 60.1B |
-| 09:00 | ZAR | Core CPI (MoM) (May) | 0.0% |  | 0.1% |
-| 09:00 | ZAR | Core CPI (YoY) (May) | 3.0% |  | 3.0% |
-| 09:00 | ZAR | CPI (YoY) (May) | 2.8% |  | 2.8% |
-| 09:00 | ZAR | CPI (MoM) (May) | 0.2% |  | 0.3% |
-| 09:30 | GBP | House Price Index (YoY) | 3.5% | 5.6% | 6.4% |
-| 10:00 | EUR | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | -0.1% |  | 0.6% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 1.8% |  | 2.1% |
-| 10:00 | EUR | CPI, n.s.a (May) | 128.71 | 128.73 | 128.77 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.1% | 0.1% | 0.9% |
-| 10:50 | EUR | German 30-Year Bund Auction | 2.990% |  | 3.120% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.84% |  | 6.93% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.6% |  | 12.5% |
-| 12:00 | USD | MBA Purchase Index | 165.8 |  | 170.9 |
-| 12:00 | USD | Mortgage Market Index | 248.1 |  | 254.6 |
-| 12:00 | USD | Mortgage Refinance Index | 692.4 |  | 707.4 |
-| 12:00 | ZAR | Retail Sales (YoY) (Apr) | 5.1% |  | 1.2% |
-| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) | -1.10% |  | 0.00% |
-| 13:00 | MXN | Aggregate Demand (YoY) (Q1) | -0.20% |  | 1.90% |
-| 13:00 | MXN | Private Spending (QoQ) (Q1) | -0.40% |  | -1.40% |
-| 13:00 | MXN | Private Spending (YoY) (Q1) | -0.60% |  | 0.40% |
-| 13:00 | NZD | GlobalDairyTrade Price Index | -1.0% |  | -1.6% |
-| 13:00 | USD | Milk Auctions | 4,389.0 |  | 4,332.0 |
-| 13:30 | USD | Building Permits (MoM) (May) | -2.0% |  | -4.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 245.50K |  | 240.75K |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.364M |  | 0.228M |
-| 15:30 | USD | Crude Oil Imports | -1.747M |  | 0.451M |
-| 15:30 | USD | Distillate Fuel Production | 0.077M |  | -0.097M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.514M |  | 1.246M |
-| 15:30 | USD | Gasoline Production | 0.386M |  | 0.681M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.152M |  | 0.487M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.1% |  | 0.9% |
-| 15:30 | USD | Gasoline Inventories | 0.209M |  | 1.504M |
-| 16:30 | USD | 4-Week Bill Auction | 4.060% |  | 4.080% |
-| 16:30 | USD | 8-Week Bill Auction | 4.470% |  | 4.380% |
-| 17:00 | USD | Natural Gas Storage | 95B | 96B | 109B |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | -0.092B |  | 0.436B |
-| 21:00 | USD | US Foreign Buying, T-bonds (Apr) | -40.80B |  | 123.30B |
-| 21:00 | USD | Overall Net Capital Flow (Apr) | -14.20B |  | 253.10B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) | -7.80B | 142.40B | 162.40B |
-| 39 min | NZD | GDP (YoY) (Q1) |  | -0.8% | -1.1% |
-| 39 min | NZD | GDP Annual Average (Q1) |  |  | -0.5% |
-| 39 min | NZD | GDP Expenditure (QoQ) (Q1) |  |  | 0.8% |
+| 43 min | JPY | Foreign Bonds Buying |  |  | -458.6B |
+| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 180.2B |
+| 02:30 | AUD | Participation Rate (May) |  | 67.1% | 67.1% |
+| 02:30 | AUD | Reserve Assets Total (May) |  |  | 103.8B |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.980% |
+| 07:00 | CHF | Trade Balance (May) |  | 5.850B | 6.358B |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.349% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.386% |
+| 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.062% |
+| 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.72% |
+| 10:00 | EUR | Construction Output (MoM) (Apr) |  |  | 0.10% |
+| 22:00 | KRW | PPI (YoY) (May) |  |  | 0.9% |
+| 22:00 | KRW | PPI (MoM) (May) |  |  | -0.1% |
