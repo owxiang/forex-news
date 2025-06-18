@@ -13,8 +13,8 @@
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (May) | 59.70% |  | 58.80% |
 | 07:00 | GBP | Low | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
 | 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
-| 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
 | 07:00 | GBP | Low | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
+| 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.2% | 0.2% | 1.2% |
 | 07:00 | GBP | High | CPI (YoY) (May) | 3.4% | 3.3% | 3.5% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 138.40 |  | 138.20 |
@@ -29,11 +29,11 @@
 | 09:00 | EUR | Low | Current Account n.s.a. (Apr) | 19.3B |  | 60.1B |
 | 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.0% |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (May) | 3.0% |  | 3.0% |
-| 09:00 | ZAR | Low | CPI (YoY) (May) | 2.8% |  | 2.8% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) | 0.2% |  | 0.3% |
+| 09:00 | ZAR | Low | CPI (YoY) (May) | 2.8% |  | 2.8% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.5% | 5.6% | 6.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.3% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 1.9% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.0% | 0.0% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | -0.1% |  | 0.6% |
@@ -42,18 +42,18 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.1% | 0.1% | 0.9% |
 | 10:50 | EUR | Low | German 30-Year Bund Auction | 2.990% |  | 3.120% |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 12.5% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 170.9 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 254.6 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 707.4 |
-| 53 min | ZAR | Low | Retail Sales (YoY) (Apr) |  |  | 1.5% |
-| 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 0.00% |
-| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 1.90% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) |  |  | -1.40% |
-| 13:00 | MXN | Low | Private Spending (YoY) (Q1) |  |  | 0.40% |
-| 13:30 | USD | Moderate | Building Permits (May) |  | 1.420M | 1.422M |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.84% |  | 6.93% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.6% |  | 12.5% |
+| 12:00 | USD | Low | MBA Purchase Index | 165.8 |  | 170.9 |
+| 12:00 | USD | Low | Mortgage Market Index | 248.1 |  | 254.6 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 692.4 |  | 707.4 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (Apr) | 5.1% |  | 1.2% |
+| 54 min | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 0.00% |
+| 54 min | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 1.90% |
+| 54 min | MXN | Low | Private Spending (YoY) (Q1) |  |  | 0.40% |
+| 54 min | MXN | Low | Private Spending (QoQ) (Q1) |  |  | -1.40% |
 | 13:30 | USD | Low | Building Permits (MoM) (May) |  |  | -4.0% |
+| 13:30 | USD | Moderate | Building Permits (May) |  | 1.420M | 1.422M |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,940K | 1,956K |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (May) |  |  | 1.6% |
 | 13:30 | USD | Moderate | Housing Starts (May) |  | 1.350M | 1.361M |
