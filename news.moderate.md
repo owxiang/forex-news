@@ -26,5 +26,5 @@
 | 19:00 | USD | Interest Rate Projection - Longer (Q2) | 3.0% |  | 3.0% |
 | 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) | -7.8B |  | 162.4B |
-| 24 min | BRL | Interest Rate Decision |  | 14.75% | 14.75% |
-| 23:45 | NZD | GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
+| 22:30 | BRL | Interest Rate Decision | 15.00% | 14.75% | 14.75% |
+| 39 min | NZD | GDP (QoQ) (Q1) |  | 0.7% | 0.7% |

@@ -94,8 +94,8 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Apr) | -14.20B |  | 253.10B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) | -7.8B |  | 162.4B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Apr) | -7.80B | 142.40B | 162.40B |
-| 24 min | BRL | Moderate | Interest Rate Decision |  | 14.75% | 14.75% |
-| 23:45 | NZD | Moderate | GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
-| 23:45 | NZD | Low | GDP (YoY) (Q1) |  | -0.8% | -1.1% |
-| 23:45 | NZD | Low | GDP Annual Average (Q1) |  |  | -0.5% |
-| 23:45 | NZD | Low | GDP Expenditure (QoQ) (Q1) |  |  | 0.8% |
+| 22:30 | BRL | Moderate | Interest Rate Decision | 15.00% | 14.75% | 14.75% |
+| 39 min | NZD | Moderate | GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
+| 39 min | NZD | Low | GDP (YoY) (Q1) |  | -0.8% | -1.1% |
+| 39 min | NZD | Low | GDP Annual Average (Q1) |  |  | -0.5% |
+| 39 min | NZD | Low | GDP Expenditure (QoQ) (Q1) |  |  | 0.8% |

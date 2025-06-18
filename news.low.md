@@ -62,6 +62,6 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) | -40.80B |  | 123.30B |
 | 21:00 | USD | Overall Net Capital Flow (Apr) | -14.20B |  | 253.10B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) | -7.80B | 142.40B | 162.40B |
-| 23:45 | NZD | GDP (YoY) (Q1) |  | -0.8% | -1.1% |
-| 23:45 | NZD | GDP Annual Average (Q1) |  |  | -0.5% |
-| 23:45 | NZD | GDP Expenditure (QoQ) (Q1) |  |  | 0.8% |
+| 39 min | NZD | GDP (YoY) (Q1) |  | -0.8% | -1.1% |
+| 39 min | NZD | GDP Annual Average (Q1) |  |  | -0.5% |
+| 39 min | NZD | GDP Expenditure (QoQ) (Q1) |  |  | 0.8% |
