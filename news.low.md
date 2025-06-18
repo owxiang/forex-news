@@ -8,10 +8,10 @@
 | 00:50 | JPY | Imports (YoY) (May) | -7.7% | -6.7% | -2.2% |
 | 02:00 | AUD | MI Leading Index (MoM) (May) | -0.1% |  | -0.0% |
 | 04:00 | NZD | RBNZ Offshore Holdings (May) | 59.70% |  | 58.80% |
-| 07:00 | GBP | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
 | 07:00 | GBP | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
-| 07:00 | GBP | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
+| 07:00 | GBP | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
 | 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
+| 07:00 | GBP | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
 | 07:00 | GBP | CPI, n.s.a (May) | 138.40 |  | 138.20 |
 | 07:00 | GBP | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 07:00 | GBP | RPI (YoY) (May) | 4.3% | 4.2% | 4.5% |
@@ -20,14 +20,14 @@
 | 08:30 | IDR | Loans (YoY) (May) | 8.43% |  | 8.88% |
 | 09:00 | EUR | Current Account (Apr) | 19.8B | 40.4B | 50.9B |
 | 09:00 | EUR | Current Account n.s.a. (Apr) | 19.3B |  | 60.1B |
-| 09:00 | ZAR | Core CPI (MoM) (May) | 0.0% |  | 0.1% |
 | 09:00 | ZAR | Core CPI (YoY) (May) | 3.0% |  | 3.0% |
+| 09:00 | ZAR | Core CPI (MoM) (May) | 0.0% |  | 0.1% |
 | 09:00 | ZAR | CPI (YoY) (May) | 2.8% |  | 2.8% |
 | 09:00 | ZAR | CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:30 | GBP | House Price Index (YoY) | 3.5% | 5.6% | 6.4% |
 | 10:00 | EUR | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | -0.1% |  | 0.6% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 1.8% |  | 2.1% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | -0.1% |  | 0.6% |
 | 10:00 | EUR | CPI, n.s.a (May) | 128.71 | 128.73 | 128.77 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.1% | 0.1% | 0.9% |
@@ -38,10 +38,10 @@
 | 12:00 | USD | Mortgage Market Index | 248.1 |  | 254.6 |
 | 12:00 | USD | Mortgage Refinance Index | 692.4 |  | 707.4 |
 | 12:00 | ZAR | Retail Sales (YoY) (Apr) | 5.1% |  | 1.2% |
-| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) | -1.10% |  | 0.00% |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q1) | -0.20% |  | 1.90% |
-| 13:00 | MXN | Private Spending (YoY) (Q1) | -0.60% |  | 0.40% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) | -1.10% |  | 0.00% |
 | 13:00 | MXN | Private Spending (QoQ) (Q1) | -0.40% |  | -1.40% |
+| 13:00 | MXN | Private Spending (YoY) (Q1) | -0.60% |  | 0.40% |
 | 13:00 | NZD | GlobalDairyTrade Price Index | -1.0% |  | -1.6% |
 | 13:00 | USD | Milk Auctions | 4,389.0 |  | 4,332.0 |
 | 13:30 | USD | Building Permits (MoM) (May) | -2.0% |  | -4.0% |
@@ -59,9 +59,9 @@
 | 17:00 | USD | Natural Gas Storage | 95B | 96B | 109B |
 | 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | -0.092B |  | 0.436B |
-| 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 123.30B |
-| 21:00 | USD | Overall Net Capital Flow (Apr) |  |  | 254.30B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) |  | 142.40B | 161.80B |
+| 54 min | USD | US Foreign Buying, T-bonds (Apr) |  |  | 123.30B |
+| 54 min | USD | Overall Net Capital Flow (Apr) |  |  | 254.30B |
+| 54 min | USD | TIC Net Long-Term Transactions including Swaps (Apr) |  | 142.40B | 161.80B |
 | 23:45 | NZD | GDP (YoY) (Q1) |  | -0.8% | -1.1% |
 | 23:45 | NZD | GDP Annual Average (Q1) |  |  | -0.5% |
 | 23:45 | NZD | GDP Expenditure (QoQ) (Q1) |  |  | 0.8% |
