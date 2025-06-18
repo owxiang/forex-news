@@ -13,8 +13,8 @@
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (May) | 59.70% |  | 58.80% |
 | 07:00 | GBP | Low | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
 | 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
-| 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
 | 07:00 | GBP | Low | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
+| 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.2% | 0.2% | 1.2% |
 | 07:00 | GBP | High | CPI (YoY) (May) | 3.4% | 3.3% | 3.5% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 138.40 |  | 138.20 |
@@ -32,8 +32,8 @@
 | 09:00 | ZAR | Low | CPI (YoY) (May) | 2.8% |  | 2.8% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.5% | 5.6% | 6.4% |
-| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.3% | 2.3% | 2.7% |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 1.9% | 1.9% | 2.2% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.0% | 0.0% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | -0.1% |  | 0.6% |
@@ -50,8 +50,8 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Apr) | 5.1% |  | 1.2% |
 | 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) | -1.10% |  | 0.00% |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) | -0.20% |  | 1.90% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) | -0.40% |  | -1.40% |
 | 13:00 | MXN | Low | Private Spending (YoY) (Q1) | -0.60% |  | 0.40% |
+| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) | -0.40% |  | -1.40% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | -1.0% |  | -1.6% |
 | 13:00 | USD | Low | Milk Auctions | 4,389.0 |  | 4,332.0 |
 | 13:30 | USD | Moderate | Building Permits (May) | 1.393M | 1.420M | 1.422M |
@@ -78,18 +78,18 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.470% |  | 4.380% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.4% | 3.5% | 3.5% |
 | 17:00 | USD | Low | Natural Gas Storage | 95B | 96B | 109B |
-| 23 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 23 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 23 min | BRL | Low | Foreign Exchange Flows |  |  | 0.436B |
-| 53 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.4% |
-| 53 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
-| 53 min | USD | Moderate | Interest Rate Projection - Current (Q2) |  |  | 3.9% |
-| 53 min | USD | Moderate | Interest Rate Projection - Longer (Q2) |  |  | 3.0% |
-| 53 min | USD | High | FOMC Economic Projections |  |  |  |
-| 53 min | USD | High | FOMC Statement |  |  |  |
-| 53 min | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
-| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 19:30 | USD | High | FOMC Press Conference |  |  |  |
+| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -0.092B |  | 0.436B |
+| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) | 3.6% |  | 3.4% |
+| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) | 3.4% |  | 3.1% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q2) | 3.9% |  | 3.9% |
+| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q2) | 3.0% |  | 3.0% |
+| 19:00 | USD | High | FOMC Economic Projections |  |  |  |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 21 min | USD | High | FOMC Press Conference |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (Apr) |  |  | 123.30B |
 | 21:00 | USD | Low | Overall Net Capital Flow (Apr) |  |  | 254.30B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) |  |  | 161.8B |
