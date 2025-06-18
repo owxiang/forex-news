@@ -3,18 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Jun) | 6 |  | 8 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Apr) | -9.1% | -9.3% | 13.0% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Apr) | 6.6% | 4.0% | 8.4% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Apr) | -9.1% | -9.3% | 13.0% |
 | 00:50 | JPY | Imports (YoY) (May) | -7.7% | -6.7% | -2.2% |
 | 02:00 | AUD | MI Leading Index (MoM) (May) | -0.1% |  | -0.0% |
 | 04:00 | NZD | RBNZ Offshore Holdings (May) | 59.70% |  | 58.80% |
-| 52 min | GBP | Core CPI (MoM) (May) |  | 0.2% | 1.4% |
-| 52 min | GBP | Core CPI (YoY) (May) |  | 3.5% | 3.8% |
-| 52 min | GBP | Core RPI (YoY) (May) |  |  | 4.2% |
-| 52 min | GBP | Core RPI (MoM) (May) |  |  | 1.8% |
-| 52 min | GBP | CPI, n.s.a (May) |  |  | 138.20 |
-| 52 min | GBP | RPI (MoM) (May) |  |  | 1.7% |
-| 52 min | GBP | RPI (YoY) (May) |  | 4.2% | 4.5% |
+| 07:00 | GBP | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
+| 07:00 | GBP | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
+| 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
+| 07:00 | GBP | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
+| 07:00 | GBP | CPI, n.s.a (May) | 138.40 |  | 138.20 |
+| 07:00 | GBP | RPI (YoY) (May) | 4.3% | 4.2% | 4.5% |
+| 07:00 | GBP | RPI (MoM) (May) | 0.2% |  | 1.7% |
 | 08:30 | IDR | Deposit Facility Rate (Jun) |  | 4.75% | 4.75% |
 | 08:30 | IDR | Lending Facility Rate (Jun) |  | 6.25% | 6.25% |
 | 08:30 | IDR | Loans (YoY) (May) |  |  | 8.88% |
@@ -38,10 +38,10 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 254.6 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 707.4 |
 | 12:00 | ZAR | Retail Sales (YoY) (Apr) |  |  | 1.5% |
-| 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 1.90% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 0.00% |
-| 13:00 | MXN | Private Spending (YoY) (Q1) |  |  | 0.40% |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 1.90% |
 | 13:00 | MXN | Private Spending (QoQ) (Q1) |  |  | -1.40% |
+| 13:00 | MXN | Private Spending (YoY) (Q1) |  |  | 0.40% |
 | 13:30 | USD | Building Permits (MoM) (May) |  |  | -4.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 240.25K |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.228M |
