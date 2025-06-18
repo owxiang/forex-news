@@ -8,8 +8,8 @@
 | 00:50 | JPY | Imports (YoY) (May) | -7.7% | -6.7% | -2.2% |
 | 02:00 | AUD | MI Leading Index (MoM) (May) | -0.1% |  | -0.0% |
 | 04:00 | NZD | RBNZ Offshore Holdings (May) | 59.70% |  | 58.80% |
-| 07:00 | GBP | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
 | 07:00 | GBP | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.8% |
+| 07:00 | GBP | Core CPI (MoM) (May) | 0.2% | 0.2% | 1.4% |
 | 07:00 | GBP | Core RPI (MoM) (May) | 0.2% |  | 1.8% |
 | 07:00 | GBP | Core RPI (YoY) (May) | 4.1% |  | 4.2% |
 | 07:00 | GBP | CPI, n.s.a (May) | 138.40 |  | 138.20 |
@@ -20,26 +20,26 @@
 | 08:30 | IDR | Loans (YoY) (May) | 8.43% |  | 8.88% |
 | 09:00 | EUR | Current Account (Apr) | 19.8B | 40.4B | 50.9B |
 | 09:00 | EUR | Current Account n.s.a. (Apr) | 19.3B |  | 60.1B |
-| 09:00 | ZAR | Core CPI (YoY) (May) | 3.0% |  | 3.0% |
 | 09:00 | ZAR | Core CPI (MoM) (May) | 0.0% |  | 0.1% |
+| 09:00 | ZAR | Core CPI (YoY) (May) | 3.0% |  | 3.0% |
 | 09:00 | ZAR | CPI (YoY) (May) | 2.8% |  | 2.8% |
 | 09:00 | ZAR | CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:30 | GBP | House Price Index (YoY) | 3.5% | 5.6% | 6.4% |
 | 10:00 | EUR | Core CPI (MoM) (May) | 0.0% | 0.0% | 0.1% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 1.8% |  | 2.1% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (May) | -0.1% |  | 0.6% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 1.8% |  | 2.1% |
 | 10:00 | EUR | CPI, n.s.a (May) | 128.71 | 128.73 | 128.77 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.4% | 2.4% | 2.7% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.1% | 0.1% | 0.9% |
-| 22 min | EUR | German 30-Year Bund Auction |  |  | 3.120% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 12.5% |
-| 12:00 | USD | MBA Purchase Index |  |  | 170.9 |
-| 12:00 | USD | Mortgage Market Index |  |  | 254.6 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 707.4 |
-| 12:00 | ZAR | Retail Sales (YoY) (Apr) |  |  | 1.5% |
-| 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 1.90% |
+| 10:50 | EUR | German 30-Year Bund Auction | 2.990% |  | 3.120% |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 12.5% |
+| 53 min | USD | MBA Purchase Index |  |  | 170.9 |
+| 53 min | USD | Mortgage Market Index |  |  | 254.6 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 707.4 |
+| 53 min | ZAR | Retail Sales (YoY) (Apr) |  |  | 1.5% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 0.00% |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 1.90% |
 | 13:00 | MXN | Private Spending (QoQ) (Q1) |  |  | -1.40% |
 | 13:00 | MXN | Private Spending (YoY) (Q1) |  |  | 0.40% |
 | 13:30 | USD | Building Permits (MoM) (May) |  |  | -4.0% |
