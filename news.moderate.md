@@ -12,11 +12,11 @@
 | 10:00 | EUR | CPI (MoM) (May) | 0.0% | 0.0% | 0.6% |
 | 13:30 | USD | Building Permits (May) | 1.393M | 1.420M | 1.422M |
 | 13:30 | USD | Continuing Jobless Claims | 1,945K | 1,940K | 1,951K |
-| 13:30 | USD | Housing Starts (May) | 1.256M | 1.350M | 1.392M |
 | 13:30 | USD | Housing Starts (MoM) (May) | -9.8% |  | 2.7% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.403M |
-| 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:30 | USD | Housing Starts (May) | 1.256M | 1.350M | 1.392M |
+| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.403M |
+| 23 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 53 min | EUR | ECB's Lane Speaks |  |  |  |
 | 16:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |
