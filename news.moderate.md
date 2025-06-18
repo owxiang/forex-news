@@ -12,19 +12,19 @@
 | 10:00 | EUR | CPI (MoM) (May) | 0.0% | 0.0% | 0.6% |
 | 13:30 | USD | Building Permits (May) | 1.393M | 1.420M | 1.422M |
 | 13:30 | USD | Continuing Jobless Claims | 1,945K | 1,940K | 1,951K |
-| 13:30 | USD | Housing Starts (May) | 1.256M | 1.350M | 1.392M |
 | 13:30 | USD | Housing Starts (MoM) (May) | -9.8% |  | 2.7% |
+| 13:30 | USD | Housing Starts (May) | 1.256M | 1.350M | 1.392M |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.995M |  | -0.403M |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) | 3.4% | 3.5% | 3.5% |
-| 18:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.4% |
-| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
-| 19:00 | USD | Interest Rate Projection - Current (Q2) |  |  | 3.9% |
-| 19:00 | USD | Interest Rate Projection - Longer (Q2) |  |  | 3.0% |
-| 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 23 min | EUR | German Buba Balz Speaks |  |  |  |
+| 53 min | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.4% |
+| 53 min | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
+| 53 min | USD | Interest Rate Projection - Current (Q2) |  |  | 3.9% |
+| 53 min | USD | Interest Rate Projection - Longer (Q2) |  |  | 3.0% |
+| 53 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  |  | 161.8B |
 | 22:30 | BRL | Interest Rate Decision |  | 14.75% | 14.75% |
 | 23:45 | NZD | GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
