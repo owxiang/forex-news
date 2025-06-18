@@ -10,10 +10,10 @@
 | 08:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (May) | 2.3% | 2.3% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (May) | 0.0% | 0.0% | 0.6% |
-| 18 min | USD | Building Permits (May) |  | 1.420M | 1.422M |
-| 18 min | USD | Continuing Jobless Claims |  | 1,940K | 1,956K |
-| 18 min | USD | Housing Starts (MoM) (May) |  |  | 1.6% |
-| 18 min | USD | Housing Starts (May) |  | 1.350M | 1.361M |
+| 13:30 | USD | Building Permits (May) | 1.393M | 1.420M | 1.422M |
+| 13:30 | USD | Continuing Jobless Claims | 1,945K | 1,940K | 1,951K |
+| 13:30 | USD | Housing Starts (May) | 1.256M | 1.350M | 1.392M |
+| 13:30 | USD | Housing Starts (MoM) (May) | -9.8% |  | 2.7% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.403M |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | EUR | ECB's Lane Speaks |  |  |  |
