@@ -1,36 +1,58 @@
-## 19 June 2025 - All Forex News
+## 20 June 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Foreign Bonds Buying | 1,571.3B |  | -453.6B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 473.4B |  | 179.8B |
-| 02:30 | AUD | Moderate | Employment Change (May) | -2.5K | 20.6K | 87.6K |
-| 02:30 | AUD | Moderate | Full Employment Change (May) | 38.7K |  | 58.6K |
-| 02:30 | AUD | Low | Participation Rate (May) | 67.0% | 67.1% | 67.1% |
-| 02:30 | AUD | Low | Reserve Assets Total (May) | 103.4B |  | 103.8B |
-| 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.1% | 4.1% | 4.1% |
-| 04:35 | JPY | Low | 5-Year JGB Auction | 0.982% |  | 0.980% |
-| 07:00 | CHF | Low | Trade Balance (May) | 3.831B | 5.850B | 6.325B |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q2) | 0.00% | 0.00% | 0.25% |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.50% | 4.50% |
-| 09:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.208% |  | 3.349% |
-| 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | EUR | Low | French 6-Year OAT Auction | 2.69% |  | 2.72% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Apr) | 1.65% |  | -0.19% |
-| 10:30 | EUR | Low | Spanish 5-Year Bonos Auction | 2.506% |  | 2.386% |
-| 10:30 | EUR | Low | Spanish 8-Year Obligacion Auction | 2.904% |  | 3.062% |
-| 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 00:01 | GBP | Low | GfK Consumer Confidence (Jun) | -18 | -19 | -20 |
+| 23 min | JPY | Low | CPI, n.s.a (MoM) (May) |  |  | 0.4% |
+| 23 min | JPY | Moderate | National Core CPI (YoY) (May) |  | 3.6% | 3.5% |
+| 23 min | JPY | Moderate | National CPI (MoM) (May) |  |  | 0.3% |
+| 23 min | JPY | Low | National CPI (YoY) (May) |  |  | 3.6% |
+| 43 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) |  | 3.50% | 3.50% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 5.20% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.3% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) |  | 1.8% | 5.3% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (May) |  | 17.90B | 20.16B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) |  |  | 9.116B |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (May) |  | 1.7% | 5.0% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 1.2% |
+| 07:00 | EUR | Low | German PPI (YoY) (May) |  | -1.2% | -0.9% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (May) |  | -0.3% | -0.6% |
+| 07:40 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 07:45 | EUR | Low | French Business Survey (Jun) |  | 97 | 97 |
+| 08:00 | CNY | Low | FDI (May) |  |  | -10.90% |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) |  | 4.0% | 3.9% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 2.0% | 1.9% |
+| 09:30 | HKD | Low | CPI (MoM) (May) |  |  | -0.10% |
+| 09:30 | HKD | Low | CPI (YoY) (May) |  | 2.00% | 2.00% |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Jun) | 3 | 2 | 7 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Jun) | 0 | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) | 6 | 7 | 2 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 4.25% | 4.25% | 4.25% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (May) | -0.4% |  | -0.2% |
-| 22:00 | KRW | Low | PPI (YoY) (May) | 0.3% |  | 0.8% |
+| 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 10.0% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 696.66B |
+| 12:30 | INR | Low | Infrastructure Output (YoY) (May) |  |  | 0.5% |
+| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) |  | -1.7 | -4.0 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Jun) |  |  | 47.2 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Jun) |  |  | 27.00 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Jun) |  |  | 16.5 |
+| 13:30 | USD | Low | Philly Fed New Orders (Jun) |  |  | 7.5 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Jun) |  |  | 59.80 |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | -0.2% | -0.7% |
+| 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.0% | -0.8% |
+| 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 2.0% |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) |  | -0.2% | -0.4% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.8% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
+| 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | -3.6% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | -0.8% | -3.0% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | -0.1% | -1.0% |
+| 15:00 | EUR | Low | Consumer Confidence (Jun) |  | -15.0 | -15.2 |
+| 16:46 | INR | Low | Current Account (USD) |  |  | -23.200B |
+| 16:46 | INR | Low | Current Account % of GDP (YoY) |  |  | -0.70% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 439 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 555 |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,677B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |
