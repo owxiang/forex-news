@@ -32,5 +32,5 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 4.25% | 4.25% | 4.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (May) |  |  | -0.1% |
 | 22:00 | KRW | Low | PPI (YoY) (May) |  |  | 0.9% |
+| 22:00 | KRW | Low | PPI (MoM) (May) |  |  | -0.1% |
