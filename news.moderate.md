@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Employment Change (May) | -2.5K | 20.6K | 89.0K |
-| 02:30 | AUD | Full Employment Change (May) | 38.7K |  | 59.5K |
+| 02:30 | AUD | Employment Change (May) | -2.5K | 20.6K | 87.6K |
+| 02:30 | AUD | Full Employment Change (May) | 38.7K |  | 58.6K |
 | 02:30 | AUD | Unemployment Rate (May) | 4.1% | 4.1% | 4.1% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |

@@ -4,12 +4,12 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,571.3B |  | -453.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 473.4B |  | 179.8B |
-| 02:30 | AUD | Moderate | Employment Change (May) | -2.5K | 20.6K | 89.0K |
-| 02:30 | AUD | Moderate | Full Employment Change (May) | 38.7K |  | 59.5K |
+| 02:30 | AUD | Moderate | Employment Change (May) | -2.5K | 20.6K | 87.6K |
+| 02:30 | AUD | Moderate | Full Employment Change (May) | 38.7K |  | 58.6K |
 | 02:30 | AUD | Low | Participation Rate (May) | 67.0% | 67.1% | 67.1% |
-| 02:30 | AUD | Low | Reserve Assets Total (May) |  |  | 103.8B |
+| 02:30 | AUD | Low | Reserve Assets Total (May) | 103,443.0B |  | 103.8B |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.1% | 4.1% | 4.1% |
-| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.980% |
+| 57 min | JPY | Low | 5-Year JGB Auction |  |  | 0.980% |
 | 07:00 | CHF | Low | Trade Balance (May) |  | 5.850B | 6.358B |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q2) |  | 0.00% | 0.25% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -32,5 +32,5 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Jun) |  | 4.25% | 4.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (May) |  |  | 0.9% |
 | 22:00 | KRW | Low | PPI (MoM) (May) |  |  | -0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (May) |  |  | 0.9% |
