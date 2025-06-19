@@ -10,8 +10,8 @@
 | 07:00 | CHF | Trade Balance (May) | 3.831B | 5.850B | 6.325B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.208% |  | 3.349% |
 | 10:00 | EUR | French 6-Year OAT Auction | 2.69% |  | 2.72% |
-| 10:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.386% |
-| 10:00 | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.062% |
 | 10:00 | EUR | Construction Output (MoM) (Apr) | 1.65% |  | -0.19% |
-| 22:00 | KRW | PPI (MoM) (May) |  |  | -0.1% |
+| 10:30 | EUR | Spanish 5-Year Bonos Auction | 2.506% |  | 2.386% |
+| 10:30 | EUR | Spanish 8-Year Obligacion Auction | 2.904% |  | 3.062% |
 | 22:00 | KRW | PPI (YoY) (May) |  |  | 0.9% |
+| 22:00 | KRW | PPI (MoM) (May) |  |  | -0.1% |

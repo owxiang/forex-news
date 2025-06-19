@@ -11,11 +11,11 @@
 | 09:00 | NOK | Interest Rate Decision | 4.25% | 4.50% | 4.50% |
 | 09:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 38 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
-| 11:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Jun) |  | 2 | 7 |
-| 12:00 | GBP | BoE MPC vote hike (Jun) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Jun) |  | 7 | 2 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 23 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 53 min | GBP | BoE MPC vote cut (Jun) |  | 2 | 7 |
+| 53 min | GBP | BoE MPC vote hike (Jun) |  | 0 | 0 |
+| 53 min | GBP | BoE MPC vote unchanged (Jun) |  | 7 | 2 |
+| 53 min | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 53 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
