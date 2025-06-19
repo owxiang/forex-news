@@ -13,5 +13,5 @@
 | 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.062% |
 | 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.72% |
 | 10:00 | EUR | Construction Output (MoM) (Apr) |  |  | 0.10% |
-| 22:00 | KRW | PPI (YoY) (May) |  |  | 0.9% |
 | 22:00 | KRW | PPI (MoM) (May) |  |  | -0.1% |
+| 22:00 | KRW | PPI (YoY) (May) |  |  | 0.9% |
