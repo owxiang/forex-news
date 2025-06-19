@@ -8,10 +8,10 @@
 | 02:30 | AUD | Reserve Assets Total (May) | 103.4B |  | 103.8B |
 | 04:35 | JPY | 5-Year JGB Auction | 0.982% |  | 0.980% |
 | 07:00 | CHF | Trade Balance (May) | 3.831B | 5.850B | 6.325B |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.349% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.386% |
-| 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.062% |
-| 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.72% |
-| 10:00 | EUR | Construction Output (MoM) (Apr) |  |  | 0.10% |
-| 22:00 | KRW | PPI (MoM) (May) |  |  | -0.1% |
+| 31 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.349% |
+| 31 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.386% |
+| 31 min | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.062% |
+| 51 min | EUR | French 6-Year OAT Auction |  |  | 2.72% |
+| 51 min | EUR | Construction Output (MoM) (Apr) |  |  | 0.10% |
 | 22:00 | KRW | PPI (YoY) (May) |  |  | 0.9% |
+| 22:00 | KRW | PPI (MoM) (May) |  |  | -0.1% |
