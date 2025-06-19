@@ -9,10 +9,10 @@
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | CHF | SNB Press Conference |  |  |  |
 | 09:00 | NOK | Interest Rate Decision | 4.25% | 4.50% | 4.50% |
-| 21 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 51 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 38 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 53 min | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Jun) |  | 2 | 7 |
 | 12:00 | GBP | BoE MPC vote hike (Jun) |  | 0 | 0 |
