@@ -9,7 +9,7 @@
 | 02:30 | AUD | Low | Participation Rate (May) | 67.0% | 67.1% | 67.1% |
 | 02:30 | AUD | Low | Reserve Assets Total (May) | 103.4B |  | 103.8B |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.1% | 4.1% | 4.1% |
-| 7 min | JPY | Low | 5-Year JGB Auction |  |  | 0.980% |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 0.982% |  | 0.980% |
 | 07:00 | CHF | Low | Trade Balance (May) |  | 5.850B | 6.358B |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q2) |  | 0.00% | 0.25% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
