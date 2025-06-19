@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | -458.6B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 180.2B |
-| 02:30 | AUD | Moderate | Employment Change (May) |  | 20.6K | 89.0K |
-| 02:30 | AUD | Moderate | Full Employment Change (May) |  |  | 59.5K |
-| 02:30 | AUD | Low | Participation Rate (May) |  | 67.1% | 67.1% |
-| 02:30 | AUD | Low | Reserve Assets Total (May) |  |  | 103.8B |
-| 02:30 | AUD | Moderate | Unemployment Rate (May) |  | 4.1% | 4.1% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,571.3B |  | -453.6B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 473.4B |  | 179.8B |
+| 59 min | AUD | Moderate | Employment Change (May) |  | 20.6K | 89.0K |
+| 59 min | AUD | Moderate | Full Employment Change (May) |  |  | 59.5K |
+| 59 min | AUD | Low | Participation Rate (May) |  | 67.1% | 67.1% |
+| 59 min | AUD | Low | Reserve Assets Total (May) |  |  | 103.8B |
+| 59 min | AUD | Moderate | Unemployment Rate (May) |  | 4.1% | 4.1% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.980% |
 | 07:00 | CHF | Low | Trade Balance (May) |  | 5.850B | 6.358B |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q2) |  | 0.00% | 0.25% |

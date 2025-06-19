@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Foreign Bonds Buying |  |  | -458.6B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 180.2B |
-| 02:30 | AUD | Participation Rate (May) |  | 67.1% | 67.1% |
-| 02:30 | AUD | Reserve Assets Total (May) |  |  | 103.8B |
+| 00:50 | JPY | Foreign Bonds Buying | 1,571.3B |  | -453.6B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 473.4B |  | 179.8B |
+| 59 min | AUD | Participation Rate (May) |  | 67.1% | 67.1% |
+| 59 min | AUD | Reserve Assets Total (May) |  |  | 103.8B |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.980% |
 | 07:00 | CHF | Trade Balance (May) |  | 5.850B | 6.358B |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.349% |
