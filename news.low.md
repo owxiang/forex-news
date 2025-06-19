@@ -13,5 +13,5 @@
 | 10:00 | EUR | Construction Output (MoM) (Apr) | 1.65% |  | -0.19% |
 | 10:30 | EUR | Spanish 5-Year Bonos Auction | 2.506% |  | 2.386% |
 | 10:30 | EUR | Spanish 8-Year Obligacion Auction | 2.904% |  | 3.062% |
-| 22:00 | KRW | PPI (YoY) (May) |  |  | 0.9% |
 | 22:00 | KRW | PPI (MoM) (May) |  |  | -0.1% |
+| 22:00 | KRW | PPI (YoY) (May) |  |  | 0.9% |

@@ -25,12 +25,12 @@
 | 10:30 | EUR | Low | Spanish 8-Year Obligacion Auction | 2.904% |  | 3.062% |
 | 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 23 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 53 min | GBP | Moderate | BoE MPC vote cut (Jun) |  | 2 | 7 |
-| 53 min | GBP | Moderate | BoE MPC vote hike (Jun) |  | 0 | 0 |
-| 53 min | GBP | Moderate | BoE MPC vote unchanged (Jun) |  | 7 | 2 |
-| 53 min | GBP | High | BoE Interest Rate Decision (Jun) |  | 4.25% | 4.25% |
-| 53 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 53 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (YoY) (May) |  |  | 0.9% |
+| 11:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Jun) | 3 | 2 | 7 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Jun) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) | 6 | 7 | 2 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 4.25% | 4.25% | 4.25% |
+| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 12:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 22:00 | KRW | Low | PPI (MoM) (May) |  |  | -0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (May) |  |  | 0.9% |
