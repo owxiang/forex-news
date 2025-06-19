@@ -11,11 +11,11 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.1% | 4.1% | 4.1% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.982% |  | 0.980% |
 | 07:00 | CHF | Low | Trade Balance (May) | 3.831B | 5.850B | 6.325B |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q2) |  | 0.00% | 0.25% |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 23 min | CHF | High | SNB Interest Rate Decision (Q2) |  | 0.00% | 0.25% |
+| 23 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 23 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 53 min | CHF | Moderate | SNB Press Conference |  |  |  |
+| 53 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 09:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.349% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.386% |
