@@ -25,8 +25,6 @@
 | 13:30 | CAD | IPPI (MoM) (May) | -0.5% | 0.0% | -0.8% |
 | 13:30 | CAD | IPPI (YoY) (May) | 1.2% |  | 1.9% |
 | 13:30 | CAD | RMPI (YoY) (May) | -2.8% |  | -3.9% |
-| 15:00 | EUR | Consumer Confidence (Jun) | -15.3 |  | -15.1 |
 | 15:00 | EUR | Consumer Confidence (Jun) | -15.3 | -15.0 | -15.2 |
-| 40 min | INR | Current Account (USD) |  |  | -23.200B |
-| 40 min | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
+| 15:00 | EUR | Consumer Confidence (Jun) | -15.3 |  | -15.1 |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |
