@@ -18,14 +18,14 @@
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (May) | -2.7% | -0.5% | 1.3% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) | -1.2% | -1.2% | -0.9% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) | -0.2% | -0.3% | -0.6% |
-| 30 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 35 min | EUR | Low | French Business Survey (Jun) |  | 97 | 97 |
-| 50 min | CNY | Low | FDI (May) |  |  | -10.90% |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) |  | 4.0% | 3.9% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 2.0% | 1.9% |
+| 07:40 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 07:45 | EUR | Low | French Business Survey (Jun) | 96 | 97 | 97 |
+| 53 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 53 min | EUR | Low | M3 Money Supply (YoY) |  | 4.0% | 3.9% |
+| 53 min | EUR | Low | Private Sector Loans (YoY) |  | 2.0% | 1.9% |
 | 09:30 | HKD | Low | CPI (MoM) (May) |  |  | -0.10% |
 | 09:30 | HKD | Low | CPI (YoY) (May) |  | 2.00% | 2.00% |
+| 10:00 | CNY | Low | FDI (May) |  |  | -10.90% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
