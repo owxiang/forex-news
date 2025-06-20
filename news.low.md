@@ -27,4 +27,4 @@
 | 13:30 | CAD | RMPI (YoY) (May) | -2.8% |  | -3.9% |
 | 15:00 | EUR | Consumer Confidence (Jun) | -15.3 | -15.0 | -15.2 |
 | 15:00 | EUR | Consumer Confidence (Jun) | -15.3 |  | -15.1 |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.323T |  | 3.430T |
