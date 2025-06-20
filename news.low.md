@@ -10,11 +10,9 @@
 | 07:00 | EUR | German PPI (YoY) (May) | -1.2% | -1.2% | -0.9% |
 | 07:40 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 07:45 | EUR | French Business Survey (Jun) | 96 | 97 | 97 |
-| 53 min | EUR | M3 Money Supply (YoY) |  | 4.0% | 3.9% |
-| 53 min | EUR | Private Sector Loans (YoY) |  | 2.0% | 1.9% |
-| 09:30 | HKD | CPI (MoM) (May) |  |  | -0.10% |
-| 09:30 | HKD | CPI (YoY) (May) |  | 2.00% | 2.00% |
-| 10:00 | CNY | FDI (May) |  |  | -10.90% |
+| 21 min | HKD | CPI (MoM) (May) |  |  | -0.10% |
+| 21 min | HKD | CPI (YoY) (May) |  | 2.00% | 2.00% |
+| 51 min | CNY | FDI (May) |  |  | -10.90% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
