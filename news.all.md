@@ -5,22 +5,22 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jun) | -18 | -19 | -20 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (May) | 0.3% |  | 0.4% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (May) | 3.7% | 3.6% | 3.5% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (May) | 0.3% |  | 0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (May) | 3.5% | 3.5% | 3.6% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (May) | 0.3% |  | 0.1% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 52 min | GBP | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.3% |
-| 52 min | GBP | Moderate | Core Retail Sales (YoY) (May) |  | 1.8% | 5.3% |
-| 52 min | GBP | Low | Public Sector Net Borrowing (May) |  | 17.90B | 20.16B |
-| 52 min | GBP | Low | Public Sector Net Cash Requirement (May) |  |  | 9.116B |
-| 52 min | GBP | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 1.2% |
-| 52 min | GBP | Moderate | Retail Sales (YoY) (May) |  | 1.7% | 5.0% |
-| 52 min | EUR | Low | German PPI (YoY) (May) |  | -1.2% | -0.9% |
-| 52 min | EUR | Moderate | German PPI (MoM) (May) |  | -0.3% | -0.6% |
-| 07:40 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 07:45 | EUR | Low | French Business Survey (Jun) |  | 97 | 97 |
-| 08:00 | CNY | Low | FDI (May) |  |  | -10.90% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) | -1.3% | 1.8% | 5.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) | -2.8% | -0.5% | 1.4% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (May) | 17.69B | 17.90B | 20.05B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) | 20.936B |  | 9.284B |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | -1.3% | 1.7% | 5.0% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) | -2.7% | -0.5% | 1.3% |
+| 07:00 | EUR | Low | German PPI (YoY) (May) | -1.2% | -1.2% | -0.9% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (May) | -0.2% | -0.3% | -0.6% |
+| 30 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 35 min | EUR | Low | French Business Survey (Jun) |  | 97 | 97 |
+| 50 min | CNY | Low | FDI (May) |  |  | -10.90% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) |  | 4.0% | 3.9% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 2.0% | 1.9% |
@@ -42,8 +42,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jun) |  |  | 7.5 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jun) |  |  | 59.80 |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | -0.2% | -0.7% |
-| 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 2.0% |
 | 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.0% | -0.8% |
+| 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 2.0% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) |  | -0.2% | -0.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.8% |
