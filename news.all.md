@@ -8,15 +8,15 @@
 | 00:30 | JPY | Moderate | National CPI (MoM) (May) | 0.3% |  | 0.1% |
 | 00:30 | JPY | Low | National CPI (YoY) (May) | 3.5% | 3.5% | 3.6% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 30 min | CNY | Moderate | China Loan Prime Rate 5Y (Jun) |  | 3.50% | 3.50% |
-| 45 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
+| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 5.20% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) |  | 1.8% | 5.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.3% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) |  | 17.90B | 20.16B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) |  |  | 9.116B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 1.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (May) |  | 1.7% | 5.0% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 1.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) |  | -1.2% | -0.9% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) |  | -0.3% | -0.6% |
 | 07:40 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
