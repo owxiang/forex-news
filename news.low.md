@@ -10,10 +10,10 @@
 | 07:00 | EUR | German PPI (YoY) (May) | -1.2% | -1.2% | -0.9% |
 | 07:40 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 07:45 | EUR | French Business Survey (Jun) | 96 | 97 | 97 |
-| 21 min | HKD | CPI (MoM) (May) |  |  | -0.10% |
-| 21 min | HKD | CPI (YoY) (May) |  | 2.00% | 2.00% |
-| 51 min | CNY | FDI (May) |  |  | -10.90% |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 09:30 | HKD | CPI (MoM) (May) | -0.30% |  | -0.10% |
+| 09:30 | HKD | CPI (YoY) (May) | 1.90% | 2.00% | 2.00% |
+| 53 min | CNY | FDI (May) |  |  | -10.90% |
+| 53 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
 | 12:30 | INR | Current Account (USD) |  |  | -23.200B |
@@ -24,8 +24,8 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Jun) |  |  | 27.00 |
 | 13:30 | USD | Philly Fed New Orders (Jun) |  |  | 7.5 |
 | 13:30 | USD | Philly Fed Prices Paid (Jun) |  |  | 59.80 |
-| 13:30 | CAD | IPPI (MoM) (May) |  | 0.0% | -0.8% |
 | 13:30 | CAD | IPPI (YoY) (May) |  |  | 2.0% |
+| 13:30 | CAD | IPPI (MoM) (May) |  | 0.0% | -0.8% |
 | 13:30 | CAD | RMPI (YoY) (May) |  |  | -3.6% |
 | 15:00 | EUR | Consumer Confidence (Jun) |  | -15.0 | -15.2 |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |
