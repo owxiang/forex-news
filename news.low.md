@@ -5,7 +5,7 @@
 | 00:01 | GBP | GfK Consumer Confidence (Jun) | -18 | -19 | -20 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (May) | 0.3% |  | 0.4% |
 | 00:30 | JPY | National CPI (YoY) (May) | 3.5% | 3.5% | 3.6% |
-| 04:00 | IDR | M2 Money Supply (YoY) (May) |  |  | 5.20% |
+| 23 min | IDR | M2 Money Supply (YoY) (May) |  |  | 5.20% |
 | 07:00 | GBP | Public Sector Net Borrowing (May) |  | 17.90B | 20.16B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (May) |  |  | 9.116B |
 | 07:00 | EUR | German PPI (YoY) (May) |  | -1.2% | -0.9% |
@@ -25,8 +25,8 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Jun) |  |  | 27.00 |
 | 13:30 | USD | Philly Fed New Orders (Jun) |  |  | 7.5 |
 | 13:30 | USD | Philly Fed Prices Paid (Jun) |  |  | 59.80 |
-| 13:30 | CAD | IPPI (MoM) (May) |  | 0.0% | -0.8% |
 | 13:30 | CAD | IPPI (YoY) (May) |  |  | 2.0% |
+| 13:30 | CAD | IPPI (MoM) (May) |  | 0.0% | -0.8% |
 | 13:30 | CAD | RMPI (YoY) (May) |  |  | -3.6% |
 | 15:00 | EUR | Consumer Confidence (Jun) |  | -15.0 | -15.2 |
 | 16:46 | INR | Current Account (USD) |  |  | -23.200B |
