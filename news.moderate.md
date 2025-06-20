@@ -15,13 +15,13 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 18 min | USD | Philly Fed Employment (Jun) |  |  | 16.5 |
-| 18 min | CAD | Core Retail Sales (MoM) (Apr) |  | -0.2% | -0.7% |
-| 18 min | CAD | New Housing Price Index (MoM) (May) |  | -0.2% | -0.4% |
-| 18 min | CAD | Retail Sales (MoM) (Apr) |  |  | 0.8% |
-| 18 min | CAD | Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
-| 18 min | CAD | RMPI (MoM) (May) |  | -0.8% | -3.0% |
-| 15:00 | USD | US Leading Index (MoM) (May) |  | -0.1% | -1.0% |
+| 13:30 | USD | Philly Fed Employment (Jun) | -9.8 |  | 16.5 |
+| 13:30 | CAD | Core Retail Sales (MoM) (Apr) | -0.3% | -0.2% | -0.8% |
+| 13:30 | CAD | New Housing Price Index (MoM) (May) | -0.2% | -0.2% | -0.4% |
+| 13:30 | CAD | Retail Sales (MoM) (Apr) | 0.3% | 0.4% | 0.8% |
+| 13:30 | CAD | RMPI (MoM) (May) | -0.4% | -0.8% | -3.3% |
+| 13:31 | CAD | Retail Sales (MoM) (May) | -1.1% |  | 0.3% |
+| 45 min | USD | US Leading Index (MoM) (May) |  | -0.1% | -1.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 439 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 555 |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,677B |

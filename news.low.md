@@ -18,14 +18,14 @@
 | 12:30 | INR | Deposit Growth | 9.9% |  | 10.0% |
 | 12:30 | INR | FX Reserves, USD | 698.95B |  | 696.66B |
 | 12:30 | INR | Infrastructure Output (YoY) (May) | 0.7% |  | 0.5% |
-| 18 min | USD | Philly Fed Business Conditions (Jun) |  |  | 47.2 |
-| 18 min | USD | Philly Fed CAPEX Index (Jun) |  |  | 27.00 |
-| 18 min | USD | Philly Fed New Orders (Jun) |  |  | 7.5 |
-| 18 min | USD | Philly Fed Prices Paid (Jun) |  |  | 59.80 |
-| 18 min | CAD | IPPI (YoY) (May) |  |  | 2.0% |
-| 18 min | CAD | IPPI (MoM) (May) |  | 0.0% | -0.8% |
-| 18 min | CAD | RMPI (YoY) (May) |  |  | -3.6% |
-| 15:00 | EUR | Consumer Confidence (Jun) |  | -15.0 | -15.2 |
-| 16:46 | INR | Current Account (USD) |  |  | -23.200B |
-| 16:46 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
+| 13:30 | USD | Philly Fed Business Conditions (Jun) | 18.3 |  | 47.2 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jun) | 14.50 |  | 27.00 |
+| 13:30 | USD | Philly Fed New Orders (Jun) | 2.3 |  | 7.5 |
+| 13:30 | USD | Philly Fed Prices Paid (Jun) | 41.40 |  | 59.80 |
+| 13:30 | CAD | IPPI (MoM) (May) | -0.5% | 0.0% | -0.8% |
+| 13:30 | CAD | IPPI (YoY) (May) | 1.2% |  | 1.9% |
+| 13:30 | CAD | RMPI (YoY) (May) | -2.8% |  | -3.9% |
+| 45 min | EUR | Consumer Confidence (Jun) |  | -15.0 | -15.2 |
+| 16:30 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
+| 16:30 | INR | Current Account (USD) |  |  | -23.200B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |
