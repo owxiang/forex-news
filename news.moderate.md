@@ -9,8 +9,8 @@
 | 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 07:00 | GBP | Core Retail Sales (YoY) (May) | -1.3% | 1.8% | 5.2% |
 | 07:00 | GBP | Core Retail Sales (MoM) (May) | -2.8% | -0.5% | 1.4% |
-| 07:00 | GBP | Retail Sales (YoY) (May) | -1.3% | 1.7% | 5.0% |
 | 07:00 | GBP | Retail Sales (MoM) (May) | -2.7% | -0.5% | 1.3% |
+| 07:00 | GBP | Retail Sales (YoY) (May) | -1.3% | 1.7% | 5.0% |
 | 07:00 | EUR | German PPI (MoM) (May) | -0.2% | -0.3% | -0.6% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
