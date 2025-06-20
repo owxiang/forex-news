@@ -5,20 +5,19 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jun) | -18 | -19 | -20 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (May) | 0.3% |  | 0.4% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (May) | 3.7% | 3.6% | 3.5% |
-| 00:30 | JPY | Low | National CPI (YoY) (May) | 3.5% | 3.5% | 3.6% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (May) | 0.3% |  | 0.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (May) | 3.5% | 3.5% | 3.6% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 23 min | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 5.20% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) |  | 1.8% | 5.3% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.3% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) |  | 17.90B | 20.16B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) |  |  | 9.116B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 1.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (May) |  | 1.7% | 5.0% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (May) |  | -0.3% | -0.6% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) |  | -1.2% | -0.9% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (May) |  | -0.3% | -0.6% |
 | 07:40 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 07:45 | EUR | Low | French Business Survey (Jun) |  | 97 | 97 |
 | 08:00 | CNY | Low | FDI (May) |  |  | -10.90% |
@@ -44,10 +43,10 @@
 | 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 2.0% |
 | 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.0% | -0.8% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) |  | -0.2% | -0.4% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.4% | 0.8% |
-| 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | -3.6% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | -0.8% | -3.0% |
+| 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | -3.6% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | -0.1% | -1.0% |
 | 15:00 | EUR | Low | Consumer Confidence (Jun) |  | -15.0 | -15.2 |
 | 16:46 | INR | Low | Current Account (USD) |  |  | -23.200B |
