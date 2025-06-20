@@ -14,8 +14,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) | -1.3% | 1.8% | 5.2% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) | 17.69B | 17.90B | 20.05B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) | 20.936B |  | 9.284B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | -1.3% | 1.7% | 5.0% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (May) | -2.7% | -0.5% | 1.3% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | -1.3% | 1.7% | 5.0% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) | -0.2% | -0.3% | -0.6% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) | -1.2% | -1.2% | -0.9% |
 | 07:40 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -45,8 +45,7 @@
 | 13:30 | CAD | Low | RMPI (YoY) (May) | -2.8% |  | -3.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (May) | -0.4% | -0.8% | -3.3% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (May) | -1.1% |  | 0.3% |
-| 45 min | USD | Moderate | US Leading Index (MoM) (May) |  | -0.1% | -1.0% |
-| 45 min | EUR | Low | Consumer Confidence (Jun) |  | -15.0 | -15.2 |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (May) | -0.1% | -0.1% | -1.4% |
 | 16:30 | INR | Low | Current Account % of GDP (YoY) |  |  | -0.70% |
 | 16:30 | INR | Low | Current Account (USD) |  |  | -23.200B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 439 |
