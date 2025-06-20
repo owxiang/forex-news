@@ -10,14 +10,14 @@
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) | -2.8% | -0.5% | 1.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) | -1.3% | 1.8% | 5.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) | -2.8% | -0.5% | 1.4% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) | 17.69B | 17.90B | 20.05B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) | 20.936B |  | 9.284B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (May) | -2.7% | -0.5% | 1.3% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | -1.3% | 1.7% | 5.0% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (May) | -0.2% | -0.3% | -0.6% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) | -1.2% | -1.2% | -0.9% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (May) | -0.2% | -0.3% | -0.6% |
 | 07:40 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 07:45 | EUR | Low | French Business Survey (Jun) | 96 | 97 | 97 |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
@@ -42,12 +42,14 @@
 | 13:30 | CAD | Low | IPPI (YoY) (May) | 1.2% |  | 1.9% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) | -0.2% | -0.2% | -0.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) | 0.3% | 0.4% | 0.8% |
-| 13:30 | CAD | Low | RMPI (YoY) (May) | -2.8% |  | -3.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (May) | -0.4% | -0.8% | -3.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (May) | -2.8% |  | -3.9% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (May) | -1.1% |  | 0.3% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (May) | -0.1% | -0.1% | -1.4% |
-| 16:30 | INR | Low | Current Account % of GDP (YoY) |  |  | -0.70% |
-| 16:30 | INR | Low | Current Account (USD) |  |  | -23.200B |
+| 15:00 | EUR | Low | Consumer Confidence (Jun) | -15.3 |  | -15.1 |
+| 15:00 | EUR | Low | Consumer Confidence (Jun) | -15.3 | -15.0 | -15.2 |
+| 40 min | INR | Low | Current Account (USD) |  |  | -23.200B |
+| 40 min | INR | Low | Current Account % of GDP (YoY) |  |  | -0.70% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 439 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 555 |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,677B |
