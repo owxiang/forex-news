@@ -50,5 +50,5 @@
 | 15:00 | EUR | Low | Consumer Confidence (Jun) | -15.3 |  | -15.1 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 438 |  | 439 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 554 |  | 555 |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,677B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |
+| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,677B |
+| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |

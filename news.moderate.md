@@ -24,4 +24,4 @@
 | 15:00 | USD | US Leading Index (MoM) (May) | -0.1% | -0.1% | -1.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 438 |  | 439 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 554 |  | 555 |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,677B |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,677B |
