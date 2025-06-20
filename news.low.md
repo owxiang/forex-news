@@ -12,8 +12,8 @@
 | 07:45 | EUR | French Business Survey (Jun) | 96 | 97 | 97 |
 | 09:30 | HKD | CPI (MoM) (May) | -0.30% |  | -0.10% |
 | 09:30 | HKD | CPI (YoY) (May) | 1.90% | 2.00% | 2.00% |
-| 53 min | CNY | FDI (May) |  |  | -10.90% |
-| 53 min | EUR | ECOFIN Meetings |  |  |  |
+| 10:30 | CNY | FDI (May) | -13.20% |  | -10.90% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
 | 12:30 | INR | Current Account (USD) |  |  | -23.200B |
