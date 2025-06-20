@@ -10,8 +10,8 @@
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) | -2.8% | -0.5% | 1.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) | -1.3% | 1.8% | 5.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) | -2.8% | -0.5% | 1.4% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) | 17.69B | 17.90B | 20.05B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) | 20.936B |  | 9.284B |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | -1.3% | 1.7% | 5.0% |
@@ -48,7 +48,7 @@
 | 15:00 | USD | Moderate | US Leading Index (MoM) (May) | -0.1% | -0.1% | -1.4% |
 | 15:00 | EUR | Low | Consumer Confidence (Jun) | -15.3 | -15.0 | -15.2 |
 | 15:00 | EUR | Low | Consumer Confidence (Jun) | -15.3 |  | -15.1 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 439 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 555 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 438 |  | 439 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 554 |  | 555 |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,677B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.430T |
