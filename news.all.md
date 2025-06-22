@@ -2,4 +2,5 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 18:15 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 03:00 | USD | High | U.S. President Trump Speaks |  |  |  |
+| 9 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

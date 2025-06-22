@@ -1,3 +1,5 @@
 ## 22 June 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 03:00 | USD | U.S. President Trump Speaks |  |  |  |
