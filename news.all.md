@@ -10,10 +10,10 @@
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) | 58.4 | 57.7 | 57.6 |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) | 60.7 | 58.6 | 58.8 |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (May) | 0.60% | 0.60% | 0.70% |
-| 06:00 | SGD | Low | CPI (MoM) (May) |  |  | -0.30% |
+| 06:00 | SGD | Low | CPI (MoM) (May) | 0.70% |  | -0.30% |
 | 06:00 | SGD | Moderate | CPI (YoY) (May) | 0.8% | 0.8% | 0.9% |
-| 08:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 08:00 | CHF | Low | M3 Money Supply (May) |  |  | 1,176.8B |
+| 49 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 49 min | CHF | Low | M3 Money Supply (May) |  |  | 1,176.8B |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) |  | 49.8 | 49.8 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Jun) |  | 49.3 | 49.3 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Jun) |  | 49.2 | 48.9 |

@@ -8,8 +8,8 @@
 | 05:00 | IDR | M2 Money Supply (YoY) (May) | 4.90% |  | 5.20% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jun) | 58.4 | 57.7 | 57.6 |
 | 06:00 | INR | S&P Global Services PMI (Jun) | 60.7 | 58.6 | 58.8 |
-| 06:00 | SGD | CPI (MoM) (May) |  |  | -0.30% |
-| 08:00 | CHF | M3 Money Supply (May) |  |  | 1,176.8B |
+| 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | -0.30% |
+| 49 min | CHF | M3 Money Supply (May) |  |  | 1,176.8B |
 | 08:15 | EUR | HCOB France Composite PMI (Jun) |  | 49.3 | 49.3 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  | 49.0 | 48.5 |
 | 09:00 | EUR | Spanish Trade Balance (Apr) |  |  | -5.48B |
