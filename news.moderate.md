@@ -13,9 +13,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) | 49.4 | 49.6 | 49.4 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Jun) | 50.2 | 50.5 | 50.2 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jun) | 50.0 | 50.0 | 49.7 |
-| 20 min | GBP | S&P Global Composite PMI (Jun) |  | 50.5 | 50.3 |
-| 20 min | GBP | S&P Global Manufacturing PMI (Jun) |  | 46.9 | 46.4 |
-| 20 min | GBP | S&P Global Services PMI (Jun) |  | 51.2 | 50.9 |
+| 09:30 | GBP | S&P Global Composite PMI (Jun) | 50.7 | 50.5 | 50.3 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jun) | 47.7 | 46.9 | 46.4 |
+| 09:30 | GBP | S&P Global Services PMI (Jun) | 51.3 | 51.2 | 50.9 |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jun) |  |  | 53.0 |
 | 15:00 | USD | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
