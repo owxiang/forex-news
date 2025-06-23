@@ -21,8 +21,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.932% |  | 1.940% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.951% |  | 1.948% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.932% |  | 1.953% |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.240% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.155% |
+| 16:30 | USD | 3-Month Bill Auction | 4.195% |  | 4.240% |
+| 16:30 | USD | 6-Month Bill Auction | 4.120% |  | 4.155% |
 | 18:10 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 26.4K |

@@ -43,8 +43,8 @@
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) | 0.8% | -1.3% | -0.5% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
-| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.155% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.195% |  | 4.240% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.120% |  | 4.155% |
 | 18:10 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 19:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 51.6K |
