@@ -14,13 +14,13 @@
 | 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 49.0 | 48.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:40 | EUR | Spanish Trade Balance (Apr) | -3.88B |  | -5.48B |
-| 13:00 | MXN | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.40% |
+| 13:00 | MXN | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.20% |
 | 13:00 | MXN | Economic Activity (YoY) (Apr) | -1.50% | -2.00% | 2.50% |
 | 13:00 | MXN | Retail Sales (MoM) (Apr) | -1.0% |  | 0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (Apr) | -2.0% |  | 4.3% |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 1.940% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.948% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 1.953% |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.932% |  | 1.940% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.951% |  | 1.948% |
+| 14:00 | EUR | French 6-Month BTF Auction | 1.932% |  | 1.953% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.155% |
 | 18:10 | USD | Fed Goolsbee Speaks |  |  |  |

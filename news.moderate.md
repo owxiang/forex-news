@@ -16,10 +16,10 @@
 | 09:30 | GBP | S&P Global Composite PMI (Jun) | 50.7 | 50.5 | 50.3 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jun) | 47.7 | 46.9 | 46.4 |
 | 09:30 | GBP | S&P Global Services PMI (Jun) | 51.3 | 51.2 | 50.9 |
-| 48 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Jun) |  |  | 53.0 |
-| 15:00 | USD | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
-| 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 28 min | USD | S&P Global Composite PMI (Jun) |  |  | 53.0 |
+| 43 min | USD | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
+| 43 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 51.6K |

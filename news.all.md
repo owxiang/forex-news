@@ -28,20 +28,20 @@
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) | 51.3 | 51.2 | 50.9 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:40 | EUR | Low | Spanish Trade Balance (Apr) | -3.88B |  | -5.48B |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.40% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.20% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Apr) | -1.50% | -2.00% | 2.50% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Apr) | -1.0% |  | 0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Apr) | -2.0% |  | 4.3% |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.940% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.948% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.953% |
-| 48 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) |  | 51.1 | 52.0 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 53.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 52.9 | 53.7 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
-| 15:00 | USD | High | Existing Home Sales (May) |  | 3.96M | 4.00M |
-| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.932% |  | 1.940% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.951% |  | 1.948% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.932% |  | 1.953% |
+| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 28 min | USD | High | S&P Global Manufacturing PMI (Jun) |  | 51.1 | 52.0 |
+| 28 min | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 53.0 |
+| 28 min | USD | High | S&P Global Services PMI (Jun) |  | 52.9 | 53.7 |
+| 43 min | USD | Moderate | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
+| 43 min | USD | High | Existing Home Sales (May) |  | 3.96M | 4.00M |
+| 43 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.155% |
