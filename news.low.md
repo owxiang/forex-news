@@ -1,38 +1,34 @@
-## 23 June 2025 - Low Impact Forex News
+## 24 June 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Manufacturing PMI (Jun) | 51.0 |  | 51.0 |
-| 00:00 | AUD | Judo Bank Services PMI (Jun) | 51.3 |  | 50.6 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jun) | 50.4 | 49.5 | 49.4 |
-| 05:00 | IDR | M2 Money Supply (YoY) (May) | 4.90% |  | 5.20% |
-| 06:00 | INR | S&P Global Manufacturing PMI (Jun) | 58.4 | 57.7 | 57.6 |
-| 06:00 | INR | S&P Global Services PMI (Jun) | 60.7 | 58.6 | 58.8 |
-| 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | -0.30% |
-| 08:00 | CHF | M3 Money Supply (May) | 1,175.2B |  | 1,179.1B |
-| 08:15 | EUR | HCOB France Composite PMI (Jun) | 48.5 | 49.3 | 49.3 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 49.0 | 48.5 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:40 | EUR | Spanish Trade Balance (Apr) | -3.88B |  | -5.48B |
-| 13:00 | MXN | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.20% |
-| 13:00 | MXN | Economic Activity (YoY) (Apr) | -1.50% | -2.00% | 2.50% |
-| 13:00 | MXN | Retail Sales (YoY) (Apr) | -2.0% |  | 4.3% |
-| 13:00 | MXN | Retail Sales (MoM) (Apr) | -1.0% |  | 0.5% |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.932% |  | 1.940% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.951% |  | 1.948% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.932% |  | 1.953% |
-| 16:30 | USD | 3-Month Bill Auction | 4.195% |  | 4.240% |
-| 16:30 | USD | 6-Month Bill Auction | 4.120% |  | 4.155% |
-| 18:10 | USD | Fed Goolsbee Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions | 0.6K |  | 0.6K |
-| 20:30 | USD | CFTC Copper speculative net positions | 23.8K |  | 26.4K |
-| 20:30 | USD | CFTC Corn speculative net positions | -107.2K |  | -95.5K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -92.5K |  | -108.5K |
-| 20:30 | USD | CFTC Silver speculative net positions | 67.2K |  | 66.7K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | 85.2K |  | 70.4K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -84.6K |  | -93.9K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -66.3K |  | -93.1K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 58.0K |  | 62.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -1.3K |  | -21.3K |
-| 20:30 | NZD | CFTC NZD speculative net positions | -1.3K |  | -21.2K |
-| 22:00 | KRW | Consumer Confidence (Jun) | 108.7 |  | 101.8 |
+| 04:00 | NZD | Credit Card Spending (YoY) (May) |  |  | 0.5% |
+| 08:00 | ZAR | Leading Indicators (Apr) |  |  | 115.40% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.780% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -28 | -30 |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | BRL | FGV Consumer confidence (Jun) |  |  | 86.7 |
+| 12:30 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
+| 12:30 | INR | Current Account (USD) |  |  | -23.200B |
+| 13:00 | MXN | 1st Half-Month Core CPI (Jun) |  | 0.18% | 0.16% |
+| 13:00 | MXN | 1st Half-Month CPI (Jun) |  | 0.12% | 0.09% |
+| 13:30 | CAD | Common CPI (YoY) (May) |  |  | 2.5% |
+| 13:30 | CAD | CPI (YoY) (May) |  | 1.7% | 1.7% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  |  | -2.8% |
+| 13:30 | CAD | Median CPI (YoY) (May) |  | 3.0% | 3.2% |
+| 13:30 | CAD | Trimmed CPI (YoY) (May) |  | 3.0% | 3.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
+| 14:00 | USD | House Price Index (MoM) (Apr) |  | 0.1% | -0.1% |
+| 14:00 | USD | House Price Index (YoY) (Apr) |  |  | 3.7% |
+| 14:00 | USD | House Price Index (Apr) |  |  | 436.6 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.1% |
+| 15:00 | USD | Richmond Manufacturing Index (Jun) |  | -7 | -9 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Jun) |  |  | -10 |
+| 15:00 | USD | Richmond Services Index (Jun) |  |  | -11 |
+| 16:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 18:00 | USD | M2 Money Supply (MoM) (May) |  |  | 21.86T |
+| 19:05 | USD | Fed Collins Speaks |  |  |  |
+| 23:45 | NZD | Exports (May) |  |  | 7.84B |
+| 23:45 | NZD | Imports (May) |  |  | 6.42B |
+| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
+| 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -4,810M |
