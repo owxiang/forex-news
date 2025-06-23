@@ -14,10 +14,10 @@
 | 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 49.0 | 48.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:40 | EUR | Spanish Trade Balance (Apr) | -3.88B |  | -5.48B |
-| 13:00 | MXN | Economic Activity (YoY) (Apr) | -1.50% | -2.00% | 2.50% |
 | 13:00 | MXN | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.20% |
-| 13:00 | MXN | Retail Sales (MoM) (Apr) | -1.0% |  | 0.5% |
+| 13:00 | MXN | Economic Activity (YoY) (Apr) | -1.50% | -2.00% | 2.50% |
 | 13:00 | MXN | Retail Sales (YoY) (Apr) | -2.0% |  | 4.3% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) | -1.0% |  | 0.5% |
 | 14:00 | EUR | French 12-Month BTF Auction | 1.932% |  | 1.940% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.951% |  | 1.948% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.932% |  | 1.953% |
@@ -35,4 +35,4 @@
 | 20:30 | MXN | CFTC MXN speculative net positions | 58.0K |  | 62.7K |
 | 20:30 | CHF | CFTC CHF speculative net positions | -1.3K |  | -21.3K |
 | 20:30 | NZD | CFTC NZD speculative net positions | -1.3K |  | -21.2K |
-| 52 min | KRW | Consumer Confidence (Jun) |  |  | 101.8 |
+| 22:00 | KRW | Consumer Confidence (Jun) | 108.7 |  | 101.8 |
