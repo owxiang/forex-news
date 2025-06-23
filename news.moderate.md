@@ -20,7 +20,7 @@
 | 14:45 | USD | S&P Global Composite PMI (Jun) | 52.8 | 52.2 | 53.0 |
 | 15:00 | USD | Existing Home Sales (MoM) (May) | 0.8% | -1.3% | -0.5% |
 | 15:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 52 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 51.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 191.9K |
