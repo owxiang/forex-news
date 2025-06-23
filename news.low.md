@@ -5,7 +5,7 @@
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Jun) | 51.0 |  | 51.0 |
 | 00:00 | AUD | Judo Bank Services PMI (Jun) | 51.3 |  | 50.6 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jun) | 50.4 | 49.5 | 49.4 |
-| 05:00 | IDR | M2 Money Supply (YoY) (May) |  |  | 5.20% |
+| 26 min | IDR | M2 Money Supply (YoY) (May) | 4.90% |  | 5.20% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jun) |  |  | 57.6 |
 | 06:00 | INR | S&P Global Services PMI (Jun) |  |  | 58.8 |
 | 06:00 | SGD | CPI (MoM) (May) |  |  | -0.30% |
