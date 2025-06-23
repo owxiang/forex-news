@@ -12,17 +12,15 @@
 | 08:00 | CHF | M3 Money Supply (May) | 1,175.2B |  | 1,179.1B |
 | 08:15 | EUR | HCOB France Composite PMI (Jun) | 48.5 | 49.3 | 49.3 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 49.0 | 48.5 |
-| 19 min | BRL | BCB Focus Market Readout |  |  |  |
-| 24 min | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
-| 24 min | INR | Current Account (USD) |  |  | -23.200B |
-| 24 min | EUR | Spanish Trade Balance (Apr) |  |  | -5.48B |
-| 54 min | MXN | Economic Activity (MoM) (Apr) |  | 0.20% | -0.40% |
-| 54 min | MXN | Economic Activity (YoY) (Apr) |  | -2.00% | 2.50% |
-| 54 min | MXN | Retail Sales (MoM) (Apr) |  |  | 0.5% |
-| 54 min | MXN | Retail Sales (YoY) (Apr) |  |  | 4.3% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.940% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.948% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.953% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:40 | EUR | Spanish Trade Balance (Apr) | -3.88B |  | -5.48B |
+| 13:00 | MXN | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.40% |
+| 13:00 | MXN | Economic Activity (YoY) (Apr) | -1.50% | -2.00% | 2.50% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) | -1.0% |  | 0.5% |
+| 13:00 | MXN | Retail Sales (YoY) (Apr) | -2.0% |  | 4.3% |
+| 48 min | EUR | French 12-Month BTF Auction |  |  | 1.940% |
+| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.948% |
+| 48 min | EUR | French 6-Month BTF Auction |  |  | 1.953% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.155% |
 | 18:10 | USD | Fed Goolsbee Speaks |  |  |  |

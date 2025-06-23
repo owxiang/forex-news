@@ -26,18 +26,16 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) | 50.7 | 50.5 | 50.3 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) | 47.7 | 46.9 | 46.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) | 51.3 | 51.2 | 50.9 |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 24 min | INR | Low | Current Account % of GDP (YoY) |  |  | -0.70% |
-| 24 min | INR | Low | Current Account (USD) |  |  | -23.200B |
-| 24 min | EUR | Low | Spanish Trade Balance (Apr) |  |  | -5.48B |
-| 54 min | MXN | Low | Economic Activity (MoM) (Apr) |  | 0.20% | -0.40% |
-| 54 min | MXN | Low | Economic Activity (YoY) (Apr) |  | -2.00% | 2.50% |
-| 54 min | MXN | Low | Retail Sales (MoM) (Apr) |  |  | 0.5% |
-| 54 min | MXN | Low | Retail Sales (YoY) (Apr) |  |  | 4.3% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.940% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.948% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.953% |
-| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:40 | EUR | Low | Spanish Trade Balance (Apr) | -3.88B |  | -5.48B |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) | 0.50% | 0.20% | -0.40% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) | -1.50% | -2.00% | 2.50% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Apr) | -1.0% |  | 0.5% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) | -2.0% |  | 4.3% |
+| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.940% |
+| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.948% |
+| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.953% |
+| 48 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) |  | 51.1 | 52.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 53.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 52.9 | 53.7 |
