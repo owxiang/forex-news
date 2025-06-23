@@ -6,20 +6,20 @@
 | 00:00 | AUD | Judo Bank Services PMI (Jun) | 51.3 |  | 50.6 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jun) | 50.4 | 49.5 | 49.4 |
 | 05:00 | IDR | M2 Money Supply (YoY) (May) | 4.90% |  | 5.20% |
-| 43 min | INR | S&P Global Manufacturing PMI (Jun) |  |  | 57.6 |
-| 43 min | INR | S&P Global Services PMI (Jun) |  |  | 58.8 |
-| 43 min | SGD | CPI (MoM) (May) |  |  | -0.30% |
+| 06:00 | INR | S&P Global Manufacturing PMI (Jun) | 58.4 | 57.7 | 57.6 |
+| 06:00 | INR | S&P Global Services PMI (Jun) | 60.7 | 58.6 | 58.8 |
+| 06:00 | SGD | CPI (MoM) (May) |  |  | -0.30% |
 | 08:00 | CHF | M3 Money Supply (May) |  |  | 1,176.8B |
-| 08:15 | EUR | HCOB France Composite PMI (Jun) |  |  | 49.3 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  |  | 48.5 |
+| 08:15 | EUR | HCOB France Composite PMI (Jun) |  | 49.3 | 49.3 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  | 49.0 | 48.5 |
 | 09:00 | EUR | Spanish Trade Balance (Apr) |  |  | -5.48B |
 | 12:00 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
 | 12:00 | INR | Current Account (USD) |  |  | -23.200B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Apr) |  |  | 2.50% |
-| 13:00 | MXN | Economic Activity (MoM) (Apr) |  |  | -0.40% |
-| 13:00 | MXN | Retail Sales (MoM) (Apr) |  |  | 0.5% |
+| 13:00 | MXN | Economic Activity (MoM) (Apr) |  | 0.20% | -0.40% |
+| 13:00 | MXN | Economic Activity (YoY) (Apr) |  | -2.00% | 2.50% |
 | 13:00 | MXN | Retail Sales (YoY) (Apr) |  |  | 4.3% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) |  |  | 0.5% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.940% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.948% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.953% |
