@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (Jun) | 51.5 |  | 51.0 |
-| 06:00 | SGD | Core CPI (YoY) (May) |  |  | 0.70% |
-| 06:00 | SGD | CPI (YoY) (May) |  |  | 0.9% |
+| 43 min | SGD | Core CPI (YoY) (May) |  |  | 0.70% |
+| 43 min | SGD | CPI (YoY) (May) |  |  | 0.9% |
 | 08:00 | USD | Fed Waller Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Jun) |  | 49.8 | 49.8 |
 | 08:15 | EUR | HCOB France Services PMI (Jun) |  | 49.2 | 48.9 |
