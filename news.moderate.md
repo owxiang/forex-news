@@ -6,16 +6,16 @@
 | 06:00 | SGD | Core CPI (YoY) (May) | 0.60% | 0.60% | 0.70% |
 | 06:00 | SGD | CPI (YoY) (May) | 0.8% | 0.8% | 0.9% |
 | 08:00 | USD | Fed Waller Speaks |  |  |  |
-| 7 min | EUR | HCOB France Manufacturing PMI (Jun) |  | 49.8 | 49.8 |
-| 7 min | EUR | HCOB France Services PMI (Jun) |  | 49.2 | 48.9 |
-| 22 min | EUR | HCOB Germany Manufacturing PMI (Jun) |  | 48.9 | 48.3 |
-| 22 min | EUR | HCOB Germany Services PMI (Jun) |  | 47.8 | 47.1 |
-| 52 min | EUR | HCOB Eurozone Manufacturing PMI (Jun) |  | 49.6 | 49.4 |
-| 52 min | EUR | HCOB Eurozone Composite PMI (Jun) |  | 50.5 | 50.2 |
-| 52 min | EUR | HCOB Eurozone Services PMI (Jun) |  | 50.0 | 49.7 |
-| 09:30 | GBP | S&P Global Composite PMI (Jun) |  | 50.5 | 50.3 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Jun) |  | 46.9 | 46.4 |
-| 09:30 | GBP | S&P Global Services PMI (Jun) |  | 51.2 | 50.9 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Jun) | 47.8 | 49.8 | 49.8 |
+| 08:15 | EUR | HCOB France Services PMI (Jun) | 48.7 | 49.2 | 48.9 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Jun) | 49.0 | 48.9 | 48.3 |
+| 08:30 | EUR | HCOB Germany Services PMI (Jun) | 49.4 | 47.8 | 47.1 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) | 49.4 | 49.6 | 49.4 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jun) | 50.2 | 50.5 | 50.2 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jun) | 50.0 | 50.0 | 49.7 |
+| 20 min | GBP | S&P Global Composite PMI (Jun) |  | 50.5 | 50.3 |
+| 20 min | GBP | S&P Global Manufacturing PMI (Jun) |  | 46.9 | 46.4 |
+| 20 min | GBP | S&P Global Services PMI (Jun) |  | 51.2 | 50.9 |
 | 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jun) |  |  | 53.0 |
 | 15:00 | USD | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |

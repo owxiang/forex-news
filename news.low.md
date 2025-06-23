@@ -10,9 +10,9 @@
 | 06:00 | INR | S&P Global Services PMI (Jun) | 60.7 | 58.6 | 58.8 |
 | 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | -0.30% |
 | 08:00 | CHF | M3 Money Supply (May) | 1,175.2B |  | 1,179.1B |
-| 7 min | EUR | HCOB France Composite PMI (Jun) |  | 49.3 | 49.3 |
-| 22 min | EUR | HCOB Germany Composite PMI (Jun) |  | 49.0 | 48.5 |
-| 52 min | EUR | Spanish Trade Balance (Apr) |  |  | -5.48B |
+| 08:15 | EUR | HCOB France Composite PMI (Jun) | 48.5 | 49.3 | 49.3 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 49.0 | 48.5 |
+| 20 min | EUR | Spanish Trade Balance (Apr) |  |  | -5.48B |
 | 12:00 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
 | 12:00 | INR | Current Account (USD) |  |  | -23.200B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
