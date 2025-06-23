@@ -41,8 +41,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) |  | 51.1 | 52.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 53.0 |
 | 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 52.9 | 53.7 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
 | 15:00 | USD | High | Existing Home Sales (May) |  | 3.96M | 4.00M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
 | 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
