@@ -36,13 +36,13 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.951% |  | 1.948% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.932% |  | 1.953% |
 | 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 28 min | USD | High | S&P Global Manufacturing PMI (Jun) |  | 51.1 | 52.0 |
-| 28 min | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 53.0 |
-| 28 min | USD | High | S&P Global Services PMI (Jun) |  | 52.9 | 53.7 |
-| 43 min | USD | Moderate | Existing Home Sales (MoM) (May) |  | -1.3% | -0.5% |
-| 43 min | USD | High | Existing Home Sales (May) |  | 3.96M | 4.00M |
-| 43 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) | 52.0 | 51.1 | 52.0 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) | 52.8 | 52.2 | 53.0 |
+| 14:45 | USD | High | S&P Global Services PMI (Jun) | 53.1 | 52.9 | 53.7 |
+| 15:00 | USD | High | Existing Home Sales (May) | 4.03M | 3.96M | 4.00M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) | 0.8% | -1.3% | -0.5% |
+| 15:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.155% |
 | 18:10 | USD | Low | Fed Goolsbee Speaks |  |  |  |
