@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Services PMI (Jun) |  |  | 51.0 |
+| 01:30 | JPY | au Jibun Bank Services PMI (Jun) | 51.5 |  | 51.0 |
 | 06:00 | SGD | Core CPI (YoY) (May) |  |  | 0.70% |
 | 06:00 | SGD | CPI (YoY) (May) |  |  | 0.9% |
 | 08:00 | USD | Fed Waller Speaks |  |  |  |
