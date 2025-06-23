@@ -12,9 +12,9 @@
 | 08:00 | CHF | M3 Money Supply (May) | 1,175.2B |  | 1,179.1B |
 | 08:15 | EUR | HCOB France Composite PMI (Jun) | 48.5 | 49.3 | 49.3 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 49.0 | 48.5 |
-| 12:00 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
-| 12:00 | INR | Current Account (USD) |  |  | -23.200B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:30 | INR | Current Account % of GDP (YoY) |  |  | -0.70% |
+| 12:30 | INR | Current Account (USD) |  |  | -23.200B |
 | 12:30 | EUR | Spanish Trade Balance (Apr) |  |  | -5.48B |
 | 13:00 | MXN | Economic Activity (MoM) (Apr) |  | 0.20% | -0.40% |
 | 13:00 | MXN | Economic Activity (YoY) (Apr) |  | -2.00% | 2.50% |

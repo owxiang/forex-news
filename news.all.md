@@ -26,9 +26,9 @@
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) | 50.7 | 50.5 | 50.3 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jun) | 47.7 | 46.9 | 46.4 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) | 51.3 | 51.2 | 50.9 |
-| 12:00 | INR | Low | Current Account % of GDP (YoY) |  |  | -0.70% |
-| 12:00 | INR | Low | Current Account (USD) |  |  | -23.200B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | INR | Low | Current Account % of GDP (YoY) |  |  | -0.70% |
+| 12:30 | INR | Low | Current Account (USD) |  |  | -23.200B |
 | 12:30 | EUR | Low | Spanish Trade Balance (Apr) |  |  | -5.48B |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  | 0.20% | -0.40% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | -2.00% | 2.50% |
