@@ -23,10 +23,10 @@
 | 15:00 | USD | Richmond Manufacturing Index (Jun) | -7 | -10 | -9 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jun) | -3 |  | -10 |
 | 15:00 | USD | Richmond Services Index (Jun) | -4 |  | -11 |
-| 43 min | GBP | BoE Breeden Speaks |  |  |  |
-| 18:00 | USD | M2 Money Supply (MoM) (May) |  |  | 21.86T |
+| 16:50 | GBP | BoE Breeden Speaks |  |  |  |
+| 52 min | USD | M2 Money Supply (MoM) (May) |  |  | 21.86T |
 | 19:05 | USD | Fed Collins Speaks |  |  |  |
 | 23:45 | NZD | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
 | 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -4,810M |
+| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
