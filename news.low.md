@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 04:00 | NZD | Credit Card Spending (YoY) (May) | 2.2% |  | 0.5% |
 | 08:00 | ZAR | Leading Indicators (Apr) | 112.80% |  | 113.16% |
-| 22 min | EUR | German 2-Year Schatz Auction |  |  | 1.780% |
-| 52 min | GBP | CBI Industrial Trends Orders (Jun) |  | -28 | -30 |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | FGV Consumer confidence (Jun) |  |  | 86.7 |
+| 10:30 | EUR | German 2-Year Schatz Auction | 1.850% |  | 1.780% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jun) | -33 | -28 | -30 |
+| 52 min | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 52 min | BRL | FGV Consumer confidence (Jun) |  |  | 86.7 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Jun) |  | 0.18% | 0.16% |
 | 13:00 | MXN | 1st Half-Month CPI (Jun) |  | 0.12% | 0.09% |
 | 13:30 | CAD | Common CPI (YoY) (May) |  | 2.4% | 2.5% |
@@ -28,5 +28,5 @@
 | 19:05 | USD | Fed Collins Speaks |  |  |  |
 | 23:45 | NZD | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
 | 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -4,810M |
+| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
