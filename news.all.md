@@ -28,8 +28,8 @@
 | 13:30 | CAD | Low | Median CPI (YoY) (May) |  | 3.0% | 3.2% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) |  | 3.0% | 3.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
-| 14:00 | USD | Low | House Price Index (MoM) (Apr) |  | 0.1% | -0.1% |
 | 14:00 | USD | Low | House Price Index (YoY) (Apr) |  |  | 3.7% |
+| 14:00 | USD | Low | House Price Index (MoM) (Apr) |  | 0.1% | -0.1% |
 | 14:00 | USD | Low | House Price Index (Apr) |  |  | 436.6 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.1% |
