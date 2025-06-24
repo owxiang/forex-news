@@ -8,18 +8,18 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) | -33 | -28 | -30 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | FGV Consumer confidence (Jun) | 85.9 |  | 86.7 |
-| 53 min | MXN | 1st Half-Month Core CPI (Jun) |  | 0.18% | 0.16% |
-| 53 min | MXN | 1st Half-Month CPI (Jun) |  | 0.12% | 0.09% |
-| 13:30 | CAD | Common CPI (YoY) (May) |  | 2.4% | 2.5% |
-| 13:30 | CAD | CPI (YoY) (May) |  | 1.7% | 1.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  |  | -2.8% |
-| 13:30 | CAD | Median CPI (YoY) (May) |  | 3.0% | 3.2% |
-| 13:30 | CAD | Trimmed CPI (YoY) (May) |  | 3.0% | 3.1% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
-| 14:00 | USD | House Price Index (YoY) (Apr) |  |  | 3.7% |
-| 14:00 | USD | House Price Index (MoM) (Apr) |  | 0.1% | -0.1% |
-| 14:00 | USD | House Price Index (Apr) |  |  | 436.6 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.1% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Jun) | 0.22% | 0.18% | 0.16% |
+| 13:00 | MXN | 1st Half-Month CPI (Jun) | 0.10% | 0.12% | 0.09% |
+| 18 min | CAD | Common CPI (YoY) (May) |  | 2.4% | 2.5% |
+| 18 min | CAD | CPI (YoY) (May) |  | 1.7% | 1.7% |
+| 18 min | CAD | Manufacturing Sales (MoM) (May) |  |  | -2.8% |
+| 18 min | CAD | Median CPI (YoY) (May) |  | 3.0% | 3.2% |
+| 18 min | CAD | Trimmed CPI (YoY) (May) |  | 3.0% | 3.1% |
+| 43 min | USD | Redbook (YoY) |  |  | 5.2% |
+| 48 min | USD | House Price Index (YoY) (Apr) |  |  | 3.7% |
+| 48 min | USD | House Price Index (MoM) (Apr) |  | 0.1% | -0.1% |
+| 48 min | USD | House Price Index (Apr) |  |  | 436.6 |
+| 48 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | -0.1% |
 | 15:00 | USD | Richmond Manufacturing Index (Jun) |  | -10 | -9 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jun) |  |  | -10 |
 | 15:00 | USD | Richmond Services Index (Jun) |  |  | -11 |
@@ -28,5 +28,5 @@
 | 19:05 | USD | Fed Collins Speaks |  |  |  |
 | 23:45 | NZD | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
 | 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -4,810M |
+| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |

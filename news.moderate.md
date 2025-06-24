@@ -8,14 +8,14 @@
 | 09:00 | EUR | German Current Assessment (Jun) | 86.2 | 86.5 | 86.1 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jun) | 88.4 | 88.1 | 87.5 |
 | 10:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 8 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | Current Account (Q1) |  | -448.0B | -303.9B |
-| 13:30 | CAD | Core CPI (YoY) (May) |  |  | 2.5% |
-| 13:30 | CAD | Core CPI (MoM) (May) |  |  | 0.5% |
-| 13:30 | CAD | CPI (MoM) (May) |  | 0.5% | -0.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.1% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 4.0% | 4.1% |
-| 14:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 12:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 18 min | USD | Current Account (Q1) |  | -448.0B | -303.9B |
+| 18 min | CAD | Core CPI (MoM) (May) |  |  | 0.5% |
+| 18 min | CAD | Core CPI (YoY) (May) |  |  | 2.5% |
+| 18 min | CAD | CPI (MoM) (May) |  | 0.5% | -0.1% |
+| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.1% |
+| 48 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 4.0% | 4.1% |
+| 48 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 14:35 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 14:55 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
