@@ -19,10 +19,10 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jun) | 0.10% | 0.12% | 0.09% |
 | 13:30 | USD | Moderate | Current Account (Q1) | -450.2B | -448.0B | -312.0B |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.6% | 2.4% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% |  | 0.5% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 2.5% |  | 2.5% |
-| 13:30 | CAD | Low | CPI (YoY) (May) | 1.7% | 1.7% | 1.7% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% |  | 0.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.5% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (May) | 1.7% | 1.7% | 1.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | -1.3% |  | -2.8% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
@@ -42,9 +42,9 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jun) | -7 | -10 | -9 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) | -3 |  | -10 |
 | 15:00 | USD | Low | Richmond Services Index (Jun) | -4 |  | -11 |
-| 16:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 16:50 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 3.955% |
+| 33 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 43 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 53 min | USD | Moderate | 2-Year Note Auction |  |  | 3.955% |
 | 17:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (May) |  |  | 21.86T |
 | 19:05 | USD | Low | Fed Collins Speaks |  |  |  |
@@ -52,5 +52,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -10.133M |
 | 23:45 | NZD | Low | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
