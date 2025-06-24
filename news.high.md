@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (Jun) |  | 99.4 | 98.0 |
-| 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
+| 44 min | USD | CB Consumer Confidence (Jun) |  | 99.4 | 98.0 |
+| 44 min | USD | Fed Chair Powell Testifies |  |  |  |
