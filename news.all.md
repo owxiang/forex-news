@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (May) |  |  | 0.5% |
+| 22 min | NZD | Low | Credit Card Spending (YoY) (May) |  |  | 0.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.4% |
 | 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 115.40% |
 | 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 90.0 | 88.9 |
@@ -22,8 +22,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  |  | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 2.5% |
-| 13:30 | CAD | Low | CPI (YoY) (May) |  | 1.7% | 1.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) |  | 0.5% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (May) |  | 1.7% | 1.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  |  | -2.8% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) |  | 3.0% | 3.2% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) |  | 3.0% | 3.1% |

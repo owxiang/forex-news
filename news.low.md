@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | NZD | Credit Card Spending (YoY) (May) |  |  | 0.5% |
+| 22 min | NZD | Credit Card Spending (YoY) (May) |  |  | 0.5% |
 | 08:00 | ZAR | Leading Indicators (Apr) |  |  | 115.40% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.780% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -28 | -30 |
