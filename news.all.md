@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (May) | 2.2% |  | 0.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.5% | 2.5% | 2.4% |
-| 50 min | ZAR | Low | Leading Indicators (Apr) |  |  | 115.40% |
-| 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 90.0 | 88.9 |
-| 09:00 | EUR | Moderate | German Current Assessment (Jun) |  | 86.5 | 86.1 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 88.1 | 87.5 |
+| 08:00 | ZAR | Low | Leading Indicators (Apr) | 112.80% |  | 113.20% |
+| 52 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 52 min | EUR | Moderate | German Business Expectations (Jun) |  | 90.0 | 88.9 |
+| 52 min | EUR | Moderate | German Current Assessment (Jun) |  | 86.5 | 86.1 |
+| 52 min | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 88.1 | 87.5 |
 | 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.780% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -28 | -30 |
@@ -52,5 +52,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -10.133M |
 | 23:45 | NZD | Low | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
