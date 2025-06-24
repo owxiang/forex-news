@@ -21,8 +21,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.6% | 2.4% | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% |  | 0.5% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 2.5% |  | 2.5% |
-| 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.5% | -0.1% |
 | 13:30 | CAD | Low | CPI (YoY) (May) | 1.7% | 1.7% | 1.7% |
+| 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.5% | -0.1% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | -1.3% |  | -2.8% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
@@ -49,8 +49,8 @@
 | 19:00 | USD | Low | M2 Money Supply (MoM) (May) | 21.94T |  | 21.86T |
 | 19:05 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -10.133M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.277M | -0.600M | -10.133M |
 | 23:45 | NZD | Low | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |

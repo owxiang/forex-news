@@ -23,4 +23,4 @@
 | 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | 2-Year Note Auction | 3.786% |  | 3.955% |
 | 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22 min | USD | API Weekly Crude Oil Stock |  | -0.600M | -10.133M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -4.277M | -0.600M | -10.133M |
