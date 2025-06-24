@@ -1,56 +1,60 @@
-## 24 June 2025 - All Forex News
+## 25 June 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (May) | 2.2% |  | 0.5% |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.5% | 2.5% | 2.4% |
-| 08:00 | ZAR | Low | Leading Indicators (Apr) | 112.80% |  | 113.16% |
-| 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Business Expectations (Jun) | 90.7 | 90.0 | 89.0 |
-| 09:00 | EUR | Moderate | German Current Assessment (Jun) | 86.2 | 86.5 | 86.1 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) | 88.4 | 88.1 | 87.5 |
-| 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction | 1.850% |  | 1.780% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) | -33 | -28 | -30 |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:00 | BRL | Low | FGV Consumer confidence (Jun) | 85.9 |  | 86.7 |
-| 12:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) | 0.22% | 0.18% | 0.16% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Jun) | 0.10% | 0.12% | 0.09% |
-| 13:30 | USD | Moderate | Current Account (Q1) | -450.2B | -448.0B | -312.0B |
-| 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.6% | 2.4% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 2.5% |  | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% |  | 0.5% |
-| 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.5% | -0.1% |
-| 13:30 | CAD | Low | CPI (YoY) (May) | 1.7% | 1.7% | 1.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | -1.3% |  | -2.8% |
-| 13:30 | CAD | Low | Median CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
-| 13:55 | USD | Low | Redbook (YoY) | 4.5% |  | 5.2% |
-| 14:00 | USD | Low | House Price Index (YoY) (Apr) | 3.0% |  | 3.9% |
-| 14:00 | USD | Low | House Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
-| 14:00 | USD | Low | House Price Index (Apr) | 434.9 |  | 436.7 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | -0.3% |  | -0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 0.8% |  | 1.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 3.4% | 4.0% | 4.1% |
-| 14:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:35 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 14:55 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15:00 | USD | High | CB Consumer Confidence (Jun) | 93.0 | 99.4 | 98.4 |
+| 43 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 43 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.1% | 3.1% |
+| 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) |  | 2.30% | 2.40% |
+| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
+| 05:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -66.3% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -19.2% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 2.7% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -4.2% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -5.6% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -9.8% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  | -0.3% | -1.4% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  | -4.2% | -0.1% |
+| 06:00 | JPY | Low | Leading Index (Apr) |  | 103.4 | 108.1 |
+| 07:00 | NOK | Low | M3 Money Supply (May) |  |  | 3,319.1B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (May) |  |  | 4.1% |
+| 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 89 | 88 |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.8% | 2.8% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.6% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (May) |  |  | 1.9% |
+| 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | -22.0 |
+| 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.917% |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 2.010% |
+| 11:00 | EUR | Moderate | France Jobseekers Total (May) |  |  | 3,013.0K |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.84% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.6% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 165.8 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 248.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 692.4 |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
+| 12:30 | BRL | Low | Current Account (USD) (May) |  | -2.80B | -1.35B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
+| 13:30 | USD | Moderate | Building Permits (May) |  | 1.393M | 1.422M |
+| 13:30 | USD | Low | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
+| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jun) | -7 | -10 | -9 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) | -3 |  | -10 |
-| 15:00 | USD | Low | Richmond Services Index (Jun) | -4 |  | -11 |
-| 16:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 16:50 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 19:00 | USD | Moderate | 2-Year Note Auction | 3.786% |  | 3.955% |
-| 19:00 | USD | Low | M2 Money Supply (MoM) (May) | 21.94T |  | 21.86T |
-| 19:05 | USD | Low | Fed Collins Speaks |  |  |  |
-| 21:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.277M | -0.600M | -10.133M |
-| 38 min | NZD | Low | Exports (May) |  |  | 7.84B |
-| 38 min | NZD | Low | Imports (May) |  |  | 6.42B |
-| 38 min | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
-| 38 min | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | 10.9% |
+| 15:00 | USD | High | New Home Sales (May) |  | 694K | 743K |
+| 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  | -0.600M | -11.473M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.747M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.995M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.077M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.700M | 0.514M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.386M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.152M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.1% |
+| 15:30 | USD | Low | Gasoline Inventories |  | -0.500M | 0.209M |
+| 15:30 | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
+| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
+| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.071% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.092B |
+| 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 73 |

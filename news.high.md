@@ -1,6 +1,7 @@
-## 24 June 2025 - High Impact Forex News
+## 25 June 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (Jun) | 93.0 | 99.4 | 98.4 |
 | 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
+| 15:00 | USD | New Home Sales (May) |  | 694K | 743K |
+| 15:30 | USD | Crude Oil Inventories |  | -0.600M | -11.473M |
