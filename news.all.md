@@ -9,9 +9,9 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jun) | 90.7 | 90.0 | 89.0 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jun) | 86.2 | 86.5 | 86.1 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) | 88.4 | 88.1 | 87.5 |
-| 51 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.780% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -28 | -30 |
+| 10:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 22 min | EUR | Low | German 2-Year Schatz Auction |  |  | 1.780% |
+| 52 min | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -28 | -30 |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jun) |  |  | 86.7 |
 | 12:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -21,8 +21,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.4% | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 2.5% |
-| 13:30 | CAD | Low | CPI (YoY) (May) |  | 1.7% | 1.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) |  | 0.5% | -0.1% |
+| 13:30 | CAD | Low | CPI (YoY) (May) |  | 1.7% | 1.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  |  | -2.8% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) |  | 3.0% | 3.2% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) |  | 3.0% | 3.1% |
@@ -52,5 +52,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -10.133M |
 | 23:45 | NZD | Low | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |

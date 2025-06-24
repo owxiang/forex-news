@@ -7,7 +7,7 @@
 | 09:00 | EUR | German Business Expectations (Jun) | 90.7 | 90.0 | 89.0 |
 | 09:00 | EUR | German Current Assessment (Jun) | 86.2 | 86.5 | 86.1 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jun) | 88.4 | 88.1 | 87.5 |
-| 51 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 10:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Current Account (Q1) |  | -448.0B | -303.9B |
 | 13:30 | CAD | Core CPI (MoM) (May) |  |  | 0.5% |
