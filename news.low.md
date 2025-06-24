@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | NZD | Credit Card Spending (YoY) (May) | 2.2% |  | 0.5% |
-| 08:00 | ZAR | Leading Indicators (Apr) |  |  | 115.40% |
+| 50 min | ZAR | Leading Indicators (Apr) |  |  | 115.40% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.780% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -28 | -30 |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
@@ -28,5 +28,5 @@
 | 19:05 | USD | Fed Collins Speaks |  |  |  |
 | 23:45 | NZD | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
 | 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -4,810M |
+| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |

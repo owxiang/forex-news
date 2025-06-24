@@ -10,8 +10,8 @@
 | 10:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Current Account (Q1) |  | -448.0B | -303.9B |
-| 13:30 | CAD | Core CPI (YoY) (May) |  |  | 2.5% |
 | 13:30 | CAD | Core CPI (MoM) (May) |  |  | 0.5% |
+| 13:30 | CAD | Core CPI (YoY) (May) |  |  | 2.5% |
 | 13:30 | CAD | CPI (MoM) (May) |  | 0.5% | -0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 4.0% | 4.1% |

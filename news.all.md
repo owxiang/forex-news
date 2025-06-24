@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (May) | 2.2% |  | 0.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.5% | 2.5% | 2.4% |
-| 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 115.40% |
+| 50 min | ZAR | Low | Leading Indicators (Apr) |  |  | 115.40% |
 | 09:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 90.0 | 88.9 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jun) |  | 86.5 | 86.1 |
@@ -19,8 +19,8 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jun) |  | 0.12% | 0.09% |
 | 13:30 | USD | Moderate | Current Account (Q1) |  | -448.0B | -303.9B |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.4% | 2.5% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  |  | 0.5% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 2.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) |  | 0.5% | -0.1% |
 | 13:30 | CAD | Low | CPI (YoY) (May) |  | 1.7% | 1.7% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  |  | -2.8% |
@@ -52,5 +52,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -10.133M |
 | 23:45 | NZD | Low | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -4,810M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
