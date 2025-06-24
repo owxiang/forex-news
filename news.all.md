@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 22 min | NZD | Low | Credit Card Spending (YoY) (May) |  |  | 0.5% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) (May) | 2.2% |  | 0.5% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.4% |
 | 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 115.40% |
 | 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 90.0 | 88.9 |
