@@ -48,8 +48,8 @@
 | 19:00 | USD | Moderate | 2-Year Note Auction | 3.786% |  | 3.955% |
 | 19:00 | USD | Low | M2 Money Supply (MoM) (May) | 21.94T |  | 21.86T |
 | 19:05 | USD | Low | Fed Collins Speaks |  |  |  |
-| 54 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -10.133M |
+| 21:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -10.133M |
 | 23:45 | NZD | Low | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.42B |
 | 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
