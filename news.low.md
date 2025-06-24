@@ -16,8 +16,8 @@
 | 13:30 | CAD | Median CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
 | 13:30 | CAD | Trimmed CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
 | 13:55 | USD | Redbook (YoY) | 4.5% |  | 5.2% |
-| 14:00 | USD | House Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
 | 14:00 | USD | House Price Index (YoY) (Apr) | 3.0% |  | 3.9% |
+| 14:00 | USD | House Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
 | 14:00 | USD | House Price Index (Apr) | 434.9 |  | 436.7 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | -0.3% |  | -0.2% |
 | 15:00 | USD | Richmond Manufacturing Index (Jun) | -7 | -10 | -9 |

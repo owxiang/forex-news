@@ -27,8 +27,8 @@
 | 13:30 | CAD | Low | Median CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 3.0% | 3.0% | 3.1% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.5% |  | 5.2% |
-| 14:00 | USD | Low | House Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
 | 14:00 | USD | Low | House Price Index (YoY) (Apr) | 3.0% |  | 3.9% |
+| 14:00 | USD | Low | House Price Index (MoM) (Apr) | -0.4% | 0.1% | 0.0% |
 | 14:00 | USD | Low | House Price Index (Apr) | 434.9 |  | 436.7 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | -0.3% |  | -0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 0.8% |  | 1.1% |
@@ -48,7 +48,7 @@
 | 19:00 | USD | Moderate | 2-Year Note Auction | 3.786% |  | 3.955% |
 | 19:00 | USD | Low | M2 Money Supply (MoM) (May) | 21.94T |  | 21.86T |
 | 19:05 | USD | Low | Fed Collins Speaks |  |  |  |
-| 21:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 54 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.600M | -10.133M |
 | 23:45 | NZD | Low | Exports (May) |  |  | 7.84B |
 | 23:45 | NZD | Low | Imports (May) |  |  | 6.42B |

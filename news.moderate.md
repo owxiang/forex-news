@@ -22,5 +22,5 @@
 | 16:40 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | 2-Year Note Auction | 3.786% |  | 3.955% |
-| 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 54 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.600M | -10.133M |
