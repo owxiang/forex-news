@@ -26,7 +26,7 @@
 | 16:50 | GBP | BoE Breeden Speaks |  |  |  |
 | 19:00 | USD | M2 Money Supply (MoM) (May) | 21.94T |  | 21.86T |
 | 19:05 | USD | Fed Collins Speaks |  |  |  |
-| 23:45 | NZD | Exports (May) |  |  | 7.84B |
-| 23:45 | NZD | Imports (May) |  |  | 6.42B |
-| 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -4,810M |
-| 23:45 | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
+| 38 min | NZD | Exports (May) |  |  | 7.84B |
+| 38 min | NZD | Imports (May) |  |  | 6.42B |
+| 38 min | NZD | Trade Balance (MoM) (May) |  | 1,060M | 1,426M |
+| 38 min | NZD | Trade Balance (YoY) (May) |  |  | -4,810M |
