@@ -17,11 +17,11 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
 | 06:00 | JPY | Leading Index (MoM) (Apr) | -3.4% | -4.2% | -0.1% |
 | 06:00 | JPY | Leading Index (Apr) | 104.2 | 103.4 | 108.1 |
-| 51 min | NOK | M3 Money Supply (May) |  |  | 3,319.1B |
-| 51 min | NOK | Credit Indicator (YoY) (May) |  |  | 4.1% |
-| 07:45 | EUR | French Consumer Confidence (Jun) |  | 89 | 88 |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 2.8% | 3.3% |
-| 08:00 | EUR | Spanish PPI (YoY) (May) |  |  | 1.9% |
+| 07:00 | NOK | M3 Money Supply (May) | 3,388.0B |  | 3,319.1B |
+| 07:00 | NOK | Credit Indicator (YoY) (May) | 4.1% |  | 4.1% |
+| 35 min | EUR | French Consumer Confidence (Jun) |  | 89 | 88 |
+| 50 min | EUR | Spanish GDP (YoY) (Q1) |  | 2.8% | 3.3% |
+| 50 min | EUR | Spanish PPI (YoY) (May) |  |  | 1.9% |
 | 09:00 | CHF | ZEW Expectations (Jun) |  |  | -22.0 |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.917% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.010% |

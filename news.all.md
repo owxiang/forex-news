@@ -17,12 +17,12 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -3.4% | -4.2% | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 104.2 | 103.4 | 108.1 |
-| 51 min | NOK | Low | M3 Money Supply (May) |  |  | 3,319.1B |
-| 51 min | NOK | Low | Credit Indicator (YoY) (May) |  |  | 4.1% |
-| 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 89 | 88 |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.8% | 3.3% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.7% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (May) |  |  | 1.9% |
+| 07:00 | NOK | Low | M3 Money Supply (May) | 3,388.0B |  | 3,319.1B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 4.1% |  | 4.1% |
+| 35 min | EUR | Low | French Consumer Confidence (Jun) |  | 89 | 88 |
+| 50 min | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.8% | 3.3% |
+| 50 min | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.7% |
+| 50 min | EUR | Low | Spanish PPI (YoY) (May) |  |  | 1.9% |
 | 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | -22.0 |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.917% |
