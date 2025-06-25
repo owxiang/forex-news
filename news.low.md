@@ -6,14 +6,14 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
-| 05:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 05:00 | GBP | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
+| 05:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
-| 05:00 | EUR | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 05:00 | EUR | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
+| 05:00 | EUR | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
 | 06:00 | JPY | Leading Index (MoM) (Apr) | -3.4% | -4.2% | -0.1% |
 | 06:00 | JPY | Leading Index (Apr) | 104.2 | 103.4 | 108.1 |
@@ -30,9 +30,10 @@
 | 12:00 | USD | MBA Purchase Index | 165.2 |  | 165.8 |
 | 12:00 | USD | Mortgage Market Index | 250.8 |  | 248.1 |
 | 12:00 | USD | Mortgage Refinance Index | 713.4 |  | 692.4 |
-| 18 min | USD | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
-| 18 min | INR | M3 Money Supply |  |  | 9.5% |
-| 48 min | CHF | SNB Quarterly Bulletin |  |  |  |
+| 12:30 | BRL | Current Account (USD) (May) | -2.93B | -2.80B | -1.35B |
+| 12:30 | BRL | Foreign direct investment (USD) (May) | 3.66B | 4.50B | 5.49B |
+| 13:30 | USD | Building Permits (MoM) (May) | -2.0% | -2.0% | -4.0% |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
 | 15:30 | USD | Crude Oil Imports |  |  | -1.747M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.077M |
@@ -43,7 +44,5 @@
 | 15:30 | USD | Gasoline Inventories |  | -0.500M | 0.209M |
 | 15:30 | BRL | Federal Tax Revenue (May) |  |  | 261.30B |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
-| 17:30 | BRL | Current Account (USD) (May) | -2.93B | -2.80B | -1.35B |
-| 17:30 | BRL | Foreign direct investment (USD) (May) | 3.66B | 4.50B | 5.49B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.092B |
 | 22:00 | KRW | Manufacturing BSI Index |  |  | 73 |
