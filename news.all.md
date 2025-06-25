@@ -6,14 +6,14 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
 | 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
-| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
-| 05:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -66.3% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -19.2% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 2.7% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -4.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -5.6% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -9.8% |
+| 30 min | GBP | Low | Car Registration (MoM) (May) |  |  | -66.3% |
+| 30 min | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
+| 30 min | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -19.2% |
+| 30 min | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 2.7% |
+| 30 min | EUR | Low | German Car Registration (MoM) (May) |  |  | -4.2% |
+| 30 min | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
+| 30 min | EUR | Low | French Car Registration (MoM) (May) |  |  | -9.8% |
+| 30 min | EUR | Low | French Car Registration (YoY) (May) |  |  | -5.6% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  | -0.3% | -1.4% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  | -4.2% | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) |  | 103.4 | 108.1 |
