@@ -6,8 +6,8 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
-| 05:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 05:00 | GBP | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
+| 05:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 05:00 | EUR | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
 | 05:00 | EUR | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
@@ -42,5 +42,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.716M |  | 0.152M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -1.1% |
 | 15:30 | USD | Gasoline Inventories | -2.075M | -0.500M | 0.209M |
-| 23 min | BRL | Foreign Exchange Flows |  |  | -0.092B |
+| 18:30 | BRL | Foreign Exchange Flows | -1.787B |  | -0.092B |
 | 22:00 | KRW | Manufacturing BSI Index |  |  | 73 |
