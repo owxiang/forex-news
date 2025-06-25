@@ -1,57 +1,68 @@
-## 25 June 2025 - All Forex News
+## 26 June 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
-| 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
-| 05:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 05:00 | GBP | Low | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -3.4% | -4.2% | -0.1% |
-| 06:00 | JPY | Low | Leading Index (Apr) | 104.2 | 103.4 | 108.1 |
-| 07:00 | NOK | Low | M3 Money Supply (May) | 3,388.0B |  | 3,319.1B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 4.1% |  | 4.1% |
-| 07:45 | EUR | Low | French Consumer Confidence (Jun) | 88 | 89 | 88 |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.8% | 2.8% | 3.3% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.7% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) (May) | 1.9% |  | 1.9% |
-| 09:00 | CHF | Low | ZEW Expectations (Jun) | -2.1 |  | -22.0 |
-| 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.850% |  | 4.917% |
-| 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.120% |  | 2.010% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (May) | 3,002.0K |  | 3,013.0K |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.88% |  | 6.84% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.1% |  | -2.6% |
-| 12:00 | USD | Low | MBA Purchase Index | 165.2 |  | 165.8 |
-| 12:00 | USD | Low | Mortgage Market Index | 250.8 |  | 248.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 713.4 |  | 692.4 |
-| 12:30 | BRL | Low | Current Account (USD) (May) | -2.93B | -2.80B | -1.35B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (May) | 3.66B | 4.50B | 5.49B |
-| 13:30 | USD | Low | Building Permits (MoM) (May) | -2.0% | -2.0% | -4.0% |
-| 13:30 | USD | Moderate | Building Permits (May) | 1.394M | 1.393M | 1.422M |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | High | New Home Sales (May) | 623K | 694K | 722K |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (May) | -13.7% |  | 9.6% |
-| 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories | -5.836M | -1.200M | -11.473M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.125M |  | -0.364M |
-| 15:30 | USD | Low | Crude Oil Imports | 0.531M |  | -1.747M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.464M |  | -0.995M |
-| 15:30 | USD | Low | Distillate Fuel Production | -0.185M |  | 0.077M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -4.066M | 0.700M | 0.514M |
-| 15:30 | USD | Low | Gasoline Production | 0.008M |  | 0.386M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | -0.716M |  | 0.152M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -1.1% |
-| 15:30 | USD | Low | Gasoline Inventories | -2.075M | -0.500M | 0.209M |
-| 18:00 | USD | Moderate | 5-Year Note Auction | 3.879% |  | 4.071% |
-| 18:30 | BRL | Low | Foreign Exchange Flows | -1.787B |  | -0.092B |
-| 22:00 | KRW | Low | Manufacturing BSI Index | 70 |  | 73 |
+| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 1,571.3B |
+| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 473.4B |
+| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.752% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | -2.5% | 5.3% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 2.6% | 5.9% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
+| 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.3% |
+| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:30 | HKD | Low | Exports (MoM) (May) |  |  | 14.7% |
+| 09:30 | HKD | Low | Imports (MoM) (May) |  |  | 15.8% |
+| 09:30 | HKD | Low | Trade Balance (May) |  |  | -16.0B |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.981% |
+| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 0.5% |
+| 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
+| 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 12:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
+| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | MXN | Low | Trade Balance (May) |  | 0.370B | -0.088B |
+| 13:00 | MXN | Low | Trade Balance (USD) (May) |  |  | 0.083B |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.30% | 0.36% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
+| 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.25 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,945K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.1% | 0.2% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.40% | 2.60% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | -3.6% | -0.4% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (May) |  | 8.6% | -6.3% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | -7.5% |
+| 13:30 | USD | Low | Durables Excluding Transport (MoM) (May) |  |  | 0.2% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) |  | -0.2% | 2.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.7% | 2.3% |
+| 13:30 | USD | Low | GDP Sales (Q1) |  | -2.9% | 3.3% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | -1.5% |
+| 13:30 | USD | Moderate | Goods Trade Balance (May) |  | -86.30B | -86.97B |
+| 13:30 | USD | High | Initial Jobless Claims |  | 244K | 245K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 245.50K |
+| 13:30 | USD | Low | PCE Prices (Q1) |  | 3.6% | 2.4% |
+| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 1.2% | 4.0% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (May) |  |  | 0.3% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.2% | 0.2% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) |  |  | 4.31% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  |  | -2.3% |
+| 13:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
+| 14:30 | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) |  | 0.2% | -6.3% |
+| 15:00 | USD | Low | Pending Home Sales Index (May) |  |  | 71.3 |
+| 15:30 | USD | Low | Natural Gas Storage |  | 88B | 95B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jun) |  |  | -3 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) |  |  | -10 |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.060% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.470% |
+| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
+| 18:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 8.00% | 8.50% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,681B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.323T |

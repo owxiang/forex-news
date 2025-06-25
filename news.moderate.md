@@ -1,12 +1,22 @@
-## 25 June 2025 - Moderate Impact Forex News
+## 26 June 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.6% | 0.6% | 0.7% |
-| 09:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 11:00 | EUR | France Jobseekers Total (May) | 3,002.0K |  | 3,013.0K |
-| 13:30 | USD | Building Permits (May) | 1.394M | 1.393M | 1.422M |
-| 15:00 | USD | New Home Sales (MoM) (May) | -13.7% |  | 9.6% |
-| 15:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.464M |  | -0.995M |
-| 18:00 | USD | 5-Year Note Auction | 3.879% |  | 4.071% |
+| 07:00 | EUR | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
+| 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 11:00 | EUR | EU Leaders Summit |  |  |  |
+| 12:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,945K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (May) |  | 0.1% | 0.2% |
+| 13:30 | USD | Core PCE Prices (Q1) |  | 3.40% | 2.60% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.7% | 2.3% |
+| 13:30 | USD | Goods Trade Balance (May) |  | -86.30B | -86.97B |
+| 13:30 | USD | Retail Inventories Ex Auto (May) |  |  | 0.3% |
+| 13:30 | CAD | Wholesale Sales (MoM) (May) |  |  | -2.3% |
+| 15:00 | USD | Pending Home Sales (MoM) (May) |  | 0.2% | -6.3% |
+| 17:00 | USD | 7-Year Note Auction |  |  | 4.194% |
+| 18:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | MXN | Interest Rate Decision (Jun) |  | 8.00% | 8.50% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,681B |

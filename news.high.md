@@ -1,7 +1,7 @@
-## 25 June 2025 - High Impact Forex News
+## 26 June 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | New Home Sales (May) | 623K | 694K | 722K |
-| 15:30 | USD | Crude Oil Inventories | -5.836M | -1.200M | -11.473M |
+| 13:30 | USD | Durable Goods Orders (MoM) (May) |  | 8.6% | -6.3% |
+| 13:30 | USD | GDP (QoQ) (Q1) |  | -0.2% | 2.4% |
+| 13:30 | USD | Initial Jobless Claims |  | 244K | 245K |
