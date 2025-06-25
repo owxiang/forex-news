@@ -8,5 +8,5 @@
 | 13:30 | USD | Building Permits (May) | 1.394M | 1.393M | 1.422M |
 | 15:00 | USD | New Home Sales (MoM) (May) | -13.7% |  | 9.6% |
 | 15:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.995M |
-| 17:00 | USD | 5-Year Note Auction |  |  | 4.071% |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.464M |  | -0.995M |
+| 52 min | USD | 5-Year Note Auction |  |  | 4.071% |

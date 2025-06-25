@@ -8,8 +8,8 @@
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
 | 05:00 | GBP | Low | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
 | 05:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
@@ -42,18 +42,17 @@
 | 15:00 | USD | Moderate | New Home Sales (MoM) (May) | -13.7% |  | 9.6% |
 | 15:00 | USD | High | New Home Sales (May) | 623K | 694K | 722K |
 | 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 23 min | USD | High | Crude Oil Inventories |  | -1.200M | -11.473M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | -1.747M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.995M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.077M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.700M | 0.514M |
-| 23 min | USD | Low | Gasoline Production |  |  | 0.386M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.152M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.1% |
-| 23 min | USD | Low | Gasoline Inventories |  | -0.500M | 0.209M |
-| 23 min | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
-| 53 min | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
-| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.071% |
+| 15:30 | USD | High | Crude Oil Inventories | -5.836M | -1.200M | -11.473M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.125M |  | -0.364M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.531M |  | -1.747M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.464M |  | -0.995M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.185M |  | 0.077M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -4.066M | 0.700M | 0.514M |
+| 15:30 | USD | Low | Gasoline Production | 0.008M |  | 0.386M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.716M |  | 0.152M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -1.1% |
+| 15:30 | USD | Low | Gasoline Inventories | -2.075M | -0.500M | 0.209M |
+| 52 min | USD | Moderate | 5-Year Note Auction |  |  | 4.071% |
+| 17:30 | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.092B |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 73 |
