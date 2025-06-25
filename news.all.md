@@ -54,4 +54,4 @@
 | 15:30 | USD | Low | Gasoline Inventories | -2.075M | -0.500M | 0.209M |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 3.879% |  | 4.071% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.787B |  | -0.092B |
-| 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 73 |
+| 22:00 | KRW | Low | Manufacturing BSI Index | 70 |  | 73 |

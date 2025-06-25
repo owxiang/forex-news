@@ -43,4 +43,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -1.1% |
 | 15:30 | USD | Gasoline Inventories | -2.075M | -0.500M | 0.209M |
 | 18:30 | BRL | Foreign Exchange Flows | -1.787B |  | -0.092B |
-| 22:00 | KRW | Manufacturing BSI Index |  |  | 73 |
+| 22:00 | KRW | Manufacturing BSI Index | 70 |  | 73 |
