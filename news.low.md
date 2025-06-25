@@ -6,12 +6,12 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
-| 05:00 | GBP | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
 | 05:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 05:00 | EUR | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
+| 05:00 | GBP | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
 | 05:00 | EUR | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
-| 05:00 | EUR | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
+| 05:00 | EUR | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
+| 05:00 | EUR | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
 | 05:00 | EUR | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 05:00 | EUR | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
@@ -24,12 +24,12 @@
 | 08:00 | EUR | Spanish PPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | CHF | ZEW Expectations (Jun) | -2.1 |  | -22.0 |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.850% |  | 4.917% |
-| 21 min | EUR | Italian 2-Year CTZ Auction |  |  | 2.010% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.6% |
-| 12:00 | USD | MBA Purchase Index |  |  | 165.8 |
-| 12:00 | USD | Mortgage Market Index |  |  | 248.1 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 692.4 |
+| 10:30 | EUR | Italian 2-Year CTZ Auction | 2.120% |  | 2.010% |
+| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
+| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.6% |
+| 53 min | USD | MBA Purchase Index |  |  | 165.8 |
+| 53 min | USD | Mortgage Market Index |  |  | 248.1 |
+| 53 min | USD | Mortgage Refinance Index |  |  | 692.4 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
 | 12:30 | BRL | Current Account (USD) (May) |  | -2.80B | -1.35B |
 | 12:30 | BRL | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
