@@ -6,8 +6,8 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
 | 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
-| 05:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 05:00 | GBP | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
+| 05:00 | GBP | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
@@ -22,8 +22,8 @@
 | 07:45 | EUR | French Consumer Confidence (Jun) | 88 | 89 | 88 |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.8% | 2.8% | 3.3% |
 | 08:00 | EUR | Spanish PPI (YoY) (May) | 1.9% |  | 1.9% |
-| 51 min | CHF | ZEW Expectations (Jun) |  |  | -22.0 |
-| 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.917% |
+| 09:00 | CHF | ZEW Expectations (Jun) | -2.1 |  | -22.0 |
+| 50 min | GBP | 15-Year Treasury Gilt Auction |  |  | 4.917% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 2.010% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.6% |
