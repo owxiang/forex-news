@@ -12,8 +12,8 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -3.4% | -4.2% | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 104.2 | 103.4 | 108.1 |
@@ -33,12 +33,10 @@
 | 12:00 | USD | Low | MBA Purchase Index | 165.2 |  | 165.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 250.8 |  | 248.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 713.4 |  | 692.4 |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 24 min | BRL | Low | Current Account (USD) (May) |  | -2.80B | -1.35B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
-| 13:30 | USD | Moderate | Building Permits (May) |  | 1.393M | 1.422M |
-| 13:30 | USD | Low | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 18 min | USD | Low | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
+| 18 min | USD | Moderate | Building Permits (May) |  | 1.393M | 1.422M |
+| 18 min | INR | Low | M3 Money Supply |  |  | 9.5% |
+| 48 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | 10.9% |
 | 15:00 | USD | High | New Home Sales (May) |  | 694K | 743K |
@@ -56,5 +54,7 @@
 | 15:30 | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.071% |
+| 17:30 | BRL | Low | Current Account (USD) (May) | -2.93B | -2.80B | -1.35B |
+| 17:30 | BRL | Low | Foreign direct investment (USD) (May) | 3.66B | 4.50B | 5.49B |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.092B |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 73 |
