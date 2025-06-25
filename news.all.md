@@ -6,22 +6,22 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
 | 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
-| 30 min | GBP | Low | Car Registration (MoM) (May) |  |  | -66.3% |
-| 30 min | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
-| 30 min | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -19.2% |
-| 30 min | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 2.7% |
-| 30 min | EUR | Low | German Car Registration (MoM) (May) |  |  | -4.2% |
-| 30 min | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
-| 30 min | EUR | Low | French Car Registration (MoM) (May) |  |  | -9.8% |
-| 30 min | EUR | Low | French Car Registration (YoY) (May) |  |  | -5.6% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  | -0.3% | -1.4% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  | -4.2% | -0.1% |
-| 06:00 | JPY | Low | Leading Index (Apr) |  | 103.4 | 108.1 |
+| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
+| 05:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -66.3% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 2.7% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -19.2% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -4.2% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -5.6% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -9.8% |
+| 46 min | JPY | Low | Coincident Indicator (MoM) (Apr) |  | -0.3% | -1.4% |
+| 46 min | JPY | Low | Leading Index (MoM) (Apr) |  | -4.2% | -0.1% |
+| 46 min | JPY | Low | Leading Index (Apr) |  | 103.4 | 108.1 |
 | 07:00 | NOK | Low | M3 Money Supply (May) |  |  | 3,319.1B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (May) |  |  | 4.1% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 89 | 88 |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.8% | 2.8% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.6% | 0.6% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.8% | 2.8% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (May) |  |  | 1.9% |
 | 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | -22.0 |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
@@ -40,8 +40,8 @@
 | 13:30 | USD | Low | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | 10.9% |
 | 15:00 | USD | High | New Home Sales (May) |  | 694K | 743K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | 10.9% |
 | 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.600M | -11.473M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
