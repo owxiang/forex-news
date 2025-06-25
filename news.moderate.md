@@ -9,4 +9,4 @@
 | 15:00 | USD | New Home Sales (MoM) (May) | -13.7% |  | 9.6% |
 | 15:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.464M |  | -0.995M |
-| 17:00 | USD | 5-Year Note Auction |  |  | 4.071% |
+| 18:00 | USD | 5-Year Note Auction | 3.879% |  | 4.071% |
