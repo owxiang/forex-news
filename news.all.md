@@ -12,8 +12,8 @@
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -3.4% | -4.2% | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 104.2 | 103.4 | 108.1 |
@@ -27,15 +27,15 @@
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.850% |  | 4.917% |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction | 2.120% |  | 2.010% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (May) |  |  | 3,013.0K |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.84% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.6% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 165.8 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 248.1 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 692.4 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 12:30 | BRL | Low | Current Account (USD) (May) |  | -2.80B | -1.35B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
+| 11:00 | EUR | Moderate | France Jobseekers Total (May) | 3,002.0K |  | 3,013.0K |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.88% |  | 6.84% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.1% |  | -2.6% |
+| 12:00 | USD | Low | MBA Purchase Index | 165.2 |  | 165.8 |
+| 12:00 | USD | Low | Mortgage Market Index | 250.8 |  | 248.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 713.4 |  | 692.4 |
+| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
+| 24 min | BRL | Low | Current Account (USD) (May) |  | -2.80B | -1.35B |
+| 24 min | BRL | Low | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
 | 13:30 | USD | Moderate | Building Permits (May) |  | 1.393M | 1.422M |
 | 13:30 | USD | Low | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |

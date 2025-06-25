@@ -12,8 +12,8 @@
 | 05:00 | EUR | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
-| 05:00 | EUR | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 05:00 | EUR | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
+| 05:00 | EUR | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
 | 06:00 | JPY | Leading Index (MoM) (Apr) | -3.4% | -4.2% | -0.1% |
 | 06:00 | JPY | Leading Index (Apr) | 104.2 | 103.4 | 108.1 |
@@ -25,14 +25,14 @@
 | 09:00 | CHF | ZEW Expectations (Jun) | -2.1 |  | -22.0 |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction | 4.850% |  | 4.917% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction | 2.120% |  | 2.010% |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.6% |
-| 53 min | USD | MBA Purchase Index |  |  | 165.8 |
-| 53 min | USD | Mortgage Market Index |  |  | 248.1 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 692.4 |
-| 12:30 | INR | M3 Money Supply |  |  | 9.5% |
-| 12:30 | BRL | Current Account (USD) (May) |  | -2.80B | -1.35B |
-| 12:30 | BRL | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.88% |  | 6.84% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 1.1% |  | -2.6% |
+| 12:00 | USD | MBA Purchase Index | 165.2 |  | 165.8 |
+| 12:00 | USD | Mortgage Market Index | 250.8 |  | 248.1 |
+| 12:00 | USD | Mortgage Refinance Index | 713.4 |  | 692.4 |
+| 24 min | INR | M3 Money Supply |  |  | 9.5% |
+| 24 min | BRL | Current Account (USD) (May) |  | -2.80B | -1.35B |
+| 24 min | BRL | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
 | 13:30 | USD | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
