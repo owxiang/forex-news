@@ -10,8 +10,8 @@
 | 05:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
 | 05:00 | EUR | Low | French Car Registration (YoY) (May) | -12.3% |  | -5.6% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 0.2% | -0.3% | -1.4% |
@@ -38,22 +38,22 @@
 | 13:30 | USD | Moderate | Building Permits (May) | 1.394M | 1.393M | 1.422M |
 | 13:30 | USD | Low | Building Permits (MoM) (May) | -2.0% | -2.0% | -4.0% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 43 min | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 43 min | USD | High | New Home Sales (May) |  | 694K | 743K |
-| 43 min | USD | Moderate | New Home Sales (MoM) (May) |  |  | 10.9% |
-| 43 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | -11.473M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.747M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.995M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.077M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.700M | 0.514M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.386M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.152M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.1% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -0.500M | 0.209M |
-| 15:30 | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
-| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
+| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) | -13.7% |  | 9.6% |
+| 15:00 | USD | High | New Home Sales (May) | 623K | 694K | 722K |
+| 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 23 min | USD | High | Crude Oil Inventories |  | -1.200M | -11.473M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -1.747M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.995M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.077M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.700M | 0.514M |
+| 23 min | USD | Low | Gasoline Production |  |  | 0.386M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.152M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.1% |
+| 23 min | USD | Low | Gasoline Inventories |  | -0.500M | 0.209M |
+| 23 min | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
+| 53 min | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.071% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.092B |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 73 |
