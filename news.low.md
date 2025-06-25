@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
-| 29 min | JPY | BoJ Tamura Speaks |  |  |  |
-| 59 min | AUD | Monthly CPI Indicator (YoY) (May) |  | 2.30% | 2.40% |
+| 02:00 | JPY | BoJ Tamura Speaks |  |  |  |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
 | 05:00 | GBP | Car Registration (MoM) (May) |  |  | -66.3% |
 | 05:00 | GBP | Car Registration (YoY) (May) |  |  | -10.4% |
 | 05:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -19.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 2.7% |
-| 05:00 | EUR | German Car Registration (YoY) (May) |  |  | -0.2% |
 | 05:00 | EUR | German Car Registration (MoM) (May) |  |  | -4.2% |
+| 05:00 | EUR | German Car Registration (YoY) (May) |  |  | -0.2% |
 | 05:00 | EUR | French Car Registration (MoM) (May) |  |  | -9.8% |
 | 05:00 | EUR | French Car Registration (YoY) (May) |  |  | -5.6% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  | -0.3% | -1.4% |
