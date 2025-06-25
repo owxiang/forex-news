@@ -8,8 +8,8 @@
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 2.10% | 2.30% | 2.40% |
 | 05:00 | GBP | Low | Car Registration (MoM) (May) | 24.7% |  | -66.3% |
 | 05:00 | GBP | Low | Car Registration (YoY) (May) | 1.6% |  | -10.4% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (May) | 0.2% |  | -19.2% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (May) | -0.1% |  | 2.7% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (May) | 1.2% |  | -0.2% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (May) | -1.4% |  | -4.2% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (May) | -10.7% |  | -9.8% |
@@ -52,7 +52,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.716M |  | 0.152M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.5% |  | -1.1% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.075M | -0.500M | 0.209M |
-| 52 min | USD | Moderate | 5-Year Note Auction |  |  | 4.071% |
-| 17:30 | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
+| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.071% |
+| 22 min | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.092B |
 | 22:00 | KRW | Low | Manufacturing BSI Index |  |  | 73 |
