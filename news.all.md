@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 43 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.1% | 3.1% |
-| 02:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) |  | 2.30% | 2.40% |
-| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
+| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.3% | 3.1% | 3.4% |
+| 29 min | JPY | Low | BoJ Tamura Speaks |  |  |  |
+| 59 min | AUD | Low | Monthly CPI Indicator (YoY) (May) |  | 2.30% | 2.40% |
 | 05:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -66.3% |
+| 05:00 | GBP | Low | Car Registration (YoY) (May) |  |  | -10.4% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -19.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 2.7% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -4.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | -0.2% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -5.6% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -4.2% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -9.8% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | -5.6% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) |  | -0.3% | -1.4% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) |  | -4.2% | -0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) |  | 103.4 | 108.1 |
@@ -36,12 +36,12 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.5% |
 | 12:30 | BRL | Low | Current Account (USD) (May) |  | -2.80B | -1.35B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (May) |  | 4.50B | 5.49B |
-| 13:30 | USD | Moderate | Building Permits (May) |  | 1.393M | 1.422M |
 | 13:30 | USD | Low | Building Permits (MoM) (May) |  | -2.0% | -4.0% |
+| 13:30 | USD | Moderate | Building Permits (May) |  | 1.393M | 1.422M |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | 10.9% |
 | 15:00 | USD | High | New Home Sales (May) |  | 694K | 743K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | 10.9% |
 | 15:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.600M | -11.473M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.364M |
