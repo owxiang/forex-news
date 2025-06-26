@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 615.5B |  | 1,567.3B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -524.3B |  | 473.3B |
-| 6 min | JPY | Low | 2-Year JGB Auction |  |  | 0.752% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 2.6% | 5.9% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | -2.5% | 5.3% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.729% |  | 0.752% |
+| 47 min | SGD | Low | Industrial Production (MoM) (May) |  | -2.5% | 5.3% |
+| 47 min | SGD | Low | Industrial Production (YoY) (May) |  | 2.6% | 5.9% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
 | 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.3% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -27,8 +27,8 @@
 | 13:00 | MXN | Low | Trade Balance (May) |  | 0.370B | -0.088B |
 | 13:00 | MXN | Low | Trade Balance (USD) (May) |  |  | 0.083B |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.30% | 0.36% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.25 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,945K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.1% | 0.2% |
