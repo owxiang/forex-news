@@ -5,16 +5,16 @@
 | 00:50 | JPY | Foreign Bonds Buying | 615.5B |  | 1,567.3B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -524.3B |  | 473.3B |
 | 04:35 | JPY | 2-Year JGB Auction | 0.729% |  | 0.752% |
-| 06:00 | SGD | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 06:00 | SGD | Industrial Production (YoY) (May) | 3.9% | 2.6% | 5.6% |
+| 06:00 | SGD | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 07:00 | NOK | Unemployment Rate (May) | 4.6% |  | 4.4% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:30 | HKD | Exports (MoM) (May) | 15.5% |  | 14.7% |
 | 09:30 | HKD | Imports (MoM) (May) | 18.9% |  | 15.8% |
 | 09:30 | HKD | Trade Balance (May) | -27.3B |  | -16.0B |
-| 10:30 | ZAR | PPI (YoY) (May) | 0.1% | 0.7% | 0.5% |
 | 10:30 | ZAR | PPI (MoM) (May) | -0.3% |  | 0.5% |
+| 10:30 | ZAR | PPI (YoY) (May) | 0.1% | 0.7% | 0.5% |
 | 10:55 | EUR | Italian 6-Month BOT Auction | 1.950% |  | 1.981% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jun) | -46 | -24 | -27 |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
@@ -41,7 +41,6 @@
 | 15:30 | USD | Natural Gas Storage | 96B | 88B | 95B |
 | 16:00 | USD | KC Fed Composite Index (Jun) | -2 |  | -3 |
 | 16:00 | USD | KC Fed Manufacturing Index (Jun) | 5 |  | -10 |
-| 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 4.060% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 4.470% |
+| 16:30 | USD | 4-Week Bill Auction | 4.000% |  | 4.060% |
+| 16:30 | USD | 8-Week Bill Auction | 4.390% |  | 4.470% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.323T |
