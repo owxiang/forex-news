@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
+| 52 min | EUR | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
 | 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
@@ -14,6 +14,7 @@
 | 13:30 | USD | Goods Trade Balance (May) |  | -86.30B | -86.97B |
 | 13:30 | USD | Retail Inventories Ex Auto (May) |  |  | 0.3% |
 | 13:30 | CAD | Wholesale Sales (MoM) (May) |  |  | -2.3% |
+| 13:45 | USD | FOMC Member Daly Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (May) |  | 0.2% | -6.3% |
 | 17:00 | USD | 7-Year Note Auction |  |  | 4.194% |
 | 18:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
