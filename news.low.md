@@ -18,26 +18,26 @@
 | 10:55 | EUR | Italian 6-Month BOT Auction | 1.950% |  | 1.981% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jun) | -46 | -24 | -27 |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 24 min | INR | M3 Money Supply |  |  | 9.5% |
-| 54 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | MXN | Trade Balance (May) |  | 0.370B | -0.088B |
-| 54 min | MXN | Trade Balance (USD) (May) |  |  | 0.083B |
-| 54 min | BRL | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
-| 54 min | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.30% | 0.36% |
-| 13:30 | USD | Chicago Fed National Activity (May) |  |  | -0.25 |
-| 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | -3.6% | -0.4% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (May) |  |  | -7.5% |
-| 13:30 | USD | Durables Excluding Transport (MoM) (May) |  | 0.0% | 0.2% |
-| 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 13:30 | USD | GDP Sales (Q1) |  | -2.9% | 3.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | -1.5% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 245.50K |
-| 13:30 | USD | PCE Prices (Q1) |  | 3.6% | 2.4% |
-| 13:30 | USD | Real Consumer Spending (Q1) |  | 1.2% | 4.0% |
-| 13:30 | USD | Wholesale Inventories (MoM) (May) |  | 0.2% | 0.2% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) |  |  | 4.31% |
-| 13:45 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 14:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
+| 12:30 | INR | M3 Money Supply | 9.8% |  | 9.5% |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | MXN | Trade Balance (May) | 1.029B | 0.370B | -0.088B |
+| 13:00 | MXN | Trade Balance (USD) (May) | -0.059B |  | 0.074B |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) | 5.27% | 5.31% | 5.40% |
+| 19 min | USD | Chicago Fed National Activity (May) |  |  | -0.25 |
+| 19 min | USD | Corporate Profits (QoQ) (Q1) |  | -3.6% | -0.4% |
+| 19 min | USD | Durables Excluding Defense (MoM) (May) |  |  | -7.5% |
+| 19 min | USD | Durables Excluding Transport (MoM) (May) |  | 0.0% | 0.2% |
+| 19 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 19 min | USD | GDP Sales (Q1) |  | -2.9% | 3.3% |
+| 19 min | USD | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | -1.5% |
+| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 245.50K |
+| 19 min | USD | PCE Prices (Q1) |  | 3.6% | 2.4% |
+| 19 min | USD | Real Consumer Spending (Q1) |  | 1.2% | 4.0% |
+| 19 min | USD | Wholesale Inventories (MoM) (May) |  | 0.2% | 0.2% |
+| 19 min | CAD | Average Weekly Earnings (YoY) (Apr) |  |  | 4.31% |
+| 34 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 49 min | CAD | Budget Balance (Apr) |  |  | -23.88B |
 | 14:30 | BRL | Federal Tax Revenue (May) |  |  | 261.30B |
 | 15:00 | USD | Pending Home Sales Index (May) |  |  | 71.3 |
 | 15:30 | USD | Natural Gas Storage |  | 88B | 95B |

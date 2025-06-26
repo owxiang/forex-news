@@ -23,37 +23,37 @@
 | 12:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.5% |
-| 54 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 54 min | MXN | Low | Trade Balance (May) |  | 0.370B | -0.088B |
-| 54 min | MXN | Low | Trade Balance (USD) (May) |  |  | 0.083B |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.30% | 0.36% |
-| 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.25 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,945K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.1% | 0.2% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.40% | 2.60% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | -3.6% | -0.4% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (May) |  | 8.6% | -6.3% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | -7.5% |
-| 13:30 | USD | Low | Durables Excluding Transport (MoM) (May) |  | 0.0% | 0.2% |
-| 13:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | -0.2% | 2.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.7% | 2.3% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  | -2.9% | 3.3% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | -1.5% |
-| 13:30 | USD | Moderate | Goods Trade Balance (May) |  | -86.30B | -86.97B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 244K | 245K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 245.50K |
-| 13:30 | USD | Low | PCE Prices (Q1) |  | 3.6% | 2.4% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 1.2% | 4.0% |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (May) |  |  | 0.3% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.2% | 0.2% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) |  |  | 4.31% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  |  | -2.3% |
-| 13:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 14:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
+| 12:30 | INR | Low | M3 Money Supply | 9.8% |  | 9.5% |
+| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | MXN | Low | Trade Balance (May) | 1.029B | 0.370B | -0.088B |
+| 13:00 | MXN | Low | Trade Balance (USD) (May) | -0.059B |  | 0.074B |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) | 5.27% | 5.31% | 5.40% |
+| 19 min | USD | Low | Chicago Fed National Activity (May) |  |  | -0.25 |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,945K |
+| 19 min | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.1% | 0.2% |
+| 19 min | USD | Moderate | Core PCE Prices (Q1) |  | 3.40% | 2.60% |
+| 19 min | USD | Low | Corporate Profits (QoQ) (Q1) |  | -3.6% | -0.4% |
+| 19 min | USD | High | Durable Goods Orders (MoM) (May) |  | 8.6% | -6.3% |
+| 19 min | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | -7.5% |
+| 19 min | USD | Low | Durables Excluding Transport (MoM) (May) |  | 0.0% | 0.2% |
+| 19 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 19 min | USD | High | GDP (QoQ) (Q1) |  | -0.2% | 2.4% |
+| 19 min | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.7% | 2.3% |
+| 19 min | USD | Low | GDP Sales (Q1) |  | -2.9% | 3.3% |
+| 19 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | -1.5% |
+| 19 min | USD | Moderate | Goods Trade Balance (May) |  | -86.30B | -86.97B |
+| 19 min | USD | High | Initial Jobless Claims |  | 244K | 245K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 245.50K |
+| 19 min | USD | Low | PCE Prices (Q1) |  | 3.6% | 2.4% |
+| 19 min | USD | Low | Real Consumer Spending (Q1) |  | 1.2% | 4.0% |
+| 19 min | USD | Moderate | Retail Inventories Ex Auto (May) |  |  | 0.3% |
+| 19 min | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.2% | 0.2% |
+| 19 min | CAD | Low | Average Weekly Earnings (YoY) (Apr) |  |  | 4.31% |
+| 19 min | CAD | Moderate | Wholesale Sales (MoM) (May) |  |  | -2.3% |
+| 34 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 34 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 49 min | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
 | 14:30 | BRL | Low | Federal Tax Revenue (May) |  |  | 261.30B |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) |  | 0.2% | -6.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (May) |  |  | 71.3 |
