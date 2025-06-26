@@ -7,8 +7,8 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.729% |  | 0.752% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (May) | 3.9% | 2.6% | 5.6% |
-| 52 min | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
-| 52 min | NOK | Low | Unemployment Rate (May) |  |  | 4.3% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) | -20.3 | -19.1 | -20.0 |
+| 07:00 | NOK | Low | Unemployment Rate (May) | 4.6% |  | 4.4% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | HKD | Low | Exports (MoM) (May) |  |  | 14.7% |

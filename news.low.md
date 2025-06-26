@@ -7,7 +7,7 @@
 | 04:35 | JPY | 2-Year JGB Auction | 0.729% |  | 0.752% |
 | 06:00 | SGD | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 06:00 | SGD | Industrial Production (YoY) (May) | 3.9% | 2.6% | 5.6% |
-| 52 min | NOK | Unemployment Rate (May) |  |  | 4.3% |
+| 07:00 | NOK | Unemployment Rate (May) | 4.6% |  | 4.4% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:30 | HKD | Exports (MoM) (May) |  |  | 14.7% |

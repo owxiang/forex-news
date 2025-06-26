@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | EUR | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
+| 07:00 | EUR | GfK German Consumer Climate (Jul) | -20.3 | -19.1 | -20.0 |
 | 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
