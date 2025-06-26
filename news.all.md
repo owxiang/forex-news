@@ -5,18 +5,18 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 615.5B |  | 1,567.3B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -524.3B |  | 473.3B |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.729% |  | 0.752% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (May) | 3.9% | 2.6% | 5.6% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) | -20.3 | -19.1 | -20.0 |
 | 07:00 | NOK | Low | Unemployment Rate (May) | 4.6% |  | 4.4% |
-| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 52 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 09:30 | HKD | Low | Exports (MoM) (May) |  |  | 14.7% |
 | 09:30 | HKD | Low | Imports (MoM) (May) |  |  | 15.8% |
 | 09:30 | HKD | Low | Trade Balance (May) |  |  | -16.0B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.981% |
-| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
 | 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
 | 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
@@ -27,8 +27,8 @@
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | MXN | Low | Trade Balance (May) |  | 0.370B | -0.088B |
 | 13:00 | MXN | Low | Trade Balance (USD) (May) |  |  | 0.083B |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.30% | 0.36% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.25 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,950K | 1,945K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.1% | 0.2% |
