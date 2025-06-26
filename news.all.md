@@ -27,8 +27,8 @@
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | MXN | Low | Trade Balance (May) | 1.029B | 0.370B | -0.088B |
 | 13:00 | MXN | Low | Trade Balance (USD) (May) | -0.059B |  | 0.074B |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) | 5.27% | 5.31% | 5.40% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) | 5.27% | 5.31% | 5.40% |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) | -0.28 |  | -0.36 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,974K | 1,950K | 1,937K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) | 0.5% | 0.1% | 0.0% |
