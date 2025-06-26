@@ -38,10 +38,10 @@
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) | 4.43% |  | 4.06% |
 | 13:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales Index (May) | 72.6 |  | 71.3 |
-| 23 min | USD | Natural Gas Storage |  | 88B | 95B |
-| 53 min | USD | KC Fed Composite Index (Jun) |  |  | -3 |
-| 53 min | USD | KC Fed Manufacturing Index (Jun) |  |  | -10 |
-| 53 min | CAD | Budget Balance (Apr) |  |  | -23.88B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.060% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.470% |
+| 15:30 | USD | Natural Gas Storage | 96B | 88B | 95B |
+| 16:00 | USD | KC Fed Composite Index (Jun) | -2 |  | -3 |
+| 16:00 | USD | KC Fed Manufacturing Index (Jun) | 5 |  | -10 |
+| 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
+| 23 min | USD | 4-Week Bill Auction |  |  | 4.060% |
+| 23 min | USD | 8-Week Bill Auction |  |  | 4.470% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.323T |

@@ -55,13 +55,13 @@
 | 13:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) | 1.8% | 0.2% | -6.3% |
 | 15:00 | USD | Low | Pending Home Sales Index (May) | 72.6 |  | 71.3 |
-| 23 min | USD | Low | Natural Gas Storage |  | 88B | 95B |
-| 53 min | USD | Low | KC Fed Composite Index (Jun) |  |  | -3 |
-| 53 min | USD | Low | KC Fed Manufacturing Index (Jun) |  |  | -10 |
-| 53 min | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.060% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.470% |
-| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
+| 15:30 | USD | Low | Natural Gas Storage | 96B | 88B | 95B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jun) | -2 |  | -3 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) | 5 |  | -10 |
+| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.060% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.470% |
+| 53 min | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
 | 18:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 8.00% | 8.50% |
