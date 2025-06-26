@@ -10,16 +10,16 @@
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) | -20.3 | -19.1 | -20.0 |
 | 07:00 | NOK | Low | Unemployment Rate (May) | 4.6% |  | 4.4% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 20 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 20 min | HKD | Low | Exports (MoM) (May) |  |  | 14.7% |
-| 20 min | HKD | Low | Imports (MoM) (May) |  |  | 15.8% |
-| 20 min | HKD | Low | Trade Balance (May) |  |  | -16.0B |
-| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.981% |
-| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
-| 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 0.5% |
-| 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
-| 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 09:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 09:30 | HKD | Low | Exports (MoM) (May) | 15.5% |  | 14.7% |
+| 09:30 | HKD | Low | Imports (MoM) (May) | 18.9% |  | 15.8% |
+| 09:30 | HKD | Low | Trade Balance (May) | -27.3B |  | -16.0B |
+| 2 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.981% |
+| 22 min | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
+| 22 min | ZAR | Low | PPI (YoY) (May) |  |  | 0.5% |
+| 37 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 52 min | GBP | Low | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
+| 52 min | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 12:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

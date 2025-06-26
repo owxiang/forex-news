@@ -9,14 +9,14 @@
 | 06:00 | SGD | Industrial Production (YoY) (May) | 3.9% | 2.6% | 5.6% |
 | 07:00 | NOK | Unemployment Rate (May) | 4.6% |  | 4.4% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 20 min | GBP | BoE Breeden Speaks |  |  |  |
-| 20 min | HKD | Exports (MoM) (May) |  |  | 14.7% |
-| 20 min | HKD | Imports (MoM) (May) |  |  | 15.8% |
-| 20 min | HKD | Trade Balance (May) |  |  | -16.0B |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 1.981% |
-| 10:30 | ZAR | PPI (MoM) (May) |  |  | 0.5% |
-| 10:30 | ZAR | PPI (YoY) (May) |  |  | 0.5% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
+| 09:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 09:30 | HKD | Exports (MoM) (May) | 15.5% |  | 14.7% |
+| 09:30 | HKD | Imports (MoM) (May) | 18.9% |  | 15.8% |
+| 09:30 | HKD | Trade Balance (May) | -27.3B |  | -16.0B |
+| 2 min | EUR | Italian 6-Month BOT Auction |  |  | 1.981% |
+| 22 min | ZAR | PPI (MoM) (May) |  |  | 0.5% |
+| 22 min | ZAR | PPI (YoY) (May) |  |  | 0.5% |
+| 52 min | GBP | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
