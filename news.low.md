@@ -5,25 +5,25 @@
 | 00:50 | JPY | Foreign Bonds Buying | 615.5B |  | 1,567.3B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -524.3B |  | 473.3B |
 | 04:35 | JPY | 2-Year JGB Auction | 0.729% |  | 0.752% |
-| 06:00 | SGD | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 06:00 | SGD | Industrial Production (YoY) (May) | 3.9% | 2.6% | 5.6% |
+| 06:00 | SGD | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
 | 07:00 | NOK | Unemployment Rate (May) | 4.6% |  | 4.4% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 09:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 09:30 | HKD | Exports (MoM) (May) | 15.5% |  | 14.7% |
 | 09:30 | HKD | Imports (MoM) (May) | 18.9% |  | 15.8% |
 | 09:30 | HKD | Trade Balance (May) | -27.3B |  | -16.0B |
-| 2 min | EUR | Italian 6-Month BOT Auction |  |  | 1.981% |
-| 22 min | ZAR | PPI (MoM) (May) |  |  | 0.5% |
-| 22 min | ZAR | PPI (YoY) (May) |  |  | 0.5% |
-| 52 min | GBP | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 10:30 | ZAR | PPI (MoM) (May) | -0.3% |  | 0.5% |
+| 10:30 | ZAR | PPI (YoY) (May) | 0.1% | 0.7% | 0.5% |
+| 10:55 | EUR | Italian 6-Month BOT Auction | 1.950% |  | 1.981% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Jun) | -46 | -24 | -27 |
+| 53 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:30 | INR | M3 Money Supply |  |  | 9.5% |
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | MXN | Trade Balance (May) |  | 0.370B | -0.088B |
 | 13:00 | MXN | Trade Balance (USD) (May) |  |  | 0.083B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.30% | 0.36% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 5.31% | 5.40% |
 | 13:30 | USD | Chicago Fed National Activity (May) |  |  | -0.25 |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | -3.6% | -0.4% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (May) |  |  | -7.5% |
