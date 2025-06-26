@@ -18,6 +18,6 @@
 | 15:00 | USD | Pending Home Sales (MoM) (May) | 1.8% | 0.2% | -6.3% |
 | 18:00 | USD | 7-Year Note Auction | 4.022% |  | 4.194% |
 | 18:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 51 min | MXN | Interest Rate Decision (Jun) |  | 8.00% | 8.50% |
+| 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | MXN | Interest Rate Decision (Jun) | 8.00% | 8.00% | 8.50% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,681B |

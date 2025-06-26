@@ -22,8 +22,8 @@
 | 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | MXN | Trade Balance (May) | 1.029B | 0.370B | -0.088B |
 | 13:00 | MXN | Trade Balance (USD) (May) | -0.059B |  | 0.074B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Jun) | 5.27% | 5.31% | 5.40% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
 | 13:30 | USD | Chicago Fed National Activity (May) | -0.28 |  | -0.36 |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) | -3.3% | -3.6% | -0.4% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (May) | 15.5% |  | -7.7% |

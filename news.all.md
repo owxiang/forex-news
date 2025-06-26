@@ -27,8 +27,8 @@
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:00 | MXN | Low | Trade Balance (May) | 1.029B | 0.370B | -0.088B |
 | 13:00 | MXN | Low | Trade Balance (USD) (May) | -0.059B |  | 0.074B |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) | 5.27% | 5.31% | 5.40% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) | -0.28 |  | -0.36 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,974K | 1,950K | 1,937K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) | 0.5% | 0.1% | 0.0% |
@@ -62,7 +62,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.390% |  | 4.470% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.022% |  | 4.194% |
 | 18:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 51 min | MXN | Moderate | Interest Rate Decision (Jun) |  | 8.00% | 8.50% |
+| 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | MXN | Moderate | Interest Rate Decision (Jun) | 8.00% | 8.00% | 8.50% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,681B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.323T |
