@@ -64,5 +64,5 @@
 | 18:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) | 8.00% | 8.00% | 8.50% |
-| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,681B |
-| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.323T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,622B |  | 6,681B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.347T |  | 3.323T |

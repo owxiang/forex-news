@@ -20,4 +20,4 @@
 | 18:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Jun) | 8.00% | 8.00% | 8.50% |
-| 22 min | USD | Fed's Balance Sheet |  |  | 6,681B |
+| 21:30 | USD | Fed's Balance Sheet | 6,622B |  | 6,681B |
