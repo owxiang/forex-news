@@ -1,46 +1,55 @@
-## 26 June 2025 - Low Impact Forex News
+## 27 June 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying | 615.5B |  | 1,567.3B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -524.3B |  | 473.3B |
-| 04:35 | JPY | 2-Year JGB Auction | 0.729% |  | 0.752% |
-| 06:00 | SGD | Industrial Production (YoY) (May) | 3.9% | 2.6% | 5.6% |
-| 06:00 | SGD | Industrial Production (MoM) (May) | -0.4% | -2.5% | 4.9% |
-| 07:00 | NOK | Unemployment Rate (May) | 4.6% |  | 4.4% |
-| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 09:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 09:30 | HKD | Exports (MoM) (May) | 15.5% |  | 14.7% |
-| 09:30 | HKD | Imports (MoM) (May) | 18.9% |  | 15.8% |
-| 09:30 | HKD | Trade Balance (May) | -27.3B |  | -16.0B |
-| 10:30 | ZAR | PPI (MoM) (May) | -0.3% |  | 0.5% |
-| 10:30 | ZAR | PPI (YoY) (May) | 0.1% | 0.7% | 0.5% |
-| 10:55 | EUR | Italian 6-Month BOT Auction | 1.950% |  | 1.981% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jun) | -46 | -24 | -27 |
-| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 12:30 | INR | M3 Money Supply | 9.8% |  | 9.5% |
-| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 13:00 | MXN | Trade Balance (May) | 1.029B | 0.370B | -0.088B |
-| 13:00 | MXN | Trade Balance (USD) (May) | -0.059B |  | 0.074B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.26% | 0.30% | 0.36% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) | 5.27% | 5.31% | 5.40% |
-| 13:30 | USD | Chicago Fed National Activity (May) | -0.28 |  | -0.36 |
-| 13:30 | USD | Corporate Profits (QoQ) (Q1) | -3.3% | -3.6% | -0.4% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (May) | 15.5% |  | -7.7% |
-| 13:30 | USD | Durables Excluding Transport (MoM) (May) | 0.5% | 0.0% | 0.2% |
-| 13:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 13:30 | USD | GDP Sales (Q1) | -3.1% | -2.9% | 3.3% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) | 1.7% |  | -1.4% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 245.00K |  | 245.75K |
-| 13:30 | USD | PCE Prices (Q1) | 3.7% | 3.6% | 2.4% |
-| 13:30 | USD | Real Consumer Spending (Q1) | 0.5% | 1.2% | 4.0% |
-| 13:30 | USD | Wholesale Inventories (MoM) (May) | -0.3% | 0.2% | 0.2% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) | 4.43% |  | 4.06% |
-| 13:45 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | USD | Pending Home Sales Index (May) | 72.6 |  | 71.3 |
-| 15:30 | USD | Natural Gas Storage | 96B | 88B | 95B |
-| 16:00 | USD | KC Fed Composite Index (Jun) | -2 |  | -3 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jun) | 5 |  | -10 |
-| 16:30 | USD | 4-Week Bill Auction | 4.000% |  | 4.060% |
-| 16:30 | USD | 8-Week Bill Auction | 4.390% |  | 4.470% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.347T |  | 3.323T |
+| 23 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jun) |  |  | 2.1% |
+| 23 min | JPY | Jobs/applications ratio (May) |  | 1.26 | 1.26 |
+| 23 min | JPY | Tokyo CPI (YoY) (Jun) |  |  | 3.4% |
+| 23 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jun) |  |  | 0.1% |
+| 23 min | JPY | Unemployment Rate (May) |  | 2.5% | 2.5% |
+| 43 min | JPY | Large Retailers' Sales (MoM) (May) |  |  | 0.5% |
+| 43 min | JPY | Large Scale Retail Sales YoY (YoY) (May) |  |  | 3.0% |
+| 43 min | JPY | Retail Sales (YoY) (May) |  | 2.4% | 3.3% |
+| 02:30 | CNY | Chinese Industrial profit YTD (May) |  |  | 1.4% |
+| 03:30 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
+| 07:00 | NOK | Unemployment Change (Jun) |  |  | 78.06K |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
+| 07:00 | NOK | Core Retail Sales (MoM) (May) |  |  | 0.7% |
+| 07:45 | EUR | French CPI (YoY) (Jun) |  | 0.7% | 0.7% |
+| 07:45 | EUR | French HICP (YoY) (Jun) |  | 0.7% | 0.6% |
+| 07:45 | EUR | PPI (YoY) (May) |  |  | -0.80% |
+| 07:45 | EUR | French PPI (MoM) (May) |  |  | -4.3% |
+| 08:00 | EUR | Core CPI (YoY) (Jun) |  |  | 2.2% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.4% | 0.1% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (May) |  |  | 4.0% |
+| 09:00 | EUR | Italian Business Confidence (Jun) |  | 87.0 | 86.5 |
+| 09:00 | EUR | Italian Consumer Confidence (Jun) |  | 97.0 | 96.5 |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | -1.10% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | -1.60% |
+| 10:00 | EUR | Business and Consumer Survey (Jun) |  | 95.1 | 94.8 |
+| 10:00 | EUR | Business Climate (Jun) |  |  | -0.55 |
+| 10:00 | EUR | Consumer Confidence (Jun) |  | -15.3 | -15.1 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jun) |  |  | 23.6 |
+| 10:00 | EUR | Selling Price Expectations (Jun) |  |  | 7.9 |
+| 10:00 | EUR | Services Sentiment (Jun) |  | 1.6 | 1.5 |
+| 10:00 | EUR | Industrial Sentiment (Jun) |  | -9.9 | -10.3 |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.73% |
+| 11:00 | EUR | Italian PPI (MoM) (May) |  |  | -2.2% |
+| 11:00 | EUR | Italian PPI (YoY) (May) |  |  | 2.6% |
+| 12:00 | EUR | Spanish Business Confidence (Jun) |  |  | -4.2 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) |  | -1.02% | -0.49% |
+| 12:30 | INR | Bank Loan Growth |  |  | 9.0% |
+| 12:30 | INR | Deposit Growth |  |  | 9.9% |
+| 12:30 | INR | FX Reserves, USD |  |  | 698.95B |
+| 12:30 | BRL | Bank lending (MoM) (May) |  |  | 0.7% |
+| 13:00 | MXN | Unemployment Rate (May) |  |  | 2.60% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (May) |  | 2.50% | 2.50% |
+| 13:30 | USD | Personal Income (MoM) (May) |  | 0.3% | 0.8% |
+| 13:30 | USD | Real Personal Consumption (MoM) (May) |  |  | 0.1% |
+| 14:00 | USD | Dallas Fed PCE (May) |  |  | 2.70% |
+| 14:15 | USD | Fed Governor Cook Speaks |  |  |  |
+| 14:30 | BRL | Federal Tax Revenue (May) |  |  | 261.30B |
+| 15:00 | USD | Michigan Current Conditions (Jun) |  | 63.7 | 58.9 |
+| 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
+| 18:30 | BRL | CAGED Net Payroll Jobs (May) |  | 179.00K | 257.53K |
