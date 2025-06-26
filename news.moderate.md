@@ -5,8 +5,8 @@
 | 07:00 | EUR | GfK German Consumer Climate (Jul) | -20.3 | -19.1 | -20.0 |
 | 10:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
-| 53 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 53 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 12:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 12:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,950K | 1,945K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | USD | Core PCE Prices (Q1) |  | 3.40% | 2.60% |
