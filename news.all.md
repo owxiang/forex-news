@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 1,571.3B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 473.4B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 615.5B |  | 1,567.3B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -524.3B |  | 473.3B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.752% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | -2.5% | 5.3% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 2.6% | 5.9% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | -2.5% | 5.3% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.1 | -19.9 |
 | 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.3% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -15,8 +15,8 @@
 | 09:30 | HKD | Low | Imports (MoM) (May) |  |  | 15.8% |
 | 09:30 | HKD | Low | Trade Balance (May) |  |  | -16.0B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.981% |
-| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
 | 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
 | 10:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) |  | -24 | -27 |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
