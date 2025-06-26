@@ -16,8 +16,8 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (May) | -0.4% |  | -2.3% |
 | 13:45 | USD | FOMC Member Daly Speaks |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (May) | 1.8% | 0.2% | -6.3% |
-| 52 min | USD | 7-Year Note Auction |  |  | 4.194% |
-| 18:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 4.194% |
+| 9 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (Jun) |  | 8.00% | 8.50% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,681B |

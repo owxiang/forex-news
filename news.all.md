@@ -60,8 +60,8 @@
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) | 5 |  | -10 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.000% |  | 4.060% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.390% |  | 4.470% |
-| 52 min | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
-| 18:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.194% |
+| 9 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 8.00% | 8.50% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,681B |
