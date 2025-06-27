@@ -9,8 +9,8 @@
 | 07:45 | EUR | French HICP (MoM) (Jun) | 0.4% | 0.2% | -0.2% |
 | 08:00 | EUR | Spanish CPI (YoY) (Jun) | 2.2% | 2.0% | 2.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 2.2% | 2.0% | 2.0% |
-| 3 min | EUR | Italian 10-Year BTP Auction |  |  | 3.57% |
-| 53 min | EUR | EU Leaders Summit |  |  |  |
+| 10:10 | EUR | Italian 10-Year BTP Auction | 3.48% |  | 3.57% |
+| 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (May) |  | 6.4% | 6.6% |
 | 13:30 | USD | PCE Price index (YoY) (May) |  | 2.3% | 2.1% |

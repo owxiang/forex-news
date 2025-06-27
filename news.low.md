@@ -15,16 +15,16 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (May) | 0.0% |  | 0.6% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 0.9% | 0.7% | 0.7% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 0.8% | 0.7% | 0.6% |
-| 07:45 | EUR | PPI (YoY) (May) | 0.20% |  | -0.70% |
 | 07:45 | EUR | French PPI (MoM) (May) | -0.8% |  | -4.2% |
+| 07:45 | EUR | PPI (YoY) (May) | 0.20% |  | -0.70% |
 | 08:00 | EUR | Core CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.6% | 0.4% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.0% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 4.8% |  | 4.1% |
 | 09:00 | EUR | Italian Business Confidence (Jun) | 87.3 | 87.0 | 86.6 |
 | 09:00 | EUR | Italian Consumer Confidence (Jun) | 96.1 | 97.0 | 96.5 |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Apr) | 1.50% |  | -1.60% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Apr) | 1.10% |  | -1.20% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (Apr) | 1.50% |  | -1.60% |
 | 10:00 | EUR | Business and Consumer Survey (Jun) | 94.0 | 95.1 | 94.8 |
 | 10:00 | EUR | Business Climate (Jun) | -0.78 |  | -0.57 |
 | 10:00 | EUR | Consumer Confidence (Jun) | -15.3 | -15.3 | -15.1 |
@@ -32,11 +32,11 @@
 | 10:00 | EUR | Selling Price Expectations (Jun) | 5.6 |  | 7.7 |
 | 10:00 | EUR | Services Sentiment (Jun) | 2.9 | 1.6 | 1.8 |
 | 10:00 | EUR | Industrial Sentiment (Jun) | -12.0 | -9.9 | -10.4 |
-| 3 min | EUR | Italian 5-Year BTP Auction |  |  | 2.73% |
-| 53 min | EUR | Italian PPI (MoM) (May) |  |  | -2.2% |
-| 53 min | EUR | Italian PPI (YoY) (May) |  |  | 2.6% |
-| 12:00 | EUR | Spanish Business Confidence (Jun) |  |  | -4.2 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) |  | -1.02% | -0.49% |
+| 10:10 | EUR | Italian 5-Year BTP Auction | 2.68% |  | 2.73% |
+| 11:00 | EUR | Italian PPI (YoY) (May) | 1.7% |  | 2.6% |
+| 11:00 | EUR | Italian PPI (MoM) (May) | -0.7% |  | -2.2% |
+| 53 min | EUR | Spanish Business Confidence (Jun) |  |  | -4.2 |
+| 53 min | BRL | IGP-M Inflation Index (MoM) (Jun) |  | -1.02% | -0.49% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.0% |
 | 12:30 | INR | Deposit Growth |  |  | 9.9% |
 | 12:30 | INR | FX Reserves, USD |  |  | 698.95B |
