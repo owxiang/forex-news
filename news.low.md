@@ -11,7 +11,7 @@
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (May) | 2.0% |  | 3.0% |
 | 00:50 | JPY | Retail Sales (YoY) (May) | 2.2% | 2.4% | 3.5% |
 | 02:30 | CNY | Chinese Industrial profit YTD (May) | -1.1% |  | 1.4% |
-| 03:30 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
+| 04:30 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 07:00 | NOK | Unemployment Change (Jun) |  |  | 78.06K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
 | 07:00 | NOK | Core Retail Sales (MoM) (May) |  |  | 0.7% |
