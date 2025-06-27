@@ -23,8 +23,8 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 4.8% |  | 4.1% |
 | 09:00 | EUR | Italian Business Confidence (Jun) | 87.3 | 87.0 | 86.6 |
 | 09:00 | EUR | Italian Consumer Confidence (Jun) | 96.1 | 97.0 | 96.5 |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Apr) | 1.10% |  | -1.20% |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (Apr) | 1.50% |  | -1.60% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (Apr) | 1.10% |  | -1.20% |
 | 10:00 | EUR | Business and Consumer Survey (Jun) | 94.0 | 95.1 | 94.8 |
 | 10:00 | EUR | Business Climate (Jun) | -0.78 |  | -0.57 |
 | 10:00 | EUR | Consumer Confidence (Jun) | -15.3 | -15.3 | -15.1 |
@@ -33,8 +33,8 @@
 | 10:00 | EUR | Services Sentiment (Jun) | 2.9 | 1.6 | 1.8 |
 | 10:00 | EUR | Industrial Sentiment (Jun) | -12.0 | -9.9 | -10.4 |
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.68% |  | 2.73% |
-| 11:00 | EUR | Italian PPI (MoM) (May) | -0.7% |  | -2.2% |
 | 11:00 | EUR | Italian PPI (YoY) (May) | 1.7% |  | 2.6% |
+| 11:00 | EUR | Italian PPI (MoM) (May) | -0.7% |  | -2.2% |
 | 12:00 | INR | Current Account % of GDP (YoY) | -0.60% |  | -0.70% |
 | 12:00 | EUR | Spanish Business Confidence (Jun) | -5.2 |  | -4.2 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) | -1.67% | -1.02% | -0.49% |
