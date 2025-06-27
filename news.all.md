@@ -13,7 +13,7 @@
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (May) | 2.0% |  | 3.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (May) | 2.2% | 2.4% | 3.5% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (May) | -1.1% |  | 1.4% |
-| 04:30 | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
+| 17 min | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 07:00 | NOK | Low | Unemployment Change (Jun) |  |  | 78.06K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (May) |  |  | 0.7% |
@@ -22,8 +22,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 0.7% | 0.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.2% | -0.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (May) |  |  | -4.3% |
 | 07:45 | EUR | Low | PPI (YoY) (May) |  |  | -0.80% |
+| 07:45 | EUR | Low | French PPI (MoM) (May) |  |  | -4.3% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 2.0% | 2.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.4% | 0.1% |
@@ -56,8 +56,8 @@
 | 13:00 | MXN | Low | Unemployment Rate (May) |  |  | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) |  | 2.50% | 2.50% |
 | 13:00 | BRL | Moderate | Unemployment Rate (May) |  | 6.4% | 6.6% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.1% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (May) |  | 2.6% | 2.5% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.1% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (May) |  | 2.3% | 2.1% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (May) |  | 0.1% | 0.1% |
 | 13:30 | USD | Low | Personal Income (MoM) (May) |  | 0.3% | 0.8% |
