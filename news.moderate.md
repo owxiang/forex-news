@@ -11,8 +11,8 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 2.2% | 2.0% | 2.0% |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.48% |  | 3.57% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
-| 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 13:00 | BRL | Unemployment Rate (May) |  | 6.4% | 6.6% |
+| 24 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 54 min | BRL | Unemployment Rate (May) |  | 6.4% | 6.6% |
 | 13:30 | USD | PCE Price index (YoY) (May) |  | 2.3% | 2.1% |
 | 13:30 | USD | PCE price index (MoM) (May) |  | 0.1% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (May) |  | 0.1% | 0.2% |
