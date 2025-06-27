@@ -15,8 +15,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (May) | 0.0% |  | 0.6% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 0.9% | 0.7% | 0.7% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 0.8% | 0.7% | 0.6% |
-| 07:45 | EUR | PPI (YoY) (May) | 0.20% |  | -0.70% |
 | 07:45 | EUR | French PPI (MoM) (May) | -0.8% |  | -4.2% |
+| 07:45 | EUR | PPI (YoY) (May) | 0.20% |  | -0.70% |
 | 08:00 | EUR | Core CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.6% | 0.4% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.0% |

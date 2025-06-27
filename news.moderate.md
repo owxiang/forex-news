@@ -13,8 +13,8 @@
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (May) | 6.2% | 6.4% | 6.6% |
-| 13:30 | USD | PCE Price index (YoY) (May) | 2.3% | 2.3% | 2.2% |
 | 13:30 | USD | PCE price index (MoM) (May) | 0.1% | 0.1% | 0.1% |
+| 13:30 | USD | PCE Price index (YoY) (May) | 2.3% | 2.3% | 2.2% |
 | 13:30 | USD | Personal Spending (MoM) (May) | -0.1% | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Apr) | -0.1% | 0.0% | 0.1% |
 | 13:31 | CAD | GDP (MoM) (May) | -0.1% |  | -0.1% |

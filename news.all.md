@@ -18,10 +18,10 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) | 0.2% | 0.1% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) | 0.9% | 0.7% | 0.7% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.3% | 0.1% | -0.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.8% | 0.7% | 0.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.4% | 0.2% | -0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (May) | 0.20% |  | -0.70% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.8% | 0.7% | 0.6% |
 | 07:45 | EUR | Low | French PPI (MoM) (May) | -0.8% |  | -4.2% |
+| 07:45 | EUR | Low | PPI (YoY) (May) | 0.20% |  | -0.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 2.2% | 2.0% | 2.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.6% | 0.4% | 0.1% |
@@ -60,10 +60,10 @@
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) | 2.70% | 2.50% | 2.50% |
 | 13:00 | INR | Low | Foreign Debt (USD) (Q1) | 736.3B |  | 717.9B |
 | 13:00 | BRL | Moderate | Unemployment Rate (May) | 6.2% | 6.4% | 6.6% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (May) | 0.2% | 0.1% | 0.1% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (May) | 2.7% | 2.6% | 2.6% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (May) | 2.3% | 2.3% | 2.2% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (May) | 0.2% | 0.1% | 0.1% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (May) | 0.1% | 0.1% | 0.1% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (May) | 2.3% | 2.3% | 2.2% |
 | 13:30 | USD | Low | Personal Income (MoM) (May) | -0.4% | 0.3% | 0.7% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (May) | -0.1% | 0.1% | 0.2% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (May) | -0.3% |  | 0.1% |
