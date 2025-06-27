@@ -18,10 +18,10 @@
 | 13:30 | USD | Personal Spending (MoM) (May) | -0.1% | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Apr) | -0.1% | 0.0% | 0.1% |
 | 13:31 | CAD | GDP (MoM) (May) | -0.1% |  | -0.1% |
-| 45 min | USD | Michigan 1-Year Inflation Expectations (Jun) |  | 5.1% | 6.6% |
-| 45 min | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 4.1% | 4.2% |
-| 45 min | USD | Michigan Consumer Expectations (Jun) |  | 58.4 | 47.9 |
-| 45 min | USD | Michigan Consumer Sentiment (Jun) |  | 60.5 | 52.2 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) | 5.0% | 5.1% | 6.6% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) | 4.0% | 4.1% | 4.2% |
+| 15:00 | USD | Michigan Consumer Expectations (Jun) | 58.1 | 58.4 | 47.9 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jun) | 60.7 | 60.5 | 52.2 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.4% | 3.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 436 | 438 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 554 |
