@@ -11,14 +11,14 @@
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (May) | 2.0% |  | 3.0% |
 | 00:50 | JPY | Retail Sales (YoY) (May) | 2.2% | 2.4% | 3.5% |
 | 02:30 | CNY | Chinese Industrial profit YTD (May) | -1.1% |  | 1.4% |
-| 54 min | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
+| 03:30 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 07:00 | NOK | Unemployment Change (Jun) |  |  | 78.06K |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
 | 07:00 | NOK | Core Retail Sales (MoM) (May) |  |  | 0.7% |
 | 07:45 | EUR | French CPI (YoY) (Jun) |  | 0.7% | 0.7% |
 | 07:45 | EUR | French HICP (YoY) (Jun) |  | 0.7% | 0.6% |
-| 07:45 | EUR | PPI (YoY) (May) |  |  | -0.80% |
 | 07:45 | EUR | French PPI (MoM) (May) |  |  | -4.3% |
+| 07:45 | EUR | PPI (YoY) (May) |  |  | -0.80% |
 | 08:00 | EUR | Core CPI (YoY) (Jun) |  |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.4% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
