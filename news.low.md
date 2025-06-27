@@ -33,8 +33,8 @@
 | 10:00 | EUR | Services Sentiment (Jun) | 2.9 | 1.6 | 1.8 |
 | 10:00 | EUR | Industrial Sentiment (Jun) | -12.0 | -9.9 | -10.4 |
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.68% |  | 2.73% |
-| 11:00 | EUR | Italian PPI (MoM) (May) | -0.7% |  | -2.2% |
 | 11:00 | EUR | Italian PPI (YoY) (May) | 1.7% |  | 2.6% |
+| 11:00 | EUR | Italian PPI (MoM) (May) | -0.7% |  | -2.2% |
 | 12:00 | INR | Current Account % of GDP (YoY) | -0.60% |  | -0.70% |
 | 12:00 | EUR | Spanish Business Confidence (Jun) | -5.2 |  | -4.2 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) | -1.67% | -1.02% | -0.49% |
