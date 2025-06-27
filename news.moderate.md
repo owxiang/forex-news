@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 23 min | JPY | Tokyo Core CPI (YoY) (Jun) |  | 3.3% | 3.6% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Jun) | 3.1% | 3.3% | 3.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (May) |  | 0.1% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jun) |  | 0.2% | -0.2% |

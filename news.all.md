@@ -3,16 +3,16 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 23 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) |  |  | 2.1% |
-| 23 min | JPY | Low | Jobs/applications ratio (May) |  | 1.26 | 1.26 |
-| 23 min | JPY | Moderate | Tokyo Core CPI (YoY) (Jun) |  | 3.3% | 3.6% |
-| 23 min | JPY | Low | Tokyo CPI (YoY) (Jun) |  |  | 3.4% |
-| 23 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) |  |  | 0.1% |
-| 23 min | JPY | Low | Unemployment Rate (May) |  | 2.5% | 2.5% |
-| 43 min | JPY | Low | Large Retailers' Sales (MoM) (May) |  |  | 0.5% |
-| 43 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (May) |  |  | 3.0% |
-| 43 min | JPY | Low | Retail Sales (YoY) (May) |  | 2.4% | 3.3% |
-| 02:30 | CNY | Low | Chinese Industrial profit YTD (May) |  |  | 1.4% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.8% |  | 2.1% |
+| 00:30 | JPY | Low | Jobs/applications ratio (May) | 1.24 | 1.26 | 1.26 |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jun) | 3.1% | 3.3% | 3.6% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Jun) | 3.1% |  | 3.4% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) | -0.4% |  | 0.1% |
+| 00:30 | JPY | Low | Unemployment Rate (May) | 2.5% | 2.5% | 2.5% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (May) | -0.2% |  | 0.7% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (May) | 2.0% |  | 3.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (May) | 2.2% | 2.4% | 3.5% |
+| 58 min | CNY | Low | Chinese Industrial profit YTD (May) |  |  | 1.4% |
 | 03:30 | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 07:00 | NOK | Low | Unemployment Change (Jun) |  |  | 78.06K |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
@@ -22,8 +22,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.2% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 0.7% | 0.6% |
-| 07:45 | EUR | Low | PPI (YoY) (May) |  |  | -0.80% |
 | 07:45 | EUR | Low | French PPI (MoM) (May) |  |  | -4.3% |
+| 07:45 | EUR | Low | PPI (YoY) (May) |  |  | -0.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 2.0% | 2.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.4% | 0.1% |
