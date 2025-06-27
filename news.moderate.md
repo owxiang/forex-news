@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Jun) | 3.1% | 3.3% | 3.6% |
-| 07:45 | EUR | French Consumer Spending (MoM) (May) |  | 0.1% | 0.3% |
-| 07:45 | EUR | French CPI (MoM) (Jun) |  | 0.1% | -0.1% |
-| 07:45 | EUR | French HICP (MoM) (Jun) |  | 0.2% | -0.2% |
-| 08:00 | EUR | Spanish CPI (YoY) (Jun) |  | 2.0% | 2.0% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jun) |  | 2.0% | 2.0% |
+| 35 min | EUR | French Consumer Spending (MoM) (May) |  | 0.1% | 0.3% |
+| 35 min | EUR | French CPI (MoM) (Jun) |  | 0.1% | -0.1% |
+| 35 min | EUR | French HICP (MoM) (Jun) |  | 0.2% | -0.2% |
+| 50 min | EUR | Spanish CPI (YoY) (Jun) |  | 2.0% | 2.0% |
+| 50 min | EUR | Spanish HICP (YoY) (Jun) |  | 2.0% | 2.0% |
 | 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.57% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (May) |  | 6.4% | 6.6% |
-| 13:30 | USD | PCE price index (MoM) (May) |  | 0.1% | 0.1% |
 | 13:30 | USD | PCE Price index (YoY) (May) |  | 2.3% | 2.1% |
+| 13:30 | USD | PCE price index (MoM) (May) |  | 0.1% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Apr) |  | 0.0% | 0.1% |
 | 13:31 | CAD | GDP (MoM) (May) |  |  |  |

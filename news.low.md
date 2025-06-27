@@ -11,18 +11,18 @@
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (May) | 2.0% |  | 3.0% |
 | 00:50 | JPY | Retail Sales (YoY) (May) | 2.2% | 2.4% | 3.5% |
 | 02:30 | CNY | Chinese Industrial profit YTD (May) | -1.1% |  | 1.4% |
-| 52 min | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
-| 52 min | NOK | Unemployment Change (Jun) |  |  | 78.06K |
-| 52 min | NOK | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
-| 52 min | NOK | Core Retail Sales (MoM) (May) |  |  | 0.7% |
-| 07:45 | EUR | French CPI (YoY) (Jun) |  | 0.7% | 0.7% |
-| 07:45 | EUR | French HICP (YoY) (Jun) |  | 0.7% | 0.6% |
-| 07:45 | EUR | PPI (YoY) (May) |  |  | -0.80% |
-| 07:45 | EUR | French PPI (MoM) (May) |  |  | -4.3% |
-| 08:00 | EUR | Core CPI (YoY) (Jun) |  |  | 2.2% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.4% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (May) |  |  | 4.0% |
+| 07:00 | NOK | Unemployment Change (Jun) |  |  | 78.06K |
+| 07:00 | NOK | Unemployment Rate n.s.a. (Jun) | 2.00% | 2.00% | 2.00% |
+| 07:00 | NOK | Core Retail Sales (MoM) (May) | 0.0% |  | 0.6% |
+| 35 min | EUR | French CPI (YoY) (Jun) |  | 0.7% | 0.7% |
+| 35 min | EUR | French HICP (YoY) (Jun) |  | 0.7% | 0.6% |
+| 35 min | EUR | PPI (YoY) (May) |  |  | -0.80% |
+| 35 min | EUR | French PPI (MoM) (May) |  |  | -4.3% |
+| 50 min | EUR | Core CPI (YoY) (Jun) |  |  | 2.2% |
+| 50 min | EUR | Spanish CPI (MoM) (Jun) |  | 0.4% | 0.1% |
+| 50 min | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
+| 50 min | EUR | Spanish Retail Sales (YoY) (May) |  |  | 4.0% |
+| 50 min | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 09:00 | EUR | Italian Business Confidence (Jun) |  | 87.0 | 86.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Jun) |  | 97.0 | 96.5 |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | -1.10% |
@@ -35,8 +35,8 @@
 | 10:00 | EUR | Services Sentiment (Jun) |  | 1.6 | 1.5 |
 | 10:00 | EUR | Industrial Sentiment (Jun) |  | -9.9 | -10.3 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.73% |
-| 11:00 | EUR | Italian PPI (MoM) (May) |  |  | -2.2% |
 | 11:00 | EUR | Italian PPI (YoY) (May) |  |  | 2.6% |
+| 11:00 | EUR | Italian PPI (MoM) (May) |  |  | -2.2% |
 | 12:00 | EUR | Spanish Business Confidence (Jun) |  |  | -4.2 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) |  | -1.02% | -0.49% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.0% |
