@@ -11,10 +11,10 @@
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (May) | 2.0% |  | 3.0% |
 | 00:50 | JPY | Retail Sales (YoY) (May) | 2.2% | 2.4% | 3.5% |
 | 02:30 | CNY | Chinese Industrial profit YTD (May) | -1.1% |  | 1.4% |
-| 17 min | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
-| 07:00 | NOK | Unemployment Change (Jun) |  |  | 78.06K |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
-| 07:00 | NOK | Core Retail Sales (MoM) (May) |  |  | 0.7% |
+| 52 min | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
+| 52 min | NOK | Unemployment Change (Jun) |  |  | 78.06K |
+| 52 min | NOK | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 2.00% |
+| 52 min | NOK | Core Retail Sales (MoM) (May) |  |  | 0.7% |
 | 07:45 | EUR | French CPI (YoY) (Jun) |  | 0.7% | 0.7% |
 | 07:45 | EUR | French HICP (YoY) (Jun) |  | 0.7% | 0.6% |
 | 07:45 | EUR | PPI (YoY) (May) |  |  | -0.80% |
@@ -35,8 +35,8 @@
 | 10:00 | EUR | Services Sentiment (Jun) |  | 1.6 | 1.5 |
 | 10:00 | EUR | Industrial Sentiment (Jun) |  | -9.9 | -10.3 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.73% |
-| 11:00 | EUR | Italian PPI (YoY) (May) |  |  | 2.6% |
 | 11:00 | EUR | Italian PPI (MoM) (May) |  |  | -2.2% |
+| 11:00 | EUR | Italian PPI (YoY) (May) |  |  | 2.6% |
 | 12:00 | EUR | Spanish Business Confidence (Jun) |  |  | -4.2 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) |  | -1.02% | -0.49% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.0% |
@@ -53,3 +53,14 @@
 | 15:00 | USD | Michigan Current Conditions (Jun) |  | 63.7 | 58.9 |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) |  | 179.00K | 257.53K |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.6K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 23.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -107.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -92.5K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 67.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 85.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -84.6K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -66.3K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 58.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -1.3K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -1.3K |

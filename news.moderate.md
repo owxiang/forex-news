@@ -13,8 +13,8 @@
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 12:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | BRL | Unemployment Rate (May) |  | 6.4% | 6.6% |
-| 13:30 | USD | PCE Price index (YoY) (May) |  | 2.3% | 2.1% |
 | 13:30 | USD | PCE price index (MoM) (May) |  | 0.1% | 0.1% |
+| 13:30 | USD | PCE Price index (YoY) (May) |  | 2.3% | 2.1% |
 | 13:30 | USD | Personal Spending (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Apr) |  | 0.0% | 0.1% |
 | 13:31 | CAD | GDP (MoM) (May) |  |  |  |
@@ -25,4 +25,14 @@
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  |  | 3.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 438 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 554 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 42.9K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 231.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 200.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 15.7K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -174.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -69.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 51.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 130.9K |
+| 20:30 | JPY | au Jibun Bank Services PMI |  |  | 51.5 |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 101.6K |
 | 21:30 | USD | Fed Bank Stress Test Results |  |  |  |
