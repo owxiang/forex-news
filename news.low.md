@@ -48,11 +48,11 @@
 | 12:30 | BRL | Bank lending (MoM) (May) | 0.6% |  | 0.7% |
 | 13:00 | MXN | Unemployment Rate (May) | 2.70% |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (May) | 2.70% | 2.50% | 2.50% |
-| 18 min | USD | Personal Income (MoM) (May) |  | 0.3% | 0.8% |
-| 18 min | USD | Real Personal Consumption (MoM) (May) |  |  | 0.1% |
-| 48 min | USD | Dallas Fed PCE (May) |  |  | 2.70% |
+| 13:00 | INR | Foreign Debt (USD) (Q1) | 736.3B |  | 717.9B |
+| 13:30 | USD | Personal Income (MoM) (May) | -0.4% | 0.3% | 0.7% |
+| 13:30 | USD | Real Personal Consumption (MoM) (May) | -0.3% |  | 0.1% |
 | 14:15 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | Michigan Current Conditions (Jun) |  | 63.7 | 58.9 |
+| 45 min | USD | Michigan Current Conditions (Jun) |  | 63.7 | 58.9 |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) |  | 179.00K | 257.53K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.6K |

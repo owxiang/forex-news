@@ -58,26 +58,26 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (May) | 0.6% |  | 0.7% |
 | 13:00 | MXN | Low | Unemployment Rate (May) | 2.70% |  | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) | 2.70% | 2.50% | 2.50% |
+| 13:00 | INR | Low | Foreign Debt (USD) (Q1) | 736.3B |  | 717.9B |
 | 13:00 | BRL | Moderate | Unemployment Rate (May) | 6.2% | 6.4% | 6.6% |
-| 18 min | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.1% |
-| 18 min | USD | High | Core PCE Price Index (YoY) (May) |  | 2.6% | 2.5% |
-| 18 min | USD | Moderate | PCE Price index (YoY) (May) |  | 2.3% | 2.1% |
-| 18 min | USD | Moderate | PCE price index (MoM) (May) |  | 0.1% | 0.1% |
-| 18 min | USD | Low | Personal Income (MoM) (May) |  | 0.3% | 0.8% |
-| 18 min | USD | Moderate | Personal Spending (MoM) (May) |  | 0.1% | 0.2% |
-| 18 min | USD | Low | Real Personal Consumption (MoM) (May) |  |  | 0.1% |
-| 18 min | CAD | Moderate | GDP (MoM) (Apr) |  | 0.0% | 0.1% |
-| 19 min | CAD | Moderate | GDP (MoM) (May) |  |  |  |
-| 48 min | USD | Low | Dallas Fed PCE (May) |  |  | 2.70% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (May) | 2.7% | 2.6% | 2.6% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (May) | 0.2% | 0.1% | 0.1% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (May) | 2.3% | 2.3% | 2.2% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (May) | 0.1% | 0.1% | 0.1% |
+| 13:30 | USD | Low | Personal Income (MoM) (May) | -0.4% | 0.3% | 0.7% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (May) | -0.1% | 0.1% | 0.2% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (May) | -0.3% |  | 0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Apr) | -0.1% | 0.0% | 0.1% |
+| 13:31 | CAD | Moderate | GDP (MoM) (May) | -0.1% |  | -0.1% |
 | 14:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  | 5.1% | 6.6% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 4.1% | 4.2% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 58.4 | 47.9 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 60.5 | 52.2 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 63.7 | 58.9 |
+| 45 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  | 5.1% | 6.6% |
+| 45 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 4.1% | 4.2% |
+| 45 min | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 58.4 | 47.9 |
+| 45 min | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 60.5 | 52.2 |
+| 45 min | USD | Low | Michigan Current Conditions (Jun) |  | 63.7 | 58.9 |
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.4% | 3.4% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 438 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 436 | 438 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 554 |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  | 179.00K | 257.53K |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 42.9K |
