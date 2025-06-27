@@ -16,8 +16,8 @@
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) | 2.00% | 2.00% | 2.00% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (May) | 0.0% |  | 0.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) | 0.2% | 0.1% | 0.5% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.3% | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) | 0.9% | 0.7% | 0.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.3% | 0.1% | -0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.8% | 0.7% | 0.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.4% | 0.2% | -0.2% |
 | 07:45 | EUR | Low | PPI (YoY) (May) | 0.20% |  | -0.70% |
@@ -25,22 +25,20 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 2.2% | 2.0% | 2.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.6% | 0.4% | 0.1% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.0% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 2.2% | 2.0% | 2.0% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.0% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) | 4.8% |  | 4.1% |
-| 52 min | EUR | Low | Italian Business Confidence (Jun) |  | 87.0 | 86.5 |
-| 52 min | EUR | Low | Italian Consumer Confidence (Jun) |  | 97.0 | 96.5 |
-| 52 min | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
-| 52 min | NOK | Low | Unemployment Change (Jun) |  |  | 78.06K |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (Apr) |  |  | -1.10% |
-| 10:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | -1.60% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Jun) |  | 95.1 | 94.8 |
-| 10:00 | EUR | Low | Business Climate (Jun) |  |  | -0.55 |
-| 10:00 | EUR | Low | Consumer Confidence (Jun) |  | -15.3 | -15.1 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Jun) |  |  | 23.6 |
-| 10:00 | EUR | Low | Selling Price Expectations (Jun) |  |  | 7.9 |
-| 10:00 | EUR | Low | Services Sentiment (Jun) |  | 1.6 | 1.5 |
-| 10:00 | EUR | Low | Industrial Sentiment (Jun) |  | -9.9 | -10.3 |
+| 09:00 | EUR | Low | Italian Business Confidence (Jun) | 87.3 | 87.0 | 86.6 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Jun) | 96.1 | 97.0 | 96.5 |
+| 50 min | EUR | Low | Italian Industrial Sales (YoY) (Apr) |  |  | -1.10% |
+| 50 min | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | -1.60% |
+| 50 min | EUR | Low | Business and Consumer Survey (Jun) |  | 95.1 | 94.8 |
+| 50 min | EUR | Low | Business Climate (Jun) |  |  | -0.55 |
+| 50 min | EUR | Low | Consumer Confidence (Jun) |  | -15.3 | -15.1 |
+| 50 min | EUR | Low | Consumer Inflation Expectation (Jun) |  |  | 23.6 |
+| 50 min | EUR | Low | Selling Price Expectations (Jun) |  |  | 7.9 |
+| 50 min | EUR | Low | Services Sentiment (Jun) |  | 1.6 | 1.5 |
+| 50 min | EUR | Low | Industrial Sentiment (Jun) |  | -9.9 | -10.3 |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.57% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.73% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (May) |  |  | 2.6% |

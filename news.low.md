@@ -21,19 +21,17 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.6% | 0.4% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.6% | 0.6% | 0.0% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 4.8% |  | 4.1% |
-| 52 min | EUR | Italian Business Confidence (Jun) |  | 87.0 | 86.5 |
-| 52 min | EUR | Italian Consumer Confidence (Jun) |  | 97.0 | 96.5 |
-| 52 min | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
-| 52 min | NOK | Unemployment Change (Jun) |  |  | 78.06K |
-| 10:00 | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | -1.10% |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | -1.60% |
-| 10:00 | EUR | Business and Consumer Survey (Jun) |  | 95.1 | 94.8 |
-| 10:00 | EUR | Business Climate (Jun) |  |  | -0.55 |
-| 10:00 | EUR | Consumer Confidence (Jun) |  | -15.3 | -15.1 |
-| 10:00 | EUR | Consumer Inflation Expectation (Jun) |  |  | 23.6 |
-| 10:00 | EUR | Selling Price Expectations (Jun) |  |  | 7.9 |
-| 10:00 | EUR | Services Sentiment (Jun) |  | 1.6 | 1.5 |
-| 10:00 | EUR | Industrial Sentiment (Jun) |  | -9.9 | -10.3 |
+| 09:00 | EUR | Italian Business Confidence (Jun) | 87.3 | 87.0 | 86.6 |
+| 09:00 | EUR | Italian Consumer Confidence (Jun) | 96.1 | 97.0 | 96.5 |
+| 50 min | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | -1.10% |
+| 50 min | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | -1.60% |
+| 50 min | EUR | Business and Consumer Survey (Jun) |  | 95.1 | 94.8 |
+| 50 min | EUR | Business Climate (Jun) |  |  | -0.55 |
+| 50 min | EUR | Consumer Confidence (Jun) |  | -15.3 | -15.1 |
+| 50 min | EUR | Consumer Inflation Expectation (Jun) |  |  | 23.6 |
+| 50 min | EUR | Selling Price Expectations (Jun) |  |  | 7.9 |
+| 50 min | EUR | Services Sentiment (Jun) |  | 1.6 | 1.5 |
+| 50 min | EUR | Industrial Sentiment (Jun) |  | -9.9 | -10.3 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.73% |
 | 11:00 | EUR | Italian PPI (YoY) (May) |  |  | 2.6% |
 | 11:00 | EUR | Italian PPI (MoM) (May) |  |  | -2.2% |
