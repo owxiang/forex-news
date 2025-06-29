@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (May) |  | 2.6% | 4.9% |
-| 00:00 | KRW | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
-| 00:00 | KRW | Retail Sales (MoM) (May) |  | -0.1% | -0.9% |
-| 00:00 | KRW | Service Sector Output (MoM) (May) |  |  | -0.1% |
-| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 9.0% |
-| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -3.4% |
+| 00:00 | KRW | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
+| 00:00 | KRW | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
+| 00:00 | KRW | Retail Sales (MoM) (May) | 0.0% | -0.1% | -0.9% |
+| 00:00 | KRW | Service Sector Output (MoM) (May) | -0.1% |  | -0.1% |
+| 44 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 9.0% |
+| 44 min | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -3.4% |
 | 02:00 | AUD | MI Inflation Gauge (MoM) (Jun) |  |  | -0.4% |
 | 02:00 | NZD | ANZ Business Confidence (Jun) |  |  | 36.6 |
 | 02:00 | NZD | NBNZ Own Activity (Jun) |  |  | 34.8% |
@@ -27,8 +27,8 @@
 | 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -0.4% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |

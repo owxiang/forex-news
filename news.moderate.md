@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Industrial Production (MoM) (May) |  | 3.4% | -1.1% |
+| 44 min | JPY | Industrial Production (MoM) (May) |  | 3.4% | -1.1% |
 | 02:30 | CNY | Chinese Composite PMI (Jun) |  |  | 50.4 |
 | 02:30 | CNY | Non-Manufacturing PMI (Jun) |  | 50.3 | 50.3 |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 5.9% | -1.9% |

@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (May) |  | 2.6% | 4.9% |
-| 00:00 | KRW | Low | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
-| 00:00 | KRW | Low | Retail Sales (MoM) (May) |  | -0.1% | -0.9% |
-| 00:00 | KRW | Low | Service Sector Output (MoM) (May) |  |  | -0.1% |
-| 00:50 | JPY | Moderate | Industrial Production (MoM) (May) |  | 3.4% | -1.1% |
-| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 9.0% |
-| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -3.4% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
+| 00:00 | KRW | Low | Retail Sales (MoM) (May) | 0.0% | -0.1% | -0.9% |
+| 00:00 | KRW | Low | Service Sector Output (MoM) (May) | -0.1% |  | -0.1% |
+| 44 min | JPY | Moderate | Industrial Production (MoM) (May) |  | 3.4% | -1.1% |
+| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 9.0% |
+| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -3.4% |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jun) |  |  | -0.4% |
 | 02:00 | NZD | Low | ANZ Business Confidence (Jun) |  |  | 36.6 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jun) |  |  | 34.8% |
@@ -37,8 +37,8 @@
 | 09:00 | EUR | Low | Italian Public Deficit (Q1) |  |  | -0.4% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
