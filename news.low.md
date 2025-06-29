@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Industrial Production (YoY) (May) |  | 2.6% | 4.9% |
+| 00:00 | KRW | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Retail Sales (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (May) |  |  | -0.1% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 9.0% |
@@ -13,7 +13,6 @@
 | 02:00 | NZD | NBNZ Own Activity (Jun) |  |  | 34.8% |
 | 02:30 | AUD | Housing Credit (May) |  |  | 0.5% |
 | 02:30 | AUD | Private Sector Credit (MoM) (May) |  | 0.7% | 0.7% |
-| 02:30 | CNY | Manufacturing PMI (MoM) (Jun) |  |  | 49.50% |
 | 04:00 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 04:00 | NZD | M3 Money Supply (May) |  |  | 435,082.0B |
 | 06:00 | JPY | Construction Orders (YoY) (May) |  |  | 52.7% |

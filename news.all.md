@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (May) |  | 2.6% | 4.9% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (May) |  |  | -0.1% |
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (May) |  | 3.4% | -1.1% |
@@ -17,7 +17,6 @@
 | 02:30 | CNY | Moderate | Chinese Composite PMI (Jun) |  |  | 50.4 |
 | 02:30 | CNY | High | Manufacturing PMI (Jun) |  | 49.6 | 49.5 |
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jun) |  | 50.3 | 50.3 |
-| 02:30 | CNY | Low | Manufacturing PMI (MoM) (Jun) |  |  | 49.50% |
 | 04:00 | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 04:00 | NZD | Low | M3 Money Supply (May) |  |  | 435,082.0B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) |  |  | 52.7% |
