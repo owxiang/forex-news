@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Industrial Production (YoY) (May) |  | 2.6% | 4.9% |
+| 00:00 | KRW | Industrial Production (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Retail Sales (MoM) (May) |  | -0.1% | -0.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (May) |  |  | -0.1% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 9.0% |
@@ -32,16 +32,16 @@
 | 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) |  |  | 1.42B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jul) |  |  | 100.0M |
-| 09:00 | EUR | M3 Money Supply (May) |  |  | 16,901.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (May) |  | 4.0% | 3.9% |
+| 09:00 | EUR | M3 Money Supply (May) |  |  | 16,901.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (May) |  |  | 2.6% |
 | 09:00 | EUR | Private Sector Loans (YoY) (May) |  | 2.0% | 1.9% |
 | 09:30 | GBP | BoE Consumer Credit (May) |  |  | 1.580B |
