@@ -29,8 +29,8 @@
 | 07:00 | GBP | High | GDP (YoY) (Q1) |  | 1.3% | 1.5% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (May) |  | -0.3% | -1.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (May) |  |  | -0.4% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.5% | -1.1% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | 2.3% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.5% | -1.1% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) |  |  | 6.12% |
 | 07:00 | ZAR | Low | Private Sector Credit (May) |  |  | 4.60% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 99.3 | 98.5 |
@@ -40,12 +40,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) |  |  | 1.42B |
@@ -65,8 +65,8 @@
 | 09:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  |  | 1.6% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  |  | -0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  |  | 1.7% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  |  | -0.1% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
 | 11:00 | INR | Low | Federal Fiscal Deficit (May) |  |  | 1,863.32B |
 | 11:30 | INR | Low | Industrial Production (YoY) (May) |  | 2.4% | 2.7% |
@@ -79,8 +79,8 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 76.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jun) |  |  | 2.1% |
 | 13:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.2% | 0.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (Jun) |  |  | 2.1% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jun) |  |  | 0.2% |
+| 13:00 | EUR | Low | German HICP (YoY) (Jun) |  |  | 2.1% |
 | 13:00 | ZAR | Low | Trade Balance (May) |  |  | 14.08B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.932% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.951% |
