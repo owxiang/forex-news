@@ -26,22 +26,22 @@
 | 07:00 | ZAR | Private Sector Credit (May) |  |  | 4.60% |
 | 08:00 | CHF | Official Reserves Assets (May) |  |  | 806.1B |
 | 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -0.4% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) |  |  | 1.42B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jul) |  |  | 100.0M |
-| 09:00 | EUR | M3 Money Supply (May) |  |  | 16,901.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (May) |  | 4.0% | 3.9% |
+| 09:00 | EUR | M3 Money Supply (May) |  |  | 16,901.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (May) |  |  | 2.6% |
 | 09:00 | EUR | Private Sector Loans (YoY) (May) |  | 2.0% | 1.9% |
 | 09:30 | GBP | BoE Consumer Credit (May) |  |  | 1.580B |

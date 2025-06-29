@@ -29,29 +29,29 @@
 | 07:00 | GBP | High | GDP (YoY) (Q1) |  | 1.3% | 1.5% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (May) |  | -0.3% | -1.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (May) |  |  | -0.4% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | 2.3% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.5% | -1.1% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | 2.3% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) |  |  | 6.12% |
 | 07:00 | ZAR | Low | Private Sector Credit (May) |  |  | 4.60% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 99.3 | 98.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) |  |  | 806.1B |
 | 09:00 | EUR | Low | Italian Public Deficit (Q1) |  |  | -0.4% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) |  |  | 1.42B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | 100.0M |
-| 09:00 | EUR | Low | M3 Money Supply (May) |  |  | 16,901.4B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (May) |  | 4.0% | 3.9% |
+| 09:00 | EUR | Low | M3 Money Supply (May) |  |  | 16,901.4B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (May) |  |  | 2.6% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (May) |  | 2.0% | 1.9% |
 | 09:30 | GBP | Low | BoE Consumer Credit (May) |  |  | 1.580B |
