@@ -36,8 +36,8 @@
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 99.3 | 98.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) |  |  | 806.1B |
 | 09:00 | EUR | Low | Italian Public Deficit (Q1) |  |  | -0.4% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
@@ -50,8 +50,8 @@
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) |  |  | 1.42B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | 100.0M |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) |  | 4.0% | 3.9% |
 | 09:00 | EUR | Low | M3 Money Supply (May) |  |  | 16,901.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) |  | 4.0% | 3.9% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (May) |  |  | 2.6% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (May) |  | 2.0% | 1.9% |
 | 09:30 | GBP | Low | BoE Consumer Credit (May) |  |  | 1.580B |
