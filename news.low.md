@@ -28,8 +28,8 @@
 | 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -0.4% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
@@ -51,8 +51,8 @@
 | 09:30 | GBP | Mortgage Lending (May) |  |  | -0.76B |
 | 09:30 | GBP | Net Lending to Individuals (May) |  | 4.100B | 0.820B |
 | 09:30 | HKD | M3 Money Supply (May) |  |  | 6.6% |
-| 10:00 | EUR | Italian CPI (YoY) (Jun) |  |  | 1.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Jun) |  |  | 1.6% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) |  |  | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) |  |  | -0.1% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
