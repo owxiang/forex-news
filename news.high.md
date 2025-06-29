@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CNY | Manufacturing PMI (Jun) |  | 49.6 | 49.5 |
-| 07:00 | GBP | GDP (QoQ) (Q1) |  | 0.7% | 0.1% |
 | 07:00 | GBP | GDP (YoY) (Q1) |  | 1.3% | 1.5% |
+| 07:00 | GBP | GDP (QoQ) (Q1) |  | 0.7% | 0.1% |
 | 13:00 | EUR | German CPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 14:45 | USD | Chicago PMI (Jun) |  | 42.7 | 40.5 |

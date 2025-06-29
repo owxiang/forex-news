@@ -25,8 +25,8 @@
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) |  | 8.1% | 1.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 5.9% | -1.9% |
 | 07:00 | GBP | Moderate | Current Account (Q1) |  | -19.7B | -21.0B |
-| 07:00 | GBP | High | GDP (QoQ) (Q1) |  | 0.7% | 0.1% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) |  | 1.3% | 1.5% |
+| 07:00 | GBP | High | GDP (QoQ) (Q1) |  | 0.7% | 0.1% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (May) |  | -0.3% | -1.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (May) |  |  | -0.4% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | 2.3% |
