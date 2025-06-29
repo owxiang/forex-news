@@ -39,8 +39,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
@@ -62,8 +62,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (May) |  | 4.100B | 0.820B |
 | 09:30 | HKD | Low | M3 Money Supply (May) |  |  | 6.6% |
 | 09:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  |  | 1.6% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  |  | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  |  | -0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
@@ -78,8 +78,8 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 76.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jun) |  |  | 2.1% |
 | 13:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.2% | 0.1% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jun) |  |  | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jun) |  |  | 2.1% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jun) |  |  | 0.2% |
 | 13:00 | ZAR | Low | Trade Balance (May) |  |  | 14.08B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.932% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.951% |
