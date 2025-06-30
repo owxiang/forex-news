@@ -67,9 +67,9 @@
 | 13:00 | EUR | German HICP (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 13:00 | EUR | German HICP (MoM) (Jun) | 0.1% | 0.3% | 0.2% |
 | 13:00 | ZAR | Trade Balance (May) | 21.67B |  | 13.00B |
-| 48 min | EUR | French 12-Month BTF Auction |  |  | 1.932% |
-| 48 min | EUR | French 3-Month BTF Auction |  |  | 1.951% |
-| 48 min | EUR | French 6-Month BTF Auction |  |  | 1.932% |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.918% |  | 1.932% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.957% |  | 1.951% |
+| 14:00 | EUR | French 6-Month BTF Auction | 1.949% |  | 1.932% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jun) |  |  | -15.3 |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.195% |

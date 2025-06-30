@@ -81,11 +81,11 @@
 | 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.1% | 0.3% | 0.2% |
 | 13:00 | ZAR | Low | Trade Balance (May) | 21.67B |  | 13.00B |
-| 48 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.932% |
-| 48 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.951% |
-| 48 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.932% |
-| 14:45 | USD | High | Chicago PMI (Jun) |  | 42.7 | 40.5 |
-| 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.918% |  | 1.932% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.957% |  | 1.951% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.949% |  | 1.932% |
+| 28 min | USD | High | Chicago PMI (Jun) |  | 42.7 | 40.5 |
+| 43 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) |  |  | -15.3 |
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
