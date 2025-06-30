@@ -10,8 +10,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (May) | -1.6% | 0.5% | -0.6% |
 | 08:00 | CHF | KOF Leading Indicators (Jun) | 96.1 | 99.3 | 98.6 |
 | 09:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 24 min | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 76.2% |
-| 54 min | EUR | German CPI (YoY) (Jun) |  | 2.2% | 2.1% |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) | 76.1% |  | 76.2% |
+| 13:00 | EUR | German CPI (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | NZIER Business Confidence (Q2) |  |  | 19% |
