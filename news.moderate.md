@@ -14,4 +14,4 @@
 | 13:00 | EUR | German CPI (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 54 min | NZD | NZIER Business Confidence (Q2) |  |  | 19% |
+| 23:00 | NZD | NZIER Business Confidence (Q2) | 22% |  | 19% |
