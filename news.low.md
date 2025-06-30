@@ -24,37 +24,38 @@
 | 07:00 | ZAR | Private Sector Credit (May) | 4.98% |  | 4.60% |
 | 08:00 | CHF | Official Reserves Assets (May) | 806.1B |  | 806.1B |
 | 09:00 | EUR | Italian Public Deficit (Q1) | 8.5% |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Spanish Current account (Apr) | 1.36B |  | 1.42B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jul) | -150.0M |  | 100.0M |
-| 09:00 | EUR | M3 Money Supply (May) |  |  | 16,901.4B |
-| 09:00 | EUR | M3 Money Supply (YoY) (May) | 3.9% | 4.0% | 3.6% |
+| 09:00 | EUR | M3 Money Supply (May) | 16,919.7B |  | 16,901.4B |
+| 09:00 | EUR | M3 Money Supply (YoY) (May) | 3.9% | 4.0% | 3.7% |
 | 09:00 | EUR | Loans to Non Financial Corporations (May) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) (May) | 2.0% | 2.0% | 1.9% |
-| 20 min | GBP | BoE Consumer Credit (May) |  | 1.100B | 1.580B |
-| 20 min | GBP | M3 Money Supply (May) |  |  | 3,127.8B |
-| 20 min | GBP | M4 Money Supply (MoM) (May) |  | 0.2% | 0.0% |
-| 20 min | GBP | Mortgage Approvals (May) |  | 61.00K | 60.46K |
-| 20 min | GBP | Mortgage Lending (May) |  | 2.50B | -0.76B |
-| 20 min | GBP | Net Lending to Individuals (May) |  | 4.100B | 0.820B |
-| 20 min | HKD | M3 Money Supply (May) |  |  | 6.6% |
-| 50 min | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
-| 50 min | EUR | Italian CPI (YoY) (Jun) |  | 1.7% | 1.6% |
-| 50 min | EUR | Italian HICP (MoM) (Jun) |  | 0.3% | -0.1% |
-| 50 min | EUR | Italian HICP (YoY) (Jun) |  | 1.8% | 1.7% |
-| 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
-| 11:00 | INR | Federal Fiscal Deficit (May) |  |  | 1,863.32B |
+| 09:15 | ZAR | Budget Balance (MoM) (May) | -10.12B |  | -64.63B |
+| 09:30 | GBP | BoE Consumer Credit (May) | 0.859B | 1.100B | 1.944B |
+| 09:30 | GBP | M3 Money Supply (May) | 3,133.6B |  | 3,127.1B |
+| 09:30 | GBP | M4 Money Supply (MoM) (May) | 0.2% | 0.2% | -0.1% |
+| 09:30 | GBP | Mortgage Approvals (May) | 63.03K | 61.00K | 60.66K |
+| 09:30 | GBP | Mortgage Lending (May) | 2.05B | 2.50B | -0.78B |
+| 09:30 | GBP | Net Lending to Individuals (May) | 2.900B | 4.100B | 0.820B |
+| 09:30 | HKD | M3 Money Supply (May) | 9.5% |  | 6.6% |
+| 10:00 | EUR | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
+| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.2% | 0.1% | -0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Jun) | 1.7% | 1.8% | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.3% | -0.1% |
+| 51 min | EUR | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
+| 51 min | INR | Federal Fiscal Deficit (May) |  |  | 1,863.32B |
 | 11:30 | INR | Industrial Production (YoY) (May) |  | 2.4% | 2.7% |
 | 11:30 | INR | Manufacturing Output (MoM) (May) |  |  | 3.4% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
@@ -62,8 +63,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (May) |  |  | 61.7% |
 | 12:30 | BRL | Budget Balance (May) |  | -116.000B | -55.536B |
 | 12:30 | BRL | Budget Surplus (May) |  |  | 14.150B |
-| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.2% | 2.1% |
 | 13:00 | EUR | German HICP (MoM) (Jun) |  | 0.3% | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.2% | 2.1% |
 | 13:00 | ZAR | Trade Balance (May) |  |  | 14.08B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.932% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.951% |
@@ -72,7 +73,6 @@
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.195% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.120% |
-| 16:38 | ZAR | Budget Balance (MoM) (May) |  |  | -64.63B |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) |  | 179.00K | 257.53K |
 | 22:00 | MXN | Fiscal Balance (May) |  |  | 0.29B |

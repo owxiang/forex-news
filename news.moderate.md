@@ -9,8 +9,7 @@
 | 07:00 | GBP | Current Account (Q1) | -23.5B | -19.7B | -21.0B |
 | 07:00 | EUR | German Retail Sales (MoM) (May) | -1.6% | 0.5% | -0.6% |
 | 08:00 | CHF | KOF Leading Indicators (Jun) | 96.1 | 99.3 | 98.6 |
-| 20 min | GBP | Mortgage Rate (GBP) (Jun) |  |  | 7.09% |
-| 20 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  |  | 76.2% |
 | 13:00 | EUR | German CPI (YoY) (Jun) |  | 2.2% | 2.1% |
 | 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
