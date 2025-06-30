@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (May) | 0.0% | -0.1% | -0.9% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (May) | -0.1% |  | -0.1% |
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (May) | 0.5% | 3.4% | -1.1% |
@@ -34,14 +34,14 @@
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 96.1 | 99.3 | 98.6 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) | 806.1B |  | 806.1B |
 | 09:00 | EUR | Low | Italian Public Deficit (Q1) | 8.5% |  | -0.3% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
@@ -61,10 +61,10 @@
 | 09:30 | GBP | Low | Net Lending to Individuals (May) | 2.900B | 4.100B | 1.170B |
 | 09:30 | HKD | Low | M3 Money Supply (May) | 9.5% |  | 6.6% |
 | 09:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.2% | 0.1% | -0.1% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.3% | -0.1% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) | 1.7% | 1.8% | 1.7% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.3% | -0.1% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) | 5.26B |  | 2.32B |
 | 11:00 | INR | Low | Federal Fiscal Deficit (May) | 131.63B |  | 1,863.32B |
 | 11:30 | INR | Low | Cumulative Industrial Production (May) | 1.80% |  | 1.80% |
@@ -78,18 +78,17 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) | 76.1% |  | 76.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 13:00 | EUR | High | German CPI (MoM) (Jun) | 0.0% | 0.2% | 0.1% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.1% | 0.3% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.1% | 0.3% | 0.2% |
 | 13:00 | ZAR | Low | Trade Balance (May) | 21.67B |  | 13.00B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.918% |  | 1.932% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.957% |  | 1.951% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.949% |  | 1.932% |
 | 14:45 | USD | High | Chicago PMI (Jun) | 40.4 | 42.7 | 40.5 |
 | 15:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 23 min | USD | Low | Dallas Fed Mfg Business Index (Jun) |  |  | -15.3 |
-| 53 min | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.120% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) | -12.7 |  | -15.3 |
+| 23 min | USD | Low | 3-Month Bill Auction |  |  | 4.195% |
+| 23 min | USD | Low | 6-Month Bill Auction |  |  | 4.120% |
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  | 179.00K | 257.53K |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
