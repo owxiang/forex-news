@@ -16,24 +16,24 @@
 | 04:00 | NZD | M3 Money Supply (May) | 432.6B |  | 435.1B |
 | 06:00 | JPY | Construction Orders (YoY) (May) | 14.0% |  | 52.7% |
 | 06:00 | JPY | Housing Starts (YoY) (May) | -34.4% | -15.0% | -26.6% |
-| 51 min | GBP | Business Investment (YoY) (Q1) |  | 8.1% | 1.8% |
-| 51 min | EUR | German Import Price Index (MoM) (May) |  | -0.3% | -1.7% |
-| 51 min | EUR | German Import Price Index (YoY) (May) |  | -0.8% | -0.4% |
-| 51 min | EUR | German Retail Sales (YoY) (May) |  | 3.3% | 2.3% |
-| 51 min | ZAR | M3 Money Supply (YoY) (May) |  |  | 6.12% |
-| 51 min | ZAR | Private Sector Credit (May) |  |  | 4.60% |
-| 08:00 | CHF | Official Reserves Assets (May) |  |  | 806.1B |
+| 07:00 | GBP | Business Investment (YoY) (Q1) | 6.1% | 8.1% | 1.8% |
+| 07:00 | EUR | German Import Price Index (MoM) (May) | -0.7% | -0.3% | -1.7% |
+| 07:00 | EUR | German Import Price Index (YoY) (May) | -1.1% | -0.8% | -0.4% |
+| 07:00 | EUR | German Retail Sales (YoY) (May) | 1.6% | 3.3% | 4.6% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (May) | 6.86% |  | 6.12% |
+| 07:00 | ZAR | Private Sector Credit (May) | 4.98% |  | 4.60% |
+| 49 min | CHF | Official Reserves Assets (May) |  |  | 806.1B |
 | 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -0.4% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) |  |  | 1.42B |
@@ -51,8 +51,8 @@
 | 09:30 | HKD | M3 Money Supply (May) |  |  | 6.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) |  | 1.7% | 1.6% |
-| 10:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.3% | -0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) |  | 1.8% | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.3% | -0.1% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
 | 11:00 | INR | Federal Fiscal Deficit (May) |  |  | 1,863.32B |
 | 11:30 | INR | Industrial Production (YoY) (May) |  | 2.4% | 2.7% |
@@ -62,8 +62,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (May) |  |  | 61.7% |
 | 12:30 | BRL | Budget Balance (May) |  | -116.000B | -55.536B |
 | 12:30 | BRL | Budget Surplus (May) |  |  | 14.150B |
-| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.2% | 2.1% |
 | 13:00 | EUR | German HICP (MoM) (Jun) |  | 0.3% | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.2% | 2.1% |
 | 13:00 | ZAR | Trade Balance (May) |  |  | 14.08B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.932% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.951% |
