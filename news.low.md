@@ -24,16 +24,16 @@
 | 07:00 | ZAR | Private Sector Credit (May) | 4.98% |  | 4.60% |
 | 08:00 | CHF | Official Reserves Assets (May) | 806.1B |  | 806.1B |
 | 09:00 | EUR | Italian Public Deficit (Q1) | 8.5% |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) | 1.36B |  | 2.47B |
@@ -52,8 +52,8 @@
 | 09:30 | HKD | M3 Money Supply (May) | 9.5% |  | 6.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.2% | 0.1% | -0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
-| 10:00 | EUR | Italian HICP (YoY) (Jun) | 1.7% | 1.8% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.3% | -0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Jun) | 1.7% | 1.8% | 1.7% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) | 5.26B |  | 2.32B |
 | 11:00 | INR | Federal Fiscal Deficit (May) | 131.63B |  | 1,863.32B |
 | 11:30 | INR | Cumulative Industrial Production (May) | 1.80% |  | 1.80% |
@@ -64,16 +64,16 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (May) | 62.0% |  | 61.7% |
 | 12:30 | BRL | Budget Balance (May) | -125.885B | -116.000B | -55.536B |
 | 12:30 | BRL | Budget Surplus (May) | -33.740B |  | 14.150B |
-| 13:00 | EUR | German HICP (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 13:00 | EUR | German HICP (MoM) (Jun) | 0.1% | 0.3% | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 13:00 | ZAR | Trade Balance (May) | 21.67B |  | 13.00B |
 | 14:00 | EUR | French 12-Month BTF Auction | 1.918% |  | 1.932% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.957% |  | 1.951% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.949% |  | 1.932% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jun) | -12.7 |  | -15.3 |
-| 23 min | USD | 3-Month Bill Auction |  |  | 4.195% |
-| 23 min | USD | 6-Month Bill Auction |  |  | 4.120% |
-| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 16:30 | USD | 3-Month Bill Auction | 4.250% |  | 4.195% |
+| 16:30 | USD | 6-Month Bill Auction | 4.150% |  | 4.120% |
+| 52 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) |  | 179.00K | 257.53K |
 | 22:00 | MXN | Fiscal Balance (May) |  |  | 0.29B |
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.5% |
