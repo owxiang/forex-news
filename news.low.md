@@ -24,16 +24,16 @@
 | 07:00 | ZAR | Private Sector Credit (May) | 4.98% |  | 4.60% |
 | 08:00 | CHF | Official Reserves Assets (May) | 806.1B |  | 806.1B |
 | 09:00 | EUR | Italian Public Deficit (Q1) | 8.5% |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) | 1.36B |  | 2.47B |

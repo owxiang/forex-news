@@ -34,16 +34,16 @@
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 96.1 | 99.3 | 98.6 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) | 806.1B |  | 806.1B |
 | 09:00 | EUR | Low | Italian Public Deficit (Q1) | 8.5% |  | -0.3% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) | 1.36B |  | 2.47B |
@@ -76,8 +76,8 @@
 | 12:30 | BRL | Low | Budget Balance (May) | -125.885B | -116.000B | -55.536B |
 | 12:30 | BRL | Low | Budget Surplus (May) | -33.740B |  | 14.150B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) | 76.1% |  | 76.2% |
-| 13:00 | EUR | High | German CPI (MoM) (Jun) | 0.0% | 0.2% | 0.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
+| 13:00 | EUR | High | German CPI (MoM) (Jun) | 0.0% | 0.2% | 0.1% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.1% | 0.3% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
 | 13:00 | ZAR | Low | Trade Balance (May) | 21.67B |  | 13.00B |
