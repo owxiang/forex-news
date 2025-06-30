@@ -24,8 +24,8 @@
 | 07:00 | ZAR | Private Sector Credit (May) | 4.98% |  | 4.60% |
 | 08:00 | CHF | Official Reserves Assets (May) | 806.1B |  | 806.1B |
 | 09:00 | EUR | Italian Public Deficit (Q1) | 8.5% |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
@@ -38,8 +38,8 @@
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) | 1.36B |  | 2.47B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jul) | -150.0M |  | 100.0M |
-| 09:00 | EUR | M3 Money Supply (May) | 16,919.7B |  | 16,901.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (May) | 3.9% | 4.0% | 3.7% |
+| 09:00 | EUR | M3 Money Supply (May) | 16,919.7B |  | 16,901.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (May) | 2.5% |  | 2.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) (May) | 2.0% | 2.0% | 1.9% |
 | 09:15 | ZAR | Budget Balance (MoM) (May) | -10.12B |  | -64.63B |
@@ -75,6 +75,6 @@
 | 16:30 | USD | 6-Month Bill Auction | 4.150% |  | 4.120% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) | 148.99K | 179.00K | 257.53K |
-| 53 min | MXN | Fiscal Balance (May) |  |  | 0.29B |
-| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.5% |
+| 22:00 | MXN | Fiscal Balance (May) | -117.90B |  | 0.29B |
+| 54 min | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.5% |
 | 23:45 | NZD | Building Consents (MoM) (May) |  |  | -15.6% |
