@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Industrial Production (MoM) (May) | 0.5% | 3.4% | -1.1% |
-| 57 min | CNY | Chinese Composite PMI (Jun) |  |  | 50.4 |
-| 57 min | CNY | Non-Manufacturing PMI (Jun) |  | 50.3 | 50.3 |
+| 02:30 | CNY | Chinese Composite PMI (Jun) | 50.7 |  | 50.4 |
+| 02:30 | CNY | Non-Manufacturing PMI (Jun) | 50.5 | 50.3 | 50.3 |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 5.9% | -1.9% |
 | 07:00 | GBP | Current Account (Q1) |  | -19.7B | -21.0B |
 | 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.5% | -1.1% |

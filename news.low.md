@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
 | 00:00 | KRW | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
+| 00:00 | KRW | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
 | 00:00 | KRW | Retail Sales (MoM) (May) | 0.0% | -0.1% | -0.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (May) | -0.1% |  | -0.1% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) | 0.3% |  | 9.0% |
 | 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) | -0.7% |  | -3.4% |
-| 27 min | AUD | MI Inflation Gauge (MoM) (Jun) |  |  | -0.4% |
-| 27 min | NZD | ANZ Business Confidence (Jun) |  |  | 36.6 |
-| 27 min | NZD | NBNZ Own Activity (Jun) |  |  | 34.8% |
-| 57 min | AUD | Housing Credit (May) |  |  | 0.5% |
-| 57 min | AUD | Private Sector Credit (MoM) (May) |  | 0.7% | 0.7% |
+| 02:00 | AUD | MI Inflation Gauge (MoM) (Jun) | 0.1% |  | -0.4% |
+| 02:00 | NZD | ANZ Business Confidence (Jun) | 46.3 |  | 36.6 |
+| 02:00 | NZD | NBNZ Own Activity (Jun) | 40.9% |  | 34.8% |
+| 02:30 | AUD | Housing Credit (May) | 0.5% |  | 0.5% |
+| 02:30 | AUD | Private Sector Credit (MoM) (May) | 0.5% | 0.7% | 0.7% |
 | 04:00 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 04:00 | NZD | M3 Money Supply (May) |  |  | 435,082.0B |
 | 06:00 | JPY | Construction Orders (YoY) (May) |  |  | 52.7% |
@@ -25,16 +25,16 @@
 | 07:00 | ZAR | Private Sector Credit (May) |  |  | 4.60% |
 | 08:00 | CHF | Official Reserves Assets (May) |  |  | 806.1B |
 | 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -0.4% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) |  |  | 1.42B |

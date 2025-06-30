@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (May) | 0.0% | -0.1% | -0.9% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (May) | -0.1% |  | -0.1% |
 | 00:50 | JPY | Moderate | Industrial Production (MoM) (May) | 0.5% | 3.4% | -1.1% |
 | 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jun) | 0.3% |  | 9.0% |
 | 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jul) | -0.7% |  | -3.4% |
-| 27 min | AUD | Low | MI Inflation Gauge (MoM) (Jun) |  |  | -0.4% |
-| 27 min | NZD | Low | ANZ Business Confidence (Jun) |  |  | 36.6 |
-| 27 min | NZD | Low | NBNZ Own Activity (Jun) |  |  | 34.8% |
-| 57 min | AUD | Low | Housing Credit (May) |  |  | 0.5% |
-| 57 min | AUD | Low | Private Sector Credit (MoM) (May) |  | 0.7% | 0.7% |
-| 57 min | CNY | Moderate | Chinese Composite PMI (Jun) |  |  | 50.4 |
-| 57 min | CNY | High | Manufacturing PMI (Jun) |  | 49.6 | 49.5 |
-| 57 min | CNY | Moderate | Non-Manufacturing PMI (Jun) |  | 50.3 | 50.3 |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) (Jun) | 0.1% |  | -0.4% |
+| 02:00 | NZD | Low | ANZ Business Confidence (Jun) | 46.3 |  | 36.6 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Jun) | 40.9% |  | 34.8% |
+| 02:30 | AUD | Low | Housing Credit (May) | 0.5% |  | 0.5% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (May) | 0.5% | 0.7% | 0.7% |
+| 02:30 | CNY | Moderate | Chinese Composite PMI (Jun) | 50.7 |  | 50.4 |
+| 02:30 | CNY | High | Manufacturing PMI (Jun) | 49.7 | 49.6 | 49.5 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jun) | 50.5 | 50.3 | 50.3 |
 | 04:00 | SGD | Low | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
 | 04:00 | NZD | Low | M3 Money Supply (May) |  |  | 435,082.0B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) |  |  | 52.7% |
@@ -35,16 +35,16 @@
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 99.3 | 98.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) |  |  | 806.1B |
 | 09:00 | EUR | Low | Italian Public Deficit (Q1) |  |  | -0.4% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) |  |  | 1.42B |
