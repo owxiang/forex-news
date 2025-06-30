@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
 | 00:00 | KRW | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
+| 00:00 | KRW | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
 | 00:00 | KRW | Retail Sales (MoM) (May) | 0.0% | -0.1% | -0.9% |
 | 00:00 | KRW | Service Sector Output (MoM) (May) | -0.1% |  | -0.1% |
 | 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) | 0.3% |  | 9.0% |
@@ -22,26 +22,26 @@
 | 07:00 | EUR | German Retail Sales (YoY) (May) | 1.6% | 3.3% | 4.6% |
 | 07:00 | ZAR | M3 Money Supply (YoY) (May) | 6.86% |  | 6.12% |
 | 07:00 | ZAR | Private Sector Credit (May) | 4.98% |  | 4.60% |
-| 49 min | CHF | Official Reserves Assets (May) |  |  | 806.1B |
-| 09:00 | EUR | Italian Public Deficit (Q1) |  |  | -0.4% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | Spanish Current account (Apr) |  |  | 1.42B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jul) |  |  | 100.0M |
-| 09:00 | EUR | M3 Money Supply (May) |  |  | 16,901.4B |
-| 09:00 | EUR | M3 Money Supply (YoY) (May) |  | 4.0% | 3.9% |
-| 09:00 | EUR | Loans to Non Financial Corporations (May) |  |  | 2.6% |
-| 09:00 | EUR | Private Sector Loans (YoY) (May) |  | 2.0% | 1.9% |
+| 08:00 | CHF | Official Reserves Assets (May) | 806.1B |  | 806.1B |
+| 51 min | EUR | Italian Public Deficit (Q1) |  |  | -0.4% |
+| 51 min | EUR | Baden Wuerttemberg CPI (MoM) (Jun) |  |  | -0.1% |
+| 51 min | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
+| 51 min | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
+| 51 min | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
+| 51 min | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
+| 51 min | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
+| 51 min | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
+| 51 min | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
+| 51 min | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
+| 51 min | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.0% |
+| 51 min | EUR | Saxony CPI (YoY) (Jun) |  |  | 2.3% |
+| 51 min | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.0% |
+| 51 min | EUR | Spanish Current account (Apr) |  |  | 1.42B |
+| 51 min | NOK | Central Bank Currency Purchase (Jul) |  |  | 100.0M |
+| 51 min | EUR | M3 Money Supply (May) |  |  | 16,901.4B |
+| 51 min | EUR | M3 Money Supply (YoY) (May) |  | 4.0% | 3.9% |
+| 51 min | EUR | Loans to Non Financial Corporations (May) |  |  | 2.6% |
+| 51 min | EUR | Private Sector Loans (YoY) (May) |  | 2.0% | 1.9% |
 | 09:30 | GBP | BoE Consumer Credit (May) |  | 1.100B | 1.580B |
 | 09:30 | GBP | M3 Money Supply (May) |  |  | 3,127.8B |
 | 09:30 | GBP | M4 Money Supply (MoM) (May) |  | 0.2% | 0.0% |
@@ -49,8 +49,8 @@
 | 09:30 | GBP | Mortgage Lending (May) |  | 2.50B | -0.76B |
 | 09:30 | GBP | Net Lending to Individuals (May) |  | 4.100B | 0.820B |
 | 09:30 | HKD | M3 Money Supply (May) |  |  | 6.6% |
-| 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) |  | 1.7% | 1.6% |
+| 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) |  | 1.8% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.3% | -0.1% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
