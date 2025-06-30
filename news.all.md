@@ -27,8 +27,8 @@
 | 07:00 | GBP | High | GDP (YoY) (Q1) | 1.3% | 1.3% | 1.5% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (May) | -0.7% | -0.3% | -1.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (May) | -1.1% | -0.8% | -0.4% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) | 1.6% | 3.3% | 4.6% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) | -1.6% | 0.5% | -0.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (May) | 1.6% | 3.3% | 4.6% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) | 6.86% |  | 6.12% |
 | 07:00 | ZAR | Low | Private Sector Credit (May) | 4.98% |  | 4.60% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 96.1 | 99.3 | 98.6 |
@@ -42,8 +42,8 @@
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) | 1.36B |  | 2.47B |
@@ -92,7 +92,7 @@
 | 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) | 148.99K | 179.00K | 257.53K |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:00 | MXN | Low | Fiscal Balance (May) |  |  | 0.29B |
+| 53 min | MXN | Low | Fiscal Balance (May) |  |  | 0.29B |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | 19% |
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.5% |
 | 23:45 | NZD | Low | Building Consents (MoM) (May) |  |  | -15.6% |

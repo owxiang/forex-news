@@ -32,8 +32,8 @@
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) | 1.36B |  | 2.47B |
@@ -75,6 +75,6 @@
 | 16:30 | USD | 6-Month Bill Auction | 4.150% |  | 4.120% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) | 148.99K | 179.00K | 257.53K |
-| 22:00 | MXN | Fiscal Balance (May) |  |  | 0.29B |
+| 53 min | MXN | Fiscal Balance (May) |  |  | 0.29B |
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.5% |
 | 23:45 | NZD | Building Consents (MoM) (May) |  |  | -15.6% |
