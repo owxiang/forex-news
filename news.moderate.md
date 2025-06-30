@@ -12,6 +12,6 @@
 | 09:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) | 76.1% |  | 76.2% |
 | 13:00 | EUR | German CPI (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
-| 43 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | NZIER Business Confidence (Q2) |  |  | 19% |
