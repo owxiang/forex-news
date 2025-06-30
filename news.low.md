@@ -13,8 +13,8 @@
 | 02:00 | NZD | NBNZ Own Activity (Jun) | 40.9% |  | 34.8% |
 | 02:30 | AUD | Housing Credit (May) | 0.5% |  | 0.5% |
 | 02:30 | AUD | Private Sector Credit (MoM) (May) | 0.5% | 0.7% | 0.7% |
-| 04:00 | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
-| 04:00 | NZD | M3 Money Supply (May) |  |  | 435,082.0B |
+| 18 min | SGD | Unemployment Rate (Q1) |  | 2.1% | 1.9% |
+| 18 min | NZD | M3 Money Supply (May) |  |  | 435,082.0B |
 | 06:00 | JPY | Construction Orders (YoY) (May) |  |  | 52.7% |
 | 06:00 | JPY | Housing Starts (YoY) (May) |  | -15.0% | -26.6% |
 | 07:00 | GBP | Business Investment (YoY) (Q1) |  | 8.1% | 1.8% |
@@ -29,8 +29,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
@@ -52,8 +52,8 @@
 | 09:30 | HKD | M3 Money Supply (May) |  |  | 6.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | -0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) |  |  | 1.6% |
-| 10:00 | EUR | Italian HICP (MoM) (Jun) |  |  | -0.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) |  |  | 1.7% |
+| 10:00 | EUR | Italian HICP (MoM) (Jun) |  |  | -0.1% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
 | 11:00 | INR | Federal Fiscal Deficit (May) |  |  | 1,863.32B |
 | 11:30 | INR | Industrial Production (YoY) (May) |  | 2.4% | 2.7% |
@@ -63,8 +63,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (May) |  |  | 61.7% |
 | 12:30 | BRL | Budget Balance (May) |  |  | -55.536B |
 | 12:30 | BRL | Budget Surplus (May) |  |  | 14.150B |
-| 13:00 | EUR | German HICP (YoY) (Jun) |  |  | 2.1% |
 | 13:00 | EUR | German HICP (MoM) (Jun) |  |  | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jun) |  |  | 2.1% |
 | 13:00 | ZAR | Trade Balance (May) |  |  | 14.08B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.932% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.951% |
