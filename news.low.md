@@ -34,8 +34,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
 | 09:00 | EUR | Spanish Current account (Apr) | 1.36B |  | 1.42B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jul) | -150.0M |  | 100.0M |
 | 09:00 | EUR | M3 Money Supply (May) | 16,919.7B |  | 16,901.4B |
@@ -50,14 +50,14 @@
 | 09:30 | GBP | Mortgage Lending (May) | 2.05B | 2.50B | -0.78B |
 | 09:30 | GBP | Net Lending to Individuals (May) | 2.900B | 4.100B | 0.820B |
 | 09:30 | HKD | M3 Money Supply (May) | 9.5% |  | 6.6% |
-| 10:00 | EUR | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.2% | 0.1% | -0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) | 1.7% | 1.8% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.3% | -0.1% |
-| 51 min | EUR | Italian Trade Balance Non-EU (May) |  |  | 2.18B |
-| 51 min | INR | Federal Fiscal Deficit (May) |  |  | 1,863.32B |
-| 11:30 | INR | Industrial Production (YoY) (May) |  | 2.4% | 2.7% |
-| 11:30 | INR | Manufacturing Output (MoM) (May) |  |  | 3.4% |
+| 11:00 | EUR | Italian Trade Balance Non-EU (May) | 5.26B |  | 2.32B |
+| 11:00 | INR | Federal Fiscal Deficit (May) |  |  | 1,863.32B |
+| 22 min | INR | Industrial Production (YoY) (May) |  | 2.4% | 2.7% |
+| 22 min | INR | Manufacturing Output (MoM) (May) |  |  | 3.4% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (May) |  |  | 61.7% |
