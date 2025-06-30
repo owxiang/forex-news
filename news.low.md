@@ -1,80 +1,54 @@
-## 30 June 2025 - Low Impact Forex News
+## 01 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (May) | -2.9% | -0.1% | -0.6% |
-| 00:00 | KRW | Industrial Production (YoY) (May) | 0.2% | 2.6% | 5.1% |
-| 00:00 | KRW | Retail Sales (MoM) (May) | 0.0% | -0.1% | -0.9% |
-| 00:00 | KRW | Service Sector Output (MoM) (May) | -0.1% |  | -0.1% |
-| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) | 0.3% |  | 9.0% |
-| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) | -0.7% |  | -3.4% |
-| 02:00 | AUD | MI Inflation Gauge (MoM) (Jun) | 0.1% |  | -0.4% |
-| 02:00 | NZD | ANZ Business Confidence (Jun) | 46.3 |  | 36.6 |
-| 02:00 | NZD | NBNZ Own Activity (Jun) | 40.9% |  | 34.8% |
-| 02:30 | AUD | Housing Credit (May) | 0.5% |  | 0.5% |
-| 02:30 | AUD | Private Sector Credit (MoM) (May) | 0.5% | 0.7% | 0.7% |
-| 04:00 | NZD | M3 Money Supply (May) | 432.6B |  | 435.1B |
-| 06:00 | JPY | Construction Orders (YoY) (May) | 14.0% |  | 52.7% |
-| 06:00 | JPY | Housing Starts (YoY) (May) | -34.4% | -15.0% | -26.6% |
-| 07:00 | GBP | Business Investment (YoY) (Q1) | 6.1% | 8.1% | 1.8% |
-| 07:00 | EUR | German Import Price Index (MoM) (May) | -0.7% | -0.3% | -1.7% |
-| 07:00 | EUR | German Import Price Index (YoY) (May) | -1.1% | -0.8% | -0.4% |
-| 07:00 | EUR | German Retail Sales (YoY) (May) | 1.6% | 3.3% | 4.6% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (May) | 6.86% |  | 6.12% |
-| 07:00 | ZAR | Private Sector Credit (May) | 4.98% |  | 4.60% |
-| 08:00 | CHF | Official Reserves Assets (May) | 806.1B |  | 806.1B |
-| 09:00 | EUR | Italian Public Deficit (Q1) | 8.5% |  | -0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jun) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) | 2.3% |  | 2.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) | -0.1% |  | 0.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jun) | 1.8% |  | 2.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) | 0.2% |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) | 2.3% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) | -0.1% |  | 0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) | 1.8% |  | 2.0% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jun) | 2.4% |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jun) | 0.2% |  | 0.0% |
-| 09:00 | EUR | Spanish Current account (Apr) | 1.36B |  | 2.47B |
-| 09:00 | NOK | Central Bank Currency Purchase (Jul) | -150.0M |  | 100.0M |
-| 09:00 | EUR | M3 Money Supply (May) | 16,919.7B |  | 16,901.4B |
-| 09:00 | EUR | M3 Money Supply (YoY) (May) | 3.9% | 4.0% | 3.7% |
-| 09:00 | EUR | Loans to Non Financial Corporations (May) | 2.5% |  | 2.4% |
-| 09:00 | EUR | Private Sector Loans (YoY) (May) | 2.0% | 2.0% | 1.9% |
-| 09:15 | ZAR | Budget Balance (MoM) (May) | -10.12B |  | -64.63B |
-| 09:30 | GBP | BoE Consumer Credit (May) | 0.859B | 1.100B | 1.944B |
-| 09:30 | GBP | M3 Money Supply (May) | 3,133.6B |  | 3,127.1B |
-| 09:30 | GBP | M4 Money Supply (MoM) (May) | 0.2% | 0.2% | -0.1% |
-| 09:30 | GBP | Mortgage Approvals (May) | 63.03K | 61.00K | 60.66K |
-| 09:30 | GBP | Mortgage Lending (May) | 2.05B | 2.50B | -0.78B |
-| 09:30 | GBP | Net Lending to Individuals (May) | 2.900B | 4.100B | 1.170B |
-| 09:30 | HKD | M3 Money Supply (May) | 9.5% |  | 6.6% |
-| 10:00 | EUR | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
-| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.2% | 0.1% | -0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Jun) | 1.7% | 1.8% | 1.7% |
-| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.3% | -0.1% |
-| 11:00 | EUR | Italian Trade Balance Non-EU (May) | 5.26B |  | 2.32B |
-| 11:00 | INR | Federal Fiscal Deficit (May) | 131.63B |  | 1,863.32B |
-| 11:30 | INR | Cumulative Industrial Production (May) | 1.80% |  | 1.80% |
-| 11:30 | INR | Industrial Production (YoY) (May) | 1.2% | 2.4% | 2.6% |
-| 11:30 | INR | Manufacturing Output (MoM) (May) | 2.6% |  | 3.1% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (May) | 62.0% |  | 61.7% |
-| 12:30 | BRL | Budget Balance (May) | -125.885B | -116.000B | -55.536B |
-| 12:30 | BRL | Budget Surplus (May) | -33.740B |  | 14.150B |
-| 13:00 | EUR | German HICP (YoY) (Jun) | 2.0% | 2.2% | 2.1% |
-| 13:00 | EUR | German HICP (MoM) (Jun) | 0.1% | 0.3% | 0.2% |
-| 13:00 | ZAR | Trade Balance (May) | 21.67B |  | 13.00B |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.918% |  | 1.932% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.957% |  | 1.951% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.949% |  | 1.932% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jun) | -12.7 |  | -15.3 |
-| 16:30 | USD | 3-Month Bill Auction | 4.250% |  | 4.195% |
-| 16:30 | USD | 6-Month Bill Auction | 4.150% |  | 4.120% |
-| 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | CAGED Net Payroll Jobs (May) | 148.99K | 179.00K | 257.53K |
-| 22:00 | MXN | Fiscal Balance (May) | -117.90B |  | 10.13B |
-| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) | 89.4% |  | 90.5% |
-| 38 min | NZD | Building Consents (MoM) (May) |  |  | -15.6% |
+| 00:00 | AUD | Judo Bank Manufacturing PMI (Jun) | 50.6 | 51.0 | 51.0 |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.4% | 0.2% | -0.1% |
+| 43 min | JPY | Tankan All Small Industry CAPEX (Q2) |  |  | -10.0% |
+| 43 min | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q2) |  | 29 | 28 |
+| 43 min | JPY | Tankan Small Manufacturers Diffusion Index (Q2) |  |  | -1 |
+| 43 min | JPY | Tankan Small Manufacturing Index (Q2) |  | -1 | 2 |
+| 43 min | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q2) |  |  | 9 |
+| 43 min | JPY | Tankan Small Non-Manufacturing Index (Q2) |  |  | 16 |
+| 53 min | KRW | Exports (YoY) (Jun) |  | 4.7% | -1.3% |
+| 53 min | KRW | Imports (YoY) (Jun) |  | 6.9% | -5.3% |
+| 53 min | KRW | Trade Balance (Jun) |  | 8.40B | 6.94B |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jun) |  |  | 47.7 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jun) |  | 50.4 | 49.4 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Jun) |  |  | 47.4 |
+| 02:40 | SGD | URA Property Index (QoQ) (Q2) |  |  | 0.80% |
+| 03:00 | SGD | Bank Lending (May) |  |  | 841.9B |
+| 05:00 | IDR | Core Inflation (YoY) (Jun) |  | 2.44% | 2.40% |
+| 05:00 | IDR | Export Growth (YoY) (May) |  | 0.40% | 5.76% |
+| 05:00 | IDR | Import Growth (YoY) (May) |  | 0.90% | 21.84% |
+| 05:00 | IDR | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
+| 05:00 | IDR | Inflation (YoY) (Jun) |  | 1.83% | 1.60% |
+| 05:00 | IDR | Trade Balance (May) |  | 2.53B | 0.15B |
+| 06:00 | INR | S&P Global Manufacturing PMI (Jun) |  | 58.4 | 58.4 |
+| 06:00 | JPY | Household Confidence (Jun) |  | 33.6 | 32.8 |
+| 07:30 | CHF | Retail Sales (YoY) (May) |  | 0.8% | 1.3% |
+| 07:30 | AUD | Commodity Prices (YoY) (Jun) |  |  | -7.7% |
+| 08:55 | EUR | German Unemployment (Jun) |  |  | 2.963M |
+| 08:55 | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.919M |
+| 09:00 | NOK | Manufacturing PMI (Jun) |  |  | 51.2 |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.878% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.890% |
+| 10:00 | EUR | Core CPI (MoM) (Jun) |  |  | 0.0% |
+| 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 128.71 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
+| 11:00 | EUR | Car Registration (YoY) (Jun) |  |  | 18.60% |
+| 11:00 | EUR | Car Registration (MoM) (Jun) |  |  | 14.50% |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
+| 13:30 | ZAR | Total Vehicle Sales (Jun) |  |  | 45.31K |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.5% |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Jun) |  |  | 49.4 |
+| 14:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jun) |  |  | 47.6 |
+| 15:10 | USD | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
+| 15:30 | USD | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
+| 15:30 | USD | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
+| 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
+| 16:00 | MXN | S&P Global Manufacturing PMI (Jun) |  |  | 46.70 |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
+| 16:00 | USD | Milk Auctions |  |  | 4,389.0 |
