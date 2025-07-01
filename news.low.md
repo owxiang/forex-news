@@ -37,8 +37,8 @@
 | 10:00 | EUR | CPI, n.s.a (Jun) | 129.07 |  | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% |  | 0.1% |
-| 11:00 | EUR | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:00 | EUR | Car Registration (MoM) (Jun) | 5.60% |  | 14.50% |
+| 11:00 | EUR | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 13:00 | ZAR | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Jun) | 18.70% |  | 22.00% |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 4.5% |
