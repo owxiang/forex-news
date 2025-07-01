@@ -32,8 +32,8 @@
 | 05:00 | IDR | Low | Trade Balance (May) | 4.30B | 2.40B | 0.15B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) | 58.4 | 58.4 | 58.4 |
 | 06:00 | JPY | Low | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (May) | 0.0% | 0.8% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) | -8.7% |  | -9.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) | 51.4 | 50.6 | 50.5 |
@@ -81,5 +81,5 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | -4.1 |  | -4.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | -4.4 |  | -10.1 |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jun) | 46.30 |  | 46.70 |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
+| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.260M | -4.277M |
