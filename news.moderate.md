@@ -16,13 +16,13 @@
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jun) | 48.4 | 49.5 | 49.2 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jun) | 48.1 | 47.8 | 49.8 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Jun) | 49.0 | 49.0 | 48.3 |
-| 08:55 | EUR | German Unemployment Change (Jun) | 11K | 18K | 34K |
+| 08:55 | EUR | German Unemployment Change (Jun) | 11K | 18K | 33K |
 | 08:55 | EUR | German Unemployment Rate (Jun) | 6.3% | 6.4% | 6.3% |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) | 49.5 | 49.4 | 49.4 |
-| 20 min | GBP | S&P Global Manufacturing PMI (Jun) |  | 47.7 | 46.4 |
-| 30 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 50 min | EUR | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
-| 50 min | EUR | CPI (MoM) (Jun) |  |  | 0.0% |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jun) | 47.7 | 47.7 | 46.4 |
+| 09:40 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 11:40 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 14:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
