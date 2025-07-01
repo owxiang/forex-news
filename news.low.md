@@ -15,14 +15,14 @@
 | 01:00 | KRW | Trade Balance (Jun) | 9.08B | 8.40B | 6.93B |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jun) | 48.7 |  | 47.7 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jun) | 50.1 | 50.4 | 49.4 |
+| 01:30 | SGD | URA Property Index (QoQ) (Q2) | 0.50% |  | 0.80% |
 | 01:30 | IDR | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 47.4 |
-| 02:40 | SGD | URA Property Index (QoQ) (Q2) |  |  | 0.80% |
-| 03:00 | SGD | Bank Lending (May) |  |  | 841.9B |
+| 23 min | SGD | Bank Lending (May) |  |  | 841.9B |
 | 05:00 | IDR | Core Inflation (YoY) (Jun) |  | 2.44% | 2.40% |
 | 05:00 | IDR | Export Growth (YoY) (May) |  | 0.40% | 5.76% |
 | 05:00 | IDR | Import Growth (YoY) (May) |  | 0.90% | 21.84% |
-| 05:00 | IDR | Inflation (YoY) (Jun) |  | 1.83% | 1.60% |
 | 05:00 | IDR | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
+| 05:00 | IDR | Inflation (YoY) (Jun) |  | 1.83% | 1.60% |
 | 05:00 | IDR | Trade Balance (May) |  | 2.53B | 0.15B |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jun) |  | 58.4 | 58.4 |
 | 06:00 | JPY | Household Confidence (Jun) |  | 33.6 | 32.8 |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Car Registration (MoM) (Jun) |  |  | 14.50% |
 | 11:00 | EUR | Car Registration (YoY) (Jun) |  |  | 18.60% |
+| 11:00 | EUR | Car Registration (MoM) (Jun) |  |  | 14.50% |
 | 13:30 | ZAR | Total Vehicle Sales (Jun) |  |  | 45.31K |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.5% |
