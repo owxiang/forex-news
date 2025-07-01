@@ -27,13 +27,13 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jun) | 2.37% | 2.44% | 2.40% |
 | 05:00 | IDR | Low | Export Growth (YoY) (May) | 9.68% | 1.00% | 5.76% |
 | 05:00 | IDR | Low | Import Growth (YoY) (May) | 4.14% | -0.10% | 21.84% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jun) | 0.19% | 0.15% | -0.37% |
 | 05:00 | IDR | Low | Inflation (YoY) (Jun) | 1.87% | 1.83% | 1.60% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jun) | 0.19% | 0.15% | -0.37% |
 | 05:00 | IDR | Low | Trade Balance (May) | 4.30B | 2.40B | 0.15B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) | 58.4 | 58.4 | 58.4 |
 | 06:00 | JPY | Low | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (May) | 0.0% | 0.8% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) | -8.7% |  | -9.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) | 51.4 | 50.6 | 50.5 |
@@ -77,12 +77,9 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Jun) | 49.0 | 48.8 | 48.5 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Jun) | 69.7 | 69.6 | 69.4 |
 | 15:00 | USD | High | JOLTS Job Openings (May) | 7.769M | 7.320M | 7.395M |
-| 3 min | USD | Low | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
-| 23 min | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
-| 23 min | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
-| 53 min | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
-| 53 min | MXN | Low | S&P Global Manufacturing PMI (Jun) |  |  | 46.70 |
-| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.0% |
-| 53 min | USD | Low | Milk Auctions |  |  | 4,389.0 |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jul) | 48.6 | 50.1 | 49.2 |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | -4.1 |  | -4.7 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | -4.4 |  | -10.1 |
+| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jun) | 46.30 |  | 46.70 |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.260M | -4.277M |
