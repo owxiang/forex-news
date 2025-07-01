@@ -23,7 +23,7 @@
 | 09:40 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
-| 33 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 11:40 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 14:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (May) |  | -0.2% | -0.4% |

@@ -54,14 +54,14 @@
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.0% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 129.07 |  | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.3% |  | 0.1% |
-| 33 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:00 | EUR | Low | Car Registration (MoM) (Jun) |  |  | 14.50% |
-| 13:00 | EUR | Low | Car Registration (YoY) (Jun) |  |  | 18.60% |
+| 11:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 54 min | EUR | Low | Car Registration (YoY) (Jun) |  |  | 18.60% |
+| 54 min | EUR | Low | Car Registration (MoM) (Jun) |  |  | 14.50% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Jun) |  |  | 45.31K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.5% |
