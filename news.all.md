@@ -52,37 +52,37 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 1.900% |  | 1.878% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 1.872% |  | 1.890% |
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 129.07 |  | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.3% |  | 0.1% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jun) | 5.60% |  | 14.50% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | 18.70% |  | 22.00% |
 | 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 4.5% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jun) | 48.3 |  | 49.4 |
-| 14 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 14 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 14 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 29 min | USD | High | S&P Global Manufacturing PMI (Jun) |  | 52.0 | 52.0 |
-| 44 min | USD | Moderate | Construction Spending (MoM) (May) |  | -0.2% | -0.4% |
-| 44 min | USD | Moderate | ISM Manufacturing Employment (Jun) |  |  | 46.8 |
-| 44 min | USD | Low | ISM Manufacturing New Orders Index (Jun) |  |  | 47.6 |
-| 44 min | USD | High | ISM Manufacturing PMI (Jun) |  | 48.8 | 48.5 |
-| 44 min | USD | High | ISM Manufacturing Prices (Jun) |  | 69.6 | 69.4 |
-| 44 min | USD | High | JOLTS Job Openings (May) |  | 7.320M | 7.391M |
-| 54 min | USD | Low | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
-| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jun) |  |  | 46.70 |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.0% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 4,389.0 |
+| 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 14:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) | 52.9 | 52.0 | 52.0 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (May) | -0.3% | -0.2% | -0.2% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jun) | 45.0 |  | 46.8 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jun) | 46.4 |  | 47.6 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Jun) | 49.0 | 48.8 | 48.5 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Jun) | 69.7 | 69.6 | 69.4 |
+| 15:00 | USD | High | JOLTS Job Openings (May) | 7.769M | 7.320M | 7.395M |
+| 3 min | USD | Low | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
+| 23 min | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
+| 23 min | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
+| 53 min | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |
+| 53 min | MXN | Low | S&P Global Manufacturing PMI (Jun) |  |  | 46.70 |
+| 53 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.0% |
+| 53 min | USD | Low | Milk Auctions |  |  | 4,389.0 |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.260M | -4.277M |

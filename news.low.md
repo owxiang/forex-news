@@ -37,18 +37,18 @@
 | 10:00 | EUR | CPI, n.s.a (Jun) | 129.07 |  | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% |  | 0.1% |
-| 11:00 | EUR | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:00 | EUR | Car Registration (MoM) (Jun) | 5.60% |  | 14.50% |
+| 11:00 | EUR | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 13:00 | ZAR | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Jun) | 18.70% |  | 22.00% |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 4.5% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jun) | 48.3 |  | 49.4 |
-| 14 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 44 min | USD | ISM Manufacturing New Orders Index (Jun) |  |  | 47.6 |
-| 54 min | USD | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
-| 15:30 | USD | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
-| 15:30 | USD | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
-| 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Jun) |  |  | 46.70 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
-| 16:00 | USD | Milk Auctions |  |  | 4,389.0 |
+| 14:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jun) | 46.4 |  | 47.6 |
+| 3 min | USD | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
+| 23 min | USD | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
+| 23 min | USD | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
+| 53 min | CAD | Budget Balance (Apr) |  |  | -23.88B |
+| 53 min | MXN | S&P Global Manufacturing PMI (Jun) |  |  | 46.70 |
+| 53 min | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
+| 53 min | USD | Milk Auctions |  |  | 4,389.0 |
