@@ -28,5 +28,5 @@
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (May) | -0.3% | -0.2% | -0.2% |
 | 15:00 | USD | ISM Manufacturing Employment (Jun) | 45.0 |  | 46.8 |
-| 52 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
+| 17:30 | USD | Atlanta Fed GDPNow (Q2) | 2.5% | 2.9% | 2.9% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.260M | -4.277M |

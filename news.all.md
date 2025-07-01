@@ -27,8 +27,8 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jun) | 2.37% | 2.44% | 2.40% |
 | 05:00 | IDR | Low | Export Growth (YoY) (May) | 9.68% | 1.00% | 5.76% |
 | 05:00 | IDR | Low | Import Growth (YoY) (May) | 4.14% | -0.10% | 21.84% |
-| 05:00 | IDR | Low | Inflation (YoY) (Jun) | 1.87% | 1.83% | 1.60% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jun) | 0.19% | 0.15% | -0.37% |
+| 05:00 | IDR | Low | Inflation (YoY) (Jun) | 1.87% | 1.83% | 1.60% |
 | 05:00 | IDR | Low | Trade Balance (May) | 4.30B | 2.40B | 0.15B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) | 58.4 | 58.4 | 58.4 |
 | 06:00 | JPY | Low | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
@@ -81,5 +81,5 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | -4.1 |  | -4.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | -4.4 |  | -10.1 |
 | 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jun) | 46.30 |  | 46.70 |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
+| 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.5% | 2.9% | 2.9% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.260M | -4.277M |
