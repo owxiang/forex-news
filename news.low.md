@@ -21,8 +21,8 @@
 | 05:00 | IDR | Core Inflation (YoY) (Jun) | 2.37% | 2.44% | 2.40% |
 | 05:00 | IDR | Export Growth (YoY) (May) | 9.68% | 1.00% | 5.76% |
 | 05:00 | IDR | Import Growth (YoY) (May) | 4.14% | -0.10% | 21.84% |
-| 05:00 | IDR | Inflation (MoM) (Jun) | 0.19% | 0.15% | -0.37% |
 | 05:00 | IDR | Inflation (YoY) (Jun) | 1.87% | 1.83% | 1.60% |
+| 05:00 | IDR | Inflation (MoM) (Jun) | 0.19% | 0.15% | -0.37% |
 | 05:00 | IDR | Trade Balance (May) | 4.30B | 2.40B | 0.15B |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jun) | 58.4 | 58.4 | 58.4 |
 | 06:00 | JPY | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
@@ -39,8 +39,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% |  | 0.1% |
 | 11:00 | EUR | Car Registration (MoM) (Jun) | 5.60% |  | 14.50% |
 | 11:00 | EUR | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
-| 13:00 | ZAR | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Jun) | 18.70% |  | 22.00% |
+| 13:00 | ZAR | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
 | 13:55 | USD | Redbook (YoY) | 4.9% |  | 4.5% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jun) | 48.3 |  | 49.4 |
 | 14:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
