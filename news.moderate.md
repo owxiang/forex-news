@@ -8,17 +8,17 @@
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q2) | 34 | 34 | 35 |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jun) | 50.4 | 49.2 | 48.3 |
 | 04:35 | JPY | 10-Year JGB Auction | 1.442% |  | 1.512% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Jun) |  | 50.6 | 50.5 |
-| 08:30 | CHF | procure.ch Manufacturing PMI (Jun) |  | 44.2 | 42.1 |
-| 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Jun) |  | 49.5 | 49.2 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Jun) |  | 47.8 | 49.8 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Jun) |  | 49.0 | 48.3 |
-| 08:55 | EUR | German Unemployment Change (Jun) |  | 18K | 34K |
-| 08:55 | EUR | German Unemployment Rate (Jun) |  | 6.4% | 6.3% |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) |  | 49.4 | 49.4 |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
+| 7 min | EUR | HCOB Spain Manufacturing PMI (Jun) |  | 50.6 | 50.5 |
+| 22 min | CHF | procure.ch Manufacturing PMI (Jun) |  | 44.2 | 42.1 |
+| 32 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 37 min | EUR | HCOB Italy Manufacturing PMI (Jun) |  | 49.5 | 49.2 |
+| 42 min | EUR | HCOB France Manufacturing PMI (Jun) |  | 47.8 | 49.8 |
+| 47 min | EUR | HCOB Germany Manufacturing PMI (Jun) |  | 49.0 | 48.3 |
+| 47 min | EUR | German Unemployment Change (Jun) |  | 18K | 34K |
+| 47 min | EUR | German Unemployment Rate (Jun) |  | 6.4% | 6.3% |
+| 52 min | EUR | HCOB Eurozone Manufacturing PMI (Jun) |  | 49.4 | 49.4 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jun) |  | 47.7 | 46.4 |
 | 09:40 | EUR | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
