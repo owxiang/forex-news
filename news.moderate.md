@@ -8,8 +8,8 @@
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q2) | 34 | 34 | 35 |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jun) | 50.4 | 49.2 | 48.3 |
 | 04:35 | JPY | 10-Year JGB Auction | 1.442% |  | 1.512% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jun) | 51.4 | 50.6 | 50.5 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Jun) | 49.6 | 44.2 | 42.1 |
 | 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
@@ -29,4 +29,4 @@
 | 15:00 | USD | Construction Spending (MoM) (May) |  | -0.2% | -0.4% |
 | 15:00 | USD | ISM Manufacturing Employment (Jun) |  |  | 46.8 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -4.277M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.260M | -4.277M |
