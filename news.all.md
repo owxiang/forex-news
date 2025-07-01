@@ -23,17 +23,17 @@
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 47.4 |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jun) | 50.4 | 49.2 | 48.3 |
 | 03:00 | SGD | Low | Bank Lending (May) | 844.6B |  | 841.9B |
-| 48 min | JPY | Moderate | 10-Year JGB Auction |  |  | 1.512% |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Jun) |  | 2.44% | 2.40% |
-| 05:00 | IDR | Low | Export Growth (YoY) (May) |  | 0.40% | 5.76% |
-| 05:00 | IDR | Low | Import Growth (YoY) (May) |  | 0.90% | 21.84% |
-| 05:00 | IDR | Low | Inflation (YoY) (Jun) |  | 1.83% | 1.60% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
-| 05:00 | IDR | Low | Trade Balance (May) |  | 2.53B | 0.15B |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.512% |
+| 24 min | IDR | Low | Core Inflation (YoY) (Jun) |  | 2.44% | 2.40% |
+| 24 min | IDR | Low | Export Growth (YoY) (May) |  | 0.40% | 5.76% |
+| 24 min | IDR | Low | Import Growth (YoY) (May) |  | 0.90% | 21.84% |
+| 24 min | IDR | Low | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
+| 24 min | IDR | Low | Inflation (YoY) (Jun) |  | 1.83% | 1.60% |
+| 24 min | IDR | Low | Trade Balance (May) |  | 2.53B | 0.15B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) |  | 58.4 | 58.4 |
 | 06:00 | JPY | Low | Household Confidence (Jun) |  | 33.6 | 32.8 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | -0.2% | 0.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) |  | 3.3% | 3.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | -0.2% | 0.5% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (May) |  | 0.8% | 1.3% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) |  |  | -7.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) |  | 50.7 | 50.5 |
@@ -52,18 +52,18 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.878% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.890% |
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  |  | 0.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) |  |  | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jun) |  |  | 14.50% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jun) |  |  | 18.60% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jun) |  |  | 14.50% |
 | 11:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Jun) |  |  | 45.31K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.5% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jun) |  |  | 49.4 |
 | 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |

@@ -7,9 +7,9 @@
 | 00:50 | JPY | Tankan Large Manufacturers Index (Q2) | 13 | 10 | 12 |
 | 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q2) | 34 | 34 | 35 |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jun) | 50.4 | 49.2 | 48.3 |
-| 48 min | JPY | 10-Year JGB Auction |  |  | 1.512% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jun) |  | -0.2% | 0.5% |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 1.512% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jun) |  | 3.3% | 3.5% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jun) |  | -0.2% | 0.5% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jun) |  | 50.7 | 50.5 |
 | 08:30 | CHF | procure.ch Manufacturing PMI (Jun) |  | 44.2 | 42.1 |
 | 08:40 | EUR | ECB's De Guindos Speaks |  |  |  |
