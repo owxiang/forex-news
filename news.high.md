@@ -1,10 +1,6 @@
-## 01 July 2025 - High Impact Forex News
+## 02 July 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
-| 14:30 | USD | Fed Chair Powell Speaks |  |  |  |
-| 14:45 | USD | S&P Global Manufacturing PMI (Jun) | 52.9 | 52.0 | 52.0 |
-| 15:00 | USD | ISM Manufacturing PMI (Jun) | 49.0 | 48.8 | 48.5 |
-| 15:00 | USD | ISM Manufacturing Prices (Jun) | 69.7 | 69.6 | 69.4 |
-| 15:00 | USD | JOLTS Job Openings (May) | 7.769M | 7.320M | 7.395M |
+| 13:15 | USD | ADP Nonfarm Employment Change (Jun) |  | 105K | 37K |
+| 15:30 | USD | Crude Oil Inventories |  | -2.260M | -5.836M |
