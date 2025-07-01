@@ -28,17 +28,17 @@
 | 06:00 | JPY | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
 | 07:30 | CHF | Retail Sales (YoY) (May) | 0.0% | 0.8% | 0.9% |
 | 07:30 | AUD | Commodity Prices (YoY) (Jun) | -8.7% |  | -9.4% |
-| 47 min | EUR | German Unemployment (Jun) |  |  | 2.963M |
-| 47 min | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.919M |
-| 52 min | NOK | Manufacturing PMI (Jun) |  |  | 51.2 |
-| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 1.878% |
-| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 1.890% |
-| 10:00 | EUR | Core CPI (MoM) (Jun) |  |  | 0.0% |
-| 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 128.71 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
-| 13:00 | EUR | Car Registration (MoM) (Jun) |  |  | 14.50% |
+| 08:55 | EUR | German Unemployment (Jun) | 2.972M |  | 2.963M |
+| 08:55 | EUR | German Unemployment n.s.a. (Jun) | 2.914M |  | 2.919M |
+| 09:00 | NOK | Manufacturing PMI (Jun) | 49.3 |  | 51.2 |
+| 30 min | EUR | Spanish 12-Month Letras Auction |  |  | 1.878% |
+| 30 min | EUR | Spanish 6-Month Letras Auction |  |  | 1.890% |
+| 50 min | EUR | Core CPI (MoM) (Jun) |  |  | 0.0% |
+| 50 min | EUR | CPI, n.s.a (Jun) |  |  | 128.71 |
+| 50 min | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
+| 50 min | EUR | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
 | 13:00 | EUR | Car Registration (YoY) (Jun) |  |  | 18.60% |
+| 13:00 | EUR | Car Registration (MoM) (Jun) |  |  | 14.50% |
 | 13:30 | ZAR | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:30 | ZAR | Total Vehicle Sales (Jun) |  |  | 45.31K |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.5% |
