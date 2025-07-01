@@ -4,22 +4,22 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Jun) | 50.6 | 51.0 | 51.0 |
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.4% | 0.2% | -0.1% |
-| 43 min | JPY | Moderate | Tankan All Big Industry CAPEX (Q2) |  |  | 3.1% |
-| 43 min | JPY | Low | Tankan All Small Industry CAPEX (Q2) |  |  | -10.0% |
-| 43 min | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q2) |  | 9 | 12 |
-| 43 min | JPY | Moderate | Tankan Large Manufacturers Index (Q2) |  | 10 | 12 |
-| 43 min | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q2) |  | 29 | 28 |
-| 43 min | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q2) |  | 34 | 35 |
-| 43 min | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q2) |  |  | -1 |
-| 43 min | JPY | Low | Tankan Small Manufacturing Index (Q2) |  | -1 | 2 |
-| 43 min | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q2) |  |  | 9 |
-| 43 min | JPY | Low | Tankan Small Non-Manufacturing Index (Q2) |  |  | 16 |
-| 53 min | KRW | Low | Exports (YoY) (Jun) |  | 4.7% | -1.3% |
-| 53 min | KRW | Low | Imports (YoY) (Jun) |  | 6.9% | -5.3% |
-| 53 min | KRW | Low | Trade Balance (Jun) |  | 8.40B | 6.94B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jun) |  |  | 47.7 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jun) |  | 50.4 | 49.4 |
-| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jun) |  |  | 47.4 |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q2) | 11.5% |  | 3.1% |
+| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q2) | -5.6% |  | -10.0% |
+| 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q2) | 12 | 9 | 12 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q2) | 13 | 10 | 12 |
+| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q2) | 27 | 29 | 28 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q2) | 34 | 34 | 35 |
+| 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q2) | -2 |  | -1 |
+| 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q2) | 1 | -1 | 2 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q2) | 9 |  | 9 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q2) | 15 |  | 16 |
+| 01:00 | KRW | Low | Exports (YoY) (Jun) | 4.3% | 4.7% | -1.3% |
+| 01:00 | KRW | Low | Imports (YoY) (Jun) | 3.3% | 6.9% | -5.3% |
+| 01:00 | KRW | Low | Trade Balance (Jun) | 9.08B | 8.40B | 6.93B |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jun) | 48.7 |  | 47.7 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jun) | 50.1 | 50.4 | 49.4 |
+| 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 47.4 |
 | 02:40 | SGD | Low | URA Property Index (QoQ) (Q2) |  |  | 0.80% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jun) |  | 49.2 | 48.3 |
 | 03:00 | SGD | Low | Bank Lending (May) |  |  | 841.9B |
@@ -27,8 +27,8 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jun) |  | 2.44% | 2.40% |
 | 05:00 | IDR | Low | Export Growth (YoY) (May) |  | 0.40% | 5.76% |
 | 05:00 | IDR | Low | Import Growth (YoY) (May) |  | 0.90% | 21.84% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
 | 05:00 | IDR | Low | Inflation (YoY) (Jun) |  | 1.83% | 1.60% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
 | 05:00 | IDR | Low | Trade Balance (May) |  | 2.53B | 0.15B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) |  | 58.4 | 58.4 |
 | 06:00 | JPY | Low | Household Confidence (Jun) |  | 33.6 | 32.8 |
@@ -52,18 +52,18 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 1.878% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 1.890% |
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  |  | 0.0% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  |  | 0.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) |  |  | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jun) |  |  | 18.60% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jun) |  |  | 14.50% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jun) |  |  | 18.60% |
 | 11:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:30 | ZAR | Low | Total Vehicle Sales (Jun) |  |  | 45.31K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.5% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jun) |  |  | 49.4 |
 | 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |

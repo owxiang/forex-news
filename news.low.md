@@ -4,25 +4,25 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Jun) | 50.6 | 51.0 | 51.0 |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.4% | 0.2% | -0.1% |
-| 43 min | JPY | Tankan All Small Industry CAPEX (Q2) |  |  | -10.0% |
-| 43 min | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q2) |  | 29 | 28 |
-| 43 min | JPY | Tankan Small Manufacturers Diffusion Index (Q2) |  |  | -1 |
-| 43 min | JPY | Tankan Small Manufacturing Index (Q2) |  | -1 | 2 |
-| 43 min | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q2) |  |  | 9 |
-| 43 min | JPY | Tankan Small Non-Manufacturing Index (Q2) |  |  | 16 |
-| 53 min | KRW | Exports (YoY) (Jun) |  | 4.7% | -1.3% |
-| 53 min | KRW | Imports (YoY) (Jun) |  | 6.9% | -5.3% |
-| 53 min | KRW | Trade Balance (Jun) |  | 8.40B | 6.94B |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jun) |  |  | 47.7 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jun) |  | 50.4 | 49.4 |
-| 01:30 | IDR | S&P Global Manufacturing PMI (Jun) |  |  | 47.4 |
+| 00:50 | JPY | Tankan All Small Industry CAPEX (Q2) | -5.6% |  | -10.0% |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q2) | 27 | 29 | 28 |
+| 00:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q2) | -2 |  | -1 |
+| 00:50 | JPY | Tankan Small Manufacturing Index (Q2) | 1 | -1 | 2 |
+| 00:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q2) | 9 |  | 9 |
+| 00:50 | JPY | Tankan Small Non-Manufacturing Index (Q2) | 15 |  | 16 |
+| 01:00 | KRW | Exports (YoY) (Jun) | 4.3% | 4.7% | -1.3% |
+| 01:00 | KRW | Imports (YoY) (Jun) | 3.3% | 6.9% | -5.3% |
+| 01:00 | KRW | Trade Balance (Jun) | 9.08B | 8.40B | 6.93B |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Jun) | 48.7 |  | 47.7 |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jun) | 50.1 | 50.4 | 49.4 |
+| 01:30 | IDR | S&P Global Manufacturing PMI (Jun) | 46.9 |  | 47.4 |
 | 02:40 | SGD | URA Property Index (QoQ) (Q2) |  |  | 0.80% |
 | 03:00 | SGD | Bank Lending (May) |  |  | 841.9B |
 | 05:00 | IDR | Core Inflation (YoY) (Jun) |  | 2.44% | 2.40% |
 | 05:00 | IDR | Export Growth (YoY) (May) |  | 0.40% | 5.76% |
 | 05:00 | IDR | Import Growth (YoY) (May) |  | 0.90% | 21.84% |
-| 05:00 | IDR | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
 | 05:00 | IDR | Inflation (YoY) (Jun) |  | 1.83% | 1.60% |
+| 05:00 | IDR | Inflation (MoM) (Jun) |  | 0.15% | -0.37% |
 | 05:00 | IDR | Trade Balance (May) |  | 2.53B | 0.15B |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jun) |  | 58.4 | 58.4 |
 | 06:00 | JPY | Household Confidence (Jun) |  | 33.6 | 32.8 |
@@ -37,10 +37,10 @@
 | 10:00 | EUR | CPI, n.s.a (Jun) |  |  | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Car Registration (YoY) (Jun) |  |  | 18.60% |
 | 11:00 | EUR | Car Registration (MoM) (Jun) |  |  | 14.50% |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
+| 11:00 | EUR | Car Registration (YoY) (Jun) |  |  | 18.60% |
 | 13:30 | ZAR | Total Vehicle Sales (Jun) |  |  | 45.31K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Jun) |  |  | 22.00% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.5% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jun) |  |  | 49.4 |
 | 14:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
