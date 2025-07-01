@@ -39,13 +39,13 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% |  | 0.1% |
 | 11:00 | EUR | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:00 | EUR | Car Registration (MoM) (Jun) | 5.60% |  | 14.50% |
-| 13:00 | ZAR | Total Vehicle Sales (Jun) | 47.29K |  | 45.31K |
+| 13:00 | ZAR | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Jun) | 18.70% |  | 22.00% |
-| 43 min | USD | Redbook (YoY) |  |  | 4.5% |
-| 48 min | BRL | S&P Global Manufacturing PMI (Jun) |  |  | 49.4 |
-| 14:30 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jun) |  |  | 47.6 |
-| 15:10 | USD | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
+| 13:55 | USD | Redbook (YoY) | 4.9% |  | 4.5% |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Jun) | 48.3 |  | 49.4 |
+| 14 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 44 min | USD | ISM Manufacturing New Orders Index (Jun) |  |  | 47.6 |
+| 54 min | USD | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
 | 15:30 | USD | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
 | 15:30 | USD | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |

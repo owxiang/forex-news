@@ -62,22 +62,22 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jun) | 5.60% |  | 14.50% |
 | 11:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 47.29K |  | 45.31K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | 18.70% |  | 22.00% |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 4.5% |
-| 48 min | BRL | Low | S&P Global Manufacturing PMI (Jun) |  |  | 49.4 |
-| 14:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 14:30 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global Manufacturing PMI (Jun) |  | 52.0 | 52.0 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (May) |  | -0.2% | -0.4% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jun) |  |  | 46.8 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jun) |  |  | 47.6 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Jun) |  | 48.8 | 48.5 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Jun) |  | 69.6 | 69.4 |
-| 15:00 | USD | High | JOLTS Job Openings (May) |  | 7.320M | 7.391M |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
+| 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 4.5% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jun) | 48.3 |  | 49.4 |
+| 14 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 14 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 14 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 29 min | USD | High | S&P Global Manufacturing PMI (Jun) |  | 52.0 | 52.0 |
+| 44 min | USD | Moderate | Construction Spending (MoM) (May) |  | -0.2% | -0.4% |
+| 44 min | USD | Moderate | ISM Manufacturing Employment (Jun) |  |  | 46.8 |
+| 44 min | USD | Low | ISM Manufacturing New Orders Index (Jun) |  |  | 47.6 |
+| 44 min | USD | High | ISM Manufacturing PMI (Jun) |  | 48.8 | 48.5 |
+| 44 min | USD | High | ISM Manufacturing Prices (Jun) |  | 69.6 | 69.4 |
+| 44 min | USD | High | JOLTS Job Openings (May) |  | 7.320M | 7.391M |
+| 54 min | USD | Low | IBD/TIPP Economic Optimism (Jul) |  | 50.1 | 49.2 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | -4.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -10.1 |
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -23.88B |

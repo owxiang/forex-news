@@ -24,9 +24,9 @@
 | 10:00 | EUR | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 11:40 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 14:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (May) |  | -0.2% | -0.4% |
-| 15:00 | USD | ISM Manufacturing Employment (Jun) |  |  | 46.8 |
+| 14 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 44 min | USD | Construction Spending (MoM) (May) |  | -0.2% | -0.4% |
+| 44 min | USD | ISM Manufacturing Employment (Jun) |  |  | 46.8 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.9% | 2.9% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.260M | -4.277M |
