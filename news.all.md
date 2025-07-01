@@ -27,13 +27,13 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jun) | 2.37% | 2.44% | 2.40% |
 | 05:00 | IDR | Low | Export Growth (YoY) (May) | 9.68% | 1.00% | 5.76% |
 | 05:00 | IDR | Low | Import Growth (YoY) (May) | 4.14% | -0.10% | 21.84% |
-| 05:00 | IDR | Low | Inflation (MoM) (Jun) | 0.19% | 0.15% | -0.37% |
 | 05:00 | IDR | Low | Inflation (YoY) (Jun) | 1.87% | 1.83% | 1.60% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jun) | 0.19% | 0.15% | -0.37% |
 | 05:00 | IDR | Low | Trade Balance (May) | 4.30B | 2.40B | 0.15B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) | 58.4 | 58.4 | 58.4 |
 | 06:00 | JPY | Low | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (May) | 0.0% | 0.8% | 0.9% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) | -8.7% |  | -9.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) | 51.4 | 50.6 | 50.5 |
@@ -54,13 +54,13 @@
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.0% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 129.07 |  | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.3% |  | 0.1% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jun) | 5.60% |  | 14.50% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jun) | 15.20% |  | 18.60% |
 | 11:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | 18.70% |  | 22.00% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 47.29K |  | 45.21K |
