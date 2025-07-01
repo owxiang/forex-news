@@ -26,8 +26,8 @@
 | 05:00 | IDR | Trade Balance (May) | 4.30B | 2.40B | 0.15B |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jun) | 58.4 | 58.4 | 58.4 |
 | 06:00 | JPY | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
-| 07:30 | CHF | Retail Sales (YoY) (May) |  | 0.8% | 1.3% |
-| 07:30 | AUD | Commodity Prices (YoY) (Jun) |  |  | -7.7% |
+| 20 min | CHF | Retail Sales (YoY) (May) |  | 0.8% | 1.3% |
+| 20 min | AUD | Commodity Prices (YoY) (Jun) |  |  | -7.7% |
 | 08:55 | EUR | German Unemployment (Jun) |  |  | 2.963M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.919M |
 | 09:00 | NOK | Manufacturing PMI (Jun) |  |  | 51.2 |

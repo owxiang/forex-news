@@ -32,10 +32,10 @@
 | 05:00 | IDR | Low | Trade Balance (May) | 4.30B | 2.40B | 0.15B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jun) | 58.4 | 58.4 | 58.4 |
 | 06:00 | JPY | Low | Household Confidence (Jun) | 34.5 | 33.6 | 32.8 |
-| 50 min | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | -0.2% | 0.5% |
-| 50 min | GBP | Moderate | Nationwide HPI (YoY) (Jun) |  | 3.3% | 3.5% |
-| 07:30 | CHF | Low | Retail Sales (YoY) (May) |  | 0.8% | 1.3% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Jun) |  |  | -7.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) | 2.1% | 3.3% | 3.5% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) | -0.8% | -0.2% | 0.4% |
+| 20 min | CHF | Low | Retail Sales (YoY) (May) |  | 0.8% | 1.3% |
+| 20 min | AUD | Low | Commodity Prices (YoY) (Jun) |  |  | -7.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jun) |  | 50.6 | 50.5 |
 | 08:30 | CHF | Moderate | procure.ch Manufacturing PMI (Jun) |  | 44.2 | 42.1 |
 | 08:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -54,8 +54,8 @@
 | 09:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  |  | 0.0% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  |  | 0.0% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  |  | 0.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) |  |  | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  |  | 0.1% |
