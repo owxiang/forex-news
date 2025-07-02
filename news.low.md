@@ -9,8 +9,8 @@
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
 | 02:30 | AUD | Building Approvals (YoY) (May) | 8.00% |  | 5.50% |
 | 02:30 | AUD | Private House Approvals (May) | 0.5% |  | 5.9% |
-| 35 min | EUR | French Government Budget Balance (May) |  |  | -69.3B |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (May) |  | 6.0% | 5.9% |
+| 07:45 | EUR | French Government Budget Balance (May) | -94.0B |  | -69.3B |
+| 52 min | EUR | Italian Monthly Unemployment Rate (May) |  | 6.0% | 5.9% |
 | 09:30 | HKD | Retail Sales (YoY) (May) |  |  | -2.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.88% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |

@@ -11,11 +11,11 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 3.2% | 4.2% | -4.1% |
 | 02:30 | AUD | Low | Private House Approvals (May) | 0.5% |  | 5.9% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (May) | 0.2% | 0.3% | 0.0% |
-| 35 min | EUR | Low | French Government Budget Balance (May) |  |  | -69.3B |
-| 50 min | EUR | Moderate | Spanish Unemployment Change (Jun) |  | -69.5K | -57.8K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (May) |  | 6.0% | 5.9% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.27% |
-| 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 07:45 | EUR | Low | French Government Budget Balance (May) | -94.0B |  | -69.3B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change (Jun) | -48.9K | -69.5K | -57.8K |
+| 52 min | EUR | Low | Italian Monthly Unemployment Rate (May) |  | 6.0% | 5.9% |
+| 52 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.27% |
+| 52 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:30 | HKD | Low | Retail Sales (YoY) (May) |  |  | -2.3% |
 | 10:00 | EUR | Moderate | Unemployment Rate (May) |  | 6.2% | 6.2% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
