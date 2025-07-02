@@ -11,5 +11,5 @@
 | 11:00 | EUR | German 10-Year Bund Auction | 2.630% |  | 2.540% |
 | 11:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (May) | 3.3% | 3.5% | -0.5% |
-| 8 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23 min | USD | Cushing Crude Oil Inventories |  |  | -0.464M |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -1.493M |  | -0.464M |
