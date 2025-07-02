@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
 | 00:00 | KRW | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
+| 00:00 | KRW | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
 | 00:00 | AUD | AIG Construction Index (Jun) | -14.9 |  | -6.4 |
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -29.3 |  | -23.5 |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
@@ -23,15 +23,15 @@
 | 14:00 | USD | All Car Sales (Jun) | 2.54M |  | 2.60M |
 | 14:00 | USD | All Truck Sales (Jun) | 12.80M |  | 13.01M |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Jun) | 50.0 |  | 49.7 |
-| 14 min | CAD | S&P Global Manufacturing PMI (Jun) |  |  | 46.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.125M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.531M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.185M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.650M | -4.066M |
-| 15:30 | USD | Gasoline Production |  |  | 0.008M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.716M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.5% |
-| 15:30 | USD | Gasoline Inventories |  | 0.660M | -2.075M |
-| 16:00 | CAD | Budget Balance (Apr) |  |  | -23.88B |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Jun) | 45.6 |  | 46.1 |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.125M |
+| 23 min | USD | Crude Oil Imports |  |  | 0.531M |
+| 23 min | USD | Distillate Fuel Production |  |  | -0.185M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | -1.650M | -4.066M |
+| 23 min | USD | Gasoline Production |  |  | 0.008M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | -0.716M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.5% |
+| 23 min | USD | Gasoline Inventories |  | 0.660M | -2.075M |
+| 53 min | CAD | Budget Balance (Apr) |  |  | -23.88B |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.787B |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 404.60B |
