@@ -6,11 +6,11 @@
 | 00:00 | KRW | Low | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
 | 00:00 | AUD | Low | AIG Construction Index (Jun) | -14.9 |  | -6.4 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Jun) | -29.3 |  | -23.5 |
-| 43 min | JPY | Low | Monetary Base (YoY) (Jun) |  | -3.5% | -3.4% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (May) |  |  | 5.10% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) |  | 5.0% | -5.7% |
-| 02:30 | AUD | Low | Private House Approvals (May) |  |  | 3.1% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (May) |  | 0.3% | -0.1% |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
+| 59 min | AUD | Low | Building Approvals (YoY) (May) |  |  | 5.10% |
+| 59 min | AUD | Moderate | Building Approvals (MoM) (May) |  | 5.0% | -5.7% |
+| 59 min | AUD | Low | Private House Approvals (May) |  |  | 3.1% |
+| 59 min | AUD | Moderate | Retail Sales (MoM) (May) |  | 0.3% | -0.1% |
 | 07:45 | EUR | Low | French Government Budget Balance (May) |  |  | -69.3B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Jun) |  |  | -57.8K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (May) |  | 6.0% | 5.9% |
