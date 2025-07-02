@@ -19,16 +19,16 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (May) | 2.4% |  | -2.3% |
 | 10:00 | EUR | Moderate | Unemployment Rate (May) | 6.3% | 6.2% | 6.2% |
 | 11:00 | EUR | Moderate | German 10-Year Bund Auction | 2.630% |  | 2.540% |
-| 23 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 53 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.88% |
-| 53 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |
-| 53 min | USD | Low | MBA Purchase Index |  |  | 165.2 |
-| 53 min | USD | Low | Mortgage Market Index |  |  | 250.8 |
-| 53 min | USD | Low | Mortgage Refinance Index |  |  | 713.4 |
-| 12:30 | USD | Low | Challenger Job Cuts (Jun) |  |  | 93.816K |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 47.0% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (May) |  | 3.5% | -0.3% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (May) |  | -0.5% | 0.1% |
+| 11:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.79% |  | 6.88% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.7% |  | 1.1% |
+| 12:00 | USD | Low | MBA Purchase Index | 165.3 |  | 165.2 |
+| 12:00 | USD | Low | Mortgage Market Index | 257.5 |  | 250.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 759.7 |  | 713.4 |
+| 23 min | USD | Low | Challenger Job Cuts (Jun) |  |  | 93.816K |
+| 23 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 47.0% |
+| 53 min | BRL | Low | Industrial Production (MoM) (May) |  | -0.5% | 0.1% |
+| 53 min | BRL | Moderate | Industrial Production (YoY) (May) |  | 3.5% | -0.3% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) |  | 99K | 37K |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 49.7 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 46.1 |

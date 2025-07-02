@@ -9,7 +9,7 @@
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Unemployment Rate (May) | 6.3% | 6.2% | 6.2% |
 | 11:00 | EUR | German 10-Year Bund Auction | 2.630% |  | 2.540% |
-| 23 min | EUR | ECB's Lane Speaks |  |  |  |
-| 13:00 | BRL | Industrial Production (YoY) (May) |  | 3.5% | -0.3% |
+| 11:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 53 min | BRL | Industrial Production (YoY) (May) |  | 3.5% | -0.3% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.464M |

@@ -12,14 +12,14 @@
 | 07:45 | EUR | French Government Budget Balance (May) | -94.0B |  | -69.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (May) | 6.5% | 6.0% | 6.1% |
 | 09:30 | HKD | Retail Sales (YoY) (May) | 2.4% |  | -2.3% |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.88% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |
-| 53 min | USD | MBA Purchase Index |  |  | 165.2 |
-| 53 min | USD | Mortgage Market Index |  |  | 250.8 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 713.4 |
-| 12:30 | USD | Challenger Job Cuts (Jun) |  |  | 93.816K |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 47.0% |
-| 13:00 | BRL | Industrial Production (MoM) (May) |  | -0.5% | 0.1% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.79% |  | 6.88% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 2.7% |  | 1.1% |
+| 12:00 | USD | MBA Purchase Index | 165.3 |  | 165.2 |
+| 12:00 | USD | Mortgage Market Index | 257.5 |  | 250.8 |
+| 12:00 | USD | Mortgage Refinance Index | 759.7 |  | 713.4 |
+| 23 min | USD | Challenger Job Cuts (Jun) |  |  | 93.816K |
+| 23 min | USD | Challenger Job Cuts (YoY) |  |  | 47.0% |
+| 53 min | BRL | Industrial Production (MoM) (May) |  | -0.5% | 0.1% |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Jun) |  |  | 49.7 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Jun) |  |  | 46.1 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.125M |
