@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
 | 00:00 | KRW | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
+| 00:00 | KRW | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
 | 00:00 | AUD | AIG Construction Index (Jun) | -14.9 |  | -6.4 |
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -29.3 |  | -23.5 |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
@@ -17,8 +17,8 @@
 | 12:00 | USD | MBA Purchase Index | 165.3 |  | 165.2 |
 | 12:00 | USD | Mortgage Market Index | 257.5 |  | 250.8 |
 | 12:00 | USD | Mortgage Refinance Index | 759.7 |  | 713.4 |
-| 12:30 | USD | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -1.6% |  | 47.0% |
+| 12:30 | USD | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
 | 13:00 | BRL | Industrial Production (MoM) (May) | -0.5% | -0.5% | -0.2% |
 | 14:00 | USD | All Car Sales (Jun) | 2.54M |  | 2.60M |
 | 14:00 | USD | All Truck Sales (Jun) | 12.80M |  | 13.01M |
@@ -32,5 +32,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.202M |  | -0.716M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 1.5% |
 | 15:30 | USD | Gasoline Inventories | 4.188M | 0.660M | -2.075M |
-| 23 min | BRL | Foreign Exchange Flows |  |  | -1.787B |
+| 18:30 | BRL | Foreign Exchange Flows | -2.268B |  | -1.787B |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 404.60B |
