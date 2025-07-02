@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
 | 00:00 | KRW | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
+| 00:00 | KRW | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
 | 00:00 | AUD | AIG Construction Index (Jun) | -14.9 |  | -6.4 |
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -29.3 |  | -23.5 |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
@@ -33,4 +33,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 1.5% |
 | 15:30 | USD | Gasoline Inventories | 4.188M | 0.660M | -2.075M |
 | 18:30 | BRL | Foreign Exchange Flows | -2.268B |  | -1.787B |
-| 52 min | KRW | FX Reserves - USD (Jun) |  |  | 404.60B |
+| 22:00 | KRW | FX Reserves - USD (Jun) | 410.20B |  | 404.60B |

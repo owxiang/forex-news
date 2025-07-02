@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
+| 00:00 | KRW | Low | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
 | 00:00 | AUD | Low | AIG Construction Index (Jun) | -14.9 |  | -6.4 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Jun) | -29.3 |  | -23.5 |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
@@ -27,8 +27,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 759.7 |  | 713.4 |
 | 12:30 | USD | Low | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | -1.6% |  | 47.0% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.5% | -0.5% | -0.2% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | 3.3% | 3.5% | -0.5% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.5% | -0.5% | -0.2% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) | -33K | 99K | 29K |
 | 14:00 | USD | Low | All Car Sales (Jun) | 2.54M |  | 2.60M |
 | 14:00 | USD | Low | All Truck Sales (Jun) | 12.80M |  | 13.01M |
@@ -46,4 +46,4 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 1.5% |
 | 15:30 | USD | Low | Gasoline Inventories | 4.188M | 0.660M | -2.075M |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -2.268B |  | -1.787B |
-| 52 min | KRW | Low | FX Reserves - USD (Jun) |  |  | 404.60B |
+| 22:00 | KRW | Low | FX Reserves - USD (Jun) | 410.20B |  | 404.60B |
