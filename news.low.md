@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
 | 00:00 | KRW | CPI (MoM) (Jun) | 0.0% | 0.0% | -0.1% |
+| 00:00 | KRW | CPI (YoY) (Jun) | 2.2% | 2.1% | 1.9% |
 | 00:00 | AUD | AIG Construction Index (Jun) | -14.9 |  | -6.4 |
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -29.3 |  | -23.5 |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
