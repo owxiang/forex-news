@@ -7,8 +7,8 @@
 | 00:00 | AUD | AIG Construction Index (Jun) | -14.9 |  | -6.4 |
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -29.3 |  | -23.5 |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | -3.3% | -3.5% | -3.4% |
-| 02:30 | AUD | Building Approvals (YoY) (May) | 8.00% |  | 5.10% |
-| 02:30 | AUD | Private House Approvals (May) | 0.5% |  | 3.1% |
+| 02:30 | AUD | Building Approvals (YoY) (May) | 8.00% |  | 5.50% |
+| 02:30 | AUD | Private House Approvals (May) | 0.5% |  | 5.9% |
 | 07:45 | EUR | French Government Budget Balance (May) |  |  | -69.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (May) |  | 6.0% | 5.9% |
 | 09:30 | HKD | Retail Sales (YoY) (May) |  |  | -2.3% |
