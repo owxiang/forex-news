@@ -25,8 +25,8 @@
 | 12:00 | USD | Low | MBA Purchase Index | 165.3 |  | 165.2 |
 | 12:00 | USD | Low | Mortgage Market Index | 257.5 |  | 250.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 759.7 |  | 713.4 |
-| 12:30 | USD | Low | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | -1.6% |  | 47.0% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | 3.3% | 3.5% | -0.5% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.5% | -0.5% | -0.2% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) | -33K | 99K | 29K |
