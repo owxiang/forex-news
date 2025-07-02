@@ -17,11 +17,13 @@
 | 12:00 | USD | MBA Purchase Index | 165.3 |  | 165.2 |
 | 12:00 | USD | Mortgage Market Index | 257.5 |  | 250.8 |
 | 12:00 | USD | Mortgage Refinance Index | 759.7 |  | 713.4 |
-| 12:30 | USD | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -1.6% |  | 47.0% |
-| 13:00 | BRL | Industrial Production (MoM) (May) | -0.5% | -0.5% | -0.5% |
-| 49 min | SGD | S&P Global Manufacturing PMI (Jun) |  |  | 49.7 |
-| 14:30 | CAD | S&P Global Manufacturing PMI (Jun) |  |  | 46.1 |
+| 12:30 | USD | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
+| 13:00 | BRL | Industrial Production (MoM) (May) | -0.5% | -0.5% | -0.2% |
+| 14:00 | USD | All Car Sales (Jun) | 2.54M |  | 2.60M |
+| 14:00 | USD | All Truck Sales (Jun) | 12.80M |  | 13.01M |
+| 14:00 | SGD | S&P Global Manufacturing PMI (Jun) | 50.0 |  | 49.7 |
+| 14 min | CAD | S&P Global Manufacturing PMI (Jun) |  |  | 46.1 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.125M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.531M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.185M |
