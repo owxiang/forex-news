@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 59 min | AUD | Building Approvals (MoM) (May) |  | 5.0% | -5.7% |
-| 59 min | AUD | Retail Sales (MoM) (May) |  | 0.3% | -0.1% |
+| 02:30 | AUD | Building Approvals (MoM) (May) | 3.2% | 5.0% | -4.1% |
+| 02:30 | AUD | Retail Sales (MoM) (May) | 0.2% | 0.3% | -0.1% |
 | 08:00 | EUR | Spanish Unemployment Change (Jun) |  |  | -57.8K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.27% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
