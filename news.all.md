@@ -25,12 +25,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 165.3 |  | 165.2 |
 | 12:00 | USD | Low | Mortgage Market Index | 257.5 |  | 250.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 759.7 |  | 713.4 |
-| 23 min | USD | Low | Challenger Job Cuts (Jun) |  |  | 93.816K |
-| 23 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 47.0% |
-| 53 min | BRL | Low | Industrial Production (MoM) (May) |  | -0.5% | 0.1% |
-| 53 min | BRL | Moderate | Industrial Production (YoY) (May) |  | 3.5% | -0.3% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) |  | 99K | 37K |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 49.7 |
+| 12:30 | USD | Low | Challenger Job Cuts (Jun) | 47.999K |  | 93.816K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -1.6% |  | 47.0% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.5% | -0.5% | -0.5% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | 3.3% | 3.5% | -0.3% |
+| 4 min | USD | High | ADP Nonfarm Employment Change (Jun) |  | 99K | 37K |
+| 49 min | SGD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 49.7 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jun) |  |  | 46.1 |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -3.500M | -5.836M |
