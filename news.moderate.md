@@ -7,8 +7,8 @@
 | 08:00 | EUR | Spanish Unemployment Change (Jun) | -48.9K | -69.5K | -57.8K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jun) | -0.08% |  | 0.27% |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 51 min | EUR | Unemployment Rate (May) |  | 6.2% | 6.2% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
+| 10:00 | EUR | Unemployment Rate (May) | 6.3% | 6.2% | 6.2% |
+| 21 min | EUR | German 10-Year Bund Auction |  |  | 2.540% |
 | 11:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (May) |  | 3.5% | -0.3% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |

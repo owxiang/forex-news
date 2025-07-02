@@ -16,9 +16,9 @@
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (May) | 6.5% | 6.0% | 6.1% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jun) | -0.08% |  | 0.27% |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 21 min | HKD | Low | Retail Sales (YoY) (May) |  |  | -2.3% |
-| 51 min | EUR | Moderate | Unemployment Rate (May) |  | 6.2% | 6.2% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
+| 09:30 | HKD | Low | Retail Sales (YoY) (May) | 2.4% |  | -2.3% |
+| 10:00 | EUR | Moderate | Unemployment Rate (May) | 6.3% | 6.2% | 6.2% |
+| 21 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
 | 11:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.88% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |

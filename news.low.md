@@ -11,7 +11,7 @@
 | 02:30 | AUD | Private House Approvals (May) | 0.5% |  | 5.9% |
 | 07:45 | EUR | French Government Budget Balance (May) | -94.0B |  | -69.3B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (May) | 6.5% | 6.0% | 6.1% |
-| 21 min | HKD | Retail Sales (YoY) (May) |  |  | -2.3% |
+| 09:30 | HKD | Retail Sales (YoY) (May) | 2.4% |  | -2.3% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.88% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |
 | 12:00 | USD | MBA Purchase Index |  |  | 165.2 |
