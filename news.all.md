@@ -13,8 +13,8 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.808% |  | 2.904% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) | 60.4 | 60.7 | 60.7 |
-| 07:30 | CHF | Low | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 08:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) | 51.9 | 51.1 | 51.3 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jun) | 50.1 |  | 50.8 |
@@ -33,12 +33,12 @@
 | 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.671% |  | 3.531% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.159% |  | 2.118% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
-| 52 min | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 1.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  | -1.10% | 0.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  | -9.00% | -0.20% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  | -1.10% | 0.30% |
+| 13:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 1.2% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,974K |
 | 13:30 | USD | Moderate | Exports (May) |  |  | 289.40B |
