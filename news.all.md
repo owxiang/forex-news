@@ -35,10 +35,10 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
 | 12:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.7% | 3.9% | 3.8% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) | 0.2% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.7% | 3.9% | 3.8% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) | 34.2 | 34.3 | 34.3 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,964K | 1,960K | 1,964K |
 | 13:30 | USD | Moderate | Exports (May) | 279.00B |  | 289.40B |
@@ -69,11 +69,11 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jun) | 51.3 | 48.2 | 46.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Jun) | 50.8 | 50.8 | 49.9 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jun) | 67.5 | 68.9 | 68.7 |
-| 23 min | USD | Low | Natural Gas Storage |  | 48B | 96B |
-| 53 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.000% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.390% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
+| 15:30 | USD | Low | Natural Gas Storage | 55B | 48B | 96B |
+| 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.000% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.390% |
+| 53 min | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |
