@@ -17,16 +17,16 @@
 | 09:30 | GBP | S&P Global Composite PMI (Jun) | 52.0 | 50.7 | 50.3 |
 | 09:30 | GBP | S&P Global Services PMI (Jun) | 52.8 | 51.3 | 50.9 |
 | 09:40 | EUR | Spanish 15-Year Obligacion Auction | 3.671% |  | 3.531% |
-| 24 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,974K |
-| 13:30 | USD | Exports (May) |  |  | 289.40B |
-| 13:30 | USD | Imports (May) |  |  | 351.00B |
-| 13:30 | USD | Participation Rate (Jun) |  |  | 62.4% |
-| 13:30 | USD | Private Nonfarm Payrolls (Jun) |  | 105K | 140K |
-| 13:30 | USD | Trade Balance (May) |  | -69.90B | -61.60B |
-| 13:30 | USD | U6 Unemployment Rate (Jun) |  |  | 7.8% |
-| 13:30 | CAD | Trade Balance (May) |  | -6.00B | -7.14B |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 18 min | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
+| 18 min | USD | Continuing Jobless Claims |  | 1,960K | 1,974K |
+| 18 min | USD | Exports (May) |  |  | 289.40B |
+| 18 min | USD | Imports (May) |  |  | 351.00B |
+| 18 min | USD | Participation Rate (Jun) |  |  | 62.4% |
+| 18 min | USD | Private Nonfarm Payrolls (Jun) |  | 105K | 140K |
+| 18 min | USD | Trade Balance (May) |  | -69.90B | -61.60B |
+| 18 min | USD | U6 Unemployment Rate (Jun) |  |  | 7.8% |
+| 18 min | CAD | Trade Balance (May) |  | -6.00B | -7.14B |
 | 14:45 | USD | S&P Global Composite PMI (Jun) |  | 52.8 | 52.8 |
 | 15:00 | USD | Factory Orders (MoM) (May) |  | 8.1% | -3.7% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jun) |  |  | 50.7 |

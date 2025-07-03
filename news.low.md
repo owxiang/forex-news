@@ -18,17 +18,17 @@
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction | 3.163% |  | 3.208% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.159% |  | 2.118% |
 | 10:00 | NOK | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
-| 54 min | MXN | Gross Fixed Investments (YoY) (Apr) |  | -9.00% | -0.20% |
-| 54 min | MXN | Gross Fixed Investments (MoM) (Apr) |  | -1.10% | 0.30% |
-| 54 min | EUR | German Car Registration (YoY) (Jun) |  |  | 1.2% |
-| 13:30 | USD | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (Jun) |  |  | -1.0K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 245.00K |
-| 13:30 | USD | Manufacturing Payrolls (Jun) |  | -5K | -8K |
-| 13:30 | CAD | Exports (May) |  |  | 60.44B |
-| 13:30 | CAD | Imports (May) |  |  | 67.58B |
-| 14:00 | BRL | S&P Global Composite PMI (Jun) |  |  | 49.1 |
-| 14:00 | BRL | S&P Global Services PMI (Jun) |  |  | 49.6 |
+| 12:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
+| 18 min | USD | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
+| 18 min | USD | Government Payrolls (Jun) |  |  | -1.0K |
+| 18 min | USD | Jobless Claims 4-Week Avg. |  |  | 245.00K |
+| 18 min | USD | Manufacturing Payrolls (Jun) |  | -5K | -8K |
+| 18 min | CAD | Exports (May) |  |  | 60.44B |
+| 18 min | CAD | Imports (May) |  |  | 67.58B |
+| 48 min | BRL | S&P Global Composite PMI (Jun) |  |  | 49.1 |
+| 48 min | BRL | S&P Global Services PMI (Jun) |  |  | 49.6 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (May) |  |  | 15.5% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (May) |  |  | 0.5% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (May) |  |  | -0.5% |

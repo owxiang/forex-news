@@ -13,8 +13,8 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.808% |  | 2.904% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) | 60.4 | 60.7 | 60.7 |
-| 07:30 | CHF | Low | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 08:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) | 51.9 | 51.1 | 51.3 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jun) | 50.1 |  | 50.8 |
@@ -33,31 +33,31 @@
 | 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.671% |  | 3.531% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.159% |  | 2.118% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
-| 24 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  | -9.00% | -0.20% |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  | -1.10% | 0.30% |
-| 54 min | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 1.2% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,974K |
-| 13:30 | USD | Moderate | Exports (May) |  |  | 289.40B |
-| 13:30 | USD | Low | Government Payrolls (Jun) |  |  | -1.0K |
-| 13:30 | USD | Moderate | Imports (May) |  |  | 351.00B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 240K | 236K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 245.00K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Jun) |  | -5K | -8K |
-| 13:30 | USD | High | Nonfarm Payrolls (Jun) |  | 111K | 139K |
-| 13:30 | USD | Moderate | Participation Rate (Jun) |  |  | 62.4% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jun) |  | 105K | 140K |
-| 13:30 | USD | Moderate | Trade Balance (May) |  | -69.90B | -61.60B |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Jun) |  |  | 7.8% |
-| 13:30 | USD | High | Unemployment Rate (Jun) |  | 4.3% | 4.2% |
-| 13:30 | CAD | Low | Exports (May) |  |  | 60.44B |
-| 13:30 | CAD | Low | Imports (May) |  |  | 67.58B |
-| 13:30 | CAD | Moderate | Trade Balance (May) |  | -6.00B | -7.14B |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Jun) |  |  | 49.1 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Jun) |  |  | 49.6 |
+| 12:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
+| 18 min | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
+| 18 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
+| 18 min | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
+| 18 min | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,974K |
+| 18 min | USD | Moderate | Exports (May) |  |  | 289.40B |
+| 18 min | USD | Low | Government Payrolls (Jun) |  |  | -1.0K |
+| 18 min | USD | Moderate | Imports (May) |  |  | 351.00B |
+| 18 min | USD | High | Initial Jobless Claims |  | 240K | 236K |
+| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 245.00K |
+| 18 min | USD | Low | Manufacturing Payrolls (Jun) |  | -5K | -8K |
+| 18 min | USD | High | Nonfarm Payrolls (Jun) |  | 111K | 139K |
+| 18 min | USD | Moderate | Participation Rate (Jun) |  |  | 62.4% |
+| 18 min | USD | Moderate | Private Nonfarm Payrolls (Jun) |  | 105K | 140K |
+| 18 min | USD | Moderate | Trade Balance (May) |  | -69.90B | -61.60B |
+| 18 min | USD | Moderate | U6 Unemployment Rate (Jun) |  |  | 7.8% |
+| 18 min | USD | High | Unemployment Rate (Jun) |  | 4.3% | 4.2% |
+| 18 min | CAD | Low | Exports (May) |  |  | 60.44B |
+| 18 min | CAD | Low | Imports (May) |  |  | 67.58B |
+| 18 min | CAD | Moderate | Trade Balance (May) |  | -6.00B | -7.14B |
+| 48 min | BRL | Low | S&P Global Composite PMI (Jun) |  |  | 49.1 |
+| 48 min | BRL | Low | S&P Global Services PMI (Jun) |  |  | 49.6 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  | 52.8 | 52.8 |
 | 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 53.1 | 53.1 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | 15.5% |
