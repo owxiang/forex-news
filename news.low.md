@@ -8,7 +8,7 @@
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -2.3% |  | 1.9% |
 | 02:30 | AUD | Exports (MoM) (May) | -2.7% |  | -1.7% |
 | 02:30 | AUD | Imports (MoM) (May) | 3.8% |  | 1.6% |
-| 55 min | JPY | 30-Year JGB Auction |  |  | 2.904% |
+| 4 min | JPY | 30-Year JGB Auction |  |  | 2.904% |
 | 06:00 | INR | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |
 | 07:30 | CHF | CPI (YoY) (Jun) |  |  | -0.1% |
 | 08:00 | EUR | French Car Registration (YoY) (Jun) |  |  | -12.3% |
@@ -20,8 +20,8 @@
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.118% |
 | 10:00 | NOK | House Price Index (YoY) (Jun) |  |  | 5.20% |
 | 11:00 | EUR | German Car Registration (YoY) (Jun) |  |  | 1.2% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) |  |  | 0.30% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) |  |  | -0.20% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) |  |  | 0.30% |
 | 13:30 | USD | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jun) |  |  | -1.0K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 245.00K |

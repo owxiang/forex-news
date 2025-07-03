@@ -11,7 +11,7 @@
 | 02:30 | AUD | Low | Imports (MoM) (May) | 3.8% |  | 1.6% |
 | 02:30 | AUD | Moderate | Trade Balance (May) | 2.238B | 5.080B | 4.859B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
-| 55 min | JPY | Low | 30-Year JGB Auction |  |  | 2.904% |
+| 4 min | JPY | Low | 30-Year JGB Auction |  |  | 2.904% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Jun) |  |  | -0.1% |
@@ -36,8 +36,8 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) |  |  | 5.20% |
 | 11:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 1.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  |  | 0.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  |  | -0.20% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  |  | 0.30% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
