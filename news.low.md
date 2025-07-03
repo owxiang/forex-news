@@ -6,9 +6,9 @@
 | 00:50 | JPY | Foreign Bonds Buying | 182.8B |  | 615.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 651.3B |  | -524.1B |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | -2.3% |  | 1.9% |
-| 02:30 | AUD | Exports (MoM) (May) |  |  | -2.4% |
-| 02:30 | AUD | Imports (MoM) (May) |  |  | 1.1% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.904% |
+| 02:30 | AUD | Exports (MoM) (May) | -2.7% |  | -1.7% |
+| 02:30 | AUD | Imports (MoM) (May) | 3.8% |  | 1.6% |
+| 55 min | JPY | 30-Year JGB Auction |  |  | 2.904% |
 | 06:00 | INR | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |
 | 07:30 | CHF | CPI (YoY) (Jun) |  |  | -0.1% |
 | 08:00 | EUR | French Car Registration (YoY) (Jun) |  |  | -12.3% |
