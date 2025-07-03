@@ -11,10 +11,10 @@
 | 02:30 | AUD | Low | Imports (MoM) (May) | 3.8% |  | 1.6% |
 | 02:30 | AUD | Moderate | Trade Balance (May) | 2.238B | 5.080B | 4.859B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
-| 4 min | JPY | Low | 30-Year JGB Auction |  |  | 2.904% |
-| 06:00 | INR | Low | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 2.808% |  | 2.904% |
+| 45 min | INR | Low | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |
 | 07:30 | CHF | Low | CPI (YoY) (Jun) |  |  | -0.1% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
 | 08:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) |  | 51.1 | 51.3 |
