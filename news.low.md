@@ -19,8 +19,8 @@
 | 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.159% |  | 2.118% |
 | 10:00 | NOK | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
 | 12:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
 | 13:30 | USD | Average Weekly Hours (Jun) | 34.2 | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jun) | 73.0K |  | 7.0K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 241.50K |  | 245.25K |

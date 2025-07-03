@@ -13,8 +13,8 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.808% |  | 2.904% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) | 60.4 | 60.7 | 60.7 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
 | 07:30 | CHF | Low | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
 | 08:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) | 51.9 | 51.1 | 51.3 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jun) | 50.1 |  | 50.8 |
@@ -35,10 +35,10 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
 | 12:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.7% | 3.9% | 3.8% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) | 0.2% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.7% | 3.9% | 3.8% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) | 34.2 | 34.3 | 34.3 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,964K | 1,960K | 1,964K |
 | 13:30 | USD | Moderate | Exports (May) | 279.00B |  | 289.40B |
@@ -74,5 +74,5 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.000% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.300% |  | 4.390% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.6% | 2.5% | 2.5% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 425 |  | 432 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 539 |  | 547 |

@@ -32,5 +32,5 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jun) | 47.2 | 49.5 | 50.7 |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 2.5% | 2.5% |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 425 |  | 432 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 539 |  | 547 |
