@@ -73,7 +73,6 @@
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.240% |  | 4.000% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.300% |  | 4.390% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
-| 52 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
-| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
-| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.6% | 2.5% | 2.5% |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 547 |

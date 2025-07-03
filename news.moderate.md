@@ -31,6 +31,6 @@
 | 15:00 | USD | Factory Orders (MoM) (May) | 8.2% | 8.1% | -3.9% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jun) | 47.2 | 49.5 | 50.7 |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 52 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
-| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
-| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 2.5% | 2.5% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |

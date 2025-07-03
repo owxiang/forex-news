@@ -37,4 +37,3 @@
 | 15:30 | USD | Natural Gas Storage | 55B | 48B | 96B |
 | 16:30 | USD | 4-Week Bill Auction | 4.240% |  | 4.000% |
 | 16:30 | USD | 8-Week Bill Auction | 4.300% |  | 4.390% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
