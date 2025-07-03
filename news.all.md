@@ -13,19 +13,19 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.808% |  | 2.904% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) | 60.4 | 60.7 | 60.7 |
-| 20 min | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
-| 20 min | CHF | Low | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
-| 55 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) |  | 51.1 | 51.3 |
-| 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jun) |  | 52.6 | 53.2 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Jun) |  | 48.5 | 49.3 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Jun) |  | 48.7 | 48.9 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 50.4 | 48.5 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 49.4 | 47.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) |  | 50.2 | 50.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jun) |  | 50.0 | 49.7 |
+| 07:30 | CHF | Low | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
+| 08:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 7 min | EUR | Moderate | HCOB Spain Services PMI (Jun) |  | 51.1 | 51.3 |
+| 7 min | ZAR | Low | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
+| 37 min | EUR | Low | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
+| 37 min | EUR | Moderate | HCOB Italy Services PMI (Jun) |  | 52.6 | 53.2 |
+| 42 min | EUR | Low | HCOB France Composite PMI (Jun) |  | 48.5 | 49.3 |
+| 42 min | EUR | Moderate | HCOB France Services PMI (Jun) |  | 48.7 | 48.9 |
+| 47 min | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 50.4 | 48.5 |
+| 47 min | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 49.4 | 47.1 |
+| 52 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) |  | 50.2 | 50.2 |
+| 52 min | EUR | Moderate | HCOB Eurozone Services PMI (Jun) |  | 50.0 | 49.7 |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) |  | 50.7 | 50.3 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) |  | 51.3 | 50.9 |

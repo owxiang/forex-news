@@ -10,11 +10,11 @@
 | 02:30 | AUD | Imports (MoM) (May) | 3.8% |  | 1.6% |
 | 04:35 | JPY | 30-Year JGB Auction | 2.808% |  | 2.904% |
 | 06:00 | INR | S&P Global Services PMI (Jun) | 60.4 | 60.7 | 60.7 |
-| 20 min | CHF | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
-| 08:15 | ZAR | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
-| 08:50 | EUR | HCOB France Composite PMI (Jun) |  | 48.5 | 49.3 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Jun) |  | 50.4 | 48.5 |
+| 07:30 | CHF | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
+| 7 min | ZAR | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
+| 37 min | EUR | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
+| 42 min | EUR | HCOB France Composite PMI (Jun) |  | 48.5 | 49.3 |
+| 47 min | EUR | HCOB Germany Composite PMI (Jun) |  | 50.4 | 48.5 |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.208% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.118% |
 | 10:00 | NOK | House Price Index (YoY) (Jun) |  |  | 5.20% |
