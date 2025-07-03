@@ -17,7 +17,7 @@
 | 09:30 | GBP | S&P Global Composite PMI (Jun) | 52.0 | 50.7 | 50.3 |
 | 09:30 | GBP | S&P Global Services PMI (Jun) | 52.8 | 51.3 | 50.9 |
 | 09:40 | EUR | Spanish 15-Year Obligacion Auction | 3.671% |  | 3.531% |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 24 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,974K |
 | 13:30 | USD | Exports (May) |  |  | 289.40B |
