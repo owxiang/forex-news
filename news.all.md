@@ -35,8 +35,8 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
 | 12:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.7% | 3.9% | 3.8% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) | 0.2% | 0.3% | 0.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) | 34.2 | 34.3 | 34.3 |
@@ -58,19 +58,19 @@
 | 13:30 | CAD | Moderate | Trade Balance (May) | -5.90B | -6.00B | -7.60B |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Jun) | 48.7 |  | 49.1 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Jun) | 49.3 |  | 49.6 |
-| 30 min | USD | Moderate | S&P Global Composite PMI (Jun) |  | 52.8 | 52.8 |
-| 30 min | USD | High | S&P Global Services PMI (Jun) |  | 53.1 | 53.1 |
-| 45 min | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | 15.5% |
-| 45 min | USD | Low | Durables Excluding Transport (MoM) (May) |  |  | 0.5% |
-| 45 min | USD | Moderate | Factory Orders (MoM) (May) |  | 8.1% | -3.7% |
-| 45 min | USD | Low | Factory orders ex transportation (MoM) (May) |  |  | -0.5% |
-| 45 min | USD | Low | ISM Non-Manufacturing Business Activity (Jun) |  |  | 50.0 |
-| 45 min | USD | Moderate | ISM Non-Manufacturing Employment (Jun) |  |  | 50.7 |
-| 45 min | USD | Low | ISM Non-Manufacturing New Orders (Jun) |  |  | 46.4 |
-| 45 min | USD | High | ISM Non-Manufacturing PMI (Jun) |  | 50.8 | 49.9 |
-| 45 min | USD | High | ISM Non-Manufacturing Prices (Jun) |  |  | 68.7 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 48B | 96B |
-| 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) | 52.9 | 52.8 | 52.8 |
+| 14:45 | USD | High | S&P Global Services PMI (Jun) | 52.9 | 53.1 | 53.1 |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (May) | 15.5% |  | 15.5% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (May) | 0.5% |  | 0.5% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (May) | 8.2% | 8.1% | -3.9% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (May) | 0.2% |  | -0.6% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jun) | 54.2 |  | 50.0 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jun) | 47.2 | 49.5 | 50.7 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jun) | 51.3 | 48.2 | 46.4 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Jun) | 50.8 | 50.8 | 49.9 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (Jun) | 67.5 | 68.9 | 68.7 |
+| 23 min | USD | Low | Natural Gas Storage |  | 48B | 96B |
+| 53 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.000% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.390% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |

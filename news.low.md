@@ -19,8 +19,8 @@
 | 09:40 | EUR | Spanish 3-Year Bonos Auction | 2.159% |  | 2.118% |
 | 10:00 | NOK | House Price Index (YoY) (Jun) | 5.10% |  | 5.20% |
 | 12:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) | -12.50% | -9.00% | -0.20% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) | -1.70% | -1.10% | 0.30% |
 | 13:30 | USD | Average Weekly Hours (Jun) | 34.2 | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jun) | 73.0K |  | 7.0K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 241.50K |  | 245.25K |
@@ -29,12 +29,12 @@
 | 13:30 | CAD | Imports (May) | 66.66B |  | 67.72B |
 | 14:00 | BRL | S&P Global Composite PMI (Jun) | 48.7 |  | 49.1 |
 | 14:00 | BRL | S&P Global Services PMI (Jun) | 49.3 |  | 49.6 |
-| 45 min | USD | Durables Excluding Defense (MoM) (May) |  |  | 15.5% |
-| 45 min | USD | Durables Excluding Transport (MoM) (May) |  |  | 0.5% |
-| 45 min | USD | Factory orders ex transportation (MoM) (May) |  |  | -0.5% |
-| 45 min | USD | ISM Non-Manufacturing Business Activity (Jun) |  |  | 50.0 |
-| 45 min | USD | ISM Non-Manufacturing New Orders (Jun) |  |  | 46.4 |
-| 15:30 | USD | Natural Gas Storage |  | 48B | 96B |
+| 15:00 | USD | Durables Excluding Defense (MoM) (May) | 15.5% |  | 15.5% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (May) | 0.5% |  | 0.5% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (May) | 0.2% |  | -0.6% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Jun) | 54.2 |  | 50.0 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Jun) | 51.3 | 48.2 | 46.4 |
+| 23 min | USD | Natural Gas Storage |  | 48B | 96B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.000% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.390% |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |

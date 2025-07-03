@@ -27,10 +27,10 @@
 | 13:30 | USD | Trade Balance (May) | -71.50B | -69.90B | -60.30B |
 | 13:30 | USD | U6 Unemployment Rate (Jun) | 7.7% |  | 7.8% |
 | 13:30 | CAD | Trade Balance (May) | -5.90B | -6.00B | -7.60B |
-| 30 min | USD | S&P Global Composite PMI (Jun) |  | 52.8 | 52.8 |
-| 45 min | USD | Factory Orders (MoM) (May) |  | 8.1% | -3.7% |
-| 45 min | USD | ISM Non-Manufacturing Employment (Jun) |  |  | 50.7 |
-| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Jun) | 52.9 | 52.8 | 52.8 |
+| 15:00 | USD | Factory Orders (MoM) (May) | 8.2% | 8.1% | -3.9% |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Jun) | 47.2 | 49.5 | 50.7 |
+| 53 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 432 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 547 |

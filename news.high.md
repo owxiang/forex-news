@@ -6,6 +6,6 @@
 | 13:30 | USD | Initial Jobless Claims | 233K | 240K | 237K |
 | 13:30 | USD | Nonfarm Payrolls (Jun) | 147K | 111K | 144K |
 | 13:30 | USD | Unemployment Rate (Jun) | 4.1% | 4.3% | 4.2% |
-| 30 min | USD | S&P Global Services PMI (Jun) |  | 53.1 | 53.1 |
-| 45 min | USD | ISM Non-Manufacturing PMI (Jun) |  | 50.8 | 49.9 |
-| 45 min | USD | ISM Non-Manufacturing Prices (Jun) |  |  | 68.7 |
+| 14:45 | USD | S&P Global Services PMI (Jun) | 52.9 | 53.1 | 53.1 |
+| 15:00 | USD | ISM Non-Manufacturing PMI (Jun) | 50.8 | 50.8 | 49.9 |
+| 15:00 | USD | ISM Non-Manufacturing Prices (Jun) | 67.5 | 68.9 | 68.7 |
