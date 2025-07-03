@@ -3,18 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Services PMI (Jun) | 51.8 | 51.3 | 51.3 |
-| 43 min | JPY | Foreign Bonds Buying |  |  | 615.5B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | -524.3B |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 1.9% |
-| 02:30 | AUD | Exports (MoM) (May) |  |  | -2.4% |
-| 02:30 | AUD | Imports (MoM) (May) |  |  | 1.1% |
+| 00:50 | JPY | Foreign Bonds Buying | 182.8B |  | 615.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 651.3B |  | -524.1B |
+| 29 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 1.9% |
+| 59 min | AUD | Exports (MoM) (May) |  |  | -2.4% |
+| 59 min | AUD | Imports (MoM) (May) |  |  | 1.1% |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 2.904% |
-| 06:00 | INR | S&P Global Services PMI (Jun) |  | 60.7 | 58.8 |
+| 06:00 | INR | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |
 | 07:30 | CHF | CPI (YoY) (Jun) |  |  | -0.1% |
 | 08:00 | EUR | French Car Registration (YoY) (Jun) |  |  | -12.3% |
 | 08:15 | ZAR | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
-| 08:50 | EUR | HCOB France Composite PMI (Jun) |  | 48.5 | 49.3 |
+| 08:50 | EUR | HCOB France Composite PMI (Jun) |  | 48.5 | 48.5 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jun) |  | 50.4 | 48.5 |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.208% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.118% |

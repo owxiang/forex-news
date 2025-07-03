@@ -3,33 +3,33 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Services PMI (Jun) | 51.8 | 51.3 | 51.3 |
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | 615.5B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -524.3B |
-| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jun) |  | 51.5 | 51.0 |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 1.9% |
-| 02:30 | AUD | Low | Exports (MoM) (May) |  |  | -2.4% |
-| 02:30 | AUD | Low | Imports (MoM) (May) |  |  | 1.1% |
-| 02:30 | AUD | Moderate | Trade Balance (May) |  | 5.080B | 5.413B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 182.8B |  | 615.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 651.3B |  | -524.1B |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jun) | 51.7 | 51.5 | 51.0 |
+| 29 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 1.9% |
+| 59 min | AUD | Low | Exports (MoM) (May) |  |  | -2.4% |
+| 59 min | AUD | Low | Imports (MoM) (May) |  |  | 1.1% |
+| 59 min | AUD | Moderate | Trade Balance (May) |  | 5.080B | 5.413B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) |  | 51.0 | 51.1 |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.904% |
-| 06:00 | INR | Low | S&P Global Services PMI (Jun) |  | 60.7 | 58.8 |
-| 07:30 | CHF | Low | CPI (YoY) (Jun) |  |  | -0.1% |
+| 06:00 | INR | Low | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
+| 07:30 | CHF | Low | CPI (YoY) (Jun) |  |  | -0.1% |
 | 08:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
 | 08:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) |  | 51.1 | 51.3 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Jun) |  | 52.8 | 53.2 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Jun) |  | 48.5 | 49.3 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Jun) |  | 48.7 | 48.9 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Jun) |  | 48.5 | 48.5 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Jun) |  | 48.7 | 48.7 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 50.4 | 48.5 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 49.4 | 47.1 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) |  | 50.2 | 50.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jun) |  | 50.0 | 49.7 |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) |  | 50.7 | 50.3 |
-| 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) |  | 51.3 | 50.9 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jun) |  | 50.7 | 50.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jun) |  | 51.3 | 51.3 |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.208% |
 | 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.118% |
