@@ -13,9 +13,9 @@
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.808% |  | 2.904% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) | 60.4 | 60.7 | 60.7 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
-| 07:30 | CHF | Low | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
-| 08:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 20 min | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
+| 20 min | CHF | Low | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
+| 55 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) |  | 51.1 | 51.3 |
 | 08:15 | ZAR | Low | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
