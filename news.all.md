@@ -6,10 +6,10 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 182.8B |  | 615.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 651.3B |  | -524.1B |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jun) | 51.7 | 51.5 | 51.0 |
-| 29 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 1.9% |
-| 59 min | AUD | Low | Exports (MoM) (May) |  |  | -2.4% |
-| 59 min | AUD | Low | Imports (MoM) (May) |  |  | 1.1% |
-| 59 min | AUD | Moderate | Trade Balance (May) |  | 5.080B | 5.413B |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -2.3% |  | 1.9% |
+| 02:30 | AUD | Low | Exports (MoM) (May) |  |  | -2.4% |
+| 02:30 | AUD | Low | Imports (MoM) (May) |  |  | 1.1% |
+| 02:30 | AUD | Moderate | Trade Balance (May) |  | 5.080B | 5.413B |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) |  | 51.0 | 51.1 |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.904% |
 | 06:00 | INR | Low | S&P Global Services PMI (Jun) |  | 60.7 | 60.7 |

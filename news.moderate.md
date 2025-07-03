@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (Jun) | 51.7 | 51.5 | 51.0 |
-| 59 min | AUD | Trade Balance (May) |  | 5.080B | 5.413B |
+| 02:30 | AUD | Trade Balance (May) |  | 5.080B | 5.413B |
 | 02:45 | CNY | Caixin Services PMI (Jun) |  | 51.0 | 51.1 |
 | 07:30 | CHF | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
 | 08:05 | EUR | German Buba Balz Speaks |  |  |  |
