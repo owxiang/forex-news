@@ -11,16 +11,16 @@
 | 04:35 | JPY | 30-Year JGB Auction | 2.808% |  | 2.904% |
 | 06:00 | INR | S&P Global Services PMI (Jun) | 60.4 | 60.7 | 60.7 |
 | 07:30 | CHF | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
-| 7 min | ZAR | S&P Global Manufacturing PMI (Jun) |  |  | 50.8 |
-| 37 min | EUR | HCOB Italy Composite PMI (Jun) |  |  | 52.5 |
-| 42 min | EUR | HCOB France Composite PMI (Jun) |  | 48.5 | 49.3 |
-| 47 min | EUR | HCOB Germany Composite PMI (Jun) |  | 50.4 | 48.5 |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.208% |
-| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.118% |
-| 10:00 | NOK | House Price Index (YoY) (Jun) |  |  | 5.20% |
+| 08:15 | ZAR | S&P Global Manufacturing PMI (Jun) | 50.1 |  | 50.8 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Jun) | 51.1 |  | 52.5 |
+| 08:50 | EUR | HCOB France Composite PMI (Jun) | 49.2 | 48.5 | 49.3 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 50.4 | 48.5 |
+| 31 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.208% |
+| 31 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.118% |
+| 51 min | NOK | House Price Index (YoY) (Jun) |  |  | 5.20% |
 | 11:00 | EUR | German Car Registration (YoY) (Jun) |  |  | 1.2% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) |  | -1.10% | 0.30% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) |  | -9.00% | -0.20% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) |  | -1.10% | 0.30% |
 | 13:30 | USD | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jun) |  |  | -1.0K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 245.00K |

@@ -7,16 +7,16 @@
 | 02:45 | CNY | Caixin Services PMI (Jun) | 50.6 | 51.0 | 51.1 |
 | 07:30 | CHF | CPI (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
 | 08:05 | EUR | German Buba Balz Speaks |  |  |  |
-| 7 min | EUR | HCOB Spain Services PMI (Jun) |  | 51.1 | 51.3 |
-| 37 min | EUR | HCOB Italy Services PMI (Jun) |  | 52.6 | 53.2 |
-| 42 min | EUR | HCOB France Services PMI (Jun) |  | 48.7 | 48.9 |
-| 47 min | EUR | HCOB Germany Services PMI (Jun) |  | 49.4 | 47.1 |
-| 52 min | EUR | HCOB Eurozone Composite PMI (Jun) |  | 50.2 | 50.2 |
-| 52 min | EUR | HCOB Eurozone Services PMI (Jun) |  | 50.0 | 49.7 |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 09:30 | GBP | S&P Global Composite PMI (Jun) |  | 50.7 | 50.3 |
-| 09:30 | GBP | S&P Global Services PMI (Jun) |  | 51.3 | 50.9 |
-| 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
+| 08:15 | EUR | HCOB Spain Services PMI (Jun) | 51.9 | 51.1 | 51.3 |
+| 08:45 | EUR | HCOB Italy Services PMI (Jun) | 52.1 | 52.6 | 53.2 |
+| 08:50 | EUR | HCOB France Services PMI (Jun) | 49.6 | 48.7 | 48.9 |
+| 08:55 | EUR | HCOB Germany Services PMI (Jun) | 49.7 | 49.4 | 47.1 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jun) | 50.6 | 50.2 | 50.2 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jun) | 50.5 | 50.0 | 49.7 |
+| 21 min | GBP | BOE Credit Conditions Survey |  |  |  |
+| 21 min | GBP | S&P Global Composite PMI (Jun) |  | 50.7 | 50.3 |
+| 21 min | GBP | S&P Global Services PMI (Jun) |  | 51.3 | 50.9 |
+| 31 min | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 3.9% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,974K |
