@@ -40,4 +40,4 @@
 | 14:15 | USD | OPEC Crude oil Production UAE (Barrel) | 3.04M |  | 2.94M |
 | 14:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.76M |  | 0.76M |
 | 15:00 | INR | Deposit Growth | 10.4% |  | 9.9% |
-| 54 min | BRL | Trade Balance (Jun) |  | 6.45B | 7.24B |
+| 19:00 | BRL | Trade Balance (Jun) | 5.89B | 6.45B | 7.24B |
