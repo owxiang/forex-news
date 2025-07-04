@@ -15,13 +15,14 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jun) | 41.6 |  | 43.1 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jun) | 45.2 |  | 45.6 |
 | 09:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (May) | 1.3% |  | 3.8% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (May) | -0.4% | 0.5% | 0.7% |
-| 51 min | EUR | PPI (MoM) (May) |  | -0.6% | -2.2% |
-| 51 min | EUR | PPI (YoY) (May) |  | 0.3% | 0.7% |
-| 10:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
-| 11:00 | CAD | Leading Index (MoM) (Jun) |  |  | 0.10% |
-| 11:00 | EUR | Spanish Consumer Confidence (May) |  |  | 76.5 |
+| 09:00 | EUR | Italian Retail Sales (YoY) (May) | 1.3% |  | 3.8% |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Jun) | 191,316.0 |  | 150,070.0 |
+| 10:00 | EUR | PPI (MoM) (May) | -0.6% | -0.6% | -2.2% |
+| 10:00 | EUR | PPI (YoY) (May) | 0.3% | 0.3% | 0.7% |
+| 22 min | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
+| 52 min | CAD | Leading Index (MoM) (Jun) |  |  | 0.10% |
+| 52 min | EUR | Spanish Consumer Confidence (May) |  |  | 76.5 |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.6% |
 | 12:30 | INR | Deposit Growth |  |  | 10.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 697.94B |
