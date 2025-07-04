@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (May) | 10.14B |  | 5.70B |
 | 01:30 | HKD | S&P Global Manufacturing PMI (Jun) | 47.8 |  | 49.0 |
-| 47 min | SGD | Retail Sales (YoY) (May) |  |  | 0.3% |
-| 47 min | SGD | Retail Sales (MoM) (May) |  |  | 0.3% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Jun) |  |  | 2.8% |
-| 06:45 | CHF | Unemployment Rate s.a. (Jun) |  | 2.9% | 2.9% |
+| 06:00 | SGD | Retail Sales (YoY) (May) | 1.4% |  | 0.2% |
+| 06:00 | SGD | Retail Sales (MoM) (May) | 1.0% |  | 0.0% |
+| 36 min | CHF | Unemployment Rate n.s.a. (Jun) |  |  | 2.8% |
+| 36 min | CHF | Unemployment Rate s.a. (Jun) |  | 2.9% | 2.9% |
 | 07:45 | EUR | French Industrial Production (MoM) (May) |  | 0.4% | -1.4% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (May) |  |  | 0.6% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 50.5 |

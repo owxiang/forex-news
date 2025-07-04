@@ -6,11 +6,11 @@
 | 00:30 | JPY | Moderate | Household Spending (MoM) (May) | 4.6% | 0.4% | -1.8% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (May) | 4.7% | 1.3% | -0.1% |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jun) | 47.8 |  | 49.0 |
-| 47 min | SGD | Low | Retail Sales (YoY) (May) |  |  | 0.3% |
-| 47 min | SGD | Low | Retail Sales (MoM) (May) |  |  | 0.3% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jun) |  |  | 2.8% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Jun) |  | 2.9% | 2.9% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) |  | -0.2% | 0.6% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (May) | 1.4% |  | 0.2% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (May) | 1.0% |  | 0.0% |
+| 36 min | CHF | Low | Unemployment Rate n.s.a. (Jun) |  |  | 2.8% |
+| 36 min | CHF | Low | Unemployment Rate s.a. (Jun) |  | 2.9% | 2.9% |
+| 51 min | EUR | Moderate | German Factory Orders (MoM) (May) |  | -0.2% | 0.6% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (May) |  | 0.4% | -1.4% |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) |  |  | 0.6% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 50.5 |
@@ -37,3 +37,4 @@
 | 13:15 | CAD | Low | Reserve Assets Total (Jun) |  |  | 125.0B |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
 | 19:00 | BRL | Low | Trade Balance (Jun) |  | 6.45B | 7.24B |
+| 19:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
