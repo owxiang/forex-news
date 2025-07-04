@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (May) | 4.7% | 1.3% | -0.1% |
 | 00:30 | JPY | Household Spending (MoM) (May) | 4.6% | 0.4% | -1.8% |
+| 00:30 | JPY | Household Spending (YoY) (May) | 4.7% | 1.3% | -0.1% |
 | 07:00 | EUR | German Factory Orders (MoM) (May) |  | -0.2% | 0.6% |
 | 08:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:00 | EUR | ECB's Elderson Speaks |  |  |  |
