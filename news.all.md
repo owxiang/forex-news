@@ -8,20 +8,20 @@
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jun) | 47.8 |  | 49.0 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (May) | 1.0% |  | 0.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (May) | 1.4% |  | 0.2% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jun) | 2.7% |  | 2.7% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Jun) | 2.9% | 2.9% | 2.8% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) | -1.4% | -0.2% | 1.6% |
-| 35 min | EUR | Low | French Industrial Production (MoM) (May) |  | 0.4% | -1.4% |
-| 50 min | CHF | Low | Unemployment Rate n.s.a. (Jun) |  |  | 2.8% |
-| 50 min | CHF | Low | Unemployment Rate s.a. (Jun) |  | 2.9% | 2.9% |
-| 50 min | EUR | Low | Spanish Industrial Production (YoY) (May) |  |  | 0.6% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 50.5 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jun) |  |  | 44.4 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jun) |  |  | 43.1 |
-| 08:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jun) |  |  | 45.6 |
-| 09:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.6% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (May) |  |  | 3.7% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.5% | 0.7% |
-| 09:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (May) | -0.5% | 0.4% | -1.4% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) | 1.7% |  | 0.6% |
+| 22 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 50.5 |
+| 22 min | EUR | Low | HCOB Germany Construction PMI (Jun) |  |  | 44.4 |
+| 22 min | EUR | Low | HCOB France Construction PMI (MoM) (Jun) |  |  | 43.1 |
+| 22 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 22 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jun) |  |  | 45.6 |
+| 52 min | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.6% |
+| 52 min | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.5% | 0.7% |
+| 52 min | EUR | Low | Italian Retail Sales (YoY) (May) |  |  | 3.7% |
+| 52 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jun) |  | 48.6 | 47.9 |
 | 10:00 | EUR | Low | PPI (MoM) (May) |  | -0.6% | -2.2% |
 | 10:00 | EUR | Low | PPI (YoY) (May) |  | 0.3% | 0.7% |
