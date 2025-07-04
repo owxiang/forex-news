@@ -6,8 +6,8 @@
 | 00:30 | JPY | Moderate | Household Spending (YoY) (May) | 4.7% | 1.3% | -0.1% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (May) | 4.6% | 0.4% | -1.8% |
 | 01:30 | HKD | Low | S&P Global Manufacturing PMI (Jun) | 47.8 |  | 49.0 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (May) | 1.0% |  | 0.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (May) | 1.4% |  | 0.2% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (May) | 1.0% |  | 0.0% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jun) | 2.7% |  | 2.7% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Jun) | 2.9% | 2.9% | 2.8% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) | -1.4% | -0.2% | 1.6% |
@@ -24,8 +24,8 @@
 | 09:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global Construction PMI (Jun) | 48.8 | 48.6 | 47.9 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jun) | 191,316.0 |  | 150,070.0 |
-| 10:00 | EUR | Low | PPI (MoM) (May) | -0.6% | -0.6% | -2.2% |
 | 10:00 | EUR | Low | PPI (YoY) (May) | 0.3% | 0.3% | 0.7% |
+| 10:00 | EUR | Low | PPI (MoM) (May) | -0.6% | -0.6% | -2.2% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Jun) | 0.15% |  | 0.12% |
 | 11:30 | EUR | Low | Spanish Consumer Confidence (May) | 82.5 |  | 76.5 |
 | 12:30 | INR | Low | FX Reserves, USD | 702.78B |  | 697.94B |
