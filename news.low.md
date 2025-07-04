@@ -25,9 +25,7 @@
 | 12:30 | INR | FX Reserves, USD | 702.78B |  | 697.94B |
 | 13:00 | MXN | Consumer Confidence (Jun) | 45.4 |  | 46.5 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jun) | 45.7 |  | 46.5 |
-| 13:00 | BRL | Brazilian PPI (MoM) (May) | -1.29% |  | -0.36% |
-| 3 min | CAD | Reserve Assets Total (Jun) |  |  | 125.0B |
-| 15:00 | INR | Bank Loan Growth |  |  | 9.6% |
-| 15:00 | INR | Deposit Growth |  |  | 10.4% |
-| 17:00 | EUR | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
+| 13:00 | BRL | Brazilian PPI (MoM) (May) | -1.29% |  | -0.12% |
+| 13:15 | CAD | Reserve Assets Total (Jun) | 127.9B |  | 125.0B |
+| 45 min | INR | Deposit Growth |  |  | 10.4% |
 | 19:00 | BRL | Trade Balance (Jun) |  | 6.45B | 7.24B |
