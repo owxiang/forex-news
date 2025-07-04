@@ -10,15 +10,15 @@
 | 06:45 | CHF | Unemployment Rate s.a. (Jun) | 2.9% | 2.9% | 2.8% |
 | 07:45 | EUR | French Industrial Production (MoM) (May) | -0.5% | 0.4% | -1.4% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (May) | 1.7% |  | 0.6% |
-| 22 min | EUR | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 50.5 |
-| 22 min | EUR | HCOB Germany Construction PMI (Jun) |  |  | 44.4 |
-| 22 min | EUR | HCOB France Construction PMI (MoM) (Jun) |  |  | 43.1 |
-| 22 min | EUR | HCOB Eurozone Construction PMI (MoM) (Jun) |  |  | 45.6 |
-| 52 min | GBP | Car Registration (YoY) (Jun) |  |  | 1.6% |
-| 52 min | EUR | Italian Retail Sales (MoM) (May) |  | 0.5% | 0.7% |
-| 52 min | EUR | Italian Retail Sales (YoY) (May) |  |  | 3.7% |
-| 10:00 | EUR | PPI (MoM) (May) |  | -0.6% | -2.2% |
-| 10:00 | EUR | PPI (YoY) (May) |  | 0.3% | 0.7% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Jun) | 50.2 |  | 50.5 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Jun) | 44.8 |  | 44.4 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Jun) | 41.6 |  | 43.1 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jun) | 45.2 |  | 45.6 |
+| 09:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (May) | 1.3% |  | 3.8% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (May) | -0.4% | 0.5% | 0.7% |
+| 51 min | EUR | PPI (MoM) (May) |  | -0.6% | -2.2% |
+| 51 min | EUR | PPI (YoY) (May) |  | 0.3% | 0.7% |
 | 10:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 11:00 | CAD | Leading Index (MoM) (Jun) |  |  | 0.10% |
 | 11:00 | EUR | Spanish Consumer Confidence (May) |  |  | 76.5 |
