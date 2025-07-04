@@ -27,5 +27,17 @@
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jun) | 45.7 |  | 46.5 |
 | 13:00 | BRL | Brazilian PPI (MoM) (May) | -1.29% |  | -0.12% |
 | 13:15 | CAD | Reserve Assets Total (Jun) | 127.9B |  | 125.0B |
-| 45 min | INR | Deposit Growth |  |  | 10.4% |
+| 14:15 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.94M |  | 0.92M |
+| 14:15 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.26M |
+| 14:15 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.22M |
+| 14:15 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M |  | 0.05M |
+| 14:15 | USD | OPEC Crude oil Production Iran (Barrel) | 3.28M |  | 3.30M |
+| 14:15 | USD | OPEC Crude oil Production Iraq (Barrel) | 3.85M |  | 3.91M |
+| 14:15 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.45M |  | 2.44M |
+| 14:15 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.25M |  | 1.25M |
+| 14:15 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.62M |  | 1.60M |
+| 14:15 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.30M |  | 9.10M |
+| 14:15 | USD | OPEC Crude oil Production UAE (Barrel) | 3.04M |  | 2.94M |
+| 14:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.76M |  | 0.76M |
+| 15:00 | INR | Deposit Growth | 10.4% |  | 9.9% |
 | 19:00 | BRL | Trade Balance (Jun) |  | 6.45B | 7.24B |
