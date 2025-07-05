@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 39 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 16:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
