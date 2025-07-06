@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 54 min | BRL | Moderate | BRICS Summit |  |  |  |
+| 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
