@@ -11,18 +11,18 @@
 | 06:00 | JPY | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:00 | JPY | Leading Index (May) | 105.3 | 105.3 | 104.2 |
 | 06:25 | IDR | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
+| 07:00 | EUR | German Industrial Production (YoY) (May) | 1.20% |  | -2.24% |
 | 07:00 | NOK | Manufacturing Production (MoM) (May) | -1.7% |  | 2.9% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Jun) | 68.42B |  | 68.12B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Jun) | 65.216B |  | 64.804B |
-| 35 min | EUR | French Reserve Assets Total (Jun) |  |  | 304,609.0M |
-| 50 min | CHF | Foreign Reserves (USD) (Jun) |  |  | 703.6B |
-| 50 min | EUR | German Industrial Production (YoY) (May) |  |  | -2.02% |
+| 07:45 | EUR | French Reserve Assets Total (Jun) | 294,723.0M |  | 304,609.0M |
+| 08:00 | CHF | Foreign Reserves (USD) (Jun) | 713.0B |  | 703.6B |
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 09:30 | EUR | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
-| 10:00 | EUR | Retail Sales (YoY) (May) |  | 1.2% | 2.3% |
 | 10:00 | EUR | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
+| 10:00 | EUR | Retail Sales (YoY) (May) |  | 1.2% | 2.3% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.918% |

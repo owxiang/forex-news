@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Halifax House Price Index (MoM) (Jun) | 0.0% | -0.1% | -0.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jun) | 2.5% |  | 2.6% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jun) | 0.0% | -0.1% | -0.3% |
 | 07:00 | EUR | German Industrial Production (MoM) (May) | 1.2% | -0.6% | -1.6% |
-| 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 52 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jun) |  |  | 7.09% |
 | 11:00 | BRL | BRICS Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
