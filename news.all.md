@@ -27,8 +27,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) | 431.90B |  | 431.10B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jul) | 4.5 | 1.1 | 0.2 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) | 405.0B |  | 401.7B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | -1.80% |  | -0.85% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -38,8 +38,8 @@
 | 14:00 | BRL | Low | Auto Production (MoM) (Jun) | -6.5% |  | -5.9% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Jun) | -5.7% |  | 8.1% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jun) | 107.83 |  | 107.83 |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 29.4K |
