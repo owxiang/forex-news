@@ -6,9 +6,9 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Jun) | 0.0% | -0.1% | -0.3% |
 | 07:00 | EUR | German Industrial Production (MoM) (May) | 1.2% | -0.6% | -1.6% |
 | 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 20 min | GBP | Mortgage Rate (GBP) (Jun) |  |  | 7.09% |
-| 11:00 | BRL | BRICS Summit |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:00 | BRL | BRICS Summit |  |  |  |
+| 09:30 | GBP | Mortgage Rate (GBP) (Jun) | 6.98% |  | 7.09% |
+| 51 min | EUR | Eurogroup Meetings |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 34.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 233.0K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 195.0K |

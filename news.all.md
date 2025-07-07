@@ -21,16 +21,15 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Jun) | 294,723.0M |  | 304,609.0M |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jun) | 713.0B |  | 703.6B |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:02 | CNY | Low | FX Reserves (USD) (Jun) | 3.317T | 3.313T | 3.285T |
-| 20 min | GBP | Moderate | Mortgage Rate (GBP) (Jun) |  |  | 7.09% |
-| 20 min | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
-| 20 min | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
-| 20 min | EUR | Low | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |
-| 50 min | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
-| 50 min | EUR | Low | Retail Sales (YoY) (May) |  | 1.2% | 2.3% |
-| 50 min | EUR | Low | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
-| 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:00 | BRL | Moderate | BRICS Summit |  |  |  |
+| 09:00 | CNY | Low | FX Reserves (USD) (Jun) | 3.317T | 3.313T | 3.285T |
+| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jun) | 6.98% |  | 7.09% |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) | 431.90B |  | 431.10B |
+| 09:30 | EUR | Low | Sentix Investor Confidence (Jul) | 4.5 | 1.1 | 0.2 |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) | 405.0B |  | 401.7B |
+| 10:00 | EUR | Low | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
+| 51 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.918% |
