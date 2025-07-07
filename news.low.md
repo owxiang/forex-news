@@ -25,12 +25,12 @@
 | 10:00 | EUR | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | -1.80% |  | -0.85% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 49 min | EUR | French 12-Month BTF Auction |  |  | 1.918% |
-| 49 min | EUR | French 3-Month BTF Auction |  |  | 1.957% |
-| 49 min | EUR | French 6-Month BTF Auction |  |  | 1.949% |
-| 15:00 | USD | CB Employment Trends Index (Jun) |  |  | 107.49 |
-| 15:00 | BRL | Auto Production (MoM) (Jun) |  |  | -5.9% |
-| 15:00 | BRL | Auto Sales (MoM) (Jun) |  |  | 8.1% |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.892% |  | 1.918% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.924% |  | 1.957% |
+| 14:00 | EUR | French 6-Month BTF Auction | 1.903% |  | 1.949% |
+| 44 min | USD | CB Employment Trends Index (Jun) |  |  | 107.49 |
+| 44 min | BRL | Auto Production (MoM) (Jun) |  |  | -5.9% |
+| 44 min | BRL | Auto Sales (MoM) (Jun) |  |  | 8.1% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.150% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |

@@ -11,8 +11,8 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:00 | JPY | Low | Leading Index (May) | 105.3 | 105.3 | 104.2 |
 | 06:25 | IDR | Low | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | 0.0% | -0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) | 2.5% |  | 2.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | 0.0% | -0.1% | -0.3% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) | 1.2% | -0.6% | -1.6% |
 | 07:00 | EUR | Low | German Industrial Production (YoY) (May) | 1.20% |  | -2.24% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (May) | -1.7% |  | 2.9% |
@@ -32,12 +32,12 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | -1.80% |  | -0.85% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 49 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.918% |
-| 49 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.957% |
-| 49 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.949% |
-| 15:00 | USD | Low | CB Employment Trends Index (Jun) |  |  | 107.49 |
-| 15:00 | BRL | Low | Auto Production (MoM) (Jun) |  |  | -5.9% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (Jun) |  |  | 8.1% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.892% |  | 1.918% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.924% |  | 1.957% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.903% |  | 1.949% |
+| 44 min | USD | Low | CB Employment Trends Index (Jun) |  |  | 107.49 |
+| 44 min | BRL | Low | Auto Production (MoM) (Jun) |  |  | -5.9% |
+| 44 min | BRL | Low | Auto Sales (MoM) (Jun) |  |  | 8.1% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.4K |
