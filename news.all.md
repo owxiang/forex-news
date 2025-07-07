@@ -6,7 +6,7 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (May) | 1.00% |  | 1.30% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
-| 04:00 | IDR | Low | FX Reserves (USD) (Jun) |  |  | 152.50B |
+| 17 min | IDR | Low | FX Reserves (USD) (Jun) |  |  | 152.50B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 0.2% |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) |  |  | -3.4% |
 | 06:00 | JPY | Low | Leading Index (May) |  | 105.3 | 104.2 |
@@ -25,8 +25,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) |  |  | 2.3% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |

@@ -6,7 +6,7 @@
 | 00:30 | JPY | Overtime Pay (YoY) (May) | 1.00% |  | 1.30% |
 | 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
-| 04:00 | IDR | FX Reserves (USD) (Jun) |  |  | 152.50B |
+| 17 min | IDR | FX Reserves (USD) (Jun) |  |  | 152.50B |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) |  |  | 0.2% |
 | 06:00 | JPY | Leading Index (MoM) (May) |  |  | -3.4% |
 | 06:00 | JPY | Leading Index (May) |  | 105.3 | 104.2 |
@@ -20,8 +20,8 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 09:30 | EUR | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
-| 10:00 | EUR | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (May) |  |  | 2.3% |
+| 10:00 | EUR | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.918% |
