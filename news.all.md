@@ -8,8 +8,8 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | -0.1% |  | 0.2% |
-| 06:00 | JPY | Low | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:00 | JPY | Low | Leading Index (May) | 105.3 | 105.3 | 104.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:25 | IDR | Low | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) | 2.5% |  | 2.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | 0.0% | -0.1% | -0.3% |
@@ -27,11 +27,11 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) | 431.90B |  | 431.10B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jul) | 4.5 | 1.1 | 0.2 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) | 405.0B |  | 401.7B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 52 min | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | -1.80% |  | -0.85% |
+| 18 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.918% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.957% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.949% |
