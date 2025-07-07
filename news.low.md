@@ -8,8 +8,8 @@
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
 | 04:00 | IDR | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | -0.1% |  | 0.2% |
-| 06:00 | JPY | Leading Index (May) | 105.3 | 105.3 | 104.2 |
 | 06:00 | JPY | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
+| 06:00 | JPY | Leading Index (May) | 105.3 | 105.3 | 104.2 |
 | 06:25 | IDR | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
 | 07:00 | EUR | German Industrial Production (YoY) (May) | 1.20% |  | -2.24% |
 | 07:00 | NOK | Manufacturing Production (MoM) (May) | -1.7% |  | 2.9% |
@@ -24,10 +24,10 @@
 | 10:00 | EUR | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
 | 10:00 | EUR | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | -1.80% |  | -0.85% |
-| 18 min | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.918% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.957% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.949% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 49 min | EUR | French 12-Month BTF Auction |  |  | 1.918% |
+| 49 min | EUR | French 3-Month BTF Auction |  |  | 1.957% |
+| 49 min | EUR | French 6-Month BTF Auction |  |  | 1.949% |
 | 15:00 | USD | CB Employment Trends Index (Jun) |  |  | 107.49 |
 | 15:00 | BRL | Auto Production (MoM) (Jun) |  |  | -5.9% |
 | 15:00 | BRL | Auto Sales (MoM) (Jun) |  |  | 8.1% |
