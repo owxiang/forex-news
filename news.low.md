@@ -10,12 +10,13 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | -0.1% |  | 0.2% |
 | 06:00 | JPY | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:00 | JPY | Leading Index (May) | 105.3 | 105.3 | 104.2 |
-| 51 min | EUR | German Industrial Production (YoY) (May) |  |  | -2.02% |
-| 51 min | NOK | Manufacturing Production (MoM) (May) |  |  | 2.8% |
-| 51 min | ZAR | Foreign Reserves (USD) (Jun) |  |  | 68.12B |
-| 51 min | ZAR | Net FX Reserves (USD) (Jun) |  |  | 64.804B |
-| 07:45 | EUR | French Reserve Assets Total (Jun) |  |  | 304,609.0M |
-| 08:00 | CHF | Foreign Reserves (USD) (Jun) |  |  | 703.6B |
+| 06:25 | IDR | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
+| 07:00 | NOK | Manufacturing Production (MoM) (May) | -1.7% |  | 2.9% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Jun) | 68.42B |  | 68.12B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Jun) | 65.216B |  | 64.804B |
+| 35 min | EUR | French Reserve Assets Total (Jun) |  |  | 304,609.0M |
+| 50 min | CHF | Foreign Reserves (USD) (Jun) |  |  | 703.6B |
+| 50 min | EUR | German Industrial Production (YoY) (May) |  |  | -2.02% |
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 09:30 | EUR | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |

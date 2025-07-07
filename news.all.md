@@ -10,15 +10,16 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | -0.1% |  | 0.2% |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:00 | JPY | Low | Leading Index (May) | 105.3 | 105.3 | 104.2 |
-| 51 min | GBP | Moderate | Halifax House Price Index (YoY) (Jun) |  |  | 2.5% |
-| 51 min | GBP | Moderate | Halifax House Price Index (MoM) (Jun) |  | -0.1% | -0.4% |
-| 51 min | EUR | Moderate | German Industrial Production (MoM) (May) |  | -0.6% | -1.4% |
-| 51 min | EUR | Low | German Industrial Production (YoY) (May) |  |  | -2.02% |
-| 51 min | NOK | Low | Manufacturing Production (MoM) (May) |  |  | 2.8% |
-| 51 min | ZAR | Low | Foreign Reserves (USD) (Jun) |  |  | 68.12B |
-| 51 min | ZAR | Low | Net FX Reserves (USD) (Jun) |  |  | 64.804B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 304,609.0M |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Jun) |  |  | 703.6B |
+| 06:25 | IDR | Low | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | 0.0% | -0.1% | -0.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) | 2.5% |  | 2.6% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) | 1.2% | -0.6% | -1.6% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) | -1.7% |  | 2.9% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Jun) | 68.42B |  | 68.12B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Jun) | 65.216B |  | 64.804B |
+| 35 min | EUR | Low | French Reserve Assets Total (Jun) |  |  | 304,609.0M |
+| 50 min | CHF | Low | Foreign Reserves (USD) (Jun) |  |  | 703.6B |
+| 50 min | EUR | Low | German Industrial Production (YoY) (May) |  |  | -2.02% |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jun) |  |  | 7.09% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
