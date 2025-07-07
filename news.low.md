@@ -28,11 +28,11 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.892% |  | 1.918% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.924% |  | 1.957% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.903% |  | 1.949% |
+| 14:00 | BRL | Auto Production (MoM) (Jun) | -6.5% |  | -5.9% |
+| 14:00 | BRL | Auto Sales (MoM) (Jun) | -5.7% |  | 8.1% |
 | 15:00 | USD | CB Employment Trends Index (Jun) | 107.83 |  | 107.83 |
-| 15:00 | BRL | Auto Production (MoM) (Jun) | -6.5% |  | -5.9% |
-| 15:00 | BRL | Auto Sales (MoM) (Jun) | -5.7% |  | 8.1% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 4.250% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 4.150% |
+| 24 min | USD | 3-Month Bill Auction |  |  | 4.250% |
+| 24 min | USD | 6-Month Bill Auction |  |  | 4.150% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 29.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -130.6K |
