@@ -6,7 +6,7 @@
 | 00:30 | JPY | Overtime Pay (YoY) (May) | 1.00% |  | 1.30% |
 | 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
-| 17 min | IDR | FX Reserves (USD) (Jun) |  |  | 152.50B |
+| 04:00 | IDR | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) |  |  | 0.2% |
 | 06:00 | JPY | Leading Index (MoM) (May) |  |  | -3.4% |
 | 06:00 | JPY | Leading Index (May) |  | 105.3 | 104.2 |
