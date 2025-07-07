@@ -8,8 +8,8 @@
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
 | 04:00 | IDR | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | -0.1% |  | 0.2% |
-| 06:00 | JPY | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:00 | JPY | Leading Index (May) | 105.3 | 105.3 | 104.2 |
+| 06:00 | JPY | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
 | 06:25 | IDR | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
 | 07:00 | EUR | German Industrial Production (YoY) (May) | 1.20% |  | -2.24% |
 | 07:00 | NOK | Manufacturing Production (MoM) (May) | -1.7% |  | 2.9% |
@@ -21,8 +21,8 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) | 431.90B |  | 431.10B |
 | 09:30 | EUR | Sentix Investor Confidence (Jul) | 4.5 | 1.1 | 0.2 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) | 405.0B |  | 401.7B |
-| 10:00 | EUR | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 10:00 | EUR | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
+| 10:00 | EUR | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | -1.80% |  | -0.85% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction | 1.892% |  | 1.918% |
@@ -31,17 +31,17 @@
 | 14:00 | BRL | Auto Production (MoM) (Jun) | -6.5% |  | -5.9% |
 | 14:00 | BRL | Auto Sales (MoM) (Jun) | -5.7% |  | 8.1% |
 | 15:00 | USD | CB Employment Trends Index (Jun) | 107.83 |  | 107.83 |
-| 24 min | USD | 3-Month Bill Auction |  |  | 4.250% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 4.150% |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 29.4K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | -130.6K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -93.8K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 62.9K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 55.9K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -71.2K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -53.2K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 51.3K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -20.9K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | 2.8K |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.347T |
+| 19:30 | USD | 3-Month Bill Auction | 4.255% |  | 4.250% |
+| 19:30 | USD | 6-Month Bill Auction | 4.145% |  | 4.150% |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.7K |  | 0.7K |
+| 20:30 | USD | CFTC Copper speculative net positions | 33.7K |  | 29.4K |
+| 20:30 | USD | CFTC Corn speculative net positions | -155.5K |  | -130.6K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -92.8K |  | -93.8K |
+| 20:30 | USD | CFTC Silver speculative net positions | 63.4K |  | 62.9K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 41.3K |  | 55.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -69.6K |  | -71.2K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -63.5K |  | -53.2K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 54.5K |  | 51.3K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -23.9K |  | -20.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions | 4.2K |  | 2.8K |
+| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.347T |
