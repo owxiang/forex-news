@@ -35,9 +35,9 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.892% |  | 1.918% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.924% |  | 1.957% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.903% |  | 1.949% |
-| 44 min | USD | Low | CB Employment Trends Index (Jun) |  |  | 107.49 |
-| 44 min | BRL | Low | Auto Production (MoM) (Jun) |  |  | -5.9% |
-| 44 min | BRL | Low | Auto Sales (MoM) (Jun) |  |  | 8.1% |
+| 15:00 | USD | Low | CB Employment Trends Index (Jun) | 107.83 |  | 107.83 |
+| 15:00 | BRL | Low | Auto Production (MoM) (Jun) | -6.5% |  | -5.9% |
+| 15:00 | BRL | Low | Auto Sales (MoM) (Jun) | -5.7% |  | 8.1% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.4K |
