@@ -7,16 +7,16 @@
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
-| 44 min | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 0.2% |
-| 44 min | JPY | Low | Leading Index (MoM) (May) |  |  | -3.4% |
-| 44 min | JPY | Low | Leading Index (May) |  | 105.3 | 104.2 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) |  |  | 2.5% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) |  | -0.1% | -0.4% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) |  | -0.6% | -1.4% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (May) |  |  | -2.02% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  |  | 2.8% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Jun) |  |  | 68.12B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Jun) |  |  | 64.804B |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | -0.1% |  | 0.2% |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
+| 06:00 | JPY | Low | Leading Index (May) | 105.3 | 105.3 | 104.2 |
+| 51 min | GBP | Moderate | Halifax House Price Index (YoY) (Jun) |  |  | 2.5% |
+| 51 min | GBP | Moderate | Halifax House Price Index (MoM) (Jun) |  | -0.1% | -0.4% |
+| 51 min | EUR | Moderate | German Industrial Production (MoM) (May) |  | -0.6% | -1.4% |
+| 51 min | EUR | Low | German Industrial Production (YoY) (May) |  |  | -2.02% |
+| 51 min | NOK | Low | Manufacturing Production (MoM) (May) |  |  | 2.8% |
+| 51 min | ZAR | Low | Foreign Reserves (USD) (Jun) |  |  | 68.12B |
+| 51 min | ZAR | Low | Net FX Reserves (USD) (Jun) |  |  | 64.804B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 304,609.0M |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jun) |  |  | 703.6B |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -25,7 +25,7 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (May) |  |  | 2.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (May) |  | 1.2% | 2.3% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
