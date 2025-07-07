@@ -31,17 +31,17 @@
 | 14:00 | BRL | Auto Production (MoM) (Jun) | -6.5% |  | -5.9% |
 | 14:00 | BRL | Auto Sales (MoM) (Jun) | -5.7% |  | 8.1% |
 | 15:00 | USD | CB Employment Trends Index (Jun) | 107.83 |  | 107.83 |
-| 19:00 | USD | 3-Month Bill Auction |  |  | 4.250% |
-| 19:00 | USD | 6-Month Bill Auction |  |  | 4.150% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 29.4K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -130.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -93.8K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 62.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | 55.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -71.2K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -53.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 51.3K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -20.9K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 2.8K |
+| 24 min | USD | 3-Month Bill Auction |  |  | 4.250% |
+| 24 min | USD | 6-Month Bill Auction |  |  | 4.150% |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 29.4K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | -130.6K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -93.8K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 62.9K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | 55.9K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -71.2K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -53.2K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 51.3K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -20.9K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | 2.8K |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.347T |
