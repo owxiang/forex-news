@@ -20,14 +20,15 @@
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Jun) | 65.216B |  | 64.804B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Jun) | 294,723.0M |  | 304,609.0M |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Jun) | 713.0B |  | 703.6B |
-| 52 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jun) |  |  | 7.09% |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (May) |  | 1.2% | 2.3% |
+| 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 09:02 | CNY | Low | FX Reserves (USD) (Jun) | 3.317T | 3.313T | 3.285T |
+| 20 min | GBP | Moderate | Mortgage Rate (GBP) (Jun) |  |  | 7.09% |
+| 20 min | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
+| 20 min | HKD | Low | Foreign Reserves (USD) (Jun) |  |  | 431.00B |
+| 20 min | EUR | Low | Sentix Investor Confidence (Jul) |  | 1.1 | 0.2 |
+| 50 min | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
+| 50 min | EUR | Low | Retail Sales (YoY) (May) |  | 1.2% | 2.3% |
+| 50 min | EUR | Low | Retail Sales (MoM) (May) |  | -0.8% | 0.1% |
 | 11:00 | BRL | Moderate | BRICS Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
@@ -40,7 +41,6 @@
 | 15:00 | BRL | Low | Auto Sales (MoM) (Jun) |  |  | 8.1% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.150% |
-| 16:38 | CNY | Low | FX Reserves (USD) (Jun) |  | 3.313T | 3.285T |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 29.4K |
