@@ -5,7 +5,7 @@
 | 00:30 | JPY | Low | Overall wage income of employees (May) | 1.0% | 2.4% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (May) | 1.00% |  | 1.30% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
-| 57 min | AUD | Low | ANZ Job Advertisements (MoM) (Jun) |  |  | -1.2% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jun) |  |  | 152.50B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 0.2% |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) |  |  | -3.4% |
