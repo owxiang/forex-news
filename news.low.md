@@ -23,7 +23,7 @@
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) | 405.0B |  | 401.7B |
 | 10:00 | EUR | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 10:00 | EUR | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
+| 52 min | BRL | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.918% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.957% |

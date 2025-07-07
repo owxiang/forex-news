@@ -29,8 +29,8 @@
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) | 405.0B |  | 401.7B |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
-| 51 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 52 min | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | -0.85% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.918% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.957% |
