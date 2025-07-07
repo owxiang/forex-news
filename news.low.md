@@ -1,46 +1,22 @@
-## 07 July 2025 - Low Impact Forex News
+## 08 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Overall wage income of employees (May) | 1.0% | 2.4% | 2.0% |
-| 00:30 | JPY | Overtime Pay (YoY) (May) | 1.00% |  | 1.30% |
-| 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
-| 04:00 | IDR | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
-| 06:00 | JPY | Coincident Indicator (MoM) (May) | -0.1% |  | 0.2% |
-| 06:00 | JPY | Leading Index (MoM) (May) | 1.1% |  | -3.4% |
-| 06:00 | JPY | Leading Index (May) | 105.3 | 105.3 | 104.2 |
-| 06:25 | IDR | Motorbike Sales (YoY) (Jun) | -0.30% |  | -0.10% |
-| 07:00 | EUR | German Industrial Production (YoY) (May) | 1.20% |  | -2.24% |
-| 07:00 | NOK | Manufacturing Production (MoM) (May) | -1.7% |  | 2.9% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Jun) | 68.42B |  | 68.12B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Jun) | 65.216B |  | 64.804B |
-| 07:45 | EUR | French Reserve Assets Total (Jun) | 294,723.0M |  | 304,609.0M |
-| 08:00 | CHF | Foreign Reserves (USD) (Jun) | 713.0B |  | 703.6B |
-| 09:00 | CNY | FX Reserves (USD) (Jun) | 3.317T | 3.313T | 3.285T |
-| 09:30 | HKD | Foreign Reserves (USD) (Jun) | 431.90B |  | 431.10B |
-| 09:30 | EUR | Sentix Investor Confidence (Jul) | 4.5 | 1.1 | 0.2 |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) | 405.0B |  | 401.7B |
-| 10:00 | EUR | Retail Sales (YoY) (May) | 1.8% | 1.2% | 2.7% |
-| 10:00 | EUR | Retail Sales (MoM) (May) | -0.7% | -0.8% | 0.3% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | -1.80% |  | -0.85% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.892% |  | 1.918% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.924% |  | 1.957% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.903% |  | 1.949% |
-| 14:00 | BRL | Auto Production (MoM) (Jun) | -6.5% |  | -5.9% |
-| 14:00 | BRL | Auto Sales (MoM) (Jun) | -5.7% |  | 8.1% |
-| 15:00 | USD | CB Employment Trends Index (Jun) | 107.83 |  | 107.83 |
-| 19:30 | USD | 3-Month Bill Auction | 4.255% |  | 4.250% |
-| 19:30 | USD | 6-Month Bill Auction | 4.145% |  | 4.150% |
-| 20:30 | USD | CFTC Aluminium speculative net positions | 0.7K |  | 0.7K |
-| 20:30 | USD | CFTC Copper speculative net positions | 33.7K |  | 29.4K |
-| 20:30 | USD | CFTC Corn speculative net positions | -155.5K |  | -130.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -92.8K |  | -93.8K |
-| 20:30 | USD | CFTC Silver speculative net positions | 63.4K |  | 62.9K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | 41.3K |  | 55.9K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -69.6K |  | -71.2K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -63.5K |  | -53.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 54.5K |  | 51.3K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -23.9K |  | -20.9K |
-| 20:30 | NZD | CFTC NZD speculative net positions | 4.2K |  | 2.8K |
+| 43 min | JPY | Bank Lending (YoY) (Jun) |  | 2.3% | 2.4% |
+| 02:30 | AUD | NAB Business Survey (Jun) |  |  | 0 |
+| 04:00 | IDR | Consumer Confidence (Jun) |  |  | 117.5 |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.982% |
+| 06:00 | JPY | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
+| 07:00 | EUR | German Exports (MoM) (May) |  | 0.0% | -1.7% |
+| 07:00 | EUR | German Imports (MoM) (May) |  |  | 3.9% |
+| 07:45 | EUR | French Current Account (May) |  |  | -4.10B |
+| 07:45 | EUR | French Exports (May) |  |  | 49.3B |
+| 07:45 | EUR | French Imports (May) |  |  | 57.2B |
+| 07:45 | EUR | French Trade Balance (May) |  | -7.7B | -8.0B |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.873% |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
+| 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 98.9 | 98.8 |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
+| 15:00 | CAD | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 3.940% |

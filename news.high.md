@@ -1,3 +1,5 @@
-## 07 July 2025 - High Impact Forex News
+## 08 July 2025 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 05:30 | AUD | RBA Interest Rate Decision (Jul) |  | 3.60% | 3.85% |
