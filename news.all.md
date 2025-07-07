@@ -7,9 +7,9 @@
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 0.2% |
-| 06:00 | JPY | Low | Leading Index (MoM) (May) |  |  | -3.4% |
-| 06:00 | JPY | Low | Leading Index (May) |  | 105.3 | 104.2 |
+| 44 min | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 0.2% |
+| 44 min | JPY | Low | Leading Index (MoM) (May) |  |  | -3.4% |
+| 44 min | JPY | Low | Leading Index (May) |  | 105.3 | 104.2 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) |  |  | 2.5% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) |  | -0.1% | -0.4% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) |  | -0.6% | -1.4% |

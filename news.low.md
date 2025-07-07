@@ -7,9 +7,9 @@
 | 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,313.8B |  | 1,298.1B |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) (Jun) | 1.8% |  | -0.6% |
 | 04:00 | IDR | FX Reserves (USD) (Jun) | 152.60B |  | 152.50B |
-| 06:00 | JPY | Coincident Indicator (MoM) (May) |  |  | 0.2% |
-| 06:00 | JPY | Leading Index (MoM) (May) |  |  | -3.4% |
-| 06:00 | JPY | Leading Index (May) |  | 105.3 | 104.2 |
+| 44 min | JPY | Coincident Indicator (MoM) (May) |  |  | 0.2% |
+| 44 min | JPY | Leading Index (MoM) (May) |  |  | -3.4% |
+| 44 min | JPY | Leading Index (May) |  | 105.3 | 104.2 |
 | 07:00 | EUR | German Industrial Production (YoY) (May) |  |  | -2.02% |
 | 07:00 | NOK | Manufacturing Production (MoM) (May) |  |  | 2.8% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Jun) |  |  | 68.12B |
