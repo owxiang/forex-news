@@ -5,8 +5,8 @@
 | 00:50 | JPY | Bank Lending (YoY) (Jun) | 2.8% | 2.3% | 2.4% |
 | 02:30 | AUD | NAB Business Survey (Jun) | 9 |  | 0 |
 | 04:00 | IDR | Consumer Confidence (Jun) | 117.8 |  | 117.5 |
-| 5 min | JPY | 5-Year JGB Auction |  |  | 0.982% |
-| 06:00 | JPY | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
+| 04:35 | JPY | 5-Year JGB Auction | 0.989% |  | 0.982% |
+| 46 min | JPY | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
 | 07:00 | EUR | German Exports (MoM) (May) |  | 0.0% | -1.7% |
 | 07:00 | EUR | German Imports (MoM) (May) |  |  | 3.9% |
 | 07:45 | EUR | French Current Account (May) |  |  | -4.10B |

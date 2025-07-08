@@ -8,10 +8,10 @@
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jun) | 5 |  | 2 |
 | 02:30 | AUD | Low | NAB Business Survey (Jun) | 9 |  | 0 |
 | 04:00 | IDR | Low | Consumer Confidence (Jun) | 117.8 |  | 117.5 |
-| 5 min | JPY | Low | 5-Year JGB Auction |  |  | 0.982% |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Jul) |  | 3.60% | 3.85% |
-| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 0.989% |  | 0.982% |
+| 16 min | AUD | High | RBA Interest Rate Decision (Jul) |  | 3.60% | 3.85% |
+| 16 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 46 min | JPY | Low | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
 | 07:00 | EUR | Low | German Exports (MoM) (May) |  | 0.0% | -1.7% |
 | 07:00 | EUR | Low | German Imports (MoM) (May) |  |  | 3.9% |
 | 07:00 | EUR | Moderate | German Trade Balance (May) |  | 18.1B | 14.6B |
