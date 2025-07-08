@@ -9,10 +9,10 @@
 | 06:00 | JPY | Economy Watchers Current Index (Jun) | 45.0 | 45.1 | 44.4 |
 | 07:00 | EUR | German Exports (MoM) (May) | -1.4% | -0.2% | -1.6% |
 | 07:00 | EUR | German Imports (MoM) (May) | -3.8% | -0.9% | 2.2% |
-| 35 min | EUR | French Current Account (May) |  |  | -4.10B |
-| 35 min | EUR | French Exports (May) |  |  | 49.3B |
-| 35 min | EUR | French Imports (May) |  |  | 57.2B |
-| 35 min | EUR | French Trade Balance (May) |  | -7.7B | -8.0B |
+| 07:45 | EUR | French Exports (May) | 48.9B |  | 49.1B |
+| 07:45 | EUR | French Imports (May) | 56.7B |  | 56.7B |
+| 07:45 | EUR | French Trade Balance (May) | -7.8B | -7.7B | -7.6B |
+| 08:00 | EUR | French Current Account (May) |  |  | -4.10B |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.873% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.400% |

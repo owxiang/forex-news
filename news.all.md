@@ -15,10 +15,10 @@
 | 07:00 | EUR | Low | German Exports (MoM) (May) | -1.4% | -0.2% | -1.6% |
 | 07:00 | EUR | Low | German Imports (MoM) (May) | -3.8% | -0.9% | 2.2% |
 | 07:00 | EUR | Moderate | German Trade Balance (May) | 18.4B | 15.7B | 15.8B |
-| 35 min | EUR | Low | French Current Account (May) |  |  | -4.10B |
-| 35 min | EUR | Low | French Exports (May) |  |  | 49.3B |
-| 35 min | EUR | Low | French Imports (May) |  |  | 57.2B |
-| 35 min | EUR | Low | French Trade Balance (May) |  | -7.7B | -8.0B |
+| 07:45 | EUR | Low | French Exports (May) | 48.9B |  | 49.1B |
+| 07:45 | EUR | Low | French Imports (May) | 56.7B |  | 56.7B |
+| 07:45 | EUR | Low | French Trade Balance (May) | -7.8B | -7.7B | -7.6B |
+| 08:00 | EUR | Low | French Current Account (May) |  |  | -4.10B |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.873% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
