@@ -12,19 +12,19 @@
 | 05:30 | AUD | High | RBA Interest Rate Decision (Jul) | 3.85% | 3.60% | 3.85% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jun) | 45.0 | 45.1 | 44.4 |
-| 52 min | EUR | Low | German Exports (MoM) (May) |  | -0.2% | -1.7% |
-| 52 min | EUR | Low | German Imports (MoM) (May) |  | -0.9% | 3.9% |
-| 52 min | EUR | Moderate | German Trade Balance (May) |  | 15.7B | 14.6B |
-| 07:45 | EUR | Low | French Current Account (May) |  |  | -4.10B |
-| 07:45 | EUR | Low | French Exports (May) |  |  | 49.3B |
-| 07:45 | EUR | Low | French Imports (May) |  |  | 57.2B |
-| 07:45 | EUR | Low | French Trade Balance (May) |  | -7.7B | -8.0B |
+| 07:00 | EUR | Low | German Exports (MoM) (May) | -1.4% | -0.2% | -1.6% |
+| 07:00 | EUR | Low | German Imports (MoM) (May) | -3.8% | -0.9% | 2.2% |
+| 07:00 | EUR | Moderate | German Trade Balance (May) | 18.4B | 15.7B | 15.8B |
+| 35 min | EUR | Low | French Current Account (May) |  |  | -4.10B |
+| 35 min | EUR | Low | French Exports (May) |  |  | 49.3B |
+| 35 min | EUR | Low | French Imports (May) |  |  | 57.2B |
+| 35 min | EUR | Low | French Trade Balance (May) |  | -7.7B | -8.0B |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.873% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 98.7 | 98.8 |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 2.5% | 4.8% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 49.1 | 48.9 |
