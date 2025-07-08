@@ -13,8 +13,8 @@
 | 07:45 | EUR | French Imports (May) | 56.7B |  | 56.7B |
 | 07:45 | EUR | French Trade Balance (May) | -7.8B | -7.7B | -7.6B |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 1.905% |  | 1.873% |
-| 21 min | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
-| 51 min | USD | NFIB Small Business Optimism (Jun) |  | 98.7 | 98.8 |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.260% |  | 2.400% |
+| 11:00 | USD | NFIB Small Business Optimism (Jun) | 98.6 | 98.7 | 98.8 |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
 | 15:00 | CAD | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.940% |
