@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | AUD | RBA Interest Rate Decision (Jul) |  | 3.60% | 3.85% |
+| 05:30 | AUD | RBA Interest Rate Decision (Jul) | 3.85% | 3.60% | 3.85% |

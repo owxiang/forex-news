@@ -6,9 +6,9 @@
 | 02:30 | AUD | NAB Business Survey (Jun) | 9 |  | 0 |
 | 04:00 | IDR | Consumer Confidence (Jun) | 117.8 |  | 117.5 |
 | 04:35 | JPY | 5-Year JGB Auction | 0.989% |  | 0.982% |
-| 46 min | JPY | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
-| 07:00 | EUR | German Exports (MoM) (May) |  | 0.0% | -1.7% |
-| 07:00 | EUR | German Imports (MoM) (May) |  |  | 3.9% |
+| 06:00 | JPY | Economy Watchers Current Index (Jun) | 45.0 | 45.1 | 44.4 |
+| 52 min | EUR | German Exports (MoM) (May) |  | -0.2% | -1.7% |
+| 52 min | EUR | German Imports (MoM) (May) |  | -0.9% | 3.9% |
 | 07:45 | EUR | French Current Account (May) |  |  | -4.10B |
 | 07:45 | EUR | French Exports (May) |  |  | 49.3B |
 | 07:45 | EUR | French Imports (May) |  |  | 57.2B |
@@ -16,7 +16,7 @@
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.873% |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
-| 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 98.9 | 98.8 |
+| 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 98.7 | 98.8 |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
 | 15:00 | CAD | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 3.940% |
