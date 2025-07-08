@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Bank Lending (YoY) (Jun) | 2.8% | 2.3% | 2.4% |
-| 59 min | AUD | NAB Business Survey (Jun) |  |  | 0 |
+| 02:30 | AUD | NAB Business Survey (Jun) | 9 |  | 0 |
 | 04:00 | IDR | Consumer Confidence (Jun) |  |  | 117.5 |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.982% |
 | 06:00 | JPY | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
