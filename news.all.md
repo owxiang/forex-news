@@ -21,8 +21,8 @@
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.905% |  | 1.873% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.260% |  | 2.400% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 98.6 | 98.7 | 98.8 |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 2.5% | 4.8% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (May) |  | 2.5% | 4.8% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 49.1 | 48.9 |
