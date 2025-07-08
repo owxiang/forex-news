@@ -12,9 +12,8 @@
 | 07:45 | EUR | French Exports (May) | 48.9B |  | 49.1B |
 | 07:45 | EUR | French Imports (May) | 56.7B |  | 56.7B |
 | 07:45 | EUR | French Trade Balance (May) | -7.8B | -7.7B | -7.6B |
-| 08:00 | EUR | French Current Account (May) |  |  | -4.10B |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 1.873% |
-| 10:00 | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
+| 30 min | EUR | Spanish 3-Month Letras Auction |  |  | 1.873% |
+| 50 min | SGD | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
 | 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 98.7 | 98.8 |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |

@@ -18,13 +18,12 @@
 | 07:45 | EUR | Low | French Exports (May) | 48.9B |  | 49.1B |
 | 07:45 | EUR | Low | French Imports (May) | 56.7B |  | 56.7B |
 | 07:45 | EUR | Low | French Trade Balance (May) | -7.8B | -7.7B | -7.6B |
-| 08:00 | EUR | Low | French Current Account (May) |  |  | -4.10B |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.873% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
+| 30 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 1.873% |
+| 50 min | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 98.7 | 98.8 |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 2.5% | 4.8% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 2.5% | 4.8% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 49.1 | 48.9 |
