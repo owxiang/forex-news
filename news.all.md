@@ -32,4 +32,4 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.891% |  | 3.972% |
 | 20:00 | USD | Moderate | Consumer Credit (May) | 5.10B | 10.40B | 16.87B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | 0.680M |
+| 23 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | 0.680M |
