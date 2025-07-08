@@ -30,6 +30,6 @@
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jun) | 3.0% |  | 3.2% |
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.925% |  | 3.940% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 52 min | USD | Moderate | 3-Year Note Auction |  |  | 3.972% |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 3.891% |  | 3.972% |
 | 20:00 | USD | Moderate | Consumer Credit (May) |  | 10.40B | 17.87B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | 0.680M |

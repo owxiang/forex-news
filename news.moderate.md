@@ -13,6 +13,6 @@
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jun) | 3.0% |  | 3.2% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 52 min | USD | 3-Year Note Auction |  |  | 3.972% |
+| 18:00 | USD | 3-Year Note Auction | 3.891% |  | 3.972% |
 | 20:00 | USD | Consumer Credit (May) |  | 10.40B | 17.87B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.800M | 0.680M |
