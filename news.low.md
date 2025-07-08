@@ -1,20 +1,44 @@
-## 08 July 2025 - Low Impact Forex News
+## 09 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Bank Lending (YoY) (Jun) | 2.8% | 2.3% | 2.4% |
-| 02:30 | AUD | NAB Business Survey (Jun) | 9 |  | 0 |
-| 04:00 | IDR | Consumer Confidence (Jun) | 117.8 |  | 117.5 |
-| 04:35 | JPY | 5-Year JGB Auction | 0.989% |  | 0.982% |
-| 06:00 | JPY | Economy Watchers Current Index (Jun) | 45.0 | 45.1 | 44.4 |
-| 07:00 | EUR | German Exports (MoM) (May) | -1.4% | -0.2% | -1.6% |
-| 07:00 | EUR | German Imports (MoM) (May) | -3.8% | -0.9% | 2.2% |
-| 07:45 | EUR | French Exports (May) | 48.9B |  | 49.1B |
-| 07:45 | EUR | French Imports (May) | 56.7B |  | 56.7B |
-| 07:45 | EUR | French Trade Balance (May) | -7.8B | -7.7B | -7.6B |
-| 09:40 | EUR | Spanish 3-Month Letras Auction | 1.905% |  | 1.873% |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.260% |  | 2.400% |
-| 11:00 | USD | NFIB Small Business Optimism (Jun) | 98.6 | 98.7 | 98.8 |
-| 13:55 | USD | Redbook (YoY) | 5.9% |  | 4.9% |
-| 15:00 | CAD | Ivey PMI n.s.a (Jun) | 54.6 |  | 53.8 |
-| 16:30 | USD | 52-Week Bill Auction | 3.925% |  | 3.940% |
+| 43 min | JPY | M2 Money Stock (YoY) |  | 0.2% | 0.6% |
+| 43 min | JPY | M3 Money Supply (Jun) |  |  | 2,199.6B |
+| 01:30 | AUD | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
+| 02:30 | AUD | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
+| 02:30 | AUD | Private House Approvals (May) |  | 0.5% | 5.9% |
+| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 04:00 | IDR | Retail Sales (YoY) (May) |  |  | -0.3% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
+| 07:00 | IDR | Car Sales (YoY) (Jun) |  |  | -16.10% |
+| 07:00 | NOK | PPI (YoY) (Jun) |  |  | -0.1% |
+| 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.588% |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.79% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.7% |
+| 12:00 | USD | MBA Purchase Index |  |  | 165.3 |
+| 12:00 | USD | Mortgage Market Index |  |  | 257.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 759.7 |
+| 12:30 | INR | M3 Money Supply |  |  | 9.8% |
+| 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
+| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
+| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.00% |
+| 15:00 | USD | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.1% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
+| 15:30 | USD | Crude Oil Imports |  |  | 2.940M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.245M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.710M |
+| 15:30 | USD | Gasoline Production |  |  | -0.491M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.202M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
+| 15:30 | USD | Gasoline Inventories |  |  | 4.188M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.36 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 48.82 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 54.23 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.08 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.268B |
+| 23:45 | NZD | External Migration & Visitors (May) |  |  | 18.80% |
+| 23:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 1,810 |
+| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.3% |

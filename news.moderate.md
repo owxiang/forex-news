@@ -1,18 +1,18 @@
-## 08 July 2025 - Moderate Impact Forex News
+## 09 July 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (May) | 2.82T | 2.58T | 2.31T |
-| 00:50 | JPY | Current Account n.s.a. (May) | 3.436T | 2.940T | 2.258T |
-| 02:30 | AUD | NAB Business Confidence (Jun) | 5 |  | 2 |
-| 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:00 | EUR | German Trade Balance (May) | 18.4B | 15.7B | 15.8B |
-| 13:00 | BRL | Retail Sales (MoM) (May) | -0.2% | 0.2% | -0.3% |
-| 13:00 | BRL | Retail Sales (YoY) (May) | 2.1% | 2.5% | 5.3% |
-| 15:00 | CAD | Ivey PMI (Jun) | 53.3 | 49.1 | 48.9 |
-| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations (Jun) | 3.0% |  | 3.2% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 3.891% |  | 3.972% |
-| 20:00 | USD | Consumer Credit (May) | 5.10B | 10.40B | 16.87B |
-| 21:30 | USD | API Weekly Crude Oil Stock | 7.100M | -2.800M | 0.680M |
+| 02:30 | AUD | Building Approvals (MoM) (May) |  | 3.2% | -4.1% |
+| 02:30 | CNY | CPI (MoM) (Jun) |  | 0.0% | -0.2% |
+| 02:30 | CNY | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
+| 02:30 | CNY | PPI (YoY) (Jun) |  | -3.2% | -3.3% |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 07:00 | GBP | BoE Financial Stability Report |  |  |  |
+| 10:30 | GBP | BoE Financial Stability Report |  |  |  |
+| 11:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:00 | MXN | CPI (YoY) (Jun) |  | 4.31% | 4.42% |
+| 13:00 | MXN | CPI (MoM) (Jun) |  | 0.27% | 0.28% |
+| 13:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.493M |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
