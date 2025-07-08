@@ -21,12 +21,12 @@
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.905% |  | 1.873% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.260% |  | 2.400% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 98.6 | 98.7 | 98.8 |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 2.1% | 2.5% | 4.8% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | -0.2% | 0.2% | -0.4% |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 4.9% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
-| 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 49.1 | 48.9 |
-| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 2.1% | 2.5% | 5.3% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | -0.2% | 0.2% | -0.3% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 4.9% |
+| 43 min | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
+| 43 min | CAD | Moderate | Ivey PMI (Jun) |  | 49.1 | 48.9 |
+| 43 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations (Jun) |  |  | 3.2% |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 3.940% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
