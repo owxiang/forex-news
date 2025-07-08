@@ -21,8 +21,8 @@
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 1.905% |  | 1.873% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.260% |  | 2.400% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 98.6 | 98.7 | 98.8 |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 2.1% | 2.5% | 5.3% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | -0.2% | 0.2% | -0.3% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 2.1% | 2.5% | 5.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 4.9% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) | 54.6 |  | 53.8 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) | 53.3 | 49.1 | 48.9 |
@@ -31,5 +31,5 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 3.925% |  | 3.940% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 3.891% |  | 3.972% |
-| 51 min | USD | Moderate | Consumer Credit (May) |  | 10.40B | 17.87B |
+| 20:00 | USD | Moderate | Consumer Credit (May) | 5.10B | 10.40B | 16.87B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.800M | 0.680M |
