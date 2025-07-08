@@ -7,8 +7,8 @@
 | 00:50 | JPY | Moderate | Current Account n.s.a. (May) | 3.436T | 2.940T | 2.258T |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jun) | 5 |  | 2 |
 | 02:30 | AUD | Low | NAB Business Survey (Jun) | 9 |  | 0 |
-| 04:00 | IDR | Low | Consumer Confidence (Jun) |  |  | 117.5 |
-| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.982% |
+| 21 min | IDR | Low | Consumer Confidence (Jun) |  |  | 117.5 |
+| 56 min | JPY | Low | 5-Year JGB Auction |  |  | 0.982% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Jul) |  | 3.60% | 3.85% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jun) |  | 45.2 | 44.4 |
@@ -23,8 +23,8 @@
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Jun) |  |  | 401.7B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 98.9 | 98.8 |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 2.5% | 4.8% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | 0.2% | -0.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 53.8 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 49.1 | 48.9 |
