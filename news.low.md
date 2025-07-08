@@ -17,4 +17,4 @@
 | 11:00 | USD | NFIB Small Business Optimism (Jun) | 98.6 | 98.7 | 98.8 |
 | 13:55 | USD | Redbook (YoY) | 5.9% |  | 4.9% |
 | 15:00 | CAD | Ivey PMI n.s.a (Jun) | 54.6 |  | 53.8 |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 3.940% |
+| 23 min | USD | 52-Week Bill Auction |  |  | 3.940% |
