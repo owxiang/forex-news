@@ -13,12 +13,10 @@
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 3.25% | 3.25% | 3.25% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | IDR | Low | Retail Sales (YoY) (May) | 1.9% |  | -0.3% |
-| 14 min | AUD | Low | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
-| 14 min | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
-| 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
-| 07:00 | IDR | Low | Car Sales (YoY) (Jun) |  |  | -16.10% |
-| 07:00 | NOK | Low | PPI (YoY) (Jun) |  |  | -0.1% |
+| 50 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 50 min | JPY | Low | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
+| 50 min | IDR | Low | Car Sales (YoY) (Jun) |  |  | -16.10% |
+| 50 min | NOK | Low | PPI (YoY) (Jun) |  |  | -0.1% |
 | 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.588% |
 | 10:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
@@ -31,15 +29,15 @@
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.31% | 4.42% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.27% | 0.28% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.31% | 4.42% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
 | 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.1% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | 3.845M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | 3.845M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 2.940M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.493M |

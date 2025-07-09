@@ -7,11 +7,9 @@
 | 02:30 | AUD | Private House Approvals (May) | 0.5% | 0.5% | 5.9% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | IDR | Retail Sales (YoY) (May) | 1.9% |  | -0.3% |
-| 14 min | AUD | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
-| 14 min | AUD | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
-| 07:00 | IDR | Car Sales (YoY) (Jun) |  |  | -16.10% |
-| 07:00 | NOK | PPI (YoY) (Jun) |  |  | -0.1% |
+| 50 min | JPY | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
+| 50 min | IDR | Car Sales (YoY) (Jun) |  |  | -16.10% |
+| 50 min | NOK | PPI (YoY) (Jun) |  |  | -0.1% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.588% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.79% |
@@ -24,7 +22,7 @@
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
 | 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.00% |
 | 13:00 | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
-| 15:00 | USD | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.1% |
+| 15:00 | USD | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
 | 15:30 | USD | Crude Oil Imports |  |  | 2.940M |
