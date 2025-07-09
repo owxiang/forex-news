@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | JPY | Low | M2 Money Stock (YoY) |  | 0.2% | 0.6% |
-| 43 min | JPY | Low | M3 Money Supply (Jun) |  |  | 2,199.6B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 0.9% | 0.2% | 0.6% |
+| 00:50 | JPY | Low | M3 Money Supply (Jun) | 2,204.8B |  | 2,200.8B |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) |  | 3.2% | -4.1% |
-| 02:30 | AUD | Low | Private House Approvals (May) |  | 0.5% | 5.9% |
-| 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | CNY | Moderate | CPI (MoM) (Jun) |  | 0.0% | -0.2% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
-| 02:30 | CNY | Moderate | PPI (YoY) (Jun) |  | -3.2% | -3.3% |
+| 58 min | AUD | Low | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
+| 58 min | AUD | Moderate | Building Approvals (MoM) (May) |  | 3.2% | -4.1% |
+| 58 min | AUD | Low | Private House Approvals (May) |  | 0.5% | 5.9% |
+| 58 min | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 58 min | CNY | Moderate | CPI (MoM) (Jun) |  | 0.0% | -0.2% |
+| 58 min | CNY | Moderate | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
+| 58 min | CNY | Moderate | PPI (YoY) (Jun) |  | -3.2% | -3.3% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 3.25% | 3.25% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | IDR | Low | Retail Sales (YoY) (May) |  |  | -0.3% |
@@ -34,8 +34,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.31% | 4.42% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.27% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
-| 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
 | 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.1% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |

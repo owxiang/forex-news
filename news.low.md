@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | M2 Money Stock (YoY) |  | 0.2% | 0.6% |
-| 43 min | JPY | M3 Money Supply (Jun) |  |  | 2,199.6B |
+| 00:50 | JPY | M2 Money Stock (YoY) | 0.9% | 0.2% | 0.6% |
+| 00:50 | JPY | M3 Money Supply (Jun) | 2,204.8B |  | 2,200.8B |
 | 01:30 | AUD | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
-| 02:30 | AUD | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
-| 02:30 | AUD | Private House Approvals (May) |  | 0.5% | 5.9% |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 58 min | AUD | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
+| 58 min | AUD | Private House Approvals (May) |  | 0.5% | 5.9% |
+| 58 min | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | IDR | Retail Sales (YoY) (May) |  |  | -0.3% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
 | 07:00 | IDR | Car Sales (YoY) (Jun) |  |  | -16.10% |
@@ -22,8 +22,8 @@
 | 12:30 | INR | M3 Money Supply |  |  | 9.8% |
 | 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
-| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
 | 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.00% |
+| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
 | 15:00 | USD | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.1% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
