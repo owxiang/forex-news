@@ -27,14 +27,14 @@
 | 12:00 | USD | Low | Mortgage Market Index | 281.6 |  | 257.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 829.3 |  | 759.7 |
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 24 min | INR | Low | M3 Money Supply |  |  | 9.8% |
-| 54 min | MXN | Low | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
-| 54 min | MXN | Moderate | CPI (YoY) (Jun) |  | 4.31% | 4.42% |
-| 54 min | MXN | Moderate | CPI (MoM) (Jun) |  | 0.27% | 0.28% |
-| 54 min | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
-| 54 min | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
-| 54 min | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
-| 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | MXN | Low | Core CPI (MoM) (Jun) | 0.39% | 0.38% | 0.30% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.32% | 4.31% | 4.42% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.28% | 0.27% | 0.28% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
+| 2 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17 min | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
+| 17 min | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
+| 14:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | 3.845M |

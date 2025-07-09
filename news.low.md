@@ -17,11 +17,11 @@
 | 12:00 | USD | MBA Purchase Index | 180.9 |  | 165.3 |
 | 12:00 | USD | Mortgage Market Index | 281.6 |  | 257.5 |
 | 12:00 | USD | Mortgage Refinance Index | 829.3 |  | 759.7 |
-| 24 min | INR | M3 Money Supply |  |  | 9.8% |
-| 54 min | MXN | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
-| 54 min | MXN | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
-| 54 min | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
-| 54 min | MXN | PPI (MoM) (Jun) |  |  | 0.00% |
+| 13:00 | MXN | Core CPI (MoM) (Jun) | 0.39% | 0.38% | 0.30% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
+| 17 min | MXN | PPI (MoM) (Jun) |  |  | 0.00% |
+| 17 min | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
+| 14:30 | INR | M3 Money Supply |  |  | 9.8% |
 | 15:00 | USD | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
