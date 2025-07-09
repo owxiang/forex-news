@@ -21,21 +21,20 @@
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
 | 13:00 | MXN | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
 | 13:00 | MXN | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
-| 14 min | INR | M3 Money Supply |  |  | 9.8% |
-| 44 min | USD | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
-| 44 min | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
-| 15:30 | USD | Crude Oil Imports |  |  | 2.940M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.245M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.300M | -1.710M |
-| 15:30 | USD | Gasoline Production |  |  | -0.491M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.202M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Gasoline Inventories |  | -1.700M | 4.188M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.36 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 48.82 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 54.23 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.08 |
+| 15:00 | USD | Wholesale Inventories (MoM) (May) | -0.3% | -0.3% | 0.2% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (May) | -0.3% |  | 0.0% |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
+| 23 min | USD | Crude Oil Imports |  |  | 2.940M |
+| 23 min | USD | Distillate Fuel Production |  |  | 0.245M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  | -0.300M | -1.710M |
+| 23 min | USD | Gasoline Production |  |  | -0.491M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | -0.202M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
+| 23 min | USD | Gasoline Inventories |  | -1.700M | 4.188M |
+| 53 min | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.36 |
+| 53 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 48.82 |
+| 53 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 54.23 |
+| 53 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.08 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -2.268B |
 | 23:45 | NZD | External Migration & Visitors (May) |  |  | 18.80% |
 | 23:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 1,810 |
