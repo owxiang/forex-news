@@ -36,20 +36,20 @@
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (May) | -0.3% | -0.3% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) | -0.3% |  | 0.0% |
-| 23 min | USD | High | Crude Oil Inventories |  | -1.700M | 3.845M |
-| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
-| 23 min | USD | Low | Crude Oil Imports |  |  | 2.940M |
-| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.493M |
-| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.245M |
-| 23 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.300M | -1.710M |
-| 23 min | USD | Low | Gasoline Production |  |  | -0.491M |
-| 23 min | USD | Low | Heating Oil Stockpiles |  |  | -0.202M |
-| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 23 min | USD | Low | Gasoline Inventories |  | -1.700M | 4.188M |
-| 53 min | USD | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.36 |
-| 53 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 48.82 |
-| 53 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 54.23 |
-| 53 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.08 |
+| 15:30 | USD | High | Crude Oil Inventories | 7.070M | -1.700M | 3.845M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.099M |  | 0.118M |
+| 15:30 | USD | Low | Crude Oil Imports | -1.358M |  | 2.940M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.464M |  | -1.493M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.059M |  | 0.245M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -0.825M | -0.300M | -1.710M |
+| 15:30 | USD | Low | Gasoline Production | 0.278M |  | -0.491M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.603M |  | -0.202M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.2% |
+| 15:30 | USD | Low | Gasoline Inventories | -2.658M | -1.700M | 4.188M |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jul) | 53.80 |  | 53.36 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.07 |  | 48.82 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 54.97 |  | 54.23 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.15 |  | 52.08 |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.421% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.268B |
