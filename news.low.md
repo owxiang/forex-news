@@ -19,8 +19,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 829.3 |  | 759.7 |
 | 13:00 | MXN | Core CPI (MoM) (Jun) | 0.39% | 0.38% | 0.30% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
-| 13:00 | MXN | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
 | 13:00 | MXN | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
+| 13:00 | MXN | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
 | 15:00 | USD | Wholesale Inventories (MoM) (May) | -0.3% | -0.3% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) | -0.3% |  | 0.0% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.099M |  | 0.118M |
