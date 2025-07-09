@@ -7,14 +7,14 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 3.2% | 3.2% | -4.1% |
 | 02:30 | AUD | Low | Private House Approvals (May) | 0.5% | 0.5% | 5.9% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.1% | 0.0% | -0.2% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Jun) | -3.6% | -3.2% | -3.3% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 3.25% | 3.25% | 3.25% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | IDR | Low | Retail Sales (YoY) (May) | 1.9% |  | -0.3% |
-| 28 min | AUD | Low | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
-| 28 min | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
+| 14 min | AUD | Low | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
+| 14 min | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
 | 07:00 | IDR | Low | Car Sales (YoY) (Jun) |  |  | -16.10% |
@@ -31,11 +31,11 @@
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.27% | 0.28% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.31% | 4.42% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.27% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
-| 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
 | 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.1% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
