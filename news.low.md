@@ -7,9 +7,9 @@
 | 02:30 | AUD | Private House Approvals (May) | 0.5% | 0.5% | 5.9% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | IDR | Retail Sales (YoY) (May) | 1.9% |  | -0.3% |
-| 50 min | JPY | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
-| 50 min | IDR | Car Sales (YoY) (Jun) |  |  | -16.10% |
-| 50 min | NOK | PPI (YoY) (Jun) |  |  | -0.1% |
+| 05:00 | IDR | Car Sales (YoY) (Jun) | -22.60% |  | -16.10% |
+| 07:00 | JPY | Machine Tool Orders (YoY) (Jun) | -0.5% | 3.4% | 7.7% |
+| 07:00 | NOK | PPI (YoY) (Jun) | -1.0% |  | -0.1% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.588% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.79% |
