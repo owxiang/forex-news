@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 58 min | AUD | Building Approvals (MoM) (May) |  | 3.2% | -4.1% |
-| 58 min | CNY | CPI (MoM) (Jun) |  | 0.0% | -0.2% |
-| 58 min | CNY | CPI (YoY) (Jun) |  | -0.1% | -0.1% |
-| 58 min | CNY | PPI (YoY) (Jun) |  | -3.2% | -3.3% |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 02:30 | AUD | Building Approvals (MoM) (May) | 3.2% | 3.2% | -4.1% |
+| 02:30 | CNY | CPI (MoM) (Jun) | -0.1% | 0.0% | -0.2% |
+| 02:30 | CNY | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
+| 02:30 | CNY | PPI (YoY) (Jun) | -3.6% | -3.2% | -3.3% |
+| 25 min | NZD | RBNZ Rate Statement |  |  |  |
 | 07:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 10:30 | GBP | BoE Financial Stability Report |  |  |  |
 | 11:45 | EUR | ECB's Lane Speaks |  |  |  |

@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | M2 Money Stock (YoY) | 0.9% | 0.2% | 0.6% |
 | 00:50 | JPY | M3 Money Supply (Jun) | 2,204.8B |  | 2,200.8B |
-| 01:30 | AUD | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
-| 58 min | AUD | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
-| 58 min | AUD | Private House Approvals (May) |  | 0.5% | 5.9% |
-| 58 min | AUD | RBA Chart Pack Release |  |  |  |
+| 02:30 | AUD | Building Approvals (YoY) (May) |  | 8.00% | 12.00% |
+| 02:30 | AUD | Private House Approvals (May) | 0.5% | 0.5% | 5.9% |
+| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 02:30 | AUD | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
 | 04:00 | IDR | Retail Sales (YoY) (May) |  |  | -0.3% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jun) |  | 3.4% | 7.7% |
 | 07:00 | IDR | Car Sales (YoY) (Jun) |  |  | -16.10% |
