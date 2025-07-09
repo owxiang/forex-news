@@ -13,6 +13,6 @@
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | MXN | CPI (YoY) (Jun) | 4.32% | 4.31% | 4.42% |
 | 13:00 | MXN | CPI (MoM) (Jun) | 0.28% | 0.27% | 0.28% |
-| 2 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.493M |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |

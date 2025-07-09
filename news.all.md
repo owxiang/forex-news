@@ -31,22 +31,22 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.32% | 4.31% | 4.42% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.28% | 0.27% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
-| 2 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17 min | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
-| 17 min | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
-| 14:30 | INR | Low | M3 Money Supply |  |  | 9.8% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
+| 13:00 | MXN | Low | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
+| 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14 min | INR | Low | M3 Money Supply |  |  | 9.8% |
+| 44 min | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
+| 44 min | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.700M | 3.845M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 2.940M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.493M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.245M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.710M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.300M | -1.710M |
 | 15:30 | USD | Low | Gasoline Production |  |  | -0.491M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.202M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | 4.188M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.700M | 4.188M |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.36 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 48.82 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 54.23 |
