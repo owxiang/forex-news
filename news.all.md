@@ -32,8 +32,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.31% | 4.42% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.27% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 6.40% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.00% |
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
