@@ -54,6 +54,6 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.6% | 2.6% | 2.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -2.148B |  | -2.268B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 18.80% |
-| 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 1,810 |
-| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.3% |
+| 38 min | NZD | Low | External Migration & Visitors (May) |  |  | 18.80% |
+| 38 min | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 1,810 |
+| 38 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.3% |
