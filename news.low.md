@@ -19,8 +19,8 @@
 | 12:00 | USD | Mortgage Refinance Index | 829.3 |  | 759.7 |
 | 13:00 | MXN | Core CPI (MoM) (Jun) | 0.39% | 0.38% | 0.30% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
-| 13:00 | MXN | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
 | 13:00 | MXN | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
+| 13:00 | MXN | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
 | 15:00 | USD | Wholesale Inventories (MoM) (May) | -0.3% | -0.3% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) | -0.3% |  | 0.0% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.099M |  | 0.118M |
@@ -35,7 +35,7 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.07 |  | 48.82 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 54.97 |  | 54.23 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.15 |  | 52.08 |
-| 22 min | BRL | Foreign Exchange Flows |  |  | -2.268B |
+| 18:30 | BRL | Foreign Exchange Flows | -2.148B |  | -2.268B |
 | 23:45 | NZD | External Migration & Visitors (May) |  |  | 18.80% |
 | 23:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 1,810 |
 | 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.3% |

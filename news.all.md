@@ -28,11 +28,11 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 829.3 |  | 759.7 |
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jun) | 0.39% | 0.38% | 0.30% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.32% | 4.31% | 4.42% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.28% | 0.27% | 0.28% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.32% | 4.31% | 4.42% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (May) | -0.3% | -0.3% | 0.2% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) | -0.3% |  | 0.0% |
@@ -50,10 +50,10 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.07 |  | 48.82 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 54.97 |  | 54.23 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.15 |  | 52.08 |
+| 18:00 | USD | High | 10-Year Note Auction | 4.362% |  | 4.421% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.6% | 2.6% | 2.6% |
-| 22 min | BRL | Low | Foreign Exchange Flows |  |  | -2.268B |
-| 52 min | USD | High | 10-Year Note Auction |  |  | 4.421% |
-| 52 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -2.148B |  | -2.268B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 18.80% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 1,810 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.3% |
