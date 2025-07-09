@@ -10,8 +10,8 @@
 | 05:00 | IDR | Car Sales (YoY) (Jun) | -22.60% |  | -16.10% |
 | 07:00 | JPY | Machine Tool Orders (YoY) (Jun) | -0.5% | 3.4% | 7.7% |
 | 07:00 | NOK | PPI (YoY) (Jun) | -1.0% |  | -0.1% |
-| 10:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.588% |
-| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 22 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.588% |
+| 22 min | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.79% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.7% |
 | 12:00 | USD | MBA Purchase Index |  |  | 165.3 |

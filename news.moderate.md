@@ -8,7 +8,7 @@
 | 02:30 | CNY | PPI (YoY) (Jun) | -3.6% | -3.2% | -3.3% |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 07:00 | GBP | BoE Financial Stability Report |  |  |  |
-| 10:30 | GBP | BoE Financial Stability Report |  |  |  |
+| 22 min | GBP | BoE Financial Stability Report |  |  |  |
 | 11:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 12:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | MXN | CPI (MoM) (Jun) |  | 0.27% | 0.28% |

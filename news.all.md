@@ -17,9 +17,9 @@
 | 07:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) (Jun) | -0.5% | 3.4% | 7.7% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) | -1.0% |  | -0.1% |
-| 10:30 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.588% |
-| 10:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 22 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.588% |
+| 22 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 22 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 11:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.79% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.7% |
