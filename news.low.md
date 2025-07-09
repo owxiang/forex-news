@@ -1,41 +1,37 @@
-## 09 July 2025 - Low Impact Forex News
+## 10 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | M2 Money Stock (YoY) | 0.9% | 0.2% | 0.6% |
-| 00:50 | JPY | M3 Money Supply (Jun) | 2,204.8B |  | 2,200.8B |
-| 02:30 | AUD | Private House Approvals (May) | 0.5% | 0.5% | 5.9% |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 04:00 | IDR | Retail Sales (YoY) (May) | 1.9% |  | -0.3% |
-| 05:00 | IDR | Car Sales (YoY) (Jun) | -22.60% |  | -16.10% |
-| 07:00 | JPY | Machine Tool Orders (YoY) (Jun) | -0.5% | 3.4% | 7.7% |
-| 07:00 | NOK | PPI (YoY) (Jun) | -1.0% |  | -0.1% |
-| 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.635% |  | 4.588% |
-| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.79% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 9.4% |  | 2.7% |
-| 12:00 | USD | MBA Purchase Index | 180.9 |  | 165.3 |
-| 12:00 | USD | Mortgage Market Index | 281.6 |  | 257.5 |
-| 12:00 | USD | Mortgage Refinance Index | 829.3 |  | 759.7 |
-| 13:00 | MXN | Core CPI (MoM) (Jun) | 0.39% | 0.38% | 0.30% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
-| 13:00 | MXN | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
-| 13:00 | MXN | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
-| 15:00 | USD | Wholesale Inventories (MoM) (May) | -0.3% | -0.3% | 0.2% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (May) | -0.3% |  | 0.0% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.099M |  | 0.118M |
-| 15:30 | USD | Crude Oil Imports | -1.358M |  | 2.940M |
-| 15:30 | USD | Distillate Fuel Production | 0.059M |  | 0.245M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -0.825M | -0.300M | -1.710M |
-| 15:30 | USD | Gasoline Production | 0.278M |  | -0.491M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.603M |  | -0.202M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.2% |
-| 15:30 | USD | Gasoline Inventories | -2.658M | -1.700M | 4.188M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) | 53.80 |  | 53.36 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.07 |  | 48.82 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 54.97 |  | 54.23 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.15 |  | 52.08 |
-| 18:30 | BRL | Foreign Exchange Flows | -2.148B |  | -2.268B |
-| 38 min | NZD | External Migration & Visitors (May) |  |  | 18.80% |
-| 38 min | NZD | Permanent/Long-Term Migration (May) |  |  | 1,810 |
-| 38 min | NZD | Visitor Arrivals (MoM) |  |  | 2.3% |
+| 43 min | JPY | Foreign Bonds Buying |  |  | 182.8B |
+| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 651.3B |
+| 43 min | JPY | PPI (MoM) (Jun) |  | -0.2% | -0.2% |
+| 43 min | JPY | PPI (YoY) (Jun) |  | 2.9% | 3.2% |
+| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 02:00 | KRW | Interest Rate Decision (Jul) |  | 2.50% | 2.50% |
+| 07:00 | EUR | German HICP (MoM) (Jun) |  | 0.1% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Jun) |  | 2.0% | 2.1% |
+| 07:00 | NOK | Core CPI YTD (Jun) |  | 3.0% | 2.8% |
+| 07:00 | NOK | Core Inflation (MoM) (Jun) |  | 0.4% | 0.2% |
+| 07:00 | NOK | CPI (YoY) (Jun) |  | 3.1% | 3.0% |
+| 07:00 | NOK | CPI (MoM) (Jun) |  |  | 0.4% |
+| 07:45 | EUR | French Current Account (May) |  |  | -4.10B |
+| 09:00 | EUR | Italian Industrial Production (MoM) (May) |  | -0.2% | 1.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (May) |  | 0.0% | 0.3% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.983% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.1 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.01 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.16 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 42.00 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 49.99 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.96 |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) |  |  | 1.9% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (May) |  |  | -6.3% |
+| 13:00 | BRL | CPI (MoM) (Jun) |  | 0.20% | 0.26% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.32% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 241.50K |
+| 14:30 | INR | M3 Money Supply |  |  | 9.8% |
+| 15:30 | USD | Natural Gas Storage |  | 56B | 55B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 4.300% |
+| 18:30 | GBP | BoE Breeden Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.257T |
