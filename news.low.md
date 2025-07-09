@@ -12,16 +12,16 @@
 | 07:00 | NOK | PPI (YoY) (Jun) | -1.0% |  | -0.1% |
 | 10:30 | GBP | 10-Year Treasury Gilt Auction | 4.635% |  | 4.588% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 53 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.79% |
-| 53 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.7% |
-| 53 min | USD | MBA Purchase Index |  |  | 165.3 |
-| 53 min | USD | Mortgage Market Index |  |  | 257.5 |
-| 53 min | USD | Mortgage Refinance Index |  |  | 759.7 |
-| 12:30 | INR | M3 Money Supply |  |  | 9.8% |
-| 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
-| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
-| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.00% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.77% |  | 6.79% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 9.4% |  | 2.7% |
+| 12:00 | USD | MBA Purchase Index | 180.9 |  | 165.3 |
+| 12:00 | USD | Mortgage Market Index | 281.6 |  | 257.5 |
+| 12:00 | USD | Mortgage Refinance Index | 829.3 |  | 759.7 |
+| 24 min | INR | M3 Money Supply |  |  | 9.8% |
+| 54 min | MXN | Core CPI (MoM) (Jun) |  | 0.38% | 0.30% |
+| 54 min | MXN | Month Core Inflation (MoM) (Jun) |  | 4.22% | 4.06% |
+| 54 min | MXN | PPI (YoY) (Jun) |  |  | 6.40% |
+| 54 min | MXN | PPI (MoM) (Jun) |  |  | 0.00% |
 | 15:00 | USD | Wholesale Inventories (MoM) (May) |  | -0.3% | 0.2% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.118M |
