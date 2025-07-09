@@ -50,10 +50,10 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.07 |  | 48.82 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 54.97 |  | 54.23 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.15 |  | 52.08 |
-| 54 min | USD | High | 10-Year Note Auction |  |  | 4.421% |
-| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.268B |
-| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.6% | 2.6% | 2.6% |
+| 22 min | BRL | Low | Foreign Exchange Flows |  |  | -2.268B |
+| 52 min | USD | High | 10-Year Note Auction |  |  | 4.421% |
+| 52 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 18.80% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 1,810 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.3% |

@@ -15,4 +15,4 @@
 | 13:00 | MXN | CPI (MoM) (Jun) | 0.28% | 0.27% | 0.28% |
 | 13:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.464M |  | -1.493M |
-| 54 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 2.6% | 2.6% |

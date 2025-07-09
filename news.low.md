@@ -35,7 +35,7 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.07 |  | 48.82 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 54.97 |  | 54.23 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.15 |  | 52.08 |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.268B |
+| 22 min | BRL | Foreign Exchange Flows |  |  | -2.268B |
 | 23:45 | NZD | External Migration & Visitors (May) |  |  | 18.80% |
 | 23:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 1,810 |
 | 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.3% |
