@@ -7,8 +7,8 @@
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 3.2% | 3.2% | -4.1% |
 | 02:30 | AUD | Low | Private House Approvals (May) | 0.5% | 0.5% | 5.9% |
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 02:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.1% | 0.0% | -0.2% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.1% | -0.1% | -0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Jun) | -3.6% | -3.2% | -3.3% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 3.25% | 3.25% | 3.25% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
@@ -28,8 +28,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 829.3 |  | 759.7 |
 | 12:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jun) | 0.39% | 0.38% | 0.30% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.28% | 0.27% | 0.28% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.32% | 4.31% | 4.42% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.28% | 0.27% | 0.28% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.24% | 4.22% | 4.06% |
 | 13:00 | MXN | Low | PPI (MoM) (Jun) | -0.10% |  | 0.00% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) | 4.90% |  | 6.40% |
@@ -50,8 +50,8 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.07 |  | 48.82 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 54.97 |  | 54.23 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.15 |  | 52.08 |
-| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.421% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 54 min | USD | High | 10-Year Note Auction |  |  | 4.421% |
+| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.268B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 18.80% |
