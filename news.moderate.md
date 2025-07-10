@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 51 min | EUR | German CPI (YoY) (Jun) |  | 2.0% | 2.1% |
+| 07:00 | EUR | German CPI (YoY) (Jun) | 2.0% | 2.0% | 2.1% |
 | 13:00 | BRL | CPI (YoY) (Jun) |  | 5.32% | 5.32% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,980K | 1,964K |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
