@@ -30,8 +30,8 @@
 | 13:00 | BRL | CPI (MoM) (Jun) | 0.24% | 0.20% | 0.26% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) | 0.31% |  | 0.32% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 235.50K |  | 241.25K |
-| 15:30 | USD | Natural Gas Storage |  | 56B | 55B |
-| 16:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 23 min | USD | Natural Gas Storage |  | 56B | 55B |
+| 53 min | GBP | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.300% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.257T |

@@ -35,9 +35,9 @@
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,965K | 1,980K | 1,955K |
 | 13:30 | USD | High | Initial Jobless Claims | 227K | 236K | 232K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 235.50K |  | 241.25K |
-| 15:30 | USD | Low | Natural Gas Storage |  | 56B | 55B |
-| 16:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 23 min | USD | Low | Natural Gas Storage |  | 56B | 55B |
+| 53 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 53 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.240% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.300% |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.844% |
