@@ -14,9 +14,9 @@
 | 07:00 | NOK | Core Inflation (MoM) (Jun) | 0.5% | 0.4% | 0.2% |
 | 07:00 | NOK | CPI (MoM) (Jun) | 0.2% |  | 0.4% |
 | 07:00 | NOK | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.0% |
-| 35 min | EUR | French Current Account (May) |  |  | -4.10B |
-| 09:00 | EUR | Italian Industrial Production (MoM) (May) |  | -0.2% | 1.0% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (May) |  | 0.2% | 0.3% |
+| 07:45 | EUR | French Current Account (May) | -3.10B |  | -6.60B |
+| 52 min | EUR | Italian Industrial Production (MoM) (May) |  | -0.2% | 1.0% |
+| 52 min | EUR | Italian Industrial Production (YoY) (May) |  | 0.2% | 0.3% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.983% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.1 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.01 |
