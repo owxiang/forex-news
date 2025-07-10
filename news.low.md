@@ -12,8 +12,8 @@
 | 07:00 | EUR | German HICP (MoM) (Jun) |  | 0.1% | 0.2% |
 | 07:00 | NOK | Core CPI YTD (Jun) |  | 3.0% | 2.8% |
 | 07:00 | NOK | Core Inflation (MoM) (Jun) |  | 0.4% | 0.2% |
-| 07:00 | NOK | CPI (MoM) (Jun) |  |  | 0.4% |
 | 07:00 | NOK | CPI (YoY) (Jun) |  | 3.1% | 3.0% |
+| 07:00 | NOK | CPI (MoM) (Jun) |  |  | 0.4% |
 | 07:45 | EUR | French Current Account (May) |  |  | -4.10B |
 | 09:00 | EUR | Italian Industrial Production (MoM) (May) |  | -0.2% | 1.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (May) |  | 0.0% | 0.3% |
