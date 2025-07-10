@@ -15,17 +15,17 @@
 | 07:00 | NOK | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Jun) | 0.2% |  | 0.4% |
 | 07:45 | EUR | French Current Account (May) | -3.10B |  | -6.60B |
-| 09:00 | EUR | Italian Industrial Production (YoY) (May) | -0.9% | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (May) | -0.7% | -0.2% | 0.9% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (May) | -0.9% | 0.2% | 0.1% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 1.983% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.1 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.01 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.16 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 42.00 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 49.99 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.96 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (May) |  |  | -6.3% |
+| 51 min | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.1 |
+| 51 min | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.01 |
+| 51 min | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 47.16 |
+| 51 min | EUR | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 42.00 |
+| 51 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 49.99 |
+| 51 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.96 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (May) |  |  | 1.9% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (May) |  |  | -6.3% |
 | 13:00 | BRL | CPI (MoM) (Jun) |  | 0.20% | 0.26% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.32% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 241.50K |
