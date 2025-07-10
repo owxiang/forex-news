@@ -43,6 +43,6 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.889% |  | 4.844% |
 | 18:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 19:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,660B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.257T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,662B |  | 6,660B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.342T |  | 3.257T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jun) |  |  | 47.5 |
