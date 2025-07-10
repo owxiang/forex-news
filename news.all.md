@@ -10,8 +10,8 @@
 | 02:00 | KRW | Low | Interest Rate Decision (Jul) | 2.50% | 2.50% | 2.50% |
 | 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.0% | 0.0% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.0% | 2.0% | 2.1% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.0% | 2.0% | 2.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.0% | 2.0% | 2.1% |
 | 07:00 | NOK | Low | Core CPI YTD (Jun) | 3.1% | 3.0% | 2.8% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jun) | 0.5% | 0.4% | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.0% |
@@ -26,15 +26,15 @@
 | 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jul) | 41.85 |  | 42.00 |
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 47.76 |  | 49.99 |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 44.98 |  | 45.96 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | 0.5% |  | -6.4% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | 2.0% |  | 1.7% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | 0.5% |  | -6.4% |
 | 12:30 | INR | Low | M3 Money Supply | 9.6% |  | 9.8% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jun) | 5.35% | 5.32% | 5.32% |
 | 13:00 | BRL | Low | CPI (MoM) (Jun) | 0.24% | 0.20% | 0.26% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jun) | 5.35% | 5.32% | 5.32% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) | 0.31% |  | 0.32% |
-| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,980K | 1,964K |
-| 19 min | USD | High | Initial Jobless Claims |  | 236K | 233K |
-| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 241.50K |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,965K | 1,980K | 1,955K |
+| 13:30 | USD | High | Initial Jobless Claims | 227K | 236K | 232K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 235.50K |  | 241.25K |
 | 15:30 | USD | Low | Natural Gas Storage |  | 56B | 55B |
 | 16:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
