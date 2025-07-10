@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Jun) | -7% |  | -7% |
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | 182.8B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 651.3B |
-| 43 min | JPY | Low | PPI (MoM) (Jun) |  | -0.2% | -0.2% |
-| 43 min | JPY | Low | PPI (YoY) (Jun) |  | 2.9% | 3.2% |
-| 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Low | Interest Rate Decision (Jul) |  | 2.50% | 2.50% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,656.8B |  | 182.8B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 611.7B |  | 651.3B |
+| 00:50 | JPY | Low | PPI (MoM) (Jun) | -0.2% | -0.2% | -0.1% |
+| 00:50 | JPY | Low | PPI (YoY) (Jun) | 2.9% | 2.9% | 3.3% |
+| 29 min | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 29 min | KRW | Low | Interest Rate Decision (Jul) |  | 2.50% | 2.50% |
 | 07:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.0% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.0% | 2.1% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) |  | 0.1% | 0.2% |

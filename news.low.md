@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Foreign Bonds Buying |  |  | 182.8B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 651.3B |
-| 43 min | JPY | PPI (MoM) (Jun) |  | -0.2% | -0.2% |
-| 43 min | JPY | PPI (YoY) (Jun) |  | 2.9% | 3.2% |
-| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (Jul) |  | 2.50% | 2.50% |
+| 00:50 | JPY | Foreign Bonds Buying | 1,656.8B |  | 182.8B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 611.7B |  | 651.3B |
+| 00:50 | JPY | PPI (MoM) (Jun) | -0.2% | -0.2% | -0.1% |
+| 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 3.3% |
+| 29 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 29 min | KRW | Interest Rate Decision (Jul) |  | 2.50% | 2.50% |
 | 07:00 | EUR | German HICP (MoM) (Jun) |  | 0.1% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jun) |  | 2.0% | 2.1% |
 | 07:00 | NOK | Core CPI YTD (Jun) |  | 3.0% | 2.8% |
