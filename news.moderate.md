@@ -7,6 +7,6 @@
 | 13:30 | USD | Continuing Jobless Claims | 1,965K | 1,980K | 1,955K |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:15 | USD | Fed Waller Speaks |  |  |  |
-| 21 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 19:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,660B |
 | 23:30 | NZD | Business NZ PMI (Jun) |  |  | 47.5 |

@@ -8,8 +8,8 @@
 | 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 3.3% |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Jul) | 2.50% | 2.50% | 2.50% |
-| 07:00 | EUR | German HICP (YoY) (Jun) | 2.0% | 2.0% | 2.1% |
 | 07:00 | EUR | German HICP (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Jun) | 2.0% | 2.0% | 2.1% |
 | 07:00 | NOK | Core CPI YTD (Jun) | 3.1% | 3.0% | 2.8% |
 | 07:00 | NOK | Core Inflation (MoM) (Jun) | 0.5% | 0.4% | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.0% |
