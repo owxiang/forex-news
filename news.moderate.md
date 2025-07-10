@@ -9,4 +9,4 @@
 | 18:15 | USD | Fed Waller Speaks |  |  |  |
 | 19:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet | 6,662B |  | 6,660B |
-| 23:30 | NZD | Business NZ PMI (Jun) |  |  | 47.5 |
+| 24 min | NZD | Business NZ PMI (Jun) |  |  | 47.5 |
