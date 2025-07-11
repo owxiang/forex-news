@@ -12,8 +12,8 @@
 | 07:00 | GBP | High | GDP (MoM) (May) | -0.1% | 0.1% | -0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 0.7% | 0.7% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.6% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (May) | -0.3% | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | -0.9% | -0.1% | -0.6% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (May) | -0.3% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.3% | 0.4% | 1.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | -1.0% | -0.1% | -0.7% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.5% | 0.4% | 0.7% |
