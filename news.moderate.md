@@ -11,10 +11,10 @@
 | 07:45 | EUR | French HICP (MoM) (Jun) | 0.4% | 0.4% | -0.2% |
 | 08:00 | CHF | SECO Consumer Climate (Jun) | -32 | -35 | -37 |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 54 min | GBP | NIESR Monthly GDP Tracker (Jun) |  |  | 0.4% |
-| 13:30 | CAD | Building Permits (MoM) (May) |  | -1.5% | -6.6% |
-| 13:30 | CAD | Employment Change (Jun) |  | 0.9K | 8.8K |
-| 13:30 | CAD | Unemployment Rate (Jun) |  | 7.1% | 7.0% |
+| 13:00 | GBP | NIESR Monthly GDP Tracker (Jun) | 0.2% |  | 0.5% |
+| 19 min | CAD | Building Permits (MoM) (May) |  | -1.5% | -6.6% |
+| 19 min | CAD | Employment Change (Jun) |  | 0.9K | 8.8K |
+| 19 min | CAD | Unemployment Rate (Jun) |  | 7.1% | 7.0% |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 539 |
