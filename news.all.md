@@ -7,15 +7,15 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 49.67 |  | 50.43 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) | 35.93 |  | 37.06 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) | 71.33 |  | 69.52 |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
 | 07:00 | GBP | High | GDP (MoM) (May) |  | 0.1% | -0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (May) |  | 0.7% | 0.9% |
 | 07:00 | GBP | Low | Index of Services |  | 0.4% | 0.6% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (May) |  | 0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (May) |  | -0.1% | -0.6% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (May) |  | 0.4% | 0.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) |  | -0.1% | -0.9% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (May) |  | 0.4% | 0.4% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Trade Balance (May) |  | -21.10B | -23.21B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) |  |  | -8.65B |
@@ -26,8 +26,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) |  |  | 0.90% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.3% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) |  | 0.9% | 0.7% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.4% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.4% | -0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 0.60% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) |  | -35 | -37 |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -36,8 +36,8 @@
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.02% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.4% |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jun) |  |  | 0.4% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (May) |  | -1.9% | -4.0% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 23.5B |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.8% |
