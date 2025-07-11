@@ -7,8 +7,8 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 49.67 |  | 50.43 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) | 35.93 |  | 37.06 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 71.33 |  | 69.52 |
-| 07:00 | GBP | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
+| 07:00 | GBP | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
 | 07:00 | GBP | GDP (YoY) (May) |  | 0.7% | 0.9% |
 | 07:00 | GBP | Index of Services |  | 0.4% | 0.6% |
 | 07:00 | GBP | Industrial Production (YoY) (May) |  | 0.1% | -0.3% |
@@ -25,8 +25,8 @@
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.24% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.02% |
 | 12:30 | INR | Deposit Growth |  |  | 10.4% |
-| 13:00 | MXN | Industrial Production (YoY) (May) |  | -1.9% | -4.0% |
 | 13:00 | MXN | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |
+| 13:00 | MXN | Industrial Production (YoY) (May) |  | -1.9% | -4.0% |
 | 13:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 23.5B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.8% |
