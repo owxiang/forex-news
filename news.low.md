@@ -27,11 +27,11 @@
 | 12:30 | INR | Bank Loan Growth | 9.5% |  | 9.6% |
 | 12:30 | INR | Deposit Growth | 10.1% |  | 10.4% |
 | 12:30 | INR | FX Reserves, USD | 699.74B |  | 702.78B |
-| 13:00 | MXN | Industrial Production (MoM) (May) | 0.6% | -0.1% | 0.2% |
 | 13:00 | MXN | Industrial Production (YoY) (May) | -0.8% | -1.9% | -4.0% |
+| 13:00 | MXN | Industrial Production (MoM) (May) | 0.6% | -0.1% | 0.2% |
 | 13:00 | EUR | German Current Account Balance n.s.a (May) | 9.6B |  | 18.9B |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | 0.1% |  | 0.4% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) | 3.6% |  | 1.8% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | 0.1% |  | 0.4% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jun) | 3.2% |  | 3.5% |
 | 13:30 | CAD | Full Employment Change (Jun) | 13.5K |  | 57.7K |
 | 13:30 | CAD | Part Time Employment Change (Jun) | 69.5K |  | -48.8K |
