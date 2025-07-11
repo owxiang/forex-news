@@ -12,8 +12,8 @@
 | 07:00 | GBP | High | GDP (MoM) (May) | -0.1% | 0.1% | -0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 0.7% | 0.7% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.6% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | -0.9% | -0.1% | -0.6% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (May) | -0.3% | 0.1% | 0.3% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | -0.9% | -0.1% | -0.6% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.3% | 0.4% | 1.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | -1.0% | -0.1% | -0.7% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.5% | 0.4% | 0.7% |
@@ -24,10 +24,10 @@
 | 07:00 | NOK | Low | Trade Balance (Jun) | 47.4B |  | 46.1B |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 1.00% |  | 0.90% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.40% |  | 0.30% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 1.0% | 0.9% | 0.7% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.4% | 0.3% | -0.1% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.4% | 0.4% | -0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 1.0% | 0.9% | 0.7% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.4% | 0.4% | -0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 0.90% |  | 0.60% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) | -32 | -35 | -37 |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -40,8 +40,8 @@
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jun) | 0.2% |  | 0.5% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (May) | -0.8% | -1.9% | -180.0% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (May) | 0.6% | -0.1% | 0.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 3.6% |  | 1.8% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.1% |  | 0.4% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 3.6% |  | 1.8% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jun) | 3.2% |  | 3.5% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (May) | 12.0% | -1.5% | -6.8% |
 | 13:30 | CAD | Moderate | Employment Change (Jun) | 83.1K | 0.9K | 8.8K |
