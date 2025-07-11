@@ -12,10 +12,10 @@
 | 07:00 | GBP | High | GDP (MoM) (May) | -0.1% | 0.1% | -0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 0.7% | 0.7% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.6% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (May) | -0.3% | 0.1% | 0.3% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | -0.9% | -0.1% | -0.6% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | -1.0% | -0.1% | -0.7% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (May) | -0.3% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.3% | 0.4% | 1.3% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | -1.0% | -0.1% | -0.7% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.5% | 0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Trade Balance (May) | -21.69B | -21.10B | -22.42B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -9.32B |  | -9.96B |
@@ -24,10 +24,10 @@
 | 07:00 | NOK | Low | Trade Balance (Jun) | 47.4B |  | 46.1B |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 1.00% |  | 0.90% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.40% |  | 0.30% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.4% | 0.3% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) | 1.0% | 0.9% | 0.7% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.4% | 0.3% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.4% | 0.4% | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 0.90% |  | 0.60% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) | -32 | -35 | -37 |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -38,18 +38,18 @@
 | 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.4% |
 | 12:30 | INR | Low | FX Reserves, USD | 699.74B |  | 702.78B |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jun) | 0.2% |  | 0.5% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (May) | 0.6% | -0.1% | 0.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (May) | -0.8% | -1.9% | -180.0% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.1% |  | 0.2% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (May) | 0.6% | -0.1% | 0.2% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 3.6% |  | 1.8% |
-| 19 min | CAD | Low | Avg hourly wages Permanent employee (Jun) |  |  | 3.5% |
-| 19 min | CAD | Moderate | Building Permits (MoM) (May) |  | -1.5% | -6.6% |
-| 19 min | CAD | Moderate | Employment Change (Jun) |  | 0.9K | 8.8K |
-| 19 min | CAD | Low | Full Employment Change (Jun) |  |  | 57.7K |
-| 19 min | CAD | Low | Part Time Employment Change (Jun) |  |  | -48.8K |
-| 19 min | CAD | Low | Participation Rate (Jun) |  |  | 65.3% |
-| 19 min | CAD | Moderate | Unemployment Rate (Jun) |  | 7.1% | 7.0% |
-| 34 min | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 23.5B |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.1% |  | 0.4% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jun) | 3.2% |  | 3.5% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (May) | 12.0% | -1.5% | -6.8% |
+| 13:30 | CAD | Moderate | Employment Change (Jun) | 83.1K | 0.9K | 8.8K |
+| 13:30 | CAD | Low | Full Employment Change (Jun) | 13.5K |  | 57.7K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jun) | 69.5K |  | -48.8K |
+| 13:30 | CAD | Low | Participation Rate (Jun) | 65.4% |  | 65.3% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Jun) | 6.9% | 7.1% | 7.0% |
+| 13:30 | EUR | Low | German Current Account Balance n.s.a (May) | 9.6B |  | 23.5B |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 425 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 539 |
