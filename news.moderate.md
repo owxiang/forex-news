@@ -11,7 +11,7 @@
 | 07:45 | EUR | French HICP (MoM) (Jun) | 0.4% | 0.4% | -0.2% |
 | 08:00 | CHF | SECO Consumer Climate (Jun) | -32 | -35 | -37 |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker (Jun) |  |  | 0.4% |
+| 54 min | GBP | NIESR Monthly GDP Tracker (Jun) |  |  | 0.4% |
 | 13:30 | CAD | Building Permits (MoM) (May) |  | -1.5% | -6.6% |
 | 13:30 | CAD | Employment Change (Jun) |  | 0.9K | 8.8K |
 | 13:30 | CAD | Unemployment Rate (Jun) |  | 7.1% | 7.0% |

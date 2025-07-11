@@ -16,20 +16,20 @@
 | 07:00 | EUR | German WPI (YoY) (Jun) | 0.9% |  | 0.4% |
 | 07:00 | EUR | German WPI (MoM) (Jun) | 0.2% | 0.2% | -0.3% |
 | 07:00 | NOK | Trade Balance (Jun) | 47.4B |  | 46.1B |
-| 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.40% |  | 0.30% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jun) | 1.00% |  | 0.90% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.40% |  | 0.30% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 1.0% | 0.9% | 0.7% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) | 0.90% |  | 0.60% |
 | 10:10 | EUR | Italian 15-Year BTP Auction | 4.03% |  | 4.06% |
 | 10:10 | EUR | Italian 3-Year BTP Auction | 2.47% |  | 2.24% |
 | 11:00 | EUR | Italian 7-Year BTP Auction | 3.17% |  | 3.02% |
-| 12:30 | INR | FX Reserves, USD |  |  | 702.78B |
-| 13:00 | MXN | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |
-| 13:00 | MXN | Industrial Production (YoY) (May) |  | -1.9% | -4.0% |
-| 13:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 23.5B |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.8% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.2% |
+| 24 min | INR | FX Reserves, USD |  |  | 702.78B |
+| 54 min | MXN | Industrial Production (YoY) (May) |  | -1.9% | -4.0% |
+| 54 min | MXN | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |
+| 54 min | EUR | German Current Account Balance n.s.a (May) |  |  | 23.5B |
+| 54 min | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.8% |
+| 54 min | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.2% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jun) |  |  | 3.5% |
 | 13:30 | CAD | Full Employment Change (Jun) |  |  | 57.7K |
 | 13:30 | CAD | Part Time Employment Change (Jun) |  |  | -48.8K |
