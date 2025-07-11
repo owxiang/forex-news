@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 41.48 |
-| 25 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 59.04 |
-| 25 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.43 |
-| 25 min | JPY | Thomson Reuters IPSOS PCSI (Jul) |  |  | 37.06 |
-| 25 min | CNY | China Thomson Reuters IPSOS PCSI (Jul) |  |  | 69.52 |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 46.29 |  | 41.48 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 60.89 |  | 59.04 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 49.67 |  | 50.43 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) | 35.93 |  | 37.06 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 71.33 |  | 69.52 |
 | 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
 | 07:00 | GBP | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
 | 07:00 | GBP | GDP (YoY) (May) |  | 0.7% | 0.9% |

@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 25 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 41.48 |
-| 25 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 59.04 |
-| 25 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.43 |
-| 25 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 37.06 |
-| 25 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) |  |  | 69.52 |
+| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 46.29 |  | 41.48 |
+| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 60.89 |  | 59.04 |
+| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 49.67 |  | 50.43 |
+| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) | 35.93 |  | 37.06 |
+| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) | 71.33 |  | 69.52 |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
 | 07:00 | GBP | High | GDP (MoM) (May) |  | 0.1% | -0.3% |
@@ -26,8 +26,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) |  |  | 0.90% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.3% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) |  | 0.9% | 0.7% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 0.8% | 0.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.4% | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 0.8% | 0.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 0.60% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) |  | -35 | -37 |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
