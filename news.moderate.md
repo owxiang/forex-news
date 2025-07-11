@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 51 min | GBP | Industrial Production (MoM) (May) |  | -0.1% | -0.6% |
-| 51 min | GBP | Manufacturing Production (MoM) (May) |  | -0.1% | -0.9% |
-| 51 min | GBP | Monthly GDP 3M/3M Change (May) |  | 0.4% | 0.7% |
-| 51 min | GBP | Trade Balance (May) |  | -21.10B | -23.21B |
-| 51 min | GBP | Trade Balance Non-EU (May) |  |  | -8.65B |
-| 07:45 | EUR | French CPI (MoM) (Jun) |  | 0.3% | -0.1% |
-| 07:45 | EUR | French HICP (MoM) (Jun) |  | 0.4% | -0.2% |
-| 08:00 | CHF | SECO Consumer Climate (Jun) |  | -35 | -37 |
+| 07:00 | GBP | Industrial Production (MoM) (May) | -0.9% | -0.1% | -0.6% |
+| 07:00 | GBP | Manufacturing Production (MoM) (May) | -1.0% | -0.1% | -0.9% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (May) | 0.5% | 0.4% | 0.7% |
+| 07:00 | GBP | Trade Balance (May) | -21.69B | -21.10B | -22.42B |
+| 07:00 | GBP | Trade Balance Non-EU (May) | -9.32B |  | -8.65B |
+| 35 min | EUR | French CPI (MoM) (Jun) |  | 0.3% | -0.1% |
+| 35 min | EUR | French HICP (MoM) (Jun) |  | 0.4% | -0.2% |
+| 50 min | CHF | SECO Consumer Climate (Jun) |  | -35 | -37 |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker (Jun) |  |  | 0.4% |
 | 13:30 | CAD | Building Permits (MoM) (May) |  | -1.5% | -6.6% |

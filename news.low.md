@@ -7,20 +7,20 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 49.67 |  | 50.43 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) | 35.93 |  | 37.06 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 71.33 |  | 69.52 |
-| 51 min | GBP | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
-| 51 min | GBP | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
-| 51 min | GBP | GDP (YoY) (May) |  | 0.7% | 0.9% |
-| 51 min | GBP | Index of Services |  | 0.4% | 0.6% |
-| 51 min | GBP | Industrial Production (YoY) (May) |  | 0.1% | -0.3% |
-| 51 min | GBP | Manufacturing Production (YoY) (May) |  | 0.4% | 0.4% |
-| 51 min | EUR | German WPI (YoY) (Jun) |  |  | 0.4% |
-| 51 min | EUR | German WPI (MoM) (Jun) |  | 0.2% | -0.3% |
-| 51 min | NOK | Trade Balance (Jun) |  |  | 46.1B |
-| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.30% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 0.90% |
-| 07:45 | EUR | French CPI (YoY) (Jun) |  | 0.9% | 0.7% |
-| 07:45 | EUR | French HICP (YoY) (Jun) |  | 0.8% | 0.6% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 0.60% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (May) | 1.2% | 1.7% | 3.6% |
+| 07:00 | GBP | Construction Output (MoM) (May) | -0.6% | 0.2% | 0.8% |
+| 07:00 | GBP | GDP (YoY) (May) | 0.7% | 0.7% | 1.1% |
+| 07:00 | GBP | Index of Services | 0.4% | 0.4% | 0.6% |
+| 07:00 | GBP | Industrial Production (YoY) (May) | -0.3% | 0.1% | -0.3% |
+| 07:00 | GBP | Manufacturing Production (YoY) (May) | 0.3% | 0.4% | 1.3% |
+| 07:00 | EUR | German WPI (YoY) (Jun) | 0.9% |  | 0.4% |
+| 07:00 | EUR | German WPI (MoM) (Jun) | 0.2% | 0.2% | -0.3% |
+| 07:00 | NOK | Trade Balance (Jun) | 47.4B |  | 46.1B |
+| 35 min | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.30% |
+| 35 min | EUR | French CPI NSA (YoY) (Jun) |  |  | 0.90% |
+| 35 min | EUR | French CPI (YoY) (Jun) |  | 0.9% | 0.7% |
+| 35 min | EUR | French HICP (YoY) (Jun) |  | 0.8% | 0.6% |
+| 35 min | EUR | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 0.60% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.06% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 2.24% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.02% |
