@@ -24,18 +24,16 @@
 | 07:00 | NOK | Low | Trade Balance (Jun) | 47.4B |  | 46.1B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.40% |  | 0.30% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 1.00% |  | 0.90% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.4% | 0.3% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) | 1.0% | 0.9% | 0.7% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.4% | 0.3% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.4% | 0.4% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 0.90% |  | 0.60% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) | -32 | -35 | -37 |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 2 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.06% |
-| 2 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 2.24% |
-| 2 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.02% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 9.6% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.4% |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction | 4.03% |  | 4.06% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction | 2.47% |  | 2.24% |
+| 11:00 | EUR | Low | Italian 7-Year BTP Auction | 3.17% |  | 3.02% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 702.78B |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jun) |  |  | 0.4% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |

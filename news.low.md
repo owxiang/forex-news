@@ -21,11 +21,9 @@
 | 07:45 | EUR | French CPI (YoY) (Jun) | 1.0% | 0.9% | 0.7% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) | 0.90% |  | 0.60% |
-| 2 min | EUR | Italian 15-Year BTP Auction |  |  | 4.06% |
-| 2 min | EUR | Italian 3-Year BTP Auction |  |  | 2.24% |
-| 2 min | EUR | Italian 7-Year BTP Auction |  |  | 3.02% |
-| 12:30 | INR | Bank Loan Growth |  |  | 9.6% |
-| 12:30 | INR | Deposit Growth |  |  | 10.4% |
+| 10:10 | EUR | Italian 15-Year BTP Auction | 4.03% |  | 4.06% |
+| 10:10 | EUR | Italian 3-Year BTP Auction | 2.47% |  | 2.24% |
+| 11:00 | EUR | Italian 7-Year BTP Auction | 3.17% |  | 3.02% |
 | 12:30 | INR | FX Reserves, USD |  |  | 702.78B |
 | 13:00 | MXN | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |
 | 13:00 | MXN | Industrial Production (YoY) (May) |  | -1.9% | -4.0% |
