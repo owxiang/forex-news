@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (May) |  | -0.1% | -0.6% |
-| 07:00 | GBP | Manufacturing Production (MoM) (May) |  | -0.1% | -0.9% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (May) |  | 0.4% | 0.7% |
-| 07:00 | GBP | Trade Balance (May) |  | -21.10B | -23.21B |
-| 07:00 | GBP | Trade Balance Non-EU (May) |  |  | -8.65B |
+| 51 min | GBP | Industrial Production (MoM) (May) |  | -0.1% | -0.6% |
+| 51 min | GBP | Manufacturing Production (MoM) (May) |  | -0.1% | -0.9% |
+| 51 min | GBP | Monthly GDP 3M/3M Change (May) |  | 0.4% | 0.7% |
+| 51 min | GBP | Trade Balance (May) |  | -21.10B | -23.21B |
+| 51 min | GBP | Trade Balance Non-EU (May) |  |  | -8.65B |
 | 07:45 | EUR | French CPI (MoM) (Jun) |  | 0.3% | -0.1% |
 | 07:45 | EUR | French HICP (MoM) (Jun) |  | 0.4% | -0.2% |
 | 08:00 | CHF | SECO Consumer Climate (Jun) |  | -35 | -37 |

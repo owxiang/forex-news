@@ -7,15 +7,15 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 49.67 |  | 50.43 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) | 35.93 |  | 37.06 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 71.33 |  | 69.52 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
-| 07:00 | GBP | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
-| 07:00 | GBP | GDP (YoY) (May) |  | 0.7% | 0.9% |
-| 07:00 | GBP | Index of Services |  | 0.4% | 0.6% |
-| 07:00 | GBP | Industrial Production (YoY) (May) |  | 0.1% | -0.3% |
-| 07:00 | GBP | Manufacturing Production (YoY) (May) |  | 0.4% | 0.4% |
-| 07:00 | EUR | German WPI (YoY) (Jun) |  |  | 0.4% |
-| 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | -0.3% |
-| 07:00 | NOK | Trade Balance (Jun) |  |  | 46.1B |
+| 51 min | GBP | Construction Output (MoM) (May) |  | 0.2% | 0.9% |
+| 51 min | GBP | U.K. Construction Output (YoY) (May) |  | 1.7% | 3.3% |
+| 51 min | GBP | GDP (YoY) (May) |  | 0.7% | 0.9% |
+| 51 min | GBP | Index of Services |  | 0.4% | 0.6% |
+| 51 min | GBP | Industrial Production (YoY) (May) |  | 0.1% | -0.3% |
+| 51 min | GBP | Manufacturing Production (YoY) (May) |  | 0.4% | 0.4% |
+| 51 min | EUR | German WPI (YoY) (Jun) |  |  | 0.4% |
+| 51 min | EUR | German WPI (MoM) (Jun) |  | 0.2% | -0.3% |
+| 51 min | NOK | Trade Balance (Jun) |  |  | 46.1B |
 | 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.30% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 0.90% |
 | 07:45 | EUR | French CPI (YoY) (Jun) |  | 0.9% | 0.7% |
@@ -27,13 +27,13 @@
 | 12:30 | INR | Deposit Growth |  |  | 10.4% |
 | 13:00 | MXN | Industrial Production (MoM) (May) |  | -0.1% | 0.1% |
 | 13:00 | MXN | Industrial Production (YoY) (May) |  | -1.9% | -4.0% |
-| 13:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 23.5B |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 1.8% |
 | 13:30 | CAD | Avg hourly wages Permanent employee (Jun) |  |  | 3.5% |
 | 13:30 | CAD | Full Employment Change (Jun) |  |  | 57.7K |
 | 13:30 | CAD | Part Time Employment Change (Jun) |  |  | -48.8K |
 | 13:30 | CAD | Participation Rate (Jun) |  |  | 65.3% |
+| 13:30 | EUR | German Current Account Balance n.s.a (May) |  |  | 23.5B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 33.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -155.5K |

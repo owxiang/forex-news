@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | GDP (MoM) (May) |  | 0.1% | -0.3% |
+| 51 min | GBP | GDP (MoM) (May) |  | 0.1% | -0.3% |
