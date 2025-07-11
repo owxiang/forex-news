@@ -18,7 +18,7 @@
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 424 |  | 425 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 537 |  | 539 |
-| 53 min | USD | Federal Budget Balance (Jun) |  | -41.5B | -316.0B |
+| 19:00 | USD | Federal Budget Balance (Jun) | 27.0B | -41.5B | -316.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 31.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 234.7K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 202.0K |

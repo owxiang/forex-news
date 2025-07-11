@@ -7,8 +7,8 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 49.67 |  | 50.43 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) | 35.93 |  | 37.06 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) | 71.33 |  | 69.52 |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 1.2% | 1.7% | 3.6% |
 | 07:00 | GBP | Low | Construction Output (MoM) (May) | -0.6% | 0.2% | 0.8% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 1.2% | 1.7% | 3.6% |
 | 07:00 | GBP | High | GDP (MoM) (May) | -0.1% | 0.1% | -0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 0.7% | 0.7% | 1.1% |
 | 07:00 | GBP | Low | Index of Services | 0.4% | 0.4% | 0.6% |
@@ -19,15 +19,15 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.5% | 0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Trade Balance (May) | -21.69B | -21.10B | -22.42B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -9.32B |  | -9.96B |
-| 07:00 | EUR | Low | German WPI (YoY) (Jun) | 0.9% |  | 0.4% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jun) | 0.2% | 0.2% | -0.3% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jun) | 0.9% |  | 0.4% |
 | 07:00 | NOK | Low | Trade Balance (Jun) | 47.4B |  | 46.1B |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.40% |  | 0.30% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 1.00% |  | 0.90% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.40% |  | 0.30% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.4% | 0.3% | -0.1% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) | 1.0% | 0.9% | 0.7% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.4% | 0.4% | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 0.9% | 0.8% | 0.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 0.90% |  | 0.60% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Jun) | -32 | -35 | -37 |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -38,8 +38,8 @@
 | 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.4% |
 | 12:30 | INR | Low | FX Reserves, USD | 699.74B |  | 702.78B |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker (Jun) | 0.2% |  | 0.5% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (May) | -0.8% | -1.9% | -4.0% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (May) | 0.6% | -0.1% | 0.2% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (May) | -0.8% | -1.9% | -180.0% |
 | 13:00 | EUR | Low | German Current Account Balance n.s.a (May) | 9.6B |  | 18.9B |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.1% |  | 0.4% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 3.6% |  | 1.8% |
@@ -53,7 +53,7 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 424 |  | 425 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 537 |  | 539 |
-| 53 min | USD | Moderate | Federal Budget Balance (Jun) |  | -41.5B | -316.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jun) | 27.0B | -41.5B | -316.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 31.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.7K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 33.7K |
