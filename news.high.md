@@ -1,3 +1,3 @@
-## 13 July 2025 - High Impact Forex News
+## 14 July 2025 - High Impact Forex News
 
 There is no high impact news today.
