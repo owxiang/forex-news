@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | -0.2% |
+| 39 min | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | -0.2% |
