@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
 | 04:00 | CNY | Low | Exports (Jun) | 7.20M |  | 6.30M |
 | 04:00 | CNY | Low | Imports (Jun) | 2.30M |  | -2.10M |
 | 04:00 | CNY | Low | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
@@ -33,5 +33,5 @@
 | 13:00 | BRL | Low | IBC-Br Economic Activity (May) | -0.70% | 0.00% | 0.10% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) | 0.1% | -0.4% | -2.2% |
 | 14:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.255% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.145% |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.255% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.145% |
