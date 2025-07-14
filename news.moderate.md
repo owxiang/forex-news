@@ -9,7 +9,7 @@
 | 07:30 | CHF | PPI (MoM) (Jun) | -0.1% | 0.2% | -0.5% |
 | 07:30 | INR | WPI Inflation (YoY) (Jun) | -0.13% | 0.52% | 0.39% |
 | 08:00 | CNY | New Loans (Jun) | 2,240.0B | 1,960.0B | 620.0B |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 49 min | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | INR | CPI (YoY) (Jun) |  | 2.50% | 2.82% |
 | 13:30 | CAD | Wholesale Sales (MoM) (May) |  | -0.4% | -2.3% |
 | 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
