@@ -6,8 +6,8 @@
 | 04:00 | CNY | Imports (YoY) (Jun) | 1.1% | 1.3% | -3.4% |
 | 04:00 | CNY | Trade Balance (USD) (Jun) | 114.77B | 113.20B | 103.22B |
 | 05:30 | JPY | Industrial Production (MoM) (May) | -0.1% | 0.5% | -1.1% |
-| 07:30 | CHF | PPI (MoM) (Jun) |  | 0.2% | -0.5% |
-| 07:30 | INR | WPI Inflation (YoY) (Jun) |  | 0.52% | 0.39% |
+| 19 min | CHF | PPI (MoM) (Jun) |  | 0.2% | -0.5% |
+| 19 min | INR | WPI Inflation (YoY) (Jun) |  | 0.52% | 0.39% |
 | 11:00 | CNY | New Loans (Jun) |  | 1,960.0B | 620.0B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | INR | CPI (YoY) (Jun) |  | 2.50% | 2.82% |

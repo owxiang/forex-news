@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
 | 01:00 | SGD | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 01:00 | SGD | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
 | 04:00 | CNY | Exports (Jun) | 7.20M |  | 6.30M |
@@ -11,10 +11,10 @@
 | 04:00 | CNY | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) | 2.0% |  | 1.3% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) | -1.10 |  | -10.80 |
-| 07:30 | CHF | PPI (YoY) (Jun) |  |  | -0.7% |
-| 07:30 | INR | WPI Food (YoY) (Jun) |  |  | -1.56% |
-| 07:30 | INR | WPI Fuel (YoY) (Jun) |  |  | -2.27% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) |  |  | 2.04% |
+| 19 min | CHF | PPI (YoY) (Jun) |  |  | -0.7% |
+| 19 min | INR | WPI Food (YoY) (Jun) |  |  | -1.56% |
+| 19 min | INR | WPI Fuel (YoY) (Jun) |  |  | -2.27% |
+| 19 min | INR | WPI Manufacturing Inflation (YoY) (Jun) |  |  | 2.04% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.808% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | CNY | M2 Money Stock (YoY) (Jun) |  | 8.2% | 7.9% |
