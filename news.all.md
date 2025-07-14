@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
-| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
+| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 04:00 | CNY | Low | Exports (Jun) | 7.20M |  | 6.30M |
 | 04:00 | CNY | Low | Imports (Jun) | 2.30M |  | -2.10M |
 | 04:00 | CNY | Low | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
@@ -25,10 +25,10 @@
 | 08:00 | CNY | Moderate | New Loans (Jun) | 2,240.0B | 1,960.0B | 620.0B |
 | 08:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jun) | 7.1% | 7.0% | 7.1% |
 | 08:00 | CNY | Low | Chinese Total Social Financing (Jun) | 4,200.0B | 3,650.0B | 2,290.0B |
-| 19 min | EUR | Low | German 12-Month Bubill Auction |  |  | 1.808% |
-| 49 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 49 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:30 | INR | Moderate | CPI (YoY) (Jun) |  | 2.50% | 2.82% |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction | 1.798% |  | 1.808% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 22 min | INR | Moderate | CPI (YoY) (Jun) |  | 2.50% | 2.82% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  | 0.00% | 0.20% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  | -0.4% | -2.3% |
