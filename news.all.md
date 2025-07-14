@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | JPY | Low | Core Machinery Orders (MoM) (May) |  | -1.4% | -9.1% |
-| 43 min | JPY | Low | Core Machinery Orders (YoY) (May) |  | 3.4% | 6.6% |
-| 53 min | SGD | Low | GDP (YoY) (Q2) |  | 3.5% | 3.9% |
-| 53 min | SGD | Low | GDP (QoQ) (Q2) |  | 0.7% | -2.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
+| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 3.9% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 5.6% | 0.7% | -2.6% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) |  |  | 1.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) |  | 0.5% | 0.5% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (May) |  |  | -10.90 |
