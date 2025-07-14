@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
-| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
+| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 04:00 | CNY | Low | Exports (Jun) | 7.20M |  | 6.30M |
 | 04:00 | CNY | Low | Imports (Jun) | 2.30M |  | -2.10M |
 | 04:00 | CNY | Low | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
