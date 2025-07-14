@@ -15,8 +15,8 @@
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) | 2.0% |  | 1.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) | -0.1% | 0.5% | -1.1% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (May) | -1.10 |  | -10.80 |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jun) | -0.1% | 0.2% | -0.5% |
 | 07:30 | CHF | Low | PPI (YoY) (Jun) | -0.7% |  | -0.7% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jun) | -0.1% | 0.2% | -0.5% |
 | 07:30 | INR | Low | WPI Food (YoY) (Jun) | -3.75% |  | -1.56% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jun) | -2.65% |  | -2.27% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jun) | -0.13% | 0.52% | 0.39% |
