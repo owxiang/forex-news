@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
 | 01:00 | SGD | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 01:00 | SGD | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
 | 04:00 | CNY | Exports (Jun) | 7.20M |  | 6.30M |
