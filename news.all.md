@@ -29,12 +29,12 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:30 | INR | Moderate | CPI (YoY) (Jun) | 2.10% | 2.50% | 2.82% |
-| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 54 min | BRL | Low | IBC-Br Economic Activity (May) |  | 0.00% | 0.20% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  | -0.4% | -2.3% |
-| 14:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.892% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 1.924% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 1.903% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (May) | -0.70% | 0.00% | 0.20% |
+| 17 min | CAD | Moderate | Wholesale Sales (MoM) (May) |  | -0.4% | -2.3% |
+| 47 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 47 min | EUR | Low | French 12-Month BTF Auction |  |  | 1.892% |
+| 47 min | EUR | Low | French 3-Month BTF Auction |  |  | 1.924% |
+| 47 min | EUR | Low | French 6-Month BTF Auction |  |  | 1.903% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.255% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.145% |
