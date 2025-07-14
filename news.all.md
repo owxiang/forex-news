@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
-| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 3.9% |
-| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 5.6% | 0.7% | -2.6% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
+| 01:00 | SGD | Low | GDP (QoQ) (Q2) | 1.4% | 0.7% | -0.5% |
+| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) |  |  | 1.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) |  | 0.5% | 0.5% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (May) |  |  | -10.90 |
-| 07:30 | CHF | Low | PPI (YoY) (Jun) |  |  | -0.7% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jun) |  | 0.2% | -0.5% |
+| 07:30 | CHF | Low | PPI (YoY) (Jun) |  |  | -0.7% |
 | 07:30 | INR | Low | WPI Food (YoY) (Jun) |  |  | -1.56% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jun) |  |  | -2.27% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jun) |  | 0.52% | 0.39% |

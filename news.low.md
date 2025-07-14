@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
-| 01:00 | SGD | GDP (YoY) (Q2) | 4.3% | 3.5% | 3.9% |
-| 01:00 | SGD | GDP (QoQ) (Q2) | 5.6% | 0.7% | -2.6% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
+| 01:00 | SGD | GDP (QoQ) (Q2) | 1.4% | 0.7% | -0.5% |
+| 01:00 | SGD | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) |  |  | 1.3% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) |  |  | -10.90 |
 | 07:30 | CHF | PPI (YoY) (Jun) |  |  | -0.7% |
