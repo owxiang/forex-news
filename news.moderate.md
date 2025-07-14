@@ -11,5 +11,5 @@
 | 08:00 | CNY | New Loans (Jun) | 2,240.0B | 1,960.0B | 620.0B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:30 | INR | CPI (YoY) (Jun) | 2.10% | 2.50% | 2.82% |
-| 17 min | CAD | Wholesale Sales (MoM) (May) |  | -0.4% | -2.3% |
-| 47 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | CAD | Wholesale Sales (MoM) (May) | 0.1% | -0.4% | -2.2% |
+| 14:00 | GBP | BoE Gov Bailey Speaks |  |  |  |

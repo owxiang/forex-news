@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
-| 01:00 | SGD | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
 | 01:00 | SGD | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
+| 01:00 | SGD | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
 | 04:00 | CNY | Exports (Jun) | 7.20M |  | 6.30M |
 | 04:00 | CNY | Imports (Jun) | 2.30M |  | -2.10M |
 | 04:00 | CNY | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
@@ -21,9 +21,6 @@
 | 10:30 | EUR | German 12-Month Bubill Auction | 1.798% |  | 1.808% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (May) | -0.70% | 0.00% | 0.20% |
-| 47 min | EUR | French 12-Month BTF Auction |  |  | 1.892% |
-| 47 min | EUR | French 3-Month BTF Auction |  |  | 1.924% |
-| 47 min | EUR | French 6-Month BTF Auction |  |  | 1.903% |
+| 13:00 | BRL | IBC-Br Economic Activity (May) | -0.70% | 0.00% | 0.10% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.255% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.145% |
