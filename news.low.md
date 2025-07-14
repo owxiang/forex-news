@@ -11,15 +11,15 @@
 | 04:00 | CNY | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) | 2.0% |  | 1.3% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) | -1.10 |  | -10.80 |
-| 19 min | CHF | PPI (YoY) (Jun) |  |  | -0.7% |
-| 19 min | INR | WPI Food (YoY) (Jun) |  |  | -1.56% |
-| 19 min | INR | WPI Fuel (YoY) (Jun) |  |  | -2.27% |
-| 19 min | INR | WPI Manufacturing Inflation (YoY) (Jun) |  |  | 2.04% |
+| 07:30 | CHF | PPI (YoY) (Jun) | -0.7% |  | -0.7% |
+| 07:30 | INR | WPI Food (YoY) (Jun) | -3.75% |  | -1.56% |
+| 07:30 | INR | WPI Fuel (YoY) (Jun) | -2.65% |  | -2.27% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) | 1.97% |  | 2.04% |
+| 08:01 | CNY | M2 Money Stock (YoY) (Jun) | 8.3% | 8.2% | 7.9% |
+| 08:01 | CNY | Outstanding Loan Growth (YoY) (Jun) | 7.1% |  | 7.1% |
+| 08:02 | CNY | Chinese Total Social Financing (Jun) | 4,200.0B | 3,650.0B | 2,290.0B |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 1.808% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | M2 Money Stock (YoY) (Jun) |  | 8.2% | 7.9% |
-| 11:00 | CNY | Outstanding Loan Growth (YoY) (Jun) |  |  | 7.1% |
-| 11:00 | CNY | Chinese Total Social Financing (Jun) |  | 3,650.0B | 2,290.0B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (May) |  |  | 0.20% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.892% |
