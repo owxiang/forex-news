@@ -22,5 +22,5 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (May) | -0.70% | 0.00% | 0.10% |
-| 22 min | USD | 3-Month Bill Auction |  |  | 4.255% |
-| 22 min | USD | 6-Month Bill Auction |  |  | 4.145% |
+| 16:30 | USD | 3-Month Bill Auction | 4.245% |  | 4.255% |
+| 16:30 | USD | 6-Month Bill Auction | 4.125% |  | 4.145% |

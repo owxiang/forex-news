@@ -33,5 +33,5 @@
 | 13:00 | BRL | Low | IBC-Br Economic Activity (May) | -0.70% | 0.00% | 0.10% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) | 0.1% | -0.4% | -2.2% |
 | 14:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.255% |
-| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.145% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 4.245% |  | 4.255% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.125% |  | 4.145% |
