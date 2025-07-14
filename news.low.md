@@ -20,8 +20,8 @@
 | 08:00 | CNY | Chinese Total Social Financing (Jun) | 4,200.0B | 3,650.0B | 2,290.0B |
 | 10:30 | EUR | German 12-Month Bubill Auction | 1.798% |  | 1.808% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (May) |  | 0.00% | 0.20% |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
+| 54 min | BRL | IBC-Br Economic Activity (May) |  | 0.00% | 0.20% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.892% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.924% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.903% |

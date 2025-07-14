@@ -28,9 +28,9 @@
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 1.798% |  | 1.808% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 22 min | INR | Moderate | CPI (YoY) (Jun) |  | 2.50% | 2.82% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  | 0.00% | 0.20% |
+| 11:30 | INR | Moderate | CPI (YoY) (Jun) | 2.10% | 2.50% | 2.82% |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 54 min | BRL | Low | IBC-Br Economic Activity (May) |  | 0.00% | 0.20% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) |  | -0.4% | -2.3% |
 | 14:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 1.892% |
