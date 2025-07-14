@@ -4,17 +4,17 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -0.6% | -1.4% | -9.1% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 4.4% | 3.4% | 6.6% |
-| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
 | 01:00 | SGD | Low | GDP (QoQ) (Q2) | 5.6% | 0.7% | -0.5% |
-| 04:02 | CNY | Moderate | Exports (YoY) (Jun) | 5.8% | 5.0% | 4.8% |
-| 04:02 | CNY | Moderate | Imports (YoY) (Jun) | 1.1% | 1.3% | -3.4% |
-| 04:02 | CNY | Moderate | Trade Balance (USD) (Jun) | 114.77B | 113.20B | 103.22B |
-| 04:07 | CNY | Low | Exports (Jun) | 7.20M |  | 6.30M |
-| 04:07 | CNY | Low | Imports (Jun) | 2.30M |  | -2.10M |
-| 04:07 | CNY | Low | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
-| 54 min | JPY | Low | Capacity Utilization (MoM) (May) |  |  | 1.3% |
-| 54 min | JPY | Moderate | Industrial Production (MoM) (May) |  | 0.5% | 0.5% |
-| 54 min | JPY | Low | Tertiary Industry Activity Index (May) |  |  | -10.90 |
+| 01:00 | SGD | Low | GDP (YoY) (Q2) | 4.3% | 3.5% | 4.1% |
+| 04:00 | CNY | Low | Exports (Jun) | 7.20M |  | 6.30M |
+| 04:00 | CNY | Low | Imports (Jun) | 2.30M |  | -2.10M |
+| 04:00 | CNY | Low | Trade Balance (Jun) | 825.96B | 785.00B | 743.56B |
+| 04:00 | CNY | Moderate | Exports (YoY) (Jun) | 5.8% | 5.0% | 4.8% |
+| 04:00 | CNY | Moderate | Imports (YoY) (Jun) | 1.1% | 1.3% | -3.4% |
+| 04:00 | CNY | Moderate | Trade Balance (USD) (Jun) | 114.77B | 113.20B | 103.22B |
+| 8 min | JPY | Low | Capacity Utilization (MoM) (May) |  |  | 1.3% |
+| 8 min | JPY | Moderate | Industrial Production (MoM) (May) |  | 0.5% | -1.1% |
+| 8 min | JPY | Low | Tertiary Industry Activity Index (May) |  |  | -10.90 |
 | 07:30 | CHF | Low | PPI (YoY) (Jun) |  |  | -0.7% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Jun) |  | 0.2% | -0.5% |
 | 07:30 | INR | Low | WPI Food (YoY) (Jun) |  |  | -1.56% |

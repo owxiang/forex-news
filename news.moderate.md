@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:02 | CNY | Exports (YoY) (Jun) | 5.8% | 5.0% | 4.8% |
-| 04:02 | CNY | Imports (YoY) (Jun) | 1.1% | 1.3% | -3.4% |
-| 04:02 | CNY | Trade Balance (USD) (Jun) | 114.77B | 113.20B | 103.22B |
-| 54 min | JPY | Industrial Production (MoM) (May) |  | 0.5% | 0.5% |
+| 04:00 | CNY | Exports (YoY) (Jun) | 5.8% | 5.0% | 4.8% |
+| 04:00 | CNY | Imports (YoY) (Jun) | 1.1% | 1.3% | -3.4% |
+| 04:00 | CNY | Trade Balance (USD) (Jun) | 114.77B | 113.20B | 103.22B |
+| 8 min | JPY | Industrial Production (MoM) (May) |  | 0.5% | -1.1% |
 | 07:30 | CHF | PPI (MoM) (Jun) |  | 0.2% | -0.5% |
 | 07:30 | INR | WPI Inflation (YoY) (Jun) |  | 0.52% | 0.39% |
 | 11:00 | CNY | New Loans (Jun) |  | 1,960.0B | 620.0B |
