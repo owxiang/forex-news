@@ -3,11 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) | 2.7% | 1.2% | 0.6% |
-| 48 min | KRW | Low | Exports (YoY) (Jun) |  | 4.3% | 4.3% |
-| 48 min | KRW | Low | Imports (YoY) (Jun) |  | 3.3% | 3.3% |
-| 48 min | KRW | Low | Trade Balance (Jun) |  | 9.08B | 9.08B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 0.5% |
-| 02:30 | CNY | Low | House Prices (YoY) (Jun) |  |  | -3.5% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) | 0.6% |  | 0.5% |
+| 57 min | CNY | Low | House Prices (YoY) (Jun) |  |  | -3.5% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) |  | 3.6% | 3.7% |
 | 03:00 | CNY | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.2% |
 | 03:00 | CNY | High | GDP (YoY) (Q2) |  |  | 5.4% |
