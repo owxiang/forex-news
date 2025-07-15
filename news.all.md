@@ -20,8 +20,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 2.2% | 2.2% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.7% | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.7% | 0.6% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) | -59.5 | -65.5 | -72.0 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) | 52.7 | 50.8 | 47.5 |
 | 10:00 | EUR | Low | Industrial Production (YoY) (May) | 3.7% | 2.9% | 0.2% |
@@ -63,8 +63,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.925% |  | 1.903% |
 | 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) | 0.3% |  | 0.2% |
-| 37 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 52 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 19:45 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 7.100M |

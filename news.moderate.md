@@ -23,6 +23,6 @@
 | 13:30 | CAD | Core CPI (MoM) (Jun) | 0.1% |  | 0.6% |
 | 13:30 | CAD | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.6% |
 | 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 37 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.000M | 7.100M |
