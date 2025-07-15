@@ -8,9 +8,9 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 4.02% |  | 4.06% |
 | 04:00 | KRW | M3 Money Supply (May) | 5,815.4B |  | 5,786.3B |
 | 04:00 | KRW | M2 Money supply (May) | 6.00% |  | 5.80% |
-| 08:00 | EUR | Core CPI (YoY) (Jun) |  | 2.2% | 2.2% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
+| 49 min | EUR | Core CPI (YoY) (Jun) |  | 2.2% | 2.2% |
+| 49 min | EUR | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
+| 49 min | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
 | 10:00 | INR | Exports (USD) (Jun) |  |  | 38.73B |
 | 10:00 | INR | Imports (USD) (Jun) |  |  | 60.61B |
 | 10:00 | INR | Trade Balance (Jun) |  |  | -21.88B |

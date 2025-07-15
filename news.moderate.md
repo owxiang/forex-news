@@ -10,8 +10,8 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) | 6.4% |  | 6.3% |
 | 03:00 | CNY | Chinese Unemployment Rate (Jun) | 5.0% | 5.0% | 5.0% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 08:00 | EUR | Spanish CPI (YoY) (Jun) |  | 2.2% | 2.0% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jun) |  | 2.2% | 2.0% |
+| 49 min | EUR | Spanish CPI (YoY) (Jun) |  | 2.2% | 2.0% |
+| 49 min | EUR | Spanish HICP (YoY) (Jun) |  | 2.2% | 2.0% |
 | 10:00 | EUR | German ZEW Current Conditions (Jul) |  | -65.5 | -72.0 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Jul) |  | 50.8 | 47.5 |
 | 10:00 | EUR | Industrial Production (MoM) (May) |  | 1.1% | -2.4% |
