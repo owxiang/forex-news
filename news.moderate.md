@@ -12,10 +12,10 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 08:00 | EUR | Spanish CPI (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
-| 50 min | EUR | German ZEW Current Conditions (Jul) |  | -65.5 | -72.0 |
-| 50 min | EUR | German ZEW Economic Sentiment (Jul) |  | 50.8 | 47.5 |
-| 50 min | EUR | Industrial Production (MoM) (May) |  | 1.1% | -2.4% |
-| 50 min | EUR | ZEW Economic Sentiment (Jul) |  | 37.8 | 35.3 |
+| 10:00 | EUR | German ZEW Current Conditions (Jul) | -59.5 | -65.5 | -72.0 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Jul) | 52.7 | 50.8 | 47.5 |
+| 10:00 | EUR | Industrial Production (MoM) (May) | 1.7% | 1.1% | -2.2% |
+| 10:00 | EUR | ZEW Economic Sentiment (Jul) | 36.1 | 37.8 | 35.3 |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:15 | CAD | Housing Starts (Jun) |  | 262.5K | 279.5K |
 | 13:30 | USD | Core CPI (YoY) (Jun) |  | 3.0% | 2.8% |
@@ -26,4 +26,4 @@
 | 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 7.100M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.000M | 7.100M |
