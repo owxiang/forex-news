@@ -11,10 +11,10 @@
 | 08:00 | EUR | Core CPI (YoY) (Jun) | 2.2% | 2.2% | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.7% | 0.6% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.7% | 0.6% | 0.0% |
-| 10:00 | INR | Exports (USD) (Jun) |  |  | 38.73B |
-| 10:00 | INR | Imports (USD) (Jun) |  |  | 60.61B |
-| 10:00 | INR | Trade Balance (Jun) |  |  | -21.88B |
-| 10:00 | EUR | Industrial Production (YoY) (May) |  | 2.9% | 0.8% |
+| 50 min | INR | Exports (USD) (Jun) |  |  | 38.73B |
+| 50 min | INR | Imports (USD) (Jun) |  |  | 60.61B |
+| 50 min | INR | Trade Balance (Jun) |  |  | -21.88B |
+| 50 min | EUR | Industrial Production (YoY) (May) |  | 2.9% | 0.8% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 1.850% |
 | 10:30 | ZAR | Gold Production (YoY) (May) |  |  | -2.5% |
 | 10:30 | ZAR | Mining Production (May) |  |  | -7.7% |
