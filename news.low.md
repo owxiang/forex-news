@@ -20,21 +20,21 @@
 | 10:50 | EUR | German 2-Year Schatz Auction | 1.870% |  | 1.850% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Jun) | 1,462.10B |  | 1,507.68B |
-| 13:30 | USD | Core CPI Index (Jun) |  |  | 326.85 |
-| 13:30 | USD | CPI Index, n.s.a. (Jun) |  |  | 321.46 |
-| 13:30 | USD | CPI Index, s.a (Jun) |  |  | 320.58 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.21% |
-| 13:30 | USD | Real Earnings (MoM) (Jun) |  |  | 0.3% |
-| 13:30 | CAD | Common CPI (YoY) (Jun) |  | 2.7% | 2.6% |
-| 13:30 | CAD | CPI (YoY) (Jun) |  | 1.9% | 1.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  | -1.2% | -2.8% |
-| 13:30 | CAD | Median CPI (YoY) (Jun) |  | 3.0% | 3.0% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (May) |  |  | 195.7K |
-| 13:30 | CAD | Trimmed CPI (YoY) (Jun) |  | 3.0% | 3.0% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 1.892% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 1.924% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 1.903% |
+| 17 min | USD | Core CPI Index (Jun) |  |  | 326.85 |
+| 17 min | USD | CPI Index, n.s.a. (Jun) |  |  | 321.46 |
+| 17 min | USD | CPI Index, s.a (Jun) |  |  | 320.58 |
+| 17 min | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.21% |
+| 17 min | USD | Real Earnings (MoM) (Jun) |  |  | 0.3% |
+| 17 min | CAD | Common CPI (YoY) (Jun) |  | 2.7% | 2.6% |
+| 17 min | CAD | CPI (YoY) (Jun) |  | 1.9% | 1.7% |
+| 17 min | CAD | Manufacturing Sales (MoM) (May) |  | -1.2% | -2.8% |
+| 17 min | CAD | Median CPI (YoY) (Jun) |  | 3.0% | 3.0% |
+| 17 min | CAD | New Motor Vehicle Sales (MoM) (May) |  |  | 195.7K |
+| 17 min | CAD | Trimmed CPI (YoY) (Jun) |  | 3.0% | 3.0% |
+| 42 min | USD | Redbook (YoY) |  |  | 5.9% |
+| 47 min | EUR | French 12-Month BTF Auction |  |  | 1.892% |
+| 47 min | EUR | French 3-Month BTF Auction |  |  | 1.924% |
+| 47 min | EUR | French 6-Month BTF Auction |  |  | 1.903% |
 | 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.1% |
 | 16:00 | USD | Milk Auctions |  |  | 4,274.0 |
