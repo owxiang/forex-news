@@ -35,7 +35,7 @@
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 1.870% |  | 1.850% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,462.10B |  | 1,507.68B |
-| 53 min | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 262.5K | 279.5K |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.0% | 2.8% |
