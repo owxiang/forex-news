@@ -8,9 +8,6 @@
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 4.02% |  | 4.06% |
 | 04:00 | KRW | M3 Money Supply (May) | 5,815.4B |  | 5,786.3B |
 | 04:00 | KRW | M2 Money supply (May) | 6.00% |  | 5.80% |
-| 05:00 | IDR | Export Growth (YoY) (Jun) |  |  | 9.68% |
-| 05:00 | IDR | Import Growth (YoY) (Jun) |  |  | 4.14% |
-| 05:00 | IDR | Trade Balance (Jun) |  |  | 4.30B |
 | 08:00 | EUR | Core CPI (YoY) (Jun) |  | 2.2% | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
@@ -30,7 +27,7 @@
 | 13:30 | USD | Real Earnings (MoM) (Jun) |  |  | 0.3% |
 | 13:30 | CAD | Common CPI (YoY) (Jun) |  | 2.7% | 2.6% |
 | 13:30 | CAD | CPI (YoY) (Jun) |  | 1.9% | 1.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  | -1.3% | -2.8% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  | -1.2% | -2.8% |
 | 13:30 | CAD | Median CPI (YoY) (Jun) |  | 3.0% | 3.0% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) (May) |  |  | 195.7K |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jun) |  | 3.0% | 3.0% |

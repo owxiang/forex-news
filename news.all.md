@@ -17,9 +17,6 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | KRW | Low | M3 Money Supply (May) | 5,815.4B |  | 5,786.3B |
 | 04:00 | KRW | Low | M2 Money supply (May) | 6.00% |  | 5.80% |
-| 05:00 | IDR | Low | Export Growth (YoY) (Jun) |  |  | 9.68% |
-| 05:00 | IDR | Low | Import Growth (YoY) (Jun) |  |  | 4.14% |
-| 05:00 | IDR | Low | Trade Balance (Jun) |  |  | 4.30B |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  | 2.2% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 2.2% | 2.0% |
@@ -31,7 +28,7 @@
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) |  | -65.5 | -72.0 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) |  | 50.8 | 47.5 |
 | 10:00 | EUR | Low | Industrial Production (YoY) (May) |  | 2.9% | 0.8% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) |  | 0.6% | -2.4% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) |  | 1.1% | -2.4% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) |  | 37.8 | 35.3 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 1.850% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (May) |  |  | -2.5% |
@@ -48,14 +45,14 @@
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jun) |  |  | 321.46 |
 | 13:30 | USD | Low | CPI Index, s.a (Jun) |  |  | 320.58 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.21% |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | -7.80 | -16.00 |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | -8.30 | -16.00 |
 | 13:30 | USD | Low | Real Earnings (MoM) (Jun) |  |  | 0.3% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jun) |  | 2.7% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jun) |  |  | 0.6% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Jun) |  |  | 2.5% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Jun) |  | 0.2% | 0.6% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.6% |
 | 13:30 | CAD | Low | CPI (YoY) (Jun) |  | 1.9% | 1.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  | -1.3% | -2.8% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  | -1.2% | -2.8% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jun) |  | 3.0% | 3.0% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) (May) |  |  | 195.7K |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Jun) |  | 3.0% | 3.0% |
