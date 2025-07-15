@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Westpac Consumer Sentiment (Jul) | 0.6% |  | 0.5% |
 | 02:30 | CNY | House Prices (YoY) (Jun) | -3.2% |  | -3.5% |
-| 24 min | CNY | Retail Sales (YoY) (Jun) |  | 5.2% | 6.4% |
-| 24 min | CNY | Chinese Retail Sales YTD (YoY) (Jun) |  |  | 4.06% |
-| 04:00 | KRW | M3 Money Supply (May) |  |  | 5,786.3B |
-| 04:00 | KRW | M2 Money supply (May) |  |  | 5.80% |
+| 03:00 | CNY | Retail Sales (YoY) (Jun) | 4.8% | 5.2% | 6.4% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 4.02% |  | 4.06% |
+| 15 min | KRW | M3 Money Supply (May) |  |  | 5,786.3B |
+| 15 min | KRW | M2 Money supply (May) |  |  | 5.80% |
 | 05:00 | IDR | Export Growth (YoY) (Jun) |  |  | 9.68% |
 | 05:00 | IDR | Import Growth (YoY) (Jun) |  |  | 4.14% |
 | 05:00 | IDR | Trade Balance (Jun) |  |  | 4.30B |
