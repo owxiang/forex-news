@@ -19,10 +19,10 @@
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:30 | USD | Core CPI (YoY) (Jun) | 2.9% | 3.0% | 2.8% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jul) | 5.50 | -8.30 | -16.00 |
-| 13:30 | CAD | Core CPI (MoM) (Jun) | 0.1% |  | 0.6% |
 | 13:30 | CAD | Core CPI (YoY) (Jun) | 2.7% |  | 2.5% |
+| 13:30 | CAD | Core CPI (MoM) (Jun) | 0.1% |  | 0.6% |
 | 13:30 | CAD | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.6% |
 | 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 23 min | USD | API Weekly Crude Oil Stock |  | -2.000M | 7.100M |
+| 21:30 | USD | API Weekly Crude Oil Stock | 19.100M | -2.000M | 7.100M |
