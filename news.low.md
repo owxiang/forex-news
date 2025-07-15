@@ -1,44 +1,56 @@
-## 15 July 2025 - Low Impact Forex News
+## 16 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Westpac Consumer Sentiment (Jul) | 0.6% |  | 0.5% |
-| 02:30 | CNY | House Prices (YoY) (Jun) | -3.2% |  | -3.5% |
-| 03:00 | CNY | Retail Sales (YoY) (Jun) | 4.8% | 5.2% | 6.4% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 4.02% |  | 4.06% |
-| 04:00 | KRW | M3 Money Supply (May) | 5,815.4B |  | 5,786.3B |
-| 04:00 | KRW | M2 Money supply (May) | 6.00% |  | 5.80% |
-| 08:00 | EUR | Core CPI (YoY) (Jun) | 2.2% | 2.2% | 2.2% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.7% | 0.6% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.7% | 0.6% | 0.0% |
-| 10:00 | EUR | Industrial Production (YoY) (May) | 3.7% | 2.9% | 0.2% |
-| 10:30 | ZAR | Gold Production (YoY) (May) | 1.5% |  | -2.5% |
-| 10:30 | ZAR | Mining Production (May) | 0.2% |  | -7.7% |
-| 10:50 | EUR | German 2-Year Schatz Auction | 1.870% |  | 1.850% |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Jun) | 1,462.10B |  | 1,507.68B |
-| 12:00 | INR | Exports (USD) (Jun) | 35.14B |  | 38.73B |
-| 12:00 | INR | Imports (USD) (Jun) | 53.92B |  | 60.61B |
-| 12:00 | INR | Trade Balance (Jun) | -18.78B |  | -21.88B |
-| 13:00 | NZD | GlobalDairyTrade Price Index | 1.1% |  | -4.1% |
-| 13:00 | USD | Milk Auctions | 4,380.0 |  | 4,274.0 |
-| 13:30 | USD | Core CPI Index (Jun) | 327.60 |  | 326.85 |
-| 13:30 | USD | CPI Index, n.s.a. (Jun) | 322.56 |  | 321.46 |
-| 13:30 | USD | CPI Index, s.a (Jun) | 321.50 |  | 320.58 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jun) | 0.34% |  | 0.21% |
-| 13:30 | USD | Real Earnings (MoM) (Jun) | -0.4% |  | 0.3% |
-| 13:30 | CAD | Common CPI (YoY) (Jun) | 2.6% | 2.7% | 2.6% |
-| 13:30 | CAD | CPI (YoY) (Jun) | 1.9% | 1.9% | 1.7% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (May) | -0.9% | -1.2% | -2.7% |
-| 13:30 | CAD | Median CPI (YoY) (Jun) | 3.1% | 3.0% | 3.0% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) (May) | 194.5K |  | 195.7K |
-| 13:30 | CAD | Trimmed CPI (YoY) (Jun) | 3.0% | 3.0% | 3.0% |
-| 14:00 | USD | Redbook (YoY) | 5.2% |  | 5.9% |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.914% |  | 1.892% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.940% |  | 1.924% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.925% |  | 1.903% |
-| 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.3% |  | 0.2% |
-| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 19:45 | USD | Fed Collins Speaks |  |  |  |
-| 22:00 | KRW | Export Price Index (YoY) (Jun) | -4.5% |  | -2.6% |
-| 22:00 | KRW | Import Price Index (YoY) (Jun) | -6.2% |  | -5.1% |
+| 00:00 | KRW | Unemployment Rate (Jun) | 2.6% |  | 2.7% |
+| 00:00 | JPY | Reuters Tankan Index (Jul) | 7 |  | 6 |
+| 39 min | USD | Fed Logan Speaks |  |  |  |
+| 49 min | KRW | Exports (YoY) (Jun) |  | 4.3% | 4.3% |
+| 49 min | KRW | Imports (YoY) (Jun) |  | 3.3% | 3.3% |
+| 49 min | KRW | Trade Balance (Jun) |  | 9.08B | 9.08B |
+| 04:00 | NZD | RBNZ Offshore Holdings (Jun) |  |  | 59.70% |
+| 07:00 | GBP | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 07:00 | GBP | Core CPI (YoY) (Jun) |  | 3.5% | 3.5% |
+| 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 4.1% |
+| 07:00 | GBP | Core RPI (MoM) (Jun) |  |  | 0.2% |
+| 07:00 | GBP | CPI, n.s.a (Jun) |  |  | 138.40 |
+| 07:00 | GBP | RPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 07:00 | GBP | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
+| 08:30 | IDR | Deposit Facility Rate (Jul) |  |  | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Jul) |  |  | 6.25% |
+| 08:30 | IDR | Loans (YoY) (Jun) |  |  | 8.43% |
+| 09:00 | EUR | Italian CPI (YoY) (Jun) |  | 1.7% | 1.7% |
+| 09:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 1.4% |
+| 09:00 | EUR | Italian HICP (YoY) (Jun) |  | 1.7% | 1.7% |
+| 09:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 09:30 | GBP | House Price Index (YoY) |  | 3.2% | 3.5% |
+| 10:00 | EUR | Italian Trade Balance (May) |  | 2.870B | 2.482B |
+| 10:00 | EUR | Italian Trade Balance EU (May) |  |  | 0.16B |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.990% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 9.4% |
+| 12:00 | USD | MBA Purchase Index |  |  | 180.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 281.6 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 829.3 |
+| 12:00 | ZAR | Retail Sales (YoY) (May) |  |  | 5.1% |
+| 13:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.1% |
+| 13:00 | USD | Milk Auctions |  |  | 4,274.0 |
+| 13:30 | USD | Core PPI (YoY) (Jun) |  |  | 3.0% |
+| 13:30 | USD | PPI (YoY) (Jun) |  |  | 2.6% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 2.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.1% |
+| 14:15 | USD | Capacity Utilization Rate (Jun) |  | 77.4% | 77.4% |
+| 14:15 | USD | Manufacturing Production (MoM) (Jun) |  |  | 0.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.099M |
+| 15:30 | USD | Crude Oil Imports |  |  | -1.358M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.059M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.825M |
+| 15:30 | USD | Gasoline Production |  |  | 0.278M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.603M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 15:30 | USD | Gasoline Inventories |  |  | -2.658M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -2.148B |
+| 23:45 | NZD | FPI (MoM) (Jun) |  |  | 0.5% |
