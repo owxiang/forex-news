@@ -18,8 +18,8 @@
 | 04:00 | KRW | Low | M3 Money Supply (May) | 5,815.4B |  | 5,786.3B |
 | 04:00 | KRW | Low | M2 Money supply (May) | 6.00% |  | 5.80% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 2.2% | 2.2% | 2.2% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.7% | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.7% | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.7% | 0.6% | 0.0% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) | -59.5 | -65.5 | -72.0 |
@@ -49,8 +49,8 @@
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) | 5.50 | -8.30 | -16.00 |
 | 13:30 | USD | Low | Real Earnings (MoM) (Jun) | -0.4% |  | 0.3% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jun) | 2.6% | 2.7% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jun) | 2.7% |  | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jun) | 0.1% |  | 0.6% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jun) | 2.7% |  | 2.5% |
 | 13:30 | CAD | Low | CPI (YoY) (Jun) | 1.9% | 1.9% | 1.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.6% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | -0.9% | -1.2% | -2.7% |
@@ -65,8 +65,8 @@
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) | 0.3% |  | 0.2% |
 | 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 35 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 21:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 19:45 | USD | Low | Fed Collins Speaks |  |  |  |
+| 53 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 7.100M |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jun) |  |  | -2.4% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jun) |  |  | -5.0% |
