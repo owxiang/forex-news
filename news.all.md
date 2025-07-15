@@ -4,27 +4,27 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) | 2.7% | 1.2% | 0.6% |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) | 0.6% |  | 0.5% |
-| 57 min | CNY | Low | House Prices (YoY) (Jun) |  |  | -3.5% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) |  | 3.6% | 3.7% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.2% |
-| 03:00 | CNY | High | GDP (YoY) (Q2) |  |  | 5.4% |
-| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) |  | 5.1% | 5.4% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) |  | 5.6% | 5.8% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 6.3% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (Jun) |  | 5.2% | 6.4% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jun) |  |  | 4.06% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Jun) |  | 5.0% | 5.0% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:30 | CNY | Low | House Prices (YoY) (Jun) | -3.2% |  | -3.5% |
+| 24 min | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) |  | 3.6% | 3.7% |
+| 24 min | CNY | High | GDP (YoY) (Q2) |  |  | 5.4% |
+| 24 min | CNY | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.2% |
+| 24 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) |  | 5.1% | 5.4% |
+| 24 min | CNY | Moderate | Industrial Production (YoY) (Jun) |  | 5.6% | 5.8% |
+| 24 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 6.3% |
+| 24 min | CNY | Low | Retail Sales (YoY) (Jun) |  | 5.2% | 6.4% |
+| 24 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Jun) |  |  | 4.06% |
+| 24 min | CNY | Moderate | Chinese Unemployment Rate (Jun) |  | 5.0% | 5.0% |
+| 24 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | KRW | Low | M3 Money Supply (May) |  |  | 5,786.3B |
 | 04:00 | KRW | Low | M2 Money supply (May) |  |  | 5.80% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Jun) |  |  | 9.68% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Jun) |  |  | 4.14% |
 | 05:00 | IDR | Low | Trade Balance (Jun) |  |  | 4.30B |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  | 2.2% | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 2.2% | 2.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 2.2% | 2.0% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 2.2% | 2.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 2.2% | 2.0% |
 | 10:00 | INR | Low | Exports (USD) (Jun) |  |  | 38.73B |
 | 10:00 | INR | Low | Imports (USD) (Jun) |  |  | 60.61B |
 | 10:00 | INR | Low | Trade Balance (Jun) |  |  | -21.88B |
@@ -40,8 +40,8 @@
 | 11:00 | EUR | Low | Reserve Assets Total (Jun) |  |  | 1,507.68B |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 262.5K | 279.5K |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.0% | 2.8% |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.3% | 0.1% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.0% | 2.8% |
 | 13:30 | USD | Low | Core CPI Index (Jun) |  |  | 326.85 |
 | 13:30 | USD | High | CPI (MoM) (Jun) |  | 0.3% | 0.1% |
 | 13:30 | USD | High | CPI (YoY) (Jun) |  | 2.6% | 2.4% |
