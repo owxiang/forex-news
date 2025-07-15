@@ -20,12 +20,12 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 2.2% | 2.2% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.7% | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.7% | 0.6% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 2.3% | 2.2% | 2.0% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) | -59.5 | -65.5 | -72.0 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) | 52.7 | 50.8 | 47.5 |
-| 10:00 | EUR | Low | Industrial Production (YoY) (May) | 3.7% | 2.9% | 0.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | 1.7% | 1.1% | -2.2% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (May) | 3.7% | 2.9% | 0.2% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) | 36.1 | 37.8 | 35.3 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (May) | 1.5% |  | -2.5% |
 | 10:30 | ZAR | Low | Mining Production (May) | 0.2% |  | -7.7% |
@@ -38,8 +38,8 @@
 | 12:00 | INR | Low | Trade Balance (Jun) | -18.78B |  | -21.88B |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.1% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,274.0 |
-| 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.2% | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 2.9% | 3.0% | 2.8% |
+| 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.2% | 0.3% | 0.1% |
 | 13:30 | USD | Low | Core CPI Index (Jun) | 327.60 |  | 326.85 |
 | 13:30 | USD | High | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
 | 13:30 | USD | High | CPI (YoY) (Jun) | 2.7% | 2.6% | 2.4% |
@@ -49,8 +49,8 @@
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) | 5.50 | -8.30 | -16.00 |
 | 13:30 | USD | Low | Real Earnings (MoM) (Jun) | -0.4% |  | 0.3% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jun) | 2.6% | 2.7% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Jun) | 2.7% |  | 2.5% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jun) | 0.1% |  | 0.6% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jun) | 2.7% |  | 2.5% |
 | 13:30 | CAD | Low | CPI (YoY) (Jun) | 1.9% | 1.9% | 1.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.6% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | -0.9% | -1.2% | -2.7% |
@@ -62,7 +62,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.940% |  | 1.924% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.925% |  | 1.903% |
 | 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
+| 52 min | USD | Low | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
 | 17:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 19:45 | USD | Low | Fed Collins Speaks |  |  |  |

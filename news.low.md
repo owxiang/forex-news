@@ -37,7 +37,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.914% |  | 1.892% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.940% |  | 1.924% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.925% |  | 1.903% |
-| 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
+| 52 min | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
 | 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 19:45 | USD | Fed Collins Speaks |  |  |  |
 | 22:00 | KRW | Export Price Index (YoY) (Jun) |  |  | -2.4% |
