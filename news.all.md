@@ -6,8 +6,8 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) | 0.6% |  | 0.5% |
 | 02:30 | CNY | Low | House Prices (YoY) (Jun) | -3.2% |  | -3.5% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | 2.8% | 3.6% | 3.7% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 1.1% | 0.9% | 1.2% |
 | 03:00 | CNY | High | GDP (YoY) (Q2) | 5.2% |  | 5.4% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 1.1% | 0.9% | 1.2% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 5.3% | 5.1% | 5.4% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 6.8% | 5.6% | 5.8% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 6.4% |  | 6.3% |
@@ -17,14 +17,14 @@
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | KRW | Low | M3 Money Supply (May) | 5,815.4B |  | 5,786.3B |
 | 04:00 | KRW | Low | M2 Money supply (May) | 6.00% |  | 5.80% |
-| 25 min | IDR | Low | Export Growth (YoY) (Jun) |  |  | 9.68% |
-| 25 min | IDR | Low | Import Growth (YoY) (Jun) |  |  | 4.14% |
-| 25 min | IDR | Low | Trade Balance (Jun) |  |  | 4.30B |
+| 05:00 | IDR | Low | Export Growth (YoY) (Jun) |  |  | 9.68% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Jun) |  |  | 4.14% |
+| 05:00 | IDR | Low | Trade Balance (Jun) |  |  | 4.30B |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  | 2.2% | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 2.2% | 2.0% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 2.2% | 2.0% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.6% | 0.0% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 2.2% | 2.0% |
 | 10:00 | INR | Low | Exports (USD) (Jun) |  |  | 38.73B |
 | 10:00 | INR | Low | Imports (USD) (Jun) |  |  | 60.61B |
 | 10:00 | INR | Low | Trade Balance (Jun) |  |  | -21.88B |
