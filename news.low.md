@@ -40,5 +40,5 @@
 | 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.3% |  | 0.2% |
 | 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 19:45 | USD | Fed Collins Speaks |  |  |  |
-| 22:00 | KRW | Export Price Index (YoY) (Jun) |  |  | -2.4% |
-| 22:00 | KRW | Import Price Index (YoY) (Jun) |  |  | -5.0% |
+| 53 min | KRW | Export Price Index (YoY) (Jun) |  |  | -2.4% |
+| 53 min | KRW | Import Price Index (YoY) (Jun) |  |  | -5.0% |
