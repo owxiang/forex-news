@@ -16,7 +16,7 @@
 | 10:00 | EUR | German ZEW Economic Sentiment (Jul) | 52.7 | 50.8 | 47.5 |
 | 10:00 | EUR | Industrial Production (MoM) (May) | 1.7% | 1.1% | -2.2% |
 | 10:00 | EUR | ZEW Economic Sentiment (Jul) | 36.1 | 37.8 | 35.3 |
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 53 min | USD | OPEC Monthly Report |  |  |  |
 | 13:15 | CAD | Housing Starts (Jun) |  | 262.5K | 279.5K |
 | 13:30 | USD | Core CPI (YoY) (Jun) |  | 3.0% | 2.8% |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jul) |  | -8.30 | -16.00 |
