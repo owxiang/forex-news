@@ -20,8 +20,8 @@
 | 12:00 | INR | Exports (USD) (Jun) | 35.14B |  | 38.73B |
 | 12:00 | INR | Imports (USD) (Jun) | 53.92B |  | 60.61B |
 | 12:00 | INR | Trade Balance (Jun) | -18.78B |  | -21.88B |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.1% |
-| 13:00 | USD | Milk Auctions |  |  | 4,274.0 |
+| 13:00 | NZD | GlobalDairyTrade Price Index | 1.1% |  | -4.1% |
+| 13:00 | USD | Milk Auctions | 4,380.0 |  | 4,274.0 |
 | 13:30 | USD | Core CPI Index (Jun) | 327.60 |  | 326.85 |
 | 13:30 | USD | CPI Index, n.s.a. (Jun) | 322.56 |  | 321.46 |
 | 13:30 | USD | CPI Index, s.a (Jun) | 321.50 |  | 320.58 |
@@ -37,7 +37,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.914% |  | 1.892% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.940% |  | 1.924% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.925% |  | 1.903% |
-| 52 min | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
+| 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.3% |  | 0.2% |
 | 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 19:45 | USD | Fed Collins Speaks |  |  |  |
 | 22:00 | KRW | Export Price Index (YoY) (Jun) |  |  | -2.4% |
