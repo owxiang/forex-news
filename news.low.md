@@ -4,26 +4,23 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jun) | 2.6% |  | 2.7% |
 | 00:00 | JPY | Reuters Tankan Index (Jul) | 7 |  | 6 |
-| 39 min | USD | Fed Logan Speaks |  |  |  |
-| 49 min | KRW | Exports (YoY) (Jun) |  | 4.3% | 4.3% |
-| 49 min | KRW | Imports (YoY) (Jun) |  | 3.3% | 3.3% |
-| 49 min | KRW | Trade Balance (Jun) |  | 9.08B | 9.08B |
+| 00:45 | USD | Fed Logan Speaks |  |  |  |
 | 04:00 | NZD | RBNZ Offshore Holdings (Jun) |  |  | 59.70% |
 | 07:00 | GBP | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 07:00 | GBP | Core CPI (YoY) (Jun) |  | 3.5% | 3.5% |
-| 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 4.1% |
 | 07:00 | GBP | Core RPI (MoM) (Jun) |  |  | 0.2% |
+| 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 4.1% |
 | 07:00 | GBP | CPI, n.s.a (Jun) |  |  | 138.40 |
-| 07:00 | GBP | RPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 07:00 | GBP | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
+| 07:00 | GBP | RPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 08:30 | IDR | Deposit Facility Rate (Jul) |  |  | 4.75% |
 | 08:30 | IDR | Lending Facility Rate (Jul) |  |  | 6.25% |
 | 08:30 | IDR | Loans (YoY) (Jun) |  |  | 8.43% |
-| 09:00 | EUR | Italian CPI (YoY) (Jun) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 09:00 | EUR | Italian CPI (YoY) (Jun) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 1.4% |
-| 09:00 | EUR | Italian HICP (YoY) (Jun) |  | 1.7% | 1.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Jun) |  | 1.7% | 1.7% |
 | 09:30 | GBP | House Price Index (YoY) |  | 3.2% | 3.5% |
 | 10:00 | EUR | Italian Trade Balance (May) |  | 2.870B | 2.482B |
 | 10:00 | EUR | Italian Trade Balance EU (May) |  |  | 0.16B |
@@ -40,8 +37,8 @@
 | 13:00 | USD | Milk Auctions |  |  | 4,274.0 |
 | 13:30 | USD | Core PPI (YoY) (Jun) |  |  | 3.0% |
 | 13:30 | USD | PPI (YoY) (Jun) |  |  | 2.6% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 2.7% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.1% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 2.7% |
 | 14:15 | USD | Capacity Utilization Rate (Jun) |  | 77.4% | 77.4% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jun) |  |  | 0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.099M |
