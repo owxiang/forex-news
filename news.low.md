@@ -19,13 +19,13 @@
 | 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) | 1.5% |  | 1.4% |
-| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Jun) | 1.8% | 1.7% | 1.7% |
-| 21 min | GBP | House Price Index (YoY) |  | 3.2% | 3.5% |
-| 51 min | EUR | Italian Trade Balance (May) |  | 2.870B | 2.482B |
-| 51 min | EUR | Italian Trade Balance EU (May) |  |  | 0.16B |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.990% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
+| 09:30 | GBP | House Price Index (YoY) | 3.9% | 3.2% | 3.5% |
+| 10:00 | EUR | Italian Trade Balance (May) | 6.163B | 2.870B | 2.448B |
+| 10:00 | EUR | Italian Trade Balance EU (May) | 0.78B |  | 0.13B |
+| 20 min | EUR | German 30-Year Bund Auction |  |  | 2.990% |
+| 50 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 9.4% |
 | 12:00 | USD | MBA Purchase Index |  |  | 180.9 |
