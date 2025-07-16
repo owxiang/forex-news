@@ -13,17 +13,17 @@
 | 07:00 | GBP | CPI, n.s.a (Jun) | 138.90 |  | 138.40 |
 | 07:00 | GBP | RPI (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
 | 07:00 | GBP | RPI (YoY) (Jun) | 4.4% | 4.3% | 4.3% |
-| 21 min | IDR | Deposit Facility Rate (Jul) |  | 4.50% | 4.75% |
-| 21 min | IDR | Lending Facility Rate (Jul) |  | 6.00% | 6.25% |
-| 21 min | IDR | Loans (YoY) (Jun) |  |  | 8.43% |
-| 51 min | EUR | Italian CPI (MoM) (Jun) |  | 0.2% | -0.1% |
-| 51 min | EUR | Italian CPI (YoY) (Jun) |  | 1.7% | 1.6% |
-| 51 min | EUR | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 1.4% |
-| 51 min | EUR | Italian HICP (MoM) (Jun) |  | 0.2% | -0.1% |
-| 51 min | EUR | Italian HICP (YoY) (Jun) |  | 1.7% | 1.7% |
-| 09:30 | GBP | House Price Index (YoY) |  | 3.2% | 3.5% |
-| 10:00 | EUR | Italian Trade Balance (May) |  | 2.870B | 2.482B |
-| 10:00 | EUR | Italian Trade Balance EU (May) |  |  | 0.16B |
+| 08:30 | IDR | Deposit Facility Rate (Jul) | 4.50% | 4.50% | 4.75% |
+| 08:30 | IDR | Lending Facility Rate (Jul) | 6.00% | 6.00% | 6.25% |
+| 08:30 | IDR | Loans (YoY) (Jun) | 7.77% |  | 8.43% |
+| 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
+| 09:00 | EUR | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) | 1.5% |  | 1.4% |
+| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Jun) | 1.8% | 1.7% | 1.7% |
+| 21 min | GBP | House Price Index (YoY) |  | 3.2% | 3.5% |
+| 51 min | EUR | Italian Trade Balance (May) |  | 2.870B | 2.482B |
+| 51 min | EUR | Italian Trade Balance EU (May) |  |  | 0.16B |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.990% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.77% |

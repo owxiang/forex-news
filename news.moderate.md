@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | CPI (MoM) (Jun) | 0.3% | 0.2% | 0.2% |
 | 07:00 | GBP | CPIH (YoY) | 4.1% |  | 4.0% |
-| 21 min | IDR | Interest Rate Decision |  | 5.25% | 5.50% |
-| 10:00 | EUR | Trade Balance (May) |  | 13.9B | 9.9B |
+| 08:30 | IDR | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
+| 51 min | EUR | Trade Balance (May) |  | 13.9B | 9.9B |
 | 13:15 | CAD | Housing Starts (Jun) |  | 262.0K | 279.5K |
 | 13:30 | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Jun) |  |  | 0.60% |
