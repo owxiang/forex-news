@@ -6,11 +6,11 @@
 | 07:00 | GBP | CPIH (YoY) | 4.1% |  | 4.0% |
 | 08:30 | IDR | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
 | 10:00 | EUR | Trade Balance (May) | 16.2B | 13.9B | 11.1B |
-| 3 min | CAD | Housing Starts (Jun) |  | 262.0K | 279.5K |
-| 18 min | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
+| 13:15 | CAD | Housing Starts (Jun) | 283.7K | 262.0K | 282.7K |
+| 13:30 | USD | Core PPI (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
 | 14:15 | USD | Industrial Production (YoY) (Jun) |  |  | 0.60% |
-| 14:15 | USD | Industrial Production (MoM) (Jun) |  | 0.1% | -0.2% |
-| 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:15 | USD | Industrial Production (MoM) (Jun) | 0.3% | 0.1% | 0.0% |
+| 42 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.464M |
 | 19:00 | USD | Beige Book |  |  |  |
 | 21:30 | USD | FOMC Member Williams Speaks |  |  |  |
