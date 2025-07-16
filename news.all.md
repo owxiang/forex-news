@@ -1,66 +1,73 @@
-## 16 July 2025 - All Forex News
+## 17 July 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Unemployment Rate (Jun) | 2.6% |  | 2.7% |
-| 00:00 | JPY | Low | Reuters Tankan Index (Jul) | 7 |  | 6 |
-| 00:45 | USD | Low | Fed Logan Speaks |  |  |  |
-| 04:00 | NZD | Low | RBNZ Offshore Holdings (Jun) | 60.70% |  | 59.70% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Jun) | 0.4% | 0.2% | 0.2% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Jun) | 3.7% | 3.5% | 3.5% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Jun) | 4.3% |  | 4.1% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Jun) | 0.4% |  | 0.2% |
-| 07:00 | GBP | High | CPI (YoY) (Jun) | 3.6% | 3.4% | 3.4% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Jun) | 0.3% | 0.2% | 0.2% |
-| 07:00 | GBP | Low | CPI, n.s.a (Jun) | 138.90 |  | 138.40 |
-| 07:00 | GBP | Moderate | CPIH (YoY) | 4.1% |  | 4.0% |
-| 07:00 | GBP | Low | RPI (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
-| 07:00 | GBP | Low | RPI (YoY) (Jun) | 4.4% | 4.3% | 4.3% |
-| 08:30 | IDR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Jul) | 4.50% | 4.50% | 4.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Jul) | 6.00% | 6.00% | 6.25% |
-| 08:30 | IDR | Low | Loans (YoY) (Jun) | 7.77% |  | 8.43% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) | 1.5% |  | 1.4% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jun) | 1.8% | 1.7% | 1.7% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
-| 09:30 | GBP | Low | House Price Index (YoY) | 3.9% | 3.2% | 3.5% |
-| 10:00 | EUR | Low | Italian Trade Balance (May) | 6.163B | 2.870B | 2.448B |
-| 10:00 | EUR | Low | Italian Trade Balance EU (May) | 0.78B |  | 0.13B |
-| 10:00 | EUR | Moderate | Trade Balance (May) | 16.2B | 13.9B | 11.1B |
-| 10:30 | EUR | Low | German 30-Year Bund Auction | 3.220% |  | 2.990% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.82% |  | 6.77% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.0% |  | 9.4% |
-| 12:00 | USD | Low | MBA Purchase Index | 159.6 |  | 180.9 |
-| 12:00 | USD | Low | Mortgage Market Index | 253.5 |  | 281.6 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 767.6 |  | 829.3 |
-| 12:00 | ZAR | Low | Retail Sales (YoY) (May) | 4.2% |  | 5.2% |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13:15 | CAD | Moderate | Housing Starts (Jun) | 283.7K | 262.0K | 282.7K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jun) | 2.6% | 2.7% | 3.2% |
-| 13:30 | USD | High | PPI (MoM) (Jun) | 0.0% | 0.2% | 0.3% |
-| 13:30 | USD | Low | PPI (YoY) (Jun) | 2.3% | 2.5% | 2.7% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% |  | 0.1% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 2.5% |  | 2.8% |
-| 14:15 | USD | Low | Capacity Utilization Rate (Jun) | 77.6% | 77.4% | 77.5% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jun) | 0.73% |  | 0.66% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jun) | 0.3% | 0.1% | 0.0% |
-| 14:15 | USD | Low | Manufacturing Production (MoM) (Jun) | 0.1% | 0.0% | 0.3% |
-| 15:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories | -3.859M | -1.800M | 7.070M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.157M |  | -0.099M |
-| 15:30 | USD | Low | Crude Oil Imports | -0.395M |  | -1.358M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.213M |  | 0.464M |
-| 15:30 | USD | Low | Distillate Fuel Production | -0.109M |  | 0.059M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 4.173M |  | -0.825M |
-| 15:30 | USD | Low | Gasoline Production | -0.815M |  | 0.278M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | -0.846M |  | 0.603M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | -0.2% |
-| 15:30 | USD | Low | Gasoline Inventories | 3.399M | -0.900M | -2.658M |
-| 18:30 | BRL | Low | Foreign Exchange Flows | 0.638B |  | -2.148B |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 21:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 38 min | NZD | Low | FPI (MoM) (Jun) |  |  | 0.5% |
+| 43 min | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.31T |
+| 43 min | JPY | Moderate | Exports (YoY) (Jun) |  | 0.5% | -1.7% |
+| 43 min | JPY | Low | Foreign Bonds Buying |  |  | 1,656.8B |
+| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 611.7B |
+| 43 min | JPY | Low | Imports (YoY) (Jun) |  | -1.6% | -7.7% |
+| 43 min | JPY | Moderate | Trade Balance (Jun) |  | 353.9B | -637.6B |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) |  | 5.00% | -3.50% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) |  |  | -12.00% |
+| 02:00 | AUD | Low | MI Inflation Expectations (Jul) |  |  | 5.0% |
+| 02:00 | SGD | Low | Trade Balance (Jun) |  |  | 7.240B |
+| 02:30 | AUD | Moderate | Employment Change (Jun) |  | 21.0K | -2.5K |
+| 02:30 | AUD | Moderate | Full Employment Change (Jun) |  |  | 38.7K |
+| 02:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -4 |
+| 02:30 | AUD | Low | Participation Rate (Jun) |  | 67.0% | 67.0% |
+| 02:30 | AUD | Low | Reserve Assets Total (Jun) |  |  | 103.4B |
+| 02:30 | AUD | Moderate | Unemployment Rate (Jun) |  | 4.1% | 4.1% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.0% | 5.3% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jun) |  | 17.9K | 33.1K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  | 46K | 89K |
+| 07:00 | GBP | Moderate | Unemployment Rate (May) |  | 4.6% | 4.6% |
+| 07:00 | CHF | Low | Trade Balance (Jun) |  | 4.220B | 3.831B |
+| 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.5% |
+| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
+| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
+| 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,965K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.3% | -0.3% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jun) |  |  | 1.7% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
+| 13:30 | USD | High | Initial Jobless Claims |  | 233K | 227K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jul) |  | -1.2 | -4.0 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Jul) |  |  | 18.3 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Jul) |  |  | 14.50 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Jul) |  |  | -9.8 |
+| 13:30 | USD | Low | Philly Fed New Orders (Jul) |  |  | 2.3 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Jul) |  |  | 41.40 |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Jun) |  | 0.3% | 0.4% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jun) |  | 0.1% | -0.9% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (May) |  |  | -9.36B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Jul) |  | 33 | 32 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
+| 15:30 | USD | Low | Natural Gas Storage |  |  | 53B |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.235% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.275% |
+| 17:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 21:00 | USD | Low | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
+| 21:00 | USD | Low | Overall Net Capital Flow (May) |  |  | -14.20B |
+| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (May) |  |  | -7.8B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  | 55.30B | -7.80B |
+| 23:30 | USD | Moderate | Fed Waller Speaks |  |  |  |

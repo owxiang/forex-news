@@ -1,16 +1,28 @@
-## 16 July 2025 - Moderate Impact Forex News
+## 17 July 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Jun) | 0.3% | 0.2% | 0.2% |
-| 07:00 | GBP | CPIH (YoY) | 4.1% |  | 4.0% |
-| 08:30 | IDR | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
-| 10:00 | EUR | Trade Balance (May) | 16.2B | 13.9B | 11.1B |
-| 13:15 | CAD | Housing Starts (Jun) | 283.7K | 262.0K | 282.7K |
-| 13:30 | USD | Core PPI (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
-| 14:15 | USD | Industrial Production (YoY) (Jun) | 0.73% |  | 0.66% |
-| 14:15 | USD | Industrial Production (MoM) (Jun) | 0.3% | 0.1% | 0.0% |
-| 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.213M |  | 0.464M |
-| 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 43 min | JPY | Adjusted Trade Balance |  | -0.26T | -0.31T |
+| 43 min | JPY | Exports (YoY) (Jun) |  | 0.5% | -1.7% |
+| 43 min | JPY | Trade Balance (Jun) |  | 353.9B | -637.6B |
+| 02:30 | AUD | Employment Change (Jun) |  | 21.0K | -2.5K |
+| 02:30 | AUD | Full Employment Change (Jun) |  |  | 38.7K |
+| 02:30 | AUD | Unemployment Rate (Jun) |  | 4.1% | 4.1% |
+| 07:00 | GBP | Average Earnings Index +Bonus (May) |  | 5.0% | 5.3% |
+| 07:00 | GBP | Claimant Count Change (Jun) |  | 17.9K | 33.1K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (May) |  | 46K | 89K |
+| 07:00 | GBP | Unemployment Rate (May) |  | 4.6% | 4.6% |
+| 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,970K | 1,965K |
+| 13:30 | USD | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
+| 13:30 | USD | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
+| 13:30 | USD | Philly Fed Employment (Jul) |  |  | -9.8 |
+| 13:30 | USD | Retail Control (MoM) (Jun) |  | 0.3% | 0.4% |
+| 13:30 | CAD | Foreign Securities Purchases (May) |  |  | -9.36B |
+| 15:00 | USD | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
+| 17:45 | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 21:00 | USD | TIC Net Long-Term Transactions (May) |  |  | -7.8B |
+| 23:30 | USD | Fed Waller Speaks |  |  |  |
