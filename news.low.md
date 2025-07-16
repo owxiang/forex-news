@@ -39,13 +39,13 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) | 2.5% |  | 2.8% |
 | 14:15 | USD | Capacity Utilization Rate (Jun) | 77.6% | 77.4% | 77.5% |
 | 14:15 | USD | Manufacturing Production (MoM) (Jun) | 0.1% | 0.0% | 0.3% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.099M |
-| 15:30 | USD | Crude Oil Imports |  |  | -1.358M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.059M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.825M |
-| 15:30 | USD | Gasoline Production |  |  | 0.278M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.603M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 15:30 | USD | Gasoline Inventories |  |  | -2.658M |
+| 23 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.099M |
+| 23 min | USD | Crude Oil Imports |  |  | -1.358M |
+| 23 min | USD | Distillate Fuel Production |  |  | 0.059M |
+| 23 min | USD | EIA Weekly Distillates Stocks |  |  | -0.825M |
+| 23 min | USD | Gasoline Production |  |  | 0.278M |
+| 23 min | USD | Heating Oil Stockpiles |  |  | 0.603M |
+| 23 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 23 min | USD | Gasoline Inventories |  |  | -2.658M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -2.148B |
 | 23:45 | NZD | FPI (MoM) (Jun) |  |  | 0.5% |

@@ -46,20 +46,20 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% |  | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 2.5% |  | 2.8% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jun) | 77.6% | 77.4% | 77.5% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Jun) |  |  | 0.60% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Jun) | 0.73% |  | 0.66% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Jun) | 0.3% | 0.1% | 0.0% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jun) | 0.1% | 0.0% | 0.3% |
-| 42 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.800M | 7.070M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.099M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.358M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.464M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.059M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.825M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.278M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.603M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.658M |
+| 15:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23 min | USD | High | Crude Oil Inventories |  | -1.800M | 7.070M |
+| 23 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.099M |
+| 23 min | USD | Low | Crude Oil Imports |  |  | -1.358M |
+| 23 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.464M |
+| 23 min | USD | Low | Distillate Fuel Production |  |  | 0.059M |
+| 23 min | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.825M |
+| 23 min | USD | Low | Gasoline Production |  |  | 0.278M |
+| 23 min | USD | Low | Heating Oil Stockpiles |  |  | 0.603M |
+| 23 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 23 min | USD | Low | Gasoline Inventories |  |  | -2.658M |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.148B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

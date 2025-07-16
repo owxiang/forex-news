@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | CPI (YoY) (Jun) | 3.6% | 3.4% | 3.4% |
 | 13:30 | USD | PPI (MoM) (Jun) | 0.0% | 0.2% | 0.3% |
-| 15:30 | USD | Crude Oil Inventories |  | -1.800M | 7.070M |
+| 23 min | USD | Crude Oil Inventories |  | -1.800M | 7.070M |
