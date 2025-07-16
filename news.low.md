@@ -6,13 +6,13 @@
 | 00:00 | JPY | Reuters Tankan Index (Jul) | 7 |  | 6 |
 | 00:45 | USD | Fed Logan Speaks |  |  |  |
 | 04:00 | NZD | RBNZ Offshore Holdings (Jun) | 60.70% |  | 59.70% |
-| 49 min | GBP | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 49 min | GBP | Core CPI (YoY) (Jun) |  | 3.5% | 3.5% |
-| 49 min | GBP | Core RPI (MoM) (Jun) |  |  | 0.2% |
-| 49 min | GBP | Core RPI (YoY) (Jun) |  |  | 4.1% |
-| 49 min | GBP | CPI, n.s.a (Jun) |  |  | 138.40 |
-| 49 min | GBP | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
-| 49 min | GBP | RPI (MoM) (Jun) |  | 0.3% | 0.2% |
+| 07:00 | GBP | Core CPI (MoM) (Jun) | 0.4% | 0.2% | 0.2% |
+| 07:00 | GBP | Core CPI (YoY) (Jun) | 3.7% | 3.5% | 3.5% |
+| 07:00 | GBP | Core RPI (MoM) (Jun) | 0.4% |  | 0.2% |
+| 07:00 | GBP | Core RPI (YoY) (Jun) | 4.3% |  | 4.1% |
+| 07:00 | GBP | CPI, n.s.a (Jun) | 138.90 |  | 138.40 |
+| 07:00 | GBP | RPI (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
+| 07:00 | GBP | RPI (YoY) (Jun) | 4.4% | 4.3% | 4.3% |
 | 08:30 | IDR | Deposit Facility Rate (Jul) |  | 4.50% | 4.75% |
 | 08:30 | IDR | Lending Facility Rate (Jul) |  | 6.00% | 6.25% |
 | 08:30 | IDR | Loans (YoY) (Jun) |  |  | 8.43% |

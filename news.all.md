@@ -6,16 +6,16 @@
 | 00:00 | JPY | Low | Reuters Tankan Index (Jul) | 7 |  | 6 |
 | 00:45 | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jun) | 60.70% |  | 59.70% |
-| 49 min | GBP | Low | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 49 min | GBP | Low | Core CPI (YoY) (Jun) |  | 3.5% | 3.5% |
-| 49 min | GBP | Low | Core RPI (MoM) (Jun) |  |  | 0.2% |
-| 49 min | GBP | Low | Core RPI (YoY) (Jun) |  |  | 4.1% |
-| 49 min | GBP | Moderate | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 49 min | GBP | High | CPI (YoY) (Jun) |  | 3.4% | 3.4% |
-| 49 min | GBP | Low | CPI, n.s.a (Jun) |  |  | 138.40 |
-| 49 min | GBP | Moderate | CPIH (YoY) |  |  | 3.7% |
-| 49 min | GBP | Low | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
-| 49 min | GBP | Low | RPI (MoM) (Jun) |  | 0.3% | 0.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Jun) | 0.4% | 0.2% | 0.2% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Jun) | 3.7% | 3.5% | 3.5% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Jun) | 0.4% |  | 0.2% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Jun) | 4.3% |  | 4.1% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Jun) | 0.3% | 0.2% | 0.2% |
+| 07:00 | GBP | High | CPI (YoY) (Jun) | 3.6% | 3.4% | 3.4% |
+| 07:00 | GBP | Low | CPI, n.s.a (Jun) | 138.90 |  | 138.40 |
+| 07:00 | GBP | Moderate | CPIH (YoY) | 4.1% |  | 4.0% |
+| 07:00 | GBP | Low | RPI (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
+| 07:00 | GBP | Low | RPI (YoY) (Jun) | 4.4% | 4.3% | 4.3% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Jul) |  | 4.50% | 4.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jul) |  | 6.00% | 6.25% |
@@ -39,8 +39,8 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (May) |  |  | 5.1% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 262.0K | 279.5K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 2.7% | 3.0% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) |  | 2.5% | 2.6% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 2.7% |
