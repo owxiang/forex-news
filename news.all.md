@@ -14,8 +14,8 @@
 | 07:00 | GBP | High | CPI (YoY) (Jun) | 3.6% | 3.4% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jun) | 138.90 |  | 138.40 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 4.1% |  | 4.0% |
-| 07:00 | GBP | Low | RPI (YoY) (Jun) | 4.4% | 4.3% | 4.3% |
 | 07:00 | GBP | Low | RPI (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
+| 07:00 | GBP | Low | RPI (YoY) (Jun) | 4.4% | 4.3% | 4.3% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Jul) | 4.50% | 4.50% | 4.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jul) | 6.00% | 6.00% | 6.25% |
@@ -23,26 +23,26 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) | 1.5% |  | 1.4% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jun) | 1.8% | 1.7% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.9% | 3.2% | 3.5% |
 | 10:00 | EUR | Low | Italian Trade Balance (May) | 6.163B | 2.870B | 2.448B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (May) | 0.78B |  | 0.13B |
 | 10:00 | EUR | Moderate | Trade Balance (May) | 16.2B | 13.9B | 11.1B |
 | 10:30 | EUR | Low | German 30-Year Bund Auction | 3.220% |  | 2.990% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 52 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.77% |
-| 52 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 9.4% |
-| 52 min | USD | Low | MBA Purchase Index |  |  | 180.9 |
-| 52 min | USD | Low | Mortgage Market Index |  |  | 281.6 |
-| 52 min | USD | Low | Mortgage Refinance Index |  |  | 829.3 |
-| 52 min | ZAR | Low | Retail Sales (YoY) (May) |  |  | 5.1% |
-| 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.82% |  | 6.77% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.0% |  | 9.4% |
+| 12:00 | USD | Low | MBA Purchase Index | 159.6 |  | 180.9 |
+| 12:00 | USD | Low | Mortgage Market Index | 253.5 |  | 281.6 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 767.6 |  | 829.3 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (May) | 4.2% |  | 5.2% |
+| 54 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 262.0K | 279.5K |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 2.7% | 3.0% |
-| 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) |  | 2.5% | 2.6% |
+| 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 2.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.1% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jun) |  | 77.4% | 77.4% |
