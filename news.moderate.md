@@ -13,4 +13,4 @@
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.213M |  | 0.464M |
 | 19:00 | USD | Beige Book |  |  |  |
-| 22 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 21:30 | USD | FOMC Member Williams Speaks |  |  |  |
