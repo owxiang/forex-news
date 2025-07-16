@@ -11,8 +11,8 @@
 | 07:00 | GBP | Core RPI (MoM) (Jun) |  |  | 0.2% |
 | 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 4.1% |
 | 07:00 | GBP | CPI, n.s.a (Jun) |  |  | 138.40 |
-| 07:00 | GBP | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
 | 07:00 | GBP | RPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 07:00 | GBP | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
 | 08:30 | IDR | Deposit Facility Rate (Jul) |  |  | 4.75% |
 | 08:30 | IDR | Lending Facility Rate (Jul) |  |  | 6.25% |
 | 08:30 | IDR | Loans (YoY) (Jun) |  |  | 8.43% |

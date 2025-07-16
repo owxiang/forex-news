@@ -14,8 +14,8 @@
 | 07:00 | GBP | High | CPI (YoY) (Jun) |  | 3.4% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jun) |  |  | 138.40 |
 | 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 3.7% |
-| 07:00 | GBP | Low | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
 | 07:00 | GBP | Low | RPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 07:00 | GBP | Low | RPI (YoY) (Jun) |  | 4.3% | 4.3% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Jul) |  |  | 4.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jul) |  |  | 6.25% |
@@ -42,8 +42,8 @@
 | 13:00 | USD | Low | Milk Auctions |  |  | 4,274.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 262.5K | 279.5K |
 | 13:15 | CAD | Moderate | Housing Starts |  | 254.0K | 279.5K |
-| 13:30 | USD | Low | Core PPI (YoY) (Jun) |  |  | 3.0% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jun) |  |  | 3.0% |
 | 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.3% | 0.1% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) |  |  | 2.6% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.1% |
