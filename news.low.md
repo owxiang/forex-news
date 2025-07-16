@@ -5,7 +5,7 @@
 | 00:00 | KRW | Unemployment Rate (Jun) | 2.6% |  | 2.7% |
 | 00:00 | JPY | Reuters Tankan Index (Jul) | 7 |  | 6 |
 | 00:45 | USD | Fed Logan Speaks |  |  |  |
-| 17 min | NZD | RBNZ Offshore Holdings (Jun) |  |  | 59.70% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Jun) | 60.70% |  | 59.70% |
 | 07:00 | GBP | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 07:00 | GBP | Core CPI (YoY) (Jun) |  | 3.5% | 3.5% |
 | 07:00 | GBP | Core RPI (MoM) (Jun) |  |  | 0.2% |
