@@ -6,8 +6,8 @@
 | 07:00 | GBP | CPIH (YoY) | 4.1% |  | 4.0% |
 | 08:30 | IDR | Interest Rate Decision | 5.25% | 5.25% | 5.50% |
 | 10:00 | EUR | Trade Balance (May) | 16.2B | 13.9B | 11.1B |
-| 13:15 | CAD | Housing Starts (Jun) |  | 262.0K | 279.5K |
-| 13:30 | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
+| 3 min | CAD | Housing Starts (Jun) |  | 262.0K | 279.5K |
+| 18 min | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 14:15 | USD | Industrial Production (YoY) (Jun) |  |  | 0.60% |
 | 14:15 | USD | Industrial Production (MoM) (Jun) |  | 0.1% | -0.2% |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
