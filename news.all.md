@@ -16,15 +16,15 @@
 | 07:00 | GBP | Moderate | CPIH (YoY) | 4.1% |  | 4.0% |
 | 07:00 | GBP | Low | RPI (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
 | 07:00 | GBP | Low | RPI (YoY) (Jun) | 4.4% | 4.3% | 4.3% |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Jul) |  | 4.50% | 4.75% |
-| 08:30 | IDR | Low | Lending Facility Rate (Jul) |  | 6.00% | 6.25% |
-| 08:30 | IDR | Low | Loans (YoY) (Jun) |  |  | 8.43% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | -0.1% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 1.7% | 1.6% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 1.4% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jun) |  | 0.2% | -0.1% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 1.7% | 1.7% |
+| 21 min | IDR | Moderate | Interest Rate Decision |  | 5.25% | 5.50% |
+| 21 min | IDR | Low | Deposit Facility Rate (Jul) |  | 4.50% | 4.75% |
+| 21 min | IDR | Low | Lending Facility Rate (Jul) |  | 6.00% | 6.25% |
+| 21 min | IDR | Low | Loans (YoY) (Jun) |  |  | 8.43% |
+| 51 min | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | -0.1% |
+| 51 min | EUR | Low | Italian CPI (YoY) (Jun) |  | 1.7% | 1.6% |
+| 51 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 1.4% |
+| 51 min | EUR | Low | Italian HICP (MoM) (Jun) |  | 0.2% | -0.1% |
+| 51 min | EUR | Low | Italian HICP (YoY) (Jun) |  | 1.7% | 1.7% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 3.2% | 3.5% |
 | 10:00 | EUR | Low | Italian Trade Balance (May) |  | 2.870B | 2.482B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (May) |  |  | 0.16B |
