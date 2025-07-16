@@ -12,5 +12,5 @@
 | 14:15 | USD | Industrial Production (MoM) (Jun) | 0.3% | 0.1% | 0.0% |
 | 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.213M |  | 0.464M |
-| 19:00 | USD | Beige Book |  |  |  |
+| 52 min | USD | Beige Book |  |  |  |
 | 21:30 | USD | FOMC Member Williams Speaks |  |  |  |

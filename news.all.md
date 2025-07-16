@@ -20,11 +20,11 @@
 | 08:30 | IDR | Low | Deposit Facility Rate (Jul) | 4.50% | 4.50% | 4.75% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jul) | 6.00% | 6.00% | 6.25% |
 | 08:30 | IDR | Low | Loans (YoY) (Jun) | 7.77% |  | 8.43% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jun) | 1.7% | 1.7% | 1.6% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) | 1.5% |  | 1.4% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Jun) | 1.8% | 1.7% | 1.7% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | -0.1% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 3.9% | 3.2% | 3.5% |
 | 10:00 | EUR | Low | Italian Trade Balance (May) | 6.163B | 2.870B | 2.448B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (May) | 0.78B |  | 0.13B |
@@ -39,10 +39,10 @@
 | 12:00 | ZAR | Low | Retail Sales (YoY) (May) | 4.2% |  | 5.2% |
 | 13:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) | 283.7K | 262.0K | 282.7K |
-| 13:30 | USD | Low | Core PPI (YoY) (Jun) | 2.6% | 2.7% | 3.2% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) | 0.0% | 0.2% | 0.4% |
-| 13:30 | USD | High | PPI (MoM) (Jun) | 0.0% | 0.2% | 0.3% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jun) | 2.6% | 2.7% | 3.2% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) | 2.3% | 2.5% | 2.7% |
+| 13:30 | USD | High | PPI (MoM) (Jun) | 0.0% | 0.2% | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 2.5% |  | 2.8% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% |  | 0.1% |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jun) | 77.6% | 77.4% | 77.5% |
@@ -60,7 +60,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.846M |  | 0.603M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.8% |  | -0.2% |
 | 15:30 | USD | Low | Gasoline Inventories | 3.399M |  | -2.658M |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.148B |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 22 min | BRL | Low | Foreign Exchange Flows |  |  | -2.148B |
+| 52 min | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | 0.5% |
