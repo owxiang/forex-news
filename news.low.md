@@ -5,8 +5,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | 759.3B |  | 1,659.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
 | 00:50 | JPY | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
 | 01:30 | SGD | Trade Balance (Jun) | 9.708B |  | 7.264B |
 | 02:00 | AUD | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
 | 02:30 | AUD | Participation Rate (Jun) | 67.1% | 67.0% | 67.0% |
@@ -39,7 +39,7 @@
 | 15:30 | USD | Natural Gas Storage | 46B | 44B | 53B |
 | 16:30 | USD | 4-Week Bill Auction | 4.230% |  | 4.235% |
 | 16:30 | USD | 8-Week Bill Auction | 4.270% |  | 4.275% |
-| 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 23 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
 | 21:00 | USD | Overall Net Capital Flow (May) |  |  | -14.20B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) |  | 48.30B | -7.80B |
