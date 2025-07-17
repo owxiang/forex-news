@@ -12,8 +12,8 @@
 | 07:00 | GBP | Claimant Count Change (Jun) | 25.9K | 17.9K | 15.3K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (May) | 134K | 46K | 89K |
 | 07:00 | GBP | Unemployment Rate (May) | 4.7% | 4.6% | 4.6% |
-| 51 min | EUR | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
-| 51 min | EUR | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
+| 10:00 | EUR | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,970K | 1,965K |
 | 13:30 | USD | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
 | 13:30 | USD | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |

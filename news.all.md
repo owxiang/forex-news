@@ -24,18 +24,18 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 134K | 46K | 89K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.7% | 4.6% | 4.6% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 5.790B | 4.220B | 4.008B |
-| 21 min | HKD | Low | Unemployment Rate (Jun) |  |  | 3.5% |
-| 31 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
-| 31 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
-| 51 min | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
-| 51 min | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
-| 51 min | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
-| 51 min | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
-| 51 min | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
-| 51 min | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
-| 51 min | EUR | Low | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
-| 51 min | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
-| 51 min | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
+| 09:30 | HKD | Low | Unemployment Rate (Jun) | 3.5% |  | 3.5% |
+| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.303% |  | 3.163% |
+| 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.479% |  | 2.506% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.4% | 0.4% | 0.0% |
+| 10:00 | EUR | High | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
+| 10:00 | EUR | Low | CPI, n.s.a (Jun) | 129.10 | 129.07 | 128.71 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.4% | 2.4% | 2.4% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,965K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.3% | -0.3% |
