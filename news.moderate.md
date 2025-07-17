@@ -24,5 +24,5 @@
 | 15:00 | USD | Retail Inventories Ex Auto (May) | 0.2% | 0.2% | 0.2% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.4% | 2.6% | 2.6% |
 | 17:45 | USD | FOMC Member Daly Speaks |  |  |  |
-| 53 min | USD | TIC Net Long-Term Transactions (May) |  |  | -7.8B |
+| 21:00 | USD | TIC Net Long-Term Transactions (May) | 259.4B |  | -8.2B |
 | 23:30 | USD | Fed Waller Speaks |  |  |  |
