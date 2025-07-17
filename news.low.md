@@ -2,24 +2,24 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | JPY | Foreign Bonds Buying |  |  | 1,656.8B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 611.7B |
-| 43 min | JPY | Imports (YoY) (Jun) |  | -1.6% | -7.7% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jun) |  | 5.00% | -3.50% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jun) |  |  | -12.00% |
-| 02:00 | AUD | MI Inflation Expectations (Jul) |  |  | 5.0% |
-| 02:00 | SGD | Trade Balance (Jun) |  |  | 7.240B |
-| 02:30 | AUD | NAB Quarterly Business Confidence |  |  | -4 |
-| 02:30 | AUD | Participation Rate (Jun) |  | 67.0% | 67.0% |
-| 02:30 | AUD | Reserve Assets Total (Jun) |  |  | 103.4B |
+| 00:50 | JPY | Foreign Bonds Buying | 759.3B |  | 1,659.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
+| 00:50 | JPY | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
+| 28 min | AUD | MI Inflation Expectations (Jul) |  |  | 5.0% |
+| 28 min | SGD | Trade Balance (Jun) |  |  | 7.240B |
+| 58 min | AUD | NAB Quarterly Business Confidence |  |  | -4 |
+| 58 min | AUD | Participation Rate (Jun) |  | 67.0% | 67.0% |
+| 58 min | AUD | Reserve Assets Total (Jun) |  |  | 103.4B |
 | 07:00 | GBP | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
 | 07:00 | CHF | Trade Balance (Jun) |  | 4.220B | 3.831B |
 | 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.5% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.506% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
 | 10:00 | EUR | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |

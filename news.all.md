@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | JPY | Moderate | Adjusted Trade Balance |  | -0.26T | -0.31T |
-| 43 min | JPY | Moderate | Exports (YoY) (Jun) |  | 0.5% | -1.7% |
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | 1,656.8B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 611.7B |
-| 43 min | JPY | Low | Imports (YoY) (Jun) |  | -1.6% | -7.7% |
-| 43 min | JPY | Moderate | Trade Balance (Jun) |  | 353.9B | -637.6B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) |  | 5.00% | -3.50% |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) |  |  | -12.00% |
-| 02:00 | AUD | Low | MI Inflation Expectations (Jul) |  |  | 5.0% |
-| 02:00 | SGD | Low | Trade Balance (Jun) |  |  | 7.240B |
-| 02:30 | AUD | Moderate | Employment Change (Jun) |  | 21.0K | -2.5K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jun) |  |  | 38.7K |
-| 02:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -4 |
-| 02:30 | AUD | Low | Participation Rate (Jun) |  | 67.0% | 67.0% |
-| 02:30 | AUD | Low | Reserve Assets Total (Jun) |  |  | 103.4B |
-| 02:30 | AUD | Moderate | Unemployment Rate (Jun) |  | 4.1% | 4.1% |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.24T | -0.26T | -0.29T |
+| 00:50 | JPY | Moderate | Exports (YoY) (Jun) | -0.5% | 0.5% | -1.7% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 759.3B |  | 1,659.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
+| 00:50 | JPY | Low | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
+| 00:50 | JPY | Moderate | Trade Balance (Jun) | 153.1B | 353.9B | -638.6B |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
+| 28 min | AUD | Low | MI Inflation Expectations (Jul) |  |  | 5.0% |
+| 28 min | SGD | Low | Trade Balance (Jun) |  |  | 7.240B |
+| 58 min | AUD | Moderate | Employment Change (Jun) |  | 21.0K | -2.5K |
+| 58 min | AUD | Moderate | Full Employment Change (Jun) |  |  | 38.7K |
+| 58 min | AUD | Low | NAB Quarterly Business Confidence |  |  | -4 |
+| 58 min | AUD | Low | Participation Rate (Jun) |  | 67.0% | 67.0% |
+| 58 min | AUD | Low | Reserve Assets Total (Jun) |  |  | 103.4B |
+| 58 min | AUD | Moderate | Unemployment Rate (Jun) |  | 4.1% | 4.1% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.0% | 5.3% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) |  | 17.9K | 33.1K |
@@ -31,8 +31,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jul) |  |  | 2.3 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jul) |  |  | 41.40 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jun) |  | 0.3% | 0.4% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jun) |  | 0.1% | -0.9% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jun) |  | 0.1% | -0.9% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (May) |  |  | -9.36B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
