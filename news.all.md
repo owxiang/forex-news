@@ -67,8 +67,8 @@
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.4% | 2.6% | 2.6% |
 | 17:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
-| 21:00 | USD | Low | Overall Net Capital Flow (May) |  |  | -14.20B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (May) |  |  | -7.8B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  | 48.30B | -7.80B |
+| 53 min | USD | Low | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
+| 53 min | USD | Low | Overall Net Capital Flow (May) |  |  | -14.20B |
+| 53 min | USD | Moderate | TIC Net Long-Term Transactions (May) |  |  | -7.8B |
+| 53 min | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  | 48.30B | -7.80B |
 | 23:30 | USD | Moderate | Fed Waller Speaks |  |  |  |

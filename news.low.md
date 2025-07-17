@@ -40,6 +40,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 4.230% |  | 4.235% |
 | 16:30 | USD | 8-Week Bill Auction | 4.270% |  | 4.275% |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
-| 21:00 | USD | Overall Net Capital Flow (May) |  |  | -14.20B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) |  | 48.30B | -7.80B |
+| 53 min | USD | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
+| 53 min | USD | Overall Net Capital Flow (May) |  |  | -14.20B |
+| 53 min | USD | TIC Net Long-Term Transactions including Swaps (May) |  | 48.30B | -7.80B |
