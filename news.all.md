@@ -31,8 +31,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 129.10 | 129.07 | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
@@ -58,10 +58,10 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) | 0.6% |  | 0.0% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (May) | -2.79B | -7.32B | -9.46B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) | 13.370B |  | 4.070B |
-| 42 min | USD | Moderate | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
-| 42 min | USD | Low | NAHB Housing Market Index (Jul) |  | 33 | 32 |
-| 42 min | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 44B | 53B |
+| 15:00 | USD | Moderate | Business Inventories (MoM) (May) | 0.0% | 0.0% | 0.0% |
+| 15:00 | USD | Low | NAHB Housing Market Index (Jul) | 33 | 33 | 32 |
+| 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) | 0.2% | 0.2% | 0.2% |
+| 24 min | USD | Low | Natural Gas Storage |  | 44B | 53B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.235% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.275% |
 | 17:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |

@@ -20,8 +20,8 @@
 | 13:30 | USD | Philly Fed Employment (Jul) | 10.3 |  | -9.8 |
 | 13:30 | USD | Retail Control (MoM) (Jun) | 0.5% | 0.3% | 0.2% |
 | 13:30 | CAD | Foreign Securities Purchases (May) | -2.79B | -7.32B | -9.46B |
-| 42 min | USD | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
-| 42 min | USD | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
+| 15:00 | USD | Business Inventories (MoM) (May) | 0.0% | 0.0% | 0.0% |
+| 15:00 | USD | Retail Inventories Ex Auto (May) | 0.2% | 0.2% | 0.2% |
 | 17:45 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  |  | -7.8B |

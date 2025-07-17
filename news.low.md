@@ -18,8 +18,8 @@
 | 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.303% |  | 3.163% |
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.479% |  | 2.506% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) | 0.4% | 0.4% | 0.0% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
 | 10:00 | EUR | CPI, n.s.a (Jun) | 129.10 | 129.07 | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
@@ -35,8 +35,8 @@
 | 13:30 | USD | Retail Sales (YoY) (Jun) | 3.92% |  | 3.29% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jun) | 0.6% |  | 0.0% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (May) | 13.370B |  | 4.070B |
-| 42 min | USD | NAHB Housing Market Index (Jul) |  | 33 | 32 |
-| 15:30 | USD | Natural Gas Storage |  | 44B | 53B |
+| 15:00 | USD | NAHB Housing Market Index (Jul) | 33 | 33 | 32 |
+| 24 min | USD | Natural Gas Storage |  | 44B | 53B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.235% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.275% |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
