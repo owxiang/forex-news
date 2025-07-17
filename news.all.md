@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Jun) | 153.1B | 353.9B | -638.6B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Low | Trade Balance (Jun) | 9.708B |  | 7.264B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
 | 02:30 | AUD | Moderate | Employment Change (Jun) | 2.0K | 21.0K | -1.1K |
@@ -27,8 +27,8 @@
 | 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.5% |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
@@ -39,8 +39,8 @@
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,965K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.3% | -0.3% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jun) |  |  | 1.7% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 233K | 227K |
