@@ -14,15 +14,15 @@
 | 03:30 | AUD | NAB Quarterly Business Confidence | -1 |  | -3 |
 | 07:00 | GBP | Average Earnings ex Bonus (May) | 5.0% | 4.9% | 5.3% |
 | 07:00 | CHF | Trade Balance (Jun) | 5.790B | 4.220B | 4.008B |
-| 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.5% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
-| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.506% |
-| 10:00 | EUR | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
-| 10:00 | EUR | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
+| 21 min | HKD | Unemployment Rate (Jun) |  |  | 3.5% |
+| 31 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
+| 31 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.506% |
+| 51 min | EUR | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
+| 51 min | EUR | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
+| 51 min | EUR | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
+| 51 min | EUR | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
+| 51 min | EUR | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
+| 51 min | EUR | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
 | 13:30 | USD | Export Price Index (YoY) (Jun) |  |  | 1.7% |
 | 13:30 | USD | Import Price Index (YoY) (Jun) |  |  | 0.2% |

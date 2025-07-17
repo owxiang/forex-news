@@ -24,25 +24,25 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 134K | 46K | 89K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.7% | 4.6% | 4.6% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 5.790B | 4.220B | 4.008B |
-| 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.5% |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
-| 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
-| 10:00 | EUR | Low | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
-| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
-| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
+| 21 min | HKD | Low | Unemployment Rate (Jun) |  |  | 3.5% |
+| 31 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
+| 31 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
+| 51 min | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
+| 51 min | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
+| 51 min | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
+| 51 min | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
+| 51 min | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
+| 51 min | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
+| 51 min | EUR | Low | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
+| 51 min | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
+| 51 min | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,965K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.3% | -0.3% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jun) |  |  | 1.7% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 233K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jul) |  | -1.2 | -4.0 |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jul) |  |  | 2.3 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jul) |  |  | 41.40 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jun) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jun) |  | 0.1% | -0.9% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (May) |  | -7.32B | -9.36B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
