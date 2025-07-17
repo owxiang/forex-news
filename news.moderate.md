@@ -14,14 +14,14 @@
 | 07:00 | GBP | Unemployment Rate (May) | 4.7% | 4.6% | 4.6% |
 | 10:00 | EUR | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
-| 18 min | USD | Continuing Jobless Claims |  | 1,970K | 1,965K |
-| 18 min | USD | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
-| 18 min | USD | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
-| 18 min | USD | Philly Fed Employment (Jul) |  |  | -9.8 |
-| 18 min | USD | Retail Control (MoM) (Jun) |  | 0.3% | 0.4% |
-| 18 min | CAD | Foreign Securities Purchases (May) |  | -7.32B | -9.36B |
-| 15:00 | USD | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
+| 13:30 | USD | Continuing Jobless Claims | 1,956K | 1,970K | 1,954K |
+| 13:30 | USD | Export Price Index (MoM) (Jun) | 0.5% | 0.0% | -0.6% |
+| 13:30 | USD | Import Price Index (MoM) (Jun) | 0.1% | 0.3% | -0.4% |
+| 13:30 | USD | Philly Fed Employment (Jul) | 10.3 |  | -9.8 |
+| 13:30 | USD | Retail Control (MoM) (Jun) | 0.5% | 0.3% | 0.2% |
+| 13:30 | CAD | Foreign Securities Purchases (May) | -2.79B | -7.32B | -9.46B |
+| 42 min | USD | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
+| 42 min | USD | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
 | 17:45 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  |  | -7.8B |

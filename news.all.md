@@ -31,36 +31,36 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 129.10 | 129.07 | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.078% |  | 4.060% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) | -1.7% |  | -1.0% |
-| 18 min | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,965K |
-| 18 min | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.3% | -0.3% |
-| 18 min | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
-| 18 min | USD | Low | Export Price Index (YoY) (Jun) |  |  | 1.7% |
-| 18 min | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
-| 18 min | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
-| 18 min | USD | High | Initial Jobless Claims |  | 233K | 227K |
-| 18 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
-| 18 min | USD | High | Philadelphia Fed Manufacturing Index (Jul) |  | -1.2 | -4.0 |
-| 18 min | USD | Low | Philly Fed Business Conditions (Jul) |  |  | 18.3 |
-| 18 min | USD | Low | Philly Fed CAPEX Index (Jul) |  |  | 14.50 |
-| 18 min | USD | Moderate | Philly Fed Employment (Jul) |  |  | -9.8 |
-| 18 min | USD | Low | Philly Fed New Orders (Jul) |  |  | 2.3 |
-| 18 min | USD | Low | Philly Fed Prices Paid (Jul) |  |  | 41.40 |
-| 18 min | USD | Moderate | Retail Control (MoM) (Jun) |  | 0.3% | 0.4% |
-| 18 min | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
-| 18 min | USD | High | Retail Sales (MoM) (Jun) |  | 0.1% | -0.9% |
-| 18 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
-| 18 min | CAD | Moderate | Foreign Securities Purchases (May) |  | -7.32B | -9.36B |
-| 18 min | CAD | Low | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Jul) |  | 33 | 32 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,956K | 1,970K | 1,954K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Jun) | 0.5% | 0.3% | -0.2% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) | 0.5% | 0.0% | -0.6% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jun) | 2.8% |  | 1.9% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jun) | -0.2% |  | -0.2% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) | 0.1% | 0.3% | -0.4% |
+| 13:30 | USD | High | Initial Jobless Claims | 221K | 233K | 228K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 229.50K |  | 235.75K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jul) | 15.9 | -1.2 | -4.0 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Jul) | 21.5 |  | 18.3 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Jul) | 17.10 |  | 14.50 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Jul) | 10.3 |  | -9.8 |
+| 13:30 | USD | Low | Philly Fed New Orders (Jul) | 18.4 |  | 2.3 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Jul) | 58.80 |  | 41.40 |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Jun) | 0.5% | 0.3% | 0.2% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jun) | 3.92% |  | 3.29% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jun) | 0.6% | 0.1% | -0.9% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) | 0.6% |  | 0.0% |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (May) | -2.79B | -7.32B | -9.46B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) | 13.370B |  | 4.070B |
+| 42 min | USD | Moderate | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
+| 42 min | USD | Low | NAHB Housing Market Index (Jul) |  | 33 | 32 |
+| 42 min | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 44B | 53B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.235% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.275% |

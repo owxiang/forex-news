@@ -18,24 +18,24 @@
 | 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.303% |  | 3.163% |
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.479% |  | 2.506% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) | 0.4% | 0.4% | 0.0% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
 | 10:00 | EUR | CPI, n.s.a (Jun) | 129.10 | 129.07 | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.078% |  | 4.060% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jul) | -1.7% |  | -1.0% |
-| 18 min | USD | Export Price Index (YoY) (Jun) |  |  | 1.7% |
-| 18 min | USD | Import Price Index (YoY) (Jun) |  |  | 0.2% |
-| 18 min | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
-| 18 min | USD | Philly Fed Business Conditions (Jul) |  |  | 18.3 |
-| 18 min | USD | Philly Fed CAPEX Index (Jul) |  |  | 14.50 |
-| 18 min | USD | Philly Fed New Orders (Jul) |  |  | 2.3 |
-| 18 min | USD | Philly Fed Prices Paid (Jul) |  |  | 41.40 |
-| 18 min | USD | Retail Sales (YoY) (Jun) |  |  | 3.29% |
-| 18 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
-| 18 min | CAD | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
-| 15:00 | USD | NAHB Housing Market Index (Jul) |  | 33 | 32 |
+| 13:30 | USD | Export Price Index (YoY) (Jun) | 2.8% |  | 1.9% |
+| 13:30 | USD | Import Price Index (YoY) (Jun) | -0.2% |  | -0.2% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 229.50K |  | 235.75K |
+| 13:30 | USD | Philly Fed Business Conditions (Jul) | 21.5 |  | 18.3 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jul) | 17.10 |  | 14.50 |
+| 13:30 | USD | Philly Fed New Orders (Jul) | 18.4 |  | 2.3 |
+| 13:30 | USD | Philly Fed Prices Paid (Jul) | 58.80 |  | 41.40 |
+| 13:30 | USD | Retail Sales (YoY) (Jun) | 3.92% |  | 3.29% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jun) | 0.6% |  | 0.0% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (May) | 13.370B |  | 4.070B |
+| 42 min | USD | NAHB Housing Market Index (Jul) |  | 33 | 32 |
 | 15:30 | USD | Natural Gas Storage |  | 44B | 53B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.235% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.275% |
