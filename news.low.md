@@ -23,7 +23,7 @@
 | 10:00 | EUR | CPI, n.s.a (Jun) | 129.10 | 129.07 | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
+| 52 min | BRL | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
 | 13:30 | USD | Export Price Index (YoY) (Jun) |  |  | 1.7% |
 | 13:30 | USD | Import Price Index (YoY) (Jun) |  |  | 0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 235.50K |
