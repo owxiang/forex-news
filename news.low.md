@@ -12,8 +12,8 @@
 | 02:30 | AUD | Participation Rate (Jun) | 67.1% | 67.0% | 67.0% |
 | 02:30 | AUD | Reserve Assets Total (Jun) | 102.5B |  | 103.4B |
 | 03:30 | AUD | NAB Quarterly Business Confidence | -1 |  | -3 |
-| 50 min | GBP | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
-| 50 min | CHF | Trade Balance (Jun) |  | 4.220B | 3.831B |
+| 07:00 | GBP | Average Earnings ex Bonus (May) | 5.0% | 4.9% | 5.3% |
+| 07:00 | CHF | Trade Balance (Jun) | 5.790B | 4.220B | 4.008B |
 | 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.5% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.506% |

@@ -18,12 +18,12 @@
 | 02:30 | AUD | Low | Reserve Assets Total (Jun) | 102.5B |  | 103.4B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.3% | 4.1% | 4.1% |
 | 03:30 | AUD | Low | NAB Quarterly Business Confidence | -1 |  | -3 |
-| 50 min | GBP | Low | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
-| 50 min | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.0% | 5.3% |
-| 50 min | GBP | Moderate | Claimant Count Change (Jun) |  | 17.9K | 33.1K |
-| 50 min | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  | 46K | 89K |
-| 50 min | GBP | Moderate | Unemployment Rate (May) |  | 4.6% | 4.6% |
-| 50 min | CHF | Low | Trade Balance (Jun) |  | 4.220B | 3.831B |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (May) | 5.0% | 4.9% | 5.3% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) | 5.0% | 5.0% | 5.4% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Jun) | 25.9K | 17.9K | 15.3K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 134K | 46K | 89K |
+| 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.7% | 4.6% | 4.6% |
+| 07:00 | CHF | Low | Trade Balance (Jun) | 5.790B | 4.220B | 4.008B |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.5% |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
