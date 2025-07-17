@@ -5,8 +5,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | 759.3B |  | 1,659.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
 | 00:50 | JPY | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Trade Balance (Jun) | 9.708B |  | 7.264B |
 | 02:00 | AUD | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
 | 02:30 | AUD | Participation Rate (Jun) | 67.1% | 67.0% | 67.0% |
@@ -18,8 +18,8 @@
 | 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.303% |  | 3.163% |
 | 10:00 | EUR | Spanish 5-Year Bonos Auction | 2.479% |  | 2.506% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) | 0.4% | 0.4% | 0.0% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) | 1.9% |  | 1.8% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
 | 10:00 | EUR | CPI, n.s.a (Jun) | 129.10 | 129.07 | 128.71 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.3% | 0.3% | 0.1% |
@@ -43,3 +43,4 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (May) | 146.30B |  | -40.80B |
 | 21:00 | USD | Overall Net Capital Flow (May) | 311.10B |  | -14.60B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) | 259.40B | 48.30B | -8.20B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.375T |  | 3.342T |

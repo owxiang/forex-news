@@ -25,4 +25,5 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.4% | 2.6% | 2.6% |
 | 17:45 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) | 259.4B |  | -8.2B |
+| 21:30 | USD | Fed's Balance Sheet | 6,659B |  | 6,662B |
 | 23:30 | USD | Fed Waller Speaks |  |  |  |
