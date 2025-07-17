@@ -5,13 +5,13 @@
 | 00:50 | JPY | Foreign Bonds Buying | 759.3B |  | 1,659.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
 | 00:50 | JPY | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
-| 28 min | AUD | MI Inflation Expectations (Jul) |  |  | 5.0% |
-| 28 min | SGD | Trade Balance (Jun) |  |  | 7.240B |
-| 58 min | AUD | NAB Quarterly Business Confidence |  |  | -4 |
-| 58 min | AUD | Participation Rate (Jun) |  | 67.0% | 67.0% |
-| 58 min | AUD | Reserve Assets Total (Jun) |  |  | 103.4B |
+| 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
+| 01:30 | SGD | Trade Balance (Jun) | 9.708B |  | 7.264B |
+| 02:00 | AUD | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
+| 02:30 | AUD | NAB Quarterly Business Confidence |  |  | -4 |
+| 02:30 | AUD | Participation Rate (Jun) | 67.1% | 67.0% | 67.0% |
+| 02:30 | AUD | Reserve Assets Total (Jun) | 102.5B |  | 103.4B |
 | 07:00 | GBP | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
 | 07:00 | CHF | Trade Balance (Jun) |  | 4.220B | 3.831B |
 | 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.5% |
