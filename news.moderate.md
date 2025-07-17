@@ -1,29 +1,28 @@
-## 17 July 2025 - Moderate Impact Forex News
+## 18 July 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.24T | -0.26T | -0.29T |
-| 00:50 | JPY | Exports (YoY) (Jun) | -0.5% | 0.5% | -1.7% |
-| 00:50 | JPY | Trade Balance (Jun) | 153.1B | 353.9B | -638.6B |
-| 02:30 | AUD | Employment Change (Jun) | 2.0K | 21.0K | -1.1K |
-| 02:30 | AUD | Full Employment Change (Jun) | -38.2K |  | 38.7K |
-| 02:30 | AUD | Unemployment Rate (Jun) | 4.3% | 4.1% | 4.1% |
-| 07:00 | GBP | Average Earnings Index +Bonus (May) | 5.0% | 5.0% | 5.4% |
-| 07:00 | GBP | Claimant Count Change (Jun) | 25.9K | 17.9K | 15.3K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (May) | 134K | 46K | 89K |
-| 07:00 | GBP | Unemployment Rate (May) | 4.7% | 4.6% | 4.6% |
-| 10:00 | EUR | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
-| 13:30 | USD | Continuing Jobless Claims | 1,956K | 1,970K | 1,954K |
-| 13:30 | USD | Export Price Index (MoM) (Jun) | 0.5% | 0.0% | -0.6% |
-| 13:30 | USD | Import Price Index (MoM) (Jun) | 0.1% | 0.3% | -0.4% |
-| 13:30 | USD | Philly Fed Employment (Jul) | 10.3 |  | -9.8 |
-| 13:30 | USD | Retail Control (MoM) (Jun) | 0.5% | 0.3% | 0.2% |
-| 13:30 | CAD | Foreign Securities Purchases (May) | -2.79B | -7.32B | -9.46B |
-| 15:00 | USD | Business Inventories (MoM) (May) | 0.0% | 0.0% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (May) | 0.2% | 0.2% | 0.2% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.4% | 2.6% | 2.6% |
-| 17:45 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (May) | 259.4B |  | -8.2B |
-| 21:30 | USD | Fed's Balance Sheet | 6,659B |  | 6,662B |
-| 23 min | USD | Fed Waller Speaks |  |  |  |
+| 23 min | JPY | National Core CPI (YoY) (Jun) |  | 3.4% | 3.7% |
+| 23 min | JPY | National CPI (MoM) (Jun) |  |  | 0.3% |
+| 07:00 | EUR | German PPI (MoM) (Jun) |  | 0.1% | -0.2% |
+| 09:15 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:30 | USD | Building Permits (Jun) |  | 1.390M | 1.394M |
+| 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -9.8% |
+| 13:30 | USD | Housing Starts (Jun) |  | 1.290M | 1.256M |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 5.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 4.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 55.0 | 58.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 61.4 | 60.7 |
+| 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 537 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 33.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 209.4K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 203.0K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 31.2K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -140.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -74.3K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 49.0K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | 116.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 120.6K |
