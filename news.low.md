@@ -12,8 +12,8 @@
 | 02:30 | AUD | Participation Rate (Jun) | 67.1% | 67.0% | 67.0% |
 | 02:30 | AUD | Reserve Assets Total (Jun) | 102.5B |  | 103.4B |
 | 03:30 | AUD | NAB Quarterly Business Confidence | -1 |  | -3 |
-| 07:00 | GBP | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
-| 07:00 | CHF | Trade Balance (Jun) |  | 4.220B | 3.831B |
+| 50 min | GBP | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
+| 50 min | CHF | Trade Balance (Jun) |  | 4.220B | 3.831B |
 | 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.5% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.506% |
@@ -35,10 +35,10 @@
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
 | 15:00 | USD | NAHB Housing Market Index (Jul) |  | 33 | 32 |
-| 15:30 | USD | Natural Gas Storage |  |  | 53B |
+| 15:30 | USD | Natural Gas Storage |  | 44B | 53B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.235% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.275% |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
 | 21:00 | USD | Overall Net Capital Flow (May) |  |  | -14.20B |
-| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) |  | 55.30B | -7.80B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (May) |  | 48.30B | -7.80B |

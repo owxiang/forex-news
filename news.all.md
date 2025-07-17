@@ -18,17 +18,17 @@
 | 02:30 | AUD | Low | Reserve Assets Total (Jun) | 102.5B |  | 103.4B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.3% | 4.1% | 4.1% |
 | 03:30 | AUD | Low | NAB Quarterly Business Confidence | -1 |  | -3 |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.0% | 5.3% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Jun) |  | 17.9K | 33.1K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  | 46K | 89K |
-| 07:00 | GBP | Moderate | Unemployment Rate (May) |  | 4.6% | 4.6% |
-| 07:00 | CHF | Low | Trade Balance (Jun) |  | 4.220B | 3.831B |
+| 50 min | GBP | Low | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
+| 50 min | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.0% | 5.3% |
+| 50 min | GBP | Moderate | Claimant Count Change (Jun) |  | 17.9K | 33.1K |
+| 50 min | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  | 46K | 89K |
+| 50 min | GBP | Moderate | Unemployment Rate (May) |  | 4.6% | 4.6% |
+| 50 min | CHF | Low | Trade Balance (Jun) |  | 4.220B | 3.831B |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.5% |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.163% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
@@ -39,8 +39,8 @@
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,965K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.3% | -0.3% |
-| 13:30 | USD | Low | Export Price Index (YoY) (Jun) |  |  | 1.7% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jun) |  |  | 1.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 233K | 227K |
@@ -55,12 +55,12 @@
 | 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jun) |  | 0.1% | -0.9% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
-| 13:30 | CAD | Moderate | Foreign Securities Purchases (May) |  |  | -9.36B |
+| 13:30 | CAD | Moderate | Foreign Securities Purchases (May) |  | -7.32B | -9.36B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (May) |  | 0.0% | 0.0% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jul) |  | 33 | 32 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.2% | 0.2% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 53B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 44B | 53B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.235% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.275% |
 | 17:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
@@ -69,5 +69,5 @@
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
 | 21:00 | USD | Low | Overall Net Capital Flow (May) |  |  | -14.20B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (May) |  |  | -7.8B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  | 55.30B | -7.80B |
+| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (May) |  | 48.30B | -7.80B |
 | 23:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
