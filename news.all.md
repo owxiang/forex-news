@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Jun) | 153.1B | 353.9B | -638.6B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Low | Trade Balance (Jun) | 9.708B |  | 7.264B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
 | 02:30 | AUD | Moderate | Employment Change (Jun) | 2.0K | 21.0K | -1.1K |
@@ -27,8 +27,8 @@
 | 09:30 | HKD | Low | Unemployment Rate (Jun) | 3.5% |  | 3.5% |
 | 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.303% |  | 3.163% |
 | 10:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.479% |  | 2.506% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.4% | 0.4% | 0.0% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.0% | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | 0.3% |  | -0.1% |
@@ -53,8 +53,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jul) | 18.4 |  | 2.3 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jul) | 58.80 |  | 41.40 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jun) | 0.5% | 0.3% | 0.2% |
-| 13:30 | USD | High | Retail Sales (MoM) (Jun) | 0.6% | 0.1% | -0.9% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Jun) | 3.92% |  | 3.29% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jun) | 0.6% | 0.1% | -0.9% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) | 0.6% |  | 0.0% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (May) | -2.79B | -7.32B | -9.46B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) | 13.370B |  | 4.070B |
@@ -62,10 +62,10 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Jul) | 33 | 33 | 32 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) | 0.2% | 0.2% | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage | 46B | 44B | 53B |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.235% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.275% |
-| 17:45 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.230% |  | 4.235% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.270% |  | 4.275% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.4% | 2.6% | 2.6% |
+| 37 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (May) |  |  | -40.80B |
 | 21:00 | USD | Low | Overall Net Capital Flow (May) |  |  | -14.20B |

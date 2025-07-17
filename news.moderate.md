@@ -22,7 +22,7 @@
 | 13:30 | CAD | Foreign Securities Purchases (May) | -2.79B | -7.32B | -9.46B |
 | 15:00 | USD | Business Inventories (MoM) (May) | 0.0% | 0.0% | 0.0% |
 | 15:00 | USD | Retail Inventories Ex Auto (May) | 0.2% | 0.2% | 0.2% |
-| 17:45 | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.4% | 2.6% | 2.6% |
+| 37 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  |  | -7.8B |
 | 23:30 | USD | Fed Waller Speaks |  |  |  |
