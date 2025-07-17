@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 446.0B |  | 611.5B |
 | 00:50 | JPY | Low | Imports (YoY) (Jun) | 0.2% | -1.6% | -7.7% |
 | 00:50 | JPY | Moderate | Trade Balance (Jun) | 153.1B | 353.9B | -638.6B |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) | 13.00% | 5.00% | -3.90% |
 | 01:30 | SGD | Low | Trade Balance (Jun) | 9.708B |  | 7.264B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
 | 02:30 | AUD | Moderate | Employment Change (Jun) | 2.0K | 21.0K | -1.1K |
@@ -29,20 +29,20 @@
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.506% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.4% | 0.0% |
-| 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
+| 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.0% | 1.9% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 1.8% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | -0.1% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) |  | 129.07 | 128.71 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) |  | 2.4% | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) |  | 0.3% | 0.1% |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jul) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,970K | 1,965K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.3% | -0.3% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Jun) |  |  | 1.7% |
-| 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  | 0.0% | -0.9% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.3% | 0.0% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jun) |  |  | 0.2% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 233K | 227K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 235.50K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jul) |  | -1.2 | -4.0 |
@@ -52,8 +52,8 @@
 | 13:30 | USD | Low | Philly Fed New Orders (Jul) |  |  | 2.3 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Jul) |  |  | 41.40 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jun) |  | 0.3% | 0.4% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jun) |  | 0.1% | -0.9% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 3.29% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | -0.1% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (May) |  |  | -9.36B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) |  |  | 4.100B |
