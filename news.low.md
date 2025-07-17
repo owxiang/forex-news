@@ -9,9 +9,9 @@
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
 | 01:30 | SGD | Trade Balance (Jun) | 9.708B |  | 7.264B |
 | 02:00 | AUD | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
-| 02:30 | AUD | NAB Quarterly Business Confidence |  |  | -4 |
 | 02:30 | AUD | Participation Rate (Jun) | 67.1% | 67.0% | 67.0% |
 | 02:30 | AUD | Reserve Assets Total (Jun) | 102.5B |  | 103.4B |
+| 03:30 | AUD | NAB Quarterly Business Confidence | -1 |  | -3 |
 | 07:00 | GBP | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
 | 07:00 | CHF | Trade Balance (Jun) |  | 4.220B | 3.831B |
 | 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.5% |

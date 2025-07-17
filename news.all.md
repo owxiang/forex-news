@@ -12,12 +12,12 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) | 14.30% |  | -12.40% |
 | 01:30 | SGD | Low | Trade Balance (Jun) | 9.708B |  | 7.264B |
 | 02:00 | AUD | Low | MI Inflation Expectations (Jul) | 4.7% |  | 5.0% |
-| 02:30 | AUD | Moderate | Employment Change (Jun) | 2.0K | 21.0K | -2.5K |
+| 02:30 | AUD | Moderate | Employment Change (Jun) | 2.0K | 21.0K | -1.1K |
 | 02:30 | AUD | Moderate | Full Employment Change (Jun) | -38.2K |  | 38.7K |
-| 02:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -4 |
 | 02:30 | AUD | Low | Participation Rate (Jun) | 67.1% | 67.0% | 67.0% |
 | 02:30 | AUD | Low | Reserve Assets Total (Jun) | 102.5B |  | 103.4B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.3% | 4.1% | 4.1% |
+| 03:30 | AUD | Low | NAB Quarterly Business Confidence | -1 |  | -3 |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 4.9% | 5.2% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.0% | 5.3% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) |  | 17.9K | 33.1K |
