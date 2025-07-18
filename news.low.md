@@ -13,8 +13,8 @@
 | 12:30 | INR | Bank Loan Growth | 9.5% |  | 9.6% |
 | 12:30 | INR | Deposit Growth | 10.1% |  | 10.4% |
 | 12:30 | INR | FX Reserves, USD | 696.67B |  | 699.74B |
-| 18 min | USD | Building Permits (MoM) (Jun) |  |  | -2.0% |
-| 15:00 | USD | Michigan Current Conditions (Jul) |  | 63.9 | 64.8 |
+| 13:30 | USD | Building Permits (MoM) (Jun) | 0.2% |  | -2.0% |
+| 42 min | USD | Michigan Current Conditions (Jul) |  | 63.9 | 64.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -141.8K |

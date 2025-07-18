@@ -7,13 +7,13 @@
 | 07:00 | EUR | German PPI (MoM) (Jun) | 0.1% | 0.1% | -0.2% |
 | 09:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18 min | USD | Building Permits (Jun) |  | 1.390M | 1.394M |
-| 18 min | USD | Housing Starts (MoM) (Jun) |  |  | -9.8% |
-| 18 min | USD | Housing Starts (Jun) |  | 1.290M | 1.256M |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 5.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 4.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 55.0 | 58.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 61.4 | 60.7 |
+| 13:30 | USD | Building Permits (Jun) | 1.397M | 1.390M | 1.394M |
+| 13:30 | USD | Housing Starts (MoM) (Jun) | 4.6% |  | -9.7% |
+| 13:30 | USD | Housing Starts (Jun) | 1.321M | 1.290M | 1.263M |
+| 42 min | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 5.0% |
+| 42 min | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 4.0% |
+| 42 min | USD | Michigan Consumer Expectations (Jul) |  | 55.0 | 58.1 |
+| 42 min | USD | Michigan Consumer Sentiment (Jul) |  | 61.4 | 60.7 |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 537 |
