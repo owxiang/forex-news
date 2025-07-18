@@ -7,8 +7,8 @@
 | 00:30 | JPY | Low | National CPI (YoY) (Jun) | 3.3% |  | 3.5% |
 | 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jun) | 0.9% |  | 2.0% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.3% | -1.3% | -1.2% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jun) | 0.1% | 0.1% | -0.2% |
+| 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.3% | -1.3% | -1.2% |
 | 09:00 | EUR | Low | Current Account (May) | 32.3B | 34.8B | 18.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (May) | 1.0B |  | 18.1B |
 | 09:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
@@ -18,10 +18,10 @@
 | 12:30 | INR | Low | Bank Loan Growth | 9.5% |  | 9.6% |
 | 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.4% |
 | 12:30 | INR | Low | FX Reserves, USD | 696.67B |  | 699.74B |
-| 13:30 | USD | Low | Building Permits (MoM) (Jun) | 0.2% |  | -2.0% |
 | 13:30 | USD | Moderate | Building Permits (Jun) | 1.397M | 1.390M | 1.394M |
-| 13:30 | USD | Moderate | Housing Starts (Jun) | 1.321M | 1.290M | 1.263M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jun) | 0.2% |  | -2.0% |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) | 4.6% |  | -9.7% |
+| 13:30 | USD | Moderate | Housing Starts (Jun) | 1.321M | 1.290M | 1.263M |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) | 4.4% | 5.0% | 5.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 3.6% | 3.9% | 4.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 58.6 | 55.0 | 58.1 |
