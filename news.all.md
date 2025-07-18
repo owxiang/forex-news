@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jun) | 0.1% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.7% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jun) | 3.3% |  | 3.5% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jun) | 0.9% |  | 2.0% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jun) |  | -1.3% | -1.2% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jun) |  | 0.1% | -0.2% |
+| 48 min | EUR | Moderate | German PPI (MoM) (Jun) |  | 0.1% | -0.2% |
+| 48 min | EUR | Low | German PPI (YoY) (Jun) |  | -1.3% | -1.2% |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -3.88B |
 | 09:00 | EUR | Low | Current Account (May) |  | 34.8B | 19.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (May) |  |  | 19.3B |
