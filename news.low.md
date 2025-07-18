@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | CPI, n.s.a (MoM) (Jun) | 0.1% |  | 0.3% |
 | 00:30 | JPY | National CPI (YoY) (Jun) | 3.3% |  | 3.5% |
-| 04:00 | NZD | Credit Card Spending (YoY) (Jun) |  |  | 2.2% |
+| 15 min | NZD | Credit Card Spending (YoY) (Jun) |  |  | 2.2% |
 | 07:00 | EUR | German PPI (YoY) (Jun) |  | -1.3% | -1.2% |
 | 09:00 | EUR | Spanish Trade Balance |  |  | -3.88B |
 | 09:00 | EUR | Current Account (May) |  | 34.8B | 19.8B |
