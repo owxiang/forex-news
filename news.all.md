@@ -14,10 +14,10 @@
 | 09:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Construction Output (MoM) (May) | -1.68% |  | 4.29% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 9.6% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 10.4% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 699.74B |
-| 12:30 | EUR | Low | Spanish Trade Balance |  |  | -3.88B |
+| 23 min | INR | Low | Bank Loan Growth |  |  | 9.6% |
+| 23 min | INR | Low | Deposit Growth |  |  | 10.4% |
+| 23 min | INR | Low | FX Reserves, USD |  |  | 699.74B |
+| 23 min | EUR | Low | Spanish Trade Balance |  |  | -3.88B |
 | 13:30 | USD | Low | Building Permits (MoM) (Jun) |  |  | -2.0% |
 | 13:30 | USD | Moderate | Building Permits (Jun) |  | 1.390M | 1.394M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) |  |  | -9.8% |
