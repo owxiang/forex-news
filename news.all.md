@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jun) | 0.1% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.7% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jun) | 3.3% |  | 3.5% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jun) | 0.9% |  | 2.0% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jun) | 0.1% | 0.1% | -0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.3% | -1.3% | -1.2% |
@@ -28,8 +28,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 61.8 | 61.4 | 60.7 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) | 66.8 | 63.9 | 64.8 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.4% | 2.4% | 2.4% |
-| 51 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
-| 51 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 537 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 422 |  | 424 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 544 |  | 537 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 33.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 39.6K |
