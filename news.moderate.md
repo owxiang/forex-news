@@ -8,8 +8,8 @@
 | 09:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Jun) |  | 1.390M | 1.394M |
-| 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -9.8% |
 | 13:30 | USD | Housing Starts (Jun) |  | 1.290M | 1.256M |
+| 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -9.8% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 5.0% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 4.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 55.0 | 58.1 |
