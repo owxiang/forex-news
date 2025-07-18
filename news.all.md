@@ -22,11 +22,11 @@
 | 13:30 | USD | Low | Building Permits (MoM) (Jun) | 0.2% |  | -2.0% |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) | 4.6% |  | -9.7% |
 | 13:30 | USD | Moderate | Housing Starts (Jun) | 1.321M | 1.290M | 1.263M |
-| 42 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  |  | 5.0% |
-| 42 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  |  | 4.0% |
-| 42 min | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 55.0 | 58.1 |
-| 42 min | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 61.4 | 60.7 |
-| 42 min | USD | Low | Michigan Current Conditions (Jul) |  | 63.9 | 64.8 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) | 4.4% |  | 5.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 3.6% |  | 4.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 58.6 | 55.0 | 58.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 61.8 | 61.4 | 60.7 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jul) | 66.8 | 63.9 | 64.8 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 424 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 537 |
