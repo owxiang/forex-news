@@ -4,22 +4,22 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jun) | 0.1% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.7% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jun) | 3.3% |  | 3.5% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) (Jun) | 0.9% |  | 2.0% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.3% | -1.3% | -1.2% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jun) | 0.1% | 0.1% | -0.2% |
-| 09:00 | EUR | Low | Spanish Trade Balance |  |  | -3.88B |
-| 09:00 | EUR | Low | Current Account (May) |  | 34.8B | 19.8B |
-| 09:00 | EUR | Low | Current Account n.s.a. (May) |  |  | 19.3B |
+| 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.3% | -1.3% | -1.2% |
+| 50 min | EUR | Low | Spanish Trade Balance |  |  | -3.88B |
+| 50 min | EUR | Low | Current Account (May) |  | 34.8B | 19.8B |
+| 50 min | EUR | Low | Current Account n.s.a. (May) |  |  | 19.3B |
 | 09:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Construction Output (MoM) (May) |  |  | 1.65% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.6% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.4% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 699.74B |
-| 13:30 | USD | Low | Building Permits (MoM) (Jun) |  |  | -2.0% |
 | 13:30 | USD | Moderate | Building Permits (Jun) |  | 1.390M | 1.394M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jun) |  |  | -2.0% |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) |  |  | -9.8% |
 | 13:30 | USD | Moderate | Housing Starts (Jun) |  | 1.290M | 1.256M |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  |  | 5.0% |
