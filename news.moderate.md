@@ -5,8 +5,8 @@
 | 00:30 | JPY | National Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.7% |
 | 00:30 | JPY | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 07:00 | EUR | German PPI (MoM) (Jun) | 0.1% | 0.1% | -0.2% |
-| 09:15 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 6 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 6 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Building Permits (Jun) |  | 1.390M | 1.394M |
 | 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -9.8% |
 | 13:30 | USD | Housing Starts (Jun) |  | 1.290M | 1.256M |
