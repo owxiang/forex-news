@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | JPY | National Core CPI (YoY) (Jun) |  | 3.4% | 3.7% |
-| 23 min | JPY | National CPI (MoM) (Jun) |  |  | 0.3% |
+| 00:30 | JPY | National Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.7% |
+| 00:30 | JPY | National CPI (MoM) (Jun) | 0.1% |  | 0.3% |
 | 07:00 | EUR | German PPI (MoM) (Jun) |  | 0.1% | -0.2% |
 | 09:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 09:15 | EUR | German Buba President Nagel Speaks |  |  |  |
