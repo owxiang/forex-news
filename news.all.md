@@ -14,14 +14,14 @@
 | 09:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | EUR | Low | Construction Output (MoM) (May) | -1.68% |  | 4.29% |
-| 23 min | INR | Low | Bank Loan Growth |  |  | 9.6% |
-| 23 min | INR | Low | Deposit Growth |  |  | 10.4% |
-| 23 min | INR | Low | FX Reserves, USD |  |  | 699.74B |
-| 23 min | EUR | Low | Spanish Trade Balance |  |  | -3.88B |
-| 13:30 | USD | Low | Building Permits (MoM) (Jun) |  |  | -2.0% |
-| 13:30 | USD | Moderate | Building Permits (Jun) |  | 1.390M | 1.394M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) |  |  | -9.8% |
-| 13:30 | USD | Moderate | Housing Starts (Jun) |  | 1.290M | 1.256M |
+| 11:30 | EUR | Low | Spanish Trade Balance | -2.54B |  | -3.88B |
+| 12:30 | INR | Low | Bank Loan Growth | 9.5% |  | 9.6% |
+| 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.4% |
+| 12:30 | INR | Low | FX Reserves, USD | 696.67B |  | 699.74B |
+| 18 min | USD | Low | Building Permits (MoM) (Jun) |  |  | -2.0% |
+| 18 min | USD | Moderate | Building Permits (Jun) |  | 1.390M | 1.394M |
+| 18 min | USD | Moderate | Housing Starts (MoM) (Jun) |  |  | -9.8% |
+| 18 min | USD | Moderate | Housing Starts (Jun) |  | 1.290M | 1.256M |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  |  | 5.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  |  | 4.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 55.0 | 58.1 |

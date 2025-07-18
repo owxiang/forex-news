@@ -9,11 +9,11 @@
 | 09:00 | EUR | Current Account (May) | 32.3B | 34.8B | 18.6B |
 | 09:00 | EUR | Current Account n.s.a. (May) | 1.0B |  | 18.1B |
 | 10:00 | EUR | Construction Output (MoM) (May) | -1.68% |  | 4.29% |
-| 23 min | INR | Bank Loan Growth |  |  | 9.6% |
-| 23 min | INR | Deposit Growth |  |  | 10.4% |
-| 23 min | INR | FX Reserves, USD |  |  | 699.74B |
-| 23 min | EUR | Spanish Trade Balance |  |  | -3.88B |
-| 13:30 | USD | Building Permits (MoM) (Jun) |  |  | -2.0% |
+| 11:30 | EUR | Spanish Trade Balance | -2.54B |  | -3.88B |
+| 12:30 | INR | Bank Loan Growth | 9.5% |  | 9.6% |
+| 12:30 | INR | Deposit Growth | 10.1% |  | 10.4% |
+| 12:30 | INR | FX Reserves, USD | 696.67B |  | 699.74B |
+| 18 min | USD | Building Permits (MoM) (Jun) |  |  | -2.0% |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 63.9 | 64.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.6K |
