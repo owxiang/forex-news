@@ -7,12 +7,12 @@
 | 04:00 | NZD | Credit Card Spending (YoY) (Jun) | 0.9% |  | 2.0% |
 | 07:00 | EUR | German PPI (YoY) (Jun) | -1.3% | -1.3% | -1.2% |
 | 09:00 | EUR | Current Account (May) | 32.3B | 34.8B | 18.6B |
-| 09:00 | EUR | Current Account n.s.a. (May) | 1.0B |  | 18.0B |
-| 10:00 | EUR | Spanish Trade Balance |  |  | -3.88B |
-| 10:00 | EUR | Construction Output (MoM) (May) |  |  | 1.65% |
+| 09:00 | EUR | Current Account n.s.a. (May) | 1.0B |  | 18.1B |
+| 10:00 | EUR | Construction Output (MoM) (May) | -1.68% |  | 4.29% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.6% |
 | 12:30 | INR | Deposit Growth |  |  | 10.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 699.74B |
+| 12:30 | EUR | Spanish Trade Balance |  |  | -3.88B |
 | 13:30 | USD | Building Permits (MoM) (Jun) |  |  | -2.0% |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 63.9 | 64.8 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.3K |
