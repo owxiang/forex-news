@@ -6,10 +6,10 @@
 | 00:30 | JPY | National CPI (YoY) (Jun) | 3.3% |  | 3.5% |
 | 04:00 | NZD | Credit Card Spending (YoY) (Jun) | 0.9% |  | 2.0% |
 | 07:00 | EUR | German PPI (YoY) (Jun) | -1.3% | -1.3% | -1.2% |
-| 09:00 | EUR | Spanish Trade Balance |  |  | -3.88B |
 | 09:00 | EUR | Current Account (May) | 32.3B | 34.8B | 18.6B |
-| 09:00 | EUR | Current Account n.s.a. (May) | 1.0B |  | 19.3B |
-| 51 min | EUR | Construction Output (MoM) (May) |  |  | 1.65% |
+| 09:00 | EUR | Current Account n.s.a. (May) | 1.0B |  | 18.0B |
+| 10:00 | EUR | Spanish Trade Balance |  |  | -3.88B |
+| 10:00 | EUR | Construction Output (MoM) (May) |  |  | 1.65% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.6% |
 | 12:30 | INR | Deposit Growth |  |  | 10.4% |
 | 12:30 | INR | FX Reserves, USD |  |  | 699.74B |
