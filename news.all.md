@@ -20,8 +20,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 696.67B |  | 699.74B |
 | 13:30 | USD | Low | Building Permits (MoM) (Jun) | 0.2% |  | -2.0% |
 | 13:30 | USD | Moderate | Building Permits (Jun) | 1.397M | 1.390M | 1.394M |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) | 4.6% |  | -9.7% |
 | 13:30 | USD | Moderate | Housing Starts (Jun) | 1.321M | 1.290M | 1.263M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Jun) | 4.6% |  | -9.7% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) | 4.4% | 5.0% | 5.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 3.6% | 3.9% | 4.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 58.6 | 55.0 | 58.1 |
