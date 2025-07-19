@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:45 | NZD | CPI (QoQ) (Q2) |  |  | 0.9% |
 | 23:45 | NZD | CPI (YoY) (Q2) |  |  | 2.5% |
+| 23:45 | NZD | CPI (QoQ) (Q2) |  |  | 0.9% |
