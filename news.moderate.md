@@ -1,6 +1,9 @@
-## 20 July 2025 - Moderate Impact Forex News
+## 21 July 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | NZD | CPI (YoY) (Q2) |  | 2.8% | 2.5% |
-| 39 min | NZD | CPI (QoQ) (Q2) |  | 0.6% | 0.9% |
+| 02:00 | CNY | China Loan Prime Rate 5Y (Jul) |  | 3.50% | 3.50% |
+| 02:00 | CNY | PBoC Loan Prime Rate |  | 3.00% | 3.00% |
+| 13:30 | CAD | RMPI (MoM) (Jun) |  | -0.2% | -0.4% |
+| 15:00 | USD | US Leading Index (MoM) (Jun) |  | -0.2% | -0.1% |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
