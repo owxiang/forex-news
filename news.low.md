@@ -9,16 +9,16 @@
 | 09:30 | HKD | CPI (YoY) (Jun) | 1.40% | 1.50% | 1.90% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Infrastructure Output (YoY) (Jun) | 1.7% |  | 1.2% |
-| 13:30 | CAD | IPPI (YoY) (Jun) | 1.7% |  | 1.3% |
 | 13:30 | CAD | IPPI (MoM) (Jun) | 0.4% | 0.1% | -0.5% |
+| 13:30 | CAD | IPPI (YoY) (Jun) | 1.7% |  | 1.3% |
 | 13:30 | CAD | RMPI (YoY) (Jun) | 1.1% |  | -3.2% |
 | 14:00 | EUR | French 12-Month BTF Auction | 1.902% |  | 1.914% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.938% |  | 1.940% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.935% |  | 1.925% |
 | 16:30 | USD | 3-Month Bill Auction | 4.240% |  | 4.245% |
 | 16:30 | USD | 6-Month Bill Auction | 4.115% |  | 4.125% |
-| 52 min | KRW | PPI (YoY) (Jun) |  |  | 0.3% |
-| 52 min | KRW | PPI (MoM) (Jun) |  |  | -0.4% |
+| 22:00 | KRW | PPI (YoY) (Jun) | 0.5% |  | 0.3% |
+| 22:00 | KRW | PPI (MoM) (Jun) | 0.1% |  | -0.4% |
 | 23:45 | NZD | Exports (Jun) |  |  | 7.68B |
 | 23:45 | NZD | Imports (Jun) |  |  | 6.44B |
 | 23:45 | NZD | Trade Balance (YoY) (Jun) |  |  | -3,790M |
