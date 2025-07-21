@@ -22,8 +22,8 @@
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 4.240% |  | 4.245% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.115% |  | 4.125% |
-| 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | -0.4% |
 | 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 0.3% |
+| 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | -0.4% |
 | 23:45 | NZD | Low | Exports (Jun) |  |  | 7.68B |
 | 23:45 | NZD | Low | Imports (Jun) |  |  | 6.44B |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -3,790M |
