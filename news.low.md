@@ -21,5 +21,5 @@
 | 22:00 | KRW | PPI (YoY) (Jun) |  |  | 0.3% |
 | 23:45 | NZD | Exports (Jun) |  |  | 7.68B |
 | 23:45 | NZD | Imports (Jun) |  |  | 6.44B |
-| 23:45 | NZD | Trade Balance (MoM) (Jun) |  | 1,020M | 1,235M |
 | 23:45 | NZD | Trade Balance (YoY) (Jun) |  |  | -3,790M |
+| 23:45 | NZD | Trade Balance (MoM) (Jun) |  | 1,020M | 1,235M |
