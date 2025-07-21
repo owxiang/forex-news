@@ -5,8 +5,8 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -1.2% |  | -0.3% |
 | 00:01 | GBP | Rightmove House Price Index (YoY) (Jul) | 0.1% |  | 0.8% |
 | 08:00 | CHF | M3 Money Supply (Jun) | 1,184.6B |  | 1,175.5B |
-| 09:30 | HKD | CPI (MoM) (Jun) |  |  | -0.30% |
-| 09:30 | HKD | CPI (YoY) (Jun) |  | 1.50% | 1.90% |
+| 19 min | HKD | CPI (MoM) (Jun) |  |  | -0.30% |
+| 19 min | HKD | CPI (YoY) (Jun) |  | 1.50% | 1.90% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:40 | INR | Infrastructure Output (YoY) (Jun) |  |  | 0.7% |
 | 13:30 | CAD | IPPI (MoM) (Jun) |  | 0.1% | -0.5% |

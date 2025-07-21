@@ -7,8 +7,8 @@
 | 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jul) | 3.50% | 3.50% | 3.50% |
 | 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 08:00 | CHF | Low | M3 Money Supply (Jun) | 1,184.6B |  | 1,175.5B |
-| 09:30 | HKD | Low | CPI (MoM) (Jun) |  |  | -0.30% |
-| 09:30 | HKD | Low | CPI (YoY) (Jun) |  | 1.50% | 1.90% |
+| 19 min | HKD | Low | CPI (MoM) (Jun) |  |  | -0.30% |
+| 19 min | HKD | Low | CPI (YoY) (Jun) |  | 1.50% | 1.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:40 | INR | Low | Infrastructure Output (YoY) (Jun) |  |  | 0.7% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jun) |  | 0.1% | -0.5% |
