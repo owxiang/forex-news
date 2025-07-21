@@ -1,30 +1,25 @@
-## 21 July 2025 - All Forex News
+## 22 July 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.2% |  | -0.3% |
-| 00:01 | GBP | Low | Rightmove House Price Index (YoY) (Jul) | 0.1% |  | 0.8% |
-| 02:00 | CNY | Moderate | China Loan Prime Rate 5Y (Jul) | 3.50% | 3.50% | 3.50% |
-| 02:00 | CNY | Moderate | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
-| 08:00 | CHF | Low | M3 Money Supply (Jun) | 1,184.6B |  | 1,175.5B |
-| 09:30 | HKD | Low | CPI (MoM) (Jun) | 0.00% |  | -0.30% |
-| 09:30 | HKD | Low | CPI (YoY) (Jun) | 1.40% | 1.50% | 1.90% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | INR | Low | Infrastructure Output (YoY) (Jun) | 1.7% |  | 1.2% |
-| 13:30 | CAD | Low | IPPI (MoM) (Jun) | 0.4% | 0.1% | -0.5% |
-| 13:30 | CAD | Low | IPPI (YoY) (Jun) | 1.7% |  | 1.3% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jun) | 1.1% |  | -3.2% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Jun) | 2.7% | -0.1% | -0.7% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.902% |  | 1.914% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.938% |  | 1.940% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.935% |  | 1.925% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) | -0.3% | -0.2% | 0.0% |
-| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 4.240% |  | 4.245% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.115% |  | 4.125% |
-| 22:00 | KRW | Low | PPI (YoY) (Jun) | 0.5% |  | 0.3% |
-| 22:00 | KRW | Low | PPI (MoM) (Jun) | 0.1% |  | -0.4% |
-| 38 min | NZD | Low | Exports (Jun) |  |  | 7.68B |
-| 38 min | NZD | Low | Imports (Jun) |  |  | 6.44B |
-| 38 min | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -3,790M |
-| 38 min | NZD | Low | Trade Balance (MoM) (Jun) |  | 1,020M | 1,235M |
+| 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jun) |  |  | 4.90% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) |  | 17.60B | 17.69B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) |  |  | 20.936B |
+| 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 112.80% |
+| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 10:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 13:00 | MXN | Low | Economic Activity (YoY) (May) |  | 0.50% | -1.50% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.30% | 0.50% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (May) |  |  | -1.0% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | -2.0% |
+| 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | -3 | -7 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -3 |
+| 15:00 | USD | Low | Richmond Services Index (Jul) |  |  | -4 |
+| 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 21.94T |
+| 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 19.100M |
+| 22:00 | KRW | Low | Consumer Confidence (Jul) |  |  | 108.7 |
