@@ -24,7 +24,7 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.115% |  | 4.125% |
 | 22:00 | KRW | Low | PPI (YoY) (Jun) | 0.5% |  | 0.3% |
 | 22:00 | KRW | Low | PPI (MoM) (Jun) | 0.1% |  | -0.4% |
-| 23:45 | NZD | Low | Exports (Jun) |  |  | 7.68B |
-| 23:45 | NZD | Low | Imports (Jun) |  |  | 6.44B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -3,790M |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Jun) |  | 1,020M | 1,235M |
+| 38 min | NZD | Low | Exports (Jun) |  |  | 7.68B |
+| 38 min | NZD | Low | Imports (Jun) |  |  | 6.44B |
+| 38 min | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -3,790M |
+| 38 min | NZD | Low | Trade Balance (MoM) (Jun) |  | 1,020M | 1,235M |
