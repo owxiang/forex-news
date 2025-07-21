@@ -11,17 +11,17 @@
 | 09:30 | HKD | Low | CPI (YoY) (Jun) | 1.40% | 1.50% | 1.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Jun) | 1.7% |  | 1.2% |
-| 13:30 | CAD | Low | IPPI (YoY) (Jun) | 1.7% |  | 1.3% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jun) | 0.4% | 0.1% | -0.5% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jun) | 1.7% |  | 1.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jun) | 1.1% |  | -3.2% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jun) | 2.7% | -0.1% | -0.7% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.902% |  | 1.914% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.938% |  | 1.940% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.935% |  | 1.925% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) | -0.3% | -0.2% | 0.0% |
-| 22 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 4.245% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.125% |
+| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.245% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.125% |
 | 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 0.3% |
 | 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | -0.4% |
 | 23:45 | NZD | Low | Exports (Jun) |  |  | 7.68B |

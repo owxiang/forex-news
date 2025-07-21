@@ -6,4 +6,4 @@
 | 02:00 | CNY | PBoC Loan Prime Rate | 3.00% | 3.00% | 3.00% |
 | 13:30 | CAD | RMPI (MoM) (Jun) | 2.7% | -0.1% | -0.7% |
 | 15:00 | USD | US Leading Index (MoM) (Jun) | -0.3% | -0.2% | 0.0% |
-| 22 min | CAD | BoC Business Outlook Survey |  |  |  |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
