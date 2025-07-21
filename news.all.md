@@ -13,8 +13,8 @@
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Jun) | 1.7% |  | 1.2% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jun) | 1.7% |  | 1.3% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jun) | 0.4% | 0.1% | -0.5% |
-| 13:30 | CAD | Low | RMPI (YoY) (Jun) | 1.1% |  | -3.2% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jun) | 2.7% | -0.1% | -0.7% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jun) | 1.1% |  | -3.2% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 1.902% |  | 1.914% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.938% |  | 1.940% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.935% |  | 1.925% |
