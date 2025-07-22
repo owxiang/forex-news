@@ -21,5 +21,5 @@
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) | 22.02T |  | 21.94T |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 19.100M |
-| 22:00 | KRW | Low | Consumer Confidence (Jul) |  |  | 108.7 |
+| 22 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 19.100M |
+| 52 min | KRW | Low | Consumer Confidence (Jul) |  |  | 108.7 |
