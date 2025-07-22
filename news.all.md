@@ -11,8 +11,8 @@
 | 10:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (May) | 0.00% | 0.30% | 0.40% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (May) | -0.20% | 0.50% | -1.70% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (May) | 1.8% |  | -1.0% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) | 2.7% |  | -2.0% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (May) | 1.8% |  | -1.0% |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 5.1% |  | 5.2% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jul) | -20 | -2 | -8 |
