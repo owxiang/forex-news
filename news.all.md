@@ -18,8 +18,8 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jul) | -20 | -2 | -8 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) | -18 |  | -5 |
 | 15:00 | USD | Low | Richmond Services Index (Jul) | 2 |  | -1 |
-| 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 21.94T |
-| 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 52 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 52 min | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 21.94T |
+| 52 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 19.100M |
 | 22:00 | KRW | Low | Consumer Confidence (Jul) |  |  | 108.7 |
