@@ -12,8 +12,8 @@
 | 13:00 | MXN | Retail Sales (MoM) (May) | 1.8% |  | -1.0% |
 | 13:00 | MXN | Retail Sales (YoY) (May) | 2.7% |  | -2.0% |
 | 13:55 | USD | Redbook (YoY) | 5.1% |  | 5.2% |
-| 41 min | USD | Richmond Manufacturing Index (Jul) |  | -2 | -7 |
-| 41 min | USD | Richmond Manufacturing Shipments (Jul) |  |  | -3 |
-| 41 min | USD | Richmond Services Index (Jul) |  |  | -4 |
+| 15:00 | USD | Richmond Manufacturing Index (Jul) | -20 | -2 | -8 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Jul) | -18 |  | -5 |
+| 15:00 | USD | Richmond Services Index (Jul) | 2 |  | -1 |
 | 18:00 | USD | M2 Money Supply (MoM) (Jun) |  |  | 21.94T |
 | 22:00 | KRW | Consumer Confidence (Jul) |  |  | 108.7 |

@@ -15,9 +15,9 @@
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) | 2.7% |  | -2.0% |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 5.1% |  | 5.2% |
-| 41 min | USD | Low | Richmond Manufacturing Index (Jul) |  | -2 | -7 |
-| 41 min | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -3 |
-| 41 min | USD | Low | Richmond Services Index (Jul) |  |  | -4 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Jul) | -20 | -2 | -8 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) | -18 |  | -5 |
+| 15:00 | USD | Low | Richmond Services Index (Jul) | 2 |  | -1 |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 21.94T |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
