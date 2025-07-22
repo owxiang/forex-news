@@ -1,9 +1,12 @@
-## 22 July 2025 - Moderate Impact Forex News
+## 23 July 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 10:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -0.577M |  | 19.100M |
+| 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.5% | 2.5% |
+| 06:00 | SGD | Core CPI (YoY) (Jun) |  | 0.70% | 0.60% |
+| 06:00 | SGD | CPI (YoY) (Jun) |  | 0.9% | 0.8% |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.630% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Jun) |  | 0.0% | -0.2% |
+| 15:00 | USD | Existing Home Sales (MoM) (Jun) |  |  | 0.8% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.213M |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.942% |

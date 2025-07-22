@@ -1,5 +1,6 @@
-## 22 July 2025 - High Impact Forex News
+## 23 July 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Fed Chair Powell Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (Jun) |  | 4.01M | 4.03M |
+| 15:30 | USD | Crude Oil Inventories |  |  | -3.859M |

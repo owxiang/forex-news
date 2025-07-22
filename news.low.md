@@ -1,19 +1,26 @@
-## 22 July 2025 - Low Impact Forex News
+## 23 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | IDR | M2 Money Supply (YoY) (Jun) | 6.50% |  | 4.90% |
-| 07:00 | GBP | Public Sector Net Borrowing (Jun) | 20.68B | 17.40B | 17.44B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Jun) | -16.108B |  | 20.959B |
-| 08:00 | ZAR | Leading Indicators (May) | 111.30% |  | 112.73% |
-| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (May) | 0.00% | 0.30% | 0.40% |
-| 13:00 | MXN | Economic Activity (YoY) (May) | -0.20% | 0.50% | -1.70% |
-| 13:00 | MXN | Retail Sales (MoM) (May) | 1.8% |  | -1.0% |
-| 13:00 | MXN | Retail Sales (YoY) (May) | 2.7% |  | -2.0% |
-| 13:55 | USD | Redbook (YoY) | 5.1% |  | 5.2% |
-| 15:00 | USD | Richmond Manufacturing Index (Jul) | -20 | -2 | -8 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Jul) | -18 |  | -5 |
-| 15:00 | USD | Richmond Services Index (Jul) | 2 |  | -1 |
-| 18:00 | USD | M2 Money Supply (MoM) (Jun) | 22.02T |  | 21.94T |
-| 22:00 | KRW | Consumer Confidence (Jul) | 110.8 |  | 108.7 |
+| 02:00 | AUD | MI Leading Index (MoM) (Jun) |  |  | -0.1% |
+| 06:00 | SGD | CPI (MoM) (Jun) |  |  | 0.70% |
+| 09:00 | ZAR | Core CPI (YoY) (Jun) |  |  | 3.0% |
+| 09:00 | ZAR | Core CPI (MoM) (Jun) |  |  | 0.0% |
+| 09:00 | ZAR | CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | ZAR | CPI (YoY) (Jun) |  |  | 2.8% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.82% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.0% |
+| 12:00 | USD | MBA Purchase Index |  |  | 159.6 |
+| 12:00 | USD | Mortgage Market Index |  |  | 253.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 767.6 |
+| 12:30 | INR | M3 Money Supply |  |  | 9.6% |
+| 15:00 | EUR | Consumer Confidence (Jul) |  | -15.0 | -15.3 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.157M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.395M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.109M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 4.173M |
+| 15:30 | USD | Gasoline Production |  |  | -0.815M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.846M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.8% |
+| 15:30 | USD | Gasoline Inventories |  |  | 3.399M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.638B |
