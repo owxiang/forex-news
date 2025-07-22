@@ -8,11 +8,11 @@
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | -16.108B |  | 20.959B |
 | 08:00 | ZAR | Low | Leading Indicators (May) | 111.30% |  | 112.73% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 5 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 10:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.30% | 0.50% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (May) |  | 0.50% | -1.50% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | -2.0% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (May) |  |  | -1.0% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | -2.0% |
 | 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | -2 | -7 |
