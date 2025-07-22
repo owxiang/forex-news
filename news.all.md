@@ -9,15 +9,15 @@
 | 08:00 | ZAR | Low | Leading Indicators (May) | 111.30% |  | 112.73% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 10:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (May) | -0.20% | 0.50% | -1.70% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (May) | 0.00% | 0.30% | 0.40% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (May) | -0.20% | 0.50% | -1.70% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (May) | 1.8% |  | -1.0% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) | 2.7% |  | -2.0% |
-| 18 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 43 min | USD | Low | Redbook (YoY) |  |  | 5.2% |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | -2 | -7 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -3 |
-| 15:00 | USD | Low | Richmond Services Index (Jul) |  |  | -4 |
+| 13:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) | 5.1% |  | 5.2% |
+| 41 min | USD | Low | Richmond Manufacturing Index (Jul) |  | -2 | -7 |
+| 41 min | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -3 |
+| 41 min | USD | Low | Richmond Services Index (Jul) |  |  | -4 |
 | 18:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 21.94T |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
