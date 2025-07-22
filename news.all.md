@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Jun) | 6.50% |  | 4.90% |
-| 49 min | GBP | Low | Public Sector Net Borrowing (Jun) |  | 17.40B | 17.69B |
-| 49 min | GBP | Low | Public Sector Net Cash Requirement (Jun) |  |  | 20.936B |
-| 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 112.80% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 20.68B | 17.40B | 17.44B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | -16.108B |  | 20.959B |
+| 49 min | ZAR | Low | Leading Indicators (May) |  |  | 112.80% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 10:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.30% | 0.50% |
