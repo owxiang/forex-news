@@ -6,4 +6,4 @@
 | 10:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22 min | USD | API Weekly Crude Oil Stock |  |  | 19.100M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -0.577M |  | 19.100M |

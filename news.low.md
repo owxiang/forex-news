@@ -16,4 +16,4 @@
 | 15:00 | USD | Richmond Manufacturing Shipments (Jul) | -18 |  | -5 |
 | 15:00 | USD | Richmond Services Index (Jul) | 2 |  | -1 |
 | 18:00 | USD | M2 Money Supply (MoM) (Jun) | 22.02T |  | 21.94T |
-| 52 min | KRW | Consumer Confidence (Jul) |  |  | 108.7 |
+| 22:00 | KRW | Consumer Confidence (Jul) | 110.8 |  | 108.7 |
