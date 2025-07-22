@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | IDR | M2 Money Supply (YoY) (Jun) |  |  | 4.90% |
+| 05:00 | IDR | M2 Money Supply (YoY) (Jun) | 6.50% |  | 4.90% |
 | 07:00 | GBP | Public Sector Net Borrowing (Jun) |  | 17.60B | 17.69B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jun) |  |  | 20.936B |
 | 08:00 | ZAR | Leading Indicators (May) |  |  | 112.80% |

@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jun) |  |  | 4.90% |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jun) | 6.50% |  | 4.90% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) |  | 17.60B | 17.69B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) |  |  | 20.936B |
 | 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 112.80% |
