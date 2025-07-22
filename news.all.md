@@ -7,7 +7,7 @@
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 20.68B | 17.40B | 17.44B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | -16.108B |  | 20.959B |
 | 08:00 | ZAR | Low | Leading Indicators (May) | 111.30% |  | 112.73% |
-| 50 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 10:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.30% | 0.50% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (May) |  | 0.50% | -1.50% |
