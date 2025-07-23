@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Jun) | -0.0% |  | 0.1% |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.5% |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) |  | 0.70% | 0.60% |
-| 06:00 | SGD | Low | CPI (MoM) (Jun) |  |  | 0.70% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Jun) |  | 0.9% | 0.8% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 3.0% |
+| 38 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.5% |
+| 38 min | SGD | Moderate | Core CPI (YoY) (Jun) |  | 0.70% | 0.60% |
+| 38 min | SGD | Low | CPI (MoM) (Jun) |  |  | 0.70% |
+| 38 min | SGD | Moderate | CPI (YoY) (Jun) |  | 0.9% | 0.8% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.0% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 3.0% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 2.8% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
