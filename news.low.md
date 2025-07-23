@@ -14,7 +14,7 @@
 | 12:00 | USD | Mortgage Market Index | 255.5 |  | 253.5 |
 | 12:00 | USD | Mortgage Refinance Index | 747.5 |  | 767.6 |
 | 12:30 | INR | M3 Money Supply | 9.5% |  | 9.6% |
-| 15:00 | EUR | Consumer Confidence (Jul) |  | -15.0 | -15.3 |
+| 41 min | EUR | Consumer Confidence (Jul) |  | -15.0 | -15.3 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.157M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.395M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.109M |

@@ -18,10 +18,10 @@
 | 12:00 | USD | Low | Mortgage Market Index | 255.5 |  | 253.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 747.5 |  | 767.6 |
 | 12:30 | INR | Low | M3 Money Supply | 9.5% |  | 9.6% |
-| 18 min | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  | 0.0% | -0.2% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | 0.8% |
-| 15:00 | USD | High | Existing Home Sales (Jun) |  | 4.00M | 4.03M |
-| 15:00 | EUR | Low | Consumer Confidence (Jul) |  | -15.0 | -15.3 |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
+| 41 min | USD | High | Existing Home Sales (Jun) |  | 4.00M | 4.03M |
+| 41 min | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | 0.8% |
+| 41 min | EUR | Low | Consumer Confidence (Jul) |  | -15.0 | -15.3 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.400M | -3.859M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.157M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.395M |
