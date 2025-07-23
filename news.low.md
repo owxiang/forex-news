@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 28 min | AUD | MI Leading Index (MoM) (Jun) |  |  | -0.1% |
+| 02:00 | AUD | MI Leading Index (MoM) (Jun) | -0.0% |  | 0.1% |
 | 06:00 | SGD | CPI (MoM) (Jun) |  |  | 0.70% |
 | 09:00 | ZAR | Core CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | ZAR | Core CPI (YoY) (Jun) |  |  | 3.0% |

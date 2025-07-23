@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 28 min | AUD | Low | MI Leading Index (MoM) (Jun) |  |  | -0.1% |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (Jun) | -0.0% |  | 0.1% |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.5% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) |  | 0.70% | 0.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Jun) |  |  | 0.70% |
@@ -19,8 +19,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 767.6 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.6% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  | 0.0% | -0.2% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | 0.8% |
 | 15:00 | USD | High | Existing Home Sales (Jun) |  | 4.01M | 4.03M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | 0.8% |
 | 15:00 | EUR | Low | Consumer Confidence (Jul) |  | -15.0 | -15.3 |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | -3.859M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.157M |
