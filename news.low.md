@@ -6,8 +6,8 @@
 | 06:00 | SGD | CPI (MoM) (Jun) | -0.10% |  | 0.70% |
 | 09:00 | ZAR | Core CPI (YoY) (Jun) |  |  | 3.0% |
 | 09:00 | ZAR | Core CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | ZAR | CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:00 | ZAR | CPI (YoY) (Jun) |  |  | 2.8% |
+| 09:00 | ZAR | CPI (MoM) (Jun) |  |  | 0.2% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.82% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.0% |
 | 12:00 | USD | MBA Purchase Index |  |  | 159.6 |
