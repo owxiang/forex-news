@@ -9,4 +9,4 @@
 | 13:30 | CAD | New Housing Price Index (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
 | 15:00 | USD | Existing Home Sales (MoM) (Jun) | -2.7% |  | 1.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.455M |  | 0.213M |
-| 51 min | USD | 20-Year Bond Auction |  |  | 4.942% |
+| 18:00 | USD | 20-Year Bond Auction | 4.935% |  | 4.942% |
