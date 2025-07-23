@@ -8,5 +8,5 @@
 | 10:30 | EUR | German 10-Year Bund Auction | 2.620% |  | 2.630% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
 | 15:00 | USD | Existing Home Sales (MoM) (Jun) | -2.7% |  | 1.0% |
-| 22 min | USD | Cushing Crude Oil Inventories |  |  | 0.213M |
+| 15:30 | USD | Cushing Crude Oil Inventories | 0.455M |  | 0.213M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.942% |
