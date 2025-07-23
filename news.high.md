@@ -1,6 +1,11 @@
-## 23 July 2025 - High Impact Forex News
+## 24 July 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | Existing Home Sales (Jun) | 3.93M | 4.00M | 4.04M |
-| 15:30 | USD | Crude Oil Inventories | -3.169M | -1.400M | -3.859M |
+| 13:15 | EUR | Deposit Facility Rate (Jul) |  | 2.00% | 2.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Jul) |  | 2.15% | 2.15% |
+| 13:30 | USD | Initial Jobless Claims |  | 227K | 221K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 14:45 | USD | S&P Global Manufacturing PMI (Jul) |  | 52.7 | 52.9 |
+| 14:45 | USD | S&P Global Services PMI (Jul) |  | 53.0 | 52.9 |
+| 15:00 | USD | New Home Sales (Jun) |  | 649K | 623K |

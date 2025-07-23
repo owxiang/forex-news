@@ -1,36 +1,74 @@
-## 23 July 2025 - All Forex News
+## 24 July 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Jun) | -0.0% |  | 0.1% |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.3% | 2.5% | 2.5% |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 0.60% | 0.70% | 0.60% |
-| 06:00 | SGD | Low | CPI (MoM) (Jun) | -0.10% |  | 0.70% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Jun) | 0.8% | 0.9% | 0.8% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.3% |  | 0.0% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 2.9% |  | 3.0% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.3% |  | 0.2% |
-| 09:00 | ZAR | Low | CPI (YoY) (Jun) | 3.0% |  | 2.8% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.620% |  | 2.630% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.84% |  | 6.82% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.8% |  | -10.0% |
-| 12:00 | USD | Low | MBA Purchase Index | 165.1 |  | 159.6 |
-| 12:00 | USD | Low | Mortgage Market Index | 255.5 |  | 253.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 747.5 |  | 767.6 |
-| 12:30 | INR | Low | M3 Money Supply | 9.5% |  | 9.6% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) | -2.7% |  | 1.0% |
-| 15:00 | USD | High | Existing Home Sales (Jun) | 3.93M | 4.00M | 4.04M |
-| 15:00 | EUR | Low | Consumer Confidence (Jul) | -14.7 | -15.0 | -15.3 |
-| 15:30 | USD | High | Crude Oil Inventories | -3.169M | -1.400M | -3.859M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.087M |  | -0.157M |
-| 15:30 | USD | Low | Crude Oil Imports | -0.740M |  | -0.395M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.455M |  | 0.213M |
-| 15:30 | USD | Low | Distillate Fuel Production | 0.095M |  | -0.109M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 2.931M |  | 4.173M |
-| 15:30 | USD | Low | Gasoline Production | 0.282M |  | -0.815M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | 0.003M |  | -0.846M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -0.8% |
-| 15:30 | USD | Low | Gasoline Inventories | -1.738M |  | 3.399M |
-| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.935% |  | 4.942% |
-| 18:30 | BRL | Low | Foreign Exchange Flows | 0.216B |  | 0.638B |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.6% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
+| 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Jul) | 51.6 |  | 50.6 |
+| 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 53.8 |  | 51.8 |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) |  | 50.2 | 50.1 |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) |  |  | 51.7 |
+| 02:30 | AUD | Low | RBA Bulletin |  |  |  |
+| 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 05:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.6% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 24.7% |
+| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) |  |  | 0.2% |
+| 05:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 1.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) |  |  | -1.4% |
+| 05:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
+| 05:00 | EUR | Low | French Car Registration (MoM) (Jun) |  |  | -10.7% |
+| 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) |  |  | 58.4 |
+| 06:00 | INR | Low | S&P Global Services PMI (Jul) |  |  | 60.4 |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -19.4 | -20.3 |
+| 07:00 | NOK | Low | Industrial Confidence (Q2) |  |  | 4.0 |
+| 07:00 | NOK | Low | Unemployment Rate (Jun) |  |  | 4.6% |
+| 07:45 | EUR | Low | French Business Survey (Jul) |  | 97 | 96 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Jun) |  |  | 0.0% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) |  | 10.60% | 11.36% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.5 | 48.1 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Jul) |  | 49.3 | 49.2 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 50.7 | 50.4 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.4 | 49.0 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 50.0 | 49.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.7 | 49.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 50.8 | 50.6 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 50.6 | 50.5 |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jul) |  | 51.9 | 52.0 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 48.1 | 47.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) |  | 52.8 | 52.8 |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -27 | -33 |
+| 11:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.20% | 0.22% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.27% | 0.10% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:15 | EUR | High | Deposit Facility Rate (Jul) |  | 2.00% | 2.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 2.40% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Jul) |  | 2.15% | 2.15% |
+| 13:30 | USD | Moderate | Building Permits (Jun) |  | 1.397M | 1.394M |
+| 13:30 | USD | Low | Building Permits (MoM) (Jun) |  |  | -2.0% |
+| 13:30 | USD | Low | Chicago Fed National Activity (Jun) |  |  | -0.28 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,956K |
+| 13:30 | USD | High | Initial Jobless Claims |  | 227K | 221K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 229.50K |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (May) |  | -0.2% | -0.3% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) |  |  | -0.9% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (May) |  | -0.9% | 0.3% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (May) |  |  | 0.3% |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) |  | 52.7 | 52.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  |  | 52.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 53.0 | 52.9 |
+| 15:00 | USD | High | New Home Sales (Jun) |  | 649K | 623K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -13.7% |
+| 15:30 | USD | Low | Natural Gas Storage |  | 28B | 46B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jul) |  |  | -2 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | 5 |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.270% |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.220% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,659B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.375T |
+| 23:00 | EUR | Moderate | France Jobseekers Total |  |  | 3,002.0K |
