@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | AUD | MI Leading Index (MoM) (Jun) | -0.0% |  | 0.1% |
 | 06:00 | SGD | CPI (MoM) (Jun) | -0.10% |  | 0.70% |
-| 09:00 | ZAR | Core CPI (YoY) (Jun) | 2.9% |  | 3.0% |
 | 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.3% |  | 0.0% |
+| 09:00 | ZAR | Core CPI (YoY) (Jun) | 2.9% |  | 3.0% |
 | 09:00 | ZAR | CPI (MoM) (Jun) | 0.3% |  | 0.2% |
 | 09:00 | ZAR | CPI (YoY) (Jun) | 3.0% |  | 2.8% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 6.84% |  | 6.82% |
