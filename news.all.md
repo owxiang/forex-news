@@ -33,4 +33,4 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.6% |  | -0.8% |
 | 15:30 | USD | Low | Gasoline Inventories | -1.738M |  | 3.399M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction | 4.935% |  | 4.942% |
-| 22 min | BRL | Low | Foreign Exchange Flows |  |  | 0.638B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 0.216B |  | 0.638B |
