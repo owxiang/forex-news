@@ -7,8 +7,8 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 0.60% | 0.70% | 0.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Jun) | -0.10% |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Jun) | 0.8% | 0.9% | 0.8% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 2.9% |  | 3.0% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.3% |  | 0.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.3% |  | 0.2% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) | 3.0% |  | 2.8% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.620% |  | 2.630% |
