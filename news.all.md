@@ -7,10 +7,10 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) |  | 0.70% | 0.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Jun) |  |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Jun) |  | 0.9% | 0.8% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 3.0% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.0% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 2.8% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.82% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.0% |
