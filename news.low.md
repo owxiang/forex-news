@@ -13,8 +13,8 @@
 | 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
-| 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jul) | 59.2 |  | 58.4 |
 | 06:00 | INR | S&P Global Services PMI (Jul) | 59.8 |  | 60.4 |
@@ -33,9 +33,9 @@
 | 13:30 | USD | Chicago Fed National Activity (Jun) | -0.10 |  | -0.16 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 224.50K |  | 229.50K |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Jun) | 0.4% |  | -0.9% |
-| 15:30 | USD | Natural Gas Storage |  | 28B | 46B |
-| 16:00 | USD | KC Fed Composite Index (Jul) |  |  | -2 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jul) |  |  | 5 |
+| 22 min | USD | Natural Gas Storage |  | 28B | 46B |
+| 52 min | USD | KC Fed Composite Index (Jul) |  |  | -2 |
+| 52 min | USD | KC Fed Manufacturing Index (Jul) |  |  | 5 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.230% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.270% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.375T |

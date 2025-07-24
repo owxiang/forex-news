@@ -14,8 +14,8 @@
 | 05:00 | GBP | Low | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) | 59.2 |  | 58.4 |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 59.8 |  | 60.4 |
@@ -56,15 +56,15 @@
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (May) | -1.1% | -1.1% | 0.4% |
 | 13:31 | CAD | Moderate | Retail Sales (MoM) (Jun) | 1.6% |  | -1.1% |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 27 min | USD | High | S&P Global Manufacturing PMI (Jul) |  | 52.7 | 52.9 |
-| 27 min | USD | Moderate | S&P Global Composite PMI (Jul) |  |  | 52.9 |
-| 27 min | USD | High | S&P Global Services PMI (Jul) |  | 53.0 | 52.9 |
-| 42 min | USD | High | New Home Sales (Jun) |  | 649K | 623K |
-| 42 min | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -13.7% |
-| 57 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 28B | 46B |
-| 16:00 | USD | Low | KC Fed Composite Index (Jul) |  |  | -2 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | 5 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) | 49.5 | 52.7 | 52.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 54.6 |  | 52.9 |
+| 14:45 | USD | High | S&P Global Services PMI (Jul) | 55.2 | 53.0 | 52.9 |
+| 15:00 | USD | High | New Home Sales (Jun) | 627K | 649K | 623K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) | 0.6% |  | -11.6% |
+| 7 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 22 min | USD | Low | Natural Gas Storage |  | 28B | 46B |
+| 52 min | USD | Low | KC Fed Composite Index (Jul) |  |  | -2 |
+| 52 min | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | 5 |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.270% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.220% |

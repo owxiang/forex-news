@@ -21,8 +21,8 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (May) | -0.2% | -0.2% | -0.3% |
 | 13:30 | CAD | Retail Sales (MoM) (May) | -1.1% | -1.1% | 0.4% |
 | 13:31 | CAD | Retail Sales (MoM) (Jun) | 1.6% |  | -1.1% |
-| 27 min | USD | S&P Global Composite PMI (Jul) |  |  | 52.9 |
-| 42 min | USD | New Home Sales (MoM) (Jun) |  |  | -13.7% |
-| 57 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Jul) | 54.6 |  | 52.9 |
+| 15:00 | USD | New Home Sales (MoM) (Jun) | 0.6% |  | -11.6% |
+| 7 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 2.220% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,659B |
