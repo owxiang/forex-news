@@ -11,9 +11,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 49.8 | 49.7 | 49.5 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) | 51.0 | 50.8 | 50.6 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.2 | 50.6 | 50.5 |
-| 20 min | GBP | S&P Global Composite PMI (Jul) |  | 51.8 | 52.0 |
-| 20 min | GBP | S&P Global Manufacturing PMI (Jul) |  | 47.9 | 47.7 |
-| 20 min | GBP | S&P Global Services PMI (Jul) |  | 52.8 | 52.8 |
+| 09:30 | GBP | S&P Global Composite PMI (Jul) | 51.0 | 51.8 | 52.0 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jul) | 48.2 | 47.9 | 47.7 |
+| 09:30 | GBP | S&P Global Services PMI (Jul) | 51.2 | 52.8 | 52.8 |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Building Permits (Jun) |  | 1.397M | 1.394M |

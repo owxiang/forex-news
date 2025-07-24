@@ -2,20 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.5% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Jul) | 51.6 |  | 50.6 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 53.8 |  | 51.8 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) | 53.5 |  | 51.7 |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 05:00 | GBP | Low | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) | 59.2 |  | 58.4 |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 59.8 |  | 60.4 |
@@ -34,12 +34,11 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 49.8 | 49.7 | 49.5 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) | 51.0 | 50.8 | 50.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.2 | 50.6 | 50.5 |
-| 20 min | GBP | Moderate | S&P Global Composite PMI (Jul) |  | 51.8 | 52.0 |
-| 20 min | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 47.9 | 47.7 |
-| 20 min | GBP | Moderate | S&P Global Services PMI (Jul) |  | 52.8 | 52.8 |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -27 | -33 |
-| 11:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 12:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
+| 09:30 | GBP | Moderate | S&P Global Composite PMI (Jul) | 51.0 | 51.8 | 52.0 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 48.2 | 47.9 | 47.7 |
+| 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) | 51.2 | 52.8 | 52.8 |
+| 50 min | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -27 | -33 |
+| 50 min | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.21% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.27% | 0.10% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
