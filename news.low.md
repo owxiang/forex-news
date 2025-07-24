@@ -9,8 +9,8 @@
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | GBP | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
+| 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
