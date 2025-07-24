@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.5% | -0.2% |
+| 00:00 | KRW | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Jul) | 51.6 |  | 50.6 |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 53.8 |  | 51.8 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 05:00 | GBP | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
+| 05:00 | GBP | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
-| 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jul) | 59.2 |  | 58.4 |
 | 06:00 | INR | S&P Global Services PMI (Jul) | 59.8 |  | 60.4 |

@@ -24,5 +24,5 @@
 | 14:45 | USD | S&P Global Composite PMI (Jul) | 54.6 |  | 52.9 |
 | 15:00 | USD | New Home Sales (MoM) (Jun) | 0.6% |  | -11.6% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 52 min | USD | 10-Year TIPS Auction |  |  | 2.220% |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 2.220% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,659B |
