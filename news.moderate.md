@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (Jul) | 53.5 |  | 51.7 |
-| 07:00 | EUR | GfK German Consumer Climate (Aug) |  | -19.4 | -20.3 |
+| 49 min | EUR | GfK German Consumer Climate (Aug) |  | -19.4 | -20.3 |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Jul) |  | 48.5 | 48.1 |
 | 08:15 | EUR | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Jul) |  | 49.4 | 49.0 |
@@ -11,18 +11,18 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.7 | 49.5 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) |  | 50.8 | 50.6 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jul) |  | 50.6 | 50.5 |
-| 09:30 | GBP | S&P Global Composite PMI (Jul) |  | 51.9 | 52.0 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Jul) |  | 48.1 | 47.7 |
+| 09:30 | GBP | S&P Global Composite PMI (Jul) |  | 51.8 | 52.0 |
+| 09:30 | GBP | S&P Global Manufacturing PMI (Jul) |  | 47.9 | 47.7 |
 | 09:30 | GBP | S&P Global Services PMI (Jul) |  | 52.8 | 52.8 |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Building Permits (Jun) |  | 1.397M | 1.394M |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,956K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,956K |
 | 13:30 | CAD | Core Retail Sales (MoM) (May) |  | -0.2% | -0.3% |
-| 13:30 | CAD | Retail Sales (MoM) (May) |  |  | 0.3% |
 | 13:30 | CAD | Retail Sales (MoM) (May) |  | -0.9% | 0.3% |
+| 13:30 | CAD | Retail Sales (MoM) (May) |  |  | 0.3% |
 | 14:45 | USD | S&P Global Composite PMI (Jul) |  |  | 52.9 |
 | 15:00 | USD | New Home Sales (MoM) (Jun) |  |  | -13.7% |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 2.220% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,659B |
-| 23:00 | EUR | France Jobseekers Total |  |  | 3,002.0K |
