@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.5% | -0.2% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Jul) | 51.6 |  | 50.6 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 53.8 |  | 51.8 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
@@ -14,8 +14,8 @@
 | 05:00 | GBP | Low | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) | 59.2 |  | 58.4 |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) | 59.8 |  | 60.4 |
