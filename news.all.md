@@ -9,15 +9,15 @@
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) | 53.5 |  | 51.7 |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 20 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 05:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.6% |
-| 05:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 24.7% |
-| 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) |  |  | 0.2% |
-| 05:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 1.2% |
-| 05:00 | EUR | Low | German Car Registration (MoM) (Jun) |  |  | -1.4% |
-| 05:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
-| 05:00 | EUR | Low | French Car Registration (MoM) (Jun) |  |  | -10.7% |
+| 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 25 min | GBP | Low | Car Registration (MoM) (Jun) |  |  | 24.7% |
+| 25 min | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.6% |
+| 25 min | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -0.1% |
+| 25 min | EUR | Low | Italian Car Registration (MoM) (Jun) |  |  | 0.2% |
+| 25 min | EUR | Low | German Car Registration (YoY) (Jun) |  |  | 1.2% |
+| 25 min | EUR | Low | German Car Registration (MoM) (Jun) |  |  | -1.4% |
+| 25 min | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
+| 25 min | EUR | Low | French Car Registration (MoM) (Jun) |  |  | -10.7% |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) |  |  | 58.4 |
 | 06:00 | INR | Low | S&P Global Services PMI (Jul) |  |  | 60.4 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -19.4 | -20.3 |
