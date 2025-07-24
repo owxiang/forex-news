@@ -65,8 +65,8 @@
 | 15:30 | USD | Low | Natural Gas Storage | 23B | 28B | 46B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jul) | 1 |  | -2 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) | -3 |  | 5 |
-| 23 min | USD | Low | 4-Week Bill Auction |  |  | 4.230% |
-| 23 min | USD | Low | 8-Week Bill Auction |  |  | 4.270% |
-| 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.220% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 4.245% |  | 4.230% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 4.265% |  | 4.270% |
+| 52 min | USD | Moderate | 10-Year TIPS Auction |  |  | 2.220% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,659B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.375T |
