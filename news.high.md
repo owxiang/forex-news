@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 2 min | EUR | Deposit Facility Rate (Jul) |  | 2.00% | 2.00% |
-| 2 min | EUR | ECB Interest Rate Decision (Jul) |  | 2.15% | 2.15% |
-| 17 min | USD | Initial Jobless Claims |  | 227K | 221K |
-| 32 min | EUR | ECB Press Conference |  |  |  |
-| 14:45 | USD | S&P Global Manufacturing PMI (Jul) |  | 52.7 | 52.9 |
-| 14:45 | USD | S&P Global Services PMI (Jul) |  | 53.0 | 52.9 |
-| 15:00 | USD | New Home Sales (Jun) |  | 649K | 623K |
+| 13:15 | EUR | Deposit Facility Rate (Jul) | 2.00% | 2.00% | 2.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Jul) | 2.15% | 2.15% | 2.15% |
+| 13:30 | USD | Initial Jobless Claims | 217K | 227K | 221K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
+| 27 min | USD | S&P Global Manufacturing PMI (Jul) |  | 52.7 | 52.9 |
+| 27 min | USD | S&P Global Services PMI (Jul) |  | 53.0 | 52.9 |
+| 42 min | USD | New Home Sales (Jun) |  | 649K | 623K |

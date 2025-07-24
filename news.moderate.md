@@ -14,15 +14,15 @@
 | 09:30 | GBP | S&P Global Composite PMI (Jul) | 51.0 | 51.8 | 52.0 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jul) | 48.2 | 47.9 | 47.7 |
 | 09:30 | GBP | S&P Global Services PMI (Jul) | 51.2 | 52.8 | 52.8 |
-| 2 min | EUR | ECB Marginal Lending Facility |  |  | 2.40% |
-| 2 min | EUR | ECB Monetary Policy Statement |  |  |  |
-| 17 min | USD | Building Permits (Jun) |  | 1.397M | 1.394M |
-| 17 min | USD | Continuing Jobless Claims |  | 1,960K | 1,956K |
-| 17 min | CAD | Core Retail Sales (MoM) (May) |  | -0.2% | -0.3% |
-| 17 min | CAD | Retail Sales (MoM) (May) |  | -0.9% | 0.3% |
-| 17 min | CAD | Retail Sales (MoM) (May) |  |  | 0.3% |
-| 14:45 | USD | S&P Global Composite PMI (Jul) |  |  | 52.9 |
-| 15:00 | USD | New Home Sales (MoM) (Jun) |  |  | -13.7% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 13:00 | USD | Building Permits (Jun) | 1.393M | 1.397M | 1.394M |
+| 13:15 | EUR | ECB Marginal Lending Facility | 2.40% |  | 2.40% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,955K | 1,960K | 1,951K |
+| 13:30 | CAD | Core Retail Sales (MoM) (May) | -0.2% | -0.2% | -0.3% |
+| 13:30 | CAD | Retail Sales (MoM) (May) | -1.1% | -1.1% | 0.4% |
+| 13:31 | CAD | Retail Sales (MoM) (Jun) | 1.6% |  | -1.1% |
+| 27 min | USD | S&P Global Composite PMI (Jul) |  |  | 52.9 |
+| 42 min | USD | New Home Sales (MoM) (Jun) |  |  | -13.7% |
+| 57 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 2.220% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,659B |
