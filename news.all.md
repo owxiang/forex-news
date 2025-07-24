@@ -6,9 +6,9 @@
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | AUD | Low | Judo Bank Manufacturing PMI (Jul) | 51.6 |  | 50.6 |
 | 00:00 | AUD | Low | Judo Bank Services PMI (Jul) | 53.8 |  | 51.8 |
-| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) |  | 50.2 | 50.1 |
-| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) |  |  | 51.7 |
-| 02:30 | AUD | Low | RBA Bulletin |  |  |  |
+| 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
+| 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) | 53.5 |  | 51.7 |
+| 57 min | AUD | Low | RBA Bulletin |  |  |  |
 | 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.6% |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 24.7% |

@@ -6,8 +6,8 @@
 | 00:00 | KRW | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Jul) | 51.6 |  | 50.6 |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 53.8 |  | 51.8 |
-| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jul) |  | 50.2 | 50.1 |
-| 02:30 | AUD | RBA Bulletin |  |  |  |
+| 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
+| 57 min | AUD | RBA Bulletin |  |  |  |
 | 04:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 05:00 | GBP | Car Registration (YoY) (Jun) |  |  | 1.6% |
 | 05:00 | GBP | Car Registration (MoM) (Jun) |  |  | 24.7% |
