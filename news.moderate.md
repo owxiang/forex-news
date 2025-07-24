@@ -25,4 +25,4 @@
 | 15:00 | USD | New Home Sales (MoM) (Jun) | 0.6% |  | -11.6% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 1.985% |  | 2.220% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 6,659B |
+| 23 min | USD | Fed's Balance Sheet |  |  | 6,659B |
