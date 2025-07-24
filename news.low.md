@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.5% | -0.2% |
+| 00:00 | KRW | GDP (YoY) (Q2) | 0.5% | 0.4% | 0.0% |
 | 00:00 | AUD | Judo Bank Manufacturing PMI (Jul) | 51.6 |  | 50.6 |
 | 00:00 | AUD | Judo Bank Services PMI (Jul) | 53.8 |  | 51.8 |
 | 01:30 | JPY | au Jibun Bank Manufacturing PMI (Jul) | 48.8 | 50.2 | 50.1 |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 04:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | GBP | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
+| 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
 | 05:00 | EUR | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
@@ -26,10 +26,10 @@
 | 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.6 | 49.3 | 49.2 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 50.3 | 50.7 | 50.4 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jul) | -30 | -27 | -33 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.21% | 0.22% |
-| 13:00 | MXN | 1st Half-Month CPI (Jul) |  | 0.27% | 0.10% |
-| 13:00 | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 53 min | MXN | 1st Half-Month Core CPI (Jul) |  | 0.21% | 0.22% |
+| 53 min | MXN | 1st Half-Month CPI (Jul) |  | 0.27% | 0.10% |
+| 53 min | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
+| 53 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Building Permits (MoM) (Jun) |  |  | -2.0% |
 | 13:30 | USD | Chicago Fed National Activity (Jun) |  |  | -0.28 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 229.50K |
