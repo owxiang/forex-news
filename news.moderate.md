@@ -19,8 +19,8 @@
 | 13:30 | USD | Building Permits (Jun) |  | 1.397M | 1.394M |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,956K |
 | 13:30 | CAD | Core Retail Sales (MoM) (May) |  | -0.2% | -0.3% |
-| 13:30 | CAD | Retail Sales (MoM) (May) |  |  | 0.3% |
 | 13:30 | CAD | Retail Sales (MoM) (May) |  | -0.9% | 0.3% |
+| 13:30 | CAD | Retail Sales (MoM) (May) |  |  | 0.3% |
 | 14:45 | USD | S&P Global Composite PMI (Jul) |  |  | 52.9 |
 | 15:00 | USD | New Home Sales (MoM) (Jun) |  |  | -13.7% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
