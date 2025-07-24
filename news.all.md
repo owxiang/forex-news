@@ -12,8 +12,8 @@
 | 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 05:00 | GBP | Low | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
-| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
+| 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | Low | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
 | 05:00 | EUR | Low | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
@@ -38,8 +38,8 @@
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 48.2 | 47.9 | 47.7 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) | 51.2 | 52.8 | 52.8 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -30 | -27 | -33 |
-| 13:00 | USD | Low | Building Permits (MoM) (Jun) | -0.1% |  | -2.0% |
 | 13:00 | USD | Moderate | Building Permits (Jun) | 1.393M | 1.397M | 1.394M |
+| 13:00 | USD | Low | Building Permits (MoM) (Jun) | -0.1% |  | -2.0% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) | 0.15% | 0.21% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jul) | 0.15% | 0.27% | 0.10% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
@@ -59,8 +59,8 @@
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) | 49.5 | 52.7 | 52.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 54.6 |  | 52.9 |
 | 14:45 | USD | High | S&P Global Services PMI (Jul) | 55.2 | 53.0 | 52.9 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) | 0.6% |  | -11.6% |
 | 15:00 | USD | High | New Home Sales (Jun) | 627K | 649K | 623K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) | 0.6% |  | -11.6% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 23B | 28B | 46B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jul) | 1 |  | -2 |
@@ -68,5 +68,5 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.245% |  | 4.230% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.265% |  | 4.270% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.985% |  | 2.220% |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,659B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.375T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 6,658B |  | 6,659B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.358T |  | 3.375T |

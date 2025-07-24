@@ -11,8 +11,8 @@
 | 04:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 05:00 | GBP | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
-| 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
+| 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
 | 05:00 | EUR | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
@@ -38,4 +38,4 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Jul) | -3 |  | 5 |
 | 16:30 | USD | 4-Week Bill Auction | 4.245% |  | 4.230% |
 | 16:30 | USD | 8-Week Bill Auction | 4.265% |  | 4.270% |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.375T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.358T |  | 3.375T |
