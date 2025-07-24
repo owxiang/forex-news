@@ -10,8 +10,8 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Services PMI (Jul) | 53.5 |  | 51.7 |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 04:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 05:00 | GBP | Low | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | GBP | Low | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
+| 05:00 | GBP | Low | Car Registration (MoM) (Jun) | 27.5% |  | 24.7% |
 | 05:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
 | 05:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
 | 05:00 | EUR | Low | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
@@ -22,24 +22,24 @@
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Aug) | -21.5 | -19.4 | -20.3 |
 | 07:00 | NOK | Low | Industrial Confidence (Q2) | 0.9 |  | 3.4 |
 | 07:00 | NOK | Low | Unemployment Rate (Jun) | 5.4% |  | 4.6% |
-| 34 min | EUR | Low | French Business Survey (Jul) |  | 96 | 96 |
-| 49 min | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
-| 49 min | EUR | Low | Spanish PPI (YoY) (Jun) |  |  | 0.0% |
-| 49 min | EUR | Low | Spanish Unemployment Rate (Q2) |  | 10.60% | 11.36% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.5 | 48.1 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Jul) |  | 49.3 | 49.2 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 50.7 | 50.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.4 | 49.0 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 50.0 | 49.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.7 | 49.5 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 50.8 | 50.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 50.6 | 50.5 |
+| 07:45 | EUR | Low | French Business Survey (Jul) | 96 | 96 | 97 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Jun) | 0.8% |  | 0.0% |
+| 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) | 10.29% | 10.60% | 11.36% |
+| 5 min | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.5 | 48.1 |
+| 5 min | EUR | Low | HCOB France Composite PMI (Jul) |  | 49.3 | 49.2 |
+| 5 min | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
+| 20 min | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 50.7 | 50.4 |
+| 20 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.4 | 49.0 |
+| 20 min | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 50.0 | 49.7 |
+| 50 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.7 | 49.5 |
+| 50 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 50.8 | 50.6 |
+| 50 min | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 50.6 | 50.5 |
 | 09:30 | GBP | Moderate | S&P Global Composite PMI (Jul) |  | 51.8 | 52.0 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 47.9 | 47.7 |
 | 09:30 | GBP | Moderate | S&P Global Services PMI (Jul) |  | 52.8 | 52.8 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -27 | -33 |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
+| 12:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -12.3% |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.21% | 0.22% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.27% | 0.10% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |

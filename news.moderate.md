@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Services PMI (Jul) | 53.5 |  | 51.7 |
 | 07:00 | EUR | GfK German Consumer Climate (Aug) | -21.5 | -19.4 | -20.3 |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Jul) |  | 48.5 | 48.1 |
-| 08:15 | EUR | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Jul) |  | 49.4 | 49.0 |
-| 08:30 | EUR | HCOB Germany Services PMI (Jul) |  | 50.0 | 49.7 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.7 | 49.5 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) |  | 50.8 | 50.6 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Jul) |  | 50.6 | 50.5 |
+| 5 min | EUR | HCOB France Manufacturing PMI (Jul) |  | 48.5 | 48.1 |
+| 5 min | EUR | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
+| 20 min | EUR | HCOB Germany Manufacturing PMI (Jul) |  | 49.4 | 49.0 |
+| 20 min | EUR | HCOB Germany Services PMI (Jul) |  | 50.0 | 49.7 |
+| 50 min | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.7 | 49.5 |
+| 50 min | EUR | HCOB Eurozone Composite PMI (Jul) |  | 50.8 | 50.6 |
+| 50 min | EUR | HCOB Eurozone Services PMI (Jul) |  | 50.6 | 50.5 |
 | 09:30 | GBP | S&P Global Composite PMI (Jul) |  | 51.8 | 52.0 |
 | 09:30 | GBP | S&P Global Manufacturing PMI (Jul) |  | 47.9 | 47.7 |
 | 09:30 | GBP | S&P Global Services PMI (Jul) |  | 52.8 | 52.8 |
