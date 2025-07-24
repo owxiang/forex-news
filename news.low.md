@@ -13,8 +13,8 @@
 | 05:00 | GBP | Car Registration (YoY) (Jun) | 6.7% |  | 1.6% |
 | 05:00 | EUR | Italian Car Registration (YoY) (Jun) | -17.4% |  | -0.1% |
 | 05:00 | EUR | Italian Car Registration (MoM) (Jun) | -5.1% |  | 0.2% |
-| 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | German Car Registration (YoY) (Jun) | -13.8% |  | 1.2% |
+| 05:00 | EUR | German Car Registration (MoM) (Jun) | 7.1% |  | -1.4% |
 | 05:00 | EUR | French Car Registration (MoM) (Jun) | 36.8% |  | -10.7% |
 | 06:00 | INR | S&P Global Manufacturing PMI (Jul) | 59.2 |  | 58.4 |
 | 06:00 | INR | S&P Global Services PMI (Jul) | 59.8 |  | 60.4 |
@@ -26,14 +26,13 @@
 | 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.6 | 49.3 | 49.2 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 50.3 | 50.7 | 50.4 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jul) | -30 | -27 | -33 |
-| 53 min | MXN | 1st Half-Month Core CPI (Jul) |  | 0.21% | 0.22% |
-| 53 min | MXN | 1st Half-Month CPI (Jul) |  | 0.27% | 0.10% |
-| 53 min | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 53 min | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Building Permits (MoM) (Jun) |  |  | -2.0% |
-| 13:30 | USD | Chicago Fed National Activity (Jun) |  |  | -0.28 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 229.50K |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Jun) |  |  | -0.9% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Jul) | 0.15% | 0.21% | 0.22% |
+| 13:00 | MXN | 1st Half-Month CPI (Jul) | 0.15% | 0.27% | 0.10% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 17 min | USD | Building Permits (MoM) (Jun) |  |  | -2.0% |
+| 17 min | USD | Chicago Fed National Activity (Jun) |  |  | -0.28 |
+| 17 min | USD | Jobless Claims 4-Week Avg. |  |  | 229.50K |
+| 17 min | CAD | Manufacturing Sales (MoM) (Jun) |  |  | -0.9% |
 | 15:30 | USD | Natural Gas Storage |  | 28B | 46B |
 | 16:00 | USD | KC Fed Composite Index (Jul) |  |  | -2 |
 | 16:00 | USD | KC Fed Manufacturing Index (Jul) |  |  | 5 |
