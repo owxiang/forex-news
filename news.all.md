@@ -12,10 +12,10 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 571.9B |  | 442.3B |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 1.00% | 0.50% | 0.80% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 0.0% | -0.1% | 0.2% |
-| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.6% | 1.1% | -3.4% |
 | 06:00 | JPY | Low | Leading Index (May) | 104.8 | 105.3 | 104.2 |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.6% | 1.1% | -3.4% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | 8.0% | 7.1% | 3.6% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) | 0.6% | 1.2% | -2.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | 1.8% | 2.0% | -1.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) | 0.9% | 1.2% | -2.8% |
