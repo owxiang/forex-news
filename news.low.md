@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Jul) | -19 | -19 | -18 |
-| 23 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jul) |  |  | 1.8% |
-| 23 min | JPY | Tokyo CPI (YoY) (Jul) |  |  | 3.1% |
-| 23 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) |  |  | -0.4% |
-| 43 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.3% |
-| 43 min | JPY | Foreign Bonds Buying |  |  | 759.3B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 446.0B |
-| 01:30 | SGD | URA Property Index (QoQ) (Q2) |  | 0.50% | 0.50% |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jul) | 1.7% |  | 1.8% |
+| 00:30 | JPY | Tokyo CPI (YoY) (Jul) | 2.9% |  | 3.1% |
+| 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.1% |  | -0.4% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.2% | 3.2% | 3.4% |
+| 00:50 | JPY | Foreign Bonds Buying | 1,641.3B |  | 765.3B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 571.9B |  | 442.3B |
+| 01:30 | SGD | URA Property Index (QoQ) (Q2) | 1.00% | 0.50% | 0.50% |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) |  | -0.1% | 0.2% |
 | 06:00 | JPY | Leading Index (MoM) (May) |  | 1.1% | -3.4% |
 | 06:00 | JPY | Leading Index (May) |  | 105.3 | 104.2 |

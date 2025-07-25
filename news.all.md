@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jul) | -19 | -19 | -18 |
-| 23 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jul) |  |  | 1.8% |
-| 23 min | JPY | Moderate | Tokyo Core CPI (YoY) (Jul) |  | 3.0% | 3.1% |
-| 23 min | JPY | Low | Tokyo CPI (YoY) (Jul) |  |  | 3.1% |
-| 23 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jul) |  |  | -0.4% |
-| 43 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.2% | 3.3% |
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | 759.3B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 446.0B |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) |  | 0.50% | 0.50% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jul) | 1.7% |  | 1.8% |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jul) | 2.9% | 3.0% | 3.1% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Jul) | 2.9% |  | 3.1% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.1% |  | -0.4% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.2% | 3.2% | 3.4% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,641.3B |  | 765.3B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 571.9B |  | 442.3B |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 1.00% | 0.50% | 0.50% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  | -0.1% | 0.2% |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) |  | 1.1% | -3.4% |
 | 06:00 | JPY | Low | Leading Index (May) |  | 105.3 | 104.2 |
@@ -18,8 +18,8 @@
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jun) |  | -1.5% | -0.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 2.0% | -1.3% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | 1.2% | -2.8% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | 1.2% | -2.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 1.8% | -1.3% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | 1.2% | -2.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 88 | 88 |
 | 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
