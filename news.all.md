@@ -18,8 +18,8 @@
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | 7.1% | 3.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | 1.2% | -2.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 2.0% | -1.3% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | 1.2% | -2.7% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 1.8% | -1.3% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | 1.2% | -2.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 88 | 88 |
 | 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
