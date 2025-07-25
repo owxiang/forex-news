@@ -13,8 +13,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | 0.0% | -0.1% | 0.2% |
 | 06:00 | JPY | Leading Index (May) | 104.8 | 105.3 | 104.2 |
 | 06:00 | JPY | Leading Index (MoM) (May) | 0.6% | 1.1% | -3.4% |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) | 8.0% | 7.1% | 3.6% |
+| 06:00 | SGD | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
 | 07:45 | EUR | French Consumer Confidence (Jul) | 89 | 88 | 88 |
 | 09:00 | EUR | Italian Business Confidence (Jul) | 87.8 | 87.7 | 87.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Jul) | 97.2 | 96.0 | 96.1 |
