@@ -34,14 +34,14 @@
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) | -0.7% | 0.2% | 2.0% |
 | 16:00 | CAD | Budget Balance (May) | -0.23B |  | -23.88B |
 | 16:00 | CAD | Budget Balance (YoY) (May) | -6.50B |  | -43.15B |
-| 23 min | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
-| 23 min | USD | CFTC Copper speculative net positions |  |  | 40.7K |
-| 23 min | USD | CFTC Corn speculative net positions |  |  | -129.5K |
-| 23 min | USD | CFTC Natural Gas speculative net positions |  |  | -74.0K |
-| 23 min | USD | CFTC Silver speculative net positions |  |  | 59.4K |
-| 23 min | USD | CFTC Soybeans speculative net positions |  |  | 15.3K |
-| 23 min | USD | CFTC Wheat speculative net positions |  |  | -65.5K |
-| 23 min | CAD | CFTC CAD speculative net positions |  |  | -74.1K |
-| 23 min | MXN | CFTC MXN speculative net positions |  |  | 50.1K |
-| 23 min | CHF | CFTC CHF speculative net positions |  |  | -22.6K |
-| 23 min | NZD | CFTC NZD speculative net positions |  |  | 3.6K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 0.5K |  | 0.5K |
+| 20:30 | USD | CFTC Copper speculative net positions | 39.8K |  | 40.7K |
+| 20:30 | USD | CFTC Corn speculative net positions | -133.9K |  | -129.5K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -77.6K |  | -74.0K |
+| 20:30 | USD | CFTC Silver speculative net positions | 60.6K |  | 59.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | 36.0K |  | 15.3K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -53.9K |  | -65.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -70.3K |  | -74.1K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 56.1K |  | 50.1K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -26.1K |  | -22.6K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -3.2K |  | 3.6K |
