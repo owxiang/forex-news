@@ -42,9 +42,9 @@
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jun) | -9.3% | -10.4% | 16.5% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jun) | -9.4% |  | 15.7% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) | -0.7% | 0.2% | 2.0% |
-| 52 min | CAD | Low | Budget Balance (May) |  |  | -23.88B |
-| 52 min | CAD | Low | Budget Balance (YoY) (May) |  |  | -43.15B |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
+| 16:00 | CAD | Low | Budget Balance (May) | -0.23B |  | -23.88B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (May) | -6.50B |  | -43.15B |
+| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.2K |

@@ -32,8 +32,8 @@
 | 13:00 | BRL | Mid-Month CPI (MoM) (Jul) | 0.33% | 0.30% | 0.26% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jun) | -9.4% |  | 15.7% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) | -0.7% | 0.2% | 2.0% |
-| 52 min | CAD | Budget Balance (May) |  |  | -23.88B |
-| 52 min | CAD | Budget Balance (YoY) (May) |  |  | -43.15B |
+| 16:00 | CAD | Budget Balance (May) | -0.23B |  | -23.88B |
+| 16:00 | CAD | Budget Balance (YoY) (May) | -6.50B |  | -43.15B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -129.5K |
