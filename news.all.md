@@ -10,16 +10,16 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.2% | 3.2% | 3.4% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,641.3B |  | 765.3B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 571.9B |  | 442.3B |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 1.00% | 0.50% | 0.50% |
-| 40 min | JPY | Low | Coincident Indicator (MoM) (May) |  | -0.1% | 0.2% |
-| 40 min | JPY | Low | Leading Index (MoM) (May) |  | 1.1% | -3.4% |
-| 40 min | JPY | Low | Leading Index (May) |  | 105.3 | 104.2 |
-| 40 min | SGD | Low | Industrial Production (YoY) (Jun) |  | 7.1% | 3.9% |
-| 40 min | SGD | Low | Industrial Production (MoM) (Jun) |  | -1.5% | -0.4% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 2.0% | -1.3% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | 1.2% | -2.8% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 1.8% | -1.3% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | 1.2% | -2.7% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 1.00% | 0.50% | 0.80% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 0.0% | -0.1% | 0.2% |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.6% | 1.1% | -3.4% |
+| 06:00 | JPY | Low | Leading Index (May) | 104.8 | 105.3 | 104.2 |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | 8.0% | 7.1% | 3.6% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
+| 47 min | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 2.0% | -1.3% |
+| 47 min | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | 1.2% | -2.8% |
+| 47 min | GBP | Moderate | Retail Sales (MoM) (Jun) |  | 1.2% | -2.7% |
+| 47 min | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 1.8% | -1.3% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 88 | 88 |
 | 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
