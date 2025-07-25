@@ -10,7 +10,7 @@
 | 09:00 | EUR | German Business Expectations (Jul) | 90.7 | 91.1 | 90.6 |
 | 09:00 | EUR | German Current Assessment (Jul) | 86.5 | 86.7 | 86.2 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jul) | 88.6 | 89.0 | 88.4 |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Jun) |  | 0.1% | 0.5% |
+| 18 min | USD | Core Durable Goods Orders (MoM) (Jun) |  | 0.1% | 0.5% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 544 |

@@ -23,16 +23,16 @@
 | 09:00 | EUR | Loans to Non Financial Corporations (Jun) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Jun) | 2.2% | 1.9% | 2.0% |
 | 12:00 | BRL | FGV Consumer confidence (Jul) | 86.7 |  | 85.9 |
-| 24 min | INR | Bank Loan Growth |  |  | 9.5% |
-| 24 min | INR | Deposit Growth |  |  | 10.1% |
-| 24 min | INR | FX Reserves, USD |  |  | 696.67B |
-| 23 min | BRL | Current Account (USD) (Jun) |  | -4.36B | -2.93B |
-| 23 min | BRL | Foreign direct investment (USD) (Jun) |  | 4.50B | 3.66B |
-| 53 min | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 53 min | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.30% | 0.26% |
-| 53 min | BRL | Mid-Month CPI (YoY) (Jul) |  | 5.26% | 5.27% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Jun) |  |  | 15.5% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) |  | 0.2% | 1.7% |
+| 12:30 | INR | Bank Loan Growth | 9.8% |  | 9.5% |
+| 12:30 | INR | Deposit Growth | 10.1% |  | 10.1% |
+| 12:30 | INR | FX Reserves, USD | 695.49B |  | 696.67B |
+| 12:30 | BRL | Current Account (USD) (Jun) | -5.13B | -4.36B | -2.93B |
+| 12:30 | BRL | Foreign direct investment (USD) (Jun) | 2.81B | 4.50B | 3.66B |
+| 13:00 | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jul) | 0.33% | 0.30% | 0.26% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jul) | 5.30% | 5.26% | 5.27% |
+| 18 min | USD | Durables Excluding Defense (MoM) (Jun) |  |  | 15.5% |
+| 18 min | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) |  | 0.2% | 1.7% |
 | 16:00 | CAD | Budget Balance (May) |  |  | -23.88B |
 | 16:00 | CAD | Budget Balance (YoY) (May) |  |  | -43.15B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |

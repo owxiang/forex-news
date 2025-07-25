@@ -31,18 +31,18 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jun) | 2.2% | 1.9% | 2.0% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jul) | 86.7 |  | 85.9 |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 9.5% |
-| 24 min | INR | Low | Deposit Growth |  |  | 10.1% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 696.67B |
-| 23 min | BRL | Low | Current Account (USD) (Jun) |  | -4.36B | -2.93B |
-| 23 min | BRL | Low | Foreign direct investment (USD) (Jun) |  | 4.50B | 3.66B |
-| 53 min | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 53 min | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.30% | 0.26% |
-| 53 min | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 5.26% | 5.27% |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) |  | 0.1% | 0.5% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Jun) |  | -10.4% | 16.4% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jun) |  |  | 15.5% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) |  | 0.2% | 1.7% |
+| 12:30 | INR | Low | Bank Loan Growth | 9.8% |  | 9.5% |
+| 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.1% |
+| 12:30 | INR | Low | FX Reserves, USD | 695.49B |  | 696.67B |
+| 12:30 | BRL | Low | Current Account (USD) (Jun) | -5.13B | -4.36B | -2.93B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Jun) | 2.81B | 4.50B | 3.66B |
+| 13:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) | 0.33% | 0.30% | 0.26% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) | 5.30% | 5.26% | 5.27% |
+| 18 min | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) |  | 0.1% | 0.5% |
+| 18 min | USD | High | Durable Goods Orders (MoM) (Jun) |  | -10.4% | 16.4% |
+| 18 min | USD | Low | Durables Excluding Defense (MoM) (Jun) |  |  | 15.5% |
+| 18 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) |  | 0.2% | 1.7% |
 | 16:00 | CAD | Low | Budget Balance (May) |  |  | -23.88B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (May) |  |  | -43.15B |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
