@@ -19,7 +19,7 @@
 | 09:00 | EUR | Italian Business Confidence (Jul) | 87.8 | 87.7 | 87.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Jul) | 97.2 | 96.0 | 96.1 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jun) | 3.3% | 3.7% | 3.9% |
-| 09:00 | EUR | M3 Money Supply (Jun) |  |  | 16,919.7B |
+| 09:00 | EUR | M3 Money Supply (Jun) | 16,915.4B |  | 16,919.7B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jun) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Private Sector Loans (YoY) (Jun) | 2.2% | 1.9% | 2.0% |
 | 12:00 | BRL | FGV Consumer confidence (Jul) |  |  | 85.9 |

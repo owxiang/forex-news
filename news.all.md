@@ -27,7 +27,7 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Jul) | 86.5 | 86.7 | 86.2 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 88.6 | 89.0 | 88.4 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 3.3% | 3.7% | 3.9% |
-| 09:00 | EUR | Low | M3 Money Supply (Jun) |  |  | 16,919.7B |
+| 09:00 | EUR | Low | M3 Money Supply (Jun) | 16,915.4B |  | 16,919.7B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) (Jun) | 2.2% | 1.9% | 2.0% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jul) |  |  | 85.9 |
