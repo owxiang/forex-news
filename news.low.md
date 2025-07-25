@@ -28,8 +28,8 @@
 | 12:30 | INR | FX Reserves, USD | 695.49B |  | 696.67B |
 | 12:30 | BRL | Current Account (USD) (Jun) | -5.13B | -4.36B | -2.93B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jun) | 2.81B | 4.50B | 3.66B |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Jul) | 5.30% | 5.26% | 5.27% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Jul) | 0.33% | 0.30% | 0.26% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jul) | 5.30% | 5.26% | 5.27% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jun) | -9.4% |  | 15.7% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) | -0.7% | 0.2% | 2.0% |
 | 16:00 | CAD | Budget Balance (May) | -0.23B |  | -23.88B |

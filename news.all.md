@@ -36,17 +36,17 @@
 | 12:30 | INR | Low | FX Reserves, USD | 695.49B |  | 696.67B |
 | 12:30 | BRL | Low | Current Account (USD) (Jun) | -5.13B | -4.36B | -2.93B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jun) | 2.81B | 4.50B | 3.66B |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) | 5.30% | 5.26% | 5.27% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) | 0.33% | 0.30% | 0.26% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) | 5.30% | 5.26% | 5.27% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) | 0.2% | 0.1% | 0.6% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jun) | -9.3% | -10.4% | 16.5% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jun) | -9.4% |  | 15.7% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) | -0.7% | 0.2% | 2.0% |
 | 16:00 | CAD | Low | Budget Balance (May) | -0.23B |  | -23.88B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (May) | -6.50B |  | -43.15B |
-| 23 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.4% | 2.4% | 2.4% |
+| 52 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  | 421 | 422 |
+| 52 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 544 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 29.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 40.7K |
