@@ -13,8 +13,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | 0.0% | -0.1% | 0.2% |
 | 06:00 | JPY | Leading Index (MoM) (May) | 0.6% | 1.1% | -3.4% |
 | 06:00 | JPY | Leading Index (May) | 104.8 | 105.3 | 104.2 |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) | 8.0% | 7.1% | 3.6% |
+| 06:00 | SGD | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
 | 07:45 | EUR | French Consumer Confidence (Jul) | 89 | 88 | 88 |
 | 09:00 | EUR | Italian Business Confidence (Jul) | 87.8 | 87.7 | 87.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Jul) | 97.2 | 96.0 | 96.1 |
@@ -28,12 +28,12 @@
 | 12:30 | INR | FX Reserves, USD | 695.49B |  | 696.67B |
 | 12:30 | BRL | Current Account (USD) (Jun) | -5.13B | -4.36B | -2.93B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jun) | 2.81B | 4.50B | 3.66B |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Jul) | 0.33% | 0.30% | 0.26% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Jul) | 5.30% | 5.26% | 5.27% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jul) | 0.33% | 0.30% | 0.26% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jun) | -9.4% |  | 15.7% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) | -0.7% | 0.2% | 2.0% |
-| 16:00 | CAD | Budget Balance (YoY) (May) |  |  | -43.15B |
-| 16:00 | CAD | Budget Balance (May) |  |  | -23.88B |
+| 52 min | CAD | Budget Balance (May) |  |  | -23.88B |
+| 52 min | CAD | Budget Balance (YoY) (May) |  |  | -43.15B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 40.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -129.5K |
