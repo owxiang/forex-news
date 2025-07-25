@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Jul) | 2.9% | 3.0% | 3.1% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Jun) |  | 2.0% | -1.3% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jun) |  | 1.2% | -2.8% |
-| 07:00 | GBP | Retail Sales (YoY) (Jun) |  | 1.8% | -1.3% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Jun) |  | 2.0% | -1.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Jun) |  | 1.2% | -2.7% |
+| 07:00 | GBP | Retail Sales (YoY) (Jun) |  | 1.8% | -1.3% |
 | 09:00 | EUR | German Business Expectations (Jul) |  | 91.1 | 90.7 |
 | 09:00 | EUR | German Current Assessment (Jul) |  | 86.7 | 86.2 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jul) |  | 89.0 | 88.4 |
