@@ -15,13 +15,13 @@
 | 06:00 | JPY | Leading Index (May) | 104.8 | 105.3 | 104.2 |
 | 06:00 | SGD | Industrial Production (MoM) (Jun) | 0.0% | -1.5% | 1.0% |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) | 8.0% | 7.1% | 3.6% |
-| 34 min | EUR | French Consumer Confidence (Jul) |  | 88 | 88 |
-| 09:00 | EUR | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
-| 09:00 | EUR | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jun) |  | 3.7% | 3.9% |
-| 09:00 | EUR | M3 Money Supply (Jun) |  |  | 16,919.7B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jun) |  |  | 2.5% |
-| 09:00 | EUR | Private Sector Loans (YoY) (Jun) |  | 1.9% | 2.0% |
+| 07:45 | EUR | French Consumer Confidence (Jul) | 89 | 88 | 88 |
+| 51 min | EUR | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
+| 51 min | EUR | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
+| 51 min | EUR | M3 Money Supply (YoY) (Jun) |  | 3.7% | 3.9% |
+| 51 min | EUR | M3 Money Supply (Jun) |  |  | 16,919.7B |
+| 51 min | EUR | Loans to Non Financial Corporations (Jun) |  |  | 2.5% |
+| 51 min | EUR | Private Sector Loans (YoY) (Jun) |  | 1.9% | 2.0% |
 | 12:00 | BRL | FGV Consumer confidence (Jul) |  |  | 85.9 |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.5% |
 | 12:30 | INR | Deposit Growth |  |  | 10.1% |

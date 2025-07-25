@@ -18,18 +18,18 @@
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | 8.0% | 7.1% | 3.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) | 0.6% | 1.2% | -2.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | 1.8% | 2.0% | -1.2% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | 1.7% | 1.8% | -1.1% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) | 0.9% | 1.2% | -2.8% |
-| 34 min | EUR | Low | French Consumer Confidence (Jul) |  | 88 | 88 |
-| 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
-| 09:00 | EUR | Moderate | German Business Expectations (Jul) |  | 91.1 | 90.7 |
-| 09:00 | EUR | Moderate | German Current Assessment (Jul) |  | 86.7 | 86.2 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 89.0 | 88.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) |  | 3.7% | 3.9% |
-| 09:00 | EUR | Low | M3 Money Supply (Jun) |  |  | 16,919.7B |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) |  |  | 2.5% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) (Jun) |  | 1.9% | 2.0% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | 1.7% | 1.8% | -1.1% |
+| 07:45 | EUR | Low | French Consumer Confidence (Jul) | 89 | 88 | 88 |
+| 51 min | EUR | Low | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
+| 51 min | EUR | Low | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
+| 51 min | EUR | Moderate | German Business Expectations (Jul) |  | 91.1 | 90.7 |
+| 51 min | EUR | Moderate | German Current Assessment (Jul) |  | 86.7 | 86.2 |
+| 51 min | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 89.0 | 88.4 |
+| 51 min | EUR | Low | M3 Money Supply (YoY) (Jun) |  | 3.7% | 3.9% |
+| 51 min | EUR | Low | M3 Money Supply (Jun) |  |  | 16,919.7B |
+| 51 min | EUR | Low | Loans to Non Financial Corporations (Jun) |  |  | 2.5% |
+| 51 min | EUR | Low | Private Sector Loans (YoY) (Jun) |  | 1.9% | 2.0% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jul) |  |  | 85.9 |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.5% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
