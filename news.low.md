@@ -10,11 +10,11 @@
 | 00:50 | JPY | Foreign Bonds Buying | 1,641.3B |  | 765.3B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 571.9B |  | 442.3B |
 | 01:30 | SGD | URA Property Index (QoQ) (Q2) | 1.00% | 0.50% | 0.50% |
-| 06:00 | JPY | Coincident Indicator (MoM) (May) |  | -0.1% | 0.2% |
-| 06:00 | JPY | Leading Index (MoM) (May) |  | 1.1% | -3.4% |
-| 06:00 | JPY | Leading Index (May) |  | 105.3 | 104.2 |
-| 06:00 | SGD | Industrial Production (YoY) (Jun) |  | 7.1% | 3.9% |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) |  | -1.5% | -0.4% |
+| 40 min | JPY | Coincident Indicator (MoM) (May) |  | -0.1% | 0.2% |
+| 40 min | JPY | Leading Index (MoM) (May) |  | 1.1% | -3.4% |
+| 40 min | JPY | Leading Index (May) |  | 105.3 | 104.2 |
+| 40 min | SGD | Industrial Production (YoY) (Jun) |  | 7.1% | 3.9% |
+| 40 min | SGD | Industrial Production (MoM) (Jun) |  | -1.5% | -0.4% |
 | 07:45 | EUR | French Consumer Confidence (Jul) |  | 88 | 88 |
 | 09:00 | EUR | Italian Business Confidence (Jul) |  | 87.7 | 87.3 |
 | 09:00 | EUR | Italian Consumer Confidence (Jul) |  | 96.0 | 96.1 |
