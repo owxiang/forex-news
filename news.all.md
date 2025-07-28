@@ -2,7 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23 min | CNY | Low | Chinese Industrial profit (YoY) |  |  | -8.30% |
 | 09:30 | HKD | Low | Exports (MoM) (Jun) |  |  | 15.5% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) |  |  | 18.9% |
 | 09:30 | HKD | Low | Trade Balance (Jun) |  |  | -27.3B |
