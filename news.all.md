@@ -5,10 +5,10 @@
 | 09:30 | HKD | Low | Exports (MoM) (Jun) | 11.9% |  | 15.5% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) | 11.1% |  | 18.9% |
 | 09:30 | HKD | Low | Trade Balance (Jun) | -58.9B |  | -27.3B |
-| 49 min | GBP | Low | CBI Distributive Trades Survey (Jul) |  | -28 | -46 |
-| 11:30 | INR | Low | Cumulative Industrial Production (Jun) |  |  | 1.80% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Jun) |  | 2.4% | 1.2% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Jun) |  |  | 2.6% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -34 | -28 | -46 |
+| 22 min | INR | Low | Cumulative Industrial Production (Jun) |  |  | 1.80% |
+| 22 min | INR | Low | Industrial Production (YoY) (Jun) |  | 2.4% | 1.2% |
+| 22 min | INR | Low | Manufacturing Output (MoM) (Jun) |  |  | 2.6% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jun) |  |  | 0.6% |
 | 13:00 | MXN | Low | Trade Balance (Jun) |  |  | 1.029B |
