@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 13:30 | CAD | Wholesale Sales (MoM) (Jun) | 0.7% |  | 0.1% |
 | 16:00 | USD | 2-Year Note Auction | 3.920% |  | 3.786% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 3.879% |
+| 18:00 | USD | 5-Year Note Auction | 3.983% |  | 3.879% |
