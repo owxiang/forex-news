@@ -20,7 +20,7 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 1.977% |  | 1.938% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 1.973% |  | 1.935% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) | 0.9 |  | -12.7 |
-| 22 min | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
-| 22 min | USD | Low | 6-Month Bill Auction |  |  | 4.115% |
-| 52 min | USD | Moderate | 2-Year Note Auction |  |  | 3.786% |
-| 52 min | USD | Moderate | 5-Year Note Auction |  |  | 3.879% |
+| 16:00 | USD | Moderate | 2-Year Note Auction | 3.920% |  | 3.786% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.120% |  | 4.115% |
+| 22 min | USD | Moderate | 5-Year Note Auction |  |  | 3.879% |
+| 18:30 | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
