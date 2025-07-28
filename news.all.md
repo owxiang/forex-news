@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 19 min | HKD | Low | Exports (MoM) (Jun) |  |  | 15.5% |
-| 19 min | HKD | Low | Imports (MoM) (Jun) |  |  | 18.9% |
-| 19 min | HKD | Low | Trade Balance (Jun) |  |  | -27.3B |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jul) |  | -28 | -46 |
+| 09:30 | HKD | Low | Exports (MoM) (Jun) | 11.9% |  | 15.5% |
+| 09:30 | HKD | Low | Imports (MoM) (Jun) | 11.1% |  | 18.9% |
+| 09:30 | HKD | Low | Trade Balance (Jun) | -58.9B |  | -27.3B |
+| 49 min | GBP | Low | CBI Distributive Trades Survey (Jul) |  | -28 | -46 |
 | 11:30 | INR | Low | Cumulative Industrial Production (Jun) |  |  | 1.80% |
 | 11:30 | INR | Low | Industrial Production (YoY) (Jun) |  | 2.4% | 1.2% |
 | 11:30 | INR | Low | Manufacturing Output (MoM) (Jun) |  |  | 2.6% |
