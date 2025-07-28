@@ -1,23 +1,30 @@
-## 28 July 2025 - Low Impact Forex News
+## 29 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | HKD | Exports (MoM) (Jun) | 11.9% |  | 15.5% |
-| 09:30 | HKD | Imports (MoM) (Jun) | 11.1% |  | 18.9% |
-| 09:30 | HKD | Trade Balance (Jun) | -58.9B |  | -27.3B |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jul) | -34 | -28 | -46 |
-| 11:30 | INR | Cumulative Industrial Production (Jun) | 2.00% |  | 1.80% |
-| 11:30 | INR | Industrial Production (YoY) (Jun) | 1.5% | 2.0% | 1.9% |
-| 11:30 | INR | Manufacturing Output (MoM) (Jun) | 3.9% |  | 3.2% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Bank lending (MoM) (Jun) | 0.5% |  | 0.6% |
-| 13:00 | MXN | Trade Balance (Jun) | 0.514B | 0.610B | 1.232B |
-| 13:00 | MXN | Trade Balance (USD) (Jun) | 0.595B |  | 0.071B |
-| 13:00 | MXN | Unemployment Rate (Jun) | 2.60% |  | 2.70% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Jun) | 2.70% | 2.80% | 2.70% |
-| 14:00 | EUR | French 12-Month BTF Auction | 1.968% |  | 1.902% |
-| 14:00 | EUR | French 3-Month BTF Auction | 1.977% |  | 1.938% |
-| 14:00 | EUR | French 6-Month BTF Auction | 1.973% |  | 1.935% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jul) | 0.9 |  | -12.7 |
-| 16:30 | USD | 6-Month Bill Auction | 4.120% |  | 4.115% |
-| 17:30 | USD | 3-Month Bill Auction | 4.235% |  | 4.240% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.7% | 0.2% | 0.4% |
+| 04:00 | IDR | Foreign Direct Investment (YoY) (Q2) |  |  | 12.70% |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.729% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jun) |  |  | 0.0% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Jun) |  |  | 6.86% |
+| 07:00 | ZAR | Private Sector Credit (Jun) |  |  | 4.98% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q2) |  |  | 2.8% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 4.8% |
+| 09:00 | EUR | Italian Trade Balance Non-EU (Jun) |  |  | 5.26B |
+| 09:30 | GBP | BoE Consumer Credit (Jun) |  | 1.200B | 0.859B |
+| 09:30 | GBP | M3 Money Supply (Jun) |  |  | 3,133.6B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Jun) |  | 0.3% | 0.2% |
+| 09:30 | GBP | Mortgage Approvals (Jun) |  | 63.00K | 63.03K |
+| 09:30 | GBP | Mortgage Lending (Jun) |  |  | 2.05B |
+| 09:30 | GBP | Net Lending to Individuals (Jun) |  | 3.700B | 2.900B |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 1.950% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.260% |
+| 13:00 | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
+| 13:30 | USD | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.1% |
+| 14:00 | USD | House Price Index (YoY) (May) |  |  | 3.0% |
+| 14:00 | USD | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
+| 14:00 | USD | House Price Index (May) |  |  | 434.9 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
+| 15:30 | USD | Dallas Fed Services Revenues (Jul) |  |  | -4.1 |
+| 15:30 | USD | Texas Services Sector Outlook (Jul) |  |  | -4.4 |

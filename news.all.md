@@ -1,26 +1,41 @@
-## 28 July 2025 - All Forex News
+## 29 July 2025 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 09:30 | HKD | Low | Exports (MoM) (Jun) | 11.9% |  | 15.5% |
-| 09:30 | HKD | Low | Imports (MoM) (Jun) | 11.1% |  | 18.9% |
-| 09:30 | HKD | Low | Trade Balance (Jun) | -58.9B |  | -27.3B |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -34 | -28 | -46 |
-| 11:30 | INR | Low | Cumulative Industrial Production (Jun) | 2.00% |  | 1.80% |
-| 11:30 | INR | Low | Industrial Production (YoY) (Jun) | 1.5% | 2.0% | 1.9% |
-| 11:30 | INR | Low | Manufacturing Output (MoM) (Jun) | 3.9% |  | 3.2% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Low | Bank lending (MoM) (Jun) | 0.5% |  | 0.6% |
-| 13:00 | MXN | Low | Trade Balance (Jun) | 0.514B | 0.610B | 1.232B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jun) | 0.595B |  | 0.071B |
-| 13:00 | MXN | Low | Unemployment Rate (Jun) | 2.60% |  | 2.70% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) | 2.70% | 2.80% | 2.70% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) | 0.7% |  | 0.1% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 1.968% |  | 1.902% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 1.977% |  | 1.938% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 1.973% |  | 1.935% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) | 0.9 |  | -12.7 |
-| 16:00 | USD | Moderate | 2-Year Note Auction | 3.920% |  | 3.786% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 4.120% |  | 4.115% |
-| 17:30 | USD | Low | 3-Month Bill Auction | 4.235% |  | 4.240% |
-| 18:00 | USD | Moderate | 5-Year Note Auction | 3.983% |  | 3.879% |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.7% | 0.2% | 0.4% |
+| 04:00 | IDR | Low | Foreign Direct Investment (YoY) (Q2) |  |  | 12.70% |
+| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.729% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | 0.0% |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  |  | 6.86% |
+| 07:00 | ZAR | Low | Private Sector Credit (Jun) |  |  | 4.98% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  |  | 2.8% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 4.8% |
+| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 5.26B |
+| 09:30 | GBP | Low | BoE Consumer Credit (Jun) |  | 1.200B | 0.859B |
+| 09:30 | GBP | Low | M3 Money Supply (Jun) |  |  | 3,133.6B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Jun) |  | 0.3% | 0.2% |
+| 09:30 | GBP | Low | Mortgage Approvals (Jun) |  | 63.00K | 63.03K |
+| 09:30 | GBP | Low | Mortgage Lending (Jun) |  |  | 2.05B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Jun) |  | 3.700B | 2.900B |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.950% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.260% |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Jun) |  |  | 3,002.0K |
+| 13:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
+| 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.30B | -96.59B |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
+| 14:00 | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
+| 14:00 | USD | Low | House Price Index (May) |  |  | 434.9 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 0.8% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 2.9% | 3.4% |
+| 15:00 | USD | High | CB Consumer Confidence (Jul) |  | 95.9 | 93.0 |
+| 15:00 | USD | High | JOLTS Job Openings (Jun) |  | 7.490M | 7.769M |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | -4.1 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Jul) |  |  | -4.4 |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
+| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.022% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -0.577M |
