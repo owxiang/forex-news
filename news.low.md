@@ -11,13 +11,13 @@
 | 11:30 | INR | Manufacturing Output (MoM) (Jun) | 3.9% |  | 3.2% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Bank lending (MoM) (Jun) | 0.5% |  | 0.6% |
-| 13:00 | MXN | Trade Balance (Jun) | 0.514B | 0.610B | 1.029B |
-| 13:00 | MXN | Trade Balance (USD) (Jun) | 0.595B |  | -0.059B |
+| 13:00 | MXN | Trade Balance (Jun) | 0.514B | 0.610B | 1.232B |
+| 13:00 | MXN | Trade Balance (USD) (Jun) | 0.595B |  | 0.071B |
 | 13:00 | MXN | Unemployment Rate (Jun) | 2.60% |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Jun) | 2.70% | 2.80% | 2.70% |
-| 47 min | EUR | French 12-Month BTF Auction |  |  | 1.902% |
-| 47 min | EUR | French 3-Month BTF Auction |  |  | 1.938% |
-| 47 min | EUR | French 6-Month BTF Auction |  |  | 1.935% |
+| 14:00 | EUR | French 12-Month BTF Auction | 1.968% |  | 1.902% |
+| 14:00 | EUR | French 3-Month BTF Auction | 1.977% |  | 1.938% |
+| 14:00 | EUR | French 6-Month BTF Auction | 1.973% |  | 1.935% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jul) |  |  | -12.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.115% |
