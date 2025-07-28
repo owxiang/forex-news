@@ -18,6 +18,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 1.968% |  | 1.902% |
 | 14:00 | EUR | French 3-Month BTF Auction | 1.977% |  | 1.938% |
 | 14:00 | EUR | French 6-Month BTF Auction | 1.973% |  | 1.935% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Jul) |  |  | -12.7 |
+| 22 min | USD | Dallas Fed Mfg Business Index (Jul) |  |  | -12.7 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 4.240% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.115% |
