@@ -22,5 +22,5 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) | 0.9 |  | -12.7 |
 | 16:00 | USD | Moderate | 2-Year Note Auction | 3.920% |  | 3.786% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.120% |  | 4.115% |
-| 22 min | USD | Moderate | 5-Year Note Auction |  |  | 3.879% |
-| 18:30 | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.879% |
+| 21 min | USD | Low | 3-Month Bill Auction |  |  | 4.240% |
