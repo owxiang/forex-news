@@ -8,8 +8,8 @@
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | 0.0% |  | 0.1% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 7.27% |  | 6.86% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jun) | 4.98% |  | 4.98% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.8% |  | 2.8% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 6.2% |  | 5.0% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) | 5.39B |  | 5.26B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Jun) | 1.417B | 1.200B | 0.920B |
@@ -25,8 +25,8 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
 | 14:00 | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
+| 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
 | 14:00 | USD | Low | House Price Index (May) |  |  | 434.9 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 0.8% |
