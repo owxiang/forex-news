@@ -21,16 +21,16 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.280% |  | 2.260% |
 | 11:00 | EUR | Low | Italian 6-Month BOT Auction | 2.003% |  | 1.950% |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Jun) | 2,980.6K |  | 3,002.0K |
-| 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.30B | -96.59B |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
-| 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
-| 14:00 | USD | Low | House Price Index (May) |  |  | 434.9 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 0.8% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 2.9% | 3.4% |
+| 17 min | USD | Moderate | Goods Trade Balance (Jun) |  | -98.30B | -96.59B |
+| 17 min | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
+| 17 min | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
+| 42 min | USD | Low | Redbook (YoY) |  |  | 5.1% |
+| 47 min | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
+| 47 min | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
+| 47 min | USD | Low | House Price Index (May) |  |  | 434.9 |
+| 47 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
+| 47 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 0.8% |
+| 47 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 2.9% | 3.4% |
 | 15:00 | USD | High | CB Consumer Confidence (Jul) |  | 95.9 | 93.0 |
 | 15:00 | USD | High | JOLTS Job Openings (Jun) |  | 7.510M | 7.769M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | -4.1 |

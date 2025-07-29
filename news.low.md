@@ -19,11 +19,11 @@
 | 09:30 | GBP | Net Lending to Individuals (Jun) | 6.757B | 3.700B | 2.900B |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.280% |  | 2.260% |
 | 11:00 | EUR | Italian 6-Month BOT Auction | 2.003% |  | 1.950% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
-| 14:00 | USD | House Price Index (YoY) (May) |  |  | 3.0% |
-| 14:00 | USD | House Price Index (May) |  |  | 434.9 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
+| 17 min | USD | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
+| 42 min | USD | Redbook (YoY) |  |  | 5.1% |
+| 47 min | USD | House Price Index (YoY) (May) |  |  | 3.0% |
+| 47 min | USD | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
+| 47 min | USD | House Price Index (May) |  |  | 434.9 |
+| 47 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jul) |  |  | -4.1 |
 | 15:30 | USD | Texas Services Sector Outlook (Jul) |  |  | -4.4 |
