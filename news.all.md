@@ -26,8 +26,8 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
 | 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
+| 14:00 | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
 | 14:00 | USD | Low | House Price Index (May) |  |  | 434.9 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 0.8% |

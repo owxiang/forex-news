@@ -22,8 +22,8 @@
 | 13:00 | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
 | 14:00 | USD | House Price Index (YoY) (May) |  |  | 3.0% |
+| 14:00 | USD | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
 | 14:00 | USD | House Price Index (May) |  |  | 434.9 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
 | 15:30 | USD | Dallas Fed Services Revenues (Jul) |  |  | -4.1 |
