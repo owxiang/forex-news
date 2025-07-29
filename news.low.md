@@ -25,5 +25,5 @@
 | 14:00 | USD | House Price Index (MoM) (May) | -0.2% | -0.1% | -0.3% |
 | 14:00 | USD | House Price Index (May) | 434.4 |  | 435.1 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | -0.3% |  | -0.3% |
-| 21 min | USD | Dallas Fed Services Revenues (Jul) |  |  | -4.1 |
-| 21 min | USD | Texas Services Sector Outlook (Jul) |  |  | -4.4 |
+| 15:30 | USD | Dallas Fed Services Revenues (Jul) | 6.3 |  | -4.1 |
+| 15:30 | USD | Texas Services Sector Outlook (Jul) | 2.0 |  | -4.4 |
