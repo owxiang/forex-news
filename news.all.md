@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.7% | 0.2% | 0.4% |
-| 04:00 | IDR | Low | Foreign Direct Investment (YoY) (Q2) |  |  | 12.70% |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.729% |
+| 8 min | IDR | Low | Foreign Direct Investment (YoY) (Q2) |  |  | 12.70% |
+| 43 min | JPY | Low | 2-Year JGB Auction |  |  | 0.729% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | 0.0% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  |  | 6.86% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jun) |  |  | 4.98% |
