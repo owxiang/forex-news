@@ -30,8 +30,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
 | 14:00 | USD | Low | House Price Index (May) |  |  | 434.9 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 2.9% | 3.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 0.8% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | 2.9% | 3.4% |
 | 15:00 | USD | High | CB Consumer Confidence (Jul) |  | 95.9 | 93.0 |
 | 15:00 | USD | High | JOLTS Job Openings (Jun) |  | 7.490M | 7.769M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) |  |  | -4.1 |
