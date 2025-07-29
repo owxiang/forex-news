@@ -29,12 +29,12 @@
 | 14:00 | USD | Low | House Price Index (MoM) (May) | -0.2% | -0.1% | -0.3% |
 | 14:00 | USD | Low | House Price Index (May) | 434.4 |  | 435.1 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | -0.3% |  | -0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.4% |  | 0.8% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | 2.8% | 2.9% | 3.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 0.4% |  | 0.8% |
 | 15:00 | USD | High | CB Consumer Confidence (Jul) | 97.2 | 95.9 | 95.2 |
 | 15:00 | USD | High | JOLTS Job Openings (Jun) | 7.437M | 7.510M | 7.712M |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jul) | 6.3 |  | -4.1 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jul) | 2.0 |  | -4.4 |
-| 21 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.4% | 2.4% |
-| 51 min | USD | Moderate | 7-Year Note Auction |  |  | 4.022% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.9% | 2.4% | 2.4% |
+| 19:30 | USD | Moderate | 7-Year Note Auction |  |  | 4.022% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.500M | -0.577M |
