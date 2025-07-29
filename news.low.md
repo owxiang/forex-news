@@ -1,29 +1,52 @@
-## 29 July 2025 - Low Impact Forex News
+## 30 July 2025 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.7% | 0.2% | 0.4% |
-| 04:00 | IDR | Foreign Direct Investment (YoY) (Q2) | -7.00% |  | 12.70% |
-| 04:35 | JPY | 2-Year JGB Auction | 0.841% |  | 0.729% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jun) | 0.0% |  | 0.1% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Jun) | 7.27% |  | 6.86% |
-| 07:00 | ZAR | Private Sector Credit (Jun) | 4.98% |  | 4.98% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q2) | 2.8% |  | 2.8% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) | 6.2% |  | 5.0% |
-| 09:00 | EUR | Italian Trade Balance Non-EU (Jun) | 5.39B |  | 5.26B |
-| 09:30 | GBP | BoE Consumer Credit (Jun) | 1.417B | 1.200B | 0.920B |
-| 09:30 | GBP | M3 Money Supply (Jun) | 3,142.0B |  | 3,133.7B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
-| 09:30 | GBP | Mortgage Approvals (Jun) | 64.17K | 63.00K | 63.29K |
-| 09:30 | GBP | Mortgage Lending (Jun) | 5.34B |  | 2.21B |
-| 09:30 | GBP | Net Lending to Individuals (Jun) | 6.757B | 3.700B | 2.900B |
-| 10:30 | EUR | German 5-Year Bobl Auction | 2.280% |  | 2.260% |
-| 11:00 | EUR | Italian 6-Month BOT Auction | 2.003% |  | 1.950% |
-| 13:30 | USD | Wholesale Inventories (MoM) (Jun) | 0.2% | -0.1% | -0.3% |
-| 13:55 | USD | Redbook (YoY) | 4.9% |  | 5.1% |
-| 14:00 | USD | House Price Index (YoY) (May) | 2.8% |  | 3.2% |
-| 14:00 | USD | House Price Index (MoM) (May) | -0.2% | -0.1% | -0.3% |
-| 14:00 | USD | House Price Index (May) | 434.4 |  | 435.1 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | -0.3% |  | -0.3% |
-| 15:30 | USD | Dallas Fed Services Revenues (Jul) | 6.3 |  | -4.1 |
-| 15:30 | USD | Texas Services Sector Outlook (Jul) | 2.0 |  | -4.4 |
+| 02:00 | NZD | ANZ Business Confidence (Jul) |  |  | 46.3 |
+| 02:00 | NZD | NBNZ Own Activity (Jul) |  |  | 40.9% |
+| 02:30 | AUD | CPI Index Number (Q2) |  |  | 140.70 |
+| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 2.7% | 2.9% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) |  | 2.10% | 2.10% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) |  | 2.7% | 3.0% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) |  | 0.6% | 0.7% |
+| 03:30 | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
+| 07:00 | EUR | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
+| 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 2.2% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jul) |  |  | 0.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jul) |  |  | 0.7% |
+| 08:00 | CNY | FDI (Jun) |  |  | -13.20% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.6% | 0.7% |
+| 09:00 | CHF | ZEW Expectations (Jul) |  |  | -2.1 |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (May) |  |  | 1.50% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (May) |  |  | 1.10% |
+| 10:00 | EUR | Business and Consumer Survey (Jul) |  | 94.5 | 94.0 |
+| 10:00 | EUR | Business Climate (Jul) |  |  | -0.78 |
+| 10:00 | EUR | Consumer Confidence (Jul) |  | -14.7 | -15.3 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jul) |  |  | 21.2 |
+| 10:00 | EUR | Selling Price Expectations (Jul) |  |  | 5.6 |
+| 10:00 | EUR | Services Sentiment (Jul) |  | 3.3 | 2.9 |
+| 10:00 | EUR | Industrial Sentiment (Jul) |  | -11.0 | -12.0 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.8% |
+| 12:00 | USD | MBA Purchase Index |  |  | 165.1 |
+| 12:00 | USD | Mortgage Market Index |  |  | 255.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 747.5 |
+| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -5.2 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -0.90% | -1.67% |
+| 13:00 | ZAR | Budget Balance (MoM) (Jun) |  |  | -10.12B |
+| 13:30 | USD | GDP Sales (Q2) |  |  | -3.1% |
+| 13:30 | USD | PCE Prices (Q2) |  |  | 3.7% |
+| 13:30 | USD | Real Consumer Spending (Q2) |  |  | 0.5% |
+| 15:00 | USD | Pending Home Sales Index (Jun) |  |  | 72.6 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.740M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.095M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.900M | 2.931M |
+| 15:30 | USD | Gasoline Production |  |  | 0.282M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.003M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
+| 15:30 | USD | Gasoline Inventories |  | -1.100M | -1.738M |
+| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.216B |
+| 22:00 | MXN | Fiscal Balance (Jun) |  |  | -117.90B |
