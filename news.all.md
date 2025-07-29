@@ -11,16 +11,16 @@
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.8% |  | 2.8% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 6.2% |  | 5.0% |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 5.26B |
-| 20 min | GBP | Low | BoE Consumer Credit (Jun) |  | 1.200B | 0.859B |
-| 20 min | GBP | Low | M3 Money Supply (Jun) |  |  | 3,133.6B |
-| 20 min | GBP | Low | M4 Money Supply (MoM) (Jun) |  | 0.3% | 0.2% |
-| 20 min | GBP | Low | Mortgage Approvals (Jun) |  | 63.00K | 63.03K |
-| 20 min | GBP | Low | Mortgage Lending (Jun) |  |  | 2.05B |
-| 20 min | GBP | Low | Net Lending to Individuals (Jun) |  | 3.700B | 2.900B |
+| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) | 5.39B |  | 5.26B |
+| 09:30 | GBP | Low | BoE Consumer Credit (Jun) | 1.417B | 1.200B | 0.920B |
+| 09:30 | GBP | Low | M3 Money Supply (Jun) | 3,142.0B |  | 3,133.7B |
+| 09:30 | GBP | Low | M4 Money Supply (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
+| 09:30 | GBP | Low | Mortgage Approvals (Jun) | 64.17K | 63.00K | 63.29K |
+| 09:30 | GBP | Low | Mortgage Lending (Jun) | 5.34B |  | 2.21B |
+| 09:30 | GBP | Low | Net Lending to Individuals (Jun) | 6.757B | 3.700B | 2.900B |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 1.950% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.260% |
-| 11:00 | EUR | Moderate | France Jobseekers Total (Jun) |  |  | 3,002.0K |
+| 20 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.260% |
+| 50 min | EUR | Moderate | France Jobseekers Total (Jun) |  |  | 3,002.0K |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.30B | -96.59B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
