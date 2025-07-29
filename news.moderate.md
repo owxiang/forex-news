@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
+| 49 min | EUR | Spanish GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
 | 11:00 | EUR | France Jobseekers Total (Jun) |  |  | 3,002.0K |
 | 13:30 | USD | Goods Trade Balance (Jun) |  | -98.30B | -96.59B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
