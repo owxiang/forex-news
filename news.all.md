@@ -5,13 +5,13 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.7% | 0.2% | 0.4% |
 | 04:00 | IDR | Low | Foreign Direct Investment (YoY) (Q2) | -7.00% |  | 12.70% |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.841% |  | 0.729% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | 0.0% |  | 0.0% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | 0.0% |  | 0.1% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 7.27% |  | 6.86% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jun) | 4.98% |  | 4.98% |
-| 49 min | EUR | Low | Spanish GDP (YoY) (Q2) |  |  | 2.8% |
-| 49 min | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.6% | 0.6% |
-| 49 min | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 4.8% |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 5.26B |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.8% |  | 2.8% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.7% | 0.6% | 0.6% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 6.2% |  | 5.0% |
+| 50 min | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 5.26B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Jun) |  | 1.200B | 0.859B |
 | 09:30 | GBP | Low | M3 Money Supply (Jun) |  |  | 3,133.6B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Jun) |  | 0.3% | 0.2% |
