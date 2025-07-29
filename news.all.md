@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.7% | 0.2% | 0.4% |
-| 8 min | IDR | Low | Foreign Direct Investment (YoY) (Q2) |  |  | 12.70% |
-| 43 min | JPY | Low | 2-Year JGB Auction |  |  | 0.729% |
+| 04:00 | IDR | Low | Foreign Direct Investment (YoY) (Q2) | -7.00% |  | 12.70% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.841% |  | 0.729% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | 0.0% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  |  | 6.86% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jun) |  |  | 4.98% |
@@ -26,8 +26,8 @@
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | 0.2% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.1% |
-| 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
 | 14:00 | USD | Low | House Price Index (MoM) (May) |  | -0.1% | -0.4% |
+| 14:00 | USD | Low | House Price Index (YoY) (May) |  |  | 3.0% |
 | 14:00 | USD | Low | House Price Index (May) |  |  | 434.9 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  |  | -0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  |  | 0.8% |
