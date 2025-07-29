@@ -17,8 +17,8 @@
 | 09:30 | GBP | Mortgage Approvals (Jun) | 64.17K | 63.00K | 63.29K |
 | 09:30 | GBP | Mortgage Lending (Jun) | 5.34B |  | 2.21B |
 | 09:30 | GBP | Net Lending to Individuals (Jun) | 6.757B | 3.700B | 2.900B |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 1.950% |
-| 20 min | EUR | German 5-Year Bobl Auction |  |  | 2.260% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.280% |  | 2.260% |
+| 11:00 | EUR | Italian 6-Month BOT Auction | 2.003% |  | 1.950% |
 | 13:30 | USD | Wholesale Inventories (MoM) (Jun) |  | -0.1% | -0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.1% |
 | 14:00 | USD | House Price Index (YoY) (May) |  |  | 3.0% |
