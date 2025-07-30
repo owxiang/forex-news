@@ -38,15 +38,15 @@
 | 13:30 | USD | GDP Sales (Q2) | 6.3% |  | -3.1% |
 | 13:30 | USD | PCE Prices (Q2) | 2.1% |  | 3.7% |
 | 13:30 | USD | Real Consumer Spending (Q2) | 1.4% |  | 0.5% |
-| 41 min | USD | Pending Home Sales Index (Jun) |  |  | 72.6 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.740M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.095M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.900M | 2.931M |
-| 15:30 | USD | Gasoline Production |  |  | 0.282M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.003M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 15:30 | USD | Gasoline Inventories |  | -1.100M | -1.738M |
+| 15:00 | USD | Pending Home Sales Index (Jun) | 72.0 |  | 72.6 |
+| 22 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
+| 22 min | USD | Crude Oil Imports |  |  | -0.740M |
+| 22 min | USD | Distillate Fuel Production |  |  | 0.095M |
+| 22 min | USD | EIA Weekly Distillates Stocks |  | -0.900M | 2.931M |
+| 22 min | USD | Gasoline Production |  |  | 0.282M |
+| 22 min | USD | Heating Oil Stockpiles |  |  | 0.003M |
+| 22 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
+| 22 min | USD | Gasoline Inventories |  | -1.100M | -1.738M |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.216B |
 | 22:00 | MXN | Fiscal Balance (Jun) |  |  | -117.90B |
