@@ -7,8 +7,8 @@
 | 02:30 | AUD | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
@@ -33,11 +33,11 @@
 | 12:00 | USD | MBA Purchase Index | 155.6 |  | 165.1 |
 | 12:00 | USD | Mortgage Market Index | 245.7 |  | 255.5 |
 | 12:00 | USD | Mortgage Refinance Index | 739.3 |  | 747.5 |
-| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -5.2 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) | -0.77% | -0.90% | -1.67% |
-| 13:30 | USD | GDP Sales (Q2) |  |  | -3.1% |
-| 13:30 | USD | PCE Prices (Q2) |  |  | 3.7% |
-| 13:30 | USD | Real Consumer Spending (Q2) |  |  | 0.5% |
+| 12:15 | EUR | Spanish Business Confidence (Jul) | -4.9 |  | -5.2 |
+| 17 min | USD | GDP Sales (Q2) |  |  | -3.1% |
+| 17 min | USD | PCE Prices (Q2) |  |  | 3.7% |
+| 17 min | USD | Real Consumer Spending (Q2) |  |  | 0.5% |
 | 15:00 | USD | Pending Home Sales Index (Jun) |  |  | 72.6 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.740M |

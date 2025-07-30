@@ -4,26 +4,26 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | ANZ Business Confidence (Jul) | 47.8 |  | 46.3 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jul) | 40.6% |  | 40.9% |
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
+| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 101.1 | 97.9 | 96.3 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | CHF | Low | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Jul) | 25.1 |  | 21.3 |
 | 10:00 | EUR | Low | Selling Price Expectations (Jul) | 9.2 |  | 6.2 |
 | 10:00 | EUR | Low | Services Sentiment (Jul) | 4.1 | 3.3 | 3.1 |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
 | 10:00 | EUR | Low | Industrial Sentiment (Jul) | -10.4 | -11.2 | -11.8 |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.52% |  | 3.48% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.80% |  | 2.68% |
@@ -48,17 +48,17 @@
 | 12:00 | USD | Low | MBA Purchase Index | 155.6 |  | 165.1 |
 | 12:00 | USD | Low | Mortgage Market Index | 245.7 |  | 255.5 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 739.3 |  | 747.5 |
-| 12:00 | EUR | Low | Spanish Business Confidence (Jul) |  |  | -5.2 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) | -0.77% | -0.90% | -1.67% |
-| 53 min | MXN | Moderate | GDP (YoY) (Q2) |  | -0.1% | 0.8% |
-| 53 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.4% | 0.2% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) |  | 77K | -33K |
-| 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.40% | 3.50% |
-| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 2.5% | -0.5% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.2% | 3.8% |
-| 13:30 | USD | Low | GDP Sales (Q2) |  |  | -3.1% |
-| 13:30 | USD | Low | PCE Prices (Q2) |  |  | 3.7% |
-| 13:30 | USD | Low | Real Consumer Spending (Q2) |  |  | 0.5% |
+| 12:15 | EUR | Low | Spanish Business Confidence (Jul) | -4.9 |  | -5.2 |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 0.1% | -0.1% | 0.8% |
+| 2 min | USD | High | ADP Nonfarm Employment Change (Jul) |  | 77K | -33K |
+| 17 min | USD | Moderate | Core PCE Prices (Q2) |  | 2.40% | 3.50% |
+| 17 min | USD | High | GDP (QoQ) (Q2) |  | 2.5% | -0.5% |
+| 17 min | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.2% | 3.8% |
+| 17 min | USD | Low | GDP Sales (Q2) |  |  | -3.1% |
+| 17 min | USD | Low | PCE Prices (Q2) |  |  | 3.7% |
+| 17 min | USD | Low | Real Consumer Spending (Q2) |  |  | 0.5% |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.75% | 2.75% |
