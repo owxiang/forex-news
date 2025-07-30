@@ -4,42 +4,42 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | ANZ Business Confidence (Jul) | 47.8 |  | 46.3 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jul) | 40.6% |  | 40.9% |
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
+| 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
-| 16 min | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.3% | 0.2% |
-| 16 min | EUR | Moderate | French GDP (YoY) (Q2) |  |  | 0.6% |
-| 16 min | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 46 min | EUR | Moderate | German Retail Sales (MoM) (Jun) |  | 0.5% | -1.6% |
-| 46 min | EUR | Low | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) |  | 97.9 | 96.1 |
-| 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  |  | 2.2% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.3% | 2.3% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  |  | 0.7% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  |  | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.7% | 2.3% |
-| 08:00 | CNY | Low | FDI (Jun) |  |  | -13.20% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.6% | 0.7% |
+| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
+| 49 min | CHF | Moderate | KOF Leading Indicators (Jul) |  | 97.9 | 96.1 |
+| 49 min | EUR | Low | Core CPI (YoY) (Jul) |  |  | 2.2% |
+| 49 min | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.3% | 2.3% |
+| 49 min | EUR | Low | Spanish CPI (MoM) (Jul) |  |  | 0.7% |
+| 49 min | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.7% | 2.3% |
+| 49 min | EUR | Low | Spanish HICP (MoM) (Jul) |  |  | 0.7% |
+| 49 min | CNY | Low | FDI (Jun) |  |  | -13.20% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.6% | 0.7% |
 | 09:00 | CHF | Low | ZEW Expectations (Jul) |  |  | -2.1 |
 | 09:00 | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.4% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.2% | 0.0% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  |  | 1.10% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  |  | 1.50% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  |  | 1.10% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 94.5 | 94.0 |
 | 10:00 | EUR | Low | Business Climate (Jul) |  |  | -0.78 |
 | 10:00 | EUR | Low | Consumer Confidence (Jul) |  | -14.7 | -15.3 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Jul) |  |  | 21.2 |
 | 10:00 | EUR | Low | Selling Price Expectations (Jul) |  |  | 5.6 |
 | 10:00 | EUR | Low | Services Sentiment (Jul) |  | 3.3 | 2.9 |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 1.2% | 1.5% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
 | 10:00 | EUR | Low | Industrial Sentiment (Jul) |  | -11.2 | -12.0 |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.48% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.68% |
