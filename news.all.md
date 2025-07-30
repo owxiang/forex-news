@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | ANZ Business Confidence (Jul) | 47.8 |  | 46.3 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jul) | 40.6% |  | 40.9% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
@@ -20,8 +20,8 @@
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 101.1 | 97.9 | 96.3 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Jul) | 25.1 |  | 21.3 |
 | 10:00 | EUR | Low | Selling Price Expectations (Jul) | 9.2 |  | 6.2 |
 | 10:00 | EUR | Low | Services Sentiment (Jul) | 4.1 | 3.3 | 3.1 |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
 | 10:00 | EUR | Low | Industrial Sentiment (Jul) | -10.4 | -11.2 | -11.8 |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction | 3.52% |  | 3.48% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction | 2.80% |  | 2.68% |
@@ -78,6 +78,6 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.886B |  | 0.216B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 20 min | USD | High | FOMC Press Conference |  |  |  |
-| 22:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -117.90B |
+| 19:30 | USD | High | FOMC Press Conference |  |  |  |
+| 20:00 | MXN | Low | Fiscal Balance (Jun) | -194.28B |  | -117.90B |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |

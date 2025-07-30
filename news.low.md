@@ -48,4 +48,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories | -2.724M | -1.100M | -1.738M |
 | 18:30 | BRL | Foreign Exchange Flows | -0.886B |  | 0.216B |
-| 22:00 | MXN | Fiscal Balance (Jun) |  |  | -117.90B |
+| 20:00 | MXN | Fiscal Balance (Jun) | -194.28B |  | -117.90B |
