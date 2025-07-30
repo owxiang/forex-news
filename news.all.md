@@ -7,8 +7,8 @@
 | 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) | 141.70 |  | 140.70 |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
@@ -16,21 +16,21 @@
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 101.1 | 97.9 | 96.3 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | CHF | Low | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
-| 09:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.4% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q2) | 0.4% | 0.2% | 0.0% |
-| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q2) | -0.1% | -0.1% | 0.4% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
+| 10:00 | EUR | Low | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jul) | 95.8 | 94.5 | 94.2 |
 | 10:00 | EUR | Low | Business Climate (Jul) | -0.72 |  | -0.78 |
 | 10:00 | EUR | Low | Consumer Confidence (Jul) | -14.7 | -14.7 | -15.3 |
@@ -50,8 +50,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 739.3 |  | 747.5 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) | -0.77% | -0.90% | -1.67% |
 | 12:15 | EUR | Low | Spanish Business Confidence (Jul) | -4.9 |  | -5.2 |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q2) | 0.1% | -0.1% | 0.8% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) | 104K | 77K | -23K |
 | 13:30 | USD | Moderate | Core PCE Prices (Q2) | 2.50% | 2.40% | 3.50% |
 | 13:30 | USD | High | GDP (QoQ) (Q2) | 3.0% | 2.5% | -0.5% |
@@ -75,10 +75,9 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.724M | -1.100M | -1.738M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 22 min | BRL | Low | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
-| 22 min | BRL | Low | Foreign Exchange Flows |  |  | 0.216B |
-| 52 min | USD | High | FOMC Statement |  |  |  |
-| 52 min | USD | High | Fed Interest Rate Decision |  | 4.50% | 4.50% |
-| 19:30 | USD | High | FOMC Press Conference |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -0.886B |  | 0.216B |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 20 min | USD | High | FOMC Press Conference |  |  |  |
 | 22:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -117.90B |
 | 22:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |

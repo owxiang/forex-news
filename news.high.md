@@ -7,6 +7,6 @@
 | 13:30 | USD | GDP (QoQ) (Q2) | 3.0% | 2.5% | -0.5% |
 | 14:45 | CAD | BoC Interest Rate Decision | 2.75% | 2.75% | 2.75% |
 | 15:30 | USD | Crude Oil Inventories | 7.698M | -2.300M | -3.169M |
-| 52 min | USD | FOMC Statement |  |  |  |
-| 52 min | USD | Fed Interest Rate Decision |  | 4.50% | 4.50% |
-| 19:30 | USD | FOMC Press Conference |  |  |  |
+| 19:00 | USD | FOMC Statement |  |  |  |
+| 19:00 | USD | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 20 min | USD | FOMC Press Conference |  |  |  |

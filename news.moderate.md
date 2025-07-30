@@ -16,8 +16,8 @@
 | 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
 | 10:00 | EUR | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
 | 10:10 | EUR | Italian 10-Year BTP Auction | 3.52% |  | 3.48% |
-| 13:00 | MXN | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
 | 13:00 | MXN | GDP (YoY) (Q2) | 0.1% | -0.1% | 0.8% |
+| 13:00 | MXN | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
 | 13:30 | USD | Core PCE Prices (Q2) | 2.50% | 2.40% | 3.50% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.0% | 2.2% | 3.8% |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
