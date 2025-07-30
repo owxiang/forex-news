@@ -10,7 +10,7 @@
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
-| 07:00 | EUR | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
+| 46 min | EUR | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) |  |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) |  |  | 0.7% |
@@ -26,7 +26,8 @@
 | 10:00 | EUR | Consumer Inflation Expectation (Jul) |  |  | 21.2 |
 | 10:00 | EUR | Selling Price Expectations (Jul) |  |  | 5.6 |
 | 10:00 | EUR | Services Sentiment (Jul) |  | 3.3 | 2.9 |
-| 10:00 | EUR | Industrial Sentiment (Jul) |  | -11.0 | -12.0 |
+| 10:00 | EUR | Industrial Sentiment (Jul) |  | -11.2 | -12.0 |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.68% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.8% |
 | 12:00 | USD | MBA Purchase Index |  |  | 165.1 |

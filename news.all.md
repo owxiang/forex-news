@@ -13,11 +13,11 @@
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
-| 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.3% | 0.2% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q2) |  |  | 0.6% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.1% | 0.1% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) |  | 0.5% | -1.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
+| 16 min | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.3% | 0.2% |
+| 16 min | EUR | Moderate | French GDP (YoY) (Q2) |  |  | 0.6% |
+| 16 min | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.1% | 0.1% |
+| 46 min | EUR | Moderate | German Retail Sales (MoM) (Jun) |  | 0.5% | -1.6% |
+| 46 min | EUR | Low | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) |  | 97.9 | 96.1 |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jul) |  |  | 2.2% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.3% | 2.3% |
@@ -40,7 +40,9 @@
 | 10:00 | EUR | Low | Services Sentiment (Jul) |  | 3.3 | 2.9 |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 1.2% | 1.5% |
-| 10:00 | EUR | Low | Industrial Sentiment (Jul) |  | -11.0 | -12.0 |
+| 10:00 | EUR | Low | Industrial Sentiment (Jul) |  | -11.2 | -12.0 |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.48% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 2.68% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.84% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.8% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 165.1 |
@@ -53,7 +55,7 @@
 | 13:00 | ZAR | Low | Budget Balance (MoM) (Jun) |  |  | -10.12B |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jul) |  | 77K | -33K |
 | 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.40% | 3.50% |
-| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 2.4% | -0.5% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) |  | 2.5% | -0.5% |
 | 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.2% | 3.8% |
 | 13:30 | USD | Low | GDP Sales (Q2) |  |  | -3.1% |
 | 13:30 | USD | Low | PCE Prices (Q2) |  |  | 3.7% |
@@ -61,9 +63,9 @@
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 2.75% | 2.75% |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jun) |  | 0.3% | 1.8% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jun) |  | 0.2% | 1.8% |
 | 15:00 | USD | Low | Pending Home Sales Index (Jun) |  |  | 72.6 |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.500M | -3.169M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.300M | -3.169M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.740M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.455M |
