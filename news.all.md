@@ -4,32 +4,31 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | NZD | Low | ANZ Business Confidence (Jul) | 47.8 |  | 46.3 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jul) | 40.6% |  | 40.9% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
 | 02:30 | AUD | Low | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
+| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 03:30 | SGD | Low | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
-| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
+| 06:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
-| 49 min | CHF | Moderate | KOF Leading Indicators (Jul) |  | 97.9 | 96.1 |
-| 49 min | EUR | Low | Core CPI (YoY) (Jul) |  |  | 2.2% |
-| 49 min | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.3% | 2.3% |
-| 49 min | EUR | Low | Spanish CPI (MoM) (Jul) |  |  | 0.7% |
-| 49 min | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 2.7% | 2.3% |
-| 49 min | EUR | Low | Spanish HICP (MoM) (Jul) |  |  | 0.7% |
-| 49 min | CNY | Low | FDI (Jun) |  |  | -13.20% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.6% | 0.7% |
-| 09:00 | CHF | Low | ZEW Expectations (Jul) |  |  | -2.1 |
-| 09:00 | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.4% |
-| 09:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.2% | 0.0% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 101.1 | 97.9 | 96.3 |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
+| 49 min | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
+| 49 min | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.6% | 0.7% |
+| 49 min | CHF | Low | ZEW Expectations (Jul) |  |  | -2.1 |
+| 49 min | EUR | High | German GDP (QoQ) (Q2) |  | -0.1% | 0.4% |
+| 49 min | EUR | Moderate | German GDP (YoY) (Q2) |  | 0.2% | 0.0% |
 | 10:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  |  | 1.50% |
 | 10:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  |  | 1.10% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 94.5 | 94.0 |

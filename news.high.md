@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German GDP (QoQ) (Q2) |  | -0.1% | 0.4% |
+| 49 min | EUR | German GDP (QoQ) (Q2) |  | -0.1% | 0.4% |
 | 13:15 | USD | ADP Nonfarm Employment Change (Jul) |  | 77K | -33K |
 | 13:30 | USD | GDP (QoQ) (Q2) |  | 2.5% | -0.5% |
 | 14:45 | CAD | BoC Interest Rate Decision |  | 2.75% | 2.75% |
