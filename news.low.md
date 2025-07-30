@@ -14,8 +14,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
-| 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
+| 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
@@ -39,14 +39,14 @@
 | 13:30 | USD | PCE Prices (Q2) | 2.1% |  | 3.7% |
 | 13:30 | USD | Real Consumer Spending (Q2) | 1.4% |  | 0.5% |
 | 15:00 | USD | Pending Home Sales Index (Jun) | 72.0 |  | 72.6 |
-| 22 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
-| 22 min | USD | Crude Oil Imports |  |  | -0.740M |
-| 22 min | USD | Distillate Fuel Production |  |  | 0.095M |
-| 22 min | USD | EIA Weekly Distillates Stocks |  | -0.900M | 2.931M |
-| 22 min | USD | Gasoline Production |  |  | 0.282M |
-| 22 min | USD | Heating Oil Stockpiles |  |  | 0.003M |
-| 22 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.6% |
-| 22 min | USD | Gasoline Inventories |  | -1.100M | -1.738M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.025M |  | 0.087M |
+| 15:30 | USD | Crude Oil Imports | 1.317M |  | -0.740M |
+| 15:30 | USD | Distillate Fuel Production | 0.130M |  | 0.095M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 3.635M | -0.900M | 2.931M |
+| 15:30 | USD | Gasoline Production | 0.676M |  | 0.282M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.739M |  | 0.003M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
+| 15:30 | USD | Gasoline Inventories | -2.724M | -1.100M | -1.738M |
 | 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.216B |
 | 22:00 | MXN | Fiscal Balance (Jun) |  |  | -117.90B |
