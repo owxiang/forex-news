@@ -79,5 +79,5 @@
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 20:00 | MXN | Low | Fiscal Balance (Jun) | -194.28B |  | -117.90B |
-| 22:30 | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |
+| 22:00 | MXN | Low | Fiscal Balance (Jun) | -194.28B |  | -117.90B |
+| 23 min | BRL | Moderate | Interest Rate Decision |  | 15.00% | 15.00% |

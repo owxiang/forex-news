@@ -25,4 +25,4 @@
 | 15:00 | USD | Pending Home Sales (MoM) (Jun) | -0.8% | 0.2% | 1.8% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.690M |  | 0.455M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
-| 22:30 | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
+| 23 min | BRL | Interest Rate Decision |  | 15.00% | 15.00% |
