@@ -14,8 +14,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
@@ -35,10 +35,10 @@
 | 12:00 | USD | Mortgage Refinance Index | 739.3 |  | 747.5 |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) | -0.77% | -0.90% | -1.67% |
 | 12:15 | EUR | Spanish Business Confidence (Jul) | -4.9 |  | -5.2 |
-| 17 min | USD | GDP Sales (Q2) |  |  | -3.1% |
-| 17 min | USD | PCE Prices (Q2) |  |  | 3.7% |
-| 17 min | USD | Real Consumer Spending (Q2) |  |  | 0.5% |
-| 15:00 | USD | Pending Home Sales Index (Jun) |  |  | 72.6 |
+| 13:30 | USD | GDP Sales (Q2) | 6.3% |  | -3.1% |
+| 13:30 | USD | PCE Prices (Q2) | 2.1% |  | 3.7% |
+| 13:30 | USD | Real Consumer Spending (Q2) | 1.4% |  | 0.5% |
+| 41 min | USD | Pending Home Sales Index (Jun) |  |  | 72.6 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.087M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.740M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.095M |
