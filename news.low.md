@@ -7,19 +7,19 @@
 | 02:30 | AUD | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) |  |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) |  |  | 0.7% |
 | 08:00 | CNY | FDI (Jun) |  |  | -13.20% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.6% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Jul) |  |  | -2.1 |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (May) |  |  | 1.50% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (May) |  |  | 1.10% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (May) |  |  | 1.50% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) |  | 94.5 | 94.0 |
 | 10:00 | EUR | Business Climate (Jul) |  |  | -0.78 |
 | 10:00 | EUR | Consumer Confidence (Jul) |  | -14.7 | -15.3 |
