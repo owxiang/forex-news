@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 27 min | NZD | ANZ Business Confidence (Jul) |  |  | 46.3 |
-| 27 min | NZD | NBNZ Own Activity (Jul) |  |  | 40.9% |
-| 57 min | AUD | CPI Index Number (Q2) |  |  | 140.70 |
-| 57 min | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 2.7% | 2.9% |
-| 57 min | AUD | Monthly CPI Indicator (YoY) (Jun) |  | 2.10% | 2.10% |
-| 57 min | AUD | Weighted mean CPI (YoY) (Q2) |  | 2.7% | 3.0% |
-| 57 min | AUD | Weighted mean CPI (QoQ) (Q2) |  | 0.6% | 0.7% |
-| 03:30 | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
+| 02:00 | NZD | ANZ Business Confidence (Jul) | 47.8 |  | 46.3 |
+| 02:00 | NZD | NBNZ Own Activity (Jul) | 40.6% |  | 40.9% |
+| 02:30 | AUD | CPI Index Number (Q2) | 141.70 |  | 140.70 |
+| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 3.0% |
+| 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
+| 54 min | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jun) |  |  | 1.6% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) |  |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) |  |  | 0.7% |
