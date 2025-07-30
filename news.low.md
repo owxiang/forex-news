@@ -7,8 +7,8 @@
 | 02:30 | AUD | CPI Index Number (Q2) | 141.70 |  | 140.70 |
 | 02:30 | AUD | Trimmed Mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Jun) | 1.90% | 2.10% | 2.10% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q2) | 0.6% | 0.6% | 0.7% |
+| 02:30 | AUD | Weighted mean CPI (YoY) (Q2) | 2.7% | 2.7% | 2.9% |
 | 03:30 | SGD | Unemployment Rate (Q2) | 2.1% |  | 2.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jun) | 4.9% |  | 4.6% |
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
@@ -28,13 +28,13 @@
 | 10:00 | EUR | Industrial Sentiment (Jul) | -10.4 | -11.2 | -11.8 |
 | 10:10 | EUR | Italian 5-Year BTP Auction | 2.80% |  | 2.68% |
 | 10:50 | ZAR | Budget Balance (MoM) (Jun) | 48.75B |  | -10.12B |
-| 52 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
-| 52 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.8% |
-| 52 min | USD | MBA Purchase Index |  |  | 165.1 |
-| 52 min | USD | Mortgage Market Index |  |  | 255.5 |
-| 52 min | USD | Mortgage Refinance Index |  |  | 747.5 |
-| 52 min | EUR | Spanish Business Confidence (Jul) |  |  | -5.2 |
-| 52 min | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -0.90% | -1.67% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.83% |  | 6.84% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -3.8% |  | 0.8% |
+| 12:00 | USD | MBA Purchase Index | 155.6 |  | 165.1 |
+| 12:00 | USD | Mortgage Market Index | 245.7 |  | 255.5 |
+| 12:00 | USD | Mortgage Refinance Index | 739.3 |  | 747.5 |
+| 12:00 | EUR | Spanish Business Confidence (Jul) |  |  | -5.2 |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jul) | -0.77% | -0.90% | -1.67% |
 | 13:30 | USD | GDP Sales (Q2) |  |  | -3.1% |
 | 13:30 | USD | PCE Prices (Q2) |  |  | 3.7% |
 | 13:30 | USD | Real Consumer Spending (Q2) |  |  | 0.5% |
