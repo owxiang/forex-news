@@ -14,8 +14,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
 | 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
