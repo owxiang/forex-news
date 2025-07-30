@@ -17,15 +17,15 @@
 | 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
-| 50 min | EUR | Italian Industrial Sales (MoM) (May) |  |  | 1.50% |
-| 50 min | EUR | Italian Industrial Sales (YoY) (May) |  |  | 1.10% |
-| 50 min | EUR | Business and Consumer Survey (Jul) |  | 94.5 | 94.0 |
-| 50 min | EUR | Business Climate (Jul) |  |  | -0.78 |
-| 50 min | EUR | Consumer Confidence (Jul) |  | -14.7 | -15.3 |
-| 50 min | EUR | Consumer Inflation Expectation (Jul) |  |  | 21.2 |
-| 50 min | EUR | Selling Price Expectations (Jul) |  |  | 5.6 |
-| 50 min | EUR | Services Sentiment (Jul) |  | 3.3 | 2.9 |
-| 50 min | EUR | Industrial Sentiment (Jul) |  | -11.2 | -12.0 |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
+| 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
+| 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 94.5 | 94.2 |
+| 10:00 | EUR | Business Climate (Jul) | -0.72 |  | -0.78 |
+| 10:00 | EUR | Consumer Confidence (Jul) | -14.7 | -14.7 | -15.3 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jul) | 25.1 |  | 21.3 |
+| 10:00 | EUR | Selling Price Expectations (Jul) | 9.2 |  | 6.2 |
+| 10:00 | EUR | Services Sentiment (Jul) | 4.1 | 3.3 | 3.1 |
+| 10:00 | EUR | Industrial Sentiment (Jul) | -10.4 | -11.2 | -11.8 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 2.68% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.84% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.8% |
