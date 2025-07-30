@@ -1,28 +1,30 @@
-## 30 July 2025 - Moderate Impact Forex News
+## 31 July 2025 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI (YoY) (Q2) | 2.1% | 2.1% | 2.4% |
-| 02:30 | AUD | CPI (QoQ) (Q2) | 0.7% | 0.8% | 0.9% |
-| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.6% | 0.7% | 0.7% |
-| 06:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.6% | -0.3% | 0.1% |
-| 06:30 | EUR | French GDP (QoQ) (Q2) | 0.3% | 0.1% | 0.1% |
-| 06:30 | EUR | French GDP (YoY) (Q2) | 0.7% |  | 0.6% |
-| 07:00 | EUR | German Retail Sales (MoM) (Jun) | 1.0% | 0.5% | -0.6% |
-| 08:00 | CHF | KOF Leading Indicators (Jul) | 101.1 | 97.9 | 96.3 |
-| 08:00 | EUR | Spanish CPI (YoY) (Jul) | 2.7% | 2.3% | 2.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (Jul) | 2.7% | 2.7% | 2.3% |
-| 09:00 | EUR | German GDP (YoY) (Q2) | 0.4% | 0.2% | 0.0% |
-| 10:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.0% | 0.6% |
-| 10:00 | EUR | GDP (YoY) (Q2) | 1.4% | 1.2% | 1.5% |
-| 10:10 | EUR | Italian 10-Year BTP Auction | 3.52% |  | 3.48% |
-| 13:00 | MXN | GDP (QoQ) (Q2) | 0.7% | 0.4% | 0.2% |
-| 13:00 | MXN | GDP (YoY) (Q2) | 0.1% | -0.1% | 0.8% |
-| 13:30 | USD | Core PCE Prices (Q2) | 2.50% | 2.40% | 3.50% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.0% | 2.2% | 3.8% |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | Pending Home Sales (MoM) (Jun) | -0.8% | 0.2% | 1.8% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.690M |  | 0.455M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 22:30 | BRL | Interest Rate Decision | 15.00% | 15.00% | 15.00% |
+| 43 min | JPY | Industrial Production (MoM) (Jun) |  | -0.7% | -0.1% |
+| 02:30 | AUD | Building Approvals (MoM) (Jun) |  | 1.8% | 3.2% |
+| 02:30 | AUD | Retail Sales (MoM) (Jun) |  | 0.4% | 0.2% |
+| 02:30 | CNY | Chinese Composite PMI (Jul) |  |  | 50.7 |
+| 02:30 | CNY | Non-Manufacturing PMI (Jul) |  | 50.3 | 50.5 |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 03:30 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.3% | 0.4% |
+| 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.2% | 0.4% |
+| 08:55 | EUR | German Unemployment Change (Jul) |  | 15K | 11K |
+| 08:55 | EUR | German Unemployment Rate (Jul) |  | 6.4% | 6.3% |
+| 10:00 | EUR | Unemployment Rate (Jun) |  | 6.3% | 6.3% |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.1% |
+| 13:00 | EUR | German CPI (YoY) (Jul) |  | 1.9% | 2.0% |
+| 13:00 | BRL | Unemployment Rate (Jun) |  | 6.0% | 6.2% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,955K |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
+| 13:30 | USD | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
+| 13:30 | USD | PCE price index (MoM) (Jun) |  | 0.3% | 0.1% |
+| 13:30 | USD | Personal Spending (MoM) (Jun) |  | 0.4% | -0.1% |
+| 13:30 | CAD | GDP (MoM) (May) |  | -0.1% | -0.1% |
+| 13:31 | CAD | GDP (MoM) (Jun) |  |  |  |
+| 14:00 | ZAR | Interest Rate Decision (Jul) |  |  | 7.25% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 6,658B |
