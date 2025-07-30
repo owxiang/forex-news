@@ -14,11 +14,11 @@
 | 08:00 | EUR | Core CPI (YoY) (Jul) | 2.3% |  | 2.2% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jul) | -0.1% |  | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jul) | -0.4% |  | 0.7% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q2) | -0.1% | 0.1% | 0.3% |
 | 09:00 | CHF | ZEW Expectations (Jul) | 2.4 |  | -2.1 |
-| 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
 | 10:00 | EUR | Italian Industrial Sales (YoY) (May) | -1.80% |  | 0.90% |
+| 10:00 | EUR | Italian Industrial Sales (MoM) (May) | -2.20% |  | 1.40% |
 | 10:00 | EUR | Business and Consumer Survey (Jul) | 95.8 | 94.5 | 94.2 |
 | 10:00 | EUR | Business Climate (Jul) | -0.72 |  | -0.78 |
 | 10:00 | EUR | Consumer Confidence (Jul) | -14.7 | -14.7 | -15.3 |
@@ -47,6 +47,6 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.739M |  | 0.003M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 1.6% |
 | 15:30 | USD | Gasoline Inventories | -2.724M | -1.100M | -1.738M |
-| 18:30 | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.216B |
+| 22 min | BRL | CAGED Net Payroll Jobs (Jun) |  |  | 148.99K |
+| 22 min | BRL | Foreign Exchange Flows |  |  | 0.216B |
 | 22:00 | MXN | Fiscal Balance (Jun) |  |  | -117.90B |
