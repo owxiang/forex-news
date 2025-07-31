@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CNY | Manufacturing PMI (Jul) | 49.3 | 49.7 | 49.7 |
-| 13 min | JPY | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
+| 04:00 | JPY | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
 | 13:00 | EUR | German CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 13:30 | USD | Core PCE Price Index (YoY) (Jun) |  | 2.7% | 2.7% |
 | 13:30 | USD | Core PCE Price Index (MoM) (Jun) |  | 0.3% | 0.2% |

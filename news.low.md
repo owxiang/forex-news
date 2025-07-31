@@ -22,8 +22,8 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Jun) | 0.6% | 0.5% | 0.5% |
 | 02:30 | AUD | Retail Sales (QoQ) (Q2) | 0.3% |  | 0.1% |
 | 03:00 | SGD | Bank Lending (Jun) | 853.3B |  | 844.6B |
-| 13 min | NZD | M3 Money Supply (Jun) |  |  | 432.6B |
-| 05:00 | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
+| 04:00 | NZD | M3 Money Supply (Jun) | 433.5B |  | 432.6B |
+| 24 min | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
 | 06:00 | JPY | Construction Orders (YoY) (Jun) |  |  | 14.0% |
 | 06:00 | JPY | Household Confidence (Jul) |  | 35.1 | 34.5 |
 | 06:00 | JPY | Housing Starts (YoY) (Jun) |  | -16.3% | -34.4% |
@@ -49,8 +49,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
+| 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (May) |  |  | 1.36B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) |  |  | -150.0M |
 | 09:30 | HKD | GDP (YoY) (Q2) |  |  | 3.1% |
@@ -61,8 +61,8 @@
 | 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.7% | 1.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -0.9% | 0.2% |
-| 10:30 | ZAR | PPI (MoM) (Jun) |  |  | -0.3% |
 | 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 0.1% |
+| 10:30 | ZAR | PPI (MoM) (Jun) |  |  | -0.3% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | -0.7% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
@@ -72,8 +72,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.0% |
 | 12:30 | BRL | Budget Balance (Jun) |  |  | -125.885B |
 | 12:30 | BRL | Budget Surplus (Jun) |  |  | -33.740B |
-| 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
 | 13:00 | EUR | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
 | 13:00 | ZAR | Trade Balance (Jun) |  |  | 21.67B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
 | 13:30 | USD | Employment Wages (QoQ) (Q2) |  |  | 0.80% |

@@ -30,9 +30,9 @@
 | 03:00 | SGD | Low | Bank Lending (Jun) | 853.3B |  | 844.6B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 13 min | JPY | High | BoJ Interest Rate Decision |  | 0.50% | 0.50% |
-| 13 min | NZD | Low | M3 Money Supply (Jun) |  |  | 432.6B |
-| 05:00 | SGD | Low | Unemployment Rate (Q2) |  |  | 2.0% |
+| 04:00 | JPY | High | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
+| 04:00 | NZD | Low | M3 Money Supply (Jun) | 433.5B |  | 432.6B |
+| 24 min | SGD | Low | Unemployment Rate (Q2) |  |  | 2.0% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Jun) |  |  | 14.0% |
 | 06:00 | JPY | Low | Household Confidence (Jul) |  | 35.1 | 34.5 |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Jun) |  | -16.3% | -34.4% |
@@ -41,8 +41,8 @@
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) |  | -1.6% | -1.1% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Jun) |  | 0.2% | 0.0% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jul) |  | 1.0% | 1.0% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.2% | 0.4% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 0.8% | 0.9% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | 0.20% |
@@ -63,8 +63,8 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Spanish Current account (May) |  |  | 1.36B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | -150.0M |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  |  | 3.1% |
@@ -76,8 +76,8 @@
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.7% | 1.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.9% | 0.2% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) |  | 6.3% | 6.3% |
-| 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | -0.3% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) |  |  | 0.1% |
+| 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | -0.3% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Jun) |  |  | -0.7% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
@@ -90,8 +90,8 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.1% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 13:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jun) |  | 6.0% | 6.2% |
 | 13:00 | ZAR | Low | Trade Balance (Jun) |  |  | 21.67B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,955K |
