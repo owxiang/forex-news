@@ -80,9 +80,8 @@
 | 13:30 | USD | Personal Income (MoM) (Jun) | 0.3% | 0.2% | -0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.1% |  | -0.2% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.31% |  | 4.26% |
-| 14:00 | ZAR | Prime Rate (Jul) | 10.75% |  | 10.75% |
-| 41 min | USD | Dallas Fed PCE (Jun) |  |  | 2.00% |
-| 15:30 | USD | Natural Gas Storage |  | 37B | 23B |
+| 14:00 | ZAR | Prime Rate (Aug) | 10.75% |  | 10.75% |
+| 22 min | USD | Natural Gas Storage |  | 37B | 23B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.265% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.358T |

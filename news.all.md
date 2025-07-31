@@ -109,11 +109,10 @@
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 3.31% |  | 4.26% |
 | 13:30 | CAD | Moderate | GDP (MoM) (May) | -0.1% | -0.1% | -0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jun) | 0.1% |  | -0.1% |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (Jul) | 7.00% | 7.00% | 7.25% |
-| 14:00 | ZAR | Low | Prime Rate (Jul) | 10.75% |  | 10.75% |
-| 26 min | USD | High | Chicago PMI (Jul) |  | 41.9 | 40.4 |
-| 41 min | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.00% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 37B | 23B |
+| 14:00 | ZAR | Moderate | Interest Rate Decision (Aug) | 7.00% | 7.00% | 7.25% |
+| 14:00 | ZAR | Low | Prime Rate (Aug) | 10.75% |  | 10.75% |
+| 14:45 | USD | High | Chicago PMI (Jul) | 47.1 | 41.9 | 40.4 |
+| 22 min | USD | Low | Natural Gas Storage |  | 37B | 23B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 4.265% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
