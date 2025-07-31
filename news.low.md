@@ -32,24 +32,24 @@
 | 07:30 | CHF | Retail Sales (YoY) (Jun) | 3.8% | 0.2% | 0.3% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
-| 07:45 | EUR | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
 | 07:45 | EUR | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
+| 07:45 | EUR | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
 | 08:00 | CHF | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
 | 08:55 | EUR | German Unemployment (Jul) | 2.970M |  | 2.972M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.979M |  | 2.914M |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 6.3% | 6.4% | 6.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Spanish Current account (May) | 6.44B |  | 1.36B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | -150.0M |  | -150.0M |
 | 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 2.8% | 3.1% |
@@ -62,8 +62,8 @@
 | 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) | 2,807.32B |  | 131.63B |
 | 12:30 | USD | Challenger Job Cuts (Jul) | 62.075K |  | 47.999K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 139.8% |  | -1.6% |
@@ -80,9 +80,9 @@
 | 13:30 | USD | Personal Income (MoM) (Jun) | 0.3% | 0.2% | -0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.1% |  | -0.2% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.31% |  | 4.26% |
-| 14:00 | ZAR | Prime Rate (Aug) | 10.75% |  | 10.75% |
-| 22 min | USD | Natural Gas Storage |  | 37B | 23B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 4.265% |
+| 14:00 | ZAR | Prime Rate (Aug) | 10.50% |  | 10.75% |
+| 15:30 | USD | Natural Gas Storage | 48B | 37B | 23B |
+| 22 min | USD | 4-Week Bill Auction |  |  | 4.245% |
+| 22 min | USD | 8-Week Bill Auction |  |  | 4.265% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.358T |
 | 23:45 | NZD | Building Consents (MoM) (Jun) |  |  | 10.4% |
