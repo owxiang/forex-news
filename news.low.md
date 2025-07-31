@@ -38,16 +38,16 @@
 | 08:55 | EUR | German Unemployment (Jul) | 2.970M |  | 2.972M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.979M |  | 2.914M |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 6.3% | 6.4% | 6.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (May) | 6.44B |  | 1.36B |
@@ -64,16 +64,16 @@
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
-| 22 min | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
-| 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 47.999K |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -1.6% |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.0% |
-| 12:30 | BRL | Budget Balance (Jun) |  |  | -125.885B |
-| 12:30 | BRL | Budget Surplus (Jun) |  |  | -33.740B |
-| 13:00 | EUR | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
-| 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
-| 13:00 | ZAR | Trade Balance (Jun) |  |  | 21.67B |
+| 23 min | USD | Challenger Job Cuts (Jul) |  |  | 47.999K |
+| 23 min | USD | Challenger Job Cuts (YoY) |  |  | -1.6% |
+| 23 min | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
+| 23 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 23 min | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.0% |
+| 23 min | BRL | Budget Balance (Jun) |  |  | -125.885B |
+| 23 min | BRL | Budget Surplus (Jun) |  |  | -33.740B |
+| 53 min | EUR | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
+| 53 min | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
+| 53 min | ZAR | Trade Balance (Jun) |  |  | 21.67B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
 | 13:30 | USD | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
