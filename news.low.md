@@ -48,8 +48,8 @@
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
+| 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Spanish Current account (May) | 6.44B |  | 1.36B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) | -150.0M |  | -150.0M |
 | 09:30 | HKD | GDP (YoY) (Q2) | 3.1% | 2.8% | 3.1% |
@@ -85,5 +85,5 @@
 | 15:30 | USD | Natural Gas Storage | 48B | 37B | 23B |
 | 16:30 | USD | 4-Week Bill Auction | 4.290% |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction | 4.290% |  | 4.265% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.358T |
+| 22 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.358T |
 | 23:45 | NZD | Building Consents (MoM) (Jun) |  |  | 10.4% |

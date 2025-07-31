@@ -62,8 +62,8 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) | 0.2% |  | 0.2% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
 | 09:00 | EUR | Low | Spanish Current account (May) | 6.44B |  | 1.36B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) | -150.0M |  | -150.0M |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) | 3.1% | 2.8% | 3.1% |
@@ -117,6 +117,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 4.290% |  | 4.245% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 4.290% |  | 4.265% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.3% | 2.9% | 2.9% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 6,658B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.358T |
+| 22 min | USD | Moderate | Fed's Balance Sheet |  |  | 6,658B |
+| 22 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.358T |
 | 23:45 | NZD | Low | Building Consents (MoM) (Jun) |  |  | 10.4% |
