@@ -20,8 +20,8 @@
 | 13:00 | BRL | Unemployment Rate (Jun) | 5.8% | 6.0% | 6.2% |
 | 13:30 | USD | Continuing Jobless Claims | 1,946K | 1,960K | 1,946K |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.9% |
-| 13:30 | USD | PCE Price index (YoY) (Jun) | 2.6% | 2.5% | 2.4% |
 | 13:30 | USD | PCE price index (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | PCE Price index (YoY) (Jun) | 2.6% | 2.5% | 2.4% |
 | 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.0% |
 | 13:30 | CAD | GDP (MoM) (May) | -0.1% | -0.1% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (Jun) | 0.1% |  | -0.1% |
