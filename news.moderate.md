@@ -18,13 +18,13 @@
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) | 76.6% |  | 76.1% |
 | 13:00 | EUR | German CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
 | 13:00 | BRL | Unemployment Rate (Jun) | 5.8% | 6.0% | 6.2% |
-| 19 min | USD | Continuing Jobless Claims |  | 1,960K | 1,955K |
-| 19 min | USD | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
-| 19 min | USD | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
-| 19 min | USD | PCE price index (MoM) (Jun) |  | 0.3% | 0.1% |
-| 19 min | USD | Personal Spending (MoM) (Jun) |  | 0.4% | -0.1% |
-| 19 min | CAD | GDP (MoM) (May) |  | -0.1% | -0.1% |
-| 20 min | CAD | GDP (MoM) (Jun) |  |  |  |
-| 49 min | ZAR | Interest Rate Decision (Jul) |  | 7.00% | 7.25% |
+| 13:30 | USD | Continuing Jobless Claims | 1,946K | 1,960K | 1,946K |
+| 13:30 | USD | Employment Cost Index (QoQ) (Q2) | 0.9% | 0.8% | 0.9% |
+| 13:30 | USD | PCE Price index (YoY) (Jun) | 2.6% | 2.5% | 2.4% |
+| 13:30 | USD | PCE price index (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.4% | 0.0% |
+| 13:30 | CAD | GDP (MoM) (May) | -0.1% | -0.1% | -0.1% |
+| 13:31 | CAD | GDP (MoM) (Jun) | 0.1% |  | -0.1% |
+| 14:00 | ZAR | Interest Rate Decision (Jul) | 7.00% | 7.00% | 7.25% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,658B |

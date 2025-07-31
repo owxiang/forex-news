@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Jun) | 1.6% |  | -3.3% |
 | 00:00 | KRW | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
+| 00:00 | KRW | Industrial Production (MoM) (Jun) | 1.6% |  | -3.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:20 | GBP | BoE Hauser Speaks |  |  |  |
@@ -40,8 +40,8 @@
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 6.3% | 6.4% | 6.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) | 0.4% |  | 0.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
@@ -60,28 +60,28 @@
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
-| 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
+| 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) | 2,807.32B |  | 131.63B |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 139.8% |  | -1.6% |
 | 12:30 | USD | Challenger Job Cuts (Jul) | 62.075K |  | 47.999K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 139.8% |  | -1.6% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Jun) | 62.9% |  | 62.0% |
 | 12:30 | BRL | Budget Balance (Jun) | -108.107B |  | -125.885B |
 | 12:30 | BRL | Budget Surplus (Jun) | -47.091B |  | -33.740B |
-| 13:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 13:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
+| 13:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
 | 13:00 | ZAR | Trade Balance (Jun) | 22.04B |  | 20.03B |
-| 19 min | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
-| 19 min | USD | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
-| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
-| 19 min | USD | Personal Income (MoM) (Jun) |  | 0.2% | -0.4% |
-| 19 min | USD | Real Personal Consumption (MoM) (Jun) |  |  | -0.3% |
-| 19 min | CAD | Average Weekly Earnings (YoY) (May) |  |  | 4.43% |
-| 49 min | USD | Dallas Fed PCE (Jun) |  |  | 2.00% |
-| 49 min | ZAR | Prime Rate (Jul) |  |  | 10.75% |
+| 13:30 | USD | Employment Benefits (QoQ) (Q2) | 0.70% |  | 1.20% |
+| 13:30 | USD | Employment Wages (QoQ) (Q2) | 1.00% |  | 0.80% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 221.00K |  | 224.50K |
+| 13:30 | USD | Personal Income (MoM) (Jun) | 0.3% | 0.2% | -0.4% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.1% |  | -0.2% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.31% |  | 4.26% |
+| 14:00 | ZAR | Prime Rate (Jul) | 10.75% |  | 10.75% |
+| 41 min | USD | Dallas Fed PCE (Jun) |  |  | 2.00% |
 | 15:30 | USD | Natural Gas Storage |  | 37B | 23B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.265% |
