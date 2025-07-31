@@ -44,8 +44,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.3% | 0.2% | 0.4% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
-| 07:45 | EUR | Low | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
+| 07:45 | EUR | Low | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jul) | 2K | 15K | 10K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jul) | 6.3% | 6.4% | 6.3% |
@@ -58,8 +58,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
@@ -72,46 +72,46 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.2% | 6.3% | 6.2% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
-| 23 min | USD | Low | Challenger Job Cuts (Jul) |  |  | 47.999K |
-| 23 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -1.6% |
-| 23 min | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
-| 23 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 23 min | BRL | Low | Net Debt-to-GDP ratio (Jun) |  |  | 62.0% |
-| 23 min | BRL | Low | Budget Balance (Jun) |  |  | -125.885B |
-| 23 min | BRL | Low | Budget Surplus (Jun) |  |  | -33.740B |
-| 23 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.1% |
-| 53 min | EUR | High | German CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 53 min | EUR | Moderate | German CPI (YoY) (Jul) |  | 1.9% | 2.0% |
-| 53 min | EUR | Low | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
-| 53 min | EUR | Low | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
-| 53 min | BRL | Moderate | Unemployment Rate (Jun) |  | 6.0% | 6.2% |
-| 53 min | ZAR | Low | Trade Balance (Jun) |  |  | 21.67B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,955K |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) |  | 2.7% | 2.7% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
-| 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
-| 13:30 | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
-| 13:30 | USD | High | Initial Jobless Claims |  | 222K | 217K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.50K |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Jun) |  | 0.3% | 0.1% |
-| 13:30 | USD | Low | Personal Income (MoM) (Jun) |  | 0.2% | -0.4% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Jun) |  | 0.4% | -0.1% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) |  |  | -0.3% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) |  |  | 4.43% |
-| 13:30 | CAD | Moderate | GDP (MoM) (May) |  | -0.1% | -0.1% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Jun) |  |  |  |
-| 14:00 | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.00% |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (Jul) |  | 7.00% | 7.25% |
-| 14:00 | ZAR | Low | Prime Rate (Jul) |  |  | 10.75% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Jun) | 2,807.32B |  | 131.63B |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 139.8% |  | -1.6% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jul) | 62.075K |  | 47.999K |
+| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jun) | 62.9% |  | 62.0% |
+| 12:30 | BRL | Low | Budget Balance (Jun) | -108.107B |  | -125.885B |
+| 12:30 | BRL | Low | Budget Surplus (Jun) | -47.091B |  | -33.740B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) | 76.6% |  | 76.1% |
+| 13:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
+| 13:00 | EUR | Low | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Jun) | 5.8% | 6.0% | 6.2% |
+| 13:00 | ZAR | Low | Trade Balance (Jun) | 22.04B |  | 20.03B |
+| 19 min | USD | Moderate | Continuing Jobless Claims |  | 1,960K | 1,955K |
+| 19 min | USD | High | Core PCE Price Index (YoY) (Jun) |  | 2.7% | 2.7% |
+| 19 min | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.3% | 0.2% |
+| 19 min | USD | Low | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
+| 19 min | USD | Moderate | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
+| 19 min | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
+| 19 min | USD | High | Initial Jobless Claims |  | 222K | 217K |
+| 19 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.50K |
+| 19 min | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
+| 19 min | USD | Moderate | PCE price index (MoM) (Jun) |  | 0.3% | 0.1% |
+| 19 min | USD | Low | Personal Income (MoM) (Jun) |  | 0.2% | -0.4% |
+| 19 min | USD | Moderate | Personal Spending (MoM) (Jun) |  | 0.4% | -0.1% |
+| 19 min | USD | Low | Real Personal Consumption (MoM) (Jun) |  |  | -0.3% |
+| 19 min | CAD | Low | Average Weekly Earnings (YoY) (May) |  |  | 4.43% |
+| 19 min | CAD | Moderate | GDP (MoM) (May) |  | -0.1% | -0.1% |
+| 20 min | CAD | Moderate | GDP (MoM) (Jun) |  |  |  |
+| 49 min | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.00% |
+| 49 min | ZAR | Moderate | Interest Rate Decision (Jul) |  | 7.00% | 7.25% |
+| 49 min | ZAR | Low | Prime Rate (Jul) |  |  | 10.75% |
 | 14:45 | USD | High | Chicago PMI (Jul) |  | 41.9 | 40.4 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 37B | 23B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 4.245% |

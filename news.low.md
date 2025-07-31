@@ -32,8 +32,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Jun) | 3.8% | 0.2% | 0.3% |
 | 07:45 | EUR | French CPI (YoY) (Jul) | 1.0% | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
-| 07:45 | EUR | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 07:45 | EUR | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
+| 07:45 | EUR | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 08:00 | CHF | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
 | 08:55 | EUR | German Unemployment (Jul) | 2.970M |  | 2.972M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) | 2.979M |  | 2.914M |
@@ -44,8 +44,8 @@
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 1.8% |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) | 2.1% |  | 2.4% |
@@ -58,30 +58,30 @@
 | 09:30 | HKD | Retail Sales (YoY) (Jun) | 0.7% |  | 2.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) | 1.7% | 1.5% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
 | 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
-| 23 min | USD | Challenger Job Cuts (Jul) |  |  | 47.999K |
-| 23 min | USD | Challenger Job Cuts (YoY) |  |  | -1.6% |
-| 23 min | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
-| 23 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 23 min | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.0% |
-| 23 min | BRL | Budget Balance (Jun) |  |  | -125.885B |
-| 23 min | BRL | Budget Surplus (Jun) |  |  | -33.740B |
-| 53 min | EUR | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
-| 53 min | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
-| 53 min | ZAR | Trade Balance (Jun) |  |  | 21.67B |
-| 13:30 | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
-| 13:30 | USD | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
-| 13:30 | USD | Personal Income (MoM) (Jun) |  | 0.2% | -0.4% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | -0.3% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (May) |  |  | 4.43% |
-| 14:00 | USD | Dallas Fed PCE (Jun) |  |  | 2.00% |
-| 14:00 | ZAR | Prime Rate (Jul) |  |  | 10.75% |
+| 11:00 | INR | Federal Fiscal Deficit (Jun) | 2,807.32B |  | 131.63B |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 139.8% |  | -1.6% |
+| 12:30 | USD | Challenger Job Cuts (Jul) | 62.075K |  | 47.999K |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Jun) | 62.9% |  | 62.0% |
+| 12:30 | BRL | Budget Balance (Jun) | -108.107B |  | -125.885B |
+| 12:30 | BRL | Budget Surplus (Jun) | -47.091B |  | -33.740B |
+| 13:00 | EUR | German HICP (YoY) (Jul) | 1.8% | 1.8% | 2.0% |
+| 13:00 | EUR | German HICP (MoM) (Jul) | 0.4% | 0.4% | 0.1% |
+| 13:00 | ZAR | Trade Balance (Jun) | 22.04B |  | 20.03B |
+| 19 min | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
+| 19 min | USD | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
+| 19 min | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
+| 19 min | USD | Personal Income (MoM) (Jun) |  | 0.2% | -0.4% |
+| 19 min | USD | Real Personal Consumption (MoM) (Jun) |  |  | -0.3% |
+| 19 min | CAD | Average Weekly Earnings (YoY) (May) |  |  | 4.43% |
+| 49 min | USD | Dallas Fed PCE (Jun) |  |  | 2.00% |
+| 49 min | ZAR | Prime Rate (Jul) |  |  | 10.75% |
 | 15:30 | USD | Natural Gas Storage |  | 37B | 23B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 4.245% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 4.265% |
