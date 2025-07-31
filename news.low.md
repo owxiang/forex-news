@@ -23,47 +23,47 @@
 | 02:30 | AUD | Retail Sales (QoQ) (Q2) | 0.3% |  | 0.1% |
 | 03:00 | SGD | Bank Lending (Jun) | 853.3B |  | 844.6B |
 | 04:00 | NZD | M3 Money Supply (Jun) | 433.5B |  | 432.6B |
-| 38 min | JPY | Construction Orders (YoY) (Jun) |  |  | 14.0% |
-| 38 min | JPY | Household Confidence (Jul) |  | 35.1 | 34.5 |
-| 38 min | JPY | Housing Starts (YoY) (Jun) |  | -16.3% | -34.4% |
-| 38 min | SGD | Business Expectations (Q2) |  |  | -6.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Jun) |  | -0.2% | -0.7% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jun) |  | -1.6% | -1.1% |
+| 06:00 | JPY | Construction Orders (YoY) (Jun) | 22.5% |  | 14.0% |
+| 06:00 | JPY | Household Confidence (Jul) | 33.7 | 35.1 | 34.5 |
+| 06:00 | JPY | Housing Starts (YoY) (Jun) | -15.6% | -16.3% | -34.4% |
+| 06:00 | SGD | Business Expectations (Q2) | 5.00 |  | -6.00 |
+| 48 min | EUR | German Import Price Index (MoM) (Jun) |  | -0.2% | -0.7% |
+| 48 min | EUR | German Import Price Index (YoY) (Jun) |  | -1.6% | -1.1% |
 | 07:30 | CHF | Retail Sales (YoY) (Jun) |  | 0.2% | 0.0% |
 | 07:45 | EUR | French CPI (YoY) (Jul) |  | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) |  | 0.8% | 0.9% |
-| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -0.8% |
 | 07:45 | EUR | PPI (YoY) (Jun) |  |  | 0.20% |
+| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -0.8% |
 | 08:00 | CHF | Official Reserves Assets (Jun) |  |  | 806.1B |
 | 08:55 | EUR | German Unemployment (Jul) |  |  | 2.972M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.914M |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) |  | 6.4% | 6.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | -0.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.2% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
+| 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (May) |  |  | 1.36B |
 | 09:00 | NOK | Central Bank Currency Purchase (Aug) |  |  | -150.0M |
-| 09:30 | HKD | GDP (QoQ) (Q2) |  |  | 1.9% |
-| 09:30 | HKD | GDP (YoY) (Q2) |  |  | 3.1% |
+| 09:30 | HKD | GDP (YoY) (Q2) |  | 2.8% | 3.1% |
+| 09:30 | HKD | GDP (QoQ) (Q2) |  | -0.2% | 1.9% |
 | 09:30 | HKD | M3 Money Supply (Jun) |  |  | 9.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.5% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -0.9% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.7% | 1.8% |
-| 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 0.1% |
+| 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.0% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.6% | 1.8% |
 | 10:30 | ZAR | PPI (MoM) (Jun) |  |  | -0.3% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 1.7% |
+| 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 0.1% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | -0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
 | 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 47.999K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -1.6% |
@@ -71,8 +71,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.0% |
 | 12:30 | BRL | Budget Balance (Jun) |  |  | -125.885B |
 | 12:30 | BRL | Budget Surplus (Jun) |  |  | -33.740B |
-| 13:00 | EUR | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
 | 13:00 | EUR | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
+| 13:00 | EUR | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
 | 13:00 | ZAR | Trade Balance (Jun) |  |  | 21.67B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q2) |  |  | 1.20% |
 | 13:30 | USD | Employment Wages (QoQ) (Q2) |  |  | 0.80% |

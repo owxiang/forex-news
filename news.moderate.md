@@ -25,6 +25,6 @@
 | 13:30 | USD | Personal Spending (MoM) (Jun) |  | 0.4% | -0.1% |
 | 13:30 | CAD | GDP (MoM) (May) |  | -0.1% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (Jun) |  |  |  |
-| 14:00 | ZAR | Interest Rate Decision (Jul) |  |  | 7.25% |
+| 14:00 | ZAR | Interest Rate Decision (Jul) |  | 7.00% | 7.25% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,658B |
