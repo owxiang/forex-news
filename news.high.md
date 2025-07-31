@@ -1,11 +1,11 @@
-## 31 July 2025 - High Impact Forex News
+## 01 August 2025 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Jul) | 49.3 | 49.7 | 49.7 |
-| 04:00 | JPY | BoJ Interest Rate Decision | 0.50% | 0.50% | 0.50% |
-| 13:00 | EUR | German CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
-| 13:30 | USD | Core PCE Price Index (YoY) (Jun) | 2.8% | 2.7% | 2.8% |
-| 13:30 | USD | Core PCE Price Index (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
-| 13:30 | USD | Initial Jobless Claims | 218K | 222K | 217K |
-| 14:45 | USD | Chicago PMI (Jul) | 47.1 | 41.9 | 40.4 |
+| 10:00 | EUR | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.2% |
+| 13:30 | USD | Nonfarm Payrolls (Jul) |  | 106K | 147K |
+| 13:30 | USD | Unemployment Rate (Jul) |  | 4.2% | 4.1% |
+| 14:45 | USD | S&P Global Manufacturing PMI (Jul) |  | 49.5 | 52.9 |
+| 15:00 | USD | ISM Manufacturing PMI (Jul) |  | 49.5 | 49.0 |
+| 15:00 | USD | ISM Manufacturing Prices (Jul) |  | 69.8 | 69.7 |
