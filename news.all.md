@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Jun) | 1.6% |  | -3.3% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:20 | GBP | Low | BoE Hauser Speaks |  |  |  |
@@ -47,7 +47,7 @@
 | 07:45 | EUR | Low | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jul) | 2K | 15K | 11K |
+| 08:55 | EUR | Moderate | German Unemployment Change (Jul) | 2K | 15K | 10K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jul) | 6.3% | 6.4% | 6.3% |
 | 08:55 | EUR | Low | German Unemployment (Jul) | 2.970M |  | 2.972M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jul) | 2.979M |  | 2.914M |
@@ -56,8 +56,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
@@ -75,11 +75,11 @@
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.2% | 6.3% | 6.2% |
-| 19 min | ZAR | Low | PPI (YoY) (Jun) |  |  | 0.1% |
-| 19 min | ZAR | Low | PPI (MoM) (Jun) |  |  | -0.3% |
-| 49 min | EUR | Low | Italian PPI (MoM) (Jun) |  |  | -0.7% |
-| 49 min | EUR | Low | Italian PPI (YoY) (Jun) |  |  | 1.7% |
-| 49 min | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
+| 10:30 | ZAR | Low | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
+| 10:30 | ZAR | Low | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
+| 22 min | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
 | 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 47.999K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -1.6% |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
@@ -101,8 +101,8 @@
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q2) |  |  | 0.80% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 222K | 217K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.50K |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jun) |  | 0.3% | 0.1% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jun) |  | 0.2% | -0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jun) |  | 0.4% | -0.1% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) |  |  | -0.3% |

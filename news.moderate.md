@@ -12,7 +12,7 @@
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
 | 07:45 | EUR | French HICP (MoM) (Jul) | 0.3% | 0.2% | 0.4% |
-| 08:55 | EUR | German Unemployment Change (Jul) | 2K | 15K | 11K |
+| 08:55 | EUR | German Unemployment Change (Jul) | 2K | 15K | 10K |
 | 08:55 | EUR | German Unemployment Rate (Jul) | 6.3% | 6.4% | 6.3% |
 | 10:00 | EUR | Unemployment Rate (Jun) | 6.2% | 6.3% | 6.2% |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.1% |
@@ -20,8 +20,8 @@
 | 13:00 | BRL | Unemployment Rate (Jun) |  | 6.0% | 6.2% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,960K | 1,955K |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q2) |  | 0.8% | 0.9% |
-| 13:30 | USD | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | PCE price index (MoM) (Jun) |  | 0.3% | 0.1% |
+| 13:30 | USD | PCE Price index (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | Personal Spending (MoM) (Jun) |  | 0.4% | -0.1% |
 | 13:30 | CAD | GDP (MoM) (May) |  | -0.1% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (Jun) |  |  |  |

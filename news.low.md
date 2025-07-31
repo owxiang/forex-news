@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Industrial Production (MoM) (Jun) | 1.6% |  | -3.3% |
+| 00:00 | KRW | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:20 | GBP | BoE Hauser Speaks |  |  |  |
@@ -42,8 +42,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) | 1.9% |  | 1.8% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.3% |  | -0.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) | 2.2% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) | 2.4% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | -0.1% |
@@ -60,11 +60,11 @@
 | 10:00 | EUR | Italian CPI (MoM) (Jul) | 0.4% | 0.1% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) | 1.7% | 1.6% | 1.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) | -1.0% | -1.0% | 0.2% |
-| 19 min | ZAR | PPI (YoY) (Jun) |  |  | 0.1% |
-| 19 min | ZAR | PPI (MoM) (Jun) |  |  | -0.3% |
-| 49 min | EUR | Italian PPI (MoM) (Jun) |  |  | -0.7% |
-| 49 min | EUR | Italian PPI (YoY) (Jun) |  |  | 1.7% |
-| 49 min | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
+| 10:30 | ZAR | PPI (YoY) (Jun) | 0.6% |  | 0.1% |
+| 10:30 | ZAR | PPI (MoM) (Jun) | 0.2% |  | -0.3% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) | 2.5% |  | 1.7% |
+| 11:00 | EUR | Italian PPI (MoM) (Jun) | 1.5% |  | -0.7% |
+| 22 min | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
 | 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 47.999K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -1.6% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
