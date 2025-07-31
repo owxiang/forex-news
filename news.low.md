@@ -6,21 +6,21 @@
 | 00:00 | KRW | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Retail Sales (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Jun) | 0.5% |  | -0.1% |
-| 13 min | GBP | BoE Hauser Speaks |  |  |  |
-| 43 min | JPY | Foreign Bonds Buying |  |  | 1,641.3B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 571.9B |
-| 43 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | 0.3% |
-| 43 min | JPY | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | -0.7% |
-| 43 min | JPY | Large Retailers' Sales (MoM) (Jun) |  |  | -0.2% |
-| 43 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 2.0% |
-| 43 min | JPY | Retail Sales (YoY) (Jun) |  | 1.8% | 2.2% |
-| 02:30 | AUD | Building Approvals (YoY) (Jun) |  | 8.00% | 8.00% |
-| 02:30 | AUD | Export Price Index (QoQ) (Q2) |  |  | 2.1% |
-| 02:30 | AUD | Housing Credit (Jun) |  |  | 0.5% |
-| 02:30 | AUD | Import Price Index (QoQ) (Q2) |  | -0.5% | 3.3% |
-| 02:30 | AUD | Private House Approvals (Jun) |  |  | 0.5% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Jun) |  | 0.5% | 0.5% |
-| 02:30 | AUD | Retail Sales (QoQ) (Q2) |  |  | 0.0% |
+| 00:20 | GBP | BoE Hauser Speaks |  |  |  |
+| 00:50 | JPY | Foreign Bonds Buying | -331.6B |  | 1,643.8B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 743.3B |  | 571.9B |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) | 1.8% |  | 0.3% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Aug) | 0.8% |  | -0.7% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) (Jun) | 1.0% |  | -0.6% |
+| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) | 1.0% |  | 2.0% |
+| 00:50 | JPY | Retail Sales (YoY) (Jun) | 2.0% | 1.8% | 1.9% |
+| 57 min | AUD | Building Approvals (YoY) (Jun) |  | 8.00% | 8.00% |
+| 57 min | AUD | Export Price Index (QoQ) (Q2) |  |  | 2.1% |
+| 57 min | AUD | Housing Credit (Jun) |  |  | 0.5% |
+| 57 min | AUD | Import Price Index (QoQ) (Q2) |  | -0.5% | 3.3% |
+| 57 min | AUD | Private House Approvals (Jun) |  |  | 0.5% |
+| 57 min | AUD | Private Sector Credit (MoM) (Jun) |  | 0.5% | 0.5% |
+| 57 min | AUD | Retail Sales (QoQ) (Q2) |  |  | 0.0% |
 | 03:00 | SGD | Bank Lending (Jun) |  |  | 844.6B |
 | 03:30 | SGD | Unemployment Rate (Q2) |  |  | 2.0% |
 | 04:00 | NZD | M3 Money Supply (Jun) |  |  | 432.6B |
@@ -33,8 +33,8 @@
 | 07:30 | CHF | Retail Sales (YoY) (Jun) |  | 0.2% | 0.0% |
 | 07:45 | EUR | French CPI (YoY) (Jul) |  | 1.0% | 1.0% |
 | 07:45 | EUR | French HICP (YoY) (Jul) |  | 0.8% | 0.9% |
-| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -0.8% |
 | 07:45 | EUR | PPI (YoY) (Jun) |  |  | 0.20% |
+| 07:45 | EUR | French PPI (MoM) (Jun) |  |  | -0.8% |
 | 08:00 | CHF | Official Reserves Assets (Jun) |  |  | 806.1B |
 | 08:55 | EUR | German Unemployment (Jul) |  |  | 2.972M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.914M |
@@ -43,12 +43,12 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | -0.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
 | 09:00 | EUR | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
 | 09:00 | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
 | 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Spanish Current account (May) |  |  | 1.36B |
@@ -57,14 +57,14 @@
 | 09:30 | HKD | GDP (QoQ) (Q2) |  |  | 1.9% |
 | 09:30 | HKD | M3 Money Supply (Jun) |  |  | 9.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) |  |  | 2.4% |
-| 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.5% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.5% | 1.7% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -0.9% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.7% | 1.8% |
 | 10:30 | ZAR | PPI (MoM) (Jun) |  |  | -0.3% |
 | 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | -0.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
 | 12:30 | USD | Challenger Job Cuts (Jul) |  |  | 47.999K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -1.6% |

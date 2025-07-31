@@ -6,27 +6,27 @@
 | 00:00 | KRW | Low | Industrial Production (YoY) (Jun) | 1.6% |  | -0.3% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Jun) | 0.5% |  | -0.1% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Jun) | 0.5% |  | -0.1% |
-| 13 min | GBP | Low | BoE Hauser Speaks |  |  |  |
-| 43 min | JPY | Low | Foreign Bonds Buying |  |  | 1,641.3B |
-| 43 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 571.9B |
-| 43 min | JPY | Moderate | Industrial Production (MoM) (Jun) |  | -0.7% | -0.1% |
-| 43 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | 0.3% |
-| 43 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | -0.7% |
-| 43 min | JPY | Low | Large Retailers' Sales (MoM) (Jun) |  |  | -0.2% |
-| 43 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 2.0% |
-| 43 min | JPY | Low | Retail Sales (YoY) (Jun) |  | 1.8% | 2.2% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Jun) |  | 8.00% | 8.00% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Jun) |  | 1.8% | 3.2% |
-| 02:30 | AUD | Low | Export Price Index (QoQ) (Q2) |  |  | 2.1% |
-| 02:30 | AUD | Low | Housing Credit (Jun) |  |  | 0.5% |
-| 02:30 | AUD | Low | Import Price Index (QoQ) (Q2) |  | -0.5% | 3.3% |
-| 02:30 | AUD | Low | Private House Approvals (Jun) |  |  | 0.5% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Jun) |  | 0.5% | 0.5% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | 0.2% |
-| 02:30 | AUD | Low | Retail Sales (QoQ) (Q2) |  |  | 0.0% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 50.7 |
-| 02:30 | CNY | High | Manufacturing PMI (Jul) |  | 49.7 | 49.7 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) |  | 50.3 | 50.5 |
+| 00:20 | GBP | Low | BoE Hauser Speaks |  |  |  |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -331.6B |  | 1,643.8B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 743.3B |  | 571.9B |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Jun) | 1.7% | -0.7% | -0.1% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) | 1.8% |  | 0.3% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) | 0.8% |  | -0.7% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) (Jun) | 1.0% |  | -0.6% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) | 1.0% |  | 2.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Jun) | 2.0% | 1.8% | 1.9% |
+| 57 min | AUD | Low | Building Approvals (YoY) (Jun) |  | 8.00% | 8.00% |
+| 57 min | AUD | Moderate | Building Approvals (MoM) (Jun) |  | 1.8% | 3.2% |
+| 57 min | AUD | Low | Export Price Index (QoQ) (Q2) |  |  | 2.1% |
+| 57 min | AUD | Low | Housing Credit (Jun) |  |  | 0.5% |
+| 57 min | AUD | Low | Import Price Index (QoQ) (Q2) |  | -0.5% | 3.3% |
+| 57 min | AUD | Low | Private House Approvals (Jun) |  |  | 0.5% |
+| 57 min | AUD | Low | Private Sector Credit (MoM) (Jun) |  | 0.5% | 0.5% |
+| 57 min | AUD | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | 0.2% |
+| 57 min | AUD | Low | Retail Sales (QoQ) (Q2) |  |  | 0.0% |
+| 57 min | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 50.7 |
+| 57 min | CNY | High | Manufacturing PMI (Jul) |  | 49.7 | 49.7 |
+| 57 min | CNY | Moderate | Non-Manufacturing PMI (Jul) |  | 50.3 | 50.5 |
 | 03:00 | SGD | Low | Bank Lending (Jun) |  |  | 844.6B |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
@@ -45,8 +45,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jul) |  | 0.8% | 0.9% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.2% | 0.4% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -0.8% |
 | 07:45 | EUR | Low | PPI (YoY) (Jun) |  |  | 0.20% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jun) |  |  | -0.8% |
 | 08:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 806.1B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jul) |  | 15K | 11K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.4% | 6.3% |
@@ -57,12 +57,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  |  | -0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  |  | 2.2% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
 | 09:00 | EUR | Low | Spanish Current account (May) |  |  | 1.36B |
@@ -71,15 +71,15 @@
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  |  | 1.9% |
 | 09:30 | HKD | Low | M3 Money Supply (Jun) |  |  | 9.5% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) |  |  | 2.4% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.5% | 1.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.1% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.5% | 1.7% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.9% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.7% | 1.8% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) |  | 6.3% | 6.3% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | -0.3% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) |  |  | 0.1% |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Jun) |  |  | -0.7% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Jun) |  |  | 1.7% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 131.63B |
 | 12:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 47.999K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -1.6% |
