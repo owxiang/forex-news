@@ -38,42 +38,42 @@
 | 06:00 | SGD | Low | Business Expectations (Q2) | 5.00 |  | -6.00 |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jun) | 0.0% | -0.2% | -0.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jun) | -1.4% | -1.6% | -1.1% |
-| 20 min | CHF | Low | Retail Sales (YoY) (Jun) |  | 0.2% | 0.0% |
-| 20 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 35 min | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.3% | 0.4% |
-| 35 min | EUR | Low | French CPI (YoY) (Jul) |  | 1.0% | 1.0% |
-| 35 min | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.2% | 0.4% |
-| 35 min | EUR | Low | French HICP (YoY) (Jul) |  | 0.8% | 0.9% |
-| 35 min | EUR | Low | PPI (YoY) (Jun) |  |  | 0.20% |
-| 35 min | EUR | Low | French PPI (MoM) (Jun) |  |  | -0.8% |
-| 50 min | CHF | Low | Official Reserves Assets (Jun) |  |  | 806.1B |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jul) |  | 15K | 11K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.4% | 6.3% |
-| 08:55 | EUR | Low | German Unemployment (Jul) |  |  | 2.972M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.914M |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) |  | 6.4% | 6.5% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.2% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  |  | -0.1% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  |  | 2.2% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
-| 09:00 | EUR | Low | Spanish Current account (May) |  |  | 1.36B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | -150.0M |
+| 07:30 | CHF | Low | Retail Sales (YoY) (Jun) | 3.8% | 0.2% | 0.3% |
+| 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.2% | 0.3% | 0.4% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jul) | 0.9% | 1.0% | 1.0% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.3% | 0.2% | 0.4% |
+| 07:45 | EUR | Low | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
+| 08:00 | CHF | Low | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
+| 45 min | EUR | Moderate | German Unemployment Change (Jul) |  | 15K | 11K |
+| 45 min | EUR | Moderate | German Unemployment Rate (Jul) |  | 6.4% | 6.3% |
+| 45 min | EUR | Low | German Unemployment (Jul) |  |  | 2.972M |
+| 45 min | EUR | Low | German Unemployment n.s.a. (Jul) |  |  | 2.914M |
+| 50 min | EUR | Low | Italian Monthly Unemployment Rate (Jun) |  | 6.4% | 6.5% |
+| 50 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.2% |
+| 50 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.3% |
+| 50 min | EUR | Low | Bavaria CPI (MoM) (Jul) |  |  | -0.1% |
+| 50 min | EUR | Low | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
+| 50 min | EUR | Low | Brandenburg CPI (YoY) (Jul) |  |  | 2.2% |
+| 50 min | EUR | Low | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
+| 50 min | EUR | Low | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
+| 50 min | EUR | Low | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
+| 50 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
+| 50 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
+| 50 min | EUR | Low | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
+| 50 min | EUR | Low | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
+| 50 min | EUR | Low | Spanish Current account (May) |  |  | 1.36B |
+| 50 min | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | -150.0M |
 | 09:30 | HKD | Low | GDP (YoY) (Q2) |  | 2.8% | 3.1% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q2) |  | -0.2% | 1.9% |
 | 09:30 | HKD | Low | M3 Money Supply (Jun) |  |  | 9.5% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 1.5% | 1.7% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.6% | 1.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.0% | 0.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 1.6% | 1.8% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jun) |  | 6.3% | 6.3% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | -0.3% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) |  |  | 0.1% |
@@ -87,8 +87,8 @@
 | 12:30 | BRL | Low | Budget Balance (Jun) |  |  | -125.885B |
 | 12:30 | BRL | Low | Budget Surplus (Jun) |  |  | -33.740B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.1% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 13:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.4% | 0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jul) |  | 1.8% | 2.0% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Jun) |  | 6.0% | 6.2% |

@@ -29,37 +29,37 @@
 | 06:00 | SGD | Business Expectations (Q2) | 5.00 |  | -6.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Jun) | 0.0% | -0.2% | -0.7% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jun) | -1.4% | -1.6% | -1.1% |
-| 20 min | CHF | Retail Sales (YoY) (Jun) |  | 0.2% | 0.0% |
-| 35 min | EUR | French CPI (YoY) (Jul) |  | 1.0% | 1.0% |
-| 35 min | EUR | French HICP (YoY) (Jul) |  | 0.8% | 0.9% |
-| 35 min | EUR | PPI (YoY) (Jun) |  |  | 0.20% |
-| 35 min | EUR | French PPI (MoM) (Jun) |  |  | -0.8% |
-| 50 min | CHF | Official Reserves Assets (Jun) |  |  | 806.1B |
-| 08:55 | EUR | German Unemployment (Jul) |  |  | 2.972M |
-| 08:55 | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.914M |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Jun) |  | 6.4% | 6.5% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jul) |  |  | -0.1% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.2% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
-| 09:00 | EUR | Spanish Current account (May) |  |  | 1.36B |
-| 09:00 | NOK | Central Bank Currency Purchase (Aug) |  |  | -150.0M |
+| 07:30 | CHF | Retail Sales (YoY) (Jun) | 3.8% | 0.2% | 0.3% |
+| 07:45 | EUR | French CPI (YoY) (Jul) | 0.9% | 1.0% | 1.0% |
+| 07:45 | EUR | French HICP (YoY) (Jul) | 0.9% | 0.8% | 0.9% |
+| 07:45 | EUR | PPI (YoY) (Jun) | 0.20% |  | 0.00% |
+| 07:45 | EUR | French PPI (MoM) (Jun) | -0.2% |  | -0.9% |
+| 08:00 | CHF | Official Reserves Assets (Jun) | 812.7B |  | 806.1B |
+| 45 min | EUR | German Unemployment (Jul) |  |  | 2.972M |
+| 45 min | EUR | German Unemployment n.s.a. (Jul) |  |  | 2.914M |
+| 50 min | EUR | Italian Monthly Unemployment Rate (Jun) |  | 6.4% | 6.5% |
+| 50 min | EUR | Baden Wuerttemberg CPI (MoM) (Jul) |  |  | 0.2% |
+| 50 min | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  |  | 2.3% |
+| 50 min | EUR | Bavaria CPI (MoM) (Jul) |  |  | -0.1% |
+| 50 min | EUR | Bavaria CPI (YoY) (Jul) |  |  | 1.8% |
+| 50 min | EUR | Brandenburg CPI (YoY) (Jul) |  |  | 2.2% |
+| 50 min | EUR | Brandenburg CPI (MoM) (Jul) |  |  | 0.2% |
+| 50 min | EUR | Hesse CPI (MoM) (Jul) |  |  | 0.1% |
+| 50 min | EUR | Hesse CPI (YoY) (Jul) |  |  | 2.3% |
+| 50 min | EUR | North Rhine Westphalia CPI (MoM) (Jul) |  |  | -0.1% |
+| 50 min | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  |  | 1.8% |
+| 50 min | EUR | Saxony CPI (MoM) (Jul) |  |  | 0.2% |
+| 50 min | EUR | Saxony CPI (YoY) (Jul) |  |  | 2.4% |
+| 50 min | EUR | Spanish Current account (May) |  |  | 1.36B |
+| 50 min | NOK | Central Bank Currency Purchase (Aug) |  |  | -150.0M |
 | 09:30 | HKD | GDP (YoY) (Q2) |  | 2.8% | 3.1% |
 | 09:30 | HKD | GDP (QoQ) (Q2) |  | -0.2% | 1.9% |
 | 09:30 | HKD | M3 Money Supply (Jun) |  |  | 9.5% |
 | 09:30 | HKD | Retail Sales (YoY) (Jun) |  |  | 2.4% |
 | 10:00 | EUR | Italian CPI (YoY) (Jul) |  | 1.5% | 1.7% |
 | 10:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.6% | 1.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.0% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jul) |  | 1.6% | 1.8% |
 | 10:30 | ZAR | PPI (MoM) (Jun) |  |  | -0.3% |
 | 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 0.1% |
 | 11:00 | EUR | Italian PPI (MoM) (Jun) |  |  | -0.7% |
