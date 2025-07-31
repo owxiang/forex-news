@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Industrial Production (MoM) (Jun) | 1.7% | -0.7% | -0.1% |
-| 57 min | AUD | Building Approvals (MoM) (Jun) |  | 1.8% | 3.2% |
-| 57 min | AUD | Retail Sales (MoM) (Jun) |  | 0.4% | 0.2% |
-| 57 min | CNY | Chinese Composite PMI (Jul) |  |  | 50.7 |
-| 57 min | CNY | Non-Manufacturing PMI (Jul) |  | 50.3 | 50.5 |
-| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 03:30 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 02:30 | AUD | Building Approvals (MoM) (Jun) | 11.9% | 1.8% | 2.2% |
+| 02:30 | AUD | Retail Sales (MoM) (Jun) | 1.2% | 0.4% | 0.2% |
+| 02:30 | CNY | Chinese Composite PMI (Jul) | 50.2 |  | 50.7 |
+| 02:30 | CNY | Non-Manufacturing PMI (Jul) | 50.1 | 50.3 | 50.5 |
+| 54 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 54 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (Jul) |  | 0.3% | 0.4% |
 | 07:45 | EUR | French HICP (MoM) (Jul) |  | 0.2% | 0.4% |
