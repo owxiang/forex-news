@@ -26,5 +26,5 @@
 | 13:30 | CAD | GDP (MoM) (May) | -0.1% | -0.1% | -0.1% |
 | 13:31 | CAD | GDP (MoM) (Jun) | 0.1% |  | -0.1% |
 | 14:00 | ZAR | Interest Rate Decision (Aug) | 7.00% | 7.00% | 7.25% |
-| 22 min | USD | Atlanta Fed GDPNow (Q3) |  | 2.9% | 2.9% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q3) | 2.3% | 2.9% | 2.9% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 6,658B |
