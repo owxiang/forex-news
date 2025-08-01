@@ -17,7 +17,7 @@
 | 03:00 | IDR | Inflation (YoY) (Jul) | 2.37% | 2.24% | 1.87% |
 | 03:00 | IDR | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Trade Balance (Jun) | 4.11B | 3.55B | 4.30B |
-| 06:00 | INR | S&P Global Manufacturing PMI (Jul) |  | 59.2 | 58.4 |
+| 31 min | INR | S&P Global Manufacturing PMI (Jul) |  | 59.2 | 58.4 |
 | 07:00 | NOK | M3 Money Supply (Jun) |  |  | 3,388.0B |
 | 07:00 | NOK | Credit Indicator (YoY) (Jun) |  |  | 4.1% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 2.00% |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) |  |  | 43.1 |
-| 11:00 | EUR | Car Registration (MoM) (Jul) |  |  | 5.60% |
 | 11:00 | EUR | Car Registration (YoY) (Jul) |  |  | 15.20% |
+| 11:00 | EUR | Car Registration (MoM) (Jul) |  |  | 5.60% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD |  |  | 695.49B |
@@ -41,8 +41,8 @@
 | 13:30 | USD | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |
 | 13:30 | USD | Government Payrolls (Jul) |  |  | 73.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jul) |  | -3K | -7K |
-| 13:30 | ZAR | Total Vehicle Sales (YoY) (Jul) |  |  | 18.70% |
 | 13:30 | ZAR | Total Vehicle Sales (Jul) |  |  | 47.29K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Jul) |  |  | 18.70% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 48.3 |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Jul) |  |  | 50.0 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Jul) |  |  | 45.6 |
