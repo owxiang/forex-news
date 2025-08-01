@@ -22,29 +22,27 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Jun) | 4.1% |  | 4.1% |
 | 07:00 | NOK | Unemployment Rate n.s.a. (Jul) | 2.20% |  | 2.00% |
 | 07:30 | AUD | Commodity Prices (YoY) (Jul) | -9.0% |  | -8.7% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Jun) | 0.6% | 0.3% | -0.4% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | NOK | Manufacturing PMI (Jul) | 50.9 |  | 49.3 |
 | 10:00 | EUR | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) | 129.10 |  | 129.10 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 11:00 | EUR | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
 | 11:00 | EUR | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
-| 23 min | INR | Bank Loan Growth |  |  | 9.8% |
-| 23 min | INR | Deposit Growth |  |  | 10.1% |
-| 23 min | INR | FX Reserves, USD |  |  | 695.49B |
-| 53 min | USD | Dallas Fed PCE (Jun) |  |  | 2.00% |
-| 53 min | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 53 min | BRL | Industrial Production (MoM) (Jun) |  | 0.4% | -0.5% |
-| 53 min | ZAR | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
-| 53 min | ZAR | Total Vehicle Sales (Jul) | 51.38K |  | 47.29K |
-| 13:30 | USD | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |
-| 13:30 | USD | Government Payrolls (Jul) |  |  | 73.0K |
-| 13:30 | USD | Manufacturing Payrolls (Jul) |  | -3K | -7K |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 48.3 |
-| 14:00 | SGD | S&P Global Manufacturing PMI (Jul) |  |  | 50.0 |
+| 11:00 | EUR | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
+| 12:05 | ZAR | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
+| 12:05 | ZAR | Total Vehicle Sales (Jul) | 51.38K |  | 47.21K |
+| 12:30 | INR | FX Reserves, USD | 698.19B |  | 695.49B |
+| 13:00 | BRL | Industrial Production (MoM) (Jun) | 0.1% | 0.4% | -0.5% |
+| 17 min | USD | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |
+| 17 min | USD | Government Payrolls (Jul) |  |  | 73.0K |
+| 17 min | USD | Manufacturing Payrolls (Jul) |  | -3K | -7K |
+| 17 min | INR | Bank Loan Growth |  |  | 9.8% |
+| 17 min | INR | Deposit Growth |  |  | 10.1% |
+| 47 min | BRL | S&P Global Manufacturing PMI (Jul) |  |  | 48.3 |
+| 47 min | SGD | S&P Global Manufacturing PMI (Jul) |  |  | 50.0 |
 | 14:30 | CAD | S&P Global Manufacturing PMI (Jul) |  |  | 45.6 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jul) |  |  | 46.4 |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 66.8 | 64.8 |

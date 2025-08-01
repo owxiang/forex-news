@@ -11,8 +11,8 @@
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) | 48.0 |  | 48.7 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.9 | 48.8 | 50.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 46.9 |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 03:00 | IDR | Low | Core Inflation (YoY) (Jul) | 2.32% | 2.37% | 2.37% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jun) | 11.29% | 12.20% | 9.68% |
@@ -31,42 +31,40 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) | 49.8 | 48.7 | 48.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) | 48.2 | 48.4 | 48.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) | 49.1 | 49.2 | 49.2 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) | 0.6% | 0.3% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 1.0% |  | 1.4% |
 | 09:00 | NOK | Low | Manufacturing PMI (Jul) | 50.9 |  | 49.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 49.8 | 49.8 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 48.0 | 48.2 | 47.7 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.10 |  | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
-| 23 min | INR | Low | Bank Loan Growth |  |  | 9.8% |
-| 23 min | INR | Low | Deposit Growth |  |  | 10.1% |
-| 23 min | INR | Low | FX Reserves, USD |  |  | 695.49B |
-| 53 min | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.00% |
-| 53 min | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
-| 53 min | BRL | Low | Industrial Production (MoM) (Jun) |  | 0.4% | -0.5% |
-| 53 min | BRL | Moderate | Industrial Production (YoY) (Jun) |  | -0.6% | 3.3% |
-| 53 min | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
-| 53 min | ZAR | Low | Total Vehicle Sales (Jul) | 51.38K |  | 47.29K |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.8% | 3.7% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |
-| 13:30 | USD | Low | Government Payrolls (Jul) |  |  | 73.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Jul) |  | -3K | -7K |
-| 13:30 | USD | High | Nonfarm Payrolls (Jul) |  | 106K | 147K |
-| 13:30 | USD | Moderate | Participation Rate (Jul) |  |  | 62.3% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 100K | 74K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Jul) |  |  | 7.7% |
-| 13:30 | USD | High | Unemployment Rate (Jul) |  | 4.2% | 4.1% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 48.3 |
-| 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 50.0 |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
+| 12:05 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
+| 12:05 | ZAR | Low | Total Vehicle Sales (Jul) | 51.38K |  | 47.21K |
+| 12:30 | INR | Low | FX Reserves, USD | 698.19B |  | 695.49B |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | -1.3% | -0.6% | 3.3% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Jun) | 0.1% | 0.4% | -0.5% |
+| 17 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.8% | 3.7% |
+| 17 min | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.2% |
+| 17 min | USD | Low | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |
+| 17 min | USD | Low | Government Payrolls (Jul) |  |  | 73.0K |
+| 17 min | USD | Low | Manufacturing Payrolls (Jul) |  | -3K | -7K |
+| 17 min | USD | High | Nonfarm Payrolls (Jul) |  | 106K | 147K |
+| 17 min | USD | Moderate | Participation Rate (Jul) |  |  | 62.3% |
+| 17 min | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 100K | 74K |
+| 17 min | USD | Moderate | U6 Unemployment Rate (Jul) |  |  | 7.7% |
+| 17 min | USD | High | Unemployment Rate (Jul) |  | 4.2% | 4.1% |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 9.8% |
+| 17 min | INR | Low | Deposit Growth |  |  | 10.1% |
+| 47 min | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 48.3 |
+| 47 min | SGD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 50.0 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 45.6 |
 | 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) |  | 49.5 | 52.9 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Jun) |  | 0.0% | -0.3% |
