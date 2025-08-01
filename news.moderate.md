@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
-| 8 min | CNY | Caixin Manufacturing PMI (MoM) (Jul) |  | 50.2 | 50.4 |
-| 07:00 | GBP | Nationwide HPI (YoY) (Jul) |  | 2.1% | 2.1% |
+| 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) |  | 0.5% | -0.8% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Jul) |  | 2.1% | 2.1% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 51.7 | 51.4 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) |  | 48.7 | 48.4 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jul) |  | 48.4 | 48.1 |
