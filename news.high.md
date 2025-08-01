@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
+| 50 min | EUR | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 13:30 | USD | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.2% |
 | 13:30 | USD | Nonfarm Payrolls (Jul) |  | 106K | 147K |
 | 13:30 | USD | Unemployment Rate (Jul) |  | 4.2% | 4.1% |

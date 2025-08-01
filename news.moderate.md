@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
 | 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
+| 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
-| 4 min | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 51.7 | 51.4 |
-| 34 min | EUR | HCOB Italy Manufacturing PMI (Jul) |  | 48.7 | 48.4 |
-| 39 min | EUR | HCOB France Manufacturing PMI (Jul) |  | 48.4 | 48.1 |
-| 44 min | EUR | HCOB Germany Manufacturing PMI (Jul) |  | 49.2 | 49.2 |
-| 49 min | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.8 | 49.5 |
-| 09:30 | GBP | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 47.7 |
-| 10:00 | EUR | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
-| 10:00 | EUR | CPI (MoM) (Jul) |  |  | 0.3% |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 51.9 | 51.7 | 51.4 |
+| 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 49.8 | 48.7 | 48.4 |
+| 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 48.2 | 48.4 | 48.1 |
+| 08:55 | EUR | HCOB Germany Manufacturing PMI (Jul) | 49.1 | 49.2 | 49.2 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 49.8 | 49.8 | 49.5 |
+| 20 min | GBP | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 47.7 |
+| 50 min | EUR | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
+| 50 min | EUR | CPI (MoM) (Jul) |  |  | 0.3% |
 | 13:00 | BRL | Industrial Production (YoY) (Jun) |  | -0.6% | 3.3% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 3.8% | 3.7% |
 | 13:30 | USD | Participation Rate (Jul) |  |  | 62.3% |
