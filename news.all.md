@@ -11,41 +11,41 @@
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) | 48.0 |  | 48.7 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.9 | 48.8 | 50.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 46.9 |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 03:00 | IDR | Low | Core Inflation (YoY) (Jul) | 2.32% | 2.37% | 2.37% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jun) | 11.29% | 12.20% | 9.68% |
 | 03:00 | IDR | Low | Import Growth (YoY) (Jun) | 4.28% | 6.50% | 4.14% |
-| 03:00 | IDR | Low | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Low | Inflation (YoY) (Jul) | 2.37% | 2.24% | 1.87% |
+| 03:00 | IDR | Low | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Low | Trade Balance (Jun) | 4.11B | 3.55B | 4.30B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) | 59.1 | 59.2 | 58.4 |
-| 45 min | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.5% | -0.8% |
-| 45 min | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | 2.1% | 2.1% |
-| 45 min | NOK | Low | M3 Money Supply (Jun) |  |  | 3,388.0B |
-| 45 min | NOK | Low | Credit Indicator (YoY) (Jun) |  |  | 4.1% |
-| 45 min | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.00% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) (Jul) |  |  | -8.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
+| 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,422.2B |  | 3,388.0B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.1% |  | 4.1% |
+| 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 2.20% |  | 2.00% |
+| 18 min | AUD | Low | Commodity Prices (YoY) (Jul) |  |  | -8.7% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) |  | 51.7 | 51.4 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) |  | 48.7 | 48.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.4 | 48.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.2 | 49.2 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Jul) |  |  | 49.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.8 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 47.7 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Jul) |  |  | 43.1 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 5.60% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 695.49B |
@@ -63,8 +63,8 @@
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 100K | 74K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jul) |  |  | 7.7% |
 | 13:30 | USD | High | Unemployment Rate (Jul) |  | 4.2% | 4.1% |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 47.29K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  |  | 18.70% |
+| 13:30 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 47.29K |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 48.3 |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 50.0 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 45.6 |
