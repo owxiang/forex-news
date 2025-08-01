@@ -11,8 +11,8 @@
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) | 48.0 |  | 48.7 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.9 | 48.8 | 50.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 46.9 |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 03:00 | IDR | Low | Core Inflation (YoY) (Jul) | 2.32% | 2.37% | 2.37% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jun) | 11.29% | 12.20% | 9.68% |
@@ -21,8 +21,8 @@
 | 03:00 | IDR | Low | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Low | Trade Balance (Jun) | 4.11B | 3.55B | 4.30B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) | 59.1 | 59.2 | 58.4 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) | 3,422.2B |  | 3,388.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.1% |  | 4.1% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 2.20% |  | 2.00% |
@@ -36,25 +36,25 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Jul) | 50.9 |  | 49.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 49.8 | 49.8 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 48.0 | 48.2 | 47.7 |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.10 |  | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 12:05 | ZAR | Low | Total Vehicle Sales (Jul) | 51.38K |  | 47.21K |
 | 12:05 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
 | 12:30 | INR | Low | Bank Loan Growth | 9.8% |  | 9.5% |
 | 12:30 | INR | Low | Deposit Growth | 10.1% |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD | 698.19B |  | 695.49B |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | -1.3% | -0.6% | 3.3% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jun) | 0.1% | 0.4% | -0.6% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) | 0.3% | 0.3% | 0.2% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | -1.3% | -0.6% | 3.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) | 3.9% | 3.8% | 3.8% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jul) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (Jul) | 34.3 | 34.2 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Jul) | -10.0K |  | 11.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jul) | -11K | -3K | -15K |
@@ -65,19 +65,19 @@
 | 13:30 | USD | High | Unemployment Rate (Jul) | 4.2% | 4.2% | 4.1% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) | 48.2 |  | 48.3 |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jul) | 49.9 |  | 50.0 |
-| 12 min | CAD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 45.6 |
-| 27 min | USD | High | S&P Global Manufacturing PMI (Jul) |  | 49.5 | 52.9 |
-| 42 min | USD | Moderate | Construction Spending (MoM) (Jun) |  | 0.0% | -0.3% |
-| 42 min | USD | Moderate | ISM Manufacturing Employment (Jul) |  |  | 45.0 |
-| 42 min | USD | Low | ISM Manufacturing New Orders Index (Jul) |  |  | 46.4 |
-| 42 min | USD | High | ISM Manufacturing PMI (Jul) |  | 49.5 | 49.0 |
-| 42 min | USD | High | ISM Manufacturing Prices (Jul) |  | 69.9 | 69.7 |
-| 42 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 4.4% | 5.0% |
-| 42 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 3.6% | 4.0% |
-| 42 min | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 58.6 | 58.1 |
-| 42 min | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 61.8 | 60.7 |
-| 42 min | USD | Low | Michigan Current Conditions (Jul) |  | 66.8 | 64.8 |
-| 16:00 | MXN | Low | S&P Global Manufacturing PMI (Jul) |  |  | 46.30 |
+| 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jul) | 46.1 |  | 45.6 |
+| 14:45 | USD | High | S&P Global Manufacturing PMI (Jul) | 49.8 | 49.5 | 52.9 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Jun) | -0.4% | 0.0% | -0.4% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jul) | 43.4 | 46.8 | 45.0 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jul) | 47.1 | 48.7 | 46.4 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Jul) | 48.0 | 49.5 | 49.0 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Jul) | 64.8 | 69.9 | 69.7 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) | 4.5% | 4.4% | 5.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 3.4% | 3.6% | 4.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 57.7 | 58.6 | 58.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 61.7 | 61.8 | 60.7 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jul) | 68.0 | 66.8 | 64.8 |
+| 52 min | MXN | Low | S&P Global Manufacturing PMI (Jul) |  |  | 46.30 |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 415 |

@@ -30,8 +30,8 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 11:00 | EUR | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 11:00 | EUR | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
+| 11:00 | EUR | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 12:05 | ZAR | Total Vehicle Sales (Jul) | 51.38K |  | 47.21K |
 | 12:05 | ZAR | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
 | 12:30 | INR | Bank Loan Growth | 9.8% |  | 9.5% |
@@ -43,10 +43,10 @@
 | 13:30 | USD | Manufacturing Payrolls (Jul) | -11K | -3K | -15K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jul) | 48.2 |  | 48.3 |
 | 14:00 | SGD | S&P Global Manufacturing PMI (Jul) | 49.9 |  | 50.0 |
-| 12 min | CAD | S&P Global Manufacturing PMI (Jul) |  |  | 45.6 |
-| 42 min | USD | ISM Manufacturing New Orders Index (Jul) |  |  | 46.4 |
-| 42 min | USD | Michigan Current Conditions (Jul) |  | 66.8 | 64.8 |
-| 16:00 | MXN | S&P Global Manufacturing PMI (Jul) |  |  | 46.30 |
+| 14:30 | CAD | S&P Global Manufacturing PMI (Jul) | 46.1 |  | 45.6 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Jul) | 47.1 | 48.7 | 46.4 |
+| 15:00 | USD | Michigan Current Conditions (Jul) | 68.0 | 66.8 | 64.8 |
+| 52 min | MXN | S&P Global Manufacturing PMI (Jul) |  |  | 46.30 |
 | 17:00 | EUR | Italian Car Registration (YoY) (Jul) |  |  | -17.4% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 0.5K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 39.8K |

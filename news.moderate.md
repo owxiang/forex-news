@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
 | 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
+| 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 51.9 | 51.7 | 51.4 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 49.8 | 48.7 | 48.4 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Jul) | 48.2 | 48.4 | 48.1 |
@@ -20,12 +20,12 @@
 | 13:30 | USD | Participation Rate (Jul) | 62.2% |  | 62.3% |
 | 13:30 | USD | Private Nonfarm Payrolls (Jul) | 83K | 100K | 3K |
 | 13:30 | USD | U6 Unemployment Rate (Jul) | 7.9% |  | 7.7% |
-| 42 min | USD | Construction Spending (MoM) (Jun) |  | 0.0% | -0.3% |
-| 42 min | USD | ISM Manufacturing Employment (Jul) |  |  | 45.0 |
-| 42 min | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 4.4% | 5.0% |
-| 42 min | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.6% | 4.0% |
-| 42 min | USD | Michigan Consumer Expectations (Jul) |  | 58.6 | 58.1 |
-| 42 min | USD | Michigan Consumer Sentiment (Jul) |  | 61.8 | 60.7 |
+| 15:00 | USD | Construction Spending (MoM) (Jun) | -0.4% | 0.0% | -0.4% |
+| 15:00 | USD | ISM Manufacturing Employment (Jul) | 43.4 | 46.8 | 45.0 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) | 4.5% | 4.4% | 5.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) | 3.4% | 3.6% | 4.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) | 57.7 | 58.6 | 58.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) | 61.7 | 61.8 | 60.7 |
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 415 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
