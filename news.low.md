@@ -30,12 +30,12 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 50 min | EUR | Car Registration (MoM) (Jul) |  |  | 5.60% |
-| 50 min | EUR | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 12:30 | INR | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | FX Reserves, USD |  |  | 695.49B |
 | 13:00 | USD | Dallas Fed PCE (Jun) |  |  | 2.00% |
+| 13:00 | EUR | Car Registration (MoM) (Jul) |  |  | 5.60% |
+| 13:00 | EUR | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 13:00 | EUR | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
 | 13:00 | BRL | Industrial Production (MoM) (Jun) |  | 0.4% | -0.5% |
 | 13:30 | USD | Average Weekly Hours (Jul) |  | 34.2 | 34.2 |

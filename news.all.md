@@ -36,20 +36,20 @@
 | 09:00 | NOK | Low | Manufacturing PMI (Jul) | 50.9 |  | 49.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 49.8 | 49.8 | 49.5 |
 | 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) | 48.0 | 48.2 | 47.7 |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) | 2.3% | 2.3% | 2.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jul) | -0.2% |  | 0.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) | 0.0% |  | 0.3% |
 | 10:00 | EUR | High | CPI (YoY) (Jul) | 2.0% | 1.9% | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) | 129.10 |  | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Low | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 50 min | EUR | Low | Car Registration (MoM) (Jul) |  |  | 5.60% |
-| 50 min | EUR | Low | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 9.8% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 10.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 695.49B |
 | 13:00 | USD | Low | Dallas Fed PCE (Jun) |  |  | 2.00% |
+| 13:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 5.60% |
+| 13:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 15.20% |
 | 13:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 82.5 |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | 0.4% | -0.5% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | -0.6% | 3.3% |
