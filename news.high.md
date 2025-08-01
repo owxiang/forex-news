@@ -8,4 +8,4 @@
 | 13:30 | USD | Unemployment Rate (Jul) |  | 4.2% | 4.1% |
 | 14:45 | USD | S&P Global Manufacturing PMI (Jul) |  | 49.5 | 52.9 |
 | 15:00 | USD | ISM Manufacturing PMI (Jul) |  | 49.5 | 49.0 |
-| 15:00 | USD | ISM Manufacturing Prices (Jul) |  | 69.8 | 69.7 |
+| 15:00 | USD | ISM Manufacturing Prices (Jul) |  | 69.9 | 69.7 |

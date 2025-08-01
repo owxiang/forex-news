@@ -14,16 +14,16 @@
 | 03:00 | IDR | Core Inflation (YoY) (Jul) | 2.32% | 2.37% | 2.37% |
 | 03:00 | IDR | Export Growth (YoY) (Jun) | 11.29% | 12.20% | 9.68% |
 | 03:00 | IDR | Import Growth (YoY) (Jun) | 4.28% | 6.50% | 4.14% |
-| 03:00 | IDR | Inflation (YoY) (Jul) | 2.37% | 2.24% | 1.87% |
 | 03:00 | IDR | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
+| 03:00 | IDR | Inflation (YoY) (Jul) | 2.37% | 2.24% | 1.87% |
 | 03:00 | IDR | Trade Balance (Jun) | 4.11B | 3.55B | 4.30B |
-| 31 min | INR | S&P Global Manufacturing PMI (Jul) |  | 59.2 | 58.4 |
-| 07:00 | NOK | M3 Money Supply (Jun) |  |  | 3,388.0B |
-| 07:00 | NOK | Credit Indicator (YoY) (Jun) |  |  | 4.1% |
-| 07:00 | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 2.00% |
+| 06:00 | INR | S&P Global Manufacturing PMI (Jul) | 59.1 | 59.2 | 58.4 |
+| 45 min | NOK | M3 Money Supply (Jun) |  |  | 3,388.0B |
+| 45 min | NOK | Credit Indicator (YoY) (Jun) |  |  | 4.1% |
+| 45 min | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 2.00% |
 | 07:30 | AUD | Commodity Prices (YoY) (Jul) |  |  | -8.7% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
 | 09:00 | NOK | Manufacturing PMI (Jul) |  |  | 49.3 |
 | 10:00 | EUR | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | CPI, n.s.a (Jul) |  |  | 129.10 |
