@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
+| 02:30 | AUD | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:45 | CNY | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jul) | 2.4% | 2.1% | 2.1% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jul) | 0.6% | 0.5% | -0.9% |
@@ -29,6 +29,7 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q3) |  | 2.3% | 2.3% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 415 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
+| 20:10 | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 0.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 153.3K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 253.0K |
