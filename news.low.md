@@ -30,8 +30,8 @@
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 2.4% |  | 2.4% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | -0.1% |  | 0.3% |
 | 10:00 | ZAR | Manufacturing PMI (Jul) | 50.8 |  | 48.5 |
-| 11:00 | EUR | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 11:00 | EUR | Car Registration (YoY) (Jul) | 17.10% |  | 15.20% |
+| 11:00 | EUR | Car Registration (MoM) (Jul) | -17.50% |  | 5.60% |
 | 12:05 | ZAR | Total Vehicle Sales (YoY) (Jul) | 15.60% |  | 18.70% |
 | 12:05 | ZAR | Total Vehicle Sales (Jul) | 51.38K |  | 47.21K |
 | 12:30 | INR | Bank Loan Growth | 9.8% |  | 9.5% |

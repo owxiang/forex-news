@@ -27,8 +27,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Jul) | 57.7 | 58.6 | 58.1 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jul) | 61.7 | 61.8 | 60.7 |
 | 16:55 | USD | Atlanta Fed GDPNow (Q3) | 2.1% | 2.3% | 2.3% |
-| 52 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 415 |
-| 52 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 542 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 410 |  | 415 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 540 |  | 542 |
 | 20:10 | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 0.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 153.3K |
