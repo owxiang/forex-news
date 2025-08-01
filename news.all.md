@@ -11,18 +11,18 @@
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jul) | 48.0 |  | 48.7 |
 | 01:30 | JPY | Low | au Jibun Bank Manufacturing PMI (Jul) | 48.9 | 48.8 | 50.1 |
 | 01:30 | IDR | Low | S&P Global Manufacturing PMI (Jul) | 49.2 |  | 46.9 |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.4% |  | 3.7% |
+| 02:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.7% | 0.9% | 0.9% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (MoM) (Jul) | 49.5 | 50.2 | 50.4 |
 | 03:00 | IDR | Low | Core Inflation (YoY) (Jul) | 2.32% | 2.37% | 2.37% |
 | 03:00 | IDR | Low | Export Growth (YoY) (Jun) | 11.29% | 12.20% | 9.68% |
 | 03:00 | IDR | Low | Import Growth (YoY) (Jun) | 4.28% | 6.50% | 4.14% |
-| 03:00 | IDR | Low | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Low | Inflation (YoY) (Jul) | 2.37% | 2.24% | 1.87% |
+| 03:00 | IDR | Low | Inflation (MoM) (Jul) | 0.30% | 0.21% | 0.19% |
 | 03:00 | IDR | Low | Trade Balance (Jun) | 4.11B | 3.55B | 4.30B |
 | 06:00 | INR | Low | S&P Global Manufacturing PMI (Jul) |  | 59.2 | 58.4 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.5% | -0.8% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | 2.1% | 2.1% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | 0.5% | -0.8% |
 | 07:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,388.0B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  |  | 4.1% |
 | 07:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 2.00% |
@@ -30,16 +30,16 @@
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) |  | 51.7 | 51.4 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) |  | 48.7 | 48.4 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 48.4 | 48.1 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.2 | 49.0 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 49.2 | 49.2 |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.3% | -0.4% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  |  | 1.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Jul) |  |  | 49.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 49.8 | 49.5 |
-| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 47.7 |
+| 09:30 | GBP | Moderate | S&P Global Manufacturing PMI (Jul) |  | 48.2 | 48.2 |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jul) |  |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 2.3% | 2.3% |
-| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jul) |  |  | 0.3% |
+| 10:00 | EUR | High | CPI (YoY) (Jul) |  | 1.9% | 2.0% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 129.10 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  |  | 2.4% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  |  | 0.3% |
@@ -63,8 +63,8 @@
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 100K | 74K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jul) |  |  | 7.7% |
 | 13:30 | USD | High | Unemployment Rate (Jul) |  | 4.2% | 4.1% |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 47.29K |
 | 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  |  | 18.70% |
+| 13:30 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 47.29K |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  |  | 48.3 |
 | 14:00 | SGD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 50.0 |
 | 14:30 | CAD | Low | S&P Global Manufacturing PMI (Jul) |  |  | 45.6 |
@@ -74,7 +74,7 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jul) |  |  | 46.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Jul) |  | 49.5 | 49.0 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Jul) |  | 69.8 | 69.7 |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 4.4% | 5.0% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 4.4% | 4.4% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 3.6% | 4.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 58.6 | 58.1 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 61.8 | 60.7 |
